@@ -186,7 +186,7 @@ for (const current of tabs) {
     assert.equal(article.href, `/reviews/${article.slug}`);
     assert.ok(!Object.keys(article).some((key) => /code|coupon/i.test(key)), `${article.slug}: artigo sem código`);
   }
-  assert.equal(current.allArticles === undefined, expected.length <= 3, `${current.slug}: "Ver os N artigos" só acima de 3`);
+  assert.equal(current.allArticles === undefined, expected.length < 3, `${current.slug}: "Ver os N artigos" a partir de 3`);
   assert.equal(current.storePageUrl, `/cupons/${current.slug}`, `${current.slug}: página da loja em /cupons`);
 }
 
@@ -207,10 +207,19 @@ assert.ok(magaluPage);
 assert.equal(magaluPage.countLabel, '4 artigos da Cecília sobre o Magalu');
 assert.equal(magaluPage.description, '4 artigos da Cecília sobre o Magalu: guias e análises, do mais novo para o mais antigo.');
 assert.equal(magaluPage.storePageUrl, '/cupons/magalu');
-// Até 3 artigos a vitrine já mostra todos: sem subpágina. Com 4 (o Magalu acima), a página existe.
+// A partir de 3 artigos a loja tem subpágina; com 2, não.
 const tresArtigos = [1, 2, 3].map((id) => review(id, `artigo-${id}`, 'magalu', `2026-10-0${id}`));
-assert.equal(getStoreArticlesPage(tresArtigos, 'magalu', [store('magalu')]), null, 'com 3 artigos, sem subpágina');
-assert.deepEqual(getStoreArticlePageSlugs(tresArtigos, [store('magalu')]), []);
+assert.equal(getStoreArticlesPage(tresArtigos, 'magalu', [store('magalu')])?.countLabel, '3 artigos da Cecília sobre o Magalu', 'com 3 artigos, com subpágina');
+assert.deepEqual(getStoreArticlePageSlugs(tresArtigos, [store('magalu')]), ['magalu']);
+assert.deepEqual(
+  getHomeStoreTabs(tresArtigos, [store('magalu')])[0].allArticles,
+  { href: '/reviews/loja/magalu', label: 'Ver os 3 artigos do Magalu' },
+  'com 3 artigos, a vitrine leva à subpágina'
+);
+const doisArtigos = tresArtigos.slice(0, 2);
+assert.equal(getStoreArticlesPage(doisArtigos, 'magalu', [store('magalu')]), null, 'com 2 artigos, sem subpágina');
+assert.deepEqual(getStoreArticlePageSlugs(doisArtigos, [store('magalu')]), []);
+assert.equal(getHomeStoreTabs(doisArtigos, [store('magalu')])[0].allArticles, undefined, 'com 2 artigos, sem o Ver os N artigos');
 
 assert.deepEqual(
   getStoreArticlePageSlugs(fixtureReviews, [store('damie'), store('magalu'), store('shein')]),
@@ -222,9 +231,9 @@ assert.ok(pageSlugs.includes('damie'), 'a DAMIE tem subpágina');
 assert.deepEqual(
   pageSlugs,
   getActiveCoupons()
-    .filter((coupon) => listed.filter((item) => item.affiliate === coupon.slug).length > 3)
+    .filter((coupon) => listed.filter((item) => item.affiliate === coupon.slug).length >= 3)
     .map(({ slug }) => slug),
-  'subpágina para toda loja ativa com mais de 3 artigos'
+  'subpágina para toda loja ativa com 3 artigos ou mais'
 );
 assert.deepEqual(
   tabs.filter(({ allArticles }) => allArticles).map(({ slug }) => slug),

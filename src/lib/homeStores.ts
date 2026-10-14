@@ -17,6 +17,7 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
 
 const VISIBLE_ARTICLES = 3;
+const MIN_ARTICLES_FOR_PAGE = 3;
 const LATEST_LIMIT = 5;
 const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;
 // Foto da Cecília: bolinha e painel da vitrine.
@@ -51,10 +52,10 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
   return listed.filter((review) => review.affiliate === slug);
 }
 
-// Com até 3 artigos a vitrine já mostra todos: a loja só ganha o "Ver os N artigos" e a
-// subpágina /reviews/loja/{slug} quando passa disso (Bruno, 08/10).
+// A loja ganha o "Ver os N artigos", a subpágina /reviews/loja/{slug} e a bolinha de /reviews a partir de 3
+// artigos (Bruno, 14/10; de 08/10 até então, só acima de 3, quando a vitrine já não mostrava todos).
 function hasArticlesPage(articleCount: number): boolean {
-  return articleCount > VISIBLE_ARTICLES;
+  return articleCount >= MIN_ARTICLES_FOR_PAGE;
 }
 
 export function getStoreArticlesPath(slug: string): string {
@@ -105,7 +106,7 @@ export function getHomeStoreTabs(
   });
 }
 
-// Tudo o que a Cecília escreveu sobre uma loja ativa com mais de 3 artigos; as outras não têm subpágina.
+// Tudo o que a Cecília escreveu sobre uma loja ativa com 3 artigos ou mais; as outras não têm subpágina.
 export function getStoreArticlesPage<T extends StoreReview>(
   reviews: readonly T[],
   slug: string,

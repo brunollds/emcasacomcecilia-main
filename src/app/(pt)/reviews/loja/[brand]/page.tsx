@@ -21,7 +21,7 @@ import { getStoreShelfContent, type StoreShelfContent } from '@/lib/reviewsHub';
 
 // Tudo o que a Cecília escreveu sobre uma loja. A página da loja (/cupons/{slug}) responde qual é o
 // código e como usar; esta lista os artigos, na estante de /reviews. Só em português, e só para loja
-// ativa com mais de 3 artigos.
+// ativa com 3 artigos ou mais.
 
 export const dynamicParams = false;
 
