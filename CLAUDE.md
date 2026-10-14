@@ -30,6 +30,7 @@ npm run test:home-events     # datas comerciais: content/home-events.json, a fai
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
+npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 idiomas e dynamicParams = false em toda rota dinâmica
 npm run test:html-lang       # depois do build: <html lang> de cada rota
 npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
@@ -384,6 +385,14 @@ nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum n
 | `/sobre` | `src/app/(pt)/sobre/page.js` |
 | `/contato` | `src/app/(pt)/contato/page.js` |
 | `/faqs` | `src/app/(pt)/faqs/page.js` |
+| 404 | `src/app/global-not-found.js` (uma página só para o site todo: PT em destaque e os 9 idiomas embaixo; `NotFoundView` e `src/lib/notFoundPage.ts`) |
+
+**404 e rotas dinâmicas.** `notFound()` chamado durante a requisição devolve um HTML vazio
+(`<html id="__next_error__">`, bug vercel/next.js#99793), e a página só aparece depois do JavaScript.
+Por isso toda página sob um segmento dinâmico (`[slug]`, `[brand]`, `[locale]`) lista os endereços na build
+com `export const dynamicParams = false`: o endereço fora da lista cai no `global-not-found.js`
+(`experimental.globalNotFound`), que o Next gera na build com o HTML inteiro. O `test:not-found` barra rota
+dinâmica sem essa linha. Conteúdo novo só entra no ar com deploy, então a lista da build é sempre a do ar.
 
 ## Deploy (Hostinger)
 
