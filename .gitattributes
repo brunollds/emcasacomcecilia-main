@@ -39,6 +39,8 @@ public/images/about/partners/black-skull.png -text export-ignore
 public/images/about/partners/carolina-baby.webp -text export-ignore
 public/images/about/partners/damie.jpg -text export-ignore
 public/images/about/partners/dolce-gusto.avif -text export-ignore
+public/images/about/partners/dr-peanut-icon.png -text export-ignore
+public/images/about/partners/dr-peanut.png -text export-ignore
 public/images/about/partners/eos.jpg -text export-ignore
 public/images/about/partners/i-wanna-sleep.avif -text export-ignore
 public/images/about/partners/insider-icon.png -text export-ignore
@@ -67,6 +69,7 @@ public/images/logos/logo-em-casa-com-cecilia.png -text export-ignore
 public/images/logos/watermarks/black-skull.webp -text export-ignore
 public/images/logos/watermarks/damie.webp -text export-ignore
 public/images/logos/watermarks/dolce-gusto.webp -text export-ignore
+public/images/logos/watermarks/dr-peanut.webp -text export-ignore
 public/images/logos/watermarks/i-wanna-sleep.webp -text export-ignore
 public/images/logos/watermarks/insider.webp -text export-ignore
 public/images/logos/watermarks/lejour.webp -text export-ignore
