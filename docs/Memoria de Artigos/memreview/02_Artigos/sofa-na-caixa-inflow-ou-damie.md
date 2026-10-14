@@ -138,7 +138,9 @@ que não são (seção 6). É a primeira resposta do artigo.
 | Preços de 3 lugares: DAMIE modular 3 lugares com puff R$ 6.100 (R$ 4.590 no Pix); Inflow 3 lugares, 2 cantos e apoio de pé de R$ 5.031 a R$ 5.733 no Pix | Preço | Páginas de produto | — | 2026-10-14 | [x] Sim, com a data. Pegar um modelo comparável da Sofá na Caixa na redação |
 | Pix com 10% de desconto na DAMIE e na Inflow; cartão em 12x (DAMIE) e 10x (Inflow) | Fato oficial | Dossiê e home da Inflow | — | 2026-10-14 | [x] Sim |
 | A Sofá na Caixa passou por crise de entregas e reembolsos desde 2025 | Dado público | `sofa-na-caixa-crise-reclamacoes-procon-sp` | — | 2026-08 | [x] Sim, em uma frase e o link. Sem números novos sem print |
-| Reputação no Reclame Aqui das três | Dado público | Prints do Bruno | — | — | [ ] Só com prints (seção 11) |
+| Reclame Aqui, 6 meses (01/04 a 30/09/2026). **Sofá na Caixa:** Regular, 6,1; 6.947 reclamações; 100% respondidas; 56,1% resolvidas; 49,8% voltariam; nota do consumidor 4,66; resposta em 2 dias e 1 hora. **Inflow Sofá:** RA1000, 8,6; 144 reclamações; 98,6% respondidas; 94% resolvidas; 75% voltariam; nota 7,62; resposta em 7 dias e 13 horas. **Damie Móveis:** Ótima, 8,3; 218 reclamações; 100% respondidas; 86,7% resolvidas; 76% voltariam; nota 7,37; resposta em 13 horas | Dado público | Prints do Bruno de 14/10/2026 (`midia-staging/2026-10-14-pautas-sofa/reclame-aqui/`) | Abas de 6 meses | 2026-10-14 | [x] Sim, em tabela, com a data |
+| Principais problemas (até 3 anos): nas três, o primeiro é **atraso na entrega** (Sofá na Caixa 40,79%; Inflow 28,18%; DAMIE 50,36%) | Dado público | Idem | — | 2026-10-14 | [x] Sim. Dizer que atraso é a queixa comum do setor de sofá na caixa, nas três |
+| Leitura honesta: no Reclame Aqui, a **Inflow tem hoje o melhor selo (RA1000)** e a maior taxa de solução (94%); a DAMIE tem selo Ótima e a resposta mais rápida (13 horas); a Sofá na Caixa tem volume quase 50 vezes maior e selo Regular | Análise | Prints | — | 2026-10-14 | [x] Sim. O artigo não esconde que a concorrente vai melhor no selo: a DAMIE se diferencia pelo teste de 30 dias e pela garantia de 1 ano, não pelo Reclame Aqui |
 | CECILIA12: 12% em todo o site da DAMIE, todas as formas de pagamento, soma com o Pix e as promoções | Condição comercial | `couponsData.ts` e dossiê | — | 2026-10-14 | [x] Sim |
 
 ---
@@ -174,11 +176,13 @@ que não são (seção 6). É a primeira resposta do artigo.
 5. **O que tem dentro:** estrutura, espuma e peso; o que cada marca publica.
 6. **Teste em casa, trocas e garantia:** a seção que decide.
 7. **Preço de um sofá de 3 lugares.**
-8. **E a reputação?** A crise da Sofá na Caixa em uma frase, com link. Os números do Reclame Aqui
-   entram se houver prints.
+8. **E a reputação?** Tabela do Reclame Aqui das três (6 meses), com a leitura honesta: a Inflow
+   tem o melhor selo, a DAMIE responde mais rápido, e a Sofá na Caixa tem 6.947 reclamações e selo
+   Regular, com link para o artigo da crise. Nas três, a queixa principal é atraso na entrega.
 9. **Qual escolher:** por perfil (quer testar antes; quer o menor preço; precisa de entrega fora do
    Sul e do Sudeste).
-10. **A experiência da Cecília com a DAMIE:** curta, com link.
+10. **A experiência da Cecília com a DAMIE:** o depoimento do Bruno de 14/10/2026 (seção 11),
+    com link para `sofa-damie-modular-vale-a-pena`.
 11. **Cupom CECILIA12.**
 12. **Perguntas frequentes.**
 
