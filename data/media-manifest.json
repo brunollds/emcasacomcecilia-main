@@ -58873,6 +58873,342 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28108,
+      "sha256": "c0ef0f319c5c2dfa40b80dc095b2eebfc0dfa96ea7bd7809825a71fbf2add43d",
+      "width": 1164,
+      "height": 575,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 128,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69295,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c0ef0f319c5c2dfa40b80dc095b2eebfc0dfa96ea7bd7809825a71fbf2add43d/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c0ef0f319c5c2dfa40b80dc095b2eebfc0dfa96ea7bd7809825a71fbf2add43d/yesstyle-disponibilidade-produto-de-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.639Z",
+      "verification_etag_or_digest": "c0ef0f319c5c2dfa40b80dc095b2eebfc0dfa96ea7bd7809825a71fbf2add43d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21544,
+      "sha256": "0e6aa5a238b2e147b8a4b7c22d86ae4c94df90f6b18bb39911717faf81394970",
+      "width": 1164,
+      "height": 535,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 115,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 123,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 167,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68501,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69775,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70014,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70268,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70514,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0e6aa5a238b2e147b8a4b7c22d86ae4c94df90f6b18bb39911717faf81394970/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e6aa5a238b2e147b8a4b7c22d86ae4c94df90f6b18bb39911717faf81394970/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "0e6aa5a238b2e147b8a4b7c22d86ae4c94df90f6b18bb39911717faf81394970",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23638,
+      "sha256": "800d0bc0d6c6d943bf1480f1f97c8eeaac9c026e8146c4d4a04a1afaa6826a50",
+      "width": 1164,
+      "height": 535,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 143,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68780,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/800d0bc0d6c6d943bf1480f1f97c8eeaac9c026e8146c4d4a04a1afaa6826a50/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/800d0bc0d6c6d943bf1480f1f97c8eeaac9c026e8146c4d4a04a1afaa6826a50/yesstyle-disponibilidade-produto-es-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "800d0bc0d6c6d943bf1480f1f97c8eeaac9c026e8146c4d4a04a1afaa6826a50",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29352,
+      "sha256": "08fc9cd8ec51a7dd3af418277e3199fcc1e2c9633394f3768167d71a8ee98617",
+      "width": 1164,
+      "height": 575,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 122,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69034,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/08fc9cd8ec51a7dd3af418277e3199fcc1e2c9633394f3768167d71a8ee98617/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08fc9cd8ec51a7dd3af418277e3199fcc1e2c9633394f3768167d71a8ee98617/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "08fc9cd8ec51a7dd3af418277e3199fcc1e2c9633394f3768167d71a8ee98617",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28176,
+      "sha256": "81317b26ac5ed4269141bdb10057fb8eacf2ba0d49b0d35975487bf72940fb65",
+      "width": 1164,
+      "height": 575,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69536,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/81317b26ac5ed4269141bdb10057fb8eacf2ba0d49b0d35975487bf72940fb65/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81317b26ac5ed4269141bdb10057fb8eacf2ba0d49b0d35975487bf72940fb65/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "81317b26ac5ed4269141bdb10057fb8eacf2ba0d49b0d35975487bf72940fb65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29054,
+      "sha256": "1c48bfa6cd288146223601146a4db131252747d269e2700a35a1033ffc8f2b07",
+      "width": 1164,
+      "height": 575,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "storage_filename": "yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 118,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68198,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1c48bfa6cd288146223601146a4db131252747d269e2700a35a1033ffc8f2b07/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c48bfa6cd288146223601146a4db131252747d269e2700a35a1033ffc8f2b07/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "1c48bfa6cd288146223601146a4db131252747d269e2700a35a1033ffc8f2b07",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
       "media_kind": "image",
@@ -58980,6 +59316,466 @@
       "uploaded_at": null,
       "verified_at": "2026-10-13T01:32:03.288Z",
       "verification_etag_or_digest": "fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-alemanha-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-alemanha-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65918,
+      "sha256": "d25b70e346eefcc87dbd7bb3074788f79db337f13c987df45ab77a5eeb7bce33",
+      "width": 1592,
+      "height": 808,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-alemanha-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-alemanha-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 100,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-alemanha-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69267,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-alemanha-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d25b70e346eefcc87dbd7bb3074788f79db337f13c987df45ab77a5eeb7bce33/yesstyle-frete-alemanha-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d25b70e346eefcc87dbd7bb3074788f79db337f13c987df45ab77a5eeb7bce33/yesstyle-frete-alemanha-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "d25b70e346eefcc87dbd7bb3074788f79db337f13c987df45ab77a5eeb7bce33",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-coreia-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-coreia-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45572,
+      "sha256": "c8f74d5ae7e97b6dd28ea2940c0eee5ea4f3496e1001a9852de3a01b2c0097c0",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-coreia-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-coreia-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 80,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-coreia-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69747,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-coreia-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c8f74d5ae7e97b6dd28ea2940c0eee5ea4f3496e1001a9852de3a01b2c0097c0/yesstyle-frete-coreia-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c8f74d5ae7e97b6dd28ea2940c0eee5ea4f3496e1001a9852de3a01b2c0097c0/yesstyle-frete-coreia-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "c8f74d5ae7e97b6dd28ea2940c0eee5ea4f3496e1001a9852de3a01b2c0097c0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-espanha-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-espanha-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50550,
+      "sha256": "e8a8c46b167cf73d7d6fb76acbc5c672138336dd68f919b43c9225863172f746",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-espanha-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-espanha-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 115,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-espanha-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68752,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-espanha-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e8a8c46b167cf73d7d6fb76acbc5c672138336dd68f919b43c9225863172f746/yesstyle-frete-espanha-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e8a8c46b167cf73d7d6fb76acbc5c672138336dd68f919b43c9225863172f746/yesstyle-frete-espanha-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "e8a8c46b167cf73d7d6fb76acbc5c672138336dd68f919b43c9225863172f746",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75232,
+      "sha256": "2e403a515537cf6079088bbd94fddb84afc635cb1a31ef2bfd4780f7ea7b9363",
+      "width": 1592,
+      "height": 986,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 139,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68473,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e403a515537cf6079088bbd94fddb84afc635cb1a31ef2bfd4780f7ea7b9363/yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e403a515537cf6079088bbd94fddb84afc635cb1a31ef2bfd4780f7ea7b9363/yesstyle-frete-estados-unidos-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "2e403a515537cf6079088bbd94fddb84afc635cb1a31ef2bfd4780f7ea7b9363",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66894,
+      "sha256": "44f27b7271bdb64974c009077c46c962d582da48e5b42908a0500cf37e0d7c4b",
+      "width": 1592,
+      "height": 808,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-franca-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-franca-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 94,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69006,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/44f27b7271bdb64974c009077c46c962d582da48e5b42908a0500cf37e0d7c4b/yesstyle-frete-franca-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44f27b7271bdb64974c009077c46c962d582da48e5b42908a0500cf37e0d7c4b/yesstyle-frete-franca-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "44f27b7271bdb64974c009077c46c962d582da48e5b42908a0500cf37e0d7c4b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-italia-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-italia-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52434,
+      "sha256": "7834c64fbb3cddff948dafad700935e9e3956cad56f9efc69b41697b89abfd79",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-italia-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-italia-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 80,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-italia-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69508,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-italia-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7834c64fbb3cddff948dafad700935e9e3956cad56f9efc69b41697b89abfd79/yesstyle-frete-italia-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7834c64fbb3cddff948dafad700935e9e3956cad56f9efc69b41697b89abfd79/yesstyle-frete-italia-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "7834c64fbb3cddff948dafad700935e9e3956cad56f9efc69b41697b89abfd79",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-japao-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-japao-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44610,
+      "sha256": "6f4c73e87c4ab51655eae7845468762f172c4ab0cc275e0218a4468f4f1b40a9",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-japao-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-japao-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 80,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-japao-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69986,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-japao-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6f4c73e87c4ab51655eae7845468762f172c4ab0cc275e0218a4468f4f1b40a9/yesstyle-frete-japao-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6f4c73e87c4ab51655eae7845468762f172c4ab0cc275e0218a4468f4f1b40a9/yesstyle-frete-japao-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "6f4c73e87c4ab51655eae7845468762f172c4ab0cc275e0218a4468f4f1b40a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56596,
+      "sha256": "c2c57e206cfa94e2251c360b8397078ff5a9998ffd0cbe2d1a5d0cc9ac63c5e3",
+      "width": 1592,
+      "height": 834,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-portugal-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-portugal-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68170,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2c57e206cfa94e2251c360b8397078ff5a9998ffd0cbe2d1a5d0cc9ac63c5e3/yesstyle-frete-portugal-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2c57e206cfa94e2251c360b8397078ff5a9998ffd0cbe2d1a5d0cc9ac63c5e3/yesstyle-frete-portugal-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "c2c57e206cfa94e2251c360b8397078ff5a9998ffd0cbe2d1a5d0cc9ac63c5e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45352,
+      "sha256": "f857360f2f0d2fca90e3fa0fbfde3f66b99da9228f041f82055ceccf7fd9f4b9",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-singapura-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-singapura-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 87,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70486,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f857360f2f0d2fca90e3fa0fbfde3f66b99da9228f041f82055ceccf7fd9f4b9/yesstyle-frete-singapura-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f857360f2f0d2fca90e3fa0fbfde3f66b99da9228f041f82055ceccf7fd9f4b9/yesstyle-frete-singapura-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "f857360f2f0d2fca90e3fa0fbfde3f66b99da9228f041f82055ceccf7fd9f4b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-frete-taiwan-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-frete-taiwan-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44808,
+      "sha256": "658745b6cd05ec83028b5494916ed7305aeb10fdca1dd1f064aad597ac6a5fac",
+      "width": 1592,
+      "height": 716,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-frete-taiwan-2026-10-13.webp",
+      "storage_filename": "yesstyle-frete-taiwan-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 95,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-taiwan-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70240,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-frete-taiwan-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/658745b6cd05ec83028b5494916ed7305aeb10fdca1dd1f064aad597ac6a5fac/yesstyle-frete-taiwan-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/658745b6cd05ec83028b5494916ed7305aeb10fdca1dd1f064aad597ac6a5fac/yesstyle-frete-taiwan-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "658745b6cd05ec83028b5494916ed7305aeb10fdca1dd1f064aad597ac6a5fac",
       "verification_status": "verified"
     },
     {
@@ -59310,6 +60106,342 @@
       "uploaded_at": null,
       "verified_at": "2026-10-13T01:32:03.288Z",
       "verification_etag_or_digest": "e6f31639a104689e94aea8b71539cdf520fb4b5f3b4d2883f9f7d09c783e7909",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45262,
+      "sha256": "d46a6fc53599bfeb7526644ff3b080924cf5a6fd4a7927152b7aa0eb5c3d7610",
+      "width": 1544,
+      "height": 430,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 164,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69331,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d46a6fc53599bfeb7526644ff3b080924cf5a6fd4a7927152b7aa0eb5c3d7610/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d46a6fc53599bfeb7526644ff3b080924cf5a6fd4a7927152b7aa0eb5c3d7610/yesstyle-reembolso-alfandega-de-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "d46a6fc53599bfeb7526644ff3b080924cf5a6fd4a7927152b7aa0eb5c3d7610",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41386,
+      "sha256": "3d1e32a81c5b8a6336889934075c81c9fd9dc317a8ca922d2e3f889ea863ca7a",
+      "width": 1544,
+      "height": 430,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 142,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 142,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 150,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 157,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 206,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68540,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69809,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70048,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70302,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 70549,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3d1e32a81c5b8a6336889934075c81c9fd9dc317a8ca922d2e3f889ea863ca7a/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3d1e32a81c5b8a6336889934075c81c9fd9dc317a8ca922d2e3f889ea863ca7a/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "3d1e32a81c5b8a6336889934075c81c9fd9dc317a8ca922d2e3f889ea863ca7a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46698,
+      "sha256": "01d57bb8aeab1ea3befc36b787125908c26e0c95a30e6fffdb1475935b9f525b",
+      "width": 1544,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 178,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68815,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01d57bb8aeab1ea3befc36b787125908c26e0c95a30e6fffdb1475935b9f525b/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01d57bb8aeab1ea3befc36b787125908c26e0c95a30e6fffdb1475935b9f525b/yesstyle-reembolso-alfandega-es-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "01d57bb8aeab1ea3befc36b787125908c26e0c95a30e6fffdb1475935b9f525b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47378,
+      "sha256": "4c40c594de183473862f7d76a584da6d9569af2c7f6f6543c470f224ed67d3e5",
+      "width": 1544,
+      "height": 430,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69070,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c40c594de183473862f7d76a584da6d9569af2c7f6f6543c470f224ed67d3e5/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c40c594de183473862f7d76a584da6d9569af2c7f6f6543c470f224ed67d3e5/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "4c40c594de183473862f7d76a584da6d9569af2c7f6f6543c470f224ed67d3e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31428,
+      "sha256": "c82693b555aeebc640a6b2fdce5d78fcf3e96f64145ffcd9f9258364b5fd8037",
+      "width": 1544,
+      "height": 263,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 142,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 69570,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c82693b555aeebc640a6b2fdce5d78fcf3e96f64145ffcd9f9258364b5fd8037/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c82693b555aeebc640a6b2fdce5d78fcf3e96f64145ffcd9f9258364b5fd8037/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "c82693b555aeebc640a6b2fdce5d78fcf3e96f64145ffcd9f9258364b5fd8037",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49626,
+      "sha256": "fd440848af659e8db45a114ea9b268be2f803f76615bf1c89388e66c100ac1f4",
+      "width": 1544,
+      "height": 430,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "storage_filename": "yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 156,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 68236,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd440848af659e8db45a114ea9b268be2f803f76615bf1c89388e66c100ac1f4/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd440848af659e8db45a114ea9b268be2f803f76615bf1c89388e66c100ac1f4/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T00:50:38.640Z",
+      "verification_etag_or_digest": "fd440848af659e8db45a114ea9b268be2f803f76615bf1c89388e66c100ac1f4",
       "verification_status": "verified"
     },
     {

@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que a YesStyle publica sobre entrega, prazo, frete grátis e imposto no Brasil e em Portugal, o nosso pedido enviado ao Brasil em setembro de 2026 e como pedir o reembolso da taxa da alfândega.",
-  "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 06/10/2026, o envio ao Brasil e o reembolso da taxa.",
+  "description": "O que a YesStyle publica sobre entrega, prazo, frete grátis, imposto, devolução e pagamento no Brasil e em Portugal, o nosso pedido enviado ao Brasil em setembro de 2026 e como pedir o reembolso da taxa da alfândega.",
+  "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 13/10/2026, o envio ao Brasil e o reembolso da taxa.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
@@ -35,7 +36,7 @@
         "**Portugal:** envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço."
       ],
       "postParagraphs": [
-        "Os números de Portugal vêm da tabela de frete da YesStyle em vigor desde 6 de outubro de 2026, lida em 12/10/2026. Os valores estão em dólar, como a loja publica."
+        "Os números de Portugal vêm da tabela de frete da YesStyle em vigor desde 13 de outubro de 2026 (07:15 GMT), lida no mesmo dia. Os valores estão em dólar, como a loja publica."
       ]
     },
     {
@@ -44,7 +45,7 @@
         "Ao prazo do envio se soma o tempo para o item sair do armazém, explicado mais abaixo."
       ],
       "comparisonTable": {
-        "caption": "Prazo e frete da YesStyle para Portugal e para o Brasil, pela tabela em vigor desde 06/10/2026, lida em 12/10/2026.",
+        "caption": "Prazo e frete da YesStyle para Portugal e para o Brasil, pela tabela em vigor desde 13/10/2026, lida no mesmo dia.",
         "headers": [
           "País",
           "Envio e prazo",
@@ -54,7 +55,7 @@
         "rows": [
           [
             "Portugal",
-            "Standard, 10 a 15 dias úteis, com rastreio; também com retirada num ponto de coleta, no mesmo prazo e preço",
+            "Padrão (Standard), 10 a 15 dias úteis, com rastreio; também com retirada num ponto de coleta (Retirada Padrão), no mesmo prazo e preço",
             "a partir de US$ 60",
             "US$ 5"
           ],
@@ -76,14 +77,29 @@
     {
       "heading": "O que a loja mostra sobre o Brasil",
       "paragraphs": [
-        "A tabela de frete de 6 de outubro de 2026 e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho de 2026, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
+        "A tabela de frete de 13 de outubro de 2026 e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho de 2026, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
         "Mesmo assim, o nosso pedido de 17/09/2026 foi enviado em 19/09/2026 pela Anjun Express. Enquanto a loja não publica a linha do Brasil, confira o frete e o prazo no checkout, antes de pagar."
       ]
     },
     {
+      "heading": "Frete grátis em Portugal: o que entra na conta",
+      "paragraphs": [
+        "Em Portugal, o frete fica grátis quando o total do pedido chega a US$ 60, no Padrão e na Retirada Padrão. A taxa da embalagem de presente não entra nesse total, diz a nota da tabela."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-portugal-2026-10-13.webp",
+        "alt": "Tabela de frete da YesStyle com destino Portugal: envio Padrão e Retirada Padrão grátis a partir de US$ 60 e de US$ 5 abaixo disso, prazo de 10 a 15 dias úteis e código de rastreamento nos dois, com a nota de que a taxa de embalagem para presente não entra no cálculo do frete e a data de 13 de outubro de 2026",
+        "caption": "A linha de Portugal na tabela de frete da YesStyle, em vigor desde 13/10/2026 (07:15 GMT), com a nota sobre a embalagem de presente.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9089
+      }
+    },
+    {
       "heading": "Como se conta o prazo",
       "paragraphs": [
-        "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo total é o tempo para o item ficar disponível mais o prazo do envio: o item em estoque sai em 1 a 3 dias úteis, e o marcado como \"Awaiting Stock\" leva de 3 a 30 dias úteis a mais, conforme a página do produto."
+        "Todo pedido sai do armazém da YesStyle em Hong Kong. O prazo total é o tempo para o item ficar disponível mais o prazo do envio, e a loja conta os dois em dias úteis, no horário de Hong Kong (GMT+8).",
+        "Em Portugal, um pedido só com itens em estoque leva de 11 a 18 dias úteis: 1 a 3 para sair do armazém e 10 a 15 de envio.",
+        "Se o pagamento precisar de verificação, a contagem começa no dia em que o pedido é aprovado. Feriados e picos de pedidos também podem atrasar a saída."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -92,6 +108,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "Em estoque ou Aguardando estoque: o que diz a página do produto",
+      "paragraphs": [
+        "A página de cada produto mostra a disponibilidade ao lado da versão. Ela diz quando o item sai do armazém, não quando ele chega."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-pt-2026-10-13.webp",
+        "alt": "Página de produto da YesStyle do creme Dr. Althea 345 Relief Cream, com preço de US$ 22.95 numa oferta de 15% com contagem regressiva e a Versão 2025 de 50 ml marcada Em estoque, acima do botão Adicionar à sacola",
+        "caption": "Página de um produto na YesStyle em 13/10/2026, com a disponibilidade Em estoque ao lado da versão. O preço e a oferta são os daquele dia.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0243
+      },
+      "bullets": [
+        "**Em estoque:** o item sai do armazém em 1 a 3 dias úteis.",
+        "**Aguardando estoque: 3-5 dias:** o item vem de um armazém regional da loja e sai em 3 a 5 dias úteis.",
+        "**Aguardando estoque: 7, 7-14, 21 ou 30 dias:** a loja compra o item do fornecedor depois do pedido, e ele sai do armazém nesse prazo, em dias úteis."
+      ],
+      "postParagraphs": [
+        "Pedido com um item em estoque e outro aguardando estoque normalmente sai junto, quando o último fica disponível. Com um item de 7-14 dias, o pedido para Portugal passa a levar de 17 a 29 dias úteis."
+      ]
     },
     {
       "heading": "Imposto: o que já vem no preço e o que chega depois",
@@ -105,28 +142,62 @@
       "bullets": [
         "**Portugal:** o IVA de 23% já está no preço dos produtos e é somado ao frete no checkout. Desde 1º de julho de 2026, a União Europeia cobra € 3 por categoria aduaneira em pacotes abaixo de € 150, e a YesStyle diz que, atualmente, paga essa taxa pelo cliente.",
         "**Brasil:** a YesStyle não tem página de imposto para o Brasil e não está no Remessa Conforme (lista da Receita Federal lida em 12/10/2026). Fora do programa, a Receita cobra Imposto de Importação de 60%, sem desconto, sobre o produto, o frete e o seguro, mais ICMS de 17% a 20% conforme o estado, depois que o pacote chega."
+      ],
+      "postParagraphs": [
+        "Um exemplo pela regra da Receita, num pedido de US$ 60 somando produto e frete: o Imposto de Importação é de US$ 36. O ICMS é calculado por dentro: com 20%, a base vira US$ 120 (os US$ 96 divididos por 0,8), e o ICMS fica em US$ 24. O imposto soma US$ 60, o mesmo valor do pedido; com ICMS de 17%, cerca de US$ 56."
       ]
     },
     {
       "heading": "Se o pacote for taxado",
       "paragraphs": [
-        "A YesStyle reembolsa os impostos e as taxas de alfândega cobrados na entrega em pedidos abaixo de US$ 1.000, contados antes do cupom e sem o frete. Pague a cobrança, guarde o comprovante e mande por e-mail ao atendimento em até 30 dias da data do comprovante; o reembolso vem em crédito na loja.",
-        "No Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS: pergunte ao atendimento antes de contar com ele.",
-        "Ficam de fora as taxas do correio e da transportadora, como armazenagem, retirada e pacote não retirado ou devolvido, e o imposto já cobrado no checkout, como o IVA de Portugal. Quem recusa o pacote por causa da taxa não recebe reembolso nem reenvio."
+        "**A YesStyle reembolsa os impostos e as taxas de alfândega cobrados na entrega em pedidos abaixo de US$ 1.000**, contados antes do cupom e sem o frete. O reembolso vem em crédito na loja."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos do YesStyle abaixo de US$ 1.000 e o item 1, que diz que a oferta vale desde 7 de maio de 2018, também no valor equivalente em outras moedas",
+        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, em vigor desde 7 de maio de 2018, lida em 13/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 3.5907
+      },
+      "bullets": [
+        "**Pague a cobrança** quando o pacote chegar: quem recusa o pacote por causa da taxa não recebe reembolso nem reenvio.",
+        "**Guarde o comprovante** do pagamento, com a data.",
+        "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
+      ],
+      "postParagraphs": [
+        "No Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS: pergunte ao atendimento antes de contar com ele. No exemplo de US$ 60, os US$ 36 do Imposto de Importação entram no reembolso; sobre os US$ 24 do ICMS, a política não diz nada.",
+        "Ficam de fora as taxas do correio e da transportadora, como armazenagem, retirada e pacote não retirado ou devolvido, e o imposto já cobrado no checkout, como o IVA de Portugal."
       ]
     },
     {
-      "heading": "Se o pacote atrasar ou precisar voltar",
+      "heading": "Se o pacote atrasar, se perder ou voltar à loja",
       "paragraphs": [
-        "Pacote perdido é reenviado sem custo, pela garantia da loja (The YesStyle Promise). Pacote que volta à loja por endereço errado, por entrega sem sucesso ou por não ter sido retirado só é reenviado com taxa de manuseio e novo frete.",
-        "Para devolver um produto, peça o número de RMA em até 14 dias do recebimento; produto de beleza aberto e suplemento não voltam, e o reembolso padrão vem em crédito na loja.",
-        "Quem opera a YesStyle e o que observar antes de comprar estão no guia de confiança."
+        "Se o pacote não chegou no prazo, fale com o atendimento. Pacote perdido é reenviado sem taxa de manuseio nem frete, pela garantia da loja (A Promessa do YesStyle).",
+        "Pacote que volta à loja por endereço errado, por entrega sem sucesso ou por não ter sido retirado só é reenviado com taxa de manuseio e novo frete."
+      ]
+    },
+    {
+      "heading": "Como devolver um produto",
+      "bullets": [
+        "**Prazo:** peça o número de RMA em até 14 dias do recebimento, pela página de RMA da sua conta (para desistência e troca de tamanho) ou pelo atendimento, e despache o pacote em até 30 dias da emissão do RMA.",
+        "**Para onde:** o pacote volta ao escritório da loja em Hong Kong ou aos parceiros de devolução nos Estados Unidos e no Canadá; a loja sugere correio registrado.",
+        "**O que não volta:** produto de beleza aberto, suplemento, item de oferta como Buy 1 Get 1 Free, Clearance, Lucky Bundle e Deals, e itens de uso íntimo, como roupa de banho, roupa íntima, brinco e peruca.",
+        "**Alergia ou reação na pele:** não dá direito a reembolso nem a devolução.",
+        "**Reembolso:** vem em crédito na loja, em geral em até 7 dias depois que a devolução é processada; a pedido, volta na forma de pagamento, em até 14 dias úteis ou mais. O cupom e o frete não são reembolsados.",
+        "**Defeito:** peça o RMA ao atendimento, com fotos; a loja cobre o frete da devolução por correio aéreo ou registrado."
       ],
       "links": [
         {
           "label": "YesStyle é confiável? O que observar antes de comprar",
           "href": "/reviews/yesstyle-e-confiavel"
         }
+      ]
+    },
+    {
+      "heading": "Como pagar",
+      "paragraphs": [
+        "A página de pagamento da YesStyle lista cartões Visa, Mastercard, American Express e JCB, PayPal, Google Pay e Apple Pay. Os preços saem em dólar; em outra moeda, a loja converte pelo câmbio dela na hora do pedido.",
+        "Como a loja fica em Hong Kong, o banco pode cobrar taxa de transação internacional."
       ]
     },
     {
@@ -146,13 +217,13 @@
       "bullets": [
         "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, um pedido nosso foi enviado em 19/09/2026 pela Anjun Express, embora o país não esteja na tabela e a loja não publique prazo.",
         "A YesStyle voltou a entregar no Brasil? A loja não publicou aviso de retomada depois da pausa de 3 de julho de 2026, mas um pedido nosso feito em 17/09/2026 foi enviado dois dias depois.",
-        "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 10 a 15 dias úteis no Standard, mais 1 a 3 dias úteis para o item em estoque sair de Hong Kong; para o Brasil, a loja não publica prazo.",
-        "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
-        "A YesStyle tem taxa ou imposto? Em Portugal, o IVA de 23% já vem no preço; no Brasil, pela regra da Receita Federal para quem está fora do Remessa Conforme, o pacote paga Imposto de Importação de 60% mais ICMS, cobrados depois que ele chega.",
+        "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
+        "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
+        "A YesStyle tem taxa ou imposto? Em Portugal, o IVA de 23% já vem no preço; no Brasil, pela regra da Receita Federal para quem está fora do Remessa Conforme, o pacote paga Imposto de Importação de 60% mais ICMS depois que chega, cerca de US$ 56 a US$ 60 num pedido de US$ 60.",
         "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
         "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
-        "Como devolver um produto da YesStyle? Peça o número de RMA ao atendimento em até 14 dias do recebimento; produto de beleza aberto não volta.",
-        "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade de cada item, que pode levar até 30 dias úteis, ao prazo do envio.",
+        "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
+        "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido normalmente sai junto, quando o último item fica disponível.",
         "Onde ficam os cupons e o código de recompensa da YesStyle? Na página da YesStyle aqui do site, com os cupons do momento e o CECILIA010, que vai no campo Reward Code."
       ]
     }

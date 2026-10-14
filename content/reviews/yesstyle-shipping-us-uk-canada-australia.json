@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "What YesStyle publishes about delivery times, free shipping and taxes for the US, UK, Canada, Australia, Ireland and New Zealand, and how to get customs charges refunded.",
-  "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 6, 2026 table.",
+  "description": "What YesStyle publishes about delivery times, free shipping, taxes, returns and payment for the US, UK, Canada, Australia, Ireland and New Zealand, and how to get customs charges refunded.",
+  "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 13, 2026 table.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -35,7 +36,7 @@
         "This version covers the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand; the other language versions of this guide cover other countries."
       ],
       "bullets": [
-        "**United States:** Standard takes 7 to 11 business days and is free from US$ 35 (US$ 6 below that). Express takes 3 to 5 business days and is free from US$ 150. Sales tax and Import Fees are added at checkout.",
+        "**United States:** Standard takes 7 to 11 business days and is free from US$ 35 (US$ 6 below that). Express takes 3 to 5 business days and is free from US$ 200. Sales tax and Import Fees are added at checkout.",
         "**United Kingdom:** Premium Standard takes 5 to 12 business days and is free from US$ 50 (US$ 5 below that). Express takes 3 to 5 business days and is free from US$ 100. The 20% VAT is already in the price.",
         "**Canada:** Premium Standard takes 7 to 14 business days and is free from US$ 50 (US$ 6 below that). Only Saskatchewan has tax added at checkout, a 6% PST. The store's page does not mention the federal GST.",
         "**Australia:** Premium Standard takes 6 to 8 business days and is free from US$ 35 (US$ 5.50 below that). Express takes 3 to 5 business days and is free from US$ 100. The 10% GST is already in the price.",
@@ -43,7 +44,7 @@
         "**New Zealand:** Premium Standard takes 7 to 14 business days and is free from US$ 35 (US$ 5 below that). Express takes 3 to 5 business days and is free from US$ 100. The 15% GST is already in the price."
       ],
       "postParagraphs": [
-        "The figures come from YesStyle's shipping table, in force since October 6, 2026, and from its tax pages for each region, both read on October 12, 2026. Amounts are in US dollars, as the store publishes them."
+        "The figures come from YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT) and read the same day, and from its tax pages for each region, read on October 12, 2026. Amounts are in US dollars, as the store publishes them."
       ]
     },
     {
@@ -52,7 +53,7 @@
         "The time for the item to leave the warehouse, explained below, comes on top of the shipping time."
       ],
       "comparisonTable": {
-        "caption": "YesStyle delivery time and shipping cost for the US, UK, Canada, Australia, Ireland and New Zealand, from the table in force since October 6, 2026, read on October 12, 2026.",
+        "caption": "YesStyle delivery time and shipping cost for the US, UK, Canada, Australia, Ireland and New Zealand, from the table in force since October 13, 2026, read the same day.",
         "headers": [
           "Country",
           "Shipping method and time",
@@ -69,8 +70,8 @@
           [
             "United States",
             "Express, 3 to 5 business days",
-            "from US$ 150",
-            "US$ 7 from US$ 100 to under US$ 150; US$ 11 below US$ 100"
+            "from US$ 200",
+            "US$ 9 from US$ 80 to under US$ 200; US$ 20 below US$ 80"
           ],
           [
             "United Kingdom (Northern Ireland is not served at the moment)",
@@ -130,9 +131,24 @@
       ]
     },
     {
+      "heading": "Free shipping: what counts toward the minimum",
+      "paragraphs": [
+        "In the US, Standard is free from US$ 35 and Express from US$ 200; the minimums for the other countries are in the table above. Gift-wrapping fees do not count toward that total, as the table's note says. The US table also says health and beauty supplements ship only by Standard, so the store asks for separate orders when needed."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-estados-unidos-2026-10-13.webp",
+        "alt": "YesStyle shipping table for the United States: Express free from US$ 200, US$ 9 between US$ 80 and US$ 200 and US$ 20 below US$ 80, in 3 to 5 business days; Standard free from US$ 35 and US$ 6 below that, in 7 to 11 business days; tracking on both, with the notes that gift-wrapping fees are excluded from shipping rates and that health and beauty supplements only ship by Standard, and the date of October 13, 2026",
+        "caption": "The United States row in YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT), with the note on gift wrapping.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6146
+      }
+    },
+    {
       "heading": "How delivery time is counted",
       "paragraphs": [
-        "Every order ships from YesStyle's warehouse in Hong Kong. The total time is the time for the item to become available plus the shipping time: an item in stock leaves the warehouse in 1 to 3 business days, and one marked \"Awaiting Stock\" takes 3 to 30 business days more, depending on the product page."
+        "Every order ships from YesStyle's warehouse in Hong Kong. The total time is the time for the item to become available plus the shipping time, and the store counts both in business days, in Hong Kong time (GMT+8).",
+        "In the US, an order with in-stock items only takes 8 to 14 business days by Standard: 1 to 3 to leave the warehouse and 7 to 11 of shipping.",
+        "If the payment needs verification, the count starts on the day the order is approved. Holidays and order peaks can also delay dispatch."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -141,6 +157,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "In-Stock or Awaiting Stock: what the product page shows",
+      "paragraphs": [
+        "Each product page shows the availability next to the version. It says when the item leaves the warehouse, not when it arrives."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+        "alt": "YesStyle product page for the Dr. Althea 345 Relief Cream, priced at US$ 22.95 in a 15% off deal with a countdown, with the 2025 Version - 50ml option marked In-Stock, above the ADD TO BAG button",
+        "caption": "A product page on YesStyle on October 13, 2026, with the In-Stock availability next to the version. The price and the offer are those of that day.",
+        "objectFit": "contain",
+        "aspectRatio": 2.1757
+      },
+      "bullets": [
+        "**In-Stock:** the item leaves the warehouse in 1 to 3 business days.",
+        "**Awaiting Stock: 3-5 days:** the item comes from one of the store's regional warehouses and leaves in 3 to 5 business days.",
+        "**Awaiting Stock: 7, 7-14, 21 or 30 days:** the store buys the item from the supplier after the order, and it leaves the warehouse within that time, in business days."
+      ],
+      "postParagraphs": [
+        "An order with one in-stock item and one awaiting-stock item usually ships together, when the last one becomes available. With a 7-14 days item, a US Standard order takes 14 to 25 business days."
+      ]
     },
     {
       "heading": "Tax: what is already in the price and what is added at checkout",
@@ -163,22 +200,53 @@
     {
       "heading": "If the package is taxed",
       "paragraphs": [
-        "YesStyle refunds the taxes and customs fees charged on delivery on orders under US$ 1,000. The order value is counted before the coupon and without shipping. Pay the charge, keep the receipt and email it to customer service within 30 days of the date on the receipt; the refund comes as store credit.",
-        "The refund does not cover sales tax, postal and carrier fees (storage, pickup, and packages that are not collected or are sent back), or any tax already charged at checkout. Here, that means the US sales tax and Import Fees, the UK and Irish VAT, the Australian and New Zealand GST and Saskatchewan's PST. If you refuse the package because of the fee, you get neither a refund nor a reshipment."
+        "**YesStyle refunds the taxes and customs fees charged on delivery for orders under US$ 1,000**, counted before the coupon and without shipping. The refund comes as store credit."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+        "alt": "YesStyle page with the blue banner Refunds for customs-related taxes and fees incurred on all YesStyle orders under US$ 1,000 and item 1, which says the offer has been in effect since May 7, 2018, also for the equivalent amount in other currencies",
+        "caption": "YesStyle's refund page for customs-related taxes and fees, in force since May 7, 2018, read on October 13, 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 3.5907
+      },
+      "bullets": [
+        "**Pay the charge** when the package arrives: if you refuse the package because of the charge, you get neither a refund nor a reshipment.",
+        "**Keep the receipt** of the payment, with its date.",
+        "**Email the receipt** to YesStyle customer service within 30 days of its date. Without a receipt, or after 30 days, the store does not review the request."
+      ],
+      "postParagraphs": [
+        "The refund does not cover sales tax, postal and carrier fees (storage, pickup, and packages that are not collected or are sent back), or any tax already charged at checkout. Here, that means the US sales tax and Import Fees, the UK and Irish VAT, the Australian and New Zealand GST and Saskatchewan's PST."
       ]
     },
     {
-      "heading": "If the package is late or has to come back",
+      "heading": "If the package is late, lost or comes back",
       "paragraphs": [
-        "A lost package is reshipped at no cost, under the store's guarantee (The YesStyle Promise). A package that returns to the store (wrong address, failed delivery or not collected) is reshipped only for a handling fee plus new shipping.",
-        "To return a product, ask for an RMA number within 14 days of receiving it. Opened beauty products and supplements cannot be returned, and the standard refund comes as store credit.",
-        "Who runs YesStyle and what to check before buying are in the trust guide."
+        "If the package did not arrive on time, contact customer service. A lost package is reshipped with no handling fee and no shipping cost, under the store's guarantee (The YesStyle Promise).",
+        "A package that goes back to the store because of a wrong address, a failed delivery or because it was not collected is reshipped only for a handling fee plus new shipping."
+      ]
+    },
+    {
+      "heading": "How to return a product",
+      "bullets": [
+        "**Deadline:** request the RMA number within 14 days of receipt, through the RMA page of your account (for change of mind and size exchange) or through customer service, and ship the package within 30 days of the RMA being issued.",
+        "**Where to:** the package goes back to the store's office in Hong Kong or to its returns partners in the United States and Canada; the store suggests registered mail.",
+        "**What cannot be returned:** opened beauty products, supplements, items from offers such as Buy 1 Get 1 Free, Clearance, Lucky Bundle and Deals, and intimate-use items such as swimwear, underwear, earrings and wigs.",
+        "**Allergy or skin reaction:** gives no right to a refund or a return.",
+        "**Refund:** comes as store credit, usually within 7 days after the return is processed; on request, it goes back to the payment method, within 14 business days or more. The coupon and the shipping are not refunded.",
+        "**Defect:** request the RMA from customer service, with photos; the store covers the return shipping by air mail or registered mail."
       ],
       "links": [
         {
           "label": "Is YesStyle Legit and Safe? What to Know Before Shopping",
           "href": "/en/reviews/is-yesstyle-legit-and-safe-review"
         }
+      ]
+    },
+    {
+      "heading": "How to pay",
+      "paragraphs": [
+        "YesStyle's payment page lists Visa, Mastercard, American Express and JCB cards, PayPal, Google Pay and Apple Pay. Prices are in US dollars; in another currency, the store converts at its own rate at the time of the order.",
+        "Because the store is in Hong Kong, your bank may charge an international transaction fee."
       ]
     },
     {
@@ -196,15 +264,15 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Yes. All six countries are in the store's shipping table, in force since October 6, 2026.",
-        "How long does YesStyle delivery take? The standard method takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand. Express takes 3 to 5 business days in the US, UK, Australia and New Zealand. An item in stock needs another 1 to 3 business days to leave the Hong Kong warehouse.",
-        "When is shipping free at YesStyle? The standard method is free from US$ 35 in the US, Australia and New Zealand, from US$ 50 in the UK and Canada, and from US$ 45 in Ireland. Express is free from US$ 150 in the US and from US$ 100 in the UK, Australia and New Zealand.",
+        "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Yes. All six countries are in the store's shipping table, in force since October 13, 2026.",
+        "How long does YesStyle delivery take? The standard method takes 7 to 11 business days in the US, 5 to 12 in the UK, 7 to 14 in Canada, 6 to 8 in Australia, 12 to 18 in Ireland and 7 to 14 in New Zealand. Express takes 3 to 5 business days in the US, UK, Australia and New Zealand. In the US, an order with in-stock items only takes 8 to 14 business days by Standard: 1 to 3 to leave the Hong Kong warehouse and 7 to 11 of shipping.",
+        "When is shipping free at YesStyle? Not counting gift wrapping, the standard method is free from US$ 35 in the US, Australia and New Zealand, from US$ 50 in the UK and Canada, and from US$ 45 in Ireland. Express is free from US$ 200 in the US and from US$ 100 in the UK, Australia and New Zealand.",
         "Does YesStyle charge taxes or duties? In the UK, Australia, Ireland and New Zealand, the VAT or GST is already in the price (20% in the UK, 10% in Australia, 23% in Ireland and 15% in New Zealand). In the US, sales tax and Import Fees are added at checkout. In Canada, only Saskatchewan has a 6% PST added at checkout.",
         "Does YesStyle refund customs fees? Yes, as store credit, on orders under US$ 1,000, if you send the receipt to customer service within 30 days. Tax already charged at checkout is not refunded.",
         "How do I pay at YesStyle? With a Visa, Mastercard, American Express or JCB card, PayPal, Apple Pay or Google Pay. Your bank may charge an international transaction fee.",
-        "How do I return a YesStyle product? Ask customer service for an RMA number within 14 days of receiving it; an opened beauty product cannot be returned.",
+        "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days; opened beauty products and supplements cannot be returned, and a skin reaction gives no refund.",
         "Does YesStyle ship to US territories and Northern Ireland? To US territories, yes: places such as Puerto Rico, Guam and the US Virgin Islands have their own table, with Standard in 9 to 14 business days and free shipping from US$ 80. Northern Ireland is not served at the moment.",
-        "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time.",
+        "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order usually ships together, when the last item becomes available.",
         "Where can I find YesStyle's coupons and the Reward Code? On the YesStyle page on this site, which lists today's coupons and the CECILIA010 Reward Code. The code goes in the Reward Code field at checkout."
       ]
     }

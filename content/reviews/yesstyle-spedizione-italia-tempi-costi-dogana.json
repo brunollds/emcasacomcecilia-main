@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Cosa pubblica YesStyle su tempi di consegna, spedizione gratuita e imposte in Italia, come si contano i tempi e come chiedere il rimborso delle spese doganali.",
-  "metaDescription": "YesStyle spedisce in Italia? Tempi, spedizione gratuita e IVA secondo la tabella del negozio del 06/10/2026, e come ottenere il rimborso delle spese doganali.",
+  "description": "Cosa pubblica YesStyle su tempi di consegna, spedizione gratuita, imposte, resi e pagamenti in Italia, come si contano i tempi e come chiedere il rimborso delle spese doganali.",
+  "metaDescription": "YesStyle spedisce in Italia? Tempi, spedizione gratuita e IVA secondo la tabella del negozio del 13/10/2026, e come ottenere il rimborso delle spese doganali.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -38,7 +39,7 @@
         "**Italia:** spedizione Standard da 10 a 15 giorni lavorativi, gratuita da US$ 45 (sotto questa soglia costa US$ 5) e IVA del 22% già nel prezzo."
       ],
       "postParagraphs": [
-        "I numeri vengono dalla tabella di spedizione di YesStyle in vigore dal 6 ottobre 2026 e dalle pagine delle imposte del negozio, consultate il 12/10/2026. Gli importi sono in dollari, come li pubblica il negozio."
+        "I numeri vengono dalla tabella di spedizione di YesStyle in vigore dal 13 ottobre 2026 (07:15 GMT), consultata lo stesso giorno, e dalle pagine delle imposte del negozio, consultate il 12/10/2026. Gli importi sono in dollari, come li pubblica il negozio."
       ]
     },
     {
@@ -47,7 +48,7 @@
         "Ai tempi della spedizione si aggiunge il tempo che l'articolo impiega a uscire dal magazzino, spiegato più sotto."
       ],
       "comparisonTable": {
-        "caption": "Tempi e spese di spedizione di YesStyle per l'Italia, secondo la tabella in vigore dal 06/10/2026, consultata il 12/10/2026.",
+        "caption": "Tempi e spese di spedizione di YesStyle per l'Italia, secondo la tabella in vigore dal 13/10/2026, consultata lo stesso giorno.",
         "headers": [
           "Paese",
           "Spedizione e tempi",
@@ -71,9 +72,24 @@
       ]
     },
     {
+      "heading": "Spedizione gratuita: cosa conta per la soglia",
+      "paragraphs": [
+        "In Italia la spedizione è gratuita quando il totale dell'ordine arriva a US$ 45. Le spese per la confezione regalo non rientrano in questo totale, come dice la nota della tabella."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-italia-2026-10-13.webp",
+        "alt": "Tabella delle tariffe di spedizione di YesStyle con destinazione Italia: spedizione Standard gratuita da US$ 45 e a US$ 5 sotto questa soglia, in 10-15 giorni lavorativi e con codice di tracciamento, con la nota che le spese per la confezione regalo sono escluse dal calcolo delle tariffe di spedizione e la data del 13 ottobre 2026",
+        "caption": "La riga dell'Italia nella tabella di spedizione di YesStyle, in vigore dal 13/10/2026 (07:15 GMT), con la nota sulla confezione regalo.",
+        "objectFit": "contain",
+        "aspectRatio": 2.2235
+      }
+    },
+    {
       "heading": "Come si contano i tempi",
       "paragraphs": [
-        "Ogni ordine parte dal magazzino di YesStyle a Hong Kong. Il tempo totale è il tempo di disponibilità dell'articolo più quello della spedizione: l'articolo in magazzino parte in 1-3 giorni lavorativi, mentre quello segnato “Awaiting Stock” richiede da 3 a 30 giorni lavorativi in più, a seconda della pagina del prodotto."
+        "Ogni ordine parte dal magazzino di YesStyle a Hong Kong. Il tempo totale è il tempo di disponibilità dell'articolo più quello della spedizione, e il negozio li conta entrambi in giorni lavorativi, secondo l'ora di Hong Kong (GMT+8).",
+        "In Italia un ordine con soli articoli disponibili richiede da 11 a 18 giorni lavorativi: da 1 a 3 per uscire dal magazzino e da 10 a 15 di spedizione.",
+        "Se il pagamento richiede una verifica, il conteggio parte dal giorno in cui l'ordine viene approvato. Anche le festività e i picchi di ordini possono ritardare la partenza."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -82,6 +98,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "Disponibile o in attesa di stock: cosa dice la pagina del prodotto",
+      "paragraphs": [
+        "La pagina di ogni prodotto mostra la disponibilità accanto alla versione. Indica quando l'articolo esce dal magazzino, non quando arriva. Se accanto alla versione compare “Stock disponibile tra” con un numero di giorni, l'articolo non è ancora in magazzino: è in attesa di stock."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-it-2026-10-13.webp",
+        "alt": "Pagina prodotto di YesStyle della crema Dr. Althea 345 Relief Cream, a US$ 22.95 in un'offerta del 15% con conto alla rovescia, con l'opzione 2025 Version - 50ml segnata come Disponibile, sopra il pulsante Aggiungi al carrello",
+        "caption": "La pagina di un prodotto su YesStyle il 13/10/2026, con la disponibilità “Disponibile” accanto alla versione. Il prezzo e l'offerta sono quelli di quel giorno.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0243
+      },
+      "bullets": [
+        "**Disponibile:** l'articolo esce dal magazzino in 1-3 giorni lavorativi.",
+        "**Stock disponibile tra: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 giorni lavorativi.",
+        "**Stock disponibile tra: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
+      ],
+      "postParagraphs": [
+        "Un ordine con un articolo disponibile e uno in attesa di stock di solito parte tutto insieme, quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
+      ]
     },
     {
       "heading": "Imposte: cosa è già nel prezzo e cosa arriva dopo",
@@ -99,22 +136,53 @@
     {
       "heading": "Se alla consegna ci sono addebiti",
       "paragraphs": [
-        "YesStyle rimborsa le imposte e le spese doganali addebitate alla consegna sugli ordini sotto US$ 1.000 (il valore dell'ordine si calcola prima del coupon e senza la spedizione). Paga l'addebito, conserva la ricevuta e mandala via e-mail al servizio clienti entro 30 giorni dalla data della ricevuta. Il rimborso arriva come credito nel negozio.",
-        "Restano fuori le spese del servizio postale e del corriere (giacenza, ritiro, pacco non ritirato o restituito) e l'IVA già addebitata al checkout. Se rifiuti il pacco per via dell'addebito, non ricevi né il rimborso né un nuovo invio."
+        "**YesStyle rimborsa le imposte e le spese doganali addebitate alla consegna sugli ordini sotto US$ 1.000**, con il valore dell'ordine calcolato prima del coupon e senza la spedizione. Il rimborso arriva come credito nel negozio."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-it-2026-10-13.webp",
+        "alt": "Pagina di YesStyle con il titolo Rimborsi di tasse e imposte doganali, la riga sostenute su tutti gli ordini YesStyle inferiori a 1.000 dollari e il punto 1, che dice che l'offerta vale dal 7 maggio 2018, anche per l'importo equivalente in altre valute",
+        "caption": "La pagina di YesStyle sui rimborsi di tasse e spese doganali, in vigore dal 7 maggio 2018, consultata il 13/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 5.8707
+      },
+      "bullets": [
+        "**Paga l'addebito** quando arriva il pacco: se rifiuti il pacco per via dell'addebito, non ricevi né il rimborso né un nuovo invio.",
+        "**Conserva la ricevuta** del pagamento, con la data.",
+        "**Manda la ricevuta via e-mail** al servizio clienti di YesStyle entro 30 giorni dalla sua data. Senza ricevuta, o dopo 30 giorni, il negozio non esamina la richiesta."
+      ],
+      "postParagraphs": [
+        "Restano fuori le spese del servizio postale e del corriere (giacenza, ritiro, pacco non ritirato o restituito) e l'IVA già addebitata al checkout."
       ]
     },
     {
-      "heading": "Se il pacco ritarda o deve tornare indietro",
+      "heading": "Se il pacco ritarda, si perde o torna al negozio",
       "paragraphs": [
-        "Un pacco smarrito viene rispedito senza costi, grazie alla garanzia del negozio (The YesStyle Promise). Un pacco che torna al negozio per indirizzo errato, consegna non riuscita o mancato ritiro viene rispedito solo se paghi una tassa di gestione e una nuova spedizione.",
-        "Per restituire un prodotto, chiedi il numero RMA entro 14 giorni dalla ricezione. I prodotti di bellezza aperti e gli integratori non si restituiscono, e il rimborso standard arriva come credito nel negozio.",
-        "Nella guida sull'affidabilità trovi chi gestisce YesStyle e cosa controllare prima di comprare."
+        "Se il pacco non è arrivato nei tempi previsti, contatta il servizio clienti. Un pacco smarrito viene rispedito senza tassa di gestione né spese di spedizione, grazie alla garanzia del negozio (The YesStyle Promise).",
+        "Un pacco che torna al negozio per indirizzo errato, consegna non riuscita o mancato ritiro viene rispedito solo se paghi una tassa di gestione e una nuova spedizione."
+      ]
+    },
+    {
+      "heading": "Come restituire un prodotto",
+      "bullets": [
+        "**Tempi:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripensamento o cambio taglia) o tramite il servizio clienti, e spedisci il pacco entro 30 giorni dall'emissione dell'RMA.",
+        "**Dove:** il pacco torna all'ufficio del negozio a Hong Kong o ai suoi partner per i resi negli Stati Uniti e in Canada; il negozio consiglia la posta raccomandata.",
+        "**Cosa non si può restituire:** prodotti di bellezza aperti, integratori, articoli di offerte come Buy 1 Get 1 Free, Clearance, Lucky Bundle e Deals, e articoli per uso intimo, come costumi da bagno, intimo, orecchini e parrucche.",
+        "**Allergia o reazione cutanea:** non dà diritto né al rimborso né al reso.",
+        "**Rimborso:** arriva come credito nel negozio, in genere entro 7 giorni da quando il reso viene elaborato; su richiesta, torna sul metodo di pagamento, in 14 giorni lavorativi o più. Il coupon e la spedizione non vengono rimborsati.",
+        "**Difetto:** chiedi l'RMA al servizio clienti, con delle foto; il negozio copre la spedizione del reso per posta aerea o raccomandata."
       ],
       "links": [
         {
           "label": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare",
           "href": "/it/reviews/yesstyle-e-affidabile-e-sicuro"
         }
+      ]
+    },
+    {
+      "heading": "Come pagare",
+      "paragraphs": [
+        "La pagina dei pagamenti di YesStyle elenca le carte Visa, Mastercard, American Express e JCB, PayPal, Google Pay e Apple Pay. I prezzi sono in dollari statunitensi; in un'altra valuta, il negozio converte al proprio tasso di cambio al momento dell'ordine.",
+        "Dato che il negozio ha sede a Hong Kong, la banca può addebitare una commissione per transazione internazionale."
       ]
     },
     {
@@ -132,15 +200,15 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "YesStyle spedisce in Italia? Sì, con la spedizione Standard, secondo la tabella di spedizione del negozio in vigore dal 6 ottobre 2026.",
-        "Quanto tempo ci vuole per ricevere un ordine di YesStyle? Da 10 a 15 giorni lavorativi con la spedizione Standard, più da 1 a 3 giorni lavorativi perché l'articolo in magazzino parta da Hong Kong.",
-        "Da quale importo la spedizione di YesStyle è gratuita? Da US$ 45. Sotto questa soglia la spedizione costa US$ 5.",
+        "YesStyle spedisce in Italia? Sì, con la spedizione Standard, secondo la tabella di spedizione del negozio in vigore dal 13 ottobre 2026.",
+        "Quanto tempo ci vuole per ricevere un ordine di YesStyle? Da 11 a 18 giorni lavorativi per un ordine con soli articoli disponibili: da 1 a 3 per partire da Hong Kong e da 10 a 15 di spedizione.",
+        "Da quale importo la spedizione di YesStyle è gratuita? Da US$ 45, senza contare la confezione regalo. Sotto questa soglia la spedizione costa US$ 5.",
         "YesStyle applica tasse o imposte? L'IVA del 22% è già nel prezzo e al checkout viene aggiunta anche alla spedizione. La tassa UE di € 3 per categoria doganale, per ora, la paga YesStyle.",
         "YesStyle rimborsa le spese doganali? Sì, come credito nel negozio, sugli ordini sotto US$ 1.000 e se mandi la ricevuta al servizio clienti entro 30 giorni. L'IVA già addebitata al checkout non rientra nel rimborso.",
         "Come si paga su YesStyle? Con carta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay. Pagando in dollari, la banca può addebitare una commissione per transazione internazionale.",
-        "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA al servizio clienti entro 14 giorni dalla ricezione. I prodotti di bellezza aperti non si restituiscono.",
+        "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni; i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
         "Da dove spedisce YesStyle? Ogni ordine parte dal magazzino di YesStyle a Hong Kong.",
-        "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità di ogni articolo, che può richiedere fino a 30 giorni lavorativi in più.",
+        "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine di solito parte tutto insieme, quando l'ultimo articolo diventa disponibile.",
         "Dove trovo i coupon e il codice ricompensa di YesStyle? Nella pagina di YesStyle su questo sito, con i coupon del momento e con CECILIA010, che va nel campo Reward Code."
       ]
     }

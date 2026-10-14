@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle 寄往台灣、香港與澳門的運送方式、時間與免運門檻，依 2026年10月6日起生效的運費表整理，並說明送達時被收費的退款申請方式。",
-  "metaDescription": "YesStyle 會寄到台灣、香港與澳門嗎？依 2026年10月6日起的運費表，整理 Express 與順豐的運送時間、免運門檻，以及海關費用的退款條件。",
+  "description": "YesStyle 寄往台灣、香港與澳門的運送方式、時間、免運門檻、退貨與付款方式，依 2026年10月13日起生效的運費表整理，並說明送達時被收費的退款申請方式。",
+  "metaDescription": "YesStyle 會寄到台灣、香港與澳門嗎？依 2026年10月13日起的運費表，整理 Express 與順豐的運送時間、免運門檻，以及海關費用的退款條件。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -41,7 +42,7 @@
       ],
       "postParagraphs": [
         "三個市場的稅費，YesStyle 都沒有公布；若送達時被收費，可申請退款，條件見「包裹被課稅時」一節。",
-        "以上數字取自 YesStyle 自 2026年10月6日起生效的運費表，於 2026年10月12日查閱。金額以美元計，與商店公布的相同。"
+        "以上數字取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的運費表，於同日查閱。金額以美元計，與商店公布的相同。"
       ]
     },
     {
@@ -50,7 +51,7 @@
         "運送天數之外，還要加上商品從倉庫寄出前所需的時間，下面會說明。"
       ],
       "comparisonTable": {
-        "caption": "YesStyle 寄往台灣、香港與澳門的運送時間與運費，依 2026年10月6日起生效的運費表，於 2026年10月12日查閱。",
+        "caption": "YesStyle 寄往台灣、香港與澳門的運送時間與運費，依 2026年10月13日起生效的運費表，於同日查閱。",
         "headers": [
           "市場",
           "運送方式與時間",
@@ -86,9 +87,24 @@
       ]
     },
     {
+      "heading": "免運費：哪些金額計入門檻",
+      "paragraphs": [
+        "台灣滿 US$50 免運費，香港與澳門滿 US$35 免運費。依運費表的備註，禮品包裝費不計入這個總額。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-taiwan-2026-10-13.webp",
+        "alt": "YesStyle 英文版運費表，寄送目的地為台灣（Shipping Destination: Taiwan）：Express 滿 US$50 免運費（Free），未滿收 US$3，3 至 6 個工作天（3-6 working days），附追蹤碼（Tracking Code），下方備註禮品包裝費不計入運費（Fees for Gift Wrapping are excluded when calculating shipping rates.），以及運費表自 2026年10月13日起生效的說明",
+        "caption": "YesStyle 運費表中的台灣一欄（英文版頁面），自 2026年10月13日（07:15 GMT）起生效，附禮品包裝的備註。",
+        "objectFit": "contain",
+        "aspectRatio": 2.2235
+      }
+    },
+    {
       "heading": "運送時間怎麼算",
       "paragraphs": [
-        "所有訂單都從 YesStyle 位於香港的倉庫寄出。總時間等於商品備妥出貨的時間，加上運送時間。有庫存的商品，1 至 3 個工作天內寄出；標示「Awaiting Stock」的商品，依商品頁的說明，還要再多 3 至 30 個工作天。"
+        "所有訂單都從 YesStyle 位於香港的倉庫寄出。總時間等於商品備妥出貨的時間加上運送時間，商店兩者都以工作天計算，並以香港時間（GMT+8）為準。",
+        "在台灣，只含有庫存商品的訂單需要 4 至 9 個工作天：1 至 3 個工作天從倉庫寄出，加上 3 至 6 個工作天的運送。",
+        "如果付款需要審核，從訂單核准當天才開始計算。假日和訂單高峰也可能延遲出貨。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -97,6 +113,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "In-Stock 還是 Awaiting Stock：商品頁顯示的備貨狀態",
+      "paragraphs": [
+        "每件商品的頁面都會在版本旁顯示備貨狀態。它說明的是商品何時從倉庫寄出，而不是何時送達。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+        "alt": "YesStyle 英文版商品頁：Dr. Althea - 345 Relief Cream，售價 US$22.95，原價 US$27.00 劃線，15% OFF 限時優惠附倒數計時，並顯示 Deal is 82% claimed；版本 2025 Version - 50ml 旁標示 In-Stock，下方是 ADD TO BAG 與 SAVE 按鈕",
+        "caption": "2026年10月13日 YesStyle 的一個商品頁（英文版頁面），版本旁標示 In-Stock（有庫存）。價格與優惠為當天的情況。",
+        "objectFit": "contain",
+        "aspectRatio": 2.1757
+      },
+      "bullets": [
+        "**In-Stock（有庫存）：** 商品在 1 至 3 個工作天內從倉庫寄出。",
+        "**Awaiting Stock: 3-5 days（待補貨，3 至 5 天）：** 商品來自商店的區域倉庫，在 3 至 5 個工作天內寄出。",
+        "**Awaiting Stock: 7 days**、**7-14 days**、**21 days** 或 **30 days**（待補貨，7 天、7 至 14 天、21 天或 30 天）：商店在下單後才向供應商採購，商品會在所示時間內從倉庫寄出，以工作天計。"
+      ],
+      "postParagraphs": [
+        "同時含有庫存商品與待補貨商品的訂單，通常會等最後一件商品備妥後一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往台灣的訂單就需要 10 至 20 個工作天。"
+      ]
     },
     {
       "heading": "稅費與海關",
@@ -114,22 +151,53 @@
     {
       "heading": "包裹被課稅時",
       "paragraphs": [
-        "YesStyle 會退還送達時被收取的稅金與海關費用，適用於未滿 US$1,000 的訂單（以優惠券折扣前、不含運費的金額計算）。請先付款、保留收據，並在收據日期起 30 天內以電子郵件寄給客服；退款以 YesStyle Credit 發放。",
-        "不在退款範圍內的有：郵政或物流業者收取的費用（如倉儲費、取件費，以及包裹未領取或被退回時的費用），以及結帳時已收取的稅金。因被收費而拒收包裹，不會獲得退款，也不會重寄。"
+        "**YesStyle 會退還未滿 US$1,000 的訂單在送達時被收取的稅金與海關費用**，訂單金額以優惠券折扣前、不含運費的金額計算。退款以 YesStyle Credit 發放。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+        "alt": "YesStyle 英文版頁面：藍色橫幅寫著 Refunds for customs-related taxes and fees / incurred on all YesStyle orders under US$ 1,000，下方第 1 條說明自 2018年5月7日（Effective May 7, 2018）起，YesStyle 退還所有未滿 US$1,000（或其他貨幣的等值金額）的訂單所產生的海關相關稅費",
+        "caption": "YesStyle 的海關稅費退款頁面（英文版頁面），自 2018年5月7日起生效，於 2026年10月13日查閱。",
+        "objectFit": "contain",
+        "aspectRatio": 3.5907
+      },
+      "bullets": [
+        "**包裹送達時付清費用：** 因被收費而拒收包裹，不會獲得退款，也不會重寄。",
+        "**保留付款收據**，收據上要有日期。",
+        "**以電子郵件把收據寄給 YesStyle 客服**，期限為收據日期起 30 天內。沒有收據或超過 30 天，商店不會受理申請。"
+      ],
+      "postParagraphs": [
+        "不在退款範圍內的有：郵政或物流業者收取的費用（如倉儲費、取件費，以及包裹未領取或被退回時的費用），以及結帳時已收取的稅金。"
       ]
     },
     {
-      "heading": "包裹延誤或需要退回時",
+      "heading": "包裹延誤、遺失或退回商店時",
       "paragraphs": [
-        "包裹遺失時，YesStyle 會依保障承諾（The YesStyle Promise）免費重寄。包裹因地址錯誤、投遞失敗或無人領取而退回商店時，需支付處理費與新的運費才會重寄。",
-        "要退貨的話，請在收到商品後 14 天內向客服申請 RMA 編號。已拆封的美妝品和營養補充品無法退貨，標準退款以 YesStyle Credit 發放。",
-        "YesStyle 由誰營運、購買前要注意哪些事，請見安全評價與購物指南。"
+        "如果包裹沒有在預定時間內送達，請聯絡客服。包裹遺失時，YesStyle 會依保障承諾（The YesStyle Promise）重寄，不收處理費，也不收運費。",
+        "包裹因地址錯誤、投遞失敗或無人領取而退回商店時，需支付處理費與新的運費才會重寄。"
+      ]
+    },
+    {
+      "heading": "如何退貨",
+      "bullets": [
+        "**期限：** 請在收到商品後 14 天內申請 RMA 編號，可透過帳戶裡的 RMA 頁面（適用於改變心意和更換尺寸）或向客服申請，並在 RMA 核發後 30 天內寄出包裹。",
+        "**寄到哪裡：** 包裹寄回商店位於香港的辦公室，或寄到商店在美國和加拿大的退貨合作夥伴；商店建議使用掛號郵件。",
+        "**不能退貨的商品：** 已拆封的美妝品、營養補充品，Buy 1 Get 1 Free、Clearance、Lucky Bundle 和 Deals 等優惠活動的商品，以及泳裝、內衣、耳環和假髮等貼身用品。",
+        "**過敏或皮膚反應：** 不能因此退款或退貨。",
+        "**退款：** 以 YesStyle Credit 發放，一般在退貨處理完成後 7 天內入帳；如有要求，可退回原付款方式，需 14 個工作天或更久。優惠券與運費不予退還。",
+        "**瑕疵品：** 請附上照片向客服申請 RMA；商店負擔以航空郵件或掛號郵件寄回的運費。"
       ],
       "links": [
         {
           "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
           "href": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
         }
+      ]
+    },
+    {
+      "heading": "如何付款",
+      "paragraphs": [
+        "YesStyle 的付款頁面列出 Visa、Mastercard、American Express 和 JCB 信用卡，以及 PayPal、Google Pay 和 Apple Pay。價格以美元計；以其他貨幣付款時，商店會在下單時按自己的匯率換算。",
+        "由於商店位於香港，銀行可能收取海外交易手續費。"
       ]
     },
     {
@@ -147,15 +215,15 @@
     {
       "heading": "常見問題",
       "bullets": [
-        "YesStyle 會寄到台灣、香港與澳門嗎？會。三個市場都在 YesStyle 自 2026年10月6日起生效的運費表上：台灣和澳門走 Express，香港走順豐。",
-        "YesStyle 寄送要多久？台灣 Express 為 3 至 6 個工作天，香港順豐與澳門 Express 都是 1 至 3 個工作天；有庫存的商品，另外需要 1 至 3 個工作天才會從倉庫寄出。",
-        "YesStyle 滿多少免運費？台灣滿 US$50 免運，未滿運費 US$3；香港滿 US$35 免運，未滿 US$4；澳門滿 US$35 免運，未滿 US$4.99。",
+        "YesStyle 會寄到台灣、香港與澳門嗎？會。三個市場都在 YesStyle 自 2026年10月13日起生效的運費表上：台灣和澳門走 Express，香港走順豐。",
+        "YesStyle 寄送要多久？台灣 Express 為 3 至 6 個工作天，香港順豐與澳門 Express 都是 1 至 3 個工作天。在台灣，只含有庫存商品的訂單共需 4 至 9 個工作天：1 至 3 個工作天從香港寄出，加上 3 至 6 個工作天的運送。",
+        "YesStyle 滿多少免運費？不計禮品包裝，台灣滿 US$50 免運，未滿運費 US$3；香港滿 US$35 免運，未滿 US$4；澳門滿 US$35 免運，未滿 US$4.99。",
         "在 YesStyle 購物會被收稅費嗎？YesStyle 沒有公布這三個市場的稅費，我們也沒有查閱當地規定。如果送達時被收費，可申請 YesStyle 的退款。",
         "YesStyle 會退還海關費用嗎？會。訂單未滿 US$1,000 時，以 YesStyle Credit 退還；請在收據日期起 30 天內，把收據寄給客服。",
         "在 YesStyle 怎麼付款？可用 Visa、Mastercard、American Express 或 JCB 信用卡，也可用 PayPal、Apple Pay 或 Google Pay；以美元付款時，銀行可能收取海外交易手續費。",
-        "在 YesStyle 怎麼退貨？請在收到商品後 14 天內向客服申請 RMA 編號；已拆封的美妝品無法退貨。",
+        "在 YesStyle 怎麼退貨？請在收到商品後 14 天內申請 RMA 編號，並在 30 天內寄出包裹；已拆封的美妝品和營養補充品無法退貨，皮膚反應也不能退款。",
         "YesStyle 從哪裡寄出？從位於香港的倉庫寄出。",
-        "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間。",
+        "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間，而且訂單通常會等最後一件商品備妥後一起寄出。",
         "YesStyle 的優惠券和獎勵碼在哪裡？在本站的 YesStyle 頁面，有今日的優惠券，以及填在 Reward Code 欄位的 CECILIA010。"
       ]
     }

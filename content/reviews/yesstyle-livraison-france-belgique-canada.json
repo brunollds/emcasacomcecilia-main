@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ce que YesStyle publie sur la livraison, les délais, la livraison gratuite et les taxes en France, en Belgique et au Canada, et comment se faire rembourser les frais de douane.",
-  "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 6 octobre 2026.",
+  "description": "Ce que YesStyle publie sur la livraison, les délais, la livraison gratuite, les taxes, les retours et le paiement en France, en Belgique et au Canada, et comment se faire rembourser les frais de douane.",
+  "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 13 octobre 2026.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -40,7 +41,7 @@
         "**Canada :** livraison Premium Standard en 7 à 14 jours ouvrés, gratuite dès US$ 50 et facturée US$ 6 en dessous. Seule la Saskatchewan a une taxe ajoutée au paiement, la PST de 6 % ; la page de YesStyle ne parle pas de la TPS fédérale."
       ],
       "postParagraphs": [
-        "Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 6 octobre 2026, et de ses pages de taxes par région, toutes lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie."
+        "Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT) et lue le même jour, et de ses pages de taxes par région, lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie."
       ]
     },
     {
@@ -49,7 +50,7 @@
         "Au délai d'expédition s'ajoute le temps nécessaire pour que l'article quitte l'entrepôt, expliqué plus bas."
       ],
       "comparisonTable": {
-        "caption": "Délais et frais de livraison de YesStyle pour la France, la Belgique et le Canada, d'après la grille en vigueur depuis le 6 octobre 2026, lue le 12 octobre 2026.",
+        "caption": "Délais et frais de livraison de YesStyle pour la France, la Belgique et le Canada, d'après la grille en vigueur depuis le 13 octobre 2026, lue le même jour.",
         "headers": [
           "Pays",
           "Livraison et délai",
@@ -85,9 +86,24 @@
       ]
     },
     {
+      "heading": "Livraison gratuite : ce qui compte pour le minimum",
+      "paragraphs": [
+        "La livraison est gratuite dès US$ 45 en France et en Belgique et dès US$ 50 au Canada, comme l'indique la grille ci-dessus. Les frais d'emballage cadeau n'entrent pas dans ce total, précise la note de la grille."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-franca-2026-10-13.webp",
+        "alt": "Grille de livraison de YesStyle pour la France : livraison Standard gratuite dès US$ 45 et facturée US$ 5 en dessous, en 10 à 15 jours ouvrés, avec code de suivi, la note selon laquelle les frais d'emballage cadeau ne sont pas pris en compte dans le calcul des frais de livraison et la date du 13 octobre 2026",
+        "caption": "La ligne de la France dans la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT), avec la note sur l'emballage cadeau.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9703
+      }
+    },
+    {
       "heading": "Comment se calcule le délai",
       "paragraphs": [
-        "Toute commande part de l'entrepôt de YesStyle à Hong Kong. Le délai total additionne le temps que met l'article à être disponible et le délai d'expédition : un article en stock part en 1 à 3 jours ouvrés, et un article marqué « Awaiting Stock » prend de 3 à 30 jours ouvrés de plus, selon la page du produit."
+        "Toute commande part de l'entrepôt de YesStyle à Hong Kong. Le délai total additionne le temps que met l'article à être disponible et le délai d'expédition, et la boutique compte les deux en jours ouvrés, à l'heure de Hong Kong (GMT+8).",
+        "En France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés : 1 à 3 pour quitter l'entrepôt et 10 à 15 d'expédition.",
+        "Si le paiement doit être vérifié, le décompte commence le jour où la commande est approuvée. Les jours fériés et les pics de commandes peuvent aussi retarder l'expédition."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -96,6 +112,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "En stock ou Réapprovisionnement : ce qu'indique la page du produit",
+      "paragraphs": [
+        "La page de chaque produit affiche la disponibilité à côté de la version. Elle indique quand l'article quitte l'entrepôt, pas quand il arrive."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-fr-2026-10-13.webp",
+        "alt": "Page produit de YesStyle de la crème Dr. Althea 345 Relief Cream, au prix de US$ 22.95 dans une offre à 15 % de réduction avec compte à rebours, et l'option 2025 Version - 50ml marquée En stock, au-dessus du bouton AJOUTER AU PANIER",
+        "caption": "Page d'un produit sur YesStyle le 13 octobre 2026, avec la disponibilité En stock à côté de la version. Le prix et l'offre sont ceux de ce jour-là.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0243
+      },
+      "bullets": [
+        "**En stock :** l'article quitte l'entrepôt en 1 à 3 jours ouvrés.",
+        "**Réapprovisionnement : 3 à 5 jours :** l'article vient d'un entrepôt régional de la boutique et part en 3 à 5 jours ouvrés.",
+        "**Réapprovisionnement : 7 jours, 7 à 14 jours, 21 jours ou 30 jours :** la boutique achète l'article au fournisseur après la commande, et il quitte l'entrepôt dans ce délai, en jours ouvrés."
+      ],
+      "postParagraphs": [
+        "Une commande avec un article en stock et un autre en réapprovisionnement part en général en un seul envoi, quand le dernier devient disponible. Avec un article « Réapprovisionnement : 7 à 14 jours », la commande pour la France prend de 17 à 29 jours ouvrés."
+      ]
     },
     {
       "heading": "Taxes : ce qui est déjà dans le prix et ce qui arrive après",
@@ -115,22 +152,53 @@
     {
       "heading": "Si le colis est taxé",
       "paragraphs": [
-        "YesStyle rembourse les taxes et les frais de douane perçus à la livraison sur les commandes de moins de US$ 1 000, montant calculé avant le coupon et hors frais de livraison. Réglez la somme demandée, gardez le justificatif et envoyez-le par e-mail au service client dans les 30 jours suivant la date du justificatif ; le remboursement se fait en crédit en boutique.",
-        "Ne sont pas remboursés : les frais de la poste et du transporteur (stockage, retrait, colis non retiré ou retourné) et les taxes déjà perçues au paiement, ici la TVA de la France et de la Belgique et la PST de la Saskatchewan. Si vous refusez le colis à cause des frais, vous n'obtenez ni remboursement ni réexpédition."
+        "**YesStyle rembourse les taxes et les frais de douane perçus à la livraison sur les commandes de moins de US$ 1 000**, montant calculé avant le coupon et hors frais de livraison. Le remboursement se fait en crédit en boutique."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-fr-2026-10-13.webp",
+        "alt": "Page de YesStyle avec le bandeau bleu Rembourse les taxes et les frais de douanes pour toutes les commandes YesStyle d'une valeur inférieure à 1 000 USD et le point 1, qui indique que l'offre s'applique depuis le 7 mai 2018, aussi pour un montant équivalent dans une autre devise",
+        "caption": "La page de remboursement des taxes et frais de douane de YesStyle, en vigueur depuis le 7 mai 2018, lue le 13 octobre 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 3.5907
+      },
+      "bullets": [
+        "**Réglez la somme demandée** à l'arrivée du colis : si vous refusez le colis à cause des frais, vous n'obtenez ni remboursement ni réexpédition.",
+        "**Gardez le justificatif** du paiement, avec sa date.",
+        "**Envoyez le justificatif par e-mail** au service client de YesStyle dans les 30 jours suivant sa date. Sans justificatif, ou après 30 jours, la boutique n'examine pas la demande."
+      ],
+      "postParagraphs": [
+        "Ne sont pas remboursés : les frais de la poste et du transporteur (stockage, retrait, colis non retiré ou retourné) et les taxes déjà perçues au paiement, ici la TVA de la France et de la Belgique et la PST de la Saskatchewan."
       ]
     },
     {
-      "heading": "Si le colis tarde ou doit revenir",
+      "heading": "Si le colis tarde, se perd ou revient à la boutique",
       "paragraphs": [
-        "Un colis perdu est réexpédié sans frais, au titre de la garantie de la boutique (The YesStyle Promise). Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré n'est réexpédié qu'avec des frais de manutention et de nouveaux frais de livraison.",
-        "Pour retourner un produit, demandez un numéro de RMA dans les 14 jours suivant la réception ; un produit de beauté ouvert et un complément alimentaire ne sont pas repris, et le remboursement standard se fait en crédit en boutique.",
-        "Qui exploite YesStyle et ce qu'il faut vérifier avant d'acheter se trouvent dans le guide de confiance."
+        "Si le colis n'est pas arrivé dans les délais, contactez le service client. Un colis perdu est réexpédié sans frais de manutention ni frais de livraison, au titre de la garantie de la boutique (The YesStyle Promise).",
+        "Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré n'est réexpédié qu'avec des frais de manutention et de nouveaux frais de livraison."
+      ]
+    },
+    {
+      "heading": "Comment retourner un produit",
+      "bullets": [
+        "**Délai :** demandez le numéro de RMA dans les 14 jours suivant la réception, depuis la page RMA de votre compte (en cas de changement d'avis ou d'échange de taille) ou auprès du service client, et expédiez le colis dans les 30 jours suivant l'émission du RMA.",
+        "**Où l'envoyer :** le colis repart au bureau de la boutique à Hong Kong ou chez ses partenaires de retour aux États-Unis et au Canada ; la boutique conseille l'envoi en recommandé.",
+        "**Ce qui n'est pas repris :** les produits de beauté ouverts, les compléments alimentaires, les articles issus d'offres comme Buy 1 Get 1 Free, Clearance, Lucky Bundle et Deals, et les articles à usage intime, comme les maillots de bain, les sous-vêtements, les boucles d'oreilles et les perruques.",
+        "**Allergie ou réaction cutanée :** elle ne donne droit ni à un remboursement ni à un retour.",
+        "**Remboursement :** il se fait en crédit en boutique, en général dans les 7 jours suivant le traitement du retour ; sur demande, il revient sur le moyen de paiement, en 14 jours ouvrés ou plus. Le coupon et les frais de livraison ne sont pas remboursés.",
+        "**Défaut :** demandez le RMA au service client, avec des photos ; la boutique prend en charge les frais de retour par courrier aérien ou en recommandé."
       ],
       "links": [
         {
           "label": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter",
           "href": "/fr/reviews/yesstyle-est-il-fiable-et-sur"
         }
+      ]
+    },
+    {
+      "heading": "Comment payer",
+      "paragraphs": [
+        "La page de paiement de YesStyle indique les cartes Visa, Mastercard, American Express et JCB, PayPal, Google Pay et Apple Pay. Les prix sont affichés en dollars américains ; dans une autre devise, la boutique convertit à son propre taux au moment de la commande.",
+        "Comme la boutique est à Hong Kong, votre banque peut appliquer des frais de transaction internationale."
       ]
     },
     {
@@ -148,15 +216,15 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "YesStyle livre-t-il en France, en Belgique et au Canada ? Oui, les trois pays figurent dans la grille de livraison de la boutique, en vigueur depuis le 6 octobre 2026.",
-        "Combien de temps prend la livraison de YesStyle ? Le délai d'expédition est de 10 à 15 jours ouvrés en France et en Belgique (Standard) et de 7 à 14 jours ouvrés au Canada (Premium Standard), plus 1 à 3 jours ouvrés pour qu'un article en stock quitte l'entrepôt de Hong Kong.",
-        "À partir de quel montant la livraison YesStyle est-elle gratuite ? Dès US$ 45 en France et en Belgique et dès US$ 50 au Canada ; en dessous, elle coûte US$ 5 en France et en Belgique et US$ 6 au Canada.",
+        "YesStyle livre-t-il en France, en Belgique et au Canada ? Oui, les trois pays figurent dans la grille de livraison de la boutique, en vigueur depuis le 13 octobre 2026.",
+        "Combien de temps prend la livraison de YesStyle ? Le délai d'expédition est de 10 à 15 jours ouvrés en France et en Belgique (Standard) et de 7 à 14 jours ouvrés au Canada (Premium Standard). En France, une commande composée uniquement d'articles en stock prend de 11 à 18 jours ouvrés : 1 à 3 pour quitter l'entrepôt de Hong Kong et 10 à 15 d'expédition.",
+        "À partir de quel montant la livraison YesStyle est-elle gratuite ? Sans compter l'emballage cadeau, dès US$ 45 en France et en Belgique et dès US$ 50 au Canada ; en dessous, elle coûte US$ 5 en France et en Belgique et US$ 6 au Canada.",
         "YesStyle applique-t-il des taxes ou des droits de douane ? En France et en Belgique, la TVA (20 % et 21 %) est déjà dans le prix, et la taxe de 3 € de l'UE est payée par YesStyle, actuellement. Au Canada, seule la Saskatchewan a une PST de 6 % ajoutée au paiement.",
         "YesStyle rembourse-t-il les frais de douane ? Oui, en crédit en boutique, sur les commandes de moins de US$ 1 000, si vous envoyez le justificatif au service client dans les 30 jours. La TVA déjà perçue au paiement n'est pas remboursée.",
         "Comment payer sur YesStyle ? Par carte (Visa, Mastercard, American Express ou JCB), PayPal, Apple Pay ou Google Pay. Votre banque peut appliquer des frais de transaction internationale.",
-        "Comment retourner un produit YesStyle ? Demandez un numéro de RMA au service client dans les 14 jours suivant la réception ; un produit de beauté ouvert n'est pas repris.",
+        "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours ; les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
         "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
-        "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité de chaque article, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition.",
+        "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande part en général en un seul envoi, quand le dernier article devient disponible.",
         "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
       ]
     }
