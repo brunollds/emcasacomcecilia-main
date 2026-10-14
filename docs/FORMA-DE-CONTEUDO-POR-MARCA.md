@@ -160,6 +160,10 @@ acervo, não regra para linkar em massa.
 | Shein | não medido | cluster ainda não existe |
 | Let's Eat It | não medido | parceria nova (out/2026); só `/cupons/letseatit`, sem artigo |
 | Insider | não medido | parceria nova (out/2026); `/cupons/insider` e 3 artigos (05/10); 15% OFF publicado desde 07/10 |
+| Probiótica | não medido | parceria nova (13/10/2026); só `/cupons/probiotica`, sem artigo |
+| Dr. Peanut | não medido | parceria nova (13/10/2026); só `/cupons/dr-peanut`, sem artigo |
+| Black Skull | não medido | parceria nova (13/10/2026); só `/cupons/black-skull`, sem artigo |
+| Lejour | não medido | parceria nova (13/10/2026); indicação por link, só `/cupons/lejour`, sem artigo |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
 
