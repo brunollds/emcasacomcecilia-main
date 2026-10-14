@@ -197,8 +197,9 @@ FAQ:
 ## 11. Pontos para o Bruno e pendências
 1. **Experiência da Cecília (Bruno, 14/10/2026), para usar na voz dela, quase literal:**
    "O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses."
-   Vai na seção 9 do esqueleto e numa linha da resposta rápida. A "parte elétrica" é a do sofá da
-   Cecília: conferir na redação o que ele tem, sem generalizar.
+   Vai na seção 9 do esqueleto e numa linha da resposta rápida. A "parte elétrica" é a tomada com entrada USB e o suporte
+   energizado para celular e tablet, com carregamento por indução, da configuração do sofá da Cecília
+   (Bruno, 14/10/2026). Não generalizar para todo sofá da DAMIE.
 2. **Hero:** foto do sofá da Cecília, se houver uma nova; senão, a do artigo de experiência.
 
 ---
