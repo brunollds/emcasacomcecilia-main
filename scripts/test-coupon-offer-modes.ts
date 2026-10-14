@@ -77,7 +77,7 @@ assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve ger
 // Parceiros de 13/10/2026. Só a Probiótica e a Lejour mandaram link com UTM, e ele vai como veio.
 const newPartners = [
   { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
-  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'alimentacao', offerUrl: 'https://www.drpeanut.com.br/' },
+  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
   { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
 ] as const;
 for (const partner of newPartners) {

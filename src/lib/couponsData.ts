@@ -1168,7 +1168,7 @@ export const COUPONS: Coupon[] = [
     combinable: 'Conforme regras da loja; o valor final do checkout é a referência',
     lastVerified: '2026-10-13',
     testNote:
-      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho com kit de colágeno, creatina em promoção, camiseta e barra de proteína. O desconto entrou, com até 10% conforme o produto: nem todo item recebe os 10%.',
+      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 659,35 com kit de colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 604,60, com R$ 54,75 de desconto. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
     aboutBrand:
       'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1222,7 +1222,7 @@ export const COUPONS: Coupon[] = [
     discount: '10% OFF',
     discountNumber: 10,
     category: 'Pastas de amendoim e snacks',
-    hubCategory: 'alimentacao',
+    hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
       'Código da Cecília para economizar em pastas de amendoim, alfajores, snacks e whey no site oficial da Dr. Peanut, com qualquer forma de pagamento.',
@@ -1237,7 +1237,7 @@ export const COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-13',
     testNote:
-      'Aplicamos o DREMCASACOMCECILIA num carrinho com pasta de amendoim em promoção, display de alfajor e whey, e os 10% valeram em todos os itens, inclusive no que já estava com preço promocional.',
+      'Aplicamos o DREMCASACOMCECILIA num carrinho de R$ 440,16 com pasta de amendoim em promoção, display de alfajor e whey, e o pedido saiu por R$ 396,14, com R$ 44,02 de desconto: os 10% valeram em todos os itens, inclusive no que já estava com preço promocional.',
     aboutBrand:
       'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1304,7 +1304,7 @@ export const COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-13',
     testNote:
-      'Aplicamos o CECILIA10 num carrinho com regata, kit de whey, creatina e pré-treino e glutamina, e os 10% valeram em todos os itens, inclusive nos que já estavam com preço promocional.',
+      'Aplicamos o CECILIA10 num carrinho de R$ 364,33 com regata, kit de whey, creatina e pré-treino e glutamina, e o pedido saiu por R$ 327,89, com R$ 36,44 de desconto: os 10% valeram em todos os itens, inclusive nos que já estavam com preço promocional.',
     aboutBrand:
       'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
