@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 68
 score_conversao: 88
@@ -185,3 +185,9 @@ FAQ:
 - Autocompletar: "lejour lista", "lejour", "lista de presentes lejour".
 - Prints do Bruno: cadastro em 3 passos, painel e planos.
 - WebFetch: central de ajuda (criação da lista, taxa, saque, confirmação de presença).
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/lista-de-casamento-lejour-como-criar.json`, id 427, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `lejour-cadastro-01-nomes-do-casal.webp`, `lejour-cadastro-02-data-do-casamento.webp`, `lejour-cadastro-04-painel-personalizar-site.webp`, `lejour-lista-capa.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

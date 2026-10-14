@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 64
@@ -166,3 +166,9 @@ FAQ:
 ## 12. Registro da pesquisa (14/10/2026)
 - Autocompletar: "black skull reclame aqui".
 - Prints do Bruno: topo, abas 6 meses, 12 meses e 2025 e principais problemas.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/black-skull-reclame-aqui-nota-reputacao.json`, id 422, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `black-skull-reclame-aqui-aba-12-meses.webp`, `black-skull-reclame-aqui-aba-2025.webp`, `black-skull-reclame-aqui-aba-6-meses.webp`, `black-skull-reclame-aqui-capa.webp`, `black-skull-reclame-aqui-principais-problemas.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

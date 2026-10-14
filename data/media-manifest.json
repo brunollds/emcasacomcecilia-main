@@ -36013,6 +36013,512 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88674,
+      "sha256": "22b915927fc61701496e38ab3131559bdeb0ce11b0f4a4f1bdc680c0a3697cdf",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-confiavel-capa.webp",
+      "storage_filename": "black-skull-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74671,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/22b915927fc61701496e38ab3131559bdeb0ce11b0f4a4f1bdc680c0a3697cdf/black-skull-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/22b915927fc61701496e38ab3131559bdeb0ce11b0f4a4f1bdc680c0a3697cdf/black-skull-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "22b915927fc61701496e38ab3131559bdeb0ce11b0f4a4f1bdc680c0a3697cdf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46126,
+      "sha256": "b5c808433521615ba2c14ef1400edc4102fedb7a5ce6b9e36e5c163ffc10a778",
+      "width": 1132,
+      "height": 797,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "storage_filename": "black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 75,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75285,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b5c808433521615ba2c14ef1400edc4102fedb7a5ce6b9e36e5c163ffc10a778/black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b5c808433521615ba2c14ef1400edc4102fedb7a5ce6b9e36e5c163ffc10a778/black-skull-cupom-01-carrinho-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "b5c808433521615ba2c14ef1400edc4102fedb7a5ce6b9e36e5c163ffc10a778",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46170,
+      "sha256": "234c4fbc026043b81333f1ff77c12f9cd027b84dd116c4120d79b45cfcbbf63a",
+      "width": 1116,
+      "height": 747,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-cupom-02-codigo-digitado.webp",
+      "storage_filename": "black-skull-cupom-02-codigo-digitado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 87,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75297,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/234c4fbc026043b81333f1ff77c12f9cd027b84dd116c4120d79b45cfcbbf63a/black-skull-cupom-02-codigo-digitado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/234c4fbc026043b81333f1ff77c12f9cd027b84dd116c4120d79b45cfcbbf63a/black-skull-cupom-02-codigo-digitado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "234c4fbc026043b81333f1ff77c12f9cd027b84dd116c4120d79b45cfcbbf63a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16642,
+      "sha256": "4c5e534bc5b10223363c15d22f963f60edefad8404a88e08da8879f0868220e5",
+      "width": 525,
+      "height": 619,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "black-skull-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75309,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c5e534bc5b10223363c15d22f963f60edefad8404a88e08da8879f0868220e5/black-skull-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c5e534bc5b10223363c15d22f963f60edefad8404a88e08da8879f0868220e5/black-skull-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "4c5e534bc5b10223363c15d22f963f60edefad8404a88e08da8879f0868220e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-cupom-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32612,
+      "sha256": "734f6b74a83453a06d9ca444f69834b6fbe784f84ede19c23390181576229362",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-cupom-capa.webp",
+      "storage_filename": "black-skull-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-black-skull-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75232,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/734f6b74a83453a06d9ca444f69834b6fbe784f84ede19c23390181576229362/black-skull-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/734f6b74a83453a06d9ca444f69834b6fbe784f84ede19c23390181576229362/black-skull-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "734f6b74a83453a06d9ca444f69834b6fbe784f84ede19c23390181576229362",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32042,
+      "sha256": "d736accbf696351f924c0fdb981c769c7fcaa0a37d7b37ad354d09f73dfc321a",
+      "width": 327,
+      "height": 1025,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-aba-12-meses.webp",
+      "storage_filename": "black-skull-reclame-aqui-aba-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 139,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75065,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d736accbf696351f924c0fdb981c769c7fcaa0a37d7b37ad354d09f73dfc321a/black-skull-reclame-aqui-aba-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d736accbf696351f924c0fdb981c769c7fcaa0a37d7b37ad354d09f73dfc321a/black-skull-reclame-aqui-aba-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "d736accbf696351f924c0fdb981c769c7fcaa0a37d7b37ad354d09f73dfc321a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33578,
+      "sha256": "d61ab0c757278974906d958861dc27ba4c7719c4ba95ce505b518ca76b15736f",
+      "width": 326,
+      "height": 1018,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-aba-2025.webp",
+      "storage_filename": "black-skull-reclame-aqui-aba-2025.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75072,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d61ab0c757278974906d958861dc27ba4c7719c4ba95ce505b518ca76b15736f/black-skull-reclame-aqui-aba-2025.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d61ab0c757278974906d958861dc27ba4c7719c4ba95ce505b518ca76b15736f/black-skull-reclame-aqui-aba-2025.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "d61ab0c757278974906d958861dc27ba4c7719c4ba95ce505b518ca76b15736f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33716,
+      "sha256": "5441d635ce8c02015f0b6cefa969d3c75290fb5ace6e3a0c593d50a4ed9f3523",
+      "width": 323,
+      "height": 1021,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "black-skull-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 132,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75058,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5441d635ce8c02015f0b6cefa969d3c75290fb5ace6e3a0c593d50a4ed9f3523/black-skull-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5441d635ce8c02015f0b6cefa969d3c75290fb5ace6e3a0c593d50a4ed9f3523/black-skull-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "5441d635ce8c02015f0b6cefa969d3c75290fb5ace6e3a0c593d50a4ed9f3523",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31514,
+      "sha256": "b9293cb0f999917318a20c1e6f5d7d648248b464f511fb189368ae03f90b58ff",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-capa.webp",
+      "storage_filename": "black-skull-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74948,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b9293cb0f999917318a20c1e6f5d7d648248b464f511fb189368ae03f90b58ff/black-skull-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9293cb0f999917318a20c1e6f5d7d648248b464f511fb189368ae03f90b58ff/black-skull-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "b9293cb0f999917318a20c1e6f5d7d648248b464f511fb189368ae03f90b58ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19924,
+      "sha256": "32b9ee448aaf843227c7ecc32e2a7e0fb80c40eda1c1ceef7fc397741d976807",
+      "width": 629,
+      "height": 513,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "black-skull-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 198,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75124,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/32b9ee448aaf843227c7ecc32e2a7e0fb80c40eda1c1ceef7fc397741d976807/black-skull-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/32b9ee448aaf843227c7ecc32e2a7e0fb80c40eda1c1ceef7fc397741d976807/black-skull-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "32b9ee448aaf843227c7ecc32e2a7e0fb80c40eda1c1ceef7fc397741d976807",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23294,
+      "sha256": "5e8d8e6bfa989c8a573eacabf908dbd417b9b550d421ce7452e5124243b39ca2",
+      "width": 987,
+      "height": 172,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-rodape-cnpj.webp",
+      "storage_filename": "black-skull-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-e-confiavel.json",
+          "line": 76,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74725,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5e8d8e6bfa989c8a573eacabf908dbd417b9b550d421ce7452e5124243b39ca2/black-skull-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e8d8e6bfa989c8a573eacabf908dbd417b9b550d421ce7452e5124243b39ca2/black-skull-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "5e8d8e6bfa989c8a573eacabf908dbd417b9b550d421ce7452e5124243b39ca2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/conhecendo-mais-rabanada.avif",
       "local_url": "/images/reviews/conhecendo-mais-rabanada.avif",
       "media_kind": "image",
@@ -45385,6 +45891,512 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111854,
+      "sha256": "bce331180165cfefccdaf64d3a771bb05cc6d8d44abf0b25bd2d69551502f644",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-confiavel-capa.webp",
+      "storage_filename": "dr-peanut-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73969,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bce331180165cfefccdaf64d3a771bb05cc6d8d44abf0b25bd2d69551502f644/dr-peanut-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bce331180165cfefccdaf64d3a771bb05cc6d8d44abf0b25bd2d69551502f644/dr-peanut-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "bce331180165cfefccdaf64d3a771bb05cc6d8d44abf0b25bd2d69551502f644",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38350,
+      "sha256": "525bba01161677d49fad092829fdaebf5739ca3f66031305fd8eaf52d357e5be",
+      "width": 987,
+      "height": 614,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "storage_filename": "dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-como-usar.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74521,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/525bba01161677d49fad092829fdaebf5739ca3f66031305fd8eaf52d357e5be/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/525bba01161677d49fad092829fdaebf5739ca3f66031305fd8eaf52d357e5be/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "525bba01161677d49fad092829fdaebf5739ca3f66031305fd8eaf52d357e5be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38806,
+      "sha256": "fc549a422a6afaa31e52981fc085d42f43870a1e85faa3910f5f9499fa93e274",
+      "width": 957,
+      "height": 545,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-cupom-02-codigo-digitado.webp",
+      "storage_filename": "dr-peanut-cupom-02-codigo-digitado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-como-usar.json",
+          "line": 81,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74533,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fc549a422a6afaa31e52981fc085d42f43870a1e85faa3910f5f9499fa93e274/dr-peanut-cupom-02-codigo-digitado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fc549a422a6afaa31e52981fc085d42f43870a1e85faa3910f5f9499fa93e274/dr-peanut-cupom-02-codigo-digitado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "fc549a422a6afaa31e52981fc085d42f43870a1e85faa3910f5f9499fa93e274",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20416,
+      "sha256": "9c7ac37368fd3793e82dbe6638561fcbed0c3a8bad4de3e25a3ea1612de86a08",
+      "width": 592,
+      "height": 568,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "dr-peanut-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-como-usar.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74551,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9c7ac37368fd3793e82dbe6638561fcbed0c3a8bad4de3e25a3ea1612de86a08/dr-peanut-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c7ac37368fd3793e82dbe6638561fcbed0c3a8bad4de3e25a3ea1612de86a08/dr-peanut-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "9c7ac37368fd3793e82dbe6638561fcbed0c3a8bad4de3e25a3ea1612de86a08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36304,
+      "sha256": "f9df9417dca9eeb5e4954b561cd543315a214e30a0edb9c2fde468b88dc6635a",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-cupom-capa.webp",
+      "storage_filename": "dr-peanut-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-dr-peanut-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-dr-peanut-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74474,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f9df9417dca9eeb5e4954b561cd543315a214e30a0edb9c2fde468b88dc6635a/dr-peanut-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f9df9417dca9eeb5e4954b561cd543315a214e30a0edb9c2fde468b88dc6635a/dr-peanut-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "f9df9417dca9eeb5e4954b561cd543315a214e30a0edb9c2fde468b88dc6635a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35874,
+      "sha256": "21b1ae9716b7d3c32e509c21b83cd333c0810e2938ed7c7673d0a3ce49c9e2db",
+      "width": 330,
+      "height": 1068,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "storage_filename": "dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74327,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/21b1ae9716b7d3c32e509c21b83cd333c0810e2938ed7c7673d0a3ce49c9e2db/dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21b1ae9716b7d3c32e509c21b83cd333c0810e2938ed7c7673d0a3ce49c9e2db/dr-peanut-reclame-aqui-aba-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "21b1ae9716b7d3c32e509c21b83cd333c0810e2938ed7c7673d0a3ce49c9e2db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35282,
+      "sha256": "1f2f0dfc4f26ee009062ae7c71604e163995ce4a6d95348f2a9efca8f7162a3d",
+      "width": 333,
+      "height": 1074,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-reclame-aqui-aba-2025.webp",
+      "storage_filename": "dr-peanut-reclame-aqui-aba-2025.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74334,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f2f0dfc4f26ee009062ae7c71604e163995ce4a6d95348f2a9efca8f7162a3d/dr-peanut-reclame-aqui-aba-2025.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f2f0dfc4f26ee009062ae7c71604e163995ce4a6d95348f2a9efca8f7162a3d/dr-peanut-reclame-aqui-aba-2025.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "1f2f0dfc4f26ee009062ae7c71604e163995ce4a6d95348f2a9efca8f7162a3d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34858,
+      "sha256": "6256d454f31b0cf5872f7fa6503a47a74e6d25be82ee77c3e11993fb6342ea98",
+      "width": 331,
+      "height": 1070,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+          "line": 135,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74320,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6256d454f31b0cf5872f7fa6503a47a74e6d25be82ee77c3e11993fb6342ea98/dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6256d454f31b0cf5872f7fa6503a47a74e6d25be82ee77c3e11993fb6342ea98/dr-peanut-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "6256d454f31b0cf5872f7fa6503a47a74e6d25be82ee77c3e11993fb6342ea98",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29840,
+      "sha256": "2a3aa24cb6ce4dba76c2b4145938ed9480aa3de11c6e9bc81326a19d06acb696",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-reclame-aqui-capa.webp",
+      "storage_filename": "dr-peanut-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74207,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2a3aa24cb6ce4dba76c2b4145938ed9480aa3de11c6e9bc81326a19d06acb696/dr-peanut-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a3aa24cb6ce4dba76c2b4145938ed9480aa3de11c6e9bc81326a19d06acb696/dr-peanut-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "2a3aa24cb6ce4dba76c2b4145938ed9480aa3de11c6e9bc81326a19d06acb696",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17222,
+      "sha256": "764cc19e0c16e362269133ae49be3bec1a57e296040b5113382b2017b078445b",
+      "width": 623,
+      "height": 509,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "dr-peanut-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json",
+          "line": 201,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74386,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/764cc19e0c16e362269133ae49be3bec1a57e296040b5113382b2017b078445b/dr-peanut-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/764cc19e0c16e362269133ae49be3bec1a57e296040b5113382b2017b078445b/dr-peanut-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "764cc19e0c16e362269133ae49be3bec1a57e296040b5113382b2017b078445b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13824,
+      "sha256": "aeecfd759ad50e86ea34bbf25241779d0360b0790585df29cace99401b8b3c5e",
+      "width": 1321,
+      "height": 161,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-rodape-cnpj.webp",
+      "storage_filename": "dr-peanut-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-confiavel.json",
+          "line": 85,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 74032,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/aeecfd759ad50e86ea34bbf25241779d0360b0790585df29cace99401b8b3c5e/dr-peanut-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aeecfd759ad50e86ea34bbf25241779d0360b0790585df29cace99401b8b3c5e/dr-peanut-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "aeecfd759ad50e86ea34bbf25241779d0360b0790585df29cace99401b8b3c5e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
       "local_url": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
       "media_kind": "image",
@@ -50079,6 +51091,512 @@
       "uploaded_at": null,
       "verified_at": "2026-10-13T03:46:35.514Z",
       "verification_etag_or_digest": "5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
+      "local_url": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7682,
+      "sha256": "d1933cf994bab78f847798c5459bcd4d7596aa58c78c9683170bfd04bb1979bb",
+      "width": 1200,
+      "height": 523,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-cadastro-01-nomes-do-casal.webp",
+      "storage_filename": "lejour-cadastro-01-nomes-do-casal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 49,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76275,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d1933cf994bab78f847798c5459bcd4d7596aa58c78c9683170bfd04bb1979bb/lejour-cadastro-01-nomes-do-casal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d1933cf994bab78f847798c5459bcd4d7596aa58c78c9683170bfd04bb1979bb/lejour-cadastro-01-nomes-do-casal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "d1933cf994bab78f847798c5459bcd4d7596aa58c78c9683170bfd04bb1979bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
+      "local_url": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8070,
+      "sha256": "c00ffed00eb399c3fe3a1a2101852cca9995e78c5588bb099704c86956ff721c",
+      "width": 1200,
+      "height": 454,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-cadastro-02-data-do-casamento.webp",
+      "storage_filename": "lejour-cadastro-02-data-do-casamento.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 60,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76286,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c00ffed00eb399c3fe3a1a2101852cca9995e78c5588bb099704c86956ff721c/lejour-cadastro-02-data-do-casamento.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c00ffed00eb399c3fe3a1a2101852cca9995e78c5588bb099704c86956ff721c/lejour-cadastro-02-data-do-casamento.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "c00ffed00eb399c3fe3a1a2101852cca9995e78c5588bb099704c86956ff721c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
+      "local_url": "/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57750,
+      "sha256": "bc9498a411f6decc2f15738828bf0db2d59c58c93ca6d235feab01c670161617",
+      "width": 1200,
+      "height": 1084,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-cadastro-04-painel-personalizar-site.webp",
+      "storage_filename": "lejour-cadastro-04-painel-personalizar-site.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 92,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76318,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bc9498a411f6decc2f15738828bf0db2d59c58c93ca6d235feab01c670161617/lejour-cadastro-04-painel-personalizar-site.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc9498a411f6decc2f15738828bf0db2d59c58c93ca6d235feab01c670161617/lejour-cadastro-04-painel-personalizar-site.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "bc9498a411f6decc2f15738828bf0db2d59c58c93ca6d235feab01c670161617",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+      "local_url": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47046,
+      "sha256": "33208feebd227f8e16864788e59f113b9a19f36da43ae393d23e58ddd5e90a87",
+      "width": 1203,
+      "height": 887,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-cadastro-05-planos.webp",
+      "storage_filename": "lejour-cadastro-05-planos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-como-funciona.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-como-funciona.json",
+          "line": 118,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76021,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/33208feebd227f8e16864788e59f113b9a19f36da43ae393d23e58ddd5e90a87/lejour-cadastro-05-planos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/33208feebd227f8e16864788e59f113b9a19f36da43ae393d23e58ddd5e90a87/lejour-cadastro-05-planos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "33208feebd227f8e16864788e59f113b9a19f36da43ae393d23e58ddd5e90a87",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-como-funciona-capa.webp",
+      "local_url": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42806,
+      "sha256": "96a52d32cc802065a39a9fce29d6193cb82b4c75d7f9812cc4295bf591f3dd24",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-como-funciona-capa.webp",
+      "storage_filename": "lejour-como-funciona-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-como-funciona.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-como-funciona.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75925,
+          "column": 15,
+          "literal": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/96a52d32cc802065a39a9fce29d6193cb82b4c75d7f9812cc4295bf591f3dd24/lejour-como-funciona-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/96a52d32cc802065a39a9fce29d6193cb82b4c75d7f9812cc4295bf591f3dd24/lejour-como-funciona-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "96a52d32cc802065a39a9fce29d6193cb82b4c75d7f9812cc4295bf591f3dd24",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-confiavel-capa.webp",
+      "local_url": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43846,
+      "sha256": "adaef86b3263e389fb6775c70d0be6a199f8749a4f01c480e2b6cb8a74b5d45d",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-confiavel-capa.webp",
+      "storage_filename": "lejour-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75427,
+          "column": 15,
+          "literal": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/adaef86b3263e389fb6775c70d0be6a199f8749a4f01c480e2b6cb8a74b5d45d/lejour-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/adaef86b3263e389fb6775c70d0be6a199f8749a4f01c480e2b6cb8a74b5d45d/lejour-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "adaef86b3263e389fb6775c70d0be6a199f8749a4f01c480e2b6cb8a74b5d45d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-lista-capa.webp",
+      "local_url": "/images/reviews/lejour/lejour-lista-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18138,
+      "sha256": "1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-lista-capa.webp",
+      "storage_filename": "lejour-lista-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-lista-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76248,
+          "column": 15,
+          "literal": "/images/reviews/lejour/lejour-lista-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b/lejour-lista-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b/lejour-lista-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30244,
+      "sha256": "59f227816203c56faf1ad17eeaab6b01433bc669978b7bf1b4fb6d78504b74ac",
+      "width": 326,
+      "height": 1012,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "lejour-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+          "line": 145,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75792,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/59f227816203c56faf1ad17eeaab6b01433bc669978b7bf1b4fb6d78504b74ac/lejour-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/59f227816203c56faf1ad17eeaab6b01433bc669978b7bf1b4fb6d78504b74ac/lejour-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "59f227816203c56faf1ad17eeaab6b01433bc669978b7bf1b4fb6d78504b74ac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27184,
+      "sha256": "8da77123f7a53b03fc0ba75c774d1ae0cff0813cba70afad37b6821223402e4b",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-reclame-aqui-capa.webp",
+      "storage_filename": "lejour-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75669,
+          "column": 15,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8da77123f7a53b03fc0ba75c774d1ae0cff0813cba70afad37b6821223402e4b/lejour-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8da77123f7a53b03fc0ba75c774d1ae0cff0813cba70afad37b6821223402e4b/lejour-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "8da77123f7a53b03fc0ba75c774d1ae0cff0813cba70afad37b6821223402e4b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18034,
+      "sha256": "6b4cbdf47b44967f3157800d89d60fdd6c9587b32eff0d983b6225e0abce4d59",
+      "width": 626,
+      "height": 511,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "lejour-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-reclame-aqui-nota-reputacao.json",
+          "line": 160,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75807,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6b4cbdf47b44967f3157800d89d60fdd6c9587b32eff0d983b6225e0abce4d59/lejour-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6b4cbdf47b44967f3157800d89d60fdd6c9587b32eff0d983b6225e0abce4d59/lejour-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "6b4cbdf47b44967f3157800d89d60fdd6c9587b32eff0d983b6225e0abce4d59",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-rodape-cnpj.webp",
+      "local_url": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18002,
+      "sha256": "aed5585e436b5f8a5f38689d0c76ee9dfb278fde898b90d7d95c0d53ac675bf3",
+      "width": 651,
+      "height": 279,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-rodape-cnpj.webp",
+      "storage_filename": "lejour-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-e-confiavel.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 75464,
+          "column": 19,
+          "literal": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/aed5585e436b5f8a5f38689d0c76ee9dfb278fde898b90d7d95c0d53ac675bf3/lejour-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aed5585e436b5f8a5f38689d0c76ee9dfb278fde898b90d7d95c0d53ac675bf3/lejour-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "aed5585e436b5f8a5f38689d0c76ee9dfb278fde898b90d7d95c0d53ac675bf3",
       "verification_status": "verified"
     },
     {
@@ -54908,6 +56426,466 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "cace30d629c2a056c0e9415bb1a43440657c0a9119f0624dc5425b74d13293bd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55322,
+      "sha256": "d2ac8de447efb899b6af91c54e446d49fc01b832e36cbc113e3b6306c9d96279",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-confiavel-capa.webp",
+      "storage_filename": "probiotica-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73274,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d2ac8de447efb899b6af91c54e446d49fc01b832e36cbc113e3b6306c9d96279/probiotica-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2ac8de447efb899b6af91c54e446d49fc01b832e36cbc113e3b6306c9d96279/probiotica-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "d2ac8de447efb899b6af91c54e446d49fc01b832e36cbc113e3b6306c9d96279",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42992,
+      "sha256": "20b8e6cbf50674f898d2039bcc46a3070cac6882786abf79e0c65c7d01fec67a",
+      "width": 989,
+      "height": 770,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "storage_filename": "probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-como-usar.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73810,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/20b8e6cbf50674f898d2039bcc46a3070cac6882786abf79e0c65c7d01fec67a/probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/20b8e6cbf50674f898d2039bcc46a3070cac6882786abf79e0c65c7d01fec67a/probiotica-cupom-01-carrinho-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "20b8e6cbf50674f898d2039bcc46a3070cac6882786abf79e0c65c7d01fec67a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43310,
+      "sha256": "f7226a24ef81905dbaaeef08a4e3b298e6e4c9a0c414373649a7c003e1329d8f",
+      "width": 975,
+      "height": 746,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-cupom-02-codigo-digitado.webp",
+      "storage_filename": "probiotica-cupom-02-codigo-digitado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-como-usar.json",
+          "line": 102,
+          "column": 17,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73823,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f7226a24ef81905dbaaeef08a4e3b298e6e4c9a0c414373649a7c003e1329d8f/probiotica-cupom-02-codigo-digitado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f7226a24ef81905dbaaeef08a4e3b298e6e4c9a0c414373649a7c003e1329d8f/probiotica-cupom-02-codigo-digitado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "f7226a24ef81905dbaaeef08a4e3b298e6e4c9a0c414373649a7c003e1329d8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22482,
+      "sha256": "77c1c0018baa0ded8c613b8f0449af9142c2d57a5c40b8d6ed64b803d1cc2b8f",
+      "width": 586,
+      "height": 574,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "probiotica-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-como-usar.json",
+          "line": 115,
+          "column": 17,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73836,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/77c1c0018baa0ded8c613b8f0449af9142c2d57a5c40b8d6ed64b803d1cc2b8f/probiotica-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/77c1c0018baa0ded8c613b8f0449af9142c2d57a5c40b8d6ed64b803d1cc2b8f/probiotica-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "77c1c0018baa0ded8c613b8f0449af9142c2d57a5c40b8d6ed64b803d1cc2b8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-cupom-capa.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38320,
+      "sha256": "288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-cupom-capa.webp",
+      "storage_filename": "probiotica-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-probiotica-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-probiotica-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73743,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a/probiotica-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a/probiotica-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35972,
+      "sha256": "9f3eae4b6ef6bf15eaaa1164d008e5ca2122b5d6d89e4b5ab56559c78489ff6f",
+      "width": 322,
+      "height": 1067,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-reclame-aqui-aba-12-meses.webp",
+      "storage_filename": "probiotica-reclame-aqui-aba-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73644,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f3eae4b6ef6bf15eaaa1164d008e5ca2122b5d6d89e4b5ab56559c78489ff6f/probiotica-reclame-aqui-aba-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f3eae4b6ef6bf15eaaa1164d008e5ca2122b5d6d89e4b5ab56559c78489ff6f/probiotica-reclame-aqui-aba-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "9f3eae4b6ef6bf15eaaa1164d008e5ca2122b5d6d89e4b5ab56559c78489ff6f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34490,
+      "sha256": "c2c5f8e4434dcd7c04593091514b0d2fd4628857dd29c243a187a8cbfad442ae",
+      "width": 328,
+      "height": 1074,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "probiotica-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+          "line": 138,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73637,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2c5f8e4434dcd7c04593091514b0d2fd4628857dd29c243a187a8cbfad442ae/probiotica-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2c5f8e4434dcd7c04593091514b0d2fd4628857dd29c243a187a8cbfad442ae/probiotica-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "c2c5f8e4434dcd7c04593091514b0d2fd4628857dd29c243a187a8cbfad442ae",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29634,
+      "sha256": "d0a1b1c02710dc3163b72c4c2d757ffa98699c805e55f72fa9b3c48e93b513a1",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-reclame-aqui-capa.webp",
+      "storage_filename": "probiotica-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73521,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d0a1b1c02710dc3163b72c4c2d757ffa98699c805e55f72fa9b3c48e93b513a1/probiotica-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d0a1b1c02710dc3163b72c4c2d757ffa98699c805e55f72fa9b3c48e93b513a1/probiotica-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "d0a1b1c02710dc3163b72c4c2d757ffa98699c805e55f72fa9b3c48e93b513a1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18940,
+      "sha256": "9df416180e27f4f06523e440a8e2cf9127f84bd748a52d7979038bfe7b161707",
+      "width": 621,
+      "height": 509,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "probiotica-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-reclame-aqui-nota-reputacao.json",
+          "line": 167,
+          "column": 17,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73666,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9df416180e27f4f06523e440a8e2cf9127f84bd748a52d7979038bfe7b161707/probiotica-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9df416180e27f4f06523e440a8e2cf9127f84bd748a52d7979038bfe7b161707/probiotica-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "9df416180e27f4f06523e440a8e2cf9127f84bd748a52d7979038bfe7b161707",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12526,
+      "sha256": "073a15a53d01fe293f3e40b37c1f83d1c165b8e0c3be67bc3848a3ddbc6c4cca",
+      "width": 1149,
+      "height": 78,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-rodape-cnpj.webp",
+      "storage_filename": "probiotica-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-e-confiavel.json",
+          "line": 102,
+          "column": 17,
+          "literal": "/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 73354,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/073a15a53d01fe293f3e40b37c1f83d1c165b8e0c3be67bc3848a3ddbc6c4cca/probiotica-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/073a15a53d01fe293f3e40b37c1f83d1c165b8e0c3be67bc3848a3ddbc6c4cca/probiotica-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T16:08:01.326Z",
+      "verification_etag_or_digest": "073a15a53d01fe293f3e40b37c1f83d1c165b8e0c3be67bc3848a3ddbc6c4cca",
       "verification_status": "verified"
     },
     {
