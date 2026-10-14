@@ -1215,6 +1215,80 @@ export const COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'max-titanium',
+    brand: 'Max Titanium',
+    officialUrl: 'https://www.maxtitanium.com.br/',
+    offerUrl: 'https://www.maxtitanium.com.br/',
+    brandIcon: 'MAX',
+    brandColor: '#C90C0F',
+    code: 'MAX10EMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Suplementos e nutrição esportiva',
+    hubCategory: 'saude',
+    shortDescription: 'suplementos no site oficial da Max Titanium',
+    longDescription:
+      'Código da Cecília para economizar em whey, creatina, pré-treinos e outros suplementos no site oficial da Max Titanium, com qualquer forma de pagamento.',
+    metaTitle: 'Cupom Max Titanium Outubro 2026: MAX10EMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Max Titanium de outubro de 2026: use MAX10EMCASACOMCECILIA no checkout do site oficial e ganhe até 10% OFF em suplementos, em todas as formas de pagamento.',
+    eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable:
+      'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
+    lastVerified: '2026-10-14',
+    testNote:
+      'Aplicamos o MAX10EMCASACOMCECILIA num carrinho com um Top Whey 3W 900 g em promoção, de R$ 273,55 por R$ 189,00, e dois brindes. O pedido saiu por R$ 172,25, com R$ 16,75 de desconto, e os brindes continuaram no carrinho. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
+    aboutBrand:
+      'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom MAX10EMCASACOMCECILIA dá?',
+        answer:
+          'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Max Titanium.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção e com os brindes?',
+        answer:
+          'Sim. No teste de 14/10/2026, o cupom deu desconto num whey que já estava com preço promocional, e os dois brindes escolhidos continuaram no carrinho.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 14/10/2026, o MAX10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Max Titanium?',
+        answer:
+          'No carrinho do site oficial, no campo "Cupom de Desconto", antes de continuar para o pagamento.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'O desconto chega a 10% e pode ser menor em alguns produtos',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'dr-peanut',
     brand: 'Dr. Peanut',
     officialUrl: 'https://www.drpeanut.com.br/',
@@ -1420,6 +1494,79 @@ export const COUPONS: Coupon[] = [
           'Sim, a indicação pode gerar comissão para o Em Casa com Cecília, sem custo extra para o casal.',
       },
     ],
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'clea-store',
+    brand: 'Cléa Store',
+    officialUrl: 'https://www.cleastore.com.br/',
+    offerUrl: 'https://www.cleastore.com.br/',
+    brandIcon: 'CS',
+    brandColor: '#111111',
+    code: 'CSEMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Moda feminina',
+    hubCategory: 'moda',
+    shortDescription: 'todo o site Cléa Store, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em alfaiataria, blusas, vestidos, t-shirts e acessórios no site oficial da Cléa Store, com qualquer forma de pagamento.',
+    metaTitle: 'Cupom Cléa Store Outubro 2026: CSEMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Cléa Store de outubro de 2026: use CSEMCASACOMCECILIA e ganhe 10% OFF em todo o site, em todas as formas de pagamento, somando com as promoções e o cashback.',
+    eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Frete grátis acima de R$ 599, segundo a faixa do site em 14/10/2026; abaixo disso, conforme a política da loja',
+    combinable:
+      'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
+    lastVerified: '2026-10-14',
+    testNote:
+      'Aplicamos o CSEMCASACOMCECILIA num kit de 3 t-shirts em promoção, de R$ 387,00 por R$ 258,00, e o pedido saiu por R$ 232,20, com R$ 25,80 de desconto: os 10% valeram sobre o preço promocional, e o pedido continuou gerando cashback.',
+    aboutBrand:
+      'A Cléa Store é uma marca brasileira de moda feminina, com alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios vendidos no site oficial. O cupom CSEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o cashback da loja. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale para todos os produtos da Cléa Store?',
+        answer: 'Sim. O CSEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Cléa Store.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Cléa Store.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 14/10/2026, os 10% entraram num kit de t-shirts que já estava com preço promocional.',
+      },
+      {
+        question: 'O cupom soma com o cashback da Cléa Store?',
+        answer:
+          'Sim. No teste de 14/10/2026, o pedido com o cupom aplicado continuou gerando cashback, calculado sobre o valor já com o desconto.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 14/10/2026, o CSEMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'A Cléa Store tem frete grátis?',
+        answer:
+          'Em 14/10/2026, o site anunciava frete grátis acima de R$ 599. Abaixo disso, o frete é calculado pela loja no checkout.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale com todas as formas de pagamento e soma com as promoções e o cashback',
+    },
     status: 'ativo',
     featured: false,
   },

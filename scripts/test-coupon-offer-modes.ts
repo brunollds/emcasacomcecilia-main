@@ -74,11 +74,14 @@ assert.equal(
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
-// Parceiros de 13/10/2026. Só a Probiótica e a Lejour mandaram link com UTM, e ele vai como veio.
+// Parceiros de 13/10/2026 e, desde 14/10, a Max Titanium e a Cléa Store. Só a Probiótica e a Lejour
+// mandaram link com UTM, e ele vai como veio; as outras vão ao site oficial.
 const newPartners = [
   { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
   { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
   { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
+  { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
+  { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
@@ -88,9 +91,10 @@ for (const partner of newPartners) {
   assert.equal(store.hubCategory, partner.hubCategory);
   assert.equal(store.offerUrl, partner.offerUrl);
 }
-// O desconto da Probiótica chega a 10% mas varia por produto: a página precisa dizer isso.
-const probiotica = getCouponBySlug('probiotica');
-assert.match(probiotica?.monthlyHighlight?.note ?? '', /pode ser menor/);
+// O desconto da Probiótica e o da Max Titanium chegam a 10% mas variam por produto: a página precisa dizer isso.
+for (const slug of ['probiotica', 'max-titanium']) {
+  assert.match(getCouponBySlug(slug)?.monthlyHighlight?.note ?? '', /pode ser menor/, `${slug} sem o aviso de até 10%`);
+}
 
 // A Lejour é só indicação: cadastro pelo link, sem código nem desconto.
 const lejour = getCouponBySlug('lejour');
@@ -177,4 +181,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Dr. Peanut, Black Skull, Lejour e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store e prateleiras do hub conferidos.");
