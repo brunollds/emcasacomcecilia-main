@@ -36,8 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026)
-- [ ] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -94,6 +93,8 @@
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
 - [[melatonina-liquida-iws-ficha-tecnica]] ✅
+- [x] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026; no ar em 14/10/2026, PR #100 e #102) 🚀
+- [x] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026; no ar em 14/10/2026, PR #100 e #102) 🚀
 
 - [x] [[probiotica-e-confiavel]] — Probiótica / Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; no ar em 14/10/2026, PR #93) 🚀
 - [x] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding; no ar em 14/10/2026, PR #93) 🚀

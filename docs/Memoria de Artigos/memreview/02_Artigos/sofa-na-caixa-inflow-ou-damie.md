@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pronto-para-deploy"
-responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 84
@@ -236,3 +236,7 @@ FAQ:
 - Bruno confirmou (14/10/2026): tomada USB e suporte por indução para celular e tablet são opcionais do sofá dela.
 - Ajustes de texto: CDC e garantia, janelas do Reclame Aqui (6 meses x até 3 anos), sem generalizar para o setor, rótulos de link com o título exato, sem bastidor, menos repetição.
 - Imagens: 4 prints do Reclame Aqui no CDN (sem marca-texto); fotos da Cecília já publicadas.
+
+## Publicação (14/10/2026)
+
+No ar desde 14/10/2026 22:07 UTC: PR #100 (`3ca4ff2`) com a revisão do PR #102 (`2ab132e`), build `01a13c72…`, deploy junto com o #101. Smoke ok e IndexNow enviado.
