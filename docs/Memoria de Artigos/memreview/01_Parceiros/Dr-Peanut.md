@@ -36,8 +36,13 @@ estava com preço promocional).
 | Marca de pastas de amendoim de Curitiba (PR), do Grupo Supley | fato_oficial | Gulfood (expositor), ABC da Comunicação | 2026-10-13 | 2027-01-13 | O grupo também tem Probiótica e Max Titanium |
 | Linha vista no carrinho: pastas de amendoim, alfajores, whey 100% Dr. Peanut (Max Titanium) | fato_oficial | Carrinho do teste de 13/10 | 2026-10-13 | 2027-01-13 | "Produto fornecido e entregue por Dr. Peanut" |
 
+| Empresa: Body Food Fabricantes de Alimentos Saudáveis Ltda. ("DR PEANUT"), CNPJ 28.324.667/0001-69, matriz em Curitiba (PR), ativa desde 02/08/2017, fábrica de alimentos; a Supley é sócia | fato_oficial | BrasilAPI e rodapé do site (print do Bruno) | 2026-10-14 | 2027-01-13 | O rodapé mostra o selo "RA 4.7 Ótimo", que não bate com o perfil do Reclame Aqui (Boa em 6 meses, 4,6 nas avaliações de compra) |
+| Trocas: 7 dias de arrependimento (loja paga a devolução); troca por outro produto com frete do cliente; defeito em 30 dias (alimentos) ou 90 dias (duráveis), coleta paga pela loja; SAC sac@supley.com.br | politica | Política de Trocas e Devoluções (texto colado pelo Bruno) | 2026-10-14 | 2027-01-13 | Estorno do boleto em até 72 horas |
+| Frete grátis: R$ 149,90 em SP capital, Sudeste e Sul; R$ 199,90 no Centro-Oeste, Nordeste e Norte; conta o total com cupom; entrega mais barata | condicao_comercial_volatil | Política de Frete Grátis (texto colado pelo Bruno) | 2026-10-14 | 2026-11-14 | |
+
 O site oficial bloqueia acesso automático (checagem da Vercel): os fatos do catálogo precisam de
-consulta pelo navegador.
+consulta pelo navegador ou de prints do Bruno. Prints de 14/10/2026 em
+`midia-staging/2026-10-14-onboarding-dr-peanut/`.
 
 ---
 
