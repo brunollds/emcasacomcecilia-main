@@ -164,6 +164,8 @@ acervo, não regra para linkar em massa.
 | Dr. Peanut | não medido | parceria nova (13/10/2026); só `/cupons/dr-peanut`, sem artigo |
 | Black Skull | não medido | parceria nova (13/10/2026); só `/cupons/black-skull`, sem artigo |
 | Lejour | não medido | parceria nova (13/10/2026); indicação por link, só `/cupons/lejour`, sem artigo |
+| Max Titanium | não medido | parceria nova (14/10/2026); só `/cupons/max-titanium`, sem artigo |
+| Cléa Store | não medido | parceria nova (14/10/2026); só `/cupons/clea-store`, sem artigo |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
 

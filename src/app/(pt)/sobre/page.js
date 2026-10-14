@@ -95,6 +95,8 @@ const partners = [
   { name: 'Dr. Peanut', src: '/images/about/partners/dr-peanut.png', href: 'https://www.drpeanut.com.br' },
   { name: 'Black Skull', src: '/images/about/partners/black-skull.png', href: 'https://www.blackskullusa.com.br' },
   { name: 'Lejour', src: '/images/about/partners/lejour.png', href: 'https://lejour.com.br' },
+  { name: 'Max Titanium', src: '/images/about/partners/max-titanium.png', href: 'https://www.maxtitanium.com.br' },
+  { name: 'Cléa Store', src: '/images/about/partners/clea-store.png', href: 'https://www.cleastore.com.br' },
 ];
 
 const personJsonLd = {

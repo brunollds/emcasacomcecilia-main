@@ -107,6 +107,8 @@ Para cada oferta ativa, reconferir:
 | `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir a faixa de frete grátis do carrinho (R$ 149,90 com o cupom em 13/10/2026). O site bloqueia acesso automático: conferir pelo navegador. |
 | `black-skull` | Black Skull | `CECILIA10` | — | Testar os 10% com um item em promoção. O site é blackskullusa.com.br. |
 | `lejour` | Lejour | indicação por link, sem código | tabela de planos no dossiê | Conferir preços, taxas e saques dos planos Basic, Premium e Pro, que a FAQ cita com data. A indicação não dá desconto: nenhum texto pode chamá-la de cupom. Não editar o link. |
+| `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` | — | Como na Probiótica: o desconto chega a 10% e varia por produto; testar com um carrinho misto e manter o aviso "pode ser menor" no destaque, nas regras e na FAQ. Conferir se os brindes do carrinho continuam com o cupom. |
+| `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir que o pedido segue gerando cashback e a faixa de frete grátis (R$ 599 em 14/10/2026). |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 

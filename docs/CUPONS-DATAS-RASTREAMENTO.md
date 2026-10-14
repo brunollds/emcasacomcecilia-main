@@ -35,6 +35,8 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
 | `black-skull` | Black Skull | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription` |
 | `lejour` | Lejour | Indicação por link, sem código | `lastVerified` e os preços e taxas dos planos na FAQ; manter `offerUrl` exatamente como veio |
+| `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription` |
+| `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)
