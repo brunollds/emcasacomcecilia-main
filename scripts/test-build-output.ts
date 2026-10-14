@@ -2252,7 +2252,7 @@ function assertPageTrail(pagePath: string, html: string, trail: readonly { name:
 const STORE_SHELF_HEADING = 'Lista de artigos';
 const STORE_ALL_REVIEWS_LABEL = 'Ver todos os guias e análises';
 
-// Subpágina de cada loja com mais de 3 artigos: o h1 (um só), o canonical, a trilha visível (nome, endereço
+// Subpágina de cada loja com 3 artigos ou mais: o h1 (um só), o canonical, a trilha visível (nome, endereço
 // e aria-current) igual ao BreadcrumbList, a estante (com o h2 só para leitor de tela, busca só acima de 12
 // artigos e só as categorias da loja), o link da página da loja, Outras lojas sem a loja da página, o link
 // para todos os guias, a imagem de compartilhamento, o JSON-LD e a data no sitemap.
