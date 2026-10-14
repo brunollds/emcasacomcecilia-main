@@ -15,10 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "整理 YesStyle 寄往新加坡与马来西亚的运送方式、时间、免运费门槛与税费，依据 2026年10月6日起生效的运费表，并说明到货时被收取的费用如何申请退款。",
-  "metaDescription": "YesStyle 会寄到新加坡与马来西亚吗？依据 2026年10月6日起生效的运费表，整理两地的运送时间、免运费门槛、GST 与销售税，以及海关费用的退款条件。",
+  "description": "整理 YesStyle 寄往新加坡与马来西亚的运送方式、时间、免运费门槛、税费、退货与付款方式，依据 2026年10月13日起生效的运费表，并说明到货时被收取的费用如何申请退款。",
+  "metaDescription": "YesStyle 会寄到新加坡与马来西亚吗？依据 2026年10月13日起生效的运费表，整理两地的运送时间、免运费门槛、GST 与销售税，以及海关费用的退款条件。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -39,7 +40,7 @@
         "**马来西亚：** Standard，10 至 16 个工作日，满 US$35 免运费，未满收 US$4。10% 的销售税不含在价格里，结账时另外加收，适用于经空运或邮寄、价值不超过 RM500 的商品。运费不征此税。"
       ],
       "postParagraphs": [
-        "运送时间与运费取自 YesStyle 自 2026年10月6日起生效的运费表，税费取自 YesStyle 各地区的税费页面，查阅日期为 2026年10月12日。运费与免运费门槛以美元计，与商店公布的相同。"
+        "运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，查阅日期为同日；税费取自 YesStyle 各地区的税费页面，查阅日期为 2026年10月12日。运费与免运费门槛以美元计，与商店公布的相同。"
       ]
     },
     {
@@ -48,7 +49,7 @@
         "运送时间之外，还要加上商品从仓库寄出前所需的时间，下一节会说明。"
       ],
       "comparisonTable": {
-        "caption": "YesStyle 寄往新加坡与马来西亚的运送时间与运费，取自 2026年10月6日起生效的运费表，查阅日期为 2026年10月12日。",
+        "caption": "YesStyle 寄往新加坡与马来西亚的运送时间与运费，取自 2026年10月13日起生效的运费表，查阅日期为同日。",
         "headers": [
           "国家",
           "运送方式与时间",
@@ -78,9 +79,24 @@
       ]
     },
     {
+      "heading": "免运费：哪些金额计入门槛",
+      "paragraphs": [
+        "新加坡满 US$50 免运费，马来西亚满 US$35 免运费。依运费表的备注，礼品包装费不计入这个总额。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-frete-singapura-2026-10-13.webp",
+        "alt": "YesStyle 英文版运费表，寄送目的地为新加坡（Shipping Destination: Singapore）：Express 满 US$50 免运费（Free），未满收 US$4，3 至 5 个工作日（3-5 working days），附追踪码（Tracking Code），下方备注礼品包装费不计入运费（Fees for Gift Wrapping are excluded when calculating shipping rates.），以及运费表自 2026年10月13日起生效的说明",
+        "caption": "YesStyle 运费表中的新加坡一栏（英文版页面），自 2026年10月13日（07:15 GMT）起生效，附礼品包装的备注。",
+        "objectFit": "contain",
+        "aspectRatio": 2.2235
+      }
+    },
+    {
       "heading": "运送时间怎么算",
       "paragraphs": [
-        "所有订单都从 YesStyle 位于香港的仓库寄出。总时间等于商品备妥出货的时间，加上运送时间。有库存的商品在 1 至 3 个工作日内寄出；标示「Awaiting Stock」的商品则要再多 3 至 30 个工作日，以商品页所示为准。"
+        "所有订单都从 YesStyle 位于香港的仓库寄出。总时间等于商品备妥出货的时间加上运送时间，商店两者都以工作日计算，并以香港时间（GMT+8）为准。",
+        "在新加坡，只含有库存商品的订单需要 4 至 8 个工作日：1 至 3 个工作日从仓库寄出，加上 3 至 5 个工作日的运送。",
+        "如果付款需要审核，从订单获批当天才开始计算。节假日和订单高峰也可能延迟出货。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
@@ -89,6 +105,27 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
+    },
+    {
+      "heading": "In-Stock 还是 Awaiting Stock：商品页显示的备货状态",
+      "paragraphs": [
+        "每件商品的页面都会在版本旁显示备货状态。它说明的是商品何时从仓库寄出，而不是何时送达。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-disponibilidade-produto-en-2026-10-13.webp",
+        "alt": "YesStyle 英文版商品页：Dr. Althea - 345 Relief Cream，售价 US$22.95，原价 US$27.00 划线，15% OFF 限时优惠附倒计时，并显示 Deal is 82% claimed；版本 2025 Version - 50ml 旁标示 In-Stock，下方是 ADD TO BAG 与 SAVE 按钮",
+        "caption": "2026年10月13日 YesStyle 的一个商品页（英文版页面），版本旁标示 In-Stock（有库存）。价格与优惠为当天的情况。",
+        "objectFit": "contain",
+        "aspectRatio": 2.1757
+      },
+      "bullets": [
+        "**In-Stock（有库存）：** 商品在 1 至 3 个工作日内从仓库寄出。",
+        "**Awaiting Stock: 3-5 days（待补货，3 至 5 天）：** 商品来自商店的区域仓库，在 3 至 5 个工作日内寄出。",
+        "**Awaiting Stock: 7 days**、**7-14 days**、**21 days** 或 **30 days**（待补货，7 天、7 至 14 天、21 天或 30 天）：商店在下单后才向供应商采购，商品会在所示时间内从仓库寄出，以工作日计。"
+      ],
+      "postParagraphs": [
+        "同时含有库存商品与待补货商品的订单，通常会等最后一件商品备妥后一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往新加坡的订单就需要 10 至 19 个工作日。"
+      ]
     },
     {
       "heading": "税费：哪些已含在价格内，哪些在结账时另加",
@@ -107,22 +144,53 @@
     {
       "heading": "包裹被征税时",
       "paragraphs": [
-        "YesStyle 会退还到货时被收取的税金与海关手续费，适用于未满 US$1,000 的订单（以优惠券折扣前、不含运费的金额计算）。请先付清被收取的费用，保留收据，并在收据日期起 30 天内用电邮发给客服；退款以 YesStyle Credit 发放。",
-        "不在退款范围内的有：邮政或物流公司收取的费用（仓储费、取件费，以及包裹未领取或被退回时的费用），以及结账时已收取的税金，也就是新加坡的 GST 和马来西亚的销售税。因被收费而拒收包裹的，既不退款，也不重寄。"
+        "**YesStyle 会退还未满 US$1,000 的订单在到货时被收取的税金与海关手续费**，订单金额以优惠券折扣前、不含运费的金额计算。退款以 YesStyle Credit 发放。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-en-2026-10-13.webp",
+        "alt": "YesStyle 英文版页面：蓝色横幅写着 Refunds for customs-related taxes and fees / incurred on all YesStyle orders under US$ 1,000，下方第 1 条说明自 2018年5月7日（Effective May 7, 2018）起，YesStyle 退还所有未满 US$1,000（或其他货币的等值金额）的订单所产生的海关相关税费",
+        "caption": "YesStyle 的海关税费退款页面（英文版页面），自 2018年5月7日起生效，查阅日期为 2026年10月13日。",
+        "objectFit": "contain",
+        "aspectRatio": 3.5907
+      },
+      "bullets": [
+        "**包裹送达时付清费用：** 因被收费而拒收包裹的，既不退款，也不重寄。",
+        "**保留付款收据**，收据上要有日期。",
+        "**用电邮把收据发给 YesStyle 客服**，期限为收据日期起 30 天内。没有收据或超过 30 天，商店不会受理申请。"
+      ],
+      "postParagraphs": [
+        "不在退款范围内的有：邮政或物流公司收取的费用（仓储费、取件费，以及包裹未领取或被退回时的费用），以及结账时已收取的税金，也就是新加坡的 GST 和马来西亚的销售税。"
       ]
     },
     {
-      "heading": "包裹延误或需要退回时",
+      "heading": "包裹延误、遗失或退回商店时",
       "paragraphs": [
-        "包裹遗失时，YesStyle 会依保障承诺（The YesStyle Promise）免费重寄。包裹因地址错误、投递失败或无人领取而退回商店时，需支付处理费与新的运费才会重寄。",
-        "要退货的话，请在收到商品后 14 天内向客服申请 RMA 编号。已拆封的美妆产品和营养补充品无法退货，退款一般以 YesStyle Credit 发放。",
-        "YesStyle 由谁运营、购买前要注意什么，请见我们的安全评价与购物指南。"
+        "如果包裹没有按时送达，请联系客服。包裹遗失时，YesStyle 会依保障承诺（The YesStyle Promise）重寄，不收处理费，也不收运费。",
+        "包裹因地址错误、投递失败或无人领取而退回商店时，需支付处理费与新的运费才会重寄。"
+      ]
+    },
+    {
+      "heading": "如何退货",
+      "bullets": [
+        "**期限：** 请在收到商品后 14 天内申请 RMA 编号，可通过账户里的 RMA 页面（适用于改变主意和更换尺码）或向客服申请，并在 RMA 发出后 30 天内寄出包裹。",
+        "**寄往哪里：** 包裹寄回商店位于香港的办公室，或寄到商店在美国和加拿大的退货合作伙伴；商店建议使用挂号邮件。",
+        "**不能退货的商品：** 已拆封的美妆产品、营养补充品，Buy 1 Get 1 Free、Clearance、Lucky Bundle 和 Deals 等优惠活动的商品，以及泳装、内衣、耳环和假发等贴身用品。",
+        "**过敏或皮肤反应：** 不能因此退款或退货。",
+        "**退款：** 以 YesStyle Credit 发放，一般在退货处理完成后 7 天内到账；如有要求，可退回原付款方式，需 14 个工作日或更久。优惠券与运费不予退还。",
+        "**瑕疵品：** 请附上照片向客服申请 RMA；商店承担以航空邮件或挂号邮件寄回的运费。"
       ],
       "links": [
         {
           "label": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南",
           "href": "/zh-hans/reviews/yesstyle-trust-guide-zh-hans"
         }
+      ]
+    },
+    {
+      "heading": "如何付款",
+      "paragraphs": [
+        "YesStyle 的付款页面列出 Visa、Mastercard、American Express 和 JCB 信用卡，以及 PayPal、Google Pay 和 Apple Pay。价格以美元计；用其他货币付款时，商店会在下单时按自己的汇率换算。",
+        "由于商店位于香港，银行可能收取海外交易手续费。"
       ]
     },
     {
@@ -140,15 +208,15 @@
     {
       "heading": "常见问题",
       "bullets": [
-        "YesStyle 会寄到新加坡和马来西亚吗？会。两个国家都在 YesStyle 自 2026年10月6日起生效的运费表上：新加坡用 Express，马来西亚用 Standard。",
-        "YesStyle 的运送要多久？新加坡 Express 为 3 至 5 个工作日，马来西亚 Standard 为 10 至 16 个工作日；有库存的商品，另外要 1 至 3 个工作日才会从仓库寄出。",
-        "YesStyle 满多少免运费？新加坡满 US$50，马来西亚满 US$35；未满的话，两地的运费都是 US$4。",
+        "YesStyle 会寄到新加坡和马来西亚吗？会。两个国家都在 YesStyle 自 2026年10月13日起生效的运费表上：新加坡用 Express，马来西亚用 Standard。",
+        "YesStyle 的运送要多久？新加坡 Express 为 3 至 5 个工作日，马来西亚 Standard 为 10 至 16 个工作日。在新加坡，只含有库存商品的订单共需 4 至 8 个工作日：1 至 3 个工作日从香港寄出，加上 3 至 5 个工作日的运送。",
+        "YesStyle 满多少免运费？不计礼品包装，新加坡满 US$50，马来西亚满 US$35；未满的话，两地的运费都是 US$4。",
         "在 YesStyle 购物会被收税费吗？新加坡 S$400 以内的商品，9% 的 GST 已含在价格里。马来西亚经空运或邮寄、不超过 RM500 的商品，结账时另外加收 10% 的销售税，运费不征此税。",
         "YesStyle 会退还海关费用吗？会。订单未满 US$1,000 时，以 YesStyle Credit 退还；请在收据日期起 30 天内，用电邮把收据发给客服。新加坡的 GST 和马来西亚的销售税已在结账时收取，不在退款范围内。",
         "在 YesStyle 怎么付款？可用 Visa、Mastercard、American Express、JCB 信用卡、PayPal、Apple Pay 或 Google Pay；以美元付款时，银行可能收取海外交易手续费。",
-        "在 YesStyle 怎么退货？请在收到商品后 14 天内向客服申请 RMA 编号；已拆封的美妆产品无法退货。",
+        "在 YesStyle 怎么退货？请在收到商品后 14 天内申请 RMA 编号，并在 30 天内寄出包裹；已拆封的美妆产品和营养补充品无法退货，皮肤反应也不能退款。",
         "YesStyle 从哪里寄出？从位于香港的仓库寄出。",
-        "为什么不同订单的送达时间不一样？因为送达时间由每件商品的备货时间（最长可达 30 个工作日）加上运送时间组成。",
+        "为什么不同订单的送达时间不一样？因为送达时间由每件商品的备货时间（最长可达 30 个工作日）加上运送时间组成，而且订单通常会等最后一件商品备妥后一起寄出。",
         "YesStyle 的优惠券和奖励码在哪里？在本站的 YesStyle 页面：那里列有今日的优惠券，以及要填入 Reward Code 栏位的奖励码 CECILIA010。"
       ]
     }

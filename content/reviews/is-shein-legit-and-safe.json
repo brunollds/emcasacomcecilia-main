@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, whether it is safe to pay, the return policy and what to check before you pay.",
+  "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, what it sells, whether it is safe to pay, the return policy and what to check before you pay.",
   "metaDescription": "Is SHEIN legit and safe? Who runs the US and UK sites, where SHEIN is from, how it handles your data, the return periods and what to check before you pay.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
@@ -40,7 +40,7 @@
     {
       "heading": "Who runs SHEIN and where it is from",
       "paragraphs": [
-        "SHEIN describes itself as a global online fashion and lifestyle retailer that sells clothes under the SHEIN brand and products from a global network of suppliers. SHEIN also says it produces on demand, in small batches.",
+        "SHEIN describes itself as a global online fashion and lifestyle retailer. It also says it produces on demand, in small batches.",
         "Each market has its own site, and each site's privacy policy names the company responsible for it. The group's own site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
         "SHEIN started in China, according to the Financial Times. On February 24, 2026, at an event held by the Guangdong government, the founder, Xu Yangtian, said the province is where SHEIN's roots are, according to the BBC and The Straits Times. All three reports say the company's headquarters is in Singapore."
       ],
@@ -71,6 +71,23 @@
           ]
         ]
       }
+    },
+    {
+      "heading": "What SHEIN sells",
+      "paragraphs": [
+        "SHEIN sells far more than clothes. Some products are SHEIN's own brand, and some come from a global network of suppliers. On October 13, 2026, the menus of the US and UK sites had these sections:"
+      ],
+      "bullets": [
+        "Women's, men's and kids' clothing, plus sizes (Curve), underwear and sleepwear, and beachwear on the UK site.",
+        "Shoes, bags and luggage, jewellery and accessories.",
+        "Beauty and health, baby and maternity, sports and outdoors.",
+        "Home and living, home textiles, tools and home improvement, appliances, and office and school supplies.",
+        "Cell phones and accessories, electronics, toys and games.",
+        "Pet supplies and automotive. The US site also lists books and magazines, and food and drinks."
+      ],
+      "postParagraphs": [
+        "The UK menu also has a section called “Est. 3 Workdays”: the name refers to an estimated delivery in 3 working days."
+      ]
     },
     {
       "heading": "Is it safe to pay, and what does SHEIN do with your data?",
@@ -132,6 +149,7 @@
         "Is SHEIN legit? Yes. It is a legitimate store, and the site of each market has an identified company behind it: SHEIN US Services, LLC in the US and Infinite Styles Services Co., Limited in the UK, according to the privacy policies.",
         "Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data. Buy only on the official site or in the app.",
         "What country is SHEIN from? SHEIN started in China and is headquartered in Singapore, according to the Financial Times. In February 2026, the founder said the company's roots are in Guangdong, according to the BBC and The Straits Times.",
+        "What does SHEIN sell? Women's, men's and kids' clothing, shoes, bags, jewellery, beauty products, home goods, electronics, toys and pet supplies, among other things. Some of it is SHEIN's own brand, and some comes from other suppliers.",
         "Who runs SHEIN in the US and the UK? In the US, SHEIN US Services, LLC. In the UK, Infinite Styles Services Co., Limited (“ISSL”). The group's site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
         "What is SHEIN's return policy? In the US, up to 30 days from delivery. In the UK, 14 days by law, counted from receipt, and most items up to 30 days after you receive them under SHEIN's policy. Lingerie, underwear and costume jewellery only within the 14 days.",
         "How do I know a SHEIN site is the official one? Buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store.",
