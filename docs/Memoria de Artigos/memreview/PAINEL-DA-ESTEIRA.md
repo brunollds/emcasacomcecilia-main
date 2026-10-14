@@ -49,8 +49,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[yesstyle-entrega-por-pais]] — YesStyle / YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto, família de 10 idiomas, cada versão com os países do idioma (fase 5 da publicação das 17 pautas)
-- [ ] [[yesstyle-ou-stylevana]] — YesStyle / YesStyle ou Stylevana, com Olive Young, StyleKorean e Jolse, família de 10 idiomas com as lojas que atendem cada mercado (fase 5)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -80,6 +79,8 @@
 - [x] [[shein-e-confiavel]] — SHEIN / SHEIN é confiável? Família de 10 idiomas, núcleo + bloco de mercado (No ar em 13/10/2026, PR #73; fase 4 da publicação das 17 pautas; capa por mercado, imagens no CDN) 🚀
 - [x] [[shein-ou-shopee-temu]] — SHEIN / SHEIN, Shopee, Temu ou AliExpress, família de 10 idiomas com o concorrente de cada mercado (No ar em 13/10/2026, PR #73; fase 4; imagens no CDN) 🚀
 - [x] [[codigo-de-indicacao-shein]] — SHEIN / Código de indicação SHEIN, família de 10 idiomas (No ar em 13/10/2026, PR #73; fase 4; telas M1 a M3 e capa no CDN) 🚀
+- [x] [[yesstyle-entrega-por-pais]] — YesStyle / YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto, família de 10 idiomas, cada versão com os países do idioma (No ar em 13/10/2026, PR #77; fase 5 da publicação das 17 pautas) 🚀
+- [x] [[yesstyle-ou-stylevana]] — YesStyle / YesStyle ou Stylevana, com Olive Young, StyleKorean e Jolse, família de 10 idiomas com as lojas que atendem cada mercado (No ar em 13/10/2026, PR #77; fase 5) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

@@ -31,8 +31,8 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 | `yesstyle-kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 10/10 | publicado |
 | `yesstyle-skincare-30` | `skincare-coreano-30-anos-rotina-iniciante-yesstyle` | 10/10 | publicado em 28/09/2026 |
 | `yesstyle-black-friday` | [[02_Artigos/black-friday-yesstyle]] | 10/10 | publicado em 11/10/2026 |
-| `yesstyle-shipping-by-country` | [[02_Artigos/yesstyle-entrega-por-pais]] | 10/10 | pronto para deploy em 13/10/2026 (fase 5); núcleo + bloco de mercado, cada versão com os países do idioma |
-| `yesstyle-vs-alternatives` | [[02_Artigos/yesstyle-ou-stylevana]] | 10/10 | pronto para deploy em 13/10/2026 (fase 5); núcleo + bloco de mercado, só as lojas que atendem cada país (regra D) |
+| `yesstyle-shipping-by-country` | [[02_Artigos/yesstyle-entrega-por-pais]] | 10/10 | publicado em 13/10/2026 (fase 5, PR #77); núcleo + bloco de mercado, cada versão com os países do idioma |
+| `yesstyle-vs-alternatives` | [[02_Artigos/yesstyle-ou-stylevana]] | 10/10 | publicado em 13/10/2026 (fase 5, PR #77); núcleo + bloco de mercado, só as lojas que atendem cada país (regra D) |
 
 ## Regras específicas
 
