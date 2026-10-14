@@ -76419,5 +76419,657 @@ export const reviewsData: unknown[] = [
         "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
       }
     ]
+  },
+  {
+    "id": 428,
+    "slug": "sofa-na-caixa-inflow-ou-damie",
+    "title": "Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher",
+    "seoTitle": "Sofá na Caixa, Inflow ou DAMIE: diferença e qual escolher",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em como o sofá chega, teste em casa, devolução, garantia, preço do 3 lugares e Reclame Aqui, com dados de 14/10/2026.",
+    "metaDescription": "Inflow é a Sofá na Caixa? Não. Compare as duas com a DAMIE: como chega, teste em casa, devolução, garantia, preço e Reclame Aqui (14/10/2026).",
+    "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
+    "imageAlt": "Cecília com as mãos apoiadas no puff do sofá modular DAMIE azul, na sala de casa",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se o teste de 30 dias e a garantia de 1 ano pesam na sua escolha, monte o seu sofá no site da DAMIE e use o cupom CECILIA12 para ter 12% OFF.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-inflow-ou-damie-cta",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Comparação feita com as regras publicadas pelas três marcas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+    "relatedArticles": [
+      {
+        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+        "title": "Sofá na caixa ou sofá montado: qual dura mais?"
+      },
+      {
+        "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
+        "title": "O que aconteceu com a Sofá na Caixa?"
+      },
+      {
+        "slug": "sofa-damie-modular-vale-a-pena",
+        "title": "Sofá Damie Modular: vale a pena?"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
+        "paragraphs": [
+          "A DAMIE é parceira do Em Casa com Cecília e o cupom **CECILIA12** é dela. A comparação abaixo usa só o que cada marca publica no próprio site, com dados de 14/10/2026."
+        ],
+        "bullets": [
+          "**Não são a mesma empresa.** Inflow (Itapeva, MG) e Sofá na Caixa (Rafard, SP) têm CNPJs diferentes, abertos em 2022 e 2024. A DAMIE (Frederico Westphalen, RS) é de 2014.",
+          "**Chegam de jeitos diferentes.** Inflow e Sofá na Caixa entregam o sofá compactado na caixa. A DAMIE entrega módulos pré-estruturados, com estrutura de madeira, ligados por encaixe.",
+          "**A maior diferença está no teste em casa e na garantia.** DAMIE: 30 dias de teste com coleta e reembolso integral, e 1 ano de garantia. Sofá na Caixa: 10 dias de teste e 3 meses de garantia. Inflow: nenhum teste além dos 7 dias do Código de Defesa do Consumidor (CDC), só com a caixa lacrada, e 90 dias de garantia.",
+          "**Reclame Aqui, últimos 6 meses:** Inflow com RA1000, num histórico curto de mercado; DAMIE com Ótima; Sofá na Caixa com Regular. Nas três, a queixa número um é atraso na entrega.",
+          "**Preço de um 3 lugares:** a Sofá na Caixa tem o menor preço de vitrine. No Pix, a DAMIE em suede, bouclé ou linho (R$ 4.590) fica abaixo da faixa da Inflow (R$ 5.031 a R$ 5.733)."
+        ]
+      },
+      {
+        "heading": "Inflow é a Sofá na Caixa?",
+        "paragraphs": [
+          "Não. São duas empresas diferentes, com CNPJ, cidade e data de abertura próprios. Os dados saem do rodapé de cada site e da consulta pública de CNPJ:"
+        ],
+        "bullets": [
+          "**Inflow:** Fast Living Comércio e Distribuição Ltda., nome fantasia \"INFLOW\", CNPJ 44.947.739/0001-80, em Itapeva (MG). Ativa desde 20/01/2022, no comércio varejista de móveis.",
+          "**Sofá na Caixa:** Sofá na Caixa Ltda., CNPJ 53.546.707/0001-64, em Rafard (SP). Ativa desde 18/01/2024, também no comércio varejista de móveis.",
+          "**DAMIE:** Damie Ltda., CNPJ 20.686.873/0001-07, em Frederico Westphalen (RS). Ativa desde 22/07/2014, como fábrica de móveis. A marca diz ter fábrica própria no Rio Grande do Sul, com mais de 100 funcionários."
+        ],
+        "postParagraphs": [
+          "A confusão entre Inflow e Sofá na Caixa é comum porque as duas vendem sofá que chega compactado. Mas cada uma tem as próprias regras de teste, troca, garantia e entrega, e elas são diferentes, como mostra a tabela a seguir."
+        ]
+      },
+      {
+        "heading": "As três lado a lado",
+        "paragraphs": [
+          "Regras publicadas por cada marca em 14/10/2026. O traço indica dado que não aparece nas páginas da marca que consultei."
+        ],
+        "comparisonTable": {
+          "caption": "Sofá na Caixa, Inflow e DAMIE: regras publicadas em 14/10/2026",
+          "headers": [
+            "",
+            "DAMIE",
+            "Inflow",
+            "Sofá na Caixa"
+          ],
+          "rows": [
+            [
+              "Como chega",
+              "Módulos pré-estruturados em caixas reforçadas",
+              "Espuma compactada que ganha forma ao abrir",
+              "Sofá modular compactado em caixa"
+            ],
+            [
+              "Montagem",
+              "Encaixe, em menos de 10 minutos",
+              "\"Sem montagem, sem ferramentas\"",
+              "—"
+            ],
+            [
+              "Estrutura publicada",
+              "Eucalipto grandis maciço, compensado naval de 15 e 22 mm, molas nosag de aço e percintas",
+              "Não publica a estrutura; cita a espuma FlowTech",
+              "\"Sem madeira ou alumínio e sem quinas duras\""
+            ],
+            [
+              "Peso suportado por módulo",
+              "Até 140 kg",
+              "Até 150 kg",
+              "—"
+            ],
+            [
+              "Teste em casa",
+              "30 dias, com coleta e reembolso integral",
+              "Nenhum além dos 7 dias do CDC",
+              "10 dias"
+            ],
+            [
+              "Devolução",
+              "Reembolso integral nos 30 dias, com coleta",
+              "Só com o produto lacrado; frete de volta por conta do cliente",
+              "Na embalagem original, sem indícios de uso; frete de volta pago pela loja nos 10 dias"
+            ],
+            [
+              "Garantia",
+              "1 ano; depois suporte vitalício e peças a preço de custo",
+              "90 dias",
+              "3 meses"
+            ],
+            [
+              "Frete grátis",
+              "Sul e Sudeste (Norte e Nordeste pelo Mercado Livre)",
+              "Sul e Sudeste",
+              "—"
+            ],
+            [
+              "Pix e parcelas",
+              "10% no Pix; até 12x",
+              "10% no Pix; até 10x",
+              "Desconto no Pix sem valor informado; até 10x"
+            ],
+            [
+              "Reclame Aqui, 6 meses",
+              "Ótima, nota 8,3",
+              "RA1000, nota 8,6",
+              "Regular, nota 6,1"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como cada uma chega e se monta",
+        "paragraphs": [
+          "**Inflow e Sofá na Caixa** apostam na mesma logística: o sofá vai compactado dentro da caixa. A Inflow diz que a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\", \"sem montagem, sem ferramentas\". A Sofá na Caixa vende sofás modulares entregues compactados em caixas e, no FAQ, descreve a estrutura como \"robusta, sem madeira ou alumínio e sem quinas duras\".",
+          "**A DAMIE** não compacta o sofá. A marca entrega módulos pré-estruturados em caixas reforçadas, e eles se ligam por encaixe, com montagem em menos de 10 minutos.",
+          "Essa é a diferença central entre as três: de um lado, espuma que expande depois de aberta; do outro, módulos que já chegam com estrutura de madeira e só precisam ser encaixados."
+        ],
+        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
+        "imageAlt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano",
+        "imageCaption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "O que tem dentro: estrutura, espuma e peso",
+        "paragraphs": [
+          "Cada marca publica uma parte diferente da ficha:"
+        ],
+        "bullets": [
+          "**DAMIE:** estrutura de eucalipto grandis maciço tratado em estufa, compensado naval de 15 e 22 mm, molas nosag de aço no assento e percintas de 6 cm no encosto. As espumas são HS e Soft D40S, com manta de 400 g/m². Suporta até 140 kg por módulo.",
+          "**Inflow:** cita a espuma FlowTech e informa suporte de até 150 kg por módulo. Não publica o material da estrutura nem a densidade da espuma.",
+          "**Sofá na Caixa:** diz que a estrutura não usa madeira nem alumínio, sem detalhar o material, a espuma ou o peso suportado."
+        ],
+        "postParagraphs": [
+          "Só a DAMIE publica a ficha completa, com estrutura, molas e espumas. Nas outras duas, o que vai por dentro não dá para comparar item a item. O que cada parte faz pela vida útil do sofá está em [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais)."
+        ]
+      },
+      {
+        "heading": "Teste em casa, trocas e garantia",
+        "paragraphs": [
+          "É aqui que as três mais se separam, e as regras ficam em letra miúda. No teste em casa:"
+        ],
+        "bullets": [
+          "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral.",
+          "**Sofá na Caixa:** 10 dias. A própria marca explica que o prazo legal é de 7 dias e que os 10 dias são um benefício dela. A devolução vale com o sofá na embalagem original, sem indícios de uso, com nota fiscal e acessórios, e o frete de volta nesse prazo é pago pela loja.",
+          "**Inflow:** nenhum período além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
+        ],
+        "postParagraphs": [
+          "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, o arrependimento só vale com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, o sofá não se troca por motivo pessoal: só pela garantia, em caso de defeito. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver precisa decidir antes de abrir a caixa. Para quem quer sentar e testar, essa regra pesa mais que o preço.",
+          "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 90 dias. O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá: as garantias da Inflow e da Sofá na Caixa ficam nesse mínimo da lei, e a DAMIE é a única das três que vai além."
+        ]
+      },
+      {
+        "heading": "Quanto custa um sofá de 3 lugares em cada uma?",
+        "paragraphs": [
+          "Preços dos sites em 14/10/2026. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de um sofá de 3 lugares em 14/10/2026",
+          "headers": [
+            "Marca",
+            "Modelo",
+            "Preço",
+            "Pix",
+            "Parcelado"
+          ],
+          "rows": [
+            [
+              "DAMIE",
+              "Modular 3 lugares com puff, em suede, bouclé ou linho",
+              "R$ 5.100 (de R$ 6.100)",
+              "R$ 4.590",
+              "até 12x de R$ 425"
+            ],
+            [
+              "DAMIE",
+              "O mesmo, em corino importado",
+              "R$ 5.200 (de R$ 6.200)",
+              "R$ 4.680",
+              "até 12x"
+            ],
+            [
+              "DAMIE",
+              "O mesmo, em couro bovino",
+              "R$ 8.100 (de R$ 9.100)",
+              "R$ 7.290",
+              "até 12x"
+            ],
+            [
+              "Inflow",
+              "3 lugares, 2 cantos e apoio de pé",
+              "—",
+              "de R$ 5.031 a R$ 5.733, conforme o tecido e os apoios de pé",
+              "até 10x"
+            ],
+            [
+              "Sofá na Caixa",
+              "Modular 3 lugares em Boucle com apoio de pé",
+              "R$ 3.482,19 (de R$ 7.239)",
+              "desconto sem valor informado",
+              "até 10x de R$ 386,91"
+            ],
+            [
+              "Sofá na Caixa",
+              "Modular 3 lugares em Poli-Couro Marrom com apoio de pé",
+              "R$ 4.211,19 (de R$ 7.949)",
+              "desconto sem valor informado",
+              "até 10x de R$ 467,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cada site mostra o preço de um jeito: a DAMIE e a Inflow dão 10% no Pix e informam o valor; a Sofá na Caixa mostra o preço \"Por\" sobre o \"De\" riscado e fala em desconto no Pix sem dizer quanto. Compare sempre o mesmo ponto de partida, Pix com Pix ou parcela com parcela.",
+          "A Sofá na Caixa tem o menor preço listado, com o teste mais curto entre as que oferecem teste (10 dias) e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia."
+        ]
+      },
+      {
+        "heading": "E a reputação das três no Reclame Aqui?",
+        "paragraphs": [
+          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos em 14/10/2026.",
+          "Hoje **a Inflow tem o melhor selo** (RA1000) e a maior taxa de solução, 94%. A DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
+        ],
+        "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+        "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
+        "imageCaption": "Painéis do Reclame Aqui de cada marca, de 01/04 a 30/09/2026 (print de 14/10/2026).",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.9448,
+        "comparisonTable": {
+          "caption": "Reclame Aqui, últimos 6 meses (01/04 a 30/09/2026)",
+          "headers": [
+            "",
+            "DAMIE (Damie Móveis)",
+            "Inflow (Inflow Sofá)",
+            "Sofá na Caixa"
+          ],
+          "rows": [
+            [
+              "Selo",
+              "Ótima",
+              "RA1000",
+              "Regular"
+            ],
+            [
+              "Nota",
+              "8,3",
+              "8,6",
+              "6,1"
+            ],
+            [
+              "Reclamações",
+              "218",
+              "144",
+              "6.947"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "98,6%",
+              "100%"
+            ],
+            [
+              "Resolvidas",
+              "86,7%",
+              "94%",
+              "56,1%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "76%",
+              "75%",
+              "49,8%"
+            ],
+            [
+              "Nota do consumidor",
+              "7,37",
+              "7,62",
+              "4,66"
+            ],
+            [
+              "Tempo de resposta",
+              "13 horas",
+              "7 dias e 13 horas",
+              "2 dias e 1 hora"
+            ]
+          ]
+        },
+        "bullets": [
+          "O selo mede **atendimento e solução**, não volume de vendas.",
+          "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de 22/01/2026: são cerca de 9 meses vendendo sofá. O RA1000 é real, mas vale para um histórico curto.",
+          "A DAMIE está cadastrada no Reclame Aqui há 6 anos.",
+          "Nenhuma das marcas publica número de vendas, então não dá para dizer quantas reclamações cada uma recebe por cliente."
+        ]
+      },
+      {
+        "heading": "Qual a queixa mais comum nas três?",
+        "paragraphs": [
+          "A mesma. Entre os principais problemas apontados no Reclame Aqui (histórico de até 3 anos), o primeiro lugar é **atraso na entrega**: 50,36% das reclamações da DAMIE, 40,79% das da Sofá na Caixa e 28,18% das da Inflow. Atraso é a queixa comum de quem vende sofá em caixa, e vale contar com folga no prazo em qualquer uma.",
+          "O que aconteceu com a Sofá na Caixa desde 2025, com entregas atrasadas e reembolsos, está em [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
+            "alt": "Principais problemas da DAMIE no Reclame Aqui: atraso na entrega em 50,36% das reclamações",
+            "caption": "DAMIE: atraso na entrega em 50,36% das reclamações (print de 14/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 1.224
+          },
+          {
+            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+            "alt": "Principais problemas da Sofá na Caixa no Reclame Aqui: atraso na entrega em 40,79% das reclamações",
+            "caption": "Sofá na Caixa: atraso na entrega em 40,79% das reclamações (print de 14/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 1.2168
+          },
+          {
+            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
+            "alt": "Principais problemas da Inflow no Reclame Aqui: atraso na entrega em 28,18% das reclamações",
+            "caption": "Inflow: atraso na entrega em 28,18% das reclamações (print de 14/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 1.2161
+          }
+        ]
+      },
+      {
+        "heading": "Qual escolher: Sofá na Caixa, Inflow ou DAMIE?",
+        "paragraphs": [
+          "Cada perfil de compra aponta para uma marca:"
+        ],
+        "bullets": [
+          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral. A Sofá na Caixa dá 10 dias. Na Inflow, a devolução por arrependimento exige a caixa lacrada.",
+          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado em 14/10/2026. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
+          "**Quem quer a garantia mais longa:** DAMIE, com 1 ano e, depois, suporte vitalício e peças a preço de custo.",
+          "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
+          "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP."
+        ]
+      },
+      {
+        "heading": "A experiência da Cecília com o sofá da DAMIE",
+        "paragraphs": [
+          "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como me arrepender de comprar um sofá desses.",
+          "A parte elétrica são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+          "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [a minha experiência com o sofá modular da DAMIE](/reviews/sofa-damie-modular-vale-a-pena)."
+        ],
+        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
+        "imageAlt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
+        "imageCaption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Cupom CECILIA12 na DAMIE",
+        "paragraphs": [
+          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
+          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado e 10 dias de teste em casa; a Inflow só aceita devolução por arrependimento com o produto lacrado.",
+          "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
+          "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 90 dias e a Sofá na Caixa, 3 meses.",
+          "Posso devolver o sofá da Inflow depois de abrir? Por arrependimento, não. A política da Inflow só aceita a devolução com o produto lacrado, e o frete de volta é do cliente. Depois de aberto, só pela garantia de 90 dias, em caso de defeito.",
+          "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto.",
+          "Qual entrega no Norte e no Nordeste? A DAMIE atende Norte e Nordeste pelo Mercado Livre, e o frete grátis dela vale no Sul e no Sudeste. A Inflow publica frete grátis só no Sul e no Sudeste. Confira o frete com o seu CEP no carrinho antes de fechar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+    "title": "Sofá na caixa ou sofá montado: qual dura mais?",
+    "seoTitle": "Sofá na caixa ou montado: qual dura mais?",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "description": "\"Na caixa\" é o jeito de entregar, não de fabricar. Veja o que faz um sofá durar (estrutura, molas, espuma e tecido), o checklist da ficha técnica, a garantia de cada marca e quando o sofá montado leva vantagem.",
+    "metaDescription": "Sofá na caixa dura menos? Veja o que faz um sofá durar, o checklist da ficha técnica, a garantia de cada marca e quando o montado leva vantagem.",
+    "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
+    "imageAlt": "Cecília sentada no sofá modular DAMIE azul, na sala de casa",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a ficha da DAMIE é o que você procura, monte o seu sofá no site e use o cupom CECILIA12 para ter 12% OFF.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-ou-sofa-montado-cta",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Guia feito com as fichas das marcas, normas ABNT e o meu sofá. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+    "relatedArticles": [
+      {
+        "slug": "sofa-na-caixa-inflow-ou-damie",
+        "title": "Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher"
+      },
+      {
+        "slug": "sofa-modular-ou-retratil-qual-escolher",
+        "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto"
+      },
+      {
+        "slug": "sofa-damie-modular-vale-a-pena",
+        "title": "Sofá Damie Modular: vale a pena?"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
+        "bullets": [
+          "Pode durar. \"Na caixa\" é um jeito de entregar o sofá, não de fabricá-lo, e a caixa não diz quanto ele aguenta.",
+          "O que decide é o que vai dentro: **estrutura**, molas ou percintas, espuma e tecido. Dois sofás na caixa podem ser bem diferentes entre si, e um sofá montado pode ser melhor ou pior que os dois.",
+          "Para comparar, olhe a ficha técnica (o checklist está mais abaixo) e a **garantia**, que vai de 90 dias a 1 ano entre as marcas de sofá na caixa citadas aqui.",
+          "Eu uso o sofá modular da DAMIE desde junho de 2026, num uso de moderado a intenso, e ele continua igual ao dia em que chegou. São meses de uso, não anos.",
+          "A DAMIE é parceira do site. Com o cupom **CECILIA12** você tem 12% de desconto em todo o site dela; os detalhes estão na [página do cupom da DAMIE](/cupons/damie)."
+        ]
+      },
+      {
+        "heading": "\"Na caixa\" quer dizer duas coisas diferentes",
+        "paragraphs": [
+          "Quem pergunta se sofá na caixa dura está juntando dois produtos que chegam do mesmo jeito e são feitos de formas diferentes.",
+          "O primeiro é a **espuma compactada**. A Inflow descreve o sofá assim: a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\". Você abre a embalagem, a espuma se expande e o sofá toma forma, sem montagem e sem ferramentas, segundo a marca. A Sofá na Caixa também vende sofás modulares entregues compactados em caixas.",
+          "O segundo são **módulos pré-estruturados para encaixar**. É o caso da DAMIE: a página do sofá modular fala em módulos \"pré-estruturados\", enviados em \"caixas reforçadas compactas\" e ligados por encaixe, em menos de 10 minutos. Na DAMIE, o que vem na caixa é um módulo com estrutura de madeira e molas, que não depende de a espuma voltar ao tamanho original.",
+          "Nenhuma das fontes deste guia diz que a espuma compactada perde volume com o tempo, nem que um módulo com estrutura dura um número certo de anos. Por isso este guia não faz previsão de vida útil: ele mostra onde olhar. Para ver as marcas lado a lado, com regras de teste, devolução e preço, o comparativo é [Sofá na Caixa, Inflow ou DAMIE: qual escolher](/reviews/sofa-na-caixa-inflow-ou-damie)."
+        ]
+      },
+      {
+        "heading": "O que faz um sofá durar",
+        "paragraphs": [
+          "São quatro partes. Vale avaliar cada uma separada, porque uma ficha boa numa delas não compensa um buraco nas outras.",
+          "**Estrutura.** É o esqueleto que segura o peso e o movimento de sentar e levantar, e a parte mais difícil de trocar depois. Pergunte de que material ela é feita e qual a espessura. A DAMIE, por exemplo, informa eucalipto grandis maciço tratado em estufa e compensado naval de 15 e 22 mm. A Inflow não publica a estrutura. Quando a ficha não diz, pergunte à loja.",
+          "**Molas ou percintas.** É o que sustenta o assento e o encosto por baixo da espuma. Sofás usam molas, percintas (faixas elásticas) ou as duas, e a ficha precisa dizer qual. A DAMIE informa molas nosag de aço no assento e percintas de 6 cm no encosto. Se a ficha só fala em \"assento macio\" e não cita o que está embaixo, falta informação.",
+          "**Espuma.** É o que dá o conforto e mantém a aparência de novo. A densidade da espuma é medida em kg/m³, pela norma ABNT NBR 8537, e vale pedir esse número. Ele sozinho não é regra: não dá para concluir \"densidade maior, sofá que dura mais\", porque a espuma trabalha junto com a estrutura e com o que está embaixo dela. A NBR 16031, que trata de ensaios de assento, também avisa que eles não medem a durabilidade da espuma. A DAMIE cita espumas HS e Soft D40S e uma manta de 400 g/m²; a Inflow cita a espuma FlowTech, sem informar a densidade.",
+          "**Tecido.** É a parte que você toca e a que mais sofre com uso, sol, bichos e criança. Peça a composição e veja se a limpeza e a retirada do revestimento estão explicadas. Em sofá modular, poder limpar ou trocar um módulo sem mexer no resto ajuda no dia a dia."
+        ],
+        "image": "/images/reviews/sofa-modular-itens.webp",
+        "imageAlt": "Ficha ilustrada do sofá modular DAMIE: estrutura de madeira e compensado naval, encaixe entre módulos, envio em caixa e puff montado",
+        "imageCaption": "A ficha ilustrada da DAMIE: estrutura de madeira e compensado naval, módulos com encaixe e envio em caixa (imagem da marca).",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Checklist: o que pedir na ficha técnica",
+        "paragraphs": [
+          "Vale para qualquer sofá, na caixa ou montado. Se a loja não responde a um item, você está comprando sem saber aquilo."
+        ],
+        "bullets": [
+          "Material e espessura da **estrutura**, e se a madeira tem tratamento.",
+          "O que sustenta o assento e o encosto: **molas, percintas** ou as duas, e de que tipo.",
+          "**Espuma** do assento e do encosto: tipo e **densidade em kg/m³**.",
+          "**Peso suportado** por módulo ou por assento.",
+          "**Revestimento**: composição do tecido e como limpar.",
+          "**Garantia**: quanto tempo, o que cobre (estrutura, molas, espuma, tecido, parte elétrica) e como acionar.",
+          "**Peças de reposição**: se módulos, capas e peças são vendidos depois.",
+          "**Teste em casa e devolução**: quantos dias, e se o sofá pode voltar depois de aberto.",
+          "Se o sofá foi ensaiado pela **ABNT NBR 15164**, a norma de sofás."
+        ]
+      },
+      {
+        "heading": "A garantia diz muito",
+        "paragraphs": [
+          "A garantia é o único número de durabilidade que a loja assina. Entre as três marcas de sofá na caixa deste guia (dados de 14/10/2026), ela vai de 90 dias a 1 ano:"
+        ],
+        "bullets": [
+          "**Inflow:** 90 dias.",
+          "**Sofá na Caixa:** 3 meses.",
+          "**DAMIE:** 1 ano e, depois, suporte vitalício com peças a preço de custo."
+        ],
+        "postParagraphs": [
+          "Existe um mínimo que vale para qualquer loja: o Código de Defesa do Consumidor (art. 26, II) dá 90 dias para reclamar de defeito em produto durável. Uma garantia de 90 dias repete o que a lei já garante. O que passa disso é o que a marca oferece por conta própria, e é isso que merece peso na comparação. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
+          "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade, em edição nova de 02/2026. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
+        ]
+      },
+      {
+        "heading": "O que cada marca publica na ficha",
+        "paragraphs": [
+          "A tabela mostra o que as três marcas de sofá na caixa informam nas próprias páginas (dados de 14/10/2026). Ela não mede qualidade: mostra quanto da ficha você consegue ler antes de comprar. O traço indica dado que não aparece nas páginas da marca que consultei."
+        ],
+        "comparisonTable": {
+          "caption": "O que DAMIE, Inflow e Sofá na Caixa publicam na ficha (14/10/2026)",
+          "headers": [
+            "",
+            "Módulos com estrutura (DAMIE)",
+            "Espuma compactada (Inflow)",
+            "Compactado (Sofá na Caixa)"
+          ],
+          "rows": [
+            [
+              "Estrutura",
+              "Eucalipto grandis maciço tratado em estufa e compensado naval de 15 e 22 mm",
+              "Não publica",
+              "\"Sem madeira ou alumínio\", sem dizer o material"
+            ],
+            [
+              "Molas ou percintas",
+              "Molas nosag de aço no assento e percintas de 6 cm no encosto",
+              "—",
+              "—"
+            ],
+            [
+              "Espuma",
+              "Espumas HS e Soft D40S e manta de 400 g/m²",
+              "Espuma FlowTech, sem densidade",
+              "—"
+            ],
+            [
+              "Peso suportado por módulo",
+              "Até 140 kg",
+              "Até 150 kg",
+              "—"
+            ],
+            [
+              "Garantia",
+              "1 ano, depois suporte vitalício com peças a preço de custo",
+              "90 dias",
+              "3 meses"
+            ],
+            [
+              "Teste em casa",
+              "30 dias, com coleta e reembolso integral",
+              "Nenhum além dos 7 dias do CDC, só com a caixa lacrada",
+              "10 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quanto mais células preenchidas, mais você consegue comparar antes de comprar."
+        ]
+      },
+      {
+        "heading": "E o sofá montado: o que ele tem de melhor e onde complica?",
+        "paragraphs": [
+          "O sofá montado tem duas vantagens claras. Chega pronto: ninguém encaixa módulo nem espera a espuma tomar forma. E, em muitos casos, dá para ir a uma loja física, sentar, deitar e ver o tecido de perto antes de pagar, o que vale muito para quem tem dúvida sobre a firmeza do assento ou a altura do encosto.",
+          "O problema aparece na entrega. Um sofá montado é um móvel grande e inteiro, que precisa passar pela portaria, pelo elevador ou pela escada e pela porta do apartamento. Se alguma dessas passagens for estreita, ele pode não entrar.",
+          "É esse ponto que o sofá na caixa resolve: ele entra pelo mesmo caminho de qualquer caixa grande. A vantagem é de logística e não diz nada sobre quanto o sofá dura, que é assunto da ficha técnica."
+        ]
+      },
+      {
+        "heading": "O sofá vem montado ou desmontado?",
+        "paragraphs": [
+          "Depende da marca e do tipo de sofá na caixa:"
+        ],
+        "bullets": [
+          "**Modular com módulos pré-estruturados:** vem em módulos prontos. Na DAMIE, eles se encaixam em menos de 10 minutos, segundo a ficha. Você não parafusa um sofá do zero, só junta as peças.",
+          "**Espuma compactada:** vem inteiro, mas comprimido. Na Inflow, a espuma ganha forma depois que a caixa é aberta, sem montagem nem ferramentas."
+        ],
+        "postParagraphs": [
+          "Nos dois casos, o que sobra para você fazer é pouco. Antes de comprar, leia na página do produto como a marca descreve a entrega e quanto tempo leva para o sofá ficar pronto."
+        ]
+      },
+      {
+        "heading": "O que eu vi depois de meses com o sofá na caixa da DAMIE",
+        "paragraphs": [
+          "Uso o sofá modular da DAMIE desde junho de 2026. São meses de uso, não anos, e é isso que posso contar:",
+          "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses.\"",
+          "A parte elétrica são opcionais que eu escolhi na compra: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
+          "Contei como foi a decisão de compra e o que eu observaria antes de comprar em [a minha experiência com o sofá modular da DAMIE](/reviews/sofa-damie-modular-vale-a-pena)."
+        ],
+        "image": "/images/reviews/sofa-damie-modular-puff.webp",
+        "imageAlt": "Cecília sentada no sofá modular DAMIE azul, com a mão sobre o puff",
+        "imageCaption": "O meu sofá DAMIE com o puff, meses depois de chegar.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Sofá na caixa ou sofá montado: qual escolher?",
+        "paragraphs": [
+          "A escolha depende mais do seu caso do que da embalagem:"
+        ],
+        "bullets": [
+          "**Apartamento com porta ou elevador estreito:** o sofá na caixa tem vantagem real, porque o que precisa passar é uma caixa, não o sofá inteiro.",
+          "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
+          "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher)."
+        ],
+        "postParagraphs": [
+          "Em qualquer caso, compare a ficha técnica e a garantia, não a forma de entrega."
+        ]
+      },
+      {
+        "heading": "Cupom CECILIA12 para o sofá da DAMIE",
+        "paragraphs": [
+          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Sofá na caixa dura quanto tempo? Não existe um número confiável de anos, e este guia não dá um. A duração depende do que vai dentro: estrutura, molas, espuma e tecido. Use a ficha técnica e a garantia (de 90 dias a 1 ano nas marcas citadas aqui) como sinal.",
+          "Sofá na caixa é bom ou ruim? Nem uma coisa nem outra só pela embalagem. \"Na caixa\" é um jeito de entregar, não de fabricar. O sofá é bom quando a ficha mostra boa estrutura, molas e espuma, e a garantia acompanha.",
+          "Sofá na caixa tem qualidade? Pode ter. A qualidade vem dos materiais e da construção, que a ficha técnica descreve. A DAMIE, por exemplo, publica eucalipto grandis maciço, molas nosag de aço no assento e espumas HS e Soft D40S. Marca que não publica esses dados deixa você sem como comparar.",
+          "Sofá na caixa ou sofá montado: qual dura mais? A embalagem não responde. Um sofá na caixa com boa estrutura e boa espuma pode durar tanto quanto um montado, e um montado com materiais fracos dura menos. Compare as fichas, não o formato.",
+          "O sofá na caixa vem montado ou desmontado? Depende do tipo. O modular pré-estruturado vem em módulos para encaixar (na DAMIE, em menos de 10 minutos, segundo a ficha). O de espuma compactada vem inteiro e ganha forma quando a caixa é aberta.",
+          "O que olhar na ficha técnica de um sofá? Estrutura (material e espessura), molas ou percintas, espuma (tipo e densidade), tecido e peso suportado por módulo ou lugar. Confira também a garantia e o teste em casa.",
+          "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias."
+        ]
+      }
+    ]
   }
 ];

@@ -60670,6 +60670,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "local_url": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90760,
+      "sha256": "ea124ab7168423b8be158487dc13abaf229fc02dc0200c33345a8629785f7135",
+      "width": 1061,
+      "height": 1123,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "storage_filename": "reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+          "line": 267,
+          "column": 17,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76689,
+          "column": 19,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ea124ab7168423b8be158487dc13abaf229fc02dc0200c33345a8629785f7135/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ea124ab7168423b8be158487dc13abaf229fc02dc0200c33345a8629785f7135/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T20:06:32.807Z",
+      "verification_etag_or_digest": "ea124ab7168423b8be158487dc13abaf229fc02dc0200c33345a8629785f7135",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
       "local_url": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
       "media_kind": "image",
@@ -60713,6 +60759,144 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "ad23601f50f0551b952bb0da959a6d016304519d7ae34291c7146a447a149fcd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
+      "local_url": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16602,
+      "sha256": "359344de0b7fed5cb19cb524e38a55f3eef9f204d579507d224a33ae75621da1",
+      "width": 623,
+      "height": 509,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-principais-problemas-damie.webp",
+      "storage_filename": "reclame-aqui-principais-problemas-damie.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+          "line": 346,
+          "column": 19,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76768,
+          "column": 21,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/359344de0b7fed5cb19cb524e38a55f3eef9f204d579507d224a33ae75621da1/reclame-aqui-principais-problemas-damie.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/359344de0b7fed5cb19cb524e38a55f3eef9f204d579507d224a33ae75621da1/reclame-aqui-principais-problemas-damie.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T20:06:32.808Z",
+      "verification_etag_or_digest": "359344de0b7fed5cb19cb524e38a55f3eef9f204d579507d224a33ae75621da1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
+      "local_url": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16642,
+      "sha256": "e61e1c65f694e367e5dafecaa58317b72b250906279f9769e7cb8b59f1d34c4e",
+      "width": 619,
+      "height": 509,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-principais-problemas-inflow.webp",
+      "storage_filename": "reclame-aqui-principais-problemas-inflow.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+          "line": 360,
+          "column": 19,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76782,
+          "column": 21,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e61e1c65f694e367e5dafecaa58317b72b250906279f9769e7cb8b59f1d34c4e/reclame-aqui-principais-problemas-inflow.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e61e1c65f694e367e5dafecaa58317b72b250906279f9769e7cb8b59f1d34c4e/reclame-aqui-principais-problemas-inflow.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T20:06:32.808Z",
+      "verification_etag_or_digest": "e61e1c65f694e367e5dafecaa58317b72b250906279f9769e7cb8b59f1d34c4e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "local_url": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17152,
+      "sha256": "184a20fb77c8dc565666b843057c46b15efa3f3f79ab41573a8f5fe8e182fd60",
+      "width": 623,
+      "height": 512,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "storage_filename": "reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+          "line": 353,
+          "column": 19,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 76775,
+          "column": 21,
+          "literal": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/184a20fb77c8dc565666b843057c46b15efa3f3f79ab41573a8f5fe8e182fd60/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/184a20fb77c8dc565666b843057c46b15efa3f3f79ab41573a8f5fe8e182fd60/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T20:06:32.808Z",
+      "verification_etag_or_digest": "184a20fb77c8dc565666b843057c46b15efa3f3f79ab41573a8f5fe8e182fd60",
       "verification_status": "verified"
     },
     {
