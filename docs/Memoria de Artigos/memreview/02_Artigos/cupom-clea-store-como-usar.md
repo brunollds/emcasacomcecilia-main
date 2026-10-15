@@ -232,3 +232,8 @@ FAQ:
   pagamento).
 - `couponsData.ts` (slug `clea-store`) e o dossiê `01_Parceiros/Clea-Store.md`, com o teste de
   checkout do Bruno de 14/10/2026.
+
+## 13. Respostas do Bruno (14/10/2026)
+- Devolução grátis sempre (ver [[clea-store-e-confiavel]]). Mercado Livre não é citado.
+- Com outro cupom: os termos dizem "um voucher por pedido"; o artigo diz que não soma com outro
+  cupom. Soma com promoções e com o cashback.

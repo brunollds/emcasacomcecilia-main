@@ -260,3 +260,8 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
   O site não bloqueou. A página "Quem somos" não existe no rodapé.
 - BrasilAPI: CNPJs 07.578.713/0001-86 (matriz, Matão), 0004-29 (Jundiaí) e 0003-48 (Matão),
   consultados um por um (a primeira chamada deu 503; a repetição respondeu).
+
+## 13. Respostas do Bruno (14/10/2026)
+- Anvisa fica fora, como na Black Skull: o onboarding é só a apresentação da loja.
+- Os brindes do teste de checkout eram da Znack That, a quarta marca da Supley (print
+  `Screenshot 2026-10-14 194244.png`): cabe como frase de apoio na seção do grupo.

@@ -226,3 +226,8 @@ primeira compra e nas seguintes". É mudança em `/cupons`, fora do escopo desta
   `/politicas/politica-de-frete`.
 - `couponsData.ts` (slug `max-titanium`, linhas 1218 em diante) e o dossiê
   `01_Parceiros/Max-Titanium.md`, atualizado em 14/10/2026.
+
+## 13. Respostas do Bruno (14/10/2026)
+- O cupom **soma com o desconto de até 5% do Pix e do boleto** (e do 1x no cartão): entra no
+  artigo como regra.
+- Anvisa fora do onboarding, como na Black Skull (decisão de 14/10). Slug aprovado.

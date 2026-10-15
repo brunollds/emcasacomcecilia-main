@@ -8,8 +8,8 @@ reviewKind: "editorial"
 type: "Análise de Reputação"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "aguardar-prints-reclame-aqui"
-bloqueado_por: "prints do Reclame Aqui (Bruno)"
+proxima_acao: "redigir-artigo"
+bloqueado_por: null
 score_autoridade: 74
 score_conversao: 66
 score_ponderado_total: 71
@@ -209,3 +209,31 @@ citação (sem ele, o artigo ignora).
   há número nenhum neste briefing, e nenhum dado externo foi copiado para ele.
 - Políticas de pós-venda (WebFetch, 14/10/2026): `/politicas/troca-e-devolucao`,
   `/politicas/termos-e-condicoes` e rodapé de `maxtitanium.com.br`.
+
+## 13. Dados do Reclame Aqui (prints do Bruno, 14/10/2026)
+
+Prints em `OneDrive\Imagens\Capturas de tela`: `Screenshot 2026-10-14 205136.png` (6 meses),
+`205211.png` (12 meses), `205741.png` (2025) e `205826.png` (principais problemas). Estes números
+valem como linhas da matriz (seção 6) e destravam o portão 1. O perfil se chama **"Max Titanium
+Suplementos"**. Não há print do topo do perfil nem do perfil da Supley: o artigo não fala em selo
+"Verificada" nem em RA1000, e a seção 5 do esqueleto (Max ou Supley) sai.
+
+| Indicador | 6 meses (01/04 a 30/09/2026) | 12 meses (01/10/2025 a 30/09/2026) | Ano de 2025 |
+|---|---|---|---|
+| Reputação | Boa | Boa | Boa |
+| Nota | 7,6 | 7,2 | 7,6 |
+| Reclamações recebidas | 446 | 1.134 | 1.976 |
+| Respondidas | 97,5% | 99% | 99,8% |
+| Aguardando resposta | 11 | 11 | 0 |
+| Resolvidas | 82,6% | 81,7% | 85,1% |
+| Voltariam a fazer negócio | 62,3% | 55,2% | 61,1% |
+| Reclamações avaliadas | 207 | 552 | 985 |
+| Nota média do consumidor | 6,32 | 5,68 | 6,01 |
+| Tempo médio de resposta | 7 dias e 9 horas | 8 dias e 8 horas | 12 dias e 23 horas |
+
+Principais problemas comentados (reclamações de até 3 anos, aba Geral): categoria **Suplementos
+Alimentares, 68,55%**; problema **Atraso na entrega, 29,43%**; produto **Whey Protein, 37,17%**.
+
+Leitura: a reputação é Boa nas três janelas; o ponto fraco é o tempo de resposta (dias, não horas)
+e o "voltariam", abaixo dos dois terços. O problema mais citado é atraso na entrega: o artigo liga
+isso ao que fazer (seção 7), pela política da loja.

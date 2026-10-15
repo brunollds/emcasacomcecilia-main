@@ -9,7 +9,7 @@ type: "Análise de Reputação"
 status: "pauta-aprovada"
 responsavel: "Job-1"
 proxima_acao: "redigir-artigo"
-bloqueado_por: "prints do Reclame Aqui (Bruno)"
+bloqueado_por: null
 score_autoridade: 72
 score_conversao: 64
 score_ponderado_total: 69
@@ -194,3 +194,36 @@ Prints necessários (perfil da Cléa Store no Reclame Aqui, no mesmo dia, com a 
   desafio. A busca da web só confirmou a URL do perfil e da página de avaliações; os números do
   resumo de busca não entram.
 - Rodapé de `cleastore.com.br`: link "Reviews" para a página de avaliações no Reclame Aqui.
+
+## 13. Dados do Reclame Aqui (prints do Bruno, 14/10/2026)
+
+Prints em `OneDrive\Imagens\Capturas de tela`: `Screenshot 2026-10-14 205915.png` (topo do perfil),
+`205930.png` (6 meses), `205938.png` (12 meses), `205946.png` (principais problemas) e
+`205959.png` (Empresa verificada). Estes números valem como linhas da matriz (seção 6) e destravam
+o bloqueio.
+
+Topo do perfil: **Cléa Store**, "Moda - E-commerce - Moda", reputação **Boa**, **Empresa
+Verificada**, avaliações de compra **4,8 de 5**, mais de 19 mil visualizações. O selo de empresa
+verificada, nas palavras do Reclame Aqui: "Empresas aprovadas na nossa verificação mensal, que
+assegura que a empresa existe e é mais confiável."
+
+| Indicador | 6 meses (01/04 a 30/09/2026) | 12 meses (01/10/2025 a 30/09/2026) |
+|---|---|---|
+| Reputação | Boa | Boa |
+| Nota | 7,1 | 7,5 |
+| Reclamações recebidas | 65 | 137 |
+| Respondidas | 100% | 100% |
+| Aguardando resposta | 0 | 0 |
+| Resolvidas | 83,3% | 83,6% |
+| Voltariam a fazer negócio | 55,6% | 58,9% |
+| Reclamações avaliadas | 36 | 73 |
+| Nota média do consumidor | 5,06 | 5,89 |
+| Tempo médio de resposta | 3 dias e 5 horas | 2 dias e 4 horas |
+
+Principais problemas comentados (reclamações de até 3 anos, aba Geral): categoria **Moda
+Feminina, 6,67%**; problema **Produto não recebido, 27,33%**; produto **Blusas, 12,67%**.
+
+Leitura: reputação Boa, todas as reclamações respondidas e volume baixo (65 em 6 meses). O ponto
+fraco é o "voltariam" (55,6%) e a nota do consumidor (5,06) em 6 meses. "Avaliações de compra
+4,8" é outra métrica do Reclame Aqui (avaliação de quem comprou), não a nota de reputação: o
+artigo explica a diferença em uma frase.

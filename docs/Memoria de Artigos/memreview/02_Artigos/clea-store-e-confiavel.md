@@ -264,3 +264,10 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 - Busca da web para planejar: loja física (nenhuma fonte oficial cita loja) e Mercado Livre
   (existe "Clea Oficial", não verificado; WebFetch na página deu 403).
 - Reclame Aqui: não aberto por nós (Cloudflare); ver o artigo irmão.
+
+## 13. Respostas do Bruno (14/10/2026)
+- A faixa **"Devolução grátis" vale sempre**: a postagem da devolução não é cobrada do cliente.
+  Pode entrar como regra (junto da política de 30 dias).
+- **Mercado Livre e loja física: não citar.** A "Clea Oficial" do Mercado Livre pode ser uma
+  filial, mas o artigo não fala de marketplace nem de loja física, e as FAQs sobre isso saem.
+- A campanha dos 14 anos fica fora (sem data final e a conta não fecha com 2014).
