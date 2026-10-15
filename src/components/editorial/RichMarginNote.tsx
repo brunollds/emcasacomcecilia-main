@@ -27,7 +27,14 @@ export interface RichMarginNoteProps {
   marginNoteOnly?: boolean;
   /** Labels for the note pill, already in the page language. */
   noteLabels: EditorialNoteLabels;
+  /** 'd2' (artigos): marinho no lugar do verde e do laranja, na nota e na etiqueta. */
+  variant?: 'editorial' | 'd2';
 }
+
+const NOTE_INK = {
+  editorial: { label: 'text-[#1a4d2e]', connector: 'border-[#ff6b35]/60' },
+  d2: { label: 'text-marinho', connector: 'border-marinho/60' },
+} as const;
 
 /**
  * RichMarginNote — editorial note rendering for line-anchored notes
@@ -45,10 +52,11 @@ export interface RichMarginNoteProps {
  * a relative container (provided by the parent, e.g., MarginNoteRail).
  * When undefined, renders at top of margin stack in static flow (fallback, no layout jump).
  */
-export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false, noteLabels }: RichMarginNoteProps): React.ReactElement {
+export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false, noteLabels, variant = 'editorial' }: RichMarginNoteProps): React.ReactElement {
+  const ink = NOTE_INK[variant];
   // Non-line-anchor notes: delegate to existing pill (all breakpoints)
   if (!note.anchor || !isLineAnchor(note.anchor)) {
-    return <EditorialNotePill note={note} labels={noteLabels} />;
+    return <EditorialNotePill note={note} labels={noteLabels} variant={variant} />;
   }
 
   const bodyParagraphs = note.body.split('\n\n').filter(Boolean);
@@ -72,8 +80,8 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
       >
         {/* Header: icon + label */}
         <div className="mb-2 flex items-center gap-2">
-          <StickyNote size={13} className="flex-shrink-0 text-[#1a4d2e]" />
-          <span className="text-xs font-semibold text-[#1a4d2e]">{note.label}</span>
+          <StickyNote size={13} className={`flex-shrink-0 ${ink.label}`} />
+          <span className={`text-xs font-semibold ${ink.label}`}>{note.label}</span>
         </div>
 
         {/* Body: paragraphs */}
@@ -90,7 +98,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
 
         {/* Connector line: dashed line extending toward text column */}
         <div
-          className="richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed border-[#ff6b35]/60"
+          className={`richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed ${ink.connector}`}
           aria-hidden="true"
         />
       </aside>
@@ -102,7 +110,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
     <>
       {/* Mobile: show pill (handled by max-lg: block, lg: hidden) */}
       <div className="lg:hidden">
-        <EditorialNotePill note={note} labels={noteLabels} />
+        <EditorialNotePill note={note} labels={noteLabels} variant={variant} />
       </div>
 
       {/* Desktop margin note (visible only at lg and above) */}
@@ -121,8 +129,8 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
       >
         {/* Header: icon + label */}
         <div className="mb-2 flex items-center gap-2">
-          <StickyNote size={13} className="flex-shrink-0 text-[#1a4d2e]" />
-          <span className="text-xs font-semibold text-[#1a4d2e]">{note.label}</span>
+          <StickyNote size={13} className={`flex-shrink-0 ${ink.label}`} />
+          <span className={`text-xs font-semibold ${ink.label}`}>{note.label}</span>
         </div>
 
         {/* Body: paragraphs */}
@@ -139,7 +147,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
 
         {/* Connector line: dashed line extending toward text column */}
         <div
-          className="richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed border-[#ff6b35]/60"
+          className={`richnote-connector absolute top-1/2 -left-6 w-6 h-px border-t border-dashed ${ink.connector}`}
           aria-hidden="true"
         />
       </aside>

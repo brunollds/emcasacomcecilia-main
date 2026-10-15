@@ -3,6 +3,7 @@
 import { useEffect, useRef, useSyncExternalStore } from 'react';
 import { createPortal } from 'react-dom';
 import { X } from 'lucide-react';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 
 // Module-level scroll lock counter to handle concurrent modals safely
 let scrollLockCount = 0;
@@ -30,7 +31,24 @@ export interface BottomSheetProps {
   closeLabel: string;
   returnFocusRef?: React.RefObject<HTMLElement | null>;
   children: React.ReactNode;
+  // 'd2' (artigos): título e botão de fechar em marinho, com a borda de 2px.
+  variant?: 'editorial' | 'd2';
 }
+
+const SHEET_STYLES = {
+  editorial: {
+    header: 'border-b border-[#1a4d2e]/10',
+    title: 'font-semibold text-[#1a4d2e]',
+    close: 'hover:bg-[#f5f5f5] focus-visible:ring-2 focus-visible:ring-[#ff6b35] focus-visible:ring-offset-2 focus-visible:outline-none',
+    icon: 'text-[#1a4d2e]',
+  },
+  d2: {
+    header: 'border-b-2 border-marinho',
+    title: 'font-extrabold text-marinho',
+    close: `hover:bg-amarelo-cupom ${FOCUS_RING}`,
+    icon: 'text-marinho',
+  },
+} as const;
 
 function subscribeToReducedMotion(callback: () => void): () => void {
   if (typeof window === 'undefined') return () => {};
@@ -55,7 +73,9 @@ export function BottomSheet({
   closeLabel,
   returnFocusRef,
   children,
+  variant = 'editorial',
 }: BottomSheetProps): React.ReactElement {
+  const styles = SHEET_STYLES[variant];
   const closeButtonRef = useRef<HTMLButtonElement>(null);
 
   const prefersReducedMotion = useSyncExternalStore(
@@ -151,16 +171,16 @@ export function BottomSheet({
         }}
       >
         {/* Header with close button */}
-        <div className="sticky top-0 flex items-center justify-between gap-4 border-b border-[#1a4d2e]/10 bg-white px-6 py-4 md:px-8">
-          <h2 className="font-semibold text-[#1a4d2e] text-lg flex-1">{ariaLabel}</h2>
+        <div className={`sticky top-0 flex items-center justify-between gap-4 ${styles.header} bg-white px-6 py-4 md:px-8`}>
+          <h2 className={`${styles.title} text-lg flex-1`}>{ariaLabel}</h2>
           <button
             ref={closeButtonRef}
             type="button"
             onClick={onClose}
-            className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full hover:bg-[#f5f5f5] focus-visible:ring-2 focus-visible:ring-[#ff6b35] focus-visible:ring-offset-2 focus-visible:outline-none transition-colors"
+            className={`flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full ${styles.close} transition-colors`}
             aria-label={closeLabel}
           >
-            <X size={20} className="text-[#1a4d2e]" />
+            <X size={20} className={styles.icon} />
           </button>
         </div>
 
