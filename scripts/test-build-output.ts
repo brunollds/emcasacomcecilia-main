@@ -27,6 +27,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
+import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
@@ -922,7 +923,7 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
 }
 // O guarda acima passa no recorte certo e falha no recorte em português numa página em inglês e sem o código.
 {
-  const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [] };
+  const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [], storeSponsored: true };
   const html = (lang: Locale) =>
     `<section id="cupom-artigo"><p>${getCodeTitle(getSidebarCopy(lang), 'reward', 'YesStyle')}</p><code>CECILIA010</code>` +
     `<button data-copied="false">${getCouponCopyLabels(lang).copy}</button><p>${getArticleCopy(lang).copiedHint('YesStyle', 'reward')}</p></section>`;
@@ -931,6 +932,29 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   assert.notDeepEqual(cutoutProblems(html('pt'), 'en', block), [], 'recorte em português passou numa página em inglês');
   assert.notDeepEqual(cutoutProblems(html('en').replace('<code>CECILIA010</code>', ''), 'en', block), [], 'recorte sem código passou');
   assert.notDeepEqual(cutoutProblems(`${html('en')}<a href="https://br.shein.com/">x</a>`, 'en', block), [], 'SHEIN Brasil passou');
+}
+
+// O link da loja dos recortes (topo, fim e lateral) vai à loja, nunca à página de cupons do site, e todo link externo
+// dele leva a marcação de patrocínio. Devolve também quantos links conferiu.
+function cutoutStoreLinkProblems(body: string): { problems: string[]; links: number } {
+  const problems: string[] = [];
+  let links = 0;
+  for (const match of body.matchAll(/<section\b[^>]*\sdata-recorte="(top|end|sidebar)"/g)) {
+    for (const [tag] of elementAt(body, match.index).matchAll(/<a\s[^>]*>/g)) {
+      const href = decodeHtml(tag.match(/\shref="([^"]*)"/)?.[1] ?? '');
+      links++;
+      if (isInternalLink(href)) problems.push(`${match[1]}: link da loja interno (${href})`);
+      else if (!/\srel="[^"]*\bsponsored\b/.test(tag)) problems.push(`${match[1]}: link da loja sem sponsored (${href})`);
+    }
+  }
+  return { problems, links };
+}
+{
+  const cutout = (variant: string, link: string) => `<section data-recorte="${variant}"><p>x</p>${link}</section>`;
+  assert.deepEqual(cutoutStoreLinkProblems(cutout('top', '<a href="https://www.yesstyle.com/x" rel="sponsored noopener noreferrer">Go</a>')), { problems: [], links: 1 });
+  assert.equal(cutoutStoreLinkProblems(cutout('end', '<a href="/en/coupons/yesstyle">Go</a>')).problems.length, 1, 'link interno passou');
+  assert.equal(cutoutStoreLinkProblems(cutout('end', '<a href="https://emcasacomcecilia.com/cupons/damie">Go</a>')).problems.length, 1, 'link do próprio domínio passou');
+  assert.equal(cutoutStoreLinkProblems(cutout('sidebar', '<a href="https://www.damie.com.br/" rel="noopener noreferrer">Go</a>')).problems.length, 1, 'link sem sponsored passou');
 }
 
 // O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
@@ -1018,7 +1042,7 @@ function bodyCitesCode(review: Review, code: string): boolean {
 // O guarda passa no botão certo e falha sem o botão, com o código de outra loja, fora do corpo, com o rótulo em
 // português numa página em inglês e com o CECILIA010 chamado de cupom.
 {
-  const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [] };
+  const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [], storeSponsored: true };
   const button = (code: string, label: string) => `<span data-copy-code="${code}"><button type="button" aria-label="${label}" data-copied="false">${code}</button></span>`;
   const page = (inner: string, outside = '') => `<main><div data-article="corpo"><p>Use ${inner} no carrinho.</p></div>${outside}</main>`;
   const en = getCouponCopyLabels('en').copyCoupon('CECILIA010');
@@ -1173,7 +1197,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
 {
   const block: ArticleStoreBlock = {
     brand: 'Damie', slug: 'damie', code: 'CECILIA12', rules: [{ label: 'Vale para', value: 'Tudo' }],
-    storeHref: 'https://damie.example/', couponPageHref: '/cupons/damie', articlesHref: '/reviews/loja/damie', articleCount: 9,
+    storeHref: 'https://damie.example/', storeSponsored: true, couponPageHref: '/cupons/damie', articlesHref: '/reviews/loja/damie', articleCount: 9,
   };
   const pt = getArticleCopy('pt');
   const cutout =
@@ -1238,6 +1262,7 @@ let familyHeads = 0;
 let notedArticles = 0;
 let faqArticles = 0;
 let cutoutArticles = 0;
+let cutoutStoreLinks = 0;
 let sidebarCutoutArticles = 0;
 let inlineCopyArticles = 0;
 let endStoreBlocks = 0;
@@ -1293,7 +1318,7 @@ for (const url of articleUrls) {
   // é a nota editorial, sem <nav>.
   const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
   // O bloco de loja ativa que o template recebe: recorte do topo, lateral e bloco do fim.
-  const storeBlock = getArticleStoreBlock(review, locale, review.cta?.url);
+  const storeBlock = getArticleStoreBlock(review, locale);
   const copy = getSidebarCopy(locale);
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -1361,6 +1386,9 @@ for (const url of articleUrls) {
   if (storeBlock) {
     assert.deepEqual(cutoutProblems(sectionIn(body, 'cupom-artigo') ?? '', locale, storeBlock), [], `${pagePath}: recorte do topo`);
     cutoutArticles++;
+    const storeLinks = cutoutStoreLinkProblems(body);
+    assert.deepEqual(storeLinks.problems, [], `${pagePath}: link da loja nos recortes`);
+    cutoutStoreLinks += storeLinks.links;
   }
   const citesStoreCode = Boolean(storeBlock?.code && bodyCitesCode(review, storeBlock.code));
   assert.deepEqual(inlineCopyProblems(body, locale, storeBlock, citesStoreCode), [], `${pagePath}: código copiável no texto`);
@@ -1520,6 +1548,7 @@ for (const url of articleUrls) {
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
+assert.ok(cutoutStoreLinks >= cutoutArticles * 3, `só ${cutoutStoreLinks} links da loja nos recortes de ${cutoutArticles} artigos`);
 assert.equal(sidebarCutoutArticles, cutoutArticles, 'recorte da lateral e recorte do topo em artigos diferentes');
 assert.ok(inlineCopyArticles > 0, 'nenhum artigo cita o código da loja no corpo');
 // Cada ramo do fim do artigo conferido em algum artigo: com e sem loja, com a subpágina da loja e com regras,

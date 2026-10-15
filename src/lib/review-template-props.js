@@ -194,7 +194,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     jsonLd,
     faqJsonLd,
     relatedReviews,
-    storeBlock: getArticleStoreBlock(review, localeKey, review.cta?.url),
+    storeBlock: getArticleStoreBlock(review, localeKey),
     relatedArticleLinks,
     localeKey,
   };

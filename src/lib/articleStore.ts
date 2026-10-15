@@ -6,6 +6,7 @@ import { getCouponBySlug, getStoreCodeKind, type Coupon, type CouponCodeKind } f
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
+import { isInternalLink } from '@/lib/internalLinks';
 import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 
 // Server-only: lê o índice de artigos (@/lib/data) e os dados de cupom. Nada 'use client' importa este arquivo.
@@ -18,6 +19,8 @@ export type ArticleStoreBlock = {
   discount?: string;
   rules: Array<{ label: string; value: string }>;
   storeHref?: string;
+  // Patrocínio do link da loja: o do cta quando o link é o dele; o link de afiliado da loja é sempre patrocinado.
+  storeSponsored: boolean;
   couponPageHref?: string;
   articlesHref?: string;
   articleCount?: number;
@@ -79,7 +82,7 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
   ];
 }
 
-export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, ctaUrl?: string): ArticleStoreBlock | null {
+export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale): ArticleStoreBlock | null {
   if (!review.affiliate) return null;
   const store = getCouponBySlug(review.affiliate);
   if (!store) return null;
@@ -98,6 +101,12 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, c
     : 0;
   const showArticles = locale === 'pt' && hasArticlesPage(articleCount);
 
+  // "Ir para a loja" vai à loja: o cta que aponta para uma página do site (a de cupons da loja) cede ao link de
+  // afiliado; fora do PT, o da tradução da loja, que nunca é o da SHEIN Brasil.
+  const ctaUrl = review.cta?.url;
+  const storeHref = (ctaUrl && !isInternalLink(ctaUrl) ? ctaUrl : undefined) || source?.offerUrl || store.offerUrl;
+  const storeSponsored = storeHref === ctaUrl ? review.cta?.sponsored ?? true : true;
+
   return {
     brand: store.brand,
     slug: store.slug,
@@ -106,7 +115,8 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, c
     // Fora do PT, só o texto da tradução: o desconto da loja em PT não vai a outro idioma.
     discount: isStoreCode ? source?.discount : undefined,
     rules: rules.filter((rule) => rule.value).slice(0, MAX_RULES).map((rule) => ({ ...rule, value: shortenRule(rule.value) })),
-    storeHref: ctaUrl || review.cta?.url || source?.offerUrl || store.offerUrl,
+    storeHref,
+    storeSponsored,
     couponPageHref: hasTranslatedStorePage(store.slug, locale) ? getCouponStorePath(store.slug, locale) : undefined,
     articlesHref: showArticles ? getStoreArticlesPath(store.slug) : undefined,
     articleCount: showArticles ? articleCount : undefined,

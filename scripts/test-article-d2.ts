@@ -9,6 +9,7 @@ import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp } from './locale-home-guards';
 import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { getStoreCode } from '@/lib/homeStores';
+import { isInternalLink } from '@/lib/internalLinks';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { ReviewGallerySection } from '@/components/review/ReviewGallerySection';
@@ -56,6 +57,15 @@ for (const review of publishedReviews) {
     assert.ok(block.rules.length === 0 || block.rules.every((r) => r.label && r.value));
   }
   if (block?.code === 'CECILIA010') assert.equal(block.codeKind, 'reward');
+}
+// "Ir para a loja" leva à loja: um cta.url interno (a página de cupons do site) cede ao link de afiliado da loja,
+// que é sempre patrocinado; o cta externo mantém a marcação dele.
+for (const review of publishedReviews) {
+  const block = getArticleStoreBlock(review, resolveReviewLocale(review.locale) as never);
+  if (!block?.storeHref) continue;
+  assert.ok(!isInternalLink(block.storeHref), `${review.slug}: link da loja interno (${block.storeHref})`);
+  const ctaSponsored = review.cta?.sponsored ?? true;
+  assert.equal(block.storeSponsored, block.storeHref === review.cta?.url ? ctaSponsored : true, `${review.slug}: patrocínio do link da loja`);
 }
 assert.equal(getArticleStoreBlock({ ...publishedReviews[0], affiliate: 'kopenhagen' } as never, 'pt'), null, 'loja pausada');
 assert.equal(getCouponBySlug('kopenhagen'), undefined, 'kopenhagen deveria estar pausada');
@@ -264,7 +274,7 @@ assert.deepEqual(
   'idioma sem artigo da YesStyle'
 );
 for (const review of yesStyleArticles) {
-  const block = getArticleStoreBlock(review, resolveReviewLocale(review.locale) as never, review.cta?.url)!;
+  const block = getArticleStoreBlock(review, resolveReviewLocale(review.locale) as never)!;
   assert.ok(block.rules.length > 0, `${review.slug}: YesStyle sem regras`);
 }
 
@@ -280,7 +290,7 @@ for (const coupon of linkStores) {
 }
 const lejourArticle = publishedReviews.find((review) => review.slug === 'lejour-como-funciona');
 assert.ok(lejourArticle, 'artigo da Lejour ausente');
-assert.ok(getArticleStoreBlock(lejourArticle, 'pt', lejourArticle.cta?.url)!.rules.length > 0, 'artigo da Lejour sem regras');
+assert.ok(getArticleStoreBlock(lejourArticle, 'pt')!.rules.length > 0, 'artigo da Lejour sem regras');
 
 // Barra do celular: sem o recorte do topo, aparece quando a leitura chega à primeira seção, como antes; com ele, só
 // depois que o recorte sai pela parte de cima da tela. Some enquanto o bloco da loja do fim (#loja) está na tela.
