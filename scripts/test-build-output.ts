@@ -937,6 +937,9 @@ function articleBodyProblems(body: string): string[] {
   const [region] = regions;
   const problems = [...new Set(region.match(OLD_ARTICLE_COLORS) ?? [])].map((hex) => `cor antiga ${hex} no corpo`);
   if (!/<section\b/.test(region)) problems.push('corpo sem nenhuma seção');
+  // Movimento no corpo só com o movimento liberado (motion-safe:). Animação sem essa guarda fica de fora, como a
+  // pulse-respiro, que pulsava em laranja sem parar.
+  for (const [, animation] of region.matchAll(/class="[^"]*?(?<![\w:-])(animate-[\w-]+)/g)) problems.push(`animação sem guarda no corpo (${animation})`);
   for (const background of body.match(/\b(?:review-page-bg|notebook-[\w-]+)\b/g) ?? []) problems.push(`fundo de caderno (${background})`);
   return [...new Set(problems)];
 }
@@ -950,6 +953,8 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 style="background-color:#ff6b35">')), [], 'cor antiga em estilo passou');
   assert.notDeepEqual(articleBodyProblems(`<article class="review-page-bg">${ok}</article>`), [], 'fundo de caderno passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace(/<section[\s\S]*<\/section>/, '')), [], 'corpo vazio passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="font-bold animate-pulse-respiro">')), [], 'animação sem guarda passou');
+  assert.deepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="motion-safe:animate-spin">')), [], 'animação com motion-safe barrada');
 }
 // O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
 assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');

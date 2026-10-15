@@ -31,11 +31,11 @@ export function ReputacaoMetricas(): React.ReactElement {
       </div>
 
       <div className="mt-3 flex flex-wrap items-center gap-3 rounded-lg border-2 border-marinho bg-white px-4 py-3">
-        <span className="rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1 text-xs font-semibold text-marinho-suave animate-pulse-respiro">
+        <span className="rounded-full border-2 border-marinho bg-amarelo-cupom px-3 py-1 text-xs font-semibold text-marinho-suave">
           Ótimo
         </span>
         <span className="text-[13px] font-sans text-marinho-suave">
-          <strong className="font-bold text-marinho animate-pulse-respiro">324</strong> casos no período · <strong className="font-bold text-marinho animate-pulse-respiro">70,9%</strong> voltariam a fazer negócio
+          <strong className="font-bold text-marinho">324</strong> casos no período · <strong className="font-bold text-marinho">70,9%</strong> voltariam a fazer negócio
         </span>
       </div>
     </div>
