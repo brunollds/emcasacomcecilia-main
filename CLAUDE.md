@@ -22,7 +22,7 @@ npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
-npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
+npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas, páginas de 12 e 24, medição e os componentes
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
@@ -102,6 +102,24 @@ A grade de `/videos` (`VideosBrowser`) guarda a loja escolhida em `?loja=` do me
 a gravação da URL das duas ficam em `src/components/ui/useListUrl.tsx` (`isOnList` e `urlSearchOf` em
 `src/lib/listUrl.ts`), e a troca animada, em `src/components/ui/shelfTransition.ts`, fora do
 `src/lib/viewTransition.ts`, que componentes servidor importam: o `flushSync` só existe no cliente.
+
+### Analytics e aviso de cookies (LGPD)
+
+O GA4 (`src/components/Analytics.js`) e o Clarity (`src/components/Clarity.js`) só carregam com as duas
+condições de `isTrackingAllowed` (`src/lib/consent.ts`): o host liberado (`shouldEnableAnalytics` e
+`shouldEnableClarity`, de `src/lib/analytics.js`) e o aceite no aviso de cookies. É o que a
+`/privacidade` promete (`src/lib/privacyPage.ts`); mexeu num, confira o outro.
+
+- A escolha fica no `localStorage` (`ecc-consent-v1`: `granted` ou `denied`; outro valor vale como
+  sem escolha), não em cookie. `src/lib/consent.ts` não importa React nem `@/lib/data`.
+- O `ConsentBanner` (`src/components/`), no `RootLayoutShell` de todo idioma, só monta no navegador:
+  o HTML do servidor nunca o traz, e o `test:build-output` confere isso nas homes de cada idioma.
+  Aparece sem escolha guardada ou quando o botão "Preferências de cookies" do rodapé o reabre
+  (`openConsentPreferences`). Recusar e Aceitar têm o mesmo tamanho e o mesmo peso. Quem troca o
+  aceite pela recusa recebe a página de novo, porque os scripts não descarregam.
+- Os textos do aviso e do botão do rodapé, nos 10 idiomas, ficam em
+  `src/components/consent/consentCopy.ts`. A política só existe em português, e fora do PT o link
+  avisa o idioma dela.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
