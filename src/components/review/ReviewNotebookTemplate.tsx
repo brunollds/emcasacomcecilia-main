@@ -368,7 +368,14 @@ export function ReviewNotebookTemplate({
         tocItems={tocItems}
         affiliate={review.affiliate}
         coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
-        cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
+        // Com loja ativa, o botão da gaveta é o "Ir para a loja" dos recortes (rótulo junto com o link); sem ela, o cta.
+        cta={
+          storeBlock?.storeHref
+            ? { url: storeBlock.storeHref, label: storeLabel, sponsored: storeBlock.storeSponsored }
+            : effectiveCta && hasCta
+              ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored }
+              : undefined
+        }
         related={relatedArticleLinks}
         hasTopCutout={Boolean(storeBlock)}
       />

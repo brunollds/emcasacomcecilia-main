@@ -957,6 +957,23 @@ function cutoutStoreLinkProblems(body: string): { problems: string[]; links: num
   assert.equal(cutoutStoreLinkProblems(cutout('sidebar', '<a href="https://www.damie.com.br/" rel="noopener noreferrer">Go</a>')).problems.length, 1, 'link sem sponsored passou');
 }
 
+// O botão laranja da gaveta do celular (review_mobile_drawer) com bloco da loja: um só, para a loja, patrocinado.
+function drawerStoreLinkProblems(dialog: string): string[] {
+  const links = [...dialog.matchAll(/<a\s[^>]*>/g)].map(([tag]) => tag).filter((tag) => classesOf(tag).includes('bg-laranja'));
+  if (links.length !== 1) return [`${links.length} links da loja na gaveta em vez de um`];
+  const [tag] = links;
+  const href = decodeHtml(tag.match(/\shref="([^"]*)"/)?.[1] ?? '');
+  if (isInternalLink(href)) return [`link da loja da gaveta interno (${href})`];
+  return /\srel="[^"]*\bsponsored\b/.test(tag) ? [] : [`link da loja da gaveta sem sponsored (${href})`];
+}
+{
+  const drawer = (link: string) => `<dialog><nav><a href="#a">A</a></nav>${link}<ul><li><a href="/reviews/b" class="x">B</a></li></ul></dialog>`;
+  assert.deepEqual(drawerStoreLinkProblems(drawer('<a href="https://damie.com.br" rel="sponsored noopener noreferrer" class="mx-4 bg-laranja">Ir</a>')), []);
+  assert.equal(drawerStoreLinkProblems(drawer('<a href="/cupons/damie" class="mx-4 bg-laranja">Ver cupom</a>')).length, 1, 'link interno da gaveta passou');
+  assert.equal(drawerStoreLinkProblems(drawer('<a href="https://damie.com.br" rel="noopener noreferrer" class="mx-4 bg-laranja">Ir</a>')).length, 1, 'link da gaveta sem sponsored passou');
+  assert.equal(drawerStoreLinkProblems(drawer('')).length, 1, 'gaveta sem o link da loja passou');
+}
+
 // O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
 // (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da D2: nenhuma cor antiga,
 // nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
@@ -1396,6 +1413,7 @@ for (const url of articleUrls) {
     const storeLinks = cutoutStoreLinkProblems(body);
     assert.deepEqual(storeLinks.problems, [], `${pagePath}: link da loja nos recortes`);
     cutoutStoreLinks += storeLinks.links;
+    assert.deepEqual(drawerStoreLinkProblems(dialog), [], `${pagePath}: link da loja na gaveta do celular`);
   }
   const citesStoreCode = Boolean(storeBlock?.code && bodyCitesCode(review, storeBlock.code));
   assert.deepEqual(inlineCopyProblems(body, locale, storeBlock, citesStoreCode), [], `${pagePath}: código copiável no texto`);
