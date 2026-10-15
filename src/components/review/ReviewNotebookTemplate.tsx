@@ -18,6 +18,7 @@ import { getArticleCopy, getEditorialNoteLabels, getTemplateUi } from './article
 import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
 import { isStepHeading } from './couponCopyLocale';
 import { GuideTimeline } from './GuideTimeline';
+import { ArticleCodeCopyProvider } from './HighlightCoupon';
 import { ArticleHeader } from './article/ArticleHeader';
 import { ArticleEnd } from './article/ArticleEnd';
 
@@ -134,6 +135,10 @@ export function ReviewNotebookTemplate({
   const storeLabel = storeBlock?.code
     ? storeCopy.goToStore
     : (couponCopyLocale === 'pt' && store?.offerActionLabel) || storeCopy.viewOffer;
+  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
+  const inlineCodeCopy = storeBlock?.code
+    ? { code: storeBlock.code, codeKind: storeBlock.codeKind, brand: storeBlock.brand, slug: storeBlock.slug, reviewSlug: review.slug, locale: couponCopyLocale }
+    : null;
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
@@ -198,51 +203,97 @@ export function ReviewNotebookTemplate({
             {/* Conteúdo */}
             <div className="min-w-0 lg:col-span-8">
               {/* O corpo: ficha, seções e veredito em texto. O test:build-output confere o visual dele por este atributo. */}
-              <div data-article="corpo">
-                {/* Ficha do produto em tabela */}
-                {kind === 'produto' && hasProductSpec && (
-                  <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
-                    <div className="flex items-start gap-2">
-                      <details className="group flex-1 overflow-hidden rounded-2xl border-2 border-marinho bg-white" open>
-                        <summary className={`flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-creme md:px-6 [&::-webkit-details-marker]:hidden ${FOCUS_RING}`}>
-                          <span className="font-condensada text-[28px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-[32px]">
-                            {copy.productSheet}
-                          </span>
-                          <span className="text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:hidden">
-                            {copy.productSheetOpen}
-                          </span>
-                          <span className="hidden text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:inline">
-                            {copy.productSheetClose}
-                          </span>
-                        </summary>
-                        <table className="w-full border-t-2 border-marinho text-sm">
-                          <caption className="sr-only">{copy.productSheetCaption}</caption>
-                          <tbody className="divide-y divide-marinho/15">
-                            {review.productSpec.map((spec, index) => (
-                              <tr key={index}>
-                                <th scope="row" className="w-2/5 px-5 py-3 text-left align-top font-bold text-marinho-suave md:px-6">
-                                  {spec.key}
-                                </th>
-                                <td className="px-5 py-3 align-top font-semibold text-marinho md:px-6">
-                                  {spec.highlight ? <span className="marca-texto font-extrabold">{spec.value}</span> : spec.value}
-                                </td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
-                      </details>
-                      <div className="pt-4">
-                        <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} copiedLabel={copy.sectionLinkCopied} variant="d2" />
+              <ArticleCodeCopyProvider value={inlineCodeCopy}>
+                <div data-article="corpo">
+                  {/* Ficha do produto em tabela */}
+                  {kind === 'produto' && hasProductSpec && (
+                    <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
+                      <div className="flex items-start gap-2">
+                        <details className="group flex-1 overflow-hidden rounded-2xl border-2 border-marinho bg-white" open>
+                          <summary className={`flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-creme md:px-6 [&::-webkit-details-marker]:hidden ${FOCUS_RING}`}>
+                            <span className="font-condensada text-[28px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-[32px]">
+                              {copy.productSheet}
+                            </span>
+                            <span className="text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:hidden">
+                              {copy.productSheetOpen}
+                            </span>
+                            <span className="hidden text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:inline">
+                              {copy.productSheetClose}
+                            </span>
+                          </summary>
+                          <table className="w-full border-t-2 border-marinho text-sm">
+                            <caption className="sr-only">{copy.productSheetCaption}</caption>
+                            <tbody className="divide-y divide-marinho/15">
+                              {review.productSpec.map((spec, index) => (
+                                <tr key={index}>
+                                  <th scope="row" className="w-2/5 px-5 py-3 text-left align-top font-bold text-marinho-suave md:px-6">
+                                    {spec.key}
+                                  </th>
+                                  <td className="px-5 py-3 align-top font-semibold text-marinho md:px-6">
+                                    {spec.highlight ? <span className="marca-texto font-extrabold">{spec.value}</span> : spec.value}
+                                  </td>
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </details>
+                        <div className="pt-4">
+                          <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} copiedLabel={copy.sectionLinkCopied} variant="d2" />
+                        </div>
                       </div>
-                    </div>
-                  </EditorialReveal>
-                )}
+                    </EditorialReveal>
+                  )}
 
-                {/* Conteúdo editorial */}
-                {kind === 'guia' ? (
-                  <>
+                  {/* Conteúdo editorial */}
+                  {kind === 'guia' ? (
+                    <>
+                      <ReviewContentSections
+                        sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                        reviewTitle={review.title}
+                        sectionIds={sectionIds}
+                        filterHeadings={HEADINGS_OUTSIDE_BODY}
+                        kind={kind}
+                        notes={notes}
+                        reviewSlug={review.slug}
+                        coupon={review.coupon}
+                        affiliate={review.affiliate}
+                        locale={couponCopyLocale}
+                        noteLabels={noteLabels}
+                      />
+                      {stepSections.length > 0 && (
+                        <div className="mt-12">
+                          <GuideTimeline
+                            steps={stepSections}
+                            sectionIds={sectionIds}
+                            reviewTitle={review.title}
+                            locale={couponCopyLocale}
+                          />
+                        </div>
+                      )}
+                      {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
+                          nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
+                          test:build-output barra a nota repetida. */}
+                      {postStepSections.length > 0 && (
+                        <div className="mt-12">
+                          <ReviewContentSections
+                            sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                            reviewTitle={review.title}
+                            sectionIds={sectionIds}
+                            filterHeadings={HEADINGS_OUTSIDE_BODY}
+                            kind={kind}
+                            notes={notes}
+                            reviewSlug={review.slug}
+                            coupon={review.coupon}
+                            affiliate={review.affiliate}
+                            locale={couponCopyLocale}
+                            noteLabels={noteLabels}
+                          />
+                        </div>
+                      )}
+                    </>
+                  ) : (
                     <ReviewContentSections
-                      sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                      sections={review.contentSections || []}
                       reviewTitle={review.title}
                       sectionIds={sectionIds}
                       filterHeadings={HEADINGS_OUTSIDE_BODY}
@@ -254,67 +305,23 @@ export function ReviewNotebookTemplate({
                       locale={couponCopyLocale}
                       noteLabels={noteLabels}
                     />
-                    {stepSections.length > 0 && (
-                      <div className="mt-12">
-                        <GuideTimeline
-                          steps={stepSections}
-                          sectionIds={sectionIds}
-                          reviewTitle={review.title}
-                          locale={couponCopyLocale}
-                        />
-                      </div>
-                    )}
-                    {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
-                        nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
-                        test:build-output barra a nota repetida. */}
-                    {postStepSections.length > 0 && (
-                      <div className="mt-12">
-                        <ReviewContentSections
-                          sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
-                          reviewTitle={review.title}
-                          sectionIds={sectionIds}
-                          filterHeadings={HEADINGS_OUTSIDE_BODY}
-                          kind={kind}
-                          notes={notes}
-                          reviewSlug={review.slug}
-                          coupon={review.coupon}
-                          affiliate={review.affiliate}
-                          locale={couponCopyLocale}
-                          noteLabels={noteLabels}
-                        />
-                      </div>
-                    )}
-                  </>
-                ) : (
-                  <ReviewContentSections
-                    sections={review.contentSections || []}
-                    reviewTitle={review.title}
-                    sectionIds={sectionIds}
-                    filterHeadings={HEADINGS_OUTSIDE_BODY}
-                    kind={kind}
-                    notes={notes}
-                    reviewSlug={review.slug}
-                    coupon={review.coupon}
-                    affiliate={review.affiliate}
-                    locale={couponCopyLocale}
-                    noteLabels={noteLabels}
-                  />
-                )}
+                  )}
 
-                {/* Veredito em texto corrido quando não há rating de produto */}
-                {verdictSection && !hasProductRating && (
-                  <section className="mt-10 rounded-2xl border-2 border-marinho bg-white p-6 md:p-8">
-                    <SectionHeadingReveal as="h2" variant="d2" className="mb-5">
-                      {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
-                    </SectionHeadingReveal>
-                    {verdictSection.paragraphs?.map((paragraph, index) => (
-                      <p key={index} className="mb-4 font-editorial text-lg leading-8 text-marinho last:mb-0">
-                        {paragraph}
-                      </p>
-                    ))}
-                  </section>
-                )}
-              </div>
+                  {/* Veredito em texto corrido quando não há rating de produto */}
+                  {verdictSection && !hasProductRating && (
+                    <section className="mt-10 rounded-2xl border-2 border-marinho bg-white p-6 md:p-8">
+                      <SectionHeadingReveal as="h2" variant="d2" className="mb-5">
+                        {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
+                      </SectionHeadingReveal>
+                      {verdictSection.paragraphs?.map((paragraph, index) => (
+                        <p key={index} className="mb-4 font-editorial text-lg leading-8 text-marinho last:mb-0">
+                          {paragraph}
+                        </p>
+                      ))}
+                    </section>
+                  )}
+                </div>
+              </ArticleCodeCopyProvider>
 
               <ArticleEnd
                 review={review}
