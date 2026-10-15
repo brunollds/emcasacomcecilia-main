@@ -7,6 +7,7 @@ const NBSP = ' ';
 // sem nome vem de articleCopy.ts.
 export type GalleryCopy = {
   eyebrow: string;
+  // Título com fotos e vídeos; só com um dos dois, o título é o da aba (tabPhotos ou tabVideos).
   heading: string;
   tabPhotos: string;
   tabVideos: string;

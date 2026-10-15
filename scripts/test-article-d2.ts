@@ -3,7 +3,10 @@ import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { getArticleStoreBlock, shortenRule } from '@/lib/articleStore';
-import { getCouponBySlug } from '@/lib/couponsData';
+import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
+import { codeAsCouponRegExp } from './locale-home-guards';
 import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { getStoreCode } from '@/lib/homeStores';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
@@ -194,5 +197,77 @@ const pairGallery = galleryOf(2);
 assert.equal(pairGallery.match(/data-gallery-card/g)?.length, 2, 'galeria de dois itens sem o carrossel');
 assert.ok(pairGallery.includes(galleryCopy.nextPhotos), 'carrossel sem as setas');
 assert.equal(galleryOf(0), '', 'galeria vazia renderizou');
+
+// O título da galeria diz o que ela mostra: só fotos, "Photos"; só vídeos, "Videos"; as duas, "Photos and videos".
+const headingOf = (html: string) => html.match(/<h2\b[^>]*>([\s\S]*?)<\/h2>/)?.[1].replace(/<[^>]+>/g, '');
+const galleryVideo = { url: 'https://www.youtube.com/watch?v=abcdefghijk', title: 'Vídeo de teste', thumbnailUrl: '/images/teste-video.jpg' };
+const withVideos = (count: number) =>
+  renderToStaticMarkup(
+    createElement(ReviewGallerySection, {
+      images: Array.from({ length: count }, (_, index) => ({ image: `/images/teste-${index}.jpg`, alt: `Foto ${index}` })),
+      videos: [galleryVideo],
+      locale: 'en',
+    })
+  );
+assert.equal(headingOf(pairGallery), galleryCopy.tabPhotos, 'galeria só de fotos sem o título de fotos');
+assert.equal(headingOf(singleGallery), galleryCopy.tabPhotos, 'galeria de uma foto sem o título de fotos');
+assert.equal(headingOf(withVideos(0)), galleryCopy.tabVideos, 'galeria só de vídeo sem o título de vídeos');
+assert.equal(headingOf(withVideos(2)), galleryCopy.heading, 'galeria mista sem "fotos e vídeos"');
+for (const loc of LOCALE_KEYS) {
+  const c = getGalleryCopy(loc);
+  assert.equal(new Set([c.heading, c.tabPhotos, c.tabVideos]).size, 3, `${loc}: títulos da galeria iguais`);
+}
+
+// YesStyle: o bloco do fim usa as regras e a data da página da YesStyle, em todo idioma, sem chamar o código de
+// recompensa de cupom; fora do PT, nenhum rótulo ou valor do PT.
+const yesStyleCode = getStoreCode(getCouponBySlug('yesstyle')!)!;
+const rewardAsCoupon = codeAsCouponRegExp([yesStyleCode])!;
+const yesStyleBlock = (loc: (typeof LOCALE_KEYS)[number]) =>
+  getArticleStoreBlock({ ...base, locale: loc, affiliate: 'yesstyle', coupon: yesStyleCode } as never, loc)!;
+const ptYesStyle = yesStyleBlock('pt');
+const ptYesStyleTexts = new Set([...ptYesStyle.rules.flatMap((rule) => [rule.label, rule.value]), ...ptLabels]);
+for (const loc of LOCALE_KEYS) {
+  const page = resolveYesStylePage(loc)!;
+  const block = yesStyleBlock(loc);
+  const rules = COUPON_STORE_COPY[loc].rules;
+  assert.deepEqual(
+    block.rules,
+    [
+      { label: rules.eligible, value: shortenRule(page.policyRules.eligible) },
+      { label: rules.combinable, value: shortenRule(page.policyRules.combinable) },
+      { label: getArticleCopy(loc).ruleVerifiedLabel, value: page.formattedDate },
+    ],
+    `${loc}: regras da YesStyle diferentes das da página`
+  );
+  for (const rule of block.rules) {
+    assert.ok(!rewardAsCoupon.test(`${rule.label} ${rule.value}`), `${loc}: ${yesStyleCode} chamado de cupom: ${rule.value}`);
+    if (loc !== 'pt') assert.ok(!ptYesStyleTexts.has(rule.label) && !ptYesStyleTexts.has(rule.value), `${loc}: regra em português: ${rule.label}`);
+  }
+}
+// Os artigos da YesStyle publicados, em todo idioma, saem com as regras.
+const yesStyleArticles = publishedReviews.filter((review) => review.affiliate === 'yesstyle' && review.coupon === yesStyleCode);
+assert.deepEqual(
+  LOCALE_KEYS.filter((loc) => !yesStyleArticles.some((review) => resolveReviewLocale(review.locale) === loc)),
+  [],
+  'idioma sem artigo da YesStyle'
+);
+for (const review of yesStyleArticles) {
+  const block = getArticleStoreBlock(review, resolveReviewLocale(review.locale) as never, review.cta?.url)!;
+  assert.ok(block.rules.length > 0, `${review.slug}: YesStyle sem regras`);
+}
+
+// Loja sem código (Lejour e as demais de link de afiliado): as regras da página da loja, sempre, com a data dela.
+const linkStores = getActiveCoupons().filter((coupon) => !getStoreCode(coupon));
+assert.ok(linkStores.some((coupon) => coupon.slug === 'lejour'), 'Lejour fora das lojas sem código');
+for (const coupon of linkStores) {
+  const block = getArticleStoreBlock({ ...base, affiliate: coupon.slug, coupon: undefined } as never, 'pt')!;
+  const date = new Date(`${coupon.lastVerified}T12:00:00`).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' });
+  assert.ok(block.rules.length > 0, `${coupon.slug}: loja sem código sem regras`);
+  assert.deepEqual(block.rules.at(-1), { label: ptCopy.ruleVerifiedLabel, value: date }, `${coupon.slug}: data diferente da página`);
+  if (coupon.eligibleCategories) assert.equal(block.rules[0].value, shortenRule(coupon.eligibleCategories));
+}
+const lejourArticle = publishedReviews.find((review) => review.slug === 'lejour-como-funciona');
+assert.ok(lejourArticle, 'artigo da Lejour ausente');
+assert.ok(getArticleStoreBlock(lejourArticle, 'pt', lejourArticle.cta?.url)!.rules.length > 0, 'artigo da Lejour sem regras');
 
 console.log('✅ artigo D2: relacionados, bloco da loja, textos novos, trilha e galeria');

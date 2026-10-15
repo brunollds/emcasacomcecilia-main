@@ -426,7 +426,7 @@ export function ReviewGallerySection({ images, videos = [], title, locale = 'pt'
         <div>
           <p className="text-xs font-extrabold uppercase tracking-[0.14em] text-marinho-suave">{copy.eyebrow}</p>
           <SectionHeadingReveal as="h2" variant="d2" className="mt-1">
-            {copy.heading}
+            {hasPhotos && hasVideos ? copy.heading : hasPhotos ? copy.tabPhotos : copy.tabVideos}
           </SectionHeadingReveal>
         </div>
 
