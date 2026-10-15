@@ -32,6 +32,7 @@ npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 i
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 idiomas e dynamicParams = false em toda rota dinâmica
 npm run test:institutional  # a /sobre: números dos dados (redes, artigos em PT, lojas ativas, receitas), selo da YesStyle só no prazo, marcas parceiras, trilha = BreadcrumbList, Person e textos proibidos; o /faqs (perguntas, FAQPage = página, atalhos), o /contato (assuntos = rota, escape do e-mail), a /privacidade (13 seções, Clarity, GA com 2 meses, consentimento, sumário, links externos em https, sem [VERIFICAR) e o /buscar (resultados com link e capa, aviso de nada encontrado, noindex)
+npm run test:recipes         # receitas: o tempo num formato só (formatRecipeTime), a foto só a própria (sem foto: a capa desenhada no cartão de /receitas, da home e do /buscar, e nada de imagem no topo, no JSON-LD nem no og:image), o topo de /receitas e nenhum arquivo cliente importando valores de @/lib/data
 npm run test:html-lang       # depois do build: <html lang> de cada rota
 npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
@@ -269,6 +270,18 @@ vídeo, primeiras impressões e uso noturno.
     `revela` e `--i`. O `RevealSection` só esconde depois de montar e só abaixo da tela; o
     `test:build-output` barra `data-reveal` no HTML do servidor.
 
+### Receitas: foto e tempo
+
+- A foto da receita é só a dela (`image` do JSON), por `getRecipeOwnImage` (`src/lib/data.ts`); sem ela, é
+  `undefined` em todo dado que a interface recebe. O cartão (`/receitas`, a faixa da home e o `/buscar`)
+  desenha a capa (`RecipeCover`, de `src/components/recipe/`: o ícone da categoria sobre uma cor lisa do D2,
+  `aria-hidden`), a página da receita fica sem foto no topo, e o `Recipe` do JSON-LD, o `og:image` e o cartão
+  do X ficam sem imagem. Nunca a foto de outro prato: as fotos de categoria antigas (`recipePlaceholderImages`)
+  ficam só para o `test:recipes` barrar. O Google pede `image` para o resultado rico de receita; a receita sem
+  foto sai dele até ganhar a foto dela.
+- Tempo de receita na tela passa por `formatRecipeTime` (`src/lib/recipeTime.ts`, sem imports): "25 min",
+  "2h", "1h15", "1h05". O filtro de tempo de `/receitas` segue lendo o `totalTime` cru.
+
 ### Home em outros idiomas
 
 - `/<locale>` (`src/app/[locale]/page.tsx`) é a home dos 9 idiomas fora do PT. A ordem é "confiança
@@ -390,7 +403,7 @@ nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum n
 |-------|------|
 | `/` | `src/app/(pt)/page.js` |
 | `/<locale>` | `src/app/[locale]/page.tsx` (home de cada idioma: `LocaleHomePage`, dados em `src/lib/localeHome.ts`) |
-| `/receitas` | `src/app/(pt)/receitas/page.js` |
+| `/receitas` | `src/app/(pt)/receitas/page.js` (o topo é o `PageHeader`, servidor, fora do Suspense; os cartões e os filtros em `ReceitasClientPage.js`, com os dados de `src/lib/recipeList.ts`) |
 | `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
 | `/reviews` | `src/app/(pt)/reviews/page.tsx` (Novidades, bolinhas e a estante `ReviewsBrowser`; dados em `src/lib/reviewsHub.ts`) |
 | `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com 3 artigos ou mais; a estante de `/reviews`, com busca acima de 12 artigos) |
