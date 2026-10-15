@@ -229,7 +229,7 @@ export function ReviewNotebookTemplate({
                         </table>
                       </details>
                       <div className="pt-4">
-                        <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} variant="d2" />
+                        <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} copiedLabel={copy.sectionLinkCopied} variant="d2" />
                       </div>
                     </div>
                   </EditorialReveal>

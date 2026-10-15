@@ -7,6 +7,7 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 export interface SectionLinkButtonProps {
   anchorId: string;
   label?: string;
+  copiedLabel?: string;
   // 'd2' (artigos): marinho, com o anel de foco da casa.
   variant?: 'editorial' | 'd2';
 }
@@ -25,6 +26,7 @@ const LINK_BUTTON_STYLES = {
 export function SectionLinkButton({
   anchorId,
   label = 'Copiar link da seção',
+  copiedLabel = 'Link copiado!',
   variant = 'editorial',
 }: SectionLinkButtonProps): React.ReactElement {
   const [showFeedback, setShowFeedback] = useState(false);
@@ -68,7 +70,7 @@ export function SectionLinkButton({
       className={LINK_BUTTON_STYLES[variant].button}
     >
       {showFeedback ? (
-        <span className={LINK_BUTTON_STYLES[variant].feedback}>Link copiado!</span>
+        <span className={LINK_BUTTON_STYLES[variant].feedback}>{copiedLabel}</span>
       ) : (
         <Link2 size={14} />
       )}

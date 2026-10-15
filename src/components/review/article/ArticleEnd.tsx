@@ -111,7 +111,7 @@ export function ArticleEnd({
             >
               {ui.verdictToc}
             </SectionHeadingReveal>
-            <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} />
+            <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} copiedLabel={copy.sectionLinkCopied} />
           </div>
           <div className="space-y-6">
             <ReviewVerdictCard review={review} kind={kind} />

@@ -31,6 +31,8 @@ export type ArticleCopy = {
   productSheetClose: string;
   productSheetCaption: string;
   productSheetLink: string;
+  // Aparece no lugar do ícone depois de copiar o link de uma seção (ficha, veredito).
+  sectionLinkCopied: string;
   relatedVideo: string;
   watchOnYoutube: string;
   openVideoPage: string;
@@ -77,6 +79,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Fechar',
     productSheetCaption: 'Ficha técnica do produto avaliado',
     productSheetLink: 'Copiar link da ficha do produto',
+    sectionLinkCopied: 'Link copiado!',
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Assista ao vídeo completo no YouTube',
     openVideoPage: 'Abrir a página dedicada ao vídeo',
@@ -120,6 +123,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Close',
     productSheetCaption: 'Technical details of the reviewed product',
     productSheetLink: 'Copy link to the product details',
+    sectionLinkCopied: 'Link copied!',
     relatedVideo: 'Related video',
     watchOnYoutube: 'Watch the full video on YouTube',
     openVideoPage: 'Open the dedicated video page',
@@ -163,6 +167,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Cerrar',
     productSheetCaption: 'Ficha técnica del producto analizado',
     productSheetLink: 'Copiar enlace de la ficha del producto',
+    sectionLinkCopied: '¡Enlace copiado!',
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Mira el vídeo completo en YouTube',
     openVideoPage: 'Abrir la página dedicada al vídeo',
@@ -206,6 +211,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Fermer',
     productSheetCaption: 'Fiche technique du produit évalué',
     productSheetLink: 'Copier le lien de la fiche produit',
+    sectionLinkCopied: 'Lien copié !',
     relatedVideo: 'Vidéo associée',
     watchOnYoutube: 'Regardez la vidéo complète sur YouTube',
     openVideoPage: 'Ouvrir la page dédiée à la vidéo',
@@ -249,6 +255,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Schließen',
     productSheetCaption: 'Technische Daten des bewerteten Produkts',
     productSheetLink: 'Link zu den Produktdaten kopieren',
+    sectionLinkCopied: 'Link kopiert!',
     relatedVideo: 'Passendes Video',
     watchOnYoutube: 'Das ganze Video auf YouTube ansehen',
     openVideoPage: 'Seite zum Video öffnen',
@@ -292,6 +299,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: 'Chiudi',
     productSheetCaption: 'Scheda tecnica del prodotto valutato',
     productSheetLink: 'Copia il link della scheda del prodotto',
+    sectionLinkCopied: 'Link copiato!',
     relatedVideo: 'Video correlato',
     watchOnYoutube: 'Guarda il video completo su YouTube',
     openVideoPage: 'Apri la pagina dedicata al video',
@@ -335,6 +343,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: '닫기',
     productSheetCaption: '평가한 제품의 상세 사양',
     productSheetLink: '제품 정보 링크 복사',
+    sectionLinkCopied: '링크를 복사했어요',
     relatedVideo: '관련 영상',
     watchOnYoutube: 'YouTube에서 전체 영상 보기',
     openVideoPage: '영상 전용 페이지 열기',
@@ -378,6 +387,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: '閉じる',
     productSheetCaption: '評価した製品の仕様',
     productSheetLink: '製品情報のリンクをコピー',
+    sectionLinkCopied: 'リンクをコピーしました',
     relatedVideo: '関連動画',
     watchOnYoutube: 'YouTube で動画の全編を見る',
     openVideoPage: '動画専用ページを開く',
@@ -421,6 +431,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: '收合',
     productSheetCaption: '所評測產品的規格資料',
     productSheetLink: '複製產品資訊連結',
+    sectionLinkCopied: '已複製連結',
     relatedVideo: '相關影片',
     watchOnYoutube: '在 YouTube 觀看完整影片',
     openVideoPage: '開啟影片專頁',
@@ -464,6 +475,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     productSheetClose: '收起',
     productSheetCaption: '所评测产品的规格资料',
     productSheetLink: '复制产品信息链接',
+    sectionLinkCopied: '已复制链接',
     relatedVideo: '相关视频',
     watchOnYoutube: '在 YouTube 观看完整视频',
     openVideoPage: '打开视频专页',
