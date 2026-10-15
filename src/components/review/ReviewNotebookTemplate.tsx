@@ -334,8 +334,8 @@ export function ReviewNotebookTemplate({
                 showVerdict={shouldRenderVerdict}
                 storeBlock={storeBlock}
                 affiliateCta={
-                  effectiveCta && hasCta
-                    ? { url: effectiveCta.url, label: effectiveCta.label, text: effectiveCta.text, sponsored: effectiveCta.sponsored }
+                  review.cta?.url && review.cta.label
+                    ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
                     : null
                 }
                 storeLabel={storeLabel}

@@ -6,7 +6,7 @@ import { getArticleStoreBlock, shortenRule } from '@/lib/articleStore';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
-import { codeAsCouponRegExp } from './locale-home-guards';
+import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp } from './locale-home-guards';
 import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { getStoreCode } from '@/lib/homeStores';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
@@ -218,10 +218,12 @@ for (const loc of LOCALE_KEYS) {
   assert.equal(new Set([c.heading, c.tabPhotos, c.tabVideos]).size, 3, `${loc}: títulos da galeria iguais`);
 }
 
-// YesStyle: o bloco do fim usa as regras e a data da página da YesStyle, em todo idioma, sem chamar o código de
-// recompensa de cupom; fora do PT, nenhum rótulo ou valor do PT.
+// YesStyle: o bloco do fim usa o que a página da YesStyle diz do código de recompensa (soma com os cupons da loja,
+// vai no campo Reward Code) e a data dela, em todo idioma; nada da seção dos cupons da loja. O código nunca é
+// chamado de cupom nem posto "com outros cupons", em nenhum ponto do valor; fora do PT, nenhum texto do PT.
 const yesStyleCode = getStoreCode(getCouponBySlug('yesstyle')!)!;
 const rewardAsCoupon = codeAsCouponRegExp([yesStyleCode])!;
+const rewardWithOtherCoupons = new RegExp(`${yesStyleCode}[\\s\\S]*(?:${OTHER_COUPONS})`, 'iu');
 const yesStyleBlock = (loc: (typeof LOCALE_KEYS)[number]) =>
   getArticleStoreBlock({ ...base, locale: loc, affiliate: 'yesstyle', coupon: yesStyleCode } as never, loc)!;
 const ptYesStyle = yesStyleBlock('pt');
@@ -233,15 +235,19 @@ for (const loc of LOCALE_KEYS) {
   assert.deepEqual(
     block.rules,
     [
-      { label: rules.eligible, value: shortenRule(page.policyRules.eligible) },
-      { label: rules.combinable, value: shortenRule(page.policyRules.combinable) },
+      { label: rules.combinable, value: shortenRule(page.intro) },
+      { label: page.rewardCodeLabel, value: shortenRule(page.rewardFieldNote) },
       { label: getArticleCopy(loc).ruleVerifiedLabel, value: page.formattedDate },
     ],
-    `${loc}: regras da YesStyle diferentes das da página`
+    `${loc}: regras da YesStyle diferentes do que a página diz do código`
   );
+  const policyTexts = Object.values(page.policyRules).flatMap((text) => [text, shortenRule(text)]);
   for (const rule of block.rules) {
-    assert.ok(!rewardAsCoupon.test(`${rule.label} ${rule.value}`), `${loc}: ${yesStyleCode} chamado de cupom: ${rule.value}`);
-    if (loc !== 'pt') assert.ok(!ptYesStyleTexts.has(rule.label) && !ptYesStyleTexts.has(rule.value), `${loc}: regra em português: ${rule.label}`);
+    assert.ok(!policyTexts.includes(rule.value), `${loc}: regra dos cupons da loja no bloco do código: ${rule.value}`);
+    assert.ok(!rewardAsCoupon.test(rule.value) && !rewardAsCoupon.test(rule.label), `${loc}: ${yesStyleCode} chamado de cupom: ${rule.value}`);
+    assert.ok(!rewardWithOtherCoupons.test(rule.value), `${loc}: ${yesStyleCode} com outros cupons: ${rule.value}`);
+    const sameWord = rule.label === page.rewardCodeLabel && LABEL_SAME_AS_PORTUGUESE.has(`${loc}:reward`);
+    if (loc !== 'pt') assert.ok((sameWord || !ptYesStyleTexts.has(rule.label)) && !ptYesStyleTexts.has(rule.value), `${loc}: regra em português: ${rule.label}`);
   }
 }
 // Os artigos da YesStyle publicados, em todo idioma, saem com as regras.

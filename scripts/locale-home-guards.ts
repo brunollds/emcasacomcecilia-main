@@ -21,6 +21,10 @@ const getHomeStoreSlugs = (): string[] => [
 export const COUPON_WORD_LIST =
   'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|할인|割引|優惠[碼券]|优惠[码券]';
 
+// "Com outros cupons" nos 10 idiomas: dito do CECILIA010, faria dele um cupom também.
+export const OTHER_COUPONS =
+  'outros? cupo|other coupon|otros? cup|autres? coupon|(?:anderen|weiteren) gutschein|altr[io] coupon|다른 쿠폰|(?:ほか|他)のクーポン|其他優惠碼|其他优惠码';
+
 // Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa" é
 // assim em espanhol e em português. Chave: idioma:tipo do código.
 export const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);

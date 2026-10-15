@@ -42,20 +42,29 @@ function hasTranslatedStorePage(slug: string, locale: CouponCopyLocale): boolean
   return isTranslatedLocale(locale) && Boolean(getLocalizedCoupon(slug, locale));
 }
 
+// O que a página da YesStyle diz do próprio código de recompensa, com a data dela. As regras da seção dos cupons
+// da loja ("só produtos da promoção", "um por pedido") não valem para o código e ficam de fora.
+function getYesStyleRules(locale: CouponCopyLocale): ArticleStoreBlock['rules'] {
+  const page = resolveYesStylePage(locale);
+  if (!page) return [];
+  // Fora do PT, a nota do campo só entra traduzida. O rótulo pode ser igual: "Código de recompensa" é assim
+  // também em espanhol (LABEL_SAME_AS_PORTUGUESE nos testes).
+  const fieldNoteTranslated = locale === 'pt' || page.rewardFieldNote !== resolveYesStylePage('pt')?.rewardFieldNote;
+  return [
+    { label: COUPON_STORE_COPY[locale].rules.combinable, value: page.intro },
+    ...(page.rewardCodeLabel && page.rewardFieldNote && fieldNoteTranslated
+      ? [{ label: page.rewardCodeLabel, value: page.rewardFieldNote }]
+      : []),
+    { label: getArticleCopy(locale).ruleVerifiedLabel, value: page.formattedDate },
+  ];
+}
+
 // As regras que a página da loja mostra, com a data dela: a YesStyle tem página própria, em todo idioma; as
 // demais, os dados da loja em PT ou a tradução dela.
 function getStoreRules(store: Coupon, source: Coupon | undefined, locale: CouponCopyLocale): ArticleStoreBlock['rules'] {
+  if (store.slug === 'yesstyle') return getYesStyleRules(locale);
   const copy = COUPON_STORE_COPY[locale];
   const articleCopy = getArticleCopy(locale);
-  if (store.slug === 'yesstyle') {
-    const page = resolveYesStylePage(locale);
-    if (!page) return [];
-    return [
-      { label: copy.rules.eligible, value: page.policyRules.eligible },
-      { label: copy.rules.combinable, value: page.policyRules.combinable },
-      { label: articleCopy.ruleVerifiedLabel, value: page.formattedDate },
-    ];
-  }
   if (!source) return [];
   const date = new Date(`${source.lastVerified}T12:00:00`).toLocaleDateString(copy.dateLocale, {
     day: 'numeric',
