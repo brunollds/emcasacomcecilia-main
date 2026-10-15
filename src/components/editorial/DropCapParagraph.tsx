@@ -1,11 +1,12 @@
 'use client';
 
-import { AnimatedTextHighlight } from './AnimatedTextHighlight';
+import type { ReactNode } from 'react';
 
 export interface DropCapParagraphProps {
   text: string;
   className?: string;
-  highlightTerms?: string[];
+  // Monta o texto depois da capitular (ex.: com os códigos destacados); sem ele, o texto puro.
+  renderText?: (text: string) => ReactNode;
   // 'd2' (artigos): o texto e a capitular em marinho.
   variant?: 'editorial' | 'd2';
 }
@@ -13,7 +14,7 @@ export interface DropCapParagraphProps {
 export function DropCapParagraph({
   text,
   className = '',
-  highlightTerms,
+  renderText,
   variant = 'editorial',
 }: DropCapParagraphProps): React.ReactElement {
   const trimmed = text.trim();
@@ -32,11 +33,7 @@ export function DropCapParagraph({
       >
         {firstLetter}
       </span>
-      {highlightTerms && highlightTerms.length > 0 ? (
-        <AnimatedTextHighlight text={rest} terms={highlightTerms} variant={variant} />
-      ) : (
-        rest
-      )}
+      {renderText ? renderText(rest) : rest}
     </p>
   );
 }

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { Fragment, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { splitInlineMarkdown } from '@/lib/inlineMarkdown';
 
 const DEFAULT_TERMS = ['CECILIA12'];
@@ -71,6 +71,8 @@ export interface AnimatedTextHighlightProps {
   terms?: string[];
   className?: string;
   variant?: keyof typeof INLINE_STYLES;
+  // Envolve o termo destacado (ex.: num botão de copiar). Não vale dentro de link, onde não cabe outro controle.
+  renderTerm?: (term: string, highlighted: ReactNode) => ReactNode;
 }
 
 function HighlightedText({
@@ -78,11 +80,13 @@ function HighlightedText({
   activeTerms,
   className,
   keyPrefix,
+  renderTerm,
 }: {
   text: string;
   activeTerms: string[];
   className: string;
   keyPrefix: string;
+  renderTerm?: AnimatedTextHighlightProps['renderTerm'];
 }): React.ReactElement {
   if (activeTerms.length === 0) return <>{text}</>;
   // Só a palavra inteira: CECI não deve acender dentro de EMCASACOMCECILIA.
@@ -91,19 +95,15 @@ function HighlightedText({
     'gu'
   );
   const parts = text.split(pattern).filter((part) => part.length > 0);
-  if (parts.length === 1) return <>{text}</>;
+  // Um termo sozinho (o negrito **CECILIA10**) também acende.
+  if (parts.length === 1 && !activeTerms.includes(parts[0])) return <>{text}</>;
 
   return (
     <>
       {parts.map((part, index) => {
-        const isHighlight = activeTerms.includes(part);
-        return isHighlight ? (
-          <AnimatedHighlight key={`${keyPrefix}-${index}`} className={className}>
-            {part}
-          </AnimatedHighlight>
-        ) : (
-          <span key={`${keyPrefix}-${index}`}>{part}</span>
-        );
+        if (!activeTerms.includes(part)) return <span key={`${keyPrefix}-${index}`}>{part}</span>;
+        const highlighted = <AnimatedHighlight className={className}>{part}</AnimatedHighlight>;
+        return <Fragment key={`${keyPrefix}-${index}`}>{renderTerm ? renderTerm(part, highlighted) : highlighted}</Fragment>;
       })}
     </>
   );
@@ -114,6 +114,7 @@ export function AnimatedTextHighlight({
   terms = DEFAULT_TERMS,
   className = '',
   variant = 'editorial',
+  renderTerm,
 }: AnimatedTextHighlightProps): React.ReactElement {
   const styles = INLINE_STYLES[variant];
   const activeTerms = useMemo(
@@ -152,6 +153,7 @@ export function AnimatedTextHighlight({
                 activeTerms={activeTerms}
                 className={className}
                 keyPrefix={`bold-text-${index}`}
+                renderTerm={renderTerm}
               />
             </strong>
           );
@@ -163,6 +165,7 @@ export function AnimatedTextHighlight({
             activeTerms={activeTerms}
             className={className}
             keyPrefix={`seg-${index}`}
+            renderTerm={renderTerm}
           />
         );
       })}

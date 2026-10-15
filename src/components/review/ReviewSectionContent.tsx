@@ -4,7 +4,7 @@ import React from 'react';
 import { ArrowUpRight } from 'lucide-react';
 import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
-import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
+import { HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
 import { FOCUS_RING } from '@/components/ui/focusRing';
@@ -177,7 +177,7 @@ export function ReviewSectionContent({
                 delay={0}
                 distance={14}
               >
-                <DropCapParagraph text={paragraph} highlightTerms={COUPON_HIGHLIGHT_TERMS} variant="d2" />
+                <DropCapParagraph text={paragraph} renderText={(rest) => <HighlightCoupon text={rest} />} variant="d2" />
               </EditorialReveal>
               {shouldRenderEmphasisAfter && section.emphasis && renderEmphasisBlock(false)}
             </React.Fragment>
@@ -369,7 +369,7 @@ export function ReviewSectionContent({
             >
               <details className="group border-b-2 border-marinho">
                 <summary className={ACCORDION_SUMMARY}>
-                  <span className="min-w-0"><HighlightCoupon text={faq.question} /></span>
+                  <span className="min-w-0"><HighlightCoupon text={faq.question} copyable={false} /></span>
                   <span className={ACCORDION_ICON}>+</span>
                 </summary>
                 <div className="faq-answer pb-4">
