@@ -29,7 +29,8 @@ export function PageHeader({ trail, title, intro, aside, children }: PageHeaderP
             : 'flex flex-col gap-4'
         }
       >
-        <div className="flex flex-col items-start gap-4 lg:col-start-1 lg:row-start-1 lg:self-end">
+        {/* O lg:self-end só no grid: na coluna flex da página sem aside, ele empurraria o título para a direita. */}
+        <div className={`flex flex-col items-start gap-4 ${aside ? 'lg:col-start-1 lg:row-start-1 lg:self-end' : ''}`}>
           <h1 className="font-condensada text-[44px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-7xl">
             <span className="marca-texto marca-texto-entra">{title}</span>
           </h1>

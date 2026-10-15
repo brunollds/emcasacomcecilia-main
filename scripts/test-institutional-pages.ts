@@ -253,6 +253,11 @@ for (const href of ['/privacidade', '/faqs', brandLinks.mediaKit, brandLinks.con
 assert.deepEqual(jsonLdOf(contactHtml).find((schema) => schema['@type'] === 'BreadcrumbList'), getBreadcrumbListJsonLd(CONTACT_TRAIL));
 assert.match(contactHtml, /<h1[^>]*><span class="marca-texto marca-texto-entra">Fale com a gente<\/span><\/h1>/);
 
+// Sem o cartão ao lado, o título fica à esquerda: o lg:self-end do grid empurrava o h1 para a direita.
+for (const pageHtml of [faqHtml, contactHtml]) {
+  assert.doesNotMatch(pageHtml.match(/<header[\s\S]*?<\/header>/)?.[0] ?? '', /lg:self-end/, 'cabeçalho sem aside com lg:self-end');
+}
+
 // Nada do visual antigo nas duas páginas.
 for (const [page, pageHtml] of [
   ['/faqs', faqHtml],
