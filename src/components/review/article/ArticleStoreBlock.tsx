@@ -19,9 +19,8 @@ export type ArticleStoreBlockProps = {
 
 const PATH_LINK = `inline-flex min-h-11 items-center gap-1.5 text-[15px] font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`;
 
-// "Sua compra na <loja>", no lugar do antigo bloco verde "Interessou?": o recorte grande (o do topo, medido como
-// review_end), as regras da loja, que as páginas de loja também mostram, e os caminhos para a página da loja e
-// para os artigos dela, só quando a página existe.
+// "Sua compra na <loja>": o recorte grande (o do topo, medido como review_end), as regras da loja, que as páginas
+// de loja também mostram, e os caminhos para a página da loja e para os artigos dela, só quando a página existe.
 export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel, sponsored }: ArticleStoreBlockProps) {
   const { brand, rules, couponPageHref, articlesHref, articleCount } = block;
   const allArticles = articlesHref && articleCount ? copy.allStoreArticles(articleCount, brand) : undefined;

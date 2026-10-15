@@ -4,7 +4,7 @@ import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
 import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
-import { getArticleCopy } from '../src/components/review/articleCopy';
+import { getArticleCopy, getTemplateUi } from '../src/components/review/articleCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
@@ -41,8 +41,10 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getInternationalReviewHub } from '../src/lib/review-hubs';
+import { pickRelatedReviews } from '../src/lib/relatedReviews';
 import { getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
+import { getYoutubeEmbedUrl, getYoutubeVideoId } from '../src/lib/video-metadata';
 import { videoPages } from '../src/lib/video-pages';
 import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageContent } from '../src/lib/videosHub';
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
@@ -884,13 +886,17 @@ function verdictProblems(locale: Locale, shown: string[], hasVerdict: boolean, s
   assert.notDeepEqual(verdictProblems('es', [...shownIn('es'), getArticleCopy('pt').verdictTitle], true, 4.5, 'recomendo'), []);
 }
 
-// Os cards de artigos relacionados mostram o título, a descrição e o `type` de outra review: é conteúdo
-// dela (o `type` é rótulo livre e vários JSONs de fora do PT trazem "Editorial"), não texto da interface.
-const withoutRelatedCards = (body: string) => body.replace(/<a\b[^>]*min-h-\[220px\][^>]*>[\s\S]*?<\/a>/g, '');
+// Os cards de artigos relacionados mostram o título, a data e o `type` de outra review: é conteúdo dela (o
+// `type` é rótulo livre e vários JSONs de fora do PT trazem "Editorial"), não texto da interface. A lista
+// dos cartões (data-relacionados-cartoes) sai da conferência; o título e o "Ver todos" ficam.
+const withoutRelatedCards = (body: string) => {
+  const at = body.search(/<ul\b[^>]*\sdata-relacionados-cartoes/);
+  return at < 0 ? body : body.replace(elementAt(body, at), '');
+};
 {
-  const card = (type: string) => `<a class="group relative min-h-[220px] p-4" href="/fr/reviews/x"><p>${type}</p><h3>Titre</h3></a>`;
-  assert.equal(withoutRelatedCards(`<p>Guide</p>${card('Editorial')}<p>Fin</p>`), '<p>Guide</p><p>Fin</p>', 'card relacionado fica na conferência');
-  assert.equal(withoutRelatedCards('<a class="p-4" href="/fr">Editorial</a>'), '<a class="p-4" href="/fr">Editorial</a>', 'link comum some da conferência');
+  const list = (type: string) => `<ul data-relacionados-cartoes=""><li><a href="/fr/reviews/x"><h3>Titre</h3><span>${type}</span></a></li></ul>`;
+  assert.equal(withoutRelatedCards(`<h2>Guide</h2>${list('Editorial')}<a href="/fr/reviews">Voir</a>`), '<h2>Guide</h2><a href="/fr/reviews">Voir</a>', 'card relacionado fica na conferência');
+  assert.equal(withoutRelatedCards('<ul><li>Editorial</li></ul>'), '<ul><li>Editorial</li></ul>', 'lista comum some da conferência');
 }
 
 // O recorte do topo do artigo (#cupom-artigo): o tipo do código (cupom, recompensa ou indicação) no idioma do
@@ -956,6 +962,158 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="font-bold animate-pulse-respiro">')), [], 'animação sem guarda passou');
   assert.deepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="motion-safe:animate-spin">')), [], 'animação com motion-safe barrada');
 }
+
+// O fim do artigo, nesta ordem: galeria, veredito (só produto), bloco da loja (#loja, no lugar do bloco verde
+// "Interessou?"), caixa da Cecília, relacionados e compartilhar.
+// - A galeria não repete o vídeo do topo e, com um item só, não vira carrossel; sem item, não existe.
+// - Prós e contras são duas listas, cada uma só com os itens dela, sem linha vazia de enchimento.
+// - O bloco da loja traz o título, o recorte (os mesmos textos do recorte do topo), as regras e os links de
+//   "Ver todas as regras" e "Todos os N artigos" só quando a página existe.
+// - A caixa da Cecília leva à /sobre em português e à home do idioma nos outros.
+// - Os relacionados são os de pickRelatedReviews, na ordem, e o "Ver todos" leva à subpágina da loja ou à lista
+//   de guias do idioma.
+type ArticleEndExpectation = {
+  locale: Locale;
+  storeBlock: ArticleStoreBlock | null;
+  galleryItems: number;
+  topVideoId: string | null;
+  verdict: boolean;
+  pros: number;
+  cons: number;
+  authorHref: string;
+  related: string[];
+  relatedAllHref: string;
+};
+const tagsWith = (html: string, attribute: string) =>
+  [...html.matchAll(/<[a-zA-Z][\w-]*\s[^>]*>/g)].filter(([tag]) => tag.includes(` ${attribute}`)).map((match) => ({ at: match.index, html: elementAt(html, match.index) }));
+const shownTextsOf = (html: string) => html.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
+const hrefsOf = (html: string) => [...html.matchAll(/<a\b[^>]*\shref="([^"]*)"/g)].map(([, href]) => decodeHtml(href));
+function articleEndProblems(body: string, expected: ArticleEndExpectation): string[] {
+  const problems: string[] = [];
+  const copy = getArticleCopy(expected.locale);
+  const ui = getTemplateUi(expected.locale);
+  const single = (attribute: string, name: string) => {
+    const found = tagsWith(body, attribute);
+    if (found.length > 1) problems.push(`${found.length} ${name}`);
+    return found[0];
+  };
+  const present = (found: unknown, wanted: boolean, name: string) => {
+    if (wanted && !found) problems.push(`sem ${name}`);
+    if (!wanted && found) problems.push(`${name} que não devia existir`);
+  };
+
+  const gallery = single('data-article="galeria"', 'galerias');
+  present(gallery, expected.galleryItems > 0, 'a galeria');
+  if (gallery) {
+    const cards = gallery.html.match(/\sdata-gallery-card/g)?.length ?? 0;
+    if (expected.galleryItems === 1 && cards > 0) problems.push('galeria de um item em carrossel');
+    if (expected.galleryItems > 1 && cards === 0) problems.push('galeria sem os cartões do carrossel');
+    if (expected.topVideoId && gallery.html.includes(expected.topVideoId)) problems.push('galeria repete o vídeo do topo');
+  }
+
+  const verdict = single('id="veredito"', 'vereditos');
+  present(verdict, expected.verdict, 'o veredito');
+  const prosCons = single('id="pros-e-contras"', 'blocos de prós e contras');
+  present(prosCons, expected.pros + expected.cons > 0, 'os prós e contras');
+  if (prosCons) {
+    for (const [list, count] of [['pros', expected.pros], ['contras', expected.cons]] as const) {
+      const ul = tagsWith(prosCons.html, `data-lista="${list}"`)[0];
+      const items = ul?.html.match(/<li\b/g)?.length ?? 0;
+      if (items !== count) problems.push(`${items} itens em ${list} em vez de ${count}`);
+    }
+    if (shownTextsOf(prosCons.html).includes('—')) problems.push('linha vazia nos prós e contras');
+  }
+
+  const store = single('id="loja"', 'blocos da loja');
+  present(store, Boolean(expected.storeBlock), 'o bloco da loja');
+  if (store && expected.storeBlock) {
+    const block = expected.storeBlock;
+    const texts = shownTextsOf(store.html);
+    const hrefs = hrefsOf(store.html);
+    if (!texts.includes(copy.storeBlockTitle(block.brand))) problems.push(`bloco da loja sem "${copy.storeBlockTitle(block.brand)}"`);
+    const cutout = tagsWith(store.html, 'aria-label=').find(({ html }) => html.startsWith('<section'));
+    if (!cutout) problems.push('bloco da loja sem o recorte');
+    else problems.push(...cutoutProblems(cutout.html, expected.locale, block).map((problem) => `recorte do fim: ${problem}`));
+    if (block.storeHref && !hrefs.includes(block.storeHref)) problems.push('bloco da loja sem o link da loja');
+    for (const rule of block.rules) {
+      if (!texts.includes(rule.label) || !texts.includes(rule.value)) problems.push(`bloco da loja sem a regra "${rule.label}"`);
+    }
+    if (block.couponPageHref ? !hrefs.includes(block.couponPageHref) || !texts.includes(copy.allRules) : texts.includes(copy.allRules)) {
+      problems.push('"Ver todas as regras" fora da regra');
+    }
+    const allArticles = block.articleCount ? copy.allStoreArticles(block.articleCount, block.brand) : undefined;
+    const storeArticleLinks = hrefs.filter((href) => href.startsWith('/reviews/loja/'));
+    if (block.articlesHref ? !hrefs.includes(block.articlesHref) || !allArticles || !texts.includes(allArticles) : storeArticleLinks.length > 0) {
+      problems.push('"Todos os N artigos" fora da regra');
+    }
+  }
+
+  const author = single('data-article="autora"', 'caixas da Cecília');
+  present(author, true, 'a caixa da Cecília');
+  if (author) {
+    const texts = shownTextsOf(author.html);
+    for (const text of [copy.authorBoxTitle, copy.authorBoxBody, copy.authorBoxLink]) if (!texts.includes(text)) problems.push(`caixa da Cecília sem "${text}"`);
+    if (!hrefsOf(author.html).includes(expected.authorHref)) problems.push(`caixa da Cecília sem o link ${expected.authorHref}`);
+  }
+
+  const related = single('data-article="relacionados"', 'blocos de relacionados');
+  present(related, expected.related.length > 0, 'os relacionados');
+  if (related) {
+    const list = tagsWith(related.html, 'data-relacionados-cartoes')[0];
+    const cards = list ? hrefsOf(list.html) : [];
+    if (JSON.stringify(cards) !== JSON.stringify(expected.related)) problems.push(`relacionados ${JSON.stringify(cards)} em vez de ${JSON.stringify(expected.related)}`);
+    if (list && elementsWithClass(list.html, 'revela').length !== cards.length) problems.push('relacionados sem a cascata');
+    const rest = related.html.replace(list?.html ?? '', '');
+    if (!hrefsOf(rest).includes(expected.relatedAllHref) || !shownTextsOf(rest).includes(ui.viewAll)) {
+      problems.push(`relacionados sem o "${ui.viewAll}" para ${expected.relatedAllHref}`);
+    }
+  }
+
+  const share = body.indexOf(`aria-label="${escapeHtml(getShareCopy(expected.locale).shareByEmail)}"`);
+  if (share < 0) problems.push('sem a barra de compartilhar');
+  const order = [gallery, verdict, store, author, related].flatMap((found) => (found ? [found.at] : [])).concat(share < 0 ? [] : [share]);
+  if (order.some((at, index) => index > 0 && at < order[index - 1])) problems.push('fim do artigo fora da ordem galeria, veredito, loja, Cecília, relacionados, compartilhar');
+  return problems;
+}
+// O guarda acima passa no fim certo e falha sem o bloco da loja, com relacionados fora da ordem, com o vídeo do
+// topo na galeria, com a caixa da Cecília levando à /sobre fora do PT, com linha vazia nos prós e contras e com
+// as peças fora da ordem.
+{
+  const block: ArticleStoreBlock = {
+    brand: 'Damie', slug: 'damie', code: 'CECILIA12', rules: [{ label: 'Vale para', value: 'Tudo' }],
+    storeHref: 'https://damie.example/', couponPageHref: '/cupons/damie', articlesHref: '/reviews/loja/damie', articleCount: 9,
+  };
+  const pt = getArticleCopy('pt');
+  const cutout =
+    `<section aria-label="${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}" class="recorte"><p>${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}</p><code>CECILIA12</code>` +
+    `<button data-copied="false">${getCouponCopyLabels('pt').copy}</button><a href="https://damie.example/">Ir</a><p>${pt.copiedHint('Damie')}</p></section>`;
+  const end =
+    '<section data-article="galeria"><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>' +
+    '<section id="veredito"><div id="pros-e-contras"><ul data-lista="pros"><li>a</li><li>b</li></ul><ul data-lista="contras"><li>c</li></ul></div></section>' +
+    `<section id="loja"><h2>${pt.storeBlockTitle('Damie')}</h2>${cutout}<dl><dt>Vale para</dt><dd>Tudo</dd></dl>` +
+    `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, 'Damie')}</a></section>` +
+    `<section data-article="autora"><p>${pt.authorBoxTitle}</p><p>${pt.authorBoxBody}</p><a href="/sobre">${pt.authorBoxLink}</a></section>` +
+    '<section data-article="relacionados"><ul data-relacionados-cartoes=""><li class="revela"><a href="/reviews/a">A</a></li><li class="revela"><a href="/reviews/b">B</a></li></ul>' +
+    `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
+    `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
+  const expected: ArticleEndExpectation = {
+    locale: 'pt', storeBlock: block, galleryItems: 2, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
+    authorHref: '/sobre', related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
+  };
+  assert.deepEqual(articleEndProblems(end, expected), []);
+  assert.notDeepEqual(articleEndProblems(end.replace(tagsWith(end, 'id="loja"')[0].html, ''), expected), [], 'fim sem o bloco da loja passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, storeBlock: null }), [], 'bloco da loja em artigo sem loja passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, related: ['/reviews/b', '/reviews/a'] }), [], 'relacionados fora da ordem passaram');
+  assert.notDeepEqual(articleEndProblems(end.replace('<button data-gallery-card="">2</button>', '<a href="https://youtu.be/abcdefghijk">v</a>'), { ...expected, galleryItems: 1 }), [], 'vídeo do topo na galeria passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, galleryItems: 1 }), [], 'galeria de um item em carrossel passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, authorHref: '/en' }), [], 'caixa da Cecília com o link errado passou');
+  assert.notDeepEqual(articleEndProblems(end.replace('<li>c</li>', '<li>c</li><li>—</li>'), expected), [], 'linha vazia nos prós e contras passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(pt.allRules, 'x'), expected), [], 'bloco da loja sem "Ver todas as regras" passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, storeBlock: { ...block, articlesHref: undefined, articleCount: undefined } }), [], '"Todos os N artigos" sem a subpágina passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(/ class="revela"/g, ''), expected), [], 'relacionados sem a cascata passaram');
+  const verdictFirst = end.replace(/(<section data-article="galeria">[\s\S]*?<\/section>)(<section id="veredito">[\s\S]*?<\/section>)/, '$2$1');
+  assert.notDeepEqual(articleEndProblems(verdictFirst, expected), [], 'veredito antes da galeria passou');
+}
 // O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
 assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');
 assert.match(css, /\.editorial-ambient-bg-review:{1,2}before\{[^}]*content:none/, 'CSS: o fundo dos artigos ainda tem a camada de manchas');
@@ -969,6 +1127,14 @@ let familyHeads = 0;
 let notedArticles = 0;
 let faqArticles = 0;
 let cutoutArticles = 0;
+let endStoreBlocks = 0;
+let endWithoutStore = 0;
+let endStoreArticleLinks = 0;
+let endStoreRules = 0;
+let endGalleries = 0;
+let endTopVideos = 0;
+let endProsCons = 0;
+let endFullRelated = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -1076,6 +1242,40 @@ for (const url of articleUrls) {
     assert.deepEqual(cutoutProblems(sectionIn(body, 'cupom-artigo') ?? '', locale, storeBlock), [], `${pagePath}: recorte do topo`);
     cutoutArticles++;
   }
+  // O fim do artigo, contra os dados que o montam. O bloco verde "Interessou?" e os botões de loja do veredito
+  // em texto saíram: nem o texto nem as medições deles ficam na página (o payload do React leva o placement).
+  assert.ok(!/review_final_cta|review_verdict/.test(html), `${pagePath}: medição do bloco verde ou do veredito em texto`);
+  assert.ok(!shownTextsOf(body).includes('Interessou?'), `${pagePath}: bloco verde "Interessou?"`);
+  const endKind = inferReviewKind(review);
+  const pros = endKind === 'produto' ? review.pros?.length ?? 0 : 0;
+  const cons = endKind === 'produto' ? review.cons?.length ?? 0 : 0;
+  const topVideoId = getYoutubeEmbedUrl(review.youtubeUrl) ? getYoutubeVideoId(review.youtubeUrl) : null;
+  const galleryItems = (review.gallery ?? []).filter((item) => item.image || (item as { url?: string }).url).length + (review.youtubeUrl && !topVideoId ? 1 : 0);
+  const related = pickRelatedReviews(review, publishedReviews).map(getReviewCanonicalPathname);
+  assert.deepEqual(
+    articleEndProblems(body, {
+      locale,
+      storeBlock,
+      galleryItems,
+      topVideoId,
+      verdict: endKind === 'produto' && (Boolean(review.verdict?.stars) || typeof review.rating === 'number' || pros + cons > 0),
+      pros,
+      cons,
+      authorHref: locale === 'pt' ? '/sobre' : getShellHomeHref(locale),
+      related,
+      relatedAllHref: storeBlock?.articlesHref ?? reviewHub.href,
+    }),
+    [],
+    `${pagePath}: fim do artigo`
+  );
+  if (storeBlock) endStoreBlocks++;
+  else endWithoutStore++;
+  if (storeBlock?.articlesHref) endStoreArticleLinks++;
+  if (storeBlock?.rules.length) endStoreRules++;
+  if (galleryItems) endGalleries++;
+  if (topVideoId) endTopVideos++;
+  if (pros + cons) endProsCons++;
+  if (related.length === 6) endFullRelated++;
   // O id de cada seção sai do título (generateSectionIds, indexado pelo título): dois títulos iguais dão
   // o mesmo id às duas seções, e o sumário e a nota ancorada nelas se confundem.
   const headings = (review.contentSections ?? []).map((section) => section.heading).filter(Boolean);
@@ -1173,6 +1373,24 @@ for (const url of articleUrls) {
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
+// Cada ramo do fim do artigo conferido em algum artigo: com e sem loja, com a subpágina da loja e com regras,
+// com galeria, com o vídeo do topo e com prós e contras. Todo idioma tem mais de 6 artigos: todos levam 6.
+assert.equal(endStoreBlocks, cutoutArticles, 'bloco da loja e recorte do topo em artigos diferentes');
+for (const [count, name] of [
+  [endWithoutStore, 'sem loja'],
+  [endStoreArticleLinks, 'com "Todos os N artigos"'],
+  [endStoreRules, 'com as regras da loja'],
+  [endGalleries, 'com galeria'],
+  [endTopVideos, 'com o vídeo do topo'],
+  [endProsCons, 'com prós e contras'],
+] as const) {
+  assert.ok(count > 0, `nenhum artigo ${name} no fim do artigo`);
+}
+assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
+console.log(
+  `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
+    `${endWithoutStore} sem loja, ${endGalleries} com galeria, ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados`
+);
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
 const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
@@ -1375,15 +1593,18 @@ for (const file of builtPages(APP_DIR)) {
   );
 
   // O nome do card que mostra o código (gaveta do dock, /cupons e "Outros cupons") fica longe dele,
-  // fora do alcance das regras acima. O recorte do topo dos artigos é uma <section> com nome próprio, dentro
-  // do <article> da página, que não tem nome: ele conta por si e sai do <article>.
-  const cutout = sectionIn(body, 'cupom-artigo');
-  if (cutout?.includes(`>${rewardCode}</code>`)) {
+  // fora do alcance das regras acima. Os recortes dos artigos (o do topo e o do bloco da loja no fim) são
+  // <section> com nome próprio, dentro do <article> da página, que não tem nome: cada um conta por si e sai do
+  // <article>.
+  const cutouts = tagsWith(body, 'aria-label=')
+    .map(({ html }) => html)
+    .filter((cutout) => cutout.startsWith('<section') && classesOf(cutout).includes('recorte') && cutout.includes(`>${rewardCode}</code>`));
+  for (const cutout of cutouts) {
     const name = cutout.match(/aria-label="([^"]*)"/)?.[1];
     assert.ok(name, `${pagePath}: recorte do ${rewardCode} sem nome`);
     assert.doesNotMatch(decodeHtml(name), COUPON_WORD, `${pagePath}: recorte do ${rewardCode} com nome de cupom`);
   }
-  for (const { attributes, inner } of innermostArticles(cutout ? body.replace(cutout, '') : body)) {
+  for (const { attributes, inner } of innermostArticles(cutouts.reduce((rest, cutout) => rest.replace(cutout, ''), body))) {
     if (!inner.includes(`>${rewardCode}</code>`)) continue;
     const labelledBy = attributes.match(/aria-labelledby="([^"]+)"/)?.[1];
     const name =

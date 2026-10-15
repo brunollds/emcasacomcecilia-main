@@ -522,7 +522,6 @@ export type TemplateUi = {
   publishedAt: string;
   updatedAt: string;
   readTime: (mins: number) => string;
-  interested: string;
   relatedArticles: string;
   verdictToc: string;
   viewAll: string;
@@ -533,7 +532,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Publicado em',
     updatedAt: 'Atualizado em',
     readTime: (m) => `${m} min de leitura`,
-    interested: 'Interessou?',
     relatedArticles: 'Artigos relacionados',
     verdictToc: 'Veredito final',
     viewAll: 'Ver todos',
@@ -542,7 +540,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Published on',
     updatedAt: 'Updated on',
     readTime: (m) => `${m} min read`,
-    interested: 'Interested?',
     relatedArticles: 'Related articles',
     verdictToc: 'Final verdict',
     viewAll: 'View all',
@@ -551,7 +548,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Publicado el',
     updatedAt: 'Actualizado el',
     readTime: (m) => `${m} min de lectura`,
-    interested: '¿Te interesa?',
     relatedArticles: 'Artículos relacionados',
     verdictToc: 'Veredicto final',
     viewAll: 'Ver todos',
@@ -560,7 +556,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Publié le',
     updatedAt: 'Mis à jour le',
     readTime: (m) => `${m} min de lecture`,
-    interested: 'Intéressé ?',
     relatedArticles: 'Articles connexes',
     verdictToc: 'Verdict final',
     viewAll: 'Voir tout',
@@ -569,7 +564,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Veröffentlicht am',
     updatedAt: 'Aktualisiert am',
     readTime: (m) => `${m} Min. Lesezeit`,
-    interested: 'Interessiert?',
     relatedArticles: 'Verwandte Artikel',
     verdictToc: 'Endergebnis',
     viewAll: 'Alle ansehen',
@@ -578,7 +572,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: 'Pubblicato il',
     updatedAt: 'Aggiornato il',
     readTime: (m) => `${m} min di lettura`,
-    interested: 'Ti interessa?',
     relatedArticles: 'Articoli correlati',
     verdictToc: 'Verdetto finale',
     viewAll: 'Vedi tutto',
@@ -587,7 +580,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: '발행일',
     updatedAt: '수정일',
     readTime: (m) => `읽는 시간 ${m}분`,
-    interested: '관심이 있으신가요?',
     relatedArticles: '관련 문서',
     verdictToc: '최종 평가',
     viewAll: '전체 보기',
@@ -596,7 +588,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: '公開日',
     updatedAt: '更新日',
     readTime: (m) => `読了時間 約${m}分`,
-    interested: '気になりましたか？',
     relatedArticles: '関連記事',
     verdictToc: '最終評価',
     viewAll: 'すべて見る',
@@ -605,7 +596,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: '發布於',
     updatedAt: '更新於',
     readTime: (m) => `閱讀時間約 ${m} 分鐘`,
-    interested: '感興趣嗎？',
     relatedArticles: '相關文章',
     verdictToc: '最終評價',
     viewAll: '查看全部',
@@ -614,7 +604,6 @@ const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
     publishedAt: '发布于',
     updatedAt: '更新于',
     readTime: (m) => `阅读时间约 ${m} 分钟`,
-    interested: '感兴趣吗？',
     relatedArticles: '相关文章',
     verdictToc: '最终评价',
     viewAll: '查看全部',
