@@ -6,12 +6,12 @@ parceiro: "[[Lejour]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "esperar a Lejour publicar a campanha de novembro de 2026 (ou o Bruno confirmar com o contato da parceria); só então redigir"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 nota_publicacao: null
-bloqueado_por: "campanha de 2026 ainda não anunciada (em 14/10/2026 a home não tem banner de promoção)"
+bloqueado_por: null
 score_autoridade: 40
 score_conversao: 55
 score_ponderado_total: 49
@@ -170,3 +170,10 @@ faixa ou o regulamento sair.
 - Claude (curl): API de disponibilidade e CDX do web.archive.org; snapshots de lejour.com.br de
   03/11/2024, 04/12/2024, 21/05/2025, 10/09/2025, 12/10/2025, 02/11/2025, 16/11/2025 e 16/12/2025, e a
   home atual. As faixas citadas acima saem desses snapshots.
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- Pauta segue com uma visão básica: planos e taxas de hoje, o Black Month de 2025 como histórico e a conta de quanto a taxa pesa. A Lejour ainda vai confirmar se terá promoção em 2026; quando confirmar, a resposta rápida e a tabela mudam.
+- Nunca chamar a indicação de cupom nem prometer desconto pelo link.
+- Capa: print da home ou da tabela de planos.

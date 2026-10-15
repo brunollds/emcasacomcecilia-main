@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisão do Bruno: seguir agora, adiar para depois de 27/10 ou descartar; reconsultar a loja na última semana de outubro"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 40
@@ -155,3 +155,10 @@ Esqueleto só vale se o Bruno decidir seguir. Sem campanha pública, a ordem é 
 
 Decidido no briefing, sem pergunta: o "Sou PRO" e o card "DESCONTO PRO" (cashback de outro fornecedor)
 ficam fora do texto.
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- Prints: o banner "Esquenta November" fica fora até ser visto; o CTA é o nosso link com UTM (`offerUrl` de `couponsData.ts`), exatamente como está.
+- O PRO10EMCASACOMCECILIA soma com o preço promocional (Bruno: "Sim").
+- Pauta segue, como guia de cupom, Pix e frete; a campanha entra quando sair.

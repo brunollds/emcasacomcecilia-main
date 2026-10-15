@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "Bruno mandar os prints da seção de promoções e da Black Friday do site, e decidir se a pauta segue"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 55
@@ -193,3 +193,10 @@ Já resolvido, sem pergunta: os prints do teste do cupom são os do artigo de co
   tinha "Pague com PIX e ganhe 5% OFF" (e, noutro bloco, 3%); nenhum texto de Black Friday nas
   capturas de 24/11/2024 e 10/11/2025 (os banners são imagens).
 - Matéria ABCCOM de 18/02/2025 lida direto (fala do diretor de marketing). Busca de 2025: nada oficial.
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- Pix com 5% de desconto (Bruno, 14/10/2026).
+- Pauta segue como guia de cupom, Pix, frete e o que comprar; a campanha entra quando sair.
+- Capa: foto oficial do pote ou print da home.

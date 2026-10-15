@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação) com o OK do Bruno; capa e reconsulta da home em 01–03/11"
+proxima_acao: "Job 2 (redação)"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80
@@ -185,3 +185,8 @@ atualizar quando a campanha de 2026 sair (provável em 01–02/11).
 
 Já resolvido, sem pergunta: o cupom soma com o desconto de até 5% do Pix e do boleto (Bruno,
 14/10/2026), e os prints do Reclame Aqui já estão no artigo de reputação, no ar.
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- Pauta segue. Capa: print da home ou de produto até o Max November de 2026; depois, o banner da campanha.

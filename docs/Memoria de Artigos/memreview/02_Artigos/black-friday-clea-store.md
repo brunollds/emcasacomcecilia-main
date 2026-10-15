@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisão do Bruno: seguir com prioridade baixa ou adiar até a campanha de 2026"
+proxima_acao: "Job 2 (redação)"
 bloqueado_por: null
 score_autoridade: 40
 score_conversao: 55
@@ -173,3 +173,9 @@ se a campanha sair antes, atualizar a resposta rápida e a seção 2.
 2. **Regra dos termos:** os termos dizem que o voucher não vale em "produtos já remarcados, salvo
    exceção", mas no seu teste de 14/10 o cupom valeu no kit promocional. O texto diz "no nosso teste de
    14/10" e reconfere em novembro. Está bom assim, ou prefere perguntar à loja?
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- Pauta segue. O texto diz "no nosso teste de 14/10" para o cupom no kit em promoção e reconfere no checkout em novembro.
+- Capa: print da home ou da categoria, sem a campanha de aniversário.

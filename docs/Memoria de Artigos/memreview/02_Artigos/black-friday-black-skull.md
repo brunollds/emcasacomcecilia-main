@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "Bruno responder as perguntas da seção final; depois redigir o artigo, com preços reconsultados na última semana de outubro"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 60
@@ -196,3 +196,10 @@ Decidido no briefing, sem pergunta:
 - PRIMEIRA10 e APP15 (códigos da própria loja) ficam fora, como em todo o cluster.
 - "Até 50% off" de 2026 só como texto da loja, atribuído e sem apontar produto.
 - Os preços de 14/10 entram como "preço de hoje", não como preço de Black Friday.
+
+---
+
+## Decisões do Bruno (14/10/2026)
+- A página `/black-friday` existe só pelo endereço direto: não está no menu nem na home (o Bruno não a achou navegando). O texto dela ("Black Friday BLACKSKULL USA 2026", "durante todo o mês", "até 50% off") entra só como texto da loja, sem dizer que a campanha começou.
+- O texto mantém "soma com as promoções vigentes"; o teste num item da campanha fica para novembro.
+- Capa: print da home ou foto oficial de produto.
