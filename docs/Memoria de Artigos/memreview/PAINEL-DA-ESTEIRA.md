@@ -36,12 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[max-titanium-e-confiavel]] — Max Titanium / Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
-- [ ] [[max-titanium-reclame-aqui-nota-reputacao]] — Max Titanium / Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram (Score Aut: 74 / Conv: 66; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
-- [ ] [[cupom-max-titanium-como-usar]] — Max Titanium / Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10% (Score Aut: 70 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
-- [ ] [[clea-store-e-confiavel]] — Cléa Store / Cléa Store é confiável? Quem vende, site oficial, trocas e reputação (Score Aut: 74 / Conv: 72; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
-- [ ] [[clea-store-reclame-aqui-nota-reputacao]] — Cléa Store / Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram (Score Aut: 72 / Conv: 64; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
-- [ ] [[cupom-clea-store-como-usar]] — Cléa Store / Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10% (Score Aut: 68 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -96,6 +91,12 @@
 - [x] [[nutren-just-protein-para-que-serve]] — Nestlé Nutre (No ar) 🚀
 - [x] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (No ar em 14/10/2026, PR #100 e revisão no PR #102, release `2ab132e`; Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026) 🚀
 - [x] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (No ar em 14/10/2026, PR #100 e revisão no PR #102, release `2ab132e`; Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026) 🚀
+- [x] [[max-titanium-e-confiavel]] — Max Titanium / Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 76 / Conv: 74; onboarding) 🚀
+- [x] [[max-titanium-reclame-aqui-nota-reputacao]] — Max Titanium / Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 74 / Conv: 66; onboarding) 🚀
+- [x] [[cupom-max-titanium-como-usar]] — Max Titanium / Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10% (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 70 / Conv: 88; onboarding) 🚀
+- [x] [[clea-store-e-confiavel]] — Cléa Store / Cléa Store é confiável? Quem vende, site oficial, trocas e reputação (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 74 / Conv: 72; onboarding) 🚀
+- [x] [[clea-store-reclame-aqui-nota-reputacao]] — Cléa Store / Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 72 / Conv: 64; onboarding) 🚀
+- [x] [[cupom-clea-store-como-usar]] — Cléa Store / Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10% (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 68 / Conv: 88; onboarding) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
