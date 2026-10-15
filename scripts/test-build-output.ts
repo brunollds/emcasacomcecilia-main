@@ -45,6 +45,7 @@ import { videoPages } from '../src/lib/video-pages';
 import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageContent } from '../src/lib/videosHub';
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
+import { getConsentCopy } from '../src/components/consent/consentCopy';
 import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -1122,13 +1123,15 @@ const homeAlternates = Object.entries(getHomeLanguageLinks()).map(([hreflang, hr
   );
 }
 
-// Os textos fixos do menu, do rodapé e do seletor de um idioma. Ficam de fora o campo `locale`, que não é
-// texto de tela, e o modelo do aria-label das redes (com `{social}`), que o rodapé monta uma vez por rede.
+// Os textos fixos do menu, do rodapé (com o link das preferências de cookies) e do seletor de um idioma.
+// Ficam de fora o campo `locale`, que não é texto de tela, e o modelo do aria-label das redes (com
+// `{social}`), que o rodapé monta uma vez por rede.
 const shellTexts = (locale: Locale) => {
   const copy = getShellCopy(locale);
   return [
     ...fixedTexts({ ...copy, locale: undefined }).filter((text) => !text.includes('{')),
     ...socialMedias.map((social) => copy.followAria.replace('{social}', social.name)),
+    getConsentCopy(locale).preferences,
   ];
 };
 // A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
@@ -1160,6 +1163,8 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const body = bodyOf(html);
   assert.equal((body.match(/<h1\b/g) ?? []).length, 1, `${pagePath}: H1`);
   assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+  // O aviso de cookies só monta no navegador.
+  assert.ok(!body.includes(`aria-label="${getConsentCopy(locale).regionLabel}"`), `${pagePath}: aviso de cookies no HTML`);
 
   const schemas = jsonLdOf(main);
   assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
