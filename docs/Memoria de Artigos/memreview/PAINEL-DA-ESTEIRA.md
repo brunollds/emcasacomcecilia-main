@@ -36,7 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[clea-store-aniversario-14-anos-t-shirt-brinde]] — Cléa Store / Aniversário de 14 anos: T-Shirt de brinde até 18/10 com o cupom (Score Aut: 45 / Conv: 80; JSON e imagens prontos, build verde em 15/10/2026; deploy até 17/10)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -103,6 +103,7 @@
 - [x] [[black-friday-probiotica]] — Probiótica / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 62) 🚀
 - [x] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
 - [x] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
+- [x] [[clea-store-aniversario-14-anos-t-shirt-brinde]] — Cléa Store / Aniversário de 14 anos: T-Shirt de brinde até 18/10 com o cupom (No ar em 15/10/2026, PR #116, release `2480c36`; Score Aut: 45 / Conv: 80; virar promoção encerrada depois de 18/10) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
