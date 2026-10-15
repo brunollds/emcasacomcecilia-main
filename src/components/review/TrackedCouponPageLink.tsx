@@ -7,8 +7,7 @@ import { getCouponBrandFromHref, getInternalHref } from '@/lib/internalLinks';
 
 export type CouponPageLinkPlacement =
   | 'review_inline'
-  | 'review_verdict'
-  | 'review_final_cta'
+  | 'review_end'
   | 'review_sidebar'
   | 'review_mobile_drawer'
   | 'reviews_store_page'

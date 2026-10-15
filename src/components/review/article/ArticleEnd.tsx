@@ -1,17 +1,19 @@
 import Link from 'next/link';
 import { ArrowRight, PlayCircle } from 'lucide-react';
-import { CouponStoreLink } from '@/components/CouponComponents';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/components/editorial';
-import type { Review, ReviewViewModel } from '@/lib/content';
-import type { ShelfCardArticle } from '@/lib/reviewsShelf';
-import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import type { ArticleStoreBlock as StoreBlock } from '@/lib/articleStore';
+import type { Review, ReviewViewModel } from '@/lib/content';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
+import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
-import { ArticleRelated } from './ArticleRelated';
 import type { ArticleCopy, TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
+import { ArticleAuthorBox } from './ArticleAuthorBox';
+import { ArticleRelated } from './ArticleRelated';
+import { ArticleStoreBlock } from './ArticleStoreBlock';
 
 export interface ArticleEndProps {
   review: Review;
@@ -22,17 +24,20 @@ export interface ArticleEndProps {
   youtubeEmbedUrl: string | null;
   videoPageUrl: string | null;
   showVerdict: boolean;
-  hasCta: boolean;
-  effectiveCta: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  // O bloco da loja, com o mesmo link e a mesma marcação de patrocínio do recorte do topo; null sem loja ativa.
+  storeBlock: StoreBlock | null;
+  storeLabel: string;
+  sponsored: boolean;
   reviewImage: string;
   relatedArticles: ShelfCardArticle[];
   relatedAllHref: string;
 }
 
-// Do vídeo ao compartilhar: o fim da coluna do texto, antes da sidebar. A galeria vem antes do veredito.
+// O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, relacionados e
+// compartilhar.
 export function ArticleEnd({
-  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, hasCta, effectiveCta, reviewImage,
-  relatedArticles, relatedAllHref,
+  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, storeLabel, sponsored,
+  reviewImage, relatedArticles, relatedAllHref,
 }: ArticleEndProps): React.ReactElement {
   // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
   const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
@@ -78,39 +83,6 @@ export function ArticleEnd({
         locale={couponCopyLocale}
       />
 
-      {/* CTA final */}
-      {hasCta && (
-        <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8 print:hidden">
-          <div
-            className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-[#ff6b35]/15"
-            aria-hidden="true"
-          />
-          <div className="relative flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
-            <div>
-              <p className="mb-1 text-[11px] font-bold uppercase tracking-[0.16em] text-[#ff6b35]">
-                {ui.interested}
-              </p>
-              <p className="max-w-2xl font-editorial text-lg italic leading-relaxed">
-                {effectiveCta?.text}
-              </p>
-            </div>
-            <CouponStoreLink
-              href={effectiveCta?.url}
-              couponCode={review.coupon}
-              brand={review.affiliate}
-              contentSlug={review.slug}
-              linkLabel={effectiveCta?.label}
-              sponsored={effectiveCta?.sponsored}
-              placement="review_final_cta"
-              className="inline-flex flex-shrink-0 items-center rounded-full bg-[#ff6b35] px-6 py-3 text-sm font-bold text-white shadow-md transition-all duration-200 hover:-translate-y-1 hover:bg-[#e55a26] hover:shadow-lg"
-            >
-              {effectiveCta?.label}
-              <ArrowRight size={16} className="ml-2" />
-            </CouponStoreLink>
-          </div>
-        </EditorialReveal>
-      )}
-
       {/* Veredito no final do corpo */}
       {showVerdict && (
         <section id="veredito" className="mb-10 scroll-mt-24 text-marinho">
@@ -125,6 +97,19 @@ export function ArticleEnd({
           <ReviewVerdictCard review={review} kind={kind} />
         </section>
       )}
+
+      {storeBlock && (
+        <ArticleStoreBlock
+          block={storeBlock}
+          locale={couponCopyLocale}
+          copy={copy}
+          reviewSlug={review.slug}
+          storeLabel={storeLabel}
+          sponsored={sponsored}
+        />
+      )}
+
+      <ArticleAuthorBox copy={copy} locale={couponCopyLocale} />
 
       <ArticleRelated
         articles={relatedArticles}

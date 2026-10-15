@@ -1,5 +1,3 @@
-import { ArrowRight } from 'lucide-react';
-import { CouponStoreLink } from '@/components/CouponComponents';
 import { SectionLinkButton, SectionHeadingReveal, EditorialReveal, EditorialAmbientBackground } from '@/components/editorial';
 import { asSentence, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
@@ -115,6 +113,8 @@ export function ReviewNotebookTemplate({
         }
       : null;
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
+  // O link da loja do recorte do topo e do bloco da loja leva a mesma marcação de patrocínio.
+  const sponsored = effectiveCta?.sponsored ?? hasCommercialRelationship;
   const isPortraitHero = review.imageAspect === 'portrait';
 
   // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
@@ -190,7 +190,7 @@ export function ReviewNotebookTemplate({
             youtubeEmbedUrl={youtubeEmbedUrl}
             storeBlock={storeBlock}
             storeLabel={storeLabel}
-            sponsored={effectiveCta?.sponsored ?? hasCommercialRelationship}
+            sponsored={sponsored}
           />
 
           {/* Layout principal + sidebar */}
@@ -312,26 +312,6 @@ export function ReviewNotebookTemplate({
                         {paragraph}
                       </p>
                     ))}
-                    {verdictSection.links && verdictSection.links.length > 0 && (
-                      <div className="mt-8 flex flex-wrap gap-4">
-                        {verdictSection.links.map((link) => (
-                          <CouponStoreLink
-                            key={link.href}
-                            href={link.href}
-                            couponCode={review.coupon}
-                            brand={review.affiliate}
-                            contentSlug={review.slug}
-                            linkLabel={link.label}
-                            sponsored={link.sponsored ?? hasCommercialRelationship}
-                            placement="review_verdict"
-                            className={`inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho bg-white px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors hover:bg-amarelo-cupom ${FOCUS_RING}`}
-                          >
-                            {link.label}
-                            <ArrowRight size={16} />
-                          </CouponStoreLink>
-                        ))}
-                      </div>
-                    )}
                   </section>
                 )}
               </div>
@@ -345,8 +325,9 @@ export function ReviewNotebookTemplate({
                 youtubeEmbedUrl={youtubeEmbedUrl}
                 videoPageUrl={videoPageUrl}
                 showVerdict={shouldRenderVerdict}
-                hasCta={hasCta}
-                effectiveCta={effectiveCta}
+                storeBlock={storeBlock}
+                storeLabel={storeLabel}
+                sponsored={sponsored}
                 reviewImage={reviewImage}
                 relatedArticles={relatedReviews}
                 relatedAllHref={relatedAllHref}
