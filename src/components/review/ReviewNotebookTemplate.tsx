@@ -4,6 +4,7 @@ import { SectionLinkButton, SectionHeadingReveal, EditorialReveal, EditorialAmbi
 import { asSentence, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
@@ -155,7 +156,7 @@ export function ReviewNotebookTemplate({
       <div className="hidden lg:block">
         <ReadingProgressBar />
       </div>
-      <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
+      <EditorialAmbientBackground variant="review" className="min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(breadcrumbJsonLd) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }} />
         {faqJsonLd && (
@@ -193,52 +194,97 @@ export function ReviewNotebookTemplate({
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
             <div className="min-w-0 lg:col-span-8">
-              {/* Ficha do produto em tabela */}
-              {kind === 'produto' && hasProductSpec && (
-                <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
-                  <div className="flex items-start gap-2">
-                    <details className="group flex-1 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
-                      <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                        <span>{copy.productSheet}</span>
-                        <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
-                          {copy.productSheetOpen}
-                        </span>
-                        <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
-                          {copy.productSheetClose}
-                        </span>
-                      </summary>
-                      <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
-                        <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
-                          <table className="w-full text-sm">
-                            <caption className="sr-only">{copy.productSheetCaption}</caption>
-                            <tbody>
-                              {review.productSpec.map((spec, index) => (
-                                <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
-                                  <th scope="row" className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
-                                    {spec.key}
-                                  </th>
-                                  <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
-                                    {spec.value}
-                                  </td>
-                                </tr>
-                              ))}
-                            </tbody>
-                          </table>
-                        </div>
+              {/* O corpo: ficha, seções e veredito em texto. O test:build-output confere o visual dele por este atributo. */}
+              <div data-article="corpo">
+                {/* Ficha do produto em tabela */}
+                {kind === 'produto' && hasProductSpec && (
+                  <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
+                    <div className="flex items-start gap-2">
+                      <details className="group flex-1 overflow-hidden rounded-2xl border-2 border-marinho bg-white" open>
+                        <summary className={`flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-creme md:px-6 [&::-webkit-details-marker]:hidden ${FOCUS_RING}`}>
+                          <span className="font-condensada text-[28px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-[32px]">
+                            {copy.productSheet}
+                          </span>
+                          <span className="text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:hidden">
+                            {copy.productSheetOpen}
+                          </span>
+                          <span className="hidden text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:inline">
+                            {copy.productSheetClose}
+                          </span>
+                        </summary>
+                        <table className="w-full border-t-2 border-marinho text-sm">
+                          <caption className="sr-only">{copy.productSheetCaption}</caption>
+                          <tbody className="divide-y divide-marinho/15">
+                            {review.productSpec.map((spec, index) => (
+                              <tr key={index}>
+                                <th scope="row" className="w-2/5 px-5 py-3 text-left align-top font-bold text-marinho-suave md:px-6">
+                                  {spec.key}
+                                </th>
+                                <td className="px-5 py-3 align-top font-semibold text-marinho md:px-6">
+                                  {spec.highlight ? <span className="marca-texto font-extrabold">{spec.value}</span> : spec.value}
+                                </td>
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </details>
+                      <div className="pt-4">
+                        <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} variant="d2" />
                       </div>
-                    </details>
-                    <div className="pt-4">
-                      <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} />
                     </div>
-                  </div>
-                </EditorialReveal>
-              )}
+                  </EditorialReveal>
+                )}
 
-              {/* Conteúdo editorial */}
-              {kind === 'guia' ? (
-                <>
+                {/* Conteúdo editorial */}
+                {kind === 'guia' ? (
+                  <>
+                    <ReviewContentSections
+                      sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                      reviewTitle={review.title}
+                      sectionIds={sectionIds}
+                      filterHeadings={HEADINGS_OUTSIDE_BODY}
+                      kind={kind}
+                      notes={notes}
+                      reviewSlug={review.slug}
+                      coupon={review.coupon}
+                      affiliate={review.affiliate}
+                      locale={couponCopyLocale}
+                      noteLabels={noteLabels}
+                    />
+                    {stepSections.length > 0 && (
+                      <div className="mt-12">
+                        <GuideTimeline
+                          steps={stepSections}
+                          sectionIds={sectionIds}
+                          reviewTitle={review.title}
+                          locale={couponCopyLocale}
+                        />
+                      </div>
+                    )}
+                    {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
+                        nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
+                        test:build-output barra a nota repetida. */}
+                    {postStepSections.length > 0 && (
+                      <div className="mt-12">
+                        <ReviewContentSections
+                          sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                          reviewTitle={review.title}
+                          sectionIds={sectionIds}
+                          filterHeadings={HEADINGS_OUTSIDE_BODY}
+                          kind={kind}
+                          notes={notes}
+                          reviewSlug={review.slug}
+                          coupon={review.coupon}
+                          affiliate={review.affiliate}
+                          locale={couponCopyLocale}
+                          noteLabels={noteLabels}
+                        />
+                      </div>
+                    )}
+                  </>
+                ) : (
                   <ReviewContentSections
-                    sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                    sections={review.contentSections || []}
                     reviewTitle={review.title}
                     sectionIds={sectionIds}
                     filterHeadings={HEADINGS_OUTSIDE_BODY}
@@ -250,90 +296,42 @@ export function ReviewNotebookTemplate({
                     locale={couponCopyLocale}
                     noteLabels={noteLabels}
                   />
-                  {stepSections.length > 0 && (
-                    <div className="mt-12">
-                      <GuideTimeline
-                        steps={stepSections}
-                        sectionIds={sectionIds}
-                        reviewTitle={review.title}
-                        locale={couponCopyLocale}
-                      />
-                    </div>
-                  )}
-                  {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
-                      nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
-                      test:build-output barra a nota repetida. */}
-                  {postStepSections.length > 0 && (
-                    <div className="mt-12">
-                      <ReviewContentSections
-                        sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
-                        reviewTitle={review.title}
-                        sectionIds={sectionIds}
-                        filterHeadings={HEADINGS_OUTSIDE_BODY}
-                        kind={kind}
-                        notes={notes}
-                        reviewSlug={review.slug}
-                        coupon={review.coupon}
-                        affiliate={review.affiliate}
-                        locale={couponCopyLocale}
-                        noteLabels={noteLabels}
-                      />
-                    </div>
-                  )}
-                </>
-              ) : (
-                <ReviewContentSections
-                  sections={review.contentSections || []}
-                  reviewTitle={review.title}
-                  sectionIds={sectionIds}
-                  filterHeadings={HEADINGS_OUTSIDE_BODY}
-                  kind={kind}
-                  notes={notes}
-                  reviewSlug={review.slug}
-                  coupon={review.coupon}
-                  affiliate={review.affiliate}
-                  locale={couponCopyLocale}
-                  noteLabels={noteLabels}
-                />
-              )}
+                )}
 
-              {/* Veredito em texto corrido quando não há rating de produto */}
-              {verdictSection && !hasProductRating && (
-                <section className="mt-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8">
-                  <SectionHeadingReveal
-                    as="h2"
-                    underlineColor="#ff6b35"
-                    className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
-                  >
-                    {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
-                  </SectionHeadingReveal>
-                  {verdictSection.paragraphs?.map((paragraph, index) => (
-                    <p key={index} className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0">
-                      {paragraph}
-                    </p>
-                  ))}
-                  {verdictSection.links && verdictSection.links.length > 0 && (
-                    <div className="mt-8 flex flex-wrap gap-4">
-                      {verdictSection.links.map((link) => (
-                        <CouponStoreLink
-                          key={link.href}
-                          href={link.href}
-                          couponCode={review.coupon}
-                          brand={review.affiliate}
-                          contentSlug={review.slug}
-                          linkLabel={link.label}
-                          sponsored={link.sponsored ?? hasCommercialRelationship}
-                          placement="review_verdict"
-                          className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white wrap-anywhere transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
-                        >
-                          {link.label}
-                          <ArrowRight size={16} />
-                        </CouponStoreLink>
-                      ))}
-                    </div>
-                  )}
-                </section>
-              )}
+                {/* Veredito em texto corrido quando não há rating de produto */}
+                {verdictSection && !hasProductRating && (
+                  <section className="mt-10 rounded-2xl border-2 border-marinho bg-white p-6 md:p-8">
+                    <SectionHeadingReveal as="h2" variant="d2" className="mb-5">
+                      {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
+                    </SectionHeadingReveal>
+                    {verdictSection.paragraphs?.map((paragraph, index) => (
+                      <p key={index} className="mb-4 font-editorial text-lg leading-8 text-marinho last:mb-0">
+                        {paragraph}
+                      </p>
+                    ))}
+                    {verdictSection.links && verdictSection.links.length > 0 && (
+                      <div className="mt-8 flex flex-wrap gap-4">
+                        {verdictSection.links.map((link) => (
+                          <CouponStoreLink
+                            key={link.href}
+                            href={link.href}
+                            couponCode={review.coupon}
+                            brand={review.affiliate}
+                            contentSlug={review.slug}
+                            linkLabel={link.label}
+                            sponsored={link.sponsored ?? hasCommercialRelationship}
+                            placement="review_verdict"
+                            className={`inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho bg-white px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors hover:bg-amarelo-cupom ${FOCUS_RING}`}
+                          >
+                            {link.label}
+                            <ArrowRight size={16} />
+                          </CouponStoreLink>
+                        ))}
+                      </div>
+                    )}
+                  </section>
+                )}
+              </div>
 
               <ArticleEnd
                 review={review}
