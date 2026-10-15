@@ -1,11 +1,12 @@
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import type { SocialHighlight } from '@/lib/data';
-import { codeLinkLabel, ofStore } from '@/lib/homeStores';
+import { codeLinkLabel } from '@/lib/homeStores';
 import { absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
+import { ofStore } from '@/lib/storeNames';
 import {
   formatDuration,
   formatVideoDate,

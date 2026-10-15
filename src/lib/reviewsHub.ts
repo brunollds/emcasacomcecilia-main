@@ -7,7 +7,6 @@ import {
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
   getStoreArticlesPath,
-  ofStore,
   type StoreReview,
 } from '@/lib/homeStores';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
@@ -28,6 +27,7 @@ import {
   type ShelfSearch,
   type ShelfStore,
 } from '@/lib/reviewsShelf';
+import { ofStore } from '@/lib/storeNames';
 
 // Dados de /reviews e das subpáginas /reviews/loja/{slug}, montados no servidor. Recebe as reviews por
 // parâmetro e não importa '@/lib/data', como o homeStores.ts; o componente cliente recebe só o resultado.
