@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
