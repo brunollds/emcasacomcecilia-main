@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { useEffect, useRef } from 'react';
 import type { Locale } from '@/lib/i18n/locales';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
-import { getArticleCopy, getReviewVideoLabels } from './articleCopy';
+import { getReviewVideoLabels } from './articleCopy';
 import { ReviewLoopVideo } from './ReviewLoopVideo';
 import { useReviewMediaBlur } from './useReviewMediaBlur';
 
@@ -16,7 +16,6 @@ export interface ReviewHeroImageProps {
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   hasProductRating?: boolean;
-  rating?: number;
   objectContain?: boolean;
   compact?: boolean;
   slug?: string;
@@ -50,7 +49,6 @@ export function ReviewHeroImage({
   imagePosition = 'center',
   imageFit = 'cover',
   hasProductRating = false,
-  rating,
   objectContain = false,
   compact = false,
   slug,
@@ -194,11 +192,6 @@ export function ReviewHeroImage({
           />
         )}
       </div>
-      {hasProductRating && typeof rating === 'number' && (
-        <figcaption className="sr-only">
-          {getArticleCopy(locale).heroCaption(rating.toFixed(1))}
-        </figcaption>
-      )}
     </div>
   );
 }

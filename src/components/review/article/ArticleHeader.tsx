@@ -142,7 +142,7 @@ export function ArticleHeader({
       {unanchoredNotes.length > 0 && (
         <div className="mt-4 flex flex-wrap gap-2">
           {unanchoredNotes.map((note) => (
-            <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
+            <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} variant="d2" />
           ))}
         </div>
       )}
@@ -190,7 +190,6 @@ export function ArticleHeader({
           hasProductRating={hasProductRating}
           objectContain={kind === 'editorial'}
           compact={Boolean(review.heroCompact)}
-          rating={typeof review.rating === 'number' ? review.rating : undefined}
           slug={review.slug}
           video={review.video}
           locale={couponCopyLocale}

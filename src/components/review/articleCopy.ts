@@ -25,7 +25,6 @@ export type ArticleCopy = {
   rated: string;
   strengths: string;
   cautions: string;
-  heroCaption: (stars: string) => string;
   finalVerdictLink: string;
   productSheet: string;
   productSheetOpen: string;
@@ -72,7 +71,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Avaliado',
     strengths: 'Pontos fortes',
     cautions: 'Pontos de atenção',
-    heroCaption: (stars) => `Imagem do produto avaliado com nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar link do veredito final',
     productSheet: 'Ficha do produto',
     productSheetOpen: 'Abrir',
@@ -116,7 +114,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Rated',
     strengths: 'Strengths',
     cautions: 'Things to watch',
-    heroCaption: (stars) => `Product image, rated ${stars} out of 5.`,
     finalVerdictLink: 'Copy link to the final verdict',
     productSheet: 'Product details',
     productSheetOpen: 'Open',
@@ -160,7 +157,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valorado',
     strengths: 'Puntos fuertes',
     cautions: 'Puntos a tener en cuenta',
-    heroCaption: (stars) => `Imagen del producto valorado con nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar enlace del veredicto final',
     productSheet: 'Ficha del producto',
     productSheetOpen: 'Abrir',
@@ -204,7 +200,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Évalué',
     strengths: 'Points forts',
     cautions: 'Points de vigilance',
-    heroCaption: (stars) => `Image du produit évalué, note de ${stars} sur 5.`,
     finalVerdictLink: 'Copier le lien du verdict final',
     productSheet: 'Fiche produit',
     productSheetOpen: 'Ouvrir',
@@ -248,7 +243,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Bewertet',
     strengths: 'Stärken',
     cautions: 'Worauf man achten sollte',
-    heroCaption: (stars) => `Bild des bewerteten Produkts, Note ${stars} von 5.`,
     finalVerdictLink: 'Link zum abschließenden Urteil kopieren',
     productSheet: 'Produktdaten',
     productSheetOpen: 'Öffnen',
@@ -292,7 +286,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valutato',
     strengths: 'Punti di forza',
     cautions: 'Punti di attenzione',
-    heroCaption: (stars) => `Immagine del prodotto valutato, voto ${stars} su 5.`,
     finalVerdictLink: 'Copia il link del verdetto finale',
     productSheet: 'Scheda del prodotto',
     productSheetOpen: 'Apri',
@@ -336,7 +329,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '평가 완료',
     strengths: '장점',
     cautions: '참고할 점',
-    heroCaption: (stars) => `5점 만점에 ${stars}점으로 평가한 제품 이미지.`,
     finalVerdictLink: '최종 평가 링크 복사',
     productSheet: '제품 정보',
     productSheetOpen: '열기',
@@ -380,7 +372,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '評価済み',
     strengths: '良い点',
     cautions: '気になる点',
-    heroCaption: (stars) => `5点満点中${stars}点と評価した製品の画像。`,
     finalVerdictLink: '最終評価のリンクをコピー',
     productSheet: '製品情報',
     productSheetOpen: '開く',
@@ -424,7 +415,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已評分',
     strengths: '優點',
     cautions: '注意事項',
-    heroCaption: (stars) => `評分 ${stars} 分（滿分 5 分）的產品圖片。`,
     finalVerdictLink: '複製最終評價連結',
     productSheet: '產品資訊',
     productSheetOpen: '展開',
@@ -468,7 +458,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已评分',
     strengths: '优点',
     cautions: '注意事项',
-    heroCaption: (stars) => `评分 ${stars} 分（满分 5 分）的产品图片。`,
     finalVerdictLink: '复制最终评价链接',
     productSheet: '产品信息',
     productSheetOpen: '展开',
