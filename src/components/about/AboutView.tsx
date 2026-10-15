@@ -8,6 +8,7 @@ import { CertificateDialog } from '@/components/sections/CertificateDialog';
 import { HomeSection } from '@/components/sections/HomeSection';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { PageHeader } from '@/components/ui/PageHeader';
+import { PRIMARY_PAGE_BUTTON, SECONDARY_PAGE_BUTTON } from '@/components/ui/pageButton';
 import { getAboutPersonJsonLd, type AboutContent } from '@/lib/aboutPage';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -17,9 +18,6 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const PHOTO_COPY = { ...CECILIA_PHOTO_COPY_PT, captionLabel: 'Em Casa com Cecília', captionTitle: 'Da minha casa para a sua.' };
 
-const BUTTON = `inline-flex min-h-12 items-center justify-center gap-2 rounded-full border-2 border-marinho px-6 text-[15px] font-extrabold motion-safe:transition-colors ${FOCUS_RING}`;
-const PRIMARY_BUTTON = `${BUTTON} bg-marinho text-white hover:bg-marinho/85`;
-const SECONDARY_BUTTON = `${BUTTON} bg-white text-marinho hover:bg-creme`;
 const BODY_TEXT = 'text-base leading-relaxed font-medium text-marinho-suave md:text-lg';
 
 const METHOD = [
@@ -69,11 +67,11 @@ export function AboutView({ content, className = '' }: { content: AboutContent; 
         }
         aside={<CeciliaPhotoCard instagramFollowers={content.instagramFollowers} copy={PHOTO_COPY} placement="about" eager />}
       >
-        <TrackedHomeLink href="/reviews" placement="about" linkLabel="Ver os guias" className={PRIMARY_BUTTON}>
+        <TrackedHomeLink href="/reviews" placement="about" linkLabel="Ver os guias" className={PRIMARY_PAGE_BUTTON}>
           Ver os guias
           <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
         </TrackedHomeLink>
-        <TrackedHomeLink href="/contato" placement="about" linkLabel="Fale com a gente" className={SECONDARY_BUTTON}>
+        <TrackedHomeLink href="/contato" placement="about" linkLabel="Fale com a gente" className={SECONDARY_PAGE_BUTTON}>
           Fale com a gente
         </TrackedHomeLink>
       </PageHeader>
@@ -189,11 +187,11 @@ export function AboutView({ content, className = '' }: { content: AboutContent; 
             ou use o formulário de contato.
           </p>
           <div className="flex shrink-0 flex-wrap gap-3">
-            <a href={content.mediaKit} target="_blank" rel="noopener noreferrer" className={PRIMARY_BUTTON}>
+            <a href={content.mediaKit} target="_blank" rel="noopener noreferrer" className={PRIMARY_PAGE_BUTTON}>
               Ver o mídia kit
               <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
             </a>
-            <TrackedHomeLink href="/contato" placement="about" linkLabel="Fale com a gente" className={SECONDARY_BUTTON}>
+            <TrackedHomeLink href="/contato" placement="about" linkLabel="Fale com a gente" className={SECONDARY_PAGE_BUTTON}>
               Fale com a gente
             </TrackedHomeLink>
           </div>
