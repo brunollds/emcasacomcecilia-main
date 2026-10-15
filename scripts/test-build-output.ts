@@ -928,6 +928,33 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   assert.notDeepEqual(cutoutProblems(`${html('en')}<a href="https://br.shein.com/">x</a>`, 'en', block), [], 'SHEIN Brasil passou');
 }
 
+// O corpo do artigo (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da
+// D2: nenhuma cor antiga, nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
+const OLD_ARTICLE_COLORS = /#(?:1a4d2e|ff6b35|0f1d3a|faf8f3)\b/gi;
+function articleBodyProblems(body: string): string[] {
+  const regions = [...body.matchAll(/<[a-zA-Z][\w-]*\s[^>]*\bdata-article="corpo"[^>]*>/g)].map((match) => elementAt(body, match.index));
+  if (regions.length !== 1) return [`${regions.length} corpos (data-article="corpo") em vez de um`];
+  const [region] = regions;
+  const problems = [...new Set(region.match(OLD_ARTICLE_COLORS) ?? [])].map((hex) => `cor antiga ${hex} no corpo`);
+  if (!/<section\b/.test(region)) problems.push('corpo sem nenhuma seção');
+  for (const background of body.match(/\b(?:review-page-bg|notebook-[\w-]+)\b/g) ?? []) problems.push(`fundo de caderno (${background})`);
+  return [...new Set(problems)];
+}
+// O guarda acima passa no corpo certo e falha sem o corpo, com uma cor antiga dentro dele e com o fundo de caderno;
+// cor antiga fora do corpo (o rodapé, o fim que a Task 5 refaz) não conta.
+{
+  const ok = '<main><div data-article="corpo" class="text-marinho"><section id="a"><h2>A</h2></section></div><div class="text-[#1a4d2e]"></div></main>';
+  assert.deepEqual(articleBodyProblems(ok), []);
+  assert.notDeepEqual(articleBodyProblems(ok.replace(' data-article="corpo"', '')), [], 'artigo sem o corpo passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('text-marinho', 'text-[#1A4D2E]')), [], 'cor antiga no corpo passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 style="background-color:#ff6b35">')), [], 'cor antiga em estilo passou');
+  assert.notDeepEqual(articleBodyProblems(`<article class="review-page-bg">${ok}</article>`), [], 'fundo de caderno passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace(/<section[\s\S]*<\/section>/, '')), [], 'corpo vazio passou');
+}
+// O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
+assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');
+assert.match(css, /\.editorial-ambient-bg-review:{1,2}before\{[^}]*content:none/, 'CSS: o fundo dos artigos ainda tem a camada de manchas');
+
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
 // (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
 // se um dia isso for de propósito, tire-o desta conferência.
@@ -945,6 +972,7 @@ for (const url of articleUrls) {
   const body = bodyOf(html);
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
   assertCeciliaAuthorId(personNodesChecked.artigo, pagePath, html);
+  assert.deepEqual(articleBodyProblems(body), [], `${pagePath}: corpo do artigo fora do visual da D2`);
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
   assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
