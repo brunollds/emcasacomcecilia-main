@@ -7,6 +7,8 @@ import { readFileSync } from 'node:fs';
 import { AboutView } from '@/components/about/AboutView';
 import { ContactView } from '@/components/contact/ContactView';
 import { FaqView } from '@/components/faqs/FaqView';
+import { PrivacyView } from '@/components/privacy/PrivacyView';
+import { SearchView } from '@/components/search/SearchView';
 import { ABOUT_TRAIL, getAboutContent, getAboutPersonJsonLd } from '@/lib/aboutPage';
 import { brandLinks } from '@/lib/brandLinks';
 import { CECILIA_PERSON_ID, CECILIA_SINCE, YESSTYLE_CERTIFICATE } from '@/lib/ceciliaCredentials';
@@ -17,17 +19,22 @@ import { FAQ_CATEGORIES, FAQ_TRAIL, getFaqPageJsonLd } from '@/lib/faqPage';
 import { getCeciliaSocialStats } from '@/lib/homeStores';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { getBreadcrumbListJsonLd } from '@/lib/pageSeo';
+import { PRIVACY_META, PRIVACY_SECTIONS, PRIVACY_TRAIL, privacyPlainText, type PrivacyText } from '@/lib/privacyPage';
 import { getListedPortugueseReviews } from '@/lib/reviewDiscovery';
+import { SEARCH_COPY, SEARCH_TRAIL, createSearchPage, getSearchQuery, searchSite } from '@/lib/searchPage';
+import { SEARCH_PAGE_METADATA } from '@/lib/siteSearch.mjs';
 
 // As páginas institucionais. A /sobre: os números saem dos dados (os mesmos da home e das listas em
 // português), o selo da YesStyle só aparece enquanto o certificado vale, as marcas parceiras, a trilha igual
 // ao BreadcrumbList e os textos que a página não pode ter. O /faqs: as perguntas, o FAQPage igual à página e
 // os atalhos das categorias. O /contato: os assuntos do formulário iguais aos da rota /api/contact e o
-// escape do HTML do e-mail.
+// escape do HTML do e-mail. A /privacidade: o que a política precisa dizer, o sumário e os links. O /buscar:
+// os cartões com o link e a capa, e o aviso de nada encontrado.
 
 const imageConfig: ImageConfigComplete = { ...imageConfigDefault, remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[] };
-const render = (content: ReturnType<typeof getAboutContent>) =>
-  renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(AboutView, { content })));
+const withImages = (element: ReturnType<typeof createElement>) =>
+  renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, element));
+const render = (content: ReturnType<typeof getAboutContent>) => withImages(createElement(AboutView, { content }));
 const textOf = (html: string) =>
   html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/g, ' ')
@@ -258,10 +265,106 @@ for (const pageHtml of [faqHtml, contactHtml]) {
   assert.doesNotMatch(pageHtml.match(/<header[\s\S]*?<\/header>/)?.[0] ?? '', /lg:self-end/, 'cabeçalho sem aside com lg:self-end');
 }
 
-// Nada do visual antigo nas duas páginas.
+// A privacidade: as 13 seções do texto aprovado, o que a política precisa dizer e nenhum marcador por resolver.
+assert.equal(PRIVACY_SECTIONS.length, 13, 'a política não tem 13 seções');
+assert.deepEqual(
+  PRIVACY_SECTIONS.map((section) => Number(section.title.match(/^(\d+)\. /)?.[1])),
+  PRIVACY_SECTIONS.map((_, index) => index + 1),
+  'seções fora da ordem'
+);
+assert.equal(new Set(PRIVACY_SECTIONS.map((section) => section.id)).size, PRIVACY_SECTIONS.length, 'id de seção repetido');
+const privacyText = PRIVACY_SECTIONS.map((section) => `${section.title} ${privacyPlainText(section.blocks)}`).join(' ');
+for (const [label, needle] of [
+  ['Microsoft Clarity', 'Microsoft Clarity'],
+  ['Google Analytics com os 2 meses', 'Google Analytics: 2 meses'],
+  ['pessoa física', 'Cecília Mauad, pessoa física'],
+  ['consentimento', 'consentimento (art. 7º, I)'],
+  ['o e-mail de contato', brandLinks.contactEmail],
+] as const) {
+  assert.ok(privacyText.includes(needle), `política sem ${label}`);
+}
+assert.doesNotMatch(`${privacyText} ${PRIVACY_META.title} ${PRIVACY_META.description}`, /\[VERIFICAR|[{}]|14 meses/, 'marcador ou prazo antigo na política');
+const privacyLinks = PRIVACY_SECTIONS.flatMap((section) =>
+  section.blocks.flatMap((block) => (block.type === 'p' ? block.text : block.items.flatMap((entry) => entry.text)))
+).filter((piece): piece is Extract<PrivacyText, { href: string }> => typeof piece === 'object' && 'href' in piece);
+const externalPrivacyLinks = privacyLinks.filter((link) => !link.href.startsWith('mailto:'));
+assert.ok(externalPrivacyLinks.length >= 5, 'a política sem as políticas dos serviços');
+for (const link of externalPrivacyLinks) assert.match(link.href, /^https:\/\/[a-z0-9.-]+\.[a-z]{2,}(\/|$)/, `${link.label}: link sem https`);
+
+const privacyHtml = renderToStaticMarkup(createElement(PrivacyView, { sections: PRIVACY_SECTIONS }));
+const privacyPageText = textOf(privacyHtml);
+assert.match(privacyHtml, /<h1[^>]*><span class="marca-texto marca-texto-entra">Política de privacidade<\/span><\/h1>/);
+assert.deepEqual(jsonLdOf(privacyHtml).find((schema) => schema['@type'] === 'BreadcrumbList'), getBreadcrumbListJsonLd(PRIVACY_TRAIL));
+for (const section of PRIVACY_SECTIONS) {
+  assert.ok(privacyHtml.includes(`href="#${section.id}"`), `${section.title}: sem o atalho no sumário`);
+  assert.match(privacyHtml, new RegExp(`<section id="${section.id}"`), `${section.title}: sem a seção da âncora`);
+}
+assert.equal((privacyHtml.match(/<h2 id="titulo-(?!sumario)/g) ?? []).length, PRIVACY_SECTIONS.length);
+assert.ok(privacyHtml.includes('<strong class="font-extrabold text-marinho">Formulário de contato:</strong>'), 'item sem o trecho em negrito');
+assert.ok(privacyHtml.includes('<code'), 'nome de cookie sem <code>');
+for (const link of externalPrivacyLinks) {
+  const anchors = [...privacyHtml.matchAll(/<a [^>]*>/g)].map((match) => match[0]).filter((anchor) => anchor.includes(`href="${link.href}"`));
+  assert.ok(anchors.length > 0, `${link.label}: sem o link`);
+  for (const anchor of anchors) {
+    assert.ok(anchor.includes('rel="noopener noreferrer"') && anchor.includes('target="_blank"'), `${link.label}: link sem rel ou target`);
+  }
+}
+for (const href of [brandLinks.contactMailto, '/contato']) assert.ok(privacyHtml.includes(`href="${href}"`), `/privacidade sem o link ${href}`);
+assert.ok(privacyPageText.includes('Última atualização: outubro de 2026.'), 'sem a data da última revisão');
+assert.ok(privacyPageText.includes('Google Analytics (medição de audiência) — policies.google.com/privacy'), 'o negrito colou no texto');
+
+// A busca: um termo conhecido acha o artigo e a receita com o link e a capa, e um termo sem resultado mostra
+// o aviso com o link para /cupons. O índice é o mesmo do campo do topo.
+assert.equal(getSearchQuery(['  bolo ', 'x']), 'bolo');
+assert.equal(getSearchQuery(undefined), '');
+assert.deepEqual(SEARCH_PAGE_METADATA.robots, { index: false, follow: true }, 'o /buscar deixou de ser noindex');
+assert.deepEqual(SEARCH_TRAIL.map((item) => item.path), ['/', '/buscar']);
+const knownReview = getListedPortugueseReviews(publishedReviews).find((review) => review.image);
+assert.ok(knownReview, 'nenhum artigo com capa');
+const reviewResults = searchSite(knownReview.title);
+const reviewCard = reviewResults.find((card) => card.href === `/reviews/${knownReview.slug}`);
+assert.ok(reviewCard, `a busca por "${knownReview.title}" não achou o artigo`);
+assert.ok(reviewCard.image?.src, 'artigo sem capa no resultado');
+const recipeResults = searchSite(recipes[0].title.toLowerCase());
+assert.ok(recipeResults.some((card) => card.href === `/receitas/${recipes[0].slug}` && card.image?.src), 'receita sem link ou capa');
+for (const card of [...reviewResults, ...recipeResults]) assert.match(card.href, /^\/(receitas|reviews)\/[a-z0-9-]+$/);
+assert.deepEqual(searchSite('zzzz'), []);
+assert.deepEqual(createSearchPage({ recipes: [], reviews: [] })('bolo'), []);
+
+const searchHtml = (query: string) =>
+  withImages(createElement(SearchView, { query, results: query ? searchSite(query) : [], search: createElement('input', { 'data-busca': '' }) }));
+const foundHtml = searchHtml(knownReview.title);
+assert.ok(textOf(foundHtml).includes(SEARCH_COPY.count(reviewResults.length, knownReview.title)), 'sem a linha de resultados');
+const resultsHtml = foundHtml.match(/<ul class="mt-5 grid[\s\S]*<\/ul>/)?.[0] ?? '';
+assert.equal((resultsHtml.match(/<li /g) ?? []).length, reviewResults.length, 'cartões fora da contagem');
+assert.ok(foundHtml.includes(`href="/reviews/${knownReview.slug}"`), 'cartão sem o link do artigo');
+assert.match(foundHtml, /<img [^>]*sizes="[^"]+"/, 'capa sem sizes');
+assert.match(foundHtml, /<div role="search"[^>]*><input data-busca=""/, 'sem o campo de busca na página');
+assert.doesNotMatch(foundHtml, /data-search-empty/);
+assert.ok(!textOf(foundHtml).includes(SEARCH_COPY.intro), 'a introdução aparece com um termo');
+const emptyHtml = searchHtml('zzzz');
+const emptyText = textOf(emptyHtml);
+assert.ok(emptyText.includes(SEARCH_COPY.emptyTitle('zzzz')), 'sem o título de nada encontrado');
+assert.ok(emptyText.includes(`${SEARCH_COPY.emptyHint} /cupons .`), 'sem a dica de nada encontrado');
+assert.ok(emptyHtml.includes('href="/cupons"'), 'a dica sem o link para /cupons');
+assert.doesNotMatch(emptyHtml, /data-search-count/);
+const blankHtml = searchHtml('');
+assert.ok(textOf(blankHtml).includes(SEARCH_COPY.intro), 'sem a introdução sem termo');
+assert.doesNotMatch(blankHtml, /titulo-resultados/);
+assert.match(blankHtml, /<h1[^>]*><span class="marca-texto marca-texto-entra">Buscar no site<\/span><\/h1>/);
+assert.deepEqual(jsonLdOf(blankHtml).find((schema) => schema['@type'] === 'BreadcrumbList'), getBreadcrumbListJsonLd(SEARCH_TRAIL));
+
+for (const pageHtml of [privacyHtml, foundHtml]) {
+  assert.doesNotMatch(pageHtml.match(/<header[\s\S]*?<\/header>/)?.[0] ?? '', /lg:self-end/, 'cabeçalho sem aside com lg:self-end');
+}
+
+// Nada do visual antigo nas páginas.
 for (const [page, pageHtml] of [
   ['/faqs', faqHtml],
   ['/contato', contactHtml],
+  ['/privacidade', privacyHtml],
+  ['/buscar', foundHtml],
+  ['/buscar sem resultado', emptyHtml],
 ] as const) {
   assert.doesNotMatch(
     pageHtml,
@@ -275,4 +378,7 @@ console.log(
 );
 console.log(
   `✅ institucionais: /faqs com ${faqQuestions.length} perguntas em ${FAQ_CATEGORIES.length} categorias, o FAQPage igual à página e os atalhos; /contato com ${CONTACT_SUBJECTS.length} assuntos iguais aos da rota e o HTML do e-mail escapado.`
+);
+console.log(
+  `✅ institucionais: /privacidade com ${PRIVACY_SECTIONS.length} seções, o sumário e ${externalPrivacyLinks.length} links externos em https; /buscar com ${reviewResults.length} resultado(s) para "${knownReview.title}", a capa e o aviso de nada encontrado.`
 );
