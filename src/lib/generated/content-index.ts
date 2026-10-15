@@ -79820,5 +79820,193 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 442,
+    "slug": "clea-store-aniversario-14-anos-t-shirt-brinde",
+    "title": "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 18/10, com o cupom CSEMCASACOMCECILIA",
+    "seoTitle": "Cléa Store 14 anos: T-Shirt de brinde até 18/10",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Cléa Store faz 14 anos e dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 18/10/2026. Como escolher o brinde, o pedido mais barato que leva a T-Shirt e o teste do cupom CSEMCASACOMCECILIA junto com o brinde.",
+    "metaDescription": "Cléa Store 14 anos: T-Shirt de brinde em qualquer compra até 18/10. Como escolher, o pedido mais barato e o cupom CSEMCASACOMCECILIA testado junto.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
+    "imageAlt": "Janela Escolha entre os brindes disponíveis da Cléa Store, com A Cléa faz 14 anos. O presente é seu! e a T-Shirts Oversized Algodão de R$ 129,00 por R$ 0,00, ao lado do carrinho com a T-Shirt de brinde a R$ 0,00",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "T-Shirt Oversized de brinde na compra de qualquer peça, sem valor mínimo",
+      "Um kit conta como uma peça e também libera o brinde",
+      "O cupom CSEMCASACOMCECILIA valeu junto com o brinde no nosso teste de 15/10/2026",
+      "Você escolhe a cor e o tamanho da T-Shirt entre as opções disponíveis"
+    ],
+    "cons": [
+      "A promoção acaba em 18/10/2026, às 23h59",
+      "As cores e os tamanhos do brinde podem ser menos que os da peça vendida",
+      "O brinde não ajuda a chegar ao frete grátis de R$ 599",
+      "A loja aceita um cupom por pedido"
+    ],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria, escolha a T-Shirt na janela de brindes e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a T-Shirt a R$ 0,00 e o desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Brinde e cupom testados no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "black-friday-clea-store",
+        "title": "Black Friday Cléa Store 2026: campanha ainda não anunciada, preços de outubro e o cupom CSEMCASACOMCECILIA"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Cléa Store faz 14 anos e dá uma **T-Shirt Oversized de brinde** na compra de qualquer peça. Uma peça no carrinho basta, e um kit conta como uma peça.",
+          "A promoção vai até **18/10/2026, às 23h59**.",
+          "O cupom **CSEMCASACOMCECILIA** vale junto: dá 10% em todo o site, em todas as formas de pagamento. No nosso teste de 15/10/2026, o cupom entrou no pedido e o brinde saiu a R$ 0,00.",
+          "O pedido mais barato que levava a T-Shirt em 15/10/2026 era o Body Cavado: R$ 45,63 com o cupom.",
+          "O Em Casa com Cecília pode receber comissão pelas compras com esse cupom. As condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      },
+      {
+        "heading": "Como funciona o brinde dos 14 anos",
+        "paragraphs": [
+          "Você escolhe a T-Shirt numa janela do site. Com o carrinho vazio, a loja avisa: \"Adicione mais 1 item(ns) para ganhar um brinde\". Depois da primeira peça, o brinde fica liberado.",
+          "A janela se chama **\"Escolha entre os brindes disponíveis\"**. O título diz \"A Cléa faz 14 anos. O presente é seu!\". Logo abaixo, a loja explica: \"Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho do seu brinde entre as opções disponíveis.\"",
+          "O passo a passo, como fizemos no nosso teste de 15/10/2026:"
+        ],
+        "bullets": [
+          "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
+          "Na janela de brindes, encontre o cartão \"T-Shirts Oversized Algodão\", com R$ 129,00 riscado e R$ 0,00.",
+          "Escolha a **cor** e o **tamanho** entre as opções que a janela mostra.",
+          "Clique em **\"Selecionar\"**.",
+          "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P."
+        ],
+        "postParagraphs": [
+          "Segundo a própria loja, a T-Shirt Oversized é o best-seller da marca, feita em 100% algodão penteado premium.",
+          "Fora da promoção, a T-Shirts Oversized Algodão é vendida por **R$ 129,00**. Em 15/10/2026, o site tinha 10 cores à venda: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho, nos tamanhos P, M e G. As cores e os tamanhos do brinde são os disponíveis na janela, que podem ser menos que os da peça vendida."
+        ]
+      },
+      {
+        "heading": "O pedido mais barato que ganha a T-Shirt",
+        "paragraphs": [
+          "Como uma peça basta, o pedido mais barato é o da peça mais barata do site. Estes eram os preços em 15/10/2026, do preço de tabela ao valor com o cupom de 10%, que incide sobre o preço já promocional:"
+        ],
+        "comparisonTable": {
+          "caption": "Peças da Cléa Store em 15/10/2026: preço de tabela, preço no site e valor com o cupom CSEMCASACOMCECILIA (10%), sem o frete. A T-Shirt de brinde vem em qualquer um desses pedidos.",
+          "headers": [
+            "Peça",
+            "Tabela",
+            "No site",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "Body Cavado",
+              "R$ 169,00",
+              "R$ 50,70",
+              "R$ 45,63"
+            ],
+            [
+              "Body Ombro Único Com Detalhe nas Costas",
+              "R$ 159,00",
+              "R$ 79,50",
+              "R$ 71,55"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "R$ 159,00",
+              "R$ 127,20",
+              "R$ 114,48"
+            ],
+            [
+              "T-Shirts Oversized Algodão",
+              "R$ 129,00",
+              "R$ 129,00",
+              "R$ 116,10"
+            ],
+            [
+              "Kit 3 T-Shirts (Básica, Colorful, Intense)",
+              "R$ 387,00",
+              "R$ 258,00",
+              "R$ 232,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quem quer as camisetas sai melhor com o kit: com o brinde, são **4 T-Shirts por R$ 232,20**, ou R$ 58,05 cada. Os preços promocionais mudam, então confira o valor no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "O cupom vale junto com o brinde?",
+        "paragraphs": [
+          "Sim. No nosso teste de 15/10/2026, o cupom **CSEMCASACOMCECILIA** valeu com a T-Shirt de brinde no carrinho.",
+          "O carrinho tinha dois itens. A Calça Cargo Marrom (P), de R$ 589,00 por R$ 530,10 na promoção do site. E a T-Shirts Oversized Algodão (Preto, P), escolhida na janela de brindes, de R$ 129,00 por R$ 0,00. Com o código digitado, o resumo do pedido mostrou \"Cupom adicionado CSEMCASACOMCECILIA\". A conta:"
+        ],
+        "bullets": [
+          "Calça Cargo Marrom na promoção do site: R$ 530,10.",
+          "T-Shirt de brinde: R$ 0,00.",
+          "Subtotal: R$ 530,10.",
+          "Cupom de 10%: R$ -53,01.",
+          "Total: **R$ 477,09**, sem o frete."
+        ],
+        "postParagraphs": [
+          "O desconto saiu só sobre a calça. R$ 53,01 é 10% de R$ 530,10: o brinde já estava a R$ 0,00 e não tinha o que abater. O cupom também valeu sobre uma peça que já estava em promoção no site, e não sobre os R$ 589,00 de tabela.",
+          "Antes de pagar, confira duas linhas do resumo: a T-Shirt a R$ 0,00 e o desconto do cupom. O passo a passo de onde digitar o código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
+        "imageAlt": "Carrinho da Cléa Store com a Calça Cargo Marrom de R$ 589,00 por R$ 530,10, a T-Shirts Oversized Algodão de brinde de R$ 129,00 por R$ 0,00, o cupom CSEMCASACOMCECILIA adicionado, o desconto de R$ -53,01 e o total de R$ 477,09, com a barra Faltam R$ 121,91 para frete grátis",
+        "imageCaption": "Carrinho do nosso teste em 15/10/2026: a T-Shirt de brinde a R$ 0,00, o cupom adicionado e o desconto só sobre a calça. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.7766
+      },
+      {
+        "heading": "Frete, cashback e devolução",
+        "paragraphs": [
+          "A faixa do site traz mais três regras da loja, além do brinde. Elas valem no mesmo pedido."
+        ],
+        "bullets": [
+          "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
+          "**Cashback de 10% em créditos.** A página de cashback da loja, lida em 14/10/2026, diz que os créditos são concedidos automaticamente na compra pelo site, ficam disponíveis em até 1 dia útil e valem por 30 dias. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\". O cupom e o cashback valem no mesmo pedido.",
+          "**Devolução grátis.** O prazo é de 30 dias corridos depois do recebimento, e a postagem não é cobrada. Cupom, cashback e frete grátis não são reembolsados na devolução. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Até quando vai a T-Shirt de brinde da Cléa Store? Até 18/10/2026, às 23h59. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
+          "Quanto preciso gastar para ganhar a T-Shirt? Basta uma peça no carrinho. A loja diz \"na compra de qualquer peça\", sem valor mínimo.",
+          "Um kit conta como uma peça para o brinde? Sim. Um kit de 3 T-Shirts conta como uma peça e libera o brinde, como conferimos no carrinho em 15/10/2026.",
+          "O cupom CSEMCASACOMCECILIA vale junto com o brinde? Sim. No teste, o cupom deu R$ -53,01 sobre a calça, e a T-Shirt seguiu a R$ 0,00.",
+          "Posso escolher a cor e o tamanho da T-Shirt de brinde? Sim. Você escolhe na janela \"Escolha entre os brindes disponíveis\", entre as cores e os tamanhos que a loja tiver naquele momento.",
+          "O brinde ajuda a chegar ao frete grátis de R$ 599? Não. A T-Shirt entra a R$ 0,00 e não soma no total. No nosso teste, o total de R$ 477,09 não incluía o brinde, e a barra pedia mais R$ 121,91 para o frete grátis.",
+          "Posso usar dois cupons no mesmo pedido? Não. A loja aceita um cupom por pedido. As condições atualizadas do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      }
+    ]
   }
 ];
