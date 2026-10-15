@@ -6,10 +6,10 @@ parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno; depois de 18/10, virar promoção encerrada apontando para o cupom"
-publicado_em: null
+proxima_acao: "depois de 18/10/2026, virar promoção encerrada apontando para o cupom"
+publicado_em: "2026-10-15"
 nota_publicacao: null
 bloqueado_por: null
 score_autoridade: 45
