@@ -90,7 +90,7 @@ function CopyableCode({ highlighted, state }: { highlighted: ReactNode; state: C
   const id = useId();
   const { code, codeKind, brand, slug, reviewSlug, locale, activeId, setActiveId } = state;
   const labels = getCouponCopyLabels(locale);
-  const copiedHint = getArticleCopy(locale).copiedHint(brand, codeKind);
+  const copiedHint = getArticleCopy(locale).copiedHint({ slug, brand }, codeKind);
 
   return (
     <span data-copy-code={code}>

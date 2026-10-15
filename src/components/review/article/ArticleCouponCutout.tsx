@@ -50,7 +50,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
   const sidebarCopy = getSidebarCopy(locale);
   const labels = getCouponCopyLabels(locale);
   const title = code ? getCodeTitle(sidebarCopy, codeKind, brand) : brand;
-  const copiedHint = getArticleCopy(locale).copiedHint(brand, codeKind);
+  const copiedHint = getArticleCopy(locale).copiedHint({ slug, brand }, codeKind);
 
   return (
     <section

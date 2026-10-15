@@ -22,13 +22,13 @@ const PATH_LINK = `inline-flex min-h-11 items-center gap-1.5 text-[15px] font-ex
 // "Sua compra na <loja>": o recorte grande (o do topo, medido como review_end), as regras da loja, que as páginas
 // de loja também mostram, e os caminhos para a página da loja e para os artigos dela, só quando a página existe.
 export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel }: ArticleStoreBlockProps) {
-  const { brand, rules, couponPageHref, articlesHref, articleCount } = block;
-  const allArticles = articlesHref && articleCount ? copy.allStoreArticles(articleCount, brand) : undefined;
+  const { rules, couponPageHref, articlesHref, articleCount } = block;
+  const allArticles = articlesHref && articleCount ? copy.allStoreArticles(articleCount, block) : undefined;
 
   return (
     <section id={ARTICLE_STORE_ID} className="mt-14 mb-10 scroll-mt-24 text-marinho print:hidden">
       <SectionHeadingReveal as="h2" variant="d2" className="mb-7">
-        {copy.storeBlockTitle(brand)}
+        {copy.storeBlockTitle(block)}
       </SectionHeadingReveal>
 
       <ArticleCouponCutout

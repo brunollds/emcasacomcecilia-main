@@ -132,15 +132,16 @@ assert.equal(plain.articlesHref, undefined);
 assert.ok(!/br\.shein\.com/.test(plain.storeHref ?? ''));
 
 // Textos novos do artigo: nos 10 idiomas, sem campo vazio e, fora do PT, diferentes dos do PT.
+const DAMIE = { slug: 'damie', brand: 'DAMIE' };
 const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
   const c = getArticleCopy(loc);
   return {
-    copiedHint: c.copiedHint('Damie'),
-    copiedHintReward: c.copiedHint('YesStyle', 'reward'),
-    copiedHintReferral: c.copiedHint('SHEIN', 'referral'),
-    storeBlockTitle: c.storeBlockTitle('Damie'),
+    copiedHint: c.copiedHint(DAMIE),
+    copiedHintReward: c.copiedHint({ slug: 'yesstyle', brand: 'YesStyle' }, 'reward'),
+    copiedHintReferral: c.copiedHint({ slug: 'shein', brand: 'SHEIN' }, 'referral'),
+    storeBlockTitle: c.storeBlockTitle(DAMIE),
     allRules: c.allRules,
-    allStoreArticles: c.allStoreArticles(12, 'Damie'),
+    allStoreArticles: c.allStoreArticles(12, DAMIE),
     authorBoxTitle: c.authorBoxTitle,
     authorBoxBody: c.authorBoxBody,
     authorBoxLink: c.authorBoxLink,
@@ -151,7 +152,16 @@ const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
   };
 };
 const ptTexts = newTexts('pt');
-assert.equal(ptTexts.copiedHint, 'Copiado. Agora é só colar no checkout da Damie.');
+assert.equal(ptTexts.copiedHint, 'Copiado. Agora é só colar no checkout da DAMIE.');
+assert.equal(ptTexts.storeBlockTitle, 'Sua compra na DAMIE');
+assert.equal(ptTexts.allStoreArticles, 'Todos os 12 artigos da DAMIE');
+// O Magalu é masculino, como na home ("do Magalu"); as outras lojas, femininas.
+const magalu = { slug: 'magalu', brand: getCouponBySlug('magalu')!.brand };
+assert.equal(magalu.brand, 'Magalu');
+assert.equal(ptCopy.storeBlockTitle(magalu), 'Sua compra no Magalu');
+assert.equal(ptCopy.copiedHint(magalu), 'Copiado. Agora é só colar no checkout do Magalu.');
+assert.equal(ptCopy.allStoreArticles(7, magalu), 'Todos os 7 artigos do Magalu');
+assert.equal(getArticleCopy('en').storeBlockTitle(magalu), 'Shopping at Magalu');
 assert.ok(ptTexts.copiedHintReward.includes('Reward Code da YesStyle'), ptTexts.copiedHintReward);
 for (const loc of LOCALE_KEYS) {
   const texts = newTexts(loc);
