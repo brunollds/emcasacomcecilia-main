@@ -8,10 +8,10 @@ reviewKind: "guia"
 type: "Guia & Cupons"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "teste do carrinho (brinde + cupom) pelo Bruno; depois Job 2"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 nota_publicacao: null
-bloqueado_por: "teste do carrinho com o brinde e o cupom"
+bloqueado_por: null
 score_autoridade: 45
 score_conversao: 80
 score_ponderado_total: 63
@@ -48,7 +48,7 @@ store é boa" e "clea store t shirt": a T-Shirt é o produto que as pessoas proc
 - [x] **4. Anti-Canibalização:** intenção de promoção com data. O passo a passo do cupom fica no
   `cupom-clea-store-como-usar`, e a loja no `clea-store-e-confiavel`; o artigo linka os dois.
 - [x] **5. Classe Canônica Válida:** `cupons-como-usar`.
-- [ ] **6. Fontes Acessíveis, Exatas & Atuais:** falta o teste do carrinho (seção 6).
+- [x] **6. Fontes Acessíveis, Exatas & Atuais:** teste do carrinho feito pelo Bruno em 15/10 (seção "Decisões do Bruno").
 - [x] **7. Decisão i18n Registrada:** `somente-pt`.
 
 ---
@@ -114,8 +114,8 @@ store é boa" e "clea store t shirt": a T-Shirt é o produto que as pessoas proc
 | Kits de 3 T-Shirts a R$ 387,00 de tabela; a página mostra "R$ 86,00/un" (R$ 258,00 o kit) | Preço | cleastore.com.br | Página da T-Shirt, "Comprar junto" | 2026-10-15 | [x] Sim |
 | Peças mais baratas depois da T-Shirt: bodies a R$ 159,00 | Preço | cleastore.com.br | Roupas, Novidades, Best sellers | 2026-10-15 | [x] Sim |
 | Cupom CSEMCASACOMCECILIA: 10% em todo o site, todas as formas de pagamento, um cupom por pedido, soma com promoção e cashback | Condição da parceria | `cupom-clea-store-como-usar` (teste de 14/10) | — | 2026-10-14 | [x] Sim |
-| O cupom soma com o brinde | Condição comercial | Teste do carrinho | — | — | [ ] Pendente: teste do Bruno |
-| Kit conta como uma peça para o brinde; o brinde aparece no carrinho a R$ 0,00 | Condição comercial | Teste do carrinho | — | — | [ ] Pendente: teste do Bruno |
+| O cupom soma com o brinde | Condição comercial | Teste do carrinho (Bruno) | Print: "Cupom adicionado CSEMCASACOMCECILIA", T-Shirt a R$ 0,00 | 2026-10-15 | [x] Sim |
+| Kit conta como uma peça para o brinde; o brinde aparece no carrinho a R$ 0,00 | Condição comercial | Teste do carrinho (Bruno) | Prints de 15/10 | 2026-10-15 | [x] Sim |
 | Na devolução, a T-Shirt de brinde também volta | Política | — | Não encontrado | — | [ ] Não, sem fonte |
 
 ---
@@ -155,3 +155,37 @@ store é boa" e "clea store t shirt": a T-Shirt é o produto que as pessoas proc
 - Autocompletar: nove termos com a marca; nada para a promoção.
 - Claude (curl): home, busca "t-shirt oversized", Novidades, Essenciais, Roupas, Acessórios e Best
   sellers de cleastore.com.br.
+
+---
+
+## Decisões do Bruno (15/10/2026)
+
+1. **Teste do carrinho, "tudo sim":** o brinde entra no pedido, a T-Shirt aparece a R$ 0,00, o
+   cupom vale com o brinde no carrinho e um kit de 3 conta como uma peça. O que os prints mostram:
+   - janela "Escolha entre os brindes disponíveis", com o título "A Cléa faz 14 anos. O presente é
+     seu!" e o texto "Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho
+     do seu brinde entre as opções disponíveis."; o cartão "T-Shirts Oversized Algodão" com R$ 129,00
+     riscado, R$ 0,00 e o botão "Selecionar";
+   - carrinho com 2 itens: Calça Cargo Marrom (P), R$ 589,00 riscado por R$ 530,10, e T-Shirts
+     Oversized Algodão (Preto, P), R$ 129,00 riscado por R$ 0,00;
+   - resumo: "Cupom adicionado CSEMCASACOMCECILIA", subtotal R$ 530,10, desconto -R$ 53,01, frete
+     "Calcular", total R$ 477,09;
+   - barra do topo: "Faltam R$ 121,91 para frete grátis". 599,00 − 477,09 = 121,91: a conta do frete
+     grátis usa o total depois do cupom.
+   - O cupom (10% de R$ 530,10 = R$ 53,01) não incide sobre o brinde, que já está a R$ 0,00.
+2. **Prints:** os três de 15/10, para a imagem do corpo (sem dados pessoais: não há nome, endereço
+   nem CEP neles).
+3. **Depois de 18/10:** o artigo fica no ar como promoção encerrada, apontando para o cupom (opção b).
+
+## Preços de 15/10/2026 (site, preço de tabela e preço com a promoção da loja, antes do cupom)
+
+| Peça | Tabela | No site | Com o cupom (10%) |
+|---|---|---|---|
+| Body Cavado | R$ 169,00 | R$ 50,70 | R$ 45,63 |
+| Body Ombro Único Com Detalhe nas Costas | R$ 159,00 | R$ 79,50 | R$ 71,55 |
+| T-Shirts Oversized Algodão | R$ 129,00 | R$ 129,00 | R$ 116,10 |
+| Body Regata Second Skin Duplo | R$ 159,00 | R$ 127,20 | R$ 114,48 |
+| Kit 3 T-Shirts (Básica, Colorful, Intense) | R$ 387,00 | R$ 258,00 | R$ 232,20 |
+
+Os preços promocionais e o estoque mudam; o texto data a tabela e não promete estoque. Com o kit
+e o brinde, são 4 T-Shirts por R$ 232,20 (R$ 58,05 cada).
