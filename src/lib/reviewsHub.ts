@@ -1,4 +1,7 @@
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { cardImageFit } from '@/lib/cardImage';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import {
   getStoreArticlePageSlugs,
@@ -20,6 +23,7 @@ import {
   countLabel,
   foldSearchText,
   type ShelfArticle,
+  type ShelfCardArticle,
   type ShelfCategory,
   type ShelfSearch,
   type ShelfStore,
@@ -78,24 +82,56 @@ function searchTextOf(review: ListedReview, store: string | undefined): string {
   );
 }
 
-function toShelfArticle(review: ListedReview, stores: readonly Coupon[]): ShelfArticle {
-  const store = stores.find(({ slug }) => slug === review.affiliate)?.brand;
+// O que o cartão mostra, com o endereço e as datas de quem chama.
+function toShelfCard(
+  review: HubReview,
+  stores: readonly Coupon[],
+  href: string,
+  dates: Pick<ShelfCardArticle, 'dayMonth' | 'fullDate'>
+): ShelfCardArticle {
   return {
-    id: review.id,
     slug: review.slug,
-    href: `/reviews/${review.slug}`,
+    href,
     title: review.title,
     type: review.type,
-    category: review.category,
-    publishedAtISO: review.publishedAtISO,
-    ...formatDates(review.publishedAtISO),
-    store,
+    ...dates,
+    store: stores.find(({ slug }) => slug === review.affiliate)?.brand,
     image: review.image ? resolveMediaUrl(review.image) : undefined,
     imageFit: cardImageFit(review),
     imagePosition: review.imagePosition,
     isNew: Boolean(review.isNew),
-    searchText: searchTextOf(review, store),
   };
+}
+
+function toShelfArticle(review: ListedReview, stores: readonly Coupon[]): ShelfArticle {
+  const card = toShelfCard(review, stores, `/reviews/${review.slug}`, formatDates(review.publishedAtISO));
+  return {
+    ...card,
+    id: review.id,
+    category: review.category,
+    publishedAtISO: review.publishedAtISO,
+    searchText: searchTextOf(review, card.store),
+  };
+}
+
+// Os relacionados do fim do artigo nos cartões da estante: o endereço de cada artigo no idioma dele e a data no
+// formato do idioma (a estante de /reviews, só em português, segue com DD/MM/AAAA).
+export function getRelatedShelfCards(
+  reviews: ReadonlyArray<HubReview & { locale?: string }>,
+  locale: CouponCopyLocale
+): ShelfCardArticle[] {
+  const stores = getActiveCoupons();
+  const { dateLocale } = COUPON_STORE_COPY[locale];
+  const dayMonth = new Intl.DateTimeFormat(dateLocale, { day: '2-digit', month: '2-digit', timeZone: 'UTC' });
+  const fullDate = new Intl.DateTimeFormat(dateLocale, { day: '2-digit', month: '2-digit', year: 'numeric', timeZone: 'UTC' });
+  return reviews.map((review) => {
+    if (!review.publishedAtISO) throw new Error(`[reviewsHub] ${review.slug}: relacionado sem publishedAtISO`);
+    const date = new Date(`${review.publishedAtISO.slice(0, 10)}T00:00:00Z`);
+    return toShelfCard(review, stores, getReviewCanonicalPathname(review), {
+      dayMonth: dayMonth.format(date),
+      fullDate: fullDate.format(date),
+    });
+  });
 }
 
 function getPresentCategories(articles: readonly ShelfArticle[]): ShelfCategory[] {
