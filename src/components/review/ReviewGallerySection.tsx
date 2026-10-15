@@ -6,7 +6,7 @@ import { useState, useRef, useCallback, useEffect, type ReactNode } from 'react'
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
 import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingReveal';
 import { FOCUS_RING } from '@/components/ui/focusRing';
-import { ROW_ARROW } from '@/components/ui/useRowScroll';
+import { ROW_ARROW, rowScrollBehavior } from '@/components/ui/useRowScroll';
 import type { Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getArticleCopy } from './articleCopy';
@@ -351,7 +351,7 @@ function Carousel({
       gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
     }
     const cardWidth = firstCard?.offsetWidth || 280;
-    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: 'smooth' });
+    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: rowScrollBehavior() });
   }, []);
 
   if (count === 1) return <div className="flex justify-center py-2">{children}</div>;
