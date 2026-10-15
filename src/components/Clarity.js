@@ -3,13 +3,10 @@
 import Script from "next/script";
 import { useSyncExternalStore } from "react";
 import { shouldEnableClarity } from "@/lib/analytics";
-
-function subscribeToClarityAvailability() {
-  return () => {};
-}
+import { isTrackingAllowed, readConsent, subscribeConsent } from "@/lib/consent";
 
 function getClarityAvailabilitySnapshot() {
-  return shouldEnableClarity(window.location.hostname);
+  return isTrackingAllowed(shouldEnableClarity(window.location.hostname), readConsent());
 }
 
 function getServerClarityAvailabilitySnapshot() {
@@ -18,7 +15,7 @@ function getServerClarityAvailabilitySnapshot() {
 
 export default function Clarity() {
   const enabled = useSyncExternalStore(
-    subscribeToClarityAvailability,
+    subscribeConsent,
     getClarityAvailabilitySnapshot,
     getServerClarityAvailabilitySnapshot,
   );
