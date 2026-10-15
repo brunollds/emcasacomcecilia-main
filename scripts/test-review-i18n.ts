@@ -138,7 +138,6 @@ const SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
   es: [
     'article.kindLabel.editorial',
     'article.editorialNoteTitle',
-    'article.codeChip.reward',
     'article.productSheetOpen',
     'article.relatedVideo',
     'gallery.tabPhotos',

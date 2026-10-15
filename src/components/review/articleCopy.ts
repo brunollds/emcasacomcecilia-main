@@ -12,8 +12,6 @@ const NBSP = ' ';
 // produto, bloco de vídeo, legenda da imagem, o nome da trilha para o leitor de tela (o mesmo das
 // páginas de loja, em couponStoreCopy.tsx) e o rótulo e o fechar da nota editorial, que as receitas
 // usam em PT. A sidebar e o dock têm os deles em sidebarCopy.ts.
-// O código de indicação da SHEIN é da SHEIN Brasil e fora do PT o chip diz isso, com os termos da
-// página da loja (couponTranslations.ts).
 export type ArticleCopy = {
   kindLabel: Record<ReviewKind, string>;
   verdictTitle: string;
@@ -27,12 +25,6 @@ export type ArticleCopy = {
   rated: string;
   strengths: string;
   cautions: string;
-  worthIt: string;
-  codeChip: {
-    coupon: (code: string) => string;
-    reward: (code: string) => string;
-    referral: (code: string, brand: string) => string;
-  };
   heroCaption: (stars: string) => string;
   finalVerdictLink: string;
   productSheet: string;
@@ -80,12 +72,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Avaliado',
     strengths: 'Pontos fortes',
     cautions: 'Pontos de atenção',
-    worthIt: 'Vale a pena',
-    codeChip: {
-      coupon: (code) => `Cupom ${code}`,
-      reward: (code) => `Código de recompensa ${code}`,
-      referral: (code, brand) => `Código de indicação ${brand} ${code}`,
-    },
     heroCaption: (stars) => `Imagem do produto avaliado com nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar link do veredito final',
     productSheet: 'Ficha do produto',
@@ -130,12 +116,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Rated',
     strengths: 'Strengths',
     cautions: 'Things to watch',
-    worthIt: 'Worth it',
-    codeChip: {
-      coupon: (code) => `Discount code ${code}`,
-      reward: (code) => `Reward Code ${code}`,
-      referral: (code, brand) => `${brand} Brazil referral code ${code}`,
-    },
     heroCaption: (stars) => `Product image, rated ${stars} out of 5.`,
     finalVerdictLink: 'Copy link to the final verdict',
     productSheet: 'Product details',
@@ -180,12 +160,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valorado',
     strengths: 'Puntos fuertes',
     cautions: 'Puntos a tener en cuenta',
-    worthIt: 'Vale la pena',
-    codeChip: {
-      coupon: (code) => `Código de descuento ${code}`,
-      reward: (code) => `Código de recompensa ${code}`,
-      referral: (code, brand) => `Código de referido de ${brand} Brasil ${code}`,
-    },
     heroCaption: (stars) => `Imagen del producto valorado con nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar enlace del veredicto final',
     productSheet: 'Ficha del producto',
@@ -230,12 +204,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Évalué',
     strengths: 'Points forts',
     cautions: 'Points de vigilance',
-    worthIt: 'Ça vaut le coup',
-    codeChip: {
-      coupon: (code) => `Code promo ${code}`,
-      reward: (code) => `Code récompense ${code}`,
-      referral: (code, brand) => `Code de parrainage ${brand} Brésil ${code}`,
-    },
     heroCaption: (stars) => `Image du produit évalué, note de ${stars} sur 5.`,
     finalVerdictLink: 'Copier le lien du verdict final',
     productSheet: 'Fiche produit',
@@ -280,12 +248,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Bewertet',
     strengths: 'Stärken',
     cautions: 'Worauf man achten sollte',
-    worthIt: 'Lohnt sich',
-    codeChip: {
-      coupon: (code) => `Rabattcode ${code}`,
-      reward: (code) => `Reward Code ${code}`,
-      referral: (code, brand) => `Empfehlungscode von ${brand} Brasilien ${code}`,
-    },
     heroCaption: (stars) => `Bild des bewerteten Produkts, Note ${stars} von 5.`,
     finalVerdictLink: 'Link zum abschließenden Urteil kopieren',
     productSheet: 'Produktdaten',
@@ -330,12 +292,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valutato',
     strengths: 'Punti di forza',
     cautions: 'Punti di attenzione',
-    worthIt: 'Ne vale la pena',
-    codeChip: {
-      coupon: (code) => `Codice sconto ${code}`,
-      reward: (code) => `Codice ricompensa ${code}`,
-      referral: (code, brand) => `Codice invito ${brand} Brasile ${code}`,
-    },
     heroCaption: (stars) => `Immagine del prodotto valutato, voto ${stars} su 5.`,
     finalVerdictLink: 'Copia il link del verdetto finale',
     productSheet: 'Scheda del prodotto',
@@ -380,12 +336,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '평가 완료',
     strengths: '장점',
     cautions: '참고할 점',
-    worthIt: '살 만해요',
-    codeChip: {
-      coupon: (code) => `할인 코드 ${code}`,
-      reward: (code) => `리워드 코드 ${code}`,
-      referral: (code, brand) => `${brand} 브라질 추천 코드 ${code}`,
-    },
     heroCaption: (stars) => `5점 만점에 ${stars}점으로 평가한 제품 이미지.`,
     finalVerdictLink: '최종 평가 링크 복사',
     productSheet: '제품 정보',
@@ -430,12 +380,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '評価済み',
     strengths: '良い点',
     cautions: '気になる点',
-    worthIt: '買う価値あり',
-    codeChip: {
-      coupon: (code) => `割引コード ${code}`,
-      reward: (code) => `リワードコード ${code}`,
-      referral: (code, brand) => `${brand} ブラジルの紹介コード ${code}`,
-    },
     heroCaption: (stars) => `5点満点中${stars}点と評価した製品の画像。`,
     finalVerdictLink: '最終評価のリンクをコピー',
     productSheet: '製品情報',
@@ -480,12 +424,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已評分',
     strengths: '優點',
     cautions: '注意事項',
-    worthIt: '值得入手',
-    codeChip: {
-      coupon: (code) => `優惠碼 ${code}`,
-      reward: (code) => `獎勵碼 ${code}`,
-      referral: (code, brand) => `${brand} 巴西站推薦碼 ${code}`,
-    },
     heroCaption: (stars) => `評分 ${stars} 分（滿分 5 分）的產品圖片。`,
     finalVerdictLink: '複製最終評價連結',
     productSheet: '產品資訊',
@@ -530,12 +468,6 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已评分',
     strengths: '优点',
     cautions: '注意事项',
-    worthIt: '值得入手',
-    codeChip: {
-      coupon: (code) => `优惠码 ${code}`,
-      reward: (code) => `奖励码 ${code}`,
-      referral: (code, brand) => `${brand} 巴西站推荐码 ${code}`,
-    },
     heroCaption: (stars) => `评分 ${stars} 分（满分 5 分）的产品图片。`,
     finalVerdictLink: '复制最终评价链接',
     productSheet: '产品信息',
