@@ -81,12 +81,14 @@ function HighlightedText({
   className,
   keyPrefix,
   renderTerm,
+  highlightAlone,
 }: {
   text: string;
   activeTerms: string[];
   className: string;
   keyPrefix: string;
   renderTerm?: AnimatedTextHighlightProps['renderTerm'];
+  highlightAlone: boolean;
 }): React.ReactElement {
   if (activeTerms.length === 0) return <>{text}</>;
   // Só a palavra inteira: CECI não deve acender dentro de EMCASACOMCECILIA.
@@ -95,8 +97,8 @@ function HighlightedText({
     'gu'
   );
   const parts = text.split(pattern).filter((part) => part.length > 0);
-  // Um termo sozinho (o negrito **CECILIA10**) também acende.
-  if (parts.length === 1 && !activeTerms.includes(parts[0])) return <>{text}</>;
+  // Nos artigos (d2), um termo sozinho (o negrito **CECILIA10**) também acende; nas receitas segue como sempre foi.
+  if (parts.length === 1 && !(highlightAlone && activeTerms.includes(parts[0]))) return <>{text}</>;
 
   return (
     <>
@@ -141,6 +143,7 @@ export function AnimatedTextHighlight({
                 activeTerms={activeTerms}
                 className={className}
                 keyPrefix={`link-text-${index}`}
+                highlightAlone={variant === 'd2'}
               />
             </a>
           );
@@ -153,6 +156,7 @@ export function AnimatedTextHighlight({
                 activeTerms={activeTerms}
                 className={className}
                 keyPrefix={`bold-text-${index}`}
+                highlightAlone={variant === 'd2'}
                 renderTerm={renderTerm}
               />
             </strong>
@@ -165,6 +169,7 @@ export function AnimatedTextHighlight({
             activeTerms={activeTerms}
             className={className}
             keyPrefix={`seg-${index}`}
+            highlightAlone={variant === 'd2'}
             renderTerm={renderTerm}
           />
         );
