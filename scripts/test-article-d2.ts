@@ -7,6 +7,9 @@ import { getStoreCode } from '@/lib/homeStores';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getReviewHubCopy } from '@/lib/review-hubs';
+import { buildReviewTemplateProps } from '@/lib/review-template-props';
 import { publishedReviews } from '@/lib/data';
 
 const mk = (id: number, o: Partial<{ locale: string; affiliate: string; category: string; type: string; publishedAtISO: string }>) =>
@@ -140,4 +143,17 @@ for (const loc of LOCALE_KEYS) {
   assert.ok(texts.allStoreArticles.includes('12'), `${loc}: contagem fora do texto`);
 }
 
-console.log('✅ artigo D2: relacionados, bloco da loja, textos novos');
+// Trilha: home do idioma > lista de guias com o nome do menu do idioma (em PT, Guias & Análises) > artigo.
+for (const loc of LOCALE_KEYS) {
+  const review = publishedReviews.find((r) => resolveReviewLocale(r.locale) === loc);
+  assert.ok(review, `${loc}: sem artigo publicado`);
+  const { breadcrumbs, breadcrumbJsonLd } = buildReviewTemplateProps(review);
+  const hub = breadcrumbs.at(-1)!;
+  assert.equal(hub.name, getShellCopy(loc).reviewHubLabel, `${loc}: trilha sem o nome da lista de guias`);
+  if (loc === 'pt') assert.equal(hub.name, 'Guias & Análises');
+  else assert.equal(hub.name, getReviewHubCopy(loc).title, `${loc}: trilha diferente do título da lista`);
+  const items = (breadcrumbJsonLd as { itemListElement: Array<{ name: string }> }).itemListElement;
+  assert.equal(items.at(-2)!.name, hub.name, `${loc}: BreadcrumbList diferente da trilha`);
+}
+
+console.log('✅ artigo D2: relacionados, bloco da loja, textos novos e trilha');
