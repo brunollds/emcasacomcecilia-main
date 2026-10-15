@@ -1,15 +1,15 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, PlayCircle } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/components/editorial';
 import type { Review, ReviewViewModel } from '@/lib/content';
+import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
+import { ArticleRelated } from './ArticleRelated';
 import type { ArticleCopy, TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 
@@ -25,11 +25,14 @@ export interface ArticleEndProps {
   hasCta: boolean;
   effectiveCta: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewImage: string;
+  relatedArticles: ShelfCardArticle[];
+  relatedAllHref: string;
 }
 
 // Do vídeo ao compartilhar: o fim da coluna do texto, antes da sidebar. A galeria vem antes do veredito.
 export function ArticleEnd({
   review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, hasCta, effectiveCta, reviewImage,
+  relatedArticles, relatedAllHref,
 }: ArticleEndProps): React.ReactElement {
   // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
   const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
@@ -123,6 +126,13 @@ export function ArticleEnd({
         </section>
       )}
 
+      <ArticleRelated
+        articles={relatedArticles}
+        title={ui.relatedArticles}
+        viewAllLabel={ui.viewAll}
+        viewAllHref={relatedAllHref}
+      />
+
       {/* Share */}
       <EditorialReveal as="section" className="mb-10">
         <ShareBar
@@ -137,76 +147,6 @@ export function ArticleEnd({
           }
         />
       </EditorialReveal>
-    </>
-  );
-}
-
-export interface ArticleAfterProps {
-  ui: TemplateUi;
-  relatedReviews: Review[];
-  reviewHubHref: string;
-}
-
-// Artigos relacionados, depois da grade do texto com a sidebar.
-export function ArticleAfter({ ui, relatedReviews, reviewHubHref }: ArticleAfterProps): React.ReactElement {
-  return (
-    <>
-    {/* Artigos relacionados */}
-    {relatedReviews.length > 0 && (
-      <section className="mt-12 print:hidden">
-        <div className="mb-6 flex items-end justify-between gap-4">
-          <SectionHeadingReveal
-            as="h2"
-            underlineColor="#ff6b35"
-            className="font-editorial text-2xl font-bold text-[#1a4d2e]"
-          >
-            {ui.relatedArticles}
-          </SectionHeadingReveal>
-          <Link
-            href={reviewHubHref}
-            className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
-          >
-            {ui.viewAll}
-            <ArrowRight size={16} />
-          </Link>
-        </div>
-        <div className="grid gap-4 md:grid-cols-3">
-          {relatedReviews.map((item) => (
-            <Link
-              key={item.id}
-              href={getReviewCanonicalPathname(item)}
-              className="group relative min-h-[220px] overflow-hidden rounded-[1.5rem] border border-[#0f1419]/8 bg-[#0f1d3a] p-4 transition-all hover:-translate-y-1 hover:border-[#ff6b35]/30 hover:shadow-md"
-            >
-              {item.image ? (
-                <Image
-                  src={resolveMediaUrl(item.image)}
-                  alt={item.imageAlt || item.title}
-                  fill
-                  className={`transition-transform duration-700 group-hover:scale-105 ${
-                    item.rating ? 'object-contain bg-white p-5' : 'object-cover'
-                  }`}
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                />
-              ) : (
-                <div className="absolute inset-0 bg-gradient-to-br from-[#1a4d2e] to-[#0f1d3a]" />
-              )}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/35 to-black/10" />
-              <div className="relative z-10 flex h-full min-h-[188px] flex-col justify-end">
-                <p className="w-fit rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-[#0f1419]">
-                  {item.type}
-                </p>
-                <h3 className="mt-3 font-heading text-lg font-bold leading-tight text-white">
-                  {item.title}
-                </h3>
-                <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-white/75">
-                  {item.description}
-                </p>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-    )}
     </>
   );
 }

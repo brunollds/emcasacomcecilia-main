@@ -1,6 +1,7 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { getArticleStoreBlock } from '@/lib/articleStore';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
+import { getRelatedShelfCards } from '@/lib/reviewsHub';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -60,12 +61,12 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
   const canonicalRating = review.rating ?? review.verdict?.stars;
   const isProductReview = review.reviewKind === 'produto' || typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
-  const relatedReviews = getRelatedReviews(review, reviewCorpus);
   const relatedArticleLinks = resolveRelatedArticleLinks(review, reviewCorpus);
   const viewModel = normalizeReview(review);
 
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
+  const relatedReviews = getRelatedShelfCards(getRelatedReviews(review, reviewCorpus), localeKey);
   const copy = getShellCopy(localeKey);
   // A lista de guias tem o nome que o menu do idioma usa (em PT, Guias & Análises).
   const reviewHub = localeKey === 'pt'

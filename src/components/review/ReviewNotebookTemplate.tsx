@@ -11,6 +11,7 @@ import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
+import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
@@ -20,7 +21,7 @@ import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
 import { isStepHeading } from './couponCopyLocale';
 import { GuideTimeline } from './GuideTimeline';
 import { ArticleHeader } from './article/ArticleHeader';
-import { ArticleAfter, ArticleEnd } from './article/ArticleEnd';
+import { ArticleEnd } from './article/ArticleEnd';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -34,7 +35,8 @@ export interface ReviewNotebookTemplateProps {
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
-  relatedReviews: Review[];
+  // Os 6 relacionados (pickRelatedReviews), já nos cartões da estante.
+  relatedReviews: ShelfCardArticle[];
   // Recorte do topo (e, depois, bloco da loja e lateral); null em artigo sem loja ativa.
   storeBlock?: ArticleStoreBlock | null;
   relatedArticleLinks: ResolvedRelatedArticle[];
@@ -64,8 +66,9 @@ export function ReviewNotebookTemplate({
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = resolveReviewLocale(review.locale);
-  // A lista de artigos do idioma é o último nível da trilha antes do artigo.
-  const reviewHubHref = breadcrumbs[breadcrumbs.length - 1].href;
+  // O "Ver todos" dos relacionados: a subpágina da loja quando existe; senão, a lista de artigos do idioma, o
+  // último nível da trilha antes do artigo.
+  const relatedAllHref = storeBlock?.articlesHref ?? breadcrumbs[breadcrumbs.length - 1].href;
   const ui = getTemplateUi(couponCopyLocale);
 
   const { kind, plainTextBody } = viewModel;
@@ -345,6 +348,8 @@ export function ReviewNotebookTemplate({
                 hasCta={hasCta}
                 effectiveCta={effectiveCta}
                 reviewImage={reviewImage}
+                relatedArticles={relatedReviews}
+                relatedAllHref={relatedAllHref}
               />
             </div>
 
@@ -361,12 +366,6 @@ export function ReviewNotebookTemplate({
               />
             </aside>
           </div>
-
-          <ArticleAfter
-            ui={ui}
-            relatedReviews={relatedReviews}
-            reviewHubHref={reviewHubHref}
-          />
         </div>
       </EditorialAmbientBackground>
 

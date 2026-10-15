@@ -1,4 +1,6 @@
 import assert from 'node:assert/strict';
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { getArticleStoreBlock, shortenRule } from '@/lib/articleStore';
 import { getCouponBySlug } from '@/lib/couponsData';
@@ -6,6 +8,9 @@ import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations
 import { getStoreCode } from '@/lib/homeStores';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
+import { ReviewGallerySection } from '@/components/review/ReviewGallerySection';
+import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { getReviewHubCopy } from '@/lib/review-hubs';
@@ -156,4 +161,38 @@ for (const loc of LOCALE_KEYS) {
   assert.equal(items.at(-2)!.name, hub.name, `${loc}: BreadcrumbList diferente da trilha`);
 }
 
-console.log('✅ artigo D2: relacionados, bloco da loja, textos novos e trilha');
+// Os relacionados chegam ao template como cartões da estante: os de pickRelatedReviews, na ordem, com o endereço
+// do artigo no idioma dele e a data no formato do idioma. A estante de /reviews segue com DD/MM/AAAA.
+for (const loc of LOCALE_KEYS) {
+  const review = publishedReviews.find((r) => resolveReviewLocale(r.locale) === loc)!;
+  const { relatedReviews } = buildReviewTemplateProps(review);
+  const expected = pickRelatedReviews(review, publishedReviews);
+  assert.equal(relatedReviews.length, 6, `${loc}: ${relatedReviews.length} relacionados`);
+  assert.deepEqual(relatedReviews.map((article) => article.href), expected.map(getReviewCanonicalPathname), `${loc}: relacionados fora da ordem`);
+  assert.deepEqual(relatedReviews.map((article) => article.title), expected.map((item) => item.title));
+  for (const article of relatedReviews) {
+    assert.ok(/\d/.test(article.fullDate) && !/[a-z]/i.test(article.fullDate), `${loc}: data ${article.fullDate}`);
+  }
+  if (loc === 'pt') assert.match(relatedReviews[0].fullDate, /^\d{2}\/\d{2}\/\d{4}$/);
+  if (loc === 'ja') assert.match(relatedReviews[0].fullDate, /^\d{4}\/\d{2}\/\d{2}$/);
+}
+
+// A galeria de um item só sai sem carrossel e sem setas; com dois, é o carrossel de sempre.
+const galleryOf = (count: number) =>
+  renderToStaticMarkup(
+    createElement(ReviewGallerySection, {
+      images: Array.from({ length: count }, (_, index) => ({ image: `/images/teste-${index}.jpg`, alt: `Foto ${index}` })),
+      locale: 'en',
+    })
+  );
+const galleryCopy = getGalleryCopy('en');
+const singleGallery = galleryOf(1);
+assert.ok(singleGallery.includes('teste-0'), 'galeria de um item sem a foto');
+assert.ok(!singleGallery.includes('data-gallery-card'), 'galeria de um item em carrossel');
+for (const label of [galleryCopy.previousPhotos, galleryCopy.nextPhotos]) assert.ok(!singleGallery.includes(label), `galeria de um item com "${label}"`);
+const pairGallery = galleryOf(2);
+assert.equal(pairGallery.match(/data-gallery-card/g)?.length, 2, 'galeria de dois itens sem o carrossel');
+assert.ok(pairGallery.includes(galleryCopy.nextPhotos), 'carrossel sem as setas');
+assert.equal(galleryOf(0), '', 'galeria vazia renderizou');
+
+console.log('✅ artigo D2: relacionados, bloco da loja, textos novos, trilha e galeria');
