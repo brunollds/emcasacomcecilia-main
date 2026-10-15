@@ -11,7 +11,8 @@ import { getBreadcrumbListJsonLd, type PageLink } from '@/lib/pageSeo';
 type PageHeaderProps = {
   trail: readonly PageLink[];
   title: string;
-  intro: ReactNode;
+  // Sem introdução (o /buscar com um termo), a fila de botões sobe para logo depois do título.
+  intro?: ReactNode;
   aside?: ReactNode;
   // Os botões, embaixo da introdução.
   children?: ReactNode;
@@ -37,9 +38,11 @@ export function PageHeader({ trail, title, intro, aside, children }: PageHeaderP
         </div>
         {aside ? <div className="lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:self-center lg:p-2">{aside}</div> : null}
         <div className={`flex flex-col gap-6 ${aside ? 'col-span-2 lg:col-span-1 lg:col-start-1 lg:row-start-2 lg:self-start' : ''}`}>
-          <div className="flex max-w-2xl flex-col gap-3 text-base leading-relaxed font-medium text-marinho-suave md:text-lg">
-            {typeof intro === 'string' ? <p>{intro}</p> : intro}
-          </div>
+          {intro ? (
+            <div className="flex max-w-2xl flex-col gap-3 text-base leading-relaxed font-medium text-marinho-suave md:text-lg">
+              {typeof intro === 'string' ? <p>{intro}</p> : intro}
+            </div>
+          ) : null}
           {children ? <div className="flex flex-wrap items-center gap-3">{children}</div> : null}
         </div>
       </div>
