@@ -4,6 +4,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import Clarity from '@/components/Clarity';
+import ConsentBanner from '@/components/ConsentBanner';
+import { getConsentCopy } from '@/components/consent/consentCopy';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
 import { SEARCH_ACTION_URL_TEMPLATE } from '@/lib/siteSearch.mjs';
@@ -158,6 +160,7 @@ export function RootLayoutShell({
         <Navbar lang={lang} />
         {children}
         <Footer lang={lang} />
+        <ConsentBanner copy={getConsentCopy(loc)} />
         <Analytics />
         <Clarity />
       </body>
