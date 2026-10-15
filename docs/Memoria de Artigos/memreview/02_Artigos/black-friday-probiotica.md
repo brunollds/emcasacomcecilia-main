@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+proxima_acao: "reconferir-precos-fim-de-outubro"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 40

@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+proxima_acao: "reconferir-precos-fim-de-outubro"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80

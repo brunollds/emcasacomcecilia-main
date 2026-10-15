@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+proxima_acao: "reconferir-precos-fim-de-outubro"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
