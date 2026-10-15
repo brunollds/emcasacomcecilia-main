@@ -51,34 +51,50 @@ function keepCurrencyTogether(text: string): string {
 // cartões (um por linha) feita com os mesmos th/td, e o rótulo de cada campo sai do data-label.
 // Sombra de "tem mais à direita": a camada fixa (scroll) fica na borda visível e a branca (local) corre
 // com o conteúdo e a cobre quando a rolagem chega ao fim. Passa por baixo das células, por isso as que
-// rolam têm fundo translúcido (o branco e o creme de sempre sobre o contêiner branco); só a coluna fixa é opaca.
+// rolam têm fundo translúcido (as listras em marinho/4 sobre o contêiner branco); só a coluna fixa é opaca.
 const COMPARISON_WRAPPER = [
-  'mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft',
-  'sm:[background-image:linear-gradient(to_left,#fff_35%,transparent),radial-gradient(farthest-side_at_100%_50%,rgb(26_77_46/0.22),transparent)]',
+  'mt-6 overflow-x-auto rounded-2xl border-2 border-marinho bg-white',
+  'sm:[background-image:linear-gradient(to_left,#fff_35%,transparent),radial-gradient(farthest-side_at_100%_50%,rgb(15_29_58/0.22),transparent)]',
   'sm:[background-position:right_center] sm:[background-size:2.5rem_100%,0.9rem_100%]',
   'sm:[background-repeat:no-repeat] sm:[background-attachment:local,scroll]',
 ].join(' ');
 
 // Cada coluna tem piso de largura próprio (a tabela em si só tem w-full): 7 colunas de células curtas
 // cabem na coluna do artigo e só a tabela mais larga que ela rola. No papel o piso sai, para não cortar.
-const COMPARISON_CELL = 'align-top border-[#1a4d2e]/10 sm:border-r sm:last:border-r-0';
+const COMPARISON_CELL = 'align-top border-marinho/15 sm:border-r sm:last:border-r-0';
 
 const COMPARISON_COLUMN_MIN_WIDTH = 'sm:min-w-[6rem] print:min-w-0';
 
+// A listra da coluna fixa: o marinho/4 das linhas sobre o branco, opaco.
+const STRIPE_OPAQUE = 'sm:bg-[#f5f6f7]';
+
 const COMPARISON_STICKY_CELL =
-  'sm:sticky sm:left-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(26_77_46/0.16)]';
+  'sm:sticky sm:left-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(15_29_58/0.16)]';
 
-const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-left font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-[#0f1419]/70 sm:border-b-2 sm:border-b-[#1a4d2e]/20`;
+const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-left font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-marinho-suave sm:border-b-2 sm:border-b-marinho`;
 
-const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-left font-semibold text-[#1a4d2e] sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
+const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-left font-bold text-marinho sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
 
-const COMPARISON_DATA_CELL = `${COMPARISON_CELL} ${COMPARISON_COLUMN_MIN_WIDTH} text-[#24313d] sm:border-b max-sm:block max-sm:border-t max-sm:py-2 max-sm:before:mb-0.5 max-sm:before:block max-sm:before:font-heading max-sm:before:text-[0.68rem] max-sm:before:font-bold max-sm:before:uppercase max-sm:before:leading-snug max-sm:before:tracking-[0.1em] max-sm:before:text-[#0f1419]/55 max-sm:before:content-[attr(data-label)]`;
+const COMPARISON_DATA_CELL = `${COMPARISON_CELL} ${COMPARISON_COLUMN_MIN_WIDTH} text-marinho sm:border-b max-sm:block max-sm:border-t max-sm:py-2 max-sm:before:mb-0.5 max-sm:before:block max-sm:before:font-heading max-sm:before:text-[0.68rem] max-sm:before:font-bold max-sm:before:uppercase max-sm:before:leading-snug max-sm:before:tracking-[0.1em] max-sm:before:text-marinho-suave max-sm:before:content-[attr(data-label)]`;
 
 // Padding e altura de linha de sm para cima; a tabela de 6 colunas ou mais é compacta. O celular (cartões) não muda.
 const COMPARISON_SPACING = {
   roomy: { head: 'sm:px-4 sm:py-3', body: 'leading-6 sm:px-4 sm:py-3.5' },
   compact: { head: 'sm:px-3 sm:py-2.5', body: 'leading-6 sm:px-3 sm:py-3 sm:leading-5' },
 } as const;
+
+// Prós e contras: o título de cada coluna (verde e amarelo) e a célula de cada item.
+const PROS_HEADING = 'border-marinho bg-verde-claro px-5 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-verde-escuro';
+const CONS_HEADING = 'border-marinho bg-amarelo-cupom/40 px-5 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-marinho';
+const PROS_CONS_CELL = 'flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-marinho';
+
+// O acordeão do FAQ e o da seção (accordionBlock): pergunta em negrito e o + que vira x ao abrir.
+const ACCORDION_SUMMARY = `flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 py-3 font-extrabold text-marinho [&::-webkit-details-marker]:hidden ${FOCUS_RING}`;
+const ACCORDION_ICON =
+  'flex h-8 w-8 shrink-0 items-center justify-center rounded-full border-2 border-marinho bg-white text-xl font-bold text-marinho transition-transform group-open:rotate-45 group-open:bg-amarelo-cupom motion-reduce:transition-none';
+
+// Botão dos links da seção (loja, página de cupom, link externo).
+const SECTION_LINK = `inline-flex min-h-11 items-center gap-1.5 rounded-[10px] border-2 border-marinho bg-white px-5 py-2 text-sm font-extrabold text-marinho wrap-anywhere transition-colors hover:bg-amarelo-cupom ${FOCUS_RING}`;
 
 // Tabela de 6 colunas ou mais pode rolar (no tablet ou com célula longa); o contêiner vira região com foco de teclado.
 const COMPARISON_SCROLL_MIN_COLUMNS = 6;
@@ -121,19 +137,19 @@ export function ReviewSectionContent({
 
   const renderEmphasisBlock = (withImage: boolean = true) => (
     <div className={withImage && section.image ? 'my-6 grid grid-cols-1 gap-6 md:grid-cols-[1fr_200px] items-center' : 'my-6'}>
-      <div className="group">
+      <div>
         <PretextShrinkwrap
           text={section.emphasis}
           font="italic 400 18px Lora, Georgia, serif"
           lineHeight={30}
           minWidth={260}
           maxWidthRatio={0.9}
-          className="rounded-r-xl border-l-[3px] border-[#ff6b35] bg-[#ff6b35]/5 px-5 py-4 transition-colors duration-300 group-hover:border-[#1a4d2e] group-hover:bg-[#ff6b35]/10"
+          className="rounded-r-xl border-l-[6px] border-marinho bg-amarelo-cupom/25 px-5 py-4"
         >
-          <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-[#4a5568]">
+          <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-marinho">
             &quot;<HighlightCoupon text={section.emphasis} />&quot;
           </blockquote>
-          <cite className="mt-3 block text-sm not-italic opacity-70">Cecília Mauad</cite>
+          <cite className="mt-3 block text-sm font-bold not-italic text-marinho-suave">Cecília Mauad</cite>
         </PretextShrinkwrap>
       </div>
       {withImage && section.image && (
@@ -161,7 +177,7 @@ export function ReviewSectionContent({
                 delay={0}
                 distance={14}
               >
-                <DropCapParagraph text={paragraph} highlightTerms={COUPON_HIGHLIGHT_TERMS} />
+                <DropCapParagraph text={paragraph} highlightTerms={COUPON_HIGHLIGHT_TERMS} variant="d2" />
               </EditorialReveal>
               {shouldRenderEmphasisAfter && section.emphasis && renderEmphasisBlock(false)}
             </React.Fragment>
@@ -174,7 +190,7 @@ export function ReviewSectionContent({
               as="p"
               delay={Math.min(paragraphIndex * 0.05, 0.25)}
               distance={14}
-              className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0"
+              className="mb-4 font-editorial text-lg leading-8 text-marinho last:mb-0"
             >
               <HighlightCoupon text={paragraph} />
             </EditorialReveal>
@@ -199,14 +215,14 @@ export function ReviewSectionContent({
           <table role="table" className="border-separate border-spacing-0 text-left text-sm max-sm:block sm:w-full">
             <caption className="sr-only">{comparisonCaption}</caption>
             <thead role="rowgroup" className="max-sm:sr-only">
-              <tr role="row" className="bg-[rgb(238_155_55/0.06)]">
+              <tr role="row" className="bg-white">
                 {comparisonTable.headers.map((header, headerIndex) => (
                   <th
                     key={header}
                     role="columnheader"
                     scope="col"
                     className={headerIndex === 0
-                      ? `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_STICKY_CELL} sm:bg-[#fef9f3]`
+                      ? `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_STICKY_CELL} sm:bg-white`
                       : `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_COLUMN_MIN_WIDTH}`}
                   >
                     {header}
@@ -216,7 +232,7 @@ export function ReviewSectionContent({
             </thead>
             <tbody
               role="rowgroup"
-              className="max-sm:block max-sm:divide-y max-sm:divide-[#1a4d2e]/10 sm:[&>tr:last-child>*]:border-b-0"
+              className="max-sm:block max-sm:divide-y max-sm:divide-marinho/15 sm:[&>tr:last-child>*]:border-b-0"
             >
               {comparisonTable.rows.map((row, rowIndex) => {
                 const isStriped = rowIndex % 2 !== 0;
@@ -224,14 +240,14 @@ export function ReviewSectionContent({
                   <tr
                     key={`${row[0]}-${rowIndex}`}
                     role="row"
-                    className={`max-sm:block max-sm:px-4 max-sm:py-4 ${isStriped ? 'bg-[rgb(172_138_55/0.06)]' : ''}`}
+                    className={`max-sm:block max-sm:px-4 max-sm:py-4 ${isStriped ? 'bg-marinho/4' : ''}`}
                   >
                     {row.map((cell, cellIndex) => cellIndex === 0 ? (
                       <th
                         key={`${cell}-${cellIndex}`}
                         role="rowheader"
                         scope="row"
-                        className={`${COMPARISON_ROW_HEAD_CELL} ${comparisonSpacing.body} ${isStriped ? 'sm:bg-[#faf8f3]' : 'sm:bg-white'}`}
+                        className={`${COMPARISON_ROW_HEAD_CELL} ${comparisonSpacing.body} ${isStriped ? STRIPE_OPAQUE : 'sm:bg-white'}`}
                       >
                         <HighlightCoupon text={keepCurrencyTogether(cell)} />
                       </th>
@@ -257,7 +273,7 @@ export function ReviewSectionContent({
       {section.notice && (
         <p
           role="note"
-          className="mt-6 rounded-xl border-2 border-[#1a4d2e] bg-white px-5 py-4 font-heading text-sm font-bold uppercase leading-6 tracking-wide text-[#1a4d2e]"
+          className="mt-6 rounded-xl border-2 border-marinho bg-white px-5 py-4 font-heading text-sm font-bold uppercase leading-6 tracking-wide text-marinho"
         >
           {section.notice}
         </p>
@@ -266,34 +282,34 @@ export function ReviewSectionContent({
       {section.video && <ReviewSectionVideo video={section.video} title={section.heading || reviewTitle} locale={locale} />}
 
       {shouldRenderProsConsTable && (
-        <div className="mt-6 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+        <div className="mt-6 overflow-hidden rounded-2xl border-2 border-marinho bg-white">
           <div className="grid gap-0 md:hidden">
-            <div className="border-b border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
+            <div className={`border-b-2 ${PROS_HEADING}`}>
               Prós
             </div>
-            <div className="divide-y divide-[#1a4d2e]/10">
+            <div className="divide-y divide-marinho/15">
               {prosItems.map((item, itemIndex) => (
                 <EditorialReveal
                   key={`mobile-pro-${itemIndex}-${item.text}`}
                   delay={Math.min(itemIndex * 0.04, 0.28)}
-                  className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
+                  className={PROS_CONS_CELL}
                 >
-                  <span className="font-bold text-[#1a4d2e]">+</span>
+                  <span className="font-bold text-verde-escuro">+</span>
                   <span className="min-w-0"><HighlightCoupon text={item.text} /></span>
                 </EditorialReveal>
               ))}
             </div>
-            <div className="border-y border-[#ff6b35]/15 bg-[#fff3ee] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#d94b21]">
+            <div className={`border-y-2 ${CONS_HEADING}`}>
               Contras
             </div>
-            <div className="divide-y divide-[#ff6b35]/10 bg-[#fffaf7]">
+            <div className="divide-y divide-marinho/15">
               {consItems.map((item, itemIndex) => (
                 <EditorialReveal
                   key={`mobile-con-${itemIndex}-${item.text}`}
                   delay={Math.min(itemIndex * 0.04, 0.28)}
-                  className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
+                  className={PROS_CONS_CELL}
                 >
-                  <span className="font-bold text-[#ff6b35]">−</span>
+                  <span className="font-bold text-marinho">−</span>
                   <span className="min-w-0"><HighlightCoupon text={item.text} /></span>
                 </EditorialReveal>
               ))}
@@ -301,39 +317,39 @@ export function ReviewSectionContent({
           </div>
 
           <div className="hidden md:block">
-            <div className="grid grid-cols-2">
-              <div className="border-b border-r border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
+            <div className="grid grid-cols-2 border-b-2 border-marinho">
+              <div className={`border-r-2 ${PROS_HEADING}`}>
                 Prós
               </div>
-              <div className="border-b border-[#ff6b35]/15 bg-[#fff3ee] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#d94b21]">
+              <div className={CONS_HEADING}>
                 Contras
               </div>
             </div>
-            <div className="divide-y divide-[#1a4d2e]/10">
+            <div className="divide-y divide-marinho/15">
               {prosConsRows.map((row, rowIndex) => (
                 <EditorialReveal
                   key={`pros-cons-row-${rowIndex}`}
                   delay={Math.min(rowIndex * 0.04, 0.28)}
                   className="grid md:grid-cols-2"
                 >
-                  <div className="flex min-h-14 items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d] md:border-r md:border-[#1a4d2e]/10">
+                  <div className={`min-h-14 md:border-r-2 md:border-marinho ${PROS_CONS_CELL}`}>
                     {row.pro ? (
                       <>
-                        <span className="font-bold text-[#1a4d2e]">+</span>
+                        <span className="font-bold text-verde-escuro">+</span>
                         <span className="min-w-0"><HighlightCoupon text={row.pro} /></span>
                       </>
                     ) : (
-                      <span className="text-[#24313d]/35">—</span>
+                      <span className="text-marinho/35">—</span>
                     )}
                   </div>
-                  <div className="flex min-h-14 items-start gap-2 bg-[#fffaf7] px-5 py-4 font-editorial text-base leading-7 text-[#24313d]">
+                  <div className={`min-h-14 ${PROS_CONS_CELL}`}>
                     {row.con ? (
                       <>
-                        <span className="font-bold text-[#ff6b35]">−</span>
+                        <span className="font-bold text-marinho">−</span>
                         <span className="min-w-0"><HighlightCoupon text={row.con} /></span>
                       </>
                     ) : (
-                      <span className="text-[#24313d]/35">—</span>
+                      <span className="text-marinho/35">—</span>
                     )}
                   </div>
                 </EditorialReveal>
@@ -344,22 +360,20 @@ export function ReviewSectionContent({
       )}
 
       {faqItems.length > 0 && (
-        <div className="mt-5 space-y-4">
+        <div className="mt-5 border-t-2 border-marinho">
           {faqItems.map((faq, faqIndex) => (
             <EditorialReveal
               key={`faq-${faqIndex}`}
               delay={Math.min(faqIndex * 0.06, 0.3)}
               distance={12}
             >
-              <details className="group rounded-[1.5rem] border border-[#1a4d2e]/10 bg-white px-6 py-5 shadow-soft transition-all duration-300 hover:-translate-y-0.5 hover:border-[#ff6b35]/30 hover:shadow-md open:border-[#ff6b35]/40 open:bg-[#fef9f3]">
-                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
+              <details className="group border-b-2 border-marinho">
+                <summary className={ACCORDION_SUMMARY}>
                   <span className="min-w-0"><HighlightCoupon text={faq.question} /></span>
-                  <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[#fef9f3] text-xl font-semibold text-[#ff6b35] shadow-[inset_0_0_0_1px_rgba(255,107,53,0.10)] transition-all duration-300 group-hover:bg-[#ff6b35]/10 group-open:rotate-45 group-open:bg-[#ff6b35] group-open:text-white">
-                    +
-                  </span>
+                  <span className={ACCORDION_ICON}>+</span>
                 </summary>
-                <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4">
-                  <p className="font-editorial text-base leading-relaxed text-[#24313d]">
+                <div className="faq-answer pb-4">
+                  <p className="font-editorial text-base leading-relaxed text-marinho">
                     <HighlightCoupon text={faq.answer} />
                   </p>
                 </div>
@@ -377,9 +391,9 @@ export function ReviewSectionContent({
               key={`b-${bulletIndex}`}
               delay={Math.min(bulletIndex * 0.06, 0.3)}
               distance={12}
-              className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
+              className="flex items-start gap-3 font-editorial text-lg leading-8 text-marinho"
             >
-              <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
+              <span aria-hidden="true" className="mt-2.5 h-3 w-3 shrink-0 rounded-full border-2 border-marinho bg-amarelo-cupom" />
               <span className="min-w-0">
                 <HighlightCoupon text={item} />
               </span>
@@ -391,23 +405,23 @@ export function ReviewSectionContent({
       {shouldRenderTopTen && <TopTenList items={section.bullets} />}
 
       {section.couponTiers && section.couponTiers.length > 0 && (
-        <div className="mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+        <div className="mt-6 overflow-x-auto rounded-2xl border-2 border-marinho bg-white">
           <table className="w-full min-w-[480px] border-collapse text-left text-sm">
             <caption className="sr-only">Faixas de cupom: código, desconto e compra mínima</caption>
             <thead>
-              <tr className="bg-[#fef9f3]">
-                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+              <tr className="border-b-2 border-marinho">
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-marinho-suave">
                   Cupom (clique para copiar)
                 </th>
-                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-marinho-suave">
                   Desconto
                 </th>
-                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-marinho-suave">
                   Compra mínima
                 </th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-black/8">
+            <tbody className="divide-y divide-marinho/15">
               {section.couponTiers.map((tier) => (
                 <tr key={tier.code}>
                   <td className="px-4 py-3">
@@ -420,8 +434,8 @@ export function ReviewSectionContent({
                       className="font-mono text-xs font-black"
                     />
                   </td>
-                  <td className="px-4 py-3 font-semibold text-[#0f1419]">{tier.discount}</td>
-                  <td className="px-4 py-3 text-[#0f1419]/78">{tier.minPurchase}</td>
+                  <td className="px-4 py-3 font-bold text-marinho">{tier.discount}</td>
+                  <td className="px-4 py-3 text-marinho-suave">{tier.minPurchase}</td>
                 </tr>
               ))}
             </tbody>
@@ -434,7 +448,7 @@ export function ReviewSectionContent({
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
             const couponPage = internal && isCouponPageLink(link.href);
-            const className = 'inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white wrap-anywhere transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md';
+            const className = SECTION_LINK;
 
             if (couponPage) {
               return (
@@ -499,16 +513,14 @@ export function ReviewSectionContent({
 
       {section.accordionBlock && (
         <div className="mt-6">
-          <details className="group rounded-[1.5rem] border border-[#1a4d2e]/20 bg-[#f1f1ee] px-6 py-5 shadow-soft transition-all duration-300 hover:border-[#1a4d2e]/30 open:bg-[#e6e6e2]">
-            <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
+          <details className="group rounded-2xl border-2 border-marinho bg-white px-5">
+            <summary className={ACCORDION_SUMMARY}>
               <span className="min-w-0">{section.accordionBlock.heading}</span>
-              <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-white text-xl font-semibold text-[#1a4d2e] shadow-[inset_0_0_0_1px_rgba(26,77,46,0.10)] transition-all duration-300 group-hover:bg-[#1a4d2e]/10 group-open:rotate-45 group-open:bg-[#1a4d2e] group-open:text-white">
-                +
-              </span>
+              <span className={ACCORDION_ICON}>+</span>
             </summary>
-            <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4 space-y-3">
+            <div className="faq-answer space-y-3 border-t-2 border-marinho/15 py-4">
               {section.accordionBlock.paragraphs.map((p, idx) => (
-                <p key={idx} className="font-editorial text-base leading-relaxed text-[#24313d]">
+                <p key={idx} className="font-editorial text-base leading-relaxed text-marinho">
                   <HighlightCoupon text={p} />
                 </p>
               ))}
@@ -523,7 +535,7 @@ export function ReviewSectionContent({
           key={`post-p-${paragraphIndex}`}
           delay={Math.min(paragraphIndex * 0.05, 0.25)}
           distance={14}
-          className="mt-6 font-editorial text-lg leading-8 text-[#24313d] last:mb-0"
+          className="mt-6 font-editorial text-lg leading-8 text-marinho last:mb-0"
         >
           <HighlightCoupon text={paragraph} />
         </EditorialReveal>

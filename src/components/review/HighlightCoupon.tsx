@@ -20,5 +20,5 @@ export interface HighlightCouponProps {
 }
 
 export function HighlightCoupon({ text }: HighlightCouponProps): React.ReactElement {
-  return <AnimatedTextHighlight text={text} terms={COUPON_HIGHLIGHT_TERMS} />;
+  return <AnimatedTextHighlight text={text} terms={COUPON_HIGHLIGHT_TERMS} variant="d2" />;
 }
