@@ -36,12 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[black-friday-black-skull]] — Black Skull / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
-- [ ] [[black-friday-max-titanium]] — Max Titanium / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
-- [ ] [[black-friday-dr-peanut]] — Dr. Peanut / Guia de Black Friday 2026 (Score Aut: 55 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
-- [ ] [[black-friday-probiotica]] — Probiótica / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 62; JSON e capa prontos, build verde em 15/10/2026)
-- [ ] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55; JSON e capa prontos, build verde em 15/10/2026)
-- [ ] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55; JSON e capa prontos, build verde em 15/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -102,6 +97,12 @@
 - [x] [[clea-store-e-confiavel]] — Cléa Store / Cléa Store é confiável? Quem vende, site oficial, trocas e reputação (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 74 / Conv: 72; onboarding) 🚀
 - [x] [[clea-store-reclame-aqui-nota-reputacao]] — Cléa Store / Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 72 / Conv: 64; onboarding) 🚀
 - [x] [[cupom-clea-store-como-usar]] — Cléa Store / Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10% (No ar em 15/10/2026, PR #106, release `a76ce08`; Score Aut: 68 / Conv: 88; onboarding) 🚀
+- [x] [[black-friday-black-skull]] — Black Skull / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 60 / Conv: 80) 🚀
+- [x] [[black-friday-max-titanium]] — Max Titanium / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 60 / Conv: 80) 🚀
+- [x] [[black-friday-dr-peanut]] — Dr. Peanut / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 55 / Conv: 80) 🚀
+- [x] [[black-friday-probiotica]] — Probiótica / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 62) 🚀
+- [x] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
+- [x] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
