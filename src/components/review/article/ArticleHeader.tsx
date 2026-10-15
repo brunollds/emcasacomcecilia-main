@@ -56,7 +56,7 @@ export function ArticleHeader({
   const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
 
   return (
-    <header className="mb-10 text-marinho">
+    <header data-article="topo" className="mb-10 text-marinho">
       <nav aria-label={copy.breadcrumbLabel}>
         <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px] text-marinho-suave">
           {breadcrumbs.map(({ name, href }) => (
@@ -128,15 +128,19 @@ export function ArticleHeader({
             <span className="sr-only">{copy.ratingLabel(stars)}</span>
           </span>
         )}
-        {/* O botão traz margem própria (é o mesmo das receitas); na linha de dados ela sai. */}
-        <div className="[&>div]:m-0">
-          <TextToSpeechButton text={speechText} label={getShellCopy(couponCopyLocale).listenAudio} />
-        </div>
+        <TextToSpeechButton
+          text={speechText}
+          label={getShellCopy(couponCopyLocale).listenAudio}
+          pauseLabel={copy.listenPause}
+          resumeLabel={copy.listenResume}
+          stopLabel={copy.listenStop}
+          variant="d2"
+        />
       </div>
 
       {review.changelog && review.changelog.length > 0 && (
         <div className="mt-3">
-          <ChangelogDetails entries={review.changelog} />
+          <ChangelogDetails entries={review.changelog} variant="d2" />
         </div>
       )}
       {unanchoredNotes.length > 0 && (

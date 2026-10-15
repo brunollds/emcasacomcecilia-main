@@ -57,6 +57,10 @@ export type ArticleCopy = {
   authorBoxLink: string;
   // Abre a nota de transparência do topo, que fica numa linha.
   disclosureMore: string;
+  // Botões do áudio do artigo, depois de tocar (o "Ouvir artigo" vem do shellDictionary).
+  listenPause: string;
+  listenResume: string;
+  listenStop: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -103,6 +107,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'Conto o que testo em casa e trago os códigos das lojas parceiras.',
     authorBoxLink: 'Conheça a Cecília',
     disclosureMore: 'Ler mais',
+    listenPause: 'Pausar',
+    listenResume: 'Continuar',
+    listenStop: 'Parar',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -147,6 +154,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'I share what I try at home and the codes from the stores I partner with.',
     authorBoxLink: 'Meet Cecília',
     disclosureMore: 'Read more',
+    listenPause: 'Pause',
+    listenResume: 'Resume',
+    listenStop: 'Stop',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -191,6 +201,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'Comparto lo que pruebo en casa y los códigos de las tiendas con las que colaboro.',
     authorBoxLink: 'Conoce a Cecília',
     disclosureMore: 'Leer más',
+    listenPause: 'Pausa',
+    listenResume: 'Reanudar',
+    listenStop: 'Detener',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -235,6 +248,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'Je partage ce que je teste chez moi et les codes des boutiques avec lesquelles je travaille.',
     authorBoxLink: 'Découvrir Cecília',
     disclosureMore: 'Lire la suite',
+    listenPause: 'Pause',
+    listenResume: 'Reprendre',
+    listenStop: 'Arrêter',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -279,6 +295,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'Ich teile, was ich zu Hause ausprobiere, und die Codes der Shops, mit denen ich zusammenarbeite.',
     authorBoxLink: 'Cecília kennenlernen',
     disclosureMore: 'Mehr lesen',
+    listenPause: 'Pause',
+    listenResume: 'Fortsetzen',
+    listenStop: 'Stopp',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -323,6 +342,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: 'Condivido quello che provo a casa e i codici dei negozi con cui collaboro.',
     authorBoxLink: 'Conosci Cecília',
     disclosureMore: 'Leggi di più',
+    listenPause: 'Pausa',
+    listenResume: 'Riprendi',
+    listenStop: 'Interrompi',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -367,6 +389,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: '집에서 직접 써 본 것과 함께하는 스토어의 코드를 소개해요.',
     authorBoxLink: 'Cecília 더 알아보기',
     disclosureMore: '더 보기',
+    listenPause: '일시정지',
+    listenResume: '계속 듣기',
+    listenStop: '정지',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -411,6 +436,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: '家で試したものと、提携ショップのコードを紹介しています。',
     authorBoxLink: 'Cecíliaについて',
     disclosureMore: '続きを読む',
+    listenPause: '一時停止',
+    listenResume: '再開',
+    listenStop: '停止',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -455,6 +483,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: '我分享在家試過的東西，以及合作商店的代碼。',
     authorBoxLink: '認識 Cecília',
     disclosureMore: '閱讀全文',
+    listenPause: '暫停',
+    listenResume: '繼續',
+    listenStop: '停止',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -499,6 +530,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxBody: '我分享在家试过的东西，以及合作商店的代码。',
     authorBoxLink: '认识 Cecília',
     disclosureMore: '阅读全文',
+    listenPause: '暂停',
+    listenResume: '继续',
+    listenStop: '停止',
   },
 };
 
