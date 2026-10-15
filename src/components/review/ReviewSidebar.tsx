@@ -2,6 +2,7 @@
 
 import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
+import { useEffect, useRef } from 'react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { FOCUS_RING } from '@/components/ui/focusRing';
@@ -160,9 +161,24 @@ export function ReviewSidebar({
   const hasToc = tocItems.length > 0;
   const hasRelated = relatedArticleLinks.length > 0;
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
+  const tocListRef = useRef<HTMLUListElement>(null);
   const locale = resolveReviewLocale(review.locale);
   const copy = getSidebarCopy(locale);
   const article = getArticleCopy(locale);
+
+  // O sumário longo rola dentro da própria lista, para o recorte logo abaixo caber na tela. A seção atual fica à
+  // vista rolando só a lista, como a gaveta do celular: a página não se mexe.
+  useEffect(() => {
+    const list = tocListRef.current;
+    const current = list?.querySelector<HTMLElement>('[aria-current="location"]');
+    if (!list || !current) return;
+    const listBox = list.getBoundingClientRect();
+    const itemBox = current.getBoundingClientRect();
+    const offset = itemBox.top < listBox.top ? itemBox.top - listBox.top - 4 : itemBox.bottom > listBox.bottom ? itemBox.bottom - listBox.bottom + 4 : 0;
+    if (!offset) return;
+    const smooth = window.matchMedia('(prefers-reduced-motion: no-preference)').matches;
+    list.scrollTo({ top: list.scrollTop + offset, behavior: smooth ? 'smooth' : 'auto' });
+  }, [activeIndex]);
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -174,7 +190,8 @@ export function ReviewSidebar({
       {hasToc && (
         <nav aria-label={copy.sectionsNav} className={BOX}>
           <BoxTitle>{copy.tocTitle}</BoxTitle>
-          <ul className="space-y-1">
+          {/* O px-1.5 dá lugar ao anel de foco dentro da rolagem. */}
+          <ul ref={tocListRef} className="-mx-1.5 max-h-[min(40dvh,22rem)] space-y-1 overflow-y-auto overscroll-contain px-1.5 py-0.5">
             {tocItems.map((item, index) => (
               <li key={item.id}>
                 <a
