@@ -5,6 +5,18 @@ import { splitInlineMarkdown } from '@/lib/inlineMarkdown';
 
 const DEFAULT_TERMS = ['CECILIA12'];
 
+// Link e negrito do texto: 'd2' é o dos artigos, em marinho com o sublinhado amarelo.
+const INLINE_STYLES = {
+  editorial: {
+    link: 'font-semibold text-[#1a4d2e] underline decoration-[#ff6b35]/50 underline-offset-2 transition-colors hover:text-[#ff6b35]',
+    bold: 'font-bold text-[#1a4d2e]',
+  },
+  d2: {
+    link: 'font-semibold text-marinho underline decoration-amarelo-cupom decoration-2 underline-offset-2 transition-colors hover:decoration-marinho',
+    bold: 'font-bold text-marinho',
+  },
+} as const;
+
 function escapeRegExp(value: string): string {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
@@ -58,6 +70,7 @@ export interface AnimatedTextHighlightProps {
   text: string;
   terms?: string[];
   className?: string;
+  variant?: keyof typeof INLINE_STYLES;
 }
 
 function HighlightedText({
@@ -100,7 +113,9 @@ export function AnimatedTextHighlight({
   text,
   terms = DEFAULT_TERMS,
   className = '',
+  variant = 'editorial',
 }: AnimatedTextHighlightProps): React.ReactElement {
+  const styles = INLINE_STYLES[variant];
   const activeTerms = useMemo(
     () => terms.filter(Boolean).sort((a, b) => b.length - a.length),
     [terms]
@@ -118,7 +133,7 @@ export function AnimatedTextHighlight({
               href={segment.href}
               target={segment.href.startsWith('/') ? undefined : '_blank'}
               rel={segment.href.startsWith('/') ? undefined : 'noopener noreferrer'}
-              className="font-semibold text-[#1a4d2e] underline decoration-[#ff6b35]/50 underline-offset-2 transition-colors hover:text-[#ff6b35]"
+              className={styles.link}
             >
               <HighlightedText
                 text={segment.text}
@@ -131,7 +146,7 @@ export function AnimatedTextHighlight({
         }
         if (segment.type === 'bold') {
           return (
-            <strong key={`bold-${index}`} className="font-bold text-[#1a4d2e]">
+            <strong key={`bold-${index}`} className={styles.bold}>
               <HighlightedText
                 text={segment.text}
                 activeTerms={activeTerms}
