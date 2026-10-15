@@ -95,9 +95,10 @@ export function ReviewShelfCard({
         <Photo article={article} sizes={imageSizes} eager={eager} />
       </span>
       {/* O título vem primeiro no DOM (é o começo do nome do link e o cabeçalho do cartão); o order-first
-          põe a data e o tipo acima dele, na tela. */}
+          põe a data e o tipo acima dele, na tela. Um código no título (CSEMCASACOMCECILIA) quebra em vez de
+          alargar o cartão na grade de duas colunas do celular. */}
       <div className="flex flex-1 flex-col gap-1.5 p-3">
-        <h3 className="text-[15px] leading-5 font-extrabold">{article.title}</h3>
+        <h3 className="text-[15px] leading-5 font-extrabold wrap-anywhere">{article.title}</h3>
         <span className="order-first text-xs font-bold text-marinho-suave">{`${article[dateFormat]}, ${article.type}`}</span>
       </div>
       {showStore && article.store ? (

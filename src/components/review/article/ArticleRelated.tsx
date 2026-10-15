@@ -40,7 +40,7 @@ export function ArticleRelated({ articles, title, viewAllLabel, viewAllHref }: A
       {/* O pt-5 dá lugar aos ímãs, que saem do cartão. */}
       <ul data-relacionados-cartoes="" className="grid grid-cols-2 gap-x-4 gap-y-6 pt-5 md:grid-cols-3">
         {articles.map((article, index) => (
-          <li key={article.href} className="revela flex" style={{ '--i': index } as CSSProperties}>
+          <li key={article.href} className="revela flex min-w-0" style={{ '--i': index } as CSSProperties}>
             <ReviewShelfCard
               article={article}
               placement="review_related"

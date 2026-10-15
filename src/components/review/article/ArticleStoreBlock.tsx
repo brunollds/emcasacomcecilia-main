@@ -41,7 +41,7 @@ export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel,
       />
 
       {rules.length > 0 && (
-        <dl className="mt-5 grid gap-3 sm:grid-cols-3">
+        <dl className="mt-5 grid gap-3 sm:grid-cols-3 sm:items-start">
           {rules.map((rule) => (
             <div key={rule.label} className="rounded-[10px] border-2 border-marinho bg-creme px-4 py-3">
               <dt className="text-xs font-extrabold tracking-[0.12em] text-marinho-suave uppercase">{rule.label}</dt>
