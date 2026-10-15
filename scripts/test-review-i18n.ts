@@ -8,7 +8,6 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
-import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
 import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
 import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
@@ -469,9 +468,10 @@ const storeReferralLabel = (locale: Locale) =>
     assert.notEqual(referralHints.copied, plainHints.copied, `${locale}: dica do código de indicação copiado igual à do cupom, que manda colar no checkout`);
     assert.ok(referralHints.copy.includes('SHEIN') && referralHints.copied.includes('SHEIN'), `${locale}: dica do código de indicação sem dizer onde pesquisar`);
 
-    const inline = getCouponCopyLabels(locale).inlineReferral('SHEIN');
-    assert.ok(`${inline.prefix} ${inline.suffix}`.includes(SHEIN_BRAZIL[locale]), `${locale}: código de indicação no resumo sem "${SHEIN_BRAZIL[locale]}"`);
-    assert.notEqual(inline.prefix, getCouponCopyLabels(locale).inlinePrefix, `${locale}: resumo do código de indicação igual ao do cupom`);
+    const article = getArticleCopy(locale);
+    const referralCopied = article.copiedHint({ slug: 'shein', brand: 'SHEIN' }, 'referral');
+    assert.ok(referralCopied.includes(SHEIN_BRAZIL[locale]), `${locale}: código de indicação copiado sem "${SHEIN_BRAZIL[locale]}"`);
+    assert.notEqual(referralCopied, article.copiedHint({ slug: 'damie', brand: 'DAMIE' }), `${locale}: código de indicação copiado igual ao cupom`);
   }
 
   const portugueseUi = new Map(articleUiLeaves('pt'));

@@ -46,7 +46,7 @@ export type ArticleCopy = {
   ruleTestedLabel: string;
   ruleVerifiedLabel: string;
   // Sob o recorte depois de copiar. A recompensa vai no campo Reward Code; a indicação não se cola no
-  // checkout, pesquisa-se no aplicativo (o mesmo texto do inlineReferral, em couponCopyLocale.ts).
+  // checkout, pesquisa-se no aplicativo, e fora do PT o texto diz que o código é da SHEIN Brasil.
   copiedHint: (store: StoreName, kind?: CouponCodeKind) => string;
   // Bloco da loja no fim do artigo. A loja vai com o slug: em PT, "no Magalu", "na DAMIE" (storeNames.ts).
   storeBlockTitle: (store: StoreName) => string;
