@@ -1,7 +1,8 @@
 import { ArrowRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { SectionLinkButton, SectionHeadingReveal, EditorialReveal, EditorialAmbientBackground } from '@/components/editorial';
-import { asSentence } from '@/components/coupons/CouponBlocks';
+import { asSentence, couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { serializeJsonLd } from '@/lib/jsonLd';
@@ -17,7 +18,6 @@ import { getArticleCopy, getEditorialNoteLabels, getTemplateUi } from './article
 import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
 import { isStepHeading } from './couponCopyLocale';
 import { GuideTimeline } from './GuideTimeline';
-import { PullQuote } from './PullQuote';
 import { ArticleHeader } from './article/ArticleHeader';
 import { ArticleAfter, ArticleEnd } from './article/ArticleEnd';
 
@@ -34,16 +34,10 @@ export interface ReviewNotebookTemplateProps {
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
   relatedReviews: Review[];
-  // Dados do bloco da loja; ainda sem uso visual (tasks 3, 5 e 6).
+  // Recorte do topo (e, depois, bloco da loja e lateral); null em artigo sem loja ativa.
   storeBlock?: ArticleStoreBlock | null;
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
-}
-
-function getBadgeColor(kind: ReviewViewModel['kind']) {
-  if (kind === 'produto') return 'bg-[#1a4d2e] text-white';
-  if (kind === 'guia') return 'bg-[#ff6b35] text-white';
-  return 'bg-[#1a4d2e]/10 text-[#1a4d2e]';
 }
 
 function estimateReadTimeMinutes(text: string): number {
@@ -64,6 +58,7 @@ export function ReviewNotebookTemplate({
   jsonLd,
   faqJsonLd = null,
   relatedReviews,
+  storeBlock = null,
   relatedArticleLinks,
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
@@ -77,7 +72,6 @@ export function ReviewNotebookTemplate({
   const noteLabels = getEditorialNoteLabels(couponCopyLocale);
   // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
   const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
-  const badgeColor = getBadgeColor(kind);
   const speechText = [review.title, review.description, plainTextBody].filter(Boolean).join(' ');
   const readTime = estimateReadTimeMinutes(plainTextBody);
 
@@ -131,6 +125,12 @@ export function ReviewNotebookTemplate({
       ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark }
       : undefined;
 
+  // O link do recorte: 'Ir para a loja' com código; sem código, o rótulo que a página da loja já usa.
+  const storeCopy = COUPON_STORE_COPY[couponCopyLocale];
+  const storeLabel = storeBlock?.code
+    ? storeCopy.goToStore
+    : (couponCopyLocale === 'pt' && store?.offerActionLabel) || storeCopy.viewOffer;
+
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
 
@@ -163,21 +163,18 @@ export function ReviewNotebookTemplate({
         )}
 
         {/* Endereços e e-mails longos no texto quebram em vez de alargar a página no celular. */}
-        <div className="mx-auto max-w-6xl px-4 py-6 wrap-break-word md:py-10">
+        <div className={`${couponFontVariables} mx-auto max-w-6xl px-4 py-6 wrap-break-word md:py-10`}>
           {/* Header editorial */}
           <ArticleHeader
             review={review}
             kind={kind}
             kindLabel={kindLabel}
-            badgeColor={badgeColor}
             copy={copy}
             ui={ui}
             noteLabels={noteLabels}
             couponCopyLocale={couponCopyLocale}
             breadcrumbs={breadcrumbs}
             languageLinks={languageLinks}
-            codeKind={codeKind}
-            codeBrand={codeBrand}
             speechText={speechText}
             readTime={readTime}
             unanchoredNotes={unanchoredNotes}
@@ -187,19 +184,15 @@ export function ReviewNotebookTemplate({
             hasProductRating={hasProductRating}
             videoPageUrl={videoPageUrl}
             youtubeEmbedUrl={youtubeEmbedUrl}
+            storeBlock={storeBlock}
+            storeLabel={storeLabel}
+            sponsored={effectiveCta?.sponsored ?? hasCommercialRelationship}
           />
 
           {/* Layout principal + sidebar */}
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
             <div className="min-w-0 lg:col-span-8">
-              {/* Pull quote editorial */}
-              {review.pullQuote && (
-                <div className="mb-10">
-                  <PullQuote quote={review.pullQuote} />
-                </div>
-              )}
-
               {/* Ficha do produto em tabela */}
               {kind === 'produto' && hasProductSpec && (
                 <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">

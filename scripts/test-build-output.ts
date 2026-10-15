@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
 import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
+import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
@@ -16,6 +17,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
+import { getArticleStoreBlock, type ArticleStoreBlock } from '../src/lib/articleStore';
 import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -891,6 +893,41 @@ const withoutRelatedCards = (body: string) => body.replace(/<a\b[^>]*min-h-\[220
   assert.equal(withoutRelatedCards('<a class="p-4" href="/fr">Editorial</a>'), '<a class="p-4" href="/fr">Editorial</a>', 'link comum some da conferência');
 }
 
+// O recorte do topo do artigo (#cupom-artigo): o tipo do código (cupom, recompensa ou indicação) no idioma do
+// artigo, o código com o botão de copiar e a frase de depois de copiar; sem código, o nome da loja e o link.
+// Fora do PT, nenhum texto dele em português e nenhum link da SHEIN Brasil.
+function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock): string[] {
+  const texts = cutout.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
+  const uiOf = (lang: Locale) => [
+    block.code ? getCodeTitle(getSidebarCopy(lang), block.codeKind, block.brand) : block.brand,
+    ...(block.code ? [getCouponCopyLabels(lang).copy, getArticleCopy(lang).copiedHint(block.brand, block.codeKind)] : []),
+  ];
+  const own = uiOf(locale);
+  const problems = own.filter((text) => !texts.includes(text)).map((text) => `falta "${text}"`);
+  if (block.code && !texts.includes(block.code)) problems.push(`falta o código ${block.code}`);
+  if (block.code && !cutout.includes('data-copied=')) problems.push('sem o botão de copiar');
+  if (locale !== 'pt') {
+    const storeLinks = (lang: Locale) => [COUPON_STORE_COPY[lang].goToStore, COUPON_STORE_COPY[lang].viewOffer];
+    const ownTexts = [...own, ...storeLinks(locale)];
+    const portuguese = [...uiOf('pt'), ...storeLinks('pt')].filter((text) => !ownTexts.includes(text));
+    problems.push(...texts.filter((text) => portuguese.includes(text)).map((text) => `"${text}" em português`));
+    if (/br\.shein\.com/.test(cutout)) problems.push('link da SHEIN Brasil');
+  }
+  return problems;
+}
+// O guarda acima passa no recorte certo e falha no recorte em português numa página em inglês e sem o código.
+{
+  const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [] };
+  const html = (lang: Locale) =>
+    `<section id="cupom-artigo"><p>${getCodeTitle(getSidebarCopy(lang), 'reward', 'YesStyle')}</p><code>CECILIA010</code>` +
+    `<button data-copied="false">${getCouponCopyLabels(lang).copy}</button><p>${getArticleCopy(lang).copiedHint('YesStyle', 'reward')}</p></section>`;
+  assert.deepEqual(cutoutProblems(html('en'), 'en', block), []);
+  assert.deepEqual(cutoutProblems(html('pt'), 'pt', block), []);
+  assert.notDeepEqual(cutoutProblems(html('pt'), 'en', block), [], 'recorte em português passou numa página em inglês');
+  assert.notDeepEqual(cutoutProblems(html('en').replace('<code>CECILIA010</code>', ''), 'en', block), [], 'recorte sem código passou');
+  assert.notDeepEqual(cutoutProblems(`${html('en')}<a href="https://br.shein.com/">x</a>`, 'en', block), [], 'SHEIN Brasil passou');
+}
+
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
 // (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
 // se um dia isso for de propósito, tire-o desta conferência.
@@ -899,6 +936,7 @@ assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
 let notedArticles = 0;
 let faqArticles = 0;
+let cutoutArticles = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -974,7 +1012,7 @@ for (const url of articleUrls) {
 
   // A trilha vai da home do idioma à lista de artigos e ao artigo, e o JSON-LD repete a da página.
   // Ela é procurada antes da gaveta, cujo sumário também é uma <nav><ol>.
-  const reviewHub = locale === 'pt' ? { label: 'Reviews', href: '/reviews' } : getInternationalReviewHub(locale);
+  const reviewHub = locale === 'pt' ? { label: 'Guias & Análises', href: '/reviews' } : getInternationalReviewHub(locale);
   const crumbs = visibleTrailOf(body.slice(0, dialogStart), pagePath);
   assert.deepEqual(
     crumbs,
@@ -997,6 +1035,14 @@ for (const url of articleUrls) {
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
+  // Recorte do topo: em todo artigo de loja ativa (o mesmo bloco que o template recebe), uma vez; sem loja, nenhum.
+  const storeBlock = getArticleStoreBlock(review, locale, review.cta?.url);
+  const cutoutCount = body.match(/\sid="cupom-artigo"/g)?.length ?? 0;
+  assert.equal(cutoutCount, storeBlock ? 1 : 0, `${pagePath}: ${cutoutCount} recortes do topo (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
+  if (storeBlock) {
+    assert.deepEqual(cutoutProblems(sectionIn(body, 'cupom-artigo') ?? '', locale, storeBlock), [], `${pagePath}: recorte do topo`);
+    cutoutArticles++;
+  }
   // O id de cada seção sai do título (generateSectionIds, indexado pelo título): dois títulos iguais dão
   // o mesmo id às duas seções, e o sumário e a nota ancorada nelas se confundem.
   const headings = (review.contentSections ?? []).map((section) => section.heading).filter(Boolean);
@@ -1093,6 +1139,7 @@ for (const url of articleUrls) {
 // Sem nenhum artigo com nota, a conferência da nota editorial passaria à toa.
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
+assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
 const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
@@ -1295,8 +1342,15 @@ for (const file of builtPages(APP_DIR)) {
   );
 
   // O nome do card que mostra o código (gaveta do dock, /cupons e "Outros cupons") fica longe dele,
-  // fora do alcance das regras acima.
-  for (const { attributes, inner } of innermostArticles(body)) {
+  // fora do alcance das regras acima. O recorte do topo dos artigos é uma <section> com nome próprio, dentro
+  // do <article> da página, que não tem nome: ele conta por si e sai do <article>.
+  const cutout = sectionIn(body, 'cupom-artigo');
+  if (cutout?.includes(`>${rewardCode}</code>`)) {
+    const name = cutout.match(/aria-label="([^"]*)"/)?.[1];
+    assert.ok(name, `${pagePath}: recorte do ${rewardCode} sem nome`);
+    assert.doesNotMatch(decodeHtml(name), COUPON_WORD, `${pagePath}: recorte do ${rewardCode} com nome de cupom`);
+  }
+  for (const { attributes, inner } of innermostArticles(cutout ? body.replace(cutout, '') : body)) {
     if (!inner.includes(`>${rewardCode}</code>`)) continue;
     const labelledBy = attributes.match(/aria-labelledby="([^"]+)"/)?.[1];
     const name =
@@ -2642,5 +2696,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo de ${cutoutArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

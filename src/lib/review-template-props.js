@@ -66,10 +66,11 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
 
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
-  const reviewHub = localeKey === 'pt'
-    ? { href: '/reviews', label: 'Reviews' }
-    : getInternationalReviewHub(localeKey);
   const copy = getShellCopy(localeKey);
+  // A lista de guias tem o nome que o menu do idioma usa (em PT, Guias & Análises).
+  const reviewHub = localeKey === 'pt'
+    ? { href: '/reviews', label: copy.reviewHubLabel }
+    : getInternationalReviewHub(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
   const publisherLogoUrl = new URL(

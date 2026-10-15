@@ -1,34 +1,32 @@
 import { Fragment } from 'react';
 import Link from 'next/link';
-import { ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
+import { ChevronRight, Clock, PlayCircle, ShieldCheck, Star } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import { ArticleByline, ChangelogDetails, EditorialReveal, EditorialNotePill } from '@/components/editorial';
+import { ChangelogDetails, EditorialNotePill } from '@/components/editorial';
 import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
-import { formatDate, type Review, type ReviewViewModel } from '@/lib/content';
+import { FOCUS_RING } from '@/components/ui/focusRing';
+import type { ArticleStoreBlock } from '@/lib/articleStore';
+import { formatDate, type PersonRef, type Review, type ReviewViewModel } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
-import { InlineCouponCopy } from '../InlineCouponCopy';
 import { ReviewHeroImage } from '../ReviewHeroImage';
-import { ReviewHighlightChips } from '../ReviewHighlightChips';
 import { getDisclosureLabel, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
+import { ArticleCouponCutout } from './ArticleCouponCutout';
 
-type HighlightChipsProps = Parameters<typeof ReviewHighlightChips>[0];
+const CECILIA: Pick<PersonRef, 'name' | 'url'> = { name: 'Cecília Mauad', url: '/sobre' };
 
 export interface ArticleHeaderProps {
   review: Review;
   kind: ReviewViewModel['kind'];
   kindLabel: string;
-  badgeColor: string;
   copy: ArticleCopy;
   ui: TemplateUi;
   noteLabels: EditorialNoteLabels;
   couponCopyLocale: CouponCopyLocale;
   breadcrumbs: Array<{ name: string; href: string }>;
   languageLinks: Partial<Record<Locale, string>>;
-  codeKind: HighlightChipsProps['codeKind'];
-  codeBrand: HighlightChipsProps['codeBrand'];
   speechText: string;
   readTime: number;
   unanchoredNotes: NonNullable<Review['notes']>;
@@ -38,141 +36,150 @@ export interface ArticleHeaderProps {
   hasProductRating: boolean;
   videoPageUrl: string | null;
   youtubeEmbedUrl: string | null;
+  storeBlock: ArticleStoreBlock | null;
+  storeLabel: string;
+  sponsored: boolean;
 }
 
+// Topo do artigo no visual da D2: trilha, tipo e categoria, título com o marca-texto, introdução em serifa,
+// a linha de dados, a transparência numa linha, o recorte do código (artigo com loja) e a foto.
 export function ArticleHeader({
-  review, kind, kindLabel, badgeColor, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks,
-  codeKind, codeBrand, speechText, readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero,
-  hasProductRating, videoPageUrl, youtubeEmbedUrl,
+  review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
+  readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
+  youtubeEmbedUrl, storeBlock, storeLabel, sponsored,
 }: ArticleHeaderProps): React.ReactElement {
+  const authors = review.authors?.length ? review.authors : [review.author ?? CECILIA];
+  const showType = Boolean(review.type) && review.type !== kindLabel;
+  const updated = review.updatedAt && review.updatedAt !== review.publishedAtISO ? review.updatedAt : undefined;
+  // A nota do veredito, como na sidebar; só em análise de produto.
+  const rawStars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
+  const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
+
   return (
-    <header className="mb-10">
-      {/* Fila do topo: categoria + breadcrumb */}
-      <EditorialReveal as="div" delay={0} className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <span className={`inline-flex rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.16em] ${badgeColor}`}>
-          {kindLabel}
+    <header className="mb-10 text-marinho">
+      <nav aria-label={copy.breadcrumbLabel}>
+        <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px] text-marinho-suave">
+          {breadcrumbs.map(({ name, href }) => (
+            <Fragment key={href}>
+              <li>
+                <Link href={href} className={`flex min-h-11 items-center underline underline-offset-[3px] hover:text-marinho ${FOCUS_RING}`}>
+                  {name}
+                </Link>
+              </li>
+              <li aria-hidden="true" className="flex">
+                <ChevronRight className="h-3.5 w-3.5" />
+              </li>
+            </Fragment>
+          ))}
+          <li aria-current="page" className="max-w-full min-w-0 truncate text-marinho">
+            {review.title}
+          </li>
+        </ol>
+      </nav>
+
+      <p className="mt-2 flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase">
+        {/* O ponto fica com o tipo: numa quebra de linha, ele não abre a linha de baixo. */}
+        <span className="whitespace-nowrap">
+          <span>{kindLabel}</span>
+          {showType && <span aria-hidden="true"> ·</span>}
         </span>
+        {showType && <span className="text-marinho-suave">{review.type}</span>}
+      </p>
 
-        <nav aria-label={copy.breadcrumbLabel}>
-          <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
-            {breadcrumbs.map(({ name, href }) => (
-              <Fragment key={href}>
-                <li>
-                  <Link href={href} className="transition-colors hover:text-[#1a4d2e]">{name}</Link>
-                </li>
-                <li aria-hidden="true"><ChevronRight size={14} /></li>
-              </Fragment>
-            ))}
-            <li className="max-w-[200px] truncate text-[#1a4d2e] md:max-w-md" aria-current="page">
-              {review.title}
-            </li>
-          </ol>
-        </nav>
-      </EditorialReveal>
+      <h1 className="mt-3 max-w-4xl font-condensada text-[40px] leading-[1.02] font-black text-balance font-stretch-extra-condensed md:text-6xl">
+        <span className="marca-texto marca-texto-entra">{review.title}</span>
+      </h1>
 
-      {/* Divisor horizontal */}
-      <div className="mb-6 h-px w-full bg-[#1a4d2e]/10" />
-
-      {/* Corpo do cabeçalho */}
-      <EditorialReveal as="div" delay={0.05} className="mb-3">
-        <span className="text-xs font-bold uppercase tracking-[0.18em] text-[#ff6b35]">
-          {review.type}
-        </span>
-      </EditorialReveal>
-
-      <EditorialReveal
-        as="h1"
-        delay={0.1}
-        className="mb-4 font-editorial text-3xl font-bold leading-[1.1] tracking-[-0.02em] text-[#1a4d2e] md:text-4xl lg:text-5xl"
-      >
-        {review.title}
-      </EditorialReveal>
-
-      <div className="mb-5 h-[3px] w-16 bg-[#ff6b35]" />
-
-      <EditorialReveal
-        as="p"
-        delay={0.15}
-        className="mb-4 max-w-3xl font-editorial text-lg italic leading-relaxed text-[#4a5568] md:text-xl"
-      >
+      <p className="mt-4 max-w-3xl font-editorial text-lg leading-relaxed text-marinho-suave md:text-xl">
         {review.description}
-      </EditorialReveal>
+      </p>
 
-      {/* Cupom copiável no resumo — só guias com cupom (oculto quando há tabela de faixas) */}
-      {kind === 'guia' &&
-        review.coupon &&
-        !review.contentSections?.some(
-          (s) => s.couponTiers && s.couponTiers.length > 0
-        ) && (
-        <EditorialReveal delay={0.17}>
-          <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} kind={codeKind} brand={codeBrand} />
-        </EditorialReveal>
+      <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-semibold text-marinho-suave">
+        <span className="font-extrabold text-marinho">
+          {authors.map((author, index) => (
+            <Fragment key={author.name}>
+              {index > 0 && ', '}
+              {author.url ? (
+                <Link href={author.url} className={`underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}>
+                  {author.name}
+                </Link>
+              ) : (
+                author.name
+              )}
+            </Fragment>
+          ))}
+        </span>
+        {review.publishedAtISO && (
+          <time dateTime={review.publishedAtISO}>{formatDate(review.publishedAtISO, couponCopyLocale)}</time>
+        )}
+        {updated && (
+          <span>
+            {ui.updatedAt} <time dateTime={updated}>{formatDate(updated, couponCopyLocale)}</time>
+          </span>
+        )}
+        <span className="inline-flex items-center gap-1.5">
+          <Clock aria-hidden="true" className="h-4 w-4" />
+          {ui.readTime(readTime)}
+        </span>
+        {stars && (
+          <span className="inline-flex items-center gap-1 font-extrabold text-marinho">
+            <Star aria-hidden="true" className="h-4 w-4 fill-amarelo-cupom" />
+            <span aria-hidden="true">{stars}</span>
+            <span className="sr-only">{copy.ratingLabel(stars)}</span>
+          </span>
+        )}
+        {/* O botão traz margem própria (é o mesmo das receitas); na linha de dados ela sai. */}
+        <div className="[&>div]:m-0">
+          <TextToSpeechButton text={speechText} label={getShellCopy(couponCopyLocale).listenAudio} />
+        </div>
+      </div>
+
+      {review.changelog && review.changelog.length > 0 && (
+        <div className="mt-3">
+          <ChangelogDetails entries={review.changelog} />
+        </div>
+      )}
+      {unanchoredNotes.length > 0 && (
+        <div className="mt-4 flex flex-wrap gap-2">
+          {unanchoredNotes.map((note) => (
+            <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
+          ))}
+        </div>
       )}
 
       {Object.keys(languageLinks).length > 1 && (
-        <LanguageSwitcher
-          currentLocale={couponCopyLocale}
-          links={languageLinks}
-        />
+        <div className="mt-5">
+          <LanguageSwitcher currentLocale={couponCopyLocale} links={languageLinks} />
+        </div>
       )}
 
-      <EditorialReveal as="div" delay={0.2} className="mb-8">
-        <ArticleByline
-          authors={review.authors || (review.author ? [review.author] : undefined)}
-          fallbackAuthor={{
-            name: 'Cecília Mauad',
-            role: 'Em Casa com Cecília',
-            initials: 'CM',
-            url: '/sobre',
-          }}
-          meta={[
-            ...(review.publishedAtISO
-              ? [{ icon: 'calendar' as const, label: ui.publishedAt, value: formatDate(review.publishedAtISO, couponCopyLocale), dateTime: review.publishedAtISO }]
-              : []),
-            ...(review.updatedAt && review.updatedAt !== review.publishedAtISO
-              ? [{ label: ui.updatedAt, value: formatDate(review.updatedAt, couponCopyLocale), dateTime: review.updatedAt }]
-              : []),
-            { icon: 'clock', label: ui.readTime(1).split(' ')[0], value: ui.readTime(readTime) },
-          ]}
-          action={<TextToSpeechButton text={speechText} label={getShellCopy(couponCopyLocale).listenAudio} />}
-        />
-        {review.changelog && review.changelog.length > 0 && (
-          <div className="mt-3">
-            <ChangelogDetails entries={review.changelog} />
-          </div>
-        )}
-        {unanchoredNotes.length > 0 && (
-          <div className="mt-4 flex flex-wrap gap-2">
-            {unanchoredNotes.map((note) => (
-              <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
-            ))}
-          </div>
-        )}
-      </EditorialReveal>
-
+      {/* A transparência numa linha; o texto inteiro abre ao tocar, sem JavaScript. */}
       {review.editorialNote && (
-        <EditorialReveal
-          as="aside"
-          delay={0.22}
-          className="mb-6 flex max-w-3xl items-start gap-3 rounded-xl border border-[#1a4d2e]/15 bg-[#eef7f1] px-4 py-3 text-[#24313d]"
-          aria-label={getDisclosureLabel(couponCopyLocale)}
-        >
-          <ShieldCheck className="mt-0.5 h-5 w-5 flex-shrink-0 text-[#1a4d2e]" aria-hidden="true" />
-          <div>
-            <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
-              {getDisclosureLabel(couponCopyLocale)}
-            </p>
-            <p className="mt-1 text-sm leading-relaxed text-[#4a5568]">
-              {review.editorialNote}
-            </p>
-          </div>
-        </EditorialReveal>
+        <details className="group mt-4 max-w-3xl border-y-2 border-marinho/15 text-sm">
+          <summary className={`flex min-h-11 cursor-pointer list-none items-center gap-2 py-2 [&::-webkit-details-marker]:hidden ${FOCUS_RING}`}>
+            <ShieldCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+            <span className="shrink-0 font-extrabold">{getDisclosureLabel(couponCopyLocale)}</span>
+            <span className="min-w-0 flex-1 truncate text-marinho-suave group-open:hidden">{review.editorialNote}</span>
+            <span className="ml-auto shrink-0 font-bold underline underline-offset-[3px] group-open:hidden">{copy.disclosureMore}</span>
+          </summary>
+          <p className="pb-3 leading-relaxed text-marinho-suave">{review.editorialNote}</p>
+        </details>
       )}
 
-      <ReviewHighlightChips review={review} kind={kind} codeKind={codeKind} codeBrand={codeBrand} />
+      {storeBlock && (
+        <div className="mt-8 max-w-3xl">
+          <ArticleCouponCutout
+            variant="top"
+            block={storeBlock}
+            locale={couponCopyLocale}
+            reviewSlug={review.slug}
+            storeLabel={storeLabel}
+            sponsored={sponsored}
+          />
+        </div>
+      )}
 
-      {/* Hero image */}
-      <EditorialReveal as="figure" delay={0.25}>
+      <figure className="mt-8">
         <ReviewHeroImage
           src={reviewImage}
           alt={reviewImageAlt}
@@ -188,11 +195,11 @@ export function ArticleHeader({
           video={review.video}
           locale={couponCopyLocale}
         />
-      </EditorialReveal>
+      </figure>
       {videoPageUrl && !youtubeEmbedUrl && (
         <Link
           href={videoPageUrl}
-          className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
+          className={`mt-4 inline-flex items-center gap-2 text-sm font-bold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
         >
           <PlayCircle size={17} aria-hidden="true" /> {copy.openVideoPage}
         </Link>
