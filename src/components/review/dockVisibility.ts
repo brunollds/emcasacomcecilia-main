@@ -1,10 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-
-// O recorte do topo do artigo; o bloco da loja do fim (e o do link de afiliado, sem loja) leva id="loja".
-export const ARTICLE_CUTOUT_ID = 'cupom-artigo';
-const ARTICLE_STORE_ID = 'loja';
+import { ARTICLE_CUTOUT_ID, ARTICLE_STORE_ID } from './articleAnchors';
 
 export type DockState = {
   // null: o artigo não tem o recorte do topo.

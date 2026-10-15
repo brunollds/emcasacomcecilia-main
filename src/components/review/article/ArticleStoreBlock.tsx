@@ -3,6 +3,7 @@ import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingRevea
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ArticleStoreBlock as StoreBlock } from '@/lib/articleStore';
+import { ARTICLE_STORE_ID } from '../articleAnchors';
 import type { ArticleCopy } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { TrackedCouponPageLink } from '../TrackedCouponPageLink';
@@ -26,7 +27,7 @@ export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel,
   const allArticles = articlesHref && articleCount ? copy.allStoreArticles(articleCount, brand) : undefined;
 
   return (
-    <section id="loja" className="mt-14 mb-10 scroll-mt-24 text-marinho print:hidden">
+    <section id={ARTICLE_STORE_ID} className="mt-14 mb-10 scroll-mt-24 text-marinho print:hidden">
       <SectionHeadingReveal as="h2" variant="d2" className="mb-7">
         {copy.storeBlockTitle(brand)}
       </SectionHeadingReveal>

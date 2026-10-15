@@ -8,7 +8,7 @@ import { CutoutCode } from '@/components/coupons/StoreLayout';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { getArticleCopy } from '../articleCopy';
 import { getCouponCopyLabels, type CouponCopyLocale } from '../couponCopyLocale';
-import { ARTICLE_CUTOUT_ID } from '../dockVisibility';
+import { ARTICLE_CUTOUT_ID } from '../articleAnchors';
 import { getCodeTitle, getSidebarCopy } from '../sidebarCopy';
 
 type Variant = 'top' | 'end' | 'sidebar';
