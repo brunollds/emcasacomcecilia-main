@@ -81,7 +81,7 @@ test('keeps existing photo cropping and overlay controls by default', () => {
   }));
 
   assert.ok(markup.includes(`aspect-ratio:${4 / 3}`));
-  assert.ok(markup.includes('object-cover group-hover:scale-105'));
+  assert.ok(markup.includes('object-cover motion-safe:group-hover:scale-105'));
   assert.ok(markup.includes('bg-gradient-to-b'));
   assert.ok(markup.includes('absolute bottom-3 right-3'));
   assert.ok(!markup.includes('self-start'));

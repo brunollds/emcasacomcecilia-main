@@ -341,6 +341,7 @@ export function ReviewNotebookTemplate({
                 couponCopyLocale={couponCopyLocale}
                 youtubeEmbedUrl={youtubeEmbedUrl}
                 videoPageUrl={videoPageUrl}
+                showVerdict={shouldRenderVerdict}
                 hasCta={hasCta}
                 effectiveCta={effectiveCta}
                 reviewImage={reviewImage}
@@ -362,9 +363,7 @@ export function ReviewNotebookTemplate({
           </div>
 
           <ArticleAfter
-            review={review}
             ui={ui}
-            couponCopyLocale={couponCopyLocale}
             relatedReviews={relatedReviews}
             reviewHubHref={reviewHubHref}
           />

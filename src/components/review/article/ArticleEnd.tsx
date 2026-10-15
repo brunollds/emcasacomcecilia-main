@@ -7,6 +7,7 @@ import { EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/comp
 import type { Review, ReviewViewModel } from '@/lib/content';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
 import type { ArticleCopy, TemplateUi } from '../articleCopy';
@@ -20,28 +21,28 @@ export interface ArticleEndProps {
   couponCopyLocale: CouponCopyLocale;
   youtubeEmbedUrl: string | null;
   videoPageUrl: string | null;
+  showVerdict: boolean;
   hasCta: boolean;
   effectiveCta: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewImage: string;
 }
 
-// Do vídeo ao compartilhar: o fim da coluna do texto, antes da sidebar.
+// Do vídeo ao compartilhar: o fim da coluna do texto, antes da sidebar. A galeria vem antes do veredito.
 export function ArticleEnd({
-  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, hasCta, effectiveCta, reviewImage,
+  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, hasCta, effectiveCta, reviewImage,
 }: ArticleEndProps): React.ReactElement {
+  // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
+  const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
+
   return (
     <>
       {/* Vídeo */}
       {youtubeEmbedUrl && (
-        <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8 print:hidden">
-          <SectionHeadingReveal
-            as="h2"
-            underlineColor="#ff6b35"
-            className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
-          >
+        <section className="mt-12 mb-10 text-marinho print:hidden">
+          <SectionHeadingReveal as="h2" variant="d2" className="mb-5">
             {copy.relatedVideo}
           </SectionHeadingReveal>
-          <div className="aspect-video overflow-hidden rounded-xl bg-[#1a4d2e]/5">
+          <div className="aspect-video overflow-hidden rounded-2xl border-2 border-marinho bg-creme">
             <iframe
               src={youtubeEmbedUrl}
               title={review.title}
@@ -52,20 +53,27 @@ export function ArticleEnd({
               loading="lazy"
             />
           </div>
-          <p className="mt-3 flex items-center gap-2 text-sm text-[#1a4d2e]/70">
-            <PlayCircle size={16} className="text-[#ff6b35]" />
+          <p className="mt-3 flex items-center gap-2 text-sm font-semibold text-marinho-suave">
+            <PlayCircle size={16} aria-hidden="true" />
             {copy.watchOnYoutube}
           </p>
           {videoPageUrl && (
             <Link
               href={videoPageUrl}
-              className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
+              className={`mt-2 inline-flex items-center gap-2 text-sm font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
             >
               {copy.openVideoPage} <ArrowRight size={16} aria-hidden="true" />
             </Link>
           )}
         </section>
       )}
+
+      <ReviewGallerySection
+        images={review.gallery || []}
+        videos={galleryVideos}
+        title={review.title}
+        locale={couponCopyLocale}
+      />
 
       {/* CTA final */}
       {hasCta && (
@@ -101,22 +109,18 @@ export function ArticleEnd({
       )}
 
       {/* Veredito no final do corpo */}
-      {kind === 'produto' && (
-        <EditorialReveal as="section" id="veredito" className="mb-10 scroll-mt-24">
-          <div className="mb-6 flex items-start gap-2">
-            <SectionHeadingReveal
-              as="h2"
-              underlineColor="#ff6b35"
-              className="font-editorial text-2xl font-bold text-[#1a4d2e]"
-            >
+      {showVerdict && (
+        <section id="veredito" className="mb-10 scroll-mt-24 text-marinho">
+          <div className="mb-5 flex items-start gap-2">
+            <SectionHeadingReveal as="h2" variant="d2">
               {ui.verdictToc}
             </SectionHeadingReveal>
-            <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} copiedLabel={copy.sectionLinkCopied} />
+            <div className="pt-1">
+              <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} copiedLabel={copy.sectionLinkCopied} variant="d2" />
+            </div>
           </div>
-          <div className="space-y-6">
-            <ReviewVerdictCard review={review} kind={kind} />
-          </div>
-        </EditorialReveal>
+          <ReviewVerdictCard review={review} kind={kind} />
+        </section>
       )}
 
       {/* Share */}
@@ -138,27 +142,15 @@ export function ArticleEnd({
 }
 
 export interface ArticleAfterProps {
-  review: Review;
   ui: TemplateUi;
-  couponCopyLocale: CouponCopyLocale;
   relatedReviews: Review[];
   reviewHubHref: string;
 }
 
-// Galeria e artigos relacionados, depois da grade do texto com a sidebar.
-export function ArticleAfter({ review, ui, couponCopyLocale, relatedReviews, reviewHubHref }: ArticleAfterProps): React.ReactElement {
+// Artigos relacionados, depois da grade do texto com a sidebar.
+export function ArticleAfter({ ui, relatedReviews, reviewHubHref }: ArticleAfterProps): React.ReactElement {
   return (
     <>
-    {/* Galeria */}
-    {(review.gallery && review.gallery.length > 0) || review.youtubeUrl ? (
-      <ReviewGallerySection
-        images={review.gallery || []}
-        videos={review.youtubeUrl ? [{ url: review.youtubeUrl, title: review.title }] : []}
-        title={review.title}
-        locale={couponCopyLocale}
-      />
-    ) : null}
-
     {/* Artigos relacionados */}
     {relatedReviews.length > 0 && (
       <section className="mt-12 print:hidden">
