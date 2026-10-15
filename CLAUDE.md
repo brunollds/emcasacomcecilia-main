@@ -222,10 +222,12 @@ vídeo, primeiras impressões e uso noturno.
   monta. `ArticleHeader`: trilha "Guias & Análises", título, linha de dados e o recorte do topo.
   `ArticleCouponCutout` tem três variantes, `top` (abaixo da introdução, acima da foto), `end` (bloco da
   loja) e `sidebar`; o copiar é o `CopyCodeButton`, com a tesoura e o verde de `/cupons`. O fim
-  (`ArticleEnd`, mais `ArticleAfter` depois da sidebar) vai nesta ordem: galeria, veredito (só produto), bloco
-  da loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
-  <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`) e
-  `ArticleRelated` (6 cartões da estante).
+  (`ArticleEnd`, dentro da coluna do artigo) vai nesta ordem: vídeo, galeria, veredito (só produto), bloco da
+  loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
+  <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),
+  `ArticleRelated` (6 cartões da estante) e a barra de compartilhar. O "Ir para a loja" dos recortes vai ao
+  link de afiliado da loja: um `cta.url` interno (a página de cupons do site) cede ao `offerUrl`, e o
+  `storeSponsored` do bloco dá o `rel` sponsored.
 - Os dados vêm de dois módulos de servidor: `src/lib/articleStore.ts` (`getArticleStoreBlock`: código, tipo
   do código, desconto e as regras da loja; na YesStyle, os textos do código de recompensa da página; sem
   loja devolve `null`) e `src/lib/relatedReviews.ts` (`pickRelatedReviews`: mesma loja primeiro, depois
@@ -361,8 +363,8 @@ vídeo, primeiras impressões e uso noturno.
   o mostram e a home, que mostra o código no painel da YesStyle.
 - O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil: pesquisa-se no aplicativo, não se cola no
   checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
-  artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e o resumo dos guias o usam por
-  `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `inlineReferral` (`couponCopyLocale.ts`),
+  artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e os recortes do artigo o usam por
+  `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `copiedHint` (`articleCopy.ts`),
   com o termo que a página da loja já usa em cada idioma e, fora do PT, o aviso de que o código é
   da SHEIN Brasil. O `test:review-i18n` confere os rótulos nos 10 idiomas e o `test:build-output`,
   em toda página, o tipo no dock e na sidebar.
