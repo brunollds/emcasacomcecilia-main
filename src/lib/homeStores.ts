@@ -10,6 +10,7 @@ import {
   type ReviewDiscoveryItem,
 } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { ofStore, theStore } from '@/lib/storeNames';
 
 // Dados da vitrine da home e da subpágina /reviews/loja/{slug}. Recebe as reviews por parâmetro e
 // não importa '@/lib/data': quem chama é o servidor, e o componente cliente recebe só o resultado.
@@ -23,20 +24,9 @@ const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as 
 // Foto da Cecília: bolinha e painel da vitrine.
 export const CECILIA_PHOTO = resolveMediaUrl('/images/photos/BRU-1.jpg');
 
-// O site escreve "do Magalu" e "da" para as outras lojas.
-const MASCULINE_STORES = new Set(['magalu']);
-
-export function ofStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
-  return `${MASCULINE_STORES.has(store.slug) ? 'do' : 'da'} ${store.brand}`;
-}
-
 // O botão que leva ao código da loja: subpágina de loja, datas comerciais e página do vídeo.
 export function codeLinkLabel(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `Ver o código ${ofStore(store)}`;
-}
-
-function theStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
-  return `${MASCULINE_STORES.has(store.slug) ? 'o' : 'a'} ${store.brand}`;
 }
 
 // O código que a vitrine mostra: o de desconto ou, na loja de link, o de indicação.
@@ -54,7 +44,7 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
 
 // A loja ganha o "Ver os N artigos", a subpágina /reviews/loja/{slug} e a bolinha de /reviews a partir de 3
 // artigos (Bruno, 14/10; de 08/10 até então, só acima de 3, quando a vitrine já não mostrava todos).
-function hasArticlesPage(articleCount: number): boolean {
+export function hasArticlesPage(articleCount: number): boolean {
   return articleCount >= MIN_ARTICLES_FOR_PAGE;
 }
 

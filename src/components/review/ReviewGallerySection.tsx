@@ -2,8 +2,11 @@
 
 import Image from 'next/image';
 import { createPortal } from 'react-dom';
-import { useState, useRef, useCallback, useEffect } from 'react';
+import { useState, useRef, useCallback, useEffect, type ReactNode } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
+import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingReveal';
+import { FOCUS_RING } from '@/components/ui/focusRing';
+import { ROW_ARROW, rowScrollBehavior } from '@/components/ui/useRowScroll';
 import type { Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getArticleCopy } from './articleCopy';
@@ -65,23 +68,11 @@ function getYouTubeThumbnail(url: string): string {
   return id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : '';
 }
 
-function useCarousel() {
-  const trackRef = useRef<HTMLDivElement>(null);
-  const gapRef = useRef<number | null>(null);
-
-  const scrollByCard = useCallback((direction: number) => {
-    const track = trackRef.current;
-    if (!track) return;
-    const firstCard = track.querySelector('[data-gallery-card]') as HTMLElement | null;
-    if (gapRef.current === null) {
-      gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
-    }
-    const cardWidth = firstCard?.offsetWidth || 280;
-    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: 'smooth' });
-  }, []);
-
-  return { trackRef, scrollByCard };
-}
+// Largura do cartão no carrossel; sozinho, o cartão ocupa a coluna até um limite.
+const CAROUSEL_CARD = 'w-[260px] flex-shrink-0 snap-start sm:w-[300px] lg:w-[340px]';
+const SINGLE_CARD = 'w-full max-w-xl';
+const CARD_SIZES = '(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px';
+const SINGLE_SIZES = '(max-width: 640px) 100vw, 576px';
 
 function PhotoLightbox({
   images,
@@ -101,6 +92,7 @@ function PhotoLightbox({
   const current = images[active];
   const copy = getGalleryCopy(locale);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
+  const browsable = images.length > 1;
 
   useEffect(() => {
     const originalOverflow = document.body.style.overflow;
@@ -147,6 +139,8 @@ function PhotoLightbox({
 
   if (!current || typeof document === 'undefined') return null;
 
+  const lightboxButton = `absolute z-50 flex h-11 w-11 items-center justify-center rounded-full border-2 border-marinho bg-white text-marinho shadow-lg hover:bg-amarelo-cupom ${FOCUS_RING}`;
+
   return createPortal(
     <div
       className="fixed inset-0 z-[100] flex min-h-[100dvh] items-center justify-center overscroll-contain bg-black/90 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))]"
@@ -159,37 +153,41 @@ function PhotoLightbox({
         type="button"
         onClick={onClose}
         data-lightbox-control
-        className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className={`${lightboxButton} right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))]`}
         aria-label={copy.closeImage}
       >
         <X className="h-6 w-6" />
       </button>
 
-      <button
-        type="button"
-        onClick={(e) => {
-          e.stopPropagation();
-          onPrevious();
-        }}
-        data-lightbox-control
-        className="absolute left-4 top-1/2 z-50 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95 md:flex"
-        aria-label={copy.previousImage}
-      >
-        <ChevronLeft className="h-6 w-6" />
-      </button>
+      {browsable && (
+        <>
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              onPrevious();
+            }}
+            data-lightbox-control
+            className={`${lightboxButton} left-4 top-1/2 hidden -translate-y-1/2 md:flex`}
+            aria-label={copy.previousImage}
+          >
+            <ChevronLeft className="h-6 w-6" />
+          </button>
 
-      <button
-        type="button"
-        onClick={(e) => {
-          e.stopPropagation();
-          onNext();
-        }}
-        data-lightbox-control
-        className="absolute right-4 top-1/2 z-50 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95 md:flex"
-        aria-label={copy.nextImage}
-      >
-        <ChevronRight className="h-6 w-6" />
-      </button>
+          <button
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              onNext();
+            }}
+            data-lightbox-control
+            className={`${lightboxButton} right-4 top-1/2 hidden -translate-y-1/2 md:flex`}
+            aria-label={copy.nextImage}
+          >
+            <ChevronRight className="h-6 w-6" />
+          </button>
+        </>
+      )}
 
       <div
         className="relative flex h-[min(82dvh,900px)] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
@@ -217,234 +215,185 @@ function PhotoLightbox({
   );
 }
 
-function PhotoCarousel({
-  images,
+function PhotoCard({
+  img,
+  index,
   title,
   onOpen,
   locale,
+  single,
 }: {
-  images: ReviewGalleryImage[];
+  img: ReviewGalleryImage & { image: string };
+  index: number;
   title?: string;
   onOpen: (index: number) => void;
   locale: Locale;
+  single: boolean;
 }) {
-  const { trackRef, scrollByCard } = useCarousel();
   const copy = getGalleryCopy(locale);
+  const presentation = getReviewGalleryImagePresentation(img);
+  const contain = presentation.objectFit === 'contain';
+
+  return (
+    <button
+      type="button"
+      data-gallery-card={single ? undefined : ''}
+      onClick={() => onOpen(index)}
+      className={`group relative overflow-hidden rounded-[10px] border-2 border-marinho bg-creme text-left text-marinho ${
+        single ? SINGLE_CARD : CAROUSEL_CARD
+      } ${contain ? 'self-start' : ''} ${FOCUS_RING}`}
+      aria-label={copy.enlargeImage(index + 1)}
+    >
+      <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
+        <Image
+          src={resolveMediaUrl(img.image)}
+          alt={img.alt || img.caption || title || copy.photoAlt}
+          fill
+          className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out ${
+            contain ? 'object-contain' : 'object-cover motion-safe:group-hover:scale-105'
+          }`}
+          sizes={single ? SINGLE_SIZES : CARD_SIZES}
+        />
+        {!contain && (
+          <>
+            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-marinho/5 to-marinho/30" />
+            <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 py-1 text-xs font-extrabold uppercase tracking-[0.12em] text-marinho">
+              <Maximize2 className="h-3.5 w-3.5" />
+              {copy.enlarge}
+            </span>
+          </>
+        )}
+      </div>
+      {contain && (
+        <span className="mx-4 mt-3 inline-flex items-center gap-1.5 text-xs font-extrabold uppercase tracking-[0.12em]">
+          <Maximize2 className="h-3.5 w-3.5" />
+          {copy.enlarge}
+        </span>
+      )}
+      {(img.caption || img.alt) && (
+        <p className="line-clamp-2 px-4 py-3 text-sm font-semibold">{img.caption || img.alt}</p>
+      )}
+    </button>
+  );
+}
+
+function VideoCard({ video, locale, single }: { video: ReviewGalleryVideo; locale: Locale; single: boolean }) {
+  const copy = getGalleryCopy(locale);
+  const thumbnailUrl = video.thumbnailUrl || getYouTubeThumbnail(video.url);
+  const title = video.title || getArticleCopy(locale).relatedVideo;
+
+  return (
+    <a
+      href={video.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      data-gallery-card={single ? undefined : ''}
+      className={`group block text-marinho ${single ? 'w-full max-w-[340px]' : CAROUSEL_CARD} ${FOCUS_RING}`}
+    >
+      <div className="relative aspect-[9/16] overflow-hidden rounded-[10px] border-2 border-marinho bg-marinho">
+        {thumbnailUrl ? (
+          <Image
+            src={resolveMediaUrl(thumbnailUrl)}
+            alt={title}
+            fill
+            className="object-cover motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-105"
+            sizes={CARD_SIZES}
+          />
+        ) : (
+          <div className="flex h-full w-full items-center justify-center">
+            <Play className="h-10 w-10 text-white/70" />
+          </div>
+        )}
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-marinho/10 to-marinho/60" />
+        <div className="absolute inset-0 flex items-center justify-center">
+          <div className="flex h-14 w-14 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:group-hover:scale-110">
+            <Play className="ml-0.5 h-6 w-6 fill-current" />
+          </div>
+        </div>
+        <div className="absolute bottom-3 left-3 right-3 flex items-center justify-between">
+          <span className="rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[10px] font-extrabold uppercase tracking-[0.14em] text-marinho">
+            {copy.video}
+          </span>
+          <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-white/80">YouTube</span>
+        </div>
+      </div>
+      <h3 className="mt-3 px-1 text-center text-[15px] font-extrabold leading-snug group-hover:underline group-hover:underline-offset-[3px]">
+        {title}
+      </h3>
+    </a>
+  );
+}
+
+// A fila que rola com setas. Com um item só, não há fila: o cartão fica sozinho, sem setas.
+function Carousel({
+  count,
+  label,
+  previousLabel,
+  nextLabel,
+  swipeHint,
+  children,
+}: {
+  count: number;
+  label: string;
+  previousLabel: string;
+  nextLabel: string;
+  swipeHint: string;
+  children: ReactNode;
+}) {
+  const trackRef = useRef<HTMLDivElement>(null);
+  const gapRef = useRef<number | null>(null);
+
+  const scrollByCard = useCallback((direction: number) => {
+    const track = trackRef.current;
+    if (!track) return;
+    const firstCard = track.querySelector('[data-gallery-card]') as HTMLElement | null;
+    if (gapRef.current === null) {
+      gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
+    }
+    const cardWidth = firstCard?.offsetWidth || 280;
+    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: rowScrollBehavior() });
+  }, []);
+
+  if (count === 1) return <div className="flex justify-center py-2">{children}</div>;
 
   return (
     <div className="relative">
-      <div className="pointer-events-none absolute inset-y-0 left-0 z-[1] hidden w-12 bg-gradient-to-r from-white to-transparent lg:block" />
-      <div className="pointer-events-none absolute inset-y-0 right-0 z-[1] hidden w-12 bg-gradient-to-l from-white to-transparent lg:block" />
-
       <div
         ref={trackRef}
-        className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2 lg:px-6"
-        aria-label={copy.photoGallery}
+        className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2"
+        aria-label={label}
       >
-        {images.map((img, index) => {
-          const presentation = getReviewGalleryImagePresentation(img);
-          return (
-            <button
-              key={`${img.image}-${index}`}
-              type="button"
-              data-gallery-card
-              onClick={() => onOpen(index)}
-              className={`group relative w-[260px] flex-shrink-0 snap-start overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#f9f9f9] text-left transition-all hover:border-[#ff6b35]/30 hover:shadow-md sm:w-[300px] lg:w-[340px] ${
-                presentation.objectFit === 'contain' ? 'self-start' : ''
-              }`}
-              aria-label={copy.enlargeImage(index + 1)}
-            >
-              <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
-                <Image
-                  src={resolveMediaUrl(img.image)}
-                  alt={img.alt || img.caption || title || copy.photoAlt}
-                  fill
-                  className={`transition-transform duration-700 ease-out ${
-                    presentation.objectFit === 'contain'
-                      ? 'object-contain'
-                      : 'object-cover group-hover:scale-105'
-                  }`}
-                  sizes="(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px"
-                />
-                {presentation.objectFit === 'cover' && (
-                  <>
-                    <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0f1419]/5 to-[#0f1419]/30" />
-                    <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
-                      <Maximize2 className="h-3.5 w-3.5" />
-                      {copy.enlarge}
-                    </span>
-                  </>
-                )}
-              </div>
-              {presentation.objectFit === 'contain' && (
-                <span className="mx-4 mt-3 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.12em] text-[#24313d]">
-                  <Maximize2 className="h-3.5 w-3.5" />
-                  {copy.enlarge}
-                </span>
-              )}
-              {(img.caption || img.alt) && (
-                <p className="line-clamp-2 px-4 py-3 text-sm font-semibold text-[#24313d]">
-                  {img.caption || img.alt}
-                </p>
-              )}
-            </button>
-          );
-        })}
+        {children}
       </div>
 
-      <button
-        type="button"
-        onClick={() => scrollByCard(-1)}
-        className="absolute left-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label={copy.previousPhotos}
-      >
-        <ChevronLeft size={18} />
-      </button>
-      <button
-        type="button"
-        onClick={() => scrollByCard(1)}
-        className="absolute right-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label={copy.nextPhotos}
-      >
-        <ChevronRight size={18} />
-      </button>
-
-      <div className="mt-4 flex justify-center gap-3 lg:hidden">
-        <button
-          type="button"
-          onClick={() => scrollByCard(-1)}
-          className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label={copy.previousPhotos}
-        >
+      <div className="mt-4 flex items-center justify-center gap-3">
+        <button type="button" onClick={() => scrollByCard(-1)} className={ROW_ARROW} aria-label={previousLabel}>
           <ChevronLeft size={18} />
         </button>
-        <button
-          type="button"
-          onClick={() => scrollByCard(1)}
-          className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label={copy.nextPhotos}
-        >
+        <button type="button" onClick={() => scrollByCard(1)} className={ROW_ARROW} aria-label={nextLabel}>
           <ChevronRight size={18} />
         </button>
       </div>
 
-      {images.length > 1 && (
-        <p className="mt-2 text-center text-xs text-[#24313d]/50 lg:hidden">
-          {copy.swipePhotos(images.length)}
-        </p>
-      )}
+      <p className="mt-2 text-center text-xs font-semibold text-marinho-suave lg:hidden">{swipeHint}</p>
     </div>
   );
 }
 
-function VideoCarousel({ videos, locale }: { videos: ReviewGalleryVideo[]; locale: Locale }) {
-  const { trackRef, scrollByCard } = useCarousel();
-  const copy = getGalleryCopy(locale);
-  const fallbackTitle = getArticleCopy(locale).relatedVideo;
-
+function TabButton({ active, onClick, icon, children }: { active: boolean; onClick: () => void; icon: ReactNode; children: ReactNode }) {
   return (
-    <div className="relative">
-      <div className="pointer-events-none absolute inset-y-0 left-0 z-[1] hidden w-12 bg-gradient-to-r from-white to-transparent lg:block" />
-      <div className="pointer-events-none absolute inset-y-0 right-0 z-[1] hidden w-12 bg-gradient-to-l from-white to-transparent lg:block" />
-
-      <div
-        ref={trackRef}
-        className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2 lg:px-6"
-        aria-label={copy.videoCarousel}
-      >
-        {videos.map((video) => {
-          const url = video.url;
-          const thumbnailUrl = video.thumbnailUrl || getYouTubeThumbnail(url);
-          const title = video.title || fallbackTitle;
-
-          return (
-            <a
-              key={url}
-              href={url}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-gallery-card
-              className="group w-[260px] flex-shrink-0 snap-start sm:w-[300px] lg:w-[340px]"
-            >
-              <div className="relative aspect-[9/16] overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#0f1419] transition-all hover:border-[#ff6b35]/30 hover:shadow-md">
-                {thumbnailUrl ? (
-                  <Image
-                    src={resolveMediaUrl(thumbnailUrl)}
-                    alt={title}
-                    fill
-                    className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
-                    sizes="(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px"
-                  />
-                ) : (
-                  <div className="flex h-full w-full items-center justify-center bg-[#1a4d2e]">
-                    <Play className="h-10 w-10 text-white/70" />
-                  </div>
-                )}
-                <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0f1419]/10 to-[#0f1419]/60" />
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="flex h-14 w-14 items-center justify-center rounded-full bg-white/20 text-white backdrop-blur-sm transition-transform duration-300 group-hover:scale-110">
-                    <Play className="ml-0.5 h-6 w-6 fill-current" />
-                  </div>
-                </div>
-                <div className="absolute bottom-3 left-3 right-3 flex items-center justify-between">
-                  <span className="rounded-full bg-[#ff6b35] px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-white">
-                    {copy.video}
-                  </span>
-                  <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-white/80">
-                    YouTube
-                  </span>
-                </div>
-              </div>
-              <h4 className="mt-3 px-1 text-center text-[0.95rem] font-semibold leading-snug text-[#24313d] transition-colors group-hover:text-[#ff6b35]">
-                {title}
-              </h4>
-            </a>
-          );
-        })}
-      </div>
-
-      <button
-        type="button"
-        onClick={() => scrollByCard(-1)}
-        className="absolute left-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label={copy.previousVideos}
-      >
-        <ChevronLeft size={18} />
-      </button>
-      <button
-        type="button"
-        onClick={() => scrollByCard(1)}
-        className="absolute right-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label={copy.nextVideos}
-      >
-        <ChevronRight size={18} />
-      </button>
-
-      <div className="mt-4 flex justify-center gap-3 lg:hidden">
-        <button
-          type="button"
-          onClick={() => scrollByCard(-1)}
-          className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label={copy.previousVideos}
-        >
-          <ChevronLeft size={18} />
-        </button>
-        <button
-          type="button"
-          onClick={() => scrollByCard(1)}
-          className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label={copy.nextVideos}
-        >
-          <ChevronRight size={18} />
-        </button>
-      </div>
-
-      {videos.length > 1 && (
-        <p className="mt-2 text-center text-xs text-[#24313d]/50 lg:hidden">
-          {copy.swipeVideos(videos.length)}
-        </p>
-      )}
-    </div>
+    <button
+      type="button"
+      onClick={onClick}
+      aria-pressed={active}
+      className={`relative flex min-h-11 items-center gap-2 px-4 text-sm font-extrabold ${
+        active ? 'text-marinho' : 'text-marinho-suave hover:text-marinho'
+      } ${FOCUS_RING}`}
+    >
+      {icon}
+      {children}
+      {active && <span className="absolute bottom-0 left-2 right-2 h-1 rounded-full bg-laranja" />}
+    </button>
   );
 }
 
@@ -472,55 +421,61 @@ export function ReviewGallerySection({ images, videos = [], title, locale = 'pt'
   if (!hasPhotos && !hasVideos) return null;
 
   return (
-    <section className="mt-12 print:hidden">
-      <div className="rounded-2xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft md:p-8">
-        <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-          <div>
-            <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#ff6b35]">{copy.eyebrow}</p>
-            <h2 className="mt-1 font-heading text-2xl font-bold text-[#0f1419]">{copy.heading}</h2>
+    <section data-article="galeria" className="mt-12 mb-10 text-marinho print:hidden">
+      <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <p className="text-xs font-extrabold uppercase tracking-[0.14em] text-marinho-suave">{copy.eyebrow}</p>
+          <SectionHeadingReveal as="h2" variant="d2" className="mt-1">
+            {hasPhotos && hasVideos ? copy.heading : hasPhotos ? copy.tabPhotos : copy.tabVideos}
+          </SectionHeadingReveal>
+        </div>
+
+        {hasPhotos && hasVideos && (
+          <div className="flex border-b-2 border-marinho/15">
+            <TabButton active={activeTab === 'photos'} onClick={() => setActiveTab('photos')} icon={<ImageIcon size={14} />}>
+              {copy.tabPhotos}
+            </TabButton>
+            <TabButton active={activeTab === 'videos'} onClick={() => setActiveTab('videos')} icon={<Play size={14} />}>
+              {copy.tabVideos}
+            </TabButton>
           </div>
-
-          {hasPhotos && hasVideos && (
-            <div className="flex border-b border-[#1a4d2e]/10">
-              <button
-                type="button"
-                onClick={() => setActiveTab('photos')}
-                className={`relative flex items-center gap-2 px-4 py-2.5 text-sm font-bold transition-colors ${
-                  activeTab === 'photos' ? 'text-[#1a4d2e]' : 'text-[#24313d]/50 hover:text-[#24313d]/80'
-                }`}
-              >
-                <ImageIcon size={14} />
-                {copy.tabPhotos}
-                {activeTab === 'photos' && (
-                  <span className="absolute bottom-0 left-2 right-2 h-0.5 rounded-full bg-[#ff6b35]" />
-                )}
-              </button>
-              <button
-                type="button"
-                onClick={() => setActiveTab('videos')}
-                className={`relative flex items-center gap-2 px-4 py-2.5 text-sm font-bold transition-colors ${
-                  activeTab === 'videos' ? 'text-[#1a4d2e]' : 'text-[#24313d]/50 hover:text-[#24313d]/80'
-                }`}
-              >
-                <Play size={14} />
-                {copy.tabVideos}
-                {activeTab === 'videos' && (
-                  <span className="absolute bottom-0 left-2 right-2 h-0.5 rounded-full bg-[#ff6b35]" />
-                )}
-              </button>
-            </div>
-          )}
-        </div>
-
-        <div className="min-h-[320px]">
-          {activeTab === 'photos' && hasPhotos && (
-            <PhotoCarousel images={normalizedImages} title={title} onOpen={openLightbox} locale={locale} />
-          )}
-          {activeTab === 'videos' && hasVideos && (
-            <VideoCarousel videos={videos} locale={locale} />
-          )}
-        </div>
+        )}
       </div>
+
+      {activeTab === 'photos' && hasPhotos && (
+        <Carousel
+          count={imageCount}
+          label={copy.photoGallery}
+          previousLabel={copy.previousPhotos}
+          nextLabel={copy.nextPhotos}
+          swipeHint={copy.swipePhotos(imageCount)}
+        >
+          {normalizedImages.map((img, index) => (
+            <PhotoCard
+              key={`${img.image}-${index}`}
+              img={img}
+              index={index}
+              title={title}
+              onOpen={openLightbox}
+              locale={locale}
+              single={imageCount === 1}
+            />
+          ))}
+        </Carousel>
+      )}
+      {activeTab === 'videos' && hasVideos && (
+        <Carousel
+          count={videos.length}
+          label={copy.videoCarousel}
+          previousLabel={copy.previousVideos}
+          nextLabel={copy.nextVideos}
+          swipeHint={copy.swipeVideos(videos.length)}
+        >
+          {videos.map((video) => (
+            <VideoCard key={video.url} video={video} locale={locale} single={videos.length === 1} />
+          ))}
+        </Carousel>
+      )}
 
       {lightboxIndex !== null && (
         <PhotoLightbox

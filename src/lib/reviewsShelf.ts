@@ -5,15 +5,13 @@ import { parseReviewCategory, type ReviewCategory } from './reviewDiscovery';
 // (tipos, tamanhos de página, busca, ordem, endereço, textos da busca e medição). Não importa dados: o
 // componente cliente usa daqui, e os artigos chegam prontos de reviewsHub.ts, que fica no servidor.
 
-export type ShelfArticle = {
-  id: number;
+// O que o cartão de artigo mostra: o da estante e o dos relacionados do fim do artigo.
+export type ShelfCardArticle = {
   slug: string;
   href: string;
   title: string;
   type: string;
-  category: ReviewCategory;
-  publishedAtISO: string;
-  // DD/MM nas Novidades; DD/MM/AAAA no acervo, que atravessa anos.
+  // DD/MM nas Novidades; DD/MM/AAAA no acervo, que atravessa anos. Nos relacionados, no formato do idioma.
   dayMonth: string;
   fullDate: string;
   // Nome da loja, quando o artigo é de uma loja ativa.
@@ -23,6 +21,12 @@ export type ShelfArticle = {
   imageFit: CardImageFit;
   imagePosition?: CardImagePosition;
   isNew: boolean;
+};
+
+export type ShelfArticle = ShelfCardArticle & {
+  id: number;
+  category: ReviewCategory;
+  publishedAtISO: string;
   // Texto de busca já normalizado (foldSearchText).
   searchText: string;
 };
@@ -263,7 +267,10 @@ export type ShelfPlacement =
   | 'store_grid'
   | 'store_list'
   | 'store_other_stores'
-  | 'store_all_reviews';
+  | 'store_all_reviews'
+  // Fim do artigo: os cartões e o "Ver todos" dos relacionados e o "Todos os N artigos" do bloco da loja.
+  | 'review_related'
+  | 'review_store_block';
 
 export const REVIEWS_ROUTE_CLICK = 'reviews_route_click';
 export const SHELF_CONTROL_EVENT = 'reviews_list_control';

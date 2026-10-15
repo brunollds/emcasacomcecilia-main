@@ -73,7 +73,7 @@ Trazer melhorias de leitura / Pretext / publicação testadas no blog **Dicas** 
 | Feature | Receita | Review Em Casa | Damie guia/resenha |
 |---------|---------|----------------|-------------------|
 | PullQuote / Shrinkwrap | ✅ já | ✅ | ⏳ portar componentes |
-| Chips / rich-inline | ✅ tempo, porções (RecipeMetaChips) | ✅ nota, “vale a pena”, cupom (ReviewHighlightChips) | ⏳ cupom, modelo |
+| Chips / rich-inline | ✅ tempo, porções (RecipeMetaChips) | ✅ nota, “vale a pena”, cupom (hoje só na linha de dados do topo e no recorte) | ⏳ cupom, modelo |
 | Notes por linha (S{n}:L{m}) | ✅ MarginNoteRail + RichMarginNote (fallback pill) | ✅ idem | ⏳ |
 | Relayout corpo inteiro (G1) | ❌ baixa prioridade | ⚪ só guias longos | ⚪ guias longos |
 | Focus / karaoke sentença | ⚪ | ⚪ artigos longos | ⚪ |

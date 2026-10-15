@@ -79,22 +79,18 @@ export function ReviewContentSections({
             {section.heading && (
               <div className={stepNumber ? 'mb-5 flex items-start gap-4' : ''}>
                 {stepNumber && (
-                  <span className="mt-1 flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full bg-[#ff6b35] font-handwritten text-2xl font-bold text-white shadow-soft">
+                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom font-condensada text-2xl font-black text-marinho font-stretch-extra-condensed">
                     {stepNumber}
                   </span>
                 )}
                 <div className={`${stepNumber ? 'flex-1' : ''}`}>
-                  <SectionHeadingReveal
-                    as="h2"
-                    underlineColor="#ff6b35"
-                    className={`${stepNumber ? 'mb-0 pt-1' : 'mb-5'} font-editorial text-2xl font-bold text-[#1a4d2e]`}
-                  >
+                  <SectionHeadingReveal as="h2" variant="d2" className={stepNumber ? 'mb-0 pt-1' : 'mb-5'}>
                     {stepNumber ? removeStepPrefix(section.heading) : section.heading}
                   </SectionHeadingReveal>
                   {sectionIdNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">
                       {sectionIdNotes.map((note) => (
-                        <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
+                        <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} variant="d2" />
                       ))}
                     </div>
                   )}
@@ -102,7 +98,7 @@ export function ReviewContentSections({
               </div>
             )}
 
-            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels}>
+            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels} variant="d2">
               <ReviewSectionContent
                 section={section}
                 reviewTitle={reviewTitle}

@@ -111,7 +111,7 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }:
     <div className="relative">
       <div
         aria-hidden="true"
-        className="absolute left-5 top-0 bottom-0 w-px bg-[#1a4d2e]/10 md:left-6"
+        className="absolute left-5 top-0 bottom-0 w-0.5 bg-marinho/15 md:left-6"
       />
 
       <div className="space-y-10">
@@ -130,21 +130,17 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }:
             >
               <div
                 aria-hidden="true"
-                className={`absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-full border-2 font-handwritten text-xl font-bold transition-all duration-300 md:h-12 md:w-12 md:text-2xl ${
+                className={`absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-full border-2 font-condensada text-xl font-black font-stretch-extra-condensed transition-all duration-300 motion-reduce:transition-none md:h-12 md:w-12 md:text-2xl ${
                   isActive
-                    ? 'border-[#ff6b35] bg-[#ff6b35] text-white shadow-md scale-110'
-                    : 'border-[#1a4d2e]/15 bg-white text-[#1a4d2e]/60'
+                    ? 'border-marinho bg-amarelo-cupom text-marinho motion-safe:scale-110'
+                    : 'border-marinho/30 bg-white text-marinho-suave'
                 }`}
               >
                 {stepNumber}
               </div>
 
               {stepTitle && (
-                <SectionHeadingReveal
-                  as="h2"
-                  underlineColor="#ff6b35"
-                  className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
-                >
+                <SectionHeadingReveal as="h2" variant="d2" className="mb-5 pt-1 md:pt-2">
                   {stepTitle}
                 </SectionHeadingReveal>
               )}

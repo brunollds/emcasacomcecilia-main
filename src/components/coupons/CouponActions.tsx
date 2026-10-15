@@ -16,6 +16,11 @@ export type CopyPlacement =
   | 'coupon_hub_featured'
   | 'bottom_bar'
   | 'review_sidebar'
+  // Recorte do topo do artigo e bloco da loja no fim dele.
+  | 'review_top'
+  | 'review_end'
+  // Código da loja citado no texto do artigo.
+  | 'review_inline'
   | 'review_mobile_dock'
   | 'review_mobile_drawer'
   // Recorte do código na vitrine da home.
@@ -24,7 +29,7 @@ export type CopyPlacement =
 // Nos artigos a marca é o afiliado, que pode faltar, e o slug do artigo vai junto.
 type CopyTracking = { placement: CopyPlacement; brand?: string; contentSlug?: string };
 
-function useCopyCode(code: string, { placement, brand, contentSlug }: CopyTracking) {
+function useCopyCode(code: string, { placement, brand, contentSlug }: CopyTracking, onCopied?: () => void) {
   const [copied, setCopied] = useState(false);
   const timeoutRef = useRef<number | undefined>(undefined);
 
@@ -39,6 +44,7 @@ function useCopyCode(code: string, { placement, brand, contentSlug }: CopyTracki
       placement,
     });
     setCopied(true);
+    onCopied?.();
     window.clearTimeout(timeoutRef.current);
     timeoutRef.current = window.setTimeout(() => setCopied(false), 2200);
   };
@@ -55,6 +61,7 @@ type CopyCodeButtonProps = CopyTracking & {
   ariaLabel?: string;
   // O que o leitor de tela anuncia ao copiar; sem ele, a frase em português.
   copiedStatus?: string;
+  onCopied?: () => void;
 };
 
 // O estado "copiado" sai em data-copied para o estilo trocar via data-[copied=true]:.
@@ -68,8 +75,9 @@ export function CopyCodeButton({
   copiedChildren,
   ariaLabel,
   copiedStatus,
+  onCopied,
 }: CopyCodeButtonProps) {
-  const { copied, copy } = useCopyCode(code, { placement, brand, contentSlug });
+  const { copied, copy } = useCopyCode(code, { placement, brand, contentSlug }, onCopied);
 
   return (
     <>

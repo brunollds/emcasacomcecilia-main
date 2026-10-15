@@ -9,17 +9,17 @@ import { cardImageLook } from '@/lib/cardImage';
 import {
   REVIEWS_ROUTE_CLICK,
   getReviewsRouteClickParameters,
-  type ShelfArticle,
+  type ShelfCardArticle,
   type ShelfPlacement,
 } from '@/lib/reviewsShelf';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 
 // O cartão de artigo de /reviews e das subpáginas de loja (na grade e, com ímã e inclinação, nas
-// Novidades) e a linha do modo lista. A foto leva em data-vt-name o nome da transição para o topo do
+// Novidades e nos relacionados do fim do artigo) e a linha do modo lista. A foto leva em data-vt-name o nome da transição para o topo do
 // artigo; o ViewTransitionLink só o aplica no clique, porque o mesmo artigo pode estar duas vezes na
 // página (Novidades e acervo), e nomes repetidos cancelam a transição.
 
-type ShelfLinkProps = { article: ShelfArticle; placement: ShelfPlacement };
+type ShelfLinkProps = { article: ShelfCardArticle; placement: ShelfPlacement };
 
 function trackClick({ article, placement }: ShelfLinkProps) {
   trackEvent(REVIEWS_ROUTE_CLICK, getReviewsRouteClickParameters({ href: article.href, placement, linkLabel: article.title }));
@@ -34,7 +34,7 @@ function Photo({
   eager = false,
   compact = false,
 }: {
-  article: ShelfArticle;
+  article: ShelfCardArticle;
   sizes: string;
   eager?: boolean;
   compact?: boolean;
@@ -95,9 +95,10 @@ export function ReviewShelfCard({
         <Photo article={article} sizes={imageSizes} eager={eager} />
       </span>
       {/* O título vem primeiro no DOM (é o começo do nome do link e o cabeçalho do cartão); o order-first
-          põe a data e o tipo acima dele, na tela. */}
+          põe a data e o tipo acima dele, na tela. Um código no título (CSEMCASACOMCECILIA) quebra em vez de
+          alargar o cartão na grade de duas colunas do celular. */}
       <div className="flex flex-1 flex-col gap-1.5 p-3">
-        <h3 className="text-[15px] leading-5 font-extrabold">{article.title}</h3>
+        <h3 className="text-[15px] leading-5 font-extrabold wrap-anywhere">{article.title}</h3>
         <span className="order-first text-xs font-bold text-marinho-suave">{`${article[dateFormat]}, ${article.type}`}</span>
       </div>
       {showStore && article.store ? (

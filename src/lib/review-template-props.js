@@ -1,4 +1,7 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
+import { getArticleStoreBlock } from '@/lib/articleStore';
+import { pickRelatedReviews } from '@/lib/relatedReviews';
+import { getRelatedShelfCards } from '@/lib/reviewsHub';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -21,19 +24,6 @@ import { getFaqItems, isFaqHeading } from '@/lib/faq';
 import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 export { getYoutubeEmbedUrl };
-
-export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
-  const locale = resolveReviewLocale(review.locale);
-  return reviewCorpus
-    .filter((item) => item.id !== review.id && resolveReviewLocale(item.locale) === locale)
-    .sort((a, b) => {
-      const typeScore = Number(b.type === review.type) - Number(a.type === review.type);
-      const productScore = Number(Boolean(b.rating) === Boolean(review.rating)) - Number(Boolean(a.rating) === Boolean(review.rating));
-
-      return typeScore || productScore || b.id - a.id;
-    })
-    .slice(0, 3);
-}
 
 /**
  * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title: string; category?: string }> }} review
@@ -67,16 +57,17 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
   const canonicalRating = review.rating ?? review.verdict?.stars;
   const isProductReview = review.reviewKind === 'produto' || typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
-  const relatedReviews = getRelatedReviews(review, reviewCorpus);
   const relatedArticleLinks = resolveRelatedArticleLinks(review, reviewCorpus);
   const viewModel = normalizeReview(review);
 
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
-  const reviewHub = localeKey === 'pt'
-    ? { href: '/reviews', label: 'Reviews' }
-    : getInternationalReviewHub(localeKey);
+  const relatedReviews = getRelatedShelfCards(pickRelatedReviews(review, reviewCorpus, 6), localeKey);
   const copy = getShellCopy(localeKey);
+  // A lista de guias tem o nome que o menu do idioma usa (em PT, Guias & Análises).
+  const reviewHub = localeKey === 'pt'
+    ? { href: '/reviews', label: copy.reviewHubLabel }
+    : getInternationalReviewHub(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
   const publisherLogoUrl = new URL(
@@ -199,6 +190,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     jsonLd,
     faqJsonLd,
     relatedReviews,
+    storeBlock: getArticleStoreBlock(review, localeKey),
     relatedArticleLinks,
     localeKey,
   };

@@ -387,7 +387,7 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' 
               <button
                 type="button"
                 onClick={() => scrollByCard(-1)}
-                className="absolute left-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
+                className="absolute left-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
                 aria-label={copy.previousImage}
               >
                 <ChevronLeft size={16} />
@@ -395,7 +395,7 @@ export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' 
               <button
                 type="button"
                 onClick={() => scrollByCard(1)}
-                className="absolute right-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
+                className="absolute right-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-marinho sm:inline-flex"
                 aria-label={copy.nextImage}
               >
                 <ChevronRight size={16} />

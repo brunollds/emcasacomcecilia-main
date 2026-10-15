@@ -48,7 +48,7 @@ export function CopyButton({
     variant === 'primary'
       ? 'bg-white px-4 py-2.5 text-[#862f0e] hover:bg-white/90 focus-visible:ring-white'
       : variant === 'outline'
-        ? 'border border-black/10 bg-[#fef9f3] px-2.5 py-1.5 text-[#0f1419] hover:bg-[#fdeedd] focus-visible:ring-[#ff6b35]'
+        ? 'border-2 border-marinho bg-white px-2.5 py-1.5 text-marinho hover:bg-amarelo-cupom focus-visible:ring-marinho'
         : 'border border-white/30 bg-white/15 px-4 py-2.5 text-white hover:bg-white/25 focus-visible:ring-white';
 
   return (
@@ -82,7 +82,7 @@ type CouponStoreLinkProps = {
   contentSlug?: string;
   linkLabel?: string;
   sponsored?: boolean;
-  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta' | 'home_store_banner';
+  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_sidebar' | 'review_top' | 'review_end' | 'review_mobile_drawer' | 'home_store_banner';
   className?: string;
 };
 

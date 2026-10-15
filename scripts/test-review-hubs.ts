@@ -141,7 +141,7 @@ assert.ok(portugueseReview, 'O corpus deve conter um review PT.');
 const portugueseProps = buildReviewTemplateProps(portugueseReview);
 assert.deepEqual(portugueseProps.breadcrumbs, [
   { name: 'Início', href: '/' },
-  { name: 'Reviews', href: '/reviews' },
+  { name: 'Guias & Análises', href: '/reviews' },
 ]);
 // No PT o JSON-LD é o de sempre, letra por letra: a raiz sem a barra final e as chaves nesta ordem.
 assert.equal(
@@ -151,7 +151,7 @@ assert.equal(
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Início', item: SITE_URL },
-      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${SITE_URL}/reviews` },
+      { '@type': 'ListItem', position: 2, name: 'Guias & Análises', item: `${SITE_URL}/reviews` },
       { '@type': 'ListItem', position: 3, name: portugueseReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}` },
     ],
   })

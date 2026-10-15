@@ -6,6 +6,11 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 // celular) e o passo das setas. `items` refaz a medida quando a fila muda.
 export const ROW_ARROW = `flex size-11 items-center justify-center rounded-full border-2 border-marinho bg-white text-marinho hover:bg-marinho hover:text-amarelo-cupom motion-safe:transition-colors ${FOCUS_RING}`;
 
+// Rolagem das setas: suave, salvo com "reduzir movimento".
+export function rowScrollBehavior(): ScrollBehavior {
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+}
+
 export function useRowScroll<T extends HTMLElement>(items: unknown) {
   const trackRef = useRef<T>(null);
   const [overflows, setOverflows] = useState(false);
@@ -32,8 +37,7 @@ export function useRowScroll<T extends HTMLElement>(items: unknown) {
     const track = trackRef.current;
     if (!track) return;
     const amount = Math.max(track.clientWidth * 0.8, 280);
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    track.scrollBy({ left: direction === 'right' ? amount : -amount, behavior: reduceMotion ? 'auto' : 'smooth' });
+    track.scrollBy({ left: direction === 'right' ? amount : -amount, behavior: rowScrollBehavior() });
   }
 
   return { trackRef, overflows, moreToTheRight, scrollTrack };

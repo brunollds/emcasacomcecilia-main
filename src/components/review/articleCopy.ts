@@ -1,7 +1,10 @@
 import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
 import type { ReviewVideoLabels } from './ReviewLoopVideo';
 import type { Recommendation, ReviewKind } from '@/lib/content';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
+import { inStore, ofStore, type StoreName } from '@/lib/storeNames';
+import type { CouponCopyLocale } from './couponCopyLocale';
 
 // O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
 const NBSP = ' ';
@@ -10,8 +13,6 @@ const NBSP = ' ';
 // produto, bloco de vídeo, legenda da imagem, o nome da trilha para o leitor de tela (o mesmo das
 // páginas de loja, em couponStoreCopy.tsx) e o rótulo e o fechar da nota editorial, que as receitas
 // usam em PT. A sidebar e o dock têm os deles em sidebarCopy.ts.
-// O código de indicação da SHEIN é da SHEIN Brasil e fora do PT o chip diz isso, com os termos da
-// página da loja (couponTranslations.ts).
 export type ArticleCopy = {
   kindLabel: Record<ReviewKind, string>;
   verdictTitle: string;
@@ -25,19 +26,14 @@ export type ArticleCopy = {
   rated: string;
   strengths: string;
   cautions: string;
-  worthIt: string;
-  codeChip: {
-    coupon: (code: string) => string;
-    reward: (code: string) => string;
-    referral: (code: string, brand: string) => string;
-  };
-  heroCaption: (stars: string) => string;
   finalVerdictLink: string;
   productSheet: string;
   productSheetOpen: string;
   productSheetClose: string;
   productSheetCaption: string;
   productSheetLink: string;
+  // Aparece no lugar do ícone depois de copiar o link de uma seção (ficha, veredito).
+  sectionLinkCopied: string;
   relatedVideo: string;
   watchOnYoutube: string;
   openVideoPage: string;
@@ -46,6 +42,26 @@ export type ArticleCopy = {
   videoUnsupported: string;
   demoVideo: (title: string) => string;
   breadcrumbLabel: string;
+  // Rótulos das regras do bloco da loja; neutros, porque o código pode ser de recompensa ou de indicação.
+  ruleTestedLabel: string;
+  ruleVerifiedLabel: string;
+  // Sob o recorte depois de copiar. A recompensa vai no campo Reward Code; a indicação não se cola no
+  // checkout, pesquisa-se no aplicativo, e fora do PT o texto diz que o código é da SHEIN Brasil.
+  copiedHint: (store: StoreName, kind?: CouponCodeKind) => string;
+  // Bloco da loja no fim do artigo. A loja vai com o slug: em PT, "no Magalu", "na DAMIE" (storeNames.ts).
+  storeBlockTitle: (store: StoreName) => string;
+  allRules: string;
+  allStoreArticles: (count: number, store: StoreName) => string;
+  // Caixa da Cecília no fim do artigo, com as frases que a home de cada idioma já usa.
+  authorBoxTitle: string;
+  authorBoxBody: string;
+  authorBoxLink: string;
+  // Abre a nota de transparência do topo, que fica numa linha.
+  disclosureMore: string;
+  // Botões do áudio do artigo, depois de tocar (o "Ouvir artigo" vem do shellDictionary).
+  listenPause: string;
+  listenResume: string;
+  listenStop: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -62,19 +78,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Avaliado',
     strengths: 'Pontos fortes',
     cautions: 'Pontos de atenção',
-    worthIt: 'Vale a pena',
-    codeChip: {
-      coupon: (code) => `Cupom ${code}`,
-      reward: (code) => `Código de recompensa ${code}`,
-      referral: (code, brand) => `Código de indicação ${brand} ${code}`,
-    },
-    heroCaption: (stars) => `Imagem do produto avaliado com nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar link do veredito final',
     productSheet: 'Ficha do produto',
     productSheetOpen: 'Abrir',
     productSheetClose: 'Fechar',
     productSheetCaption: 'Ficha técnica do produto avaliado',
     productSheetLink: 'Copiar link da ficha do produto',
+    sectionLinkCopied: 'Link copiado!',
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Assista ao vídeo completo no YouTube',
     openVideoPage: 'Abrir a página dedicada ao vídeo',
@@ -83,6 +93,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Seu navegador não suporta vídeos.',
     demoVideo: (title) => `Vídeo demonstrativo: ${title}`,
     breadcrumbLabel: 'Você está em',
+    ruleTestedLabel: 'Testado em',
+    ruleVerifiedLabel: 'Conferido em',
+    copiedHint: (store, kind) =>
+      kind === 'reward'
+        ? `Copiado. Agora é só colar no campo Reward Code ${ofStore(store)}.`
+        : kind === 'referral'
+          ? `Copiado. Agora pesquise o código de indicação no aplicativo ${store.brand}.`
+          : `Copiado. Agora é só colar no checkout ${ofStore(store)}.`,
+    storeBlockTitle: (store) => `Sua compra ${inStore(store)}`,
+    allRules: 'Ver todas as regras',
+    allStoreArticles: (count, store) => `Todos os ${count} artigos ${ofStore(store)}`,
+    authorBoxTitle: 'Oi, eu sou a Cecília',
+    authorBoxBody: 'Conto o que testo em casa e trago os códigos das lojas parceiras.',
+    authorBoxLink: 'Conheça a Cecília',
+    disclosureMore: 'Ler mais',
+    listenPause: 'Pausar',
+    listenResume: 'Continuar',
+    listenStop: 'Parar',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -97,19 +125,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Rated',
     strengths: 'Strengths',
     cautions: 'Things to watch',
-    worthIt: 'Worth it',
-    codeChip: {
-      coupon: (code) => `Discount code ${code}`,
-      reward: (code) => `Reward Code ${code}`,
-      referral: (code, brand) => `${brand} Brazil referral code ${code}`,
-    },
-    heroCaption: (stars) => `Product image, rated ${stars} out of 5.`,
     finalVerdictLink: 'Copy link to the final verdict',
     productSheet: 'Product details',
     productSheetOpen: 'Open',
     productSheetClose: 'Close',
     productSheetCaption: 'Technical details of the reviewed product',
     productSheetLink: 'Copy link to the product details',
+    sectionLinkCopied: 'Link copied!',
     relatedVideo: 'Related video',
     watchOnYoutube: 'Watch the full video on YouTube',
     openVideoPage: 'Open the dedicated video page',
@@ -118,6 +140,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Your browser does not support videos.',
     demoVideo: (title) => `Demo video: ${title}`,
     breadcrumbLabel: 'You are here',
+    ruleTestedLabel: 'Tested on',
+    ruleVerifiedLabel: 'Checked on',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `Copied. Now just paste it in the Reward Code field at ${brand}.`
+        : kind === 'referral'
+          ? `Copied. Now search the ${brand} Brazil referral code in the ${brand} app.`
+          : `Copied. Now just paste it at the ${brand} checkout.`,
+    storeBlockTitle: ({ brand }) => `Shopping at ${brand}`,
+    allRules: 'See all the rules',
+    allStoreArticles: (count, { brand }) => `All ${count} ${brand} articles`,
+    authorBoxTitle: 'Hi, I’m Cecília',
+    authorBoxBody: 'I share what I try at home and the codes from the stores I partner with.',
+    authorBoxLink: 'Meet Cecília',
+    disclosureMore: 'Read more',
+    listenPause: 'Pause',
+    listenResume: 'Resume',
+    listenStop: 'Stop',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -132,19 +172,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valorado',
     strengths: 'Puntos fuertes',
     cautions: 'Puntos a tener en cuenta',
-    worthIt: 'Vale la pena',
-    codeChip: {
-      coupon: (code) => `Código de descuento ${code}`,
-      reward: (code) => `Código de recompensa ${code}`,
-      referral: (code, brand) => `Código de referido de ${brand} Brasil ${code}`,
-    },
-    heroCaption: (stars) => `Imagen del producto valorado con nota ${stars} de 5.`,
     finalVerdictLink: 'Copiar enlace del veredicto final',
     productSheet: 'Ficha del producto',
     productSheetOpen: 'Abrir',
     productSheetClose: 'Cerrar',
     productSheetCaption: 'Ficha técnica del producto analizado',
     productSheetLink: 'Copiar enlace de la ficha del producto',
+    sectionLinkCopied: '¡Enlace copiado!',
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Mira el vídeo completo en YouTube',
     openVideoPage: 'Abrir la página dedicada al vídeo',
@@ -153,6 +187,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Tu navegador no admite vídeos.',
     demoVideo: (title) => `Vídeo demostrativo: ${title}`,
     breadcrumbLabel: 'Estás en',
+    ruleTestedLabel: 'Probado el',
+    ruleVerifiedLabel: 'Comprobado el',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `Copiado. Ahora solo pégalo en el campo Reward Code de ${brand}.`
+        : kind === 'referral'
+          ? `Copiado. Ahora busca el código de referido de ${brand} Brasil en la app de ${brand}.`
+          : `Copiado. Ahora solo pégalo al finalizar la compra en ${brand}.`,
+    storeBlockTitle: ({ brand }) => `Tu compra en ${brand}`,
+    allRules: 'Ver todas las reglas',
+    allStoreArticles: (count, { brand }) => `Los ${count} artículos de ${brand}`,
+    authorBoxTitle: 'Hola, soy Cecília',
+    authorBoxBody: 'Comparto lo que pruebo en casa y los códigos de las tiendas con las que colaboro.',
+    authorBoxLink: 'Conoce a Cecília',
+    disclosureMore: 'Leer más',
+    listenPause: 'Pausa',
+    listenResume: 'Reanudar',
+    listenStop: 'Detener',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -167,19 +219,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Évalué',
     strengths: 'Points forts',
     cautions: 'Points de vigilance',
-    worthIt: 'Ça vaut le coup',
-    codeChip: {
-      coupon: (code) => `Code promo ${code}`,
-      reward: (code) => `Code récompense ${code}`,
-      referral: (code, brand) => `Code de parrainage ${brand} Brésil ${code}`,
-    },
-    heroCaption: (stars) => `Image du produit évalué, note de ${stars} sur 5.`,
     finalVerdictLink: 'Copier le lien du verdict final',
     productSheet: 'Fiche produit',
     productSheetOpen: 'Ouvrir',
     productSheetClose: 'Fermer',
     productSheetCaption: 'Fiche technique du produit évalué',
     productSheetLink: 'Copier le lien de la fiche produit',
+    sectionLinkCopied: 'Lien copié !',
     relatedVideo: 'Vidéo associée',
     watchOnYoutube: 'Regardez la vidéo complète sur YouTube',
     openVideoPage: 'Ouvrir la page dédiée à la vidéo',
@@ -188,6 +234,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Votre navigateur ne prend pas en charge les vidéos.',
     demoVideo: (title) => `Vidéo de démonstration${NBSP}: ${title}`,
     breadcrumbLabel: 'Vous êtes ici',
+    ruleTestedLabel: 'Testé le',
+    ruleVerifiedLabel: 'Vérifié le',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `Copié. Il ne reste qu’à le coller dans le champ Reward Code de ${brand}.`
+        : kind === 'referral'
+          ? `Copié. Recherchez maintenant le code de parrainage ${brand} Brésil dans l’appli ${brand}.`
+          : `Copié. Il ne reste qu’à le coller au paiement sur ${brand}.`,
+    storeBlockTitle: ({ brand }) => `Votre achat chez ${brand}`,
+    allRules: 'Voir toutes les conditions',
+    allStoreArticles: (count, { brand }) => `Les ${count} articles sur ${brand}`,
+    authorBoxTitle: 'Bonjour, je suis Cecília',
+    authorBoxBody: 'Je partage ce que je teste chez moi et les codes des boutiques avec lesquelles je travaille.',
+    authorBoxLink: 'Découvrir Cecília',
+    disclosureMore: 'Lire la suite',
+    listenPause: 'Pause',
+    listenResume: 'Reprendre',
+    listenStop: 'Arrêter',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -202,19 +266,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Bewertet',
     strengths: 'Stärken',
     cautions: 'Worauf man achten sollte',
-    worthIt: 'Lohnt sich',
-    codeChip: {
-      coupon: (code) => `Rabattcode ${code}`,
-      reward: (code) => `Reward Code ${code}`,
-      referral: (code, brand) => `Empfehlungscode von ${brand} Brasilien ${code}`,
-    },
-    heroCaption: (stars) => `Bild des bewerteten Produkts, Note ${stars} von 5.`,
     finalVerdictLink: 'Link zum abschließenden Urteil kopieren',
     productSheet: 'Produktdaten',
     productSheetOpen: 'Öffnen',
     productSheetClose: 'Schließen',
     productSheetCaption: 'Technische Daten des bewerteten Produkts',
     productSheetLink: 'Link zu den Produktdaten kopieren',
+    sectionLinkCopied: 'Link kopiert!',
     relatedVideo: 'Passendes Video',
     watchOnYoutube: 'Das ganze Video auf YouTube ansehen',
     openVideoPage: 'Seite zum Video öffnen',
@@ -223,6 +281,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Dein Browser unterstützt keine Videos.',
     demoVideo: (title) => `Demovideo: ${title}`,
     breadcrumbLabel: 'Du bist hier',
+    ruleTestedLabel: 'Getestet am',
+    ruleVerifiedLabel: 'Geprüft am',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `Kopiert. Jetzt nur noch bei ${brand} ins Feld Reward Code einfügen.`
+        : kind === 'referral'
+          ? `Kopiert. Suche jetzt den Empfehlungscode von ${brand} Brasilien in der ${brand}-App.`
+          : `Kopiert. Jetzt nur noch an der ${brand}-Kasse einfügen.`,
+    storeBlockTitle: ({ brand }) => `Dein Einkauf bei ${brand}`,
+    allRules: 'Alle Bedingungen ansehen',
+    allStoreArticles: (count, { brand }) => `Alle ${count} Artikel zu ${brand}`,
+    authorBoxTitle: 'Hallo, ich bin Cecília',
+    authorBoxBody: 'Ich teile, was ich zu Hause ausprobiere, und die Codes der Shops, mit denen ich zusammenarbeite.',
+    authorBoxLink: 'Cecília kennenlernen',
+    disclosureMore: 'Mehr lesen',
+    listenPause: 'Pause',
+    listenResume: 'Fortsetzen',
+    listenStop: 'Stopp',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -237,19 +313,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: 'Valutato',
     strengths: 'Punti di forza',
     cautions: 'Punti di attenzione',
-    worthIt: 'Ne vale la pena',
-    codeChip: {
-      coupon: (code) => `Codice sconto ${code}`,
-      reward: (code) => `Codice ricompensa ${code}`,
-      referral: (code, brand) => `Codice invito ${brand} Brasile ${code}`,
-    },
-    heroCaption: (stars) => `Immagine del prodotto valutato, voto ${stars} su 5.`,
     finalVerdictLink: 'Copia il link del verdetto finale',
     productSheet: 'Scheda del prodotto',
     productSheetOpen: 'Apri',
     productSheetClose: 'Chiudi',
     productSheetCaption: 'Scheda tecnica del prodotto valutato',
     productSheetLink: 'Copia il link della scheda del prodotto',
+    sectionLinkCopied: 'Link copiato!',
     relatedVideo: 'Video correlato',
     watchOnYoutube: 'Guarda il video completo su YouTube',
     openVideoPage: 'Apri la pagina dedicata al video',
@@ -258,6 +328,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'Il tuo browser non supporta i video.',
     demoVideo: (title) => `Video dimostrativo: ${title}`,
     breadcrumbLabel: 'Sei qui',
+    ruleTestedLabel: 'Testato il',
+    ruleVerifiedLabel: 'Verificato il',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `Copiato. Ora basta incollarlo nel campo Reward Code di ${brand}.`
+        : kind === 'referral'
+          ? `Copiato. Ora cerca il codice invito ${brand} Brasile nell’app ${brand}.`
+          : `Copiato. Ora basta incollarlo al checkout di ${brand}.`,
+    storeBlockTitle: ({ brand }) => `Il tuo acquisto su ${brand}`,
+    allRules: 'Vedi tutte le regole',
+    allStoreArticles: (count, { brand }) => `Tutti i ${count} articoli su ${brand}`,
+    authorBoxTitle: 'Ciao, sono Cecília',
+    authorBoxBody: 'Condivido quello che provo a casa e i codici dei negozi con cui collaboro.',
+    authorBoxLink: 'Conosci Cecília',
+    disclosureMore: 'Leggi di più',
+    listenPause: 'Pausa',
+    listenResume: 'Riprendi',
+    listenStop: 'Interrompi',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -272,19 +360,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '평가 완료',
     strengths: '장점',
     cautions: '참고할 점',
-    worthIt: '살 만해요',
-    codeChip: {
-      coupon: (code) => `할인 코드 ${code}`,
-      reward: (code) => `리워드 코드 ${code}`,
-      referral: (code, brand) => `${brand} 브라질 추천 코드 ${code}`,
-    },
-    heroCaption: (stars) => `5점 만점에 ${stars}점으로 평가한 제품 이미지.`,
     finalVerdictLink: '최종 평가 링크 복사',
     productSheet: '제품 정보',
     productSheetOpen: '열기',
     productSheetClose: '닫기',
     productSheetCaption: '평가한 제품의 상세 사양',
     productSheetLink: '제품 정보 링크 복사',
+    sectionLinkCopied: '링크를 복사했어요',
     relatedVideo: '관련 영상',
     watchOnYoutube: 'YouTube에서 전체 영상 보기',
     openVideoPage: '영상 전용 페이지 열기',
@@ -293,6 +375,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '이 브라우저는 영상을 지원하지 않아요.',
     demoVideo: (title) => `시연 영상: ${title}`,
     breadcrumbLabel: '현재 위치',
+    ruleTestedLabel: '테스트일',
+    ruleVerifiedLabel: '확인일',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `복사했어요. 이제 ${brand}의 Reward Code 입력란에 붙여 넣으세요.`
+        : kind === 'referral'
+          ? `복사했어요. 이제 ${brand} 앱에서 ${brand} 브라질 추천 코드를 검색하세요.`
+          : `복사했어요. 이제 ${brand} 결제 화면에 붙여 넣으세요.`,
+    storeBlockTitle: ({ brand }) => `${brand}에서 쇼핑할 때`,
+    allRules: '모든 조건 보기',
+    allStoreArticles: (count, { brand }) => `${brand} 관련 글 ${count}편 모두 보기`,
+    authorBoxTitle: '안녕하세요, Cecília예요',
+    authorBoxBody: '집에서 직접 써 본 것과 함께하는 스토어의 코드를 소개해요.',
+    authorBoxLink: 'Cecília 더 알아보기',
+    disclosureMore: '더 보기',
+    listenPause: '일시정지',
+    listenResume: '계속 듣기',
+    listenStop: '정지',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -307,19 +407,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '評価済み',
     strengths: '良い点',
     cautions: '気になる点',
-    worthIt: '買う価値あり',
-    codeChip: {
-      coupon: (code) => `割引コード ${code}`,
-      reward: (code) => `リワードコード ${code}`,
-      referral: (code, brand) => `${brand} ブラジルの紹介コード ${code}`,
-    },
-    heroCaption: (stars) => `5点満点中${stars}点と評価した製品の画像。`,
     finalVerdictLink: '最終評価のリンクをコピー',
     productSheet: '製品情報',
     productSheetOpen: '開く',
     productSheetClose: '閉じる',
     productSheetCaption: '評価した製品の仕様',
     productSheetLink: '製品情報のリンクをコピー',
+    sectionLinkCopied: 'リンクをコピーしました',
     relatedVideo: '関連動画',
     watchOnYoutube: 'YouTube で動画の全編を見る',
     openVideoPage: '動画専用ページを開く',
@@ -328,6 +422,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: 'お使いのブラウザは動画に対応していません。',
     demoVideo: (title) => `デモ動画：${title}`,
     breadcrumbLabel: '現在位置',
+    ruleTestedLabel: 'テスト日',
+    ruleVerifiedLabel: '確認日',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `コピーしました。あとは ${brand} の Reward Code 欄に貼り付けるだけです。`
+        : kind === 'referral'
+          ? `コピーしました。${brand} アプリで ${brand} ブラジルの紹介コードを検索してください。`
+          : `コピーしました。あとは ${brand} の決済画面に貼り付けるだけです。`,
+    storeBlockTitle: ({ brand }) => `${brand} でのお買い物`,
+    allRules: '条件をすべて見る',
+    allStoreArticles: (count, { brand }) => `${brand} の記事 ${count} 本をすべて見る`,
+    authorBoxTitle: 'こんにちは、Cecíliaです',
+    authorBoxBody: '家で試したものと、提携ショップのコードを紹介しています。',
+    authorBoxLink: 'Cecíliaについて',
+    disclosureMore: '続きを読む',
+    listenPause: '一時停止',
+    listenResume: '再開',
+    listenStop: '停止',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -342,19 +454,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已評分',
     strengths: '優點',
     cautions: '注意事項',
-    worthIt: '值得入手',
-    codeChip: {
-      coupon: (code) => `優惠碼 ${code}`,
-      reward: (code) => `獎勵碼 ${code}`,
-      referral: (code, brand) => `${brand} 巴西站推薦碼 ${code}`,
-    },
-    heroCaption: (stars) => `評分 ${stars} 分（滿分 5 分）的產品圖片。`,
     finalVerdictLink: '複製最終評價連結',
     productSheet: '產品資訊',
     productSheetOpen: '展開',
     productSheetClose: '收合',
     productSheetCaption: '所評測產品的規格資料',
     productSheetLink: '複製產品資訊連結',
+    sectionLinkCopied: '已複製連結',
     relatedVideo: '相關影片',
     watchOnYoutube: '在 YouTube 觀看完整影片',
     openVideoPage: '開啟影片專頁',
@@ -363,6 +469,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '你的瀏覽器不支援影片。',
     demoVideo: (title) => `示範影片：${title}`,
     breadcrumbLabel: '目前位置',
+    ruleTestedLabel: '測試日期',
+    ruleVerifiedLabel: '核實日期',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `已複製。接著貼到 ${brand} 的 Reward Code 欄位即可。`
+        : kind === 'referral'
+          ? `已複製。請在 ${brand} App 搜尋 ${brand} 巴西站推薦碼。`
+          : `已複製。接著在 ${brand} 結帳時貼上即可。`,
+    storeBlockTitle: ({ brand }) => `在 ${brand} 購物`,
+    allRules: '查看全部規則',
+    allStoreArticles: (count, { brand }) => `${brand} 的全部 ${count} 篇文章`,
+    authorBoxTitle: '你好，我是 Cecília',
+    authorBoxBody: '我分享在家試過的東西，以及合作商店的代碼。',
+    authorBoxLink: '認識 Cecília',
+    disclosureMore: '閱讀全文',
+    listenPause: '暫停',
+    listenResume: '繼續',
+    listenStop: '停止',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -377,19 +501,13 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     rated: '已评分',
     strengths: '优点',
     cautions: '注意事项',
-    worthIt: '值得入手',
-    codeChip: {
-      coupon: (code) => `优惠码 ${code}`,
-      reward: (code) => `奖励码 ${code}`,
-      referral: (code, brand) => `${brand} 巴西站推荐码 ${code}`,
-    },
-    heroCaption: (stars) => `评分 ${stars} 分（满分 5 分）的产品图片。`,
     finalVerdictLink: '复制最终评价链接',
     productSheet: '产品信息',
     productSheetOpen: '展开',
     productSheetClose: '收起',
     productSheetCaption: '所评测产品的规格资料',
     productSheetLink: '复制产品信息链接',
+    sectionLinkCopied: '已复制链接',
     relatedVideo: '相关视频',
     watchOnYoutube: '在 YouTube 观看完整视频',
     openVideoPage: '打开视频专页',
@@ -398,6 +516,24 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoUnsupported: '你的浏览器不支持视频。',
     demoVideo: (title) => `演示视频：${title}`,
     breadcrumbLabel: '当前位置',
+    ruleTestedLabel: '测试日期',
+    ruleVerifiedLabel: '核实日期',
+    copiedHint: ({ brand }, kind) =>
+      kind === 'reward'
+        ? `已复制。接着粘贴到 ${brand} 的 Reward Code 栏位即可。`
+        : kind === 'referral'
+          ? `已复制。请在 ${brand} App 中搜索 ${brand} 巴西站推荐码。`
+          : `已复制。接着在 ${brand} 结账时粘贴即可。`,
+    storeBlockTitle: ({ brand }) => `在 ${brand} 购物`,
+    allRules: '查看全部规则',
+    allStoreArticles: (count, { brand }) => `${brand} 的全部 ${count} 篇文章`,
+    authorBoxTitle: '你好，我是 Cecília',
+    authorBoxBody: '我分享在家试过的东西，以及合作商店的代码。',
+    authorBoxLink: '认识 Cecília',
+    disclosureMore: '阅读全文',
+    listenPause: '暂停',
+    listenResume: '继续',
+    listenStop: '停止',
   },
 };
 
@@ -415,4 +551,117 @@ export function getEditorialNoteLabels(locale: Locale): EditorialNoteLabels {
 export function getReviewVideoLabels(locale: Locale): ReviewVideoLabels {
   const { videoPause, videoPlay, videoUnsupported } = getArticleCopy(locale);
   return { pause: videoPause, play: videoPlay, unsupported: videoUnsupported };
+}
+
+export type TemplateUi = {
+  publishedAt: string;
+  updatedAt: string;
+  readTime: (mins: number) => string;
+  relatedArticles: string;
+  verdictToc: string;
+  viewAll: string;
+};
+
+const templateUiLabels: Record<CouponCopyLocale, TemplateUi> = {
+  pt: {
+    publishedAt: 'Publicado em',
+    updatedAt: 'Atualizado em',
+    readTime: (m) => `${m} min de leitura`,
+    relatedArticles: 'Artigos relacionados',
+    verdictToc: 'Veredito final',
+    viewAll: 'Ver todos',
+  },
+  en: {
+    publishedAt: 'Published on',
+    updatedAt: 'Updated on',
+    readTime: (m) => `${m} min read`,
+    relatedArticles: 'Related articles',
+    verdictToc: 'Final verdict',
+    viewAll: 'View all',
+  },
+  es: {
+    publishedAt: 'Publicado el',
+    updatedAt: 'Actualizado el',
+    readTime: (m) => `${m} min de lectura`,
+    relatedArticles: 'Artículos relacionados',
+    verdictToc: 'Veredicto final',
+    viewAll: 'Ver todos',
+  },
+  fr: {
+    publishedAt: 'Publié le',
+    updatedAt: 'Mis à jour le',
+    readTime: (m) => `${m} min de lecture`,
+    relatedArticles: 'Articles connexes',
+    verdictToc: 'Verdict final',
+    viewAll: 'Voir tout',
+  },
+  de: {
+    publishedAt: 'Veröffentlicht am',
+    updatedAt: 'Aktualisiert am',
+    readTime: (m) => `${m} Min. Lesezeit`,
+    relatedArticles: 'Verwandte Artikel',
+    verdictToc: 'Endergebnis',
+    viewAll: 'Alle ansehen',
+  },
+  it: {
+    publishedAt: 'Pubblicato il',
+    updatedAt: 'Aggiornato il',
+    readTime: (m) => `${m} min di lettura`,
+    relatedArticles: 'Articoli correlati',
+    verdictToc: 'Verdetto finale',
+    viewAll: 'Vedi tutto',
+  },
+  ko: {
+    publishedAt: '발행일',
+    updatedAt: '수정일',
+    readTime: (m) => `읽는 시간 ${m}분`,
+    relatedArticles: '관련 문서',
+    verdictToc: '최종 평가',
+    viewAll: '전체 보기',
+  },
+  ja: {
+    publishedAt: '公開日',
+    updatedAt: '更新日',
+    readTime: (m) => `読了時間 約${m}分`,
+    relatedArticles: '関連記事',
+    verdictToc: '最終評価',
+    viewAll: 'すべて見る',
+  },
+  'zh-hant': {
+    publishedAt: '發布於',
+    updatedAt: '更新於',
+    readTime: (m) => `閱讀時間約 ${m} 分鐘`,
+    relatedArticles: '相關文章',
+    verdictToc: '最終評價',
+    viewAll: '查看全部',
+  },
+  'zh-hans': {
+    publishedAt: '发布于',
+    updatedAt: '更新于',
+    readTime: (m) => `阅读时间约 ${m} 分钟`,
+    relatedArticles: '相关文章',
+    verdictToc: '最终评价',
+    viewAll: '查看全部',
+  },
+};
+
+export function getTemplateUi(locale: CouponCopyLocale): TemplateUi {
+  return templateUiLabels[locale] || templateUiLabels.pt;
+}
+
+export function getDisclosureLabel(locale: CouponCopyLocale): string {
+  const labels: Record<CouponCopyLocale, string> = {
+    pt: 'Transparência editorial',
+    en: 'Editorial transparency',
+    es: 'Transparencia editorial',
+    fr: 'Transparence éditoriale',
+    de: 'Redaktionelle Transparenz',
+    it: 'Trasparenza editoriale',
+    ko: '광고 및 제휴 안내',
+    ja: '広告・アフィリエイトについて',
+    'zh-hant': '聯盟行銷揭露',
+    'zh-hans': '联盟营销披露',
+  };
+
+  return labels[locale];
 }

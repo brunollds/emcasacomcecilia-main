@@ -1,35 +1,26 @@
-import { Fragment } from 'react';
-import Image from 'next/image';
-import Link from 'next/link';
-import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
-import TextToSpeechButton from '@/components/TextToSpeechButton';
-import { CouponStoreLink } from '@/components/CouponComponents';
-import { asSentence } from '@/components/coupons/CouponBlocks';
-import { ShareBar } from '@/components/shared/ShareBar';
-import { ReviewGallerySection } from './ReviewGallerySection';
-import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
-import { formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { SectionLinkButton, SectionHeadingReveal, EditorialReveal, EditorialAmbientBackground } from '@/components/editorial';
+import { asSentence, couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
+import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { Locale } from '@/lib/i18n/locales';
+import type { ArticleStoreBlock } from '@/lib/articleStore';
+import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
-import { ReviewHeroImage } from './ReviewHeroImage';
-import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
-import { getArticleCopy, getEditorialNoteLabels } from './articleCopy';
+import { getArticleCopy, getEditorialNoteLabels, getTemplateUi } from './articleCopy';
 import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
-import { InlineCouponCopy } from './InlineCouponCopy';
-import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
-import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
-import type { Locale } from '@/lib/i18n/locales';
-import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { isStepHeading } from './couponCopyLocale';
 import { GuideTimeline } from './GuideTimeline';
-import { PullQuote } from './PullQuote';
-import { ReviewHighlightChips } from './ReviewHighlightChips';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { ArticleCodeCopyProvider } from './HighlightCoupon';
+import { ArticleHeader } from './article/ArticleHeader';
+import { ArticleEnd } from './article/ArticleEnd';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -43,15 +34,12 @@ export interface ReviewNotebookTemplateProps {
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
-  relatedReviews: Review[];
+  // Os 6 relacionados (pickRelatedReviews), já nos cartões da estante.
+  relatedReviews: ShelfCardArticle[];
+  // Recorte do topo (e, depois, bloco da loja e lateral); null em artigo sem loja ativa.
+  storeBlock?: ArticleStoreBlock | null;
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
-}
-
-function getBadgeColor(kind: ReviewViewModel['kind']) {
-  if (kind === 'produto') return 'bg-[#1a4d2e] text-white';
-  if (kind === 'guia') return 'bg-[#ff6b35] text-white';
-  return 'bg-[#1a4d2e]/10 text-[#1a4d2e]';
 }
 
 function estimateReadTimeMinutes(text: string): number {
@@ -59,127 +47,6 @@ function estimateReadTimeMinutes(text: string): number {
   return Math.max(1, Math.ceil(words / 200));
 }
 
-
-
-
-
-function getDisclosureLabel(locale: CouponCopyLocale): string {
-  const labels: Record<CouponCopyLocale, string> = {
-    pt: 'Transparência editorial',
-    en: 'Editorial transparency',
-    es: 'Transparencia editorial',
-    fr: 'Transparence éditoriale',
-    de: 'Redaktionelle Transparenz',
-    it: 'Trasparenza editoriale',
-    ko: '광고 및 제휴 안내',
-    ja: '広告・アフィリエイトについて',
-    'zh-hant': '聯盟行銷揭露',
-    'zh-hans': '联盟营销披露',
-  };
-
-  return labels[locale];
-}
-
-const templateUiLabels: Record<CouponCopyLocale, {
-  publishedAt: string;
-  updatedAt: string;
-  readTime: (mins: number) => string;
-  interested: string;
-  relatedArticles: string;
-  verdictToc: string;
-  viewAll: string;
-}> = {
-  pt: {
-    publishedAt: 'Publicado em',
-    updatedAt: 'Atualizado em',
-    readTime: (m) => `${m} min de leitura`,
-    interested: 'Interessou?',
-    relatedArticles: 'Artigos relacionados',
-    verdictToc: 'Veredito final',
-    viewAll: 'Ver todos',
-  },
-  en: {
-    publishedAt: 'Published on',
-    updatedAt: 'Updated on',
-    readTime: (m) => `${m} min read`,
-    interested: 'Interested?',
-    relatedArticles: 'Related articles',
-    verdictToc: 'Final verdict',
-    viewAll: 'View all',
-  },
-  es: {
-    publishedAt: 'Publicado el',
-    updatedAt: 'Actualizado el',
-    readTime: (m) => `${m} min de lectura`,
-    interested: '¿Te interesa?',
-    relatedArticles: 'Artículos relacionados',
-    verdictToc: 'Veredicto final',
-    viewAll: 'Ver todos',
-  },
-  fr: {
-    publishedAt: 'Publié le',
-    updatedAt: 'Mis à jour le',
-    readTime: (m) => `${m} min de lecture`,
-    interested: 'Intéressé ?',
-    relatedArticles: 'Articles connexes',
-    verdictToc: 'Verdict final',
-    viewAll: 'Voir tout',
-  },
-  de: {
-    publishedAt: 'Veröffentlicht am',
-    updatedAt: 'Aktualisiert am',
-    readTime: (m) => `${m} Min. Lesezeit`,
-    interested: 'Interessiert?',
-    relatedArticles: 'Verwandte Artikel',
-    verdictToc: 'Endergebnis',
-    viewAll: 'Alle ansehen',
-  },
-  it: {
-    publishedAt: 'Pubblicato il',
-    updatedAt: 'Aggiornato il',
-    readTime: (m) => `${m} min di lettura`,
-    interested: 'Ti interessa?',
-    relatedArticles: 'Articoli correlati',
-    verdictToc: 'Verdetto finale',
-    viewAll: 'Vedi tutto',
-  },
-  ko: {
-    publishedAt: '발행일',
-    updatedAt: '수정일',
-    readTime: (m) => `읽는 시간 ${m}분`,
-    interested: '관심이 있으신가요?',
-    relatedArticles: '관련 문서',
-    verdictToc: '최종 평가',
-    viewAll: '전체 보기',
-  },
-  ja: {
-    publishedAt: '公開日',
-    updatedAt: '更新日',
-    readTime: (m) => `読了時間 約${m}分`,
-    interested: '気になりましたか？',
-    relatedArticles: '関連記事',
-    verdictToc: '最終評価',
-    viewAll: 'すべて見る',
-  },
-  'zh-hant': {
-    publishedAt: '發布於',
-    updatedAt: '更新於',
-    readTime: (m) => `閱讀時間約 ${m} 分鐘`,
-    interested: '感興趣嗎？',
-    relatedArticles: '相關文章',
-    verdictToc: '最終評價',
-    viewAll: '查看全部',
-  },
-  'zh-hans': {
-    publishedAt: '发布于',
-    updatedAt: '更新于',
-    readTime: (m) => `阅读时间约 ${m} 分钟`,
-    interested: '感兴趣吗？',
-    relatedArticles: '相关文章',
-    verdictToc: '最终评价',
-    viewAll: '查看全部',
-  },
-};
 
 export function ReviewNotebookTemplate({
   review,
@@ -193,20 +60,21 @@ export function ReviewNotebookTemplate({
   jsonLd,
   faqJsonLd = null,
   relatedReviews,
+  storeBlock = null,
   relatedArticleLinks,
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = resolveReviewLocale(review.locale);
-  // A lista de artigos do idioma é o último nível da trilha antes do artigo.
-  const reviewHubHref = breadcrumbs[breadcrumbs.length - 1].href;
-  const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
+  // O "Ver todos" dos relacionados: a subpágina da loja quando existe; senão, a lista de artigos do idioma, o
+  // último nível da trilha antes do artigo.
+  const relatedAllHref = storeBlock?.articlesHref ?? breadcrumbs[breadcrumbs.length - 1].href;
+  const ui = getTemplateUi(couponCopyLocale);
 
   const { kind, plainTextBody } = viewModel;
   const copy = getArticleCopy(couponCopyLocale);
   const noteLabels = getEditorialNoteLabels(couponCopyLocale);
   // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
   const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
-  const badgeColor = getBadgeColor(kind);
   const speechText = [review.title, review.description, plainTextBody].filter(Boolean).join(' ');
   const readTime = estimateReadTimeMinutes(plainTextBody);
 
@@ -260,6 +128,16 @@ export function ReviewNotebookTemplate({
       ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark }
       : undefined;
 
+  // O link do recorte: 'Ir para a loja' com código; sem código, o rótulo que a página da loja já usa.
+  const storeCopy = COUPON_STORE_COPY[couponCopyLocale];
+  const storeLabel = storeBlock?.code
+    ? storeCopy.goToStore
+    : (couponCopyLocale === 'pt' && store?.offerActionLabel) || storeCopy.viewOffer;
+  // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
+  const inlineCodeCopy = storeBlock?.code
+    ? { code: storeBlock.code, codeKind: storeBlock.codeKind, brand: storeBlock.brand, slug: storeBlock.slug, reviewSlug: review.slug, locale: couponCopyLocale }
+    : null;
+
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
 
@@ -284,7 +162,7 @@ export function ReviewNotebookTemplate({
       <div className="hidden lg:block">
         <ReadingProgressBar />
       </div>
-      <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
+      <EditorialAmbientBackground variant="review" className="min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(breadcrumbJsonLd) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(jsonLd) }} />
         {faqJsonLd && (
@@ -292,246 +170,82 @@ export function ReviewNotebookTemplate({
         )}
 
         {/* Endereços e e-mails longos no texto quebram em vez de alargar a página no celular. */}
-        <div className="mx-auto max-w-6xl px-4 py-6 wrap-break-word md:py-10">
+        <div className={`${couponFontVariables} mx-auto max-w-6xl px-4 py-6 wrap-break-word md:py-10`}>
           {/* Header editorial */}
-          <header className="mb-10">
-            {/* Fila do topo: categoria + breadcrumb */}
-            <EditorialReveal as="div" delay={0} className="mb-4 flex flex-wrap items-center justify-between gap-3">
-              <span className={`inline-flex rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.16em] ${badgeColor}`}>
-                {kindLabel}
-              </span>
-
-              <nav aria-label={copy.breadcrumbLabel}>
-                <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
-                  {breadcrumbs.map(({ name, href }) => (
-                    <Fragment key={href}>
-                      <li>
-                        <Link href={href} className="transition-colors hover:text-[#1a4d2e]">{name}</Link>
-                      </li>
-                      <li aria-hidden="true"><ChevronRight size={14} /></li>
-                    </Fragment>
-                  ))}
-                  <li className="max-w-[200px] truncate text-[#1a4d2e] md:max-w-md" aria-current="page">
-                    {review.title}
-                  </li>
-                </ol>
-              </nav>
-            </EditorialReveal>
-
-            {/* Divisor horizontal */}
-            <div className="mb-6 h-px w-full bg-[#1a4d2e]/10" />
-
-            {/* Corpo do cabeçalho */}
-            <EditorialReveal as="div" delay={0.05} className="mb-3">
-              <span className="text-xs font-bold uppercase tracking-[0.18em] text-[#ff6b35]">
-                {review.type}
-              </span>
-            </EditorialReveal>
-
-            <EditorialReveal
-              as="h1"
-              delay={0.1}
-              className="mb-4 font-editorial text-3xl font-bold leading-[1.1] tracking-[-0.02em] text-[#1a4d2e] md:text-4xl lg:text-5xl"
-            >
-              {review.title}
-            </EditorialReveal>
-
-            <div className="mb-5 h-[3px] w-16 bg-[#ff6b35]" />
-
-            <EditorialReveal
-              as="p"
-              delay={0.15}
-              className="mb-4 max-w-3xl font-editorial text-lg italic leading-relaxed text-[#4a5568] md:text-xl"
-            >
-              {review.description}
-            </EditorialReveal>
-
-            {/* Cupom copiável no resumo — só guias com cupom (oculto quando há tabela de faixas) */}
-            {kind === 'guia' &&
-              review.coupon &&
-              !review.contentSections?.some(
-                (s) => s.couponTiers && s.couponTiers.length > 0
-              ) && (
-              <EditorialReveal delay={0.17}>
-                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} kind={codeKind} brand={codeBrand} />
-              </EditorialReveal>
-            )}
-
-            {Object.keys(languageLinks).length > 1 && (
-              <LanguageSwitcher
-                currentLocale={couponCopyLocale}
-                links={languageLinks}
-              />
-            )}
-
-            <EditorialReveal as="div" delay={0.2} className="mb-8">
-              <ArticleByline
-                authors={review.authors || (review.author ? [review.author] : undefined)}
-                fallbackAuthor={{
-                  name: 'Cecília Mauad',
-                  role: 'Em Casa com Cecília',
-                  initials: 'CM',
-                  url: '/sobre',
-                }}
-                meta={[
-                  ...(review.publishedAtISO
-                    ? [{ icon: 'calendar' as const, label: ui.publishedAt, value: formatDate(review.publishedAtISO, couponCopyLocale), dateTime: review.publishedAtISO }]
-                    : []),
-                  ...(review.updatedAt && review.updatedAt !== review.publishedAtISO
-                    ? [{ label: ui.updatedAt, value: formatDate(review.updatedAt, couponCopyLocale), dateTime: review.updatedAt }]
-                    : []),
-                  { icon: 'clock', label: ui.readTime(1).split(' ')[0], value: ui.readTime(readTime) },
-                ]}
-                action={<TextToSpeechButton text={speechText} label={getShellCopy(couponCopyLocale).listenAudio} />}
-              />
-              {review.changelog && review.changelog.length > 0 && (
-                <div className="mt-3">
-                  <ChangelogDetails entries={review.changelog} />
-                </div>
-              )}
-              {unanchoredNotes.length > 0 && (
-                <div className="mt-4 flex flex-wrap gap-2">
-                  {unanchoredNotes.map((note) => (
-                    <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
-                  ))}
-                </div>
-              )}
-            </EditorialReveal>
-
-            {review.editorialNote && (
-              <EditorialReveal
-                as="aside"
-                delay={0.22}
-                className="mb-6 flex max-w-3xl items-start gap-3 rounded-xl border border-[#1a4d2e]/15 bg-[#eef7f1] px-4 py-3 text-[#24313d]"
-                aria-label={getDisclosureLabel(couponCopyLocale)}
-              >
-                <ShieldCheck className="mt-0.5 h-5 w-5 flex-shrink-0 text-[#1a4d2e]" aria-hidden="true" />
-                <div>
-                  <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
-                    {getDisclosureLabel(couponCopyLocale)}
-                  </p>
-                  <p className="mt-1 text-sm leading-relaxed text-[#4a5568]">
-                    {review.editorialNote}
-                  </p>
-                </div>
-              </EditorialReveal>
-            )}
-
-            <ReviewHighlightChips review={review} kind={kind} codeKind={codeKind} codeBrand={codeBrand} />
-
-            {/* Hero image */}
-            <EditorialReveal as="figure" delay={0.25}>
-              <ReviewHeroImage
-                src={reviewImage}
-                alt={reviewImageAlt}
-                isPortrait={isPortraitHero}
-                imageAspect={review.imageAspect}
-                imagePosition={review.imagePosition}
-                imageFit={review.imageFit}
-                hasProductRating={hasProductRating}
-                objectContain={kind === 'editorial'}
-                compact={Boolean(review.heroCompact)}
-                rating={typeof review.rating === 'number' ? review.rating : undefined}
-                slug={review.slug}
-                video={review.video}
-                locale={couponCopyLocale}
-              />
-            </EditorialReveal>
-            {videoPageUrl && !youtubeEmbedUrl && (
-              <Link
-                href={videoPageUrl}
-                className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
-              >
-                <PlayCircle size={17} aria-hidden="true" /> {copy.openVideoPage}
-              </Link>
-            )}
-          </header>
+          <ArticleHeader
+            review={review}
+            kind={kind}
+            kindLabel={kindLabel}
+            copy={copy}
+            ui={ui}
+            noteLabels={noteLabels}
+            couponCopyLocale={couponCopyLocale}
+            breadcrumbs={breadcrumbs}
+            languageLinks={languageLinks}
+            speechText={speechText}
+            readTime={readTime}
+            unanchoredNotes={unanchoredNotes}
+            reviewImage={reviewImage}
+            reviewImageAlt={reviewImageAlt}
+            isPortraitHero={isPortraitHero}
+            hasProductRating={hasProductRating}
+            videoPageUrl={videoPageUrl}
+            youtubeEmbedUrl={youtubeEmbedUrl}
+            storeBlock={storeBlock}
+            storeLabel={storeLabel}
+          />
 
           {/* Layout principal + sidebar */}
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
             <div className="min-w-0 lg:col-span-8">
-              {/* Pull quote editorial */}
-              {review.pullQuote && (
-                <div className="mb-10">
-                  <PullQuote quote={review.pullQuote} />
-                </div>
-              )}
-
-              {/* Ficha do produto em tabela */}
-              {kind === 'produto' && hasProductSpec && (
-                <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
-                  <div className="flex items-start gap-2">
-                    <details className="group flex-1 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
-                      <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                        <span>{copy.productSheet}</span>
-                        <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
-                          {copy.productSheetOpen}
-                        </span>
-                        <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
-                          {copy.productSheetClose}
-                        </span>
-                      </summary>
-                      <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
-                        <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
-                          <table className="w-full text-sm">
+              {/* O corpo: ficha, seções e veredito em texto. O test:build-output confere o visual dele por este atributo. */}
+              <ArticleCodeCopyProvider value={inlineCodeCopy}>
+                <div data-article="corpo">
+                  {/* Ficha do produto em tabela */}
+                  {kind === 'produto' && hasProductSpec && (
+                    <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
+                      <div className="flex items-start gap-2">
+                        <details className="group flex-1 overflow-hidden rounded-2xl border-2 border-marinho bg-white" open>
+                          <summary className={`flex min-h-14 cursor-pointer list-none items-center justify-between gap-4 px-5 py-3 transition-colors hover:bg-creme md:px-6 [&::-webkit-details-marker]:hidden ${FOCUS_RING}`}>
+                            <span className="font-condensada text-[28px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-[32px]">
+                              {copy.productSheet}
+                            </span>
+                            <span className="text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:hidden">
+                              {copy.productSheetOpen}
+                            </span>
+                            <span className="hidden text-xs font-extrabold tracking-[0.14em] text-marinho-suave uppercase group-open:inline">
+                              {copy.productSheetClose}
+                            </span>
+                          </summary>
+                          <table className="w-full border-t-2 border-marinho text-sm">
                             <caption className="sr-only">{copy.productSheetCaption}</caption>
-                            <tbody>
+                            <tbody className="divide-y divide-marinho/15">
                               {review.productSpec.map((spec, index) => (
-                                <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
-                                  <th scope="row" className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
+                                <tr key={index}>
+                                  <th scope="row" className="w-2/5 px-5 py-3 text-left align-top font-bold text-marinho-suave md:px-6">
                                     {spec.key}
                                   </th>
-                                  <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
-                                    {spec.value}
+                                  <td className="px-5 py-3 align-top font-semibold text-marinho md:px-6">
+                                    {spec.highlight ? <span className="marca-texto font-extrabold">{spec.value}</span> : spec.value}
                                   </td>
                                 </tr>
                               ))}
                             </tbody>
                           </table>
+                        </details>
+                        <div className="pt-4">
+                          <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} copiedLabel={copy.sectionLinkCopied} variant="d2" />
                         </div>
                       </div>
-                    </details>
-                    <div className="pt-4">
-                      <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} />
-                    </div>
-                  </div>
-                </EditorialReveal>
-              )}
-
-              {/* Conteúdo editorial */}
-              {kind === 'guia' ? (
-                <>
-                  <ReviewContentSections
-                    sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
-                    reviewTitle={review.title}
-                    sectionIds={sectionIds}
-                    filterHeadings={HEADINGS_OUTSIDE_BODY}
-                    kind={kind}
-                    notes={notes}
-                    reviewSlug={review.slug}
-                    coupon={review.coupon}
-                    affiliate={review.affiliate}
-                    locale={couponCopyLocale}
-                    noteLabels={noteLabels}
-                  />
-                  {stepSections.length > 0 && (
-                    <div className="mt-12">
-                      <GuideTimeline
-                        steps={stepSections}
-                        sectionIds={sectionIds}
-                        reviewTitle={review.title}
-                        locale={couponCopyLocale}
-                      />
-                    </div>
+                    </EditorialReveal>
                   )}
-                  {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
-                      nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
-                      test:build-output barra a nota repetida. */}
-                  {postStepSections.length > 0 && (
-                    <div className="mt-12">
+
+                  {/* Conteúdo editorial */}
+                  {kind === 'guia' ? (
+                    <>
                       <ReviewContentSections
-                        sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                        sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
                         reviewTitle={review.title}
                         sectionIds={sectionIds}
                         filterHeadings={HEADINGS_OUTSIDE_BODY}
@@ -543,169 +257,94 @@ export function ReviewNotebookTemplate({
                         locale={couponCopyLocale}
                         noteLabels={noteLabels}
                       />
-                    </div>
-                  )}
-                </>
-              ) : (
-                <ReviewContentSections
-                  sections={review.contentSections || []}
-                  reviewTitle={review.title}
-                  sectionIds={sectionIds}
-                  filterHeadings={HEADINGS_OUTSIDE_BODY}
-                  kind={kind}
-                  notes={notes}
-                  reviewSlug={review.slug}
-                  coupon={review.coupon}
-                  affiliate={review.affiliate}
-                  locale={couponCopyLocale}
-                  noteLabels={noteLabels}
-                />
-              )}
-
-              {/* Veredito em texto corrido quando não há rating de produto */}
-              {verdictSection && !hasProductRating && (
-                <section className="mt-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8">
-                  <SectionHeadingReveal
-                    as="h2"
-                    underlineColor="#ff6b35"
-                    className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
-                  >
-                    {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
-                  </SectionHeadingReveal>
-                  {verdictSection.paragraphs?.map((paragraph, index) => (
-                    <p key={index} className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0">
-                      {paragraph}
-                    </p>
-                  ))}
-                  {verdictSection.links && verdictSection.links.length > 0 && (
-                    <div className="mt-8 flex flex-wrap gap-4">
-                      {verdictSection.links.map((link) => (
-                        <CouponStoreLink
-                          key={link.href}
-                          href={link.href}
-                          couponCode={review.coupon}
-                          brand={review.affiliate}
-                          contentSlug={review.slug}
-                          linkLabel={link.label}
-                          sponsored={link.sponsored ?? hasCommercialRelationship}
-                          placement="review_verdict"
-                          className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white wrap-anywhere transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
-                        >
-                          {link.label}
-                          <ArrowRight size={16} />
-                        </CouponStoreLink>
-                      ))}
-                    </div>
-                  )}
-                </section>
-              )}
-
-              {/* Vídeo */}
-              {youtubeEmbedUrl && (
-                <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8 print:hidden">
-                  <SectionHeadingReveal
-                    as="h2"
-                    underlineColor="#ff6b35"
-                    className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
-                  >
-                    {copy.relatedVideo}
-                  </SectionHeadingReveal>
-                  <div className="aspect-video overflow-hidden rounded-xl bg-[#1a4d2e]/5">
-                    <iframe
-                      src={youtubeEmbedUrl}
-                      title={review.title}
-                      className="h-full w-full"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                      referrerPolicy="strict-origin-when-cross-origin"
-                      allowFullScreen
-                      loading="lazy"
+                      {stepSections.length > 0 && (
+                        <div className="mt-12">
+                          <GuideTimeline
+                            steps={stepSections}
+                            sectionIds={sectionIds}
+                            reviewTitle={review.title}
+                            locale={couponCopyLocale}
+                          />
+                        </div>
+                      )}
+                      {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
+                          nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
+                          test:build-output barra a nota repetida. */}
+                      {postStepSections.length > 0 && (
+                        <div className="mt-12">
+                          <ReviewContentSections
+                            sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                            reviewTitle={review.title}
+                            sectionIds={sectionIds}
+                            filterHeadings={HEADINGS_OUTSIDE_BODY}
+                            kind={kind}
+                            notes={notes}
+                            reviewSlug={review.slug}
+                            coupon={review.coupon}
+                            affiliate={review.affiliate}
+                            locale={couponCopyLocale}
+                            noteLabels={noteLabels}
+                          />
+                        </div>
+                      )}
+                    </>
+                  ) : (
+                    <ReviewContentSections
+                      sections={review.contentSections || []}
+                      reviewTitle={review.title}
+                      sectionIds={sectionIds}
+                      filterHeadings={HEADINGS_OUTSIDE_BODY}
+                      kind={kind}
+                      notes={notes}
+                      reviewSlug={review.slug}
+                      coupon={review.coupon}
+                      affiliate={review.affiliate}
+                      locale={couponCopyLocale}
+                      noteLabels={noteLabels}
                     />
-                  </div>
-                  <p className="mt-3 flex items-center gap-2 text-sm text-[#1a4d2e]/70">
-                    <PlayCircle size={16} className="text-[#ff6b35]" />
-                    {copy.watchOnYoutube}
-                  </p>
-                  {videoPageUrl && (
-                    <Link
-                      href={videoPageUrl}
-                      className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
-                    >
-                      {copy.openVideoPage} <ArrowRight size={16} aria-hidden="true" />
-                    </Link>
                   )}
-                </section>
-              )}
 
-              {/* CTA final */}
-              {hasCta && (
-                <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8 print:hidden">
-                  <div
-                    className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-[#ff6b35]/15"
-                    aria-hidden="true"
-                  />
-                  <div className="relative flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
-                    <div>
-                      <p className="mb-1 text-[11px] font-bold uppercase tracking-[0.16em] text-[#ff6b35]">
-                        {ui.interested}
-                      </p>
-                      <p className="max-w-2xl font-editorial text-lg italic leading-relaxed">
-                        {effectiveCta?.text}
-                      </p>
-                    </div>
-                    <CouponStoreLink
-                      href={effectiveCta?.url}
-                      couponCode={review.coupon}
-                      brand={review.affiliate}
-                      contentSlug={review.slug}
-                      linkLabel={effectiveCta?.label}
-                      sponsored={effectiveCta?.sponsored}
-                      placement="review_final_cta"
-                      className="inline-flex flex-shrink-0 items-center rounded-full bg-[#ff6b35] px-6 py-3 text-sm font-bold text-white shadow-md transition-all duration-200 hover:-translate-y-1 hover:bg-[#e55a26] hover:shadow-lg"
-                    >
-                      {effectiveCta?.label}
-                      <ArrowRight size={16} className="ml-2" />
-                    </CouponStoreLink>
-                  </div>
-                </EditorialReveal>
-              )}
+                  {/* Veredito em texto corrido quando não há rating de produto */}
+                  {verdictSection && !hasProductRating && (
+                    <section className="mt-10 rounded-2xl border-2 border-marinho bg-white p-6 md:p-8">
+                      <SectionHeadingReveal as="h2" variant="d2" className="mb-5">
+                        {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
+                      </SectionHeadingReveal>
+                      {verdictSection.paragraphs?.map((paragraph, index) => (
+                        <p key={index} className="mb-4 font-editorial text-lg leading-8 text-marinho last:mb-0">
+                          {paragraph}
+                        </p>
+                      ))}
+                    </section>
+                  )}
+                </div>
+              </ArticleCodeCopyProvider>
 
-              {/* Veredito no final do corpo */}
-              {kind === 'produto' && (
-                <EditorialReveal as="section" id="veredito" className="mb-10 scroll-mt-24">
-                  <div className="mb-6 flex items-start gap-2">
-                    <SectionHeadingReveal
-                      as="h2"
-                      underlineColor="#ff6b35"
-                      className="font-editorial text-2xl font-bold text-[#1a4d2e]"
-                    >
-                      {ui.verdictToc}
-                    </SectionHeadingReveal>
-                    <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} />
-                  </div>
-                  <div className="space-y-6">
-                    <ReviewVerdictCard review={review} kind={kind} />
-                  </div>
-                </EditorialReveal>
-              )}
-
-              {/* Share */}
-              <EditorialReveal as="section" className="mb-10">
-                <ShareBar
-                  url={`https://emcasacomcecilia.com${getReviewCanonicalPathname(review)}`}
-                  title={review.title}
-                  contentType="review"
-                  locale={couponCopyLocale}
-                  imageUrl={
-                    reviewImage.startsWith('http')
-                      ? reviewImage
-                      : `https://emcasacomcecilia.com${reviewImage}`
-                  }
-                />
-              </EditorialReveal>
+              <ArticleEnd
+                review={review}
+                kind={kind}
+                copy={copy}
+                ui={ui}
+                couponCopyLocale={couponCopyLocale}
+                youtubeEmbedUrl={youtubeEmbedUrl}
+                videoPageUrl={videoPageUrl}
+                showVerdict={shouldRenderVerdict}
+                storeBlock={storeBlock}
+                affiliateCta={
+                  review.cta?.url && review.cta.label
+                    ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
+                    : null
+                }
+                storeLabel={storeLabel}
+                reviewImage={reviewImage}
+                relatedArticles={relatedReviews}
+                relatedAllHref={relatedAllHref}
+              />
             </div>
 
-            {/* Sidebar */}
-            <aside className="sticky top-24 hidden h-fit self-start lg:col-span-4 lg:block">
+            {/* Sidebar. Mais alta que a tela (sumário longo), ela rola sozinha: o sticky deixaria o fim dela, com o
+                recorte, fora de alcance. O px-2 dá lugar à sombra do recorte ao copiar. */}
+            <aside className="sticky top-24 -mx-2 hidden h-fit max-h-[calc(100dvh-7rem)] self-start overflow-y-auto px-2 pb-2 lg:col-span-4 lg:block">
               <ReviewSidebar
                 review={review}
                 kind={kind}
@@ -714,76 +353,11 @@ export function ReviewNotebookTemplate({
                 relatedArticleLinks={relatedArticleLinks}
                 codeKind={codeKind}
                 codeBrand={codeBrand}
+                storeBlock={storeBlock}
+                storeLabel={storeLabel}
               />
             </aside>
           </div>
-
-          {/* Galeria */}
-          {(review.gallery && review.gallery.length > 0) || review.youtubeUrl ? (
-            <ReviewGallerySection
-              images={review.gallery || []}
-              videos={review.youtubeUrl ? [{ url: review.youtubeUrl, title: review.title }] : []}
-              title={review.title}
-              locale={couponCopyLocale}
-            />
-          ) : null}
-
-          {/* Artigos relacionados */}
-          {relatedReviews.length > 0 && (
-            <section className="mt-12 print:hidden">
-              <div className="mb-6 flex items-end justify-between gap-4">
-                <SectionHeadingReveal
-                  as="h2"
-                  underlineColor="#ff6b35"
-                  className="font-editorial text-2xl font-bold text-[#1a4d2e]"
-                >
-                  {ui.relatedArticles}
-                </SectionHeadingReveal>
-                <Link
-                  href={reviewHubHref}
-                  className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
-                >
-                  {ui.viewAll}
-                  <ArrowRight size={16} />
-                </Link>
-              </div>
-              <div className="grid gap-4 md:grid-cols-3">
-                {relatedReviews.map((item) => (
-                  <Link
-                    key={item.id}
-                    href={getReviewCanonicalPathname(item)}
-                    className="group relative min-h-[220px] overflow-hidden rounded-[1.5rem] border border-[#0f1419]/8 bg-[#0f1d3a] p-4 transition-all hover:-translate-y-1 hover:border-[#ff6b35]/30 hover:shadow-md"
-                  >
-                    {item.image ? (
-                      <Image
-                        src={resolveMediaUrl(item.image)}
-                        alt={item.imageAlt || item.title}
-                        fill
-                        className={`transition-transform duration-700 group-hover:scale-105 ${
-                          item.rating ? 'object-contain bg-white p-5' : 'object-cover'
-                        }`}
-                        sizes="(max-width: 768px) 100vw, 33vw"
-                      />
-                    ) : (
-                      <div className="absolute inset-0 bg-gradient-to-br from-[#1a4d2e] to-[#0f1d3a]" />
-                    )}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/35 to-black/10" />
-                    <div className="relative z-10 flex h-full min-h-[188px] flex-col justify-end">
-                      <p className="w-fit rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.18em] text-[#0f1419]">
-                        {item.type}
-                      </p>
-                      <h3 className="mt-3 font-heading text-lg font-bold leading-tight text-white">
-                        {item.title}
-                      </h3>
-                      <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-white/75">
-                        {item.description}
-                      </p>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-            </section>
-          )}
         </div>
       </EditorialAmbientBackground>
 
@@ -794,8 +368,16 @@ export function ReviewNotebookTemplate({
         tocItems={tocItems}
         affiliate={review.affiliate}
         coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
-        cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
+        // Com loja ativa, o botão da gaveta é o "Ir para a loja" dos recortes (rótulo junto com o link); sem ela, o cta.
+        cta={
+          storeBlock?.storeHref
+            ? { url: storeBlock.storeHref, label: storeLabel, sponsored: storeBlock.storeSponsored }
+            : effectiveCta && hasCta
+              ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored }
+              : undefined
+        }
         related={relatedArticleLinks}
+        hasTopCutout={Boolean(storeBlock)}
       />
     </>
   );

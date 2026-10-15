@@ -15,6 +15,8 @@ export interface MarginNoteRailProps {
   children: React.ReactNode;
   /** Labels for the note pills, already in the page language. */
   noteLabels: EditorialNoteLabels;
+  /** 'd2' nos artigos: as notas em marinho (EditorialNotePill e RichMarginNote). */
+  variant?: 'editorial' | 'd2';
 }
 
 /**
@@ -43,6 +45,7 @@ export function MarginNoteRail({
   sectionIndex,
   children,
   noteLabels,
+  variant = 'editorial',
 }: MarginNoteRailProps): React.ReactElement {
   const containerRef = useRef<HTMLDivElement>(null);
   const proseRef = useRef<HTMLDivElement>(null);
@@ -144,7 +147,7 @@ export function MarginNoteRail({
       {/* Mobile fallback pills: visible on <xl breakpoints */}
       {anchoredNotes.map((note) => (
         <div key={`mobile-${note.id || note.label}`} className="xl:hidden mb-4">
-          <EditorialNotePill note={note} labels={noteLabels} />
+          <EditorialNotePill note={note} labels={noteLabels} variant={variant} />
         </div>
       ))}
 
@@ -165,6 +168,7 @@ export function MarginNoteRail({
               noteLeft={noteLeft}
               marginNoteOnly
               noteLabels={noteLabels}
+              variant={variant}
             />
           </div>
         );

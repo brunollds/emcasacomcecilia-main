@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Globe } from 'lucide-react';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { Locale } from '@/lib/i18n/locales';
 
 export type ContentLocale = Locale;
@@ -28,21 +29,26 @@ const languageNames: Record<ContentLocale, string> = {
   ko: '한국어', ja: '日本語', 'zh-hant': '繁體中文', 'zh-hans': '简体中文',
 };
 
+// Os outros idiomas do artigo, no topo dele (o seletor do menu é outro, no Navbar).
 export function LanguageSwitcher({ currentLocale, links }: LanguageSwitcherProps) {
   const alternatives = (Object.keys(links) as ContentLocale[]).filter((locale) => locale !== currentLocale && links[locale]);
   return (
-    <div className="mb-6 flex flex-wrap items-center gap-2 rounded-lg border border-[#1a4d2e]/10 bg-[#faf8f3] px-4 py-2.5 text-xs text-[#4a5568]">
-      <span className="flex items-center gap-1.5 font-semibold text-[#1a4d2e]">
-        <Globe size={14} className="text-[#ff6b35]" />
+    <div className="flex flex-wrap items-center gap-x-2 rounded-[10px] border-2 border-marinho bg-white px-4 py-1.5 text-sm text-marinho">
+      <span className="flex items-center gap-1.5 font-extrabold">
+        <Globe aria-hidden="true" size={16} />
         {labels[currentLocale]}
       </span>
-      <div className="ml-1 flex flex-wrap items-center gap-2">
+      <div className="flex flex-wrap items-center gap-x-2">
         {alternatives.map((locale, index) => (
           <span key={locale} className="inline-flex items-center gap-2">
-            <Link href={links[locale]!} hrefLang={locale} className="font-medium text-[#1a4d2e] underline underline-offset-4 transition-colors hover:text-[#ff6b35]">
+            <Link
+              href={links[locale]!}
+              hrefLang={locale}
+              className={`inline-flex min-h-11 items-center font-bold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
+            >
               {languageNames[locale]}
             </Link>
-            {index < alternatives.length - 1 && <span className="text-[#1a4d2e]/20">|</span>}
+            {index < alternatives.length - 1 && <span aria-hidden="true" className="text-marinho/30">|</span>}
           </span>
         ))}
       </div>

@@ -124,16 +124,6 @@ html:lang(ja) {
   100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
 }
 
-@keyframes pulse-respiro {
-  0%, 100% { transform: scale(1); color: inherit; }
-  50% { transform: scale(1.06); color: #ff6b35; }
-}
-
-.animate-pulse-respiro {
-  display: inline-block;
-  animation: pulse-respiro 2.8s ease-in-out infinite;
-}
-
 
 @keyframes float {
   0% { transform: translateY(0px) rotate(0deg); }
@@ -544,15 +534,6 @@ html:lang(ja) {
   }
 }
 
-/* 🗞️ Template de reviews/artigos — fundo texturizado */
-.review-page-bg {
-  background-color: #faf8f3;
-  background-image:
-    radial-gradient(ellipse at 16% 40%, rgba(26, 77, 46, 0.11) 0%, transparent 55%),
-    radial-gradient(ellipse at 86% 16%, rgba(255, 107, 53, 0.12) 0%, transparent 45%),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36'%3E%3Ccircle cx='18' cy='18' r='1.0' fill='%231a4d2e' opacity='0.16'/%3E%3C/svg%3E");
-}
-
 /* Atmosfera editorial sutil: dá vida ao fundo sem competir com a leitura. */
 .editorial-ambient-bg {
   position: relative;
@@ -589,9 +570,13 @@ html:lang(ja) {
   animation: editorial-ambient-drift 38s ease-in-out infinite alternate;
 }
 
-/* Fundo sólido por baixo do pseudo-elemento de ambiente em reviews */
+/* Artigos no visual da D2: fundo branco, sem as manchas do ambiente. */
 .editorial-ambient-bg-review {
-  background-color: #faf8f3;
+  background-color: #fff;
+}
+
+.editorial-ambient-bg-review::before {
+  content: none;
 }
 
 /* Barra de progresso de leitura: garante que não intercepta cliques */
@@ -641,6 +626,27 @@ html:lang(ja) {
 
 .coupon-highlight-visible {
   background-size: 100% 78%;
+}
+
+/* Artigos (D2): o mesmo destaque, pintado desde o HTML. Só com o movimento liberado o useScrollReveal o
+   apaga abaixo da tela (data-reveal="pending") e ele se pinta quando a rolagem chega (done). */
+.marca-codigo {
+  display: inline;
+  background-image: linear-gradient(120deg, rgba(255, 210, 63, 0.55) 0%, rgba(255, 210, 63, 0.55) 100%);
+  background-repeat: no-repeat;
+  background-position: 0 88%;
+  background-size: 100% 78%;
+  border-radius: 0.125rem;
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .marca-codigo[data-reveal='pending'] {
+    background-size: 0% 78%;
+  }
+
+  .marca-codigo[data-reveal='done'] {
+    transition: background-size 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -891,8 +897,7 @@ html:lang(ja) {
 
   .notebook-paper,
   .notebook-paper::before,
-  .editorial-ambient-bg::before,
-  .review-page-bg {
+  .editorial-ambient-bg::before {
     background: white !important;
   }
 
