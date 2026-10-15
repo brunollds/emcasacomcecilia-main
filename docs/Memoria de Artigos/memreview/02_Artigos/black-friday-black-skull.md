@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 60
@@ -203,3 +203,9 @@ Decidido no briefing, sem pergunta:
 - A página `/black-friday` existe só pelo endereço direto: não está no menu nem na home (o Bruno não a achou navegando). O texto dela ("Black Friday BLACKSKULL USA 2026", "durante todo o mês", "até 50% off") entra só como texto da loja, sem dizer que a campanha começou.
 - O texto mantém "soma com as promoções vigentes"; o teste num item da campanha fica para novembro.
 - Capa: print da home ou foto oficial de produto.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-black-skull.json`, id 436, conferido frase a frase contra o texto aprovado.
+- Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-black-skull-home-whey.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `black-skull-cupom-03-desconto-aplicado.webp`.

@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
@@ -177,3 +177,9 @@ faixa ou o regulamento sair.
 - Pauta segue com uma visão básica: planos e taxas de hoje, o Black Month de 2025 como histórico e a conta de quanto a taxa pesa. A Lejour ainda vai confirmar se terá promoção em 2026; quando confirmar, a resposta rápida e a tabela mudam.
 - Nunca chamar a indicação de cupom nem prometer desconto pelo link.
 - Capa: print da home ou da tabela de planos.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-lejour.json`, id 441, conferido frase a frase contra o texto aprovado.
+- Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-lejour-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `lejour-cadastro-05-planos.webp`.

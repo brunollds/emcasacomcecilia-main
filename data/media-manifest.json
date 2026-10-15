@@ -36241,6 +36241,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+      "local_url": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110416,
+      "sha256": "0fec17e64c46dc4b88d326fe801417634e170b80a5777610dcc0336a98cac3d8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-black-skull-home-whey.webp",
+      "storage_filename": "black-friday-black-skull-home-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-black-skull.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-black-skull.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78506,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0fec17e64c46dc4b88d326fe801417634e170b80a5777610dcc0336a98cac3d8/black-friday-black-skull-home-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0fec17e64c46dc4b88d326fe801417634e170b80a5777610dcc0336a98cac3d8/black-friday-black-skull-home-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.521Z",
+      "verification_etag_or_digest": "0fec17e64c46dc4b88d326fe801417634e170b80a5777610dcc0336a98cac3d8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-confiavel-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
       "media_kind": "image",
@@ -36744,6 +36790,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "5e8d8e6bfa989c8a573eacabf908dbd417b9b550d421ce7452e5124243b39ca2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+      "local_url": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97462,
+      "sha256": "d3773c0b843ca30e5e6a589b8382e7eb5be5aefd3e12edaabd922b60520b758e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-clea-store-bodies.webp",
+      "storage_filename": "black-friday-clea-store-bodies.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-clea-store.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79416,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d3773c0b843ca30e5e6a589b8382e7eb5be5aefd3e12edaabd922b60520b758e/black-friday-clea-store-bodies.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3773c0b843ca30e5e6a589b8382e7eb5be5aefd3e12edaabd922b60520b758e/black-friday-clea-store-bodies.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.522Z",
+      "verification_etag_or_digest": "d3773c0b843ca30e5e6a589b8382e7eb5be5aefd3e12edaabd922b60520b758e",
       "verification_status": "verified"
     },
     {
@@ -46119,6 +46211,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+      "local_url": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 168332,
+      "sha256": "84b2eafefcc336e2e099b0bf27e9f2c0caafa3864e3f6d464c94930722a8a94a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dr-peanut-home.webp",
+      "storage_filename": "black-friday-dr-peanut-home.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dr-peanut.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dr-peanut.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79035,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/84b2eafefcc336e2e099b0bf27e9f2c0caafa3864e3f6d464c94930722a8a94a/black-friday-dr-peanut-home.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/84b2eafefcc336e2e099b0bf27e9f2c0caafa3864e3f6d464c94930722a8a94a/black-friday-dr-peanut-home.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.522Z",
+      "verification_etag_or_digest": "84b2eafefcc336e2e099b0bf27e9f2c0caafa3864e3f6d464c94930722a8a94a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
       "media_kind": "image",
@@ -51322,6 +51460,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/black-friday-lejour-home.webp",
+      "local_url": "/images/reviews/lejour/black-friday-lejour-home.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72150,
+      "sha256": "b741115d4be0ba9605f289123da1d12567a74b3ab48293a2fa03bd065b6f0eef",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lejour-home.webp",
+      "storage_filename": "black-friday-lejour-home.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lejour.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lejour.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/black-friday-lejour-home.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79624,
+          "column": 15,
+          "literal": "/images/reviews/lejour/black-friday-lejour-home.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b741115d4be0ba9605f289123da1d12567a74b3ab48293a2fa03bd065b6f0eef/black-friday-lejour-home.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b741115d4be0ba9605f289123da1d12567a74b3ab48293a2fa03bd065b6f0eef/black-friday-lejour-home.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.522Z",
+      "verification_etag_or_digest": "b741115d4be0ba9605f289123da1d12567a74b3ab48293a2fa03bd065b6f0eef",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "local_url": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
       "media_kind": "image",
@@ -54129,6 +54313,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "c36a7842e8f5c134c57cc243a756de2c66c5e0947ef76ef84607fd56ebaff5b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+      "local_url": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123228,
+      "sha256": "308dbf741011582016a49da3092543524d4894ea270fbd6ec7af2d3f53f08bbb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-max-titanium-home.webp",
+      "storage_filename": "black-friday-max-titanium-home.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-max-titanium.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-max-titanium.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78770,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/308dbf741011582016a49da3092543524d4894ea270fbd6ec7af2d3f53f08bbb/black-friday-max-titanium-home.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/308dbf741011582016a49da3092543524d4894ea270fbd6ec7af2d3f53f08bbb/black-friday-max-titanium-home.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.522Z",
+      "verification_etag_or_digest": "308dbf741011582016a49da3092543524d4894ea270fbd6ec7af2d3f53f08bbb",
       "verification_status": "verified"
     },
     {
@@ -57574,6 +57804,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "cace30d629c2a056c0e9415bb1a43440657c0a9119f0624dc5425b74d13293bd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/black-friday-probiotica-home.webp",
+      "local_url": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124306,
+      "sha256": "74c84c9cae41e8b6597794f2eb69980a7373d7fecb480bb64d5acb95386fcbef",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-probiotica-home.webp",
+      "storage_filename": "black-friday-probiotica-home.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-probiotica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79203,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/74c84c9cae41e8b6597794f2eb69980a7373d7fecb480bb64d5acb95386fcbef/black-friday-probiotica-home.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/74c84c9cae41e8b6597794f2eb69980a7373d7fecb480bb64d5acb95386fcbef/black-friday-probiotica-home.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T03:08:09.522Z",
+      "verification_etag_or_digest": "74c84c9cae41e8b6597794f2eb69980a7373d7fecb480bb64d5acb95386fcbef",
       "verification_status": "verified"
     },
     {

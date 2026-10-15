@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 40
 score_conversao: 55
@@ -179,3 +179,9 @@ se a campanha sair antes, atualizar a resposta rápida e a seção 2.
 ## Decisões do Bruno (14/10/2026)
 - Pauta segue. O texto diz "no nosso teste de 14/10" para o cupom no kit em promoção e reconfere no checkout em novembro.
 - Capa: print da home ou da categoria, sem a campanha de aniversário.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-clea-store.json`, id 440, conferido frase a frase contra o texto aprovado.
+- Capa: print da categoria Body da loja em 14/10/2026, sem pop-ups (`black-friday-clea-store-bodies.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `clea-store-cupom-01-carrinho-sem-cupom.webp`, `clea-store-cupom-03-desconto-aplicado.webp`.

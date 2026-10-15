@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 55
@@ -200,3 +200,9 @@ Já resolvido, sem pergunta: os prints do teste do cupom são os do artigo de co
 - Pix com 5% de desconto (Bruno, 14/10/2026).
 - Pauta segue como guia de cupom, Pix, frete e o que comprar; a campanha entra quando sair.
 - Capa: foto oficial do pote ou print da home.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-dr-peanut.json`, id 438, conferido frase a frase contra o texto aprovado.
+- Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-dr-peanut-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `dr-peanut-cupom-03-desconto-aplicado.webp`, `dr-peanut-cupom-01-carrinho-sem-cupom.webp`.

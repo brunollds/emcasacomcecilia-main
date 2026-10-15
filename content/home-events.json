@@ -9,7 +9,7 @@
       "dayAt": "2026-11-27T00:00:00-03:00",
       "startsAt": "2026-10-09T00:00:00-03:00",
       "endsAt": "2026-12-01T00:00:00-03:00",
-      "description": "Guias da Black Friday 2026 na DAMIE, na Dolce Gusto, na Let's Eat It, na I Wanna Sleep, na Insider, na Nestlé Nutre, no Magalu, na YesStyle e na SHEIN: os preços de outubro para comparar e como usar o cupom ou o código de cada loja.",
+      "description": "Guias da Black Friday 2026 na DAMIE, na Dolce Gusto, na Let's Eat It, na I Wanna Sleep, na Insider, na Nestlé Nutre, no Magalu, na YesStyle, na SHEIN, na Black Skull, na Max Titanium, na Dr. Peanut, na Probiótica, na Cléa Store e na Lejour: os preços de outubro para comparar e como usar o cupom, o código ou a indicação de cada loja.",
       "articleSlugs": [
         "black-friday-damie",
         "black-friday-dolce-gusto",
@@ -19,7 +19,13 @@
         "black-friday-nestle-nutre",
         "black-friday-magalu",
         "black-friday-yesstyle",
-        "black-friday-shein"
+        "black-friday-shein",
+        "black-friday-black-skull",
+        "black-friday-max-titanium",
+        "black-friday-dr-peanut",
+        "black-friday-probiotica",
+        "black-friday-clea-store",
+        "black-friday-lejour"
       ]
     }
   ]

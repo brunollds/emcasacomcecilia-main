@@ -7,12 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[black-friday-black-skull]] — Black Skull / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80)
-- [ ] [[black-friday-max-titanium]] — Max Titanium / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80)
-- [ ] [[black-friday-dr-peanut]] — Dr. Peanut / Guia de Black Friday 2026 (Score Aut: 55 / Conv: 80)
-- [ ] [[black-friday-probiotica]] — Probiótica / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 62)
-- [ ] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55)
-- [ ] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55)
 
 ---
 
@@ -42,7 +36,12 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-friday-black-skull]] — Black Skull / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
+- [ ] [[black-friday-max-titanium]] — Max Titanium / Guia de Black Friday 2026 (Score Aut: 60 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
+- [ ] [[black-friday-dr-peanut]] — Dr. Peanut / Guia de Black Friday 2026 (Score Aut: 55 / Conv: 80; JSON e capa prontos, build verde em 15/10/2026)
+- [ ] [[black-friday-probiotica]] — Probiótica / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 62; JSON e capa prontos, build verde em 15/10/2026)
+- [ ] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55; JSON e capa prontos, build verde em 15/10/2026)
+- [ ] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (Score Aut: 40 / Conv: 55; JSON e capa prontos, build verde em 15/10/2026)
 
 ---
 
