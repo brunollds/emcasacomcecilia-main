@@ -933,25 +933,35 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   assert.notDeepEqual(cutoutProblems(`${html('en')}<a href="https://br.shein.com/">x</a>`, 'en', block), [], 'SHEIN Brasil passou');
 }
 
-// O corpo do artigo (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da
-// D2: nenhuma cor antiga, nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
+// O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
+// (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da D2: nenhuma cor antiga,
+// nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
 const OLD_ARTICLE_COLORS = /#(?:1a4d2e|ff6b35|0f1d3a|faf8f3)\b/gi;
 function articleBodyProblems(body: string): string[] {
-  const regions = [...body.matchAll(/<[a-zA-Z][\w-]*\s[^>]*\bdata-article="corpo"[^>]*>/g)].map((match) => elementAt(body, match.index));
-  if (regions.length !== 1) return [`${regions.length} corpos (data-article="corpo") em vez de um`];
-  const [region] = regions;
-  const problems = [...new Set(region.match(OLD_ARTICLE_COLORS) ?? [])].map((hex) => `cor antiga ${hex} no corpo`);
-  if (!/<section\b/.test(region)) problems.push('corpo sem nenhuma seção');
-  // Movimento no corpo só com o movimento liberado (motion-safe:). Animação sem essa guarda fica de fora, como a
-  // pulse-respiro, que pulsava em laranja sem parar.
-  for (const [, animation] of region.matchAll(/class="[^"]*?(?<![\w:-])(animate-[\w-]+)/g)) problems.push(`animação sem guarda no corpo (${animation})`);
+  const problems: string[] = [];
+  for (const part of ['topo', 'corpo'] as const) {
+    const regions = [...body.matchAll(new RegExp(`<[a-zA-Z][\\w-]*\\s[^>]*\\bdata-article="${part}"[^>]*>`, 'g'))].map((match) => elementAt(body, match.index));
+    if (regions.length !== 1) {
+      problems.push(`${regions.length} regiões data-article="${part}" em vez de uma`);
+      continue;
+    }
+    const [region] = regions;
+    problems.push(...[...new Set(region.match(OLD_ARTICLE_COLORS) ?? [])].map((hex) => `cor antiga ${hex} no ${part}`));
+    if (part === 'corpo' && !/<section\b/.test(region)) problems.push('corpo sem nenhuma seção');
+    if (part === 'topo' && !/<h1\b/.test(region)) problems.push('topo sem o título');
+    // Movimento só com o movimento liberado (motion-safe:). Animação sem essa guarda fica de fora, como a
+    // pulse-respiro, que pulsava em laranja sem parar.
+    for (const [, animation] of region.matchAll(/class="[^"]*?(?<![\w:-])(animate-[\w-]+)/g)) problems.push(`animação sem guarda no ${part} (${animation})`);
+  }
   for (const background of body.match(/\b(?:review-page-bg|notebook-[\w-]+)\b/g) ?? []) problems.push(`fundo de caderno (${background})`);
   return [...new Set(problems)];
 }
-// O guarda acima passa no corpo certo e falha sem o corpo, com uma cor antiga dentro dele e com o fundo de caderno;
-// cor antiga fora do corpo (o rodapé, o fim que a Task 5 refaz) não conta.
+// O guarda acima passa no artigo certo e falha sem o topo ou o corpo, com uma cor antiga ou uma animação sem guarda
+// num deles e com o fundo de caderno; cor antiga fora dos dois (o menu, o rodapé) não conta.
 {
-  const ok = '<main><div data-article="corpo" class="text-marinho"><section id="a"><h2>A</h2></section></div><div class="text-[#1a4d2e]"></div></main>';
+  const ok =
+    '<header style="background:#0f1d3a"></header><main><header data-article="topo" class="text-marinho"><h1>T</h1><div class="border-marinho">EN</div></header>' +
+    '<div data-article="corpo" class="text-marinho"><section id="a"><h2>A</h2></section></div><div class="text-[#1a4d2e]"></div></main>';
   assert.deepEqual(articleBodyProblems(ok), []);
   assert.notDeepEqual(articleBodyProblems(ok.replace(' data-article="corpo"', '')), [], 'artigo sem o corpo passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('text-marinho', 'text-[#1A4D2E]')), [], 'cor antiga no corpo passou');
@@ -960,6 +970,10 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace(/<section[\s\S]*<\/section>/, '')), [], 'corpo vazio passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="font-bold animate-pulse-respiro">')), [], 'animação sem guarda passou');
   assert.deepEqual(articleBodyProblems(ok.replace('<h2>', '<h2 class="motion-safe:animate-spin">')), [], 'animação com motion-safe barrada');
+  assert.notDeepEqual(articleBodyProblems(ok.replace(' data-article="topo"', '')), [], 'artigo sem o topo passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('border-marinho">EN', 'border-[#1a4d2e]/10">EN')), [], 'cor antiga no topo passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('<h1>', '<h1 class="animate-bounce">')), [], 'animação sem guarda no topo passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('<h1>T</h1>', '')), [], 'topo sem título passou');
 }
 
 // O código da loja do artigo citado no texto do corpo copia ao toque: um <span data-copy-code> com o botão de
@@ -1224,6 +1238,7 @@ let familyHeads = 0;
 let notedArticles = 0;
 let faqArticles = 0;
 let cutoutArticles = 0;
+let sidebarCutoutArticles = 0;
 let inlineCopyArticles = 0;
 let endStoreBlocks = 0;
 let endWithoutStore = 0;
@@ -1254,6 +1269,10 @@ for (const url of articleUrls) {
   // Dentro do fundo editorial, `.editorial-ambient-bg > *` troca o sticky do dock por relative.
   assert.equal(openElementsAt(body, dialogStart), 0, `${pagePath}: a gaveta do sumário não é filha direta do <body>`);
   assert.equal(openElementsAt(body, progressbar), 1, `${pagePath}: o dock do sumário não é filho direto do <body>`);
+  // O HTML do servidor leva o dock escondido e inerte, como o CouponDock: ele só aparece depois da rolagem.
+  const dockTag = body.slice(body.lastIndexOf('<div', body.lastIndexOf('<div', progressbar) - 1)).match(/^<div\b[^>]*>/)?.[0] ?? '';
+  assert.match(dockTag, /\sinert=""/, `${pagePath}: dock do servidor sem inert`);
+  assert.ok(classesOf(dockTag).includes('invisible'), `${pagePath}: dock do servidor visível antes da rolagem`);
 
   const review = reviewByPathname.get(pagePath);
   assert.ok(review, `${pagePath}: artigo do sitemap sem review publicada`);
@@ -1273,6 +1292,8 @@ for (const url of articleUrls) {
   // A sidebar segue o idioma do artigo, com os textos de sidebarCopy.ts. A outra <aside> dos artigos
   // é a nota editorial, sem <nav>.
   const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
+  // O bloco de loja ativa que o template recebe: recorte do topo, lateral e bloco do fim.
+  const storeBlock = getArticleStoreBlock(review, locale, review.cta?.url);
   const copy = getSidebarCopy(locale);
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -1335,7 +1356,6 @@ for (const url of articleUrls) {
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
   // Recorte do topo: em todo artigo de loja ativa (o mesmo bloco que o template recebe), uma vez; sem loja, nenhum.
-  const storeBlock = getArticleStoreBlock(review, locale, review.cta?.url);
   const cutoutCount = body.match(/\sid="cupom-artigo"/g)?.length ?? 0;
   assert.equal(cutoutCount, storeBlock ? 1 : 0, `${pagePath}: ${cutoutCount} recortes do topo (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
   if (storeBlock) {
@@ -1460,15 +1480,28 @@ for (const url of articleUrls) {
     familyHeads++;
   }
 
-  const code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
-  assert.equal(code, review.coupon, `${pagePath}: código da sidebar diferente do da review`);
+  // Artigo de loja ativa: a lateral traz o recorte compacto (o mesmo do topo, sem o id dele), com o código, o tipo
+  // e a frase de depois de copiar no idioma do artigo. Sem loja, o código e o cta, com as frases da lateral.
+  const sidebarCutouts = [...sidebar.matchAll(/<section\b[^>]*\sdata-recorte="sidebar"/g)].map((match) => elementAt(sidebar, match.index));
+  assert.equal(sidebarCutouts.length, storeBlock ? 1 : 0, `${pagePath}: ${sidebarCutouts.length} recortes na lateral (loja: ${storeBlock?.slug ?? 'nenhuma'})`);
+  assert.ok(!sidebar.includes('id="cupom-artigo"'), `${pagePath}: a lateral leva o id do recorte do topo`);
   const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
   const codeKind = getStoreCodeKind(store, review.coupon);
   const hints = getCodeHints(copy, codeKind, store?.brand);
+  let code: string | undefined;
+  if (storeBlock) {
+    assert.deepEqual(cutoutProblems(sidebarCutouts[0], locale, storeBlock), [], `${pagePath}: recorte da lateral`);
+    code = sidebarCutouts[0].match(/<code\b[^>]*>([^<]+)<\/code>/)?.[1];
+    sidebarCutoutArticles++;
+  } else {
+    code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
+  }
+  assert.equal(code, review.coupon, `${pagePath}: código da sidebar diferente do da review`);
   const expectedTexts = [
     copy.sectionsNav,
     copy.tocTitle,
-    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), hints.copy, hints.copied] : []),
+    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code)] : []),
+    ...(code && !storeBlock ? [hints.copy, hints.copied] : []),
     ...(codeKind === 'referral' ? [getCodeTitle(copy, codeKind, store?.brand)] : []),
   ];
   assert.deepEqual(expectedTexts.filter((text) => !shownTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
@@ -1487,6 +1520,7 @@ for (const url of articleUrls) {
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
+assert.equal(sidebarCutoutArticles, cutoutArticles, 'recorte da lateral e recorte do topo em artigos diferentes');
 assert.ok(inlineCopyArticles > 0, 'nenhum artigo cita o código da loja no corpo');
 // Cada ramo do fim do artigo conferido em algum artigo: com e sem loja, com a subpágina da loja e com regras,
 // com galeria, com o vídeo do topo e com prós e contras. Todo idioma tem mais de 6 artigos: todos levam 6.
@@ -3067,5 +3101,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

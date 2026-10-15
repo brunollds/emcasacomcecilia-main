@@ -19,6 +19,9 @@ import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { getReviewHubCopy } from '@/lib/review-hubs';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
 import { publishedReviews } from '@/lib/data';
+import { isDockVisible } from '@/components/review/dockVisibility';
+import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
+import { ChangelogDetails } from '@/components/editorial/ChangelogDetails';
 
 const mk = (id: number, o: Partial<{ locale: string; affiliate: string; category: string; type: string; publishedAtISO: string }>) =>
   ({ id, slug: `a${id}`, publishedAtISO: '2026-10-01', ...o });
@@ -132,6 +135,9 @@ const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
     authorBoxBody: c.authorBoxBody,
     authorBoxLink: c.authorBoxLink,
     disclosureMore: c.disclosureMore,
+    listenPause: c.listenPause,
+    listenResume: c.listenResume,
+    listenStop: c.listenStop,
   };
 };
 const ptTexts = newTexts('pt');
@@ -276,4 +282,29 @@ const lejourArticle = publishedReviews.find((review) => review.slug === 'lejour-
 assert.ok(lejourArticle, 'artigo da Lejour ausente');
 assert.ok(getArticleStoreBlock(lejourArticle, 'pt', lejourArticle.cta?.url)!.rules.length > 0, 'artigo da Lejour sem regras');
 
-console.log('✅ artigo D2: relacionados, bloco da loja, textos novos, trilha e galeria');
+// Barra do celular: sem o recorte do topo, aparece quando a leitura chega à primeira seção, como antes; com ele, só
+// depois que o recorte sai pela parte de cima da tela. Some enquanto o bloco da loja do fim (#loja) está na tela.
+const dockCases: Array<[Parameters<typeof isDockVisible>[0], boolean]> = [
+  [{ cutoutPassed: null, sectionReached: false, storeInView: false }, false],
+  [{ cutoutPassed: null, sectionReached: true, storeInView: false }, true],
+  [{ cutoutPassed: null, sectionReached: true, storeInView: true }, false],
+  [{ cutoutPassed: false, sectionReached: true, storeInView: false }, false],
+  [{ cutoutPassed: true, sectionReached: false, storeInView: false }, true],
+  [{ cutoutPassed: true, sectionReached: true, storeInView: false }, true],
+  [{ cutoutPassed: true, sectionReached: true, storeInView: true }, false],
+];
+for (const [input, expected] of dockCases) assert.equal(isDockVisible(input), expected, `dock: ${JSON.stringify(input)}`);
+
+// Peças do topo do artigo. O LanguageSwitcher só existe no artigo (o do menu é outro, no Navbar): vai direto para a D2.
+// O histórico de atualizações é o mesmo das receitas: no artigo (variant="d2"), sem as cores antigas; o padrão
+// continua o das receitas.
+const OLD_HEX = /#(?:1a4d2e|ff6b35|0f1d3a|faf8f3)/i;
+assert.ok(
+  !OLD_HEX.test(renderToStaticMarkup(createElement(LanguageSwitcher, { currentLocale: 'en', links: { pt: '/reviews/a', en: '/en/reviews/a' } }))),
+  'LanguageSwitcher com cor antiga'
+);
+const changelog = (variant?: 'd2') => renderToStaticMarkup(createElement(ChangelogDetails, { entries: [{ date: '2026-10-01', text: 'Revisado.' }], variant }));
+assert.ok(!OLD_HEX.test(changelog('d2')), 'ChangelogDetails d2 com cor antiga');
+assert.ok(OLD_HEX.test(changelog()), 'ChangelogDetails padrão (receitas) mudou de cor');
+
+console.log(`✅ artigo D2: relacionados, bloco da loja, textos novos, trilha, galeria, a regra da barra do celular (${dockCases.length} casos) e o topo do artigo`);
