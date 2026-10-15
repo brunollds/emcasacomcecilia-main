@@ -5,6 +5,7 @@ import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { CONSENT_PRIVACY_HREF, type ConsentCopy } from '@/components/consent/consentCopy';
 import {
+  clearTrackingCookies,
   getServerConsentSnapshot,
   onConsentPreferencesOpen,
   readConsent,
@@ -48,8 +49,10 @@ export default function ConsentBanner({ copy }: { copy: ConsentCopy }) {
     const previous = readConsent();
     writeConsent(choice);
     setReopened(false);
-    // Os scripts do GA4 e do Clarity não descarregam: quem retira o aceite recebe a página de novo, sem eles.
+    // Os scripts do GA4 e do Clarity não descarregam: quem retira o aceite fica sem os cookies deles e
+    // recebe a página de novo, sem os scripts.
     if (previous === 'granted' && choice === 'denied') {
+      clearTrackingCookies();
       window.location.reload();
       return;
     }

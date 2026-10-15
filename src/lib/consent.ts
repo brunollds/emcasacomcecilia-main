@@ -63,6 +63,24 @@ export function onConsentPreferencesOpen(listener: () => void) {
   return () => window.removeEventListener(OPEN_EVENT, listener);
 }
 
+// Os cookies que o GA4 (_ga, _ga_<id>, _gid) e o Clarity (_clck, _clsk) gravam no domínio do site.
+export function isTrackingCookieName(name: string) {
+  return /^(_ga(_.+)?|_gid|_clck|_clsk)$/.test(name);
+}
+
+// Quem retira o aceite fica sem os cookies que as ferramentas já gravaram. O GA4 grava no domínio pai
+// (.emcasacomcecilia.com), então apaga no host e em cada domínio acima dele.
+export function clearTrackingCookies() {
+  const labels = window.location.hostname.split('.');
+  const domains = labels.slice(0, -1).map((_, index) => labels.slice(index).join('.'));
+  for (const entry of document.cookie.split(';')) {
+    const name = entry.split('=')[0].trim();
+    if (!isTrackingCookieName(name)) continue;
+    document.cookie = `${name}=; Max-Age=0; path=/`;
+    for (const domain of domains) document.cookie = `${name}=; Max-Age=0; path=/; domain=.${domain}`;
+  }
+}
+
 // O gate dos dois loaders: o host liberado (a allowlist de src/lib/analytics.js) e o aceite no aviso.
 export function isTrackingAllowed(hostAllowed: boolean, consent: ConsentState) {
   return hostAllowed && consent === 'granted';

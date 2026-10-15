@@ -9,6 +9,7 @@ import {
 import {
   CONSENT_STORAGE_KEY,
   isTrackingAllowed,
+  isTrackingCookieName,
   onConsentPreferencesOpen,
   openConsentPreferences,
   parseConsent,
@@ -58,6 +59,8 @@ assert.doesNotMatch(readFileSync(path.join('src', 'components', 'Clarity.js'), '
 
 // Consentimento (LGPD): o GA4 e o Clarity só carregam com o host liberado E o aceite no aviso.
 assert.equal(isTrackingAllowed(true, 'granted'), true);
+for (const name of ['_ga', '_ga_ABC123', '_gid', '_clck', '_clsk']) assert.ok(isTrackingCookieName(name), name);
+for (const name of ['_gac', 'ga', 'session', '_clckx']) assert.ok(!isTrackingCookieName(name), name);
 assert.equal(isTrackingAllowed(true, 'denied'), false);
 assert.equal(isTrackingAllowed(true, null), false);
 assert.equal(isTrackingAllowed(false, 'granted'), false);
