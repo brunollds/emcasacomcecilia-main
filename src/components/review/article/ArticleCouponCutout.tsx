@@ -8,10 +8,8 @@ import { CutoutCode } from '@/components/coupons/StoreLayout';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { getArticleCopy } from '../articleCopy';
 import { getCouponCopyLabels, type CouponCopyLocale } from '../couponCopyLocale';
+import { ARTICLE_CUTOUT_ID } from '../dockVisibility';
 import { getCodeTitle, getSidebarCopy } from '../sidebarCopy';
-
-// O dock do celular procura este id para aparecer quando o recorte do topo sai da tela.
-export const ARTICLE_CUTOUT_ID = 'cupom-artigo';
 
 type Variant = 'top' | 'end' | 'sidebar';
 
@@ -57,6 +55,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
   return (
     <section
       id={variant === 'top' ? ARTICLE_CUTOUT_ID : undefined}
+      data-recorte={variant}
       aria-label={title}
       className={`group/recorte relative rounded-2xl border-[2.5px] border-dashed border-marinho bg-white text-marinho print:hidden ${code ? 'recorte' : ''} ${box}`}
     >

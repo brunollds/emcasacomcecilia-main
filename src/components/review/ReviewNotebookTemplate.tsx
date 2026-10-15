@@ -371,6 +371,7 @@ export function ReviewNotebookTemplate({
         coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
         cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
         related={relatedArticleLinks}
+        hasTopCutout={Boolean(storeBlock)}
       />
     </>
   );

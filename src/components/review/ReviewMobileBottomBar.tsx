@@ -12,6 +12,7 @@ import type { CouponCodeKind } from '@/lib/couponsData';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { getCouponCopyLabels } from './couponCopyLocale';
+import { isDockVisible, useDockTargets } from './dockVisibility';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 
@@ -32,11 +33,14 @@ export interface ReviewMobileBottomBarProps {
   };
   cta?: { url: string; label: string; sponsored?: boolean };
   related: { href: string; title: string }[];
+  // O artigo tem o recorte do topo (#cupom-artigo): o dock espera ele sair da tela.
+  hasTopCutout?: boolean;
 }
 
 // O equivalente do sidebar no celular: um dock com a seção atual e o cupom, que abre o sumário
-// numa gaveta. Aparece quando a leitura chega à primeira seção. Fica sticky no fim do <body>,
-// então reserva o próprio espaço e nunca cobre o rodapé.
+// numa gaveta. Aparece depois do recorte do topo (sem ele, quando a leitura chega à primeira seção) e
+// sai da frente do bloco da loja do fim (isDockVisible). Fica sticky no fim do <body>, então reserva o
+// próprio espaço e nunca cobre o rodapé.
 export function ReviewMobileBottomBar({
   locale,
   reviewSlug,
@@ -45,8 +49,10 @@ export function ReviewMobileBottomBar({
   coupon,
   cta,
   related,
+  hasTopCutout = false,
 }: ReviewMobileBottomBarProps): React.ReactElement | null {
   const { activeIndex, progress } = useReadingPosition(tocItems.map((item) => item.id));
+  const { cutoutPassed, storeInView } = useDockTargets(hasTopCutout);
   const [sheetOpen, setSheetOpen] = useState(false);
   const sheetRef = useRef<HTMLDialogElement>(null);
   const sheetBodyRef = useRef<HTMLDivElement>(null);
@@ -66,7 +72,7 @@ export function ReviewMobileBottomBar({
   const couponTitle = getCodeTitle(copy, coupon?.kind, coupon?.brand);
   // O código de indicação não vale no checkout; o card diz onde pesquisá-lo.
   const couponHint = coupon?.kind === 'referral' ? getCodeHints(copy, coupon.kind, coupon.brand).copy : undefined;
-  const visible = activeIndex >= 0;
+  const visible = isDockVisible({ cutoutPassed, sectionReached: activeIndex >= 0, storeInView });
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
   const sheetId = `${id}-sumario`;
