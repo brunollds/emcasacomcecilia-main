@@ -43,7 +43,7 @@ const METHOD = [
 
 const STORY = [
   'A Cecília Mauad nasceu em 21 de novembro de 1995, na Zona da Mata de Minas Gerais. Aprendeu a cozinhar com a avó, Dona Ângela: as receitas, o cuidado com quem vai comer e as rotinas que fazem uma casa funcionar.',
-  'Formou-se em Jornalismo e levou o gosto por contar histórias para a cozinha: receitas fáceis nas redes sociais, em spots de rádio e aqui no site.',
+  'Formou-se em Jornalismo e levou o gosto por contar histórias para a cozinha: receitas fáceis nas redes sociais e aqui no site, e por um tempo também em spots de rádio.',
   'Casada e mãe de dois filhos, hoje ela se dedica à família e ao projeto. O conteúdo acompanhou a casa: além das receitas, a Cecília passou a mostrar os produtos que usa no dia a dia, do sofá à cafeteira, e a reunir os códigos das marcas com que trabalha.',
   'O jeito continua o mesmo de quando era só a cozinha: mostrar como é de verdade, sem enfeitar.',
 ];
@@ -54,7 +54,6 @@ export function AboutView({ content, className = '' }: { content: AboutContent; 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(getAboutPersonJsonLd()) }} />
       <PageHeader
         trail={content.trail}
-        sticker="Sobre"
         title="Sobre a Cecília"
         intro={
           <>

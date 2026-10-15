@@ -4,8 +4,7 @@ import { PageTrail } from '@/components/ui/PageTrail';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { getBreadcrumbListJsonLd, type PageLink } from '@/lib/pageSeo';
 
-// O topo das páginas do site fora da home (a /sobre e as outras institucionais): a trilha, a etiqueta
-// amarela, o título condensado com o marca-texto, a introdução e a fila de botões, no contêiner de 1200 px,
+// O topo das páginas do site fora da home (a /sobre e as outras institucionais): a trilha, o título condensado com o marca-texto, a introdução e a fila de botões, no contêiner de 1200 px,
 // como em /videos. A trilha visível e o BreadcrumbList do JSON-LD saem da mesma lista. O aside (o cartão
 // de foto da /sobre) fica ao lado do título no celular e numa coluna à direita no desktop; as larguras são
 // as do painel da Cecília na home, que o sizes do CeciliaPhotoCard supõe.
@@ -13,14 +12,12 @@ type PageHeaderProps = {
   trail: readonly PageLink[];
   title: string;
   intro: ReactNode;
-  // A etiqueta amarela acima do título; decorativa, porque repete a trilha.
-  sticker?: string;
   aside?: ReactNode;
   // Os botões, embaixo da introdução.
   children?: ReactNode;
 };
 
-export function PageHeader({ trail, title, intro, sticker, aside, children }: PageHeaderProps) {
+export function PageHeader({ trail, title, intro, aside, children }: PageHeaderProps) {
   return (
     <header className={`${SHELF_CONTAINER} pt-8 pb-6 md:pt-12 md:pb-10`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(getBreadcrumbListJsonLd(trail)) }} />
@@ -33,14 +30,6 @@ export function PageHeader({ trail, title, intro, sticker, aside, children }: Pa
         }
       >
         <div className="flex flex-col items-start gap-4 lg:col-start-1 lg:row-start-1 lg:self-end">
-          {sticker ? (
-            <span
-              aria-hidden="true"
-              className="-rotate-3 rounded-md border-2 border-marinho bg-amarelo-cupom px-3 py-0.5 font-condensada text-2xl leading-tight font-black text-marinho font-stretch-extra-condensed shadow-[3px_3px_0_var(--color-marinho)]"
-            >
-              {sticker}
-            </span>
-          ) : null}
           <h1 className="font-condensada text-[44px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-7xl">
             <span className="marca-texto marca-texto-entra">{title}</span>
           </h1>
