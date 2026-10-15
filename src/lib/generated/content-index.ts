@@ -77065,5 +77065,1421 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 430,
+    "slug": "max-titanium-e-confiavel",
+    "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação",
+    "seoTitle": "Max Titanium é confiável? Quem fabrica e site oficial",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conferimos a Max Titanium antes de indicar a loja: operada pela Supley, CNPJ ativo em 14/10/2026, site oficial maxtitanium.com.br, 7 dias para arrependimento, 30 para defeito em suplemento, frete grátis por região e reputação Boa no Reclame Aqui.",
+    "metaDescription": "A Max Titanium é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+    "imageAlt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
+      "Loja operada pela Supley, do mesmo grupo da Probiótica, da Dr. Peanut e da Znack That",
+      "7 dias corridos para desistir da compra, com devolução sem custo, e 30 dias para comunicar defeito em suplemento, com coleta e reenvio por conta da loja",
+      "Reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas",
+      "Até 5% de desconto no Pix, no boleto e no cartão em 1x, em 14/10/2026"
+    ],
+    "cons": [
+      "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
+      "O frete grátis não vale para entrega por Sedex",
+      "Atraso na entrega é o problema mais citado no Reclame Aqui",
+      "Tempo médio de resposta de 7 dias e 9 horas no Reclame Aqui nos últimos seis meses",
+      "O site não tem página Quem Somos que ligue a marca à Supley"
+    ],
+    "cta": {
+      "text": "Se a Max Titanium faz sentido para você, entre pelo link da parceria e use o cupom MAX10EMCASACOMCECILIA, de até 10% OFF.",
+      "label": "Ir para a Max Titanium com o cupom",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-reclame-aqui-nota-reputacao",
+        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim. A loja é operada pela Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., cujo CNPJ, 07.578.713/0004-29, aparece no rodapé do site e consta como **ativo** nos dados públicos da Receita Federal em 14/10/2026.",
+          "A Max Titanium é uma marca do grupo Supley, o mesmo da Probiótica, da Dr. Peanut e da Znack That.",
+          "O site oficial é **maxtitanium.com.br**.",
+          "Há 7 dias corridos para desistir da compra, contados do recebimento, e 30 dias corridos para comunicar defeito em suplementos (90 dias em roupas, acessórios e coqueteleiras). Na troca por defeito, a coleta e o reenvio ficam por conta da Max Titanium.",
+          "O frete grátis depende da região: vai de R$ 104 na capital paulista a R$ 599 no Norte.",
+          "No Reclame Aqui, o perfil \"Max Titanium Suplementos\" tem reputação **Boa**, com nota 7,6 nos últimos 6 meses.",
+          "O cupom da parceria, MAX10EMCASACOMCECILIA, dá até 10% OFF; em alguns produtos o desconto é menor. Regras na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "De quem é a Max Titanium?",
+        "paragraphs": [
+          "A Max Titanium pertence ao grupo **Supley**. No site da Supley, a empresa diz que renova diariamente o seu compromisso com o mercado \"com MAX Titanium, Probiótica, Dr. Peanut e Znack That\". São quatro marcas do mesmo grupo.",
+          "O site da Max Titanium não tem uma página \"Quem somos\", e o rodapé mostra só \"Supley\" como razão social, sem dizer que ela é o grupo da marca. A ligação vem de duas fontes públicas, consultadas em 14/10/2026: o rodapé da loja e o site da Supley.",
+          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. É o mesmo CNPJ do rodapé da Probiótica: as duas lojas são operadas pela mesma empresa. A matriz da Supley fica em Matão (SP), está ativa desde 5 de setembro de 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
+          "A Supley diz que iniciou a trajetória em 2006. O site não informa desde quando existe a marca Max Titanium.",
+          "Para conhecer as marcas irmãs, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel) e [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). A Znack That aparece no nosso teste do cupom: os dois brindes que o site pôs no carrinho eram dessa quarta marca do grupo."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é **maxtitanium.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem nenhuma letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
+          "O segundo teste é o rodapé. No site oficial, em 14/10/2026, ele traz:"
+        ],
+        "bullets": [
+          "a razão social: Supley Lab. de Alimentos e Suplementos Nutricionais Ltda;",
+          "o CNPJ 07.578.713/0004-29;",
+          "o endereço: Avenida José Pilo, 161, Matão (SP);",
+          "os telefones (16) 3506-2045 e (16) 3506-2046, o SAC 4004-2696 e o e-mail sac@supley.com.br;",
+          "o portal de atendimento, atendimento.maxtitanium.com.br."
+        ],
+        "postParagraphs": [
+          "Você pode cruzar o CNPJ numa consulta pública da Receita Federal e ver se a situação aparece como ativa e se a razão social bate com a do rodapé. Se a página não mostra esses dados no rodapé, desconfie."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site maxtitanium.com.br com a razão social da Supley, o endereço em Matão (SP) e o CNPJ 07.578.713/0004-29 marcados em amarelo",
+        "imageCaption": "Rodapé de maxtitanium.com.br em 14/10/2026, com razão social, endereço e CNPJ. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 4.125
+      },
+      {
+        "heading": "O que a Max Titanium vende",
+        "paragraphs": [
+          "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
+          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e defeito",
+        "paragraphs": [
+          "As regras ficam nas páginas de Termos e Condições e de Troca e Devolução do site. O que valia em 14/10/2026 está no quadro:"
+        ],
+        "comparisonTable": {
+          "caption": "Prazos de arrependimento e de defeito da Max Titanium, segundo as páginas de Termos e Condições e de Troca e Devolução do site em 14/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "O que a Max Titanium pede",
+            "Frete e reembolso"
+          ],
+          "rows": [
+            [
+              "Arrependimento",
+              "7 dias corridos a partir do recebimento",
+              "Embalagem original e lacre intacto, cópia da DANFE e todos os itens; pedido por e-mail com número do pedido e nota fiscal",
+              "Devolução sem custo para você; reembolso integral, com o frete pago na compra"
+            ],
+            [
+              "Defeito em suplemento (alimento)",
+              "30 dias corridos para comunicar",
+              "Comunicar o defeito; a loja analisa o caso",
+              "Coleta e reenvio por conta da Max Titanium"
+            ],
+            [
+              "Defeito em roupa, acessório ou coqueteleira (durável)",
+              "90 dias corridos para comunicar",
+              "Comunicar o defeito; a loja analisa o caso",
+              "Coleta e reenvio por conta da Max Titanium"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No arrependimento, a Max Titanium dá os meios para devolver o produto sem custo. O pedido vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Na troca por defeito, depois da análise, você escolhe entre a troca por um produto igual, o dinheiro de volta ou um cupom.",
+          "O reembolso é integral e inclui o frete pago na compra, na mesma forma de pagamento usada. A análise leva até 30 dias corridos a partir do recebimento do produto no Centro de Distribuição. Quando o pagamento foi no cartão, o estorno vem na fatura seguinte ou na outra, conforme a administradora.",
+          "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra. Os Termos e Condições falam em 90 dias só para produtos duráveis; é a página de Troca e Devolução que separa os 30 dias dos suplementos dos 90 dias dos duráveis."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e formas de pagamento",
+        "paragraphs": [
+          "O banner do topo do site diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página de frete mostrava em 14/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete grátis vale na forma de envio mais barata. Se você escolher Sedex, o frete fica por sua conta. O valor do frete não entra na soma que atinge o mínimo da região. Esses valores mudam com o tempo, então confirme o do seu CEP no carrinho antes de fechar o pedido.",
+          "Pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia.",
+          "Nos Termos, as bandeiras de cartão aceitas são Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial, na mesma data, anunciava **até 5% de desconto** no Pix e no boleto e **até 5% de desconto** no cartão em 1x, além de parcelamento em **6x sem juros**. O percentual e o número de parcelas variam por produto e por promoção, então confira no carrinho."
+        ]
+      },
+      {
+        "heading": "E a reputação da Max Titanium no Reclame Aqui?",
+        "paragraphs": [
+          "Em 14/10/2026, o perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava reputação **Boa**, com nota 7,6 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 97,5% das reclamações respondidas e 82,6% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Onde comprar Max Titanium original",
+        "paragraphs": [
+          "O caminho mais direto é o site oficial, o **maxtitanium.com.br**, onde valem as regras de troca, arrependimento e frete descritas neste artigo.",
+          "Quem prefere comprar pessoalmente ou receber de uma revenda pode usar o \"Encontre a loja mais próxima\", o localizador do rodapé do site, que lista pontos de venda que trabalham com a marca. Em revenda, as regras de troca são as da loja, não as do site da Max Titanium.",
+          "Se for comprar em marketplace, abra a página do vendedor antes de pagar e confira quem entrega o produto. Prefira vendedor com identificação clara e CNPJ, e desconfie de preço muito abaixo do praticado no site oficial."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelas compras feitas com o cupom **MAX10EMCASACOMCECILIA**. No carrinho do site, o campo onde ele entra se chama \"Cupom de Desconto\".",
+          "O desconto chega a 10% OFF, mas o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento, funciona para conta nova e para quem já comprou na loja, soma com as promoções do site e soma com o desconto de até 5% do Pix e do boleto. As regras completas e as condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium).",
+          "Testamos o cupom no carrinho em 14/10/2026. O passo a passo, com o que mudou no resumo, está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Max Titanium?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. A loja tem identificação completa no rodapé, política de trocas publicada e reputação Boa no Reclame Aqui.",
+          "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. O tempo médio de resposta no Reclame Aqui foi de 7 dias e 9 horas nos últimos seis meses, e 62,3% dos consumidores que avaliaram dizem que voltariam a fazer negócio. E atraso na entrega é o problema mais citado, então acompanhe o rastreio do pedido e abra chamado cedo se ele parar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas, em consulta de 14/10/2026.",
+          "A Max Titanium é da Supley? Sim. A própria Supley lista a Max Titanium entre as marcas do grupo, ao lado de Probiótica, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
+          "Quem é o dono da Max Titanium? A marca pertence ao grupo Supley, que é a empresa que aparece no rodapé do site, com o CNPJ 07.578.713/0004-29. O site da Supley diz que a trajetória do grupo começou em 2006.",
+          "O site da Max Titanium é seguro? O endereço oficial é maxtitanium.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
+          "Qual é o CNPJ da Max Titanium? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos em 14/10/2026.",
+          "Quanto tempo tenho para trocar um produto da Max Titanium? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito em suplementos (90 dias em duráveis, como coqueteleiras). No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte, em 14/10/2026. Vale na forma de envio mais barata, não no Sedex.",
+          "Tem cupom de primeira compra na Max Titanium? Nosso cupom é o MAX10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e veja as condições na [página do cupom](/cupons/max-titanium)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "slug": "max-titanium-reclame-aqui-nota-reputacao",
+    "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Max Titanium no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Max Titanium no Reclame Aqui em 14/10/2026: reputação Boa, nota 7,6 nos últimos 6 meses, 97,5% das reclamações respondidas e 82,6% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Max Titanium no Reclame Aqui: reputação Boa, nota 7,6 e 82,6% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Boa no Reclame Aqui nas três janelas: nota 7,6 em 6 meses, 7,2 em 12 meses e 7,6 em 2025",
+      "97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12",
+      "82,6% das reclamações dos últimos 6 meses resolvidas, mais de 8 em cada 10",
+      "Tempo médio de resposta caiu de 12 dias e 23 horas em 2025 para 7 dias e 9 horas nos últimos 6 meses"
+    ],
+    "cons": [
+      "Só 62,3% dos consumidores que avaliaram voltariam a fazer negócio nos últimos 6 meses",
+      "Nota média do consumidor de 6,32 nos últimos 6 meses e 5,68 nos últimos 12",
+      "Atraso na entrega é o problema mais citado, com 29,43%",
+      "A resposta ainda leva dias: 7 dias e 9 horas em média nos últimos 6 meses"
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom MAX10EMCASACOMCECILIA, de até 10% OFF.",
+      "label": "Ir para a Max Titanium com o cupom",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Max Titanium tem reputação **Boa** no Reclame Aqui. Em 14/10/2026, o perfil \"Max Titanium Suplementos\" mostrava nota 7,6 nos últimos 6 meses (de 01/04 a 30/09/2026), com 446 reclamações, 97,5% respondidas e 82,6% resolvidas.",
+          "Os pontos fracos estão no tempo de resposta e no \"voltariam\". O tempo médio de resposta nos 6 meses foi de 7 dias e 9 horas, e só 62,3% dos consumidores que avaliaram disseram que voltariam a fazer negócio. A nota média do consumidor foi 6,32.",
+          "Nos 12 meses (de 01/10/2025 a 30/09/2026), a nota cai para 7,2, com 1.134 reclamações, 81,7% resolvidas e 55,2% de \"voltariam\".",
+          "Nas reclamações de até 3 anos, o problema mais citado é o atraso na entrega e o produto mais citado é o Whey Protein. O quadro não diz que o whey tenha mais problemas que os outros itens.",
+          "Sobre quem está por trás da marca, o site oficial e as trocas, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Max Titanium",
+        "paragraphs": [
+          "A Max Titanium vende pela internet suplementos como whey, creatina e pré-treinos. Quem compra pela primeira vez costuma ter duas dúvidas: o pedido chega no prazo, e o que acontece se vier algo errado ou se der problema depois? Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
+        ]
+      },
+      {
+        "heading": "Os números da Max Titanium no Reclame Aqui",
+        "paragraphs": [
+          "O perfil se chama \"Max Titanium Suplementos\". Em 14/10/2026, a reputação era **Boa** nas três janelas que o Reclame Aqui mostra: 6 meses, 12 meses e o ano de 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026), de 12 meses (01/10/2025 a 30/09/2026) e de 2025, consultado em 14/10/2026",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "Ano de 2025"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,6",
+              "Boa, nota 7,2",
+              "Boa, nota 7,6"
+            ],
+            [
+              "Reclamações recebidas",
+              "446",
+              "1.134",
+              "1.976"
+            ],
+            [
+              "Respondidas",
+              "97,5% (11 aguardando)",
+              "99% (11 aguardando)",
+              "99,8% (0 aguardando)"
+            ],
+            [
+              "Resolvidas",
+              "82,6%",
+              "81,7%",
+              "85,1%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "62,3%",
+              "55,2%",
+              "61,1%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "207",
+              "552",
+              "985"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,32",
+              "5,68",
+              "6,01"
+            ],
+            [
+              "Tempo médio de resposta",
+              "7 dias e 9 horas",
+              "8 dias e 8 horas",
+              "12 dias e 23 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A leitura mais direta: a Max Titanium responde quase tudo e resolve mais de 8 em cada 10 reclamações nas três janelas. A janela de 12 meses é a mais fraca (nota 7,2, \"voltariam\" em 55,2%), e a de 6 meses melhora em relação a ela. O tempo de resposta também caiu, de 12 dias e 23 horas em 2025 para 7 dias e 9 horas nos últimos 6 meses, mas ainda se mede em dias, não em horas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
+            "alt": "Aba de 6 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
+            "caption": "Aba de 6 meses (01/04 a 30/09/2026) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3055
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
+            "alt": "Aba de 12 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,2 e os números marcados em amarelo",
+            "caption": "Aba de 12 meses (01/10/2025 a 30/09/2026) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3094
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
+            "alt": "Aba de 2025 do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
+            "caption": "Aba de 2025 (01/01 a 31/12/2025) do perfil \"Max Titanium Suplementos\", consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3063
+          }
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+        ],
+        "bullets": [
+          "**Categoria:** Suplementos Alimentares, com 68,55%.",
+          "**Problema:** atraso na entrega, com 29,43%.",
+          "**Produto:** Whey Protein, com 37,17%."
+        ],
+        "postParagraphs": [
+          "O atraso na entrega é o problema que mais se repete, em quase 3 de cada 10 reclamações. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo informado na compra vencer, sem esperar semanas. O passo a passo está mais abaixo.",
+          "O Whey Protein é o produto mais citado (37,17%). Isso não quer dizer que ele tenha mais problemas que os outros itens: os números do perfil não permitem essa conclusão."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 68,55%, atraso na entrega com 29,43% e Whey Protein com 37,17%",
+        "imageCaption": "Principais problemas comentados no perfil \"Max Titanium Suplementos\", com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2292
+      },
+      {
+        "heading": "Como a Max Titanium responde às reclamações",
+        "paragraphs": [
+          "Responde quase todas: em 14/10/2026, 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
+          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 82,6% das reclamações, e 62,3% de quem avaliou voltaria a fazer negócio. Em outras palavras, perto de 4 em cada 10 consumidores que avaliaram não voltariam.",
+          "Só 207 das 446 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor (6,32) falam de uma parte delas. Esses números mostram como a Max Titanium foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "A política da loja está em Troca e Devolução, no site, e o atendimento é da Supley, empresa que opera a loja. Em 14/10/2026, o rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
+        ],
+        "bullets": [
+          "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
+          "**Recusa na entrega:** se a embalagem chegar violada, o produto for diferente do pedido ou faltar item, recuse o recebimento e anote o motivo no verso da nota.",
+          "**Arrependimento:** são 7 dias corridos. O produto precisa estar na embalagem original, com o lacre intacto. O reembolso é integral, com o frete pago na compra, na mesma forma de pagamento.",
+          "**Defeito:** são 30 dias corridos para suplementos e 90 para produtos duráveis. A coleta e o reenvio ficam por conta da Max Titanium, e a análise leva até 30 dias do recebimento no centro de distribuição.",
+          "**Erro de endereço:** se o pedido voltar por endereço errado, o frete do reenvio pode ser cobrado de você.",
+          "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, avalie se o problema foi resolvido."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelas compras feitas com o cupom **MAX10EMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O cupom dá até 10% OFF, e em alguns produtos o desconto é menor, então confira o valor no carrinho antes de pagar. Os detalhes atualizados estão na [página do cupom da Max Titanium](/cupons/max-titanium), e o passo a passo no carrinho, no artigo [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Max Titanium é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil Max Titanium Suplementos mostrava reputação Boa, com nota 7,6 nos últimos 6 meses e 82,6% das reclamações resolvidas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
+          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 nos últimos 6 meses (de 01/04 a 30/09/2026), 7,2 nos últimos 12 meses e 7,6 em 2025, todas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
+          "A Max Titanium responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12, com resposta em cerca de uma semana ou mais (7 dias e 9 horas nos 6 meses).",
+          "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br. Se não resolver, abra uma reclamação no Reclame Aqui.",
+          "Como pedir troca ou reembolso na Max Titanium? No arrependimento, são 7 dias corridos, com embalagem original e lacre intacto, e o reembolso é integral, com o frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "slug": "cupom-max-titanium-como-usar",
+    "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%",
+    "seoTitle": "Cupom Max Titanium: como usar o MAX10EMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF, testado no carrinho em 14/10/2026. Passo a passo, linha Descontos, soma com promoção e com o Pix, frete grátis por região e brindes.",
+    "metaDescription": "Cupom Max Titanium MAX10EMCASACOMCECILIA: até 10% OFF, testado no carrinho. Veja como aplicar, a linha Descontos e o frete grátis por região.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+    "imageAlt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Até 10% OFF, em todas as formas de pagamento",
+      "Soma com as promoções do site e com o desconto de até 5% do Pix e do boleto",
+      "Vale para conta nova e para quem já comprou na loja",
+      "No teste, os dois brindes continuaram no carrinho depois do cupom"
+    ],
+    "cons": [
+      "O desconto é menor em alguns produtos: no nosso teste, cerca de 9% sobre o whey",
+      "Não dá frete grátis: o mínimo muda por região, de R$ 104 a R$ 599",
+      "Se o cupom deixar o total abaixo do mínimo da região, o frete volta a ser cobrado",
+      "O teste foi com um item só: ele não mostra quais produtos têm desconto menor"
+    ],
+    "cta": {
+      "text": "Entre na Max Titanium pelo link da parceria e digite o MAX10EMCASACOMCECILIA no carrinho. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Max Titanium com o cupom",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "max-titanium-reclame-aqui-nota-reputacao",
+        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Entre no site da Max Titanium pelo botão desta página, coloque os produtos no carrinho e digite **MAX10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no resumo do pedido. Clique em \"Adicionar\".",
+          "O desconto chega a 10% OFF, mas pode ser menor em alguns produtos. A linha \"Descontos\" do resumo mostra quanto o cupom abateu de verdade antes de você pagar.",
+          "O cupom vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com as promoções do site e com o desconto de até 5% do Pix e do boleto.",
+          "Atenção ao frete grátis: o valor mínimo muda conforme a região do CEP, e o desconto do cupom entra na conta. Confira a tabela mais abaixo.",
+          "As condições atualizadas do código ficam na [página do cupom da Max Titanium](/cupons/max-titanium). O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
+        ]
+      },
+      {
+        "heading": "O que é o cupom MAX10EMCASACOMCECILIA",
+        "paragraphs": [
+          "MAX10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Max Titanium, marca brasileira de suplementos. O botão desta página leva ao site oficial, maxtitanium.com.br, e o desconto vem do código, digitado no carrinho.",
+          "O desconto chega a **10% OFF**, mas pode ser menor em alguns produtos. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste abaixo mostra isso num carrinho real.",
+          "A Max Titanium é do grupo Supley, que também tem as marcas Probiótica, com o artigo [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel), e Dr. Peanut, com o artigo [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel), além da Znack That."
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial pelo link da parceria",
+        "paragraphs": [
+          "Use o botão da Max Titanium desta página para abrir o site oficial. O código você digita no carrinho, no passo 3. As condições do cupom ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e no resumo do pedido fica o campo \"Cupom de Desconto\", com o botão \"Adicionar\".",
+          "No nosso teste, de 14/10/2026, o carrinho tinha um Top Whey 3W + Sabor 900G Brigadeiro que já estava em promoção: de R$ 273,55 por R$ 189,00. O carrinho também mostrava dois brindes da Znack That, de 40 g cada, marcados como \"Brinde escolhido!\".",
+          "Antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Carrinho da Max Titanium antes do cupom, com o Top Whey 3W em promoção, dois brindes Znack That e o campo Cupom de Desconto marcado em amarelo",
+        "imageCaption": "Carrinho da Max Titanium em 14/10/2026, antes do cupom: o Top Whey 3W em promoção, os dois brindes e o campo \"Cupom de Desconto\". O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2713
+      },
+      {
+        "heading": "3. Digite MAX10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+        "paragraphs": [
+          "No resumo do pedido está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **MAX10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+          "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
+        ]
+      },
+      {
+        "heading": "4. Confira o desconto no resumo antes de pagar",
+        "paragraphs": [
+          "Depois do clique, o resumo do pedido muda. O código aparece no resumo e também como etiqueta no item, e surge uma linha nova, \"Descontos\", com o valor abatido em reais e com sinal de menos.",
+          "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é cerca de 9% sobre os R$ 189,00 do whey, abaixo dos 10% do título. É por isso que o texto diz \"até 10%\": o percentual varia por produto, e não dá para tratar esse número como regra.",
+          "A regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
+        "imageCaption": "Depois do cupom, em 14/10/2026: o código no resumo e no item, a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.6757
+      },
+      {
+        "heading": "O que aconteceu no nosso teste",
+        "paragraphs": [
+          "Em 14/10/2026, testamos o cupom no carrinho:"
+        ],
+        "comparisonTable": {
+          "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium em 14/10/2026",
+          "headers": [
+            "Item",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Top Whey 3W + Sabor 900G Brigadeiro, preço antigo",
+              "R$ 273,55"
+            ],
+            [
+              "Preço em promoção, antes do cupom",
+              "R$ 189,00"
+            ],
+            [
+              "Linha \"Descontos\" depois do cupom",
+              "R$ -16,75"
+            ],
+            [
+              "Total depois do cupom",
+              "R$ 172,25"
+            ]
+          ]
+        },
+        "bullets": [
+          "**O cupom somou com a promoção.** O whey já estava com preço promocional e o cupom abateu mais R$ 16,75 em cima dele.",
+          "**Os dois brindes continuaram no carrinho.** O cupom não tirou os brindes da Znack That. Brinde é campanha da loja: não dá para garantir que sempre haverá."
+        ],
+        "postParagraphs": [
+          "O teste foi com um item só, então ele não mostra quais produtos têm desconto menor que 10%."
+        ]
+      },
+      {
+        "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
+        "paragraphs": [
+          "A Max Titanium dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete do site trazia estes valores:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Max Titanium por região, segundo a política do site em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A política vale para a entrega mais barata do site e não vale para Sedex.",
+          "O ponto que pesa com o cupom: se o desconto deixar o total do pedido abaixo do valor da sua região, o frete pode ser cobrado. Exemplo de conta, não um valor de produto: em uma região com mínimo de R$ 134, um carrinho de R$ 140 passa do mínimo sem cupom, mas, se o cupom tirasse 10%, o total ficaria em R$ 126 e o frete deixaria de ser grátis. O frete não entra nessa soma.",
+          "Por isso, quem está perto do mínimo deve olhar o total depois do cupom, e não o subtotal. Esses valores mudam com o tempo; confirme o do seu CEP no carrinho antes de fechar."
+        ]
+      },
+      {
+        "heading": "Formas de pagamento, primeira compra e promoções",
+        "paragraphs": [
+          "O MAX10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Em 14/10/2026, a página inicial da Max Titanium anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF, e os cards de produto mostravam parcelamento em até 6x. O cupom **soma com o desconto de até 5% do Pix e do boleto**. O percentual de pagamento é da loja e pode mudar: confira na hora de pagar.",
+          "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Max Titanium. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
+          "O cupom soma com as promoções vigentes do site, como mostrou o teste com o whey em promoção."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "O cupom vale no site oficial da Max Titanium. A loja vende whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos, além de roupas, acessórios e coqueteleiras. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Se precisar trocar um produto comprado com cupom",
+        "paragraphs": [
+          "O cupom não muda o direito de troca: a compra segue as regras da loja. O quadro de trocas, devoluções e defeito está em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Os números da loja no Reclame Aqui estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao).",
+          "Sobre o brinde, os Termos e Condições da loja, em 14/10/2026, dizem que ele é liberado conforme o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Max Titanium, sim: o cupom vale em todas as formas de pagamento, dá até 10% OFF, menos em alguns produtos, como no nosso teste. Duas conferências evitam surpresa: a linha \"Descontos\" antes de pagar e, perto do mínimo do frete grátis da sua região, o total depois do cupom.",
+          "As condições atualizadas do código ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Max Titanium? O cupom da nossa parceria é o MAX10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, maxtitanium.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
+          "Tem cupom de primeira compra na Max Titanium? Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
+          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja e soma com o desconto de até 5% do Pix e do boleto.",
+          "O cupom soma com produto em promoção? Sim. No nosso teste de 14/10/2026, o cupom deu R$ 16,75 de desconto num whey que já estava com preço promocional, e os brindes continuaram no carrinho.",
+          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. No nosso teste, foram cerca de 9% sobre o whey, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
+          "O cupom da Max Titanium dá frete grátis? Não necessariamente. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte em 14/10/2026, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado.",
+          "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi justamente num Top Whey 3W de 900 g. O desconto chega a 10% e é menor em alguns produtos; confira a linha \"Descontos\" no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "slug": "clea-store-e-confiavel",
+    "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação",
+    "seoTitle": "Cléa Store é confiável? Site oficial, CNPJ e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conferimos a Cléa Store antes de indicar a loja: Clea Store Ltda., CNPJ ativo em 14/10/2026, sede em Jaraguá do Sul (SC), site oficial cleastore.com.br, devolução grátis em 30 dias, cashback de 10% e reputação Boa no Reclame Aqui.",
+    "metaDescription": "A Cléa Store é confiável? Veja quem vende, o CNPJ, o site oficial, a devolução grátis, o cashback e a reputação no Reclame Aqui.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+    "imageAlt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
+      "Devolução grátis em 30 dias corridos e 90 dias para defeito de fabricação",
+      "Cashback de 10% em créditos a cada compra",
+      "Reputação Boa e selo de Empresa Verificada no Reclame Aqui, com 100% das reclamações respondidas nos últimos seis meses",
+      "Página de perfis oficiais e aviso de que o pagamento é feito só no site"
+    ],
+    "cons": [
+      "Frete grátis só acima de R$ 599",
+      "O cashback vence em 30 dias",
+      "Só 55,6% de quem avaliou no Reclame Aqui voltaria a fazer negócio, nos últimos seis meses"
+    ],
+    "cta": {
+      "text": "Se a Cléa Store faz sentido para você, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-reclame-aqui-nota-reputacao",
+        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim. A loja é da **Clea Store Ltda.**, CNPJ 27.310.985/0001-08, que consta como **ativo** nos dados públicos de CNPJ em 14/10/2026. A sede fica em Jaraguá do Sul (SC).",
+          "O site oficial é **cleastore.com.br**. Razão social, CNPJ e endereço estão na política de privacidade e nos termos de uso.",
+          "Em 14/10/2026, a **devolução é grátis, sempre**: a postagem não é cobrada de quem devolve. O prazo é de 30 dias corridos após o recebimento, 90 dias para defeito de fabricação e 7 dias para desistir da compra.",
+          "Pagamento em cartão de crédito em até 6x sem juros ou Pix, segundo o rodapé, e cashback de 10% em créditos a cada compra (consulta de 14/10/2026).",
+          "No Reclame Aqui, a Cléa Store tem reputação **Boa**, nota 7,1 nos últimos 6 meses, e o selo de **Empresa Verificada**.",
+          "O cupom da parceria, **CSEMCASACOMCECILIA**, dá 10% OFF em todo o site, em todas as formas de pagamento. O Em Casa com Cecília pode receber comissão pelas compras feitas com ele. Regras na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      },
+      {
+        "heading": "Quem está por trás da Cléa Store",
+        "paragraphs": [
+          "A loja é operada pela **Clea Store Ltda.**, CNPJ **27.310.985/0001-08**. A razão social aparece na política de privacidade do site. O rodapé mostra só o nome da marca e o CNPJ.",
+          "Nos dados públicos de CNPJ, consultados em 14/10/2026, a empresa está **ativa**. É a matriz, aberta em 15/03/2017, enquadrada como microempresa, e a atividade principal é a confecção de peças do vestuário.",
+          "O endereço publicado na política de privacidade e nos termos de uso é Rua Erwino Menegotti, 1589, bairro Água Verde, Jaraguá do Sul (SC), CEP 89254-565. É o mesmo endereço do cadastro do CNPJ.",
+          "Na página \"Nossa História\", a marca diz que estreou em 2014 \"ressignificando ideias artesanais com peças exclusivas em crochê\" e que hoje trabalha entre o minimalismo e o maximalismo. A página não cita fundador. O CNPJ atual é de 2017."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é **cleastore.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
+          "O segundo teste é o CNPJ. O rodapé do site, em 14/10/2026, mostra o nome \"CLÉA STORE\" e o CNPJ 27.310.985/0001-08. A razão social e o endereço completo estão na política de privacidade. Cruze o CNPJ numa consulta pública e veja se a situação aparece como ativa e se o nome bate.",
+          "O terceiro são os perfis oficiais. A página \"Perfil oficial\" da loja lista:"
+        ],
+        "bullets": [
+          "Instagram: @clea.store;",
+          "TikTok: @cleastore;",
+          "Pinterest: @cleastore."
+        ],
+        "postParagraphs": [
+          "A mesma página diz que o pagamento é feito **somente no site da loja**. Se alguém pedir para pagar por outro caminho, não siga com a compra."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site cleastore.com.br com o CNPJ 27.310.985/0001-08 e a linha de pagamento em cartão em até 6x sem juros ou Pix marcados em amarelo",
+        "imageCaption": "Rodapé de cleastore.com.br em 14/10/2026, com o CNPJ e as formas de pagamento. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.848
+      },
+      {
+        "heading": "O que a Cléa Store vende",
+        "paragraphs": [
+          "A Cléa Store é uma loja de moda feminina. O site reúne alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+        ]
+      },
+      {
+        "heading": "Devolução, defeito, arrependimento e troca",
+        "paragraphs": [
+          "As regras estão em duas páginas do site, \"Troca e devolução\" e \"Termos de uso\", e cada uma cobre uma parte. O que valia em 14/10/2026 está no quadro:"
+        ],
+        "comparisonTable": {
+          "caption": "Prazos de devolução, defeito, arrependimento e troca da Cléa Store, segundo as páginas de Troca e devolução e de Termos de uso do site em 14/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "Como pedir",
+            "O que você recebe"
+          ],
+          "rows": [
+            [
+              "Devolução",
+              "30 dias corridos após o recebimento",
+              "Formulário em cleastore.troquefacil.com.br, com número do pedido e e-mail; embalagem original, sem uso, com nota fiscal",
+              "Reembolso no Pix ou no cartão, ou crédito"
+            ],
+            [
+              "Defeito de fabricação",
+              "90 dias corridos",
+              "Mesmo formulário, com foto e descrição do defeito",
+              "Defeito confirmado: reembolso ou crédito, à sua escolha"
+            ],
+            [
+              "Arrependimento (termos de uso)",
+              "7 dias corridos após o recebimento",
+              "Pedido de desistência, sem custo de envio da devolução para você",
+              "Pix em até 7 dias; cartão em até 2 faturas; ou crédito de 360 dias"
+            ],
+            [
+              "Troca (termos de uso)",
+              "30 dias corridos",
+              "Pedido de troca",
+              "Vale no valor da peça, sem o frete"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**A devolução é grátis, sempre.** A faixa \"Devolução grátis\" do topo do site vale para toda devolução: a postagem não é cobrada do cliente."
+        ]
+      },
+      {
+        "heading": "Como pedir a devolução",
+        "bullets": [
+          "Abra o formulário em cleastore.troquefacil.com.br e informe o número do pedido e o e-mail da compra.",
+          "Receba o código de postagem. Ele vale por 7 dias corridos, então envie o pacote dentro desse prazo.",
+          "Mande a peça na embalagem original, sem uso e com a nota fiscal."
+        ],
+        "postParagraphs": [
+          "No defeito, o formulário pede foto e descrição. Se o defeito for confirmado, você escolhe entre reembolso e crédito. Se não for confirmado, o produto volta para você sem ressarcimento."
+        ]
+      },
+      {
+        "heading": "Quando o dinheiro volta",
+        "paragraphs": [
+          "A página de devolução diz que:"
+        ],
+        "bullets": [
+          "no **Pix**, o valor cai na mesma conta em até 6 dias úteis depois que a central recebe o pacote (os termos de uso falam em até 7 dias no arrependimento);",
+          "no **cartão**, o estorno leva de 30 a 60 dias;",
+          "o **crédito** é liberado no sábado seguinte ao recebimento e é usado no campo \"Utilizar meu crédito\";",
+          "o frete pago na compra só volta se **todos os produtos do pedido** forem devolvidos;",
+          "cashback, cupons e frete grátis não são reembolsados."
+        ],
+        "postParagraphs": [
+          "Para não perder prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e pagamento",
+        "paragraphs": [
+          "Os dados desta seção são da faixa do topo, do rodapé e da política de entrega do site, lidos em 14/10/2026.",
+          "A faixa do topo da loja anuncia **frete grátis acima de R$ 599**. A política de entrega não traz esse valor, então confira no carrinho se ele ainda vale para o seu pedido.",
+          "O prazo de entrega não é fixo: ele aparece no checkout, depois que você informa o CEP. As entregas saem pelos Correios e por transportadoras, de segunda a sexta, das 8h às 18h. Se ninguém atender, há até 3 tentativas de entrega. A loja entrega só no Brasil. Depois da compra, o rastreio fica no seu perfil no site.",
+          "No pagamento, o rodapé informa cartão de crédito em até **6x sem juros** ou Pix. O site não informa desconto para pagamento no Pix."
+        ]
+      },
+      {
+        "heading": "Cashback da Cléa Store",
+        "paragraphs": [
+          "A página de cashback da loja explica o programa. O que valia em 14/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Regras do cashback da Cléa Store, segundo a página de cashback do site em 14/10/2026",
+          "headers": [
+            "Regra",
+            "Como funciona"
+          ],
+          "rows": [
+            [
+              "Quanto você ganha",
+              "10% da compra em créditos"
+            ],
+            [
+              "Como recebe",
+              "Automático, ao comprar no site"
+            ],
+            [
+              "Quando libera",
+              "Em até 1 dia útil"
+            ],
+            [
+              "Validade",
+              "30 dias"
+            ],
+            [
+              "Acumula?",
+              "Sim"
+            ],
+            [
+              "Como usa",
+              "No campo \"Utilize seu saldo de créditos\", na etapa de pagamento"
+            ],
+            [
+              "Compra cancelada",
+              "Os créditos voltam para a sua conta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página não informa valor mínimo de compra nem exclusões. Como a validade é curta, use o saldo dentro dos 30 dias. O cashback também soma com o nosso cupom, explicado mais abaixo."
+        ]
+      },
+      {
+        "heading": "E a reputação da Cléa Store no Reclame Aqui?",
+        "paragraphs": [
+          "Em 14/10/2026, o perfil da Cléa Store no Reclame Aqui mostrava reputação **Boa**, com nota 7,1 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 100% das reclamações respondidas, 83,3% resolvidas e o selo de **Empresa Verificada**, que o Reclame Aqui descreve como aprovada na verificação mensal, que assegura que a empresa existe e é mais confiável. A tabela de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**.",
+          "O cupom dá **10% OFF em todo o site** e vale em todas as formas de pagamento, tanto para conta nova quanto para quem já comprou na loja. Ele soma com as promoções do site, e no nosso teste valeu num kit que já estava em promoção. Soma também com o cashback. Não soma com outro cupom: os termos da loja falam em um voucher por pedido. As regras e as condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store).",
+          "Testamos o cupom no carrinho em 14/10/2026. O passo a passo, com o que mudou no resumo do pedido, está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Cléa Store?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução com 30 dias e reputação Boa no Reclame Aqui, com o selo de Empresa Verificada e 100% das reclamações respondidas nos últimos seis meses.",
+          "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 55,6% nos últimos seis meses, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui, com 100% das reclamações respondidas nos últimos seis meses, em consulta de 14/10/2026.",
+          "O site da Cléa Store é seguro? O endereço oficial é cleastore.com.br, e o pagamento é feito somente no site. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio ou mensagem.",
+          "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ de 14/10/2026. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
+          "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos em 14/10/2026. Ele aparece no rodapé do site e na política de privacidade.",
+          "Quanto tempo tenho para devolver um produto da Cléa Store? São 30 dias corridos após o recebimento para a devolução e 90 dias corridos para defeito de fabricação. Pelos termos de uso, o arrependimento tem 7 dias corridos. A devolução é grátis: a postagem não é cobrada de você.",
+          "A Cléa Store tem frete grátis? Tem, segundo a faixa do site, em pedidos acima de R$ 599 (consulta de 14/10/2026). Abaixo desse valor, o frete é calculado no checkout.",
+          "Como funciona o cashback da Cléa Store? Você recebe 10% da compra em créditos, automaticamente, liberados em até 1 dia útil e com validade de 30 dias. O saldo acumula e é usado no campo \"Utilize seu saldo de créditos\", na etapa de pagamento.",
+          "Tem cupom de primeira compra na Cléa Store? O nosso cupom, CSEMCASACOMCECILIA, dá 10% OFF em todo o site e vale também para quem já comprou na loja. Veja as regras na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "slug": "clea-store-reclame-aqui-nota-reputacao",
+    "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Cléa Store no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Cléa Store no Reclame Aqui em 14/10/2026: reputação Boa, selo de Empresa Verificada, nota 7,1 nos últimos 6 meses, 100% das reclamações respondidas e 83,3% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Cléa Store no Reclame Aqui: reputação Boa, Empresa Verificada, nota 7,1 e 100% das reclamações respondidas. Veja as queixas e o que fazer (14/10/2026).",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12",
+      "Selo de Empresa Verificada no Reclame Aqui",
+      "100% das reclamações respondidas e nenhuma aguardando resposta",
+      "83,3% das reclamações dos últimos 6 meses resolvidas",
+      "Avaliações de compra de 4,8 em 5 no topo do perfil"
+    ],
+    "cons": [
+      "Só 55,6% dos consumidores que avaliaram voltariam a fazer negócio nos últimos 6 meses",
+      "Nota média do consumidor de 5,06 nos últimos 6 meses",
+      "Produto não recebido é o problema mais citado, com 27,33%",
+      "O tempo médio de resposta é de 3 dias e 5 horas nos últimos 6 meses, contra 2 dias e 4 horas nos últimos 12"
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Cléa Store tem reputação **Boa** no Reclame Aqui e o selo de **Empresa Verificada**. Em 14/10/2026, o perfil mostrava nota 7,1 nos últimos 6 meses (de 01/04 a 30/09/2026), com 65 reclamações, 100% respondidas e 83,3% resolvidas.",
+          "Nos 12 meses (de 01/10/2025 a 30/09/2026), a nota é 7,5, com 137 reclamações, 100% respondidas e 83,6% resolvidas. Nenhuma estava aguardando resposta.",
+          "O ponto fraco está em quem avaliou: só 55,6% dos consumidores que avaliaram a reclamação, nos últimos 6 meses, disseram que voltariam a fazer negócio, e a nota média do consumidor foi 5,06.",
+          "A nota de 4,8 em 5 que aparece no topo do perfil é outra métrica: é a avaliação de quem comprou, e não a nota de reputação (7,1 e 7,5).",
+          "Nas reclamações de até 3 anos, o problema mais citado é o produto não recebido (27,33%). Sobre CNPJ, site oficial e devolução, veja [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Cléa Store",
+        "paragraphs": [
+          "A Cléa Store é uma loja de moda feminina. Quem compra pela primeira vez costuma ter duas dúvidas: a peça chega, e o que acontece se vier algo errado ou se for preciso devolver?",
+          "O Reclame Aqui ajuda a medir se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. O próprio site da loja liga ao perfil: o item \"Reviews\" do rodapé abre a página de avaliações da Cléa Store no Reclame Aqui.",
+          "Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
+        ]
+      },
+      {
+        "heading": "Os números da Cléa Store no Reclame Aqui",
+        "paragraphs": [
+          "O perfil da Cléa Store fica na categoria Moda, e-commerce. Em 14/10/2026, o topo mostrava reputação **Boa**, o selo de **Empresa Verificada** e avaliações de compra de 4,8 em 5.",
+          "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
+          "A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), consultado em 14/10/2026",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,1",
+              "Boa, nota 7,5"
+            ],
+            [
+              "Reclamações recebidas",
+              "65",
+              "137"
+            ],
+            [
+              "Respondidas",
+              "100% (0 aguardando)",
+              "100% (0 aguardando)"
+            ],
+            [
+              "Resolvidas",
+              "83,3%",
+              "83,6%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "55,6%",
+              "58,9%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "36",
+              "73"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,06",
+              "5,89"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 5 horas",
+              "2 dias e 4 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota de reputação dos últimos 6 meses (7,1) é menor que a dos 12 meses (7,5), e o tempo médio de resposta é de 3 dias e 5 horas na aba de 6 meses e de 2 dias e 4 horas na de 12. As taxas de resolvidas, respondidas e de \"voltariam\" ficam em patamares parecidos nas duas janelas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
+            "alt": "Aba de 6 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,1 e os números marcados em amarelo",
+            "caption": "Aba de 6 meses (01/04 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3153
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
+            "alt": "Aba de 12 meses do perfil da Cléa Store no Reclame Aqui, com reputação Boa, nota 7,5 e os números marcados em amarelo",
+            "caption": "Aba de 12 meses (01/10/2025 a 30/09/2026) do perfil da Cléa Store, consultada em 14/10/2026. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3137
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
+            "alt": "Selo de Empresa verificada no perfil da Cléa Store no Reclame Aqui, com a explicação da verificação mensal",
+            "caption": "O selo de Empresa verificada no perfil da Cléa Store, em 14/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3797
+          }
+        ]
+      },
+      {
+        "heading": "Nota de reputação ou avaliações de compra: qual a diferença?",
+        "paragraphs": [
+          "Duas notas aparecem no perfil, e não são a mesma coisa:"
+        ],
+        "bullets": [
+          "**Nota de reputação (7,1 e 7,5):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
+          "**Avaliações de compra (4,8 em 5):** avaliação de quem comprou, mostrada no topo do perfil."
+        ],
+        "postParagraphs": [
+          "Por isso um 4,8 ao lado de um 7,1 não é contradição: um mede a compra, o outro, como a empresa lidou com as reclamações."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+        ],
+        "bullets": [
+          "**Categoria:** Moda Feminina, com 6,67%.",
+          "**Problema:** produto não recebido, com 27,33%.",
+          "**Produto:** Blusas, com 12,67%."
+        ],
+        "postParagraphs": [
+          "O produto não recebido é o problema que mais se repete. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo mostrado no checkout vencer, sem esperar semanas.",
+          "Blusas é o produto mais citado, mas isso não quer dizer que seja a peça com mais problemas: os números do perfil não permitem concluir isso. Esses percentuais também cobrem até 3 anos de reclamações, uma janela maior que as das abas de 6 e de 12 meses da tabela."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil da Cléa Store no Reclame Aqui: categoria Moda Feminina com 6,67%, produto não recebido com 27,33% e Blusas com 12,67%",
+        "imageCaption": "Principais problemas comentados no perfil da Cléa Store, com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.185
+      },
+      {
+        "heading": "Como a Cléa Store responde",
+        "paragraphs": [
+          "Responde a todas: em 14/10/2026, 100% das reclamações dos últimos 6 e dos últimos 12 meses estavam respondidas, e nenhuma aguardava resposta. O tempo médio de resposta foi de 3 dias e 5 horas nos 6 meses e de 2 dias e 4 horas nos 12 meses.",
+          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 83,3% das reclamações (cerca de 5 em cada 6). Nos 12 meses, foram 83,6%.",
+          "Só 36 das 65 reclamações dos últimos 6 meses foram avaliadas, e 73 das 137 nos 12 meses. O \"voltariam\" (55,6% e 58,9%) e a nota do consumidor (5,06 e 5,89) falam dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "O atendimento da Cléa Store é pelo botão \"Fale com Atendente\" do site. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
+        ],
+        "bullets": [
+          "**Pedido atrasado ou não recebido:** guarde o número do pedido e acompanhe o rastreio no seu perfil do site. O prazo de entrega aparece no checkout. Quando ele vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\", com o número do pedido.",
+          "**Devolução e defeito:** são 30 dias corridos para devolução e 90 dias corridos para defeito de fabricação, a partir do recebimento. Os prazos completos e o passo a passo estão em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
+          "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui. A empresa responde dentro da própria plataforma, e depois da resposta você pode avaliar se o problema foi resolvido."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Cléa Store e pode receber comissão pelas compras feitas com o cupom **CSEMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O cupom dá 10% OFF em todo o site, vale em todas as formas de pagamento e funciona para conta nova e para quem já comprou na loja. Ele soma com as promoções e com o cashback, e não soma com outro cupom: a loja aceita um voucher por pedido. Os detalhes atualizados estão na [página do cupom da Cléa Store](/cupons/clea-store), e o passo a passo no carrinho, no artigo [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil mostrava reputação Boa e o selo de Empresa Verificada, com nota 7,1 nos últimos 6 meses. O ponto fraco é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio.",
+          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses (de 01/04 a 30/09/2026) e 7,5 nos últimos 12 meses, ambas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor era 5,06 e 5,89. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+          "A Cléa Store responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em 3 dias e 5 horas, em média, nos 6 meses.",
+          "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
+          "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "slug": "cupom-clea-store-como-usar",
+    "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%",
+    "seoTitle": "Cupom Cléa Store: como usar o CSEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: 10% OFF em todo o site, testado no carrinho em 14/10/2026. Passo a passo, soma com promoção e com o cashback, frete grátis acima de R$ 599 e devolução.",
+    "metaDescription": "Cupom Cléa Store CSEMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+    "imageAlt": "Montagem do resumo do pedido da Cléa Store: antes, com o campo Cupom de desconto, e depois, com o CSEMCASACOMCECILIA aplicado e o desconto de R$ 25,80",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "10% OFF em todo o site, em todas as formas de pagamento",
+      "Soma com as promoções: no teste, valeu num kit já em promoção",
+      "Soma com o cashback de 10%: no teste, calculado sobre o valor com desconto",
+      "Vale para conta nova e para quem já comprou na loja"
+    ],
+    "cons": [
+      "Não soma com outro cupom: um voucher por pedido",
+      "Não dá frete grátis: o frete grátis da loja começa acima de R$ 599",
+      "O cashback previsto cai junto com o desconto: de R$ 25,80 para R$ 23,22 no teste",
+      "Cupom, cashback e frete grátis não são reembolsados em caso de devolução"
+    ],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "clea-store-reclame-aqui-nota-reputacao",
+        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Entre no site da Cléa Store pelo botão desta página, monte o carrinho e, no \"Resumo do pedido\", clique em \"Adicionar\" ao lado de \"Cupom de desconto\". Digite **CSEMCASACOMCECILIA**.",
+          "O cupom dá **10% OFF em todo o site**, em **todas as formas de pagamento**, para conta nova e para quem já comprou na loja.",
+          "No nosso teste de 14/10/2026, ele valeu num kit que já estava em promoção e o resumo do pedido seguiu mostrando o cashback.",
+          "Só um cupom por pedido: segundo os termos da loja, cada cliente usa um voucher por pedido.",
+          "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom. As condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom CSEMCASACOMCECILIA",
+        "paragraphs": [
+          "CSEMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Cléa Store, loja de moda. Ele dá 10% OFF em todo o site oficial e é digitado no carrinho.",
+          "Os termos da loja chamam esse código de \"voucher\". A central de atendimento chama de \"cupom\". É o mesmo desconto.",
+          "O cupom vale na primeira compra e nas seguintes. Não importa se a conta é nova ou antiga."
+        ]
+      },
+      {
+        "heading": "1. Entre no site da Cléa Store",
+        "paragraphs": [
+          "Use o botão da Cléa Store desta página para abrir o site oficial, o cleastore.com.br. O código você digita no carrinho, no passo 3."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha as peças e abra o carrinho. A tela mostra os itens e, ao lado, o \"Resumo do pedido\", com o campo \"Cupom de desconto\", o subtotal e o total.",
+          "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção, de R$ 387,00 por R$ 258,00. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
+          "O frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\", no resumo do pedido."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Checkout da Cléa Store antes do cupom, com o Kit 3 T-Shirts em promoção, o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
+        "imageCaption": "Checkout da Cléa Store em 14/10/2026, antes do cupom: o kit em promoção, o cashback previsto e o \"Cupom de desconto\" com o link \"Adicionar\". O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.1486
+      },
+      {
+        "heading": "3. Digite CSEMCASACOMCECILIA no campo do cupom",
+        "paragraphs": [
+          "No \"Resumo do pedido\", ao lado de \"Cupom de desconto\", está o link \"Adicionar\". Clique nele, digite **CSEMCASACOMCECILIA** e confirme. Copiar o código pelo botão desta página evita erro de digitação."
+        ]
+      },
+      {
+        "heading": "4. Confira o desconto antes de pagar",
+        "paragraphs": [
+          "Depois de aceito, o resumo muda. A loja mostra \"Cupom aplicado CSEMCASACOMCECILIA -R$ 25,80\" e uma linha \"Desconto\" com o mesmo valor, -R$ 25,80.",
+          "A conta do nosso teste:"
+        ],
+        "bullets": [
+          "Kit 3 T-Shirts Oversized Classic em promoção: R$ 258,00.",
+          "Cupom de 10%: -R$ 25,80.",
+          "Total: **R$ 232,20**."
+        ],
+        "postParagraphs": [
+          "Confira a linha \"Desconto\" e o total antes de pagar. É ali que aparece o que o cupom abateu de verdade no seu pedido."
+        ],
+        "image": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Checkout da Cléa Store depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o cashback de até R$ 23,22",
+        "imageCaption": "Depois do cupom, em 14/10/2026: a linha \"Desconto\" com -R$ 25,80, o \"Cupom aplicado\" e o cashback recalculado para até R$ 23,22. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.9308
+      },
+      {
+        "heading": "5. Confira o cashback",
+        "paragraphs": [
+          "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
+          "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
+          "A página de cashback da loja, lida em 14/10/2026, diz como ele funciona:"
+        ],
+        "bullets": [
+          "Equivale a 10% em créditos, concedidos automaticamente ao comprar no site.",
+          "Fica disponível em até 1 dia útil.",
+          "Vale por 30 dias.",
+          "É acumulativo.",
+          "O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento."
+        ],
+        "postParagraphs": [
+          "A página não cita valor mínimo nem exclusões."
+        ]
+      },
+      {
+        "heading": "Cupom, promoção e cashback: como somam",
+        "paragraphs": [
+          "No nosso teste, os três valeram no mesmo pedido, nesta ordem:"
+        ],
+        "comparisonTable": {
+          "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store em 14/10/2026",
+          "headers": [
+            "Etapa",
+            "O que a loja mostrou"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 387,00"
+            ],
+            [
+              "Promoção da loja",
+              "R$ 258,00"
+            ],
+            [
+              "Cupom CSEMCASACOMCECILIA (10%)",
+              "-R$ 25,80, total de R$ 232,20"
+            ],
+            [
+              "Cashback previsto no checkout",
+              "até R$ 23,22, 10% do total com cupom"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Promoção:** o 10% incidiu sobre o preço já promocional. No nosso teste, o cupom valeu num kit já em promoção.",
+          "**Outro cupom:** não soma. Os termos dizem que cada cliente pode usar apenas um voucher por pedido."
+        ]
+      },
+      {
+        "heading": "Frete grátis e pagamento",
+        "paragraphs": [
+          "A faixa do site, em 14/10/2026, anunciava \"frete grátis acima de R$ 599\". O cupom em si não dá frete grátis: o frete grátis é uma regra da loja. O pedido do nosso teste, de R$ 232,20, ficou abaixo desse valor.",
+          "Se o seu carrinho está perto dos R$ 599, confira o frete no carrinho antes de pagar.",
+          "O CSEMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O rodapé do site, em 14/10/2026, listava cartão em até 6x sem juros ou Pix."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "O cupom vale em todo o site: alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
+        ]
+      },
+      {
+        "heading": "Se precisar devolver um produto comprado com cupom",
+        "paragraphs": [
+          "A Cléa Store tem devolução grátis. O cupom, o cashback e o frete grátis não são reembolsados em caso de devolução, segundo a política de troca e devolução da loja em 14/10/2026.",
+          "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Cléa Store, sim. O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, soma com as promoções e com o cashback, como no nosso teste. A única restrição é de um cupom por pedido.",
+          "Antes de pagar, confira a linha \"Desconto\" e o total. As condições atualizadas do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Cléa Store? O cupom da nossa parceria é o CSEMCASACOMCECILIA, que dá 10% OFF em todo o site oficial, o cleastore.com.br. Digite o código no campo \"Cupom de desconto\" do resumo do pedido e clique em \"Adicionar\".",
+          "Tem cupom de primeira compra na Cléa Store? Sim. O CSEMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou na loja.",
+          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja.",
+          "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste de 14/10/2026, o 10% valeu sobre o preço promocional.",
+          "O cupom da Cléa Store soma com o cashback? Sim. No nosso teste, o resumo do pedido continuou mostrando cashback, de até R$ 23,22.",
+          "Posso usar dois cupons no mesmo pedido? Não. Os termos da loja dizem que cada cliente pode usar apenas um voucher por pedido.",
+          "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599 em 14/10/2026. O frete é calculado pelo CEP, no carrinho."
+        ]
+      }
+    ]
   }
 ];

@@ -36,7 +36,12 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[max-titanium-e-confiavel]] — Max Titanium / Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- [ ] [[max-titanium-reclame-aqui-nota-reputacao]] — Max Titanium / Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram (Score Aut: 74 / Conv: 66; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- [ ] [[cupom-max-titanium-como-usar]] — Max Titanium / Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10% (Score Aut: 70 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- [ ] [[clea-store-e-confiavel]] — Cléa Store / Cléa Store é confiável? Quem vende, site oficial, trocas e reputação (Score Aut: 74 / Conv: 72; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- [ ] [[clea-store-reclame-aqui-nota-reputacao]] — Cléa Store / Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram (Score Aut: 72 / Conv: 64; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
+- [ ] [[cupom-clea-store-como-usar]] — Cléa Store / Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10% (Score Aut: 68 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 15/10/2026)
 
 ---
 

@@ -52782,6 +52782,466 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48638,
+      "sha256": "4f6002eb51d0bcde9ca9ed2abe8746c4e3627ea5dd007c3f27d7bd768528ffdd",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-confiavel-capa.webp",
+      "storage_filename": "clea-store-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77793,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4f6002eb51d0bcde9ca9ed2abe8746c4e3627ea5dd007c3f27d7bd768528ffdd/clea-store-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f6002eb51d0bcde9ca9ed2abe8746c4e3627ea5dd007c3f27d7bd768528ffdd/clea-store-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "4f6002eb51d0bcde9ca9ed2abe8746c4e3627ea5dd007c3f27d7bd768528ffdd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28162,
+      "sha256": "324ff96656974e4ca41989d1b91081d5e284d34b09a002a1e4f4075ca2a08199",
+      "width": 858,
+      "height": 747,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "storage_filename": "clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-como-usar.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78358,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/324ff96656974e4ca41989d1b91081d5e284d34b09a002a1e4f4075ca2a08199/clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/324ff96656974e4ca41989d1b91081d5e284d34b09a002a1e4f4075ca2a08199/clea-store-cupom-01-carrinho-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "324ff96656974e4ca41989d1b91081d5e284d34b09a002a1e4f4075ca2a08199",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33556,
+      "sha256": "c38cbe26d69d9e73caf2f0dbbceacd2fbf7dfa8673ddfb708832e92a8114c22f",
+      "width": 847,
+      "height": 910,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "clea-store-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-como-usar.json",
+          "line": 115,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78384,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c38cbe26d69d9e73caf2f0dbbceacd2fbf7dfa8673ddfb708832e92a8114c22f/clea-store-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c38cbe26d69d9e73caf2f0dbbceacd2fbf7dfa8673ddfb708832e92a8114c22f/clea-store-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "c38cbe26d69d9e73caf2f0dbbceacd2fbf7dfa8673ddfb708832e92a8114c22f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-cupom-capa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26850,
+      "sha256": "987119a9dd6b1ac0286eb690a939daa3e8d2e4bd48947b44b25d118d3f185601",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-cupom-capa.webp",
+      "storage_filename": "clea-store-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-clea-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-clea-store-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78291,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/987119a9dd6b1ac0286eb690a939daa3e8d2e4bd48947b44b25d118d3f185601/clea-store-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/987119a9dd6b1ac0286eb690a939daa3e8d2e4bd48947b44b25d118d3f185601/clea-store-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "987119a9dd6b1ac0286eb690a939daa3e8d2e4bd48947b44b25d118d3f185601",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29806,
+      "sha256": "5278a828ef274d439824ca1f0452f0006b7514ca78cf1562534ba9ad3230ec3f",
+      "width": 320,
+      "height": 1020,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-aba-12-meses.webp",
+      "storage_filename": "clea-store-reclame-aqui-aba-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 147,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78184,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5278a828ef274d439824ca1f0452f0006b7514ca78cf1562534ba9ad3230ec3f/clea-store-reclame-aqui-aba-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5278a828ef274d439824ca1f0452f0006b7514ca78cf1562534ba9ad3230ec3f/clea-store-reclame-aqui-aba-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "5278a828ef274d439824ca1f0452f0006b7514ca78cf1562534ba9ad3230ec3f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29548,
+      "sha256": "921321f73b1ebcfc0c1f6b14793e1b3c73db0c39a49f29662fc429534d277ce0",
+      "width": 321,
+      "height": 1018,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "clea-store-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78177,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/921321f73b1ebcfc0c1f6b14793e1b3c73db0c39a49f29662fc429534d277ce0/clea-store-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/921321f73b1ebcfc0c1f6b14793e1b3c73db0c39a49f29662fc429534d277ce0/clea-store-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "921321f73b1ebcfc0c1f6b14793e1b3c73db0c39a49f29662fc429534d277ce0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41384,
+      "sha256": "70f6e8b8c52dc4b7ecdbb3ce6843d09bb20458a3ddbdbfc85c61977fa761b0b6",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-capa.webp",
+      "storage_filename": "clea-store-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78059,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70f6e8b8c52dc4b7ecdbb3ce6843d09bb20458a3ddbdbfc85c61977fa761b0b6/clea-store-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70f6e8b8c52dc4b7ecdbb3ce6843d09bb20458a3ddbdbfc85c61977fa761b0b6/clea-store-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "70f6e8b8c52dc4b7ecdbb3ce6843d09bb20458a3ddbdbfc85c61977fa761b0b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11374,
+      "sha256": "70cc140e9ac89f6bdb0eb068eacd189682ff90a788814b3b150323822621ead5",
+      "width": 327,
+      "height": 237,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-empresa-verificada.webp",
+      "storage_filename": "clea-store-reclame-aqui-empresa-verificada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78191,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-empresa-verificada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70cc140e9ac89f6bdb0eb068eacd189682ff90a788814b3b150323822621ead5/clea-store-reclame-aqui-empresa-verificada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70cc140e9ac89f6bdb0eb068eacd189682ff90a788814b3b150323822621ead5/clea-store-reclame-aqui-empresa-verificada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "70cc140e9ac89f6bdb0eb068eacd189682ff90a788814b3b150323822621ead5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16210,
+      "sha256": "0435e79f1092832b74bf2bc3f6c950f46015b88c3dab855d12a78b9fffb39638",
+      "width": 615,
+      "height": 519,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "clea-store-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-reclame-aqui-nota-reputacao.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 78226,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0435e79f1092832b74bf2bc3f6c950f46015b88c3dab855d12a78b9fffb39638/clea-store-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0435e79f1092832b74bf2bc3f6c950f46015b88c3dab855d12a78b9fffb39638/clea-store-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "0435e79f1092832b74bf2bc3f6c950f46015b88c3dab855d12a78b9fffb39638",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19876,
+      "sha256": "50708bf666faa4845a0a50adadd34a18cb1280e297b46f064e12f824724b8c5c",
+      "width": 924,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-rodape-cnpj.webp",
+      "storage_filename": "clea-store-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-confiavel.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77864,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50708bf666faa4845a0a50adadd34a18cb1280e297b46f064e12f824724b8c5c/clea-store-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50708bf666faa4845a0a50adadd34a18cb1280e297b46f064e12f824724b8c5c/clea-store-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "50708bf666faa4845a0a50adadd34a18cb1280e297b46f064e12f824724b8c5c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/casa-lets-fachada.webp",
       "local_url": "/images/reviews/letseatit/casa-lets-fachada.webp",
       "media_kind": "image",
@@ -53669,6 +54129,466 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "c36a7842e8f5c134c57cc243a756de2c66c5e0947ef76ef84607fd56ebaff5b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95762,
+      "sha256": "5c5d8de8d3d1cc15173152d0c3c892b2e02a289ee43931b78a4dd57fae2bbb35",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-confiavel-capa.webp",
+      "storage_filename": "max-titanium-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77090,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5c5d8de8d3d1cc15173152d0c3c892b2e02a289ee43931b78a4dd57fae2bbb35/max-titanium-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c5d8de8d3d1cc15173152d0c3c892b2e02a289ee43931b78a4dd57fae2bbb35/max-titanium-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "5c5d8de8d3d1cc15173152d0c3c892b2e02a289ee43931b78a4dd57fae2bbb35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29972,
+      "sha256": "ef30d6ad566fcee5b1ec8059b1860025d62a033dd8a7e8333d30bcaf6c2a82aa",
+      "width": 984,
+      "height": 774,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "storage_filename": "max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-como-usar.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77622,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ef30d6ad566fcee5b1ec8059b1860025d62a033dd8a7e8333d30bcaf6c2a82aa/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef30d6ad566fcee5b1ec8059b1860025d62a033dd8a7e8333d30bcaf6c2a82aa/max-titanium-cupom-01-carrinho-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "ef30d6ad566fcee5b1ec8059b1860025d62a033dd8a7e8333d30bcaf6c2a82aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20518,
+      "sha256": "6cb3b9a9c6a0c4969f2db6ae82e52507b09ecd6c189bc97294f94811eaeb7cda",
+      "width": 982,
+      "height": 367,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "max-titanium-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-como-usar.json",
+          "line": 109,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77642,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6cb3b9a9c6a0c4969f2db6ae82e52507b09ecd6c189bc97294f94811eaeb7cda/max-titanium-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6cb3b9a9c6a0c4969f2db6ae82e52507b09ecd6c189bc97294f94811eaeb7cda/max-titanium-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "6cb3b9a9c6a0c4969f2db6ae82e52507b09ecd6c189bc97294f94811eaeb7cda",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33448,
+      "sha256": "d58be936636576e714b5115d4418131342afb999efe12d32a278cf20947bb3a4",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-cupom-capa.webp",
+      "storage_filename": "max-titanium-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-max-titanium-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-max-titanium-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77555,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d58be936636576e714b5115d4418131342afb999efe12d32a278cf20947bb3a4/max-titanium-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d58be936636576e714b5115d4418131342afb999efe12d32a278cf20947bb3a4/max-titanium-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "d58be936636576e714b5115d4418131342afb999efe12d32a278cf20947bb3a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31892,
+      "sha256": "0edc7bb14820c596e1f49b14e7a950fa7cafa54af2edfed2d2c019e096d93883",
+      "width": 332,
+      "height": 1073,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-reclame-aqui-aba-12-meses.webp",
+      "storage_filename": "max-titanium-reclame-aqui-aba-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+          "line": 152,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77458,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0edc7bb14820c596e1f49b14e7a950fa7cafa54af2edfed2d2c019e096d93883/max-titanium-reclame-aqui-aba-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0edc7bb14820c596e1f49b14e7a950fa7cafa54af2edfed2d2c019e096d93883/max-titanium-reclame-aqui-aba-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "0edc7bb14820c596e1f49b14e7a950fa7cafa54af2edfed2d2c019e096d93883",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33326,
+      "sha256": "581334b96c78f0f04c94c3df93a4a3b353c224480ef93963d4d178b388bc5b4b",
+      "width": 328,
+      "height": 1071,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-reclame-aqui-aba-2025.webp",
+      "storage_filename": "max-titanium-reclame-aqui-aba-2025.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+          "line": 159,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77465,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/581334b96c78f0f04c94c3df93a4a3b353c224480ef93963d4d178b388bc5b4b/max-titanium-reclame-aqui-aba-2025.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/581334b96c78f0f04c94c3df93a4a3b353c224480ef93963d4d178b388bc5b4b/max-titanium-reclame-aqui-aba-2025.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "581334b96c78f0f04c94c3df93a4a3b353c224480ef93963d4d178b388bc5b4b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33608,
+      "sha256": "b8fa45b60110cb44eeffadb4d3fe016643e9fea5f43ab3eaa51d73a464486382",
+      "width": 329,
+      "height": 1077,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-reclame-aqui-aba-6-meses.webp",
+      "storage_filename": "max-titanium-reclame-aqui-aba-6-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+          "line": 145,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77451,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b8fa45b60110cb44eeffadb4d3fe016643e9fea5f43ab3eaa51d73a464486382/max-titanium-reclame-aqui-aba-6-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b8fa45b60110cb44eeffadb4d3fe016643e9fea5f43ab3eaa51d73a464486382/max-titanium-reclame-aqui-aba-6-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "b8fa45b60110cb44eeffadb4d3fe016643e9fea5f43ab3eaa51d73a464486382",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59002,
+      "sha256": "2234cfd0941b39ac154133c9179c4682f6b7030fe2a475192c056b04c84fbd2d",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-reclame-aqui-capa.webp",
+      "storage_filename": "max-titanium-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77328,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2234cfd0941b39ac154133c9179c4682f6b7030fe2a475192c056b04c84fbd2d/max-titanium-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2234cfd0941b39ac154133c9179c4682f6b7030fe2a475192c056b04c84fbd2d/max-titanium-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "2234cfd0941b39ac154133c9179c4682f6b7030fe2a475192c056b04c84fbd2d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17508,
+      "sha256": "4a21ee6058d68d94702fd30dfb64bed7f843d2ecbe7bbadc16eddf4065aab6da",
+      "width": 622,
+      "height": 506,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "max-titanium-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-reclame-aqui-nota-reputacao.json",
+          "line": 181,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77487,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a21ee6058d68d94702fd30dfb64bed7f843d2ecbe7bbadc16eddf4065aab6da/max-titanium-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a21ee6058d68d94702fd30dfb64bed7f843d2ecbe7bbadc16eddf4065aab6da/max-titanium-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "4a21ee6058d68d94702fd30dfb64bed7f843d2ecbe7bbadc16eddf4065aab6da",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15882,
+      "sha256": "e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9",
+      "width": 990,
+      "height": 240,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-rodape-cnpj.webp",
+      "storage_filename": "max-titanium-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-e-confiavel.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 77166,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9/max-titanium-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9/max-titanium-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T01:19:48.458Z",
+      "verification_etag_or_digest": "e45e066649f5067e43a3f6bf058cdc8439e7958a290246484cd647a18b8f25f9",
       "verification_status": "verified"
     },
     {
