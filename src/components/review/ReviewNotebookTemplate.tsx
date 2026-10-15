@@ -8,6 +8,7 @@ import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
+import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
@@ -33,6 +34,8 @@ export interface ReviewNotebookTemplateProps {
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
   relatedReviews: Review[];
+  // Dados do bloco da loja; ainda sem uso visual (tasks 3, 5 e 6).
+  storeBlock?: ArticleStoreBlock | null;
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
 }

@@ -54,7 +54,7 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
 
 // A loja ganha o "Ver os N artigos", a subpágina /reviews/loja/{slug} e a bolinha de /reviews a partir de 3
 // artigos (Bruno, 14/10; de 08/10 até então, só acima de 3, quando a vitrine já não mostrava todos).
-function hasArticlesPage(articleCount: number): boolean {
+export function hasArticlesPage(articleCount: number): boolean {
   return articleCount >= MIN_ARTICLES_FOR_PAGE;
 }
 
