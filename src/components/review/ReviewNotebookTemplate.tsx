@@ -346,8 +346,9 @@ export function ReviewNotebookTemplate({
               />
             </div>
 
-            {/* Sidebar */}
-            <aside className="sticky top-24 hidden h-fit self-start lg:col-span-4 lg:block">
+            {/* Sidebar. Mais alta que a tela (sumário longo), ela rola sozinha: o sticky deixaria o fim dela, com o
+                recorte, fora de alcance. O px-2 dá lugar à sombra do recorte ao copiar. */}
+            <aside className="sticky top-24 -mx-2 hidden h-fit max-h-[calc(100dvh-7rem)] self-start overflow-y-auto px-2 pb-2 lg:col-span-4 lg:block">
               <ReviewSidebar
                 review={review}
                 kind={kind}
@@ -356,6 +357,9 @@ export function ReviewNotebookTemplate({
                 relatedArticleLinks={relatedArticleLinks}
                 codeKind={codeKind}
                 codeBrand={codeBrand}
+                storeBlock={storeBlock}
+                storeLabel={storeLabel}
+                sponsored={sponsored}
               />
             </aside>
           </div>

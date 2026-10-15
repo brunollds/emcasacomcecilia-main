@@ -4,9 +4,12 @@ import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
+import { FOCUS_RING } from '@/components/ui/focusRing';
+import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
+import { ArticleCouponCutout } from './article/ArticleCouponCutout';
 import { getArticleCopy } from './articleCopy';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
@@ -22,9 +25,23 @@ interface ReviewSidebarProps {
   // Tipo e loja do código do artigo, quando ele é o da loja em /cupons.
   codeKind?: CouponCodeKind;
   codeBrand?: string;
+  // Loja ativa do artigo: a lateral traz o recorte compacto, o mesmo do topo.
+  storeBlock?: ArticleStoreBlock | null;
+  storeLabel?: string;
+  sponsored?: boolean;
 }
 
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
+
+const BOX = 'rounded-2xl border-2 border-marinho bg-white p-4';
+
+function BoxTitle({ children }: { children: React.ReactNode }): React.ReactElement {
+  return (
+    <p className="mb-2.5 font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed">
+      <span className="marca-texto">{children}</span>
+    </p>
+  );
+}
 
 function StarRating({ rating, label }: { rating: number; label: string }): React.ReactElement {
   const fullStars = Math.floor(rating);
@@ -39,9 +56,7 @@ function StarRating({ rating, label }: { rating: number; label: string }): React
         return (
           <Star
             key={starNum}
-            className={`h-4 w-4 ${
-              isFilled ? 'fill-[#ffd700] text-[#ffd700]' : isHalf ? 'fill-[#ffd700]/50 text-[#ffd700]' : 'text-[#ffd700]/40'
-            }`}
+            className={`h-4 w-4 ${isFilled ? 'fill-amarelo-cupom' : isHalf ? 'fill-amarelo-cupom/50' : 'text-marinho/30'}`}
           />
         );
       })}
@@ -49,6 +64,7 @@ function StarRating({ rating, label }: { rating: number; label: string }): React
   );
 }
 
+// Artigo sem loja ativa (loja pausada ou fora de /cupons): o código e o link do artigo, sem o recorte.
 function SidebarConversionCards({
   coupon,
   effectiveCta,
@@ -72,12 +88,12 @@ function SidebarConversionCards({
   const hints = getCodeHints(copy, codeKind, codeBrand);
 
   return (
-    <div className="space-y-3">
+    <div className={`${BOX} space-y-3`}>
       {/* A frase de baixo troca junto com o botão, que marca a cópia em data-copied. */}
       {coupon && (
         <div className="group/codigo space-y-2">
           {codeKind === 'referral' && (
-            <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
+            <p className="text-[13px] font-bold tracking-[0.04em] text-marinho-suave uppercase">
               {getCodeTitle(copy, codeKind, codeBrand)}
             </p>
           )}
@@ -88,18 +104,18 @@ function SidebarConversionCards({
             placement="review_sidebar"
             ariaLabel={getCouponCopyLabels(locale).copyCoupon(coupon)}
             copiedStatus={copy.copiedStatus(coupon)}
-            className="flex min-h-11 w-full items-center justify-center gap-2 rounded-full border-2 border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] px-4 py-2 font-mono text-base font-black tracking-[0.08em] text-[#1a4d2e] transition-all hover:shadow-md motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md data-[copied=true]:border-solid data-[copied=true]:border-[#1a7f37] data-[copied=true]:bg-[#f0fdf4] data-[copied=true]:bg-none data-[copied=true]:text-[#1a7f37]"
+            className={`flex min-h-12 w-full items-center justify-center gap-2 rounded-[10px] border-2 border-dashed border-marinho bg-amarelo-cupom px-3 font-codigo text-lg font-extrabold break-all text-balance ${FOCUS_RING} data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro`}
             copiedChildren={
               <>
                 {coupon}
-                <Check size={18} />
+                <Check aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
               </>
             }
           >
             {coupon}
-            <Copy size={18} />
+            <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
           </CopyCodeButton>
-          <p className="text-xs leading-relaxed text-[#4a5568]">
+          <p className="text-[13px] leading-[18px] font-semibold text-marinho-suave">
             <span className="group-has-[[data-copied=true]]/codigo:hidden">{hints.copy}</span>
             <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{hints.copied}</span>
           </p>
@@ -115,10 +131,10 @@ function SidebarConversionCards({
           linkLabel={effectiveCta.label}
           sponsored={effectiveCta.sponsored}
           placement="review_sidebar"
-          className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
+          className={`flex min-h-12 w-full items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-[15px] font-extrabold text-marinho transition-colors hover:bg-laranja/85 ${FOCUS_RING}`}
         >
           {effectiveCta.label}
-          <ExternalLink size={16} />
+          <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
         </CouponStoreLink>
       )}
     </div>
@@ -133,11 +149,14 @@ export function ReviewSidebar({
   relatedArticleLinks = [],
   codeKind,
   codeBrand,
+  storeBlock = null,
+  storeLabel = '',
+  sponsored = false,
 }: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
-  const hasConversionContent = Boolean(review.coupon || effectiveCta?.url);
+  const hasConversionContent = Boolean(storeBlock || review.coupon || effectiveCta?.url);
   const hasToc = tocItems.length > 0;
   const hasRelated = relatedArticleLinks.length > 0;
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
@@ -150,24 +169,22 @@ export function ReviewSidebar({
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-5 text-marinho">
       {/* 1. Table of Contents (TOC first) */}
       {hasToc && (
-        <nav aria-label={copy.sectionsNav} className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
-            {copy.tocTitle}
-          </p>
+        <nav aria-label={copy.sectionsNav} className={BOX}>
+          <BoxTitle>{copy.tocTitle}</BoxTitle>
           <ul className="space-y-1">
             {tocItems.map((item, index) => (
               <li key={item.id}>
                 <a
                   href={`#${item.id}`}
                   aria-current={index === activeIndex ? 'location' : undefined}
-                  className={
+                  className={`block rounded-[10px] border-2 px-3 py-2 text-sm leading-5 transition-colors ${FOCUS_RING} ${
                     index === activeIndex
-                      ? 'block rounded-lg bg-[#1a4d2e] px-3 py-2 text-sm font-semibold text-white transition-colors'
-                      : 'block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]'
-                  }
+                      ? 'border-marinho bg-amarelo-cupom font-extrabold'
+                      : `border-transparent font-semibold hover:bg-amarelo-cupom/35 ${index < activeIndex ? 'text-marinho-suave' : ''}`
+                  }`}
                 >
                   {item.heading}
                 </a>
@@ -177,47 +194,60 @@ export function ReviewSidebar({
         </nav>
       )}
 
-      {/* 2. Conversion cards (coupon + CTA) */}
-      {hasConversionContent && (
-        <SidebarConversionCards
-          coupon={review.coupon}
-          effectiveCta={effectiveCta}
-          reviewSlug={review.slug}
-          affiliate={review.affiliate}
-          locale={locale}
-          codeKind={codeKind}
-          codeBrand={codeBrand}
-        />
+      {/* 2. O código: o recorte compacto da loja ativa; sem ela, o código e o link do artigo. */}
+      {storeBlock ? (
+        <div className="pt-4">
+          <ArticleCouponCutout
+            variant="sidebar"
+            block={storeBlock}
+            locale={locale}
+            reviewSlug={review.slug}
+            storeLabel={storeLabel}
+            sponsored={sponsored}
+          />
+        </div>
+      ) : (
+        hasConversionContent && (
+          <SidebarConversionCards
+            coupon={review.coupon}
+            effectiveCta={effectiveCta}
+            reviewSlug={review.slug}
+            affiliate={review.affiliate}
+            locale={locale}
+            codeKind={codeKind}
+            codeBrand={codeBrand}
+          />
+        )
       )}
 
       {/* 3. Verdict card (only produto with stars) */}
       {typeof stars === 'number' && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">{article.verdictTitle}</p>
-          <div className="mb-2 flex items-center gap-2">
+        <div className={BOX}>
+          <BoxTitle>{article.verdictTitle}</BoxTitle>
+          <div className="mb-1.5 flex items-center gap-2">
             <StarRating rating={stars} label={article.ratingLabel(stars.toFixed(1))} />
-            <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
+            <span className="text-sm font-extrabold">{stars.toFixed(1)}</span>
           </div>
-          {recommendation && (
-            <p className="text-sm font-bold text-[#1a4d2e]">
-              {article.recommendation[recommendation]}
-            </p>
-          )}
+          {recommendation && <p className="text-sm font-extrabold">{article.recommendation[recommendation]}</p>}
         </div>
       )}
 
       {/* 4. Related articles block */}
       {hasRelated && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">{copy.relatedTitle}</p>
-          <ul className="space-y-2">
+        <div className={BOX}>
+          <BoxTitle>{copy.relatedTitle}</BoxTitle>
+          <ul className="space-y-1">
             {relatedArticleLinks.map((article) => (
               <li key={article.slug}>
                 <Link
                   href={article.href}
-                  className="group flex items-start gap-2 text-sm text-[#4a5568] transition-colors hover:text-[#1a4d2e]"
+                  className={`group flex items-start gap-2 py-1 text-sm leading-5 font-bold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
                 >
-                  <ArrowRight size={14} className="mt-0.5 flex-shrink-0 text-[#ff6b35] transition-transform group-hover:translate-x-0.5" />
+                  <ArrowRight
+                    aria-hidden="true"
+                    size={14}
+                    className="mt-[3px] shrink-0 motion-safe:transition-transform motion-safe:group-hover:translate-x-0.5"
+                  />
                   {article.title}
                 </Link>
               </li>
