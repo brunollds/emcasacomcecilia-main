@@ -15,7 +15,7 @@ export const SEARCH_TRAIL: PageLink[] = [
 
 export const SEARCH_COPY = {
   title: 'Buscar no site',
-  intro: 'Digite na busca do topo da página para achar guias, análises e receitas.',
+  intro: 'Busque guias, análises e receitas pelo nome, pela marca ou pelo produto.',
   placeholder: 'Buscar receitas e artigos',
   count: (total: number, query: string) => `${total} ${total === 1 ? 'resultado' : 'resultados'} para “${query}”`,
   emptyTitle: (query: string) => `Nada encontrado para “${query}”`,

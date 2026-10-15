@@ -107,6 +107,8 @@ assert.deepEqual(
   [2, 3, 1]
 );
 assert.deepEqual(getRankedSearchResults(rankingFixture, '   '), []);
+assert.deepEqual(getRankedSearchResults(rankingFixture, 'RAPIDA').map(({ id }) => id), [1], 'sem acento e sem caixa');
+assert.deepEqual(getRankedSearchResults([{ id: 4, title: 'Sofá', terms: 'sofa' }], 'sofá').map(({ id }) => id), [4]);
 assert.deepEqual(
   getRankedSearchResults(rankingFixture, 'chocolate', 2).map(({ id }) => id),
   [2, 3]

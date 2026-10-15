@@ -16,6 +16,11 @@ export const SEARCH_PAGE_METADATA = {
   },
 };
 
+// Sem acento e em minúsculas, dos dois lados: "sofa" acha "sofá", como na estante de /reviews.
+export function foldSearchText(text) {
+  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+}
+
 export function getSearchContentTypeLabel(contentType) {
   return contentType === 'recipe' ? 'Receita' : 'Guia & análise';
 }
@@ -50,6 +55,8 @@ function buildRecipeSearchItem(recipe) {
     ]
       .filter(Boolean)
       .join(' ')
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
       .toLowerCase(),
   };
 }
@@ -74,6 +81,8 @@ function buildReviewSearchItem(review) {
     ]
       .filter(Boolean)
       .join(' ')
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
       .toLowerCase(),
   };
 }
@@ -86,16 +95,16 @@ export function createSearchIndex({ recipes, reviews }) {
 }
 
 export function getRankedSearchResults(index, query, limit) {
-  const lowerQuery = query.trim().toLowerCase();
-  if (!lowerQuery || !index?.length) return [];
+  const foldedQuery = foldSearchText(query.trim());
+  if (!foldedQuery || !index?.length) return [];
 
   const ranked = index
     .map((item, position) => ({
       item,
       position,
-      titleMatch: item.title.toLowerCase().includes(lowerQuery),
+      titleMatch: foldSearchText(item.title).includes(foldedQuery),
     }))
-    .filter(({ item }) => item.terms.includes(lowerQuery))
+    .filter(({ item }) => foldSearchText(item.terms).includes(foldedQuery))
     .sort(
       (left, right) =>
         Number(right.titleMatch) - Number(left.titleMatch) ||
