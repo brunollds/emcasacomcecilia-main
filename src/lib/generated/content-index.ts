@@ -78481,5 +78481,1344 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 436,
+    "slug": "black-friday-black-skull",
+    "title": "Black Friday Black Skull 2026: quando começa, preços de whey e creatina e o cupom CECILIA10",
+    "seoTitle": "Black Friday Black Skull 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando é a Black Friday da Black Skull, os preços de whey, creatina e pré-treino de 14 de outubro para comparar, como o CECILIA10 soma com as promoções, o frete grátis por região, o Pix e a troca de presente de Natal.",
+    "metaDescription": "Black Friday Black Skull 2026: preços de whey e creatina em outubro, cupom CECILIA10 de 10% com as promoções, frete grátis por região e prazo de troca.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+    "imageAlt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Em 14 de outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
+      "O CECILIA10 dá 10% em todo o site e soma com as promoções vigentes",
+      "O cupom vale em todas as formas de pagamento, com cartão em até 8 vezes sem juros e Pix parcelado em 4 vezes",
+      "Frete grátis acima de R$ 199,90 no Sul e no Sudeste",
+      "Arrependimento de 7 dias corridos, com o envio pago pela loja"
+    ],
+    "cons": [
+      "A loja não informa data de início nem de fim da campanha de Black Friday",
+      "A troca comum tem frete de ida e de volta pago por quem comprou",
+      "A loja não anuncia desconto próprio no Pix",
+      "Frete grátis só acima de R$ 299,90 nas demais regiões",
+      "Ainda não testamos o cupom num item da campanha de Black Friday"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Black Skull 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "A Black Skull já tem no ar a página \"Black Friday BLACKSKULL USA 2026\", mas, em 14 de outubro, ela não trazia data de início nem de fim da campanha. A loja diz que as ofertas ficam disponíveis \"durante todo o mês\". Este guia é atualizado quando a loja anunciar o que muda em novembro.",
+          "Em 14 de outubro, o whey 100% HD 1,8 kg sabor baunilha estava a **R$ 279,90**, e a Creatina Creator 300 g, a **R$ 29,90**, contra R$ 49,90 do preço de lista. Esse é o preço de hoje, não o de Black Friday.",
+          "O cupom **CECILIA10** dá 10% de desconto em todo o site, vale com todas as formas de pagamento e soma com as promoções vigentes. Veja a [página do cupom da Black Skull](/cupons/black-skull).",
+          "O frete é grátis acima de R$ 199,90 no Sul e no Sudeste, acima de R$ 249,90 no Centro-Oeste e acima de R$ 299,90 nas demais regiões, com o valor conferido depois dos descontos."
+        ]
+      },
+      {
+        "heading": "Quando é a Black Friday da Black Skull?",
+        "paragraphs": [
+          "A página da campanha diz que a Black Friday \"acontece na última sexta-feira de novembro\". Em 2026, essa sexta é 27 de novembro. A mesma página afirma que as ofertas ficam disponíveis durante todo o mês e que podem chegar a \"até 50% off\". Esse é o texto da loja: ela não diz quais produtos chegam a esse percentual, e não conferimos o número em nenhum item.",
+          "A Black Skull não informa data de início nem de fim. Em 14 de outubro, não achamos a página `/black-friday` no menu nem na home do site. Por isso, o texto dela não quer dizer que a campanha já começou.",
+          "Em 2024, a campanha já estava na home 10 dias antes da sexta; em 2025, 12 dias antes. Nos registros da home guardados no web.archive.org, em 19 de novembro de 2024 o site já tinha a seção \"Black Friday Suplementos\" e o banner principal de Black Friday. Em 16 de novembro de 2025, o banner dizia \"BLACK FRIDAY BLACKSKULL | 50% OFF Whey, Creatina e Mais\". As datas de início e fim dessas campanhas não aparecem nos registros."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar",
+        "paragraphs": [
+          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço do dia. Os dois valores são anteriores ao cupom CECILIA10."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Black Skull em 14 de outubro de 2026: preço de lista e preço do dia, antes do cupom CECILIA10.",
+          "headers": [
+            "Produto",
+            "Preço de lista",
+            "Em 14/10/2026"
+          ],
+          "rows": [
+            [
+              "Whey 100% HD 1,8 kg, baunilha",
+              "sem desconto",
+              "R$ 279,90"
+            ],
+            [
+              "Whey 100% HD refil 900 g",
+              "sem desconto",
+              "R$ 139,90"
+            ],
+            [
+              "Whey Turbo refil 907 g",
+              "sem desconto",
+              "R$ 79,90"
+            ],
+            [
+              "Kit com 2 Whey Turbo 907 g",
+              "R$ 139,80",
+              "R$ 132,81"
+            ],
+            [
+              "Combo whey 3W Core 900 g + Creator 500 g",
+              "R$ 339,80",
+              "R$ 303,81"
+            ],
+            [
+              "Creatina Creator 300 g",
+              "R$ 49,90",
+              "R$ 29,90"
+            ],
+            [
+              "Creatina Creator refil 500 g",
+              "R$ 59,90",
+              "R$ 39,90"
+            ],
+            [
+              "Creatine 300 g",
+              "R$ 49,90",
+              "R$ 41,90"
+            ],
+            [
+              "Pré-treino Bone Crusher 300 g",
+              "sem desconto",
+              "R$ 69,90"
+            ],
+            [
+              "Pré-treino Bone Crusher 150 g",
+              "sem desconto",
+              "R$ 44,90"
+            ],
+            [
+              "Pré-treino Legacy 300 g",
+              "sem desconto",
+              "R$ 71,30"
+            ],
+            [
+              "Glutamine 300 g",
+              "sem desconto",
+              "R$ 79,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit com 2 Whey Turbo 907 g saía por R$ 132,81, contra R$ 139,80 de lista. Na creatina, o refil de 500 g do Creator saía por R$ 39,90 (cerca de R$ 0,08 por grama), e o Creator de 300 g, por R$ 29,90 (cerca de R$ 0,10 por grama).",
+          "Uma oferta de Black Friday só é vantagem se o preço do dia ficar abaixo desta tabela. Se ficar igual, o desconto de novembro é só o do cupom.",
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "O CECILIA10 vale em produto em promoção?",
+        "paragraphs": [
+          "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
+          "No nosso teste na sacola, em 13/10/2026, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
+          "Esse teste foi feito em itens em promoção, não em item da campanha de Black Friday, que ainda não tem data na loja. Para a Black Friday, a informação que temos é a de hoje: o cupom soma com as promoções vigentes. Ainda não testamos num item da campanha.",
+          "A conta pode ser feita no próprio carrinho, na linha \"Descontos\", antes de finalizar.",
+          "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Sacola da Black Skull em 13/10/2026 com o CECILIA10 aplicado sobre itens em promoção: desconto de R$ 36,44 e total de R$ 327,89",
+        "imageCaption": "Sacola da Black Skull em 13/10/2026, depois do \"Adicionar\": CECILIA10 aplicado sobre itens em promoção, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.8481
+      },
+      {
+        "heading": "Frete grátis, Pix e parcelamento",
+        "paragraphs": [
+          "O frete grátis depende da região de entrega e do valor final do carrinho. A loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega lida em 14/10/2026.",
+          "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90 em 14/10/2026, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega lida em 14 de outubro de 2026.",
+          "headers": [
+            "Região de entrega",
+            "Frete grátis em compras acima de"
+          ],
+          "rows": [
+            [
+              "Sul e Sudeste",
+              "R$ 199,90"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 249,90"
+            ],
+            [
+              "Demais regiões",
+              "R$ 299,90"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Cartão de crédito:** em até 8 vezes sem juros, com parcela mínima de R$ 50. Com a parcela mínima de R$ 50, os R$ 251,91 do exemplo dão até 5 parcelas, de cerca de R$ 50 cada.",
+          "**Pix:** à vista.",
+          "**Pix parcelado:** em 4 vezes sem juros.",
+          "**Boleto:** só à vista."
+        ],
+        "postParagraphs": [
+          "O CECILIA10 vale em todas essas formas de pagamento. A loja não anuncia desconto próprio no Pix."
+        ]
+      },
+      {
+        "heading": "Trocas e compra de Natal",
+        "paragraphs": [
+          "A Black Friday cai antes do Natal, e muita gente compra suplemento ou roupa de treino para dar de presente. Vale conhecer o prazo antes. Regras da política de trocas, conferidas em 14/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Política de trocas da Black Skull, conferida em 14 de outubro de 2026.",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "Quem paga o envio"
+          ],
+          "rows": [
+            [
+              "Arrependimento",
+              "7 dias corridos depois do recebimento",
+              "A loja. Só vale para o pedido inteiro"
+            ],
+            [
+              "Troca comum (outro sabor, por exemplo)",
+              "Pedir em até 30 dias corridos da entrega e enviar em até 7 dias",
+              "O cliente, na ida e na volta. O produto precisa estar lacrado e sem uso"
+            ],
+            [
+              "Defeito",
+              "Avisar a loja assim que perceber",
+              "A loja, que devolve o valor total"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os prazos contam do recebimento, não do Natal. Um pedido entregue em 1º de dezembro tem arrependimento até 8 de dezembro e pedido de troca comum até 31 de dezembro.",
+          "O ponto que mais pesa para quem dá presente é o sabor errado: a troca comum não é gratuita, e o frete de ida e de volta sai do bolso de quem comprou. Se o presente for suplemento, escolher o sabor com a pessoa antes evita essa conta. O pedido de troca vai para o e-mail da loja, e os detalhes, junto com CNPJ e site oficial, estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Black Friday da Black Skull é em novembro? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda-feira, 30 de novembro. A página de Black Friday da loja diz que as ofertas ficam disponíveis durante todo o mês, mas a loja não informa data de início nem de fim.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola de 13/10/2026, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado.",
+          "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
+          "O frete da Black Skull é grátis? Depende da região. Em 14/10/2026, o frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
+          "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
+          "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
+          "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido em 1º de dezembro pode ter troca comum pedida até 31 de dezembro. O arrependimento, de 7 dias, é de quem comprou.",
+          "Vale a pena esperar a Black Friday para comprar? Depende do que você já tem em vista. O CECILIA10 vale hoje e dá 10% em cima do preço do dia, então ele não é motivo para esperar. A espera só compensa se o preço de novembro ficar abaixo do preço de outubro; por isso o guia traz os preços de 14/10/2026 para comparar."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Black Skull pelo link da parceria e use o CECILIA10 na sacola. Compare os preços com a tabela deste guia e confira a linha \"Descontos\" antes de finalizar.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "black-skull-reclame-aqui-nota-reputacao",
+        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "slug": "black-friday-max-titanium",
+    "title": "Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou",
+    "seoTitle": "Black Friday Max Titanium 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando a Max Titanium faz a Black Friday (o Max November), os preços de whey e creatina em outubro para comparar, como o cupom MAX10EMCASACOMCECILIA soma com a promoção e o Pix, e o valor do frete grátis por região.",
+    "metaDescription": "Black Friday Max Titanium 2026: preços de whey e creatina em outubro, cupom MAX10EMCASACOMCECILIA com Pix e promoção e frete grátis por região.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+    "imageAlt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e vale com todas as formas de pagamento",
+      "O cupom soma com as promoções do site e com o Pix e o boleto, de até 5% OFF",
+      "A creatina de 500g saía mais barata por grama que a de 300 g",
+      "Frete grátis a partir de R$ 104 na capital de São Paulo e R$ 134 no Sudeste"
+    ],
+    "cons": [
+      "A Max Titanium não tinha anunciado campanha de Black Friday até 14 de outubro de 2026",
+      "O percentual do cupom varia por produto e pode ser menor que 10%",
+      "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
+      "Frete grátis só na entrega mais barata, e o mínimo chega a R$ 599 no Norte"
+    ],
+    "cta": {
+      "text": "Entre na Max Titanium pelo link da parceria e digite o MAX10EMCASACOMCECILIA no carrinho. Compare com a tabela de preços de outubro e confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Max Titanium com o cupom",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "max-titanium-reclame-aqui-nota-reputacao",
+        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Max Titanium 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 14 de outubro de 2026, a Max Titanium não tinha anunciado campanha de Black Friday. A loja chama a data de **Max November**; em 2024, foi o mês inteiro.",
+          "O cupom **MAX10EMCASACOMCECILIA** dá até 10% OFF, vale com todas as formas de pagamento e soma com as promoções do site. O percentual varia por produto e pode ser menor em alguns. Não existe um cupom \"de Black Friday\" à parte.",
+          "O site anuncia Pix e boleto com até 5% OFF, e o cupom soma com esse desconto.",
+          "Em 14 de outubro, o 100% Whey Pote 900G custava R$ 210,39, e a Creatina 300 g, R$ 59,90."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da Max Titanium?",
+        "paragraphs": [
+          "Em 2026, a Max Titanium ainda não tinha dito nada até 14 de outubro. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou de 2 a 30 de novembro, não só a sexta-feira.",
+          "Em 2024, o Max November foi uma promoção com sorteio, \"Max te leva pra Roma\". Cada compra de qualquer valor no site, de 2 a 30 de novembro de 2024, dava um número da sorte para concorrer a uma viagem. O regulamento ficou publicado no próprio site da loja.",
+          "Em 2025, a home de 16 de novembro trazia banners do Max November de Boneco + Creatina, Whey Pro e Termogênicos, sem desconto legível. Este guia não cita percentual de 2025.",
+          "Em 2024, a campanha começou em 2 de novembro. É só uma referência, não uma promessa da loja. Quando a Max Titanium anunciar, a data e as regras entram aqui."
+        ]
+      },
+      {
+        "heading": "Preços de outubro: whey e creatina para comparar",
+        "paragraphs": [
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do whey e da creatina no site da Max Titanium em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto, com o preço de lista quando a loja o mostra.",
+          "headers": [
+            "Produto",
+            "Preço de lista",
+            "Em 14/10/2026",
+            "Por 100 g do produto (nossa conta)"
+          ],
+          "rows": [
+            [
+              "Whey Blend 900g Nova Fórmula",
+              "R$ 121,99",
+              "R$ 79,00",
+              "R$ 8,78"
+            ],
+            [
+              "Super Whey 900G",
+              "sem preço riscado",
+              "R$ 94,62",
+              "R$ 10,51"
+            ],
+            [
+              "Top Whey 3W + Sabor 900G",
+              "R$ 273,55",
+              "R$ 189,00",
+              "R$ 21,00"
+            ],
+            [
+              "100% Whey Refil 900G",
+              "sem preço riscado",
+              "R$ 196,39",
+              "R$ 21,82"
+            ],
+            [
+              "100% Whey Pote 900G",
+              "sem preço riscado",
+              "R$ 210,39",
+              "R$ 23,38"
+            ],
+            [
+              "Top Whey 3W + Performance 900G",
+              "sem preço riscado",
+              "R$ 273,55",
+              "R$ 30,39"
+            ],
+            [
+              "IsoWhey 900g",
+              "sem preço riscado",
+              "R$ 326,18",
+              "R$ 36,24"
+            ],
+            [
+              "Creatina 500g",
+              "R$ 115,60",
+              "R$ 87,53",
+              "R$ 17,51"
+            ],
+            [
+              "Creatina 300 g",
+              "R$ 75,10",
+              "R$ 59,90",
+              "R$ 19,97"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
+          "Na creatina, o pote maior saía mais barato por grama: R$ 17,51 por 100 g na de 500g, contra R$ 19,97 na de 300 g. Na linha de whey, a diferença entre o mais barato e o mais caro, por 100 g, passava de quatro vezes.",
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Um desconto de novembro só é vantagem se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso; refaremos a consulta no fim de outubro."
+        ]
+      },
+      {
+        "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
+        "paragraphs": [
+          "O cupom da parceria é o **MAX10EMCASACOMCECILIA** (até 10% OFF). Em alguns produtos o percentual é menor que 10%, e a linha \"Descontos\" do resumo do pedido mostra o valor que o cupom abateu de verdade.",
+          "No nosso teste de checkout de 14/10/2026, o cupom entrou em cima do preço promocional do site. O Top Whey 3W + Sabor 900G Brigadeiro estava em promoção:"
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25 em 14/10/2026",
+        "imageCaption": "Carrinho da Max Titanium em 14/10/2026 depois do cupom: a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.6757,
+        "comparisonTable": {
+          "caption": "Teste de checkout com o Top Whey 3W + Sabor 900G Brigadeiro em 14 de outubro de 2026.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço de lista do Top Whey 3W + Sabor 900G",
+              "R$ 273,55"
+            ],
+            [
+              "Preço em promoção no site, antes do cupom",
+              "R$ 189,00"
+            ],
+            [
+              "Linha \"Descontos\" depois do cupom",
+              "R$ -16,75"
+            ],
+            [
+              "Total de produtos depois do cupom (sem frete)",
+              "R$ 172,25"
+            ],
+            [
+              "Se o Pix desse 5% sobre esse total (estimativa nossa, não testada no checkout)",
+              "R$ 163,64"
+            ]
+          ]
+        },
+        "bullets": [
+          "**O cupom abateu cerca de 9% sobre a promoção.** É por isso que o texto diz \"até 10%\": no whey do teste, o percentual ficou abaixo disso.",
+          "**O Pix é \"até 5%\".** A home anunciava, em 14/10/2026, Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF."
+        ],
+        "postParagraphs": [
+          "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Frete grátis e prazo: o que conferir antes de novembro",
+        "paragraphs": [
+          "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política do site trazia estes valores:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site em 14 de outubro de 2026.",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "bullets": [
+          "**O desconto entra na conta.** Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado. Exemplo de conta, não de produto: com mínimo de R$ 134, um carrinho de R$ 140 passa do mínimo sem cupom, mas, se o cupom tirasse 10%, o total ficaria em R$ 126 e o frete deixaria de ser grátis. Perto do mínimo, olhe o total depois do cupom, não o subtotal.",
+          "**Só na entrega mais barata.** O frete grátis vale na forma de envio mais barata do site e não vale para Sedex. O valor do frete não entra na soma que atinge o mínimo.",
+          "**Processamento no mesmo dia.** Pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia. O prazo de entrega aparece no carrinho, pelo CEP."
+        ],
+        "postParagraphs": [
+          "Para trocas, devoluções e o que fazer se o pedido atrasar, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, são 7 dias corridos para desistir, contados do recebimento, e 30 dias corridos para comunicar defeito em suplemento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano, e a loja não anunciou campanha de Black Friday em 14/10/2026. Ele vale em todas as formas de pagamento e soma com as promoções do site. Se a campanha de novembro tiver uma regra própria, o carrinho mostra antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. No teste de 14/10/2026, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se a campanha de novembro tiver regra própria, o carrinho mostra antes de pagar.",
+          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de até 5% do Pix e do boleto. O Pix e o boleto são \"até 5%\", segundo o banner da loja.",
+          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site em 14/10/2026. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
+          "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
+          "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "slug": "black-friday-dr-peanut",
+    "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis",
+    "seoTitle": "Black Friday Dr. Peanut 2026: cupom e frete grátis",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Dr. Peanut tinha anunciado para a Black Friday de 2026 em 14 de outubro, como o cupom DREMCASACOMCECILIA soma com as promoções do site, o frete grátis por região com o cupom já aplicado e o checklist antes de pagar.",
+    "metaDescription": "Black Friday Dr. Peanut 2026: cupom DREMCASACOMCECILIA com 10% OFF em todo o site, soma com promoção, frete grátis por região e o que conferir antes de pagar.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+    "imageAlt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
+      "Soma com as promoções do site: no teste de 13/10/2026, valeu até na pasta de amendoim em promoção",
+      "O Pix tem 5% de desconto na loja",
+      "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
+    ],
+    "cons": [
+      "Em 14/10/2026, a loja ainda não tinha anunciado datas, produtos nem preços da Black Friday",
+      "O mínimo do frete grátis é conferido sobre o total já com o cupom",
+      "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
+      "Na troca por outro produto, o frete de ida e de volta é seu"
+    ],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site. Confira a linha \"Descontos\" antes de pagar.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-dr-peanut-como-usar",
+        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      },
+      {
+        "slug": "dr-peanut-e-confiavel",
+        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
+        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Em 14/10/2026, a Dr. Peanut ainda não tinha anunciado a campanha deste ano: a home do site não falava de Black Friday e a página de combos não trazia preços; não havia datas nem lista de produtos da campanha. Este guia é atualizado quando a loja anunciar.",
+          "O cupom **DREMCASACOMCECILIA** dá **10% OFF em todo o site**, vale com todas as formas de pagamento e soma com as promoções do site. No nosso teste de 13/10/2026, os 10% valeram até na pasta de amendoim que já estava em promoção.",
+          "O **Pix** tem 5% de desconto na loja.",
+          "O frete é grátis a partir de **R$ 149,90** em São Paulo capital, Sudeste e Sul, e a partir de **R$ 199,90** no Centro-Oeste, Nordeste e Norte. A loja confere o mínimo com o cupom já aplicado.",
+          "As regras do código e as condições atuais estão na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "heading": "A Dr. Peanut faz Black Friday?",
+        "paragraphs": [
+          "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
+          "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM de 18/02/2025, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
+          "Da Black Friday de 2025, em 14/10/2026 não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
+        ]
+      },
+      {
+        "heading": "Como o cupom entra na Black Friday",
+        "paragraphs": [
+          "O **DREMCASACOMCECILIA** dá 10% OFF em todo o site oficial, com qualquer forma de pagamento. Ele soma com as promoções que estiverem no ar. A conferência é no carrinho, antes de pagar.",
+          "Os descontos entram no carrinho nesta ordem:"
+        ],
+        "bullets": [
+          "**Preço da promoção:** é o preço que aparece na página do produto, já abaixo do preço cheio.",
+          "**Cupom:** os 10% do DREMCASACOMCECILIA entram sobre o subtotal do carrinho, que já traz o preço promocional."
+        ],
+        "postParagraphs": [
+          "A loja dá 5% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
+          "O teste de 13/10/2026 mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
+          "Se a linha \"Descontos\" não aparecer no resumo do carrinho, o cupom não foi aplicado. Confira se o código está escrito igual, sem letra faltando."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do carrinho da Dr. Peanut em 13/10/2026 com o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14",
+        "imageCaption": "Resumo do carrinho em 13/10/2026 com o código DREMCASACOMCECILIA aceito: Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0423
+      },
+      {
+        "heading": "Frete grátis por região: a conta com o cupom",
+        "paragraphs": [
+          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. Em 14/10/2026, a política era esta. O frete grátis vale na opção de entrega mais barata. Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de (total com o cupom)",
+            "Subtotal mínimo antes do cupom (nossa conta)"
+          ],
+          "rows": [
+            [
+              "São Paulo capital, Sudeste e Sul",
+              "R$ 149,90",
+              "R$ 166,56"
+            ],
+            [
+              "Centro-Oeste, Nordeste e Norte",
+              "R$ 199,90",
+              "R$ 222,12"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90, mas com os 10% fica em R$ 139,50 e o frete volta a ser cobrado em São Paulo capital, no Sudeste e no Sul. Se faltar pouco, confira o Total depois de aplicar o código e compare o custo do frete com o de um item extra.",
+          "Os valores são de 14/10/2026. Reconfira o aviso do carrinho em novembro: ele mostra o mínimo da sua região no momento da compra."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
+        "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.6075
+      },
+      {
+        "heading": "Antes de pagar: checklist da Black Friday",
+        "paragraphs": [
+          "Na semana de 27 de novembro, os preços e os banners mudam rápido. Passe por estes pontos antes de clicar em \"Continuar pagamento\":"
+        ],
+        "bullets": [
+          "**Código aceito:** o DREMCASACOMCECILIA aparece ao lado de \"Cupom de desconto\", sem letra faltando, e a linha \"Descontos\" mostra o valor abatido em reais. Sem essa linha, o desconto não entrou. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições e a data do último teste.",
+          "**Preço da promoção:** o subtotal já traz o preço promocional do item. O cupom incide sobre ele.",
+          "**Frete:** olhe a faixa do frete grátis no topo do carrinho com o cupom já aplicado e compare com o mínimo da sua região.",
+          "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
+          "**Troca:** arrependimento são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
+          "**Site oficial:** compre em drpeanut.com.br e confira, no carrinho, \"Produto fornecido e entregue por Dr. Peanut\"."
+        ],
+        "postParagraphs": [
+          "Para ver como a loja se comporta quando o volume de pedidos sobe, a nota e as reclamações mais comuns estão em [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Dr. Peanut tem Black Friday? Em 14/10/2026 a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é em 27 de novembro, e a Cyber Monday, em 30 de novembro.",
+          "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste de 13/10/2026.",
+          "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte (política em 14/10/2026).",
+          "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
+          "A Dr. Peanut tem desconto no Pix? Tem, de 5%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
+          "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
+          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho em novembro com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto de novembro está garantido."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "slug": "black-friday-probiotica",
+    "title": "Black Friday Probiótica 2026: sem data anunciada, preços de outubro e o cupom PRO10EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Probiótica 2026: preços, Pix e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando é a Black Friday de 2026, o que a Probiótica tinha publicado em 14 de outubro, os preços de whey, creatina, barra e colágeno para comparar, como o cupom PRO10EMCASACOMCECILIA soma com o Pix, o frete grátis por região, kits, trocas e devolução.",
+    "metaDescription": "Black Friday Probiótica 2026: sem página nem data em 14/10, preços de outubro, cupom PRO10EMCASACOMCECILIA com Pix, frete grátis por região e trocas.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+    "imageAlt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento",
+      "O cupom vale em conta nova e antiga e soma com o preço promocional da loja",
+      "Pix e boleto com até 5% OFF em 14 de outubro",
+      "Frete grátis a partir de R$ 104 na capital de São Paulo, pela forma de envio mais barata",
+      "Whey Protein Iso Blend 900g a R$ 79,00 em 14 de outubro, contra R$ 121,99 do preço riscado"
+    ],
+    "cons": [
+      "Em 14 de outubro, a Probiótica não tinha publicado página nem data de Black Friday",
+      "O percentual do cupom varia por produto, e em alguns é menor que 10%",
+      "Kit não recebe promoção, segundo os termos da loja",
+      "O cupom pode derrubar o total abaixo do mínimo do frete grátis",
+      "As promoções podem sair do site sem aviso prévio quando o estoque acaba"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Probiótica 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Em 14 de outubro de 2026, a Probiótica não tinha publicado página nem data de Black Friday. Este guia é atualizado quando ela anunciar.",
+          "O que vale hoje: **Pix e boleto com até 5% OFF**, pelo que a loja mostra em 14 de outubro, e o cupom **PRO10EMCASACOMCECILIA**.",
+          "O cupom dá **até 10% OFF**, vale em todas as formas de pagamento, em conta nova e antiga, e soma com o preço promocional. O percentual varia por produto, e em alguns pode ser menor que 10%.",
+          "Em 14 de outubro, o Whey Protein Iso Blend 900g custava **R$ 79,00**, contra R$ 121,99 do preço riscado. É o preço de hoje, não o de Black Friday."
+        ]
+      },
+      {
+        "heading": "Quando é a Black Friday da Probiótica?",
+        "paragraphs": [
+          "A Probiótica não publicou data de Black Friday para 2026. Em 14 de outubro, o site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
+          "A loja também não dá prazo de aviso. Os termos de uso dizem que as ofertas e promoções \"podem ser lançadas a qualquer momento, sem aviso prévio\". Uma promoção pode aparecer antes de 27 de novembro, e uma que você viu pode sair do site quando o estoque acaba."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar",
+        "paragraphs": [
+          "Estes são os preços do catálogo público do site em 14 de outubro de 2026, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Em 14/10/2026",
+            "Preço riscado"
+          ],
+          "rows": [
+            [
+              "Whey Protein Iso Protein Blend 900g (sabor Chocolate)",
+              "R$ 79,00",
+              "R$ 121,99"
+            ],
+            [
+              "Whey 100% Pure 900g",
+              "R$ 252,49",
+              "sem preço riscado"
+            ],
+            [
+              "Creatina Monohidratada Pura 300g",
+              "R$ 59,90",
+              "R$ 75,10"
+            ],
+            [
+              "Whey Bar Creamy, caixa com 12 unidades",
+              "R$ 77,89",
+              "sem preço riscado"
+            ],
+            [
+              "Pro Collagen 330g",
+              "R$ 129,89",
+              "sem preço riscado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Whey Protein Iso Blend 900g estava R$ 42,99 abaixo do preço riscado, cerca de 35% de desconto antes do cupom. O Whey 100% Pure 900g, na mesma embalagem de 900g, custava R$ 252,49, mais de três vezes o preço do Iso Blend. A creatina de 300g estava R$ 15,20 abaixo do preço riscado, cerca de 20%.",
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Carrinho da Probiótica em 13/10/2026 com a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado, junto de um kit de colágeno, uma camiseta e uma barra de proteína",
+        "imageCaption": "Carrinho da Probiótica em 13/10/2026: a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2844
+      },
+      {
+        "heading": "Cupom, Pix e frete grátis: o que soma",
+        "paragraphs": [
+          "O cupom **PRO10EMCASACOMCECILIA** dá até 10% OFF no site oficial. O percentual varia por produto: em alguns itens o desconto é menor, e a linha \"Descontos\" do resumo do pedido mostra quanto o cupom abateu de verdade. Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com o preço promocional da loja. No nosso teste de 13/10/2026, a creatina estava em promoção e o carrinho aceitou o cupom: o desconto foi de R$ 54,75 sobre R$ 659,35.",
+          "Os outros descontos e regras que mexem no total, pelo que a loja mostrava em 14/10/2026:"
+        ],
+        "bullets": [
+          "**Pix e boleto:** a loja anuncia até 5% OFF. Nos cards da home, o Pix à vista aparecia com 3% nas proteínas e 5% no resto do site. O percentual é da loja e pode mudar: o checkout mostra o valor final.",
+          "**Frete grátis:** depende da região do CEP e vale para a forma de envio mais barata. Sedex é por conta do cliente.",
+          "**Brinde:** o valor que conta é o final do pedido, depois de todos os descontos, incluindo cupom e Pix."
+        ],
+        "comparisonTable": {
+          "caption": "Valor mínimo do pedido para frete grátis na Probiótica, por região do CEP, em 14 de outubro de 2026.",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Exemplo de conta, não de produto: no Sudeste, um carrinho de R$ 140 passa do mínimo de R$ 134 sem cupom. Com o desconto máximo de 10%, o total cai para R$ 126 e o frete deixa de ser grátis. Na Black Friday, com preços mudando, vale refazer essa conta no carrinho antes de pagar.",
+          "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\" e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do pedido da Probiótica com o cupom PRO10EMCASACOMCECILIA: subtotal R$ 659,35, descontos R$ -54,75, total R$ 604,60",
+        "imageCaption": "Resumo do pedido da Probiótica em 13/10/2026, com o cupom aplicado: subtotal de R$ 659,35, descontos de R$ -54,75 e total de R$ 604,60. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0209
+      },
+      {
+        "heading": "Kits e trocas: o que a loja diz nos termos",
+        "paragraphs": [
+          "Kit não recebe promoção. Os termos da loja dizem que as promoções não valem para kits, porque eles já têm desconto. Se um kit estiver com preço de campanha, a regra não impede que ele esteja barato, mas ele não ganha uma segunda promoção por cima. Antes de comprar, compare o preço do kit com o das peças avulsas, que podem estar na promoção do dia.",
+          "Os prazos de troca e devolução, em 14/10/2026:"
+        ],
+        "bullets": [
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Defeito:** 30 dias corridos para comunicar, nos produtos alimentícios. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica.",
+          "**Como a loja resolve o defeito:** depois da análise, troca, devolução do dinheiro ou cupom."
+        ],
+        "postParagraphs": [
+          "Os 7 dias começam quando o pacote chega, não na compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema. O quadro completo está em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel), e os números da loja no Reclame Aqui, em [Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/probiotica-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday da Probiótica? Ele vale no site oficial, em todas as formas de pagamento, e dá até 10% OFF, com percentual menor em alguns produtos. A loja não anunciou a campanha de Black Friday em 14/10/2026, e o carrinho mostra o desconto antes de pagar.",
+          "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste de 13/10/2026, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
+          "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto em 14/10/2026, e o checkout mostra o valor final.",
+          "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
+          "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
+          "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento, com embalagem original e lacre intactos, e o defeito, por 30 dias corridos.",
+          "A promoção pode acabar antes do fim da Black Friday? Pode. Os termos da loja dizem que as promoções podem ser lançadas a qualquer momento, sem aviso prévio, e também sair do site quando o produto esgota."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Probiótica pelo link da parceria e aplique o cupom PRO10EMCASACOMCECILIA no carrinho. Compare os preços com a tabela deste guia e confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom PRO10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "probiotica-reclame-aqui-nota-reputacao",
+        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "slug": "black-friday-clea-store",
+    "title": "Black Friday Cléa Store 2026: campanha ainda não anunciada, preços de outubro e o cupom CSEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Cléa Store 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Cléa Store fez na Black Friday de 2025, os preços de tabela e do site em 14/10/2026 para comparar com novembro, o teste do cupom CSEMCASACOMCECILIA num kit em promoção, o frete grátis acima de R$ 599, a devolução grátis e o cashback de 10%.",
+    "metaDescription": "Black Friday Cléa Store 2026: campanha não anunciada, preços de outubro, cupom CSEMCASACOMCECILIA testado no kit em promoção, frete, devolução e cashback.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+    "imageAlt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site e vale com todas as formas de pagamento",
+      "No nosso teste de 14/10/2026, o cupom valeu sobre um kit que já estava em promoção",
+      "O cupom e o cashback de 10% em créditos valem no mesmo pedido",
+      "Devolução grátis, com 30 dias corridos depois do recebimento",
+      "Frete grátis acima de R$ 599"
+    ],
+    "cons": [
+      "Em 14/10/2026, a loja ainda não tinha anunciado a campanha de Black Friday deste ano",
+      "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência",
+      "A loja aceita só um cupom por pedido",
+      "Os termos da loja preveem exceção para produtos remarcados, e não testamos o cupom em peça avulsa remarcada"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Cléa Store 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Em 14/10/2026, a Cléa Store ainda não tinha anunciado a campanha deste ano: o site tem a categoria Black Friday no menu, sem data nem percentual. Este guia é atualizado quando a loja publicar.",
+          "Em 2025, a loja anunciou \"até 75% OFF\", kits \"leve 3 pague 2\" e 10% de cashback.",
+          "O cupom **CSEMCASACOMCECILIA** dá 10% OFF em todo o site e vale com todas as formas de pagamento. A loja aceita um cupom por pedido. No nosso teste de 14/10, ele valeu sobre um kit em promoção; veja a [página do cupom da Cléa Store](/cupons/clea-store).",
+          "Em 14/10/2026, o Kit 3 T-Shirts Oversized Classic custava R$ 387,00 de tabela e, no nosso teste do checkout, saía por R$ 258,00 na promoção \"leve 3 pague 2\". Compare o de novembro com os R$ 258,00."
+        ]
+      },
+      {
+        "heading": "Como foi a Black Friday da Cléa Store em 2025?",
+        "paragraphs": [
+          "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de 18/11/2025, conforme o registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
+          "São três regras que a loja destacou:"
+        ],
+        "bullets": [
+          "**Até 75% OFF:** o teto do desconto. A faixa não diz em quais peças nem quanto era o desconto das demais.",
+          "**Kits \"leve 3 pague 2\":** você leva três peças e paga duas.",
+          "**10% de cashback:** em créditos, segundo a página de cashback da loja em 14/10/2026. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
+        ],
+        "postParagraphs": [
+          "O registro de 18/11/2025 não traz as datas de início e fim da campanha. Na home de 09/11/2024, o Internet Archive não mostra texto de Black Friday. É histórico: a loja não confirmou que repete o formato em 2026."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar com a Black Friday",
+        "paragraphs": [
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é guardar o preço de antes. Estes são os preços de tabela do site em 14/10/2026, antes de qualquer desconto, ao lado do preço que o site já mostrava naquele dia, sem cupom e sem campanha de Black Friday:"
+        ],
+        "comparisonTable": {
+          "caption": "Preços na Cléa Store em 14/10/2026: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
+          "headers": [
+            "Produto",
+            "Preço de tabela",
+            "Preço no site em 14/10/2026"
+          ],
+          "rows": [
+            [
+              "Kit 3 T-Shirts Oversized Classic",
+              "R$ 387,00",
+              "R$ 258,00 (promoção \"leve 3 pague 2\", aplicada no carrinho)"
+            ],
+            [
+              "Body Gola Alta Manga Longa Second Skin",
+              "R$ 169,00",
+              "R$ 135,20"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "R$ 159,00",
+              "R$ 127,20"
+            ],
+            [
+              "Body Tule Gola Alta Second Skin",
+              "R$ 159,00",
+              "R$ 127,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência. Em novembro, só é desconto novo o que ficar abaixo do preço no site em 14/10. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00."
+        ]
+      },
+      {
+        "heading": "O cupom vale no kit em promoção?",
+        "paragraphs": [
+          "Os termos da Cléa Store dizem que o voucher não vale em \"produtos já remarcados, salvo exceção comunicada pela loja\". Por isso fizemos o teste no checkout. Em 14/10/2026, o cupom **CSEMCASACOMCECILIA** valeu num kit que já estava em promoção.",
+          "No nosso teste, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
+        ],
+        "comparisonTable": {
+          "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, em 14/10/2026.",
+          "headers": [
+            "Etapa",
+            "O que a loja mostrou em 14/10/2026"
+          ],
+          "rows": [
+            [
+              "Preço do kit",
+              "R$ 387,00"
+            ],
+            [
+              "Preço do kit em promoção (leve 3, pague 2)",
+              "R$ 258,00"
+            ],
+            [
+              "Cupom CSEMCASACOMCECILIA (10%)",
+              "-R$ 25,80"
+            ],
+            [
+              "Total do pedido",
+              "R$ 232,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido. Não testamos o cupom em peça avulsa remarcada.",
+          "Os termos permitem exceção, então a loja pode excluir itens de uma campanha. Vamos repetir o teste no checkout em novembro. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu.",
+          "Se o seu carrinho tem peças de preço cheio e peças remarcadas, o passo a passo do código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar). As condições do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
+            "alt": "Checkout da Cléa Store em 14/10/2026 com o Kit 3 T-Shirts Oversized Classic em promoção, de R$ 387,00 por R$ 258,00, antes do cupom, com o cashback de até R$ 25,80 e a linha Cupom de desconto marcados em amarelo",
+            "caption": "Checkout da Cléa Store em 14/10/2026, antes do cupom: o kit em promoção por R$ 258,00 e o total de R$ 258,00. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1486
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+            "alt": "Checkout da Cléa Store em 14/10/2026 depois do cupom, com a linha Desconto de menos R$ 25,80, o Cupom aplicado CSEMCASACOMCECILIA e o total de R$ 232,20",
+            "caption": "Depois do cupom, em 14/10/2026: desconto de R$ 25,80 sobre os R$ 258,00 e total de R$ 232,20. O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9308
+          }
+        ]
+      },
+      {
+        "heading": "Frete grátis acima de R$ 599, devolução grátis e cashback",
+        "paragraphs": [
+          "Três regras da loja mudam a conta do pedido."
+        ],
+        "bullets": [
+          "**Frete grátis acima de R$ 599.** A faixa do site, em 14/10/2026, anunciava \"frete grátis acima de R$ 599\". O cupom não dá frete grátis: a regra é da loja. O pedido do nosso teste, de R$ 232,20, ficou R$ 366,80 abaixo desse valor. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\" do resumo do pedido. Perto desse valor, confira o total do carrinho depois do cupom.",
+          "**Devolução grátis.** A devolução é grátis sempre: a postagem não é cobrada do cliente. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso, na embalagem original e com a nota fiscal. Cashback, cupons e frete grátis não são reembolsados. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
+          "**Cashback de 10% em créditos.** A página de cashback da loja, lida em 14/10/2026, diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
+        ],
+        "postParagraphs": [
+          "O cupom e o cashback valem no mesmo pedido. No nosso teste, o checkout mostrava um cashback previsto de até R$ 25,80 antes do cupom e de até R$ 23,22 depois. Os R$ 23,22 são 10% dos R$ 232,20: a previsão é sobre o valor já com o cupom."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
+          "O cupom vale em kit em promoção? No nosso teste de 14/10/2026, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, então vamos reconferir no checkout em novembro.",
+          "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
+          "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
+          "O cupom dá frete grátis? Não. O frete grátis é regra da loja e, em 14/10/2026, valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
+          "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
+          "Como funciona o cashback da Cléa Store? É de 10% em créditos, concedidos automaticamente na compra pelo site. Ficam disponíveis em até 1 dia útil, valem por 30 dias, são acumulativos e são usados no campo \"Utilize seu saldo de créditos\" do checkout.",
+          "A Black Friday de 2026 da Cléa Store já tem data? Não. Em 14/10/2026, a loja não tinha publicado a campanha."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e use o cupom CSEMCASACOMCECILIA no campo do resumo do pedido. Compare os preços com as tabelas deste guia e confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "clea-store-reclame-aqui-nota-reputacao",
+        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "slug": "black-friday-lejour",
+    "title": "Black Friday Lejour 2026: sem promoção anunciada, o que a Lejour fez em 2025 e vale esperar?",
+    "seoTitle": "Black Friday Lejour 2026: Premium e taxa da lista",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Em 14/10/2026 a Lejour ainda não tinha anunciado Black Friday. Veja o que a faixa do site mostrou em 2025, os planos e taxas de hoje, a conta de uma lista de R$ 20.000 e se vale esperar para abrir a lista.",
+    "metaDescription": "Black Friday Lejour 2026: sem promoção anunciada em 14/10, histórico de 2025, planos e taxas de hoje e a conta para decidir se vale esperar.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/black-friday-lejour-home.webp",
+    "imageAlt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Criar a lista no plano Basic é grátis, então não custa nada abrir agora",
+      "Premium e Pro são pagos uma única vez e valem para sempre, à vista ou em até 12x",
+      "Em 2025 a Lejour chegou a anunciar Premium a R$ 59,90 e taxa de 1,99%",
+      "O crédito da lista pode virar Pix ou produtos da Fast Shop, com cashback mínimo de 4%"
+    ],
+    "cons": [
+      "Em 14/10/2026 a Lejour não tinha anunciado promoção para este ano",
+      "Os períodos e as regras das ofertas de 2025 não foram divulgados",
+      "Pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes",
+      "O link da Cecília é só uma indicação, sem desconto"
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Planos conferidos no site da Lejour. Podemos receber comissão pela indicação.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-como-funciona",
+        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      },
+      {
+        "slug": "lista-de-casamento-lejour-como-criar",
+        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      },
+      {
+        "slug": "lejour-e-confiavel",
+        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      },
+      {
+        "slug": "lejour-reclame-aqui-nota-reputacao",
+        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Lejour 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em 30 de novembro.",
+          "Em 14 de outubro de 2026, a Lejour ainda não tinha anunciado promoção para este ano: a home não trazia faixa de campanha. Este guia é atualizado quando a Lejour anunciar o que muda.",
+          "Em 2025, a faixa do site da Lejour mostrou duas ofertas: o Plano Premium de R$ 179,90 por **R$ 59,90** e a taxa da lista de presentes reduzida para **1,99%**. Os períodos exatos não foram divulgados.",
+          "Em 13 de outubro de 2026, os planos eram estes: Basic grátis, com taxa de **3,89%** por presente; Premium a R$ 99,90 (de R$ 179,90), com taxa de **3,29%**; Pro a R$ 199,90, com taxa de **2,99%**.",
+          "O link da Cecília é só uma indicação, sem desconto. Qualquer promoção que a Lejour fizer é dela e vale para qualquer casal."
+        ]
+      },
+      {
+        "heading": "Como foi a Black Friday da Lejour em 2025",
+        "paragraphs": [
+          "Em 2025, a Lejour não fez uma promoção só. A faixa do topo do site mudou de oferta ao longo do segundo semestre, segundo os registros do site guardados no Internet Archive:"
+        ],
+        "bullets": [
+          "Nas capturas de 21 de maio a 2 de novembro de 2025, a faixa era o \"Natal Lejour\": Plano Premium por R$ 99,90.",
+          "Na captura de 16 de novembro de 2025, a faixa era o \"Black Month Lejour\": Plano Premium de R$ 179,90 por R$ 59,90.",
+          "Na captura de 16 de dezembro de 2025, a faixa dizia \"Black Friday Lejour\": Lista de Presentes com taxa reduzida de 1,99%. No rodapé da mesma página, a oferta aparecia como \"Black Month Lejour\"."
+        ],
+        "postParagraphs": [
+          "A diferença para o preço de hoje é grande. Em 13 de outubro de 2026, o Premium custava R$ 99,90, ou seja, R$ 40 a mais que os R$ 59,90 de novembro de 2025. A taxa de 1,99% seria 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%), a menor entre os planos de hoje.",
+          "Três limites valem para esse histórico. O asterisco das faixas de 2025 leva a um rodapé que cita cadastros de 02/05/2025 a 31/05/2025, então a Lejour não divulgou as datas de início e de fim das promoções. Também não se sabe se a taxa de 1,99% valia para listas criadas antes da campanha nem se somava com o plano pago. E em 2024 não houve nada parecido: os registros de 3 de novembro e de 4 de dezembro de 2024 não mostram faixa de promoção na home.",
+          "Os registros de 2025 mostram o que a Lejour fez naquele ano, não o que fará em 2026."
+        ]
+      },
+      {
+        "heading": "Planos e taxas da Lejour hoje",
+        "paragraphs": [
+          "A Lejour tem três planos. O Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour em 13 de outubro de 2026, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Preço em 13/10/2026",
+            "Taxa por presente",
+            "Taxa num presente de R$ 200"
+          ],
+          "rows": [
+            [
+              "Basic",
+              "Grátis",
+              "3,89%",
+              "R$ 7,78"
+            ],
+            [
+              "Premium",
+              "R$ 99,90 (de R$ 179,90)",
+              "3,29%",
+              "R$ 6,58"
+            ],
+            [
+              "Pro",
+              "R$ 199,90",
+              "2,99%",
+              "R$ 5,98"
+            ]
+          ],
+          "caption": "Planos da Lejour em 13 de outubro de 2026: preço do plano, taxa por presente e a taxa num presente de R$ 200, que é conta nossa."
+        },
+        "postParagraphs": [
+          "A coluna de R$ 200 é uma conta nossa: o percentual da tabela aplicado ao valor do presente.",
+          "O plano pago muda mais que a taxa. No Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada, e o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso.",
+          "Quem paga a taxa é uma escolha do casal: ele recebe o presente com a taxa descontada, ou os convidados pagam a taxa por cima do valor do presente. O convidado que parcela no cartão paga, além disso, juros de 3,49% ao mês, que não fazem parte da taxa.",
+          "O funcionamento completo da lista, os saques e o crédito da Fast Shop estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). Para criar a conta, use o cadastro da [página da Lejour no Em Casa com Cecília](/cupons/lejour): é uma indicação, sem desconto, e pode render comissão ao site, sem custo extra para o casal."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+        "imageAlt": "Tela de planos da Lejour com Basic, Premium e Pro, com taxa da lista de presentes, saques, domínio e preços de cada plano, com a taxa e os preços do Premium e do Pro destacados em amarelo",
+        "imageCaption": "Tela de planos do painel da Lejour, com os preços e as taxas da tabela abaixo. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3563
+      },
+      {
+        "heading": "Vale esperar a Black Friday para abrir a lista?",
+        "paragraphs": [
+          "Em 14/10/2026, a Lejour não tinha anunciado promoção para este ano, e não dá para saber se haverá desconto no Premium ou taxa reduzida.",
+          "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes e as taxas de 13/10/2026: 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A última linha é uma hipótese: a taxa de 1,99% que a Lejour anunciou na faixa do site em dezembro de 2025, sem garantia de que volte. Todas as contas são nossas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cenário",
+            "Taxa",
+            "Taxa em R$ 20.000",
+            "Preço do plano",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Basic hoje",
+              "3,89%",
+              "R$ 778,00",
+              "grátis",
+              "R$ 778,00"
+            ],
+            [
+              "Premium hoje, com o preço de R$ 99,90",
+              "3,29%",
+              "R$ 658,00",
+              "R$ 99,90",
+              "R$ 757,90"
+            ],
+            [
+              "Premium a R$ 179,90 (preço riscado)",
+              "3,29%",
+              "R$ 658,00",
+              "R$ 179,90",
+              "R$ 837,90"
+            ],
+            [
+              "Pro hoje",
+              "2,99%",
+              "R$ 598,00",
+              "R$ 199,90",
+              "R$ 797,90"
+            ],
+            [
+              "Hipótese: taxa de 1,99%",
+              "1,99%",
+              "R$ 398,00",
+              "não se sabe",
+              "R$ 398,00 mais o plano, se houver"
+            ]
+          ],
+          "caption": "Taxa e preço do plano numa lista de exemplo de R$ 20.000 em presentes, com as taxas de 13/10/2026 e uma hipótese de 1,99%. Todas as contas são nossas."
+        },
+        "bullets": [
+          "**Lista de R$ 20.000:** o Premium a R$ 99,90 fecha R$ 20,10 abaixo do Basic. O Pro sai R$ 19,90 acima. Com o Premium a R$ 179,90, o plano pago sai R$ 59,90 acima do Basic.",
+          "**Lista menor:** pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes (R$ 99,90 divididos por 0,60 ponto percentual de diferença entre as taxas). Abaixo disso, só pela taxa, o Basic sai mais barato. Se o preço do Premium voltar a R$ 179,90, o ponto sobe para cerca de R$ 29.983.",
+          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). Não sabemos se valeria para listas já criadas, por quanto tempo nem se vale em todos os planos. Quem espera pode não achar promoção em novembro: em 14/10/2026 não há promoção anunciada.",
+          "**Quando o convidado paga a taxa:** nada disso muda o valor que o casal recebe. Nesse caso, o plano pago só vale pelos outros recursos, como saques ilimitados e domínio incluso."
+        ],
+        "postParagraphs": [
+          "O Basic é gratuito, então abrir a lista agora não custa nada e não impede de assinar o Premium depois. O cadastro está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
+        ]
+      },
+      {
+        "heading": "Fast Shop: o crédito da lista e o cashback",
+        "paragraphs": [
+          "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
+          "Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
+          "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Lejour terá Black Friday em 2026? Em 14/10/2026, a Lejour ainda não tinha confirmado promoção para este ano. A Black Friday é em 27/11/2026.",
+          "Vale esperar a Black Friday para assinar o Premium? Em 13/10/2026, o Premium estava a R$ 99,90, riscado de R$ 179,90. Pela taxa e pelo preço dessa data, compensa a partir de cerca de R$ 16.650 em presentes; a conta completa está na seção anterior. Em 2025, o plano chegou a R$ 59,90 em novembro, mas a Lejour não garante que se repita.",
+          "A taxa da lista fica menor na Black Friday? Em dezembro de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Em 13/10/2026, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
+          "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas de 13/10/2026. As contas são nossas, e valem quando o casal paga a taxa.",
+          "A taxa reduzida valeria para uma lista já criada? Não sabemos. A Lejour não explicou isso em 2025, e não há regulamento de 2026. Se a promoção sair, confira o regulamento dela antes de decidir.",
+          "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. Se a Lejour fizer promoção, ela vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
+          "Dá para usar o crédito da lista na Fast Shop? Dá. Em 14/10/2026, a Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
+        ]
+      }
+    ]
   }
 ];

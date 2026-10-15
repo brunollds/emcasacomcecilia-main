@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 40
@@ -162,3 +162,9 @@ ficam fora do texto.
 - Prints: o banner "Esquenta November" fica fora até ser visto; o CTA é o nosso link com UTM (`offerUrl` de `couponsData.ts`), exatamente como está.
 - O PRO10EMCASACOMCECILIA soma com o preço promocional (Bruno: "Sim").
 - Pauta segue, como guia de cupom, Pix e frete; a campanha entra quando sair.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-probiotica.json`, id 439, conferido frase a frase contra o texto aprovado.
+- Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-probiotica-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `probiotica-cupom-01-carrinho-sem-cupom.webp`, `probiotica-cupom-03-desconto-aplicado.webp`.

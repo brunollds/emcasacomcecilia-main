@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80
@@ -190,3 +190,9 @@ Já resolvido, sem pergunta: o cupom soma com o desconto de até 5% do Pix e do 
 
 ## Decisões do Bruno (14/10/2026)
 - Pauta segue. Capa: print da home ou de produto até o Max November de 2026; depois, o banner da campanha.
+
+## Redação, revisão e JSON (15/10/2026)
+
+- Redação em outra sessão (14/10); Job 3 aplicado e revisado pelo Claude em 15/10/2026. Texto aprovado pelo Bruno em 15/10/2026.
+- JSON `content/reviews/black-friday-max-titanium.json`, id 437, conferido frase a frase contra o texto aprovado.
+- Capa: print da home da loja em 14/10/2026, sem pop-ups (`black-friday-max-titanium-home.webp`), no CDN e verificada em 15/10/2026. Imagens do corpo reaproveitadas dos artigos de onboarding: `max-titanium-cupom-03-desconto-aplicado.webp`.
