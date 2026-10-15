@@ -218,7 +218,6 @@ export function ReviewSidebar({
             locale={locale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}
-            sponsored={storeBlock.storeSponsored}
           />
         </div>
       ) : (

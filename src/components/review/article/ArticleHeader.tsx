@@ -177,7 +177,6 @@ export function ArticleHeader({
             locale={couponCopyLocale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}
-            sponsored={storeBlock.storeSponsored}
           />
         </div>
       )}

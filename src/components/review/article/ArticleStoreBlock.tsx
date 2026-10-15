@@ -37,7 +37,6 @@ export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel 
         locale={locale}
         reviewSlug={reviewSlug}
         storeLabel={storeLabel}
-        sponsored={block.storeSponsored}
       />
 
       {rules.length > 0 && (

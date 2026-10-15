@@ -19,7 +19,6 @@ export type ArticleCouponCutoutProps = {
   locale: CouponCopyLocale;
   reviewSlug: string;
   storeLabel: string;
-  sponsored: boolean;
 };
 
 // A marcação é a mesma nas três posições; muda só o tamanho. No topo, o recorte assenta ao abrir a página.
@@ -44,9 +43,9 @@ const VARIANTS: Record<Variant, { box: string; layout: string; placement: 'revie
 // Recorte do código no artigo, no visual das páginas de loja: com código, é um .recorte (globals.css), que
 // fica verde ao copiar enquanto a tesoura corre, mostra onde colar e destaca o link da loja. Sem código
 // (Lejour), só o link da loja.
-export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeLabel, sponsored }: ArticleCouponCutoutProps) {
+export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeLabel }: ArticleCouponCutoutProps) {
   const { box, layout, placement } = VARIANTS[variant];
-  const { code, codeKind, brand, discount, storeHref, slug } = block;
+  const { code, codeKind, brand, discount, storeHref, storeSponsored, slug } = block;
   const sidebarCopy = getSidebarCopy(locale);
   const labels = getCouponCopyLabels(locale);
   const title = code ? getCodeTitle(sidebarCopy, codeKind, brand) : brand;
@@ -105,7 +104,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
               brand={slug}
               contentSlug={reviewSlug}
               linkLabel={storeLabel}
-              sponsored={sponsored}
+              sponsored={storeSponsored}
               placement={placement}
               className={
                 code
