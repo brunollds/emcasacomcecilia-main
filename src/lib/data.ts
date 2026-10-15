@@ -268,6 +268,8 @@ export interface SocialHighlight {
 // Conteúdo migrado para content/ (Fase 2b) — o índice é gerado no build.
 export const recipes: Recipe[] = recipesData as unknown as Recipe[];
 
+// As fotos de categoria que as receitas sem foto mostravam até 10/2026 (um bife na lasanha): nenhuma é
+// foto da receita, e o test:recipes barra qualquer uma no cartão, no JSON-LD e no og:image.
 export const recipePlaceholderImages = {
     'air-fryer': '/images/recipes/placeholder/air-fryer-placeholder.jpg',
     bebidas: '/images/recipes/placeholder/bebidas-placeholder.jpg',
@@ -332,22 +334,6 @@ const recipeDisplayCategoryPriority = [
     'churrasco',
     'air-fryer',
 ];
-const specificRecipePlaceholderPriority = [
-    'pudins',
-    'tortas',
-    'pizza',
-    'pizzas',
-    'frango',
-    'carnes',
-    'carne',
-    'peixes',
-    'paes',
-    'saladas',
-    'sopas',
-    'sobremesas',
-    'acompanhamentos',
-    'churrasco',
-];
 export function getCategorySlug(value) {
     return value
         .normalize('NFD')
@@ -366,22 +352,6 @@ export function getRecipePrimaryCategory(recipe) {
     }
     const preferredCategory = labels.find((category) => getCategorySlug(category) === preferredSlug);
     return preferredCategory || recipe.primaryCategory || recipe.categories?.[0] || 'Geral';
-}
-export function getRecipeImage(recipe) {
-    if (recipe.image)
-        return recipe.image;
-    const labels = recipe.categories?.length ? recipe.categories : getRecipeAllCategoryLabels(recipe);
-    const categorySlugs = labels.map(getCategorySlug);
-    const specificPlaceholder = specificRecipePlaceholderPriority
-        .filter((category) => categorySlugs.includes(category))
-        .map((category) => recipePlaceholderImages[category])
-        .find(Boolean);
-    if (specificPlaceholder)
-        return specificPlaceholder;
-    const placeholder = categorySlugs
-        .map((category) => recipePlaceholderImages[category])
-        .find(Boolean);
-    return placeholder || recipePlaceholderImages.doces;
 }
 // Só a foto da própria receita. Sem ela, a receita não tem imagem: o cartão mostra a capa desenhada
 // (RecipeCover), a página não tem foto no topo e o JSON-LD e o og:image ficam sem imagem.

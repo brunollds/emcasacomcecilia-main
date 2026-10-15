@@ -1,12 +1,14 @@
 import { Suspense } from 'react';
-import {
-  getRecipeAllCategoryLabels,
-  getRecipeImage,
-  getRecipeImageAlt,
-  getRecipePrimaryCategory,
-  recipes,
-} from '@/lib/data';
+import { couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { PageHeader } from '@/components/ui/PageHeader';
+import { recipes } from '@/lib/data';
+import { toListedRecipe } from '@/lib/recipeList';
 import ReceitasClientPage from './ReceitasClientPage';
+
+const RECIPES_TRAIL = [
+  { name: 'Início', path: '/' },
+  { name: 'Receitas', path: '/receitas' },
+];
 
 export const metadata = {
   title: 'Receitas - Em Casa com Cecília',
@@ -22,34 +24,18 @@ export const metadata = {
   },
 };
 
-// Só o que a listagem usa de cada receita: o card e os campos dos filtros.
-function toListedRecipe(recipe) {
-  return {
-    id: recipe.id,
-    slug: recipe.slug,
-    title: recipe.title,
-    image: getRecipeImage(recipe),
-    imageAlt: getRecipeImageAlt(recipe),
-    displayCategory: getRecipePrimaryCategory(recipe),
-    totalTime: recipe.totalTime,
-    difficulty: recipe.difficulty,
-    isPopular: recipe.isPopular,
-    primaryCategory: recipe.primaryCategory,
-    subCategory: recipe.subCategory,
-    cuisine: recipe.cuisine,
-    method: recipe.method,
-    diet: recipe.diet,
-    keyIngredients: recipe.keyIngredients,
-    collections: recipe.collections,
-    mealTime: recipe.mealTime,
-    categoryLabels: getRecipeAllCategoryLabels(recipe),
-  };
-}
-
+// O topo (trilha, título e introdução) é servidor e fica fora do Suspense: o HTML estático já o traz.
 export default function ReceitasPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-[#fef9f3]" />}>
-      <ReceitasClientPage recipes={recipes.map(toListedRecipe)} />
-    </Suspense>
+    <main className={`${couponFontVariables} min-h-screen bg-creme text-marinho`}>
+      <PageHeader
+        trail={RECIPES_TRAIL}
+        title="Receitas"
+        intro="Receitas de casa, com passo a passo e ingredientes fáceis de achar."
+      />
+      <Suspense fallback={<div className="min-h-screen" />}>
+        <ReceitasClientPage recipes={recipes.map(toListedRecipe)} />
+      </Suspense>
+    </main>
   );
 }
