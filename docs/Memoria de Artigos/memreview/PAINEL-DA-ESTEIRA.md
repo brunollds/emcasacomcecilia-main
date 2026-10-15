@@ -7,6 +7,7 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[clea-store-aniversario-14-anos-t-shirt-brinde]] — Cléa Store / Aniversário de 14 anos: T-Shirt de brinde até 18/10 com o cupom (Score Aut: 45 / Conv: 80) — texto aprovado em 15/10, segue para o Job 4
 
 ---
 
