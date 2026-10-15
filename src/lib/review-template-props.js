@@ -25,10 +25,6 @@ import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown
 
 export { getYoutubeEmbedUrl };
 
-export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
-  return pickRelatedReviews(review, reviewCorpus, 6);
-}
-
 /**
  * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title: string; category?: string }> }} review
  * @param {Array<{ slug: string; locale?: string }>} reviewCorpus
@@ -66,7 +62,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
 
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
-  const relatedReviews = getRelatedShelfCards(getRelatedReviews(review, reviewCorpus), localeKey);
+  const relatedReviews = getRelatedShelfCards(pickRelatedReviews(review, reviewCorpus, 6), localeKey);
   const copy = getShellCopy(localeKey);
   // A lista de guias tem o nome que o menu do idioma usa (em PT, Guias & Análises).
   const reviewHub = localeKey === 'pt'
