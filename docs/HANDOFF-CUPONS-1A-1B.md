@@ -52,7 +52,7 @@ Não há evento para clique interno artigo → página de cupom. O que existe:
 
 | Evento | Onde | Parâmetros |
 |---|---|---|
-| `coupon_copy` | `CouponComponents.tsx:35`, `CouponBottomBar.tsx:63`, `InlineCouponCopy.tsx:20`, `ReviewSidebar.tsx:79` | `coupon_code`, `brand`, `placement` |
+| `coupon_copy` | `CouponComponents.tsx:35`, `CouponBottomBar.tsx:63`, `HighlightCoupon.tsx`, `ReviewSidebar.tsx:79` | `coupon_code`, `brand`, `placement` |
 | `coupon_store_click` / `outbound_link_click` | `CouponComponents.tsx:125`, `CouponBottomBar.tsx:118` | `coupon_code`, `brand`, `content_slug`, `placement`, `url` |
 | `view_recipe`, `click_offer` | `RecipeViewTracker.js`, `Offers.tsx:81` | — |
 

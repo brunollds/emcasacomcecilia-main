@@ -34,7 +34,8 @@ npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 id
 npm run test:institutional  # a /sobre: números dos dados (redes, artigos em PT, lojas ativas, receitas), selo da YesStyle só no prazo, marcas parceiras, trilha = BreadcrumbList, Person e textos proibidos; o /faqs (perguntas, FAQPage = página, atalhos), o /contato (assuntos = rota, escape do e-mail), a /privacidade (13 seções, Clarity, GA com 2 meses, consentimento, sumário, links externos em https, sem [VERIFICAR) e o /buscar (resultados com link e capa, aviso de nada encontrado, noindex)
 npm run test:recipes         # receitas: o tempo num formato só (formatRecipeTime), a foto só a própria (sem foto: a capa desenhada no cartão de /receitas, da home e do /buscar, e nada de imagem no topo, no JSON-LD nem no og:image), o topo de /receitas e nenhum arquivo cliente importando valores de @/lib/data
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
+npm run test:article-d2      # antes do build: cores antigas fora do corpo e do topo dos artigos, relacionados, regras do bloco da loja, dock e sidebar
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, as peças novas do artigo (recorte do topo e bloco da loja só em artigo com loja, bloco do link de afiliado com o `cta.url` em artigo com `cta` e sem loja, 6 relacionados da mesma loja primeiro, galeria sem item repetido, código da loja copiável no texto, corpo e topo sem as cores antigas nem o fundo de caderno), a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -217,6 +218,27 @@ vídeo, primeiras impressões e uso noturno.
   troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
   dentro do `<dialog>`, como o fallback de cópia de `clipboardUtils.ts`.
+- As peças do visual da D2 ficam em `src/components/review/article/`; o `ReviewNotebookTemplate` só as
+  monta. `ArticleHeader`: trilha "Guias & Análises", título, linha de dados e o recorte do topo.
+  `ArticleCouponCutout` tem três variantes, `top` (abaixo da introdução, acima da foto), `end` (bloco da
+  loja) e `sidebar`; o copiar é o `CopyCodeButton`, com a tesoura e o verde de `/cupons`. O fim
+  (`ArticleEnd`, mais `ArticleAfter` depois da sidebar) vai nesta ordem: galeria, veredito (só produto), bloco
+  da loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
+  <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`) e
+  `ArticleRelated` (6 cartões da estante).
+- Os dados vêm de dois módulos de servidor: `src/lib/articleStore.ts` (`getArticleStoreBlock`: código, tipo
+  do código, desconto e as regras da loja; na YesStyle, os textos do código de recompensa da página; sem
+  loja devolve `null`) e `src/lib/relatedReviews.ts` (`pickRelatedReviews`: mesma loja primeiro, depois
+  categoria e tipo, no idioma do artigo). Nada `'use client'` importa o primeiro.
+- O código da própria loja citado no corpo (`HighlightCoupon`) copia ao toque, com o mesmo
+  `CopyCodeButton` (`review_inline`); os outros códigos destacados no texto ficam sem botão.
+- O dock do celular aparece depois que o recorte `#cupom-artigo` sai pela parte de cima e some enquanto o
+  `#loja` está na tela. Os ids ficam em `articleAnchors.ts` e a regra em `dockVisibility.ts`; sem recorte
+  (artigo sem loja), o dock aparece na primeira seção. Na sidebar, o sumário tem altura máxima e rola
+  por dentro para o recorte continuar à vista.
+- `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
+  `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`. `review_final_cta` e
+  `review_verdict` saíram; componente novo do artigo passa sempre um desses.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 

@@ -3,7 +3,7 @@
  *
  * This module measures horizontal space occupied by rich chips for Pretext layout
  * planning. Used exclusively for Pretext inlining (not for the header rows in
- * RecipeMetaChips or ReviewHighlightChips, which are normal-flow server-side renders).
+ * RecipeMetaChips and the article header, which are normal-flow server-side renders).
  *
  * IMPORTANT: This is client-only code. Canvas measureText is used for accuracy.
  * Node.js round-trip (e.g., scripts/validate-pretext.ts) cannot use this.

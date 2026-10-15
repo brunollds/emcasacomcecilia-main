@@ -55,7 +55,7 @@ antes e depois (com o aviso de cookies no ar desde 15/10, comparar só períodos
 - Subtítulos das seções condensados, marinho, com o marca-texto ao rolar.
 - Blocos (ficha do produto, linha do tempo dos guias, citações, tabelas, FAQ, notas editoriais, destaques): borda
   marinho de 2px, fundo branco, destaques em amarelo. O fundo de caderno com linhas sai; o fundo é branco.
-- O código citado no texto continua copiável (`InlineCouponCopy`).
+- O código citado no texto continua copiável (`HighlightCoupon`; ver "Ajustes durante a implementação").
 - Não mudam: sumário, leitura em voz alta, nota editorial, FAQ, galeria de imagens ampliáveis, vídeos.
 
 ### Fim
@@ -130,3 +130,20 @@ pura testável em `src/lib/`. Textos novos vão para `articleCopy.ts` nos 10 idi
 
 Texto dos artigos; caixa de autor do Bruno Luiz (fila); cabeçalho do site (etapa 5 da fila, inclusive o "Receitas"
 marcado como página atual); grupo do WhatsApp; páginas de loja e `/reviews`.
+
+## Ajustes durante a implementação
+
+- Os `placement` seguem o padrão `review_*` já usado no GA4 (`review_top`, `review_inline`, `review_sidebar`,
+  `review_mobile_dock`, `review_mobile_drawer`, `review_end`), não `article_*`: o histórico continua comparável.
+  `review_final_cta` e `review_verdict` saíram.
+- O código citado no texto copia por `HighlightCoupon`; o `InlineCouponCopy` foi removido (com `PullQuote` e
+  `ReviewProductSpecGrid`, que ficaram sem uso). Bruno (15/10): o código no corpo copia ao toque, só o da loja do
+  artigo.
+- "Ir para a loja" fica genérico, sem o nome da loja (como nas páginas de loja), para não criar texto novo com
+  "da/do" nos 10 idiomas.
+- As regras do bloco da YesStyle saem dos textos do código de recompensa da página da YesStyle (combinável,
+  campo Reward Code, data conferida); as regras de cupom da loja não entram, porque descrevem outro tipo de
+  código.
+- Artigo com `cta` de afiliado e sem loja cadastrada ganha um bloco "Ver na <loja>" no lugar do bloco da loja,
+  com o link de afiliado do próprio artigo (`cta.url`, `rel` sponsored), sem código nem regras (Bruno, 15/10).
+- O sumário da lateral tem altura máxima e rola por dentro, para o recorte do código continuar à vista.
