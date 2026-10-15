@@ -105,7 +105,7 @@ atualizar quando a campanha de 2026 sair (provável em 01–02/11).
 ## 5. Mídia & Planejamento Visual
 - **Imagem Principal (Hero):** print da home ou de produto da loja, em 16:9, com o nome do arquivo
   novo em `public/images/reviews/max-titanium/`. Alternativa: a marca-d'água já existente
-  (`/images/logos/watermarks/max-titanium.webp`). Confirmar o direito de uso com o Bruno (pergunta 3).
+  (`/images/logos/watermarks/max-titanium.webp`). Capa: pergunta 1.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Upload ao CDN
   só com OK do Bruno.
 - **Imagens Inline:** tabela de preços em texto, não imagem. Foto de produto oficial opcional.
@@ -121,7 +121,7 @@ atualizar quando a campanha de 2026 sair (provável em 01–02/11).
 | A Max Titanium ainda não anunciou campanha de Black Friday 2026 | Fato verificado | Home de maxtitanium.com.br, sem menção | — | 2026-10-14 | [x] Sim, com a data; reconsultar |
 | Cupom MAX10EMCASACOMCECILIA: até 10% OFF; o percentual varia por produto | Condição comercial | `couponsData.ts` (`max-titanium`) e teste de checkout | Teste de 14/10: 16,75 de desconto sobre R$ 189,00 | 2026-10-14 | [x] Sim, com a ressalva do percentual variável |
 | Cupom vale com todas as formas de pagamento e soma com as promoções do site | Condição comercial | Bruno, 14/10/2026; `couponsData.ts` | — | 2026-10-14 | [x] Sim |
-| Pix e boleto com até 5% OFF; 1x no cartão com até 5% OFF | Condição comercial | Banners da home (`PIX E BOLETO COM ATÉ 5% OFF`, `1X NO CARTÃO COM ATÉ 5% OFF`) | Home, 14/10 | 2026-10-14 | [x] Sim, como oferta do site. Soma com o cupom: ver pergunta 1 |
+| Pix e boleto com até 5% OFF; 1x no cartão com até 5% OFF | Condição comercial | Banners da home (`PIX E BOLETO COM ATÉ 5% OFF`, `1X NO CARTÃO COM ATÉ 5% OFF`) | Home, 14/10 | 2026-10-14 | [x] Sim, como oferta do site. Soma com o cupom: confirmada pelo Bruno em 14/10 |
 | Preços de outubro (VTEX, 14/10): IsoWhey 900g R$ 326,18; 100% Whey Pote 900G R$ 210,39; 100% Whey Refil 900G R$ 196,39; Top Whey 3W + Performance 900G R$ 273,55; Top Whey 3W + Sabor 900G R$ 189,00 (de R$ 273,55); Whey Blend 900g Nova Fórmula R$ 79,00 (de R$ 121,99); Super Whey 900G R$ 94,62; Creatina 300 g R$ 59,90 (de R$ 75,10); Creatina 500g R$ 87,53 (de R$ 115,60) | Preço volátil | `maxtitanium.com.br/api/catalog_system/pub/products/search` | Campo `Price` e `ListPrice` | 2026-10-14 | [x] Sim, com a data; reconsultar no fim de outubro |
 | Itens sem estoque (Creatina Creapure 250g, Creatina 100g, kits com estoque 0) ficam fora das tabelas | Dado de catálogo | Mesma API, `AvailableQuantity` = 0 | — | 2026-10-14 | [x] Sim, como regra de exclusão |
 | Pix e boleto: 5% é o desconto do banner; não há cupom "de Black Friday" | Condição comercial | Banner da home | — | 2026-10-14 | [x] Sim |
