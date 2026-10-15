@@ -49,9 +49,11 @@ export default function OmniSearch({
   emphasis = false,
   // 'dark' no fundo marinho do header; 'light' em página branca, como o 404.
   tone = 'dark',
+  // O termo já buscado, no campo do /buscar.
+  defaultValue = '',
 }) {
   const light = tone === 'light';
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState(defaultValue);
   const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
   const [isOpen, setIsOpen] = useState(false);

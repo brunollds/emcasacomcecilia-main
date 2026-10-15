@@ -4,19 +4,17 @@ import Script from "next/script";
 import { useEffect, useState, useSyncExternalStore } from "react";
 import { usePathname } from "next/navigation";
 import { getAnalyticsConfig, shouldEnableAnalytics } from "@/lib/analytics";
+import { isTrackingAllowed, readConsent, subscribeConsent } from "@/lib/consent";
 
 const measurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 const debugEnabled = process.env.NEXT_PUBLIC_GA_DEBUG === "1";
 const analyticsConfig = JSON.stringify(getAnalyticsConfig(debugEnabled));
 
-function subscribeToAnalyticsAvailability() {
-  return () => {};
-}
-
 function getAnalyticsAvailabilitySnapshot() {
-  return (
+  return isTrackingAllowed(
     Boolean(measurementId) &&
-    shouldEnableAnalytics(window.location.hostname, debugEnabled)
+      shouldEnableAnalytics(window.location.hostname, debugEnabled),
+    readConsent(),
   );
 }
 
@@ -27,7 +25,7 @@ function getServerAnalyticsAvailabilitySnapshot() {
 export default function Analytics() {
   const pathname = usePathname();
   const enabled = useSyncExternalStore(
-    subscribeToAnalyticsAvailability,
+    subscribeConsent,
     getAnalyticsAvailabilitySnapshot,
     getServerAnalyticsAvailabilitySnapshot,
   );

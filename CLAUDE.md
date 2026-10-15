@@ -22,7 +22,7 @@ npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
-npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
+npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas, páginas de 12 e 24, medição e os componentes
 npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
@@ -31,6 +31,7 @@ npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:not-found       # o 404: título, busca, caminhos, artigos, os 9 idiomas e dynamicParams = false em toda rota dinâmica
+npm run test:institutional  # a /sobre: números dos dados (redes, artigos em PT, lojas ativas, receitas), selo da YesStyle só no prazo, marcas parceiras, trilha = BreadcrumbList, Person e textos proibidos; o /faqs (perguntas, FAQPage = página, atalhos), o /contato (assuntos = rota, escape do e-mail), a /privacidade (13 seções, Clarity, GA com 2 meses, consentimento, sumário, links externos em https, sem [VERIFICAR) e o /buscar (resultados com link e capa, aviso de nada encontrado, noindex)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
 npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …), o movimento de /cupons e das páginas de loja (o .recorte só nas caixas com botão de copiar, a tesoura que corre, o verde fora do bloco de movimento, a etiqueta e o recorte que assentam sem opacity e as prateleiras em cascata com o ímã à direita) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
@@ -101,6 +102,24 @@ A grade de `/videos` (`VideosBrowser`) guarda a loja escolhida em `?loja=` do me
 a gravação da URL das duas ficam em `src/components/ui/useListUrl.tsx` (`isOnList` e `urlSearchOf` em
 `src/lib/listUrl.ts`), e a troca animada, em `src/components/ui/shelfTransition.ts`, fora do
 `src/lib/viewTransition.ts`, que componentes servidor importam: o `flushSync` só existe no cliente.
+
+### Analytics e aviso de cookies (LGPD)
+
+O GA4 (`src/components/Analytics.js`) e o Clarity (`src/components/Clarity.js`) só carregam com as duas
+condições de `isTrackingAllowed` (`src/lib/consent.ts`): o host liberado (`shouldEnableAnalytics` e
+`shouldEnableClarity`, de `src/lib/analytics.js`) e o aceite no aviso de cookies. É o que a
+`/privacidade` promete (`src/lib/privacyPage.ts`); mexeu num, confira o outro.
+
+- A escolha fica no `localStorage` (`ecc-consent-v1`: `granted` ou `denied`; outro valor vale como
+  sem escolha), não em cookie. `src/lib/consent.ts` não importa React nem `@/lib/data`.
+- O `ConsentBanner` (`src/components/`), no `RootLayoutShell` de todo idioma, só monta no navegador:
+  o HTML do servidor nunca o traz, e o `test:build-output` confere isso nas homes de cada idioma.
+  Aparece sem escolha guardada ou quando o botão "Preferências de cookies" do rodapé o reabre
+  (`openConsentPreferences`). Recusar e Aceitar têm o mesmo tamanho e o mesmo peso. Quem troca o
+  aceite pela recusa recebe a página de novo, porque os scripts não descarregam.
+- Os textos do aviso e do botão do rodapé, nos 10 idiomas, ficam em
+  `src/components/consent/consentCopy.ts`. A política só existe em português, e fora do PT o link
+  avisa o idioma dela.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
@@ -382,9 +401,11 @@ nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum n
 | `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
 | `/<locale>/coupons/[brand]` | `src/app/[locale]/coupons/[brand]/page.tsx`, only for stores in `couponTranslations.ts`; the static YesStyle routes win |
 | `/cupons/yesstyle`, `/<locale>/coupons/yesstyle` | `src/app/(pt)/cupons/yesstyle/page.tsx` and one static route per language in `src/app/(<locale>)/<locale>/coupons/yesstyle/page.tsx`; all render `src/components/YesStyleCouponPage.tsx` |
-| `/sobre` | `src/app/(pt)/sobre/page.js` |
-| `/contato` | `src/app/(pt)/contato/page.js` |
-| `/faqs` | `src/app/(pt)/faqs/page.js` |
+| `/sobre` | `src/app/(pt)/sobre/page.tsx` (`AboutView`, dados em `src/lib/aboutPage.ts`; o topo é o `PageHeader` de `src/components/ui/`, que as outras institucionais usam) |
+| `/contato` | `src/app/(pt)/contato/page.tsx` (`ContactView`; só o formulário, `ContactForm`, é cliente; os assuntos em `src/lib/contactPage.ts`, os mesmos da rota `/api/contact`) |
+| `/faqs` | `src/app/(pt)/faqs/page.tsx` (`FaqView`, sem JavaScript; perguntas em `src/lib/faqPage.ts`, a mesma lista do `FAQPage`) |
+| `/privacidade` | `src/app/(pt)/privacidade/page.tsx` (`PrivacyView`, sem JavaScript; o texto da política em `src/lib/privacyPage.ts`) |
+| `/buscar` | `src/app/(pt)/buscar/page.tsx` (`SearchView`, noindex; o campo é o `OmniSearch` com o termo em `defaultValue`; resultados e capas em `src/lib/searchPage.ts`, sobre a busca de `src/lib/siteSearch.mjs`) |
 | 404 | `src/app/global-not-found.js` (uma página só para o site todo: PT em destaque e os 9 idiomas embaixo; `NotFoundView` e `src/lib/notFoundPage.ts`) |
 
 **404 e rotas dinâmicas.** `notFound()` chamado durante a requisição devolve um HTML vazio

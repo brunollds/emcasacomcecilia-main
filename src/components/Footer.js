@@ -9,6 +9,9 @@ import {
   getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
+import { getConsentCopy } from '@/components/consent/consentCopy';
+import { openConsentPreferences } from '@/lib/consent';
+import { FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 
 // Ícones SVG para redes sociais
 const SocialIcons = {
@@ -57,6 +60,7 @@ export default function Footer({ lang = 'pt-BR' }) {
   const navLinks = getShellNavLinks(localeKey);
   const commercialLinks = getShellCommercialLinks(localeKey);
   const homeHref = getShellHomeHref(localeKey);
+  const consentCopy = getConsentCopy(localeKey);
 
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
@@ -140,6 +144,13 @@ export default function Footer({ lang = 'pt-BR' }) {
                 <span className="text-white/60">{copy.contactLabel}: contato@emcasacomcecilia.com</span>
               </>
             )}
+            <button
+              type="button"
+              onClick={openConsentPreferences}
+              className={`cursor-pointer transition-colors hover:text-[#ff6b35] ${FOCUS_RING_ON_DARK}`}
+            >
+              {consentCopy.preferences}
+            </button>
           </div>
         </div>
       </div>

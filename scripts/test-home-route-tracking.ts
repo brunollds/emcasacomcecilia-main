@@ -28,6 +28,7 @@ const examples: Record<HomeRoutePlacement, { href: string; linkLabel: string }> 
   locale_home_faq: { href: '/en/coupons/shein', linkLabel: 'SHEIN' },
   locale_home_follow: { href: 'https://facebook.com/emcasacomcecilia', linkLabel: 'Facebook' },
   not_found: { href: '/cupons', linkLabel: 'Cupons' },
+  about: { href: '/reviews', linkLabel: 'Ver os guias e análises' },
 };
 
 for (const placement of Object.keys(examples) as HomeRoutePlacement[]) {
