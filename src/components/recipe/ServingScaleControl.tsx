@@ -155,52 +155,55 @@ export function ServingScaleControl({
     [updateServings]
   );
 
+  // Na ficha técnica a célula tem ~130 px no celular: a unidade fica embaixo do número, inteira. Na mesma
+  // linha e com truncate, sobrava dela uma lasca de letra ao lado do número ("8 ꜰ" de "fatias").
   if (compact) {
     return (
-      <div
-        className="inline-flex max-w-full items-center gap-1.5 overflow-hidden rounded-lg border border-[#1a4d2e]/15 bg-white/80 px-2 py-1 shadow-sm sm:gap-2"
-        role="group"
-        aria-label={`Rendimento em ${servingsUnit}`}
-      >
-        <button
-          type="button"
-          onClick={decrease}
-          disabled={currentServings <= minServings}
-          aria-label="Diminuir porções"
-          className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e]/10 disabled:cursor-not-allowed disabled:opacity-40"
+      <div className="flex max-w-full flex-col items-start gap-1">
+        <div
+          className="inline-flex max-w-full items-center gap-1.5 rounded-lg border border-[#1a4d2e]/15 bg-white/80 px-2 py-1 shadow-sm sm:gap-2"
+          role="group"
+          aria-label={`Rendimento em ${servingsUnit}`}
         >
-          <Minus size={14} />
-        </button>
+          <button
+            type="button"
+            onClick={decrease}
+            disabled={currentServings <= minServings}
+            aria-label="Diminuir porções"
+            className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e]/10 disabled:cursor-not-allowed disabled:opacity-40"
+          >
+            <Minus size={14} />
+          </button>
 
-        <label htmlFor={liveId} className="sr-only">
-          Quantidade de {servingsUnit}
-        </label>
-        <input
-          id={liveId}
-          type="number"
-          inputMode="numeric"
-          min={minServings}
-          max={maxServings}
-          value={currentServings}
-          onChange={handleInputChange}
-          className="w-8 shrink-0 appearance-none border-b border-transparent bg-transparent text-center text-xl leading-none font-handwritten text-[#1a4d2e] focus:border-[#ff6b35] focus:outline-none sm:w-10"
-          aria-live="polite"
-          aria-atomic="true"
-        />
+          <label htmlFor={liveId} className="sr-only">
+            Quantidade de {servingsUnit}
+          </label>
+          <input
+            id={liveId}
+            type="number"
+            inputMode="numeric"
+            min={minServings}
+            max={maxServings}
+            value={currentServings}
+            onChange={handleInputChange}
+            className="w-8 shrink-0 appearance-none border-b border-transparent bg-transparent text-center text-xl leading-none font-handwritten text-[#1a4d2e] focus:border-[#ff6b35] focus:outline-none sm:w-10"
+            aria-live="polite"
+            aria-atomic="true"
+          />
 
-        <span className="min-w-0 truncate text-xs text-[#1a4d2e]/80 sm:text-sm" aria-hidden="true">
+          <button
+            type="button"
+            onClick={increase}
+            disabled={currentServings >= maxServings}
+            aria-label="Aumentar porções"
+            className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e]/10 disabled:cursor-not-allowed disabled:opacity-40"
+          >
+            <Plus size={14} />
+          </button>
+        </div>
+        <span className="text-xs text-[#1a4d2e]/80 sm:text-sm" aria-hidden="true">
           {servingsUnit}
         </span>
-
-        <button
-          type="button"
-          onClick={increase}
-          disabled={currentServings >= maxServings}
-          aria-label="Aumentar porções"
-          className="flex h-7 w-7 shrink-0 items-center justify-center rounded-md text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e]/10 disabled:cursor-not-allowed disabled:opacity-40"
-        >
-          <Plus size={14} />
-        </button>
       </div>
     );
   }

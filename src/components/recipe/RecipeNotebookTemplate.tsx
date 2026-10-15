@@ -28,6 +28,7 @@ import { RecipeJumpNav } from './RecipeJumpNav';
 import { RecipeMetaChips } from './RecipeMetaChips';
 import { getArticleCopy, getEditorialNoteLabels } from '@/components/review/articleCopy';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { formatRecipeTime } from '@/lib/recipeTime';
 
 export interface RecipeNotebookTemplateProps {
   recipe: Recipe;
@@ -40,8 +41,9 @@ export interface RecipeNotebookTemplateProps {
   }[];
   youtubeEmbedUrl: string | null;
   videoPageUrl: string | null;
-  recipeImage: string;
-  recipeImageAlt: string;
+  // Só a foto da própria receita; sem ela, o topo fica sem foto.
+  recipeImage?: string;
+  recipeImageAlt?: string;
   recipeCategory: string;
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
@@ -181,7 +183,7 @@ export function RecipeNotebookTemplate({
                 url: '/sobre',
               }}
               meta={[
-                { icon: 'clock', label: 'Tempo de preparo', value: `${recipe.prepTime} de preparo` },
+                { icon: 'clock', label: 'Tempo de preparo', value: `${formatRecipeTime(recipe.prepTime)} de preparo` },
                 { label: 'Dificuldade', value: recipe.difficulty },
                 ...(recipe.publishedAt
                   ? [{ icon: 'calendar' as const, label: 'Publicado em', value: formatDate(recipe.publishedAt), dateTime: recipe.publishedAt }]
@@ -216,21 +218,23 @@ export function RecipeNotebookTemplate({
             hasDicas={recipe.tips && recipe.tips.length > 0}
           />
 
-          <EditorialReveal as="section" delay={0.3} className="mb-12">
-            <div
-              className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10"
-              style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
-            >
-              <Image
-                src={resolveMediaUrl(recipeImage)}
-                alt={recipeImageAlt}
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 768px"
-                priority
-              />
-            </div>
-          </EditorialReveal>
+          {recipeImage ? (
+            <EditorialReveal as="section" delay={0.3} className="mb-12">
+              <div
+                className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10"
+                style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
+              >
+                <Image
+                  src={resolveMediaUrl(recipeImage)}
+                  alt={recipeImageAlt ?? ''}
+                  fill
+                  className="object-cover"
+                  sizes="(max-width: 768px) 100vw, 768px"
+                  priority
+                />
+              </div>
+            </EditorialReveal>
+          ) : null}
         </div>
       </header>
 
@@ -288,21 +292,21 @@ export function RecipeNotebookTemplate({
               <span className="mb-1 flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e]/70">
                 <Clock size={12} /> Preparo
               </span>
-              <span className="font-handwritten text-2xl text-[#1a4d2e]">{recipe.prepTime}</span>
+              <span className="font-handwritten text-2xl text-[#1a4d2e]">{formatRecipeTime(recipe.prepTime)}</span>
             </EditorialReveal>
 
             <EditorialReveal as="div" delay={0.05} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
               <span className="mb-1 flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e]/70">
                 <Utensils size={12} /> Fogo
               </span>
-              <span className="font-handwritten text-2xl text-[#1a4d2e]">{recipe.cookTime}</span>
+              <span className="font-handwritten text-2xl text-[#1a4d2e]">{formatRecipeTime(recipe.cookTime)}</span>
             </EditorialReveal>
 
             <EditorialReveal as="div" delay={0.1} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
               <span className="mb-1 flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e]/70">
                 <Clock size={12} /> Total
               </span>
-              <span className="font-handwritten text-2xl text-[#1a4d2e]">{recipe.totalTime}</span>
+              <span className="font-handwritten text-2xl text-[#1a4d2e]">{formatRecipeTime(recipe.totalTime)}</span>
             </EditorialReveal>
 
             <EditorialReveal as="div" delay={0.15} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
@@ -475,9 +479,7 @@ export function RecipeNotebookTemplate({
             title={recipe.title}
             contentType="receita"
             imageUrl={
-              recipeImage.startsWith('http')
-                ? recipeImage
-                : `https://emcasacomcecilia.com${recipeImage}`
+              recipeImage && (recipeImage.startsWith('http') ? recipeImage : `https://emcasacomcecilia.com${recipeImage}`)
             }
           />
         </div>

@@ -4,7 +4,8 @@ import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
-import { getRecipeImage, getRecipePrimaryCategory, recipes, type Recipe } from '@/lib/data';
+import { RecipeCover } from '@/components/recipe/RecipeCover';
+import { getRecipeOwnImage, getRecipePrimaryCategory, recipes, type Recipe } from '@/lib/data';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 
@@ -73,6 +74,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
 }
 
 function RecipeCard({ recipe }: { recipe: Recipe }) {
+  const image = getRecipeOwnImage(recipe);
   return (
     <ViewTransitionLink
       href={`/receitas/${recipe.slug}`}
@@ -83,13 +85,17 @@ function RecipeCard({ recipe }: { recipe: Recipe }) {
         className="relative block aspect-[4/3] overflow-hidden border-b-2 border-marinho bg-creme"
         style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
       >
-        <Image
-          src={resolveMediaUrl(getRecipeImage(recipe))}
-          alt=""
-          fill
-          sizes="(min-width: 1200px) 265px, (min-width: 768px) 25vw, 50vw"
-          className="object-cover motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-105"
-        />
+        {image ? (
+          <Image
+            src={resolveMediaUrl(image)}
+            alt=""
+            fill
+            sizes="(min-width: 1200px) 265px, (min-width: 768px) 25vw, 50vw"
+            className="object-cover motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-105"
+          />
+        ) : (
+          <RecipeCover recipe={recipe} />
+        )}
       </span>
       <span className="flex flex-col gap-1 px-2.5 pt-2 pb-2.5 md:px-3 md:pt-2.5 md:pb-3">
         <span className="text-xs font-bold text-marinho-suave">{getRecipePrimaryCategory(recipe)}</span>

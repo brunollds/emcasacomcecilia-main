@@ -1,6 +1,7 @@
 import { Clock, Users, ChefHat } from 'lucide-react';
 import { RichChip, EditorialReveal } from '@/components/editorial';
 import type { Recipe } from '@/lib/content';
+import { formatRecipeTime } from '@/lib/recipeTime';
 
 export interface RecipeMetaChipsProps {
   recipe: Recipe;
@@ -13,7 +14,7 @@ export function RecipeMetaChips({ recipe }: RecipeMetaChipsProps): React.ReactEl
   if (recipe.totalTime) {
     chips.push(
       <RichChip key="total-time" icon={<Clock size={14} />} variant="neutral">
-        {recipe.totalTime}
+        {formatRecipeTime(recipe.totalTime)}
       </RichChip>
     );
   }

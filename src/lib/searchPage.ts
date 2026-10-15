@@ -1,5 +1,6 @@
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
-import { getRecipeImage, publishedReviews, recipes, type Recipe, type Review } from '@/lib/data';
+import type { RecipeCoverSource } from '@/components/recipe/RecipeCover';
+import { getRecipeOwnImage, publishedReviews, recipes, type Recipe, type Review } from '@/lib/data';
 import type { PageLink } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { createSearchIndex, getRankedSearchResults, getSearchContentTypeLabel } from '@/lib/siteSearch.mjs';
@@ -32,16 +33,19 @@ export type SearchCard = {
   typeLabel: string;
   category?: string;
   image?: SearchCardImage;
+  // A receita sem foto própria: o cartão desenha a capa da categoria (RecipeCover).
+  recipeCover?: RecipeCoverSource;
 };
 
 type SearchSource = { recipes: readonly Recipe[]; reviews: readonly Review[] };
 
 type IndexItem = { id: number; contentType: 'recipe' | 'review'; href: string; title: string; description: string; category?: string };
 
-// A receita sem foto própria leva a ilustração da categoria (getRecipeImage), como em /receitas; a foto da
-// receita cobre o cartão. O artigo segue a regra dos cartões (cardImage.ts).
-function recipeImage(recipe: Recipe): SearchCardImage {
-  return { src: resolveMediaUrl(getRecipeImage(recipe)), fit: 'cover' };
+// Só a foto da própria receita, que cobre o cartão; sem ela, a capa desenhada, como em /receitas. O artigo
+// segue a regra dos cartões (cardImage.ts).
+function recipeImage(recipe: Recipe): SearchCardImage | undefined {
+  const image = getRecipeOwnImage(recipe);
+  return image ? { src: resolveMediaUrl(image), fit: 'cover' } : undefined;
 }
 
 function reviewImage(review: Review): SearchCardImage | undefined {
@@ -58,6 +62,7 @@ export function createSearchPage({ recipes: recipeList, reviews }: SearchSource)
     return (getRankedSearchResults(index, query) as IndexItem[]).map((result) => {
       const recipe = result.contentType === 'recipe' ? recipeById.get(result.id) : undefined;
       const review = result.contentType === 'review' ? reviewById.get(result.id) : undefined;
+      const image = recipe ? recipeImage(recipe) : review ? reviewImage(review) : undefined;
       return {
         key: `${result.contentType}:${result.id}`,
         href: result.href,
@@ -65,7 +70,10 @@ export function createSearchPage({ recipes: recipeList, reviews }: SearchSource)
         description: result.description,
         typeLabel: getSearchContentTypeLabel(result.contentType),
         category: result.category,
-        image: recipe ? recipeImage(recipe) : review ? reviewImage(review) : undefined,
+        image,
+        ...(recipe && !image
+          ? { recipeCover: { primaryCategory: recipe.primaryCategory, subCategory: recipe.subCategory } }
+          : {}),
       };
     });
   };

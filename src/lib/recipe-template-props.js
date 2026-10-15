@@ -1,7 +1,7 @@
 // Constrói as props do RecipeNotebookTemplate a partir de uma Recipe.
 // Fonte única do mapeamento: usada pela página /receitas/[slug] E pelo /preview
 // (que renderiza rascunhos da central com os MESMOS componentes de produção).
-import { getCategorySlug, getRecipeImage, getRecipeImageAlt, getRecipePrimaryCategory, getRecipeCuisine } from '@/lib/data';
+import { getCategorySlug, getRecipeImageAlt, getRecipeOwnImage, getRecipePrimaryCategory, getRecipeCuisine } from '@/lib/data';
 import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib/content';
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { buildYoutubeVideoObject } from '@/lib/video-schema';
@@ -19,6 +19,41 @@ function convertToISO8601(timeStr) {
   if (minutesMatch) iso += `${minutesMatch[1]}M`;
 
   return iso === 'PT' ? undefined : iso;
+}
+
+const SITE_URL = 'https://emcasacomcecilia.com';
+
+function absoluteMediaUrl(path) {
+  return new URL(resolveMediaUrl(path), SITE_URL).toString();
+}
+
+// O <head> da página da receita. Sem foto própria, não há og:image nem imagem no cartão do X (que vira o
+// "summary"): a foto de outro prato não representa a receita.
+export function buildRecipeMetadata(recipe) {
+  const url = `${SITE_URL}/receitas/${recipe.slug}`;
+  const image = getRecipeOwnImage(recipe);
+  const imageUrl = image ? absoluteMediaUrl(image) : undefined;
+
+  return {
+    title: `${recipe.title} - Em Casa com Cecília`,
+    description: recipe.description,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      title: recipe.title,
+      description: recipe.description,
+      url,
+      type: 'article',
+      ...(imageUrl && { images: [{ url: imageUrl, width: 1200, height: 630, alt: recipe.title }] }),
+    },
+    twitter: {
+      card: imageUrl ? 'summary_large_image' : 'summary',
+      title: recipe.title,
+      description: recipe.description,
+      ...(imageUrl && { images: [imageUrl] }),
+    },
+  };
 }
 
 function getRecipeTaxonomyChips(recipe) {
@@ -95,10 +130,11 @@ export function buildRecipeTemplateProps(recipe) {
     schemaInstructions,
   } = viewModel;
 
-  const recipeImage = getRecipeImage(recipe);
-  const recipeImageAlt = getRecipeImageAlt(recipe);
+  // Sem foto própria, recipeImage fica undefined: a página não mostra foto no topo e o JSON-LD sai sem image.
+  const recipeImage = getRecipeOwnImage(recipe);
+  const recipeImageAlt = recipeImage ? getRecipeImageAlt(recipe) : undefined;
   const recipeCategory = getRecipePrimaryCategory(recipe);
-  const baseUrl = 'https://emcasacomcecilia.com';
+  const baseUrl = SITE_URL;
   const taxonomyChips = getRecipeTaxonomyChips(recipe);
   const youtubeEmbedUrl = getYoutubeEmbedUrl(recipe.youtubeUrl);
   const videoPageUrl = getVideoPageUrl(getVideoPageForYoutubeUrl(recipe.youtubeUrl));
@@ -125,7 +161,7 @@ export function buildRecipeTemplateProps(recipe) {
     '@context': 'https://schema.org/',
     '@type': 'Recipe',
     name: recipe.title,
-    image: [new URL(resolveMediaUrl(recipeImage), baseUrl).toString()],
+    ...(recipeImage && { image: [absoluteMediaUrl(recipeImage)] }),
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `${baseUrl}/receitas/${recipe.slug}`,

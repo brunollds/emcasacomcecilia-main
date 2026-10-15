@@ -3,6 +3,7 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Search, X, ArrowRight } from 'lucide-react';
+import { formatRecipeTime } from '@/lib/recipeTime';
 import {
   SITE_SEARCH_PATH,
   getRankedSearchResults,
@@ -228,7 +229,7 @@ export default function OmniSearch({
                       {[
                         getSearchContentTypeLabel(result.contentType),
                         result.category,
-                        result.totalTime,
+                        result.totalTime && formatRecipeTime(result.totalTime),
                         result.difficulty,
                       ].filter(Boolean).join(' · ')}
                     </p>

@@ -5,7 +5,9 @@ import { useMemo, useState } from 'react';
 import { usePathname, useSearchParams } from 'next/navigation';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
-import { ArrowRight, ChefHat, ChevronDown, Clock, Leaf, SlidersHorizontal, X } from 'lucide-react';
+import { ArrowRight, ChefHat, ChevronDown, Clock, SlidersHorizontal, X } from 'lucide-react';
+import { RecipeCover } from '@/components/recipe/RecipeCover';
+import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
 import {
   COLLECTIONS,
   CUISINES,
@@ -299,43 +301,43 @@ function RecipeResultsGrid({ items }) {
           >
             <article className="transition-all duration-500 group-hover:-translate-y-2">
               <div
-                className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
+                className="relative mb-3 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:mb-4"
                 style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(receita.slug)}` }}
               >
-                <Image
-                  src={resolveMediaUrl(receita.image)}
-                  alt={receita.imageAlt}
-                  fill
-                  className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"
-                  sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-                />
-
-                <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/10" />
-                <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80" />
-
-                <div className="absolute left-4 top-4">
-                  <span className="inline-flex rounded-full bg-white/95 px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e] shadow-md">
-                    {receita.displayCategory}
-                  </span>
-                </div>
-
-                <div className="absolute bottom-5 left-5 right-5 flex items-center gap-4 text-xs font-bold uppercase tracking-widest text-white">
-                  <div className="flex items-center gap-1.5">
-                    <Clock className="h-3.5 w-3.5 text-[#ffd700]" />
-                    {receita.totalTime}
-                  </div>
-                  <div className="h-3 w-px bg-white/30" />
-                  <div className="flex items-center gap-1.5">
-                    <ChefHat className="h-3.5 w-3.5 text-[#ff6b35]" />
-                    {receita.difficulty}
-                  </div>
-                </div>
+                {receita.image ? (
+                  <>
+                    <Image
+                      src={resolveMediaUrl(receita.image)}
+                      alt={receita.imageAlt}
+                      fill
+                      className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+                      sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
+                    />
+                    <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/10" />
+                  </>
+                ) : (
+                  <RecipeCover recipe={receita} />
+                )}
               </div>
 
-              <div className="px-2">
-                <h3 className="font-heading text-lg font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] md:text-xl">
+              {/* Categoria, título e, numa linha embaixo, tempo e dificuldade: nada escrito sobre a foto. */}
+              <div className="px-1 md:px-2">
+                <p className="text-[11px] font-bold uppercase tracking-[0.12em] text-[#1a4d2e]/70 md:text-xs">
+                  {receita.displayCategory}
+                </p>
+                <h3 className="mt-1 font-heading text-base font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] md:text-xl">
                   {receita.title}
                 </h3>
+                <p className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-semibold text-[#0f1419]/75 md:text-sm">
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <Clock className="h-3.5 w-3.5 text-[#ff6b35]" aria-hidden="true" />
+                    {receita.totalTimeLabel}
+                  </span>
+                  <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                    <ChefHat className="h-3.5 w-3.5 text-[#ff6b35]" aria-hidden="true" />
+                    {receita.difficulty}
+                  </span>
+                </p>
                 <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
               </div>
             </article>
@@ -677,34 +679,9 @@ export default function ReceitasClientPage({ recipes }) {
   );
 
   return (
-    <main className="min-h-screen bg-[#fef9f3]">
-      <section className="relative overflow-hidden border-b border-black/5 bg-[#0f1d3a] px-6 py-10 text-white md:py-12">
-        <div className="pointer-events-none absolute inset-0 overflow-hidden select-none">
-          <div className="absolute left-[8%] top-[14%] text-white/6 animate-float-slow">
-            <Leaf size={118} strokeWidth={1} />
-          </div>
-          <div className="absolute right-[10%] top-[22%] text-white/5 animate-float">
-            <Leaf size={82} strokeWidth={1} className="rotate-12" />
-          </div>
-          <div className="absolute left-[18%] bottom-[8%] text-white/5 animate-float">
-            <Leaf size={92} strokeWidth={0.9} className="-rotate-12" />
-          </div>
-          <div className="absolute bottom-[12%] right-[16%] text-white/6 animate-float-slow">
-            <Leaf size={136} strokeWidth={0.85} className="rotate-45" />
-          </div>
-        </div>
-
-        <div className="mx-auto max-w-7xl">
-          <div className="mx-auto max-w-3xl text-center animate-slide-up">
-            <h1 className="font-heading text-4xl font-bold md:text-5xl">
-              Receitas
-            </h1>
-          </div>
-        </div>
-      </section>
-
-      <section className="px-6 py-8 md:py-10">
-        <div className="mx-auto max-w-7xl">
+    <div>
+      <section className="pb-16 md:pb-20">
+        <div className={SHELF_CONTAINER}>
           <div className="mb-6 flex items-center justify-between gap-4 lg:hidden">
             <button
               type="button"
@@ -907,6 +884,6 @@ export default function ReceitasClientPage({ recipes }) {
           </div>
         </div>
       </section>
-    </main>
+    </div>
   );
 }

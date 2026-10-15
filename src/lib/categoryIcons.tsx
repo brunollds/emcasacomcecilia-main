@@ -27,7 +27,9 @@ import {
   Tree,
   WaveSine,
   Wine,
-} from '@phosphor-icons/react';
+} from '@phosphor-icons/react/ssr';
+// A versão /ssr não lê o IconContext (ninguém o usa) e roda também em componente servidor: a capa das
+// receitas sem foto (RecipeCover) aparece na home e no /buscar, que são servidor.
 import { PRIMARY_CATEGORIES } from '@/constants/taxonomia';
 
 const phosphorIcons = {
@@ -294,6 +296,11 @@ const emojiIcons = {
   'Para Dois': '💞',
   'Receita Clássica': '⭐',
 };
+
+// Só o traço (sem emoji), para a capa desenhada das receitas sem foto.
+export function getCategoryLineIcon(name: string | undefined) {
+  return name ? phosphorIcons[name] : undefined;
+}
 
 export function getCategoryIconSpec(name) {
   if (emojiIcons[name]) {

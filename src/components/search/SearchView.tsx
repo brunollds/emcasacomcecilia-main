@@ -1,6 +1,7 @@
 import type { ReactNode } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { RecipeCover } from '@/components/recipe/RecipeCover';
 import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { PageHeader } from '@/components/ui/PageHeader';
@@ -23,6 +24,8 @@ function ResultCard({ card }: { card: SearchCard }) {
       <span className="relative block aspect-[16/10] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme">
         {card.image && look ? (
           <Image src={card.image.src} alt="" fill sizes={IMAGE_SIZES} className={look.className} style={look.style} />
+        ) : card.recipeCover ? (
+          <RecipeCover recipe={card.recipeCover} />
         ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-4">
