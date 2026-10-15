@@ -136,6 +136,11 @@ for (const loader of ['Analytics.js', 'Clarity.js']) {
 // O aviso fica no shell de todo idioma e o rodapé tem o link para reabri-lo.
 assert.match(readFileSync(path.join('src', 'components', 'RootLayoutShell.tsx'), 'utf8'), /<ConsentBanner copy=\{getConsentCopy\(loc\)\} \/>/);
 assert.match(readFileSync(path.join('src', 'components', 'Footer.js'), 'utf8'), /onClick=\{openConsentPreferences\}/);
+// Sem aceite, toda página abre apagando os cookies das duas ferramentas (o GA4 regrava o _ga_<id> depois da recusa).
+assert.match(
+  readFileSync(path.join('src', 'components', 'ConsentBanner.tsx'), 'utf8'),
+  /if \(consent !== 'granted'\) clearTrackingCookies\(\);/
+);
 
 // Textos do aviso: os 10 idiomas, nada vazio e, fora do PT, nada igual ao português.
 assert.deepEqual(Object.keys(CONSENT_COPY).sort(), [...LOCALE_KEYS].sort());

@@ -38,6 +38,12 @@ export default function ConsentBanner({ copy }: { copy: ConsentCopy }) {
     []
   );
 
+  // Sem aceite, a página abre sem os cookies do GA4 e do Clarity. Apagar só no clique não basta: o GA4
+  // regrava o _ga_<id> quando a página sai, depois da recusa. Também limpa os de antes do aviso existir.
+  useEffect(() => {
+    if (consent !== 'granted') clearTrackingCookies();
+  }, [consent]);
+
   // Aberto pelo rodapé, o foco entra no aviso; no primeiro carregamento, o foco fica onde está.
   useEffect(() => {
     if (openRequest > 0) regionRef.current?.focus();
