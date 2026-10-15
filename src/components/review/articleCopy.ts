@@ -1,6 +1,7 @@
 import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
 import type { ReviewVideoLabels } from './ReviewLoopVideo';
 import type { Recommendation, ReviewKind } from '@/lib/content';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import type { CouponCopyLocale } from './couponCopyLocale';
 
@@ -50,6 +51,19 @@ export type ArticleCopy = {
   // Rótulos das regras do bloco da loja; neutros, porque o código pode ser de recompensa ou de indicação.
   ruleTestedLabel: string;
   ruleVerifiedLabel: string;
+  // Sob o recorte depois de copiar. A recompensa vai no campo Reward Code; a indicação não se cola no
+  // checkout, pesquisa-se no aplicativo (o mesmo texto do inlineReferral, em couponCopyLocale.ts).
+  copiedHint: (brand: string, kind?: CouponCodeKind) => string;
+  // Bloco da loja no fim do artigo.
+  storeBlockTitle: (brand: string) => string;
+  allRules: string;
+  allStoreArticles: (count: number, brand: string) => string;
+  // Caixa da Cecília no fim do artigo, com as frases que a home de cada idioma já usa.
+  authorBoxTitle: string;
+  authorBoxBody: string;
+  authorBoxLink: string;
+  // Abre a nota de transparência do topo, que fica numa linha.
+  disclosureMore: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -89,6 +103,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'Você está em',
     ruleTestedLabel: 'Testado em',
     ruleVerifiedLabel: 'Conferido em',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Copiado. Agora é só colar no campo Reward Code da ${brand}.`
+        : kind === 'referral'
+          ? `Copiado. Agora pesquise o código de indicação no aplicativo ${brand}.`
+          : `Copiado. Agora é só colar no checkout da ${brand}.`,
+    storeBlockTitle: (brand) => `Sua compra na ${brand}`,
+    allRules: 'Ver todas as regras',
+    allStoreArticles: (count, brand) => `Todos os ${count} artigos da ${brand}`,
+    authorBoxTitle: 'Oi, eu sou a Cecília',
+    authorBoxBody: 'Conto o que testo em casa e trago os códigos das lojas parceiras.',
+    authorBoxLink: 'Conheça a Cecília',
+    disclosureMore: 'Ler mais',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -126,6 +153,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'You are here',
     ruleTestedLabel: 'Tested on',
     ruleVerifiedLabel: 'Checked on',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Copied. Now just paste it in the Reward Code field at ${brand}.`
+        : kind === 'referral'
+          ? `Copied. Now search the ${brand} Brazil referral code in the ${brand} app.`
+          : `Copied. Now just paste it at the ${brand} checkout.`,
+    storeBlockTitle: (brand) => `Shopping at ${brand}`,
+    allRules: 'See all the rules',
+    allStoreArticles: (count, brand) => `All ${count} ${brand} articles`,
+    authorBoxTitle: 'Hi, I’m Cecília',
+    authorBoxBody: 'I share what I try at home and the codes from the stores I partner with.',
+    authorBoxLink: 'Meet Cecília',
+    disclosureMore: 'Read more',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -163,6 +203,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'Estás en',
     ruleTestedLabel: 'Probado el',
     ruleVerifiedLabel: 'Comprobado el',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Copiado. Ahora solo pégalo en el campo Reward Code de ${brand}.`
+        : kind === 'referral'
+          ? `Copiado. Ahora busca el código de referido de ${brand} Brasil en la app de ${brand}.`
+          : `Copiado. Ahora solo pégalo al finalizar la compra en ${brand}.`,
+    storeBlockTitle: (brand) => `Tu compra en ${brand}`,
+    allRules: 'Ver todas las reglas',
+    allStoreArticles: (count, brand) => `Los ${count} artículos de ${brand}`,
+    authorBoxTitle: 'Hola, soy Cecília',
+    authorBoxBody: 'Comparto lo que pruebo en casa y los códigos de las tiendas con las que colaboro.',
+    authorBoxLink: 'Conoce a Cecília',
+    disclosureMore: 'Leer más',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -200,6 +253,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'Vous êtes ici',
     ruleTestedLabel: 'Testé le',
     ruleVerifiedLabel: 'Vérifié le',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Copié. Il ne reste qu’à le coller dans le champ Reward Code de ${brand}.`
+        : kind === 'referral'
+          ? `Copié. Recherchez maintenant le code de parrainage ${brand} Brésil dans l’appli ${brand}.`
+          : `Copié. Il ne reste qu’à le coller au paiement sur ${brand}.`,
+    storeBlockTitle: (brand) => `Votre achat chez ${brand}`,
+    allRules: 'Voir toutes les conditions',
+    allStoreArticles: (count, brand) => `Les ${count} articles sur ${brand}`,
+    authorBoxTitle: 'Bonjour, je suis Cecília',
+    authorBoxBody: 'Je partage ce que je teste chez moi et les codes des boutiques avec lesquelles je travaille.',
+    authorBoxLink: 'Découvrir Cecília',
+    disclosureMore: 'Lire la suite',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -237,6 +303,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'Du bist hier',
     ruleTestedLabel: 'Getestet am',
     ruleVerifiedLabel: 'Geprüft am',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Kopiert. Jetzt nur noch bei ${brand} ins Feld Reward Code einfügen.`
+        : kind === 'referral'
+          ? `Kopiert. Suche jetzt den Empfehlungscode von ${brand} Brasilien in der ${brand}-App.`
+          : `Kopiert. Jetzt nur noch an der ${brand}-Kasse einfügen.`,
+    storeBlockTitle: (brand) => `Dein Einkauf bei ${brand}`,
+    allRules: 'Alle Bedingungen ansehen',
+    allStoreArticles: (count, brand) => `Alle ${count} Artikel zu ${brand}`,
+    authorBoxTitle: 'Hallo, ich bin Cecília',
+    authorBoxBody: 'Ich teile, was ich zu Hause ausprobiere, und die Codes der Shops, mit denen ich zusammenarbeite.',
+    authorBoxLink: 'Cecília kennenlernen',
+    disclosureMore: 'Mehr lesen',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -274,6 +353,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: 'Sei qui',
     ruleTestedLabel: 'Testato il',
     ruleVerifiedLabel: 'Verificato il',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `Copiato. Ora basta incollarlo nel campo Reward Code di ${brand}.`
+        : kind === 'referral'
+          ? `Copiato. Ora cerca il codice invito ${brand} Brasile nell’app ${brand}.`
+          : `Copiato. Ora basta incollarlo al checkout di ${brand}.`,
+    storeBlockTitle: (brand) => `Il tuo acquisto su ${brand}`,
+    allRules: 'Vedi tutte le regole',
+    allStoreArticles: (count, brand) => `Tutti i ${count} articoli su ${brand}`,
+    authorBoxTitle: 'Ciao, sono Cecília',
+    authorBoxBody: 'Condivido quello che provo a casa e i codici dei negozi con cui collaboro.',
+    authorBoxLink: 'Conosci Cecília',
+    disclosureMore: 'Leggi di più',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -311,6 +403,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: '현재 위치',
     ruleTestedLabel: '테스트일',
     ruleVerifiedLabel: '확인일',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `복사했어요. 이제 ${brand}의 Reward Code 입력란에 붙여 넣으세요.`
+        : kind === 'referral'
+          ? `복사했어요. 이제 ${brand} 앱에서 ${brand} 브라질 추천 코드를 검색하세요.`
+          : `복사했어요. 이제 ${brand} 결제 화면에 붙여 넣으세요.`,
+    storeBlockTitle: (brand) => `${brand}에서 쇼핑할 때`,
+    allRules: '모든 조건 보기',
+    allStoreArticles: (count, brand) => `${brand} 관련 글 ${count}편 모두 보기`,
+    authorBoxTitle: '안녕하세요, Cecília예요',
+    authorBoxBody: '집에서 직접 써 본 것과 함께하는 스토어의 코드를 소개해요.',
+    authorBoxLink: 'Cecília 더 알아보기',
+    disclosureMore: '더 보기',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -348,6 +453,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: '現在位置',
     ruleTestedLabel: 'テスト日',
     ruleVerifiedLabel: '確認日',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `コピーしました。あとは ${brand} の Reward Code 欄に貼り付けるだけです。`
+        : kind === 'referral'
+          ? `コピーしました。${brand} アプリで ${brand} ブラジルの紹介コードを検索してください。`
+          : `コピーしました。あとは ${brand} の決済画面に貼り付けるだけです。`,
+    storeBlockTitle: (brand) => `${brand} でのお買い物`,
+    allRules: '条件をすべて見る',
+    allStoreArticles: (count, brand) => `${brand} の記事 ${count} 本をすべて見る`,
+    authorBoxTitle: 'こんにちは、Cecíliaです',
+    authorBoxBody: '家で試したものと、提携ショップのコードを紹介しています。',
+    authorBoxLink: 'Cecíliaについて',
+    disclosureMore: '続きを読む',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -385,6 +503,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: '目前位置',
     ruleTestedLabel: '測試日期',
     ruleVerifiedLabel: '核實日期',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `已複製。接著貼到 ${brand} 的 Reward Code 欄位即可。`
+        : kind === 'referral'
+          ? `已複製。請在 ${brand} App 搜尋 ${brand} 巴西站推薦碼。`
+          : `已複製。接著在 ${brand} 結帳時貼上即可。`,
+    storeBlockTitle: (brand) => `在 ${brand} 購物`,
+    allRules: '查看全部規則',
+    allStoreArticles: (count, brand) => `${brand} 的全部 ${count} 篇文章`,
+    authorBoxTitle: '你好，我是 Cecília',
+    authorBoxBody: '我分享在家試過的東西，以及合作商店的代碼。',
+    authorBoxLink: '認識 Cecília',
+    disclosureMore: '閱讀全文',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -422,6 +553,19 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     breadcrumbLabel: '当前位置',
     ruleTestedLabel: '测试日期',
     ruleVerifiedLabel: '核实日期',
+    copiedHint: (brand, kind) =>
+      kind === 'reward'
+        ? `已复制。接着粘贴到 ${brand} 的 Reward Code 栏位即可。`
+        : kind === 'referral'
+          ? `已复制。请在 ${brand} App 中搜索 ${brand} 巴西站推荐码。`
+          : `已复制。接着在 ${brand} 结账时粘贴即可。`,
+    storeBlockTitle: (brand) => `在 ${brand} 购物`,
+    allRules: '查看全部规则',
+    allStoreArticles: (count, brand) => `${brand} 的全部 ${count} 篇文章`,
+    authorBoxTitle: '你好，我是 Cecília',
+    authorBoxBody: '我分享在家试过的东西，以及合作商店的代码。',
+    authorBoxLink: '认识 Cecília',
+    disclosureMore: '阅读全文',
   },
 };
 

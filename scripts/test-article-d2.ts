@@ -107,4 +107,37 @@ assert.deepEqual(plain.rules, []);
 assert.equal(plain.articlesHref, undefined);
 assert.ok(!/br\.shein\.com/.test(plain.storeHref ?? ''));
 
-console.log('✅ artigo D2: relacionados e bloco da loja');
+// Textos novos do artigo: nos 10 idiomas, sem campo vazio e, fora do PT, diferentes dos do PT.
+const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
+  const c = getArticleCopy(loc);
+  return {
+    copiedHint: c.copiedHint('Damie'),
+    copiedHintReward: c.copiedHint('YesStyle', 'reward'),
+    copiedHintReferral: c.copiedHint('SHEIN', 'referral'),
+    storeBlockTitle: c.storeBlockTitle('Damie'),
+    allRules: c.allRules,
+    allStoreArticles: c.allStoreArticles(12, 'Damie'),
+    authorBoxTitle: c.authorBoxTitle,
+    authorBoxBody: c.authorBoxBody,
+    authorBoxLink: c.authorBoxLink,
+    disclosureMore: c.disclosureMore,
+  };
+};
+const ptTexts = newTexts('pt');
+assert.equal(ptTexts.copiedHint, 'Copiado. Agora é só colar no checkout da Damie.');
+assert.ok(ptTexts.copiedHintReward.includes('Reward Code da YesStyle'), ptTexts.copiedHintReward);
+for (const loc of LOCALE_KEYS) {
+  const texts = newTexts(loc);
+  for (const [field, text] of Object.entries(texts)) {
+    assert.ok(text.trim(), `${loc}: ${field} vazio`);
+    assert.ok(!/\s{2,}/.test(text), `${loc}: ${field} com espaço duplo`);
+    if (loc !== 'pt') assert.notEqual(text, ptTexts[field as keyof typeof ptTexts], `${loc}: ${field} igual ao PT`);
+  }
+  // Recompensa vai no campo Reward Code; indicação não se cola no checkout: os três textos diferem.
+  assert.equal(new Set([texts.copiedHint, texts.copiedHintReward, texts.copiedHintReferral]).size, 3, `${loc}: copiedHint igual nos três tipos`);
+  assert.ok(texts.copiedHintReward.includes('Reward Code'), `${loc}: recompensa sem o campo Reward Code`);
+  assert.ok(texts.copiedHintReferral.includes('SHEIN'), `${loc}: indicação sem a loja`);
+  assert.ok(texts.allStoreArticles.includes('12'), `${loc}: contagem fora do texto`);
+}
+
+console.log('✅ artigo D2: relacionados, bloco da loja, textos novos');

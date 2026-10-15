@@ -16,6 +16,9 @@ export type CopyPlacement =
   | 'coupon_hub_featured'
   | 'bottom_bar'
   | 'review_sidebar'
+  // Recorte do topo do artigo e bloco da loja no fim dele.
+  | 'review_top'
+  | 'review_end'
   | 'review_mobile_dock'
   | 'review_mobile_drawer'
   // Recorte do código na vitrine da home.
