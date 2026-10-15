@@ -628,6 +628,27 @@ html:lang(ja) {
   background-size: 100% 78%;
 }
 
+/* Artigos (D2): o mesmo destaque, pintado desde o HTML. Só com o movimento liberado o useScrollReveal o
+   apaga abaixo da tela (data-reveal="pending") e ele se pinta quando a rolagem chega (done). */
+.marca-codigo {
+  display: inline;
+  background-image: linear-gradient(120deg, rgba(255, 210, 63, 0.55) 0%, rgba(255, 210, 63, 0.55) 100%);
+  background-repeat: no-repeat;
+  background-position: 0 88%;
+  background-size: 100% 78%;
+  border-radius: 0.125rem;
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .marca-codigo[data-reveal='pending'] {
+    background-size: 0% 78%;
+  }
+
+  .marca-codigo[data-reveal='done'] {
+    transition: background-size 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .editorial-ambient-bg::before {
     animation: none;

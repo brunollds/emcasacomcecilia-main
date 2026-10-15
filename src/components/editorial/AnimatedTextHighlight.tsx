@@ -1,6 +1,7 @@
 'use client';
 
 import { Fragment, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
+import { useScrollReveal } from '@/components/ui/RevealSection';
 import { splitInlineMarkdown } from '@/lib/inlineMarkdown';
 
 const DEFAULT_TERMS = ['CECILIA12'];
@@ -24,6 +25,18 @@ function escapeRegExp(value: string): string {
 interface AnimatedHighlightProps {
   children: React.ReactNode;
   className?: string;
+}
+
+// Nos artigos (d2), o código vem pintado do servidor; com o movimento liberado, o que está abaixo da tela ao
+// abrir se pinta quando a rolagem chega nele (.marca-codigo no globals.css).
+function MarcaCodigo({ children, className = '' }: AnimatedHighlightProps): React.ReactElement {
+  const ref = useRef<HTMLSpanElement>(null);
+  useScrollReveal(ref);
+  return (
+    <span ref={ref} className={`marca-codigo ${className}`.trim()}>
+      {children}
+    </span>
+  );
 }
 
 function AnimatedHighlight({ children, className = '' }: AnimatedHighlightProps): React.ReactElement {
@@ -81,14 +94,14 @@ function HighlightedText({
   className,
   keyPrefix,
   renderTerm,
-  highlightAlone,
+  variant,
 }: {
   text: string;
   activeTerms: string[];
   className: string;
   keyPrefix: string;
   renderTerm?: AnimatedTextHighlightProps['renderTerm'];
-  highlightAlone: boolean;
+  variant: keyof typeof INLINE_STYLES;
 }): React.ReactElement {
   if (activeTerms.length === 0) return <>{text}</>;
   // Só a palavra inteira: CECI não deve acender dentro de EMCASACOMCECILIA.
@@ -98,13 +111,14 @@ function HighlightedText({
   );
   const parts = text.split(pattern).filter((part) => part.length > 0);
   // Nos artigos (d2), um termo sozinho (o negrito **CECILIA10**) também acende; nas receitas segue como sempre foi.
-  if (parts.length === 1 && !(highlightAlone && activeTerms.includes(parts[0]))) return <>{text}</>;
+  if (parts.length === 1 && !(variant === 'd2' && activeTerms.includes(parts[0]))) return <>{text}</>;
+  const Highlight = variant === 'd2' ? MarcaCodigo : AnimatedHighlight;
 
   return (
     <>
       {parts.map((part, index) => {
         if (!activeTerms.includes(part)) return <span key={`${keyPrefix}-${index}`}>{part}</span>;
-        const highlighted = <AnimatedHighlight className={className}>{part}</AnimatedHighlight>;
+        const highlighted = <Highlight className={className}>{part}</Highlight>;
         return <Fragment key={`${keyPrefix}-${index}`}>{renderTerm ? renderTerm(part, highlighted) : highlighted}</Fragment>;
       })}
     </>
@@ -143,7 +157,7 @@ export function AnimatedTextHighlight({
                 activeTerms={activeTerms}
                 className={className}
                 keyPrefix={`link-text-${index}`}
-                highlightAlone={variant === 'd2'}
+                variant={variant}
               />
             </a>
           );
@@ -156,7 +170,7 @@ export function AnimatedTextHighlight({
                 activeTerms={activeTerms}
                 className={className}
                 keyPrefix={`bold-text-${index}`}
-                highlightAlone={variant === 'd2'}
+                variant={variant}
                 renderTerm={renderTerm}
               />
             </strong>
@@ -169,7 +183,7 @@ export function AnimatedTextHighlight({
             activeTerms={activeTerms}
             className={className}
             keyPrefix={`seg-${index}`}
-            highlightAlone={variant === 'd2'}
+            variant={variant}
             renderTerm={renderTerm}
           />
         );

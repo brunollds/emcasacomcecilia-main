@@ -972,6 +972,8 @@ function articleBodyProblems(body: string): string[] {
     const [region] = regions;
     problems.push(...[...new Set(region.match(OLD_ARTICLE_COLORS) ?? [])].map((hex) => `cor antiga ${hex} no ${part}`));
     if (part === 'corpo' && !/<section\b/.test(region)) problems.push('corpo sem nenhuma seção');
+    // O código destacado no texto é o marca-codigo, já pintado no HTML; o coupon-highlight das receitas sai em 0%.
+    if (part === 'corpo' && /\sclass="[^"]*(?<![\w-])coupon-highlight(?![\w-])/.test(region)) problems.push('destaque das receitas (coupon-highlight) no corpo');
     if (part === 'topo' && !/<h1\b/.test(region)) problems.push('topo sem o título');
     // Movimento só com o movimento liberado (motion-safe:). Animação sem essa guarda fica de fora, como a
     // pulse-respiro, que pulsava em laranja sem parar.
@@ -998,6 +1000,8 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace('border-marinho">EN', 'border-[#1a4d2e]/10">EN')), [], 'cor antiga no topo passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h1>', '<h1 class="animate-bounce">')), [], 'animação sem guarda no topo passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h1>T</h1>', '')), [], 'topo sem título passou');
+  assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>A</h2>', '<h2>A</h2><p><span class="coupon-highlight ">X1</span></p>')), [], 'destaque das receitas no corpo passou');
+  assert.deepEqual(articleBodyProblems(ok.replace('<h2>A</h2>', '<h2>A</h2><p><span class="marca-codigo">X1</span></p>')), [], 'marca-codigo barrado');
 }
 
 // O código da loja do artigo citado no texto do corpo copia ao toque: um <span data-copy-code> com o botão de
@@ -1263,6 +1267,7 @@ let notedArticles = 0;
 let faqArticles = 0;
 let cutoutArticles = 0;
 let cutoutStoreLinks = 0;
+let codeHighlightArticles = 0;
 let sidebarCutoutArticles = 0;
 let inlineCopyArticles = 0;
 let endStoreBlocks = 0;
@@ -1284,6 +1289,8 @@ for (const url of articleUrls) {
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
   assertCeciliaAuthorId(personNodesChecked.artigo, pagePath, html);
   assert.deepEqual(articleBodyProblems(body), [], `${pagePath}: corpo do artigo fora do visual da D2`);
+  const articleCorpo = elementAt(body, body.search(/<[a-zA-Z][\w-]*\s[^>]*\bdata-article="corpo"/));
+  if (/\sclass="[^"]*(?<![\w-])marca-codigo(?![\w-])/.test(articleCorpo)) codeHighlightArticles++;
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
   assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
@@ -1548,6 +1555,7 @@ for (const url of articleUrls) {
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 assert.ok(cutoutArticles > 0, 'nenhum artigo com o recorte do topo');
+assert.ok(codeHighlightArticles > 0, 'nenhum artigo com o código destacado (marca-codigo) no corpo');
 assert.ok(cutoutStoreLinks >= cutoutArticles * 3, `só ${cutoutStoreLinks} links da loja nos recortes de ${cutoutArticles} artigos`);
 assert.equal(sidebarCutoutArticles, cutoutArticles, 'recorte da lateral e recorte do topo em artigos diferentes');
 assert.ok(inlineCopyArticles > 0, 'nenhum artigo cita o código da loja no corpo');
