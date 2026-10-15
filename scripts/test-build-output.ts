@@ -906,7 +906,7 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   const texts = cutout.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean);
   const uiOf = (lang: Locale) => [
     block.code ? getCodeTitle(getSidebarCopy(lang), block.codeKind, block.brand) : block.brand,
-    ...(block.code ? [getCouponCopyLabels(lang).copy, getArticleCopy(lang).copiedHint(block.brand, block.codeKind)] : []),
+    ...(block.code ? [getCouponCopyLabels(lang).copy, getArticleCopy(lang).copiedHint(block, block.codeKind)] : []),
   ];
   const own = uiOf(locale);
   const problems = own.filter((text) => !texts.includes(text)).map((text) => `falta "${text}"`);
@@ -926,7 +926,7 @@ function cutoutProblems(cutout: string, locale: Locale, block: ArticleStoreBlock
   const block: ArticleStoreBlock = { brand: 'YesStyle', slug: 'yesstyle', code: 'CECILIA010', codeKind: 'reward', rules: [], storeSponsored: true };
   const html = (lang: Locale) =>
     `<section id="cupom-artigo"><p>${getCodeTitle(getSidebarCopy(lang), 'reward', 'YesStyle')}</p><code>CECILIA010</code>` +
-    `<button data-copied="false">${getCouponCopyLabels(lang).copy}</button><p>${getArticleCopy(lang).copiedHint('YesStyle', 'reward')}</p></section>`;
+    `<button data-copied="false">${getCouponCopyLabels(lang).copy}</button><p>${getArticleCopy(lang).copiedHint(block, 'reward')}</p></section>`;
   assert.deepEqual(cutoutProblems(html('en'), 'en', block), []);
   assert.deepEqual(cutoutProblems(html('pt'), 'pt', block), []);
   assert.notDeepEqual(cutoutProblems(html('pt'), 'en', block), [], 'recorte em português passou numa página em inglês');
@@ -1134,7 +1134,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     const block = expected.storeBlock;
     const texts = shownTextsOf(store.html);
     const hrefs = hrefsOf(store.html);
-    if (!texts.includes(copy.storeBlockTitle(block.brand))) problems.push(`bloco da loja sem "${copy.storeBlockTitle(block.brand)}"`);
+    if (!texts.includes(copy.storeBlockTitle(block))) problems.push(`bloco da loja sem "${copy.storeBlockTitle(block)}"`);
     const cutout = tagsWith(store.html, 'aria-label=').find(({ html }) => html.startsWith('<section'));
     if (!cutout) problems.push('bloco da loja sem o recorte');
     else problems.push(...cutoutProblems(cutout.html, expected.locale, block).map((problem) => `recorte do fim: ${problem}`));
@@ -1145,7 +1145,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (block.couponPageHref ? !hrefs.includes(block.couponPageHref) || !texts.includes(copy.allRules) : texts.includes(copy.allRules)) {
       problems.push('"Ver todas as regras" fora da regra');
     }
-    const allArticles = block.articleCount ? copy.allStoreArticles(block.articleCount, block.brand) : undefined;
+    const allArticles = block.articleCount ? copy.allStoreArticles(block.articleCount, block) : undefined;
     const storeArticleLinks = hrefs.filter((href) => href.startsWith('/reviews/loja/'));
     if (block.articlesHref ? !hrefs.includes(block.articlesHref) || !allArticles || !texts.includes(allArticles) : storeArticleLinks.length > 0) {
       problems.push('"Todos os N artigos" fora da regra');
@@ -1202,12 +1202,12 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   const pt = getArticleCopy('pt');
   const cutout =
     `<section aria-label="${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}" class="recorte"><p>${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}</p><code>CECILIA12</code>` +
-    `<button data-copied="false">${getCouponCopyLabels('pt').copy}</button><a href="https://damie.example/">Ir</a><p>${pt.copiedHint('Damie')}</p></section>`;
+    `<button data-copied="false">${getCouponCopyLabels('pt').copy}</button><a href="https://damie.example/">Ir</a><p>${pt.copiedHint(block)}</p></section>`;
   const end =
     `<section data-article="galeria"><h2><span class="marca-texto">${getGalleryCopy('pt').tabPhotos}</span></h2><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>` +
     '<section id="veredito"><div id="pros-e-contras"><ul data-lista="pros"><li>a</li><li>b</li></ul><ul data-lista="contras"><li>c</li></ul></div></section>' +
-    `<section id="loja"><h2>${pt.storeBlockTitle('Damie')}</h2>${cutout}<dl><dt>Vale para</dt><dd>Tudo</dd></dl>` +
-    `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, 'Damie')}</a></section>` +
+    `<section id="loja"><h2>${pt.storeBlockTitle(block)}</h2>${cutout}<dl><dt>Vale para</dt><dd>Tudo</dd></dl>` +
+    `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, block)}</a></section>` +
     `<section data-article="autora"><p>${pt.authorBoxTitle}</p><p>${pt.authorBoxBody}</p><a href="/sobre">${pt.authorBoxLink}</a></section>` +
     '<section data-article="relacionados"><ul data-relacionados-cartoes=""><li class="revela"><a href="/reviews/a">A</a></li><li class="revela"><a href="/reviews/b">B</a></li></ul>' +
     `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
