@@ -1,0 +1,76 @@
+import assert from 'node:assert/strict';
+import { pickRelatedReviews } from '@/lib/relatedReviews';
+import { getArticleStoreBlock, shortenRule } from '@/lib/articleStore';
+import { getCouponBySlug } from '@/lib/couponsData';
+import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
+import { getStoreCode } from '@/lib/homeStores';
+import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import { publishedReviews } from '@/lib/data';
+
+const mk = (id: number, o: Partial<{ locale: string; affiliate: string; category: string; type: string; publishedAtISO: string }>) =>
+  ({ id, slug: `a${id}`, publishedAtISO: '2026-10-01', ...o });
+const cur = mk(1, { affiliate: 'damie', category: 'produto', type: 'Review' });
+const corpus = [cur, mk(2, { affiliate: 'insider' , category: 'produto' }), mk(3, { affiliate: 'damie', category: 'guia' }),
+  mk(4, { category: 'produto', type: 'Review' }), mk(5, { locale: 'en', affiliate: 'damie' }), mk(6, { type: 'Review' }), mk(7, {})];
+assert.deepEqual(pickRelatedReviews(cur, corpus).map((r) => r.id), [3, 4, 2, 6, 7]);
+assert.ok(pickRelatedReviews(cur, corpus).every((r) => r.id !== 1 && r.locale !== 'en'));
+
+// Todo artigo publicado: até 6, mesmo idioma, os da mesma loja primeiro.
+for (const review of publishedReviews) {
+  const related = pickRelatedReviews(review, publishedReviews);
+  assert.ok(related.length <= 6 && !related.some((r) => r.id === review.id));
+  assert.ok(
+    related.every((r) => resolveReviewLocale(r.locale) === resolveReviewLocale(review.locale)),
+    `${review.slug}: relacionado de outro idioma`
+  );
+  const sameStore = related.map((r) => Boolean(review.affiliate) && r.affiliate === review.affiliate);
+  assert.deepEqual(sameStore, [...sameStore].sort((a, b) => Number(b) - Number(a)), `${review.slug}: mesma loja não veio primeiro`);
+}
+
+// Bloco da loja: Review Focus 1–3.
+for (const review of publishedReviews) {
+  const block = getArticleStoreBlock(review, (review.locale ?? 'pt') as never);
+  if (!review.affiliate) assert.equal(block, null, review.slug);
+  if (block && review.locale && review.locale !== 'pt') {
+    assert.ok(!block.couponPageHref?.startsWith('/cupons/'), `${review.slug}: link PT fora do PT`);
+    assert.equal(block.articlesHref, undefined);
+    const localized = isTranslatedLocale(review.locale) ? getLocalizedCoupon(review.affiliate!, review.locale) : undefined;
+    assert.equal(block.discount, block.code && block.code === getStoreCode(getCouponBySlug(review.affiliate!)!) ? localized?.discount : undefined, `${review.slug}: desconto em PT fora do PT`);
+    assert.ok(!/br\.shein\.com/.test(block.storeHref ?? ''), `${review.slug}: link da SHEIN Brasil fora do PT`);
+    assert.ok(block.rules.length === 0 || block.rules.every((r) => r.label && r.value));
+  }
+  if (block?.code === 'CECILIA010') assert.equal(block.codeKind, 'reward');
+}
+assert.equal(getArticleStoreBlock({ ...publishedReviews[0], affiliate: 'kopenhagen' } as never, 'pt'), null, 'loja pausada');
+assert.equal(getCouponBySlug('kopenhagen'), undefined, 'kopenhagen deveria estar pausada');
+assert.equal(getArticleStoreBlock({ ...publishedReviews[0], affiliate: 'loja-que-nao-existe' } as never, 'pt'), null);
+
+// Texto longo cortado na última palavra antes de 140, com reticências.
+assert.equal(shortenRule('Vale para tudo'), 'Vale para tudo');
+const exact = 'a'.repeat(140);
+assert.equal(shortenRule(exact), exact);
+const long = Array.from({ length: 40 }, (_, i) => `palavra${i}`).join(' ');
+assert.ok(long.length > 140);
+const cut = shortenRule(long);
+assert.ok(cut.length <= 141 && cut.endsWith('…'), cut);
+const body = cut.slice(0, -1);
+assert.ok(long.startsWith(body) && long[body.length] === ' ', `cortou palavra no meio: ${cut}`);
+assert.ok(!/\s$/.test(body));
+
+// Review Focus 2: o código do artigo difere do da loja, sem regras nem desconto; igual, com regras.
+const base = publishedReviews.find((r) => r.affiliate === 'damie' && !r.locale) ?? publishedReviews.find((r) => r.affiliate && !r.locale)!;
+const store = getCouponBySlug(base.affiliate!)!;
+const storeCode = store.offerMode === 'discount-code' ? store.code : store.referral?.code;
+assert.ok(storeCode, 'loja de teste sem código');
+const other = getArticleStoreBlock({ ...base, coupon: 'CODIGO-DE-CAMPANHA' } as never, 'pt')!;
+assert.equal(other.code, 'CODIGO-DE-CAMPANHA');
+assert.deepEqual(other.rules, []);
+assert.equal(other.discount, undefined);
+const same = getArticleStoreBlock({ ...base, coupon: storeCode } as never, 'pt')!;
+assert.equal(same.code, storeCode);
+assert.ok(same.rules.length > 0 && same.rules.length <= 3);
+assert.ok(same.rules.every((r) => r.value.length <= 141));
+assert.ok(same.discount);
+assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
+
+console.log('✅ artigo D2: relacionados e bloco da loja');

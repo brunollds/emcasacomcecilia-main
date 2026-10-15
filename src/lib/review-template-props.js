@@ -1,4 +1,6 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
+import { getArticleStoreBlock } from '@/lib/articleStore';
+import { pickRelatedReviews } from '@/lib/relatedReviews';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
@@ -23,16 +25,7 @@ import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown
 export { getYoutubeEmbedUrl };
 
 export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
-  const locale = resolveReviewLocale(review.locale);
-  return reviewCorpus
-    .filter((item) => item.id !== review.id && resolveReviewLocale(item.locale) === locale)
-    .sort((a, b) => {
-      const typeScore = Number(b.type === review.type) - Number(a.type === review.type);
-      const productScore = Number(Boolean(b.rating) === Boolean(review.rating)) - Number(Boolean(a.rating) === Boolean(review.rating));
-
-      return typeScore || productScore || b.id - a.id;
-    })
-    .slice(0, 3);
+  return pickRelatedReviews(review, reviewCorpus, 6);
 }
 
 /**
@@ -199,6 +192,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     jsonLd,
     faqJsonLd,
     relatedReviews,
+    storeBlock: getArticleStoreBlock(review, localeKey, review.cta?.url),
     relatedArticleLinks,
     localeKey,
   };
