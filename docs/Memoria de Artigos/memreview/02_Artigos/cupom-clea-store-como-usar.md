@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 68
 score_conversao: 88
@@ -237,3 +237,9 @@ FAQ:
 - Devolução grátis sempre (ver [[clea-store-e-confiavel]]). Mercado Livre não é citado.
 - Com outro cupom: os termos dizem "um voucher por pedido"; o artigo diz que não soma com outro
   cupom. Soma com promoções e com o cashback.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/cupom-clea-store-como-usar.json`, id 435.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-cupom-01-carrinho-sem-cupom.webp`, `clea-store-cupom-03-desconto-aplicado.webp`, `clea-store-cupom-capa.webp`. Refeito para leitura no celular: os dois carrinhos (recortados no item, no cashback e no resumo do pedido).

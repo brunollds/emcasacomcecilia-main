@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 64
@@ -227,3 +227,9 @@ Leitura: reputação Boa, todas as reclamações respondidas e volume baixo (65 
 fraco é o "voltariam" (55,6%) e a nota do consumidor (5,06) em 6 meses. "Avaliações de compra
 4,8" é outra métrica do Reclame Aqui (avaliação de quem comprou), não a nota de reputação: o
 artigo explica a diferença em uma frase.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/clea-store-reclame-aqui-nota-reputacao.json`, id 434.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-reclame-aqui-capa.webp`, `clea-store-reclame-aqui-principais-problemas.webp`.

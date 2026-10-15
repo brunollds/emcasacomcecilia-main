@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
@@ -265,3 +265,9 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 - Anvisa fica fora, como na Black Skull: o onboarding é só a apresentação da loja.
 - Os brindes do teste de checkout eram da Znack That, a quarta marca da Supley (print
   `Screenshot 2026-10-14 194244.png`): cabe como frase de apoio na seção do grupo.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/max-titanium-e-confiavel.json`, id 430.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-confiavel-capa.webp`, `max-titanium-rodape-cnpj.webp`. Refeito para leitura no celular: o rodapé (recomposto em três linhas).

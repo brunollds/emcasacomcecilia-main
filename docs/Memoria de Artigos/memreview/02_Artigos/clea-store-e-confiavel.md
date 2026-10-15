@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 72
@@ -271,3 +271,9 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 - **Mercado Livre e loja física: não citar.** A "Clea Oficial" do Mercado Livre pode ser uma
   filial, mas o artigo não fala de marketplace nem de loja física, e as FAQs sobre isso saem.
 - A campanha dos 14 anos fica fora (sem data final e a conta não fecha com 2014).
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", sem o WhatsApp da loja e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/clea-store-e-confiavel.json`, id 433.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `clea-store-confiavel-capa.webp`, `clea-store-rodape-cnpj.webp`. Refeito para leitura no celular: o rodapé (recortado no nome, no CNPJ e no pagamento).

@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 66
@@ -237,3 +237,9 @@ Alimentares, 68,55%**; problema **Atraso na entrega, 29,43%**; produto **Whey Pr
 Leitura: a reputação é Boa nas três janelas; o ponto fraco é o tempo de resposta (dias, não horas)
 e o "voltariam", abaixo dos dois terços. O problema mais citado é atraso na entrega: o artigo liga
 isso ao que fazer (seção 7), pela política da loja.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/max-titanium-reclame-aqui-nota-reputacao.json`, id 431.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-reclame-aqui-capa.webp`, `max-titanium-reclame-aqui-principais-problemas.webp`.

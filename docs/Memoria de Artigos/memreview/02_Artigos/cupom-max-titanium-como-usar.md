@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 88
@@ -231,3 +231,9 @@ primeira compra e nas seguintes". É mudança em `/cupons`, fora do escopo desta
 - O cupom **soma com o desconto de até 5% do Pix e do boleto** (e do 1x no cartão): entra no
   artigo como regra.
 - Anvisa fora do onboarding, como na Black Skull (decisão de 14/10). Slug aprovado.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação em outra sessão; Job 3 aplicado e revisado pelo Claude em 14/10/2026: "nosso teste" no lugar de "testei", a frase do médico ou nutricionista uma vez e a campanha da capa citada no texto alternativo (Bruno, 14/10: manter a campanha).
+- JSON `content/reviews/cupom-max-titanium-como-usar.json`, id 432.
+- Imagens (prints de tela de 14/10/2026, recortados e com marca-texto nosso): `max-titanium-cupom-01-carrinho-sem-cupom.webp`, `max-titanium-cupom-03-desconto-aplicado.webp`, `max-titanium-cupom-capa.webp`.
