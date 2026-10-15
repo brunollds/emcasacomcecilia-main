@@ -11,6 +11,7 @@ import { ReviewGallerySection } from '../ReviewGallerySection';
 import { ReviewVerdictCard } from '../ReviewVerdictCard';
 import type { ArticleCopy, TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
+import { ArticleAffiliateBlock, type ArticleAffiliateCta } from './ArticleAffiliateBlock';
 import { ArticleAuthorBox } from './ArticleAuthorBox';
 import { ArticleRelated } from './ArticleRelated';
 import { ArticleStoreBlock } from './ArticleStoreBlock';
@@ -26,6 +27,8 @@ export interface ArticleEndProps {
   showVerdict: boolean;
   // O bloco da loja, com o mesmo link e a mesma marcação de patrocínio do recorte do topo; null sem loja ativa.
   storeBlock: StoreBlock | null;
+  // Sem loja ativa, o link de afiliado do artigo (cta) ocupa o lugar do bloco da loja; null sem cta.
+  affiliateCta: ArticleAffiliateCta | null;
   storeLabel: string;
   sponsored: boolean;
   reviewImage: string;
@@ -36,8 +39,8 @@ export interface ArticleEndProps {
 // O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, relacionados e
 // compartilhar.
 export function ArticleEnd({
-  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, storeLabel, sponsored,
-  reviewImage, relatedArticles, relatedAllHref,
+  review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, affiliateCta, storeLabel,
+  sponsored, reviewImage, relatedArticles, relatedAllHref,
 }: ArticleEndProps): React.ReactElement {
   // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
   const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
@@ -98,7 +101,7 @@ export function ArticleEnd({
         </section>
       )}
 
-      {storeBlock && (
+      {storeBlock ? (
         <ArticleStoreBlock
           block={storeBlock}
           locale={couponCopyLocale}
@@ -107,6 +110,8 @@ export function ArticleEnd({
           storeLabel={storeLabel}
           sponsored={sponsored}
         />
+      ) : (
+        affiliateCta && <ArticleAffiliateBlock cta={affiliateCta} reviewSlug={review.slug} />
       )}
 
       <ArticleAuthorBox copy={copy} locale={couponCopyLocale} />

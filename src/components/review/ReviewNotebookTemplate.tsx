@@ -333,6 +333,11 @@ export function ReviewNotebookTemplate({
                 videoPageUrl={videoPageUrl}
                 showVerdict={shouldRenderVerdict}
                 storeBlock={storeBlock}
+                affiliateCta={
+                  effectiveCta && hasCta
+                    ? { url: effectiveCta.url, label: effectiveCta.label, text: effectiveCta.text, sponsored: effectiveCta.sponsored }
+                    : null
+                }
                 storeLabel={storeLabel}
                 sponsored={sponsored}
                 reviewImage={reviewImage}

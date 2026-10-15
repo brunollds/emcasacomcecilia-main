@@ -1022,17 +1022,22 @@ function bodyCitesCode(review: Review, code: string): boolean {
 
 // O fim do artigo, nesta ordem: galeria, veredito (só produto), bloco da loja (#loja, no lugar do bloco verde
 // "Interessou?"), caixa da Cecília, relacionados e compartilhar.
-// - A galeria não repete o vídeo do topo e, com um item só, não vira carrossel; sem item, não existe.
+// - A galeria não repete o vídeo do topo e, com um item só, não vira carrossel; sem item, não existe. O título diz
+//   o que ela mostra: "Fotos e vídeos" só com os dois.
 // - Prós e contras são duas listas, cada uma só com os itens dela, sem linha vazia de enchimento.
 // - O bloco da loja traz o título, o recorte (os mesmos textos do recorte do topo), as regras e os links de
 //   "Ver todas as regras" e "Todos os N artigos" só quando a página existe.
+// - Sem loja e com o link de afiliado do artigo (cta), o #loja é só o botão desse link, exatamente o do cta, com
+//   rel="sponsored" quando o link é patrocinado, sem código; sem loja e sem cta, nada.
 // - A caixa da Cecília leva à /sobre em português e à home do idioma nos outros.
 // - Os relacionados são os de pickRelatedReviews, na ordem, e o "Ver todos" leva à subpágina da loja ou à lista
 //   de guias do idioma.
 type ArticleEndExpectation = {
   locale: Locale;
   storeBlock: ArticleStoreBlock | null;
+  affiliateCta: { url: string; label: string; text?: string; sponsored: boolean } | null;
   galleryItems: number;
+  galleryVideos: number;
   topVideoId: string | null;
   verdict: boolean;
   pros: number;
@@ -1066,6 +1071,12 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (expected.galleryItems === 1 && cards > 0) problems.push('galeria de um item em carrossel');
     if (expected.galleryItems > 1 && cards === 0) problems.push('galeria sem os cartões do carrossel');
     if (expected.topVideoId && gallery.html.includes(expected.topVideoId)) problems.push('galeria repete o vídeo do topo');
+    const galleryCopy = getGalleryCopy(expected.locale);
+    const photos = expected.galleryItems - expected.galleryVideos;
+    const heading = photos && expected.galleryVideos ? galleryCopy.heading : photos ? galleryCopy.tabPhotos : galleryCopy.tabVideos;
+    const h2 = gallery.html.match(/<h2\b[^>]*>[\s\S]*?<\/h2>/)?.[0] ?? '';
+    const shown = shownTextsOf(h2).join(' ');
+    if (shown !== heading) problems.push(`galeria com o título "${shown}" em vez de "${heading}"`);
   }
 
   const verdict = single('id="veredito"', 'vereditos');
@@ -1082,7 +1093,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   }
 
   const store = single('id="loja"', 'blocos da loja');
-  present(store, Boolean(expected.storeBlock), 'o bloco da loja');
+  present(store, Boolean(expected.storeBlock || expected.affiliateCta), 'o bloco da loja');
   if (store && expected.storeBlock) {
     const block = expected.storeBlock;
     const texts = shownTextsOf(store.html);
@@ -1103,6 +1114,18 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (block.articlesHref ? !hrefs.includes(block.articlesHref) || !allArticles || !texts.includes(allArticles) : storeArticleLinks.length > 0) {
       problems.push('"Todos os N artigos" fora da regra');
     }
+  } else if (store && expected.affiliateCta) {
+    const { url, label, text, sponsored } = expected.affiliateCta;
+    const links = [...store.html.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag);
+    if (links.length !== 1) problems.push(`${links.length} links no bloco do link de afiliado`);
+    const href = decodeHtml(links[0]?.match(/\shref="([^"]*)"/)?.[1] ?? '');
+    const rel = links[0]?.match(/\srel="([^"]*)"/)?.[1].split(' ') ?? [];
+    if (href !== url) problems.push(`bloco do link de afiliado leva a ${href} em vez de ${url}`);
+    if (rel.includes('sponsored') !== sponsored) problems.push(`bloco do link de afiliado ${sponsored ? 'sem' : 'com'} rel="sponsored"`);
+    const texts = shownTextsOf(store.html);
+    if (!texts.includes(label)) problems.push(`bloco do link de afiliado sem "${label}"`);
+    if (text && !texts.includes(text)) problems.push('bloco do link de afiliado sem o texto do cta');
+    if (/<code\b|\sdata-copied=/.test(store.html)) problems.push('bloco do link de afiliado com código');
   }
 
   const author = single('data-article="autora"', 'caixas da Cecília');
@@ -1145,7 +1168,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<section aria-label="${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}" class="recorte"><p>${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}</p><code>CECILIA12</code>` +
     `<button data-copied="false">${getCouponCopyLabels('pt').copy}</button><a href="https://damie.example/">Ir</a><p>${pt.copiedHint('Damie')}</p></section>`;
   const end =
-    '<section data-article="galeria"><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>' +
+    `<section data-article="galeria"><h2><span class="marca-texto">${getGalleryCopy('pt').tabPhotos}</span></h2><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>` +
     '<section id="veredito"><div id="pros-e-contras"><ul data-lista="pros"><li>a</li><li>b</li></ul><ul data-lista="contras"><li>c</li></ul></div></section>' +
     `<section id="loja"><h2>${pt.storeBlockTitle('Damie')}</h2>${cutout}<dl><dt>Vale para</dt><dd>Tudo</dd></dl>` +
     `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, 'Damie')}</a></section>` +
@@ -1154,7 +1177,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
     `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
   const expected: ArticleEndExpectation = {
-    locale: 'pt', storeBlock: block, galleryItems: 2, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
+    locale: 'pt', storeBlock: block, affiliateCta: null, galleryItems: 2, galleryVideos: 0, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
     authorHref: '/sobre', related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
   };
   assert.deepEqual(articleEndProblems(end, expected), []);
@@ -1170,6 +1193,25 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   assert.notDeepEqual(articleEndProblems(end.replace(/ class="revela"/g, ''), expected), [], 'relacionados sem a cascata passaram');
   const verdictFirst = end.replace(/(<section data-article="galeria">[\s\S]*?<\/section>)(<section id="veredito">[\s\S]*?<\/section>)/, '$2$1');
   assert.notDeepEqual(articleEndProblems(verdictFirst, expected), [], 'veredito antes da galeria passou');
+  const mixedHeading = end.replace(getGalleryCopy('pt').tabPhotos, getGalleryCopy('pt').heading);
+  assert.notDeepEqual(articleEndProblems(mixedHeading, expected), [], '"Fotos e vídeos" em galeria sem vídeo passou');
+  assert.deepEqual(articleEndProblems(mixedHeading, { ...expected, galleryItems: 3, galleryVideos: 1 }), []);
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, galleryItems: 3, galleryVideos: 1 }), [], 'galeria mista só com "Fotos" passou');
+
+  // Sem loja, com o cta: o botão do link de afiliado do artigo, no lugar do bloco da loja.
+  const cta = { url: 'https://link.amazon/B07YTVmpB', label: 'Ver na Amazon', text: 'Confira a lava e seca', sponsored: true };
+  const ctaBlock =
+    `<section id="loja" aria-label="${cta.label}"><p>${cta.text}</p>` +
+    `<a href="${cta.url}" target="_blank" rel="sponsored noopener noreferrer">${cta.label}<svg aria-hidden="true"></svg></a></section>`;
+  const ctaEnd = end.replace(tagsWith(end, 'id="loja"')[0].html, ctaBlock);
+  const ctaExpected = { ...expected, storeBlock: null, affiliateCta: cta };
+  assert.deepEqual(articleEndProblems(ctaEnd, ctaExpected), []);
+  assert.notDeepEqual(articleEndProblems(ctaEnd.replace(ctaBlock, ''), ctaExpected), [], 'artigo com cta sem o bloco do link passou');
+  assert.notDeepEqual(articleEndProblems(ctaEnd, { ...ctaExpected, affiliateCta: null }), [], 'bloco do link em artigo sem cta passou');
+  assert.notDeepEqual(articleEndProblems(ctaEnd.replace(cta.url, 'https://www.amazon.com.br/'), ctaExpected), [], 'link comum da loja no lugar do cta passou');
+  assert.notDeepEqual(articleEndProblems(ctaEnd.replace('rel="sponsored noopener noreferrer"', 'rel="noopener noreferrer"'), ctaExpected), [], 'link patrocinado sem rel="sponsored" passou');
+  assert.notDeepEqual(articleEndProblems(ctaEnd, { ...ctaExpected, affiliateCta: { ...cta, sponsored: false } }), [], 'link sem patrocínio com rel="sponsored" passou');
+  assert.notDeepEqual(articleEndProblems(ctaEnd.replace(`<p>${cta.text}</p>`, '<code>CECILIA12</code>'), ctaExpected), [], 'bloco do link com código e sem o texto passou');
 }
 // O fundo editorial dos artigos é branco e sem a camada de manchas (::before); o das receitas segue como está.
 assert.match(css, /\.editorial-ambient-bg-review\{[^}]*background-color:(?:#fff|#ffffff|white)\b/, 'CSS: o fundo dos artigos não é branco');
@@ -1187,6 +1229,8 @@ let cutoutArticles = 0;
 let inlineCopyArticles = 0;
 let endStoreBlocks = 0;
 let endWithoutStore = 0;
+let endAffiliateBlocks = 0;
+let endPhotoGalleries = 0;
 let endStoreArticleLinks = 0;
 let endStoreRules = 0;
 let endGalleries = 0;
@@ -1311,13 +1355,22 @@ for (const url of articleUrls) {
   const pros = endKind === 'produto' ? review.pros?.length ?? 0 : 0;
   const cons = endKind === 'produto' ? review.cons?.length ?? 0 : 0;
   const topVideoId = getYoutubeEmbedUrl(review.youtubeUrl) ? getYoutubeVideoId(review.youtubeUrl) : null;
-  const galleryItems = (review.gallery ?? []).filter((item) => item.image || (item as { url?: string }).url).length + (review.youtubeUrl && !topVideoId ? 1 : 0);
+  const galleryVideos = review.youtubeUrl && !topVideoId ? 1 : 0;
+  const galleryItems = (review.gallery ?? []).filter((item) => item.image || (item as { url?: string }).url).length + galleryVideos;
+  // O cta do artigo com a marcação de patrocínio que o template dá a ele (ReviewNotebookTemplate).
+  const hasCommercialRelationship = Boolean(review.affiliate || (review.coupon && review.editorialNote));
+  const affiliateCta =
+    !storeBlock && review.cta?.url && review.cta.label
+      ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
+      : null;
   const related = pickRelatedReviews(review, publishedReviews).map(getReviewCanonicalPathname);
   assert.deepEqual(
     articleEndProblems(body, {
       locale,
       storeBlock,
+      affiliateCta,
       galleryItems,
+      galleryVideos,
       topVideoId,
       verdict: endKind === 'produto' && (Boolean(review.verdict?.stars) || typeof review.rating === 'number' || pros + cons > 0),
       pros,
@@ -1330,7 +1383,9 @@ for (const url of articleUrls) {
     `${pagePath}: fim do artigo`
   );
   if (storeBlock) endStoreBlocks++;
+  else if (affiliateCta) endAffiliateBlocks++;
   else endWithoutStore++;
+  if (galleryItems && !galleryVideos) endPhotoGalleries++;
   if (storeBlock?.articlesHref) endStoreArticleLinks++;
   if (storeBlock?.rules.length) endStoreRules++;
   if (galleryItems) endGalleries++;
@@ -1439,7 +1494,9 @@ assert.ok(inlineCopyArticles > 0, 'nenhum artigo cita o código da loja no corpo
 // com galeria, com o vídeo do topo e com prós e contras. Todo idioma tem mais de 6 artigos: todos levam 6.
 assert.equal(endStoreBlocks, cutoutArticles, 'bloco da loja e recorte do topo em artigos diferentes');
 for (const [count, name] of [
-  [endWithoutStore, 'sem loja'],
+  [endWithoutStore, 'sem loja e sem cta'],
+  [endAffiliateBlocks, 'sem loja com o botão do cta'],
+  [endPhotoGalleries, 'com galeria só de fotos'],
   [endStoreArticleLinks, 'com "Todos os N artigos"'],
   [endStoreRules, 'com as regras da loja'],
   [endGalleries, 'com galeria'],
@@ -1451,7 +1508,7 @@ for (const [count, name] of [
 assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
 console.log(
   `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
-    `${endWithoutStore} sem loja, ${endGalleries} com galeria, ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados`
+    `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados`
 );
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
