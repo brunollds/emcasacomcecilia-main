@@ -29,7 +29,6 @@ interface ReviewSidebarProps {
   // Loja ativa do artigo: a lateral traz o recorte compacto, o mesmo do topo.
   storeBlock?: ArticleStoreBlock | null;
   storeLabel?: string;
-  sponsored?: boolean;
 }
 
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
@@ -152,7 +151,6 @@ export function ReviewSidebar({
   codeBrand,
   storeBlock = null,
   storeLabel = '',
-  sponsored = false,
 }: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
@@ -220,7 +218,7 @@ export function ReviewSidebar({
             locale={locale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}
-            sponsored={sponsored}
+            sponsored={storeBlock.storeSponsored}
           />
         </div>
       ) : (

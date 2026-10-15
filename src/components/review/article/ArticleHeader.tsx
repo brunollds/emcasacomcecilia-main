@@ -38,7 +38,6 @@ export interface ArticleHeaderProps {
   youtubeEmbedUrl: string | null;
   storeBlock: ArticleStoreBlock | null;
   storeLabel: string;
-  sponsored: boolean;
 }
 
 // Topo do artigo no visual da D2: trilha, tipo e categoria, título com o marca-texto, introdução em serifa,
@@ -46,7 +45,7 @@ export interface ArticleHeaderProps {
 export function ArticleHeader({
   review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
   readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
-  youtubeEmbedUrl, storeBlock, storeLabel, sponsored,
+  youtubeEmbedUrl, storeBlock, storeLabel,
 }: ArticleHeaderProps): React.ReactElement {
   const authors = review.authors?.length ? review.authors : [review.author ?? CECILIA];
   const showType = Boolean(review.type) && review.type !== kindLabel;
@@ -178,7 +177,7 @@ export function ArticleHeader({
             locale={couponCopyLocale}
             reviewSlug={review.slug}
             storeLabel={storeLabel}
-            sponsored={sponsored}
+            sponsored={storeBlock.storeSponsored}
           />
         </div>
       )}

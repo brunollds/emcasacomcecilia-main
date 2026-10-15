@@ -114,8 +114,6 @@ export function ReviewNotebookTemplate({
         }
       : null;
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
-  // O link da loja do recorte do topo e do bloco da loja leva a mesma marcação de patrocínio.
-  const sponsored = effectiveCta?.sponsored ?? hasCommercialRelationship;
   const isPortraitHero = review.imageAspect === 'portrait';
 
   // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
@@ -195,7 +193,6 @@ export function ReviewNotebookTemplate({
             youtubeEmbedUrl={youtubeEmbedUrl}
             storeBlock={storeBlock}
             storeLabel={storeLabel}
-            sponsored={sponsored}
           />
 
           {/* Layout principal + sidebar */}
@@ -339,7 +336,6 @@ export function ReviewNotebookTemplate({
                     : null
                 }
                 storeLabel={storeLabel}
-                sponsored={sponsored}
                 reviewImage={reviewImage}
                 relatedArticles={relatedReviews}
                 relatedAllHref={relatedAllHref}
@@ -359,7 +355,6 @@ export function ReviewNotebookTemplate({
                 codeBrand={codeBrand}
                 storeBlock={storeBlock}
                 storeLabel={storeLabel}
-                sponsored={sponsored}
               />
             </aside>
           </div>

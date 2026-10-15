@@ -30,7 +30,6 @@ export interface ArticleEndProps {
   // Sem loja ativa, o link de afiliado do artigo (cta) ocupa o lugar do bloco da loja; null sem cta.
   affiliateCta: ArticleAffiliateCta | null;
   storeLabel: string;
-  sponsored: boolean;
   reviewImage: string;
   relatedArticles: ShelfCardArticle[];
   relatedAllHref: string;
@@ -40,7 +39,7 @@ export interface ArticleEndProps {
 // compartilhar.
 export function ArticleEnd({
   review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, affiliateCta, storeLabel,
-  sponsored, reviewImage, relatedArticles, relatedAllHref,
+  reviewImage, relatedArticles, relatedAllHref,
 }: ArticleEndProps): React.ReactElement {
   // O vídeo do YouTube que o bloco de vídeo já mostra não se repete na galeria.
   const galleryVideos = review.youtubeUrl && !youtubeEmbedUrl ? [{ url: review.youtubeUrl, title: review.title }] : [];
@@ -108,7 +107,6 @@ export function ArticleEnd({
           copy={copy}
           reviewSlug={review.slug}
           storeLabel={storeLabel}
-          sponsored={sponsored}
         />
       ) : (
         affiliateCta && <ArticleAffiliateBlock cta={affiliateCta} reviewSlug={review.slug} />
