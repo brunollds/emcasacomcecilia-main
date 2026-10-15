@@ -383,6 +383,11 @@ export function getRecipeImage(recipe) {
         .find(Boolean);
     return placeholder || recipePlaceholderImages.doces;
 }
+// Só a foto da própria receita. Sem ela, a receita não tem imagem: o cartão mostra a capa desenhada
+// (RecipeCover), a página não tem foto no topo e o JSON-LD e o og:image ficam sem imagem.
+export function getRecipeOwnImage(recipe: Recipe): string | undefined {
+    return recipe.image || undefined;
+}
 export function getRecipeImageAlt(recipe) {
     return recipe.imageAlt || `Imagem ilustrativa da receita ${recipe.title}`;
 }
