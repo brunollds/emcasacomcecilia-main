@@ -1,4 +1,5 @@
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { getArticleCopy } from '@/components/review/articleCopy';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { getCouponBySlug, getStoreCodeKind, type CouponCodeKind } from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
@@ -48,6 +49,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, c
   const code = review.coupon || undefined;
   const isStoreCode = Boolean(code) && code === getStoreCode(store);
   const copy = COUPON_STORE_COPY[locale];
+  const articleCopy = getArticleCopy(locale);
 
   // Fora do PT, as regras só existem na tradução da loja; em PT, nos dados da própria loja.
   const source = locale === 'pt' ? store : isTranslatedLocale(locale) ? getLocalizedCoupon(store.slug, locale) : undefined;
@@ -62,7 +64,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, c
     rules.push(
       { label: copy.rules.eligible, value: source.eligibleCategories },
       { label: copy.rules.combinable, value: source.combinable },
-      { label: (tested ? copy.testedOn : copy.verifiedOn)('').trim(), value: date }
+      { label: tested ? articleCopy.ruleTestedLabel : articleCopy.ruleVerifiedLabel, value: date }
     );
   }
 

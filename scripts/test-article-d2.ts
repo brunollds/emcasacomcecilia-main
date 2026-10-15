@@ -5,6 +5,8 @@ import { getCouponBySlug } from '@/lib/couponsData';
 import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { getStoreCode } from '@/lib/homeStores';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import { getArticleCopy } from '@/components/review/articleCopy';
+import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { publishedReviews } from '@/lib/data';
 
 const mk = (id: number, o: Partial<{ locale: string; affiliate: string; category: string; type: string; publishedAtISO: string }>) =>
@@ -72,5 +74,37 @@ assert.ok(same.rules.length > 0 && same.rules.length <= 3);
 assert.ok(same.rules.every((r) => r.value.length <= 141));
 assert.ok(same.discount);
 assert.equal(same.couponPageHref, `/cupons/${store.slug}`);
+
+// Rótulos das regras: nos 10 idiomas, e os de fora do PT diferem do PT.
+const ptCopy = getArticleCopy('pt');
+for (const loc of LOCALE_KEYS) {
+  const c = getArticleCopy(loc);
+  assert.ok(c.ruleTestedLabel && c.ruleVerifiedLabel, `${loc}: rótulo ausente`);
+  if (loc !== 'pt') {
+    assert.notEqual(c.ruleTestedLabel, ptCopy.ruleTestedLabel, loc);
+    assert.notEqual(c.ruleVerifiedLabel, ptCopy.ruleVerifiedLabel, loc);
+  }
+}
+
+// Fora do PT com tradução (SHEIN): regras reais, rótulos sem espaço duplo e diferentes dos do PT.
+const sheinCode = (getCouponBySlug('shein') as { referral?: { code: string } }).referral!.code;
+const ptLabels = new Set([ptCopy.ruleTestedLabel, ptCopy.ruleVerifiedLabel, 'Vale para', 'Junta com outras promoções?']);
+for (const loc of ['ja', 'zh-hant', 'ko', 'en'] as const) {
+  const block = getArticleStoreBlock({ ...base, locale: loc, affiliate: 'shein', coupon: sheinCode } as never, loc)!;
+  assert.ok(block.rules.length > 0, `${loc}: sem regras`);
+  for (const rule of block.rules) {
+    assert.ok(rule.label.trim() && rule.value.trim(), `${loc}: regra vazia`);
+    assert.ok(!/\s{2,}/.test(`${rule.label} ${rule.value}`), `${loc}: espaço duplo`);
+    assert.ok(!ptLabels.has(rule.label), `${loc}: rótulo em português`);
+  }
+  assert.equal(block.rules.at(-1)!.label, getArticleCopy(loc).ruleVerifiedLabel);
+}
+
+// Fora do PT, loja sem página traduzida e fora a YesStyle: sem link de página, sem regras, sem SHEIN Brasil.
+const plain = getArticleStoreBlock({ ...base, locale: 'ja', affiliate: 'damie', coupon: 'CECILIA12' } as never, 'ja')!;
+assert.equal(plain.couponPageHref, undefined);
+assert.deepEqual(plain.rules, []);
+assert.equal(plain.articlesHref, undefined);
+assert.ok(!/br\.shein\.com/.test(plain.storeHref ?? ''));
 
 console.log('✅ artigo D2: relacionados e bloco da loja');
