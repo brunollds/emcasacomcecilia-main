@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "em-conformacao-json"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "deploy-com-ok-do-bruno; depois de 18/10, virar promoção encerrada apontando para o cupom"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
@@ -281,3 +281,8 @@ A faixa do site traz mais três regras da loja, além do brinde. Elas valem no m
 - Posso escolher a cor e o tamanho da T-Shirt de brinde? Sim. Você escolhe na janela "Escolha entre os brindes disponíveis", entre as cores e os tamanhos que a loja tiver naquele momento.
 - O brinde ajuda a chegar ao frete grátis de R$ 599? Não. A T-Shirt entra a R$ 0,00 e não soma no total. No nosso teste, o total de R$ 477,09 não incluía o brinde, e a barra pedia mais R$ 121,91 para o frete grátis.
 - Posso usar dois cupons no mesmo pedido? Não. A loja aceita um cupom por pedido. As condições atualizadas do código ficam na [página do cupom da Cléa Store](/cupons/clea-store).
+
+## JSON e imagens (15/10/2026)
+
+- JSON `content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json`, id 442, conferido contra o texto aprovado. Ajustes do Job 3: a tabela vai do mais barato ao mais caro (Body Regata antes da T-Shirt avulsa), o desconto aparece como "R$ -53,01", igual ao print, e o link para o passo a passo do cupom ficou só na seção do teste.
+- Imagens: `clea-store-aniversario-14-anos-capa.webp` (1600×900) e `clea-store-aniversario-14-anos-carrinho.webp` (848×1092, o print de 424×546 ampliado 2x).

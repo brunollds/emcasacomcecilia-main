@@ -36839,6 +36839,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57736,
+      "sha256": "70b835f1594968d5752e21917d829f9ee7b9c3ed84fbd8763782bae3602c8195",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-aniversario-14-anos-capa.webp",
+      "storage_filename": "clea-store-aniversario-14-anos-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79845,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70b835f1594968d5752e21917d829f9ee7b9c3ed84fbd8763782bae3602c8195/clea-store-aniversario-14-anos-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70b835f1594968d5752e21917d829f9ee7b9c3ed84fbd8763782bae3602c8195/clea-store-aniversario-14-anos-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T20:35:09.026Z",
+      "verification_etag_or_digest": "70b835f1594968d5752e21917d829f9ee7b9c3ed84fbd8763782bae3602c8195",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64326,
+      "sha256": "57fb5358ca60994b8cebe03ac0400e61215a944e241a64b919f1ed00a85770ca",
+      "width": 848,
+      "height": 1092,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-aniversario-14-anos-carrinho.webp",
+      "storage_filename": "clea-store-aniversario-14-anos-carrinho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 79981,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/57fb5358ca60994b8cebe03ac0400e61215a944e241a64b919f1ed00a85770ca/clea-store-aniversario-14-anos-carrinho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/57fb5358ca60994b8cebe03ac0400e61215a944e241a64b919f1ed00a85770ca/clea-store-aniversario-14-anos-carrinho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-15T20:35:09.027Z",
+      "verification_etag_or_digest": "57fb5358ca60994b8cebe03ac0400e61215a944e241a64b919f1ed00a85770ca",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/conhecendo-mais-rabanada.avif",
       "local_url": "/images/reviews/conhecendo-mais-rabanada.avif",
       "media_kind": "image",
