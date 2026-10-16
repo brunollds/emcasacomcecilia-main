@@ -7,6 +7,7 @@ import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
 import LanguageSwitcher from '@/components/header/LanguageSwitcher';
 import DesktopNav from '@/components/header/DesktopNav';
+import SiteName from '@/components/header/SiteName';
 import { useActiveNav } from '@/components/header/useActiveNav';
 import {
   getShellCommercialLinks,
@@ -47,29 +48,7 @@ export default function Navbar({ lang = 'pt-BR' }) {
         <div className="flex flex-col items-center gap-3 py-3 xl:flex-row xl:justify-between xl:gap-8">
           {/* Logo - CSS Style */}
           <Link href={homeHref} className="group flex flex-shrink-0 translate-y-[2px] flex-col items-center justify-center">
-            <span style={{
-              fontSize: 'clamp(1.9rem, 7vw, 2.45rem)',
-              fontWeight: 800,
-              lineHeight: '1',
-              letterSpacing: '-0.5px',
-              display: 'inline-flex',
-              alignItems: 'baseline',
-              gap: '1.5px'
-            }}>
-              <span className="text-white transition-colors duration-300 group-hover:text-[#ff6b35]" style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px' }}>em</span>
-              <span className="text-white transition-colors duration-300 group-hover:text-[#ff6b35]" style={{ fontSize: '1em', fontWeight: 800, letterSpacing: '-0.4px' }}>CASA</span>
-              <span className="text-white transition-colors duration-300 group-hover:text-[#ff6b35]" style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px' }}>com</span>
-              <span
-                className="border-b-2 border-[#ff6b35]/80 pb-0.5 text-[#ff6b35] transition-colors duration-300 group-hover:text-white"
-                style={{
-                  fontSize: '1em',
-                  fontWeight: 800,
-                  letterSpacing: '-0.4px',
-                }}
-              >
-                CECÍLIA
-              </span>
-            </span>
+            <SiteName style={{ fontSize: 'clamp(1.9rem, 7vw, 2.45rem)' }} />
             <span className="hidden xl:block" style={{
               fontSize: '0.65rem',
               color: 'rgba(255, 255, 255, 0.78)',
