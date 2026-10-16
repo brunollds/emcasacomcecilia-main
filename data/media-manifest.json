@@ -36663,6 +36663,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55870,
+      "sha256": "266f49665b762fb5cfc2460fc7fe96c6389a46e338b495d6a4e0713b2f055f1c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-max-titanium-capa.webp",
+      "storage_filename": "black-skull-ou-max-titanium-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-max-titanium.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-max-titanium.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80728,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/266f49665b762fb5cfc2460fc7fe96c6389a46e338b495d6a4e0713b2f055f1c/black-skull-ou-max-titanium-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/266f49665b762fb5cfc2460fc7fe96c6389a46e338b495d6a4e0713b2f055f1c/black-skull-ou-max-titanium-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.207Z",
+      "verification_etag_or_digest": "266f49665b762fb5cfc2460fc7fe96c6389a46e338b495d6a4e0713b2f055f1c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112098,
+      "sha256": "85b5aca5e30f7b973631188ffff42afff28d84eb05b33a2b0d467b58680467c0",
+      "width": 1600,
+      "height": 725,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "storage_filename": "black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-max-titanium.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-max-titanium.json",
+          "line": 340,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81046,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/85b5aca5e30f7b973631188ffff42afff28d84eb05b33a2b0d467b58680467c0/black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/85b5aca5e30f7b973631188ffff42afff28d84eb05b33a2b0d467b58680467c0/black-skull-ou-max-titanium-tabelas-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "85b5aca5e30f7b973631188ffff42afff28d84eb05b33a2b0d467b58680467c0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59666,
+      "sha256": "02497a1ea51449b27173778a524e6ed3a9f7440f3d77e394fc87aec3440f93a6",
+      "width": 1600,
+      "height": 601,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-max-titanium-tabelas-whey.webp",
+      "storage_filename": "black-skull-ou-max-titanium-tabelas-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-max-titanium.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-max-titanium.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80864,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/02497a1ea51449b27173778a524e6ed3a9f7440f3d77e394fc87aec3440f93a6/black-skull-ou-max-titanium-tabelas-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02497a1ea51449b27173778a524e6ed3a9f7440f3d77e394fc87aec3440f93a6/black-skull-ou-max-titanium-tabelas-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "02497a1ea51449b27173778a524e6ed3a9f7440f3d77e394fc87aec3440f93a6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
       "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
       "media_kind": "image",
@@ -46725,6 +46863,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 121036,
+      "sha256": "beea64024618508106fc2f296a322ace5c5a1dd71997746071365d9dc3f94744",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-melhor-sabor-capa.webp",
+      "storage_filename": "dr-peanut-melhor-sabor-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-melhor-sabor.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-melhor-sabor.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81654,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/beea64024618508106fc2f296a322ace5c5a1dd71997746071365d9dc3f94744/dr-peanut-melhor-sabor-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/beea64024618508106fc2f296a322ace5c5a1dd71997746071365d9dc3f94744/dr-peanut-melhor-sabor-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "beea64024618508106fc2f296a322ace5c5a1dd71997746071365d9dc3f94744",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 174600,
+      "sha256": "ca40676922ff7cb20bb4acfd02c68072b26782db8578344bec61d0c2aecf7df2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-melhor-sabor-potes.webp",
+      "storage_filename": "dr-peanut-melhor-sabor-potes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-melhor-sabor.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-melhor-sabor.json",
+          "line": 114,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81746,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ca40676922ff7cb20bb4acfd02c68072b26782db8578344bec61d0c2aecf7df2/dr-peanut-melhor-sabor-potes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca40676922ff7cb20bb4acfd02c68072b26782db8578344bec61d0c2aecf7df2/dr-peanut-melhor-sabor-potes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "ca40676922ff7cb20bb4acfd02c68072b26782db8578344bec61d0c2aecf7df2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
       "media_kind": "image",
@@ -50497,6 +50727,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11788,
+      "sha256": "a0ed05996fafdf485399644eb44e9c1d9ab4bbeb7ff65e0b73db0c69199b2b61",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-ou-ortobom-alturas.webp",
+      "storage_filename": "i-wanna-sleep-ou-ortobom-alturas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-ou-ortobom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-ou-ortobom.json",
+          "line": 100,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82699,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a0ed05996fafdf485399644eb44e9c1d9ab4bbeb7ff65e0b73db0c69199b2b61/i-wanna-sleep-ou-ortobom-alturas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a0ed05996fafdf485399644eb44e9c1d9ab4bbeb7ff65e0b73db0c69199b2b61/i-wanna-sleep-ou-ortobom-alturas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "a0ed05996fafdf485399644eb44e9c1d9ab4bbeb7ff65e0b73db0c69199b2b61",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
+      "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65962,
+      "sha256": "2da5d3870848d184e61860ec288198ce1ca7c8a53f18cd8298f343ff922036f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep-ou-ortobom-capa.webp",
+      "storage_filename": "i-wanna-sleep-ou-ortobom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/i-wanna-sleep-ou-ortobom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/i-wanna-sleep-ou-ortobom.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82621,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2da5d3870848d184e61860ec288198ce1ca7c8a53f18cd8298f343ff922036f5/i-wanna-sleep-ou-ortobom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2da5d3870848d184e61860ec288198ce1ca7c8a53f18cd8298f343ff922036f5/i-wanna-sleep-ou-ortobom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "2da5d3870848d184e61860ec288198ce1ca7c8a53f18cd8298f343ff922036f5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
       "local_url": "/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
       "media_kind": "image",
@@ -53029,6 +53351,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+      "local_url": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32560,
+      "sha256": "ceb7d4f9fe143161fe7753b349316255eef7764fae8fd4d6892bdece1625dfb1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-ou-icasei-capa.webp",
+      "storage_filename": "lejour-ou-icasei-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-ou-icasei.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-ou-icasei.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 82140,
+          "column": 15,
+          "literal": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ceb7d4f9fe143161fe7753b349316255eef7764fae8fd4d6892bdece1625dfb1/lejour-ou-icasei-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ceb7d4f9fe143161fe7753b349316255eef7764fae8fd4d6892bdece1625dfb1/lejour-ou-icasei-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "ceb7d4f9fe143161fe7753b349316255eef7764fae8fd4d6892bdece1625dfb1",
       "verification_status": "verified"
     },
     {
@@ -55747,6 +56115,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-15T01:19:48.458Z",
       "verification_etag_or_digest": "d58be936636576e714b5115d4418131342afb999efe12d32a278cf20947bb3a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72280,
+      "sha256": "068a97a905d583c2751bcbc5d1878001c057628e45ad7e8dd04f8577d756bbd6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-probiotica-capa.webp",
+      "storage_filename": "max-titanium-ou-probiotica-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-probiotica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81188,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/068a97a905d583c2751bcbc5d1878001c057628e45ad7e8dd04f8577d756bbd6/max-titanium-ou-probiotica-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/068a97a905d583c2751bcbc5d1878001c057628e45ad7e8dd04f8577d756bbd6/max-titanium-ou-probiotica-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "068a97a905d583c2751bcbc5d1878001c057628e45ad7e8dd04f8577d756bbd6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56560,
+      "sha256": "eb9f822c1b6d7aa54db0366baf4be4eb0675ac9b91fc8c872e9322690d05996f",
+      "width": 1600,
+      "height": 720,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-probiotica-fabricado-em.webp",
+      "storage_filename": "max-titanium-ou-probiotica-fabricado-em.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-probiotica.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-probiotica.json",
+          "line": 50,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 81216,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/eb9f822c1b6d7aa54db0366baf4be4eb0675ac9b91fc8c872e9322690d05996f/max-titanium-ou-probiotica-fabricado-em.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eb9f822c1b6d7aa54db0366baf4be4eb0675ac9b91fc8c872e9322690d05996f/max-titanium-ou-probiotica-fabricado-em.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T22:53:00.208Z",
+      "verification_etag_or_digest": "eb9f822c1b6d7aa54db0366baf4be4eb0675ac9b91fc8c872e9322690d05996f",
       "verification_status": "verified"
     },
     {
