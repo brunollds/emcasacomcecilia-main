@@ -30,9 +30,10 @@ import { isFaqHeading } from '../src/lib/faq';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
-import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
+import { YESSTYLE_LOCALES, getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getShellCopy, getShellHomeHref, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
+import { getActiveNav, getShellMenu } from '../src/lib/i18n/shellMenu';
 import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
@@ -1675,12 +1676,30 @@ const shellTexts = (locale: Locale) => {
 };
 // A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
 const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
+// Os textos do header que só existem em português: a lista Mais, as categorias, a busca e os Dicas.
+function ptHeaderTexts() {
+  const menu = getShellMenu('pt');
+  const copy = getShellCopy('pt');
+  return [
+    menu.moreLabel,
+    menu.reviewsListLabel,
+    menu.searchLabels?.open,
+    menu.searchLabels?.close,
+    menu.dicasLabels?.short,
+    menu.dicasLabels?.long,
+    copy.openMenuLabel,
+    copy.closeMenuLabel,
+    ...menu.more.map((item) => item.label),
+    ...menu.primary.flatMap((item) => (item.children ?? []).map((child) => child.label)),
+  ].filter((text): text is string => Boolean(text));
+}
 // Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a home
 // de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
 const PT_ONLY_TEXTS = [
   ...Object.values(CECILIA_PHOTO_COPY_PT),
   ...getShellNavLinks('pt').map((link) => link.label),
   ...shellTexts('pt'),
+  ...ptHeaderTexts(),
   'Da minha casa',
   'Mais sobre mim',
   'Entre no grupo de promoções',
@@ -3182,6 +3201,139 @@ if (homeVideos) assertHomeVideoLinks(homeVideos);
   }
 }
 
+// O header (o primeiro <header> da página) marca a seção atual uma vez em cada peça do HTML: a navegação do
+// computador (tudo antes da gaveta) e a gaveta do celular (<nav id="header-gaveta">, que o servidor já traz,
+// inerte). A marca fica em qualquer elemento (um link, ou o botão de uma lista), por isso a conferência lê
+// todo aria-current, não só os <a>. Na seção Mais (Vídeos, Sobre…) o computador marca o botão da lista e a
+// gaveta só o item aberto; na gaveta, o item de dentro de uma lista (Todos os guias, a categoria) vem junto
+// com a marca da linha da seção e não conta como a segunda.
+function headerPieces(html: string) {
+  const header = html.match(/<header\b[\s\S]*?<\/header>/)?.[0] ?? '';
+  const drawerAt = header.indexOf('<nav id="header-gaveta"');
+  return { header, desktop: drawerAt < 0 ? header : header.slice(0, drawerAt), drawer: drawerAt < 0 ? '' : header.slice(drawerAt) };
+}
+function currentMarks(piece: string) {
+  return [...piece.matchAll(/<(\w+)\b[^>]*\saria-current="(\w+)"[^>]*>/g)].map(([tag, , value]) => ({
+    value,
+    href: tag.match(/\shref="([^"]*)"/)?.[1] ?? null,
+    controls: tag.match(/\saria-controls="([^"]*)"/)?.[1] ?? null,
+  }));
+}
+function headerProblems(html: string, pathname: string, locale: Locale) {
+  const problems: string[] = [];
+  const { header, desktop, drawer } = headerPieces(html);
+  if (!header) return ['sem <header>'];
+  if (!drawer) problems.push('header sem a gaveta do celular');
+  const active = getActiveNav(pathname, '', locale);
+  const desktopMarks = currentMarks(desktop);
+  const allDrawerMarks = currentMarks(drawer);
+  if (!active.section) {
+    if (desktopMarks.length + allDrawerMarks.length > 0) problems.push('aria-current numa página fora das seções');
+    return problems;
+  }
+  const menu = getShellMenu(locale);
+  // O item aberto da grade do Mais (ex.: /videos numa página de vídeo) leva a marca dele, que não é a da linha da seção.
+  const openMoreHref = active.section === 'more' ? menu.more.find((item) => item.id === active.item)?.href : undefined;
+  const drawerMarks = allDrawerMarks.filter(
+    (mark) => !(active.item && mark.href === active.pageHref) && !(openMoreHref && mark.href === openMoreHref),
+  );
+  const sectionHref =
+    menu.primary.find((item) => item.id === active.section)?.href ??
+    (active.section === 'yesstyle' ? getYesStyleLocaleConfig(locale).hubPath : `/${locale}/coupons/shein`);
+  if (desktopMarks.length !== 1) problems.push(`computador com ${desktopMarks.length} aria-current (esperado 1)`);
+  else if (active.section === 'more') {
+    if (desktopMarks[0].controls !== 'header-lista-more') problems.push('a seção Mais não marca o botão da lista');
+  } else {
+    const [mark] = desktopMarks;
+    const wantedValue = sectionHref === active.pageHref ? 'page' : 'true';
+    if (mark.href !== sectionHref) problems.push(`computador marca ${mark.href}, esperado ${sectionHref}`);
+    if (mark.value !== wantedValue) problems.push(`computador com aria-current="${mark.value}", esperado "${wantedValue}"`);
+  }
+  const wantedInDrawer = active.section === 'more' ? 0 : 1;
+  if (drawerMarks.length !== wantedInDrawer) problems.push(`gaveta com ${drawerMarks.length} aria-current na linha da seção (esperado ${wantedInDrawer})`);
+  // O /receitas só é marcado na página de receita.
+  for (const piece of [desktop, drawer]) {
+    if (currentMarks(piece).some((mark) => mark.href === '/receitas') !== (active.section === 'receitas')) {
+      problems.push('o link /receitas marcado fora da seção das receitas (ou sem marca nela)');
+    }
+  }
+  return problems;
+}
+
+const publishedRecipe = recipes.find((recipe) => builtFile(`${SITE_URL}/receitas/${recipe.slug}`));
+assert.ok(publishedRecipe, 'header: nenhuma receita publicada gerada no build');
+const HEADER_PAGES: Array<[string, Locale]> = [
+  ['/reviews/poltrona-damie-e-boa', 'pt'],
+  ['/reviews', 'pt'],
+  ['/cupons/damie', 'pt'],
+  [`/receitas/${publishedRecipe.slug}`, 'pt'],
+  ['/videos', 'pt'],
+  [`/videos/${videoPages[0].slug}`, 'pt'],
+  ['/', 'pt'],
+  ['/en/reviews/how-to-find-valid-yesstyle-coupon-codes', 'en'],
+  ['/en/coupons/yesstyle', 'en'],
+];
+const headerHtmlOf: Record<string, string> = {};
+for (const [pagePath, locale] of HEADER_PAGES) {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build (header)`);
+  const html = read(file);
+  headerHtmlOf[pagePath] = html;
+  assert.deepEqual(headerProblems(html, pagePath, locale), [], `${pagePath}: header`);
+  // Fora do PT, o header não traz nenhum dos textos novos do PT.
+  if (locale !== 'pt') {
+    const { header } = headerPieces(html);
+    const own = new Set(shellTexts(locale));
+    for (const text of ptHeaderTexts().filter((candidate) => !own.has(candidate))) {
+      assert.ok(!header.includes(`>${text}<`) && !header.includes(`"${text}"`), `${pagePath}: header com o texto do PT "${text}"`);
+    }
+  }
+}
+// Controles: os guardas falham nos casos errados.
+{
+  const review = headerHtmlOf['/reviews/poltrona-damie-e-boa'];
+  const markedLink = review.match(/<a aria-current="true"[^>]*href="\/reviews">/)?.[0];
+  assert.ok(markedLink, 'controle: o link marcado do computador não foi achado');
+  const reviewPath = '/reviews/poltrona-damie-e-boa';
+  assert.notDeepEqual(headerProblems(review.replace(markedLink, markedLink + markedLink), reviewPath, 'pt'), [], 'dois aria-current passaram');
+  assert.notDeepEqual(headerProblems(review.replace(markedLink, markedLink.replace(' aria-current="true"', '')), reviewPath, 'pt'), [], 'seção sem marca passou');
+  assert.notDeepEqual(headerProblems(headerHtmlOf['/'].replace('<a ', '<a aria-current="page" '), '/', 'pt'), [], 'home com aria-current passou');
+  assert.notDeepEqual(headerProblems(headerHtmlOf['/cupons/damie'], '/receitas/x', 'pt'), [], 'seção errada passou');
+}
+
+// O movimento do header (as regras .header- do globals.css) só vale com o movimento liberado.
+const HEADER_MOTION_PROPERTY = /^(?:animation|transition)(?:-[a-z-]+)?$/;
+function assertHeaderMotionOnlyWhenAllowed(source: string) {
+  let motionRules = 0;
+  for (let at = source.indexOf('.header-'); at !== -1; at = source.indexOf('.header-', at + 1)) {
+    const properties = declarationsAt(source, at)
+      .split(';')
+      .map((declaration) => declaration.split(':')[0].trim())
+      .filter((property) => HEADER_MOTION_PROPERTY.test(property));
+    if (properties.length === 0) continue;
+    motionRules++;
+    assert.match(
+      enclosingBlockHeader(source, at),
+      /prefers-reduced-motion:\s*no-preference/,
+      `CSS com ${properties.join(', ')} de uma regra .header- fora do @media de prefers-reduced-motion: no-preference`
+    );
+  }
+  assert.ok(motionRules > 0, 'CSS sem nenhum movimento .header-');
+}
+assertHeaderMotionOnlyWhenAllowed(css);
+assert.throws(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{transition:opacity .2s}`), /fora do @media/);
+assert.throws(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{animation:x 1s}`), /fora do @media/);
+assert.doesNotThrow(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{color:red}`));
+
+// O mesmo vale para os componentes do header: transition-transform sem o motion-safe: anima mesmo com "reduzir movimento".
+const looseTransformTransitions = (source: string) => [...source.matchAll(/(?<!motion-safe:)\btransition-transform\b/g)].length;
+for (const file of fs.readdirSync('src/components/header').filter((name) => name.endsWith('.tsx'))) {
+  const source = fs.readFileSync(path.join('src/components/header', file), 'utf8');
+  assert.equal(looseTransformTransitions(source), 0, `header/${file}: transition-transform sem motion-safe:`);
+}
+assert.equal(looseTransformTransitions('className="transition-transform"'), 1, 'controle: transition-transform solto passou');
+assert.equal(looseTransformTransitions('className="motion-safe:transition-transform"'), 0, 'controle: motion-safe: barrado');
+
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
 // aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
 const cardsIn = (section: string) => {
@@ -3191,5 +3343,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

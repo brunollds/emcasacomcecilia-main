@@ -52,8 +52,16 @@ export default function OmniSearch({
   tone = 'dark',
   // O termo já buscado, no campo do /buscar.
   defaultValue = '',
+  // No celular, os resultados abrem sob a linha do header, na largura da tela: o painel se prende ao
+  // primeiro ancestral posicionado de quem usa, e não ao campo.
+  fullWidthResults = false,
+  // Ref do campo, para quem precisa dar o foco dentro de um clique (o iOS só abre o teclado assim).
+  inputRef = undefined,
 }) {
   const light = tone === 'light';
+  const panelPlacement = fullWidthResults
+    ? 'inset-x-0 top-full rounded-b-2xl border-x-0 border-t-0'
+    : 'mt-2 w-full rounded-2xl';
   const [query, setQuery] = useState(defaultValue);
   const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
@@ -162,12 +170,13 @@ export default function OmniSearch({
   };
 
   return (
-    <div ref={searchRef} className="relative w-full">
+    <div ref={searchRef} className={fullWidthResults ? 'w-full' : 'relative w-full'}>
       <div className="relative">
         <Search
           className={`pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 ${light ? 'text-marinho-suave' : 'text-white/60'}`}
         />
         <input
+          ref={inputRef}
           type="text"
           autoFocus={autoFocus}
           value={query}
@@ -207,7 +216,7 @@ export default function OmniSearch({
       </div>
 
       {isOpen && results.length > 0 && (
-        <div className="absolute z-[60] mt-2 w-full overflow-hidden rounded-2xl border border-gray-200 bg-white text-left shadow-2xl">
+        <div className={`absolute z-[60] overflow-hidden border border-gray-200 bg-white text-left shadow-2xl ${panelPlacement}`}>
           <p className="border-b border-gray-100 bg-gray-50 px-4 py-2 text-xs font-semibold text-gray-500">
             {results.length} {results.length === 1 ? 'resultado encontrado' : 'resultados encontrados'}
           </p>
@@ -250,7 +259,7 @@ export default function OmniSearch({
       )}
 
       {isOpen && query.trim() && index && results.length === 0 && (
-        <div className="absolute z-[60] mt-2 w-full rounded-2xl border border-gray-200 bg-white p-5 text-center shadow-2xl">
+        <div className={`absolute z-[60] border border-gray-200 bg-white p-5 text-center shadow-2xl ${panelPlacement}`}>
           <p className="text-sm font-semibold text-[#1a4d2e]">Nenhum resultado encontrado</p>
           <p className="mt-1 text-xs text-gray-500">
             Nada para &quot;{query.trim()}&quot;. Tente outro termo.
