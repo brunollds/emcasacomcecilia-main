@@ -16,7 +16,6 @@ export interface ShellCommercialLink {
 export interface ShellCopy {
   locale: Locale;
   tagline: string;
-  menuLabel: string;
   openMenuLabel: string;
   closeMenuLabel: string;
   languageLabel: string;
@@ -37,7 +36,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   pt: {
     locale: 'pt',
     tagline: 'Receitas que dão certo',
-    menuLabel: 'Menu & Busca',
     openMenuLabel: 'Abrir menu',
     closeMenuLabel: 'Fechar menu',
     languageLabel: 'Idioma',
@@ -56,7 +54,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   en: {
     locale: 'en',
     tagline: 'Home recipes & honest reviews',
-    menuLabel: 'Menu',
     openMenuLabel: 'Open menu',
     closeMenuLabel: 'Close menu',
     languageLabel: 'Language',
@@ -75,7 +72,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   es: {
     locale: 'es',
     tagline: 'Recetas caseras y opiniones sinceras',
-    menuLabel: 'Menú',
     openMenuLabel: 'Abrir menú',
     closeMenuLabel: 'Cerrar menú',
     languageLabel: 'Idioma',
@@ -94,7 +90,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   fr: {
     locale: 'fr',
     tagline: 'Recettes maison et avis sincères',
-    menuLabel: 'Menu',
     openMenuLabel: 'Ouvrir le menu',
     closeMenuLabel: 'Fermer le menu',
     languageLabel: 'Langue',
@@ -113,7 +108,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   de: {
     locale: 'de',
     tagline: 'Erprobte Rezepte & ehrliche Reviews',
-    menuLabel: 'Menü',
     openMenuLabel: 'Menü öffnen',
     closeMenuLabel: 'Menü schließen',
     languageLabel: 'Sprache',
@@ -132,7 +126,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   it: {
     locale: 'it',
     tagline: 'Ricette di casa e recensioni sincere',
-    menuLabel: 'Menu',
     openMenuLabel: 'Apri il menu',
     closeMenuLabel: 'Chiudi il menu',
     languageLabel: 'Lingua',
@@ -151,7 +144,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   ko: {
     locale: 'ko',
     tagline: '홈 레시피 & 솔직한 리뷰',
-    menuLabel: '메뉴',
     openMenuLabel: '메뉴 열기',
     closeMenuLabel: '메뉴 닫기',
     languageLabel: '언어',
@@ -170,7 +162,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   ja: {
     locale: 'ja',
     tagline: 'レシピと誠実なレビュー',
-    menuLabel: 'メニュー',
     openMenuLabel: 'メニューを開く',
     closeMenuLabel: 'メニューを閉じる',
     languageLabel: '言語',
@@ -189,7 +180,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   'zh-hant': {
     locale: 'zh-hant',
     tagline: '家常食譜與真實評測',
-    menuLabel: '選單',
     openMenuLabel: '開啟選單',
     closeMenuLabel: '關閉選單',
     languageLabel: '語言',
@@ -208,7 +198,6 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   'zh-hans': {
     locale: 'zh-hans',
     tagline: '家常食谱与真实测评',
-    menuLabel: '菜单',
     openMenuLabel: '打开菜单',
     closeMenuLabel: '关闭菜单',
     languageLabel: '语言',

@@ -29,6 +29,7 @@ export interface ShellMenu {
   moreLabel: string | null;
   searchLabels: { open: string; close: string } | null;
   reviewsListLabel: string | null;
+  dicasLabels: { short: string; long: string } | null;
 }
 
 export interface ActiveNav {
@@ -54,6 +55,7 @@ export function getShellMenu(locale: Locale): ShellMenu {
       moreLabel: null,
       searchLabels: null,
       reviewsListLabel: null,
+      dicasLabels: null,
     };
   }
 
@@ -76,6 +78,7 @@ export function getShellMenu(locale: Locale): ShellMenu {
     moreLabel: 'Mais',
     searchLabels: { open: 'Abrir busca', close: 'Fechar busca' },
     reviewsListLabel: 'Categorias de Guias & Análises',
+    dicasLabels: { short: 'Dicas', long: 'Dicas & Ofertas' },
   };
 }
 

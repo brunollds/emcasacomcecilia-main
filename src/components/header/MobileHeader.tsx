@@ -250,7 +250,7 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
                 onClick={closeMenu}
                 className="rounded-full bg-[#ff6b35] px-[15px] py-[7px] text-[13px] font-semibold text-white"
               >
-                Dicas & Ofertas
+                {menu.dicasLabels?.long}
               </Link>
               <Link
                 href={brandLinks.damie}

@@ -300,14 +300,14 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
             {copy.damieLabel}
           </Link>
         )}
-        {isPt && (
+        {menu.dicasLabels && (
           <Link
             href={brandLinks.dicas}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1.5 rounded-full bg-[#ff6b35] px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-[#ff5722]"
           >
-            Dicas
+            {menu.dicasLabels.short}
             <ArrowRight className="h-3.5 w-3.5" />
           </Link>
         )}
