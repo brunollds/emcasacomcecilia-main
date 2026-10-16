@@ -124,9 +124,9 @@ for (const coupon of COUPONS) {
 }
 
 // Regra do Bruno (16/10/2026): todo cupom soma com as promoções vigentes da loja, e só a exceção confirmada
-// aparece no texto. A YesStyle (código de recompensa) e a Magalu (códigos da loja Magazine Você) seguem regras
-// próprias; a Kopenhagen está pausada.
-const ownAccumulationRules = new Set(['yesstyle', 'magalu', 'kopenhagen']);
+// aparece no texto, a Magazine Você da Magalu inclusive. A YesStyle (código de recompensa) segue regra própria, e a
+// Kopenhagen está pausada.
+const ownAccumulationRules = new Set(['yesstyle', 'kopenhagen']);
 for (const coupon of COUPONS) {
   if (coupon.offerMode !== 'discount-code' || ownAccumulationRules.has(coupon.slug)) continue;
   assert.match(coupon.combinable, /soma com (todas )?as promoções/i, `${coupon.slug}: combinable sem a soma com as promoções`);

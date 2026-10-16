@@ -705,7 +705,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja Magazine Você',
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
-      'Em regra, cupons não acumulam com outras promoções; confirme no checkout',
+      'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
     lastVerified: '2026-10-01',
     testNote:
       'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
@@ -735,7 +735,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Os cupons são cumulativos com outras promoções?',
         answer:
-          'Em regra, estes códigos da Cecília não acumulam com outras promoções ou códigos na loja Magazine Você da Cecília. O valor final exibido no checkout é sempre a referência.',
+          'Sim. Os códigos da Cecília somam com as promoções vigentes da loja Magazine Você da Cecília e com o desconto do Pix. O valor final exibido no checkout é sempre a referência.',
       },
       {
         question: 'O cupom dá frete grátis?',
