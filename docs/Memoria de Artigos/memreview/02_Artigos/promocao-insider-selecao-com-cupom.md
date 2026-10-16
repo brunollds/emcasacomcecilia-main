@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "escolha das fotos pelo Bruno; Job 2 (redação)"
+proxima_acao: "GO do Bruno para o upload das 21 imagens; gates; PR"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
@@ -389,3 +389,20 @@ tabela → site → com o cupom; cores e tamanhos em estoque em 15/10, citando o
 ## Perguntas para o Bruno
 1. Foto de cada produto na folha de 15/10 (padrão: a primeira, "a").
 2. Os 4 produtos da capa.
+
+## Decisões do Bruno (15/10/2026)
+
+1. **Cupom nas 20 peças:** o aviso "R$100 OFF … não acumula com cupons" na descrição do Short
+   Endorphine, do Short Serotonin, da Maxi Saia NYIN e da Camisa Oversized FutureForm Feminina não vale
+   para a seleção. O Bruno testou pelos links de criador: a página do produto abre com o cupom aplicado
+   (ex.: Maxi Saia NYIN, "A partir de R$409 R$306 com cupom EMCASACOMCECILIA", "2x de R$ 152,57 sem
+   juros"). O texto diz que, pelos botões, a página já abre com o cupom aplicado.
+2. **Fotos:** a primeira foto ("a") de cada produto, 900×900 em WebP, em
+   `public/images/reviews/insider/selecao-insider-<handle>.webp`.
+3. **Capa:** colagem 1600×900 com as fotos "a" de The Perfect Top, Tech T-Shirt, Tech T-Shirt Gola V,
+   Core T-Shirt, Camisa Oversized FutureForm, Tube Dress, Vestido Rush e Wingsuit
+   (`selecao-insider-capa.webp`).
+4. **Formato e endereço:** uma seção por produto; endereço fixo, lista atualizada todo mês.
+
+Origem das imagens: fotos oficiais de produto do CDN da Insider (cdn.shopify.com da loja), usadas na
+divulgação da parceria.
