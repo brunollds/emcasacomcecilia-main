@@ -2,14 +2,11 @@
 
 import Link from 'next/link';
 import { brandLinks, socialMedias } from '@/lib/brandLinks';
-import {
-  getShellCommercialLinks,
-  getShellCopy,
-  getShellHomeHref,
-  getShellNavLinks,
-} from '@/lib/i18n/shellDictionary';
+import { getShellCommercialLinks, getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
+import { getShellMenu } from '@/lib/i18n/shellMenu';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
-import { getConsentCopy } from '@/components/consent/consentCopy';
+import SiteName from '@/components/header/SiteName';
+import { getConsentCopy, CONSENT_PRIVACY_HREF } from '@/components/consent/consentCopy';
 import { openConsentPreferences } from '@/lib/consent';
 import { FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 
@@ -50,6 +47,19 @@ const socialLinks = [
   })),
 ].filter((social) => Boolean(social.icon));
 
+const CONTACT_EMAIL = 'contato@emcasacomcecilia.com';
+
+const LINK_CLASS = 'transition-colors hover:text-[#ff6b35]';
+
+function FooterColumn({ title, className = '', children }) {
+  return (
+    <div className={className}>
+      <p className="mb-3 text-[0.8rem] font-extrabold text-white">{title}</p>
+      <ul className="flex flex-col gap-2.5 text-sm font-medium text-white/78">{children}</ul>
+    </div>
+  );
+}
+
 export default function Footer({ lang = 'pt-BR' }) {
   const currentYear = new Date().getFullYear();
 
@@ -57,93 +67,97 @@ export default function Footer({ lang = 'pt-BR' }) {
 
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
-  const navLinks = getShellNavLinks(localeKey);
+  const menu = getShellMenu(localeKey);
   const commercialLinks = getShellCommercialLinks(localeKey);
   const homeHref = getShellHomeHref(localeKey);
   const consentCopy = getConsentCopy(localeKey);
 
+  const exploreLinks = [
+    ...menu.primary,
+    ...menu.more.filter((item) => item.id === 'videos'),
+    ...commercialLinks,
+  ];
+  const houseLinks = menu.more.filter((item) => item.id !== 'videos');
+
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
       <div className="mx-auto max-w-7xl">
-        <div className="flex flex-col items-center gap-6 border-b border-white/10 pb-6 text-center lg:flex-row lg:items-center lg:justify-between lg:text-left">
-          <Link href={homeHref} className="group flex flex-col items-center justify-center">
-            <span
-              className="inline-flex items-baseline gap-[1.5px] text-white"
-              style={{ fontSize: '1.62rem', fontWeight: 800, letterSpacing: '-0.5px', lineHeight: 1 }}
-            >
-              <span style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px', color: '#ffffff' }}>em</span>
-              <span style={{ fontSize: '1em', fontWeight: 800, letterSpacing: '-0.4px', color: '#ffffff' }}>CASA</span>
-              <span style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px', color: '#ffffff' }}>com</span>
-              <span
-                className="border-b-2 border-[#ff6b35]/80 pb-0.5"
-                style={{
-                  fontSize: '1em',
-                  fontWeight: 800,
-                  letterSpacing: '-0.4px',
-                  color: '#ff6b35',
-                }}
-              >
-                CECÍLIA
-              </span>
-            </span>
-            <span className="mt-1 text-center text-[0.65rem] font-medium tracking-[0.3px] text-white/70">
-              {copy.tagline}
-            </span>
-          </Link>
+        <div className="flex flex-col gap-10 border-b border-white/10 pb-8 lg:flex-row lg:justify-between lg:gap-16">
+          <div className="flex flex-col items-center gap-5 text-center lg:items-start lg:text-left">
+            <Link href={homeHref} className="group flex flex-col items-center lg:items-start">
+              <SiteName style={{ fontSize: '1.62rem' }} />
+              <span className="mt-1 text-[0.65rem] font-medium tracking-[0.3px] text-white/70">{copy.tagline}</span>
+            </Link>
 
-          <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-medium text-white/78 lg:justify-start">
-            {navLinks.map((link) => (
-              <Link key={link.href} href={link.href} className="transition-colors hover:text-[#ff6b35]">
-                {link.label}
-              </Link>
-            ))}
-            {commercialLinks.map((link) => (
-              <Link key={link.id} href={link.href} className="transition-colors hover:text-[#ff6b35]">
-                {link.label}
-              </Link>
-            ))}
-            {isPt && (
-              <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">
-                Dicas
-              </a>
-            )}
-            {isPt && (
-              <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">
-                {copy.damieLabel}
-              </a>
-            )}
-          </nav>
+            <div className="flex items-center justify-center gap-2">
+              {socialLinks.map((social) => (
+                <a
+                  key={social.name}
+                  href={social.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-colors hover:border-[#ff6b35]/50 hover:bg-white/5 motion-safe:transition-all motion-safe:hover:-translate-y-0.5"
+                  aria-label={copy.followAria.replace('{social}', social.name)}
+                >
+                  <social.icon />
+                </a>
+              ))}
+            </div>
+          </div>
 
-          <div className="flex items-center justify-center gap-2">
-            {socialLinks.map((social) => (
-              <a
-                key={social.name}
-                href={social.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/50 hover:bg-white/5"
-                aria-label={copy.followAria.replace('{social}', social.name)}
-              >
-                <social.icon />
-              </a>
-            ))}
+          <div className={`grid gap-x-10 gap-y-8 lg:flex lg:gap-x-16 ${isPt ? 'grid-cols-2' : 'grid-cols-1 sm:grid-cols-2'}`}>
+            <FooterColumn title={copy.footerExploreLabel}>
+              {exploreLinks.map((link) => (
+                <li key={link.id}>
+                  <Link href={link.href} className={LINK_CLASS}>{link.label}</Link>
+                </li>
+              ))}
+            </FooterColumn>
+
+            {isPt ? (
+              <>
+                <FooterColumn title={menu.footerLabels.house}>
+                  {houseLinks.map((link) => (
+                    <li key={link.id}>
+                      <Link href={link.href} className={LINK_CLASS}>{link.label}</Link>
+                    </li>
+                  ))}
+                  <li>
+                    <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className={`font-bold text-white ${LINK_CLASS}`}>
+                      {menu.mediaKitLabel}
+                    </a>
+                  </li>
+                </FooterColumn>
+
+                <FooterColumn title={menu.footerLabels.partners} className="col-span-2 lg:col-span-1">
+                  <li>
+                    <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ff6b35] transition-colors hover:text-white">
+                      {menu.dicasLabels.long}
+                    </a>
+                  </li>
+                  <li>
+                    <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">
+                      {copy.damieLabel}
+                    </a>
+                  </li>
+                </FooterColumn>
+              </>
+            ) : (
+              <FooterColumn title={copy.contactLabel}>
+                <li>
+                  <a href={`mailto:${CONTACT_EMAIL}`} className={LINK_CLASS}>{CONTACT_EMAIL}</a>
+                </li>
+              </FooterColumn>
+            )}
           </div>
         </div>
 
         <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-left">
           <p>© {currentYear} Em Casa com Cecília. {copy.footerRights}</p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 lg:justify-start">
-            {isPt ? (
-              <>
-                <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">{copy.contactLabel}</Link>
-                <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>
-                <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">{copy.privacyLabel}</Link>
-              </>
-            ) : (
-              <>
-                <span className="text-white/60">{copy.contactLabel}: contato@emcasacomcecilia.com</span>
-              </>
-            )}
+            <Link href={CONSENT_PRIVACY_HREF} className={LINK_CLASS}>
+              {isPt ? copy.privacyLabel : consentCopy.privacyLabel}
+            </Link>
             <button
               type="button"
               onClick={openConsentPreferences}

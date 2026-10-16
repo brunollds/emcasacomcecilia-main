@@ -8,7 +8,6 @@ import {
   getShellCommercialLinks,
   getShellCopy,
   getShellHomeHref,
-  getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
 import { getActiveNav, getShellMenu, type ActiveNav } from '@/lib/i18n/shellMenu';
 
@@ -21,18 +20,20 @@ assert.equal(new Set(LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel)).si
 const ptCopy = getShellCopy('pt');
 
 for (const locale of LOCALE_KEYS) {
-  const navLinks = getShellNavLinks(locale);
   const commercialLinks = getShellCommercialLinks(locale);
   const copy = getShellCopy(locale);
 
-  for (const link of navLinks) {
-    assert.ok(!('primary' in link), `${locale}: ${link.href} ainda tem primary`);
-    assert.ok(!('desktop' in link), `${locale}: ${link.href} ainda tem desktop`);
-  }
   assert.ok(copy.openMenuLabel && copy.closeMenuLabel, `${locale}: rótulos do menu vazios`);
   if (locale !== 'pt') {
     assert.notEqual(copy.openMenuLabel, ptCopy.openMenuLabel, `${locale}: openMenuLabel igual ao PT`);
     assert.notEqual(copy.closeMenuLabel, ptCopy.closeMenuLabel, `${locale}: closeMenuLabel igual ao PT`);
+  }
+
+  assert.ok(copy.footerExploreLabel, `${locale}: footerExploreLabel vazio`);
+  if (locale !== 'pt') {
+    // "Explorar" é a mesma palavra em português e em espanhol.
+    if (locale !== 'es') assert.notEqual(copy.footerExploreLabel, ptCopy.footerExploreLabel, `${locale}: footerExploreLabel igual ao PT`);
+    else assert.equal(copy.footerExploreLabel, 'Explorar');
   }
 
   const menu = getShellMenu(locale);
@@ -63,11 +64,12 @@ for (const locale of LOCALE_KEYS) {
     assert.equal(menu.moreLabel, 'Mais');
     assert.deepEqual(menu.searchLabels, { open: 'Abrir busca', close: 'Fechar busca' });
     assert.equal(menu.reviewsListLabel, 'Categorias de Guias & Análises');
+    assert.deepEqual(menu.footerLabels, { house: 'Em Casa', partners: 'Parceiros' });
+    assert.equal(menu.mediaKitLabel, 'Media Kit');
     continue;
   }
 
   const hubPath = getReviewHubPath(locale);
-  assert.deepEqual(navLinks.map((link) => link.href), [hubPath]);
   // O logo e o seletor de idioma levam à home do idioma; a lista de artigos segue no menu.
   assert.equal(getShellHomeHref(locale), getLocaleHomePath(locale));
 
@@ -76,6 +78,8 @@ for (const locale of LOCALE_KEYS) {
   assert.equal(menu.moreLabel, null);
   assert.equal(menu.searchLabels, null);
   assert.equal(menu.reviewsListLabel, null);
+  assert.equal(menu.footerLabels, null);
+  assert.equal(menu.mediaKitLabel, null);
 
   const yesStyle = commercialLinks.find((link) => link.id === 'yesstyle');
   assert.ok(yesStyle.href);

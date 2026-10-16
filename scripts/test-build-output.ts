@@ -32,7 +32,7 @@ import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../sr
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES, getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { getShellCopy, getShellHomeHref, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
+import { getShellCommercialLinks, getShellCopy, getShellHomeHref } from '../src/lib/i18n/shellDictionary';
 import { getActiveNav, getShellMenu } from '../src/lib/i18n/shellMenu';
 import {
   LOCALE_HOME_LOCALES,
@@ -1687,6 +1687,9 @@ function ptHeaderTexts() {
     menu.searchLabels?.close,
     menu.dicasLabels?.short,
     menu.dicasLabels?.long,
+    menu.footerLabels?.house,
+    menu.footerLabels?.partners,
+    menu.mediaKitLabel,
     copy.openMenuLabel,
     copy.closeMenuLabel,
     ...menu.more.map((item) => item.label),
@@ -1697,7 +1700,6 @@ function ptHeaderTexts() {
 // de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
 const PT_ONLY_TEXTS = [
   ...Object.values(CECILIA_PHOTO_COPY_PT),
-  ...getShellNavLinks('pt').map((link) => link.label),
   ...shellTexts('pt'),
   ...ptHeaderTexts(),
   'Da minha casa',
@@ -1784,6 +1786,68 @@ for (const locale of LOCALE_HOME_LOCALES) {
 
   assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `sitemap.xml sem ${pagePath}`);
   assert.ok(llmsUrls.includes(`${SITE_URL}${pagePath}`), `llms.txt sem ${pagePath}`);
+}
+
+// O rodapé em colunas (o último <footer> da página): lê do mesmo menu do header, e fora do PT leva a lista de
+// artigos, as lojas e o e-mail de contato, sem página em português.
+const footerOf = (html: string) => [...bodyOf(html).matchAll(/<footer\b[^]*?<\/footer>/g)].at(-1)?.[0] ?? '';
+const footerAnchors = (footer: string) =>
+  [...footer.matchAll(/<a\b([^>]*)>/g)].flatMap(([, attrs]) => {
+    const href = attrs.match(/\shref="([^"]*)"/)?.[1];
+    return href === undefined ? [] : [{ href: decodeHtml(href), className: attrs.match(/class="([^"]*)"/)?.[1] ?? '' }];
+  });
+
+function footerProblems(footer: string, locale: Locale): string[] {
+  const problems: string[] = [];
+  const check = (ok: boolean, message: string) => {
+    if (!ok) problems.push(message);
+  };
+  const anchors = footerAnchors(footer);
+  const hrefs = anchors.map((anchor) => anchor.href);
+  const copy = getShellCopy(locale);
+  const menu = getShellMenu(locale);
+  check(hrefs.includes('/privacidade'), 'sem /privacidade');
+  check(footer.includes(`>${getConsentCopy(locale).privacyLabel}<`) || locale === 'pt', 'Privacidade sem o rótulo do idioma');
+  check(footer.includes(`>${copy.footerExploreLabel}<`), 'sem o título da coluna Explorar');
+
+  if (locale === 'pt') {
+    check(menu.footerLabels !== null && footer.includes(`>${menu.footerLabels.house}<`), 'sem o título Em Casa');
+    check(menu.footerLabels !== null && footer.includes(`>${menu.footerLabels.partners}<`), 'sem o título Parceiros');
+    for (const href of ['/reviews', '/cupons', '/receitas', '/videos', '/sobre', '/faqs', '/contato', brandLinks.mediaKit, brandLinks.dicas, brandLinks.damie]) {
+      check(hrefs.includes(href), `sem o link ${href}`);
+    }
+    check(hrefs.filter((href) => href === '/contato').length === 1, '/contato não aparece uma vez só');
+    check(anchors.find((anchor) => anchor.href === brandLinks.mediaKit)?.className.split(' ').includes('font-bold') ?? false, 'Media Kit sem font-bold');
+    check(!footer.includes('mailto:'), 'e-mail no rodapé em português');
+    return problems;
+  }
+
+  const store = getShellCommercialLinks(locale);
+  for (const href of [...menu.primary.map((item) => item.href), ...store.map((link) => link.href)]) check(hrefs.includes(href), `sem o link ${href}`);
+  check(hrefs.includes('mailto:contato@emcasacomcecilia.com'), 'sem o mailto de contato');
+  check(footer.includes(`>${copy.contactLabel}<`), 'sem o título Contato');
+  for (const href of ['/sobre', '/faqs', '/contato', brandLinks.mediaKit, brandLinks.dicas, brandLinks.damie]) {
+    check(!hrefs.includes(href), `link ${href} no rodapé de outro idioma`);
+  }
+  return problems;
+}
+
+{
+  const ptFooter = footerOf(read(builtFile(`${SITE_URL}/`)!));
+  assert.ok(ptFooter, '/: sem <footer>');
+  assert.deepEqual(footerProblems(ptFooter, 'pt'), [], '/: rodapé');
+
+  const enFile = builtFile(`${SITE_URL}/en/reviews`);
+  assert.ok(enFile, '/en/reviews: página não gerada no build');
+  const enFooter = footerOf(read(enFile));
+  assert.ok(enFooter, '/en/reviews: sem <footer>');
+  assert.deepEqual(footerProblems(enFooter, 'en'), [], '/en/reviews: rodapé');
+
+  // Caso negativo: o conferidor pega /contato duas vezes e o Media Kit sem destaque.
+  const twice = ptFooter.replace('</footer>', '<a href="/contato">Contato</a></footer>');
+  assert.ok(footerProblems(twice, 'pt').some((problem) => problem.includes('/contato')), 'rodapé com /contato duas vezes passou');
+  const plainKit = ptFooter.replaceAll('font-bold', 'font-normal');
+  assert.ok(footerProblems(plainKit, 'pt').some((problem) => problem.includes('Media Kit')), 'Media Kit sem destaque passou');
 }
 
 // O Person da /sobre é a mesma Cecília das homes, e nenhum grupo de nós conferidos fica vazio: sem isto, um
