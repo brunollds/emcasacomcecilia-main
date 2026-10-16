@@ -406,3 +406,21 @@ tabela → site → com o cupom; cores e tamanhos em estoque em 15/10, citando o
 
 Origem das imagens: fotos oficiais de produto do CDN da Insider (cdn.shopify.com da loja), usadas na
 divulgação da parceria.
+
+## Passagem para a sessão de elaboração de artigos (15/10/2026)
+
+Estado em 15/10, na branch `claude/insider-selecao-outubro`:
+- **Commitado:** só este briefing e o painel.
+- **Pronto, fora de commit:** o JSON do artigo (id 443, 28 seções, 20 com foto e botão), as 21 imagens
+  WebP, as 21 entradas novas de `data/media-manifest.json` (só inserções) e o slug em
+  `content/reviews/_manifest.json`. Cópia de tudo no staging `Downloads\Midias-Editorial`:
+  - `images/reviews/insider/selecao-insider-*.webp` (as 21 imagens, para `--staging-root`);
+  - `handoff-promocao-insider/promocao-insider-selecao-com-cupom.json`, `manifestos.patch` (diff dos
+    dois manifestos) e `texto-aprovado.md`.
+- **Gates no worktree de origem:** typecheck, lint e o build completo verdes, com a matriz e o
+  `test:build-output` cobrindo a página nova. O `validate:content` e o `npm run build` normal param
+  no cupom FALL26 da YesStyle, vencido em 15/10 (fora do escopo de artigos: decisão do Bruno).
+- **Upload:** o GO do Bruno foi dado em 15/10, mas o envio não chegou ao CDN (as 21 URLs davam 404 e
+  não havia recibo). Refazer o upload, depois `verify-remote --write`, `prepare-delivery --append`,
+  `phase5-export --write`/`--check`, `test-delivery-integration`, staging explícito,
+  `candidate-proof`, commit, PR e merge após o Gate 1. Deploy só com decisão do Bruno.
