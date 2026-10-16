@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useRef, useState, type FocusEvent, type PointerEvent as ReactPointerEvent, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type FocusEvent, type MouseEvent as ReactMouseEvent, type PointerEvent as ReactPointerEvent, type ReactNode } from 'react';
 import { ArrowRight, ChevronDown, Search, X } from 'lucide-react';
 import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
@@ -63,8 +63,14 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
     timer.current = setTimeout(() => setOpenList(null), CLOSE_DELAY_MS);
   };
 
-  const toggle = (id: ListId) => {
+  // Com o mouse, o hover já abriu a lista quando o clique chega: o clique só abre. Teclado e toque alternam.
+  const toggle = (id: ListId, event: ReactMouseEvent) => {
     clearTimer();
+    const pointerType = (event.nativeEvent as PointerEvent).pointerType;
+    if (pointerType === 'mouse') {
+      setOpenList(id);
+      return;
+    }
     setOpenList((current) => (current === id ? null : id));
   };
 
@@ -165,7 +171,7 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
       aria-controls={`header-lista-${id}`}
       aria-label={id === 'reviews' ? label : undefined}
       aria-current={current}
-      onClick={() => toggle(id)}
+      onClick={(event) => toggle(id, event)}
       className={`flex items-center gap-1 whitespace-nowrap text-sm transition-colors ${className}`}
     >
       {content}
