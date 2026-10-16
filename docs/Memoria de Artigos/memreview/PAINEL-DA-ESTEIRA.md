@@ -11,7 +11,7 @@
 - [ ] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82)
 - [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84)
 - [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76)
-- [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / Pillow Top Magnum ou HR Gel da Ortobom (briefing; Score Aut: 70 / Conv: 76)
+- [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros I Wanna Sleep ou Ortobom (briefing, recorte de travesseiros; Score Aut: 72 / Conv: 78)
 
 ---
 
