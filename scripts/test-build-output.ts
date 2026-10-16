@@ -3231,8 +3231,12 @@ function headerProblems(html: string, pathname: string, locale: Locale) {
     if (desktopMarks.length + allDrawerMarks.length > 0) problems.push('aria-current numa página fora das seções');
     return problems;
   }
-  const drawerMarks = allDrawerMarks.filter((mark) => !(active.item && mark.href === active.pageHref));
   const menu = getShellMenu(locale);
+  // O item aberto da grade do Mais (ex.: /videos numa página de vídeo) leva a marca dele, que não é a da linha da seção.
+  const openMoreHref = active.section === 'more' ? menu.more.find((item) => item.id === active.item)?.href : undefined;
+  const drawerMarks = allDrawerMarks.filter(
+    (mark) => !(active.item && mark.href === active.pageHref) && !(openMoreHref && mark.href === openMoreHref),
+  );
   const sectionHref =
     menu.primary.find((item) => item.id === active.section)?.href ??
     (active.section === 'yesstyle' ? getYesStyleLocaleConfig(locale).hubPath : `/${locale}/coupons/shein`);
@@ -3264,6 +3268,7 @@ const HEADER_PAGES: Array<[string, Locale]> = [
   ['/cupons/damie', 'pt'],
   [`/receitas/${publishedRecipe.slug}`, 'pt'],
   ['/videos', 'pt'],
+  [`/videos/${videoPages[0].slug}`, 'pt'],
   ['/', 'pt'],
   ['/en/reviews/how-to-find-valid-yesstyle-coupon-codes', 'en'],
   ['/en/coupons/yesstyle', 'en'],
@@ -3319,6 +3324,15 @@ assertHeaderMotionOnlyWhenAllowed(css);
 assert.throws(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{transition:opacity .2s}`), /fora do @media/);
 assert.throws(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{animation:x 1s}`), /fora do @media/);
 assert.doesNotThrow(() => assertHeaderMotionOnlyWhenAllowed(`${css}\n.header-solto{color:red}`));
+
+// O mesmo vale para os componentes do header: transition-transform sem o motion-safe: anima mesmo com "reduzir movimento".
+const looseTransformTransitions = (source: string) => [...source.matchAll(/(?<!motion-safe:)\btransition-transform\b/g)].length;
+for (const file of fs.readdirSync('src/components/header').filter((name) => name.endsWith('.tsx'))) {
+  const source = fs.readFileSync(path.join('src/components/header', file), 'utf8');
+  assert.equal(looseTransformTransitions(source), 0, `header/${file}: transition-transform sem motion-safe:`);
+}
+assert.equal(looseTransformTransitions('className="transition-transform"'), 1, 'controle: transition-transform solto passou');
+assert.equal(looseTransformTransitions('className="motion-safe:transition-transform"'), 0, 'controle: motion-safe: barrado');
 
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
 // aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
