@@ -6,9 +6,9 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 72
@@ -314,3 +314,10 @@ H1: **Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e
 2. **"Pró Látex não é látex":** podemos dar destaque a esse ponto, com o trecho literal da ficha e sem juízo de valor? É um fato oficial, mas aponta o nome de um concorrente.
 3. **Pillow top:** entra como seção curta de apoio (Magnum × HR Gel, em duas linhas, com link para o guia do Magnum) ou fica de fora para manter o foco nos travesseiros?
 4. **Região de preço da Ortobom:** São Paulo como referência basta, ou quer outra cidade?
+
+## Decisões do Bruno (16/10/2026)
+
+1. **Divisão com o artigo da Emma:** aprovada. Este artigo fica com a intenção "I Wanna Sleep ou Ortobom". Depois da publicação, um PR próprio tira a parte da Ortobom do `travesseiro-i-wanna-sleep-ou-emma` (H1, seção e pergunta frequente) e atualiza os preços de 12/10.
+2. **Pró Látex:** entra com o trecho literal da ficha da Ortobom (espuma de poliuretano), sem título acusatório e sem juízo de valor. O título da seção 4 do esqueleto fica neutro, por exemplo "O que tem dentro do Pró Látex".
+3. **Pillow top:** entra. A I Wanna Sleep vende o pillow top no site, então a seção 9 do esqueleto (Magnum × HR Gel, curta, com link para o guia do Magnum) deixa de ser opcional.
+4. **Região de preço da Ortobom:** São Paulo (capital) como referência, dita no texto.
