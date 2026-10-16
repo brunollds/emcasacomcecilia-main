@@ -19,8 +19,9 @@ import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStore
 // que rola na horizontal, no celular e no computador: a bolinha seguinte aparece pela metade, um degradê
 // em cada borda some quando não há mais para aquele lado e, a partir de md, uma seta em cada ponta anda
 // a faixa (as setas ficam fora do tablist, que só pode ter abas). No celular as bolinhas entram da direita
-// na carga (.bolinha no globals.css) e a faixa dá um empurrãozinho uma vez por sessão. As imagens das bolinhas carregam já (loading="eager", sem
-// fetchpriority, que é da imagem do story): a faixa está sempre na primeira tela.
+// na carga (.bolinha no globals.css) e a faixa dá um empurrãozinho uma vez por sessão. As imagens das
+// bolinhas carregam já (loading="eager", sem fetchpriority, que é da imagem do story): a faixa está
+// sempre na primeira tela.
 
 // O lado de onde o painel novo entra: 1 pela direita, -1 pela esquerda.
 export type TabDirection = 1 | -1;
@@ -72,8 +73,8 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
     });
   }, [selected, stripRef]);
 
-  // O empurrãozinho, depois da entrada das bolinhas (só no celular): só com a faixa no começo, sem ninguém ter mexido
-  // nela e sem a página ter aberto numa loja pelo endereço (#loja-…).
+  // O empurrãozinho, depois da entrada das bolinhas (só no celular): só com a faixa no começo, sem
+  // ninguém ter mexido nela e sem a página ter aberto numa loja pelo endereço (#loja-…).
   useEffect(() => {
     const strip = stripRef.current;
     if (!strip || window.matchMedia('(prefers-reduced-motion: reduce)').matches || window.matchMedia('(min-width: 768px)').matches) return;

@@ -4,8 +4,6 @@ import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
 // daqui; os dados das lojas chegam prontos de homeStores.ts, que fica no servidor.
 
 export const CECILIA_TAB_ID = 'cecilia';
-// Loja aberta ao entrar na home (decisão de 07/10).
-const DEFAULT_STORE_SLUG = 'damie';
 
 export type HomeStoreArticle = {
   slug: string;
@@ -54,8 +52,8 @@ export function parseTabHash(hash: string, storeSlugs: readonly string[]): strin
   return storeSlugs.includes(slug) ? slug : null;
 }
 
+// A home abre na primeira loja da faixa, a do artigo mais novo (Bruno, 16/10; de 07/10 até então, a DAMIE).
 export function getDefaultTabId(storeSlugs: readonly string[]): string {
-  if (storeSlugs.includes(DEFAULT_STORE_SLUG)) return DEFAULT_STORE_SLUG;
   return storeSlugs[0] ?? CECILIA_TAB_ID;
 }
 

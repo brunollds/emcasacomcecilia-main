@@ -89,8 +89,7 @@ assert.equal(parseTabHash('#loja-kopenhagen', slugs), null, 'loja fora da vitrin
 assert.equal(parseTabHash('#yesstyle', slugs), null, 'sem o prefixo loja-');
 assert.equal(parseTabHash('#loja-', slugs), null);
 assert.equal(parseTabHash('', slugs), null);
-assert.equal(getDefaultTabId(['dolce-gusto', 'damie']), 'damie');
-assert.equal(getDefaultTabId(['dolce-gusto']), 'dolce-gusto', 'sem a DAMIE, a primeira loja');
+assert.equal(getDefaultTabId(['dolce-gusto', 'damie']), 'dolce-gusto', 'a primeira loja da faixa, sem preferência pela DAMIE');
 assert.equal(getDefaultTabId([]), CECILIA_TAB_ID);
 assert.deepEqual(getTabOrder(slugs), ['cecilia', 'damie', 'yesstyle'], 'a Cecília vem primeiro');
 assert.deepEqual(getTabOrder([]), ['cecilia'], 'sem loja, só a Cecília');
