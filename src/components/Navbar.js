@@ -216,15 +216,11 @@ export default function Navbar({ lang = 'pt-BR' }) {
               )}
 
               <nav className="flex min-w-0 items-center gap-4">
-                {navLinks.filter((link) => link.desktop !== false).map((link) => (
+                {navLinks.map((link) => (
                   <Link
                     key={link.href}
                     href={link.href}
-                    className={`whitespace-nowrap text-sm transition-colors ${
-                      link.primary
-                        ? 'border-b-2 border-[#ff6b35] pb-1 font-bold text-white'
-                        : 'font-medium text-white/78 hover:text-white'
-                    }`}
+                    className="whitespace-nowrap text-sm font-medium text-white/78 transition-colors hover:text-white"
                   >
                     {link.label}
                   </Link>
