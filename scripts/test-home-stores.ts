@@ -9,6 +9,7 @@ import sitemap from '@/app/sitemap';
 import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
 import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
 import { HomeLatest } from '@/components/sections/HomeLatest';
+import { HomeStoreStrip } from '@/components/sections/HomeStoreStrip';
 import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { cardImageLook } from '@/lib/cardImage';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
@@ -342,6 +343,29 @@ const imageConfig: ImageConfigComplete = {
 };
 const decodeEntities = (text: string) =>
   text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+// A faixa de bolinhas: uma linha que rola (sem quebrar linha no computador), as abas na ordem das abas e as duas
+// setas fora do tablist.
+const stripHtml = renderToStaticMarkup(
+  createElement(
+    ImageConfigContext.Provider,
+    { value: imageConfig },
+    createElement(HomeStoreStrip, { tabs, ceciliaPhoto: '/images/photos/BRU-1.jpg', selected: CECILIA_TAB_ID, onSelect: () => {} })
+  )
+);
+const tablistAt = stripHtml.indexOf('role="tablist"');
+const tablistEnd = stripHtml.indexOf('</div>', tablistAt);
+const tablistHtml = stripHtml.slice(tablistAt, tablistEnd);
+assert.ok(!stripHtml.includes('md:flex-wrap') && stripHtml.includes('overflow-x-auto'), 'a faixa não quebra linha: rola');
+assert.deepEqual(
+  [...tablistHtml.matchAll(/<button[^>]*\sid="([^"]+)"/g)].map(([, id]) => id),
+  ['cecilia', ...tabs.map(({ slug }) => `loja-${slug}`)],
+  'bolinhas na ordem das abas, a Cecília primeiro'
+);
+for (const label of ['Ver lojas anteriores', 'Ver mais lojas']) {
+  assert.ok(stripHtml.includes(`aria-label="${label}"`), `seta "${label}"`);
+  assert.ok(!tablistHtml.includes(label), `seta "${label}" fora do tablist`);
+}
+
 const panelHtml = renderToStaticMarkup(
   createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel))
 );

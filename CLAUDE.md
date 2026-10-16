@@ -268,6 +268,10 @@ vídeo, primeiras impressões e uso noturno.
     link; sem vídeo, a seção some. Não há ofertas reserva. O vídeo do canal que tem página no site
     (`/videos/<slug>`) abre a página (`getChannelRow`, de `videosHub.ts`), e a seção tem o "Ver todos
     os vídeos".
+- As bolinhas da vitrine: a da Cecília fica sempre a primeira, e as lojas vêm pelo artigo PT listado mais novo
+  (`sortStoresByNewestArticle`, de `homeStores.ts`; empate e loja sem artigo mantêm a ordem de `couponsData.ts`, as
+  sem artigo no fim). `/reviews`, "Outras lojas" e a Outros usam a mesma função (a Outros segue por último). A faixa
+  é uma linha só que rola, no celular e no computador, com setas nas pontas a partir de `md` (`useRowScroll`).
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
