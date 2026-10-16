@@ -1306,8 +1306,10 @@ assert.match(css, /\.editorial-ambient-bg-review:{1,2}before\{[^}]*content:none/
 
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
 // (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
-// se um dia isso for de propósito, tire-o desta conferência.
-const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
+// se um dia isso for de propósito, tire-o desta conferência. A /reviews/outros é lista, não artigo.
+const articleUrls = sitemapUrls.filter(
+  (url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname) && new URL(url).pathname !== '/reviews/outros'
+);
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
 let notedArticles = 0;

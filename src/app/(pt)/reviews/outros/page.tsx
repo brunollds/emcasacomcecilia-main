@@ -56,6 +56,7 @@ export default function OthersArticlesPage() {
     path: page.path,
     items: page.articles.map((article) => ({ name: article.title, path: article.href })),
     breadcrumb: page.trail.slice(0, -1),
+    breadcrumbName: page.trail[page.trail.length - 1].name,
   });
 
   return (

@@ -46,19 +46,22 @@ export function getBreadcrumbListJsonLd(trail: readonly PageLink[]) {
   };
 }
 
-// A página como lista de artigos e o caminho até ela; o último item do caminho é a própria página.
+// A página como lista de artigos e o caminho até ela; o último item do caminho é a própria página, com o
+// nome da lista ou, quando a trilha visível a chama de outro jeito, o breadcrumbName.
 export function getCollectionPageJsonLd({
   name,
   description,
   path,
   items,
   breadcrumb,
+  breadcrumbName = name,
 }: {
   name: string;
   description: string;
   path: string;
   items: PageLink[];
   breadcrumb: PageLink[];
+  breadcrumbName?: string;
 }) {
   return [
     {
@@ -78,6 +81,6 @@ export function getCollectionPageJsonLd({
         })),
       },
     },
-    getBreadcrumbListJsonLd([...breadcrumb, { name, path }]),
+    getBreadcrumbListJsonLd([...breadcrumb, { name: breadcrumbName, path }]),
   ];
 }
