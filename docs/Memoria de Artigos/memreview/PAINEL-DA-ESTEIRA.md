@@ -7,6 +7,11 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85) — texto aprovado em 16/10, segue para o Job 4
+- [ ] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82) — texto aprovado em 16/10, segue para o Job 4
+- [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84) — texto aprovado em 16/10, segue para o Job 4
+- [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) — texto aprovado em 16/10, segue para o Job 4
+- [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros (e pillow top) I Wanna Sleep ou Ortobom (Score Aut: 72 / Conv: 78) — texto aprovado em 16/10, segue para o Job 4
 
 ---
 
