@@ -105,7 +105,7 @@ export default function Footer({ lang = 'pt-BR' }) {
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-x-10 gap-y-8 lg:flex lg:gap-x-16">
+          <div className={`grid gap-x-10 gap-y-8 lg:flex lg:gap-x-16 ${isPt ? 'grid-cols-2' : 'grid-cols-1 sm:grid-cols-2'}`}>
             <FooterColumn title={copy.footerExploreLabel}>
               {exploreLinks.map((link) => (
                 <li key={link.id}>
