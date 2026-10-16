@@ -8,6 +8,7 @@ import {
   getStoreArticlesPage,
   getStoreArticlesPath,
   hasArticlesPage,
+  sortStoresByNewestArticle,
   type StoreReview,
 } from '@/lib/homeStores';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
@@ -158,11 +159,11 @@ function toShelfStore(store: Coupon, total: number): ShelfStore {
   };
 }
 
-// As lojas com subpágina, na ordem das lojas (a da vitrine da home), com o total de artigos de cada uma.
+// As lojas com subpágina, pelo artigo mais novo (a ordem das bolinhas da home), com o total de artigos de cada uma.
 function getShelfStores(reviews: readonly HubReview[], stores: readonly Coupon[]): ShelfStore[] {
   const listed = getListedPortugueseReviews(reviews);
   const withPage = new Set(getStoreArticlePageSlugs(reviews, stores));
-  return stores
+  return sortStoresByNewestArticle(stores, reviews)
     .filter(({ slug }) => withPage.has(slug))
     .map((store) => toShelfStore(store, listed.filter(({ affiliate }) => affiliate === store.slug).length));
 }

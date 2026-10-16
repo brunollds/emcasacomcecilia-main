@@ -1,25 +1,27 @@
 'use client';
 
 import {
-  useCallback,
   useEffect,
   useRef,
-  useState,
   type CSSProperties,
   type KeyboardEvent,
   type ReactNode,
 } from 'react';
 import Image from 'next/image';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
+import { ROW_ARROW, rowScrollBehavior, useRowScroll } from '@/components/ui/useRowScroll';
 import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStoreTab } from '@/lib/homeStoreTabs';
 
-// A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. No celular a faixa
-// rola na horizontal: a quinta bolinha aparece pela metade, um degradê na borda direita some no fim
-// da faixa, as bolinhas entram da direita na carga (.bolinha no globals.css) e a faixa dá um
-// empurrãozinho uma vez por sessão. As imagens das bolinhas carregam já (loading="eager", sem
-// fetchpriority, que é da imagem do story): a faixa está sempre na primeira tela.
+// A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. A faixa é uma linha só
+// que rola na horizontal, no celular e no computador: a bolinha seguinte aparece pela metade, um degradê
+// em cada borda some quando não há mais para aquele lado e, a partir de md, uma seta em cada ponta anda
+// a faixa (as setas ficam fora do tablist, que só pode ter abas). No celular as bolinhas entram da direita
+// na carga (.bolinha no globals.css) e a faixa dá um empurrãozinho uma vez por sessão. As imagens das
+// bolinhas carregam já (loading="eager", sem fetchpriority, que é da imagem do story): a faixa está
+// sempre na primeira tela.
 
 // O lado de onde o painel novo entra: 1 pela direita, -1 pela esquerda.
 export type TabDirection = 1 | -1;
@@ -55,41 +57,27 @@ type HomeStoreStripProps = {
 
 export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeStoreStripProps) {
   const order = getTabOrder(tabs.map(({ slug }) => slug));
-  const stripRef = useRef<HTMLDivElement>(null);
+  const { trackRef: stripRef, moreToTheRight, moreToTheLeft, scrollTrack } = useRowScroll<HTMLDivElement>(tabs);
   const tabRefs = useRef(new Map<string, HTMLButtonElement>());
   // Qualquer toque, roda do mouse ou tecla na faixa cancela o empurrãozinho.
   const touched = useRef(false);
-  const [moreToTheRight, setMoreToTheRight] = useState(false);
 
-  const updateEdge = useCallback(() => {
-    const strip = stripRef.current;
-    if (!strip) return;
-    setMoreToTheRight(strip.scrollLeft + strip.clientWidth < strip.scrollWidth - 1);
-  }, []);
-
-  useEffect(() => {
-    updateEdge();
-    window.addEventListener('resize', updateEdge);
-    return () => window.removeEventListener('resize', updateEdge);
-  }, [updateEdge]);
-
-  // No celular as bolinhas rolam na horizontal: a escolhida vem para o meio da faixa.
+  // Quando as bolinhas passam da largura da faixa, a escolhida vem para o meio dela.
   useEffect(() => {
     const strip = stripRef.current;
     const tab = tabRefs.current.get(selected);
     if (!strip || !tab || strip.scrollWidth <= strip.clientWidth) return;
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     strip.scrollTo({
       left: tab.offsetLeft - (strip.clientWidth - tab.offsetWidth) / 2,
-      behavior: reduceMotion ? 'auto' : 'smooth',
+      behavior: rowScrollBehavior(),
     });
-  }, [selected]);
+  }, [selected, stripRef]);
 
-  // O empurrãozinho, depois da entrada das bolinhas: só com a faixa no começo, sem ninguém ter mexido
-  // nela e sem a página ter aberto numa loja pelo endereço (#loja-…).
+  // O empurrãozinho, depois da entrada das bolinhas (só no celular): só com a faixa no começo, sem
+  // ninguém ter mexido nela e sem a página ter aberto numa loja pelo endereço (#loja-…).
   useEffect(() => {
     const strip = stripRef.current;
-    if (!strip || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    if (!strip || window.matchMedia('(prefers-reduced-motion: reduce)').matches || window.matchMedia('(min-width: 768px)').matches) return;
     const slugs = tabs.map(({ slug }) => slug);
     if (parseTabHash(window.location.hash, slugs) !== null || alreadyNudged()) return;
     const timers: number[] = [];
@@ -108,7 +96,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
       }, NUDGE_DELAY_MS)
     );
     return () => timers.forEach((timer) => window.clearTimeout(timer));
-  }, [tabs]);
+  }, [tabs, stripRef]);
 
   function markTouched() {
     touched.current = true;
@@ -147,11 +135,10 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
         ref={stripRef}
         role="tablist"
         aria-label="Escolha a Cecília ou uma loja"
-        onScroll={updateEdge}
         onPointerDown={markTouched}
         onWheel={markTouched}
         onKeyDown={markTouched}
-        className="flex gap-2.5 overflow-x-auto px-4 pt-1.5 pb-2 [scrollbar-width:none] md:flex-wrap md:gap-3.5 md:overflow-visible md:px-0"
+        className="flex gap-2.5 overflow-x-auto px-4 pt-1.5 pb-2 [scrollbar-width:none] md:gap-3.5 md:px-2"
       >
         <StoreBubble
           tabId={CECILIA_TAB_ID}
@@ -182,10 +169,33 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
       </div>
       <span
         aria-hidden="true"
-        className={`pointer-events-none absolute inset-y-0 right-0 w-12 bg-linear-to-l from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 md:hidden ${
+        className={`pointer-events-none absolute inset-y-0 left-0 w-12 bg-linear-to-r from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 max-md:hidden ${
+          moreToTheLeft ? 'opacity-100' : 'opacity-0'
+        }`}
+      />
+      <span
+        aria-hidden="true"
+        className={`pointer-events-none absolute inset-y-0 right-0 w-12 bg-linear-to-l from-white to-transparent motion-safe:transition-opacity motion-safe:duration-200 ${
           moreToTheRight ? 'opacity-100' : 'opacity-0'
         }`}
       />
+      {/* As setas ficam no centro dos discos (80 px + 6 px de folga em cima) e somem quando não há para onde ir. */}
+      <button
+        type="button"
+        onClick={() => scrollTrack('left')}
+        aria-label="Ver lojas anteriores"
+        className={`${ROW_ARROW} absolute top-6 left-1 max-md:hidden ${moreToTheLeft ? '' : 'invisible'}`}
+      >
+        <ChevronLeft aria-hidden="true" className="size-5" />
+      </button>
+      <button
+        type="button"
+        onClick={() => scrollTrack('right')}
+        aria-label="Ver mais lojas"
+        className={`${ROW_ARROW} absolute top-6 right-1 max-md:hidden ${moreToTheRight ? '' : 'invisible'}`}
+      >
+        <ChevronRight aria-hidden="true" className="size-5" />
+      </button>
     </div>
   );
 }

@@ -2390,6 +2390,25 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   check(stripImages.every((image) => /\sloading="eager"/.test(image)), 'faixa das bolinhas: imagem sem loading="eager"');
   check(stripImages.every((image) => !/\sfetchpriority=/i.test(image)), 'faixa das bolinhas: imagem com fetchpriority, que é do story');
 
+  // A ordem das bolinhas: a Cecília primeiro e as lojas pelo artigo mais novo (a mesma de /reviews). A faixa é uma
+  // linha só que rola, com as setas fora do tablist (que só leva abas).
+  const stripHtml = between(body, 'role="tablist"', ['</div>']);
+  const expectedStripIds = ['cecilia', ...expected.tabs.map(({ slug }) => `loja-${slug}`)];
+  // Só as bolinhas esperadas: o autoteste da loja pausada tira o painel e deixa a bolinha no HTML.
+  const stripTabIds = [...stripHtml.matchAll(/<button[^>]*\sid="(cecilia|loja-[a-z0-9-]+)"/g)]
+    .map(([, id]) => id)
+    .filter((id) => expectedStripIds.includes(id));
+  check(
+    JSON.stringify(stripTabIds) === JSON.stringify(expectedStripIds),
+    `faixa das bolinhas: ordem ${stripTabIds.join(', ')} diferente de ${expectedStripIds.join(', ')}`
+  );
+  const stripOpenTag = body.slice(body.lastIndexOf('<div', body.indexOf('role="tablist"')), body.indexOf('>', body.indexOf('role="tablist"')));
+  check(!/md:flex-wrap/.test(stripOpenTag) && /overflow-x-auto/.test(stripOpenTag), 'faixa das bolinhas: tem de ser uma linha que rola, também no computador');
+  check(
+    body.includes('aria-label="Ver lojas anteriores"') && body.includes('aria-label="Ver mais lojas"') && !stripHtml.includes('aria-label="Ver mais lojas"'),
+    'faixa das bolinhas: as setas ("Ver lojas anteriores" e "Ver mais lojas") faltam ou estão dentro do tablist'
+  );
+
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
   // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
   for (const tab of expected.tabs) {

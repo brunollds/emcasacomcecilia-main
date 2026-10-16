@@ -18,7 +18,7 @@ import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { Review } from '@/lib/content/types';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
-import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
+import { getStoreArticlePageSlugs, getStoreArticlesPage, sortStoresByNewestArticle } from '@/lib/homeStores';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
 import {
   REVIEW_CATEGORIES,
@@ -526,12 +526,16 @@ const real = getReviewsHubContent(publishedReviews);
 assert.deepEqual(slugs(real.articles), slugs(listed));
 assert.deepEqual(slugs(real.newArticles), slugs(listed.filter(({ isNew }) => isNew)));
 const realOthers = getOthersShelfContent(publishedReviews);
+const realPageStores = sortStoresByNewestArticle(
+  getStoreArticlePageSlugs(publishedReviews).map((slug) => store(slug)),
+  publishedReviews
+).map(({ slug }) => slug);
 assert.deepEqual(
   slugs(real.stores),
-  [...getStoreArticlePageSlugs(publishedReviews), ...(realOthers ? ['outros'] : [])],
-  'as lojas com subpágina e, por último, a Outros quando há página'
+  [...realPageStores, ...(realOthers ? ['outros'] : [])],
+  'as lojas com subpágina pelo artigo mais novo (a ordem da home) e, por último, a Outros quando há página'
 );
-assert.deepEqual(slugs(realOthers?.otherStores ?? []), getStoreArticlePageSlugs(publishedReviews), 'Outras lojas da Outros: só as lojas');
+assert.deepEqual(slugs(realOthers?.otherStores ?? []), realPageStores, 'Outras lojas da Outros: só as lojas, na mesma ordem');
 // A rota estática /reviews/outros vence o /reviews/[slug]: nenhum artigo nem loja pode ter o slug "outros".
 assert.ok(!publishedReviews.some(({ slug }) => slug === 'outros'), 'artigo com o slug "outros" ficaria inalcançável');
 assert.ok(!COUPONS.some(({ slug }) => slug === 'outros'), 'loja com o slug "outros" colidiria com a bolinha');
@@ -954,6 +958,17 @@ const strip = render(
 );
 assert.ok(strip.includes('aria-labelledby="titulo-por-loja"'));
 assert.match(strip, /<span class="marca-texto">Por loja<\/span>/);
+// A ordem é a do artigo mais novo de cada loja (a da home), não a dos dados: a DAMIE, com artigo mais novo, passa
+// à frente do Magalu em /reviews, em "Outras lojas" das subpáginas e na Outros, e a Outros segue por último.
+const damieNewer = [
+  ...twoStores,
+  ...[30, 31, 32].map((id) => review(id, `damie-novo-${id}`, { affiliate: 'damie', publishedAtISO: '2099-01-01' })),
+];
+const reorderedStores = [store('magalu'), store('damie')];
+assert.deepEqual(slugs(getReviewsHubContent(damieNewer, reorderedStores).stores), ['damie', 'magalu', 'outros']);
+const magaluNewer = [...twoStores, review(40, 'magalu-novo', { affiliate: 'magalu', publishedAtISO: '2099-01-01' })];
+assert.deepEqual(slugs(getReviewsHubContent(magaluNewer, [store('damie'), store('magalu')]).stores), ['magalu', 'damie', 'outros']);
+assert.deepEqual(slugs(getOthersShelfContent(damieNewer, reorderedStores)?.otherStores ?? []), ['damie', 'magalu']);
 const stripSlugs = (html: string) => [...html.matchAll(/href="\/reviews\/(?:loja\/)?([^"]+)"/g)].map(([, slug]) => slug);
 assert.deepEqual(stripSlugs(strip), ['damie', 'magalu', 'outros']);
 assert.deepEqual([...strip.matchAll(/--i:(\d+)/g)].map(([, position]) => Number(position)), [0, 1, 2]);
