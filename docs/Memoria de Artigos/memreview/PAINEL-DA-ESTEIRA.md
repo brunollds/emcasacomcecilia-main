@@ -7,6 +7,7 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[promocao-insider-selecao-com-cupom]] — Insider / Promoção Insider: 20 peças da seleção com o cupom, até 31/10, endereço fixo atualizado todo mês (Score Aut: 45 / Conv: 85)
 
 ---
 
