@@ -80008,5 +80008,700 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 443,
+    "slug": "promocao-insider-selecao-com-cupom",
+    "title": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA",
+    "seoTitle": "Promoção Insider: 20 peças com o cupom de 15%",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A seleção da Cecília na Insider: 20 peças de roupa íntima, camisetas, shorts, vestidos e casacos com o preço de tabela, o preço do site e o preço com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela, com as promoções valendo até 31/10.",
+    "metaDescription": "Promoção Insider: 20 peças com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela. Preços, cores e tamanhos de cada peça, com promoções até 31/10.",
+    "publishedAt": "15 de outubro de 2026",
+    "publishedAtISO": "2026-10-15",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/selecao-insider-capa.webp",
+    "imageAlt": "Colagem com oito peças da seleção Insider: The Perfect Top, Tech T-Shirt, Tech T-Shirt Gola V, Core T-Shirt, Camisa Oversized FutureForm, Tube Dress, Vestido Rush e Casaco Wingsuit",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Cinco peças ficam 49% abaixo da tabela com o cupom",
+      "O cupom de 15% sai sobre o preço que o site já mostra",
+      "Os botões abrem o produto com o cupom aplicado",
+      "Peças para o dia a dia, o treino e o trabalho, de R$ 35,19 a R$ 407,15 com o cupom"
+    ],
+    "cons": [
+      "As promoções do site valem até 31/10/2026",
+      "Algumas cores já tinham tamanhos esgotados em 15/10",
+      "Em várias peças o preço muda com a cor e o tamanho",
+      "Um cupom por pedido, e ele não vale em lançamentos nem na loja física"
+    ],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Confira o desconto em cada peça antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Seleção da Cecília, com preços conferidos no site da loja. Podemos receber comissão pelos links e pelo cupom EMCASACOMCECILIA.",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: promoção Insider com o cupom",
+        "bullets": [
+          "A Cecília escolheu 20 peças da Insider: 4 roupas íntimas, 9 camisas e camisetas e 7 bermudas, vestidos e outras peças. Todas aceitam o cupom.",
+          "As promoções do site valem até **31/10/2026**.",
+          "O cupom **EMCASACOMCECILIA** dá **15% OFF** sobre o preço que o site já mostra, sem valor mínimo. A loja aceita um cupom por pedido.",
+          "As maiores quedas ficam **49% abaixo da tabela** com o cupom: Calcinha Biquíni Brief, Calcinha Hot Pant Safe, Short Esportivo Endorphine, Short Fitness Serotonin e Vestido Curto Tube Dress.",
+          "A peça mais barata é a Calcinha Biquíni Brief: R$ 41,40 no site e **R$ 35,19** com o cupom.",
+          "O Em Casa com Cecília pode receber comissão pelas compras feitas pelos links e com o cupom. As regras estão na [página do cupom da Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Como ler os preços desta seleção",
+        "paragraphs": [
+          "Os preços foram conferidos em 15/10/2026. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque também são de 15/10. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
+        ],
+        "bullets": [
+          "**Preço de tabela:** o preço riscado na página do produto.",
+          "**No site:** o preço que a loja mostra, já com a promoção.",
+          "**Com o cupom:** o preço do site menos os 15% do EMCASACOMCECILIA.",
+          "**Abaixo da tabela:** quanto o preço com o cupom fica abaixo do preço riscado."
+        ]
+      },
+      {
+        "heading": "As 20 peças num quadro só",
+        "comparisonTable": {
+          "caption": "As 20 peças da seleção: preço no site, com o cupom e quanto fica abaixo da tabela, em 15/10/2026",
+          "headers": [
+            "Peça",
+            "No site",
+            "Com o cupom",
+            "Abaixo da tabela"
+          ],
+          "rows": [
+            [
+              "Calcinha Biquíni Brief",
+              "R$ 41,40",
+              "R$ 35,19",
+              "49%"
+            ],
+            [
+              "Calcinha Hot Pant Safe",
+              "R$ 47,40",
+              "R$ 40,29",
+              "49%"
+            ],
+            [
+              "Cueca Confortável Boxer Comfort",
+              "R$ 79,00",
+              "R$ 67,15",
+              "21%"
+            ],
+            [
+              "Cueca Boxer Performance",
+              "R$ 79,00",
+              "R$ 67,15",
+              "29%"
+            ],
+            [
+              "Blusa de Alça Feminina The Perfect Top",
+              "R$ 135,00",
+              "R$ 114,75",
+              "17%"
+            ],
+            [
+              "Tech T-Shirt®",
+              "R$ 139,00",
+              "R$ 118,15",
+              "30%"
+            ],
+            [
+              "Tech T-Shirt® Gola V Feminina",
+              "R$ 139,00",
+              "R$ 118,15",
+              "30%"
+            ],
+            [
+              "Blusa Skin Cropped",
+              "R$ 99,00",
+              "R$ 84,15",
+              "29%"
+            ],
+            [
+              "Cropped Regata Structure",
+              "R$ 109,00",
+              "R$ 92,65",
+              "28%"
+            ],
+            [
+              "Regata Intech Masculina",
+              "R$ 119,00",
+              "R$ 101,15",
+              "27%"
+            ],
+            [
+              "Camiseta Premium Encorpada Core T-Shirt",
+              "R$ 179,00",
+              "R$ 152,15",
+              "19%"
+            ],
+            [
+              "Camisa Social Alfaiataria Tech FutureForm® Masculina",
+              "R$ 415,00",
+              "R$ 352,75",
+              "27%"
+            ],
+            [
+              "Camisa Oversized Alfaiataria Tech FutureForm® Feminina",
+              "R$ 449,00",
+              "R$ 381,65",
+              "26%"
+            ],
+            [
+              "Short Esportivo Endorphine",
+              "R$ 167,00",
+              "R$ 141,95",
+              "49%"
+            ],
+            [
+              "Short Fitness Serotonin",
+              "R$ 215,00",
+              "R$ 182,75",
+              "49%"
+            ],
+            [
+              "Vestido Curto Tube Dress",
+              "R$ 209,00",
+              "R$ 177,65",
+              "49%"
+            ],
+            [
+              "Vestido Curto Rush",
+              "R$ 249,00",
+              "R$ 211,65",
+              "23%"
+            ],
+            [
+              "Maxi Saia NYIN Feminino",
+              "R$ 359,00",
+              "R$ 305,15",
+              "25%"
+            ],
+            [
+              "Calça Tecnológica Masculina FutureForm®",
+              "R$ 454,00",
+              "R$ 385,90",
+              "29%"
+            ],
+            [
+              "Casaco Feminino Wingsuit",
+              "R$ 479,00",
+              "R$ 407,15",
+              "18%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Roupas íntimas",
+        "paragraphs": [
+          "São duas calcinhas e duas cuecas, e as duas calcinhas estão entre as maiores quedas da seleção. Segundo a Insider, a Boxer Comfort é a cueca macia e respirável para o dia a dia, e a Boxer Performance foi feita para o esporte, com secagem rápida e proteção contra atrito e assaduras."
+        ]
+      },
+      {
+        "heading": "Calcinha Biquíni Brief",
+        "paragraphs": [
+          "A versão da Insider para a calcinha biquíni tradicional, com design minimalista que, segundo a loja, não marca na pele. O forro é de fibra de origem natural, e a loja destaca a respirabilidade, a evaporação rápida do suor e o tecido antiodor."
+        ],
+        "bullets": [
+          "Preço: de R$ 69,00 por R$ 41,40 no site; com o cupom, **R$ 35,19** (49% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: grade completa (PP ao XGG) só na Preta; Woodsmoke do P ao XGG. As outras cores têm poucos tamanhos: Emerald Green e Icy Blue em PP, GG e XGG; Azul e Aster Purple em P e GG; Branco em PP e XGG; Cinnamon Pink e Rust Brown em GG e XGG; New Grey só em XGG. A Beetroot estava esgotada.",
+          "Composição, segundo a loja: 87,5% poliamida e 12,5% elastano por fora; forro com 88% modal e 12% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-calcinha-brief.webp",
+        "imageAlt": "Calcinha Biquíni Brief, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Calcinha Biquíni Brief com o cupom",
+            "href": "https://creators.insiderstore.com.br/yqQ53TN",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Calcinha Hot Pant Safe",
+        "paragraphs": [
+          "A hot pant da Insider tem mais cobertura que a Brief. Segundo a loja, o forro é de fibra de origem natural ultramacia e com alta absorção, e o tecido é respirável e antiodor."
+        ],
+        "bullets": [
+          "Preço: de R$ 79,00 por R$ 47,40 no site; com o cupom, **R$ 40,29** (49% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Woodsmoke com a grade completa (PP ao XGG); Preta e Cinnamon Pink do P ao XGG. Azul em P, GG e XGG; Rust Brown e Aster Purple em P e M; Emerald Green, Icy Blue e Branca só em PP. New Grey e Beetroot estavam esgotadas.",
+          "Composição, segundo a loja: 87,5% poliamida e 12,5% elastano por fora; forro com 88% modal e 12% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
+        "imageAlt": "Calcinha Hot Pant Safe, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Calcinha Hot Pant Safe com o cupom",
+            "href": "https://creators.insiderstore.com.br/qxLZKJc",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cueca Confortável Boxer Comfort",
+        "paragraphs": [
+          "Um dos best-sellers da Insider, segundo a própria loja, feita com o tecido SOFTOUCH™ para maciez e respirabilidade no dia a dia. A loja diz que ela não aperta nem enrola nas pernas, e a versão antissuor tem uma camada extra de tecido na parte de trás."
+        ],
+        "bullets": [
+          "Preço: de R$ 85,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (21% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Preta do P ao XXGG; Cinza do P ao XGG; Azul em P, M, G e XGG (sem GG); Beetroot só em PP. A Emerald Green estava esgotada."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-cueca-comfort.webp",
+        "imageAlt": "Cueca Confortável Boxer Comfort, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Cueca Confortável Boxer Comfort com o cupom",
+            "href": "https://creators.insiderstore.com.br/ptFyZqS",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cueca Boxer Performance",
+        "paragraphs": [
+          "A cueca da Insider para esportes. Segundo a loja, é ultrarresistente, evita atrito e assaduras entre as pernas e tem elastano com alta resistência ao cloro."
+        ],
+        "bullets": [
+          "Preço: de R$ 95,00 por R$ 79,00 no site; com o cupom, **R$ 67,15** (29% abaixo da tabela). Os R$ 79,00 valem na Branca (P ao XGG) e na Preta modelo Anti Suor em PP, P, XGG e XXGG; nas outras opções, de R$ 85,00 a R$ 95,00.",
+          "Cores e tamanhos em 15/10/2026: Preta do PP ao XXGG; Azul do P ao XXGG; Cinza e Branca do P ao XGG; Beetroot só em PP e XXGG.",
+          "Dois modelos, segundo a loja: a Simples não tem costura na lateral; a Anti Suor tem forro duplo na parte de trás e costura na lateral."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-cueca-performance.webp",
+        "imageAlt": "Cueca Boxer Performance, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Cueca Boxer Performance com o cupom",
+            "href": "https://creators.insiderstore.com.br/nD3bAuj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Camisas & Camisetas",
+        "paragraphs": [
+          "São nove peças de cima, da regata de treino à camisa social de alfaiataria. Com o cupom, os preços ficam de 17% a 30% abaixo da tabela."
+        ]
+      },
+      {
+        "heading": "Blusa de Alça Feminina The Perfect Top",
+        "paragraphs": [
+          "Segundo a Insider, é uma blusa de alça para o dia a dia, de tecido tecnológico e modelo ajustado ao corpo. Tem forro duplo no busto e bojo removível, com sustentação leve a média. A loja também cita proteção UV+50 e evaporação muito rápida do suor."
+        ],
+        "bullets": [
+          "Preço: de R$ 139,00 por R$ 135,00 no site; com o cupom, **R$ 114,75** (17% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Rust Brown e Branca de P a GG; Azul e Woodsmoke de P a GG, sem PP. Na Preta, só PP, P e GG: M e G já tinham esgotado."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+        "imageAlt": "Blusa de Alça Feminina The Perfect Top, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Blusa de Alça Feminina The Perfect Top com o cupom",
+            "href": "https://creators.insiderstore.com.br/3tQNigp",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt®",
+        "paragraphs": [
+          "É a camiseta mais conhecida da Insider, feita com o tecido INTECH®, com a maciez do modal. Segundo a loja, a tecnologia antiodor permite usar mais e lavar menos, e a peça desamassa no corpo. É a única da marca com garantia de 2 anos contra desbotamento, para peças compradas a partir de 06/09/2024 e lavadas conforme a etiqueta. Para comparar com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+        ],
+        "bullets": [
+          "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Preta, Azul e Mescla de PP a XXGG; Maple Brown, Indigo e Carmenere de PP a XGG; Evergreen de PP a GG; Off White de P a XGG; Walnut Brown de P a GG. Na Nori Green, só PP e P; na Dark Powder, só XGG."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
+        "imageAlt": "Tech T-Shirt®, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Tech T-Shirt® com o cupom",
+            "href": "https://creators.insiderstore.com.br/axB7p3y",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt® Gola V Feminina",
+        "paragraphs": [
+          "É a versão feminina da Tech T-Shirt®, com a gola levemente alongada, também de tecido INTECH. Segundo a Insider, a fibra de origem natural é duas vezes mais macia que o algodão, desamassa no corpo e não desbota com o tempo."
+        ],
+        "bullets": [
+          "Preço: de R$ 169,00 por R$ 139,00 no site; com o cupom, **R$ 118,15** (30% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Azul, Carmenere, Preta e Off White de P a GG (XGG esgotado); Evergreen de PP a GG. Na Maple Brown, só PP, P e GG; na Beetroot, só PP e P; na Indigo, só P. A Nori Green estava esgotada.",
+          "Composição: 92% modal e 8% elastano; na cor Indigo, 62% modal, 30% viscose e 8% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+        "imageAlt": "Tech T-Shirt® Gola V Feminina, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Tech T-Shirt® Gola V Feminina com o cupom",
+            "href": "https://creators.insiderstore.com.br/hwvgusR",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Blusa Skin Cropped",
+        "paragraphs": [
+          "É um cropped para usar como segunda pele, no treino ou como peça principal. Segundo a Insider, o tecido SOFTOUCH™ tem toque ultramacio, é respirável, seca rápido e é antiodor."
+        ],
+        "bullets": [
+          "Preço: de R$ 119,00 por R$ 99,00 no site; com o cupom, **R$ 84,15** (29% abaixo da tabela). Os R$ 99,00 valem na Preta em P, G, GG e XGG (o M sai a R$ 119,00); nas outras cores, de R$ 109,00 a R$ 119,00, conforme o tamanho.",
+          "Cores e tamanhos em 15/10/2026: Preta de P a XGG; Cinnamon Pink de P a GG; Rust Brown em PP, P, M e GG; Woodsmoke só em PP, GG e XGG.",
+          "A loja avisa que a modelagem é justa: para o caimento da foto, o ideal é um número maior. Composição: 88% modal e 12% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-skin-cropped.webp",
+        "imageAlt": "Blusa Skin Cropped, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Blusa Skin Cropped com o cupom",
+            "href": "https://creators.insiderstore.com.br/bgkXdGE",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cropped Regata Structure",
+        "paragraphs": [
+          "É um cropped regata de caimento estruturado, feito com o tecido EVERSHAPE™, para usar sozinho ou com sobreposição. Segundo a Insider, evapora rápido o suor, é antiodor e tem cores que não desbotam."
+        ],
+        "bullets": [
+          "Preço: de R$ 129,00 por R$ 109,00 no site; com o cupom, **R$ 92,65** (28% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Eletric Blue e Rust Brown de PP a XGG; Espresso, Preta e Cream de PP a GG; Foliage Green de PP a XGG, sem M. A Purple estava esgotada.",
+          "A loja avisa que a modelagem é justa: para o caimento da foto, o ideal é um número maior. Composição: 91% viscose e 9% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-structure-cropped.webp",
+        "imageAlt": "Cropped Regata Structure, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Cropped Regata Structure com o cupom",
+            "href": "https://creators.insiderstore.com.br/dazRj26",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Regata Intech Masculina",
+        "paragraphs": [
+          "É a versão sem mangas da Tech T-Shirt®, pensada para treino, academia ou uso casual. Segundo a Insider, o tecido INTECH® é leve, antiodor, respirável, não desbota e desamassa no corpo."
+        ],
+        "bullets": [
+          "Preço: de R$ 139,00 por R$ 119,00 no site; com o cupom, **R$ 101,15** (27% abaixo da tabela). Os R$ 119,00 valem no Preto PP, no Nori Green P e no Azul Marinho GG; nos outros tamanhos e na Milk, de R$ 125,00 a R$ 139,00. O preço aparece ao escolher cor e tamanho.",
+          "Cores e tamanhos em 15/10/2026: Preto e Nori Green de PP a XXGG; Milk de PP a XGG; Azul Marinho de P a XGG. Na Flame Red, só PP.",
+          "Composição: 92% modal e 8% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
+        "imageAlt": "Regata Intech Masculina, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Regata Intech Masculina com o cupom",
+            "href": "https://creators.insiderstore.com.br/uFNpMEr",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Camiseta Premium Encorpada Core T-Shirt",
+        "paragraphs": [
+          "É a camiseta masculina de gramatura maior e modelagem regular, um pouco mais encorpada e levemente texturizada que a Tech T-Shirt®, segundo a Insider. A loja cita alta respirabilidade, conforto térmico e cores que não desbotam."
+        ],
+        "bullets": [
+          "Preço: de R$ 189,00 por R$ 179,00 no site; com o cupom, **R$ 152,15** (19% abaixo da tabela). Na Wine, alguns tamanhos custam R$ 189,00.",
+          "Cores e tamanhos em 15/10/2026: Preta, Branca, Wine e Blueish de PP a XGG; Navy de P a XGG; Vulcano de PP a XGG, sem P. Na Rain Forest, só PP, P e XGG.",
+          "A loja diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento que pode haver depois da primeira lavagem. Composição: 94% viscose e 6% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
+        "imageAlt": "Camiseta Premium Encorpada Core T-Shirt, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Camiseta Premium Encorpada Core T-Shirt com o cupom",
+            "href": "https://creators.insiderstore.com.br/QcFNdaj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Camisa Social Alfaiataria Tech FutureForm® Masculina",
+        "paragraphs": [
+          "É uma camisa social de tecido tecnológico, com acabamento resistente à água, modelagem alongada e proporções oversized, segundo a Insider. O tecido FUTUREFORM® evapora rápido o suor, desamassa no corpo e não desbota."
+        ],
+        "bullets": [
+          "Preço: de R$ 485,00 por R$ 415,00 no site; com o cupom, **R$ 352,75** (27% abaixo da tabela). Nas cores Ocean Blue e Urban Brown, alguns tamanhos custam R$ 485,00.",
+          "Cores e tamanhos em 15/10/2026: Off White, Preto, Ocean Blue e Urban Brown de P a XGG. Na Sahara, só P, G e XGG.",
+          "Composição: 85% poliamida e 15% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
+        "imageAlt": "Camisa Social Alfaiataria Tech FutureForm® Masculina, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Camisa Social Alfaiataria Tech FutureForm® Masculina com o cupom",
+            "href": "https://creators.insiderstore.com.br/KRptrd4",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Camisa Oversized Alfaiataria Tech FutureForm® Feminina",
+        "paragraphs": [
+          "É a versão feminina da camisa social FUTUREFORM®, com acabamento resistente à água e modelagem alongada e oversized. Segundo a Insider, vai do ambiente formal às combinações athleisure, com respirabilidade, elasticidade e secagem rápida."
+        ],
+        "bullets": [
+          "Preço: de R$ 519,00 por R$ 449,00 no site; com o cupom, **R$ 381,65** (26% abaixo da tabela). Nas cores Urban Brown, Ocean Blue e Sahara, alguns tamanhos custam R$ 519,00.",
+          "Cores e tamanhos em 15/10/2026: Sahara de PP a XGG; Preto, Urban Brown e Ocean Blue de PP a GG; Off White de P a GG.",
+          "Composição: 85% poliamida e 15% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
+        "imageAlt": "Camisa Oversized Alfaiataria Tech FutureForm® Feminina, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Camisa Oversized Alfaiataria Tech FutureForm® Feminina com o cupom",
+            "href": "https://creators.insiderstore.com.br/y8M54bz",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Bermudas, vestidos e outros",
+        "paragraphs": [
+          "Shorts de treino, dois vestidos, uma saia longa, uma calça e um casaco. Aqui estão as três maiores quedas da seleção: o Short Endorphine, o Short Serotonin e o Tube Dress saem 49% abaixo da tabela com o cupom."
+        ]
+      },
+      {
+        "heading": "Short Esportivo Endorphine",
+        "paragraphs": [
+          "Short esportivo leve, com bolsos laterais e cordão de ajuste interno na cintura, para treinar e para o dia a dia. Segundo a Insider, o comprimento médio dá mais mobilidade no treino. O tecido tem toque gelado, elasticidade em 4 direções e secagem rápida."
+        ],
+        "bullets": [
+          "Preço: de R$ 279,00 por R$ 167,00 no site; com o cupom, **R$ 141,95** (49% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Earth Brown, Preto, Deep Blue e Mist Green do P ao XGG. O Flame Red tinha só PP, G e XGG, e o Beetroot, só PP. O Marinho estava esgotado.",
+          "Composição, segundo a Insider: 85% poliamida e 15% elastano por fora; 89% poliamida e 11% elastano no forro."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+        "imageAlt": "Short Esportivo Endorphine, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Short Esportivo Endorphine com o cupom",
+            "href": "https://creators.insiderstore.com.br/wyeAL43",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Short Fitness Serotonin",
+        "paragraphs": [
+          "Short fitness feminino, de cintura média com franzido para dar mais sustentação. Segundo a Insider, ele tem comprimento curto e short interno integrado. O tecido é o mesmo do Endorphine: toque gelado, elasticidade em 4 direções e secagem rápida."
+        ],
+        "bullets": [
+          "Preço: de R$ 359,00 por R$ 215,00 no site; com o cupom, **R$ 182,75** (49% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Preto, Deep Blue, Earth Brown e Flame Red do PP ao XGG. Em 15/10, o Mist Green já não tinha P e GG, e o Marinho tinha só PP."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+        "imageAlt": "Short Fitness Serotonin, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Short Fitness Serotonin com o cupom",
+            "href": "https://creators.insiderstore.com.br/pPeap3p",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Vestido Curto Tube Dress",
+        "paragraphs": [
+          "Versão curta do vestido best-seller da marca. Segundo a Insider, o forro duplo e as alças largas dispensam o sutiã, e o vestido não tem zíper nem botões. O tecido expande em 4 direções e não precisa passar."
+        ],
+        "bullets": [
+          "Preço: de R$ 349,00 por R$ 209,00 no site; com o cupom, **R$ 177,65** (49% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Preto do PP ao XGG. O Rust Brown já não tinha PP e P, e o Winewood estava esgotado.",
+          "Composição, segundo a Insider: 66% viscose de reflorestamento, 31% poliéster reciclado e 3% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+        "imageAlt": "Vestido Curto Tube Dress, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Vestido Curto Tube Dress com o cupom",
+            "href": "https://creators.insiderstore.com.br/kcSV5pQ",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Vestido Curto Rush",
+        "paragraphs": [
+          "Vestido curto e minimalista, que vai do uso casual ao esporte. Segundo a Insider, ele marca a cintura, fica soltinho no comprimento e tem top interno integrado para dar sustentação. As alças têm ajuste."
+        ],
+        "bullets": [
+          "Preço: de R$ 275,00 por R$ 249,00 no site; com o cupom, **R$ 211,65** (23% abaixo da tabela).",
+          "O preço muda com a cor e o tamanho. Os R$ 249,00 são do Deep Blue e do Mist Green. O Preto sai por R$ 235,00 (R$ 199,75 com o cupom) e, no XGG, por R$ 209,00 (R$ 177,65 com o cupom). O Earth Brown sai por R$ 235,00, ou R$ 259,00 no P. O Marinho, só no GG, está a R$ 275,00, o preço de tabela.",
+          "Cores e tamanhos em 15/10/2026: Preto e Earth Brown do PP ao XGG. O Deep Blue já não tinha P, o Mist Green tinha só GG e XGG, e o Marinho, só GG. Flame Red e Beetroot estavam esgotados."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
+        "imageAlt": "Vestido Curto Rush, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Vestido Curto Rush com o cupom",
+            "href": "https://creators.insiderstore.com.br/5evyhUD",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Maxi Saia NYIN Feminino",
+        "paragraphs": [
+          "Saia longa que vai do formal ao informal e pode ser usada na cintura média ou na baixa. Segundo a Insider, ela tem bolsos laterais e é feita com o tecido NYIN™, de secagem rápida, que não precisa passar. A loja destaca a dupla ação antiodor do tecido."
+        ],
+        "bullets": [
+          "Preço: de R$ 409,00 por R$ 359,00 no site; com o cupom, **R$ 305,15** (25% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Olive Green, Preto e Space Blue do PP ao XGG. O tamanho M, nas três cores, e o P e o G do Preto custam R$ 409,00, o preço de tabela.",
+          "Composição, segundo a Insider: 94% poliamida e 6% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
+        "imageAlt": "Maxi Saia NYIN Feminino, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Maxi Saia NYIN Feminino com o cupom",
+            "href": "https://creators.insiderstore.com.br/VqnhHav",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Calça Tecnológica Masculina FutureForm®",
+        "paragraphs": [
+          "Calça para o uso diário e para eventos casuais, de cintura alta e com dois bolsos laterais com zíper. Segundo a Insider, o tecido FutureForm™ é resistente à água, desamassa no corpo e não desbota. A modelagem é tapered: solta na cintura e no quadril, afunilando até o tornozelo."
+        ],
+        "bullets": [
+          "Preço: de R$ 545,00 por R$ 454,00 no site; com o cupom, **R$ 385,90** (29% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Ocean Blue, Preto, Sahara e Urban Brown do PP ao XGG. No Urban Brown, o M custa R$ 545,00, o preço de tabela.",
+          "Composição, segundo a Insider: 85% poliamida e 15% elastano."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
+        "imageAlt": "Calça Tecnológica Masculina FutureForm®, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Calça Tecnológica Masculina FutureForm® com o cupom",
+            "href": "https://creators.insiderstore.com.br/LejzoFF",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Casaco Feminino Wingsuit",
+        "paragraphs": [
+          "Blusa de frio de shape amplo, best-seller da marca, que vai do chique ao esportivo. Segundo a Insider, o tecido TECHSTURE™ tem caimento levemente estruturado, é antiodor e não desbota. É a peça com mais cores da seleção."
+        ],
+        "bullets": [
+          "Preço: de R$ 499,00 por R$ 479,00 no site; com o cupom, **R$ 407,15** (18% abaixo da tabela).",
+          "Cores e tamanhos em 15/10/2026: Imperial Blue, Ivory, Soft Peach, Mineral Blue e Clay Red do P ao GG. Off White, Preta, Gray Cloud e Bright Red do P ao G, sem GG. No Imperial Blue, o G custa R$ 499,00, o preço de tabela."
+        ],
+        "image": "/images/reviews/insider/selecao-insider-wingsuit.webp",
+        "imageAlt": "Casaco Feminino Wingsuit, foto oficial da Insider",
+        "imageFit": "contain",
+        "imageAspectRatio": 1,
+        "links": [
+          {
+            "label": "Comprar Casaco Feminino Wingsuit com o cupom",
+            "href": "https://creators.insiderstore.com.br/2SLBQTG",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "bullets": [
+          "**Pelos botões desta seleção:** a página do produto já abre com o cupom aplicado, e o preço aparece com a indicação \"com cupom EMCASACOMCECILIA\".",
+          "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
+          "**Fora do cupom:** lançamentos e compras na loja física.",
+          "**Kits \"Compre 1, ganhe 1\":** segundo a página do kit, essa promoção da loja não soma com cupom.",
+          "**Tamanho:** algumas peças têm modelagem justa. Confira a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de escolher.",
+          "**Onde digitar o código:** veja [Como usar o cupom EMCASACOMCECILIA na Insider](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Até quando valem esses preços? As promoções do site valem até 31/10/2026. Quem prefere esperar novembro encontra os preços de outubro para comparar no guia da [Black Friday Insider](/reviews/black-friday-insider).",
+          "O cupom EMCASACOMCECILIA vale nas 20 peças da seleção? Sim. As 20 peças aceitam o cupom de 15% OFF, sem valor mínimo e com todas as formas de pagamento.",
+          "O cupom soma com o preço promocional do site? Sim. Os 15% saem sobre o preço que o site já mostra, e não sobre o preço de tabela.",
+          "Posso usar dois cupons no mesmo pedido? Não. A Insider aceita um cupom por pedido. As regras e a data do último teste estão na [página do cupom Insider](/cupons/insider).",
+          "Qual é a peça mais barata da seleção? A Calcinha Biquíni Brief: R$ 41,40 no site e R$ 35,19 com o cupom, 49% abaixo da tabela.",
+          "A lista muda? Sim. A seleção é atualizada a cada mês, neste mesmo endereço."
+        ]
+      }
+    ],
+    "relatedArticles": [
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      },
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      }
+    ]
   }
 ];
