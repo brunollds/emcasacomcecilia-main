@@ -79,6 +79,12 @@ export function getShellMenu(locale: Locale): ShellMenu {
   };
 }
 
+// "page" no link da página aberta; "true" no item principal da seção em que ela está.
+export function getAriaCurrent(href: string, active: ActiveNav, inSection: boolean): 'page' | 'true' | undefined {
+  if (href === active.pageHref) return 'page';
+  return inSection ? 'true' : undefined;
+}
+
 function trimSlash(path: string): string {
   return path.length > 1 ? path.replace(/\/+$/, '') : path;
 }

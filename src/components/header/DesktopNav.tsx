@@ -8,7 +8,7 @@ import OmniSearch from '@/components/OmniSearch';
 import LanguageSwitcher from '@/components/header/LanguageSwitcher';
 import type { Locale } from '@/lib/i18n/locales';
 import type { ShellCommercialLink, ShellCopy } from '@/lib/i18n/shellDictionary';
-import type { ActiveNav, NavItem, ShellMenu } from '@/lib/i18n/shellMenu';
+import { getAriaCurrent, type ActiveNav, type NavItem, type ShellMenu } from '@/lib/i18n/shellMenu';
 
 interface DesktopNavProps {
   locale: Locale;
@@ -28,11 +28,6 @@ const LINK_ON = 'border-b-2 border-[#ff6b35] pb-1 font-bold text-white';
 const LINK_OFF = 'font-medium text-white/78 hover:text-white';
 const ITEM_ON = 'bg-white/12 font-bold text-white';
 const ITEM_OFF = 'font-medium text-white/78 hover:bg-white/8 hover:text-white';
-
-function currentOf(href: string, active: ActiveNav, inSection: boolean) {
-  if (href === active.pageHref) return 'page' as const;
-  return inSection ? ('true' as const) : undefined;
-}
 
 export default function DesktopNav({ locale, menu, active, copy, commercialLinks, isPt }: DesktopNavProps) {
   const [openList, setOpenList] = useState<ListId | null>(null);
@@ -148,7 +143,7 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
         <li key={item.id}>
           <Link
             href={item.href}
-            aria-current={currentOf(item.href, active, false)}
+            aria-current={getAriaCurrent(item.href, active, false)}
             onClick={closeNow}
             className={`block whitespace-nowrap rounded-lg px-3 py-2 text-sm transition-colors ${
               item.id === active.item ? ITEM_ON : ITEM_OFF
@@ -204,7 +199,7 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
         <nav className="flex min-w-0 items-center gap-5">
           {menu.primary.map((item) => {
             const isActive = active.section === item.id;
-            const current = currentOf(item.href, active, isActive);
+            const current = getAriaCurrent(item.href, active, isActive);
 
             if (!item.children || !menu.reviewsListLabel) {
               return (
@@ -288,7 +283,7 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
             <Link
               key={link.id}
               href={link.href}
-              aria-current={currentOf(link.href, active, isActive)}
+              aria-current={getAriaCurrent(link.href, active, isActive)}
               className={`whitespace-nowrap text-sm transition-colors ${isActive ? LINK_ON : LINK_OFF}`}
             >
               {link.label}
