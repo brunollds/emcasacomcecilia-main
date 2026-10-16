@@ -6,11 +6,11 @@ parceiro: "[[Insider]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "GO do Bruno para o upload das 21 imagens; gates; PR"
-publicado_em: null
-nota_publicacao: null
+proxima_acao: "atualizar a seleção e os preços no começo de novembro (mesmo endereço); FALL26→COOL26 subiu junto"
+publicado_em: "2026-10-15"
+nota_publicacao: "No ar em 15/10/2026 (16/10 02:04Z), PR #119, release 86aaeae; 21 imagens no CDN"
 bloqueado_por: null
 score_autoridade: 45
 score_conversao: 85

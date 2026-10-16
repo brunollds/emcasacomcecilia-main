@@ -7,7 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[promocao-insider-selecao-com-cupom]] — Insider / Promoção Insider: 20 peças da seleção com o cupom, até 31/10, endereço fixo atualizado todo mês (Score Aut: 45 / Conv: 85)
 
 ---
 
@@ -105,6 +104,7 @@
 - [x] [[black-friday-clea-store]] — Cléa Store / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
 - [x] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
 - [x] [[clea-store-aniversario-14-anos-t-shirt-brinde]] — Cléa Store / Aniversário de 14 anos: T-Shirt de brinde até 18/10 com o cupom (No ar em 15/10/2026, PR #116, release `2480c36`; Score Aut: 45 / Conv: 80; virar promoção encerrada depois de 18/10) 🚀
+- [x] [[promocao-insider-selecao-com-cupom]] — Insider / Promoção Insider: 20 peças da seleção com o cupom, até 31/10, endereço fixo atualizado todo mês (No ar em 15/10/2026, PR #119, release `86aaeae`; Score Aut: 45 / Conv: 85; atualizar a seleção em novembro) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
