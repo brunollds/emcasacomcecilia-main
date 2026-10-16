@@ -5,6 +5,7 @@ import { EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/comp
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ArticleStoreBlock as StoreBlock } from '@/lib/articleStore';
 import type { Review, ReviewViewModel } from '@/lib/content';
+import { BRUNO_AUTHOR } from '@/lib/content/authors';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
 import { ReviewGallerySection } from '../ReviewGallerySection';
@@ -12,7 +13,7 @@ import { ReviewVerdictCard } from '../ReviewVerdictCard';
 import type { ArticleCopy, TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { ArticleAffiliateBlock, type ArticleAffiliateCta } from './ArticleAffiliateBlock';
-import { ArticleAuthorBox } from './ArticleAuthorBox';
+import { ArticleAuthorBox, ArticleBrunoBox } from './ArticleAuthorBox';
 import { ArticleRelated } from './ArticleRelated';
 import { ArticleStoreBlock } from './ArticleStoreBlock';
 
@@ -35,8 +36,8 @@ export interface ArticleEndProps {
   relatedAllHref: string;
 }
 
-// O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, relacionados e
-// compartilhar.
+// O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, o Bruno (só nos
+// artigos em que ele assina), relacionados e compartilhar.
 export function ArticleEnd({
   review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, affiliateCta, storeLabel,
   reviewImage, relatedArticles, relatedAllHref,
@@ -113,6 +114,7 @@ export function ArticleEnd({
       )}
 
       <ArticleAuthorBox copy={copy} locale={couponCopyLocale} />
+      {review.authors?.some((author) => author.slug === BRUNO_AUTHOR.slug) && <ArticleBrunoBox copy={copy} />}
 
       <ArticleRelated
         articles={relatedArticles}

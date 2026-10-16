@@ -9,6 +9,7 @@ import type {
   StructuredIngredientSection,
 } from './types';
 import { CECILIA_PERSON_ID } from '@/lib/ceciliaCredentials';
+import { BRUNO_AUTHOR, CECILIA_AUTHOR } from './authors';
 import { LOCALES, type Locale } from '@/lib/i18n/locales';
 import { inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
@@ -253,10 +254,13 @@ function toAbsoluteSiteUrl(url: string): string {
   return url;
 }
 
+const CENTRAL_AUTHORS = [CECILIA_AUTHOR, BRUNO_AUTHOR];
+
 /**
  * Constrói o campo `author` de schema.org a partir de `authors` ou `author`.
  * Suporta múltiplos autores e fallback para Cecília Mauad /sobre.
  * A Cecília (o padrão e todo autor cuja url é a /sobre) leva o @id dela, o mesmo da /sobre e das homes de idioma.
+ * Os JSONs dos artigos guardam o autor sem url: nesse caso vale a do autor central de mesmo slug.
  * Não inventa dados quando os campos estão ausentes.
  */
 export function buildSchemaAuthors(
@@ -274,7 +278,8 @@ export function buildSchemaAuthors(
   }
 
   const people = source.map((person): SchemaPerson => {
-    const url = person.url ? toAbsoluteSiteUrl(person.url) : undefined;
+    const personUrl = person.url ?? CENTRAL_AUTHORS.find((central) => central.slug === person.slug)?.url;
+    const url = personUrl ? toAbsoluteSiteUrl(personUrl) : undefined;
     return {
       '@type': 'Person',
       ...(url === ABOUT_URL ? { '@id': CECILIA_PERSON_ID } : {}),

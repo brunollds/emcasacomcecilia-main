@@ -56,6 +56,11 @@ export type ArticleCopy = {
   authorBoxTitle: string;
   authorBoxBody: string;
   authorBoxLink: string;
+  // Caixa do Bruno, logo depois da da Cecília nos artigos em que ele assina. O link só existe em português: a página
+  // do Sonar de Ofertas é em português.
+  brunoBoxTitle: string;
+  brunoBoxBody: string;
+  brunoBoxLink: string | null;
   // Abre a nota de transparência do topo, que fica numa linha.
   disclosureMore: string;
   // Botões do áudio do artigo, depois de tocar (o "Ouvir artigo" vem do shellDictionary).
@@ -107,6 +112,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Oi, eu sou a Cecília',
     authorBoxBody: 'Conto o que testo em casa e trago os códigos das lojas parceiras.',
     authorBoxLink: 'Conheça a Cecília',
+    brunoBoxTitle: 'Oi, eu sou o Bruno',
+    brunoBoxBody: 'Marido da Cecília e a outra metade do Em Casa: atrás das câmeras e do computador.',
+    brunoBoxLink: 'Conheça o Sonar de Ofertas',
     disclosureMore: 'Ler mais',
     listenPause: 'Pausar',
     listenResume: 'Continuar',
@@ -154,6 +162,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Hi, I’m Cecília',
     authorBoxBody: 'I share what I try at home and the codes from the stores I partner with.',
     authorBoxLink: 'Meet Cecília',
+    brunoBoxTitle: 'Hi, I’m Bruno',
+    brunoBoxBody: 'Cecília’s husband and the other half of Em Casa, behind the camera and the computer.',
+    brunoBoxLink: null,
     disclosureMore: 'Read more',
     listenPause: 'Pause',
     listenResume: 'Resume',
@@ -201,6 +212,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Hola, soy Cecília',
     authorBoxBody: 'Comparto lo que pruebo en casa y los códigos de las tiendas con las que colaboro.',
     authorBoxLink: 'Conoce a Cecília',
+    brunoBoxTitle: 'Hola, soy Bruno',
+    brunoBoxBody: 'Marido de Cecília y la otra mitad de Em Casa, detrás de la cámara y del ordenador.',
+    brunoBoxLink: null,
     disclosureMore: 'Leer más',
     listenPause: 'Pausa',
     listenResume: 'Reanudar',
@@ -248,6 +262,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Bonjour, je suis Cecília',
     authorBoxBody: 'Je partage ce que je teste chez moi et les codes des boutiques avec lesquelles je travaille.',
     authorBoxLink: 'Découvrir Cecília',
+    brunoBoxTitle: 'Bonjour, je suis Bruno',
+    brunoBoxBody: 'Le mari de Cecília et l’autre moitié d’Em Casa, derrière la caméra et l’ordinateur.',
+    brunoBoxLink: null,
     disclosureMore: 'Lire la suite',
     listenPause: 'Pause',
     listenResume: 'Reprendre',
@@ -295,6 +312,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Hallo, ich bin Cecília',
     authorBoxBody: 'Ich teile, was ich zu Hause ausprobiere, und die Codes der Shops, mit denen ich zusammenarbeite.',
     authorBoxLink: 'Cecília kennenlernen',
+    brunoBoxTitle: 'Hallo, ich bin Bruno',
+    brunoBoxBody: 'Cecílias Mann und die andere Hälfte von Em Casa, hinter der Kamera und am Computer.',
+    brunoBoxLink: null,
     disclosureMore: 'Mehr lesen',
     listenPause: 'Pause',
     listenResume: 'Fortsetzen',
@@ -342,6 +362,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'Ciao, sono Cecília',
     authorBoxBody: 'Condivido quello che provo a casa e i codici dei negozi con cui collaboro.',
     authorBoxLink: 'Conosci Cecília',
+    brunoBoxTitle: 'Ciao, sono Bruno',
+    brunoBoxBody: 'Il marito di Cecília e l’altra metà di Em Casa, dietro la telecamera e al computer.',
+    brunoBoxLink: null,
     disclosureMore: 'Leggi di più',
     listenPause: 'Pausa',
     listenResume: 'Riprendi',
@@ -389,6 +412,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: '안녕하세요, Cecília예요',
     authorBoxBody: '집에서 직접 써 본 것과 함께하는 스토어의 코드를 소개해요.',
     authorBoxLink: 'Cecília 더 알아보기',
+    brunoBoxTitle: '안녕하세요, Bruno예요',
+    brunoBoxBody: 'Cecília의 남편이자 Em Casa의 또 다른 절반, 카메라 뒤와 컴퓨터 앞을 맡고 있어요.',
+    brunoBoxLink: null,
     disclosureMore: '더 보기',
     listenPause: '일시정지',
     listenResume: '계속 듣기',
@@ -436,6 +462,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: 'こんにちは、Cecíliaです',
     authorBoxBody: '家で試したものと、提携ショップのコードを紹介しています。',
     authorBoxLink: 'Cecíliaについて',
+    brunoBoxTitle: 'こんにちは、Brunoです',
+    brunoBoxBody: 'Cecíliaの夫で、Em Casaのもう半分。カメラの後ろとパソコンの前を担当しています。',
+    brunoBoxLink: null,
     disclosureMore: '続きを読む',
     listenPause: '一時停止',
     listenResume: '再開',
@@ -483,6 +512,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: '你好，我是 Cecília',
     authorBoxBody: '我分享在家試過的東西，以及合作商店的代碼。',
     authorBoxLink: '認識 Cecília',
+    brunoBoxTitle: '你好，我是 Bruno',
+    brunoBoxBody: 'Cecília 的丈夫，Em Casa 的另一半，負責鏡頭後和電腦前的工作。',
+    brunoBoxLink: null,
     disclosureMore: '閱讀全文',
     listenPause: '暫停',
     listenResume: '繼續',
@@ -530,6 +562,9 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     authorBoxTitle: '你好，我是 Cecília',
     authorBoxBody: '我分享在家试过的东西，以及合作商店的代码。',
     authorBoxLink: '认识 Cecília',
+    brunoBoxTitle: '你好，我是 Bruno',
+    brunoBoxBody: 'Cecília 的丈夫，Em Casa 的另一半，负责镜头后和电脑前的工作。',
+    brunoBoxLink: null,
     disclosureMore: '阅读全文',
     listenPause: '暂停',
     listenResume: '继续',
