@@ -20,6 +20,7 @@ export const BRUNO_AUTHOR: PersonRef = {
   slug: 'bruno-luiz',
   role: 'Edição e análise',
   initials: 'BL',
+  url: 'https://sonardeofertas.com.br',
 };
 
 /**

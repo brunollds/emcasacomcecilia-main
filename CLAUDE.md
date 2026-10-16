@@ -227,7 +227,9 @@ vídeo, primeiras impressões e uso noturno.
   <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),
   `ArticleRelated` (6 cartões da estante) e a barra de compartilhar. O "Ir para a loja" dos recortes vai ao
   link de afiliado da loja: um `cta.url` interno (a página de cupons do site) cede ao `offerUrl`, e o
-  `storeSponsored` do bloco dá o `rel` sponsored.
+  `storeSponsored` do bloco dá o `rel` sponsored. Nos artigos com `bruno-luiz` em `review.authors`, a caixa do
+  Bruno (`ArticleBrunoBox`, `data-article="autor-bruno"`) vem logo depois da da Cecília; em PT leva o link
+  externo do Sonar de Ofertas (sem sponsored), nos outros idiomas não tem link.
 - Os dados vêm de dois módulos de servidor: `src/lib/articleStore.ts` (`getArticleStoreBlock`: código, tipo
   do código, desconto e as regras da loja; na YesStyle, os textos do código de recompensa da página; sem
   loja devolve `null`) e `src/lib/relatedReviews.ts` (`pickRelatedReviews`: mesma loja primeiro, depois

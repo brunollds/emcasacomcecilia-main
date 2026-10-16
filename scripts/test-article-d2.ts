@@ -12,6 +12,8 @@ import { getStoreCode } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
+import { buildSchemaAuthors } from '@/lib/content';
+import { BRUNO_AUTHOR, CECILIA_AUTHOR } from '@/lib/content/authors';
 import { ReviewGallerySection } from '@/components/review/ReviewGallerySection';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
@@ -145,6 +147,8 @@ const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
     authorBoxTitle: c.authorBoxTitle,
     authorBoxBody: c.authorBoxBody,
     authorBoxLink: c.authorBoxLink,
+    brunoBoxTitle: c.brunoBoxTitle,
+    brunoBoxBody: c.brunoBoxBody,
     disclosureMore: c.disclosureMore,
     listenPause: c.listenPause,
     listenResume: c.listenResume,
@@ -155,6 +159,20 @@ const ptTexts = newTexts('pt');
 assert.equal(ptTexts.copiedHint, 'Copiado. Agora é só colar no checkout da DAMIE.');
 assert.equal(ptTexts.storeBlockTitle, 'Sua compra na DAMIE');
 assert.equal(ptTexts.allStoreArticles, 'Todos os 12 artigos da DAMIE');
+// A caixa do Bruno: textos exatos em português; o link do Sonar de Ofertas só existe em português.
+assert.equal(ptTexts.brunoBoxTitle, 'Oi, eu sou o Bruno');
+assert.equal(ptTexts.brunoBoxBody, 'Marido da Cecília e a outra metade do Em Casa: atrás das câmeras e do computador.');
+assert.equal(ptCopy.brunoBoxLink, 'Conheça o Sonar de Ofertas');
+for (const loc of LOCALE_KEYS) if (loc !== 'pt') assert.equal(getArticleCopy(loc).brunoBoxLink, null, `${loc}: link da caixa do Bruno fora do PT`);
+// No JSON-LD, o autor sem url nos JSONs dos artigos leva a url do autor central de mesmo slug.
+const { url: _brunoUrl, ...brunoWithoutUrl } = BRUNO_AUTHOR;
+assert.equal(BRUNO_AUTHOR.url, 'https://sonardeofertas.com.br');
+assert.deepEqual(buildSchemaAuthors([brunoWithoutUrl], undefined), { '@type': 'Person', name: 'Bruno Luiz', url: 'https://sonardeofertas.com.br' });
+const { url: _ceciliaUrl, ...ceciliaWithoutUrl } = CECILIA_AUTHOR;
+const schemaAuthors = buildSchemaAuthors([ceciliaWithoutUrl, brunoWithoutUrl], undefined);
+assert.ok(Array.isArray(schemaAuthors) && schemaAuthors.length === 2);
+assert.equal(schemaAuthors[0].url, 'https://emcasacomcecilia.com/sobre');
+assert.equal(schemaAuthors[1].url, 'https://sonardeofertas.com.br');
 // O Magalu é masculino, como na home ("do Magalu"); as outras lojas, femininas.
 const magalu = { slug: 'magalu', brand: getCouponBySlug('magalu')!.brand };
 assert.equal(magalu.brand, 'Magalu');

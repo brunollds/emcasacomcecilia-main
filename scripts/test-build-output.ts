@@ -1087,6 +1087,8 @@ function bodyCitesCode(review: Review, code: string): boolean {
 // - Sem loja e com o link de afiliado do artigo (cta), o #loja é só o botão desse link, exatamente o do cta, com
 //   rel="sponsored" quando o link é patrocinado, sem código; sem loja e sem cta, nada.
 // - A caixa da Cecília leva à /sobre em português e à home do idioma nos outros.
+// - A caixa do Bruno (só nos artigos em que ele assina) vem logo depois da da Cecília; em português leva só o link do
+//   Sonar de Ofertas, e nos outros idiomas não tem link nenhum.
 // - Os relacionados são os de pickRelatedReviews, na ordem, e o "Ver todos" leva à subpágina da loja ou à lista
 //   de guias do idioma.
 type ArticleEndExpectation = {
@@ -1100,6 +1102,8 @@ type ArticleEndExpectation = {
   pros: number;
   cons: number;
   authorHref: string;
+  // null: artigo sem o Bruno, sem a caixa dele.
+  brunoBox: { link: string | null } | null;
   related: string[];
   relatedAllHref: string;
 };
@@ -1193,6 +1197,23 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     if (!hrefsOf(author.html).includes(expected.authorHref)) problems.push(`caixa da Cecília sem o link ${expected.authorHref}`);
   }
 
+  const bruno = single('data-article="autor-bruno"', 'caixas do Bruno');
+  present(bruno, Boolean(expected.brunoBox), 'a caixa do Bruno');
+  if (bruno && expected.brunoBox) {
+    const texts = shownTextsOf(bruno.html);
+    for (const text of [copy.brunoBoxTitle, copy.brunoBoxBody]) if (!texts.includes(text)) problems.push(`caixa do Bruno sem "${text}"`);
+    const links = [...bruno.html.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag);
+    if (expected.brunoBox.link === null) {
+      if (links.length > 0) problems.push(`caixa do Bruno com ${links.length} link(s) fora do português`);
+    } else {
+      if (links.length !== 1) problems.push(`${links.length} links na caixa do Bruno em vez de 1`);
+      const href = decodeHtml(links[0]?.match(/\shref="([^"]*)"/)?.[1] ?? '');
+      if (href !== 'https://sonardeofertas.com.br') problems.push(`caixa do Bruno leva a ${href} em vez do Sonar de Ofertas`);
+      if (!texts.includes(expected.brunoBox.link)) problems.push(`caixa do Bruno sem o link "${expected.brunoBox.link}"`);
+      if (/\ssponsored|rel="[^"]*sponsored/.test(links[0] ?? '')) problems.push('link do Sonar de Ofertas com rel="sponsored"');
+    }
+  }
+
   const related = single('data-article="relacionados"', 'blocos de relacionados');
   present(related, expected.related.length > 0, 'os relacionados');
   if (related) {
@@ -1208,8 +1229,8 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
 
   const share = body.indexOf(`aria-label="${escapeHtml(getShareCopy(expected.locale).shareByEmail)}"`);
   if (share < 0) problems.push('sem a barra de compartilhar');
-  const order = [gallery, verdict, store, author, related].flatMap((found) => (found ? [found.at] : [])).concat(share < 0 ? [] : [share]);
-  if (order.some((at, index) => index > 0 && at < order[index - 1])) problems.push('fim do artigo fora da ordem galeria, veredito, loja, Cecília, relacionados, compartilhar');
+  const order = [gallery, verdict, store, author, bruno, related].flatMap((found) => (found ? [found.at] : [])).concat(share < 0 ? [] : [share]);
+  if (order.some((at, index) => index > 0 && at < order[index - 1])) problems.push('fim do artigo fora da ordem galeria, veredito, loja, Cecília, Bruno, relacionados, compartilhar');
   return problems;
 }
 // O guarda acima passa no fim certo e falha sem o bloco da loja, com relacionados fora da ordem, com o vídeo do
@@ -1230,12 +1251,13 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<section id="loja"><h2>${pt.storeBlockTitle(block)}</h2>${cutout}<dl><dt>Vale para</dt><dd>Tudo</dd></dl>` +
     `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, block)}</a></section>` +
     `<section data-article="autora"><p>${pt.authorBoxTitle}</p><p>${pt.authorBoxBody}</p><a href="/sobre">${pt.authorBoxLink}</a></section>` +
+    `<section data-article="autor-bruno"><p>${pt.brunoBoxTitle}</p><p>${pt.brunoBoxBody}</p><a href="https://sonardeofertas.com.br" target="_blank" rel="noopener">${pt.brunoBoxLink}</a></section>` +
     '<section data-article="relacionados"><ul data-relacionados-cartoes=""><li class="revela"><a href="/reviews/a">A</a></li><li class="revela"><a href="/reviews/b">B</a></li></ul>' +
     `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
     `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
   const expected: ArticleEndExpectation = {
     locale: 'pt', storeBlock: block, affiliateCta: null, galleryItems: 2, galleryVideos: 0, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
-    authorHref: '/sobre', related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
+    authorHref: '/sobre', brunoBox: { link: pt.brunoBoxLink }, related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
   };
   assert.deepEqual(articleEndProblems(end, expected), []);
   assert.notDeepEqual(articleEndProblems(end.replace(tagsWith(end, 'id="loja"')[0].html, ''), expected), [], 'fim sem o bloco da loja passou');
@@ -1244,6 +1266,13 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   assert.notDeepEqual(articleEndProblems(end.replace('<button data-gallery-card="">2</button>', '<a href="https://youtu.be/abcdefghijk">v</a>'), { ...expected, galleryItems: 1 }), [], 'vídeo do topo na galeria passou');
   assert.notDeepEqual(articleEndProblems(end, { ...expected, galleryItems: 1 }), [], 'galeria de um item em carrossel passou');
   assert.notDeepEqual(articleEndProblems(end, { ...expected, authorHref: '/en' }), [], 'caixa da Cecília com o link errado passou');
+  const brunoSection = tagsWith(end, 'data-article="autor-bruno"')[0].html;
+  assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, ''), expected), [], 'fim sem a caixa do Bruno esperada passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, brunoBox: null }), [], 'caixa do Bruno em artigo sem ele passou');
+  assert.notDeepEqual(articleEndProblems(end, { ...expected, brunoBox: { link: null } }), [], 'link na caixa do Bruno fora do PT passou');
+  assert.notDeepEqual(articleEndProblems(end.replace('https://sonardeofertas.com.br', 'https://example.com'), expected), [], 'caixa do Bruno com o link errado passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, '').replace(/(<section data-article="autora">)/, `${brunoSection}$1`), expected), [], 'caixa do Bruno antes da Cecília passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, '').replace(/(<div><a aria-label)/, `${brunoSection}$1`), expected), [], 'caixa do Bruno depois dos relacionados passou');
   assert.notDeepEqual(articleEndProblems(end.replace('<li>c</li>', '<li>c</li><li>—</li>'), expected), [], 'linha vazia nos prós e contras passou');
   assert.notDeepEqual(articleEndProblems(end.replace(pt.allRules, 'x'), expected), [], 'bloco da loja sem "Ver todas as regras" passou');
   assert.notDeepEqual(articleEndProblems(end, { ...expected, storeBlock: { ...block, articlesHref: undefined, articleCount: undefined } }), [], '"Todos os N artigos" sem a subpágina passou');
@@ -1297,6 +1326,7 @@ let endGalleries = 0;
 let endTopVideos = 0;
 let endProsCons = 0;
 let endFullRelated = 0;
+let endBrunoBoxes = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -1435,6 +1465,7 @@ for (const url of articleUrls) {
       ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
       : null;
   const related = pickRelatedReviews(review, publishedReviews).map(getReviewCanonicalPathname);
+  const hasBrunoBox = Boolean(review.authors?.some((author) => author.slug === 'bruno-luiz'));
   assert.deepEqual(
     articleEndProblems(body, {
       locale,
@@ -1447,6 +1478,7 @@ for (const url of articleUrls) {
       pros,
       cons,
       authorHref: locale === 'pt' ? '/sobre' : getShellHomeHref(locale),
+      brunoBox: hasBrunoBox ? { link: getArticleCopy(locale).brunoBoxLink } : null,
       related,
       relatedAllHref: storeBlock?.articlesHref ?? reviewHub.href,
     }),
@@ -1463,6 +1495,7 @@ for (const url of articleUrls) {
   if (topVideoId) endTopVideos++;
   if (pros + cons) endProsCons++;
   if (related.length === 6) endFullRelated++;
+  if (hasBrunoBox) endBrunoBoxes++;
   // O id de cada seção sai do título (generateSectionIds, indexado pelo título): dois títulos iguais dão
   // o mesmo id às duas seções, e o sumário e a nota ancorada nelas se confundem.
   const headings = (review.contentSections ?? []).map((section) => section.heading).filter(Boolean);
@@ -1593,9 +1626,11 @@ for (const [count, name] of [
   assert.ok(count > 0, `nenhum artigo ${name} no fim do artigo`);
 }
 assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
+// As duas poltronas da Damie, a Dolce Gusto Genio S Touch e o guia de cupons da YesStyle nos 10 idiomas.
+assert.equal(endBrunoBoxes, 13, 'artigos com a caixa do Bruno');
 console.log(
   `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
-    `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados`
+    `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados, ${endBrunoBoxes} com a caixa do Bruno`
 );
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
