@@ -74,14 +74,16 @@ assert.equal(
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
-// Parceiros de 13/10/2026 e, desde 14/10, a Max Titanium e a Cléa Store. Só a Probiótica e a Lejour
-// mandaram link com UTM, e ele vai como veio; as outras vão ao site oficial.
+// Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10 e a Belive desde 16/10. Só a Probiótica
+// e a Lejour mandaram link com UTM, e ele vai como veio; as outras vão ao site oficial.
 const newPartners = [
   { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
   { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
   { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
   { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
   { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
+  // Belive (16/10/2026): o mesmo MAUAD da Let's Eat It, com 10% em todo o site.
+  { slug: 'belive', code: 'MAUAD', hubCategory: 'alimentacao', offerUrl: 'https://belivebefree.com.br/' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
@@ -110,6 +112,7 @@ const mercadoLivreLinks: Record<string, string> = {
   'i-wanna-sleep': 'https://meli.la/33vyTDP',
   probiotica: 'https://meli.la/1U1ttvv',
   letseatit: 'https://meli.la/1RHKLYr',
+  belive: 'https://meli.la/2xDjP2k',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
@@ -219,4 +222,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive e prateleiras do hub conferidos.");

@@ -1674,6 +1674,98 @@ export const COUPONS: Coupon[] = [
     status: 'ativo',
     featured: false,
   },
+  {
+    offerMode: 'discount-code',
+    slug: 'belive',
+    brand: 'Belive',
+    officialUrl: 'https://belivebefree.com.br/',
+    offerUrl: 'https://belivebefree.com.br/',
+    brandIcon: 'BL',
+    brandLogo: '/images/about/partners/belive-icon.png',
+    brandLogoAlt: 'Marca Belive',
+    brandWatermark: '/images/logos/watermarks/belive.webp',
+    brandColor: '#000000',
+    code: 'MAUAD',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Doces, snacks e pães sem glúten',
+    hubCategory: 'alimentacao',
+    shortDescription: 'todo o site Belive, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em doces sem açúcar, snacks, brownies proteicos e pães sem glúten, sem leite e sem lactose no site oficial da Belive, com qualquer forma de pagamento.',
+    metaTitle: 'Cupom Belive Outubro 2026: MAUAD — 10% OFF',
+    metaDescription:
+      'Cupom Belive de outubro de 2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
+    eligibleCategories: 'Todos os produtos do site oficial da Belive',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis acima de R$ 170, segundo a faixa do site em 16/10/2026, com condições da loja; abaixo disso, o frete é calculado no checkout',
+    combinable:
+      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
+    lastVerified: '2026-10-16',
+    testNote:
+      'Aplicamos o MAUAD num carrinho de R$ 576,82 com quatro combos e kits em oferta, e o desconto foi de R$ 57,68: o total caiu para R$ 519,14, ou R$ 493,18 no Pix, com os 5% do Pix somados ao cupom.',
+    codeInstructions: [
+      'Copie o código MAUAD no card acima.',
+      'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
+      'No carrinho, cole o código no campo "Código do cupom" e clique em "Aplicar cupom".',
+      'Confira os 10% de desconto no total do carrinho; no Pix, a loja ainda tira 5%.',
+    ],
+    aboutBrand:
+      'A Belive é uma marca brasileira de alimentos sem glúten, sem leite e sem lactose, com doces sem açúcar, snacks, brownies proteicos e pães vendidos no site oficial. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as ofertas e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom MAUAD vale para todos os produtos da Belive?',
+        answer: 'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Belive, inclusive combos e kits.',
+      },
+      {
+        question: 'O cupom MAUAD soma com o desconto do Pix?',
+        answer:
+          'Sim. No teste de 16/10/2026, o carrinho com o MAUAD aplicado ainda ganhou os 5% de desconto do Pix: R$ 519,14 viraram R$ 493,18.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 16/10/2026, os 10% entraram em quatro combos e kits que já estavam em oferta.',
+      },
+      {
+        question: 'O cupom MAUAD vale na primeira compra na Belive?',
+        answer: 'Sim. O MAUAD vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom MAUAD vale no Mercado Livre?',
+        answer:
+          'Não. O MAUAD é usado no checkout do site oficial da Belive e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2xDjP2k',
+      },
+      {
+        question: 'O cupom MAUAD está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 16/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Belive?',
+        answer: 'No carrinho do site oficial, no campo "Código do cupom", e depois em "Aplicar cupom".',
+      },
+      {
+        question: 'A Belive tem frete grátis?',
+        answer:
+          'Em 16/10/2026, a faixa do site anunciava frete grátis acima de R$ 170, com condições da loja. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale com todas as formas de pagamento e soma com as ofertas e o desconto do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
 ];
 
 export function getActiveCoupons(): Coupon[] {
