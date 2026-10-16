@@ -20,6 +20,7 @@ import {
   getHomeStoreTabs,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
+  sortStoresByNewestArticle,
   type HomeLatestArticle,
   type StoreReview,
 } from '@/lib/homeStores';
@@ -112,6 +113,30 @@ assert.deepEqual(magaluTab.articles[0], {
   imagePosition: undefined,
 });
 
+// Ordem das lojas: o artigo PT listado mais novo primeiro; empate e loja sem artigo mantêm a ordem recebida,
+// e as sem artigo vão para o fim. Artigo de outro idioma, rascunho e escondido da listagem não contam.
+const orderFixture = [
+  review(21, 'a-damie', 'damie', '2026-10-01'),
+  review(22, 'a-magalu', 'magalu', '2026-10-05'),
+  review(23, 'a-yesstyle', 'yesstyle', '2026-10-05'),
+  review(24, 'a-dolce', 'dolce-gusto', '2026-09-01'),
+  { ...review(25, 'dolce-en', 'dolce-gusto', '2026-10-20'), locale: 'en' },
+  { ...review(26, 'shein-escondido', 'shein', '2026-10-21'), hideFromPortugueseListings: true },
+  { ...review(27, 'shein-rascunho', 'shein', '2026-10-22'), draft: true },
+];
+const orderStores = ['shein', 'damie', 'yesstyle', 'magalu', 'dolce-gusto', 'insider'].map(store);
+assert.deepEqual(
+  sortStoresByNewestArticle(orderStores, orderFixture).map(({ slug }) => slug),
+  ['yesstyle', 'magalu', 'damie', 'dolce-gusto', 'shein', 'insider'],
+  'mais novo primeiro; empate na ordem recebida; sem artigo (ou só de fora da listagem) no fim, na ordem recebida'
+);
+assert.deepEqual(
+  getHomeStoreTabs(orderFixture, orderStores).map(({ slug }) => slug),
+  ['yesstyle', 'magalu', 'damie', 'dolce-gusto', 'shein', 'insider'],
+  'as abas saem na ordem do artigo mais novo'
+);
+assert.deepEqual(sortStoresByNewestArticle(orderStores, []).map(({ slug }) => slug), orderStores.map(({ slug }) => slug));
+
 // Loja sem artigo (a SHEIN hoje): sem story, sem lista e com o aviso no lugar.
 const [sheinTab] = getHomeStoreTabs(fixtureReviews, [store('shein')]);
 assert.equal(sheinTab.total, 0);
@@ -144,11 +169,21 @@ const tab = (slug: string) => {
   assert.ok(found, `aba ${slug}`);
   return found;
 };
+const activeStores = getActiveCoupons();
 assert.deepEqual(
   tabs.map(({ slug }) => slug),
-  getActiveCoupons().map(({ slug }) => slug),
-  'uma aba por loja ativa, na ordem de couponsData.ts'
+  sortStoresByNewestArticle(activeStores, publishedReviews).map(({ slug }) => slug),
+  'uma aba por loja ativa, pelo artigo mais novo'
 );
+assert.deepEqual(
+  [...tabs.map(({ slug }) => slug)].sort(),
+  activeStores.map(({ slug }) => slug).sort(),
+  'a ordem não perde nem repete loja'
+);
+const newestListed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews)).find(({ affiliate }) =>
+  activeStores.some(({ slug }) => slug === affiliate)
+);
+assert.equal(tabs[0].slug, newestListed?.affiliate, 'a primeira aba é a loja do artigo PT mais novo');
 assert.ok(!bySlug.has('cecilia'), 'a aba da Cecília é o painel dela, não uma loja');
 assert.ok(!bySlug.has('kopenhagen'), 'loja pausada fica de fora');
 
@@ -237,7 +272,7 @@ assert.deepEqual(
 );
 assert.deepEqual(
   tabs.filter(({ allArticles }) => allArticles).map(({ slug }) => slug),
-  pageSlugs,
+  sortStoresByNewestArticle(pageSlugs.map((slug) => store(slug)), publishedReviews).map(({ slug }) => slug),
   'o "Ver os N artigos" da vitrine e a subpágina seguem a mesma regra'
 );
 
