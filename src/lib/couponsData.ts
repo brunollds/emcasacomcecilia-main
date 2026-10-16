@@ -825,6 +825,15 @@ export const COUPONS: Coupon[] = [
           "Sim. O MAUAD vale com todas as formas de pagamento da Let's Eat It e soma com o desconto de 5% que muitos produtos têm no Pix.",
       },
       {
+        question: "O cupom MAUAD vale na primeira compra na Let's Eat It?",
+        answer: 'Sim. O MAUAD vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom MAUAD vale no Mercado Livre?',
+        answer:
+          "Não. O MAUAD é usado no checkout do site oficial da Let's Eat It e não vale no Mercado Livre nem em outros marketplaces.",
+      },
+      {
         question: 'Por que o cupom se chama MAUAD?',
         answer:
           'MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a loja.',
@@ -1255,7 +1264,16 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAX10EMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Max Titanium.',
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale na primeira compra na Max Titanium?',
+        answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O MAX10EMCASACOMCECILIA é usado no checkout do site oficial da Max Titanium e não vale no Mercado Livre nem em outros marketplaces.',
       },
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
@@ -1334,6 +1352,15 @@ export const COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
       },
       {
+        question: 'O cupom DREMCASACOMCECILIA vale na primeira compra na Dr. Peanut?',
+        answer: 'Sim. O DREMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom DREMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O DREMCASACOMCECILIA é usado no checkout do site oficial da Dr. Peanut e não vale no Mercado Livre nem em outros marketplaces.',
+      },
+      {
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 13/10/2026, os 10% entraram também na pasta de amendoim que já estava com preço promocional.',
@@ -1402,6 +1429,15 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom CECILIA10 vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom CECILIA10 vale na primeira compra na Black Skull?',
+        answer: 'Sim. O CECILIA10 vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom CECILIA10 vale no Mercado Livre?',
+        answer:
+          'Não. O CECILIA10 é usado no checkout do site oficial da Black Skull e não vale no Mercado Livre nem em outros marketplaces.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -1541,7 +1577,16 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Cléa Store.',
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale na primeira compra na Cléa Store?',
+        answer: 'Sim. O CSEMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O CSEMCASACOMCECILIA é usado no checkout do site oficial da Cléa Store e não vale no Mercado Livre nem em outros marketplaces.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
