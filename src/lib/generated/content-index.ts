@@ -80703,5 +80703,2215 @@ export const reviewsData: unknown[] = [
         "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
       }
     ]
+  },
+  {
+    "id": 444,
+    "slug": "black-skull-ou-max-titanium",
+    "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom",
+    "seoTitle": "Black Skull ou Max Titanium: qual whey e creatina comprar",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Black Skull e Max Titanium lado a lado: whey e creatina comparados pelo rótulo, com preço por dose, preço por 100 g de proteína e os dois cupons, pelos sites oficiais em 16/10/2026.",
+    "metaDescription": "Black Skull ou Max Titanium? Whey e creatina pelo rótulo, com preço por dose, por 100 g de proteína e os dois cupons.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
+    "imageAlt": "Montagem com fotos oficiais de produto das duas lojas: Whey 100% HD e Creator, da Black Skull, à esquerda, e 100% Whey e Creatina 300 g, da Max Titanium, à direita",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Creatina mais barata por dose: Black Skull. O Creator refil de 500 g sai a **R$ 0,40 por dose** de 5 g, e o Creator de 300 g, a R$ 0,50.",
+          "Whey mais barato por grama de proteína: Black Skull. O Whey 80% HD sai a **R$ 23,17 por 100 g de proteína**, só com proteína concentrada do soro do leite.",
+          "Mais opções de whey 3W com sabor e creatina Creapure: Max Titanium. A Black Skull não tem Creapure na busca do site.",
+          "Cupons: **CECILIA10** dá 10% em todo o site da Black Skull ([página do cupom da Black Skull](/cupons/black-skull)). **MAX10EMCASACOMCECILIA** dá até 10% na Max Titanium, que anuncia ainda até 5% no Pix e no boleto ([página do cupom da Max Titanium](/cupons/max-titanium))."
+        ],
+        "postParagraphs": [
+          "Preços do catálogo das duas lojas em 16/10/2026, antes do cupom; eles mudam com as promoções."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só o que as duas lojas publicam. A proteína por dose, a porção e o número de porções vêm da tabela nutricional de cada produto, que as lojas mostram em imagem. Os ingredientes vêm da lista na página de cada produto.",
+          "O preço é o do catálogo do site oficial em 16/10/2026: o valor do dia, antes do cupom e do desconto do Pix. O \"de\" é o preço de lista que a própria loja mostra.",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por dose:** preço ÷ porções do rótulo;",
+          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100."
+        ],
+        "postParagraphs": [
+          "O preço por 100 g de proteína é a régua que iguala os potes. As porções mudam de produto para produto: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o 100% Whey da Max Titanium dá os mesmos 21 g em 30 g. Pelo preço do pote, não dá para ver quanto custa a proteína.",
+          "Ficaram de fora sabor, dissolução e digestão: não testamos nenhum produto. Também ficou de fora o Whey 100% HD Gourmet da Black Skull, porque não lemos a tabela nutricional dele. Comparamos só as lojas oficiais, sem marketplace."
+        ]
+      },
+      {
+        "heading": "Black Skull e Max Titanium: de onde vem cada marca",
+        "paragraphs": [
+          "As duas marcas são brasileiras.",
+          "A Black Skull é da GDS Grow Dietary Supplements do Brasil, de Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica. Os dados da empresa, o site oficial e as trocas estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel).",
+          "A Max Titanium é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut. Quem fabrica, o site oficial e a reputação estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Whey: proteína, porção e preço por dose",
+        "paragraphs": [
+          "Oito opções das duas lojas, pela mesma régua. Preços do catálogo em 16/10/2026, antes do cupom; as contas por dose e por proteína são nossas."
+        ],
+        "comparisonTable": {
+          "caption": "Oito opções das duas lojas, pela mesma régua. Preços do catálogo em 16/10/2026, antes do cupom; as contas por dose e por proteína são nossas.",
+          "headers": [
+            "Marca e produto",
+            "Tipo de proteína (ingredientes)",
+            "Proteína por porção",
+            "Porções",
+            "Preço",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 80% HD refil 900 g",
+              "WPC",
+              "23 g em 30 g",
+              "30",
+              "R$ 159,90 (banana: R$ 139,90)",
+              "R$ 5,33 (banana: R$ 4,66)",
+              "R$ 23,17 (banana: R$ 20,28)"
+            ],
+            [
+              "Black Skull Whey 100% HD 900 g (pote / refil)",
+              "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
+              "21 g em 35 g",
+              "25",
+              "R$ 149,90 / R$ 139,90",
+              "R$ 6,00 / R$ 5,60",
+              "R$ 28,55 / R$ 26,65"
+            ],
+            [
+              "Black Skull Whey 100% HD 1,8 kg",
+              "os mesmos do 900 g",
+              "21 g em 35 g",
+              "50",
+              "R$ 279,90",
+              "R$ 5,60",
+              "R$ 26,66"
+            ],
+            [
+              "Black Skull Whey 3W Core 900 g",
+              "WPC, WPI e WPH",
+              "31 g em 40 g",
+              "22",
+              "R$ 279,90",
+              "R$ 12,72",
+              "R$ 41,04"
+            ],
+            [
+              "Max Titanium Whey Pro 1 kg",
+              "WPC, com 20 g de carboidrato por porção",
+              "15 g em 40 g",
+              "25",
+              "R$ 99,00 (de R$ 126,20)",
+              "R$ 3,96",
+              "R$ 26,40"
+            ],
+            [
+              "Max Titanium 100% Whey 900 g (pote / refil)",
+              "WPC",
+              "21 g em 30 g",
+              "30",
+              "R$ 210,39 / R$ 196,39",
+              "R$ 7,01 / R$ 6,55",
+              "R$ 33,40 / R$ 31,17"
+            ],
+            [
+              "Max Titanium Top Whey 3W Mais Sabor 900 g",
+              "WPC, WPI e WPH, com granulado em alguns sabores",
+              "25 g em 40 g",
+              "22,5 (nossa conta)",
+              "R$ 189,00 (de R$ 273,55)",
+              "R$ 8,40",
+              "R$ 33,60"
+            ],
+            [
+              "Max Titanium Top Whey 3W + Performance 900 g",
+              "WPC, WPI e WPH, com vitaminas e minerais",
+              "32 g em 40 g",
+              "22,5 (nossa conta)",
+              "R$ 273,55",
+              "R$ 12,16",
+              "R$ 37,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. Nos dois Top Whey 3W, o número de porções é nossa conta: 900 g ÷ 40 g."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp",
+          "alt": "Recorte das tabelas nutricionais oficiais do Whey 100% HD da Black Skull, com porção de 35 g, e do 100% Whey da Max Titanium, com porção de 30 g, ambas com 21 g de proteína, com a porção e a proteína marcadas em amarelo",
+          "caption": "Tabelas nutricionais oficiais lado a lado. O destaque amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.6622
+        }
+      },
+      {
+        "heading": "\"100%\" não quer dizer a mesma coisa nas duas marcas",
+        "paragraphs": [
+          "O nome parecido esconde fórmulas diferentes.",
+          "O **Whey 100% HD** da Black Skull mistura proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite e proteína isolada e hidrolisada do soro. A própria Black Skull chama a mistura de \"Blend Duo Protein\" e diz que os peptídeos hidrolisados são de colágeno. Ou seja: nem toda a proteína do pote vem do soro do leite.",
+          "O **100% Whey** da Max Titanium leva só proteína concentrada do soro do leite (WPC), mais aromatizante, lecitina de soja e sucralose. O rótulo avisa que contém soja.",
+          "Na Black Skull, quem quer whey só de soro do leite pelo menor preço tem o **Whey 80% HD**. A lista de ingredientes dele traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose."
+        ]
+      },
+      {
+        "heading": "Mais proteína por dose",
+        "paragraphs": [
+          "Os dois whey 3W lideram, e os dois usam porção de 40 g, o equivalente a 2 dosadores:"
+        ],
+        "bullets": [
+          "**Top Whey 3W + Performance**, da Max Titanium: 32 g de proteína por dose, com um mix de vitaminas e minerais;",
+          "**Whey 3W Core**, da Black Skull: 31 g de proteína por dose."
+        ],
+        "postParagraphs": [
+          "Os dois também são os mais caros por grama de proteína na tabela: R$ 37,99 e R$ 41,04 por 100 g de proteína. A dose maior custa R$ 12,16 na Max Titanium e R$ 12,72 na Black Skull.",
+          "O Top Whey 3W Mais Sabor, da mesma linha da Max Titanium, dá 25 g de proteína na mesma porção de 40 g. Em promoção a R$ 189,00, ele sai a R$ 33,60 por 100 g de proteína."
+        ]
+      },
+      {
+        "heading": "Menor preço por 100 g de proteína",
+        "paragraphs": [
+          "O **Whey 80% HD** da Black Skull sai a R$ 23,17 por 100 g de proteína, e a R$ 20,28 no sabor banana, que estava mais barato. A dose de 30 g dá 23 g de proteína.",
+          "O segundo é o **Whey Pro** da Max Titanium, a R$ 26,40 por 100 g de proteína e R$ 3,96 por dose, a dose mais barata da tabela. A diferença está no rótulo: a porção de 40 g dá 15 g de proteína e 20 g de carboidrato. É menos proteína e mais carboidrato por dose que qualquer outro whey da tabela.",
+          "Logo atrás vem o Whey 100% HD da Black Skull no refil ou no pote de 1,8 kg, perto de R$ 26,65 por 100 g de proteína. O 100% Whey da Max Titanium fica em R$ 33,40 no pote e R$ 31,17 no refil."
+        ]
+      },
+      {
+        "heading": "Sabores de cada linha",
+        "paragraphs": [
+          "Não provamos nenhum sabor. Abaixo está quantos e quais cada loja tinha em estoque no catálogo em 16/10/2026. A lista muda com o estoque."
+        ],
+        "comparisonTable": {
+          "caption": "Sabores em estoque no catálogo das lojas em 16/10/2026.",
+          "headers": [
+            "Marca e produto",
+            "Sabores",
+            "Quais"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 100% HD 900 g (pote)",
+              "11",
+              "baunilha, morango, chocolate, cookies & cream, cappuccino, milho verde, vitamina de frutas, chocolate com amendoim, torta de limão, caramelo macchiato e pistache"
+            ],
+            [
+              "Black Skull Whey 100% HD 1,8 kg",
+              "4",
+              "baunilha, morango, chocolate e cookies & cream"
+            ],
+            [
+              "Black Skull Whey 80% HD refil 900 g",
+              "4",
+              "morango, baunilha, banana e cookies"
+            ],
+            [
+              "Black Skull Whey 3W Core 900 g",
+              "4",
+              "baunilha, chocolate, morango e cookies & cream"
+            ],
+            [
+              "Max Titanium 100% Whey 900 g (pote)",
+              "7",
+              "baunilha, chocolate, cookies & cream, morango, chocolate maltado, pistache com chocolate branco e leite"
+            ],
+            [
+              "Max Titanium 100% Whey refil 900 g",
+              "4",
+              "baunilha, chocolate, cookies & cream e morango"
+            ],
+            [
+              "Max Titanium Top Whey 3W Mais Sabor 900 g",
+              "6",
+              "brigadeiro, cookies & cream, chocolate branco com morango, leite, iogurte grego morango e sorvete de frutas"
+            ],
+            [
+              "Max Titanium Top Whey 3W + Performance 900 g",
+              "4",
+              "baunilha, chocolate, fresh lemon e morango"
+            ],
+            [
+              "Max Titanium Whey Pro 1 kg",
+              "3",
+              "baunilha, chocolate e morango"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A maior variedade numa linha só é a do Whey 100% HD, com 11 sabores no pote de 900 g. Na Max Titanium, a variedade fica dividida: 7 no 100% Whey e 6 no Top Whey 3W Mais Sabor. Na consulta, o Top Whey 3W + Performance estava sem o sabor vitamina de frutas, o Whey Pro, sem o cookies & cream, e o Whey 80% HD da Black Skull, sem o chocolate."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por dose nas duas lojas",
+        "paragraphs": [
+          "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do catálogo das lojas em 16/10/2026, antes do cupom. O preço por dose é conta nossa: preço dividido pelas doses do rótulo."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do catálogo das lojas em 16/10/2026, antes do cupom. Preço por dose: conta nossa.",
+          "headers": [
+            "Marca e produto",
+            "Ingredientes",
+            "Doses",
+            "Preço",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "Black Skull Creator refil 500 g",
+              "creatina monohidratada (sem dosador)",
+              "100",
+              "R$ 39,90 (de R$ 59,90)",
+              "R$ 0,40"
+            ],
+            [
+              "Black Skull Creator 300 g",
+              "creatina monohidratada",
+              "60",
+              "R$ 29,90 (de R$ 49,90)",
+              "R$ 0,50"
+            ],
+            [
+              "Black Skull Creatine 300 g sem sabor",
+              "creatina monohidratada",
+              "60",
+              "R$ 41,90 (de R$ 49,90)",
+              "R$ 0,70"
+            ],
+            [
+              "Black Skull Creatine Turbo 300 g",
+              "creatina e maltodextrina (dose de 10 g)",
+              "30",
+              "R$ 39,90",
+              "R$ 1,33"
+            ],
+            [
+              "Max Titanium Creatina 500 g",
+              "creatina monohidratada e dióxido de silício",
+              "100",
+              "R$ 87,53 (de R$ 115,60)",
+              "R$ 0,88"
+            ],
+            [
+              "Max Titanium Creatina 300 g",
+              "creatina monohidratada e dióxido de silício",
+              "60",
+              "R$ 59,90 (de R$ 75,10)",
+              "R$ 1,00"
+            ],
+            [
+              "Max Titanium Creatina 150 g",
+              "creatina monohidratada e dióxido de silício",
+              "30",
+              "R$ 38,89 (de R$ 47,52)",
+              "R$ 1,30"
+            ],
+            [
+              "Max Titanium Creatina Creapure 250 g",
+              "creatina monohidratada",
+              "50",
+              "R$ 139,89 (de R$ 147,20)",
+              "R$ 2,80"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**O que vem junto da creatina.** No Creator, na Creatine sem sabor e na Creapure, a lista de ingredientes tem um item só: creatina monohidratada. As creatinas comuns da Max Titanium levam também dióxido de silício, um antiumectante. As versões de laranja e de limão da Creatine da Black Skull levam acidulante, antiumectante, aromatizante, corante e sucralose, e a página indica um dosador de 6 g para elas. O refil de 500 g do Creator é a dose mais barata das duas lojas na consulta, mas não vem com dosador: quem compra só o refil precisa de uma colher medidora.",
+          "**A Creatine Turbo não é só creatina.** Cada dose tem 10 g de pó, com 5 g de creatina e 5 g de **maltodextrina**, um carboidrato. Por isso o pote de 300 g rende 30 doses, metade das 60 do Creator do mesmo tamanho. A dose sai a R$ 1,33, 2,7 vezes a do Creator 300 g.",
+          "**Creapure só na Max Titanium.** Creapure é o nome da matéria-prima de creatina que a Max Titanium usa nesse pote. Não encontramos Creapure na busca do site da Black Skull em 16/10/2026. No rótulo, a Creapure da Max Titanium tem a mesma dose de 5 g e um ingrediente só, como o Creator. A diferença está no preço: R$ 2,80 por dose, sete vezes o refil do Creator.",
+          "Na Black Skull, a Creatine também sai em 150 g, por R$ 39,90, e em refil de 500 g, por R$ 78,90. Pela nossa conta, com 5 g por dose, são R$ 1,33 e cerca de R$ 0,79 por dose. Na Max Titanium, a Creatina de 100 g estava sem estoque na consulta."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
+          "alt": "Recorte das tabelas nutricionais oficiais do Creator 300 g da Black Skull e da Creatina 300 g da Max Titanium, as duas com 5.000 mg de creatina por porção de 5 g",
+          "caption": "Tabelas nutricionais oficiais do Creator 300 g e da Creatina 300 g: 5.000 mg por dose de 5 g.",
+          "objectFit": "contain",
+          "aspectRatio": 2.2069
+        }
+      },
+      {
+        "heading": "Cupons, Pix e frete: o que muda entre as duas lojas",
+        "paragraphs": [
+          "Os dois cupons são da casa e valem em todas as formas de pagamento. O resto das condições muda de uma loja para a outra. Cupons conferidos em 16/10/2026; frete e pagamento conforme as políticas das lojas lidas em 14/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Cupons conferidos em 16/10/2026; frete e pagamento conforme as políticas das lojas lidas em 14/10/2026.",
+          "headers": [
+            "Condição",
+            "Black Skull",
+            "Max Titanium"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "CECILIA10",
+              "MAX10EMCASACOMCECILIA"
+            ],
+            [
+              "Desconto",
+              "10% em todo o site",
+              "até 10%, varia por produto"
+            ],
+            [
+              "Soma com promoção",
+              "sim",
+              "sim, e também com os brindes"
+            ],
+            [
+              "Desconto no Pix",
+              "a loja não anuncia; aceita Pix à vista ou parcelado em 4 vezes",
+              "até 5% no Pix e no boleto, que soma com o cupom"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 199,90 (Sul e Sudeste), R$ 249,90 (Centro-Oeste), R$ 299,90 (demais regiões)",
+              "R$ 104 (capital de SP), R$ 134 (Sudeste), R$ 204 (Centro-Oeste), R$ 249 (Sul), R$ 299 (Nordeste), R$ 599 (Norte)"
+            ],
+            [
+              "Como o frete é contado",
+              "sobre o total já com os descontos",
+              "sobre o total já com os descontos, só na entrega mais barata"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 149,90 por R$ 134,91, e o Creator 300 g, de R$ 29,90 por R$ 26,91. No nosso teste de 13/10/2026, um carrinho de R$ 364,33 com itens em promoção saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
+          "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. No nosso teste de 14/10/2026, o Top Whey 3W em promoção, a R$ 189,00, ganhou R$ 16,75 de desconto, cerca de 9%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
+          "**O cupom pode tirar o frete grátis.** Nas duas lojas, o mínimo do frete grátis é conferido depois dos descontos. Se o cupom deixar o carrinho abaixo do mínimo da sua região, o frete passa a ser cobrado. Perto do limite, confira o total no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "A escolha aqui é por critério de compra, com os números do rótulo e os preços de 16/10/2026:"
+        ],
+        "bullets": [
+          "**Quer pagar menos por grama de proteína:** Whey 80% HD da Black Skull. O Whey Pro da Max Titanium vem logo atrás, com menos proteína e mais carboidrato por dose.",
+          "**Quer mais proteína por dose:** Top Whey 3W + Performance da Max Titanium ou Whey 3W Core da Black Skull, os mais caros por proteína da comparação.",
+          "**Quer whey só de proteína do soro do leite:** Whey 80% HD da Black Skull ou 100% Whey da Max Titanium, os dois só com WPC. O 100% Whey contém soja.",
+          "**Quer creatina sem outro ingrediente:** Creator ou Creatine sem sabor, da Black Skull, ou a Creapure da Max Titanium. A Creatine Turbo leva maltodextrina: dose de 10 g para 5 g de creatina.",
+          "**Quer Creapure:** só a Max Titanium vende.",
+          "**Quer a creatina mais barata por dose:** Creator refil 500 g da Black Skull, sem dosador.",
+          "**Vai pagar no Pix ou no boleto:** na Max Titanium, o cupom de até 10% soma com o desconto de até 5% da loja. Na Black Skull, o desconto é o mesmo em qualquer forma de pagamento: os 10% do cupom."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Black Skull ou Max Titanium: qual é melhor? Pelo rótulo e pelo preço de 16/10/2026, a Black Skull sai mais barata por grama de proteína e por dose de creatina, e a Max Titanium tem mais whey 3W com sabor e a creatina Creapure.",
+          "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
+          "Black Skull é boa? É uma marca boa? Não testamos os produtos. O que dá para comparar é o que o rótulo declara e quanto custa cada dose; a origem da marca está na seção sobre as duas marcas, acima.",
+          "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
+          "Max Titanium é brasileira? Sim. A marca é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut.",
+          "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil em 16/10/2026. Com o cupom de até 10% e o desconto de até 5% no Pix, a dose fica mais barata; se compensa depende do critério que pesa para você.",
+          "Creatina Max Titanium vale a pena? A de 300 g dá 5 g de creatina por dose a R$ 1,00, e a Creapure, a R$ 2,80. Na Black Skull, o Creator sai a R$ 0,50 a dose, ou R$ 0,40 no refil.",
+          "Qual a melhor creatina da Black Skull? Para quem quer só creatina, o Creator ou a Creatine sem sabor, com um ingrediente só. A Creatine Turbo leva maltodextrina.",
+          "Os cupons somam com promoção e com Pix? Os dois somam com as promoções das lojas. Na Max Titanium, o cupom soma também com o desconto de até 5% do Pix e do boleto; a Black Skull não anuncia desconto no Pix.",
+          "Vale esperar a Black Friday? Os dois cupons valem hoje. A espera só compensa se o preço de novembro ficar abaixo do de outubro, e os preços de antes estão em [Black Friday Black Skull 2026: quando começa, preços de whey e creatina e o cupom CECILIA10](/reviews/black-friday-black-skull) e em [Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou](/reviews/black-friday-max-titanium)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "A Black Skull e a Max Titanium são parceiras do Em Casa com Cecília, cada uma com um cupom da casa. Se você compra com o CECILIA10 ou com o MAX10EMCASACOMCECILIA, o site recebe uma comissão, sem custo a mais para você. A comparação usa só o que as duas lojas publicam: rótulo, lista de ingredientes e preço do catálogo, com as contas por dose e por proteína feitas por nós. Não provamos os produtos, e o texto não fala de sabor nem de resultado. Dose diária, horário e uso por quem tem alguma restrição são conversa para um nutricionista."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Podemos receber comissão pela Black Skull e pela Max Titanium. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "slug": "max-titanium-ou-probiotica",
+    "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)",
+    "seoTitle": "Max Titanium ou Probiótica: qual whey e creatina escolher",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Max Titanium e Probiótica lado a lado: mesma fábrica no rótulo, linhas diferentes. Proteína por porção, preço por 100 g de proteína, creatina e cupom, pelas lojas oficiais em 16/10/2026.",
+    "metaDescription": "Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína por porção, preço por 100 g, creatina e cupom nas lojas oficiais.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
+    "imageAlt": "Montagem com fotos oficiais das lojas: 100% Whey e Creatina 300 g, da Max Titanium, à esquerda, e 100% Pure Whey e Creatina 300 g, da Probiótica, à direita",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "**São a mesma coisa?** Não. As duas são marcas do grupo Supley, e o rótulo das duas aponta a mesma fábrica. As linhas, as porções, os sabores e os preços são diferentes.",
+          "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
+          "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
+          "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
+          "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g.",
+          "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g.",
+          "**Cupom:** cada loja tem o seu código, de até 10%, e os dois somam com as promoções do site."
+        ],
+        "postParagraphs": [
+          "A comparação usa a tabela nutricional que cada loja publica e o preço dos sites oficiais em 16/10/2026, que muda com as promoções."
+        ]
+      },
+      {
+        "heading": "Max Titanium e Probiótica são a mesma coisa?",
+        "paragraphs": [
+          "São da mesma empresa, mas não vendem os mesmos produtos. Max Titanium e Probiótica são marcas do **grupo Supley**, que também tem a Dr. Peanut e a Znack That. As duas lojas oficiais trazem a mesma empresa no rodapé.",
+          "O verso das embalagens confirma a origem. No 100% Whey da Max e no 3 Whey Protein da Probiótica, o campo \"Fabricado em\" traz o mesmo nome, Supley Laboratório de Alimentos e Suplementos Nutricionais, em Matão (SP). Ou seja: **o rótulo das duas aponta a mesma fábrica**.",
+          "Isso não faz de um pote a cópia do outro. Cada marca tem as próprias linhas, com porção, proteína por porção, sabores e preço diferentes. Só um par tem tabelas nutricionais quase iguais, o dos blends, e mesmo ali a tabela não diz que a fórmula é a mesma.",
+          "Quem fabrica, o site oficial e as trocas de cada marca estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel) e em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+        ],
+        "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
+        "imageAlt": "Verso das embalagens do 100% Whey da Max Titanium e do 3 Whey Protein da Probiótica, com o campo Fabricado em destacado: Supley Laboratório de Alimentos e Suplementos Nutricionais, Matão (SP)",
+        "imageCaption": "O campo \"Fabricado em\" no verso das duas embalagens, com o mesmo nome e a mesma cidade. O destaque é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.2222
+      },
+      {
+        "heading": "Como comparamos",
+        "bullets": [
+          "**Rótulo:** lemos a tabela nutricional que cada loja publica na página do produto, em 16/10/2026.",
+          "**Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. Usamos o sabor da tabela lida, em geral Baunilha, e ele aparece indicado quando é outro.",
+          "**Preço:** o preço à vista do site oficial em 16/10/2026, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço \"de\", ele vem entre parênteses.",
+          "**Preço por 100 g de proteína (conta nossa):** dividimos o peso do pote pela porção, multiplicamos pela proteína de cada porção e dividimos o preço por esse total de proteína.",
+          "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
+        ],
+        "postParagraphs": [
+          "Não houve teste nem degustação. Por isso o texto diz quantos sabores cada linha tem, sem comparar o gosto."
+        ]
+      },
+      {
+        "heading": "Quadro das linhas equivalentes",
+        "paragraphs": [
+          "Os pares abaixo têm o mesmo tipo de proteína e o mesmo tamanho de pote, 900 g, salvo o Whey Pro, de 1 kg. Compare a proteína junto com a porção: 21 g em 30 g não é o mesmo que 25 g em 40 g."
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos sites oficiais em 16/10/2026, sem cupom; eles mudam com as promoções e o estoque. A proteína por porção é a da tabela de Baunilha, salvo onde o sabor está indicado. O preço por 100 g de proteína é conta nossa.",
+          "headers": [
+            "Tipo",
+            "Max Titanium",
+            "Proteína por porção",
+            "Preço",
+            "R$ por 100 g de proteína",
+            "Probiótica",
+            "Proteína por porção",
+            "Preço",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Concentrado (pote)",
+              "100% Whey (7 sabores)",
+              "21 g em 30 g",
+              "R$ 210,39",
+              "R$ 33,40",
+              "100% Pure Whey (13 sabores)",
+              "20 g em 30 g",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "Concentrado (refil)",
+              "100% Whey Refil",
+              "21 g em 30 g",
+              "R$ 196,39",
+              "R$ 31,17",
+              "100% Pure Whey Refil",
+              "20 g em 30 g",
+              "R$ 235,65",
+              "R$ 39,28"
+            ],
+            [
+              "Isolado",
+              "IsoWhey",
+              "26 g em 30 g",
+              "R$ 326,18",
+              "R$ 41,82",
+              "Iso Pro Whey (com vitaminas e minerais)",
+              "26 g em 30 g",
+              "R$ 346,28",
+              "R$ 44,39"
+            ],
+            [
+              "3W",
+              "Top Whey 3W + Performance (com vitaminas e minerais)",
+              "32 g em 40 g",
+              "R$ 273,55",
+              "R$ 37,99",
+              "3 Whey Protein",
+              "24 g em 32 g",
+              "R$ 273,55",
+              "R$ 40,53"
+            ],
+            [
+              "3W em promoção",
+              "Top Whey 3W + Sabor (Brigadeiro)",
+              "25 g em 40 g",
+              "R$ 189,00 (de R$ 273,55)",
+              "R$ 33,60",
+              "Sem equivalente",
+              "—",
+              "—",
+              "—"
+            ],
+            [
+              "Blend",
+              "Whey Blend Nova Fórmula",
+              "25 g em 40 g",
+              "R$ 79,00 (de R$ 121,99)",
+              "R$ 14,04",
+              "Iso Protein Blend (Chocolate)",
+              "25 g em 40 g",
+              "R$ 79,00 (de R$ 121,99)",
+              "R$ 14,04"
+            ],
+            [
+              "Entrada",
+              "Whey Pro (1 kg)",
+              "15 g em 40 g",
+              "R$ 99,00 (de R$ 126,20)",
+              "R$ 26,40",
+              "Hiper 100% Whey",
+              "23 g em 40 g",
+              "R$ 124,90 (de R$ 210,39)",
+              "R$ 24,14"
+            ],
+            [
+              "Zero lactose",
+              "Sem equivalente",
+              "—",
+              "—",
+              "—",
+              "100% Pure Whey Zero Lactose",
+              "22 g em 30 g",
+              "R$ 241,97",
+              "R$ 36,66"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Creatina: qual escolher",
+        "paragraphs": [
+          "No pote de 300 g, as duas creatinas empatam no rótulo e no preço. A tabela das duas traz porção de 5 g, com 5.000 mg de creatina, e 60 porções por pote. As duas custavam R$ 59,90 (de R$ 75,10) em 16/10/2026, ou **R$ 1,00 por dose**.",
+          "A diferença está nos outros tamanhos e formatos:"
+        ],
+        "comparisonTable": {
+          "caption": "Preços dos sites oficiais em 16/10/2026, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).",
+          "headers": [
+            "Loja",
+            "Produto",
+            "Preço",
+            "Porções",
+            "R$ por dose"
+          ],
+          "rows": [
+            [
+              "Max Titanium",
+              "Creatina 150 g",
+              "R$ 38,89 (de R$ 47,52)",
+              "30 de 5 g",
+              "R$ 1,30"
+            ],
+            [
+              "Max Titanium",
+              "Creatina 300 g",
+              "R$ 59,90 (de R$ 75,10)",
+              "60 de 5 g",
+              "R$ 1,00"
+            ],
+            [
+              "Max Titanium",
+              "Creatina 500 g",
+              "R$ 87,53 (de R$ 115,60)",
+              "100 de 5 g",
+              "R$ 0,88"
+            ],
+            [
+              "Max Titanium",
+              "Creatina Creapure 250 g",
+              "R$ 139,89 (de R$ 147,20)",
+              "50 de 5 g",
+              "R$ 2,80"
+            ],
+            [
+              "Probiótica",
+              "Creatina 100 g",
+              "R$ 33,89",
+              "20 de 5 g",
+              "R$ 1,69"
+            ],
+            [
+              "Probiótica",
+              "Creatina 300 g",
+              "R$ 59,90 (de R$ 75,10)",
+              "60 de 5 g",
+              "R$ 1,00"
+            ],
+            [
+              "Probiótica",
+              "Monodose, 30 sachês de 5 g",
+              "R$ 69,89",
+              "30 de 5 g",
+              "R$ 2,33"
+            ],
+            [
+              "Probiótica",
+              "Cápsulas, 180 cápsulas",
+              "R$ 47,89 (de R$ 63,10)",
+              "45 de 3 g (4 cápsulas)",
+              "R$ 1,06 por porção de 3 g"
+            ],
+            [
+              "Probiótica",
+              "Creatina Creapure 150 g",
+              "R$ 99,89",
+              "30 de 5 g",
+              "R$ 3,33"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Pote maior:** só a Max tem o de 500 g, a dose mais barata das duas lojas, R$ 0,88.",
+          "**Pote menor:** a Max tem o de 150 g, e a Probiótica, o de 100 g. Os dois saem mais caros por dose que o de 300 g.",
+          "**Sem medir o pó:** só a Probiótica vende sachês de 5 g e cápsulas. A porção das cápsulas é de 3 g em 4 cápsulas, então o preço por porção não se compara direto com o das doses de 5 g.",
+          "**Creapure:** as duas lojas vendem uma creatina Creapure, a de 250 g na Max e a de 150 g na Probiótica. É a opção mais cara por dose em cada loja."
+        ]
+      },
+      {
+        "heading": "Whey concentrado: 100% Whey ou 100% Pure Whey",
+        "paragraphs": [
+          "O concentrado da Max Titanium é o **100% Whey**. O da Probiótica é o **100% Pure Whey**. Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
+          "Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.",
+          "A diferença maior está no preço: em 16/10/2026, o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
+          "A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
+          "A Probiótica também vende o **100% Pure Whey Zero Lactose**, em 3 sabores. A tabela de Baunilha traz 22 g de proteína em 30 g, e o pote custava R$ 241,97 em 16/10/2026. Por 100 g de proteína, ele sai mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
+        ]
+      },
+      {
+        "heading": "Whey isolado: IsoWhey ou Iso Pro Whey",
+        "paragraphs": [
+          "O isolado da Max Titanium é o **IsoWhey**. O da Probiótica é o **Iso Pro Whey**. Os dois têm 26 g de proteína em 30 g, 30 porções por pote de 900 g e 3 sabores à venda.",
+          "A diferença está na tabela e no preço. A tabela da Iso Pro Whey traz também vitaminas e minerais; a do IsoWhey, não. Em 16/10/2026, a Iso Pro Whey custava R$ 20,10 a mais.",
+          "Pela mesma proteína por dose, a escolha fica entre pagar menos (IsoWhey) ou levar as vitaminas e os minerais na tabela (Iso Pro Whey)."
+        ]
+      },
+      {
+        "heading": "3W: Top Whey 3W ou 3 Whey Protein",
+        "paragraphs": [
+          "Aqui as duas lojas têm porções diferentes, e a comparação precisa olhar o pote inteiro.",
+          "O **Top Whey 3W + Performance**, da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O **3 Whey Protein**, da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).",
+          "Os dois custavam R$ 273,55 em 16/10/2026, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma):"
+        ],
+        "comparisonTable": {
+          "caption": "Porções, proteína no pote (conta nossa) e sabores à venda em 16/10/2026.",
+          "headers": [
+            "3W (900 g)",
+            "Porções por pote",
+            "Proteína no pote",
+            "Sabores disponíveis"
+          ],
+          "rows": [
+            [
+              "Top Whey 3W + Performance (Max)",
+              "cerca de 23",
+              "720 g",
+              "4"
+            ],
+            [
+              "Top Whey 3W + Sabor (Max)",
+              "cerca de 23",
+              "562,5 g",
+              "6"
+            ],
+            [
+              "3 Whey Protein (Probiótica)",
+              "cerca de 28",
+              "675 g",
+              "3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O **Top Whey 3W + Sabor** é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e, em 16/10/2026, preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque."
+        ]
+      },
+      {
+        "heading": "Blend e opções de entrada: os dois blends",
+        "paragraphs": [
+          "O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99) em 16/10/2026, o menor preço por 100 g de proteína deste comparativo.",
+          "As tabelas são quase iguais. Lemos a de Baunilha da Max e a de Chocolate da Probiótica:"
+        ],
+        "comparisonTable": {
+          "caption": "Valores por porção de 40 g, lidos nas tabelas publicadas pelas lojas em 16/10/2026.",
+          "headers": [
+            "Por porção de 40 g",
+            "Whey Blend Nova Fórmula (Max, Baunilha)",
+            "Iso Protein Blend (Probiótica, Chocolate)"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "153 kcal",
+              "152 kcal"
+            ],
+            [
+              "Carboidratos",
+              "10 g",
+              "9,8 g"
+            ],
+            [
+              "Proteína",
+              "25 g",
+              "25 g"
+            ],
+            [
+              "Gorduras totais",
+              "1,4 g",
+              "1,4 g"
+            ],
+            [
+              "Sódio",
+              "234 mg",
+              "233 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. Em 16/10/2026, a Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate."
+        ]
+      },
+      {
+        "heading": "Blend e opções de entrada: Whey Pro ou Hiper 100% Whey",
+        "paragraphs": [
+          "As opções de entrada das duas lojas são bem diferentes na dose.",
+          "O **Whey Pro 1 kg**, da Max Titanium, tem 15 g de proteína e 20 g de carboidratos em 40 g, com 25 porções.",
+          "A **Hiper 100% Whey 900 g**, da Probiótica, tem 23 g de proteína e 11 g de carboidratos em 40 g, com cerca de 23 porções.",
+          "O Whey Pro custa R$ 25,90 a menos no pote. A Hiper entrega 8 g a mais de proteína na mesma porção de 40 g e, por 100 g de proteína, sai mais barata."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete em cada loja",
+        "paragraphs": [
+          "Cada loja tem o próprio código da parceria. Os dois dão **até 10%**: o percentual pode ser menor em alguns produtos, e o carrinho mostra quanto cada item recebeu. Os dois valem em todas as formas de pagamento, para conta nova e antiga, e somam com as promoções do site."
+        ],
+        "comparisonTable": {
+          "caption": "Condições dos cupons de cada loja e os testes de checkout da equipe.",
+          "headers": [
+            "",
+            "Max Titanium",
+            "Probiótica"
+          ],
+          "rows": [
+            [
+              "Código",
+              "MAX10EMCASACOMCECILIA",
+              "PRO10EMCASACOMCECILIA"
+            ],
+            [
+              "Desconto",
+              "até 10%",
+              "até 10%"
+            ],
+            [
+              "Soma com promoção do site",
+              "sim",
+              "sim"
+            ],
+            [
+              "Nosso teste de checkout",
+              "R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00, em 14/10/2026",
+              "R$ 54,75 de desconto num carrinho de R$ 659,35, em 13/10/2026"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: em 16/10/2026, a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).",
+          "O frete grátis segue a mesma tabela nas duas lojas. Em 14/10/2026, a entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Max Titanium e Probiótica são a mesma coisa? São marcas do mesmo grupo, o Supley, e o rótulo das duas aponta a mesma fábrica, mas as linhas, as porções e os preços são diferentes.",
+          "Qual a diferença entre Probiótica e Max Titanium? Mudam as linhas, o número de sabores e as porções. No whey concentrado, a Max tem 21 g em 30 g e a Probiótica 20 g em 30 g (sabor Baunilha), com 13 sabores e versão zero lactose.",
+          "Qual a melhor creatina, Max Titanium ou Probiótica? O pote de 300 g tem a mesma porção de 5 g e o mesmo preço nas duas lojas; a diferença está nos outros tamanhos e formatos de cada uma.",
+          "Qual o melhor whey, Max Titanium ou Probiótica? Depende do tipo de whey: compare a proteína por porção e o preço por 100 g de proteína de cada par.",
+          "Whey isolado: Probiótica ou Max Titanium? Os dois têm 26 g de proteína em 30 g. A Iso Pro Whey traz vitaminas e minerais na tabela e custava R$ 20,10 a mais em 16/10/2026.",
+          "100% Pure Whey da Probiótica ou 100% Whey da Max? No sabor Baunilha, 20 g contra 21 g por porção de 30 g, e R$ 252,49 contra R$ 210,39 em 16/10/2026. O Pure Whey tem mais sabores e versão zero lactose.",
+          "A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum em 16/10/2026. A Probiótica tem o 100% Pure Whey Zero Lactose, com 22 g de proteína por porção de 30 g no sabor Baunilha.",
+          "O cupom vale nas duas lojas? Cada loja tem o seu: MAX10EMCASACOMCECILIA na Max Titanium e PRO10EMCASACOMCECILIA na Probiótica, os dois de até 10%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar) e em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar).",
+          "O cupom soma com o Pix? Na Max Titanium, sim: soma com o desconto de até 5% do Pix e do boleto. Na Probiótica, confira o total no carrinho antes de pagar.",
+          "Quanto whey ou creatina tomar por dia? A quantidade depende de cada pessoa. Quem define é um nutricionista."
+        ]
+      },
+      {
+        "heading": "Transparência",
+        "paragraphs": [
+          "A Max Titanium e a Probiótica são parceiras comissionadas do site, e as duas são do mesmo grupo. Comprar pelos links ou com os códigos não muda o preço para você."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "slug": "dr-peanut-melhor-sabor",
+    "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
+    "seoTitle": "Dr. Peanut: qual o melhor sabor? Rótulo e preço [2026]",
+    "type": "Guia de escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os 11 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
+    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 11 de pasta e os 5 de whey por rótulo, preço por 100 g e mais vendidos, sem eleger o mais gostoso.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp",
+    "imageAlt": "Potes de pasta de amendoim Dr. Peanut nos sabores Cookies & Cream, Avelã, Bueníssimo, Pistache e Bombom Italiano, em fotos oficiais da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Segundo a própria Dr. Peanut, os sabores mais vendidos são **Avelã, Bueníssimo e Cookies & Cream**. A loja chama os três de \"os sabores mais amados\" e vende os três juntos no Combo Best Sellers.",
+          "Mais proteína por 100 g: Avelã e Leite em Pó, com 20 g cada.",
+          "Menos açúcares totais por 100 g: Cookies & Cream (4,6 g) e Brownie (4,7 g).",
+          "Menos calorias: Banoffee, com 83 kcal por colher de sopa.",
+          "Os 11 sabores são **sem adição de açúcares**, e todos **contêm lactose**."
+        ],
+        "postParagraphs": [
+          "Não provamos os sabores, e este guia não elege o mais gostoso. Os dados são da loja oficial em 16/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar."
+        ]
+      },
+      {
+        "heading": "Como comparamos, sem degustação",
+        "paragraphs": [
+          "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor, lida em 16/10/2026. As 11 tabelas trazem 40 porções de 15 g por embalagem, a conta do pote de 600 g, e a porção de 15 g é 1 colher de sopa. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para os 11 sabores.",
+          "Preços e tamanhos vêm da listagem de pastas de amendoim e da página de combos do site, na mesma data. O preço por 100 g e o preço com o cupom são contas nossas.",
+          "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja afirma: quais sabores ela chama de mais amados e quais põe no combo de mais vendidos. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
+        ]
+      },
+      {
+        "heading": "Todos os sabores e o preço por 100 g",
+        "paragraphs": [
+          "Em 16/10/2026, a loja vendia **11 sabores** de pasta de amendoim, em potes de 250 g e de 600 g. Nem todo sabor aparecia nos dois tamanhos na listagem:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Opção",
+            "Peso",
+            "Preço em 16/10/2026",
+            "Com o cupom de 10% (conta nossa)",
+            "Preço por 100 g, sem cupom (conta nossa)"
+          ],
+          "rows": [
+            [
+              "Pote de 250 g, qualquer sabor",
+              "250 g",
+              "R$ 25,89 (de R$ 28,90)",
+              "R$ 23,30",
+              "R$ 10,36"
+            ],
+            [
+              "Pote de 600 g, qualquer sabor",
+              "600 g",
+              "R$ 59,89 (de R$ 64,90)",
+              "R$ 53,90",
+              "R$ 9,98"
+            ],
+            [
+              "3 potes de 600 g avulsos",
+              "1,8 kg",
+              "R$ 179,67",
+              "R$ 161,70",
+              "R$ 9,98"
+            ],
+            [
+              "Combo Best Sellers: Avelã, Bueníssimo e Cookies & Cream",
+              "3 × 600 g",
+              "R$ 158,11",
+              "R$ 142,30",
+              "R$ 8,78"
+            ],
+            [
+              "Quarteto de 600 g, como os da linha Lovers",
+              "4 × 600 g",
+              "R$ 203,63",
+              "R$ 183,27",
+              "R$ 8,48"
+            ],
+            [
+              "Combo Royale",
+              "5 × 600 g",
+              "R$ 252,42",
+              "R$ 227,18",
+              "R$ 8,41"
+            ]
+          ]
+        },
+        "bullets": [
+          "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Leite em Pó e Pistache.",
+          "Só no pote de 600 g: Banoffee, Beijinho e Chocolate Branco.",
+          "Só no pote de 250 g: Doce de Leite."
+        ],
+        "postParagraphs": [
+          "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos de 600 g, o preço depende só do número de potes: na página de combos, todo trio custava R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42, qualquer que fosse a mistura de sabores. Os combos mudam com frequência: confira a página no dia da compra."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
+        "imageAlt": "Potes de pasta de amendoim Dr. Peanut lado a lado, nos 11 sabores, em fotos oficiais da loja",
+        "imageCaption": "Os 11 sabores de pasta de amendoim da Dr. Peanut. Fotos oficiais da loja.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7778
+      },
+      {
+        "heading": "Quadro nutricional dos 11 sabores",
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "kcal (15 g)",
+            "Proteína (15 g)",
+            "Açúcares totais (15 g)",
+            "Açúcares adicionados",
+            "Polióis (15 g)",
+            "Gordura saturada (15 g)",
+            "Sódio (15 g)",
+            "Por 100 g: kcal / proteína / açúcares totais / polióis"
+          ],
+          "rows": [
+            [
+              "Avelã",
+              "88",
+              "2,9 g",
+              "1 g",
+              "0",
+              "1 g",
+              "1,8 g",
+              "24 mg",
+              "587 / 20 g / 5,5 g / 6,4 g"
+            ],
+            [
+              "Banoffee",
+              "83",
+              "2,5 g",
+              "1 g",
+              "0",
+              "2,7 g",
+              "1,6 g",
+              "22 mg",
+              "551 / 17 g / 6,7 g / 18 g"
+            ],
+            [
+              "Beijinho",
+              "90",
+              "2,8 g",
+              "1,5 g",
+              "0",
+              "1,2 g",
+              "2 g",
+              "28 mg",
+              "601 / 19 g / 10 g / 8 g"
+            ],
+            [
+              "Bombom Italiano",
+              "84",
+              "2,5 g",
+              "1,1 g",
+              "0",
+              "2,5 g",
+              "1,1 g",
+              "23 mg",
+              "557 / 17 g / 7,4 g / 17 g"
+            ],
+            [
+              "Brownie",
+              "87",
+              "2,9 g",
+              "0,7 g",
+              "0",
+              "1 g",
+              "1,7 g",
+              "19 mg",
+              "579 / 19 g / 4,7 g / 6,7 g"
+            ],
+            [
+              "Bueníssimo",
+              "88",
+              "2,8 g",
+              "1 g",
+              "0",
+              "1 g",
+              "1,7 g",
+              "21 mg",
+              "590 / 19 g / 6,6 g / 6,7 g"
+            ],
+            [
+              "Chocolate Branco",
+              "87",
+              "3 g",
+              "0,8 g",
+              "0",
+              "2,9 g",
+              "1,2 g",
+              "25 mg",
+              "580 / 17 g / 5,1 g / 19 g"
+            ],
+            [
+              "Cookies & Cream",
+              "85",
+              "2,6 g",
+              "0,7 g",
+              "0",
+              "2,9 g",
+              "1,1 g",
+              "23 mg",
+              "557 / 17 g / 4,6 g / 20 g"
+            ],
+            [
+              "Doce de Leite",
+              "85",
+              "2,8 g",
+              "1,4 g",
+              "0",
+              "1,7 g",
+              "1,5 g",
+              "29 mg",
+              "568 / 18 g / 9 g / 12 g"
+            ],
+            [
+              "Leite em Pó",
+              "87",
+              "3 g",
+              "1,3 g",
+              "0",
+              "1,3 g",
+              "1,8 g",
+              "29 mg",
+              "579 / 20 g / 8,5 g / 8,4 g"
+            ],
+            [
+              "Pistache",
+              "90",
+              "2,8 g",
+              "1,1 g",
+              "0",
+              "2,4 g",
+              "1,3 g",
+              "22 mg",
+              "602 / 19 g / 7,6 g / 16 g"
+            ]
+          ],
+          "caption": "Tabela publicada pela loja, 40 porções por embalagem, lida em 16/10/2026."
+        },
+        "postParagraphs": [
+          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 29 mg (Doce de Leite e Leite em Pó) por colher. As imagens trazem também fibras, de 0,5 a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
+        ]
+      },
+      {
+        "heading": "Dr. Peanut é zero açúcar?",
+        "paragraphs": [
+          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 11 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
+          "O doce vem também de **polióis** e de edulcorantes. Os 11 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
+        ],
+        "bullets": [
+          "Até 8,4 g: Avelã (6,4 g), Brownie (6,7 g), Bueníssimo (6,7 g), Beijinho (8 g) e Leite em Pó (8,4 g).",
+          "Doce de Leite, com 12 g.",
+          "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g), Chocolate Branco (19 g) e Cookies & Cream (20 g)."
+        ],
+        "postParagraphs": [
+          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 11. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
+        ]
+      },
+      {
+        "heading": "Tem Dr. Peanut zero lactose?",
+        "paragraphs": [
+          "Não. Em 16/10/2026, as páginas dos 11 sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
+          "Nos alérgicos, as páginas de produto trazem:"
+        ],
+        "bullets": [
+          "Banoffee, Beijinho, Chocolate Branco, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
+          "Avelã: contém amendoim, avelã, derivados de leite e soja.",
+          "Bombom Italiano: contém amendoim, avelã e derivados de leite; a soja aparece no \"pode conter\".",
+          "Brownie: contém amendoim, derivados de leite, ovo e soja.",
+          "Bueníssimo: contém amendoim, avelã, castanha-de-caju, derivados de leite e soja.",
+          "Pistache: contém amendoim, pistache, derivados de leite e soja."
+        ],
+        "postParagraphs": [
+          "Todos os 11 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+        ]
+      },
+      {
+        "heading": "Dr. Peanut é calórico?",
+        "paragraphs": [
+          "Uma colher de sopa de pasta de amendoim Dr. Peanut tem de **83 a 90 kcal**. A tabela da loja conta a colher como 15 g. Em 100 g, são de 551 a 602 kcal.",
+          "A diferença entre os sabores é pequena: 7 kcal por colher. O Banoffee fica na ponta de baixo, com 83 kcal. Beijinho e Pistache ficam na ponta de cima, com 90 kcal.",
+          "A gordura total é a maior linha da tabela, de 6,5 a 7,3 g por colher. A conta acompanha a quantidade: duas colheres (30 g) dão de 166 a 180 kcal, pela nossa soma da tabela. O pote de 600 g rende 40 colheres de 15 g."
+        ]
+      },
+      {
+        "heading": "Qual sabor escolher pelo seu perfil",
+        "paragraphs": [
+          "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja diz que vende mais e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
+        ],
+        "bullets": [
+          "**Quer o sabor que mais gente compra:** Avelã, Bueníssimo e Cookies & Cream, os \"três sabores mais amados\", segundo a Dr. Peanut.",
+          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
+          "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
+          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream. O Chocolate Branco vem logo depois, com 1,2 g por colher.",
+          "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece.",
+          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco.",
+          "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache."
+        ]
+      },
+      {
+        "heading": "Whey Dr. Peanut: qual sabor escolher",
+        "paragraphs": [
+          "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada em 16/10/2026, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "kcal",
+            "Proteína",
+            "Carboidratos",
+            "Açúcares totais",
+            "Açúcares adicionados",
+            "Gordura saturada",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Avelã",
+              "162",
+              "20 g",
+              "13 g",
+              "8,5 g",
+              "0,1 g",
+              "1 g",
+              "112 mg"
+            ],
+            [
+              "Bombom Italiano",
+              "166",
+              "20 g",
+              "14 g",
+              "9,5 g",
+              "0,4 g",
+              "1,3 g",
+              "105 mg"
+            ],
+            [
+              "Bueníssimo",
+              "160",
+              "20 g",
+              "13 g",
+              "9,1 g",
+              "0,5 g",
+              "1 g",
+              "113 mg"
+            ],
+            [
+              "Doce de Leite",
+              "161",
+              "20 g",
+              "13 g",
+              "11 g",
+              "0,2 g",
+              "1,3 g",
+              "113 mg"
+            ],
+            [
+              "Paçoca",
+              "159",
+              "20 g",
+              "13 g",
+              "11 g",
+              "0",
+              "0,9 g",
+              "229 mg"
+            ]
+          ],
+          "caption": "Porção de 40 g, tabela publicada pela loja em 16/10/2026."
+        },
+        "postParagraphs": [
+          "Preço e proteína não decidem entre os sabores: todos custam o mesmo e têm **20 g de proteína** por porção. Pela nossa conta, com 900 g divididos em porções de 40 g, a porção sai a R$ 9,97, ou R$ 8,98 com o cupom. O pote soma 450 g de proteína, e cada 100 g de proteína sai a R$ 49,86, ou R$ 44,88 com o cupom.",
+          "A diferença está em duas linhas. Nos açúcares totais, o Avelã tem 8,5 g por porção, e Doce de Leite e Paçoca têm 11 g. No sódio, a Paçoca tem 229 mg, o dobro dos outros quatro, que ficam entre 105 e 113 mg. A Paçoca é o único sabor com 0 g de açúcares adicionados; nos outros, a tabela marca de 0,1 a 0,5 g.",
+          "Quatro sabores têm o mesmo nome de uma pasta: Avelã, Bombom Italiano, Bueníssimo e Doce de Leite. A Paçoca só existe no whey.",
+          "O rótulo do whey é diferente do das pastas em dois pontos. O whey **contém glúten**, e as pastas não. O whey também contém lactose e leva sucralose como edulcorante.",
+          "**O whey Dr. Peanut é da Max Titanium?** O whey leva as duas marcas: a página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. A Dr. Peanut em si não é da Max Titanium. As duas são marcas irmãs, do mesmo grupo, como mostramos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Preço e cupom da Dr. Peanut",
+        "paragraphs": [
+          "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste de 13/10/2026, os 10% valeram em todos os itens do carrinho, inclusive pasta em promoção e whey. A loja também dá 5% de desconto no Pix.",
+          "O frete grátis conta o total já com o cupom. O mínimo é R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e R$ 199,90 no Centro-Oeste, no Nordeste e no Norte (política em 14/10/2026). Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Compra",
+            "Frete grátis no Sul e Sudeste",
+            "Frete grátis no Centro-Oeste, Nordeste e Norte"
+          ],
+          "rows": [
+            [
+              "1 pote de 600 g",
+              "Não",
+              "Não"
+            ],
+            [
+              "3 potes de 600 g avulsos",
+              "Sim",
+              "Não"
+            ],
+            [
+              "Combo Best Sellers (3 × 600 g)",
+              "Não",
+              "Não"
+            ],
+            [
+              "Quarteto de 600 g",
+              "Sim",
+              "Não"
+            ],
+            [
+              "Combo Royale (5 × 600 g)",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Whey 900 g",
+              "Sim",
+              "Sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Combo Best Sellers é o caso que pega: o preço cheio passa de R$ 149,90, mas com o cupom fica R$ 7,60 abaixo. O mesmo vale para qualquer trio de 600 g. Confira o carrinho antes de pagar.",
+          "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o melhor sabor da Dr. Peanut? Não provamos os sabores, então não elegemos um. Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e Cookies & Cream e Brownie, menos açúcar total.",
+          "Qual o sabor mais vendido da Dr. Peanut? Segundo a própria loja, Avelã, Bueníssimo e Cookies & Cream são os \"três sabores mais amados\". Os três formam o Combo Best Sellers.",
+          "Dr. Peanut é zero açúcar? Não. As pastas não têm açúcar adicionado, mas o rótulo mostra de 4,6 a 10 g de açúcares totais por 100 g, além de polióis.",
+          "Tem Dr. Peanut zero lactose? Não, em 16/10/2026. Todos os sabores de pasta e de whey dizem \"contém lactose\".",
+          "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. O Banoffee tem menos; Beijinho e Pistache, mais.",
+          "Qual o melhor sabor do whey Dr. Peanut? Os 5 sabores têm 20 g de proteína por porção e o mesmo preço. Mudam os açúcares totais (de 8,5 a 11 g) e o sódio, que na Paçoca é o dobro dos outros.",
+          "O whey Dr. Peanut é da Max Titanium? A página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. As duas são marcas irmãs, do mesmo grupo."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Não provamos os sabores: os dados são do site oficial da loja.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-e-confiavel",
+        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "cupom-dr-peanut-como-usar",
+        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      },
+      {
+        "slug": "black-friday-dr-peanut",
+        "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "slug": "lejour-ou-icasei",
+    "title": "Lejour, iCasei ou Casar.com: taxas, planos e quanto o casal recebe numa lista de R$ 20 mil",
+    "seoTitle": "Lejour ou iCasei (e Casar.com): taxas e planos [2026]",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Lejour, iCasei ou Casar.com: o plano grátis das três cobra 3,89% por presente. Veja taxas, prazos, validade do site e quanto sobra numa lista de R$ 20.000.",
+    "metaDescription": "Lejour, iCasei ou Casar.com: grátis, as três cobram 3,89%. Veja taxas, prazos e quanto sobra numa lista de R$ 20 mil (dados de 16/10/2026).",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+    "imageAlt": "Gráfico com R$ 20.000 em presentes de casamento e quanto o casal recebe na Lejour, no iCasei e no Casar.com",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Em taxa, as três ficam perto: 3,89% por presente no plano grátis de cada uma. A menor das três é a do Pro da Lejour, **2,99%**, num plano de R$ 199,90.",
+          "Numa lista de R$ 20.000, com o preço do plano descontado, a diferença entre a opção que deixa mais dinheiro e a que deixa menos é de **R$ 196,40**, pela nossa conta.",
+          "O que separa as três é o resto: por quanto tempo o site fica no ar, quantos saques o plano grátis permite, quanto tempo o dinheiro do cartão leva para cair, como entram os presentes físicos e como funciona a confirmação de presença.",
+          "O site para os convidados fica no ar até 90 dias depois do casamento na Lejour e até 30 dias no Casar.com. No iCasei, dura o período do plano: o Basic é grátis por 6 meses."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só os sites oficiais das três plataformas: páginas de planos e de tarifas e a central de ajuda de cada uma, consultadas em 16/10/2026. Os preços dos planos da Lejour são os da página de planos dela na mesma data.",
+          "Não fizemos lista de casamento real em nenhuma delas. As contas em reais são nossas, a partir das taxas publicadas.",
+          "A Lejour é parceira do Em Casa com Cecília **só por indicação**. O casal não ganha desconto pelo nosso link: os planos e as taxas são os mesmos para qualquer casal. O iCasei e o Casar.com não são parceiros."
+        ]
+      },
+      {
+        "heading": "Lejour, iCasei e Casar.com lado a lado",
+        "comparisonTable": {
+          "caption": "Lejour, iCasei e Casar.com lado a lado, 16/10/2026",
+          "headers": [
+            "",
+            "Lejour",
+            "iCasei",
+            "Casar.com"
+          ],
+          "rows": [
+            [
+              "Site",
+              "Basic grátis; Premium R$ 99,90 (de R$ 179,90) e Pro R$ 199,90, pagamento único, à vista ou em até 12x",
+              "Basic grátis por 6 meses; Classic de R$ 79,90 a R$ 149,90 e Black de R$ 149,90 a R$ 209,90, de 3 a 12 meses, em até 6x",
+              "Grátis, sem plano"
+            ],
+            [
+              "Taxa por presente",
+              "Basic 3,89%; Premium 3,29%; Pro 2,99%",
+              "De 3,89% a 3,69%, pelo plano e pelo valor arrecadado",
+              "3,89% fixa"
+            ],
+            [
+              "Quem paga a taxa",
+              "Casal ou convidado, à escolha do casal",
+              "Casal ou convidado, à escolha do casal",
+              "Casal ou convidado, à escolha do casal"
+            ],
+            [
+              "Saques",
+              "Basic: 2 grátis, depois R$ 5 cada; Premium e Pro: ilimitados",
+              "Grátis e ilimitados",
+              "Pix grátis e ilimitado"
+            ],
+            [
+              "Liberação Pix / boleto / cartão",
+              "Na confirmação / na confirmação / 15 dias",
+              "Na hora / até 2 dias úteis / 12 dias corridos",
+              "2 dias úteis / 2 dias úteis / até 8 dias úteis"
+            ],
+            [
+              "Parcelamento do convidado",
+              "Até 12x, 3,49% ao mês",
+              "Até 6x, 2,99% ao mês",
+              "Até 6x, com juros"
+            ],
+            [
+              "Site no ar para os convidados",
+              "Até 90 dias depois do casamento; o painel do casal fica ativo sem prazo",
+              "Pelo período do plano",
+              "Até 30 dias depois do casamento"
+            ],
+            [
+              "Presentes físicos",
+              "Crédito em produtos da Fast Shop",
+              "Link para a lista de outra loja, sem parceria",
+              "Shopping Casar.com, com seis lojas"
+            ],
+            [
+              "Confirmação de presença",
+              "Lista de convidados com confirmação",
+              "Online em todos; por telefone no Classic; por WhatsApp no Black",
+              "Aberta ou fechada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dados dos sites oficiais em 16/10/2026. O Premium da Lejour está em promoção, e os preços do iCasei mudam com o período contratado."
+        ]
+      },
+      {
+        "heading": "Taxa da lista: fixa, por plano ou regressiva",
+        "paragraphs": [
+          "Cada plataforma calcula a taxa de um jeito.",
+          "O **Casar.com** cobra 3,89% de cada presente, sempre. Não há plano pago para baixar a taxa.",
+          "Na **Lejour**, a taxa depende do plano. O Basic é grátis e cobra 3,89%. O Premium custa R$ 99,90 e cobra 3,29%. O Pro custa R$ 199,90 e cobra 2,99%. Os planos pagos são de pagamento único, sem mensalidade."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+        "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
+        "imageCaption": "Tabela de planos do painel da Lejour em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3563
+      },
+      {
+        "paragraphs": [
+          "No **iCasei**, a taxa depende do plano e de quanto a lista já arrecadou. É uma tarifa regressiva: ela cai quando a lista passa de R$ 4.000 e de novo quando passa de R$ 8.000."
+        ],
+        "comparisonTable": {
+          "caption": "Tarifa regressiva do iCasei por plano e valor arrecadado, 16/10/2026",
+          "headers": [
+            "Valor arrecadado na lista",
+            "Basic",
+            "Classic",
+            "Black"
+          ],
+          "rows": [
+            [
+              "Até R$ 4.000",
+              "3,89%",
+              "3,85%",
+              "3,79%"
+            ],
+            [
+              "De R$ 4.000,01 a R$ 8.000",
+              "3,85%",
+              "3,79%",
+              "3,75%"
+            ],
+            [
+              "Acima de R$ 8.000",
+              "3,79%",
+              "3,75%",
+              "3,69%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Tarifas do iCasei em 16/10/2026. Segundo a página de tarifas, a taxa menor vale só para os presentes que chegam depois de cada faixa. Os primeiros R$ 4.000 seguem com a taxa da primeira faixa, mesmo que a lista passe de R$ 8.000.",
+          "As três deixam o casal escolher **quem paga a taxa**. Se o casal assume, ela sai do valor de cada presente. Se repassa, ela é somada ao presente, e o convidado paga a mais."
+        ]
+      },
+      {
+        "heading": "Quanto o casal recebe de R$ 20.000",
+        "paragraphs": [
+          "Fizemos a conta para uma lista que arrecada R$ 20.000. As premissas:"
+        ],
+        "bullets": [
+          "todos os presentes pagos por Pix;",
+          "o casal paga a taxa;",
+          "as faixas do iCasei aplicadas como a página de tarifas descreve, cada uma só depois de atingida;",
+          "o preço do plano pago descontado do que o casal recebe."
+        ]
+      },
+      {
+        "comparisonTable": {
+          "caption": "Simulação de uma lista de R$ 20.000 nas três plataformas, 16/10/2026",
+          "headers": [
+            "Plataforma e plano",
+            "Taxa",
+            "Recebe da lista",
+            "Plano",
+            "Fica com"
+          ],
+          "rows": [
+            [
+              "Lejour Basic",
+              "R$ 778,00",
+              "R$ 19.222,00",
+              "R$ 0",
+              "R$ 19.222,00"
+            ],
+            [
+              "Lejour Premium",
+              "R$ 658,00",
+              "R$ 19.342,00",
+              "R$ 99,90",
+              "**R$ 19.242,10**"
+            ],
+            [
+              "Lejour Pro",
+              "R$ 598,00",
+              "R$ 19.402,00",
+              "R$ 199,90",
+              "R$ 19.202,10"
+            ],
+            [
+              "iCasei Basic (6 meses)",
+              "R$ 764,40",
+              "R$ 19.235,60",
+              "R$ 0",
+              "R$ 19.235,60"
+            ],
+            [
+              "iCasei Classic (6 / 12 meses)",
+              "R$ 755,60",
+              "R$ 19.244,40",
+              "R$ 109,90 / R$ 149,90",
+              "R$ 19.134,50 / R$ 19.094,50"
+            ],
+            [
+              "iCasei Black (6 / 12 meses)",
+              "R$ 744,40",
+              "R$ 19.255,60",
+              "R$ 179,90 / R$ 209,90",
+              "R$ 19.075,70 / R$ 19.045,70"
+            ],
+            [
+              "Casar.com",
+              "R$ 778,00",
+              "R$ 19.222,00",
+              "R$ 0",
+              "R$ 19.222,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Simulação nossa, com as taxas e os preços de 16/10/2026.",
+          "Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.",
+          "Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.",
+          "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
+          "Se o casal repassa a taxa ao convidado, recebe os R$ 20.000 nas três plataformas. Aí a diferença de taxa sai do bolso de quem dá o presente, e o plano pago continua por conta do casal."
+        ]
+      },
+      {
+        "heading": "Prazo para o dinheiro cair na conta",
+        "paragraphs": [
+          "O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal. Os prazos abaixo são dos sites oficiais em 16/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Prazos de liberação e saque, 16/10/2026",
+          "headers": [
+            "Etapa",
+            "Lejour",
+            "iCasei",
+            "Casar.com"
+          ],
+          "rows": [
+            [
+              "Presente pago por Pix",
+              "Liberado na confirmação",
+              "Liberado na hora",
+              "Liberado em 2 dias úteis"
+            ],
+            [
+              "Presente pago por boleto",
+              "Liberado na confirmação",
+              "Liberado em até 2 dias úteis da confirmação",
+              "Liberado em 2 dias úteis"
+            ],
+            [
+              "Presente pago no cartão",
+              "Liberado em 15 dias",
+              "Liberado em 12 dias corridos",
+              "Liberado em até 8 dias úteis"
+            ],
+            [
+              "Saque para a conta",
+              "Por Pix, em até 1 dia útil",
+              "Em até 2 dias úteis depois do pedido",
+              "Transferência por Pix"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Lejour:** o saque vai para a chave Pix do CPF de quem publicou a lista, e a Lejour valida a identidade antes do primeiro saque. No Basic, dois saques são grátis, e cada um depois disso custa R$ 5. No Premium e no Pro, os saques são grátis e ilimitados.",
+          "**iCasei:** os resgates são grátis e ilimitados, sem valor mínimo nem máximo. Cada pedido é confirmado com um código enviado por e-mail.",
+          "**Casar.com:** a transferência por Pix é grátis e ilimitada."
+        ],
+        "postParagraphs": [
+          "O cartão é o caminho mais lento nas três. No Basic da Lejour, vale juntar os presentes antes de sacar, para não passar dos dois saques grátis."
+        ]
+      },
+      {
+        "heading": "Por quanto tempo o site fica no ar e quanto custa manter",
+        "paragraphs": [
+          "As três tratam o tempo de jeitos diferentes. Na Lejour, o plano é pago uma vez. No iCasei, o plano tem prazo. No Casar.com, o prazo é a data do casamento."
+        ],
+        "comparisonTable": {
+          "caption": "Tempo no ar do site e custo para manter, 16/10/2026",
+          "headers": [
+            "Plataforma",
+            "Por quanto tempo o site fica aberto aos convidados",
+            "Custo para manter"
+          ],
+          "rows": [
+            [
+              "Lejour",
+              "Até 90 dias depois da data do casamento, com a lista funcionando nesse período",
+              "Nenhum: o Premium e o Pro são pagamento único e vitalício"
+            ],
+            [
+              "iCasei",
+              "Pelo período do plano contratado",
+              "Basic grátis só na contratação de 6 meses; Classic e Black pagos por período"
+            ],
+            [
+              "Casar.com",
+              "Da criação até 30 dias depois do casamento",
+              "Nenhum: o site é grátis"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na **Lejour**, a regra vem da central de ajuda (artigo de 24/10/2025). O painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.",
+          "No **iCasei**, o Basic é grátis apenas na contratação de 6 meses, e renovar é pago. O iCasei não publica o valor da renovação do Basic. Em 16/10/2026, o Classic custava R$ 79,90 (3 meses), R$ 89,90 (4), R$ 109,90 (6), R$ 129,90 (9) e R$ 149,90 (12). O Black custava R$ 149,90 (3 meses), R$ 159,90 (4), R$ 179,90 (6), R$ 199,90 (9) e R$ 209,90 (12). O Tailor Made custava R$ 1.999,90 por 12 meses. O Classic e o Black saem em até 6x, e o Tailor Made, em até 10x.",
+          "Na prática, um casamento a mais de 6 meses de distância já não cabe no Basic: o plano vence antes da festa. Depois do vencimento, o casal ainda resgata o saldo sem custo por até 1 ano. O iCasei devolve o valor integral da assinatura se o cancelamento for pedido em até 7 dias do pagamento.",
+          "No **Casar.com**, o site fica ativo até 30 dias depois do casamento, e o prazo se estende se a data mudar. Uma cópia do site para baixar custa R$ 39,90."
+        ]
+      },
+      {
+        "heading": "Presentes físicos e lojas",
+        "paragraphs": [
+          "Quem quer receber produtos, e não só dinheiro, encontra três caminhos diferentes."
+        ],
+        "comparisonTable": {
+          "caption": "Como entram os presentes físicos em cada plataforma, 16/10/2026",
+          "headers": [
+            "Plataforma",
+            "Como entram os produtos",
+            "Cashback"
+          ],
+          "rows": [
+            [
+              "Lejour",
+              "O crédito da lista vira dinheiro ou compras na **Fast Shop**",
+              "Mínimo de 4% nas compras com o crédito, segundo a Fast Shop"
+            ],
+            [
+              "iCasei",
+              "Link para a lista de outra loja (ex.: Magazine Luiza, Camicado), sem parceria",
+              "Não informado"
+            ],
+            [
+              "Casar.com",
+              "O crédito vira compras no **Shopping Casar.com**: Camicado, Casas Bahia, Magalu, Extra, Ponto Frio e Fast Shop",
+              "4%, segundo o Casar.com"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Lejour e no Casar.com, o convidado dá o presente pela plataforma, e o casal decide depois se saca ou compra. No iCasei, o link leva o convidado para o site da outra loja. O iCasei diz que essas lojas não são parceiras e que as listas de lojas físicas estão livres de taxas.",
+          "A diferença pesa para quem quer escolher entre lojas: o Casar.com reúne seis, a Lejour concentra na Fast Shop, e o iCasei depende de o casal abrir uma lista separada em cada loja."
+        ]
+      },
+      {
+        "heading": "Confirmação de presença e outros recursos",
+        "paragraphs": [
+          "As três têm confirmação de presença. Os recursos abaixo são os que mudam a escolha."
+        ],
+        "bullets": [
+          "**Lejour:** lista de convidados com confirmação de presença. Fotos dos convidados pelo Capture, com até 10 participantes no Basic. Site traduzido para inglês e espanhol no Premium e para vários idiomas no Pro. Recursos com IA só no Pro.",
+          "**iCasei:** confirmação online em todos os planos. No Classic, também por telefone (o convidado liga). No Black, por WhatsApp (o iCasei entra em contato), com domínio próprio e assessoria de montagem do site.",
+          "**Casar.com:** confirmação aberta a qualquer pessoa ou fechada, só para os nomes da lista de convidados. Domínio personalizado a partir de R$ 39,90."
+        ],
+        "postParagraphs": [
+          "Para convidados de fora do Brasil, a tradução só aparece nos planos pagos da Lejour. Para quem quer alguém cobrando as confirmações, o caminho é o Black do iCasei. Para festa com lista fechada, o Casar.com resolve sem plano pago.",
+          "Antes de pagar, o iCasei oferece um teste grátis de 15 dias, com até 3 presentes de no máximo R$ 100 cada."
+        ]
+      },
+      {
+        "heading": "O que o convidado paga",
+        "paragraphs": [
+          "Além do presente, o convidado pode pagar juros e, no iCasei, o cartão de mensagens."
+        ],
+        "comparisonTable": {
+          "caption": "O que o convidado paga no parcelamento, 16/10/2026",
+          "headers": [
+            "Plataforma",
+            "Parcelamento no cartão",
+            "Juros do parcelamento"
+          ],
+          "rows": [
+            [
+              "Lejour",
+              "Até 12x",
+              "3,49% ao mês, pagos pelo convidado"
+            ],
+            [
+              "iCasei",
+              "Até 6x",
+              "2,99% ao mês, pagos pelo convidado; o casal recebe de uma vez"
+            ],
+            [
+              "Casar.com",
+              "Até 6x",
+              "Pagos pelo convidado; o percentual atual não está nas páginas oficiais"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Lejour é a única das três que parcela em 12x, e é também a de juros mais altos por mês. Num presente de valor alto, o convidado que parcela no máximo paga mais na Lejour do que nas outras duas.",
+          "No iCasei, existe o **cartão de mensagens** impresso, de R$ 20,90 por presente. No Basic, ele fica sempre ativo: aparece como opcional ou já incluso no presente.",
+          "Se o casal repassar a taxa da lista, ela também sai do bolso do convidado, nas três."
+        ]
+      },
+      {
+        "heading": "Qual escolher, por perfil",
+        "paragraphs": [
+          "Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber."
+        ],
+        "bullets": [
+          "**Casamento a mais de 6 meses:** o Basic do iCasei vence antes da festa. Comparem um plano pago do iCasei de 9 ou 12 meses com o pagamento único da Lejour ou com o Casar.com, que é grátis até 30 dias depois do casamento.",
+          "**Lista pequena, sem plano pago:** os três grátis cobram 3,89%. No Basic da Lejour, só 2 saques são grátis (depois, R$ 5 cada); no iCasei e no Casar.com, os saques são ilimitados. Quem prefere sacar aos poucos paga menos fora do Basic da Lejour.",
+          "**Lista grande:** o plano pago com taxa menor começa a compensar. Dentro da Lejour, o Premium deixa mais que o Basic numa lista de R$ 20.000, e o Pro só passa o Premium acima de R$ 33.333.",
+          "**Quer produtos, não só dinheiro:** Fast Shop na Lejour ou seis lojas no Shopping Casar.com, as duas com cashback. No iCasei, os produtos ficam numa lista à parte, em outra loja.",
+          "**Quer o site no ar depois da festa:** a Lejour deixa o site aberto por 90 dias após o casamento, o Casar.com por 30 dias, e o iCasei pelo período do plano.",
+          "**Muitos convidados vão parcelar:** a Lejour vai até 12x; o iCasei e o Casar.com, até 6x, e o iCasei com juros menores ao mês.",
+          "**Convidados de outro país:** a Lejour traduz o site nos planos pagos."
+        ]
+      },
+      {
+        "heading": "A indicação do Em Casa com Cecília",
+        "paragraphs": [
+          "A Lejour é parceira do site por indicação. O botão da Lejour nesta página leva ao cadastro com a nossa indicação. O casal não ganha desconto por ele: o plano grátis, os preços dos planos pagos e as taxas são os mesmos para qualquer casal. iCasei e Casar.com não são parceiros do site.",
+          "O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour). Para saber quem está por trás da plataforma e como o saldo é guardado, leia [Lejour é confiável?](/reviews/lejour-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Lejour ou iCasei: qual é melhor? Depende da lista: os grátis das duas cobram 3,89%. O Basic do iCasei dura 6 meses, e a Lejour cobra o plano pago uma vez só.",
+          "Lejour ou Casar.com? O Casar.com tem taxa fixa de 3,89% e não tem plano pago. A Lejour baixa a taxa para 3,29% no Premium e 2,99% no Pro.",
+          "Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.",
+          "O iCasei cobra taxa de saque? Não. Segundo a central de ajuda, os resgates são grátis e ilimitados.",
+          "A Lejour cobra taxa de saque? No Basic, dois saques são grátis, e os seguintes custam R$ 5 cada. No Premium e no Pro, os saques são ilimitados.",
+          "O iCasei é grátis? O Basic é grátis na contratação de 6 meses. Renovar, ou contratar o Classic ou o Black, é pago.",
+          "Por quanto tempo o site da Lejour fica no ar? Até 90 dias depois do casamento para os convidados. O painel do casal continua ativo, inclusive para resgatar o saldo.",
+          "Em quanto tempo o dinheiro cai na conta? Depende da forma de pagamento do convidado. O cartão é o mais lento nas três: 15 dias na Lejour, 12 dias corridos no iCasei e até 8 dias úteis no Casar.com.",
+          "A indicação do Em Casa com Cecília dá desconto? Não. O link é de indicação, e as condições são as mesmas para qualquer casal."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal. iCasei e Casar.com não são parceiros.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-como-funciona",
+        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      },
+      {
+        "slug": "lista-de-casamento-lejour-como-criar",
+        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      },
+      {
+        "slug": "lejour-e-confiavel",
+        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "slug": "i-wanna-sleep-ou-ortobom",
+    "title": "Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e jeito de dormir",
+    "seoTitle": "Travesseiro I Wanna Sleep ou Ortobom: qual escolher [2026]",
+    "type": "Comparativo de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Travesseiros I Wanna Sleep e Ortobom lado a lado, por material: altura, firmeza declarada, lavagem, teste em casa, garantia e preço, pelos sites oficiais.",
+    "metaDescription": "Travesseiro I Wanna Sleep ou Ortobom? Par a par por material, altura, lavagem, teste em casa, garantia e preço, pelos sites oficiais.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
+    "imageAlt": "Fotos oficiais da I Wanna Sleep lado a lado: travesseiros Snow, Original Látex e Coluna Relax",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "**Para gastar menos:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
+          "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
+          "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, segundo a ficha.",
+          "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
+          "**Pillow top:** a I Wanna Sleep vende pillow top para colchão. Não é travesseiro. A comparação com o HR Gel, da Ortobom, fica no fim do artigo."
+        ],
+        "postParagraphs": [
+          "Não testamos. Dados dos sites oficiais em 16/10/2026."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código.",
+          "Firmeza é só a que cada marca declara. Não medimos nada, e as avaliações de clientes não entram como prova.",
+          "O preço da Ortobom é o da página do produto, com São Paulo (capital) como cidade, porque o site muda o valor conforme a região. Consulta de 16/10/2026.",
+          "Lemos os 16 modelos de travesseiro da lista da Ortobom, com 12 fichas de produto, e as páginas de sete travesseiros da I Wanna Sleep. Nápoles, Amore e Soneca aparecem em buscas, mas não estão no catálogo online da Ortobom em 16/10/2026, então ficam de fora."
+        ]
+      },
+      {
+        "heading": "Par a par por material",
+        "paragraphs": [
+          "Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido. Preços de 16/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
+          "headers": [
+            "Material",
+            "I Wanna Sleep",
+            "Ortobom"
+          ],
+          "rows": [
+            [
+              "Látex",
+              "Original Látex: látex natural tailandês, 40 × 60 cm, 11, 13 ou 15 cm — R$ 327 / R$ 347 / R$ 447",
+              "Nenhum modelo lido tem látex natural. O Pró Látex (14 cm, firme, R$ 259) e o Pró Látex Gel (R$ 549) têm espuma de poliuretano na ficha"
+            ],
+            [
+              "Viscoelástico",
+              "Snow: flocos de memory foam com gel, ajustável até 18 cm — R$ 367 (50 × 70 cm)",
+              "Viscopur: 14 cm, firme, R$ 169 · Viscopur Gel: R$ 399 · Flock (espuma flocada): 14 cm, firme, R$ 179"
+            ],
+            [
+              "Cervical / contorno",
+              "Cervical Coluna Relax — R$ 227",
+              "Anatomic Visco: 12 × 52 × 38 cm, firme — R$ 199"
+            ],
+            [
+              "Regulável",
+              "Snow: você retira flocos para ajustar a altura",
+              "Conforto Regulável (fibra, duas alturas, macio) — R$ 159 · King Premium (placa de viscoelástica removível, médio) — R$ 299"
+            ],
+            [
+              "Fibra macia",
+              "Magnum Pluma AirFiber: 16 cm, 45 × 65 cm — R$ 267",
+              "Royal Pillow (macio) — R$ 159 · Essence Plus, 90 × 50 cm (médio) — R$ 499"
+            ],
+            [
+              "Pluma",
+              "Pena e Pluma, 20% pluma e 80% pena de ganso, 15 cm — R$ 267 · Pluma Premium, 100% pluma, 17 cm — R$ 997",
+              "Pluma de Ganso, 100% pluma de ganso (macio) — R$ 599"
+            ],
+            [
+              "Lavável inteiro",
+              "Airgelly: 9 cm de um lado e 11 cm do outro, lavável em água — R$ 497",
+              "Fibras, Anatomic Visco e King Premium: lavagem até 40 °C, pela ficha"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp",
+          "alt": "Gráfico de barras com a altura de cada travesseiro, sem palavras: Snow ajustável até 18 cm, Original Látex em 11, 13 e 15 cm, Magnum Pluma AirFiber com 16 cm, Viscopur e Pró Látex com 14 cm e Anatomic Visco com 12 cm",
+          "caption": "Alturas pelas fichas das marcas: Snow (até 18 cm), Original Látex (11, 13 e 15 cm) e Magnum Pluma AirFiber (16 cm), da I Wanna Sleep; Viscopur e Pró Látex (14 cm) e Anatomic Visco (12 cm), da Ortobom.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "O que tem dentro do Pró Látex",
+        "paragraphs": [
+          "A ficha do Pró Látex, da Ortobom (14 × 40 × 60 cm, firme, R$ 259), traz os dois campos abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Campos da ficha do Pró Látex na Ortobom, consulta de 16/10/2026",
+          "headers": [
+            "Campo da ficha",
+            "Texto da ficha"
+          ],
+          "rows": [
+            [
+              "Composição do produto",
+              "enchimento: espuma de alta resiliência 100% poliuretano"
+            ],
+            [
+              "Material",
+              "Látex"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Quem procura látex natural encontra a palavra na ficha da I Wanna Sleep: o Original Látex é \"feito em 100% látex natural Tailandês\"."
+        ]
+      },
+      {
+        "heading": "Escolha pelo jeito de dormir",
+        "comparisonTable": {
+          "caption": "Só o que as marcas declaram nas páginas, consulta de 16/10/2026",
+          "headers": [
+            "Posição",
+            "I Wanna Sleep",
+            "Ortobom"
+          ],
+          "rows": [
+            [
+              "De lado",
+              "Snow com mais enchimento; Cervical Coluna Relax (o FAQ da página diz que funciona para quem dorme de lado e de costas)",
+              "Conforto Regulável, \"todas as posições\"; King Premium, \"qualquer posição de dormir\", pela descrição da página"
+            ],
+            [
+              "De costas",
+              "Cervical Coluna Relax",
+              "Viscopur (\"costas ou bruços\")"
+            ],
+            [
+              "De bruços",
+              "Snow com menos enchimento",
+              "Viscopur, pela descrição da página"
+            ],
+            [
+              "Não sabe a altura",
+              "Snow",
+              "Conforto Regulável ou King Premium"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As páginas do Original Látex e do Airgelly não indicam altura por posição de dormir. Nesses dois, a escolha é pela altura que você já usa: 11, 13 ou 15 cm no Original Látex, e 9 cm de um lado e 11 cm do outro no Airgelly.",
+          "Os detalhes do Snow ficam em [Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir](/reviews/travesseiro-i-wanna-sleep-ou-emma), e as linhas da I Wanna Sleep estão em [Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
+        ]
+      },
+      {
+        "heading": "Lavagem e cuidados",
+        "paragraphs": [
+          "Na Ortobom, a ficha define a lavagem de cada modelo. Aceitam lavagem até 40 °C:"
+        ],
+        "bullets": [
+          "Conforto Regulável, Royal Pillow e Essence Plus (fibra siliconada);",
+          "Anatomic Visco;",
+          "King Premium."
+        ],
+        "postParagraphs": [
+          "Não podem ser lavados: Pró Látex, Pró Látex Gel, Viscopur, Viscopur Gel, Flock, Sonho e Pluma de Ganso.",
+          "Na I Wanna Sleep, o Airgelly é lavável em água, inteiro. O Magnum não lava: a marca indica lavagem a seco ou profissional. Nos outros, só a capa vai à lavagem, à mão: a do Snow em baixa temperatura, a do Original Látex em temperatura fria, a do Pena e Pluma em água fria e a da Coluna Relax à mão ou no modo delicado. O enchimento de todos eles não pode ser lavado."
+        ]
+      },
+      {
+        "heading": "Teste, troca, garantia e frete",
+        "paragraphs": [
+          "Dados dos sites oficiais em 16/10/2026. A I Wanna Sleep dá o teste mais claro: 30 dias nos travesseiros, com crédito para troca. A Ortobom não informa teste nas páginas de travesseiro; o que ela dá é garantia de 90 dias."
+        ],
+        "comparisonTable": {
+          "caption": "Dados dos sites oficiais em 16/10/2026",
+          "headers": [
+            "Ponto",
+            "I Wanna Sleep",
+            "Ortobom"
+          ],
+          "rows": [
+            [
+              "Teste em casa",
+              "30 dias (uso mínimo de 15), com crédito para outro produto",
+              "Não informado nas páginas"
+            ],
+            [
+              "Arrependimento",
+              "7 dias (lei)",
+              "7 dias corridos do recebimento"
+            ],
+            [
+              "Garantia",
+              "Não informada nas páginas",
+              "90 dias (Viscopur Gel: mais 1 ano na espuma)"
+            ],
+            [
+              "Frete",
+              "Grátis acima de R$ 150; conferir no carrinho",
+              "Calculado pelo CEP"
+            ],
+            [
+              "Onde comprar",
+              "Site, para todo o Brasil, e lojas da Grande BH",
+              "Site e lojas em vários estados"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na I Wanna Sleep, a troca pede pelo menos 15 dias de uso, dentro dos 30, com o travesseiro em bom estado, etiqueta e nota fiscal. O crédito serve para outro produto do site, e o frete da troca sai sem custo. Na Ortobom, a troca só entra por defeito: o SAC analisa com fotos e nota, e a troca sai 30 dias depois da validação. A entrega sai de segunda a sexta, das 9h às 18h, sem agendamento."
+        ]
+      },
+      {
+        "heading": "Preço e cupom",
+        "paragraphs": [
+          "O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep, em todas as formas de pagamento. A página da loja diz que o desconto pode variar conforme a campanha. As regras estão na [página do cupom da I Wanna Sleep](/cupons/i-wanna-sleep)."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa sobre o preço da página, sem frete, em 16/10/2026",
+          "headers": [
+            "Modelo I Wanna Sleep",
+            "Com CECIEMCASA (conta nossa)"
+          ],
+          "rows": [
+            [
+              "Snow Regular, 50 × 70 cm",
+              "R$ 330,30"
+            ],
+            [
+              "Original Látex, 13 cm (M)",
+              "R$ 312,30"
+            ],
+            [
+              "Cervical Coluna Relax",
+              "R$ 204,30"
+            ],
+            [
+              "Magnum Pluma AirFiber, 16 cm",
+              "R$ 240,30"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta é nossa: 10% sobre o preço da página, sem frete. O valor final aparece no carrinho.",
+          "A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, consultados em 16/10/2026, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço nessa consulta."
+        ]
+      },
+      {
+        "heading": "Pillow top: Magnum ou HR Gel",
+        "paragraphs": [
+          "A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, segundo a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal, em 16/10/2026.",
+          "A diferença está na altura e no preço. O HR Gel custa pouco mais de um terço do Magnum e tem 4 cm a menos.",
+          "Para tamanhos, instalação e cuidados do Magnum, leia [Pillow Top Magnum IWS vale a pena? Guia para colchão duro](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas)."
+        ]
+      },
+      {
+        "heading": "Quando procurar um profissional",
+        "paragraphs": [
+          "Travesseiro é escolha de conforto, não tratamento. Dor persistente no pescoço ou dormência nos braços pede avaliação de um ortopedista ou fisioterapeuta antes de trocar de travesseiro."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "I Wanna Sleep ou Ortobom: qual escolher? Para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
+          "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
+          "Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.",
+          "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
+          "Qual a altura do Viscopur da Ortobom? 14 cm, com 40 × 60 cm; a marca o indica para quem dorme de costas ou de bruços.",
+          "Qual travesseiro Ortobom tem altura regulável? O Conforto Regulável e o King Premium, em duas alturas cada.",
+          "Dá para lavar travesseiro Ortobom? Depende do modelo; a lista está em \"Lavagem e cuidados\".",
+          "O cupom CECIEMCASA vale nos travesseiros da I Wanna Sleep? Sim, 10% OFF em todo o site, em todas as formas de pagamento; o desconto pode variar conforme a campanha."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os travesseiros da I Wanna Sleep e aplique o cupom CECIEMCASA no carrinho.",
+      "label": "Ir para a I Wanna Sleep",
+      "url": "https://www.iwannasleep.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Não testamos nenhum dos travesseiros; as contas e comparações são nossas, sobre o que os sites oficiais informam.",
+    "relatedArticles": [
+      {
+        "slug": "travesseiro-i-wanna-sleep-ou-emma",
+        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
+      },
+      {
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+      },
+      {
+        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
+        "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
+      }
+    ]
   }
 ];
