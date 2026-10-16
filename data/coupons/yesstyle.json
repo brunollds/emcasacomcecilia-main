@@ -318,6 +318,28 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "cool26-promo",
+    "code": "COOL26",
+    "type": "coupon",
+    "discount": {
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
+    },
+    "startsAt": "2026-10-16",
+    "expiresAt": "2026-10-19",
+    "verifiedAt": "2026-10-16",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }

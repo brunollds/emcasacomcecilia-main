@@ -48222,6 +48222,972 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13628,
+      "sha256": "0f20e13c3a26135640e4de380234ca843e64cbe26d13c300c3e3dcd52b51bb5e",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-calca-futureform-masculina.webp",
+      "storage_filename": "selecao-insider-calca-futureform-masculina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 625,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80636,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-calca-futureform-masculina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0f20e13c3a26135640e4de380234ca843e64cbe26d13c300c3e3dcd52b51bb5e/selecao-insider-calca-futureform-masculina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0f20e13c3a26135640e4de380234ca843e64cbe26d13c300c3e3dcd52b51bb5e/selecao-insider-calca-futureform-masculina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.270Z",
+      "verification_etag_or_digest": "0f20e13c3a26135640e4de380234ca843e64cbe26d13c300c3e3dcd52b51bb5e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-calcinha-brief.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-calcinha-brief.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15320,
+      "sha256": "1cbde2572dabf9868d668cba305ab5a5a3c4b59e09f826e47bc72f6a663e45da",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-calcinha-brief.webp",
+      "storage_filename": "selecao-insider-calcinha-brief.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 221,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-calcinha-brief.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80232,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-calcinha-brief.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1cbde2572dabf9868d668cba305ab5a5a3c4b59e09f826e47bc72f6a663e45da/selecao-insider-calcinha-brief.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1cbde2572dabf9868d668cba305ab5a5a3c4b59e09f826e47bc72f6a663e45da/selecao-insider-calcinha-brief.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "1cbde2572dabf9868d668cba305ab5a5a3c4b59e09f826e47bc72f6a663e45da",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-calcinha-safe.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14052,
+      "sha256": "847727f14775c4c4ca81856f45a2800852187c56dd329741c46e5cf7cf2eddd2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-calcinha-safe.webp",
+      "storage_filename": "selecao-insider-calcinha-safe.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 243,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80254,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-calcinha-safe.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/847727f14775c4c4ca81856f45a2800852187c56dd329741c46e5cf7cf2eddd2/selecao-insider-calcinha-safe.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/847727f14775c4c4ca81856f45a2800852187c56dd329741c46e5cf7cf2eddd2/selecao-insider-calcinha-safe.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "847727f14775c4c4ca81856f45a2800852187c56dd329741c46e5cf7cf2eddd2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17846,
+      "sha256": "3c8749893e567c0f63c5dc2f2db103c88cda48e005141afc387d34749d4ee6c2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-camisa-futureform-feminino.webp",
+      "storage_filename": "selecao-insider-camisa-futureform-feminino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 488,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80499,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-camisa-futureform-feminino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3c8749893e567c0f63c5dc2f2db103c88cda48e005141afc387d34749d4ee6c2/selecao-insider-camisa-futureform-feminino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c8749893e567c0f63c5dc2f2db103c88cda48e005141afc387d34749d4ee6c2/selecao-insider-camisa-futureform-feminino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "3c8749893e567c0f63c5dc2f2db103c88cda48e005141afc387d34749d4ee6c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21386,
+      "sha256": "b7bf16ed83d3e9cce2672c072fa0edfe16bd5d4779c90a3c0740469b3b90f91f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-camisa-futureform-masculino.webp",
+      "storage_filename": "selecao-insider-camisa-futureform-masculino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 466,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80477,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-camisa-futureform-masculino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b7bf16ed83d3e9cce2672c072fa0edfe16bd5d4779c90a3c0740469b3b90f91f/selecao-insider-camisa-futureform-masculino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b7bf16ed83d3e9cce2672c072fa0edfe16bd5d4779c90a3c0740469b3b90f91f/selecao-insider-camisa-futureform-masculino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "b7bf16ed83d3e9cce2672c072fa0edfe16bd5d4779c90a3c0740469b3b90f91f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-capa.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50722,
+      "sha256": "67048002da20e0ff3d9fc26cfdaa37689a0dda28e80b616e5509c34cb1eb32f5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-capa.webp",
+      "storage_filename": "selecao-insider-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/selecao-insider-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80033,
+          "column": 15,
+          "literal": "/images/reviews/insider/selecao-insider-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/67048002da20e0ff3d9fc26cfdaa37689a0dda28e80b616e5509c34cb1eb32f5/selecao-insider-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/67048002da20e0ff3d9fc26cfdaa37689a0dda28e80b616e5509c34cb1eb32f5/selecao-insider-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "67048002da20e0ff3d9fc26cfdaa37689a0dda28e80b616e5509c34cb1eb32f5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20832,
+      "sha256": "6359b08c119ac8b4f25ab4eb4b2804ea78a1db843c0aa2a66d6bd7938a135085",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-core-t-shirt-masculino.webp",
+      "storage_filename": "selecao-insider-core-t-shirt-masculino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 444,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80455,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-core-t-shirt-masculino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6359b08c119ac8b4f25ab4eb4b2804ea78a1db843c0aa2a66d6bd7938a135085/selecao-insider-core-t-shirt-masculino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6359b08c119ac8b4f25ab4eb4b2804ea78a1db843c0aa2a66d6bd7938a135085/selecao-insider-core-t-shirt-masculino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "6359b08c119ac8b4f25ab4eb4b2804ea78a1db843c0aa2a66d6bd7938a135085",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-cueca-comfort.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-cueca-comfort.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14682,
+      "sha256": "fef0676c28364c4231df425534a51d9031f0fec2fbc297348f69e5478c43cfe0",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-cueca-comfort.webp",
+      "storage_filename": "selecao-insider-cueca-comfort.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 264,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-cueca-comfort.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80275,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-cueca-comfort.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fef0676c28364c4231df425534a51d9031f0fec2fbc297348f69e5478c43cfe0/selecao-insider-cueca-comfort.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fef0676c28364c4231df425534a51d9031f0fec2fbc297348f69e5478c43cfe0/selecao-insider-cueca-comfort.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "fef0676c28364c4231df425534a51d9031f0fec2fbc297348f69e5478c43cfe0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-cueca-performance.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-cueca-performance.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16226,
+      "sha256": "ac5df71116a8d3c1a86b83983a52da2aa0cd0eff9ec917c8d391ab1f3696eeaf",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-cueca-performance.webp",
+      "storage_filename": "selecao-insider-cueca-performance.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 286,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-cueca-performance.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80297,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-cueca-performance.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac5df71116a8d3c1a86b83983a52da2aa0cd0eff9ec917c8d391ab1f3696eeaf/selecao-insider-cueca-performance.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac5df71116a8d3c1a86b83983a52da2aa0cd0eff9ec917c8d391ab1f3696eeaf/selecao-insider-cueca-performance.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "ac5df71116a8d3c1a86b83983a52da2aa0cd0eff9ec917c8d391ab1f3696eeaf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16592,
+      "sha256": "86016051e07e8053c638f28010b513322205375b89d37afa0c8fa14643699226",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-maxi-saia-nyin-feminino.webp",
+      "storage_filename": "selecao-insider-maxi-saia-nyin-feminino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 603,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80614,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-maxi-saia-nyin-feminino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86016051e07e8053c638f28010b513322205375b89d37afa0c8fa14643699226/selecao-insider-maxi-saia-nyin-feminino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86016051e07e8053c638f28010b513322205375b89d37afa0c8fa14643699226/selecao-insider-maxi-saia-nyin-feminino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "86016051e07e8053c638f28010b513322205375b89d37afa0c8fa14643699226",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31016,
+      "sha256": "361be784bf8b3333c62c7023799a908fd86e9c0f4c699e09d94071c2a7038ac2",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-regata-intech-masculino.webp",
+      "storage_filename": "selecao-insider-regata-intech-masculino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 422,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80433,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-regata-intech-masculino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/361be784bf8b3333c62c7023799a908fd86e9c0f4c699e09d94071c2a7038ac2/selecao-insider-regata-intech-masculino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/361be784bf8b3333c62c7023799a908fd86e9c0f4c699e09d94071c2a7038ac2/selecao-insider-regata-intech-masculino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "361be784bf8b3333c62c7023799a908fd86e9c0f4c699e09d94071c2a7038ac2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17826,
+      "sha256": "7ad484169a56da1ae990dfc0ca9ce92e8e245c554d40e2a484597b0ea0c8ebeb",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "storage_filename": "selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 516,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80527,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7ad484169a56da1ae990dfc0ca9ce92e8e245c554d40e2a484597b0ea0c8ebeb/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7ad484169a56da1ae990dfc0ca9ce92e8e245c554d40e2a484597b0ea0c8ebeb/selecao-insider-shorts-esportivo-endorphine-masculino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "7ad484169a56da1ae990dfc0ca9ce92e8e245c554d40e2a484597b0ea0c8ebeb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16022,
+      "sha256": "908fefb2fd2845fb32e8e84f4935683fd5ffddd7b902e16b557a45c13344db7b",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "storage_filename": "selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 537,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80548,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/908fefb2fd2845fb32e8e84f4935683fd5ffddd7b902e16b557a45c13344db7b/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/908fefb2fd2845fb32e8e84f4935683fd5ffddd7b902e16b557a45c13344db7b/selecao-insider-shorts-esportivo-serotonin-feminino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "908fefb2fd2845fb32e8e84f4935683fd5ffddd7b902e16b557a45c13344db7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-skin-cropped.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-skin-cropped.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34172,
+      "sha256": "407b0e0ece57648835d2130b38a13cb3b9a22a8c5bc5af6a39e71c41b707df9e",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-skin-cropped.webp",
+      "storage_filename": "selecao-insider-skin-cropped.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 378,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-skin-cropped.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80389,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-skin-cropped.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/407b0e0ece57648835d2130b38a13cb3b9a22a8c5bc5af6a39e71c41b707df9e/selecao-insider-skin-cropped.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/407b0e0ece57648835d2130b38a13cb3b9a22a8c5bc5af6a39e71c41b707df9e/selecao-insider-skin-cropped.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "407b0e0ece57648835d2130b38a13cb3b9a22a8c5bc5af6a39e71c41b707df9e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-structure-cropped.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-structure-cropped.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14402,
+      "sha256": "e24f1e3711c917a4de2469b916414c540e1f80fec403736d291831bc9a7740d7",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-structure-cropped.webp",
+      "storage_filename": "selecao-insider-structure-cropped.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 400,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-structure-cropped.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80411,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-structure-cropped.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e24f1e3711c917a4de2469b916414c540e1f80fec403736d291831bc9a7740d7/selecao-insider-structure-cropped.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e24f1e3711c917a4de2469b916414c540e1f80fec403736d291831bc9a7740d7/selecao-insider-structure-cropped.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "e24f1e3711c917a4de2469b916414c540e1f80fec403736d291831bc9a7740d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18636,
+      "sha256": "4a18c2658431152c7fe764c528bed1c9675aeef5c02c26c273d616ffaaa582f6",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "storage_filename": "selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 356,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80367,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a18c2658431152c7fe764c528bed1c9675aeef5c02c26c273d616ffaaa582f6/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a18c2658431152c7fe764c528bed1c9675aeef5c02c26c273d616ffaaa582f6/selecao-insider-tech-t-shirt-gola-v-feminina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "4a18c2658431152c7fe764c528bed1c9675aeef5c02c26c273d616ffaaa582f6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27454,
+      "sha256": "f1e369f3cced796a7fa57c39e783022e8360c93ec3bd413b866b90210e218794",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-tech-t-shirt.webp",
+      "storage_filename": "selecao-insider-tech-t-shirt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80345,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-tech-t-shirt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f1e369f3cced796a7fa57c39e783022e8360c93ec3bd413b866b90210e218794/selecao-insider-tech-t-shirt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f1e369f3cced796a7fa57c39e783022e8360c93ec3bd413b866b90210e218794/selecao-insider-tech-t-shirt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "f1e369f3cced796a7fa57c39e783022e8360c93ec3bd413b866b90210e218794",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23778,
+      "sha256": "fba689a0f58a97996596037427345641ea0409c3a388a4cfaaae549eaf584710",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-the-perfect-top.webp",
+      "storage_filename": "selecao-insider-the-perfect-top.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 313,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80324,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fba689a0f58a97996596037427345641ea0409c3a388a4cfaaae549eaf584710/selecao-insider-the-perfect-top.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fba689a0f58a97996596037427345641ea0409c3a388a4cfaaae549eaf584710/selecao-insider-the-perfect-top.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "fba689a0f58a97996596037427345641ea0409c3a388a4cfaaae549eaf584710",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15394,
+      "sha256": "17c7d5829b1ed02eb968e9e934417e03869d5a2cc68789f3ff528467bf095621",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "storage_filename": "selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 559,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80570,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/17c7d5829b1ed02eb968e9e934417e03869d5a2cc68789f3ff528467bf095621/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/17c7d5829b1ed02eb968e9e934417e03869d5a2cc68789f3ff528467bf095621/selecao-insider-vestido-curto-tube-dress-feminino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "17c7d5829b1ed02eb968e9e934417e03869d5a2cc68789f3ff528467bf095621",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15550,
+      "sha256": "306c8fab7b0e05b1b3e1ac68bc5c6c1da8a31f6db8f22260d646e8b954e72ddd",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "storage_filename": "selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 581,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80592,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-vestido-esportivo-rush-feminino.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/306c8fab7b0e05b1b3e1ac68bc5c6c1da8a31f6db8f22260d646e8b954e72ddd/selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/306c8fab7b0e05b1b3e1ac68bc5c6c1da8a31f6db8f22260d646e8b954e72ddd/selecao-insider-vestido-esportivo-rush-feminino.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "306c8fab7b0e05b1b3e1ac68bc5c6c1da8a31f6db8f22260d646e8b954e72ddd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/selecao-insider-wingsuit.webp",
+      "local_url": "/images/reviews/insider/selecao-insider-wingsuit.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18158,
+      "sha256": "07e9243d6e319bca26cb668bdcbb7b2301df70459e806af5cf51a18873b07938",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "selecao-insider-wingsuit.webp",
+      "storage_filename": "selecao-insider-wingsuit.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/promocao-insider-selecao-com-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/promocao-insider-selecao-com-cupom.json",
+          "line": 646,
+          "column": 17,
+          "literal": "/images/reviews/insider/selecao-insider-wingsuit.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 80657,
+          "column": 19,
+          "literal": "/images/reviews/insider/selecao-insider-wingsuit.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/07e9243d6e319bca26cb668bdcbb7b2301df70459e806af5cf51a18873b07938/selecao-insider-wingsuit.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/07e9243d6e319bca26cb668bdcbb7b2301df70459e806af5cf51a18873b07938/selecao-insider-wingsuit.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-16T01:50:14.271Z",
+      "verification_etag_or_digest": "07e9243d6e319bca26cb668bdcbb7b2301df70459e806af5cf51a18873b07938",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/1-escolha-produto.webp",
       "local_url": "/images/reviews/iwannasleep/1-escolha-produto.webp",
       "media_kind": "image",
