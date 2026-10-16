@@ -45,7 +45,7 @@ import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } f
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
 import { getInternationalReviewHub } from '../src/lib/review-hubs';
 import { pickRelatedReviews } from '../src/lib/relatedReviews';
-import { getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
+import { getOthersShelfContent, getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
 import { getYoutubeEmbedUrl, getYoutubeVideoId } from '../src/lib/video-metadata';
 import { videoPages } from '../src/lib/video-pages';
@@ -1306,8 +1306,10 @@ assert.match(css, /\.editorial-ambient-bg-review:{1,2}before\{[^}]*content:none/
 
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
 // (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
-// se um dia isso for de propósito, tire-o desta conferência.
-const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
+// se um dia isso for de propósito, tire-o desta conferência. A /reviews/outros é lista, não artigo.
+const articleUrls = sitemapUrls.filter(
+  (url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname) && new URL(url).pathname !== '/reviews/outros'
+);
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
 let notedArticles = 0;
@@ -2652,11 +2654,12 @@ for (const { html, expected } of wrongExpectations) {
   assert.ok(homeProblems(html, expected).length > 0, 'o guarda da home deixou passar uma home errada');
 }
 
-// Os slugs dos links de artigo e de subpágina de loja de um trecho do HTML, na ordem.
+// Os slugs dos links de artigo e das bolinhas (subpágina de loja, ou "outros" na bolinha da casa) de um
+// trecho do HTML, na ordem.
 const articleLinksIn = (html: string) =>
   [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/([^"/?#]+)"/g)].map(([, slug]) => slug);
 const storeLinksIn = (html: string) =>
-  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/loja\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/(?:loja\/([^"/?#]+)|(outros))"/g)].map(([, store, others]) => store ?? others);
 
 // A estante (ReviewsBrowser) no HTML do servidor: os 12 primeiros artigos na ordem "Mais novos", cada
 // link com o anel de foco da casa, nenhum nome de transição (a foto só o ganha no clique: no HTML, o
@@ -2717,6 +2720,11 @@ assert.deepEqual(
   storeLinksIn(between(reviewsBody, 'id="titulo-por-loja"', ['</section>'])),
   reviewsHub.stores.map(({ slug }) => slug),
   '/reviews: bolinhas das lojas'
+);
+assert.equal(
+  storeLinksIn(between(reviewsBody, 'id="titulo-por-loja"', ['</section>'])).at(-1),
+  reviewsHub.stores.at(-1)?.slug,
+  '/reviews: a última bolinha'
 );
 assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML');
 
@@ -2944,6 +2952,79 @@ for (const slug of storeArticleSlugs) {
   assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
   assertCollectionNames(pagePath, html, page.articles.map(({ title }) => title));
   assertSitemapLastmod(pagePath, storeReviews);
+}
+
+// /reviews/outros: o h1 (um só), o canonical, a trilha visível igual ao BreadcrumbList, a estante e seus cartões
+// (os de getOthersShelfContent), a bolinha da casa no topo, nenhum link para /cupons/ no miolo (a página não tem
+// botão de código), Outras lojas só com as lojas, o link para todos os guias, a imagem de compartilhamento, o
+// JSON-LD de lista e a data no sitemap. Sem artigos suficientes (menos de 3), a página não existe nem no sitemap.
+{
+  const pagePath = '/reviews/outros';
+  const page = getOthersShelfContent(publishedReviews);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  if (!page) {
+    assert.ok(!file, `${pagePath}: página gerada sem artigos suficientes`);
+    assert.ok(!sitemapBody.includes(`<loc>${SITE_URL}${pagePath}</loc>`), `${pagePath}: no sitemap sem artigos suficientes`);
+    assert.ok(!reviewsHub.stores.some(({ slug }) => slug === 'outros'), '/reviews: bolinha Outros sem a página');
+  } else {
+    assert.ok(file, `${pagePath}: página não gerada no build`);
+    const html = read(file);
+    const body = bodyOf(html);
+    const main = between(body, '<main', ['</main>']);
+    assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
+    const h1s = [...body.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+    assert.deepEqual(h1s, ['Outros artigos'], `${pagePath}: h1`);
+    assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+    assert.deepEqual(page.trail.map(({ name }) => name), ['Início', 'Guias & Análises', 'Outros'], `${pagePath}: trilha`);
+    assertPageTrail(pagePath, html, page.trail);
+
+    assertShelfPage(pagePath, body, { articles: page.articles, searchLabel: page.search?.label ?? null });
+    const heading = [...body.matchAll(/<h2\b([^>]*)>([\s\S]*?)<\/h2>/g)].find(([, attributes]) => /\bid="titulo-estante"/.test(attributes));
+    assert.ok(heading, `${pagePath}: sem o h2#titulo-estante`);
+    assert.match(heading[1], /\bclass="(?:[^"]*\s)?sr-only(?:\s[^"]*)?"/, `${pagePath}: h2 da estante visível`);
+    assert.equal(textOf(heading[2]), STORE_SHELF_HEADING, `${pagePath}: texto do h2 da estante`);
+    assert.equal(body.includes('data-categorias="true"'), page.categories.length > 1, `${pagePath}: categorias onde não devia, ou faltando`);
+
+    const beforeH1 = main.slice(0, main.indexOf('<h1'));
+    assert.ok(beforeH1.includes('lucide-house'), `${pagePath}: sem a casa na bolinha do topo`);
+    assert.ok(!/<img\b/.test(beforeH1), `${pagePath}: imagem na bolinha do topo`);
+    assert.ok(!main.includes('href="/cupons/'), `${pagePath}: link para uma página de cupom`);
+
+    assert.deepEqual(
+      storeLinksIn(between(body, 'id="titulo-outras-lojas"', ['</section>'])),
+      page.otherStores.map(({ slug }) => slug),
+      `${pagePath}: Outras lojas`
+    );
+    assert.ok(!page.otherStores.some(({ slug }) => slug === 'outros'), `${pagePath}: Outras lojas com a própria Outros`);
+    const allReviewsLink = [...body.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(
+      ([, attributes, content]) => /\bhref="\/reviews"/.test(attributes) && textOf(content) === STORE_ALL_REVIEWS_LABEL
+    );
+    assert.ok(allReviewsLink, `${pagePath}: sem o link "${STORE_ALL_REVIEWS_LABEL}" para /reviews`);
+
+    assertListPageSeo(pagePath, html, { items: page.articles.length, image: page.socialImage });
+    assertCollectionNames(pagePath, html, page.articles.map(({ title }) => title));
+    const othersSlugs = new Set(page.articles.map(({ slug }) => slug));
+    assertSitemapLastmod(pagePath, publishedReviews.filter((review) => othersSlugs.has(review.slug)));
+
+    // A Outros fecha o "Outras lojas" de toda subpágina de loja.
+    for (const slug of storeArticleSlugs) {
+      const store = getStoreShelfContent(publishedReviews, slug);
+      const storeFile = store && builtFile(`${SITE_URL}${store.path}`);
+      assert.ok(store && storeFile, `${slug}: subpágina para a Outros`);
+      assert.equal(
+        storeLinksIn(between(bodyOf(read(storeFile)), 'id="titulo-outras-lojas"', ['</section>'])).at(-1),
+        'outros',
+        `${store.path}: Outras lojas sem a Outros no fim`
+      );
+    }
+
+    // A leitura das bolinhas pega a das lojas e a da Outros, e deixa o link de artigo de fora.
+    assert.deepEqual(
+      storeLinksIn('<a class="x" href="/reviews/loja/damie">D</a><a href="/reviews/outros">O</a><a href="/reviews/poltrona">P</a>'),
+      ['damie', 'outros'],
+      'storeLinksIn: as bolinhas de loja e a Outros, sem artigo'
+    );
+  }
 }
 
 // Os guardas da trilha acusam cada defeito: o último item com outro nome, o endereço de um item trocado, o

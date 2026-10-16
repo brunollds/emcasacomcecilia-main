@@ -39,6 +39,8 @@ export type ShelfStore = {
   // URL de entrega do logo; sem ele, a bolinha mostra as iniciais.
   logo?: string;
   initials: string;
+  // Bolinha sem logo de loja, que mostra um ícone no lugar (hoje só a "Outros", a casa).
+  icon?: 'house';
   total: number;
   href: string;
   countLabel: string;
@@ -268,6 +270,11 @@ export type ShelfPlacement =
   | 'store_list'
   | 'store_other_stores'
   | 'store_all_reviews'
+  // A página dos artigos que não são de nenhuma loja ativa (/reviews/outros).
+  | 'others_grid'
+  | 'others_list'
+  | 'others_other_stores'
+  | 'others_all_reviews'
   // Fim do artigo: os cartões e o "Ver todos" dos relacionados e o "Todos os N artigos" do bloco da loja.
   | 'review_related'
   | 'review_store_block';
@@ -282,9 +289,12 @@ const SEARCH_EVENT_MIN_LENGTH = 2;
 const SHELF_PLACEMENTS = {
   reviews: { grade: 'reviews_grid', lista: 'reviews_list' },
   store: { grade: 'store_grid', lista: 'store_list' },
+  others: { grade: 'others_grid', lista: 'others_list' },
 } as const;
 
-export function shelfPlacement(prefix: 'reviews' | 'store', view: ShelfView): ShelfPlacement {
+export type ShelfPlacementPrefix = keyof typeof SHELF_PLACEMENTS;
+
+export function shelfPlacement(prefix: ShelfPlacementPrefix, view: ShelfView): ShelfPlacement {
   return SHELF_PLACEMENTS[prefix][view];
 }
 

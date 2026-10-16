@@ -55,6 +55,7 @@ import {
   type ShelfArticle,
   type ShelfCategory,
   type ShelfOrder,
+  type ShelfPlacementPrefix,
   type ShelfQuery,
   type ShelfSearch,
   type ShelfView,
@@ -153,7 +154,7 @@ type ReviewsBrowserProps = {
   articles: ShelfArticle[];
   categories: ShelfCategory[];
   listPath: string;
-  placementPrefix: 'reviews' | 'store';
+  placementPrefix: ShelfPlacementPrefix;
   showStore: boolean;
   // O título da estante: visível em /reviews ("Todos os artigos"); na subpágina, só para leitor de tela.
   heading: string;

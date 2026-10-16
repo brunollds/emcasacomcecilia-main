@@ -7,6 +7,7 @@ import {
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
   getStoreArticlesPath,
+  hasArticlesPage,
   type StoreReview,
 } from '@/lib/homeStores';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
@@ -45,6 +46,11 @@ type ListedReview = HubReview & { category: ReviewCategory; publishedAtISO: stri
 // O começo da trilha das páginas de lista; o JSON-LD acrescenta a própria página.
 export const REVIEWS_TRAIL_ROOT: PageLink = { name: 'Início', path: '/' };
 const REVIEWS_TRAIL: PageLink[] = [REVIEWS_TRAIL_ROOT, { name: 'Guias & Análises', path: '/reviews' }];
+
+// Os artigos que não são de nenhuma loja ativa (sem affiliate, ou de loja pausada) têm a página
+// /reviews/outros e a bolinha "Outros", a última de todas.
+export const OTHERS_SLUG = 'outros';
+export const OTHERS_SHELF_PATH = '/reviews/outros';
 
 // A subpágina só ganha a busca quando a loja passa de uma página de cartões.
 export const STORE_SEARCH_THRESHOLD = GRID_PAGE_SIZE;
@@ -161,6 +167,33 @@ function getShelfStores(reviews: readonly HubReview[], stores: readonly Coupon[]
     .map((store) => toShelfStore(store, listed.filter(({ affiliate }) => affiliate === store.slug).length));
 }
 
+// Os artigos listados em português cujo affiliate não é uma loja ativa, do mais novo ao mais antigo.
+function getOthersReviews(reviews: readonly HubReview[], stores: readonly Coupon[]): ListedReview[] {
+  const active = new Set(stores.map(({ slug }) => slug));
+  return sortReviewsByPublishedAt(getListedPortugueseReviews(reviews)).filter(
+    ({ affiliate }) => !affiliate || !active.has(affiliate)
+  );
+}
+
+function toOthersBubble(total: number): ShelfStore {
+  return {
+    slug: OTHERS_SLUG,
+    brand: 'Outros',
+    initials: 'Outros',
+    icon: 'house',
+    total,
+    href: OTHERS_SHELF_PATH,
+    countLabel: countLabel(total),
+  };
+}
+
+// As bolinhas de /reviews e de "Outras lojas" nas subpáginas: as lojas com subpágina e, por último, a
+// "Outros" quando há 3 artigos ou mais fora das lojas.
+function getShelfBubbles(reviews: readonly HubReview[], stores: readonly Coupon[]): ShelfStore[] {
+  const others = getOthersReviews(reviews, stores);
+  return [...getShelfStores(reviews, stores), ...(hasArticlesPage(others.length) ? [toOthersBubble(others.length)] : [])];
+}
+
 // A capa do artigo mais novo num formato que o cartão do X mostra; sem nenhuma, o logo do site.
 function getShareImage(listed: readonly ListedReview[]): SocialImage {
   for (const review of listed) {
@@ -190,7 +223,7 @@ export function getReviewsHubContent(
     intro: `${articles.length} guias e análises. ${REVIEWS_INTRO}`,
     articles,
     newArticles: articles.filter(({ isNew }) => isNew),
-    stores: getShelfStores(reviews, stores),
+    stores: getShelfBubbles(reviews, stores),
     categories: getPresentCategories(articles),
     socialImage: getShareImage(listed),
   };
@@ -238,7 +271,41 @@ export function getStoreShelfContent(
     categories: getPresentCategories(articles),
     search:
       articles.length > STORE_SEARCH_THRESHOLD ? { label: searchText, placeholder: searchText, scope: 'reviews' } : null,
-    otherStores: getShelfStores(reviews, stores).filter((item) => item.slug !== page.slug),
+    otherStores: getShelfBubbles(reviews, stores).filter((item) => item.slug !== page.slug),
     trail: [...REVIEWS_TRAIL, { name: page.title, path }],
+  };
+}
+
+export type OthersShelfContent = Omit<StoreShelfContent, 'slug' | 'brand' | 'codeLinkLabel' | 'storePageUrl'> & {
+  socialImage: SocialImage;
+};
+
+// A página dos artigos fora das lojas ativas, com 3 ou mais (como as lojas); com menos, null. O "Outras
+// lojas" dela traz só as lojas, sem a própria bolinha.
+export function getOthersShelfContent(
+  reviews: readonly HubReview[],
+  stores: readonly Coupon[] = getActiveCoupons()
+): OthersShelfContent | null {
+  const others = getOthersReviews(reviews, stores);
+  if (!hasArticlesPage(others.length)) return null;
+
+  const articles = others.map((review) => toShelfArticle(review, stores));
+  const searchText = 'Buscar nos outros artigos';
+  const title = 'Outros artigos';
+
+  return {
+    title,
+    metaTitle: 'Outros guias e análises - Em Casa com Cecília',
+    description: `${articles.length} artigos da Cecília fora das lojas parceiras: guias e análises, do mais novo para o mais antigo.`,
+    countLabel: countLabel(articles.length),
+    path: OTHERS_SHELF_PATH,
+    store: toOthersBubble(articles.length),
+    articles,
+    categories: getPresentCategories(articles),
+    search:
+      articles.length > STORE_SEARCH_THRESHOLD ? { label: searchText, placeholder: searchText, scope: 'reviews' } : null,
+    otherStores: getShelfStores(reviews, stores),
+    trail: [...REVIEWS_TRAIL, { name: 'Outros', path: OTHERS_SHELF_PATH }],
+    socialImage: getShareImage(others),
   };
 }

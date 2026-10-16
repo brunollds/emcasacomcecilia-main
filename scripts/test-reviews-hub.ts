@@ -26,7 +26,13 @@ import {
   sortReviewsByPublishedAt,
   type ReviewCategory,
 } from '@/lib/reviewDiscovery';
-import { getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/lib/reviewsHub';
+import {
+  OTHERS_SHELF_PATH,
+  getOthersShelfContent,
+  getReviewsHubContent,
+  getStoreShelfContent,
+  type HubReview,
+} from '@/lib/reviewsHub';
 import {
   GRID_PAGE_SIZE,
   LIST_PAGE_SIZE,
@@ -181,7 +187,8 @@ assert.ok(article('abacate').searchText.includes('fruta'), 'tags entram na busca
 assert.equal(article('dez-dicas').image, undefined);
 assert.equal(article('duas-dicas').store, undefined, 'affiliate fora das lojas passadas: sem nome de loja');
 
-// Bolinhas: só lojas com subpágina (3 artigos ou mais), na ordem das lojas.
+// Bolinhas: só lojas com subpágina (3 artigos ou mais), na ordem das lojas, e a "Outros" por último (aqui
+// 4 artigos sem loja ativa: 3 sem affiliate e 1 da Insider, que não está nas lojas passadas).
 assert.deepEqual(hub.stores, [
   {
     slug: 'magalu',
@@ -190,6 +197,15 @@ assert.deepEqual(hub.stores, [
     initials: store('magalu').brandIcon,
     total: 4,
     href: '/reviews/loja/magalu',
+    countLabel: '4 artigos',
+  },
+  {
+    slug: 'outros',
+    brand: 'Outros',
+    initials: 'Outros',
+    icon: 'house',
+    total: 4,
+    href: '/reviews/outros',
     countLabel: '4 artigos',
   },
 ]);
@@ -332,6 +348,8 @@ assert.equal(shelfPlacement('reviews', 'grade'), 'reviews_grid');
 assert.equal(shelfPlacement('reviews', 'lista'), 'reviews_list');
 assert.equal(shelfPlacement('store', 'grade'), 'store_grid');
 assert.equal(shelfPlacement('store', 'lista'), 'store_list');
+assert.equal(shelfPlacement('others', 'grade'), 'others_grid');
+assert.equal(shelfPlacement('others', 'lista'), 'others_list');
 assert.deepEqual(getReviewsRouteClickParameters({ href: '/reviews/agua', placement: 'reviews_new', linkLabel: 'Água' }), {
   destination: '/reviews/agua',
   placement: 'reviews_new',
@@ -368,7 +386,7 @@ assert.deepEqual(slugs(magalu.articles), ['magalu-1', 'magalu-2', 'magalu-3', 'm
 assert.deepEqual(magalu.categories.map(({ value }) => value), ['cupons-como-usar', 'confianca-reputacao']);
 assert.equal(magalu.search, null);
 assert.equal(magalu.store.total, 4);
-assert.deepEqual(magalu.otherStores, [], 'a DAMIE do fixture não tem subpágina');
+assert.deepEqual(slugs(magalu.otherStores), ['outros'], 'a DAMIE do fixture não tem subpágina; a Outros fecha a fila');
 assert.deepEqual(magalu.trail, [
   { name: 'Início', path: '/' },
   { name: 'Guias & Análises', path: '/reviews' },
@@ -394,8 +412,107 @@ const twoStores = [
   ...fixture,
   ...[20, 21, 22].map((id) => review(id, `damie-${id}`, { affiliate: 'damie', publishedAtISO: '2026-05-01' })),
 ];
-assert.deepEqual(slugs(getStoreShelfContent(twoStores, 'magalu', fixtureStores)?.otherStores ?? []), ['damie']);
-assert.deepEqual(slugs(getStoreShelfContent(twoStores, 'damie', fixtureStores)?.otherStores ?? []), ['magalu']);
+assert.deepEqual(slugs(getStoreShelfContent(twoStores, 'magalu', fixtureStores)?.otherStores ?? []), ['damie', 'outros']);
+assert.deepEqual(slugs(getStoreShelfContent(twoStores, 'damie', fixtureStores)?.otherStores ?? []), ['magalu', 'outros']);
+
+// Outros: o artigo sem affiliate e o de loja que não está entre as ativas entram; o de loja ativa não. Com 3
+// ou mais há página e bolinha; com menos, nenhuma das duas, nem em /reviews nem nas subpáginas.
+const OTHERS_SLUGS = ['sem-loja-velho', 'loja-pausada', 'sem-loja-novo', 'sem-loja-meio'];
+const othersFixture = (count: number): FixtureReview[] => {
+  let left = count;
+  return [
+    review(40, 'sem-loja-velho', { publishedAtISO: '2026-03-01', image: '/images/reviews/teste/velho.avif' }),
+    review(41, 'loja-pausada', { affiliate: 'loja-pausada', publishedAtISO: '2026-05-02', category: 'cupons-como-usar' }),
+    review(42, 'sem-loja-novo', { publishedAtISO: '2026-06-01', image: '/images/reviews/teste/novo.webp' }),
+    review(43, 'sem-loja-meio', { publishedAtISO: '2026-04-01', category: 'produtos-experiencias' }),
+    review(44, 'da-loja-ativa', { affiliate: 'magalu', publishedAtISO: '2026-07-01' }),
+    review(45, 'magalu-x', { affiliate: 'magalu', publishedAtISO: '2026-07-02' }),
+    review(46, 'magalu-y', { affiliate: 'magalu', publishedAtISO: '2026-07-03' }),
+    review(47, 'magalu-z', { affiliate: 'magalu', publishedAtISO: '2026-07-04' }),
+  ].filter((item) => !OTHERS_SLUGS.includes(item.slug) || left-- > 0);
+};
+const magaluOnly = [store('magalu')];
+const others = getOthersShelfContent(othersFixture(4), magaluOnly);
+assert.ok(others);
+assert.deepEqual(slugs(others.articles), ['sem-loja-novo', 'loja-pausada', 'sem-loja-meio', 'sem-loja-velho'], 'do mais novo ao mais antigo');
+assert.equal(others.articles.find((item) => item.slug === 'loja-pausada')?.store, undefined, 'loja pausada: sem nome de loja');
+assert.equal(others.title, 'Outros artigos');
+assert.equal(others.metaTitle, 'Outros guias e análises - Em Casa com Cecília');
+assert.equal(others.countLabel, '4 artigos');
+assert.equal(
+  others.description,
+  '4 artigos da Cecília fora das lojas parceiras: guias e análises, do mais novo para o mais antigo.'
+);
+assert.equal(others.path, '/reviews/outros');
+assert.equal(others.path, OTHERS_SHELF_PATH);
+assert.deepEqual(others.trail, [
+  { name: 'Início', path: '/' },
+  { name: 'Guias & Análises', path: '/reviews' },
+  { name: 'Outros', path: '/reviews/outros' },
+]);
+assert.deepEqual(others.categories.map(({ value }) => value), [
+  'guias-praticos-utilidade',
+  'produtos-experiencias',
+  'cupons-como-usar',
+]);
+assert.equal(others.search, null);
+assert.deepEqual(others.store, {
+  slug: 'outros',
+  brand: 'Outros',
+  initials: 'Outros',
+  icon: 'house',
+  total: 4,
+  href: '/reviews/outros',
+  countLabel: '4 artigos',
+});
+assert.deepEqual(slugs(others.otherStores), ['magalu'], 'Outras lojas: só as lojas, sem a Outros');
+assert.deepEqual(others.socialImage, { url: absoluteMediaUrl('/images/reviews/teste/novo.webp'), alt: 'Título sem-loja-novo' });
+assert.equal('storePageUrl' in others || 'codeLinkLabel' in others, false, 'sem campos de loja');
+const looseReviews = (count: number) =>
+  Array.from({ length: count }, (_, index) =>
+    review(200 + index, `solto-${index}`, { publishedAtISO: `2026-02-${String(index + 1).padStart(2, '0')}` })
+  );
+assert.deepEqual(getOthersShelfContent(looseReviews(13), [])?.search, {
+  label: 'Buscar nos outros artigos',
+  placeholder: 'Buscar nos outros artigos',
+  scope: 'reviews',
+});
+assert.equal(getOthersShelfContent(looseReviews(12), [])?.search, null, '12 artigos: sem busca');
+assert.deepEqual(
+  getOthersShelfContent(othersFixture(4).map((item) => ({ ...item, image: '/images/reviews/teste/capa.avif' })), magaluOnly)
+    ?.socialImage,
+  SITE_SOCIAL_IMAGE,
+  'só capas AVIF: o logo do site'
+);
+
+for (const count of [0, 1, 2]) {
+  const reviews = othersFixture(count);
+  assert.equal(getOthersShelfContent(reviews, magaluOnly), null, `${count} artigos: sem página`);
+  assert.deepEqual(slugs(getReviewsHubContent(reviews, magaluOnly).stores), ['magalu'], `${count} artigos: sem bolinha em /reviews`);
+  assert.deepEqual(
+    slugs(getStoreShelfContent(reviews, 'magalu', magaluOnly)?.otherStores ?? []),
+    [],
+    `${count} artigos: sem bolinha nas subpáginas`
+  );
+}
+{
+  const withPage = othersFixture(3);
+  assert.equal(getOthersShelfContent(withPage, magaluOnly)?.articles.length, 3, '3 artigos: a página existe');
+  assert.deepEqual(slugs(getReviewsHubContent(withPage, magaluOnly).stores), ['magalu', 'outros'], 'a Outros é a última de /reviews');
+  assert.deepEqual(slugs(getStoreShelfContent(withPage, 'magalu', magaluOnly)?.otherStores ?? []), ['outros']);
+  const damieToo = [...withPage, ...[50, 51, 52].map((id) => review(id, `damie-${id}`, { affiliate: 'damie' }))];
+  assert.deepEqual(
+    slugs(getStoreShelfContent(damieToo, 'magalu', [store('damie'), store('magalu')])?.otherStores ?? []),
+    ['damie', 'outros'],
+    'a Outros é a última de Outras lojas'
+  );
+}
+assert.equal(
+  getOthersShelfContent(othersFixture(4), [...magaluOnly, store('damie')])?.articles.length,
+  4,
+  'uma loja ativa a mais, sem artigo no fixture, não muda a Outros'
+);
+assert.equal(getOthersShelfContent(othersFixture(4), [])?.articles.length, 8, 'sem lojas ativas, todo artigo é da Outros');
 
 // Controle positivo: artigo listado sem categoria válida derruba a montagem, como no resto do site.
 assert.throws(
@@ -408,7 +525,16 @@ const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedRevi
 const real = getReviewsHubContent(publishedReviews);
 assert.deepEqual(slugs(real.articles), slugs(listed));
 assert.deepEqual(slugs(real.newArticles), slugs(listed.filter(({ isNew }) => isNew)));
-assert.deepEqual(slugs(real.stores), getStoreArticlePageSlugs(publishedReviews));
+const realOthers = getOthersShelfContent(publishedReviews);
+assert.deepEqual(
+  slugs(real.stores),
+  [...getStoreArticlePageSlugs(publishedReviews), ...(realOthers ? ['outros'] : [])],
+  'as lojas com subpágina e, por último, a Outros quando há página'
+);
+assert.deepEqual(slugs(realOthers?.otherStores ?? []), getStoreArticlePageSlugs(publishedReviews), 'Outras lojas da Outros: só as lojas');
+// A rota estática /reviews/outros vence o /reviews/[slug]: nenhum artigo nem loja pode ter o slug "outros".
+assert.ok(!publishedReviews.some(({ slug }) => slug === 'outros'), 'artigo com o slug "outros" ficaria inalcançável');
+assert.ok(!COUPONS.some(({ slug }) => slug === 'outros'), 'loja com o slug "outros" colidiria com a bolinha');
 assert.deepEqual(slugs(sortShelf(real.articles, 'novos')), slugs(real.articles), 'a ordem do servidor é a do sortShelf');
 assert.match(new URL(real.socialImage.url).pathname, /\.(?:jpe?g|png|webp|gif)$/i);
 const shareable = listed.find(
@@ -425,7 +551,7 @@ for (const item of real.articles) {
   assert.equal(item.searchText, foldSearchText(item.searchText), `${item.slug}: texto de busca normalizado`);
   assert.ok(item.searchText.includes(foldSearchText(item.title)), `${item.slug}: o título entra na busca`);
 }
-for (const shelfStore of real.stores) {
+for (const shelfStore of real.stores.filter(({ slug }) => slug !== 'outros')) {
   assert.equal(shelfStore.total, getStoreArticlesPage(publishedReviews, shelfStore.slug)?.articles.length, `${shelfStore.slug}: total`);
   const page = getStoreShelfContent(publishedReviews, shelfStore.slug);
   assert.ok(page, `${shelfStore.slug}: subpágina`);
@@ -613,6 +739,15 @@ assert.match(bubble, /class="bolinha /);
 assert.match(bubble, /--i:2/);
 assert.ok(bubble.includes('>Magalu</span>'));
 assert.ok(bubble.includes('>4 artigos</span>'));
+
+// A bolinha da casa: o href de /reviews/outros, o ícone (svg decorativo) e nenhum <img> nem iniciais.
+const othersBubble = render(createElement(StoreBubbleLink, { store: others.store, index: 0, placement: 'reviews_stores' }));
+assert.match(othersBubble, /<a [^>]*href="\/reviews\/outros"/);
+assert.match(othersBubble, /<svg [^>]*lucide-house[^>]*aria-hidden="true"/, 'a casa, escondida do leitor de tela');
+assert.doesNotMatch(othersBubble, /<img\b/, 'sem logo');
+assert.ok(!othersBubble.includes('>Outros</span></span>'), 'sem as iniciais dentro do disco');
+assert.ok(othersBubble.includes('>Outros</span>') && othersBubble.includes('>4 artigos</span>'), 'nome e total embaixo');
+assert.doesNotMatch(bubble, /<svg\b/, 'a bolinha de loja segue com o logo, sem a casa');
 
 const tracked = render(
   createElement(
@@ -813,15 +948,15 @@ assert.equal(render(createElement(ReviewsNewRow, { articles: [] })), '');
 // Bolinhas: título, uma por loja na ordem dos dados (com duas lojas, a ordem invertida inverte os links);
 // sem loja, a seção não existe.
 const twoStoresHub = getReviewsHubContent(twoStores, fixtureStores);
-assert.deepEqual(slugs(twoStoresHub.stores), ['damie', 'magalu'], 'DAMIE e Magalu têm subpágina');
+assert.deepEqual(slugs(twoStoresHub.stores), ['damie', 'magalu', 'outros'], 'DAMIE e Magalu têm subpágina, e a Outros fecha a fila');
 const strip = render(
   createElement(ReviewsStoreStrip, { id: 'titulo-por-loja', title: 'Por loja', stores: twoStoresHub.stores, placement: 'reviews_stores' })
 );
 assert.ok(strip.includes('aria-labelledby="titulo-por-loja"'));
 assert.match(strip, /<span class="marca-texto">Por loja<\/span>/);
-const stripSlugs = (html: string) => [...html.matchAll(/href="\/reviews\/loja\/([^"]+)"/g)].map(([, slug]) => slug);
-assert.deepEqual(stripSlugs(strip), ['damie', 'magalu']);
-assert.deepEqual([...strip.matchAll(/--i:(\d+)/g)].map(([, position]) => Number(position)), [0, 1]);
+const stripSlugs = (html: string) => [...html.matchAll(/href="\/reviews\/(?:loja\/)?([^"]+)"/g)].map(([, slug]) => slug);
+assert.deepEqual(stripSlugs(strip), ['damie', 'magalu', 'outros']);
+assert.deepEqual([...strip.matchAll(/--i:(\d+)/g)].map(([, position]) => Number(position)), [0, 1, 2]);
 const reversedStrip = render(
   createElement(ReviewsStoreStrip, {
     id: 'titulo-por-loja',
@@ -830,7 +965,7 @@ const reversedStrip = render(
     placement: 'reviews_stores',
   })
 );
-assert.deepEqual(stripSlugs(reversedStrip), ['magalu', 'damie']);
+assert.deepEqual(stripSlugs(reversedStrip), ['outros', 'magalu', 'damie']);
 // A fila das bolinhas é um ScrollRow (com o foco do teclado, a bolinha meio escondida entra inteira). O
 // HTML do servidor é o mesmo de um <ul> comum, então não prova nada: a prova está na árvore de elementos,
 // que o componente (sem hooks) devolve quando chamado como função.
@@ -1043,5 +1178,5 @@ assert.equal(isOnList('/reviews', '/reviews/loja/magalu'), false, 'de /reviews p
 assert.equal(isOnList('/reviews/loja/magalu', '/reviews'), false);
 
 console.log(
-  `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
+  `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${getStoreArticlePageSlugs(publishedReviews).length} lojas com subpágina, a Outros, busca, ordem, URL e medição passaram.`
 );
