@@ -42,6 +42,30 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
   return listed.filter((review) => review.affiliate === slug);
 }
 
+// As lojas do artigo PT listado mais novo para o mais antigo (a ordem das bolinhas da home e de /reviews).
+// Empate de data e loja sem artigo mantêm a ordem recebida; as sem artigo vão para o fim.
+export function sortStoresByNewestArticle<S extends Pick<Coupon, 'slug'>>(
+  stores: readonly S[],
+  reviews: readonly StoreReview[]
+): S[] {
+  const listed = getListedPortugueseReviews(reviews);
+  const newest = new Map<string, number>();
+  for (const { affiliate, publishedAtISO } of listed) {
+    if (!affiliate) continue;
+    const time = Date.parse(publishedAtISO);
+    if (!(time <= (newest.get(affiliate) ?? -Infinity))) newest.set(affiliate, time);
+  }
+  const timeOf = (store: S) => newest.get(store.slug) ?? -Infinity;
+  return stores
+    .map((store, position) => ({ store, position }))
+    .sort((a, b) => {
+      const ta = timeOf(a.store);
+      const tb = timeOf(b.store);
+      return ta === tb ? a.position - b.position : tb > ta ? 1 : -1;
+    })
+    .map(({ store }) => store);
+}
+
 // A loja ganha o "Ver os N artigos", a subpágina /reviews/loja/{slug} e a bolinha de /reviews a partir de 3
 // artigos (Bruno, 14/10; de 08/10 até então, só acima de 3, quando a vitrine já não mostrava todos).
 export function hasArticlesPage(articleCount: number): boolean {
@@ -59,7 +83,7 @@ export function getHomeStoreTabs(
   const listed = listedNewestFirst(reviews);
   const copy = getSidebarCopy('pt');
 
-  return stores.map((store) => {
+  return sortStoresByNewestArticle(stores, reviews).map((store) => {
     const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);
