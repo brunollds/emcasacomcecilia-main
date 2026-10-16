@@ -82,7 +82,19 @@ type CouponStoreLinkProps = {
   contentSlug?: string;
   linkLabel?: string;
   sponsored?: boolean;
-  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_sidebar' | 'review_top' | 'review_end' | 'review_mobile_drawer' | 'home_store_banner';
+  placement?:
+    | 'coupon_page'
+    // Link da marca no Mercado Livre, dentro do FAQ da página da loja.
+    | 'coupon_page_faq_mercado_livre'
+    | 'coupon_hub'
+    | 'coupon_hub_featured'
+    | 'bottom_bar'
+    | 'review_inline'
+    | 'review_sidebar'
+    | 'review_top'
+    | 'review_end'
+    | 'review_mobile_drawer'
+    | 'home_store_banner';
   className?: string;
 };
 

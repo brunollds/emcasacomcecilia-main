@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { Archivo, JetBrains_Mono } from 'next/font/google';
-import { ChevronDown } from 'lucide-react';
+import { ArrowRight, ChevronDown } from 'lucide-react';
+import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { CouponFAQ } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -215,7 +216,8 @@ export function SectionHeading({ id, children }: { id?: string; children: React.
   );
 }
 
-export function CouponFaq({ items }: { items: CouponFAQ[] }) {
+// A marca vai no rastreio do link do Mercado Livre; a YesStyle, sem esse link, não passa.
+export function CouponFaq({ items, brand }: { items: CouponFAQ[]; brand?: string }) {
   return (
     <div className="border-t-2 border-marinho">
       {items.map((item, index) => (
@@ -230,6 +232,17 @@ export function CouponFaq({ items }: { items: CouponFAQ[] }) {
           <p className="max-w-[68ch] pb-4 text-sm font-medium leading-[22px] text-marinho-suave md:text-[15px] md:leading-6">
             {item.answer}
           </p>
+          {item.mercadoLivreUrl && (
+            <CouponStoreLink
+              href={item.mercadoLivreUrl}
+              brand={brand}
+              placement="coupon_page_faq_mercado_livre"
+              className={`mb-4 inline-flex min-h-11 items-center gap-2 text-[15px] font-extrabold text-marinho underline underline-offset-[3px] ${FOCUS_RING}`}
+            >
+              Ver no Mercado Livre
+              <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+            </CouponStoreLink>
+          )}
         </details>
       ))}
     </div>
