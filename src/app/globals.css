@@ -1062,3 +1062,196 @@ html:lang(ja) {
     }
   }
 }
+
+/* Header do celular: os estados (menu e busca abertos, página rolada) valem sempre; o movimento, no bloco seguinte */
+.header-movel {
+  --header-linha: 62px;
+}
+
+.header-movel[data-rolou] {
+  --header-linha: 52px;
+}
+
+.header-linha {
+  height: var(--header-linha);
+}
+
+.header-botao {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgb(255 255 255 / 0.22);
+  border-radius: 999px;
+  color: #fff;
+}
+
+.header-hamburguer span {
+  position: absolute;
+  left: 10px;
+  width: 18px;
+  height: 2px;
+  border-radius: 2px;
+  background: #fff;
+}
+
+.header-hamburguer span:nth-child(1) {
+  top: 12px;
+}
+
+.header-hamburguer span:nth-child(2) {
+  top: 18px;
+}
+
+.header-hamburguer span:nth-child(3) {
+  top: 24px;
+}
+
+.header-movel[data-menu-aberto] .header-hamburguer span:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.header-movel[data-menu-aberto] .header-hamburguer span:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+
+.header-movel[data-menu-aberto] .header-hamburguer span:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+.header-nome {
+  font-size: 25px;
+}
+
+.header-movel[data-rolou] .header-nome {
+  font-size: 22px;
+}
+
+/* O nome fica por cima do campo (é posicionado e o campo não): escondido, ele sai do caminho do toque */
+.header-movel[data-busca-aberta] .header-nome-movel {
+  visibility: hidden;
+  opacity: 0;
+  transform: translateX(-12px);
+}
+
+/* Sem position: os resultados do OmniSearch (fullWidthResults) se prendem à .header-linha, na largura da tela */
+.header-busca {
+  flex: none;
+  width: 0;
+  height: 40px;
+  margin-left: auto;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #fff;
+  opacity: 0;
+}
+
+.header-movel[data-busca-aberta] .header-busca {
+  width: calc(100% - 96px);
+  opacity: 1;
+}
+
+.header-busca input {
+  padding-block: 8px;
+}
+
+.header-gaveta {
+  display: grid;
+  grid-template-rows: 0fr;
+}
+
+.header-movel[data-menu-aberto] .header-gaveta {
+  grid-template-rows: 1fr;
+}
+
+.header-gaveta-dentro {
+  min-height: 0;
+  max-height: calc(100dvh - var(--header-linha));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.header-atual::before {
+  content: '';
+  position: absolute;
+  inset-block: 0;
+  left: 0;
+  width: 4px;
+  background: #ff6b35;
+  transform-origin: top;
+}
+
+[aria-expanded='true'] > .header-seta {
+  transform: rotate(90deg);
+}
+
+.header-categorias {
+  display: grid;
+  grid-template-rows: 0fr;
+}
+
+.header-categorias[data-aberto] {
+  grid-template-rows: 1fr;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .header-linha {
+    transition: height 0.3s ease;
+  }
+
+  .header-hamburguer span {
+    transition: transform 0.3s ease, opacity 0.2s;
+  }
+
+  .header-nome {
+    transition: font-size 0.3s;
+  }
+
+  .header-nome-movel {
+    transition: opacity 0.2s, transform 0.3s, visibility 0.3s;
+  }
+
+  .header-busca {
+    transition: width 0.35s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.2s;
+  }
+
+  .header-gaveta {
+    transition: grid-template-rows 0.35s ease;
+  }
+
+  .header-categorias {
+    transition: grid-template-rows 0.3s ease;
+  }
+
+  .header-seta {
+    transition: transform 0.3s;
+  }
+
+  /* A barra da seção atual se desenha de cima para baixo logo depois que a gaveta abre */
+  .header-atual::before {
+    transform: scaleY(0);
+    transition: transform 0.35s ease 0.25s;
+  }
+
+  .header-movel[data-menu-aberto] .header-atual::before {
+    transform: scaleY(1);
+  }
+
+  /* Os blocos da gaveta entram em cascata ao abrir e saem juntos ao fechar */
+  .header-cascata {
+    opacity: 0;
+    transform: translateY(-8px);
+    transition: opacity 0.25s, transform 0.3s;
+  }
+
+  .header-movel[data-menu-aberto] .header-cascata {
+    opacity: 1;
+    transform: none;
+    transition-delay: calc(var(--i, 0) * 45ms + 80ms);
+  }
+}
