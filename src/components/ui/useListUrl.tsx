@@ -9,7 +9,7 @@ import { urlSearchOf } from '@/lib/listUrl';
 // própria lista (writeListUrl), e o ListUrlListener, das de fora (voltar, avançar ou um link para esta
 // página). O useSearchParams fica nele, com Suspense próprio: assim o prerender não para no Suspense e o HTML
 // estático traz os cartões.
-const LIST_URL_EVENT = 'list-url';
+export const LIST_URL_EVENT = 'list-url';
 
 function subscribeToUrl(onChange: () => void) {
   window.addEventListener(LIST_URL_EVENT, onChange);
