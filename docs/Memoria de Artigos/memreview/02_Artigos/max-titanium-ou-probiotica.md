@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]], [[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 85
@@ -379,3 +379,215 @@ H1: **Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por do
 4. **Sabor:** sem degustação por enquanto (não há material); os artigos saem sem falar de sabor. Um artigo de teste pode vir no futuro.
 5. **Capa:** montagem com fotos oficiais das duas marcas, em folha de opções para o Bruno aprovar.
 6. **Max Titanium:** o cupom soma com o desconto de até 5% do Pix e do boleto (confirmado pelo Bruno em 14/10/2026).
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito em dois blocos (Job 2), juntado e revisado (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Pagamento (decisão do Bruno):** os cupons valem em todas as formas de pagamento. O texto não diz que o desconto próprio do Pix soma com o cupom: não está confirmado.
+- **Recheck no dia do JSON:** preços, combos, frete e disponibilidade nos sites oficiais; o que mudou, corrige e data de novo.
+- **Capa:** montagem com fotos oficiais, em folha de opções para o Bruno aprovar. Imagem nova só pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`, com GO do Bruno para o upload.
+- **Job 4:** id novo depois do último do `_manifest.json`; `category` e `type` do front matter; nota editorial de até 3 linhas, sem data; `isNew`; `cta.url` = `offerUrl` da loja do `affiliate`.
+- `affiliate` max-titanium, `coupon` MAX10EMCASACOMCECILIA (decisão do Bruno no briefing). Probiótica só com link para `/cupons/probiotica`; se precisar de link externo da Probiótica, é o `offerUrl` exato, com UTM.
+- Pendência do revisor: a creatina da Max tem dosador de 3 g e rótulo de 5 g (o texto segue o rótulo).
+
+### Notas da revisão (16/10/2026)
+
+**Pendências resolvidas (16/10/2026)**
+- 100% Pure Whey Zero Lactose: tabela de Baunilha lida na imagem do CDN da Probiótica (`supleylab.vteximg.com.br/arquivos/ids/161328/PROB---Tabelas-Nutricionais---100-PURE-WHEY-ZERO-LACTOSE---BAUNILHA.jpg`, link do catálogo VTEX `ft=whey`): porção 30 g, 30 porções, 22 g de proteína. Conta nossa: 900 ÷ 30 × 22 = 660 g; R$ 241,97 ÷ 6,6 = R$ 36,66 por 100 g. Preço R$ 241,97 conferido no catálogo. No quadro e no FAQ, "21 a 22 g" virou "22 g (Baunilha)", para seguir a regra de um sabor por produto.
+- Blends: Whey Blend Nova Fórmula (Max, Baunilha, `TN-WHEY-BLEND-BAUNILHA-900G.jpg`) = 153 kcal, 10 g de carboidratos, 234 mg de sódio; Iso Protein Blend (Probiótica, Chocolate) = 152 kcal, 9,8 g, 233 mg. Gordura 1,4 g nos dois. A tabela agora separa os valores e ganhou a linha de carboidratos.
+- Hiper 100% Whey: 11 g de carboidratos por porção de 40 g (tabela de Baunilha da Probiótica). Whey Pro: 20 g conferidos na tabela de Baunilha da Max.
+- Preços de todos os wheys e das creatinas de 300 g e 500 g (Max) e 100 g e 300 g (Probiótica) conferidos nos catálogos VTEX salvos em 16/10/2026 (`mxp/*.json`): todos batem. Max sem whey zero lactose na busca: confirmado.
+- Testes de checkout conferidos no `testNote` de `couponsData.ts`: Max em 14/10 (Top Whey 3W em promoção, R$ 189,00, R$ 16,75 de desconto); Probiótica em 13/10 (R$ 54,75 em R$ 659,35). O texto da Max dizia "3W + Sabor"; o testNote diz só "Top Whey 3W 900 g em promoção": ficou "Top Whey 3W em promoção".
+
+**Contas refeitas**
+- Corrigida: refil do 100% Pure Whey, R$ 235,65 ÷ 6 = R$ 39,275 → **R$ 39,28** (o briefing e o bloco A tinham R$ 39,27).
+- Conferidas sem mudança: R$ 33,40; 31,17; 42,08; 41,82; 44,39; 37,99; 40,53; 33,60; 14,04; 26,40; 24,14; doses de creatina (1,30; 1,00; 0,88; 2,80; 1,69; 1,00; 2,33; 1,06; 3,33); diferenças R$ 42,10 (pote), R$ 39,26 (refil, nova), R$ 20,10, R$ 25,90 (Whey Pro × Hiper, nova); proteína por pote dos 3W (720 g, 562,5 g, 675 g).
+
+**Cortes e mudanças na junção**
+- Tirei as repetições do quadro nas seções de concentrado, isolado, blend e entrada: a tabela de preços do concentrado, a lista de preços do isolado, os preços e o R$ por 100 g repetidos no Whey Pro e na Hiper. A tabela do 3W virou porções, proteína no pote e sabores (dados novos, não repetidos do quadro).
+- "Não testamos nem provamos" saiu da resposta rápida e da Transparência; fica uma vez, em "Como comparamos" ("Não houve teste nem degustação"). A palavra "provamos" não aparece mais.
+- Nutricionista: só no FAQ (uma vez); saiu da nota de Transparência.
+- Links: /cupons/max-titanium 1×, /cupons/probiotica 1×; cada artigo interno 1×.
+- Frase do frete mantida, reescrita para ficar óbvia pelo fato: "São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+- FAQ do Pix: acrescentei "Na Probiótica, confira o total no carrinho antes de pagar", sem afirmar que soma ou não soma.
+- Acrescentado ao concentrado: o Zero Lactose sai mais barato por 100 g de proteína que o Pure Whey comum (dado novo do quadro).
+
+**Para o Bruno**
+- A soma do PRO10EMCASACOMCECILIA com o Pix da Probiótica segue sem confirmação; o texto não afirma.
+- O link patrocinado da Probiótica (UTM do `couponsData.ts`) não está no markdown: decidir no JSON onde entra, já que o `affiliate` é a Max.
+- "Blend e opções de entrada" usa dois `###`; se o template não aceitar subtítulo, vira duas seções.
+- O `combinable` da Probiótica no `couponsData.ts` ainda diz "Conforme regras da loja" (sessão de cupons).
+- Preços mudam: reconsultar na publicação (3W + Sabor e Hiper estão em promoção; frete é de 14/10).
+
+## Texto aprovado
+
+### Resposta rápida
+
+- **São a mesma coisa?** Não. As duas são marcas do grupo Supley, e o rótulo das duas aponta a mesma fábrica. As linhas, as porções, os sabores e os preços são diferentes.
+- **Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.
+- **Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.
+- **Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.
+- **3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g.
+- **Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g.
+- **Cupom:** cada loja tem o seu código, de até 10%, e os dois somam com as promoções do site.
+
+A comparação usa a tabela nutricional que cada loja publica e o preço dos sites oficiais em 16/10/2026, que muda com as promoções.
+
+### Max Titanium e Probiótica são a mesma coisa?
+
+São da mesma empresa, mas não vendem os mesmos produtos. Max Titanium e Probiótica são marcas do **grupo Supley**, que também tem a Dr. Peanut e a Znack That. As duas lojas oficiais trazem a mesma empresa no rodapé.
+
+O verso das embalagens confirma a origem. No 100% Whey da Max e no 3 Whey Protein da Probiótica, o campo "Fabricado em" traz o mesmo nome, Supley Laboratório de Alimentos e Suplementos Nutricionais, em Matão (SP). Ou seja: **o rótulo das duas aponta a mesma fábrica**.
+
+Isso não faz de um pote a cópia do outro. Cada marca tem as próprias linhas, com porção, proteína por porção, sabores e preço diferentes. Só um par tem tabelas nutricionais quase iguais, o dos blends, e mesmo ali a tabela não diz que a fórmula é a mesma.
+
+Quem fabrica, o site oficial e as trocas de cada marca estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel) e em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel).
+
+### Como comparamos
+
+- **Rótulo:** lemos a tabela nutricional que cada loja publica na página do produto, em 16/10/2026.
+- **Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. Usamos o sabor da tabela lida, em geral Baunilha, e ele aparece indicado quando é outro.
+- **Preço:** o preço à vista do site oficial em 16/10/2026, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço "de", ele vem entre parênteses.
+- **Preço por 100 g de proteína (conta nossa):** dividimos o peso do pote pela porção, multiplicamos pela proteína de cada porção e dividimos o preço por esse total de proteína.
+- **Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela.
+
+Não houve teste nem degustação. Por isso o texto diz quantos sabores cada linha tem, sem comparar o gosto.
+
+### Quadro das linhas equivalentes
+
+Os pares abaixo têm o mesmo tipo de proteína e o mesmo tamanho de pote, 900 g, salvo o Whey Pro, de 1 kg. Compare a proteína junto com a porção: 21 g em 30 g não é o mesmo que 25 g em 40 g.
+
+| Tipo | Max Titanium | Proteína por porção | Preço | R$ por 100 g de proteína | Probiótica | Proteína por porção | Preço | R$ por 100 g de proteína |
+|---|---|---|---|---|---|---|---|---|
+| Concentrado (pote) | 100% Whey (7 sabores) | 21 g em 30 g | R$ 210,39 | R$ 33,40 | 100% Pure Whey (13 sabores) | 20 g em 30 g | R$ 252,49 | R$ 42,08 |
+| Concentrado (refil) | 100% Whey Refil | 21 g em 30 g | R$ 196,39 | R$ 31,17 | 100% Pure Whey Refil | 20 g em 30 g | R$ 235,65 | R$ 39,28 |
+| Isolado | IsoWhey | 26 g em 30 g | R$ 326,18 | R$ 41,82 | Iso Pro Whey (com vitaminas e minerais) | 26 g em 30 g | R$ 346,28 | R$ 44,39 |
+| 3W | Top Whey 3W + Performance (com vitaminas e minerais) | 32 g em 40 g | R$ 273,55 | R$ 37,99 | 3 Whey Protein | 24 g em 32 g | R$ 273,55 | R$ 40,53 |
+| 3W em promoção | Top Whey 3W + Sabor (Brigadeiro) | 25 g em 40 g | R$ 189,00 (de R$ 273,55) | R$ 33,60 | Sem equivalente | — | — | — |
+| Blend | Whey Blend Nova Fórmula | 25 g em 40 g | R$ 79,00 (de R$ 121,99) | R$ 14,04 | Iso Protein Blend (Chocolate) | 25 g em 40 g | R$ 79,00 (de R$ 121,99) | R$ 14,04 |
+| Entrada | Whey Pro (1 kg) | 15 g em 40 g | R$ 99,00 (de R$ 126,20) | R$ 26,40 | Hiper 100% Whey | 23 g em 40 g | R$ 124,90 (de R$ 210,39) | R$ 24,14 |
+| Zero lactose | Sem equivalente | — | — | — | 100% Pure Whey Zero Lactose | 22 g em 30 g | R$ 241,97 | R$ 36,66 |
+
+Preços dos sites oficiais em 16/10/2026, sem cupom; eles mudam com as promoções e o estoque. A proteína por porção é a da tabela de Baunilha, salvo onde o sabor está indicado. O preço por 100 g de proteína é conta nossa.
+
+### Creatina: qual escolher
+
+No pote de 300 g, as duas creatinas empatam no rótulo e no preço. A tabela das duas traz porção de 5 g, com 5.000 mg de creatina, e 60 porções por pote. As duas custavam R$ 59,90 (de R$ 75,10) em 16/10/2026, ou **R$ 1,00 por dose**.
+
+A diferença está nos outros tamanhos e formatos:
+
+| Loja | Produto | Preço | Porções | R$ por dose |
+|---|---|---|---|---|
+| Max Titanium | Creatina 150 g | R$ 38,89 (de R$ 47,52) | 30 de 5 g | R$ 1,30 |
+| Max Titanium | Creatina 300 g | R$ 59,90 (de R$ 75,10) | 60 de 5 g | R$ 1,00 |
+| Max Titanium | Creatina 500 g | R$ 87,53 (de R$ 115,60) | 100 de 5 g | R$ 0,88 |
+| Max Titanium | Creatina Creapure 250 g | R$ 139,89 (de R$ 147,20) | 50 de 5 g | R$ 2,80 |
+| Probiótica | Creatina 100 g | R$ 33,89 | 20 de 5 g | R$ 1,69 |
+| Probiótica | Creatina 300 g | R$ 59,90 (de R$ 75,10) | 60 de 5 g | R$ 1,00 |
+| Probiótica | Monodose, 30 sachês de 5 g | R$ 69,89 | 30 de 5 g | R$ 2,33 |
+| Probiótica | Cápsulas, 180 cápsulas | R$ 47,89 (de R$ 63,10) | 45 de 3 g (4 cápsulas) | R$ 1,06 por porção de 3 g |
+| Probiótica | Creatina Creapure 150 g | R$ 99,89 | 30 de 5 g | R$ 3,33 |
+
+- **Pote maior:** só a Max tem o de 500 g, a dose mais barata das duas lojas, R$ 0,88.
+- **Pote menor:** a Max tem o de 150 g, e a Probiótica, o de 100 g. Os dois saem mais caros por dose que o de 300 g.
+- **Sem medir o pó:** só a Probiótica vende sachês de 5 g e cápsulas. A porção das cápsulas é de 3 g em 4 cápsulas, então o preço por porção não se compara direto com o das doses de 5 g.
+- **Creapure:** as duas lojas vendem uma creatina Creapure, a de 250 g na Max e a de 150 g na Probiótica. É a opção mais cara por dose em cada loja.
+
+Preços dos sites oficiais em 16/10/2026, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).
+
+### Whey concentrado: 100% Whey ou 100% Pure Whey
+
+O concentrado da Max Titanium é o **100% Whey**. O da Probiótica é o **100% Pure Whey**. Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.
+
+Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.
+
+A diferença maior está no preço: em 16/10/2026, o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.
+
+A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.
+
+A Probiótica também vende o **100% Pure Whey Zero Lactose**, em 3 sabores. A tabela de Baunilha traz 22 g de proteína em 30 g, e o pote custava R$ 241,97 em 16/10/2026. Por 100 g de proteína, ele sai mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose.
+
+### Whey isolado: IsoWhey ou Iso Pro Whey
+
+O isolado da Max Titanium é o **IsoWhey**. O da Probiótica é o **Iso Pro Whey**. Os dois têm 26 g de proteína em 30 g, 30 porções por pote de 900 g e 3 sabores à venda.
+
+A diferença está na tabela e no preço. A tabela da Iso Pro Whey traz também vitaminas e minerais; a do IsoWhey, não. Em 16/10/2026, a Iso Pro Whey custava R$ 20,10 a mais.
+
+Pela mesma proteína por dose, a escolha fica entre pagar menos (IsoWhey) ou levar as vitaminas e os minerais na tabela (Iso Pro Whey).
+
+### 3W: Top Whey 3W ou 3 Whey Protein
+
+Aqui as duas lojas têm porções diferentes, e a comparação precisa olhar o pote inteiro.
+
+O **Top Whey 3W + Performance**, da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O **3 Whey Protein**, da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).
+
+Os dois custavam R$ 273,55 em 16/10/2026, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma):
+
+| 3W (900 g) | Porções por pote | Proteína no pote | Sabores disponíveis |
+|---|---|---|---|
+| Top Whey 3W + Performance (Max) | cerca de 23 | 720 g | 4 |
+| Top Whey 3W + Sabor (Max) | cerca de 23 | 562,5 g | 6 |
+| 3 Whey Protein (Probiótica) | cerca de 28 | 675 g | 3 |
+
+O **Top Whey 3W + Sabor** é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e, em 16/10/2026, preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque.
+
+### Blend e opções de entrada
+
+#### Os dois blends
+
+O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99) em 16/10/2026, o menor preço por 100 g de proteína deste comparativo.
+
+As tabelas são quase iguais. Lemos a de Baunilha da Max e a de Chocolate da Probiótica:
+
+| Por porção de 40 g | Whey Blend Nova Fórmula (Max, Baunilha) | Iso Protein Blend (Probiótica, Chocolate) |
+|---|---|---|
+| Valor energético | 153 kcal | 152 kcal |
+| Carboidratos | 10 g | 9,8 g |
+| Proteína | 25 g | 25 g |
+| Gorduras totais | 1,4 g | 1,4 g |
+| Sódio | 234 mg | 233 mg |
+
+Quase iguais não quer dizer o mesmo produto: os sabores são outros e as fórmulas não são declaradas iguais. Na prática, a escolha é pelo sabor que está em estoque. Em 16/10/2026, a Max tinha só Baunilha, e a Probiótica tinha Cookies & Cream, Morango e Chocolate.
+
+#### Whey Pro ou Hiper 100% Whey
+
+As opções de entrada das duas lojas são bem diferentes na dose.
+
+O **Whey Pro 1 kg**, da Max Titanium, tem 15 g de proteína e 20 g de carboidratos em 40 g, com 25 porções.
+
+A **Hiper 100% Whey 900 g**, da Probiótica, tem 23 g de proteína e 11 g de carboidratos em 40 g, com cerca de 23 porções.
+
+O Whey Pro custa R$ 25,90 a menos no pote. A Hiper entrega 8 g a mais de proteína na mesma porção de 40 g e, por 100 g de proteína, sai mais barata.
+
+### Cupom, Pix e frete em cada loja
+
+Cada loja tem o próprio código da parceria. Os dois dão **até 10%**: o percentual pode ser menor em alguns produtos, e o carrinho mostra quanto cada item recebeu. Os dois valem em todas as formas de pagamento, para conta nova e antiga, e somam com as promoções do site.
+
+| | Max Titanium | Probiótica |
+|---|---|---|
+| Código | MAX10EMCASACOMCECILIA | PRO10EMCASACOMCECILIA |
+| Desconto | até 10% | até 10% |
+| Soma com promoção do site | sim | sim |
+| Nosso teste de checkout | R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00, em 14/10/2026 | R$ 54,75 de desconto num carrinho de R$ 659,35, em 13/10/2026 |
+
+Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: em 16/10/2026, a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).
+
+O frete grátis segue a mesma tabela nas duas lojas. Em 14/10/2026, a entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho.
+
+### Perguntas frequentes
+
+- Max Titanium e Probiótica são a mesma coisa? São marcas do mesmo grupo, o Supley, e o rótulo das duas aponta a mesma fábrica, mas as linhas, as porções e os preços são diferentes.
+- Qual a diferença entre Probiótica e Max Titanium? Mudam as linhas, o número de sabores e as porções. No whey concentrado, a Max tem 21 g em 30 g e a Probiótica 20 g em 30 g (sabor Baunilha), com 13 sabores e versão zero lactose.
+- Qual a melhor creatina, Max Titanium ou Probiótica? O pote de 300 g tem a mesma porção de 5 g e o mesmo preço nas duas lojas; a diferença está nos outros tamanhos e formatos de cada uma.
+- Qual o melhor whey, Max Titanium ou Probiótica? Depende do tipo de whey: compare a proteína por porção e o preço por 100 g de proteína de cada par.
+- Whey isolado: Probiótica ou Max Titanium? Os dois têm 26 g de proteína em 30 g. A Iso Pro Whey traz vitaminas e minerais na tabela e custava R$ 20,10 a mais em 16/10/2026.
+- 100% Pure Whey da Probiótica ou 100% Whey da Max? No sabor Baunilha, 20 g contra 21 g por porção de 30 g, e R$ 252,49 contra R$ 210,39 em 16/10/2026. O Pure Whey tem mais sabores e versão zero lactose.
+- A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum em 16/10/2026. A Probiótica tem o 100% Pure Whey Zero Lactose, com 22 g de proteína por porção de 30 g no sabor Baunilha.
+- O cupom vale nas duas lojas? Cada loja tem o seu: MAX10EMCASACOMCECILIA na Max Titanium e PRO10EMCASACOMCECILIA na Probiótica, os dois de até 10%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar) e em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar).
+- O cupom soma com o Pix? Na Max Titanium, sim: soma com o desconto de até 5% do Pix e do boleto. Na Probiótica, confira o total no carrinho antes de pagar.
+- Quanto whey ou creatina tomar por dia? A quantidade depende de cada pessoa. Quem define é um nutricionista.
+
+### Transparência
+
+A Max Titanium e a Probiótica são parceiras comissionadas do site, e as duas são do mesmo grupo. Comprar pelos links ou com os códigos não muda o preço para você.

@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
@@ -379,3 +379,203 @@ repassada ao convidado, o casal recebe os R$ 20.000 nas três, e quem paga a dif
 1. **Planos da Lejour (página de planos, colada pelo Bruno em 16/10/2026):** Basic gratuito; Premium vitalício, "Melhor custo-benefício", de R$ 179,90 por R$ 99,90, uma única vez ou em até 12x ("Mais vendido"); Pro vitalício, "Experiência completa", R$ 199,90, uma única vez ou em até 12x.
 2. **Tempo do site (central de ajuda da Lejour, artigo de 24/10/2025, colado pelo Bruno):** o painel de administração fica ativo por tempo indeterminado; o acesso dos convidados ao site fica disponível por até 90 dias depois da data do casamento, com a lista de presentes funcionando nesse período. Depois, o acesso público é encerrado e o casal segue no painel, inclusive para resgatar saldo. Há um produto adicional para salvar o site em PDF.
 3. **Capa:** montagem com prints oficiais das plataformas, em folha de opções para o Bruno aprovar.
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito em dois blocos (Job 2), juntado e revisado (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Pagamento (decisão do Bruno):** os cupons valem em todas as formas de pagamento. O texto não diz que o desconto próprio do Pix soma com o cupom: não está confirmado.
+- **Recheck no dia do JSON:** preços, combos, frete e disponibilidade nos sites oficiais; o que mudou, corrige e data de novo.
+- **Capa:** montagem com fotos oficiais, em folha de opções para o Bruno aprovar. Imagem nova só pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`, com GO do Bruno para o upload.
+- **Job 4:** id novo depois do último do `_manifest.json`; `category` e `type` do front matter; nota editorial de até 3 linhas, sem data; `isNew`; `cta.url` = `offerUrl` da loja do `affiliate`.
+- `affiliate` lejour, sem `coupon`: a Lejour é só indicação. Nunca chamar de cupom nem prometer desconto.
+- Pendência: a regra dos 90 dias do site depois do casamento não está separada por plano no texto.
+
+## Texto aprovado
+
+### Resposta rápida
+
+- Em taxa, as três ficam perto: 3,89% por presente no plano grátis de cada uma. A menor das três é a do Pro da Lejour, **2,99%**, num plano de R$ 199,90.
+- Numa lista de R$ 20.000, com o preço do plano descontado, a diferença entre a opção que deixa mais dinheiro e a que deixa menos é de **R$ 196,40**, pela nossa conta.
+- O que separa as três é o resto: por quanto tempo o site fica no ar, quantos saques o plano grátis permite, quanto tempo o dinheiro do cartão leva para cair, como entram os presentes físicos e como funciona a confirmação de presença.
+- O site para os convidados fica no ar até 90 dias depois do casamento na Lejour e até 30 dias no Casar.com. No iCasei, dura o período do plano: o Basic é grátis por 6 meses.
+
+### Como comparamos
+
+Usamos só os sites oficiais das três plataformas: páginas de planos e de tarifas e a central de ajuda de cada uma, consultadas em 16/10/2026. Os preços dos planos da Lejour são os da página de planos dela na mesma data.
+
+Não fizemos lista de casamento real em nenhuma delas. As contas em reais são nossas, a partir das taxas publicadas.
+
+A Lejour é parceira do Em Casa com Cecília **só por indicação**. O casal não ganha desconto pelo nosso link: os planos e as taxas são os mesmos para qualquer casal. O iCasei e o Casar.com não são parceiros.
+
+### Lejour, iCasei e Casar.com lado a lado
+
+| | Lejour | iCasei | Casar.com |
+|---|---|---|---|
+| Site | Basic grátis; Premium R$ 99,90 (de R$ 179,90) e Pro R$ 199,90, pagamento único, à vista ou em até 12x | Basic grátis por 6 meses; Classic de R$ 79,90 a R$ 149,90 e Black de R$ 149,90 a R$ 209,90, de 3 a 12 meses, em até 6x | Grátis, sem plano |
+| Taxa por presente | Basic 3,89%; Premium 3,29%; Pro 2,99% | De 3,89% a 3,69%, pelo plano e pelo valor arrecadado | 3,89% fixa |
+| Quem paga a taxa | Casal ou convidado, à escolha do casal | Casal ou convidado, à escolha do casal | Casal ou convidado, à escolha do casal |
+| Saques | Basic: 2 grátis, depois R$ 5 cada; Premium e Pro: ilimitados | Grátis e ilimitados | Pix grátis e ilimitado |
+| Liberação Pix / boleto / cartão | Na confirmação / na confirmação / 15 dias | Na hora / até 2 dias úteis / 12 dias corridos | 2 dias úteis / 2 dias úteis / até 8 dias úteis |
+| Parcelamento do convidado | Até 12x, 3,49% ao mês | Até 6x, 2,99% ao mês | Até 6x, com juros |
+| Site no ar para os convidados | Até 90 dias depois do casamento; o painel do casal fica ativo sem prazo | Pelo período do plano | Até 30 dias depois do casamento |
+| Presentes físicos | Crédito em produtos da Fast Shop | Link para a lista de outra loja, sem parceria | Shopping Casar.com, com seis lojas |
+| Confirmação de presença | Lista de convidados com confirmação | Online em todos; por telefone no Classic; por WhatsApp no Black | Aberta ou fechada |
+
+Dados dos sites oficiais em 16/10/2026. O Premium da Lejour está em promoção, e os preços do iCasei mudam com o período contratado.
+
+### Taxa da lista: fixa, por plano ou regressiva
+
+Cada plataforma calcula a taxa de um jeito.
+
+O **Casar.com** cobra 3,89% de cada presente, sempre. Não há plano pago para baixar a taxa.
+
+Na **Lejour**, a taxa depende do plano. O Basic é grátis e cobra 3,89%. O Premium custa R$ 99,90 e cobra 3,29%. O Pro custa R$ 199,90 e cobra 2,99%. Os planos pagos são de pagamento único, sem mensalidade.
+
+No **iCasei**, a taxa depende do plano e de quanto a lista já arrecadou. É uma tarifa regressiva: ela cai quando a lista passa de R$ 4.000 e de novo quando passa de R$ 8.000.
+
+| Valor arrecadado na lista | Basic | Classic | Black |
+|---|---|---|---|
+| Até R$ 4.000 | 3,89% | 3,85% | 3,79% |
+| De R$ 4.000,01 a R$ 8.000 | 3,85% | 3,79% | 3,75% |
+| Acima de R$ 8.000 | 3,79% | 3,75% | 3,69% |
+
+Tarifas do iCasei em 16/10/2026. Segundo a página de tarifas, a taxa menor vale só para os presentes que chegam depois de cada faixa. Os primeiros R$ 4.000 seguem com a taxa da primeira faixa, mesmo que a lista passe de R$ 8.000.
+
+As três deixam o casal escolher **quem paga a taxa**. Se o casal assume, ela sai do valor de cada presente. Se repassa, ela é somada ao presente, e o convidado paga a mais.
+
+### Quanto o casal recebe de R$ 20.000
+
+Fizemos a conta para uma lista que arrecada R$ 20.000. As premissas:
+
+- todos os presentes pagos por Pix;
+- o casal paga a taxa;
+- as faixas do iCasei aplicadas como a página de tarifas descreve, cada uma só depois de atingida;
+- o preço do plano pago descontado do que o casal recebe.
+
+| Plataforma e plano | Taxa | Recebe da lista | Plano | Fica com |
+|---|---|---|---|---|
+| Lejour Basic | R$ 778,00 | R$ 19.222,00 | R$ 0 | R$ 19.222,00 |
+| Lejour Premium | R$ 658,00 | R$ 19.342,00 | R$ 99,90 | **R$ 19.242,10** |
+| Lejour Pro | R$ 598,00 | R$ 19.402,00 | R$ 199,90 | R$ 19.202,10 |
+| iCasei Basic (6 meses) | R$ 764,40 | R$ 19.235,60 | R$ 0 | R$ 19.235,60 |
+| iCasei Classic (6 / 12 meses) | R$ 755,60 | R$ 19.244,40 | R$ 109,90 / R$ 149,90 | R$ 19.134,50 / R$ 19.094,50 |
+| iCasei Black (6 / 12 meses) | R$ 744,40 | R$ 19.255,60 | R$ 179,90 / R$ 209,90 | R$ 19.075,70 / R$ 19.045,70 |
+| Casar.com | R$ 778,00 | R$ 19.222,00 | R$ 0 | R$ 19.222,00 |
+
+Simulação nossa, com as taxas e os preços de 16/10/2026.
+
+Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.
+
+Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.
+
+O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).
+
+Se o casal repassa a taxa ao convidado, recebe os R$ 20.000 nas três plataformas. Aí a diferença de taxa sai do bolso de quem dá o presente, e o plano pago continua por conta do casal.
+
+### Prazo para o dinheiro cair na conta
+
+O dinheiro passa por duas etapas: a liberação do presente, que depende de como o convidado pagou, e o saque para a conta do casal. Os prazos abaixo são dos sites oficiais em 16/10/2026.
+
+| Etapa | Lejour | iCasei | Casar.com |
+|---|---|---|---|
+| Presente pago por Pix | Liberado na confirmação | Liberado na hora | Liberado em 2 dias úteis |
+| Presente pago por boleto | Liberado na confirmação | Liberado em até 2 dias úteis da confirmação | Liberado em 2 dias úteis |
+| Presente pago no cartão | Liberado em 15 dias | Liberado em 12 dias corridos | Liberado em até 8 dias úteis |
+| Saque para a conta | Por Pix, em até 1 dia útil | Em até 2 dias úteis depois do pedido | Transferência por Pix |
+
+- **Lejour:** o saque vai para a chave Pix do CPF de quem publicou a lista, e a Lejour valida a identidade antes do primeiro saque. No Basic, dois saques são grátis, e cada um depois disso custa R$ 5. No Premium e no Pro, os saques são grátis e ilimitados.
+- **iCasei:** os resgates são grátis e ilimitados, sem valor mínimo nem máximo. Cada pedido é confirmado com um código enviado por e-mail.
+- **Casar.com:** a transferência por Pix é grátis e ilimitada.
+
+O cartão é o caminho mais lento nas três. No Basic da Lejour, vale juntar os presentes antes de sacar, para não passar dos dois saques grátis.
+
+### Por quanto tempo o site fica no ar e quanto custa manter
+
+As três tratam o tempo de jeitos diferentes. Na Lejour, o plano é pago uma vez. No iCasei, o plano tem prazo. No Casar.com, o prazo é a data do casamento.
+
+| Plataforma | Por quanto tempo o site fica aberto aos convidados | Custo para manter |
+|---|---|---|
+| Lejour | Até 90 dias depois da data do casamento, com a lista funcionando nesse período | Nenhum: o Premium e o Pro são pagamento único e vitalício |
+| iCasei | Pelo período do plano contratado | Basic grátis só na contratação de 6 meses; Classic e Black pagos por período |
+| Casar.com | Da criação até 30 dias depois do casamento | Nenhum: o site é grátis |
+
+Na **Lejour**, a regra vem da central de ajuda (artigo de 24/10/2025). O painel do casal fica ativo por tempo indeterminado. Passados os 90 dias, o site sai do ar para os convidados, e o casal continua no painel, inclusive para resgatar o saldo. Quem quiser guardar o site tem um produto adicional que salva tudo em PDF.
+
+No **iCasei**, o Basic é grátis apenas na contratação de 6 meses, e renovar é pago. O iCasei não publica o valor da renovação do Basic. Em 16/10/2026, o Classic custava R$ 79,90 (3 meses), R$ 89,90 (4), R$ 109,90 (6), R$ 129,90 (9) e R$ 149,90 (12). O Black custava R$ 149,90 (3 meses), R$ 159,90 (4), R$ 179,90 (6), R$ 199,90 (9) e R$ 209,90 (12). O Tailor Made custava R$ 1.999,90 por 12 meses. Todos saem em até 6x.
+
+Na prática, um casamento a mais de 6 meses de distância já não cabe no Basic: o plano vence antes da festa. Depois do vencimento, o casal ainda resgata o saldo sem custo por até 1 ano. O iCasei devolve o valor integral da assinatura se o cancelamento for pedido em até 7 dias do pagamento.
+
+No **Casar.com**, o site fica ativo até 30 dias depois do casamento, e o prazo se estende se a data mudar. Uma cópia do site para baixar custa R$ 39,90.
+
+### Presentes físicos e lojas
+
+Quem quer receber produtos, e não só dinheiro, encontra três caminhos diferentes.
+
+| Plataforma | Como entram os produtos | Cashback |
+|---|---|---|
+| Lejour | O crédito da lista vira dinheiro ou compras na **Fast Shop** | Mínimo de 4% nas compras com o crédito, segundo a Fast Shop |
+| iCasei | Link para a lista de outra loja (ex.: Magazine Luiza, Camicado), sem parceria | Não informado |
+| Casar.com | O crédito vira compras no **Shopping Casar.com**: Camicado, Casas Bahia, Magalu, Extra, Ponto Frio e Fast Shop | 4%, segundo o Casar.com |
+
+Na Lejour e no Casar.com, o convidado dá o presente pela plataforma, e o casal decide depois se saca ou compra. No iCasei, o link leva o convidado para o site da outra loja. O iCasei diz que essas lojas não são parceiras e que as listas de lojas físicas estão livres de taxas.
+
+A diferença pesa para quem quer escolher entre lojas: o Casar.com reúne seis, a Lejour concentra na Fast Shop, e o iCasei depende de o casal abrir uma lista separada em cada loja.
+
+### Confirmação de presença e outros recursos
+
+As três têm confirmação de presença. Os recursos abaixo são os que mudam a escolha.
+
+- **Lejour:** lista de convidados com confirmação de presença. Fotos dos convidados pelo Capture, com até 10 participantes no Basic. Site traduzido para inglês e espanhol no Premium e para vários idiomas no Pro. Recursos com IA só no Pro.
+- **iCasei:** confirmação online em todos os planos. No Classic, também por telefone (o convidado liga). No Black, por WhatsApp (o iCasei entra em contato), com domínio próprio e assessoria de montagem do site.
+- **Casar.com:** confirmação aberta a qualquer pessoa ou fechada, só para os nomes da lista de convidados. Domínio personalizado a partir de R$ 39,90.
+
+Para convidados de fora do Brasil, a tradução só aparece nos planos pagos da Lejour. Para quem quer alguém cobrando as confirmações, o caminho é o Black do iCasei. Para festa com lista fechada, o Casar.com resolve sem plano pago.
+
+Antes de pagar, o iCasei oferece um teste grátis de 15 dias, com até 3 presentes de no máximo R$ 100 cada.
+
+### O que o convidado paga
+
+Além do presente, o convidado pode pagar juros e, no iCasei, o cartão de mensagens.
+
+| Plataforma | Parcelamento no cartão | Juros do parcelamento |
+|---|---|---|
+| Lejour | Até 12x | 3,49% ao mês, pagos pelo convidado |
+| iCasei | Até 6x | 2,99% ao mês, pagos pelo convidado; o casal recebe de uma vez |
+| Casar.com | Até 6x | Pagos pelo convidado; o percentual atual não está nas páginas oficiais |
+
+A Lejour é a única das três que parcela em 12x, e é também a de juros mais altos por mês. Num presente de valor alto, o convidado que parcela no máximo paga mais na Lejour do que nas outras duas.
+
+No iCasei, existe o **cartão de mensagens** impresso, de R$ 20,90 por presente. No Basic, ele fica sempre ativo: aparece como opcional ou já incluso no presente.
+
+Se o casal repassar a taxa da lista, ela também sai do bolso do convidado, nas três.
+
+### Qual escolher, por perfil
+
+Não há uma plataforma certa para todo casal. O que decide é o tamanho da lista, a data e o que vocês querem receber.
+
+- **Casamento a mais de 6 meses:** o Basic do iCasei vence antes da festa. Comparem um plano pago do iCasei de 9 ou 12 meses com o pagamento único da Lejour ou com o Casar.com, que é grátis até 30 dias depois do casamento.
+- **Lista pequena, sem plano pago:** os três grátis cobram 3,89%. No Basic da Lejour, só 2 saques são grátis (depois, R$ 5 cada); no iCasei e no Casar.com, os saques são ilimitados. Quem prefere sacar aos poucos paga menos fora do Basic da Lejour.
+- **Lista grande:** o plano pago com taxa menor começa a compensar. Dentro da Lejour, o Premium deixa mais que o Basic numa lista de R$ 20.000, e o Pro só passa o Premium acima de R$ 33.333.
+- **Quer produtos, não só dinheiro:** Fast Shop na Lejour ou seis lojas no Shopping Casar.com, as duas com cashback. No iCasei, os produtos ficam numa lista à parte, em outra loja.
+- **Quer o site no ar depois da festa:** a Lejour deixa o site aberto por 90 dias após o casamento, o Casar.com por 30 dias, e o iCasei pelo período do plano.
+- **Muitos convidados vão parcelar:** a Lejour vai até 12x; o iCasei e o Casar.com, até 6x, e o iCasei com juros menores ao mês.
+- **Convidados de outro país:** a Lejour traduz o site nos planos pagos.
+
+### A indicação do Em Casa com Cecília
+
+A Lejour é parceira do site por indicação. O botão da Lejour nesta página leva ao cadastro com a nossa indicação. O casal não ganha desconto por ele: o plano grátis, os preços dos planos pagos e as taxas são os mesmos para qualquer casal. iCasei e Casar.com não são parceiros do site.
+
+O passo a passo do cadastro, do site e da lista está em [Como criar a lista de casamento na Lejour](/reviews/lista-de-casamento-lejour-como-criar). Os dados da parceria ficam na [página da Lejour no Em Casa com Cecília](/cupons/lejour). Para saber quem está por trás da plataforma e como o saldo é guardado, leia [Lejour é confiável?](/reviews/lejour-e-confiavel).
+
+### Perguntas frequentes
+
+- Lejour ou iCasei: qual é melhor? Depende da lista: os grátis das duas cobram 3,89%. O Basic do iCasei dura 6 meses, e a Lejour cobra o plano pago uma vez só.
+- Lejour ou Casar.com? O Casar.com tem taxa fixa de 3,89% e não tem plano pago. A Lejour baixa a taxa para 3,29% no Premium e 2,99% no Pro.
+- Qual site de lista de casamento tem a menor taxa? Entre os três, o Pro da Lejour, com 2,99%, que custa R$ 199,90. A menor do iCasei é 3,69%, no Black, acima de R$ 8 mil arrecadados.
+- O iCasei cobra taxa de saque? Não. Segundo a central de ajuda, os resgates são grátis e ilimitados.
+- A Lejour cobra taxa de saque? No Basic, dois saques são grátis, e os seguintes custam R$ 5 cada. No Premium e no Pro, os saques são ilimitados.
+- O iCasei é grátis? O Basic é grátis na contratação de 6 meses. Renovar, ou contratar o Classic ou o Black, é pago.
+- Por quanto tempo o site da Lejour fica no ar? Até 90 dias depois do casamento para os convidados. O painel do casal continua ativo, inclusive para resgatar o saldo.
+- Em quanto tempo o dinheiro cai na conta? Depende da forma de pagamento do convidado. O cartão é o mais lento nas três: 15 dias na Lejour, 12 dias corridos no iCasei e até 8 dias úteis no Casar.com.
+- Tem cupom da Lejour pelo Em Casa com Cecília? Não. O link é de indicação, e as condições são as mesmas para qualquer casal.

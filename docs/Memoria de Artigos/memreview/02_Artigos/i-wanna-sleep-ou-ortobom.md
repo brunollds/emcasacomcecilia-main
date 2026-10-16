@@ -6,9 +6,9 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 72
@@ -321,3 +321,166 @@ H1: **Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e
 2. **Pró Látex:** entra com o trecho literal da ficha da Ortobom (espuma de poliuretano), sem título acusatório e sem juízo de valor. O título da seção 4 do esqueleto fica neutro, por exemplo "O que tem dentro do Pró Látex".
 3. **Pillow top:** entra. A I Wanna Sleep vende o pillow top no site, então a seção 9 do esqueleto (Magnum × HR Gel, curta, com link para o guia do Magnum) deixa de ser opcional.
 4. **Região de preço da Ortobom:** São Paulo (capital) como referência, dita no texto.
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito em dois blocos (Job 2), juntado e revisado (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Pagamento (decisão do Bruno):** os cupons valem em todas as formas de pagamento. O texto não diz que o desconto próprio do Pix soma com o cupom: não está confirmado.
+- **Recheck no dia do JSON:** preços, combos, frete e disponibilidade nos sites oficiais; o que mudou, corrige e data de novo.
+- **Capa:** montagem com fotos oficiais, em folha de opções para o Bruno aprovar. Imagem nova só pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`, com GO do Bruno para o upload.
+- **Job 4:** id novo depois do último do `_manifest.json`; `category` e `type` do front matter; nota editorial de até 3 linhas, sem data; `isNew`; `cta.url` = `offerUrl` da loja do `affiliate`.
+- `affiliate` i-wanna-sleep, `coupon` CECIEMCASA. Ortobom sem link comissionado nem código.
+- Decisões do Bruno na aprovação: a conta do cupom usa o preço da página principal de cada produto, não os anúncios "(Oferta)" do `products.json`; as perguntas frequentes ficam como estão; posições do Snow, do Original Látex e do Airgelly e a política de 30 dias são reconferidas no Job 4.
+- O link para o artigo da Emma usa o título atual, com "(e Ortobom)"; quando o PR separado mudar esse título, atualizar o texto do link.
+
+### Notas da revisão (16/10/2026)
+
+**Pendências resolvidas (sites oficiais, consultados em 16/10/2026):**
+- Preços I Wanna Sleep (`iwannasleep.com.br/products.json`): Snow Regular R$ 367 e Plus R$ 417; Original Látex P/M/G R$ 327/347/447; Coluna Relax R$ 227; Magnum R$ 267; Airgelly R$ 497; Pena e Pluma R$ 267; Pluma Premium R$ 997; Pillow Top Magnum casal R$ 1.947. Todos iguais ao briefing.
+- Preços Ortobom (página do produto, região São Paulo, cidade 9668): iguais ao briefing nos 12 travesseiros. Em Belo Horizonte (2754), iguais, exceto Essence Plus sem preço.
+- Pró Látex (`/p/travesseiro/travesseiro-pro-latex/3470`): a ficha traz "enchimento: espuma de alta resiliência 100% poliuretano" e "Material Látex". Os dois trechos estão na tabela, sem comentário.
+- HR Gel: é o Pillow Top HR Gel da Ortobom (`/p/roupa-de-cama/pillow-top-hr-gel/10511`, casal 188 × 138 cm), R$ 719, 6 cm de altura. A ficha diz lâmina de espuma gel de 5,0 cm; o briefing dizia "6 cm de espuma", então corrigi. Categoria: roupa de cama. Confirmado, não cortado.
+- King Premium: "qualquer posição de dormir, seja de lado, de costas ou de barriga para baixo", na descrição da página. Conforto Regulável: "todas as posições". Duas alturas confirmadas nos dois.
+- Lavagem confirmada nas páginas: capa do Snow (à mão, baixa temperatura), Original Látex (à mão, temperatura fria), Coluna Relax (à mão ou modo delicado), Pena e Pluma (à mão, água fria). Enchimentos não laváveis. Magnum: não lava, a seco ou profissional.
+- Magnum "10 cm quando afofado": na descrição da página.
+- Links: 4 no total, 1 para cada artigo interno e 1 para `/cupons/i-wanna-sleep`.
+
+**Cortes e mudanças:**
+- Tirado "à vista, no Pix": o Pix não foi confirmado; o texto diz "preço da página".
+- Tirados os [CONFERIR] das posições e da lavagem.
+- Tirado "nenhum corrige colchão afundado" (sem linha na matriz) e "Conforto Regulável na altura baixa" (sem fonte).
+- "Não testamos" tirado da FAQ e de Como comparamos; ficou na resposta rápida e na transparência.
+- Tabela de preço reduzida à conta do cupom; os preços-base ficam no quadro de par a par.
+
+**Para o Bruno:**
+1. O `products.json` tem anúncios "(Oferta)" não usados: Magnum R$ 247, Snow Regular R$ 307 e Pillow Top Magnum casal R$ 1.504,30. A conta usa o preço da página principal.
+2. A FAQ repete fatos das seções, por desenho do briefing. Se quiser zero repetição, corto a FAQ para só perguntas.
+3. Posições do Snow, Original Látex e Airgelly (quadro de posições) e a política Sleeptest (rev. 2024) não foram rechecadas nesta passada.
+4. Original Látex G (15 cm) está à venda (R$ 447), mas o FAQ fala só em 11 e 13 cm. Citado pelo seletor.
+
+## Texto aprovado
+
+### Resposta rápida
+
+- **Para gastar menos:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.
+- **Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.
+- **Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, segundo a ficha.
+- **Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.
+- **Pillow top:** a I Wanna Sleep vende pillow top para colchão. Não é travesseiro. A comparação com o HR Gel, da Ortobom, fica no fim do artigo.
+
+Não testamos. Dados dos sites oficiais em 16/10/2026.
+
+### Como comparamos
+
+Usamos o que as duas marcas publicam nos próprios sites: lista de modelos, fichas de produto, garantia, troca e entrega. A Ortobom não é parceira do site: não entra com link nem código.
+
+Firmeza é só a que cada marca declara. Não medimos nada, e as avaliações de clientes não entram como prova.
+
+O preço da Ortobom é o da página do produto, com São Paulo (capital) como cidade, porque o site muda o valor conforme a região. Consulta de 16/10/2026.
+
+Lemos os 16 modelos de travesseiro da lista da Ortobom, com 12 fichas de produto, e as páginas de sete travesseiros da I Wanna Sleep. Nápoles, Amore e Soneca aparecem em buscas, mas não estão no catálogo online da Ortobom em 16/10/2026, então ficam de fora.
+
+### Par a par por material
+
+Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido. Preços de 16/10/2026.
+
+| Material | I Wanna Sleep | Ortobom |
+|---|---|---|
+| Látex | Original Látex: látex natural tailandês, 40 × 60 cm, 11, 13 ou 15 cm — R$ 327 / R$ 347 / R$ 447 | Nenhum modelo lido tem látex natural. O Pró Látex (14 cm, firme, R$ 259) e o Pró Látex Gel (R$ 549) têm espuma de poliuretano na ficha |
+| Viscoelástico | Snow: flocos de memory foam com gel, ajustável até 18 cm — R$ 367 (50 × 70 cm) | Viscopur: 14 cm, firme, R$ 169 · Viscopur Gel: R$ 399 · Flock (espuma flocada): 14 cm, firme, R$ 179 |
+| Cervical / contorno | Cervical Coluna Relax — R$ 227 | Anatomic Visco: 12 × 52 × 38 cm, firme — R$ 199 |
+| Regulável | Snow: você retira flocos para ajustar a altura | Conforto Regulável (fibra, duas alturas, macio) — R$ 159 · King Premium (placa de viscoelástica removível, médio) — R$ 299 |
+| Fibra macia | Magnum Pluma AirFiber: 16 cm, 45 × 65 cm — R$ 267 | Royal Pillow (macio) — R$ 159 · Essence Plus, 90 × 50 cm (médio) — R$ 499 |
+| Pluma | Pena e Pluma, 20% pluma e 80% pena de ganso, 15 cm — R$ 267 · Pluma Premium, 100% pluma, 17 cm — R$ 997 | Pluma de Ganso, 100% pluma de ganso (macio) — R$ 599 |
+| Lavável inteiro | Airgelly: 9 cm de um lado e 11 cm do outro, lavável em água — R$ 497 | Fibras, Anatomic Visco e King Premium: lavagem até 40 °C, pela ficha |
+
+### O que tem dentro do Pró Látex
+
+A ficha do Pró Látex, da Ortobom (14 × 40 × 60 cm, firme, R$ 259), traz os dois campos abaixo.
+
+| Campo da ficha | Texto da ficha |
+|---|---|
+| Composição do produto | enchimento: espuma de alta resiliência 100% poliuretano |
+| Material | Látex |
+
+Quem procura látex natural encontra a palavra na ficha da I Wanna Sleep: o Original Látex é "feito em 100% látex natural Tailandês".
+
+### Escolha pelo jeito de dormir
+
+| Posição | I Wanna Sleep | Ortobom |
+|---|---|---|
+| De lado | Snow com mais enchimento; Original Látex M ou G; Cervical Coluna Relax (o FAQ da página diz que funciona para quem dorme de lado e de costas) | Conforto Regulável, "todas as posições"; King Premium, "qualquer posição de dormir", pela descrição da página |
+| De costas | Cervical Coluna Relax; Original Látex P ou M | Viscopur ("costas ou bruços") |
+| De bruços | Snow com menos enchimento; Original Látex P (11 cm); Airgelly no lado de 9 cm | Viscopur, pela descrição da página |
+| Não sabe a altura | Snow | Conforto Regulável ou King Premium |
+
+Os detalhes do Snow ficam em [Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir](/reviews/travesseiro-i-wanna-sleep-ou-emma), e as linhas da I Wanna Sleep estão em [Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep).
+
+### Lavagem e cuidados
+
+Na Ortobom, a ficha define a lavagem de cada modelo. Aceitam lavagem até 40 °C:
+
+- Conforto Regulável, Royal Pillow e Essence Plus (fibra siliconada);
+- Anatomic Visco;
+- King Premium.
+
+Não podem ser lavados: Pró Látex, Pró Látex Gel, Viscopur, Viscopur Gel, Flock, Sonho e Pluma de Ganso.
+
+Na I Wanna Sleep, o Airgelly é lavável em água, inteiro. O Magnum não lava: a marca indica lavagem a seco ou profissional. Nos outros, só a capa vai à lavagem, à mão: a do Snow em baixa temperatura, a do Original Látex em temperatura fria, a do Pena e Pluma em água fria e a da Coluna Relax à mão ou no modo delicado. O enchimento de todos eles não pode ser lavado.
+
+### Teste, troca, garantia e frete
+
+Dados dos sites oficiais em 16/10/2026. A I Wanna Sleep dá o teste mais claro: 30 dias nos travesseiros, com crédito para troca. A Ortobom não informa teste nas páginas de travesseiro; o que ela dá é garantia de 90 dias.
+
+| Ponto | I Wanna Sleep | Ortobom |
+|---|---|---|
+| Teste em casa | 30 dias (uso mínimo de 15), com crédito para outro produto | Não informado nas páginas |
+| Arrependimento | 7 dias (lei) | 7 dias corridos do recebimento |
+| Garantia | Não informada nas páginas | 90 dias (Viscopur Gel: mais 1 ano na espuma) |
+| Frete | Grátis acima de R$ 150; conferir no carrinho | Calculado pelo CEP |
+| Onde comprar | Site, para todo o Brasil, e lojas da Grande BH | Site e lojas em vários estados |
+
+Na I Wanna Sleep, a troca pede pelo menos 15 dias de uso, dentro dos 30, com o travesseiro em bom estado, etiqueta e nota fiscal. O crédito serve para outro produto do site, e o frete da troca sai sem custo. Na Ortobom, a troca só entra por defeito: o SAC analisa com fotos e nota, e a troca sai 30 dias depois da validação. A entrega sai de segunda a sexta, das 9h às 18h, sem agendamento.
+
+### Preço e cupom
+
+O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep, em todas as formas de pagamento. A página da loja diz que o desconto pode variar conforme a campanha. As regras estão na [página do cupom da I Wanna Sleep](/cupons/i-wanna-sleep).
+
+| Modelo I Wanna Sleep | Com CECIEMCASA (conta nossa) |
+|---|---|
+| Snow Regular, 50 × 70 cm | R$ 330,30 |
+| Original Látex, 13 cm (M) | R$ 312,30 |
+| Cervical Coluna Relax | R$ 204,30 |
+| Magnum Pluma AirFiber, 16 cm | R$ 240,30 |
+
+A conta é nossa: 10% sobre o preço da página, sem frete. O valor final aparece no carrinho.
+
+A Ortobom não tem cupom nosso: a marca não é parceira, e não temos código dela. O preço da Ortobom muda conforme a cidade informada no site. Em Belo Horizonte, consultados em 16/10/2026, os 11 modelos com preço na página tiveram os mesmos valores de São Paulo. O Essence Plus não trouxe preço nessa consulta.
+
+### Pillow top: Magnum ou HR Gel
+
+A I Wanna Sleep vende o Pillow Top Magnum Pluma AirFiber: 10 cm de altura quando afofado, segundo a marca, e R$ 1.947 no casal. A Ortobom vende o Pillow Top HR Gel: 6 cm de altura, com lâmina de espuma gel de 5 cm, e R$ 719 no casal, em 16/10/2026.
+
+A diferença está na altura e no preço. O HR Gel custa pouco mais de um terço do Magnum e tem 4 cm a menos.
+
+Para tamanhos, instalação e cuidados do Magnum, leia [Pillow Top Magnum IWS vale a pena? Guia para colchão duro](/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas).
+
+### Quando procurar um profissional
+
+Travesseiro é escolha de conforto, não tratamento. Dor persistente no pescoço ou dormência nos braços pede avaliação de um ortopedista ou fisioterapeuta antes de trocar de travesseiro.
+
+### Perguntas frequentes
+
+- I Wanna Sleep ou Ortobom: qual escolher? Para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.
+- Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.
+- Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.
+- O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com "Material: Látex" no campo de material.
+- Qual a altura do Viscopur da Ortobom? 14 cm, com 40 × 60 cm; a marca o indica para quem dorme de costas ou de bruços.
+- Qual travesseiro Ortobom tem altura regulável? O Conforto Regulável e o King Premium, em duas alturas cada.
+- Dá para lavar travesseiro Ortobom? Depende do modelo; a lista está em "Lavagem e cuidados".
+- O cupom CECIEMCASA vale nos travesseiros da I Wanna Sleep? Sim, 10% OFF em todo o site, em todas as formas de pagamento; o desconto pode variar conforme a campanha.
+
+### Nota de transparência
+
+Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Os dados de preço, teste, garantia e frete vêm dos sites oficiais, consultados em 16/10/2026. Não testamos nenhum dos travesseiros. As contas do cupom e as comparações são nossas, feitas sobre o que as páginas informam.
