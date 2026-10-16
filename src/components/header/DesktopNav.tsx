@@ -59,9 +59,11 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
   };
 
   // Com o mouse, o hover já abriu a lista quando o clique chega: o clique só abre. Teclado e toque alternam.
-  const toggle = (id: ListId, event: ReactMouseEvent) => {
+  const lastPointer = useRef<string | null>(null);
+  const toggle = (id: ListId) => {
     clearTimer();
-    const pointerType = (event.nativeEvent as PointerEvent).pointerType;
+    const pointerType = lastPointer.current;
+    lastPointer.current = null;
     if (pointerType === 'mouse') {
       setOpenList(id);
       return;
@@ -166,13 +168,16 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
       aria-controls={`header-lista-${id}`}
       aria-label={id === 'reviews' ? label : undefined}
       aria-current={current}
-      onClick={(event) => toggle(id, event)}
+      onPointerDown={(event) => {
+        lastPointer.current = event.pointerType;
+      }}
+      onClick={() => toggle(id)}
       className={`flex items-center gap-1 whitespace-nowrap text-sm transition-colors ${className}`}
     >
       {content}
       <ChevronDown
         aria-hidden="true"
-        className={`h-3.5 w-3.5 transition-transform ${openList === id ? 'rotate-180' : ''}`}
+        className={`h-3.5 w-3.5 motion-safe:transition-transform ${openList === id ? 'rotate-180' : ''}`}
       />
     </button>
   );

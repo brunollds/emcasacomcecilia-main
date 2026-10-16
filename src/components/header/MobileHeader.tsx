@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
+import { flushSync } from 'react-dom';
 import { ChevronRight, Search, X } from 'lucide-react';
 import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
@@ -42,6 +43,7 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
   const [lastPathname, setLastPathname] = useState(pathname);
   const menuButtonRef = useRef<HTMLButtonElement>(null);
   const searchButtonRef = useRef<HTMLButtonElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const tapTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Mudou de página: menu e busca fecham, e as categorias voltam a seguir a seção da página nova.
@@ -85,7 +87,13 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
 
   const toggleSearch = () => {
     setMenuOpen(false);
-    setSearchOpen(!searchOpen);
+    if (searchOpen) {
+      setSearchOpen(false);
+      return;
+    }
+    // O foco tem de sair dentro do clique, senão o iOS não abre o teclado: o campo sai do inert antes.
+    flushSync(() => setSearchOpen(true));
+    searchInputRef.current?.focus();
   };
 
   const closeMenu = () => setMenuOpen(false);
@@ -137,7 +145,7 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
         {menu.searchLabels ? (
           <>
             <div id={SEARCH_ID} className="header-busca" inert={!searchOpen}>
-              {searchOpen && <OmniSearch autoFocus tone="light" fullWidthResults />}
+              <OmniSearch inputRef={searchInputRef} tone="light" fullWidthResults />
             </div>
             <button
               ref={searchButtonRef}
@@ -241,7 +249,7 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
             </ul>
           )}
 
-          {isPt ? (
+          {menu.dicasLabels ? (
             <div className="header-cascata flex flex-wrap gap-2 px-4 pb-4 pt-1" style={cascade(lastBlockIndex)}>
               <Link
                 href={brandLinks.dicas}
@@ -250,7 +258,7 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
                 onClick={closeMenu}
                 className="rounded-full bg-[#ff6b35] px-[15px] py-[7px] text-[13px] font-semibold text-white"
               >
-                {menu.dicasLabels?.long}
+                {menu.dicasLabels.long}
               </Link>
               <Link
                 href={brandLinks.damie}

@@ -61,7 +61,7 @@ export default function LanguageSwitcher({ localeKey, label, mobile = false }: L
           {activeLocale.shortLabel}
           <ChevronDown
             aria-hidden="true"
-            className={`h-3.5 w-3.5 transition-transform ${isLanguageOpen ? 'rotate-180' : ''}`}
+            className={`h-3.5 w-3.5 motion-safe:transition-transform ${isLanguageOpen ? 'rotate-180' : ''}`}
           />
         </span>
       </button>

@@ -114,6 +114,7 @@ const enRows: ActiveRow[] = [
   ['/en/reviews', '', 'reviews', null, '/en/reviews'],
   ['/en/reviews/how-to-find-valid-yesstyle-coupon-codes', '', 'reviews', null, null],
   ['/en/coupons/yesstyle', '', 'yesstyle', null, '/en/coupons/yesstyle'],
+  ['/en/coupons/yesstyle/x', '', 'yesstyle', null, null],
   ['/en/coupons/shein', '', 'shein', null, '/en/coupons/shein'],
   ['/en/coupons/temu', '', null, null, null],
   ['/en', '', null, null, null],

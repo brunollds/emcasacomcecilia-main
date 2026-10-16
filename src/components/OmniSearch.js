@@ -55,6 +55,8 @@ export default function OmniSearch({
   // No celular, os resultados abrem sob a linha do header, na largura da tela: o painel se prende ao
   // primeiro ancestral posicionado de quem usa, e não ao campo.
   fullWidthResults = false,
+  // Ref do campo, para quem precisa dar o foco dentro de um clique (o iOS só abre o teclado assim).
+  inputRef = undefined,
 }) {
   const light = tone === 'light';
   const panelPlacement = fullWidthResults
@@ -174,6 +176,7 @@ export default function OmniSearch({
           className={`pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 ${light ? 'text-marinho-suave' : 'text-white/60'}`}
         />
         <input
+          ref={inputRef}
           type="text"
           autoFocus={autoFocus}
           value={query}
