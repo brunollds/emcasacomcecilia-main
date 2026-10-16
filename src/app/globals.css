@@ -1048,3 +1048,17 @@ html:lang(ja) {
     font-size: 7pt !important;
   }
 }
+
+/* Listas suspensas do header (computador): entram com um deslize curto */
+@media (prefers-reduced-motion: no-preference) {
+  .header-lista {
+    transition: opacity 0.18s ease-out, translate 0.18s ease-out;
+  }
+
+  @starting-style {
+    .header-lista {
+      opacity: 0;
+      translate: 0 -6px;
+    }
+  }
+}

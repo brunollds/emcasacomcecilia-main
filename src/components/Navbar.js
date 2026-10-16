@@ -1,25 +1,25 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
-import { Menu, X, ArrowRight, Search } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { Menu, X } from 'lucide-react';
 import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
 import LanguageSwitcher from '@/components/header/LanguageSwitcher';
+import DesktopNav from '@/components/header/DesktopNav';
+import { useActiveNav } from '@/components/header/useActiveNav';
 import {
   getShellCommercialLinks,
   getShellCopy,
   getShellHomeHref,
   getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
+import { getShellMenu } from '@/lib/i18n/shellMenu';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
 
 export default function Navbar({ lang = 'pt-BR' }) {
   const [isOpen, setIsOpen] = useState(false);
-  const [isDesktopSearchOpen, setIsDesktopSearchOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
-  const desktopSearchRef = useRef(null);
-  const desktopSearchButtonRef = useRef(null);
 
   // Map htmlLang back to internal locale key (e.g. 'pt-BR' -> 'pt', 'en' -> 'en', 'ja' -> 'ja', 'zh-Hant' -> 'zh-hant')
   const localeKey = findLocaleByHtmlLang(lang) || 'pt';
@@ -29,6 +29,8 @@ export default function Navbar({ lang = 'pt-BR' }) {
   const navLinks = getShellNavLinks(localeKey);
   const commercialLinks = getShellCommercialLinks(localeKey);
   const homeHref = getShellHomeHref(localeKey);
+  const menu = getShellMenu(localeKey);
+  const active = useActiveNav(localeKey);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -37,29 +39,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
-
-  useEffect(() => {
-    if (!isDesktopSearchOpen) return undefined;
-
-    const handlePointerDown = (event) => {
-      if (!desktopSearchRef.current?.contains(event.target)) {
-        setIsDesktopSearchOpen(false);
-      }
-    };
-    const handleKeyDown = (event) => {
-      if (event.key === 'Escape') {
-        setIsDesktopSearchOpen(false);
-        desktopSearchButtonRef.current?.focus();
-      }
-    };
-
-    document.addEventListener('pointerdown', handlePointerDown);
-    document.addEventListener('keydown', handleKeyDown);
-    return () => {
-      document.removeEventListener('pointerdown', handlePointerDown);
-      document.removeEventListener('keydown', handleKeyDown);
-    };
-  }, [isDesktopSearchOpen]);
 
   return (
     <header className={`sticky top-0 z-50 transition-all duration-300 print:hidden ${scrolled ? 'shadow-md' : ''}`} style={{ background: '#0f1d3a' }}>
@@ -103,93 +82,14 @@ export default function Navbar({ lang = 'pt-BR' }) {
             </span>
           </Link>
 
-          {/* Navegação Desktop: busca sobrepõe os links editoriais, preservando ações comerciais. */}
-          <div className="hidden min-w-0 flex-1 items-center xl:flex">
-            <div className="relative flex min-w-0 flex-1 items-center gap-4">
-              {isPt && (
-                <button
-                  ref={desktopSearchButtonRef}
-                  type="button"
-                  aria-label="Abrir busca"
-                  aria-expanded={isDesktopSearchOpen}
-                  aria-controls="header-desktop-search"
-                  onClick={() => setIsDesktopSearchOpen(true)}
-                  className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full border border-white/20 bg-white/8 text-white/70 transition-all hover:border-white/45 hover:bg-white/14 hover:text-white"
-                >
-                  <Search className="h-4.5 w-4.5" />
-                </button>
-              )}
-
-              <nav className="flex min-w-0 items-center gap-4">
-                {navLinks.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className="whitespace-nowrap text-sm font-medium text-white/78 transition-colors hover:text-white"
-                  >
-                    {link.label}
-                  </Link>
-                ))}
-              </nav>
-
-              {isPt && isDesktopSearchOpen && (
-                <div
-                  ref={desktopSearchRef}
-                  id="header-desktop-search"
-                  className="absolute -inset-y-1 left-0 right-0 z-30 flex items-center gap-2 bg-[#0f1d3a] py-1"
-                >
-                  <div className="min-w-0 flex-1">
-                    <OmniSearch autoFocus />
-                  </div>
-                  <button
-                    type="button"
-                    aria-label="Fechar busca"
-                    onClick={() => {
-                      setIsDesktopSearchOpen(false);
-                      desktopSearchButtonRef.current?.focus();
-                    }}
-                    className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full border border-white/20 text-white/70 transition-colors hover:border-white/45 hover:bg-white/10 hover:text-white"
-                  >
-                    <X className="h-4.5 w-4.5" />
-                  </button>
-                </div>
-              )}
-            </div>
-
-            <nav className="ml-4 flex flex-shrink-0 items-center gap-4">
-              {commercialLinks.map((link) => (
-                <Link
-                  key={link.id}
-                  href={link.href}
-                  className="whitespace-nowrap text-sm font-medium text-white/78 transition-colors hover:text-white"
-                >
-                  {link.label}
-                </Link>
-              ))}
-              {isPt && (
-                <Link
-                  href={brandLinks.damie}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="rounded-full border border-[#ffd700]/35 bg-[#ffd700]/10 px-3.5 py-1.5 text-sm font-bold text-[#ffd700] transition-all hover:border-[#ffd700]/70 hover:bg-[#ffd700]/18"
-                >
-                  {copy.damieLabel}
-                </Link>
-              )}
-              {isPt && (
-                <Link
-                  href={brandLinks.dicas}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-1.5 rounded-full bg-[#ff6b35] px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-[#ff5722]"
-                >
-                  Dicas
-                  <ArrowRight className="h-3.5 w-3.5" />
-                </Link>
-              )}
-              <LanguageSwitcher localeKey={localeKey} label={copy.languageLabel} />
-            </nav>
-          </div>
+          <DesktopNav
+            locale={localeKey}
+            menu={menu}
+            active={active}
+            copy={copy}
+            commercialLinks={commercialLinks}
+            isPt={isPt}
+          />
 
           {/* Mobile menu button */}
           <div className="flex w-full items-center justify-center border-y border-white/18 py-2 xl:hidden">
