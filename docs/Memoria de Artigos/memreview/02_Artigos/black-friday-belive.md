@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 65
@@ -250,3 +250,122 @@ Arquivos de apoio desta pesquisa (scratchpad/belive): `wc-*.json` (API de produt
 6. **Teste do cupom (prints do Bruno, 16/10/2026):** carrinho com Combo Doces COMPLETÃO 30 un. (R$ 179,90), Combo Experimentação COMPLETÃO 40 un. (R$ 217,90), Kit 10 Brownies Proteicos Double Chocolate (R$ 74,12) e Combo Doces 16 un. (R$ 104,90), todos com selo de oferta: subtotal R$ 576,82 (R$ 547,98 no Pix sem cupom); com o MAUAD, "Cupom: mauad -R$ 57,68", total R$ 519,14 e R$ 493,18 no Pix. Prints em `OneDrive/Imagens/Capturas de tela/Screenshot 2026-10-16 185508.png`, `185528.png` e `185543.png`.
 7. **Black Friday:** publicar já, como guia de preparação, e atualizar os preços na última semana de outubro. A página Black November entra como o que a loja já mostra, sem datas. O banner dos panetones entra, dizendo que ainda não há panetone à venda no site em 16/10/2026. A capa é um print datado da página Black November, em folha de opções para o Bruno. A posição na faixa da home e em `/black-friday` (`content/home-events.json`) é decidida pelo Bruno em outra sessão: o Job 4 não mexe nesse arquivo.
 8. **Ids:** os comparativos ficaram com 444 a 448 (#129). Os artigos da Belive começam no próximo id livre do `_manifest.json` no dia do Job 4.
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Revisão (Claude, 16/10/2026):** fatos fora do briefing conferidos nas páginas salvas da loja ("desde 2015", Pagar.me/Stone, parcelas a partir de R$ 35, caixa violada, 24 horas úteis do atendimento, faixa de R$ 170 no topo); contas refeitas; links cruzados entre os 4 artigos da Belive com o título certo; no máximo 2 links para `/cupons/belive` por artigo.
+- **Job 4:** ids a partir de 449 (os comparativos ficaram com 444 a 448); `affiliate` belive, `coupon` MAUAD, `cta.url` = `offerUrl` (https://belivebefree.com.br/); nota editorial de até 3 linhas, sem data; `isNew`; imagens em folha de opções, upload só com GO do Bruno. Os 4 vão ao ar juntos, porque se linkam.
+- **Recheck no dia do JSON:** preços, frete e a página Black November.
+- Capa: print datado da página Black November. A posição em `content/home-events.json` é decidida pelo Bruno em outra sessão; o Job 4 não mexe nesse arquivo.
+- O bolinho com MAUAD + Pix fica em R$ 3,91, pela convenção do teste (Pix sobre o valor com cupom).
+
+### Notas da revisão (16/10/2026)
+
+- Título SEO: "Black Friday Belive 2026: preços e cupom MAUAD". Descrição: "Black Friday Belive 2026: o que a loja já mostra sem datas, preços de página em outubro, o cupom MAUAD com Pix e o frete grátis por região."
+- JSON: `category: cupons-como-usar`, `reviewKind: guia`, `type: "Guia de Black Friday"`, `affiliate: "belive"`, `coupon: "MAUAD"`, `cta.url: "https://belivebefree.com.br/"` com `sponsored: true`. Nota editorial: "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD."
+- Matriz usada: cupom 10% (teste e couponsData); soma com oferta e Pix (teste); não vale no Mercado Livre (FAQ); página Black November e banners; maior desconto 20% nas oito páginas; panetone sem produto; frete por região (página de regras); pagamento (FAQ); preços de produto; declaração de produto; devolução e contato (FAQ e decisão 5); vendedora (rodapé); 27/11 (`dayAt`); histórico de 2024.
+- Fora do texto: "lanche escolar a partir de R$ 3,39" (não verificado); "frete grátis acima de R$ 150 hoje" (volátil); faixa de frete da FAQ, que diverge (decisão 1); "mais de 50 produtos"; "proteico" como benefício.
+- Conta a conferir: bolinho fit com MAUAD + Pix. Pela convenção do teste (valor com MAUAD × 0,95), dá R$ 3,91. A pauta trazia R$ 3,92 (conta sem arredondar). Usei R$ 3,91.
+- "Vale na primeira compra" vem da regra de redação, não da matriz de claims. Confirmar no cupom antes de publicar.
+- Links: só `/cupons/belive`, duas vezes, e o site da loja no CTA. Não linkei `belive-e-confiavel`, `belive-reclame-aqui-nota-reputacao` nem `cupom-belive-como-usar`, porque não existem em `content/reviews/`. Não citei o Let's Eat It, por decisão 4. Relacionados sugeridos no JSON: `black-friday-dr-peanut` e `black-friday-max-titanium` (ambos existem).
+- Capa: não incluída. A decisão 7 pede print datado da página Black November, em folha de opções para o Bruno. [CONFERIR: capa]
+
+## Texto aprovado
+
+### Resposta rápida
+
+- A Black Friday de 2026 é em **27 de novembro**. A Belive não anunciou data nem regra para a campanha.
+- A loja tem uma página chamada Black November. Em 16/10/2026, ela trazia o banner "até 30% de desconto + 5% extra no Pix em todo o site", sem datas.
+- O maior desconto que conferimos nas oito páginas de produto foi de 20%. O "até 30%" é texto do banner, não preço de produto.
+- O cupom **MAUAD** dá 10% em todas as formas de pagamento e soma com as ofertas do site.
+- Os preços abaixo são de 16/10/2026. Vamos conferi-los de novo na última semana de outubro.
+
+### O que a Belive já publicou
+
+A página Black November, em belivebefree.com.br, mostrava estes banners em 16/10/2026:
+
+- Até 30% de desconto + 5% de desconto extra no Pix, em todo o site.
+- Panetones com 5% de desconto + 5% extra no Pix.
+- Kit de panetones com frete de R$ 9,90.
+
+A página não traz datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.
+
+O banner de panetones não tem produto por trás. Em 16/10/2026, a busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.
+
+Em 2024, a mesma página tinha uma seção de panetones e frete grátis para todo o Brasil acima de R$ 150, por tempo limitado. A informação vem do Arquivo da Web (captura de 05/11/2024). Não encontramos registro público da campanha de 2025.
+
+### Preços de referência em 16/10/2026
+
+Estes são os preços que a página de cada produto mostrava em 16/10/2026. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout.
+
+| Produto | Preço de página | No Pix | Com MAUAD | MAUAD + Pix |
+|---|---|---|---|---|
+| Brownie de chocolate sem açúcar, 1 un. | R$ 6,97 | R$ 6,62 | R$ 6,27 | R$ 5,96 |
+| Kit com 10 brownies de chocolate sem açúcar | R$ 64,82 (de R$ 69,70) | R$ 61,58 | R$ 58,34 | R$ 55,42 |
+| Pão sem glúten tradicional (pão de forma) | R$ 22,90 | R$ 21,76 | R$ 20,61 | R$ 19,58 |
+| Pãozinho de batata sem glúten, pacote | R$ 20,90 | R$ 19,86 | R$ 18,81 | R$ 17,87 |
+| Bolinho de chocolate fit sem açúcar, 1 un. | R$ 4,58 (de R$ 5,39) | R$ 4,35 | R$ 4,12 | R$ 3,91 |
+| Kit com 10 bolinhos de chocolate fit sem açúcar | R$ 50,13 (de R$ 53,90) | R$ 47,62 | R$ 45,12 | R$ 42,86 |
+| Combo de salgadinhos snacks de arroz, 20 un. | R$ 95,90 (de R$ 103,80) | R$ 91,11 | R$ 86,31 | R$ 81,99 |
+| Salgadinho de queijo snack de arroz, 35 g | R$ 4,15 (de R$ 5,19) | R$ 3,94 | R$ 3,74 | R$ 3,55 |
+
+Um desconto de novembro só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.
+
+Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, conforme cada página. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar.
+
+### Quanto fica com o MAUAD e com o Pix
+
+O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.
+
+No teste de checkout de 16/10/2026, o carrinho tinha quatro combos e kits com selo de oferta:
+
+| Etapa | Valor |
+|---|---|
+| Subtotal dos produtos em oferta | R$ 576,82 |
+| Subtotal no Pix, sem cupom | R$ 547,98 |
+| Com MAUAD (desconto de R$ 57,68) | R$ 519,14 |
+| Com MAUAD e Pix | R$ 493,18 |
+
+O cupom entrou sobre o preço de oferta de cada item. Hoje o MAUAD soma com as ofertas. Não sabemos se ele vale do mesmo jeito durante a campanha de novembro, e não vamos afirmar isso. Na campanha, conferimos o carrinho e atualizamos este texto. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar).
+
+### Frete grátis e pagamento
+
+O frete grátis depende do estado. Segundo a página de regras de frete, o valor mínimo do pedido é:
+
+- SP, MG, RJ, DF e GO: a partir de R$ 170.
+- Sul: a partir de R$ 250.
+- Demais estados: a partir de R$ 300.
+
+O limite conta o valor sem o cupom. Aplicar o MAUAD não faz perder o frete grátis.
+
+A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho.
+
+A loja aceita cartão em até 2x sem juros, boleto e Pix.
+
+### Antes de novembro: o que conferir
+
+- Compare o preço da página no dia da compra com a tabela deste guia.
+- Coloque o MAUAD no carrinho e confira a linha de descontos.
+- Confira o frete pelo CEP antes de pagar.
+- Escolha o Pix por último, para ver o total final.
+
+Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). O produto precisa estar na embalagem original, sem uso e sem violação, com a nota fiscal. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.
+
+Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.
+
+Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel).
+
+### Perguntas frequentes
+
+- O MAUAD vale na Black Friday? Hoje ele soma com as ofertas do site. A Belive não publicou regra para novembro; conferimos na campanha e atualizamos este guia.
+- O MAUAD soma com o Pix? Sim. No teste de 16/10/2026, o Pix de 5% entrou depois do cupom.
+- O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.
+- A Belive já anunciou a data da Black Friday? Não. A página Black November não traz datas de início nem de fim.
+- Tem panetone à venda? Em 16/10/2026, não havia panetone no site, apesar do banner.
+- O cupom tira o frete grátis? Não. O limite de frete conta o valor sem o cupom.
+
+### Nota de transparência
+
+Este artigo é de parceria comissionada com a Belive: podemos receber comissão pelo uso do cupom MAUAD, sem custo para você. Preços, cupom e condições foram conferidos no site oficial da loja (belivebefree.com.br: página Black November, regras de frete, FAQ e páginas de produto) e em teste de checkout, em 16/10/2026.

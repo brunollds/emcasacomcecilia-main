@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 bloqueado_por: "prints do Reclame Aqui (seção 11)"
 score_autoridade: 70
 score_conversao: 64
@@ -272,3 +272,96 @@ artigo não fala nisso.
 | 2025 (01/01/2025 a 31/12/2025) | Boa, 7,5 | 59 | 100% | 0 | 75% | 68,8% | 32 | 6,22 | 1 dia e 23 horas |
 
    "Principais problemas comentados" (reclamações de até 3 anos, aba geral): categoria "Não encontrei meu problema" 30,67%; problema "Atraso na entrega" 4,29%. As abas 2024 e Geral não vieram: não citar. Prints em `OneDrive/Imagens/Capturas de tela/Screenshot 2026-10-16 201544.png` (topo), `201555.png` (6 meses), `201608.png` (12 meses), `201618.png` (2025) e `201627.png` (problemas). Com isso os portões 1 e 6 passam.
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Revisão (Claude, 16/10/2026):** fatos fora do briefing conferidos nas páginas salvas da loja ("desde 2015", Pagar.me/Stone, parcelas a partir de R$ 35, caixa violada, 24 horas úteis do atendimento, faixa de R$ 170 no topo); contas refeitas; links cruzados entre os 4 artigos da Belive com o título certo; no máximo 2 links para `/cupons/belive` por artigo.
+- **Job 4:** ids a partir de 449 (os comparativos ficaram com 444 a 448); `affiliate` belive, `coupon` MAUAD, `cta.url` = `offerUrl` (https://belivebefree.com.br/); nota editorial de até 3 linhas, sem data; `isNew`; imagens em folha de opções, upload só com GO do Bruno. Os 4 vão ao ar juntos, porque se linkam.
+- **Recheck no dia do JSON:** preços, frete e a página Black November.
+
+### Notas da revisão (16/10/2026)
+
+- **Principais problemas:** o briefing e o print dizem que a lista vem da aba geral, com reclamações de até 3 anos. A regra pede que a aba Geral não entre, mas o Bruno pediu os dois tipos de problema. Usei o bloco com o período impresso (até 3 anos). Confirmar.
+- **Não citados, porque não há print:** aviso fixado, selo Verificada ou RA1000, e outro perfil (NHD Foods). O hero e a lista de problemas dependem do print 1 e do print 4.
+- **Não citado:** frete grátis, porque a decisão 1 ainda pede o texto final. O CNPJ fica fora deste artigo.
+- **Links a conferir:** `/reviews/belive-e-confiavel` (o título "Belive é confiável?" é suposição), `/reviews/cupom-belive-como-usar` e `/cupons/belive`.
+- **CTA da loja:** cta.url `https://belivebefree.com.br/` (offerUrl de `couponsData.ts`), com `sponsored`. O corpo do texto não tem link externo.
+- **Matriz usada:** perfil, 6 meses, 12 meses, principais problemas, caminho de atendimento, tipos e campos do formulário, prazo de resposta, arrependimento, caixa violada, defeito e cancelamento de pedido. Não usadas: frete, aviso fixado, selos e outro perfil.
+- **Sem experiência própria:** o artigo não tem teste de produto. O teste de checkout do cupom (16/10/2026) não entra aqui.
+
+## Texto aprovado
+
+### Resposta rápida
+
+- A Belive tem reputação **Ótima** no Reclame Aqui nos últimos 6 meses, com nota 8,1. O período vai de 01/04 a 30/09/2026, e os dados são do perfil Belive Be Free consultado em 16/10/2026. Nesse período, a empresa recebeu 39 reclamações, respondeu todas e resolveu 80%.
+- O ponto mais fraco aparece nos 12 meses. A reputação cai para Boa, com nota 7,8, e só 70% de quem avaliou disse que voltaria a comprar.
+- Responder não é o mesmo que resolver. O perfil mostra as reclamações respondidas, mas a taxa de resolvidas ficou entre 75% e 80% nas três janelas.
+- Sobre a empresa por trás da marca e se ela é confiável, veja [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel).
+
+### Por que olhar o Reclame Aqui antes de comprar na Belive
+
+A Belive vende alimentos pela internet, como combos de doces e brownies proteicos. Para quem compra pela primeira vez, o Reclame Aqui mostra se a empresa responde, quantas reclamações ela resolve e se quem reclamou voltaria a comprar. Os números abaixo mudam todo dia, então vale abrir o perfil de novo antes de pagar.
+
+### Os números da Belive no Reclame Aqui
+
+O perfil se chama Belive Be Free e está na categoria Alimentos e Bebidas, Alimentos Diet e Light. Em 16/10/2026, o selo de reputação era Ótima. A tabela traz as três abas que o perfil mostra, cada uma com o seu período:
+
+| Indicador | 6 meses (01/04 a 30/09/2026) | 12 meses (01/10/2025 a 30/09/2026) | 2025 (01/01 a 31/12/2025) |
+|---|---|---|---|
+| Reputação | Ótima, nota 8,1 | Boa, nota 7,8 | Boa, nota 7,5 |
+| Reclamações recebidas | 39 | 70 | 59 |
+| Respondidas | 100% | 100% | 100% |
+| Aguardando | 0 | 0 | 0 |
+| Resolvidas | 80% | 80% | 75% |
+| Voltariam a fazer negócio | 80% | 70% | 68,8% |
+| Reclamações avaliadas | 15 | 30 | 32 |
+| Nota do consumidor | 7 | 6,6 | 6,22 |
+| Tempo médio de resposta | 1 dia e 2 horas | 1 dia e 13 horas | 1 dia e 23 horas |
+
+Os 6 meses são a janela mais forte. Nos 12 meses, a nota cai para 7,8 e o "voltariam" para 70%. Em 2025, ficaram em 7,5 e 68,8%.
+
+Esses números têm um limite. Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas, e a nota do consumidor e o "voltariam" falam só dessa parte. Eles mostram como a Belive foi avaliada por quem usou o Reclame Aqui, não a experiência de todos os compradores.
+
+### O que mais aparece nas reclamações
+
+Na lista de principais problemas do perfil, com reclamações de até 3 anos, aparecem duas linhas:
+
+- **Categoria:** "Não encontrei meu problema", com 30,67%.
+- **Problema:** atraso na entrega, com 4,29%.
+
+A categoria mais citada não diz qual é o problema. Entre os problemas nomeados no resumo do perfil, o atraso na entrega aparece com 4,29%.
+
+### Como a Belive responde
+
+O perfil diz que a Belive respondeu todas as reclamações nas três janelas. Para quem comprou, o que pesa é a resolução, e o perfil não diz o que aconteceu com as reclamações que não foram resolvidas.
+
+No site, o atendimento é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução.
+
+### Se o seu pedido der problema: o que fazer
+
+Estes são os caminhos que o site descreve, lidos em 16/10/2026:
+
+- **Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.
+- **Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.
+- **Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.
+- **Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.
+- **Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem sinal de uso ou violação, com nota fiscal. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso.
+
+### Parceria e cupom
+
+O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. O cupom dá 10% em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. Vale na primeira compra. No Mercado Livre, onde a Belive também vende, o cupom não vale. Os detalhes estão na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho, em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar).
+
+### Perguntas frequentes
+
+- A Belive é confiável segundo o Reclame Aqui? Em 16/10/2026, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.
+- Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses (de 01/04 a 30/09/2026), 7,8 nos últimos 12 meses e 7,5 em 2025, em consulta de 16/10/2026.
+- A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.
+- O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.
+- Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a embalagem original e a nota fiscal, por pedido formal ao SAC. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.
+- O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC.
+
+### Nota de transparência
+
+Este artigo é de parceria comissionada: o Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom MAUAD. Os números são do perfil público Belive Be Free no Reclame Aqui, consultados em 16/10/2026, nas abas de 6 meses, 12 meses e 2025. A parceria não altera esses números. As regras de atendimento, devolução e defeito são do site oficial belivebefree.com.br, lidas em 16/10/2026.

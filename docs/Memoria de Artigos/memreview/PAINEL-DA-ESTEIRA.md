@@ -7,10 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[belive-e-confiavel]] — Belive / é confiável? (Score Aut: 72 / Conv: 68)
-- [ ] [[belive-reclame-aqui-nota-reputacao]] — Belive / Reclame Aqui, perfil Belive Be Free (Score Aut: 70 / Conv: 64)
-- [ ] [[cupom-belive-como-usar]] — Belive / cupom MAUAD: como usar (Score Aut: 58 / Conv: 84)
-- [ ] [[black-friday-belive]] — Belive / Black Friday 2026, guia de preparação (Score Aut: 50 / Conv: 65)
 
 ---
 
@@ -33,6 +29,10 @@
 - [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84) — texto aprovado em 16/10, Job 4 na sessão de artigos
 - [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) — texto aprovado em 16/10, Job 4 na sessão de artigos
 - [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros (e pillow top) I Wanna Sleep ou Ortobom (Score Aut: 72 / Conv: 78) — texto aprovado em 16/10, Job 4 na sessão de artigos
+- [ ] [[belive-e-confiavel]] — Belive / é confiável? (Score Aut: 72 / Conv: 68) — texto aprovado em 16/10, Job 4 na sessão de artigos
+- [ ] [[belive-reclame-aqui-nota-reputacao]] — Belive / Reclame Aqui, perfil Belive Be Free (Score Aut: 70 / Conv: 64) — texto aprovado em 16/10, Job 4 na sessão de artigos
+- [ ] [[cupom-belive-como-usar]] — Belive / cupom MAUAD: como usar (Score Aut: 58 / Conv: 84) — texto aprovado em 16/10, Job 4 na sessão de artigos
+- [ ] [[black-friday-belive]] — Belive / Black Friday 2026, guia de preparação (Score Aut: 50 / Conv: 65) — texto aprovado em 16/10, Job 4 na sessão de artigos
 
 ---
 

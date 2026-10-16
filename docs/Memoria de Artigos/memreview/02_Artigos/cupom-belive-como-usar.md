@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação)"
+proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
 bloqueado_por: "Bruno: prints do teste de 16/10 e resposta sobre o frete (seção 9)"
 score_autoridade: 58
 score_conversao: 84
@@ -273,3 +273,139 @@ pendência, sem chutar a regra.
 4. **Código MAUAD:** não citar que o mesmo código é da Let's Eat It nem explicar o nome. Cada artigo fala só da Belive.
 5. **Devolução e defeito** (texto da loja colado pelo Bruno em 16/10/2026): arrependimento em 7 dias corridos a partir do recebimento (CDC); produto na embalagem original, sem uso nem violação, com nota fiscal; pedido formal a sac@nhdfoods.com.br dentro do prazo; o valor é devolvido depois da análise interna; nesse caso o frete é por conta da Belive. Defeito: fotografar os produtos, o lote e a validade e escrever para sac@nhdfoods.com.br; não há troca com indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada. A loja não publica prazo do reembolso: o texto diz que não está publicado.
 6. **Teste do cupom (prints do Bruno, 16/10/2026):** carrinho com Combo Doces COMPLETÃO 30 un. (R$ 179,90), Combo Experimentação COMPLETÃO 40 un. (R$ 217,90), Kit 10 Brownies Proteicos Double Chocolate (R$ 74,12) e Combo Doces 16 un. (R$ 104,90), todos com selo de oferta: subtotal R$ 576,82 (R$ 547,98 no Pix sem cupom); com o MAUAD, "Cupom: mauad -R$ 57,68", total R$ 519,14 e R$ 493,18 no Pix. Prints em `OneDrive/Imagens/Capturas de tela/Screenshot 2026-10-16 185508.png`, `185528.png` e `185543.png`.
+
+## Aprovação do texto (16/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 16/10/2026.
+
+- **Revisão (Claude, 16/10/2026):** fatos fora do briefing conferidos nas páginas salvas da loja ("desde 2015", Pagar.me/Stone, parcelas a partir de R$ 35, caixa violada, 24 horas úteis do atendimento, faixa de R$ 170 no topo); contas refeitas; links cruzados entre os 4 artigos da Belive com o título certo; no máximo 2 links para `/cupons/belive` por artigo.
+- **Job 4:** ids a partir de 449 (os comparativos ficaram com 444 a 448); `affiliate` belive, `coupon` MAUAD, `cta.url` = `offerUrl` (https://belivebefree.com.br/); nota editorial de até 3 linhas, sem data; `isNew`; imagens em folha de opções, upload só com GO do Bruno. Os 4 vão ao ar juntos, porque se linkam.
+- **Recheck no dia do JSON:** preços, frete e a página Black November.
+- O link do Mercado Livre (`https://meli.la/2xDjP2k`) é o mesmo do FAQ de `/cupons/belive`; no JSON, `sponsored`.
+
+### Notas da revisão (16/10/2026)
+
+- Matriz usada: código e 10% em todo o site; todas as formas de pagamento; campo "Código do cupom" e "Aplicar cupom" (passo a passo, a conferir com os prints do teste); teste de checkout (itens, R$ 576,82, R$ 547,98 no Pix, R$ 57,68, R$ 519,14, R$ 493,18); 5% do Pix; promoções; primeira compra; frete por região; Mercado Livre sem cupom; devolução (decisão 5); pedido mínimo.
+- A linha da matriz "Se o cupom baixa o total abaixo do valor da região, o frete pode ser cobrado: [ ] Não" foi superada pela decisão 1 (o limite conta sem o cupom). O texto afirma a regra como decisão do Bruno; não houve teste de frete de R$ 170 a R$ 180 em SP.
+- Os exemplos de carrinho foram refeitos pela regra da decisão 1. Não há "cobrado depois" em nenhum caso. Os valores são contas nossas, rotulados como tal.
+- Pergunta 5 do briefing (pedido mínimo) não foi respondida nas decisões. A frase "a loja não pede pedido mínimo" segue a matriz; confirmar com o Bruno.
+- Aviso de homônimo e linha da Let's Eat It: fora do texto, como pedido nas decisões 4. O nome do código não é explicado.
+- Links internos: `/cupons/belive` (2 vezes), `/reviews/belive-e-confiavel` e `/reviews/belive-reclame-aqui-nota-reputacao`. Os dois slugs de Belive ainda não estão em `content/reviews/`; conferir na publicação.
+- Mercado Livre: `https://meli.la/2xDjP2k` sem `rel="sponsored"`, como na matriz. Confirmar atribuição com o Bruno.
+- Imagens: não incluídas no texto. Os três prints do teste estão em `OneDrive/Imagens/Capturas de tela/` (185508, 185528, 185543). Entram pelo fluxo de `docs/GUIA-MIDIA-EDITORIAL.md` e precisam de marca-texto e de remoção de dados pessoais.
+- Nenhum `[CONFERIR]` pendente no texto.
+- Metadados sugeridos pelo redator, para o Job 4:
+  - slug: cupom-belive-como-usar
+  - title: Cupom Belive: como usar o MAUAD
+  - seoTitle: Cupom Belive: como usar o MAUAD e o que soma
+  - description: Como usar o cupom MAUAD na Belive: 10% OFF em todo o site, em todas as formas de pagamento. Passo a passo, o que soma com o Pix e o frete grátis por região.
+  - metaDescription: Cupom Belive MAUAD: 10% OFF em todo o site. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.
+  - category: cupons-como-usar | reviewKind: guia | type: Guia & Cupons
+  - coupon: MAUAD | affiliate: belive
+- Revisão (Claude): cortado o "pedido mínimo" (sem fonte); títulos dos links internos acertados; o link do Mercado Livre (meli.la) é o mesmo do FAQ de /cupons/belive.
+
+## Texto aprovado
+
+### Resposta rápida
+
+- Entre no site oficial da Belive pelo botão desta página, monte o carrinho e digite **MAUAD** no campo "Código do cupom". Clique em "Aplicar cupom".
+- O cupom dá **10% OFF em todo o site**, em **todas as formas de pagamento**. Vale na primeira compra e nas seguintes.
+- Ele soma com as promoções do site e com o desconto de 5% do Pix. No nosso teste de checkout de 16/10/2026, o carrinho de R$ 576,82 foi para R$ 519,14 e, no Pix, para R$ 493,18.
+- O frete grátis é calculado sobre o valor do carrinho antes do cupom. Aplicar o MAUAD não faz perder o frete grátis.
+- No Mercado Livre o cupom não vale: lá a Belive vende pelo preço do anúncio.
+
+### O que é o cupom MAUAD da Belive
+
+O MAUAD é o código de desconto da Belive, digitado no carrinho do site oficial, belivebefree.com.br. O desconto vale no site inteiro. No nosso teste, os quatro itens eram combos de doces e um kit de brownies proteicos.
+
+O cupom vale para conta nova e para quem já comprou na loja.
+
+### 1. Entre no site oficial pelo botão desta página
+
+Use o botão da Belive desta página para abrir o site oficial. O código você digita no carrinho, no passo 3. As condições do cupom ficam na [página do cupom da Belive](/cupons/belive).
+
+### 2. Monte o carrinho
+
+Escolha os produtos e abra o carrinho. Produtos em oferta também entram no desconto: no nosso teste, os quatro itens já estavam com selo de oferta e todos levaram os 10%.
+
+Antes de digitar o código, veja o subtotal e compare com o mínimo de frete grátis da sua região, na tabela mais abaixo.
+
+### 3. Digite MAUAD em "Código do cupom" e clique em "Aplicar cupom"
+
+No carrinho, o campo se chama "Código do cupom", com o botão "Aplicar cupom". Digite **MAUAD**. Copiar o código pelo botão desta página evita erro de digitação.
+
+### 4. Confira o desconto no resumo antes de pagar
+
+Depois de aplicar, o resumo mostra o cupom como "Cupom: mauad -R$ 57,68", com o total já abatido. Confira essas duas linhas antes de pagar.
+
+### Quanto sai com o cupom: a conta do nosso teste
+
+Teste de checkout feito em 16/10/2026, com os quatro itens do carrinho:
+
+| Item | Valor |
+|---|---|
+| Combo Doces COMPLETÃO 30 un. (em oferta) | R$ 179,90 |
+| Combo Experimentação COMPLETÃO 40 un. (em oferta) | R$ 217,90 |
+| Kit 10 Brownies Proteicos Double Chocolate (em oferta) | R$ 74,12 |
+| Combo Doces 16 un. (em oferta) | R$ 104,90 |
+| Subtotal, sem cupom | R$ 576,82 |
+| Desconto MAUAD, 10% | -R$ 57,68 |
+| Total com o cupom | R$ 519,14 |
+| Total com o cupom e o Pix (5% a mais) | R$ 493,18 |
+
+Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa).
+
+### O 5% do Pix soma com o cupom
+
+O site oferece 5% de desconto no Pix. No teste, esse desconto entrou sobre o valor que já tinha os 10% do cupom: R$ 519,14 vezes 0,95 dá R$ 493,18. Os dois descontos somam, e o total final ficou R$ 83,64 abaixo do subtotal de R$ 576,82 (conta nossa).
+
+### Frete grátis: o valor que conta é o de antes do cupom
+
+O frete grátis da Belive depende do valor do pedido e da região. Na página de regras de frete do site, em 16/10/2026, os valores eram:
+
+| Região | Frete grátis acima de |
+|---|---|
+| SP, MG, RJ, DF e GO | R$ 170 |
+| Sul | R$ 250 |
+| Demais estados | R$ 300 |
+
+O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha. A faixa "frete grátis a partir de R$170" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar.
+
+### Três exemplos de carrinho
+
+Contas nossas com valores redondos, não preços da loja:
+
+| Caso | Subtotal | Com MAUAD (10%) | Com MAUAD e Pix (+5%) | Frete grátis? |
+|---|---|---|---|---|
+| A: carrinho de R$ 180 em SP | R$ 180,00 | R$ 162,00 | R$ 153,90 | Sim, porque R$ 180 passa de R$ 170 antes do cupom |
+| B: carrinho de R$ 260 no Sul | R$ 260,00 | R$ 234,00 | R$ 222,30 | Sim, porque R$ 260 passa de R$ 250 antes do cupom |
+| C: carrinho de R$ 320 em outro estado | R$ 320,00 | R$ 288,00 | R$ 273,60 | Sim, porque R$ 320 passa de R$ 300 antes do cupom |
+
+No caso A, o total cai para R$ 162, abaixo de R$ 170, e o frete segue grátis. Por isso o valor que você compara com o mínimo da região é o do subtotal, sem o desconto.
+
+### Promoções, primeira compra e Mercado Livre
+
+- **Promoções:** o cupom soma com as promoções do site. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor que vale é o do resumo do pedido.
+- **Primeira compra:** o cupom vale na primeira compra e também para quem já comprou.
+- **Mercado Livre:** a Belive também vende no Mercado Livre, onde é a loja oficial. O cupom não vale lá: o preço é o do [anúncio da Belive no Mercado Livre](https://meli.la/2xDjP2k).
+
+### Se precisar devolver um produto comprado com cupom
+
+O cupom não muda a regra de devolução. Pela política da loja, lida em 16/10/2026, o arrependimento vale por 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem uso nem violação, com a nota fiscal, e o pedido formal vai para sac@nhdfoods.com.br dentro do prazo. O valor volta depois da análise interna, e nesse caso o frete é por conta da Belive. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. O prazo de reembolso não está publicado no site. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel).
+
+### Vale a pena usar o cupom?
+
+Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as formas de pagamento, e o Pix soma por cima. Antes de pagar, confira o desconto no resumo e o frete com o seu CEP. A nota da loja no Reclame Aqui está em [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao), e as condições do cupom ficam na [página do cupom da Belive](/cupons/belive).
+
+### Perguntas frequentes
+
+- Qual é o cupom da Belive? É o MAUAD, digitado no campo "Código do cupom" do carrinho do site oficial. Ele dá 10% OFF em todo o site.
+- O cupom Belive vale na primeira compra? Sim. Vale na primeira compra e também para quem já comprou.
+- O MAUAD soma com o Pix? Sim. No teste de 16/10/2026, o 5% do Pix entrou sobre o valor que já tinha os 10%: R$ 519,14 foi para R$ 493,18.
+- O MAUAD soma com produto em promoção? Sim. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor exato aparece no resumo do pedido.
+- O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio.
+- A Belive tem frete grátis? Sim: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom.
+
+### Nota de transparência
+
+Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: site oficial da Belive (belivebefree.com.br), a página de regras de frete do site, o texto de devolução da loja e o nosso teste de checkout de 16/10/2026. Frete e desconto mudam com o tempo: confira no carrinho antes de pagar.
