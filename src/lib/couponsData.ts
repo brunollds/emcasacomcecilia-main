@@ -857,7 +857,8 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD vale no Mercado Livre?',
         answer:
-          "Não. O MAUAD é usado no checkout do site oficial da Let's Eat It e não vale no Mercado Livre nem em outros marketplaces.",
+          "Não. O MAUAD é usado no checkout do site oficial da Let's Eat It e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.",
+        mercadoLivreUrl: 'https://meli.la/1RHKLYr',
       },
       {
         question: 'Por que o cupom se chama MAUAD?',

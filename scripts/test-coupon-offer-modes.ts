@@ -109,6 +109,7 @@ const mercadoLivreLinks: Record<string, string> = {
   'nestle-nutre': 'https://meli.la/2zH895L',
   'i-wanna-sleep': 'https://meli.la/33vyTDP',
   probiotica: 'https://meli.la/1U1ttvv',
+  letseatit: 'https://meli.la/1RHKLYr',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
