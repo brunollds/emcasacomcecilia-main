@@ -3,6 +3,8 @@ import { getPrimaryRewardCode, getLatestYesStyleVerifiedAtISO } from './yesstyle
 export interface CouponFAQ {
   question: string;
   answer: string;
+  // Link de afiliado da marca no Mercado Livre, como veio do Bruno. Sai como sponsored e o clique é medido.
+  mercadoLivreUrl?: string;
 }
 
 export interface CouponHistory {
@@ -184,6 +186,12 @@ export const COUPONS: Coupon[] = [
           'Sim. O CECILIA12 soma com todas as promoções e descontos do site da DAMIE, inclusive o desconto de 10% no Pix e o desconto por quantidade que os consultores dão pelo WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%. Confira o resumo do checkout antes de finalizar.',
       },
       {
+        question: 'O cupom CECILIA12 vale no Mercado Livre?',
+        answer:
+          'Não. O CECILIA12 vale só no checkout do site oficial da DAMIE. A DAMIE também vende pelos anúncios dela no Mercado Livre, que é como atende o Norte e o Nordeste, mas lá vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/25cdWK4',
+      },
+      {
         question: 'O cupom inclui frete grátis?',
         answer:
           'Não. O cupom aplica desconto no valor dos produtos. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
@@ -277,7 +285,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, até 3 usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Pode variar conforme campanha ativa da loja oficial',
+    combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-01',
     testNote:
       'Aplicamos o CECI no checkout da loja oficial Dolce Gusto, num carrinho acima de R$ 100, e os 5% de desconto apareceram no resumo do pedido.',
@@ -300,6 +308,12 @@ export const COUPONS: Coupon[] = [
           'Sim, o cupom aceita até 3 usos por CPF. Depois disso, o checkout deixa de aplicar o desconto para o mesmo cadastro.',
       },
       {
+        question: 'O cupom CECI vale no Mercado Livre?',
+        answer:
+          'Não. O CECI é usado no checkout do site oficial da Dolce Gusto e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/1Dj5ZpJ',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom concede desconto nos produtos; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
@@ -307,7 +321,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI é cumulativo?',
         answer:
-          'Depende da campanha vigente. Cupons costumam não acumular com outras promoções, mas alguns kits podem aceitar desconto. O valor final do carrinho é a referência.',
+          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -339,7 +353,7 @@ export const COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'na loja oficial',
-      note: 'Pode variar conforme campanha ativa da loja',
+      note: 'Soma com as promoções vigentes da loja oficial',
     },
   },
   {
@@ -501,7 +515,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Pode variar conforme campanha ativa da loja oficial',
+    combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-04',
     testNote:
       'Num carrinho de R$ 1.121,84, o CECI aplicou R$ 112,18 de desconto, os 10%, e o total caiu para R$ 1.009,66.',
@@ -529,6 +543,12 @@ export const COUPONS: Coupon[] = [
           'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
       },
       {
+        question: 'O cupom CECI vale no Mercado Livre?',
+        answer:
+          'Não. O CECI é usado no checkout do site oficial da Nestlé Nutre e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2zH895L',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
@@ -536,7 +556,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI é cumulativo?',
         answer:
-          'Pode variar conforme campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -594,7 +614,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Pode variar conforme campanha ativa da loja oficial',
+    combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-01',
     testNote:
       'Aplicamos o CECIEMCASA no checkout do site da I Wanna Sleep, e os 10% de desconto apareceram no resumo do pedido.',
@@ -617,6 +637,12 @@ export const COUPONS: Coupon[] = [
           'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
       },
       {
+        question: 'O cupom CECIEMCASA vale no Mercado Livre?',
+        answer:
+          'Não. O CECIEMCASA é usado no checkout do site oficial da I Wanna Sleep e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/33vyTDP',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
@@ -624,7 +650,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECIEMCASA é cumulativo?',
         answer:
-          'Pode variar conforme campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+          'Sim. O CECIEMCASA soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -679,7 +705,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja Magazine Você',
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
-      'Em regra, cupons não acumulam com outras promoções; confirme no checkout',
+      'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
     lastVerified: '2026-10-01',
     testNote:
       'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
@@ -709,7 +735,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Os cupons são cumulativos com outras promoções?',
         answer:
-          'Em regra, estes códigos da Cecília não acumulam com outras promoções ou códigos na loja Magazine Você da Cecília. O valor final exibido no checkout é sempre a referência.',
+          'Sim. Os códigos da Cecília somam com as promoções vigentes da loja Magazine Você da Cecília e com o desconto do Pix. O valor final exibido no checkout é sempre a referência.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -807,7 +833,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Vale com todas as formas de pagamento e soma com o desconto de 5% do Pix; aceito em produtos com preço promocional e em pré-venda (teste de 02/10/2026); soma com outros cupons conforme regras da loja',
+      'Soma com as promoções vigentes do site, inclusive em pré-venda (teste de 02/10/2026), e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
     lastVerified: '2026-10-02',
     testNote:
       'O MAUAD foi aceito num carrinho com um item em pré-venda e outro com preço promocional, com R$ 179,10 de desconto sobre R$ 3.582,10, e também num pedido de um único item de R$ 62,90.',
@@ -823,6 +849,16 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom MAUAD vale no Pix e em outras formas de pagamento?',
         answer:
           "Sim. O MAUAD vale com todas as formas de pagamento da Let's Eat It e soma com o desconto de 5% que muitos produtos têm no Pix.",
+      },
+      {
+        question: "O cupom MAUAD vale na primeira compra na Let's Eat It?",
+        answer: 'Sim. O MAUAD vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom MAUAD vale no Mercado Livre?',
+        answer:
+          "Não. O MAUAD é usado no checkout do site oficial da Let's Eat It e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.",
+        mercadoLivreUrl: 'https://meli.la/1RHKLYr',
       },
       {
         question: 'Por que o cupom se chama MAUAD?',
@@ -890,7 +926,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Não acumula com outro cupom: a loja aceita um cupom por pedido. No teste de 05/10/2026 valeu em peça do Outlet e em kit com preço promocional',
+      'Soma com as promoções vigentes da loja online, como o Outlet e os kits com preço promocional (teste de 05/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
     lastVerified: '2026-10-07',
     testNote:
       'Nos testes de 5 e 7 de outubro, uma Core T-Shirt de R$ 189,00 saiu por R$ 160,65 com o EMCASACOMCECILIA. O cupom também valeu em peças do Outlet, em kits com preço promocional e numa meia sozinha no carrinho, sem valor mínimo.',
@@ -937,6 +973,12 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
         answer: 'Não. O cupom EMCASACOMCECILIA é para compras na loja online.',
+      },
+      {
+        question: 'O cupom EMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O EMCASACOMCECILIA é usado no checkout da loja online da Insider e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2TijWRi',
       },
       {
         question: 'O link já aplica o cupom?',
@@ -1168,7 +1210,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Conforme regras da loja; o valor final do checkout é a referência',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     lastVerified: '2026-10-13',
     testNote:
       'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 659,35 com kit de colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 604,60, com R$ 54,75 de desconto. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
@@ -1194,6 +1236,22 @@ export const COUPONS: Coupon[] = [
         question: 'Onde coloco o cupom na Probiótica?',
         answer:
           'No carrinho do site oficial, no campo "Cupom de Desconto", antes de continuar para o pagamento.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 13/10/2026, o cupom deu desconto também na creatina que já estava com preço promocional.',
+      },
+      {
+        question: 'O cupom PRO10EMCASACOMCECILIA vale na primeira compra na Probiótica?',
+        answer:
+          'Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom PRO10EMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O PRO10EMCASACOMCECILIA é usado no checkout do site oficial da Probiótica e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/1U1ttvv',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -1255,7 +1313,17 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAX10EMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Max Titanium.',
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale na primeira compra na Max Titanium?',
+        answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O MAX10EMCASACOMCECILIA é usado no checkout do site oficial da Max Titanium e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2wysiEJ',
       },
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
@@ -1334,6 +1402,16 @@ export const COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
       },
       {
+        question: 'O cupom DREMCASACOMCECILIA vale na primeira compra na Dr. Peanut?',
+        answer: 'Sim. O DREMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom DREMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O DREMCASACOMCECILIA é usado no checkout do site oficial da Dr. Peanut e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/1wNsKJB',
+      },
+      {
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 13/10/2026, os 10% entraram também na pasta de amendoim que já estava com preço promocional.',
@@ -1402,6 +1480,16 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom CECILIA10 vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom CECILIA10 vale na primeira compra na Black Skull?',
+        answer: 'Sim. O CECILIA10 vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom CECILIA10 vale no Mercado Livre?',
+        answer:
+          'Não. O CECILIA10 é usado no checkout do site oficial da Black Skull e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/1R7Zwan',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -1541,7 +1629,17 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
-          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, para conta nova e para quem já comprou na Cléa Store.',
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale na primeira compra na Cléa Store?',
+        answer: 'Sim. O CSEMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O cupom CSEMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O CSEMCASACOMCECILIA é usado no checkout do site oficial da Cléa Store e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/1t3kn5d',
       },
       {
         question: 'O cupom soma com produtos em promoção?',

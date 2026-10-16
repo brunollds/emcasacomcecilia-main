@@ -96,6 +96,44 @@ for (const slug of ['probiotica', 'max-titanium']) {
   assert.match(getCouponBySlug(slug)?.monthlyHighlight?.note ?? '', /pode ser menor/, `${slug} sem o aviso de até 10%`);
 }
 
+// Links de afiliado das marcas no Mercado Livre (Bruno, 16/10/2026), cada um no FAQ "vale no Mercado Livre?"
+// da loja e como veio: um caractere a menos e a comissão se perde.
+const mercadoLivreLinks: Record<string, string> = {
+  'clea-store': 'https://meli.la/1t3kn5d',
+  'dr-peanut': 'https://meli.la/1wNsKJB',
+  'black-skull': 'https://meli.la/1R7Zwan',
+  'max-titanium': 'https://meli.la/2wysiEJ',
+  damie: 'https://meli.la/25cdWK4',
+  insider: 'https://meli.la/2TijWRi',
+  'dolce-gusto': 'https://meli.la/1Dj5ZpJ',
+  'nestle-nutre': 'https://meli.la/2zH895L',
+  'i-wanna-sleep': 'https://meli.la/33vyTDP',
+  probiotica: 'https://meli.la/1U1ttvv',
+  letseatit: 'https://meli.la/1RHKLYr',
+};
+for (const coupon of COUPONS) {
+  const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
+  const expected = mercadoLivreLinks[coupon.slug];
+  if (!expected) {
+    assert.equal(linked.length, 0, `${coupon.slug} não tem link do Mercado Livre`);
+    continue;
+  }
+  assert.equal(linked.length, 1, `${coupon.slug}: um link do Mercado Livre, no FAQ do Mercado Livre`);
+  assert.match(linked[0].question, /Mercado Livre\?$/, `${coupon.slug}: o link vai na pergunta do Mercado Livre`);
+  assert.equal(linked[0].mercadoLivreUrl, expected, `${coupon.slug}: link do Mercado Livre diferente do enviado`);
+}
+
+// Regra do Bruno (16/10/2026): todo cupom soma com as promoções vigentes da loja, e só a exceção confirmada
+// aparece no texto, a Magazine Você da Magalu inclusive. A YesStyle (código de recompensa) segue regra própria, e a
+// Kopenhagen está pausada.
+const ownAccumulationRules = new Set(['yesstyle', 'kopenhagen']);
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code' || ownAccumulationRules.has(coupon.slug)) continue;
+  assert.match(coupon.combinable, /soma com (todas )?as promoções/i, `${coupon.slug}: combinable sem a soma com as promoções`);
+  const vague = coupon.faqs.find((faq) => /pode variar conforme campanha|costumam não acumular/i.test(faq.answer));
+  assert.equal(vague, undefined, `${coupon.slug}: FAQ ainda diz que a soma com promoções pode variar`);
+}
+
 // A Lejour é só indicação: cadastro pelo link, sem código nem desconto.
 const lejour = getCouponBySlug('lejour');
 assert.ok(lejour && lejour.offerMode === 'affiliate-link', 'Lejour deve existir como affiliate-link');

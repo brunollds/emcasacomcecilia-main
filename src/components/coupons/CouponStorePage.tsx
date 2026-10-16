@@ -519,7 +519,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                 : copy.faqTitle.link(offerTypePlural, coupon.brand)}
             </SectionHeading>
             <div className="mt-5">
-              <CouponFaq items={coupon.faqs} />
+              <CouponFaq items={coupon.faqs} brand={coupon.brand} />
             </div>
           </section>
 
