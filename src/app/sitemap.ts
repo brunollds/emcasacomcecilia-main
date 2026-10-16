@@ -7,6 +7,7 @@ import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTrans
 import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { getEventHubPage, getEventHubPaths } from '@/lib/homeEvents';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
+import { OTHERS_SHELF_PATH, getOthersShelfContent } from '@/lib/reviewsHub';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -59,6 +60,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'weekly' as const,
     lastModified: newestDate(getStoreArticlesPage(publishedReviews, slug)?.articles ?? []),
   }));
+
+  // Os artigos fora das lojas ativas (/reviews/outros), quando passam de 2.
+  const othersContent = getOthersShelfContent(publishedReviews);
+  const othersSlugs = new Set(othersContent?.articles.map((article) => article.slug));
+  const othersRoutes: MetadataRoute.Sitemap = othersContent
+    ? [
+        {
+          url: `${BASE_URL}${OTHERS_SHELF_PATH}`,
+          priority: 0.6,
+          changeFrequency: 'weekly' as const,
+          lastModified: newestDate(publishedReviews.filter((review) => othersSlugs.has(review.slug))),
+        },
+      ]
+    : [];
 
   // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu), com a
   // data do artigo mais novo da edição que a página mostra.
@@ -146,6 +161,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...recipeRoutes,
     ...reviewRoutes,
     ...storeArticleRoutes,
+    ...othersRoutes,
     ...eventHubRoutes,
     ...videoRoutes,
     ...couponRoutes,
