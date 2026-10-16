@@ -1700,7 +1700,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
-      'Frete grátis acima de R$ 170, segundo a faixa do site em 16/10/2026, com condições da loja; abaixo disso, o frete é calculado no checkout',
+      'Frete grátis por região, segundo as regras de frete da loja em 16/10/2026: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
     lastVerified: '2026-10-16',
@@ -1751,7 +1751,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'A Belive tem frete grátis?',
         answer:
-          'Em 16/10/2026, a faixa do site anunciava frete grátis acima de R$ 170, com condições da loja. Abaixo disso, o frete é calculado no checkout.',
+          'Sim, com valor mínimo por região. Em 16/10/2026, as regras de frete da loja davam frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',

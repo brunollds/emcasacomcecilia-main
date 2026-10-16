@@ -109,7 +109,7 @@ Para cada oferta ativa, reconferir:
 | `lejour` | Lejour | indicação por link, sem código | tabela de planos no dossiê | Conferir preços, taxas e saques dos planos Basic, Premium e Pro, que a FAQ cita com data. A indicação não dá desconto: nenhum texto pode chamá-la de cupom. Não editar o link. |
 | `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` | — | Como na Probiótica: o desconto chega a 10% e varia por produto; testar com um carrinho misto e manter o aviso "pode ser menor" no destaque, nas regras e na FAQ. Conferir se os brindes do carrinho continuam com o cupom. |
 | `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir que o pedido segue gerando cashback e a faixa de frete grátis (R$ 599 em 14/10/2026). |
-| `belive` | Belive | `MAUAD` | — | Testar os 10% com um item em oferta e conferir que o total no Pix ainda tira os 5% e a faixa de frete grátis (R$ 170 em 16/10/2026). O MAUAD é o mesmo da Let's Eat It: testar nas duas lojas. |
+| `belive` | Belive | `MAUAD` | — | Testar os 10% com um item em oferta e conferir que o total no Pix ainda tira os 5% e as faixas de frete grátis por região em belivebefree.com.br/regras-de-frete (16/10/2026: R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul, R$ 300 nos demais). O MAUAD é o mesmo da Let's Eat It: testar nas duas lojas. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 

@@ -19,7 +19,7 @@ prateleira de alimentação de `/cupons`.
 |---|---|---|---|---|---|---|
 | Cupom `MAUAD`: 10% OFF em todo o site | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `belive`) | 2026-10-16 | 2026-11-16 | Todas as formas de pagamento; conta nova e antiga; soma com as promoções (regra do Bruno, 16/10) | Alta |
 | Soma com os 5% de desconto do Pix | condicao_comercial_volatil | Print do checkout de 16/10/2026 | 2026-10-16 | 2026-11-16 | O carrinho com o cupom mostrou o "Total no PIX (5% de desconto)" sobre o valor já com os 10% | Alta |
-| Frete grátis acima de R$ 170 | condicao_comercial_volatil | Faixa do site | 2026-10-16 | 2026-11-16 | A faixa tem asterisco (condições da loja); no mesmo dia, outra faixa dizia "hoje tem frete grátis acima de R$ 150". Citar só o R$ 170 com "condições da loja" | Média |
+| Frete grátis por região: acima de R$ 170 em SP, MG, RJ, DF e GO; R$ 250 no Sul; R$ 300 nos demais estados | condicao_comercial_volatil | belivebefree.com.br/regras-de-frete (página modificada em 28/02/2025) | 2026-10-16 | 2026-11-16 | A faixa do topo do site só mostra o R$ 170 (com asterisco), e outra faixa dizia "hoje tem frete grátis acima de R$ 150". Citar sempre os três valores por região. Achado da sessão de pautas, conferido na página | Alta |
 | Sem link de afiliado: `offerUrl` é o site oficial | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-16 | 2026-11-16 | A atribuição é pelo cupom | Alta |
 | Link de afiliado da marca no Mercado Livre: `https://meli.la/2xDjP2k` | condicao_comercial_volatil | Bruno, 16/10/2026; `mercadoLivreUrl` no FAQ | 2026-10-16 | 2026-11-16 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 
