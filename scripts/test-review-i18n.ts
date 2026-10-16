@@ -127,8 +127,9 @@ const uiLeaves = (value: unknown, prefix: string): [string, string][] =>
       : value && typeof value === 'object'
         ? Object.entries(value).flatMap(([key, child]) => uiLeaves(child, `${prefix}.${key}`))
         : [];
+// O link da caixa do Bruno só existe em português (null nos outros idiomas), então não entra na comparação de campos.
 const articleUiLeaves = (locale: Locale) => [
-  ...uiLeaves(getArticleCopy(locale), 'article'),
+  ...uiLeaves(getArticleCopy(locale), 'article').filter(([field]) => field !== 'article.brunoBoxLink'),
   ...uiLeaves(getGalleryCopy(locale), 'gallery'),
   ...uiLeaves(getShareCopy(locale), 'share'),
 ];
