@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]], [[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "aprovacao-do-bruno"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: null
 score_autoridade: 78
@@ -298,3 +298,12 @@ Com o CECILIA10, os preços da Black Skull caem 10% (Whey 100% HD pote: R$ 134,9
 6. **Soma do cupom da Max Titanium com o Pix:** o guia de Black Friday afirma que soma. Foi testado ou é regra informada pela loja? Se não houver confirmação, o texto vira "o desconto do Pix aparece no pagamento; confira o total".
 7. **Imagem de capa:** montagem com fotos oficiais de produto das duas lojas (Whey 100% HD e Creator × 100% Whey e Creatina 300 g). Pode, ou prefere gráfico nosso sem foto?
 8. **"Como saber se é original"** (Black Skull e Max Titanium): anotado como pauta futura, fora deste artigo. Quer que entre na fila do Job 1?
+
+## Decisões do Bruno (16/10/2026)
+
+1. **Percentual do cupom:** usar "até 10%" para a Max Titanium e a Probiótica, sem discriminar o desconto por whey, sabor ou apresentação (kits e grupos do catálogo, como o "…Cupom 2%", podem ter percentual diferente; discriminar seria um trabalho próprio).
+2. **Probiótica:** o cupom soma com as promoções do site (o `couponsData.ts` é corrigido na sessão de cupons).
+3. **Loja do bloco (`affiliate`/`coupon`):** Black Skull em "Black Skull ou Max Titanium"; Max Titanium em "Max Titanium ou Probiótica". O texto leva aos dois cupons.
+4. **Sabor:** sem degustação por enquanto (não há material); os artigos saem sem falar de sabor. Um artigo de teste pode vir no futuro.
+5. **Capa:** montagem com fotos oficiais das duas marcas, em folha de opções para o Bruno aprovar.
+6. **Max Titanium:** o cupom soma com o desconto de até 5% do Pix e do boleto (confirmado pelo Bruno em 14/10/2026).

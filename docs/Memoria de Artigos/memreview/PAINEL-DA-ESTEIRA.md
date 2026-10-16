@@ -7,10 +7,10 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (briefing; Score Aut: 80 / Conv: 85)
-- [ ] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (briefing; Score Aut: 78 / Conv: 82)
-- [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (briefing; Score Aut: 78 / Conv: 84)
-- [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (briefing; Score Aut: 80 / Conv: 76)
+- [ ] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85)
+- [ ] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82)
+- [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84)
+- [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76)
 - [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / Pillow Top Magnum ou HR Gel da Ortobom (briefing; Score Aut: 70 / Conv: 76)
 
 ---

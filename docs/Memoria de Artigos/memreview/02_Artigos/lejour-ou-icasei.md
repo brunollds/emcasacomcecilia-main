@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 nota_publicacao: null
 bloqueado_por: null
@@ -373,3 +373,9 @@ repassada ao convidado, o casal recebe os R$ 20.000 nas três, e quem paga a dif
   `/lista-de-casamento`, `/site-de-casamento`, busca de `ajuda.casar.com` ("juros", "parcelamento").
   `lejour.com.br/`, `/planos/`, `/blog/taxas-lista-de-presentes/`.
 - Nenhum CAPTCHA, login ou carrinho. Nenhum cupom de terceiro consultado ou citado.
+
+## Decisões do Bruno (16/10/2026)
+
+1. **Planos da Lejour (página de planos, colada pelo Bruno em 16/10/2026):** Basic gratuito; Premium vitalício, "Melhor custo-benefício", de R$ 179,90 por R$ 99,90, uma única vez ou em até 12x ("Mais vendido"); Pro vitalício, "Experiência completa", R$ 199,90, uma única vez ou em até 12x.
+2. **Tempo do site (central de ajuda da Lejour, artigo de 24/10/2025, colado pelo Bruno):** o painel de administração fica ativo por tempo indeterminado; o acesso dos convidados ao site fica disponível por até 90 dias depois da data do casamento, com a lista de presentes funcionando nesse período. Depois, o acesso público é encerrado e o casal segue no painel, inclusive para resgatar saldo. Há um produto adicional para salvar o site em PDF.
+3. **Capa:** montagem com prints oficiais das plataformas, em folha de opções para o Bruno aprovar.

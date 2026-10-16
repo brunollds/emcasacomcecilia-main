@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]], [[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "aprovacao-do-bruno"
+proxima_acao: "Job 2 (redação)"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 85
@@ -370,3 +370,12 @@ H1: **Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por do
 6. **Erro na página da Creatina 300 g da Max:** o modo de preparo diz "marcação 3g no dosador", mas a
    tabela diz porção de 5 g. O artigo usa a tabela. Quer avisar a loja?
 7. **Escopo:** whey e creatina só. Barras, pré-treino e colágeno ficam de fora. Ok?
+
+## Decisões do Bruno (16/10/2026)
+
+1. **Percentual do cupom:** usar "até 10%" para a Max Titanium e a Probiótica, sem discriminar o desconto por whey, sabor ou apresentação (kits e grupos do catálogo, como o "…Cupom 2%", podem ter percentual diferente; discriminar seria um trabalho próprio).
+2. **Probiótica:** o cupom soma com as promoções do site (o `couponsData.ts` é corrigido na sessão de cupons).
+3. **Loja do bloco (`affiliate`/`coupon`):** Black Skull em "Black Skull ou Max Titanium"; Max Titanium em "Max Titanium ou Probiótica". O texto leva aos dois cupons.
+4. **Sabor:** sem degustação por enquanto (não há material); os artigos saem sem falar de sabor. Um artigo de teste pode vir no futuro.
+5. **Capa:** montagem com fotos oficiais das duas marcas, em folha de opções para o Bruno aprovar.
+6. **Max Titanium:** o cupom soma com o desconto de até 5% do Pix e do boleto (confirmado pelo Bruno em 14/10/2026).

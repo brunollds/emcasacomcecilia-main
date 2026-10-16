@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "Job 2 (redação)"
 publicado_em: null
 bloqueado_por: "Perguntas para o Bruno (degustação da Cecília muda a classe e o título)"
 score_autoridade: 80
@@ -219,3 +219,9 @@ Nota para a redação: na porção de 15 g a proteína do Chocolate Branco (3 g)
 4. **Imagens:** posso usar as fotos oficiais dos potes do CDN da loja na capa (identificação do produto do parceiro), recortando os banners com "gorduras boas" e "fonte de energia"?
 5. **Whey no recorte:** manter o whey como seção (recomendado: "whey dr peanut qual melhor sabor" está no autocomplete) ou deixar só a pasta?
 6. **Pautas anotadas:** "Dr. Peanut é saudável?" e "Dr. Peanut ou La Ganexa" seguem para outro briefing?
+
+## Decisões do Bruno (16/10/2026)
+
+1. **Sabor:** sem degustação por enquanto (não há material). O artigo sai pelo recorte de dados (rótulo, preço, mais vendidos segundo a loja), sem eleger o mais gostoso. Um artigo de teste pode vir no futuro.
+2. **Capa:** montagem com fotos oficiais dos potes, em folha de opções para o Bruno aprovar.
+3. **"É saudável?" e "ou La Ganexa":** ficam para outra leva de pautas.
