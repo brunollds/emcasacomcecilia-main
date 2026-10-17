@@ -7,6 +7,9 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[isosource-1-5-para-que-serve]] — Nestlé Nutre / Isosource 1.5 Sem Sabor: para que serve, como usar e quanto rende o litro (Score Aut: 72 / Conv: 68) — rótulo e preço de 17/10 no briefing
+- [ ] [[nanlac-supreme-pro-1-a-3-anos]] — Nestlé Nutre / Nanlac Supreme Pro 1 a 3 anos: composição, preparo e o recolhimento de janeiro (Score Aut: 58 / Conv: 55) — rótulo e preço de 17/10 no briefing
+- [ ] [[nutren-a-z-multi-para-que-serve]] — Nestlé Nutre / Nutren A-Z Multi 60 cápsulas: composição por cápsula e como tomar (Score Aut: 62 / Conv: 58) — rótulo físico de 17/10 no briefing
 
 ---
 
