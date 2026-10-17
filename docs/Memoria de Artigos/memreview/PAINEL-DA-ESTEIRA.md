@@ -13,6 +13,10 @@
 - [ ] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
 - [ ] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (score a calcular com o rótulo do Nutridrink)
 - [ ] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
+- [ ] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Score Aut: 58 / Conv: 66)
+- [ ] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Espresso e Espresso Intenso; score a calcular)
+- [ ] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (score a calcular)
+- [ ] [[cafe-au-lait-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (com Desnatado e Vanilla; Score Aut: 55 / Conv: 62)
 
 ---
 
