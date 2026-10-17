@@ -12,6 +12,8 @@ export interface ShellCopy {
   tagline: string;
   openMenuLabel: string;
   closeMenuLabel: string;
+  openSearchLabel: string;
+  closeSearchLabel: string;
   languageLabel: string;
   homeLabel: string;
   hubLabel: string;
@@ -33,6 +35,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Receitas que dão certo',
     openMenuLabel: 'Abrir menu',
     closeMenuLabel: 'Fechar menu',
+    openSearchLabel: 'Abrir busca',
+    closeSearchLabel: 'Fechar busca',
     languageLabel: 'Idioma',
     homeLabel: 'Início',
     hubLabel: 'Cupons',
@@ -52,6 +56,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Home recipes & honest reviews',
     openMenuLabel: 'Open menu',
     closeMenuLabel: 'Close menu',
+    openSearchLabel: 'Open search',
+    closeSearchLabel: 'Close search',
     languageLabel: 'Language',
     homeLabel: 'Home',
     hubLabel: 'YesStyle Coupons',
@@ -71,6 +77,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Recetas caseras y opiniones sinceras',
     openMenuLabel: 'Abrir menú',
     closeMenuLabel: 'Cerrar menú',
+    openSearchLabel: 'Abrir búsqueda',
+    closeSearchLabel: 'Cerrar búsqueda',
     languageLabel: 'Idioma',
     homeLabel: 'Inicio',
     hubLabel: 'Cupones YesStyle',
@@ -90,6 +98,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Recettes maison et avis sincères',
     openMenuLabel: 'Ouvrir le menu',
     closeMenuLabel: 'Fermer le menu',
+    openSearchLabel: 'Ouvrir la recherche',
+    closeSearchLabel: 'Fermer la recherche',
     languageLabel: 'Langue',
     homeLabel: 'Accueil',
     hubLabel: 'Coupons YesStyle',
@@ -109,6 +119,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Erprobte Rezepte & ehrliche Reviews',
     openMenuLabel: 'Menü öffnen',
     closeMenuLabel: 'Menü schließen',
+    openSearchLabel: 'Suche öffnen',
+    closeSearchLabel: 'Suche schließen',
     languageLabel: 'Sprache',
     homeLabel: 'Startseite',
     hubLabel: 'YesStyle Gutscheine',
@@ -128,6 +140,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'Ricette di casa e recensioni sincere',
     openMenuLabel: 'Apri il menu',
     closeMenuLabel: 'Chiudi il menu',
+    openSearchLabel: 'Apri la ricerca',
+    closeSearchLabel: 'Chiudi la ricerca',
     languageLabel: 'Lingua',
     homeLabel: 'Home',
     hubLabel: 'Coupon YesStyle',
@@ -147,6 +161,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: '홈 레시피 & 솔직한 리뷰',
     openMenuLabel: '메뉴 열기',
     closeMenuLabel: '메뉴 닫기',
+    openSearchLabel: '검색 열기',
+    closeSearchLabel: '검색 닫기',
     languageLabel: '언어',
     homeLabel: '홈',
     hubLabel: 'YesStyle 쿠폰',
@@ -166,6 +182,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: 'レシピと誠実なレビュー',
     openMenuLabel: 'メニューを開く',
     closeMenuLabel: 'メニューを閉じる',
+    openSearchLabel: '検索を開く',
+    closeSearchLabel: '検索を閉じる',
     languageLabel: '言語',
     homeLabel: 'ホーム',
     hubLabel: 'YesStyle クーポン',
@@ -185,6 +203,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: '家常食譜與真實評測',
     openMenuLabel: '開啟選單',
     closeMenuLabel: '關閉選單',
+    openSearchLabel: '開啟搜尋',
+    closeSearchLabel: '關閉搜尋',
     languageLabel: '語言',
     homeLabel: '首頁',
     hubLabel: 'YesStyle 優惠碼',
@@ -204,6 +224,8 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     tagline: '家常食谱与真实测评',
     openMenuLabel: '打开菜单',
     closeMenuLabel: '关闭菜单',
+    openSearchLabel: '打开搜索',
+    closeSearchLabel: '关闭搜索',
     languageLabel: '语言',
     homeLabel: '首页',
     hubLabel: 'YesStyle 优惠码',

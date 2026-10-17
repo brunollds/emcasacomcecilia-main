@@ -27,7 +27,7 @@ export interface ShellMenu {
   primary: Array<NavItem & { children?: NavItem[] }>;
   more: NavItem[];
   moreLabel: string | null;
-  searchLabels: { open: string; close: string } | null;
+  searchLabels: { open: string; close: string };
   reviewsListLabel: string | null;
   dicasLabels: { short: string; long: string } | null;
   footerLabels: { house: string; partners: string } | null;
@@ -50,12 +50,16 @@ const PT_MORE: NavItem[] = [
 ];
 
 export function getShellMenu(locale: Locale): ShellMenu {
+  const copy = getShellCopy(locale);
+  // A lupa existe nos 10 idiomas; fora do PT, ela busca no índice do idioma (artigos e lojas).
+  const searchLabels = { open: copy.openSearchLabel, close: copy.closeSearchLabel };
+
   if (locale !== 'pt') {
     return {
-      primary: [{ id: 'reviews', href: getReviewHubPath(locale), label: getShellCopy(locale).reviewHubLabel }],
+      primary: [{ id: 'reviews', href: getReviewHubPath(locale), label: copy.reviewHubLabel }],
       more: [],
       moreLabel: null,
-      searchLabels: null,
+      searchLabels,
       reviewsListLabel: null,
       dicasLabels: null,
       footerLabels: null,
@@ -80,7 +84,7 @@ export function getShellMenu(locale: Locale): ShellMenu {
     ],
     more: PT_MORE,
     moreLabel: 'Mais',
-    searchLabels: { open: 'Abrir busca', close: 'Fechar busca' },
+    searchLabels,
     reviewsListLabel: 'Categorias de Guias & Análises',
     dicasLabels: { short: 'Dicas', long: 'Dicas & Ofertas' },
     footerLabels: { house: 'Em Casa', partners: 'Parceiros' },

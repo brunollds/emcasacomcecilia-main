@@ -3,41 +3,35 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Search, X, ArrowRight } from 'lucide-react';
+import { getSearchCopy } from '@/components/search/searchCopy';
 import { formatRecipeTime } from '@/lib/recipeTime';
-import {
-  SITE_SEARCH_PATH,
-  getRankedSearchResults,
-  getSearchContentTypeLabel,
-} from '@/lib/siteSearch.mjs';
+import { getReviewHubPath } from '@/lib/review-hubs';
+import { SITE_SEARCH_PATH, getRankedSearchResults, getSearchIndexPath } from '@/lib/siteSearch.mjs';
 
-// Índice slim gerado no build (scripts/content/build-index.mjs -> public/search-index.json).
-// Carregado sob demanda no 1º foco; a promise fica em cache no módulo para que as
-// instâncias de desktop e mobile compartilhem um único fetch.
-let indexPromise = null;
-let indexCache = null;
+// Índices slim gerados no build (scripts/content/build-index.mjs -> public/search-index*.json): o do PT
+// e um por idioma. Carregado sob demanda no 1º foco; a promise fica em cache no módulo, por idioma,
+// para que as instâncias de desktop e mobile compartilhem um único fetch.
+const indexPromises = new Map();
 
-async function loadSearchIndex() {
-  if (indexCache) return indexCache;
-
-  if (!indexPromise) {
-    indexPromise = fetch('/search-index.json')
+function loadSearchIndex(locale) {
+  if (!indexPromises.has(locale)) {
+    const indexPath = getSearchIndexPath(locale);
+    const promise = fetch(indexPath)
       .then((res) => {
         if (!res.ok) {
-          throw new Error(`Falha ao carregar search-index.json (${res.status})`);
+          throw new Error(`Falha ao carregar ${indexPath} (${res.status})`);
         }
         return res.json();
       })
-      .then((data) => {
-        indexCache = Array.isArray(data) ? data : [];
-        return indexCache;
-      })
+      .then((data) => (Array.isArray(data) ? data : []))
       .catch((error) => {
-        indexPromise = null;
+        indexPromises.delete(locale);
         throw error;
       });
+    indexPromises.set(locale, promise);
   }
 
-  return indexPromise;
+  return indexPromises.get(locale);
 }
 
 function escapeRegExp(value) {
@@ -45,7 +39,9 @@ function escapeRegExp(value) {
 }
 
 export default function OmniSearch({
-  placeholder = 'Buscar Receitas e Artigos',
+  // Fora do PT, o campo busca no índice do idioma (artigos e lojas) e não leva ao /buscar.
+  locale = 'pt',
+  placeholder = undefined,
   autoFocus = false,
   emphasis = false,
   // 'dark' no fundo marinho do header; 'light' em página branca, como o 404.
@@ -59,11 +55,15 @@ export default function OmniSearch({
   inputRef = undefined,
 }) {
   const light = tone === 'light';
+  const isPt = locale === 'pt';
+  const copy = getSearchCopy(locale);
   const panelPlacement = fullWidthResults
     ? 'inset-x-0 top-full rounded-b-2xl border-x-0 border-t-0'
     : 'mt-2 w-full rounded-2xl';
   const [query, setQuery] = useState(defaultValue);
-  const [index, setIndex] = useState(null);
+  // O índice guarda o idioma dele: numa troca de idioma sem recarregar a página, o do idioma anterior não vale.
+  const [loadedIndex, setLoadedIndex] = useState(null);
+  const index = loadedIndex?.locale === locale ? loadedIndex.items : null;
   const [results, setResults] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(-1);
@@ -89,18 +89,19 @@ export default function OmniSearch({
     if (!lowerQuery || !index) return undefined; // vazio ou índice ainda carregando
 
     const timer = setTimeout(() => {
-      setResults(getRankedSearchResults(index, lowerQuery, 8));
+      // Fora do PT os índices são pequenos: todos os resultados aparecem.
+      setResults(getRankedSearchResults(index, lowerQuery, isPt ? 8 : undefined));
       setIsOpen(true);
       setSelectedIndex(-1);
     }, 200);
 
     return () => clearTimeout(timer);
-  }, [query, index]);
+  }, [query, index, isPt]);
 
   const handleFocus = () => {
     if (index === null) {
-      loadSearchIndex()
-        .then(setIndex)
+      loadSearchIndex(locale)
+        .then((items) => setLoadedIndex({ locale, items }))
         .catch(() => {});
     }
     if (query.trim()) setIsOpen(true);
@@ -133,7 +134,7 @@ export default function OmniSearch({
           }
         }
 
-        if (query.trim()) {
+        if (isPt && query.trim()) {
           window.location.href = `${SITE_SEARCH_PATH}?q=${encodeURIComponent(query.trim())}`;
         }
         break;
@@ -191,8 +192,8 @@ export default function OmniSearch({
           }}
           onKeyDown={handleKeyDown}
           onFocus={handleFocus}
-          placeholder={placeholder}
-          aria-label="Buscar no site"
+          placeholder={placeholder ?? copy.placeholder}
+          aria-label={copy.inputLabel}
           className={`w-full rounded-full py-2.5 pl-10 pr-9 text-sm transition-all focus:outline-none ${
             light
               ? 'border-2 border-marinho bg-white font-semibold text-marinho placeholder-marinho-suave focus:border-laranja'
@@ -207,7 +208,7 @@ export default function OmniSearch({
           <button
             type="button"
             onClick={clearQuery}
-            aria-label="Limpar busca"
+            aria-label={copy.clearLabel}
             className={`absolute right-3 top-1/2 -translate-y-1/2 transition-colors ${light ? 'text-marinho-suave hover:text-marinho' : 'text-white/60 hover:text-white'}`}
           >
             <X className="h-4 w-4" />
@@ -218,7 +219,7 @@ export default function OmniSearch({
       {isOpen && results.length > 0 && (
         <div className={`absolute z-[60] overflow-hidden border border-gray-200 bg-white text-left shadow-2xl ${panelPlacement}`}>
           <p className="border-b border-gray-100 bg-gray-50 px-4 py-2 text-xs font-semibold text-gray-500">
-            {results.length} {results.length === 1 ? 'resultado encontrado' : 'resultados encontrados'}
+            {copy.resultCount(results.length)}
           </p>
           <ul className="max-h-[70vh] overflow-y-auto">
             {results.map((result, i) => (
@@ -236,7 +237,7 @@ export default function OmniSearch({
                     </p>
                     <p className="truncate text-xs text-gray-500">
                       {[
-                        getSearchContentTypeLabel(result.contentType),
+                        copy.typeLabels[result.contentType],
                         result.category,
                         result.totalTime && formatRecipeTime(result.totalTime),
                         result.difficulty,
@@ -248,22 +249,31 @@ export default function OmniSearch({
               </li>
             ))}
           </ul>
-          <Link
-            href={`${SITE_SEARCH_PATH}?q=${encodeURIComponent(query.trim())}`}
-            onClick={clearQuery}
-            className="block bg-[#1a4d2e] px-4 py-2.5 text-center text-sm font-semibold text-white transition-colors hover:bg-[#ff6b35]"
-          >
-            Ver todos os resultados
-          </Link>
+          {copy.seeAllLabel && (
+            <Link
+              href={`${SITE_SEARCH_PATH}?q=${encodeURIComponent(query.trim())}`}
+              onClick={clearQuery}
+              className="block bg-[#1a4d2e] px-4 py-2.5 text-center text-sm font-semibold text-white transition-colors hover:bg-[#ff6b35]"
+            >
+              {copy.seeAllLabel}
+            </Link>
+          )}
         </div>
       )}
 
       {isOpen && query.trim() && index && results.length === 0 && (
         <div className={`absolute z-[60] border border-gray-200 bg-white p-5 text-center shadow-2xl ${panelPlacement}`}>
-          <p className="text-sm font-semibold text-[#1a4d2e]">Nenhum resultado encontrado</p>
-          <p className="mt-1 text-xs text-gray-500">
-            Nada para &quot;{query.trim()}&quot;. Tente outro termo.
-          </p>
+          <p className="text-sm font-semibold text-[#1a4d2e]">{copy.noResultsTitle}</p>
+          <p className="mt-1 text-xs text-gray-500">{copy.noResultsHint(query.trim())}</p>
+          {copy.hubLinkLabel && (
+            <Link
+              href={getReviewHubPath(locale)}
+              onClick={clearQuery}
+              className="mt-3 inline-block text-sm font-semibold text-[#1a4d2e] underline underline-offset-2 hover:text-[#ff6b35]"
+            >
+              {copy.hubLinkLabel}
+            </Link>
+          )}
         </div>
       )}
     </div>
