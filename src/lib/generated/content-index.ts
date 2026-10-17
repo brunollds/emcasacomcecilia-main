@@ -83832,5 +83832,1004 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 453,
+    "slug": "isosource-1-5-para-que-serve",
+    "title": "Isosource 1.5 Sem Sabor: para que serve, tabela nutricional e quanto rende o litro",
+    "seoTitle": "Isosource 1.5 Sem Sabor: para que serve e tabela",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o rótulo do Isosource 1.5 Sem Sabor de 1 L declara: a tabela por 100 ml, os ingredientes, a conservação, quanto rende o litro e o preço na Nestlé Nutre em 17/10/2026.",
+    "metaDescription": "Isosource 1.5 Sem Sabor 1 L: o que o rótulo declara, a tabela por 100 ml, 1.510 kcal por litro e o preço na Nestlé Nutre com o cupom CECI.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp",
+    "imageAlt": "Frente e verso da caixa de 1 L do Isosource 1.5 Sem Sabor, fórmula padrão para nutrição enteral e oral com 1,5 kcal/mL",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Isosource 1.5 Sem Sabor é uma fórmula padrão para nutrição enteral e oral, com 1,5 kcal por mL, em caixa de 1 litro com tampa. O rótulo diz que o uso é \"somente sob orientação médica ou de nutricionista\", e é essa orientação que define quanto, quando e como usar. Aqui está o que a embalagem e a página da loja declaram, a tabela por 100 mL, as contas de rendimento por litro e o preço na Nestlé Nutre em 17/10/2026.",
+          "Este guia não é indicação de uso nem de dose. Todos os dados do produto vêm do rótulo e da página da Nestlé Nutre, lidos em 17/10/2026. Não testamos nem recebemos o produto."
+        ]
+      },
+      {
+        "heading": "O que é o Isosource 1.5 Sem Sabor de 1 L",
+        "paragraphs": [
+          "É o produto da Nestlé Health Science vendido na Nestlé Nutre como \"Isosource 1.5 Sem Sabor\", em Tetra Square de 1 litro com tampa. A frente da embalagem declara:"
+        ],
+        "bullets": [
+          "Fórmula padrão para nutrição enteral e oral.",
+          "1,5 kcal/mL, \"fórmula com densidade energética alta\".",
+          "Sem adição de sacarose.",
+          "Não contém lactose."
+        ],
+        "postParagraphs": [
+          "Na lateral está a advertência: \"Usar somente sob orientação médica ou de nutricionista\". A página da loja acrescenta: \"Proibido o uso por via parenteral\".",
+          "Atenção ao nome: este SKU não é a apresentação \"Sistema Fechado\". A Nestlé lista outras versões de 1 L de Isosource 1.5 com esse nome, e o rótulo que lemos é o da caixa com tampa."
+        ]
+      },
+      {
+        "heading": "Para que serve o Isosource 1.5, segundo o rótulo e a loja",
+        "paragraphs": [
+          "O rótulo o define como fórmula padrão para nutrição enteral e oral: pode ser dada por sonda (enteral) ou tomada pela boca (oral), conforme a prescrição.",
+          "A alta densidade energética, 1,5 kcal por mL, é o que permite entregar mais energia em menos volume. Quem decide se essa fórmula é a adequada em cada caso é o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Tabela nutricional por 100 mL e por litro",
+        "paragraphs": [
+          "Valores do rótulo, por 100 mL. A coluna por litro é conta nossa (valor por 100 mL multiplicado por 10)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Por 100 mL (rótulo)",
+            "Por litro (conta nossa)"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "151 kcal",
+              "1.510 kcal"
+            ],
+            [
+              "Carboidratos",
+              "21 g",
+              "210 g"
+            ],
+            [
+              "Açúcares totais",
+              "1 g",
+              "10 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "1 g",
+              "10 g"
+            ],
+            [
+              "Sacarose",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Lactose",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Proteínas",
+              "6,3 g",
+              "63 g"
+            ],
+            [
+              "Gorduras totais",
+              "4,5 g",
+              "45 g"
+            ],
+            [
+              "Gorduras saturadas",
+              "0,9 g",
+              "9 g"
+            ],
+            [
+              "Gorduras monoinsaturadas",
+              "1,7 g",
+              "17 g"
+            ],
+            [
+              "Gorduras poli-insaturadas",
+              "1,7 g",
+              "17 g"
+            ],
+            [
+              "Ômega 3",
+              "200 mg",
+              "2.000 mg"
+            ],
+            [
+              "Fibras",
+              "0,8 g",
+              "8 g"
+            ],
+            [
+              "Sódio",
+              "110 mg",
+              "1.100 mg"
+            ],
+            [
+              "Cálcio",
+              "110 mg",
+              "1.100 mg"
+            ],
+            [
+              "Potássio",
+              "260 mg",
+              "2.600 mg"
+            ],
+            [
+              "Vitamina D",
+              "1,4 µg",
+              "14 µg"
+            ],
+            [
+              "Vitamina B12",
+              "0,35 µg",
+              "3,5 µg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O verso informa osmolaridade de 410 mOsm/L de água e registro MS 4.0076.1938. O rótulo diz também que cada 1 mL fornece 1,5 kcal."
+        ],
+        "image": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+        "imageAlt": "Verso da caixa do Isosource 1.5 Sem Sabor com a informação nutricional por 100 ml, os ingredientes e os alérgicos",
+        "imageCaption": "Verso da caixa: tabela por 100 ml, ingredientes e alérgicos.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Ingredientes e alergênicos",
+        "paragraphs": [
+          "Ingredientes do rótulo: água, maltodextrina, caseinato de cálcio, proteína isolada de soja, óleo de canola com baixo teor erúcico, óleo de soja, caseinato de sódio, minerais, inulina, triglicerídeos de cadeia média, fibra de soja, vitaminas, sal, emulsificante lecitina de soja, regulador de acidez hidróxido de potássio e estabilizante carragena."
+        ],
+        "bullets": [
+          "Contém derivados de leite e de soja.",
+          "Não contém glúten.",
+          "Não contém lactose, como declara a frente. O caseinato é derivado do leite, então \"sem lactose\" não quer dizer \"sem leite\".",
+          "Tem fibras (inulina e fibra de soja), mesmo que o nome do produto não diga."
+        ]
+      },
+      {
+        "heading": "Como conservar e como manusear",
+        "paragraphs": [
+          "Pelo verso da embalagem:"
+        ],
+        "bullets": [
+          "A fórmula é uma \"dieta líquida pronta para uso\".",
+          "Agitar bem antes de usar.",
+          "É comercialmente estéril e deve ser manuseada conforme as Boas Práticas de Manipulação.",
+          "Fechada: temperatura ambiente, em local seco e fresco.",
+          "Aberta: tampada e refrigerada por no máximo 24 horas."
+        ],
+        "postParagraphs": [
+          "O rótulo não traz dose nem frequência de uso. Esses dados vêm da prescrição."
+        ],
+        "image": "/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp",
+        "imageAlt": "Lateral da caixa do Isosource 1.5 com as instruções de uso e a conservação",
+        "imageCaption": "Lateral da caixa: agitar antes de usar e, depois de aberta, geladeira por até 24 horas.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Quanto rende o litro",
+        "paragraphs": [
+          "Contas nossas, feitas com a tabela do rótulo (151 kcal e 6,3 g de proteína por 100 mL). Não são dose nem recomendação."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Conta",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "Energia em 1 litro",
+              "1.510 kcal"
+            ],
+            [
+              "Proteína em 1 litro",
+              "63 g"
+            ],
+            [
+              "Proteína a cada 1.000 kcal",
+              "cerca de 41,7 g"
+            ],
+            [
+              "Volume para 1.000 kcal",
+              "cerca de 662 mL"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O rótulo arredonda para 1,5 kcal por mL (1.500 kcal por litro); a tabela de 151 kcal por 100 mL dá 1.510 kcal. Usamos o valor da tabela. Quantos litros ou mL cabem em um dia é decisão do profissional, que parte da necessidade de cada pessoa."
+        ]
+      },
+      {
+        "heading": "Quanto tomar por dia: quem define",
+        "paragraphs": [
+          "O rótulo não traz dose diária, e a casa também não dá. Volume, horários e via de administração são definidos pelo médico ou nutricionista, caso a caso. A conta acima serve para você entender o que há em cada litro e para conversar com quem prescreve."
+        ]
+      },
+      {
+        "heading": "Preço na Nestlé Nutre em 17/10/2026",
+        "paragraphs": [
+          "Preços da página do produto, lidos em 17/10/2026. Preço e estoque mudam, e vale o que aparece na loja na hora da compra."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forma de compra",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Compra única (de R$ 38,49, -15%)",
+              "R$ 32,72"
+            ],
+            [
+              "Assinatura",
+              "R$ 28,87"
+            ],
+            [
+              "Combo de 15 unidades",
+              "R$ 490,75"
+            ],
+            [
+              "Combo de 30 unidades",
+              "R$ 923,76"
+            ]
+          ],
+          "caption": "Preços da página do produto na Nestlé Nutre em 17/10/2026, sem o cupom."
+        },
+        "postParagraphs": [
+          "Contas nossas, com o preço de compra única: R$ 32,72 por litro equivale a cerca de R$ 3,27 por 100 mL e cerca de R$ 2,17 por 100 kcal."
+        ]
+      },
+      {
+        "heading": "Como comprar com o CECI",
+        "paragraphs": [
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O desconto aparece no resumo do pedido antes de pagar. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre).",
+          "Para entender a diferença entre esta fórmula e as linhas de consumo da marca, veja [Nestlé Nutre: produtos e para que servem](/reviews/nestle-nutre-produtos-para-que-servem)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Isosource 1.5 Sem Sabor tem lactose? A frente da embalagem declara \"Não contém lactose\", e a tabela traz lactose 0 g. O produto contém derivados de leite (caseinato) e de soja.",
+          "Isosource 1.5 pode ser tomado pela boca? O rótulo o define como fórmula padrão para nutrição enteral e oral. A via em cada caso é definida pelo médico ou nutricionista.",
+          "Quanto tomar de Isosource 1.5 por dia? O rótulo não traz dose diária. Volume e frequência são definidos pelo médico ou nutricionista.",
+          "Quem pode tomar Isosource 1.5? O rótulo manda usar somente sob orientação médica ou de nutricionista, e é o profissional quem avalia cada caso.",
+          "Quantas kcal tem o Isosource 1.5 de 1 litro? São 151 kcal por 100 mL no rótulo, o que dá 1.510 kcal por litro (conta nossa). O rótulo arredonda para 1,5 kcal por mL."
+        ]
+      },
+      {
+        "heading": "Fontes e nota de transparência",
+        "paragraphs": [
+          "Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre, lidos em 17/10/2026. Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos o produto."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Isosource 1.5 Sem Sabor na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/isosource-1-5-sem-sabor",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Guia feito com o rótulo e a página da loja; não recebemos o produto. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nestle-nutre-e-confiavel",
+        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "slug": "nutren-a-z-multi-para-que-serve",
+    "title": "Nutren A-Z Multi 60 cápsulas: para que serve, composição por cápsula e como tomar",
+    "seoTitle": "Nutren A-Z Multi 60 cápsulas: composição e como tomar",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o rótulo do Nutren A-Z Multi declara: 13 vitaminas e 7 minerais por cápsula com o %VD, as três alegações, como tomar, se tem glúten e o preço na Nestlé Nutre.",
+    "metaDescription": "Nutren A-Z Multi 60 cápsulas: composição por cápsula e %VD, como tomar, se tem glúten, a diferença para Mulher e Senior e o preço com o CECI.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-a-z-multi-capa.webp",
+    "imageAlt": "Frasco do Nutren A-Z Multi de 60 cápsulas: a frente e o rótulo com a informação nutricional e os ingredientes",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: o que é o Nutren A-Z Multi",
+        "paragraphs": [
+          "O Nutren A-Z Multi é um suplemento alimentar em cápsulas, da Nestlé, com 13 vitaminas e 7 minerais. A dose do rótulo é 1 cápsula por dia, para maiores de 19 anos (adultos). O frasco de 60 cápsulas dura 60 dias nessa dose.",
+          "O rótulo não declara quantidade significativa de valor energético, carboidratos, açúcares, proteínas, gorduras, fibras nem sódio. Declara que não contém glúten e que contém derivados de soja. Na loja oficial da Nestlé Nutre, em 17/10/2026, o frasco de 60 cápsulas estava a R$ 48,92.",
+          "Este guia é feito a partir do rótulo do frasco e da página da loja. Não é um teste de uso."
+        ],
+        "image": "/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
+        "imageAlt": "Frente do frasco do Nutren A-Z Multi de 60 cápsulas, suplemento alimentar em cápsulas da Nestlé Health Science",
+        "imageCaption": "Frente do frasco de 60 cápsulas.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Para que serve o Nutren A-Z Multi, segundo o rótulo",
+        "paragraphs": [
+          "O rótulo traz três alegações, e cada uma vem com os nutrientes que a sustentam:"
+        ],
+        "bullets": [
+          "As vitaminas A, C e D, o zinco e o selênio auxiliam no funcionamento do sistema imune.",
+          "As vitaminas B1, B2, B6 e B12, a niacina e o ácido pantotênico auxiliam no metabolismo energético.",
+          "As vitaminas C e E e o zinco auxiliam na proteção dos danos causados pelos radicais livres."
+        ],
+        "postParagraphs": [
+          "É só isso que o fabricante afirma no frasco. O produto é um suplemento alimentar, não é medicamento, e este texto não vai além dessas frases."
+        ],
+        "image": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+        "imageAlt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo, as recomendações de uso e o fabricante",
+        "imageCaption": "As três frases do rótulo, cada uma com os nutrientes, e as recomendações de uso.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Composição: o que tem em cada cápsula",
+        "paragraphs": [
+          "A informação nutricional do rótulo é por porção de 0,75 g, que é 1 cápsula, com 60 porções por embalagem. O %VD é o percentual dos valores diários fornecido por essa porção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Nutriente",
+            "Por cápsula",
+            "%VD"
+          ],
+          "rows": [
+            [
+              "Vitamina A",
+              "600 µg",
+              "75%"
+            ],
+            [
+              "Vitamina D",
+              "5 µg",
+              "33%"
+            ],
+            [
+              "Vitamina E",
+              "10 mg",
+              "67%"
+            ],
+            [
+              "Vitamina K",
+              "65 µg",
+              "54%"
+            ],
+            [
+              "Vitamina C",
+              "45 mg",
+              "45%"
+            ],
+            [
+              "Vitamina B1",
+              "1,2 mg",
+              "100%"
+            ],
+            [
+              "Vitamina B2",
+              "1,3 mg",
+              "108%"
+            ],
+            [
+              "Vitamina B3 (niacina)",
+              "16 mg",
+              "107%"
+            ],
+            [
+              "Vitamina B5 (ácido pantotênico)",
+              "5 mg",
+              "100%"
+            ],
+            [
+              "Vitamina B6",
+              "1,3 mg",
+              "100%"
+            ],
+            [
+              "Vitamina B7 (biotina)",
+              "30 µg",
+              "100%"
+            ],
+            [
+              "Ácido fólico",
+              "400 µg",
+              "100%"
+            ],
+            [
+              "Vitamina B12",
+              "2,4 µg",
+              "100%"
+            ],
+            [
+              "Cobre",
+              "900 µg",
+              "100%"
+            ],
+            [
+              "Cromo",
+              "35 µg",
+              "100%"
+            ],
+            [
+              "Ferro",
+              "14 mg",
+              "100%"
+            ],
+            [
+              "Manganês",
+              "1 mg",
+              "33%"
+            ],
+            [
+              "Molibdênio",
+              "45 µg",
+              "100%"
+            ],
+            [
+              "Selênio",
+              "34 µg",
+              "57%"
+            ],
+            [
+              "Zinco",
+              "7 mg",
+              "64%"
+            ]
+          ],
+          "caption": "Valores por cápsula (0,75 g) e %VD, do rótulo do frasco de 60 cápsulas."
+        },
+        "postParagraphs": [
+          "O rótulo fala em \"minerais quelados\" e cita o bisglicinato de ferro, o bisglicinato de manganês e a selenometionina."
+        ],
+        "image": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+        "imageAlt": "Rótulo do Nutren A-Z Multi com a informação nutricional por cápsula, os ingredientes e o aviso de que não contém glúten",
+        "imageCaption": "Informação nutricional por cápsula, ingredientes e alérgicos no frasco.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Nutren A-Z Multi engorda? As calorias por cápsula",
+        "paragraphs": [
+          "O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio. Ou seja, o número que o frasco traz para calorias é \"não significativo\". O que pesa na balança continua sendo o conjunto do que cada pessoa come no dia."
+        ]
+      },
+      {
+        "heading": "Ingredientes, alérgicos e dieta",
+        "paragraphs": [
+          "Além das vitaminas e dos minerais, o rótulo lista óleo de girassol, água purificada, gelatina (gelificante), glicerol (umectante), lecitina (emulsificante), carbonato de cálcio, carmins e sais de potássio e sódio de clorofilina cúprica (corantes) e cera de abelha (estabilizante)."
+        ],
+        "bullets": [
+          "Alérgicos: contém derivados de soja.",
+          "Glúten: o rótulo diz que não contém.",
+          "Por ter gelatina, carmim e cera de abelha, o produto não é vegano."
+        ]
+      },
+      {
+        "heading": "Como tomar",
+        "paragraphs": [
+          "O modo de uso do rótulo é ingerir 1 cápsula ao dia. O produto é indicado para maiores de 19 anos (adultos), e o rótulo pede para não exceder a recomendação diária. Mantenha fora do alcance de crianças. Quem já toma remédio ou outro suplemento deve falar antes com o médico ou nutricionista, como o próprio rótulo orienta.",
+          "Conservação, também pelo rótulo: local seco, fresco e ao abrigo da luz. Depois de aberto, consumir em até 60 dias, o que cobre as 60 cápsulas na dose de uma por dia."
+        ]
+      },
+      {
+        "heading": "Multi, Mulher e Senior: o que muda na linha",
+        "paragraphs": [
+          "A linha Nutren de multivitamínicos em cápsula tem três versões. A tabela vem da imagem oficial da linha, na loja da Nestlé Nutre. Aqui comparamos público, dose, frasco e preço. A composição das outras duas está nos rótulos delas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Versão",
+            "Para quem",
+            "Dose diária",
+            "Frasco",
+            "Preço na loja (17/10/2026)",
+            "Custo por dia (conta nossa)"
+          ],
+          "rows": [
+            [
+              "A-Z Multi",
+              "Adultos",
+              "1 cápsula",
+              "30 ou 60 cápsulas",
+              "30 cápsulas: R$ 30,31; 60 cápsulas: R$ 48,92",
+              "R$ 1,01 (30); R$ 0,82 (60)"
+            ],
+            [
+              "A-Z Mulher",
+              "Mulheres",
+              "2 cápsulas",
+              "60 cápsulas",
+              "R$ 55,91",
+              "R$ 1,86"
+            ],
+            [
+              "Sênior A-Z",
+              "Adultos 50+",
+              "2 cápsulas",
+              "60 cápsulas",
+              "R$ 79,89",
+              "R$ 2,66"
+            ]
+          ],
+          "caption": "Público, dose e frasco da imagem oficial da linha; preços de compra única na Nestlé Nutre em 17/10/2026. O custo por dia é conta nossa."
+        },
+        "postParagraphs": [
+          "O custo por dia é uma conta nossa: preço do frasco dividido pelos dias que ele dura na dose indicada (60 dias para o Multi de 60 cápsulas, 30 dias para Mulher e Senior). Usamos o preço de compra única da loja em 17/10/2026, sem assinatura e sem código, e ele muda. Para ver as outras linhas, leia o [guia das linhas Nutren](/reviews/nestle-nutre-produtos-para-que-servem) e o texto sobre o [Nutren Senior em pó](/reviews/nutren-senior-como-tomar-sem-empelotar)."
+        ]
+      },
+      {
+        "heading": "Quanto dura o frasco e quanto custa",
+        "paragraphs": [
+          "Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Em 17/10/2026, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, são cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura."
+        ]
+      },
+      {
+        "heading": "Onde comprar e como usar o CECI",
+        "paragraphs": [
+          "O Nutren A-Z Multi 60 cápsulas está na loja oficial da Nestlé Nutre. O CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Digite o código no carrinho e confira o valor no resumo do pedido. As regras ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren A-Z Multi tem glúten? Não. O rótulo diz \"não contém glúten\" e informa que contém derivados de soja.",
+          "Nutren A-Z Multi engorda? O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares, proteínas ou gorduras.",
+          "Nutren A-Z Multi, como tomar? Uma cápsula ao dia, por adultos maiores de 19 anos, sem exceder a recomendação diária do rótulo.",
+          "Pode tomar Nutren A-Z Multi com outro suplemento? O rótulo orienta que, ao consumir outros suplementos, se consulte um profissional de saúde.",
+          "Quanto dura o Nutren A-Z Multi de 60 cápsulas? Com 1 cápsula por dia, dura 60 dias. Depois de aberto, o rótulo pede consumo em até 60 dias."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de leitura de rótulo, sem teste próprio. Fontes: o frasco do Nutren A-Z Multi 60 cápsulas (fabricado pela Sorocaps Indústria Farmacêutica Ltda. para a Nestlé Brasil) e a página oficial da Nestlé Nutre. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nutren A-Z Multi na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Guia feito com o rótulo do frasco e a página da loja, sem teste de uso. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      },
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "slug": "nanlac-supreme-pro-1-a-3-anos",
+    "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g",
+    "seoTitle": "Nanlac Supreme Pro 1 a 3 anos: composição e preparo",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O Nanlac Supreme Pro 800 g pelo rótulo: composição, tabela, preparo, quanto rende a lata, o que mudou do Supreme, como conferir o lote do recolhimento de janeiro e o preço na Nestlé Nutre.",
+    "metaDescription": "Nanlac Supreme Pro 800 g (1 a 3 anos): composição, preparo, quanto rende a lata, os lotes do recolhimento de janeiro e o preço na Nestlé Nutre.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
+    "imageAlt": "Frente e verso da lata de 800 g do Nanlac Supreme Pro, fórmula infantil de seguimento para crianças de 1 a 3 anos",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: o que é o Nanlac Supreme Pro 1 a 3 anos",
+        "paragraphs": [
+          "O Nanlac Supreme Pro é uma fórmula infantil de primeira infância, da Nestlé, para crianças de 1 a 3 anos. A lata tem 800 g. Segundo a Nestlé Nutre, o preço em 17/10/2026 é R$ 95,53 (de R$ 112,39). Pelas medidas do rótulo, a lata rende cerca de 5,7 litros de preparo, ou 24 copos de 210 ml (conta nossa). Antes de comprar ou de usar uma lata que já está em casa, confira o número do lote no fundo da lata: lotes do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026.",
+          "**Este produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.**",
+          "Este guia reúne o que a Nestlé publica na página do produto e no rótulo. Não testamos o produto. A escolha do leite ou da fórmula da criança é uma conversa para ter com o pediatra ou nutricionista."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "É fórmula infantil, leite ou composto lácteo?",
+        "paragraphs": [
+          "É fórmula infantil. A página da Nestlé Nutre vende o produto como \"fórmula infantil de primeira infância\", e a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa chama a linha Nanlac de fórmula infantil. Não é leite em pó nem composto lácteo. Para entender a diferença entre os três tipos de produto, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo).",
+          "Há outras fórmulas da marca para faixas de idade menores. Elas são outros produtos, com regras próprias, e este guia não trata delas."
+        ]
+      },
+      {
+        "heading": "Para quem é e quem não deve usar",
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "O que diz o rótulo"
+          ],
+          "rows": [
+            [
+              "Faixa de idade",
+              "1 a 3 anos"
+            ],
+            [
+              "Menores de 1 ano",
+              "Não deve ser usado"
+            ],
+            [
+              "Contém",
+              "Leite e derivados, derivados de soja e lactose"
+            ],
+            [
+              "Não contém",
+              "Glúten"
+            ],
+            [
+              "Embalagem",
+              "Lata de 800 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Como o produto contém leite, soja e lactose, ele não serve para quem tem restrição a esses ingredientes. Dúvida sobre alergia ou intolerância é assunto para o pediatra."
+        ]
+      },
+      {
+        "heading": "Composição e tabela nutricional",
+        "paragraphs": [
+          "Segundo a Nestlé, são quatro HMOs (oligossacarídeos do leite humano, na sigla em inglês): 2'-FL, LNT, 3'-SL e 6'-SL. A lata traz também ARA e DHA, obtidos de óleos de microrganismos.",
+          "**Ingredientes, pela ordem do rótulo:** lactose, soro de leite desmineralizado, oleína de palma, leite desnatado, proteína concentrada do soro de leite, óleo de palmiste, óleo de canola com baixo teor erúcico, óleo de milho, minerais, óleo de Mortierella alpina (ARA), óleo de Schizochytrium sp. (DHA), 2'-O-fucosilactose, lacto-N-tetraose, 6'-sialilactose, 3'-sialilactose, vitaminas, emulsificante lecitina de soja e reguladores de acidez ácido cítrico e hidróxido de potássio."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por",
+            "100 g de pó",
+            "100 ml preparado"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "477 kcal",
+              "67 kcal"
+            ],
+            [
+              "Carboidratos",
+              "63 g",
+              "8,8 g"
+            ],
+            [
+              "Açúcares totais",
+              "61 g",
+              "8,6 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "31 g",
+              "4,4 g"
+            ],
+            [
+              "Proteínas",
+              "10 g",
+              "1,4 g"
+            ],
+            [
+              "Gorduras totais",
+              "21 g",
+              "2,9 g"
+            ],
+            [
+              "ARA",
+              "85 mg",
+              "12 mg"
+            ],
+            [
+              "DHA",
+              "85 mg",
+              "12 mg"
+            ],
+            [
+              "2'-FL",
+              "0,2 g",
+              "n/d"
+            ],
+            [
+              "LNT",
+              "0,1 g",
+              "n/d"
+            ],
+            [
+              "3'-SL",
+              "0,04 g",
+              "n/d"
+            ],
+            [
+              "6'-SL",
+              "0,03 g",
+              "n/d"
+            ],
+            [
+              "Cálcio",
+              "570 mg",
+              "80 mg"
+            ],
+            [
+              "Ferro",
+              "8,3 mg",
+              "1,2 mg"
+            ],
+            [
+              "Vitamina D",
+              "10 µg",
+              "1,4 µg"
+            ]
+          ],
+          "caption": "Valores da tabela da página do produto na Nestlé Nutre, lida em 17/10/2026."
+        },
+        "postParagraphs": [
+          "Fonte: tabela publicada na página do produto na Nestlé Nutre, lida em 17/10/2026. \"100 ml preparado\" é a diluição de 14,1 g de pó em 90 ml de água. A página não traz os HMOs por 100 ml.",
+          "A tabela declara 31 g de açúcares adicionados a cada 100 g de pó. Esse é um dos pontos para levar à conversa com o pediatra."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+        "imageAlt": "Verso da lata do Nanlac Supreme Pro com a informação nutricional por 100 g e por 100 ml, os ingredientes e os alérgicos",
+        "imageCaption": "Verso da lata: tabela por 100 g e por 100 ml, reconstituição, ingredientes e alérgicos.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Como preparar, passo a passo",
+        "paragraphs": [
+          "O preparo errado é um risco à parte: siga as medidas do rótulo, sem aumentar nem diminuir o pó."
+        ],
+        "bullets": [
+          "Lave bem as mãos e os utensílios.",
+          "Ferva a água por 5 minutos.",
+          "Espere cerca de 15 minutos, até a água chegar a 70 °C.",
+          "Meça o pó com a colher-medida que vem na lata, sempre nivelada (1 colher rasa para cada 30 ml de água).",
+          "Misture até dissolver.",
+          "Pingue um pouco no punho: a temperatura deve ficar em torno de 40 °C.",
+          "Não guarde o que sobrar. Se for absolutamente necessário, o rótulo diz para refrigerar abaixo de 5 °C por no máximo 24 horas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Medida",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Proporção",
+              "14,1 g de pó + 90 ml de água = 100 ml"
+            ],
+            [
+              "Colher-medida",
+              "4,7 g"
+            ],
+            [
+              "Para 30 ml de água",
+              "1 colher rasa"
+            ],
+            [
+              "Copo de transição (tabela da lata, após o 12º mês)",
+              "210 ml de água a 70 °C + 7 medidas rasas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A tabela de alimentação da lata, para depois do 12º mês, sugere entre 3 e 2 copos de transição por dia. O rótulo diz que novos alimentos entram com orientação de médico ou nutricionista."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+        "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo, a conservação, as instruções de uso e a tabela de alimentação",
+        "imageCaption": "Modo de preparo, conservação e tabela de alimentação impressos na lata.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Quanto rende a lata de 800 g",
+        "paragraphs": [
+          "Conta nossa, a partir das medidas do rótulo:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cálculo",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "800 g ÷ 14,1 g por 100 ml",
+              "cerca de 56 porções de 100 ml, ou 5,7 litros"
+            ],
+            [
+              "7 medidas de 4,7 g por copo de 210 ml",
+              "32,9 g de pó por copo"
+            ],
+            [
+              "800 g ÷ 32,9 g",
+              "cerca de 24 copos de 210 ml"
+            ],
+            [
+              "24 copos em 3 por dia",
+              "cerca de 8 dias"
+            ],
+            [
+              "24 copos em 2 por dia",
+              "cerca de 12 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o preço de 17/10/2026 (R$ 95,53), o custo de um copo de 210 ml fica em cerca de R$ 3,93 (conta nossa: R$ 95,53 ÷ 24,3 copos). É uma conta de referência: a quantidade real depende de quanto a criança toma e de como se mede o pó."
+        ]
+      },
+      {
+        "heading": "Conservação",
+        "paragraphs": [
+          "Lata bem tampada, em local seco, fresco e arejado. Depois de aberta, a lata diz \"até 30 dias\". A página da loja fala em 4 semanas; vale o que está na lata."
+        ]
+      },
+      {
+        "heading": "Nanlac Supreme ou Supreme Pro: o que mudou",
+        "paragraphs": [
+          "O Supreme Pro ocupa o lugar do Supreme. Na galeria da página da Nestlé Nutre, uma imagem avisa \"Nova embalagem, nova fórmula e nova marca\": a lata \"Nanlac Supreme 1 a 3 anos\" virou \"Nanlac Supreme Pro 1 a 3 anos\", com os quatro HMOs citados acima. Em 17/10/2026, a loja vendia só o Supreme Pro. A lista do recolhimento de janeiro, na próxima seção, traz lotes do Supreme Pro; o Supreme antigo não aparece nela."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
+        "imageAlt": "Imagem da Nestlé Nutre com a lata antiga do Nanlac Supreme e a nova do Nanlac Supreme Pro, com o selo de 4 HMOs",
+        "imageCaption": "Na galeria da Nestlé Nutre: nova embalagem, nova fórmula e nova marca.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "O Nanlac Supreme Pro foi recolhido? Como conferir o lote",
+        "paragraphs": [
+          "Em parte. Em 5 de janeiro de 2026, a Nestlé comunicou à Anvisa o recolhimento voluntário de lotes de fórmulas infantis. A Anvisa publicou a Resolução RE nº 32, de 6 de janeiro de 2026 (Diário Oficial de 7 de janeiro), que proibiu a comercialização, a distribuição e o uso dos lotes listados. O motivo, segundo a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa, foi a presença de cereulida, toxina produzida pela bactéria Bacillus cereus, vinda de um óleo ARA usado na produção. A nota diz que a medida é preventiva e que só os lotes informados oficialmente estão sendo recolhidos.",
+          "Do Nanlac Supreme Pro 1 a 3 anos, a lista tem cinco lotes: 5301046041, 5302046041, 5338046041, 5339046041 e 5340046041.",
+          "**Como conferir a sua lata:**"
+        ],
+        "bullets": [
+          "Veja, no painel da frente, o nome do produto, a faixa de idade e o peso (Nanlac Supreme Pro, 1 a 3 anos, 800 g).",
+          "Procure o número do lote impresso no fundo da lata, junto da validade.",
+          "Compare com os cinco lotes acima.",
+          "Se o lote estiver na lista, não use. A nota técnica avisa que ferver ou preparar a fórmula de outro jeito não elimina a toxina.",
+          "Fale com a Nestlé sobre devolução, troca ou reembolso: 0800 761 2500 (número que consta na nota técnica)."
+        ],
+        "postParagraphs": [
+          "Os outros lotes não foram afetados. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
+          "Os lotes listados venciam em 2026. Não encontramos notícia do caso depois de fevereiro de 2026, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano."
+        ]
+      },
+      {
+        "heading": "Onde comprar e quanto custa",
+        "paragraphs": [
+          "Na Nestlé Nutre, loja oficial, em 17/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Opção",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Preço de tabela",
+              "R$ 112,39"
+            ],
+            [
+              "Compra única, com 15% de desconto",
+              "R$ 95,53"
+            ],
+            [
+              "Assinatura",
+              "R$ 95,53 (sem desconto extra)"
+            ],
+            [
+              "Combo leve 5, pague 4",
+              "R$ 449,56 (conta nossa: R$ 89,91 por lata)"
+            ]
+          ],
+          "caption": "Preços da página do produto na Nestlé Nutre em 17/10/2026, sem o cupom."
+        },
+        "postParagraphs": [
+          "O código CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções: o desconto aparece no resumo do pedido antes de pagar. O passo a passo do código está em [como usar o CECI na Nestlé Nutre](/reviews/cupom-ceci-nestle-nutre-como-usar), e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026, e os demais não foram afetados. Confira o lote no fundo da lata e compare com a lista oficial.",
+          "Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.",
+          "Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.",
+          "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.",
+          "Quanto tempo dura a lata aberta do Nanlac Supreme Pro? O rótulo diz até 30 dias, com a lata bem tampada em local seco, fresco e arejado."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas na Nestlé Nutre com o código CECI. Fontes: página do produto na Nestlé Nutre (preço, tabela, preparo e ingredientes), Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa e comunicado de recolhimento da Nestlé. Não testamos o produto. Preço, desconto e status do recolhimento mudam: confira antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nanlac Supreme Pro 800 g na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nanlac-supreme-pro-800g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Guia feito com o rótulo, a página da loja e a nota técnica do governo; não substitui a orientação do pediatra. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
+        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nestle-nutre-e-confiavel",
+        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+      }
+    ]
   }
 ];
