@@ -1,4 +1,5 @@
-import { isListedInPortuguese } from './reviewVisibility.mjs';
+import { getReviewCanonicalPathname } from './content/review-pathname.mjs';
+import { compareReviewsNewestFirst, isListedInLocale, isListedInPortuguese } from './reviewVisibility.mjs';
 
 export const SITE_SEARCH_PATH = '/buscar';
 export const SEARCH_ACTION_URL_TEMPLATE =
@@ -16,9 +17,16 @@ export const SEARCH_PAGE_METADATA = {
   },
 };
 
-// Sem acento e em minúsculas, dos dois lados: "sofa" acha "sofá", como na estante de /reviews.
+// Sem acento e em minúsculas, dos dois lados: "sofa" acha "sofá", como na estante de /reviews. O NFC do
+// fim junta de novo o que o NFD separou e o filtro não tirou: a sílaba coreana e o dakuten japonês
+// voltam a ser um caractere só, e "か" não acha "が".
 export function foldSearchText(text) {
-  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').normalize('NFC').toLowerCase();
+}
+
+// O índice que o campo baixa: o do PT (receitas e artigos) ou o de um idioma (artigos e lojas).
+export function getSearchIndexPath(locale) {
+  return locale === 'pt' ? '/search-index.json' : `/search-index-${locale}.json`;
 }
 
 export function getSearchContentTypeLabel(contentType) {
@@ -92,6 +100,45 @@ export function createSearchIndex({ recipes, reviews }) {
     ...recipes.map(buildRecipeSearchItem),
     ...reviews.filter(isListedInPortuguese).map(buildReviewSearchItem),
   ];
+}
+
+// O índice de um idioma fora do PT: as páginas de loja dele primeiro (são as do código), depois os
+// artigos da lista dele (/<locale>/reviews), do mais novo para o mais antigo. Só texto do idioma.
+export function createLocaleSearchIndex(locale, { reviews, stores }) {
+  const storeItems = stores.map((store) => ({
+    id: store.slug,
+    contentType: 'store',
+    href: store.href,
+    title: store.title,
+    description: store.description,
+    terms: foldSearchText([store.name, store.title, store.description].filter(Boolean).join(' ')),
+  }));
+  const reviewItems = reviews
+    .filter((review) => isListedInLocale(review, locale))
+    .sort(compareReviewsNewestFirst)
+    .map((review) => ({
+      id: review.id,
+      contentType: 'review',
+      href: getReviewCanonicalPathname(review),
+      title: review.title,
+      description: review.description,
+      category: review.type,
+      terms: foldSearchText(
+        [
+          review.title,
+          review.description,
+          review.type,
+          review.productName,
+          review.brand,
+          ...(review.tags || []),
+          ...(review.collections || []),
+        ]
+          .filter(Boolean)
+          .join(' ')
+      ),
+    }));
+
+  return [...storeItems, ...reviewItems];
 }
 
 export function getRankedSearchResults(index, query, limit) {
