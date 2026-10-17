@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "reconferir preços e a página Black November na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 65

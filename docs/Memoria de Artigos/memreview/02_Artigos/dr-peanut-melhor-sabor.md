@@ -6,10 +6,10 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
-publicado_em: null
+proxima_acao: "rever frete até 14/11 e combos na última semana de outubro"
+publicado_em: "2026-10-16"
 bloqueado_por: "Perguntas para o Bruno (degustação da Cecília muda a classe e o título)"
 score_autoridade: 80
 score_conversao: 76

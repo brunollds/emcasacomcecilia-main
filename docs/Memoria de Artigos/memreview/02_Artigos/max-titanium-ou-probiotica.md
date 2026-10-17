@@ -6,15 +6,15 @@ parceiro: "[[Max-Titanium]], [[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "reconferir preços e frete na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 85
 score_ponderado_total: 83
 data_criacao: "2026-10-16"
-publicado_em: null
+publicado_em: "2026-10-16"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

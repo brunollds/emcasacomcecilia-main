@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "reconferir frete e parcelamento em novembro"
 bloqueado_por: "Bruno: frete (seção 11, itens 1 e 2), contato SAC (item 3) e prazo de defeito (item 4)"
 score_autoridade: 72
 score_conversao: 68
@@ -20,7 +20,7 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
+publicado_em: "2026-10-16"
 ---
 
 # Briefing de Pauta: Belive é confiável?

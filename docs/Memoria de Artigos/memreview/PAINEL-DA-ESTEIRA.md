@@ -24,15 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros (e pillow top) I Wanna Sleep ou Ortobom (Score Aut: 72 / Conv: 78) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[belive-e-confiavel]] — Belive / é confiável? (Score Aut: 72 / Conv: 68) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[belive-reclame-aqui-nota-reputacao]] — Belive / Reclame Aqui, perfil Belive Be Free (Score Aut: 70 / Conv: 64) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[cupom-belive-como-usar]] — Belive / cupom MAUAD: como usar (Score Aut: 58 / Conv: 84) — texto aprovado em 16/10, Job 4 na sessão de artigos
-- [ ] [[black-friday-belive]] — Belive / Black Friday 2026, guia de preparação (Score Aut: 50 / Conv: 65) — texto aprovado em 16/10, Job 4 na sessão de artigos
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -50,6 +42,15 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros (e pillow top) I Wanna Sleep ou Ortobom (Score Aut: 72 / Conv: 78) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[belive-e-confiavel]] — Belive / é confiável? (Score Aut: 72 / Conv: 68) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
+- [x] [[belive-reclame-aqui-nota-reputacao]] — Belive / Reclame Aqui, perfil Belive Be Free (Score Aut: 70 / Conv: 64) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
+- [x] [[cupom-belive-como-usar]] — Belive / cupom MAUAD: como usar (Score Aut: 58 / Conv: 84) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
+- [x] [[black-friday-belive]] — Belive / Black Friday 2026, guia de preparação (Score Aut: 50 / Conv: 65) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
 - [x] [[black-friday-damie]] — DAMIE / Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12 (No ar em 09/10/2026, PR #42; preços de 8/10; a seção da campanha da DAMIE entra em ou depois de 15/10, e os preços são reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-letseatit]] — Let's Eat It / Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀

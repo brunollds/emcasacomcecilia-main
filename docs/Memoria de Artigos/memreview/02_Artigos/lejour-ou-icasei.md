@@ -6,11 +6,11 @@ parceiro: "[[Lejour]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
-publicado_em: null
-nota_publicacao: null
+proxima_acao: "reconferir planos e taxas das três plataformas em novembro"
+publicado_em: "2026-10-16"
+nota_publicacao: "No ar em 16/10/2026 (17/10 00:41Z), PR #129, release c5d7f7a"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 84
