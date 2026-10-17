@@ -6,15 +6,15 @@ parceiro: "[[Belive]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "reconferir o MAUAD e o frete na revisão mensal"
 bloqueado_por: "Bruno: prints do teste de 16/10 e resposta sobre o frete (seção 9)"
 score_autoridade: 58
 score_conversao: 84
 score_ponderado_total: 74
 data_criacao: "2026-10-16"
-publicado_em: null
+publicado_em: "2026-10-16"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

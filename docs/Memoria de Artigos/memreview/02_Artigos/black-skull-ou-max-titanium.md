@@ -6,10 +6,10 @@ parceiro: "[[Black-Skull]], [[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
-publicado_em: null
+proxima_acao: "reconferir preços e frete na última semana de outubro"
+publicado_em: "2026-10-16"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 82

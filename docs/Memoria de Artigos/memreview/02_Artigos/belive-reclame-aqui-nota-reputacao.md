@@ -6,15 +6,15 @@ parceiro: "[[Belive]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
+proxima_acao: "atualizar os números do Reclame Aqui em novembro"
 bloqueado_por: "prints do Reclame Aqui (seção 11)"
 score_autoridade: 70
 score_conversao: 64
 score_ponderado_total: 68
 data_criacao: "2026-10-16"
-publicado_em: null
+publicado_em: "2026-10-16"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

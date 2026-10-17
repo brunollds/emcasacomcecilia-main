@@ -6,10 +6,10 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "Job 4 (JSON e imagens) na sessão de artigos, com o texto aprovado no fim deste briefing"
-publicado_em: null
+proxima_acao: "PR separado: tirar a Ortobom do travesseiro-i-wanna-sleep-ou-emma e atualizar o texto do link"
+publicado_em: "2026-10-16"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 78
