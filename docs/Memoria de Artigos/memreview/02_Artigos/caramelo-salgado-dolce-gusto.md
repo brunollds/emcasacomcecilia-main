@@ -1,13 +1,13 @@
 ---
-status: "em-conformacao-json"
-proxima_acao: "build e deploy com o GO do Bruno"
+status: "publicado"
+proxima_acao: "reconferir preço e nota na loja oficial na última semana de outubro"
 bloqueado_por: null
 titulo_provisorio: "Caramelo Salgado Dolce Gusto: ingredientes, cafeína, calorias e a história da edição Netflix"
 slug_sugerido: "caramelo-salgado-dolce-gusto"
 parceiro: "[[Dolce-Gusto]]"
 responsavel: "Claude"
 data_criacao: "2026-10-17"
-publicado_em: null
+publicado_em: "2026-10-17"
 modo_i18n: "somente-pt"
 ---
 
