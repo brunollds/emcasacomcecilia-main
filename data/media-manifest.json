@@ -56900,6 +56900,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 147436,
+      "sha256": "bbd0036e2382fd3a1e75708856c38d5d25d2a1adebe6317a943ac239d3bd6bfc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-800g-capa.webp",
+      "storage_filename": "nanlac-supreme-pro-800g-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84480,
+          "column": 15,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bbd0036e2382fd3a1e75708856c38d5d25d2a1adebe6317a943ac239d3bd6bfc/nanlac-supreme-pro-800g-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bbd0036e2382fd3a1e75708856c38d5d25d2a1adebe6317a943ac239d3bd6bfc/nanlac-supreme-pro-800g-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.260Z",
+      "verification_etag_or_digest": "bbd0036e2382fd3a1e75708856c38d5d25d2a1adebe6317a943ac239d3bd6bfc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 302072,
+      "sha256": "da38b31358363e3e189b5bc3d8924d484f7fb2189ee66763678d8ce2a5c9424d",
+      "width": 900,
+      "height": 2405,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-800g-preparo.webp",
+      "storage_filename": "nanlac-supreme-pro-800g-preparo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84676,
+          "column": 19,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/da38b31358363e3e189b5bc3d8924d484f7fb2189ee66763678d8ce2a5c9424d/nanlac-supreme-pro-800g-preparo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da38b31358363e3e189b5bc3d8924d484f7fb2189ee66763678d8ce2a5c9424d/nanlac-supreme-pro-800g-preparo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "da38b31358363e3e189b5bc3d8924d484f7fb2189ee66763678d8ce2a5c9424d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 346478,
+      "sha256": "494006bc87f2efca7a49b79e5e34a5d6b4d08bd7705340584ec141a191cd598c",
+      "width": 1000,
+      "height": 2222,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "storage_filename": "nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+          "line": 172,
+          "column": 17,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84630,
+          "column": 19,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/494006bc87f2efca7a49b79e5e34a5d6b4d08bd7705340584ec141a191cd598c/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/494006bc87f2efca7a49b79e5e34a5d6b4d08bd7705340584ec141a191cd598c/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "494006bc87f2efca7a49b79e5e34a5d6b4d08bd7705340584ec141a191cd598c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 185346,
+      "sha256": "1b49cd3c387f92459a8af34a9b0559b8f303dc3eb22efc9b8749607fe4218468",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-nova-embalagem.webp",
+      "storage_filename": "nanlac-supreme-pro-nova-embalagem.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-1-a-3-anos.json",
+          "line": 271,
+          "column": 17,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84729,
+          "column": 19,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-nova-embalagem.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1b49cd3c387f92459a8af34a9b0559b8f303dc3eb22efc9b8749607fe4218468/nanlac-supreme-pro-nova-embalagem.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b49cd3c387f92459a8af34a9b0559b8f303dc3eb22efc9b8749607fe4218468/nanlac-supreme-pro-nova-embalagem.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "1b49cd3c387f92459a8af34a9b0559b8f303dc3eb22efc9b8749607fe4218468",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
       "local_url": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
       "media_kind": "image",
@@ -56979,6 +57163,144 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "944387bc114ec6049bfd06433adaefdfcfef21d89180b7014d67b0798140e90b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57272,
+      "sha256": "7e163751d5dacc0fbb46c373193b6cfc42bd04245e7b8ea74174194d9017f982",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-sem-sabor-capa.webp",
+      "storage_filename": "isosource-1-5-sem-sabor-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83857,
+          "column": 15,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7e163751d5dacc0fbb46c373193b6cfc42bd04245e7b8ea74174194d9017f982/isosource-1-5-sem-sabor-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7e163751d5dacc0fbb46c373193b6cfc42bd04245e7b8ea74174194d9017f982/isosource-1-5-sem-sabor-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "7e163751d5dacc0fbb46c373193b6cfc42bd04245e7b8ea74174194d9017f982",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28070,
+      "sha256": "238241867d07d72bbe0260ab31b1180b3a94a4461a722d3f4ccee3b30c403496",
+      "width": 480,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-sem-sabor-instrucoes.webp",
+      "storage_filename": "isosource-1-5-sem-sabor-instrucoes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-para-que-serve.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84031,
+          "column": 19,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/238241867d07d72bbe0260ab31b1180b3a94a4461a722d3f4ccee3b30c403496/isosource-1-5-sem-sabor-instrucoes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/238241867d07d72bbe0260ab31b1180b3a94a4461a722d3f4ccee3b30c403496/isosource-1-5-sem-sabor-instrucoes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "238241867d07d72bbe0260ab31b1180b3a94a4461a722d3f4ccee3b30c403496",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95382,
+      "sha256": "07cec33a970d3191aad60845c25b2fb52dcaf5edb284d57b8443697f08f95b1c",
+      "width": 628,
+      "height": 1058,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "storage_filename": "isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-para-que-serve.json",
+          "line": 164,
+          "column": 17,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83999,
+          "column": 19,
+          "literal": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/07cec33a970d3191aad60845c25b2fb52dcaf5edb284d57b8443697f08f95b1c/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/07cec33a970d3191aad60845c25b2fb52dcaf5edb284d57b8443697f08f95b1c/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "07cec33a970d3191aad60845c25b2fb52dcaf5edb284d57b8443697f08f95b1c",
       "verification_status": "verified"
     },
     {
@@ -57211,6 +57533,172 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "2725f5f5aaedc9afe4762dc43b49cd71381f8e814a63665ae4142acfaa177cac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 201632,
+      "sha256": "d6051430536eab8e87cbfc01b4cca6a4a3425cb656cac6bc684b3efdaee185c5",
+      "width": 1000,
+      "height": 1825,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-multi-alegacoes-uso.webp",
+      "storage_filename": "nutren-a-z-multi-alegacoes-uso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-multi-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-multi-para-que-serve.json",
+          "line": 48,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84206,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d6051430536eab8e87cbfc01b4cca6a4a3425cb656cac6bc684b3efdaee185c5/nutren-a-z-multi-alegacoes-uso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6051430536eab8e87cbfc01b4cca6a4a3425cb656cac6bc684b3efdaee185c5/nutren-a-z-multi-alegacoes-uso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "d6051430536eab8e87cbfc01b4cca6a4a3425cb656cac6bc684b3efdaee185c5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-multi-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-multi-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132296,
+      "sha256": "00305bbf082193ee73fdb1834f612c01410f007e5b288cfd748b65a80b8a462e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-multi-capa.webp",
+      "storage_filename": "nutren-a-z-multi-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-multi-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-multi-para-que-serve.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84180,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/00305bbf082193ee73fdb1834f612c01410f007e5b288cfd748b65a80b8a462e/nutren-a-z-multi-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/00305bbf082193ee73fdb1834f612c01410f007e5b288cfd748b65a80b8a462e/nutren-a-z-multi-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "00305bbf082193ee73fdb1834f612c01410f007e5b288cfd748b65a80b8a462e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84718,
+      "sha256": "80b83a824c50b355a6a2e46aa612bc3099fe0d7511fb669f11664f9312ea5edb",
+      "width": 925,
+      "height": 2290,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-multi-frente-frasco.webp",
+      "storage_filename": "nutren-a-z-multi-frente-frasco.webp",
+      "status": "candidate",
+      "reference_status": "unknown",
+      "draft_owners": [],
+      "owners": [],
+      "references": [],
+      "remote_key": "v1/image/80b83a824c50b355a6a2e46aa612bc3099fe0d7511fb669f11664f9312ea5edb/nutren-a-z-multi-frente-frasco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/80b83a824c50b355a6a2e46aa612bc3099fe0d7511fb669f11664f9312ea5edb/nutren-a-z-multi-frente-frasco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "80b83a824c50b355a6a2e46aa612bc3099fe0d7511fb669f11664f9312ea5edb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 364580,
+      "sha256": "4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0",
+      "width": 1000,
+      "height": 1896,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-multi-tabela-ingredientes.webp",
+      "storage_filename": "nutren-a-z-multi-tabela-ingredientes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-multi-para-que-serve.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-multi-para-que-serve.json",
+          "line": 171,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84329,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0/nutren-a-z-multi-tabela-ingredientes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0/nutren-a-z-multi-tabela-ingredientes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T18:51:51.261Z",
+      "verification_etag_or_digest": "4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0",
       "verification_status": "verified"
     },
     {

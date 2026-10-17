@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com os dados do rótulo da seção final"
+proxima_acao: "upload das imagens com o GO do Bruno, build e deploy"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 55
@@ -264,3 +264,158 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - **Ingredientes:** lactose, soro de leite desmineralizado, oleína de palma, leite desnatado, proteína concentrada do soro de leite, óleo de palmiste, óleo de canola com baixo teor erúcico, óleo de milho, minerais, óleo de Mortierella alpina (ARA), óleo de Schizochytrium sp. (DHA), 2'-O-fucosilactose, lacto-N-tetraose, 6'-sialilactose, 3'-sialilactose, vitaminas, emulsificante lecitina de soja, reguladores de acidez ácido cítrico e hidróxido de potássio.
 - **Alérgicos:** contém leite e derivados e derivados de soja. Contém lactose. Não contém glúten.
 - **Não usar:** "ideal para crianças de 1 a 3 anos" e "proteína de alta qualidade" (texto de venda da página).
+
+## Aprovação do texto (17/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 17/10/2026. JSON em `content/reviews/nanlac-supreme-pro-1-a-3-anos.json` (id 455).
+
+- Revisão: são 5 lotes do Nanlac Supreme Pro 1 a 3 anos (5301046041, 5302046041, 5338046041, 5339046041 e 5340046041), pelo alerta DIVS 01/2026 da Vigilância Sanitária de SC; RE nº 32 de 06/01/2026, DOU de 07/01/2026. O Supreme sem "Pro" não está na lista. Motivo, "ferver não elimina a toxina" e o SAC 0800 761 2500 conferidos na Nota Técnica Conjunta nº 17/2026. Saiu a frase do Guia Alimentar (não conferida).
+- Aviso do Ministério da Saúde: uma vez só, em `notice` na primeira seção (decisão do Bruno, 17/10/2026). O contrato pede também perto da tabela de preços; perguntado ao Bruno.
+- O verso da lata diz "ácido linolênico" na segunda linha (a página da loja repete "linoleico"). A lata se diz "fórmula infantil de seguimento para crianças de primeira infância".
+- Imagens: frente, verso e "nova embalagem" da galeria da Nestlé Nutre, salvas pelo Bruno em 17/10/2026.
+
+## Texto aprovado
+
+### Resposta rápida: o que é o Nanlac Supreme Pro 1 a 3 anos
+
+O Nanlac Supreme Pro é uma fórmula infantil de primeira infância, da Nestlé, para crianças de 1 a 3 anos. A lata tem 800 g. Segundo a Nestlé Nutre, o preço em 17/10/2026 é R$ 95,53 (de R$ 112,39). Pelas medidas do rótulo, a lata rende cerca de 5,7 litros de preparo, ou 24 copos de 210 ml (conta nossa). Antes de comprar ou de usar uma lata que já está em casa, confira o número do lote no fundo da lata: lotes do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026.
+
+**AVISO IMPORTANTE: ESTE PRODUTO NÃO DEVE SER USADO PARA ALIMENTAR CRIANÇAS MENORES DE 1 (UM) ANO DE IDADE.**
+
+**O MINISTÉRIO DA SAÚDE INFORMA: O ALEITAMENTO MATERNO EVITA INFECÇÕES E ALERGIAS E É RECOMENDADO ATÉ OS 2 (DOIS) ANOS DE IDADE OU MAIS.**
+
+Este guia reúne o que a Nestlé publica na página do produto e no rótulo. Não testamos o produto. A escolha do leite ou da fórmula da criança é uma conversa para ter com o pediatra ou nutricionista.
+
+### É fórmula infantil, leite ou composto lácteo?
+
+É fórmula infantil. A página da Nestlé Nutre vende o produto como "fórmula infantil de primeira infância", e a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa chama a linha Nanlac de fórmula infantil. Não é leite em pó nem composto lácteo. Para entender a diferença entre os três tipos de produto, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo).
+
+Há outras fórmulas da marca para faixas de idade menores. Elas são outros produtos, com regras próprias, e este guia não trata delas.
+
+### Para quem é e quem não deve usar
+
+| Item | O que diz o rótulo |
+|---|---|
+| Faixa de idade | 1 a 3 anos |
+| Menores de 1 ano | Não deve ser usado |
+| Contém | Leite e derivados, derivados de soja e lactose |
+| Não contém | Glúten |
+| Embalagem | Lata de 800 g |
+
+Como o produto contém leite, soja e lactose, ele não serve para quem tem restrição a esses ingredientes. Dúvida sobre alergia ou intolerância é assunto para o pediatra.
+
+### Composição e tabela nutricional
+
+Segundo a Nestlé, são quatro HMOs (oligossacarídeos do leite humano, na sigla em inglês): 2'-FL, LNT, 3'-SL e 6'-SL. A lata traz também ARA e DHA, obtidos de óleos de microrganismos.
+
+**Ingredientes, pela ordem do rótulo:** lactose, soro de leite desmineralizado, oleína de palma, leite desnatado, proteína concentrada do soro de leite, óleo de palmiste, óleo de canola com baixo teor erúcico, óleo de milho, minerais, óleo de Mortierella alpina (ARA), óleo de Schizochytrium sp. (DHA), 2'-O-fucosilactose, lacto-N-tetraose, 6'-sialilactose, 3'-sialilactose, vitaminas, emulsificante lecitina de soja e reguladores de acidez ácido cítrico e hidróxido de potássio.
+
+| Por | 100 g de pó | 100 ml preparado |
+|---|---|---|
+| Valor energético | 477 kcal | 67 kcal |
+| Carboidratos | 63 g | 8,8 g |
+| Açúcares totais | 61 g | 8,6 g |
+| Açúcares adicionados | 31 g | 4,4 g |
+| Proteínas | 10 g | 1,4 g |
+| Gorduras totais | 21 g | 2,9 g |
+| ARA | 85 mg | 12 mg |
+| DHA | 85 mg | 12 mg |
+| 2'-FL | 0,2 g | n/d |
+| LNT | 0,1 g | n/d |
+| 3'-SL | 0,04 g | n/d |
+| 6'-SL | 0,03 g | n/d |
+| Cálcio | 570 mg | 80 mg |
+| Ferro | 8,3 mg | 1,2 mg |
+| Vitamina D | 10 µg | 1,4 µg |
+
+Fonte: tabela publicada na página do produto na Nestlé Nutre, lida em 17/10/2026. "100 ml preparado" é a diluição de 14,1 g de pó em 90 ml de água. A página não traz os HMOs por 100 ml.
+
+A tabela declara 31 g de açúcares adicionados a cada 100 g de pó. Esse é um dos pontos para levar à conversa com o pediatra.
+
+### Como preparar, passo a passo
+
+O preparo errado é um risco à parte: siga as medidas do rótulo, sem aumentar nem diminuir o pó.
+
+1. Lave bem as mãos e os utensílios.
+2. Ferva a água por 5 minutos.
+3. Espere cerca de 15 minutos, até a água chegar a 70 °C.
+4. Meça o pó com a colher-medida que vem na lata, sempre nivelada (1 colher rasa para cada 30 ml de água).
+5. Misture até dissolver.
+6. Pingue um pouco no punho: a temperatura deve ficar em torno de 40 °C.
+7. Não guarde o que sobrar. Se for absolutamente necessário, o rótulo diz para refrigerar abaixo de 5 °C por no máximo 24 horas.
+
+| Medida | Valor |
+|---|---|
+| Proporção | 14,1 g de pó + 90 ml de água = 100 ml |
+| Colher-medida | 4,7 g |
+| Para 30 ml de água | 1 colher rasa |
+| Copo de transição (tabela da lata, após o 12º mês) | 210 ml de água a 70 °C + 7 medidas rasas |
+
+A tabela de alimentação da lata, para depois do 12º mês, sugere entre 3 e 2 copos de transição por dia. O rótulo diz que novos alimentos entram com orientação de médico ou nutricionista.
+
+### Quanto rende a lata de 800 g
+
+Conta nossa, a partir das medidas do rótulo:
+
+| Cálculo | Resultado |
+|---|---|
+| 800 g ÷ 14,1 g por 100 ml | cerca de 56 porções de 100 ml, ou 5,7 litros |
+| 7 medidas de 4,7 g por copo de 210 ml | 32,9 g de pó por copo |
+| 800 g ÷ 32,9 g | cerca de 24 copos de 210 ml |
+| 24 copos em 3 por dia | cerca de 8 dias |
+| 24 copos em 2 por dia | cerca de 12 dias |
+
+Com o preço de 17/10/2026 (R$ 95,53), o custo de um copo de 210 ml fica em cerca de R$ 3,93 (conta nossa: R$ 95,53 ÷ 24,3 copos). É uma conta de referência: a quantidade real depende de quanto a criança toma e de como se mede o pó.
+
+### Conservação
+
+Lata bem tampada, em local seco, fresco e arejado. Depois de aberta, a lata diz "até 30 dias". A página da loja fala em 4 semanas; vale o que está na lata.
+
+### Nanlac Supreme ou Supreme Pro: o que mudou
+
+O Supreme Pro ocupa o lugar do Supreme. Na galeria da página da Nestlé Nutre, uma imagem avisa "Nova embalagem, nova fórmula e nova marca": a lata "Nanlac Supreme 1 a 3 anos" virou "Nanlac Supreme Pro 1 a 3 anos", com os quatro HMOs citados acima. Em 17/10/2026, a loja vendia só o Supreme Pro. A lista do recolhimento de janeiro, na próxima seção, traz lotes do Supreme Pro; o Supreme antigo não aparece nela.
+
+### O Nanlac Supreme Pro foi recolhido? Como conferir o lote
+
+Em parte. Em 5 de janeiro de 2026, a Nestlé comunicou à Anvisa o recolhimento voluntário de lotes de fórmulas infantis. A Anvisa publicou a Resolução RE nº 32, de 6 de janeiro de 2026 (Diário Oficial de 7 de janeiro), que proibiu a comercialização, a distribuição e o uso dos lotes listados. O motivo, segundo a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa, foi a presença de cereulida, toxina produzida pela bactéria Bacillus cereus, vinda de um óleo ARA usado na produção. A nota diz que a medida é preventiva e que só os lotes informados oficialmente estão sendo recolhidos.
+
+Do Nanlac Supreme Pro 1 a 3 anos, a lista tem cinco lotes: 5301046041, 5302046041, 5338046041, 5339046041 e 5340046041.
+
+**Como conferir a sua lata:**
+
+1. Veja, no painel da frente, o nome do produto, a faixa de idade e o peso (Nanlac Supreme Pro, 1 a 3 anos, 800 g).
+2. Procure o número do lote impresso no fundo da lata, junto da validade.
+3. Compare com os cinco lotes acima.
+4. Se o lote estiver na lista, não use. A nota técnica avisa que ferver ou preparar a fórmula de outro jeito não elimina a toxina.
+5. Fale com a Nestlé sobre devolução, troca ou reembolso: 0800 761 2500 (número que consta na nota técnica).
+
+Os outros lotes não foram afetados. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.
+
+Os lotes listados venciam em 2026. Não encontramos notícia do caso depois de fevereiro de 2026, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano.
+
+### Onde comprar e quanto custa
+
+Na Nestlé Nutre, loja oficial, em 17/10/2026:
+
+| Opção | Preço |
+|---|---|
+| Preço de tabela | R$ 112,39 |
+| Compra única, com 15% de desconto | R$ 95,53 |
+| Assinatura | R$ 95,53 (sem desconto extra) |
+| Combo leve 5, pague 4 | R$ 449,56 (conta nossa: R$ 89,91 por lata) |
+
+O código CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções: o desconto aparece no resumo do pedido antes de pagar. O passo a passo do código está em [como usar o CECI na Nestlé Nutre](/reviews/cupom-ceci-nestle-nutre-como-usar), e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre).
+
+Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
+
+### Perguntas frequentes
+
+- O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026, e os demais não foram afetados. Confira o lote no fundo da lata e compare com a lista oficial.
+- Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.
+- Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.
+- Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.
+- Quanto tempo dura a lata aberta do Nanlac Supreme Pro? O rótulo diz até 30 dias, com a lata bem tampada em local seco, fresco e arejado.
+
+### Nota de transparência
+
+Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas na Nestlé Nutre com o código CECI. Fontes: página do produto na Nestlé Nutre (preço, tabela, preparo e ingredientes), Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa e comunicado de recolhimento da Nestlé. Não testamos o produto. Preço, desconto e status do recolhimento mudam: confira antes de comprar.

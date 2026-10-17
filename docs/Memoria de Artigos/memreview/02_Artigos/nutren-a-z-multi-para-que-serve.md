@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com os dados do rótulo da seção final"
+proxima_acao: "upload das imagens com o GO do Bruno, build e deploy"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 58
@@ -253,3 +253,109 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - **Fabricante:** Sorocaps Indústria Farmacêutica Ltda. (Sorocaba-SP) para Nestlé Brasil. Alimento notificado na Anvisa. SAC 0800-7702461.
 - **Seção "Multi, Mulher e Senior" (fica):** imagem oficial da loja "Linha completa Nutren multivitamínicos": Multi A-Z para adultos, 1 cápsula/dia, 30 ou 60 cápsulas; A-Z Mulher para mulheres, 2 cápsulas/dia, 60; Sênior A-Z para adultos 50+, 2 cápsulas/dia, 60. Preços na loja (17/10): Mulher R$ 55,91 (assinatura R$ 48,92); Senior R$ 79,89 (assinatura R$ 71,90). A seção compara público, dose, embalagem e preço, sem a composição dos outros dois.
 - **Fotos para o artigo:** `C:\Users\Bruno\Downloads\Mobile Devices\20261017_145404.jpg` (frente; recortar o site da Nutre ao fundo, que mostra "Seja um Afiliado"), `20261017_145423.jpg` (tabela e ingredientes), `20261017_145434.jpg` (alegações, uso e fabricante).
+
+## Aprovação do texto (17/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 17/10/2026. JSON em `content/reviews/nutren-a-z-multi-para-que-serve.json` (id 454).
+
+- Revisão: frase única de orientação do médico ou nutricionista em "Como tomar"; o custo por dia usa o preço de compra única de 17/10/2026.
+- Imagens: as 3 fotos do Bruno (17/10/2026), recortadas sem o site da loja ao fundo.
+
+## Texto aprovado
+
+### Resposta rápida: o que é o Nutren A-Z Multi
+
+O Nutren A-Z Multi é um suplemento alimentar em cápsulas, da Nestlé, com 13 vitaminas e 7 minerais. A dose do rótulo é 1 cápsula por dia, para maiores de 19 anos (adultos). O frasco de 60 cápsulas dura 60 dias nessa dose.
+
+O rótulo não declara quantidade significativa de valor energético, carboidratos, açúcares, proteínas, gorduras, fibras nem sódio. Declara que não contém glúten e que contém derivados de soja. Na loja oficial da Nestlé Nutre, em 17/10/2026, o frasco de 60 cápsulas estava a R$ 48,92.
+
+Este guia é feito a partir do rótulo do frasco e da página da loja. Não é um teste de uso.
+
+### Para que serve o Nutren A-Z Multi, segundo o rótulo
+
+O rótulo traz três alegações, e cada uma vem com os nutrientes que a sustentam:
+
+- As vitaminas A, C e D, o zinco e o selênio auxiliam no funcionamento do sistema imune.
+- As vitaminas B1, B2, B6 e B12, a niacina e o ácido pantotênico auxiliam no metabolismo energético.
+- As vitaminas C e E e o zinco auxiliam na proteção dos danos causados pelos radicais livres.
+
+É só isso que o fabricante afirma no frasco. O produto é um suplemento alimentar, não é medicamento, e este texto não vai além dessas frases.
+
+### Composição: o que tem em cada cápsula
+
+A informação nutricional do rótulo é por porção de 0,75 g, que é 1 cápsula, com 60 porções por embalagem. O %VD é o percentual dos valores diários fornecido por essa porção.
+
+| Nutriente | Por cápsula | %VD |
+|---|---|---|
+| Vitamina A | 600 µg | 75% |
+| Vitamina D | 5 µg | 33% |
+| Vitamina E | 10 mg | 67% |
+| Vitamina K | 65 µg | 54% |
+| Vitamina C | 45 mg | 45% |
+| Vitamina B1 | 1,2 mg | 100% |
+| Vitamina B2 | 1,3 mg | 108% |
+| Vitamina B3 (niacina) | 16 mg | 107% |
+| Vitamina B5 (ácido pantotênico) | 5 mg | 100% |
+| Vitamina B6 | 1,3 mg | 100% |
+| Vitamina B7 (biotina) | 30 µg | 100% |
+| Ácido fólico | 400 µg | 100% |
+| Vitamina B12 | 2,4 µg | 100% |
+| Cobre | 900 µg | 100% |
+| Cromo | 35 µg | 100% |
+| Ferro | 14 mg | 100% |
+| Manganês | 1 mg | 33% |
+| Molibdênio | 45 µg | 100% |
+| Selênio | 34 µg | 57% |
+| Zinco | 7 mg | 64% |
+
+O rótulo fala em "minerais quelados" e cita o bisglicinato de ferro, o bisglicinato de manganês e a selenometionina.
+
+### Nutren A-Z Multi engorda? As calorias por cápsula
+
+O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, gorduras saturadas, gorduras trans, fibras alimentares e sódio. Ou seja, o número que o frasco traz para calorias é "não significativo". O que pesa na balança continua sendo o conjunto do que cada pessoa come no dia.
+
+### Ingredientes, alérgicos e dieta
+
+Além das vitaminas e dos minerais, o rótulo lista óleo de girassol, água purificada, gelatina (gelificante), glicerol (umectante), lecitina (emulsificante), carbonato de cálcio, carmins e sais de potássio e sódio de clorofilina cúprica (corantes) e cera de abelha (estabilizante).
+
+- Alérgicos: contém derivados de soja.
+- Glúten: o rótulo diz que não contém.
+- Por ter gelatina, carmim e cera de abelha, o produto não é vegano.
+
+### Como tomar
+
+O modo de uso do rótulo é ingerir 1 cápsula ao dia. O produto é indicado para maiores de 19 anos (adultos), e o rótulo pede para não exceder a recomendação diária. Mantenha fora do alcance de crianças. Quem já toma remédio ou outro suplemento deve falar antes com o médico ou nutricionista, como o próprio rótulo orienta.
+
+Conservação, também pelo rótulo: local seco, fresco e ao abrigo da luz. Depois de aberto, consumir em até 60 dias, o que cobre as 60 cápsulas na dose de uma por dia.
+
+### Multi, Mulher e Senior: o que muda na linha
+
+A linha Nutren de multivitamínicos em cápsula tem três versões. A tabela vem da imagem oficial da linha, na loja da Nestlé Nutre. Aqui comparamos público, dose, frasco e preço. A composição das outras duas está nos rótulos delas.
+
+| Versão | Para quem | Dose diária | Frasco | Preço na loja (17/10/2026) | Custo por dia (conta nossa) |
+|---|---|---|---|---|---|
+| A-Z Multi | Adultos | 1 cápsula | 30 ou 60 cápsulas | 30 cápsulas: R$ 30,31; 60 cápsulas: R$ 48,92 | R$ 1,01 (30); R$ 0,82 (60) |
+| A-Z Mulher | Mulheres | 2 cápsulas | 60 cápsulas | R$ 55,91 | R$ 1,86 |
+| Sênior A-Z | Adultos 50+ | 2 cápsulas | 60 cápsulas | R$ 79,89 | R$ 2,66 |
+
+O custo por dia é uma conta nossa: preço do frasco dividido pelos dias que ele dura na dose indicada (60 dias para o Multi de 60 cápsulas, 30 dias para Mulher e Senior). Usamos o preço de compra única da loja em 17/10/2026, sem assinatura e sem código, e ele muda. Para ver as outras linhas, leia o [guia das linhas Nutren](/reviews/nestle-nutre-produtos-para-que-servem) e o texto sobre o [Nutren Senior em pó](/reviews/nutren-senior-como-tomar-sem-empelotar).
+
+### Quanto dura o frasco e quanto custa
+
+Com 1 cápsula por dia, o frasco de 60 cápsulas dura 60 dias, e o de 30 dura 30. Em 17/10/2026, a página do produto na Nestlé Nutre mostrava o de 60 cápsulas de R$ 69,89 por R$ 48,92 (30% de desconto), e a assinatura a R$ 41,93. Pela nossa conta, são cerca de R$ 0,82 por dia na compra única e R$ 0,70 na assinatura.
+
+### Onde comprar e como usar o CECI
+
+O Nutren A-Z Multi 60 cápsulas está na loja oficial da Nestlé Nutre. O CECI dá 10% OFF na loja oficial, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Digite o código no carrinho e confira o valor no resumo do pedido. As regras ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre).
+
+### Perguntas frequentes
+
+- Nutren A-Z Multi tem glúten? Não. O rótulo diz "não contém glúten" e informa que contém derivados de soja.
+- Nutren A-Z Multi engorda? O rótulo declara que a cápsula não tem quantidade significativa de valor energético, carboidratos, açúcares, proteínas ou gorduras.
+- Nutren A-Z Multi, como tomar? Uma cápsula ao dia, por adultos maiores de 19 anos, sem exceder a recomendação diária do rótulo.
+- Pode tomar Nutren A-Z Multi com outro suplemento? O rótulo orienta que, ao consumir outros suplementos, se consulte um profissional de saúde.
+- Quanto dura o Nutren A-Z Multi de 60 cápsulas? Com 1 cápsula por dia, dura 60 dias. Depois de aberto, o rótulo pede consumo em até 60 dias.
+
+### Nota de transparência
+
+Este é um guia de leitura de rótulo, sem teste próprio. Fontes: o frasco do Nutren A-Z Multi 60 cápsulas (fabricado pela Sorocaps Indústria Farmacêutica Ltda. para a Nestlé Brasil) e a página oficial da Nestlé Nutre. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho.

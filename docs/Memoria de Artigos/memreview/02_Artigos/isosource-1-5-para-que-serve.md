@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com os dados do rótulo da seção final"
+proxima_acao: "upload das imagens com o GO do Bruno, build e deploy"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 68
@@ -323,3 +323,131 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - **Alérgicos:** contém derivados de leite e soja. Não contém glúten.
 - **Página (recomendações):** indicação "na manutenção ou recuperação do estado nutricional de pacientes com maiores necessidades calóricas e/ou com restrição de volume"; "Usar somente sob orientação médica ou de nutricionista. Proibido o uso por via parenteral."
 - **Decisões:** RDC 976/2025 no lugar da RDC 21/2015 (o art. 33 proíbe citar doença, alegação de saúde e faixa etária; conferir no DOU antes da redação). Sem o comparativo "Isosource ou Nutren Senior". Sem "engorda?" no FAQ. Os comparativos com Trophic e Nutrison continuam. O CECI vale no Isosource (pedidos do painel).
+
+## Aprovação do texto (17/10/2026)
+
+Texto escrito por um redator (Job 2), revisado por Claude (Job 3) e aprovado pelo Bruno em 17/10/2026. JSON em `content/reviews/isosource-1-5-para-que-serve.json` (id 453).
+
+- Revisão: o art. 33 da RDC 976/2025 foi conferido no texto da norma (proíbe alegação de saúde, condição de saúde, faixa etária e termos de vantagem ou segurança falsos). Saiu a citação da loja sobre "pacientes com maiores necessidades calóricas"; o texto fica com o que a caixa declara.
+- Imagens: frente, verso e lateral oficiais da Nestlé Health Science (/marcas/isosource/1-5-tetra-square-1l), as mesmas da galeria da Nestlé Nutre, que bloqueia download direto.
+
+## Texto aprovado
+
+Isosource 1.5 Sem Sabor é uma fórmula padrão para nutrição enteral e oral, com 1,5 kcal por mL, em caixa de 1 litro com tampa. O rótulo diz que o uso é "somente sob orientação médica ou de nutricionista", e é essa orientação que define quanto, quando e como usar. Aqui está o que a embalagem e a página da loja declaram, a tabela por 100 mL, as contas de rendimento por litro e o preço na Nestlé Nutre em 17/10/2026.
+
+Este guia não é indicação de uso nem de dose. Todos os dados do produto vêm do rótulo e da página da Nestlé Nutre, lidos em 17/10/2026. Não testamos nem recebemos o produto.
+
+### O que é o Isosource 1.5 Sem Sabor de 1 L
+
+É o produto da Nestlé Health Science vendido na Nestlé Nutre como "Isosource 1.5 Sem Sabor", em Tetra Square de 1 litro com tampa. A frente da embalagem declara:
+
+- Fórmula padrão para nutrição enteral e oral.
+- 1,5 kcal/mL, "fórmula com densidade energética alta".
+- Sem adição de sacarose.
+- Não contém lactose.
+
+Na lateral está a advertência: "Usar somente sob orientação médica ou de nutricionista". A página da loja acrescenta: "Proibido o uso por via parenteral".
+
+Atenção ao nome: este SKU não é a apresentação "Sistema Fechado". A Nestlé lista outras versões de 1 L de Isosource 1.5 com esse nome, e o rótulo que lemos é o da caixa com tampa.
+
+### Para que serve o Isosource 1.5, segundo o rótulo e a loja
+
+O rótulo o define como fórmula padrão para nutrição enteral e oral: pode ser dada por sonda (enteral) ou tomada pela boca (oral), conforme a prescrição.
+
+A alta densidade energética, 1,5 kcal por mL, é o que permite entregar mais energia em menos volume. Quem decide se essa fórmula é a adequada em cada caso é o médico ou o nutricionista.
+
+### Tabela nutricional por 100 mL e por litro
+
+Valores do rótulo, por 100 mL. A coluna por litro é conta nossa (valor por 100 mL multiplicado por 10).
+
+| Item | Por 100 mL (rótulo) | Por litro (conta nossa) |
+|---|---|---|
+| Valor energético | 151 kcal | 1.510 kcal |
+| Carboidratos | 21 g | 210 g |
+| Açúcares totais | 1 g | 10 g |
+| Açúcares adicionados | 1 g | 10 g |
+| Sacarose | 0 g | 0 g |
+| Lactose | 0 g | 0 g |
+| Proteínas | 6,3 g | 63 g |
+| Gorduras totais | 4,5 g | 45 g |
+| Gorduras saturadas | 0,9 g | 9 g |
+| Gorduras monoinsaturadas | 1,7 g | 17 g |
+| Gorduras poli-insaturadas | 1,7 g | 17 g |
+| Ômega 3 | 200 mg | 2.000 mg |
+| Fibras | 0,8 g | 8 g |
+| Sódio | 110 mg | 1.100 mg |
+| Cálcio | 110 mg | 1.100 mg |
+| Potássio | 260 mg | 2.600 mg |
+| Vitamina D | 1,4 µg | 14 µg |
+| Vitamina B12 | 0,35 µg | 3,5 µg |
+
+O verso informa osmolaridade de 410 mOsm/L de água e registro MS 4.0076.1938. O rótulo diz também que cada 1 mL fornece 1,5 kcal.
+
+### Ingredientes e alergênicos
+
+Ingredientes do rótulo: água, maltodextrina, caseinato de cálcio, proteína isolada de soja, óleo de canola com baixo teor erúcico, óleo de soja, caseinato de sódio, minerais, inulina, triglicerídeos de cadeia média, fibra de soja, vitaminas, sal, emulsificante lecitina de soja, regulador de acidez hidróxido de potássio e estabilizante carragena.
+
+- Contém derivados de leite e de soja.
+- Não contém glúten.
+- Não contém lactose, como declara a frente. O caseinato é derivado do leite, então "sem lactose" não quer dizer "sem leite".
+- Tem fibras (inulina e fibra de soja), mesmo que o nome do produto não diga.
+
+### Como conservar e como manusear
+
+Pelo verso da embalagem:
+
+- A fórmula é uma "dieta líquida pronta para uso".
+- Agitar bem antes de usar.
+- É comercialmente estéril e deve ser manuseada conforme as Boas Práticas de Manipulação.
+- Fechada: temperatura ambiente, em local seco e fresco.
+- Aberta: tampada e refrigerada por no máximo 24 horas.
+
+O rótulo não traz dose nem frequência de uso. Esses dados vêm da prescrição.
+
+### Quanto rende o litro
+
+Contas nossas, feitas com a tabela do rótulo (151 kcal e 6,3 g de proteína por 100 mL). Não são dose nem recomendação.
+
+| Conta | Resultado |
+|---|---|
+| Energia em 1 litro | 1.510 kcal |
+| Proteína em 1 litro | 63 g |
+| Proteína a cada 1.000 kcal | cerca de 41,7 g |
+| Volume para 1.000 kcal | cerca de 662 mL |
+
+O rótulo arredonda para 1,5 kcal por mL (1.500 kcal por litro); a tabela de 151 kcal por 100 mL dá 1.510 kcal. Usamos o valor da tabela. Quantos litros ou mL cabem em um dia é decisão do profissional, que parte da necessidade de cada pessoa.
+
+### Quanto tomar por dia: quem define
+
+O rótulo não traz dose diária, e a casa também não dá. Volume, horários e via de administração são definidos pelo médico ou nutricionista, caso a caso. A conta acima serve para você entender o que há em cada litro e para conversar com quem prescreve.
+
+### Preço na Nestlé Nutre em 17/10/2026
+
+Preços da página do produto, lidos em 17/10/2026. Preço e estoque mudam, e vale o que aparece na loja na hora da compra.
+
+| Forma de compra | Preço |
+|---|---|
+| Compra única (de R$ 38,49, -15%) | R$ 32,72 |
+| Assinatura | R$ 28,87 |
+| Combo de 15 unidades | R$ 490,75 |
+| Combo de 30 unidades | R$ 923,76 |
+
+Contas nossas, com o preço de compra única: R$ 32,72 por litro equivale a cerca de R$ 3,27 por 100 mL e cerca de R$ 2,17 por 100 kcal.
+
+### Como comprar com o CECI
+
+O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O desconto aparece no resumo do pedido antes de pagar. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre).
+
+Para entender a diferença entre esta fórmula e as linhas de consumo da marca, veja [Nestlé Nutre: produtos e para que servem](/reviews/nestle-nutre-produtos-para-que-servem).
+
+### Perguntas frequentes
+
+- Isosource 1.5 Sem Sabor tem lactose? A frente da embalagem declara "Não contém lactose", e a tabela traz lactose 0 g. O produto contém derivados de leite (caseinato) e de soja.
+- Isosource 1.5 pode ser tomado pela boca? O rótulo o define como fórmula padrão para nutrição enteral e oral. A via em cada caso é definida pelo médico ou nutricionista.
+- Quanto tomar de Isosource 1.5 por dia? O rótulo não traz dose diária. Volume e frequência são definidos pelo médico ou nutricionista.
+- Quem pode tomar Isosource 1.5? O rótulo manda usar somente sob orientação médica ou de nutricionista, e é o profissional quem avalia cada caso.
+- Quantas kcal tem o Isosource 1.5 de 1 litro? São 151 kcal por 100 mL no rótulo, o que dá 1.510 kcal por litro (conta nossa). O rótulo arredonda para 1,5 kcal por mL.
+
+### Fontes e nota de transparência
+
+Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre, lidos em 17/10/2026. Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos o produto.
