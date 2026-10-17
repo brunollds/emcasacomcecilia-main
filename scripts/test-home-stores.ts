@@ -113,8 +113,9 @@ assert.deepEqual(magaluTab.articles[0], {
   imagePosition: undefined,
 });
 
-// Ordem das lojas: o artigo PT listado mais novo primeiro; empate e loja sem artigo mantêm a ordem recebida,
-// e as sem artigo vão para o fim. Artigo de outro idioma, rascunho e escondido da listagem não contam.
+// Ordem das lojas: o artigo PT listado mais novo primeiro; empate de data vai pelo id maior, como a lista de
+// artigos (a YesStyle passa a Magalu mesmo vindo depois); as sem artigo vão para o fim, na ordem recebida.
+// Artigo de outro idioma, rascunho e escondido da listagem não contam.
 const orderFixture = [
   review(21, 'a-damie', 'damie', '2026-10-01'),
   review(22, 'a-magalu', 'magalu', '2026-10-05'),
@@ -124,11 +125,11 @@ const orderFixture = [
   { ...review(26, 'shein-escondido', 'shein', '2026-10-21'), hideFromPortugueseListings: true },
   { ...review(27, 'shein-rascunho', 'shein', '2026-10-22'), draft: true },
 ];
-const orderStores = ['shein', 'damie', 'yesstyle', 'magalu', 'dolce-gusto', 'insider'].map(store);
+const orderStores = ['shein', 'damie', 'magalu', 'yesstyle', 'dolce-gusto', 'insider'].map(store);
 assert.deepEqual(
   sortStoresByNewestArticle(orderStores, orderFixture).map(({ slug }) => slug),
   ['yesstyle', 'magalu', 'damie', 'dolce-gusto', 'shein', 'insider'],
-  'mais novo primeiro; empate na ordem recebida; sem artigo (ou só de fora da listagem) no fim, na ordem recebida'
+  'mais novo primeiro; empate pelo id maior; sem artigo (ou só de fora da listagem) no fim, na ordem recebida'
 );
 assert.deepEqual(
   getHomeStoreTabs(orderFixture, orderStores).map(({ slug }) => slug),

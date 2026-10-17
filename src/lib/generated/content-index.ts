@@ -82913,5 +82913,924 @@ export const reviewsData: unknown[] = [
         "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
       }
     ]
+  },
+  {
+    "id": 449,
+    "slug": "belive-e-confiavel",
+    "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar",
+    "seoTitle": "Belive é confiável? CNPJ, trocas e site oficial",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conferimos a Belive antes de indicar a loja: vendida pela NHD Foods, CNPJ ativo em 16/10/2026, site oficial belivebefree.com.br, 7 dias para arrependimento, frete grátis por região e reputação Ótima no Reclame Aqui.",
+    "metaDescription": "A Belive é confiável? Veja quem vende, o CNPJ, o site oficial, as trocas, o frete grátis por região e a reputação no Reclame Aqui.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/belive-e-confiavel-home.webp",
+    "imageAlt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo nos dados públicos em 16/10/2026, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
+      "7 dias corridos para desistir da compra, com o frete de devolução por conta da Belive",
+      "Reputação Ótima no Reclame Aqui, com nota 8,1, em consulta de 16/10/2026",
+      "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO, contado sem o cupom",
+      "Pix com 5% de desconto, que soma com o cupom MAUAD"
+    ],
+    "cons": [
+      "O site não publica prazo para comunicar defeito",
+      "O reembolso não tem prazo publicado",
+      "Fora de SP, MG, RJ, DF, GO e do Sul, o frete grátis só vem acima de R$ 300",
+      "O rodapé não traz endereço de atendimento nem horário",
+      "A FAQ do site mostra uma faixa de frete diferente da página de regras de frete"
+    ],
+    "cta": {
+      "text": "Se a Belive faz sentido para você, entre pelo link da parceria e use o cupom MAUAD, de 10% OFF.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      "belive-reclame-aqui-nota-reputacao",
+      "cupom-belive-como-usar",
+      "black-friday-belive"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, é uma empresa registrada e ativa. A Belive é vendida pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., CNPJ 21.541.988/0002-57, que consta como **ativo** nos dados públicos em 16/10/2026.",
+          "O site oficial é **belivebefree.com.br**.",
+          "São 7 dias corridos, contados do recebimento, para desistir da compra. O produto precisa estar na embalagem original, sem uso, com nota fiscal.",
+          "O frete grátis começa em R$ 170 em SP, MG, RJ, DF e GO. O valor conta sem o cupom.",
+          "O cupom **MAUAD** dá 10% OFF no carrinho, em todas as formas de pagamento. Regras na [página do cupom da Belive](/cupons/belive)."
+        ]
+      },
+      {
+        "heading": "De quem é a Belive?",
+        "paragraphs": [
+          "A loja é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé do site e o cadastro público de CNPJ.",
+          "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 19/10/2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 09/12/2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
+          "Segundo o site, a marca existe **desde 2015**."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "Antes de pagar, confira três coisas:"
+        ],
+        "bullets": [
+          "O domínio, na barra do navegador, é **belivebefree.com.br**, sem letra trocada. Isso importa mais quando o link chegou por anúncio ou mensagem.",
+          "O rodapé mostra a razão social NHD Foods e o CNPJ 21.541.988/0002-57. Cruze o número numa consulta pública da Receita Federal.",
+          "O endereço usa conexão segura: o http redireciona para https. Isso mostra que a conexão é criptografada, não que a loja é idônea."
+        ],
+        "postParagraphs": [
+          "O rodapé não traz endereço de atendimento nem horário. Para falar com a loja, use sac@nhdfoods.com.br ou (34) 3317-6487."
+        ],
+        "image": "/images/reviews/belive/belive-e-confiavel-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site belivebefree.com.br com a razão social NHD Foods e o CNPJ 21.541.988/0002-57 marcados em amarelo",
+        "imageCaption": "Rodapé de belivebefree.com.br em 16/10/2026, com razão social e CNPJ. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 3.2
+      },
+      {
+        "heading": "O que a Belive vende",
+        "paragraphs": [
+          "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos. Não avaliamos sabor nem dieta.",
+          "Parte dos produtos é anunciada como **sem glúten** e **zero açúcar**. São declarações da loja e da embalagem, produto a produto. Se você é celíaco, diabético ou tem outra condição de saúde, converse com um médico ou nutricionista antes de comprar."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e defeito",
+        "paragraphs": [
+          "As regras de troca e devolução do site, lidas em 16/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site em 16/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "O que fazer",
+            "O que acontece"
+          ],
+          "rows": [
+            [
+              "Arrependimento",
+              "7 dias corridos a partir do recebimento",
+              "Pedido formal ao SAC dentro do prazo, com nota fiscal. Produto na embalagem original, sem uso nem violação",
+              "Frete de volta por conta da Belive. O valor volta depois da análise interna"
+            ],
+            [
+              "Defeito",
+              "Não publicado no site",
+              "Fotos do produto, do lote e da validade, enviadas ao SAC",
+              "Não há troca se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O site não publica prazo para o reembolso e não diz em quantos dias comunicar um defeito. Por isso, abra o pedido logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e pagamento",
+        "paragraphs": [
+          "O frete grátis depende do valor do pedido e da região. Segundo a página de regras de frete do site, em 16/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete em 16/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "SP, MG, RJ, DF e GO",
+              "R$ 170"
+            ],
+            [
+              "Sul",
+              "R$ 250"
+            ],
+            [
+              "Demais estados",
+              "R$ 300"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O limite conta o valor sem o cupom: aplicar o MAUAD não faz o pedido perder o frete grátis. Se a FAQ do site mostrar outra faixa, vale a página de regras de frete. Confirme o valor no checkout antes de pagar.",
+          "No pagamento, a loja aceita Visa, Mastercard, Hipercard, American Express e Elo, em até 2x sem juros e mais parcelas a partir de R$ 30. Também aceita boleto e Pix com 5% de desconto. O processamento é do parceiro Pagar.me/Stone. Se a operadora não autorizar o pagamento, o pedido é cancelado."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "No Reclame Aqui, o perfil \"Belive Be Free\" tem selo **Ótima** nos últimos seis meses e nota **8,1**, em consulta de 16/10/2026. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Onde comprar Belive original",
+        "paragraphs": [
+          "O caminho direto é o site oficial, belivebefree.com.br, onde valem as regras de troca e de frete deste artigo.",
+          "A loja oficial da Belive também está no Mercado Livre. Lá, o cupom MAUAD não vale. Antes de pagar em qualquer marketplace, confira se o vendedor é a loja oficial."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. No carrinho, ele entra no campo \"Código do cupom\", com o botão \"Aplicar cupom\".",
+          "O desconto é de 10% OFF em todo o site, em todas as formas de pagamento. Vale na primeira compra, soma com as ofertas do site e com os 5% do Pix. Não vale no Mercado Livre.",
+          "Fizemos o teste de carrinho do cupom em 16/10/2026. O passo a passo, com os números do teste, está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Belive?",
+        "paragraphs": [
+          "Do ponto de vista de confiança, sim. A empresa está ativa, o site publica razão social, CNPJ, trocas e frete, e a reputação no Reclame Aqui é Ótima.",
+          "Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o pedido precisa passar de R$ 300 para ter frete grátis. O site não publica prazo para defeito, então guarde nota e fotos desde a entrega. E o reembolso não tem prazo publicado."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui, em consulta de 16/10/2026.",
+          "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
+          "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
+          "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
+          "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com embalagem original, sem uso e com nota fiscal. Para defeito, o site não publica prazo.",
+          "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom (16/10/2026).",
+          "Tem cupom de primeira compra na Belive? Tem o MAUAD: 10% OFF no carrinho, em todas as formas de pagamento, válido na primeira compra. Não vale no Mercado Livre."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "slug": "belive-reclame-aqui-nota-reputacao",
+    "title": "Belive no Reclame Aqui: nota e reputação",
+    "seoTitle": "Belive no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Belive no Reclame Aqui em 16/10/2026: reputação Ótima, nota 8,1 nos últimos 6 meses, 100% das reclamações respondidas e 80% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Belive no Reclame Aqui: reputação Ótima, nota 8,1 e 80% de reclamações resolvidas nos 6 meses. Veja as queixas e o que fazer (16/10/2026).",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
+    "imageAlt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1",
+      "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
+      "80% das reclamações resolvidas nos últimos 6 e 12 meses",
+      "Tempo médio de resposta de 1 dia e 2 horas nos últimos 6 meses"
+    ],
+    "cons": [
+      "Nos 12 meses, a reputação cai para Boa (nota 7,8) e só 70% de quem avaliou voltaria a comprar",
+      "Nota média do consumidor de 7 nos 6 meses e 6,6 nos 12 meses",
+      "Responder não é resolver: as resolvidas ficaram entre 75% e 80% nas três janelas",
+      "Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas"
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      "belive-e-confiavel",
+      "cupom-belive-como-usar",
+      "black-friday-belive"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Belive tem reputação **Ótima** no Reclame Aqui nos últimos 6 meses, com nota 8,1. O período vai de 01/04 a 30/09/2026, e os dados são do perfil Belive Be Free consultado em 16/10/2026. Nesse período, a empresa recebeu 39 reclamações, respondeu todas e resolveu 80%.",
+          "O ponto mais fraco aparece nos 12 meses. A reputação cai para Boa, com nota 7,8, e só 70% de quem avaliou disse que voltaria a comprar.",
+          "Responder não é o mesmo que resolver. O perfil mostra as reclamações respondidas, mas a taxa de resolvidas ficou entre 75% e 80% nas três janelas.",
+          "Sobre a empresa por trás da marca e se ela é confiável, veja [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Belive",
+        "paragraphs": [
+          "A Belive vende alimentos pela internet, como combos de doces e brownies proteicos. Para quem compra pela primeira vez, o Reclame Aqui mostra se a empresa responde, quantas reclamações ela resolve e se quem reclamou voltaria a comprar. Os números abaixo mudam todo dia, então vale abrir o perfil de novo antes de pagar."
+        ]
+      },
+      {
+        "heading": "Os números da Belive no Reclame Aqui",
+        "paragraphs": [
+          "O perfil se chama Belive Be Free e está na categoria Alimentos e Bebidas, Alimentos Diet e Light. Em 16/10/2026, o selo de reputação era Ótima. A tabela traz as três abas que o perfil mostra, cada uma com o seu período:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil Belive Be Free no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026), de 12 meses (01/10/2025 a 30/09/2026) e de 2025 (01/01 a 31/12/2025), consultado em 16/10/2026",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "2025 (01/01 a 31/12/2025)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Ótima, nota 8,1",
+              "Boa, nota 7,8",
+              "Boa, nota 7,5"
+            ],
+            [
+              "Reclamações recebidas",
+              "39",
+              "70",
+              "59"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%",
+              "100%"
+            ],
+            [
+              "Aguardando",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Resolvidas",
+              "80%",
+              "80%",
+              "75%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "80%",
+              "70%",
+              "68,8%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "15",
+              "30",
+              "32"
+            ],
+            [
+              "Nota do consumidor",
+              "7",
+              "6,6",
+              "6,22"
+            ],
+            [
+              "Tempo médio de resposta",
+              "1 dia e 2 horas",
+              "1 dia e 13 horas",
+              "1 dia e 23 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os 6 meses são a janela mais forte. Nos 12 meses, a nota cai para 7,8 e o \"voltariam\" para 70%. Em 2025, ficaram em 7,5 e 68,8%.",
+          "Esses números têm um limite. Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas, e a nota do consumidor e o \"voltariam\" falam só dessa parte. Eles mostram como a Belive foi avaliada por quem usou o Reclame Aqui, não a experiência de todos os compradores."
+        ],
+        "image": "/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp",
+        "imageAlt": "Abas de 6 e 12 meses do perfil Belive Be Free no Reclame Aqui: 6 meses com reputação Ótima e nota 8,1, 12 meses com reputação Boa e nota 7,8, com os números marcados em amarelo",
+        "imageCaption": "Abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026) do perfil \"Belive Be Free\", consultadas em 16/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.679
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na lista de principais problemas do perfil, com reclamações de até 3 anos, aparecem duas linhas:"
+        ],
+        "bullets": [
+          "**Categoria:** \"Não encontrei meu problema\", com 30,67%.",
+          "**Problema:** atraso na entrega, com 4,29%."
+        ],
+        "postParagraphs": [
+          "A categoria mais citada não diz qual é o problema. Entre os problemas nomeados no resumo do perfil, o atraso na entrega aparece com 4,29%."
+        ],
+        "image": "/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil Belive Be Free no Reclame Aqui: categoria \"Não encontrei meu problema\" com 30,67% e atraso na entrega com 4,29%",
+        "imageCaption": "Principais problemas comentados no perfil \"Belive Be Free\", com reclamações de até 3 anos (consulta em 16/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.5242
+      },
+      {
+        "heading": "Como a Belive responde",
+        "paragraphs": [
+          "O perfil diz que a Belive respondeu todas as reclamações nas três janelas. Para quem comprou, o que pesa é a resolução, e o perfil não diz o que aconteceu com as reclamações que não foram resolvidas.",
+          "No site, o atendimento é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "Estes são os caminhos que o site descreve, lidos em 16/10/2026:"
+        ],
+        "bullets": [
+          "**Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.",
+          "**Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.",
+          "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
+          "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem sinal de uso ou violação, com nota fiscal. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. O cupom dá 10% em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. Vale na primeira compra. No Mercado Livre, onde a Belive também vende, o cupom não vale. Os detalhes estão na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho, em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Belive é confiável segundo o Reclame Aqui? Em 16/10/2026, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+          "Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses (de 01/04 a 30/09/2026), 7,8 nos últimos 12 meses e 7,5 em 2025, em consulta de 16/10/2026.",
+          "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
+          "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
+          "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a embalagem original e a nota fiscal, por pedido formal ao SAC. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
+          "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este artigo é de parceria comissionada: o Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom MAUAD. Os números são do perfil público Belive Be Free no Reclame Aqui, consultados em 16/10/2026, nas abas de 6 meses, 12 meses e 2025. A parceria não altera esses números. As regras de atendimento, devolução e defeito são do site oficial belivebefree.com.br, lidas em 16/10/2026."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "slug": "cupom-belive-como-usar",
+    "title": "Cupom Belive: como usar o MAUAD",
+    "seoTitle": "Cupom Belive: como usar o MAUAD e o que soma",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom MAUAD na Belive: 10% OFF em todo o site, em todas as formas de pagamento. Passo a passo, o que soma com o Pix e o frete grátis por região.",
+    "metaDescription": "Cupom Belive MAUAD: 10% OFF em todo o site. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/cupom-belive-capa.webp",
+    "imageAlt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "10% OFF em todo o site, em todas as formas de pagamento",
+      "Soma com as promoções do site e com o desconto de 5% do Pix",
+      "Vale na primeira compra e para quem já comprou na loja",
+      "O frete grátis conta o valor antes do cupom: o MAUAD não faz perder o frete"
+    ],
+    "cons": [
+      "Não vale no Mercado Livre, onde a Belive vende pelo preço do anúncio",
+      "O frete grátis depende da região: acima de R$ 170, R$ 250 ou R$ 300",
+      "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
+    ],
+    "cta": {
+      "text": "Entre na Belive pelo link da parceria e digite o MAUAD no campo \"Código do cupom\" do carrinho. Confira o desconto no resumo antes de pagar.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAUAD.",
+    "relatedArticles": [
+      "belive-e-confiavel",
+      "belive-reclame-aqui-nota-reputacao",
+      "black-friday-belive"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Entre no site oficial da Belive pelo botão desta página, monte o carrinho e digite **MAUAD** no campo \"Código do cupom\". Clique em \"Aplicar cupom\".",
+          "O cupom dá **10% OFF em todo o site**, em **todas as formas de pagamento**. Vale na primeira compra e nas seguintes.",
+          "Ele soma com as promoções do site e com o desconto de 5% do Pix. No nosso teste de checkout de 16/10/2026, o carrinho de R$ 576,82 foi para R$ 519,14 e, no Pix, para R$ 493,18.",
+          "O frete grátis é calculado sobre o valor do carrinho antes do cupom. Aplicar o MAUAD não faz perder o frete grátis.",
+          "No Mercado Livre o cupom não vale: lá a Belive vende pelo preço do anúncio."
+        ]
+      },
+      {
+        "heading": "O que é o cupom MAUAD da Belive",
+        "paragraphs": [
+          "O MAUAD é o código de desconto da Belive, digitado no carrinho do site oficial, belivebefree.com.br. O desconto vale no site inteiro. No nosso teste, os quatro itens eram combos de doces e um kit de brownies proteicos.",
+          "O cupom vale para conta nova e para quem já comprou na loja."
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial pelo botão desta página",
+        "paragraphs": [
+          "Use o botão da Belive desta página para abrir o site oficial. O código você digita no carrinho, no passo 3. As condições do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha os produtos e abra o carrinho. Produtos em oferta também entram no desconto: no nosso teste, os quatro itens já estavam com selo de oferta e todos levaram os 10%.",
+          "Antes de digitar o código, veja o subtotal e compare com o mínimo de frete grátis da sua região, na tabela mais abaixo."
+        ]
+      },
+      {
+        "heading": "3. Digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\"",
+        "paragraphs": [
+          "No carrinho, o campo se chama \"Código do cupom\", com o botão \"Aplicar cupom\". Digite **MAUAD**. Copiar o código pelo botão desta página evita erro de digitação."
+        ],
+        "image": "/images/reviews/belive/cupom-belive-campo-mauad.webp",
+        "imageAlt": "Carrinho da Belive com o campo Código do cupom preenchido com MAUAD e o botão Aplicar cupom, ambos marcados em amarelo",
+        "imageCaption": "O campo \"Código do cupom\" e o botão \"Aplicar cupom\" no carrinho da Belive, em 16/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.758
+      },
+      {
+        "heading": "4. Confira o desconto no resumo antes de pagar",
+        "paragraphs": [
+          "Depois de aplicar, o resumo mostra o cupom como \"Cupom: mauad -R$ 57,68\", com o total já abatido. Confira essas duas linhas antes de pagar."
+        ],
+        "image": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
+        "imageAlt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo",
+        "imageCaption": "O resumo do pedido depois do MAUAD, em 16/10/2026: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2403
+      },
+      {
+        "heading": "Quanto sai com o cupom: a conta do nosso teste",
+        "paragraphs": [
+          "Teste de checkout feito em 16/10/2026, com os quatro itens do carrinho:"
+        ],
+        "comparisonTable": {
+          "caption": "Teste de checkout do cupom MAUAD no site da Belive em 16/10/2026",
+          "headers": [
+            "Item",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Combo Doces COMPLETÃO 30 un. (em oferta)",
+              "R$ 179,90"
+            ],
+            [
+              "Combo Experimentação COMPLETÃO 40 un. (em oferta)",
+              "R$ 217,90"
+            ],
+            [
+              "Kit 10 Brownies Proteicos Double Chocolate (em oferta)",
+              "R$ 74,12"
+            ],
+            [
+              "Combo Doces 16 un. (em oferta)",
+              "R$ 104,90"
+            ],
+            [
+              "Subtotal, sem cupom",
+              "R$ 576,82"
+            ],
+            [
+              "Desconto MAUAD, 10%",
+              "-R$ 57,68"
+            ],
+            [
+              "Total com o cupom",
+              "R$ 519,14"
+            ],
+            [
+              "Total com o cupom e o Pix (5% a mais)",
+              "R$ 493,18"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa)."
+        ]
+      },
+      {
+        "heading": "O 5% do Pix soma com o cupom",
+        "paragraphs": [
+          "O site oferece 5% de desconto no Pix. No teste, esse desconto entrou sobre o valor que já tinha os 10% do cupom: R$ 519,14 vezes 0,95 dá R$ 493,18. Os dois descontos somam, e o total final ficou R$ 83,64 abaixo do subtotal de R$ 576,82 (conta nossa)."
+        ]
+      },
+      {
+        "heading": "Frete grátis: o valor que conta é o de antes do cupom",
+        "paragraphs": [
+          "O frete grátis da Belive depende do valor do pedido e da região. Na página de regras de frete do site, em 16/10/2026, os valores eram:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Belive por região, segundo a página de regras de frete em 16/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "SP, MG, RJ, DF e GO",
+              "R$ 170"
+            ],
+            [
+              "Sul",
+              "R$ 250"
+            ],
+            [
+              "Demais estados",
+              "R$ 300"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O limite conta o valor do carrinho sem o cupom. Aplicar o MAUAD baixa o total, mas não tira o frete grátis que o carrinho já tinha. A faixa \"frete grátis a partir de R$170\" que aparece na home vale só para SP, MG, RJ, DF e GO. Confira o frete com o seu CEP no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Três exemplos de carrinho",
+        "paragraphs": [
+          "Contas nossas com valores redondos, não preços da loja:"
+        ],
+        "comparisonTable": {
+          "caption": "Exemplos de carrinho com o MAUAD e o Pix (contas nossas)",
+          "headers": [
+            "Caso",
+            "Subtotal",
+            "Com MAUAD (10%)",
+            "Com MAUAD e Pix (+5%)",
+            "Frete grátis?"
+          ],
+          "rows": [
+            [
+              "A: carrinho de R$ 180 em SP",
+              "R$ 180,00",
+              "R$ 162,00",
+              "R$ 153,90",
+              "Sim, porque R$ 180 passa de R$ 170 antes do cupom"
+            ],
+            [
+              "B: carrinho de R$ 260 no Sul",
+              "R$ 260,00",
+              "R$ 234,00",
+              "R$ 222,30",
+              "Sim, porque R$ 260 passa de R$ 250 antes do cupom"
+            ],
+            [
+              "C: carrinho de R$ 320 em outro estado",
+              "R$ 320,00",
+              "R$ 288,00",
+              "R$ 273,60",
+              "Sim, porque R$ 320 passa de R$ 300 antes do cupom"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No caso A, o total cai para R$ 162, abaixo de R$ 170, e o frete segue grátis. Por isso o valor que você compara com o mínimo da região é o do subtotal, sem o desconto."
+        ]
+      },
+      {
+        "heading": "Promoções, primeira compra e Mercado Livre",
+        "bullets": [
+          "**Promoções:** o cupom soma com as promoções do site. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor que vale é o do resumo do pedido.",
+          "**Primeira compra:** o cupom vale na primeira compra e também para quem já comprou.",
+          "**Mercado Livre:** a Belive também vende no Mercado Livre, onde é a loja oficial. O cupom não vale lá: o preço é o do [anúncio da Belive no Mercado Livre](https://meli.la/2xDjP2k)."
+        ]
+      },
+      {
+        "heading": "Se precisar devolver um produto comprado com cupom",
+        "paragraphs": [
+          "O cupom não muda a regra de devolução. Pela política da loja, lida em 16/10/2026, o arrependimento vale por 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem uso nem violação, com a nota fiscal, e o pedido formal vai para sac@nhdfoods.com.br dentro do prazo. O valor volta depois da análise interna, e nesse caso o frete é por conta da Belive. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. O prazo de reembolso não está publicado no site. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as formas de pagamento, e o Pix soma por cima. Antes de pagar, confira o desconto no resumo e o frete com o seu CEP. A nota da loja no Reclame Aqui está em [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao), e as condições do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Belive? É o MAUAD, digitado no campo \"Código do cupom\" do carrinho do site oficial. Ele dá 10% OFF em todo o site.",
+          "O cupom Belive vale na primeira compra? Sim. Vale na primeira compra e também para quem já comprou.",
+          "O MAUAD soma com o Pix? Sim. No teste de 16/10/2026, o 5% do Pix entrou sobre o valor que já tinha os 10%: R$ 519,14 foi para R$ 493,18.",
+          "O MAUAD soma com produto em promoção? Sim. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor exato aparece no resumo do pedido.",
+          "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio.",
+          "A Belive tem frete grátis? Sim: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: site oficial da Belive (belivebefree.com.br), a página de regras de frete do site, o texto de devolução da loja e o nosso teste de checkout de 16/10/2026. Frete e desconto mudam com o tempo: confira no carrinho antes de pagar."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "slug": "black-friday-belive",
+    "title": "Black Friday Belive 2026: preços de outubro, o cupom MAUAD e o que a loja já anunciou",
+    "seoTitle": "Black Friday Belive 2026: preços e cupom MAUAD",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Black Friday Belive 2026: o que a loja já mostra sem datas, preços de página em outubro, o cupom MAUAD com Pix e o frete grátis por região.",
+    "metaDescription": "Black Friday Belive 2026: o que a loja já mostra sem datas, preços de página em outubro, o cupom MAUAD com Pix e o frete grátis por região.",
+    "publishedAt": "16 de outubro de 2026",
+    "publishedAtISO": "2026-10-16",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/black-friday-belive-black-november.webp",
+    "imageAlt": "Página Black November da Belive em 16/10/2026, com o formulário de cadastro para receber ofertas exclusivas",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento",
+      "Soma com as ofertas do site e com o Pix de 5%: no teste de 16/10/2026, o total foi de R$ 576,82 para R$ 493,18",
+      "O limite do frete grátis conta o valor sem o cupom: aplicar o MAUAD não faz perder o frete",
+      "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO"
+    ],
+    "cons": [
+      "A Belive não anunciou data nem regra para a campanha de novembro",
+      "Não há regra publicada de que o MAUAD valha do mesmo jeito na campanha",
+      "Em 16/10/2026, não havia panetone à venda no site",
+      "Frete grátis só a partir de R$ 250 no Sul e R$ 300 nos demais estados"
+    ],
+    "cta": {
+      "text": "Entre no site da Belive e digite o MAUAD no carrinho. Compare com a tabela de preços de outubro e confira a linha de descontos antes de pagar.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      "belive-e-confiavel",
+      "belive-reclame-aqui-nota-reputacao",
+      "cupom-belive-como-usar"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Belive 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**. A Belive não anunciou data nem regra para a campanha.",
+          "A loja tem uma página chamada Black November. Em 16/10/2026, ela era um cadastro para receber ofertas exclusivas, com campos de e-mail e nome, sem banners, percentuais nem datas.",
+          "O maior desconto que conferimos nas oito páginas de produto foi de 20%.",
+          "O cupom **MAUAD** dá 10% em todas as formas de pagamento e soma com as ofertas do site.",
+          "Os preços abaixo são de 16/10/2026. Vamos conferi-los de novo na última semana de outubro."
+        ]
+      },
+      {
+        "heading": "O que a Belive já publicou",
+        "paragraphs": [
+          "A página Black November, em belivebefree.com.br, mostrava em 16/10/2026 o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
+        ],
+        "postParagraphs": [
+          "A loja não divulgou datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.",
+          "Em 16/10/2026, a busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
+          "Em 2024, a mesma página tinha uma seção de panetones e frete grátis para todo o Brasil acima de R$ 150, por tempo limitado. A informação vem do Arquivo da Web (captura de 05/11/2024). Não encontramos registro público da campanha de 2025."
+        ]
+      },
+      {
+        "heading": "Preços de referência em 16/10/2026",
+        "paragraphs": [
+          "Estes são os preços que a página de cada produto mostrava em 16/10/2026. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de página dos produtos da Belive em 16 de outubro de 2026, com Pix, MAUAD e os dois somados.",
+          "headers": [
+            "Produto",
+            "Preço de página",
+            "No Pix",
+            "Com MAUAD",
+            "MAUAD + Pix"
+          ],
+          "rows": [
+            [
+              "Brownie de chocolate sem açúcar, 1 un.",
+              "R$ 6,97",
+              "R$ 6,62",
+              "R$ 6,27",
+              "R$ 5,96"
+            ],
+            [
+              "Kit com 10 brownies de chocolate sem açúcar",
+              "R$ 64,82 (de R$ 69,70)",
+              "R$ 61,58",
+              "R$ 58,34",
+              "R$ 55,42"
+            ],
+            [
+              "Pão sem glúten tradicional (pão de forma)",
+              "R$ 22,90",
+              "R$ 21,76",
+              "R$ 20,61",
+              "R$ 19,58"
+            ],
+            [
+              "Pãozinho de batata sem glúten, pacote",
+              "R$ 20,90",
+              "R$ 19,86",
+              "R$ 18,81",
+              "R$ 17,87"
+            ],
+            [
+              "Bolinho de chocolate fit sem açúcar, 1 un.",
+              "R$ 4,58 (de R$ 5,39)",
+              "R$ 4,35",
+              "R$ 4,12",
+              "R$ 3,91"
+            ],
+            [
+              "Kit com 10 bolinhos de chocolate fit sem açúcar",
+              "R$ 50,13 (de R$ 53,90)",
+              "R$ 47,62",
+              "R$ 45,12",
+              "R$ 42,86"
+            ],
+            [
+              "Combo de salgadinhos snacks de arroz, 20 un.",
+              "R$ 95,90 (de R$ 103,80)",
+              "R$ 91,11",
+              "R$ 86,31",
+              "R$ 81,99"
+            ],
+            [
+              "Salgadinho de queijo snack de arroz, 35 g",
+              "R$ 4,15 (de R$ 5,19)",
+              "R$ 3,94",
+              "R$ 3,74",
+              "R$ 3,55"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um desconto de novembro só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
+          "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, conforme cada página. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
+        ]
+      },
+      {
+        "heading": "Quanto fica com o MAUAD e com o Pix",
+        "paragraphs": [
+          "O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
+          "No teste de checkout de 16/10/2026, o carrinho tinha quatro combos e kits com selo de oferta:"
+        ],
+        "comparisonTable": {
+          "caption": "Teste de checkout na Belive em 16 de outubro de 2026, com quatro combos e kits em oferta.",
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Subtotal dos produtos em oferta",
+              "R$ 576,82"
+            ],
+            [
+              "Subtotal no Pix, sem cupom",
+              "R$ 547,98"
+            ],
+            [
+              "Com MAUAD (desconto de R$ 57,68)",
+              "R$ 519,14"
+            ],
+            [
+              "Com MAUAD e Pix",
+              "R$ 493,18"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom entrou sobre o preço de oferta de cada item. Hoje o MAUAD soma com as ofertas. Não sabemos se ele vale do mesmo jeito durante a campanha de novembro, e não vamos afirmar isso. Na campanha, conferimos o carrinho e atualizamos este texto. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+        ]
+      },
+      {
+        "heading": "Frete grátis e pagamento",
+        "paragraphs": [
+          "O frete grátis depende do estado. Segundo a página de regras de frete, o valor mínimo do pedido é:"
+        ],
+        "bullets": [
+          "SP, MG, RJ, DF e GO: a partir de R$ 170.",
+          "Sul: a partir de R$ 250.",
+          "Demais estados: a partir de R$ 300."
+        ],
+        "postParagraphs": [
+          "O limite conta o valor sem o cupom. Aplicar o MAUAD não faz perder o frete grátis.",
+          "A faixa do topo do site fala em frete grátis a partir de R$ 170: esse valor vale para SP, MG, RJ, DF e GO. Confira o frete do seu CEP no carrinho.",
+          "A loja aceita cartão em até 2x sem juros, boleto e Pix."
+        ]
+      },
+      {
+        "heading": "Antes de novembro: o que conferir",
+        "bullets": [
+          "Compare o preço da página no dia da compra com a tabela deste guia.",
+          "Coloque o MAUAD no carrinho e confira a linha de descontos.",
+          "Confira o frete pelo CEP antes de pagar.",
+          "Escolha o Pix por último, para ver o total final."
+        ],
+        "postParagraphs": [
+          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). O produto precisa estar na embalagem original, sem uso e sem violação, com a nota fiscal. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
+          "Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.",
+          "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O MAUAD vale na Black Friday? Hoje ele soma com as ofertas do site. A Belive não publicou regra para novembro; conferimos na campanha e atualizamos este guia.",
+          "O MAUAD soma com o Pix? Sim. No teste de 16/10/2026, o Pix de 5% entrou depois do cupom.",
+          "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
+          "A Belive já anunciou a data da Black Friday? Não. A página Black November é um cadastro para receber ofertas e não traz datas de início nem de fim.",
+          "Tem panetone à venda? Em 16/10/2026, não havia panetone no site.",
+          "O cupom tira o frete grátis? Não. O limite de frete conta o valor sem o cupom."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este artigo é de parceria comissionada com a Belive: podemos receber comissão pelo uso do cupom MAUAD, sem custo para você. Preços, cupom e condições foram conferidos no site oficial da loja (belivebefree.com.br: página Black November, regras de frete, FAQ e páginas de produto) e em teste de checkout, em 16/10/2026."
+        ]
+      }
+    ]
   }
 ];
