@@ -30,6 +30,7 @@ import { isFaqHeading } from '../src/lib/faq';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
+import { MOBILE_VISIBLE_ARTICLES } from '../src/lib/homeStoreTabs';
 import { YESSTYLE_LOCALES, getYesStyleLocaleConfig } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getShellCommercialLinks, getShellCopy, getShellHomeHref } from '../src/lib/i18n/shellDictionary';
@@ -2429,6 +2430,14 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     const articleLinks = [...new Set(panel.match(/href="\/reviews\/[^"/]+"/g) ?? [])].sort();
     const expectedLinks = tab.articles.map((article) => hrefOf(article.href)).sort();
     check(articleLinks.join(' ') === expectedLinks.join(' '), `painel ${tab.slug}: artigos diferentes dos ${expectedLinks.length} esperados`);
+    // Até 6 artigos no computador; no celular, só os 4 primeiros (os outros itens levam max-lg:hidden).
+    const listItems = panel.match(/<li class="border-b-\[1\.5px\][^"]*"/g) ?? [];
+    const hiddenOnPhone = listItems.map((item) => item.includes('max-lg:hidden'));
+    check(
+      listItems.length === tab.articles.length &&
+        hiddenOnPhone.every((hidden, index) => hidden === index >= MOBILE_VISIBLE_ARTICLES),
+      `painel ${tab.slug}: no celular a lista tem de mostrar só os ${MOBILE_VISIBLE_ARTICLES} primeiros artigos`
+    );
     if (tab.articles.length === 0) {
       check(nodes.includes(tab.emptyText), `painel ${tab.slug}: loja sem artigo e sem o aviso`);
     }
