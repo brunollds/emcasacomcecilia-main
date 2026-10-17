@@ -6,15 +6,15 @@ parceiro: "[[Nestle-Nutre]]"
 category: "comparativos"
 reviewKind: "guia"
 type: "Comparativo"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir os preços dos dois lados na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 52
 score_conversao: 48
 score_ponderado_total: 51
 data_criacao: "2026-10-17"
-publicado_em: null
+publicado_em: "2026-10-17"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

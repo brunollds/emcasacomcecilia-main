@@ -28,12 +28,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -51,6 +46,12 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
+- [x] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
+- [x] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
+- [x] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
+- [x] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
+- [x] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
 - [x] [[nanlac-supreme-pro-1-a-3-anos]] — Nestlé Nutre / Nanlac Supreme Pro 1 a 3 anos: composição, preparo e o recolhimento de janeiro (Score Aut: 58 / Conv: 55) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
 - [x] [[nutren-a-z-multi-para-que-serve]] — Nestlé Nutre / Nutren A-Z Multi 60 cápsulas: composição por cápsula e como tomar (Score Aut: 62 / Conv: 58) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
 - [x] [[isosource-1-5-para-que-serve]] — Nestlé Nutre / Isosource 1.5 Sem Sabor: para que serve, como usar e quanto rende o litro (Score Aut: 72 / Conv: 68) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
