@@ -95,7 +95,7 @@ Por ser um pó microfiltrado e sem sabor, ele dissolve com facilidade sem deixar
 O Nutren Just Protein é vendido em latas de 280g na loja oficial **Nestlé Nutre** (e-commerce oficial da Nestlé Health Science no Brasil), garantindo procedência de fábrica, lotes novos e armazenamento correto.
 
 * **Cupom de parceria ativo:** `CECI`
-* **Benefício:** 5% de desconto no checkout em produtos elegíveis da loja.
+* **Benefício:** 10% de desconto no checkout em produtos elegíveis da loja.
 * **Como aplicar:** No carrinho de compras da Nestlé Nutre, insira o código **CECI** no campo de cupom antes de finalizar o pagamento.
 
 Para consultar regras completas de frete, validade e exceções de produtos, confira o nosso [guia de regras do cupom Nestlé Nutre](/cupons/nestle-nutre).
@@ -119,7 +119,7 @@ Sim. Ele pode ser adicionado a caldos, sopas, feijão e purês. A recomendação
 O Nutren Just Protein contém exclusivamente proteína isolada pura (13g por porção) sem adição de vitaminas ou minerais. Já o Nutren Senior é um composto nutricional completo enriquecido com cálcio, vitamina D, zinco, ferro e vitaminas do complexo B, voltado para as necessidades nutricionais de adultos 50+.
 
 ### Qual o cupom de desconto para comprar Nutren Just Protein?
-O cupom **CECI** pode ser aplicado no checkout da loja oficial Nestlé Nutre para obter 5% de desconto em itens elegíveis da linha de nutrição da marca.
+O cupom **CECI** pode ser aplicado no checkout da loja oficial Nestlé Nutre para obter 10% de desconto em itens elegíveis da linha de nutrição da marca.
 
 ---
 
@@ -131,7 +131,7 @@ O cupom **CECI** pode ser aplicado no checkout da loja oficial Nestlé Nutre par
 | Tabela: 52 kcal, 13g proteína, 0g carb/gord, 76mg sódio | Fato oficial | Tabela nutricional da lata de 280g | [x] Aprovado |
 | Origem clínica: pós-operatório, bariátrica e sarcopenia | Fato institucional | Nestlé Health Science Brasil | [x] Aprovado |
 | Pode ser misturado em preparações quentes e frias | Modo de uso | Instruções oficiais do fabricante | [x] Aprovado |
-| Cupom CECI oferece 5% de desconto na loja Nestlé Nutre | Condição comercial | `src/lib/couponsData.ts` (verificado ago/2026) | [x] Aprovado |
+| Cupom CECI oferece 10% de desconto na loja Nestlé Nutre | Condição comercial | `src/lib/couponsData.ts` (10% desde 04/10/2026) | [x] Aprovado |
 | Não substitui refeições completas | Diretriz ética/saúde | Resolução ANVISA / Princípio editorial | [x] Aprovado |
 
 ---
