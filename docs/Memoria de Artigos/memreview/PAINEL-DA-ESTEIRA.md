@@ -24,10 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
-- [ ] [[cafe-au-lait-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -45,6 +42,10 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
+- [x] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
+- [x] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
+- [x] [[cafe-au-lait-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
 - [x] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
 - [x] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀
 - [x] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (No ar em 17/10/2026, PR #143, release `3b43a6e`) 🚀

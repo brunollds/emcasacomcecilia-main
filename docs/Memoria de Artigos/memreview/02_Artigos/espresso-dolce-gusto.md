@@ -6,12 +6,12 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Ficha de sabor"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir preço e nota na loja oficial na última semana de outubro"
 bloqueado_por: null
 data_criacao: "2026-10-17"
-publicado_em: null
+publicado_em: "2026-10-17"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
