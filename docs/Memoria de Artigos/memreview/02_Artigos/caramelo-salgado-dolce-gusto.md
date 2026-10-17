@@ -1,6 +1,6 @@
 ---
-status: "pauta-aprovada"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+status: "em-conformacao-json"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 titulo_provisorio: "Caramelo Salgado Dolce Gusto: ingredientes, cafeína, calorias e a história da edição Netflix"
 slug_sugerido: "caramelo-salgado-dolce-gusto"

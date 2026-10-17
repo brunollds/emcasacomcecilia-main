@@ -86659,5 +86659,859 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       }
     ]
+  },
+  {
+    "id": 462,
+    "slug": "mochaccino-canela-dolce-gusto",
+    "title": "Mochaccino Canela Dolce Gusto: calorias, ingredientes, cafeína e como preparar",
+    "seoTitle": "Mochaccino Canela Dolce Gusto: ingredientes e calorias",
+    "type": "Ficha de cápsula",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja o que a loja oficial informa sobre o Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, cafeína, volume, preço e avaliação.",
+    "metaDescription": "Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, glúten, cafeína, volume (conta nossa), preço e avaliação na loja oficial.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp",
+    "imageAlt": "Caixa do NESCAFÉ Dolce Gusto Mochaccino Canela com 10 cápsulas ao lado de uma xícara da bebida pronta",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Mochaccino Canela é uma cápsula da Nescafé Dolce Gusto para uma bebida com café, leite e cacau. Cada bebida usa uma cápsula, e a caixa traz 10. A tabela da loja mostra 77 kcal por cápsula, e a conta nossa dá cerca de 120 ml. Em 17/10/2026, a caixa estava de R$ 25,90 por R$ 22,50 na loja oficial."
+        ]
+      },
+      {
+        "heading": "Quantos ml e quantas cápsulas por bebida",
+        "paragraphs": [
+          "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção, e são 10 porções por caixa. Ou seja, uma cápsula por bebida e dez bebidas por caixa.",
+          "O volume sai de uma conta nossa: 77 kcal por cápsula divididas por 64 kcal a cada 100 ml, vezes 100, dá cerca de 120 ml. Esse número bate com o que mostramos na [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde a tabela de preparo da embalagem traz 120 ml para o Mochaccino Canela."
+        ],
+        "image": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
+        "imageAlt": "Cápsula e xícara do Mochaccino Canela Dolce Gusto",
+        "imageCaption": "Cápsula e bebida pronta, em foto da loja oficial.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Como preparar",
+        "paragraphs": [
+          "Coloque uma cápsula na máquina e use o nível de água indicado na própria caixa. A loja não traz um passo a passo escrito para este sabor, então o nível vem da embalagem. Se a sua máquina mostra barras em vez de mililitros, a [tabela de medidas](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel) explica como ler cada nível."
+        ]
+      },
+      {
+        "heading": "Calorias e tabela nutricional por cápsula",
+        "paragraphs": [
+          "A tabela da loja usa a porção de 17,2 g, que é uma cápsula. Os números abaixo são os da página."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Por 100 ml",
+            "Por cápsula (17,2 g)"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "64 kcal",
+              "77 kcal (4% VD)"
+            ],
+            [
+              "Carboidratos",
+              "10 g",
+              "12 g"
+            ],
+            [
+              "Açúcares totais",
+              "9,2 g",
+              "11 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "6,6 g",
+              "8 g (16% VD)"
+            ],
+            [
+              "Proteínas",
+              "1,8 g",
+              "2,2 g"
+            ],
+            [
+              "Gorduras totais",
+              "1,8 g",
+              "2,1 g"
+            ],
+            [
+              "Gorduras saturadas",
+              "1 g",
+              "1,2 g"
+            ],
+            [
+              "Fibras",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Sódio",
+              "57 mg",
+              "68 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A coluna por 100 ml é a da loja. O volume de 120 ml, já dito, é conta nossa."
+        ]
+      },
+      {
+        "heading": "Tem açúcar? E glúten?",
+        "paragraphs": [
+          "Tem açúcar. A tabela da loja mostra 8 g de açúcares adicionados por cápsula, o que equivale a 16% do valor diário, e o açúcar é o segundo item da lista de ingredientes.",
+          "Sobre glúten e lactose, a loja informa:"
+        ],
+        "bullets": [
+          "Contém glúten.",
+          "Pode conter trigo, cevada e aveia.",
+          "Contém lactose.",
+          "Contém derivados de leite e soja."
+        ],
+        "postParagraphs": [
+          "Quem tem alergia, intolerância ou doença celíaca deve ler o rótulo da caixa na hora da compra."
+        ]
+      },
+      {
+        "heading": "Ingredientes: tem chocolate? tem café?",
+        "paragraphs": [
+          "A lista da loja traz: leite em pó integral, açúcar, café solúvel, cacau, sal, canela, aromatizantes e emulsificante lecitina de soja.",
+          "A lista tem cacau, e não traz \"chocolate\" como ingrediente. A própria página da marca fala em café, leite e chocolate na descrição, e em \"equilíbrio perfeito entre café, cacau e canela\". O café está na lista como café solúvel."
+        ]
+      },
+      {
+        "heading": "Tem cafeína?",
+        "paragraphs": [
+          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, e nenhuma página que consultamos traz esse número. Por isso não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
+        ]
+      },
+      {
+        "heading": "É bom? O que a loja mostra",
+        "paragraphs": [
+          "Na loja oficial, em 17/10/2026, o Mochaccino Canela tinha nota de 97% na página, com 85 avaliações. É a nota de quem comprou, não a nossa opinião.",
+          "A marca descreve o produto assim: \"O toque da canela nunca foi tão importante na mistura com o café, o leite e o chocolate\", numa receita \"desenvolvida especialmente para os brasileiros\"."
+        ]
+      },
+      {
+        "heading": "Preço por cápsula e CECI",
+        "paragraphs": [
+          "Em 17/10/2026, a caixa com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. Pela conta nossa (preço dividido por 10), são R$ 2,25 por cápsula, ou R$ 2,59 sem o desconto da página. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
+          "O cupom CECI dá 5% OFF na loja oficial, em compras a partir de R$ 100, com até 3 usos por CPF. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantas calorias tem o Mochaccino Canela Dolce Gusto? A tabela da loja mostra 77 kcal por cápsula (17,2 g), 4% do valor diário, e 64 kcal por 100 ml.",
+          "Quantos ml faz o Mochaccino Canela? A página mostra a xícara média, e a conta nossa (77 kcal ÷ 64 kcal por 100 ml × 100) dá cerca de 120 ml.",
+          "O Mochaccino Canela tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
+          "O Mochaccino Canela tem açúcar? Sim: 8 g de açúcares adicionados por cápsula, 16% do valor diário, segundo a loja.",
+          "O Mochaccino Canela tem chocolate? A lista de ingredientes traz cacau, não \"chocolate\". A marca cita o chocolate na descrição do sabor.",
+          "O Mochaccino Canela é bom? Na loja oficial, em 17/10/2026, ele tinha nota de 97% na página, com 85 avaliações."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Esta ficha é feita a partir da página do produto na loja oficial Nescafé Dolce Gusto, lida em 17/10/2026, sem teste de sabor. O Em Casa com Cecília tem parceria comercial com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço, estoque e condições mudam: confira na loja."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Mochaccino Canela na loja oficial e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Ficha feita a partir da página do produto na loja oficial. Não é teste de sabor: as medidas e as contas são identificadas no texto.",
+    "relatedArticles": [
+      {
+        "slug": "melhores-capsulas-dolce-gusto-2026",
+        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto",
+        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "slug": "espresso-dolce-gusto",
+    "title": "Espresso Dolce Gusto: intensidade 5 ou Intenso 7, xícara, cafeína e preço",
+    "seoTitle": "Espresso Dolce Gusto: intensidade 5 ou 7 e preço",
+    "type": "Ficha de sabor",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Espresso (intensidade 5) ou Espresso Intenso (7)? Veja o que muda, a xícara, o ingrediente, o que a loja diz da cafeína e o preço na loja oficial.",
+    "metaDescription": "Espresso Dolce Gusto: o que muda entre o de intensidade 5 e o Intenso 7, xícara, ingrediente, cafeína e preço por cápsula na loja oficial.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto Espresso, intensidade 5, e Espresso Intenso, intensidade 7, com 10 cápsulas cada",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Espresso Dolce Gusto tem duas versões de 10 cápsulas na loja oficial: o Espresso, de intensidade 5, e o Espresso Intenso, de intensidade 7. Os dois levam só café torrado e moído, servem em xícara pequena e custavam R$ 22,50 em 17/10/2026. O que muda é a intensidade e a descrição da marca. Com o CECI, a loja oficial dá 5% OFF em compras a partir de R$ 100."
+        ]
+      },
+      {
+        "heading": "O que muda entre o Espresso e o Espresso Intenso",
+        "paragraphs": [
+          "Na escala de intensidade da loja, o Espresso é 5 e o Espresso Intenso é 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara, número de cápsulas e preço são iguais."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Espresso",
+            "Espresso Intenso"
+          ],
+          "rows": [
+            [
+              "Intensidade (escala da loja)",
+              "5",
+              "7"
+            ],
+            [
+              "Descrição da marca",
+              "\"Delicado e frutado\"",
+              "\"Energético e aromático\""
+            ],
+            [
+              "Ingrediente",
+              "Café torrado moído",
+              "Café torrado moído"
+            ],
+            [
+              "Xícara (página da loja)",
+              "Pequena",
+              "Pequena"
+            ],
+            [
+              "Cápsulas por caixa",
+              "10",
+              "10"
+            ],
+            [
+              "Preço em 17/10/2026",
+              "de R$ 25,90 por R$ 22,50",
+              "de R$ 25,90 por R$ 22,50"
+            ],
+            [
+              "Avaliação na loja (17/10/2026)",
+              "94% (34 avaliações)",
+              "97% (19 avaliações)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Intensidade é a escala que a marca usa para o corpo da bebida. A loja não a liga à quantidade de cafeína."
+        ]
+      },
+      {
+        "heading": "O que a marca diz de cada um",
+        "paragraphs": [
+          "Sobre o Espresso, a página da loja diz: \"Você vai adorar este Espresso delicado, porém marcante, com sua aveludada espuma e seu toque frutado. Experimente o café arábica premium do Brasil.\"",
+          "Sobre o Espresso Intenso, a página fala em \"aromas picantes e frutados deste espresso de torrefação média, feito com os melhores grãos de café do Brasil\", finalizado com \"uma generosa crema aveludada\".",
+          "Essas são as palavras da marca, não uma avaliação nossa."
+        ]
+      },
+      {
+        "heading": "Espresso Dolce Gusto tem cafeína?",
+        "paragraphs": [
+          "A lista de ingredientes dos dois é só café torrado moído, então a bebida tem a cafeína própria do café. A loja não informa a quantidade de cafeína em miligramas, e por isso não damos número. Quem precisa controlar a cafeína deve falar com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Quantos ml faz o Espresso?",
+        "paragraphs": [
+          "A página da loja mostra o ícone de xícara pequena nos dois. Em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), a foto da tabela impressa numa embalagem Dolce Gusto indica 50 ml para o Espresso e para o Espresso Intenso. A tabela é de 1 cápsula por bebida. Para outra cápsula, vale o número de barras da sua própria caixa."
+        ],
+        "image": "/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
+        "imageAlt": "Cápsula e xícara pequena do Espresso Dolce Gusto",
+        "imageCaption": "Cápsula e xícara do Espresso, em foto da loja oficial.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Calorias e tabela nutricional",
+        "paragraphs": [
+          "As páginas do Espresso e do Espresso Intenso na loja não trazem tabela nutricional. Por isso não citamos calorias. O que a loja mostra é o ingrediente, café torrado moído, e a indicação de que o produto não contém glúten."
+        ]
+      },
+      {
+        "heading": "Glúten e ingredientes",
+        "paragraphs": [
+          "O rótulo na página da loja diz \"NÃO CONTÉM GLÚTEN\" e lista só café torrado moído. Os dois são produzidos pela Nestlé Brasil Ltda., em Montes Claros (MG)."
+        ]
+      },
+      {
+        "heading": "Quanto custa a cápsula",
+        "paragraphs": [
+          "Em 17/10/2026, a página da loja oficial mostrava a caixa de 10 cápsulas do Espresso e do Espresso Intenso de R$ 25,90 por R$ 22,50. Pela nossa conta, isso dá R$ 2,25 por cápsula, já que 1 cápsula faz 1 bebida (R$ 22,50 ÷ 10). Sem desconto, a conta seria R$ 2,59. O preço muda, e a loja pode alterar a oferta. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "É bom? O que dizem as avaliações da loja",
+        "paragraphs": [
+          "Em 17/10/2026, a página do Espresso mostrava avaliação de 94%, com 34 avaliações. A do Espresso Intenso mostrava 97%, com 19 avaliações. É a nota da própria loja, de quem comprou lá. Para ver o Espresso ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+        ]
+      },
+      {
+        "heading": "Onde comprar e como usar o CECI",
+        "paragraphs": [
+          "O Espresso e o Espresso Intenso estão na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 5% OFF na loja oficial, em compras a partir de R$ 100, com até 3 usos por CPF. Como a caixa de 10 cápsulas custa R$ 22,50, o carrinho precisa de mais itens para chegar a R$ 100. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre Espresso e Espresso Intenso Dolce Gusto? O Espresso tem intensidade 5 e o Intenso, 7, na escala da loja. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara e preço são iguais.",
+          "Espresso Dolce Gusto tem cafeína? O ingrediente é café torrado moído. A loja não informa a quantidade de cafeína em miligramas.",
+          "Quantos ml faz o Espresso Dolce Gusto? A loja mostra xícara pequena. Na foto da tabela impressa numa embalagem, que reunimos na tabela de medidas, o Espresso e o Espresso Intenso aparecem com 50 ml.",
+          "Espresso Dolce Gusto tem glúten? Não. A página da loja diz \"NÃO CONTÉM GLÚTEN\" e lista só café torrado moído.",
+          "Quanto custa o Espresso Dolce Gusto? Em 17/10/2026, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta.",
+          "Espresso Dolce Gusto tem tabela nutricional? A página da loja não traz tabela nutricional do Espresso nem do Espresso Intenso, e por isso não informamos calorias."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Esta é uma ficha de leitura das páginas do produto na loja oficial da NESCAFÉ Dolce Gusto, lidas em 17/10/2026, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Espresso e o Espresso Intenso na loja oficial e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Ficha feita a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
+    "relatedArticles": [
+      {
+        "slug": "melhores-capsulas-dolce-gusto-2026",
+        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto",
+        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "slug": "caramelo-salgado-dolce-gusto",
+    "title": "Caramelo Salgado Dolce Gusto: ingredientes, calorias e o que a loja informa sobre cafeína",
+    "seoTitle": "Caramelo Salgado Dolce Gusto: ingredientes e calorias",
+    "type": "Ficha de cápsula",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Veja o que a loja oficial informa sobre o Caramelo Salgado Dolce Gusto: 78 kcal por cápsula, ingredientes, açúcar, cafeína, volume, preço e avaliação.",
+    "metaDescription": "Caramelo Salgado Dolce Gusto: 78 kcal por cápsula, ingredientes, açúcar, glúten, cafeína, volume (conta nossa), preço e avaliação na loja oficial.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp",
+    "imageAlt": "Caixa do NESCAFÉ Dolce Gusto Cappuccino Caramelo Salgado com 10 cápsulas ao lado de uma xícara da bebida pronta",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Caramelo Salgado é um cappuccino em cápsula da Nescafé Dolce Gusto, com café solúvel, leite em pó e sal na lista de ingredientes. A caixa traz 10 cápsulas, e a tabela da loja trata uma cápsula como uma porção de 17,5 g, com 78 kcal. A conta nossa dá cerca de 120 ml. Em 17/10/2026, a caixa custava R$ 25,90 na loja oficial."
+        ]
+      },
+      {
+        "heading": "Quantos ml e quantas cápsulas por bebida",
+        "paragraphs": [
+          "A página da loja mostra o ícone de xícara média e vende a caixa com 10 cápsulas. A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa. Pela tabela, é uma cápsula por bebida.",
+          "O volume é uma conta nossa: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dá cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
+        ],
+        "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+        "imageAlt": "Cápsula e xícara do Caramelo Salgado Dolce Gusto",
+        "imageCaption": "Cápsula e bebida pronta, em foto da loja oficial.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Ingredientes: tem café?",
+        "paragraphs": [
+          "A lista da loja traz: leite em pó integral instantâneo (leite em pó integral e emulsificante lecitina), açúcar, café solúvel, sal, triglicerídeos de cadeia média (TCM) e aromatizantes.",
+          "Tem café, na forma de café solúvel. O sal também está na lista, e a loja descreve o sabor como \"cremosidade em um contraste dos sabores doce e salgado\"."
+        ]
+      },
+      {
+        "heading": "Tem cafeína?",
+        "paragraphs": [
+          "A lista tem café solúvel, então a bebida leva café. A loja não informa a quantidade de cafeína em mg, e nenhuma página que consultamos traz esse número. Por isso não damos estimativa. Se a quantidade importa para você, confira o rótulo da caixa ou pergunte à Nescafé Dolce Gusto."
+        ]
+      },
+      {
+        "heading": "Calorias e tabela nutricional por cápsula",
+        "paragraphs": [
+          "A tabela da loja mostra a coluna por 100 ml e a coluna por 17,5 g, que é uma cápsula. Usamos os 17,5 g da coluna, que bate com o peso da caixa de 10 cápsulas (175 g)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Por 100 ml",
+            "Por cápsula (17,5 g)"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "65 kcal",
+              "78 kcal"
+            ],
+            [
+              "Carboidratos",
+              "9,7 g",
+              "12 g"
+            ],
+            [
+              "Açúcares totais",
+              "9,6 g",
+              "12 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "6,6 g",
+              "7,9 g (16% VD)"
+            ],
+            [
+              "Proteínas",
+              "1,9 g",
+              "2,3 g"
+            ],
+            [
+              "Gorduras totais",
+              "2 g",
+              "2,3 g"
+            ],
+            [
+              "Sódio",
+              "100 mg",
+              "120 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A coluna por 100 ml é a da loja. O volume de 120 ml, já dito, é conta nossa."
+        ]
+      },
+      {
+        "heading": "Tem açúcar? E glúten?",
+        "paragraphs": [
+          "Tem açúcar. A tabela da loja mostra 7,9 g de açúcares adicionados por cápsula, o que equivale a 16% do valor diário, e o açúcar é o segundo item da lista de ingredientes.",
+          "Sobre glúten e lactose, a loja informa:"
+        ],
+        "bullets": [
+          "Contém glúten.",
+          "Pode conter trigo, cevada e aveia.",
+          "Contém lactose.",
+          "Contém derivados de leite e soja."
+        ],
+        "postParagraphs": [
+          "Quem tem alergia, intolerância ou doença celíaca deve ler o rótulo da caixa na hora da compra."
+        ]
+      },
+      {
+        "heading": "É bom? O que a loja mostra",
+        "paragraphs": [
+          "Na loja oficial, em 17/10/2026, o Caramelo Salgado tinha nota de 95% na página, com 23 avaliações. É a nota de quem comprou, não a nossa opinião.",
+          "A página da marca apresenta o produto como o \"novo cappuccino Caramelo Salgado\", que \"entrega cremosidade em um contraste dos sabores doce e salgado\"."
+        ]
+      },
+      {
+        "heading": "Edição Netflix e histórico do sabor",
+        "paragraphs": [
+          "A página atual da loja não fala em Netflix. Segundo a ABC da Comunicação (28/05/2024), a Nescafé Dolce Gusto lançou em maio de 2024 a segunda temporada do cappuccino Netflix, no sabor Caramelo Salgado. A página de hoje chama o produto de \"novo cappuccino Caramelo Salgado\" e não diz se a receita é a mesma da edição de 2024."
+        ]
+      },
+      {
+        "heading": "Preço por cápsula e CECI",
+        "paragraphs": [
+          "Em 17/10/2026, a caixa com 10 cápsulas custava R$ 25,90 na loja oficial, sem desconto na página. Pela conta nossa (preço dividido por 10), são R$ 2,59 por cápsula. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
+          "O cupom CECI dá 5% OFF na loja oficial, em compras a partir de R$ 100, com até 3 usos por CPF. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no guia [como usar o CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira o desconto no resumo do pedido antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Caramelo Salgado Dolce Gusto tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
+          "O Caramelo Salgado tem café? Sim, café solúvel, segundo a lista de ingredientes da loja.",
+          "Quantas calorias tem o Caramelo Salgado Dolce Gusto? A tabela da loja mostra 78 kcal por cápsula (17,5 g) e 65 kcal por 100 ml.",
+          "Quantos ml faz o Caramelo Salgado? A página mostra a xícara média, e a conta nossa (78 kcal ÷ 65 kcal por 100 ml × 100) dá cerca de 120 ml.",
+          "O Caramelo Salgado é bom? Na loja oficial, em 17/10/2026, ele tinha nota de 95% na página, com 23 avaliações.",
+          "O Caramelo Salgado é o da Netflix? A página atual da loja não cita a Netflix. A edição com a plataforma teve segunda temporada com este sabor em maio de 2024, segundo a ABC da Comunicação."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Esta ficha é feita a partir da página do produto na loja oficial Nescafé Dolce Gusto, lida em 17/10/2026, sem teste de sabor. O Em Casa com Cecília tem parceria comercial com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço, estoque e condições mudam: confira na loja."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Caramelo Salgado na loja oficial e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/sabores/caramelo-salgado",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Ficha feita a partir da página do produto na loja oficial. Não é teste de sabor: as medidas e as contas são identificadas no texto.",
+    "relatedArticles": [
+      {
+        "slug": "melhores-capsulas-dolce-gusto-2026",
+        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto",
+        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "slug": "cafe-au-lait-dolce-gusto",
+    "title": "Café au Lait Dolce Gusto: tem açúcar, quantos ml, calorias e ingredientes",
+    "seoTitle": "Café au Lait Dolce Gusto: ml, calorias e açúcar",
+    "type": "Ficha de sabor",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Café au Lait Dolce Gusto tem açúcar? Veja ml, calorias, ingredientes, cafeína e alérgenos do clássico, do Desnatado e do Vanilla, e o preço na loja oficial.",
+    "metaDescription": "Café au Lait Dolce Gusto: tem açúcar, quantos ml, calorias por cápsula, ingredientes e alérgenos do clássico, Desnatado e Vanilla. Preço na loja oficial.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto Café au Lait, Café au Lait com leite desnatado e Café au Lait Vanilla, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Café au Lait Dolce Gusto clássico não tem açúcar adicionado: a loja informa 0 g, e os 2,8 g de açúcares por cápsula vêm do leite. Tem 45 kcal por cápsula de 10 g e rende cerca de 180 ml, pela nossa conta. O Desnatado também não tem açúcar adicionado. O Vanilla tem 2,9 g adicionados por cápsula. Em 17/10/2026, a caixa de 10 cápsulas do clássico estava de R$ 25,90 por R$ 22,50 na loja oficial."
+        ]
+      },
+      {
+        "heading": "Café au Lait Dolce Gusto tem açúcar?",
+        "paragraphs": [
+          "A resposta muda com a versão. A tabela mostra o que a loja informa por cápsula."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Versão",
+            "Açúcar adicionado",
+            "Açúcares totais"
+          ],
+          "rows": [
+            [
+              "Café au Lait (clássico)",
+              "0 g",
+              "2,8 g (do leite)"
+            ],
+            [
+              "Café au Lait Desnatado",
+              "0 g",
+              "5,7 g"
+            ],
+            [
+              "Café au Lait Vanilla",
+              "2,9 g",
+              "não informado"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No clássico e no Desnatado, os açúcares vêm do leite. No Vanilla, a lista de ingredientes traz açúcar. Quem controla o açúcar, por diabetes ou outro motivo, deve falar com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Tabela nutricional por cápsula",
+        "paragraphs": [
+          "A tabela da loja é por cápsula. No clássico, a porção é de 10 g. No Vanilla, de 11 g. A tabela abaixo é do clássico."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por cápsula de 10 g (clássico)",
+            "Quantidade"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "45 kcal"
+            ],
+            [
+              "Carboidratos",
+              "4,1 g"
+            ],
+            [
+              "Açúcares totais",
+              "2,8 g (do leite)"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g"
+            ],
+            [
+              "Proteínas",
+              "2,4 g"
+            ],
+            [
+              "Gorduras totais",
+              "2 g"
+            ],
+            [
+              "Sódio",
+              "34 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por 100 ml, a loja informa 25 kcal para o clássico."
+        ]
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "paragraphs": [
+          "O clássico leva leite em pó integral, café solúvel (24%), estabilizantes (hidrogenofosfato de dipotássio e citrato trissódico) e o emulsificante lecitina.",
+          "Os três levam as mesmas indicações de alérgenos na loja: derivados de leite e soja, pode conter trigo, cevada e aveia, contém lactose e contém glúten. Quem tem alergia ou intolerância deve ler o rótulo da caixa."
+        ]
+      },
+      {
+        "heading": "Café au Lait Dolce Gusto tem cafeína?",
+        "paragraphs": [
+          "O café solúvel está na lista de ingredientes: 24% no clássico e 15% no Vanilla. A loja não informa a quantidade de cafeína em miligramas, e por isso não damos número. Para dúvidas sobre cafeína, fale com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Quantos ml faz o Café au Lait?",
+        "paragraphs": [
+          "A página da loja mostra o ícone de xícara média. Pela nossa conta, o clássico rende cerca de 180 ml: 45 kcal da cápsula ÷ 25 kcal por 100 ml × 100. É o mesmo valor da tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), com 180 ml para o Café au Lait e 140 ml para o Desnatado. O Vanilla também fecha em cerca de 140 ml pela nossa conta. A loja indica 1 cápsula por bebida."
+        ],
+        "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+        "imageAlt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
+        "imageCaption": "Cápsula e xícara do Café au Lait, em foto da loja oficial.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Café au Lait Desnatado: o que muda",
+        "paragraphs": [
+          "A marca descreve o Desnatado como uma \"nova versão do Café Au Lait feita com leite desnatado\". Os ingredientes são soro de leite, leite em pó desnatado, café solúvel, TCM e lecitina de soja."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por cápsula de 10 g (Desnatado)",
+            "Quantidade"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "34 kcal"
+            ],
+            [
+              "Carboidratos",
+              "6,1 g"
+            ],
+            [
+              "Açúcares totais",
+              "5,7 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g"
+            ],
+            [
+              "Proteínas",
+              "1,8 g"
+            ],
+            [
+              "Gorduras totais",
+              "0 g"
+            ],
+            [
+              "Sódio",
+              "44 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pela nossa conta, rende cerca de 140 ml. Em 17/10/2026, a caixa de 10 cápsulas custava R$ 25,90 na loja oficial, ou R$ 2,59 por cápsula (conta nossa)."
+        ]
+      },
+      {
+        "heading": "Café au Lait Vanilla: o que muda",
+        "paragraphs": [
+          "A marca fala em \"toque e aroma de baunilha\". A lista de ingredientes é leite em pó integral, açúcar, café solúvel (15%), soro de leite, aromatizante, fosfato dipotássico, citrato de sódio e lecitina de soja."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por cápsula de 11 g (Vanilla)",
+            "Quantidade"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "47 kcal"
+            ],
+            [
+              "Açúcares adicionados",
+              "2,9 g"
+            ],
+            [
+              "Proteínas",
+              "1,6 g"
+            ],
+            [
+              "Gorduras totais",
+              "1,3 g"
+            ],
+            [
+              "Sódio",
+              "24 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pela nossa conta, rende cerca de 140 ml. Em 17/10/2026, a caixa de 10 cápsulas custava R$ 25,90 na loja oficial, ou R$ 2,59 por cápsula (conta nossa)."
+        ]
+      },
+      {
+        "heading": "Intenso, descafeinado e caixas de 16 ou 30",
+        "paragraphs": [
+          "Não encontramos Café au Lait Intenso, descafeinado nem caixas de 16 ou 30 cápsulas na loja oficial brasileira. Essas versões aparecem em lojas de fora do Brasil, e por isso ficam fora desta ficha."
+        ]
+      },
+      {
+        "heading": "Quanto custa a cápsula",
+        "paragraphs": [
+          "Em 17/10/2026, a loja oficial mostrava o clássico de R$ 25,90 por R$ 22,50 na caixa de 10 cápsulas. Pela nossa conta, são R$ 2,25 por cápsula (R$ 22,50 ÷ 10), e 1 cápsula faz 1 bebida. O Desnatado e o Vanilla estavam a R$ 25,90, sem preço promocional. O preço muda; confira na loja. Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "É bom? O que dizem as avaliações da loja",
+        "paragraphs": [
+          "Em 17/10/2026, a página do Café au Lait clássico mostrava avaliação de 94%, com 47 avaliações. O Desnatado mostrava 96% (15 avaliações) e o Vanilla, 94% (19 avaliações). É a nota da própria loja, de quem comprou lá. A marca descreve o clássico como \"equilibrado e encorpado\", com \"grãos selecionados de café que se harmonizam perfeitamente com a cremosidade do leite integral\" e torrefação média. Para ver o Café au Lait ao lado de outros sabores, leia as [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026)."
+        ]
+      },
+      {
+        "heading": "Onde comprar e como usar o CECI",
+        "paragraphs": [
+          "O Café au Lait está na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 5% OFF na loja oficial, em compras a partir de R$ 100, com até 3 usos por CPF. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na [página do cupom da Dolce Gusto](/cupons/dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Café au Lait Dolce Gusto tem açúcar? O clássico e o Desnatado não têm açúcar adicionado (0 g); os açúcares vêm do leite. O Vanilla tem 2,9 g de açúcares adicionados por cápsula.",
+          "Quantos ml faz o Café au Lait Dolce Gusto? Pela nossa conta, cerca de 180 ml no clássico e cerca de 140 ml no Desnatado e no Vanilla.",
+          "Quantas calorias tem o Café au Lait Dolce Gusto? O clássico tem 45 kcal por cápsula de 10 g. O Desnatado tem 34 kcal e o Vanilla, 47 kcal por cápsula de 11 g.",
+          "Café au Lait Dolce Gusto tem cafeína? O café solúvel está na lista de ingredientes. A loja não informa a quantidade de cafeína em miligramas.",
+          "Café au Lait Dolce Gusto tem glúten e lactose? A loja informa que contém lactose e contém glúten, além de derivados de leite e soja. Pode conter trigo, cevada e aveia.",
+          "Café au Lait Dolce Gusto tem versão descafeinada ou Intenso? Não na loja oficial brasileira. Essas versões são de lojas de fora do Brasil."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Esta é uma ficha de leitura das páginas do produto na loja oficial da NESCAFÉ Dolce Gusto, lidas em 17/10/2026, sem teste próprio. Os volumes em ml são conta nossa. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Preço e condições mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Café au Lait e as outras versões na loja oficial e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Ficha feita a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
+    "relatedArticles": [
+      {
+        "slug": "melhores-capsulas-dolce-gusto-2026",
+        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto",
+        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
+      }
+    ]
   }
 ];
