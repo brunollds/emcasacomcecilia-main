@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { getSearchCopy, type SearchCopy } from '@/components/search/searchCopy';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getLocaleHomePath } from '@/lib/localeHome';
@@ -18,6 +19,22 @@ assert.deepEqual(
 assert.equal(new Set(LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel)).size, LOCALE_KEYS.length);
 
 const ptCopy = getShellCopy('pt');
+const ptMenu = getShellMenu('pt');
+
+// Os textos do campo de busca num idioma, as funções já preenchidas.
+const searchTexts = (copy: SearchCopy) => ({
+  placeholder: copy.placeholder,
+  inputLabel: copy.inputLabel,
+  clearLabel: copy.clearLabel,
+  oneResult: copy.resultCount(1),
+  manyResults: copy.resultCount(3),
+  recipe: copy.typeLabels.recipe,
+  review: copy.typeLabels.review,
+  store: copy.typeLabels.store,
+  noResultsTitle: copy.noResultsTitle,
+  noResultsHint: copy.noResultsHint('xyz'),
+});
+const ptSearch = searchTexts(getSearchCopy('pt'));
 
 for (const locale of LOCALE_KEYS) {
   const commercialLinks = getShellCommercialLinks(locale);
@@ -37,6 +54,25 @@ for (const locale of LOCALE_KEYS) {
   }
 
   const menu = getShellMenu(locale);
+
+  // A lupa nos 10 idiomas, com os rótulos e os textos do campo no idioma.
+  assert.ok(menu.searchLabels.open && menu.searchLabels.close, `${locale}: rótulos da lupa vazios`);
+  const searchCopy = getSearchCopy(locale);
+  for (const [key, text] of Object.entries(searchTexts(searchCopy))) {
+    assert.ok(text, `${locale}: texto da busca ${key} vazio`);
+    if (locale !== 'pt') assert.notEqual(text, ptSearch[key as keyof typeof ptSearch], `${locale}: texto da busca ${key} igual ao PT`);
+  }
+  assert.ok(searchCopy.resultCount(3).includes('3') && searchCopy.noResultsHint('xyz').includes('xyz'), `${locale}: busca sem o número ou o termo`);
+  if (locale !== 'pt') {
+    assert.notEqual(menu.searchLabels.open, ptMenu.searchLabels.open, `${locale}: lupa igual ao PT`);
+    assert.notEqual(menu.searchLabels.close, ptMenu.searchLabels.close, `${locale}: lupa igual ao PT`);
+    // Fora do PT não há o /buscar: no lugar do "Ver todos os resultados", o link para a lista de artigos.
+    assert.equal(searchCopy.seeAllLabel, null, `${locale}: link para o /buscar`);
+    assert.ok(searchCopy.hubLinkLabel, `${locale}: sem o link para a lista de artigos`);
+  } else {
+    assert.equal(searchCopy.seeAllLabel, 'Ver todos os resultados');
+    assert.equal(searchCopy.hubLinkLabel, null);
+  }
 
   if (locale === 'pt') {
     assert.equal(getShellHomeHref(locale), '/');
@@ -76,7 +112,6 @@ for (const locale of LOCALE_KEYS) {
   assert.deepEqual(menu.primary, [{ id: 'reviews', href: hubPath, label: copy.reviewHubLabel }]);
   assert.deepEqual(menu.more, []);
   assert.equal(menu.moreLabel, null);
-  assert.equal(menu.searchLabels, null);
   assert.equal(menu.reviewsListLabel, null);
   assert.equal(menu.footerLabels, null);
   assert.equal(menu.mediaKitLabel, null);

@@ -142,27 +142,20 @@ export default function MobileHeader({ locale, menu, active, copy, commercialLin
           </Link>
         </div>
 
-        {menu.searchLabels ? (
-          <>
-            <div id={SEARCH_ID} className="header-busca" inert={!searchOpen}>
-              <OmniSearch inputRef={searchInputRef} tone="light" fullWidthResults />
-            </div>
-            <button
-              ref={searchButtonRef}
-              type="button"
-              aria-expanded={searchOpen}
-              aria-controls={SEARCH_ID}
-              aria-label={searchOpen ? menu.searchLabels.close : menu.searchLabels.open}
-              onClick={toggleSearch}
-              className="header-botao"
-            >
-              {searchOpen ? <X aria-hidden="true" className="h-4.5 w-4.5" /> : <Search aria-hidden="true" className="h-4.5 w-4.5" />}
-            </button>
-          </>
-        ) : (
-          // Sem busca fora do PT: o lugar da lupa fica vazio para o nome continuar no centro.
-          <span aria-hidden="true" className="h-10 w-10 flex-shrink-0" />
-        )}
+        <div id={SEARCH_ID} className="header-busca" inert={!searchOpen}>
+          <OmniSearch locale={locale} inputRef={searchInputRef} tone="light" fullWidthResults />
+        </div>
+        <button
+          ref={searchButtonRef}
+          type="button"
+          aria-expanded={searchOpen}
+          aria-controls={SEARCH_ID}
+          aria-label={searchOpen ? menu.searchLabels.close : menu.searchLabels.open}
+          onClick={toggleSearch}
+          className="header-botao"
+        >
+          {searchOpen ? <X aria-hidden="true" className="h-4.5 w-4.5" /> : <Search aria-hidden="true" className="h-4.5 w-4.5" />}
+        </button>
       </div>
 
       <nav id={DRAWER_ID} className="header-gaveta" inert={!menuOpen}>

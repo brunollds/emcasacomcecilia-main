@@ -6,7 +6,8 @@
 // Uso: node scripts/content/build-index.mjs
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
-import { createSearchIndex } from '../../src/lib/siteSearch.mjs';
+import { createLocaleSearchIndex, createSearchIndex, getSearchIndexPath } from '../../src/lib/siteSearch.mjs';
+import { loadLocaleSearchStores } from './locale-search-stores.mjs';
 
 function loadOrdered(dir) {
   const manifest = JSON.parse(readFileSync(path.join(dir, '_manifest.json'), 'utf8'));
@@ -44,3 +45,13 @@ const reviewCount = searchIndex.length - recipeCount;
 mkdirSync('public', { recursive: true });
 writeFileSync(path.join('public', 'search-index.json'), JSON.stringify(searchIndex));
 console.log(`ok public/search-index.json (${recipeCount} receitas, ${reviewCount} guias e análises)`);
+
+// Um índice por idioma fora do PT (public/search-index-<locale>.json): os artigos da lista do idioma e
+// as páginas de loja dele, só com texto do idioma.
+const storesByLocale = loadLocaleSearchStores();
+for (const [locale, stores] of Object.entries(storesByLocale)) {
+  const localeIndex = createLocaleSearchIndex(locale, { reviews, stores });
+  const file = path.join('public', getSearchIndexPath(locale));
+  writeFileSync(file, JSON.stringify(localeIndex));
+  console.log(`ok ${file.replaceAll(path.sep, '/')} (${stores.length} lojas, ${localeIndex.length - stores.length} artigos)`);
+}

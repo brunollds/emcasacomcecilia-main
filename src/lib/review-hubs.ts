@@ -1,5 +1,5 @@
 import type { Review } from '@/lib/content/types';
-import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import { compareReviewsNewestFirst, isListedInLocale } from '@/lib/reviewVisibility.mjs';
 import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 
 export type ReviewHubLocale = Exclude<Locale, 'pt'>;
@@ -74,18 +74,6 @@ export function getPublishedReviewsForLocale(
   locale: ReviewHubLocale,
   reviews: readonly ReviewHubReview[]
 ): ReviewHubReview[] {
-  return reviews
-    .filter(
-      (review) =>
-        !review.draft &&
-        !review.hideFromListings &&
-        resolveReviewLocale(review.locale) === locale
-    )
-    .sort((left, right) => {
-      const publishedAtDifference = (right.publishedAtISO ?? '').localeCompare(
-        left.publishedAtISO ?? ''
-      );
-
-      return publishedAtDifference || right.id - left.id;
-    });
+  // A mesma regra do índice de busca do idioma (createLocaleSearchIndex).
+  return reviews.filter((review) => isListedInLocale(review, locale)).sort(compareReviewsNewestFirst);
 }

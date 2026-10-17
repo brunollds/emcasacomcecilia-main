@@ -7,6 +7,7 @@ import { COUPON_STORE_COPY } from '../src/components/coupons/couponStoreCopy';
 import { getArticleCopy, getTemplateUi } from '../src/components/review/articleCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
+import { getSearchCopy } from '../src/components/search/searchCopy';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
@@ -44,7 +45,7 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
-import { getInternationalReviewHub } from '../src/lib/review-hubs';
+import { REVIEW_HUB_LOCALES, getInternationalReviewHub, getPublishedReviewsForLocale } from '../src/lib/review-hubs';
 import { pickRelatedReviews } from '../src/lib/relatedReviews';
 import { getOthersShelfContent, getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
@@ -1679,11 +1680,14 @@ const shellTexts = (locale: Locale) => {
 };
 // A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
 const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
+// Os textos do campo de busca do PT que o servidor traz no header (o campo do celular, inerte).
+const PT_SEARCH_TEXTS = (({ placeholder, inputLabel, clearLabel }) => [placeholder, inputLabel, clearLabel])(getSearchCopy('pt'));
 // Os textos do header que só existem em português: a lista Mais, as categorias, a busca e os Dicas.
 function ptHeaderTexts() {
   const menu = getShellMenu('pt');
   const copy = getShellCopy('pt');
   return [
+    ...PT_SEARCH_TEXTS,
     menu.moreLabel,
     menu.reviewsListLabel,
     menu.searchLabels?.open,
@@ -3462,6 +3466,51 @@ for (const [pagePath, locale] of HEADER_PAGES) {
     }
   }
 }
+
+// A lupa do header nos 10 idiomas: na home e num artigo de cada idioma, o botão com o rótulo do idioma e o
+// campo do celular (que o servidor já traz, inerte) com o rótulo e o placeholder dele; fora do PT, nenhum
+// texto da busca do PT.
+function searchHeaderProblems(html: string, locale: Locale) {
+  const { header } = headerPieces(html);
+  const { open } = getShellMenu(locale).searchLabels;
+  const copy = getSearchCopy(locale);
+  const problems: string[] = [];
+  if (!header.includes(`aria-label="${escapeHtml(open)}"`)) problems.push(`sem a lupa "${open}"`);
+  if (!header.includes(`aria-label="${escapeHtml(copy.inputLabel)}"`)) problems.push(`sem o campo "${copy.inputLabel}"`);
+  if (!header.includes(`placeholder="${escapeHtml(copy.placeholder)}"`)) problems.push(`sem o placeholder "${copy.placeholder}"`);
+  if (locale !== 'pt') {
+    problems.push(...PT_SEARCH_TEXTS.filter((text) => header.includes(`"${text}"`)).map((text) => `texto da busca do PT "${text}"`));
+  }
+  return problems;
+}
+const SEARCH_HEADER_PAGES: Array<[string, Locale]> = [
+  ['/', 'pt'],
+  ['/reviews/poltrona-damie-e-boa', 'pt'],
+  ...REVIEW_HUB_LOCALES.flatMap((locale): Array<[string, Locale]> => {
+    const [article] = getPublishedReviewsForLocale(locale, publishedReviews);
+    assert.ok(article, `/${locale}/reviews: sem artigo para conferir a lupa`);
+    return [
+      [getShellHomeHref(locale), locale],
+      [getReviewCanonicalPathname(article), locale],
+    ];
+  }),
+];
+const searchHtmlOf: Record<string, string> = {};
+for (const [pagePath, locale] of SEARCH_HEADER_PAGES) {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build (lupa)`);
+  searchHtmlOf[pagePath] = read(file);
+  assert.deepEqual(searchHeaderProblems(searchHtmlOf[pagePath], locale), [], `${pagePath}: lupa do header`);
+}
+// Controle: a lupa em português numa página em inglês, e a página sem a lupa, não passam.
+{
+  const enHome = searchHtmlOf['/en'];
+  const enCopy = getSearchCopy('en');
+  const ptCopy = getSearchCopy('pt');
+  assert.notDeepEqual(searchHeaderProblems(enHome.replace(`placeholder="${enCopy.placeholder}"`, `placeholder="${ptCopy.placeholder}"`), 'en'), [], 'placeholder em português passou');
+  assert.notDeepEqual(searchHeaderProblems(enHome.replaceAll(`aria-label="${getShellMenu('en').searchLabels.open}"`, ''), 'en'), [], 'página sem a lupa passou');
+}
+
 // Controles: os guardas falham nos casos errados.
 {
   const review = headerHtmlOf['/reviews/poltrona-damie-e-boa'];

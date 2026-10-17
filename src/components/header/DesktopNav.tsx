@@ -187,19 +187,17 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
   return (
     <div className="hidden min-w-0 flex-1 items-center xl:flex">
       <div className="relative flex min-w-0 flex-1 items-center gap-4">
-        {menu.searchLabels && (
-          <button
-            ref={searchButtonRef}
-            type="button"
-            aria-label={menu.searchLabels.open}
-            aria-expanded={searchOpen}
-            aria-controls="header-desktop-search"
-            onClick={() => setSearchOpen(true)}
-            className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full border border-white/20 bg-white/8 text-white/70 transition-all hover:border-white/45 hover:bg-white/14 hover:text-white"
-          >
-            <Search className="h-4.5 w-4.5" />
-          </button>
-        )}
+        <button
+          ref={searchButtonRef}
+          type="button"
+          aria-label={menu.searchLabels.open}
+          aria-expanded={searchOpen}
+          aria-controls="header-desktop-search"
+          onClick={() => setSearchOpen(true)}
+          className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full border border-white/20 bg-white/8 text-white/70 transition-all hover:border-white/45 hover:bg-white/14 hover:text-white"
+        >
+          <Search className="h-4.5 w-4.5" />
+        </button>
 
         <nav className="flex min-w-0 items-center gap-5">
           {menu.primary.map((item) => {
@@ -257,14 +255,14 @@ export default function DesktopNav({ locale, menu, active, copy, commercialLinks
           )}
         </nav>
 
-        {searchOpen && menu.searchLabels && (
+        {searchOpen && (
           <div
             ref={searchRef}
             id="header-desktop-search"
             className="absolute -inset-y-1 left-0 right-0 z-30 flex items-center gap-2 bg-[#0f1d3a] py-1"
           >
             <div className="min-w-0 flex-1">
-              <OmniSearch autoFocus />
+              <OmniSearch locale={locale} autoFocus />
             </div>
             <button
               type="button"

@@ -105,6 +105,17 @@ a gravação da URL das duas ficam em `src/components/ui/useListUrl.tsx` (`isOnL
 `src/lib/listUrl.ts`), e a troca animada, em `src/components/ui/shelfTransition.ts`, fora do
 `src/lib/viewTransition.ts`, que componentes servidor importam: o `flushSync` só existe no cliente.
 
+### Busca (a lupa do header)
+
+A lupa existe nos 10 idiomas e o campo é o `OmniSearch` (cliente), com os textos em
+`src/components/search/searchCopy.ts` e os rótulos da lupa no `ShellCopy`. O PT busca em
+`public/search-index.json` (receitas e artigos) e leva ao `/buscar`. Cada um dos 9 idiomas busca em
+`public/search-index-<locale>.json`, só com as páginas de loja dele e os artigos da lista dele
+(`createLocaleSearchIndex`, em `src/lib/siteSearch.mjs`), sem o `/buscar`: Enter abre o resultado. Os
+índices saem do `node scripts/content/build-index.mjs`, que lê os textos das lojas (TS) com o tsx num
+processo à parte (`scripts/content/locale-search-stores.mjs` e `src/lib/localeSearchStores.ts`); o
+`npm run test:site-search` confere os gerados contra os dados.
+
 ### Analytics e aviso de cookies (LGPD)
 
 O GA4 (`src/components/Analytics.js`) e o Clarity (`src/components/Clarity.js`) só carregam com as duas
