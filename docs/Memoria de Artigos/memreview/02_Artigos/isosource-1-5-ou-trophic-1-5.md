@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "comparativo"
 type: "Comparativo"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 55
@@ -219,3 +219,83 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Isosource 1.5 Sem Sabor 1 L na Nestlé Nutre (17/10/2026): de R$ 38,49 por R$ 32,72 (-15%); assinatura R$ 28,87; combos de 15 (R$ 490,75) e 30 unidades (R$ 923,76). Por 100 ml: 151 kcal; proteínas 6,3 g; carboidratos 21 g; açúcares totais 1 g; lactose 0; gorduras 4,5 g; fibras 0,8 g; sódio 110 mg; potássio 260 mg. Por litro (conta nossa): 1.510 kcal, 63 g de proteína, 8 g de fibra, 1.100 mg de sódio; R$ 21,67 por 1.000 kcal na compra única. Sem glúten e sem lactose; sem adição de sacarose. Aberto: refrigerado e tampado por até 24 h. A osmolalidade não aparece na página: só entra com o rótulo, senão a linha sai da tabela.
 - Trophic 1.5: confirmar a versão (sabor e embalagem) e se existe em sistema fechado; comparar só o que os dois rótulos mostram.
 - Isosource 1.0 ou 1.5 não vira artigo: no Brasil o 1.0 é pó (400 g) e o 1.5 é líquido (1 L). Se couber, uma frase neste comparativo e a seção no artigo-base (ver `03_Memoria/Descartadas.md`).
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são duas fórmulas em caixa de 1 litro, as duas com 1,5 kcal por mL e as duas apresentadas para nutrição enteral e oral. Usar somente sob orientação médica ou de nutricionista: é o profissional que escolhe a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.
+
+A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve). Não recebemos os produtos.
+
+### Qual versão de cada lado
+
+Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.
+
+Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia em 17/10/2026. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui.
+
+### O que é igual
+
+Os dois declaram 1,5 kcal por mL, ou seja, cerca de 1.500 kcal por litro, em caixa de 1 L. Os dois se apresentam para nutrição enteral e oral, trazem "não contém glúten" e "sem adição de sacarose", e pedem refrigeração depois de abertos, por no máximo 24 horas. Confira sempre a caixa que você tem em mãos: sabor e versão mudam de um produto da linha para outro.
+
+### Comparação por litro
+
+Isosource: rótulo lido na Nestlé Nutre em 17/10/2026, com os valores por 100 ml multiplicados por 10 (conta nossa). Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia, lidos em 17/10/2026.
+
+| Item por litro | Isosource 1.5 Sem Sabor | Trophic 1.5 Baunilha |
+|---|---|---|
+| Energia | 1.510 kcal | 1.500 kcal |
+| Proteínas | 63 g | 57 g |
+| Fibras | 8 g | Isento de fibras |
+| Lactose | 0 g, "não contém lactose" | "Não contém lactose" |
+| Glúten | "Não contém glúten" | "Não contém glúten" |
+| Sacarose | Sem adição de sacarose | Sem adição de sacarose e sucralose |
+| Osmolaridade | 410 mOsm/L de água | A Prodiet não informa nas fontes lidas |
+
+A tabela completa da Trophic não estava publicada nas fontes lidas, e o verso da caixa na foto da loja não dava para ler. Por isso carboidratos, gorduras, sódio e potássio ficam fora da comparação, e vale a caixa que você tiver.
+
+### Alergênicos e fibras
+
+O Isosource 1.5 Sem Sabor declara "contém derivados de leite e soja" e "não contém glúten". O caseinato é derivado do leite: "não contém lactose" não quer dizer "sem leite". Tem fibras (inulina e fibra de soja, 0,8 g por 100 ml), mesmo que o nome do produto não diga.
+
+A Trophic 1.5 Baunilha traz "não contém lactose" e "isento de fibras" nos cartões da Prodiet. O texto da loja diz "contém derivados de leite". Quem tem restrição deve ler a caixa e perguntar ao profissional.
+
+### Preço em 17/10/2026
+
+Isosource 1.5 Sem Sabor 1 L, na Nestlé Nutre, em 17/10/2026: de R$ 38,49 por R$ 32,72, ou R$ 28,87 na assinatura. Trophic 1.5 Baunilha 1 L, na Droga Raia, em 17/10/2026: de R$ 39,90 por R$ 28,50. As lojas são diferentes e o preço muda; confira na loja na hora da compra.
+
+- Isosource, Nestlé Nutre, compra única (conta nossa): R$ 32,72 por litro e cerca de R$ 21,67 por 1.000 kcal (R$ 32,72 dividido por 1,51).
+- Trophic, Droga Raia (conta nossa): R$ 28,50 por litro e R$ 19,00 por 1.000 kcal (R$ 28,50 dividido por 1,5).
+
+A Trophic sai cerca de R$ 4,22 mais barata por litro e cerca de R$ 2,67 por 1.000 kcal. O Isosource entrega um pouco mais de proteína por litro (63 g contra 57 g) e traz fibras, e a Trophic é isenta de fibras. Preço por 1.000 kcal não diz qual fórmula serve a quem usa.
+
+### Para quem cada um faz sentido
+
+Pelo perfil de compra, e sempre com a prescrição na mão:
+
+- Quem precisa de lactose zero declarada: os dois trazem "não contém lactose" na embalagem ou nos cartões do fabricante, e os dois têm derivados de leite.
+- Quem precisa de fórmula com fibras, ou sem: o Isosource traz 8 g de fibras por litro; a Trophic é "isenta de fibras".
+- Quem olha o preço por 1.000 kcal: a Trophic estava mais barata na leitura de 17/10/2026 (R$ 19,00 contra R$ 21,67), em lojas diferentes.
+- Quem quer a tabela completa antes de comprar: a do Isosource está lida; a da Trophic fica para a caixa.
+
+### Onde entra o cupom CECI
+
+O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Isosource não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre). A Prodiet não é parceira do site, e não temos código para a Trophic.
+
+### Perguntas frequentes
+
+- Isosource 1.5 ou Trophic 1.5: qual escolher? Não há resposta única. A escolha é do médico ou do nutricionista, e os dois rótulos precisam ser lidos lado a lado, com a mesma base de conta.
+- Isosource e Trophic são a mesma coisa? São fórmulas diferentes, de marcas diferentes, com a mesma densidade declarada de 1,5 kcal por mL. Proteína, fibras e outros números mudam de uma para outra.
+- Isosource 1.5 tem lactose? A frente diz "não contém lactose" e a tabela traz 0 g. Contém derivados de leite e soja.
+- Trophic 1.5 tem lactose? Os cartões da Prodiet dizem "não contém lactose". O texto da loja diz que contém derivados de leite.
+- Qual tem mais proteína por litro? O Isosource: 63 g contra 57 g (conta nossa para o Isosource; a Prodiet informa 57 g por litro).
+- Qual é mais barato por litro? Em 17/10/2026, a Trophic estava a R$ 28,50 na Droga Raia e o Isosource a R$ 32,72 na Nestlé Nutre. Lojas e condições são diferentes.
+
+### Fontes e nota de transparência
+
+Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre e página do Trophic 1.5 Baunilha 1 L na Droga Raia (cartões da Prodiet nas fotos do produto), lidos em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos.

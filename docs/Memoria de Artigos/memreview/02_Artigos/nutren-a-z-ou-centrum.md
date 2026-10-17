@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 55
@@ -217,3 +217,115 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Centrum: Centrum A a Zinco Adulto 60 comprimidos. A tabela do Centrum sai do rótulo atual da Haleon (site oficial ou foto da embalagem); a bula de 2021 só confirma, e o folato que não fecha com 400 µg fica fora até conferir.
 - Nutren A-Z Multivitamínico na Nestlé Nutre (17/10/2026): 60 cápsulas de R$ 69,89 por R$ 48,92 (R$ 0,82 por dia, conta nossa); 30 cápsulas de R$ 37,89 por R$ 30,31. Porção 1 cápsula (0,75 g), 60 porções. Por cápsula (%VD): A 600 µg (75); D 5 µg (33); E 10 mg (67); K 65 µg (54); C 45 mg (45); B1 1,2 mg (100); B2 1,3 mg (108); B3 16 mg (107); B5 5 mg (100); B6 1,3 mg (100); biotina 30 µg (100); ácido fólico 400 µg (100); B12 2,4 µg (100); cobre 900 µg (100); cromo 35 µg (100); ferro 14 mg (100); manganês 1 mg (33); molibdênio 45 µg (100); selênio 34 µg (57); zinco 7 mg (64). Sem valor energético significativo. Maiores de 19 anos; 1 cápsula ao dia; após aberto, 60 dias. Glúten e lactose não aparecem na página: não afirmar.
 - Alegações: só as que os dois rótulos trazem, no formato da alegação com os nutrientes (no Nutren: sistema imune, metabolismo energético e antioxidantes, com a lista de nutrientes da nota da página).
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren vem em cápsula softgel de 0,75 g e declara 13 vitaminas e 7 minerais; o Centrum é um comprimido revestido e lista também cálcio, fósforo, magnésio e iodo, que o Nutren não traz. Na Nestlé Nutre, o Nutren custava R$ 0,82 por dia em 17/10/2026; o Centrum, R$ 2,35 por dia na Extrafarma na mesma data (contas nossas).
+
+### Os dois produtos lado a lado
+
+Os dois têm 60 unidades por frasco e dose de uma por dia, para adultos. A comparação é por unidade, e a unidade não é igual: uma cápsula de 0,75 g contra um comprimido de 1,32 g. Para a ficha completa do Nutren, veja o [guia do Nutren A-Z Multi](/reviews/nutren-a-z-multi-para-que-serve). Aqui ficam só as diferenças.
+
+| Item | Nutren A-Z Multi | Centrum A a Zinco Adulto |
+|---|---|---|
+| Formato | Cápsula softgel de 0,75 g | Comprimido revestido (1,32 g) |
+| Unidades por frasco | 60 | 60 |
+| Dose | 1 cápsula ao dia | 1 comprimido ao dia |
+| Público | Maiores de 19 anos (adultos) | Adultos |
+| Glúten | Não contém (rótulo) | Não contém (página da Drogasil) |
+
+A página do Centrum na Drogasil, lida em 17/10/2026, avisa que a embalagem está sendo atualizada pelo fabricante. Se o frasco na sua mão for de outra versão, vale a tabela impressa nele.
+
+### Dose de cada vitamina e mineral por unidade
+
+A tabela traz a quantidade por cápsula (Nutren, rótulo) e por comprimido (Centrum, página da Drogasil de 17/10/2026, que confere com a bula da GSK de 2021). Não comparamos o %VD: a bula do Centrum é de 2021 e o rótulo do Nutren usa valores de referência que parecem outros (600 µg de vitamina A é 75% no Nutren; 400 µg é 67% na bula do Centrum).
+
+| Nutriente | Nutren (por cápsula) | Centrum (por comprimido) |
+|---|---|---|
+| Vitamina A | 600 µg | 400 µg |
+| Vitamina D | 5 µg | 5 µg |
+| Vitamina E | 10 mg | 6,7 mg |
+| Vitamina K | 65 µg | 65 µg |
+| Vitamina C | 45 mg | 45 mg |
+| Vitamina B1 | 1,2 mg | 1,2 mg |
+| Vitamina B2 | 1,3 mg | 1,3 mg |
+| Vitamina B3 (niacina) | 16 mg | 16 mg |
+| Vitamina B5 (ácido pantotênico) | 5 mg | 5 mg |
+| Vitamina B6 | 1,3 mg | 1,3 mg |
+| Biotina | 30 µg | 30 µg |
+| Vitamina B12 | 2,4 µg | 2,4 µg |
+| Ácido fólico | 400 µg | 240 µg |
+| Ferro | 14 mg | 8,1 mg |
+| Zinco | 7 mg | 7 mg |
+| Selênio | 34 µg | 20 µg |
+| Cobre | 900 µg | 450 µg |
+| Cromo | 35 µg | 18 µg |
+| Manganês | 1 mg | 1,2 mg |
+| Molibdênio | 45 µg | 23 µg |
+| Cálcio | Não consta | 250 mg |
+| Fósforo | Não consta | 125 mg |
+| Magnésio | Não consta | 100 mg |
+| Iodo | Não consta | 33 µg |
+
+O Nutren tem a dose maior de vitaminas A e E, ácido fólico, ferro, selênio, cobre, cromo e molibdênio. O Centrum traz cálcio, fósforo, magnésio e iodo, que não aparecem na tabela do Nutren, e um pouco mais de manganês. Várias vitaminas do complexo B, a D, a K, a C, a biotina e o zinco têm a mesma dose nos dois. A vitamina A do Centrum vem como betacaroteno mais retinol, segundo a bula.
+
+### O que cada rótulo declara
+
+O rótulo do Nutren A-Z Multi traz três alegações, cada uma com os nutrientes:
+
+- As vitaminas A, C e D e o zinco e selênio auxiliam no funcionamento do sistema imune.
+- As vitaminas B1, B2, B6 e B12, niacina e ácido pantotênico auxiliam no metabolismo energético.
+- As vitaminas C, E e o zinco auxiliam na proteção dos danos causados pelos radicais livres.
+
+Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e "não contém glúten". A página também traz frases de loja, mas não reproduzimos as frases de lojas.
+
+### Ingredientes e alérgenos
+
+No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O ferro, o manganês e o selênio vêm em formas quelatadas (bisglicinato de ferro, bisglicinato de manganês e selenometionina), segundo o rótulo.
+
+No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco.
+
+### Quanto custa por dia
+
+Preço dividido pelo número de unidades (conta nossa), em 17/10/2026:
+
+| Produto | Onde | Preço | Por dia |
+|---|---|---|---|
+| Nutren A-Z Multi, 60 cápsulas | Nestlé Nutre | R$ 48,92 (de R$ 69,89) | R$ 0,82 |
+| Nutren A-Z Multi, 60 cápsulas | Nestlé Nutre, assinatura | R$ 41,93 | R$ 0,70 |
+| Nutren A-Z Multi, 30 cápsulas | Nestlé Nutre | R$ 30,31 (de R$ 37,89) | R$ 1,01 |
+| Centrum A a Zinco, 60 comprimidos | Extrafarma | R$ 140,99 | R$ 2,35 |
+
+Pelas contas, o Centrum custa cerca de 2,9 vezes o Nutren por dia nesses preços. A comparação não é de dose igual: cada um traz nutrientes e quantidades diferentes, como mostra a tabela acima. Preço de farmácia muda por loja e por dia.
+
+O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum.
+
+### Para quem cada um faz sentido, pelo rótulo
+
+- Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.
+- Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia: o Nutren A-Z Multi.
+- Quem quer evitar glúten: os dois declaram não conter.
+- Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; o Centrum, segundo a Drogasil, tem vitamina A de origem suína e vitamina D3 de origem bovina e ovina.
+
+Dúvida sobre dose, uso com outros remédios ou gravidez e amamentação (a Drogasil avisa que gestantes e lactantes só devem usar o Centrum com orientação médica): fale com médico ou nutricionista.
+
+### Perguntas frequentes
+
+- Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e custa menos por dia; o Centrum traz cálcio, fósforo, magnésio e iodo.
+- O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.
+- O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.
+- O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.
+- Qual custa menos por dia? Em 17/10/2026, o Nutren A-Z Multi saía a R$ 0,82 por dia na Nestlé Nutre e o Centrum A a Zinco a R$ 2,35 por dia na Extrafarma (contas nossas).
+- Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.
+- Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto.
+
+### Nota de transparência
+
+Este é um guia de leitura de rótulo e de preço. Fontes: rótulo do Nutren A-Z Multi e página da Nestlé Nutre, página do Centrum na Drogasil, bula da GSK de 2021 e página da Extrafarma (preço), lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI.

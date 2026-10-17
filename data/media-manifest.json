@@ -56900,6 +56900,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 362696,
+      "sha256": "01126c338508b2b9c6ed358b1738d8111aab6bbfcfbd79571956bfe8f4b8db63",
+      "width": 1000,
+      "height": 2190,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "storage_filename": "nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-ou-comfor.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-ou-comfor.json",
+          "line": 160,
+          "column": 17,
+          "literal": "/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84994,
+          "column": 19,
+          "literal": "/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01126c338508b2b9c6ed358b1738d8111aab6bbfcfbd79571956bfe8f4b8db63/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01126c338508b2b9c6ed358b1738d8111aab6bbfcfbd79571956bfe8f4b8db63/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.828Z",
+      "verification_etag_or_digest": "01126c338508b2b9c6ed358b1738d8111aab6bbfcfbd79571956bfe8f4b8db63",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
       "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
       "media_kind": "image",
@@ -57084,6 +57130,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87120,
+      "sha256": "4465803f21b580aa64ead720dbc84d65db946de5dfecf273c8bfae2243a3e34e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "storage_filename": "nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-ou-aptanutri-profutura.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-ou-aptanutri-profutura.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 85180,
+          "column": 15,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4465803f21b580aa64ead720dbc84d65db946de5dfecf273c8bfae2243a3e34e/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4465803f21b580aa64ead720dbc84d65db946de5dfecf273c8bfae2243a3e34e/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "4465803f21b580aa64ead720dbc84d65db946de5dfecf273c8bfae2243a3e34e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100954,
+      "sha256": "13ae0f2e18cdbd54ec36c649f96f1213cafd0ce79f96b389ebb5156a7ce571ad",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-ou-comfor-capa.webp",
+      "storage_filename": "nanlac-supreme-pro-ou-comfor-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-pro-ou-comfor.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-pro-ou-comfor.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 84856,
+          "column": 15,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/13ae0f2e18cdbd54ec36c649f96f1213cafd0ce79f96b389ebb5156a7ce571ad/nanlac-supreme-pro-ou-comfor-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13ae0f2e18cdbd54ec36c649f96f1213cafd0ce79f96b389ebb5156a7ce571ad/nanlac-supreme-pro-ou-comfor-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "13ae0f2e18cdbd54ec36c649f96f1213cafd0ce79f96b389ebb5156a7ce571ad",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "local_url": "/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98962,
+      "sha256": "abaee97951c3df7efdcfb43b7ec7128fc1056990ceedbd2f4fc4f575b444de3c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "storage_filename": "nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nanlac-supreme-ou-ninho-fases.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nanlac-supreme-ou-ninho-fases.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 85582,
+          "column": 15,
+          "literal": "/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/abaee97951c3df7efdcfb43b7ec7128fc1056990ceedbd2f4fc4f575b444de3c/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/abaee97951c3df7efdcfb43b7ec7128fc1056990ceedbd2f4fc4f575b444de3c/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "abaee97951c3df7efdcfb43b7ec7128fc1056990ceedbd2f4fc4f575b444de3c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
       "local_url": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
       "media_kind": "image",
@@ -57163,6 +57347,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "944387bc114ec6049bfd06433adaefdfcfef21d89180b7014d67b0798140e90b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
+      "local_url": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44212,
+      "sha256": "08b72d792808a3e2f1039027df70f7003ff0f39c32400b0cb48fb5220d1d6730",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "isosource-1-5-ou-trophic-1-5-capa.webp",
+      "storage_filename": "isosource-1-5-ou-trophic-1-5-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/isosource-1-5-ou-trophic-1-5.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/isosource-1-5-ou-trophic-1-5.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86499,
+          "column": 15,
+          "literal": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/08b72d792808a3e2f1039027df70f7003ff0f39c32400b0cb48fb5220d1d6730/isosource-1-5-ou-trophic-1-5-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/08b72d792808a3e2f1039027df70f7003ff0f39c32400b0cb48fb5220d1d6730/isosource-1-5-ou-trophic-1-5-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "08b72d792808a3e2f1039027df70f7003ff0f39c32400b0cb48fb5220d1d6730",
       "verification_status": "verified"
     },
     {
@@ -57699,6 +57929,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-17T18:51:51.261Z",
       "verification_etag_or_digest": "4c4d87fb5834a033b4f7e92b44de8980dc0435df96b002d23095eb89997addc0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41778,
+      "sha256": "30f2da503557812cbff7b674a955a3ad2f90be30f0607034c2b8ed67ef07beb8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-a-z-ou-centrum-capa.webp",
+      "storage_filename": "nutren-a-z-ou-centrum-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-a-z-ou-centrum.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-a-z-ou-centrum.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 85955,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/30f2da503557812cbff7b674a955a3ad2f90be30f0607034c2b8ed67ef07beb8/nutren-a-z-ou-centrum-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/30f2da503557812cbff7b674a955a3ad2f90be30f0607034c2b8ed67ef07beb8/nutren-a-z-ou-centrum-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "30f2da503557812cbff7b674a955a3ad2f90be30f0607034c2b8ed67ef07beb8",
       "verification_status": "verified"
     },
     {
@@ -58884,6 +59160,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "18fb3af4cb1eb02b97a20b0223be2e738e4d0c24698676869b4ab4a939655ca4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69444,
+      "sha256": "fab64e522ba06504c81ed34422d0c55cec16d0da2b5fe7dd48f7d5d228eda148",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-ou-nutridrink-capa.webp",
+      "storage_filename": "nutren-senior-ou-nutridrink-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ou-nutridrink.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ou-nutridrink.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86298,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fab64e522ba06504c81ed34422d0c55cec16d0da2b5fe7dd48f7d5d228eda148/nutren-senior-ou-nutridrink-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fab64e522ba06504c81ed34422d0c55cec16d0da2b5fe7dd48f7d5d228eda148/nutren-senior-ou-nutridrink-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T21:44:46.829Z",
+      "verification_etag_or_digest": "fab64e522ba06504c81ed34422d0c55cec16d0da2b5fe7dd48f7d5d228eda148",
       "verification_status": "verified"
     },
     {

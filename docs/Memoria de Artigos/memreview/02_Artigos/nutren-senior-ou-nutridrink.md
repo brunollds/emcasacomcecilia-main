@@ -2,9 +2,9 @@
 titulo_provisorio: "Nutren Senior ou Nutridrink: qual comprar pelo rótulo e pelo preço por porção"
 slug_sugerido: "nutren-senior-ou-nutridrink"
 parceiro: "[[Nestle-Nutre]]"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 data_criacao: "2026-10-17"
 publicado_em: null
@@ -135,3 +135,91 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Nutridrink: a versão em pó para adultos mais velhos à venda hoje (Nutridrink Protein Senior 750 g, a confirmar no rótulo da Danone); a líquida de 200 ml só como contexto.
 - Nutren Senior Baunilha na Nestlé Nutre (17/10/2026): 740 g de R$ 188,19 por R$ 169,37 (≈ 23 porções de 31,5 g; ≈ R$ 7,21 por porção, conta nossa); 370 g R$ 100,79; Zero Lactose 740 g de R$ 211,79 por R$ 190,61. Sabores do 740 g: Baunilha, Café com leite, Chocolate, Mix de Frutas. Composto lácteo, "reduzido em açúcares". Porção 31,5 g (3 colheres de sopa cheias): 131 kcal; proteínas 11 g; carboidratos 14 g; açúcares totais 5,7 g (adicionados 0,4); gorduras 3,2 g; fibras 1,3 g; cálcio 375 mg; vit D 25 µg (167% VD); B12 2,4 µg; zinco 11 mg. A coluna "100 ml" da página não fecha com a porção: usar só a porção. O preparo da página diz leite desnatado num passo e água no outro: não descrever preparo (está no artigo "como tomar").
 - Sem "massa muscular", "imunidade" ou "ossos" além do formato das alegações do rótulo.
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+Nutren Senior e Nutridrink Protein Senior são dois pós de lata para adultos mais velhos. As duas páginas trazem tabela por porção, mas a porção não é a mesma: 31,5 g no Nutren e 30 g no Nutridrink. Por isso a comparação fica mais justa por 100 g de pó, que é conta nossa, além do preço por porção.
+
+Este texto compara só as diferenças. A ficha do Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior). Não recebemos os produtos.
+
+### Qual versão de cada lado
+
+Do lado da Nutren, usamos o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, "reduzido em açúcares". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.
+
+Do lado da Danone, usamos o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, que é a versão com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.
+
+### O que cada página informa
+
+A tabela junta o que as páginas dos fabricantes dizem, lidas em 17/10/2026. Nutren: Nestlé Nutre. Nutridrink: Mundo Danone. Os valores "por 100 g de pó" são conta nossa (valor da porção dividido pela porção, vezes 100).
+
+| Item | Nutren Senior Baunilha, porção de 31,5 g | Nutridrink Protein Senior Café com Leite, porção de 30 g |
+|---|---|---|
+| Calorias | 131 kcal (cerca de 416 por 100 g) | 106 kcal (cerca de 353 por 100 g) |
+| Proteína | 11 g (cerca de 35 g por 100 g) | 7,2 g (24 g por 100 g) |
+| Açúcares totais | 5,7 g | 11 g |
+| Açúcares adicionados | 0,4 g | 0,6 g |
+| Fibras | 1,3 g | 0 g |
+| Cálcio | 375 mg (cerca de 1.190 mg por 100 g) | 252 mg (840 mg por 100 g) |
+| Vitamina D | 25 µg (cerca de 79 µg por 100 g) | 2,7 µg (9 µg por 100 g) |
+| Lactose | A página da Baunilha não informa; a versão Zero Lactose traz 0 g | Contém lactose |
+| Glúten | A página não informa | Não contém glúten |
+| Alergênicos | A página não informa | Contém derivados de leite e de soja; pode conter peixe |
+
+O Nutridrink também informa zinco, 2,8 mg por porção.
+
+Duas declarações pedem leitura com calma. A Nutren diz "reduzido em açúcares", e a Danone lista 0,6 g de açúcares adicionados. Mas os açúcares totais do Nutridrink (11 g na porção) são quase o dobro dos do Nutren (5,7 g). Cada declaração vale na base da sua marca.
+
+### A conta da proteína
+
+A página do Nutridrink também fala em 25 g de proteína "na porção diária recomendada", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.
+
+Como a porção é diferente, olhe também a conta por 100 g de pó. Nutren: cerca de 35 g de proteína, 1.190 mg de cálcio e 79 µg de vitamina D. Nutridrink: 24 g de proteína, 840 mg de cálcio e 9 µg de vitamina D. O Nutren tem mais de cada um por 100 g de pó, mas o que vale é a quantidade que o profissional indicar.
+
+As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. Por isso não descrevemos preparo do Nutridrink aqui, e vale seguir a lata. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar).
+
+### Preço em 17/10/2026
+
+Nutren Senior Baunilha 740 g, na Nestlé Nutre, em 17/10/2026: de R$ 188,19 por R$ 169,37. Nutridrink Protein Senior Café com Leite 750 g, no Mundo Danone, em 17/10/2026: de R$ 151,99 por R$ 121,59, ou R$ 109,43 na compra programada. Preço e estoque mudam, e vale o que aparece na loja na hora.
+
+- Nutren, por porção (conta nossa): a lata rende cerca de 23 porções de 31,5 g, o que dá cerca de R$ 7,21 por porção.
+- Nutridrink, por porção (conta nossa): 750 g divididos por 30 g são 25 porções, o que dá R$ 4,86 por porção, ou R$ 4,38 na compra programada.
+
+A lata da Danone sai R$ 47,78 mais barata (conta nossa). Mas a porção é diferente: R$ 4,86 paga 30 g de pó com 7,2 g de proteína, e R$ 7,21 paga 31,5 g de pó com 11 g de proteína. Olhar só o preço da porção, sem ver o que vem nela, engana.
+
+### Para quem cada um faz sentido
+
+Pela leitura dos rótulos, e não por condição de saúde:
+
+- Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre em 17/10/2026. O Nutridrink Protein Senior contém lactose.
+- Quem olha o preço por porção: o Nutridrink sai mais barato na leitura de 17/10/2026, com porção menor e menos proteína por porção.
+- Quem olha proteína, cálcio e vitamina D por porção: a tabela do Nutren Senior Baunilha traz mais de cada um.
+- Quem quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink.
+
+Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. A ficha do Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica).
+
+### Onde entra o cupom CECI
+
+O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nutren Senior não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre).
+
+Nutridrink é da Danone, que não é parceira do site, e não temos código para ela.
+
+### Perguntas frequentes
+
+- Nutren Senior ou Nutridrink: qual escolher? Não há resposta única. A escolha depende da prescrição, da lactose e do preço por porção, lembrando que a porção é diferente (31,5 g contra 30 g).
+- Nutridrink Protein ou Nutren Senior: qual tem mais proteína? Por porção da tabela, o Nutren: 11 g em 31,5 g contra 7,2 g em 30 g. Por 100 g de pó, a conta nossa dá cerca de 35 g contra 24 g.
+- Nutridrink Protein Senior tem lactose? Sim, a página do Mundo Danone diz "contém lactose". O Nutren Senior Zero Lactose traz 0 g.
+- Nutren Senior Baunilha tem lactose? A página não traz a linha de lactose. A versão com lactose zero declarada é o Nutren Senior Zero Lactose.
+- Nutridrink Protein Senior tem açúcar? A tabela traz 11 g de açúcares totais e 0,6 g de açúcares adicionados na porção de 30 g.
+- Quantas porções tem a lata do Nutridrink? Cerca de 25, pela conta nossa (750 g divididos por 30 g).
+- Tem cupom para o Nutridrink? Não temos código para a Danone. O CECI vale só na Nestlé Nutre.
+
+### Fontes e nota de transparência
+
+Fontes: página do Nutren Senior Baunilha 740 g na Nestlé Nutre e página do Nutridrink Protein Senior 750 g no Mundo Danone (tabela, ingredientes e alergênicos), lidas em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos.

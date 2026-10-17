@@ -84831,5 +84831,1833 @@ export const reviewsData: unknown[] = [
         "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
       }
     ]
+  },
+  {
+    "id": 456,
+    "slug": "nanlac-supreme-pro-ou-comfor",
+    "title": "Nanlac Supreme Pro ou Nanlac Comfor HMO: diferenças de rótulo e preço (1 a 3 anos)",
+    "seoTitle": "Nanlac Supreme Pro ou Comfor HMO: diferenças (1 a 3 anos)",
+    "type": "Comparativo de Fórmula Infantil",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nanlac Supreme Pro e Nanlac Comfor HMO, as duas fórmulas infantis de primeira infância da Nestlé para 1 a 3 anos: o que cada lata declara, alérgicos, preparo, os lotes do Comfor no recolhimento e o preço na Nestlé Nutre em 17/10/2026.",
+    "metaDescription": "Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, proteína, DHA, ARA, GOS e FOS, preparo, preço por litro e os lotes do Comfor no recolhimento.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
+    "imageAlt": "Latas de 800 g do Nanlac Supreme Pro e do Nanlac Comfor HMO, fórmulas infantis de primeira infância de 1 a 3 anos, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nanlac Supreme Pro e o Nanlac Comfor HMO são duas fórmulas infantis de primeira infância da Nestlé, de 1 a 3 anos, em lata de 800 g. Pelo rótulo, o Supreme Pro declara quatro HMOs, mais proteína e mais DHA e ARA por 100 g. O Comfor declara um HMO, o 2'-fucosilactose (2'-FL), além de fibras prebióticas (GOS e FOS) e nucleotídeos. Na Nestlé Nutre, em 17/10/2026, o Supreme Pro custava R$ 95,53 e o Comfor R$ 69,35. Os dois contêm leite, lactose e derivados de soja, e nenhum contém glúten. Qual fórmula usar é conversa para ter com o pediatra ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Duas latas da Nestlé para a mesma faixa",
+        "paragraphs": [
+          "As duas são fórmulas infantis de primeira infância, vendidas na Nestlé Nutre e com o mesmo aviso: não devem ser usadas para alimentar crianças menores de 1 (um) ano de idade. Não são leite em pó nem composto lácteo.",
+          "O Comfor declara um HMO, o 2'-FL, com 0,2 g por 100 g de pó. O Supreme Pro declara quatro: 2'-FL, LNT, 3'-SL e 6'-SL."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nanlac Supreme Pro",
+            "Nanlac Comfor HMO"
+          ],
+          "rows": [
+            [
+              "Faixa de idade",
+              "1 a 3 anos",
+              "1 a 3 anos"
+            ],
+            [
+              "Embalagem",
+              "Lata de 800 g",
+              "Lata de 800 g"
+            ],
+            [
+              "Contém",
+              "Leite e derivados, derivados de soja, lactose",
+              "Leite e derivados, derivados de soja, lactose"
+            ],
+            [
+              "Glúten",
+              "Não contém",
+              "Não contém"
+            ],
+            [
+              "Lata aberta",
+              "Consumir em até 30 dias",
+              "Até 30 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha completa do Supreme Pro está no guia do produto. Aqui ficam só as diferenças."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "O que cada rótulo declara",
+        "paragraphs": [
+          "Os números do Supreme Pro vêm da página da Nestlé Nutre. Os do Comfor vêm do verso da lata de 800 g, lido na galeria de fotos da Nestlé Nutre em 17/10/2026. A tabela em texto da página da loja traz números um pouco diferentes da lata, e usamos o rótulo impresso na lata. A comparação é só do que está impresso e não diz qual fórmula \"faz mais\" por uma criança."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por 100 g de pó",
+            "Supreme Pro",
+            "Comfor HMO"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "477 kcal",
+              "480 kcal"
+            ],
+            [
+              "Proteínas",
+              "10 g",
+              "9,3 g"
+            ],
+            [
+              "Gorduras totais",
+              "21 g",
+              "22 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "31 g",
+              "5,1 g"
+            ],
+            [
+              "DHA",
+              "85 mg",
+              "50 mg"
+            ],
+            [
+              "ARA",
+              "85 mg",
+              "50 mg"
+            ],
+            [
+              "HMO",
+              "4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados (conta nossa)",
+              "1 (2'-FL), 0,2 g"
+            ],
+            [
+              "Fibras",
+              "0,3 g",
+              "3,1 g (GOS 2,6 g, FOS 0,3 g e 2'-FL 0,2 g)"
+            ],
+            [
+              "Nucleotídeos",
+              "Não consta na tabela",
+              "16 mg"
+            ],
+            [
+              "Cálcio",
+              "570 mg",
+              "500 mg"
+            ],
+            [
+              "Ferro",
+              "8,3 mg",
+              "8,5 mg"
+            ],
+            [
+              "Vitamina D",
+              "10 µg",
+              "7 µg"
+            ],
+            [
+              "kcal por 100 ml preparado",
+              "67",
+              "68"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na coluna \"por 100 ml\", as proteínas são 1,4 g no Supreme Pro e 1,3 g no Comfor. As calorias dos dois são praticamente iguais. A lista de ingredientes do Comfor começa por soro de leite desmineralizado, leite desnatado, maltodextrina, oleína de palma e GOS, e inclui a 2'-fucosilactose."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
+        "imageAlt": "Verso da lata do Nanlac Comfor HMO com a informação nutricional por 100 g e 100 ml, a lista de ingredientes e os alérgicos",
+        "imageCaption": "Verso da lata do Comfor: tabela, 2'-fucosilactose, ingredientes e alérgicos.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Alérgenos",
+        "paragraphs": [
+          "A lata do Comfor diz: \"CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN.\" As duas fórmulas contêm leite, lactose e derivados de soja. No Comfor, o DHA vem de óleo de Schizochytrium sp. (alga) e o ARA de óleo de Mortierella alpina, segundo a lista de ingredientes. No Supreme Pro, o DHA e o ARA vêm de óleos de microrganismos, segundo a lista de ingredientes. Quem tem alergia ou intolerância deve ler o rótulo da lata e falar com o pediatra. Nenhuma das duas é sem lactose."
+        ]
+      },
+      {
+        "heading": "Preparo e rendimento",
+        "paragraphs": [
+          "O Supreme Pro usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Comfor usa as mesmas medidas, segundo o rótulo: 14,1 g de pó com 90 ml de água rendem 100 ml, a colher-medida tem 4,7 g e cada colher rasa vai em 30 ml de água. Para um copo de 210 ml, são 7 medidas rasas.",
+          "Nos dois, a água é fervida por 5 minutos e esfriada até 70 °C na hora de misturar. A lata do Comfor manda conferir a temperatura no punho, em cerca de 40 °C, antes de oferecer."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cálculo",
+            "Supreme Pro",
+            "Comfor HMO"
+          ],
+          "rows": [
+            [
+              "Pó por 100 ml preparado",
+              "14,1 g",
+              "14,1 g"
+            ],
+            [
+              "Rendimento de 800 g",
+              "cerca de 5,7 L (conta nossa)",
+              "cerca de 5,7 L (conta nossa)"
+            ],
+            [
+              "Preço da lata, Nestlé Nutre, 17/10/2026",
+              "R$ 95,53",
+              "R$ 69,35"
+            ],
+            [
+              "Preço por litro preparado",
+              "cerca de R$ 16,84 (conta nossa)",
+              "cerca de R$ 12,22 (conta nossa)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É uma conta de referência: a quantidade real depende de como se mede o pó. Siga as medidas da lata."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+        "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
+        "imageCaption": "Modo de preparo impresso na lata do Nanlac Supreme Pro.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Para quem cada uma faz sentido, pelo rótulo",
+        "paragraphs": [
+          "A decisão é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:"
+        ],
+        "bullets": [
+          "Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.",
+          "Quem procura GOS, FOS e nucleotídeos na tabela encontra os três no Comfor.",
+          "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Supreme Pro.",
+          "Quem compara açúcares adicionados vê 31 g por 100 g no Supreme Pro e 5,1 g no Comfor.",
+          "Quem compara preço por litro preparado paga menos no Comfor, com os preços de 17/10/2026."
+        ],
+        "postParagraphs": [
+          "Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
+        ]
+      },
+      {
+        "heading": "Recolhimento de janeiro: lotes do Comfor",
+        "paragraphs": [
+          "O Comfor 800 g também entrou no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Estes são os lotes e as validades informados no comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
+        ],
+        "bullets": [
+          "Lote 5327046041, validade 01/11/2026",
+          "Lote 5327046043, validade 01/11/2026",
+          "Lote 5328046041, validade 01/11/2026",
+          "Lote 5336046041, validade 01/12/2026",
+          "Lote 5337046041, validade 01/12/2026",
+          "Lote 5338046041, validade 01/12/2026"
+        ],
+        "postParagraphs": [
+          "Se o lote da sua lata estiver na lista, não use e fale com o SAC da Nestlé."
+        ]
+      },
+      {
+        "heading": "Onde comprar e quanto custa",
+        "paragraphs": [
+          "Preços da Nestlé Nutre, loja oficial, em 17/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Nanlac Supreme Pro 800 g",
+              "R$ 95,53 (de R$ 112,39)"
+            ],
+            [
+              "Nanlac Supreme Pro, combo leve 5 pague 4",
+              "R$ 449,56 (conta nossa: R$ 89,91 por lata)"
+            ],
+            [
+              "Nanlac Comfor HMO 800 g",
+              "R$ 69,35 (de R$ 81,59)"
+            ],
+            [
+              "Nanlac Comfor HMO, combo com 4 unidades",
+              "R$ 261,09 (conta nossa: R$ 65,27 por lata)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nanlac Supreme Pro ou Comfor: qual escolher? Não há resposta única. O Supreme Pro declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O Comfor declara 1 HMO, GOS, FOS e nucleotídeos e custa menos por lata. A escolha é do pediatra ou nutricionista.",
+          "O Nanlac Comfor tem HMO? Tem um: o 2'-fucosilactose (2'-FL), com 0,2 g por 100 g, segundo o verso da lata. O Supreme Pro declara quatro HMOs.",
+          "Nanlac Comfor é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre.",
+          "Nanlac Comfor e Supreme Pro servem para menores de 1 ano? Não. As páginas da Nestlé Nutre trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
+          "O Comfor contém lactose, leite e soja? Contém lactose, leite e derivados de soja, segundo a lata. Não contém glúten.",
+          "Quanto tempo dura a lata aberta? O rótulo do Comfor indica até 30 dias, e o rótulo do Supreme Pro diz o mesmo."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. Fonte: páginas de produto da Nestlé Nutre e rótulo da lata do Comfor na galeria da loja, lidos em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nanlac Comfor HMO na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nanlac-comfor-hmo-800g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nanlac-supreme-pro-1-a-3-anos",
+        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
+        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "slug": "nanlac-supreme-pro-ou-aptanutri-profutura",
+    "title": "Nanlac Supreme Pro ou Aptanutri Profutura 3: diferenças de rótulo, preparo e preço (1 a 3 anos)",
+    "seoTitle": "Nanlac Supreme Pro ou Aptanutri Profutura: diferenças (1 a 3 anos)",
+    "type": "Comparativo de Fórmula Infantil",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nanlac Supreme Pro (Nestlé) e Aptanutri Profutura 3 (Danone), fórmulas infantis de primeira infância de 1 a 3 anos: o que cada rótulo declara, alérgicos, preparo, rendimento da lata de 800 g e preço em 17/10/2026.",
+    "metaDescription": "Nanlac Supreme Pro ou Aptanutri Profutura 3 (1 a 3 anos): HMO, DHA, ARA, prebióticos, alérgicos, preparo e preço por litro da lata de 800 g.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
+    "imageAlt": "Latas de 800 g do Nanlac Supreme Pro, da Nestlé, e do Aptanutri Profutura 3, da Danone, fórmulas infantis de 1 a 3 anos, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nanlac Supreme Pro (Nestlé) e o Aptanutri Profutura 3 (Danone) são fórmulas infantis de seguimento para a primeira infância, de 1 a 3 anos, em lata de 800 g. Pelo que cada fabricante publica, o Nanlac declara quatro HMOs e mais proteína, DHA e ARA por 100 g. O Aptanutri declara prebióticos (GOS e FOS) e nucleotídeos, e não traz HMO na versão Profutura 3. Em 17/10/2026, a lata do Nanlac custava R$ 95,53 na Nestlé Nutre e a do Aptanutri R$ 107,59 na loja Mundo Danone. A escolha depende do que você procura no rótulo e do preço por litro preparado. Pediatra ou nutricionista é quem orienta qual fórmula usar."
+        ]
+      },
+      {
+        "heading": "Duas fórmulas de 1 a 3 anos, de fabricantes diferentes",
+        "paragraphs": [
+          "As duas são fórmulas infantis de seguimento para a primeira infância. Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como \"fórmula infantil de primeira infância\", e a Danone descreve o Aptanutri Profutura 3 como \"fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas\".",
+          "As duas páginas oficiais trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade. Este comparativo fala só das latas de 1 a 3 anos."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nanlac Supreme Pro",
+            "Aptanutri Profutura 3"
+          ],
+          "rows": [
+            [
+              "Fabricante",
+              "Nestlé",
+              "Danone"
+            ],
+            [
+              "Faixa de idade",
+              "1 a 3 anos",
+              "1 a 3 anos"
+            ],
+            [
+              "Embalagem",
+              "Lata de 800 g",
+              "Lata de 800 g"
+            ],
+            [
+              "Contém",
+              "Leite e derivados, derivados de soja, lactose",
+              "Leite e derivados de leite, ovo, peixe, lactose; pode conter soja"
+            ],
+            [
+              "Glúten",
+              "Não contém",
+              "Não contém"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha completa do Nanlac está no guia do produto. Aqui ficam só as diferenças."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "Profutura 3 ou Profutura Gold 3: qual versão entra na comparação",
+        "paragraphs": [
+          "A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, segundo a página da Danone, que não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por 100 g de pó",
+            "Profutura 3",
+            "Profutura Gold 3"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "456 kcal",
+              "465 kcal"
+            ],
+            [
+              "Açúcares adicionados",
+              "33 g",
+              "41 g"
+            ],
+            [
+              "DHA",
+              "53 mg",
+              "50 mg"
+            ],
+            [
+              "Vitamina C",
+              "83 mg",
+              "105 mg"
+            ],
+            [
+              "HMO 2'FL",
+              "Não consta",
+              "Adicionado, sem quantidade"
+            ],
+            [
+              "Preço na Mundo Danone, 17/10/2026",
+              "R$ 107,59",
+              "R$ 119,49"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nas seções seguintes, a coluna do Aptanutri é a da Profutura 3. Quem procura HMO no rótulo deve olhar a Gold 3, que é outro produto, com outro preço."
+        ]
+      },
+      {
+        "heading": "O que cada rótulo declara",
+        "paragraphs": [
+          "Todos os números abaixo vêm das páginas dos fabricantes, lidas em 17/10/2026: Nestlé Nutre (Nanlac) e Danone (Aptanutri Profutura 3, na página do produto na Mundo Danone, loja oficial da Danone; Gold 3 e rendimento, na página de profissionais de saúde da Danone). A comparação é só do que está impresso. Não diz qual fórmula \"faz mais\" por uma criança."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por 100 g de pó",
+            "Nanlac Supreme Pro",
+            "Aptanutri Profutura 3"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "477 kcal",
+              "456 kcal"
+            ],
+            [
+              "Proteínas",
+              "10 g",
+              "9,2 g"
+            ],
+            [
+              "Carboidratos",
+              "63 g",
+              "59 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "31 g",
+              "33 g"
+            ],
+            [
+              "Gorduras totais",
+              "21 g",
+              "19 g"
+            ],
+            [
+              "DHA",
+              "85 mg",
+              "53 mg"
+            ],
+            [
+              "ARA",
+              "85 mg",
+              "60 mg"
+            ],
+            [
+              "HMO",
+              "4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados (conta nossa)",
+              "Não consta"
+            ],
+            [
+              "Prebióticos GOS e FOS",
+              "Não consta",
+              "4,8 g de GOS e 0,6 g de FOS"
+            ],
+            [
+              "Fibras alimentares",
+              "0,3 g",
+              "5,4 g"
+            ],
+            [
+              "Nucleotídeos",
+              "Não consta na tabela",
+              "11 mg"
+            ],
+            [
+              "Cálcio",
+              "570 mg",
+              "481 mg"
+            ],
+            [
+              "Ferro",
+              "8,3 mg",
+              "7,6 mg"
+            ],
+            [
+              "Vitamina D",
+              "10 µg",
+              "8 µg"
+            ],
+            [
+              "Sódio",
+              "230 mg",
+              "182 mg"
+            ],
+            [
+              "kcal por 100 ml preparado",
+              "67",
+              "67"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As duas fórmulas contêm lactose e leite. O Aptanutri declara também ovo e peixe, e pode conter soja. A Danone destaca na página o ácido palmítico na posição beta-2 e o DHA e o ARA \"ligados ao fosfolipídio\". São características de formulação que o fabricante cita; não as comparamos. Pela lista de ingredientes da página da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. O ovo e o peixe dos alérgenos vêm de dois itens da lista: fosfolipídeos do ovo e óleo de peixe. O ARA vem de óleo de Mortierella alpina.",
+          "A tabela da Danone não diz com qual diluição foi calculada a coluna \"por 100 ml\". Por isso, compare as colunas \"por 100 g\" entre si, que não dependem do preparo."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+        "imageAlt": "Verso da lata do Nanlac Supreme Pro com a informação nutricional por 100 g e 100 ml e a lista de ingredientes",
+        "imageCaption": "Verso da lata do Nanlac Supreme Pro: tabela e ingredientes.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Preparo: o que cada lata manda",
+        "paragraphs": [
+          "O Nanlac usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Aptanutri usa uma colher-medida de cerca de 5,0 g para cada 30 ml de água. Segundo a página da Danone, a água é previamente fervida, a 70 °C. Siga a temperatura que está na lata."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nanlac Supreme Pro",
+            "Aptanutri Profutura 3"
+          ],
+          "rows": [
+            [
+              "Proporção",
+              "14,1 g de pó + 90 ml de água = 100 ml",
+              "1 colher-medida (cerca de 5,0 g) para 30 ml de água"
+            ],
+            [
+              "Colher-medida",
+              "4,7 g",
+              "Cerca de 5,0 g"
+            ],
+            [
+              "Água",
+              "Ferver 5 min e esperar cerca de 15 min, até 70 °C",
+              "Previamente fervida, a 70 °C (página da Danone)"
+            ],
+            [
+              "Lata aberta",
+              "Consumir em até 30 dias",
+              "Não refrigerar, conservar a lata bem fechada em local seco e fresco e consumir em até 30 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco, e a quantidade por dia é assunto para o pediatra."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+        "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
+        "imageCaption": "Modo de preparo impresso na lata do Nanlac Supreme Pro.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Quanto rende a lata e quanto custa o litro",
+        "paragraphs": [
+          "A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros (conta nossa). Dividindo o preço de 17/10/2026 pelo rendimento (conta nossa):"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Fórmula",
+            "Preço da lata",
+            "Rendimento",
+            "Preço por litro preparado"
+          ],
+          "rows": [
+            [
+              "Nanlac Supreme Pro (Nestlé Nutre)",
+              "R$ 95,53",
+              "cerca de 5,7 L",
+              "cerca de R$ 16,84"
+            ],
+            [
+              "Aptanutri Profutura 3 (Mundo Danone)",
+              "R$ 107,59",
+              "5,3 L (informado pela Danone)",
+              "cerca de R$ 20,17"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É uma conta de referência. O rendimento real depende de como se mede o pó. O rendimento de 5,3 litros do Aptanutri Profutura 3 é o publicado na página da Danone."
+        ]
+      },
+      {
+        "heading": "Para quem cada uma faz sentido, pelo rótulo",
+        "paragraphs": [
+          "A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:"
+        ],
+        "bullets": [
+          "Quem procura HMO no rótulo encontra quatro no Nanlac Supreme Pro. No Aptanutri, procure a versão Profutura Gold 3, que declara o 2'FL.",
+          "Quem procura prebióticos GOS e FOS e nucleotídeos na tabela encontra os três no Aptanutri Profutura 3.",
+          "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Nanlac nas três linhas.",
+          "Quem compara preço por litro preparado paga menos no Nanlac, com os preços de 17/10/2026.",
+          "Quem compara açúcares adicionados vê 31 g por 100 g no Nanlac e 33 g no Aptanutri Profutura 3.",
+          "Quem precisa evitar leite, lactose, soja, ovo ou peixe deve ler o alergênico no rótulo da lata. As duas fórmulas contêm leite e lactose, e só o Aptanutri declara ovo e peixe."
+        ],
+        "postParagraphs": [
+          "Lotes específicos do Nanlac Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
+        ]
+      },
+      {
+        "heading": "Onde comprar e quanto custa",
+        "paragraphs": [
+          "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Fórmula",
+            "Loja",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "Nanlac Supreme Pro 800 g",
+              "Nestlé Nutre",
+              "R$ 95,53 (de R$ 112,39)"
+            ],
+            [
+              "Nanlac Supreme Pro, combo leve 5 pague 4",
+              "Nestlé Nutre",
+              "R$ 449,56 (conta nossa: R$ 89,91 por lata)"
+            ],
+            [
+              "Aptanutri Profutura 3 800 g",
+              "Mundo Danone",
+              "R$ 107,59"
+            ],
+            [
+              "Aptanutri Profutura Gold 3 800 g",
+              "Mundo Danone",
+              "R$ 119,49"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções. O CECI não vale no Aptanutri, que é de outra loja e outra marca. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).",
+          "A Danone avisa na página que a embalagem é nova e que o cliente ainda pode receber a embalagem antiga.",
+          "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única. O rótulo do Nanlac declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O do Aptanutri Profutura 3 declara GOS, FOS e nucleotídeos. A escolha é do pediatra ou nutricionista, e o preço por litro preparado pesa para quem compara custo.",
+          "O Aptanutri Profutura 3 tem HMO? A página da Danone para a Profutura 3 não declara HMO. A Profutura Gold 3 traz o HMO 2'FL adicionado, sem informar a quantidade.",
+          "Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. A Danone vende as duas latas de 800 g, com tabelas e preços diferentes. A Gold 3 tem 2'FL e custava R$ 119,49 em 17/10/2026, contra R$ 107,59 da Profutura 3.",
+          "O Aptanutri é fórmula infantil ou composto lácteo? É fórmula infantil de seguimento para a primeira infância, de 1 a 3 anos, segundo a Danone.",
+          "Nanlac e Aptanutri servem para menores de 1 ano? Não. As duas páginas oficiais avisam que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.",
+          "Quanto rende a lata de 800 g? O Nanlac Supreme Pro rende cerca de 5,7 litros (conta nossa, com as medidas do rótulo). A Danone informa 5,3 litros para a Profutura 3."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. O Aptanutri não tem link nem código nosso. Fontes: páginas de produto da Nestlé Nutre (Nanlac, preço e tabela), páginas da Danone (mundodanone.com.br, danonenutricia.com.br e danonehealthacademy.com.br, Aptanutri), todas lidas em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nanlac Supreme Pro na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nanlac-supreme-pro-800g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nanlac-supreme-pro-1-a-3-anos",
+        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nanlac-supreme-pro-ou-comfor",
+        "title": "Nanlac Supreme Pro ou Nanlac Comfor HMO: diferenças de rótulo e preço (1 a 3 anos)"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "slug": "nanlac-supreme-ou-ninho-fases",
+    "title": "Nanlac Supreme Pro ou Ninho Fases 1+: o que o rótulo de cada fórmula de 1 a 3 anos mostra e quanto custa",
+    "seoTitle": "Nanlac Supreme Pro ou Ninho Fases 1+: comparação pelo rótulo",
+    "type": "Comparativo de Fórmula Infantil",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nanlac Supreme Pro e Ninho Fases 1+, as duas fórmulas infantis de seguimento da Nestlé para 1 a 3 anos: HMO, DHA e ARA contra prebióticos, açúcares, proteína, preparo e preço por 100 g na Nestlé Nutre em 17/10/2026.",
+    "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos)? O que muda no rótulo: HMO, DHA e ARA ou prebióticos, açúcares, proteína e preço por 100 g.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
+    "imageAlt": "Lata de 800 g do Nanlac Supreme Pro ao lado da lata de 800 g do Ninho Fases 1+, fórmulas infantis de 1 a 3 anos",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nanlac Supreme Pro e o Ninho Fases 1+ são fórmulas infantis de seguimento da Nestlé para crianças de 1 a 3 anos. Pelo rótulo, a diferença está nos ingredientes funcionais que cada uma declara: o Nanlac traz quatro HMOs, DHA e ARA; o Ninho traz os prebióticos FOS e inulina, e o rótulo dele não mostra DHA, ARA nem HMO. O Ninho tem bem menos açúcares adicionados e mais proteína por 100 g, e, na Nestlé Nutre em 17/10/2026, custa cerca da metade por 100 g (conta nossa)."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "Os dois são de primeira infância e nenhum deve ser usado para alimentar crianças menores de 1 ano. Segundo a lata, o Ninho Fases 1+ é \"fórmula infantil de seguimento para crianças de primeira infância\", de 1 a 3 anos. Para entender como a Nestlé separa leite, composto lácteo e fórmula na linha Ninho, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nanlac Supreme Pro",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "Denominação",
+              "Fórmula infantil de primeira infância",
+              "Fórmula infantil de seguimento para crianças de primeira infância (segundo a lata)"
+            ],
+            [
+              "Faixa de idade",
+              "1 a 3 anos",
+              "1 a 3 anos"
+            ],
+            [
+              "Menores de 1 ano",
+              "Não deve ser usado",
+              "Aviso impresso na lata"
+            ],
+            [
+              "Embalagens na Nestlé Nutre",
+              "Lata de 800 g",
+              "Latas de 400 g, 800 g e 1,2 kg"
+            ],
+            [
+              "Destaque do rótulo",
+              "4 HMOs, DHA e ARA",
+              "Prebióticos (FOS e inulina)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os lotes do Nanlac Supreme Pro 800 g citados no recolhimento de janeiro de 2026 são só alguns, e a conferência do lote está no [artigo sobre o Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos)."
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+      },
+      {
+        "heading": "HMO, DHA e ARA contra prebióticos: o que cada rótulo declara",
+        "paragraphs": [
+          "O Nanlac Supreme Pro declara quatro oligossacarídeos do leite humano (HMOs): 2'-FL, LNT, 3'-SL e 6'-SL. Declara também ARA e DHA, obtidos de óleos de microrganismos, com 85 mg de cada um por 100 g de pó.",
+          "O Ninho Fases 1+ declara dois prebióticos: fruto-oligossacarídeos (FOS), 2,7 g por 100 g, e inulina, 1,2 g por 100 g. A Nestlé descreve prebióticos como fibras não digeríveis. O rótulo do Ninho não traz DHA, ARA nem HMO."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ingrediente declarado",
+            "Nanlac Supreme Pro (100 g de pó)",
+            "Ninho Fases 1+ (100 g de pó)"
+          ],
+          "rows": [
+            [
+              "HMOs (2'-FL, LNT, 3'-SL, 6'-SL)",
+              "0,2 g, 0,1 g, 0,04 g e 0,03 g",
+              "Não consta"
+            ],
+            [
+              "DHA",
+              "85 mg",
+              "Não consta"
+            ],
+            [
+              "ARA",
+              "85 mg",
+              "Não consta"
+            ],
+            [
+              "FOS",
+              "Não consta",
+              "2,7 g"
+            ],
+            [
+              "Inulina",
+              "Não consta",
+              "1,2 g"
+            ],
+            [
+              "Fibras alimentares",
+              "0,3 g",
+              "3,9 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Este texto só compara o que está declarado. Não há aqui comparação de efeito entre os dois, e dúvida sobre qual fórmula a criança deve tomar é conversa para o pediatra ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Tabela nutricional lado a lado",
+        "paragraphs": [
+          "Os números abaixo vêm do rótulo do Nanlac Supreme Pro, lido na página da Nestlé Nutre em 17/10/2026, e do verso da lata nova do Ninho Fases 1+ (\"Nova embalagem\"), lido na galeria de fotos da Nestlé Nutre na mesma data. A tabela em texto da página da loja é de uma versão anterior, antes da troca do óleo de milho pelo de soja que a própria Nestlé informa, e usamos a lata nova. \"100 ml preparado\" é a diluição de 14,1 g de pó em 90 ml de água no Nanlac e de 13,8 g em 90 ml no Ninho."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por",
+            "Nanlac, 100 g",
+            "Ninho, 100 g",
+            "Nanlac, 100 ml",
+            "Ninho, 100 ml"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "477 kcal",
+              "465 kcal",
+              "67 kcal",
+              "69 kcal"
+            ],
+            [
+              "Carboidratos",
+              "63 g",
+              "55 g",
+              "8,8 g",
+              "8,1 g"
+            ],
+            [
+              "Açúcares totais",
+              "61 g",
+              "42 g",
+              "8,6 g",
+              "6,2 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "31 g",
+              "1,5 g",
+              "4,4 g",
+              "0,2 g"
+            ],
+            [
+              "Proteínas",
+              "10 g",
+              "12 g",
+              "1,4 g",
+              "1,8 g"
+            ],
+            [
+              "Gorduras totais",
+              "21 g",
+              "21 g",
+              "2,9 g",
+              "3,1 g"
+            ],
+            [
+              "Cálcio",
+              "570 mg",
+              "476 mg",
+              "80 mg",
+              "70 mg"
+            ],
+            [
+              "Ferro",
+              "8,3 mg",
+              "7,4 mg",
+              "1,2 mg",
+              "1,1 mg"
+            ],
+            [
+              "Vitamina D",
+              "10 µg",
+              "9,7 µg",
+              "1,4 µg",
+              "1,4 µg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Calorias e gorduras ficam muito próximas. As diferenças maiores estão nos açúcares adicionados (31 g contra 1,5 g por 100 g de pó) e na proteína (10 g contra 12 g). Esses são dois números para levar à conversa com o pediatra."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-tabela-ingredientes.webp",
+        "imageAlt": "Verso da lata do Nanlac Supreme Pro com a informação nutricional por 100 g e 100 ml e a lista de ingredientes",
+        "imageCaption": "Verso da lata do Nanlac Supreme Pro: tabela e ingredientes.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Preparo e porção",
+        "paragraphs": [
+          "O preparo é o mesmo nos dois, com medidas parecidas: água fervida por 5 minutos, resfriada por cerca de 15 minutos até 70 °C, colher-medida sempre rasa e temperatura conferida no punho (cerca de 40 °C) antes de oferecer. Siga a lata, sem aumentar nem diminuir o pó."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Medida",
+            "Nanlac Supreme Pro",
+            "Ninho Fases 1+"
+          ],
+          "rows": [
+            [
+              "Pó para 100 ml",
+              "14,1 g (com 90 ml de água)",
+              "13,8 g (com 90 ml de água)"
+            ],
+            [
+              "Colher-medida",
+              "4,7 g",
+              "4,6 g"
+            ],
+            [
+              "Água por colher rasa",
+              "30 ml",
+              "30 ml"
+            ],
+            [
+              "Copo de 210 ml",
+              "7 colheres rasas (32,9 g)",
+              "7 colheres rasas (32,2 g)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. Depois de aberta, a lata do Nanlac pede consumo em até 30 dias, e a do Ninho, em até 4 semanas, segundo a lata."
+        ],
+        "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
+        "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
+        "imageCaption": "Modo de preparo impresso na lata do Nanlac Supreme Pro.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "paragraphs": [
+          "A lata do Ninho diz: \"CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN.\" O Nanlac também contém leite, derivados de soja e lactose e declara não conter glúten. Nenhum dos dois serve para quem precisa evitar leite, soja ou lactose.",
+          "A ordem dos ingredientes é diferente. O Nanlac começa por lactose, soro de leite desmineralizado, oleína de palma e leite desnatado. O Ninho começa por leite parcialmente desnatado, permeado de soro de leite desmineralizado e maltodextrina, e traz óleo de soja, oleína de palma e óleo de canola com baixo teor erúcico."
+        ],
+        "bullets": [
+          "Nanlac Supreme Pro: lactose, soro de leite desmineralizado, leite desnatado, proteína concentrada do soro de leite, óleos de palma, palmiste, canola e milho, óleos de ARA e DHA, quatro HMOs, lecitina de soja.",
+          "Ninho Fases 1+, segundo a lata: leite parcialmente desnatado, permeado de soro de leite desmineralizado, maltodextrina, soro de leite, óleo de soja, oleína de palma, FOS, concentrado proteico de soro de leite, inulina, óleo de canola com baixo teor erúcico, vitaminas e minerais, lecitina."
+        ]
+      },
+      {
+        "heading": "Preço por base igual",
+        "paragraphs": [
+          "Preços da Nestlé Nutre, loja oficial, em 17/10/2026, sem cupom:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço (de tabela)",
+            "Por 100 g",
+            "Por 100 ml preparado",
+            "Por copo de 210 ml"
+          ],
+          "rows": [
+            [
+              "Nanlac Supreme Pro, 800 g",
+              "R$ 95,53 (de R$ 112,39)",
+              "R$ 11,94",
+              "R$ 1,68",
+              "R$ 3,93"
+            ],
+            [
+              "Ninho Fases 1+, 400 g",
+              "R$ 22,63 (de R$ 28,29)",
+              "R$ 5,66",
+              "R$ 0,78",
+              "R$ 1,82"
+            ],
+            [
+              "Ninho Fases 1+, 800 g",
+              "R$ 49,46 (de R$ 58,19)",
+              "R$ 6,18",
+              "R$ 0,85",
+              "R$ 1,99"
+            ],
+            [
+              "Ninho Fases 1+, 1,2 kg",
+              "R$ 62,24 (de R$ 82,99)",
+              "R$ 5,19",
+              "R$ 0,72",
+              "R$ 1,67"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac fica em R$ 11,94 por 100 g contra R$ 6,18 do Ninho, cerca de 1,9 vez. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo \"leve 5, pague 4\" por R$ 449,56 (conta nossa: R$ 89,91 por lata).",
+          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções, mas confira o valor final no resumo do pedido antes de pagar. As condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra."
+        ]
+      },
+      {
+        "heading": "Para quem cada um faz sentido, pelo rótulo",
+        "paragraphs": [
+          "A escolha entre as duas é do pediatra e da família. Pelo que cada rótulo mostra, estes são os perfis:"
+        ],
+        "bullets": [
+          "Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.",
+          "Quem prefere menos açúcares adicionados na tabela, mais proteína por 100 g e prebióticos declarados: o Ninho Fases 1+ é o que traz esses números.",
+          "Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial em 17/10/2026.",
+          "Quem tem restrição a leite, soja ou lactose: nenhum dos dois, pelos alérgenos declarados."
+        ],
+        "postParagraphs": [
+          "Antes de trocar de fórmula, converse com o pediatra ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nanlac ou Ninho Fases 1+? As duas são fórmulas infantis de seguimento para 1 a 3 anos. O Nanlac Supreme Pro declara HMOs, DHA e ARA; o Ninho Fases 1+ declara prebióticos (FOS e inulina) e tem bem menos açúcares adicionados por 100 g.",
+          "Ninho Fases 1+ é fórmula ou composto lácteo? Segundo a lata, é fórmula infantil de seguimento para crianças de primeira infância. O composto lácteo da linha é o Ninho Fases 3+, para crianças a partir de 3 anos.",
+          "Ninho Fases 1+ tem DHA ou ARA? O rótulo da lata não declara DHA nem ARA. O Nanlac Supreme Pro declara os dois.",
+          "Quanto custa o Ninho Fases 1+? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 49,46 (de R$ 58,19), a de 400 g em R$ 22,63 e a de 1,2 kg em R$ 62,24.",
+          "Quanto custa o Nanlac Supreme Pro? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 95,53 (de R$ 112,39).",
+          "Menor de 1 ano pode tomar? Não. Os dois são de 1 a 3 anos e não devem ser usados para alimentar crianças menores de 1 ano."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de leitura de rótulo e de preço, sem teste de uso. Fontes: rótulo do Nanlac Supreme Pro e páginas da Nestlé Nutre, rótulo da lata nova do Ninho Fases 1+ na galeria da Nestlé Nutre e páginas do Ninho da Nestlé, lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nanlac Supreme Pro e o Ninho Fases 1+ na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/formula-infantil-de-primeira-infancia-nanlac-supreme-pro-800g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nanlac-supreme-pro-1-a-3-anos",
+        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+      },
+      {
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
+        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "slug": "nutren-a-z-ou-centrum",
+    "title": "Nutren A-Z ou Centrum A a Zinco: o que muda no rótulo de cada multivitamínico e quanto custa por dia",
+    "seoTitle": "Nutren A-Z ou Centrum: comparação pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nutren A-Z Multi (60 cápsulas) e Centrum A a Zinco Adulto (60 comprimidos): a dose de cada vitamina e mineral por unidade, o que cada um declara, ingredientes e o preço por dia em 17/10/2026.",
+    "metaDescription": "Nutren A-Z ou Centrum A a Zinco? Dose de cada vitamina e mineral por unidade, ingredientes e quanto cada um custa por dia, com preços datados.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
+    "imageAlt": "Frasco do Nutren A-Z Multi de 60 cápsulas ao lado do frasco do Centrum A a Zinco Adulto",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren vem em cápsula softgel de 0,75 g e declara 13 vitaminas e 7 minerais; o Centrum é um comprimido revestido e lista também cálcio, fósforo, magnésio e iodo, que o Nutren não traz. Na Nestlé Nutre, o Nutren custava R$ 0,82 por dia em 17/10/2026; o Centrum, R$ 2,35 por dia na Extrafarma na mesma data (contas nossas)."
+        ]
+      },
+      {
+        "heading": "Os dois produtos lado a lado",
+        "paragraphs": [
+          "Os dois têm 60 unidades por frasco e dose de uma por dia, para adultos. A comparação é por unidade, e a unidade não é igual: uma cápsula de 0,75 g contra um comprimido de 1,32 g. Para a ficha completa do Nutren, veja o [guia do Nutren A-Z Multi](/reviews/nutren-a-z-multi-para-que-serve). Aqui ficam só as diferenças."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nutren A-Z Multi",
+            "Centrum A a Zinco Adulto"
+          ],
+          "rows": [
+            [
+              "Formato",
+              "Cápsula softgel de 0,75 g",
+              "Comprimido revestido (1,32 g)"
+            ],
+            [
+              "Unidades por frasco",
+              "60",
+              "60"
+            ],
+            [
+              "Dose",
+              "1 cápsula ao dia",
+              "1 comprimido ao dia"
+            ],
+            [
+              "Público",
+              "Maiores de 19 anos (adultos)",
+              "Adultos"
+            ],
+            [
+              "Glúten",
+              "Não contém (rótulo)",
+              "Não contém (página da Drogasil)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A página do Centrum na Drogasil, lida em 17/10/2026, avisa que a embalagem está sendo atualizada pelo fabricante. Se o frasco na sua mão for de outra versão, vale a tabela impressa nele."
+        ]
+      },
+      {
+        "heading": "Dose de cada vitamina e mineral por unidade",
+        "paragraphs": [
+          "A tabela traz a quantidade por cápsula (Nutren, rótulo) e por comprimido (Centrum, página da Drogasil de 17/10/2026, que confere com a bula da GSK de 2021). Não comparamos o %VD: a bula do Centrum é de 2021 e o rótulo do Nutren usa valores de referência que parecem outros (600 µg de vitamina A é 75% no Nutren; 400 µg é 67% na bula do Centrum)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Nutriente",
+            "Nutren (por cápsula)",
+            "Centrum (por comprimido)"
+          ],
+          "rows": [
+            [
+              "Vitamina A",
+              "600 µg",
+              "400 µg"
+            ],
+            [
+              "Vitamina D",
+              "5 µg",
+              "5 µg"
+            ],
+            [
+              "Vitamina E",
+              "10 mg",
+              "6,7 mg"
+            ],
+            [
+              "Vitamina K",
+              "65 µg",
+              "65 µg"
+            ],
+            [
+              "Vitamina C",
+              "45 mg",
+              "45 mg"
+            ],
+            [
+              "Vitamina B1",
+              "1,2 mg",
+              "1,2 mg"
+            ],
+            [
+              "Vitamina B2",
+              "1,3 mg",
+              "1,3 mg"
+            ],
+            [
+              "Vitamina B3 (niacina)",
+              "16 mg",
+              "16 mg"
+            ],
+            [
+              "Vitamina B5 (ácido pantotênico)",
+              "5 mg",
+              "5 mg"
+            ],
+            [
+              "Vitamina B6",
+              "1,3 mg",
+              "1,3 mg"
+            ],
+            [
+              "Biotina",
+              "30 µg",
+              "30 µg"
+            ],
+            [
+              "Vitamina B12",
+              "2,4 µg",
+              "2,4 µg"
+            ],
+            [
+              "Ácido fólico",
+              "400 µg",
+              "240 µg"
+            ],
+            [
+              "Ferro",
+              "14 mg",
+              "8,1 mg"
+            ],
+            [
+              "Zinco",
+              "7 mg",
+              "7 mg"
+            ],
+            [
+              "Selênio",
+              "34 µg",
+              "20 µg"
+            ],
+            [
+              "Cobre",
+              "900 µg",
+              "450 µg"
+            ],
+            [
+              "Cromo",
+              "35 µg",
+              "18 µg"
+            ],
+            [
+              "Manganês",
+              "1 mg",
+              "1,2 mg"
+            ],
+            [
+              "Molibdênio",
+              "45 µg",
+              "23 µg"
+            ],
+            [
+              "Cálcio",
+              "Não consta",
+              "250 mg"
+            ],
+            [
+              "Fósforo",
+              "Não consta",
+              "125 mg"
+            ],
+            [
+              "Magnésio",
+              "Não consta",
+              "100 mg"
+            ],
+            [
+              "Iodo",
+              "Não consta",
+              "33 µg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Nutren tem a dose maior de vitaminas A e E, ácido fólico, ferro, selênio, cobre, cromo e molibdênio. O Centrum traz cálcio, fósforo, magnésio e iodo, que não aparecem na tabela do Nutren, e um pouco mais de manganês. Várias vitaminas do complexo B, a D, a K, a C, a biotina e o zinco têm a mesma dose nos dois. A vitamina A do Centrum vem como betacaroteno mais retinol, segundo a bula."
+        ],
+        "image": "/images/reviews/nutren/nutren-a-z-multi-tabela-ingredientes.webp",
+        "imageAlt": "Rótulo do Nutren A-Z Multi com a informação nutricional por cápsula, os ingredientes e o aviso de que não contém glúten",
+        "imageCaption": "Informação nutricional por cápsula no frasco do Nutren A-Z Multi.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "O que cada rótulo declara",
+        "paragraphs": [
+          "O rótulo do Nutren A-Z Multi traz três alegações, cada uma com os nutrientes:"
+        ],
+        "bullets": [
+          "As vitaminas A, C e D e o zinco e selênio auxiliam no funcionamento do sistema imune.",
+          "As vitaminas B1, B2, B6 e B12, niacina e ácido pantotênico auxiliam no metabolismo energético.",
+          "As vitaminas C, E e o zinco auxiliam na proteção dos danos causados pelos radicais livres."
+        ],
+        "postParagraphs": [
+          "Do Centrum, a página da Drogasil informa a tabela, zero calorias, sem açúcares e \"não contém glúten\". A página também traz frases de loja, mas não reproduzimos as frases de lojas."
+        ],
+        "image": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+        "imageAlt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo e as recomendações de uso",
+        "imageCaption": "As três alegações impressas no frasco do Nutren A-Z Multi.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "paragraphs": [
+          "No Nutren, os ingredientes além dos nutrientes são óleo de girassol, água purificada, gelatina, glicerol, lecitina, corantes (carbonato de cálcio, carmins e clorofilina cúprica) e cera de abelha. O rótulo diz que contém derivados de soja e não contém glúten. Por ter gelatina, carmim e cera de abelha, não é vegano. O ferro, o manganês e o selênio vêm em formas quelatadas (bisglicinato de ferro, bisglicinato de manganês e selenometionina), segundo o rótulo.",
+          "No Centrum, a Drogasil lista como excipientes celulose microcristalina, croscarmelose sódica, polivinilpirrolidona insolúvel, hidroxipropilmetilcelulose, dióxido de titânio, triacetina, corante amarelo crepúsculo, polisorbato 80, ácido esteárico e dióxido de silício (a Extrafarma traz a mesma lista). A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose. A Drogasil também informa que o Centrum contém itens de origem animal: vitamina A de origem suína e vitamina D3 de origem bovina e ovina. Quem precisa evitar um desses itens deve ler o rótulo do frasco."
+        ]
+      },
+      {
+        "heading": "Quanto custa por dia",
+        "paragraphs": [
+          "Preço dividido pelo número de unidades (conta nossa), em 17/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Onde",
+            "Preço",
+            "Por dia"
+          ],
+          "rows": [
+            [
+              "Nutren A-Z Multi, 60 cápsulas",
+              "Nestlé Nutre",
+              "R$ 48,92 (de R$ 69,89)",
+              "R$ 0,82"
+            ],
+            [
+              "Nutren A-Z Multi, 60 cápsulas",
+              "Nestlé Nutre, assinatura",
+              "R$ 41,93",
+              "R$ 0,70"
+            ],
+            [
+              "Nutren A-Z Multi, 30 cápsulas",
+              "Nestlé Nutre",
+              "R$ 30,31 (de R$ 37,89)",
+              "R$ 1,01"
+            ],
+            [
+              "Centrum A a Zinco, 60 comprimidos",
+              "Extrafarma",
+              "R$ 140,99",
+              "R$ 2,35"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelas contas, o Centrum custa cerca de 2,9 vezes o Nutren por dia nesses preços. A comparação não é de dose igual: cada um traz nutrientes e quantidades diferentes, como mostra a tabela acima. Preço de farmácia muda por loja e por dia.",
+          "O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Vale para o Nutren, e as condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). O desconto não vale para o Centrum."
+        ]
+      },
+      {
+        "heading": "Para quem cada um faz sentido, pelo rótulo",
+        "bullets": [
+          "Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.",
+          "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia: o Nutren A-Z Multi.",
+          "Quem quer evitar glúten: os dois declaram não conter.",
+          "Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; o Centrum, segundo a Drogasil, tem vitamina A de origem suína e vitamina D3 de origem bovina e ovina."
+        ],
+        "postParagraphs": [
+          "Dúvida sobre dose, uso com outros remédios ou gravidez e amamentação (a Drogasil avisa que gestantes e lactantes só devem usar o Centrum com orientação médica): fale com médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e custa menos por dia; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+          "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
+          "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
+          "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
+          "Qual custa menos por dia? Em 17/10/2026, o Nutren A-Z Multi saía a R$ 0,82 por dia na Nestlé Nutre e o Centrum A a Zinco a R$ 2,35 por dia na Extrafarma (contas nossas).",
+          "Posso tomar os dois juntos? O rótulo do Nutren orienta consultar um profissional de saúde ao consumir outros suplementos.",
+          "Centrum A a Zinco e Centrum Mulher ou Homem são o mesmo produto? Não. Este texto trata só do Centrum A a Zinco Adulto."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um guia de leitura de rótulo e de preço. Fontes: rótulo do Nutren A-Z Multi e página da Nestlé Nutre, página do Centrum na Drogasil, bula da GSK de 2021 e página da Extrafarma (preço), lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nutren A-Z Multi na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-multi-az-60-capsulas",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Comparativo feito com rótulos e páginas de fabricantes e lojas. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-a-z-multi-para-que-serve",
+        "title": "Nutren A-Z Multi 60 cápsulas: para que serve, composição por cápsula e como tomar"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "slug": "nutren-senior-ou-nutridrink",
+    "title": "Nutren Senior ou Nutridrink Protein Senior: o que muda entre os dois rótulos",
+    "seoTitle": "Nutren Senior ou Nutridrink: comparação de rótulo e preço",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nutren Senior Baunilha 740 g e Nutridrink Protein Senior 750 g lado a lado: a tabela por porção e por 100 g de pó, a lactose e o preço por porção em 17/10/2026.",
+    "metaDescription": "Nutren Senior ou Nutridrink Protein Senior? Porção, proteína, cálcio, vitamina D, lactose e preço por porção, e o cupom CECI no Nutren.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
+    "imageAlt": "Lata de 740 g do Nutren Senior ao lado da lata de 750 g do Nutridrink Protein Senior Café com Leite",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nutren Senior e Nutridrink Protein Senior são dois pós de lata para adultos mais velhos. As duas páginas trazem tabela por porção, mas a porção não é a mesma: 31,5 g no Nutren e 30 g no Nutridrink. Por isso a comparação fica mais justa por 100 g de pó, que é conta nossa, além do preço por porção.",
+          "Este texto compara só as diferenças. A ficha do Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior). Não recebemos os produtos."
+        ]
+      },
+      {
+        "heading": "Qual versão de cada lado",
+        "paragraphs": [
+          "Do lado da Nutren, usamos o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
+          "Do lado da Danone, usamos o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, que é a versão com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa."
+        ],
+        "image": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+        "imageAlt": "Três latas de 740 g do Nutren Senior: Zero Lactose, Café com Leite e Sem Sabor",
+        "imageCaption": "Versões do Nutren Senior em lata de 740 g.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "O que cada página informa",
+        "paragraphs": [
+          "A tabela junta o que as páginas dos fabricantes dizem, lidas em 17/10/2026. Nutren: Nestlé Nutre. Nutridrink: Mundo Danone. Os valores \"por 100 g de pó\" são conta nossa (valor da porção dividido pela porção, vezes 100)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Nutren Senior Baunilha, porção de 31,5 g",
+            "Nutridrink Protein Senior Café com Leite, porção de 30 g"
+          ],
+          "rows": [
+            [
+              "Calorias",
+              "131 kcal (cerca de 416 por 100 g)",
+              "106 kcal (cerca de 353 por 100 g)"
+            ],
+            [
+              "Proteína",
+              "11 g (cerca de 35 g por 100 g)",
+              "7,2 g (24 g por 100 g)"
+            ],
+            [
+              "Açúcares totais",
+              "5,7 g",
+              "11 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0,4 g",
+              "0,6 g"
+            ],
+            [
+              "Fibras",
+              "1,3 g",
+              "0 g"
+            ],
+            [
+              "Cálcio",
+              "375 mg (cerca de 1.190 mg por 100 g)",
+              "252 mg (840 mg por 100 g)"
+            ],
+            [
+              "Vitamina D",
+              "25 µg (cerca de 79 µg por 100 g)",
+              "2,7 µg (9 µg por 100 g)"
+            ],
+            [
+              "Lactose",
+              "A página da Baunilha não informa; a versão Zero Lactose traz 0 g",
+              "Contém lactose"
+            ],
+            [
+              "Glúten",
+              "A página não informa",
+              "Não contém glúten"
+            ],
+            [
+              "Alergênicos",
+              "A página não informa",
+              "Contém derivados de leite e de soja; pode conter peixe"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Nutridrink também informa zinco, 2,8 mg por porção.",
+          "Duas declarações pedem leitura com calma. A Nutren diz \"reduzido em açúcares\", e a Danone lista 0,6 g de açúcares adicionados. Mas os açúcares totais do Nutridrink (11 g na porção) são quase o dobro dos do Nutren (5,7 g). Cada declaração vale na base da sua marca."
+        ]
+      },
+      {
+        "heading": "A conta da proteína",
+        "paragraphs": [
+          "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
+          "Como a porção é diferente, olhe também a conta por 100 g de pó. Nutren: cerca de 35 g de proteína, 1.190 mg de cálcio e 79 µg de vitamina D. Nutridrink: 24 g de proteína, 840 mg de cálcio e 9 µg de vitamina D. O Nutren tem mais de cada um por 100 g de pó, mas o que vale é a quantidade que o profissional indicar.",
+          "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. Por isso não descrevemos preparo do Nutridrink aqui, e vale seguir a lata. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
+        ]
+      },
+      {
+        "heading": "Preço em 17/10/2026",
+        "paragraphs": [
+          "Nutren Senior Baunilha 740 g, na Nestlé Nutre, em 17/10/2026: de R$ 188,19 por R$ 169,37. Nutridrink Protein Senior Café com Leite 750 g, no Mundo Danone, em 17/10/2026: de R$ 151,99 por R$ 121,59, ou R$ 109,43 na compra programada. Preço e estoque mudam, e vale o que aparece na loja na hora."
+        ],
+        "bullets": [
+          "Nutren, por porção (conta nossa): a lata rende cerca de 23 porções de 31,5 g, o que dá cerca de R$ 7,21 por porção.",
+          "Nutridrink, por porção (conta nossa): 750 g divididos por 30 g são 25 porções, o que dá R$ 4,86 por porção, ou R$ 4,38 na compra programada."
+        ],
+        "postParagraphs": [
+          "A lata da Danone sai R$ 47,78 mais barata (conta nossa). Mas a porção é diferente: R$ 4,86 paga 30 g de pó com 7,2 g de proteína, e R$ 7,21 paga 31,5 g de pó com 11 g de proteína. Olhar só o preço da porção, sem ver o que vem nela, engana."
+        ]
+      },
+      {
+        "heading": "Para quem cada um faz sentido",
+        "paragraphs": [
+          "Pela leitura dos rótulos, e não por condição de saúde:"
+        ],
+        "bullets": [
+          "Quem precisa de lactose zero declarada: o Nutren Senior tem a versão Sem Sabor Zero Lactose, com 0 g de lactose na tabela, a R$ 190,61 na Nestlé Nutre em 17/10/2026. O Nutridrink Protein Senior contém lactose.",
+          "Quem olha o preço por porção: o Nutridrink sai mais barato na leitura de 17/10/2026, com porção menor e menos proteína por porção.",
+          "Quem olha proteína, cálcio e vitamina D por porção: a tabela do Nutren Senior Baunilha traz mais de cada um.",
+          "Quem quer menos açúcares totais: o Nutren Senior Baunilha traz 5,7 g na porção, contra 11 g no Nutridrink."
+        ],
+        "postParagraphs": [
+          "Em qualquer caso, fale com o médico ou o nutricionista antes de trocar um produto pelo outro ou de definir a quantidade por dia. A ficha do Zero Lactose está em [Nutren Senior Zero Lactose: o que saber antes de comprar](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        ]
+      },
+      {
+        "heading": "Onde entra o cupom CECI",
+        "paragraphs": [
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nutren Senior não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre).",
+          "Nutridrink é da Danone, que não é parceira do site, e não temos código para ela."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren Senior ou Nutridrink: qual escolher? Não há resposta única. A escolha depende da prescrição, da lactose e do preço por porção, lembrando que a porção é diferente (31,5 g contra 30 g).",
+          "Nutridrink Protein ou Nutren Senior: qual tem mais proteína? Por porção da tabela, o Nutren: 11 g em 31,5 g contra 7,2 g em 30 g. Por 100 g de pó, a conta nossa dá cerca de 35 g contra 24 g.",
+          "Nutridrink Protein Senior tem lactose? Sim, a página do Mundo Danone diz \"contém lactose\". O Nutren Senior Zero Lactose traz 0 g.",
+          "Nutren Senior Baunilha tem lactose? A página não traz a linha de lactose. A versão com lactose zero declarada é o Nutren Senior Zero Lactose.",
+          "Nutridrink Protein Senior tem açúcar? A tabela traz 11 g de açúcares totais e 0,6 g de açúcares adicionados na porção de 30 g.",
+          "Quantas porções tem a lata do Nutridrink? Cerca de 25, pela conta nossa (750 g divididos por 30 g).",
+          "Tem cupom para o Nutridrink? Não temos código para a Danone. O CECI vale só na Nestlé Nutre."
+        ]
+      },
+      {
+        "heading": "Fontes e nota de transparência",
+        "paragraphs": [
+          "Fontes: página do Nutren Senior Baunilha 740 g na Nestlé Nutre e página do Nutridrink Protein Senior 750 g no Mundo Danone (tabela, ingredientes e alergênicos), lidas em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Nutren Senior na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-senior-baunilha-lata-740g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas dos fabricantes informam.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-senior-ensure-ou-sustagen-senior",
+        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+      },
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+      },
+      {
+        "slug": "nutren-senior-como-tomar-sem-empelotar",
+        "title": "Como tomar Nutren Senior sem empelotar"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "slug": "isosource-1-5-ou-trophic-1-5",
+    "title": "Isosource 1.5 ou Trophic 1.5: o que muda entre os dois rótulos e o preço por 1.000 kcal",
+    "seoTitle": "Isosource 1.5 ou Trophic 1.5: rótulo e preço",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha, caixas de 1 L: comparação por litro, o que cada fonte informa e o preço por litro e por 1.000 kcal em 17/10/2026.",
+    "metaDescription": "Isosource 1.5 ou Trophic 1.5? 1,5 kcal/mL nos dois, proteína e fibra por litro e o preço por 1.000 kcal em 17/10/2026. Uso só sob orientação.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
+    "imageAlt": "Caixas de 1 L do Isosource 1.5 Sem Sabor, da Nestlé Health Science, e da Trophic 1.5 Baunilha, da Prodiet, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são duas fórmulas em caixa de 1 litro, as duas com 1,5 kcal por mL e as duas apresentadas para nutrição enteral e oral. Usar somente sob orientação médica ou de nutricionista: é o profissional que escolhe a fórmula, a quantidade e a via. Este texto só compara o que os rótulos e as páginas mostram e as contas de preço.",
+          "A tabela completa do Isosource está lida no rótulo. Da Trophic, usamos só o que os cartões oficiais da Prodiet mostram nas fotos do produto numa loja, porque a tabela completa da caixa não estava publicada nas fontes lidas. A ficha completa do Isosource está em [Isosource 1.5 Sem Sabor](/reviews/isosource-1-5-para-que-serve). Não recebemos os produtos."
+        ]
+      },
+      {
+        "heading": "Qual versão de cada lado",
+        "paragraphs": [
+          "Isosource 1.5 Sem Sabor, 1 L, é o produto da Nestlé Health Science vendido na Nestlé Nutre, em caixa Tetra Square com tampa.",
+          "Trophic 1.5, da Prodiet, na versão Baunilha, caixa de 1 L, lida na página da Droga Raia em 17/10/2026. O Isosource 1.0 existe só em pó, de 400 g, e o 1.5 é líquido. Por isso o 1.0 não entra aqui."
+        ]
+      },
+      {
+        "heading": "O que é igual",
+        "paragraphs": [
+          "Os dois declaram 1,5 kcal por mL, ou seja, cerca de 1.500 kcal por litro, em caixa de 1 L. Os dois se apresentam para nutrição enteral e oral, trazem \"não contém glúten\" e \"sem adição de sacarose\", e pedem refrigeração depois de abertos, por no máximo 24 horas. Confira sempre a caixa que você tem em mãos: sabor e versão mudam de um produto da linha para outro."
+        ]
+      },
+      {
+        "heading": "Comparação por litro",
+        "paragraphs": [
+          "Isosource: rótulo lido na Nestlé Nutre em 17/10/2026, com os valores por 100 ml multiplicados por 10 (conta nossa). Trophic: cartões oficiais da Prodiet nas fotos do produto na Droga Raia, lidos em 17/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item por litro",
+            "Isosource 1.5 Sem Sabor",
+            "Trophic 1.5 Baunilha"
+          ],
+          "rows": [
+            [
+              "Energia",
+              "1.510 kcal",
+              "1.500 kcal"
+            ],
+            [
+              "Proteínas",
+              "63 g",
+              "57 g"
+            ],
+            [
+              "Fibras",
+              "8 g",
+              "Isento de fibras"
+            ],
+            [
+              "Lactose",
+              "0 g, \"não contém lactose\"",
+              "\"Não contém lactose\""
+            ],
+            [
+              "Glúten",
+              "\"Não contém glúten\"",
+              "\"Não contém glúten\""
+            ],
+            [
+              "Sacarose",
+              "Sem adição de sacarose",
+              "Sem adição de sacarose e sucralose"
+            ],
+            [
+              "Osmolaridade",
+              "410 mOsm/L de água",
+              "A Prodiet não informa nas fontes lidas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A tabela completa da Trophic não estava publicada nas fontes lidas, e o verso da caixa na foto da loja não dava para ler. Por isso carboidratos, gorduras, sódio e potássio ficam fora da comparação, e vale a caixa que você tiver."
+        ],
+        "image": "/images/reviews/nutren/isosource-1-5-sem-sabor-tabela-ingredientes.webp",
+        "imageAlt": "Verso da caixa do Isosource 1.5 Sem Sabor com a informação nutricional por 100 ml, os ingredientes e os alérgicos",
+        "imageCaption": "Verso da caixa do Isosource 1.5: tabela por 100 ml.",
+        "imageFit": "portrait"
+      },
+      {
+        "heading": "Alergênicos e fibras",
+        "paragraphs": [
+          "O Isosource 1.5 Sem Sabor declara \"contém derivados de leite e soja\" e \"não contém glúten\". O caseinato é derivado do leite: \"não contém lactose\" não quer dizer \"sem leite\". Tem fibras (inulina e fibra de soja, 0,8 g por 100 ml), mesmo que o nome do produto não diga.",
+          "A Trophic 1.5 Baunilha traz \"não contém lactose\" e \"isento de fibras\" nos cartões da Prodiet. O texto da loja diz \"contém derivados de leite\". Quem tem restrição deve ler a caixa e perguntar ao profissional."
+        ]
+      },
+      {
+        "heading": "Preço em 17/10/2026",
+        "paragraphs": [
+          "Isosource 1.5 Sem Sabor 1 L, na Nestlé Nutre, em 17/10/2026: de R$ 38,49 por R$ 32,72, ou R$ 28,87 na assinatura. Trophic 1.5 Baunilha 1 L, na Droga Raia, em 17/10/2026: de R$ 39,90 por R$ 28,50. As lojas são diferentes e o preço muda; confira na loja na hora da compra."
+        ],
+        "bullets": [
+          "Isosource, Nestlé Nutre, compra única (conta nossa): R$ 32,72 por litro e cerca de R$ 21,67 por 1.000 kcal (R$ 32,72 dividido por 1,51).",
+          "Trophic, Droga Raia (conta nossa): R$ 28,50 por litro e R$ 19,00 por 1.000 kcal (R$ 28,50 dividido por 1,5)."
+        ],
+        "postParagraphs": [
+          "A Trophic sai cerca de R$ 4,22 mais barata por litro e cerca de R$ 2,67 por 1.000 kcal. O Isosource entrega um pouco mais de proteína por litro (63 g contra 57 g) e traz fibras, e a Trophic é isenta de fibras. Preço por 1.000 kcal não diz qual fórmula serve a quem usa."
+        ]
+      },
+      {
+        "heading": "Para quem cada um faz sentido",
+        "paragraphs": [
+          "Pelo perfil de compra, e sempre com a prescrição na mão:"
+        ],
+        "bullets": [
+          "Quem precisa de lactose zero declarada: os dois trazem \"não contém lactose\" na embalagem ou nos cartões do fabricante, e os dois têm derivados de leite.",
+          "Quem precisa de fórmula com fibras, ou sem: o Isosource traz 8 g de fibras por litro; a Trophic é \"isenta de fibras\".",
+          "Quem olha o preço por 1.000 kcal: a Trophic estava mais barata na leitura de 17/10/2026 (R$ 19,00 contra R$ 21,67), em lojas diferentes.",
+          "Quem quer a tabela completa antes de comprar: a do Isosource está lida; a da Trophic fica para a caixa."
+        ]
+      },
+      {
+        "heading": "Onde entra o cupom CECI",
+        "paragraphs": [
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Isosource não está nas exceções. As regras vigentes ficam na [página do cupom da Nestlé Nutre](/cupons/nestle-nutre). A Prodiet não é parceira do site, e não temos código para a Trophic."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Isosource 1.5 ou Trophic 1.5: qual escolher? Não há resposta única. A escolha é do médico ou do nutricionista, e os dois rótulos precisam ser lidos lado a lado, com a mesma base de conta.",
+          "Isosource e Trophic são a mesma coisa? São fórmulas diferentes, de marcas diferentes, com a mesma densidade declarada de 1,5 kcal por mL. Proteína, fibras e outros números mudam de uma para outra.",
+          "Isosource 1.5 tem lactose? A frente diz \"não contém lactose\" e a tabela traz 0 g. Contém derivados de leite e soja.",
+          "Trophic 1.5 tem lactose? Os cartões da Prodiet dizem \"não contém lactose\". O texto da loja diz que contém derivados de leite.",
+          "Qual tem mais proteína por litro? O Isosource: 63 g contra 57 g (conta nossa para o Isosource; a Prodiet informa 57 g por litro).",
+          "Qual é mais barato por litro? Em 17/10/2026, a Trophic estava a R$ 28,50 na Droga Raia e o Isosource a R$ 32,72 na Nestlé Nutre. Lojas e condições são diferentes."
+        ]
+      },
+      {
+        "heading": "Fontes e nota de transparência",
+        "paragraphs": [
+          "Fontes: rótulo e página do Isosource 1.5 Sem Sabor na Nestlé Nutre e página do Trophic 1.5 Baunilha 1 L na Droga Raia (cartões da Prodiet nas fotos do produto), lidos em 17/10/2026. O Em Casa com Cecília pode receber comissão por compras feitas pelo link da Nestlé Nutre com o cupom CECI. Não recebemos os produtos."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o Isosource 1.5 Sem Sabor na Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/isosource-1-5-sem-sabor",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "isosource-1-5-para-que-serve",
+        "title": "Isosource 1.5 Sem Sabor: para que serve, tabela nutricional e quanto rende o litro"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      }
+    ]
   }
 ];
