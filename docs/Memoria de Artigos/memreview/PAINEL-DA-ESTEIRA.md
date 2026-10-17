@@ -7,6 +7,12 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 52 / Conv: 50)
+- [ ] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 52 / Conv: 48)
+- [ ] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 42 / Conv: 30, recalcular com a comparação fórmula × fórmula)
+- [ ] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
+- [ ] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (score a calcular com o rótulo do Nutridrink)
+- [ ] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
 
 ---
 
