@@ -6,15 +6,15 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "upload das imagens com o GO do Bruno, build e deploy"
+proxima_acao: "reconferir o preço na Nestlé Nutre na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 68
 score_ponderado_total: 76
 data_criacao: "2026-10-17"
-publicado_em: null
+publicado_em: "2026-10-17"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

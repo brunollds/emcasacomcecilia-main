@@ -24,9 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[nanlac-supreme-pro-1-a-3-anos]] — Nestlé Nutre / Nanlac Supreme Pro 1 a 3 anos: composição, preparo e o recolhimento de janeiro (Score Aut: 58 / Conv: 55) — texto aprovado em 17/10, JSON pronto, espera upload e deploy
-- [ ] [[nutren-a-z-multi-para-que-serve]] — Nestlé Nutre / Nutren A-Z Multi 60 cápsulas: composição por cápsula e como tomar (Score Aut: 62 / Conv: 58) — texto aprovado em 17/10, JSON pronto, espera upload e deploy
-- [ ] [[isosource-1-5-para-que-serve]] — Nestlé Nutre / Isosource 1.5 Sem Sabor: para que serve, como usar e quanto rende o litro (Score Aut: 72 / Conv: 68) — texto aprovado em 17/10, JSON pronto, espera upload e deploy
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -44,6 +42,9 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[nanlac-supreme-pro-1-a-3-anos]] — Nestlé Nutre / Nanlac Supreme Pro 1 a 3 anos: composição, preparo e o recolhimento de janeiro (Score Aut: 58 / Conv: 55) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
+- [x] [[nutren-a-z-multi-para-que-serve]] — Nestlé Nutre / Nutren A-Z Multi 60 cápsulas: composição por cápsula e como tomar (Score Aut: 62 / Conv: 58) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
+- [x] [[isosource-1-5-para-que-serve]] — Nestlé Nutre / Isosource 1.5 Sem Sabor: para que serve, como usar e quanto rende o litro (Score Aut: 72 / Conv: 68) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
 - [x] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
 - [x] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
 - [x] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
