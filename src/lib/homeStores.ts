@@ -43,26 +43,20 @@ function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: stri
 }
 
 // As lojas do artigo PT listado mais novo para o mais antigo (a ordem das bolinhas da home e de /reviews).
-// Empate de data e loja sem artigo mantêm a ordem recebida; as sem artigo vão para o fim.
+// Segue a ordem de listedNewestFirst, que desempata a data pelo id; assim a primeira bolinha é a loja do
+// artigo que abre a lista. Loja sem artigo vai para o fim, na ordem recebida.
 export function sortStoresByNewestArticle<S extends Pick<Coupon, 'slug'>>(
   stores: readonly S[],
   reviews: readonly StoreReview[]
 ): S[] {
-  const listed = getListedPortugueseReviews(reviews);
-  const newest = new Map<string, number>();
-  for (const { affiliate, publishedAtISO } of listed) {
-    if (!affiliate) continue;
-    const time = Date.parse(publishedAtISO);
-    if (!(time <= (newest.get(affiliate) ?? -Infinity))) newest.set(affiliate, time);
-  }
-  const timeOf = (store: S) => newest.get(store.slug) ?? -Infinity;
+  const rank = new Map<string, number>();
+  listedNewestFirst(reviews).forEach(({ affiliate }, index) => {
+    if (affiliate && !rank.has(affiliate)) rank.set(affiliate, index);
+  });
+  const rankOf = (store: S) => rank.get(store.slug) ?? Infinity;
   return stores
     .map((store, position) => ({ store, position }))
-    .sort((a, b) => {
-      const ta = timeOf(a.store);
-      const tb = timeOf(b.store);
-      return ta === tb ? a.position - b.position : tb > ta ? 1 : -1;
-    })
+    .sort((a, b) => rankOf(a.store) - rankOf(b.store) || a.position - b.position)
     .map(({ store }) => store);
 }
 
