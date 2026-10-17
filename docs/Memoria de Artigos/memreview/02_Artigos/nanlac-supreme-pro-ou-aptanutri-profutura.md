@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Fórmula Infantil"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 52
 score_conversao: 50
@@ -189,3 +189,141 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - NBCAL: o `notice` do Ministério da Saúde ("O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.") na seção que apresenta os produtos e na de preços; nada de comparação com leite materno; nenhum produto para menores de 1 ano com preço, link ou cupom.
 - Nanlac Supreme Pro na Nestlé Nutre (17/10/2026): de R$ 112,39 por R$ 95,53; combo leve 5 pague 4 R$ 449,56. Por 100 g / 100 ml reconstituído: 477/67 kcal; proteínas 10/1,4 g; açúcares totais 61/8,6 g (adicionados 31/4,4); gorduras 21/2,9 g; DHA 85/12 mg; ARA 85/12 mg; 4 HMOs (2'-FL 0,2 g, LNT 0,1 g, 3'-SL 0,04 g, 6'-SL 0,03 g por 100 g); cálcio 570/80 mg; ferro 8,3/1,2 mg; vit D 10/1,4 µg. Preparo 14,1 g + 90 ml = 100 ml (colher 4,7 g). Alérgicos: leite, derivados de soja; contém lactose; sem glúten. Aviso de menores de 1 ano na página.
 - Aptanutri: usar a versão de 1 a 3 anos vendida hoje (Profutura 3 ou Profutura Gold 3, a que o rótulo da Danone mostrar) e dizer o nome exato. Termos de Aptamil/NAN de 0 a 12 meses não entram (nem como pauta futura).
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+O Nanlac Supreme Pro (Nestlé) e o Aptanutri Profutura 3 (Danone) são fórmulas infantis de seguimento para a primeira infância, de 1 a 3 anos, em lata de 800 g. Pelo que cada fabricante publica, o Nanlac declara quatro HMOs e mais proteína, DHA e ARA por 100 g. O Aptanutri declara prebióticos (GOS e FOS) e nucleotídeos, e não traz HMO na versão Profutura 3. Em 17/10/2026, a lata do Nanlac custava R$ 95,53 na Nestlé Nutre e a do Aptanutri R$ 107,59 na loja Mundo Danone. A escolha depende do que você procura no rótulo e do preço por litro preparado. Pediatra ou nutricionista é quem orienta qual fórmula usar.
+
+### Duas fórmulas de 1 a 3 anos, de fabricantes diferentes
+
+As duas são fórmulas infantis de seguimento para a primeira infância. Não são leite em pó nem composto lácteo. A Nestlé Nutre vende o Nanlac Supreme Pro como "fórmula infantil de primeira infância", e a Danone descreve o Aptanutri Profutura 3 como "fórmula infantil de seguimento em pó, à base de proteínas lácteas intactas".
+
+> AVISO: O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.
+
+As duas páginas oficiais trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade. Este comparativo fala só das latas de 1 a 3 anos.
+
+| Item | Nanlac Supreme Pro | Aptanutri Profutura 3 |
+|---|---|---|
+| Fabricante | Nestlé | Danone |
+| Faixa de idade | 1 a 3 anos | 1 a 3 anos |
+| Embalagem | Lata de 800 g | Lata de 800 g |
+| Contém | Leite e derivados, derivados de soja, lactose | Leite e derivados de leite, ovo, peixe, lactose; pode conter soja |
+| Glúten | Não contém | Não contém |
+
+A ficha completa do Nanlac está no guia do produto. Aqui ficam só as diferenças.
+
+### Profutura 3 ou Profutura Gold 3: qual versão entra na comparação
+
+A Danone vende duas latas de 800 g para a mesma faixa. A **Profutura 3** é a de preço menor e a mais citada nas buscas. A **Profutura Gold 3** traz o HMO 2'FL adicionado, segundo a página da Danone, que não informa a quantidade. Na tabela publicada, as duas têm 9,2 g de proteínas e prebióticos GOS e FOS na mesma proporção. Mudam, por exemplo, as calorias, os açúcares adicionados e as vitaminas.
+
+| Por 100 g de pó | Profutura 3 | Profutura Gold 3 |
+|---|---|---|
+| Valor energético | 456 kcal | 465 kcal |
+| Açúcares adicionados | 33 g | 41 g |
+| DHA | 53 mg | 50 mg |
+| Vitamina C | 83 mg | 105 mg |
+| HMO 2'FL | Não consta | Adicionado, sem quantidade |
+| Preço na Mundo Danone, 17/10/2026 | R$ 107,59 | R$ 119,49 |
+
+Nas seções seguintes, a coluna do Aptanutri é a da Profutura 3. Quem procura HMO no rótulo deve olhar a Gold 3, que é outro produto, com outro preço.
+
+### O que cada rótulo declara
+
+Todos os números abaixo vêm das páginas dos fabricantes, lidas em 17/10/2026: Nestlé Nutre (Nanlac) e Danone (Aptanutri Profutura 3, na página do produto na Mundo Danone, loja oficial da Danone; Gold 3 e rendimento, na página de profissionais de saúde da Danone). A comparação é só do que está impresso. Não diz qual fórmula "faz mais" por uma criança.
+
+| Por 100 g de pó | Nanlac Supreme Pro | Aptanutri Profutura 3 |
+|---|---|---|
+| Valor energético | 477 kcal | 456 kcal |
+| Proteínas | 10 g | 9,2 g |
+| Carboidratos | 63 g | 59 g |
+| Açúcares adicionados | 31 g | 33 g |
+| Gorduras totais | 21 g | 19 g |
+| DHA | 85 mg | 53 mg |
+| ARA | 85 mg | 60 mg |
+| HMO | 4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados (conta nossa) | Não consta |
+| Prebióticos GOS e FOS | Não consta | 4,8 g de GOS e 0,6 g de FOS |
+| Fibras alimentares | 0,3 g | 5,4 g |
+| Nucleotídeos | Não consta na tabela | 11 mg |
+| Cálcio | 570 mg | 481 mg |
+| Ferro | 8,3 mg | 7,6 mg |
+| Vitamina D | 10 µg | 8 µg |
+| Sódio | 230 mg | 182 mg |
+| kcal por 100 ml preparado | 67 | 67 |
+
+As duas fórmulas contêm lactose e leite. O Aptanutri declara também ovo e peixe, e pode conter soja. A Danone destaca na página o ácido palmítico na posição beta-2 e o DHA e o ARA "ligados ao fosfolipídio". São características de formulação que o fabricante cita; não as comparamos. Pela lista de ingredientes da página da Mundo Danone, o Aptanutri começa por lactose, leite parcialmente desnatado, proteína de soro do leite, óleos vegetais (girassol alto oleico, canola, girassol e palma), maltodextrina, GOS e FOS. O ovo e o peixe dos alérgenos vêm de dois itens da lista: fosfolipídeos do ovo e óleo de peixe. O ARA vem de óleo de Mortierella alpina.
+
+A tabela da Danone não diz com qual diluição foi calculada a coluna "por 100 ml". Por isso, compare as colunas "por 100 g" entre si, que não dependem do preparo.
+
+### Preparo: o que cada lata manda
+
+O Nanlac usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Aptanutri usa uma colher-medida de cerca de 5,0 g para cada 30 ml de água. Segundo a página da Danone, a água é previamente fervida, a 70 °C. Siga a temperatura que está na lata.
+
+| Item | Nanlac Supreme Pro | Aptanutri Profutura 3 |
+|---|---|---|
+| Proporção | 14,1 g de pó + 90 ml de água = 100 ml | 1 colher-medida (cerca de 5,0 g) para 30 ml de água |
+| Colher-medida | 4,7 g | Cerca de 5,0 g |
+| Água | Ferver 5 min e esperar cerca de 15 min, até 70 °C | Previamente fervida, a 70 °C (página da Danone) |
+| Lata aberta | Consumir em até 30 dias | Não refrigerar, conservar a lata bem fechada em local seco e fresco e consumir em até 30 dias |
+
+Siga sempre as medidas da lata que está em casa, sem aumentar nem diminuir o pó. Preparo errado é risco, e a quantidade por dia é assunto para o pediatra.
+
+### Quanto rende a lata e quanto custa o litro
+
+A Danone informa que a lata de 800 g da Profutura 3 rende 5.333 ml. Pela proporção de 14,1 g a cada 100 ml, o Nanlac rende cerca de 5,7 litros (conta nossa). Dividindo o preço de 17/10/2026 pelo rendimento (conta nossa):
+
+| Fórmula | Preço da lata | Rendimento | Preço por litro preparado |
+|---|---|---|---|
+| Nanlac Supreme Pro (Nestlé Nutre) | R$ 95,53 | cerca de 5,7 L | cerca de R$ 16,84 |
+| Aptanutri Profutura 3 (Mundo Danone) | R$ 107,59 | 5,3 L (informado pela Danone) | cerca de R$ 20,17 |
+
+É uma conta de referência. O rendimento real depende de como se mede o pó. O rendimento de 5,3 litros do Aptanutri Profutura 3 é o publicado na página da Danone.
+
+### Para quem cada uma faz sentido, pelo rótulo
+
+A decisão sobre qual fórmula dar a uma criança é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:
+
+- Quem procura HMO no rótulo encontra quatro no Nanlac Supreme Pro. No Aptanutri, procure a versão Profutura Gold 3, que declara o 2'FL.
+- Quem procura prebióticos GOS e FOS e nucleotídeos na tabela encontra os três no Aptanutri Profutura 3.
+- Quem compara proteína, DHA e ARA por 100 g vê números maiores no Nanlac nas três linhas.
+- Quem compara preço por litro preparado paga menos no Nanlac, com os preços de 17/10/2026.
+- Quem compara açúcares adicionados vê 31 g por 100 g no Nanlac e 33 g no Aptanutri Profutura 3.
+- Quem precisa evitar leite, lactose, soja, ovo ou peixe deve ler o alergênico no rótulo da lata. As duas fórmulas contêm leite e lactose, e só o Aptanutri declara ovo e peixe.
+
+Lotes específicos do Nanlac Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos).
+
+### Onde comprar e quanto custa
+
+Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante.
+
+| Fórmula | Loja | Preço |
+|---|---|---|
+| Nanlac Supreme Pro 800 g | Nestlé Nutre | R$ 95,53 (de R$ 112,39) |
+| Nanlac Supreme Pro, combo leve 5 pague 4 | Nestlé Nutre | R$ 449,56 (conta nossa: R$ 89,91 por lata) |
+| Aptanutri Profutura 3 800 g | Mundo Danone | R$ 107,59 |
+| Aptanutri Profutura Gold 3 800 g | Mundo Danone | R$ 119,49 |
+
+O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. O Nanlac Supreme Pro, de 1 a 3 anos, não está nessas exceções. O CECI não vale no Aptanutri, que é de outra loja e outra marca. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).
+
+A Danone avisa na página que a embalagem é nova e que o cliente ainda pode receber a embalagem antiga.
+
+Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
+
+### Perguntas frequentes
+
+- Nanlac Supreme Pro ou Aptanutri Profutura: qual escolher? Não há resposta única. O rótulo do Nanlac declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O do Aptanutri Profutura 3 declara GOS, FOS e nucleotídeos. A escolha é do pediatra ou nutricionista, e o preço por litro preparado pesa para quem compara custo.
+- O Aptanutri Profutura 3 tem HMO? A página da Danone para a Profutura 3 não declara HMO. A Profutura Gold 3 traz o HMO 2'FL adicionado, sem informar a quantidade.
+- Aptanutri Profutura 3 e Profutura Gold 3 são o mesmo produto? Não. A Danone vende as duas latas de 800 g, com tabelas e preços diferentes. A Gold 3 tem 2'FL e custava R$ 119,49 em 17/10/2026, contra R$ 107,59 da Profutura 3.
+- O Aptanutri é fórmula infantil ou composto lácteo? É fórmula infantil de seguimento para a primeira infância, de 1 a 3 anos, segundo a Danone.
+- Nanlac e Aptanutri servem para menores de 1 ano? Não. As duas páginas oficiais avisam que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.
+- Quanto rende a lata de 800 g? O Nanlac Supreme Pro rende cerca de 5,7 litros (conta nossa, com as medidas do rótulo). A Danone informa 5,3 litros para a Profutura 3.
+
+### Nota de transparência
+
+Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. O Aptanutri não tem link nem código nosso. Fontes: páginas de produto da Nestlé Nutre (Nanlac, preço e tabela), páginas da Danone (mundodanone.com.br, danonenutricia.com.br e danonehealthacademy.com.br, Aptanutri), todas lidas em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar.

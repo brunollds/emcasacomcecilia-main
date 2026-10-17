@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "comparativos"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 52
 score_conversao: 48
@@ -208,3 +208,126 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Recorte: Supreme Pro × Comfor HMO (a loja não vende mais o Supreme sem Pro; Supreme × Supreme Pro já está no artigo-base). Ajustar título e slug na redação se o Bruno não pedir outro: `nanlac-supreme-pro-ou-comfor`.
 - Comfor HMO na Nestlé Nutre (17/10/2026): de R$ 81,59 por R$ 69,35; combo 4 unidades R$ 261,09. Por 100 g / 100 ml: 474/67 kcal; lactose 45/6,4 g; proteínas 8,8/1,2 g; gorduras 22/3,1 g; DHA 50/7,1 mg; ARA 50/7,1 mg; fibra 2,9 g/100 g (GOS 2,6; FOS 0,3); nucleotídeos 16 mg/100 g; cálcio 600/85 mg; ferro 8,5/1,2 mg; vit D 11/1,6 µg. A tabela não traz HMO em gramas apesar do nome: não afirmar quantidade de HMO do Comfor. Alérgicos: derivado de soja e peixe, leite; contém lactose; sem glúten. Lata aberta: 30 dias.
 - O Comfor também tem lotes na RE 32/2026: o mesmo tratamento (uma frase e o link para a seção do artigo-base).
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+O Nanlac Supreme Pro e o Nanlac Comfor HMO são duas fórmulas infantis de primeira infância da Nestlé, de 1 a 3 anos, em lata de 800 g. Pelo rótulo, o Supreme Pro declara quatro HMOs, mais proteína e mais DHA e ARA por 100 g. O Comfor declara um HMO, o 2'-fucosilactose (2'-FL), além de fibras prebióticas (GOS e FOS) e nucleotídeos. Na Nestlé Nutre, em 17/10/2026, o Supreme Pro custava R$ 95,53 e o Comfor R$ 69,35. Os dois contêm leite, lactose e derivados de soja, e nenhum contém glúten. Qual fórmula usar é conversa para ter com o pediatra ou nutricionista.
+
+### Duas latas da Nestlé para a mesma faixa
+
+As duas são fórmulas infantis de primeira infância, vendidas na Nestlé Nutre e com o mesmo aviso: não devem ser usadas para alimentar crianças menores de 1 (um) ano de idade. Não são leite em pó nem composto lácteo.
+
+> AVISO: O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.
+
+O Comfor declara um HMO, o 2'-FL, com 0,2 g por 100 g de pó. O Supreme Pro declara quatro: 2'-FL, LNT, 3'-SL e 6'-SL.
+
+| Item | Nanlac Supreme Pro | Nanlac Comfor HMO |
+|---|---|---|
+| Faixa de idade | 1 a 3 anos | 1 a 3 anos |
+| Embalagem | Lata de 800 g | Lata de 800 g |
+| Contém | Leite e derivados, derivados de soja, lactose | Leite e derivados, derivados de soja, lactose |
+| Glúten | Não contém | Não contém |
+| Lata aberta | Consumir em até 30 dias | Até 30 dias |
+
+A ficha completa do Supreme Pro está no guia do produto. Aqui ficam só as diferenças.
+
+### O que cada rótulo declara
+
+Os números do Supreme Pro vêm da página da Nestlé Nutre. Os do Comfor vêm do verso da lata de 800 g, lido na galeria de fotos da Nestlé Nutre em 17/10/2026. A tabela em texto da página da loja traz números um pouco diferentes da lata, e usamos o rótulo impresso na lata. A comparação é só do que está impresso e não diz qual fórmula "faz mais" por uma criança.
+
+| Por 100 g de pó | Supreme Pro | Comfor HMO |
+|---|---|---|
+| Valor energético | 477 kcal | 480 kcal |
+| Proteínas | 10 g | 9,3 g |
+| Gorduras totais | 21 g | 22 g |
+| Açúcares adicionados | 31 g | 5,1 g |
+| DHA | 85 mg | 50 mg |
+| ARA | 85 mg | 50 mg |
+| HMO | 4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados (conta nossa) | 1 (2'-FL), 0,2 g |
+| Fibras | 0,3 g | 3,1 g (GOS 2,6 g, FOS 0,3 g e 2'-FL 0,2 g) |
+| Nucleotídeos | Não consta na tabela | 16 mg |
+| Cálcio | 570 mg | 500 mg |
+| Ferro | 8,3 mg | 8,5 mg |
+| Vitamina D | 10 µg | 7 µg |
+| kcal por 100 ml preparado | 67 | 68 |
+
+Na coluna "por 100 ml", as proteínas são 1,4 g no Supreme Pro e 1,3 g no Comfor. As calorias dos dois são praticamente iguais. A lista de ingredientes do Comfor começa por soro de leite desmineralizado, leite desnatado, maltodextrina, oleína de palma e GOS, e inclui a 2'-fucosilactose.
+
+### Alérgenos
+
+A lata do Comfor diz: "CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN." As duas fórmulas contêm leite, lactose e derivados de soja. No Comfor, o DHA vem de óleo de Schizochytrium sp. (alga) e o ARA de óleo de Mortierella alpina, segundo a lista de ingredientes. No Supreme Pro, o DHA e o ARA vêm de óleos de microrganismos, segundo a lista de ingredientes. Quem tem alergia ou intolerância deve ler o rótulo da lata e falar com o pediatra. Nenhuma das duas é sem lactose.
+
+### Preparo e rendimento
+
+O Supreme Pro usa 14,1 g de pó para 90 ml de água, que rendem 100 ml, com colher-medida de 4,7 g. O Comfor usa as mesmas medidas, segundo o rótulo: 14,1 g de pó com 90 ml de água rendem 100 ml, a colher-medida tem 4,7 g e cada colher rasa vai em 30 ml de água. Para um copo de 210 ml, são 7 medidas rasas.
+
+Nos dois, a água é fervida por 5 minutos e esfriada até 70 °C na hora de misturar. A lata do Comfor manda conferir a temperatura no punho, em cerca de 40 °C, antes de oferecer.
+
+| Cálculo | Supreme Pro | Comfor HMO |
+|---|---|---|
+| Pó por 100 ml preparado | 14,1 g | 14,1 g |
+| Rendimento de 800 g | cerca de 5,7 L (conta nossa) | cerca de 5,7 L (conta nossa) |
+| Preço da lata, Nestlé Nutre, 17/10/2026 | R$ 95,53 | R$ 69,35 |
+| Preço por litro preparado | cerca de R$ 16,84 (conta nossa) | cerca de R$ 12,22 (conta nossa) |
+
+É uma conta de referência: a quantidade real depende de como se mede o pó. Siga as medidas da lata.
+
+### Para quem cada uma faz sentido, pelo rótulo
+
+A decisão é do pediatra ou nutricionista. Olhando só o que cada rótulo declara:
+
+- Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.
+- Quem procura GOS, FOS e nucleotídeos na tabela encontra os três no Comfor.
+- Quem compara proteína, DHA e ARA por 100 g vê números maiores no Supreme Pro.
+- Quem compara açúcares adicionados vê 31 g por 100 g no Supreme Pro e 5,1 g no Comfor.
+- Quem compara preço por litro preparado paga menos no Comfor, com os preços de 17/10/2026.
+
+Lotes específicos do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Antes de usar uma lata comprada no começo do ano, veja como conferir o lote no [guia do Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos).
+
+### Recolhimento de janeiro: lotes do Comfor
+
+O Comfor 800 g também entrou no recolhimento de janeiro de 2026 (Anvisa, RE nº 32/2026). Estes são os lotes e as validades informados no comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):
+
+- Lote 5327046041, validade 01/11/2026
+- Lote 5327046043, validade 01/11/2026
+- Lote 5328046041, validade 01/11/2026
+- Lote 5336046041, validade 01/12/2026
+- Lote 5337046041, validade 01/12/2026
+- Lote 5338046041, validade 01/12/2026
+
+Se o lote da sua lata estiver na lista, não use e fale com o SAC da Nestlé.
+
+### Onde comprar e quanto custa
+
+Preços da Nestlé Nutre, loja oficial, em 17/10/2026:
+
+| Produto | Preço |
+|---|---|
+| Nanlac Supreme Pro 800 g | R$ 95,53 (de R$ 112,39) |
+| Nanlac Supreme Pro, combo leve 5 pague 4 | R$ 449,56 (conta nossa: R$ 89,91 por lata) |
+| Nanlac Comfor HMO 800 g | R$ 69,35 (de R$ 81,59) |
+| Nanlac Comfor HMO, combo com 4 unidades | R$ 261,09 (conta nossa: R$ 65,27 por lata) |
+
+O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na [página da Nestlé Nutre](/cupons/nestle-nutre).
+
+Preço e desconto mudam. O valor que vale é o da loja no momento da compra.
+
+### Perguntas frequentes
+
+- Nanlac Supreme Pro ou Comfor: qual escolher? Não há resposta única. O Supreme Pro declara 4 HMOs e mais proteína, DHA e ARA por 100 g. O Comfor declara 1 HMO, GOS, FOS e nucleotídeos e custa menos por lata. A escolha é do pediatra ou nutricionista.
+- O Nanlac Comfor tem HMO? Tem um: o 2'-fucosilactose (2'-FL), com 0,2 g por 100 g, segundo o verso da lata. O Supreme Pro declara quatro HMOs.
+- Nanlac Comfor é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre.
+- Nanlac Comfor e Supreme Pro servem para menores de 1 ano? Não. As páginas da Nestlé Nutre trazem o aviso de que o produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.
+- O Comfor contém lactose, leite e soja? Contém lactose, leite e derivados de soja, segundo a lata. Não contém glúten.
+- Quanto tempo dura a lata aberta? O rótulo do Comfor indica até 30 dias, e o rótulo do Supreme Pro diz o mesmo.
+
+### Nota de transparência
+
+Este é um guia de parceria comissionada: o Em Casa com Cecília pode receber comissão por compras na Nestlé Nutre com o código CECI. Fonte: páginas de produto da Nestlé Nutre e rótulo da lata do Comfor na galeria da loja, lidos em 17/10/2026. Não recebemos nem usamos os produtos. Preço e desconto mudam: confira antes de comprar.

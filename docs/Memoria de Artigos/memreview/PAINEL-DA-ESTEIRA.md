@@ -7,12 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 52 / Conv: 50)
-- [ ] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 52 / Conv: 48)
-- [ ] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 42 / Conv: 30, recalcular com a comparação fórmula × fórmula)
-- [ ] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
-- [ ] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (score a calcular com o rótulo do Nutridrink)
-- [ ] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 (Score Aut: 60 / Conv: 55)
 - [ ] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Score Aut: 58 / Conv: 66)
 - [ ] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Espresso e Espresso Intenso; score a calcular)
 - [ ] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (score a calcular)
@@ -34,7 +28,12 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- *(Nenhum artigo no momento)*
+- [ ] [[nanlac-supreme-pro-ou-aptanutri-profutura]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[nanlac-supreme-pro-ou-comfor]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[nanlac-supreme-ou-ninho-fases]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[nutren-a-z-ou-centrum]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[nutren-senior-ou-nutridrink]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[isosource-1-5-ou-trophic-1-5]] — Nestlé Nutre, comparativo 1 a 1 de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
 
 ---
 

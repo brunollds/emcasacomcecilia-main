@@ -8,9 +8,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 42
 score_conversao: 30
@@ -216,3 +216,126 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Ninho Fases 1+: a página atual da Nestlé Nutre diz "fórmula de primeira infância desenvolvida especialmente para fase de 1 a 3 anos". A comparação é **fórmula com fórmula** (não fórmula × composto lácteo): HMO, DHA e ARA do Nanlac × prebióticos (FOS e inulina) do Ninho, proteína, açúcares e preço por 100 g. Composto lácteo é o Fases 3+, que fica de fora. O título provisório que fala em "fórmula ou composto lácteo" cai.
 - Ninho Fases 1+ na Nestlé Nutre (17/10/2026): 400 g de R$ 28,29 por R$ 22,63; 800 g de R$ 58,19 por R$ 49,46; 1,2 kg de R$ 82,99 por R$ 62,24. Por 100 g / 100 ml: 468/65 kcal; proteínas 13/1,8 g; açúcares totais 42/5,8 g (adicionados 4,2/0,6); gorduras 21/2,9 g; fibras 5,8/0,8 g (FOS 4,1; inulina 1,7 por 100 g); cálcio 525/72 mg; ferro 7,4/1 mg; vit D 9,7/1,3 µg. Sem DHA, ARA nem HMO na tabela. Preparo 13,8 g + 90 ml = 100 ml (colher 4,6 g). Alérgicos: leite, derivados de soja; contém lactose; sem glúten.
 - O guia `guia-linha-ninho-nestle-leite-vs-composto-lacteo` (no ar) recebe o link; conferir se ele chama o Fases 1+ de composto lácteo e, se chamar, apontar a divergência ao Bruno (correção em PR separado).
+
+## Aprovação do texto (17/10/2026)
+
+- Texto aprovado pelo Bruno em 17/10/2026 ("1. ok").
+- Rótulos do concorrente lidos no Chrome em 17/10/2026 nas lojas oficiais ou em grandes redes (registro em `scratchpad/rotulos-concorrentes-1710.md` da sessão): galeria da Nestlé Nutre (Comfor e Ninho, lata nova), acordeões da Mundo Danone (Aptanutri e Nutridrink), Drogasil (Centrum) e fotos oficiais da Prodiet na Droga Raia (Trophic).
+- Fórmulas infantis: um só aviso do Ministério da Saúde, na primeira seção (decisão do Bruno). Comfor: seção com os lotes do recolhimento (decisão do Bruno).
+- JSON montado no PR dos comparativos; imagens novas no CDN em 17/10/2026.
+
+## Texto aprovado
+
+O Nanlac Supreme Pro e o Ninho Fases 1+ são fórmulas infantis de seguimento da Nestlé para crianças de 1 a 3 anos. Pelo rótulo, a diferença está nos ingredientes funcionais que cada uma declara: o Nanlac traz quatro HMOs, DHA e ARA; o Ninho traz os prebióticos FOS e inulina, e o rótulo dele não mostra DHA, ARA nem HMO. O Ninho tem bem menos açúcares adicionados e mais proteína por 100 g, e, na Nestlé Nutre em 17/10/2026, custa cerca da metade por 100 g (conta nossa).
+
+### Os dois produtos lado a lado
+
+> AVISO: O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.
+
+Os dois são de primeira infância e nenhum deve ser usado para alimentar crianças menores de 1 ano. Segundo a lata, o Ninho Fases 1+ é "fórmula infantil de seguimento para crianças de primeira infância", de 1 a 3 anos. Para entender como a Nestlé separa leite, composto lácteo e fórmula na linha Ninho, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo).
+
+| Item | Nanlac Supreme Pro | Ninho Fases 1+ |
+|---|---|---|
+| Denominação | Fórmula infantil de primeira infância | Fórmula infantil de seguimento para crianças de primeira infância (segundo a lata) |
+| Faixa de idade | 1 a 3 anos | 1 a 3 anos |
+| Menores de 1 ano | Não deve ser usado | Aviso impresso na lata |
+| Embalagens na Nestlé Nutre | Lata de 800 g | Latas de 400 g, 800 g e 1,2 kg |
+| Destaque do rótulo | 4 HMOs, DHA e ARA | Prebióticos (FOS e inulina) |
+
+Os lotes do Nanlac Supreme Pro 800 g citados no recolhimento de janeiro de 2026 são só alguns, e a conferência do lote está no [artigo sobre o Nanlac Supreme Pro](/reviews/nanlac-supreme-pro-1-a-3-anos).
+
+### HMO, DHA e ARA contra prebióticos: o que cada rótulo declara
+
+O Nanlac Supreme Pro declara quatro oligossacarídeos do leite humano (HMOs): 2'-FL, LNT, 3'-SL e 6'-SL. Declara também ARA e DHA, obtidos de óleos de microrganismos, com 85 mg de cada um por 100 g de pó.
+
+O Ninho Fases 1+ declara dois prebióticos: fruto-oligossacarídeos (FOS), 2,7 g por 100 g, e inulina, 1,2 g por 100 g. A Nestlé descreve prebióticos como fibras não digeríveis. O rótulo do Ninho não traz DHA, ARA nem HMO.
+
+| Ingrediente declarado | Nanlac Supreme Pro (100 g de pó) | Ninho Fases 1+ (100 g de pó) |
+|---|---|---|
+| HMOs (2'-FL, LNT, 3'-SL, 6'-SL) | 0,2 g, 0,1 g, 0,04 g e 0,03 g | Não consta |
+| DHA | 85 mg | Não consta |
+| ARA | 85 mg | Não consta |
+| FOS | Não consta | 2,7 g |
+| Inulina | Não consta | 1,2 g |
+| Fibras alimentares | 0,3 g | 3,9 g |
+
+Este texto só compara o que está declarado. Não há aqui comparação de efeito entre os dois, e dúvida sobre qual fórmula a criança deve tomar é conversa para o pediatra ou nutricionista.
+
+### Tabela nutricional lado a lado
+
+Os números abaixo vêm do rótulo do Nanlac Supreme Pro, lido na página da Nestlé Nutre em 17/10/2026, e do verso da lata nova do Ninho Fases 1+ ("Nova embalagem"), lido na galeria de fotos da Nestlé Nutre na mesma data. A tabela em texto da página da loja é de uma versão anterior, antes da troca do óleo de milho pelo de soja que a própria Nestlé informa, e usamos a lata nova. "100 ml preparado" é a diluição de 14,1 g de pó em 90 ml de água no Nanlac e de 13,8 g em 90 ml no Ninho.
+
+| Por | Nanlac, 100 g | Ninho, 100 g | Nanlac, 100 ml | Ninho, 100 ml |
+|---|---|---|---|---|
+| Valor energético | 477 kcal | 465 kcal | 67 kcal | 69 kcal |
+| Carboidratos | 63 g | 55 g | 8,8 g | 8,1 g |
+| Açúcares totais | 61 g | 42 g | 8,6 g | 6,2 g |
+| Açúcares adicionados | 31 g | 1,5 g | 4,4 g | 0,2 g |
+| Proteínas | 10 g | 12 g | 1,4 g | 1,8 g |
+| Gorduras totais | 21 g | 21 g | 2,9 g | 3,1 g |
+| Cálcio | 570 mg | 476 mg | 80 mg | 70 mg |
+| Ferro | 8,3 mg | 7,4 mg | 1,2 mg | 1,1 mg |
+| Vitamina D | 10 µg | 9,7 µg | 1,4 µg | 1,4 µg |
+
+Calorias e gorduras ficam muito próximas. As diferenças maiores estão nos açúcares adicionados (31 g contra 1,5 g por 100 g de pó) e na proteína (10 g contra 12 g). Esses são dois números para levar à conversa com o pediatra.
+
+### Preparo e porção
+
+O preparo é o mesmo nos dois, com medidas parecidas: água fervida por 5 minutos, resfriada por cerca de 15 minutos até 70 °C, colher-medida sempre rasa e temperatura conferida no punho (cerca de 40 °C) antes de oferecer. Siga a lata, sem aumentar nem diminuir o pó.
+
+| Medida | Nanlac Supreme Pro | Ninho Fases 1+ |
+|---|---|---|
+| Pó para 100 ml | 14,1 g (com 90 ml de água) | 13,8 g (com 90 ml de água) |
+| Colher-medida | 4,7 g | 4,6 g |
+| Água por colher rasa | 30 ml | 30 ml |
+| Copo de 210 ml | 7 colheres rasas (32,9 g) | 7 colheres rasas (32,2 g) |
+
+O rótulo do Nanlac manda não guardar o que sobra e, se for absolutamente necessário, refrigerar abaixo de 5 °C por no máximo 24 horas. O Ninho segue a mesma orientação na página da Nestlé. Depois de aberta, a lata do Nanlac pede consumo em até 30 dias, e a do Ninho, em até 4 semanas, segundo a lata.
+
+### Ingredientes e alérgenos
+
+A lata do Ninho diz: "CONTÉM LEITE E DERIVADOS E DERIVADOS DE SOJA. CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN." O Nanlac também contém leite, derivados de soja e lactose e declara não conter glúten. Nenhum dos dois serve para quem precisa evitar leite, soja ou lactose.
+
+A ordem dos ingredientes é diferente. O Nanlac começa por lactose, soro de leite desmineralizado, oleína de palma e leite desnatado. O Ninho começa por leite parcialmente desnatado, permeado de soro de leite desmineralizado e maltodextrina, e traz óleo de soja, oleína de palma e óleo de canola com baixo teor erúcico.
+
+- Nanlac Supreme Pro: lactose, soro de leite desmineralizado, leite desnatado, proteína concentrada do soro de leite, óleos de palma, palmiste, canola e milho, óleos de ARA e DHA, quatro HMOs, lecitina de soja.
+- Ninho Fases 1+, segundo a lata: leite parcialmente desnatado, permeado de soro de leite desmineralizado, maltodextrina, soro de leite, óleo de soja, oleína de palma, FOS, concentrado proteico de soro de leite, inulina, óleo de canola com baixo teor erúcico, vitaminas e minerais, lecitina.
+
+### Preço por base igual
+
+Preços da Nestlé Nutre, loja oficial, em 17/10/2026, sem cupom:
+
+| Produto | Preço (de tabela) | Por 100 g | Por 100 ml preparado | Por copo de 210 ml |
+|---|---|---|---|---|
+| Nanlac Supreme Pro, 800 g | R$ 95,53 (de R$ 112,39) | R$ 11,94 | R$ 1,68 | R$ 3,93 |
+| Ninho Fases 1+, 400 g | R$ 22,63 (de R$ 28,29) | R$ 5,66 | R$ 0,78 | R$ 1,82 |
+| Ninho Fases 1+, 800 g | R$ 49,46 (de R$ 58,19) | R$ 6,18 | R$ 0,85 | R$ 1,99 |
+| Ninho Fases 1+, 1,2 kg | R$ 62,24 (de R$ 82,99) | R$ 5,19 | R$ 0,72 | R$ 1,67 |
+
+Contas nossas: preço dividido pelo peso da lata, e depois pelas medidas do rótulo de cada produto (14,1 g por 100 ml no Nanlac, 13,8 g no Ninho). Na lata de 800 g, o Nanlac fica em R$ 11,94 por 100 g contra R$ 6,18 do Ninho, cerca de 1,9 vez. Na Nestlé Nutre, o Ninho de 800 g saiu mais caro por 100 g do que o de 400 g e o de 1,2 kg. O Nanlac tem ainda o combo "leve 5, pague 4" por R$ 449,56 (conta nossa: R$ 89,91 por lata).
+
+O CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos são de 1 a 3 anos e não estão nas exceções, mas confira o valor final no resumo do pedido antes de pagar. As condições vigentes ficam na [página da Nestlé Nutre](/cupons/nestle-nutre). Preço e desconto mudam, e o que vale é o da loja no momento da compra.
+
+### Para quem cada um faz sentido, pelo rótulo
+
+A escolha entre as duas é do pediatra e da família. Pelo que cada rótulo mostra, estes são os perfis:
+
+- Quem quer uma fórmula com HMOs, DHA e ARA declarados no rótulo: o Nanlac Supreme Pro é o que traz esses itens.
+- Quem prefere menos açúcares adicionados na tabela, mais proteína por 100 g e prebióticos declarados: o Ninho Fases 1+ é o que traz esses números.
+- Quem compara preço por 100 g ou por copo: o Ninho Fases 1+ ficou mais barato na loja oficial em 17/10/2026.
+- Quem tem restrição a leite, soja ou lactose: nenhum dos dois, pelos alérgenos declarados.
+
+Antes de trocar de fórmula, converse com o pediatra ou nutricionista.
+
+### Perguntas frequentes
+
+- Nanlac ou Ninho Fases 1+? As duas são fórmulas infantis de seguimento para 1 a 3 anos. O Nanlac Supreme Pro declara HMOs, DHA e ARA; o Ninho Fases 1+ declara prebióticos (FOS e inulina) e tem bem menos açúcares adicionados por 100 g.
+- Ninho Fases 1+ é fórmula ou composto lácteo? Segundo a lata, é fórmula infantil de seguimento para crianças de primeira infância. O composto lácteo da linha é o Ninho Fases 3+, para crianças a partir de 3 anos.
+- Ninho Fases 1+ tem DHA ou ARA? O rótulo da lata não declara DHA nem ARA. O Nanlac Supreme Pro declara os dois.
+- Quanto custa o Ninho Fases 1+? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 49,46 (de R$ 58,19), a de 400 g em R$ 22,63 e a de 1,2 kg em R$ 62,24.
+- Quanto custa o Nanlac Supreme Pro? Na Nestlé Nutre, em 17/10/2026, a lata de 800 g estava em R$ 95,53 (de R$ 112,39).
+- Menor de 1 ano pode tomar? Não. Os dois são de 1 a 3 anos e não devem ser usados para alimentar crianças menores de 1 ano.
+
+### Nota de transparência
+
+Este é um guia de leitura de rótulo e de preço, sem teste de uso. Fontes: rótulo do Nanlac Supreme Pro e páginas da Nestlé Nutre, rótulo da lata nova do Ninho Fases 1+ na galeria da Nestlé Nutre e páginas do Ninho da Nestlé, lidos em 17/10/2026. O Em Casa com Cecília tem parceria comercial com a Nestlé Nutre e pode receber comissão por compras com o CECI.
