@@ -98,7 +98,7 @@ assert.deepEqual(getHomeStoreSelectParameters(CECILIA_TAB_ID), { store: 'cecilia
 
 // Abas com fixture: ordem, limite de 3, total, "do Magalu" e o link para todos os artigos.
 const [magaluTab] = getHomeStoreTabs(fixtureReviews, [store('magalu')]);
-assert.deepEqual(magaluTab.articles.map(({ slug }) => slug), ['novo', 'meio', 'mais-um']);
+assert.deepEqual(magaluTab.articles.map(({ slug }) => slug), ['novo', 'meio', 'mais-um', 'antigo'], 'até 6 artigos, do mais novo');
 assert.equal(magaluTab.total, 4);
 assert.equal(magaluTab.listTitle, 'Artigos do Magalu');
 assert.equal(magaluTab.storeLinkLabel, 'Ir para o Magalu');
@@ -215,8 +215,8 @@ for (const current of tabs) {
   assert.equal(current.total, expected.length, `${current.slug}: total`);
   assert.deepEqual(
     current.articles.map(({ slug }) => slug),
-    expected.slice(0, 3).map(({ slug }) => slug),
-    `${current.slug}: os 3 mais novos`
+    expected.slice(0, 6).map(({ slug }) => slug),
+    `${current.slug}: os 6 mais novos`
   );
   for (const article of current.articles) {
     assert.equal(article.href, `/reviews/${article.slug}`);

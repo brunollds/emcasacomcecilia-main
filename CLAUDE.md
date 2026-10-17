@@ -273,6 +273,8 @@ vídeo, primeiras impressões e uso noturno.
   sem artigo no fim). `/reviews`, "Outras lojas" e a Outros usam a mesma função (a Outros segue por último). A faixa
   é uma linha só que rola, no celular e no computador, com setas nas pontas a partir de `md` (`useRowScroll`). A
   home abre na primeira loja da faixa (`getDefaultTabId`), a do artigo mais novo; até 16/10 abria na DAMIE.
+  A aba lista até 6 artigos (`VISIBLE_ARTICLES`, a altura do card de destaque no computador); no celular, os
+  4 primeiros (`MOBILE_VISIBLE_ARTICLES`).
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.

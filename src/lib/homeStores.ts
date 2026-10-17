@@ -17,7 +17,9 @@ import { ofStore, theStore } from '@/lib/storeNames';
 
 export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
 
-const VISIBLE_ARTICLES = 3;
+// A vitrine traz até 6 artigos da loja: no computador a lista fica da altura do card de destaque; no
+// celular, sem o destaque, a lista mostra os 4 primeiros (MOBILE_VISIBLE_ARTICLES, em homeStoreTabs.ts).
+const VISIBLE_ARTICLES = 6;
 const MIN_ARTICLES_FOR_PAGE = 3;
 const LATEST_LIMIT = 5;
 const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;

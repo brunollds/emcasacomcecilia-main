@@ -4,6 +4,8 @@ import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
 // daqui; os dados das lojas chegam prontos de homeStores.ts, que fica no servidor.
 
 export const CECILIA_TAB_ID = 'cecilia';
+// No celular a lista de artigos da loja mostra só os primeiros; os outros ficam para o computador.
+export const MOBILE_VISIBLE_ARTICLES = 4;
 
 export type HomeStoreArticle = {
   slug: string;

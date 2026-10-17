@@ -126,7 +126,8 @@ e com `locale` português ou sem `locale`) aparece:
 - **no "Acabou de sair"**, se estiver entre os 5 mais novos por `publishedAtISO`, com desempate
   pelo maior `id` (`getHomeLatest`, em `src/lib/homeStores.ts`). Não há teto por categoria;
 - **na aba da loja, na vitrine**, se o `affiliate` for o slug de uma loja ativa de
-  `src/lib/couponsData.ts`: a aba mostra os 3 mais novos da loja. Loja com 3 artigos ou mais ganha
+  `src/lib/couponsData.ts`: a aba mostra os 6 mais novos da loja no computador e os 4 mais novos no
+  celular; a loja do artigo mais novo vai para a frente da faixa. Loja com 3 artigos ou mais ganha
   a subpágina `/reviews/loja/<slug>`, com todos;
 - **na faixa de uma data comercial**, durante a campanha, se o slug estiver entre os 4 primeiros
   do `articleSlugs` da edição em `content/home-events.json`, na ordem do arquivo. A página da
