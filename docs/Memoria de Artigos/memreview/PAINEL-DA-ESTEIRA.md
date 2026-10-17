@@ -114,10 +114,20 @@
 - [x] [[black-friday-lejour]] — Lejour / Guia de Black Friday 2026 (No ar em 15/10/2026, PR #110, release `fd723c7`; Score Aut: 40 / Conv: 55) 🚀
 - [x] [[clea-store-aniversario-14-anos-t-shirt-brinde]] — Cléa Store / Aniversário de 14 anos: T-Shirt de brinde até 18/10 com o cupom (No ar em 15/10/2026, PR #116, release `2480c36`; Score Aut: 45 / Conv: 80; virar promoção encerrada depois de 18/10) 🚀
 - [x] [[promocao-insider-selecao-com-cupom]] — Insider / Promoção Insider: 20 peças da seleção com o cupom, até 31/10, endereço fixo atualizado todo mês (No ar em 15/10/2026, PR #119, release `86aaeae`; Score Aut: 45 / Conv: 85; atualizar a seleção em novembro) 🚀
-- [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
-- [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
-- [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
-- [[melatonina-liquida-iws-ficha-tecnica]] ✅
+- [x] [[cupom-ceci-nescafe-dolce-gusto-como-usar]] — Dolce Gusto / Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026) (No ar em 19/06/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[tabela-medidas-dolce-gusto-ml-por-nivel]] — Dolce Gusto / Tabela de medidas Dolce Gusto: quantos ml saem em cada nível? (No ar em 02/08/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[assinatura-dolce-gusto-como-funciona]] — Dolce Gusto / Assinatura Dolce Gusto: como funciona, regras e como cancelar (No ar em 03/08/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[aliv-head-gel-iws-mascara-termica-enxaqueca]] — I Wanna Sleep / Aliv Head Gel IWS: máscara térmica para dor de cabeça vale a pena? (No ar em 04/08/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[dolce-gusto-mini-me-2-0-vale-a-pena]] — Dolce Gusto / NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real (No ar em 12/08/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[melatonina-liquida-iws-ficha-tecnica]] — I Wanna Sleep / Melatonina Líquida IWS: o que saber antes de comprar (No ar em 20/08/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[dolce-gusto-vs-nespresso-qual-escolher]] — Dolce Gusto / Dolce Gusto ou Nespresso: Qual Cafeteira de Cápsula Escolher em 2026? (No ar em 05/09/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[skincare-coreano-30-anos-rotina-iniciante-yesstyle]] — YesStyle / Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle (No ar em 28/09/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[cupom-mauad-lets-eat-it-como-usar]] — Let's Eat It / Cupom Let's Eat It MAUAD: como usar o desconto de 5% (No ar em 03/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[lets-eat-it-e-confiavel]] — Let's Eat It / Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar (No ar em 03/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[lets-eat-it-reclame-aqui-nota-reputacao]] — Let's Eat It / Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram (No ar em 03/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[pillow-top-magnum-iws-colchao-dor-nas-costas]] — I Wanna Sleep / Pillow Top Magnum IWS vale a pena? Guia para colchão duro (No ar em 03/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[guia-linha-ninho-nestle-leite-vs-composto-lacteo]] — Nestlé Nutre / Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto (No ar em 04/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
+- [x] [[assinatura-dolce-gusto-vale-a-pena]] — Dolce Gusto / Assinatura Dolce Gusto vale a pena? Valor, cupom CECI e máquina grátis (No ar em 05/10/2026; nota trazida do checkout principal em 17/10/2026) 🚀
 
 - [x] [[probiotica-e-confiavel]] — Probiótica / Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; no ar em 14/10/2026, PR #93) 🚀
 - [x] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding; no ar em 14/10/2026, PR #93) 🚀
