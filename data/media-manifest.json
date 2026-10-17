@@ -43697,6 +43697,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65504,
+      "sha256": "e3f547504a7cbbc2cdd3e65d4ac446777f8f53ce9e961bf939488f010a3f232a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "storage_filename": "cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cafe-au-lait-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cafe-au-lait-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87255,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e3f547504a7cbbc2cdd3e65d4ac446777f8f53ce9e961bf939488f010a3f232a/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3f547504a7cbbc2cdd3e65d4ac446777f8f53ce9e961bf939488f010a3f232a/cafe-au-lait-desnatado-vanilla-dolce-gusto-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.159Z",
+      "verification_etag_or_digest": "e3f547504a7cbbc2cdd3e65d4ac446777f8f53ce9e961bf939488f010a3f232a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+      "local_url": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22082,
+      "sha256": "7d7ff3e1c6ea47760d5e29412af5edf89cc2b0b5638b938562419e905cb6be0a",
+      "width": 836,
+      "height": 669,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cafe-au-lait-dolce-gusto-xicara.webp",
+      "storage_filename": "cafe-au-lait-dolce-gusto-xicara.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cafe-au-lait-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cafe-au-lait-dolce-gusto.json",
+          "line": 129,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87362,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7d7ff3e1c6ea47760d5e29412af5edf89cc2b0b5638b938562419e905cb6be0a/cafe-au-lait-dolce-gusto-xicara.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7d7ff3e1c6ea47760d5e29412af5edf89cc2b0b5638b938562419e905cb6be0a/cafe-au-lait-dolce-gusto-xicara.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "7d7ff3e1c6ea47760d5e29412af5edf89cc2b0b5638b938562419e905cb6be0a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74398,
+      "sha256": "caea234287360f22f1311af6911ca7780ffdd6a479bb0f050a3cdfbb895c3027",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "caramelo-salgado-dolce-gusto-capa.webp",
+      "storage_filename": "caramelo-salgado-dolce-gusto-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/caramelo-salgado-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/caramelo-salgado-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87066,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/caea234287360f22f1311af6911ca7780ffdd6a479bb0f050a3cdfbb895c3027/caramelo-salgado-dolce-gusto-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/caea234287360f22f1311af6911ca7780ffdd6a479bb0f050a3cdfbb895c3027/caramelo-salgado-dolce-gusto-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "caea234287360f22f1311af6911ca7780ffdd6a479bb0f050a3cdfbb895c3027",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+      "local_url": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52454,
+      "sha256": "bfac73c4fe78d0c073c1720f534e293c38f82e5f76a2879affff53b980462972",
+      "width": 1021,
+      "height": 922,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "caramelo-salgado-dolce-gusto-xicara.webp",
+      "storage_filename": "caramelo-salgado-dolce-gusto-xicara.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/caramelo-salgado-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/caramelo-salgado-dolce-gusto.json",
+          "line": 39,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87083,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bfac73c4fe78d0c073c1720f534e293c38f82e5f76a2879affff53b980462972/caramelo-salgado-dolce-gusto-xicara.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bfac73c4fe78d0c073c1720f534e293c38f82e5f76a2879affff53b980462972/caramelo-salgado-dolce-gusto-xicara.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "bfac73c4fe78d0c073c1720f534e293c38f82e5f76a2879affff53b980462972",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
       "local_url": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
       "media_kind": "image",
@@ -44987,6 +45171,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
+      "local_url": "/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26654,
+      "sha256": "3066f68ac4ef13d09c17cf7cd04d2f4fe8d42b3b2ab91a87d8395125a1345a2b",
+      "width": 849,
+      "height": 546,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "espresso-dolce-gusto-xicara.webp",
+      "storage_filename": "espresso-dolce-gusto-xicara.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/espresso-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/espresso-dolce-gusto.json",
+          "line": 105,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86966,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/espresso-dolce-gusto-xicara.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3066f68ac4ef13d09c17cf7cd04d2f4fe8d42b3b2ab91a87d8395125a1345a2b/espresso-dolce-gusto-xicara.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3066f68ac4ef13d09c17cf7cd04d2f4fe8d42b3b2ab91a87d8395125a1345a2b/espresso-dolce-gusto-xicara.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "3066f68ac4ef13d09c17cf7cd04d2f4fe8d42b3b2ab91a87d8395125a1345a2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48366,
+      "sha256": "49a2e26ea15439326e6a4fa021cc1cbadeb5daba3bb69c1676392cfe3f28a488",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "storage_filename": "espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/espresso-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/espresso-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86883,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/49a2e26ea15439326e6a4fa021cc1cbadeb5daba3bb69c1676392cfe3f28a488/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/49a2e26ea15439326e6a4fa021cc1cbadeb5daba3bb69c1676392cfe3f28a488/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "49a2e26ea15439326e6a4fa021cc1cbadeb5daba3bb69c1676392cfe3f28a488",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/genio-s-basic-lateral.webp",
       "local_url": "/images/reviews/dolcegusto/genio-s-basic-lateral.webp",
       "media_kind": "image",
@@ -46141,6 +46417,98 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "6a558ee7e6d43359b3ef1b9ff06cfb6e71266734c7c3630d341529fc3c99e631",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53292,
+      "sha256": "c3b287990a6c9dcb21c78942a09b674d7e51cb64d1fab061fdb5e9d597e3e4a9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochaccino-canela-dolce-gusto-capa.webp",
+      "storage_filename": "mochaccino-canela-dolce-gusto-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochaccino-canela-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochaccino-canela-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86684,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c3b287990a6c9dcb21c78942a09b674d7e51cb64d1fab061fdb5e9d597e3e4a9/mochaccino-canela-dolce-gusto-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c3b287990a6c9dcb21c78942a09b674d7e51cb64d1fab061fdb5e9d597e3e4a9/mochaccino-canela-dolce-gusto-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "c3b287990a6c9dcb21c78942a09b674d7e51cb64d1fab061fdb5e9d597e3e4a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
+      "local_url": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23046,
+      "sha256": "7a73a0b697939df15d8269f57c1647e0a511c5a4afc2cf5b309c294336bd4dc2",
+      "width": 908,
+      "height": 661,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mochaccino-canela-dolce-gusto-xicara.webp",
+      "storage_filename": "mochaccino-canela-dolce-gusto-xicara.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mochaccino-canela-dolce-gusto.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mochaccino-canela-dolce-gusto.json",
+          "line": 39,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 86701,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/mochaccino-canela-dolce-gusto-xicara.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7a73a0b697939df15d8269f57c1647e0a511c5a4afc2cf5b309c294336bd4dc2/mochaccino-canela-dolce-gusto-xicara.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a73a0b697939df15d8269f57c1647e0a511c5a4afc2cf5b309c294336bd4dc2/mochaccino-canela-dolce-gusto-xicara.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-17T22:44:13.160Z",
+      "verification_etag_or_digest": "7a73a0b697939df15d8269f57c1647e0a511c5a4afc2cf5b309c294336bd4dc2",
       "verification_status": "verified"
     },
     {

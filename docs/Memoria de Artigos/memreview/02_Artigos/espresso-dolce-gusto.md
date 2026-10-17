@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Ficha de sabor"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 data_criacao: "2026-10-17"
 publicado_em: null

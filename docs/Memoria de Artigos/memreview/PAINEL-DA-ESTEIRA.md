@@ -7,10 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Score Aut: 58 / Conv: 66)
-- [ ] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (Espresso e Espresso Intenso; score a calcular)
-- [ ] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (score a calcular)
-- [ ] [[cafe-au-lait-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (com Desnatado e Vanilla; Score Aut: 55 / Conv: 62)
 
 ---
 
@@ -28,7 +24,10 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- *(Nenhum artigo no momento)*
+- [ ] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
+- [ ] [[cafe-au-lait-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 — texto aprovado em 17/10, JSON pronto, espera deploy
 
 ---
 
