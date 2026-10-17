@@ -16,6 +16,7 @@ import { trackEvent } from '@/lib/analytics';
 import { cardImageLook } from '@/lib/cardImage';
 import {
   CECILIA_TAB_ID,
+  MOBILE_VISIBLE_ARTICLES,
   getDefaultTabId,
   getHomeStoreSelectParameters,
   getTabAnchor,
@@ -135,8 +136,8 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
       aria-labelledby={titleId}
       className="carimbo grid overflow-hidden rounded-[14px] border-2 border-marinho shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-2 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
-      <div className="relative flex items-center gap-3.5 border-b-[3px] border-dashed border-marinho bg-laranja p-4 md:gap-5 md:border-r-[3px] md:border-b-0 md:px-7 md:py-6">
-        <span className="relative flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme md:size-[88px]">
+      <div className="relative flex items-center gap-3.5 border-b-[3px] border-dashed border-marinho bg-laranja p-4 md:gap-5 md:border-r-[3px] md:border-b-0 md:px-7 md:py-5">
+        <span className="relative flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme md:size-[76px]">
           <StoreMark tab={tab} imageClassName="h-1/2 w-[68%]" sizes="(min-width: 768px) 60px, 44px" />
         </span>
         <div className="flex min-w-0 flex-col gap-1.5">
@@ -152,11 +153,11 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
         <span aria-hidden="true" className="absolute -bottom-3 -left-3 size-[18px] rounded-full border-2 border-marinho bg-white md:-top-3 md:-right-3 md:bottom-auto md:left-auto" />
         <span aria-hidden="true" className="absolute -right-3 -bottom-3 size-[18px] rounded-full border-2 border-marinho bg-white" />
       </div>
-      <div className="flex flex-col justify-center gap-2 bg-creme px-4 pt-3.5 pb-3 md:gap-3 md:px-7 md:py-6">
+      <div className="flex flex-col justify-center gap-2 bg-creme px-4 pt-3 pb-3 md:gap-2.5 md:px-6 md:py-4">
         {tab.code ? (
-          <div className="group/codigo flex flex-col gap-2 md:gap-3">
-            <div className="flex flex-wrap items-center justify-between gap-3">
-              <span className="-ml-1 rounded px-1 py-0.5 font-codigo text-2xl font-extrabold tracking-[0.04em] break-all text-balance text-marinho group-has-[[data-copied=true]]/codigo:bg-amarelo-cupom motion-safe:transition-colors motion-safe:duration-700 motion-safe:group-has-[[data-copied=true]]/codigo:duration-0 md:text-[38px]">
+          <div className="group/codigo flex flex-col gap-1.5 md:gap-2">
+            <div className="flex items-center justify-between gap-3">
+              <span className="-ml-1 min-w-0 rounded px-1 py-0.5 font-codigo text-lg font-extrabold tracking-[0.02em] break-all text-balance text-marinho group-has-[[data-copied=true]]/codigo:bg-amarelo-cupom motion-safe:transition-colors motion-safe:duration-700 motion-safe:group-has-[[data-copied=true]]/codigo:duration-0 md:text-[30px]">
                 {tab.code}
               </span>
               <CopyCodeButton
@@ -166,7 +167,7 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
                 ariaLabel={COPY_LABELS.copyCoupon(tab.code)}
                 copiedStatus={tab.hints.copied}
                 copiedChildren={COPY_LABELS.copied}
-                className={`flex min-h-11 min-w-[104px] shrink-0 items-center justify-center rounded-[10px] border-2 border-marinho bg-marinho px-[18px] text-[15px] font-extrabold text-white data-[copied=true]:bg-amarelo-cupom data-[copied=true]:text-marinho md:min-h-12 ${FOCUS_RING}`}
+                className={`flex min-h-11 min-w-[92px] shrink-0 items-center justify-center rounded-[10px] border-2 border-marinho bg-marinho px-4 text-sm font-extrabold text-white data-[copied=true]:bg-amarelo-cupom data-[copied=true]:text-marinho md:text-[15px] ${FOCUS_RING}`}
               >
                 {COPY_LABELS.copy}
               </CopyCodeButton>
@@ -290,7 +291,10 @@ function ArticleList({ tab, current, onPick }: { tab: HomeStoreTab; current: num
       {tab.articles.length > 0 ? (
         <ul>
           {tab.articles.map((article, index) => (
-            <li key={article.slug} className="border-b-[1.5px] border-marinho/15">
+            <li
+              key={article.slug}
+              className={`border-b-[1.5px] border-marinho/15 ${index >= MOBILE_VISIBLE_ARTICLES ? 'max-lg:hidden' : ''}`}
+            >
               <button
                 type="button"
                 onClick={() => onPick(index)}
