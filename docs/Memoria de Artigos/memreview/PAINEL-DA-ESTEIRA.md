@@ -24,10 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[doces-sem-acucar-para-diabeticos]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
-- [ ] [[brownie-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
-- [ ] [[bolinho-sem-acucar-belive-ou-suavipan]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
-- [ ] [[pao-de-mel-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -67,6 +64,10 @@
 - [x] [[belive-reclame-aqui-nota-reputacao]] — Belive / Reclame Aqui, perfil Belive Be Free (Score Aut: 70 / Conv: 64) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
 - [x] [[cupom-belive-como-usar]] — Belive / cupom MAUAD: como usar (Score Aut: 58 / Conv: 84) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
 - [x] [[black-friday-belive]] — Belive / Black Friday 2026, guia de preparação (Score Aut: 50 / Conv: 65) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
+- [x] [[doces-sem-acucar-para-diabeticos]] — Belive / doces sem açúcar para diabéticos (Score Aut: 70 / Conv: 62) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
+- [x] [[brownie-sem-acucar-belive]] — Belive / brownie sem açúcar (Score Aut: 70 / Conv: 78) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
+- [x] [[bolinho-sem-acucar-belive-ou-suavipan]] — Belive / bolinho sem açúcar, Belive ou Suavipan (Score Aut: 62 / Conv: 70) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
+- [x] [[pao-de-mel-sem-acucar-belive]] — Belive / pão de mel sem açúcar (Score Aut: 70 / Conv: 82) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
 - [x] [[black-friday-damie]] — DAMIE / Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12 (No ar em 09/10/2026, PR #42; preços de 8/10; a seção da campanha da DAMIE entra em ou depois de 15/10, e os preços são reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-letseatit]] — Let's Eat It / Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀

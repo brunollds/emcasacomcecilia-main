@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir preço e oferta relâmpago na loja na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 62
@@ -20,7 +20,7 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
+publicado_em: "2026-10-18"
 ---
 
 # Briefing de Pauta: Doces sem açúcar para quem tem diabetes
