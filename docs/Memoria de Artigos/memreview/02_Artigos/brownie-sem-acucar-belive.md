@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 78
@@ -229,3 +229,7 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Decisões específicas
 - O Brownie Proteico Double Chocolate Sem Glúten Sem Lactose (açúcar como primeiro ingrediente, 13 g adicionados) fica só na seção "sem lactose não é sem açúcar".
 - O kit misto de 10 e os combos ficam fora da tabela.
+
+### Redação e JSON (18/10/2026)
+- Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
+- Preços reconferidos no site em 17/10/2026, ~23h de Brasília.

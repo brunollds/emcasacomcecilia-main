@@ -36663,6 +36663,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "local_url": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86362,
+      "sha256": "1b4176125fd4a27f5b4576e72aae1068bc2d9e500603663fbfd5acb4483917d3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "storage_filename": "bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-sem-acucar-belive-ou-suavipan.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 88075,
+          "column": 15,
+          "literal": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1b4176125fd4a27f5b4576e72aae1068bc2d9e500603663fbfd5acb4483917d3/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b4176125fd4a27f5b4576e72aae1068bc2d9e500603663fbfd5acb4483917d3/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-18T03:15:40.746Z",
+      "verification_etag_or_digest": "1b4176125fd4a27f5b4576e72aae1068bc2d9e500603663fbfd5acb4483917d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
+      "local_url": "/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 190768,
+      "sha256": "0d28b765fe8be46424ac9704fc65f8e94a01ae25fbf3e3accfa19a61ecc0c55a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brownie-sem-acucar-belive-capa.webp",
+      "storage_filename": "brownie-sem-acucar-belive-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brownie-sem-acucar-belive.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brownie-sem-acucar-belive.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87782,
+          "column": 15,
+          "literal": "/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0d28b765fe8be46424ac9704fc65f8e94a01ae25fbf3e3accfa19a61ecc0c55a/brownie-sem-acucar-belive-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d28b765fe8be46424ac9704fc65f8e94a01ae25fbf3e3accfa19a61ecc0c55a/brownie-sem-acucar-belive-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-18T03:15:40.747Z",
+      "verification_etag_or_digest": "0d28b765fe8be46424ac9704fc65f8e94a01ae25fbf3e3accfa19a61ecc0c55a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/cupom-belive-campo-mauad.webp",
       "local_url": "/images/reviews/belive/cupom-belive-campo-mauad.webp",
       "media_kind": "image",
@@ -36798,6 +36890,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-17T00:19:10.946Z",
       "verification_etag_or_digest": "c49211297aeaa9a751d4146d264b49305f9f587acd2b8ac99c4a14b6332cd804",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+      "local_url": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108484,
+      "sha256": "6be945091e58990d95dd255d7591c16eb00a67f1fede681e097ff35d0f92cb63",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "doces-sem-acucar-para-diabeticos-capa.webp",
+      "storage_filename": "doces-sem-acucar-para-diabeticos-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/doces-sem-acucar-para-diabeticos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/doces-sem-acucar-para-diabeticos.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 87538,
+          "column": 15,
+          "literal": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6be945091e58990d95dd255d7591c16eb00a67f1fede681e097ff35d0f92cb63/doces-sem-acucar-para-diabeticos-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6be945091e58990d95dd255d7591c16eb00a67f1fede681e097ff35d0f92cb63/doces-sem-acucar-para-diabeticos-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-18T03:15:40.747Z",
+      "verification_etag_or_digest": "6be945091e58990d95dd255d7591c16eb00a67f1fede681e097ff35d0f92cb63",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
+      "local_url": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104742,
+      "sha256": "6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pao-de-mel-sem-acucar-belive-capa.webp",
+      "storage_filename": "pao-de-mel-sem-acucar-belive-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pao-de-mel-sem-acucar-belive.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pao-de-mel-sem-acucar-belive.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 88368,
+          "column": 15,
+          "literal": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e/pao-de-mel-sem-acucar-belive-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e/pao-de-mel-sem-acucar-belive-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-18T03:15:40.747Z",
+      "verification_etag_or_digest": "6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e",
       "verification_status": "verified"
     },
     {

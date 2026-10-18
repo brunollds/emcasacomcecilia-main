@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Produto"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 70
@@ -195,3 +195,7 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Comparativo sem a tabela nutricional da Suavipan: ingredientes, adoçante, glúten e leite, alérgicos e preço. A tabela da Belive entra; a da Suavipan aparece como "a marca não publica a tabela no site". Sem números do FatSecret.
 - A diferença que decide: a Belive é sem glúten e sem leite; a Suavipan tem trigo e leite e sai mais barata por unidade na farmácia (Drogasil R$ 3,09 em 17/10/2026).
 - "Belive ou Suavipan" não é busca: o título puxa "bolinho sem açúcar" e "bolinho zero açúcar". Casa Suíça e Dr. Oetker ficam para comparativos seguintes.
+
+### Redação e JSON (18/10/2026)
+- Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
+- Preços reconferidos no site em 17/10/2026, ~23h de Brasília.
