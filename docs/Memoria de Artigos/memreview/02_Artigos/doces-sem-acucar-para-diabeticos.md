@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 62
@@ -224,3 +224,7 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 - Título com a busca: "Doces sem açúcar para diabéticos: o que olhar no rótulo" (aprovado).
 - "Diet, zero ou sem açúcar" e "sem açúcar é low carb?" são seções. As definições vêm da regra de rotulagem com a fonte oficial registrada na matriz pelo Job 2; o texto fala em "regra de rotulagem", sem nomear o órgão.
 - Polióis: o texto diz que o rótulo não separa o maltitol dos carboidratos e não afirma o efeito do poliol.
+
+### Redação e JSON (18/10/2026)
+- Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
+- Preços reconferidos no site em 17/10/2026, ~23h de Brasília.

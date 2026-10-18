@@ -7,10 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[doces-sem-acucar-para-diabeticos]] — Belive, lote sem açúcar de 17/10 (Score Aut: 70 / Conv: 62)
-- [ ] [[brownie-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 (Score Aut: 70 / Conv: 78)
-- [ ] [[bolinho-sem-acucar-belive-ou-suavipan]] — Belive, lote sem açúcar de 17/10 (Score Aut: 62 / Conv: 70)
-- [ ] [[pao-de-mel-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 (Score Aut: 70 / Conv: 82)
 
 ---
 
@@ -28,7 +24,10 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- *(Nenhum artigo no momento)*
+- [ ] [[doces-sem-acucar-para-diabeticos]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
+- [ ] [[brownie-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
+- [ ] [[bolinho-sem-acucar-belive-ou-suavipan]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
+- [ ] [[pao-de-mel-sem-acucar-belive]] — Belive, lote sem açúcar de 17/10 — texto aprovado em 18/10, JSON pronto, espera deploy
 
 ---
 

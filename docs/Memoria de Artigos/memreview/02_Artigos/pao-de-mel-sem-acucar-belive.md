@@ -6,9 +6,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 17/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 82
@@ -223,3 +223,7 @@ As perguntas acima foram respondidas em 17/10/2026; o que vale é esta seção.
 ### Decisões específicas
 - Nome da versão comum: o nome do produto na loja ("Pão de Mel Sem Glúten Sem Açúcar Sem Leite"), sem "Fit" nem "Zero" como nome.
 - Oferta "leve 10 pague 9": só entra se a página mostrar no dia da redação.
+
+### Redação e JSON (18/10/2026)
+- Texto aprovado pelo Bruno em 18/10/2026, capa opção A. Fonte da regra de rotulagem registrada na matriz do rascunho: IN 75/2020, Anexos XIX e XX ("não contém açúcares" e "sem adição de açúcares"); "diet" pelo escopo da RDC 715/2022, artigo exato não lido (PDF da Anvisa com 403, não contornado).
+- Preços reconferidos no site em 17/10/2026, ~23h de Brasília.

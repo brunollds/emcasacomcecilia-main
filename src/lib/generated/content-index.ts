@@ -87513,5 +87513,1055 @@ export const reviewsData: unknown[] = [
         "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
       }
     ]
+  },
+  {
+    "id": 466,
+    "slug": "doces-sem-acucar-para-diabeticos",
+    "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo",
+    "seoTitle": "Doces sem açúcar para diabéticos: o que olhar no rótulo",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Diet, zero açúcar e sem açúcar não são a mesma coisa, e sem açúcar não quer dizer pouco carboidrato. Veja o que ler no rótulo, com seis doces da Belive como exemplo.",
+    "metaDescription": "Doces sem açúcar para diabéticos: o que olhar no rótulo, a diferença entre diet, zero e sem adição de açúcar e o carboidrato de seis doces da Belive.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+    "imageAlt": "Embalagens de cinco doces sem açúcar da Belive: bolinho de baunilha, brownie de chocolate, brownie proteico de chocolate com avelã, pão de mel e bolo de chocolate",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "\"Sem açúcar\" na embalagem quer dizer que o doce tem no máximo 0,5 g de açúcares por porção. Não quer dizer que ele tem pouco carboidrato. Os seis doces sem açúcar da Belive que lemos têm 0 g de açúcares e de 16 g a 24 g de carboidratos por porção. Por isso vale olhar seis pontos da embalagem: a porção, os açúcares, os carboidratos, as fibras, os adoçantes da lista de ingredientes e a lupa da frente."
+        ]
+      },
+      {
+        "heading": "O que olhar no rótulo antes de comprar",
+        "paragraphs": [
+          "A tabela nutricional, a lista de ingredientes e a frente da embalagem respondem coisas diferentes. Leia nesta ordem:"
+        ],
+        "bullets": [
+          "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
+          "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
+          "**Carboidratos.** É a linha que mostra quanto carboidrato a porção tem, com ou sem açúcar. Num doce sem açúcar, ela continua alta.",
+          "**Fibras alimentares.** Vêm em gramas por porção, numa linha à parte.",
+          "**Lista de ingredientes.** É onde aparecem os adoçantes, com o nome técnico, como maltitol, sorbitol, glicosídeos de esteviol e sucralose. A frente da embalagem às vezes cita só um deles.",
+          "**A lupa na frente da embalagem.** Ela avisa quando o alimento é alto em açúcar adicionado, gordura saturada ou sódio. Um doce sem açúcar pode ter a lupa por outro motivo: nas fotos da loja, as embalagens do bolinho, do pão de mel e do bolo da Belive trazem \"alto em gordura saturada\". A do brownie de chocolate não traz lupa."
+        ]
+      },
+      {
+        "heading": "Diet, zero açúcar ou sem açúcar: qual a diferença",
+        "paragraphs": [
+          "Os três termos não são sinônimos. \"Zero açúcar\", \"sem açúcar\" e \"sem adição de açúcar\" são alegações que a regra de rotulagem dos alimentos embalados define, cada uma com um critério. \"Diet\" é outra coisa: é o termo dos alimentos feitos para dietas com restrição de algum nutriente, e esse nutriente nem sempre é o açúcar."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Termo na embalagem",
+            "O que a regra de rotulagem exige",
+            "O que procurar no rótulo"
+          ],
+          "rows": [
+            [
+              "Zero açúcar, sem açúcar, não contém açúcares",
+              "No máximo 0,5 g de açúcares por porção e por 100 g, e nenhum açúcar declarado acima de zero na tabela",
+              "Açúcares totais 0 g. Se o doce não for baixo em calorias, a frase \"Este não é um alimento baixo ou reduzido em valor energético\" junto da alegação"
+            ],
+            [
+              "Sem adição de açúcar, zero adição de açúcar",
+              "Nenhum açúcar nem ingrediente com açúcar adicionado. O doce pode ter os açúcares próprios dos ingredientes",
+              "Se não chegar ao critério de zero, a frase \"contém açúcares próprios dos ingredientes\""
+            ],
+            [
+              "Diet",
+              "Alimento para dieta com restrição de um nutriente, que pode ser o açúcar, a gordura, o sódio ou outro",
+              "A tabela, para ver qual nutriente foi reduzido"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os doces da Belive deste guia usam \"sem açúcar\" e \"zero açúcar\". Nenhum deles se chama diet."
+        ]
+      },
+      {
+        "heading": "Sem açúcar é low carb?",
+        "paragraphs": [
+          "Não necessariamente. \"Low carb\" não é uma alegação da regra de rotulagem, e o rótulo não usa o termo. O que dá para ver é o número de carboidratos por porção:"
+        ],
+        "bullets": [
+          "brownie de chocolate, 40 g: 18 g de carboidratos;",
+          "brownie proteico de chocolate com avelã, 40 g: 16 g;",
+          "bolinho de baunilha, 40 g: 18 g;",
+          "cookie de chocolate e avelã, 30 g: 17 g;",
+          "pão de mel, 45 g: 23 g;",
+          "bolo de chocolate, 60 g (2 fatias): 24 g."
+        ],
+        "postParagraphs": [
+          "Os seis têm 0 g de açúcares totais e adicionados. Pela coluna de 100 g, ficam entre 40 g e 56 g de carboidratos. Quem conta carboidrato precisa fazer a conta com esses números, e não com a palavra \"sem açúcar\"."
+        ]
+      },
+      {
+        "heading": "Adoçantes na lista de ingredientes",
+        "paragraphs": [
+          "Os seis doces da Belive trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. Glicosídeo de esteviol é o nome técnico do adoçante da stévia. O maltitol vem antes dele na lista, e a ordem da lista segue a quantidade de cada ingrediente. Três dos seis também levam **sorbitol** como umectante: o brownie proteico com avelã, o bolinho de baunilha e o bolo de chocolate. O brownie de chocolate, o cookie e o pão de mel não levam.",
+          "A descrição da loja fala em \"adoçado naturalmente com stévia\". O rótulo é mais completo e cita os dois edulcorantes.",
+          "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente."
+        ]
+      },
+      {
+        "heading": "Os seis doces da Belive lidos pelo rótulo",
+        "paragraphs": [
+          "Tabelas nutricionais e listas de ingredientes das páginas de produto, lidas em 17/10/2026. Preço da unidade no site oficial no mesmo dia, sem o cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Doce",
+            "Porção",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares",
+            "Fibras",
+            "Adoçantes e umectantes",
+            "Preço da unidade"
+          ],
+          "rows": [
+            [
+              "Brownie de chocolate",
+              "40 g (1 unid.)",
+              "124 kcal",
+              "18 g",
+              "0 g",
+              "5 g",
+              "maltitol, glicosídeos de esteviol",
+              "R$ 6,97"
+            ],
+            [
+              "Brownie proteico chocolate com avelã",
+              "40 g (1 unid.)",
+              "144 kcal",
+              "16 g",
+              "0 g",
+              "4,2 g",
+              "maltitol, glicosídeos de esteviol, sorbitol",
+              "R$ 7,97"
+            ],
+            [
+              "Bolinho de baunilha",
+              "40 g (1 unid.)",
+              "128 kcal",
+              "18 g",
+              "0 g",
+              "2 g",
+              "maltitol, glicosídeos de esteviol, sorbitol",
+              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)"
+            ],
+            [
+              "Cookie de chocolate e avelã",
+              "30 g (1 + 4/5 unid.)",
+              "113 kcal",
+              "17 g",
+              "0 g",
+              "1,3 g",
+              "maltitol, glicosídeo de esteviol",
+              "R$ 8,52 (de R$ 8,97)"
+            ],
+            [
+              "Pão de mel",
+              "45 g (1 unid.)",
+              "163 kcal",
+              "23 g",
+              "0 g",
+              "5 g",
+              "maltitol, glicosídeos de esteviol",
+              "R$ 7,57 (de R$ 7,97)"
+            ],
+            [
+              "Bolo de chocolate",
+              "60 g (2 fatias)",
+              "182 kcal",
+              "24 g",
+              "0 g",
+              "3,5 g",
+              "maltitol, glicosídeos de esteviol, sorbitol",
+              "R$ 28,71 o bolo inteiro (de R$ 31,90)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A oferta relâmpago do bolinho tinha contagem regressiva na página e pode acabar a qualquer hora. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        ]
+      },
+      {
+        "heading": "Quando falar com o médico ou nutricionista",
+        "paragraphs": [
+          "O rótulo mostra o que a porção tem. Ele não diz quanto cada pessoa pode comer. Quem tem diabetes combina a quantidade com o médico ou o nutricionista que acompanha o tratamento. Leve o rótulo do doce para a consulta: a porção, os carboidratos e a lista de ingredientes são os dados que eles vão olhar."
+        ]
+      },
+      {
+        "heading": "Onde comprar os doces da Belive",
+        "paragraphs": [
+          "A Belive vende no site oficial, belivebefree.com.br. O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive).",
+          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. Quem quer saber mais sobre a loja antes de comprar pode ler [se a Belive é confiável](/reviews/belive-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Doce sem açúcar tem carboidrato? Tem. Os seis doces sem açúcar da Belive deste guia têm de 16 g a 24 g de carboidratos por porção, com 0 g de açúcares.",
+          "Zero açúcar e sem açúcar são a mesma coisa? Sim. A regra de rotulagem trata \"zero\", \"sem\" e \"não contém açúcares\" como a mesma alegação: no máximo 0,5 g de açúcares por porção e por 100 g.",
+          "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
+          "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
+          "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
+          "Onde comprar os doces sem açúcar da Belive? No site oficial, com o cupom MAUAD de 10% OFF em todo o site. As condições estão na página do cupom da Belive."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes e preços das páginas de produto do site oficial da Belive, lidos em 17/10/2026, e o texto oficial da regra de rotulagem nutricional dos alimentos embalados. Não provamos os doces. Rótulo e preço mudam: confira na embalagem e no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para ver os rótulos e comprar os doces sem açúcar, entre no site oficial da Belive pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Rótulos e preços lidos no site oficial da Belive. O texto mostra o que o rótulo informa e não indica quantidade para ninguém. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "brownie-sem-acucar-belive",
+        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      },
+      {
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      },
+      {
+        "slug": "pao-de-mel-sem-acucar-belive",
+        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "slug": "brownie-sem-acucar-belive",
+    "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade",
+    "seoTitle": "Brownie sem açúcar Belive: rótulo e preço por unidade",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os oito brownies sem açúcar da Belive, quatro comuns e quatro proteicos, com o rótulo de cada um, os adoçantes da lista de ingredientes e o preço por unidade e no kit de 10.",
+    "metaDescription": "Brownie sem açúcar Belive: oito sabores, calorias, carboidratos e proteína por unidade, adoçantes, alérgicos e preço por unidade no kit de 10.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
+    "imageAlt": "Embalagens dos oito brownies sem açúcar da Belive: Chocolate, Chocolate com Coco, Chocolate com Nozes e Doce de Leite em cima, e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado embaixo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Belive tem oito brownies sem açúcar: quatro comuns e quatro proteicos, todos de 40 g. Os oito têm 0 g de açúcares adicionados no rótulo e são adoçados com maltitol e glicosídeos de esteviol. A unidade custava de R$ 6,97 a R$ 7,97 em 17/10/2026, e no kit de 10 sai de R$ 6,48 a R$ 7,41. Um brownie da loja com nome parecido, o Proteico Double Chocolate Sem Glúten Sem Lactose, não é sem açúcar."
+        ]
+      },
+      {
+        "heading": "Quais brownies da Belive são sem açúcar",
+        "paragraphs": [
+          "Estes são os oito que a loja vende como sem açúcar, sem glúten e sem leite, em unidade e em kit de 10:"
+        ],
+        "bullets": [
+          "**Comuns:** Chocolate; Fit Chocolate com Coco; Chocolate com Nozes; Doce de Leite.",
+          "**Proteicos:** Double Chocolate; Chocolate com Avelã; Cappuccino; Caramelo Salgado."
+        ],
+        "postParagraphs": [
+          "Os kits mistos e os combos da loja também trazem brownies, mas misturam sabores e outros doces. Eles ficam fora das contas deste guia."
+        ]
+      },
+      {
+        "heading": "Comum ou proteico: o que muda no rótulo",
+        "paragraphs": [
+          "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
+          "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
+        ]
+      },
+      {
+        "heading": "O rótulo dos oito sabores",
+        "paragraphs": [
+          "Valores por unidade de 40 g, lidos nas tabelas nutricionais das páginas de produto em 17/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares adicionados",
+            "Proteínas",
+            "Fibras"
+          ],
+          "rows": [
+            [
+              "Chocolate",
+              "124 kcal",
+              "18 g",
+              "0 g",
+              "1,8 g",
+              "5 g"
+            ],
+            [
+              "Fit Chocolate com Coco",
+              "126 kcal",
+              "17 g",
+              "0 g",
+              "1,7 g",
+              "5 g"
+            ],
+            [
+              "Chocolate com Nozes",
+              "125 kcal",
+              "16 g",
+              "0 g",
+              "2 g",
+              "5 g"
+            ],
+            [
+              "Doce de Leite",
+              "133 kcal",
+              "22 g",
+              "0 g",
+              "1,6 g",
+              "3,8 g"
+            ],
+            [
+              "Proteico Double Chocolate",
+              "122 kcal",
+              "13 g",
+              "0 g",
+              "6 g",
+              "5,2 g"
+            ],
+            [
+              "Proteico Cappuccino",
+              "121 kcal",
+              "13 g",
+              "0 g",
+              "6 g",
+              "6 g"
+            ],
+            [
+              "Proteico Chocolate com Avelã",
+              "144 kcal",
+              "16 g",
+              "0 g",
+              "5 g",
+              "4,2 g"
+            ],
+            [
+              "Proteico Caramelo Salgado",
+              "130 kcal",
+              "18 g",
+              "0 g",
+              "5 g",
+              "5 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os açúcares totais também são 0 g em sete sabores. O Caramelo Salgado mostra 0,1 g de açúcares totais e 0 g de adicionados, e a embalagem dele diz \"zero adição de açúcar\", e não \"zero açúcar\" como as outras. Nos sete, a frente da embalagem traz \"zero açúcar\"."
+        ]
+      },
+      {
+        "heading": "Preço por unidade e no kit de 10",
+        "paragraphs": [
+          "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Unidade",
+            "Kit de 10",
+            "Por unidade no kit",
+            "Por unidade no kit com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Chocolate, Coco ou Doce de Leite",
+              "R$ 6,97",
+              "R$ 64,82 (de R$ 69,70)",
+              "R$ 6,48",
+              "R$ 5,54"
+            ],
+            [
+              "Chocolate com Nozes",
+              "R$ 7,49",
+              "R$ 69,66 (de R$ 74,90)",
+              "R$ 6,97",
+              "R$ 5,96"
+            ],
+            [
+              "Qualquer um dos quatro proteicos",
+              "R$ 7,97",
+              "R$ 74,12 (de R$ 79,70)",
+              "R$ 7,41",
+              "R$ 6,34"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix. Como ele entra no carrinho está no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições, na [página do cupom da Belive](/cupons/belive).",
+          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Um kit de 10 sozinho não chega a nenhum desses valores."
+        ]
+      },
+      {
+        "heading": "Sem lactose não é sem açúcar",
+        "paragraphs": [
+          "O **Brownie Proteico Double Chocolate Sem Glúten Sem Lactose** tem nome parecido com o Proteico Double Chocolate Sem Açúcar, mas não é sem açúcar. A lista de ingredientes começa por açúcar e tem também açúcar mascavo e glucose. A unidade custava R$ 7,49, e o kit de 10, R$ 69,66, em 17/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por unidade de 40 g",
+            "Proteico Double Chocolate Sem Açúcar",
+            "Proteico Double Chocolate Sem Lactose"
+          ],
+          "rows": [
+            [
+              "Calorias",
+              "122 kcal",
+              "152 kcal"
+            ],
+            [
+              "Carboidratos",
+              "13 g",
+              "17 g"
+            ],
+            [
+              "Açúcares totais",
+              "0 g",
+              "13 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g",
+              "13 g (26% do valor diário)"
+            ],
+            [
+              "Proteínas",
+              "6 g",
+              "5,3 g"
+            ],
+            [
+              "Fibras",
+              "5,2 g",
+              "1 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na loja, os dois aparecem lado a lado. Para quem procura sem açúcar, o que separa os dois é a expressão \"Sem Açúcar\" no nome."
+        ]
+      },
+      {
+        "heading": "Sem açúcar é low carb?",
+        "paragraphs": [
+          "Não necessariamente. Os oito brownies sem açúcar têm de 13 g a 22 g de carboidratos por unidade de 40 g, com 0 g de açúcares adicionados. O menor número é o dos proteicos Double Chocolate e Cappuccino. O maior é o do Doce de Leite. O rótulo não separa o maltitol da linha de carboidratos. A diferença entre \"sem açúcar\", \"zero\" e \"sem adição\" está no guia de [doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos). Os outros doces da linha, pelo rótulo, estão nos guias do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        ]
+      },
+      {
+        "heading": "Ingredientes, adoçantes e alérgicos",
+        "paragraphs": [
+          "Os oito trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado naturalmente com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. Os quatro proteicos também levam sorbitol e glicerol como umectantes. Os comuns levam glicerol.",
+          "Os alérgicos, pela lista de cada página:"
+        ],
+        "bullets": [
+          "Todos os oito: contêm ovo e derivados de soja. Nenhum contém glúten.",
+          "Chocolate com Nozes: contém nozes. Pode conter amêndoa, amendoim, avelã, castanha-de-caju, castanha-do-pará e pistache.",
+          "Proteico Chocolate com Avelã: contém avelã. Pode conter amêndoa, amendoim, castanha-de-caju, pistache e nozes.",
+          "Proteico Caramelo Salgado: contém castanha-de-caju. Pode conter amêndoa, amendoim, avelã, castanha-do-pará, pistache e nozes."
+        ],
+        "postParagraphs": [
+          "A loja declara os oito como sem leite e sem lactose. Quem tem alergia ou intolerância deve ler o rótulo da embalagem na hora da compra."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado.",
+          "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
+          "Quanto custa o brownie sem açúcar da Belive? Em 17/10/2026, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
+          "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
+          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
+          "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes e preços das páginas de produto do site oficial da Belive, lidos em 17/10/2026. Não provamos os brownies. Rótulo, preço e estoque mudam: confira na embalagem e no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para comprar os brownies em unidade ou no kit de 10, entre no site oficial da Belive pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Rótulos, ingredientes e preços lidos no site oficial da Belive. Não provamos os brownies. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "doces-sem-acucar-para-diabeticos",
+        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      },
+      {
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      },
+      {
+        "slug": "pao-de-mel-sem-acucar-belive",
+        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+    "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um",
+    "seoTitle": "Bolinho sem açúcar ou zero açúcar: Belive ou Suavipan",
+    "type": "Comparativo de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O bolinho de chocolate da Belive e o da Suavipan lado a lado: o que cada embalagem promete, os adoçantes, glúten, leite, alérgicos e o preço por unidade.",
+    "metaDescription": "Bolinho sem açúcar Belive ou Suavipan: zero açúcar ou zero adição, adoçantes, glúten e leite, alérgicos e preço por unidade de cada um.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
+    "imageAlt": "Embalagem do bolinho de chocolate sem açúcar da Belive ao lado do kit de bolinhos zero adição de açúcar de chocolate da Suavipan",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O bolinho de chocolate da Belive é sem açúcar, sem glúten e sem leite. O da Suavipan é \"zero adição de açúcar\", leva farinha de trigo e leite em pó, e o rótulo avisa que ele contém os açúcares próprios dos ingredientes. A Belive publica a tabela nutricional: 0 g de açúcares e 16 g de carboidratos em 40 g. A Suavipan não publica a tabela no site. Na farmácia, a Suavipan sai mais barata: R$ 3,09 a unidade na Drogasil, contra R$ 4,58 da Belive em oferta relâmpago, em 17/10/2026."
+        ]
+      },
+      {
+        "heading": "Quais bolinhos estamos comparando",
+        "paragraphs": [
+          "Os dois são bolinhos de chocolate de 40 g, vendidos em unidade e em kit:"
+        ],
+        "bullets": [
+          "**Belive:** Bolinho de Chocolate Sem Açúcar Sem Glúten Sem Leite, no site oficial da marca, em unidade e em kit de 10.",
+          "**Suavipan:** Bolinho Zero Chocolate com Recheio de Chocolate, em kit de 12 no site oficial da marca e em unidade nas farmácias."
+        ],
+        "postParagraphs": [
+          "Os dois aparecem juntos na busca por \"bolinho sem açúcar\" e por \"bolinho zero açúcar\". A Belive tem outros sabores na mesma linha, como baunilha, coco, laranja e banana, todos com 40 g."
+        ]
+      },
+      {
+        "heading": "Os dois lado a lado",
+        "paragraphs": [
+          "Dados das páginas oficiais e, no caso da Suavipan, da página do produto na Drogasil, lidos em 17/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Belive, bolinho de chocolate",
+            "Suavipan, bolinho zero chocolate com recheio"
+          ],
+          "rows": [
+            [
+              "O que diz a embalagem",
+              "Sem açúcar",
+              "Zero adição de açúcar"
+            ],
+            [
+              "Tabela nutricional",
+              "Publicada: 0 g de açúcares totais e adicionados",
+              "Não publicada no site da marca nem na Drogasil"
+            ],
+            [
+              "Adoçantes",
+              "Maltitol e glicosídeos de esteviol",
+              "Maltitol, sucralose e acessulfame de potássio"
+            ],
+            [
+              "Farinha",
+              "Arroz, soja e quinoa, com fécula de mandioca",
+              "Trigo"
+            ],
+            [
+              "Leite",
+              "A loja declara sem leite e sem lactose",
+              "Leite em pó desnatado na lista"
+            ],
+            [
+              "Alérgicos",
+              "Contém soja e ovo. Não contém glúten",
+              "Contém glúten. Contém ovo e derivados de trigo, soja e leite"
+            ],
+            [
+              "Preço da unidade",
+              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)",
+              "R$ 3,09 na Drogasil"
+            ],
+            [
+              "Preço no kit, por unidade",
+              "R$ 5,01 (kit de 10)",
+              "R$ 5,24 (kit de 12)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A diferença que decide para muita gente está em duas linhas: glúten e leite. Para quem não tem restrição a nenhum dos dois, pesa o preço e o que cada embalagem promete sobre açúcar."
+        ]
+      },
+      {
+        "heading": "Zero açúcar ou zero adição de açúcar",
+        "paragraphs": [
+          "As duas frases não querem dizer a mesma coisa. Pela regra de rotulagem dos alimentos embalados, \"sem açúcar\" exige no máximo 0,5 g de açúcares por porção e por 100 g. \"Zero adição de açúcar\" quer dizer que não entrou açúcar na receita, mas o produto pode ter os açúcares que já vêm nos ingredientes.",
+          "Quando um alimento \"sem adição\" não chega ao critério de zero açúcar, a regra manda pôr no rótulo a frase \"contém açúcares próprios dos ingredientes\". A lista da Suavipan na Drogasil traz essa frase. Como a marca não publica a tabela, não dá para saber quantos gramas são.",
+          "A Belive mostra 0 g de açúcares totais e 0 g de adicionados na tabela do bolinho de chocolate. As outras diferenças entre os termos estão no guia de [doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
+        ]
+      },
+      {
+        "heading": "O rótulo da Belive por bolinho",
+        "paragraphs": [
+          "Tabela nutricional da página do produto, porção de 40 g (1 unidade), lida em 17/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Por bolinho (40 g)"
+          ],
+          "rows": [
+            [
+              "Calorias",
+              "123 kcal"
+            ],
+            [
+              "Carboidratos",
+              "16 g"
+            ],
+            [
+              "Açúcares totais",
+              "0 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g"
+            ],
+            [
+              "Proteínas",
+              "2,2 g"
+            ],
+            [
+              "Gorduras totais",
+              "7,1 g"
+            ],
+            [
+              "Gorduras saturadas",
+              "3 g"
+            ],
+            [
+              "Fibras",
+              "2 g"
+            ],
+            [
+              "Sódio",
+              "70 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Suavipan não publica a tabela nutricional no site oficial, e a página da Drogasil também não traz. Por isso este comparativo não compara calorias nem carboidratos entre as duas marcas."
+        ]
+      },
+      {
+        "heading": "Adoçantes da lista de ingredientes",
+        "paragraphs": [
+          "Os dois bolinhos usam maltitol, mas não são adoçados do mesmo jeito."
+        ],
+        "bullets": [
+          "**Belive:** edulcorantes maltitol e glicosídeos de esteviol, com sorbitol e glicerol como umectantes. A descrição da loja fala em stévia; a lista cita os dois edulcorantes.",
+          "**Suavipan:** maltitol, sorbitol e glicerina na massa, e sucralose e acessulfame de potássio como edulcorantes. O recheio leva maltodextrina, amido e cacau, além de sorbitol e sucralose. A arte da embalagem diz \"adoçado com maltitol\"."
+        ]
+      },
+      {
+        "heading": "Glúten, leite e alérgicos",
+        "paragraphs": [
+          "A Belive declara o bolinho sem glúten, sem leite e sem lactose. A massa é feita com farinha de arroz, farinha integral de soja, farinha de quinoa, fécula de mandioca e amido modificado. A lista avisa: contém derivados de soja e ovo, e não contém glúten.",
+          "A Suavipan leva farinha de trigo e leite em pó desnatado. A lista avisa: contém glúten, e contém ovo e derivados de trigo, soja e leite.",
+          "Quem tem alergia, intolerância ou doença celíaca deve ler o rótulo da embalagem na hora da compra."
+        ]
+      },
+      {
+        "heading": "Preço por unidade",
+        "paragraphs": [
+          "Preços de 17/10/2026. O preço por unidade dos kits é a conta nossa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Onde",
+            "Embalagem",
+            "Preço",
+            "Por unidade"
+          ],
+          "rows": [
+            [
+              "Belive, site oficial",
+              "Unidade",
+              "R$ 4,58 em oferta relâmpago (regular R$ 5,39)",
+              "R$ 4,58"
+            ],
+            [
+              "Belive, site oficial",
+              "Unidade, com MAUAD e Pix",
+              "R$ 3,92",
+              "R$ 3,92"
+            ],
+            [
+              "Belive, site oficial",
+              "Kit de 10",
+              "R$ 50,13 (de R$ 53,90)",
+              "R$ 5,01"
+            ],
+            [
+              "Belive, site oficial",
+              "Kit de 10, com MAUAD e Pix",
+              "R$ 42,86",
+              "R$ 4,29"
+            ],
+            [
+              "Suavipan, site oficial",
+              "Kit de 12",
+              "R$ 62,90",
+              "R$ 5,24"
+            ],
+            [
+              "Drogasil",
+              "Unidade",
+              "R$ 3,09",
+              "R$ 3,09"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399.",
+          "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
+        ]
+      },
+      {
+        "heading": "Sem açúcar é low carb?",
+        "paragraphs": [
+          "Não necessariamente. O bolinho de chocolate da Belive tem 16 g de carboidratos em 40 g, com 0 g de açúcares. O da Suavipan não tem tabela publicada, e não dá para fazer a conta. Os brownies e os pães de mel da Belive seguem a mesma lógica, como mostram os guias do [brownie sem açúcar](/reviews/brownie-sem-acucar-belive) e do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive)."
+        ]
+      },
+      {
+        "heading": "Próximos comparativos",
+        "paragraphs": [
+          "A busca por bolinho sem açúcar também traz a Casa Suíça e a Dr. Oetker. As duas ficam para os próximos comparativos, quando tivermos o rótulo e a lista de ingredientes de cada uma."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual bolinho sem açúcar não tem glúten nem leite, Belive ou Suavipan? O da Belive. A loja declara o bolinho sem glúten, sem leite e sem lactose. O da Suavipan leva farinha de trigo e leite em pó desnatado.",
+          "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A marca não publica a tabela nutricional no site.",
+          "Quantas calorias tem o bolinho sem açúcar da Belive? O de chocolate tem 123 kcal por unidade de 40 g, com 16 g de carboidratos e 0 g de açúcares.",
+          "Qual bolinho sai mais barato? Na farmácia, o da Suavipan: R$ 3,09 a unidade na Drogasil em 17/10/2026. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
+          "Bolinho sem açúcar pode ser comido por quem tem diabetes? O rótulo da Belive mostra 0 g de açúcares e 16 g de carboidratos por bolinho. A quantidade, quem tem diabetes combina com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Belive: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD. Não temos parceria com a Suavipan. Fontes: página do bolinho de chocolate no site oficial da Belive (tabela, ingredientes e preço), página do kit de 12 bolinhos no site oficial da Suavipan e página do bolinho Suavipan na Drogasil, lidas em 17/10/2026. Não provamos os bolinhos. Preço, rótulo e estoque mudam: confira na embalagem e no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para comprar o bolinho da Belive, em unidade ou no kit de 10, entre no site oficial pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Comparação feita com os rótulos e as listas de ingredientes publicados pelas lojas. Não provamos os bolinhos. Podemos receber comissão pelo cupom MAUAD da Belive.",
+    "relatedArticles": [
+      {
+        "slug": "doces-sem-acucar-para-diabeticos",
+        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      },
+      {
+        "slug": "brownie-sem-acucar-belive",
+        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      },
+      {
+        "slug": "pao-de-mel-sem-acucar-belive",
+        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "slug": "pao-de-mel-sem-acucar-belive",
+    "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo",
+    "seoTitle": "Pão de mel sem açúcar Belive: rótulo, preço e comum × proteico",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O pão de mel sem açúcar da Belive em duas versões, comum e proteica: o rótulo lado a lado, os ingredientes, o preço por unidade e no kit de 10 e o que dizem as avaliações da loja.",
+    "metaDescription": "Pão de mel sem açúcar Belive: comum ou proteico, calorias, carboidratos e proteína por unidade, ingredientes, preço no kit de 10 e avaliações.",
+    "publishedAt": "17 de outubro de 2026",
+    "publishedAtISO": "2026-10-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp",
+    "imageAlt": "Embalagens do pão de mel sem açúcar da Belive, a versão comum e a proteica, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O pão de mel proteico da Belive tem 6 g de proteína e 16 g de carboidratos por unidade de 45 g. O comum tem 2 g de proteína e 23 g de carboidratos na mesma porção. Os dois têm 0 g de açúcares no rótulo e quase as mesmas calorias: 162 kcal e 163 kcal. Em 17/10/2026, o kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade."
+        ]
+      },
+      {
+        "heading": "Pão de mel comum ou proteico: qual é qual",
+        "paragraphs": [
+          "A Belive vende os dois sem açúcar, sem glúten e sem leite, com cobertura sabor chocolate amargo:"
+        ],
+        "bullets": [
+          "**Comum:** na loja, \"Pão de Mel Sem Glúten Sem Açúcar Sem Leite\". A massa é de farinha de arroz, amido modificado, fécula de mandioca e quinoa.",
+          "**Proteico:** na loja, \"Pão de Mel Proteico Sem Glúten Sem Açúcar Sem Leite\". A massa troca as farinhas por proteínas isoladas de soja, arroz e ervilha, com farinha integral de sorgo."
+        ],
+        "postParagraphs": [
+          "Os dois pesam 45 g por unidade e são vendidos em unidade e em kit de 10."
+        ]
+      },
+      {
+        "heading": "O rótulo lado a lado",
+        "paragraphs": [
+          "Tabelas nutricionais das páginas de produto, lidas em 17/10/2026. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Comum",
+            "Proteico"
+          ],
+          "rows": [
+            [
+              "Calorias",
+              "163 kcal (362 kcal)",
+              "162 kcal (360 kcal)"
+            ],
+            [
+              "Carboidratos",
+              "23 g (50 g)",
+              "16 g (36 g)"
+            ],
+            [
+              "Açúcares totais",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g",
+              "0 g"
+            ],
+            [
+              "Proteínas",
+              "2 g (4,5 g)",
+              "6 g (13 g)"
+            ],
+            [
+              "Gorduras totais",
+              "9,2 g (20 g)",
+              "10 g (22 g)"
+            ],
+            [
+              "Gorduras saturadas",
+              "5,1 g (11 g)",
+              "4,8 g (11 g)"
+            ],
+            [
+              "Fibras",
+              "5 g (11 g)",
+              "6,2 g (14 g)"
+            ],
+            [
+              "Sódio",
+              "28 mg (61 mg)",
+              "66 mg (147 mg)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias quase não mudam, porque a gordura sobe um pouco."
+        ]
+      },
+      {
+        "heading": "O que diz a lista de ingredientes",
+        "paragraphs": [
+          "Os dois trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. O proteico também leva sorbitol e glicerol como umectantes. O comum não leva.",
+          "Outros ingredientes, pela lista de cada página:"
+        ],
+        "bullets": [
+          "Comum: cobertura sabor chocolate amargo sem açúcar, mix sem glúten, óleo vegetal de soja e palma, fibra de milho, ovo em pó, polidextrose, cacau em pó, especiarias, fibra vegetal e sal light.",
+          "Proteico: cobertura sabor chocolate amargo, mix sem glúten com proteínas vegetais, óleo de soja, polidextrose, ovo em pó, fibra de tapioca, cacau em pó, extrato de levedura e especiarias."
+        ],
+        "postParagraphs": [
+          "Os dois contêm derivados de soja e ovo e não contêm glúten. A loja declara os dois sem leite e sem lactose. Quem tem alergia ou intolerância deve ler o rótulo da embalagem na hora da compra."
+        ]
+      },
+      {
+        "heading": "Sem açúcar é low carb?",
+        "paragraphs": [
+          "Não necessariamente. O comum tem 23 g de carboidratos por unidade, e o proteico, 16 g, com 0 g de açúcares nos dois. \"Sem açúcar\" fala do açúcar, não do carboidrato. O rótulo não separa o maltitol da linha de carboidratos. A diferença entre \"sem açúcar\", \"zero\" e \"sem adição de açúcar\" está no guia de [doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
+        ]
+      },
+      {
+        "heading": "Pão de mel na dieta cetogênica",
+        "paragraphs": [
+          "O rótulo não diz se o pão de mel cabe numa dieta. Ele dá os números: 16 g de carboidratos por unidade no proteico e 23 g no comum, ou 36 g e 50 g por 100 g. A conta da sua dieta, com esses números, é com o nutricionista ou o médico que acompanha você."
+        ]
+      },
+      {
+        "heading": "Preço por unidade e no kit de 10",
+        "paragraphs": [
+          "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Versão",
+            "Unidade",
+            "Kit de 10",
+            "Por unidade no kit",
+            "Por unidade no kit com MAUAD e Pix"
+          ],
+          "rows": [
+            [
+              "Comum",
+              "R$ 7,57 (de R$ 7,97)",
+              "R$ 74,12 (de R$ 79,70)",
+              "R$ 7,41",
+              "R$ 6,34"
+            ],
+            [
+              "Proteico",
+              "R$ 8,49",
+              "R$ 78,96 (de R$ 84,90)",
+              "R$ 7,90",
+              "R$ 6,75"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com o preço do kit e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive), e o passo a passo, no guia de [como usar o cupom da Belive](/reviews/cupom-belive-como-usar).",
+          "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. A loja também vende combos de doces que trazem pão de mel junto com brownies e outros itens."
+        ]
+      },
+      {
+        "heading": "O que dizem as avaliações da loja",
+        "paragraphs": [
+          "Na página do comum, em 17/10/2026, havia 13 avaliações de clientes, de fevereiro de 2024 a junho de 2025, todas com 5 de 5. As palavras que mais aparecem são \"delícia\", \"saboroso\" e \"molhadinho\". Na do proteico, havia 4 avaliações, de março a outubro de 2024, também todas com 5 de 5, que falam em \"macio\" e \"saboroso\".",
+          "São avaliações de quem comprou, mostradas pela própria loja, não a nossa opinião. O proteico tem poucas para tirar uma média que diga muita coisa.",
+          "Para ver os outros doces da linha pelo rótulo, há os guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
+          "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
+          "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
+          "Quanto custa o kit de pão de mel da Belive? Em 17/10/2026, R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
+          "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD na Belive. Fontes: tabelas nutricionais, listas de ingredientes, preços e avaliações das páginas de produto do site oficial da Belive, lidos em 17/10/2026. Não provamos os pães de mel. Rótulo, preço e estoque mudam: confira na embalagem e no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Para comprar o pão de mel, em unidade ou no kit de 10, entre no site oficial da Belive pelo link da parceria e use o cupom MAUAD, de 10% OFF em todo o site.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Rótulos, ingredientes, preços e avaliações lidos no site oficial da Belive. Não provamos os pães de mel. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "doces-sem-acucar-para-diabeticos",
+        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      },
+      {
+        "slug": "brownie-sem-acucar-belive",
+        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      },
+      {
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      }
+    ]
   }
 ];
