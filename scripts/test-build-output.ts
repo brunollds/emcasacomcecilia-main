@@ -1632,7 +1632,7 @@ for (const [count, name] of [
 }
 assert.equal(endFullRelated, articleUrls.length, 'artigo com menos de 6 relacionados');
 // As duas poltronas da Damie, a Dolce Gusto Genio S Touch e o guia de cupons da YesStyle nos 10 idiomas.
-assert.equal(endBrunoBoxes, 13, 'artigos com a caixa do Bruno');
+assert.equal(endBrunoBoxes, 53, 'artigos com a caixa do Bruno');
 console.log(
   `fim dos ${articleUrls.length} artigos: ${endStoreBlocks} com o bloco da loja (${endStoreRules} com regras, ${endStoreArticleLinks} com "Todos os N artigos"), ` +
     `${endAffiliateBlocks} sem loja com o botão do cta, ${endWithoutStore} sem loja e sem cta, ${endGalleries} com galeria (${endPhotoGalleries} só de fotos), ${endTopVideos} com o vídeo do topo fora da galeria, ${endProsCons} com prós e contras, ${endFullRelated} com 6 relacionados, ${endBrunoBoxes} com a caixa do Bruno`

@@ -1,0 +1,217 @@
+{
+  "id": 474,
+  "slug": "is-hostinger-legit",
+  "locale": "en",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy",
+  "seoTitle": "Is Hostinger legit? Refunds and renewal",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Is Hostinger legit? Who bills you, the 30-day refund and what it doesn't cover, automatic renewal, and what to check before you pay.",
+  "metaDescription": "Is Hostinger legit? See who bills you, the 30-day refund and its exceptions, automatic renewal at the new price, and what to check before you sign up.",
+  "publishedAt": "October 19, 2026",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "Shield with the number 30 next to a calendar, in white on a purple background",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Hostinger is a large company with public refund and renewal rules. Hosting has a 30-day window to ask for your money back, and in our experience the service and support work. The catch is not whether the company is legitimate. It is renewal: it is switched on by default, and the renewal price can be different.",
+        "Before you pay, check three things: what the refund covers, when renewal kicks in, and which company appears as the biller. The sections below explain each one."
+      ]
+    },
+    {
+      "heading": "Who stands behind Hostinger",
+      "paragraphs": [
+        "The terms of service say the contracting company depends on the customer's country. In practice, the name shown at checkout and on your invoice is the one that counts: check both before you pay."
+      ]
+    },
+    {
+      "heading": "Refund: 30 days, with exceptions",
+      "paragraphs": [
+        "Hostinger's refund policy (version of October 15, 2026, read on October 19, 2026) gives you 30 days to ask for your money back, counted from the transaction date. Under the policy itself, renewal is also a transaction, so each charge starts a new window. The table shows what it lists:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Product",
+          "Refund"
+        ],
+        "rows": [
+          [
+            "Hosting (all plans, except the first payment after a free trial)",
+            "Yes, within 30 days"
+          ],
+          [
+            "VPS (KVM)",
+            "Yes, within 30 days, and only if the last VPS refund was requested more than 180 days ago"
+          ],
+          [
+            "Hostinger email, SSL certificate, daily backups",
+            "Yes, within 30 days"
+          ],
+          [
+            "New domain registration",
+            "Only within 96 hours"
+          ],
+          [
+            ".br registration (.com.br, .net.br)",
+            "Only within 168 hours"
+          ],
+          [
+            "Domain renewal",
+            "No"
+          ],
+          [
+            "Domain transfer, when it succeeds",
+            "No"
+          ],
+          [
+            "VPS KVM upgrades and extra email storage",
+            "No"
+          ],
+          [
+            "Paid support services",
+            "No"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "To request it, open a ticket with the button in the bottom-right corner of the site, with the invoice number (which starts with HBR) and the reason. The amount goes back to the payment method you used. If you choose account credit, the refund becomes credit and does not return to the card. The policy also says it refuses repeated or mass requests."
+      ]
+    },
+    {
+      "heading": "Automatic renewal and the new price",
+      "paragraphs": [
+        "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
+        "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and don't renew manually before the period ends, the service is closed.",
+        "On Reclame Aqui, a Brazilian site for public complaints, billing is the issue that comes up most for the company, and the case is in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews). The rule for the referral link at renewal, and what happens to the discount, is in the [referral link guide](/en/reviews/hostinger-coupon-code-referral)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-en.webp",
+          "alt": "Timeline: purchase, 30 days for a refund, charge 30 to 0 days before the end of the period, and renewal at the current price",
+          "caption": "Timeline from purchase to renewal at Hostinger. Our own drawing",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "Downtime and the availability guarantee",
+      "paragraphs": [
+        "The terms say the site may go offline “from time to time” for maintenance or for reasons outside the company's control, and that Hostinger takes no responsibility for it. The plans table on the pricing page advertises “99.9% guaranteed uptime” (read on October 19, 2026). That is what Hostinger advertises. The availability commitment, where it exists, is in each service's document.",
+        "If your site cannot go offline, read your plan's document before you pay. The line on the page is not enough."
+      ]
+    },
+    {
+      "heading": "Complaints and reviews",
+      "paragraphs": [
+        "On Trustpilot the company's score is 4.6, but it comes from reviews the company itself invites customers to leave. The full numbers, and what they don't show, are in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews)."
+      ]
+    },
+    {
+      "heading": "Support",
+      "paragraphs": [
+        "Tickets, including refund requests, are opened with the ticket button in the bottom-right corner of the site."
+      ]
+    },
+    {
+      "heading": "Our experience",
+      "paragraphs": [
+        "Em Casa com Cecília runs on Hostinger. Bruno, who also signs this text, has been a customer since 2024, with more than 24 months of contracts: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. He has never seen the service go down, and every time he had a problem, support solved it, mainly the AI agent.",
+        "This is one experience, not a guarantee. It does not say what will happen with your plan, or with a plan at a different price or for a different period."
+      ]
+    },
+    {
+      "heading": "When Hostinger fits, and when it doesn't",
+      "paragraphs": [
+        "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and a 30-day window to try it out. If your site cannot go offline, the guarantee has to be written into the plan, and the public page does not show the number. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+      ]
+    },
+    {
+      "heading": "Where to see the plans",
+      "paragraphs": [
+        "The 20% from the referral link applies only to the first period of a new plan and does not stack with other coupons. If it makes sense for your site, the plans with the link are on the [Hostinger page on this site](/en/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "**Is Hostinger legit?** It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+        "**Does Hostinger offer refunds?** Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
+        "**Is Hostinger renewal automatic?** Yes, by default. You can turn it off in your account at any time. Without a manual renewal, the service ends at the end of the period.",
+        "**Who bills you at Hostinger?** It depends on your country. The terms say the contracting company depends on where you live. Check the name shown at checkout.",
+        "**Do I need a Hostinger coupon?** No. The referral link already gives 20% off the first period of a new plan, and that discount does not stack with other coupons."
+      ]
+    },
+    {
+      "heading": "Checklist before you pay",
+      "bullets": [
+        "Check your product's line in the refund table.",
+        "Look at the renewal price, not just the first period's.",
+        "Turn off automatic renewal right after purchase if you don't want it to continue.",
+        "Check at checkout and on your invoice which company appears as the biller.",
+        "Look for the availability guarantee in your plan's document."
+      ]
+    },
+    {
+      "heading": "Transparency note",
+      "paragraphs": [
+        "This text has a Hostinger referral link. If you sign up through the link, the program may give Bruno credit with Hostinger. Refund, renewal and company details come from Hostinger's public documents, read on October 19, 2026. The experience is ours and does not automatically apply to your plan."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "The 20% applies only to the first period and does not stack with other coupons. See the plans through the link.",
+    "label": "See Hostinger plans",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "This text has a Hostinger referral link, and Hostinger hosts this site. Buying through the link may give Bruno credit with Hostinger, at no extra cost to you.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-trustpilot-reviews",
+      "title": "Hostinger on Trustpilot: score, complaints and what the numbers show"
+    },
+    {
+      "slug": "hostinger-coupon-code-referral",
+      "title": "Hostinger coupon: you don't need one — what the referral link gives"
+    },
+    {
+      "slug": "hostinger-black-friday",
+      "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?"
+    }
+  ]
+}

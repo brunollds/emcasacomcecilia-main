@@ -1,0 +1,225 @@
+{
+  "id": 473,
+  "slug": "hostinger-e-confiavel",
+  "locale": "pt",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar",
+  "seoTitle": "Hostinger é confiável? Reembolso e renovação",
+  "type": "Editorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o que ele não cobre, a renovação automática e o que checar antes de pagar.",
+  "metaDescription": "Hostinger é confiável? Veja quem cobra, o reembolso de 30 dias e as exceções, a renovação automática com preço novo e o que conferir antes de contratar.",
+  "publishedAt": "19 de outubro de 2026",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "Escudo com o número 30 ao lado de um calendário, em branco sobre fundo roxo",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação. A hospedagem tem 30 dias para pedir o dinheiro de volta, e, na nossa experiência, o serviço e o suporte funcionam. O ponto que pega não é a idoneidade da empresa, é a renovação: ela vem ligada por padrão, e o preço da renovação pode ser outro.",
+        "Antes de pagar, confira três coisas: o que o reembolso cobre, quando a renovação cai e qual empresa aparece como cobradora. As seções abaixo explicam cada uma."
+      ]
+    },
+    {
+      "heading": "Quem está por trás da Hostinger",
+      "paragraphs": [
+        "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos (revisados em 09/10/2026), a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
+      ]
+    },
+    {
+      "heading": "Reembolso: 30 dias, com exceções",
+      "paragraphs": [
+        "A política de reembolso da Hostinger (versão de 15/10/2026, lida em 19/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Reembolso"
+        ],
+        "rows": [
+          [
+            "Hospedagem (todos os planos, exceto o primeiro pagamento depois do teste grátis)",
+            "Sim, em 30 dias"
+          ],
+          [
+            "VPS (KVM)",
+            "Sim, em 30 dias, e só se o último reembolso de VPS tiver sido pedido há mais de 180 dias"
+          ],
+          [
+            "E-mail Hostinger, certificado SSL, backups diários",
+            "Sim, em 30 dias"
+          ],
+          [
+            "Novo registro de domínio",
+            "Só em 96 horas"
+          ],
+          [
+            "Registro .br (.com.br, .net.br)",
+            "Só em 168 horas"
+          ],
+          [
+            "Renovação de domínio",
+            "Não"
+          ],
+          [
+            "Transferência de domínio, quando dá certo",
+            "Não"
+          ],
+          [
+            "Upgrades de VPS KVM e armazenamento extra de e-mail",
+            "Não"
+          ],
+          [
+            "Serviços de suporte pagos",
+            "Não"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Para pedir, abra um chamado pelo botão no canto inferior direito do site, com o número da fatura (que começa com HBR) e o motivo. O valor volta para o meio de pagamento usado. Se você escolher o saldo da conta, a devolução vira crédito e não volta para o cartão. A política também avisa que recusa pedidos repetidos ou em massa."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-politica-reembolso.webp",
+          "alt": "Trecho da política de reembolso da Hostinger com a lista de produtos reembolsáveis em 30 dias",
+          "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: site da Hostinger, print de 19/10/2026",
+          "objectFit": "contain",
+          "aspectRatio": 1.75
+        }
+      ]
+    },
+    {
+      "heading": "Renovação automática e preço novo",
+      "paragraphs": [
+        "Quem contrata entra na renovação automática, porque ela é a configuração padrão. A cobrança sai de 30 a 0 dias antes do fim do período, no cartão marcado como padrão, pelo valor vigente do plano na data. Os termos dizem que esse valor pode ser maior ou menor que o do primeiro período, e que a mudança de preço vale na renovação, sem aviso prévio.",
+        "A Hostinger pode avisar por e-mail antes da cobrança, mas os termos dizem que ela não tem essa obrigação. Clientes com plano de um mês, por exemplo, não são avisados. Para desligar, entre na conta e desative a renovação a qualquer momento. Se você desligar e não renovar à mão antes do fim do período, o serviço é encerrado.",
+        "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). A regra do código de indicação na renovação, com o que acontece com o desconto, está no [guia do código de indicação](/reviews/cupom-hostinger-indicacao)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-pt.webp",
+          "alt": "Linha do tempo: compra, 30 dias para reembolso, cobrança de 30 a 0 dias antes do fim do período e renovação pelo preço vigente",
+          "caption": "Linha do tempo da compra à renovação na Hostinger. Desenho próprio",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "Queda do site e garantia de disponibilidade",
+      "paragraphs": [
+        "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\" (lida em 19/10/2026). É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
+        "Se o seu site não pode sair do ar, procure o documento do seu plano antes de pagar. A frase da página não basta."
+      ]
+    },
+    {
+      "heading": "Reclamações e avaliações",
+      "paragraphs": [
+        "No Reclame Aqui, a Hostinger tem nota 8,4 nos últimos 12 meses, e no Trustpilot a nota é 4,6, mas essa vem de avaliações que a própria empresa convida os clientes a deixar; os números completos, com o que eles não mostram, estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "Suporte",
+      "paragraphs": [
+        "Chamados, inclusive os de reembolso, são abertos pelo botão de chamado no canto inferior direito do site."
+      ]
+    },
+    {
+      "heading": "Nossa experiência",
+      "paragraphs": [
+        "O Em Casa com Cecília roda na Hostinger. O Bruno, que também assina este texto, é cliente desde 2024, com mais de 24 meses de contratos: hospedagem Business, um VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Ele nunca viu o serviço cair, e toda vez que teve um problema, o suporte resolveu, principalmente o agente de IA.",
+        "Isso é uma experiência, não uma garantia. Ela não diz o que vai acontecer com o seu plano, nem com um plano de outro preço ou outro período."
+      ]
+    },
+    {
+      "heading": "Quando a Hostinger serve, e quando não",
+      "paragraphs": [
+        "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, a garantia tem de estar escrita no plano, e a página pública não traz o número. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
+      ]
+    },
+    {
+      "heading": "Onde ver os planos",
+      "paragraphs": [
+        "Os 20% da indicação valem só no primeiro período de um plano novo e não somam com outros cupons. Se faz sentido para o seu site, os planos com o link estão na [página da Hostinger neste site](/cupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "**A Hostinger é confiável?** É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
+        "**A Hostinger tem reembolso?** Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
+        "**A renovação da Hostinger é automática?** Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
+        "**Quem cobra na Hostinger?** Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
+        "**Tem cupom Hostinger?** Não é preciso cupom. O link de indicação já dá 20% no primeiro período de um plano novo, e esse desconto não soma com outros cupons."
+      ]
+    },
+    {
+      "heading": "Checklist antes de pagar",
+      "bullets": [
+        "Leia a linha do seu produto na tabela de reembolso.",
+        "Veja o preço da renovação, e não só o do primeiro período.",
+        "Desligue a renovação automática logo depois da compra, se não quiser que ela siga.",
+        "Confira no checkout e na fatura qual empresa aparece como cobradora.",
+        "Procure a garantia de disponibilidade no documento do seu plano."
+      ]
+    },
+    {
+      "heading": "Nota de transparência",
+      "paragraphs": [
+        "Este texto tem link de indicação da Hostinger. Se você contratar pelo link, o programa pode gerar crédito na Hostinger para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Os 20% valem só no primeiro período e não somam com outros cupons. Veja os planos pelo link.",
+    "label": "Ver os planos da Hostinger",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Este texto tem link de indicação da Hostinger, que hospeda este site. A compra pelo link pode gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-reclame-aqui-nota-reputacao",
+      "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+    },
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+    },
+    {
+      "slug": "black-friday-hostinger",
+      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+    }
+  ]
+}

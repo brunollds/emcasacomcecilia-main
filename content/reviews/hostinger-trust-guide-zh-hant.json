@@ -1,0 +1,217 @@
+{
+  "id": 481,
+  "slug": "hostinger-trust-guide-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼",
+  "seoTitle": "Hostinger 可靠嗎？退款與續訂",
+  "type": "編輯專題",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 可靠嗎？誰負責收費、30 天退款與不包含的項目、自動續訂，以及付款前該確認的事。",
+  "metaDescription": "Hostinger 可靠嗎？了解收費方、30 天退款與例外、以新價格自動續訂的規則，以及下單前要核對的事項。",
+  "publishedAt": "2026年10月19日",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "紫色背景上以白色呈現的盾牌，旁邊是日曆，盾牌上有數字 30",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Hostinger 是規模不小的公司，退款與續訂規則都公開透明。主機方案可在 30 天內申請退款；以我們的經驗，服務與客服運作正常。真正要留意的不是公司是否可靠，而是續訂：續訂預設開啟，續訂價格也可能不同。",
+        "付款前請確認三件事：退款涵蓋哪些項目、何時開始續訂，以及帳單上會顯示哪家公司。下面各節會逐一說明。"
+      ]
+    },
+    {
+      "heading": "Hostinger 背後的公司",
+      "paragraphs": [
+        "服務條款說明，簽約公司取決於客戶所在的國家。付款前，請核對結帳頁面與帳單上顯示的公司名稱。"
+      ]
+    },
+    {
+      "heading": "退款：30 天，有例外",
+      "paragraphs": [
+        "Hostinger 的退款政策（2026年10月15日版本，2026年10月19日查閱）允許你自交易日起 30 天內申請退款。依政策本身，續訂也屬於一筆交易，因此每次扣款都會重新計算期限。下表是政策列出的內容："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "產品",
+          "退款"
+        ],
+        "rows": [
+          [
+            "主機（所有方案，免費試用後的首筆付款除外）",
+            "可以，30 天內"
+          ],
+          [
+            "VPS（KVM）",
+            "可以，30 天內；且只有在上一次 VPS 退款申請距今超過 180 天時才適用"
+          ],
+          [
+            "Hostinger 電郵、SSL 憑證、每日備份",
+            "可以，30 天內"
+          ],
+          [
+            "新網域註冊",
+            "只限 96 小時內"
+          ],
+          [
+            ".br 註冊（.com.br、.net.br）",
+            "只限 168 小時內"
+          ],
+          [
+            "網域續訂",
+            "不可以"
+          ],
+          [
+            "網域轉移（成功時）",
+            "不可以"
+          ],
+          [
+            "VPS KVM 升級與額外電郵儲存空間",
+            "不可以"
+          ],
+          [
+            "付費支援服務",
+            "不可以"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "申請退款時，請使用網站右下角的按鈕開立工單，並附上帳單編號（以 HBR 開頭）與原因。款項會退回你付款所用的方式。若選擇退回帳戶餘額，退款會變成額度，不會退回信用卡。政策也說明會拒絕重複或大量的申請。"
+      ]
+    },
+    {
+      "heading": "自動續訂與新價格",
+      "paragraphs": [
+        "下單後會自動進入續訂，因為這是預設設定。扣款會在期限結束前 30 至 0 天之間進行，從設為預設的信用卡扣款，金額為扣款當日該方案的現行價格。條款指出，這個價格可能高於或低於首個計費週期，而且價格變動會在續訂時生效，無需事先通知。",
+        "Hostinger 可能在扣款前以電郵提醒，但條款說明它沒有這個義務。例如，月付方案的客戶不會收到通知。要關閉自動續訂，請登入帳戶，隨時停用續訂即可。若你關閉了續訂，又在期限結束前沒有手動續費，服務就會終止。",
+        "在巴西的公開投訴網站 Reclame Aqui 上，扣款是針對這家公司最常見的問題，這件事在[關於 Hostinger 口碑的文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)中有詳述。推薦碼在續訂時的規則，以及折扣會怎麼變，則在[推薦碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)中說明。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-zh-hant.webp",
+          "alt": "時間軸：購買、30 天退款期、期限結束前 30 至 0 天扣款，以及以現行價格續訂",
+          "caption": "從購買到續訂的 Hostinger 時間軸。原創插圖",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "停機與可用性保證",
+      "paragraphs": [
+        "條款指出，網站可能因維護或公司無法控制的因素而「不時」離線，Hostinger 對此不承擔責任。定價頁的方案表宣稱「保證 99.9% 運作時間」（2026年10月19日查閱）。這是 Hostinger 的宣傳內容；如果有可用性承諾，應寫在各項服務的文件中。",
+        "如果你的網站不能離線，付款前請先查看方案文件。頁面上的一句話並不足夠。"
+      ]
+    },
+    {
+      "heading": "投訴與評價",
+      "paragraphs": [
+        "Trustpilot 上 Hostinger 的評分為 4.6，但這些評價來自公司主動邀請客戶留下的評論。完整數字，以及它們沒有反映的部分，都在[關於 Hostinger 口碑的文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)中。"
+      ]
+    },
+    {
+      "heading": "客服",
+      "paragraphs": [
+        "包括退款在內的工單，都透過網站右下角的工單按鈕開立。"
+      ]
+    },
+    {
+      "heading": "我們的經驗",
+      "paragraphs": [
+        "Em Casa com Cecília 的網站運行於 Hostinger。同時署名本文的 Bruno 自 2024 年起就是客戶，已有超過 24 個月的合約：商務主機、一台 KVM 2 VPS、商務電郵與網域，全部設定自動續訂。他從未見過服務停機，每次遇到問題，客服都解決了，尤其是 AI 客服代理。",
+        "這是一次個人經驗，不是保證。它無法說明你的方案會發生什麼事，也不能代表其他價格或其他週期的方案。"
+      ]
+    },
+    {
+      "heading": "什麼情況適合，什麼情況不適合",
+      "paragraphs": [
+        "如果是部落格、個人網站或小型商店，Hostinger 以清楚的規則與 30 天的試用期提供服務。若網站不能離線，保證必須寫在方案中，而公開頁面並沒有提供這個數字。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)列出了每項優惠的日期與規則。"
+      ]
+    },
+    {
+      "heading": "在哪裡看方案",
+      "paragraphs": [
+        "推薦連結提供的 20% 優惠只適用於新方案的首個計費週期，且不能與其他優惠券疊加。如果適合你的網站，帶有連結的方案可在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)查看。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "**Hostinger 可靠嗎？** 它是規模不小的公司，退款與續訂政策都公開透明。需要注意的是自動續訂與其價格，而不是公司是否可靠。",
+        "**Hostinger 有退款嗎？** 有。主機與 VPS 可在 30 天內退款，但適用表中的例外。網域續訂與付費支援服務不予退款。",
+        "**Hostinger 的續訂是自動的嗎？** 是的，預設如此。你隨時可以在帳戶中關閉；若不手動續費，服務會在期限結束時終止。",
+        "**Hostinger 由誰收費？** 視國家而定。簽約公司會依地區不同，請在結帳頁面與帳單上確認公司名稱。",
+        "**需要 Hostinger 優惠券嗎？** 不需要。推薦連結已經為新方案的首個計費週期提供 20% 優惠，而且這個優惠不能與其他優惠券疊加。"
+      ]
+    },
+    {
+      "heading": "付款前檢查清單",
+      "bullets": [
+        "查看退款表中你所購產品的那一行。",
+        "不只看首個計費週期的價格，也要看續訂價格。",
+        "如果不想讓它繼續，購買後盡快關閉自動續訂。",
+        "在結帳頁面與帳單上確認哪家公司是收費方。",
+        "在你的方案文件中找出可用性保證。"
+      ]
+    },
+    {
+      "heading": "透明度說明",
+      "paragraphs": [
+        "本文含有 Hostinger 的推薦連結。如果你透過該連結購買，可能會為 Bruno 在 Hostinger 產生帳戶額度。退款、續訂與公司資料來自 Hostinger 的公開文件，於 2026 年 10 月 19 日查閱。這些體驗是我們自己的，不會自動適用於你的方案。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "20% 優惠只適用於首個計費週期，且不能與其他優惠券疊加。透過連結查看方案。",
+    "label": "查看 Hostinger 方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "本文含有 Hostinger 的推薦連結，而 Hostinger 也是本站的主機服務商。透過連結購買，Bruno 可能獲得 Hostinger 的帳戶額度，但你不需額外付費。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-trustpilot-reviews-zh-hant",
+      "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hant",
+      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hant",
+      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+    }
+  ]
+}

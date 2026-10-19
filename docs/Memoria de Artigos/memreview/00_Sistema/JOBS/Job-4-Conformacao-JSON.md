@@ -63,17 +63,17 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 
    O `type` aparece no cabeçalho do artigo, nos cards da vitrine do idioma e nos relacionados, então vai no idioma da versão, com o sentido do PT e o termo que as famílias já usam (tabela abaixo). Igual ao PT só "Editorial" em `en` e `es`; em `ko`, `ja`, `zh-hant` e `zh-hans`, nunca em letras latinas. O `npm run test:review-i18n` reprova os dois casos. "Editorial" segue o selo do mesmo cabeçalho (`kindLabel.editorial` em `src/components/review/articleCopy.ts`), para os dois rótulos baterem. Rótulo novo: traduzir o sentido e acrescentar a coluna aqui.
 
-   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões | Guia de Black Friday | Comparativo | Guia do Código de Indicação | Comparativo de Lojas | Guia de Entrega e Frete |
-   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-   | en | Guide & Coupons | Editorial | First Impressions | Black Friday Guide | Comparison Guide | Referral Code Guide | Store Comparison | Shipping Guide |
-   | es | Guía & Cupones | Editorial | Primeras Impresiones | Guía de Black Friday | Guía comparativa | Guía del código de referido | Comparativa de Tiendas | Guía de Envíos |
-   | fr | Guide & Coupons | Éditorial | Premières impressions | Guide Black Friday | Guide comparatif | Guide du code de parrainage | Comparatif de boutiques | Guide de livraison |
-   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke | Black-Friday-Ratgeber | Vergleich | Empfehlungscode-Ratgeber | Shop-Vergleich | Versand-Ratgeber |
-   | it | Guida e coupon | Editoriale | Prime impressioni | Guida al Black Friday | Guida comparativa | Guida al codice invito | Confronto tra negozi | Guida alle spedizioni |
-   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 | 블랙프라이데이 가이드 | 비교 가이드 | 추천 코드 가이드 | 쇼핑몰 비교 | 배송 가이드 |
-   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション | ブラックフライデーガイド | 比較ガイド | 紹介コードガイド | ショップ比較 | 配送ガイド |
-   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 | 黑色星期五指南 | 比較指南 | 推薦碼指南 | 購物平台比較 | 運送指南 |
-   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 | 黑色星期五指南 | 对比指南 | 推荐码指南 | 购物平台比较 | 运送指南 |
+   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões | Guia de Black Friday | Comparativo | Guia do Código de Indicação | Comparativo de Lojas | Guia de Entrega e Frete | Análise de Reputação |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | en | Guide & Coupons | Editorial | First Impressions | Black Friday Guide | Comparison Guide | Referral Code Guide | Store Comparison | Shipping Guide | Reputation Analysis |
+   | es | Guía & Cupones | Editorial | Primeras Impresiones | Guía de Black Friday | Guía comparativa | Guía del código de referido | Comparativa de Tiendas | Guía de Envíos | Análisis de reputación |
+   | fr | Guide & Coupons | Éditorial | Premières impressions | Guide Black Friday | Guide comparatif | Guide du code de parrainage | Comparatif de boutiques | Guide de livraison | Analyse de réputation |
+   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke | Black-Friday-Ratgeber | Vergleich | Empfehlungscode-Ratgeber | Shop-Vergleich | Versand-Ratgeber | Reputationsanalyse |
+   | it | Guida e coupon | Editoriale | Prime impressioni | Guida al Black Friday | Guida comparativa | Guida al codice invito | Confronto tra negozi | Guida alle spedizioni | Analisi della reputazione |
+   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 | 블랙프라이데이 가이드 | 비교 가이드 | 추천 코드 가이드 | 쇼핑몰 비교 | 배송 가이드 | 평판 분석 |
+   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション | ブラックフライデーガイド | 比較ガイド | 紹介コードガイド | ショップ比較 | 配送ガイド | 評判分析 |
+   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 | 黑色星期五指南 | 比較指南 | 推薦碼指南 | 購物平台比較 | 運送指南 | 口碑分析 |
+   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 | 黑色星期五指南 | 对比指南 | 推荐码指南 | 购物平台比较 | 运送指南 | 口碑分析 |
 
 5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
 6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.

@@ -8,7 +8,7 @@ revisao_geral_ate: "2027-01-19"
 
 # Dossiê Factual: Hostinger
 
-Indicação iniciada em 19/10/2026 com a página `/cupons/hostinger`, sem artigo. Não é parceria de
+Indicação iniciada em 19/10/2026 com a página `/cupons/hostinger`. Em 19/10/2026 entraram os quatro artigos de onboarding, cada um nos 10 idiomas: [[hostinger-e-confiavel]], [[hostinger-reclame-aqui-nota-reputacao]], [[cupom-hostinger-indicacao]] e [[black-friday-hostinger]]. Não é parceria de
 marca: é o programa de indicação da Hostinger, onde o site está hospedado, com o código do Bruno
 (`SONARDEOFERTAS`) dentro do link. Fica fora do `/sobre` (decisão do Bruno, 19/10/2026).
 
@@ -21,7 +21,7 @@ marca: é o programa de indicação da Hostinger, onde o site está hospedado, c
 | Indicação por link, sem cupom para digitar ("Não precisa de cupom") | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `hostinger`, `offerMode: 'affiliate-link'`) e página de indicação da Hostinger | 2026-10-19 | 2026-11-19 | O desconto fica vinculado ao link e já aparece nos preços | Alta |
 | Link `https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS` | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-19 | 2026-11-19 | Enviado pelo Bruno; manter exatamente como veio. Abre `hostinger.com/br/refer`. Só no PT | Alta |
 | Link global `https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS`, nas páginas dos 9 idiomas | condicao_comercial_volatil | `offerUrl` de `hostinger` em `src/lib/couponTranslations.ts` | 2026-10-19 | 2026-11-19 | Sugerido pelo Bruno: abre `hostinger.com/refer` em inglês com as mesmas regras (20%, primeiro período, não soma), área de serviço "Worldwide", sem restrição de país ou moeda | Alta |
-| 20% no primeiro período de qualquer plano novo, seja qual for o produto | condicao_comercial_volatil | FAQ da página de indicação | 2026-10-19 | 2026-11-19 | Não vale em renovação nem em compra já feita | Alta |
+| 20% no primeiro período de um plano novo, seja qual for o produto | condicao_comercial_volatil | FAQ da página de indicação; termos do programa (`hostinger.com/br/legal/referral-program-agreement`) | 2026-10-19 | 2026-11-19 | Não vale em renovação nem em compra já feita. Os termos falam em assinaturas de 12 meses ou mais: nunca escrever "qualquer plano" | Alta |
 | Renovação pelo preço padrão do plano, o que aparece abaixo do card; dá para trocar o período ou cancelar antes | condicao_comercial_volatil | FAQ da página de indicação | 2026-10-19 | 2026-11-19 | | Alta |
 | Não soma com outros cupons ("Este já é o melhor preço que podemos oferecer por este link") | condicao_comercial_volatil | FAQ da página de indicação | 2026-10-19 | 2026-11-19 | Exceção explícita à regra de que todo cupom soma com as promoções | Alta |
 | Quem indica recebe crédito, que o Bruno usa na renovação dos planos do site | condicao_comercial_volatil | Bruno, 19/10/2026; programa de indicação da Hostinger | 2026-10-19 | 2026-11-19 | Os termos do programa (percentual e prazo de liberação) não foram conferidos: o texto só diz que a compra "pode gerar crédito" | Média |

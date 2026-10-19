@@ -1,0 +1,217 @@
+{
+  "id": 482,
+  "slug": "hostinger-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么",
+  "seoTitle": "Hostinger 靠谱吗？退款与续费",
+  "type": "编辑专题",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 靠谱吗？谁负责收费、30 天退款及其不包括的项目、自动续费，以及付款前要确认什么。",
+  "metaDescription": "Hostinger 靠谱吗？了解收费方、30 天退款及例外、按新价格自动续费的规则，以及下单前要核对的事项。",
+  "publishedAt": "2026年10月19日",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "紫色背景上以白色呈现的盾牌，旁边是日历，盾牌上有数字 30",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Hostinger 是规模不小的公司，退款和续费规则公开透明。主机套餐可在 30 天内申请退款；根据我们的经验，服务和客服运行正常。真正要留意的不是公司是否靠谱，而是续费：续费默认开启，续费价格也可能不同。",
+        "付款前请确认三件事：退款涵盖哪些项目、何时开始续费，以及账单上会显示哪家公司。下面各节会逐一说明。"
+      ]
+    },
+    {
+      "heading": "Hostinger 背后的公司",
+      "paragraphs": [
+        "服务条款说明，签约公司取决于客户所在的国家。付款前，请核对结账页面和账单上显示的公司名称。"
+      ]
+    },
+    {
+      "heading": "退款：30 天，有例外",
+      "paragraphs": [
+        "Hostinger 的退款政策（2026年10月15日版本，2026年10月19日查阅）允许你自交易日起 30 天内申请退款。按政策本身，续费也算一笔交易，因此每次扣款都会重新计算期限。下表是政策列出的内容："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "产品",
+          "退款"
+        ],
+        "rows": [
+          [
+            "主机（所有套餐，免费试用后的首笔付款除外）",
+            "可以，30 天内"
+          ],
+          [
+            "VPS（KVM）",
+            "可以，30 天内；且只有在上一次 VPS 退款申请距今超过 180 天时才适用"
+          ],
+          [
+            "Hostinger 邮箱、SSL 证书、每日备份",
+            "可以，30 天内"
+          ],
+          [
+            "新域名注册",
+            "仅限 96 小时内"
+          ],
+          [
+            ".br 注册（.com.br、.net.br）",
+            "仅限 168 小时内"
+          ],
+          [
+            "域名续费",
+            "不可以"
+          ],
+          [
+            "域名转移（成功时）",
+            "不可以"
+          ],
+          [
+            "VPS KVM 升级与额外邮箱存储空间",
+            "不可以"
+          ],
+          [
+            "付费支持服务",
+            "不可以"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "申请退款时，请使用网站右下角的按钮提交工单，并附上账单编号（以 HBR 开头）和原因。款项会退回你付款所用的方式。若选择退回账户余额，退款会变成额度，不会退回银行卡。政策还说明会拒绝重复或大量的申请。"
+      ]
+    },
+    {
+      "heading": "自动续费与新价格",
+      "paragraphs": [
+        "下单后会自动进入续费，因为这是默认设置。扣款会在到期前 30 至 0 天之间进行，从设为默认的银行卡扣款，金额为扣款当日该套餐的现行价格。条款指出，这个价格可能高于或低于首个计费周期，而且价格变动会在续费时生效，无需事先通知。",
+        "Hostinger 可能在扣款前发邮件提醒，但条款说明它没有这个义务。例如，月付套餐的客户不会收到通知。要关闭自动续费，请登录账户，随时停用续费即可。若你关闭了续费，又在期限结束前没有手动续费，服务就会终止。",
+        "在巴西的公开投诉网站 Reclame Aqui 上，扣款是针对这家公司最常见的问题，这件事在[关于 Hostinger 口碑的文章](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)中有详述。推荐码在续费时的规则，以及折扣会怎么变，则在[推荐码指南](/zh-hans/reviews/hostinger-referral-code-zh-hans)中说明。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-zh-hans.webp",
+          "alt": "时间线：购买、30 天退款期、到期前 30 至 0 天扣款，以及按现行价格续费",
+          "caption": "从购买到续费的 Hostinger 时间线。原创插图",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "宕机与可用性保证",
+      "paragraphs": [
+        "条款指出，网站可能因维护或公司无法控制的因素而“时常”离线，Hostinger 对此不承担责任。定价页的套餐表宣称“保证 99.9% 运行时间”（2026年10月19日查阅）。这是 Hostinger 的宣传内容；如果有可用性承诺，应写在各项服务的文件中。",
+        "如果你的网站不能离线，付款前请先查看套餐文件。页面上的一句话并不足够。"
+      ]
+    },
+    {
+      "heading": "投诉与评价",
+      "paragraphs": [
+        "Trustpilot 上 Hostinger 的评分为 4.6，但这些评价来自公司主动邀请客户留下的评论。完整数字，以及它们没有反映的部分，都在[关于 Hostinger 口碑的文章](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)中。"
+      ]
+    },
+    {
+      "heading": "客服",
+      "paragraphs": [
+        "包括退款在内的工单，都通过网站右下角的工单按钮开具。"
+      ]
+    },
+    {
+      "heading": "我们的经验",
+      "paragraphs": [
+        "Em Casa com Cecília 的网站运行在 Hostinger 上。同时署名本文的 Bruno 从 2024 年起就是客户，已有超过 24 个月的合同：商务主机、一台 KVM 2 VPS、商务邮箱和域名，全部设置了自动续费。他从未见过服务宕机，每次遇到问题，客服都解决了，尤其是 AI 客服代理。",
+        "这是一次个人经验，不是保证。它无法说明你的套餐会发生什么，也不能代表其他价格或其他周期的套餐。"
+      ]
+    },
+    {
+      "heading": "什么情况适合，什么情况不适合",
+      "paragraphs": [
+        "如果是博客、个人网站或小型店铺，Hostinger 以清晰的规则和 30 天的试用期提供服务。如果网站不能离线，保证必须写在套餐里，而公开页面并没有给出这个数字。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)列出了每项优惠的日期和规则。"
+      ]
+    },
+    {
+      "heading": "在哪里看套餐",
+      "paragraphs": [
+        "推荐链接提供的 20% 优惠只适用于新套餐的首个计费周期，且不能与其他优惠券叠加。如果适合你的网站，带有链接的套餐可在[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)查看。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "**Hostinger 靠谱吗？** 它是规模不小的公司，退款和续费政策都公开透明。需要注意的是自动续费及其价格，而不是公司是否靠谱。",
+        "**Hostinger 有退款吗？** 有。主机和 VPS 可在 30 天内退款，但适用表中的例外。域名续费和付费支持服务不予退款。",
+        "**Hostinger 的续费是自动的吗？** 是的，默认如此。你随时可以在账户中关闭；若不手动续费，服务会在期限结束时终止。",
+        "**Hostinger 由谁收费？** 视国家而定。签约公司会因地区不同而变化，请在结账页面和账单上确认公司名称。",
+        "**需要 Hostinger 优惠券吗？** 不需要。推荐链接已经为新套餐的首个计费周期提供 20% 优惠，而且这个优惠不能与其他优惠券叠加。"
+      ]
+    },
+    {
+      "heading": "付款前检查清单",
+      "bullets": [
+        "查看退款表中你所购产品的那一行。",
+        "不只看首个计费周期的价格，也要看续费价格。",
+        "如果不想让它继续，购买后尽快关闭自动续费。",
+        "在结账页面和账单上确认哪家公司是收费方。",
+        "在你的套餐文件中找到可用性保证。"
+      ]
+    },
+    {
+      "heading": "透明度说明",
+      "paragraphs": [
+        "本文含有 Hostinger 的推荐链接。如果你通过该链接购买，可能会为 Bruno 在 Hostinger 产生账户额度。退款、续费和公司信息来自 Hostinger 的公开文件，于 2026 年 10 月 19 日查阅。这些体验是我们自己的，不会自动适用于你的套餐。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "20% 优惠仅适用于首个计费周期，且不能与其他优惠券叠加。通过链接查看套餐。",
+    "label": "查看 Hostinger 套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "本文含有 Hostinger 的推荐链接，而 Hostinger 也是本站的主机服务商。通过链接购买，Bruno 可能获得 Hostinger 的账户额度，但你不需要额外付费。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-trustpilot-reviews-zh-hans",
+      "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hans",
+      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+    }
+  ]
+}

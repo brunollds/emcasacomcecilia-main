@@ -36,7 +36,10 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[hostinger-e-confiavel]] — Hostinger / Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar (Score Aut: 72 / Conv: 58; família de 10 idiomas; gates verdes em 19/10/2026)
+- [ ] [[hostinger-reclame-aqui-nota-reputacao]] — Hostinger / Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram (Score Aut: 67 / Conv: 52; família de 10 idiomas; gates verdes em 19/10/2026)
+- [ ] [[cupom-hostinger-indicacao]] — Hostinger / Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá (Score Aut: 60 / Conv: 75; família de 10 idiomas; gates verdes em 19/10/2026)
+- [ ] [[black-friday-hostinger]] — Hostinger / Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato? (Score Aut: 45 / Conv: 70; família de 10 idiomas; gates verdes em 19/10/2026)
 
 ---
 
