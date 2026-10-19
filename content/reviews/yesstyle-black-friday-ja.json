@@ -123,6 +123,13 @@
       "paragraphs": [
         "カートの金額によって変わります："
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "YesStyleの注文額別の割引の段階グラフ：US$79まで0%、US$79から8%、US$149から10%、US$199から15%。点線はUS$0から15%",
+        "caption": "緑の線は金額別クーポンです。US$79から8%、US$149から10%、US$199から15%。点線は最低額なしで15%になる日を示します。イラスト：Em Casa com Cecília。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**US$199以上のカート：** 金額別クーポンで、どの日も15%になります。最低額なしの日と同じ割合です。金曜日の前後で変わるのは、クーポンではなく商品ごとのセール価格です。",
         "**US$79〜US$199のカート：** 金額別クーポンは8%か10%です。最低額なしの日には、同じカートが15%になります。",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "YesStyleのチェックアウトには入力欄が2つあります。CECILIA010はReward Code欄に、その日のクーポンはCoupon Code欄に入力します。2024年と2025年のブラックフライデーのクーポンのルールは、どれもセール価格の商品、リワードコード、YS Points（YesStyleのポイント）と併用できると書いています。"
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "YesStyleのチェックアウトの「Enter Code」画面。Coupon Code欄にクーポン、Influencer / Rewards Code欄にCECILIA010",
+        "caption": "チェックアウトの2つの入力欄。上にはその日のクーポン（Coupon Code）、Influencer / Rewards Code にはCECILIA010を入れます。",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "ログインしてからカートを作ってください。クーポンは会員限定です。",
         "カートを作り、狙っている金額の段階（US$79、US$149、US$199）を超えているか確認します。",
@@ -181,12 +195,42 @@
       "heading": "配送と関税",
       "paragraphs": [
         "送料と配送日の目安はチェックアウトに表示され、クーポンは送料を割引しません。到着時に関税や手数料がかかった場合、YesStyleはUS$1,000未満の注文について、その金額をYesStyle Creditとして返金します。YesStyleが日本向けに公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)に載っています。"
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "YesStyleのカート画面とチェックアウトのパネル。配送オプション、コードの入力欄、注文の概要が見える",
+        "caption": "カートとチェックアウト：支払う前に、配送オプション、送料、到着の目安が表示されます。",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "カートの例：Abibのルーティン",
       "paragraphs": [
         "この記事の最後にある動画（ポルトガル語）では、セシリアがYesStyleから受け取った韓国ブランドAbibの製品を3つ試しています。目元用のハイドロゲルパッチ、PDRN配合のブースタークリーム、リップマスクです。韓国スキンケアを始めたばかりの人向けの短いルーティンで、ブラックフライデーのカートを組むときの良い出発点になります。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "笑顔のセシリアが、Abibの目元用ハイドロゲルパッチの容器とピンクのパッチを持っている",
+          "caption": "Abibの目元用ハイドロゲルパッチ。セシリアの動画より。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "セシリアが、AbibのPDRN配合ブースタークリームの白いチューブを顔の近くで持っている",
+          "caption": "AbibのPDRN配合ブースタークリーム。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "セシリアが唇をすぼめ、Abibのリップマスクのピンクの容器を持っている",
+          "caption": "Abibのリップマスク。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {

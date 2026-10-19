@@ -45,6 +45,7 @@
         "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得高达 5% 优惠（首购 5% / 回购 2%）。",
         "合资格促销优惠码可另外输入 Coupon Code 栏位，请于结账时确认两项优惠均已应用。"
       ],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "bullets": [
         "优惠：高达 5%（首购 5% / 回购 2%）",
         "输入位置：Reward Code",
@@ -56,6 +57,7 @@
       "paragraphs": [
         "在 YesStyle 选购商品加入购物车后前往结账。在 Reward Code 栏位输入 CECILIA010 并点击应用。"
       ],
+      "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "bullets": [
         "在 Reward Code 输入 CECILIA010",
         "在 Coupon Code 输入合资格促销优惠码",
@@ -66,7 +68,8 @@
       "heading": "购物前注意事项",
       "paragraphs": [
         "运费、税项及折扣适用范围会因目的地及优惠条件而异。请于付款前确认最终金额。"
-      ]
+      ],
+      "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
     },
     {
       "heading": "常见问题",

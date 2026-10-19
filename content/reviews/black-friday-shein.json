@@ -44,7 +44,14 @@
         "A SHEIN ainda não anunciou a Black Friday de 2026. Nos três últimos anos, as ofertas começaram antes da data, junto com o 11.11, e terminaram depois dela (25/11 em 2023 e 30/11 em 2024 e 2025). Em 2026, a Black Friday cai em 27 de novembro.",
         "A grande mudança deste ano é o imposto. Desde 13 de maio de 2026, o pedido internacional de até **US$ 50** (produto mais frete, já com os descontos) não paga imposto de importação. O ICMS do estado, de 17% a 20%, continua, e a SHEIN diz que cobre uma parte dele. Acima de US$ 50, o imposto de importação volta.",
         "Vale um cupom da SHEIN por pedido. O 4CW5Y é o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e confere as condições que aparecem para a sua conta."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+        "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+        "caption": "A página inicial da SHEIN Brasil em 12/10/2026. A campanha da Black Friday de 2026 ainda não tinha sido anunciada.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Quando começa a Black Friday da SHEIN",
@@ -146,6 +153,13 @@
         "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
         "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora, por isso ficam na página da loja aqui do site, com a data em que foram conferidas."
       ],
+      "image": {
+        "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+        "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
+        "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "links": [
         {
           "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
@@ -166,6 +180,13 @@
     },
     {
       "heading": "Trocas e devoluções depois da Black Friday",
+      "image": {
+        "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+        "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
+        "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas em 12 e 13/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5
+      },
       "bullets": [
         "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
         "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",

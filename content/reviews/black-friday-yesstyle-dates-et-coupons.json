@@ -123,6 +123,13 @@
       "paragraphs": [
         "Cela dépend de la taille de votre panier :"
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "Graphique en escalier de la réduction selon le montant de la commande sur YesStyle : 0 % jusqu'à US$ 79, 8 % à partir de US$ 79, 10 % à partir de US$ 149 et 15 % à partir de US$ 199, avec une ligne en pointillé à 15 % dès US$ 0",
+        "caption": "La ligne verte est le coupon par palier : 8 % à partir de US$ 79, 10 % à partir de US$ 149 et 15 % à partir de US$ 199. La ligne en pointillé représente les journées à 15 % sans minimum. Illustration d'Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Panier de US$ 199 ou plus :** le coupon par palier donne déjà 15 % chaque jour, le même pourcentage que les journées sans minimum. Ce qui peut changer autour du Black Friday, c'est le prix promotionnel de chaque produit, pas le coupon.",
         "**Panier entre US$ 79 et US$ 199 :** le coupon par palier donne 8 % ou 10 %. Pendant les journées sans minimum, ce même panier obtient 15 %.",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "La page de paiement de YesStyle comporte deux champs : \"Coupon Code\" et \"Reward Code\". Le coupon du jour va dans \"Coupon Code\". CECILIA010 va dans \"Reward Code\". Les règles de tous les coupons du Black Friday de 2024 et 2025 indiquent qu'ils sont valables avec les prix promotionnels, avec les Reward Codes et avec les YS Points, les points de la boutique elle-même."
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "Fenêtre Enter Code du paiement YesStyle, avec un coupon dans le champ Coupon Code et CECILIA010 dans le champ Influencer / Rewards Code",
+        "caption": "Les deux champs de la commande : le coupon du jour en haut et CECILIA010 dans le champ Influencer / Rewards Code.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "Connectez-vous à votre compte avant de remplir le panier : les coupons sont réservés aux membres.",
         "Remplissez le panier et vérifiez qu'il atteint le palier voulu (US$ 79, US$ 149 ou US$ 199).",
@@ -181,12 +195,42 @@
       "heading": "Livraison et douane",
       "paragraphs": [
         "Le coût de livraison et le délai estimé s'affichent au paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les droits et frais de douane sur les commandes de moins de US$ 1 000, sous forme de crédit YesStyle. Vous trouverez dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada) ce que la boutique publie pour la France, la Belgique et le Canada, et comment demander le remboursement."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "Panier YesStyle à côté du récapitulatif de paiement, avec les options de livraison, les champs de code et le résumé de la commande",
+        "caption": "Le panier et le paiement : les options de livraison, le coût et la date estimée s'affichent avant de payer.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "Une idée de panier : la routine Abib",
       "paragraphs": [
         "Dans la vidéo à la fin de cet article, en portugais, Cecília teste trois produits de la marque coréenne Abib qu'elle a reçus de YesStyle : le patch hydrogel pour les yeux, la crème booster au PDRN et le masque pour les lèvres. C'est une routine courte pour qui débute dans le skincare coréen, et un bon point de départ pour composer le panier du Black Friday."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "Cecília souriante, tenant le pot du patch hydrogel pour les yeux d'Abib et un patch rose",
+          "caption": "Le patch hydrogel pour les yeux d'Abib, dans la vidéo de Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "Cecília tenant près du visage le tube blanc de la crème booster au PDRN d'Abib",
+          "caption": "La crème booster au PDRN d'Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "Cecília faisant la moue et tenant le pot rose du masque pour les lèvres d'Abib",
+          "caption": "Le masque pour les lèvres d'Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {

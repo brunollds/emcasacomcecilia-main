@@ -45,6 +45,7 @@
         "CECILIA010은 일반 쿠폰이 아닌 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 5% 혜택(첫 구매 5% / 재구매 2%)을 받을 수 있습니다.",
         "적격 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력할 수 있으므로 결제 시 두 혜택을 함께 확인하세요."
       ],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "bullets": [
         "코드: CECILIA010",
         "혜택: 최대 5% (첫 구매 5% / 재구매 2%)",
@@ -57,6 +58,7 @@
       "paragraphs": [
         "YesStyle에서 상품을 장바구니에 담고 결제로 이동하세요. Reward Code 칸에 CECILIA010을 입력한 뒤 적용을 선택합니다."
       ],
+      "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "bullets": [
         "Reward Code에 CECILIA010 입력",
         "Coupon Code에는 별도의 적격 프로모션 코드 입력",
@@ -67,7 +69,8 @@
       "heading": "구매 전 확인 사항",
       "paragraphs": [
         "배송, 세금 및 할인 적용 여부는 목적지와 현재 조건에 따라 달라질 수 있습니다. 결제 전 최종 금액을 확인하세요."
-      ]
+      ],
+      "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
     },
     {
       "heading": "자주 묻는 질문",

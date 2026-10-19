@@ -30753,6 +30753,7 @@ export const reviewsData: unknown[] = [
           "CECILIA010은 일반 쿠폰이 아닌 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 5% 혜택(첫 구매 5% / 재구매 2%)을 받을 수 있습니다.",
           "적격 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력할 수 있으므로 결제 시 두 혜택을 함께 확인하세요."
         ],
+        "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "bullets": [
           "코드: CECILIA010",
           "혜택: 최대 5% (첫 구매 5% / 재구매 2%)",
@@ -30765,6 +30766,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle에서 상품을 장바구니에 담고 결제로 이동하세요. Reward Code 칸에 CECILIA010을 입력한 뒤 적용을 선택합니다."
         ],
+        "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "bullets": [
           "Reward Code에 CECILIA010 입력",
           "Coupon Code에는 별도의 적격 프로모션 코드 입력",
@@ -30775,7 +30777,8 @@ export const reviewsData: unknown[] = [
         "heading": "구매 전 확인 사항",
         "paragraphs": [
           "배송, 세금 및 할인 적용 여부는 목적지와 현재 조건에 따라 달라질 수 있습니다. 결제 전 최종 금액을 확인하세요."
-        ]
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
       },
       {
         "heading": "자주 묻는 질문",
@@ -30837,6 +30840,7 @@ export const reviewsData: unknown[] = [
           "CECILIA010は通常のクーポンではなくYesStyleのリワードコードです。Reward Code専用欄に入力すると最大5%オフ（初回購入 5% / リピーター 2%）の特典が適用されます。",
           "対象プロモーションコードはCoupon Code欄に別途入力できるため、決済時に両方の割引が適用されているか確認してください。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "bullets": [
           "特典：最大5%（初回購入 5% / リピーター 2%）",
           "入力欄：Reward Code",
@@ -30848,6 +30852,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyleで商品をカートに入れ、チェックアウト画面へ進みます。Reward Code欄にCECILIA010を入力し、適用ボタンを押します。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "bullets": [
           "Reward Code欄にCECILIA010を入力",
           "Coupon Code欄には別途対象プロモーションコードを入力",
@@ -30858,7 +30863,8 @@ export const reviewsData: unknown[] = [
         "heading": "ご注文前の注意事項",
         "paragraphs": [
           "配送、税金、割引適用範囲は配送先およびキャンペーンの条件により異なる場合があります。お支払い前に最終合計金額をご確認ください。"
-        ]
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
       },
       {
         "heading": "よくある質問",
@@ -30920,6 +30926,7 @@ export const reviewsData: unknown[] = [
           "CECILIA010 是 YesStyle 獎勵碼，不是一般優惠碼。請在 Reward Code 專用欄位輸入，以獲得高達 5% 優惠（首購 5% / 回購 2%）。",
           "合資格促銷優惠碼可另外輸入 Coupon Code 欄位，請於結帳時確認兩項優惠皆已套用。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "bullets": [
           "優惠：高達 5%（首購 5% / 回購 2%）",
           "輸入位置：Reward Code",
@@ -30931,6 +30938,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "在 YesStyle 選購商品加入購物車後前往結帳。在 Reward Code 欄位輸入 CECILIA010 並點擊套用。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "bullets": [
           "在 Reward Code 輸入 CECILIA010",
           "在 Coupon Code 輸入合資格促銷優惠碼",
@@ -30941,7 +30949,8 @@ export const reviewsData: unknown[] = [
         "heading": "購物前注意事項",
         "paragraphs": [
           "運費、稅項及折扣適用範圍會因目的地及優惠條件而異。請於付款前確認最終金額。"
-        ]
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
       },
       {
         "heading": "常見問題",
@@ -31003,6 +31012,7 @@ export const reviewsData: unknown[] = [
           "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得高达 5% 优惠（首购 5% / 回购 2%）。",
           "合资格促销优惠码可另外输入 Coupon Code 栏位，请于结账时确认两项优惠均已应用。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "bullets": [
           "优惠：高达 5%（首购 5% / 回购 2%）",
           "输入位置：Reward Code",
@@ -31014,6 +31024,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "在 YesStyle 选购商品加入购物车后前往结账。在 Reward Code 栏位输入 CECILIA010 并点击应用。"
         ],
+        "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "bullets": [
           "在 Reward Code 输入 CECILIA010",
           "在 Coupon Code 输入合资格促销优惠码",
@@ -31024,7 +31035,8 @@ export const reviewsData: unknown[] = [
         "heading": "购物前注意事项",
         "paragraphs": [
           "运费、税项及折扣适用范围会因目的地及优惠条件而异。请于付款前确认最终金额。"
-        ]
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
       },
       {
         "heading": "常见问题",
@@ -55813,6 +55825,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depende do tamanho do carrinho:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
+          "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Carrinho de US$ 199 ou mais:** o cupom de faixa já dá 15% em qualquer dia, o mesmo percentual dos dias sem mínimo. O que pode mudar perto da sexta-feira é o preço promocional de cada produto, não o cupom.",
           "**Carrinho entre US$ 79 e US$ 199:** o cupom de faixa dá 8% ou 10%. Nos dias sem mínimo, o mesmo carrinho ganha 15%.",
@@ -55824,6 +55843,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O checkout da YesStyle tem dois campos. O cupom do dia vai em Coupon Code. O CECILIA010 vai em Reward Code. As regras de todos os cupons da Black Friday de 2024 e 2025 dizem que eles valem junto com preços promocionais, com os Rewards Codes e com os YS Points, os pontos da própria loja."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+          "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
+          "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5962
+        },
         "bullets": [
           "Entre na sua conta antes de montar o carrinho: os cupons são só para membros.",
           "Monte o carrinho e confira se ele passou da faixa que você quer (US$ 79, 149 ou 199).",
@@ -55871,12 +55897,42 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega no Brasil e impostos",
         "paragraphs": [
           "O frete e o prazo aparecem no checkout, e o cupom não desconta o frete. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja. O que a loja publica para o Brasil e para Portugal, e como pedir o reembolso, está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
+          "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
+          "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000, lida em 13/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 3.5907
+        }
       },
       {
         "heading": "Uma ideia de carrinho: a rotina da Abib",
         "paragraphs": [
           "No vídeo no fim deste artigo, a Cecília testa três produtos da marca coreana Abib que recebeu da YesStyle: o adesivo de hidrogel para os olhos, o creme booster com PDRN e a máscara labial. É uma rotina curta para quem está começando no skincare coreano, e um bom ponto de partida para montar o carrinho da Black Friday."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília sorrindo e segurando o pote do adesivo de hidrogel para os olhos da Abib e um adesivo rosa",
+            "caption": "O adesivo de hidrogel para os olhos da Abib, no vídeo da Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília segurando a bisnaga branca do creme booster com PDRN da Abib perto do rosto",
+            "caption": "O creme booster com PDRN da Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília fazendo biquinho e segurando o pote rosa da máscara labial da Abib",
+            "caption": "A máscara labial da Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -56050,6 +56106,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "It depends on the size of your cart:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Step chart of YesStyle's discount by order value: 0% up to US$ 79, 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199, with a dashed line at 15% from US$ 0",
+          "caption": "The green line is the tiered coupon: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. The dashed line shows the days of 15% with no minimum. Illustration by Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Cart of US$ 199 or more:** the tiered coupon already gives 15% on any day, the same percentage as the no-minimum days. What may change near Black Friday is the promotional price of each product, not the coupon.",
           "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. On the no-minimum days, the same cart gets 15%.",
@@ -56061,6 +56124,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle's checkout has two fields. The coupon of the day goes in Coupon Code. CECILIA010 goes in Reward Code. The rules of all the Black Friday coupons from 2024 and 2025 say they are valid together with promotional prices, with Reward Codes and with YS Points, the store's own points."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "Enter Code window of the YesStyle checkout, with a coupon in the Coupon Code field and CECILIA010 in the Influencer / Rewards Code field",
+          "caption": "The two checkout fields: the coupon of the day on top and CECILIA010 in the Influencer / Rewards Code field.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "Log in to your account before you build the cart: the coupons are for members only.",
           "Build your cart and check that it reaches the tier you want (US$ 79, US$ 149 or US$ 199).",
@@ -56108,12 +56178,42 @@ export const reviewsData: unknown[] = [
         "heading": "Shipping and customs",
         "paragraphs": [
           "Shipping cost and the delivery estimate appear at checkout, and the coupon does not discount shipping. If the package is charged customs duties on arrival, YesStyle refunds those duties and fees on orders under US$ 1,000, as YesStyle Credit. What the store publishes for the US, the UK, Canada and Australia, and how to ask for the refund, is in the [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "YesStyle shopping bag next to the checkout panel, with the shipping options, the code fields and the order summary",
+          "caption": "The shopping bag and the checkout: shipping options, cost and the estimated date appear before you pay.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "A cart idea: the Abib routine",
         "paragraphs": [
           "In the video at the end of this article, which is in Portuguese, Cecília tests three Abib products from the Korean brand that she received from YesStyle: the hydrogel eye patch, the PDRN booster cream and the lip mask. It is a short routine for anyone starting with Korean skincare, and a good starting point for building your Black Friday cart."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília smiling and holding the jar of Abib's hydrogel eye patch and a pink patch",
+            "caption": "Abib's hydrogel eye patch, in Cecília's video.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília holding the white tube of Abib's PDRN booster cream near her face",
+            "caption": "Abib's PDRN booster cream.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília pursing her lips and holding the pink jar of Abib's lip mask",
+            "caption": "Abib's lip mask.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -56287,6 +56387,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depende del tamaño del carrito:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Gráfico en escalera del descuento según el valor del pedido en YesStyle: 0% hasta US$ 79, 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199, con una línea punteada en 15% desde US$ 0",
+          "caption": "La línea verde es el cupón por tramos: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. La línea punteada muestra los días de 15% sin mínimo. Ilustración de Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Carrito de US$ 199 o más:** el cupón por tramos ya da 15% cualquier día, el mismo porcentaje que los días sin mínimo. Lo que puede cambiar cerca del Black Friday es el precio promocional de cada producto, no el cupón.",
           "**Carrito entre US$ 79 y US$ 199:** el cupón por tramos da 8% o 10%. En los días sin mínimo, el mismo carrito gana 15%.",
@@ -56298,6 +56405,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "El checkout de YesStyle tiene dos campos: Código de Cupón (Coupon Code) y Código de Recompensa (Reward Code). El cupón del día va en Código de Cupón (Coupon Code). CECILIA010 va en Código de Recompensa (Reward Code). Las reglas de todos los cupones del Black Friday de 2024 y 2025 dicen que valen junto con los precios promocionales, con los Códigos de Recompensa y con los YS Points, los puntos de la propia tienda."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "Ventana Enter Code del checkout de YesStyle, con un cupón en el campo Coupon Code y CECILIA010 en el campo Influencer / Rewards Code",
+          "caption": "Los dos campos del checkout: el cupón del día arriba y CECILIA010 en el campo Influencer / Rewards Code.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "Inicia sesión antes de armar el carrito: los cupones son solo para miembros.",
           "Arma el carrito y comprueba que llega al tramo que quieres (US$ 79, US$ 149 o US$ 199).",
@@ -56345,12 +56459,42 @@ export const reviewsData: unknown[] = [
         "heading": "Envíos y aduanas",
         "paragraphs": [
           "El coste del envío y el plazo de entrega aparecen en el checkout, y el cupón no descuenta el envío. Si al llegar el paquete se cobran impuestos y tasas de aduana, YesStyle los reembolsa en pedidos de menos de US$ 1.000, como crédito en YesStyle. Lo que la tienda publica para España, México, Chile, Perú, Argentina y Colombia, y cómo pedir el reembolso, está en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "Bolsa de compra de YesStyle junto al panel de checkout, con las opciones de envío, los campos de código y el resumen del pedido",
+          "caption": "La bolsa de compra y el checkout: las opciones de envío, el costo y la fecha estimada aparecen antes de pagar.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "Una idea de carrito: la rutina de Abib",
         "paragraphs": [
           "En el video del final de este artículo, que está en portugués, Cecília prueba tres productos de la marca coreana Abib que recibió de YesStyle: el parche de hidrogel para los ojos, la crema booster con PDRN y la mascarilla labial. Es una rutina corta para quien empieza con el skincare coreano, y un buen punto de partida para armar el carrito del Black Friday."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília sonriendo y sosteniendo el frasco del parche de hidrogel para los ojos de Abib y un parche rosa",
+            "caption": "El parche de hidrogel para los ojos de Abib, en el video de Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília sosteniendo el tubo blanco de la crema booster con PDRN de Abib cerca del rostro",
+            "caption": "La crema booster con PDRN de Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília haciendo pico con los labios y sosteniendo el frasco rosa de la mascarilla labial de Abib",
+            "caption": "La mascarilla labial de Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -56524,6 +56668,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Cela dépend de la taille de votre panier :"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Graphique en escalier de la réduction selon le montant de la commande sur YesStyle : 0 % jusqu'à US$ 79, 8 % à partir de US$ 79, 10 % à partir de US$ 149 et 15 % à partir de US$ 199, avec une ligne en pointillé à 15 % dès US$ 0",
+          "caption": "La ligne verte est le coupon par palier : 8 % à partir de US$ 79, 10 % à partir de US$ 149 et 15 % à partir de US$ 199. La ligne en pointillé représente les journées à 15 % sans minimum. Illustration d'Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Panier de US$ 199 ou plus :** le coupon par palier donne déjà 15 % chaque jour, le même pourcentage que les journées sans minimum. Ce qui peut changer autour du Black Friday, c'est le prix promotionnel de chaque produit, pas le coupon.",
           "**Panier entre US$ 79 et US$ 199 :** le coupon par palier donne 8 % ou 10 %. Pendant les journées sans minimum, ce même panier obtient 15 %.",
@@ -56535,6 +56686,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La page de paiement de YesStyle comporte deux champs : \"Coupon Code\" et \"Reward Code\". Le coupon du jour va dans \"Coupon Code\". CECILIA010 va dans \"Reward Code\". Les règles de tous les coupons du Black Friday de 2024 et 2025 indiquent qu'ils sont valables avec les prix promotionnels, avec les Reward Codes et avec les YS Points, les points de la boutique elle-même."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "Fenêtre Enter Code du paiement YesStyle, avec un coupon dans le champ Coupon Code et CECILIA010 dans le champ Influencer / Rewards Code",
+          "caption": "Les deux champs de la commande : le coupon du jour en haut et CECILIA010 dans le champ Influencer / Rewards Code.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "Connectez-vous à votre compte avant de remplir le panier : les coupons sont réservés aux membres.",
           "Remplissez le panier et vérifiez qu'il atteint le palier voulu (US$ 79, US$ 149 ou US$ 199).",
@@ -56582,12 +56740,42 @@ export const reviewsData: unknown[] = [
         "heading": "Livraison et douane",
         "paragraphs": [
           "Le coût de livraison et le délai estimé s'affichent au paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les droits et frais de douane sur les commandes de moins de US$ 1 000, sous forme de crédit YesStyle. Vous trouverez dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada) ce que la boutique publie pour la France, la Belgique et le Canada, et comment demander le remboursement."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "Panier YesStyle à côté du récapitulatif de paiement, avec les options de livraison, les champs de code et le résumé de la commande",
+          "caption": "Le panier et le paiement : les options de livraison, le coût et la date estimée s'affichent avant de payer.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "Une idée de panier : la routine Abib",
         "paragraphs": [
           "Dans la vidéo à la fin de cet article, en portugais, Cecília teste trois produits de la marque coréenne Abib qu'elle a reçus de YesStyle : le patch hydrogel pour les yeux, la crème booster au PDRN et le masque pour les lèvres. C'est une routine courte pour qui débute dans le skincare coréen, et un bon point de départ pour composer le panier du Black Friday."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília souriante, tenant le pot du patch hydrogel pour les yeux d'Abib et un patch rose",
+            "caption": "Le patch hydrogel pour les yeux d'Abib, dans la vidéo de Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília tenant près du visage le tube blanc de la crème booster au PDRN d'Abib",
+            "caption": "La crème booster au PDRN d'Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília faisant la moue et tenant le pot rose du masque pour les lèvres d'Abib",
+            "caption": "Le masque pour les lèvres d'Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -56761,6 +56949,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Das hängt von der Größe des Warenkorbs ab:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Stufendiagramm des Rabatts nach Bestellwert bei YesStyle: 0% bis US$ 79, 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199, mit einer gestrichelten Linie bei 15% ab US$ 0",
+          "caption": "Die grüne Linie ist der Staffelgutschein: 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199. Die gestrichelte Linie zeigt die Tage mit 15% ohne Mindestbestellwert. Illustration: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Warenkorb ab US$ 199:** Der Staffelgutschein gibt schon an jedem Tag 15%, also den gleichen Prozentsatz wie an den Tagen ohne Mindestbestellwert. Was sich kurz vor dem Freitag ändern kann, ist der Aktionspreis der einzelnen Produkte, nicht der Gutschein.",
           "**Warenkorb zwischen US$ 79 und US$ 199:** Der Staffelgutschein gibt 8% oder 10%. An den Tagen ohne Mindestbestellwert bekommt derselbe Warenkorb 15%.",
@@ -56772,6 +56967,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Der Checkout von YesStyle hat zwei Felder. Der Gutschein des Tages kommt in Coupon Code, der CECILIA010 in Reward Code. Die Regeln aller Black-Friday-Gutscheine von 2024 und 2025 besagen, dass sie zusammen mit Aktionspreisen, mit den Reward Codes und mit den YS Points gelten, den eigenen Punkten des Shops."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "Fenster Enter Code an der YesStyle-Kasse, mit einem Gutschein im Feld Coupon Code und CECILIA010 im Feld Influencer / Rewards Code",
+          "caption": "Die beiden Felder an der Kasse: oben der Gutschein des Tages im Feld Coupon Code und CECILIA010 im Feld Influencer / Rewards Code.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "Melden Sie sich an, bevor Sie den Warenkorb füllen: Die Gutscheine gelten nur für Mitglieder.",
           "Füllen Sie den Warenkorb und prüfen Sie, ob er die gewünschte Schwelle überschreitet (US$ 79, 149 oder 199).",
@@ -56819,12 +57021,42 @@ export const reviewsData: unknown[] = [
         "heading": "Versand und Zoll",
         "paragraphs": [
           "Die Versandkosten und die geschätzte Lieferzeit stehen im Checkout, und der Gutschein senkt die Versandkosten nicht. Wenn beim Eingang des Pakets Zollgebühren und Einfuhrabgaben anfallen, erstattet YesStyle sie bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben. Was der Shop für Deutschland, Österreich und die Schweiz veröffentlicht und wie Sie die Erstattung beantragen, steht im [YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "Warenkorb von YesStyle neben dem Checkout-Feld, mit den Versandoptionen, den Code-Feldern und der Bestellübersicht",
+          "caption": "Warenkorb und Checkout: Versandoptionen, Kosten und das geschätzte Lieferdatum erscheinen, bevor Sie bezahlen.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "Eine Idee für den Warenkorb: die Abib-Routine",
         "paragraphs": [
           "Im Video am Ende dieses Artikels, das auf Portugiesisch ist, testet Cecília drei Produkte der koreanischen Marke Abib, die sie von YesStyle bekommen hat: das Hydrogel-Pad für die Augen, die Booster-Creme mit PDRN und die Lippenmaske. Es ist eine kurze Routine für den Einstieg in die koreanische Hautpflege und ein guter Ausgangspunkt für Ihren Black-Friday-Warenkorb."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília lächelt und hält den Tiegel mit dem Hydrogel-Augenpad von Abib und ein rosa Pad",
+            "caption": "Das Hydrogel-Augenpad von Abib, im Video von Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília hält die weiße Tube der Booster-Creme mit PDRN von Abib nahe an ihrem Gesicht",
+            "caption": "Die Booster-Creme mit PDRN von Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília spitzt die Lippen und hält den rosa Tiegel der Lippenmaske von Abib",
+            "caption": "Die Lippenmaske von Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -56998,6 +57230,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Dipende dalla dimensione del carrello:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "Grafico a gradini dello sconto in base al valore dell'ordine su YesStyle: 0% fino a US$ 79, 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199, con una linea tratteggiata al 15% da US$ 0",
+          "caption": "La linea verde è il coupon a scaglioni: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. La linea tratteggiata mostra i giorni con il 15% senza minimo. Illustrazione di Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Carrello da US$ 199 in su:** il coupon a scaglioni dà già il 15% in qualsiasi giorno, la stessa percentuale dei giorni senza minimo. Verso il venerdì può cambiare il prezzo promozionale di ogni prodotto, non il coupon.",
           "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Nei giorni senza minimo lo stesso carrello ottiene il 15%.",
@@ -57009,6 +57248,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Il checkout di YesStyle ha due campi. Il coupon del giorno va in Coupon Code. CECILIA010 va in Reward Code. Le regole di tutti i coupon del Black Friday 2024 e 2025 dicono che valgono insieme ai prezzi promozionali, ai Reward Code e agli YS Points, i punti del negozio."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "Finestra Enter Code del checkout di YesStyle, con un coupon nel campo Coupon Code e CECILIA010 nel campo Influencer / Rewards Code",
+          "caption": "I due campi del checkout: il coupon del giorno in alto e CECILIA010 nel campo Influencer / Rewards Code.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "Accedi al tuo account prima di preparare il carrello: i coupon sono riservati ai membri.",
           "Prepara il carrello e controlla che superi la soglia che ti interessa (US$ 79, 149 o 199).",
@@ -57056,12 +57302,42 @@ export const reviewsData: unknown[] = [
         "heading": "Spedizione e dogana",
         "paragraphs": [
           "Il costo di spedizione e la data stimata di consegna compaiono al checkout, e il coupon non sconta la spedizione. Se alla consegna del pacco vengono addebitati dazi doganali e spese, YesStyle li rimborsa come credito nel negozio sugli ordini sotto US$ 1.000. Ciò che il negozio pubblica per l'Italia, e come chiedere il rimborso, si trova nella [guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "Carrello di YesStyle accanto al pannello del checkout, con le opzioni di spedizione, i campi dei codici e il riepilogo dell'ordine",
+          "caption": "Il carrello e il checkout: le opzioni di spedizione, il costo e la data stimata compaiono prima di pagare.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "Un'idea di carrello: la routine Abib",
         "paragraphs": [
           "Nel video in fondo a questo articolo, che è in portoghese, Cecília prova tre prodotti del marchio coreano Abib che ha ricevuto da YesStyle: il patch idrogel per gli occhi, la crema booster con PDRN e la maschera per le labbra. È una routine breve per chi si avvicina alla skincare coreana e un buon punto di partenza per costruire il carrello del Black Friday."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "Cecília sorridente con il barattolo del patch idrogel per gli occhi di Abib e un patch rosa",
+            "caption": "Il patch idrogel per gli occhi di Abib, nel video di Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília con il tubetto bianco della crema booster con PDRN di Abib vicino al viso",
+            "caption": "La crema booster con PDRN di Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília con le labbra a becco e il barattolo rosa della maschera per le labbra di Abib",
+            "caption": "La maschera per le labbra di Abib.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -57235,6 +57511,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "장바구니 금액에 따라 다릅니다:"
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "YesStyle 주문 금액별 할인 계단 그래프: US$ 79 미만 0%, US$ 79부터 8%, US$ 149부터 10%, US$ 199부터 15%, 그리고 US$ 0부터 15%를 나타내는 점선",
+          "caption": "초록 선은 구간 쿠폰입니다: US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%. 점선은 최소 금액 없이 15%가 적용되는 날입니다. 일러스트: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**US$ 199 이상 장바구니:** 구간 쿠폰이 어느 날이든 이미 15%를 줍니다. 최소 금액 없는 날과 같은 비율입니다. 금요일 무렵 바뀔 수 있는 것은 쿠폰이 아니라 상품별 행사 가격입니다.",
           "**US$ 79~199 장바구니:** 구간 쿠폰은 8% 또는 10%를 줍니다. 최소 금액 없는 날에는 같은 장바구니가 15%를 받습니다.",
@@ -57246,6 +57529,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle 결제 화면에는 입력 칸이 두 개 있습니다. 그날의 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 넣습니다. 2024년과 2025년 블랙프라이데이 쿠폰 규정은 모두 가격 프로모션, Reward Code, 그리고 스토어 자체 포인트인 YS Points와 함께 적용된다고 되어 있습니다."
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "YesStyle 결제 화면의 ‘Enter Code’ 창. Coupon Code 칸에 쿠폰, Influencer / Rewards Code 칸에 CECILIA010이 들어 있음",
+          "caption": "결제 화면의 입력 칸 두 개: 위에는 그날의 쿠폰(Coupon Code), Influencer / Rewards Code 칸에는 CECILIA010을 넣습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "블랙프라이데이 쿠폰을 받으려면 장바구니를 채우기 전에 로그인하세요. 쿠폰은 회원 전용입니다.",
           "장바구니를 채운 뒤 원하는 기준(US$ 79, 149, 199)을 넘었는지 확인하세요.",
@@ -57293,12 +57583,42 @@ export const reviewsData: unknown[] = [
         "heading": "배송과 관세",
         "paragraphs": [
           "배송비와 예상 배송 기간은 결제 화면에 나오며, 쿠폰은 배송비를 할인하지 않습니다. 배송 도착 시 관세와 수수료가 부과되면, YesStyle은 US$ 1,000 미만 주문에 대해 그 금액을 YesStyle 크레딧으로 환급합니다. YesStyle이 한국에 대해 공개한 내용과 환급을 신청하는 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "YesStyle 장바구니 화면과 결제 패널. 배송 옵션, 코드 입력 칸, 주문 요약이 보임",
+          "caption": "장바구니와 결제 화면: 결제하기 전에 배송 옵션, 배송비, 예상 도착일이 표시됩니다.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "장바구니 아이디어: Abib 루틴",
         "paragraphs": [
           "이 글 끝에 있는 포르투갈어 영상에서 Cecília는 YesStyle에서 받은 한국 브랜드 Abib의 제품 세 가지를 테스트합니다: 눈가 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 처음 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 꾸리기 좋은 출발점입니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "웃고 있는 Cecília가 Abib 눈가 하이드로겔 패치 용기와 분홍색 패치를 들고 있음",
+            "caption": "Abib의 눈가 하이드로겔 패치, Cecília의 영상에서.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "Cecília가 얼굴 가까이에 Abib PDRN 부스터 크림의 흰색 튜브를 들고 있음",
+            "caption": "Abib의 PDRN 부스터 크림.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "Cecília가 입술을 내밀고 Abib 립 마스크의 분홍색 용기를 들고 있음",
+            "caption": "Abib의 립 마스크.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -57472,6 +57792,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "カートの金額によって変わります："
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "YesStyleの注文額別の割引の段階グラフ：US$79まで0%、US$79から8%、US$149から10%、US$199から15%。点線はUS$0から15%",
+          "caption": "緑の線は金額別クーポンです。US$79から8%、US$149から10%、US$199から15%。点線は最低額なしで15%になる日を示します。イラスト：Em Casa com Cecília。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**US$199以上のカート：** 金額別クーポンで、どの日も15%になります。最低額なしの日と同じ割合です。金曜日の前後で変わるのは、クーポンではなく商品ごとのセール価格です。",
           "**US$79〜US$199のカート：** 金額別クーポンは8%か10%です。最低額なしの日には、同じカートが15%になります。",
@@ -57483,6 +57810,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyleのチェックアウトには入力欄が2つあります。CECILIA010はReward Code欄に、その日のクーポンはCoupon Code欄に入力します。2024年と2025年のブラックフライデーのクーポンのルールは、どれもセール価格の商品、リワードコード、YS Points（YesStyleのポイント）と併用できると書いています。"
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "YesStyleのチェックアウトの「Enter Code」画面。Coupon Code欄にクーポン、Influencer / Rewards Code欄にCECILIA010",
+          "caption": "チェックアウトの2つの入力欄。上にはその日のクーポン（Coupon Code）、Influencer / Rewards Code にはCECILIA010を入れます。",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "ログインしてからカートを作ってください。クーポンは会員限定です。",
           "カートを作り、狙っている金額の段階（US$79、US$149、US$199）を超えているか確認します。",
@@ -57530,12 +57864,42 @@ export const reviewsData: unknown[] = [
         "heading": "配送と関税",
         "paragraphs": [
           "送料と配送日の目安はチェックアウトに表示され、クーポンは送料を割引しません。到着時に関税や手数料がかかった場合、YesStyleはUS$1,000未満の注文について、その金額をYesStyle Creditとして返金します。YesStyleが日本向けに公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)に載っています。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "YesStyleのカート画面とチェックアウトのパネル。配送オプション、コードの入力欄、注文の概要が見える",
+          "caption": "カートとチェックアウト：支払う前に、配送オプション、送料、到着の目安が表示されます。",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "カートの例：Abibのルーティン",
         "paragraphs": [
           "この記事の最後にある動画（ポルトガル語）では、セシリアがYesStyleから受け取った韓国ブランドAbibの製品を3つ試しています。目元用のハイドロゲルパッチ、PDRN配合のブースタークリーム、リップマスクです。韓国スキンケアを始めたばかりの人向けの短いルーティンで、ブラックフライデーのカートを組むときの良い出発点になります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "笑顔のセシリアが、Abibの目元用ハイドロゲルパッチの容器とピンクのパッチを持っている",
+            "caption": "Abibの目元用ハイドロゲルパッチ。セシリアの動画より。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "セシリアが、AbibのPDRN配合ブースタークリームの白いチューブを顔の近くで持っている",
+            "caption": "AbibのPDRN配合ブースタークリーム。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "セシリアが唇をすぼめ、Abibのリップマスクのピンクの容器を持っている",
+            "caption": "Abibのリップマスク。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -57709,6 +58073,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "要看購物車的金額："
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "YesStyle 依訂單金額的折扣階梯圖：US$ 79 以下為 0%，滿 US$ 79 為 8%，滿 US$ 149 為 10%，滿 US$ 199 為 15%，另有一條虛線從 US$ 0 起即為 15%",
+          "caption": "綠線是滿額分級優惠券：滿 US$ 79 享 8%，滿 US$ 149 享 10%，滿 US$ 199 享 15%。虛線是無最低消費、享 15% 的日子。插圖由 Em Casa com Cecília 製作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**購物車 US$199 以上：** 滿額分級優惠券任何一天都是 15%，與無最低消費的日子相同。接近星期五時可能變動的是每件商品的促銷價，不是優惠券。",
           "**購物車 US$79 到 US$199：** 滿額分級優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車可拿到 15%。",
@@ -57720,6 +58091,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle 的結帳頁有兩個欄位。CECILIA010 填在 Reward Code，當天的優惠券填在 Coupon Code。2024年與 2025年黑色星期五優惠券的規則都寫明，它們可與促銷價、Reward Code 以及 YS Points（YesStyle 自己的點數）一起使用。"
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "YesStyle 結帳的 Enter Code 視窗：Coupon Code 欄位裡是優惠券，Influencer / Rewards Code 欄位裡是 CECILIA010",
+          "caption": "結帳的兩個欄位：上面的 Coupon Code 填當天的優惠券，Influencer / Rewards Code 欄位填獎勵碼 CECILIA010。",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "先登入帳號，再組購物車：優惠券只提供給會員。",
           "組好購物車後，確認金額已超過你要的門檻（US$79、US$149 或 US$199）。",
@@ -57767,12 +58145,42 @@ export const reviewsData: unknown[] = [
         "heading": "配送與關稅",
         "paragraphs": [
           "運費與預計送達時間會在結帳時顯示，優惠券不折抵運費。如果包裹到達時被課徵關稅和手續費，YesStyle 會對低於 US$1,000 的訂單，以 YesStyle Credit 退還這些費用。YesStyle 針對台灣、香港與澳門公布的內容，以及如何申請退款，都在 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)裡。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "YesStyle 購物袋旁的結帳面板，有配送方式、代碼欄位和訂單摘要",
+          "caption": "購物袋與結帳：付款前就會顯示配送方式、運費和預計送達日期。",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "購物車範例：Abib 的護膚流程",
         "paragraphs": [
           "本文最後的影片為葡萄牙語。西西莉亞測試了她從 YesStyle 收到的三件韓國品牌 Abib 產品：眼部水凝膠貼片、含 PDRN 的精華乳霜，以及唇膜。這是適合剛開始接觸韓式護膚的人的簡短流程，也是組合黑色星期五購物車的好起點。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "西西莉亞微笑著，手裡拿著 Abib 水凝膠眼貼的罐子和一片粉色眼貼",
+            "caption": "Abib 的水凝膠眼貼，出現在西西莉亞的影片中。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "西西莉亞靠近臉部，拿著 Abib PDRN 精華乳霜的白色軟管",
+            "caption": "Abib 的 PDRN 精華乳霜。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "西西莉亞嘟著嘴，拿著 Abib 唇膜的粉色罐子",
+            "caption": "Abib 的唇膜。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -57946,6 +58354,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "要看购物车的金额："
         ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+          "alt": "YesStyle 按订单金额的折扣阶梯图：US$ 79 以下为 0%，满 US$ 79 为 8%，满 US$ 149 为 10%，满 US$ 199 为 15%，另有一条虚线从 US$ 0 起即为 15%",
+          "caption": "绿线是满额分级优惠券：满 US$ 79 享 8%，满 US$ 149 享 10%，满 US$ 199 享 15%。虚线是无最低消费、享 15% 的日子。插图由 Em Casa com Cecília 制作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**购物车 US$199 以上：** 满额分级优惠券任何一天都是 15%，与无最低消费的日子相同。接近星期五时可能变动的是每件商品的促销价，不是优惠券。",
           "**购物车 US$79 到 US$199：** 满额分级优惠券给 8% 或 10%。在无最低消费的日子，同一个购物车可拿到 15%。",
@@ -57957,6 +58372,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle 的结账页有两个栏位。CECILIA010 填在 Reward Code，当天的优惠券填在 Coupon Code。2024年与 2025年黑色星期五优惠券的规则都写明，它们可与促销价、Reward Code 以及 YS Points（YesStyle 自有的积分）一起使用。"
         ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+          "alt": "YesStyle 结账的 Enter Code 窗口：Coupon Code 栏位里是优惠券，Influencer / Rewards Code 栏位里是 CECILIA010",
+          "caption": "结账的两个栏位：上面的 Coupon Code 填当天的优惠券，Influencer / Rewards Code 栏位填奖励码 CECILIA010。",
+          "objectFit": "contain",
+          "aspectRatio": 1.5643
+        },
         "bullets": [
           "先登录账号，再组购物车：优惠券只提供给会员。",
           "组好购物车后，确认金额已超过你要的门槛（US$79、US$149 或 US$199）。",
@@ -58004,12 +58426,42 @@ export const reviewsData: unknown[] = [
         "heading": "配送与关税",
         "paragraphs": [
           "运费与预计送达时间会在结账时显示，优惠券不抵扣运费。如果包裹到达时被征收关税和手续费，YesStyle 会对低于 US$1,000 的订单，以 YesStyle Credit 退还这些费用。YesStyle 针对新加坡与马来西亚公布的内容，以及如何申请退款，都在 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)里。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+          "alt": "YesStyle 购物袋旁边的结账面板，有配送方式、代码栏位和订单摘要",
+          "caption": "购物袋和结账页：付款前就会显示配送方式、运费和预计送达日期。",
+          "objectFit": "contain",
+          "aspectRatio": 2.0367
+        }
       },
       {
         "heading": "购物车示例：Abib 的护肤流程",
         "paragraphs": [
           "本文最后的视频为葡萄牙语。西西莉亚测试了她从 YesStyle 收到的三件韩国品牌 Abib 产品：眼部水凝胶贴片、含 PDRN 的精华面霜，以及唇膜。这是适合刚开始接触韩式护肤的人的简短流程，也是组合黑色星期五购物车的好起点。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+            "alt": "西西莉亚微笑着，手里拿着 Abib 水凝胶眼贴的罐子和一片粉色眼贴",
+            "caption": "Abib 的水凝胶眼贴，出现在西西莉亚的视频中。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+            "alt": "西西莉亚靠近脸部，拿着 Abib PDRN 精华面霜的白色软管",
+            "caption": "Abib 的 PDRN 精华面霜。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+            "alt": "西西莉亚嘟着嘴，拿着 Abib 唇膜的粉色罐子",
+            "caption": "Abib 的唇膜。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "links": [
           {
@@ -58104,7 +58556,14 @@ export const reviewsData: unknown[] = [
           "A SHEIN ainda não anunciou a Black Friday de 2026. Nos três últimos anos, as ofertas começaram antes da data, junto com o 11.11, e terminaram depois dela (25/11 em 2023 e 30/11 em 2024 e 2025). Em 2026, a Black Friday cai em 27 de novembro.",
           "A grande mudança deste ano é o imposto. Desde 13 de maio de 2026, o pedido internacional de até **US$ 50** (produto mais frete, já com os descontos) não paga imposto de importação. O ICMS do estado, de 17% a 20%, continua, e a SHEIN diz que cobre uma parte dele. Acima de US$ 50, o imposto de importação volta.",
           "Vale um cupom da SHEIN por pedido. O 4CW5Y é o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e confere as condições que aparecem para a sua conta."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+          "caption": "A página inicial da SHEIN Brasil em 12/10/2026. A campanha da Black Friday de 2026 ainda não tinha sido anunciada.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Quando começa a Black Friday da SHEIN",
@@ -58206,6 +58665,13 @@ export const reviewsData: unknown[] = [
           "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
           "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora, por isso ficam na página da loja aqui do site, com a data em que foram conferidas."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
+          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
@@ -58226,6 +58692,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Trocas e devoluções depois da Black Friday",
+        "image": {
+          "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
+          "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas em 12 e 13/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5
+        },
         "bullets": [
           "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
           "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",
@@ -58324,7 +58797,14 @@ export const reviewsData: unknown[] = [
           "This guide covers SHEIN Brazil (the Brazilian site and app), and its dates, taxes, prices and rules may differ in other countries. SHEIN has not announced Black Friday 2026 yet. In the last three years, the offers started before Black Friday, together with 11.11 (the Singles' Day sale), and ended after it: on Nov 25 in 2023, and on Nov 30 in 2024 and 2025. In 2026, Black Friday falls on November 27.",
           "The big change this year is the tax. Since May 13, 2026, an international order up to **US$ 50** (product plus shipping, already with discounts) pays no import tax. The state ICMS, of 17% to 20%, still applies, and SHEIN says it covers part of it. Above US$ 50, the import tax comes back.",
           "There is one SHEIN coupon per order. The 4CW5Y is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage of SHEIN's home page in ten markets, each with its site address: Brazil, United Kingdom, Spain, France, Germany, Italy, South Korea, Japan, Taiwan and Singapore",
+          "caption": "SHEIN's home page in ten markets on October 12, 2026. Each market has its own site; this guide covers SHEIN Brazil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "When the SHEIN Black Friday starts",
@@ -58426,6 +58906,13 @@ export const reviewsData: unknown[] = [
           "SHEIN points are worth US$ 1 for every 100 points and can take up to 30% off the product value, not counting shipping and taxes. They do not apply to items from Brazilian sellers.",
           "The 4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries. SHEIN campaigns change all the time, which is why they are kept on this site's store page, with the date they were checked."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Two screens of the SHEIN Brazil mobile site: the search bar with the code 4CW5Y typed in and the page that opens after the search",
+          "caption": "4CW5Y does not go at checkout: you search for it in the search bar of the SHEIN Brazil site or app.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "See the 4CW5Y referral code and the SHEIN campaigns",
@@ -58544,7 +59031,14 @@ export const reviewsData: unknown[] = [
           "Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países. SHEIN todavía no anunció el Black Friday de 2026. En los últimos tres años, las ofertas empezaron antes de la fecha, junto con el 11.11 (la campaña del Día de los Solteros), y terminaron después de él: el 25/11 en 2023 y el 30/11 en 2024 y 2025. En 2026, el Black Friday cae el 27 de noviembre.",
           "El gran cambio de este año es el impuesto. Desde el 13 de mayo de 2026, un pedido internacional de hasta **US$ 50** (producto más envío, ya con los descuentos) no paga impuesto de importación. El ICMS del estado, de 17% a 20%, sigue vigente, y SHEIN dice que cubre una parte. Por encima de US$ 50, el impuesto de importación vuelve.",
           "Vale un cupón de SHEIN por pedido. El 4CW5Y es el código de referido de Cecília para SHEIN Brasil: busca el código en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage de la página de inicio de SHEIN en diez mercados, cada uno con la dirección de su sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
+          "caption": "La página de inicio de SHEIN en diez mercados el 12 de octubre de 2026. Cada mercado tiene su propio sitio; esta guía trata de SHEIN Brasil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "Cuándo empieza el Black Friday de SHEIN",
@@ -58646,6 +59140,13 @@ export const reviewsData: unknown[] = [
           "Los puntos SHEIN valen US$ 1 por cada 100 puntos y pueden restar hasta 30% del valor de los productos, sin contar el envío ni los impuestos. No valen en artículos de vendedores brasileños.",
           "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Busca 4CW5Y en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países. Las campañas de SHEIN cambian todo el tiempo, por eso están en la página de la tienda de este sitio, con la fecha en que se revisaron."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Dos pantallas del sitio móvil de SHEIN Brasil: la barra de búsqueda con el código 4CW5Y escrito y la página que se abre después de la búsqueda",
+          "caption": "El 4CW5Y no va en el checkout: se busca en la barra de búsqueda del sitio o de la app de SHEIN Brasil.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN",
@@ -58764,7 +59265,14 @@ export const reviewsData: unknown[] = [
           "Ce guide porte sur SHEIN Brésil (le site et l'appli brésiliens), et ses dates, taxes, prix et règles peuvent différer dans les autres pays. SHEIN n'a pas encore annoncé le Black Friday 2026. Ces trois dernières années, les offres ont commencé avant la date, en même temps que le 11.11 (la vente de la Journée des célibataires), et se sont terminées après le Black Friday : le 25/11 en 2023, puis le 30/11 en 2024 et 2025. En 2026, le Black Friday tombe le 27 novembre.",
           "Le grand changement de cette année, c'est la taxe. Depuis le 13 mai 2026, une commande internationale allant jusqu'à **US$ 50** (produit plus livraison, déjà avec les réductions) ne paie pas la taxe d'importation. L'ICMS de l'État, de 17 % à 20 %, reste dû, et SHEIN dit en couvrir une partie. Au-delà de US$ 50, la taxe d'importation revient.",
           "Il n'y a qu'un coupon SHEIN par commande. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil : vous le recherchez dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans les autres pays."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage de la page d'accueil de SHEIN dans dix marchés, chacun avec son adresse de site : Brésil, Royaume-Uni, Espagne, France, Allemagne, Italie, Corée du Sud, Japon, Taïwan et Singapour",
+          "caption": "La page d'accueil de SHEIN dans dix marchés le 12 octobre 2026. Chaque marché a son propre site ; ce guide porte sur SHEIN Brésil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "Quand commence le Black Friday de SHEIN",
@@ -58866,6 +59374,13 @@ export const reviewsData: unknown[] = [
           "Les points SHEIN valent US$ 1 pour 100 points et peuvent réduire jusqu'à 30 % de la valeur des produits, hors livraison et taxes. Ils ne valent pas sur les articles des vendeurs brésiliens.",
           "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília. Recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans d'autres pays. Les campagnes SHEIN changent sans arrêt : elles sont donc sur la page de la boutique de ce site, avec la date de la dernière vérification."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Deux écrans du site mobile de SHEIN Brésil : la barre de recherche avec le code 4CW5Y saisi et la page qui s'ouvre après la recherche",
+          "caption": "Le 4CW5Y ne s'utilise pas au paiement : on le recherche dans la barre de recherche du site ou de l'appli SHEIN Brésil.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Voir le code de parrainage 4CW5Y et les campagnes SHEIN",
@@ -58984,7 +59499,14 @@ export const reviewsData: unknown[] = [
           "SHEIN hat den Black Friday 2026 noch nicht angekündigt. In den letzten drei Jahren begannen die Angebote vor dem Black Friday, zusammen mit dem 11.11., dem Singles'-Day-Sale, und endeten danach: am 25.11. im Jahr 2023 und am 30.11. in den Jahren 2024 und 2025. Im Jahr 2026 fällt der Black Friday auf den 27. November. Dieser Leitfaden gilt für SHEIN Brasilien (Website und App), und Termine, Steuern, Preise und Regeln können in anderen Ländern abweichen.",
           "Die große Neuerung in diesem Jahr betrifft die Steuer. Seit dem 13. Mai 2026 zahlt eine internationale Bestellung bis **US$ 50** (Produkt plus Versand, schon mit Rabatten) keine brasilianische Einfuhrsteuer. Die ICMS-Steuer der Bundesstaaten (17 % bis 20 %) bleibt bestehen, und SHEIN sagt, dass das Unternehmen einen Teil davon übernimmt. Über US$ 50 kommt die Einfuhrsteuer zurück.",
           "Pro Bestellung gilt ein SHEIN-Gutschein. Sie suchen den Empfehlungscode 4CW5Y von Cecília in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage der Startseite von SHEIN in zehn Märkten, jeweils mit ihrer Adresse: Brasilien, Vereinigtes Königreich, Spanien, Frankreich, Deutschland, Italien, Südkorea, Japan, Taiwan und Singapur",
+          "caption": "Die Startseite von SHEIN in zehn Märkten am 12. Oktober 2026. Jeder Markt hat eine eigene Website; dieser Leitfaden behandelt SHEIN Brasilien (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "Wann der Black Friday bei SHEIN beginnt",
@@ -59086,6 +59608,13 @@ export const reviewsData: unknown[] = [
           "SHEIN-Punkte haben einen Wert von US$ 1 je 100 Punkte und mindern den Produktwert um bis zu 30 %, ohne Versand und Steuern. Auf Artikel von Verkäufern in Brasilien gelten sie nicht.",
           "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht. Da sich die Aktionen von SHEIN ständig ändern, stehen sie auf der Shop-Seite dieser Website, mit dem Datum der letzten Prüfung."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Zwei Bildschirme der mobilen Website von SHEIN Brasilien: die Suchleiste mit dem eingegebenen Code 4CW5Y und die Seite, die sich nach der Suche öffnet",
+          "caption": "4CW5Y wird nicht an der Kasse eingegeben: Sie suchen den Code in der Suchleiste der Website oder der App von SHEIN Brasilien.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Den Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
@@ -59204,7 +59733,14 @@ export const reviewsData: unknown[] = [
           "SHEIN non ha ancora annunciato il Black Friday 2026. Negli ultimi tre anni le offerte sono iniziate prima della data, insieme all'11.11, la vendita del Singles' Day, e sono finite dopo di esso: il 25/11 nel 2023 e il 30/11 nel 2024 e nel 2025. Nel 2026 il Black Friday cade il 27 novembre. Questa guida riguarda SHEIN Brasile (il sito e l'app brasiliani), e date, imposte, prezzi e regole possono cambiare negli altri paesi.",
           "La grande novità di quest'anno è l'imposta. Dal 13 maggio 2026, un ordine internazionale fino a **US$ 50** (prodotto più spedizione, già con gli sconti) non paga l'imposta di importazione brasiliana. L'ICMS (dal 17% al 20%) resta, e SHEIN dice di coprirne una parte. Sopra US$ 50 torna l'imposta di importazione.",
           "Vale un coupon SHEIN per ordine. Il 4CW5Y è il codice invito di Cecília: cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage della home page di SHEIN in dieci mercati, ciascuno con l'indirizzo del proprio sito: Brasile, Regno Unito, Spagna, Francia, Germania, Italia, Corea del Sud, Giappone, Taiwan e Singapore",
+          "caption": "La home page di SHEIN in dieci mercati il 12 ottobre 2026. Ogni mercato ha il proprio sito; questa guida riguarda SHEIN Brasile (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "Quando inizia il Black Friday di SHEIN",
@@ -59306,6 +59842,13 @@ export const reviewsData: unknown[] = [
           "I punti SHEIN valgono US$ 1 ogni 100 punti e possono scontare fino al 30% del valore dei prodotti, senza contare spedizione e imposte. Non valgono sugli articoli di venditori in Brasile.",
           "Il 4CW5Y non è uno sconto: è il codice invito di Cecília. Cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi. Le campagne SHEIN cambiano spesso, quindi si trovano nella pagina del negozio su questo sito, con la data in cui sono state verificate."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "Due schermate del sito mobile di SHEIN Brasile: la barra di ricerca con il codice 4CW5Y digitato e la pagina che si apre dopo la ricerca",
+          "caption": "Il 4CW5Y non si inserisce al checkout: si cerca nella barra di ricerca del sito o dell'app di SHEIN Brasile.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Vedi il codice invito 4CW5Y e le campagne SHEIN",
@@ -59424,7 +59967,14 @@ export const reviewsData: unknown[] = [
           "SHEIN은 아직 2026년 블랙프라이데이를 발표하지 않았습니다. 최근 3년 동안 할인은 블랙프라이데이 전부터 11.11(싱글스 데이 세일)과 함께 시작해 블랙프라이데이 뒤에 끝났습니다. 2023년에는 11월 25일까지, 2024년과 2025년에는 11월 30일까지였습니다. 2026년 블랙프라이데이는 11월 27일입니다. 이 가이드는 SHEIN 브라질(브라질 웹사이트와 앱)을 다루며, 날짜·세금·가격·규정은 다른 나라에서 다를 수 있습니다.",
           "올해 큰 변화는 세금입니다. 2026년 5월 13일부터 **US$ 50** 이하 해외 주문(상품 가격과 배송비 합계, 할인 적용 후 금액)에는 브라질 수입세가 붙지 않습니다. 주 세금 ICMS(17%~20%)는 그대로 붙고, SHEIN은 그중 일부를 부담한다고 밝혔습니다. US$ 50을 넘으면 수입세가 다시 붙습니다.",
           "주문마다 SHEIN 쿠폰 1장을 쓸 수 있습니다. 4CW5Y는 Cecília의 추천 코드입니다. 이 코드와 캠페인은 SHEIN 브라질의 것이며, 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "10개 시장의 SHEIN 홈페이지 콜라주. 각 사이트 주소와 함께: 브라질, 영국, 스페인, 프랑스, 독일, 이탈리아, 한국, 일본, 대만, 싱가포르",
+          "caption": "2026년 10월 12일 기준, 10개 시장의 SHEIN 홈페이지. 시장마다 별도의 사이트가 있으며, 이 가이드는 SHEIN 브라질(br.shein.com)을 다룹니다.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "SHEIN 블랙프라이데이는 언제 시작하나요?",
@@ -59526,6 +60076,13 @@ export const reviewsData: unknown[] = [
           "SHEIN 포인트는 100점당 US$ 1의 가치가 있으며, 상품 금액의 최대 30%까지 차감할 수 있습니다(배송비와 세금은 제외). 브라질 판매자의 상품에는 적용되지 않습니다.",
           "4CW5Y는 Cecília의 추천 코드이고, 할인 혜택 코드가 아닙니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. 이 코드와 캠페인은 SHEIN 브라질의 것이며 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 캠페인은 자주 바뀌므로, 확인 날짜와 함께 이 사이트의 SHEIN 페이지에 정리해 두었습니다."
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "SHEIN 브라질 모바일 사이트 화면 두 개: 코드 4CW5Y를 입력한 검색창과 검색 후 열리는 페이지",
+          "caption": "4CW5Y는 결제 화면에 넣는 코드가 아닙니다. SHEIN 브라질 사이트나 앱의 검색창에서 검색합니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "4CW5Y 추천 코드와 SHEIN 캠페인 보기",
@@ -59644,7 +60201,14 @@ export const reviewsData: unknown[] = [
           "SHEIN はまだ2026年のブラックフライデーを発表していません。このガイドは SHEIN ブラジル（ブラジル向けのサイトとアプリ）について書いています。日程、税金、価格、ルールは他の国では異なる場合があります。過去3年は、ブラックフライデーより前に11.11（独身の日のセール）と一緒にセールが始まり、ブラックフライデーの後も続きました。終了日は2023年が11月25日、2024年と2025年が11月30日です。2026年のブラックフライデーは11月27日です。",
           "今年の大きな変化は税金です。2026年5月13日から、**US$ 50**までの国際注文（商品と送料の合計、割引適用後）には、ブラジルの輸入税がかかりません。州税のICMSは17%〜20%で引き続きかかり、SHEIN はその一部を負担すると述べています。US$ 50を超えると、輸入税が戻ります。",
           "注文ごとに、SHEIN のプラットフォームクーポンは1枚まで使えます。4CW5Y は Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "10の市場のSHEINトップページのコラージュ。それぞれにサイトのアドレスがある：ブラジル、イギリス、スペイン、フランス、ドイツ、イタリア、韓国、日本、台湾、シンガポール",
+          "caption": "2026年10月12日時点の、10の市場におけるSHEINのトップページ。市場ごとに別のサイトがあり、このガイドはSHEIN ブラジル（br.shein.com）を扱います。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "SHEIN のブラックフライデーはいつ始まる？",
@@ -59746,6 +60310,13 @@ export const reviewsData: unknown[] = [
           "SHEIN ポイントは100ポイントで US$ 1 の価値があり、商品代金の最大30%まで差し引けます。送料と税金は含みません。国内販売者の商品には使えません。",
           "4CW5Y は Cecília の紹介コードです。クーポンではありません。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。SHEIN のキャンペーンは頻繁に変わるため、このサイトのストアページに、確認日とともに掲載しています。"
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "SHEIN ブラジルのモバイルサイトの2つの画面：コード 4CW5Y を入力した検索バーと、検索後に開くページ",
+          "caption": "4CW5Y はチェックアウトでは入力しません。SHEIN ブラジルのサイトまたはアプリの検索バーで検索します。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "4CW5Y の紹介コードと SHEIN のキャンペーンを見る",
@@ -59864,7 +60435,14 @@ export const reviewsData: unknown[] = [
           "SHEIN 尚未公布 2026 年的黑色星期五活動。本指南介紹的是 SHEIN 巴西站（巴西網站與 App），日期、稅金、價格與規則在其他國家可能不同。過去三年，活動都在黑色星期五之前與 11.11（光棍節，即雙十一購物節）一同開始，並在黑色星期五之後結束：2023 年為 11 月 25 日，2024 年與 2025 年為 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
           "今年最大的變化在稅金。自 2026 年 5 月 13 日起，國際訂單若在 US$ 50 以內（商品加運費，且已扣除折扣），就不需繳納進口稅。ICMS 州稅（17% 至 20%）仍要繳，SHEIN 表示會負擔其中一部分。超過 US$ 50，進口稅就會回來。",
           "每筆訂單可使用一張 SHEIN 平台優惠券。4CW5Y 是 Cecília 的推薦碼。你可以在 SHEIN App 中搜尋 4CW5Y，並查看帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 首頁十個市場的拼貼，每個都附網址：巴西、英國、西班牙、法國、德國、義大利、韓國、日本、台灣和新加坡",
+          "caption": "2026年10月12日，SHEIN 首頁在十個市場的樣子。每個市場都有自己的網站；本指南介紹的是 SHEIN 巴西站（br.shein.com）。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "SHEIN 黑色星期五何時開始",
@@ -59966,6 +60544,13 @@ export const reviewsData: unknown[] = [
           "SHEIN 點數每 100 點值 US$ 1，最多可抵扣商品價格的 30%，不含運費與稅金。國內賣家的商品不能使用點數。",
           "4CW5Y 是 Cecília 的推薦碼。它不是優惠券。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。SHEIN 的活動經常變動，所以我們把活動資訊放在本站的商店頁面，並附上確認日期。"
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "SHEIN 巴西站手機版的兩個畫面：搜尋列裡輸入了代碼 4CW5Y，以及搜尋後開啟的頁面",
+          "caption": "推薦碼 4CW5Y 不用在結帳時填寫：要在 SHEIN 巴西站的網站或 App 搜尋列裡搜尋。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "查看 4CW5Y 推薦碼與 SHEIN 活動",
@@ -60084,7 +60669,14 @@ export const reviewsData: unknown[] = [
           "SHEIN 尚未公布 2026 年的黑色星期五活动。本指南介绍的是 SHEIN 巴西站（巴西网站与 App），日期、税金、价格与规则在其他国家可能不同。过去三年，活动都在黑色星期五之前与 11.11（光棍节，即双十一购物节）一同开始，并在黑色星期五之后结束：2023 年到 11 月 25 日，2024 年与 2025 年到 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
           "今年最大的变化在税金。自 2026 年 5 月 13 日起，国际订单若在 US$ 50 以内（商品加运费，且已扣除折扣），就不需缴纳进口税。ICMS 州税（17% 至 20%）仍要缴，SHEIN 表示会负担其中一部分。超过 US$ 50，进口税就会回来。",
           "每笔订单可使用一张 SHEIN 平台优惠券。4CW5Y 是 Cecília 的推荐码。你可以在 SHEIN App 中搜索 4CW5Y，并查看账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 首页十个市场的拼图，每个都附网址：巴西、英国、西班牙、法国、德国、意大利、韩国、日本、台湾和新加坡",
+          "caption": "2026年10月12日，SHEIN 首页在十个市场的样子。每个市场都有自己的网站；本指南介绍的是 SHEIN 巴西站（br.shein.com）。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "SHEIN 黑色星期五何时开始",
@@ -60186,6 +60778,13 @@ export const reviewsData: unknown[] = [
           "100 SHEIN 积分折合 US$ 1，最多可抵扣商品价格的 30%，不含运费与税金。国内卖家的商品不能使用积分。",
           "4CW5Y 是 Cecília 的推荐码。它不是优惠券。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。SHEIN 的活动经常变动，所以我们把活动信息放在本站的店铺页面，并附上确认日期。"
         ],
+        "image": {
+          "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "alt": "SHEIN 巴西站手机版的两个画面：搜索栏里输入了代码 4CW5Y，以及搜索后打开的页面",
+          "caption": "推荐码 4CW5Y 不用在结账时填写：要在 SHEIN 巴西站的网站或 App 搜索栏里搜索。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "查看 4CW5Y 推荐码与 SHEIN 活动",

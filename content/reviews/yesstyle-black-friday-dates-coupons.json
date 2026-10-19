@@ -123,6 +123,13 @@
       "paragraphs": [
         "It depends on the size of your cart:"
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "Step chart of YesStyle's discount by order value: 0% up to US$ 79, 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199, with a dashed line at 15% from US$ 0",
+        "caption": "The green line is the tiered coupon: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. The dashed line shows the days of 15% with no minimum. Illustration by Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Cart of US$ 199 or more:** the tiered coupon already gives 15% on any day, the same percentage as the no-minimum days. What may change near Black Friday is the promotional price of each product, not the coupon.",
         "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. On the no-minimum days, the same cart gets 15%.",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "YesStyle's checkout has two fields. The coupon of the day goes in Coupon Code. CECILIA010 goes in Reward Code. The rules of all the Black Friday coupons from 2024 and 2025 say they are valid together with promotional prices, with Reward Codes and with YS Points, the store's own points."
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "Enter Code window of the YesStyle checkout, with a coupon in the Coupon Code field and CECILIA010 in the Influencer / Rewards Code field",
+        "caption": "The two checkout fields: the coupon of the day on top and CECILIA010 in the Influencer / Rewards Code field.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "Log in to your account before you build the cart: the coupons are for members only.",
         "Build your cart and check that it reaches the tier you want (US$ 79, US$ 149 or US$ 199).",
@@ -181,12 +195,42 @@
       "heading": "Shipping and customs",
       "paragraphs": [
         "Shipping cost and the delivery estimate appear at checkout, and the coupon does not discount shipping. If the package is charged customs duties on arrival, YesStyle refunds those duties and fees on orders under US$ 1,000, as YesStyle Credit. What the store publishes for the US, the UK, Canada and Australia, and how to ask for the refund, is in the [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "YesStyle shopping bag next to the checkout panel, with the shipping options, the code fields and the order summary",
+        "caption": "The shopping bag and the checkout: shipping options, cost and the estimated date appear before you pay.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "A cart idea: the Abib routine",
       "paragraphs": [
         "In the video at the end of this article, which is in Portuguese, Cecília tests three Abib products from the Korean brand that she received from YesStyle: the hydrogel eye patch, the PDRN booster cream and the lip mask. It is a short routine for anyone starting with Korean skincare, and a good starting point for building your Black Friday cart."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "Cecília smiling and holding the jar of Abib's hydrogel eye patch and a pink patch",
+          "caption": "Abib's hydrogel eye patch, in Cecília's video.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "Cecília holding the white tube of Abib's PDRN booster cream near her face",
+          "caption": "Abib's PDRN booster cream.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "Cecília pursing her lips and holding the pink jar of Abib's lip mask",
+          "caption": "Abib's lip mask.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {

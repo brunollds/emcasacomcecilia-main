@@ -123,6 +123,13 @@
       "paragraphs": [
         "Dipende dalla dimensione del carrello:"
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "Grafico a gradini dello sconto in base al valore dell'ordine su YesStyle: 0% fino a US$ 79, 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199, con una linea tratteggiata al 15% da US$ 0",
+        "caption": "La linea verde è il coupon a scaglioni: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. La linea tratteggiata mostra i giorni con il 15% senza minimo. Illustrazione di Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Carrello da US$ 199 in su:** il coupon a scaglioni dà già il 15% in qualsiasi giorno, la stessa percentuale dei giorni senza minimo. Verso il venerdì può cambiare il prezzo promozionale di ogni prodotto, non il coupon.",
         "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Nei giorni senza minimo lo stesso carrello ottiene il 15%.",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "Il checkout di YesStyle ha due campi. Il coupon del giorno va in Coupon Code. CECILIA010 va in Reward Code. Le regole di tutti i coupon del Black Friday 2024 e 2025 dicono che valgono insieme ai prezzi promozionali, ai Reward Code e agli YS Points, i punti del negozio."
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "Finestra Enter Code del checkout di YesStyle, con un coupon nel campo Coupon Code e CECILIA010 nel campo Influencer / Rewards Code",
+        "caption": "I due campi del checkout: il coupon del giorno in alto e CECILIA010 nel campo Influencer / Rewards Code.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "Accedi al tuo account prima di preparare il carrello: i coupon sono riservati ai membri.",
         "Prepara il carrello e controlla che superi la soglia che ti interessa (US$ 79, 149 o 199).",
@@ -181,12 +195,42 @@
       "heading": "Spedizione e dogana",
       "paragraphs": [
         "Il costo di spedizione e la data stimata di consegna compaiono al checkout, e il coupon non sconta la spedizione. Se alla consegna del pacco vengono addebitati dazi doganali e spese, YesStyle li rimborsa come credito nel negozio sugli ordini sotto US$ 1.000. Ciò che il negozio pubblica per l'Italia, e come chiedere il rimborso, si trova nella [guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "Carrello di YesStyle accanto al pannello del checkout, con le opzioni di spedizione, i campi dei codici e il riepilogo dell'ordine",
+        "caption": "Il carrello e il checkout: le opzioni di spedizione, il costo e la data stimata compaiono prima di pagare.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "Un'idea di carrello: la routine Abib",
       "paragraphs": [
         "Nel video in fondo a questo articolo, che è in portoghese, Cecília prova tre prodotti del marchio coreano Abib che ha ricevuto da YesStyle: il patch idrogel per gli occhi, la crema booster con PDRN e la maschera per le labbra. È una routine breve per chi si avvicina alla skincare coreana e un buon punto di partenza per costruire il carrello del Black Friday."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "Cecília sorridente con il barattolo del patch idrogel per gli occhi di Abib e un patch rosa",
+          "caption": "Il patch idrogel per gli occhi di Abib, nel video di Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "Cecília con il tubetto bianco della crema booster con PDRN di Abib vicino al viso",
+          "caption": "La crema booster con PDRN di Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "Cecília con le labbra a becco e il barattolo rosa della maschera per le labbra di Abib",
+          "caption": "La maschera per le labbra di Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {
