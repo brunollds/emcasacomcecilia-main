@@ -31471,6 +31471,36 @@ export const reviewsData: unknown[] = [
           "Minha experiência começou com otimismo e terminou em frustração completa. Segui as instruções à risca: coloquei a manteiga gelada em colheradas na batedeira, conforme orientado pela especialista do vídeo. Tudo parecia correr bem nos primeiros segundos, até que adicionei o leite conforme recomendado.",
           "Foi quando o caos se instalou na cozinha. O leite começou a espirrar por todos os lados, atingindo paredes, armários e até mesmo o teto. A batedeira transformou-se em uma máquina de respingos enquanto a suposta especialista garantia na tela: “Parece que vai dar errado, mas vai dar certo”.",
           "Spoiler: não deu certo. Após cinco minutos de batalha, transferi a mistura para o processador numa última tentativa desesperada. O resultado foi uma substância de textura estranha, com o leite completamente separado da gordura, nada remotamente parecido com manteiga aerada, cremosa ou pronta para passar no pão."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/manteiga/manteiga-batida-colheradas-batedeira.webp",
+            "alt": "Manteiga gelada em colheradas na tigela branca da batedeira, com o batedor de arame",
+            "caption": "Começo do teste: a manteiga gelada em colheradas na tigela da batedeira.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/manteiga/manteiga-batida-leite-espirrando.webp",
+            "alt": "Mão segurando a cabeça da batedeira branca enquanto o leite espirra da tigela",
+            "caption": "Com o leite, a batedeira começou a espirrar e a derramar.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/manteiga/manteiga-batida-leite-separado.webp",
+            "alt": "Tigela inclinada derramando leite líquido, com a manteiga em pedaços separada no fundo",
+            "caption": "Depois de cinco minutos, o leite saiu separado da manteiga na hora de passar para o processador.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/manteiga/manteiga-batida-processador.webp",
+            "alt": "Processador de alimentos branco com a mistura de manteiga e leite no copo",
+            "caption": "A última tentativa, no processador.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          }
         ]
       },
       {
@@ -31479,7 +31509,14 @@ export const reviewsData: unknown[] = [
           "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
           "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
           "Outro fator crucial nesse fracasso é a temperatura e a emulsificação. A manteiga gelada, como sugerido nos vídeos, não se integrará adequadamente ao leite. Emulsões estáveis requerem condições específicas e, frequentemente, agentes emulsificantes para manter gorduras e líquidos unidos, condições que simplesmente não são atingidas batendo manteiga gelada com leite frio em uma batedeira doméstica."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp",
+          "alt": "Gráfico de barras: leite integral com 3% a 4% de gordura e manteiga com 80% a 82%",
+          "caption": "O leite integral tem cerca de 3% a 4% de gordura, e a manteiga, de 80% a 82%. Ilustração do Em Casa com Cecília, com os números deste artigo.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Alternativas Reais que Realmente Funcionam",
@@ -31511,7 +31548,14 @@ export const reviewsData: unknown[] = [
           "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
           "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
           "Tutoriais confiáveis explicam os processos químicos e físicos envolvidos e alertam sobre possíveis dificuldades. Antes de tentar qualquer hack culinário, pesquise em fontes confiáveis: sites especializados em gastronomia, chefs profissionais ou publicações técnicas sobre alimentos tendem a ser melhores referências que influenciadores focados apenas em views e engajamento."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/manteiga/manteiga-batida-leite-por-fora.webp",
+          "alt": "Colher tirando manteiga aerada do processador, com o leite separado no fundo do copo",
+          "caption": "No processador, a gordura ficou aerada, mas o leite ficou todo por fora.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       },
       {
         "heading": "Dicas Práticas Para Economia Real com Manteiga",
@@ -31530,7 +31574,14 @@ export const reviewsData: unknown[] = [
           "Os desastres culinários, embora frustrantes, são valiosas oportunidades de aprendizado. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
           "As alternativas reais apresentadas aqui não multiplicarão magicamente sua manteiga, mas oferecem opções viáveis para economia e versatilidade na cozinha. A próxima vez que você se deparar com um hack culinário tentador, lembre-se: na culinária, como na vida, o conhecimento genuíno e as técnicas comprovadas sempre superam os atalhos duvidosos.",
           "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/manteiga/manteiga-batida-resultado.webp",
+          "alt": "Colher cheia de manteiga aerada sobre o copo do processador, com leite separado embaixo",
+          "caption": "O resultado: manteiga aerada de um lado, leite do outro. Não dobrou.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       }
     ]
   },
@@ -31562,31 +31613,84 @@ export const reviewsData: unknown[] = [
           "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
           "Na França, essa lógica ficou conhecida como pain perdu, ou pão perdido. Em Portugal, de onde herdamos a tradição, a rabanada se tornou um doce natalino por volta do século XV. Os portugueses acrescentaram elementos próprios à receita, como vinho do Porto e especiarias, criando versões próximas das que conhecemos hoje.",
           "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
+          "alt": "Ilustração em quatro etapas: tradição antiga de reaproveitar o pão velho; França, o pain perdu; Portugal, por volta do século XV, doce de Natal com vinho do Porto e especiarias; Brasil, trazida pelos portugueses e servida no Natal e o ano todo",
+          "caption": "Do pão velho reaproveitado ao doce de Natal brasileiro, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "A Escolha do Pão: O Segredo para uma Rabanada Perfeita",
         "paragraphs": [
           "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
           "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-cortando-pao.webp",
+          "alt": "Mãos cortando um pão francês em fatias grossas sobre uma tábua, com ovos ao fundo",
+          "caption": "Pão francês amanhecido cortado em fatias grossas, na rabanada com doce de leite do vídeo da Cecília.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       },
       {
         "heading": "A Imersão: Leite, Ovos e Especiarias para Sabor e Maciez",
         "paragraphs": [
           "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
           "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-imersao.webp",
+          "alt": "Mão tirando uma fatia de pão de uma tigela com a mistura de leite e leite condensado",
+          "caption": "A fatia sai da mistura de leite e leite condensado sem encharcar, antes de passar no ovo.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       },
       {
         "heading": "Fritura e Finalização",
         "paragraphs": [
           "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
           "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/rabanada/rabanada-cecilia-fritura.webp",
+            "alt": "Fatias de pão empanadas fritando numa panela pequena com óleo quente, sobre um cooktop",
+            "caption": "As fatias fritam poucas por vez, até dourar.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/rabanada/rabanada-cecilia-acucar-canela.webp",
+            "alt": "Rabanada dourada sendo passada numa travessa de açúcar com canela",
+            "caption": "Ainda morna, a rabanada passa no açúcar com canela.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          }
         ]
       },
       {
         "heading": "Variações para Testar",
+        "images": [
+          {
+            "src": "/images/reviews/rabanada/rabanada-cecilia-recheando-doce-de-leite.webp",
+            "alt": "Mãos recheando uma fatia de pão francês com doce de leite usando um saco de confeiteiro",
+            "caption": "Mais uma variação: cada fatia ganha um corte no meio e é recheada com doce de leite antes da imersão.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/rabanada/rabanada-cecilia-recheada-aberta.webp",
+            "alt": "Mãos abrindo ao meio uma rabanada recheada com doce de leite, polvilhada com açúcar e canela",
+            "caption": "A rabanada recheada aberta ao meio, com o doce de leite por dentro.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8
+          }
+        ],
         "bullets": [
           "Calda de vinho, mel, leite condensado ou caldas aromatizadas com especiarias.",
           "Especiarias extras como cravo-da-índia, raspas de limão ou raspas de laranja.",
