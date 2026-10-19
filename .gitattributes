@@ -46,6 +46,7 @@ public/images/about/partners/dolce-gusto.avif -text export-ignore
 public/images/about/partners/dr-peanut-icon.png -text export-ignore
 public/images/about/partners/dr-peanut.png -text export-ignore
 public/images/about/partners/eos.jpg -text export-ignore
+public/images/about/partners/hostinger-icon.png -text export-ignore
 public/images/about/partners/i-wanna-sleep.avif -text export-ignore
 public/images/about/partners/insider-icon.png -text export-ignore
 public/images/about/partners/insider.png -text export-ignore
@@ -79,6 +80,7 @@ public/images/logos/watermarks/clea-store.webp -text export-ignore
 public/images/logos/watermarks/damie.webp -text export-ignore
 public/images/logos/watermarks/dolce-gusto.webp -text export-ignore
 public/images/logos/watermarks/dr-peanut.webp -text export-ignore
+public/images/logos/watermarks/hostinger.webp -text export-ignore
 public/images/logos/watermarks/i-wanna-sleep.webp -text export-ignore
 public/images/logos/watermarks/insider.webp -text export-ignore
 public/images/logos/watermarks/lejour.webp -text export-ignore
