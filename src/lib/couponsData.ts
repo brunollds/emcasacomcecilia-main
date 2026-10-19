@@ -1766,6 +1766,83 @@ export const COUPONS: Coupon[] = [
     status: 'ativo',
     featured: false,
   },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'hostinger',
+    brand: 'Hostinger',
+    officialUrl: 'https://www.hostinger.com/br',
+    // Link de indicação do Bruno; o código SONARDEOFERTAS vai no link e não se digita no checkout.
+    offerUrl: 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS',
+    brandIcon: 'H',
+    brandColor: '#673DE6',
+    discount: '20% OFF',
+    offerTypeLabel: 'indicação',
+    offerTypeLabelPlural: 'indicações',
+    offerActionLabel: 'Ver os planos com desconto',
+    category: 'Hospedagem de sites e domínios',
+    hubCategory: 'diversos',
+    shortDescription: 'primeiro período de qualquer plano novo, com o desconto já no link',
+    longDescription:
+      'Indicação para quem vai pôr um site no ar: pelo link, a Hostinger mostra os planos com 20% de desconto no primeiro período, sem cupom para digitar. O Em Casa com Cecília roda na Hostinger.',
+    metaTitle: 'Desconto Hostinger: 20% OFF pelo link de indicação',
+    metaDescription:
+      'Desconto Hostinger de 20% no primeiro período de qualquer plano novo, já aplicado pelo link de indicação, sem cupom. Veja o que vale, a renovação e o que não soma.',
+    eligibleCategories: 'Primeiro período de qualquer plano novo da Hostinger, seja qual for o produto',
+    validity: 'Indicação ativa enquanto o programa de indicação da Hostinger estiver vigente',
+    reusable: 'Não se aplica: o desconto vem do link, não de um cupom',
+    shipping: 'Não se aplica',
+    combinable:
+      'Não soma com outros cupons: segundo a Hostinger, o preço do link de indicação já é o melhor que ela oferece por ele',
+    lastVerified: '2026-10-19',
+    linkInstructions: [
+      'Abra a Hostinger pelo botão indicado: os preços da página já aparecem com o desconto da indicação.',
+      'Escolha o plano e o período e siga para o carrinho pelo próprio link.',
+      'Não é preciso digitar cupom: o desconto já está vinculado ao link.',
+      'Confira no carrinho o preço do primeiro período e o preço da renovação antes de pagar.',
+    ],
+    linkNote:
+      'Os 20% valem só no primeiro período de um plano novo: a renovação sai pelo preço padrão do plano, e o desconto não vale em compras já feitas.',
+    aboutBrand:
+      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger, como aplicação Node.js. O link desta página é uma indicação: abre o site da Hostinger com 20% de desconto no primeiro período de qualquer plano novo, sem cupom para digitar.',
+    faqs: [
+      {
+        question: 'Tem cupom de desconto da Hostinger?',
+        answer:
+          'Não é preciso cupom. O desconto da indicação já vem no link desta página e aparece nos preços do site da Hostinger.',
+      },
+      {
+        question: 'De quanto é o desconto da Hostinger pelo link?',
+        answer:
+          'De 20%, segundo a página de indicação da Hostinger em 19/10/2026, no primeiro período de qualquer plano novo, seja qual for o produto.',
+      },
+      {
+        question: 'O desconto vale na renovação do plano?',
+        answer:
+          'Não. Os 20% valem só no primeiro período. Depois, o plano renova pelo preço padrão, que a Hostinger mostra abaixo do card de cada plano, e dá para trocar o período ou cancelar antes da renovação.',
+      },
+      {
+        question: 'O desconto da indicação soma com outro cupom da Hostinger?',
+        answer:
+          'Não. A Hostinger informa que o preço do link de indicação já é o melhor que ela oferece por ele, e outros cupons não se acumulam.',
+      },
+      {
+        question: 'O desconto vale para quem já é cliente da Hostinger?',
+        answer:
+          'Vale para um plano novo comprado pelo link. Planos já contratados e compras já feitas não ganham o desconto.',
+      },
+      {
+        question: 'O Em Casa com Cecília usa a Hostinger?',
+        answer: 'Sim. O site roda na Hostinger, como aplicação Node.js.',
+      },
+      {
+        question: 'Comprar pelo link apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pela indicação pode gerar crédito para o Em Casa com Cecília, sem custo extra para você.',
+      },
+    ],
+    status: 'ativo',
+    featured: false,
+  },
 ];
 
 export function getActiveCoupons(): Coupon[] {
