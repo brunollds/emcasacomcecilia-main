@@ -32,7 +32,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
 4. **Links nas Seções:**
    - Link para a página da loja é relativo e fica no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros idiomas (ex.: `/en/coupons/yesstyle`). O `npm run test:review-i18n` reprova link de loja em outro idioma.
    - Links externos de loja devem ter `"sponsored": true`.
-5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. É essa seção que vira o `FAQPage` no schema da página.
+5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. Pergunta sem negrito: `Pergunta? resposta`, nunca `**Pergunta?** resposta` (o FAQ corta no primeiro `?` e os asteriscos aparecem no acordeão e no `FAQPage`; o `validate:content` barra). É essa seção que vira o `FAQPage` no schema da página.
 
    | Idioma | Título da seção |
    |---|---|

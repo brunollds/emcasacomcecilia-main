@@ -90438,11 +90438,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**Max Titanium ou Growth: qual é melhor?** Depende do produto. Sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
-          "**O cupom da Max vale na creatina?** Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
-          "**A Growth tem cupom?** Não. A Growth não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
-          "**A Max tem creatina Creapure?** Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth lida em 18/10/2026 não declara o selo.",
-          "**Vale esperar a Black Friday?** O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
+          "Max Titanium ou Growth: qual é melhor? Depende do produto. Sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
+          "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
+          "A Growth tem cupom? Não. A Growth não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
+          "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth lida em 18/10/2026 não declara o selo.",
+          "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
         ]
       },
       {
@@ -90741,10 +90741,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**Probiótica ou Growth: qual é melhor?** Pelo preço por 100 g, a Growth vence no whey e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
-          "**O cupom da Probiótica vale na creatina?** A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste de 13/10, a creatina em promoção não recebeu os 10%.",
-          "**A Growth tem cupom?** Não. A Growth não é parceira do site, e não há cupom nosso para ela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
-          "**A Probiótica é confiável?** Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+          "Probiótica ou Growth: qual é melhor? Pelo preço por 100 g, a Growth vence no whey e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "O cupom da Probiótica vale na creatina? A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste de 13/10, a creatina em promoção não recebeu os 10%.",
+          "A Growth tem cupom? Não. A Growth não é parceira do site, e não há cupom nosso para ela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
+          "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ]
       },
       {
@@ -90956,11 +90956,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**A Hostinger é confiável?** É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
-          "**A Hostinger tem reembolso?** Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
-          "**A renovação da Hostinger é automática?** Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
-          "**Quem cobra na Hostinger?** Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
-          "**Tem cupom Hostinger?** Não é preciso cupom. O link de indicação já dá 20% no primeiro período de um plano novo, e esse desconto não soma com outros cupons."
+          "A Hostinger é confiável? É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
+          "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
+          "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
+          "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
+          "Tem cupom Hostinger? Não é preciso cupom. O link de indicação já dá 20% no primeiro período de um plano novo, e esse desconto não soma com outros cupons."
         ]
       },
       {
@@ -91173,11 +91173,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "**Is Hostinger legit?** It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
-          "**Does Hostinger offer refunds?** Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
-          "**Is Hostinger renewal automatic?** Yes, by default. You can turn it off in your account at any time. Without a manual renewal, the service ends at the end of the period.",
-          "**Who bills you at Hostinger?** It depends on your country. The terms say the contracting company depends on where you live. Check the name shown at checkout.",
-          "**Do I need a Hostinger coupon?** No. The referral link already gives 20% off the first period of a new plan, and that discount does not stack with other coupons."
+          "Is Hostinger legit? It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+          "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
+          "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time. Without a manual renewal, the service ends at the end of the period.",
+          "Who bills you at Hostinger? It depends on your country. The terms say the contracting company depends on where you live. Check the name shown at checkout.",
+          "Do I need a Hostinger coupon? No. The referral link already gives 20% off the first period of a new plan, and that discount does not stack with other coupons."
         ]
       },
       {
@@ -91390,11 +91390,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "**¿Es confiable Hostinger?** Es una empresa grande, con política de reembolso y de renovación públicas. Lo que pide atención es la renovación automática y su precio, no la solvencia de la empresa.",
-          "**¿Hostinger tiene reembolso?** Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
-          "**¿La renovación de Hostinger es automática?** Sí, por defecto. Puedes desactivarla en tu cuenta en cualquier momento; sin renovación manual, el servicio termina al fin del período.",
-          "**¿Quién cobra en Hostinger?** Depende del país. Los términos dicen que la empresa contratante depende de dónde vives. Revisa el nombre que aparece en el checkout.",
-          "**¿Necesito un cupón de Hostinger?** No. El enlace de referido ya da 20 % en el primer período de un plan nuevo, y ese descuento no se suma a otros cupones."
+          "¿Es confiable Hostinger? Es una empresa grande, con política de reembolso y de renovación públicas. Lo que pide atención es la renovación automática y su precio, no la solvencia de la empresa.",
+          "¿Hostinger tiene reembolso? Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
+          "¿La renovación de Hostinger es automática? Sí, por defecto. Puedes desactivarla en tu cuenta en cualquier momento; sin renovación manual, el servicio termina al fin del período.",
+          "¿Quién cobra en Hostinger? Depende del país. Los términos dicen que la empresa contratante depende de dónde vives. Revisa el nombre que aparece en el checkout.",
+          "¿Necesito un cupón de Hostinger? No. El enlace de referido ya da 20 % en el primer período de un plan nuevo, y ese descuento no se suma a otros cupones."
         ]
       },
       {
@@ -91607,11 +91607,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "**Hostinger est-il fiable ?** C'est une grande entreprise, avec des politiques de remboursement et de renouvellement publiques. Ce qui mérite attention, c'est le renouvellement automatique et son prix, pas la fiabilité de l'entreprise.",
-          "**Hostinger rembourse-t-il ?** Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
-          "**Le renouvellement Hostinger est-il automatique ?** Oui, par défaut. Vous pouvez le désactiver dans votre compte à tout moment ; sans renouvellement manuel, le service prend fin à la fin de la période.",
-          "**Qui facture chez Hostinger ?** Cela dépend de votre pays. Les conditions indiquent que la société contractante dépend de votre lieu de résidence. Vérifiez le nom affiché au moment du paiement.",
-          "**Faut-il un code promo Hostinger ?** Non. Le lien de parrainage donne déjà 20 % sur la première période d'un nouveau forfait, et cette réduction ne se cumule pas avec d'autres codes promo."
+          "Hostinger est-il fiable ? C'est une grande entreprise, avec des politiques de remboursement et de renouvellement publiques. Ce qui mérite attention, c'est le renouvellement automatique et son prix, pas la fiabilité de l'entreprise.",
+          "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
+          "Le renouvellement Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans votre compte à tout moment ; sans renouvellement manuel, le service prend fin à la fin de la période.",
+          "Qui facture chez Hostinger ? Cela dépend de votre pays. Les conditions indiquent que la société contractante dépend de votre lieu de résidence. Vérifiez le nom affiché au moment du paiement.",
+          "Faut-il un code promo Hostinger ? Non. Le lien de parrainage donne déjà 20 % sur la première période d'un nouveau forfait, et cette réduction ne se cumule pas avec d'autres codes promo."
         ]
       },
       {
@@ -91824,11 +91824,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "**Ist Hostinger seriös?** Es ist ein großes Unternehmen mit öffentlich einsehbarer Erstattungs- und Verlängerungsrichtlinie. Was Aufmerksamkeit verdient, sind die automatische Verlängerung und ihr Preis, nicht die Seriosität des Unternehmens.",
-          "**Gibt es bei Hostinger eine Erstattung?** Ja, 30 Tage für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Supportleistungen werden nicht erstattet.",
-          "**Ist die Verlängerung bei Hostinger automatisch?** Ja, standardmäßig. Sie können sie jederzeit in Ihrem Konto deaktivieren. Ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
-          "**Wer rechnet bei Hostinger ab?** Das hängt von Ihrem Land ab. Die Bedingungen sagen, dass die vertragschließende Gesellschaft von Ihrem Wohnsitz abhängt. Prüfen Sie den Namen, der beim Checkout angezeigt wird.",
-          "**Brauche ich einen Hostinger-Gutschein?** Nein. Der Empfehlungslink gibt Ihnen bereits 20 % auf die erste Laufzeit eines neuen Tarifs, und dieser Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
+          "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlich einsehbarer Erstattungs- und Verlängerungsrichtlinie. Was Aufmerksamkeit verdient, sind die automatische Verlängerung und ihr Preis, nicht die Seriosität des Unternehmens.",
+          "Gibt es bei Hostinger eine Erstattung? Ja, 30 Tage für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Supportleistungen werden nicht erstattet.",
+          "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können sie jederzeit in Ihrem Konto deaktivieren. Ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
+          "Wer rechnet bei Hostinger ab? Das hängt von Ihrem Land ab. Die Bedingungen sagen, dass die vertragschließende Gesellschaft von Ihrem Wohnsitz abhängt. Prüfen Sie den Namen, der beim Checkout angezeigt wird.",
+          "Brauche ich einen Hostinger-Gutschein? Nein. Der Empfehlungslink gibt Ihnen bereits 20 % auf die erste Laufzeit eines neuen Tarifs, und dieser Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
         ]
       },
       {
@@ -92041,11 +92041,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "**Hostinger è affidabile?** È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che richiede attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
-          "**Hostinger offre rimborsi?** Sì, di 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo del dominio e i servizi di supporto a pagamento non vengono rimborsati.",
-          "**Il rinnovo di Hostinger è automatico?** Sì, di default. Puoi disattivarlo dall'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
-          "**Chi addebita su Hostinger?** Dipende dal paese. La società contraente cambia in base alla tua regione: controlla il nome al checkout e in fattura.",
-          "**Serve un coupon Hostinger?** No. Il link di invito dà già il 20% sul primo periodo di un piano nuovo, e questo sconto non si somma ad altri coupon."
+          "Hostinger è affidabile? È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che richiede attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
+          "Hostinger offre rimborsi? Sì, di 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo del dominio e i servizi di supporto a pagamento non vengono rimborsati.",
+          "Il rinnovo di Hostinger è automatico? Sì, di default. Puoi disattivarlo dall'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
+          "Chi addebita su Hostinger? Dipende dal paese. La società contraente cambia in base alla tua regione: controlla il nome al checkout e in fattura.",
+          "Serve un coupon Hostinger? No. Il link di invito dà già il 20% sul primo periodo di un piano nuovo, e questo sconto non si somma ad altri coupon."
         ]
       },
       {
@@ -92258,11 +92258,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "**호스팅어는 믿을 만한가요?** 규모가 큰 회사이며, 환불과 갱신 정책이 공개되어 있습니다. 주의할 점은 회사의 신뢰도가 아니라 자동 갱신과 갱신 가격입니다.",
-          "**호스팅어는 환불해 주나요?** 네, 호스팅과 VPS는 30일 안에 환불할 수 있으며 표의 예외가 적용됩니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
-          "**호스팅어 갱신은 자동인가요?** 네, 기본 설정입니다. 계정에서 언제든 끌 수 있으며, 수동으로 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
-          "**호스팅어에서는 누가 청구하나요?** 국가에 따라 다릅니다. 계약 회사는 지역에 따라 달라지므로, 결제 화면과 청구서에서 회사명을 확인하세요.",
-          "**호스팅어 쿠폰이 필요한가요?** 필요 없습니다. 추천 링크로 새 요금제의 첫 기간에 이미 20%가 할인되며, 이 할인은 다른 쿠폰과 중복되지 않습니다."
+          "호스팅어는 믿을 만한가요? 규모가 큰 회사이며, 환불과 갱신 정책이 공개되어 있습니다. 주의할 점은 회사의 신뢰도가 아니라 자동 갱신과 갱신 가격입니다.",
+          "호스팅어는 환불해 주나요? 네, 호스팅과 VPS는 30일 안에 환불할 수 있으며 표의 예외가 적용됩니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
+          "호스팅어 갱신은 자동인가요? 네, 기본 설정입니다. 계정에서 언제든 끌 수 있으며, 수동으로 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
+          "호스팅어에서는 누가 청구하나요? 국가에 따라 다릅니다. 계약 회사는 지역에 따라 달라지므로, 결제 화면과 청구서에서 회사명을 확인하세요.",
+          "호스팅어 쿠폰이 필요한가요? 필요 없습니다. 추천 링크로 새 요금제의 첫 기간에 이미 20%가 할인되며, 이 할인은 다른 쿠폰과 중복되지 않습니다."
         ]
       },
       {
@@ -92475,11 +92475,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "**Hostingerは信頼できますか？** 大手企業で、返金と更新のポリシーが公開されています。注意が必要なのは会社の信頼性ではなく、自動更新とその価格です。",
-          "**Hostingerに返金制度はありますか？** はい。ホスティングとVPSは30日以内であれば返金されます。表にある例外が適用されます。ドメインの更新と有料のサポートサービスは返金されません。",
-          "**Hostingerの更新は自動ですか？** はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しない場合、期間の終わりにサービスは終了します。",
-          "**Hostingerでは誰が請求しますか？** 国によって異なります。契約会社は地域によって変わるため、チェックアウト画面と請求書で会社名を確認してください。",
-          "**Hostingerのクーポンは必要ですか？** 必要ありません。紹介リンクから申し込めば、新しいプランの最初の期間が20%割引になります。この割引は他のクーポンとは併用できません。"
+          "Hostingerは信頼できますか？大手企業で、返金と更新のポリシーが公開されています。注意が必要なのは会社の信頼性ではなく、自動更新とその価格です。",
+          "Hostingerに返金制度はありますか？はい。ホスティングとVPSは30日以内であれば返金されます。表にある例外が適用されます。ドメインの更新と有料のサポートサービスは返金されません。",
+          "Hostingerの更新は自動ですか？はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しない場合、期間の終わりにサービスは終了します。",
+          "Hostingerでは誰が請求しますか？国によって異なります。契約会社は地域によって変わるため、チェックアウト画面と請求書で会社名を確認してください。",
+          "Hostingerのクーポンは必要ですか？必要ありません。紹介リンクから申し込めば、新しいプランの最初の期間が20%割引になります。この割引は他のクーポンとは併用できません。"
         ]
       },
       {
@@ -92692,11 +92692,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "**Hostinger 可靠嗎？** 它是規模不小的公司，退款與續訂政策都公開透明。需要注意的是自動續訂與其價格，而不是公司是否可靠。",
-          "**Hostinger 有退款嗎？** 有。主機與 VPS 可在 30 天內退款，但適用表中的例外。網域續訂與付費支援服務不予退款。",
-          "**Hostinger 的續訂是自動的嗎？** 是的，預設如此。你隨時可以在帳戶中關閉；若不手動續費，服務會在期限結束時終止。",
-          "**Hostinger 由誰收費？** 視國家而定。簽約公司會依地區不同，請在結帳頁面與帳單上確認公司名稱。",
-          "**需要 Hostinger 優惠券嗎？** 不需要。推薦連結已經為新方案的首個計費週期提供 20% 優惠，而且這個優惠不能與其他優惠券疊加。"
+          "Hostinger 可靠嗎？它是規模不小的公司，退款與續訂政策都公開透明。需要注意的是自動續訂與其價格，而不是公司是否可靠。",
+          "Hostinger 有退款嗎？有。主機與 VPS 可在 30 天內退款，但適用表中的例外。網域續訂與付費支援服務不予退款。",
+          "Hostinger 的續訂是自動的嗎？是的，預設如此。你隨時可以在帳戶中關閉；若不手動續費，服務會在期限結束時終止。",
+          "Hostinger 由誰收費？視國家而定。簽約公司會依地區不同，請在結帳頁面與帳單上確認公司名稱。",
+          "需要 Hostinger 優惠券嗎？不需要。推薦連結已經為新方案的首個計費週期提供 20% 優惠，而且這個優惠不能與其他優惠券疊加。"
         ]
       },
       {
@@ -92909,11 +92909,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "**Hostinger 靠谱吗？** 它是规模不小的公司，退款和续费政策都公开透明。需要注意的是自动续费及其价格，而不是公司是否靠谱。",
-          "**Hostinger 有退款吗？** 有。主机和 VPS 可在 30 天内退款，但适用表中的例外。域名续费和付费支持服务不予退款。",
-          "**Hostinger 的续费是自动的吗？** 是的，默认如此。你随时可以在账户中关闭；若不手动续费，服务会在期限结束时终止。",
-          "**Hostinger 由谁收费？** 视国家而定。签约公司会因地区不同而变化，请在结账页面和账单上确认公司名称。",
-          "**需要 Hostinger 优惠券吗？** 不需要。推荐链接已经为新套餐的首个计费周期提供 20% 优惠，而且这个优惠不能与其他优惠券叠加。"
+          "Hostinger 靠谱吗？它是规模不小的公司，退款和续费政策都公开透明。需要注意的是自动续费及其价格，而不是公司是否靠谱。",
+          "Hostinger 有退款吗？有。主机和 VPS 可在 30 天内退款，但适用表中的例外。域名续费和付费支持服务不予退款。",
+          "Hostinger 的续费是自动的吗？是的，默认如此。你随时可以在账户中关闭；若不手动续费，服务会在期限结束时终止。",
+          "Hostinger 由谁收费？视国家而定。签约公司会因地区不同而变化，请在结账页面和账单上确认公司名称。",
+          "需要 Hostinger 优惠券吗？不需要。推荐链接已经为新套餐的首个计费周期提供 20% 优惠，而且这个优惠不能与其他优惠券叠加。"
         ]
       },
       {
@@ -93205,10 +93205,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**A Hostinger tem nota boa no Reclame Aqui?** Em 30/09/2026, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
-          "**Quais são as reclamações mais comuns da Hostinger?** No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
-          "**A Hostinger responde reclamações?** Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
-          "**Como desligar a renovação automática da Hostinger?** No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento."
+          "A Hostinger tem nota boa no Reclame Aqui? Em 30/09/2026, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+          "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
+          "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
+          "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento."
         ]
       },
       {
@@ -93380,10 +93380,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "**Does Hostinger have good reviews?** On Trustpilot, the score on October 19, 2026 was 4.6 (“Excellent”), from 73,316 reviews. The profile is run by the company itself, so read the details before deciding.",
-          "**Does Hostinger have complaints?** Yes. On Reclame Aqui, the most cited problem in the general ranking (last 3 years) was improper charges, at 21.72%.",
-          "**Does Hostinger answer complaints?** Yes. On Trustpilot the company says it responds to 98% of negative reviews, usually within 24 hours. On Reclame Aqui, 99.3% of the complaints from the last 6 months were answered.",
-          "**How do I turn off Hostinger’s automatic renewal?** In your account's billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
+          "Does Hostinger have good reviews? On Trustpilot, the score on October 19, 2026 was 4.6 (“Excellent”), from 73,316 reviews. The profile is run by the company itself, so read the details before deciding.",
+          "Does Hostinger have complaints? Yes. On Reclame Aqui, the most cited problem in the general ranking (last 3 years) was improper charges, at 21.72%.",
+          "Does Hostinger answer complaints? Yes. On Trustpilot the company says it responds to 98% of negative reviews, usually within 24 hours. On Reclame Aqui, 99.3% of the complaints from the last 6 months were answered.",
+          "How do I turn off Hostinger’s automatic renewal? In your account's billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
         ]
       },
       {
@@ -93555,10 +93555,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "**¿Hostinger tiene buenas opiniones?** El 19 de octubre de 2026, la calificación en Trustpilot era de 4,6 («Excelente») con 73.316 opiniones. El perfil lo administra la propia empresa, así que lee el detalle antes de decidir.",
-          "**¿Hostinger tiene quejas?** Sí. En Reclame Aqui, el problema más citado del ranking general (últimos 3 años) fueron los cobros indebidos, con el 21,72 %.",
-          "**¿Hostinger responde a las quejas?** Sí. En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. En Reclame Aqui, respondió al 99,3 % de las quejas de los últimos 6 meses.",
-          "**¿Cómo desactivo la renovación automática de Hostinger?** En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta el vencimiento."
+          "¿Hostinger tiene buenas opiniones? El 19 de octubre de 2026, la calificación en Trustpilot era de 4,6 («Excelente») con 73.316 opiniones. El perfil lo administra la propia empresa, así que lee el detalle antes de decidir.",
+          "¿Hostinger tiene quejas? Sí. En Reclame Aqui, el problema más citado del ranking general (últimos 3 años) fueron los cobros indebidos, con el 21,72 %.",
+          "¿Hostinger responde a las quejas? Sí. En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. En Reclame Aqui, respondió al 99,3 % de las quejas de los últimos 6 meses.",
+          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta el vencimiento."
         ]
       },
       {
@@ -93730,10 +93730,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "**Hostinger a-t-il de bonnes évaluations ?** Le 19 octobre 2026, la note sur Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Le profil est géré par l’entreprise elle-même, alors lisez le détail avant de décider.",
-          "**Hostinger a-t-il des plaintes ?** Oui. Sur Reclame Aqui, le problème le plus cité du classement général (3 dernières années) était les prélèvements indus, à 21,72 %.",
-          "**Hostinger répond-il aux plaintes ?** Oui. Sur Trustpilot, l’entreprise dit répondre à 98 % des avis négatifs, en général dans les 24 heures. Sur Reclame Aqui, 99,3 % des plaintes des 6 derniers mois ont reçu une réponse.",
-          "**Comment désactiver le renouvellement automatique de Hostinger ?** Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
+          "Hostinger a-t-il de bonnes évaluations ? Le 19 octobre 2026, la note sur Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Le profil est géré par l’entreprise elle-même, alors lisez le détail avant de décider.",
+          "Hostinger a-t-il des plaintes ? Oui. Sur Reclame Aqui, le problème le plus cité du classement général (3 dernières années) était les prélèvements indus, à 21,72 %.",
+          "Hostinger répond-il aux plaintes ? Oui. Sur Trustpilot, l’entreprise dit répondre à 98 % des avis négatifs, en général dans les 24 heures. Sur Reclame Aqui, 99,3 % des plaintes des 6 derniers mois ont reçu une réponse.",
+          "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
         ]
       },
       {
@@ -93905,10 +93905,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "**Hat Hostinger gute Bewertungen?** Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) aus 73.316 Bewertungen. Das Profil verwaltet die Firma selbst, lesen Sie also die Details, bevor Sie entscheiden.",
-          "**Gibt es Beschwerden über Hostinger?** Ja. Bei Reclame Aqui war das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) die unberechtigte Abbuchung, mit 21,72 %.",
-          "**Antwortet Hostinger auf Beschwerden?** Ja. Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Bei Reclame Aqui wurden 99,3 % der Beschwerden der letzten 6 Monate beantwortet.",
-          "**Wie schalte ich die automatische Verlängerung von Hostinger ab?** Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie die drei Punkte beim Produkt, wählen Sie die Verlängerungseinstellungen und deaktivieren Sie die Option. Das Produkt bleibt bis zum Ablauf aktiv."
+          "Hat Hostinger gute Bewertungen? Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) aus 73.316 Bewertungen. Das Profil verwaltet die Firma selbst, lesen Sie also die Details, bevor Sie entscheiden.",
+          "Gibt es Beschwerden über Hostinger? Ja. Bei Reclame Aqui war das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) die unberechtigte Abbuchung, mit 21,72 %.",
+          "Antwortet Hostinger auf Beschwerden? Ja. Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Bei Reclame Aqui wurden 99,3 % der Beschwerden der letzten 6 Monate beantwortet.",
+          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie die drei Punkte beim Produkt, wählen Sie die Verlängerungseinstellungen und deaktivieren Sie die Option. Das Produkt bleibt bis zum Ablauf aktiv."
         ]
       },
       {
@@ -94162,10 +94162,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "**La Hostinger ha una buona valutazione su Trustpilot?** Il 19 ottobre 2026 aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni, e l'87,1% dava cinque stelle.",
-          "**Quali sono le lamentele più comuni sulla Hostinger?** Nella classifica dei problemi del Reclame Aqui (scheda generale, ultimi 3 anni), gli addebiti indebiti sono al primo posto, con il 21,72%.",
-          "**La Hostinger risponde ai reclami?** Sì. Secondo Trustpilot, risponde al 98% delle recensioni negative, di solito entro 24 ore. Nel Reclame Aqui, il 99,3% dei reclami dei 6 mesi ha avuto risposta.",
-          "**Come disattivare il rinnovo automatico della Hostinger?** Nell'area di fatturazione, vai ai servizi, apri le impostazioni di rinnovo del prodotto e disattiva l'opzione di rinnovo automatico. Il prodotto resta attivo fino alla scadenza."
+          "La Hostinger ha una buona valutazione su Trustpilot? Il 19 ottobre 2026 aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni, e l'87,1% dava cinque stelle.",
+          "Quali sono le lamentele più comuni sulla Hostinger? Nella classifica dei problemi del Reclame Aqui (scheda generale, ultimi 3 anni), gli addebiti indebiti sono al primo posto, con il 21,72%.",
+          "La Hostinger risponde ai reclami? Sì. Secondo Trustpilot, risponde al 98% delle recensioni negative, di solito entro 24 ore. Nel Reclame Aqui, il 99,3% dei reclami dei 6 mesi ha avuto risposta.",
+          "Come disattivare il rinnovo automatico della Hostinger? Nell'area di fatturazione, vai ai servizi, apri le impostazioni di rinnovo del prodotto e disattiva l'opzione di rinnovo automatico. Il prodotto resta attivo fino alla scadenza."
         ]
       },
       {
@@ -94419,10 +94419,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "**Hostinger는 Trustpilot에서 평점이 좋은가요?** 2026년 10월 19일 기준 TrustScore 4.6(\"Excellent\")에 리뷰 73,316건이며, 87.1%가 별 다섯 개를 주었습니다.",
-          "**Hostinger에 가장 흔한 불만은 무엇인가요?** Reclame Aqui 문제 순위(일반 탭, 최근 3년)에서 부당 청구가 21.72%로 가장 많이 언급되었습니다.",
-          "**Hostinger는 불만에 답하나요?** 네. Trustpilot에 따르면 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답합니다. Reclame Aqui에서는 6개월 민원의 99.3%에 답변이 달렸습니다.",
-          "**Hostinger 자동 갱신은 어떻게 끄나요?** 청구 영역에서 제품의 서비스 설정으로 가서 자동 갱신 옵션을 해제하고 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
+          "Hostinger는 Trustpilot에서 평점이 좋은가요? 2026년 10월 19일 기준 TrustScore 4.6(\"Excellent\")에 리뷰 73,316건이며, 87.1%가 별 다섯 개를 주었습니다.",
+          "Hostinger에 가장 흔한 불만은 무엇인가요? Reclame Aqui 문제 순위(일반 탭, 최근 3년)에서 부당 청구가 21.72%로 가장 많이 언급되었습니다.",
+          "Hostinger는 불만에 답하나요? 네. Trustpilot에 따르면 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답합니다. Reclame Aqui에서는 6개월 민원의 99.3%에 답변이 달렸습니다.",
+          "Hostinger 자동 갱신은 어떻게 끄나요? 청구 영역에서 제품의 서비스 설정으로 가서 자동 갱신 옵션을 해제하고 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
         ]
       },
       {
@@ -94677,10 +94677,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "**Hostinger の Trustpilot 評価は良いですか？** 2026年10月19日時点で TrustScore 4.6（「Excellent」）、レビュー 73,316 件で、87.1% が星 5 つです。",
-          "**Hostinger によくある不満は何ですか？** Reclame Aqui の問題別ランキング（全体タブ、過去 3 年）では、不当な請求が 21.72% で最も多く挙げられています。",
-          "**Hostinger は苦情に返信しますか？** はい。Trustpilot によると否定的なレビューの 98% に返信し、多くは 24 時間以内です。Reclame Aqui では、6 か月の苦情の 99.3% に返信があります。",
-          "**Hostinger の自動更新はどう止めますか？** hPanel の請求関連の画面を開き、サービスの一覧で製品の横のメニューから更新設定を選んで、自動更新を切って保存します。製品は期限日まで有効なままです。"
+          "Hostinger の Trustpilot 評価は良いですか？2026年10月19日時点で TrustScore 4.6（「Excellent」）、レビュー 73,316 件で、87.1% が星 5 つです。",
+          "Hostinger によくある不満は何ですか？Reclame Aqui の問題別ランキング（全体タブ、過去 3 年）では、不当な請求が 21.72% で最も多く挙げられています。",
+          "Hostinger は苦情に返信しますか？はい。Trustpilot によると否定的なレビューの 98% に返信し、多くは 24 時間以内です。Reclame Aqui では、6 か月の苦情の 99.3% に返信があります。",
+          "Hostinger の自動更新はどう止めますか？hPanel の請求関連の画面を開き、サービスの一覧で製品の横のメニューから更新設定を選んで、自動更新を切って保存します。製品は期限日まで有効なままです。"
         ]
       },
       {
@@ -94934,10 +94934,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "**Hostinger 在 Trustpilot 的評分好嗎？** 2026 年 10 月 19 日的 TrustScore 為 4.6（\"Excellent\"），共 73,316 則評價，其中 87.1% 為五星。",
-          "**Hostinger 最常見的投訴是什麼？** 在 Reclame Aqui 的問題排行（總覽分頁，過去 3 年）中，不當扣款以 21.72% 居首。",
-          "**Hostinger 會回覆投訴嗎？** 會。根據 Trustpilot，公司回覆了 98% 的負面評價，通常在 24 小時內。在 Reclame Aqui，6 個月內 99.3% 的投訴都已有回覆。",
-          "**如何關閉 Hostinger 的自動續訂？** 在 hPanel 的帳單區域找到服務頁面，打開產品旁的選單，進入續訂設定，然後取消自動續訂並儲存。產品會保持有效直到到期日。"
+          "Hostinger 在 Trustpilot 的評分好嗎？2026 年 10 月 19 日的 TrustScore 為 4.6（\"Excellent\"），共 73,316 則評價，其中 87.1% 為五星。",
+          "Hostinger 最常見的投訴是什麼？在 Reclame Aqui 的問題排行（總覽分頁，過去 3 年）中，不當扣款以 21.72% 居首。",
+          "Hostinger 會回覆投訴嗎？會。根據 Trustpilot，公司回覆了 98% 的負面評價，通常在 24 小時內。在 Reclame Aqui，6 個月內 99.3% 的投訴都已有回覆。",
+          "如何關閉 Hostinger 的自動續訂？在 hPanel 的帳單區域找到服務頁面，打開產品旁的選單，進入續訂設定，然後取消自動續訂並儲存。產品會保持有效直到到期日。"
         ]
       },
       {
@@ -95191,10 +95191,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "**Hostinger 在 Trustpilot 的评分好吗？** 2026 年 10 月 19 日的 TrustScore 为 4.6（\"Excellent\"），共 73,316 条评价，其中 87.1% 为五星。",
-          "**Hostinger 最常见的投诉是什么？** 在 Reclame Aqui 的问题排行（总览标签页，过去 3 年）中，不当扣款以 21.72% 居首。",
-          "**Hostinger 会回复投诉吗？** 会。根据 Trustpilot，公司回复了 98% 的负面评价，通常在 24 小时内。在 Reclame Aqui，6 个月内 99.3% 的投诉都已有回复。",
-          "**如何关闭 Hostinger 的自动续费？** 在 hPanel 的账单区域找到服务页面，打开产品旁的菜单，进入续费设置，然后取消自动续费并保存。产品会保持有效直到到期日。"
+          "Hostinger 在 Trustpilot 的评分好吗？2026 年 10 月 19 日的 TrustScore 为 4.6（\"Excellent\"），共 73,316 条评价，其中 87.1% 为五星。",
+          "Hostinger 最常见的投诉是什么？在 Reclame Aqui 的问题排行（总览标签页，过去 3 年）中，不当扣款以 21.72% 居首。",
+          "Hostinger 会回复投诉吗？会。根据 Trustpilot，公司回复了 98% 的负面评价，通常在 24 小时内。在 Reclame Aqui，6 个月内 99.3% 的投诉都已有回复。",
+          "如何关闭 Hostinger 的自动续费？在 hPanel 的账单区域找到服务页面，打开产品旁的菜单，进入续费设置，然后取消自动续费并保存。产品会保持有效直到到期日。"
         ]
       },
       {
@@ -95412,11 +95412,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**Hostinger tem cupom?** Não é preciso. O desconto de 20% já está no link de indicação, no primeiro período de um plano novo.",
-          "**O link de indicação dá desconto na renovação?** Não. A renovação volta ao preço padrão, o que aparece abaixo do card de cada plano.",
-          "**O desconto soma com outro cupom?** Não. A página diz que outros cupons de desconto não são acumulativos com o link.",
-          "**Domínio entra no desconto?** Os termos não listam domínio entre os serviços elegíveis. Confira no carrinho antes de pagar.",
-          "**Quem já é cliente ganha o desconto?** A regra da página exclui renovação e compra já feita. Para renovar, veja o valor no painel da Hostinger."
+          "Hostinger tem cupom? Não é preciso. O desconto de 20% já está no link de indicação, no primeiro período de um plano novo.",
+          "O link de indicação dá desconto na renovação? Não. A renovação volta ao preço padrão, o que aparece abaixo do card de cada plano.",
+          "O desconto soma com outro cupom? Não. A página diz que outros cupons de desconto não são acumulativos com o link.",
+          "Domínio entra no desconto? Os termos não listam domínio entre os serviços elegíveis. Confira no carrinho antes de pagar.",
+          "Quem já é cliente ganha o desconto? A regra da página exclui renovação e compra já feita. Para renovar, veja o valor no painel da Hostinger."
         ]
       },
       {
@@ -95580,11 +95580,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "**Does Hostinger have a coupon?** No need. The 20% discount is already in the referral link, on the first period of a new plan.",
-          "**Does the referral link discount renewal?** No. Renewal goes back to the standard price, shown below each plan's card.",
-          "**Does the discount stack with another coupon?** No. The page says other discount coupons do not stack with the link.",
-          "**Does a domain qualify for the discount?** The terms don't list domains among the eligible services. Check the cart before paying.",
-          "**Do existing customers get the discount?** The page's rule excludes renewals and purchases already made. To renew, check the price in your Hostinger control panel."
+          "Does Hostinger have a coupon? No need. The 20% discount is already in the referral link, on the first period of a new plan.",
+          "Does the referral link discount renewal? No. Renewal goes back to the standard price, shown below each plan's card.",
+          "Does the discount stack with another coupon? No. The page says other discount coupons do not stack with the link.",
+          "Does a domain qualify for the discount? The terms don't list domains among the eligible services. Check the cart before paying.",
+          "Do existing customers get the discount? The page's rule excludes renewals and purchases already made. To renew, check the price in your Hostinger control panel."
         ]
       },
       {
@@ -95748,11 +95748,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "**¿Hostinger tiene cupón?** No hace falta. El 20% de descuento ya está en el enlace de referido, en el primer período de un plan nuevo.",
-          "**¿El enlace de referido da descuento en la renovación?** No. La renovación vuelve al precio estándar, que aparece debajo de la tarjeta de cada plan.",
-          "**¿El descuento se suma a otro cupón?** No. La página dice que otros cupones de descuento no se acumulan con el enlace.",
-          "**¿El dominio entra en el descuento?** Las condiciones no incluyen dominios entre los servicios elegibles. Revisa el carrito antes de pagar.",
-          "**¿Quién ya es cliente recibe el descuento?** La regla de la página excluye renovaciones y compras ya hechas. Para renovar, mira el valor en el panel de Hostinger."
+          "¿Hostinger tiene cupón? No hace falta. El 20% de descuento ya está en el enlace de referido, en el primer período de un plan nuevo.",
+          "¿El enlace de referido da descuento en la renovación? No. La renovación vuelve al precio estándar, que aparece debajo de la tarjeta de cada plan.",
+          "¿El descuento se suma a otro cupón? No. La página dice que otros cupones de descuento no se acumulan con el enlace.",
+          "¿El dominio entra en el descuento? Las condiciones no incluyen dominios entre los servicios elegibles. Revisa el carrito antes de pagar.",
+          "¿Quién ya es cliente recibe el descuento? La regla de la página excluye renovaciones y compras ya hechas. Para renovar, mira el valor en el panel de Hostinger."
         ]
       },
       {
@@ -95916,11 +95916,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "**Hostinger a-t-il un code promo ?** Inutile. La réduction de 20 % est déjà dans le lien de parrainage, sur la première période d'un nouveau forfait.",
-          "**Le lien de parrainage réduit-il le renouvellement ?** Non. Le renouvellement revient au tarif standard.",
-          "**La réduction se cumule-t-elle avec un autre code ?** Non. La page indique que les autres codes de réduction ne se cumulent pas avec le lien.",
-          "**Un domaine entre-t-il dans la réduction ?** Les conditions ne listent pas les domaines parmi les services éligibles. Vérifiez le panier avant de payer.",
-          "**Les clients existants ont-ils la réduction ?** La règle de la page exclut les renouvellements et les achats déjà effectués. Pour renouveler, consultez le prix dans votre espace Hostinger."
+          "Hostinger a-t-il un code promo ? Inutile. La réduction de 20 % est déjà dans le lien de parrainage, sur la première période d'un nouveau forfait.",
+          "Le lien de parrainage réduit-il le renouvellement ? Non. Le renouvellement revient au tarif standard.",
+          "La réduction se cumule-t-elle avec un autre code ? Non. La page indique que les autres codes de réduction ne se cumulent pas avec le lien.",
+          "Un domaine entre-t-il dans la réduction ? Les conditions ne listent pas les domaines parmi les services éligibles. Vérifiez le panier avant de payer.",
+          "Les clients existants ont-ils la réduction ? La règle de la page exclut les renouvellements et les achats déjà effectués. Pour renouveler, consultez le prix dans votre espace Hostinger."
         ]
       },
       {
@@ -96084,11 +96084,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "**Gibt es bei Hostinger einen Gutschein?** Nicht nötig. Die 20 % Rabatt stecken schon im Empfehlungslink, im ersten Zeitraum eines neuen Tarifs.",
-          "**Gibt der Empfehlungslink auch bei der Verlängerung Rabatt?** Nein. Die Verlängerung kostet den Standardpreis.",
-          "**Lässt sich der Rabatt mit einem anderen Gutschein kombinieren?** Nein. Die Seite sagt, dass andere Rabattgutscheine sich nicht mit dem Link kombinieren lassen.",
-          "**Zählt eine Domain zum Rabatt?** Die Bedingungen nennen Domains nicht unter den berechtigten Diensten. Prüfen Sie den Warenkorb vor der Zahlung.",
-          "**Bekommen Bestandskunden den Rabatt?** Die Regel der Seite schließt Verlängerungen und bereits abgeschlossene Käufe aus. Für die Verlängerung sehen Sie den Preis im Hostinger-Kundenbereich."
+          "Gibt es bei Hostinger einen Gutschein? Nicht nötig. Die 20 % Rabatt stecken schon im Empfehlungslink, im ersten Zeitraum eines neuen Tarifs.",
+          "Gibt der Empfehlungslink auch bei der Verlängerung Rabatt? Nein. Die Verlängerung kostet den Standardpreis.",
+          "Lässt sich der Rabatt mit einem anderen Gutschein kombinieren? Nein. Die Seite sagt, dass andere Rabattgutscheine sich nicht mit dem Link kombinieren lassen.",
+          "Zählt eine Domain zum Rabatt? Die Bedingungen nennen Domains nicht unter den berechtigten Diensten. Prüfen Sie den Warenkorb vor der Zahlung.",
+          "Bekommen Bestandskunden den Rabatt? Die Regel der Seite schließt Verlängerungen und bereits abgeschlossene Käufe aus. Für die Verlängerung sehen Sie den Preis im Hostinger-Kundenbereich."
         ]
       },
       {
@@ -96256,11 +96256,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "**Hostinger ha un coupon?** Non serve. Lo sconto del 20% è già nel link di invito, sul primo periodo di un piano nuovo.",
-          "**Il link di invito dà uno sconto sul rinnovo?** No. Il rinnovo torna al prezzo standard, indicato sotto la scheda di ogni piano.",
-          "**Lo sconto si somma con un altro coupon?** No. La pagina dice che altri coupon di sconto non sono cumulabili con il link.",
-          "**Il dominio rientra nello sconto?** I termini non elencano il dominio tra i servizi idonei. Controlla nel carrello prima di pagare.",
-          "**Chi è già cliente ottiene lo sconto?** La regola della pagina esclude il rinnovo e gli acquisti già fatti. Per rinnovare, controlla il valore nel pannello di Hostinger."
+          "Hostinger ha un coupon? Non serve. Lo sconto del 20% è già nel link di invito, sul primo periodo di un piano nuovo.",
+          "Il link di invito dà uno sconto sul rinnovo? No. Il rinnovo torna al prezzo standard, indicato sotto la scheda di ogni piano.",
+          "Lo sconto si somma con un altro coupon? No. La pagina dice che altri coupon di sconto non sono cumulabili con il link.",
+          "Il dominio rientra nello sconto? I termini non elencano il dominio tra i servizi idonei. Controlla nel carrello prima di pagare.",
+          "Chi è già cliente ottiene lo sconto? La regola della pagina esclude il rinnovo e gli acquisti già fatti. Per rinnovare, controlla il valore nel pannello di Hostinger."
         ]
       },
       {
@@ -96428,11 +96428,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "**Hostinger에 쿠폰이 있나요?** 필요 없습니다. 20% 할인은 추천 링크에 이미 들어 있으며, 새 요금제의 첫 기간에 적용됩니다.",
-          "**추천 링크는 갱신에도 할인을 주나요?** 아니요. 갱신은 각 요금제 카드 아래에 표시된 표준 가격으로 돌아갑니다.",
-          "**할인이 다른 쿠폰과 중복되나요?** 아니요. 페이지에 따르면 다른 할인 쿠폰은 이 링크와 중복되지 않습니다.",
-          "**도메인도 할인 대상인가요?** 약관은 도메인을 대상 서비스로 나열하지 않습니다. 결제 전에 장바구니에서 확인하세요.",
-          "**이미 고객이면 할인을 받나요?** 페이지 규칙은 갱신과 이미 완료된 구매를 제외합니다. 갱신 금액은 Hostinger 패널에서 확인하세요."
+          "Hostinger에 쿠폰이 있나요? 필요 없습니다. 20% 할인은 추천 링크에 이미 들어 있으며, 새 요금제의 첫 기간에 적용됩니다.",
+          "추천 링크는 갱신에도 할인을 주나요? 아니요. 갱신은 각 요금제 카드 아래에 표시된 표준 가격으로 돌아갑니다.",
+          "할인이 다른 쿠폰과 중복되나요? 아니요. 페이지에 따르면 다른 할인 쿠폰은 이 링크와 중복되지 않습니다.",
+          "도메인도 할인 대상인가요? 약관은 도메인을 대상 서비스로 나열하지 않습니다. 결제 전에 장바구니에서 확인하세요.",
+          "이미 고객이면 할인을 받나요? 페이지 규칙은 갱신과 이미 완료된 구매를 제외합니다. 갱신 금액은 Hostinger 패널에서 확인하세요."
         ]
       },
       {
@@ -96600,11 +96600,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "**Hostingerにクーポンはありますか？** 必要ありません。20%割引は紹介リンクにすでに含まれ、新しいプランの最初の期間に適用されます。",
-          "**紹介リンクは更新にも割引がありますか？** いいえ。更新は各プランのカード下に表示された通常価格に戻ります。",
-          "**割引は他のクーポンと併用できますか？** いいえ。ページによると、他の割引クーポンはこのリンクと併用できません。",
-          "**ドメインも割引の対象ですか？** 規約では、ドメインは対象サービスとして挙げられていません。お支払い前にカートでご確認ください。",
-          "**すでにお客様なら割引を受けられますか？** ページのルールでは、更新とすでに完了した購入は対象外です。更新金額はHostingerのパネルでご確認ください。"
+          "Hostingerにクーポンはありますか？必要ありません。20%割引は紹介リンクにすでに含まれ、新しいプランの最初の期間に適用されます。",
+          "紹介リンクは更新にも割引がありますか？いいえ。更新は各プランのカード下に表示された通常価格に戻ります。",
+          "割引は他のクーポンと併用できますか？いいえ。ページによると、他の割引クーポンはこのリンクと併用できません。",
+          "ドメインも割引の対象ですか？規約では、ドメインは対象サービスとして挙げられていません。お支払い前にカートでご確認ください。",
+          "すでにお客様なら割引を受けられますか？ページのルールでは、更新とすでに完了した購入は対象外です。更新金額はHostingerのパネルでご確認ください。"
         ]
       },
       {
@@ -96771,11 +96771,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "**Hostinger 有優惠券嗎？** 不需要。20% 折扣已包含在推薦連結中，適用於新方案的首期。",
-          "**推薦連結對續訂有折扣嗎？** 沒有。續訂會回到該方案的標準價格。",
-          "**折扣可以與其他優惠券疊加嗎？** 不可以。頁面說明，其他折扣優惠券不能與此連結累加。",
-          "**網域也算在折扣內嗎？** 條款沒有把網域列為合資格服務。付款前請在購物車確認。",
-          "**已是客戶可以享有折扣嗎？** 頁面規則排除續訂和已完成的購買。續訂金額請在 Hostinger 控制台查看。"
+          "Hostinger 有優惠券嗎？不需要。20% 折扣已包含在推薦連結中，適用於新方案的首期。",
+          "推薦連結對續訂有折扣嗎？沒有。續訂會回到該方案的標準價格。",
+          "折扣可以與其他優惠券疊加嗎？不可以。頁面說明，其他折扣優惠券不能與此連結累加。",
+          "網域也算在折扣內嗎？條款沒有把網域列為合資格服務。付款前請在購物車確認。",
+          "已是客戶可以享有折扣嗎？頁面規則排除續訂和已完成的購買。續訂金額請在 Hostinger 控制台查看。"
         ]
       },
       {
@@ -96942,11 +96942,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "**Hostinger 有优惠券吗？** 不需要。20% 折扣已包含在推荐链接中，适用于新套餐的首期。",
-          "**推荐链接对续费有折扣吗？** 没有。续费会回到该套餐的标准价格。",
-          "**折扣可以与其他优惠券叠加吗？** 不可以。页面说明，其他折扣优惠券不能与此链接叠加。",
-          "**域名也算在折扣内吗？** 条款没有把域名列为合格服务。付款前请在购物车确认。",
-          "**已是客户可以享受折扣吗？** 页面规则排除续费和已完成的购买。续费金额请在 Hostinger 面板查看。"
+          "Hostinger 有优惠券吗？不需要。20% 折扣已包含在推荐链接中，适用于新套餐的首期。",
+          "推荐链接对续费有折扣吗？没有。续费会回到该套餐的标准价格。",
+          "折扣可以与其他优惠券叠加吗？不可以。页面说明，其他折扣优惠券不能与此链接叠加。",
+          "域名也算在折扣内吗？条款没有把域名列为合格服务。付款前请在购物车确认。",
+          "已是客户可以享受折扣吗？页面规则排除续费和已完成的购买。续费金额请在 Hostinger 面板查看。"
         ]
       },
       {
@@ -97132,11 +97132,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "**A Black Friday da Hostinger precisa de cupom?** Não, para as principais ofertas: os descontos entram sozinhos. A Hostinger diz que alguns canais têm promoções com código próprio, e não citamos nenhum aqui.",
-          "**Até quando vai a Black Friday da Hostinger?** Até 14 de dezembro de 2026, segundo a FAQ oficial lida em 19/10/2026.",
-          "**O preço da Black Friday continua na renovação?** Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
-          "**O link de indicação é mais barato que a campanha?** Em 19/10/2026, nos planos de 48 meses que conferimos, sim. Como o preço muda, compare antes de pagar.",
-          "**A garantia de reembolso vale na Black Friday?** A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+          "A Black Friday da Hostinger precisa de cupom? Não, para as principais ofertas: os descontos entram sozinhos. A Hostinger diz que alguns canais têm promoções com código próprio, e não citamos nenhum aqui.",
+          "Até quando vai a Black Friday da Hostinger? Até 14 de dezembro de 2026, segundo a FAQ oficial lida em 19/10/2026.",
+          "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
+          "O link de indicação é mais barato que a campanha? Em 19/10/2026, nos planos de 48 meses que conferimos, sim. Como o preço muda, compare antes de pagar.",
+          "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
         ]
       },
       {
@@ -97280,11 +97280,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "**Does Hostinger's Black Friday need a coupon?** No, for the main offers. The discounts apply on their own. Hostinger says some channels run promotions with their own codes, and we don't mention any here.",
-          "**How long does Hostinger's Black Friday run?** Until December 14, 2026, according to the official FAQ read on October 19, 2026.",
-          "**Does the Black Friday price continue at renewal?** No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
-          "**Is the referral link cheaper than the campaign?** It depends on the plan and the period, and prices change. Compare the first-period total with and without the link before you pay.",
-          "**Does the refund guarantee apply during Black Friday?** The FAQ says eligible plans have a 30-day guarantee, subject to terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+          "Does Hostinger's Black Friday need a coupon? No, for the main offers. The discounts apply on their own. Hostinger says some channels run promotions with their own codes, and we don't mention any here.",
+          "How long does Hostinger's Black Friday run? Until December 14, 2026, according to the official FAQ read on October 19, 2026.",
+          "Does the Black Friday price continue at renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
+          "Is the referral link cheaper than the campaign? It depends on the plan and the period, and prices change. Compare the first-period total with and without the link before you pay.",
+          "Does the refund guarantee apply during Black Friday? The FAQ says eligible plans have a 30-day guarantee, subject to terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
@@ -97428,11 +97428,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "**¿El Black Friday de Hostinger necesita cupón?** No, para las principales ofertas: los descuentos se aplican solos. Hostinger dice que algunos canales tienen promociones con código propio, y aquí no citamos ninguno.",
-          "**¿Hasta cuándo dura el Black Friday de Hostinger?** Hasta el 14 de diciembre de 2026, según la FAQ oficial leída el 19 de octubre de 2026.",
-          "**¿El precio del Black Friday sigue en la renovación?** No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
-          "**¿El enlace de referido es más barato que la campaña?** Depende del plan y del período, y los precios cambian. Compara el total del primer período con y sin el enlace antes de pagar.",
-          "**¿La garantía de reembolso vale durante el Black Friday?** La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
+          "¿El Black Friday de Hostinger necesita cupón? No, para las principales ofertas: los descuentos se aplican solos. Hostinger dice que algunos canales tienen promociones con código propio, y aquí no citamos ninguno.",
+          "¿Hasta cuándo dura el Black Friday de Hostinger? Hasta el 14 de diciembre de 2026, según la FAQ oficial leída el 19 de octubre de 2026.",
+          "¿El precio del Black Friday sigue en la renovación? No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
+          "¿El enlace de referido es más barato que la campaña? Depende del plan y del período, y los precios cambian. Compara el total del primer período con y sin el enlace antes de pagar.",
+          "¿La garantía de reembolso vale durante el Black Friday? La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
         ]
       },
       {
@@ -97576,11 +97576,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "**Le Black Friday de Hostinger demande-t-il un coupon ?** Non, pour les principales offres : les réductions s'appliquent d'elles-mêmes. Hostinger indique que certains canaux ont des promotions avec leur propre code, et nous n'en citons aucun ici.",
-          "**Jusqu'à quand dure le Black Friday de Hostinger ?** Jusqu'au 14 décembre 2026, selon la FAQ officielle consultée le 19 octobre 2026.",
-          "**Le prix du Black Friday reste-t-il au renouvellement ?** Non. Il vaut pour la période initiale de l'abonnement. Le renouvellement se fait au prix normal de la formule.",
-          "**Le lien de parrainage est-il moins cher que la campagne ?** Cela dépend de la formule et de la période, et les prix changent. Comparez le total de la première période avec et sans le lien avant de payer.",
-          "**La garantie de remboursement s'applique-t-elle pendant le Black Friday ?** La FAQ indique que les formules éligibles ont une garantie de 30 jours, avec conditions et exclusions. Ce qui est exclu se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+          "Le Black Friday de Hostinger demande-t-il un coupon ? Non, pour les principales offres : les réductions s'appliquent d'elles-mêmes. Hostinger indique que certains canaux ont des promotions avec leur propre code, et nous n'en citons aucun ici.",
+          "Jusqu'à quand dure le Black Friday de Hostinger ? Jusqu'au 14 décembre 2026, selon la FAQ officielle consultée le 19 octobre 2026.",
+          "Le prix du Black Friday reste-t-il au renouvellement ? Non. Il vaut pour la période initiale de l'abonnement. Le renouvellement se fait au prix normal de la formule.",
+          "Le lien de parrainage est-il moins cher que la campagne ? Cela dépend de la formule et de la période, et les prix changent. Comparez le total de la première période avec et sans le lien avant de payer.",
+          "La garantie de remboursement s'applique-t-elle pendant le Black Friday ? La FAQ indique que les formules éligibles ont une garantie de 30 jours, avec conditions et exclusions. Ce qui est exclu se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
       {
@@ -97724,11 +97724,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "**Braucht das Hostinger-Black-Friday einen Gutschein?** Nein, für die wichtigsten Angebote: Die Rabatte gelten automatisch. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben. Wir nennen hier keinen.",
-          "**Wie lange läuft das Hostinger-Black-Friday?** Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 19. Oktober 2026.",
-          "**Gilt der Aktionspreis auch bei der Verlängerung?** Nein. Er gilt für die erste Laufzeit des Abos. Die Verlängerung wird zum regulären Tarifpreis berechnet.",
-          "**Ist der Empfehlungslink günstiger als die Aktion?** Das hängt von Tarif und Laufzeit ab, und die Preise ändern sich. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
-          "**Gilt die Erstattungsgarantie auch während des Black Friday?** Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+          "Braucht das Hostinger-Black-Friday einen Gutschein? Nein, für die wichtigsten Angebote: Die Rabatte gelten automatisch. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben. Wir nennen hier keinen.",
+          "Wie lange läuft das Hostinger-Black-Friday? Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 19. Oktober 2026.",
+          "Gilt der Aktionspreis auch bei der Verlängerung? Nein. Er gilt für die erste Laufzeit des Abos. Die Verlängerung wird zum regulären Tarifpreis berechnet.",
+          "Ist der Empfehlungslink günstiger als die Aktion? Das hängt von Tarif und Laufzeit ab, und die Preise ändern sich. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
+          "Gilt die Erstattungsgarantie auch während des Black Friday? Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
         ]
       },
       {
@@ -97870,11 +97870,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "**Il Black Friday di Hostinger richiede un codice?** No, per le offerte principali: gli sconti si applicano da soli. Hostinger dice che alcuni canali hanno promozioni con un codice dedicato, e qui non ne citiamo nessuno.",
-          "**Fino a quando dura il Black Friday di Hostinger?** Fino al 14 dicembre 2026, secondo la FAQ ufficiale consultata il 19/10/2026.",
-          "**Il prezzo del Black Friday resta al rinnovo?** No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
-          "**Il link di invito costa meno della campagna?** Sì: il link applica il 20% sul prezzo della campagna nel primo periodo. Poiché i prezzi cambiano, confrontali prima di pagare.",
-          "**La garanzia di rimborso vale durante il Black Friday?** La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+          "Il Black Friday di Hostinger richiede un codice? No, per le offerte principali: gli sconti si applicano da soli. Hostinger dice che alcuni canali hanno promozioni con un codice dedicato, e qui non ne citiamo nessuno.",
+          "Fino a quando dura il Black Friday di Hostinger? Fino al 14 dicembre 2026, secondo la FAQ ufficiale consultata il 19/10/2026.",
+          "Il prezzo del Black Friday resta al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
+          "Il link di invito costa meno della campagna? Sì: il link applica il 20% sul prezzo della campagna nel primo periodo. Poiché i prezzi cambiano, confrontali prima di pagare.",
+          "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
         ]
       },
       {
@@ -98016,11 +98016,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "**Hostinger 블랙프라이데이에 코드가 필요한가요?** 주요 혜택은 필요 없습니다. 할인은 자동으로 적용됩니다. Hostinger는 일부 채널에 별도 코드 프로모션이 있다고 하지만, 여기서는 어떤 코드도 언급하지 않습니다.",
-          "**Hostinger 블랙프라이데이는 언제까지인가요?** 2026년 12월 14일까지입니다. 2026년 10월 19일에 확인한 Hostinger 공식 FAQ 기준입니다.",
-          "**블랙프라이데이 가격은 갱신에도 적용되나요?** 아니요. 구독의 첫 기간에만 적용됩니다. 갱신은 해당 플랜의 일반 가격입니다.",
-          "**추천 링크가 캠페인 가격보다 저렴한가요?** 네. 추천 링크는 첫 기간에 캠페인 가격에서 20%를 할인합니다. 가격이 바뀔 수 있으니 결제 전에 비교하세요.",
-          "**블랙프라이데이에도 환불 보증이 적용되나요?** FAQ에 따르면 해당 플랜은 30일 보증이 있으며, 조건과 제외 항목이 있습니다. 제외 항목은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
+          "Hostinger 블랙프라이데이에 코드가 필요한가요? 주요 혜택은 필요 없습니다. 할인은 자동으로 적용됩니다. Hostinger는 일부 채널에 별도 코드 프로모션이 있다고 하지만, 여기서는 어떤 코드도 언급하지 않습니다.",
+          "Hostinger 블랙프라이데이는 언제까지인가요? 2026년 12월 14일까지입니다. 2026년 10월 19일에 확인한 Hostinger 공식 FAQ 기준입니다.",
+          "블랙프라이데이 가격은 갱신에도 적용되나요? 아니요. 구독의 첫 기간에만 적용됩니다. 갱신은 해당 플랜의 일반 가격입니다.",
+          "추천 링크가 캠페인 가격보다 저렴한가요? 네. 추천 링크는 첫 기간에 캠페인 가격에서 20%를 할인합니다. 가격이 바뀔 수 있으니 결제 전에 비교하세요.",
+          "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 해당 플랜은 30일 보증이 있으며, 조건과 제외 항목이 있습니다. 제외 항목은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
         ]
       },
       {
@@ -98162,11 +98162,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "**Hostingerのブラックフライデーにはコードが必要ですか？** 主要なオファーには必要ありません。割引は自動で適用されます。Hostingerは一部のチャネルで専用コードのプロモーションがあるとしていますが、この記事ではコードは取り上げていません。",
-          "**Hostingerのブラックフライデーはいつまでですか？** 2026年12月14日までです。2026年10月19日に確認した公式FAQによります。",
-          "**ブラックフライデーの価格は更新時も続きますか？** いいえ。契約の最初の期間にだけ適用されます。更新はそのプランの通常料金です。",
-          "**紹介リンクはキャンペーンより安いですか？** 紹介リンクは、キャンペーン価格から20％割り引く仕組みです。価格は変わるため、支払う前に最初の期間の合計を比べてください。",
-          "**ブラックフライデーでも返金保証はありますか？** FAQによると、対象プランには30日間の保証があり、条件と除外事項があります。除外事項は[Hostingerは信頼できますか？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
+          "Hostingerのブラックフライデーにはコードが必要ですか？主要なオファーには必要ありません。割引は自動で適用されます。Hostingerは一部のチャネルで専用コードのプロモーションがあるとしていますが、この記事ではコードは取り上げていません。",
+          "Hostingerのブラックフライデーはいつまでですか？2026年12月14日までです。2026年10月19日に確認した公式FAQによります。",
+          "ブラックフライデーの価格は更新時も続きますか？いいえ。契約の最初の期間にだけ適用されます。更新はそのプランの通常料金です。",
+          "紹介リンクはキャンペーンより安いですか？紹介リンクは、キャンペーン価格から20％割り引く仕組みです。価格は変わるため、支払う前に最初の期間の合計を比べてください。",
+          "ブラックフライデーでも返金保証はありますか？FAQによると、対象プランには30日間の保証があり、条件と除外事項があります。除外事項は[Hostingerは信頼できますか？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
         ]
       },
       {
@@ -98308,11 +98308,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "**Hostinger 黑色星期五需要代碼嗎？** 主要優惠不需要，折扣會自動套用。Hostinger 表示部分管道會有自己的代碼促銷，本文不列出任何代碼。",
-          "**Hostinger 黑色星期五活動到什麼時候？** 到 2026 年 12 月 14 日，依據 2026 年 10 月 19 日查看的官方 FAQ。",
-          "**黑色星期五價格會延續到續訂嗎？** 不會。它只適用於訂閱的首個期間，續訂收取該方案的一般價格。",
-          "**推薦連結比活動價便宜嗎？** 是的。推薦連結在首個期間會在活動價上再減 20%。價格會變動，付款前請比較。",
-          "**黑色星期五期間仍有退款保證嗎？** 依據 FAQ，符合條件的方案有 30 天保證，但有條款與例外。例外項目見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "Hostinger 黑色星期五需要代碼嗎？主要優惠不需要，折扣會自動套用。Hostinger 表示部分管道會有自己的代碼促銷，本文不列出任何代碼。",
+          "Hostinger 黑色星期五活動到什麼時候？到 2026 年 12 月 14 日，依據 2026 年 10 月 19 日查看的官方 FAQ。",
+          "黑色星期五價格會延續到續訂嗎？不會。它只適用於訂閱的首個期間，續訂收取該方案的一般價格。",
+          "推薦連結比活動價便宜嗎？是的。推薦連結在首個期間會在活動價上再減 20%。價格會變動，付款前請比較。",
+          "黑色星期五期間仍有退款保證嗎？依據 FAQ，符合條件的方案有 30 天保證，但有條款與例外。例外項目見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
@@ -98454,11 +98454,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "**Hostinger 黑色星期五需要代码吗？** 主要优惠不需要，折扣会自动套用。Hostinger 表示部分渠道会有自己的代码促销，本文不列出任何代码。",
-          "**Hostinger 黑色星期五活动到什么时候？** 到 2026 年 12 月 14 日，依据 2026 年 10 月 19 日查看的官方 FAQ。",
-          "**黑色星期五价格会延续到续费吗？** 不会。它只适用于订阅的首个周期，续费收取该套餐的一般价格。",
-          "**推荐链接比活动价便宜吗？** 是的。推荐链接在首个周期会在活动价上再减 20%。价格会变动，付款前请比较。",
-          "**黑色星期五期间仍有退款保障吗？** 依据 FAQ，符合条件的套餐有 30 天保障，但有条款与例外。例外项目见 [Hostinger 可靠吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "Hostinger 黑色星期五需要代码吗？主要优惠不需要，折扣会自动套用。Hostinger 表示部分渠道会有自己的代码促销，本文不列出任何代码。",
+          "Hostinger 黑色星期五活动到什么时候？到 2026 年 12 月 14 日，依据 2026 年 10 月 19 日查看的官方 FAQ。",
+          "黑色星期五价格会延续到续费吗？不会。它只适用于订阅的首个周期，续费收取该套餐的一般价格。",
+          "推荐链接比活动价便宜吗？是的。推荐链接在首个周期会在活动价上再减 20%。价格会变动，付款前请比较。",
+          "黑色星期五期间仍有退款保障吗？依据 FAQ，符合条件的套餐有 30 天保障，但有条款与例外。例外项目见 [Hostinger 可靠吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
         ]
       },
       {
