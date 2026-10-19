@@ -27,14 +27,13 @@ Todo parceiro novo começa com três artigos: "Loja X é confiável?", "Loja X n
 
 ## Série 1 a 1 contra a Growth (Bruno, 18/10/2026)
 
-Comparativos de cada parceira de suplemento com a Growth, a referência de preço (não parceira: sem link de afiliado nem cupom). O autocompletar de 18/10/2026 traz "<marca> ou growth" com "qual o melhor", "whey" e "creatina" para as quatro. Depois da série vem a pauta 7 acima (cafeteira para escritório).
+Comparativos de cada parceira de suplemento com a Growth, a referência de preço (não parceira: sem link de afiliado nem cupom). O autocompletar de 18/10/2026 traz "<marca> ou growth" com "qual o melhor", "whey" e "creatina" para as três. **Depois da série, a Dux substitui a Growth como base de comparação** (Bruno, 18/10/2026): Black Skull, Max Titanium e Probiótica contra a Dux; não há "Dux ou Growth". Depois da série vem a pauta 7 acima (cafeteira para escritório).
 
 | Ordem | Pauta | Situação |
 |---|---|---|
 | 1 | Black Skull ou Growth (a parceira que menos vende) | **Briefing criado em 18/10/2026:** [[black-skull-ou-growth]] |
-| 2 | Max Titanium ou Growth | Sem briefing; o autocompletar também traz "hipercalórico" e "whey 3W" |
+| 2 | Max Titanium ou Growth | **Briefing criado em 18/10/2026:** [[max-titanium-ou-growth]] (whey, 3W, isolado, creatina e hipercalórico) |
 | 3 | Probiótica ou Growth | Sem briefing |
-| 4 | Dux ou Growth | Depois; a Dux ainda não está no `couponsData.ts` |
 
 ## Temas para depois (não prioritários)
 

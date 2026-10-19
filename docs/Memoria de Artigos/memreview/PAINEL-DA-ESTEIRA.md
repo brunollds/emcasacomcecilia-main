@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[max-titanium-ou-growth]] — Max Titanium, série 1 a 1 contra a Growth de 18/10 (Score Aut: 74 / Conv: 62)
 
 ---
 
