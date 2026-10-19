@@ -278,7 +278,7 @@ As perguntas acima foram respondidas em 18/10/2026 (Bruno aceitou as recomendaç
 - **Whey isolado:** seção curta, IsoWhey 900 g da Max contra o (TOP) Whey Protein Isolado 1 kg da Growth (busca "whey isolado growth ou max titanium"). A tabela e o preço Pix do IsoWhey são lidos no Job 2 (a busca da loja mostrou R$ 326,18 no cartão em 18/10).
 - **Cupom:** "até 10%" (teste de 14/10 deu 8,9%): a conta com cupom é o teto e o texto diz isso.
 - **Growth:** só referência de preço, sem link de afiliado nem cupom. O texto diz onde a Growth ganha (whey concentrado e creatina) e onde a Max ganha (hipercalórico).
-- **Erros em artigos publicados (fora desta pauta, PR de artigo separado):** `max-titanium-ou-probiotica` mistura a proteína do Refil com o preço do Double Tasty; `nutren-creatina-e-boa-comparativo-growth-ftw-cimed` cita a creatina Growth 250 g a R$ 49,90 (hoje R$ 44,90 no Pix).
+- **Erros em artigos publicados (fora desta pauta, PR de artigo separado):** `max-titanium-ou-probiotica` mistura a proteína do Refil com o preço do Double Tasty; `nutren-creatina-e-boa-comparativo-growth-ftw-cimed` citava a creatina Growth 250 g a R$ 49,90 (corrigido no PR #151).
 
 ### Conferência do Claude na Growth pelo navegador (Chrome, 18/10/2026, sem login nem carrinho)
 

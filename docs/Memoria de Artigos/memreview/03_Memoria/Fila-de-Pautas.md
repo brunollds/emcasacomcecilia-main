@@ -31,7 +31,7 @@ Comparativos de cada parceira de suplemento com a Growth, a referência de preç
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| 1 | Black Skull ou Growth (a parceira que menos vende) | **Briefing criado em 18/10/2026:** [[black-skull-ou-growth]] |
+| 1 | Black Skull ou Growth (a parceira que menos vende) | **Briefing criado em 18/10/2026:** [[black-skull-ou-growth]]; **no ar em 18/10/2026** (PR #151) |
 | 2 | Max Titanium ou Growth | **Briefing criado em 18/10/2026:** [[max-titanium-ou-growth]] (whey, 3W, isolado, creatina e hipercalórico) |
 | 3 | Probiótica ou Growth | Sem briefing |
 
