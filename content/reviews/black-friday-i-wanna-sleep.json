@@ -60,6 +60,12 @@
       "paragraphs": [
         "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
       ],
+      "image": {
+        "src": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+        "alt": "Foto oficial da I Wanna Sleep: mulher afofando o Pillow Top Magnum sobre o colchão, com o elástico lateral à mostra",
+        "caption": "O Pillow Top Magnum vai por cima do colchão. Foto oficial da I Wanna Sleep.",
+        "objectFit": "square"
+      },
       "comparisonTable": {
         "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
         "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
@@ -87,6 +93,12 @@
       "paragraphs": [
         "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%."
       ],
+      "image": {
+        "src": "/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
+        "alt": "Grade com fotos oficiais das 4 linhas de cobertores I Wanna Sleep: Igloo, Huggy, Puffer Ultralight e Cozy",
+        "caption": "As quatro linhas de cobertores: Igloo, Huggy, Puffer Ultralight e Cozy. Fotos oficiais da I Wanna Sleep.",
+        "objectFit": "square"
+      },
       "comparisonTable": {
         "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
         "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
@@ -127,7 +139,14 @@
       "paragraphs": [
         "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
         "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+        "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
+        "caption": "Uma das lojas físicas da I Wanna Sleep, onde ficam os colchões e a base box.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
     },
     {
       "heading": "Pix, parcelamento e cupom: o que soma",

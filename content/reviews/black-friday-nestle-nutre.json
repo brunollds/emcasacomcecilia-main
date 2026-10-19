@@ -60,6 +60,13 @@
         "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos.",
         "Na página de cada produto aparecem até três preços: o riscado, o da compra única e o da assinatura."
       ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
+        "alt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
+        "caption": "A linha Nutren Senior na loja: latas de 740 g e 370 g e versões prontas para beber.",
+        "objectFit": "contain",
+        "aspectRatio": 3.84
+      },
       "comparisonTable": {
         "caption": "Nutren Senior na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
         "headers": ["Produto", "Preço riscado", "Compra única", "Assinatura"],
@@ -91,6 +98,20 @@
       "heading": "Just Protein, Creatina, FiberMais e outros: preços de outubro",
       "paragraphs": [
         "Nos outros produtos para adultos, o preço riscado aparecia no Just Protein, no Nutren Control e no Nutren Active. A Creatina e o FiberMais estavam pelo preço cheio, com desconto só na assinatura."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+          "alt": "Frente da lata de 280g do Nutren Just Protein: 100% whey protein isolado, sem sabor e sem glúten",
+          "caption": "Frente da lata de 280 g do Nutren Just Protein, um dos produtos com preço riscado em outubro.",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+          "alt": "Foto oficial da lata de FiberMais Sem Sabor de 260 g da Nestlé Health Science",
+          "caption": "Lata do FiberMais Sem Sabor de 260 g, vendido pelo preço cheio em outubro, com desconto só na assinatura. Foto de divulgação da Nestlé.",
+          "objectFit": "square"
+        }
       ],
       "comparisonTable": {
         "caption": "Outros produtos para adultos na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",

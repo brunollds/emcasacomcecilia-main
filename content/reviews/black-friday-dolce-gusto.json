@@ -70,6 +70,13 @@
       "paragraphs": [
         "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+        "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
+        "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO. Os preços da tabela são das duas linhas.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preços do site oficial em 8 de outubro de 2026 e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
         "headers": ["Produto", "Preço cheio no site", "Em 8/10/2026", "Black Friday 2024"],
@@ -96,6 +103,13 @@
         "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. Em 8 de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
         "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: entre 28 de setembro e 8 de outubro de 2026, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+        "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
+        "caption": "As máquinas da linha Dolce Gusto em fotos oficiais da loja.",
+        "objectFit": "contain",
+        "aspectRatio": 2.6
+      },
       "links": [
         {
           "label": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis",

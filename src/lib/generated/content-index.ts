@@ -53372,6 +53372,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
+          "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO. Os preços da tabela são das duas linhas.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preços do site oficial em 8 de outubro de 2026 e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
           "headers": [
@@ -53438,6 +53445,13 @@ export const reviewsData: unknown[] = [
           "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. Em 8 de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
           "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: entre 28 de setembro e 8 de outubro de 2026, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+          "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
+          "caption": "As máquinas da linha Dolce Gusto em fotos oficiais da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 2.6
+        },
         "links": [
           {
             "label": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis",
@@ -53861,6 +53875,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em 8 de outubro de 2026, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
         ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+          "alt": "Panela Redonda Signature da Le Creuset na cor Cotton, de lado e vista de cima, em fotos de produto da Let's Eat It",
+          "caption": "A Redonda Signature na cor Cotton, uma das panelas da tabela. Fotos de produto da Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
@@ -53927,6 +53948,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na Porto Brasil, o desconto já estava no catálogo inteiro em outubro: das 174 peças da marca na loja, 150 apareciam com 40% OFF e 21 com 60%. Por isso, um \"até 60% OFF\" em novembro só é vantagem se o preço do dia ficar abaixo do de outubro."
         ],
+        "image": {
+          "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+          "alt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
+          "caption": "Aparelho de jantar Porto Brasil Stoneware Bio Latte. Fotos de produto da Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Porto Brasil na Let's Eat It em 8 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
@@ -54035,6 +54063,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Cuidados com louça, cristal e panela na Black Friday",
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+          "alt": "Três passos desenhados: água fria na panela quente no fogo, riscado; panela com água morna e o relógio de 15 a 20 minutos; palha de aço, riscada",
+          "caption": "Panela queimada: nada de água fria na panela quente, água morna por 15 a 20 minutos e nada de palha de aço.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
           "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
@@ -54149,6 +54184,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
         ],
+        "image": {
+          "src": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+          "alt": "Foto oficial da I Wanna Sleep: mulher afofando o Pillow Top Magnum sobre o colchão, com o elástico lateral à mostra",
+          "caption": "O Pillow Top Magnum vai por cima do colchão. Foto oficial da I Wanna Sleep.",
+          "objectFit": "square"
+        },
         "comparisonTable": {
           "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
@@ -54204,6 +54245,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%."
         ],
+        "image": {
+          "src": "/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp",
+          "alt": "Grade com fotos oficiais das 4 linhas de cobertores I Wanna Sleep: Igloo, Huggy, Puffer Ultralight e Cozy",
+          "caption": "As quatro linhas de cobertores: Igloo, Huggy, Puffer Ultralight e Cozy. Fotos oficiais da I Wanna Sleep.",
+          "objectFit": "square"
+        },
         "comparisonTable": {
           "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
@@ -54292,7 +54339,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
           "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+          "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
+          "caption": "Uma das lojas físicas da I Wanna Sleep, onde ficam os colchões e a base box.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
       },
       {
         "heading": "Pix, parcelamento e cupom: o que soma",
@@ -54486,6 +54540,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, nas versões masculina, feminina e gola V."
         ],
+        "image": {
+          "src": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+          "alt": "Homem usando a Tech T-Shirt preta da Insider, em foto oficial da marca",
+          "caption": "A Tech T-Shirt preta. Foto oficial da Insider.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Camisetas e kits na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
           "headers": [
@@ -54541,6 +54602,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No underwear, os kits saíam mais baratos por peça que as avulsas em outubro."
         ],
+        "image": {
+          "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+          "alt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
+          "caption": "Kit de cuecas Boxer Comfort. Foto oficial da Insider.",
+          "objectFit": "square"
+        },
         "comparisonTable": {
           "caption": "Underwear na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
           "headers": [
@@ -54609,6 +54676,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Trocas e presente de Natal",
+        "image": {
+          "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+          "alt": "Três cartões com os prazos da Insider: 7 para desistir da compra, 21 para trocar por insatisfação e 180 para defeito",
+          "caption": "Na compra online: 7 dias úteis para desistir, 21 dias corridos para trocar ou devolver por insatisfação e 180 dias para defeito de fabricação.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Arrependimento:** até 7 dias úteis depois do recebimento, com a peça sem uso e com a etiqueta.",
           "**Insatisfação (tamanho, cor ou modelo):** até 21 dias corridos depois do recebimento, com a peça sem uso, com a etiqueta e sem sinal de lavagem.",
@@ -54806,6 +54880,13 @@ export const reviewsData: unknown[] = [
           "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos.",
           "Na página de cada produto aparecem até três preços: o riscado, o da compra única e o da assinatura."
         ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
+          "alt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
+          "caption": "A linha Nutren Senior na loja: latas de 740 g e 370 g e versões prontas para beber.",
+          "objectFit": "contain",
+          "aspectRatio": 3.84
+        },
         "comparisonTable": {
           "caption": "Nutren Senior na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
           "headers": [
@@ -54872,6 +54953,20 @@ export const reviewsData: unknown[] = [
         "heading": "Just Protein, Creatina, FiberMais e outros: preços de outubro",
         "paragraphs": [
           "Nos outros produtos para adultos, o preço riscado aparecia no Just Protein, no Nutren Control e no Nutren Active. A Creatina e o FiberMais estavam pelo preço cheio, com desconto só na assinatura."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+            "alt": "Frente da lata de 280g do Nutren Just Protein: 100% whey protein isolado, sem sabor e sem glúten",
+            "caption": "Frente da lata de 280 g do Nutren Just Protein, um dos produtos com preço riscado em outubro.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+            "alt": "Foto oficial da lata de FiberMais Sem Sabor de 260 g da Nestlé Health Science",
+            "caption": "Lata do FiberMais Sem Sabor de 260 g, vendido pelo preço cheio em outubro, com desconto só na assinatura. Foto de divulgação da Nestlé.",
+            "objectFit": "square"
+          }
         ],
         "comparisonTable": {
           "caption": "Outros produtos para adultos na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
