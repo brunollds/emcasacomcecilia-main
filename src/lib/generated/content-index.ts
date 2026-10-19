@@ -43144,7 +43144,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
         "paragraphs": [
-          "Os valores abaixo foram consultados em páginas oficiais em 27 de agosto de 2026. Em vez de misturar embalagens e promoções de marketplace, colocamos as quatro marcas na mesma tabela e normalizamos o preço por 100 g quando havia oferta oficial ativa.",
+          "Os valores abaixo foram consultados em páginas oficiais: Nutren, FTW e Lavitan em 27 de agosto de 2026, e Growth em 18 de outubro de 2026. Em vez de misturar embalagens e promoções de marketplace, colocamos as quatro marcas na mesma tabela e normalizamos o preço por 100 g quando havia oferta oficial ativa.",
           "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
         ],
         "comparisonTable": {
@@ -43188,14 +43188,14 @@ export const reviewsData: unknown[] = [
             [
               "Preço oficial consultado",
               "R$ 56,91 com o CECI de 5% vigente em 27/08/2026, sobre R$ 59,90",
-              "R$ 49,90 no Pix ou boleto; R$ 55,44 no cartão",
+              "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão (consulta de 18/10/2026)",
               "R$ 59,90; R$ 56,91 à vista",
               "Sem preço; produto esgotado"
             ],
             [
               "Custo por 100 g",
               "R$ 18,97 com o CECI de 5% vigente em 27/08/2026",
-              "R$ 19,96 no Pix/boleto; R$ 22,18 no cartão",
+              "R$ 17,96 no Pix/boleto; R$ 19,95 no cartão",
               "R$ 19,97 no preço cheio; R$ 18,97 à vista",
               "Não calculado"
             ]
@@ -43223,8 +43223,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
-          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI de 5% vigente em 27/08/2026, Nutren e FTW empatavam em R$ 18,97 por 100 g nas condições à vista observadas; com o CECI atual de 10%, a Nutren ficaria em R$ 17,97 se o preço de R$ 59,90 se mantiver; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
-          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 19,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI de 5% vigente em 27/08/2026, Nutren e FTW empatavam em R$ 18,97 por 100 g nas condições à vista observadas; com o CECI atual de 10%, a Nutren ficaria em R$ 17,97 se o preço de R$ 59,90 se mantiver; a Growth, com preço de 18/10/2026, fica em R$ 17,96 por 100 g no Pix; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 17,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
         "bullets": []
@@ -43279,7 +43279,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com o CECI de 5% da época e FTW à vista empataram em R$ 18,97 por 100 g. Com o CECI atual de 10% sobre o mesmo preço, a Nutren ficaria em R$ 17,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com o CECI de 5% da época e FTW à vista empataram em R$ 18,97 por 100 g. Com o CECI atual de 10% sobre o mesmo preço, a Nutren ficaria em R$ 17,97 por 100 g. Com o preço de 18/10/2026, a Growth no Pix ou boleto ficou em R$ 17,96 por 100 g, praticamente empatada com a Nutren com o CECI de 10%. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -43295,7 +43295,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais consultadas em 27/08/2026 e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
+    "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais das marcas e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-just-protein-para-que-serve",
@@ -88561,6 +88561,322 @@ export const reviewsData: unknown[] = [
       {
         "slug": "bolinho-sem-acucar-belive-ou-suavipan",
         "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "slug": "black-skull-ou-growth",
+    "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Black Skull ou Growth: qual whey e qual creatina compensam",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Black Skull ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, com e sem o cupom CECILIA10.",
+    "metaDescription": "Black Skull ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom CECILIA10 e frete das duas lojas.",
+    "publishedAt": "18 de outubro de 2026",
+    "publishedAtISO": "2026-10-18",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+    "imageAlt": "Quadro com o preço por 100 g em 18/10/2026: whey Black Skull 80% HD R$ 23,17, 100% HD R$ 26,66 e Growth Concentrado R$ 26,34 no Pix; creatina Black Skull Creator refil R$ 7,98, Creator 300 g R$ 9,97 e Growth refil R$ 14,98 no Pix",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "**Whey:** sem cupom, o Whey 100% HD da Black Skull e o Whey Concentrado da Growth no Pix praticamente empatam: **R$ 26,66 e R$ 26,34 por 100 g de proteína**. Com o CECILIA10, a Black Skull cai para R$ 23,99. O Whey 80% HD da Black Skull, que tem a mesma dose do whey da Growth, sai a R$ 23,17 sem cupom.",
+          "**Creatina:** a Black Skull sai mais barata por grama em todas as embalagens. O Creator refil de 500 g custa **R$ 7,98 por 100 g** de creatina, contra R$ 14,98 do refil de 500 g da Growth no Pix.",
+          "**Cupom:** o **CECILIA10** dá 10% em todo o site da Black Skull, em todas as formas de pagamento, e soma com as promoções. A Growth não tem cupom nosso. Na Growth, o Pix sai cerca de 10% mais barato que o cartão; na Black Skull, o preço é o mesmo no Pix, no boleto e no cartão."
+        ],
+        "postParagraphs": [
+          "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes.",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por dose:** preço ÷ porções do rótulo;",
+          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
+          "**preço por 100 g de creatina:** preço ÷ (doses × 5 g) × 100."
+        ],
+        "postParagraphs": [
+          "O preço por 100 g de proteína é a régua que iguala os potes. A dose muda de uma marca para a outra: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o whey da Growth dá 23 g em 30 g. Pelo preço do pote ou da dose, a comparação engana.",
+          "Ficaram de fora sabor, dissolução e digestão: não provamos nenhum produto. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Preços de 18/10/2026, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Ingredientes de proteína",
+            "Proteína por porção",
+            "Porções",
+            "Preço",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 100% HD 1,8 kg",
+              "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
+              "21 g em 35 g",
+              "50",
+              "R$ 279,90",
+              "R$ 5,60",
+              "R$ 26,66"
+            ],
+            [
+              "Black Skull Whey 100% HD refil 900 g",
+              "os mesmos",
+              "21 g em 35 g",
+              "25",
+              "R$ 139,90",
+              "R$ 5,60",
+              "R$ 26,65"
+            ],
+            [
+              "Black Skull Whey 80% HD refil 900 g",
+              "WPC",
+              "23 g em 30 g",
+              "30",
+              "R$ 159,90 (banana: R$ 139,90)",
+              "R$ 5,33",
+              "R$ 23,17 (banana: R$ 20,28)"
+            ],
+            [
+              "Growth Whey Protein Concentrado 1 kg",
+              "WPC",
+              "23 g em 30 g (24 g no Natural)",
+              "33",
+              "R$ 199,90 no Pix; R$ 222,11 no cartão",
+              "R$ 6,06 no Pix",
+              "R$ 26,34 no Pix; R$ 29,26 no cartão"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. As 33 porções da Growth são as da tabela, que diz \"cerca de 33\" em 1 kg."
+        ]
+      },
+      {
+        "heading": "Whey 100% HD ou Whey Concentrado da Growth",
+        "paragraphs": [
+          "São os dois mais procurados quando a busca é \"black skull ou growth whey\". Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. No cartão, a Growth sobe para R$ 29,26.",
+          "Com o **CECILIA10**, o pote de 1,8 kg sai por R$ 251,91, ou **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. A Black Skull passa na frente da Growth no Pix e no cartão.",
+          "A fórmula é diferente. O whey da Growth leva só proteína concentrada do soro do leite. O Whey 100% HD mistura proteína do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz só \"peptídeos hidrolisados\". Ou seja: nem toda a proteína do pote da Black Skull vem do soro do leite."
+        ]
+      },
+      {
+        "heading": "Whey 80% HD: o concentrado da Black Skull",
+        "paragraphs": [
+          "Quem quer o mesmo tipo de whey da Growth, só concentrado, tem na Black Skull o **Whey 80% HD**. A dose é igual à da Growth: 30 g de pó com 23 g de proteína. A lista de ingredientes traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose.",
+          "O refil de 900 g custava R$ 159,90 em 18/10/2026: **R$ 23,17 por 100 g de proteína**, mais barato que a Growth no Pix mesmo sem cupom. Com o CECILIA10, cai para R$ 20,86. O sabor banana estava a R$ 139,90, ou R$ 20,28 por 100 g de proteína sem cupom.",
+          "O 80% HD só é vendido em refil de 900 g, e tinha três sabores em estoque na consulta: morango, banana e cookies. O chocolate e a baunilha estavam esgotados."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g nas duas lojas",
+        "paragraphs": [
+          "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026, sem o cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Doses de 5 g",
+            "Preço",
+            "Por dose",
+            "Por 100 g de creatina"
+          ],
+          "rows": [
+            [
+              "Black Skull Creator refil 500 g",
+              "100",
+              "R$ 39,90 (de R$ 59,90)",
+              "R$ 0,40",
+              "R$ 7,98 (de lista: R$ 11,98)"
+            ],
+            [
+              "Black Skull Creator 300 g",
+              "60",
+              "R$ 29,90 (de R$ 49,90)",
+              "R$ 0,50",
+              "R$ 9,97 (de lista: R$ 16,63)"
+            ],
+            [
+              "Black Skull Creatine 300 g sem sabor",
+              "60",
+              "R$ 41,90 (de R$ 49,90)",
+              "R$ 0,70",
+              "R$ 13,97"
+            ],
+            [
+              "Growth Creatina refil 500 g",
+              "100",
+              "R$ 74,90 no Pix; R$ 83,22 no cartão",
+              "R$ 0,75 no Pix",
+              "R$ 14,98 no Pix; R$ 16,64 no cartão"
+            ],
+            [
+              "Growth Creatina 500 g (pote)",
+              "100",
+              "R$ 84,90 no Pix; R$ 94,33 no cartão",
+              "R$ 0,85 no Pix",
+              "R$ 16,98 no Pix; R$ 18,87 no cartão"
+            ],
+            [
+              "Growth Creatina 250 g (pote)",
+              "50",
+              "R$ 44,90 no Pix; R$ 49,88 no cartão",
+              "R$ 0,90 no Pix",
+              "R$ 17,96 no Pix; R$ 19,95 no cartão"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, o Creator refil de 500 g sai por R$ 35,91, ou R$ 7,18 por 100 g de creatina, e o Creator de 300 g, por R$ 26,91, ou R$ 8,97 por 100 g."
+        ]
+      },
+      {
+        "heading": "A creatina da Black Skull ganha mesmo sem a promoção?",
+        "paragraphs": [
+          "Em parte. Os dois Creators estavam em promoção em 18/10/2026, e a loja não diz até quando. Pelo preço de lista:"
+        ],
+        "bullets": [
+          "o **Creator refil de 500 g**, a R$ 59,90, fica em R$ 11,98 por 100 g e continua mais barato que qualquer creatina da Growth;",
+          "o **Creator de 300 g**, a R$ 49,90, fica em R$ 16,63 por 100 g: abaixo dos potes da Growth no Pix, mas acima do refil de 500 g da Growth, que sai a R$ 14,98."
+        ],
+        "postParagraphs": [
+          "A Black Skull vende ainda a Creatine Turbo, outra linha, com maltodextrina na dose: ela não entra nesta comparação."
+        ]
+      },
+      {
+        "heading": "Ingredientes e alérgicos",
+        "paragraphs": [
+          "O que muda na lista de cada produto, pelas páginas das lojas:"
+        ],
+        "bullets": [
+          "**Black Skull Whey 100% HD:** a mistura de proteínas descrita acima. A loja informa que contém lactose e não contém glúten.",
+          "**Black Skull Whey 80% HD:** proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose.",
+          "**Growth Whey Concentrado, sabor Natural:** proteína concentrada do soro do leite e lecitina, um emulsificante. A página informa que contém derivados de soja e de leite, contém lactose e não contém glúten. Ela também declara 80% de concentração de proteína.",
+          "**Creatinas da tabela:** só creatina monohidratada, nas duas marcas. A Growth informa que a dela não contém glúten."
+        ],
+        "postParagraphs": [
+          "As versões saborizadas da Creatine da Black Skull levam aromatizante, corante e sucralose, e a dose delas é de 6 g. Quem tem alergia ou intolerância deve ler o rótulo da embalagem na hora da compra."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "As condições de cada loja em 18/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Black Skull",
+            "Growth"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "CECILIA10: 10% em todo o site",
+              "nenhum cupom nosso"
+            ],
+            [
+              "Soma com promoção",
+              "sim",
+              "não se aplica"
+            ],
+            [
+              "Pix e cartão",
+              "mesmo preço no Pix, no boleto e no cartão",
+              "Pix e boleto cerca de 10% mais baratos que o cartão"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões",
+              "R$ 200 em SC; R$ 250 em SP, RJ, MG, ES, PR, RS, DF, GO, MT e MS; R$ 299 em BA, CE, PE, SE e RN; R$ 399 nos demais estados"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
+          "Na Black Skull, o mínimo do frete grátis é conferido depois dos descontos. Se o cupom deixar o carrinho abaixo do valor da sua região, o frete volta a ser cobrado."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "Pelos rótulos e pelos preços de 18/10/2026:"
+        ],
+        "bullets": [
+          "**Quer o menor preço por grama de proteína:** Whey 80% HD da Black Skull, a R$ 23,17 por 100 g sem cupom e R$ 20,86 com o CECILIA10.",
+          "**Quer whey só de soro do leite:** Whey 80% HD da Black Skull ou Whey Concentrado da Growth, com a mesma dose de 30 g e 23 g de proteína.",
+          "**Quer o Whey 100% HD:** com o cupom, ele sai mais barato que a Growth por grama de proteína; sem cupom, empata com a Growth no Pix.",
+          "**Quer a creatina mais barata:** Creator refil de 500 g da Black Skull, a R$ 0,40 por dose. O refil não vem com dosador.",
+          "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 10% mais caro que o Pix. Na Black Skull, o preço não muda."
+        ],
+        "postParagraphs": [
+          "Para comparar a Black Skull com outra marca parceira, há o comparativo [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Black Skull ou Growth: qual é melhor? Pelo rótulo e pelo preço de 18/10/2026, a Black Skull sai mais barata na creatina e, com o cupom CECILIA10, também no whey. Sem cupom, o Whey 100% HD e o whey da Growth no Pix empatam por grama de proteína.",
+          "Qual o melhor whey, Black Skull ou Growth? Pelo preço por 100 g de proteína, o Whey 80% HD da Black Skull, a R$ 23,17 sem cupom. O Whey 100% HD e o Whey Concentrado da Growth ficam perto de R$ 26,50 sem cupom.",
+          "Qual a melhor creatina, Black Skull ou Growth? As duas vendem creatina monohidratada com 5 g por dose. Por preço, a Black Skull: o Creator refil de 500 g sai a R$ 7,98 por 100 g, contra R$ 14,98 do refil da Growth no Pix.",
+          "Black Skull é boa? Não provamos os produtos. Quem é a marca, o site oficial e as trocas estão em [Black Skull é confiável?](/reviews/black-skull-e-confiavel).",
+          "A Growth tem cupom? Não temos cupom da Growth, porque ela não é parceira do site. Na loja dela, o Pix sai cerca de 10% mais barato que o cartão.",
+          "Vale esperar a Black Friday? O CECILIA10 vale hoje e soma com as promoções. Os preços de antes de novembro estão no guia da [Black Friday Black Skull](/reviews/black-friday-black-skull)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Black Skull: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom CECILIA10. A Growth não é parceira, e não há link de afiliado dela. Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais blackskullusa.com.br e gsuplementos.com.br, lidos em 18/10/2026. Não provamos os produtos. Preço e estoque mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Black Skull; a Growth não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
       }
     ]
   }

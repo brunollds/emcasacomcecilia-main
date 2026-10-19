@@ -37261,6 +37261,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59488,
+      "sha256": "259698f20e6c3a8149263aa1336ae9e6db225c6b11149b14f7796b0fa9e8e9e2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-growth-capa.webp",
+      "storage_filename": "black-skull-ou-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 88588,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/259698f20e6c3a8149263aa1336ae9e6db225c6b11149b14f7796b0fa9e8e9e2/black-skull-ou-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/259698f20e6c3a8149263aa1336ae9e6db225c6b11149b14f7796b0fa9e8e9e2/black-skull-ou-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T00:48:00.897Z",
+      "verification_etag_or_digest": "259698f20e6c3a8149263aa1336ae9e6db225c6b11149b14f7796b0fa9e8e9e2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
       "media_kind": "image",

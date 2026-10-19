@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 18/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 60
@@ -254,3 +254,7 @@ Lido nas páginas de produto, que abriram sem verificação no navegador.
 - **Creatina:** a Black Skull sai mais barata por grama em 18/10: Creator 300 g R$ 9,97 por 100 g na promoção (R$ 16,63 na lista) e refil 500 g R$ 7,98 (R$ 7,18 com o cupom), contra R$ 14,98 a R$ 17,96 na Growth no Pix. Sem a promoção, a Creator de 300 g fica perto dos potes da Growth; o refil de 500 g segue mais barato.
 - **Frete:** cada loja com a tabela dela, datada.
 
+### Redação e JSON (18/10/2026)
+- Texto aprovado pelo Bruno em 18/10/2026, capa opção B (quadro de preços por 100 g). Entrou o Whey 80% HD da Black Skull como segunda linha (só WPC, 30 g com 23 g de proteína, mesma dose do whey da Growth).
+- Preço da Black Skull igual em todas as formas de pagamento (catálogo VTEX, 18/10/2026). Creator refil 500 g também em promoção (R$ 39,90, de R$ 59,90).
+- No mesmo PR: preço da creatina Growth 250 g atualizado no guia nutren-creatina-e-boa-comparativo-growth-ftw-cimed (R$ 44,90 no Pix em 18/10/2026).
