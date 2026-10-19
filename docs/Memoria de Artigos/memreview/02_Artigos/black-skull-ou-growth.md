@@ -6,15 +6,15 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir preços de whey e creatina na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 60
 score_ponderado_total: 72
 data_criacao: "2026-10-18"
-publicado_em: null
+publicado_em: "2026-10-18"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
@@ -258,3 +258,7 @@ Lido nas páginas de produto, que abriram sem verificação no navegador.
 - Texto aprovado pelo Bruno em 18/10/2026, capa opção B (quadro de preços por 100 g). Entrou o Whey 80% HD da Black Skull como segunda linha (só WPC, 30 g com 23 g de proteína, mesma dose do whey da Growth).
 - Preço da Black Skull igual em todas as formas de pagamento (catálogo VTEX, 18/10/2026). Creator refil 500 g também em promoção (R$ 39,90, de R$ 59,90).
 - No mesmo PR: preço da creatina Growth 250 g atualizado no guia nutren-creatina-e-boa-comparativo-growth-ftw-cimed (R$ 44,90 no Pix em 18/10/2026).
+
+### Publicação (18/10/2026)
+
+No ar em 18/10/2026 (19/10 01:04 UTC), PR #151, release `4b1177e`, build `01a151ad-cfdb-7172-9ff0-402ef1786ff7`, junto com o preço da creatina Growth no guia da Nutren. Smoke 200 (página e capa no CDN), sitemap e IndexNow ok. Pendente para a próxima rodada: a frase da FTW no guia da Nutren ainda compara com o CECI de 5%.
