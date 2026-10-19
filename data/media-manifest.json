@@ -932,6 +932,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/hostinger-icon.png",
+      "local_url": "/images/about/partners/hostinger-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 3902,
+      "sha256": "ba2ea352d328dce7d018c603d8d35533f7caabb071435cbb3748b2730c39126d",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "hostinger-icon.png",
+      "storage_filename": "hostinger-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1777,
+          "column": 17,
+          "literal": "/images/about/partners/hostinger-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ba2ea352d328dce7d018c603d8d35533f7caabb071435cbb3748b2730c39126d/hostinger-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba2ea352d328dce7d018c603d8d35533f7caabb071435cbb3748b2730c39126d/hostinger-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T19:07:25.159Z",
+      "verification_etag_or_digest": "ba2ea352d328dce7d018c603d8d35533f7caabb071435cbb3748b2730c39126d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/i-wanna-sleep.avif",
       "local_url": "/images/about/partners/i-wanna-sleep.avif",
       "media_kind": "image",
@@ -21802,6 +21840,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T02:21:04.539Z",
       "verification_etag_or_digest": "8615171c88fe8ea2b83906daf8d57814c752b445a43c1b242c1f20eb536e82fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/hostinger.webp",
+      "local_url": "/images/logos/watermarks/hostinger.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 2532,
+      "sha256": "0cb60732f99753b2ed99bd9497c0bd9920fde7508a79ce07913966c29ac26cd2",
+      "width": 480,
+      "height": 98,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "hostinger.webp",
+      "storage_filename": "hostinger.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1779,
+          "column": 22,
+          "literal": "/images/logos/watermarks/hostinger.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0cb60732f99753b2ed99bd9497c0bd9920fde7508a79ce07913966c29ac26cd2/hostinger.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0cb60732f99753b2ed99bd9497c0bd9920fde7508a79ce07913966c29ac26cd2/hostinger.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T19:07:25.160Z",
+      "verification_etag_or_digest": "0cb60732f99753b2ed99bd9497c0bd9920fde7508a79ce07913966c29ac26cd2",
       "verification_status": "verified"
     },
     {

@@ -148,6 +148,17 @@ assert.equal(
   'https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers'
 );
 
+// Hostinger (19/10/2026): indicação do Bruno, com o código dentro do link. É a exceção explícita à regra das
+// promoções: o desconto do link não soma com outros cupons, e só vale no primeiro período.
+const hostinger = getCouponBySlug('hostinger');
+assert.ok(hostinger && hostinger.offerMode === 'affiliate-link', 'Hostinger deve existir como affiliate-link');
+assert.equal('code' in hostinger, false, 'Hostinger: o código vai no link, não se digita');
+assert.equal(hostinger.referral, undefined);
+assert.equal(hostinger.hubCategory, 'diversos');
+assert.equal(hostinger.offerUrl, 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS');
+assert.match(hostinger.combinable, /^Não soma com outros cupons/, 'Hostinger: a exceção à soma aparece no texto');
+assert.match(hostinger.linkNote ?? '', /primeiro período/, 'Hostinger: o aviso diz que a renovação não tem o desconto');
+
 // "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
 // YesStyle fica de fora porque o código é de recompensa e a página dela é outra.
 const untested = COUPONS.filter(
@@ -222,4 +233,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Hostinger e prateleiras do hub conferidos.");
