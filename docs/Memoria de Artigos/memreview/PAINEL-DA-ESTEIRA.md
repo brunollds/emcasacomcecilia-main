@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[max-titanium-ou-growth]] — Max Titanium, série 1 a 1 contra a Growth de 18/10 (Score Aut: 74 / Conv: 62)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -24,7 +24,8 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- *(Nenhum artigo no momento)*
+- [ ] [[max-titanium-ou-growth]] — Max Titanium, série 1 a 1 contra a Growth — texto aprovado em 18/10, JSON pronto, espera deploy
+- [ ] [[probiotica-ou-growth]] — Probiótica, série 1 a 1 contra a Growth — texto aprovado em 18/10, JSON pronto, espera deploy
 
 ---
 

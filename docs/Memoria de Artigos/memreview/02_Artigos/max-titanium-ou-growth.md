@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "Claude"
-proxima_acao: "Job 2 (redação), com as Decisões do Bruno de 18/10/2026 no fim deste briefing"
+proxima_acao: "build e deploy com o GO do Bruno"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 62
@@ -306,3 +306,10 @@ Ingredientes:
 - Big Mass Pro: amido de milho, proteína de soro do leite concentrada, cacau, maltodextrina, L-leucina, L-glutamina, creatina monohidratada, L-isoleucina, L-valina, aroma, sucralose, dióxido de silício. Contém leite; lactose; sem glúten.
 
 Conta: por porção = preço ÷ porções; por 1.000 kcal = preço ÷ (porções × kcal) × 1.000. "Cerca de" vem da página: as contas são aproximadas e o texto diz isso.
+
+### Redação e JSON (18/10/2026)
+
+- Texto aprovado pelo Bruno em 18/10/2026; id 471. Whey (Refil e Top Whey 3W 900 g), isolado (IsoWhey 900 g, tabela e preço lidos no Job 2: 26 g em 30 g, R$ 316,39 no Pix), creatina (300 g, 500 g e pack; a tabela da 500 g confirma 5 g e 100 porções), hipercalórico por 1.000 kcal e cupom no teto.
+- Preços da Max relidos por curl em 18/10/2026, iguais ao briefing. Growth: leitura do navegador de 18/10.
+- Imagens: capa em quadro de preços e 7 no corpo (embalagens de whey e de creatina, Mass Titanium 3 kg e as tabelas do Refil, do IsoWhey, da creatina 500 g e do Mass 3 kg), todas da Max Titanium.
+- Pendências que não bloqueiam: ingredientes do IsoWhey não lidos; tabela nutricional da Growth não lida (23 g da página).

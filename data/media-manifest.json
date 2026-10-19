@@ -57130,6 +57130,374 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56590,
+      "sha256": "09121c7b83a0da8d27b7a8ef47dc3e07e497c09d5257693243cb407f78b1576c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-capa.webp",
+      "storage_filename": "max-titanium-ou-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 88904,
+          "column": 15,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/09121c7b83a0da8d27b7a8ef47dc3e07e497c09d5257693243cb407f78b1576c/max-titanium-ou-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/09121c7b83a0da8d27b7a8ef47dc3e07e497c09d5257693243cb407f78b1576c/max-titanium-ou-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.463Z",
+      "verification_etag_or_digest": "09121c7b83a0da8d27b7a8ef47dc3e07e497c09d5257693243cb407f78b1576c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48498,
+      "sha256": "784649a1a00ce12ec53a171e01e6baf67695cc1e51e79e83cc57d97877844df2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-embalagens-creatina.webp",
+      "storage_filename": "max-titanium-ou-growth-embalagens-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 245,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89127,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/784649a1a00ce12ec53a171e01e6baf67695cc1e51e79e83cc57d97877844df2/max-titanium-ou-growth-embalagens-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/784649a1a00ce12ec53a171e01e6baf67695cc1e51e79e83cc57d97877844df2/max-titanium-ou-growth-embalagens-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "784649a1a00ce12ec53a171e01e6baf67695cc1e51e79e83cc57d97877844df2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79394,
+      "sha256": "f090d13773ec1a888123e4af7c080b9bcdf1e04dde6bb4c9306ea80dcc291116",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-embalagens-whey.webp",
+      "storage_filename": "max-titanium-ou-growth-embalagens-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 104,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 88986,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f090d13773ec1a888123e4af7c080b9bcdf1e04dde6bb4c9306ea80dcc291116/max-titanium-ou-growth-embalagens-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f090d13773ec1a888123e4af7c080b9bcdf1e04dde6bb4c9306ea80dcc291116/max-titanium-ou-growth-embalagens-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "f090d13773ec1a888123e4af7c080b9bcdf1e04dde6bb4c9306ea80dcc291116",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97116,
+      "sha256": "eee10b2aa87491afbe0b839fd8cee66d8cd8a04c49121ee4b6b3c92b7d587053",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "storage_filename": "max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 319,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89201,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/eee10b2aa87491afbe0b839fd8cee66d8cd8a04c49121ee4b6b3c92b7d587053/max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eee10b2aa87491afbe0b839fd8cee66d8cd8a04c49121ee4b6b3c92b7d587053/max-titanium-ou-growth-mass-titanium-3kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "eee10b2aa87491afbe0b839fd8cee66d8cd8a04c49121ee4b6b3c92b7d587053",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125638,
+      "sha256": "03cb6888479e4d8d56fcf6906b035c15184c749023bd32abab238f8097ae7fad",
+      "width": 962,
+      "height": 1513,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "storage_filename": "max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89002,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/03cb6888479e4d8d56fcf6906b035c15184c749023bd32abab238f8097ae7fad/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/03cb6888479e4d8d56fcf6906b035c15184c749023bd32abab238f8097ae7fad/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "03cb6888479e4d8d56fcf6906b035c15184c749023bd32abab238f8097ae7fad",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67144,
+      "sha256": "6726131530af0ced758c271a83c7d66f4eb71e8d5e45e9c988c79f7d5f8270d4",
+      "width": 858,
+      "height": 927,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "storage_filename": "max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 252,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89134,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6726131530af0ced758c271a83c7d66f4eb71e8d5e45e9c988c79f7d5f8270d4/max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6726131530af0ced758c271a83c7d66f4eb71e8d5e45e9c988c79f7d5f8270d4/max-titanium-ou-growth-tabela-creatina-500g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "6726131530af0ced758c271a83c7d66f4eb71e8d5e45e9c988c79f7d5f8270d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104144,
+      "sha256": "a49e4d648954a1b65e35bf096213c294e42743c94fc69dd8342a2615c639b594",
+      "width": 653,
+      "height": 1156,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-tabela-isowhey.webp",
+      "storage_filename": "max-titanium-ou-growth-tabela-isowhey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89048,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a49e4d648954a1b65e35bf096213c294e42743c94fc69dd8342a2615c639b594/max-titanium-ou-growth-tabela-isowhey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a49e4d648954a1b65e35bf096213c294e42743c94fc69dd8342a2615c639b594/max-titanium-ou-growth-tabela-isowhey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "a49e4d648954a1b65e35bf096213c294e42743c94fc69dd8342a2615c639b594",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98508,
+      "sha256": "ff62c4d6a1c42573310f2b1d7a833b1ddc8658b53fc679c218f848b3c203958f",
+      "width": 994,
+      "height": 1319,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "storage_filename": "max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 325,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89207,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ff62c4d6a1c42573310f2b1d7a833b1ddc8658b53fc679c218f848b3c203958f/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ff62c4d6a1c42573310f2b1d7a833b1ddc8658b53fc679c218f848b3c203958f/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "ff62c4d6a1c42573310f2b1d7a833b1ddc8658b53fc679c218f848b3c203958f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
       "media_kind": "image",
@@ -61566,6 +61934,236 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "288c622dbe03f8755cb8681c5bb3f7224bdc25e3f1f89466fd1aa5315dbd4a8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55936,
+      "sha256": "525a98b5133388e72be33eeb26f88be12f31abce71d8271a16003fab04148e1b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-capa.webp",
+      "storage_filename": "probiotica-ou-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89349,
+          "column": 15,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/525a98b5133388e72be33eeb26f88be12f31abce71d8271a16003fab04148e1b/probiotica-ou-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/525a98b5133388e72be33eeb26f88be12f31abce71d8271a16003fab04148e1b/probiotica-ou-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "525a98b5133388e72be33eeb26f88be12f31abce71d8271a16003fab04148e1b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79240,
+      "sha256": "706e105a6f37d4e6ec88467c079bd1ab6e8f385e2e8a32551e604e1badddc840",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-embalagens-creatina.webp",
+      "storage_filename": "probiotica-ou-growth-embalagens-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89532,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/706e105a6f37d4e6ec88467c079bd1ab6e8f385e2e8a32551e604e1badddc840/probiotica-ou-growth-embalagens-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/706e105a6f37d4e6ec88467c079bd1ab6e8f385e2e8a32551e604e1badddc840/probiotica-ou-growth-embalagens-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "706e105a6f37d4e6ec88467c079bd1ab6e8f385e2e8a32551e604e1badddc840",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132682,
+      "sha256": "6a80cf8818aa2717bb9235475d572c814f2b4ea0800ca028ffbc664dfe58811f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-embalagens-whey.webp",
+      "storage_filename": "probiotica-ou-growth-embalagens-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89436,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a80cf8818aa2717bb9235475d572c814f2b4ea0800ca028ffbc664dfe58811f/probiotica-ou-growth-embalagens-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a80cf8818aa2717bb9235475d572c814f2b4ea0800ca028ffbc664dfe58811f/probiotica-ou-growth-embalagens-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "6a80cf8818aa2717bb9235475d572c814f2b4ea0800ca028ffbc664dfe58811f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65624,
+      "sha256": "b54aa28f7f669ca33dcb9b8f2c4b81873ec1f0b67a8e364bf151f4c65864c5ed",
+      "width": 1051,
+      "height": 1047,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-tabela-creatina-300g.webp",
+      "storage_filename": "probiotica-ou-growth-tabela-creatina-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 212,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89539,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b54aa28f7f669ca33dcb9b8f2c4b81873ec1f0b67a8e364bf151f4c65864c5ed/probiotica-ou-growth-tabela-creatina-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b54aa28f7f669ca33dcb9b8f2c4b81873ec1f0b67a8e364bf151f4c65864c5ed/probiotica-ou-growth-tabela-creatina-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "b54aa28f7f669ca33dcb9b8f2c4b81873ec1f0b67a8e364bf151f4c65864c5ed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 89600,
+      "sha256": "c01faf5a1e2b7bcbccf20f4360f019d71daae30e213fd61f5ba7d36d9818aacf",
+      "width": 675,
+      "height": 1057,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "storage_filename": "probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 126,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89453,
+          "column": 21,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c01faf5a1e2b7bcbccf20f4360f019d71daae30e213fd61f5ba7d36d9818aacf/probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c01faf5a1e2b7bcbccf20f4360f019d71daae30e213fd61f5ba7d36d9818aacf/probiotica-ou-growth-tabela-whey-baunilha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-19T02:37:57.464Z",
+      "verification_etag_or_digest": "c01faf5a1e2b7bcbccf20f4360f019d71daae30e213fd61f5ba7d36d9818aacf",
       "verification_status": "verified"
     },
     {
