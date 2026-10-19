@@ -26,31 +26,84 @@
         "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
         "Na França, essa lógica ficou conhecida como pain perdu, ou pão perdido. Em Portugal, de onde herdamos a tradição, a rabanada se tornou um doce natalino por volta do século XV. Os portugueses acrescentaram elementos próprios à receita, como vinho do Porto e especiarias, criando versões próximas das que conhecemos hoje.",
         "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
+        "alt": "Ilustração em quatro etapas: tradição antiga de reaproveitar o pão velho; França, o pain perdu; Portugal, por volta do século XV, doce de Natal com vinho do Porto e especiarias; Brasil, trazida pelos portugueses e servida no Natal e o ano todo",
+        "caption": "Do pão velho reaproveitado ao doce de Natal brasileiro, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "A Escolha do Pão: O Segredo para uma Rabanada Perfeita",
       "paragraphs": [
         "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
         "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/rabanada/rabanada-cecilia-cortando-pao.webp",
+        "alt": "Mãos cortando um pão francês em fatias grossas sobre uma tábua, com ovos ao fundo",
+        "caption": "Pão francês amanhecido cortado em fatias grossas, na rabanada com doce de leite do vídeo da Cecília.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8
+      }
     },
     {
       "heading": "A Imersão: Leite, Ovos e Especiarias para Sabor e Maciez",
       "paragraphs": [
         "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
         "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/rabanada/rabanada-cecilia-imersao.webp",
+        "alt": "Mão tirando uma fatia de pão de uma tigela com a mistura de leite e leite condensado",
+        "caption": "A fatia sai da mistura de leite e leite condensado sem encharcar, antes de passar no ovo.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8
+      }
     },
     {
       "heading": "Fritura e Finalização",
       "paragraphs": [
         "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
         "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-fritura.webp",
+          "alt": "Fatias de pão empanadas fritando numa panela pequena com óleo quente, sobre um cooktop",
+          "caption": "As fatias fritam poucas por vez, até dourar.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        },
+        {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-acucar-canela.webp",
+          "alt": "Rabanada dourada sendo passada numa travessa de açúcar com canela",
+          "caption": "Ainda morna, a rabanada passa no açúcar com canela.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       ]
     },
     {
       "heading": "Variações para Testar",
+      "images": [
+        {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-recheando-doce-de-leite.webp",
+          "alt": "Mãos recheando uma fatia de pão francês com doce de leite usando um saco de confeiteiro",
+          "caption": "Mais uma variação: cada fatia ganha um corte no meio e é recheada com doce de leite antes da imersão.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        },
+        {
+          "src": "/images/reviews/rabanada/rabanada-cecilia-recheada-aberta.webp",
+          "alt": "Mãos abrindo ao meio uma rabanada recheada com doce de leite, polvilhada com açúcar e canela",
+          "caption": "A rabanada recheada aberta ao meio, com o doce de leite por dentro.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
+      ],
       "bullets": [
         "Calda de vinho, mel, leite condensado ou caldas aromatizadas com especiarias.",
         "Especiarias extras como cravo-da-índia, raspas de limão ou raspas de laranja.",

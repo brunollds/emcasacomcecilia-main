@@ -34,6 +34,36 @@
         "Minha experiência começou com otimismo e terminou em frustração completa. Segui as instruções à risca: coloquei a manteiga gelada em colheradas na batedeira, conforme orientado pela especialista do vídeo. Tudo parecia correr bem nos primeiros segundos, até que adicionei o leite conforme recomendado.",
         "Foi quando o caos se instalou na cozinha. O leite começou a espirrar por todos os lados, atingindo paredes, armários e até mesmo o teto. A batedeira transformou-se em uma máquina de respingos enquanto a suposta especialista garantia na tela: “Parece que vai dar errado, mas vai dar certo”.",
         "Spoiler: não deu certo. Após cinco minutos de batalha, transferi a mistura para o processador numa última tentativa desesperada. O resultado foi uma substância de textura estranha, com o leite completamente separado da gordura, nada remotamente parecido com manteiga aerada, cremosa ou pronta para passar no pão."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/manteiga/manteiga-batida-colheradas-batedeira.webp",
+          "alt": "Manteiga gelada em colheradas na tigela branca da batedeira, com o batedor de arame",
+          "caption": "Começo do teste: a manteiga gelada em colheradas na tigela da batedeira.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        },
+        {
+          "src": "/images/reviews/manteiga/manteiga-batida-leite-espirrando.webp",
+          "alt": "Mão segurando a cabeça da batedeira branca enquanto o leite espirra da tigela",
+          "caption": "Com o leite, a batedeira começou a espirrar e a derramar.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        },
+        {
+          "src": "/images/reviews/manteiga/manteiga-batida-leite-separado.webp",
+          "alt": "Tigela inclinada derramando leite líquido, com a manteiga em pedaços separada no fundo",
+          "caption": "Depois de cinco minutos, o leite saiu separado da manteiga na hora de passar para o processador.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        },
+        {
+          "src": "/images/reviews/manteiga/manteiga-batida-processador.webp",
+          "alt": "Processador de alimentos branco com a mistura de manteiga e leite no copo",
+          "caption": "A última tentativa, no processador.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8
+        }
       ]
     },
     {
@@ -42,7 +72,14 @@
         "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
         "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
         "Outro fator crucial nesse fracasso é a temperatura e a emulsificação. A manteiga gelada, como sugerido nos vídeos, não se integrará adequadamente ao leite. Emulsões estáveis requerem condições específicas e, frequentemente, agentes emulsificantes para manter gorduras e líquidos unidos, condições que simplesmente não são atingidas batendo manteiga gelada com leite frio em uma batedeira doméstica."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp",
+        "alt": "Gráfico de barras: leite integral com 3% a 4% de gordura e manteiga com 80% a 82%",
+        "caption": "O leite integral tem cerca de 3% a 4% de gordura, e a manteiga, de 80% a 82%. Ilustração do Em Casa com Cecília, com os números deste artigo.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Alternativas Reais que Realmente Funcionam",
@@ -74,7 +111,14 @@
         "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
         "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
         "Tutoriais confiáveis explicam os processos químicos e físicos envolvidos e alertam sobre possíveis dificuldades. Antes de tentar qualquer hack culinário, pesquise em fontes confiáveis: sites especializados em gastronomia, chefs profissionais ou publicações técnicas sobre alimentos tendem a ser melhores referências que influenciadores focados apenas em views e engajamento."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/manteiga/manteiga-batida-leite-por-fora.webp",
+        "alt": "Colher tirando manteiga aerada do processador, com o leite separado no fundo do copo",
+        "caption": "No processador, a gordura ficou aerada, mas o leite ficou todo por fora.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8
+      }
     },
     {
       "heading": "Dicas Práticas Para Economia Real com Manteiga",
@@ -93,7 +137,14 @@
         "Os desastres culinários, embora frustrantes, são valiosas oportunidades de aprendizado. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
         "As alternativas reais apresentadas aqui não multiplicarão magicamente sua manteiga, mas oferecem opções viáveis para economia e versatilidade na cozinha. A próxima vez que você se deparar com um hack culinário tentador, lembre-se: na culinária, como na vida, o conhecimento genuíno e as técnicas comprovadas sempre superam os atalhos duvidosos.",
         "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/manteiga/manteiga-batida-resultado.webp",
+        "alt": "Colher cheia de manteiga aerada sobre o copo do processador, com leite separado embaixo",
+        "caption": "O resultado: manteiga aerada de um lado, leite do outro. Não dobrou.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8
+      }
     }
   ]
 }
