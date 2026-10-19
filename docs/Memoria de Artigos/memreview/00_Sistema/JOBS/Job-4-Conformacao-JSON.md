@@ -20,7 +20,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - `image`: Caminho da imagem principal (Hero).
    - `imageAlt`: Texto alternativo descritivo e acessível (sem clickbait).
    - `imageFit` (`"contain"` | `"cover"` | `"wide"` | `"square"`) e `imageAspect`.
-   - Imagens inline nas `contentSections` quando houver fotos explicativas ou tabelas.
+   - Imagens inline nas `contentSections`, a partir do Plano de imagens do Job 2: **no mínimo uma além da capa** (o piso, não a meta; quanto mais, melhor, sem repetir e sem fugir do tema). A folha de contato que o Bruno aprova antes do upload mostra a capa e todas as imagens do corpo, com o alt e a legenda de cada uma. PR de artigo só com a capa não é aberto.
    - `gallery`: Array de fotos com legenda (`caption`) rica quando houver múltiplos ângulos/detalhes.
    - `video` (MP4/loop) ou `youtubeUrl` (registrado em `video-metadata.js` se for primário).
    - **Caminhos sempre locais:** `image`, `imageAlt`, `images[].src` e `gallery[].image` usam `/images/reviews/<marca>/<arquivo>.webp`. Nunca escrever URL `cdn.emcasacomcecilia.com` no JSON nem alterar chaves de `localVideoMetadata`/`video-pages`: o mapa de entrega troca pela URL do CDN só na renderização.

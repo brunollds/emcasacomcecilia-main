@@ -26,3 +26,7 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
   `CECILIA010` da YesStyle é código de recompensa, nunca cupom; o `4CW5Y` da SHEIN é
   código de indicação da SHEIN Brasil. Não há código de terceiros nem cupom
   promocional da YesStyle no texto (`CONTRATOS-DE-CONTEUDO.md`).
+- [ ] **9. Imagens no corpo:** o Plano de imagens do Job 2 traz **pelo menos uma
+  imagem no corpo além da capa**, sem repetir imagem e sem fugir do tema da seção?
+  É o mínimo, não a meta: aponte as seções que ganhariam outra imagem. Sem ao menos
+  uma imagem no corpo, o rascunho volta ao Job 2.
