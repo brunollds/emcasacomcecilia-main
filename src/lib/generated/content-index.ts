@@ -88879,5 +88879,752 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
       }
     ]
+  },
+  {
+    "id": 471,
+    "slug": "max-titanium-ou-growth",
+    "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Max Titanium ou Growth: qual whey e qual creatina compensam",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Max Titanium ou Growth? O whey, a creatina e o hipercalórico das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, preço por 1.000 kcal, com e sem o cupom MAX10EMCASACOMCECILIA.",
+    "metaDescription": "Max Titanium ou Growth: whey, creatina e hipercalórico comparados por 100 g de proteína, por grama de creatina e por 1.000 kcal, com o cupom da Max e os preços de 18/10/2026.",
+    "publishedAt": "18 de outubro de 2026",
+    "publishedAtISO": "2026-10-18",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+    "imageAlt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Growth refil R$ 14,98, Max 500 g R$ 16,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "**Whey:** a Growth Whey Concentrado 1 kg é a mais barata por 100 g de proteína no Pix, a R$ 26,34 (preço de 18/10/2026). O 100% Whey Refil da Max, com o cupom no teto, fica em R$ 27,21. No isolado, o IsoWhey 900 g da Max com o cupom (R$ 36,51) fica abaixo da Growth (R$ 39,27 no Pix); sem cupom, a Max fica um pouco acima.",
+          "**Creatina:** sem cupom, a Growth refil de 500 g é a mais barata por grama, a R$ 14,98 por 100 g no Pix. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96).",
+          "**Hipercalórico:** a Max leva a menor conta por 1.000 kcal nos dois tamanhos. O Mass Titanium 17500 Refil 3 kg sai a R$ 9,81 no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
+          "**Cupom:** o MAX10EMCASACOMCECILIA dá até 10% no site da Max, e o percentual varia por produto. A Growth não tem cupom nosso."
+        ],
+        "postParagraphs": [
+          "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por dose:** preço ÷ porções;",
+          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
+          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
+          "**preço por 1.000 kcal:** preço ÷ (porções × kcal por porção) × 1.000."
+        ],
+        "postParagraphs": [
+          "A coluna \"com cupom\" é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
+          "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
+          "Ficaram de fora sabor, dissolução e digestão: não provamos nenhum produto, e não usamos avaliações de clientes. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Preços de 18/10/2026, no Pix e no cartão, e o teto com o cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Porções",
+            "Preço Pix",
+            "Por 100 g de proteína (Pix / cartão)",
+            "Com cupom (por 100 g)"
+          ],
+          "rows": [
+            [
+              "Max 100% Whey Refil 900 g (WPC)",
+              "30 g, 21 g de proteína",
+              "30",
+              "R$ 190,50",
+              "R$ 30,24 / R$ 31,17",
+              "R$ 27,21"
+            ],
+            [
+              "Max Top Whey 3W + Performance 900 g",
+              "40 g, 32 g de proteína",
+              "cerca de 23",
+              "R$ 265,34",
+              "R$ 36,05 / R$ 37,17",
+              "R$ 32,45"
+            ],
+            [
+              "Growth Whey Concentrado 1 kg (sabores)",
+              "30 g, 23 g de proteína",
+              "cerca de 33",
+              "R$ 199,90",
+              "R$ 26,34 / R$ 29,26",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A dose muda de uma loja para a outra: na Max, 30 g dão 21 g de proteína no Refil e 40 g dão 32 g no 3W; na Growth, 30 g dão 23 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
+          "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+            "alt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
+            "caption": "Os dois wheys da Max Titanium citados na tabela. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
+        "paragraphs": [
+          "Essa é a comparação direta: no 100% Whey Refil e no Whey Concentrado da Growth, a proteína é só a concentrada do soro do leite (WPC), e a dose é de 30 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
+          "A Growth tem também o sabor Natural, com 24 g de proteína por dose: R$ 25,24 por 100 g no Pix, sem cupom. O preço é o mesmo do sabor de 23 g, então a conta muda só pela proteína."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+            "alt": "Tabela nutricional do 100% Whey Refil 900 g, sabor baunilha: 30 g por dose, 126 kcal e 21 g de proteína",
+            "caption": "Tabela nutricional do 100% Whey Refil 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6358
+          }
+        ]
+      },
+      {
+        "heading": "Whey isolado: IsoWhey 900 g da Max contra o Whey Isolado da Growth",
+        "paragraphs": [
+          "A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Porções",
+            "Preço Pix",
+            "Por 100 g de proteína (Pix / cartão)",
+            "Com cupom (por 100 g)"
+          ],
+          "rows": [
+            [
+              "Max IsoWhey 900 g",
+              "30 g, 26 g de proteína",
+              "30",
+              "R$ 316,39",
+              "R$ 40,56 / R$ 41,82",
+              "R$ 36,51"
+            ],
+            [
+              "Growth (TOP) Whey Protein Isolado 1 kg",
+              "30 g, 27 g de proteína",
+              "cerca de 33",
+              "R$ 349,90",
+              "R$ 39,27 / R$ 43,63",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem cupom, a Growth sai um pouco mais barata por 100 g de proteína no Pix (R$ 39,27 contra R$ 40,56). Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+            "alt": "Tabela nutricional do IsoWhey 900 g, sabor baunilha: 30 g por dose, 118 kcal e 26 g de proteína",
+            "caption": "Tabela nutricional do IsoWhey 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5649
+          }
+        ]
+      },
+      {
+        "heading": "Creatina: preço por grama nas duas lojas",
+        "paragraphs": [
+          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho e doses",
+            "Preço Pix",
+            "Preço cartão",
+            "Por 100 g (Pix / cartão)",
+            "Com cupom (por 100 g)"
+          ],
+          "rows": [
+            [
+              "Max Creatina 300 g",
+              "300 g, 60 doses",
+              "R$ 56,02",
+              "R$ 59,90",
+              "R$ 18,67 / R$ 19,97",
+              "R$ 16,81"
+            ],
+            [
+              "Max Creatina 500 g (pote)",
+              "500 g, 100 doses",
+              "R$ 84,90",
+              "R$ 87,53",
+              "R$ 16,98 / R$ 17,51",
+              "R$ 15,28"
+            ],
+            [
+              "Max Pack 2 x Creatina 500 g",
+              "1 kg, 200 doses",
+              "R$ 169,81",
+              "R$ 175,06",
+              "R$ 16,98 / R$ 17,51",
+              "R$ 15,28"
+            ],
+            [
+              "Growth Creatina 250 g",
+              "250 g, 50 doses",
+              "R$ 44,90",
+              "R$ 49,88",
+              "R$ 17,96 / R$ 19,95",
+              "não se aplica"
+            ],
+            [
+              "Growth Creatina 500 g (pote)",
+              "500 g, 100 doses",
+              "R$ 84,90",
+              "R$ 94,33",
+              "R$ 16,98 / R$ 18,87",
+              "não se aplica"
+            ],
+            [
+              "Growth Creatina 500 g (refil pouch)",
+              "500 g, 100 doses",
+              "R$ 74,90",
+              "R$ 83,22",
+              "R$ 14,98 / R$ 16,64",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem cupom, a Growth refil de 500 g é a menor conta por grama (R$ 14,98 no Pix). O pote de 500 g da Max empata com o pote da Growth no Pix (R$ 16,98) e, com o cupom, cai para R$ 15,28. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96), que tem a mesma dose de 5 g.",
+          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth lida em 18/10/2026 não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix). A diferença é de preço, não de dose."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+            "alt": "Potes de creatina monohidratada da Max Titanium, de 300 g e de 500 g",
+            "caption": "Os potes de creatina da Max Titanium citados na tabela. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
+            "alt": "Tabela nutricional da Creatina 500 g da Max Titanium: porção de 5 g, 100 porções por embalagem",
+            "caption": "Tabela nutricional da Creatina 500 g da Max Titanium. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9256
+          }
+        ]
+      },
+      {
+        "heading": "Hipercalórico: Mass Titanium 17500 contra a Growth",
+        "paragraphs": [
+          "O hipercalórico é a categoria em que a Max leva a melhor conta. Comparamos cada tamanho da Max com o da Growth que chega mais perto em peso: o Refil de 1,4 kg contra o Hiper Mass de 1 kg, e o Refil de 3 kg contra o Big Mass Pro de 3 kg. A régua é o preço por 1.000 kcal, porque as porções vão de 90 g a 170 g e o preço por porção não compara nada."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porção e porções",
+            "kcal por porção",
+            "Proteína e carboidrato por porção",
+            "Preço Pix",
+            "Por 1.000 kcal (Pix / cartão)",
+            "Com cupom (por 1.000 kcal)"
+          ],
+          "rows": [
+            [
+              "Max Mass Titanium 17500 Refil 1,4 kg (baunilha)",
+              "160 g, cerca de 9",
+              "619",
+              "17 g e 135 g",
+              "R$ 67,79",
+              "R$ 12,17 / R$ 12,55",
+              "R$ 10,95"
+            ],
+            [
+              "Growth Hiper Mass 1 kg (chocolate)",
+              "170 g, cerca de 6",
+              "615",
+              "37 g e 108 g",
+              "R$ 54,90",
+              "R$ 14,88 / R$ 16,53",
+              "não se aplica"
+            ],
+            [
+              "Max Mass Titanium 17500 Refil 3 kg (baunilha)",
+              "160 g, cerca de 19",
+              "619",
+              "17 g e 135 g",
+              "R$ 115,32",
+              "R$ 9,81 / R$ 10,11",
+              "R$ 8,82"
+            ],
+            [
+              "Growth Big Mass Pro 3 kg",
+              "160 g, cerca de 19",
+              "591",
+              "22 g e 100 g",
+              "R$ 168,90",
+              "R$ 15,04 / R$ 16,71",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As contas usam as calorias de cada porção e o número de porções que a embalagem informa (\"cerca de\" na Max e na Growth), por isso são aproximadas. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
+            "alt": "Embalagem do Mass Titanium 17500 Refil 3 kg, sabor baunilha, da Max Titanium",
+            "caption": "Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
+            "alt": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg, sabor baunilha: porção de 160 g, 619 kcal e 17 g de proteína",
+            "caption": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7536
+          }
+        ]
+      },
+      {
+        "heading": "Ingredientes, alérgenos e indicação",
+        "paragraphs": [
+          "O que muda na lista de cada produto, pelas páginas das lojas:"
+        ],
+        "bullets": [
+          "**Max 100% Whey Refil:** proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e sucralose. A loja informa que não contém glúten.",
+          "**Max Top Whey 3W + Performance:** WPC, proteína isolada (WPI) e hidrolisada (WPH). A página informa que contém lactose.",
+          "**Growth Whey Concentrado (sabor Natural):** proteína concentrada do soro do leite e lecitina. A página informa derivados de soja e de leite, lactose e ausência de glúten.",
+          "**Max Creatina 300 g:** creatina monohidratada e dióxido de silício como antiumectante. A Creatina Creapure 250 g da Max traz só creatina monohidratada, sem glúten.",
+          "**Growth creatinas:** só creatina monohidratada; a Growth informa que não contém glúten.",
+          "**Max Mass Titanium 17500:** maltodextrina, WPC, albumina (clara de ovo), colágeno hidrolisado e sucralose. A loja informa que não contém glúten e indica o produto para maiores de 19 anos.",
+          "**Growth Big Mass Pro:** amido de milho, WPC, cacau, maltodextrina, L-leucina, L-glutamina, creatina monohidratada, L-isoleucina, L-valina, aroma, sucralose e dióxido de silício. Contém leite e lactose; sem glúten. Diferente do Mass Titanium, a lista da Big Mass Pro traz creatina monohidratada.",
+          "**Growth Hiper Mass:** amido de milho, WPC, clara de ovo, colágeno hidrolisado, cacau, aroma, sucralose e acessulfame, dióxido de silício. Contém leite, ovo e soja; lactose; sem glúten."
+        ],
+        "postParagraphs": [
+          "Quem tem alergia ou intolerância deve ler o rótulo da embalagem na hora da compra."
+        ]
+      },
+      {
+        "heading": "Cupom, pagamento e frete",
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Max Titanium",
+            "Growth"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "MAX10EMCASACOMCECILIA: até 10%, com o percentual variando por produto",
+              "nenhum cupom nosso"
+            ],
+            [
+              "Soma com promoção",
+              "sim, com as promoções do site",
+              "não se aplica"
+            ],
+            [
+              "Pagamento",
+              "Pix e cartão; o parcelamento depende do produto",
+              "Pix e boleto cerca de 10% abaixo do cartão"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 104 em SP capital; R$ 134 no Sudeste; R$ 204 no Centro-Oeste; R$ 249 no Sul; R$ 299 no Nordeste; R$ 599 no Norte",
+              "R$ 200 em SC; R$ 250 em SP, MG, RJ, ES, PR, RS, DF, GO, MT e MS; R$ 299 em BA, CE, PE, SE e RN; R$ 399 nos demais estados"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium).",
+          "Os valores de frete são de 18/10/2026. O frete grátis é calculado no carrinho."
+        ]
+      },
+      {
+        "heading": "Para quem cada um faz sentido",
+        "bullets": [
+          "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
+          "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
+          "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
+          "**Quer a menor conta por grama de creatina:** a Growth refil de 500 g, a R$ 14,98 por 100 g no Pix. Com o cupom, o pote de 500 g da Max (R$ 15,28) fica perto.",
+          "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
+          "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
+          "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
+        ],
+        "postParagraphs": [
+          "Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**Max Titanium ou Growth: qual é melhor?** Depende do produto. Sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
+          "**O cupom da Max vale na creatina?** Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
+          "**A Growth tem cupom?** Não. A Growth não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
+          "**A Max tem creatina Creapure?** Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth lida em 18/10/2026 não declara o selo.",
+          "**Vale esperar a Black Friday?** O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Max Titanium: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. A Growth não é parceira, e não há link de afiliado nem cupom dela aqui. Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais da Max Titanium e da Growth Supplements (gsuplementos.com.br), lidos em 18/10/2026. Não provamos os produtos. Preço e estoque mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Growth não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-ou-probiotica",
+        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      },
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "slug": "probiotica-ou-growth",
+    "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Probiótica ou Growth: whey e creatina por dose",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Probiótica ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g e o cupom PRO10EMCASACOMCECILIA no teto.",
+    "metaDescription": "Probiótica ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom PRO10EMCASACOMCECILIA e frete das duas lojas.",
+    "publishedAt": "18 de outubro de 2026",
+    "publishedAtISO": "2026-10-18",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+    "imageAlt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "**Whey:** a Growth concentrada sai mais barata por 100 g de proteína: R$ 26,34 no Pix. Os potes da Probiótica ficam entre R$ 35,56 e R$ 40,82 no Pix, e entre R$ 32,01 e R$ 36,74 no teto do cupom. Mesmo com o cupom, a Growth é mais barata.",
+          "**Creatina:** a Growth de 500 g em refil é a mais barata, com R$ 14,98 por 100 g no Pix. A Probiótica de 300 g fica em R$ 18,97 no Pix e, no teto do cupom, em R$ 17,07: abaixo da Growth de 250 g (R$ 17,96 no Pix), mas só com o cupom no teto.",
+          "**Probiótica:** entra pela linha Zero Lactose, pelos sabores que a página do pote lista e pelo cupom. A Growth não tem cupom nesta conta. Preços de 18/10/2026; eles mudam."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial em 18/10/2026, sem frete. Na Growth, mostramos o Pix e o cartão, porque são diferentes.",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por dose:** preço ÷ porções;",
+          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
+          "**preço por 100 g de creatina:** preço ÷ (doses × 5 g) × 100."
+        ],
+        "postParagraphs": [
+          "A dose é de 30 g nos dois whey, mas a proteína por dose não é a mesma: 20 g na Probiótica e 23 g na Growth. Por isso a régua é o preço por 100 g de proteína, e não o preço do pote. Ficaram de fora sabor, dissolução e digestão, porque não provamos nenhum produto. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Whey: preço por 100 g de proteína",
+        "paragraphs": [
+          "Preços de 18/10/2026. O cupom aparece como teto: 10% sobre o preço à vista no Pix, o que dá o maior desconto possível em cada linha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Proteína por dose",
+            "Porções",
+            "Preço Pix",
+            "Preço cartão",
+            "Por 100 g de proteína (Pix / cartão)",
+            "Com cupom no teto (por 100 g)"
+          ],
+          "rows": [
+            [
+              "Probiótica 100% Pure Whey pote 900 g, Baunilha",
+              "20 g em 30 g",
+              "30",
+              "R$ 244,92",
+              "R$ 252,49",
+              "R$ 40,82 / R$ 42,08",
+              "R$ 36,74"
+            ],
+            [
+              "Probiótica 100% Pure Whey refil 900 g, Baunilha",
+              "20 g em 30 g (tabela)",
+              "30",
+              "R$ 228,58",
+              "R$ 235,65",
+              "R$ 38,10 / R$ 39,27",
+              "R$ 34,29"
+            ],
+            [
+              "Probiótica Zero Lactose 900 g, Baunilha",
+              "22 g em 30 g",
+              "30",
+              "R$ 234,71",
+              "R$ 241,97",
+              "R$ 35,56 / R$ 36,66",
+              "R$ 32,01"
+            ],
+            [
+              "Growth (TOP) Whey Protein Concentrado 1 kg, sabores",
+              "23 g em 30 g",
+              "cerca de 33",
+              "R$ 199,90",
+              "R$ 222,11",
+              "R$ 26,34 / R$ 29,26",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Growth fica abaixo em todas as linhas de whey desta conta. Pelo preço por dose no Pix, o refil da Probiótica (R$ 7,62) fica acima da Growth (R$ 6,06), e o pote, em R$ 8,16. Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+            "alt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
+            "caption": "Embalagens de whey da Probiótica: pote, refil e Zero Lactose, todos de 900 g. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Whey: a proteína de cada pote",
+        "paragraphs": [
+          "A proteína da Probiótica muda conforme a página e o sabor. A página do pote dá uma faixa de 20 a 24 g por porção e traz dois banners com números diferentes (\"até 24 g\" e \"até 21 g\"). A conta usa a tabela nutricional do sabor Baunilha: 20 g em 30 g, com 124 kcal e 6,3 g de carboidrato.",
+          "O refil de 900 g tem a mesma tabela de 20 g em 30 g, mas a página dele e a frente da embalagem falam em 21 g. A conta usa a tabela. O Zero Lactose de 900 g, também Baunilha, tem 22 g de proteína em 30 g, com 124 kcal e 4 g de carboidrato na tabela.",
+          "A Growth declara 23 g em 30 g nos sabores e 24 g no Natural, com cerca de 33 porções no pote de 1 kg. Ela não tem uma tabela por sabor nesta conta: o número usado é o de 23 g."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+            "alt": "Tabela nutricional do 100% Pure Whey 900 g, sabor baunilha, com 20 g de proteína em 30 g",
+            "caption": "Tabela nutricional do 100% Pure Whey 900 g, Baunilha. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 0.6386
+          }
+        ]
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "bullets": [
+          "**Probiótica 100% Pure Whey (pote):** proteína concentrada do soro do leite, lecitina de soja, aromatizantes, goma xantana e sucralose. A página declara que contém leite, soja e lactose, e que pode conter ovo. No Baunilha, a página diz \"não contém glúten\"; o Cookies & Cream da mesma página tem farinha de trigo, então a frase vale por sabor.",
+          "**Probiótica Zero Lactose 900 g:** a página declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
+          "**Growth Whey Concentrado, sabor Natural:** proteína de soro do leite concentrada e lecitina. A página declara que contém derivados de soja e de leite, contém lactose e não contém glúten.",
+          "**Creatina Monohidratada Pura 300 g (Probiótica):** creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
+          "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada. A página diz que não contém glúten."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g",
+        "paragraphs": [
+          "A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Creatina por dose",
+            "Doses",
+            "Preço Pix",
+            "Preço cartão",
+            "Por 100 g (Pix / cartão)",
+            "Com cupom no teto (por 100 g)"
+          ],
+          "rows": [
+            [
+              "Probiótica Creatina Monohidratada Pura 300 g",
+              "5 g (5.000 mg)",
+              "60",
+              "R$ 56,90",
+              "R$ 59,90",
+              "R$ 18,97 / R$ 19,97",
+              "R$ 17,07"
+            ],
+            [
+              "Growth Creatina Monohidratada 250 g",
+              "5 g",
+              "50",
+              "R$ 44,90",
+              "R$ 49,88",
+              "R$ 17,96 / R$ 19,95",
+              "não se aplica"
+            ],
+            [
+              "Growth Creatina Monohidratada 500 g, pote",
+              "5 g",
+              "100",
+              "R$ 84,90",
+              "R$ 94,33",
+              "R$ 16,98 / R$ 18,87",
+              "não se aplica"
+            ],
+            [
+              "Growth Creatina Monohidratada 500 g, refil pouch",
+              "5 g",
+              "100",
+              "R$ 74,90",
+              "R$ 83,22",
+              "R$ 14,98 / R$ 16,64",
+              "não se aplica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, a Probiótica de 300 g custa R$ 0,95 por dose; a Growth de 250 g, R$ 0,90; e o refil de 500 g, R$ 0,75. O cupom muda a conta só no teto, e por isso a comparação com a Growth de 250 g depende dele.",
+          "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
+          "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+            "alt": "Potes de creatina da Probiótica, de 300 g e de 150 g (Creapure), de frente",
+            "caption": "Potes de creatina da Probiótica: Monohidratada Pura 300 g e Creapure 150 g. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+            "alt": "Tabela nutricional da creatina monohidratada pura de 300 g, com 5.000 mg por porção de 5 g",
+            "caption": "Tabela nutricional da Creatina Monohidratada Pura 300 g: 5 g por dose, 60 porções. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.0038
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Probiótica",
+            "Growth"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "PRO10EMCASACOMCECILIA: até 10%, com o percentual variando por produto",
+              "Nenhum cupom nosso"
+            ],
+            [
+              "Desconto no Pix",
+              "3% no whey e 5% na creatina de 300 g, pelo preço da página",
+              "Pix cerca de 10% abaixo do cartão"
+            ],
+            [
+              "Frete grátis a partir de",
+              "São Paulo (capital) R$ 104; Sudeste R$ 134; Centro-Oeste R$ 204; Sul R$ 249; Nordeste R$ 299; Norte R$ 599",
+              "R$ 200 em SC; R$ 250 em SP, RJ, MG, ES, PR, RS, DF, GO, MT e MS; R$ 299 em BA, CE, PE, SE e RN; R$ 399 nos demais estados"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. A soma com o desconto do Pix não foi testada. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista, e o desconto real pode ser menor. O código e o passo a passo estão na [página do cupom Probiótica](/cupons/probiotica).",
+          "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "bullets": [
+          "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
+          "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
+          "**Quer o menor preço por grama de creatina:** Growth Creatina de 500 g em refil, com R$ 14,98 por 100 g no Pix.",
+          "**Quer a creatina em pote de 300 g:** a Probiótica entra abaixo da Growth de 250 g só com o cupom no teto (R$ 17,07 contra R$ 17,96 no Pix). Sem o cupom, a Growth de 250 g fica na frente.",
+          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**Probiótica ou Growth: qual é melhor?** Pelo preço por 100 g, a Growth vence no whey e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "**O cupom da Probiótica vale na creatina?** A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste de 13/10, a creatina em promoção não recebeu os 10%.",
+          "**A Growth tem cupom?** Não. A Growth não é parceira do site, e não há cupom nosso para ela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
+          "**A Probiótica é confiável?** Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Probiótica: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Growth não é parceira, e não há link de afiliado nem cupom dela. Este texto faz parte da série 1 a 1 contra a Growth, junto com [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Max Titanium ou Growth](/reviews/max-titanium-ou-growth). Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais probiotica.com.br e gsuplementos.com.br, lidos em 18/10/2026. Não provamos os produtos. Preço e estoque mudam: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Probiótica e aplique o cupom PRO10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Probiótica; a Growth não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-ou-probiotica",
+        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
   }
 ];
