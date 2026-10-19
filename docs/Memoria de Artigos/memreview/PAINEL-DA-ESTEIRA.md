@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[cafeteira-escritorio-qual-escolher-custo-mes]] — Dolce Gusto, cafeteira para escritório: tipo de máquina por perfil e custo por mês da equipe (Score Aut: 60 / Conv: 70)
 
 ---
 
