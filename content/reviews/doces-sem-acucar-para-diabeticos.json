@@ -35,6 +35,13 @@
       "paragraphs": [
         "A tabela nutricional, a lista de ingredientes e a frente da embalagem respondem coisas diferentes. Leia nesta ordem:"
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
+        "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
+        "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto, 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9479
+      },
       "bullets": [
         "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
         "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
@@ -100,12 +107,56 @@
         "Os seis doces da Belive trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. Glicosídeo de esteviol é o nome técnico do adoçante da stévia. O maltitol vem antes dele na lista, e a ordem da lista segue a quantidade de cada ingrediente. Três dos seis também levam **sorbitol** como umectante: o brownie proteico com avelã, o bolinho de baunilha e o bolo de chocolate. O brownie de chocolate, o cookie e o pão de mel não levam.",
         "A descrição da loja fala em \"adoçado naturalmente com stévia\". O rótulo é mais completo e cita os dois edulcorantes.",
         "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
+        "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+        "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 2.7088
+      }
     },
     {
       "heading": "Os seis doces da Belive lidos pelo rótulo",
       "paragraphs": [
         "Tabelas nutricionais e listas de ingredientes das páginas de produto, lidas em 17/10/2026. Preço da unidade no site oficial no mesmo dia, sem o cupom."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
+          "alt": "Tabela nutricional do brownie de chocolate da Belive: 124 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
+          "caption": "Brownie de chocolate: 124 kcal e 0 g de açúcares por unidade de 40 g.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-avela.webp",
+          "alt": "Tabela nutricional do brownie proteico de chocolate com avelã da Belive: 144 kcal, 16 g de carboidratos e 0 g de açúcares por porção de 40 g",
+          "caption": "Brownie proteico de chocolate com avelã: 144 kcal e 0 g de açúcares por unidade de 40 g.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9592
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-baunilha.webp",
+          "alt": "Tabela nutricional do bolinho de baunilha da Belive: 128 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
+          "caption": "Bolinho de baunilha: 128 kcal e 0 g de açúcares por unidade de 40 g.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9592
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-cookie-chocolate-avela.webp",
+          "alt": "Tabela nutricional do cookie de chocolate e avelã da Belive: 113 kcal, 17 g de carboidratos e 0 g de açúcares por porção de 30 g",
+          "caption": "Cookie de chocolate e avelã: 113 kcal e 0 g de açúcares por porção de 30 g.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9592
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-bolo-chocolate.webp",
+          "alt": "Tabela nutricional do bolo de chocolate da Belive: 182 kcal, 24 g de carboidratos e 0 g de açúcares por porção de 60 g",
+          "caption": "Bolo de chocolate: 182 kcal e 0 g de açúcares por porção de 60 g (2 fatias).",
+          "objectFit": "contain",
+          "aspectRatio": 0.9592
+        }
       ],
       "comparisonTable": {
         "headers": [
@@ -196,7 +247,14 @@
       "paragraphs": [
         "A Belive vende no site oficial, belivebefree.com.br. O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive).",
         "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. Quem quer saber mais sobre a loja antes de comprar pode ler [se a Belive é confiável](/reviews/belive-e-confiavel)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+        "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+        "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces sem açúcar.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Perguntas frequentes",

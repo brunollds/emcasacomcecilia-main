@@ -48,6 +48,22 @@
       "paragraphs": [
         "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
         "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
+          "alt": "Aba Tabela Nutricional da página do brownie de chocolate da Belive, com 124 kcal, 18 g de carboidratos, 1,8 g de proteínas e 5 g de fibras por porção de 40 g",
+          "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp",
+          "alt": "Aba Tabela Nutricional da página do brownie proteico Double Chocolate da Belive, com 122 kcal, 13 g de carboidratos, 6 g de proteínas e 5,2 g de fibras por porção de 40 g",
+          "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        }
       ]
     },
     {
@@ -140,6 +156,13 @@
       "paragraphs": [
         "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
+        "alt": "Página do Kit 10 Brownies de Chocolate da Belive com a caixa de brownies, o preço riscado de R$ 69,70, R$ 61,58 no Pix e R$ 64,82 em até 2x",
+        "caption": "O kit de 10 brownies de chocolate no site da Belive: R$ 61,58 no Pix ou R$ 64,82 no cartão, o preço da tabela. Print de 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9417
+      },
       "comparisonTable": {
         "headers": [
           "Sabor",
@@ -237,6 +260,13 @@
         "Os oito trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado naturalmente com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. Os quatro proteicos também levam sorbitol e glicerol como umectantes. Os comuns levam glicerol.",
         "Os alérgicos, pela lista de cada página:"
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp",
+        "alt": "Aba Ingredientes da página do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+        "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 3.0151
+      },
       "bullets": [
         "Todos os oito: contêm ovo e derivados de soja. Nenhum contém glúten.",
         "Chocolate com Nozes: contém nozes. Pode conter amêndoa, amendoim, avelã, castanha-de-caju, castanha-do-pará e pistache.",

@@ -65,6 +65,13 @@
       "paragraphs": [
         "A página Black November, em belivebefree.com.br, mostrava em 16/10/2026 o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
+        "alt": "Página Black November do site da Belive, com o logo e a faixa Receba ofertas exclusivas na Black November da Belive",
+        "caption": "A página Black November da Belive em 19/10/2026: o convite para receber as ofertas, sem preços nem datas.",
+        "objectFit": "contain",
+        "aspectRatio": 3.3333
+      },
       "postParagraphs": [
         "A loja não divulgou datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.",
         "Em 16/10/2026, a busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
@@ -76,6 +83,13 @@
       "paragraphs": [
         "Estes são os preços que a página de cada produto mostrava em 16/10/2026. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
       ],
+      "image": {
+        "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+        "alt": "Embalagens de cinco doces sem açúcar da Belive: bolinho de baunilha, brownie de chocolate, brownie proteico de chocolate com avelã, pão de mel e bolo de chocolate",
+        "caption": "Bolinho, brownies, pão de mel e bolo sem açúcar da Belive, alguns dos produtos da tabela.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preços de página dos produtos da Belive em 16 de outubro de 2026, com Pix, MAUAD e os dois somados.",
         "headers": [
@@ -155,6 +169,13 @@
         "O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
         "No teste de checkout de 16/10/2026, o carrinho tinha quatro combos e kits com selo de oferta:"
       ],
+      "image": {
+        "src": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
+        "alt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo",
+        "caption": "O resumo do pedido do teste de 16/10/2026: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.2403
+      },
       "comparisonTable": {
         "caption": "Teste de checkout na Belive em 16 de outubro de 2026, com quatro combos e kits em oferta.",
         "headers": [
@@ -189,6 +210,13 @@
       "paragraphs": [
         "O frete grátis depende do estado. Segundo a página de regras de frete, o valor mínimo do pedido é:"
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+        "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a faixa de frete grátis e a vitrine de doces, snacks e pães sem glúten",
+        "caption": "A página inicial da Belive em 16/10/2026, com a faixa do frete grátis acima de R$ 170 e dos 5% extra no Pix.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "SP, MG, RJ, DF e GO: a partir de R$ 170.",
         "Sul: a partir de R$ 250.",
