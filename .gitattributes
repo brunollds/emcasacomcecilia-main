@@ -139,14 +139,17 @@ public/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg -text export-ig
 public/images/recipes/sopas/sopa.jpg -text export-ignore
 public/images/recipes/tortas/torta.jpg -text export-ignore
 public/images/reviews/airfryer-10-fatos-surpreendentes.jpg -text export-ignore
+public/images/reviews/airfryer-linha-do-tempo.webp -text export-ignore
 public/images/reviews/airfryer-uma-breve-historia.jpg -text export-ignore
 public/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp -text export-ignore
 public/images/reviews/belive/belive-e-confiavel-home.webp -text export-ignore
 public/images/reviews/belive/belive-e-confiavel-rodape-cnpj.webp -text export-ignore
 public/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp -text export-ignore
 public/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp -text export-ignore
+public/images/reviews/belive/belive-ingredientes-pao-de-mel-proteico.webp -text export-ignore
 public/images/reviews/belive/belive-ingredientes-pao-de-mel.webp -text export-ignore
 public/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp -text export-ignore
+public/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp -text export-ignore
 public/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp -text export-ignore
 public/images/reviews/belive/belive-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/belive/belive-reclame-aqui-principais-problemas.webp -text export-ignore
@@ -158,6 +161,7 @@ public/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp -t
 public/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-avela.webp -text export-ignore
 public/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp -text export-ignore
 public/images/reviews/belive/belive-tabela-nutricional-cookie-chocolate-avela.webp -text export-ignore
+public/images/reviews/belive/belive-tabela-nutricional-pao-de-mel-proteico.webp -text export-ignore
 public/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp -text export-ignore
 public/images/reviews/belive/black-friday-belive-black-november.webp -text export-ignore
 public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp -text export-ignore
@@ -169,6 +173,7 @@ public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp -text ex
 public/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp -text export-ignore
 public/images/reviews/black-skull/black-friday-black-skull-home-whey.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-confiavel-capa.webp -text export-ignore
+public/images/reviews/black-skull/black-skull-creator-refil-500g-pagina-2026-10-19.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp -text export-ignore
@@ -183,6 +188,10 @@ public/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp -tex
 public/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-rodape-cnpj.webp -text export-ignore
+public/images/reviews/black-skull/black-skull-whey-100-hd-1-8kg-pagina-2026-10-19.webp -text export-ignore
+public/images/reviews/black-skull/black-skull-whey-80-hd-refil-pagina-2026-10-19.webp -text export-ignore
+public/images/reviews/black-skull/growth-creatina-250g-pagina-2026-10-19.webp -text export-ignore
+public/images/reviews/black-skull/growth-whey-concentrado-1kg-pagina-2026-10-19.webp -text export-ignore
 public/images/reviews/clea-store/black-friday-clea-store-bodies.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-aniversario-14-anos-capa.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-aniversario-14-anos-carrinho.webp -text export-ignore

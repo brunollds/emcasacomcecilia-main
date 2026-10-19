@@ -26,7 +26,14 @@
         "A história remonta ao início do século XX, quando um cozinheiro elétrico de pressão foi inventado em 1904. Essa invenção não teve grande impacto na época, e a ideia de fritar com ar quente ficou adormecida por muitos anos.",
         "Na década de 1940, William L. Maxson criou o Whirlwind Oven, que utilizava tecnologia de ar forçado para cozinhar alimentos rapidamente. Apesar de inovadora, essa invenção também não chegou ao mercado de massa.",
         "Foi somente em 2005 que o inventor holandês Fred van der Weij começou a desenvolver o conceito moderno da air fryer. Ele buscava uma maneira de fritar batatas de forma mais saudável, sem a necessidade de imergi-las em óleo. Após três anos de testes e refinamentos, Van der Weij apresentou seu protótipo à Philips, que lançou a primeira air fryer comercial em 2010 durante a Internationale Funkausstellung, em Berlim."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/airfryer-linha-do-tempo.webp",
+        "alt": "Linha do tempo da air fryer: anos 1940, Whirlwind Oven de William L. Maxson; 2005, Fred van der Weij começa o projeto; três anos depois, o protótipo vai à Philips; 2010, lançamento na IFA de Berlim; depois de 2010, Cosori, Ninja e Cuisinart; pandemia, mais gente cozinhando em casa",
+        "caption": "Do Whirlwind Oven dos anos 1940 à air fryer da pandemia, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "A Revolução das Air Fryers",
@@ -34,7 +41,14 @@
         "O modelo da Philips se destacou por seu design inovador e pela tecnologia chamada Rapid Air, que combina radiação de calor próximo e circulação aumentada de ar para cozinhar os alimentos de maneira uniforme e crocante.",
         "Desde seu lançamento, as air fryers ganharam popularidade rapidamente, especialmente entre consumidores que buscavam opções mais saudáveis para frituras tradicionais. Com o aumento da conscientização sobre saúde e nutrição, elas se tornaram uma resposta às preocupações sobre o consumo excessivo de óleo.",
         "A promessa de fritar alimentos com até 80% menos gordura atraiu muitos lares, tornando a air fryer um item indispensável na cozinha moderna."
-      ]
+      ],
+      "image": {
+        "src": "/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg",
+        "alt": "Prato de batatas rústicas douradas e crocantes feitas na air fryer, com um molho ao lado",
+        "caption": "Batata rústica crocante, o tipo de fritura que levou Van der Weij a criar a air fryer.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8056
+      }
     },
     {
       "heading": "Características Revolucionárias",
@@ -51,7 +65,14 @@
         "Inicialmente vista com certa desconfiança, a air fryer rapidamente ganhou popularidade, especialmente entre pessoas preocupadas com saúde, entusiastas de culinária e famílias buscando praticidade.",
         "Desde 2010, as air fryers evoluíram significativamente. Marcas como Cosori, Ninja e Cuisinart começaram a lançar suas próprias versões do aparelho, incorporando funcionalidades adicionais como telas digitais e múltiplas opções de cozimento.",
         "A pandemia também impulsionou o uso das air fryers, com muitas pessoas cozinhando mais em casa. A versatilidade do aparelho permite não apenas fritar, mas também assar, grelhar e até preparar sobremesas, tornando-o um verdadeiro coringa na cozinha."
-      ]
+      ],
+      "image": {
+        "src": "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
+        "alt": "Bolo de chocolate de caneca feito na air fryer, com cobertura de chantili e raspas de chocolate, numa caneca verde",
+        "caption": "Além de fritar: um bolo de caneca assado na air fryer.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8056
+      }
     },
     {
       "heading": "A Evolução da Tecnologia",
@@ -68,7 +89,14 @@
         "A air fryer não é apenas uma moda passageira; ela representa uma mudança significativa nas práticas culinárias contemporâneas. Com sua capacidade de oferecer refeições saborosas e crocantes com menos gordura, esse eletrodoméstico se consolidou como um aliado na busca por uma alimentação mais saudável.",
         "À medida que novas tecnologias continuam a surgir, é provável que as air fryers continuem a evoluir e a desempenhar um papel central nas cozinhas ao redor do mundo.",
         "Ficou com aquele gostinho de quero mais? Que tal conhecer alguns fatos inusitados e curiosos sobre esse aparelho?"
-      ]
+      ],
+      "image": {
+        "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
+        "alt": "Cesto de arame com chips de batata-doce crocantes feitos na air fryer",
+        "caption": "Chips de batata-doce sequinhos, com pouco óleo.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8056
+      }
     }
   ]
 }
