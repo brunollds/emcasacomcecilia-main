@@ -123,6 +123,13 @@
       "paragraphs": [
         "Das hängt von der Größe des Warenkorbs ab:"
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "Stufendiagramm des Rabatts nach Bestellwert bei YesStyle: 0% bis US$ 79, 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199, mit einer gestrichelten Linie bei 15% ab US$ 0",
+        "caption": "Die grüne Linie ist der Staffelgutschein: 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199. Die gestrichelte Linie zeigt die Tage mit 15% ohne Mindestbestellwert. Illustration: Em Casa com Cecília.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Warenkorb ab US$ 199:** Der Staffelgutschein gibt schon an jedem Tag 15%, also den gleichen Prozentsatz wie an den Tagen ohne Mindestbestellwert. Was sich kurz vor dem Freitag ändern kann, ist der Aktionspreis der einzelnen Produkte, nicht der Gutschein.",
         "**Warenkorb zwischen US$ 79 und US$ 199:** Der Staffelgutschein gibt 8% oder 10%. An den Tagen ohne Mindestbestellwert bekommt derselbe Warenkorb 15%.",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "Der Checkout von YesStyle hat zwei Felder. Der Gutschein des Tages kommt in Coupon Code, der CECILIA010 in Reward Code. Die Regeln aller Black-Friday-Gutscheine von 2024 und 2025 besagen, dass sie zusammen mit Aktionspreisen, mit den Reward Codes und mit den YS Points gelten, den eigenen Punkten des Shops."
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "Fenster Enter Code an der YesStyle-Kasse, mit einem Gutschein im Feld Coupon Code und CECILIA010 im Feld Influencer / Rewards Code",
+        "caption": "Die beiden Felder an der Kasse: oben der Gutschein des Tages im Feld Coupon Code und CECILIA010 im Feld Influencer / Rewards Code.",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "Melden Sie sich an, bevor Sie den Warenkorb füllen: Die Gutscheine gelten nur für Mitglieder.",
         "Füllen Sie den Warenkorb und prüfen Sie, ob er die gewünschte Schwelle überschreitet (US$ 79, 149 oder 199).",
@@ -181,12 +195,42 @@
       "heading": "Versand und Zoll",
       "paragraphs": [
         "Die Versandkosten und die geschätzte Lieferzeit stehen im Checkout, und der Gutschein senkt die Versandkosten nicht. Wenn beim Eingang des Pakets Zollgebühren und Einfuhrabgaben anfallen, erstattet YesStyle sie bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben. Was der Shop für Deutschland, Österreich und die Schweiz veröffentlicht und wie Sie die Erstattung beantragen, steht im [YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "Warenkorb von YesStyle neben dem Checkout-Feld, mit den Versandoptionen, den Code-Feldern und der Bestellübersicht",
+        "caption": "Warenkorb und Checkout: Versandoptionen, Kosten und das geschätzte Lieferdatum erscheinen, bevor Sie bezahlen.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "Eine Idee für den Warenkorb: die Abib-Routine",
       "paragraphs": [
         "Im Video am Ende dieses Artikels, das auf Portugiesisch ist, testet Cecília drei Produkte der koreanischen Marke Abib, die sie von YesStyle bekommen hat: das Hydrogel-Pad für die Augen, die Booster-Creme mit PDRN und die Lippenmaske. Es ist eine kurze Routine für den Einstieg in die koreanische Hautpflege und ein guter Ausgangspunkt für Ihren Black-Friday-Warenkorb."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "Cecília lächelt und hält den Tiegel mit dem Hydrogel-Augenpad von Abib und ein rosa Pad",
+          "caption": "Das Hydrogel-Augenpad von Abib, im Video von Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "Cecília hält die weiße Tube der Booster-Creme mit PDRN von Abib nahe an ihrem Gesicht",
+          "caption": "Die Booster-Creme mit PDRN von Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "Cecília spitzt die Lippen und hält den rosa Tiegel der Lippenmaske von Abib",
+          "caption": "Die Lippenmaske von Abib.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {

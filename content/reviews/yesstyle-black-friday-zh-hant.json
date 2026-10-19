@@ -123,6 +123,13 @@
       "paragraphs": [
         "要看購物車的金額："
       ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
+        "alt": "YesStyle 依訂單金額的折扣階梯圖：US$ 79 以下為 0%，滿 US$ 79 為 8%，滿 US$ 149 為 10%，滿 US$ 199 為 15%，另有一條虛線從 US$ 0 起即為 15%",
+        "caption": "綠線是滿額分級優惠券：滿 US$ 79 享 8%，滿 US$ 149 享 10%，滿 US$ 199 享 15%。虛線是無最低消費、享 15% 的日子。插圖由 Em Casa com Cecília 製作。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**購物車 US$199 以上：** 滿額分級優惠券任何一天都是 15%，與無最低消費的日子相同。接近星期五時可能變動的是每件商品的促銷價，不是優惠券。",
         "**購物車 US$79 到 US$199：** 滿額分級優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車可拿到 15%。",
@@ -134,6 +141,13 @@
       "paragraphs": [
         "YesStyle 的結帳頁有兩個欄位。CECILIA010 填在 Reward Code，當天的優惠券填在 Coupon Code。2024年與 2025年黑色星期五優惠券的規則都寫明，它們可與促銷價、Reward Code 以及 YS Points（YesStyle 自己的點數）一起使用。"
       ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "alt": "YesStyle 結帳的 Enter Code 視窗：Coupon Code 欄位裡是優惠券，Influencer / Rewards Code 欄位裡是 CECILIA010",
+        "caption": "結帳的兩個欄位：上面的 Coupon Code 填當天的優惠券，Influencer / Rewards Code 欄位填獎勵碼 CECILIA010。",
+        "objectFit": "contain",
+        "aspectRatio": 1.5643
+      },
       "bullets": [
         "先登入帳號，再組購物車：優惠券只提供給會員。",
         "組好購物車後，確認金額已超過你要的門檻（US$79、US$149 或 US$199）。",
@@ -181,12 +195,42 @@
       "heading": "配送與關稅",
       "paragraphs": [
         "運費與預計送達時間會在結帳時顯示，優惠券不折抵運費。如果包裹到達時被課徵關稅和手續費，YesStyle 會對低於 US$1,000 的訂單，以 YesStyle Credit 退還這些費用。YesStyle 針對台灣、香港與澳門公布的內容，以及如何申請退款，都在 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)裡。"
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "alt": "YesStyle 購物袋旁的結帳面板，有配送方式、代碼欄位和訂單摘要",
+        "caption": "購物袋與結帳：付款前就會顯示配送方式、運費和預計送達日期。",
+        "objectFit": "contain",
+        "aspectRatio": 2.0367
+      }
     },
     {
       "heading": "購物車範例：Abib 的護膚流程",
       "paragraphs": [
         "本文最後的影片為葡萄牙語。西西莉亞測試了她從 YesStyle 收到的三件韓國品牌 Abib 產品：眼部水凝膠貼片、含 PDRN 的精華乳霜，以及唇膜。這是適合剛開始接觸韓式護膚的人的簡短流程，也是組合黑色星期五購物車的好起點。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "alt": "西西莉亞微笑著，手裡拿著 Abib 水凝膠眼貼的罐子和一片粉色眼貼",
+          "caption": "Abib 的水凝膠眼貼，出現在西西莉亞的影片中。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "alt": "西西莉亞靠近臉部，拿著 Abib PDRN 精華乳霜的白色軟管",
+          "caption": "Abib 的 PDRN 精華乳霜。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        {
+          "src": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "alt": "西西莉亞嘟著嘴，拿著 Abib 唇膜的粉色罐子",
+          "caption": "Abib 的唇膜。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ],
       "links": [
         {

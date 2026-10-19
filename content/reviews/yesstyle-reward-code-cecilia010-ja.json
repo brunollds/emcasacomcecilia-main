@@ -45,6 +45,7 @@
         "CECILIA010は通常のクーポンではなくYesStyleのリワードコードです。Reward Code専用欄に入力すると最大5%オフ（初回購入 5% / リピーター 2%）の特典が適用されます。",
         "対象プロモーションコードはCoupon Code欄に別途入力できるため、決済時に両方の割引が適用されているか確認してください。"
       ],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "bullets": [
         "特典：最大5%（初回購入 5% / リピーター 2%）",
         "入力欄：Reward Code",
@@ -56,6 +57,7 @@
       "paragraphs": [
         "YesStyleで商品をカートに入れ、チェックアウト画面へ進みます。Reward Code欄にCECILIA010を入力し、適用ボタンを押します。"
       ],
+      "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "bullets": [
         "Reward Code欄にCECILIA010を入力",
         "Coupon Code欄には別途対象プロモーションコードを入力",
@@ -66,7 +68,8 @@
       "heading": "ご注文前の注意事項",
       "paragraphs": [
         "配送、税金、割引適用範囲は配送先およびキャンペーンの条件により異なる場合があります。お支払い前に最終合計金額をご確認ください。"
-      ]
+      ],
+      "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp"
     },
     {
       "heading": "よくある質問",
