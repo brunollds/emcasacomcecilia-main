@@ -1789,7 +1789,7 @@ export const COUPONS: Coupon[] = [
       'Indicação para quem vai pôr um site no ar: pelo link, a Hostinger mostra os planos com 20% de desconto no primeiro período, sem cupom para digitar. O Em Casa com Cecília roda na Hostinger.',
     metaTitle: 'Desconto Hostinger: 20% OFF pelo link de indicação',
     metaDescription:
-      'Desconto Hostinger de 20% no primeiro período de qualquer plano novo, já aplicado pelo link de indicação, sem cupom. Veja o que vale, a renovação e o que não soma.',
+      'Desconto Hostinger de 20% no primeiro período de qualquer plano novo, já aplicado pelo link de indicação, sem cupom. Veja a renovação e o que não soma.',
     eligibleCategories: 'Primeiro período de qualquer plano novo da Hostinger, seja qual for o produto',
     validity: 'Indicação ativa enquanto o programa de indicação da Hostinger estiver vigente',
     reusable: 'Não se aplica: o desconto vem do link, não de um cupom',

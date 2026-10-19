@@ -114,13 +114,27 @@ for (const locale of TRANSLATED_LOCALES) {
 // test-coupon-offer-modes). O código vai no link e nenhum texto manda digitá-lo.
 const HOSTINGER_GLOBAL_LINK = 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS';
 assert.ok(translatedSlugs.includes('hostinger'), 'Hostinger deve ter páginas em outros idiomas');
+// Como cada idioma diz "primeiro período", no aviso e nas regras.
+const HOSTINGER_FIRST_TERM: Record<TranslatedLocale, string> = {
+  en: 'first term',
+  es: 'primer período',
+  fr: 'première période',
+  de: 'erste Laufzeit',
+  it: 'primo periodo',
+  ko: '첫 이용 기간',
+  ja: '初回契約期間',
+  'zh-hant': '首期',
+  'zh-hans': '首期',
+};
 for (const locale of TRANSLATED_LOCALES) {
   const hostinger = getLocalizedCoupon('hostinger', locale);
   assert.ok(hostinger);
   assert.equal(hostinger.offerUrl, HOSTINGER_GLOBAL_LINK, `hostinger/${locale}: link principal não é o global`);
   assert.equal(hostinger.referral, undefined, `hostinger/${locale}: indicação sem código de indicação na página`);
   assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: indicação sem campanhas`);
-  assert.match(hostinger.linkNote ?? '', /20/, `hostinger/${locale}: o aviso não diz que os 20% são só do primeiro período`);
+  for (const [field, text] of [['linkNote', hostinger.linkNote ?? ''], ['eligibleCategories', hostinger.eligibleCategories]]) {
+    assert.ok(text.toLowerCase().includes(HOSTINGER_FIRST_TERM[locale].toLowerCase()), `hostinger/${locale}: ${field} não diz que os 20% são só do primeiro período`);
+  }
   for (const [path, text] of leaves(hostinger)) {
     if (!isUrl(text)) assert.ok(!text.includes('SONARDEOFERTAS'), `hostinger/${locale}: código no texto de ${path}`);
   }

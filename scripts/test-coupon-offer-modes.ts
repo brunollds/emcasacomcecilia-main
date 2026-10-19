@@ -158,6 +158,8 @@ assert.equal(hostinger.hubCategory, 'diversos');
 assert.equal(hostinger.offerUrl, 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS');
 assert.match(hostinger.combinable, /^Não soma com outros cupons/, 'Hostinger: a exceção à soma aparece no texto');
 assert.match(hostinger.linkNote ?? '', /primeiro período/, 'Hostinger: o aviso diz que a renovação não tem o desconto');
+const hostingerTexts = JSON.stringify({ ...hostinger, offerUrl: undefined });
+assert.ok(!hostingerTexts.includes('SONARDEOFERTAS'), 'Hostinger: o código só vai no link, nunca no texto da página');
 
 // "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
 // YesStyle fica de fora porque o código é de recompensa e a página dela é outra.
