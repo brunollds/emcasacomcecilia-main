@@ -1,0 +1,217 @@
+{
+  "id": 478,
+  "slug": "hostinger-e-affidabile",
+  "locale": "it",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare",
+  "seoTitle": "Hostinger è affidabile? Rimborso e rinnovo",
+  "type": "Editoriale",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger è affidabile? Chi addebita, il rimborso di 30 giorni e cosa non copre, il rinnovo automatico e cosa controllare prima di pagare.",
+  "metaDescription": "Hostinger è affidabile? Scopri chi addebita, il rimborso di 30 giorni con le sue eccezioni, il rinnovo automatico a prezzo nuovo e cosa verificare prima di abbonarti.",
+  "publishedAt": "19 ottobre 2026",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "Scudo con il numero 30 accanto a un calendario, in bianco su sfondo viola",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Hostinger è una grande azienda, con regole pubbliche su rimborso e rinnovo. L'hosting ha 30 giorni per chiedere la restituzione del denaro e, secondo la nostra esperienza, il servizio e l'assistenza funzionano. Il punto critico non è l'affidabilità dell'azienda, ma il rinnovo: è attivo di default e il prezzo del rinnovo può essere diverso.",
+        "Prima di pagare, controlla tre cose: cosa copre il rimborso, quando scatta il rinnovo e quale società compare come addebitante. Le sezioni seguenti spiegano ciascuna."
+      ]
+    },
+    {
+      "heading": "Chi c'è dietro Hostinger",
+      "paragraphs": [
+        "I termini di servizio dicono che la società contraente dipende dal paese del cliente. Prima di pagare, controlla il nome che compare al checkout e in fattura."
+      ]
+    },
+    {
+      "heading": "Rimborso: 30 giorni, con eccezioni",
+      "paragraphs": [
+        "La politica di rimborso di Hostinger (versione del 15 ottobre 2026, letta il 19 ottobre 2026) dà 30 giorni per chiedere la restituzione del denaro, a partire dalla data della transazione. Secondo la politica stessa, anche il rinnovo è una transazione: ogni addebito fa ripartire il termine. La tabella mostra cosa elenca:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Prodotto",
+          "Rimborso"
+        ],
+        "rows": [
+          [
+            "Hosting (tutti i piani, tranne il primo pagamento dopo la prova gratuita)",
+            "Sì, entro 30 giorni"
+          ],
+          [
+            "VPS (KVM)",
+            "Sì, entro 30 giorni, e solo se l'ultimo rimborso VPS è stato richiesto più di 180 giorni fa"
+          ],
+          [
+            "Email Hostinger, certificato SSL, backup giornalieri",
+            "Sì, entro 30 giorni"
+          ],
+          [
+            "Nuova registrazione di dominio",
+            "Solo entro 96 ore"
+          ],
+          [
+            "Registrazione .br (.com.br, .net.br)",
+            "Solo entro 168 ore"
+          ],
+          [
+            "Rinnovo del dominio",
+            "No"
+          ],
+          [
+            "Trasferimento del dominio, quando va a buon fine",
+            "No"
+          ],
+          [
+            "Upgrade di VPS KVM e spazio extra per l'email",
+            "No"
+          ],
+          [
+            "Servizi di supporto a pagamento",
+            "No"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura (che inizia con HBR) e il motivo. L'importo torna sul mezzo di pagamento usato. Se scegli il saldo del conto, il rimborso diventa credito e non torna sulla carta. La politica avvisa anche che rifiuta richieste ripetute o in massa."
+      ]
+    },
+    {
+      "heading": "Rinnovo automatico e prezzo nuovo",
+      "paragraphs": [
+        "Chi acquista entra nel rinnovo automatico, perché è la configurazione predefinita. L'addebito avviene da 30 a 0 giorni prima della fine del periodo, sulla carta impostata come predefinita, al prezzo in vigore del piano alla data. I termini dicono che questo valore può essere maggiore o minore di quello del primo periodo, e che la variazione di prezzo vale al rinnovo, senza preavviso.",
+        "Hostinger può avvisare via email prima dell'addebito, ma i termini dicono che non ha quest'obbligo. I clienti con un piano mensile, per esempio, non vengono avvisati. Per disattivarlo, accedi all'account e disattiva il rinnovo in qualsiasi momento. Se lo disattivi e non rinnovi a mano prima della fine del periodo, il servizio viene chiuso.",
+        "Nel Reclame Aqui, il sito brasiliano di reclami pubblici, gli addebiti indebiti sono il problema più citato, e il caso è trattato nell'[articolo sulla reputazione di Hostinger](/it/reviews/hostinger-recensioni-trustpilot). La regola del codice di invito sul rinnovo, con quello che succede allo sconto, è nella [guida al codice di invito](/it/reviews/coupon-hostinger-codice-invito)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-it.webp",
+          "alt": "Linea del tempo: acquisto, 30 giorni per il rimborso, addebito da 30 a 0 giorni prima della fine del periodo e rinnovo al prezzo in vigore",
+          "caption": "Linea del tempo dall'acquisto al rinnovo su Hostinger. Disegno originale",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "Interruzioni e garanzia di disponibilità",
+      "paragraphs": [
+        "I termini dicono che il sito può andare offline «di tanto in tanto», per manutenzione o per fattori fuori dal controllo dell'azienda, e che Hostinger non se ne assume la responsabilità. La tabella dei piani della pagina prezzi promette «uptime garantito al 99,9%» (letta il 19 ottobre 2026). È ciò che Hostinger dichiara; l'impegno di disponibilità, quando esiste, si trova nel documento di ciascun servizio.",
+        "Se il tuo sito non può restare offline, leggi il documento del tuo piano prima di pagare. La frase in pagina non basta."
+      ]
+    },
+    {
+      "heading": "Reclami e recensioni",
+      "paragraphs": [
+        "Su Trustpilot Hostinger ha un punteggio di 4,6, ma deriva da recensioni che l'azienda stessa invita i clienti a lasciare. I numeri completi, con ciò che non mostrano, sono nell'[articolo sulla reputazione di Hostinger](/it/reviews/hostinger-recensioni-trustpilot)."
+      ]
+    },
+    {
+      "heading": "Assistenza",
+      "paragraphs": [
+        "I ticket, compresi quelli per i rimborsi, si aprono dal pulsante in basso a destra del sito."
+      ]
+    },
+    {
+      "heading": "La nostra esperienza",
+      "paragraphs": [
+        "Em Casa com Cecília gira su Hostinger. Bruno, che firma anche questo testo, è cliente dal 2024, con più di 24 mesi di contratti: hosting Business, un VPS KVM 2, email Business e domini, tutti con rinnovo automatico. Non ha mai visto il servizio andare giù e, ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto l'agente IA.",
+        "È un'esperienza, non una garanzia. Non dice cosa succederà con il tuo piano, né con un piano a un altro prezzo o per un altro periodo."
+      ]
+    },
+    {
+      "heading": "Quando Hostinger va bene, e quando no",
+      "paragraphs": [
+        "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provarlo. Se il sito non può restare offline, la garanzia deve essere scritta nel piano, e la pagina pubblica non riporta il numero. Se il tuo dubbio riguarda il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) riporta date e regole di ogni offerta."
+      ]
+    },
+    {
+      "heading": "Dove vedere i piani",
+      "paragraphs": [
+        "I 20% dell'invito valgono solo nel primo periodo di un piano nuovo e non si sommano ad altri coupon. Se ha senso per il tuo sito, i piani con il link sono nella [pagina di Hostinger su questo sito](/it/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "**Hostinger è affidabile?** È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che richiede attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
+        "**Hostinger offre rimborsi?** Sì, di 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo del dominio e i servizi di supporto a pagamento non vengono rimborsati.",
+        "**Il rinnovo di Hostinger è automatico?** Sì, di default. Puoi disattivarlo dall'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
+        "**Chi addebita su Hostinger?** Dipende dal paese. La società contraente cambia in base alla tua regione: controlla il nome al checkout e in fattura.",
+        "**Serve un coupon Hostinger?** No. Il link di invito dà già il 20% sul primo periodo di un piano nuovo, e questo sconto non si somma ad altri coupon."
+      ]
+    },
+    {
+      "heading": "Checklist prima di pagare",
+      "bullets": [
+        "Leggi la riga del tuo prodotto nella tabella dei rimborsi.",
+        "Controlla il prezzo del rinnovo, non solo quello del primo periodo.",
+        "Disattiva il rinnovo automatico subito dopo l'acquisto, se non vuoi che continui.",
+        "Verifica al checkout e in fattura quale società compare come addebitante.",
+        "Cerca la garanzia di disponibilità nel documento del tuo piano."
+      ]
+    },
+    {
+      "heading": "Nota di trasparenza",
+      "paragraphs": [
+        "Questo testo contiene un link di invito di Hostinger. Se ti abboni tramite il link, il programma può generare un credito su Hostinger per Bruno. Rimborso, rinnovo e società provengono dai documenti pubblici di Hostinger, letti il 19 ottobre 2026. L'esperienza è nostra e non si applica automaticamente al tuo piano."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "I 20% valgono solo per il primo periodo e non si sommano ad altri coupon. Guarda i piani tramite il link.",
+    "label": "Vedi i piani di Hostinger",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Questo testo contiene un link di invito di Hostinger, che ospita questo sito. Acquistando tramite il link, Bruno potrebbe ricevere un credito su Hostinger, senza costi extra per te.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-recensioni-trustpilot",
+      "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+    },
+    {
+      "slug": "coupon-hostinger-codice-invito",
+      "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+    },
+    {
+      "slug": "black-friday-hostinger-offerte",
+      "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+    }
+  ]
+}

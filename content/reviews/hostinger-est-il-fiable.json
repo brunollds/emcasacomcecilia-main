@@ -1,0 +1,217 @@
+{
+  "id": 476,
+  "slug": "hostinger-est-il-fiable",
+  "locale": "fr",
+  "translationKey": "hostinger-trust-guide",
+  "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire",
+  "seoTitle": "Hostinger est-il fiable ? Remboursement et renouvellement",
+  "type": "Éditorial",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger est-il fiable ? Qui facture, le remboursement de 30 jours et ce qu'il ne couvre pas, le renouvellement automatique et ce qu'il faut vérifier avant de payer.",
+  "metaDescription": "Hostinger est-il fiable ? Qui facture, le remboursement de 30 jours et ses exceptions, le renouvellement automatique au nouveau prix et ce qu'il faut vérifier avant de souscrire.",
+  "publishedAt": "19 octobre 2026",
+  "publishedAtISO": "2026-10-19",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+  "imageAlt": "Bouclier avec le chiffre 30 à côté d'un calendrier, en blanc sur fond violet",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Hostinger est une grande entreprise, avec des règles de remboursement et de renouvellement publiques. L'hébergement bénéficie d'un délai de 30 jours pour demander le remboursement et, selon notre expérience, le service et le support fonctionnent. Le point délicat n'est pas la fiabilité de l'entreprise, c'est le renouvellement : il est activé par défaut, et son prix peut être différent.",
+        "Avant de payer, vérifiez trois choses : ce que couvre le remboursement, quand le renouvellement se déclenche et quelle société apparaît comme facturante. Les sections ci-dessous expliquent chacune de ces points."
+      ]
+    },
+    {
+      "heading": "Qui se cache derrière Hostinger",
+      "paragraphs": [
+        "Les conditions d'utilisation indiquent que la société contractante dépend du pays du client. Dans la pratique, c'est le nom affiché au moment du paiement et sur la facture qui compte : vérifiez les deux avant de payer."
+      ]
+    },
+    {
+      "heading": "Remboursement : 30 jours, avec exceptions",
+      "paragraphs": [
+        "La politique de remboursement de Hostinger (version du 15 octobre 2026, consultée le 19 octobre 2026) accorde 30 jours pour demander le remboursement, à compter de la date de la transaction. Selon la politique elle-même, le renouvellement est aussi une transaction : chaque prélèvement fait repartir le délai. Le tableau présente ce qu'elle énumère :"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produit",
+          "Remboursement"
+        ],
+        "rows": [
+          [
+            "Hébergement (tous les forfaits, sauf le premier paiement après l'essai gratuit)",
+            "Oui, sous 30 jours"
+          ],
+          [
+            "VPS (KVM)",
+            "Oui, sous 30 jours, et seulement si le dernier remboursement de VPS a été demandé il y a plus de 180 jours"
+          ],
+          [
+            "E-mail Hostinger, certificat SSL, sauvegardes quotidiennes",
+            "Oui, sous 30 jours"
+          ],
+          [
+            "Nouvel enregistrement de domaine",
+            "Seulement sous 96 heures"
+          ],
+          [
+            "Enregistrement .br (.com.br, .net.br)",
+            "Seulement sous 168 heures"
+          ],
+          [
+            "Renouvellement de domaine",
+            "Non"
+          ],
+          [
+            "Transfert de domaine, quand il aboutit",
+            "Non"
+          ],
+          [
+            "Mises à niveau de VPS KVM et stockage e-mail supplémentaire",
+            "Non"
+          ],
+          [
+            "Services de support payants",
+            "Non"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Pour demander le remboursement, ouvrez un ticket avec le bouton en bas à droite du site, en indiquant le numéro de facture (qui commence par HBR) et le motif. Le montant revient sur le moyen de paiement utilisé. Si vous choisissez le crédit sur le compte, le remboursement devient un avoir et ne revient pas sur la carte. La politique précise aussi qu'elle refuse les demandes répétées ou en masse."
+      ]
+    },
+    {
+      "heading": "Renouvellement automatique et nouveau prix",
+      "paragraphs": [
+        "Toute personne qui souscrit entre dans le renouvellement automatique, car c'est le réglage par défaut. Le prélèvement intervient entre 30 et 0 jours avant la fin de la période, sur la carte marquée par défaut, au tarif en vigueur du forfait à cette date. Les conditions indiquent que ce tarif peut être plus élevé ou plus bas que celui de la première période, et qu'un changement de prix s'applique au renouvellement, sans préavis.",
+        "Hostinger peut vous prévenir par e-mail avant le prélèvement, mais les conditions précisent qu'elle n'en a pas l'obligation. Les clients avec un forfait d'un mois, par exemple, ne sont pas prévenus. Pour désactiver le renouvellement, connectez-vous à votre compte et désactivez-le à tout moment. Si vous le désactivez et ne renouvelez pas manuellement avant la fin de la période, le service est fermé.",
+        "Sur Reclame Aqui, un site brésilien de plaintes publiques, la facturation est le problème qui revient le plus souvent contre l'entreprise, et le cas est traité dans l'[article sur la réputation de Hostinger](/fr/reviews/hostinger-avis-trustpilot). La règle du lien de parrainage au renouvellement, et ce qui arrive à la réduction, figure dans le [guide du lien de parrainage](/fr/reviews/code-promo-hostinger-parrainage)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-fr.webp",
+          "alt": "Frise chronologique : achat, 30 jours pour le remboursement, prélèvement entre 30 et 0 jours avant la fin de la période et renouvellement au tarif en vigueur",
+          "caption": "Frise chronologique de l'achat au renouvellement chez Hostinger. Dessin maison",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "Panne du site et garantie de disponibilité",
+      "paragraphs": [
+        "Les conditions indiquent que le site peut être hors ligne « de temps en temps », pour maintenance ou pour des raisons indépendantes de la volonté de l'entreprise, et que Hostinger n'en assume aucune responsabilité. Lors de notre lecture de la page tarifs brésilienne, le 19 octobre 2026, le tableau des forfaits annonçait « disponibilité garantie à 99,9 % ». C'est ce qu'annonce Hostinger ; l'engagement de disponibilité, lorsqu'il existe, figure dans le document de chaque service.",
+        "Si votre site ne peut pas être hors ligne, consultez le document de votre forfait avant de payer. La phrase de la page ne suffit pas."
+      ]
+    },
+    {
+      "heading": "Plaintes et avis",
+      "paragraphs": [
+        "Sur Trustpilot, la note de l'entreprise est de 4,6, mais elle provient d'avis que l'entreprise invite elle-même les clients à laisser. Les chiffres complets, et ce qu'ils ne montrent pas, figurent dans l'[article sur la réputation de Hostinger](/fr/reviews/hostinger-avis-trustpilot)."
+      ]
+    },
+    {
+      "heading": "Support",
+      "paragraphs": [
+        "Les tickets, y compris les demandes de remboursement, s'ouvrent avec le bouton de ticket en bas à droite du site."
+      ]
+    },
+    {
+      "heading": "Notre expérience",
+      "paragraphs": [
+        "Em Casa com Cecília fonctionne sur Hostinger. Bruno, qui signe aussi ce texte, est client depuis 2024, avec plus de 24 mois de contrats : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Il n'a jamais vu le service tomber et, chaque fois qu'il a eu un problème, le support l'a résolu, surtout l'agent d'IA.",
+        "C'est une expérience, pas une garantie. Elle ne dit pas ce qui arrivera avec votre forfait, ni avec un forfait d'un autre prix ou pour une autre durée."
+      ]
+    },
+    {
+      "heading": "Quand Hostinger convient, et quand non",
+      "paragraphs": [
+        "Pour un blog, un site personnel ou une petite boutique, Hostinger assure le service avec des règles claires et un délai de 30 jours pour l'essayer. Si votre site ne peut pas être hors ligne, la garantie doit être écrite dans le forfait, et la page publique n'indique pas le chiffre. Si votre question concerne le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) présente les dates et les règles de chaque offre."
+      ]
+    },
+    {
+      "heading": "Où voir les offres",
+      "paragraphs": [
+        "Les 20 % du lien de parrainage ne valent que pour la première période d'un nouveau forfait et ne se cumulent pas avec d'autres codes promo. Si cela a du sens pour votre site, les forfaits avec le lien se trouvent sur la [page Hostinger de ce site](/fr/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "**Hostinger est-il fiable ?** C'est une grande entreprise, avec des politiques de remboursement et de renouvellement publiques. Ce qui mérite attention, c'est le renouvellement automatique et son prix, pas la fiabilité de l'entreprise.",
+        "**Hostinger rembourse-t-il ?** Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
+        "**Le renouvellement Hostinger est-il automatique ?** Oui, par défaut. Vous pouvez le désactiver dans votre compte à tout moment ; sans renouvellement manuel, le service prend fin à la fin de la période.",
+        "**Qui facture chez Hostinger ?** Cela dépend de votre pays. Les conditions indiquent que la société contractante dépend de votre lieu de résidence. Vérifiez le nom affiché au moment du paiement.",
+        "**Faut-il un code promo Hostinger ?** Non. Le lien de parrainage donne déjà 20 % sur la première période d'un nouveau forfait, et cette réduction ne se cumule pas avec d'autres codes promo."
+      ]
+    },
+    {
+      "heading": "Checklist avant de payer",
+      "bullets": [
+        "Lisez la ligne de votre produit dans le tableau de remboursement.",
+        "Regardez le prix du renouvellement, et pas seulement celui de la première période.",
+        "Désactivez le renouvellement automatique juste après l'achat si vous ne voulez pas qu'il continue.",
+        "Vérifiez au moment du paiement et sur la facture quelle société apparaît comme facturante.",
+        "Recherchez la garantie de disponibilité dans le document de votre forfait."
+      ]
+    },
+    {
+      "heading": "Note de transparence",
+      "paragraphs": [
+        "Ce texte contient un lien de parrainage Hostinger. Si vous souscrivez par ce lien, le programme peut donner à Bruno un crédit chez Hostinger. Le remboursement, le renouvellement et les informations sur l'entreprise proviennent des documents publics de Hostinger, consultés le 19 octobre 2026. L'expérience est la nôtre et ne s'applique pas automatiquement à votre forfait."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo. Voyez les forfaits via le lien.",
+    "label": "Voir les forfaits Hostinger",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Ce texte contient un lien de parrainage Hostinger, qui héberge ce site. Un achat par ce lien peut donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-avis-trustpilot",
+      "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres"
+    },
+    {
+      "slug": "code-promo-hostinger-parrainage",
+      "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+    },
+    {
+      "slug": "black-friday-hostinger-offres",
+      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+    }
+  ]
+}

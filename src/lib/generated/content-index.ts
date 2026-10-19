@@ -90779,5 +90779,7718 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
       }
     ]
+  },
+  {
+    "id": 473,
+    "slug": "hostinger-e-confiavel",
+    "locale": "pt",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar",
+    "seoTitle": "Hostinger é confiável? Reembolso e renovação",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o que ele não cobre, a renovação automática e o que checar antes de pagar.",
+    "metaDescription": "Hostinger é confiável? Veja quem cobra, o reembolso de 30 dias e as exceções, a renovação automática com preço novo e o que conferir antes de contratar.",
+    "publishedAt": "19 de outubro de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Escudo com o número 30 ao lado de um calendário, em branco sobre fundo roxo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação. A hospedagem tem 30 dias para pedir o dinheiro de volta, e, na nossa experiência, o serviço e o suporte funcionam. O ponto que pega não é a idoneidade da empresa, é a renovação: ela vem ligada por padrão, e o preço da renovação pode ser outro.",
+          "Antes de pagar, confira três coisas: o que o reembolso cobre, quando a renovação cai e qual empresa aparece como cobradora. As seções abaixo explicam cada uma."
+        ]
+      },
+      {
+        "heading": "Quem está por trás da Hostinger",
+        "paragraphs": [
+          "Os termos de serviço dizem que a empresa contratante depende do país do cliente. Para quem mora no Brasil, pela regra da seção 2 dos termos (revisados em 09/10/2026), a contratante é a Hostinger International Limited, de Chipre. Os mesmos termos citam a Hostinger Brasil Hospedagem de Sites Ltda entre as empresas do grupo que podem fazer a cobrança. Na prática, vale o nome que aparece no checkout e na fatura: confira os dois antes de pagar."
+        ]
+      },
+      {
+        "heading": "Reembolso: 30 dias, com exceções",
+        "paragraphs": [
+          "A política de reembolso da Hostinger (versão de 15/10/2026, lida em 19/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Reembolso"
+          ],
+          "rows": [
+            [
+              "Hospedagem (todos os planos, exceto o primeiro pagamento depois do teste grátis)",
+              "Sim, em 30 dias"
+            ],
+            [
+              "VPS (KVM)",
+              "Sim, em 30 dias, e só se o último reembolso de VPS tiver sido pedido há mais de 180 dias"
+            ],
+            [
+              "E-mail Hostinger, certificado SSL, backups diários",
+              "Sim, em 30 dias"
+            ],
+            [
+              "Novo registro de domínio",
+              "Só em 96 horas"
+            ],
+            [
+              "Registro .br (.com.br, .net.br)",
+              "Só em 168 horas"
+            ],
+            [
+              "Renovação de domínio",
+              "Não"
+            ],
+            [
+              "Transferência de domínio, quando dá certo",
+              "Não"
+            ],
+            [
+              "Upgrades de VPS KVM e armazenamento extra de e-mail",
+              "Não"
+            ],
+            [
+              "Serviços de suporte pagos",
+              "Não"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para pedir, abra um chamado pelo botão no canto inferior direito do site, com o número da fatura (que começa com HBR) e o motivo. O valor volta para o meio de pagamento usado. Se você escolher o saldo da conta, a devolução vira crédito e não volta para o cartão. A política também avisa que recusa pedidos repetidos ou em massa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-politica-reembolso.webp",
+            "alt": "Trecho da política de reembolso da Hostinger com a lista de produtos reembolsáveis em 30 dias",
+            "caption": "Política de reembolso da Hostinger: os produtos que entram no reembolso padrão. Imagem: site da Hostinger, print de 19/10/2026",
+            "objectFit": "contain",
+            "aspectRatio": 1.75
+          }
+        ]
+      },
+      {
+        "heading": "Renovação automática e preço novo",
+        "paragraphs": [
+          "Quem contrata entra na renovação automática, porque ela é a configuração padrão. A cobrança sai de 30 a 0 dias antes do fim do período, no cartão marcado como padrão, pelo valor vigente do plano na data. Os termos dizem que esse valor pode ser maior ou menor que o do primeiro período, e que a mudança de preço vale na renovação, sem aviso prévio.",
+          "A Hostinger pode avisar por e-mail antes da cobrança, mas os termos dizem que ela não tem essa obrigação. Clientes com plano de um mês, por exemplo, não são avisados. Para desligar, entre na conta e desative a renovação a qualquer momento. Se você desligar e não renovar à mão antes do fim do período, o serviço é encerrado.",
+          "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). A regra do código de indicação na renovação, com o que acontece com o desconto, está no [guia do código de indicação](/reviews/cupom-hostinger-indicacao)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-pt.webp",
+            "alt": "Linha do tempo: compra, 30 dias para reembolso, cobrança de 30 a 0 dias antes do fim do período e renovação pelo preço vigente",
+            "caption": "Linha do tempo da compra à renovação na Hostinger. Desenho próprio",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Queda do site e garantia de disponibilidade",
+        "paragraphs": [
+          "Os termos dizem que o site pode ficar fora do ar \"de tempos em tempos\", por manutenção ou por fatores fora do controle da empresa, e que a Hostinger não assume responsabilidade por isso. A tabela de planos da página de preços anuncia \"99,9% de uptime garantido\" (lida em 19/10/2026). É o que a Hostinger anuncia; o compromisso de disponibilidade, quando existe, fica no documento de cada serviço.",
+          "Se o seu site não pode sair do ar, procure o documento do seu plano antes de pagar. A frase da página não basta."
+        ]
+      },
+      {
+        "heading": "Reclamações e avaliações",
+        "paragraphs": [
+          "No Reclame Aqui, a Hostinger tem nota 8,4 nos últimos 12 meses, e no Trustpilot a nota é 4,6, mas essa vem de avaliações que a própria empresa convida os clientes a deixar; os números completos, com o que eles não mostram, estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Suporte",
+        "paragraphs": [
+          "Chamados, inclusive os de reembolso, são abertos pelo botão de chamado no canto inferior direito do site."
+        ]
+      },
+      {
+        "heading": "Nossa experiência",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na Hostinger. O Bruno, que também assina este texto, é cliente desde 2024, com mais de 24 meses de contratos: hospedagem Business, um VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Ele nunca viu o serviço cair, e toda vez que teve um problema, o suporte resolveu, principalmente o agente de IA.",
+          "Isso é uma experiência, não uma garantia. Ela não diz o que vai acontecer com o seu plano, nem com um plano de outro preço ou outro período."
+        ]
+      },
+      {
+        "heading": "Quando a Hostinger serve, e quando não",
+        "paragraphs": [
+          "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, a garantia tem de estar escrita no plano, e a página pública não traz o número. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
+        ]
+      },
+      {
+        "heading": "Onde ver os planos",
+        "paragraphs": [
+          "Os 20% da indicação valem só no primeiro período de um plano novo e não somam com outros cupons. Se faz sentido para o seu site, os planos com o link estão na [página da Hostinger neste site](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**A Hostinger é confiável?** É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
+          "**A Hostinger tem reembolso?** Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
+          "**A renovação da Hostinger é automática?** Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
+          "**Quem cobra na Hostinger?** Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
+          "**Tem cupom Hostinger?** Não é preciso cupom. O link de indicação já dá 20% no primeiro período de um plano novo, e esse desconto não soma com outros cupons."
+        ]
+      },
+      {
+        "heading": "Checklist antes de pagar",
+        "bullets": [
+          "Leia a linha do seu produto na tabela de reembolso.",
+          "Veja o preço da renovação, e não só o do primeiro período.",
+          "Desligue a renovação automática logo depois da compra, se não quiser que ela siga.",
+          "Confira no checkout e na fatura qual empresa aparece como cobradora.",
+          "Procure a garantia de disponibilidade no documento do seu plano."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este texto tem link de indicação da Hostinger. Se você contratar pelo link, o programa pode gerar crédito na Hostinger para o Bruno. Reembolso, renovação e empresa vêm dos documentos públicos da Hostinger, lidos em 19/10/2026. A experiência é nossa e não se aplica automaticamente ao seu plano."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Os 20% valem só no primeiro período e não somam com outros cupons. Veja os planos pelo link.",
+      "label": "Ver os planos da Hostinger",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Este texto tem link de indicação da Hostinger, que hospeda este site. A compra pelo link pode gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-reclame-aqui-nota-reputacao",
+        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "slug": "is-hostinger-legit",
+    "locale": "en",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy",
+    "seoTitle": "Is Hostinger legit? Refunds and renewal",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Is Hostinger legit? Who bills you, the 30-day refund and what it doesn't cover, automatic renewal, and what to check before you pay.",
+    "metaDescription": "Is Hostinger legit? See who bills you, the 30-day refund and its exceptions, automatic renewal at the new price, and what to check before you sign up.",
+    "publishedAt": "October 19, 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Shield with the number 30 next to a calendar, in white on a purple background",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Hostinger is a large company with public refund and renewal rules. Hosting has a 30-day window to ask for your money back, and in our experience the service and support work. The catch is not whether the company is legitimate. It is renewal: it is switched on by default, and the renewal price can be different.",
+          "Before you pay, check three things: what the refund covers, when renewal kicks in, and which company appears as the biller. The sections below explain each one."
+        ]
+      },
+      {
+        "heading": "Who stands behind Hostinger",
+        "paragraphs": [
+          "The terms of service say the contracting company depends on the customer's country. In practice, the name shown at checkout and on your invoice is the one that counts: check both before you pay."
+        ]
+      },
+      {
+        "heading": "Refund: 30 days, with exceptions",
+        "paragraphs": [
+          "Hostinger's refund policy (version of October 15, 2026, read on October 19, 2026) gives you 30 days to ask for your money back, counted from the transaction date. Under the policy itself, renewal is also a transaction, so each charge starts a new window. The table shows what it lists:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Product",
+            "Refund"
+          ],
+          "rows": [
+            [
+              "Hosting (all plans, except the first payment after a free trial)",
+              "Yes, within 30 days"
+            ],
+            [
+              "VPS (KVM)",
+              "Yes, within 30 days, and only if the last VPS refund was requested more than 180 days ago"
+            ],
+            [
+              "Hostinger email, SSL certificate, daily backups",
+              "Yes, within 30 days"
+            ],
+            [
+              "New domain registration",
+              "Only within 96 hours"
+            ],
+            [
+              ".br registration (.com.br, .net.br)",
+              "Only within 168 hours"
+            ],
+            [
+              "Domain renewal",
+              "No"
+            ],
+            [
+              "Domain transfer, when it succeeds",
+              "No"
+            ],
+            [
+              "VPS KVM upgrades and extra email storage",
+              "No"
+            ],
+            [
+              "Paid support services",
+              "No"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "To request it, open a ticket with the button in the bottom-right corner of the site, with the invoice number (which starts with HBR) and the reason. The amount goes back to the payment method you used. If you choose account credit, the refund becomes credit and does not return to the card. The policy also says it refuses repeated or mass requests."
+        ]
+      },
+      {
+        "heading": "Automatic renewal and the new price",
+        "paragraphs": [
+          "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
+          "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and don't renew manually before the period ends, the service is closed.",
+          "On Reclame Aqui, a Brazilian site for public complaints, billing is the issue that comes up most for the company, and the case is in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews). The rule for the referral link at renewal, and what happens to the discount, is in the [referral link guide](/en/reviews/hostinger-coupon-code-referral)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-en.webp",
+            "alt": "Timeline: purchase, 30 days for a refund, charge 30 to 0 days before the end of the period, and renewal at the current price",
+            "caption": "Timeline from purchase to renewal at Hostinger. Our own drawing",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Downtime and the availability guarantee",
+        "paragraphs": [
+          "The terms say the site may go offline “from time to time” for maintenance or for reasons outside the company's control, and that Hostinger takes no responsibility for it. The plans table on the pricing page advertises “99.9% guaranteed uptime” (read on October 19, 2026). That is what Hostinger advertises. The availability commitment, where it exists, is in each service's document.",
+          "If your site cannot go offline, read your plan's document before you pay. The line on the page is not enough."
+        ]
+      },
+      {
+        "heading": "Complaints and reviews",
+        "paragraphs": [
+          "On Trustpilot the company's score is 4.6, but it comes from reviews the company itself invites customers to leave. The full numbers, and what they don't show, are in the [article on Hostinger's reputation](/en/reviews/hostinger-trustpilot-reviews)."
+        ]
+      },
+      {
+        "heading": "Support",
+        "paragraphs": [
+          "Tickets, including refund requests, are opened with the ticket button in the bottom-right corner of the site."
+        ]
+      },
+      {
+        "heading": "Our experience",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger. Bruno, who also signs this text, has been a customer since 2024, with more than 24 months of contracts: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. He has never seen the service go down, and every time he had a problem, support solved it, mainly the AI agent.",
+          "This is one experience, not a guarantee. It does not say what will happen with your plan, or with a plan at a different price or for a different period."
+        ]
+      },
+      {
+        "heading": "When Hostinger fits, and when it doesn't",
+        "paragraphs": [
+          "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and a 30-day window to try it out. If your site cannot go offline, the guarantee has to be written into the plan, and the public page does not show the number. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+        ]
+      },
+      {
+        "heading": "Where to see the plans",
+        "paragraphs": [
+          "The 20% from the referral link applies only to the first period of a new plan and does not stack with other coupons. If it makes sense for your site, the plans with the link are on the [Hostinger page on this site](/en/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "**Is Hostinger legit?** It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+          "**Does Hostinger offer refunds?** Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
+          "**Is Hostinger renewal automatic?** Yes, by default. You can turn it off in your account at any time. Without a manual renewal, the service ends at the end of the period.",
+          "**Who bills you at Hostinger?** It depends on your country. The terms say the contracting company depends on where you live. Check the name shown at checkout.",
+          "**Do I need a Hostinger coupon?** No. The referral link already gives 20% off the first period of a new plan, and that discount does not stack with other coupons."
+        ]
+      },
+      {
+        "heading": "Checklist before you pay",
+        "bullets": [
+          "Check your product's line in the refund table.",
+          "Look at the renewal price, not just the first period's.",
+          "Turn off automatic renewal right after purchase if you don't want it to continue.",
+          "Check at checkout and on your invoice which company appears as the biller.",
+          "Look for the availability guarantee in your plan's document."
+        ]
+      },
+      {
+        "heading": "Transparency note",
+        "paragraphs": [
+          "This text has a Hostinger referral link. If you sign up through the link, the program may give Bruno credit with Hostinger. Refund, renewal and company details come from Hostinger's public documents, read on October 19, 2026. The experience is ours and does not automatically apply to your plan."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "The 20% applies only to the first period and does not stack with other coupons. See the plans through the link.",
+      "label": "See Hostinger plans",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "This text has a Hostinger referral link, and Hostinger hosts this site. Buying through the link may give Bruno credit with Hostinger, at no extra cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-reviews",
+        "title": "Hostinger on Trustpilot: score, complaints and what the numbers show"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon: you don't need one — what the referral link gives"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "slug": "hostinger-es-confiable",
+    "locale": "es",
+    "translationKey": "hostinger-trust-guide",
+    "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar",
+    "seoTitle": "¿Es confiable Hostinger? Reembolso y renovación",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "¿Es confiable Hostinger? Quién cobra, el reembolso de 30 días y lo que no cubre, la renovación automática y qué revisar antes de pagar.",
+    "metaDescription": "¿Es confiable Hostinger? Mira quién cobra, el reembolso de 30 días y sus excepciones, la renovación automática a precio nuevo y qué revisar antes de contratar.",
+    "publishedAt": "19 de octubre de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Escudo con el número 30 junto a un calendario, en blanco sobre fondo morado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación. El hosting tiene 30 días para pedir el dinero de vuelta y, en nuestra experiencia, el servicio y el soporte funcionan. El punto que pesa no es la solvencia de la empresa, es la renovación: viene activada por defecto y su precio puede ser otro.",
+          "Antes de pagar, revisa tres cosas: qué cubre el reembolso, cuándo se activa la renovación y qué empresa aparece como cobradora. Las secciones de abajo explican cada una."
+        ]
+      },
+      {
+        "heading": "Quién está detrás de Hostinger",
+        "paragraphs": [
+          "Los términos del servicio dicen que la empresa contratante depende del país del cliente. En la práctica, vale el nombre que aparece en el checkout y en la factura: revisa los dos antes de pagar."
+        ]
+      },
+      {
+        "heading": "Reembolso: 30 días, con excepciones",
+        "paragraphs": [
+          "La política de reembolso de Hostinger (versión del 15 de octubre de 2026, leída el 19 de octubre de 2026) da 30 días para pedir el dinero de vuelta, contados desde la fecha de la transacción. Según la propia política, la renovación también es una transacción: cada cobro vuelve a empezar el plazo. La tabla muestra lo que ella enumera:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Producto",
+            "Reembolso"
+          ],
+          "rows": [
+            [
+              "Hosting (todos los planes, excepto el primer pago después de la prueba gratuita)",
+              "Sí, en 30 días"
+            ],
+            [
+              "VPS (KVM)",
+              "Sí, en 30 días, y solo si el último reembolso de VPS se pidió hace más de 180 días"
+            ],
+            [
+              "Correo de Hostinger, certificado SSL, copias de seguridad diarias",
+              "Sí, en 30 días"
+            ],
+            [
+              "Registro de dominio nuevo",
+              "Solo en 96 horas"
+            ],
+            [
+              "Registro .br (.com.br, .net.br)",
+              "Solo en 168 horas"
+            ],
+            [
+              "Renovación de dominio",
+              "No"
+            ],
+            [
+              "Transferencia de dominio, cuando sale bien",
+              "No"
+            ],
+            [
+              "Mejoras de VPS KVM y almacenamiento extra de correo",
+              "No"
+            ],
+            [
+              "Servicios de soporte de pago",
+              "No"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para pedirlo, abre un ticket con el botón de la esquina inferior derecha del sitio, con el número de la factura (que empieza con HBR) y el motivo. El importe vuelve al medio de pago usado. Si eliges el saldo de la cuenta, la devolución se convierte en crédito y no vuelve a la tarjeta. La política también avisa que rechaza pedidos repetidos o masivos."
+        ]
+      },
+      {
+        "heading": "Renovación automática y precio nuevo",
+        "paragraphs": [
+          "Quien contrata entra en la renovación automática, porque es la configuración por defecto. El cobro sale entre 30 y 0 días antes del fin del período, con la tarjeta marcada como predeterminada, al precio vigente del plan en esa fecha. Los términos dicen que ese precio puede ser mayor o menor que el del primer período, y que el cambio de precio vale en la renovación, sin aviso previo.",
+          "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan mensual, por ejemplo, no reciben aviso. Para desactivarla, entra en tu cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio se cierra.",
+          "En Reclame Aqui, un sitio brasileño de quejas públicas, el cobro es el problema que más aparece contra la empresa, y el caso está en el [artículo sobre la reputación de Hostinger](/es/reviews/hostinger-opiniones-trustpilot). La regla del enlace de referido en la renovación, y qué pasa con el descuento, está en la [guía del enlace de referido](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-es.webp",
+            "alt": "Línea de tiempo: compra, 30 días para el reembolso, cobro entre 30 y 0 días antes del fin del período y renovación al precio vigente",
+            "caption": "Línea de tiempo de la compra a la renovación en Hostinger. Dibujo propio",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Caída del sitio y garantía de disponibilidad",
+        "paragraphs": [
+          "Los términos dicen que el sitio puede quedar fuera de línea “de vez en cuando”, por mantenimiento o por factores fuera del control de la empresa, y que Hostinger no asume responsabilidad por ello. La tabla de planes de la página de precios anuncia “99,9 % de uptime garantizado” (leída el 19 de octubre de 2026). Eso es lo que anuncia Hostinger; el compromiso de disponibilidad, cuando existe, está en el documento de cada servicio.",
+          "Si tu sitio no puede quedar fuera de línea, busca el documento de tu plan antes de pagar. La frase de la página no basta."
+        ]
+      },
+      {
+        "heading": "Quejas y reseñas",
+        "paragraphs": [
+          "En Trustpilot, la nota de la empresa es 4,6, pero viene de reseñas que la propia empresa invita a los clientes a dejar. Los números completos, y lo que no muestran, están en el [artículo sobre la reputación de Hostinger](/es/reviews/hostinger-opiniones-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Soporte",
+        "paragraphs": [
+          "Los tickets, incluidos los de reembolso, se abren con el botón de tickets de la esquina inferior derecha del sitio."
+        ]
+      },
+      {
+        "heading": "Nuestra experiencia",
+        "paragraphs": [
+          "Em Casa com Cecília funciona sobre Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio, y cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
+          "Esto es una experiencia, no una garantía. No dice lo que va a pasar con tu plan, ni con un plan de otro precio u otro período."
+        ]
+      },
+      {
+        "heading": "Cuándo sirve Hostinger y cuándo no",
+        "paragraphs": [
+          "Para un blog, un sitio personal o una tienda pequeña, Hostinger entrega el servicio con reglas claras y un plazo de 30 días para probarlo. Si tu sitio no puede quedar fuera de línea, la garantía tiene que estar escrita en el plan, y la página pública no muestra el número. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
+        ]
+      },
+      {
+        "heading": "Dónde ver los planes",
+        "paragraphs": [
+          "El 20 % del enlace de referido vale solo para el primer período de un plan nuevo y no se suma a otros cupones. Si tiene sentido para tu sitio, los planes con el enlace están en la [página de Hostinger en este sitio](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "**¿Es confiable Hostinger?** Es una empresa grande, con política de reembolso y de renovación públicas. Lo que pide atención es la renovación automática y su precio, no la solvencia de la empresa.",
+          "**¿Hostinger tiene reembolso?** Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
+          "**¿La renovación de Hostinger es automática?** Sí, por defecto. Puedes desactivarla en tu cuenta en cualquier momento; sin renovación manual, el servicio termina al fin del período.",
+          "**¿Quién cobra en Hostinger?** Depende del país. Los términos dicen que la empresa contratante depende de dónde vives. Revisa el nombre que aparece en el checkout.",
+          "**¿Necesito un cupón de Hostinger?** No. El enlace de referido ya da 20 % en el primer período de un plan nuevo, y ese descuento no se suma a otros cupones."
+        ]
+      },
+      {
+        "heading": "Checklist antes de pagar",
+        "bullets": [
+          "Lee la línea de tu producto en la tabla de reembolso.",
+          "Mira el precio de la renovación, y no solo el del primer período.",
+          "Desactiva la renovación automática justo después de la compra, si no quieres que siga.",
+          "Revisa en el checkout y en la factura qué empresa aparece como cobradora.",
+          "Busca la garantía de disponibilidad en el documento de tu plan."
+        ]
+      },
+      {
+        "heading": "Nota de transparencia",
+        "paragraphs": [
+          "Este texto tiene un enlace de referido de Hostinger. Si contratas a través del enlace, el programa puede generar crédito en Hostinger para Bruno. El reembolso, la renovación y la empresa vienen de los documentos públicos de Hostinger, leídos el 19 de octubre de 2026. La experiencia es nuestra y no se aplica automáticamente a tu plan."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "El 20 % vale solo para el primer período y no se suma a otros cupones. Mira los planes a través del enlace.",
+      "label": "Ver los planes de Hostinger",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Este texto tiene un enlace de referido de Hostinger, que aloja este sitio. Si compras a través del enlace, Bruno puede recibir crédito en Hostinger, sin costo extra para ti.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-opiniones-trustpilot",
+        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran los datos"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger: no necesitas uno, esto es lo que da el enlace de referido"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "slug": "hostinger-est-il-fiable",
+    "locale": "fr",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire",
+    "seoTitle": "Hostinger est-il fiable ? Remboursement et renouvellement",
+    "type": "Éditorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger est-il fiable ? Qui facture, le remboursement de 30 jours et ce qu'il ne couvre pas, le renouvellement automatique et ce qu'il faut vérifier avant de payer.",
+    "metaDescription": "Hostinger est-il fiable ? Qui facture, le remboursement de 30 jours et ses exceptions, le renouvellement automatique au nouveau prix et ce qu'il faut vérifier avant de souscrire.",
+    "publishedAt": "19 octobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Bouclier avec le chiffre 30 à côté d'un calendrier, en blanc sur fond violet",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Hostinger est une grande entreprise, avec des règles de remboursement et de renouvellement publiques. L'hébergement bénéficie d'un délai de 30 jours pour demander le remboursement et, selon notre expérience, le service et le support fonctionnent. Le point délicat n'est pas la fiabilité de l'entreprise, c'est le renouvellement : il est activé par défaut, et son prix peut être différent.",
+          "Avant de payer, vérifiez trois choses : ce que couvre le remboursement, quand le renouvellement se déclenche et quelle société apparaît comme facturante. Les sections ci-dessous expliquent chacune de ces points."
+        ]
+      },
+      {
+        "heading": "Qui se cache derrière Hostinger",
+        "paragraphs": [
+          "Les conditions d'utilisation indiquent que la société contractante dépend du pays du client. Dans la pratique, c'est le nom affiché au moment du paiement et sur la facture qui compte : vérifiez les deux avant de payer."
+        ]
+      },
+      {
+        "heading": "Remboursement : 30 jours, avec exceptions",
+        "paragraphs": [
+          "La politique de remboursement de Hostinger (version du 15 octobre 2026, consultée le 19 octobre 2026) accorde 30 jours pour demander le remboursement, à compter de la date de la transaction. Selon la politique elle-même, le renouvellement est aussi une transaction : chaque prélèvement fait repartir le délai. Le tableau présente ce qu'elle énumère :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produit",
+            "Remboursement"
+          ],
+          "rows": [
+            [
+              "Hébergement (tous les forfaits, sauf le premier paiement après l'essai gratuit)",
+              "Oui, sous 30 jours"
+            ],
+            [
+              "VPS (KVM)",
+              "Oui, sous 30 jours, et seulement si le dernier remboursement de VPS a été demandé il y a plus de 180 jours"
+            ],
+            [
+              "E-mail Hostinger, certificat SSL, sauvegardes quotidiennes",
+              "Oui, sous 30 jours"
+            ],
+            [
+              "Nouvel enregistrement de domaine",
+              "Seulement sous 96 heures"
+            ],
+            [
+              "Enregistrement .br (.com.br, .net.br)",
+              "Seulement sous 168 heures"
+            ],
+            [
+              "Renouvellement de domaine",
+              "Non"
+            ],
+            [
+              "Transfert de domaine, quand il aboutit",
+              "Non"
+            ],
+            [
+              "Mises à niveau de VPS KVM et stockage e-mail supplémentaire",
+              "Non"
+            ],
+            [
+              "Services de support payants",
+              "Non"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pour demander le remboursement, ouvrez un ticket avec le bouton en bas à droite du site, en indiquant le numéro de facture (qui commence par HBR) et le motif. Le montant revient sur le moyen de paiement utilisé. Si vous choisissez le crédit sur le compte, le remboursement devient un avoir et ne revient pas sur la carte. La politique précise aussi qu'elle refuse les demandes répétées ou en masse."
+        ]
+      },
+      {
+        "heading": "Renouvellement automatique et nouveau prix",
+        "paragraphs": [
+          "Toute personne qui souscrit entre dans le renouvellement automatique, car c'est le réglage par défaut. Le prélèvement intervient entre 30 et 0 jours avant la fin de la période, sur la carte marquée par défaut, au tarif en vigueur du forfait à cette date. Les conditions indiquent que ce tarif peut être plus élevé ou plus bas que celui de la première période, et qu'un changement de prix s'applique au renouvellement, sans préavis.",
+          "Hostinger peut vous prévenir par e-mail avant le prélèvement, mais les conditions précisent qu'elle n'en a pas l'obligation. Les clients avec un forfait d'un mois, par exemple, ne sont pas prévenus. Pour désactiver le renouvellement, connectez-vous à votre compte et désactivez-le à tout moment. Si vous le désactivez et ne renouvelez pas manuellement avant la fin de la période, le service est fermé.",
+          "Sur Reclame Aqui, un site brésilien de plaintes publiques, la facturation est le problème qui revient le plus souvent contre l'entreprise, et le cas est traité dans l'[article sur la réputation de Hostinger](/fr/reviews/hostinger-avis-trustpilot). La règle du lien de parrainage au renouvellement, et ce qui arrive à la réduction, figure dans le [guide du lien de parrainage](/fr/reviews/code-promo-hostinger-parrainage)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-fr.webp",
+            "alt": "Frise chronologique : achat, 30 jours pour le remboursement, prélèvement entre 30 et 0 jours avant la fin de la période et renouvellement au tarif en vigueur",
+            "caption": "Frise chronologique de l'achat au renouvellement chez Hostinger. Dessin maison",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Panne du site et garantie de disponibilité",
+        "paragraphs": [
+          "Les conditions indiquent que le site peut être hors ligne « de temps en temps », pour maintenance ou pour des raisons indépendantes de la volonté de l'entreprise, et que Hostinger n'en assume aucune responsabilité. Lors de notre lecture de la page tarifs brésilienne, le 19 octobre 2026, le tableau des forfaits annonçait « disponibilité garantie à 99,9 % ». C'est ce qu'annonce Hostinger ; l'engagement de disponibilité, lorsqu'il existe, figure dans le document de chaque service.",
+          "Si votre site ne peut pas être hors ligne, consultez le document de votre forfait avant de payer. La phrase de la page ne suffit pas."
+        ]
+      },
+      {
+        "heading": "Plaintes et avis",
+        "paragraphs": [
+          "Sur Trustpilot, la note de l'entreprise est de 4,6, mais elle provient d'avis que l'entreprise invite elle-même les clients à laisser. Les chiffres complets, et ce qu'ils ne montrent pas, figurent dans l'[article sur la réputation de Hostinger](/fr/reviews/hostinger-avis-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Support",
+        "paragraphs": [
+          "Les tickets, y compris les demandes de remboursement, s'ouvrent avec le bouton de ticket en bas à droite du site."
+        ]
+      },
+      {
+        "heading": "Notre expérience",
+        "paragraphs": [
+          "Em Casa com Cecília fonctionne sur Hostinger. Bruno, qui signe aussi ce texte, est client depuis 2024, avec plus de 24 mois de contrats : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Il n'a jamais vu le service tomber et, chaque fois qu'il a eu un problème, le support l'a résolu, surtout l'agent d'IA.",
+          "C'est une expérience, pas une garantie. Elle ne dit pas ce qui arrivera avec votre forfait, ni avec un forfait d'un autre prix ou pour une autre durée."
+        ]
+      },
+      {
+        "heading": "Quand Hostinger convient, et quand non",
+        "paragraphs": [
+          "Pour un blog, un site personnel ou une petite boutique, Hostinger assure le service avec des règles claires et un délai de 30 jours pour l'essayer. Si votre site ne peut pas être hors ligne, la garantie doit être écrite dans le forfait, et la page publique n'indique pas le chiffre. Si votre question concerne le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) présente les dates et les règles de chaque offre."
+        ]
+      },
+      {
+        "heading": "Où voir les offres",
+        "paragraphs": [
+          "Les 20 % du lien de parrainage ne valent que pour la première période d'un nouveau forfait et ne se cumulent pas avec d'autres codes promo. Si cela a du sens pour votre site, les forfaits avec le lien se trouvent sur la [page Hostinger de ce site](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "**Hostinger est-il fiable ?** C'est une grande entreprise, avec des politiques de remboursement et de renouvellement publiques. Ce qui mérite attention, c'est le renouvellement automatique et son prix, pas la fiabilité de l'entreprise.",
+          "**Hostinger rembourse-t-il ?** Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
+          "**Le renouvellement Hostinger est-il automatique ?** Oui, par défaut. Vous pouvez le désactiver dans votre compte à tout moment ; sans renouvellement manuel, le service prend fin à la fin de la période.",
+          "**Qui facture chez Hostinger ?** Cela dépend de votre pays. Les conditions indiquent que la société contractante dépend de votre lieu de résidence. Vérifiez le nom affiché au moment du paiement.",
+          "**Faut-il un code promo Hostinger ?** Non. Le lien de parrainage donne déjà 20 % sur la première période d'un nouveau forfait, et cette réduction ne se cumule pas avec d'autres codes promo."
+        ]
+      },
+      {
+        "heading": "Checklist avant de payer",
+        "bullets": [
+          "Lisez la ligne de votre produit dans le tableau de remboursement.",
+          "Regardez le prix du renouvellement, et pas seulement celui de la première période.",
+          "Désactivez le renouvellement automatique juste après l'achat si vous ne voulez pas qu'il continue.",
+          "Vérifiez au moment du paiement et sur la facture quelle société apparaît comme facturante.",
+          "Recherchez la garantie de disponibilité dans le document de votre forfait."
+        ]
+      },
+      {
+        "heading": "Note de transparence",
+        "paragraphs": [
+          "Ce texte contient un lien de parrainage Hostinger. Si vous souscrivez par ce lien, le programme peut donner à Bruno un crédit chez Hostinger. Le remboursement, le renouvellement et les informations sur l'entreprise proviennent des documents publics de Hostinger, consultés le 19 octobre 2026. L'expérience est la nôtre et ne s'applique pas automatiquement à votre forfait."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo. Voyez les forfaits via le lien.",
+      "label": "Voir les forfaits Hostinger",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Ce texte contient un lien de parrainage Hostinger, qui héberge ce site. Un achat par ce lien peut donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-avis-trustpilot",
+        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "slug": "ist-hostinger-serioes",
+    "locale": "de",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten",
+    "seoTitle": "Ist Hostinger seriös? Erstattung und Verlängerung",
+    "type": "Redaktionell",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung und was sie nicht abdeckt, die automatische Verlängerung und was Sie vor der Zahlung prüfen sollten.",
+    "metaDescription": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung mit Ausnahmen, die automatische Verlängerung zum neuen Preis und was Sie vor dem Abschluss prüfen sollten.",
+    "publishedAt": "19. Oktober 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Schild mit der Zahl 30 neben einem Kalender, in Weiß auf violettem Hintergrund",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Hostinger ist ein großes Unternehmen mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung. Für Hosting gibt es 30 Tage, um das Geld zurückzufordern, und nach unserer Erfahrung funktionieren Service und Support. Der Knackpunkt ist nicht die Seriosität des Unternehmens, sondern die Verlängerung: Sie ist standardmäßig aktiviert, und der Verlängerungspreis kann ein anderer sein.",
+          "Prüfen Sie vor der Zahlung drei Dinge: was die Erstattung abdeckt, wann die Verlängerung greift und welche Firma als Abrechnungsgesellschaft auftaucht. Die Abschnitte unten erklären jeden einzelnen Punkt."
+        ]
+      },
+      {
+        "heading": "Wer hinter Hostinger steht",
+        "paragraphs": [
+          "Die Nutzungsbedingungen sagen, dass die vertragschließende Gesellschaft vom Land des Kunden abhängt. In der Praxis zählt der Name, der beim Checkout und auf der Rechnung steht: Prüfen Sie beides, bevor Sie zahlen."
+        ]
+      },
+      {
+        "heading": "Erstattung: 30 Tage, mit Ausnahmen",
+        "paragraphs": [
+          "Die Erstattungsrichtlinie von Hostinger (Fassung vom 15. Oktober 2026, gelesen am 19. Oktober 2026) gibt Ihnen 30 Tage, um Ihr Geld zurückzufordern, gerechnet ab dem Datum der Transaktion. Laut der Richtlinie selbst ist auch die Verlängerung eine Transaktion: Jede Abbuchung startet eine neue Frist. Die Tabelle zeigt, was die Richtlinie auflistet:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produkt",
+            "Erstattung"
+          ],
+          "rows": [
+            [
+              "Hosting (alle Tarife, außer der ersten Zahlung nach der kostenlosen Testphase)",
+              "Ja, innerhalb von 30 Tagen"
+            ],
+            [
+              "VPS (KVM)",
+              "Ja, innerhalb von 30 Tagen, und nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde"
+            ],
+            [
+              "Hostinger-E-Mail, SSL-Zertifikat, tägliche Backups",
+              "Ja, innerhalb von 30 Tagen"
+            ],
+            [
+              "Neue Domainregistrierung",
+              "Nur innerhalb von 96 Stunden"
+            ],
+            [
+              ".br-Registrierung (.com.br, .net.br)",
+              "Nur innerhalb von 168 Stunden"
+            ],
+            [
+              "Domainverlängerung",
+              "Nein"
+            ],
+            [
+              "Domainübertragung, wenn sie gelingt",
+              "Nein"
+            ],
+            [
+              "Upgrades von VPS KVM und zusätzlicher E-Mail-Speicher",
+              "Nein"
+            ],
+            [
+              "Kostenpflichtige Supportleistungen",
+              "Nein"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um sie zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben Sie die Rechnungsnummer (sie beginnt mit HBR) und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück. Wenn Sie das Guthaben im Konto wählen, wird die Rückzahlung zu Guthaben und geht nicht auf die Karte zurück. Die Richtlinie weist außerdem darauf hin, dass wiederholte oder massenhafte Anträge abgelehnt werden."
+        ]
+      },
+      {
+        "heading": "Automatische Verlängerung und neuer Preis",
+        "paragraphs": [
+          "Wer bestellt, ist automatisch für die Verlängerung eingetragen, weil das die Standardeinstellung ist. Die Abbuchung erfolgt 30 bis 0 Tage vor Ende des Zeitraums, auf der als Standard markierten Karte, zum an diesem Datum gültigen Preis des Tarifs. Laut den Bedingungen kann dieser Preis höher oder niedriger sein als der des ersten Zeitraums, und eine Preisänderung gilt bei der Verlängerung ohne vorherige Ankündigung.",
+          "Hostinger kann Sie vor der Abbuchung per E-Mail informieren, die Bedingungen sagen aber, dass dazu keine Pflicht besteht. Kunden mit einem Monatstarif werden zum Beispiel nicht benachrichtigt. Zum Deaktivieren melden Sie sich in Ihrem Konto an und schalten Sie die Verlängerung jederzeit ab. Wenn Sie sie abschalten und vor Ende des Zeitraums nicht manuell verlängern, wird der Dienst beendet.",
+          "Auf Reclame Aqui, einer brasilianischen Plattform für öffentliche Beschwerden, ist die Abrechnung das Problem, das über das Unternehmen am häufigsten vorkommt, und der Fall steht im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen). Die Regel für den Empfehlungslink bei der Verlängerung und was mit dem Rabatt passiert, steht im [Ratgeber zum Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-de.webp",
+            "alt": "Zeitleiste: Kauf, 30 Tage für die Erstattung, Abbuchung 30 bis 0 Tage vor Ende des Zeitraums und Verlängerung zum aktuellen Preis",
+            "caption": "Zeitleiste vom Kauf bis zur Verlängerung bei Hostinger. Eigene Grafik",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Ausfälle und Verfügbarkeitsgarantie",
+        "paragraphs": [
+          "Die Bedingungen besagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen, die außerhalb der Kontrolle des Unternehmens liegen, und dass Hostinger dafür keine Verantwortung übernimmt. Bei unserer Lektüre der brasilianischen Preisseite am 19. Oktober 2026 warb die Tariftabelle mit „99,9 % garantierter Verfügbarkeit“. Das ist, was Hostinger bewirbt; die Verfügbarkeitszusage steht, wo sie existiert, im Dokument des jeweiligen Dienstes.",
+          "Wenn Ihre Website nicht offline gehen darf, lesen Sie vor der Zahlung das Dokument Ihres Tarifs. Der Satz auf der Seite reicht nicht aus."
+        ]
+      },
+      {
+        "heading": "Beschwerden und Bewertungen",
+        "paragraphs": [
+          "Auf Trustpilot liegt die Bewertung des Unternehmens bei 4,6, sie stammt aber von Bewertungen, zu denen das Unternehmen die Kunden selbst einlädt. Die vollständigen Zahlen und was sie nicht zeigen, stehen im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen)."
+        ]
+      },
+      {
+        "heading": "Support",
+        "paragraphs": [
+          "Tickets, auch Erstattungsanfragen, werden über den Ticket-Button unten rechts auf der Website eröffnet."
+        ]
+      },
+      {
+        "heading": "Unsere Erfahrung",
+        "paragraphs": [
+          "Em Casa com Cecília läuft auf Hostinger. Bruno, der auch diesen Text unterschreibt, ist seit 2024 Kunde, mit mehr als 24 Monaten Vertragslaufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Er hat nie erlebt, dass der Dienst ausgefallen ist, und jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent.",
+          "Das ist eine Erfahrung, keine Garantie. Sie sagt nicht, was mit Ihrem Tarif passiert, auch nicht mit einem Tarif zu einem anderen Preis oder für einen anderen Zeitraum."
+        ]
+      },
+      {
+        "heading": "Wann Hostinger passt und wann nicht",
+        "paragraphs": [
+          "Für einen Blog, eine persönliche Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen, um ihn auszuprobieren. Wenn Ihre Website nicht offline gehen darf, muss die Garantie im Tarif festgeschrieben sein, und die öffentliche Seite nennt die Zahl nicht. Wenn es Ihnen um den Black Friday geht, nennt der [Kampagnen-Ratgeber](/de/reviews/hostinger-black-friday-angebote) die Termine und Regeln jedes Angebots."
+        ]
+      },
+      {
+        "heading": "Wo Sie die Tarife finden",
+        "paragraphs": [
+          "Die 20 % aus dem Empfehlungslink gelten nur für die erste Laufzeit eines neuen Tarifs und lassen sich nicht mit anderen Gutscheinen kombinieren. Wenn es für Ihre Website passt, finden Sie die Tarife mit dem Link auf der [Hostinger-Seite auf dieser Website](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "**Ist Hostinger seriös?** Es ist ein großes Unternehmen mit öffentlich einsehbarer Erstattungs- und Verlängerungsrichtlinie. Was Aufmerksamkeit verdient, sind die automatische Verlängerung und ihr Preis, nicht die Seriosität des Unternehmens.",
+          "**Gibt es bei Hostinger eine Erstattung?** Ja, 30 Tage für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Supportleistungen werden nicht erstattet.",
+          "**Ist die Verlängerung bei Hostinger automatisch?** Ja, standardmäßig. Sie können sie jederzeit in Ihrem Konto deaktivieren. Ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
+          "**Wer rechnet bei Hostinger ab?** Das hängt von Ihrem Land ab. Die Bedingungen sagen, dass die vertragschließende Gesellschaft von Ihrem Wohnsitz abhängt. Prüfen Sie den Namen, der beim Checkout angezeigt wird.",
+          "**Brauche ich einen Hostinger-Gutschein?** Nein. Der Empfehlungslink gibt Ihnen bereits 20 % auf die erste Laufzeit eines neuen Tarifs, und dieser Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
+        ]
+      },
+      {
+        "heading": "Checkliste vor dem Kauf",
+        "bullets": [
+          "Lesen Sie die Zeile Ihres Produkts in der Erstattungstabelle.",
+          "Sehen Sie sich den Verlängerungspreis an, nicht nur den Preis der ersten Laufzeit.",
+          "Schalten Sie die automatische Verlängerung direkt nach dem Kauf ab, wenn sie nicht weiterlaufen soll.",
+          "Prüfen Sie beim Checkout und auf der Rechnung, welche Firma als Abrechnungsgesellschaft auftaucht.",
+          "Suchen Sie die Verfügbarkeitsgarantie im Dokument Ihres Tarifs."
+        ]
+      },
+      {
+        "heading": "Transparenzhinweis",
+        "paragraphs": [
+          "Dieser Text enthält einen Empfehlungslink von Hostinger. Wenn Sie über den Link bestellen, kann das Programm Bruno Guthaben bei Hostinger gutschreiben. Erstattung, Verlängerung und Angaben zum Unternehmen stammen aus den öffentlichen Dokumenten von Hostinger, gelesen am 19. Oktober 2026. Die Erfahrung ist unsere und gilt nicht automatisch für Ihren Tarif."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Die 20 % gelten nur für die erste Laufzeit und lassen sich nicht mit anderen Gutscheinen kombinieren. Die Tarife finden Sie über den Link.",
+      "label": "Hostinger-Tarife ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Dieser Text enthält einen Empfehlungslink von Hostinger, das diese Website hostet. Ein Kauf über den Link kann Bruno Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-bewertungen",
+        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "slug": "hostinger-e-affidabile",
+    "locale": "it",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare",
+    "seoTitle": "Hostinger è affidabile? Rimborso e rinnovo",
+    "type": "Editoriale",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger è affidabile? Chi addebita, il rimborso di 30 giorni e cosa non copre, il rinnovo automatico e cosa controllare prima di pagare.",
+    "metaDescription": "Hostinger è affidabile? Scopri chi addebita, il rimborso di 30 giorni con le sue eccezioni, il rinnovo automatico a prezzo nuovo e cosa verificare prima di abbonarti.",
+    "publishedAt": "19 ottobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "Scudo con il numero 30 accanto a un calendario, in bianco su sfondo viola",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Hostinger è una grande azienda, con regole pubbliche su rimborso e rinnovo. L'hosting ha 30 giorni per chiedere la restituzione del denaro e, secondo la nostra esperienza, il servizio e l'assistenza funzionano. Il punto critico non è l'affidabilità dell'azienda, ma il rinnovo: è attivo di default e il prezzo del rinnovo può essere diverso.",
+          "Prima di pagare, controlla tre cose: cosa copre il rimborso, quando scatta il rinnovo e quale società compare come addebitante. Le sezioni seguenti spiegano ciascuna."
+        ]
+      },
+      {
+        "heading": "Chi c'è dietro Hostinger",
+        "paragraphs": [
+          "I termini di servizio dicono che la società contraente dipende dal paese del cliente. Prima di pagare, controlla il nome che compare al checkout e in fattura."
+        ]
+      },
+      {
+        "heading": "Rimborso: 30 giorni, con eccezioni",
+        "paragraphs": [
+          "La politica di rimborso di Hostinger (versione del 15 ottobre 2026, letta il 19 ottobre 2026) dà 30 giorni per chiedere la restituzione del denaro, a partire dalla data della transazione. Secondo la politica stessa, anche il rinnovo è una transazione: ogni addebito fa ripartire il termine. La tabella mostra cosa elenca:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Prodotto",
+            "Rimborso"
+          ],
+          "rows": [
+            [
+              "Hosting (tutti i piani, tranne il primo pagamento dopo la prova gratuita)",
+              "Sì, entro 30 giorni"
+            ],
+            [
+              "VPS (KVM)",
+              "Sì, entro 30 giorni, e solo se l'ultimo rimborso VPS è stato richiesto più di 180 giorni fa"
+            ],
+            [
+              "Email Hostinger, certificato SSL, backup giornalieri",
+              "Sì, entro 30 giorni"
+            ],
+            [
+              "Nuova registrazione di dominio",
+              "Solo entro 96 ore"
+            ],
+            [
+              "Registrazione .br (.com.br, .net.br)",
+              "Solo entro 168 ore"
+            ],
+            [
+              "Rinnovo del dominio",
+              "No"
+            ],
+            [
+              "Trasferimento del dominio, quando va a buon fine",
+              "No"
+            ],
+            [
+              "Upgrade di VPS KVM e spazio extra per l'email",
+              "No"
+            ],
+            [
+              "Servizi di supporto a pagamento",
+              "No"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura (che inizia con HBR) e il motivo. L'importo torna sul mezzo di pagamento usato. Se scegli il saldo del conto, il rimborso diventa credito e non torna sulla carta. La politica avvisa anche che rifiuta richieste ripetute o in massa."
+        ]
+      },
+      {
+        "heading": "Rinnovo automatico e prezzo nuovo",
+        "paragraphs": [
+          "Chi acquista entra nel rinnovo automatico, perché è la configurazione predefinita. L'addebito avviene da 30 a 0 giorni prima della fine del periodo, sulla carta impostata come predefinita, al prezzo in vigore del piano alla data. I termini dicono che questo valore può essere maggiore o minore di quello del primo periodo, e che la variazione di prezzo vale al rinnovo, senza preavviso.",
+          "Hostinger può avvisare via email prima dell'addebito, ma i termini dicono che non ha quest'obbligo. I clienti con un piano mensile, per esempio, non vengono avvisati. Per disattivarlo, accedi all'account e disattiva il rinnovo in qualsiasi momento. Se lo disattivi e non rinnovi a mano prima della fine del periodo, il servizio viene chiuso.",
+          "Nel Reclame Aqui, il sito brasiliano di reclami pubblici, gli addebiti indebiti sono il problema più citato, e il caso è trattato nell'[articolo sulla reputazione di Hostinger](/it/reviews/hostinger-recensioni-trustpilot). La regola del codice di invito sul rinnovo, con quello che succede allo sconto, è nella [guida al codice di invito](/it/reviews/coupon-hostinger-codice-invito)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-it.webp",
+            "alt": "Linea del tempo: acquisto, 30 giorni per il rimborso, addebito da 30 a 0 giorni prima della fine del periodo e rinnovo al prezzo in vigore",
+            "caption": "Linea del tempo dall'acquisto al rinnovo su Hostinger. Disegno originale",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Interruzioni e garanzia di disponibilità",
+        "paragraphs": [
+          "I termini dicono che il sito può andare offline «di tanto in tanto», per manutenzione o per fattori fuori dal controllo dell'azienda, e che Hostinger non se ne assume la responsabilità. La tabella dei piani della pagina prezzi promette «uptime garantito al 99,9%» (letta il 19 ottobre 2026). È ciò che Hostinger dichiara; l'impegno di disponibilità, quando esiste, si trova nel documento di ciascun servizio.",
+          "Se il tuo sito non può restare offline, leggi il documento del tuo piano prima di pagare. La frase in pagina non basta."
+        ]
+      },
+      {
+        "heading": "Reclami e recensioni",
+        "paragraphs": [
+          "Su Trustpilot Hostinger ha un punteggio di 4,6, ma deriva da recensioni che l'azienda stessa invita i clienti a lasciare. I numeri completi, con ciò che non mostrano, sono nell'[articolo sulla reputazione di Hostinger](/it/reviews/hostinger-recensioni-trustpilot)."
+        ]
+      },
+      {
+        "heading": "Assistenza",
+        "paragraphs": [
+          "I ticket, compresi quelli per i rimborsi, si aprono dal pulsante in basso a destra del sito."
+        ]
+      },
+      {
+        "heading": "La nostra esperienza",
+        "paragraphs": [
+          "Em Casa com Cecília gira su Hostinger. Bruno, che firma anche questo testo, è cliente dal 2024, con più di 24 mesi di contratti: hosting Business, un VPS KVM 2, email Business e domini, tutti con rinnovo automatico. Non ha mai visto il servizio andare giù e, ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto l'agente IA.",
+          "È un'esperienza, non una garanzia. Non dice cosa succederà con il tuo piano, né con un piano a un altro prezzo o per un altro periodo."
+        ]
+      },
+      {
+        "heading": "Quando Hostinger va bene, e quando no",
+        "paragraphs": [
+          "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provarlo. Se il sito non può restare offline, la garanzia deve essere scritta nel piano, e la pagina pubblica non riporta il numero. Se il tuo dubbio riguarda il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) riporta date e regole di ogni offerta."
+        ]
+      },
+      {
+        "heading": "Dove vedere i piani",
+        "paragraphs": [
+          "I 20% dell'invito valgono solo nel primo periodo di un piano nuovo e non si sommano ad altri coupon. Se ha senso per il tuo sito, i piani con il link sono nella [pagina di Hostinger su questo sito](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "**Hostinger è affidabile?** È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che richiede attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
+          "**Hostinger offre rimborsi?** Sì, di 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo del dominio e i servizi di supporto a pagamento non vengono rimborsati.",
+          "**Il rinnovo di Hostinger è automatico?** Sì, di default. Puoi disattivarlo dall'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
+          "**Chi addebita su Hostinger?** Dipende dal paese. La società contraente cambia in base alla tua regione: controlla il nome al checkout e in fattura.",
+          "**Serve un coupon Hostinger?** No. Il link di invito dà già il 20% sul primo periodo di un piano nuovo, e questo sconto non si somma ad altri coupon."
+        ]
+      },
+      {
+        "heading": "Checklist prima di pagare",
+        "bullets": [
+          "Leggi la riga del tuo prodotto nella tabella dei rimborsi.",
+          "Controlla il prezzo del rinnovo, non solo quello del primo periodo.",
+          "Disattiva il rinnovo automatico subito dopo l'acquisto, se non vuoi che continui.",
+          "Verifica al checkout e in fattura quale società compare come addebitante.",
+          "Cerca la garanzia di disponibilità nel documento del tuo piano."
+        ]
+      },
+      {
+        "heading": "Nota di trasparenza",
+        "paragraphs": [
+          "Questo testo contiene un link di invito di Hostinger. Se ti abboni tramite il link, il programma può generare un credito su Hostinger per Bruno. Rimborso, rinnovo e società provengono dai documenti pubblici di Hostinger, letti il 19 ottobre 2026. L'esperienza è nostra e non si applica automaticamente al tuo piano."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "I 20% valgono solo per il primo periodo e non si sommano ad altri coupon. Guarda i piani tramite il link.",
+      "label": "Vedi i piani di Hostinger",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Questo testo contiene un link di invito di Hostinger, che ospita questo sito. Acquistando tramite il link, Bruno potrebbe ricevere un credito su Hostinger, senza costi extra per te.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-recensioni-trustpilot",
+        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "slug": "hostinger-trust-guide-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-trust-guide",
+    "title": "호스팅어는 믿을 만한가요? 회사, 환불, 자동 갱신, 결제 전 확인할 점",
+    "seoTitle": "호스팅어는 믿을 만한가요? 환불과 자동 갱신",
+    "type": "에디토리얼",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "호스팅어는 믿을 만한가요? 결제 주체, 30일 환불과 제외 항목, 자동 갱신, 결제 전에 확인할 점을 정리했습니다.",
+    "metaDescription": "호스팅어는 믿을 만한가요? 결제 주체, 30일 환불과 예외, 새 가격으로 자동 갱신되는 방식, 가입 전 확인할 사항을 정리했습니다.",
+    "publishedAt": "2026년 10월 19일",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "보라색 배경 위에 흰색으로 그린, 달력 옆에 숫자 30이 적힌 방패",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "호스팅어는 규모가 큰 회사이고, 환불과 갱신 규정이 공개되어 있습니다. 호스팅은 30일 안에 환불을 요청할 수 있으며, 저희 경험으로는 서비스와 지원이 제대로 작동합니다. 문제가 되는 부분은 회사의 신뢰도가 아니라 갱신입니다. 자동 갱신이 기본으로 켜져 있고, 갱신 가격은 처음과 다를 수 있습니다.",
+          "결제 전에 세 가지를 확인하세요. 환불이 무엇을 보장하는지, 갱신이 언제 적용되는지, 청구 회사가 어디로 표시되는지입니다. 아래 섹션에서 각각 설명합니다."
+        ]
+      },
+      {
+        "heading": "호스팅어 뒤에 있는 회사",
+        "paragraphs": [
+          "서비스 약관에 따르면 계약 회사는 고객의 국가에 따라 달라집니다. 결제 전에 결제 화면과 청구서에 표시된 회사명을 확인하세요."
+        ]
+      },
+      {
+        "heading": "환불: 30일, 예외 있음",
+        "paragraphs": [
+          "호스팅어 환불 정책(2026년 10월 15일 버전, 2026년 10월 19일 확인)은 거래일로부터 30일 안에 환불을 요청할 수 있게 합니다. 정책상 갱신도 하나의 거래이므로, 갱신 결제마다 기간이 새로 시작됩니다. 아래 표는 정책이 나열한 내용입니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "제품",
+            "환불"
+          ],
+          "rows": [
+            [
+              "호스팅 (무료 체험 후 첫 결제를 제외한 모든 요금제)",
+              "예, 30일 이내"
+            ],
+            [
+              "VPS (KVM)",
+              "예, 30일 이내. 단, 마지막 VPS 환불 요청이 180일 이상 지난 경우에만"
+            ],
+            [
+              "호스팅어 이메일, SSL 인증서, 일일 백업",
+              "예, 30일 이내"
+            ],
+            [
+              "신규 도메인 등록",
+              "96시간 이내에만"
+            ],
+            [
+              ".br 등록 (.com.br, .net.br)",
+              "168시간 이내에만"
+            ],
+            [
+              "도메인 갱신",
+              "아니요"
+            ],
+            [
+              "도메인 이전 (성공한 경우)",
+              "아니요"
+            ],
+            [
+              "VPS KVM 업그레이드 및 추가 이메일 저장공간",
+              "아니요"
+            ],
+            [
+              "유료 지원 서비스",
+              "아니요"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "환불을 요청하려면 사이트 오른쪽 아래의 버튼으로 문의를 열고, 청구서 번호(HBR로 시작)와 사유를 적어 주세요. 금액은 결제에 사용한 수단으로 돌아갑니다. 계정 잔액을 선택하면 환불은 크레딧이 되며 카드로 돌아가지 않습니다. 정책은 반복 요청이나 대량 요청을 거절한다고도 알리고 있습니다."
+        ]
+      },
+      {
+        "heading": "자동 갱신과 새 가격",
+        "paragraphs": [
+          "가입하면 자동 갱신에 들어갑니다. 기본 설정이기 때문입니다. 청구는 기간이 끝나기 30일에서 0일 전 사이에, 기본으로 지정된 카드에서, 그날 기준 요금제의 현재 가격으로 이루어집니다. 약관은 이 가격이 첫 기간보다 높거나 낮을 수 있으며, 가격 변경은 사전 고지 없이 갱신 때 적용된다고 밝히고 있습니다.",
+          "호스팅어는 청구 전에 이메일로 알릴 수 있지만, 약관상 그럴 의무는 없습니다. 예를 들어 월 요금제 고객은 안내를 받지 않습니다. 끄려면 계정에 들어가 언제든 갱신을 해지하면 됩니다. 해지한 뒤 기간이 끝나기 전에 직접 갱신하지 않으면 서비스가 종료됩니다.",
+          "브라질 민원 사이트 Reclame Aqui에서 청구 문제는 가장 많이 나오는 불만이며, 이 내용은 [호스팅어의 평판 기사](/ko/reviews/hostinger-trustpilot-reviews-ko)에서 다룹니다. 추천 코드의 갱신 규칙과 할인이 어떻게 되는지는 [추천 코드 가이드](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-ko.webp",
+            "alt": "타임라인: 구매, 환불 가능 30일, 기간 종료 30일~0일 전 청구, 현재 가격으로 갱신",
+            "caption": "구매부터 갱신까지의 호스팅어 타임라인. 자체 제작 일러스트",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "서비스 중단과 가용성 보장",
+        "paragraphs": [
+          "약관은 사이트가 유지보수나 회사가 통제할 수 없는 요인으로 “가끔” 중단될 수 있으며, 호스팅어는 이에 대해 책임지지 않는다고 밝힙니다. 가격 페이지의 요금제 표는 “99.9% 가동 시간 보장”을 내세웁니다(2026년 10월 19일 확인). 이는 호스팅어가 광고하는 내용이며, 가용성 약속이 있다면 각 서비스의 문서에 있습니다.",
+          "사이트가 중단되면 안 된다면, 결제 전에 요금제 문서를 확인하세요. 페이지의 문구만으로는 충분하지 않습니다."
+        ]
+      },
+      {
+        "heading": "불만과 후기",
+        "paragraphs": [
+          "Trustpilot에서 호스팅어의 점수는 4.6이지만, 회사가 고객에게 직접 후기를 남겨 달라고 요청한 데서 나온 점수입니다. 보여주지 않는 부분까지 포함한 전체 수치는 [호스팅어의 평판 기사](/ko/reviews/hostinger-trustpilot-reviews-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "지원",
+        "paragraphs": [
+          "환불 요청을 포함한 문의는 사이트 오른쪽 아래의 문의 버튼으로 엽니다."
+        ]
+      },
+      {
+        "heading": "저희 경험",
+        "paragraphs": [
+          "Em Casa com Cecília는 호스팅어에서 운영됩니다. 이 글을 함께 쓴 브루노는 2024년부터 고객이며, 24개월이 넘는 계약을 유지하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인을 모두 자동 갱신으로 이용합니다. 서비스가 중단된 적은 없었고, 문제가 생길 때마다 지원팀이, 특히 AI 상담원이 해결해 주었습니다.",
+          "이것은 하나의 경험일 뿐 보장이 아닙니다. 여러분의 요금제에 어떤 일이 생길지, 다른 가격이나 다른 기간의 요금제에서는 어떨지 말해 주지 않습니다."
+        ]
+      },
+      {
+        "heading": "호스팅어가 맞는 경우와 아닌 경우",
+        "paragraphs": [
+          "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 명확한 규정과 30일의 체험 기간으로 서비스를 제공합니다. 사이트가 중단되면 안 된다면 보장이 요금제에 명시되어 있어야 하는데, 공개 페이지에는 그 수치가 없습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 날짜와 각 혜택의 규칙이 있습니다."
+        ]
+      },
+      {
+        "heading": "요금제 보기",
+        "paragraphs": [
+          "추천 링크의 20% 할인은 새 요금제의 첫 기간에만 적용되며, 다른 쿠폰과 중복되지 않습니다. 사이트에 맞는다면, 링크가 적용된 요금제는 [이 사이트의 호스팅어 페이지](/ko/coupons/hostinger)에 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "**호스팅어는 믿을 만한가요?** 규모가 큰 회사이며, 환불과 갱신 정책이 공개되어 있습니다. 주의할 점은 회사의 신뢰도가 아니라 자동 갱신과 갱신 가격입니다.",
+          "**호스팅어는 환불해 주나요?** 네, 호스팅과 VPS는 30일 안에 환불할 수 있으며 표의 예외가 적용됩니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
+          "**호스팅어 갱신은 자동인가요?** 네, 기본 설정입니다. 계정에서 언제든 끌 수 있으며, 수동으로 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
+          "**호스팅어에서는 누가 청구하나요?** 국가에 따라 다릅니다. 계약 회사는 지역에 따라 달라지므로, 결제 화면과 청구서에서 회사명을 확인하세요.",
+          "**호스팅어 쿠폰이 필요한가요?** 필요 없습니다. 추천 링크로 새 요금제의 첫 기간에 이미 20%가 할인되며, 이 할인은 다른 쿠폰과 중복되지 않습니다."
+        ]
+      },
+      {
+        "heading": "결제 전 체크리스트",
+        "bullets": [
+          "환불 표에서 내 제품의 행을 읽어 보세요.",
+          "첫 기간의 가격만이 아니라 갱신 가격도 확인하세요.",
+          "원하지 않는다면 구매 직후 자동 갱신을 끄세요.",
+          "결제 화면과 청구서에서 어느 회사가 청구하는지 확인하세요.",
+          "요금제 문서에서 가용성 보장을 찾아보세요."
+        ]
+      },
+      {
+        "heading": "투명성 안내",
+        "paragraphs": [
+          "이 글에는 호스팅어 추천 링크가 포함되어 있습니다. 링크로 가입하면 프로그램을 통해 브루노에게 호스팅어 크레딧이 생길 수 있습니다. 환불, 갱신, 회사 정보는 2026년 10월 19일에 확인한 호스팅어의 공개 문서에서 가져왔습니다. 경험은 저희의 것이며, 여러분의 요금제에 자동으로 적용되지는 않습니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "20% 할인은 첫 결제 기간에만 적용되며 다른 쿠폰과 중복되지 않습니다. 링크로 요금제를 확인하세요.",
+      "label": "호스팅어 요금제 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "이 글에는 이 사이트를 호스팅하는 호스팅어의 추천 링크가 포함되어 있습니다. 링크로 구매하면 브루노가 호스팅어에서 크레딧을 받을 수 있지만, 여러분에게 추가 비용은 없습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-reviews-ko",
+        "title": "Hostinger Trustpilot 평점, 불만, 그리고 숫자가 보여주는 것"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "slug": "hostinger-trust-guide-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostingerは信頼できる？ 会社、返金、自動更新、申し込み前に確認すること",
+    "seoTitle": "Hostingerは信頼できる？ 返金と自動更新",
+    "type": "エディトリアル",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostingerは信頼できる？ 請求元、30日間返金とその対象外、自動更新、支払い前に確認すべき点を解説します。",
+    "metaDescription": "Hostingerは信頼できる？ 請求元、30日間返金と例外、新しい価格での自動更新、申し込み前に確認すべきことをまとめました。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "紫の背景に白で描かれた、カレンダーの横に数字の30が入った盾",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Hostingerは大手企業で、返金と更新のルールが公開されています。ホスティングは30日以内であれば返金を申請できます。私たちの経験では、サービスもサポートも問題なく機能しています。注意すべき点は会社の信頼性ではなく、更新です。自動更新が初期設定でオンになっており、更新時の価格は初回と異なる場合があります。",
+          "お支払いの前に、3つの点を確認してください。返金の対象範囲、更新がいつ始まるか、請求元としてどの会社が表示されるかです。以下の各セクションで説明します。"
+        ]
+      },
+      {
+        "heading": "Hostingerの運営会社",
+        "paragraphs": [
+          "利用規約では、契約会社は利用者の国によって異なるとされています。お支払い前に、チェックアウト画面と請求書に表示される会社名を確認してください。"
+        ]
+      },
+      {
+        "heading": "返金：30日間、例外あり",
+        "paragraphs": [
+          "Hostingerの返金ポリシー（2026年10月15日版、2026年10月19日に確認）では、取引日から30日以内であれば返金を申請できます。ポリシー上、更新も一つの取引にあたるため、更新のたびに期間が新たに始まります。次の表はポリシーに記載された内容です："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "製品",
+            "返金"
+          ],
+          "rows": [
+            [
+              "ホスティング（無料トライアル後の最初の支払いを除く全プラン）",
+              "はい、30日以内"
+            ],
+            [
+              "VPS（KVM）",
+              "はい、30日以内。ただし前回のVPS返金申請から180日以上経過している場合に限ります"
+            ],
+            [
+              "Hostingerメール、SSL証明書、毎日のバックアップ",
+              "はい、30日以内"
+            ],
+            [
+              "新規ドメイン登録",
+              "96時間以内のみ"
+            ],
+            [
+              ".br 登録（.com.br、.net.br）",
+              "168時間以内のみ"
+            ],
+            [
+              "ドメインの更新",
+              "いいえ"
+            ],
+            [
+              "ドメインの移管（成功した場合）",
+              "いいえ"
+            ],
+            [
+              "VPS KVM のアップグレードと追加のメールストレージ",
+              "いいえ"
+            ],
+            [
+              "有料のサポートサービス",
+              "いいえ"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "返金を申請するには、サイト右下のボタンからサポートチケットを作成し、請求書番号（HBRで始まる）と理由を記入してください。金額はご利用の支払い方法に返金されます。アカウント残高を選んだ場合は、クレジットとなりカードには戻りません。また、ポリシーでは繰り返しの申請や大量の申請は受け付けないとされています。"
+        ]
+      },
+      {
+        "heading": "自動更新と新しい価格",
+        "paragraphs": [
+          "申し込むと自動更新に入ります。これが標準の設定だからです。請求は期間終了の30日前から0日前の間に、標準として設定されたカードへ、その時点のプランの現在価格で行われます。規定では、この価格は初回期間より高い場合も低い場合もあり、価格の変更は事前通知なしに更新時に適用されるとされています。",
+          "Hostingerは請求前にメールで知らせることがありますが、規約上その義務はないとされています。たとえば月額プランの利用者には通知されません。停止するには、アカウントから更新をいつでもオフにできます。オフにして、期間が終わる前に手動で更新しなかった場合、サービスは終了します。",
+          "請求まわりは苦情の多いテーマで、その経緯は[Hostingerの評判の記事](/ja/reviews/hostinger-trustpilot-reviews-ja)にまとめています。紹介コードの更新ルールと、割引がどうなるかは[紹介コードのガイド](/ja/reviews/hostinger-referral-code-ja)にあります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-ja.webp",
+            "alt": "タイムライン：購入、返金可能な30日間、期間終了の30日前から0日前の請求、現在の価格での更新",
+            "caption": "購入から更新までの Hostinger のタイムライン。自作の図版",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "停止と可用性の保証",
+        "paragraphs": [
+          "規約では、メンテナンスや会社の管理外の要因によりサイトが「時々」停止することがあり、その責任を Hostinger は負わないとされています。料金ページのプラン表には「99.9%の稼働率を保証」と掲載されています（2026年10月19日に確認）。これは Hostinger がうたっている内容です。可用性の約束がある場合は、各サービスの文書に記載されています。",
+          "サイトを止められない場合は、お支払いの前にプランの文書を確認してください。ページの記載だけでは不十分です。"
+        ]
+      },
+      {
+        "heading": "苦情とレビュー",
+        "paragraphs": [
+          "ブラジルのサイト Reclame Aqui では、2026年9月30日時点で Hostinger の評判は「非常に良い」、直近6か月のスコアは8.6、直近12か月は8.4でした。Trustpilot での評価は4.6ですが、これは会社自身がレビューの投稿を顧客に案内していることから来ています。見えない部分も含めた詳しい数字は、[Hostingerの評判の記事](/ja/reviews/hostinger-trustpilot-reviews-ja)にあります。"
+        ]
+      },
+      {
+        "heading": "サポート",
+        "paragraphs": [
+          "返金の依頼を含め、チケットはサイト右下のチケットボタンから開きます。"
+        ]
+      },
+      {
+        "heading": "私たちの経験",
+        "paragraphs": [
+          "Em Casa com Cecília は Hostinger 上で動いています。この記事も執筆した Bruno は2024年からの顧客で、24か月以上の契約があります。ビジネスホスティング、VPS KVM 2、ビジネスメールとドメインのすべてで自動更新を利用しています。サービスが停止したことは一度もなく、問題が起きるたびにサポートが、特にAIエージェントが解決してくれました。",
+          "これは一つの経験であり、保証ではありません。あなたのプランで何が起きるかを示すものではなく、別の価格や別の期間のプランについても同様です。"
+        ]
+      },
+      {
+        "heading": "Hostingerが向いている場合と向いていない場合",
+        "paragraphs": [
+          "ブログ、個人サイト、小さなショップであれば、Hostinger は明確なルールと30日間のお試し期間でサービスを提供しています。サイトを止められない場合は、保証をプランに明記しておく必要がありますが、公開ページには数値がありません。ブラックフライデーについて知りたい場合は、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
+        ]
+      },
+      {
+        "heading": "プランの確認",
+        "paragraphs": [
+          "紹介リンクの20%割引は新しいプランの最初の期間にのみ適用され、他のクーポンとは併用できません。サイトに合うなら、リンク付きのプランは[このサイトのHostingerページ](/ja/coupons/hostinger)にあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "**Hostingerは信頼できますか？** 大手企業で、返金と更新のポリシーが公開されています。注意が必要なのは会社の信頼性ではなく、自動更新とその価格です。",
+          "**Hostingerに返金制度はありますか？** はい。ホスティングとVPSは30日以内であれば返金されます。表にある例外が適用されます。ドメインの更新と有料のサポートサービスは返金されません。",
+          "**Hostingerの更新は自動ですか？** はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しない場合、期間の終わりにサービスは終了します。",
+          "**Hostingerでは誰が請求しますか？** 国によって異なります。契約会社は地域によって変わるため、チェックアウト画面と請求書で会社名を確認してください。",
+          "**Hostingerのクーポンは必要ですか？** 必要ありません。紹介リンクから申し込めば、新しいプランの最初の期間が20%割引になります。この割引は他のクーポンとは併用できません。"
+        ]
+      },
+      {
+        "heading": "支払い前のチェックリスト",
+        "bullets": [
+          "返金表で、ご利用の製品の行を確認してください。",
+          "最初の期間の価格だけでなく、更新時の価格も確認してください。",
+          "更新を続けたくない場合は、購入後すぐに自動更新をオフにしてください。",
+          "チェックアウト画面と請求書で、どの会社が請求元になっているか確認してください。",
+          "プランの文書で可用性の保証を探してください。"
+        ]
+      },
+      {
+        "heading": "透明性について",
+        "paragraphs": [
+          "この記事にはHostingerの紹介リンクが含まれています。リンク経由で契約すると、プログラムによって Bruno に Hostinger のクレジットが付与される場合があります。返金、更新、会社情報はHostingerの公開文書から得ており、2026年10月19日に確認しました。体験はあくまで私たちのものであり、あなたのプランに自動的に当てはまるわけではありません。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "20%割引は最初の契約期間のみ有効で、他のクーポンとは併用できません。リンクからプランをご覧ください。",
+      "label": "Hostingerのプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "この記事にはこのサイトをホストしているHostingerの紹介リンクが含まれています。リンクから購入すると、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-reviews-ja",
+        "title": "Hostinger の Trustpilot 評価、苦情、数字が示すこと"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerのクーポンは不要です：紹介リンクで受けられる割引"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "slug": "hostinger-trust-guide-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼",
+    "seoTitle": "Hostinger 可靠嗎？退款與續訂",
+    "type": "編輯專題",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 可靠嗎？誰負責收費、30 天退款與不包含的項目、自動續訂，以及付款前該確認的事。",
+    "metaDescription": "Hostinger 可靠嗎？了解收費方、30 天退款與例外、以新價格自動續訂的規則，以及下單前要核對的事項。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "紫色背景上以白色呈現的盾牌，旁邊是日曆，盾牌上有數字 30",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 是規模不小的公司，退款與續訂規則都公開透明。主機方案可在 30 天內申請退款；以我們的經驗，服務與客服運作正常。真正要留意的不是公司是否可靠，而是續訂：續訂預設開啟，續訂價格也可能不同。",
+          "付款前請確認三件事：退款涵蓋哪些項目、何時開始續訂，以及帳單上會顯示哪家公司。下面各節會逐一說明。"
+        ]
+      },
+      {
+        "heading": "Hostinger 背後的公司",
+        "paragraphs": [
+          "服務條款說明，簽約公司取決於客戶所在的國家。付款前，請核對結帳頁面與帳單上顯示的公司名稱。"
+        ]
+      },
+      {
+        "heading": "退款：30 天，有例外",
+        "paragraphs": [
+          "Hostinger 的退款政策（2026年10月15日版本，2026年10月19日查閱）允許你自交易日起 30 天內申請退款。依政策本身，續訂也屬於一筆交易，因此每次扣款都會重新計算期限。下表是政策列出的內容："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "產品",
+            "退款"
+          ],
+          "rows": [
+            [
+              "主機（所有方案，免費試用後的首筆付款除外）",
+              "可以，30 天內"
+            ],
+            [
+              "VPS（KVM）",
+              "可以，30 天內；且只有在上一次 VPS 退款申請距今超過 180 天時才適用"
+            ],
+            [
+              "Hostinger 電郵、SSL 憑證、每日備份",
+              "可以，30 天內"
+            ],
+            [
+              "新網域註冊",
+              "只限 96 小時內"
+            ],
+            [
+              ".br 註冊（.com.br、.net.br）",
+              "只限 168 小時內"
+            ],
+            [
+              "網域續訂",
+              "不可以"
+            ],
+            [
+              "網域轉移（成功時）",
+              "不可以"
+            ],
+            [
+              "VPS KVM 升級與額外電郵儲存空間",
+              "不可以"
+            ],
+            [
+              "付費支援服務",
+              "不可以"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "申請退款時，請使用網站右下角的按鈕開立工單，並附上帳單編號（以 HBR 開頭）與原因。款項會退回你付款所用的方式。若選擇退回帳戶餘額，退款會變成額度，不會退回信用卡。政策也說明會拒絕重複或大量的申請。"
+        ]
+      },
+      {
+        "heading": "自動續訂與新價格",
+        "paragraphs": [
+          "下單後會自動進入續訂，因為這是預設設定。扣款會在期限結束前 30 至 0 天之間進行，從設為預設的信用卡扣款，金額為扣款當日該方案的現行價格。條款指出，這個價格可能高於或低於首個計費週期，而且價格變動會在續訂時生效，無需事先通知。",
+          "Hostinger 可能在扣款前以電郵提醒，但條款說明它沒有這個義務。例如，月付方案的客戶不會收到通知。要關閉自動續訂，請登入帳戶，隨時停用續訂即可。若你關閉了續訂，又在期限結束前沒有手動續費，服務就會終止。",
+          "在巴西的公開投訴網站 Reclame Aqui 上，扣款是針對這家公司最常見的問題，這件事在[關於 Hostinger 口碑的文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)中有詳述。推薦碼在續訂時的規則，以及折扣會怎麼變，則在[推薦碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)中說明。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-zh-hant.webp",
+            "alt": "時間軸：購買、30 天退款期、期限結束前 30 至 0 天扣款，以及以現行價格續訂",
+            "caption": "從購買到續訂的 Hostinger 時間軸。原創插圖",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "停機與可用性保證",
+        "paragraphs": [
+          "條款指出，網站可能因維護或公司無法控制的因素而「不時」離線，Hostinger 對此不承擔責任。定價頁的方案表宣稱「保證 99.9% 運作時間」（2026年10月19日查閱）。這是 Hostinger 的宣傳內容；如果有可用性承諾，應寫在各項服務的文件中。",
+          "如果你的網站不能離線，付款前請先查看方案文件。頁面上的一句話並不足夠。"
+        ]
+      },
+      {
+        "heading": "投訴與評價",
+        "paragraphs": [
+          "Trustpilot 上 Hostinger 的評分為 4.6，但這些評價來自公司主動邀請客戶留下的評論。完整數字，以及它們沒有反映的部分，都在[關於 Hostinger 口碑的文章](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)中。"
+        ]
+      },
+      {
+        "heading": "客服",
+        "paragraphs": [
+          "包括退款在內的工單，都透過網站右下角的工單按鈕開立。"
+        ]
+      },
+      {
+        "heading": "我們的經驗",
+        "paragraphs": [
+          "Em Casa com Cecília 的網站運行於 Hostinger。同時署名本文的 Bruno 自 2024 年起就是客戶，已有超過 24 個月的合約：商務主機、一台 KVM 2 VPS、商務電郵與網域，全部設定自動續訂。他從未見過服務停機，每次遇到問題，客服都解決了，尤其是 AI 客服代理。",
+          "這是一次個人經驗，不是保證。它無法說明你的方案會發生什麼事，也不能代表其他價格或其他週期的方案。"
+        ]
+      },
+      {
+        "heading": "什麼情況適合，什麼情況不適合",
+        "paragraphs": [
+          "如果是部落格、個人網站或小型商店，Hostinger 以清楚的規則與 30 天的試用期提供服務。若網站不能離線，保證必須寫在方案中，而公開頁面並沒有提供這個數字。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)列出了每項優惠的日期與規則。"
+        ]
+      },
+      {
+        "heading": "在哪裡看方案",
+        "paragraphs": [
+          "推薦連結提供的 20% 優惠只適用於新方案的首個計費週期，且不能與其他優惠券疊加。如果適合你的網站，帶有連結的方案可在[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)查看。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "**Hostinger 可靠嗎？** 它是規模不小的公司，退款與續訂政策都公開透明。需要注意的是自動續訂與其價格，而不是公司是否可靠。",
+          "**Hostinger 有退款嗎？** 有。主機與 VPS 可在 30 天內退款，但適用表中的例外。網域續訂與付費支援服務不予退款。",
+          "**Hostinger 的續訂是自動的嗎？** 是的，預設如此。你隨時可以在帳戶中關閉；若不手動續費，服務會在期限結束時終止。",
+          "**Hostinger 由誰收費？** 視國家而定。簽約公司會依地區不同，請在結帳頁面與帳單上確認公司名稱。",
+          "**需要 Hostinger 優惠券嗎？** 不需要。推薦連結已經為新方案的首個計費週期提供 20% 優惠，而且這個優惠不能與其他優惠券疊加。"
+        ]
+      },
+      {
+        "heading": "付款前檢查清單",
+        "bullets": [
+          "查看退款表中你所購產品的那一行。",
+          "不只看首個計費週期的價格，也要看續訂價格。",
+          "如果不想讓它繼續，購買後盡快關閉自動續訂。",
+          "在結帳頁面與帳單上確認哪家公司是收費方。",
+          "在你的方案文件中找出可用性保證。"
+        ]
+      },
+      {
+        "heading": "透明度說明",
+        "paragraphs": [
+          "本文含有 Hostinger 的推薦連結。如果你透過該連結購買，可能會為 Bruno 在 Hostinger 產生帳戶額度。退款、續訂與公司資料來自 Hostinger 的公開文件，於 2026 年 10 月 19 日查閱。這些體驗是我們自己的，不會自動適用於你的方案。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "20% 優惠只適用於首個計費週期，且不能與其他優惠券疊加。透過連結查看方案。",
+      "label": "查看 Hostinger 方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "本文含有 Hostinger 的推薦連結，而 Hostinger 也是本站的主機服務商。透過連結購買，Bruno 可能獲得 Hostinger 的帳戶額度，但你不需額外付費。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hant",
+        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "slug": "hostinger-trust-guide-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-trust-guide",
+    "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么",
+    "seoTitle": "Hostinger 靠谱吗？退款与续费",
+    "type": "编辑专题",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 靠谱吗？谁负责收费、30 天退款及其不包括的项目、自动续费，以及付款前要确认什么。",
+    "metaDescription": "Hostinger 靠谱吗？了解收费方、30 天退款及例外、按新价格自动续费的规则，以及下单前要核对的事项。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
+    "imageAlt": "紫色背景上以白色呈现的盾牌，旁边是日历，盾牌上有数字 30",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 是规模不小的公司，退款和续费规则公开透明。主机套餐可在 30 天内申请退款；根据我们的经验，服务和客服运行正常。真正要留意的不是公司是否靠谱，而是续费：续费默认开启，续费价格也可能不同。",
+          "付款前请确认三件事：退款涵盖哪些项目、何时开始续费，以及账单上会显示哪家公司。下面各节会逐一说明。"
+        ]
+      },
+      {
+        "heading": "Hostinger 背后的公司",
+        "paragraphs": [
+          "服务条款说明，签约公司取决于客户所在的国家。付款前，请核对结账页面和账单上显示的公司名称。"
+        ]
+      },
+      {
+        "heading": "退款：30 天，有例外",
+        "paragraphs": [
+          "Hostinger 的退款政策（2026年10月15日版本，2026年10月19日查阅）允许你自交易日起 30 天内申请退款。按政策本身，续费也算一笔交易，因此每次扣款都会重新计算期限。下表是政策列出的内容："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "产品",
+            "退款"
+          ],
+          "rows": [
+            [
+              "主机（所有套餐，免费试用后的首笔付款除外）",
+              "可以，30 天内"
+            ],
+            [
+              "VPS（KVM）",
+              "可以，30 天内；且只有在上一次 VPS 退款申请距今超过 180 天时才适用"
+            ],
+            [
+              "Hostinger 邮箱、SSL 证书、每日备份",
+              "可以，30 天内"
+            ],
+            [
+              "新域名注册",
+              "仅限 96 小时内"
+            ],
+            [
+              ".br 注册（.com.br、.net.br）",
+              "仅限 168 小时内"
+            ],
+            [
+              "域名续费",
+              "不可以"
+            ],
+            [
+              "域名转移（成功时）",
+              "不可以"
+            ],
+            [
+              "VPS KVM 升级与额外邮箱存储空间",
+              "不可以"
+            ],
+            [
+              "付费支持服务",
+              "不可以"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "申请退款时，请使用网站右下角的按钮提交工单，并附上账单编号（以 HBR 开头）和原因。款项会退回你付款所用的方式。若选择退回账户余额，退款会变成额度，不会退回银行卡。政策还说明会拒绝重复或大量的申请。"
+        ]
+      },
+      {
+        "heading": "自动续费与新价格",
+        "paragraphs": [
+          "下单后会自动进入续费，因为这是默认设置。扣款会在到期前 30 至 0 天之间进行，从设为默认的银行卡扣款，金额为扣款当日该套餐的现行价格。条款指出，这个价格可能高于或低于首个计费周期，而且价格变动会在续费时生效，无需事先通知。",
+          "Hostinger 可能在扣款前发邮件提醒，但条款说明它没有这个义务。例如，月付套餐的客户不会收到通知。要关闭自动续费，请登录账户，随时停用续费即可。若你关闭了续费，又在期限结束前没有手动续费，服务就会终止。",
+          "在巴西的公开投诉网站 Reclame Aqui 上，扣款是针对这家公司最常见的问题，这件事在[关于 Hostinger 口碑的文章](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)中有详述。推荐码在续费时的规则，以及折扣会怎么变，则在[推荐码指南](/zh-hans/reviews/hostinger-referral-code-zh-hans)中说明。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-e-confiavel-linha-do-tempo-renovacao-zh-hans.webp",
+            "alt": "时间线：购买、30 天退款期、到期前 30 至 0 天扣款，以及按现行价格续费",
+            "caption": "从购买到续费的 Hostinger 时间线。原创插图",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "宕机与可用性保证",
+        "paragraphs": [
+          "条款指出，网站可能因维护或公司无法控制的因素而“时常”离线，Hostinger 对此不承担责任。定价页的套餐表宣称“保证 99.9% 运行时间”（2026年10月19日查阅）。这是 Hostinger 的宣传内容；如果有可用性承诺，应写在各项服务的文件中。",
+          "如果你的网站不能离线，付款前请先查看套餐文件。页面上的一句话并不足够。"
+        ]
+      },
+      {
+        "heading": "投诉与评价",
+        "paragraphs": [
+          "Trustpilot 上 Hostinger 的评分为 4.6，但这些评价来自公司主动邀请客户留下的评论。完整数字，以及它们没有反映的部分，都在[关于 Hostinger 口碑的文章](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)中。"
+        ]
+      },
+      {
+        "heading": "客服",
+        "paragraphs": [
+          "包括退款在内的工单，都通过网站右下角的工单按钮开具。"
+        ]
+      },
+      {
+        "heading": "我们的经验",
+        "paragraphs": [
+          "Em Casa com Cecília 的网站运行在 Hostinger 上。同时署名本文的 Bruno 从 2024 年起就是客户，已有超过 24 个月的合同：商务主机、一台 KVM 2 VPS、商务邮箱和域名，全部设置了自动续费。他从未见过服务宕机，每次遇到问题，客服都解决了，尤其是 AI 客服代理。",
+          "这是一次个人经验，不是保证。它无法说明你的套餐会发生什么，也不能代表其他价格或其他周期的套餐。"
+        ]
+      },
+      {
+        "heading": "什么情况适合，什么情况不适合",
+        "paragraphs": [
+          "如果是博客、个人网站或小型店铺，Hostinger 以清晰的规则和 30 天的试用期提供服务。如果网站不能离线，保证必须写在套餐里，而公开页面并没有给出这个数字。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)列出了每项优惠的日期和规则。"
+        ]
+      },
+      {
+        "heading": "在哪里看套餐",
+        "paragraphs": [
+          "推荐链接提供的 20% 优惠只适用于新套餐的首个计费周期，且不能与其他优惠券叠加。如果适合你的网站，带有链接的套餐可在[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)查看。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "**Hostinger 靠谱吗？** 它是规模不小的公司，退款和续费政策都公开透明。需要注意的是自动续费及其价格，而不是公司是否靠谱。",
+          "**Hostinger 有退款吗？** 有。主机和 VPS 可在 30 天内退款，但适用表中的例外。域名续费和付费支持服务不予退款。",
+          "**Hostinger 的续费是自动的吗？** 是的，默认如此。你随时可以在账户中关闭；若不手动续费，服务会在期限结束时终止。",
+          "**Hostinger 由谁收费？** 视国家而定。签约公司会因地区不同而变化，请在结账页面和账单上确认公司名称。",
+          "**需要 Hostinger 优惠券吗？** 不需要。推荐链接已经为新套餐的首个计费周期提供 20% 优惠，而且这个优惠不能与其他优惠券叠加。"
+        ]
+      },
+      {
+        "heading": "付款前检查清单",
+        "bullets": [
+          "查看退款表中你所购产品的那一行。",
+          "不只看首个计费周期的价格，也要看续费价格。",
+          "如果不想让它继续，购买后尽快关闭自动续费。",
+          "在结账页面和账单上确认哪家公司是收费方。",
+          "在你的套餐文件中找到可用性保证。"
+        ]
+      },
+      {
+        "heading": "透明度说明",
+        "paragraphs": [
+          "本文含有 Hostinger 的推荐链接。如果你通过该链接购买，可能会为 Bruno 在 Hostinger 产生账户额度。退款、续费和公司信息来自 Hostinger 的公开文件，于 2026 年 10 月 19 日查阅。这些体验是我们自己的，不会自动适用于你的套餐。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "20% 优惠仅适用于首个计费周期，且不能与其他优惠券叠加。通过链接查看套餐。",
+      "label": "查看 Hostinger 套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "本文含有 Hostinger 的推荐链接，而 Hostinger 也是本站的主机服务商。通过链接购买，Bruno 可能获得 Hostinger 的账户额度，但你不需要额外付费。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hans",
+        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "slug": "hostinger-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Hostinger no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "A nota da Hostinger no Reclame Aqui em 30/09/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
+    "metaDescription": "Hostinger no Reclame Aqui até 30/09/2026: nota 8,6 em 6 meses, 88,6% das reclamações resolvidas e cobrança indevida como queixa mais citada. Veja como desligar a renovação.",
+    "publishedAt": "19 de outubro de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Cinco estrelas brancas, a última mais clara, sobre dois balões de conversa, em fundo roxo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 30 de setembro de 2026, a Hostinger tinha reputação **Ótima** no Reclame Aqui: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses. A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas.",
+          "O número não conta a história toda. Entre os problemas comentados, o mais citado é **cobrança indevida**, com 21,72%. Na hospedagem, esse tipo de queixa pede atenção, porque a renovação automática cobra sozinha antes do vencimento. A seção sobre renovação mostra onde fica a opção e como desligá-la.",
+          "A nota não diz qual foi o motivo de cada queixa. Por isso, vale ler o assunto, e não só o número."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-perfil.webp",
+            "alt": "Topo do perfil da Hostinger no Reclame Aqui, com reputação Ótima e empresa verificada",
+            "caption": "Perfil da Hostinger no Reclame Aqui, lido em 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 3.5556
+          }
+        ]
+      },
+      {
+        "heading": "O que a nota diz e o que não diz",
+        "paragraphs": [
+          "O perfil mostra um quadro para cada período. A tabela reúne as duas abas lidas em 19/10/2026, com as datas que o próprio Reclame Aqui mostra embaixo de cada uma."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Ótima, nota 8,6",
+              "Ótima, nota 8,4"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.352",
+              "2.416"
+            ],
+            [
+              "Respondidas",
+              "99,3%",
+              "99,6%"
+            ],
+            [
+              "Aguardando resposta",
+              "10",
+              "10"
+            ],
+            [
+              "Resolvidas",
+              "88,6%",
+              "87,9%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "80,3%",
+              "77,6%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "652",
+              "1.185"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,71",
+              "7,38"
+            ],
+            [
+              "Tempo médio de resposta",
+              "8 dias e 1 hora",
+              "7 dias e 17 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A reputação é a mesma nas duas abas. Da de 6 meses para a de 12, a taxa de resolução cai 0,7 ponto, e a de quem voltaria a fazer negócio cai 2,7 pontos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-montagem-6-e-12-meses.webp",
+            "alt": "Abas de 6 meses e de 12 meses do perfil da Hostinger no Reclame Aqui, lado a lado, com as datas de cada período",
+            "caption": "Aba de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), lidas em 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6521
+          }
+        ]
+      },
+      {
+        "heading": "Três leituras que mudam a conta",
+        "paragraphs": [
+          "Primeiro, entre as reclamações avaliadas, 80,3% dizem que voltariam a fazer negócio nos 6 meses. O resto, quase um em cada cinco, não voltaria.",
+          "Segundo, menos da metade das reclamações foi avaliada: 652 de 1.352 nos 6 meses. A nota média do consumidor, 7,71, vem só dessa parte.",
+          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 8 dias e 1 hora. A empresa responde quase tudo (99,3%), mas quem está sem site no ar não espera uma semana.",
+          "O print também não mostra o total de clientes da empresa. Sem esse número, 1.352 reclamações em 6 meses dizem quanto a empresa recebe de queixas, mas não dizem a frequência do problema para cada cliente."
+        ]
+      },
+      {
+        "heading": "O que as pessoas reclamam",
+        "paragraphs": [
+          "Na aba de principais problemas, o Reclame Aqui mostra três rankings. Eles valem para as reclamações dos últimos 3 anos da aba geral, e não só para os 6 meses. Os números são:"
+        ],
+        "bullets": [
+          "**Cobrança indevida:** 21,72%, no ranking de problemas. É o problema mais citado da lista.",
+          "**Provedores e serv. de internet:** 24,6%, no ranking de categorias. É o rótulo do perfil de telefonia e internet do Reclame Aqui, e não diz qual serviço da Hostinger gerou a queixa.",
+          "**Outro tipo de produto/serviço:** 11,95%, no ranking de produtos. Também não diz qual produto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-principais-problemas.webp",
+            "alt": "Quadro de principais problemas comentados da Hostinger no Reclame Aqui, com cobrança indevida em 21,72%",
+            "caption": "Principais problemas comentados, aba geral do Reclame Aqui (até 3 anos), lido em 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.2188
+          }
+        ],
+        "postParagraphs": [
+          "O print não separa as cobranças indevidas por motivo, e não diz quantas são de renovação. A ligação com a renovação automática é uma leitura nossa, e é por aí que vale começar a checagem."
+        ]
+      },
+      {
+        "heading": "Por que a cobrança indevida pesa na hospedagem",
+        "paragraphs": [
+          "Quando a renovação automática está ligada, o produto é renovado antes do vencimento e cobrado no método de pagamento cadastrado. A central de ajuda da Hostinger diz isso, e também diz que a opção pode ser desligada a qualquer momento, sem afetar o serviço até a data de vencimento.",
+          "Desligar a renovação também tem um risco: sem outro plano pronto, o site pode sair do ar na data de vencimento. Por isso a própria central recomenda manter a renovação ligada para quem pretende continuar.",
+          "As regras do preço de renovação e do que não soma estão no [artigo sobre o código de indicação](/reviews/cupom-hostinger-indicacao). Aqui, o ponto é outro: saber onde fica a opção e como desligá-la."
+        ]
+      },
+      {
+        "heading": "Como desligar a renovação automática",
+        "paragraphs": [
+          "Segundo a central de ajuda da Hostinger, lida em 19/10/2026, o caminho é este:"
+        ],
+        "bullets": [
+          "No hPanel, abra o menu **Faturas**.",
+          "Vá até a página **Serviços**.",
+          "Clique nos três pontinhos (⋮) ao lado do produto.",
+          "Escolha **Configurações de Renovação**.",
+          "Desmarque **Ativar renovação automática** e clique em **Salvar**."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-passos-renovacao.webp",
+            "alt": "Cinco passos para desligar a renovação automática na Hostinger: Faturas, Serviços, os três pontinhos, Configurações de Renovação e Salvar",
+            "caption": "Passo a passo para desligar a renovação automática, com base na central de ajuda da Hostinger.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "Quando a opção estiver desligada, o produto segue ativo até a data de vencimento. Para ligar de novo, é preciso ter um método de pagamento cadastrado. A central também diz que, se a renovação estiver a um dia ou menos do vencimento, é preciso renovar manualmente antes de ligar a opção de novo. Os nomes dos menus podem mudar; se mudarem, procure \"renovação automática\" na seção Faturas."
+        ]
+      },
+      {
+        "heading": "Trustpilot: a nota de quem avalia",
+        "paragraphs": [
+          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura de 19/10/2026, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.316 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5 mil avaliações.",
+          "Antes de usar esse número, veja o que a própria página mostra:"
+        ],
+        "bullets": [
+          "O perfil é reivindicado desde maio de 2017, ou seja, a empresa administra a página.",
+          "A empresa tem assinatura paga do Trustpilot.",
+          "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Um convite amplo puxa a média para cima e não mostra quem ficou de fora.",
+          "A empresa responde 98% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
+          "O próprio Trustpilot diz que não checa as avaliações uma a uma."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Topo do perfil da Hostinger no Trustpilot, com nota 4,6, 73.316 avaliações, perfil reivindicado, assinatura paga e o aviso de que a empresa convida os clientes a avaliar",
+            "caption": "Perfil da Hostinger no Trustpilot em 19/10/2026. Imagem: print do Bruno.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Barras de avaliação da Hostinger no Trustpilot, de 5 a 1 estrela, com os percentuais",
+            "caption": "Distribuição das avaliações da Hostinger no Trustpilot, lida em 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "Não lemos o texto das avaliações de uma estrela, então este texto não diz o que elas reclamam. O Reclame Aqui mostra a queixa e a resposta; o Trustpilot mostra o que as pessoas acham no geral. Os dois juntos são melhores que cada um sozinho."
+        ]
+      },
+      {
+        "heading": "O que a Hostinger responde",
+        "paragraphs": [
+          "Os prints mostram o índice de respostas (99,3% nos 6 meses, com 10 reclamações aguardando) e não o texto das respostas. Por isso, este texto não diz se as respostas resolvem. Antes de contratar, leia algumas respostas no perfil, principalmente as que tratam de cobrança."
+        ]
+      },
+      {
+        "heading": "Nossa experiência",
+        "paragraphs": [
+          "O Bruno, que também assina este texto, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura: hospedagem Business, um VPS KVM 2, e-mail Business e domínios, todos com renovação automática. O site Em Casa com Cecília roda na Hostinger.",
+          "Toda vez que ele teve algum problema, o suporte resolveu, principalmente o agente de IA, e ele nunca viu uma queda do serviço.",
+          "Isso é a conta dele, com o uso dele. Não diz nada sobre quem caiu numa cobrança que não esperava, e as reclamações do Reclame Aqui continuam valendo."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**A Hostinger tem nota boa no Reclame Aqui?** Em 30/09/2026, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+          "**Quais são as reclamações mais comuns da Hostinger?** No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
+          "**A Hostinger responde reclamações?** Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
+          "**Como desligar a renovação automática da Hostinger?** No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento."
+        ]
+      },
+      {
+        "heading": "Se você já decidiu",
+        "paragraphs": [
+          "Se você decidiu contratar, o desconto de 20% no primeiro período vale pelo link de indicação, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. O desconto não soma com outros cupons, e a renovação volta ao preço normal do plano, como explica o [artigo sobre o código de indicação](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) compara os dois preços, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os números do Reclame Aqui são dos prints feitos em 19/10/2026: as abas de 6 e 12 meses e o ranking de problemas (aba geral, até 3 anos). O Trustpilot e a central de ajuda da Hostinger foram lidos na mesma data. Esses números mudam todo mês, então confira antes de decidir.",
+          "Este link é de indicação: a compra pode gerar crédito na Hostinger para o Bruno. Não há parceria de marca, e o crédito não entra na análise."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se você já decidiu, os planos com 20% no primeiro período estão no link. O desconto não soma com outros cupons.",
+      "label": "Ver os planos com desconto",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Link de indicação: a compra pelo link pode gerar crédito na Hostinger para o Bruno, sem custo extra para você. O site roda na Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "slug": "hostinger-trustpilot-reviews",
+    "locale": "en",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger on Trustpilot: score, complaints and what the numbers show",
+    "seoTitle": "Hostinger on Trustpilot: score and complaints",
+    "type": "Reputation Analysis",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger’s Trustpilot score in October 2026: a TrustScore of 4.6 from 73,316 reviews, what the company’s profile shows, the Reclame Aqui context in Brazil, and how to turn off automatic renewal.",
+    "metaDescription": "Hostinger on Trustpilot on October 19, 2026: TrustScore 4.6 from 73,316 reviews, what the company’s profile shows, and how to turn off automatic renewal.",
+    "publishedAt": "October 19, 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Five white stars, the last one lighter, above two speech bubbles on a purple background",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "On October 19, 2026, Hostinger had a **TrustScore of 4.6 (“Excellent”)** on Trustpilot, from 73,316 reviews. Five stars make up 87.1% of them, and one star 6.9%.",
+          "On Trustpilot, the company invites customers to leave reviews, and the profile is run by the company itself. The score is a useful signal, but it needs context, as the points below show. Then comes Reclame Aqui, a Brazilian complaints site with a different story."
+        ]
+      },
+      {
+        "heading": "Trustpilot: the score and what the page shows",
+        "paragraphs": [
+          "Trustpilot is an international review site. Hostinger’s profile shows five stars at 87.1%, four at 4.3%, three at 0.9%, two at 0.8% and one star at 6.9%, about 5,000 reviews. Before using that number, check what the page itself shows:"
+        ],
+        "bullets": [
+          "The profile has been claimed since May 2017, which means the company manages the page.",
+          "The company has a paid Trustpilot subscription.",
+          "The page says Hostinger invites customers to review, both positive and negative experiences. A broad invitation pushes the average up and does not show who was left out.",
+          "The company responds to 98% of negative reviews, usually within 24 hours, and may use AI in its replies.",
+          "Trustpilot itself says it does not check reviews one by one."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, 73,316 reviews, a claimed profile, a paid subscription and the notice that the company invites customers to review",
+            "caption": "Hostinger’s Trustpilot profile on October 19, 2026. Image: Bruno’s screenshot.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Trustpilot rating bars for Hostinger, from five stars to one, with the percentages",
+            "caption": "Distribution of Hostinger’s Trustpilot reviews, read on October 19, 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "We did not read the text of the one-star reviews, so this text does not say what they complain about. Reclame Aqui shows the complaint and the reply; Trustpilot shows what people think overall. Together they are better than either one alone."
+        ]
+      },
+      {
+        "heading": "What Reclame Aqui shows in Brazil",
+        "paragraphs": [
+          "Reclame Aqui is a public complaints site in Brazil. On September 30, 2026, Hostinger was in the site’s top tier there (“Great”), with a score of 8.6 over the last 6 months and 8.4 over 12 months. The company answered 99.3% of the 1,352 complaints from those 6 months and marked 88.6% as resolved. The most cited problem in the general ranking (last 3 years) was **improper charges**, at 21.72%. The site does not say how many of those charges were renewals, so the link to automatic renewal is our reading, not a figure from the site."
+        ]
+      },
+      {
+        "heading": "Why improper charges weigh on hosting",
+        "paragraphs": [
+          "When automatic renewal is on, the product renews before it expires and is charged to the payment method on file. Hostinger’s help center says so, and also says the option can be turned off at any time, without affecting the service until the expiry date.",
+          "Turning renewal off has a risk too: without another plan ready, the site can go offline on the expiry date. That is why the help center itself recommends keeping renewal on for anyone who plans to continue.",
+          "The rules for the renewal price and for what does not stack are in the [article on the referral link](/en/reviews/hostinger-coupon-code-referral). Here the point is different: knowing where the option is and how to turn it off."
+        ]
+      },
+      {
+        "heading": "How to turn off automatic renewal",
+        "paragraphs": [
+          "According to Hostinger’s help center, read on October 19, 2026, the path is this:"
+        ],
+        "bullets": [
+          "In your account's billing area, open the invoices section.",
+          "Go to your list of services or subscriptions.",
+          "Open the three-dot menu next to the product.",
+          "Go to the renewal settings for that product.",
+          "Turn off automatic renewal and save the change."
+        ],
+        "postParagraphs": [
+          "With the option off, the product stays active until the expiry date. To turn it back on, you need a payment method on file. The help center also says that if renewal is one day or less from expiry, you must renew manually before turning the option back on. Menu names can change, so look for the automatic renewal option in the billing area."
+        ]
+      },
+      {
+        "heading": "What Hostinger answers",
+        "paragraphs": [
+          "On Trustpilot, the company says it responds to 98% of negative reviews, usually within 24 hours. The screenshots show the response rate and not the text of the replies, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about charges. On Reclame Aqui, the response index is 99.3% over 6 months, with 10 complaints waiting for a reply."
+        ]
+      },
+      {
+        "heading": "Our experience",
+        "paragraphs": [
+          "Bruno, who also signs this text, has been a Hostinger customer since 2024, for more than 24 months: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. The Em Casa com Cecília site runs on Hostinger.",
+          "Each time he had a problem, support solved it, mainly the AI agent, and he has never seen the service go down.",
+          "That is his account, with his use. It says nothing about someone who was charged without expecting it, and the Reclame Aqui complaints still count."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "**Does Hostinger have good reviews?** On Trustpilot, the score on October 19, 2026 was 4.6 (“Excellent”), from 73,316 reviews. The profile is run by the company itself, so read the details before deciding.",
+          "**Does Hostinger have complaints?** Yes. On Reclame Aqui, the most cited problem in the general ranking (last 3 years) was improper charges, at 21.72%.",
+          "**Does Hostinger answer complaints?** Yes. On Trustpilot the company says it responds to 98% of negative reviews, usually within 24 hours. On Reclame Aqui, 99.3% of the complaints from the last 6 months were answered.",
+          "**How do I turn off Hostinger’s automatic renewal?** In your account's billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
+        ]
+      },
+      {
+        "heading": "If you have already decided",
+        "paragraphs": [
+          "If you have decided to buy, the 20% discount on the first period applies through the referral link, and the [Hostinger page](/en/coupons/hostinger) has the details. The discount does not stack with other coupons, and renewal goes back to the normal plan price, as the [article on the referral link](/en/reviews/hostinger-coupon-code-referral) explains. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) compares the two prices, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+        ]
+      },
+      {
+        "heading": "Transparency note",
+        "paragraphs": [
+          "The Trustpilot figures were read on October 19, 2026, from the profile page. The Reclame Aqui figures come from screenshots taken the same day: the 6- and 12-month tabs and the problems ranking (general tab, last 3 years). The help-center text was read on that date too. These numbers change every month, so check them before deciding.",
+          "This is a referral link: buying through it may give Bruno credit with Hostinger. There is no brand partnership, and the credit does not factor into this analysis."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "If you have already decided, the plans with 20% off the first period are behind the link. The discount does not stack with other coupons.",
+      "label": "See the discounted plans",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Referral link: buying through it may give Bruno credit with Hostinger, at no extra cost to you. This site runs on Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon: you don't need one — what the referral link gives"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "slug": "hostinger-opiniones-trustpilot",
+    "locale": "es",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran los datos",
+    "seoTitle": "Hostinger en Trustpilot: calificación y quejas",
+    "type": "Análisis de reputación",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "La calificación de Hostinger en Trustpilot en octubre de 2026: TrustScore 4,6 con 73.316 opiniones, lo que muestra el perfil de la empresa, el contexto de Reclame Aqui en Brasil y cómo desactivar la renovación automática.",
+    "metaDescription": "Hostinger en Trustpilot el 19 de octubre de 2026: TrustScore 4,6 con 73.316 opiniones, lo que muestra el perfil de la empresa y cómo desactivar la renovación automática.",
+    "publishedAt": "19 de octubre de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Cinco estrellas blancas, la última más clara, sobre dos globos de conversación en un fondo morado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El 19 de octubre de 2026, Hostinger tenía un **TrustScore de 4,6 («Excelente»)** en Trustpilot, con 73.316 opiniones. Las cinco estrellas suman el 87,1 % de ellas, y una estrella, el 6,9 %.",
+          "En Trustpilot, la empresa invita a los clientes a opinar, y el perfil lo administra la propia empresa. La calificación es una señal útil, pero necesita contexto, como muestran los puntos de abajo. Después viene Reclame Aqui, un sitio brasileño de quejas con otra historia."
+        ]
+      },
+      {
+        "heading": "Trustpilot: la calificación y lo que muestra la página",
+        "paragraphs": [
+          "Trustpilot es un sitio internacional de opiniones. El perfil de Hostinger muestra cinco estrellas con el 87,1 %, cuatro con el 4,3 %, tres con el 0,9 %, dos con el 0,8 % y una estrella con el 6,9 %, unas 5.000 opiniones. Antes de usar ese número, mira lo que muestra la propia página:"
+        ],
+        "bullets": [
+          "El perfil está reclamado desde mayo de 2017, es decir, la empresa administra la página.",
+          "La empresa tiene una suscripción paga de Trustpilot.",
+          "La página dice que Hostinger invita a los clientes a opinar, tanto si la experiencia fue buena como mala. Una invitación amplia sube el promedio y no muestra quién quedó afuera.",
+          "La empresa responde al 98 % de las opiniones negativas, por lo general en hasta 24 horas, y puede usar IA en las respuestas.",
+          "El propio Trustpilot dice que no revisa las opiniones una por una."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, 73.316 opiniones, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
+            "caption": "Perfil de Hostinger en Trustpilot el 19 de octubre de 2026. Imagen: captura de Bruno.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Barras de calificación de Hostinger en Trustpilot, de cinco a una estrella, con los porcentajes",
+            "caption": "Distribución de las opiniones de Hostinger en Trustpilot, leída el 19 de octubre de 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "No leímos el texto de las opiniones de una estrella, así que este texto no dice de qué se quejan. Reclame Aqui muestra la queja y la respuesta; Trustpilot muestra lo que la gente piensa en general. Juntos valen más que cada uno por separado."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui: el contexto de Brasil",
+        "paragraphs": [
+          "Reclame Aqui es un sitio brasileño de quejas públicas. El 30 de septiembre de 2026, Hostinger tenía allí la categoría más alta del sitio (excelente), con una nota de 8,6 en los últimos 6 meses y de 8,4 en los últimos 12. La empresa respondió al 99,3 % de las 1.352 quejas de los 6 meses y marcó el 88,6 % como resueltas. El problema más citado en el ranking general (últimos 3 años) fueron los **cobros indebidos**, con el 21,72 %. El sitio no dice cuántos de esos cobros son renovaciones, así que la relación con la renovación automática es nuestra lectura, no una cifra del sitio."
+        ]
+      },
+      {
+        "heading": "Por qué los cobros indebidos pesan en el hosting",
+        "paragraphs": [
+          "Con la renovación automática activada, el producto se renueva antes del vencimiento y se cobra al medio de pago registrado. El centro de ayuda de Hostinger lo dice, y también explica que la opción se puede desactivar en cualquier momento, sin afectar el servicio hasta la fecha de vencimiento.",
+          "Desactivar la renovación también tiene un riesgo: si no hay otro plan listo, el sitio puede quedar fuera de línea en la fecha de vencimiento. Por eso el propio centro de ayuda recomienda mantener la renovación activada a quien piensa seguir.",
+          "Las reglas del precio de renovación y de lo que no se suma están en el [artículo sobre el código de referido](/es/reviews/cupon-hostinger-codigo-de-referido). Aquí el punto es otro: saber dónde está la opción y cómo desactivarla."
+        ]
+      },
+      {
+        "heading": "Cómo desactivar la renovación automática",
+        "paragraphs": [
+          "Según el centro de ayuda de Hostinger, consultado el 19 de octubre de 2026, el camino es este:"
+        ],
+        "bullets": [
+          "En el área de facturación de tu cuenta, abre la sección de facturas.",
+          "Ve a tu lista de servicios o suscripciones.",
+          "Abre el menú de tres puntos junto al producto.",
+          "Entra en la configuración de renovación del producto.",
+          "Desactiva la renovación automática y guarda el cambio."
+        ],
+        "postParagraphs": [
+          "Con la opción desactivada, el producto sigue activo hasta la fecha de vencimiento. Para volver a activarla, hace falta un medio de pago registrado. El centro de ayuda también dice que, si la renovación está a un día o menos del vencimiento, hay que renovar manualmente antes de volver a activar la opción. Los nombres de los menús pueden cambiar; busca la opción de renovación automática en el área de facturación."
+        ]
+      },
+      {
+        "heading": "Lo que responde Hostinger",
+        "paragraphs": [
+          "En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. Las capturas muestran el índice de respuestas y no el texto de las respuestas, así que este texto no dice si las respuestas resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros. En Reclame Aqui, el índice es del 99,3 % en 6 meses, con 10 quejas esperando respuesta."
+        ]
+      },
+      {
+        "heading": "Nuestra experiencia",
+        "paragraphs": [
+          "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todo con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
+          "Cada vez que tuvo algún problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
+          "Esa es su cuenta, con su uso. No dice nada de quien recibió un cobro que no esperaba, y las quejas de Reclame Aqui siguen valiendo."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "**¿Hostinger tiene buenas opiniones?** El 19 de octubre de 2026, la calificación en Trustpilot era de 4,6 («Excelente») con 73.316 opiniones. El perfil lo administra la propia empresa, así que lee el detalle antes de decidir.",
+          "**¿Hostinger tiene quejas?** Sí. En Reclame Aqui, el problema más citado del ranking general (últimos 3 años) fueron los cobros indebidos, con el 21,72 %.",
+          "**¿Hostinger responde a las quejas?** Sí. En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. En Reclame Aqui, respondió al 99,3 % de las quejas de los últimos 6 meses.",
+          "**¿Cómo desactivo la renovación automática de Hostinger?** En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta el vencimiento."
+        ]
+      },
+      {
+        "heading": "Si ya decidiste",
+        "paragraphs": [
+          "Si decidiste contratar, el descuento del 20 % en el primer período vale por el enlace de referido, y la [página de Hostinger](/es/coupons/hostinger) muestra los detalles. El descuento no se suma a otros cupones, y la renovación vuelve al precio normal del plan, como explica el [artículo sobre el código de referido](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) compara los dos precios, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+        ]
+      },
+      {
+        "heading": "Nota de transparencia",
+        "paragraphs": [
+          "Los datos de Trustpilot se leyeron el 19 de octubre de 2026 en la página del perfil. Los de Reclame Aqui vienen de capturas hechas el mismo día: las pestañas de 6 y 12 meses y el ranking de problemas (pestaña general, últimos 3 años). El texto del centro de ayuda también se leyó en esa fecha. Estos números cambian cada mes, así que compruébalos antes de decidir.",
+          "Este es un enlace de referido: comprar por él puede generar un crédito en Hostinger para Bruno. No hay alianza de marca, y el crédito no entra en el análisis."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Si ya decidiste, los planes con 20 % de descuento en el primer período están en el enlace. El descuento no se suma a otros cupones.",
+      "label": "Ver los planes con descuento",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Enlace de referido: comprar por el enlace puede generar un crédito en Hostinger para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger: no necesitas uno, esto es lo que da el enlace de referido"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "slug": "hostinger-avis-trustpilot",
+    "locale": "fr",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres",
+    "seoTitle": "Hostinger sur Trustpilot : note et plaintes",
+    "type": "Analyse de réputation",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "La note de Hostinger sur Trustpilot en octobre 2026 : un TrustScore de 4,6 pour 73 316 avis, ce que montre le profil de l’entreprise, le contexte de Reclame Aqui au Brésil et comment désactiver le renouvellement automatique.",
+    "metaDescription": "Hostinger sur Trustpilot le 19 octobre 2026 : TrustScore de 4,6 pour 73 316 avis, ce que montre le profil de l’entreprise et comment désactiver le renouvellement automatique.",
+    "publishedAt": "19 octobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Cinq étoiles blanches, la dernière plus claire, au-dessus de deux bulles de conversation sur fond violet",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le 19 octobre 2026, Hostinger avait un **TrustScore de 4,6 (« Excellent »)** sur Trustpilot, pour 73 316 avis. Les cinq étoiles représentent 87,1 % de ces avis, et une étoile 6,9 %.",
+          "Sur Trustpilot, l’entreprise invite ses clients à laisser un avis, et le profil est géré par l’entreprise elle-même. La note est un signal utile, mais elle a besoin de contexte, comme le montrent les points ci-dessous. Vient ensuite Reclame Aqui, un site brésilien de plaintes à l’histoire différente."
+        ]
+      },
+      {
+        "heading": "Trustpilot : la note et ce que montre la page",
+        "paragraphs": [
+          "Trustpilot est un site international d’avis. Le profil de Hostinger affiche cinq étoiles à 87,1 %, quatre à 4,3 %, trois à 0,9 %, deux à 0,8 % et une étoile à 6,9 %, soit environ 5 000 avis. Avant d’utiliser ce chiffre, regardez ce que la page elle-même montre :"
+        ],
+        "bullets": [
+          "Le profil est revendiqué depuis mai 2017, ce qui signifie que l’entreprise gère la page.",
+          "L’entreprise dispose d’un abonnement payant à Trustpilot.",
+          "La page indique que Hostinger invite ses clients à donner leur avis, positif comme négatif. Une invitation large fait monter la moyenne et ne montre pas qui a été laissé de côté.",
+          "L’entreprise répond à 98 % des avis négatifs, en général dans les 24 heures, et peut utiliser l’IA pour ses réponses.",
+          "Trustpilot lui-même indique qu’il ne vérifie pas les avis un par un."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 73 316 avis, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
+            "caption": "Profil Trustpilot de Hostinger le 19 octobre 2026. Image : capture d’écran de Bruno.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Barres d’évaluation de Hostinger sur Trustpilot, de cinq à une étoile, avec les pourcentages",
+            "caption": "Répartition des avis sur Hostinger sur Trustpilot, relevée le 19 octobre 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "Nous n’avons pas lu le texte des avis à une étoile : ce texte ne dit donc pas de quoi ils se plaignent. Reclame Aqui montre la plainte et la réponse ; Trustpilot montre ce que les gens pensent dans l’ensemble. Ensemble, ils valent mieux que chacun seul."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui : le contexte brésilien",
+        "paragraphs": [
+          "Reclame Aqui est un site public de plaintes au Brésil. Le 30 septembre 2026, Hostinger y avait une réputation très bonne, avec une note de 8,6 sur les 6 derniers mois et de 8,4 sur 12 mois. L’entreprise a répondu à 99,3 % des 1 352 plaintes des 6 mois et a marqué 88,6 % comme résolues. Le problème le plus cité dans le classement général (3 dernières années) était les **prélèvements indus**, à 21,72 %. Le site ne dit pas combien de ces prélèvements concernent des renouvellements : le lien avec le renouvellement automatique est donc notre lecture, et non un chiffre du site."
+        ]
+      },
+      {
+        "heading": "Pourquoi les prélèvements indus pèsent sur l’hébergement",
+        "paragraphs": [
+          "Quand le renouvellement automatique est activé, le produit est renouvelé avant l’échéance et débité du moyen de paiement enregistré. Le centre d’aide de Hostinger le dit, et précise aussi que l’option peut être désactivée à tout moment, sans effet sur le service jusqu’à la date d’échéance.",
+          "Désactiver le renouvellement comporte aussi un risque : sans autre offre prête, le site peut tomber à la date d’échéance. C’est pourquoi le centre d’aide recommande lui-même de garder le renouvellement activé à qui compte continuer.",
+          "Les règles du prix de renouvellement et de ce qui ne se cumule pas figurent dans [l’article sur le code de parrainage](/fr/reviews/code-promo-hostinger-parrainage). Ici, le point est autre : savoir où se trouve l’option et comment la désactiver."
+        ]
+      },
+      {
+        "heading": "Comment désactiver le renouvellement automatique",
+        "paragraphs": [
+          "Selon le centre d’aide de Hostinger, consulté le 19 octobre 2026, le chemin est le suivant :"
+        ],
+        "bullets": [
+          "Dans hPanel, ouvrez la zone de facturation.",
+          "Allez à la section des services.",
+          "Ouvrez le menu à trois points à côté du produit.",
+          "Entrez dans les paramètres de renouvellement.",
+          "Désactivez l’option de renouvellement automatique, puis enregistrez."
+        ],
+        "postParagraphs": [
+          "Option désactivée, le produit reste actif jusqu’à la date d’échéance. Pour la réactiver, il faut un moyen de paiement enregistré. Le centre d’aide précise aussi que si le renouvellement est à un jour ou moins de l’échéance, il faut renouveler manuellement avant de réactiver l’option. Les noms des menus peuvent changer ; si c’est le cas, cherchez l’option de renouvellement automatique dans la section de facturation."
+        ]
+      },
+      {
+        "heading": "Ce que répond Hostinger",
+        "paragraphs": [
+          "Sur Trustpilot, l’entreprise affirme répondre à 98 % des avis négatifs, en général dans les 24 heures. Les captures montrent le taux de réponse, et non le texte des réponses : ce texte ne dit donc pas si les réponses règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent les prélèvements. Sur Reclame Aqui, l’indice est de 99,3 % sur 6 mois, avec 10 plaintes en attente de réponse."
+        ]
+      },
+      {
+        "heading": "Notre expérience",
+        "paragraphs": [
+          "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
+          "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
+          "C’est son compte, avec son usage. Cela ne dit rien de ceux qui ont été débités sans s’y attendre, et les plaintes de Reclame Aqui restent valables."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "**Hostinger a-t-il de bonnes évaluations ?** Le 19 octobre 2026, la note sur Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Le profil est géré par l’entreprise elle-même, alors lisez le détail avant de décider.",
+          "**Hostinger a-t-il des plaintes ?** Oui. Sur Reclame Aqui, le problème le plus cité du classement général (3 dernières années) était les prélèvements indus, à 21,72 %.",
+          "**Hostinger répond-il aux plaintes ?** Oui. Sur Trustpilot, l’entreprise dit répondre à 98 % des avis négatifs, en général dans les 24 heures. Sur Reclame Aqui, 99,3 % des plaintes des 6 derniers mois ont reçu une réponse.",
+          "**Comment désactiver le renouvellement automatique de Hostinger ?** Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
+        ]
+      },
+      {
+        "heading": "Si vous avez déjà décidé",
+        "paragraphs": [
+          "Si vous avez décidé d’acheter, la réduction de 20 % sur la première période s’applique via le lien de parrainage, et la [page Hostinger](/fr/coupons/hostinger) détaille les conditions. La réduction ne se cumule pas avec d’autres coupons, et le renouvellement revient au prix normal de l’offre, comme l’explique [l’article sur le code de parrainage](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) compare les deux prix, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+        ]
+      },
+      {
+        "heading": "Note de transparence",
+        "paragraphs": [
+          "Les chiffres de Trustpilot ont été relevés le 19 octobre 2026 sur la page du profil. Ceux de Reclame Aqui viennent de captures faites le même jour : les onglets de 6 et 12 mois et le classement des problèmes (onglet général, 3 dernières années). Le texte du centre d’aide a aussi été lu à cette date. Ces chiffres changent chaque mois : vérifiez-les avant de décider.",
+          "Ce lien est un lien de parrainage : un achat par ce lien peut donner un crédit chez Hostinger à Bruno. Il n’y a pas de partenariat de marque, et ce crédit n’entre pas dans l’analyse."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Si vous avez déjà décidé, les offres à 20 % sur la première période sont accessibles via le lien. La réduction ne se cumule pas avec d’autres coupons.",
+      "label": "Voir les offres avec réduction",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Lien de parrainage : un achat par ce lien peut donner un crédit chez Hostinger à Bruno, sans coût supplémentaire pour vous. Ce site fonctionne sur Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "slug": "hostinger-trustpilot-bewertungen",
+    "locale": "de",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen",
+    "seoTitle": "Hostinger auf Trustpilot: Bewertung und Beschwerden",
+    "type": "Reputationsanalyse",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Die Trustpilot-Bewertung von Hostinger im Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Profil der Firma zeigt, der Kontext von Reclame Aqui in Brasilien und wie man die automatische Verlängerung abschaltet.",
+    "metaDescription": "Hostinger auf Trustpilot am 19. Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Firmenprofil zeigt und wie man die automatische Verlängerung abschaltet.",
+    "publishedAt": "19. Oktober 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Fünf weiße Sterne, der letzte heller, über zwei Sprechblasen auf violettem Hintergrund",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Am 19. Oktober 2026 hatte Hostinger auf Trustpilot einen **TrustScore von 4,6 („Hervorragend“)** bei 73.316 Bewertungen. Fünf Sterne machen 87,1 % davon aus, ein Stern 6,9 %.",
+          "Auf Trustpilot lädt das Unternehmen Kunden zu Bewertungen ein, und das Profil verwaltet die Firma selbst. Die Bewertung ist ein nützliches Signal, braucht aber Kontext, wie die folgenden Punkte zeigen. Danach kommt Reclame Aqui, eine brasilianische Beschwerdeplattform mit einer anderen Geschichte."
+        ]
+      },
+      {
+        "heading": "Trustpilot: die Bewertung und was die Seite zeigt",
+        "paragraphs": [
+          "Trustpilot ist eine internationale Bewertungsplattform. Das Profil von Hostinger zeigt fünf Sterne mit 87,1 %, vier mit 4,3 %, drei mit 0,9 %, zwei mit 0,8 % und einen Stern mit 6,9 %, also rund 5.000 Bewertungen. Bevor Sie diese Zahl verwenden, sehen Sie sich an, was die Seite selbst zeigt:"
+        ],
+        "bullets": [
+          "Das Profil ist seit Mai 2017 beansprucht, das heißt, das Unternehmen verwaltet die Seite.",
+          "Das Unternehmen hat ein kostenpflichtiges Trustpilot-Abo.",
+          "Die Seite sagt, dass Hostinger Kunden zu Bewertungen einlädt, positiven wie negativen. Eine breite Einladung drückt den Durchschnitt nach oben und zeigt nicht, wer ausgelassen wurde.",
+          "Das Unternehmen antwortet auf 98 % der negativen Bewertungen, meist innerhalb von 24 Stunden, und kann KI für die Antworten nutzen.",
+          "Trustpilot selbst sagt, dass es die Bewertungen nicht einzeln prüft."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 73.316 Bewertungen, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
+            "caption": "Hostinger-Profil auf Trustpilot am 19. Oktober 2026. Bild: Screenshot von Bruno.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Bewertungsbalken von Hostinger auf Trustpilot, von fünf bis ein Stern, mit den Prozentangaben",
+            "caption": "Verteilung der Hostinger-Bewertungen auf Trustpilot, abgelesen am 19. Oktober 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "Den Text der Einsternbewertungen haben wir nicht gelesen, dieser Text sagt also nicht, worüber sie sich beschweren. Reclame Aqui zeigt Beschwerde und Antwort; Trustpilot zeigt, was Menschen insgesamt denken. Zusammen sind sie aussagekräftiger als jede Quelle allein."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui: der Kontext aus Brasilien",
+        "paragraphs": [
+          "Reclame Aqui ist eine öffentliche Beschwerdeplattform in Brasilien. Am 30. September 2026 hatte Hostinger dort eine sehr gute Reputation, mit 8,6 in den letzten 6 Monaten und 8,4 in den letzten 12 Monaten. Das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst. Das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) waren **unberechtigte Abbuchungen**, mit 21,72 %. Die Seite sagt nicht, wie viele dieser Abbuchungen Verlängerungen betreffen; die Verbindung zur automatischen Verlängerung ist also unsere Lesart und keine Zahl der Seite."
+        ]
+      },
+      {
+        "heading": "Warum unberechtigte Abbuchungen beim Hosting ins Gewicht fallen",
+        "paragraphs": [
+          "Ist die automatische Verlängerung aktiv, wird das Produkt vor Ablauf verlängert und auf das hinterlegte Zahlungsmittel abgebucht. Das Hilfecenter von Hostinger sagt das und erklärt auch, dass sich die Option jederzeit abschalten lässt, ohne den Dienst vor dem Ablaufdatum zu beeinträchtigen.",
+          "Das Abschalten hat aber ein Risiko: Ohne einen anderen Tarif, der bereitsteht, kann die Seite am Ablaufdatum offline gehen. Deshalb empfiehlt das Hilfecenter selbst, die Verlängerung für alle aktiv zu lassen, die weitermachen wollen.",
+          "Die Regeln zum Verlängerungspreis und dazu, was sich nicht kombinieren lässt, stehen im [Artikel über den Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode). Hier geht es um etwas anderes: zu wissen, wo die Option liegt und wie man sie abschaltet."
+        ]
+      },
+      {
+        "heading": "So schalten Sie die automatische Verlängerung ab",
+        "paragraphs": [
+          "Laut dem Hilfecenter von Hostinger, abgerufen am 19. Oktober 2026, geht es so:"
+        ],
+        "bullets": [
+          "Öffnen Sie im hPanel den Bereich für Rechnungen.",
+          "Gehen Sie zur Seite der Dienste.",
+          "Öffnen Sie neben dem Produkt das Menü mit den drei Punkten (⋮).",
+          "Wählen Sie die Verlängerungseinstellungen.",
+          "Deaktivieren Sie die Option zur automatischen Verlängerung und speichern Sie."
+        ],
+        "postParagraphs": [
+          "Ist die Option ausgeschaltet, bleibt das Produkt bis zum Ablaufdatum aktiv. Um sie wieder einzuschalten, braucht es ein hinterlegtes Zahlungsmittel. Das Hilfecenter sagt außerdem: Liegt die Verlängerung einen Tag oder weniger vor dem Ablauf, muss man manuell verlängern, bevor man die Option wieder aktiviert. Menünamen können sich ändern; in dem Fall suchen Sie im Bereich für Rechnungen nach der Option für die automatische Verlängerung."
+        ]
+      },
+      {
+        "heading": "Was Hostinger antwortet",
+        "paragraphs": [
+          "Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Die Screenshots zeigen die Antwortquote, nicht den Text der Antworten. Dieser Text sagt daher nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen. Bei Reclame Aqui liegt die Quote bei 99,3 % in 6 Monaten, mit 10 Beschwerden, die auf eine Antwort warten."
+        ]
+      },
+      {
+        "heading": "Unsere Erfahrung",
+        "paragraphs": [
+          "Bruno, der diesen Text ebenfalls unterzeichnet, ist seit 2024 Kunde bei Hostinger, mit mehr als 24 Monaten Laufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Die Seite Em Casa com Cecília läuft auf Hostinger.",
+          "Jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent, und er hat nie einen Ausfall erlebt.",
+          "Das ist sein Konto, mit seiner Nutzung. Es sagt nichts über Leute, die unerwartet abgebucht wurden, und die Beschwerden bei Reclame Aqui gelten weiterhin."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "**Hat Hostinger gute Bewertungen?** Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) aus 73.316 Bewertungen. Das Profil verwaltet die Firma selbst, lesen Sie also die Details, bevor Sie entscheiden.",
+          "**Gibt es Beschwerden über Hostinger?** Ja. Bei Reclame Aqui war das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) die unberechtigte Abbuchung, mit 21,72 %.",
+          "**Antwortet Hostinger auf Beschwerden?** Ja. Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Bei Reclame Aqui wurden 99,3 % der Beschwerden der letzten 6 Monate beantwortet.",
+          "**Wie schalte ich die automatische Verlängerung von Hostinger ab?** Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie die drei Punkte beim Produkt, wählen Sie die Verlängerungseinstellungen und deaktivieren Sie die Option. Das Produkt bleibt bis zum Ablauf aktiv."
+        ]
+      },
+      {
+        "heading": "Wenn Sie sich schon entschieden haben",
+        "paragraphs": [
+          "Wenn Sie kaufen möchten, gilt der Rabatt von 20 % im ersten Zeitraum über den Empfehlungslink; die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren, und die Verlängerung kehrt zum normalen Tarifpreis zurück, wie der [Artikel über den Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode) erklärt. Wenn Ihre Frage das Black Friday betrifft, vergleicht der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die beiden Preise, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
+        ]
+      },
+      {
+        "heading": "Transparenzhinweis",
+        "paragraphs": [
+          "Die Trustpilot-Zahlen wurden am 19. Oktober 2026 auf der Profilseite abgelesen. Die Zahlen von Reclame Aqui stammen aus Screenshots desselben Tages: die Reiter für 6 und 12 Monate und das Problemranking (allgemeiner Reiter, letzte 3 Jahre). Der Text des Hilfecenters wurde ebenfalls an diesem Datum gelesen. Diese Zahlen ändern sich jeden Monat, prüfen Sie sie also vor der Entscheidung.",
+          "Dies ist ein Empfehlungslink: Ein Kauf darüber kann Bruno ein Guthaben bei Hostinger einbringen. Es gibt keine Markenpartnerschaft, und das Guthaben fließt nicht in diese Analyse ein."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Wenn Sie sich schon entschieden haben, sind die Tarife mit 20 % Rabatt im ersten Zeitraum über den Link erreichbar. Der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren.",
+      "label": "Die Tarife mit Rabatt ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Empfehlungslink: Ein Kauf über diesen Link kann Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Diese Seite läuft auf Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "slug": "hostinger-recensioni-trustpilot",
+    "locale": "it",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri",
+    "seoTitle": "Hostinger su Trustpilot: punteggio e reclami",
+    "type": "Analisi della reputazione",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Il punteggio della Hostinger su Trustpilot al 19 ottobre 2026: TrustScore 4,6, come leggere la nota e cosa dicono i reclami del Reclame Aqui in Brasile, con come disattivare il rinnovo automatico.",
+    "metaDescription": "Hostinger su Trustpilot: TrustScore 4,6 con 73.316 recensioni al 19 ottobre 2026, perché la nota va letta con cautela e come disattivare il rinnovo automatico.",
+    "publishedAt": "19 ottobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Cinque stelle bianche, l'ultima più chiara, su due fumetti di chat, su sfondo viola",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Su Trustpilot la Hostinger ha un TrustScore di 4,6 («Eccellente») su 73.316 recensioni, lette il 19 ottobre 2026. Il 87,1% dà cinque stelle. Trustpilot è il sito internazionale di recensioni, ed è per questo che è il numero principale di questo articolo.",
+          "Il numero, però, non racconta tutta la storia. Il profilo è gestito dall'azienda, che paga un abbonamento e invita i clienti a recensire. Un invito così ampio alza la media. Per questo conviene leggere come sono distribuite le recensioni, e non fermarsi alla nota.",
+          "In Brasile il riferimento è un altro sito, il Reclame Aqui, che raccoglie reclami pubblici. Più avanti trovi i suoi numeri e la parte sul rinnovo automatico, che è il punto più delicato per chi ha un sito."
+        ]
+      },
+      {
+        "heading": "Trustpilot: la nota di chi recensisce",
+        "paragraphs": [
+          "Nella lettura del 19 ottobre 2026, la Hostinger aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni. Le cinque stelle sono l'87,1%; una stella, il 6,9%, circa 5 mila recensioni.",
+          "Prima di usare questo numero, guarda cosa mostra la pagina stessa:"
+        ],
+        "bullets": [
+          "Il profilo è rivendicato dal maggio 2017, cioè l'azienda gestisce la pagina.",
+          "L'azienda ha un abbonamento a pagamento su Trustpilot.",
+          "La pagina dice che la Hostinger invita i clienti a recensire, sia quelli soddisfatti sia quelli insoddisfatti. Un invito così ampio alza la media e non mostra chi è rimasto fuori.",
+          "L'azienda risponde al 98% delle recensioni negative, di solito entro 24 ore, e può usare l'IA nelle risposte.",
+          "Il Trustpilot stesso dice che non verifica le recensioni una per una."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 73.316 recensioni, profilo rivendicato, abbonamento a pagamento e l'avviso che l'azienda invita i clienti a recensire",
+            "caption": "Profilo Hostinger su Trustpilot al 19 ottobre 2026. Immagine: screenshot di Bruno.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Barre delle valutazioni Hostinger su Trustpilot, da 5 a 1 stella, con le percentuali",
+            "caption": "Distribuzione delle recensioni Hostinger su Trustpilot, lette il 19 ottobre 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "Non abbiamo letto il testo delle recensioni a una stella, quindi questo testo non dice di cosa si lamentano. Trustpilot mostra in generale cosa pensano le persone; il Reclame Aqui, più sotto, mostra i reclami e le risposte. Insieme dicono più di ciascuno da solo."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui: il contesto del Brasile",
+        "paragraphs": [
+          "Il Reclame Aqui raccoglie reclami pubblici contro le aziende in Brasile. Il 30 settembre 2026, la Hostinger aveva lì una reputazione «Ottima»: nota 8,6 negli ultimi 6 mesi e 8,4 negli ultimi 12. L'azienda ha risposto al 99,3% dei 1.352 reclami dei 6 mesi e ha segnato come risolto l'88,6%.",
+          "Il quadro ha due schede, una per periodo. La tabella riunisce le due schede lette il 19 ottobre 2026, con le date che il sito mostra sotto ciascuna."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicatore",
+            "6 mesi (1 aprile - 30 settembre 2026)",
+            "12 mesi (1 ottobre 2025 - 30 settembre 2026)"
+          ],
+          "rows": [
+            [
+              "Reputazione",
+              "Ottima, nota 8,6",
+              "Ottima, nota 8,4"
+            ],
+            [
+              "Reclami ricevuti",
+              "1.352",
+              "2.416"
+            ],
+            [
+              "Risposti",
+              "99,3%",
+              "99,6%"
+            ],
+            [
+              "In attesa di risposta",
+              "10",
+              "10"
+            ],
+            [
+              "Risolti",
+              "88,6%",
+              "87,9%"
+            ],
+            [
+              "Tornerebbero a fare affari",
+              "80,3%",
+              "77,6%"
+            ],
+            [
+              "Reclami valutati",
+              "652",
+              "1.185"
+            ],
+            [
+              "Voto medio del consumatore",
+              "7,71",
+              "7,38"
+            ],
+            [
+              "Tempo medio di risposta",
+              "8 giorni e 1 ora",
+              "7 giorni e 17 ore"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La reputazione è la stessa nelle due schede. Passando da 6 a 12 mesi, il tasso di risoluzione scende di 0,7 punti e quello di chi tornerebbe scende di 2,7 punti."
+        ]
+      },
+      {
+        "heading": "Tre letture che cambiano il conto",
+        "paragraphs": [
+          "Primo, tra i reclami valutati, l'80,3% dice che tornerebbe a fare affari nei 6 mesi. Il resto, quasi uno su cinque, non tornerebbe.",
+          "Secondo, meno della metà dei reclami è stata valutata: 652 su 1.352 nei 6 mesi. Il voto medio del consumatore, 7,71, viene solo da quella parte.",
+          "Terzo, la risposta richiede tempo. Il tempo medio nei 6 mesi è stato di 8 giorni e 1 ora. L'azienda risponde quasi a tutto (99,3%), ma chi ha il sito fuori uso non aspetta una settimana.",
+          "Il quadro non mostra nemmeno il numero totale di clienti. Senza quel dato, 1.352 reclami in 6 mesi dicono quanti reclami arrivano, ma non con quale frequenza il problema tocca ogni cliente."
+        ]
+      },
+      {
+        "heading": "Di cosa si lamentano le persone",
+        "paragraphs": [
+          "Nella scheda dei problemi principali, il Reclame Aqui mostra tre classifiche. Valgono per i reclami degli ultimi 3 anni della scheda generale, non solo per i 6 mesi. I numeri sono questi:"
+        ],
+        "bullets": [
+          "**Addebiti indebiti:** 21,72%, nella classifica dei problemi. È il problema più citato della lista.",
+          "**Provider e servizi internet:** 24,6%, nella classifica delle categorie. È l'etichetta del profilo di telefonia e internet del Reclame Aqui, e non dice quale servizio della Hostinger ha generato il reclamo.",
+          "**Altro tipo di prodotto/servizio:** 11,95%, nella classifica dei prodotti. Anche questo non dice quale prodotto."
+        ],
+        "postParagraphs": [
+          "Il quadro non separa gli addebiti indebiti per motivo, e non dice quanti riguardano il rinnovo. Il legame con il rinnovo automatico è una nostra lettura, ed è da lì che conviene iniziare il controllo."
+        ]
+      },
+      {
+        "heading": "Perché l'addebito indebito pesa nell'hosting",
+        "paragraphs": [
+          "Con il rinnovo automatico attivo, il prodotto viene rinnovato prima della scadenza e addebitato sul metodo di pagamento registrato. Il centro assistenza della Hostinger lo dice, e dice anche che l'opzione può essere disattivata in qualsiasi momento, senza effetti sul servizio fino alla data di scadenza.",
+          "Disattivare il rinnovo ha però un rischio: senza un altro piano pronto, il sito può andare offline alla data di scadenza. Per questo il centro assistenza consiglia di tenere il rinnovo attivo a chi intende continuare.",
+          "Le regole sul prezzo del rinnovo e su ciò che non si cumula sono nell'[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Qui il punto è un altro: sapere dove si trova l'opzione e come disattivarla."
+        ]
+      },
+      {
+        "heading": "Come disattivare il rinnovo automatico",
+        "paragraphs": [
+          "Secondo il centro assistenza della Hostinger, consultato il 19 ottobre 2026, il percorso è questo:"
+        ],
+        "bullets": [
+          "Nell'area di fatturazione del tuo account, apri la sezione delle fatture.",
+          "Vai alla sezione dei servizi e trova il prodotto.",
+          "Nel menu del prodotto, scegli le impostazioni di rinnovo.",
+          "Disattiva il rinnovo automatico e salva la modifica."
+        ],
+        "postParagraphs": [
+          "Con l'opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla serve un metodo di pagamento registrato. Il centro assistenza dice anche che, se il rinnovo è a un giorno o meno dalla scadenza, bisogna rinnovare manualmente prima di riattivare l'opzione. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell'area di fatturazione."
+        ]
+      },
+      {
+        "heading": "Cosa risponde la Hostinger",
+        "paragraphs": [
+          "Le schermate mostrano l'indice di risposta (99,3% nei 6 mesi, con 10 reclami in attesa) e non il testo delle risposte. Quindi questo testo non dice se le risposte risolvono i problemi. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti."
+        ]
+      },
+      {
+        "heading": "La nostra esperienza",
+        "paragraphs": [
+          "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
+          "Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto l'agente IA, e non ha mai visto un'interruzione del servizio.",
+          "È la sua esperienza, con il suo uso. Non dice nulla di chi si è trovato con un addebito che non si aspettava, e i reclami del Reclame Aqui restano validi."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "**La Hostinger ha una buona valutazione su Trustpilot?** Il 19 ottobre 2026 aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni, e l'87,1% dava cinque stelle.",
+          "**Quali sono le lamentele più comuni sulla Hostinger?** Nella classifica dei problemi del Reclame Aqui (scheda generale, ultimi 3 anni), gli addebiti indebiti sono al primo posto, con il 21,72%.",
+          "**La Hostinger risponde ai reclami?** Sì. Secondo Trustpilot, risponde al 98% delle recensioni negative, di solito entro 24 ore. Nel Reclame Aqui, il 99,3% dei reclami dei 6 mesi ha avuto risposta.",
+          "**Come disattivare il rinnovo automatico della Hostinger?** Nell'area di fatturazione, vai ai servizi, apri le impostazioni di rinnovo del prodotto e disattiva l'opzione di rinnovo automatico. Il prodotto resta attivo fino alla scadenza."
+        ]
+      },
+      {
+        "heading": "Se hai già deciso",
+        "paragraphs": [
+          "Se hai deciso di acquistare, lo sconto del 20% sul primo periodo vale tramite il link di invito, e la pagina della [Hostinger](/it/coupons/hostinger) mostra i dettagli. Lo sconto non si cumula con altri coupon, e il rinnovo torna al prezzo normale del piano, come spiega l'[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) confronta i due prezzi, e l'[articolo sull'affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell'azienda."
+        ]
+      },
+      {
+        "heading": "Nota di trasparenza",
+        "paragraphs": [
+          "I numeri di Trustpilot sono letti il 19 ottobre 2026, come il centro assistenza della Hostinger. Le schede del Reclame Aqui (6 e 12 mesi) e la classifica dei problemi (scheda generale, ultimi 3 anni) sono degli screenshot fatti nella stessa data. Questi numeri cambiano ogni mese, quindi ricontrolla prima di decidere.",
+          "Questo link è di invito: l'acquisto può generare un credito Hostinger per Bruno. Non c'è alcuna partnership di marchio, e il credito non entra nell'analisi."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se hai già deciso, i piani con il 20% sul primo periodo sono nel link. Lo sconto non si cumula con altri coupon.",
+      "label": "Vedi i piani scontati",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Link di invito: l'acquisto tramite il link può generare un credito Hostinger per Bruno, senza costi extra per te. Il sito gira sulla Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "slug": "hostinger-trustpilot-reviews-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger Trustpilot 평점, 불만, 그리고 숫자가 보여주는 것",
+    "seoTitle": "Hostinger Trustpilot 평점과 불만",
+    "type": "평판 분석",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "2026년 10월 19일 기준 Hostinger의 Trustpilot 평점을 정리했습니다. TrustScore 4.6을 어떻게 읽어야 하는지, 브라질 Reclame Aqui의 불만이 무엇을 말하는지, 자동 갱신을 끄는 방법까지 담았습니다.",
+    "metaDescription": "2026년 10월 19일 기준 Hostinger Trustpilot TrustScore 4.6, 리뷰 73,316건. 평점을 신중하게 읽는 법과 자동 갱신을 끄는 방법을 확인하세요.",
+    "publishedAt": "2026년 10월 19일",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "보라색 배경 위에 흰색 별 다섯 개(마지막 별이 더 밝음)와 말풍선 두 개",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "2026년 10월 19일 기준으로 Hostinger는 Trustpilot에서 73,316건의 리뷰에 TrustScore 4.6(\"Excellent\")을 받았습니다. 별 다섯 개 리뷰가 87.1%입니다. Trustpilot은 국제 리뷰 사이트이고, 그래서 이 글에서 가장 먼저 보는 숫자입니다.",
+          "다만 이 숫자가 전부를 말해 주지는 않습니다. 프로필은 회사가 관리하고, 회사는 유료 구독을 쓰면서 고객에게 리뷰를 남기라고 권합니다. 이렇게 폭넓게 권하면 평균이 올라갑니다. 그래서 평점만 보지 말고 리뷰가 어떻게 나뉘는지도 함께 보는 것이 좋습니다.",
+          "브라질에서 참고하는 곳은 다른 사이트인 Reclame Aqui입니다. 공개 민원을 모으는 곳이죠. 아래에서 그 숫자와, 호스팅 고객에게 가장 민감한 자동 갱신 이야기를 다룹니다."
+        ]
+      },
+      {
+        "heading": "Trustpilot: 리뷰를 남긴 사람들의 평점",
+        "paragraphs": [
+          "2026년 10월 19일에 확인한 자료에서 Hostinger는 리뷰 73,316건에 TrustScore 4.6(\"Excellent\")이었습니다. 별 다섯 개는 87.1%, 별 한 개는 6.9%로 약 5천 건입니다.",
+          "이 숫자를 쓰기 전에 페이지가 직접 보여주는 내용부터 확인해 보세요:"
+        ],
+        "bullets": [
+          "2017년 5월부터 프로필을 직접 관리하고 있습니다. 즉, 회사가 페이지를 운영합니다.",
+          "회사는 Trustpilot에 유료 구독을 하고 있습니다.",
+          "페이지는 Hostinger가 긍정적인 리뷰와 부정적인 리뷰 모두에 대해 고객에게 리뷰를 권한다고 밝힙니다. 이렇게 폭넓은 권유는 평균을 끌어올리고, 어떤 고객이 빠졌는지는 보여주지 않습니다.",
+          "회사는 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답하고, 답변에 AI를 쓸 수 있다고 합니다.",
+          "Trustpilot 자체도 리뷰를 하나하나 검증하지 않는다고 밝힙니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 리뷰 73,316건, 프로필 인증, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
+            "caption": "2026년 10월 19일 Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Trustpilot에 있는 Hostinger 리뷰 막대. 별 5개부터 1개까지, 비율 표시",
+            "caption": "2026년 10월 19일 확인한 Trustpilot의 Hostinger 리뷰 분포.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "별 한 개 리뷰의 내용은 읽지 않았으므로, 이 글은 그 리뷰들이 무엇을 불평하는지 말하지 않습니다. Trustpilot은 전반적으로 사람들이 어떻게 생각하는지를 보여주고, 아래에서 볼 Reclame Aqui는 민원과 답변을 보여줍니다. 둘을 함께 보면 하나만 볼 때보다 많은 것이 보입니다."
+        ]
+      },
+      {
+        "heading": "Reclame Aqui: 브라질의 맥락",
+        "paragraphs": [
+          "Reclame Aqui는 브라질에서 기업에 대한 공개 민원을 모으는 사이트입니다. 2026년 9월 30일 기준으로 Hostinger는 여기서 '매우 좋음' 평판이었고, 최근 6개월 점수는 8.6, 최근 12개월 점수는 8.4였습니다. 회사는 6개월 동안 받은 민원 1,352건의 99.3%에 답했고, 88.6%를 해결된 것으로 표시했습니다.",
+          "이 자료는 기간별로 두 개의 탭으로 나뉩니다. 아래 표는 2026년 10월 19일에 본 두 탭을 모은 것이고, 각 탭 아래에 사이트가 표시하는 날짜를 함께 적었습니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "항목",
+            "6개월 (2026년 4월 1일 ~ 9월 30일)",
+            "12개월 (2025년 10월 1일 ~ 2026년 9월 30일)"
+          ],
+          "rows": [
+            [
+              "평판",
+              "매우 좋음, 점수 8.6",
+              "매우 좋음, 점수 8.4"
+            ],
+            [
+              "받은 민원",
+              "1,352",
+              "2,416"
+            ],
+            [
+              "답변 완료",
+              "99.3%",
+              "99.6%"
+            ],
+            [
+              "답변 대기",
+              "10",
+              "10"
+            ],
+            [
+              "해결됨",
+              "88.6%",
+              "87.9%"
+            ],
+            [
+              "다시 거래하겠다고 답함",
+              "80.3%",
+              "77.6%"
+            ],
+            [
+              "평가된 민원",
+              "652",
+              "1,185"
+            ],
+            [
+              "소비자 평균 점수",
+              "7.71",
+              "7.38"
+            ],
+            [
+              "평균 응답 시간",
+              "8일 1시간",
+              "7일 17시간"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "두 탭의 평판은 같습니다. 6개월에서 12개월로 넓히면 해결률은 0.7점 내려가고, 다시 거래하겠다는 비율은 2.7점 내려갑니다."
+        ]
+      },
+      {
+        "heading": "숫자가 바꾸는 세 가지 해석",
+        "paragraphs": [
+          "첫째, 평가된 민원 중 80.3%는 6개월 동안 다시 거래하겠다고 답했습니다. 나머지, 대략 다섯 명 중 한 명은 그렇지 않다는 뜻입니다.",
+          "둘째, 민원의 절반도 평가되지 않았습니다. 6개월 기준 1,352건 중 652건만 평가되었습니다. 소비자 평균 점수 7.71은 바로 그 일부에서만 나온 것입니다.",
+          "셋째, 응답에 시간이 걸립니다. 6개월 평균 응답 시간은 8일 1시간입니다. 회사는 거의 모든 민원(99.3%)에 답하지만, 사이트가 멈춘 사람은 일주일을 기다리지 않습니다.",
+          "이 화면은 회사 전체 고객 수도 보여주지 않습니다. 그 숫자가 없으면 6개월 동안의 민원 1,352건은 회사가 받는 불만의 양을 말할 뿐, 각 고객이 문제를 겪는 빈도는 말해 주지 않습니다."
+        ]
+      },
+      {
+        "heading": "사람들이 불평하는 내용",
+        "paragraphs": [
+          "Reclame Aqui의 주요 문제 탭에는 세 개의 순위가 나옵니다. 6개월만이 아니라 일반 탭의 최근 3년 민원에 해당합니다. 숫자는 다음과 같습니다:"
+        ],
+        "bullets": [
+          "**부당 청구:** 21.72%, 문제 순위 기준. 목록에서 가장 많이 언급된 문제입니다.",
+          "**인터넷 공급자 및 서비스:** 24.6%, 카테고리 순위 기준. Reclame Aqui의 통신 및 인터넷 프로필 이름이며, 어떤 Hostinger 서비스 때문에 민원이 생겼는지는 알려주지 않습니다.",
+          "**기타 제품/서비스 유형:** 11.95%, 제품 순위 기준. 이 역시 어떤 제품인지는 알려주지 않습니다."
+        ],
+        "postParagraphs": [
+          "이 화면은 부당 청구를 사유별로 나누지 않으며, 그중 몇 건이 갱신과 관련된 것인지도 알려주지 않습니다. 자동 갱신과의 연결은 우리의 해석이며, 확인은 그 지점부터 시작하는 것이 좋습니다."
+        ]
+      },
+      {
+        "heading": "호스팅에서 부당 청구가 중요한 이유",
+        "paragraphs": [
+          "자동 갱신이 켜져 있으면 제품은 만료 전에 갱신되고, 등록된 결제 수단으로 청구됩니다. Hostinger 도움말 센터도 이렇게 설명하며, 이 옵션은 언제든 끌 수 있고 만료일까지는 서비스에 영향이 없다고 밝힙니다.",
+          "다만 갱신을 끄는 데는 위험도 있습니다. 준비된 다른 요금제가 없으면 만료일에 사이트가 멈출 수 있습니다. 그래서 도움말 센터는 계속 이용할 생각이라면 갱신을 켜 두라고 권합니다.",
+          "갱신 가격과 중복 적용되지 않는 규칙은 [추천 코드 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 여기서는 다른 점, 즉 옵션이 어디 있고 어떻게 끄는지를 다룹니다."
+        ]
+      },
+      {
+        "heading": "자동 갱신을 끄는 방법",
+        "paragraphs": [
+          "2026년 10월 19일에 확인한 Hostinger 도움말 센터에 따르면 경로는 다음과 같습니다:"
+        ],
+        "bullets": [
+          "계정의 청구 관련 영역으로 들어갑니다.",
+          "서비스 페이지에서 해당 제품을 찾습니다.",
+          "제품 옆의 메뉴를 열고 갱신 관련 설정을 고릅니다.",
+          "자동 갱신 옵션을 해제하고 저장합니다."
+        ],
+        "postParagraphs": [
+          "옵션을 끄면 제품은 만료일까지 계속 활성 상태입니다. 다시 켜려면 결제 수단이 등록되어 있어야 합니다. 도움말 센터는 또한 갱신일이 하루 이내로 남았다면, 옵션을 다시 켜기 전에 수동으로 갱신해야 한다고 설명합니다. 메뉴 이름은 바뀔 수 있으니, 바뀌었다면 청구 영역에서 자동 갱신 설정을 찾아보세요."
+        ]
+      },
+      {
+        "heading": "Hostinger의 답변",
+        "paragraphs": [
+          "화면에는 답변 비율(6개월 99.3%, 답변 대기 10건)이 나오지만 답변 내용은 나오지 않습니다. 따라서 이 글은 답변이 문제를 해결하는지 말하지 않습니다. 계약 전에 프로필에서 몇 가지 답변을 읽어 보세요. 특히 청구와 관련된 답변을 확인하는 것이 좋습니다."
+        ]
+      },
+      {
+        "heading": "우리의 경험",
+        "paragraphs": [
+          "이 글을 함께 쓴 Bruno는 2024년부터 Hostinger 고객이며, 구독 기간은 24개월 이상입니다. Business 호스팅, VPS KVM 2, Business 이메일과 도메인을 쓰고 있으며, 모두 자동 갱신입니다. Em Casa com Cecília 사이트도 Hostinger에서 운영됩니다.",
+          "문제가 생길 때마다 지원팀이 해결해 주었고, 특히 AI 에이전트가 큰 도움이 되었다고 합니다. 서비스가 중단된 적은 한 번도 없었습니다.",
+          "이것은 그의 계정이고 그의 사용 방식입니다. 예상하지 못한 청구를 겪은 사람에 대해서는 아무것도 말해 주지 않으며, Reclame Aqui의 민원은 여전히 유효합니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "**Hostinger는 Trustpilot에서 평점이 좋은가요?** 2026년 10월 19일 기준 TrustScore 4.6(\"Excellent\")에 리뷰 73,316건이며, 87.1%가 별 다섯 개를 주었습니다.",
+          "**Hostinger에 가장 흔한 불만은 무엇인가요?** Reclame Aqui 문제 순위(일반 탭, 최근 3년)에서 부당 청구가 21.72%로 가장 많이 언급되었습니다.",
+          "**Hostinger는 불만에 답하나요?** 네. Trustpilot에 따르면 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답합니다. Reclame Aqui에서는 6개월 민원의 99.3%에 답변이 달렸습니다.",
+          "**Hostinger 자동 갱신은 어떻게 끄나요?** 청구 영역에서 제품의 서비스 설정으로 가서 자동 갱신 옵션을 해제하고 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
+        ]
+      },
+      {
+        "heading": "이미 결정했다면",
+        "paragraphs": [
+          "구매를 결정했다면, 첫 기간 20% 할인은 추천 링크를 통해 적용되며, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 이 할인은 다른 쿠폰과 중복 적용되지 않으며, 갱신은 요금제의 정상 가격으로 돌아갑니다. 자세한 설명은 [추천 코드 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 두 가격을 비교하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안정성을 다룹니다."
+        ]
+      },
+      {
+        "heading": "투명성 안내",
+        "paragraphs": [
+          "Trustpilot 숫자와 Hostinger 도움말 센터는 2026년 10월 19일에 확인했습니다. Reclame Aqui의 6개월, 12개월 탭과 문제 순위(일반 탭, 최근 3년)는 같은 날 찍은 화면입니다. 이 숫자는 매달 바뀌므로 결정하기 전에 다시 확인하세요.",
+          "이 링크는 추천 링크입니다. 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있습니다. 브랜드 제휴는 없으며, 이 크레딧은 분석에 영향을 주지 않습니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "이미 결정했다면, 첫 기간 20% 할인 요금제가 링크에 있습니다. 이 할인은 다른 쿠폰과 중복 적용되지 않습니다.",
+      "label": "할인 요금제 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천 링크: 이 링크로 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 이 사이트는 Hostinger에서 운영됩니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 자동 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "slug": "hostinger-trustpilot-reviews-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger の Trustpilot 評価、苦情、数字が示すこと",
+    "seoTitle": "Hostinger の Trustpilot 評価と苦情",
+    "type": "評判分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "2026年10月19日時点の Hostinger の Trustpilot 評価をまとめました。TrustScore 4.6 の読み方、ブラジルの Reclame Aqui が示す苦情の中身、自動更新を止める方法を取り上げます。",
+    "metaDescription": "2026年10月19日時点の Hostinger の Trustpilot は TrustScore 4.6、レビュー 73,316 件。評価を慎重に読む方法と、自動更新を止める手順を紹介します。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "紫の背景に白で描かれた、二つの吹き出しの上に並ぶ白い星5つ（最後の星だけ薄い）",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "2026年10月19日の時点で、Hostinger は Trustpilot の 73,316 件のレビューで TrustScore 4.6（「Excellent」）を獲得しています。星 5 つのレビューは 87.1% です。Trustpilot は海外の口コミサイトなので、この記事では最初にこの数字を取り上げます。",
+          "ただ、この数字がすべてを語るわけではありません。プロフィールは企業自身が管理しており、企業は有料プランを契約したうえで顧客にレビューを書くよう呼びかけています。これだけ広く呼びかけると平均は上がります。だから評価だけでなく、レビューがどう分布しているかも一緒に見るのが良いでしょう。",
+          "ブラジルで参照されるのは別のサイト、Reclame Aqui です。公開された苦情を集めるサイトです。以下で、その数字と、ホスティング利用者にとって最も重要な自動更新の話をお伝えします。"
+        ]
+      },
+      {
+        "heading": "Trustpilot: レビューを書いた人たちの評価",
+        "paragraphs": [
+          "2026年10月19日に確認した時点で、Hostinger は 73,316 件のレビューで TrustScore 4.6（「Excellent」）でした。星 5 つは 87.1%、星 1 つは 6.9%、約 5,000 件です。",
+          "この数字を使う前に、ページ自体が示している内容を確認してください："
+        ],
+        "bullets": [
+          "2017年5月からプロフィールが請求済みで、企業がこのページを管理しています。",
+          "企業は Trustpilot の有料プランを契約しています。",
+          "ページには、Hostinger が良い評価にも悪い評価にも関係なく、顧客にレビューを書くよう呼びかけていると記されています。これほど広い呼びかけは平均を押し上げ、対象から外れた顧客を見えなくします。",
+          "企業は否定的なレビューの 98% に返信しており、多くは 24 時間以内で、返信には AI を使うこともあるとしています。",
+          "Trustpilot 自体も、レビューを一件ずつ確認しているわけではないと述べています。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、レビュー 73,316 件、請求済みプロフィール、有料プラン、企業が顧客にレビューを呼びかける表示",
+            "caption": "2026年10月19日の Trustpilot の Hostinger プロフィール。画像：Bruno が撮ったスクリーンショット。",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Trustpilot の Hostinger のレビュー分布。星 5 つから 1 つまでのバーと割合",
+            "caption": "2026年10月19日に確認した Trustpilot の Hostinger のレビュー分布。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "星 1 つのレビューの本文は読んでいないので、この記事ではそれらが何に不満を持っているかは言えません。Trustpilot は全体として人々がどう感じているかを示し、下で扱う Reclame Aqui は苦情と返信を示します。両方を合わせると、どちらか一方だけより多くのことが分かります。"
+        ]
+      },
+      {
+        "heading": "Reclame Aqui: ブラジルの文脈",
+        "paragraphs": [
+          "Reclame Aqui は、ブラジルの企業に対する公開された苦情を集めるサイトです。2026年9月30日の時点で、Hostinger はここで「非常に良い」の評判で、直近 6 か月のスコアは 8.6、直近 12 か月は 8.4 でした。企業は 6 か月間に届いた 1,352 件の苦情の 99.3% に返信し、88.6% を解決済みにしています。",
+          "この資料は期間ごとに二つのタブに分かれています。下の表は 2026年10月19日に見た二つのタブをまとめたもので、各タブの下にサイトが示す日付を添えました。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "項目",
+            "6 か月（2026年4月1日～9月30日）",
+            "12 か月（2025年10月1日～2026年9月30日）"
+          ],
+          "rows": [
+            [
+              "評判",
+              "非常に良い、スコア 8.6",
+              "非常に良い、スコア 8.4"
+            ],
+            [
+              "受け付けた苦情",
+              "1,352",
+              "2,416"
+            ],
+            [
+              "返信済み",
+              "99.3%",
+              "99.6%"
+            ],
+            [
+              "返信待ち",
+              "10",
+              "10"
+            ],
+            [
+              "解決済み",
+              "88.6%",
+              "87.9%"
+            ],
+            [
+              "再び取引したいと回答",
+              "80.3%",
+              "77.6%"
+            ],
+            [
+              "評価された苦情",
+              "652",
+              "1,185"
+            ],
+            [
+              "消費者の平均評価",
+              "7.71",
+              "7.38"
+            ],
+            [
+              "平均返信時間",
+              "8日1時間",
+              "7日17時間"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "二つのタブの評判は同じです。6 か月から 12 か月に広げると、解決率は 0.7 ポイント下がり、再び取引したいという割合は 2.7 ポイント下がります。"
+        ]
+      },
+      {
+        "heading": "数字が見方を変える三つのポイント",
+        "paragraphs": [
+          "一つ目。評価された苦情のうち 80.3% は、6 か月の間に再び取引したいと答えています。残りの、ほぼ 5 人に 1 人は、そうは思っていないということです。",
+          "二つ目。評価されたのは苦情の半分以下です。6 か月では 1,352 件中 652 件でした。消費者の平均評価 7.71 は、その一部だけから出た数字です。",
+          "三つ目。返信には時間がかかります。6 か月の平均返信時間は 8日1時間でした。企業はほぼすべて（99.3%）に返信していますが、サイトが止まっている人は一週間も待てません。",
+          "この画面には、企業の顧客総数も出ていません。その数字がなければ、6 か月の 1,352 件は企業が受ける苦情の量を示すだけで、顧客ごとにその問題がどれくらい起きるかは分かりません。"
+        ]
+      },
+      {
+        "heading": "人々が不満に感じていること",
+        "paragraphs": [
+          "Reclame Aqui の主な問題のタブには、三つのランキングが出ています。6 か月だけでなく、全体タブの過去 3 年分の苦情について示されたものです。数字は次のとおりです："
+        ],
+        "bullets": [
+          "**不当な請求:** 21.72%。問題別ランキングで、リストの中で最も多く挙げられています。",
+          "**インターネットプロバイダー・サービス:** 24.6%。カテゴリー別ランキングで、Reclame Aqui の通信・インターネットのプロフィール名です。どの Hostinger のサービスで苦情が出たかは示されていません。",
+          "**その他の製品・サービス:** 11.95%。製品別ランキングで、これもどの製品かは示されていません。"
+        ],
+        "postParagraphs": [
+          "この画面では、不当な請求が理由別に分けられていません。そのうち何件が更新に関わるものかも分かりません。自動更新との関係は私たちの読み方であり、確認はそこから始めるのが良いと考えます。"
+        ]
+      },
+      {
+        "heading": "ホスティングで不当な請求が重い理由",
+        "paragraphs": [
+          "自動更新が有効な場合、製品は期限前に更新され、登録された支払い方法に請求されます。Hostinger のヘルプセンターもこう説明しています。さらに、このオプションはいつでも無効にでき、期限日まではサービスに影響がないとも書かれています。",
+          "ただし、更新を止めることにはリスクもあります。すぐに使える別のプランがない場合、期限日にサイトが止まることがあります。そのためヘルプセンターは、今後も使い続けるつもりなら更新を有効にしておくよう勧めています。",
+          "更新料金や、併用できないルールについては [紹介コードの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ここでは別の点、つまりオプションがどこにあり、どう止めるかを扱います。"
+        ]
+      },
+      {
+        "heading": "自動更新を止める方法",
+        "paragraphs": [
+          "2026年10月19日に確認した Hostinger のヘルプセンターによると、手順は次のとおりです："
+        ],
+        "bullets": [
+          "hPanel で請求書（支払い）の画面を開きます。",
+          "契約しているサービスの一覧に進みます。",
+          "製品の横にある三つの点（⋮）をクリックします。",
+          "更新に関する設定を選びます。",
+          "自動更新のチェックを外して、保存します。"
+        ],
+        "postParagraphs": [
+          "オプションを無効にすると、製品は期限日まで有効なままです。再び有効にするには、支払い方法の登録が必要です。ヘルプセンターはまた、更新日が 1 日以内に迫っている場合は、オプションを再び有効にする前に手動で更新する必要があると説明しています。メニュー名は変わることがあるので、見つからなければ請求関連の画面で自動更新の設定を探してください。"
+        ]
+      },
+      {
+        "heading": "Hostinger の返信について",
+        "paragraphs": [
+          "画面に出ているのは返信率（6 か月で 99.3%、返信待ちが 10 件）で、返信の本文は出ていません。そのため、この記事では返信が問題を解決しているかどうかは言えません。契約する前に、プロフィールでいくつか返信を読んでみてください。特に請求に関するものを確認するのがおすすめです。"
+        ]
+      },
+      {
+        "heading": "私たちの経験",
+        "paragraphs": [
+          "この記事も書いている Bruno は、2024年から Hostinger の顧客で、契約期間は 24 か月を超えています。Business ホスティング、VPS KVM 2、Business メール、ドメインを使っており、すべて自動更新です。Em Casa com Cecília のサイトも Hostinger で動いています。",
+          "問題が起きるたびにサポートが解決してくれました。特に AI エージェントが助けになったそうです。サービスが止まったことは一度もありません。",
+          "これは彼のアカウントであり、彼の使い方での話です。予期しない請求を受けた人については何も言えませんし、Reclame Aqui の苦情は今も有効です。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "**Hostinger の Trustpilot 評価は良いですか？** 2026年10月19日時点で TrustScore 4.6（「Excellent」）、レビュー 73,316 件で、87.1% が星 5 つです。",
+          "**Hostinger によくある不満は何ですか？** Reclame Aqui の問題別ランキング（全体タブ、過去 3 年）では、不当な請求が 21.72% で最も多く挙げられています。",
+          "**Hostinger は苦情に返信しますか？** はい。Trustpilot によると否定的なレビューの 98% に返信し、多くは 24 時間以内です。Reclame Aqui では、6 か月の苦情の 99.3% に返信があります。",
+          "**Hostinger の自動更新はどう止めますか？** hPanel の請求関連の画面を開き、サービスの一覧で製品の横のメニューから更新設定を選んで、自動更新を切って保存します。製品は期限日まで有効なままです。"
+        ]
+      },
+      {
+        "heading": "すでに決めているなら",
+        "paragraphs": [
+          "契約を決めているなら、最初の期間の 20% 割引は紹介リンク経由で適用され、詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。この割引は他のクーポンとは併用できず、更新は通常のプラン価格に戻ります。詳しくは [紹介コードの記事](/ja/reviews/hostinger-referral-code-ja) で説明しています。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で二つの価格を比べ、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安定性を扱っています。"
+        ]
+      },
+      {
+        "heading": "透明性について",
+        "paragraphs": [
+          "Trustpilot の数字と Hostinger のヘルプセンターは 2026年10月19日に確認しました。Reclame Aqui の 6 か月と 12 か月のタブ、問題ランキング（全体タブ、過去 3 年）は同じ日に撮ったスクリーンショットです。これらの数字は毎月変わるので、決める前にもう一度確認してください。",
+          "このリンクは紹介リンクです。購入すると、Bruno に Hostinger のクレジットが付くことがあります。ブランドのパートナーシップはなく、このクレジットは分析には影響しません。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "すでに決めているなら、最初の期間 20% 割引のプランはリンクからご覧になれます。この割引は他のクーポンとは併用できません。",
+      "label": "割引プランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介リンク：このリンクで購入すると、Bruno に Hostinger のクレジットが付くことがありますが、お客様に追加費用はかかりません。このサイトは Hostinger で動いています。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、自動更新、申し込み前に確認すること"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerのクーポンは不要です：紹介リンクで受けられる割引"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "slug": "hostinger-trustpilot-reviews-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼",
+    "seoTitle": "Hostinger Trustpilot 評分與投訴",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "整理 2026 年 10 月 19 日 Hostinger 在 Trustpilot 的評分：怎樣讀懂 TrustScore 4.6，巴西 Reclame Aqui 的投訴說明了什麼，以及如何關閉自動續訂。",
+    "metaDescription": "2026 年 10 月 19 日 Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,316 則評價。了解如何謹慎看待這個分數，並學會關閉自動續訂。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "紫色背景上的五顆白色星星，最後一顆顏色較淺，旁邊是兩個對話氣泡",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速結論",
+        "paragraphs": [
+          "截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上有 73,316 則評價，TrustScore 為 4.6（\"Excellent\"）。五星評價佔 87.1%。Trustpilot 是國際性的評價網站，所以本文先看這個數字。",
+          "不過，這個數字並不能說明全部情況。個人檔案由公司自己管理，公司付費訂閱了 Trustpilot，並邀請客戶留下評價。邀請範圍這麼廣，平均分自然會被拉高。因此，看分數的同時，也應該看評價是怎樣分布的。",
+          "在巴西，參考的是另一個網站 Reclame Aqui，它收集公開的投訴。下文會列出那裡的數字，以及對主機用戶最關鍵的自動續訂問題。"
+        ]
+      },
+      {
+        "heading": "Trustpilot：留下評價的人怎麼看",
+        "paragraphs": [
+          "在 2026 年 10 月 19 日的記錄中，Hostinger 在 Trustpilot 有 73,316 則評價，TrustScore 為 4.6（\"Excellent\"）。五星評價佔 87.1%，一星評價佔 6.9%，約 5 千則。",
+          "在使用這個數字之前，先看看頁面本身顯示了什麼："
+        ],
+        "bullets": [
+          "個人檔案自 2017 年 5 月起已由公司認領，也就是說，這個頁面由公司管理。",
+          "公司付費訂閱了 Trustpilot。",
+          "頁面寫明，Hostinger 會邀請客戶留下評價，無論是正面還是負面的。邀請範圍這麼廣，會拉高平均分，也看不見沒有被邀請的人。",
+          "公司回覆了 98% 的負面評價，通常在 24 小時內，並可能在回覆中使用 AI。",
+          "Trustpilot 本身也說明，它不會逐一核實每則評價。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示評分 4.6、73,316 則評價、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Trustpilot 上 Hostinger 的評價長條圖，由 5 星到 1 星，並標示百分比",
+            "caption": "2026 年 10 月 19 日讀取的 Trustpilot 上 Hostinger 評價分布。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "我們沒有閱讀一星評價的內容，所以本文不說明它們在抱怨什麼。Trustpilot 反映的是人們整體的感受；下文的 Reclame Aqui 則顯示投訴和回覆。兩者合起來看，比只看其中一個更完整。"
+        ]
+      },
+      {
+        "heading": "Reclame Aqui：巴西的背景",
+        "paragraphs": [
+          "Reclame Aqui 是在巴西收集公開投訴的網站。截至 2026 年 9 月 30 日，Hostinger 在那裡的口碑為「非常好」，最近 6 個月的分數是 8.6，最近 12 個月是 8.4。公司回覆了 6 個月內 1,352 則投訴的 99.3%，並把 88.6% 標示為已解決。",
+          "這份資料按時段分成兩個分頁。下表整理的是 2026 年 10 月 19 日查看的兩個分頁，每個分頁下方都附上了網站顯示的日期。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "項目",
+            "6 個月（2026 年 4 月 1 日至 9 月 30 日）",
+            "12 個月（2025 年 10 月 1 日至 2026 年 9 月 30 日）"
+          ],
+          "rows": [
+            [
+              "口碑",
+              "非常好，分數 8.6",
+              "非常好，分數 8.4"
+            ],
+            [
+              "收到的投訴",
+              "1,352",
+              "2,416"
+            ],
+            [
+              "已回覆",
+              "99.3%",
+              "99.6%"
+            ],
+            [
+              "等待回覆",
+              "10",
+              "10"
+            ],
+            [
+              "已解決",
+              "88.6%",
+              "87.9%"
+            ],
+            [
+              "表示會再次交易",
+              "80.3%",
+              "77.6%"
+            ],
+            [
+              "已評價的投訴",
+              "652",
+              "1,185"
+            ],
+            [
+              "消費者平均評分",
+              "7.71",
+              "7.38"
+            ],
+            [
+              "平均回覆時間",
+              "8 天 1 小時",
+              "7 天 17 小時"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "兩個分頁的口碑相同。從 6 個月延長到 12 個月，解決率下降 0.7 個百分點，會再次交易的比例下降 2.7 個百分點。"
+        ]
+      },
+      {
+        "heading": "三個能改變判斷的讀法",
+        "paragraphs": [
+          "第一，在被評價的投訴中，80.3% 表示 6 個月內會再次交易。其餘的，大約每五人中有一人不會再交易。",
+          "第二，被評價的投訴不到一半：6 個月內 1,352 則中只有 652 則。消費者平均評分 7.71 只來自這一部分。",
+          "第三，回覆需要時間。6 個月內的平均回覆時間是 8 天 1 小時。公司幾乎回覆了所有投訴（99.3%），但網站停止運作的人，不會等一個星期。",
+          "這份資料也沒有顯示公司的客戶總數。沒有這個數字，6 個月的 1,352 則投訴只能說明公司收到多少投訴，卻不能說明每位客戶遇到這個問題的頻率。"
+        ]
+      },
+      {
+        "heading": "人們在抱怨什麼",
+        "paragraphs": [
+          "在主要問題的分頁中，Reclame Aqui 顯示了三個排行。它們涵蓋的是總覽分頁中過去 3 年的投訴，而不只是 6 個月。數字如下："
+        ],
+        "bullets": [
+          "**不當扣款：** 21.72%，在問題排行中。是清單中被提到最多的問題。",
+          "**網際網路供應商及服務：** 24.6%，在類別排行中。這是 Reclame Aqui 電信與網路個人檔案的名稱，並沒有說明是 Hostinger 的哪項服務引起投訴。",
+          "**其他類型的產品或服務：** 11.95%，在產品排行中。同樣沒有說明是哪種產品。"
+        ],
+        "postParagraphs": [
+          "這個畫面沒有把不當扣款按原因區分，也沒有說明其中有多少與續訂有關。與自動續訂的關聯是我們的解讀，查證應該從這裡開始。"
+        ]
+      },
+      {
+        "heading": "為什麼不當扣款在主機服務中特別重要",
+        "paragraphs": [
+          "自動續訂開啟時，產品會在到期前續訂，並以登記的付款方式扣款。Hostinger 的幫助中心也是這樣說明的；它還表示，這個選項可以隨時關閉，在到期日之前不會影響服務。",
+          "不過，關閉續訂也有風險。如果沒有另外準備好的方案，網站可能在到期日停止運作。因此，幫助中心建議：若打算繼續使用，就應保持續訂開啟。",
+          "續訂價格和不可疊加的規則，請參閱[推薦碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。這裡要說的是另一件事：這個選項在哪裡，以及如何關閉。"
+        ]
+      },
+      {
+        "heading": "如何關閉自動續訂",
+        "paragraphs": [
+          "根據 2026 年 10 月 19 日查閱的 Hostinger 幫助中心，步驟大致如下："
+        ],
+        "bullets": [
+          "在 hPanel 找到帳單相關的區域，進入服務或訂閱頁面。",
+          "點擊產品旁邊的選單按鈕（三個點）。",
+          "進入續訂設定。",
+          "取消自動續訂的勾選，然後儲存。"
+        ],
+        "postParagraphs": [
+          "關閉此選項後，產品會保持有效直到到期日。要重新開啟，必須有已登記的付款方式。幫助中心也說明，如果續訂日距今只剩一天或更短，必須先手動續訂，才能重新開啟此選項。介面名稱可能會改變，若有改變，請在帳單相關區域尋找自動續訂的設定。"
+        ]
+      },
+      {
+        "heading": "Hostinger 如何回覆",
+        "paragraphs": [
+          "畫面顯示的是回覆率（6 個月 99.3%，10 則投訴等待回覆），而不是回覆的內容。因此，本文無法說明這些回覆是否能解決問題。簽約前，請在個人檔案中閱讀幾則回覆，特別是涉及扣款的回覆。"
+        ]
+      },
+      {
+        "heading": "我們的經驗",
+        "paragraphs": [
+          "同時也是本文作者的 Bruno，自 2024 年起就是 Hostinger 的客戶，訂閱時間超過 24 個月：使用 Business 主機、一台 VPS KVM 2、Business 電郵和網域，全部都是自動續訂。Em Casa com Cecília 網站也運行在 Hostinger 上。",
+          "每次遇到問題，客服都會解決，尤其是 AI 客服代理。他從未遇過服務中斷。",
+          "這是他個人的帳戶，也是他個人的使用方式。它無法說明那些遇到意外扣款的人的情況，Reclame Aqui 的投訴依然有效。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "**Hostinger 在 Trustpilot 的評分好嗎？** 2026 年 10 月 19 日的 TrustScore 為 4.6（\"Excellent\"），共 73,316 則評價，其中 87.1% 為五星。",
+          "**Hostinger 最常見的投訴是什麼？** 在 Reclame Aqui 的問題排行（總覽分頁，過去 3 年）中，不當扣款以 21.72% 居首。",
+          "**Hostinger 會回覆投訴嗎？** 會。根據 Trustpilot，公司回覆了 98% 的負面評價，通常在 24 小時內。在 Reclame Aqui，6 個月內 99.3% 的投訴都已有回覆。",
+          "**如何關閉 Hostinger 的自動續訂？** 在 hPanel 的帳單區域找到服務頁面，打開產品旁的選單，進入續訂設定，然後取消自動續訂並儲存。產品會保持有效直到到期日。"
+        ]
+      },
+      {
+        "heading": "如果你已經決定",
+        "paragraphs": [
+          "如果你決定購買，首個週期 20% 的折扣要透過推薦連結領取，詳情可見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。這項折扣不能與其他優惠碼疊加，續訂會回到方案的正常價格，詳細說明見[推薦碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會比較兩種價格，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的穩定性。"
+        ]
+      },
+      {
+        "heading": "透明度說明",
+        "paragraphs": [
+          "Trustpilot 的數字，以及 Hostinger 幫助中心的內容，都是在 2026 年 10 月 19 日讀取的。Reclame Aqui 的 6 個月與 12 個月分頁，以及問題排行（總覽分頁，過去 3 年），是同一天截取的畫面。這些數字每個月都會變動，所以在決定之前請再次確認。",
+          "此連結為推薦連結：購買後，Bruno 可能會獲得 Hostinger 的帳戶額度。我們與品牌沒有合作關係，這筆帳戶額度也不會影響本分析。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "如果你已經決定，首個週期享 20% 折扣的方案就在連結中。這項折扣不能與其他優惠碼疊加。",
+      "label": "查看折扣方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "推薦連結：透過此連結購買，Bruno 可能獲得 Hostinger 的帳戶額度，對你沒有額外費用。本網站運行在 Hostinger 上。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "slug": "hostinger-trustpilot-reviews-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-reputation",
+    "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么",
+    "seoTitle": "Hostinger Trustpilot 评分与投诉",
+    "type": "口碑分析",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "整理 2026 年 10 月 19 日 Hostinger 在 Trustpilot 的评分：怎样读懂 TrustScore 4.6，巴西 Reclame Aqui 的投诉说明了什么，以及如何关闭自动续费。",
+    "metaDescription": "2026 年 10 月 19 日 Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,316 条评价。了解如何谨慎看待这个分数，并学会关闭自动续费。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "紫色背景上的五颗白色星星，最后一颗颜色较浅，旁边是两个对话气泡",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速结论",
+        "paragraphs": [
+          "截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上有 73,316 条评价，TrustScore 为 4.6（\"Excellent\"）。五星评价占 87.1%。Trustpilot 是国际性的评价网站，所以本文先看这个数字。",
+          "不过，这个数字并不能说明全部情况。个人主页由公司自己管理，公司付费订阅了 Trustpilot，并邀请客户留下评价。邀请范围这么广，平均分自然会被拉高。因此，看分数的同时，也应该看评价是怎样分布的。",
+          "在巴西，参考的是另一个网站 Reclame Aqui，它收集公开的投诉。下文会列出那里的数字，以及对主机用户最关键的自动续费问题。"
+        ]
+      },
+      {
+        "heading": "Trustpilot：留下评价的人怎么看",
+        "paragraphs": [
+          "在 2026 年 10 月 19 日的记录中，Hostinger 在 Trustpilot 有 73,316 条评价，TrustScore 为 4.6（\"Excellent\"）。五星评价占 87.1%，一星评价占 6.9%，约 5 千条。",
+          "在使用这个数字之前，先看看页面本身显示了什么："
+        ],
+        "bullets": [
+          "个人主页自 2017 年 5 月起已由公司认领，也就是说，这个页面由公司管理。",
+          "公司付费订阅了 Trustpilot。",
+          "页面写明，Hostinger 会邀请客户留下评价，无论是正面还是负面的。邀请范围这么广，会拉高平均分，也看不见没有被邀请的人。",
+          "公司回复了 98% 的负面评价，通常在 24 小时内，并可能在回复中使用 AI。",
+          "Trustpilot 本身也说明，它不会逐一核实每条评价。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
+            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示评分 4.6、73,316 条评价、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 个人主页。图片：Bruno 截取的画面。",
+            "objectFit": "contain",
+            "aspectRatio": 3.7969
+          },
+          {
+            "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
+            "alt": "Trustpilot 上 Hostinger 的评价条形图，由 5 星到 1 星，并标示百分比",
+            "caption": "2026 年 10 月 19 日读取的 Trustpilot 上 Hostinger 评价分布。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "postParagraphs": [
+          "我们没有阅读一星评价的内容，所以本文不说明它们在抱怨什么。Trustpilot 反映的是人们整体的感受；下文的 Reclame Aqui 则显示投诉和回复。两者合起来看，比只看其中一个更完整。"
+        ]
+      },
+      {
+        "heading": "Reclame Aqui：巴西的背景",
+        "paragraphs": [
+          "Reclame Aqui 是在巴西收集公开投诉的网站。截至 2026 年 9 月 30 日，Hostinger 在那里的口碑为「非常好」，最近 6 个月的分数是 8.6，最近 12 个月是 8.4。公司回复了 6 个月内 1,352 条投诉的 99.3%，并把 88.6% 标示为已解决。",
+          "这份资料按时段分成两个标签页。下表整理的是 2026 年 10 月 19 日查看的两个标签页，每个标签页下方都附上了网站显示的日期。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "项目",
+            "6 个月（2026 年 4 月 1 日至 9 月 30 日）",
+            "12 个月（2025 年 10 月 1 日至 2026 年 9 月 30 日）"
+          ],
+          "rows": [
+            [
+              "口碑",
+              "非常好，分数 8.6",
+              "非常好，分数 8.4"
+            ],
+            [
+              "收到的投诉",
+              "1,352",
+              "2,416"
+            ],
+            [
+              "已回复",
+              "99.3%",
+              "99.6%"
+            ],
+            [
+              "等待回复",
+              "10",
+              "10"
+            ],
+            [
+              "已解决",
+              "88.6%",
+              "87.9%"
+            ],
+            [
+              "表示会再次交易",
+              "80.3%",
+              "77.6%"
+            ],
+            [
+              "已评价的投诉",
+              "652",
+              "1,185"
+            ],
+            [
+              "消费者平均评分",
+              "7.71",
+              "7.38"
+            ],
+            [
+              "平均回复时间",
+              "8 天 1 小时",
+              "7 天 17 小时"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "两个标签页的口碑相同。从 6 个月延长到 12 个月，解决率下降 0.7 个百分点，会再次交易的比例下降 2.7 个百分点。"
+        ]
+      },
+      {
+        "heading": "三个能改变判断的读法",
+        "paragraphs": [
+          "第一，在被评价的投诉中，80.3% 表示 6 个月内会再次交易。其余的，大约每五人中有一人不会再交易。",
+          "第二，被评价的投诉不到一半：6 个月内 1,352 条中只有 652 条。消费者平均评分 7.71 只来自这一部分。",
+          "第三，回复需要时间。6 个月内的平均回复时间是 8 天 1 小时。公司几乎回复了所有投诉（99.3%），但网站停止运行的人，不会等一个星期。",
+          "这份资料也没有显示公司的客户总数。没有这个数字，6 个月的 1,352 条投诉只能说明公司收到多少投诉，却不能说明每位客户遇到这个问题的频率。"
+        ]
+      },
+      {
+        "heading": "人们在抱怨什么",
+        "paragraphs": [
+          "在主要问题的标签页中，Reclame Aqui 显示了三个排行。它们涵盖的是总览标签页中过去 3 年的投诉，而不只是 6 个月。数字如下："
+        ],
+        "bullets": [
+          "**不当扣款：** 21.72%，在问题排行中。是清单中被提到最多的问题。",
+          "**互联网供应商及服务：** 24.6%，在类别排行中。这是 Reclame Aqui 电信与网络个人主页的名称，并没有说明是 Hostinger 的哪项服务引起投诉。",
+          "**其他类型的产品或服务：** 11.95%，在产品排行中。同样没有说明是哪种产品。"
+        ],
+        "postParagraphs": [
+          "这个画面没有把不当扣款按原因区分，也没有说明其中有多少与续费有关。与自动续费的关联是我们的解读，核实应该从这里开始。"
+        ]
+      },
+      {
+        "heading": "为什么不当扣款在主机服务中特别重要",
+        "paragraphs": [
+          "自动续费开启时，产品会在到期前续费，并以登记的付款方式扣款。Hostinger 的帮助中心也是这样说明的；它还表示，这个选项可以随时关闭，在到期日之前不会影响服务。",
+          "不过，关闭续费也有风险。如果没有另外准备好的套餐，网站可能在到期日停止运行。因此，帮助中心建议：若打算继续使用，就应保持续费开启。",
+          "续费价格和不可叠加的规则，请参阅[推荐码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。这里要说的是另一件事：这个选项在哪里，以及如何关闭。"
+        ]
+      },
+      {
+        "heading": "如何关闭自动续费",
+        "paragraphs": [
+          "根据 2026 年 10 月 19 日查阅的 Hostinger 帮助中心，步骤大致如下："
+        ],
+        "bullets": [
+          "在 hPanel 中找到账单相关的区域，进入服务或订阅页面。",
+          "点击产品旁边的菜单按钮（三个点）。",
+          "进入续费设置。",
+          "取消自动续费的勾选，然后保存。"
+        ],
+        "postParagraphs": [
+          "关闭此选项后，产品会保持有效直到到期日。要重新开启，必须有已登记的付款方式。帮助中心也说明，如果续费日距今只剩一天或更短，必须先手动续费，才能重新开启此选项。界面名称可能会改变，若有改变，请在账单相关区域寻找自动续费的设置。"
+        ]
+      },
+      {
+        "heading": "Hostinger 如何回复",
+        "paragraphs": [
+          "画面显示的是回复率（6 个月 99.3%，10 条投诉等待回复），而不是回复的内容。因此，本文无法说明这些回复是否能解决问题。签约前，请在个人主页中阅读几条回复，特别是涉及扣款的回复。"
+        ]
+      },
+      {
+        "heading": "我们的经验",
+        "paragraphs": [
+          "同时也是本文作者的 Bruno，自 2024 年起就是 Hostinger 的客户，订阅时间超过 24 个月：使用 Business 主机、一台 VPS KVM 2、Business 邮箱和域名，全部都是自动续费。Em Casa com Cecília 网站也运行在 Hostinger 上。",
+          "每次遇到问题，客服都会解决，尤其是 AI 客服代理。他从未遇过服务中断。",
+          "这是他个人的账户，也是他个人的使用方式。它无法说明那些遇到意外扣款的人的情况，Reclame Aqui 的投诉依然有效。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "**Hostinger 在 Trustpilot 的评分好吗？** 2026 年 10 月 19 日的 TrustScore 为 4.6（\"Excellent\"），共 73,316 条评价，其中 87.1% 为五星。",
+          "**Hostinger 最常见的投诉是什么？** 在 Reclame Aqui 的问题排行（总览标签页，过去 3 年）中，不当扣款以 21.72% 居首。",
+          "**Hostinger 会回复投诉吗？** 会。根据 Trustpilot，公司回复了 98% 的负面评价，通常在 24 小时内。在 Reclame Aqui，6 个月内 99.3% 的投诉都已有回复。",
+          "**如何关闭 Hostinger 的自动续费？** 在 hPanel 的账单区域找到服务页面，打开产品旁的菜单，进入续费设置，然后取消自动续费并保存。产品会保持有效直到到期日。"
+        ]
+      },
+      {
+        "heading": "如果你已经决定",
+        "paragraphs": [
+          "如果你决定购买，首个周期 20% 的折扣要通过推荐链接领取，详情可见 [Hostinger](/zh-hans/coupons/hostinger) 页面。这项折扣不能与其他优惠码叠加，续费会回到套餐的正常价格，详细说明见[推荐码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会比较两种价格，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的稳定性。"
+        ]
+      },
+      {
+        "heading": "透明度说明",
+        "paragraphs": [
+          "Trustpilot 的数字，以及 Hostinger 帮助中心的内容，都是在 2026 年 10 月 19 日读取的。Reclame Aqui 的 6 个月与 12 个月标签页，以及问题排行（总览标签页，过去 3 年），是同一天截取的画面。这些数字每个月都会变动，所以在决定之前请再次核实。",
+          "此链接为推荐链接：购买后，Bruno 可能会获得 Hostinger 的账户额度。我们与品牌没有合作关系，这笔账户额度也不会影响本分析。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "如果你已经决定，首个周期享 20% 折扣的套餐就在链接中。这项折扣不能与其他优惠码叠加。",
+      "label": "查看折扣套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "推荐链接：通过此链接购买，Bruno 可能获得 Hostinger 的账户额度，对你没有额外费用。本网站运行在 Hostinger 上。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "slug": "cupom-hostinger-indicacao",
+    "locale": "pt",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá",
+    "seoTitle": "Cupom Hostinger 2026: 20% no primeiro período, sem cupom",
+    "type": "Guia do Código de Indicação",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger tem cupom? Não precisa. O link de indicação já dá 20% no primeiro período de um plano novo. Veja os preços de 19/10/2026 e o que muda na renovação.",
+    "metaDescription": "Não há código para digitar na Hostinger: o link de indicação dá 20% no primeiro período, não soma com outros cupons e a renovação volta ao preço padrão.",
+    "publishedAt": "19 de outubro de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "Texto -20% ao lado de dois elos de corrente, em branco sobre fundo roxo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não precisa de cupom. A indicação da Hostinger não tem código para digitar: o desconto já está no link, e aparece nos preços da página. Pelo link, um plano novo sai com **20% só no primeiro período**. Depois, a renovação volta ao **preço padrão**, e o desconto **não soma com outros cupons**."
+        ]
+      },
+      {
+        "heading": "O que a Hostinger diz sobre cupom",
+        "paragraphs": [
+          "Na FAQ da Black Friday, a própria Hostinger escreve que \"não é necessário nenhum código de cupom para as principais ofertas\", porque os descontos são aplicados automaticamente. A mesma FAQ avisa que algumas promoções de canais específicos podem usar códigos separados. Este texto trata só do link de indicação. Não citamos códigos de outros sites, e para ver o desconto deste link você não precisa de nenhum."
+        ]
+      },
+      {
+        "heading": "Onde entra o código",
+        "paragraphs": [
+          "Ele já está no link, então você não digita nada. O link leva à página de preços da Hostinger, e em cada plano aparece a mensagem \"Código de indicação aplicado\". Para ver o resumo da oferta no site, veja a [página da Hostinger aqui no site](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "O site roda na Hostinger",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na Hostinger, e o Bruno é cliente desde 2024, com mais de 24 meses de assinatura. Ele usa hospedagem Business, uma VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Toda vez que teve algum problema, o suporte resolveu, principalmente pelo agente de IA. Pessoalmente, ele nunca viu uma queda do serviço. Essa é a experiência dele; as regras do desconto estão na página da Hostinger e são o que este texto descreve."
+        ]
+      },
+      {
+        "heading": "Quanto custa com e sem o link",
+        "paragraphs": [
+          "Os preços são os que a Hostinger mostrava em 19/10/2026, em reais e por mês. Os valores com o link são calculados sobre o preço da campanha que estiver no ar, e podem mudar a qualquer momento."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "48 meses sem o link",
+            "48 meses com o link",
+            "12 meses com o link",
+            "Renovação (preço padrão)"
+          ],
+          "rows": [
+            [
+              "Single",
+              "R$ 5,99/mês",
+              "R$ 4,79/mês (R$ 229,92 no total)",
+              "R$ 9,59/mês (R$ 115,08 no total)",
+              "R$ 23,99/mês"
+            ],
+            [
+              "Premium",
+              "R$ 9,99/mês",
+              "R$ 7,99/mês (R$ 383,52 no total)",
+              "R$ 11,99/mês (R$ 143,88 no total)",
+              "R$ 38,99/mês"
+            ],
+            [
+              "Unlimited",
+              "R$ 12,99/mês",
+              "R$ 10,39/mês (R$ 498,72 no total)",
+              "R$ 16,79/mês (R$ 201,48 no total)",
+              "R$ 64,99/mês"
+            ],
+            [
+              "Cloud Startup",
+              "R$ 39,99/mês",
+              "R$ 31,99/mês (R$ 1.535,52 no total)",
+              "R$ 39,99/mês (R$ 479,88 no total)",
+              "R$ 129,99/mês"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Single, em 48 meses, o link deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). A renovação não tem desconto: ela entra no preço padrão, mostrado abaixo do card de cada plano.",
+          "Para a campanha em si, com as datas e a comparação com a compra sem o link, veja a [Black Friday da Hostinger](/reviews/black-friday-hostinger)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-precos-com-link.webp",
+            "alt": "Página de preços da Hostinger com o link de indicação, com os quatro planos e o preço mensal de 48 meses",
+            "caption": "Preço de 48 meses com o link de indicação, em 19/10/2026. Imagem: captura do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 4.079
+          }
+        ]
+      },
+      {
+        "heading": "Como funciona o desconto",
+        "paragraphs": [
+          "A página diz que o desconto vale para \"o primeiro período de qualquer novo plano, independente do produto escolhido\". Os termos do programa, porém, limitam os serviços elegíveis e falam em assinaturas de 12 meses ou mais. Por isso este texto não diz \"qualquer plano\": confira no carrinho se o 20% aparece no plano que você escolheu. Os termos também falam em \"até 20%\" de desconto para quem chega pelo link; a página mostra 20%."
+        ]
+      },
+      {
+        "heading": "Renovação: o que muda depois do primeiro período",
+        "paragraphs": [
+          "Depois do primeiro período, o plano é renovado pelo preço padrão, o que aparece abaixo do card de cada plano. A página diz que dá para trocar o período ou cancelar a qualquer momento antes da renovação. Para desligar a renovação automática e o que fazer com uma cobrança que você não reconhece, veja a [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-pt.webp",
+            "alt": "Quadro comparando o primeiro período com 20% pelo link e a renovação pelo preço padrão depois dele",
+            "caption": "Primeiro período com 20% pelo link de indicação, e renovação pelo preço padrão. Imagem: quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Por que o desconto não soma com outro cupom",
+        "paragraphs": [
+          "A FAQ da página diz que \"este já é o melhor preço que podemos oferecer por este link\", e por isso outros cupons de desconto não são acumulativos. Se você encontrar um código em outro site, ele não soma com o link, e não recomendamos nenhum."
+        ]
+      },
+      {
+        "heading": "VPS, e-mail e domínio",
+        "paragraphs": [
+          "Os termos do programa listam hospedagem de sites, VPS e o e-mail da Hostinger entre os serviços elegíveis. Domínio não aparece nessa lista, então não contamos com o desconto de 20% para domínio; o que vale é o que aparecer no carrinho. A página também não usa o termo \"primeira compra\": a regra dela é o primeiro período de um plano novo."
+        ]
+      },
+      {
+        "heading": "Quem já é cliente",
+        "paragraphs": [
+          "O link não vale para renovação nem para compra que já foi feita. Os termos descrevem o programa como voltado a novos usuários. A página não diz o que a Hostinger oferece a quem já é cliente, então este texto não promete desconto para renovar. Quem já tem plano confere o valor da renovação no painel da própria Hostinger."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "bullets": [
+          "Abra o link pelo botão deste artigo.",
+          "Veja se o card do plano mostra \"Código de indicação aplicado\".",
+          "No carrinho, confira se o 20% aparece no primeiro período e se a renovação está listada. A página não diz se a conta precisa ser nova, então esse é o momento de conferir.",
+          "Se o valor do carrinho for diferente da tabela, vale o valor do carrinho. A tabela é de 19/10/2026."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**Hostinger tem cupom?** Não é preciso. O desconto de 20% já está no link de indicação, no primeiro período de um plano novo.",
+          "**O link de indicação dá desconto na renovação?** Não. A renovação volta ao preço padrão, o que aparece abaixo do card de cada plano.",
+          "**O desconto soma com outro cupom?** Não. A página diz que outros cupons de desconto não são acumulativos com o link.",
+          "**Domínio entra no desconto?** Os termos não listam domínio entre os serviços elegíveis. Confira no carrinho antes de pagar.",
+          "**Quem já é cliente ganha o desconto?** A regra da página exclui renovação e compra já feita. Para renovar, veja o valor no painel da Hostinger."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de indicação. As compras feitas pelo link podem gerar crédito na Hostinger para o Bruno, sem custo extra para quem compra. O site roda na Hostinger, e o Bruno é cliente desde 2024. Os preços são de 19/10/2026, mudam com a campanha, e a Hostinger pode alterá-los a qualquer momento."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "O código de indicação já vai no link: os 20% valem só no primeiro período e não somam com outros cupons.",
+      "label": "Ver os planos com desconto",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. O site roda na Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "hostinger-reclame-aqui-nota-reputacao",
+        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "slug": "hostinger-coupon-code-referral",
+    "locale": "en",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostinger coupon: you don't need one — what the referral link gives",
+    "seoTitle": "Hostinger Coupon 2026: 20% on the First Period, No Code Needed",
+    "type": "Referral Code Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Does Hostinger have a coupon? You don't need one. The referral link already gives 20% on the first period of a new plan. See what changes at renewal.",
+    "metaDescription": "There is no code to type at Hostinger: the referral link gives 20% on the first period, does not stack with other coupons, and renewal goes back to the standard price.",
+    "publishedAt": "October 19, 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "-20% text next to two chain links, in white on a purple background",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "You don't need a coupon. Hostinger's referral offer has no code to type: the discount is already in the link. Through the link, a new plan comes with **20% only on the first period**. After that, renewal goes back to the **standard price**, and the discount **does not stack with other coupons**."
+        ]
+      },
+      {
+        "heading": "What Hostinger says about coupons",
+        "paragraphs": [
+          "In its Black Friday FAQ, Hostinger states that no coupon code is needed for the main offers, because the discounts are applied automatically. The same FAQ warns that some promotions for specific channels may use separate codes. This text covers only the referral link. We don't cite codes from other sites, and to get this link's discount you don't need any."
+        ]
+      },
+      {
+        "heading": "Where the code goes",
+        "paragraphs": [
+          "It is already in the link, so you don't type anything. The link takes you to Hostinger's pricing page, where you can open the plans and compare the first-period total with and without the link. For a summary of the offer on this site, see the [Hostinger page here on the site](/en/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "The site runs on Hostinger",
+        "paragraphs": [
+          "This site runs on Hostinger, and Bruno has been a customer since 2024, for more than 24 months. He uses Business web hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. Every time there was a problem, support solved it, mainly through the AI agent. He personally has never seen the service go down. This is his experience; the discount rules are on Hostinger's page, and they are what this text describes."
+        ]
+      },
+      {
+        "heading": "What it costs with and without the link",
+        "paragraphs": [
+          "Prices depend on your region and on the campaign running at the time, so we don't list them here. To see the price in your region, check Hostinger's pricing page through the link: the 20% applies to the first period, and renewal is shown on each plan card."
+        ],
+        "postParagraphs": [
+          "Renewal has no discount: it goes to the standard price, shown below each plan's card.",
+          "For the campaign itself, with the dates and the comparison with buying without the link, see the [Hostinger Black Friday guide](/en/reviews/hostinger-black-friday)."
+        ]
+      },
+      {
+        "heading": "How the discount works",
+        "paragraphs": [
+          "The page says the 20% covers the first period of a new plan, whatever the product chosen. The programme terms, however, limit the eligible services and refer to subscriptions of 12 months or more. That is why this text does not promise the discount on every plan: check in the cart whether the 20% appears on the plan you chose. The terms also say “up to 20%” for people who arrive through the link; the page shows 20%."
+        ]
+      },
+      {
+        "heading": "Renewal: what changes after the first period",
+        "paragraphs": [
+          "After the first period, the plan renews at the standard price, shown below each plan's card. The page says you can change the billing period or cancel at any time before renewal. To turn off automatic renewal and find out what to do about a charge you don't recognize, see the [Hostinger article on Trustpilot](/en/reviews/hostinger-trustpilot-reviews)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-en.webp",
+            "alt": "Table comparing the first period at 20% through the link with the standard renewal price after it",
+            "caption": "First period at 20% through the referral link, and renewal at the standard price. Image: graphic by Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Why the discount doesn't stack with another coupon",
+        "paragraphs": [
+          "The page's FAQ says this is already the best price it can offer through this link, which is why other discount coupons do not stack with it. If you find a code on another site, it does not stack with the link, and we don't recommend any."
+        ]
+      },
+      {
+        "heading": "VPS, email and domain",
+        "paragraphs": [
+          "The programme terms list website hosting, VPS and Hostinger email among the eligible services. Domains are not on that list, so we don't count on the 20% for a domain; what counts is what appears in the cart. The page also doesn't use the term “first purchase”: its rule is the first period of a new plan."
+        ]
+      },
+      {
+        "heading": "Existing customers",
+        "paragraphs": [
+          "The link does not apply to renewals or to purchases already made. The terms describe the programme as aimed at new users. The page does not say what Hostinger offers existing customers, so this text does not promise a renewal discount. If you already have a plan, check the renewal price in your Hostinger control panel."
+        ]
+      },
+      {
+        "heading": "Before you pay",
+        "bullets": [
+          "Open the link using this article's button.",
+          "Compare the first-period total of the plan with and without the link.",
+          "In the cart, check that the 20% appears on the first period and that renewal is listed. The page does not say whether the account must be new, so this is the moment to check.",
+          "If the cart price differs from what you see elsewhere, the cart price is the one that counts. Prices can change."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "**Does Hostinger have a coupon?** No need. The 20% discount is already in the referral link, on the first period of a new plan.",
+          "**Does the referral link discount renewal?** No. Renewal goes back to the standard price, shown below each plan's card.",
+          "**Does the discount stack with another coupon?** No. The page says other discount coupons do not stack with the link.",
+          "**Does a domain qualify for the discount?** The terms don't list domains among the eligible services. Check the cart before paying.",
+          "**Do existing customers get the discount?** The page's rule excludes renewals and purchases already made. To renew, check the price in your Hostinger control panel."
+        ]
+      },
+      {
+        "heading": "Transparency note",
+        "paragraphs": [
+          "This is a referral article. Purchases made through the link may earn Hostinger credit for Bruno, at no extra cost to the buyer. This site runs on Hostinger, and Bruno has been a customer since 2024. Prices and campaigns change, and Hostinger can change them at any time."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "The referral code is already in the link: the 20% applies only to the first period and does not stack with other coupons.",
+      "label": "See plans with the discount",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases through the referral link may earn Hostinger credit for Bruno, at no extra cost to you. This site runs on Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews",
+        "title": "Hostinger on Trustpilot: score, complaints and what the numbers show"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "slug": "cupon-hostinger-codigo-de-referido",
+    "locale": "es",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Cupón Hostinger: no necesitas uno, esto es lo que da el enlace de referido",
+    "seoTitle": "Cupón Hostinger 2026: 20% en el primer período, sin código",
+    "type": "Guía del código de referido",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "¿Hostinger tiene cupón? No hace falta. El enlace de referido ya da 20% en el primer período de un plan nuevo. Mira qué cambia en la renovación.",
+    "metaDescription": "No hay código que escribir en Hostinger: el enlace de referido da 20% en el primer período, no se suma a otros cupones y la renovación vuelve al precio estándar.",
+    "publishedAt": "19 de octubre de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "Texto -20% junto a dos eslabones de cadena, en blanco sobre fondo morado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "No necesitas cupón. La oferta de referido de Hostinger no tiene código que escribir: el descuento ya está en el enlace. Con el enlace, un plan nuevo sale con **20% solo en el primer período**. Después, la renovación vuelve al **precio estándar**, y el descuento **no se suma a otros cupones**."
+        ]
+      },
+      {
+        "heading": "Lo que dice Hostinger sobre los cupones",
+        "paragraphs": [
+          "En su FAQ del Black Friday, Hostinger afirma que no hace falta ningún código de cupón para las principales ofertas, porque los descuentos se aplican automáticamente. La misma FAQ avisa de que algunas promociones de canales específicos pueden usar códigos separados. Este texto trata solo del enlace de referido. No citamos códigos de otros sitios, y para obtener el descuento de este enlace no necesitas ninguno."
+        ]
+      },
+      {
+        "heading": "Dónde entra el código",
+        "paragraphs": [
+          "Ya está en el enlace, así que no escribes nada. El enlace lleva a la página de precios de Hostinger, donde puedes abrir los planes y comparar el total del primer período con y sin el enlace. Para ver el resumen de la oferta en este sitio, mira la [página de Hostinger aquí en el sitio](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "El sitio funciona con Hostinger",
+        "paragraphs": [
+          "Este sitio funciona con Hostinger, y Bruno es cliente desde 2024, con más de 24 meses de suscripción. Usa hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Cada vez que hubo un problema, el soporte lo resolvió, sobre todo con el agente de IA. Personalmente, nunca vio caer el servicio. Esta es su experiencia; las reglas del descuento están en la página de Hostinger, y son lo que describe este texto."
+        ]
+      },
+      {
+        "heading": "Cuánto cuesta con y sin el enlace",
+        "paragraphs": [
+          "Los precios dependen de tu región y de la campaña vigente, así que no los incluimos aquí. Para ver el precio de tu región, consulta la página de precios de Hostinger a través del enlace: los 20% se aplican al primer período, y la renovación aparece en la tarjeta de cada plan."
+        ],
+        "postParagraphs": [
+          "La renovación no tiene descuento: entra al precio estándar, que aparece debajo de la tarjeta de cada plan.",
+          "Para la campaña en sí, con las fechas y la comparación con la compra sin el enlace, mira la [guía de Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas)."
+        ]
+      },
+      {
+        "heading": "Cómo funciona el descuento",
+        "paragraphs": [
+          "La página dice que el 20% vale para el primer período de un plan nuevo, sin importar el producto elegido. Sin embargo, las condiciones del programa limitan los servicios elegibles y hablan de suscripciones de 12 meses o más. Por eso este texto no promete el descuento en todos los planes: revisa en el carrito si el 20% aparece en el plan que elegiste. Las condiciones también hablan de “hasta 20%” para quien llega por el enlace; la página muestra 20%."
+        ]
+      },
+      {
+        "heading": "Renovación: qué cambia después del primer período",
+        "paragraphs": [
+          "Después del primer período, el plan se renueva al precio estándar, que aparece debajo de la tarjeta de cada plan. La página dice que puedes cambiar el período o cancelar en cualquier momento antes de la renovación. Para desactivar la renovación automática y saber qué hacer con un cobro que no reconoces, mira el [artículo de Hostinger en Trustpilot](/es/reviews/hostinger-opiniones-trustpilot)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-es.webp",
+            "alt": "Cuadro que compara el primer período con 20% por el enlace y la renovación al precio estándar después",
+            "caption": "Primer período con 20% por el enlace de referido, y renovación al precio estándar. Imagen: gráfico de Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Por qué el descuento no se suma a otro cupón",
+        "paragraphs": [
+          "La FAQ de la página dice que este ya es el mejor precio que pueden ofrecer por este enlace, por eso otros cupones de descuento no se acumulan. Si encuentras un código en otro sitio, no se suma al enlace, y no recomendamos ninguno."
+        ]
+      },
+      {
+        "heading": "VPS, correo y dominio",
+        "paragraphs": [
+          "Las condiciones del programa incluyen el hosting de sitios, el VPS y el correo de Hostinger entre los servicios elegibles. El dominio no aparece en esa lista, así que no contamos con el 20% para dominios; lo que vale es lo que aparezca en el carrito. La página tampoco usa el término “primera compra”: su regla es el primer período de un plan nuevo."
+        ]
+      },
+      {
+        "heading": "Quien ya es cliente",
+        "paragraphs": [
+          "El enlace no vale para renovaciones ni para compras ya hechas. Las condiciones describen el programa como dirigido a usuarios nuevos. La página no dice qué ofrece Hostinger a quien ya es cliente, así que este texto no promete descuento para renovar. Si ya tienes un plan, revisa el precio de la renovación en el panel de Hostinger."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "bullets": [
+          "Abre el enlace con el botón de este artículo.",
+          "Compara el total del primer período del plan con y sin el enlace.",
+          "En el carrito, confirma que el 20% aparece en el primer período y que la renovación figura en la lista. La página no dice si la cuenta debe ser nueva, así que este es el momento de verificarlo.",
+          "Si el precio del carrito es distinto de lo que ves en otro lugar, vale el precio del carrito. Los precios pueden cambiar."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "**¿Hostinger tiene cupón?** No hace falta. El 20% de descuento ya está en el enlace de referido, en el primer período de un plan nuevo.",
+          "**¿El enlace de referido da descuento en la renovación?** No. La renovación vuelve al precio estándar, que aparece debajo de la tarjeta de cada plan.",
+          "**¿El descuento se suma a otro cupón?** No. La página dice que otros cupones de descuento no se acumulan con el enlace.",
+          "**¿El dominio entra en el descuento?** Las condiciones no incluyen dominios entre los servicios elegibles. Revisa el carrito antes de pagar.",
+          "**¿Quién ya es cliente recibe el descuento?** La regla de la página excluye renovaciones y compras ya hechas. Para renovar, mira el valor en el panel de Hostinger."
+        ]
+      },
+      {
+        "heading": "Nota de transparencia",
+        "paragraphs": [
+          "Este es un artículo de referido. Las compras hechas con el enlace pueden generar crédito en Hostinger para Bruno, sin costo extra para quien compra. El sitio funciona con Hostinger, y Bruno es cliente desde 2024. Los precios y las campañas cambian, y Hostinger puede modificarlos en cualquier momento."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "El código de referido ya va en el enlace: los 20% valen solo en el primer período y no se suman a otros cupones.",
+      "label": "Ver los planes con descuento",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el enlace de referido pueden generar crédito en Hostinger para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "hostinger-opiniones-trustpilot",
+        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran los datos"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "slug": "code-promo-hostinger-parrainage",
+    "locale": "fr",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage",
+    "seoTitle": "Code promo Hostinger 2026 : 20 % sur la première période, sans code",
+    "type": "Guide du code de parrainage",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger a-t-il un code promo ? Inutile. Le lien de parrainage donne déjà 20 % sur la première période d'un nouveau forfait. Voyez ce qui change au renouvellement.",
+    "metaDescription": "Aucun code à saisir chez Hostinger : le lien de parrainage donne 20 % sur la première période, ne se cumule pas avec d'autres codes, et le renouvellement revient au tarif standard.",
+    "publishedAt": "19 octobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "Texte -20 % à côté de deux maillons de chaîne, en blanc sur fond violet",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pas besoin de code promo. L'offre de parrainage Hostinger n'a pas de code à saisir : la réduction est déjà dans le lien. Par ce lien, un nouveau forfait bénéficie de **20 % uniquement sur la première période**. Ensuite, le renouvellement revient au **tarif standard**, et la réduction **ne se cumule pas avec d'autres codes promo**."
+        ]
+      },
+      {
+        "heading": "Ce que dit Hostinger sur les codes",
+        "paragraphs": [
+          "Dans sa FAQ du Black Friday, Hostinger indique qu'aucun code promo n'est nécessaire pour les principales offres, car les réductions sont appliquées automatiquement. La même FAQ prévient que certaines promotions de canaux spécifiques peuvent utiliser des codes séparés. Ce texte ne traite que du lien de parrainage. Nous ne citons pas de codes d'autres sites, et pour profiter de la réduction de ce lien, vous n'en avez besoin d'aucun."
+        ]
+      },
+      {
+        "heading": "Où se place le code",
+        "paragraphs": [
+          "Il est déjà dans le lien, vous n'avez donc rien à saisir. Le lien mène à la page des tarifs Hostinger, et rien n'est à saisir sur la page. Pour un résumé de l'offre sur ce site, consultez la [page Hostinger ici sur le site](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Le site fonctionne sur Hostinger",
+        "paragraphs": [
+          "Ce site fonctionne sur Hostinger, et Bruno est client depuis 2024, soit plus de 24 mois. Il utilise l'hébergement Business, un VPS KVM 2, la messagerie Business et des domaines, le tout avec renouvellement automatique. À chaque problème, le support l'a réglé, surtout grâce à l'agent d'IA. Personnellement, il n'a jamais vu le service tomber. C'est son expérience ; les règles de la réduction figurent sur la page Hostinger, et c'est ce que décrit ce texte."
+        ]
+      },
+      {
+        "heading": "Combien ça coûte avec et sans le lien",
+        "paragraphs": [
+          "Les prix dépendent de votre région et de la campagne en cours, nous ne les reproduisons donc pas ici. Ouvrez les forfaits par le lien et comparez le total de la première période avec et sans le lien, puis regardez le tarif du renouvellement avant de payer."
+        ],
+        "postParagraphs": [
+          "Le renouvellement n'a pas de réduction : il se fait au tarif standard.",
+          "Pour la campagne elle-même, avec ses dates et la comparaison avec un achat sans le lien, voir le [guide Black Friday Hostinger](/fr/reviews/black-friday-hostinger-offres)."
+        ]
+      },
+      {
+        "heading": "Comment fonctionne la réduction",
+        "paragraphs": [
+          "La page indique que les 20 % s'appliquent à la première période d'un nouveau forfait, quel que soit le produit choisi. Les conditions du programme limitent toutefois les services éligibles et évoquent des abonnements de 12 mois ou plus. C'est pourquoi ce texte ne promet pas la réduction pour tous les forfaits : vérifiez dans le panier que les 20 % apparaissent sur le forfait choisi. Les conditions parlent aussi de « jusqu'à 20 % » pour les visiteurs qui arrivent par le lien ; lors de notre lecture, la page affichait 20 %."
+        ]
+      },
+      {
+        "heading": "Renouvellement : ce qui change après la première période",
+        "paragraphs": [
+          "Après la première période, le forfait est renouvelé au tarif standard. La page indique qu'on peut changer la période ou résilier à tout moment avant le renouvellement. Pour désactiver le renouvellement automatique et savoir quoi faire d'un prélèvement non reconnu, consultez l'[article Hostinger sur Trustpilot](/fr/reviews/hostinger-avis-trustpilot)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-fr.webp",
+            "alt": "Tableau comparant la première période à 20 % via le lien et le renouvellement au tarif standard ensuite",
+            "caption": "Première période à 20 % via le lien de parrainage, puis renouvellement au tarif standard. Image : visuel d'Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Pourquoi la réduction ne se cumule pas avec un autre code",
+        "paragraphs": [
+          "La FAQ de la page indique que ce prix est déjà le meilleur qu'elle puisse proposer par ce lien, et c'est pourquoi les autres codes de réduction ne se cumulent pas avec lui. Si vous trouvez un code sur un autre site, il ne se cumule pas avec le lien, et nous n'en recommandons aucun."
+        ]
+      },
+      {
+        "heading": "VPS, messagerie et domaine",
+        "paragraphs": [
+          "Les conditions du programme listent l'hébergement de sites, le VPS et la messagerie Hostinger parmi les services éligibles. Le domaine ne figure pas dans cette liste : nous ne comptons donc pas sur les 20 % pour un domaine ; ce qui compte, c'est ce qui apparaît dans le panier. La page n'emploie pas non plus l'expression « premier achat » : sa règle porte sur la première période d'un nouveau forfait."
+        ]
+      },
+      {
+        "heading": "Les clients existants",
+        "paragraphs": [
+          "Le lien ne vaut ni pour un renouvellement ni pour un achat déjà effectué. Les conditions décrivent le programme comme destiné aux nouveaux utilisateurs. La page ne dit pas ce que Hostinger propose aux clients existants : ce texte ne promet donc aucune réduction au renouvellement. Si vous avez déjà un forfait, vérifiez le prix du renouvellement dans votre espace Hostinger."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "bullets": [
+          "Ouvrez le lien avec le bouton de cet article.",
+          "Ouvrez les forfaits par le lien et comparez le total de la première période avec et sans lui.",
+          "Dans le panier, vérifiez que les 20 % apparaissent sur la première période et que le renouvellement est indiqué. La page ne dit pas si le compte doit être nouveau : c'est le moment de le vérifier.",
+          "Si le prix du panier diffère de ce que vous voyez ailleurs, c'est le prix du panier qui compte. Les prix peuvent changer."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "**Hostinger a-t-il un code promo ?** Inutile. La réduction de 20 % est déjà dans le lien de parrainage, sur la première période d'un nouveau forfait.",
+          "**Le lien de parrainage réduit-il le renouvellement ?** Non. Le renouvellement revient au tarif standard.",
+          "**La réduction se cumule-t-elle avec un autre code ?** Non. La page indique que les autres codes de réduction ne se cumulent pas avec le lien.",
+          "**Un domaine entre-t-il dans la réduction ?** Les conditions ne listent pas les domaines parmi les services éligibles. Vérifiez le panier avant de payer.",
+          "**Les clients existants ont-ils la réduction ?** La règle de la page exclut les renouvellements et les achats déjà effectués. Pour renouveler, consultez le prix dans votre espace Hostinger."
+        ]
+      },
+      {
+        "heading": "Note de transparence",
+        "paragraphs": [
+          "Il s'agit d'un article de parrainage. Les achats faits par le lien peuvent rapporter un crédit Hostinger à Bruno, sans surcoût pour l'acheteur. Ce site fonctionne sur Hostinger, et Bruno est client depuis 2024. Les prix et les campagnes changent, et Hostinger peut les modifier à tout moment."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que sur la première période et ne se cumulent pas avec d'autres codes.",
+      "label": "Voir les forfaits avec la réduction",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits via le lien de parrainage peuvent rapporter un crédit Hostinger à Bruno, sans surcoût pour vous. Ce site fonctionne sur Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "hostinger-avis-trustpilot",
+        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "slug": "hostinger-gutschein-empfehlungscode",
+    "locale": "de",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink",
+    "seoTitle": "Hostinger-Gutschein 2026: 20 % im ersten Zeitraum, ohne Code",
+    "type": "Empfehlungscode-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Gibt es bei Hostinger einen Gutschein? Sie brauchen keinen. Der Empfehlungslink gibt Ihnen schon 20 % im ersten Zeitraum eines neuen Tarifs. Sehen Sie, was sich bei der Verlängerung ändert.",
+    "metaDescription": "Bei Hostinger gibt es keinen Code zum Eintippen: Der Empfehlungslink gibt 20 % im ersten Zeitraum, lässt sich nicht mit anderen Gutscheinen kombinieren, und die Verlängerung kostet wieder den Standardpreis.",
+    "publishedAt": "19. Oktober 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "Text -20 % neben zwei Kettengliedern, in Weiß auf violettem Hintergrund",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Sie brauchen keinen Gutschein. Das Empfehlungsangebot von Hostinger hat keinen Code zum Eintippen: Der Rabatt steckt schon im Link. Über den Link bekommt ein neuer Tarif **20 % nur im ersten Zeitraum**. Danach wird der Tarif zum **Standardpreis** verlängert, und der Rabatt **lässt sich nicht mit anderen Gutscheinen kombinieren**."
+        ]
+      },
+      {
+        "heading": "Was Hostinger zu Gutscheinen sagt",
+        "paragraphs": [
+          "In seiner Black-Friday-FAQ schreibt Hostinger, dass für die wichtigsten Angebote kein Gutscheincode nötig ist, weil die Rabatte automatisch angewendet werden. Dieselbe FAQ warnt, dass einzelne Aktionen für bestimmte Kanäle eigene Codes verwenden können. Dieser Text behandelt nur den Empfehlungslink. Wir nennen keine Codes von anderen Seiten, und für den Rabatt über diesen Link brauchen Sie keinen."
+        ]
+      },
+      {
+        "heading": "Wo der Code hingehört",
+        "paragraphs": [
+          "Er steckt schon im Link, Sie müssen also nichts eingeben. Der Link führt direkt zur Preisseite von Hostinger. Eine Zusammenfassung des Angebots finden Sie auf dieser Seite: [die Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Die Seite läuft auf Hostinger",
+        "paragraphs": [
+          "Diese Seite läuft auf Hostinger, und Bruno ist seit 2024 Kunde, also seit mehr als 24 Monaten. Er nutzt Business-Webhosting, einen VPS KVM 2, Business-E-Mail und Domains, alles mit automatischer Verlängerung. Wann immer es ein Problem gab, hat der Support es gelöst, vor allem über den KI-Agenten. Persönlich hat er nie einen Ausfall erlebt. Das ist seine Erfahrung; die Regeln für den Rabatt stehen auf der Seite von Hostinger, und genau das beschreibt dieser Text."
+        ]
+      },
+      {
+        "heading": "Was es mit und ohne Link kostet",
+        "paragraphs": [
+          "Die Preise hängen von Ihrer Region und der laufenden Aktion ab, deshalb nennen wir sie hier nicht. Öffnen Sie die Tarife über den Link und vergleichen Sie die Gesamtsumme des ersten Zeitraums mit und ohne Link, bevor Sie zahlen. Den Verlängerungspreis prüfen Sie vor der Zahlung ebenfalls."
+        ],
+        "postParagraphs": [
+          "Die Verlängerung ist nicht rabattiert: Sie kostet den Standardpreis.",
+          "Zur Aktion selbst, mit Terminen und dem Vergleich mit einem Kauf ohne Link, siehe den [Black-Friday-Ratgeber zu Hostinger](/de/reviews/hostinger-black-friday-angebote)."
+        ]
+      },
+      {
+        "heading": "So funktioniert der Rabatt",
+        "paragraphs": [
+          "Die Seite sagt, dass die 20 % für den ersten Zeitraum eines neuen Tarifs gelten, unabhängig vom gewählten Produkt. Die Programmbedingungen beschränken die berechtigten Dienste jedoch und sprechen von Abonnements mit 12 Monaten oder mehr. Deshalb verspricht dieser Text den Rabatt nicht für jeden Tarif: Prüfen Sie im Warenkorb, ob die 20 % beim gewählten Tarif erscheinen. Die Bedingungen nennen außerdem „bis zu 20 %“ für Besucher, die über den Link kommen; die Seite zeigt 20 %."
+        ]
+      },
+      {
+        "heading": "Verlängerung: Was nach dem ersten Zeitraum passiert",
+        "paragraphs": [
+          "Nach dem ersten Zeitraum verlängert sich der Tarif zum Standardpreis. Die Seite sagt, dass Sie den Zeitraum ändern oder jederzeit vor der Verlängerung kündigen können. Wie Sie die automatische Verlängerung abschalten und was Sie bei einer unbekannten Abbuchung tun, steht im [Hostinger-Artikel auf Trustpilot](/de/reviews/hostinger-trustpilot-bewertungen)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-de.webp",
+            "alt": "Übersicht, die den ersten Zeitraum mit 20 % über den Link und danach die Verlängerung zum Standardpreis vergleicht",
+            "caption": "Erster Zeitraum mit 20 % über den Empfehlungslink, danach Verlängerung zum Standardpreis. Bild: Grafik von Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Warum sich der Rabatt nicht mit einem anderen Gutschein kombinieren lässt",
+        "paragraphs": [
+          "Die FAQ der Seite sagt, dass dies bereits der beste Preis ist, den sie über diesen Link anbieten kann. Deshalb lassen sich andere Rabattgutscheine nicht damit kombinieren. Finden Sie einen Code auf einer anderen Seite, lässt er sich nicht mit dem Link kombinieren, und wir empfehlen keinen."
+        ]
+      },
+      {
+        "heading": "VPS, E-Mail und Domain",
+        "paragraphs": [
+          "Die Programmbedingungen nennen Website-Hosting, VPS und die E-Mail von Hostinger als berechtigte Dienste. Domains stehen nicht auf dieser Liste, deshalb rechnen wir bei Domains nicht mit den 20 %; maßgeblich ist, was im Warenkorb erscheint. Die Seite verwendet auch nicht den Begriff „Erstbestellung“: Ihre Regel ist der erste Zeitraum eines neuen Tarifs."
+        ]
+      },
+      {
+        "heading": "Bestandskunden",
+        "paragraphs": [
+          "Der Link gilt nicht für Verlängerungen und nicht für bereits abgeschlossene Käufe. Die Bedingungen beschreiben das Programm als Angebot für Neukunden. Die Seite sagt nicht, was Hostinger Bestandskunden bietet, deshalb verspricht dieser Text keinen Rabatt bei der Verlängerung. Wer schon einen Tarif hat, prüft den Verlängerungspreis im Hostinger-Kundenbereich."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung",
+        "bullets": [
+          "Öffnen Sie den Link über den Button dieses Artikels.",
+          "Vergleichen Sie die Gesamtsumme des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
+          "Prüfen Sie im Warenkorb, ob die 20 % im ersten Zeitraum erscheinen und die Verlängerung aufgeführt ist. Die Seite sagt nicht, ob das Konto neu sein muss, also sehen Sie jetzt nach.",
+          "Wenn der Preis im Warenkorb anders ist als anderswo, gilt der Warenkorbpreis. Preise können sich ändern."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "**Gibt es bei Hostinger einen Gutschein?** Nicht nötig. Die 20 % Rabatt stecken schon im Empfehlungslink, im ersten Zeitraum eines neuen Tarifs.",
+          "**Gibt der Empfehlungslink auch bei der Verlängerung Rabatt?** Nein. Die Verlängerung kostet den Standardpreis.",
+          "**Lässt sich der Rabatt mit einem anderen Gutschein kombinieren?** Nein. Die Seite sagt, dass andere Rabattgutscheine sich nicht mit dem Link kombinieren lassen.",
+          "**Zählt eine Domain zum Rabatt?** Die Bedingungen nennen Domains nicht unter den berechtigten Diensten. Prüfen Sie den Warenkorb vor der Zahlung.",
+          "**Bekommen Bestandskunden den Rabatt?** Die Regel der Seite schließt Verlängerungen und bereits abgeschlossene Käufe aus. Für die Verlängerung sehen Sie den Preis im Hostinger-Kundenbereich."
+        ]
+      },
+      {
+        "heading": "Transparenzhinweis",
+        "paragraphs": [
+          "Dies ist ein Empfehlungsartikel. Käufe über den Link können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für den Käufer. Diese Seite läuft auf Hostinger, und Bruno ist seit 2024 Kunde. Preise und Aktionen ändern sich, und Hostinger kann sie jederzeit anpassen."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum und lassen sich nicht mit anderen Gutscheinen kombinieren.",
+      "label": "Die Tarife mit Rabatt ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Aufpreis für Sie. Diese Seite läuft auf Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-trustpilot-bewertungen",
+        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "slug": "coupon-hostinger-codice-invito",
+    "locale": "it",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito",
+    "seoTitle": "Coupon Hostinger 2026: 20% sul primo periodo, senza coupon",
+    "type": "Guida al codice invito",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger ha un coupon? Non serve. Il link di invito dà già il 20% sul primo periodo di un piano nuovo. Ecco le regole del 19/10/2026 e cosa cambia al rinnovo.",
+    "metaDescription": "Su Hostinger non c’è un codice da digitare: il link di invito dà il 20% sul primo periodo, non si somma con altri coupon e il rinnovo torna al prezzo standard.",
+    "publishedAt": "19 ottobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "Testo -20% accanto a due anelli di catena, in bianco su fondo viola",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Non serve nessun coupon. Il link di invito di Hostinger non ha un codice da digitare: lo sconto è già nel link e compare nei prezzi della pagina. Con il link, un piano nuovo costa **20% in meno solo sul primo periodo**. Poi il rinnovo torna al **prezzo standard**, e lo sconto **non si somma con altri coupon**."
+        ]
+      },
+      {
+        "heading": "Cosa dice Hostinger sui coupon",
+        "paragraphs": [
+          "Nella FAQ del Black Friday, Hostinger scrive che “non è necessario nessun codice coupon per le offerte principali”, perché gli sconti vengono applicati in automatico. La stessa FAQ avvisa che alcune promozioni di canali specifici possono usare codici separati. Questo testo parla solo del link di invito. Non citiamo codici di altri siti, e per lo sconto di questo link non ti serve nessun codice."
+        ]
+      },
+      {
+        "heading": "Dove va il codice",
+        "paragraphs": [
+          "Il codice è già nel link, quindi non devi digitare nulla. Il link porta alla pagina dei prezzi di Hostinger. Per vedere il riepilogo dell’offerta sul sito, consulta la [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Il sito gira su Hostinger",
+        "paragraphs": [
+          "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l’assistenza lo ha risolto, soprattutto con l’agente IA. Personalmente non ha mai visto un’interruzione del servizio. Questa è la sua esperienza; le regole dello sconto sono nella pagina di Hostinger e sono quelle descritte in questo testo."
+        ]
+      },
+      {
+        "heading": "Quanto costa con e senza il link",
+        "paragraphs": [
+          "I valori con il link sono calcolati sul prezzo della campagna in corso e possono cambiare in qualsiasi momento. Per i prezzi, consulta la pagina dei prezzi della tua regione tramite il link."
+        ],
+        "bullets": [
+          "Con il link, il primo periodo di un piano nuovo costa il 20% in meno.",
+          "Il rinnovo non ha sconti: si paga il prezzo standard, indicato sotto la scheda di ogni piano.",
+          "Prima di pagare, controlla nel carrello l’importo finale per la tua regione."
+        ],
+        "postParagraphs": [
+          "Per la campagna in sé, con le date e il confronto con l’acquisto senza link, vedi il [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
+        ]
+      },
+      {
+        "heading": "Come funziona lo sconto",
+        "paragraphs": [
+          "La pagina dice che lo sconto vale per “il primo periodo di qualsiasi nuovo piano, indipendentemente dal prodotto scelto”. I termini del programma, però, limitano i servizi idonei e parlano di abbonamenti da 12 mesi o più. Per questo questo testo non dice “qualsiasi piano”: controlla nel carrello che il 20% compaia sul piano che hai scelto. I termini parlano anche di “fino al 20%” di sconto per chi arriva dal link; la pagina mostra il 20%."
+        ]
+      },
+      {
+        "heading": "Rinnovo: cosa cambia dopo il primo periodo",
+        "paragraphs": [
+          "Dopo il primo periodo, il piano si rinnova al prezzo standard, indicato sotto la scheda di ogni piano. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo. Per disattivare il rinnovo automatico e capire cosa fare con un addebito che non riconosci, vedi [Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-it.webp",
+            "alt": "Grafico che confronta il primo periodo con il 20% dal link e il rinnovo al prezzo standard dopo di esso",
+            "caption": "Primo periodo con il 20% dal link di invito, e rinnovo al prezzo standard. Immagine: grafico di Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Perché lo sconto non si somma con altri coupon",
+        "paragraphs": [
+          "La FAQ della pagina dice “questo è già il miglior prezzo che possiamo offrire con questo link”, quindi altri coupon di sconto non sono cumulabili. Se trovi un codice su un altro sito, non si somma con il link, e non ne consigliamo nessuno."
+        ]
+      },
+      {
+        "heading": "VPS, e-mail e dominio",
+        "paragraphs": [
+          "I termini del programma elencano tra i servizi idonei l’hosting di siti, il VPS e l’e-mail di Hostinger. Il dominio non compare in questo elenco, quindi non contiamo sul 20% per il dominio; vale quello che compare nel carrello. La pagina inoltre non usa il termine “primo acquisto”: la sua regola è il primo periodo di un piano nuovo."
+        ]
+      },
+      {
+        "heading": "Chi è già cliente",
+        "paragraphs": [
+          "Il link non vale per i rinnovi né per un acquisto già fatto. I termini descrivono il programma come rivolto a nuovi utenti. La pagina non dice cosa offre Hostinger a chi è già cliente, quindi questo testo non promette sconti per rinnovare. Chi ha già un piano controlla il valore del rinnovo nel pannello di Hostinger."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "bullets": [
+          "Apri il link dal pulsante di questo articolo.",
+          "Confronta il prezzo del primo periodo con e senza il link, sullo stesso piano e periodo.",
+          "Nel carrello, verifica che il 20% compaia sul primo periodo e che il rinnovo sia indicato. La pagina non dice se l’account deve essere nuovo, quindi è il momento di controllarlo.",
+          "Se l’importo nel carrello non corrisponde a quello della pagina dei prezzi, vale l’importo del carrello."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "**Hostinger ha un coupon?** Non serve. Lo sconto del 20% è già nel link di invito, sul primo periodo di un piano nuovo.",
+          "**Il link di invito dà uno sconto sul rinnovo?** No. Il rinnovo torna al prezzo standard, indicato sotto la scheda di ogni piano.",
+          "**Lo sconto si somma con un altro coupon?** No. La pagina dice che altri coupon di sconto non sono cumulabili con il link.",
+          "**Il dominio rientra nello sconto?** I termini non elencano il dominio tra i servizi idonei. Controlla nel carrello prima di pagare.",
+          "**Chi è già cliente ottiene lo sconto?** La regola della pagina esclude il rinnovo e gli acquisti già fatti. Per rinnovare, controlla il valore nel pannello di Hostinger."
+        ]
+      },
+      {
+        "heading": "Nota di trasparenza",
+        "paragraphs": [
+          "Questo è un articolo con link di invito. Gli acquisti fatti tramite il link possono generare un credito su Hostinger per Bruno, senza costi extra per chi acquista. Il sito gira su Hostinger, e Bruno è cliente dal 2024. I prezzi sono del 19/10/2026, cambiano con le campagne e Hostinger può modificarli in qualsiasi momento."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo e non si somma con altri coupon.",
+      "label": "Vedi i piani con lo sconto",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Il sito gira su Hostinger.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "hostinger-recensioni-trustpilot",
+        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "slug": "hostinger-referral-code-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택",
+    "seoTitle": "Hostinger 쿠폰 2026: 첫 기간 20% 할인, 쿠폰 없이",
+    "type": "추천 코드 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger에 쿠폰이 있나요? 필요 없습니다. 추천 링크로 새 요금제를 신청하면 첫 기간에 20%가 바로 적용됩니다. 2026년 10월 19일 기준 규칙과 갱신 때 달라지는 점을 확인하세요.",
+    "metaDescription": "Hostinger에는 입력할 코드가 없습니다. 추천 링크는 첫 기간에 20%를 주고, 다른 쿠폰과 중복되지 않으며, 갱신은 표준 가격으로 돌아갑니다.",
+    "publishedAt": "2026년 10월 19일",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "-20% 텍스트와 두 개의 사슬 고리, 보라색 배경 위에 흰색",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "쿠폰은 필요 없습니다. Hostinger 추천 링크에는 입력할 코드가 없습니다. 할인은 이미 링크에 들어 있고, 페이지의 가격에 바로 나타납니다. 이 링크로 새 요금제를 신청하면 **첫 기간에만 20% 할인**됩니다. 이후 갱신은 **표준 가격**으로 돌아가며, 할인은 **다른 쿠폰과 중복 적용되지 않습니다**."
+        ]
+      },
+      {
+        "heading": "Hostinger가 쿠폰에 대해 말하는 것",
+        "paragraphs": [
+          "Hostinger는 블랙프라이데이 FAQ에서 “주요 혜택에는 쿠폰 코드가 필요하지 않다”고 밝히고 있습니다. 할인이 자동으로 적용되기 때문입니다. 같은 FAQ는 일부 특정 채널의 프로모션에는 별도의 코드가 쓰일 수 있다고 알립니다. 이 글은 추천 링크에 대해서만 다룹니다. 다른 사이트의 코드는 소개하지 않으며, 이 링크의 할인에는 어떤 코드도 필요하지 않습니다."
+        ]
+      },
+      {
+        "heading": "코드는 어디에 들어가나요",
+        "paragraphs": [
+          "코드는 이미 링크 안에 들어 있으므로 입력할 것이 없습니다. 링크는 Hostinger 가격 페이지로 연결됩니다. 사이트에서 혜택 요약을 보려면 [이 사이트의 Hostinger 페이지](/ko/coupons/hostinger)를 확인하세요."
+        ]
+      },
+      {
+        "heading": "이 사이트는 Hostinger에서 운영됩니다",
+        "paragraphs": [
+          "Em Casa com Cecília는 Hostinger에서 운영되고, Bruno는 2024년부터 고객으로 24개월 넘게 이용하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인을 사용하며, 모두 자동 갱신입니다. 문제가 생길 때마다 고객지원이 해결해 주었고, 특히 AI 에이전트의 도움이 컸습니다. 개인적으로는 서비스가 중단된 적이 한 번도 없었습니다. 이는 그의 경험이며, 할인 규칙은 Hostinger 페이지에 있고 이 글도 그 내용을 따릅니다."
+        ]
+      },
+      {
+        "heading": "추천 링크 사용 전과 후 가격",
+        "paragraphs": [
+          "링크를 통한 가격은 그 시점의 캠페인 가격을 기준으로 계산되며, 언제든 바뀔 수 있습니다. 가격은 링크를 통해 고객님 지역의 가격 페이지를 확인하세요."
+        ],
+        "bullets": [
+          "추천 링크를 사용하면 새 요금제의 첫 기간이 20% 할인됩니다.",
+          "갱신에는 할인이 없으며, 각 요금제 카드 아래에 표시된 표준 가격이 적용됩니다.",
+          "결제 전에 장바구니에서 지역에 맞는 최종 금액을 확인하세요."
+        ],
+        "postParagraphs": [
+          "캠페인 기간과 링크 없이 구매했을 때와의 비교는 [Hostinger 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)에서 확인할 수 있습니다."
+        ]
+      },
+      {
+        "heading": "할인은 어떻게 작동하나요",
+        "paragraphs": [
+          "페이지에는 할인이 “선택한 제품과 관계없이 새 요금제의 첫 기간”에 적용된다고 나와 있습니다. 하지만 프로그램 약관은 대상 서비스를 제한하고 12개월 이상의 구독을 전제로 합니다. 그래서 이 글은 “모든 요금제”라고 말하지 않습니다. 장바구니에서 선택한 요금제에 20%가 적용되는지 확인하세요. 약관은 링크로 들어온 사람에게 “최대 20%”라고도 적고 있지만, 페이지에는 20%로 표시됩니다."
+        ]
+      },
+      {
+        "heading": "갱신: 첫 기간 이후에 달라지는 것",
+        "paragraphs": [
+          "첫 기간이 끝나면 요금제는 각 카드 아래에 표시된 표준 가격으로 갱신됩니다. 페이지에 따르면 갱신 전에는 언제든 기간을 바꾸거나 해지할 수 있습니다. 자동 갱신을 끄는 방법과 인식하지 못한 청구에 대처하는 방법은 [Trustpilot의 Hostinger 분석](/ko/reviews/hostinger-trustpilot-reviews-ko)을 참고하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-ko.webp",
+            "alt": "첫 기간 20% 할인과 그 뒤의 표준 가격 갱신을 비교한 도표",
+            "caption": "링크를 통한 첫 기간 20% 할인과 표준 가격 갱신. 이미지: Em Casa com Cecília의 도표.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "할인이 다른 쿠폰과 중복되지 않는 이유",
+        "paragraphs": [
+          "페이지의 FAQ는 “이 링크로 드릴 수 있는 최선의 가격입니다”라고 적고 있으며, 그래서 다른 할인 쿠폰은 중복 적용되지 않습니다. 다른 사이트에서 코드를 찾더라도 이 링크와 함께 쓸 수 없으며, 어떤 코드도 추천하지 않습니다."
+        ]
+      },
+      {
+        "heading": "VPS, 이메일, 도메인",
+        "paragraphs": [
+          "프로그램 약관은 웹 호스팅, VPS, Hostinger 이메일을 대상 서비스로 나열합니다. 도메인은 이 목록에 없으므로 도메인에 대한 20% 할인은 기대하지 않습니다. 장바구니에 표시되는 내용이 기준입니다. 또한 페이지는 “첫 구매”라는 표현을 쓰지 않으며, 규칙은 새 요금제의 첫 기간입니다."
+        ]
+      },
+      {
+        "heading": "이미 고객이라면",
+        "paragraphs": [
+          "이 링크는 갱신이나 이미 완료된 구매에는 적용되지 않습니다. 약관은 이 프로그램이 신규 사용자를 대상으로 한다고 설명합니다. 페이지에는 기존 고객에게 제공되는 혜택이 나와 있지 않으므로, 이 글은 갱신 할인을 약속하지 않습니다. 이미 요금제를 쓰고 있다면 Hostinger 패널에서 갱신 금액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "결제 전에",
+        "bullets": [
+          "이 글의 버튼으로 링크를 여세요.",
+          "링크 유무에 따라 같은 요금제와 기간의 첫 기간 가격을 비교하세요.",
+          "장바구니에서 첫 기간에 20%가 적용되고 갱신 내용이 표시되는지 확인하세요. 페이지에는 계정이 새 계정이어야 하는지 나와 있지 않으므로, 이때 확인하는 것이 좋습니다.",
+          "장바구니 금액이 가격 페이지와 다르면 장바구니 금액이 기준입니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "**Hostinger에 쿠폰이 있나요?** 필요 없습니다. 20% 할인은 추천 링크에 이미 들어 있으며, 새 요금제의 첫 기간에 적용됩니다.",
+          "**추천 링크는 갱신에도 할인을 주나요?** 아니요. 갱신은 각 요금제 카드 아래에 표시된 표준 가격으로 돌아갑니다.",
+          "**할인이 다른 쿠폰과 중복되나요?** 아니요. 페이지에 따르면 다른 할인 쿠폰은 이 링크와 중복되지 않습니다.",
+          "**도메인도 할인 대상인가요?** 약관은 도메인을 대상 서비스로 나열하지 않습니다. 결제 전에 장바구니에서 확인하세요.",
+          "**이미 고객이면 할인을 받나요?** 페이지 규칙은 갱신과 이미 완료된 구매를 제외합니다. 갱신 금액은 Hostinger 패널에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "투명성 안내",
+        "paragraphs": [
+          "이 글은 추천 링크가 포함된 글입니다. 링크를 통해 이루어진 구매는 Bruno에게 Hostinger 크레딧을 줄 수 있으며, 구매자에게 추가 비용은 없습니다. 이 사이트는 Hostinger에서 운영되며, Bruno는 2024년부터 고객입니다. 가격은 2026년 10월 19일 기준이며, 캠페인에 따라 달라지고 Hostinger가 언제든 바꿀 수 있습니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 코드는 이미 링크에 들어 있습니다. 20%는 첫 기간에만 적용되며 다른 쿠폰과 중복되지 않습니다.",
+      "label": "할인 요금제 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천 링크로 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 이 사이트는 Hostinger에서 운영됩니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 자동 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-ko",
+        "title": "Hostinger Trustpilot 평점, 불만, 그리고 숫자가 보여주는 것"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "slug": "hostinger-referral-code-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostingerのクーポンは不要です：紹介リンクで受けられる割引",
+    "seoTitle": "Hostingerクーポン2026：初回期間20%割引、コード入力不要",
+    "type": "紹介コードガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostingerにクーポンはある？必要ありません。紹介リンクから新しいプランを申し込むと、最初の期間が20%割引になります。2026年10月19日時点のルールと、更新時の変化を確認できます。",
+    "metaDescription": "Hostingerに入力するコードはありません。紹介リンクは最初の期間に20%割引を適用し、他のクーポンとは併用できず、更新は通常価格に戻ります。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "「-20%」の文字と2つの鎖の輪、紫の背景に白い文字",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "要点",
+        "paragraphs": [
+          "クーポンは必要ありません。Hostingerの紹介リンクには入力するコードがありません。割引はリンクにすでに含まれています。このリンクから新しいプランを申し込むと、**最初の期間だけ20%割引**になります。その後の更新は**通常価格**に戻り、割引は**他のクーポンとは併用できません**。"
+        ]
+      },
+      {
+        "heading": "Hostingerのクーポンに関する説明",
+        "paragraphs": [
+          "Hostingerはブラックフライデーのよくある質問で、「主要なオファーにクーポンコードは必要ない」と書いています。割引は自動で適用されるからです。同じFAQには、特定チャネルのプロモーションでは別のコードが使われる場合があるとも書かれています。この記事は紹介リンクのみを扱います。他のサイトのコードは紹介せず、このリンクの割引にはどのコードも必要ありません。"
+        ]
+      },
+      {
+        "heading": "コードはどこに入るのか",
+        "paragraphs": [
+          "コードはすでにリンクに含まれているため、入力は不要です。リンクは Hostinger の料金ページに移動します。表示は地域によって違うことがあるため、支払う前に最初の期間の合計を、リンクの有無で比べてください。当サイトでのオファーの概要は、[当サイトのHostingerページ](/ja/coupons/hostinger)をご覧ください。"
+        ]
+      },
+      {
+        "heading": "このサイトはHostingerで動いています",
+        "paragraphs": [
+          "Em Casa com CecíliaはHostingerで運営されており、Brunoは2024年からのお客様で、24か月以上利用しています。ビジネスホスティング、VPS KVM 2、ビジネスメールとドメインを使い、すべて自動更新です。問題が起きるたびにサポートが解決してくれました。特にAIエージェントの対応が助かったそうです。個人的には、サービスが停止したことは一度もないとのことです。これは彼の体験談です。割引のルールはHostingerのページにあり、この記事もそれに沿って説明しています。"
+        ]
+      },
+      {
+        "heading": "紹介リンクあり・なしの料金",
+        "paragraphs": [
+          "リンク経由の価格は、その時点のキャンペーン価格を基準に計算され、いつでも変わる可能性があります。料金は、リンクからお住まいの地域の料金ページをご確認ください。"
+        ],
+        "bullets": [
+          "紹介リンクを使うと、新しいプランの最初の期間が20%割引になります。",
+          "更新に割引はありません。各プランのカード下に表示される通常価格が適用されます。",
+          "お支払い前に、カートでお住まいの地域の最終金額をご確認ください。"
+        ],
+        "postParagraphs": [
+          "キャンペーンの日程や、リンクなしで購入した場合との比較は、[Hostingerブラックフライデー](/ja/reviews/hostinger-black-friday-ja)をご覧ください。"
+        ]
+      },
+      {
+        "heading": "割引の仕組み",
+        "paragraphs": [
+          "ページには、割引は「選んだ製品にかかわらず、新しいプランの最初の期間」に適用すると書かれています。ただし、プログラムの規約では対象サービスが限られ、12か月以上のサブスクリプションが前提とされています。そのため、この記事では「すべてのプラン」とは書いていません。カートで選んだプランに20%が適用されているかをご確認ください。規約では、リンクから来た人向けに「最大20%」とも書かれていますが、ページには20%と表示されています。"
+        ]
+      },
+      {
+        "heading": "更新：最初の期間のあとに変わること",
+        "paragraphs": [
+          "最初の期間が終わると、プランは各カード下に表示された通常価格で更新されます。ページによると、更新前であれば期間を変更したり、いつでも解約できます。自動更新を止める方法や、身に覚えのない請求への対応については、[TrustpilotでのHostinger評価](/ja/reviews/hostinger-trustpilot-reviews-ja)をご覧ください。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-ja.webp",
+            "alt": "最初の期間は紹介リンクで20%割引、その後は通常価格で更新されることを示す図",
+            "caption": "紹介リンクによる最初の期間の20%割引と、その後の通常価格での更新。画像：Em Casa com Cecíliaの図。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "割引が他のクーポンと併用できない理由",
+        "paragraphs": [
+          "ページのFAQには「このリンクでご提供できる最良の価格です」とあり、そのため他の割引クーポンは併用できません。他のサイトでコードを見つけても、このリンクとは併用できず、当サイトではどのコードもおすすめしていません。"
+        ]
+      },
+      {
+        "heading": "VPS、メール、ドメイン",
+        "paragraphs": [
+          "プログラムの規約では、ウェブホスティング、VPS、Hostingerのメールが対象サービスとして挙げられています。ドメインはこのリストにないため、ドメインに20%割引がかかるとは考えていません。カートに表示される内容が基準です。また、ページには「初回購入」という表現はなく、ルールは新しいプランの最初の期間です。"
+        ]
+      },
+      {
+        "heading": "すでにお客様の場合",
+        "paragraphs": [
+          "このリンクは更新や、すでに完了した購入には適用されません。規約では、このプログラムは新規ユーザー向けと説明されています。ページには既存のお客様向けの特典は書かれていないため、この記事では更新の割引を約束しません。すでにプランをお持ちの方は、Hostingerのパネルで更新金額をご確認ください。"
+        ]
+      },
+      {
+        "heading": "お支払い前に",
+        "bullets": [
+          "この記事のボタンからリンクを開いてください。",
+          "プランを選んだら、最初の期間の合計を、リンクなしで直接開いた場合と比べてください。",
+          "カートで、最初の期間に20%が適用され、更新の内容が表示されているか確認してください。ページには新しいアカウントが必要かどうかは書かれていないため、この時点で確認しておくのがよいでしょう。",
+          "カートの金額が料金ページと違う場合は、カートの金額が基準になります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "**Hostingerにクーポンはありますか？** 必要ありません。20%割引は紹介リンクにすでに含まれ、新しいプランの最初の期間に適用されます。",
+          "**紹介リンクは更新にも割引がありますか？** いいえ。更新は各プランのカード下に表示された通常価格に戻ります。",
+          "**割引は他のクーポンと併用できますか？** いいえ。ページによると、他の割引クーポンはこのリンクと併用できません。",
+          "**ドメインも割引の対象ですか？** 規約では、ドメインは対象サービスとして挙げられていません。お支払い前にカートでご確認ください。",
+          "**すでにお客様なら割引を受けられますか？** ページのルールでは、更新とすでに完了した購入は対象外です。更新金額はHostingerのパネルでご確認ください。"
+        ]
+      },
+      {
+        "heading": "透明性について",
+        "paragraphs": [
+          "この記事は紹介リンクを含む記事です。リンク経由の購入によって、Bruno向けにHostingerのクレジットが発生する場合があります。購入者に追加費用はかかりません。当サイトはHostingerで運営されており、Brunoは2024年からのお客様です。価格は2026年10月19日時点のもので、キャンペーンによって変わり、Hostingerがいつでも変更できます。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "紹介コードはすでにリンクに含まれています。20%は最初の期間のみで、他のクーポンとは併用できません。",
+      "label": "割引プランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介リンクからの購入で、Brunoに Hostinger のクレジットが付く場合があります。あなたに追加費用はかかりません。当サイトはHostingerで運営されています。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、自動更新、申し込み前に確認すること"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-ja",
+        "title": "Hostinger の Trustpilot 評価、苦情、数字が示すこと"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "slug": "hostinger-referral-code-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼",
+    "seoTitle": "Hostinger 優惠券 2026：首期享 20% 折扣，無需輸入代碼",
+    "type": "推薦碼指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 有優惠券嗎？不需要。透過推薦連結選購新方案，首期即享 20% 折扣。以下是 2026年10月19日 的規則，以及續訂時會有什麼變化。",
+    "metaDescription": "Hostinger 沒有需要輸入的代碼：推薦連結的首期享 20% 折扣，不能與其他優惠券疊加，續訂會回到標準價格。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "「-20%」文字與兩個鏈環，白色字樣疊在紫色背景上",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "重點速覽",
+        "paragraphs": [
+          "不需要優惠券。Hostinger 的推薦連結裡沒有需要輸入的代碼，折扣已經包含在連結中，並會顯示在頁面的價格上。透過這個連結選購新方案，**只有首期享 20% 折扣**。之後續訂會回到**標準價格**，而且折扣**不能與其他優惠券疊加**。"
+        ]
+      },
+      {
+        "heading": "Hostinger 怎麼說優惠券",
+        "paragraphs": [
+          "Hostinger 在黑色星期五常見問題中寫道：「主要優惠不需要任何優惠券代碼」，因為折扣會自動套用。同一份常見問題也提醒，部分特定管道的促銷可能會使用另外的代碼。本文只談推薦連結。我們不列出其他網站的代碼，這個連結的折扣也不需要任何代碼。"
+        ]
+      },
+      {
+        "heading": "代碼要放在哪裡",
+        "paragraphs": [
+          "代碼已經在連結裡，所以你不需要輸入任何東西。連結會帶你到 Hostinger 的價格頁面。若想在本站查看優惠摘要，請參考[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "本站跑在 Hostinger 上",
+        "paragraphs": [
+          "Em Casa com Cecília 跑在 Hostinger 上，Bruno 從 2024 年起就是客戶，訂閱已超過 24 個月。他使用 Business 主機、VPS KVM 2、Business 電郵和網域，全部都是自動續訂。每次遇到問題，客服都能解決，尤其是 AI 客服代理。他個人從未遇過服務中斷。這是他的個人經驗；折扣規則在 Hostinger 頁面上，本文描述的也是那些規則。"
+        ]
+      },
+      {
+        "heading": "有無連結的價格",
+        "paragraphs": [
+          "透過連結的價格是以當時的活動價格計算，隨時可能變動。價格請透過連結查看你所在地區的價格頁面。"
+        ],
+        "bullets": [
+          "使用推薦連結，新方案的首期享 20% 折扣。",
+          "續訂沒有折扣，會以該方案的標準價格計費。",
+          "付款前，請在購物車確認你所在地區的最終金額。"
+        ],
+        "postParagraphs": [
+          "活動本身的日期，以及與不使用連結購買的比較，請參考[Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "折扣如何運作",
+        "paragraphs": [
+          "折扣只適用於符合條件的新方案首期。方案條款限制了合資格的服務，並以 12 個月或以上的訂閱為前提，因此本文不說適用於所有方案：請在購物車確認你選的方案是否出現 20%。條款也寫到「最高 20%」，本文以 20% 為準。"
+        ]
+      },
+      {
+        "heading": "續訂：首期之後會有什麼變化",
+        "paragraphs": [
+          "首期結束後，方案會以該方案的標準價格續訂。頁面說明，在續訂前你可以隨時更改週期或取消。若想關閉自動續訂，或處理你不認得的扣款，請參考 [Trustpilot 上的 Hostinger 分析](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-zh-hant.webp",
+            "alt": "比較連結首期 20% 與首期後以標準價格續訂的示意圖",
+            "caption": "透過推薦連結的首期 20% 折扣，以及之後以標準價格續訂。圖片：Em Casa com Cecília 製作的示意圖。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "為什麼折扣不能與其他優惠券疊加",
+        "paragraphs": [
+          "頁面的常見問題寫道：「這已經是我們透過此連結能提供的最優價格」，因此其他折扣優惠券無法累加。如果你在其他網站找到代碼，它不能與此連結疊加，我們也不推薦任何代碼。"
+        ]
+      },
+      {
+        "heading": "VPS、電郵和網域",
+        "paragraphs": [
+          "條款列出的合資格服務包括網站主機、VPS 和 Hostinger 電郵。網域不在此清單中，所以我們不把 20% 折扣算在網域上；以購物車顯示為準。另外，頁面沒有使用「首次購買」一詞，它的規則是新方案的首期。"
+        ]
+      },
+      {
+        "heading": "已是客戶的情況",
+        "paragraphs": [
+          "此連結不適用於續訂，也不適用於已完成的購買。條款把此計畫描述為針對新用戶。頁面沒有說明 Hostinger 對現有客戶提供什麼，因此本文不承諾續訂折扣。已有方案的人，請在 Hostinger 控制台查看續訂金額。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "bullets": [
+          "從本文的按鈕開啟連結。",
+          "在購物車確認首期是否顯示 20%，以及續訂內容是否列出。頁面沒有說明帳戶是否必須是新帳戶，所以這時候應該確認。",
+          "若購物車金額與價格頁面不同，以購物車金額為準。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "**Hostinger 有優惠券嗎？** 不需要。20% 折扣已包含在推薦連結中，適用於新方案的首期。",
+          "**推薦連結對續訂有折扣嗎？** 沒有。續訂會回到該方案的標準價格。",
+          "**折扣可以與其他優惠券疊加嗎？** 不可以。頁面說明，其他折扣優惠券不能與此連結累加。",
+          "**網域也算在折扣內嗎？** 條款沒有把網域列為合資格服務。付款前請在購物車確認。",
+          "**已是客戶可以享有折扣嗎？** 頁面規則排除續訂和已完成的購買。續訂金額請在 Hostinger 控制台查看。"
+        ]
+      },
+      {
+        "heading": "透明度說明",
+        "paragraphs": [
+          "這是一篇推薦連結文章。透過連結的購買可能會為 Bruno 帶來 Hostinger 的帳戶額度，購買者無需額外付費。本站跑在 Hostinger 上，Bruno 從 2024 年起就是客戶。價格以 2026年10月19日 為準，會隨活動變動，Hostinger 也可能隨時調整。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推薦代碼已經在連結裡：20% 只適用於首期，不能與其他優惠券疊加。",
+      "label": "查看享有折扣的方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。本站跑在 Hostinger 上。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hant",
+        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "slug": "hostinger-referral-code-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-cupom-como-funciona",
+    "title": "Hostinger 优惠券不用找：推荐链接能拿到什么",
+    "seoTitle": "Hostinger 优惠券 2026：首期享 20% 折扣，无需输入代码",
+    "type": "推荐码指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 有优惠券吗？不需要。通过推荐链接选购新套餐，首期即享 20% 折扣。以下是 2026年10月19日 的规则，以及续费时会有什么变化。",
+    "metaDescription": "Hostinger 没有需要输入的代码：推荐链接的首期享 20% 折扣，不能与其他优惠券叠加，续费会回到标准价格。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa.webp",
+    "imageAlt": "「-20%」文字与两个链环，白色字样叠在紫色背景上",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "要点速览",
+        "paragraphs": [
+          "不需要优惠券。Hostinger 的推荐链接里没有需要输入的代码，折扣已经包含在链接中，并会显示在页面的价格上。通过这个链接选购新套餐，**仅首期享 20% 折扣**。之后续费会回到**标准价格**，而且折扣**不能与其他优惠券叠加**。"
+        ]
+      },
+      {
+        "heading": "Hostinger 怎么说优惠券",
+        "paragraphs": [
+          "Hostinger 在黑色星期五常见问题中写道：“主要优惠不需要任何优惠券代码”，因为折扣会自动应用。同一份常见问题也提醒，部分特定渠道的促销可能会使用另外的代码。本文只谈推荐链接。我们不列出其他网站的代码，这个链接的折扣也不需要任何代码。"
+        ]
+      },
+      {
+        "heading": "代码放在哪里",
+        "paragraphs": [
+          "代码已经在链接里，所以你不需要输入任何东西。链接会带你到 Hostinger 的价格页面。若想在本站查看优惠摘要，请参考[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "本站跑在 Hostinger 上",
+        "paragraphs": [
+          "Em Casa com Cecília 跑在 Hostinger 上，Bruno 从 2024 年起就是客户，订阅已超过 24 个月。他使用 Business 主机、VPS KVM 2、Business 邮箱和域名，全部自动续费。每次遇到问题，客服都能解决，尤其是 AI 客服代理。他个人从未遇到过服务中断。这是他的个人体验；折扣规则在 Hostinger 页面上，本文描述的也是那些规则。"
+        ]
+      },
+      {
+        "heading": "有无链接的价格",
+        "paragraphs": [
+          "通过链接的价格是以当时的活动价格计算，随时可能变动。价格请通过链接查看你所在地区的价格页面。"
+        ],
+        "bullets": [
+          "使用推荐链接，新套餐的首期享 20% 折扣。",
+          "续费没有折扣，会以该套餐的标准价格计费。",
+          "付款前，请在购物车确认你所在地区的最终金额。"
+        ],
+        "postParagraphs": [
+          "活动本身的日期，以及与不使用链接购买的比较，请参考[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "折扣如何生效",
+        "paragraphs": [
+          "折扣只适用于符合条件的新套餐首期。套餐条款限制了合格的服务，并以 12 个月或以上的订阅为前提，因此本文不说适用于所有套餐：请在购物车确认你选的套餐是否显示 20%。条款也写到“最高 20%”，本文以 20% 为准。"
+        ]
+      },
+      {
+        "heading": "续费：首期之后会有什么变化",
+        "paragraphs": [
+          "首期结束后，套餐会以该套餐的标准价格续费。页面说明，在续费前你可以随时更改周期或取消。若想关闭自动续费，或处理你不认识的扣款，请参考 [Trustpilot 上的 Hostinger 分析](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-zh-hans.webp",
+            "alt": "比较链接首期 20% 与首期后以标准价格续费的示意图",
+            "caption": "通过推荐链接的首期 20% 折扣，以及之后以标准价格续费。图片：Em Casa com Cecília 制作的示意图。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "为什么折扣不能与其他优惠券叠加",
+        "paragraphs": [
+          "页面的常见问题写道：“这已经是我们通过此链接能提供的最优价格”，因此其他折扣优惠券无法叠加。如果你在其他网站找到代码，它不能与此链接叠加，我们也不推荐任何代码。"
+        ]
+      },
+      {
+        "heading": "VPS、邮箱和域名",
+        "paragraphs": [
+          "条款列出的合格服务包括网站托管、VPS 和 Hostinger 邮箱。域名不在此名单中，所以我们不把 20% 折扣算在域名上；以购物车显示为准。另外，页面没有使用“首次购买”一词，它的规则是新套餐的首期。"
+        ]
+      },
+      {
+        "heading": "已是客户的情况",
+        "paragraphs": [
+          "此链接不适用于续费，也不适用于已完成的购买。条款把这个计划描述为面向新用户。页面没有说明 Hostinger 对现有客户提供什么，因此本文不承诺续费折扣。已有套餐的人，请在 Hostinger 面板查看续费金额。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "bullets": [
+          "从本文的按钮打开链接。",
+          "在购物车确认首期是否显示 20%，以及续费内容是否列出。页面没有说明账户是否必须是新账户，所以这时候应该确认。",
+          "如果购物车金额与价格页面不同，以购物车金额为准。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "**Hostinger 有优惠券吗？** 不需要。20% 折扣已包含在推荐链接中，适用于新套餐的首期。",
+          "**推荐链接对续费有折扣吗？** 没有。续费会回到该套餐的标准价格。",
+          "**折扣可以与其他优惠券叠加吗？** 不可以。页面说明，其他折扣优惠券不能与此链接叠加。",
+          "**域名也算在折扣内吗？** 条款没有把域名列为合格服务。付款前请在购物车确认。",
+          "**已是客户可以享受折扣吗？** 页面规则排除续费和已完成的购买。续费金额请在 Hostinger 面板查看。"
+        ]
+      },
+      {
+        "heading": "透明度说明",
+        "paragraphs": [
+          "这是一篇推荐链接文章。通过链接的购买可能会为 Bruno 带来 Hostinger 的账户额度，购买者无需额外付费。本站跑在 Hostinger 上，Bruno 从 2024 年起就是客户。价格以 2026年10月19日 为准，会随活动变化，Hostinger 也可能随时调整。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推荐代码已经在链接里：20% 仅适用于首期，不能与其他优惠券叠加。",
+      "label": "查看享有折扣的套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "通过推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。本站跑在 Hostinger 上。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hans",
+        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "slug": "black-friday-hostinger",
+    "locale": "pt",
+    "translationKey": "hostinger-black-friday",
+    "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?",
+    "seoTitle": "Black Friday Hostinger 2026: promoção ou indicação?",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "A Black Friday da Hostinger vai de 19/10 a 14/12/2026. Veja a conta por plano com a campanha e com o link de indicação, a renovação e como conferir antes de pagar.",
+    "metaDescription": "Black Friday Hostinger 2026: campanha de 19/10 a 14/12, preços com e sem o link de indicação e renovação. Compare os dois antes de pagar.",
+    "publishedAt": "19 de outubro de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Quadro escuro com Black Friday 2026 e as datas 19.10 a 14.12",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Black Friday da Hostinger está no ar desde 19/10/2026 e vai até 14/12/2026, segundo a FAQ oficial da própria Hostinger. Para as principais ofertas não é preciso código. O link de indicação aplica 20% sobre o preço da campanha, então hoje ele sai mais barato que a campanha sozinha nos planos que conferimos. Os preços mudam durante a campanha, por isso confira os dois antes de pagar."
+        ],
+        "bullets": [
+          "**Quando:** de 19/10/2026 a 14/12/2026.",
+          "**Quanto:** no Single de 48 meses, R$ 5,99 por mês na campanha e R$ 4,79 com o link.",
+          "**Qual sai mais barato:** o link, em todos os quatro planos de 48 meses que conferimos.",
+          "**Renovação:** o preço da campanha vale só no primeiro período. Depois, a renovação sai pelo preço normal do plano, no Single a R$ 23,99 por mês."
+        ]
+      },
+      {
+        "heading": "A Black Friday da Hostinger já começou?",
+        "paragraphs": [
+          "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
+          "O banner da página de hospedagem de sites diz \"Até 82% off\". Esse é o teto do banner, não o desconto de todo plano: no Single de 48 meses o desconto é de 80%, de R$ 29,99 para R$ 5,99 por mês. O banner de VPS diz \"Até 70% off\", e o VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
+          "Este texto trata só da campanha de 2026. As edições anteriores não entram aqui: as fontes que consultamos davam datas e percentuais diferentes, e nenhuma era da própria Hostinger."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/black-friday-hostinger-pagina-2026.webp",
+            "alt": "Topo da página da Black Friday da Hostinger, com o título \"Construa mais, pague menos nesta Black Friday\" e a garantia de 30 dias para pedir reembolso",
+            "caption": "Página da Black Friday da Hostinger, capturada em 19/10/2026. Imagem: site da Hostinger.",
+            "objectFit": "contain",
+            "aspectRatio": 1.5102
+          }
+        ]
+      },
+      {
+        "heading": "Quanto sai com a campanha e com o link",
+        "comparisonTable": {
+          "headers": [
+            "Plano (48 meses)",
+            "Campanha, sem o link",
+            "Com o link de indicação",
+            "Total com o link",
+            "Renovação"
+          ],
+          "rows": [
+            [
+              "Single",
+              "R$ 5,99/mês",
+              "R$ 4,79/mês",
+              "R$ 229,92",
+              "R$ 23,99/mês"
+            ],
+            [
+              "Premium",
+              "R$ 9,99/mês",
+              "R$ 7,99/mês",
+              "R$ 383,52",
+              "R$ 38,99/mês"
+            ],
+            [
+              "Unlimited",
+              "R$ 12,99/mês",
+              "R$ 10,39/mês",
+              "R$ 498,72",
+              "R$ 64,99/mês"
+            ],
+            [
+              "Cloud Startup",
+              "R$ 39,99/mês",
+              "R$ 31,99/mês",
+              "R$ 1.535,52",
+              "R$ 129,99/mês"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são de 19/10/2026, dos planos de 48 meses. Na campanha, o total do Single em 48 meses é R$ 287,52; com o link, R$ 229,92. O link aplica 20% sobre o preço da campanha, e é isso que o deixa mais barato hoje. Não lemos o preço da campanha sem o link em outros períodos, então não afirmamos nada sobre eles.",
+          "Por que o link de indicação não soma com outros cupons, e o que acontece com o desconto na renovação, está explicado em [Cupom Hostinger: como funciona a indicação](/reviews/cupom-hostinger-indicacao)."
+        ]
+      },
+      {
+        "heading": "Quem deve esperar e quem não deve",
+        "paragraphs": [
+          "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, o link já é o menor preço.",
+          "Se pode esperar, saiba que a campanha vai até 14/12, mas nenhum preço fica garantido até lá. O desconto do link depende do preço da campanha: se a campanha mudar, o link muda junto.",
+          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. O Single é o plano que a página chama de ideal para quem está começando ou tem projetos simples. Para VPS, não temos conta: o banner diz até 70%, mas não lemos o preço do VPS nem com nem sem o link.",
+          "Quem já é cliente entra em outra conta. A FAQ diz que clientes atuais podem receber ofertas separadas de upgrade e venda cruzada, e a indicação só vale para plano novo, não para renovação nem para compra já feita. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
+        ]
+      },
+      {
+        "heading": "Como conferir antes de pagar",
+        "bullets": [
+          "Abra a [Hostinger na página da loja deste site](/cupons/hostinger) e siga pelo botão de indicação.",
+          "Numa janela anônima, abra a Hostinger direto, sem o link, e vá até o mesmo plano e o mesmo período. Na janela do link, o card mostra \"Código de indicação aplicado\"; na outra, não.",
+          "Compare o total do primeiro período, não só o preço por mês. O total mostra a diferença real.",
+          "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, o histórico de reclamações da empresa está em [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao), e o que a garantia cobre e o que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/black-friday-hostinger-campanha-x-link.webp",
+            "alt": "Barras com o preço por mês de 48 meses na campanha e com o link de indicação, nos planos Single, Premium, Unlimited e Cloud Startup",
+            "caption": "Preço por mês no plano de 48 meses, campanha e link de indicação, em 19/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "**A Black Friday da Hostinger precisa de cupom?** Não, para as principais ofertas: os descontos entram sozinhos. A Hostinger diz que alguns canais têm promoções com código próprio, e não citamos nenhum aqui.",
+          "**Até quando vai a Black Friday da Hostinger?** Até 14 de dezembro de 2026, segundo a FAQ oficial lida em 19/10/2026.",
+          "**O preço da Black Friday continua na renovação?** Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
+          "**O link de indicação é mais barato que a campanha?** Em 19/10/2026, nos planos de 48 meses que conferimos, sim. Como o preço muda, compare antes de pagar.",
+          "**A garantia de reembolso vale na Black Friday?** A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este artigo usa o link de indicação da Hostinger, a empresa que hospeda o site Em Casa com Cecília. A indicação pode gerar crédito para o Bruno, sem custo extra para você, e o desconto é o que aparece no link. Lemos os preços em 19/10/2026 na página pública da Hostinger, sem login e sem carrinho. Preço e campanha mudam, e os números deste texto não são garantia: confira no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os planos com o link de indicação e compare o total com o da campanha antes de pagar.",
+      "label": "Ver os planos com desconto",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "A indicação pode gerar crédito para o Bruno, sem custo extra para você. A campanha pode ter preço diferente do link: compare antes de pagar.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "hostinger-reclame-aqui-nota-reputacao",
+        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "slug": "hostinger-black-friday",
+    "locale": "en",
+    "translationKey": "hostinger-black-friday",
+    "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?",
+    "seoTitle": "Hostinger Black Friday 2026: promotion or referral?",
+    "type": "Black Friday Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger's Black Friday runs from October 19 to December 14, 2026. See how to compare the campaign with the referral link, the renewal price and how to check before you pay.",
+    "metaDescription": "Hostinger Black Friday 2026: campaign from October 19 to December 14, how to compare prices with and without the referral link, and renewal. Compare both before you pay.",
+    "publishedAt": "October 19, 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Dark panel with Black Friday 2026 and the dates 19.10 to 14.12",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Hostinger's Black Friday runs from October 19 to December 14, 2026, according to Hostinger's own official FAQ. The main offers don't need a code. The referral link takes 20% off the page price, and only in the first period, so it is worth comparing the two totals on the pricing page for your region before you pay. Prices change during the campaign, so check both before you pay."
+        ],
+        "bullets": [
+          "**When:** October 19, 2026 to December 14, 2026.",
+          "**Prices:** this article doesn't quote amounts. Check the plans on the pricing page for your region, with and without the link.",
+          "**Which is cheaper:** it depends on the plan and the period. Compare the first-period total with and without the link.",
+          "**Renewal:** the campaign price applies only to the first period. After that, renewal is charged at the plan's regular price."
+        ]
+      },
+      {
+        "heading": "Has Hostinger's Black Friday started?",
+        "paragraphs": [
+          "It has. Hostinger's official FAQ says: “The Hostinger Black Friday promotion runs from October 19 to December 14, 2026.” The English global page gives the same dates.",
+          "Hostinger's banners show a discount with “up to” in front of it. That is the top of the banner, not the discount on every plan, so check the price of each plan on the pricing page for your region.",
+          "This text covers only the 2026 campaign. Earlier editions are not included: the sources we checked gave different dates and percentages, and none of them came from Hostinger itself."
+        ]
+      },
+      {
+        "heading": "How to compare the campaign and the link",
+        "bullets": [
+          "The referral link takes 20% off the page price, and only in the first period of a new plan.",
+          "The discount doesn't stack with other coupons.",
+          "Renewal is charged at the regular price, which Hostinger shows before checkout."
+        ],
+        "postParagraphs": [
+          "We didn't read or record the prices for your region, so this article gives no amounts. To compare, open the pricing page for your region through the link and note the first-period total for the same plan and period. Then open the same page without the link and compare.",
+          "Why the link doesn't stack with other coupons, and what happens to the discount at renewal, is explained in [Hostinger coupon: you don't need one, what the referral link gives](/en/reviews/hostinger-coupon-code-referral)."
+        ]
+      },
+      {
+        "heading": "Who should wait and who should not",
+        "paragraphs": [
+          "If you need the site online this week, don't wait. Compare the first-period total with the link on the pricing page for your region, and decide from there.",
+          "If you can wait, know that the campaign runs until December 14, but no price is guaranteed until then. The link's discount is 20% of the page price, so if the price changes, the discount changes with it.",
+          "For most personal, business and WordPress sites, Hostinger's own FAQ points to the Premium plan. The page calls the Single plan ideal for people starting out or with simple projects. For VPS we have no numbers: we didn't check the VPS price with or without the link.",
+          "Current customers are in a different situation. Hostinger's FAQ says existing customers may get separate upgrade and cross-sell offers, and that the referral only applies to a new plan, not to renewals or purchases already made. Bruno, who runs this site, has been a Hostinger customer since 2024, for more than 24 months. His plans are Business web hosting, KVM 2 VPS, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+        ]
+      },
+      {
+        "heading": "How to check before you pay",
+        "bullets": [
+          "Open [Hostinger on this site's store page](/en/coupons/hostinger) and follow the referral button.",
+          "In a private window, open Hostinger directly, without the link, and go to the same plan and period. Compare the first-period total in both windows.",
+          "Compare the first-period total, not only the monthly price. The total shows the real difference.",
+          "Check the renewal price before you finish. Hostinger shows it before payment, and it is not the campaign price."
+        ],
+        "postParagraphs": [
+          "Before you pay, the company's ratings and complaints are covered in [Hostinger's ratings and complaints](/en/reviews/hostinger-trustpilot-reviews), and what the guarantee covers and what it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-en.webp",
+            "alt": "Panel comparing the first period with 20% off through the link, and the renewal at the regular price after it",
+            "caption": "First period with 20% off through the referral link, and renewal at the regular price. Image: Em Casa com Cecília panel.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "**Does Hostinger's Black Friday need a coupon?** No, for the main offers. The discounts apply on their own. Hostinger says some channels run promotions with their own codes, and we don't mention any here.",
+          "**How long does Hostinger's Black Friday run?** Until December 14, 2026, according to the official FAQ read on October 19, 2026.",
+          "**Does the Black Friday price continue at renewal?** No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
+          "**Is the referral link cheaper than the campaign?** It depends on the plan and the period, and prices change. Compare the first-period total with and without the link before you pay.",
+          "**Does the refund guarantee apply during Black Friday?** The FAQ says eligible plans have a 30-day guarantee, subject to terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ]
+      },
+      {
+        "heading": "Transparency note",
+        "paragraphs": [
+          "This article uses Hostinger's referral link. Hostinger is the company that hosts the Em Casa com Cecília site. The referral may give Bruno credit, at no extra cost to you, and the discount is the one the link shows. This text gives no prices, because we didn't check the prices for your region. Campaigns and prices change, so check on the pricing page opened through the link and at checkout."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "See the plans with the referral link and compare the first-period total before you pay.",
+      "label": "See plans with the discount",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "The referral link may give Bruno credit, at no extra cost to you. The campaign price can differ from the link's price: compare before you pay.",
+    "relatedArticles": [
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews",
+        "title": "Hostinger on Trustpilot: score, complaints and what the numbers show"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon: you don't need one — what the referral link gives"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "slug": "black-friday-hostinger-ofertas",
+    "locale": "es",
+    "translationKey": "hostinger-black-friday",
+    "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?",
+    "seoTitle": "Black Friday Hostinger 2026: ¿promoción o referido?",
+    "type": "Guía de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "El Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026. Mira cómo comparar la campaña con el enlace de referido, el precio de la renovación y cómo verificar antes de pagar.",
+    "metaDescription": "Black Friday Hostinger 2026: campaña del 19 de octubre al 14 de diciembre, cómo comparar precios con y sin el enlace de referido, y la renovación. Compara ambos antes de pagar.",
+    "publishedAt": "19 de octubre de 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Panel oscuro con Black Friday 2026 y las fechas 19.10 a 14.12",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El Black Friday de Hostinger está en marcha desde el 19 de octubre de 2026 y llega hasta el 14 de diciembre de 2026, según la FAQ oficial de la propia Hostinger. Para las principales ofertas no hace falta código. El enlace de referido aplica el 20% sobre el precio de la página, solo en el primer período, así que conviene comparar los dos totales en la página de precios de tu región antes de pagar. Los precios cambian durante la campaña: revisa los dos antes de pagar."
+        ],
+        "bullets": [
+          "**Cuándo:** del 19 de octubre al 14 de diciembre de 2026.",
+          "**Precios:** este artículo no cita montos. Revisa los planes en la página de precios de tu región, con y sin el enlace.",
+          "**Cuál sale más barato:** depende del plan y del período. Compara el total del primer período con y sin el enlace.",
+          "**Renovación:** el precio de campaña vale solo para el primer período. Después, la renovación se cobra al precio normal del plan."
+        ]
+      },
+      {
+        "heading": "¿Ya empezó el Black Friday de Hostinger?",
+        "paragraphs": [
+          "Ya empezó. La FAQ oficial de Hostinger dice: “La promoción Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026.” La página global en inglés indica la misma fecha.",
+          "Los banners de Hostinger muestran un descuento precedido de “hasta”. Es el máximo del banner, no el descuento de todos los planes, así que revisa el precio de cada plan en la página de precios de tu región.",
+          "Este texto trata solo de la campaña de 2026. Las ediciones anteriores no entran aquí: las fuentes que consultamos daban fechas y porcentajes distintos, y ninguna era de la propia Hostinger."
+        ]
+      },
+      {
+        "heading": "Cómo comparar la campaña y el enlace",
+        "bullets": [
+          "El enlace de referido aplica el 20% sobre el precio de la página, y solo en el primer período de un plan nuevo.",
+          "El descuento no se suma a otros cupones.",
+          "La renovación se cobra al precio normal, que Hostinger muestra antes del pago."
+        ],
+        "postParagraphs": [
+          "No leímos ni registramos los precios de tu región, así que aquí no damos montos. Para comparar, abre la página de precios de tu región a través del enlace y anota el total del primer período para el mismo plan y el mismo período. Luego abre la misma página sin el enlace y compara.",
+          "Por qué el enlace no se suma a otros cupones, y qué pasa con el descuento en la renovación, está explicado en [Cupón Hostinger: no hace falta, mira lo que da el enlace de referido](/es/reviews/cupon-hostinger-codigo-de-referido)."
+        ]
+      },
+      {
+        "heading": "Quién debe esperar y quién no",
+        "paragraphs": [
+          "Si necesitas el sitio en línea esta semana, no esperes. Compara el total del primer período con el enlace en la página de precios de tu región y decide a partir de ahí.",
+          "Si puedes esperar, ten en cuenta que la campaña dura hasta el 14 de diciembre, pero ningún precio queda garantizado hasta entonces. El descuento del enlace es el 20% del precio de la página: si el precio cambia, el descuento cambia con él.",
+          "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ indica el plan Premium. La página llama al plan Single ideal para quien empieza o tiene proyectos simples. Para el VPS no tenemos datos: no revisamos el precio del VPS ni con ni sin el enlace.",
+          "Quien ya es cliente está en otra situación. La FAQ dice que los clientes actuales pueden recibir ofertas separadas de mejora de plan y venta cruzada, y que la indicación solo vale para un plan nuevo, no para renovaciones ni para compras ya hechas. Bruno, que cuida este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger."
+        ]
+      },
+      {
+        "heading": "Cómo verificar antes de pagar",
+        "bullets": [
+          "Abre [Hostinger en la página de la tienda de este sitio](/es/coupons/hostinger) y sigue por el botón de referido.",
+          "En una ventana privada, abre Hostinger directamente, sin el enlace, y ve al mismo plan y al mismo período. Compara el total del primer período en las dos ventanas.",
+          "Compara el total del primer período, no solo el precio mensual. El total muestra la diferencia real.",
+          "Revisa el precio de la renovación antes de terminar la compra. Hostinger lo muestra antes del pago, y no es el precio de campaña."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, el historial de quejas de la empresa está en [Calificaciones y quejas de Hostinger](/es/reviews/hostinger-opiniones-trustpilot), y lo que cubre la garantía y lo que deja fuera está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-es.webp",
+            "alt": "Cuadro que compara el primer período con 20% de descuento por el enlace y la renovación al precio normal después",
+            "caption": "Primer período con 20% de descuento por el enlace de referido, y renovación al precio normal. Imagen: cuadro de Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "**¿El Black Friday de Hostinger necesita cupón?** No, para las principales ofertas: los descuentos se aplican solos. Hostinger dice que algunos canales tienen promociones con código propio, y aquí no citamos ninguno.",
+          "**¿Hasta cuándo dura el Black Friday de Hostinger?** Hasta el 14 de diciembre de 2026, según la FAQ oficial leída el 19 de octubre de 2026.",
+          "**¿El precio del Black Friday sigue en la renovación?** No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
+          "**¿El enlace de referido es más barato que la campaña?** Depende del plan y del período, y los precios cambian. Compara el total del primer período con y sin el enlace antes de pagar.",
+          "**¿La garantía de reembolso vale durante el Black Friday?** La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
+        ]
+      },
+      {
+        "heading": "Nota de transparencia",
+        "paragraphs": [
+          "Este artículo usa el enlace de referido de Hostinger, la empresa que aloja el sitio Em Casa com Cecília. La referencia puede generar crédito para Bruno, sin costo extra para ti, y el descuento es el que muestra el enlace. Este texto no trae precios, porque no revisamos los de tu región. Las campañas y los precios cambian: confirma en la página de precios abierta desde el enlace y en el carrito."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Mira los planes con el enlace de referido y compara el total del primer período antes de pagar.",
+      "label": "Ver planes con descuento",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "El enlace de referido puede generar crédito para Bruno, sin costo extra para ti. El precio de la campaña puede ser distinto del precio del enlace: compara antes de pagar.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "hostinger-opiniones-trustpilot",
+        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran los datos"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger: no necesitas uno, esto es lo que da el enlace de referido"
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "slug": "black-friday-hostinger-offres",
+    "locale": "fr",
+    "translationKey": "hostinger-black-friday",
+    "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?",
+    "seoTitle": "Black Friday Hostinger 2026 : promotion ou parrainage ?",
+    "type": "Guide Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Le Black Friday de Hostinger dure du 19 octobre au 14 décembre 2026. Comparez la campagne et le lien de parrainage, le prix du renouvellement, et vérifiez avant de payer.",
+    "metaDescription": "Black Friday Hostinger 2026 : campagne du 19 octobre au 14 décembre, prix avec et sans le lien de parrainage, et renouvellement. Comparez les deux avant de payer.",
+    "publishedAt": "19 octobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Cadre sombre avec Black Friday 2026 et les dates 19.10 au 14.12",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le Black Friday de Hostinger est en cours du 19 octobre au 14 décembre 2026, selon la FAQ officielle de Hostinger elle-même. Pour les principales offres, aucun code n'est nécessaire. Le lien de parrainage applique 20 % sur le prix affiché sur la page, uniquement pendant la première période : il vaut donc la peine de comparer les deux totaux sur la page de tarifs de votre région avant de payer. Les prix changent pendant la campagne : vérifiez les deux avant de payer."
+        ],
+        "bullets": [
+          "**Quand :** du 19 octobre au 14 décembre 2026.",
+          "**Prix :** cet article n'indique aucun montant. Consultez les formules sur la page de tarifs de votre région, avec et sans le lien.",
+          "**Le moins cher :** cela dépend de la formule et de la période. Comparez le total de la première période avec et sans le lien.",
+          "**Renouvellement :** le prix de la campagne ne vaut que pour la première période. Ensuite, le renouvellement est facturé au prix normal de la formule."
+        ]
+      },
+      {
+        "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
+        "paragraphs": [
+          "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
+          "Les bannières de Hostinger annoncent parfois une réduction maximale, qui ne vaut pas pour chaque formule : vérifiez le prix de chaque formule sur la page de tarifs de votre région.",
+          "Ce texte ne traite que de la campagne 2026. Les éditions précédentes ne figurent pas ici : les sources consultées donnaient des dates et des pourcentages différents, et aucune ne venait de Hostinger elle-même."
+        ]
+      },
+      {
+        "heading": "Comment comparer la campagne et le lien",
+        "bullets": [
+          "Le lien de parrainage applique 20 % sur le prix de la page, et seulement sur la première période d'une nouvelle formule.",
+          "La réduction ne se cumule pas avec d'autres coupons.",
+          "Le renouvellement se fait au prix normal, que Hostinger affiche avant le paiement."
+        ],
+        "postParagraphs": [
+          "Nous n'avons pas relevé les prix de votre région, donc aucun montant n'est donné ici. Pour comparer, ouvrez la page de tarifs de votre région via le lien et notez le total de la première période pour la même formule et la même période. Ouvrez ensuite la même page sans le lien et comparez.",
+          "Pourquoi le lien ne se cumule pas avec d'autres coupons, et ce qui arrive à la réduction au renouvellement, est expliqué dans [Code promo Hostinger : inutile, voici ce que donne le lien de parrainage](/fr/reviews/code-promo-hostinger-parrainage)."
+        ]
+      },
+      {
+        "heading": "Qui doit attendre et qui ne le doit pas",
+        "paragraphs": [
+          "Si vous avez besoin du site en ligne cette semaine, n'attendez pas. Comparez le total de la première période avec le lien sur la page de tarifs de votre région, et décidez à partir de là.",
+          "Si vous pouvez attendre, sachez que la campagne dure jusqu'au 14 décembre, mais qu'aucun prix n'est garanti jusque-là. La réduction du lien est de 20 % du prix de la page : si le prix change, la réduction change avec lui.",
+          "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ de Hostinger indique la formule Premium. La page présente la formule Single comme idéale pour qui débute ou a des projets simples. Pour le VPS, nous n'avons pas relevé de prix, ni avec ni sans le lien.",
+          "Les clients actuels sont dans une autre situation. La FAQ indique qu'ils peuvent recevoir des offres séparées de montée en gamme et de vente croisée, et que le parrainage ne vaut que pour une nouvelle formule, pas pour un renouvellement ni pour un achat déjà fait. Bruno, qui s'occupe de ce site, est client de Hostinger depuis 2024, avec plus de 24 mois d'abonnement. Ses formules sont l'hébergement Business, le VPS KVM 2, la messagerie et les domaines, tous en renouvellement automatique. Em Casa com Cecília fonctionne sur Hostinger."
+        ]
+      },
+      {
+        "heading": "Comment vérifier avant de payer",
+        "bullets": [
+          "Ouvrez [Hostinger sur la page boutique de ce site](/fr/coupons/hostinger) et passez par le bouton de parrainage.",
+          "Dans une fenêtre privée, ouvrez Hostinger directement, sans le lien, et allez à la même formule et à la même période. Comparez le total affiché dans les deux fenêtres, pour la même formule et la même période.",
+          "Comparez le total de la première période, pas seulement le prix mensuel. Le total montre la vraie différence.",
+          "Vérifiez le prix du renouvellement avant de finaliser. Hostinger l'affiche avant le paiement, et ce n'est pas le prix de la campagne."
+        ],
+        "postParagraphs": [
+          "Avant de payer, l'historique des plaintes de l'entreprise se trouve dans [Avis et plaintes sur Hostinger](/fr/reviews/hostinger-avis-trustpilot), et ce que couvre la garantie, ainsi que ce qu'elle exclut, se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-fr.webp",
+            "alt": "Cadre comparant la première période avec 20 % de réduction via le lien et le renouvellement au prix normal ensuite",
+            "caption": "Première période avec 20 % de réduction via le lien de parrainage, et renouvellement au prix normal. Image : cadre d'Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "**Le Black Friday de Hostinger demande-t-il un coupon ?** Non, pour les principales offres : les réductions s'appliquent d'elles-mêmes. Hostinger indique que certains canaux ont des promotions avec leur propre code, et nous n'en citons aucun ici.",
+          "**Jusqu'à quand dure le Black Friday de Hostinger ?** Jusqu'au 14 décembre 2026, selon la FAQ officielle consultée le 19 octobre 2026.",
+          "**Le prix du Black Friday reste-t-il au renouvellement ?** Non. Il vaut pour la période initiale de l'abonnement. Le renouvellement se fait au prix normal de la formule.",
+          "**Le lien de parrainage est-il moins cher que la campagne ?** Cela dépend de la formule et de la période, et les prix changent. Comparez le total de la première période avec et sans le lien avant de payer.",
+          "**La garantie de remboursement s'applique-t-elle pendant le Black Friday ?** La FAQ indique que les formules éligibles ont une garantie de 30 jours, avec conditions et exclusions. Ce qui est exclu se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "Note de transparence",
+        "paragraphs": [
+          "Cet article utilise le lien de parrainage de Hostinger, l'entreprise qui héberge le site Em Casa com Cecília. Le parrainage peut donner un crédit à Bruno, sans coût supplémentaire pour vous, et la réduction est celle qu'affiche le lien. Ce texte ne donne aucun prix, car nous n'avons pas relevé ceux de votre région. Campagnes et prix changent : vérifiez sur la page de tarifs ouverte depuis le lien et au moment de payer."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Voyez les formules avec le lien de parrainage et comparez le total de la première période avant de payer.",
+      "label": "Voir les formules avec réduction",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Le lien de parrainage peut donner un crédit à Bruno, sans coût supplémentaire pour vous. Le prix de la campagne peut être différent de celui du lien : comparez avant de payer.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "hostinger-avis-trustpilot",
+        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "slug": "hostinger-black-friday-angebote",
+    "locale": "de",
+    "translationKey": "hostinger-black-friday",
+    "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?",
+    "seoTitle": "Hostinger Black Friday 2026: Aktion oder Empfehlung?",
+    "type": "Black-Friday-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Das Hostinger-Black-Friday läuft vom 19. Oktober bis 14. Dezember 2026. Vergleichen Sie die Aktion mit dem Empfehlungslink, den Verlängerungspreis und wie Sie vor dem Kauf prüfen.",
+    "metaDescription": "Hostinger Black Friday 2026: Aktion vom 19. Oktober bis 14. Dezember, Preise mit und ohne Empfehlungslink und Verlängerung. Vergleichen Sie beides vor dem Kauf.",
+    "publishedAt": "19. Oktober 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Dunkles Bild mit Black Friday 2026 und den Daten 19.10. bis 14.12.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Das Black Friday bei Hostinger läuft laut der offiziellen FAQ von Hostinger selbst vom 19. Oktober bis 14. Dezember 2026. Für die wichtigsten Angebote braucht man keinen Code. Der Empfehlungslink gewährt 20 % auf den Seitenpreis, aber nur im ersten Zeitraum. Vergleichen Sie deshalb die beiden Gesamtbeträge auf der Preisseite Ihrer Region, bevor Sie zahlen. Die Preise ändern sich während der Aktion, prüfen Sie also beide vor dem Kauf."
+        ],
+        "bullets": [
+          "**Wann:** vom 19. Oktober bis 14. Dezember 2026.",
+          "**Preise:** Dieser Artikel nennt keine Beträge. Prüfen Sie die Tarife auf der Preisseite Ihrer Region, mit und ohne Link.",
+          "**Was ist günstiger:** Das hängt von Tarif und Laufzeit ab. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link.",
+          "**Verlängerung:** Der Aktionspreis gilt nur für den ersten Zeitraum. Danach wird die Verlängerung zum regulären Tarifpreis berechnet."
+        ]
+      },
+      {
+        "heading": "Hat das Black Friday bei Hostinger schon begonnen?",
+        "paragraphs": [
+          "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis 14. Dezember 2026.“ Die englische Weltseite nennt dieselben Daten.",
+          "Die Banner von Hostinger nennen manchmal einen Höchstrabatt, der nicht für jeden Tarif gilt. Prüfen Sie deshalb den Preis jedes Tarifs auf der Preisseite Ihrer Region.",
+          "Dieser Text behandelt nur die Aktion 2026. Frühere Ausgaben sind hier nicht enthalten: Die Quellen, die wir geprüft haben, nannten unterschiedliche Daten und Prozentsätze, und keine davon stammte von Hostinger selbst."
+        ]
+      },
+      {
+        "heading": "So vergleichen Sie Aktion und Link",
+        "bullets": [
+          "Der Empfehlungslink gewährt 20 % auf den Seitenpreis, und nur im ersten Zeitraum eines neuen Tarifs.",
+          "Der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren.",
+          "Die Verlängerung wird zum regulären Preis berechnet, den Hostinger vor der Zahlung anzeigt."
+        ],
+        "postParagraphs": [
+          "Wir haben die Preise Ihrer Region nicht gelesen oder festgehalten, deshalb nennen wir hier keine Beträge. Zum Vergleichen öffnen Sie die Preisseite Ihrer Region über den Link und notieren den Gesamtbetrag des ersten Zeitraums für denselben Tarif und dieselbe Laufzeit. Öffnen Sie dann dieselbe Seite ohne Link und vergleichen Sie.",
+          "Warum der Link sich nicht mit anderen Gutscheinen kombinieren lässt und was mit dem Rabatt bei der Verlängerung passiert, steht in [Hostinger-Gutschein: den brauchen Sie nicht, das bringt der Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        ]
+      },
+      {
+        "heading": "Wer warten sollte und wer nicht",
+        "paragraphs": [
+          "Wenn Ihre Website diese Woche online sein muss, warten Sie nicht. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit dem Link auf der Preisseite Ihrer Region und entscheiden Sie dann.",
+          "Wenn Sie warten können, beachten Sie: Die Aktion läuft bis 14. Dezember, aber bis dahin ist kein Preis garantiert. Der Rabatt über den Link beträgt 20 % des Seitenpreises. Ändert sich der Preis, ändert sich der Rabatt mit.",
+          "Für die meisten privaten, geschäftlichen und WordPress-Seiten nennt die FAQ von Hostinger selbst den Tarif Premium. Die Seite bezeichnet den Single-Tarif als ideal für Einsteiger oder einfache Projekte. Beim VPS haben wir keine Preise: Wir haben ihn weder mit noch ohne Link geprüft.",
+          "Bestandskunden sind in einer anderen Lage. Die FAQ sagt, dass bestehende Kunden getrennte Upgrade- und Cross-Selling-Angebote erhalten können, und dass der Empfehlungslink nur für einen neuen Tarif gilt, nicht für Verlängerungen oder bereits getätigte Käufe. Bruno, der diese Seite betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Webhosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft auf Hostinger."
+        ]
+      },
+      {
+        "heading": "So prüfen Sie vor dem Kauf",
+        "bullets": [
+          "Öffnen Sie [Hostinger auf der Shopseite dieser Website](/de/coupons/hostinger) und gehen Sie über den Empfehlungsbutton.",
+          "Öffnen Sie Hostinger in einem privaten Fenster direkt, ohne Link, und wählen Sie denselben Tarif und dieselbe Laufzeit. Vergleichen Sie den Gesamtbetrag in beiden Fenstern, für denselben Tarif und dieselbe Laufzeit.",
+          "Vergleichen Sie den Gesamtbetrag des ersten Zeitraums, nicht nur den Monatspreis. Der Gesamtbetrag zeigt den tatsächlichen Unterschied.",
+          "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er ist nicht der Aktionspreis."
+        ],
+        "postParagraphs": [
+          "Bevor Sie zahlen, finden Sie die Beschwerdebilanz des Unternehmens unter [Hostinger-Bewertungen und Beschwerden](/de/reviews/hostinger-trustpilot-bewertungen), und was die Garantie abdeckt und was nicht, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-de.webp",
+            "alt": "Übersicht: erster Zeitraum mit 20 % Rabatt über den Link und danach die Verlängerung zum regulären Preis",
+            "caption": "Erster Zeitraum mit 20 % Rabatt über den Empfehlungslink, und Verlängerung zum regulären Preis. Bild: Übersicht von Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "**Braucht das Hostinger-Black-Friday einen Gutschein?** Nein, für die wichtigsten Angebote: Die Rabatte gelten automatisch. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben. Wir nennen hier keinen.",
+          "**Wie lange läuft das Hostinger-Black-Friday?** Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 19. Oktober 2026.",
+          "**Gilt der Aktionspreis auch bei der Verlängerung?** Nein. Er gilt für die erste Laufzeit des Abos. Die Verlängerung wird zum regulären Tarifpreis berechnet.",
+          "**Ist der Empfehlungslink günstiger als die Aktion?** Das hängt von Tarif und Laufzeit ab, und die Preise ändern sich. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
+          "**Gilt die Erstattungsgarantie auch während des Black Friday?** Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        ]
+      },
+      {
+        "heading": "Transparenzhinweis",
+        "paragraphs": [
+          "Dieser Artikel nutzt den Empfehlungslink von Hostinger, dem Unternehmen, das die Website Em Casa com Cecília hostet. Die Empfehlung kann Bruno eine Gutschrift einbringen, ohne Mehrkosten für Sie, und der Rabatt ist der, den der Link zeigt. Dieser Text nennt keine Preise, weil wir die Preise Ihrer Region nicht geprüft haben. Aktionen und Preise ändern sich: Prüfen Sie auf der Preisseite, die Sie über den Link öffnen, und im Warenkorb."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Sehen Sie sich die Tarife mit dem Empfehlungslink an und vergleichen Sie den Gesamtbetrag des ersten Zeitraums, bevor Sie zahlen.",
+      "label": "Tarife mit Rabatt ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Der Empfehlungslink kann Bruno eine Gutschrift einbringen, ohne Mehrkosten für Sie. Der Aktionspreis kann vom Preis über den Link abweichen: Vergleichen Sie, bevor Sie zahlen.",
+    "relatedArticles": [
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-trustpilot-bewertungen",
+        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "slug": "black-friday-hostinger-offerte",
+    "locale": "it",
+    "translationKey": "hostinger-black-friday",
+    "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?",
+    "seoTitle": "Black Friday Hostinger 2026: promozione o invito?",
+    "type": "Guida al Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Il Black Friday di Hostinger va dal 19/10 al 14/12/2026. Ecco come confrontare la campagna con il link di invito, il rinnovo e cosa controllare prima di pagare.",
+    "metaDescription": "Black Friday Hostinger 2026: campagna dal 19/10 al 14/12, prezzi con e senza il link di invito e rinnovo. Confrontali prima di pagare.",
+    "publishedAt": "19 ottobre 2026",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "Quadro scuro con la scritta Black Friday 2026 e le date 19.10 - 14.12",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Il Black Friday di Hostinger è attivo dal 19/10/2026 e va fino al 14/12/2026, secondo la FAQ ufficiale di Hostinger. Per le offerte principali non serve nessun codice. Il link di invito applica il 20% sul prezzo della campagna, quindi nel primo periodo costa meno della campagna da sola. I prezzi cambiano durante la campagna: confrontali prima di pagare."
+        ],
+        "bullets": [
+          "**Quando:** dal 19/10/2026 al 14/12/2026.",
+          "**Quanto:** il link applica il 20% sul prezzo della campagna, solo nel primo periodo. Confronta il totale nella pagina dei prezzi della tua regione.",
+          "**Qual è più economico:** il link, nel primo periodo, perché toglie il 20% dal prezzo della campagna.",
+          "**Rinnovo:** il prezzo della campagna vale solo nel primo periodo. Dopo, il rinnovo costa il prezzo normale del piano."
+        ]
+      },
+      {
+        "heading": "Il Black Friday di Hostinger è già iniziato?",
+        "paragraphs": [
+          "È già iniziato. La FAQ ufficiale di Hostinger dice: “La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026.” La pagina globale in inglese riporta la stessa data.",
+          "Questo testo non usa le percentuali dei banner della pagina: il VPS resta fuori, e ne parliamo più avanti.",
+          "Questo testo tratta solo la campagna 2026. Le edizioni precedenti non sono incluse: le fonti che abbiamo consultato davano date e percentuali diverse, e nessuna era di Hostinger."
+        ]
+      },
+      {
+        "heading": "Come confrontare la campagna con il link",
+        "paragraphs": [
+          "Il calcolo è semplice: il link applica il 20% sul prezzo che la pagina mostra durante la campagna, e solo nel primo periodo. I prezzi cambiano con il piano, il periodo e la regione, quindi qui non elenchiamo nessun valore.",
+          "Non abbiamo letto il prezzo del VPS né quello degli altri periodi di abbonamento, quindi non diciamo nulla su di essi."
+        ],
+        "postParagraphs": [
+          "Perché il link di invito non si somma ad altre promozioni, e cosa succede allo sconto al rinnovo, lo spiega [Hostinger coupon: come funziona il link di invito](/it/reviews/coupon-hostinger-codice-invito)."
+        ]
+      },
+      {
+        "heading": "Chi deve aspettare e chi no",
+        "paragraphs": [
+          "Se ti serve il sito online questa settimana, non aspettare: con il link, il primo periodo costa già meno della campagna da sola.",
+          "Se puoi aspettare, sappi che la campagna va fino al 14/12, ma nessun prezzo è garantito fino ad allora. Lo sconto del link dipende dal prezzo della campagna: se la campagna cambia, cambia anche il link.",
+          "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ indica il Premium. Il Single è il piano che la pagina definisce ideale per chi sta iniziando o ha progetti semplici. Per il VPS non abbiamo fatto nessun confronto: non abbiamo letto il prezzo del VPS né con né senza il link.",
+          "Chi è già cliente segue un’altra strada. La FAQ dice che i clienti attuali possono ricevere offerte separate di upgrade e cross-selling, e l’invito vale solo per un piano nuovo, non per il rinnovo né per un acquisto già fatto. Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
+        ]
+      },
+      {
+        "heading": "Come verificare prima di pagare",
+        "bullets": [
+          "Apri [Hostinger nella pagina del negozio di questo sito](/it/coupons/hostinger) e prosegui dal pulsante di invito.",
+          "In una finestra in incognito, apri Hostinger direttamente, senza il link, e scegli lo stesso piano e lo stesso periodo: così hai il prezzo di partenza da confrontare con quello del link.",
+          "Confronta il totale del primo periodo, non solo il prezzo al mese. Il totale mostra la differenza reale.",
+          "Controlla il prezzo del rinnovo prima di concludere. Hostinger lo mostra prima del pagamento, e non è quello della campagna."
+        ],
+        "postParagraphs": [
+          "Prima di pagare, lo storico dei reclami dell’azienda è in [Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot), e cosa copre la garanzia e cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-it.webp",
+            "alt": "Quadro che confronta il primo periodo con il 20% tramite il link e il rinnovo al prezzo standard dopo",
+            "caption": "Primo periodo con il 20% tramite il link di invito, e rinnovo al prezzo standard. Immagine: quadro di Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "**Il Black Friday di Hostinger richiede un codice?** No, per le offerte principali: gli sconti si applicano da soli. Hostinger dice che alcuni canali hanno promozioni con un codice dedicato, e qui non ne citiamo nessuno.",
+          "**Fino a quando dura il Black Friday di Hostinger?** Fino al 14 dicembre 2026, secondo la FAQ ufficiale consultata il 19/10/2026.",
+          "**Il prezzo del Black Friday resta al rinnovo?** No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
+          "**Il link di invito costa meno della campagna?** Sì: il link applica il 20% sul prezzo della campagna nel primo periodo. Poiché i prezzi cambiano, confrontali prima di pagare.",
+          "**La garanzia di rimborso vale durante il Black Friday?** La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        ]
+      },
+      {
+        "heading": "Nota di trasparenza",
+        "paragraphs": [
+          "Questo articolo usa il link di invito di Hostinger, l’azienda che ospita il sito Em Casa com Cecília. L’invito può generare un credito per Bruno, senza costi extra per te, e lo sconto è quello che il link mostra. Prezzi e campagna cambiano, e i numeri di questo testo non sono una garanzia: controlla la pagina dei prezzi della tua regione, raggiunta dal link, e il carrello prima di pagare."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Vedi i piani con il link di invito e confronta il totale con quello della campagna prima di pagare.",
+      "label": "Vedi i piani scontati",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "L’invito può generare un credito per Bruno, senza costi extra per te. La campagna può avere un prezzo diverso dal link: confronta prima di pagare.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "hostinger-recensioni-trustpilot",
+        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "slug": "hostinger-black-friday-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-black-friday",
+    "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?",
+    "seoTitle": "2026 Hostinger 블랙프라이데이: 프로모션 vs 추천 링크",
+    "type": "블랙프라이데이 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 블랙프라이데이는 2026년 10월 19일부터 12월 14일까지입니다. 캠페인 가격과 추천 링크를 비교하는 방법, 갱신 가격, 결제 전 확인 방법을 정리했습니다.",
+    "metaDescription": "2026 Hostinger 블랙프라이데이: 10/19~12/14 캠페인, 추천 링크 적용 여부에 따른 가격과 갱신 가격. 결제 전에 비교하세요.",
+    "publishedAt": "2026년 10월 19일",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "어두운 바탕에 'Black Friday 2026' 글자와 날짜 19.10~12.14가 적힌 그래픽",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "Hostinger 블랙프라이데이는 2026년 10월 19일부터 12월 14일까지 진행됩니다. Hostinger 공식 FAQ 기준입니다. 주요 혜택에는 코드 입력이 필요 없습니다. 추천 링크는 캠페인 가격에서 20%를 할인하므로, 첫 기간에는 링크를 통한 가격이 캠페인 단독 가격보다 낮습니다. 캠페인 중에도 가격은 바뀔 수 있으니 결제 전에 두 가격을 비교하세요."
+        ],
+        "bullets": [
+          "**기간:** 2026년 10월 19일부터 12월 14일까지.",
+          "**가격:** 추천 링크를 통하면 캠페인 가격에서 20%가 할인되며, 첫 결제 기간에만 적용됩니다. 금액은 지역별 요금 페이지에서 확인하세요.",
+          "**더 저렴한 쪽:** 첫 기간에는 추천 링크 쪽이 캠페인 단독 가격보다 낮습니다.",
+          "**갱신:** 캠페인 가격은 첫 기간에만 적용됩니다. 갱신할 때는 해당 플랜의 일반 가격을 냅니다."
+        ]
+      },
+      {
+        "heading": "Hostinger 블랙프라이데이는 이미 시작했나요?",
+        "paragraphs": [
+          "네, 이미 시작했습니다. Hostinger 공식 FAQ는 “Hostinger 블랙프라이데이 프로모션은 2026년 10월 19일부터 12월 14일까지 진행됩니다”라고 밝히고 있습니다. 영문 글로벌 페이지도 같은 날짜를 적고 있습니다.",
+          "이 글은 페이지 배너의 할인율을 쓰지 않습니다. VPS는 아래에서 다시 설명합니다.",
+          "이 글은 2026년 캠페인만 다룹니다. 이전 행사는 포함하지 않았습니다. 확인한 출처마다 날짜와 비율이 달랐고, Hostinger 공식 자료가 아니었기 때문입니다."
+        ]
+      },
+      {
+        "heading": "캠페인과 추천 링크 가격 비교법",
+        "paragraphs": [
+          "계산은 간단합니다. 추천 링크는 캠페인 중 페이지에 표시된 가격에서 20%를 할인하며, 첫 기간에만 적용됩니다. 가격은 플랜, 기간, 지역에 따라 다르므로 이 글에는 금액을 적지 않았습니다.",
+          "VPS와 다른 결제 기간의 가격은 비교하지 않았습니다. 그래서 그 부분에 대해서는 아무것도 단정하지 않습니다."
+        ],
+        "postParagraphs": [
+          "추천 링크가 다른 프로모션과 합쳐지지 않는 이유와 갱신 때 할인이 어떻게 되는지는 [Hostinger 추천 링크 안내](/ko/reviews/hostinger-referral-code-ko)에서 설명합니다."
+        ]
+      },
+      {
+        "heading": "기다려야 할 사람과 기다리지 않아도 될 사람",
+        "paragraphs": [
+          "이번 주에 사이트를 바로 열어야 한다면 기다리지 마세요. 추천 링크를 쓰면 첫 기간 가격이 캠페인 단독 가격보다 이미 낮습니다.",
+          "기다릴 수 있다면 캠페인은 12월 14일까지지만, 그때까지 어떤 가격도 보장되지 않습니다. 링크 할인은 캠페인 가격에 따라 달라지므로, 캠페인이 바뀌면 링크 가격도 함께 바뀝니다.",
+          "대부분의 개인, 기업, 워드프레스 사이트에는 같은 FAQ가 Premium을 권합니다. Single은 페이지가 입문자나 단순한 프로젝트에 어울린다고 설명하는 플랜입니다. VPS는 비교하지 않았습니다. 링크 유무와 상관없이 VPS 가격은 확인하지 않았습니다.",
+          "이미 고객이라면 다른 경로를 봐야 합니다. FAQ는 기존 고객에게 업그레이드와 교차 판매 제안이 따로 갈 수 있다고 밝히며, 추천 링크는 새 플랜에만 적용되고 갱신이나 이미 끝난 결제에는 적용되지 않는다고 합니다. 이 사이트를 관리하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간은 24개월이 넘었습니다. 그의 플랜은 Business 호스팅, VPS KVM 2, 이메일과 도메인이고, 모두 자동 갱신입니다. Em Casa com Cecília 사이트도 Hostinger에서 운영됩니다."
+        ]
+      },
+      {
+        "heading": "결제 전에 확인하는 방법",
+        "bullets": [
+          "[이 사이트의 Hostinger 상점 페이지](/ko/coupons/hostinger)에서 시작해 추천 버튼을 눌러 이동하세요.",
+          "시크릿 창에서 링크 없이 Hostinger에 직접 들어가 같은 플랜과 같은 기간을 고르세요. 그래야 링크 가격과 비교할 기준 가격이 생깁니다.",
+          "월 가격이 아니라 첫 기간의 총액을 비교하세요. 총액이 실제 차이를 보여 줍니다.",
+          "결제를 마치기 전에 갱신 가격을 확인하세요. Hostinger는 결제 전에 이를 보여 주며, 캠페인 가격과 다릅니다."
+        ],
+        "postParagraphs": [
+          "결제 전에 회사의 불만 이력은 [Hostinger Trustpilot 평가](/ko/reviews/hostinger-trustpilot-reviews-ko)에서, 보증이 무엇을 보장하고 무엇을 제외하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-ko.webp",
+            "alt": "추천 링크로 첫 기간에 20% 할인이 적용되고, 그 뒤 갱신은 표준 가격인 것을 비교한 도표",
+            "caption": "추천 링크로 첫 기간 20% 할인, 이후 갱신은 표준 가격. 이미지: Em Casa com Cecília 도표.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "**Hostinger 블랙프라이데이에 코드가 필요한가요?** 주요 혜택은 필요 없습니다. 할인은 자동으로 적용됩니다. Hostinger는 일부 채널에 별도 코드 프로모션이 있다고 하지만, 여기서는 어떤 코드도 언급하지 않습니다.",
+          "**Hostinger 블랙프라이데이는 언제까지인가요?** 2026년 12월 14일까지입니다. 2026년 10월 19일에 확인한 Hostinger 공식 FAQ 기준입니다.",
+          "**블랙프라이데이 가격은 갱신에도 적용되나요?** 아니요. 구독의 첫 기간에만 적용됩니다. 갱신은 해당 플랜의 일반 가격입니다.",
+          "**추천 링크가 캠페인 가격보다 저렴한가요?** 네. 추천 링크는 첫 기간에 캠페인 가격에서 20%를 할인합니다. 가격이 바뀔 수 있으니 결제 전에 비교하세요.",
+          "**블랙프라이데이에도 환불 보증이 적용되나요?** FAQ에 따르면 해당 플랜은 30일 보증이 있으며, 조건과 제외 항목이 있습니다. 제외 항목은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "투명성 안내",
+        "paragraphs": [
+          "이 글은 이 사이트를 호스팅하는 회사 Hostinger의 추천 링크를 사용합니다. 추천을 통해 Bruno가 크레딧을 받을 수 있지만 여러분에게 추가 비용은 없습니다. 할인은 링크에서 보이는 그대로입니다. 이 글에는 금액을 싣지 않았습니다. 가격과 캠페인은 바뀌므로 이 글의 내용은 보장이 아닙니다. 결제 전에 링크를 통해 지역별 요금 페이지와 장바구니를 확인하세요."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 링크로 플랜을 보고, 결제 전에 캠페인 총액과 비교하세요.",
+      "label": "할인 플랜 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천을 통해 Bruno가 크레딧을 받을 수 있지만 여러분에게 추가 비용은 없습니다. 캠페인 가격은 링크 가격과 다를 수 있으니 결제 전에 비교하세요.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 자동 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-ko",
+        "title": "Hostinger Trustpilot 평점, 불만, 그리고 숫자가 보여주는 것"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "slug": "hostinger-black-friday-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-black-friday",
+    "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？",
+    "seoTitle": "2026 Hostinger ブラックフライデー：キャンペーンか紹介リンクか",
+    "type": "ブラックフライデーガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostingerのブラックフライデーは2026年10月19日から12月14日までです。キャンペーン価格と紹介リンクを比べる方法、更新時の料金、支払い前の確認方法をまとめました。",
+    "metaDescription": "2026年 Hostinger ブラックフライデー：10/19〜12/14のキャンペーン、紹介リンクの有無による価格と更新料金。支払い前に比べてください。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "「Black Friday 2026」と日付 19.10〜14.12 が書かれた暗いボード",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "最初に結論",
+        "paragraphs": [
+          "Hostingerのブラックフライデーは2026年10月19日から12月14日まで行われます。Hostingerの公式FAQによる日付です。主要なオファーにコードは必要ありません。紹介リンクはキャンペーン価格から20％割り引く仕組みです。キャンペーン中も価格は変わることがあるので、支払う前に最初の期間の合計を、リンクの有無で比べてください。"
+        ],
+        "bullets": [
+          "**期間：** 2026年10月19日から12月14日まで。",
+          "**料金：** 紹介リンク経由では、キャンペーン価格から20％割り引かれます。割引が適用されるのは最初の契約期間だけです。金額はお住まいの地域の料金ページで確認してください。",
+          "**比べ方：** 最初の期間の合計を、キャンペーン単独とリンク経由で比べてください。",
+          "**更新：** キャンペーン価格が適用されるのは最初の期間だけです。更新時は、そのプランの通常料金になります。"
+        ]
+      },
+      {
+        "heading": "Hostingerのブラックフライデーはもう始まっていますか？",
+        "paragraphs": [
+          "はい、もう始まっています。Hostingerの公式FAQには「Hostingerのブラックフライデーのプロモーションは2026年10月19日から12月14日まで実施されます」とあります。英語のグローバルページも同じ日付です。",
+          "ウェブホスティングのページにはキャンペーンのバナーがあります。バナーに書かれた割引率は上限であり、すべてのプランに当てはまるわけではありません。VPSは後で説明するとおり、この記事の計算には含めていません。",
+          "この記事は2026年のキャンペーンだけを扱います。過去の回は含めていません。確認した情報源によって日付や割合が異なり、Hostinger自身の情報ではなかったためです。"
+        ]
+      },
+      {
+        "heading": "キャンペーンと紹介リンクの料金を比べる方法",
+        "paragraphs": [
+          "計算は簡単です。紹介リンクは、キャンペーン中の価格から20％割り引く仕組みです。割引は最初の期間だけです。価格はプラン、期間、地域によって異なるため、この記事では金額を載せていません。",
+          "VPSや他の契約期間の価格は比較していません。そのため、それらについては何も断定しません。"
+        ],
+        "postParagraphs": [
+          "紹介リンクが他の割引と併用できない理由と、更新時の割引の扱いは、[Hostinger紹介リンクの案内](/ja/reviews/hostinger-referral-code-ja)で説明しています。"
+        ]
+      },
+      {
+        "heading": "待つべき人、待たなくてよい人",
+        "paragraphs": [
+          "今週中にサイトを公開する必要があるなら、待たないでください。その場合も、支払う前に最初の期間の合計をリンクの有無で比べてください。",
+          "待てるなら、キャンペーンは12月14日まで続きますが、その間の価格は保証されていません。リンクの割引はキャンペーン価格に基づくため、キャンペーンが変われば、リンクの価格も一緒に変わります。",
+          "個人サイト、企業サイト、WordPressサイトの多くには、同じFAQがPremiumを勧めています。Singleは、ページが入門者や単純なプロジェクト向けと説明するプランです。VPSについては比較していません。リンクの有無にかかわらず、VPSの価格は確認していません。",
+          "すでに契約者の方は別の扱いになります。FAQによると、既存の契約者にはアップグレードやクロスセルの別オファーが届くことがあります。紹介リンクは新規プランにだけ有効で、更新や購入済みの注文には適用されません。このサイトを担当するBrunoは2024年からHostingerの契約者で、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メールとドメインで、すべて自動更新です。Em Casa com Cecíliaのサイトも Hostinger で動いています。"
+        ]
+      },
+      {
+        "heading": "支払う前に確認する方法",
+        "bullets": [
+          "このサイトの[Hostingerのストアページ](/ja/coupons/hostinger)から入り、紹介ボタンを押してください。",
+          "シークレットウィンドウで、リンクなしにHostingerへ直接アクセスし、同じプランと同じ期間を選んでください。リンクから入った場合と金額を比べてください。",
+          "月額ではなく、最初の期間の合計を比べてください。合計を見れば実際の差がわかります。",
+          "注文を確定する前に更新料金を確認してください。Hostingerは支払い前に表示しますが、それはキャンペーン価格ではありません。"
+        ],
+        "postParagraphs": [
+          "支払う前に、会社の苦情の履歴は[HostingerのTrustpilotの評価](/ja/reviews/hostinger-trustpilot-reviews-ja)で、保証の対象と対象外は[Hostingerは信頼できますか？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-ja.webp",
+            "alt": "紹介リンクで最初の期間に20％割引が適用され、その後の更新は通常料金になることを示す図",
+            "caption": "紹介リンクで最初の期間は20％割引、更新は通常料金。画像：Em Casa com Cecíliaの図。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "**Hostingerのブラックフライデーにはコードが必要ですか？** 主要なオファーには必要ありません。割引は自動で適用されます。Hostingerは一部のチャネルで専用コードのプロモーションがあるとしていますが、この記事ではコードは取り上げていません。",
+          "**Hostingerのブラックフライデーはいつまでですか？** 2026年12月14日までです。2026年10月19日に確認した公式FAQによります。",
+          "**ブラックフライデーの価格は更新時も続きますか？** いいえ。契約の最初の期間にだけ適用されます。更新はそのプランの通常料金です。",
+          "**紹介リンクはキャンペーンより安いですか？** 紹介リンクは、キャンペーン価格から20％割り引く仕組みです。価格は変わるため、支払う前に最初の期間の合計を比べてください。",
+          "**ブラックフライデーでも返金保証はありますか？** FAQによると、対象プランには30日間の保証があり、条件と除外事項があります。除外事項は[Hostingerは信頼できますか？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
+        ]
+      },
+      {
+        "heading": "透明性について",
+        "paragraphs": [
+          "この記事では、このサイトをホスティングしている会社Hostingerの紹介リンクを使用しています。紹介によってBrunoにクレジットが入ることがありますが、あなたに追加費用はかかりません。割引の内容は、リンクを開いてカートで確認してください。この記事には金額は載せていません。価格とキャンペーンは変わるため、日付と割引率は保証ではありません。支払う前に、リンクから地域の料金ページとカートで確認してください。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "紹介リンクでプランを見て、支払う前にキャンペーンの合計と比べてください。",
+      "label": "割引つきのプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介によってBrunoにクレジットが入ることがありますが、あなたに追加費用はかかりません。キャンペーンの価格はリンクの価格と違うことがあるので、支払う前に比べてください。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、自動更新、申し込み前に確認すること"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-ja",
+        "title": "Hostinger の Trustpilot 評価、苦情、数字が示すこと"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerのクーポンは不要です：紹介リンクで受けられる割引"
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "slug": "hostinger-black-friday-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-black-friday",
+    "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？",
+    "seoTitle": "2026 Hostinger 黑色星期五：促銷還是推薦連結？",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 黑色星期五活動從 2026 年 10 月 19 日到 12 月 14 日。這裡說明如何比較活動價與推薦連結、續訂價格，以及付款前怎麼確認。",
+    "metaDescription": "2026 Hostinger 黑色星期五：10/19 至 12/14 活動，有無推薦連結的價格與續訂價格。付款前先比較。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "深色畫面，寫著 Black Friday 2026，並列出 19.10 至 14.12 的日期",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 黑色星期五活動從 2026 年 10 月 19 日進行到 12 月 14 日，日期依據 Hostinger 官方 FAQ。主要優惠不需要輸入代碼。推薦連結會在活動價上再優惠 20%，所以首個計費期間透過連結購買，會比只看活動價便宜。活動期間價格仍可能變動，付款前請比較兩者。"
+        ],
+        "bullets": [
+          "**期間：** 2026 年 10 月 19 日至 12 月 14 日。",
+          "**價格：** 透過推薦連結，活動價會再減 20%，且只適用首個計費期間。實際金額請在你所在地區的價格頁面查看。",
+          "**哪個便宜：** 首個期間，透過連結通常比只看活動價低。",
+          "**續訂：** 活動價只適用首個期間。續訂時，會收取該方案的一般價格。"
+        ]
+      },
+      {
+        "heading": "Hostinger 黑色星期五已經開始了嗎？",
+        "paragraphs": [
+          "是的，已經開始。Hostinger 官方 FAQ 寫明：「Hostinger 黑色星期五促銷活動於 2026 年 10 月 19 日至 12 月 14 日舉行。」英文全球頁面也列出同樣的日期。",
+          "活動頁面上的橫幅數字是最高值，不代表每個方案都有同樣的折扣。VPS 不在本文計算範圍內，原因稍後說明。",
+          "本文只談 2026 年的活動，過往的活動不納入。我們查閱的來源給出的日期與折扣各不相同，而且都不是 Hostinger 自己的資料。"
+        ]
+      },
+      {
+        "heading": "如何比較活動價與推薦連結",
+        "paragraphs": [
+          "算法很簡單：推薦連結會在活動期間頁面顯示的價格上再減 20%，且只適用首個計費期間。價格會因方案、期間與地區而不同，所以本文不列出金額。",
+          "我們沒有比較 VPS 或其他計費期間的價格，因此對這些不作任何判斷。"
+        ],
+        "postParagraphs": [
+          "推薦連結為何不能與其他優惠疊加，以及續訂時折扣如何處理，請見 [Hostinger 推薦連結說明](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "哪些人應該等，哪些人不必等",
+        "paragraphs": [
+          "如果你這週就需要網站上線，就不要等。使用推薦連結，首個期間的價格已經比只看活動價低。",
+          "如果可以等，活動會持續到 12 月 14 日，但在此之前任何價格都不保證。推薦連結的折扣以活動價為基礎，活動價變動，連結價格也會跟著變。",
+          "對大多數個人、公司與 WordPress 網站，同一份 FAQ 建議 Premium。Single 則是頁面形容適合初學者或簡單專案的方案。我們沒有為 VPS 做比較：無論有沒有連結，我們都沒有查看 VPS 價格。",
+          "如果你已經是客戶，情況不同。FAQ 表示，現有客戶可能收到獨立的升級與交叉銷售優惠；推薦連結只適用於新方案，不適用於續訂或已完成的購買。管理本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱超過 24 個月。他的方案包括 Business 主機、VPS KVM 2、電子郵件與網域，全部自動續訂。Em Casa com Cecília 網站也是架設在 Hostinger 上。"
+        ]
+      },
+      {
+        "heading": "付款前如何確認",
+        "bullets": [
+          "從[本站的 Hostinger 商店頁面](/zh-hant/coupons/hostinger)進入，再按推薦按鈕前往。",
+          "用無痕視窗直接開啟 Hostinger，不經過連結，選擇相同方案與相同期間，記下首個期間的總價；再從連結開啟同一方案，比較兩個總價。",
+          "比較首個期間的總價，而不只是每月價格。總價才能看出實際差異。",
+          "下單前確認續訂價格。Hostinger 會在付款前顯示，而且那不是活動價。"
+        ],
+        "postParagraphs": [
+          "付款前，公司的投訴紀錄見 [Hostinger 在 Trustpilot 的評價](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)；保證涵蓋什麼、不包括什麼，見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-zh-hant.webp",
+            "alt": "比較首個期間使用 20% 連結折扣，以及之後以標準價續訂的圖表",
+            "caption": "首個期間透過推薦連結享 20% 折扣，之後續訂為標準價。圖片：Em Casa com Cecília 圖表。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "**Hostinger 黑色星期五需要代碼嗎？** 主要優惠不需要，折扣會自動套用。Hostinger 表示部分管道會有自己的代碼促銷，本文不列出任何代碼。",
+          "**Hostinger 黑色星期五活動到什麼時候？** 到 2026 年 12 月 14 日，依據 2026 年 10 月 19 日查看的官方 FAQ。",
+          "**黑色星期五價格會延續到續訂嗎？** 不會。它只適用於訂閱的首個期間，續訂收取該方案的一般價格。",
+          "**推薦連結比活動價便宜嗎？** 是的。推薦連結在首個期間會在活動價上再減 20%。價格會變動，付款前請比較。",
+          "**黑色星期五期間仍有退款保證嗎？** 依據 FAQ，符合條件的方案有 30 天保證，但有條款與例外。例外項目見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "透明度說明",
+        "paragraphs": [
+          "本文使用 Hostinger 的推薦連結。Hostinger 是託管本站 Em Casa com Cecília 的公司。透過推薦，Bruno 可能獲得 Hostinger 的帳戶額度，你不需額外付費，折扣也就是連結上顯示的內容。本文不列出金額。價格與活動都會變動，本文的數字不是保證，請在付款前透過連結查看所在地區的價格頁面與購物車。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "透過推薦連結查看方案，付款前先與活動總價比較。",
+      "label": "查看折扣方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "透過推薦，Bruno 可能獲得 Hostinger 的帳戶額度，你不需額外付費。活動價可能與連結價格不同，付款前請比較。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hant",
+        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "slug": "hostinger-black-friday-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-black-friday",
+    "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？",
+    "seoTitle": "2026 Hostinger 黑色星期五：促销还是推荐链接？",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 黑色星期五活动从 2026 年 10 月 19 日到 12 月 14 日。这里说明如何比较活动价与推荐链接、续费价格，以及付款前怎么确认。",
+    "metaDescription": "2026 Hostinger 黑色星期五：10/19 至 12/14 活动，有无推荐链接的价格与续费价格。付款前先比较。",
+    "publishedAt": "2026年10月19日",
+    "publishedAtISO": "2026-10-19",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
+    "imageAlt": "深色画面，写着 Black Friday 2026，并列出 19.10 至 14.12 的日期",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 黑色星期五活动从 2026 年 10 月 19 日进行到 12 月 14 日，日期依据 Hostinger 官方 FAQ。主要优惠不需要输入代码。推荐链接会在活动价上再优惠 20%，所以首个计费周期通过链接购买，会比只看活动价便宜。活动期间价格仍可能变动，付款前请比较两者。"
+        ],
+        "bullets": [
+          "**时间：** 2026 年 10 月 19 日至 12 月 14 日。",
+          "**价格：** 通过推荐链接，活动价会再减 20%，且只适用于首个计费周期。实际金额请在你所在地区的价格页面查看。",
+          "**哪个便宜：** 首个周期，通过链接通常比只看活动价低。",
+          "**续费：** 活动价只适用于首个周期。续费时，会收取该套餐的一般价格。"
+        ]
+      },
+      {
+        "heading": "Hostinger 黑色星期五已经开始了吗？",
+        "paragraphs": [
+          "是的，已经开始。Hostinger 官方 FAQ 写明：“Hostinger 黑色星期五促销活动于 2026 年 10 月 19 日至 12 月 14 日举行。”英文全球页面也列出同样的日期。",
+          "活动页面上的横幅数字是最高值，不代表每个套餐都有同样的折扣。VPS 不在本文计算范围内，原因稍后说明。",
+          "本文只谈 2026 年的活动，过往的活动不纳入。我们查阅的来源给出的日期与折扣各不相同，而且都不是 Hostinger 自己的资料。"
+        ]
+      },
+      {
+        "heading": "如何比较活动价与推荐链接",
+        "paragraphs": [
+          "算法很简单：推荐链接会在活动期间页面显示的价格上再减 20%，且只适用于首个计费周期。价格会因套餐、周期与地区而不同，所以本文不列出金额。",
+          "我们没有比较 VPS 或其他计费周期的价格，因此对这些不作任何判断。"
+        ],
+        "postParagraphs": [
+          "推荐链接为何不能与其他优惠叠加，以及续费时折扣如何处理，请见 [Hostinger 推荐链接说明](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "哪些人应该等，哪些人不必等",
+        "paragraphs": [
+          "如果你这周就需要网站上线，就不要等。使用推荐链接，首个周期的价格已经比只看活动价低。",
+          "如果可以等，活动会持续到 12 月 14 日，但在此之前任何价格都不保证。推荐链接的折扣以活动价为基础，活动价变动，链接价格也会跟着变。",
+          "对大多数个人、公司与 WordPress 网站，同一份 FAQ 建议 Premium。Single 则是页面形容适合初学者或简单项目的套餐。我们没有为 VPS 做比较：无论有没有链接，我们都没有查看 VPS 价格。",
+          "如果你已经是客户，情况不同。FAQ 表示，现有客户可能收到独立的升级与交叉销售优惠；推荐链接只适用于新套餐，不适用于续费或已完成的购买。管理本站的 Bruno 自 2024 年起就是 Hostinger 客户，订阅超过 24 个月。他的套餐包括 Business 主机、VPS KVM 2、电子邮件与域名，全部自动续费。Em Casa com Cecília 网站也是架设在 Hostinger 上。"
+        ]
+      },
+      {
+        "heading": "付款前如何确认",
+        "bullets": [
+          "从[本站的 Hostinger 商店页面](/zh-hans/coupons/hostinger)进入，再按推荐按钮前往。",
+          "用无痕窗口直接打开 Hostinger，不经过链接，选择相同套餐与相同周期，记下首个周期的总价；再从链接打开同一套餐，比较两个总价。",
+          "比较首个周期的总价，而不只是每月价格。总价才能看出实际差异。",
+          "下单前确认续费价格。Hostinger 会在付款前显示，而且那不是活动价。"
+        ],
+        "postParagraphs": [
+          "付款前，公司的投诉记录见 [Hostinger 在 Trustpilot 的评价](/zh-hans/reviews/hostinger-trustpilot-reviews-zh-hans)；保障涵盖什么、不包括什么，见 [Hostinger 可靠吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-zh-hans.webp",
+            "alt": "比较首个周期使用 20% 链接折扣，以及之后以标准价续费的图表",
+            "caption": "首个周期通过推荐链接享 20% 折扣，之后续费为标准价。图片：Em Casa com Cecília 图表。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "**Hostinger 黑色星期五需要代码吗？** 主要优惠不需要，折扣会自动套用。Hostinger 表示部分渠道会有自己的代码促销，本文不列出任何代码。",
+          "**Hostinger 黑色星期五活动到什么时候？** 到 2026 年 12 月 14 日，依据 2026 年 10 月 19 日查看的官方 FAQ。",
+          "**黑色星期五价格会延续到续费吗？** 不会。它只适用于订阅的首个周期，续费收取该套餐的一般价格。",
+          "**推荐链接比活动价便宜吗？** 是的。推荐链接在首个周期会在活动价上再减 20%。价格会变动，付款前请比较。",
+          "**黑色星期五期间仍有退款保障吗？** 依据 FAQ，符合条件的套餐有 30 天保障，但有条款与例外。例外项目见 [Hostinger 可靠吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "透明度说明",
+        "paragraphs": [
+          "本文使用 Hostinger 的推荐链接。Hostinger 是托管本站 Em Casa com Cecília 的公司。通过推荐，Bruno 可能获得 Hostinger 的账户额度，你不需额外付费，折扣也就是链接上显示的内容。本文不列出金额。价格与活动都会变动，本文的数字不是保证，请在付款前通过链接查看所在地区的价格页面与购物车。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "通过推荐链接查看套餐，付款前先与活动总价比较。",
+      "label": "查看折扣套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "通过推荐，Bruno 可能获得 Hostinger 的账户额度，你不需额外付费。活动价可能与链接价格不同，付款前请比较。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-trustpilot-reviews-zh-hans",
+        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      }
+    ]
   }
 ];
