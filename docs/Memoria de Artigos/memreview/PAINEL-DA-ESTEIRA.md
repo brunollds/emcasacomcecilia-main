@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[black-skull-ou-growth]] — Black Skull, série 1 a 1 contra a Growth de 18/10 (Score Aut: 72 / Conv: 60)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-skull-ou-growth]] — Black Skull, série 1 a 1 contra a Growth de 18/10 — texto aprovado em 18/10, JSON pronto, espera deploy
 
 ---
 

@@ -74,3 +74,4 @@ A Nutren Creatina é uma opção de creatina monohidratada com porção declarad
 1. Sincronizar a branch local, hoje oito commits atrás de `origin/main`, sem sobrescrever trabalho concorrente.
 2. Só depois da sincronização, regenerar `content/reviews/_manifest.json` e `src/lib/generated/content-index.ts` pelo fluxo oficial.
 3. Validadores focados, typecheck e build de 310 páginas passaram em 28/08/2026; repetir após sincronizar com `origin/main`.
+- 18/10/2026: preço da Growth atualizado para R$ 44,90 no Pix/boleto e R$ 49,88 no cartão (R$ 17,96 e R$ 19,95 por 100 g); Growth fica um centavo abaixo da Nutren com CECI de 10% e o texto de compra e a FAQ foram ajustados; a linha da Growth na tabela de fontes ainda cita o preço de 27/08.
