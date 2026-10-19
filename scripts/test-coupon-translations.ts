@@ -110,6 +110,22 @@ for (const locale of TRANSLATED_LOCALES) {
   }
 }
 
+// Hostinger fora do PT: o mesmo SONARDEOFERTAS no site internacional (o PT segue no /br, conferido em
+// test-coupon-offer-modes). O código vai no link e nenhum texto manda digitá-lo.
+const HOSTINGER_GLOBAL_LINK = 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS';
+assert.ok(translatedSlugs.includes('hostinger'), 'Hostinger deve ter páginas em outros idiomas');
+for (const locale of TRANSLATED_LOCALES) {
+  const hostinger = getLocalizedCoupon('hostinger', locale);
+  assert.ok(hostinger);
+  assert.equal(hostinger.offerUrl, HOSTINGER_GLOBAL_LINK, `hostinger/${locale}: link principal não é o global`);
+  assert.equal(hostinger.referral, undefined, `hostinger/${locale}: indicação sem código de indicação na página`);
+  assert.equal(hostinger.campaigns, undefined, `hostinger/${locale}: indicação sem campanhas`);
+  assert.match(hostinger.linkNote ?? '', /20/, `hostinger/${locale}: o aviso não diz que os 20% são só do primeiro período`);
+  for (const [path, text] of leaves(hostinger)) {
+    if (!isUrl(text)) assert.ok(!text.includes('SONARDEOFERTAS'), `hostinger/${locale}: código no texto de ${path}`);
+  }
+}
+
 console.log(
   `✅ coupon translations: ${translatedSlugs.join(', ')} em ${TRANSLATED_LOCALES.length} idiomas além do PT; códigos, datas e campanhas iguais ao PT.`
 );
