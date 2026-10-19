@@ -25,6 +25,17 @@ Todo parceiro novo começa com três artigos: "Loja X é confiável?", "Loja X n
 | 3 | Black Skull (`CECILIA10`) — **briefings criados em 14/10/2026:** [[black-skull-e-confiavel]], [[black-skull-reclame-aqui-nota-reputacao]] e [[cupom-black-skull-como-usar]] | é confiável?; Reclame Aqui; cupom: como usar | "black skull é boa / é confiável / é brasileira / é da integralmedica / é aprovado pela anvisa"; "black skull cupom primeira compra" | **Decisão do Bruno (14/10/2026): não entra.** O banimento de 19 manipulados pela Anvisa em fevereiro de 2025 (farmácia, não a linha regular) fica fora do artigo. O onboarding é só a apresentação básica da loja |
 | 4 | Lejour (sem código; só o nosso link de indicação) — **briefings criados em 14/10/2026:** [[lejour-e-confiavel]], [[lejour-reclame-aqui-nota-reputacao]], [[lejour-como-funciona]] e [[lista-de-casamento-lejour-como-criar]] | é confiável?; Reclame Aqui; o que é a Lejour e como funciona; como criar a lista de casamento na Lejour | "lejour é confiável", "lejour reclame aqui", "lejour como funciona", "lejour lista de casamento / de presentes" | 4 artigos (Bruno, 13/10). O "como usar" vira "como criar a lista", com o link de indicação. O "o que é" junta "como funciona", para os dois não concorrerem. Planos e taxas pela tabela do Bruno de 13/10 |
 
+## Série 1 a 1 contra a Growth (Bruno, 18/10/2026)
+
+Comparativos de cada parceira de suplemento com a Growth, a referência de preço (não parceira: sem link de afiliado nem cupom). O autocompletar de 18/10/2026 traz "<marca> ou growth" com "qual o melhor", "whey" e "creatina" para as quatro. Depois da série vem a pauta 7 acima (cafeteira para escritório).
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| 1 | Black Skull ou Growth (a parceira que menos vende) | **Briefing criado em 18/10/2026:** [[black-skull-ou-growth]] |
+| 2 | Max Titanium ou Growth | Sem briefing; o autocompletar também traz "hipercalórico" e "whey 3W" |
+| 3 | Probiótica ou Growth | Sem briefing |
+| 4 | Dux ou Growth | Depois; a Dux ainda não está no `couponsData.ts` |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
@@ -36,7 +47,6 @@ Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda
 | Prazo de entrega da loja Dolce Gusto | Copilot: "prazo de entrega Dolce Gusto Brasil" (82 citações) e "prazos de entrega" (18) | AI Search Queries do Bing, 12/10/2026 | Seção do `dolce-gusto-e-confiavel` | Com a sessão de melhorias: conferir se ela já cobriu |
 | Quantas xícaras por dia uma máquina Dolce Gusto aguenta | Copilot: 10 citações em espanhol e 3 em português de Portugal; Bing: "quantas chávenas por dia suporta" | Bing, 12/10/2026 | FAQ num guia de máquinas | Só com fonte oficial (manual ou atendimento); hoje não há |
 | Dr. Peanut é saudável? Calorias, açúcar e lactose | Autocompletar de 14/10/2026: "dr peanut é saudável / é calórico / é zero lactose / é zero açúcar / é bom para dieta / é bom para emagrecer" (a maior parte das sugestões de "dr peanut é") | Pesquisa do onboarding da Dr. Peanut | Guia com a tabela nutricional oficial, sem claim de emagrecimento | Depois do onboarding das quatro lojas |
-| Lejour ou iCasei | Autocompletar de 13/10/2026: "lejour ou icasei" | Pesquisa do onboarding da Lejour | Comparativo de decisão de compra | Depois do onboarding da Lejour (Bruno, 14/10/2026: o onboarding é só o básico para apresentar a loja) |
 | Lava e seca Samsung ou LG | Rodada do GSC de 11/10/2026 | Pautas de decisão de compra | Comparativo | Recusada em 11/10/2026: eletro de marketplace não é foco. Volta se a parceria de eletrodomésticos fechar |
 
 ## Sinais de otimização de artigos publicados (12/10/2026)

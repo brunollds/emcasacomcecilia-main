@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[black-skull-ou-growth]] — Black Skull, série 1 a 1 contra a Growth de 18/10 (Score Aut: 72 / Conv: 60)
 
 ---
 
