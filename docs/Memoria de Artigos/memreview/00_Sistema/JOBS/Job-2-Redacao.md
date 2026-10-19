@@ -19,6 +19,10 @@ Transformar o Briefing aprovado em um rascunho completo de artigo, no tom "Vida 
 
 ---
 
+7. **Imagens no corpo (mínimo obrigatório):** todo artigo leva **pelo menos uma imagem no corpo além da capa (hero)**. Isso é o piso, não a meta: quanto mais imagens, melhor, desde que nenhuma se repita e todas sejam do tema da seção. O rascunho traz um **Plano de imagens**: para cada imagem, a seção onde entra, o que mostra, a origem (foto da marca, embalagem, rótulo, print da loja, montagem ou quadro feito por nós) e uma sugestão de alt e de legenda. Boas candidatas: fotos oficiais dos produtos, rótulo ou tabela nutricional, montagem comparativa, quadro de preços e print da loja recortado sem barras de campanha. A opção de capa que não for escolhida pode entrar no corpo, se couber no tema. Artigo só com a capa não sai do Job 2 (regra do Bruno, 18/10/2026).
+
+---
+
 ## 3. Matriz de Claims
 O redator deve preencher a matriz de claims no rodapé da nota para facilitar a auditoria do Job 3.
 
