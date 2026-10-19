@@ -22,6 +22,7 @@ import {
   structuredIngredientToText,
 } from '@/lib/content';
 import { COUPONS } from '@/lib/couponsData';
+import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
 
 interface ValidationError {
   type: 'recipe' | 'review';
@@ -400,6 +401,22 @@ for (const review of reviews) {
         slug: review.slug,
         message: 'plainTextBody com markdown cru ("](" ou "**"): o áudio leria a marcação, e a página também a mostra',
       });
+    }
+    // O FAQ corta a pergunta no primeiro "?": "**Pergunta?** resposta" vira a pergunta "**Pergunta?" e a
+    // resposta "** resposta", e os asteriscos aparecem no acordeão e no FAQPage.
+    for (const section of review.contentSections || []) {
+      if (!isFaqHeading(section.heading)) continue;
+      for (const bullet of section.bullets || []) {
+        const item = parseFaqBullet(bullet);
+        if (item && (item.question.includes('**') || item.answer.startsWith('**'))) {
+          reportError({
+            type: 'review',
+            id: review.id,
+            slug: review.slug,
+            message: `FAQ com a pergunta em negrito (escreva "Pergunta? resposta", sem **): ${bullet.slice(0, 60)}`,
+          });
+        }
+      }
     }
   } catch (err) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: `normalizeReview falhou: ${err instanceof Error ? err.message : String(err)}` });
