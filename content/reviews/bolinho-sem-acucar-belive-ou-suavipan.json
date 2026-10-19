@@ -48,6 +48,13 @@
       "paragraphs": [
         "Dados das páginas oficiais e, no caso da Suavipan, da página do produto na Drogasil, lidos em 17/10/2026."
       ],
+      "image": {
+        "src": "/images/reviews/suavipan/suavipan-kit-12-bolinhos-zero-chocolate-pagina-2026-10-19.webp",
+        "alt": "Página do Kit 12 Bolinhos Zero Adição de Açúcar sabor Chocolate no site da Suavipan, com as fotos da embalagem, o preço de R$ 62,90 e o botão Comprar",
+        "caption": "A página do kit de 12 bolinhos Zero de chocolate no site da Suavipan, por R$ 62,90. Print de 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 2.459
+      },
       "comparisonTable": {
         "headers": [
           "",
@@ -114,6 +121,13 @@
       "paragraphs": [
         "Tabela nutricional da página do produto, porção de 40 g (1 unidade), lida em 17/10/2026."
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
+        "alt": "Aba Tabela Nutricional da página do bolinho de chocolate da Belive, com a informação nutricional por 100 g e por porção de 40 g: 123 kcal, 16 g de carboidratos e 0 g de açúcares totais e adicionados",
+        "caption": "A tabela nutricional do bolinho de chocolate na página do produto da Belive: 123 kcal e 0 g de açúcares por unidade de 40 g. Print de 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9479
+      },
       "comparisonTable": {
         "headers": [
           "Item",
@@ -167,6 +181,13 @@
       "paragraphs": [
         "Os dois bolinhos usam maltitol, mas não são adoçados do mesmo jeito."
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp",
+        "alt": "Aba Ingredientes da página do bolinho de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
+        "caption": "A lista de ingredientes do bolinho de chocolate da Belive: maltitol e glicosídeos de esteviol como edulcorantes, sorbitol e glicerol como umectantes. Print de 19/10/2026; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 2.4641
+      },
       "bullets": [
         "**Belive:** edulcorantes maltitol e glicosídeos de esteviol, com sorbitol e glicerol como umectantes. A descrição da loja fala em stévia; a lista cita os dois edulcorantes.",
         "**Suavipan:** maltitol, sorbitol e glicerina na massa, e sucralose e acessulfame de potássio como edulcorantes. O recheio leva maltodextrina, amido e cacau, além de sorbitol e sucralose. A arte da embalagem diz \"adoçado com maltitol\"."
@@ -178,7 +199,14 @@
         "A Belive declara o bolinho sem glúten, sem leite e sem lactose. A massa é feita com farinha de arroz, farinha integral de soja, farinha de quinoa, fécula de mandioca e amido modificado. A lista avisa: contém derivados de soja e ovo, e não contém glúten.",
         "A Suavipan leva farinha de trigo e leite em pó desnatado. A lista avisa: contém glúten, e contém ovo e derivados de trigo, soja e leite.",
         "Quem tem alergia, intolerância ou doença celíaca deve ler o rótulo da embalagem na hora da compra."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/belive-tabela-alergenicos-bolinhos-e-bolos.webp",
+        "alt": "Recorte da tabela de alergênicos da Belive com as linhas dos bolinhos e dos bolos marcadas em ovo e soja e vazias em glúten, leite, amendoim e castanhas",
+        "caption": "Recorte da tabela de alergênicos da Belive, nas linhas dos bolinhos e bolos: contêm ovo e soja, sem glúten e sem leite. Print de 19/10/2026; o recorte é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6438
+      }
     },
     {
       "heading": "Preço por unidade",

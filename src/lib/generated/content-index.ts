@@ -55224,6 +55224,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Cada código dá um desconto fixo em reais, a partir de um valor mínimo de produtos vendidos e entregues pelo Magalu. Use sempre o código da maior faixa que o carrinho alcançar."
         ],
+        "image": {
+          "src": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
+          "alt": "Revisão do pedido no Magalu com o cupom 50EMCASACOMCECILIA aplicado e o desconto de R$ 50,00 no resumo",
+          "caption": "Revisão do pedido com o código 50EMCASACOMCECILIA aplicado: R$ 50 a menos num produto vendido e entregue pelo Magalu.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8123
+        },
         "comparisonTable": {
           "caption": "Códigos da Cecília na loja Magazine Você, conferidos em 1º de outubro de 2026. O desconto vale nos produtos, não no frete.",
           "headers": [
@@ -55321,7 +55328,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os códigos da Cecília só funcionam pelo navegador, no celular ou no computador, na loja Magazine Você da Cecília. O login é a mesma conta Magalu do site e do app.",
           "As ofertas que o Magalu anuncia só no app, como as antecipadas, o 11.11 e as que chegam por notificação, ficam fora do código. Antes de pagar, compare o preço do app sem o código com o preço do navegador com o código da sua faixa."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+          "alt": "Barra de endereço com magazinevoce.com.br/magazineemcasacomcecilia/ e o topo da loja Emcasacomcecilia com o selo Influenciador Magalu, os dois destacados em amarelo",
+          "caption": "A loja da Cecília no navegador, em magazinevoce.com.br/magazineemcasacomcecilia/. Print de 13/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.5311
+        }
       },
       {
         "heading": "Preços de outubro para comparar",
@@ -83760,6 +83774,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A página Black November, em belivebefree.com.br, mostrava em 16/10/2026 o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
+          "alt": "Página Black November do site da Belive, com o logo e a faixa Receba ofertas exclusivas na Black November da Belive",
+          "caption": "A página Black November da Belive em 19/10/2026: o convite para receber as ofertas, sem preços nem datas.",
+          "objectFit": "contain",
+          "aspectRatio": 3.3333
+        },
         "postParagraphs": [
           "A loja não divulgou datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.",
           "Em 16/10/2026, a busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
@@ -83771,6 +83792,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Estes são os preços que a página de cada produto mostrava em 16/10/2026. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
         ],
+        "image": {
+          "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
+          "alt": "Embalagens de cinco doces sem açúcar da Belive: bolinho de baunilha, brownie de chocolate, brownie proteico de chocolate com avelã, pão de mel e bolo de chocolate",
+          "caption": "Bolinho, brownies, pão de mel e bolo sem açúcar da Belive, alguns dos produtos da tabela.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preços de página dos produtos da Belive em 16 de outubro de 2026, com Pix, MAUAD e os dois somados.",
           "headers": [
@@ -83850,6 +83878,13 @@ export const reviewsData: unknown[] = [
           "O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
           "No teste de checkout de 16/10/2026, o carrinho tinha quatro combos e kits com selo de oferta:"
         ],
+        "image": {
+          "src": "/images/reviews/belive/cupom-belive-resumo-desconto.webp",
+          "alt": "Resumo do pedido da Belive depois do cupom, com o desconto de R$ 57,68, o total de R$ 519,14 e o total no Pix de R$ 493,18 marcados em amarelo",
+          "caption": "O resumo do pedido do teste de 16/10/2026: desconto de R$ 57,68, total de R$ 519,14 e Pix de R$ 493,18. O marca-texto amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2403
+        },
         "comparisonTable": {
           "caption": "Teste de checkout na Belive em 16 de outubro de 2026, com quatro combos e kits em oferta.",
           "headers": [
@@ -83884,6 +83919,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O frete grátis depende do estado. Segundo a página de regras de frete, o valor mínimo do pedido é:"
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a faixa de frete grátis e a vitrine de doces, snacks e pães sem glúten",
+          "caption": "A página inicial da Belive em 16/10/2026, com a faixa do frete grátis acima de R$ 170 e dos 5% extra no Pix.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "SP, MG, RJ, DF e GO: a partir de R$ 170.",
           "Sul: a partir de R$ 250.",
@@ -87646,6 +87688,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A tabela nutricional, a lista de ingredientes e a frente da embalagem respondem coisas diferentes. Leia nesta ordem:"
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
+          "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
+          "caption": "A tabela nutricional do pão de mel da Belive, com a porção de 45 g e os açúcares totais e adicionados. Print da página do produto, 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        },
         "bullets": [
           "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
           "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
@@ -87711,12 +87760,56 @@ export const reviewsData: unknown[] = [
           "Os seis doces da Belive trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. Glicosídeo de esteviol é o nome técnico do adoçante da stévia. O maltitol vem antes dele na lista, e a ordem da lista segue a quantidade de cada ingrediente. Três dos seis também levam **sorbitol** como umectante: o brownie proteico com avelã, o bolinho de baunilha e o bolo de chocolate. O brownie de chocolate, o cookie e o pão de mel não levam.",
           "A descrição da loja fala em \"adoçado naturalmente com stévia\". O rótulo é mais completo e cita os dois edulcorantes.",
           "O rótulo não separa o maltitol e o sorbitol da linha de carboidratos. Ele mostra só \"Carboidratos\" e \"Açúcares\", e não diz quanto dos 18 g de um brownie vem de cada ingrediente."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
+          "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+          "caption": "A lista de ingredientes do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.7088
+        }
       },
       {
         "heading": "Os seis doces da Belive lidos pelo rótulo",
         "paragraphs": [
           "Tabelas nutricionais e listas de ingredientes das páginas de produto, lidas em 17/10/2026. Preço da unidade no site oficial no mesmo dia, sem o cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
+            "alt": "Tabela nutricional do brownie de chocolate da Belive: 124 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
+            "caption": "Brownie de chocolate: 124 kcal e 0 g de açúcares por unidade de 40 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9479
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-avela.webp",
+            "alt": "Tabela nutricional do brownie proteico de chocolate com avelã da Belive: 144 kcal, 16 g de carboidratos e 0 g de açúcares por porção de 40 g",
+            "caption": "Brownie proteico de chocolate com avelã: 144 kcal e 0 g de açúcares por unidade de 40 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9592
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-baunilha.webp",
+            "alt": "Tabela nutricional do bolinho de baunilha da Belive: 128 kcal, 18 g de carboidratos e 0 g de açúcares por porção de 40 g",
+            "caption": "Bolinho de baunilha: 128 kcal e 0 g de açúcares por unidade de 40 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9592
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-cookie-chocolate-avela.webp",
+            "alt": "Tabela nutricional do cookie de chocolate e avelã da Belive: 113 kcal, 17 g de carboidratos e 0 g de açúcares por porção de 30 g",
+            "caption": "Cookie de chocolate e avelã: 113 kcal e 0 g de açúcares por porção de 30 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9592
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-bolo-chocolate.webp",
+            "alt": "Tabela nutricional do bolo de chocolate da Belive: 182 kcal, 24 g de carboidratos e 0 g de açúcares por porção de 60 g",
+            "caption": "Bolo de chocolate: 182 kcal e 0 g de açúcares por porção de 60 g (2 fatias).",
+            "objectFit": "contain",
+            "aspectRatio": 0.9592
+          }
         ],
         "comparisonTable": {
           "headers": [
@@ -87807,7 +87900,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Belive vende no site oficial, belivebefree.com.br. O cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive).",
           "O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom. Quem quer saber mais sobre a loja antes de comprar pode ler [se a Belive é confiável](/reviews/belive-e-confiavel)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+          "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces sem açúcar.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Perguntas frequentes",
@@ -87903,6 +88003,22 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A diferença está na proteína. Os comuns têm de 1,6 g a 2 g de proteína por unidade. Os proteicos têm 5 g ou 6 g, porque a massa leva proteínas isoladas de soja, arroz e, em alguns sabores, ervilha. Os comuns usam farinha de arroz, amido de milho e fécula de mandioca.",
           "O carboidrato muda menos. Os comuns têm de 16 g a 22 g por unidade, e os proteicos, de 13 g a 18 g. As calorias ficam entre 121 kcal e 144 kcal nos oito. O proteico custa R$ 1,00 a mais na unidade e R$ 0,93 a mais por unidade no kit, em relação aos comuns de R$ 6,97."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-chocolate.webp",
+            "alt": "Aba Tabela Nutricional da página do brownie de chocolate da Belive, com 124 kcal, 18 g de carboidratos, 1,8 g de proteínas e 5 g de fibras por porção de 40 g",
+            "caption": "Brownie de chocolate comum: 124 kcal, 1,8 g de proteína e 5 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9479
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-brownie-proteico-double-chocolate.webp",
+            "alt": "Aba Tabela Nutricional da página do brownie proteico Double Chocolate da Belive, com 122 kcal, 13 g de carboidratos, 6 g de proteínas e 5,2 g de fibras por porção de 40 g",
+            "caption": "Brownie proteico Double Chocolate: 122 kcal, 6 g de proteína e 5,2 g de fibras por unidade de 40 g. Print da página da Belive, 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9479
+          }
         ]
       },
       {
@@ -87995,6 +88111,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-kit-10-brownies-chocolate-pagina-2026-10-19.webp",
+          "alt": "Página do Kit 10 Brownies de Chocolate da Belive com a caixa de brownies, o preço riscado de R$ 69,70, R$ 61,58 no Pix e R$ 64,82 em até 2x",
+          "caption": "O kit de 10 brownies de chocolate no site da Belive: R$ 61,58 no Pix ou R$ 64,82 no cartão, o preço da tabela. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9417
+        },
         "comparisonTable": {
           "headers": [
             "Sabor",
@@ -88092,6 +88215,13 @@ export const reviewsData: unknown[] = [
           "Os oito trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado naturalmente com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. Os quatro proteicos também levam sorbitol e glicerol como umectantes. Os comuns levam glicerol.",
           "Os alérgicos, pela lista de cada página:"
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-ingredientes-brownie-chocolate.webp",
+          "alt": "Aba Ingredientes da página do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+          "caption": "A lista de ingredientes do brownie de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 3.0151
+        },
         "bullets": [
           "Todos os oito: contêm ovo e derivados de soja. Nenhum contém glúten.",
           "Chocolate com Nozes: contém nozes. Pode conter amêndoa, amendoim, avelã, castanha-de-caju, castanha-do-pará e pistache.",
@@ -88196,6 +88326,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Dados das páginas oficiais e, no caso da Suavipan, da página do produto na Drogasil, lidos em 17/10/2026."
         ],
+        "image": {
+          "src": "/images/reviews/suavipan/suavipan-kit-12-bolinhos-zero-chocolate-pagina-2026-10-19.webp",
+          "alt": "Página do Kit 12 Bolinhos Zero Adição de Açúcar sabor Chocolate no site da Suavipan, com as fotos da embalagem, o preço de R$ 62,90 e o botão Comprar",
+          "caption": "A página do kit de 12 bolinhos Zero de chocolate no site da Suavipan, por R$ 62,90. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 2.459
+        },
         "comparisonTable": {
           "headers": [
             "",
@@ -88262,6 +88399,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Tabela nutricional da página do produto, porção de 40 g (1 unidade), lida em 17/10/2026."
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-bolinho-chocolate.webp",
+          "alt": "Aba Tabela Nutricional da página do bolinho de chocolate da Belive, com a informação nutricional por 100 g e por porção de 40 g: 123 kcal, 16 g de carboidratos e 0 g de açúcares totais e adicionados",
+          "caption": "A tabela nutricional do bolinho de chocolate na página do produto da Belive: 123 kcal e 0 g de açúcares por unidade de 40 g. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        },
         "comparisonTable": {
           "headers": [
             "Item",
@@ -88315,6 +88459,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os dois bolinhos usam maltitol, mas não são adoçados do mesmo jeito."
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp",
+          "alt": "Aba Ingredientes da página do bolinho de chocolate da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
+          "caption": "A lista de ingredientes do bolinho de chocolate da Belive: maltitol e glicosídeos de esteviol como edulcorantes, sorbitol e glicerol como umectantes. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.4641
+        },
         "bullets": [
           "**Belive:** edulcorantes maltitol e glicosídeos de esteviol, com sorbitol e glicerol como umectantes. A descrição da loja fala em stévia; a lista cita os dois edulcorantes.",
           "**Suavipan:** maltitol, sorbitol e glicerina na massa, e sucralose e acessulfame de potássio como edulcorantes. O recheio leva maltodextrina, amido e cacau, além de sorbitol e sucralose. A arte da embalagem diz \"adoçado com maltitol\"."
@@ -88326,7 +88477,14 @@ export const reviewsData: unknown[] = [
           "A Belive declara o bolinho sem glúten, sem leite e sem lactose. A massa é feita com farinha de arroz, farinha integral de soja, farinha de quinoa, fécula de mandioca e amido modificado. A lista avisa: contém derivados de soja e ovo, e não contém glúten.",
           "A Suavipan leva farinha de trigo e leite em pó desnatado. A lista avisa: contém glúten, e contém ovo e derivados de trigo, soja e leite.",
           "Quem tem alergia, intolerância ou doença celíaca deve ler o rótulo da embalagem na hora da compra."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/belive-tabela-alergenicos-bolinhos-e-bolos.webp",
+          "alt": "Recorte da tabela de alergênicos da Belive com as linhas dos bolinhos e dos bolos marcadas em ovo e soja e vazias em glúten, leite, amendoim e castanhas",
+          "caption": "Recorte da tabela de alergênicos da Belive, nas linhas dos bolinhos e bolos: contêm ovo e soja, sem glúten e sem leite. Print de 19/10/2026; o recorte é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6438
+        }
       },
       {
         "heading": "Preço por unidade",
