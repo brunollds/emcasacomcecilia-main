@@ -24,8 +24,7 @@
 
 ## 4. Em Conformação JSON (`status: em-conformacao-json`)
 *Em conversão para `content/reviews/<slug>.json` pelo Job-4.*
-- [ ] [[max-titanium-ou-growth]] — Max Titanium, série 1 a 1 contra a Growth — texto aprovado em 18/10, JSON pronto, espera deploy
-- [ ] [[probiotica-ou-growth]] — Probiótica, série 1 a 1 contra a Growth — texto aprovado em 18/10, JSON pronto, espera deploy
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -70,6 +69,8 @@
 - [x] [[bolinho-sem-acucar-belive-ou-suavipan]] — Belive / bolinho sem açúcar, Belive ou Suavipan (Score Aut: 62 / Conv: 70) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
 - [x] [[pao-de-mel-sem-acucar-belive]] — Belive / pão de mel sem açúcar (Score Aut: 70 / Conv: 82) (No ar em 18/10/2026, PR #148, release `e99fab5`) 🚀
 - [x] [[black-skull-ou-growth]] — Black Skull, série 1 a 1 contra a Growth (Score Aut: 72 / Conv: 60) (No ar em 18/10/2026, PR #151, release `4b1177e`) 🚀
+- [x] [[max-titanium-ou-growth]] — Max Titanium, série 1 a 1 contra a Growth (Score Aut: 74 / Conv: 62) (No ar em 18/10/2026, PR #155, release `e0bcc67`) 🚀
+- [x] [[probiotica-ou-growth]] — Probiótica, série 1 a 1 contra a Growth (Score Aut: 74 / Conv: 52) (No ar em 18/10/2026, PR #155, release `e0bcc67`) 🚀
 - [x] [[black-friday-damie]] — DAMIE / Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12 (No ar em 09/10/2026, PR #42; preços de 8/10; a seção da campanha da DAMIE entra em ou depois de 15/10, e os preços são reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-letseatit]] — Let's Eat It / Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀

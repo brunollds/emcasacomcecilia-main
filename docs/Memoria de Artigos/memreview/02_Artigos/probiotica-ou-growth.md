@@ -6,15 +6,15 @@ parceiro: "[[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir preços de whey e creatina na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 52
 score_ponderado_total: 74
 data_criacao: "2026-10-18"
-publicado_em: null
+publicado_em: "2026-10-18"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
@@ -263,3 +263,7 @@ As perguntas acima foram respondidas em 18/10/2026: o Bruno aceitou as recomenda
 - O refil fica com os 20 g da tabela, e o texto cita os 21 g da frente e da página (decisão do Bruno: manter a frase).
 - Imagens: capa em quadro de preços e 4 no corpo (embalagens de whey e de creatina e as tabelas do 100% Pure Whey Baunilha e da creatina 300 g), todas da Probiótica.
 - Pendências que não bloqueiam: tabela nutricional da Growth não lida (23 g da página); ingredientes do Zero Lactose não lidos; soma do cupom com o Pix não testada.
+
+### Publicação (18/10/2026)
+
+No ar em 18/10/2026 (19/10 02:56 UTC), PR #155, release `e0bcc67`, build `01a15214-8516-73f5-bc1c-ef4402f162bf`. Smoke 200 (página e imagens no CDN), sitemap e IndexNow ok.

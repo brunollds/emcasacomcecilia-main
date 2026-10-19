@@ -6,15 +6,15 @@ parceiro: "[[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "build e deploy com o GO do Bruno"
+proxima_acao: "reconferir preços de whey e creatina na última semana de outubro"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 62
 score_ponderado_total: 74
 data_criacao: "2026-10-18"
-publicado_em: null
+publicado_em: "2026-10-18"
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
@@ -313,3 +313,7 @@ Conta: por porção = preço ÷ porções; por 1.000 kcal = preço ÷ (porções
 - Preços da Max relidos por curl em 18/10/2026, iguais ao briefing. Growth: leitura do navegador de 18/10.
 - Imagens: capa em quadro de preços e 7 no corpo (embalagens de whey e de creatina, Mass Titanium 3 kg e as tabelas do Refil, do IsoWhey, da creatina 500 g e do Mass 3 kg), todas da Max Titanium.
 - Pendências que não bloqueiam: ingredientes do IsoWhey não lidos; tabela nutricional da Growth não lida (23 g da página).
+
+### Publicação (18/10/2026)
+
+No ar em 18/10/2026 (19/10 02:56 UTC), PR #155, release `e0bcc67`, build `01a15214-8516-73f5-bc1c-ef4402f162bf`. Smoke 200 (página e imagens no CDN), sitemap e IndexNow ok.
