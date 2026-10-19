@@ -68,7 +68,7 @@ aconteceu:
 | Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
-| Cupons em outros idiomas (hoje só a SHEIN) | `src/lib/couponTranslations.ts`: só texto; códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
+| Cupons em outros idiomas (hoje a SHEIN e a Hostinger) | `src/lib/couponTranslations.ts`: só texto e, quando a loja tem, o link internacional (`offerUrl`); códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` (com o `aspect` de cada vídeo); `/videos` e as páginas de vídeo montadas por `src/lib/videosHub.ts`, regras do navegador em `src/lib/videosShelf.ts` |

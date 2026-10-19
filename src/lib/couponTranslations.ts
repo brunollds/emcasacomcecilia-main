@@ -37,9 +37,10 @@ export type AffiliateOfferTranslation = {
   faqs: CouponFAQ[];
   linkInstructions: string[];
   linkNote: string;
-  referral: Pick<CouponReferral, 'label' | 'instructions'>;
+  // Só na loja com código de indicação e campanhas no cupom em PT (a SHEIN).
+  referral?: Pick<CouponReferral, 'label' | 'instructions'>;
   // Na mesma ordem de campaigns no cupom em PT.
-  campaigns: Pick<CouponCampaign, 'title' | 'description' | 'eligibility'>[];
+  campaigns?: Pick<CouponCampaign, 'title' | 'description' | 'eligibility'>[];
 };
 
 // Francês e alemão separam o número do % com espaço, que não pode quebrar a linha.
@@ -692,6 +693,558 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
   },
 };
 
+// Indicação sem código para digitar: os 20% valem só no primeiro período de plano novo e não somam
+// com outros cupons, como no PT.
+const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = {
+  en: {
+    discount: '20% off',
+    offerTypeLabel: 'referral',
+    offerTypeLabelPlural: 'referrals',
+    offerActionLabel: 'See discounted plans',
+    category: 'Web hosting and domains',
+    shortDescription: 'first term of any new plan, with the discount already in the link',
+    longDescription:
+      'A referral for anyone putting a website online: through the link, Hostinger shows its plans with 20% off the first term, with no coupon to type. Em Casa com Cecília runs on Hostinger.',
+    metaTitle: 'Hostinger discount: 20% off with a referral link',
+    metaDescription:
+      'Hostinger discount of 20% on the first term of any new plan, applied through the referral link, no coupon needed. See what it covers, renewals and what does not stack.',
+    eligibleCategories: 'First term of any new Hostinger plan, whichever product you choose',
+    validity: 'Referral active while the Hostinger referral program is running',
+    reusable: 'Does not apply: the discount comes from the link, not from a coupon',
+    shipping: 'Does not apply',
+    combinable:
+      'Does not stack with other coupons: according to Hostinger, the referral link price is already the best it offers through it',
+    aboutBrand:
+      'Hostinger is a web hosting company offering hosting plans, a website builder, VPS, domains and email. Em Casa com Cecília runs on Hostinger as a Node.js app. The link on this page is a referral: it opens Hostinger with 20% off the first term of any new plan, with no coupon to type.',
+    brandLogoAlt: 'Hostinger logo',
+    faqs: [
+      {
+        question: 'Is there a Hostinger discount coupon?',
+        answer:
+          'No coupon is needed. The referral discount is already in the link on this page and shows up in the prices on the Hostinger site.',
+      },
+      {
+        question: 'How much is the Hostinger discount through the link?',
+        answer:
+          'It is 20%, according to the Hostinger referral page on October 19, 2026, on the first term of any new plan, whichever product you choose.',
+      },
+      {
+        question: 'Does the discount apply to renewals?',
+        answer:
+          'No. The 20% only applies to the first term. After that, the plan renews at the regular price Hostinger shows under each plan card, and you can switch terms or cancel before the renewal.',
+      },
+      {
+        question: 'Does the referral discount stack with another Hostinger coupon?',
+        answer:
+          'No. Hostinger states that the referral link price is already the best it offers through it, and other coupons do not stack.',
+      },
+      {
+        question: 'Does the discount apply to existing Hostinger customers?',
+        answer:
+          'It applies to a new plan bought through the link. Plans you already have and past purchases do not get the discount.',
+      },
+      {
+        question: 'Does Em Casa com Cecília use Hostinger?',
+        answer: 'Yes. The site runs on Hostinger as a Node.js app.',
+      },
+      {
+        question: 'Does buying through the link support Em Casa com Cecília?',
+        answer: 'Yes, a purchase through the referral may earn Em Casa com Cecília a credit, at no extra cost to you.',
+      },
+    ],
+    linkInstructions: [
+      'Open Hostinger through the button: the prices on the page already include the referral discount.',
+      'Choose the plan and the term, then go to the cart through the same link.',
+      'There is no coupon to type: the discount is already tied to the link.',
+      'Check the first-term price and the renewal price in the cart before paying.',
+    ],
+    linkNote:
+      'The 20% only applies to the first term of a new plan: renewals are charged at the regular plan price, and the discount does not apply to past purchases.',
+  },
+  es: {
+    discount: '20% de descuento',
+    offerTypeLabel: 'referido',
+    offerTypeLabelPlural: 'referidos',
+    offerActionLabel: 'Ver los planes con descuento',
+    category: 'Hosting web y dominios',
+    shortDescription: 'primer período de cualquier plan nuevo, con el descuento ya incluido en el enlace',
+    longDescription:
+      'Un enlace de referido para quien va a poner un sitio web en línea: a través de él, Hostinger muestra los planes con un 20% de descuento en el primer período, sin cupón que escribir. Em Casa com Cecília funciona en Hostinger.',
+    metaTitle: 'Descuento Hostinger: 20% con el enlace de referido',
+    metaDescription:
+      'Descuento Hostinger del 20% en el primer período de cualquier plan nuevo, ya aplicado con el enlace de referido, sin cupón. Mira qué cubre, la renovación y qué no se acumula.',
+    eligibleCategories: 'Primer período de cualquier plan nuevo de Hostinger, sea cual sea el producto',
+    validity: 'Referido activo mientras el programa de referidos de Hostinger esté vigente',
+    reusable: 'No aplica: el descuento viene del enlace, no de un cupón',
+    shipping: 'No aplica',
+    combinable:
+      'No se acumula con otros cupones: según Hostinger, el precio del enlace de referido ya es el mejor que ofrece con él',
+    aboutBrand:
+      'Hostinger es una empresa de hosting web, con planes de hosting, creador de sitios web, VPS, dominios y correo electrónico. Em Casa com Cecília funciona en Hostinger, como aplicación Node.js. El enlace de esta página es un referido: abre Hostinger con un 20% de descuento en el primer período de cualquier plan nuevo, sin cupón que escribir.',
+    brandLogoAlt: 'Logotipo de Hostinger',
+    faqs: [
+      {
+        question: '¿Hay cupón de descuento de Hostinger?',
+        answer:
+          'No hace falta cupón. El descuento del referido ya viene en el enlace de esta página y aparece en los precios del sitio de Hostinger.',
+      },
+      {
+        question: '¿De cuánto es el descuento de Hostinger con el enlace?',
+        answer:
+          'Del 20%, según la página de referidos de Hostinger el 19 de octubre de 2026, en el primer período de cualquier plan nuevo, sea cual sea el producto.',
+      },
+      {
+        question: '¿El descuento vale en la renovación del plan?',
+        answer:
+          'No. El 20% solo vale en el primer período. Después, el plan se renueva al precio estándar que Hostinger muestra debajo de cada plan, y puedes cambiar el período o cancelar antes de la renovación.',
+      },
+      {
+        question: '¿El descuento del referido se acumula con otro cupón de Hostinger?',
+        answer:
+          'No. Hostinger indica que el precio del enlace de referido ya es el mejor que ofrece con él, y los demás cupones no se acumulan.',
+      },
+      {
+        question: '¿El descuento vale para quien ya es cliente de Hostinger?',
+        answer:
+          'Vale para un plan nuevo comprado con el enlace. Los planes ya contratados y las compras ya hechas no reciben el descuento.',
+      },
+      {
+        question: '¿Em Casa com Cecília usa Hostinger?',
+        answer: 'Sí. El sitio funciona en Hostinger, como aplicación Node.js.',
+      },
+      {
+        question: '¿Comprar con el enlace apoya a Em Casa com Cecília?',
+        answer: 'Sí, la compra con el referido puede generar un crédito para Em Casa com Cecília, sin costo extra para ti.',
+      },
+    ],
+    linkInstructions: [
+      'Abre Hostinger con el botón indicado: los precios de la página ya aparecen con el descuento del referido.',
+      'Elige el plan y el período y sigue al carrito con el mismo enlace.',
+      'No hace falta escribir ningún cupón: el descuento ya está vinculado al enlace.',
+      'Revisa en el carrito el precio del primer período y el de la renovación antes de pagar.',
+    ],
+    linkNote:
+      'El 20% solo vale en el primer período de un plan nuevo: la renovación se cobra al precio estándar del plan, y el descuento no vale en compras ya hechas.',
+  },
+  fr: {
+    discount: `20${NBSP}% de réduction`,
+    offerTypeLabel: 'parrainage',
+    offerTypeLabelPlural: 'parrainages',
+    offerActionLabel: 'Voir les offres avec réduction',
+    category: 'Hébergement web et noms de domaine',
+    shortDescription: 'première période de toute nouvelle offre, réduction déjà incluse dans le lien',
+    longDescription: `Un lien de parrainage pour mettre un site en ligne : grâce à lui, Hostinger affiche ses offres avec 20${NBSP}% de réduction sur la première période, sans code promo à saisir. Em Casa com Cecília est hébergé chez Hostinger.`,
+    metaTitle: `Réduction Hostinger : 20${NBSP}% avec le lien de parrainage`,
+    metaDescription: `Réduction Hostinger de 20${NBSP}% sur la première période de toute nouvelle offre, appliquée par le lien de parrainage, sans code promo. Ce qu’elle couvre, le renouvellement et ce qui ne se cumule pas.`,
+    eligibleCategories: 'Première période de toute nouvelle offre Hostinger, quel que soit le produit',
+    validity: 'Parrainage actif tant que le programme de parrainage de Hostinger est en vigueur',
+    reusable: 'Sans objet : la réduction vient du lien, pas d’un code promo',
+    shipping: 'Sans objet',
+    combinable:
+      'Ne se cumule pas avec d’autres codes promo : selon Hostinger, le prix du lien de parrainage est déjà le meilleur qu’elle propose par ce lien',
+    aboutBrand: `Hostinger est un hébergeur web qui propose des offres d’hébergement, un créateur de sites, des VPS, des noms de domaine et des e-mails. Em Casa com Cecília est hébergé chez Hostinger, en tant qu’application Node.js. Le lien de cette page est un parrainage : il ouvre Hostinger avec 20${NBSP}% de réduction sur la première période de toute nouvelle offre, sans code promo à saisir.`,
+    brandLogoAlt: 'Logo Hostinger',
+    faqs: [
+      {
+        question: 'Existe-t-il un code promo Hostinger ?',
+        answer:
+          'Aucun code promo n’est nécessaire. La réduction du parrainage est déjà dans le lien de cette page et apparaît dans les prix du site Hostinger.',
+      },
+      {
+        question: 'Quelle est la réduction Hostinger avec le lien ?',
+        answer: `20${NBSP}%, selon la page de parrainage de Hostinger au 19 octobre 2026, sur la première période de toute nouvelle offre, quel que soit le produit.`,
+      },
+      {
+        question: 'La réduction s’applique-t-elle au renouvellement ?',
+        answer: `Non. Les 20${NBSP}% ne valent que pour la première période. Ensuite, l’offre est renouvelée au prix normal que Hostinger affiche sous chaque offre, et vous pouvez changer de période ou résilier avant le renouvellement.`,
+      },
+      {
+        question: 'La réduction du parrainage se cumule-t-elle avec un autre code promo Hostinger ?',
+        answer:
+          'Non. Hostinger indique que le prix du lien de parrainage est déjà le meilleur qu’elle propose par ce lien, et les autres codes promo ne se cumulent pas.',
+      },
+      {
+        question: 'La réduction vaut-elle pour les clients actuels de Hostinger ?',
+        answer:
+          'Elle vaut pour une nouvelle offre achetée par le lien. Les offres déjà souscrites et les achats déjà effectués n’en bénéficient pas.',
+      },
+      {
+        question: 'Em Casa com Cecília utilise-t-il Hostinger ?',
+        answer: 'Oui. Le site est hébergé chez Hostinger, en tant qu’application Node.js.',
+      },
+      {
+        question: 'Acheter par le lien soutient-il Em Casa com Cecília ?',
+        answer: 'Oui, un achat par le parrainage peut rapporter un crédit à Em Casa com Cecília, sans coût supplémentaire pour vous.',
+      },
+    ],
+    linkInstructions: [
+      'Ouvrez Hostinger avec le bouton indiqué : les prix de la page incluent déjà la réduction du parrainage.',
+      'Choisissez l’offre et la période, puis allez au panier par le même lien.',
+      'Aucun code promo à saisir : la réduction est déjà liée au lien.',
+      'Vérifiez dans le panier le prix de la première période et celui du renouvellement avant de payer.',
+    ],
+    linkNote: `Les 20${NBSP}% ne valent que pour la première période d’une nouvelle offre : le renouvellement est facturé au prix normal de l’offre, et la réduction ne s’applique pas aux achats déjà effectués.`,
+  },
+  de: {
+    discount: `20${NBSP}% Rabatt`,
+    offerTypeLabel: 'Empfehlung',
+    offerTypeLabelPlural: 'Empfehlungen',
+    offerActionLabel: 'Tarife mit Rabatt ansehen',
+    category: 'Webhosting und Domains',
+    shortDescription: 'erste Laufzeit jedes neuen Tarifs, Rabatt schon im Link',
+    longDescription: `Ein Empfehlungslink für alle, die eine Website online bringen: Über ihn zeigt Hostinger die Tarife mit 20${NBSP}% Rabatt auf die erste Laufzeit, ohne Gutscheincode. Em Casa com Cecília läuft bei Hostinger.`,
+    metaTitle: `Hostinger-Rabatt: 20${NBSP}% über den Empfehlungslink`,
+    metaDescription: `Hostinger-Rabatt von 20${NBSP}% auf die erste Laufzeit jedes neuen Tarifs, direkt über den Empfehlungslink, ohne Gutscheincode. Was er abdeckt, die Verlängerung und was sich nicht kombinieren lässt.`,
+    eligibleCategories: 'Erste Laufzeit jedes neuen Hostinger-Tarifs, egal für welches Produkt',
+    validity: 'Empfehlung gültig, solange das Empfehlungsprogramm von Hostinger läuft',
+    reusable: 'Entfällt: Der Rabatt kommt über den Link, nicht über einen Gutschein',
+    shipping: 'Entfällt',
+    combinable:
+      'Nicht mit anderen Gutscheinen kombinierbar: Laut Hostinger ist der Preis über den Empfehlungslink bereits der beste, den es über diesen Link gibt',
+    aboutBrand: `Hostinger ist ein Webhosting-Anbieter mit Hosting-Tarifen, Website-Baukasten, VPS, Domains und E-Mail. Em Casa com Cecília läuft bei Hostinger als Node.js-Anwendung. Der Link auf dieser Seite ist eine Empfehlung: Er öffnet Hostinger mit 20${NBSP}% Rabatt auf die erste Laufzeit jedes neuen Tarifs, ohne Gutscheincode.`,
+    brandLogoAlt: 'Hostinger-Logo',
+    faqs: [
+      {
+        question: 'Gibt es einen Hostinger-Gutscheincode?',
+        answer:
+          'Ein Gutschein ist nicht nötig. Der Empfehlungsrabatt steckt schon im Link auf dieser Seite und erscheint in den Preisen auf der Hostinger-Website.',
+      },
+      {
+        question: 'Wie hoch ist der Hostinger-Rabatt über den Link?',
+        answer: `20${NBSP}%, laut der Empfehlungsseite von Hostinger am 19. Oktober 2026, auf die erste Laufzeit jedes neuen Tarifs, egal für welches Produkt.`,
+      },
+      {
+        question: 'Gilt der Rabatt auch bei der Verlängerung?',
+        answer: `Nein. Die 20${NBSP}% gelten nur für die erste Laufzeit. Danach verlängert sich der Tarif zum regulären Preis, den Hostinger unter jedem Tarif anzeigt, und du kannst vor der Verlängerung die Laufzeit wechseln oder kündigen.`,
+      },
+      {
+        question: 'Lässt sich der Empfehlungsrabatt mit einem anderen Hostinger-Gutschein kombinieren?',
+        answer:
+          'Nein. Laut Hostinger ist der Preis über den Empfehlungslink bereits der beste, den es über diesen Link gibt, und andere Gutscheine lassen sich nicht kombinieren.',
+      },
+      {
+        question: 'Gilt der Rabatt auch für bestehende Hostinger-Kunden?',
+        answer:
+          'Er gilt für einen neuen Tarif, der über den Link gekauft wird. Bereits gebuchte Tarife und frühere Käufe bekommen den Rabatt nicht.',
+      },
+      {
+        question: 'Nutzt Em Casa com Cecília Hostinger?',
+        answer: 'Ja. Die Website läuft bei Hostinger als Node.js-Anwendung.',
+      },
+      {
+        question: 'Unterstützt ein Kauf über den Link Em Casa com Cecília?',
+        answer: 'Ja, ein Kauf über die Empfehlung kann Em Casa com Cecília ein Guthaben einbringen, ohne Mehrkosten für dich.',
+      },
+    ],
+    linkInstructions: [
+      'Öffne Hostinger über den Button: Die Preise auf der Seite enthalten schon den Empfehlungsrabatt.',
+      'Wähle Tarif und Laufzeit und geh über denselben Link in den Warenkorb.',
+      'Es gibt keinen Gutscheincode einzugeben: Der Rabatt ist bereits an den Link gebunden.',
+      'Prüfe im Warenkorb vor dem Bezahlen den Preis der ersten Laufzeit und den Verlängerungspreis.',
+    ],
+    linkNote: `Die 20${NBSP}% gelten nur für die erste Laufzeit eines neuen Tarifs: Die Verlängerung kostet den regulären Tarifpreis, und frühere Käufe bekommen den Rabatt nicht.`,
+  },
+  it: {
+    discount: '20% di sconto',
+    offerTypeLabel: 'invito',
+    offerTypeLabelPlural: 'inviti',
+    offerActionLabel: 'Vedi i piani scontati',
+    category: 'Hosting web e domini',
+    shortDescription: 'primo periodo di qualsiasi nuovo piano, con lo sconto già nel link',
+    longDescription:
+      'Un link di invito per chi deve mettere online un sito: attraverso il link, Hostinger mostra i piani con il 20% di sconto sul primo periodo, senza codice da digitare. Em Casa com Cecília è ospitato su Hostinger.',
+    metaTitle: 'Sconto Hostinger: 20% con il link di invito',
+    metaDescription:
+      'Sconto Hostinger del 20% sul primo periodo di qualsiasi nuovo piano, già applicato dal link di invito, senza codice. Cosa copre, il rinnovo e cosa non si cumula.',
+    eligibleCategories: 'Primo periodo di qualsiasi nuovo piano Hostinger, qualunque sia il prodotto',
+    validity: 'Invito attivo finché il programma di inviti di Hostinger è in vigore',
+    reusable: 'Non applicabile: lo sconto arriva dal link, non da un codice',
+    shipping: 'Non applicabile',
+    combinable:
+      'Non si cumula con altri codici sconto: secondo Hostinger, il prezzo del link di invito è già il migliore che offre tramite quel link',
+    aboutBrand:
+      'Hostinger è un’azienda di hosting web, con piani di hosting, website builder, VPS, domini ed e-mail. Em Casa com Cecília è ospitato su Hostinger, come applicazione Node.js. Il link di questa pagina è un invito: apre Hostinger con il 20% di sconto sul primo periodo di qualsiasi nuovo piano, senza codice da digitare.',
+    brandLogoAlt: 'Logo di Hostinger',
+    faqs: [
+      {
+        question: 'Esiste un codice sconto Hostinger?',
+        answer:
+          'Non serve nessun codice. Lo sconto dell’invito è già nel link di questa pagina e compare nei prezzi del sito di Hostinger.',
+      },
+      {
+        question: 'Di quanto è lo sconto Hostinger con il link?',
+        answer:
+          'Del 20%, secondo la pagina di invito di Hostinger al 19 ottobre 2026, sul primo periodo di qualsiasi nuovo piano, qualunque sia il prodotto.',
+      },
+      {
+        question: 'Lo sconto vale anche al rinnovo?',
+        answer:
+          'No. Il 20% vale solo per il primo periodo. Poi il piano si rinnova al prezzo standard che Hostinger mostra sotto ogni piano, e puoi cambiare periodo o disdire prima del rinnovo.',
+      },
+      {
+        question: 'Lo sconto dell’invito si cumula con un altro codice Hostinger?',
+        answer:
+          'No. Hostinger dichiara che il prezzo del link di invito è già il migliore che offre tramite quel link, e gli altri codici non si cumulano.',
+      },
+      {
+        question: 'Lo sconto vale per chi è già cliente Hostinger?',
+        answer:
+          'Vale per un nuovo piano acquistato tramite il link. I piani già attivi e gli acquisti già fatti non ricevono lo sconto.',
+      },
+      {
+        question: 'Em Casa com Cecília usa Hostinger?',
+        answer: 'Sì. Il sito è ospitato su Hostinger, come applicazione Node.js.',
+      },
+      {
+        question: 'Acquistare tramite il link sostiene Em Casa com Cecília?',
+        answer: 'Sì, un acquisto tramite l’invito può generare un credito per Em Casa com Cecília, senza costi aggiuntivi per te.',
+      },
+    ],
+    linkInstructions: [
+      'Apri Hostinger con il pulsante indicato: i prezzi della pagina includono già lo sconto dell’invito.',
+      'Scegli il piano e il periodo e vai al carrello dallo stesso link.',
+      'Non c’è nessun codice da digitare: lo sconto è già legato al link.',
+      'Controlla nel carrello il prezzo del primo periodo e quello del rinnovo prima di pagare.',
+    ],
+    linkNote:
+      'Il 20% vale solo per il primo periodo di un nuovo piano: il rinnovo costa il prezzo standard del piano, e lo sconto non vale per gli acquisti già fatti.',
+  },
+  ko: {
+    discount: '20% 할인',
+    offerTypeLabel: '추천',
+    offerTypeLabelPlural: '추천',
+    offerActionLabel: '할인된 요금제 보기',
+    category: '웹 호스팅·도메인',
+    shortDescription: '모든 신규 요금제의 첫 이용 기간, 할인은 링크에 이미 적용',
+    longDescription:
+      '웹사이트를 새로 여는 분을 위한 추천 링크입니다. 이 링크로 들어가면 Hostinger가 첫 이용 기간 20% 할인된 요금제를 보여 주며, 입력할 쿠폰은 없습니다. Em Casa com Cecília도 Hostinger에서 운영됩니다.',
+    metaTitle: 'Hostinger 할인: 추천 링크로 20% 할인',
+    metaDescription:
+      '추천 링크로 모든 신규 요금제의 첫 이용 기간에 Hostinger 20% 할인이 바로 적용되며 쿠폰은 필요 없습니다. 적용 범위, 갱신 요금, 중복 불가 조건을 확인하세요.',
+    eligibleCategories: '모든 신규 Hostinger 요금제의 첫 이용 기간, 상품 종류 무관',
+    validity: 'Hostinger 추천 프로그램이 운영되는 동안 유효',
+    reusable: '해당 없음: 할인은 쿠폰이 아니라 링크로 적용됩니다',
+    shipping: '해당 없음',
+    combinable: '다른 쿠폰과 중복되지 않습니다. Hostinger에 따르면 추천 링크 가격이 이 링크로 받을 수 있는 최저가입니다',
+    aboutBrand:
+      'Hostinger는 호스팅 요금제, 웹사이트 빌더, VPS, 도메인, 이메일을 제공하는 웹 호스팅 회사입니다. Em Casa com Cecília는 Node.js 애플리케이션으로 Hostinger에서 운영됩니다. 이 페이지의 링크는 추천 링크로, 모든 신규 요금제의 첫 이용 기간에 20% 할인된 Hostinger를 열어 주며 입력할 쿠폰은 없습니다.',
+    brandLogoAlt: 'Hostinger 로고',
+    faqs: [
+      {
+        question: 'Hostinger 할인 쿠폰이 있나요?',
+        answer: '쿠폰은 필요 없습니다. 추천 할인은 이 페이지의 링크에 이미 들어 있어 Hostinger 사이트의 가격에 바로 반영됩니다.',
+      },
+      {
+        question: '링크로 받는 Hostinger 할인은 얼마인가요?',
+        answer: '2026년 10월 19일 Hostinger 추천 페이지 기준 20%이며, 상품 종류와 관계없이 모든 신규 요금제의 첫 이용 기간에 적용됩니다.',
+      },
+      {
+        question: '요금제를 갱신할 때도 할인되나요?',
+        answer:
+          '아니요. 20% 할인은 첫 이용 기간에만 적용됩니다. 이후에는 Hostinger가 각 요금제 아래에 표시하는 정가로 갱신되며, 갱신 전에 이용 기간을 바꾸거나 해지할 수 있습니다.',
+      },
+      {
+        question: '추천 할인을 다른 Hostinger 쿠폰과 함께 쓸 수 있나요?',
+        answer: '아니요. Hostinger는 추천 링크 가격이 이 링크로 받을 수 있는 최저가이며 다른 쿠폰은 중복되지 않는다고 안내합니다.',
+      },
+      {
+        question: '이미 Hostinger를 쓰는 고객도 할인받을 수 있나요?',
+        answer: '링크로 새 요금제를 구매할 때 적용됩니다. 이미 이용 중인 요금제와 지난 구매에는 할인이 적용되지 않습니다.',
+      },
+      {
+        question: 'Em Casa com Cecília도 Hostinger를 쓰나요?',
+        answer: '네. 이 사이트는 Node.js 애플리케이션으로 Hostinger에서 운영됩니다.',
+      },
+      {
+        question: '링크로 구매하면 Em Casa com Cecília에 도움이 되나요?',
+        answer: '네. 추천 링크로 구매하면 추가 비용 없이 Em Casa com Cecília에 크레딧이 적립될 수 있습니다.',
+      },
+    ],
+    linkInstructions: [
+      '안내된 버튼으로 Hostinger를 여세요. 페이지의 가격에 추천 할인이 이미 반영되어 있습니다.',
+      '요금제와 이용 기간을 고른 뒤 같은 링크에서 장바구니로 이동하세요.',
+      '입력할 쿠폰은 없습니다. 할인은 이미 링크에 연결되어 있습니다.',
+      '결제 전에 장바구니에서 첫 이용 기간 가격과 갱신 가격을 확인하세요.',
+    ],
+    linkNote: '20% 할인은 신규 요금제의 첫 이용 기간에만 적용됩니다. 갱신은 요금제 정가로 청구되며, 지난 구매에는 할인이 적용되지 않습니다.',
+  },
+  ja: {
+    discount: '20%オフ',
+    offerTypeLabel: '紹介',
+    offerTypeLabelPlural: '紹介',
+    offerActionLabel: '割引価格のプランを見る',
+    category: 'Webホスティング・ドメイン',
+    shortDescription: '新規プランの初回契約期間が対象、割引はリンクに適用済み',
+    longDescription:
+      'これからWebサイトを公開する方向けの紹介リンクです。このリンクから開くと、Hostingerが初回契約期間20%オフのプランを表示し、入力するクーポンはありません。Em Casa com CecíliaもHostingerで運営しています。',
+    metaTitle: 'Hostinger割引：紹介リンクで20%オフ',
+    metaDescription:
+      '紹介リンクから、すべての新規プランの初回契約期間にHostingerの20%割引が適用され、クーポンは不要です。対象範囲、更新料金、併用できない条件を確認できます。',
+    eligibleCategories: 'Hostingerのすべての新規プランの初回契約期間（商品の種類は問いません）',
+    validity: 'Hostingerの紹介プログラムが実施されている間有効',
+    reusable: '該当なし：割引はクーポンではなくリンクで適用されます',
+    shipping: '該当なし',
+    combinable: '他のクーポンとは併用できません。Hostingerによると、紹介リンクの価格がこのリンクで提供できる最安値です',
+    aboutBrand:
+      'Hostingerは、ホスティングプラン、Webサイトビルダー、VPS、ドメイン、メールを提供するWebホスティング会社です。Em Casa com CecíliaはNode.jsアプリとしてHostingerで運営しています。このページのリンクは紹介リンクで、すべての新規プランの初回契約期間が20%オフになったHostingerを開きます。入力するクーポンはありません。',
+    brandLogoAlt: 'Hostingerのロゴ',
+    faqs: [
+      {
+        question: 'Hostingerの割引クーポンはありますか？',
+        answer: 'クーポンは不要です。紹介割引はこのページのリンクにすでに含まれており、Hostingerのサイトの価格に反映されます。',
+      },
+      {
+        question: 'リンク経由のHostingerの割引はいくらですか？',
+        answer: '2026年10月19日時点のHostingerの紹介ページによると20%で、商品の種類を問わず、すべての新規プランの初回契約期間に適用されます。',
+      },
+      {
+        question: 'プランの更新時も割引されますか？',
+        answer:
+          'いいえ。20%割引は初回契約期間のみです。その後は、Hostingerが各プランの下に表示している通常価格で更新されます。更新前に契約期間の変更や解約ができます。',
+      },
+      {
+        question: '紹介割引は他のHostingerクーポンと併用できますか？',
+        answer: 'いいえ。Hostingerは、紹介リンクの価格がこのリンクで提供できる最安値であり、他のクーポンは併用できないと案内しています。',
+      },
+      {
+        question: 'すでにHostingerを利用している人も割引を受けられますか？',
+        answer: 'リンクから新しいプランを購入する場合に適用されます。契約済みのプランや過去の購入は割引の対象外です。',
+      },
+      {
+        question: 'Em Casa com CecíliaもHostingerを使っていますか？',
+        answer: 'はい。このサイトはNode.jsアプリとしてHostingerで運営しています。',
+      },
+      {
+        question: 'リンクから購入するとEm Casa com Cecíliaの応援になりますか？',
+        answer: 'はい。紹介リンクからの購入で、追加費用なしにEm Casa com Cecíliaにクレジットが付与される場合があります。',
+      },
+    ],
+    linkInstructions: [
+      '案内のボタンからHostingerを開いてください。ページの価格には紹介割引がすでに反映されています。',
+      'プランと契約期間を選び、同じリンクのままカートに進んでください。',
+      '入力するクーポンはありません。割引はすでにリンクにひも付いています。',
+      'お支払いの前に、カートで初回契約期間の価格と更新価格を確認してください。',
+    ],
+    linkNote: '20%割引は新規プランの初回契約期間のみです。更新時はプランの通常価格で請求され、過去の購入には割引は適用されません。',
+  },
+  'zh-hant': {
+    discount: '20% 折扣',
+    offerTypeLabel: '推薦',
+    offerTypeLabelPlural: '推薦',
+    offerActionLabel: '查看優惠方案',
+    category: '網站主機與網域',
+    shortDescription: '任何新方案的首期，折扣已包含在連結中',
+    longDescription:
+      '給準備架設網站的人的推薦連結：透過這個連結，Hostinger 會顯示首期 20% 折扣的方案價格，不需要輸入優惠碼。Em Casa com Cecília 也架設在 Hostinger 上。',
+    metaTitle: 'Hostinger 折扣：推薦連結享 20% 優惠',
+    metaDescription:
+      '透過推薦連結，任何新方案的首期即享 Hostinger 20% 折扣，不需要優惠碼。看看適用範圍、續約價格與不可併用的條件。',
+    eligibleCategories: '任何 Hostinger 新方案的首期，不限產品',
+    validity: 'Hostinger 推薦計畫進行期間有效',
+    reusable: '不適用：折扣來自連結，而不是優惠碼',
+    shipping: '不適用',
+    combinable: '不可與其他優惠碼併用：根據 Hostinger，推薦連結的價格已是透過此連結能提供的最優惠價格',
+    aboutBrand:
+      'Hostinger 是一家網站主機公司，提供主機方案、網站建置工具、VPS、網域與電子郵件。Em Casa com Cecília 以 Node.js 應用程式架設在 Hostinger 上。本頁的連結是推薦連結：開啟的 Hostinger 頁面中，任何新方案的首期都有 20% 折扣，不需要輸入優惠碼。',
+    brandLogoAlt: 'Hostinger 標誌',
+    faqs: [
+      {
+        question: 'Hostinger 有優惠碼嗎？',
+        answer: '不需要優惠碼。推薦折扣已包含在本頁的連結中，會直接顯示在 Hostinger 網站的價格上。',
+      },
+      {
+        question: '透過連結的 Hostinger 折扣是多少？',
+        answer: '根據 2026 年 10 月 19 日 Hostinger 推薦頁面的說明，是 20%，適用於任何新方案的首期，不限產品。',
+      },
+      {
+        question: '續約時也有折扣嗎？',
+        answer: '沒有。20% 折扣只適用於首期。之後方案會以 Hostinger 在各方案下方標示的原價續約，你可以在續約前更改期間或取消。',
+      },
+      {
+        question: '推薦折扣可以和其他 Hostinger 優惠碼併用嗎？',
+        answer: '不行。Hostinger 表示推薦連結的價格已是透過此連結能提供的最優惠價格，其他優惠碼無法併用。',
+      },
+      {
+        question: '已經是 Hostinger 客戶也能享有折扣嗎？',
+        answer: '透過連結購買新方案時適用。已訂閱的方案與過去的購買不會享有折扣。',
+      },
+      {
+        question: 'Em Casa com Cecília 也使用 Hostinger 嗎？',
+        answer: '是的。本站以 Node.js 應用程式架設在 Hostinger 上。',
+      },
+      {
+        question: '透過連結購買能支持 Em Casa com Cecília 嗎？',
+        answer: '可以。透過推薦連結購買，可能讓 Em Casa com Cecília 獲得點數回饋，你不需要多付任何費用。',
+      },
+    ],
+    linkInstructions: [
+      '點選指定的按鈕開啟 Hostinger：頁面上的價格已含推薦折扣。',
+      '選擇方案與期間，再透過同一個連結前往購物車。',
+      '不需要輸入優惠碼：折扣已綁定在連結上。',
+      '付款前，請在購物車確認首期價格與續約價格。',
+    ],
+    linkNote: '20% 折扣只適用於新方案的首期：續約會以方案原價收費，過去的購買也不適用折扣。',
+  },
+  'zh-hans': {
+    discount: '20% 折扣',
+    offerTypeLabel: '推荐',
+    offerTypeLabelPlural: '推荐',
+    offerActionLabel: '查看优惠套餐',
+    category: '网站主机与域名',
+    shortDescription: '任何新套餐的首期，折扣已包含在链接中',
+    longDescription:
+      '给准备搭建网站的人的推荐链接：通过这个链接，Hostinger 会显示首期 20% 折扣的套餐价格，无需输入优惠码。Em Casa com Cecília 也运行在 Hostinger 上。',
+    metaTitle: 'Hostinger 折扣：推荐链接享 20% 优惠',
+    metaDescription:
+      '通过推荐链接，任何新套餐的首期即享 Hostinger 20% 折扣，无需优惠码。了解适用范围、续费价格以及不可叠加的条件。',
+    eligibleCategories: '任何 Hostinger 新套餐的首期，不限产品',
+    validity: 'Hostinger 推荐计划进行期间有效',
+    reusable: '不适用：折扣来自链接，而不是优惠码',
+    shipping: '不适用',
+    combinable: '不可与其他优惠码叠加：据 Hostinger 说明，推荐链接的价格已是通过此链接能提供的最优惠价格',
+    aboutBrand:
+      'Hostinger 是一家网站主机公司，提供主机套餐、建站工具、VPS、域名和电子邮箱。Em Casa com Cecília 以 Node.js 应用运行在 Hostinger 上。本页的链接是推荐链接：打开的 Hostinger 页面中，任何新套餐的首期都有 20% 折扣，无需输入优惠码。',
+    brandLogoAlt: 'Hostinger 标志',
+    faqs: [
+      {
+        question: 'Hostinger 有优惠码吗？',
+        answer: '不需要优惠码。推荐折扣已包含在本页的链接中，会直接显示在 Hostinger 网站的价格上。',
+      },
+      {
+        question: '通过链接的 Hostinger 折扣是多少？',
+        answer: '根据 2026 年 10 月 19 日 Hostinger 推荐页面的说明，是 20%，适用于任何新套餐的首期，不限产品。',
+      },
+      {
+        question: '续费时也有折扣吗？',
+        answer: '没有。20% 折扣只适用于首期。之后套餐会按 Hostinger 在各套餐下方标注的原价续费，你可以在续费前更改期限或取消。',
+      },
+      {
+        question: '推荐折扣可以和其他 Hostinger 优惠码叠加吗？',
+        answer: '不可以。Hostinger 表示推荐链接的价格已是通过此链接能提供的最优惠价格，其他优惠码无法叠加。',
+      },
+      {
+        question: '已经是 Hostinger 客户也能享受折扣吗？',
+        answer: '通过链接购买新套餐时适用。已订购的套餐和以往的购买不享受折扣。',
+      },
+      {
+        question: 'Em Casa com Cecília 也使用 Hostinger 吗？',
+        answer: '是的。本站以 Node.js 应用运行在 Hostinger 上。',
+      },
+      {
+        question: '通过链接购买能支持 Em Casa com Cecília 吗？',
+        answer: '可以。通过推荐链接购买，可能为 Em Casa com Cecília 带来积分奖励，你无需额外付费。',
+      },
+    ],
+    linkInstructions: [
+      '点击指定按钮打开 Hostinger：页面上的价格已包含推荐折扣。',
+      '选择套餐和期限，再通过同一个链接进入购物车。',
+      '无需输入优惠码：折扣已绑定在链接上。',
+      '付款前，请在购物车确认首期价格和续费价格。',
+    ],
+    linkNote: '20% 折扣只适用于新套餐的首期：续费按套餐原价收取，以往的购买也不适用折扣。',
+  },
+};
+
 type CouponTranslation = {
   // Link principal das páginas em outros idiomas; sem ele, vale o do cupom em PT.
   offerUrl?: string;
@@ -704,6 +1257,12 @@ const COUPON_TRANSLATIONS: Record<string, CouponTranslation> = {
     // brasileiro do código 4CW5Y. Não conferir clicando: o clique registra atribuição.
     offerUrl: 'https://onelink.shein.com/55/6463grgxf6ru',
     locales: SHEIN_TRANSLATIONS,
+  },
+  hostinger: {
+    // O mesmo SONARDEOFERTAS no site internacional, que abre a indicação no idioma do visitante; o PT
+    // segue no /br. As regras são as mesmas (lidas em 19/10/2026).
+    offerUrl: 'https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS',
+    locales: HOSTINGER_TRANSLATIONS,
   },
 };
 
@@ -738,7 +1297,7 @@ export function getLocalizedCoupon(slug: string, locale: TranslatedLocale): Affi
     ...text,
     offerUrl: translation.offerUrl ?? coupon.offerUrl,
     referral: coupon.referral && { ...coupon.referral, ...text.referral },
-    campaigns: coupon.campaigns?.map((campaign, index) => ({ ...campaign, ...text.campaigns[index] })),
+    campaigns: coupon.campaigns?.map((campaign, index) => ({ ...campaign, ...text.campaigns?.[index] })),
     // Textos que só existem em PT; sem tradução, ficam fora da página.
     socialImageAlt: undefined,
     featuredPitch: undefined,

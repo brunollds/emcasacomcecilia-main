@@ -1770,7 +1770,7 @@ export const COUPONS: Coupon[] = [
     offerMode: 'affiliate-link',
     slug: 'hostinger',
     brand: 'Hostinger',
-    officialUrl: 'https://www.hostinger.com/br',
+    officialUrl: 'https://www.hostinger.com/',
     // Link de indicação do Bruno; o código SONARDEOFERTAS vai no link e não se digita no checkout.
     offerUrl: 'https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS',
     brandIcon: 'H',
