@@ -31675,7 +31675,14 @@ export const reviewsData: unknown[] = [
           "A história remonta ao início do século XX, quando um cozinheiro elétrico de pressão foi inventado em 1904. Essa invenção não teve grande impacto na época, e a ideia de fritar com ar quente ficou adormecida por muitos anos.",
           "Na década de 1940, William L. Maxson criou o Whirlwind Oven, que utilizava tecnologia de ar forçado para cozinhar alimentos rapidamente. Apesar de inovadora, essa invenção também não chegou ao mercado de massa.",
           "Foi somente em 2005 que o inventor holandês Fred van der Weij começou a desenvolver o conceito moderno da air fryer. Ele buscava uma maneira de fritar batatas de forma mais saudável, sem a necessidade de imergi-las em óleo. Após três anos de testes e refinamentos, Van der Weij apresentou seu protótipo à Philips, que lançou a primeira air fryer comercial em 2010 durante a Internationale Funkausstellung, em Berlim."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/airfryer-linha-do-tempo.webp",
+          "alt": "Linha do tempo da air fryer: anos 1940, Whirlwind Oven de William L. Maxson; 2005, Fred van der Weij começa o projeto; três anos depois, o protótipo vai à Philips; 2010, lançamento na IFA de Berlim; depois de 2010, Cosori, Ninja e Cuisinart; pandemia, mais gente cozinhando em casa",
+          "caption": "Do Whirlwind Oven dos anos 1940 à air fryer da pandemia, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "A Revolução das Air Fryers",
@@ -31683,7 +31690,14 @@ export const reviewsData: unknown[] = [
           "O modelo da Philips se destacou por seu design inovador e pela tecnologia chamada Rapid Air, que combina radiação de calor próximo e circulação aumentada de ar para cozinhar os alimentos de maneira uniforme e crocante.",
           "Desde seu lançamento, as air fryers ganharam popularidade rapidamente, especialmente entre consumidores que buscavam opções mais saudáveis para frituras tradicionais. Com o aumento da conscientização sobre saúde e nutrição, elas se tornaram uma resposta às preocupações sobre o consumo excessivo de óleo.",
           "A promessa de fritar alimentos com até 80% menos gordura atraiu muitos lares, tornando a air fryer um item indispensável na cozinha moderna."
-        ]
+        ],
+        "image": {
+          "src": "/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg",
+          "alt": "Prato de batatas rústicas douradas e crocantes feitas na air fryer, com um molho ao lado",
+          "caption": "Batata rústica crocante, o tipo de fritura que levou Van der Weij a criar a air fryer.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8056
+        }
       },
       {
         "heading": "Características Revolucionárias",
@@ -31700,7 +31714,14 @@ export const reviewsData: unknown[] = [
           "Inicialmente vista com certa desconfiança, a air fryer rapidamente ganhou popularidade, especialmente entre pessoas preocupadas com saúde, entusiastas de culinária e famílias buscando praticidade.",
           "Desde 2010, as air fryers evoluíram significativamente. Marcas como Cosori, Ninja e Cuisinart começaram a lançar suas próprias versões do aparelho, incorporando funcionalidades adicionais como telas digitais e múltiplas opções de cozimento.",
           "A pandemia também impulsionou o uso das air fryers, com muitas pessoas cozinhando mais em casa. A versatilidade do aparelho permite não apenas fritar, mas também assar, grelhar e até preparar sobremesas, tornando-o um verdadeiro coringa na cozinha."
-        ]
+        ],
+        "image": {
+          "src": "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
+          "alt": "Bolo de chocolate de caneca feito na air fryer, com cobertura de chantili e raspas de chocolate, numa caneca verde",
+          "caption": "Além de fritar: um bolo de caneca assado na air fryer.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8056
+        }
       },
       {
         "heading": "A Evolução da Tecnologia",
@@ -31717,7 +31738,14 @@ export const reviewsData: unknown[] = [
           "A air fryer não é apenas uma moda passageira; ela representa uma mudança significativa nas práticas culinárias contemporâneas. Com sua capacidade de oferecer refeições saborosas e crocantes com menos gordura, esse eletrodoméstico se consolidou como um aliado na busca por uma alimentação mais saudável.",
           "À medida que novas tecnologias continuam a surgir, é provável que as air fryers continuem a evoluir e a desempenhar um papel central nas cozinhas ao redor do mundo.",
           "Ficou com aquele gostinho de quero mais? Que tal conhecer alguns fatos inusitados e curiosos sobre esse aparelho?"
-        ]
+        ],
+        "image": {
+          "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
+          "alt": "Cesto de arame com chips de batata-doce crocantes feitos na air fryer",
+          "caption": "Chips de batata-doce sequinhos, com pouco óleo.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8056
+        }
       }
     ]
   },
@@ -32317,6 +32345,13 @@ export const reviewsData: unknown[] = [
           "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
           "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
         ],
+        "image": {
+          "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
+          "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
+          "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        },
         "links": [
           {
             "label": "Ver cupom CECILIA12 na página Damie",
@@ -32330,14 +32365,28 @@ export const reviewsData: unknown[] = [
           "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
           "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas compraríamos, optando por três para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
           "A possibilidade de personalizar revestimentos e acessórios nos deixou ainda mais animados. A visão de criar um ambiente de relaxamento e sofisticação com as poltronas da Damie nos motivou desde o início."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/damie-reclame-aqui-local.webp",
+          "alt": "Poltronas reclináveis bege da DAMIE encostadas na parede da sala da Cecília, com outra poltrona e um buquê de flores na frente",
+          "caption": "As poltronas reclináveis bege no canto da nossa sala.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5629
+        }
       },
       {
         "heading": "Minha Experiência: Entrega, Montagem e Primeiras Impressões",
         "paragraphs": [
           "Já estamos usando as poltronas reclináveis Damie há alguns meses. A entrega foi rápida, e o produto chegou muito bem embalado e protegido. Um detalhe curioso: as poltronas ficaram guardadas por quase dois meses na casa ainda em obras e, mesmo assim, estavam perfeitas quando finalmente as abrimos.",
           "No primeiro vídeo que gravamos, mostramos o processo de montagem, que é realmente simples, como a própria Damie promete. Basta encaixar o encosto no assento, conectar os fios do sistema elétrico e pronto. O QR code na embalagem direciona para vídeos explicativos, facilitando ainda mais para quem nunca montou um móvel desse tipo."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+          "alt": "Parte de trás do assento de uma poltrona DAMIE 2.0 mostrando a fiação dos motores",
+          "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da DAMIE 2.0.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7762
+        }
       },
       {
         "heading": "Material e Personalização: Ideal para Nossa Realidade",
@@ -32347,6 +32396,13 @@ export const reviewsData: unknown[] = [
           "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar.",
           "Com o cupom CECILIA12, você pode personalizar sua poltrona e economizar no site da Damie."
         ],
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia.webp",
+          "alt": "Cecília sentada na poltrona reclinável bege em tecido linho, com o Ian ao lado e os porta-copos nos braços",
+          "caption": "O tecido linho bege que escolhemos, com os porta-copos nos braços.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5625
+        },
         "links": [
           {
             "label": "Acessar site oficial da Damie",
@@ -32361,6 +32417,13 @@ export const reviewsData: unknown[] = [
           "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
           "A estrutura transmite segurança e durabilidade, cumprindo exatamente o que a Damie promete em suas propagandas."
         ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
+          "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da DAMIE 2.0.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        },
         "bullets": [
           "Sistema elétrico de reclinação silencioso e prático.",
           "Espuma confortável e assento espaçoso.",
@@ -32374,7 +32437,14 @@ export const reviewsData: unknown[] = [
           "Uma das surpresas mais felizes foi descobrir como a poltrona é perfeita para a amamentação. Desde o nascimento do meu filho, Ian, tenho usado a poltrona reclinável diariamente.",
           "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, garantindo conforto e segurança enquanto amamento, especialmente durante a madrugada. O movimento silencioso não acorda o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
           "O tecido linho respirável mantém o conforto mesmo em dias quentes, tornando esses momentos ainda mais especiais. Se você é mãe ou está esperando um bebê, a poltrona reclinável da Damie é uma aliada incrível, indo além do conforto convencional."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+          "alt": "Cecília sentada na poltrona reclinável bege com o filho Ian no colo",
+          "caption": "Com o Ian no colo, na poltrona que uso todos os dias para amamentar.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5625
+        }
       },
       {
         "heading": "Prós e Contras da Poltrona Reclinável Damie",
@@ -32408,6 +32478,13 @@ export const reviewsData: unknown[] = [
           "Esse código exclusivo, criado a partir da nossa parceria, é válido para a linha de poltronas e sofás modulares, conforme as condições vigentes no site da marca. Quer ver a poltrona em ação? Confira nossos vídeos no YouTube, Instagram e TikTok do Em Casa com Cecília, onde mostramos a montagem, o uso diário e dicas de decoração.",
           "A Damie é sinônimo de qualidade, conforto e sofisticação, e com o cupom CECILIA12, você leva tudo isso com um preço especial. Acesse a página da parceria, escolha sua poltrona ideal, aplique o cupom CECILIA12 no checkout e descubra por que a poltrona reclinável da Damie é uma escolha tão especial para o lar."
         ],
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
+          "alt": "Resumo da compra no site da DAMIE com o campo Cupom preenchido com CECILIA12",
+          "caption": "O CECILIA12 no campo Cupom do resumo da compra, no site da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4596
+        },
         "links": [
           {
             "label": "Usar cupom CECILIA12",
@@ -51531,6 +51608,13 @@ export const reviewsData: unknown[] = [
           "Ao escolher os sabores, o montador da assinatura já mostra cada caixa com os 25% de desconto, com o preço cheio riscado ao lado. Não existe mensalidade nem taxa de adesão: você paga só as caixas de cada entrega.",
           "A própria Dolce Gusto divulga quanto cada linha custa depois do desconto, no banner que aparece no alto desta página. No montador, os preços saem com 1 ou 2 centavos de diferença, e são eles que a tabela usa. As caixas de sabores vendidas hoje têm **10 cápsulas**, tanto na Geração I quanto na NEO:"
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp",
+          "alt": "Painel da assinatura no site da Dolce Gusto com as opções Conheça a Assinatura NDG, Minha Assinatura, Criar Assinatura Geração I e Criar Assinatura NEO",
+          "caption": "No site, a assinatura começa por aqui: criar uma assinatura de Geração I ou de NEO.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido em 13 de outubro de 2026",
           "headers": [
@@ -51578,6 +51662,13 @@ export const reviewsData: unknown[] = [
           "A forma mais fácil de saber se a assinatura cabe no orçamento é partir do consumo da casa. Uma xícara de espresso por dia dá cerca de 30 cápsulas por mês, ou seja, 3 caixas de 10, que é justamente o pedido mínimo. Se alguém na casa prefere cappuccino, conte em dobro, porque cada xícara usa 2 cápsulas.",
           "Fizemos a conta com caixas de Geração I regulares, pelo preço oficial da assinatura:"
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+          "alt": "Banner oficial da Dolce Gusto: como assinar em poucos passos. Selecione a partir de 3 sabores, defina se quer receber todo mês, a cada dois ou três meses, e receba as bebidas em casa",
+          "caption": "A partir de 3 sabores, com entrega todo mês, a cada dois ou a cada três meses. Banner oficial da Dolce Gusto.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Gasto por mês com caixas de Geração I regulares (R$ 25,90 cheio; 25% sobre o subtotal, como no checkout)",
           "headers": [
@@ -51674,6 +51765,13 @@ export const reviewsData: unknown[] = [
           "Somou. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
           "No dia 4 de outubro de 2026 fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
         ],
+        "image": {
+          "src": "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
+          "alt": "Checkout da NESCAFÉ Dolce Gusto com o campo Código do voucher preenchido com CECI e o botão Aplicar",
+          "caption": "O campo Código do voucher, em Resgatar códigos promocionais, com o CECI digitado.",
+          "objectFit": "contain",
+          "aspectRatio": 2.9777
+        },
         "comparisonTable": {
           "caption": "Resumo do checkout da assinatura em 4 de outubro de 2026. A diferença de 1 centavo no total é arredondamento do próprio site.",
           "headers": [
@@ -51717,6 +51815,13 @@ export const reviewsData: unknown[] = [
           "A busca por **assinatura Dolce Gusto com máquina grátis** tem uma origem real. Em 2018, os termos do site traziam uma **Assinatura de Cápsulas com máquina grátis**: o assinante recebia uma Lumio branca e se comprometia com entregas de 6 a 30 caixas a cada 2 meses. Quem cancelasse antes do 7º ciclo pagava o preço cheio da máquina. Esse plano aparece como encerrado nos termos oficiais, mas a ideia ficou na memória de muita gente.",
           "A máquina de brinde de hoje vem de outra mecânica: a **promoção por volume**, em que a compra de muitas caixas ORIGINAL num só pedido libera uma Mini Me. A quantidade de caixas muda a cada campanha, e essa promoção não se soma às compras da assinatura."
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
+          "alt": "Arte da promoção Dolce Gusto com 55 caixas de cápsulas e a máquina Mini Me de brinde",
+          "caption": "Uma promoção por volume: Mini Me de brinde na compra de 55 caixas. A quantidade muda a cada campanha, e a assinatura não entra nela.",
+          "objectFit": "contain",
+          "aspectRatio": 1.791
+        },
         "links": [
           {
             "label": "Como funciona a promoção de caixas com Mini Me grátis",
@@ -51730,6 +51835,13 @@ export const reviewsData: unknown[] = [
           "A assinatura compensa quando o café já faz parte da rotina e você sabe quantas caixas usa. Ela tira da cabeça a tarefa de lembrar de comprar cápsula, entrega com frete grátis e mantém um desconto fixo, mesmo nas semanas em que a loja não tem promoção nenhuma.",
           "Ela perde força para quem gosta de garimpar preço: nas épocas de promoção forte, a compra avulsa ou os combos podem sair mais baratos, e esses descontos não se somam à assinatura."
         ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
+          "alt": "Cecília sorrindo, com o queixo apoiado na mão, ao lado de uma xícara de café",
+          "caption": "Café na rotina: é para quem já toma todo dia que a assinatura compensa.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6667
+        },
         "bullets": [
           "**Vale a pena** para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses e paga no cartão de crédito.",
           "**Vale a pena** para quem quer frete grátis em pedidos pequenos e não quer acompanhar promoções.",
@@ -88647,6 +88759,22 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Tabelas nutricionais das páginas de produto, lidas em 17/10/2026. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
+            "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
+            "caption": "Pão de mel comum: 163 kcal, 2 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9479
+          },
+          {
+            "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel-proteico.webp",
+            "alt": "Tabela nutricional do Pão de Mel Protein Zero da Belive: por porção de 45 g, 162 kcal, 16 g de carboidratos, 0 g de açúcares totais e adicionados, 6 g de proteínas e 6,2 g de fibras",
+            "caption": "Pão de mel proteico (Protein Zero): 162 kcal, 6 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0213
+          }
+        ],
         "comparisonTable": {
           "headers": [
             "Item",
@@ -88711,6 +88839,22 @@ export const reviewsData: unknown[] = [
           "Os dois trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. O proteico também leva sorbitol e glicerol como umectantes. O comum não leva.",
           "Outros ingredientes, pela lista de cada página:"
         ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
+            "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+            "caption": "Ingredientes do pão de mel comum, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 2.7088
+          },
+          {
+            "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel-proteico.webp",
+            "alt": "Lista de ingredientes do pão de mel proteico da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
+            "caption": "Ingredientes do pão de mel proteico: os mesmos edulcorantes, mais os umectantes sorbitol e glicerol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 3.2698
+          }
+        ],
         "bullets": [
           "Comum: cobertura sabor chocolate amargo sem açúcar, mix sem glúten, óleo vegetal de soja e palma, fibra de milho, ovo em pó, polidextrose, cacau em pó, especiarias, fibra vegetal e sal light.",
           "Proteico: cobertura sabor chocolate amargo, mix sem glúten com proteínas vegetais, óleo de soja, polidextrose, ovo em pó, fibra de tapioca, cacau em pó, extrato de levedura e especiarias."
@@ -88736,6 +88880,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
         ],
+        "image": {
+          "src": "/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp",
+          "alt": "Página do Kit 10 Pão de Mel Sem Glúten Sem Açúcar Sem Leite da Belive, com a caixa de pães de mel, o preço riscado de R$ 79,70, R$ 70,41 no Pix e R$ 74,12 em até 2x",
+          "caption": "O kit de 10 pães de mel no site da Belive: R$ 74,12 no cartão, o preço da tabela, ou R$ 70,41 com os 5% do Pix. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0725
+        },
         "comparisonTable": {
           "headers": [
             "Versão",
@@ -88934,6 +89085,22 @@ export const reviewsData: unknown[] = [
           "São os dois mais procurados quando a busca é \"black skull ou growth whey\". Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. No cartão, a Growth sobe para R$ 29,26.",
           "Com o **CECILIA10**, o pote de 1,8 kg sai por R$ 251,91, ou **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. A Black Skull passa na frente da Growth no Pix e no cartão.",
           "A fórmula é diferente. O whey da Growth leva só proteína concentrada do soro do leite. O Whey 100% HD mistura proteína do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz só \"peptídeos hidrolisados\". Ou seja: nem toda a proteína do pote da Black Skull vem do soro do leite."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-whey-100-hd-1-8kg-pagina-2026-10-19.webp",
+            "alt": "Página do Whey 100% HD (WPC, WPI e WPH) 1,8 kg da Black Skull, com o pote preto, o sabor baunilha e o preço de R$ 279,90",
+            "caption": "Whey 100% HD de 1,8 kg no site da Black Skull: R$ 279,90, o mesmo preço de 18/10. Print de 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6393
+          },
+          {
+            "src": "/images/reviews/black-skull/growth-whey-concentrado-1kg-pagina-2026-10-19.webp",
+            "alt": "Página do Whey Protein Concentrado 1 kg da Growth, com o pacote vermelho, R$ 199,90 no boleto ou Pix e R$ 222,11 no cartão em até 6x",
+            "caption": "Whey Protein Concentrado de 1 kg no site da Growth: R$ 199,90 no boleto ou Pix e R$ 222,11 no cartão, os preços de 18/10. Print de 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8182
+          }
         ]
       },
       {
@@ -88942,12 +89109,35 @@ export const reviewsData: unknown[] = [
           "Quem quer o mesmo tipo de whey da Growth, só concentrado, tem na Black Skull o **Whey 80% HD**. A dose é igual à da Growth: 30 g de pó com 23 g de proteína. A lista de ingredientes traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose.",
           "O refil de 900 g custava R$ 159,90 em 18/10/2026: **R$ 23,17 por 100 g de proteína**, mais barato que a Growth no Pix mesmo sem cupom. Com o CECILIA10, cai para R$ 20,86. O sabor banana estava a R$ 139,90, ou R$ 20,28 por 100 g de proteína sem cupom.",
           "O 80% HD só é vendido em refil de 900 g, e tinha três sabores em estoque na consulta: morango, banana e cookies. O chocolate e a baunilha estavam esgotados."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-pagina-2026-10-19.webp",
+          "alt": "Página do Whey Protein Concentrado 80% HD Refil 900 g da Black Skull, com o refil preto, o sabor morango e o preço de R$ 159,90",
+          "caption": "O refil de 900 g do Whey 80% HD, sabor morango, a R$ 159,90 no site da Black Skull. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6393
+        }
       },
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
           "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026, sem o cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-creator-refil-500g-pagina-2026-10-19.webp",
+            "alt": "Página da Creator Creatina Monohidratada Refil 500 g da Black Skull, com o refil preto e o preço de R$ 59,90 por R$ 39,90",
+            "caption": "Creator refil de 500 g na Black Skull, em promoção: de R$ 59,90 por R$ 39,90. Print de 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6393
+          },
+          {
+            "src": "/images/reviews/black-skull/growth-creatina-250g-pagina-2026-10-19.webp",
+            "alt": "Página da Creatina Monohidratada 250 g da Growth, com o pote, R$ 44,90 no boleto ou Pix, R$ 49,88 no cartão e as opções de 100 g, 250 g, 500 g e refil de 500 g",
+            "caption": "Creatina de 250 g na Growth: R$ 44,90 no boleto ou Pix e R$ 49,88 no cartão. Print de 19/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 2.4341
+          }
         ],
         "comparisonTable": {
           "headers": [
@@ -89039,6 +89229,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As condições de cada loja em 18/10/2026:"
         ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+          "alt": "Sacola da Black Skull em 13/10/2026 com o CECILIA10 aplicado: desconto de R$ 36,44 e total de R$ 327,89",
+          "caption": "O teste de 13/10/2026: CECILIA10 aplicado na sacola da Black Skull, sobre itens em promoção, com desconto de R$ 36,44. O marca-texto amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8481
+        },
         "comparisonTable": {
           "headers": [
             "Condição",

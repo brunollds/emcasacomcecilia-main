@@ -48,6 +48,22 @@
       "paragraphs": [
         "Tabelas nutricionais das páginas de produto, lidas em 17/10/2026. Porção de 45 g (1 unidade), com a coluna de 100 g entre parênteses."
       ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel.webp",
+          "alt": "Aba Tabela Nutricional da página do pão de mel da Belive, com a informação nutricional por 100 g e por porção de 45 g: 163 kcal, 23 g de carboidratos e 0 g de açúcares totais e adicionados",
+          "caption": "Pão de mel comum: 163 kcal, 2 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9479
+        },
+        {
+          "src": "/images/reviews/belive/belive-tabela-nutricional-pao-de-mel-proteico.webp",
+          "alt": "Tabela nutricional do Pão de Mel Protein Zero da Belive: por porção de 45 g, 162 kcal, 16 g de carboidratos, 0 g de açúcares totais e adicionados, 6 g de proteínas e 6,2 g de fibras",
+          "caption": "Pão de mel proteico (Protein Zero): 162 kcal, 6 g de proteína e 0 g de açúcares por unidade de 45 g. Print da página da Belive, 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0213
+        }
+      ],
       "comparisonTable": {
         "headers": [
           "Item",
@@ -112,6 +128,22 @@
         "Os dois trazem, na lista de ingredientes, os edulcorantes **maltitol e glicosídeos de esteviol**. A descrição da loja fala em \"adoçado com stévia\". O glicosídeo de esteviol é o adoçante da stévia, e o maltitol vem antes dele na lista. O proteico também leva sorbitol e glicerol como umectantes. O comum não leva.",
         "Outros ingredientes, pela lista de cada página:"
       ],
+      "images": [
+        {
+          "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel.webp",
+          "alt": "Aba Ingredientes da página do pão de mel da Belive, com os edulcorantes maltitol e glicosídeos de esteviol marcados em amarelo",
+          "caption": "Ingredientes do pão de mel comum, com os edulcorantes maltitol e glicosídeos de esteviol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.7088
+        },
+        {
+          "src": "/images/reviews/belive/belive-ingredientes-pao-de-mel-proteico.webp",
+          "alt": "Lista de ingredientes do pão de mel proteico da Belive, com os edulcorantes maltitol e glicosídeos de esteviol e os umectantes sorbitol e glicerol marcados em amarelo",
+          "caption": "Ingredientes do pão de mel proteico: os mesmos edulcorantes, mais os umectantes sorbitol e glicerol. Print de 19/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 3.2698
+        }
+      ],
       "bullets": [
         "Comum: cobertura sabor chocolate amargo sem açúcar, mix sem glúten, óleo vegetal de soja e palma, fibra de milho, ovo em pó, polidextrose, cacau em pó, especiarias, fibra vegetal e sal light.",
         "Proteico: cobertura sabor chocolate amargo, mix sem glúten com proteínas vegetais, óleo de soja, polidextrose, ovo em pó, fibra de tapioca, cacau em pó, extrato de levedura e especiarias."
@@ -137,6 +169,13 @@
       "paragraphs": [
         "Preços do site oficial em 17/10/2026, sem o cupom. O preço por unidade no kit é a conta nossa: o kit dividido por 10. A última coluna aplica o cupom MAUAD (10%) e, depois, os 5% do Pix."
       ],
+      "image": {
+        "src": "/images/reviews/belive/belive-kit-10-pao-de-mel-pagina-2026-10-19.webp",
+        "alt": "Página do Kit 10 Pão de Mel Sem Glúten Sem Açúcar Sem Leite da Belive, com a caixa de pães de mel, o preço riscado de R$ 79,70, R$ 70,41 no Pix e R$ 74,12 em até 2x",
+        "caption": "O kit de 10 pães de mel no site da Belive: R$ 74,12 no cartão, o preço da tabela, ou R$ 70,41 com os 5% do Pix. Print de 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0725
+      },
       "comparisonTable": {
         "headers": [
           "Versão",

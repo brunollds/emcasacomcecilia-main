@@ -115,6 +115,22 @@
         "São os dois mais procurados quando a busca é \"black skull ou growth whey\". Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. No cartão, a Growth sobe para R$ 29,26.",
         "Com o **CECILIA10**, o pote de 1,8 kg sai por R$ 251,91, ou **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. A Black Skull passa na frente da Growth no Pix e no cartão.",
         "A fórmula é diferente. O whey da Growth leva só proteína concentrada do soro do leite. O Whey 100% HD mistura proteína do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz só \"peptídeos hidrolisados\". Ou seja: nem toda a proteína do pote da Black Skull vem do soro do leite."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-whey-100-hd-1-8kg-pagina-2026-10-19.webp",
+          "alt": "Página do Whey 100% HD (WPC, WPI e WPH) 1,8 kg da Black Skull, com o pote preto, o sabor baunilha e o preço de R$ 279,90",
+          "caption": "Whey 100% HD de 1,8 kg no site da Black Skull: R$ 279,90, o mesmo preço de 18/10. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6393
+        },
+        {
+          "src": "/images/reviews/black-skull/growth-whey-concentrado-1kg-pagina-2026-10-19.webp",
+          "alt": "Página do Whey Protein Concentrado 1 kg da Growth, com o pacote vermelho, R$ 199,90 no boleto ou Pix e R$ 222,11 no cartão em até 6x",
+          "caption": "Whey Protein Concentrado de 1 kg no site da Growth: R$ 199,90 no boleto ou Pix e R$ 222,11 no cartão, os preços de 18/10. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8182
+        }
       ]
     },
     {
@@ -123,12 +139,35 @@
         "Quem quer o mesmo tipo de whey da Growth, só concentrado, tem na Black Skull o **Whey 80% HD**. A dose é igual à da Growth: 30 g de pó com 23 g de proteína. A lista de ingredientes traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose.",
         "O refil de 900 g custava R$ 159,90 em 18/10/2026: **R$ 23,17 por 100 g de proteína**, mais barato que a Growth no Pix mesmo sem cupom. Com o CECILIA10, cai para R$ 20,86. O sabor banana estava a R$ 139,90, ou R$ 20,28 por 100 g de proteína sem cupom.",
         "O 80% HD só é vendido em refil de 900 g, e tinha três sabores em estoque na consulta: morango, banana e cookies. O chocolate e a baunilha estavam esgotados."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-pagina-2026-10-19.webp",
+        "alt": "Página do Whey Protein Concentrado 80% HD Refil 900 g da Black Skull, com o refil preto, o sabor morango e o preço de R$ 159,90",
+        "caption": "O refil de 900 g do Whey 80% HD, sabor morango, a R$ 159,90 no site da Black Skull. Print de 19/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6393
+      }
     },
     {
       "heading": "Creatina: preço por 100 g nas duas lojas",
       "paragraphs": [
         "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026, sem o cupom."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-creator-refil-500g-pagina-2026-10-19.webp",
+          "alt": "Página da Creator Creatina Monohidratada Refil 500 g da Black Skull, com o refil preto e o preço de R$ 59,90 por R$ 39,90",
+          "caption": "Creator refil de 500 g na Black Skull, em promoção: de R$ 59,90 por R$ 39,90. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6393
+        },
+        {
+          "src": "/images/reviews/black-skull/growth-creatina-250g-pagina-2026-10-19.webp",
+          "alt": "Página da Creatina Monohidratada 250 g da Growth, com o pote, R$ 44,90 no boleto ou Pix, R$ 49,88 no cartão e as opções de 100 g, 250 g, 500 g e refil de 500 g",
+          "caption": "Creatina de 250 g na Growth: R$ 44,90 no boleto ou Pix e R$ 49,88 no cartão. Print de 19/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 2.4341
+        }
       ],
       "comparisonTable": {
         "headers": [
@@ -220,6 +259,13 @@
       "paragraphs": [
         "As condições de cada loja em 18/10/2026:"
       ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+        "alt": "Sacola da Black Skull em 13/10/2026 com o CECILIA10 aplicado: desconto de R$ 36,44 e total de R$ 327,89",
+        "caption": "O teste de 13/10/2026: CECILIA10 aplicado na sacola da Black Skull, sobre itens em promoção, com desconto de R$ 36,44. O marca-texto amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8481
+      },
       "comparisonTable": {
         "headers": [
           "Condição",

@@ -52,6 +52,13 @@
         "Ao escolher os sabores, o montador da assinatura já mostra cada caixa com os 25% de desconto, com o preço cheio riscado ao lado. Não existe mensalidade nem taxa de adesão: você paga só as caixas de cada entrega.",
         "A própria Dolce Gusto divulga quanto cada linha custa depois do desconto, no banner que aparece no alto desta página. No montador, os preços saem com 1 ou 2 centavos de diferença, e são eles que a tabela usa. As caixas de sabores vendidas hoje têm **10 cápsulas**, tanto na Geração I quanto na NEO:"
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp",
+        "alt": "Painel da assinatura no site da Dolce Gusto com as opções Conheça a Assinatura NDG, Minha Assinatura, Criar Assinatura Geração I e Criar Assinatura NEO",
+        "caption": "No site, a assinatura começa por aqui: criar uma assinatura de Geração I ou de NEO.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido em 13 de outubro de 2026",
         "headers": [
@@ -99,6 +106,13 @@
         "A forma mais fácil de saber se a assinatura cabe no orçamento é partir do consumo da casa. Uma xícara de espresso por dia dá cerca de 30 cápsulas por mês, ou seja, 3 caixas de 10, que é justamente o pedido mínimo. Se alguém na casa prefere cappuccino, conte em dobro, porque cada xícara usa 2 cápsulas.",
         "Fizemos a conta com caixas de Geração I regulares, pelo preço oficial da assinatura:"
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+        "alt": "Banner oficial da Dolce Gusto: como assinar em poucos passos. Selecione a partir de 3 sabores, defina se quer receber todo mês, a cada dois ou três meses, e receba as bebidas em casa",
+        "caption": "A partir de 3 sabores, com entrega todo mês, a cada dois ou a cada três meses. Banner oficial da Dolce Gusto.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Gasto por mês com caixas de Geração I regulares (R$ 25,90 cheio; 25% sobre o subtotal, como no checkout)",
         "headers": [
@@ -195,6 +209,13 @@
         "Somou. Essa era uma dúvida nossa também, porque o item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os direcionados a assinantes. O **CECI**, porém, não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
         "No dia 4 de outubro de 2026 fechamos um pedido de assinatura com 4 caixas de R$ 29,90 e o cupom CECI. O resumo do checkout ficou assim:"
       ],
+      "image": {
+        "src": "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
+        "alt": "Checkout da NESCAFÉ Dolce Gusto com o campo Código do voucher preenchido com CECI e o botão Aplicar",
+        "caption": "O campo Código do voucher, em Resgatar códigos promocionais, com o CECI digitado.",
+        "objectFit": "contain",
+        "aspectRatio": 2.9777
+      },
       "comparisonTable": {
         "caption": "Resumo do checkout da assinatura em 4 de outubro de 2026. A diferença de 1 centavo no total é arredondamento do próprio site.",
         "headers": [
@@ -238,6 +259,13 @@
         "A busca por **assinatura Dolce Gusto com máquina grátis** tem uma origem real. Em 2018, os termos do site traziam uma **Assinatura de Cápsulas com máquina grátis**: o assinante recebia uma Lumio branca e se comprometia com entregas de 6 a 30 caixas a cada 2 meses. Quem cancelasse antes do 7º ciclo pagava o preço cheio da máquina. Esse plano aparece como encerrado nos termos oficiais, mas a ideia ficou na memória de muita gente.",
         "A máquina de brinde de hoje vem de outra mecânica: a **promoção por volume**, em que a compra de muitas caixas ORIGINAL num só pedido libera uma Mini Me. A quantidade de caixas muda a cada campanha, e essa promoção não se soma às compras da assinatura."
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
+        "alt": "Arte da promoção Dolce Gusto com 55 caixas de cápsulas e a máquina Mini Me de brinde",
+        "caption": "Uma promoção por volume: Mini Me de brinde na compra de 55 caixas. A quantidade muda a cada campanha, e a assinatura não entra nela.",
+        "objectFit": "contain",
+        "aspectRatio": 1.791
+      },
       "links": [
         {
           "label": "Como funciona a promoção de caixas com Mini Me grátis",
@@ -251,6 +279,13 @@
         "A assinatura compensa quando o café já faz parte da rotina e você sabe quantas caixas usa. Ela tira da cabeça a tarefa de lembrar de comprar cápsula, entrega com frete grátis e mantém um desconto fixo, mesmo nas semanas em que a loja não tem promoção nenhuma.",
         "Ela perde força para quem gosta de garimpar preço: nas épocas de promoção forte, a compra avulsa ou os combos podem sair mais baratos, e esses descontos não se somam à assinatura."
       ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
+        "alt": "Cecília sorrindo, com o queixo apoiado na mão, ao lado de uma xícara de café",
+        "caption": "Café na rotina: é para quem já toma todo dia que a assinatura compensa.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6667
+      },
       "bullets": [
         "**Vale a pena** para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses e paga no cartão de crédito.",
         "**Vale a pena** para quem quer frete grátis em pedidos pequenos e não quer acompanhar promoções.",
