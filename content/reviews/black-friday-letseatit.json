@@ -60,6 +60,13 @@
       "paragraphs": [
         "Em 8 de outubro de 2026, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
       ],
+      "image": {
+        "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+        "alt": "Panela Redonda Signature da Le Creuset na cor Cotton, de lado e vista de cima, em fotos de produto da Let's Eat It",
+        "caption": "A Redonda Signature na cor Cotton, uma das panelas da tabela. Fotos de produto da Let's Eat It.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
         "headers": ["Peça", "Preço cheio", "Com desconto em 8/10/2026"],
@@ -90,6 +97,13 @@
       "paragraphs": [
         "Na Porto Brasil, o desconto já estava no catálogo inteiro em outubro: das 174 peças da marca na loja, 150 apareciam com 40% OFF e 21 com 60%. Por isso, um \"até 60% OFF\" em novembro só é vantagem se o preço do dia ficar abaixo do de outubro."
       ],
+      "image": {
+        "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+        "alt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
+        "caption": "Aparelho de jantar Porto Brasil Stoneware Bio Latte. Fotos de produto da Let's Eat It.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Porto Brasil na Let's Eat It em 8 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
         "headers": ["Peça", "Preço riscado", "Em 8/10/2026"],
@@ -150,6 +164,13 @@
     },
     {
       "heading": "Cuidados com louça, cristal e panela na Black Friday",
+      "image": {
+        "src": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+        "alt": "Três passos desenhados: água fria na panela quente no fogo, riscado; panela com água morna e o relógio de 15 a 20 minutos; palha de aço, riscada",
+        "caption": "Panela queimada: nada de água fria na panela quente, água morna por 15 a 20 minutos e nada de palha de aço.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
         "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",

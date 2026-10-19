@@ -60,6 +60,13 @@
       "paragraphs": [
         "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, nas versões masculina, feminina e gola V."
       ],
+      "image": {
+        "src": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+        "alt": "Homem usando a Tech T-Shirt preta da Insider, em foto oficial da marca",
+        "caption": "A Tech T-Shirt preta. Foto oficial da Insider.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Camisetas e kits na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
         "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
@@ -83,6 +90,12 @@
       "paragraphs": [
         "No underwear, os kits saíam mais baratos por peça que as avulsas em outubro."
       ],
+      "image": {
+        "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+        "alt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
+        "caption": "Kit de cuecas Boxer Comfort. Foto oficial da Insider.",
+        "objectFit": "square"
+      },
       "comparisonTable": {
         "caption": "Underwear na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
         "headers": ["Produto", "Preço riscado", "Em 9/10/2026"],
@@ -123,6 +136,13 @@
     },
     {
       "heading": "Trocas e presente de Natal",
+      "image": {
+        "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+        "alt": "Três cartões com os prazos da Insider: 7 para desistir da compra, 21 para trocar por insatisfação e 180 para defeito",
+        "caption": "Na compra online: 7 dias úteis para desistir, 21 dias corridos para trocar ou devolver por insatisfação e 180 dias para defeito de fabricação.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Arrependimento:** até 7 dias úteis depois do recebimento, com a peça sem uso e com a etiqueta.",
         "**Insatisfação (tamanho, cor ou modelo):** até 21 dias corridos depois do recebimento, com a peça sem uso, com a etiqueta e sem sinal de lavagem.",
