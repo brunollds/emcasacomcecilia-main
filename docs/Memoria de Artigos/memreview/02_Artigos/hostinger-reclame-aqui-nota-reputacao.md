@@ -6,15 +6,16 @@ parceiro: "[[Hostinger]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pronto-para-deploy"
-responsavel: "Bruno (deploy)"
-proxima_acao: "deploy, com decisão do Bruno"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar os preços em novembro de 2026"
 bloqueado_por: null
 score_autoridade: 67
 score_conversao: 52
 score_ponderado_total: 60
 data_criacao: "2026-10-19"
-publicado_em: null
+publicado_em: "2026-10-19"
+nota_publicacao: "No ar em 19/10/2026 (PR #166, release `bb19a5b`, build `01a15665-36e6-7237-85d3-d466d4e11913`), as 10 versões com as imagens no CDN; probe 39339445078."
 i18n_cluster: null
 translationKey: "hostinger-reputation"
 modo_i18n: "paridade-completa"
