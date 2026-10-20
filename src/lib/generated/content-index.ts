@@ -102438,7 +102438,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth).",
+          "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth). A série contra a Dux tem outros dois textos: [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux).",
           "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque a diferença entre os dois é de 5%. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
@@ -102733,6 +102733,834 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-skull-e-confiavel",
         "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "slug": "max-titanium-ou-dux",
+    "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço",
+    "seoTitle": "Max Titanium ou Dux: whey, creatina e pré-treino",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Max Titanium ou Dux? Whey concentrado, 3W e isolado, creatina, Creapure, multivitamínico e pré-treino das duas lojas pela mesma régua: proteína por dose, preço por 100 g, por dia e por dose, a Dux no cartão e no Pix e a Max com e sem o cupom MAX10EMCASACOMCECILIA.",
+    "metaDescription": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por 100 g de proteína, por dia e por dose, com cupom, Pix e frete.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
+    "imageAlt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 20/10/2026, a Max sai mais barata no whey, na creatina e no pré-treino por dose. A Dux sai mais barata no multivitamínico por dia, e tem um whey adoçado com stévia e um pré-treino sem linha de cafeína. A conta muda de linha para linha."
+        ],
+        "bullets": [
+          "**Whey:** o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p) sai a R$ 30,24 por 100 g de proteína no Pix, e R$ 27,21 com o cupom no teto. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
+          "**Creatina:** o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) sai a R$ 16,98 por 100 g no Pix, e R$ 15,28 com o cupom. A creatina monohidratada de 300 g da Dux sai a R$ 20,55 no Pix e R$ 21,63 no cartão.",
+          "**Multivitamínico:** o multivitamínico da Dux sai a R$ 0,84 por dia no Pix, com uma cápsula. O [Multimax Complex da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia, com três cápsulas.",
+          "**Pré-treino:** o [Shook, sabor Uva, da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,81 por dose no Pix. O Pre Workout Original da Dux sai a R$ 6,41 por dose no Pix, com 300 mg de cafeína."
+        ],
+        "postParagraphs": [
+          "Os preços são de 20/10/2026, no Pix e no cartão de cada página. O cupom MAX10EMCASACOMCECILIA dá até 10% na Max. A Dux não é parceira do site e não tem cupom nosso."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque a diferença entre os dois é de 5%. Na Max, o Pix dos produtos desta comparação sai cerca de 3% abaixo do cartão.",
+          "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
+          "As contas são estas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por dose:** preço ÷ número de doses do pote;",
+          "**preço por 100 g de proteína:** preço ÷ (doses × proteína por dose) × 100;",
+          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
+          "**preço por dia:** preço ÷ dias que o pote dura, no multivitamínico."
+        ],
+        "postParagraphs": [
+          "A coluna \"com cupom\" é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto. Pelo preço do pote, a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. O preço por 100 g de proteína iguala essas diferenças.",
+          "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, preço e regras de compra. Quem tem alguma condição de saúde ou dúvida sobre suplemento deve falar antes com o médico ou o nutricionista."
+        ]
+      },
+      {
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Preços de 20/10/2026. Os pares de 900 g são comparados por 100 g de proteína, e o pote de 1,8 kg da Dux entra como linha extra. A última coluna mostra o cupom só nas linhas da Max; a Dux não tem cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pote",
+            "Dose e proteína",
+            "Doses",
+            "Pix",
+            "Cartão",
+            "Por dose (Pix)",
+            "Por 100 g de proteína (Pix / cartão)",
+            "Com cupom (teto, por 100 g)"
+          ],
+          "rows": [
+            [
+              "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) (WPC)",
+              "900 g",
+              "30 g, 21 g de proteína",
+              "30",
+              "R$ 190,50",
+              "R$ 196,39",
+              "R$ 6,35",
+              "R$ 30,24 / R$ 31,17",
+              "R$ 27,21"
+            ],
+            [
+              "Dux Whey Protein Concentrado (WPC)",
+              "900 g",
+              "30 g, 20 g de proteína",
+              "30",
+              "R$ 350,46",
+              "R$ 368,90",
+              "R$ 11,68",
+              "R$ 58,41 / R$ 61,48",
+              "sem cupom"
+            ],
+            [
+              "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) (WPC, WPI e WPH)",
+              "900 g",
+              "40 g, 32 g de proteína",
+              "cerca de 23",
+              "R$ 265,34",
+              "R$ 273,55",
+              "R$ 11,54",
+              "R$ 36,05 / R$ 37,17",
+              "R$ 32,45"
+            ],
+            [
+              "Dux FreshWhey (WPC, WPI e WPH)",
+              "900 g",
+              "30 g, 20 g de proteína",
+              "30",
+              "R$ 433,11",
+              "R$ 455,90",
+              "R$ 14,44",
+              "R$ 72,19 / R$ 75,98",
+              "sem cupom"
+            ],
+            [
+              "[IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) (WPI)",
+              "900 g",
+              "30 g, 26 g de proteína",
+              "30",
+              "R$ 316,39",
+              "R$ 326,18",
+              "R$ 10,55",
+              "R$ 40,56 / R$ 41,82",
+              "R$ 36,51"
+            ],
+            [
+              "Dux Whey Protein Isolado (WPI)",
+              "900 g",
+              "30 g na conta, 24 g de proteína",
+              "30 na conta",
+              "R$ 532,86",
+              "R$ 560,90",
+              "R$ 17,76",
+              "R$ 74,01 / R$ 77,90",
+              "sem cupom"
+            ],
+            [
+              "Dux Whey Protein Concentrado (WPC)",
+              "1,8 kg",
+              "30 g, 20 g de proteína",
+              "60 pelo peso",
+              "R$ 615,51",
+              "R$ 647,90",
+              "R$ 10,26",
+              "R$ 51,29 / R$ 53,99",
+              "sem cupom"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada.",
+          "Na Max, o preço à vista no Pix sai cerca de 3% abaixo do cartão nestes produtos. Na Dux, o Pix tem 5% de desconto, como mostra a própria página."
+        ]
+      },
+      {
+        "heading": "Whey concentrado: 100% Whey Refil ou Whey Concentrado de 900 g",
+        "paragraphs": [
+          "Os dois são só proteína concentrada do soro do leite. A dose do [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) tem 21 g de proteína em 30 g de pó, segundo o rótulo da Max. A do concentrado da Dux tem 20 g em 30 g. Pelo Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado da Dux, a R$ 58,41: a diferença é de 48%.",
+          "Com o cupom no teto, o Refil sai a R$ 27,21. Pelo cartão, a diferença continua grande: R$ 31,17 contra R$ 61,48.",
+          "O Refil leva aromatizante, lecitina de soja e sucralose. O concentrado da Dux leva sucralose e acessulfame de potássio, e a página da Dux diz que ele é \"sem blends ou adição de outras proteínas\"."
+        ]
+      },
+      {
+        "heading": "Whey com três proteínas: Top Whey 3W ou FreshWhey",
+        "paragraphs": [
+          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) mistura WPC, WPI e WPH, e a dose de 40 g dá 32 g de proteína. Pelo Pix, sai a R$ 36,05 por 100 g. O FreshWhey da Dux tem as mesmas três proteínas, com 20 g em 30 g, e sai a R$ 72,19 por 100 g no Pix, ou R$ 75,98 no cartão. A diferença é de 50%.",
+          "A troca que muda a escolha é o adoçante. O 3W usa sucralose e lecitina de soja. O FreshWhey é adoçado com glicosídeos de esteviol (stévia) e taumatina, e a lista de ingredientes dele não traz sucralose nem lecitina. Para quem evita sucralose, o FreshWhey é a opção desta comparação. Por grama de proteína, ele custa o dobro do 3W."
+        ]
+      },
+      {
+        "heading": "Whey isolado: IsoWhey ou Whey Protein Isolado da Dux",
+        "paragraphs": [
+          "O [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) tem 26 g de proteína por dose, em 30 doses. Pelo Pix, sai a R$ 40,56 por 100 g de proteína, e R$ 36,51 com o cupom no teto. A lista de ingredientes do sabor Baunilha diz que ele não contém glúten.",
+          "O Whey Protein Isolado de 900 g da Dux declara 24 g de proteína por dose, com porções de 29 g a 30 g conforme o sabor. A conta usa 30 g, o que dá 720 g de proteína no pote. Assim, sai a R$ 74,01 por 100 g no Pix, e R$ 77,90 no cartão. A diferença é de 45% no Pix. A página da Dux não declara o número de doses do isolado.",
+          "A tabela da página do isolado da Dux traz \"contém glúten\" para os sabores. Confira o rótulo do pote antes de comprar."
+        ]
+      },
+      {
+        "heading": "Sabores, ingredientes e alérgenos",
+        "paragraphs": [
+          "Os ingredientes de cada linha, segundo as tabelas das páginas:"
+        ],
+        "bullets": [
+          "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): WPC, aromatizante, lecitina de soja e sucralose. A página lista quatro sabores: baunilha, chocolate, cookies & cream e morango.",
+          "[Max Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p): WPC, WPI e WPH, lecitina de soja, aromatizantes e sucralose.",
+          "[Max IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p): WPI, lecitina de soja, aromatizantes e sucralose. São três sabores; o morango leva corantes artificiais (amaranto e azul brilhante FCF).",
+          "Dux Whey Protein Concentrado: WPC, aromatizantes, sucralose e acessulfame de potássio na maioria dos sabores. O sabor Neutro traz só WPC. A tabela da página tem 14 sabores.",
+          "Dux FreshWhey: WPC, WPI e WPH, com glicosídeos de esteviol e taumatina como edulcorantes.",
+          "Dux Whey Protein Isolado: WPI, aromatizantes, sucralose e acessulfame de potássio. A tabela tem 11 sabores."
+        ],
+        "postParagraphs": [
+          "Sabor é experiência, e nenhum sabor entra na conta. A tabela do pote de 1,8 kg da Dux traz \"contém glúten\" e \"contém lactose\" nos sabores; a do pote de 900 g do concentrado não traz essa linha. Os rótulos de cada sabor dizem o que cada um contém. Quem tem alergia ou intolerância deve ler o rótulo na hora da compra."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g e por dose",
+        "paragraphs": [
+          "Preços de 20/10/2026. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pote",
+            "Dose",
+            "Doses",
+            "Pix",
+            "Cartão",
+            "Por dose (Pix)",
+            "Por 100 g (Pix / cartão)",
+            "Com cupom (teto, por 100 g)"
+          ],
+          "rows": [
+            [
+              "[Creatina monohidratada](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
+              "300 g",
+              "5 g",
+              "60",
+              "R$ 56,02",
+              "R$ 59,90",
+              "R$ 0,93",
+              "R$ 18,67 / R$ 19,97",
+              "R$ 16,81"
+            ],
+            [
+              "Dux Creatina Monohidratada",
+              "300 g",
+              "5 g",
+              "60",
+              "R$ 61,66",
+              "R$ 64,90",
+              "R$ 1,03",
+              "R$ 20,55 / R$ 21,63",
+              "sem cupom"
+            ],
+            [
+              "[Creatina monohidratada](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
+              "500 g",
+              "5 g",
+              "100",
+              "R$ 84,90",
+              "R$ 87,53",
+              "R$ 0,85",
+              "R$ 16,98 / R$ 17,51",
+              "R$ 15,28"
+            ],
+            [
+              "Dux Creatina Monohidratada",
+              "600 g",
+              "5 g",
+              "120",
+              "R$ 131,01",
+              "R$ 137,90",
+              "R$ 1,09",
+              "R$ 21,83 / R$ 22,98",
+              "sem cupom"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 22% abaixo do de 600 g da Dux: R$ 16,98 contra R$ 21,83. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom."
+        ]
+      },
+      {
+        "heading": "Creapure contra Creapure",
+        "paragraphs": [
+          "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã. Não fizemos checagem independente do selo.",
+          "Pelo Pix, a [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) sai a R$ 54,28 por 100 g, e a da Dux, a R$ 87,05. A diferença por grama é de 38%. Com o cupom no teto, a da Max cai para R$ 48,85. Por dose, a da Dux fica R$ 0,10 abaixo: R$ 2,61 contra R$ 2,71 no Pix, porque a dose dela é menor. A conta por grama não depende da dose, e por isso ela é a comparação que vale.",
+          "A tabela da Dux traz a linha \"contém glúten\" na creatina Creapure. Confira o rótulo."
+        ]
+      },
+      {
+        "heading": "Multivitamínico: preço por dia e valor diário",
+        "paragraphs": [
+          "Os dois são de 90 cápsulas. A Max pede três cápsulas por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Uso diário",
+            "Dias do pote",
+            "Pix",
+            "Por dia (Pix)",
+            "Com cupom (por dia)",
+            "Vitamina A por dia",
+            "Vitamina D por dia",
+            "Vitamina C por dia"
+          ],
+          "rows": [
+            [
+              "[Multimax Complex 90 cápsulas](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p)",
+              "3 cápsulas",
+              "30",
+              "R$ 55,47",
+              "R$ 1,85",
+              "R$ 1,66",
+              "76% do VD",
+              "34% do VD",
+              "46% do VD"
+            ],
+            [
+              "Dux Multivitamínico 90 cápsulas",
+              "1 cápsula",
+              "90",
+              "R$ 75,83",
+              "R$ 0,84",
+              "sem cupom",
+              "100% do VD",
+              "100% do VD",
+              "100% do VD"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preços de 20/10/2026. No cartão, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 57,19 e o da Dux, a R$ 79,82.",
+          "Pelo Pix, o multivitamínico da Dux sai a R$ 0,84 por dia, e o da Max, a R$ 1,85. Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
+        ]
+      },
+      {
+        "heading": "Pré-treino: preço por dose e cafeína",
+        "paragraphs": [
+          "O [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) tem dose de 8 g e 200 mg de cafeína por dose. O Pre Workout Original da Dux tem dose de 15 g e 300 mg de cafeína. A Dux também vende a versão Stim Free, com dose de 13,5 g, e a tabela dela não traz linha de cafeína."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pote",
+            "Dose",
+            "Doses",
+            "Cafeína por dose",
+            "Pix",
+            "Cartão",
+            "Por dose (Pix)",
+            "Com cupom (teto, por dose)"
+          ],
+          "rows": [
+            [
+              "[Shook Uva](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p)",
+              "300 g",
+              "8 g",
+              "cerca de 38",
+              "200 mg",
+              "R$ 106,59",
+              "R$ 109,89",
+              "R$ 2,81",
+              "R$ 2,52"
+            ],
+            [
+              "Dux Pre Workout Original",
+              "300 g",
+              "15 g",
+              "20",
+              "300 mg",
+              "R$ 128,16",
+              "R$ 134,90",
+              "R$ 6,41",
+              "sem cupom"
+            ],
+            [
+              "Dux Pre Workout Original Stim Free",
+              "300 g",
+              "13,5 g",
+              "cerca de 22",
+              "sem linha de cafeína",
+              "R$ 126,26",
+              "R$ 132,90",
+              "R$ 5,68",
+              "sem cupom"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preços de 20/10/2026. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
+          "Por dose, o Shook sai a R$ 2,81 no Pix, e o Pre Workout Original, a R$ 6,41. Quem evita cafeína deve olhar o rótulo: a Stim Free é a única linha desta comparação sem cafeína na tabela e na lista de ingredientes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-dux-multivitaminico-e-pre-treino.webp",
+            "alt": "Barras com o preço no Pix: multivitamínico por dia, Dux R$ 0,84 e Max Multimax Complex R$ 1,85 (R$ 1,66 com cupom); pré-treino por dose, Max Shook R$ 2,81, Dux Stim Free R$ 5,68 e Dux Pre Workout Original R$ 6,41",
+            "caption": "Multivitamínico por dia e pré-treino por dose, no Pix, com os preços das páginas oficiais em 20/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, frete e pagamento",
+        "paragraphs": [
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% na Max, e o percentual varia por produto. Num [Top Whey 3W 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) que estava em promoção, por R$ 189,00 no dia, o cupom deu R$ 16,75 de desconto, ou 8,9%, em checkout de 14/10/2026. Por isso a conta com cupom usa 10% como teto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Max Titanium",
+            "Dux"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "MAX10EMCASACOMCECILIA: até 10%, o percentual varia por produto",
+              "Nenhum cupom nosso"
+            ],
+            [
+              "Pix",
+              "Preço à vista no Pix na página, cerca de 3% abaixo do cartão nos produtos desta comparação",
+              "5% abaixo do cartão, pela própria página"
+            ],
+            [
+              "Parcelamento sem juros",
+              "6x no whey de 900 g (6x de R$ 32,73 no Refil)",
+              "4x no whey de 900 g (4x de R$ 92,23)"
+            ],
+            [
+              "Frete grátis a partir de",
+              "R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte",
+              "R$ 250 no Sul, no Sudeste e no Centro-Oeste, R$ 300 no Nordeste e R$ 400 no Norte"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Regras lidas em 20/10/2026. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "paragraphs": [
+          "A comparação só fica justa se cada lado tiver o que ganha:"
+        ],
+        "bullets": [
+          "**A Max ganha no whey.** Pelo Pix, o [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custa 48% a menos por 100 g de proteína que o concentrado da Dux. O [3W](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) custa 50% a menos que o FreshWhey, e o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), 45% a menos que o isolado da Dux.",
+          "**A Max ganha na creatina.** A [monohidratada de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) custa 9% a menos por grama que a da Dux, e o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 22% a menos que o de 600 g. A [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custa 38% a menos por grama que a da Dux.",
+          "**A Max ganha no pré-treino por dose.** São R$ 2,81 contra R$ 6,41 no Pix.",
+          "**A Max ganha no parcelamento e no frete.** São 6x sem juros no whey, contra 4x da Dux. O frete grátis da Max começa em R$ 134 no Sudeste, e o da Dux, em R$ 250.",
+          "**A Dux ganha no multivitamínico por dia.** São R$ 0,84 contra R$ 1,85 no Pix. Uma cápsula da Dux traz 100% do valor diário de várias vitaminas, e a Max pede três. A tabela da Max traz mais minerais.",
+          "**A Dux ganha no adoçante do FreshWhey.** A stévia e a taumatina substituem a sucralose e a lecitina do 3W. Para quem evita sucralose, a Dux tem a linha.",
+          "**A Dux ganha em sabores.** O concentrado tem 14 sabores na tabela da página, e tem um Neutro, só com WPC. O Refil da Max tem quatro sabores, e o IsoWhey, três.",
+          "**A Dux ganha no pré-treino sem cafeína.** A Stim Free não traz linha de cafeína. Nesta comparação, a Max não tem pré-treino sem cafeína."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "Pelos rótulos e pelos preços de 20/10/2026:"
+        ],
+        "bullets": [
+          "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto.",
+          "Quer whey de três proteínas, com 40 g por dose: o [Top Whey 3W + Performance 900 g da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), a R$ 36,05 por 100 g no Pix. Quer o mesmo tipo de proteína com adoçante de stévia e taumatina: o FreshWhey da Dux, a R$ 72,19.",
+          "Quer isolado: o [IsoWhey 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) sai a R$ 40,56 por 100 g no Pix, contra R$ 74,01 do isolado da Dux.",
+          "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
+          "Quer multivitamínico pelo menor custo por dia: o da Dux, com uma cápsula, a R$ 0,84 no Pix. Quer mais minerais na tabela: o [Multimax Complex 90 cápsulas da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p), a R$ 1,85 por dia.",
+          "Quer pré-treino pelo menor custo por dose: o [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p), a R$ 2,81 por dose no Pix, com 200 mg de cafeína. Quer sem cafeína: a Stim Free da Dux, a R$ 5,68 por dose."
+        ],
+        "postParagraphs": [
+          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Max Titanium ou Dux: qual é melhor? Depende da linha. Whey e creatina saem mais baratos na Max. O multivitamínico por dia sai mais barato na Dux, e o FreshWhey tem o adoçante que a Max não usa nesses produtos.",
+          "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
+          "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Entre as monohidratadas da Dux, a de 600 g sai a R$ 21,83 por 100 g no Pix.",
+          "A Dux é boa marca? Esta comparação responde só pelo rótulo, pela fórmula que a Dux declara e pelo preço. A Dux diz que o concentrado é \"sem blends ou adição de outras proteínas\", com 20 g de proteína em 30 g. O de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
+          "A Dux tem cupom? Não. A Dux não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
+          "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure. A Max também declara o selo na [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p).",
+          "O cupom da Max vale no Pix? A página da loja diz que o cupom vale com todas as formas de pagamento. A conta com cupom deste texto é o teto: 10% sobre o preço do Pix.",
+          "Os preços valem hoje? Eles são de 20/10/2026 e mudam com as promoções. Confira no site de cada loja antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Max Titanium. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA, sem custo extra para quem compra. A Dux não é parceira do site: não há link, cupom nem recomendação dela.",
+          "Fontes: tabelas nutricionais, listas de ingredientes, preços e políticas de frete dos sites oficiais da Max Titanium (maxtitanium.com.br) e da Dux (duxhumanhealth.com), lidos em 20/10/2026. O checkout com o cupom de 14/10/2026 aparece em print guardado pela equipe.",
+          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar. Dúvidas sobre alergia, intolerância ou dieta: fale com um nutricionista ou um médico."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Dux não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-ou-growth",
+        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-ou-probiotica",
+        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      },
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "slug": "probiotica-ou-dux",
+    "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Probiótica ou Dux: whey e creatina por dose",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Probiótica ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, Creapure, a Dux no cartão e no Pix e a Probiótica com e sem o cupom PRO10EMCASACOMCECILIA.",
+    "metaDescription": "Probiótica ou Dux: whey e creatina comparados por 100 g de proteína e de creatina, Creapure, ingredientes, cupom PRO10EMCASACOMCECILIA, Pix e frete.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
+    "imageAlt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Probiótica refil R$ 38,10 e pote R$ 40,82, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Probiótica 300 g R$ 18,97 e Creapure R$ 64,59, Dux monohidratada R$ 20,55 e Creapure R$ 87,05",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 20/10/2026, o whey da Probiótica sai mais barato por grama de proteína que o da Dux, com ou sem cupom. Na creatina de 300 g, a Probiótica também fica abaixo. A Dux tem a lista de ingredientes mais curta na creatina de 300 g: só creatina monohidratada."
+        ],
+        "bullets": [
+          "Whey: R$ 40,82 por 100 g de proteína no Pix no [pote de 900 g da Probiótica](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), contra R$ 58,41 no Pix do Whey Protein Concentrado de 900 g da Dux. Com o cupom no teto, o pote da Probiótica sai a R$ 36,74.",
+          "Creatina: R$ 18,97 por 100 g no Pix na [creatina monohidratada de 300 g da Probiótica](https://www.probiotica.com.br/creatina-300g/p), e R$ 17,07 no teto do cupom. A monohidratada de 300 g da Dux sai a R$ 20,55 no Pix.",
+          "Creapure: a [Creapure de 150 g da Probiótica](https://www.probiotica.com.br/creatina-creapure--150g/p) sai a R$ 64,59 por 100 g no Pix. O pote de 300 g da Dux, que a Dux declara Creapure, sai a R$ 87,05 por 100 g no Pix."
+        ],
+        "postParagraphs": [
+          "Os preços são de 20/10/2026. O cupom PRO10EMCASACOMCECILIA é da Probiótica; a Dux não tem cupom nosso."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
+          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque o Pix tem 5% de desconto. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
+          "As contas são estas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "preço por dose: preço ÷ número de doses do pote;",
+          "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
+          "preço por 100 g de creatina: preço ÷ gramas do pote × 100."
+        ],
+        "postParagraphs": [
+          "O preço do pote, sozinho, engana. As doses das duas têm 30 g de pó e 20 g de proteína, e a conta por 100 g de proteína iguala potes de tamanhos diferentes, como o de 1,8 kg da Dux. O cupom aparece como teto: 10% sobre o preço no Pix da Probiótica, o maior desconto possível em cada linha."
+        ]
+      },
+      {
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Preços de 20/10/2026. A Probiótica aparece com o cartão e o Pix, e a linha com cupom é o teto. A Dux aparece com o cartão e o Pix.",
+          "A dose da Probiótica tem 20 g de proteína em 30 g, pela tabela nutricional do sabor Baunilha. A página do pote traz outra faixa, de 20 g a 24 g por dose, e a conta não usa essa faixa. A Dux declara 20 g de proteína em 30 g no Baunilha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pote",
+            "Dose e proteína",
+            "Doses",
+            "Preço",
+            "Por dose",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Probiótica 100% Pure Whey, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
+              "900 g",
+              "30 g, com 20 g de proteína",
+              "30",
+              "R$ 252,49 no cartão; R$ 244,92 no Pix",
+              "R$ 8,42 no cartão; R$ 8,16 no Pix",
+              "R$ 42,08 no cartão; R$ 40,82 no Pix"
+            ],
+            [
+              "[Probiótica 100% Pure Whey, Baunilha, com cupom (teto)](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
+              "900 g",
+              "30 g, com 20 g de proteína",
+              "30",
+              "R$ 220,43 (Pix menos 10%)",
+              "R$ 7,35",
+              "R$ 36,74"
+            ],
+            [
+              "[Probiótica 100% Pure Whey Refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p)",
+              "900 g",
+              "30 g, com 20 g de proteína",
+              "30",
+              "R$ 235,65 no cartão; R$ 228,58 no Pix",
+              "R$ 7,86 no cartão; R$ 7,62 no Pix",
+              "R$ 39,28 no cartão; R$ 38,10 no Pix"
+            ],
+            [
+              "Dux Whey Protein Concentrado, Baunilha",
+              "900 g",
+              "30 g, com 20 g de proteína",
+              "30",
+              "R$ 368,90 no cartão; R$ 350,46 no Pix",
+              "R$ 12,30 no cartão; R$ 11,68 no Pix",
+              "R$ 61,48 no cartão; R$ 58,41 no Pix"
+            ],
+            [
+              "Dux Whey Protein Concentrado, Baunilha (tamanho diferente)",
+              "1,8 kg",
+              "30 g, com 20 g de proteína",
+              "60",
+              "R$ 647,90 no cartão; R$ 615,51 no Pix",
+              "R$ 10,80 no cartão; R$ 10,26 no Pix",
+              "R$ 53,99 no cartão; R$ 51,29 no Pix"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso. O refil de 900 g da Probiótica tem a mesma tabela, 20 g em 30 g, e com o cupom no teto sai a R$ 205,72, ou R$ 34,29 por 100 g de proteína."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-dux-whey-por-dose.webp",
+            "alt": "Barras com o preço por dose de whey no Pix: Probiótica refil R$ 7,62 (R$ 6,86 com cupom), Probiótica pote R$ 8,16 (R$ 7,35), Dux 1,8 kg R$ 10,26 e Dux 900 g R$ 11,68",
+            "caption": "Quanto custa cada dose de 30 g de whey no Pix, com os preços das páginas oficiais em 20/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Pote de 900 g: a diferença é o preço",
+        "paragraphs": [
+          "Os dois potes de 900 g têm 30 doses de 30 g e 20 g de proteína por dose, ou seja, 600 g de proteína cada um. O pote da Probiótica sai a R$ 40,82 por 100 g de proteína no Pix. O da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão. A diferença no Pix é de R$ 17,59 por 100 g de proteína.",
+          "O concentrado de 1,8 kg é a linha mais barata da Dux por 100 g de proteína: R$ 51,29 no Pix. Mesmo assim, fica acima do pote de 900 g da Probiótica, a R$ 40,82 no Pix."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g",
+        "paragraphs": [
+          "Preços de 20/10/2026. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pote",
+            "Dose",
+            "Doses",
+            "Preço",
+            "Por dose",
+            "Por 100 g de creatina"
+          ],
+          "rows": [
+            [
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p)",
+              "300 g",
+              "5 g",
+              "60",
+              "R$ 59,90 no cartão; R$ 56,90 no Pix",
+              "R$ 1,00 no cartão; R$ 0,95 no Pix",
+              "R$ 19,97 no cartão; R$ 18,97 no Pix"
+            ],
+            [
+              "[Probiótica Creatina Monohidratada Pura, com cupom (teto)](https://www.probiotica.com.br/creatina-300g/p)",
+              "300 g",
+              "5 g",
+              "60",
+              "R$ 51,21 (Pix menos 10%)",
+              "R$ 0,85",
+              "R$ 17,07"
+            ],
+            [
+              "Dux Creatina Monohidratada",
+              "300 g",
+              "5 g (1 dosador)",
+              "60",
+              "R$ 64,90 no cartão; R$ 61,66 no Pix",
+              "R$ 1,08 no cartão; R$ 1,03 no Pix",
+              "R$ 21,63 no cartão; R$ 20,55 no Pix"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Probiótica de 300 g é a mais barata por grama, no Pix e com o cupom no teto. Por dose, a diferença no Pix é de R$ 0,08 (R$ 0,95 contra R$ 1,03)."
+        ]
+      },
+      {
+        "heading": "Creapure: o que cada loja declara",
+        "paragraphs": [
+          "A Dux declara Creapure na linha de 300 g. Segundo a página, a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux; não checamos a origem. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
+          "Por 100 g, a Creapure da Probiótica sai a R$ 64,59 no Pix (R$ 66,59 no cartão). A da Dux sai a R$ 87,05 no Pix (R$ 91,63 no cartão). Pelo preço por grama, a Probiótica fica cerca de 26% abaixo no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
+          "Esta comparação não trata de efeito no corpo. Para creatina, o rótulo diz quanto de creatina vem em cada dose e quanto custa."
+        ]
+      },
+      {
+        "heading": "Ingredientes e alérgenos",
+        "paragraphs": [
+          "O whey Baunilha da Probiótica lista proteína concentrada do soro do leite (WPC), emulsificante lecitina de soja, aromatizantes, espessante goma xantana e edulcorante sucralose. A página diz que o Baunilha não contém glúten.",
+          "O whey Baunilha da Dux lista proteína de soro do leite concentrada, aromatizante, edulcorantes sucralose e acessulfame de potássio, e corantes extrato de urucum, base norbixina e curcumina. A lista não tem lecitina nem goma xantana. A Dux diz, na página, que a proteína do concentrado é 100% do soro do leite, sem blend com outras proteínas. Os aditivos de sabor estão na lista acima.",
+          "Os avisos de glúten da Dux não batem entre as páginas. O FAQ diz que só os sabores Cookies, Butter Cookies e Banoffee têm trigo. Na página do pote de 1,8 kg, o aviso de alergênicos do Baunilha diz que contém derivados de soja e de leite, lactose e glúten. A página do pote de 900 g não traz esse aviso para o Baunilha. Confira o rótulo antes de comprar.",
+          "Na creatina, a Probiótica de 300 g declara \"não contém glúten\" e \"lactose: não contém\". A monohidratada da Dux diz que pode conter glúten, porque os equipamentos têm contato com alimentos que contêm glúten. A linha Creapure da Dux traz \"contém glúten\" no aviso de alergênicos. A Creapure de 150 g da Probiótica declara \"não contém glúten\".",
+          "Quem tem alergia ou intolerância deve ler o rótulo na hora da compra."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o desconto muda por item: o resumo do pedido mostra quanto cada um recebeu. As regras e o passo a passo estão na [página do cupom da Probiótica](/cupons/probiotica). A página do cupom registra aceite no checkout em 13/10/2026. A regra do cupom diz que ele vale com todas as formas de pagamento e soma com as promoções vigentes do site. A Dux não é parceira do site e não tem cupom nosso."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Condição",
+            "Probiótica",
+            "Dux"
+          ],
+          "rows": [
+            [
+              "Cupom",
+              "PRO10EMCASACOMCECILIA: até 10%, com o desconto por item",
+              "Nenhum cupom nosso"
+            ],
+            [
+              "Desconto no Pix",
+              "3% no whey e 5% na creatina, pelo preço da página",
+              "5% no Pix, não acumulável com algumas promoções"
+            ],
+            [
+              "Frete grátis a partir de",
+              "São Paulo (capital) R$ 104; Sudeste R$ 134; Centro-Oeste R$ 204; Sul R$ 249; Nordeste R$ 299; Norte R$ 599",
+              "Sul, Sudeste e Centro-Oeste R$ 250; Nordeste R$ 300; Norte R$ 400"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta com cupom parte do preço no Pix e tira 10%. Um item que recebe menos de 10% fica acima dessa conta. Os fretes são os de 20/10/2026."
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "bullets": [
+          "A Dux ganha na creatina de 300 g: a lista tem só creatina monohidratada. A da Probiótica de 300 g lista antiumectante dióxido de silício.",
+          "A Dux ganha na versão neutra: o Neutro tem 27 g por dose, com 20 g de proteína, e a lista traz só proteína concentrada do soro do leite.",
+          "A Dux ganha no Pix: 5% em todos os produtos lidos. Na Probiótica, o Pix dá 3% no whey e 5% na creatina.",
+          "A Probiótica ganha no whey de 900 g: R$ 40,82 por 100 g de proteína no Pix, contra R$ 58,41 da Dux. Com o cupom no teto, R$ 36,74.",
+          "A Probiótica ganha na creatina de 300 g: R$ 18,97 por 100 g no Pix, contra R$ 20,55 da Dux. Com o cupom no teto, R$ 17,07.",
+          "A Probiótica ganha no Creapure: R$ 64,59 por 100 g no Pix, contra R$ 87,05 da Dux.",
+          "A Probiótica ganha no cupom: até 10% em todo o site, com desconto por item.",
+          "A Probiótica ganha no frete: grátis a partir de R$ 134 no Sudeste (R$ 104 na capital paulista), contra R$ 250 da Dux."
+        ],
+        "postParagraphs": [
+          "Os sabores ficam de fora da conta. O pote de 900 g da Dux lista 14 sabores, e o da Probiótica, 13, pela lista de cada loja.",
+          "O whey da Probiótica e o concentrado da Dux são ambos de soro do leite concentrado. É a comparação de whey mais justa. A linha de 1,8 kg da Dux entra porque é a Dux mais barata por grama de proteína."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "bullets": [
+          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
+          "Quer o refil de 900 g: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
+          "Quer whey concentrado da Dux, incluindo o Neutro sem sabor: o pote de 900 g da Dux, a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
+          "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
+          "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
+          "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
+        ],
+        "postParagraphs": [
+          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Probiótica ou Dux: qual é melhor? Depende da linha. No whey de 900 g, a Probiótica sai mais barata por 100 g de proteína. Na creatina de 300 g, também. A Dux tem a creatina com a lista mais curta. As duas vendem uma linha Creapure, e a da Probiótica sai mais barata por grama.",
+          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o pote de 900 g da Probiótica, a R$ 40,82 no Pix. O concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
+          "Qual a melhor creatina, Probiótica ou Dux? Por grama, a monohidratada de 300 g da Probiótica, a R$ 18,97 no Pix. A da Dux sai a R$ 20,55 no Pix.",
+          "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
+          "A Dux tem cupom? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica.",
+          "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
+          "Os preços valem hoje? Eles são de 20/10/2026 e mudam com as promoções. Confira nos dois sites antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Probiótica. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Dux não é parceira do site: não há link, cupom nem recomendação dela. A Dux aparece aqui só como referência de preço e de fórmula.",
+          "Fontes: tabelas nutricionais, listas de ingredientes, preços e formas de pagamento dos sites oficiais probiotica.com.br e duxhumanhealth.com, lidos em 20/10/2026; a política de frete grátis da Probiótica, na página de produto, lida em 20/10/2026; e a página do cupom PRO10EMCASACOMCECILIA.",
+          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar. Dúvidas sobre alergia, intolerância ou dieta: fale com um nutricionista ou um médico."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Probiótica e aplique o cupom PRO10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Probiótica; a Dux não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-ou-growth",
+        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-ou-probiotica",
+        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
       }
     ]
   }
