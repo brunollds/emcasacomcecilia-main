@@ -240,7 +240,7 @@ O Bruno decide depois se eu leio no Chrome dele. Até lá, cada item fica marcad
 3. **H2 "Quantas pessoas, quantos cafés por dia":** fórmula (pessoas × bebidas × dias úteis × cápsulas por bebida), 22 dias úteis.
 4. **H2 "Qual tipo de máquina para cada perfil":** cápsula (Dolce Gusto, Nespresso, 3 Corações), cafeteira elétrica de filtro (Oster e similares), superautomática de grãos. Organizado por perfil, com "sem cápsula" e "grãos" tratados aqui.
 5. **H2 "Custo por mês por perfil":** tabela com os cenários (seção 10 abaixo), incluindo custo por xícara de filtro e de grão (pendente).
-6. **H2 "Bebidas com leite contam em dobro":** cappuccino de duas cápsulas, cálculo.
+6. **H2 "Mais que café: chá gelado, chocolate e bebidas com leite":** a vantagem da Dolce Gusto num escritório onde nem todo mundo toma café (decisão 6 abaixo); quais gastam duas cápsulas e o custo de cada uma.
 7. **H2 "Dolce Gusto na conta do escritório":** caixa de 10, cupom CECI (uma frase com o limite), frete grátis acima de R$ 100 na campanha, promoção de caixas com Mini Me; único link de compra.
 8. **H2 "Reservatório, descarte e ritmo de uso":** reservatório 0,8 L (Dolce Gusto) e 1 L (NEO), descarte manual nas Dolce Gusto, capacidade de descarte [pendente], tempo entre cafés [pendente].
 9. **H2 "Garantia e uso comercial":** garantia de 1 ano (ficha oficial) e o que falta confirmar para uso comercial [pendente].
@@ -311,6 +311,27 @@ Dolce Gusto, caixa de 10 (café puro R$ 1,79 e cappuccino R$ 3,58 no preço do d
 - **A Nespresso tem a Nespresso Profissional** (Zenius, Momento 100 e 200, Aguila 220), com preço sob contato. O texto cita a linha, sem preço.
 - **O filtro sai muito mais barato por xícara** (R$ 0,44 com Melitta Tradicional, 80 g por litro e xícara de 100 ml). O texto diz isso no perfil de equipe grande que só toma café preto.
 - **Pendente para a redação (perguntar ao Bruno antes de publicar):** se o CECI vale nos combos "Para Negócios" (a faixa do dia exclui "máquinas e combos" do brinde, não do cupom; testar ou perguntar).
+
+### Decisão 6: variedade de bebidas é a vantagem da Dolce Gusto (Bruno, 19/10/2026)
+
+No escritório nem todo mundo toma café. A mesma máquina Dolce Gusto faz cappuccino e outras bebidas com leite, chá gelado, chocolate quente e chá. Isso entra como argumento central da seção da Dolce Gusto e da resposta rápida: a máquina de cápsula é a que atende o time inteiro. O filtro continua mais barato para quem só toma café preto, e o texto segue dizendo isso.
+
+Site da Dolce Gusto (`/sabores`, 19/10/2026): "mais de 50 bebidas", com as categorias Lattes, Chocolates e Chás. Cápsulas por bebida conforme a página de cada produto; preço do dia na caixa de 10 cápsulas:
+
+| Bebida | Cápsulas por bebida | Bebidas por caixa | Preço do dia | Por bebida |
+|---|---|---|---|---|
+| Nestea Pêssego (chá gelado) | 1 | 10 | R$ 19,99 | R$ 2,00 |
+| Nestea Mate Limão (chá gelado) | 1 | 10 | R$ 19,99 | R$ 2,00 |
+| Nescau (chocolate) | 1 | 10 | R$ 19,99 | R$ 2,00 |
+| Mochaccino Canela | 1 | 10 | R$ 19,99 | R$ 2,00 |
+| Cappuccino | 2 | 5 | R$ 17,90 | R$ 3,58 |
+| Latte Macchiato | 2 | 5 | R$ 20,99 | R$ 4,20 |
+| Chococino Nestlé | 2 | 5 | R$ 21,99 | R$ 4,40 |
+| Chai Tea Latte | 2 | 5 | R$ 19,99 | R$ 4,00 |
+
+- O Mochaccino Canela está nos combos "Para Negócios" (20 caixas a R$ 373,50, ou seja R$ 1,87 por bebida): é a bebida com leite e uma cápsula mais barata para o escritório.
+- Justiça com a concorrência: a TRES também faz bebidas cremosas e chás (multipressão, lido no site da TRES); o texto diz isso. Na Nespresso Original, as cápsulas lidas em 19/10 são de café, e as bebidas com leite dependem de leite fresco e de máquina com espumador (Momento 200 e Aguila 220, na linha Profissional).
+- O texto não dá informação nutricional nem fala de saúde das bebidas.
 
 ### Dados do navegador (19/10/2026)
 
