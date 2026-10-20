@@ -6,7 +6,9 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[cueca-insider-comfort-ou-performance]] — Insider, cueca Comfort, Performance, Seamless Touch ou Slip: qual escolher, preço por peça e kits com o cupom (Score Aut: 70 / Conv: 82); junto, corrigir os preços de cueca do `insider-vale-a-pena` e linkar este guia
+- [ ] [[undershirt-insider-qual-escolher-funciona]] — Insider, Undershirt Antissuor Leve, Moderado ou Block pelo nível de suor (Score Aut: 62 / Conv: 80)
+- [ ] [[presente-de-natal-insider-kits-gift-card]] — Insider, presente de Natal: Kits Presente por faixa de preço, gift card, sacola e troca de presente (Score Aut: 62 / Conv: 78)
 
 ---
 
