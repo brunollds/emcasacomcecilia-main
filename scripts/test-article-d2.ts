@@ -10,6 +10,8 @@ import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp } from './l
 import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { getStoreCode } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
+import { DropCapParagraph } from '@/components/editorial/DropCapParagraph';
+import { AnimatedTextHighlight } from '@/components/editorial/AnimatedTextHighlight';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { buildSchemaAuthors } from '@/lib/content';
@@ -344,5 +346,19 @@ assert.ok(
 const changelog = (variant?: 'd2') => renderToStaticMarkup(createElement(ChangelogDetails, { entries: [{ date: '2026-10-01', text: 'Revisado.' }], variant }));
 assert.ok(!OLD_HEX.test(changelog('d2')), 'ChangelogDetails d2 com cor antiga');
 assert.ok(OLD_HEX.test(changelog()), 'ChangelogDetails padrão (receitas) mudou de cor');
+
+// A capitular não come o primeiro caractere da marcação: com ela, "**Preços:**" virava "*" e "*Preços:**".
+const dropCap = (text: string) =>
+  renderToStaticMarkup(createElement(DropCapParagraph, { text, variant: 'd2', renderText: (rest: string) => `[${rest}]` }));
+assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('aria-hidden'), 'parágrafo que abre com negrito ganhou capitular');
+assert.ok(dropCap('**Preços de hoje:** veja a tabela.').includes('[**Preços de hoje:** veja a tabela.]'), 'parágrafo que abre com negrito perdeu a marcação');
+assert.ok(dropCap('Hoje no site.').includes('aria-hidden="true"'), 'parágrafo comum sem capitular');
+
+// Link externo no texto (tabela, parágrafo, FAQ) vai a loja parceira: sai com sponsored; o interno, sem rel.
+const inline = renderToStaticMarkup(
+  createElement(AnimatedTextHighlight, { text: '[Caneca](https://letseatit.com.br/products/caneca) e [cupom](/cupons/letseatit)', variant: 'd2' })
+);
+assert.ok(inline.includes('href="https://letseatit.com.br/products/caneca" target="_blank" rel="sponsored noopener noreferrer"'), 'link externo do texto sem sponsored');
+assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno do texto ganhou rel');
 
 console.log(`✅ artigo D2: relacionados, bloco da loja, textos novos, trilha, galeria, a regra da barra do celular (${dockCases.length} casos) e o topo do artigo`);

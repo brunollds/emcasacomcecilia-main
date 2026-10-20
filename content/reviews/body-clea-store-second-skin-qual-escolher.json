@@ -27,120 +27,74 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Os seis modelos de body da Cléa Store, com o que a própria loja diz de cada um e o preço de venda em 20/10/2026 (o preço cheio está entre parênteses):"
+        "A Cléa Store tem seis bodies Second Skin, todos de 90% poliamida e 10% elastano, em P, M e G. Preços de 20/10/2026, de R$ 50,70 a R$ 135,20."
       ],
-      "comparisonTable": {
-        "headers": [
-          "Modelo",
-          "Uso que a loja indica",
-          "Gola e manga",
-          "Cores",
-          "Preço de venda (20/10/2026)"
-        ],
-        "rows": [
-          [
-            "Body Gola Alta Manga Longa Second Skin",
-            "Usar sozinho ou com blazers e casacos",
-            "Gola alta, manga longa",
-            "Amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho (7)",
-            "R$ 135,20 (cheio R$ 169,00)"
-          ],
-          [
-            "Body Regata Second Skin Duplo",
-            "Com jeans, saias, shorts e alfaiataria",
-            "Gola alta, regata",
-            "Marrom, off white, preto, rosa claro, roxo e vinho (6)",
-            "R$ 127,20 (cheio R$ 159,00)"
-          ],
-          [
-            "Body Frente Única Decote Second Skin – Design Especial",
-            "Produções sofisticadas, encontros e ocasiões especiais",
-            "Decote profundo na frente, sem gola; a ficha não informa a manga",
-            "Marrom, off white e preto (3)",
-            "R$ 95,40 (cheio R$ 159,00)"
-          ],
-          [
-            "Body Decote Reversível Second Skin – Design Especial",
-            "Decote na frente ou nas costas, com jeans, saias ou alfaiataria",
-            "Decote na frente ou nas costas; a ficha não informa a manga",
-            "Off white e preto (2)",
-            "R$ 79,50 (cheio R$ 159,00)"
-          ],
-          [
-            "Body Regata Cavado Second Skin",
-            "Produções casuais ou sofisticadas",
-            "Regata, cavas profundas",
-            "Amarelo, off white, poá off white, poá preto, preto e rosa claro (6)",
-            "R$ 50,70 (cheio R$ 169,00)"
-          ],
-          [
-            "Body Ombro Único Com Detalhe nas Costas",
-            "Jeans, saias ou calças de alfaiataria",
-            "Um ombro só, decote assimétrico, abertura nas costas",
-            "Marrom, off white, preto e rosa claro (4)",
-            "R$ 79,50 (cheio R$ 159,00)"
-          ]
-        ]
-      },
+      "bullets": [
+        "Por baixo do blazer ou no frio: Body Gola Alta Manga Longa, R$ 135,20.",
+        "Com jeans, saia ou alfaiataria no dia a dia: Body Regata Second Skin Duplo, R$ 127,20.",
+        "Para a noite e ocasiões especiais: Body Frente Única Decote, R$ 95,40, ou Body Ombro Único, R$ 79,50.",
+        "Dois looks numa peça só: Body Decote Reversível, R$ 79,50, com o decote na frente ou nas costas.",
+        "O mais barato: Body Regata Cavado, R$ 50,70."
+      ],
       "postParagraphs": [
-        "Os preços mudam com a promoção do dia; confira na página do produto."
+        "O cupom CSEMCASACOMCECILIA tira mais 10% no site. Os preços mudam com a promoção do dia; confira na página do produto."
       ]
     },
     {
       "heading": "Os 6 modelos lado a lado",
       "paragraphs": [
-        "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição."
+        "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
       ],
       "comparisonTable": {
         "headers": [
           "Modelo",
-          "Cuidados na ficha",
-          "Preço cheio",
-          "Preço de venda (20/10/2026)",
+          "Gola e manga",
+          "Cores",
+          "Preço de venda",
           "Leve 3 (preço por peça)"
         ],
         "rows": [
           [
             "Body Gola Alta Manga Longa",
-            "Sim",
-            "R$ 169,00",
-            "R$ 135,20",
-            "R$ 101,40 (3 unidades: R$ 304,20)"
+            "Gola alta, manga longa",
+            "7: amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho",
+            "R$ 135,20 (R$ 169,00)",
+            "R$ 101,40 (R$ 304,20 as três)"
           ],
           [
             "Body Regata Second Skin Duplo",
-            "Sim",
-            "R$ 159,00",
-            "R$ 127,20",
-            "R$ 95,40 (3 unidades: R$ 286,20)"
+            "Gola alta, regata",
+            "6: marrom, off white, preto, rosa claro, roxo e vinho",
+            "R$ 127,20 (R$ 159,00)",
+            "R$ 95,40 (R$ 286,20 as três)"
           ],
           [
-            "Body Frente Única Decote Second Skin",
-            "Sim",
-            "R$ 159,00",
-            "R$ 95,40",
-            "Sem leve 3 na página"
+            "Body Frente Única Decote",
+            "Decote profundo na frente, sem gola",
+            "3: marrom, off white e preto",
+            "R$ 95,40 (R$ 159,00)",
+            "Sem leve 3"
           ],
           [
-            "Body Decote Reversível Second Skin",
-            "Sim",
-            "R$ 159,00",
-            "R$ 79,50",
-            "Sem leve 3 na página"
+            "Body Decote Reversível",
+            "Decote na frente ou nas costas",
+            "2: off white e preto",
+            "R$ 79,50 (R$ 159,00)",
+            "Sem leve 3"
           ],
           [
-            "Body Regata Cavado Second Skin",
-            "Sim",
-            "R$ 169,00",
-            "R$ 50,70",
-            "Sem leve 3 na página"
+            "Body Regata Cavado",
+            "Regata, cavas profundas",
+            "6: amarelo, off white, poá off white, poá preto, preto e rosa claro",
+            "R$ 50,70 (R$ 169,00)",
+            "Sem leve 3"
           ],
           [
             "Body Ombro Único Com Detalhe nas Costas",
-            "Não",
-            "R$ 159,00",
-            "R$ 79,50",
-            "Sem leve 3 na página"
+            "Um ombro só, decote assimétrico, abertura nas costas",
+            "4: marrom, off white, preto e rosa claro",
+            "R$ 79,50 (R$ 159,00)",
+            "Sem leve 3"
           ]
         ]
       },
@@ -215,7 +169,7 @@
         {
           "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
           "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-          "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+          "caption": "Tabela de medidas lida no site da Cléa Store. Quadro do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 2.1053
         }
@@ -224,8 +178,8 @@
     {
       "heading": "Kit de 3 bodies: quanto sai cada peça",
       "paragraphs": [
-        "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Em 20/10/2026, cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
-        "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026; os desta página, de 20/10/2026."
+        "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
+        "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026."
       ]
     },
     {
@@ -250,14 +204,14 @@
       "heading": "Avaliações públicas dos bodies Second Skin",
       "paragraphs": [
         "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura de 20/10/2026 nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, na leitura de 19/10/2026.",
-        "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura de 20/10/2026, então este texto não traz número para eles."
+        "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
       ]
     },
     {
       "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
       "paragraphs": [
         "O cupom CSEMCASACOMCECILIA dá 10% de desconto no site oficial da Cléa Store, em todas as formas de pagamento. Ele soma com as promoções vigentes e com o cashback da loja. Não vale no Mercado Livre. O valor final aparece no carrinho.",
-        "A conta é feita sobre o preço de venda de 20/10/2026. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
+        "A conta é feita sobre o preço de venda. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
         "Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store) e o passo a passo em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar).",
         "Os bodies Gola Alta e Duplo também aparecem na loja oficial da Cléa no Mercado Livre, mas sem o cupom. A comparação está em [Mercado Livre ou site da Cléa Store: onde comprar](/reviews/clea-store-mercado-livre-ou-site)."
       ],
@@ -274,6 +228,12 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Para que serve o Body Gola Alta Manga Longa? Segundo a loja, para usar sozinho ou com blazers e casacos. Tem gola alta e manga longa.",
+        "Com o que usar o Body Regata Duplo? A loja indica com jeans, saias, shorts e alfaiataria. É regata, com gola alta.",
+        "O Body Frente Única é para qual ocasião? A loja fala em produções sofisticadas, encontros e ocasiões especiais. Tem decote profundo na frente, sem gola.",
+        "Como funciona o Body Decote Reversível? Ele pode ser usado com o decote na frente ou nas costas, e a loja indica com jeans, saias ou alfaiataria.",
+        "O Body Regata Cavado é casual? A loja diz que ele serve para produções casuais ou sofisticadas. É regata, com cavas profundas.",
+        "Com o que combina o Body Ombro Único? A loja indica com jeans, saias ou calças de alfaiataria. Tem um ombro só, decote assimétrico e abertura nas costas.",
         "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
         "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
         "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",

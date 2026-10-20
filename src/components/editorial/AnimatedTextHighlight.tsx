@@ -149,7 +149,8 @@ export function AnimatedTextHighlight({
               key={`link-${index}`}
               href={segment.href}
               target={segment.href.startsWith('/') ? undefined : '_blank'}
-              rel={segment.href.startsWith('/') ? undefined : 'noopener noreferrer'}
+              // Link externo no texto é de loja parceira (produto, loja oficial, página da marca): sponsored.
+              rel={segment.href.startsWith('/') ? undefined : 'sponsored noopener noreferrer'}
               className={styles.link}
             >
               <HighlightedText

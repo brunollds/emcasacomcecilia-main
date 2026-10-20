@@ -38931,6 +38931,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-calca-vermelha.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-calca-vermelha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41978,
+      "sha256": "b4422aa2ff4699d6d02341bde851cb914b83c8d403aca40cfd5230991cb365ca",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-calca-vermelha.webp",
+      "storage_filename": "clea-store-calca-vermelha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 151,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-calca-vermelha.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b4422aa2ff4699d6d02341bde851cb914b83c8d403aca40cfd5230991cb365ca/clea-store-calca-vermelha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b4422aa2ff4699d6d02341bde851cb914b83c8d403aca40cfd5230991cb365ca/clea-store-calca-vermelha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T05:53:32.995Z",
+      "verification_etag_or_digest": "b4422aa2ff4699d6d02341bde851cb914b83c8d403aca40cfd5230991cb365ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-camisa-classica-off-white.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-camisa-classica-off-white.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84404,
+      "sha256": "f4480bf036191fbb52c1fe59a54ab3727d00518b1b2c55aa7df169fe5bbffd45",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-camisa-classica-off-white.webp",
+      "storage_filename": "clea-store-camisa-classica-off-white.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 64,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-camisa-classica-off-white.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f4480bf036191fbb52c1fe59a54ab3727d00518b1b2c55aa7df169fe5bbffd45/clea-store-camisa-classica-off-white.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4480bf036191fbb52c1fe59a54ab3727d00518b1b2c55aa7df169fe5bbffd45/clea-store-camisa-classica-off-white.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T05:53:32.996Z",
+      "verification_etag_or_digest": "f4480bf036191fbb52c1fe59a54ab3727d00518b1b2c55aa7df169fe5bbffd45",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-colete-trespasse-vermelho.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-colete-trespasse-vermelho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59004,
+      "sha256": "9a42b23db81e0a9ff90900d56c2fbaec4eb798c5897dc2168d88eb7f6ca6857b",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-colete-trespasse-vermelho.webp",
+      "storage_filename": "clea-store-colete-trespasse-vermelho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-colete-trespasse-vermelho.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9a42b23db81e0a9ff90900d56c2fbaec4eb798c5897dc2168d88eb7f6ca6857b/clea-store-colete-trespasse-vermelho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a42b23db81e0a9ff90900d56c2fbaec4eb798c5897dc2168d88eb7f6ca6857b/clea-store-colete-trespasse-vermelho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T05:53:32.996Z",
+      "verification_etag_or_digest": "9a42b23db81e0a9ff90900d56c2fbaec4eb798c5897dc2168d88eb7f6ca6857b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
       "local_url": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
       "media_kind": "image",
@@ -39020,6 +39134,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T04:43:08.355Z",
       "verification_etag_or_digest": "6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100744,
+      "sha256": "587bb90a97eb6451c155c08d0608832121ffa87ce513b41698862abf4c60ac8f",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "storage_filename": "clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/587bb90a97eb6451c155c08d0608832121ffa87ce513b41698862abf4c60ac8f/clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/587bb90a97eb6451c155c08d0608832121ffa87ce513b41698862abf4c60ac8f/clea-store-look-blazer-risca-de-giz-camisa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T05:53:32.996Z",
+      "verification_etag_or_digest": "587bb90a97eb6451c155c08d0608832121ffa87ce513b41698862abf4c60ac8f",
       "verification_status": "verified"
     },
     {

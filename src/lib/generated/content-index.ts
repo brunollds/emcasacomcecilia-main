@@ -99406,153 +99406,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Quanto gastar depende da faixa. Abaixo, um presente de cada uma, com o preço de venda em 20/10/2026 (os preços mudam com promoção):"
-        ],
-        "bullets": [
-          "Até R$ 300: ramekin em formato de coração, Le Creuset, R$ 159.",
-          "De R$ 300 a 700: travessa retangular Heritage Cotton de 26 cm, Le Creuset, R$ 529.",
-          "De R$ 700 a 1.500: aparelho de jantar Porto Brasil Arauco/Greenery de 30 peças, R$ 868.",
-          "Acima de R$ 1.500: panela redonda Signature Azure de 2,4 L, Le Creuset, R$ 2.329."
-        ],
-        "postParagraphs": [
-          "Os valores de uma faixa não se somam, porque cada presente aparece com o seu próprio preço. O cupom MAUAD dá 5% sobre o subtotal no site da Let's Eat It, vale em todas as formas de pagamento e soma com o desconto do Pix; o frete fica à parte, calculado por CEP, e na panela de R$ 2.329 o preço sai por R$ 2.212,55 antes do frete (confira no checkout)."
-        ]
-      },
-      {
-        "heading": "Quanto custa em cada faixa",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. Cada faixa mostra o que a loja vende nela; o uso de cada peça é o que a própria ficha do produto diz."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Faixa",
-            "Presente",
-            "Marca",
-            "Preço de venda em 20/10/2026",
-            "O que a ficha diz de uso"
-          ],
-          "rows": [
-            [
-              "Até R$ 300",
-              "Ramekin Formato Coração 300 ml Vermelho",
-              "Le Creuset",
-              "R$ 159",
-              "Seguro para forno, micro-ondas, freezer e lava-louças."
-            ],
-            [
-              "Até R$ 300",
-              "Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml (19 x 5,5 cm)",
-              "Porto Brasil",
-              "R$ 189,90",
-              "Stoneware; forno, freezer, micro-ondas (aquecimento gradual, as alças podem esquentar) e lava-louças."
-            ],
-            [
-              "Até R$ 300",
-              "Jogo 6 Taças Champagne Crex Optic 270 ml",
-              "Bohemia",
-              "R$ 128,42",
-              "Cristal ecológico; não vai a lava-louças, micro-ondas nem freezer; lavar à mão."
-            ],
-            [
-              "Até R$ 300",
-              "Moedor de Pimenta Black Onyx",
-              "Le Creuset",
-              "R$ 295,20",
-              "Ajuste de moagem por pino no topo; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Travessa Retangular Heritage Cotton 26 cm",
-              "Le Creuset",
-              "R$ 529",
-              "Seguro para freezer, forno, micro-ondas, grelha, lava-louças e utensílios de metal; de -22°C a 260°C."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml (28 x 6,5 cm)",
-              "Porto Brasil",
-              "R$ 322,90",
-              "Stoneware; forno, freezer, micro-ondas e lava-louças."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Jogo 6 Taças Champagne Ardea Verde Selva 220 ml",
-              "Bohemia",
-              "R$ 329,90",
-              "Cristal ecológico; cuidados de uso: ficha não diz."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Faqueiro Aço Inox Avalon 30 peças",
-              "Wolff",
-              "R$ 383,90",
-              "Não é aconselhável usar em freezer, micro-ondas, forno ou fogão; lava-louças só seguindo as recomendações da ficha; não acompanha estojo."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Skillet Coração Tradition Vermelho 26 cm",
-              "Le Creuset",
-              "R$ 1.449",
-              "Ferro fundido esmaltado; compatível com todos os cooktops e forno até 260°C; lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
-              "Le Creuset",
-              "R$ 929",
-              "Aço carbono esmaltado; pode ser usada em todas as fontes de calor, incluindo indução; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças",
-              "Porto Brasil",
-              "R$ 868",
-              "Forno, freezer, micro-ondas e lava-louças (detalhes na seção do aparelho)."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Faqueiro LaGuiole La Maison Luxo 30 peças",
-              "LaGuiole",
-              "R$ 1.099",
-              "Lâmina de aço inox, cabo em ABS; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Panela Redonda Signature Azure 2,4 L (20 cm)",
-              "Le Creuset",
-              "R$ 2.329",
-              "Ferro fundido; serve para vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; lava-louças e lavagem à mão."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Panela Redonda Signature Rhone 5,3 L (26 cm), com pegador dourado",
-              "Le Creuset",
-              "R$ 3.089",
-              "Mesmas fontes de calor da Azure; lava-louças e lavagem à mão; pegadores de aço inox."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Aparelho de Jantar Stoneware Orgânico Shimeji Gold 30 peças",
-              "Porto Brasil",
-              "R$ 2.049,90",
-              "Não vai ao micro-ondas (o filete metálico pode danificar a peça); evitar lava-louças para preservar o dourado; lavar à mão."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Faqueiro Aço Inox Pisa 130 peças",
-              "Wolff",
-              "R$ 1.699",
-              "Não é aconselhável usar em forno, freezer, micro-ondas nem fogão; não acompanha estojo."
-            ]
-          ]
-        },
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
-            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
-            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
-          }
+          "Ideias separadas em quatro faixas de orçamento, com os preços de venda da Let's Eat It em 20/10/2026: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. O que entra em cada faixa está nas perguntas frequentes, no fim do texto; antes delas, o guia segue pelas linhas da loja: aparelho de jantar, Le Creuset, taças e faqueiros.",
+          "O cupom MAUAD dá 5% no site da Let's Eat It, em todas as formas de pagamento, e soma com o desconto do Pix."
         ]
       },
       {
@@ -99563,6 +99418,12 @@ export const reviewsData: unknown[] = [
           "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
         ],
         "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
+            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          },
           {
             "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
             "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
@@ -99579,25 +99440,25 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Cor",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Por pessoa (÷ 6)",
             "O que a ficha diz de uso"
           ],
           "rows": [
             [
-              "Arauco/Greenery",
+              "[Arauco/Greenery](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 868",
               "R$ 144,67",
               "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
             ],
             [
-              "Petroleum/Night Sky",
+              "[Petroleum/Night Sky](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 868",
               "R$ 144,67",
               "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
             ],
             [
-              "Shimeji Gold (cinza e dourada)",
+              "[Shimeji Gold (cinza e dourada)](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.049,90",
               "R$ 341,65",
               "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
@@ -99621,7 +99482,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset: o que dá para comprar por faixa",
         "paragraphs": [
-          "Os preços são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+          "Os preços mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
         ],
         "comparisonTable": {
           "headers": [
@@ -99633,43 +99494,43 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Até R$ 300",
-              "Moedor de Pimenta Black Onyx",
+              "[Moedor de Pimenta Black Onyx](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 295,20",
               "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
               "Até R$ 300",
-              "Caneca Cerâmica Cotton 100 ml",
+              "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 129",
               "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
             ],
             [
               "R$ 300 a 700",
-              "Travessa Retangular Heritage Cotton 26 cm",
+              "[Travessa Retangular Heritage Cotton 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 529",
               "\"Seguro para freezer, forno, micro-ondas, grelha, máquina de lavar louça e utensílios de metal\"."
             ],
             [
               "R$ 700 a 1.500",
-              "Skillet Coração Tradition Vermelho 26 cm",
+              "[Skillet Coração Tradition Vermelho 26 cm](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.449",
               "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
             ],
             [
               "R$ 700 a 1.500",
-              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "[Chaleira Tradicional com Apito 1,6 L Azure Blue](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 929",
               "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
               "Acima de R$ 1.500",
-              "Panela Redonda Signature Azure 2,4 L, 20 cm",
+              "[Panela Redonda Signature Azure 2,4 L, 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.329",
               "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
             ],
             [
               "Acima de R$ 1.500",
-              "Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm",
+              "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 3.089",
               "Mesmas fontes de calor da Azure; pegadores de aço inox que a ficha diz aguentarem qualquer temperatura do forno. Pode ir à lava-louças."
             ]
@@ -99691,7 +99552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taças Bohemia: cristal ecológico ou cristal",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
+          "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -99702,43 +99563,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Taças Champagne Crex Optic 270 ml",
+              "[Taças Champagne Crex Optic 270 ml](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 128,42",
               "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
             ],
             [
-              "Taças para Vinho Tinto Magnum 740 ml",
+              "[Taças para Vinho Tinto Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 149,90",
               "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
             ],
             [
-              "Copos Baixos Sophia 340 ml",
+              "[Copos Baixos Sophia 340 ml](https://letseatit.com.br/products/jogo-6-copos-baixos-cristal-bohemia-sophia-340ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 154,90",
               "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
             ],
             [
-              "Taças para Champanhe Eva 190 ml",
+              "[Taças para Champanhe Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal (a ficha não diz ecológico)",
               "R$ 246,90",
               "Altura de 24,2 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Champanhe Ardea Verde Selva 220 ml",
+              "[Taças para Champanhe Ardea Verde Selva 220 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 329,90",
               "Altura de 27,5 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Champanhe Angela 190 ml, borda dourada",
+              "[Taças para Champanhe Angela 190 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-com-borda-dourada-bohemia-angela-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal com borda dourada",
               "R$ 499",
               "Altura de 24,8 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Vinho Angela 350 ml, borda dourada",
+              "[Taças para Vinho Angela 350 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal com borda dourada",
               "R$ 884,90",
               "Altura de 22,2 cm. Cuidados: ficha não diz."
@@ -99753,7 +99614,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faqueiros: 30, 101 ou 130 peças",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
+          "O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -99764,31 +99625,31 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Wolff Avalon aço inox, 30 peças",
+              "[Wolff Avalon aço inox, 30 peças](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo",
               "R$ 383,90",
               "Aço inox. Não é aconselhável usar em freezer, micro-ondas, forno ou fogão. Lava-louças só seguindo as recomendações da ficha. Não acompanha estojo."
             ],
             [
-              "Wolff Berna Dourado aço inox, 30 peças",
+              "[Wolff Berna Dourado aço inox, 30 peças](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-30-pecas-inox-dourado?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 garfos de sobremesa, 6 colheres de sopa e 6 colheres de chá",
               "R$ 539,90",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Lava-louças com as recomendações. Não acompanha estojo."
             ],
             [
-              "LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)",
+              "[LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
               "R$ 1.099",
               "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
-              "Wolff Avalon aço inox, 101 peças",
+              "[Wolff Avalon aço inox, 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "12 de cada um de 8 tipos, mais garfo, colher e concha de salada, colher de arroz e colher de açúcar",
               "R$ 1.598",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
             ],
             [
-              "Wolff Pisa aço inox, 130 peças",
+              "[Wolff Pisa aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
               "R$ 1.699",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
@@ -99823,6 +99684,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A loja tem lista de casamento? Hoje, a página de lista de presentes da Let's Eat It está sem itens, então não dá para usá-la para montar a lista do casal. Se o casal quer lista, vale conferir no site antes de contar com ela.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
+          "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
+          "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
+          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
+          "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Pisa 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.699,00; [Aparelho de Jantar Shimeji Gold 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.049,90; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.329,00; e [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 3.089,00.",
           "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
           "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
         ]
@@ -99889,52 +99754,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Até R$ 150 (preço de venda em 20/10/2026): a caneca Cotton de 100 ml da Le Creuset sai por R$ 129,00.",
-          "R$ 150 a 400: a batedeira de mão Vintage Verde da Ariete, de 127 V e 450 W, sai por R$ 329,00.",
-          "R$ 400 a 1.000: o saca-rolhas Trilogy da Le Creuset, em estojo de presente, sai por R$ 439,00.",
-          "Acima de R$ 1.000: a skillet Coração Tradition Vermelha de 26 cm da Le Creuset sai por R$ 1.449,00.",
-          "No site da Let's Eat It, o cupom MAUAD dá 5% sobre o subtotal (sem frete), vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout."
+          "Presentes separados por faixa de orçamento, com os preços de venda da Let's Eat It em 20/10/2026:"
+        ],
+        "bullets": [
+          "Até R$ 150: canecas Le Creuset, espátula KitchenAid, faca de churrasco e forma de bolo.",
+          "De R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios.",
+          "De R$ 400 a 1.000: Le Creuset, frigideiras KitchenAid e chaleira elétrica.",
+          "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis."
+        ],
+        "postParagraphs": [
+          "O cupom MAUAD dá 5% no site da Let's Eat It, em todas as formas de pagamento, e soma com o desconto do Pix."
         ]
       },
       {
         "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Caneca Cerâmica Cotton 100 ml",
+              "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 129,00",
               "Para quem toma café em dose pequena. A ficha diz \"dose de café expresso\", com 100 ml, cerâmica premium e lava-louças."
             ],
             [
-              "Espátula Clássica em Silicone Confeitaria Preta",
+              "[Espátula Clássica em Silicone Confeitaria Preta](https://letseatit.com.br/products/espatula-classica-em-silicone-confeitaria-preta-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 129,90",
               "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças."
             ],
             [
-              "Faca para Churrasco Beef Club",
+              "[Faca para Churrasco Beef Club](https://letseatit.com.br/products/faca-para-churrasco-beef-club-em-aco-inox-com-cabo-em-plastico-fracalanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Fracalanza",
               "R$ 69,90",
               "Para quem faz churrasco em casa. Aço inox com cabo de plástico, 45 cm de comprimento."
             ],
             [
-              "Mini Tábua Petisqueira Churrasco e Queijo",
+              "[Mini Tábua Petisqueira Churrasco e Queijo](https://letseatit.com.br/products/mini-tabua-petisqueira-churrasco-e-queijo-carve-co?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Carve & Co",
               "R$ 138,90",
               "Para quem serve queijo e petisco. Teca, 2 x 16 x 26 cm, 259 g, com cabo ergonômico."
             ],
             [
-              "Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm",
+              "[Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm](https://letseatit.com.br/products/forma-redonda-para-brownie-bolo-e-torta-antiaderente-28cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Baker's Secret",
               "R$ 62,90",
               "Para quem assa bolo ou torta. Aço carbono de 0,5 mm, 28 cm de diâmetro e 5 cm de altura; a ficha diz forno até 232 °C."
@@ -99947,55 +99814,52 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)",
+              "[Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)](https://letseatit.com.br/products/caneca-ceramica-holly-branca-200ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 179,00",
               "Para quem quer uma caneca de Natal. Cerâmica premium, lava-louças; a ficha diz que não absorve aromas."
             ],
             [
-              "Moedor de Sal Vermelho",
+              "[Moedor de Sal Vermelho](https://letseatit.com.br/products/moedor-de-sal-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 369,00",
               "Para quem tempera na mesa. 21 x 6 cm, com ajuste de moagem por pino no topo."
             ],
             [
-              "Conjunto 4 Peças para Churrasco Inox com Estojo",
+              "[Conjunto 4 Peças para Churrasco Inox com Estojo](https://letseatit.com.br/products/conjunto-4-pecas-para-churrasco-inox-com-estojo-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "L'Hermitage",
               "R$ 232,90",
               "Para quem faz churrasco. Espátula vazada, garfo de duas pontas, pegador e escova, em aço inox com cabo preto e estojo com zíper."
             ],
             [
-              "Escumadeira em Aço Inox para Fritura",
+              "[Escumadeira em Aço Inox para Fritura](https://letseatit.com.br/products/escumadeira-em-aco-inox-fritura-cozinha-cinza-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 159,90",
               "Para quem frita. Aço inox e ABS livre de BPA, 39 x 13 x 6 cm, 205 g."
             ],
             [
-              "Mini Cocotte Cerâmica Cotton 250 ml",
+              "[Mini Cocotte Cerâmica Cotton 250 ml](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 239,00",
               "Para servir em porção individual. 250 ml e 10 cm; a ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
             ],
             [
-              "Batedeira de Mão Vintage Verde 127 V, 450 W",
+              "[Batedeira de Mão Vintage Verde 127 V, 450 W](https://letseatit.com.br/products/batedeira-de-mao-vintage-verde-127v-450w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 329,00",
               "Para quem bate massa em casa. 127 V, 450 W, 5 velocidades mais Turbo, com batedor e gancho para massa."
             ],
             [
-              "Forno Elétrico Vintage Verde 127 V, 800 W",
+              "[Forno Elétrico Vintage Verde 127 V, 800 W](https://letseatit.com.br/products/forno-eletrico-vintage-verde-127v-800w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 399,00",
               "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min."
@@ -100016,43 +99880,40 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "R$ 400 a 1.000: Le Creuset, KitchenAid e chaleira elétrica",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Saca-Rolhas Trilogy Estojo Presente Black Onyx",
+              "[Saca-Rolhas Trilogy Estojo Presente Black Onyx](https://letseatit.com.br/products/saca-rolha-trilogy-estojo-presente-black-onyx-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 439,00",
               "Para quem tem vinho em casa. A ficha diz que serve para qualquer tipo de cortiça; acabamento manual e vem em estojo de presente."
             ],
             [
-              "Caneca Cerâmica Coração Vermelha 220 ml, com pires",
+              "[Caneca Cerâmica Coração Vermelha 220 ml, com pires](https://letseatit.com.br/products/caneca-ceramica-coracao-vermelha-220ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 449,00",
               "Para quem quer uma caneca diferente. 220 ml, formato de coração, com pires; a ficha fala em cerâmica de alto padrão e retenção de calor."
             ],
             [
-              "Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L",
+              "[Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L](https://letseatit.com.br/products/kit-3-espatulas-e-1-pincel-de-silicone-e-porta-utensilios-ceramica-signature-vermelho-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 799,00",
               "Para organizar a bancada. Porta-utensílios de cerâmica de 1,1 L, 3 espátulas com cabo de madeira e pincel removível; a ficha diz que só a ponta do pincel vai à lava-louças."
             ],
             [
-              "Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho",
+              "[Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho](https://letseatit.com.br/products/jogo-de-2-frigideiras-aluminio-antiaderente-vermelho-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 569,00",
               "Para o fogão do dia a dia. 21 cm e 25 cm; a ficha diz que vai ao forno até 260 °C e serve para gás, indução, vitrocerâmico e elétrico, e que vai à lava-louças."
             ],
             [
-              "Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W",
+              "[Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W](https://letseatit.com.br/products/chaleira-eletrica-positano-1-7l-360o-127v-1500w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 649,00",
               "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível."
@@ -100074,42 +99935,42 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis",
         "paragraphs": [
-          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços são de venda em 20/10/2026 e mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
+          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "O que a ficha diz"
           ],
           "rows": [
             [
-              "Skillet Coração Tradition Vermelho 26 cm, Le Creuset",
+              "[Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.449,00",
               "ferro fundido esmaltado; \"compatível com todos os cooktops\"; forno seguro até 260 °C; interior esmaltado, sem tempero"
             ],
             [
-              "Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset",
+              "[Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.739,00",
               "ferro fundido esmaltado; interior preto acetinado, sem tempero; \"compatível com todos os cooktops\"; forno até 260 °C; lava-louças"
             ],
             [
-              "Grelha Quadrada Signature Azure 26 cm, Le Creuset",
+              "[Grelha Quadrada Signature Azure 26 cm, Le Creuset](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.859,00",
               "ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz"
             ],
             [
-              "Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset",
+              "[Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.329,00",
               "ferro fundido; 2,4 L; esmalte interno; fonte de calor: vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; pegadores de aço inox"
             ],
             [
-              "Batedeira Planetária 1558 Positano 5,5 L, Ariete",
+              "[Batedeira Planetária 1558 Positano 5,5 L, Ariete](https://letseatit.com.br/products/batedeira-planetaria-1558-positano-127v-600w-5-5l-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.799,00",
               "127 V; 600 W; tigela de aço inox de 5,5 L; 7 velocidades e pulso; gancho, batedor de coração e batedor de arame"
             ],
             [
-              "Fritadeira Air Fryer Vintage Azul 16 L, Ariete",
+              "[Fritadeira Air Fryer Vintage Azul 16 L, Ariete](https://letseatit.com.br/products/fritadeira-air-fryer-vintage-azul-220v-1200w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.199,00",
               "220 V; 1200 W; 3 cestos perfurados e 1 cesto giratório; \"fritar, assar, grelhar e até desidratar\""
             ]
@@ -100131,7 +99992,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher pelo perfil de quem cozinha",
         "paragraphs": [
-          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores, com o preço de venda de 20/10/2026:"
+          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores:"
         ],
         "bullets": [
           "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
@@ -100159,7 +100020,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom MAUAD e Pix: como fica o preço",
         "paragraphs": [
           "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta.",
-          "Um exemplo: a Ramekin Formato Coração Vermelho, R$ 159,00 em 20/10/2026. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
+          "Um exemplo: a Ramekin Formato Coração Vermelho, de R$ 159,00. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
           "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
         ]
       },
@@ -100234,75 +100095,68 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
-    "imageAlt": "Modelo com o blazer de alfaiataria risca de giz cinza da Cléa Store",
+    "image": "/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp",
+    "imageAlt": "Modelo caminhando com o blazer risca de giz cinza, camisa branca e calça de alfaiataria cinza",
     "imageFit": "cover",
     "imageAspect": "portrait",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três looks abaixo usam peças da Cléa Store com o preço de venda de 20/10/2026. Os totais dos looks 1 e 2 não incluem calça: use uma calça de alfaiataria que você já tem. O look 3 é o único que traz uma calça da loja."
+          "Três looks de trabalho montados com peças da Cléa Store, com os preços de venda do site em 20/10/2026. A loja não vende o look pronto: cada peça é comprada separada, e cada look traz as peças lado a lado e o link de cada uma."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Look",
-            "Peças da loja",
-            "Preço de venda em 20/10/2026",
-            "Com cupom de 10%"
-          ],
-          "rows": [
-            [
-              "1. Trabalho neutro",
-              "Blazer Risca de Giz Cinza + Camisa Clássica Off White",
-              "R$ 797,30",
-              "R$ 717,57"
-            ],
-            [
-              "2. Body por baixo do blazer",
-              "Blazer Oversized Mescla + Body Gola Alta Manga Longa",
-              "R$ 659,50",
-              "R$ 593,55"
-            ],
-            [
-              "3. Colete vermelho",
-              "Colete Trespasse Vermelho + Calça Vermelha + Body Regata Duplo",
-              "R$ 1.275,20",
-              "R$ 1.147,68"
-            ]
-          ]
-        },
+        "bullets": [
+          "Look 1, trabalho neutro: Blazer Risca de Giz Cinza e Camisa Clássica Off White, R$ 797,30, ou R$ 717,57 com o cupom.",
+          "Look 2, body por baixo do blazer: Blazer Oversized Mescla e Body Gola Alta Manga Longa, R$ 659,50, ou R$ 593,55 com o cupom.",
+          "Look 3, colete vermelho: Colete Trespasse Vermelho, Calça Vermelha e Body Regata Duplo, R$ 1.275,20, ou R$ 1.147,68 com o cupom."
+        ],
         "postParagraphs": [
-          "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, em todas as formas de pagamento, e soma com as promoções. A equipe testou o cupom em 14/10/2026. Ele não vale no Mercado Livre; confira no carrinho. A devolução é grátis."
+          "Nos looks 1 e 2, a calça de alfaiataria é uma que você já tem. O cupom CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções; a equipe o testou em 14/10/2026. Ele não vale no Mercado Livre. A devolução é grátis."
         ]
       },
       {
         "heading": "Look 1: trabalho neutro com blazer e camisa",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026. O blazer está com preço promocional; a camisa, sem promoção."
+          "O blazer está com preço promocional; a camisa, sem promoção."
         ],
         "bullets": [
-          "Blazer Alfaiataria Risca de Giz Cinza: R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
-          "Camisa Clássica Feminina Tricoline Off White: R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
+          "[Blazer Alfaiataria Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282): R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
+          "[Camisa Clássica Feminina Tricoline Off White](https://www.cleastore.com.br/produto/camisa-classica-feminina-tricoline-off-white-4355): R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As duas peças somam R$ 797,30. Com o cupom de 10%, o total cai para R$ 717,57.",
-          "A calça não entra no total. Em 20/10/2026, a loja não tinha calça de alfaiataria neutra com envio imediato, então o look pede uma calça de alfaiataria que você já tem.",
-          "Segundo a descrição da loja, o blazer tem modelagem oversized e a própria loja avisa que a modelagem é ampla. A ficha da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
+          "A calça não entra no total: a loja não tinha calça de alfaiataria neutra com envio imediato, então o look pede uma calça de alfaiataria que você já tem.",
+          "Segundo a descrição da loja, o blazer tem modelagem oversized, e a própria loja avisa que a modelagem é ampla. A ficha da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+            "alt": "Modelo com o blazer de alfaiataria risca de giz cinza da Cléa Store",
+            "caption": "Blazer Alfaiataria Risca de Giz Cinza. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-camisa-classica-off-white.webp",
+            "alt": "Modelo com a camisa clássica de tricoline off white da Cléa Store",
+            "caption": "Camisa Clássica Tricoline Off White. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
         ]
       },
       {
         "heading": "Look 2: body por baixo do blazer",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026. Blazer e body estão com preço promocional hoje; o preço cheio aparece ao lado de cada um."
+          "Blazer e body estão com preço promocional; o preço cheio aparece ao lado de cada um."
         ],
         "bullets": [
-          "Blazer Oversized Alfaiataria Mescla: R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
-          "Body Gola Alta Manga Longa Second Skin: R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
+          "[Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307): R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
+          "[Body Gola Alta Manga Longa Second Skin](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047): R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As duas peças somam R$ 659,50. Com o cupom de 10%, o total fica em R$ 593,55. Como no look 1, a calça fica por conta de uma calça de alfaiataria que você já tem.",
-          "Segundo a descrição da loja, o blazer tem \"modelagem oversized, caimento sofisticado\". O body é descrito como de \"modelagem justa com caimento ajustado\", com uma prega no ombro esquerdo, e a loja diz que ele combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação (Trustvox, lido em 20/10/2026).",
+          "Segundo a descrição da loja, o blazer tem \"modelagem oversized, caimento sofisticado\". O body é descrito como de \"modelagem justa com caimento ajustado\", com uma prega no ombro esquerdo, e a loja diz que ele combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação, na avaliação da Trustvox mostrada na página.",
           "Se a dúvida é qual body usar por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
         ],
         "images": [
@@ -100312,25 +100166,46 @@ export const reviewsData: unknown[] = [
             "caption": "Blazer Oversized Alfaiataria Mescla. Imagem: Cléa Store.",
             "objectFit": "contain",
             "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+            "alt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
+            "caption": "Body Gola Alta Manga Longa Second Skin. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
           }
         ]
       },
       {
         "heading": "Look 3: colete vermelho com calça vermelha",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026. As três peças são vendidas separadas: a loja não vende esse conjunto pronto. As fichas do colete e da calça aparecem como vermelho."
+          "As três peças são vendidas separadas: a loja não vende esse conjunto pronto. As fichas do colete e da calça aparecem como vermelho."
         ],
         "bullets": [
-          "Colete Alfaiataria Trespasse Vermelho: R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
-          "Calça Vermelha: R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
-          "Body Regata Second Skin Duplo: R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
+          "[Colete Alfaiataria Trespasse Vermelho](https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393): R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
+          "[Calça Vermelha](https://www.cleastore.com.br/produto/calca-vermelha-4340): R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
+          "[Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045): R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
-          "A Calça Vermelha tem só o tamanho P disponível hoje. Se o seu tamanho não for P, este look não fecha com ela, e não há outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
-          "Segundo a descrição da loja, o colete tem modelagem trespassada, sem mangas e com caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação (Trustvox, lido em 19/10/2026)."
+          "A Calça Vermelha tinha só o tamanho P disponível. Se o seu tamanho não for P, este look não fecha com ela, e não havia outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
+          "Segundo a descrição da loja, o colete tem modelagem trespassada e caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação, na avaliação da Trustvox mostrada na página."
         ],
         "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-colete-trespasse-vermelho.webp",
+            "alt": "Modelo com o colete de alfaiataria trespassado vermelho, com cinto, da Cléa Store",
+            "caption": "Colete Alfaiataria Trespasse Vermelho. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-calca-vermelha.webp",
+            "alt": "Modelo com a calça vermelha de cintura alta da Cléa Store",
+            "caption": "Calça Vermelha. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
           {
             "src": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
             "alt": "Modelo com o body regata preto de gola alta e calça jeans",
@@ -100343,9 +100218,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Casual de sexta: t-shirt oversized com blazer ou colete",
         "paragraphs": [
-          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A T-Shirt Oversized Algodão custa R$ 129 (preço de venda em 20/10/2026), vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações (leitura de 19/10/2026).",
-          "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30, preço de venda em 20/10/2026) dá o toque de alfaiataria sem pesar o visual. Pela ficha, ele é 70% poliéster e 30% viscose. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799, preço de venda em 20/10/2026) entra no lugar dele.",
-          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258 (preço de venda em 20/10/2026, preço cheio de R$ 387). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
+          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
+          "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
+          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
         ],
         "images": [
           {
@@ -100360,14 +100235,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada look, com e sem cupom",
         "paragraphs": [
-          "Os preços são de venda no site oficial em 20/10/2026. O cupom CSEMCASACOMCECILIA dá 10% sobre esse preço, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta."
+          "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta."
         ],
         "comparisonTable": {
           "headers": [
             "Look",
             "Peças",
             "Preço cheio",
-            "Preço de venda (20/10/2026)",
+            "Preço de venda",
             "Com cupom de 10%",
             "Economia"
           ],
@@ -100407,37 +100282,37 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O estoque pesa no total. Em 20/10/2026, o Blazer Risca tinha só o tamanho M, o Blazer Mescla só o P, o Colete Trespasse estava sem M e a Calça Vermelha tinha só o P. Se o seu tamanho estiver esgotado, o look fica com outra peça ou sai da lista."
+          "O estoque pesa no total. O Blazer Risca tinha só o tamanho M, o Blazer Mescla só o P, o Colete Trespasse estava sem M e a Calça Vermelha tinha só o P. Se o seu tamanho estiver esgotado, o look fica com outra peça ou sai da lista."
         ]
       },
       {
         "heading": "O que a Cléa não vende como conjunto",
         "paragraphs": [
-          "A Cléa não vende blazer com calça de alfaiataria como conjunto. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490 (preço de venda na mesma data), e ele não é alfaiataria. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
+          "A Cléa não vende blazer com calça de alfaiataria como conjunto. O único conjunto do catálogo é o Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490,00, e ele não é alfaiataria. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
         ]
       },
       {
         "heading": "Onde comprar com o cupom e quando conferir",
         "paragraphs": [
           "O cupom CSEMCASACOMCECILIA vale para todo o site oficial da Cléa Store, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Confira no carrinho se o desconto entrou antes de pagar. A alfaiataria não está no Mercado Livre, onde a loja oficial da Cléa vende só t-shirts e bodies, e o cupom não vale lá: [a comparação entre os dois canais está no artigo sobre Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site).",
-          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na [página de cupons da loja](/cupons/clea-store). A equipe testou o cupom em 14/10/2026: um kit de 3 t-shirts saiu de R$ 258 para R$ 232,20 no carrinho.",
+          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na [página de cupons da loja](/cupons/clea-store). No teste da equipe, um kit de 3 t-shirts saiu de R$ 258,00 para R$ 232,20 no carrinho.",
           "A devolução é grátis. Algumas fichas, como a do Blazer Risca, dizem que a loja aceita devolução em até 30 dias.",
-          "Os preços deste artigo são de 20/10/2026. Promoção e estoque mudam, então confira no site antes de comprar. Antes de escolher o tamanho, veja a [tabela de medidas da Cléa Store, com as medidas do corpo de cada tamanho](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
+          "Promoção e estoque mudam, então confira no site antes de comprar. Antes de escolher o tamanho, veja a [tabela de medidas da Cléa Store, com as medidas do corpo de cada tamanho](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Dá para usar calça de alfaiataria com camiseta oversized? Dá. A T-Shirt Oversized tem modelagem ampla, segundo a ficha, e uma calça de caimento reto ou wide leg equilibra esse volume.",
-          "Dá para usar body por baixo do blazer? Dá. O Body Gola Alta Manga Longa tem gola alta, então não aparece decote por baixo do blazer. Pela ficha, ele é 90% poliamida e 10% elastano, e custa R$ 135,20 (preço de venda em 20/10/2026).",
-          "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
+          "Dá para usar body por baixo do blazer? Dá. O Body Gola Alta Manga Longa tem gola alta, então não aparece decote por baixo do blazer. Pela ficha, ele é 90% poliamida e 10% elastano, e custa R$ 135,20.",
+          "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
           "O cupom vale nas peças de alfaiataria? Vale. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, e as peças de alfaiataria estão lá. Ele não vale no Mercado Livre, onde a alfaiataria não aparece."
         ]
       },
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "Os preços são de venda no site oficial da Cléa Store em 20/10/2026 e mudam; confira antes de comprar. O site recebe comissão da loja quando a compra sai pelo cupom ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém do site vestiu nem usou as peças citadas: os looks são montagens feitas com as fichas e os preços da loja. O cupom foi testado pela equipe em 14/10/2026."
+          "Os preços, o estoque e as avaliações foram lidos no site oficial da Cléa Store em 20/10/2026, exceto a avaliação do Body Duplo e a da t-shirt, de 19/10/2026, e mudam; confira antes de comprar. Podemos receber comissão quando a compra sai pelo cupom ou pelos links da loja, e isso não muda o preço para quem compra. Ninguém do site vestiu nem usou as peças citadas: os looks são montagens feitas com as fichas e os preços da loja. O cupom foi testado pela equipe em 14/10/2026."
         ]
       }
     ],
@@ -100451,7 +100326,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CSEMCASACOMCECILIA",
     "affiliate": "clea-store",
-    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelos links da loja.",
     "relatedArticles": [
       {
         "slug": "body-clea-store-second-skin-qual-escolher",
@@ -100496,120 +100371,74 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os seis modelos de body da Cléa Store, com o que a própria loja diz de cada um e o preço de venda em 20/10/2026 (o preço cheio está entre parênteses):"
+          "A Cléa Store tem seis bodies Second Skin, todos de 90% poliamida e 10% elastano, em P, M e G. Preços de 20/10/2026, de R$ 50,70 a R$ 135,20."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Modelo",
-            "Uso que a loja indica",
-            "Gola e manga",
-            "Cores",
-            "Preço de venda (20/10/2026)"
-          ],
-          "rows": [
-            [
-              "Body Gola Alta Manga Longa Second Skin",
-              "Usar sozinho ou com blazers e casacos",
-              "Gola alta, manga longa",
-              "Amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho (7)",
-              "R$ 135,20 (cheio R$ 169,00)"
-            ],
-            [
-              "Body Regata Second Skin Duplo",
-              "Com jeans, saias, shorts e alfaiataria",
-              "Gola alta, regata",
-              "Marrom, off white, preto, rosa claro, roxo e vinho (6)",
-              "R$ 127,20 (cheio R$ 159,00)"
-            ],
-            [
-              "Body Frente Única Decote Second Skin – Design Especial",
-              "Produções sofisticadas, encontros e ocasiões especiais",
-              "Decote profundo na frente, sem gola; a ficha não informa a manga",
-              "Marrom, off white e preto (3)",
-              "R$ 95,40 (cheio R$ 159,00)"
-            ],
-            [
-              "Body Decote Reversível Second Skin – Design Especial",
-              "Decote na frente ou nas costas, com jeans, saias ou alfaiataria",
-              "Decote na frente ou nas costas; a ficha não informa a manga",
-              "Off white e preto (2)",
-              "R$ 79,50 (cheio R$ 159,00)"
-            ],
-            [
-              "Body Regata Cavado Second Skin",
-              "Produções casuais ou sofisticadas",
-              "Regata, cavas profundas",
-              "Amarelo, off white, poá off white, poá preto, preto e rosa claro (6)",
-              "R$ 50,70 (cheio R$ 169,00)"
-            ],
-            [
-              "Body Ombro Único Com Detalhe nas Costas",
-              "Jeans, saias ou calças de alfaiataria",
-              "Um ombro só, decote assimétrico, abertura nas costas",
-              "Marrom, off white, preto e rosa claro (4)",
-              "R$ 79,50 (cheio R$ 159,00)"
-            ]
-          ]
-        },
+        "bullets": [
+          "Por baixo do blazer ou no frio: Body Gola Alta Manga Longa, R$ 135,20.",
+          "Com jeans, saia ou alfaiataria no dia a dia: Body Regata Second Skin Duplo, R$ 127,20.",
+          "Para a noite e ocasiões especiais: Body Frente Única Decote, R$ 95,40, ou Body Ombro Único, R$ 79,50.",
+          "Dois looks numa peça só: Body Decote Reversível, R$ 79,50, com o decote na frente ou nas costas.",
+          "O mais barato: Body Regata Cavado, R$ 50,70."
+        ],
         "postParagraphs": [
-          "Os preços mudam com a promoção do dia; confira na página do produto."
+          "O cupom CSEMCASACOMCECILIA tira mais 10% no site. Os preços mudam com a promoção do dia; confira na página do produto."
         ]
       },
       {
         "heading": "Os 6 modelos lado a lado",
         "paragraphs": [
-          "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição."
+          "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição. O preço cheio da loja está entre parênteses."
         ],
         "comparisonTable": {
           "headers": [
             "Modelo",
-            "Cuidados na ficha",
-            "Preço cheio",
-            "Preço de venda (20/10/2026)",
+            "Gola e manga",
+            "Cores",
+            "Preço de venda",
             "Leve 3 (preço por peça)"
           ],
           "rows": [
             [
               "Body Gola Alta Manga Longa",
-              "Sim",
-              "R$ 169,00",
-              "R$ 135,20",
-              "R$ 101,40 (3 unidades: R$ 304,20)"
+              "Gola alta, manga longa",
+              "7: amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho",
+              "R$ 135,20 (R$ 169,00)",
+              "R$ 101,40 (R$ 304,20 as três)"
             ],
             [
               "Body Regata Second Skin Duplo",
-              "Sim",
-              "R$ 159,00",
-              "R$ 127,20",
-              "R$ 95,40 (3 unidades: R$ 286,20)"
+              "Gola alta, regata",
+              "6: marrom, off white, preto, rosa claro, roxo e vinho",
+              "R$ 127,20 (R$ 159,00)",
+              "R$ 95,40 (R$ 286,20 as três)"
             ],
             [
-              "Body Frente Única Decote Second Skin",
-              "Sim",
-              "R$ 159,00",
-              "R$ 95,40",
-              "Sem leve 3 na página"
+              "Body Frente Única Decote",
+              "Decote profundo na frente, sem gola",
+              "3: marrom, off white e preto",
+              "R$ 95,40 (R$ 159,00)",
+              "Sem leve 3"
             ],
             [
-              "Body Decote Reversível Second Skin",
-              "Sim",
-              "R$ 159,00",
-              "R$ 79,50",
-              "Sem leve 3 na página"
+              "Body Decote Reversível",
+              "Decote na frente ou nas costas",
+              "2: off white e preto",
+              "R$ 79,50 (R$ 159,00)",
+              "Sem leve 3"
             ],
             [
-              "Body Regata Cavado Second Skin",
-              "Sim",
-              "R$ 169,00",
-              "R$ 50,70",
-              "Sem leve 3 na página"
+              "Body Regata Cavado",
+              "Regata, cavas profundas",
+              "6: amarelo, off white, poá off white, poá preto, preto e rosa claro",
+              "R$ 50,70 (R$ 169,00)",
+              "Sem leve 3"
             ],
             [
               "Body Ombro Único Com Detalhe nas Costas",
-              "Não",
-              "R$ 159,00",
-              "R$ 79,50",
-              "Sem leve 3 na página"
+              "Um ombro só, decote assimétrico, abertura nas costas",
+              "4: marrom, off white, preto e rosa claro",
+              "R$ 79,50 (R$ 159,00)",
+              "Sem leve 3"
             ]
           ]
         },
@@ -100684,7 +100513,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
             "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "caption": "Tabela de medidas lida no site da Cléa Store. Quadro do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 2.1053
           }
@@ -100693,8 +100522,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de 3 bodies: quanto sai cada peça",
         "paragraphs": [
-          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Em 20/10/2026, cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
-          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026; os desta página, de 20/10/2026."
+          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
+          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026."
         ]
       },
       {
@@ -100719,14 +100548,14 @@ export const reviewsData: unknown[] = [
         "heading": "Avaliações públicas dos bodies Second Skin",
         "paragraphs": [
           "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura de 20/10/2026 nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, na leitura de 19/10/2026.",
-          "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura de 20/10/2026, então este texto não traz número para eles."
+          "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura, então este texto não traz número para eles."
         ]
       },
       {
         "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
         "paragraphs": [
           "O cupom CSEMCASACOMCECILIA dá 10% de desconto no site oficial da Cléa Store, em todas as formas de pagamento. Ele soma com as promoções vigentes e com o cashback da loja. Não vale no Mercado Livre. O valor final aparece no carrinho.",
-          "A conta é feita sobre o preço de venda de 20/10/2026. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
+          "A conta é feita sobre o preço de venda. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
           "Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store) e o passo a passo em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar).",
           "Os bodies Gola Alta e Duplo também aparecem na loja oficial da Cléa no Mercado Livre, mas sem o cupom. A comparação está em [Mercado Livre ou site da Cléa Store: onde comprar](/reviews/clea-store-mercado-livre-ou-site)."
         ],
@@ -100743,6 +100572,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Para que serve o Body Gola Alta Manga Longa? Segundo a loja, para usar sozinho ou com blazers e casacos. Tem gola alta e manga longa.",
+          "Com o que usar o Body Regata Duplo? A loja indica com jeans, saias, shorts e alfaiataria. É regata, com gola alta.",
+          "O Body Frente Única é para qual ocasião? A loja fala em produções sofisticadas, encontros e ocasiões especiais. Tem decote profundo na frente, sem gola.",
+          "Como funciona o Body Decote Reversível? Ele pode ser usado com o decote na frente ou nas costas, e a loja indica com jeans, saias ou alfaiataria.",
+          "O Body Regata Cavado é casual? A loja diz que ele serve para produções casuais ou sofisticadas. É regata, com cavas profundas.",
+          "Com o que combina o Body Ombro Único? A loja indica com jeans, saias ou calças de alfaiataria. Tem um ombro só, decote assimétrico e abertura nas costas.",
           "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
           "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
           "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
@@ -101027,8 +100862,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cléa Store no Mercado Livre ou no site com o cupom de 10%: peça a peça, onde cada kit de t-shirt, body e blazer saiu mais barato em 20/10/2026, o que só o site tem e como conferir o vendedor oficial.",
-    "metaDescription": "Cléa Store no Mercado Livre ou no site com cupom: onde sai mais barato cada t-shirt, body e blazer, com preços de 20/10/2026 e o que só o site tem.",
+    "description": "Cléa Store no Mercado Livre ou no site: a loja oficial do Mercado Livre tem 7 anúncios com as t-shirts e os bodies mais vendidos, e o site tem a variedade de modelos, cores e a alfaiataria, com o cupom de 10% e cashback. Preços de 20/10/2026.",
+    "metaDescription": "Cléa Store no Mercado Livre ou no site: o essencial sai mais barato no ML, a variedade de modelos e a alfaiataria está no site, com cupom de 10%. Preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101041,106 +100876,134 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "**Preços de 20/10/2026:** hoje, no Mercado Livre, saem mais baratos os kits de t-shirt Intense e Colorful, a t-shirt avulsa (no Pix) e os bodies Duplo e Gola Alta, com frete grátis nos anúncios lidos. No site, com o cupom CSEMCASACOMCECILIA, sai mais barato o Kit Classic, que no Mercado Livre está sem desconto por R$ 387,00; a alfaiataria só existe no site. O cupom não vale no Mercado Livre. **Atenção:** o que hoje sai mais barato no Mercado Livre pode ficar igual ou mais caro, sem o cupom, em poucos dias; confira os dois preços antes de comprar."
+          "Preços de 20/10/2026. A tabela abaixo mostra o que sai mais barato hoje no Mercado Livre e no site da Cléa Store. No site, o cupom CSEMCASACOMCECILIA tira 10% e o cashback da loja soma com ele.",
+          "A loja oficial da Cléa no Mercado Livre tem só 7 anúncios: os kits de t-shirt e os bodies mais vendidos. Se você quer esse essencial, vale conferir o Mercado Livre, onde hoje ele sai mais barato que no site com o cupom. A variedade de modelos, cores e estampas está no site: nas categorias que lemos hoje, ele tem 41 peças, com toda a alfaiataria.",
+          "O preço do Mercado Livre muda rápido. O que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar."
         ]
       },
       {
-        "heading": "Onde sai mais barato, peça a peça",
+        "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
         "paragraphs": [
-          "Os preços são de 20/10/2026. No Mercado Livre, é o preço do anúncio da loja oficial da Cléa, com o Pix quando o anúncio mostra Pix. No site, é o preço de venda de hoje; o \"site com cupom\" é esse preço menos 10%, com o cupom CSEMCASACOMCECILIA. Na última coluna, valor positivo quer dizer que o Mercado Livre sai mais barato."
+          "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
+        ],
+        "bullets": [
+          "T-Shirt Oversized Algodão (avulsa)",
+          "Kit 3 T-Shirts Oversized Intense",
+          "Kit 3 T-Shirts Oversized Colorful",
+          "Kit 3 T-Shirts Oversized Classic",
+          "Body Gola Alta Manga Longa, em 5 cores",
+          "Body Regata Second Skin Duplo",
+          "Body Tule Gola Alta Second Skin"
+        ],
+        "postParagraphs": [
+          "São as peças de base da marca. O resto do catálogo fica só no site, e é lá que está a diversidade da loja: mais modelos de body, mais kits de t-shirt, mais cores do mesmo modelo e a alfaiataria inteira. A seção seguinte mostra o que muda."
+        ]
+      },
+      {
+        "heading": "O que só o site tem",
+        "paragraphs": [
+          "Nas categorias do site que lemos em 20/10/2026, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
+        ],
+        "bullets": [
+          "Alfaiataria: blazers, entre eles o Risca de Giz Cinza e os oversized Bordô e Mescla, coletes, bermuda e calças de alfaiataria.",
+          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o Frente Única, o Decote Reversível, o Regata Cavado e o Ombro Único. O Gola Alta tem 7 cores no site e 5 no anúncio do Mercado Livre.",
+          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o Brazil Edition e o Monte Seu Kit. Os dois custam R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
+          "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
+        ],
+        "postParagraphs": [
+          "Para montar uma produção com a alfaiataria, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store). Para escolher entre os seis bodies, veja [qual body Second Skin escolher](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
+            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
+            "caption": "Body Frente Única Decote Second Skin, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "O essencial: preço no Mercado Livre e no site em 20/10/2026",
+        "paragraphs": [
+          "A comparação vale só para as peças que estão nos dois lados. No Mercado Livre, o primeiro número é o menor preço do anúncio, que em alguns casos pede pagamento com saldo no Mercado Pago. No site, é o preço de venda menos os 10% do cupom."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Mercado Livre (20/10/2026)",
-            "Site (preço de venda)",
-            "Site com cupom",
-            "Diferença (site com cupom menos Mercado Livre)"
+            "Mercado Livre",
+            "Site com o cupom",
+            "Onde sai mais barato hoje"
           ],
           "rows": [
             [
               "Kit 3 T-Shirts Oversized Intense",
-              "R$ 129,90",
-              "R$ 258,00",
+              "R$ 129,90 (6x de R$ 21,65)",
               "R$ 232,20",
-              "+R$ 102,30"
+              "Mercado Livre, R$ 102,30 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Colorful",
-              "R$ 133,74",
-              "R$ 258,00",
+              "R$ 127,05 com saldo no Mercado Pago, ou R$ 133,74 em 6x",
               "R$ 232,20",
-              "+R$ 98,46"
+              "Mercado Livre, R$ 105,15 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Classic",
-              "R$ 387,00 (sem desconto)",
-              "R$ 258,00",
+              "R$ 387,00 (9x de R$ 43,00)",
               "R$ 232,20",
-              "-R$ 154,80"
+              "Site, R$ 154,80 a menos"
             ],
             [
               "T-Shirt Oversized Algodão (avulsa)",
-              "R$ 62,70 no Pix (R$ 66,00 em 3x)",
-              "R$ 129,00",
+              "R$ 62,70 com saldo no Mercado Pago, ou R$ 66,00 em 5x",
               "R$ 116,10",
-              "+R$ 53,40"
+              "Mercado Livre, R$ 53,40 a menos"
             ],
             [
               "Body Regata Second Skin Duplo",
-              "R$ 82,65 no Pix (R$ 87,00 em 3x)",
-              "R$ 127,20",
+              "R$ 82,65 com saldo no Mercado Pago, ou R$ 87,00 em 5x",
               "R$ 114,48",
-              "+R$ 31,83"
+              "Mercado Livre, R$ 31,83 a menos"
             ],
             [
               "Body Gola Alta Manga Longa",
-              "R$ 89,00 (3x de R$ 29,67)",
-              "R$ 135,20",
+              "R$ 89,00 (5x de R$ 17,80)",
               "R$ 121,68",
-              "+R$ 32,68"
-            ],
-            [
-              "Blazer Oversized Alfaiataria Bordô",
-              "não há no Mercado Livre",
-              "R$ 524,30",
-              "R$ 471,87",
-              "só no site"
+              "Mercado Livre, R$ 32,68 a menos"
             ]
           ]
         },
         "postParagraphs": [
-          "O Blazer Oversized Alfaiataria Mescla tem o mesmo preço do Bordô (R$ 524,30 no site). O Blazer Alfaiataria Risca de Giz Cinza sai por R$ 538,30 no site. Na busca de hoje, não apareceu no Mercado Livre nenhum blazer, colete ou calça de alfaiataria da Cléa, então, para a alfaiataria, a comparação é só com o site.",
-          "Na t-shirt avulsa e nos bodies, o Mercado Livre continua mais barato mesmo com o cupom no site. O site não tem desconto de Pix registrado, por isso a comparação usa o preço no Pix do anúncio. Nos bodies, o site também tem a opção de três unidades (R$ 95,40 cada no Duplo e R$ 101,40 cada no Gola Alta); o cupom sobre essa opção não foi verificado, e a tabela não a usa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
-            "alt": "Barras comparando o preço no Mercado Livre e no site com o cupom para três kits de t-shirt, a t-shirt avulsa e dois bodies, em 20/10/2026",
-            "caption": "Mercado Livre e site com cupom em 20/10/2026. Quadro do Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 1.7778
-          }
+          "No site, o preço de venda era R$ 258,00 em cada kit, R$ 129,00 na t-shirt avulsa, R$ 127,20 no Body Duplo e R$ 135,20 no Gola Alta. O Body Tule fica fora da tabela: no site, uma das variantes está em pré-venda e o preço não fecha.",
+          "Os anúncios do Mercado Livre tinham frete grátis. No site, o frete é grátis acima de R$ 599 (valor lido em 14/10/2026). Abaixo disso, o frete é calculado no carrinho e não entra nesta conta."
         ],
         "links": [
           {
-            "label": "Ver no Mercado Livre (sem cupom)",
-            "href": "https://meli.la/1t3kn5d",
+            "label": "Ver a loja oficial no Mercado Livre",
+            "href": "https://meli.la/29nSHmD",
             "sponsored": true
           },
           {
-            "label": "Ir ao site da Cléa com o cupom",
+            "label": "Ver o catálogo completo no site, com o cupom",
             "href": "https://www.cleastore.com.br/",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "Conta com cupom e cashback",
+        "heading": "Cupom e cashback no site",
         "paragraphs": [
-          "O cupom CSEMCASACOMCECILIA tira 10% do preço de venda no site, em todas as formas de pagamento. Ele soma com as promoções e com o cashback da loja, não vale no Mercado Livre e se aplica no carrinho. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20. As condições do cupom estão na [página do cupom da Cléa Store](/cupons/clea-store).",
-          "O cashback é um programa da própria loja e soma com o cupom. No pedido de teste de 14/10/2026, ele gerou R$ 23,22 sobre o valor pago de R$ 232,20. O valor só entra na conta quando a loja credita, e essa leitura não foi refeita hoje. Se o mesmo cashback valer para o kit Intense, o preço líquido fica em cerca de R$ 208,98, ainda R$ 79,08 acima do anúncio do Mercado Livre.",
-          "O frete é outra conta. No site, o frete é grátis acima de R$ 599 (faixa lida em 14/10/2026); abaixo disso, a loja cobra, e o valor não entra nas contas deste texto. Um kit com o cupom (R$ 232,20) fica abaixo desse valor, então o frete do site conta. No Mercado Livre, o frete é grátis nos anúncios de t-shirts e bodies lidos hoje."
+          "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
+          "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na [página do cupom](/cupons/clea-store)."
         ],
         "images": [
           {
@@ -101153,82 +101016,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que só o site tem",
+        "heading": "Antes de comprar no Mercado Livre",
         "paragraphs": [
-          "As t-shirts e os bodies estão nos dois lados. O resto do catálogo, a alfaiataria inclusive, está só no site. O que lemos em 20/10/2026:"
-        ],
-        "bullets": [
-          "**Alfaiataria e o resto do catálogo:** blazers, calças e coletes. Na busca \"clea store blazer\", o Mercado Livre não trouxe nenhum blazer, colete nem calça de alfaiataria da Cléa (leitura de 20/10/2026).",
-          "**Provador virtual e tabela de medidas:** a página de cada produto do site traz a tabela de medidas do corpo (busto, cintura e quadril) e o Provador Virtual, do Sizebay. Na t-shirt oversized, por exemplo, o P vai de 82 a 90 cm de busto e o M de 88 a 96 cm (página de produto, 20/10/2026).",
-          "**Cupom:** CSEMCASACOMCECILIA dá 10% OFF em todo o site, com todas as formas de pagamento. O cupom foi testado pela equipe em 14/10/2026. Ele não vale no Mercado Livre (regra do próprio cupom).",
-          "**Cashback:** a loja tem um programa de cashback que soma com o cupom. No teste de 14/10/2026, o pedido de R$ 232,20 gerou R$ 23,22 de cashback. O cashback só conta quando é creditado.",
-          "**Devolução:** a devolução é grátis."
-        ],
-        "postParagraphs": [
-          "Para a política completa da loja e o que a equipe conferiu sobre ela, veja [a análise da Cléa Store](/reviews/clea-store-e-confiavel)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
-            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
-            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6669
-          }
+          "Confira se o vendedor é Clea Oficial. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns do exterior, e eles não são da loja. O botão do Mercado Livre deste texto leva direto à loja oficial.",
+          "No Mercado Livre, a troca e a devolução seguem as regras da plataforma e do anúncio, e o cupom do site não entra. A devolução grátis da Cléa vale nas compras feitas no site. Se quiser saber mais sobre a loja antes de comprar, veja [se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
         ]
       },
       {
-        "heading": "Quando comprar no Mercado Livre",
-        "paragraphs": [
-          "Estes são os anúncios do vendedor \"Clea Oficial\" lidos em 20/10/2026, com o preço de venda do site ao lado (site também em 20/10/2026):"
-        ],
+        "heading": "Como escolher",
         "bullets": [
-          "Kit 3 t-shirts Oversized Intense: R$ 129,90, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
-          "Kit 3 t-shirts Oversized Colorful: R$ 133,74, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
-          "T-shirt Oversized de algodão, avulsa: R$ 62,70 no Pix (ou 3x de R$ 22). No site, R$ 129,00, ou R$ 116,10 com o cupom.",
-          "Body Regata Second Skin Duplo: R$ 82,65 no Pix (ou 3x de R$ 29). No site, R$ 127,20, ou R$ 114,48 com o cupom.",
-          "Body Gola Alta Manga Longa: R$ 89,00 (3x de R$ 29,67). No site, R$ 135,20, ou R$ 121,68 com o cupom."
-        ],
-        "postParagraphs": [
-          "Nos kits Intense e Colorful, na t-shirt avulsa e nos bodies Duplo e Gola Alta, o Mercado Livre saiu abaixo do site com o cupom neste dia. Na avulsa e no Body Duplo, o número do Mercado Livre é o preço no Pix; nos kits, é o preço do cartão. O cupom não entra no Mercado Livre, então a conta é só o preço do anúncio.",
-          "Antes de comprar, confira que o vendedor é **Clea Oficial**. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns internacionais. Esses não são da loja e ficam fora desta conta. A troca e a devolução no Mercado Livre seguem as regras da plataforma e do anúncio; não lemos a política desse vendedor nesta leitura, então confira no anúncio antes de pagar."
-        ]
-      },
-      {
-        "heading": "Quando comprar no site",
-        "paragraphs": [
-          "São três casos. Primeiro, a alfaiataria: o blazer oversized de alfaiataria bordô está R$ 524,30 no site (preço de venda em 20/10/2026), ou R$ 471,87 com o cupom, e o Mercado Livre não tem blazer da Cléa. Para montar um look com ele, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
-          "Segundo, o kit Classic. No Mercado Livre, ele está R$ 387,00 sem desconto hoje. No site, o kit está R$ 258,00 de venda (R$ 232,20 com o cupom), em 20/10/2026. Aqui o site ganha.",
-          "Terceiro, quem quer usar o cupom e ganhar cashback no mesmo pedido, além de contar com o provador e a tabela de medidas da página do produto. Para aplicar o cupom no checkout, veja o [passo a passo do cupom da Cléa Store](/reviews/cupom-clea-store-como-usar). Em 14/10/2026, o site anunciava frete grátis acima de R$ 599; abaixo disso, o frete é calculado no carrinho. Esse valor não entra nas contas desta página, então confira no carrinho."
-        ]
-      },
-      {
-        "heading": "Como escolher em 30 segundos",
-        "bullets": [
-          "**T-shirt avulsa e kit Intense ou Colorful:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Kit Classic:** site.",
-          "**Body Duplo:** Mercado Livre, no Pix, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Body Gola Alta:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Os outros modelos de body:** compare o anúncio com o carrinho do site. Para escolher o modelo, veja [qual body escolher](/reviews/body-clea-store-second-skin-qual-escolher).",
-          "**Blazer, calça e colete:** site.",
-          "**Quer cupom, cashback e devolução grátis no mesmo pedido:** site."
+          "Quer só a t-shirt avulsa, o Kit Intense, o Kit Colorful, o Body Duplo ou o Body Gola Alta: compare com o Mercado Livre, que em 20/10/2026 saía mais barato que o site com o cupom.",
+          "Quer o Kit Classic: o site saía R$ 154,80 mais barato.",
+          "Quer outro modelo de body, outra cor, o Kit Brazil Edition, o Monte Seu Kit ou qualquer peça de alfaiataria: site, porque essas peças não estão no Mercado Livre.",
+          "Quer cupom, cashback e devolução grátis no mesmo pedido: site."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no checkout do site oficial, e no Mercado Livre vale o preço do anúncio.",
-          "A Cléa Store tem frete grátis? Sim, acima de R$ 599, segundo a faixa anunciada em 14/10/2026. Abaixo disso, o frete é calculado no carrinho.",
-          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback foi calculado sobre o valor já com o desconto do cupom.",
-          "O preço do Mercado Livre é o mesmo do site? Não, e muda. Em 20/10/2026, a t-shirt e o Body Duplo estavam mais baratos no Mercado Livre, mas o preço pode mudar; confira os dois antes de comprar."
+          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site oficial da Cléa Store; no Mercado Livre vale o preço do anúncio.",
+          "Quais peças da Cléa Store estão no Mercado Livre? Em 20/10/2026 eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
+          "O Mercado Livre é sempre mais barato? Não. Em 20/10/2026, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
+          "A Cléa Store tem frete grátis? No site, acima de R$ 599, segundo o valor lido em 14/10/2026. Os anúncios do Mercado Livre lidos em 20/10/2026 tinham frete grátis.",
+          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback saiu sobre o valor já com o desconto do cupom."
         ]
       },
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "Os preços deste artigo foram lidos no site da Cléa Store e no Mercado Livre em 20/10/2026. Eles mudam de um dia para o outro: confira antes de comprar.",
-          "Podemos receber comissão quando você compra pelo cupom do site, pelo link da loja ou pelo link do Mercado Livre. Isso não muda o preço para você.",
-          "Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
+          "Os preços foram lidos no site da Cléa Store e na loja oficial do Mercado Livre em 20/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
+          "Podemos receber comissão quando você compra no site com o cupom ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
         ]
       }
     ],
