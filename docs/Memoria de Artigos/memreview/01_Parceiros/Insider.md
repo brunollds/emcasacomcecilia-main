@@ -159,6 +159,25 @@ do cupom no checkout.
 - **Troca na Tech T-Shirt:** a página do produto diz "A primeira troca é grátis", enquanto a central
   de ajuda (09/10/2026) diz que toda troca é gratuita. Os textos usam a central de ajuda.
 
+### Decisões do Bruno que valem para todos os artigos da Insider (20/10/2026)
+
+- **Underwear só troca por defeito, e as undershirts entram nessa regra.** A central ("Trocas e
+  Devoluções: Como fazer, Prazos e Condições", lida em 20/10) exclui as linhas Underwear e Beachwear
+  da troca por tamanho; as três undershirts estão na coleção `underwear` da loja. A troca de presente
+  segue a mesma regra. O selo "Troca fácil e gratuita · 21 dias para devolução" das páginas de
+  produto é bloco genérico do tema e não entra nos textos.
+- **A cueca boxer é o item da Insider que mais vendemos pelo cupom:** prioridade em CTAs e exemplos,
+  sem número para o leitor.
+- **Preço:** o dos produtos do catálogo, datado. O seletor de quantidade da página (desconto
+  progressivo no avulso) entra só como "a página dá desconto por quantidade".
+- **Pix:** em 20/10 a barra diz "+2% OFF no Pix" e um banner "+10% PIX": não citar o percentual.
+- **Avaliações:** o widget de avaliações mostra 0 avaliação de 1 a 3 estrelas em todos os produtos;
+  a nota, se citada, vai atribuída à página da loja e não serve de prova.
+- **Gift card:** cupom não entra em pedido pago com gift card (página do produto). Não há fonte sobre
+  o cupom na compra do gift card: os textos não falam disso.
+- **Fora dos textos:** Shark Tank (fontes conflitantes) e produtos internos da loja (TESTE, Cópia,
+  brinde a R$ 0, `excluir-collection-all`).
+
 ---
 
 ## 5. Mídia da Marca
@@ -209,3 +228,6 @@ loja física, CNPJ, Insider Business e vagas.
 - [[black-friday-insider]] — Guia de Black Friday 2026: coleção no ar, preços de outubro, cupom com o Pix, troca de presente e prazo para o Natal (publicado em 10/10/2026, PR #50)
 - [[insider-vale-a-pena]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
 - [[tabela-de-medidas-insider]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
+- [[cueca-insider-comfort-ou-performance]] — briefing em pauta-aprovada (20/10/2026)
+- [[undershirt-insider-qual-escolher-funciona]] — briefing em pauta-aprovada (20/10/2026)
+- [[presente-de-natal-insider-kits-gift-card]] — briefing em pauta-aprovada (20/10/2026)

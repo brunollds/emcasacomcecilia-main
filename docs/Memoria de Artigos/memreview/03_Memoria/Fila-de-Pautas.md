@@ -54,6 +54,19 @@ As duas lojas pediram mais material. Pautas de decisão de compra, com produtos 
 | L6 | Faqueiro Wolff: 30, 101 ou 130 peças | Estoque, próxima rodada (a loja vende) |
 | C1 | Camiseta da Cléa Store é boa? | Parado: sem compra nem amostra |
 
+## Insider (Bruno, 20/10/2026)
+
+Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitura da loja no Chrome. A cueca boxer é o item da Insider que mais vendemos. Ninguém do site usou as peças: sem experiência própria.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| I1 | Cueca: Comfort, Performance, Seamless Touch ou Slip | **Briefing aprovado em 20/10/2026:** [[cueca-insider-comfort-ou-performance]] (junto, corrigir os preços de cueca do `insider-vale-a-pena`) |
+| I2 | Undershirt: Leve, Moderado ou Block | **Briefing aprovado em 20/10/2026:** [[undershirt-insider-qual-escolher-funciona]] |
+| I4 | Presente de Natal: kits, gift card e troca de presente | **Briefing aprovado em 20/10/2026:** [[presente-de-natal-insider-kits-gift-card]] |
+| I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | Estoque |
+| I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
+| I6 | Insider no Mercado Livre ou no site | Estoque (sem link de afiliado do Mercado Livre da Insider) |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
