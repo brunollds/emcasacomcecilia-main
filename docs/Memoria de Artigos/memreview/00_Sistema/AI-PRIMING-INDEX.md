@@ -12,15 +12,15 @@
   1. `00_Sistema/REGRAS-GLOBAIS.md`
   2. `00_Sistema/CONTRATOS-DE-CONTEUDO.md`
   3. `00_Sistema/JOBS/Job-1-Brainstorm-Pautas.md`
-  4. `01_Parceiros/[[Nome-do-Parceiro]].md` (apenas o parceiro da pauta)
+  4. `01_Parceiros/[[Nome-do-Parceiro]].md` (apenas o parceiro da pauta), com atenção às decisões do Bruno registradas nos alertas
   5. `03_Memoria/Dores-Mapeadas-Consumidor.md`
-  6. `03_Memoria/Descartadas.md` (para checar se a ideia já foi rejeitada)
+  6. `03_Memoria/Descartadas.md` (para checar se a ideia já foi rejeitada) e `03_Memoria/Fila-de-Pautas.md` (ordem, estoque e pautas paradas)
   7. `03_Memoria/Clusters-Multilingues/Modelo-Operacional.md` e a nota do
      cluster, **se** o parceiro tiver cluster multilíngue (hoje YesStyle e SHEIN)
   8. `docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`, **se** a pauta for nascer ou
      receber versão fora de PT
 - **Template de Saída:** `04_Templates/Template-Briefing-Pauta.md`
-- **Destino do Arquivo:** `02_Artigos/<slug>.md` (com `status: pauta-aprovada`)
+- **Destino do Arquivo:** primeiro o scratchpad da sessão (com `status: briefing`); depois das decisões do Bruno, `02_Artigos/<slug>.md` (com `status: pauta-aprovada`), mais o `PAINEL-DA-ESTEIRA.md` e a `Fila-de-Pautas.md`. Fluxo completo na seção 1 do Job 1.
 
 ---
 
