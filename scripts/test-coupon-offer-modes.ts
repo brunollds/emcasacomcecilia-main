@@ -114,6 +114,7 @@ const mercadoLivreLinks: Record<string, string> = {
   probiotica: 'https://meli.la/1U1ttvv',
   letseatit: 'https://meli.la/1RHKLYr',
   belive: 'https://meli.la/2xDjP2k',
+  'mais-mu': 'https://meli.la/24RjvdP',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
