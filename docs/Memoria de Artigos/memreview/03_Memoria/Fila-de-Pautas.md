@@ -35,6 +35,16 @@ Comparativos de cada parceira de suplemento com a Growth, a referência de preç
 | 2 | Max Titanium ou Growth | **Briefing criado em 18/10/2026:** [[max-titanium-ou-growth]] (whey, 3W, isolado, creatina e hipercalórico); **no ar em 18/10/2026** (PR #155) |
 | 3 | Probiótica ou Growth | **Briefing criado em 18/10/2026:** [[probiotica-ou-growth]]; **no ar em 18/10/2026** (PR #155) |
 
+## Série 1 a 1 contra a Dux (Bruno, 20/10/2026)
+
+A Dux Human Health (duxhumanhealth.com) é a base de comparação no lugar da Growth. Ela não é parceira: sem link de afiliado, sem cupom e sem recomendação de compra. O autocompletar de 20/10/2026 traz os três pares com "qual o melhor", "whey" e "creatina". No par da Max aparecem também isolado, multivitamínico e pré-treino, e "a Dux é boa marca" aparece sozinho. "Dux ou Growth" tem busca, mas fica fora por decisão do Bruno de 18/10/2026. As tabelas nutricionais da Dux estão no HTML da página, na variável `NUTRITIONAL_TABLE`, e abrem por curl.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| 1 | Black Skull ou Dux | **Pauta aprovada em 20/10/2026:** [[black-skull-ou-dux]] |
+| 2 | Max Titanium ou Dux | **Pauta aprovada em 20/10/2026:** [[max-titanium-ou-dux]] (três pares de whey, creatina, multivitamínico e pré-treino) |
+| 3 | Probiótica ou Dux | **Pauta aprovada em 20/10/2026:** [[probiotica-ou-dux]] |
+
 ## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)
 
 As duas lojas pediram mais material. Pautas de decisão de compra, com produtos e preços reais da leitura de 19/10/2026. Ninguém do site usou as peças: sem experiência própria.

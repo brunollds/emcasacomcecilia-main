@@ -6,7 +6,9 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-skull-ou-dux]] — série contra a Dux; whey 80% HD refil × Concentrado 900 g, 100% HD 1,8 kg × Concentrado 1,8 kg, creatina (20/10/2026)
+- [ ] [[max-titanium-ou-dux]] — série contra a Dux; três pares de whey, creatina e Creapure, multivitamínico e pré-treino (20/10/2026)
+- [ ] [[probiotica-ou-dux]] — série contra a Dux; 100% Pure Whey 900 g (e refil) × Concentrado, creatina 300 g (20/10/2026)
 
 ---
 
