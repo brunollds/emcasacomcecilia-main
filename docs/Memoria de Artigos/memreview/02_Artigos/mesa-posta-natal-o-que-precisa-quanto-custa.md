@@ -224,7 +224,7 @@ Válidas para as sete pautas desta rodada (Let's Eat It: mesa posta de Natal, pr
 - **MAUAD:** vale em todas as formas de pagamento e soma com o desconto do Pix (Bruno, 08/10/2026). **CSEMCASACOMCECILIA:** regras do `couponsData.ts`.
 - **Contador do aniversário da Cléa:** é estratégia de marketing do site, não data de fim. Os artigos novos não citam o brinde; ele fica só no artigo dos 14 anos, que o Bruno acompanha.
 - **Vendedor "Clea Oficial" no Mercado Livre é a própria Cléa Store** (Bruno): o texto pode dizer "loja oficial da Cléa no Mercado Livre".
-- **Devolução sem custo de postagem (Cléa):** quatro artigos no ar dizem que não há custo; a página de devolução não diz. Fica para depois (Bruno): os artigos novos não afirmam devolução grátis.
+- **Devolução grátis (Cléa):** decisão do Bruno de 14/10/2026, que vale para todos os artigos da Cléa: a devolução é grátis. Os artigos podem dizer isso. (Corrigido em 20/10/2026: a primeira versão desta seção dizia que não estava confirmada.)
 - Slugs: os sugeridos nos briefings. Imagens: ficha de opções na redação; nenhuma entra sem o Bruno escolher.
 - **Esta pauta:** prioridade 1 da rodada. Faixas de orçamento como no briefing. A mesa parte do prato que a pessoa já tem; o jogo Alleanza Soldadinhos fica como opção. Contar talheres e peças por pessoa só depois de ler a composição do faqueiro e do aparelho na página do produto.
 

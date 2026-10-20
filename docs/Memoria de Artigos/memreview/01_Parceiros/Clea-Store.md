@@ -43,6 +43,14 @@ Nos artigos deste parceiro, usar `affiliate: "clea-store"` e link relativo para
 `/cupons/clea-store`, conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Os artigos de onboarding passam
 primeiro pela pauta (Job 1) e depois pela sessão de artigos (Bruno, 14/10/2026).
 
+### Decisões do Bruno que valem para todos os artigos da Cléa
+
+- **Devolução grátis** (14/10/2026): os artigos podem dizer que a devolução é grátis. Troca direta de tamanho e reembolso de compra com cupom não foram confirmados: não afirmar.
+- **Mercado Livre** (14/10 e 19/10/2026): o vendedor "Clea Oficial" é a própria Cléa Store. O onboarding não cita o Mercado Livre; ele entra no artigo `clea-store-mercado-livre-ou-site`, com o link meli.la do `couponsData.ts` e a data da pesquisa de preço, porque os básicos (t-shirts e bodies) costumam sair mais baratos lá, sem o cupom. Nas outras pautas, no máximo uma frase com link para esse artigo.
+- **Loja física** (14/10/2026): não citar.
+- **Contador de promoção do site** (19/10/2026): é estratégia de marketing, não data de fim. A data da promoção dos 14 anos é acompanhada pelo Bruno (até 31/10/2026).
+- **Sem experiência própria** (19/10/2026): ninguém do site comprou nem recebeu peças. "A camiseta da Cléa é boa?" fica parada até haver uso real.
+
 ---
 
 ## 4. Mídia da Marca
