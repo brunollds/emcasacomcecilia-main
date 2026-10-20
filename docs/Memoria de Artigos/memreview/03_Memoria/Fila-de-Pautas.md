@@ -60,9 +60,9 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| I1 | Cueca: Comfort, Performance, Seamless Touch ou Slip | **Briefing aprovado em 20/10/2026:** [[cueca-insider-comfort-ou-performance]] (junto, corrigir os preços de cueca do `insider-vale-a-pena`) |
-| I2 | Undershirt: Leve, Moderado ou Block | **Briefing aprovado em 20/10/2026:** [[undershirt-insider-qual-escolher-funciona]] |
-| I4 | Presente de Natal: kits, gift card e troca de presente | **Briefing aprovado em 20/10/2026:** [[presente-de-natal-insider-kits-gift-card]] |
+| I1 | Cueca: Comfort, Performance, Seamless Touch ou Slip | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[cueca-insider-comfort-ou-performance]] (junto, corrigir os preços de cueca do `insider-vale-a-pena`) |
+| I2 | Undershirt: Leve, Moderado ou Block | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[undershirt-insider-qual-escolher-funciona]] |
+| I4 | Presente de Natal: kits, gift card e troca de presente | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[presente-de-natal-insider-kits-gift-card]] |
 | I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | Estoque |
 | I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
 | I6 | Insider no Mercado Livre ou no site | Estoque (sem link de afiliado do Mercado Livre da Insider) |
