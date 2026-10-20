@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar os preços na última semana de outubro de 2026"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 74
@@ -20,7 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
+publicado_em: "2026-10-20"
+nota_publicacao: "No ar em 20/10/2026 05:09 UTC (PR #180, release `ab083f0`, build `01a157b4-9be4-73a9-804f-f50c603cb546`; probe 39373530579)."
 ---
 
 # Briefing de Pauta: Mesa posta de Natal: o que precisa, quanto custa e como montar
@@ -231,3 +232,9 @@ Válidas para as sete pautas desta rodada (Let's Eat It: mesa posta de Natal, pr
 ### Redação
 
 Job 2 na sessão elaboradora de artigos.
+
+## Registro do Job 2 a Job 4 (20/10/2026)
+
+- **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT. id 514, `/reviews/mesa-posta-natal-o-que-precisa-quanto-custa`, autoria da Cecília.
+- **Preços:** relidos em 20/10/2026 (Let's Eat It), com a data no texto; itens em pré-venda ou com dado quebrado ficaram fora. Cupom MAUAD (5%, soma com o Pix). Sem experiência própria com os produtos.
+- **Imagens:** em `public/images/reviews/letseatit/`, escolhidas pelo Bruno na folha de contato: 3 imagens de produto da loja e 2 quadros próprios (três faixas e como montar o lugar). Upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.

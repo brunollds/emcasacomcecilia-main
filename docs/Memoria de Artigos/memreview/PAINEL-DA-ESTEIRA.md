@@ -6,14 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[cafeteira-escritorio-qual-escolher-custo-mes]] — Dolce Gusto, cafeteira para escritório: tipo de máquina por perfil e custo por mês da equipe (Score Aut: 60 / Conv: 70)
-- [ ] [[mesa-posta-natal-o-que-precisa-quanto-custa]] — Let's Eat It, mesa posta de Natal para 6 em três faixas de preço (Score Aut: 58 / Conv: 74)
-- [ ] [[presente-de-casamento-ideias-por-preco]] — Let's Eat It, presente de casamento por faixa de preço (Score Aut: 55 / Conv: 70)
-- [ ] [[presente-natal-quem-gosta-de-cozinhar]] — Let's Eat It, presente de Natal para quem cozinha por faixa de preço (Score Aut: 58 / Conv: 70)
-- [ ] [[look-trabalho-alfaiataria-feminina-clea-store]] — Cléa Store, looks de trabalho com alfaiataria e o preço de cada um (Score Aut: 45 / Conv: 65)
-- [ ] [[body-clea-store-second-skin-qual-escolher]] — Cléa Store, body Second Skin: qual modelo por uso, tamanho e preço (Score Aut: 60 / Conv: 72)
-- [ ] [[clea-store-tabela-de-medidas-como-escolher-tamanho]] — Cléa Store, tabela de medidas e como escolher o tamanho (Score Aut: 62 / Conv: 58)
-- [ ] [[clea-store-mercado-livre-ou-site]] — Cléa Store, Mercado Livre ou site: onde sai mais barato, com os dois links (Score Aut: 62 / Conv: 80)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -49,6 +42,14 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[cafeteira-escritorio-qual-escolher-custo-mes]] — Dolce Gusto, cafeteira para escritório: tipo de máquina por perfil e custo por mês da equipe (Score Aut: 60 / Conv: 70) (No ar em 20/10/2026, PR #174, release `96b0008`) 🚀
+- [x] [[mesa-posta-natal-o-que-precisa-quanto-custa]] — Let's Eat It, mesa posta de Natal para 6 em três faixas de preço (Score Aut: 58 / Conv: 74) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[presente-de-casamento-ideias-por-preco]] — Let's Eat It, presente de casamento por faixa de preço (Score Aut: 55 / Conv: 70) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[presente-natal-quem-gosta-de-cozinhar]] — Let's Eat It, presente de Natal para quem cozinha por faixa de preço (Score Aut: 58 / Conv: 70) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[look-trabalho-alfaiataria-feminina-clea-store]] — Cléa Store, looks de trabalho com alfaiataria e o preço de cada um (Score Aut: 45 / Conv: 65) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[body-clea-store-second-skin-qual-escolher]] — Cléa Store, body Second Skin: qual modelo por uso, tamanho e preço (Score Aut: 60 / Conv: 72) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[clea-store-tabela-de-medidas-como-escolher-tamanho]] — Cléa Store, tabela de medidas e como escolher o tamanho (Score Aut: 62 / Conv: 58) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
+- [x] [[clea-store-mercado-livre-ou-site]] — Cléa Store, Mercado Livre ou site: onde sai mais barato, com os dois links (Score Aut: 62 / Conv: 80) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
 - [x] [[mochaccino-canela-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
 - [x] [[espresso-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
 - [x] [[caramelo-salgado-dolce-gusto]] — Dolce Gusto, ficha de sabor de 17/10 (No ar em 17/10/2026, PR #145, release `16865fe`) 🚀
