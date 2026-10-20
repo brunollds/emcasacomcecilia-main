@@ -38579,6 +38579,618 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34390,
+      "sha256": "23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-oversized-bordo.webp",
+      "storage_filename": "clea-store-blazer-oversized-bordo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100806,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101172,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a/clea-store-blazer-oversized-bordo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a/clea-store-blazer-oversized-bordo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.354Z",
+      "verification_etag_or_digest": "23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96854,
+      "sha256": "ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-oversized-mescla.webp",
+      "storage_filename": "clea-store-blazer-oversized-mescla.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100310,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab/clea-store-blazer-oversized-mescla.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab/clea-store-blazer-oversized-mescla.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114498,
+      "sha256": "60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-risca-de-giz-cinza.webp",
+      "storage_filename": "clea-store-blazer-risca-de-giz-cinza.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100237,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5/clea-store-blazer-risca-de-giz-cinza.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5/clea-store-blazer-risca-de-giz-cinza.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136806,
+      "sha256": "540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-frente-unica.webp",
+      "storage_filename": "clea-store-body-frente-unica.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100639,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524/clea-store-body-frente-unica.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524/clea-store-body-frente-unica.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119540,
+      "sha256": "6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-gola-alta-manga-longa.webp",
+      "storage_filename": "clea-store-body-gola-alta-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100491,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9/clea-store-body-gola-alta-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9/clea-store-body-gola-alta-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125318,
+      "sha256": "c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-regata-cavado.webp",
+      "storage_filename": "clea-store-body-regata-cavado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 266,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100735,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b/clea-store-body-regata-cavado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b/clea-store-body-regata-cavado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 138520,
+      "sha256": "1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-regata-duplo.webp",
+      "storage_filename": "clea-store-body-regata-duplo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 152,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100335,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100621,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4/clea-store-body-regata-duplo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4/clea-store-body-regata-duplo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35322,
+      "sha256": "2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0",
+      "width": 1600,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-como-medir-busto-cintura-quadril.webp",
+      "storage_filename": "clea-store-como-medir-busto-cintura-quadril.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100842,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0/clea-store-como-medir-busto-cintura-quadril.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0/clea-store-como-medir-busto-cintura-quadril.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115270,
+      "sha256": "6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-kit-3-t-shirts-intense.webp",
+      "storage_filename": "clea-store-kit-3-t-shirts-intense.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101036,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577/clea-store-kit-3-t-shirts-intense.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577/clea-store-kit-3-t-shirts-intense.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44012,
+      "sha256": "943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-mercado-livre-ou-site-precos.webp",
+      "storage_filename": "clea-store-mercado-livre-ou-site-precos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 104,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101118,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea/clea-store-mercado-livre-ou-site-precos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea/clea-store-mercado-livre-ou-site-precos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106570,
+      "sha256": "498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-t-shirt-oversized-algodao.webp",
+      "storage_filename": "clea-store-t-shirt-oversized-algodao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 159,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100352,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100943,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4/clea-store-t-shirt-oversized-algodao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4/clea-store-t-shirt-oversized-algodao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44336,
+      "sha256": "0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5",
+      "width": 1600,
+      "height": 760,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-tabela-de-medidas.webp",
+      "storage_filename": "clea-store-tabela-de-medidas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 216,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100685,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100889,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5/clea-store-tabela-de-medidas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5/clea-store-tabela-de-medidas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/conhecendo-mais-rabanada.avif",
       "local_url": "/images/reviews/conhecendo-mais-rabanada.avif",
       "media_kind": "image",

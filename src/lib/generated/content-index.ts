@@ -100212,5 +100212,1050 @@ export const reviewsData: unknown[] = [
         "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
       }
     ]
+  },
+  {
+    "id": 517,
+    "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+    "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma",
+    "seoTitle": "Look de trabalho com alfaiataria: combinações e preço",
+    "type": "Guia de Looks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Três looks de trabalho com alfaiataria da Cléa Store, do blazer risca de giz com camisa off white ao colete vermelho, com o preço de cada peça em 20/10/2026 e o total com o cupom de 10%.",
+    "metaDescription": "Look de trabalho com alfaiataria feminina: 3 combinações com blazer, camisa, body e colete da Cléa Store e quanto custa cada uma, com e sem cupom.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+    "imageAlt": "Modelo com o blazer de alfaiataria risca de giz cinza da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os três looks abaixo usam peças da Cléa Store com o preço de venda de 20/10/2026. Os totais dos looks 1 e 2 não incluem calça: use uma calça de alfaiataria que você já tem. O look 3 é o único que traz uma calça da loja."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Look",
+            "Peças da loja",
+            "Preço de venda em 20/10/2026",
+            "Com cupom de 10%"
+          ],
+          "rows": [
+            [
+              "1. Trabalho neutro",
+              "Blazer Risca de Giz Cinza + Camisa Clássica Off White",
+              "R$ 797,30",
+              "R$ 717,57"
+            ],
+            [
+              "2. Body por baixo do blazer",
+              "Blazer Oversized Mescla + Body Gola Alta Manga Longa",
+              "R$ 659,50",
+              "R$ 593,55"
+            ],
+            [
+              "3. Colete vermelho",
+              "Colete Trespasse Vermelho + Calça Vermelha + Body Regata Duplo",
+              "R$ 1.275,20",
+              "R$ 1.147,68"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, em todas as formas de pagamento, e soma com as promoções. A equipe testou o cupom em 14/10/2026. Ele não vale no Mercado Livre; confira no carrinho. A devolução é grátis."
+        ]
+      },
+      {
+        "heading": "Look 1: trabalho neutro com blazer e camisa",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. O blazer está com preço promocional; a camisa, sem promoção."
+        ],
+        "bullets": [
+          "Blazer Alfaiataria Risca de Giz Cinza: R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
+          "Camisa Clássica Feminina Tricoline Off White: R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As duas peças somam R$ 797,30. Com o cupom de 10%, o total cai para R$ 717,57.",
+          "A calça não entra no total. Em 20/10/2026, a loja não tinha calça de alfaiataria neutra com envio imediato, então o look pede uma calça de alfaiataria que você já tem.",
+          "Segundo a descrição da loja, o blazer tem modelagem oversized e a própria loja avisa que a modelagem é ampla. A ficha da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
+        ]
+      },
+      {
+        "heading": "Look 2: body por baixo do blazer",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. Blazer e body estão com preço promocional hoje; o preço cheio aparece ao lado de cada um."
+        ],
+        "bullets": [
+          "Blazer Oversized Alfaiataria Mescla: R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
+          "Body Gola Alta Manga Longa Second Skin: R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As duas peças somam R$ 659,50. Com o cupom de 10%, o total fica em R$ 593,55. Como no look 1, a calça fica por conta de uma calça de alfaiataria que você já tem.",
+          "Segundo a descrição da loja, o blazer tem \"modelagem oversized, caimento sofisticado\". O body é descrito como de \"modelagem justa com caimento ajustado\", com uma prega no ombro esquerdo, e a loja diz que ele combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação (Trustvox, lido em 20/10/2026).",
+          "Se a dúvida é qual body usar por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria cinza mescla e calça cinza",
+            "caption": "Blazer Oversized Alfaiataria Mescla. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Look 3: colete vermelho com calça vermelha",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. As três peças são vendidas separadas: a loja não vende esse conjunto pronto. As fichas do colete e da calça aparecem como vermelho."
+        ],
+        "bullets": [
+          "Colete Alfaiataria Trespasse Vermelho: R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
+          "Calça Vermelha: R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
+          "Body Regata Second Skin Duplo: R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
+          "A Calça Vermelha tem só o tamanho P disponível hoje. Se o seu tamanho não for P, este look não fecha com ela, e não há outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
+          "Segundo a descrição da loja, o colete tem modelagem trespassada, sem mangas e com caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação (Trustvox, lido em 19/10/2026)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+            "alt": "Modelo com o body regata preto de gola alta e calça jeans",
+            "caption": "Body Regata Second Skin Duplo. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Casual de sexta: t-shirt oversized com blazer ou colete",
+        "paragraphs": [
+          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A T-Shirt Oversized Algodão custa R$ 129 (preço de venda em 20/10/2026), vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações (leitura de 19/10/2026).",
+          "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30, preço de venda em 20/10/2026) dá o toque de alfaiataria sem pesar o visual. Pela ficha, ele é 70% poliéster e 30% viscose. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799, preço de venda em 20/10/2026) entra no lugar dele.",
+          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258 (preço de venda em 20/10/2026, preço cheio de R$ 387). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+            "alt": "Modelo com a t-shirt oversized vinho de algodão e calça jeans",
+            "caption": "T-Shirt Oversized Algodão. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada look, com e sem cupom",
+        "paragraphs": [
+          "Os preços são de venda no site oficial em 20/10/2026. O cupom CSEMCASACOMCECILIA dá 10% sobre esse preço, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Look",
+            "Peças",
+            "Preço cheio",
+            "Preço de venda (20/10/2026)",
+            "Com cupom de 10%",
+            "Economia"
+          ],
+          "rows": [
+            [
+              "1. Trabalho neutro",
+              "Blazer Risca de Giz Cinza + Camisa Clássica Off White",
+              "R$ 1.028,00",
+              "R$ 797,30",
+              "R$ 717,57",
+              "R$ 79,73"
+            ],
+            [
+              "2. Body por baixo do blazer",
+              "Blazer Oversized Mescla + Body Gola Alta Manga Longa",
+              "R$ 918,00",
+              "R$ 659,50",
+              "R$ 593,55",
+              "R$ 65,95"
+            ],
+            [
+              "3. Colete vermelho",
+              "Colete Trespasse Vermelho + Calça Vermelha + Body Regata Second Skin Duplo",
+              "R$ 1.307,00",
+              "R$ 1.275,20",
+              "R$ 1.147,68",
+              "R$ 127,52"
+            ],
+            [
+              "Casual de sexta",
+              "T-Shirt Oversized Algodão + Blazer Oversized Mescla",
+              "R$ 878,00",
+              "R$ 653,30",
+              "R$ 587,97",
+              "R$ 65,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O estoque pesa no total. Em 20/10/2026, o Blazer Risca tinha só o tamanho M, o Blazer Mescla só o P, o Colete Trespasse estava sem M e a Calça Vermelha tinha só o P. Se o seu tamanho estiver esgotado, o look fica com outra peça ou sai da lista."
+        ]
+      },
+      {
+        "heading": "O que a Cléa não vende como conjunto",
+        "paragraphs": [
+          "A Cléa não vende blazer com calça de alfaiataria como conjunto. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490 (preço de venda na mesma data), e ele não é alfaiataria. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
+        ]
+      },
+      {
+        "heading": "Onde comprar com o cupom e quando conferir",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA vale para todo o site oficial da Cléa Store, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Confira no carrinho se o desconto entrou antes de pagar. A alfaiataria não está no Mercado Livre, onde a loja oficial da Cléa vende só t-shirts e bodies, e o cupom não vale lá: [a comparação entre os dois canais está no artigo sobre Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site).",
+          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na [página de cupons da loja](/cupons/clea-store). A equipe testou o cupom em 14/10/2026: um kit de 3 t-shirts saiu de R$ 258 para R$ 232,20 no carrinho.",
+          "A devolução é grátis. Algumas fichas, como a do Blazer Risca, dizem que a loja aceita devolução em até 30 dias.",
+          "Os preços deste artigo são de 20/10/2026. Promoção e estoque mudam, então confira no site antes de comprar. Antes de escolher o tamanho, veja a [tabela de medidas da Cléa Store, com as medidas do corpo de cada tamanho](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dá para usar calça de alfaiataria com camiseta oversized? Dá. A T-Shirt Oversized tem modelagem ampla, segundo a ficha, e uma calça de caimento reto ou wide leg equilibra esse volume.",
+          "Dá para usar body por baixo do blazer? Dá. O Body Gola Alta Manga Longa tem gola alta, então não aparece decote por baixo do blazer. Pela ficha, ele é 90% poliamida e 10% elastano, e custa R$ 135,20 (preço de venda em 20/10/2026).",
+          "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
+          "O cupom vale nas peças de alfaiataria? Vale. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, e as peças de alfaiataria estão lá. Ele não vale no Mercado Livre, onde a alfaiataria não aparece."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de venda no site oficial da Cléa Store em 20/10/2026 e mudam; confira antes de comprar. O site recebe comissão da loja quando a compra sai pelo cupom ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém do site vestiu nem usou as peças citadas: os looks são montagens feitas com as fichas e os preços da loja. O cupom foi testado pela equipe em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "slug": "body-clea-store-second-skin-qual-escolher",
+    "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço",
+    "seoTitle": "Body Cléa Store Second Skin: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os seis bodies Second Skin da Cléa Store lado a lado: uso que a loja indica, gola e manga, cores, tabela de tamanhos, avaliações e o preço de cada um em 20/10/2026, com o leve 3.",
+    "metaDescription": "Body Second Skin da Cléa Store: compare os 6 modelos por uso, gola, cores, tamanho e preço, de R$ 50,70 a R$ 135,20 em 20/10/2026, e o leve 3.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+    "imageAlt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os seis modelos de body da Cléa Store, com o que a própria loja diz de cada um e o preço de venda em 20/10/2026 (o preço cheio está entre parênteses):"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Uso que a loja indica",
+            "Gola e manga",
+            "Cores",
+            "Preço de venda (20/10/2026)"
+          ],
+          "rows": [
+            [
+              "Body Gola Alta Manga Longa Second Skin",
+              "Usar sozinho ou com blazers e casacos",
+              "Gola alta, manga longa",
+              "Amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho (7)",
+              "R$ 135,20 (cheio R$ 169,00)"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "Com jeans, saias, shorts e alfaiataria",
+              "Gola alta, regata",
+              "Marrom, off white, preto, rosa claro, roxo e vinho (6)",
+              "R$ 127,20 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Frente Única Decote Second Skin – Design Especial",
+              "Produções sofisticadas, encontros e ocasiões especiais",
+              "Decote profundo na frente, sem gola; a ficha não informa a manga",
+              "Marrom, off white e preto (3)",
+              "R$ 95,40 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Decote Reversível Second Skin – Design Especial",
+              "Decote na frente ou nas costas, com jeans, saias ou alfaiataria",
+              "Decote na frente ou nas costas; a ficha não informa a manga",
+              "Off white e preto (2)",
+              "R$ 79,50 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Regata Cavado Second Skin",
+              "Produções casuais ou sofisticadas",
+              "Regata, cavas profundas",
+              "Amarelo, off white, poá off white, poá preto, preto e rosa claro (6)",
+              "R$ 50,70 (cheio R$ 169,00)"
+            ],
+            [
+              "Body Ombro Único Com Detalhe nas Costas",
+              "Jeans, saias ou calças de alfaiataria",
+              "Um ombro só, decote assimétrico, abertura nas costas",
+              "Marrom, off white, preto e rosa claro (4)",
+              "R$ 79,50 (cheio R$ 159,00)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços mudam com a promoção do dia; confira na página do produto."
+        ]
+      },
+      {
+        "heading": "Os 6 modelos lado a lado",
+        "paragraphs": [
+          "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Cuidados na ficha",
+            "Preço cheio",
+            "Preço de venda (20/10/2026)",
+            "Leve 3 (preço por peça)"
+          ],
+          "rows": [
+            [
+              "Body Gola Alta Manga Longa",
+              "Sim",
+              "R$ 169,00",
+              "R$ 135,20",
+              "R$ 101,40 (3 unidades: R$ 304,20)"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "Sim",
+              "R$ 159,00",
+              "R$ 127,20",
+              "R$ 95,40 (3 unidades: R$ 286,20)"
+            ],
+            [
+              "Body Frente Única Decote Second Skin",
+              "Sim",
+              "R$ 159,00",
+              "R$ 95,40",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Decote Reversível Second Skin",
+              "Sim",
+              "R$ 159,00",
+              "R$ 79,50",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Regata Cavado Second Skin",
+              "Sim",
+              "R$ 169,00",
+              "R$ 50,70",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Ombro Único Com Detalhe nas Costas",
+              "Não",
+              "R$ 159,00",
+              "R$ 79,50",
+              "Sem leve 3 na página"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na prática, a diferença entre eles está no corte. Gola Alta e Duplo têm gola alta. Frente Única e Ombro Único têm decote de frente, com o Ombro Único fechado num ombro só. O Decote Reversível pode ser usado com o decote na frente ou nas costas. O Cavado é regata, com cavas profundas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+            "alt": "Modelo com o body regata preto de gola alta e calça jeans",
+            "caption": "Body Regata Second Skin Duplo. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Qual escolher para cada uso",
+        "paragraphs": [
+          "**Por baixo do blazer ou de alfaiataria.** O Body Gola Alta Manga Longa é o único que a loja cita com blazer, como peça para usar sozinha ou com blazers e casacos. O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
+          "**Noite e ocasião.** O Body Frente Única é o que a loja indica para encontros e ocasiões especiais, com decote profundo e detalhes franzidos. O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
+          "**Casual e dia a dia.** O Body Regata Cavado é descrito pela loja como peça para produções casuais ou sofisticadas. O Decote Reversível muda de look só pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts.",
+          "**Frio.** Só o Body Gola Alta aparece como o que a loja chama de upgrade do body clássico de frio, com gola levemente mais alta e manga longa. A loja não diz que ele aquece, e este texto também não diz."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
+            "caption": "Body Frente Única Decote Second Skin. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Qual tamanho pegar: P, M e G",
+        "paragraphs": [
+          "Os seis modelos vêm em P, M e G. A tabela do provador de medidas da página do produto mostra as medidas do corpo de quem veste, não da peça. A mesma faixa aparece no Body Gola Alta, no Duplo e no Body Regata Cavado."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Busto",
+            "Cintura",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "P",
+              "82 a 90 cm",
+              "68 a 76 cm",
+              "90 a 98 cm"
+            ],
+            [
+              "M",
+              "88 a 96 cm",
+              "72 a 80 cm",
+              "98 a 106 cm"
+            ],
+            [
+              "G",
+              "98 a 106 cm",
+              "82 a 90 cm",
+              "106 a 114 cm"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As faixas se sobrepõem: busto de 88 a 90 cm cabe no P e no M. Entre M e G há um vão de 2 cm, porque o M vai até 96 cm de busto e o G começa em 98 cm. Quando as suas medidas caem entre dois tamanhos, considere a modelagem justa. Como o body acompanha o corpo, a folga de um tamanho maior aparece mais do que numa t-shirt oversized. Para medir e comparar com o provador passo a passo, o [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica cada medida."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+            "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
+            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ]
+      },
+      {
+        "heading": "Kit de 3 bodies: quanto sai cada peça",
+        "paragraphs": [
+          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Em 20/10/2026, cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
+          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026; os desta página, de 20/10/2026."
+        ]
+      },
+      {
+        "heading": "Como lavar os bodies Second Skin",
+        "paragraphs": [
+          "A ficha dos bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado traz o mesmo bloco de cuidados. Segundo a loja:"
+        ],
+        "bullets": [
+          "Lavar somente à mão, até 40 °C",
+          "Usar sabão suave",
+          "Não usar alvejante",
+          "Secar à sombra",
+          "Pode secar em tambor, só na temperatura mínima",
+          "Passar até 110 °C",
+          "Não limpar a seco"
+        ],
+        "postParagraphs": [
+          "A ficha informa 90% poliamida e 10% elastano nos seis modelos com este texto, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
+        ]
+      },
+      {
+        "heading": "Avaliações públicas dos bodies Second Skin",
+        "paragraphs": [
+          "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura de 20/10/2026 nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, na leitura de 19/10/2026.",
+          "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura de 20/10/2026, então este texto não traz número para eles."
+        ]
+      },
+      {
+        "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA dá 10% de desconto no site oficial da Cléa Store, em todas as formas de pagamento. Ele soma com as promoções vigentes e com o cashback da loja. Não vale no Mercado Livre. O valor final aparece no carrinho.",
+          "A conta é feita sobre o preço de venda de 20/10/2026. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
+          "Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store) e o passo a passo em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar).",
+          "Os bodies Gola Alta e Duplo também aparecem na loja oficial da Cléa no Mercado Livre, mas sem o cupom. A comparação está em [Mercado Livre ou site da Cléa Store: onde comprar](/reviews/clea-store-mercado-livre-ou-site)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+            "alt": "Modelo com o body regata cavado off white e calça jeans",
+            "caption": "Body Regata Cavado Second Skin. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
+          "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
+          "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
+          "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de 20/10/2026, exceto a avaliação do Duplo, que é de 19/10/2026, e podem mudar até a compra. Podemos receber comissão quando a compra sai pelo cupom CSEMCASACOMCECILIA ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém da equipe do site vestiu ou usou os bodies: o que está aqui vem da ficha da loja, da descrição dela e das avaliações públicas. O cupom foi testado pela equipe em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "clea-store-mercado-livre-ou-site",
+        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+    "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça",
+    "seoTitle": "Tabela de medidas Cléa Store: como escolher o tamanho",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como ler a tabela de medidas da Cléa Store: onde ela fica, como medir busto, cintura e quadril, as faixas de P, M e G nas peças de cima e de 36 a 42 na calça, e o que fazer entre dois tamanhos.",
+    "metaDescription": "Tabela de medidas da Cléa Store: como medir busto, cintura e quadril e escolher entre P, M e G ou 36 a 42 em cada peça. Medidas lidas em 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+    "imageAlt": "Modelo com o blazer oversized de alfaiataria bordô da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Cléa Store, o tamanho se escolhe pela tabela de cada peça, não por uma tabela única do site. Ela fica na própria página do produto, no botão \"Tabela de Medidas\". As medidas são do corpo de quem veste (busto, cintura e quadril, em centímetros), não da peça. Meça-se com fita e veja em que tamanho cada medida cai.",
+          "Nas peças de cima que lemos (t-shirt oversized, body e blazer oversized), a tabela é a mesma: P vai de 82 a 90 cm de busto, M de 88 a 96 cm e G de 98 a 106 cm. Na calça, a numeração vai de 36 a 42, com cintura de 68 a 100 cm.",
+          "Se as suas medidas caem em dois tamanhos, a tabela não decide sozinha. Leia a descrição da peça (a loja fala em modelagem oversized na t-shirt e em modelagem ajustada no body) e compare com uma peça sua que já serve bem.",
+          "Se o tamanho não servir, a devolução é grátis: são 30 dias corridos após o recebimento, pelo formulário de troca da loja. A regra publicada trata de devolução, não de troca direta de tamanho."
+        ]
+      },
+      {
+        "heading": "Como a Cléa mostra a tabela",
+        "paragraphs": [
+          "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
+          "Nas peças de cima que lemos em 20/10/2026 (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+          "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
+        ]
+      },
+      {
+        "heading": "Como medir busto, cintura e quadril",
+        "paragraphs": [
+          "Use uma fita métrica de costura, de preferência sobre roupa leve. As medidas são em centímetros."
+        ],
+        "bullets": [
+          "Busto: passe a fita na parte mais cheia do busto, por baixo dos braços e nas costas, reta e paralela ao chão.",
+          "Cintura: contorne o ponto mais estreito do tronco, em geral um pouco acima do umbigo. Respire normalmente, sem prender o ar.",
+          "Quadril: contorne a parte mais larga do quadril e das nádegas, com os pés juntos.",
+          "Confira a fita: ela deve ficar firme, sem apertar a pele nem folgar. Anote as três medidas.",
+          "Compare: na tabela da peça, procure o tamanho em que cada medida cai."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+            "alt": "Desenho de silhueta com três linhas tracejadas numeradas: busto, cintura e quadril, e onde passar a fita em cada uma",
+            "caption": "Como medir busto, cintura e quadril. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6
+          }
+        ]
+      },
+      {
+        "heading": "Tabela das peças de cima",
+        "paragraphs": [
+          "Medidas do corpo de quem veste, em centímetros, lidas na tabela da loja em 20/10/2026. Vale para a T-Shirt Oversized Algodão, o Body Regata Second Skin Duplo, os outros bodies e o Blazer Oversized Alfaiataria Bordô."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Busto",
+            "Cintura",
+            "Quadril (só no body)"
+          ],
+          "rows": [
+            [
+              "P",
+              "82 a 90",
+              "68 a 76",
+              "90 a 98"
+            ],
+            [
+              "M",
+              "88 a 96",
+              "72 a 80",
+              "98 a 106"
+            ],
+            [
+              "G",
+              "98 a 106",
+              "82 a 90",
+              "106 a 114"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e comparar com uma peça sua de medida parecida.",
+          "Segundo a loja, a t-shirt tem modelagem oversized, de caimento amplo, e o body tem modelagem ajustada, com efeito segunda pele. Por isso, no body a medida pede mais atenção. Para comparar os modelos de body, veja o [guia de escolha do body](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+            "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
+            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ]
+      },
+      {
+        "heading": "Tabela da calça",
+        "paragraphs": [
+          "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Cintura",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "36",
+              "68 a 76",
+              "90 a 98"
+            ],
+            [
+              "38",
+              "72 a 80",
+              "98 a 106"
+            ],
+            [
+              "40",
+              "82 a 90",
+              "106 a 114"
+            ],
+            [
+              "42",
+              "92 a 100",
+              "114 a 122"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, a tabela não diz qual medida pesa mais, e a loja também não diz."
+        ]
+      },
+      {
+        "heading": "O que muda no oversized",
+        "paragraphs": [
+          "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
+          "A diferença está no corte, e é isso que a loja anuncia. Na página da T-Shirt Oversized Algodão, segundo a loja, \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+            "alt": "Modelo com a t-shirt oversized vinho de algodão e calça jeans",
+            "caption": "T-Shirt Oversized Algodão: a folga vem do corte. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Entre dois tamanhos",
+        "paragraphs": [
+          "Quando a sua medida cai numa faixa de uma letra e também na seguinte, a tabela não decide sozinha. Um busto de 89 cm, por exemplo, cabe nas faixas de P (82 a 90 cm) e de M (88 a 96 cm). Entre M (até 96 cm) e G (a partir de 98 cm) sobra um vão de 2 cm, e nessa medida o provador da página é a próxima consulta, sem garantia de acerto.",
+          "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. Na t-shirt e no blazer oversized, a folga já vem do corte, e a loja não diz qual letra escolher quando a medida fica entre duas faixas. Por isso, quem está no meio olha a modelagem: no justo, a medida manda; no oversized, a descrição já diz quanto a peça cai.",
+          "Se a compra for pelo site, o cupom CSEMCASACOMCECILIA dá 10% no site oficial, em todas as formas de pagamento; confira no carrinho, porque ele não vale no Mercado Livre ([cupom da Cléa Store](/cupons/clea-store))."
+        ]
+      },
+      {
+        "heading": "Provador virtual: o que é e onde fica",
+        "paragraphs": [
+          "O provador virtual é uma ferramenta da Sizebay que aparece na página de cada peça, ao lado do botão da tabela de medidas.",
+          "A loja não diz que o provador acerta o tamanho, e não garante o caimento da peça. O texto também não afirma isso. Use a tabela como base, a descrição da peça para a modelagem e, se a dúvida continuar, a devolução (abaixo)."
+        ]
+      },
+      {
+        "heading": "Se o tamanho não servir",
+        "paragraphs": [
+          "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja (lida em 14/10/2026), o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
+          "O texto não afirma troca direta por outro tamanho: a regra de troca que a loja descreve fala em vale no valor da peça, não em outra letra. Também não afirma quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store tem tabela de medidas? Sim, cada peça tem a sua, no bloco de tamanho da própria página, com as medidas do corpo em centímetros.",
+          "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
+          "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
+          "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "As tabelas e o provador foram lidos no site da Cléa Store em 20/10/2026, na página de cada peça. A equipe testou o cupom em 14/10/2026. Podemos receber comissão quando a compra sai pelo cupom ou pelo link da loja. Ninguém do site vestiu, mediu ou devolveu as peças: o que está aqui é o que a loja publica e o que a tabela mede, sem experiência própria."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Medidas e preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "slug": "clea-store-mercado-livre-ou-site",
+    "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato",
+    "seoTitle": "Cléa Store: Mercado Livre ou site, onde sai mais barato",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cléa Store no Mercado Livre ou no site com o cupom de 10%: peça a peça, onde cada kit de t-shirt, body e blazer saiu mais barato em 20/10/2026, o que só o site tem e como conferir o vendedor oficial.",
+    "metaDescription": "Cléa Store no Mercado Livre ou no site com cupom: onde sai mais barato cada t-shirt, body e blazer, com preços de 20/10/2026 e o que só o site tem.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+    "imageAlt": "Modelo com uma das t-shirts oversized do kit Intense da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "**Preços de 20/10/2026:** hoje, no Mercado Livre, saem mais baratos os kits de t-shirt Intense e Colorful, a t-shirt avulsa (no Pix) e os bodies Duplo e Gola Alta, com frete grátis nos anúncios lidos. No site, com o cupom CSEMCASACOMCECILIA, sai mais barato o Kit Classic, que no Mercado Livre está sem desconto por R$ 387,00; a alfaiataria só existe no site. O cupom não vale no Mercado Livre. **Atenção:** o que hoje sai mais barato no Mercado Livre pode ficar igual ou mais caro, sem o cupom, em poucos dias; confira os dois preços antes de comprar."
+        ]
+      },
+      {
+        "heading": "Onde sai mais barato, peça a peça",
+        "paragraphs": [
+          "Os preços são de 20/10/2026. No Mercado Livre, é o preço do anúncio da loja oficial da Cléa, com o Pix quando o anúncio mostra Pix. No site, é o preço de venda de hoje; o \"site com cupom\" é esse preço menos 10%, com o cupom CSEMCASACOMCECILIA. Na última coluna, valor positivo quer dizer que o Mercado Livre sai mais barato."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Mercado Livre (20/10/2026)",
+            "Site (preço de venda)",
+            "Site com cupom",
+            "Diferença (site com cupom menos Mercado Livre)"
+          ],
+          "rows": [
+            [
+              "Kit 3 T-Shirts Oversized Intense",
+              "R$ 129,90",
+              "R$ 258,00",
+              "R$ 232,20",
+              "+R$ 102,30"
+            ],
+            [
+              "Kit 3 T-Shirts Oversized Colorful",
+              "R$ 133,74",
+              "R$ 258,00",
+              "R$ 232,20",
+              "+R$ 98,46"
+            ],
+            [
+              "Kit 3 T-Shirts Oversized Classic",
+              "R$ 387,00 (sem desconto)",
+              "R$ 258,00",
+              "R$ 232,20",
+              "-R$ 154,80"
+            ],
+            [
+              "T-Shirt Oversized Algodão (avulsa)",
+              "R$ 62,70 no Pix (R$ 66,00 em 3x)",
+              "R$ 129,00",
+              "R$ 116,10",
+              "+R$ 53,40"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "R$ 82,65 no Pix (R$ 87,00 em 3x)",
+              "R$ 127,20",
+              "R$ 114,48",
+              "+R$ 31,83"
+            ],
+            [
+              "Body Gola Alta Manga Longa",
+              "R$ 89,00 (3x de R$ 29,67)",
+              "R$ 135,20",
+              "R$ 121,68",
+              "+R$ 32,68"
+            ],
+            [
+              "Blazer Oversized Alfaiataria Bordô",
+              "não há no Mercado Livre",
+              "R$ 524,30",
+              "R$ 471,87",
+              "só no site"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Blazer Oversized Alfaiataria Mescla tem o mesmo preço do Bordô (R$ 524,30 no site). O Blazer Alfaiataria Risca de Giz Cinza sai por R$ 538,30 no site. Na busca de hoje, não apareceu no Mercado Livre nenhum blazer, colete ou calça de alfaiataria da Cléa, então, para a alfaiataria, a comparação é só com o site.",
+          "Na t-shirt avulsa e nos bodies, o Mercado Livre continua mais barato mesmo com o cupom no site. O site não tem desconto de Pix registrado, por isso a comparação usa o preço no Pix do anúncio. Nos bodies, o site também tem a opção de três unidades (R$ 95,40 cada no Duplo e R$ 101,40 cada no Gola Alta); o cupom sobre essa opção não foi verificado, e a tabela não a usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+            "alt": "Barras comparando o preço no Mercado Livre e no site com o cupom para três kits de t-shirt, a t-shirt avulsa e dois bodies, em 20/10/2026",
+            "caption": "Mercado Livre e site com cupom em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver no Mercado Livre (sem cupom)",
+            "href": "https://meli.la/1t3kn5d",
+            "sponsored": true
+          },
+          {
+            "label": "Ir ao site da Cléa com o cupom",
+            "href": "https://www.cleastore.com.br/",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Conta com cupom e cashback",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA tira 10% do preço de venda no site, em todas as formas de pagamento. Ele soma com as promoções e com o cashback da loja, não vale no Mercado Livre e se aplica no carrinho. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20. As condições do cupom estão na [página do cupom da Cléa Store](/cupons/clea-store).",
+          "O cashback é um programa da própria loja e soma com o cupom. No pedido de teste de 14/10/2026, ele gerou R$ 23,22 sobre o valor pago de R$ 232,20. O valor só entra na conta quando a loja credita, e essa leitura não foi refeita hoje. Se o mesmo cashback valer para o kit Intense, o preço líquido fica em cerca de R$ 208,98, ainda R$ 79,08 acima do anúncio do Mercado Livre.",
+          "O frete é outra conta. No site, o frete é grátis acima de R$ 599 (faixa lida em 14/10/2026); abaixo disso, a loja cobra, e o valor não entra nas contas deste texto. Um kit com o cupom (R$ 232,20) fica abaixo desse valor, então o frete do site conta. No Mercado Livre, o frete é grátis nos anúncios de t-shirts e bodies lidos hoje."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+            "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
+            "caption": "Cupom aplicado no teste de 14/10/2026. Print do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9308
+          }
+        ]
+      },
+      {
+        "heading": "O que só o site tem",
+        "paragraphs": [
+          "As t-shirts e os bodies estão nos dois lados. O resto do catálogo, a alfaiataria inclusive, está só no site. O que lemos em 20/10/2026:"
+        ],
+        "bullets": [
+          "**Alfaiataria e o resto do catálogo:** blazers, calças e coletes. Na busca \"clea store blazer\", o Mercado Livre não trouxe nenhum blazer, colete nem calça de alfaiataria da Cléa (leitura de 20/10/2026).",
+          "**Provador virtual e tabela de medidas:** a página de cada produto do site traz a tabela de medidas do corpo (busto, cintura e quadril) e o Provador Virtual, do Sizebay. Na t-shirt oversized, por exemplo, o P vai de 82 a 90 cm de busto e o M de 88 a 96 cm (página de produto, 20/10/2026).",
+          "**Cupom:** CSEMCASACOMCECILIA dá 10% OFF em todo o site, com todas as formas de pagamento. O cupom foi testado pela equipe em 14/10/2026. Ele não vale no Mercado Livre (regra do próprio cupom).",
+          "**Cashback:** a loja tem um programa de cashback que soma com o cupom. No teste de 14/10/2026, o pedido de R$ 232,20 gerou R$ 23,22 de cashback. O cashback só conta quando é creditado.",
+          "**Devolução:** a devolução é grátis."
+        ],
+        "postParagraphs": [
+          "Para a política completa da loja e o que a equipe conferiu sobre ela, veja [a análise da Cléa Store](/reviews/clea-store-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
+            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Quando comprar no Mercado Livre",
+        "paragraphs": [
+          "Estes são os anúncios do vendedor \"Clea Oficial\" lidos em 20/10/2026, com o preço de venda do site ao lado (site também em 20/10/2026):"
+        ],
+        "bullets": [
+          "Kit 3 t-shirts Oversized Intense: R$ 129,90, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Kit 3 t-shirts Oversized Colorful: R$ 133,74, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
+          "T-shirt Oversized de algodão, avulsa: R$ 62,70 no Pix (ou 3x de R$ 22). No site, R$ 129,00, ou R$ 116,10 com o cupom.",
+          "Body Regata Second Skin Duplo: R$ 82,65 no Pix (ou 3x de R$ 29). No site, R$ 127,20, ou R$ 114,48 com o cupom.",
+          "Body Gola Alta Manga Longa: R$ 89,00 (3x de R$ 29,67). No site, R$ 135,20, ou R$ 121,68 com o cupom."
+        ],
+        "postParagraphs": [
+          "Nos kits Intense e Colorful, na t-shirt avulsa e nos bodies Duplo e Gola Alta, o Mercado Livre saiu abaixo do site com o cupom neste dia. Na avulsa e no Body Duplo, o número do Mercado Livre é o preço no Pix; nos kits, é o preço do cartão. O cupom não entra no Mercado Livre, então a conta é só o preço do anúncio.",
+          "Antes de comprar, confira que o vendedor é **Clea Oficial**. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns internacionais. Esses não são da loja e ficam fora desta conta. A troca e a devolução no Mercado Livre seguem as regras da plataforma e do anúncio; não lemos a política desse vendedor nesta leitura, então confira no anúncio antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quando comprar no site",
+        "paragraphs": [
+          "São três casos. Primeiro, a alfaiataria: o blazer oversized de alfaiataria bordô está R$ 524,30 no site (preço de venda em 20/10/2026), ou R$ 471,87 com o cupom, e o Mercado Livre não tem blazer da Cléa. Para montar um look com ele, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
+          "Segundo, o kit Classic. No Mercado Livre, ele está R$ 387,00 sem desconto hoje. No site, o kit está R$ 258,00 de venda (R$ 232,20 com o cupom), em 20/10/2026. Aqui o site ganha.",
+          "Terceiro, quem quer usar o cupom e ganhar cashback no mesmo pedido, além de contar com o provador e a tabela de medidas da página do produto. Para aplicar o cupom no checkout, veja o [passo a passo do cupom da Cléa Store](/reviews/cupom-clea-store-como-usar). Em 14/10/2026, o site anunciava frete grátis acima de R$ 599; abaixo disso, o frete é calculado no carrinho. Esse valor não entra nas contas desta página, então confira no carrinho."
+        ]
+      },
+      {
+        "heading": "Como escolher em 30 segundos",
+        "bullets": [
+          "**T-shirt avulsa e kit Intense ou Colorful:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Kit Classic:** site.",
+          "**Body Duplo:** Mercado Livre, no Pix, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Body Gola Alta:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Os outros modelos de body:** compare o anúncio com o carrinho do site. Para escolher o modelo, veja [qual body escolher](/reviews/body-clea-store-second-skin-qual-escolher).",
+          "**Blazer, calça e colete:** site.",
+          "**Quer cupom, cashback e devolução grátis no mesmo pedido:** site."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no checkout do site oficial, e no Mercado Livre vale o preço do anúncio.",
+          "A Cléa Store tem frete grátis? Sim, acima de R$ 599, segundo a faixa anunciada em 14/10/2026. Abaixo disso, o frete é calculado no carrinho.",
+          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback foi calculado sobre o valor já com o desconto do cupom.",
+          "O preço do Mercado Livre é o mesmo do site? Não, e muda. Em 20/10/2026, a t-shirt e o Body Duplo estavam mais baratos no Mercado Livre, mas o preço pode mudar; confira os dois antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo foram lidos no site da Cléa Store e no Mercado Livre em 20/10/2026. Eles mudam de um dia para o outro: confira antes de comprar.",
+          "Podemos receber comissão quando você compra pelo cupom do site, pelo link da loja ou pelo link do Mercado Livre. Isso não muda o preço para você.",
+          "Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store e no Mercado Livre. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelo link do Mercado Livre.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      }
+    ]
   }
 ];
