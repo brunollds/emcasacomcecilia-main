@@ -401,7 +401,10 @@ Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defi
 | `creme` | `#fef9f3` | Light backgrounds |
 | `shadow-soft/medium/large` | — | Card shadows |
 
-Font is Montserrat loaded via `next/font/google` in `RootLayoutShell.tsx` as `--font-montserrat`. Use `font-sans` or `font-heading` Tailwind utilities.
+Font is Montserrat loaded via `next/font/local` in `RootLayoutShell.tsx` as `--font-montserrat`. Use `font-sans` or `font-heading` Tailwind utilities.
+Todas as fontes (Montserrat, Lora, Caveat e Kalam no `RootLayoutShell.tsx`; Archivo e JetBrains Mono no `CouponBlocks.tsx`) são
+arquivos em `src/fonts/` (subset latino do Google Fonts, OFL), lidos por `next/font/local`: o build não baixa fonte, porque uma
+falha de rede no servidor da Hostinger ao buscar o Google Fonts derrubava o deploy. Não voltar para `next/font/google`.
 
 Código de cupom que pode quebrar linha usa `break-all text-balance`: as linhas saem do mesmo
 tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre `wrap-anywhere`.

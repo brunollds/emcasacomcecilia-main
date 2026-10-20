@@ -1,5 +1,5 @@
 import React from 'react';
-import { Montserrat, Lora, Caveat, Kalam } from 'next/font/google';
+import localFont from 'next/font/local';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
@@ -17,31 +17,36 @@ const SITE_LOGO_URL = new URL(
   SITE_BASE_URL
 ).toString();
 
-const montserrat = Montserrat({
+// As fontes ficam em src/fonts (o subset latino do Google Fonts, licença OFL; ver o README da pasta):
+// com next/font/google o build baixava as fontes, e uma falha de rede no servidor derrubava o deploy.
+// Montserrat, Lora e Caveat são variáveis: um arquivo cobre todos os pesos.
+const montserrat = localFont({
+  src: '../fonts/montserrat-latin.woff2',
   variable: '--font-montserrat',
-  subsets: ['latin'],
-  weight: ['400', '600', '700', '800'],
+  weight: '400 800',
   display: 'swap',
 });
 
-const lora = Lora({
+const lora = localFont({
+  src: '../fonts/lora-latin.woff2',
   variable: '--font-lora',
-  subsets: ['latin'],
-  weight: ['400', '500', '600', '700'],
+  weight: '400 700',
   display: 'swap',
 });
 
-const caveat = Caveat({
+const caveat = localFont({
+  src: '../fonts/caveat-latin.woff2',
   variable: '--font-caveat',
-  subsets: ['latin'],
-  weight: ['400', '500', '600', '700'],
+  weight: '400 700',
   display: 'swap',
 });
 
-const kalam = Kalam({
+const kalam = localFont({
+  src: [
+    { path: '../fonts/kalam-latin-400.woff2', weight: '400' },
+    { path: '../fonts/kalam-latin-700.woff2', weight: '700' },
+  ],
   variable: '--font-kalam',
-  subsets: ['latin'],
-  weight: ['400', '700'],
   display: 'swap',
 });
 

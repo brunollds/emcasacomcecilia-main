@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { Archivo, JetBrains_Mono } from 'next/font/google';
+import localFont from 'next/font/local';
 import { ArrowRight, ChevronDown } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { FOCUS_RING } from '@/components/ui/focusRing';
@@ -7,17 +7,19 @@ import type { CouponFAQ } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Archivo entra condensada (eixo wdth) nos números e títulos; a JetBrains Mono separa O de 0 nos códigos.
-const archivo = Archivo({
+// Os arquivos ficam em src/fonts, como as fontes do RootLayoutShell.
+const archivo = localFont({
+  src: '../../fonts/archivo-latin.woff2',
   variable: '--font-archivo',
-  subsets: ['latin'],
-  axes: ['wdth'],
+  weight: '100 900',
+  declarations: [{ prop: 'font-stretch', value: '62% 125%' }],
   display: 'swap',
 });
 
-const jetbrainsMono = JetBrains_Mono({
+const jetbrainsMono = localFont({
+  src: '../../fonts/jetbrains-mono-latin-800.woff2',
   variable: '--font-jetbrains-mono',
-  subsets: ['latin'],
-  weight: ['800'],
+  weight: '800',
   display: 'swap',
 });
 
