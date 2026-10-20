@@ -98909,5 +98909,2353 @@ export const reviewsData: unknown[] = [
         "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
       }
     ]
+  },
+  {
+    "id": 514,
+    "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+    "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar",
+    "seoTitle": "Mesa posta de Natal: o que precisa e quanto custa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mesa posta de Natal para seis pessoas em três faixas de preço, de R$ 1.019,90 a R$ 5.250,69, com faqueiro, taças, sousplat, guardanapo e centro de mesa da Let's Eat It e o passo a passo para montar.",
+    "metaDescription": "Mesa posta de Natal para 6 pessoas: o que comprar, quanto custa em três faixas (de R$ 1.019,90) e como montar cada lugar. Preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+    "imageAlt": "Taça de vinho tinto Bohemia Magnum servida numa mesa de Natal, com flores vermelhas ao fundo",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para seis pessoas, a mesa posta de Natal fica entre R$ 968,91 (faixa básica) e R$ 4.988,16 (faixa completa), com o cupom MAUAD e sem frete. A faixa intermediária sai por R$ 2.031,40. Sem o cupom, os totais são R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69. Os preços são de venda em 20/10/2026 e mudam com promoção.",
+          "Se você já tem pratos rasos em casa, a mesa para seis pede talheres, taças, guardanapos, sousplats e um centro de mesa. As faixas 1 e 2 partem dos pratos que você já tem. A faixa 3 compra também o aparelho de jantar inteiro."
+        ]
+      },
+      {
+        "heading": "O que compõe a mesa posta para seis pessoas",
+        "paragraphs": [
+          "A conta é de um item por pessoa, com exceção do centro de mesa, que é um por mesa:"
+        ],
+        "bullets": [
+          "Prato raso: 1 por pessoa, seis no total.",
+          "Prato de sobremesa: 1 por pessoa.",
+          "Talheres: 5 por pessoa (faca, garfo, colher, garfo de sobremesa ou de bolo e colher de chá ou de sobremesa).",
+          "Taça de vinho: 1 por pessoa. Taça de água ou de champanhe, se quiser.",
+          "Guardanapo: 1 por pessoa.",
+          "Sousplat: 1 por pessoa.",
+          "Anel de guardanapo: 1 por pessoa. Cada kit traz 4 anéis.",
+          "Centro de mesa: 1 por mesa.",
+          "Velas: opcionais."
+        ],
+        "postParagraphs": [
+          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Marfim (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff não acompanham estojo, segundo a ficha.",
+          "O aparelho Porto Brasil de 30 peças (R$ 868) tem seis pratos rasos de 26,5 cm, seis de sobremesa de 19,5 cm, seis pratos fundos de 21,5 cm, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+            "alt": "Garfo do faqueiro Avalon da Wolff sobre guardanapo azul com anel prateado, ao lado de um prato",
+            "caption": "Faqueiro Avalon, 30 peças, Wolff. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "As três faixas para seis pessoas",
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Total sem frete",
+            "Com cupom MAUAD",
+            "Por pessoa (sem cupom / com MAUAD)",
+            "Itens-chave"
+          ],
+          "rows": [
+            [
+              "1, básica",
+              "R$ 1.019,90",
+              "R$ 968,91",
+              "R$ 169,98 / R$ 161,49",
+              "Faqueiro Avalon, taças Bohemia Magnum, centro Duna, velas"
+            ],
+            [
+              "2, intermediária",
+              "R$ 2.138,32",
+              "R$ 2.031,40",
+              "R$ 356,39 / R$ 338,57",
+              "Faqueiro Berna Dourado, sousplat fio ouro, anéis Floratta, taças de champanhe e vinho"
+            ],
+            [
+              "3, completa",
+              "R$ 5.250,69",
+              "R$ 4.988,16",
+              "R$ 875,12 / R$ 831,36",
+              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Marfim, centro Crescens, Voluspa"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+            "alt": "Quadro com as três faixas da mesa posta de Natal para seis pessoas: R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69, com o valor com o cupom MAUAD e por pessoa",
+            "caption": "As três faixas em 20/10/2026, sem frete. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Faixa 1: mesa básica para seis pessoas",
+        "paragraphs": [
+          "A faixa básica custa R$ 1.019,90 sem cupom, ou R$ 968,91 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 169,98 por pessoa sem o cupom, ou R$ 161,49 com ele. Os preços são de venda em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Sousplat",
+              "Sousplat Liso Verde 33 cm, Wolff",
+              "6",
+              "R$ 21,90",
+              "R$ 131,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo de Tecido Eco Riley 45 x 45 cm, Copa&Cia",
+              "6",
+              "R$ 21,80",
+              "R$ 130,80"
+            ],
+            [
+              "Anel (opcional)",
+              "Kit 4 Anéis Traccia Vermelho, Copa&Cia",
+              "1",
+              "R$ 69,90",
+              "R$ 69,90"
+            ],
+            [
+              "Taças de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro 30 Peças Aço Inox Avalon, Wolff",
+              "1",
+              "R$ 383,90",
+              "R$ 383,90"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Duna Retangular com Pés, Grillo",
+              "1",
+              "R$ 74,00",
+              "R$ 74,00"
+            ],
+            [
+              "Velas",
+              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "1",
+              "R$ 80,00",
+              "R$ 80,00"
+            ],
+            [
+              "Total",
+              "",
+              "",
+              "",
+              "R$ 1.019,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O sousplat é de plástico, como diz a ficha do produto. O kit de anéis traz 4 peças, então cobre só quatro das seis pessoas. Para os seis, são dois kits, e o total sobe R$ 69,90 a cada kit.",
+          "Dos pratos, a faixa não compra os rasos: eles ficam de casa. Se você já tem seis pratos de sobremesa, também entram sem custo. A colher que falta no Avalon é a de sobremesa."
+        ]
+      },
+      {
+        "heading": "Faixa 2: mesa intermediária, com o tema Natal opcional",
+        "paragraphs": [
+          "A faixa intermediária custa R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele. Os preços são de venda em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Sousplat",
+              "Sousplat Cristal Thin Edge Fio Ouro 33 cm, Wolff",
+              "6",
+              "R$ 77,90",
+              "R$ 467,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo 100% Algodão Bordado Oliva, Decortextil",
+              "6",
+              "R$ 36,00",
+              "R$ 216,00"
+            ],
+            [
+              "Anéis",
+              "Jogo 4 Anéis Floratta Branco, Wolff",
+              "2 jogos",
+              "R$ 97,90",
+              "R$ 195,80"
+            ],
+            [
+              "Taça de champanhe",
+              "Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia",
+              "1",
+              "R$ 128,42",
+              "R$ 128,42"
+            ],
+            [
+              "Taça de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro 30 Peças Aço Inox Berna Dourado, Wolff",
+              "1",
+              "R$ 539,90",
+              "R$ 539,90"
+            ],
+            [
+              "Pratos de sobremesa",
+              "Jogo 6 Pratos de Sobremesa Jingle Bells 21 cm, Alleanza",
+              "1",
+              "R$ 214,90",
+              "R$ 214,90"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Duna Redonda com Pés, Grillo",
+              "1",
+              "R$ 146,00",
+              "R$ 146,00"
+            ],
+            [
+              "Velas",
+              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "1",
+              "R$ 80,00",
+              "R$ 80,00"
+            ],
+            [
+              "Total",
+              "",
+              "",
+              "",
+              "R$ 2.138,32"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os pratos rasos ficam de casa, como na faixa 1. Os guardanapos de algodão pedem lavagem à mão a 40 °C, sem lavagem a seco, segundo a ficha. O Berna não traz colher de sobremesa, então ela é a peça a completar.",
+          "O tema Natal é opcional e não entra no total acima. Há dois itens. O sousplat Noite de Brinquedos 34 cm, da Scalla (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza, vem em jogo de seis por R$ 564,00. Como tem filete de ouro, a ficha diz que não vai ao micro-ondas nem à lava-louças, então a lavagem é à mão.",
+          "Se a mesa é presente para quem cozinha, o [guia de presente de Natal para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar) reúne outras ideias."
+        ]
+      },
+      {
+        "heading": "Faixa 3: o que vem no conjunto completo",
+        "paragraphs": [
+          "Os preços desta faixa são de venda, lidos na Let's Eat It em 20/10/2026, e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.250,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Aparelho de jantar",
+              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças, Porto Brasil",
+              "1",
+              "R$ 868,00",
+              "R$ 868,00"
+            ],
+            [
+              "Sousplat",
+              "Sousplat Cerâmica Savana 33 cm, Maison Blanche",
+              "6",
+              "R$ 121,90",
+              "R$ 731,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo 100% Algodão Bordado Duplo Terracota, Decortextil",
+              "6",
+              "R$ 57,00",
+              "R$ 342,00"
+            ],
+            [
+              "Anéis",
+              "Kit 4 Anéis Baia do Sancho, Copa&Cia",
+              "2",
+              "R$ 169,90",
+              "R$ 339,80"
+            ],
+            [
+              "Taça de água",
+              "Jogo 6 Taças para Água em Cristal Bohemia Eva 350 ml",
+              "1",
+              "R$ 243,90",
+              "R$ 243,90"
+            ],
+            [
+              "Taça de champanhe",
+              "Jogo 6 Taças para Champanhe em Cristal Bohemia Eva 190 ml",
+              "1",
+              "R$ 246,90",
+              "R$ 246,90"
+            ],
+            [
+              "Taça de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro Laguiole La Maison Luxo Marfim 30 peças",
+              "1",
+              "R$ 1.099,00",
+              "R$ 1.099,00"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Crescens Baixo, BTC Decor",
+              "1",
+              "R$ 789,00",
+              "R$ 789,00"
+            ],
+            [
+              "Vela",
+              "Vela Voluspa Copo de Vidro Clássico Makassar Ebony e Peach, 60 horas",
+              "1",
+              "R$ 440,79",
+              "R$ 440,79"
+            ],
+            [
+              "**Total**",
+              "",
+              "",
+              "",
+              "**R$ 5.250,69**"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A ficha diz que o conjunto serve \"com elegância e consistência até seis pessoas\", ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
+          "Pela ficha, as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
+          "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A Eva de 190 ml, também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis Magnum de 740 ml, em cristal, custa R$ 149,90.",
+          "O faqueiro Laguiole La Maison Luxo Marfim tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
+          "O centro de mesa Crescens Baixo, da BTC Decor, é de metal e mármore e custa R$ 789,00. A vela Voluspa de 60 horas tem, segundo a ficha, notas de ébano, pêssego e flor de macieira, e custa R$ 440,79.",
+          "Vale o conjunto completo quando a prioridade é comprar tudo de uma vez e manter a mesma linha, sem combinar louça, taça e talher de lojas diferentes. Se a casa já tem pratos brancos, taças e talheres, a faixa 3 traz peças que a mesa pode não precisar, e a faixa 2 ou a 1 podem atender. Dentro da faixa 3, o faqueiro Laguiole é o item mais caro e pode ser trocado por um dos faqueiros Wolff sem mudar a lógica da mesa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+            "alt": "Aparelho de jantar Porto Brasil Arauco verde-escuro empilhado, com pratos rasos, fundos, de sobremesa, xícaras e pires",
+            "caption": "Aparelho de jantar Arauco/Greenery, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Como montar a mesa de Natal, passo a passo",
+        "paragraphs": [
+          "Nas faixas 1 e 2, o prato raso é o de casa. Na faixa 3, ele vem no aparelho Porto Brasil. A ordem abaixo vale para cada lugar, e as seis cadeiras seguem o mesmo padrão. A imagem desta seção é um desenho da posição, não uma foto de mesa nossa."
+        ],
+        "bullets": [
+          "Ponha o sousplat no centro de cada lugar, com a borda a uns dois dedos da beira da mesa.",
+          "Coloque o prato raso sobre o sousplat. Se houver sopa, o prato fundo entra sobre o raso.",
+          "Os talheres ficam nas laterais: o garfo à esquerda do prato, a faca e a colher à direita, com o fio da faca virado para o prato. O talher de sobremesa, se for usar, fica acima do prato, com o cabo para cada lado.",
+          "As taças ficam acima da faca: a de água logo acima, a de vinho à direita dela, um pouco mais baixa, e a de champanhe, se houver, entre as duas.",
+          "O guardanapo fica dobrado à esquerda do garfo ou sobre o prato. Se usar anel, prenda o guardanapo no anel antes de pôr na mesa.",
+          "O centro baixo vai no meio da mesa, em altura que não atrapalhe a visão de quem está em frente. As velas ficam ao lado do centro, longe dos guardanapos e das pontas de tecido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+            "alt": "Desenho de um lugar da mesa visto de cima, com sousplat, prato, talheres, três taças, guardanapo com anel e centro de mesa numerados de 1 a 6",
+            "caption": "Como montar cada lugar. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6
+          }
+        ]
+      },
+      {
+        "heading": "Casa Let's: dá para ver a mesa montada antes de comprar",
+        "paragraphs": [
+          "Segundo o site da Let's Eat It, a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o endereço, o horário e se a montagem ainda é oferecida."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e prazo para o Natal",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix. Confira no checkout como os dois descontos aparecem. As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.250,69 menos R$ 262,53 dão R$ 4.988,16, ou R$ 831,36 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
+          "O prazo para chegar antes do Natal muda por região: pela política de frete da loja, a entrega leva de 3 a 12 dias úteis, contados da confirmação do pagamento. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantas peças por pessoa uma mesa de Natal precisa? Para seis pessoas, o aparelho Porto Brasil dá cinco peças por pessoa (raso, sobremesa, fundo, xícara e pires), e o faqueiro de 30 peças dá cinco talheres por pessoa. Somam-se a isso uma taça de água, uma de vinho, um guardanapo e um sousplat.",
+          "Dá para montar a mesa sem sousplat? Dá. O sousplat é a base decorativa, e a mesa funciona sem ele. Na faixa 1, os seis sousplats de plástico Wolff custam R$ 131,40, e tirá-los reduz esse valor sem mudar o restante da lista.",
+          "Vale comprar o faqueiro completo? Vale se a mesa precisa de talheres para seis pessoas, porque o faqueiro de 30 peças já traz cinco talheres por pessoa. Entre os três faqueiros de 30 peças lidos, o Avalon é o mais barato, com R$ 383,90. O Berna Dourado custa R$ 539,90 e troca o garfo de bolo pelo garfo de sobremesa. O Laguiole custa R$ 1.099,00 e é da linha luxo, com lâmina de aço inox e cabo de ABS, segundo a ficha.",
+          "Dá para fazer uma mesa posta de Natal barata? A faixa 1 soma R$ 1.019,90 sem cupom, com sousplat, guardanapo e centro em cores que combinam, talheres completos e os pratos de casa. Na faixa 1, o faqueiro Avalon é o item mais caro, e o centro de mesa Duna retangular custa R$ 74,00."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo foram lidos no site da Let's Eat It em 20/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas peças. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "presente-natal-quem-gosta-de-cozinhar",
+        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      },
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "slug": "presente-de-casamento-ideias-por-preco",
+    "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset",
+    "seoTitle": "Presente de casamento: ideias por faixa de preço",
+    "type": "Guia de Presentes",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ideias de presente de casamento em quatro faixas de preço, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com aparelho de jantar Porto Brasil, Le Creuset, taças Bohemia e faqueiros, e o que a ficha de cada peça diz.",
+    "metaDescription": "Presente de casamento por faixa de preço: Le Creuset, Porto Brasil, taças Bohemia e faqueiros de até R$ 300 a mais de R$ 1.500, com preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+    "imageAlt": "Duas taças de cristal Bohemia Angela com borda dourada sobre uma mesa clara",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Quanto gastar depende da faixa. Abaixo, um presente de cada uma, com o preço de venda em 20/10/2026 (os preços mudam com promoção):"
+        ],
+        "bullets": [
+          "Até R$ 300: ramekin em formato de coração, Le Creuset, R$ 159.",
+          "De R$ 300 a 700: travessa retangular Heritage Cotton de 26 cm, Le Creuset, R$ 529.",
+          "De R$ 700 a 1.500: aparelho de jantar Porto Brasil Arauco/Greenery de 30 peças, R$ 868.",
+          "Acima de R$ 1.500: panela redonda Signature Azure de 2,4 L, Le Creuset, R$ 2.329."
+        ],
+        "postParagraphs": [
+          "Os valores de uma faixa não se somam, porque cada presente aparece com o seu próprio preço. O cupom MAUAD dá 5% sobre o subtotal no site da Let's Eat It, vale em todas as formas de pagamento e soma com o desconto do Pix; o frete fica à parte, calculado por CEP, e na panela de R$ 2.329 o preço sai por R$ 2.212,55 antes do frete (confira no checkout)."
+        ]
+      },
+      {
+        "heading": "Quanto custa em cada faixa",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. Cada faixa mostra o que a loja vende nela; o uso de cada peça é o que a própria ficha do produto diz."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "O que a ficha diz de uso"
+          ],
+          "rows": [
+            [
+              "Até R$ 300",
+              "Ramekin Formato Coração 300 ml Vermelho",
+              "Le Creuset",
+              "R$ 159",
+              "Seguro para forno, micro-ondas, freezer e lava-louças."
+            ],
+            [
+              "Até R$ 300",
+              "Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml (19 x 5,5 cm)",
+              "Porto Brasil",
+              "R$ 189,90",
+              "Stoneware; forno, freezer, micro-ondas (aquecimento gradual, as alças podem esquentar) e lava-louças."
+            ],
+            [
+              "Até R$ 300",
+              "Jogo 6 Taças Champagne Crex Optic 270 ml",
+              "Bohemia",
+              "R$ 128,42",
+              "Cristal ecológico; não vai a lava-louças, micro-ondas nem freezer; lavar à mão."
+            ],
+            [
+              "Até R$ 300",
+              "Moedor de Pimenta Black Onyx",
+              "Le Creuset",
+              "R$ 295,20",
+              "Ajuste de moagem por pino no topo; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Travessa Retangular Heritage Cotton 26 cm",
+              "Le Creuset",
+              "R$ 529",
+              "Seguro para freezer, forno, micro-ondas, grelha, lava-louças e utensílios de metal; de -22°C a 260°C."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml (28 x 6,5 cm)",
+              "Porto Brasil",
+              "R$ 322,90",
+              "Stoneware; forno, freezer, micro-ondas e lava-louças."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Jogo 6 Taças Champagne Ardea Verde Selva 220 ml",
+              "Bohemia",
+              "R$ 329,90",
+              "Cristal ecológico; cuidados de uso: ficha não diz."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Faqueiro Aço Inox Avalon 30 peças",
+              "Wolff",
+              "R$ 383,90",
+              "Não é aconselhável usar em freezer, micro-ondas, forno ou fogão; lava-louças só seguindo as recomendações da ficha; não acompanha estojo."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Skillet Coração Tradition Vermelho 26 cm",
+              "Le Creuset",
+              "R$ 1.449",
+              "Ferro fundido esmaltado; compatível com todos os cooktops e forno até 260°C; lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "Le Creuset",
+              "R$ 929",
+              "Aço carbono esmaltado; pode ser usada em todas as fontes de calor, incluindo indução; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças",
+              "Porto Brasil",
+              "R$ 868",
+              "Forno, freezer, micro-ondas e lava-louças (detalhes na seção do aparelho)."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Faqueiro LaGuiole La Maison Luxo 30 peças",
+              "LaGuiole",
+              "R$ 1.099",
+              "Lâmina de aço inox, cabo em ABS; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Azure 2,4 L (20 cm)",
+              "Le Creuset",
+              "R$ 2.329",
+              "Ferro fundido; serve para vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; lava-louças e lavagem à mão."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Rhone 5,3 L (26 cm), com pegador dourado",
+              "Le Creuset",
+              "R$ 3.089",
+              "Mesmas fontes de calor da Azure; lava-louças e lavagem à mão; pegadores de aço inox."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Aparelho de Jantar Stoneware Orgânico Shimeji Gold 30 peças",
+              "Porto Brasil",
+              "R$ 2.049,90",
+              "Não vai ao micro-ondas (o filete metálico pode danificar a peça); evitar lava-louças para preservar o dourado; lavar à mão."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Faqueiro Aço Inox Pisa 130 peças",
+              "Wolff",
+              "R$ 1.699",
+              "Não é aconselhável usar em forno, freezer, micro-ondas nem fogão; não acompanha estojo."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
+            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem já tem casa montada",
+        "paragraphs": [
+          "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
+          "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
+          "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+            "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
+            "caption": "Chaleira com apito 1,6 L Azure, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Aparelho de jantar Porto Brasil de 30 peças",
+        "paragraphs": [
+          "O aparelho de jantar Porto Brasil de 30 peças é de stoneware orgânico. Cada conjunto traz seis pratos rasos de 26,5 cm, seis pratos de sobremesa de 19,5 cm, seis pratos fundos (de 21 a 21,5 cm, conforme a cor) e seis xícaras de café de 120 ml com seus pires. São 30 peças no total."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cor",
+            "Preço de venda em 20/10/2026",
+            "Por pessoa (÷ 6)",
+            "O que a ficha diz de uso"
+          ],
+          "rows": [
+            [
+              "Arauco/Greenery",
+              "R$ 868",
+              "R$ 144,67",
+              "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
+            ],
+            [
+              "Petroleum/Night Sky",
+              "R$ 868",
+              "R$ 144,67",
+              "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
+            ],
+            [
+              "Shimeji Gold (cinza e dourada)",
+              "R$ 2.049,90",
+              "R$ 341,65",
+              "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha do Arauco/Greenery diz que o aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. A ficha do Shimeji Gold traz garantia de 90 dias para defeito e de 12 meses para gretamento.",
+          "Para o uso de cada cor, a diferença está na tabela: a stoneware das duas primeiras vai ao forno, ao freezer, ao micro-ondas e à lava-louças, e a Shimeji Gold é a que tem mais restrições. O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica a marca. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+            "alt": "Pratos e xícaras de stoneware Porto Brasil em tom claro, empilhados sobre a mesa",
+            "caption": "Stoneware Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Le Creuset: o que dá para comprar por faixa",
+        "paragraphs": [
+          "Os preços são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Peça",
+            "Preço",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Até R$ 300",
+              "Moedor de Pimenta Black Onyx",
+              "R$ 295,20",
+              "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Até R$ 300",
+              "Caneca Cerâmica Cotton 100 ml",
+              "R$ 129",
+              "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
+            ],
+            [
+              "R$ 300 a 700",
+              "Travessa Retangular Heritage Cotton 26 cm",
+              "R$ 529",
+              "\"Seguro para freezer, forno, micro-ondas, grelha, máquina de lavar louça e utensílios de metal\"."
+            ],
+            [
+              "R$ 700 a 1.500",
+              "Skillet Coração Tradition Vermelho 26 cm",
+              "R$ 1.449",
+              "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
+            ],
+            [
+              "R$ 700 a 1.500",
+              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "R$ 929",
+              "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Azure 2,4 L, 20 cm",
+              "R$ 2.329",
+              "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm",
+              "R$ 3.089",
+              "Mesmas fontes de calor da Azure; pegadores de aço inox que a ficha diz aguentarem qualquer temperatura do forno. Pode ir à lava-louças."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+            "alt": "Panela redonda Le Creuset Signature na cor Cotton, de lado e vista de cima",
+            "caption": "Panela redonda Signature, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Taças Bohemia: cristal ecológico ou cristal",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Jogo de 6",
+            "Material, segundo a ficha",
+            "Preço",
+            "Cuidados na ficha"
+          ],
+          "rows": [
+            [
+              "Taças Champagne Crex Optic 270 ml",
+              "Cristal ecológico",
+              "R$ 128,42",
+              "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
+            ],
+            [
+              "Taças para Vinho Tinto Magnum 740 ml",
+              "Cristal ecológico",
+              "R$ 149,90",
+              "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
+            ],
+            [
+              "Copos Baixos Sophia 340 ml",
+              "Cristal ecológico",
+              "R$ 154,90",
+              "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Eva 190 ml",
+              "Cristal (a ficha não diz ecológico)",
+              "R$ 246,90",
+              "Altura de 24,2 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Ardea Verde Selva 220 ml",
+              "Cristal ecológico",
+              "R$ 329,90",
+              "Altura de 27,5 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Angela 190 ml, borda dourada",
+              "Cristal com borda dourada",
+              "R$ 499",
+              "Altura de 24,8 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Vinho Angela 350 ml, borda dourada",
+              "Cristal com borda dourada",
+              "R$ 884,90",
+              "Altura de 22,2 cm. Cuidados: ficha não diz."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As fichas não comparam os dois materiais, então este guia não diz qual é melhor. A escolha entre cristal ecológico e cristal fica com o casal e com o orçamento. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a ficha de cada modelo antes de comprar.",
+          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de 02/10/2026, até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. Segundo a loja, porcelana, cristal, vidro e cerâmica vão embalados um a um, e a peça que chega quebrada é reposta de graça, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Faqueiros: 30, 101 ou 130 peças",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faqueiro",
+            "Peças",
+            "Preço",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Wolff Avalon aço inox, 30 peças",
+              "6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo",
+              "R$ 383,90",
+              "Aço inox. Não é aconselhável usar em freezer, micro-ondas, forno ou fogão. Lava-louças só seguindo as recomendações da ficha. Não acompanha estojo."
+            ],
+            [
+              "Wolff Berna Dourado aço inox, 30 peças",
+              "6 facas, 6 garfos, 6 garfos de sobremesa, 6 colheres de sopa e 6 colheres de chá",
+              "R$ 539,90",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Lava-louças com as recomendações. Não acompanha estojo."
+            ],
+            [
+              "LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)",
+              "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
+              "R$ 1.099",
+              "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Wolff Avalon aço inox, 101 peças",
+              "12 de cada um de 8 tipos, mais garfo, colher e concha de salada, colher de arroz e colher de açúcar",
+              "R$ 1.598",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+            ],
+            [
+              "Wolff Pisa aço inox, 130 peças",
+              "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
+              "R$ 1.699",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os três faqueiros Wolff têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço e de peixe."
+        ]
+      },
+      {
+        "heading": "Frete e prazo de entrega",
+        "paragraphs": [
+          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A política de frete que a loja publica (abril de 2026, lida em 02/10/2026) não traz faixa de frete grátis. O prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento; no Sul e no Sudeste, de 5 a 8. Se o presente tem data, confira no checkout o prazo para o seu CEP antes de pagar. Para o Natal, a data-limite de pedido por região está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD: a conta de um presente",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é 5% sobre o subtotal, sem frete. Tome o jogo de taças Crex Optic, de R$ 128,42: 5% são R$ 6,42, e o valor fica em R$ 122,00 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
+        ]
+      },
+      {
+        "heading": "Dividir o presente com outros convidados",
+        "paragraphs": [
+          "Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre alguns convidados. Combine antes quem leva o quê e quanto cada um paga, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo ou vaquinha; a divisão é combinada entre vocês, fora do site."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A loja tem lista de casamento? Hoje, a página de lista de presentes da Let's Eat It está sem itens, então não dá para usá-la para montar a lista do casal. Se o casal quer lista, vale conferir no site antes de contar com ela.",
+          "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
+          "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
+          "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém do site comprou nem usou estes produtos. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "slug": "presente-natal-quem-gosta-de-cozinhar",
+    "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço",
+    "seoTitle": "Presente de Natal para quem cozinha: ideias por preço",
+    "type": "Guia de Presentes",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Presentes de Natal para quem gosta de cozinhar em quatro faixas de preço, de canecas Le Creuset e utensílios KitchenAid a panelas Signature e eletroportáteis Ariete, com o prazo de entrega para chegar antes do Natal.",
+    "metaDescription": "Presente de Natal para quem gosta de cozinhar: ideias de até R$ 150 a mais de R$ 1.000, com Le Creuset, KitchenAid e Ariete. Preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+    "imageAlt": "Ramekin vermelho em formato de coração da Le Creuset com creme e framboesas",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Até R$ 150 (preço de venda em 20/10/2026): a caneca Cotton de 100 ml da Le Creuset sai por R$ 129,00.",
+          "R$ 150 a 400: a batedeira de mão Vintage Verde da Ariete, de 127 V e 450 W, sai por R$ 329,00.",
+          "R$ 400 a 1.000: o saca-rolhas Trilogy da Le Creuset, em estojo de presente, sai por R$ 439,00.",
+          "Acima de R$ 1.000: a skillet Coração Tradition Vermelha de 26 cm da Le Creuset sai por R$ 1.449,00.",
+          "No site da Let's Eat It, o cupom MAUAD dá 5% sobre o subtotal (sem frete), vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout."
+        ]
+      },
+      {
+        "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Caneca Cerâmica Cotton 100 ml",
+              "Le Creuset",
+              "R$ 129,00",
+              "Para quem toma café em dose pequena. A ficha diz \"dose de café expresso\", com 100 ml, cerâmica premium e lava-louças."
+            ],
+            [
+              "Espátula Clássica em Silicone Confeitaria Preta",
+              "KitchenAid",
+              "R$ 129,90",
+              "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças."
+            ],
+            [
+              "Faca para Churrasco Beef Club",
+              "Fracalanza",
+              "R$ 69,90",
+              "Para quem faz churrasco em casa. Aço inox com cabo de plástico, 45 cm de comprimento."
+            ],
+            [
+              "Mini Tábua Petisqueira Churrasco e Queijo",
+              "Carve & Co",
+              "R$ 138,90",
+              "Para quem serve queijo e petisco. Teca, 2 x 16 x 26 cm, 259 g, com cabo ergonômico."
+            ],
+            [
+              "Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm",
+              "Baker's Secret",
+              "R$ 62,90",
+              "Para quem assa bolo ou torta. Aço carbono de 0,5 mm, 28 cm de diâmetro e 5 cm de altura; a ficha diz forno até 232 °C."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A caneca Azure de 100 ml, da mesma linha, também sai por R$ 129,00. Quem procura mesa posta de Natal tem um guia próprio: o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
+        ]
+      },
+      {
+        "heading": "R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)",
+              "Le Creuset",
+              "R$ 179,00",
+              "Para quem quer uma caneca de Natal. Cerâmica premium, lava-louças; a ficha diz que não absorve aromas."
+            ],
+            [
+              "Moedor de Sal Vermelho",
+              "Le Creuset",
+              "R$ 369,00",
+              "Para quem tempera na mesa. 21 x 6 cm, com ajuste de moagem por pino no topo."
+            ],
+            [
+              "Conjunto 4 Peças para Churrasco Inox com Estojo",
+              "L'Hermitage",
+              "R$ 232,90",
+              "Para quem faz churrasco. Espátula vazada, garfo de duas pontas, pegador e escova, em aço inox com cabo preto e estojo com zíper."
+            ],
+            [
+              "Escumadeira em Aço Inox para Fritura",
+              "KitchenAid",
+              "R$ 159,90",
+              "Para quem frita. Aço inox e ABS livre de BPA, 39 x 13 x 6 cm, 205 g."
+            ],
+            [
+              "Mini Cocotte Cerâmica Cotton 250 ml",
+              "Le Creuset",
+              "R$ 239,00",
+              "Para servir em porção individual. 250 ml e 10 cm; a ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
+            ],
+            [
+              "Batedeira de Mão Vintage Verde 127 V, 450 W",
+              "Ariete",
+              "R$ 329,00",
+              "Para quem bate massa em casa. 127 V, 450 W, 5 velocidades mais Turbo, com batedor e gancho para massa."
+            ],
+            [
+              "Forno Elétrico Vintage Verde 127 V, 800 W",
+              "Ariete",
+              "R$ 399,00",
+              "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V, segundo a ficha de cada um. Antes de comprar, confira a voltagem da sua tomada. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+            "alt": "Caneca branca Holly da Le Creuset, com relevo de folhas de azevinho",
+            "caption": "Caneca Holly 200 ml, coleção de Natal da Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "R$ 400 a 1.000: Le Creuset, KitchenAid e chaleira elétrica",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Saca-Rolhas Trilogy Estojo Presente Black Onyx",
+              "Le Creuset",
+              "R$ 439,00",
+              "Para quem tem vinho em casa. A ficha diz que serve para qualquer tipo de cortiça; acabamento manual e vem em estojo de presente."
+            ],
+            [
+              "Caneca Cerâmica Coração Vermelha 220 ml, com pires",
+              "Le Creuset",
+              "R$ 449,00",
+              "Para quem quer uma caneca diferente. 220 ml, formato de coração, com pires; a ficha fala em cerâmica de alto padrão e retenção de calor."
+            ],
+            [
+              "Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L",
+              "Le Creuset",
+              "R$ 799,00",
+              "Para organizar a bancada. Porta-utensílios de cerâmica de 1,1 L, 3 espátulas com cabo de madeira e pincel removível; a ficha diz que só a ponta do pincel vai à lava-louças."
+            ],
+            [
+              "Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho",
+              "KitchenAid",
+              "R$ 569,00",
+              "Para o fogão do dia a dia. 21 cm e 25 cm; a ficha diz que vai ao forno até 260 °C e serve para gás, indução, vitrocerâmico e elétrico, e que vai à lava-louças."
+            ],
+            [
+              "Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W",
+              "Ariete",
+              "R$ 649,00",
+              "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a ficha diz que o modelo não é compatível com fogões de indução. Fora isso, a ficha diz que ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+            "alt": "Saca-rolhas Trilogy da Le Creuset, preto, de pé, ao lado do corta-lacre",
+            "caption": "Saca-rolhas Trilogy Black Onyx, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis",
+        "paragraphs": [
+          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços são de venda em 20/10/2026 e mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço de venda em 20/10/2026",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Skillet Coração Tradition Vermelho 26 cm, Le Creuset",
+              "R$ 1.449,00",
+              "ferro fundido esmaltado; \"compatível com todos os cooktops\"; forno seguro até 260 °C; interior esmaltado, sem tempero"
+            ],
+            [
+              "Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset",
+              "R$ 1.739,00",
+              "ferro fundido esmaltado; interior preto acetinado, sem tempero; \"compatível com todos os cooktops\"; forno até 260 °C; lava-louças"
+            ],
+            [
+              "Grelha Quadrada Signature Azure 26 cm, Le Creuset",
+              "R$ 1.859,00",
+              "ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz"
+            ],
+            [
+              "Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset",
+              "R$ 2.329,00",
+              "ferro fundido; 2,4 L; esmalte interno; fonte de calor: vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; pegadores de aço inox"
+            ],
+            [
+              "Batedeira Planetária 1558 Positano 5,5 L, Ariete",
+              "R$ 1.799,00",
+              "127 V; 600 W; tigela de aço inox de 5,5 L; 7 velocidades e pulso; gancho, batedor de coração e batedor de arame"
+            ],
+            [
+              "Fritadeira Air Fryer Vintage Azul 16 L, Ariete",
+              "R$ 1.199,00",
+              "220 V; 1200 W; 3 cestos perfurados e 1 cesto giratório; \"fritar, assar, grelhar e até desidratar\""
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+            "alt": "Batedeira planetária Ariete Positano com estampa de azulejos coloridos e tigela de inox",
+            "caption": "Batedeira planetária Positano 5,5 L, Ariete. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ],
+        "postParagraphs": [
+          "A voltagem muda a compra: a batedeira é 127 V e a fritadeira é 220 V. Antes de pagar, confira a tensão da sua tomada.",
+          "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a ficha informa."
+        ]
+      },
+      {
+        "heading": "Como escolher pelo perfil de quem cozinha",
+        "paragraphs": [
+          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores, com o preço de venda de 20/10/2026:"
+        ],
+        "bullets": [
+          "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
+          "Quem faz churrasco: o Conjunto 4 peças para Churrasco Inox com Estojo L'Hermitage, R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a Faca para Churrasco Beef Club Fracalanza sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
+          "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90. Aço carbono, forno até 232 °C pela ficha e garantia de 6 meses.",
+          "Quem já tem Le Creuset: o Ramekin Formato Coração Cerâmica 300 ml Vermelho, R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+            "alt": "Skillet em formato de coração da Le Creuset, vermelha, sobre toalha rosa",
+            "caption": "Skillet Coração Tradition 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Prazo para chegar antes do Natal",
+        "paragraphs": [
+          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
+          "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e Pix: como fica o preço",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta.",
+          "Um exemplo: a Ramekin Formato Coração Vermelho, R$ 159,00 em 20/10/2026. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
+          "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
+        ]
+      },
+      {
+        "heading": "Troca, peça avariada e pré-venda",
+        "paragraphs": [
+          "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. A loja troca por outro produto de valor equivalente ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Defeito de fabricação tem prazo de 90 dias.",
+          "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
+          "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
+          "Posso trocar um presente? A loja troca por outro produto de valor equivalente em até 30 dias contados do recebimento, ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Guarde a nota fiscal e confirme o prazo com a loja antes de presentear com data marcada.",
+          "O cupom MAUAD vale em promoção? Sim. Pelo teste de 02/10/2026, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
+          "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são do site da Let's Eat It, consultados em 20/10/2026. Eles mudam com promoção e estoque, e o checkout é a referência final. Podemos receber comissão pelas compras feitas com o cupom MAUAD ou pelo link da loja, sem custo extra para quem compra. Ninguém do Em Casa com Cecília comprou nem usou os produtos citados aqui. As descrições vêm da ficha de cada item e das políticas públicas da loja, e nenhuma opinião é de experiência própria."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+    "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma",
+    "seoTitle": "Look de trabalho com alfaiataria: combinações e preço",
+    "type": "Guia de Looks",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Três looks de trabalho com alfaiataria da Cléa Store, do blazer risca de giz com camisa off white ao colete vermelho, com o preço de cada peça em 20/10/2026 e o total com o cupom de 10%.",
+    "metaDescription": "Look de trabalho com alfaiataria feminina: 3 combinações com blazer, camisa, body e colete da Cléa Store e quanto custa cada uma, com e sem cupom.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+    "imageAlt": "Modelo com o blazer de alfaiataria risca de giz cinza da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os três looks abaixo usam peças da Cléa Store com o preço de venda de 20/10/2026. Os totais dos looks 1 e 2 não incluem calça: use uma calça de alfaiataria que você já tem. O look 3 é o único que traz uma calça da loja."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Look",
+            "Peças da loja",
+            "Preço de venda em 20/10/2026",
+            "Com cupom de 10%"
+          ],
+          "rows": [
+            [
+              "1. Trabalho neutro",
+              "Blazer Risca de Giz Cinza + Camisa Clássica Off White",
+              "R$ 797,30",
+              "R$ 717,57"
+            ],
+            [
+              "2. Body por baixo do blazer",
+              "Blazer Oversized Mescla + Body Gola Alta Manga Longa",
+              "R$ 659,50",
+              "R$ 593,55"
+            ],
+            [
+              "3. Colete vermelho",
+              "Colete Trespasse Vermelho + Calça Vermelha + Body Regata Duplo",
+              "R$ 1.275,20",
+              "R$ 1.147,68"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, em todas as formas de pagamento, e soma com as promoções. A equipe testou o cupom em 14/10/2026. Ele não vale no Mercado Livre; confira no carrinho. A devolução é grátis."
+        ]
+      },
+      {
+        "heading": "Look 1: trabalho neutro com blazer e camisa",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. O blazer está com preço promocional; a camisa, sem promoção."
+        ],
+        "bullets": [
+          "Blazer Alfaiataria Risca de Giz Cinza: R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
+          "Camisa Clássica Feminina Tricoline Off White: R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As duas peças somam R$ 797,30. Com o cupom de 10%, o total cai para R$ 717,57.",
+          "A calça não entra no total. Em 20/10/2026, a loja não tinha calça de alfaiataria neutra com envio imediato, então o look pede uma calça de alfaiataria que você já tem.",
+          "Segundo a descrição da loja, o blazer tem modelagem oversized e a própria loja avisa que a modelagem é ampla. A ficha da camisa diz \"modelagem oversized, caimento soltinho ao corpo\". Com as duas peças de caimento folgado, o look sai mais solto do que um conjunto ajustado."
+        ]
+      },
+      {
+        "heading": "Look 2: body por baixo do blazer",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. Blazer e body estão com preço promocional hoje; o preço cheio aparece ao lado de cada um."
+        ],
+        "bullets": [
+          "Blazer Oversized Alfaiataria Mescla: R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
+          "Body Gola Alta Manga Longa Second Skin: R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As duas peças somam R$ 659,50. Com o cupom de 10%, o total fica em R$ 593,55. Como no look 1, a calça fica por conta de uma calça de alfaiataria que você já tem.",
+          "Segundo a descrição da loja, o blazer tem \"modelagem oversized, caimento sofisticado\". O body é descrito como de \"modelagem justa com caimento ajustado\", com uma prega no ombro esquerdo, e a loja diz que ele combina com jeans, saia ou alfaiataria. Na prática, o look fica com um blazer folgado por fora e um body justo por dentro. O body tem 4,7 de 5 em 225 avaliações públicas, com 94% de recomendação (Trustvox, lido em 20/10/2026).",
+          "Se a dúvida é qual body usar por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria cinza mescla e calça cinza",
+            "caption": "Blazer Oversized Alfaiataria Mescla. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Look 3: colete vermelho com calça vermelha",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026. As três peças são vendidas separadas: a loja não vende esse conjunto pronto. As fichas do colete e da calça aparecem como vermelho."
+        ],
+        "bullets": [
+          "Colete Alfaiataria Trespasse Vermelho: R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
+          "Calça Vermelha: R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
+          "Body Regata Second Skin Duplo: R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
+        ],
+        "postParagraphs": [
+          "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
+          "A Calça Vermelha tem só o tamanho P disponível hoje. Se o seu tamanho não for P, este look não fecha com ela, e não há outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
+          "Segundo a descrição da loja, o colete tem modelagem trespassada, sem mangas e com caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação (Trustvox, lido em 19/10/2026)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+            "alt": "Modelo com o body regata preto de gola alta e calça jeans",
+            "caption": "Body Regata Second Skin Duplo. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Casual de sexta: t-shirt oversized com blazer ou colete",
+        "paragraphs": [
+          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A T-Shirt Oversized Algodão custa R$ 129 (preço de venda em 20/10/2026), vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações (leitura de 19/10/2026).",
+          "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30, preço de venda em 20/10/2026) dá o toque de alfaiataria sem pesar o visual. Pela ficha, ele é 70% poliéster e 30% viscose. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799, preço de venda em 20/10/2026) entra no lugar dele.",
+          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258 (preço de venda em 20/10/2026, preço cheio de R$ 387). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+            "alt": "Modelo com a t-shirt oversized vinho de algodão e calça jeans",
+            "caption": "T-Shirt Oversized Algodão. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada look, com e sem cupom",
+        "paragraphs": [
+          "Os preços são de venda no site oficial em 20/10/2026. O cupom CSEMCASACOMCECILIA dá 10% sobre esse preço, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Look",
+            "Peças",
+            "Preço cheio",
+            "Preço de venda (20/10/2026)",
+            "Com cupom de 10%",
+            "Economia"
+          ],
+          "rows": [
+            [
+              "1. Trabalho neutro",
+              "Blazer Risca de Giz Cinza + Camisa Clássica Off White",
+              "R$ 1.028,00",
+              "R$ 797,30",
+              "R$ 717,57",
+              "R$ 79,73"
+            ],
+            [
+              "2. Body por baixo do blazer",
+              "Blazer Oversized Mescla + Body Gola Alta Manga Longa",
+              "R$ 918,00",
+              "R$ 659,50",
+              "R$ 593,55",
+              "R$ 65,95"
+            ],
+            [
+              "3. Colete vermelho",
+              "Colete Trespasse Vermelho + Calça Vermelha + Body Regata Second Skin Duplo",
+              "R$ 1.307,00",
+              "R$ 1.275,20",
+              "R$ 1.147,68",
+              "R$ 127,52"
+            ],
+            [
+              "Casual de sexta",
+              "T-Shirt Oversized Algodão + Blazer Oversized Mescla",
+              "R$ 878,00",
+              "R$ 653,30",
+              "R$ 587,97",
+              "R$ 65,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O estoque pesa no total. Em 20/10/2026, o Blazer Risca tinha só o tamanho M, o Blazer Mescla só o P, o Colete Trespasse estava sem M e a Calça Vermelha tinha só o P. Se o seu tamanho estiver esgotado, o look fica com outra peça ou sai da lista."
+        ]
+      },
+      {
+        "heading": "O que a Cléa não vende como conjunto",
+        "paragraphs": [
+          "A Cléa não vende blazer com calça de alfaiataria como conjunto. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490 (preço de venda na mesma data), e ele não é alfaiataria. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
+        ]
+      },
+      {
+        "heading": "Onde comprar com o cupom e quando conferir",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA vale para todo o site oficial da Cléa Store, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Confira no carrinho se o desconto entrou antes de pagar. A alfaiataria não está no Mercado Livre, onde a loja oficial da Cléa vende só t-shirts e bodies, e o cupom não vale lá: [a comparação entre os dois canais está no artigo sobre Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site).",
+          "O passo a passo para aplicar o código está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as regras atualizadas ficam na [página de cupons da loja](/cupons/clea-store). A equipe testou o cupom em 14/10/2026: um kit de 3 t-shirts saiu de R$ 258 para R$ 232,20 no carrinho.",
+          "A devolução é grátis. Algumas fichas, como a do Blazer Risca, dizem que a loja aceita devolução em até 30 dias.",
+          "Os preços deste artigo são de 20/10/2026. Promoção e estoque mudam, então confira no site antes de comprar. Antes de escolher o tamanho, veja a [tabela de medidas da Cléa Store, com as medidas do corpo de cada tamanho](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dá para usar calça de alfaiataria com camiseta oversized? Dá. A T-Shirt Oversized tem modelagem ampla, segundo a ficha, e uma calça de caimento reto ou wide leg equilibra esse volume.",
+          "Dá para usar body por baixo do blazer? Dá. O Body Gola Alta Manga Longa tem gola alta, então não aparece decote por baixo do blazer. Pela ficha, ele é 90% poliamida e 10% elastano, e custa R$ 135,20 (preço de venda em 20/10/2026).",
+          "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo em 20/10/2026 é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
+          "O cupom vale nas peças de alfaiataria? Vale. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, e as peças de alfaiataria estão lá. Ele não vale no Mercado Livre, onde a alfaiataria não aparece."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de venda no site oficial da Cléa Store em 20/10/2026 e mudam; confira antes de comprar. O site recebe comissão da loja quando a compra sai pelo cupom ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém do site vestiu nem usou as peças citadas: os looks são montagens feitas com as fichas e os preços da loja. O cupom foi testado pela equipe em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "slug": "body-clea-store-second-skin-qual-escolher",
+    "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço",
+    "seoTitle": "Body Cléa Store Second Skin: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os seis bodies Second Skin da Cléa Store lado a lado: uso que a loja indica, gola e manga, cores, tabela de tamanhos, avaliações e o preço de cada um em 20/10/2026, com o leve 3.",
+    "metaDescription": "Body Second Skin da Cléa Store: compare os 6 modelos por uso, gola, cores, tamanho e preço, de R$ 50,70 a R$ 135,20 em 20/10/2026, e o leve 3.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+    "imageAlt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os seis modelos de body da Cléa Store, com o que a própria loja diz de cada um e o preço de venda em 20/10/2026 (o preço cheio está entre parênteses):"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Uso que a loja indica",
+            "Gola e manga",
+            "Cores",
+            "Preço de venda (20/10/2026)"
+          ],
+          "rows": [
+            [
+              "Body Gola Alta Manga Longa Second Skin",
+              "Usar sozinho ou com blazers e casacos",
+              "Gola alta, manga longa",
+              "Amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho (7)",
+              "R$ 135,20 (cheio R$ 169,00)"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "Com jeans, saias, shorts e alfaiataria",
+              "Gola alta, regata",
+              "Marrom, off white, preto, rosa claro, roxo e vinho (6)",
+              "R$ 127,20 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Frente Única Decote Second Skin – Design Especial",
+              "Produções sofisticadas, encontros e ocasiões especiais",
+              "Decote profundo na frente, sem gola; a ficha não informa a manga",
+              "Marrom, off white e preto (3)",
+              "R$ 95,40 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Decote Reversível Second Skin – Design Especial",
+              "Decote na frente ou nas costas, com jeans, saias ou alfaiataria",
+              "Decote na frente ou nas costas; a ficha não informa a manga",
+              "Off white e preto (2)",
+              "R$ 79,50 (cheio R$ 159,00)"
+            ],
+            [
+              "Body Regata Cavado Second Skin",
+              "Produções casuais ou sofisticadas",
+              "Regata, cavas profundas",
+              "Amarelo, off white, poá off white, poá preto, preto e rosa claro (6)",
+              "R$ 50,70 (cheio R$ 169,00)"
+            ],
+            [
+              "Body Ombro Único Com Detalhe nas Costas",
+              "Jeans, saias ou calças de alfaiataria",
+              "Um ombro só, decote assimétrico, abertura nas costas",
+              "Marrom, off white, preto e rosa claro (4)",
+              "R$ 79,50 (cheio R$ 159,00)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços mudam com a promoção do dia; confira na página do produto."
+        ]
+      },
+      {
+        "heading": "Os 6 modelos lado a lado",
+        "paragraphs": [
+          "Os seis são de 90% poliamida e 10% elastano, segundo a ficha. No Ombro Único, essa composição aparece só no texto da descrição, sem bloco de composição."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Cuidados na ficha",
+            "Preço cheio",
+            "Preço de venda (20/10/2026)",
+            "Leve 3 (preço por peça)"
+          ],
+          "rows": [
+            [
+              "Body Gola Alta Manga Longa",
+              "Sim",
+              "R$ 169,00",
+              "R$ 135,20",
+              "R$ 101,40 (3 unidades: R$ 304,20)"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "Sim",
+              "R$ 159,00",
+              "R$ 127,20",
+              "R$ 95,40 (3 unidades: R$ 286,20)"
+            ],
+            [
+              "Body Frente Única Decote Second Skin",
+              "Sim",
+              "R$ 159,00",
+              "R$ 95,40",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Decote Reversível Second Skin",
+              "Sim",
+              "R$ 159,00",
+              "R$ 79,50",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Regata Cavado Second Skin",
+              "Sim",
+              "R$ 169,00",
+              "R$ 50,70",
+              "Sem leve 3 na página"
+            ],
+            [
+              "Body Ombro Único Com Detalhe nas Costas",
+              "Não",
+              "R$ 159,00",
+              "R$ 79,50",
+              "Sem leve 3 na página"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na prática, a diferença entre eles está no corte. Gola Alta e Duplo têm gola alta. Frente Única e Ombro Único têm decote de frente, com o Ombro Único fechado num ombro só. O Decote Reversível pode ser usado com o decote na frente ou nas costas. O Cavado é regata, com cavas profundas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+            "alt": "Modelo com o body regata preto de gola alta e calça jeans",
+            "caption": "Body Regata Second Skin Duplo. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Qual escolher para cada uso",
+        "paragraphs": [
+          "**Por baixo do blazer ou de alfaiataria.** O Body Gola Alta Manga Longa é o único que a loja cita com blazer, como peça para usar sozinha ou com blazers e casacos. O Duplo e o Decote Reversível são indicados com alfaiataria. Para montar um look de trabalho com blazer, o [artigo sobre look de trabalho com alfaiataria feminina](/reviews/look-trabalho-alfaiataria-feminina-clea-store) é o caminho.",
+          "**Noite e ocasião.** O Body Frente Única é o que a loja indica para encontros e ocasiões especiais, com decote profundo e detalhes franzidos. O Ombro Único tem decote assimétrico e abertura nas costas, e a loja fala em visual moderno e sofisticado para diferentes ocasiões.",
+          "**Casual e dia a dia.** O Body Regata Cavado é descrito pela loja como peça para produções casuais ou sofisticadas. O Decote Reversível muda de look só pela troca do decote, na frente ou nas costas. O Duplo combina com jeans e shorts.",
+          "**Frio.** Só o Body Gola Alta aparece como o que a loja chama de upgrade do body clássico de frio, com gola levemente mais alta e manga longa. A loja não diz que ele aquece, e este texto também não diz."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
+            "caption": "Body Frente Única Decote Second Skin. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Qual tamanho pegar: P, M e G",
+        "paragraphs": [
+          "Os seis modelos vêm em P, M e G. A tabela do provador de medidas da página do produto mostra as medidas do corpo de quem veste, não da peça. A mesma faixa aparece no Body Gola Alta, no Duplo e no Body Regata Cavado."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Busto",
+            "Cintura",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "P",
+              "82 a 90 cm",
+              "68 a 76 cm",
+              "90 a 98 cm"
+            ],
+            [
+              "M",
+              "88 a 96 cm",
+              "72 a 80 cm",
+              "98 a 106 cm"
+            ],
+            [
+              "G",
+              "98 a 106 cm",
+              "82 a 90 cm",
+              "106 a 114 cm"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As faixas se sobrepõem: busto de 88 a 90 cm cabe no P e no M. Entre M e G há um vão de 2 cm, porque o M vai até 96 cm de busto e o G começa em 98 cm. Quando as suas medidas caem entre dois tamanhos, considere a modelagem justa. Como o body acompanha o corpo, a folga de um tamanho maior aparece mais do que numa t-shirt oversized. Para medir e comparar com o provador passo a passo, o [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica cada medida."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+            "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
+            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ]
+      },
+      {
+        "heading": "Kit de 3 bodies: quanto sai cada peça",
+        "paragraphs": [
+          "O Gola Alta e o Duplo têm kit de três peças no seletor \"3 unid.\" da própria página. Em 20/10/2026, cada peça do Gola Alta sai por R$ 101,40 (R$ 304,20 as três) e cada peça do Duplo sai por R$ 95,40 (R$ 286,20 as três). Segundo a página, o kit cheio de três custa R$ 507,00 no Gola Alta e R$ 477,00 no Duplo. Nos outros modelos, a página não mostra preço de três peças.",
+          "Para ver os preços desses bodies na Black Friday, veja o [guia de Black Friday da Cléa Store](/reviews/black-friday-clea-store). Os valores de lá são de 14/10/2026; os desta página, de 20/10/2026."
+        ]
+      },
+      {
+        "heading": "Como lavar os bodies Second Skin",
+        "paragraphs": [
+          "A ficha dos bodies Gola Alta, Duplo, Frente Única, Decote Reversível e Cavado traz o mesmo bloco de cuidados. Segundo a loja:"
+        ],
+        "bullets": [
+          "Lavar somente à mão, até 40 °C",
+          "Usar sabão suave",
+          "Não usar alvejante",
+          "Secar à sombra",
+          "Pode secar em tambor, só na temperatura mínima",
+          "Passar até 110 °C",
+          "Não limpar a seco"
+        ],
+        "postParagraphs": [
+          "A ficha informa 90% poliamida e 10% elastano nos seis modelos com este texto, incluindo o Ombro Único. O Ombro Único, porém, não traz bloco de cuidados na página. Nesse caso, vale seguir a etiqueta da própria peça."
+        ]
+      },
+      {
+        "heading": "Avaliações públicas dos bodies Second Skin",
+        "paragraphs": [
+          "Na página do Body Gola Alta Manga Longa Second Skin, a avaliação da loja, feita pela Trustvox, mostrava na leitura de 20/10/2026 nota 4,7 de 5, com 225 avaliações e 94% de recomendação. No Body Regata Second Skin Duplo, a mesma fonte mostrava nota 4,7 de 5, com 169 avaliações e 92% de recomendação, na leitura de 19/10/2026.",
+          "Esses números são de clientes, publicados pela própria loja, e não conferimos avaliação por avaliação. Nos outros quatro modelos (Frente Única, Decote Reversível, Cavado e Ombro Único), a nota não apareceu na leitura de 20/10/2026, então este texto não traz número para eles."
+        ]
+      },
+      {
+        "heading": "Cupom CSEMCASACOMCECILIA no body: quanto fica",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA dá 10% de desconto no site oficial da Cléa Store, em todas as formas de pagamento. Ele soma com as promoções vigentes e com o cashback da loja. Não vale no Mercado Livre. O valor final aparece no carrinho.",
+          "A conta é feita sobre o preço de venda de 20/10/2026. No Gola Alta, R$ 135,20 caem para R$ 121,68 com o cupom. No Cavado, que já está em promoção, R$ 50,70 caem para R$ 45,63. Como o preço do dia pode mudar, o carrinho é a conta final.",
+          "Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store) e o passo a passo em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar).",
+          "Os bodies Gola Alta e Duplo também aparecem na loja oficial da Cléa no Mercado Livre, mas sem o cupom. A comparação está em [Mercado Livre ou site da Cléa Store: onde comprar](/reviews/clea-store-mercado-livre-ou-site)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+            "alt": "Modelo com o body regata cavado off white e calça jeans",
+            "caption": "Body Regata Cavado Second Skin. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
+          "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
+          "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
+          "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de 20/10/2026, exceto a avaliação do Duplo, que é de 19/10/2026, e podem mudar até a compra. Podemos receber comissão quando a compra sai pelo cupom CSEMCASACOMCECILIA ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém da equipe do site vestiu ou usou os bodies: o que está aqui vem da ficha da loja, da descrição dela e das avaliações públicas. O cupom foi testado pela equipe em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "clea-store-mercado-livre-ou-site",
+        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+    "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça",
+    "seoTitle": "Tabela de medidas Cléa Store: como escolher o tamanho",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como ler a tabela de medidas da Cléa Store: onde ela fica, como medir busto, cintura e quadril, as faixas de P, M e G nas peças de cima e de 36 a 42 na calça, e o que fazer entre dois tamanhos.",
+    "metaDescription": "Tabela de medidas da Cléa Store: como medir busto, cintura e quadril e escolher entre P, M e G ou 36 a 42 em cada peça. Medidas lidas em 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+    "imageAlt": "Modelo com o blazer oversized de alfaiataria bordô da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na Cléa Store, o tamanho se escolhe pela tabela de cada peça, não por uma tabela única do site. Ela fica na própria página do produto, no botão \"Tabela de Medidas\". As medidas são do corpo de quem veste (busto, cintura e quadril, em centímetros), não da peça. Meça-se com fita e veja em que tamanho cada medida cai.",
+          "Nas peças de cima que lemos (t-shirt oversized, body e blazer oversized), a tabela é a mesma: P vai de 82 a 90 cm de busto, M de 88 a 96 cm e G de 98 a 106 cm. Na calça, a numeração vai de 36 a 42, com cintura de 68 a 100 cm.",
+          "Se as suas medidas caem em dois tamanhos, a tabela não decide sozinha. Leia a descrição da peça (a loja fala em modelagem oversized na t-shirt e em modelagem ajustada no body) e compare com uma peça sua que já serve bem.",
+          "Se o tamanho não servir, a devolução é grátis: são 30 dias corridos após o recebimento, pelo formulário de troca da loja. A regra publicada trata de devolução, não de troca direta de tamanho."
+        ]
+      },
+      {
+        "heading": "Como a Cléa mostra a tabela",
+        "paragraphs": [
+          "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
+          "Nas peças de cima que lemos em 20/10/2026 (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+          "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
+        ]
+      },
+      {
+        "heading": "Como medir busto, cintura e quadril",
+        "paragraphs": [
+          "Use uma fita métrica de costura, de preferência sobre roupa leve. As medidas são em centímetros."
+        ],
+        "bullets": [
+          "Busto: passe a fita na parte mais cheia do busto, por baixo dos braços e nas costas, reta e paralela ao chão.",
+          "Cintura: contorne o ponto mais estreito do tronco, em geral um pouco acima do umbigo. Respire normalmente, sem prender o ar.",
+          "Quadril: contorne a parte mais larga do quadril e das nádegas, com os pés juntos.",
+          "Confira a fita: ela deve ficar firme, sem apertar a pele nem folgar. Anote as três medidas.",
+          "Compare: na tabela da peça, procure o tamanho em que cada medida cai."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+            "alt": "Desenho de silhueta com três linhas tracejadas numeradas: busto, cintura e quadril, e onde passar a fita em cada uma",
+            "caption": "Como medir busto, cintura e quadril. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6
+          }
+        ]
+      },
+      {
+        "heading": "Tabela das peças de cima",
+        "paragraphs": [
+          "Medidas do corpo de quem veste, em centímetros, lidas na tabela da loja em 20/10/2026. Vale para a T-Shirt Oversized Algodão, o Body Regata Second Skin Duplo, os outros bodies e o Blazer Oversized Alfaiataria Bordô."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Busto",
+            "Cintura",
+            "Quadril (só no body)"
+          ],
+          "rows": [
+            [
+              "P",
+              "82 a 90",
+              "68 a 76",
+              "90 a 98"
+            ],
+            [
+              "M",
+              "88 a 96",
+              "72 a 80",
+              "98 a 106"
+            ],
+            [
+              "G",
+              "98 a 106",
+              "82 a 90",
+              "106 a 114"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e comparar com uma peça sua de medida parecida.",
+          "Segundo a loja, a t-shirt tem modelagem oversized, de caimento amplo, e o body tem modelagem ajustada, com efeito segunda pele. Por isso, no body a medida pede mais atenção. Para comparar os modelos de body, veja o [guia de escolha do body](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+            "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
+            "caption": "Tabela de medidas lida em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ]
+      },
+      {
+        "heading": "Tabela da calça",
+        "paragraphs": [
+          "A calça usa numeração de 36 a 42, e a tabela traz cintura e quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Cintura",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "36",
+              "68 a 76",
+              "90 a 98"
+            ],
+            [
+              "38",
+              "72 a 80",
+              "98 a 106"
+            ],
+            [
+              "40",
+              "82 a 90",
+              "106 a 114"
+            ],
+            [
+              "42",
+              "92 a 100",
+              "114 a 122"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, a tabela não diz qual medida pesa mais, e a loja também não diz."
+        ]
+      },
+      {
+        "heading": "O que muda no oversized",
+        "paragraphs": [
+          "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
+          "A diferença está no corte, e é isso que a loja anuncia. Na página da T-Shirt Oversized Algodão, segundo a loja, \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+            "alt": "Modelo com a t-shirt oversized vinho de algodão e calça jeans",
+            "caption": "T-Shirt Oversized Algodão: a folga vem do corte. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Entre dois tamanhos",
+        "paragraphs": [
+          "Quando a sua medida cai numa faixa de uma letra e também na seguinte, a tabela não decide sozinha. Um busto de 89 cm, por exemplo, cabe nas faixas de P (82 a 90 cm) e de M (88 a 96 cm). Entre M (até 96 cm) e G (a partir de 98 cm) sobra um vão de 2 cm, e nessa medida o provador da página é a próxima consulta, sem garantia de acerto.",
+          "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. Na t-shirt e no blazer oversized, a folga já vem do corte, e a loja não diz qual letra escolher quando a medida fica entre duas faixas. Por isso, quem está no meio olha a modelagem: no justo, a medida manda; no oversized, a descrição já diz quanto a peça cai.",
+          "Se a compra for pelo site, o cupom CSEMCASACOMCECILIA dá 10% no site oficial, em todas as formas de pagamento; confira no carrinho, porque ele não vale no Mercado Livre ([cupom da Cléa Store](/cupons/clea-store))."
+        ]
+      },
+      {
+        "heading": "Provador virtual: o que é e onde fica",
+        "paragraphs": [
+          "O provador virtual é uma ferramenta da Sizebay que aparece na página de cada peça, ao lado do botão da tabela de medidas.",
+          "A loja não diz que o provador acerta o tamanho, e não garante o caimento da peça. O texto também não afirma isso. Use a tabela como base, a descrição da peça para a modelagem e, se a dúvida continuar, a devolução (abaixo)."
+        ]
+      },
+      {
+        "heading": "Se o tamanho não servir",
+        "paragraphs": [
+          "A devolução é grátis, sem custo de postagem para quem devolve. Pela página de troca e devolução da loja (lida em 14/10/2026), o prazo é de 30 dias corridos após o recebimento, com a peça na embalagem original, sem uso e com a nota fiscal.",
+          "O texto não afirma troca direta por outro tamanho: a regra de troca que a loja descreve fala em vale no valor da peça, não em outra letra. Também não afirma quanto volta quando a compra teve cupom. Antes de devolver, leia a página de troca da loja. O que a loja informa e o que ainda não está claro nas políticas está em [a página sobre se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store tem tabela de medidas? Sim, cada peça tem a sua, no bloco de tamanho da própria página, com as medidas do corpo em centímetros.",
+          "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
+          "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
+          "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "As tabelas e o provador foram lidos no site da Cléa Store em 20/10/2026, na página de cada peça. A equipe testou o cupom em 14/10/2026. Podemos receber comissão quando a compra sai pelo cupom ou pelo link da loja. Ninguém do site vestiu, mediu ou devolveu as peças: o que está aqui é o que a loja publica e o que a tabela mede, sem experiência própria."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Medidas e preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "slug": "clea-store-mercado-livre-ou-site",
+    "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato",
+    "seoTitle": "Cléa Store: Mercado Livre ou site, onde sai mais barato",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cléa Store no Mercado Livre ou no site com o cupom de 10%: peça a peça, onde cada kit de t-shirt, body e blazer saiu mais barato em 20/10/2026, o que só o site tem e como conferir o vendedor oficial.",
+    "metaDescription": "Cléa Store no Mercado Livre ou no site com cupom: onde sai mais barato cada t-shirt, body e blazer, com preços de 20/10/2026 e o que só o site tem.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+    "imageAlt": "Modelo com uma das t-shirts oversized do kit Intense da Cléa Store",
+    "imageFit": "cover",
+    "imageAspect": "portrait",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "**Preços de 20/10/2026:** hoje, no Mercado Livre, saem mais baratos os kits de t-shirt Intense e Colorful, a t-shirt avulsa (no Pix) e os bodies Duplo e Gola Alta, com frete grátis nos anúncios lidos. No site, com o cupom CSEMCASACOMCECILIA, sai mais barato o Kit Classic, que no Mercado Livre está sem desconto por R$ 387,00; a alfaiataria só existe no site. O cupom não vale no Mercado Livre. **Atenção:** o que hoje sai mais barato no Mercado Livre pode ficar igual ou mais caro, sem o cupom, em poucos dias; confira os dois preços antes de comprar."
+        ]
+      },
+      {
+        "heading": "Onde sai mais barato, peça a peça",
+        "paragraphs": [
+          "Os preços são de 20/10/2026. No Mercado Livre, é o preço do anúncio da loja oficial da Cléa, com o Pix quando o anúncio mostra Pix. No site, é o preço de venda de hoje; o \"site com cupom\" é esse preço menos 10%, com o cupom CSEMCASACOMCECILIA. Na última coluna, valor positivo quer dizer que o Mercado Livre sai mais barato."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Mercado Livre (20/10/2026)",
+            "Site (preço de venda)",
+            "Site com cupom",
+            "Diferença (site com cupom menos Mercado Livre)"
+          ],
+          "rows": [
+            [
+              "Kit 3 T-Shirts Oversized Intense",
+              "R$ 129,90",
+              "R$ 258,00",
+              "R$ 232,20",
+              "+R$ 102,30"
+            ],
+            [
+              "Kit 3 T-Shirts Oversized Colorful",
+              "R$ 133,74",
+              "R$ 258,00",
+              "R$ 232,20",
+              "+R$ 98,46"
+            ],
+            [
+              "Kit 3 T-Shirts Oversized Classic",
+              "R$ 387,00 (sem desconto)",
+              "R$ 258,00",
+              "R$ 232,20",
+              "-R$ 154,80"
+            ],
+            [
+              "T-Shirt Oversized Algodão (avulsa)",
+              "R$ 62,70 no Pix (R$ 66,00 em 3x)",
+              "R$ 129,00",
+              "R$ 116,10",
+              "+R$ 53,40"
+            ],
+            [
+              "Body Regata Second Skin Duplo",
+              "R$ 82,65 no Pix (R$ 87,00 em 3x)",
+              "R$ 127,20",
+              "R$ 114,48",
+              "+R$ 31,83"
+            ],
+            [
+              "Body Gola Alta Manga Longa",
+              "R$ 89,00 (3x de R$ 29,67)",
+              "R$ 135,20",
+              "R$ 121,68",
+              "+R$ 32,68"
+            ],
+            [
+              "Blazer Oversized Alfaiataria Bordô",
+              "não há no Mercado Livre",
+              "R$ 524,30",
+              "R$ 471,87",
+              "só no site"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Blazer Oversized Alfaiataria Mescla tem o mesmo preço do Bordô (R$ 524,30 no site). O Blazer Alfaiataria Risca de Giz Cinza sai por R$ 538,30 no site. Na busca de hoje, não apareceu no Mercado Livre nenhum blazer, colete ou calça de alfaiataria da Cléa, então, para a alfaiataria, a comparação é só com o site.",
+          "Na t-shirt avulsa e nos bodies, o Mercado Livre continua mais barato mesmo com o cupom no site. O site não tem desconto de Pix registrado, por isso a comparação usa o preço no Pix do anúncio. Nos bodies, o site também tem a opção de três unidades (R$ 95,40 cada no Duplo e R$ 101,40 cada no Gola Alta); o cupom sobre essa opção não foi verificado, e a tabela não a usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+            "alt": "Barras comparando o preço no Mercado Livre e no site com o cupom para três kits de t-shirt, a t-shirt avulsa e dois bodies, em 20/10/2026",
+            "caption": "Mercado Livre e site com cupom em 20/10/2026. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver no Mercado Livre (sem cupom)",
+            "href": "https://meli.la/1t3kn5d",
+            "sponsored": true
+          },
+          {
+            "label": "Ir ao site da Cléa com o cupom",
+            "href": "https://www.cleastore.com.br/",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Conta com cupom e cashback",
+        "paragraphs": [
+          "O cupom CSEMCASACOMCECILIA tira 10% do preço de venda no site, em todas as formas de pagamento. Ele soma com as promoções e com o cashback da loja, não vale no Mercado Livre e se aplica no carrinho. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20. As condições do cupom estão na [página do cupom da Cléa Store](/cupons/clea-store).",
+          "O cashback é um programa da própria loja e soma com o cupom. No pedido de teste de 14/10/2026, ele gerou R$ 23,22 sobre o valor pago de R$ 232,20. O valor só entra na conta quando a loja credita, e essa leitura não foi refeita hoje. Se o mesmo cashback valer para o kit Intense, o preço líquido fica em cerca de R$ 208,98, ainda R$ 79,08 acima do anúncio do Mercado Livre.",
+          "O frete é outra conta. No site, o frete é grátis acima de R$ 599 (faixa lida em 14/10/2026); abaixo disso, a loja cobra, e o valor não entra nas contas deste texto. Um kit com o cupom (R$ 232,20) fica abaixo desse valor, então o frete do site conta. No Mercado Livre, o frete é grátis nos anúncios de t-shirts e bodies lidos hoje."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp",
+            "alt": "Resumo do pedido no site da Cléa Store com o cupom aplicado e R$ 25,80 de desconto num kit de R$ 258",
+            "caption": "Cupom aplicado no teste de 14/10/2026. Print do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9308
+          }
+        ]
+      },
+      {
+        "heading": "O que só o site tem",
+        "paragraphs": [
+          "As t-shirts e os bodies estão nos dois lados. O resto do catálogo, a alfaiataria inclusive, está só no site. O que lemos em 20/10/2026:"
+        ],
+        "bullets": [
+          "**Alfaiataria e o resto do catálogo:** blazers, calças e coletes. Na busca \"clea store blazer\", o Mercado Livre não trouxe nenhum blazer, colete nem calça de alfaiataria da Cléa (leitura de 20/10/2026).",
+          "**Provador virtual e tabela de medidas:** a página de cada produto do site traz a tabela de medidas do corpo (busto, cintura e quadril) e o Provador Virtual, do Sizebay. Na t-shirt oversized, por exemplo, o P vai de 82 a 90 cm de busto e o M de 88 a 96 cm (página de produto, 20/10/2026).",
+          "**Cupom:** CSEMCASACOMCECILIA dá 10% OFF em todo o site, com todas as formas de pagamento. O cupom foi testado pela equipe em 14/10/2026. Ele não vale no Mercado Livre (regra do próprio cupom).",
+          "**Cashback:** a loja tem um programa de cashback que soma com o cupom. No teste de 14/10/2026, o pedido de R$ 232,20 gerou R$ 23,22 de cashback. O cashback só conta quando é creditado.",
+          "**Devolução:** a devolução é grátis."
+        ],
+        "postParagraphs": [
+          "Para a política completa da loja e o que a equipe conferiu sobre ela, veja [a análise da Cléa Store](/reviews/clea-store-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
+            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "Quando comprar no Mercado Livre",
+        "paragraphs": [
+          "Estes são os anúncios do vendedor \"Clea Oficial\" lidos em 20/10/2026, com o preço de venda do site ao lado (site também em 20/10/2026):"
+        ],
+        "bullets": [
+          "Kit 3 t-shirts Oversized Intense: R$ 129,90, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Kit 3 t-shirts Oversized Colorful: R$ 133,74, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
+          "T-shirt Oversized de algodão, avulsa: R$ 62,70 no Pix (ou 3x de R$ 22). No site, R$ 129,00, ou R$ 116,10 com o cupom.",
+          "Body Regata Second Skin Duplo: R$ 82,65 no Pix (ou 3x de R$ 29). No site, R$ 127,20, ou R$ 114,48 com o cupom.",
+          "Body Gola Alta Manga Longa: R$ 89,00 (3x de R$ 29,67). No site, R$ 135,20, ou R$ 121,68 com o cupom."
+        ],
+        "postParagraphs": [
+          "Nos kits Intense e Colorful, na t-shirt avulsa e nos bodies Duplo e Gola Alta, o Mercado Livre saiu abaixo do site com o cupom neste dia. Na avulsa e no Body Duplo, o número do Mercado Livre é o preço no Pix; nos kits, é o preço do cartão. O cupom não entra no Mercado Livre, então a conta é só o preço do anúncio.",
+          "Antes de comprar, confira que o vendedor é **Clea Oficial**. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns internacionais. Esses não são da loja e ficam fora desta conta. A troca e a devolução no Mercado Livre seguem as regras da plataforma e do anúncio; não lemos a política desse vendedor nesta leitura, então confira no anúncio antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quando comprar no site",
+        "paragraphs": [
+          "São três casos. Primeiro, a alfaiataria: o blazer oversized de alfaiataria bordô está R$ 524,30 no site (preço de venda em 20/10/2026), ou R$ 471,87 com o cupom, e o Mercado Livre não tem blazer da Cléa. Para montar um look com ele, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
+          "Segundo, o kit Classic. No Mercado Livre, ele está R$ 387,00 sem desconto hoje. No site, o kit está R$ 258,00 de venda (R$ 232,20 com o cupom), em 20/10/2026. Aqui o site ganha.",
+          "Terceiro, quem quer usar o cupom e ganhar cashback no mesmo pedido, além de contar com o provador e a tabela de medidas da página do produto. Para aplicar o cupom no checkout, veja o [passo a passo do cupom da Cléa Store](/reviews/cupom-clea-store-como-usar). Em 14/10/2026, o site anunciava frete grátis acima de R$ 599; abaixo disso, o frete é calculado no carrinho. Esse valor não entra nas contas desta página, então confira no carrinho."
+        ]
+      },
+      {
+        "heading": "Como escolher em 30 segundos",
+        "bullets": [
+          "**T-shirt avulsa e kit Intense ou Colorful:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Kit Classic:** site.",
+          "**Body Duplo:** Mercado Livre, no Pix, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Body Gola Alta:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
+          "**Os outros modelos de body:** compare o anúncio com o carrinho do site. Para escolher o modelo, veja [qual body escolher](/reviews/body-clea-store-second-skin-qual-escolher).",
+          "**Blazer, calça e colete:** site.",
+          "**Quer cupom, cashback e devolução grátis no mesmo pedido:** site."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no checkout do site oficial, e no Mercado Livre vale o preço do anúncio.",
+          "A Cléa Store tem frete grátis? Sim, acima de R$ 599, segundo a faixa anunciada em 14/10/2026. Abaixo disso, o frete é calculado no carrinho.",
+          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback foi calculado sobre o valor já com o desconto do cupom.",
+          "O preço do Mercado Livre é o mesmo do site? Não, e muda. Em 20/10/2026, a t-shirt e o Body Duplo estavam mais baratos no Mercado Livre, mas o preço pode mudar; confira os dois antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo foram lidos no site da Cléa Store e no Mercado Livre em 20/10/2026. Eles mudam de um dia para o outro: confira antes de comprar.",
+          "Podemos receber comissão quando você compra pelo cupom do site, pelo link da loja ou pelo link do Mercado Livre. Isso não muda o preço para você.",
+          "Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store e no Mercado Livre. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelo link do Mercado Livre.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      }
+    ]
   }
 ];

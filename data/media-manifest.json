@@ -38579,6 +38579,618 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34390,
+      "sha256": "23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-oversized-bordo.webp",
+      "storage_filename": "clea-store-blazer-oversized-bordo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 158,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100806,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101172,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a/clea-store-blazer-oversized-bordo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a/clea-store-blazer-oversized-bordo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.354Z",
+      "verification_etag_or_digest": "23ab12f084647ab35319dd40de732d48202118ee115b56a18c72c0a33750314a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96854,
+      "sha256": "ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-oversized-mescla.webp",
+      "storage_filename": "clea-store-blazer-oversized-mescla.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 95,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100310,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-oversized-mescla.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab/clea-store-blazer-oversized-mescla.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab/clea-store-blazer-oversized-mescla.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "ec79fbf586eabf7f9618526016ec323a3abbeeb892c0352b273370ab3fba78ab",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114498,
+      "sha256": "60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-blazer-risca-de-giz-cinza.webp",
+      "storage_filename": "clea-store-blazer-risca-de-giz-cinza.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100237,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-blazer-risca-de-giz-cinza.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5/clea-store-blazer-risca-de-giz-cinza.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5/clea-store-blazer-risca-de-giz-cinza.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "60424581b677cc8ccb5f953579eb9b628ca9c38f2e8a2b98c3966b85cdd601d5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 136806,
+      "sha256": "540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-frente-unica.webp",
+      "storage_filename": "clea-store-body-frente-unica.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100639,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524/clea-store-body-frente-unica.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524/clea-store-body-frente-unica.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "540f0d05f2b937219e29830fa8b89d1614ce08a15285aeefe36363894c44f524",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 119540,
+      "sha256": "6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-gola-alta-manga-longa.webp",
+      "storage_filename": "clea-store-body-gola-alta-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100491,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9/clea-store-body-gola-alta-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9/clea-store-body-gola-alta-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "6a1be7d36e1b87e79d37adfa631e40739c7c64843de311ba51c87535ce566bc9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125318,
+      "sha256": "c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-regata-cavado.webp",
+      "storage_filename": "clea-store-body-regata-cavado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 266,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100735,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-cavado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b/clea-store-body-regata-cavado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b/clea-store-body-regata-cavado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "c4ec2542777a12bc8af39e511f54d641a4737d7960cc3788e6773579331aab2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 138520,
+      "sha256": "1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-body-regata-duplo.webp",
+      "storage_filename": "clea-store-body-regata-duplo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 152,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 120,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100335,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100621,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-body-regata-duplo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4/clea-store-body-regata-duplo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4/clea-store-body-regata-duplo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "1378d1399aad72c58238c97e92ae79eb2b5549a460ec3d3a88e5225da6083da4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35322,
+      "sha256": "2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0",
+      "width": 1600,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-como-medir-busto-cintura-quadril.webp",
+      "storage_filename": "clea-store-como-medir-busto-cintura-quadril.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100842,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-como-medir-busto-cintura-quadril.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0/clea-store-como-medir-busto-cintura-quadril.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0/clea-store-como-medir-busto-cintura-quadril.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "2fc0e25daeacaa5156e0be0df672d4eca302664fdc3277c41fd7659480398aa0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115270,
+      "sha256": "6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-kit-3-t-shirts-intense.webp",
+      "storage_filename": "clea-store-kit-3-t-shirts-intense.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101036,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577/clea-store-kit-3-t-shirts-intense.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577/clea-store-kit-3-t-shirts-intense.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "6abca157a6256d940ca580203003641a08481aa152487cee81f98deaa0a11577",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44012,
+      "sha256": "943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-mercado-livre-ou-site-precos.webp",
+      "storage_filename": "clea-store-mercado-livre-ou-site-precos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-mercado-livre-ou-site.json",
+          "line": 104,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 101118,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea/clea-store-mercado-livre-ou-site-precos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea/clea-store-mercado-livre-ou-site-precos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "943e50e34a13e133fea8c6d288614aba360ebc238687ec0307686a11113b81ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106570,
+      "sha256": "498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4",
+      "width": 1067,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-t-shirt-oversized-algodao.webp",
+      "storage_filename": "clea-store-t-shirt-oversized-algodao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 159,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/look-trabalho-alfaiataria-feminina-clea-store.json",
+          "line": 137,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100352,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100943,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-t-shirt-oversized-algodao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4/clea-store-t-shirt-oversized-algodao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4/clea-store-t-shirt-oversized-algodao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "498158badc61418c29253dca43390a01438e7202d817653929555d7fa92db1e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44336,
+      "sha256": "0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5",
+      "width": 1600,
+      "height": 760,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-tabela-de-medidas.webp",
+      "storage_filename": "clea-store-tabela-de-medidas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+        "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-clea-store-second-skin-qual-escolher.json",
+          "line": 216,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho.json",
+          "line": 105,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100685,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 100889,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5/clea-store-tabela-de-medidas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5/clea-store-tabela-de-medidas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T04:43:08.355Z",
+      "verification_etag_or_digest": "0b8464439a7e89b13b845c3947e31aa09dabfe00eb1bc05484a9e822b2ddfdc5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/conhecendo-mais-rabanada.avif",
       "local_url": "/images/reviews/conhecendo-mais-rabanada.avif",
       "media_kind": "image",
@@ -56874,6 +57486,196 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42948,
+      "sha256": "ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa",
+      "width": 782,
+      "height": 782,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "storage_filename": "mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 382,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.756Z",
+      "verification_etag_or_digest": "ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52654,
+      "sha256": "45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97",
+      "width": 1600,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-como-montar-lugar.webp",
+      "storage_filename": "mesa-posta-natal-como-montar-lugar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 404,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97/mesa-posta-natal-como-montar-lugar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97/mesa-posta-natal-como-montar-lugar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 396110,
+      "sha256": "50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34",
+      "width": 1500,
+      "height": 1500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "storage_filename": "mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 56,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48952,
+      "sha256": "c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4",
+      "width": 1024,
+      "height": 1024,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-taca-bohemia-magnum.webp",
+      "storage_filename": "mesa-posta-natal-taca-bohemia-magnum.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64120,
+      "sha256": "ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-tres-faixas.webp",
+      "storage_filename": "mesa-posta-natal-tres-faixas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28/mesa-posta-natal-tres-faixas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28/mesa-posta-natal-tres-faixas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/passo-1-produto-loja.webp",
       "local_url": "/images/reviews/letseatit/passo-1-produto-loja.webp",
       "media_kind": "image",
@@ -57255,6 +58057,310 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T19:16:00.739Z",
       "verification_etag_or_digest": "a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57714,
+      "sha256": "90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e",
+      "width": 653,
+      "height": 653,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-chaleira-le-creuset-azure.webp",
+      "storage_filename": "presente-casamento-chaleira-le-creuset-azure.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e/presente-casamento-chaleira-le-creuset-azure.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e/presente-casamento-chaleira-le-creuset-azure.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114304,
+      "sha256": "55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-tacas-bohemia-angela.webp",
+      "storage_filename": "presente-casamento-tacas-bohemia-angela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d/presente-casamento-tacas-bohemia-angela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d/presente-casamento-tacas-bohemia-angela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123170,
+      "sha256": "9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-travessa-le-creuset-cotton.webp",
+      "storage_filename": "presente-casamento-travessa-le-creuset-cotton.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e/presente-casamento-travessa-le-creuset-cotton.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e/presente-casamento-travessa-le-creuset-cotton.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126624,
+      "sha256": "bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6",
+      "width": 978,
+      "height": 978,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-batedeira-ariete-positano.webp",
+      "storage_filename": "presente-natal-batedeira-ariete-positano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6/presente-natal-batedeira-ariete-positano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6/presente-natal-batedeira-ariete-positano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10584,
+      "sha256": "35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-caneca-holly-le-creuset.webp",
+      "storage_filename": "presente-natal-caneca-holly-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115/presente-natal-caneca-holly-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115/presente-natal-caneca-holly-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61130,
+      "sha256": "b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-ramekin-coracao-le-creuset.webp",
+      "storage_filename": "presente-natal-ramekin-coracao-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26/presente-natal-ramekin-coracao-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26/presente-natal-ramekin-coracao-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16558,
+      "sha256": "0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "storage_filename": "presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66318,
+      "sha256": "c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c",
+      "width": 848,
+      "height": 848,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-skillet-coracao-le-creuset.webp",
+      "storage_filename": "presente-natal-skillet-coracao-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 282,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c/presente-natal-skillet-coracao-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c/presente-natal-skillet-coracao-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c",
       "verification_status": "verified"
     },
     {

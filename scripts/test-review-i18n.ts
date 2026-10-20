@@ -388,6 +388,8 @@ const storeReferralLabel = (locale: Locale) =>
   for (const heading of ['Perguntas frequentes', 'Frequently asked questions', 'Preguntas frecuentes', 'Questions fréquentes', 'Häufige Fragen', 'Domande frequenti', '자주 묻는 질문', 'よくある質問', '常見問題', '常见问题']) {
     assert.equal(isFaqHeading(heading), true, `título de FAQ do Job 4 não reconhecido: ${heading}`);
   }
+  assert.equal(isFaqHeading('FAQ: frete e prazo'), true, 'FAQ como palavra é título de FAQ');
+  assert.equal(isFaqHeading('Faqueiros: 30, 101 ou 130 peças'), false, '"faq" dentro de outra palavra não é FAQ');
   assert.deepEqual(
     getFaqItems(['Vale a pena? Sim, pelo preço.', 'Prazo: 7 dias', 'セールはいつ？11月です。']),
     [

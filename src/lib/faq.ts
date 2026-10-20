@@ -3,7 +3,6 @@
 // idioma. Sem imports: o acordeão é componente de cliente.
 const FAQ_HEADINGS = [
   'perguntas frequentes',
-  'faq',
   'frequently asked',
   'preguntas frecuentes',
   'questions fréquentes',
@@ -25,7 +24,8 @@ export interface FaqItem {
 export function isFaqHeading(heading: string | undefined): boolean {
   if (!heading) return false;
   const h = heading.toLowerCase();
-  return FAQ_HEADINGS.some((fragment) => h.includes(fragment));
+  // "FAQ" só como palavra: "Faqueiros" não é FAQ.
+  return /\bfaq\b/.test(h) || FAQ_HEADINGS.some((fragment) => h.includes(fragment));
 }
 
 // Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
