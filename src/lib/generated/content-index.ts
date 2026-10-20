@@ -101027,8 +101027,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cléa Store no Mercado Livre ou no site com o cupom de 10%: peça a peça, onde cada kit de t-shirt, body e blazer saiu mais barato em 20/10/2026, o que só o site tem e como conferir o vendedor oficial.",
-    "metaDescription": "Cléa Store no Mercado Livre ou no site com cupom: onde sai mais barato cada t-shirt, body e blazer, com preços de 20/10/2026 e o que só o site tem.",
+    "description": "Cléa Store no Mercado Livre ou no site: a loja oficial do Mercado Livre tem 7 anúncios com as t-shirts e os bodies mais vendidos, e o site tem a variedade de modelos, cores e a alfaiataria, com o cupom de 10% e cashback. Preços de 20/10/2026.",
+    "metaDescription": "Cléa Store no Mercado Livre ou no site: o essencial sai mais barato no ML, a variedade de modelos e a alfaiataria está no site, com cupom de 10%. Preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101041,106 +101041,134 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "**Preços de 20/10/2026:** hoje, no Mercado Livre, saem mais baratos os kits de t-shirt Intense e Colorful, a t-shirt avulsa (no Pix) e os bodies Duplo e Gola Alta, com frete grátis nos anúncios lidos. No site, com o cupom CSEMCASACOMCECILIA, sai mais barato o Kit Classic, que no Mercado Livre está sem desconto por R$ 387,00; a alfaiataria só existe no site. O cupom não vale no Mercado Livre. **Atenção:** o que hoje sai mais barato no Mercado Livre pode ficar igual ou mais caro, sem o cupom, em poucos dias; confira os dois preços antes de comprar."
+          "Preços de 20/10/2026. A tabela abaixo mostra o que sai mais barato hoje no Mercado Livre e no site da Cléa Store. No site, o cupom CSEMCASACOMCECILIA tira 10% e o cashback da loja soma com ele.",
+          "A loja oficial da Cléa no Mercado Livre tem só 7 anúncios: os kits de t-shirt e os bodies mais vendidos. Se você quer esse essencial, vale conferir o Mercado Livre, onde hoje ele sai mais barato que no site com o cupom. A variedade de modelos, cores e estampas está no site: nas categorias que lemos hoje, ele tem 41 peças, com toda a alfaiataria.",
+          "O preço do Mercado Livre muda rápido. O que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar."
         ]
       },
       {
-        "heading": "Onde sai mais barato, peça a peça",
+        "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
         "paragraphs": [
-          "Os preços são de 20/10/2026. No Mercado Livre, é o preço do anúncio da loja oficial da Cléa, com o Pix quando o anúncio mostra Pix. No site, é o preço de venda de hoje; o \"site com cupom\" é esse preço menos 10%, com o cupom CSEMCASACOMCECILIA. Na última coluna, valor positivo quer dizer que o Mercado Livre sai mais barato."
+          "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
+        ],
+        "bullets": [
+          "T-Shirt Oversized Algodão (avulsa)",
+          "Kit 3 T-Shirts Oversized Intense",
+          "Kit 3 T-Shirts Oversized Colorful",
+          "Kit 3 T-Shirts Oversized Classic",
+          "Body Gola Alta Manga Longa, em 5 cores",
+          "Body Regata Second Skin Duplo",
+          "Body Tule Gola Alta Second Skin"
+        ],
+        "postParagraphs": [
+          "São as peças de base da marca. O resto do catálogo fica só no site, e é lá que está a diversidade da loja: mais modelos de body, mais kits de t-shirt, mais cores do mesmo modelo e a alfaiataria inteira. A seção seguinte mostra o que muda."
+        ]
+      },
+      {
+        "heading": "O que só o site tem",
+        "paragraphs": [
+          "Nas categorias do site que lemos em 20/10/2026, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
+        ],
+        "bullets": [
+          "Alfaiataria: blazers, entre eles o Risca de Giz Cinza e os oversized Bordô e Mescla, coletes, bermuda e calças de alfaiataria.",
+          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o Frente Única, o Decote Reversível, o Regata Cavado e o Ombro Único. O Gola Alta tem 7 cores no site e 5 no anúncio do Mercado Livre.",
+          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o Brazil Edition e o Monte Seu Kit. Os dois custam R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
+          "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
+        ],
+        "postParagraphs": [
+          "Para montar uma produção com a alfaiataria, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store). Para escolher entre os seis bodies, veja [qual body Second Skin escolher](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
+            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
+            "caption": "Body Frente Única Decote Second Skin, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
+        "heading": "O essencial: preço no Mercado Livre e no site em 20/10/2026",
+        "paragraphs": [
+          "A comparação vale só para as peças que estão nos dois lados. No Mercado Livre, o primeiro número é o menor preço do anúncio, que em alguns casos pede pagamento com saldo no Mercado Pago. No site, é o preço de venda menos os 10% do cupom."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Mercado Livre (20/10/2026)",
-            "Site (preço de venda)",
-            "Site com cupom",
-            "Diferença (site com cupom menos Mercado Livre)"
+            "Mercado Livre",
+            "Site com o cupom",
+            "Onde sai mais barato hoje"
           ],
           "rows": [
             [
               "Kit 3 T-Shirts Oversized Intense",
-              "R$ 129,90",
-              "R$ 258,00",
+              "R$ 129,90 (6x de R$ 21,65)",
               "R$ 232,20",
-              "+R$ 102,30"
+              "Mercado Livre, R$ 102,30 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Colorful",
-              "R$ 133,74",
-              "R$ 258,00",
+              "R$ 127,05 com saldo no Mercado Pago, ou R$ 133,74 em 6x",
               "R$ 232,20",
-              "+R$ 98,46"
+              "Mercado Livre, R$ 105,15 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Classic",
-              "R$ 387,00 (sem desconto)",
-              "R$ 258,00",
+              "R$ 387,00 (9x de R$ 43,00)",
               "R$ 232,20",
-              "-R$ 154,80"
+              "Site, R$ 154,80 a menos"
             ],
             [
               "T-Shirt Oversized Algodão (avulsa)",
-              "R$ 62,70 no Pix (R$ 66,00 em 3x)",
-              "R$ 129,00",
+              "R$ 62,70 com saldo no Mercado Pago, ou R$ 66,00 em 5x",
               "R$ 116,10",
-              "+R$ 53,40"
+              "Mercado Livre, R$ 53,40 a menos"
             ],
             [
               "Body Regata Second Skin Duplo",
-              "R$ 82,65 no Pix (R$ 87,00 em 3x)",
-              "R$ 127,20",
+              "R$ 82,65 com saldo no Mercado Pago, ou R$ 87,00 em 5x",
               "R$ 114,48",
-              "+R$ 31,83"
+              "Mercado Livre, R$ 31,83 a menos"
             ],
             [
               "Body Gola Alta Manga Longa",
-              "R$ 89,00 (3x de R$ 29,67)",
-              "R$ 135,20",
+              "R$ 89,00 (5x de R$ 17,80)",
               "R$ 121,68",
-              "+R$ 32,68"
-            ],
-            [
-              "Blazer Oversized Alfaiataria Bordô",
-              "não há no Mercado Livre",
-              "R$ 524,30",
-              "R$ 471,87",
-              "só no site"
+              "Mercado Livre, R$ 32,68 a menos"
             ]
           ]
         },
         "postParagraphs": [
-          "O Blazer Oversized Alfaiataria Mescla tem o mesmo preço do Bordô (R$ 524,30 no site). O Blazer Alfaiataria Risca de Giz Cinza sai por R$ 538,30 no site. Na busca de hoje, não apareceu no Mercado Livre nenhum blazer, colete ou calça de alfaiataria da Cléa, então, para a alfaiataria, a comparação é só com o site.",
-          "Na t-shirt avulsa e nos bodies, o Mercado Livre continua mais barato mesmo com o cupom no site. O site não tem desconto de Pix registrado, por isso a comparação usa o preço no Pix do anúncio. Nos bodies, o site também tem a opção de três unidades (R$ 95,40 cada no Duplo e R$ 101,40 cada no Gola Alta); o cupom sobre essa opção não foi verificado, e a tabela não a usa."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp",
-            "alt": "Barras comparando o preço no Mercado Livre e no site com o cupom para três kits de t-shirt, a t-shirt avulsa e dois bodies, em 20/10/2026",
-            "caption": "Mercado Livre e site com cupom em 20/10/2026. Quadro do Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 1.7778
-          }
+          "No site, o preço de venda era R$ 258,00 em cada kit, R$ 129,00 na t-shirt avulsa, R$ 127,20 no Body Duplo e R$ 135,20 no Gola Alta. O Body Tule fica fora da tabela: no site, uma das variantes está em pré-venda e o preço não fecha.",
+          "Os anúncios do Mercado Livre tinham frete grátis. No site, o frete é grátis acima de R$ 599 (valor lido em 14/10/2026). Abaixo disso, o frete é calculado no carrinho e não entra nesta conta."
         ],
         "links": [
           {
-            "label": "Ver no Mercado Livre (sem cupom)",
-            "href": "https://meli.la/1t3kn5d",
+            "label": "Ver a loja oficial no Mercado Livre",
+            "href": "https://meli.la/29nSHmD",
             "sponsored": true
           },
           {
-            "label": "Ir ao site da Cléa com o cupom",
+            "label": "Ver o catálogo completo no site, com o cupom",
             "href": "https://www.cleastore.com.br/",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "Conta com cupom e cashback",
+        "heading": "Cupom e cashback no site",
         "paragraphs": [
-          "O cupom CSEMCASACOMCECILIA tira 10% do preço de venda no site, em todas as formas de pagamento. Ele soma com as promoções e com o cashback da loja, não vale no Mercado Livre e se aplica no carrinho. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20. As condições do cupom estão na [página do cupom da Cléa Store](/cupons/clea-store).",
-          "O cashback é um programa da própria loja e soma com o cupom. No pedido de teste de 14/10/2026, ele gerou R$ 23,22 sobre o valor pago de R$ 232,20. O valor só entra na conta quando a loja credita, e essa leitura não foi refeita hoje. Se o mesmo cashback valer para o kit Intense, o preço líquido fica em cerca de R$ 208,98, ainda R$ 79,08 acima do anúncio do Mercado Livre.",
-          "O frete é outra conta. No site, o frete é grátis acima de R$ 599 (faixa lida em 14/10/2026); abaixo disso, a loja cobra, e o valor não entra nas contas deste texto. Um kit com o cupom (R$ 232,20) fica abaixo desse valor, então o frete do site conta. No Mercado Livre, o frete é grátis nos anúncios de t-shirts e bodies lidos hoje."
+          "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom em 14/10/2026: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
+          "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na [página do cupom](/cupons/clea-store)."
         ],
         "images": [
           {
@@ -101153,82 +101181,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que só o site tem",
+        "heading": "Antes de comprar no Mercado Livre",
         "paragraphs": [
-          "As t-shirts e os bodies estão nos dois lados. O resto do catálogo, a alfaiataria inclusive, está só no site. O que lemos em 20/10/2026:"
-        ],
-        "bullets": [
-          "**Alfaiataria e o resto do catálogo:** blazers, calças e coletes. Na busca \"clea store blazer\", o Mercado Livre não trouxe nenhum blazer, colete nem calça de alfaiataria da Cléa (leitura de 20/10/2026).",
-          "**Provador virtual e tabela de medidas:** a página de cada produto do site traz a tabela de medidas do corpo (busto, cintura e quadril) e o Provador Virtual, do Sizebay. Na t-shirt oversized, por exemplo, o P vai de 82 a 90 cm de busto e o M de 88 a 96 cm (página de produto, 20/10/2026).",
-          "**Cupom:** CSEMCASACOMCECILIA dá 10% OFF em todo o site, com todas as formas de pagamento. O cupom foi testado pela equipe em 14/10/2026. Ele não vale no Mercado Livre (regra do próprio cupom).",
-          "**Cashback:** a loja tem um programa de cashback que soma com o cupom. No teste de 14/10/2026, o pedido de R$ 232,20 gerou R$ 23,22 de cashback. O cashback só conta quando é creditado.",
-          "**Devolução:** a devolução é grátis."
-        ],
-        "postParagraphs": [
-          "Para a política completa da loja e o que a equipe conferiu sobre ela, veja [a análise da Cléa Store](/reviews/clea-store-e-confiavel)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
-            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
-            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6669
-          }
+          "Confira se o vendedor é Clea Oficial. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns do exterior, e eles não são da loja. O botão do Mercado Livre deste texto leva direto à loja oficial.",
+          "No Mercado Livre, a troca e a devolução seguem as regras da plataforma e do anúncio, e o cupom do site não entra. A devolução grátis da Cléa vale nas compras feitas no site. Se quiser saber mais sobre a loja antes de comprar, veja [se a Cléa Store é confiável](/reviews/clea-store-e-confiavel)."
         ]
       },
       {
-        "heading": "Quando comprar no Mercado Livre",
-        "paragraphs": [
-          "Estes são os anúncios do vendedor \"Clea Oficial\" lidos em 20/10/2026, com o preço de venda do site ao lado (site também em 20/10/2026):"
-        ],
+        "heading": "Como escolher",
         "bullets": [
-          "Kit 3 t-shirts Oversized Intense: R$ 129,90, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
-          "Kit 3 t-shirts Oversized Colorful: R$ 133,74, frete grátis. No site, R$ 258,00, ou R$ 232,20 com o cupom.",
-          "T-shirt Oversized de algodão, avulsa: R$ 62,70 no Pix (ou 3x de R$ 22). No site, R$ 129,00, ou R$ 116,10 com o cupom.",
-          "Body Regata Second Skin Duplo: R$ 82,65 no Pix (ou 3x de R$ 29). No site, R$ 127,20, ou R$ 114,48 com o cupom.",
-          "Body Gola Alta Manga Longa: R$ 89,00 (3x de R$ 29,67). No site, R$ 135,20, ou R$ 121,68 com o cupom."
-        ],
-        "postParagraphs": [
-          "Nos kits Intense e Colorful, na t-shirt avulsa e nos bodies Duplo e Gola Alta, o Mercado Livre saiu abaixo do site com o cupom neste dia. Na avulsa e no Body Duplo, o número do Mercado Livre é o preço no Pix; nos kits, é o preço do cartão. O cupom não entra no Mercado Livre, então a conta é só o preço do anúncio.",
-          "Antes de comprar, confira que o vendedor é **Clea Oficial**. Há anúncios de outros vendedores com \"Cléa Store\" no título, alguns internacionais. Esses não são da loja e ficam fora desta conta. A troca e a devolução no Mercado Livre seguem as regras da plataforma e do anúncio; não lemos a política desse vendedor nesta leitura, então confira no anúncio antes de pagar."
-        ]
-      },
-      {
-        "heading": "Quando comprar no site",
-        "paragraphs": [
-          "São três casos. Primeiro, a alfaiataria: o blazer oversized de alfaiataria bordô está R$ 524,30 no site (preço de venda em 20/10/2026), ou R$ 471,87 com o cupom, e o Mercado Livre não tem blazer da Cléa. Para montar um look com ele, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store).",
-          "Segundo, o kit Classic. No Mercado Livre, ele está R$ 387,00 sem desconto hoje. No site, o kit está R$ 258,00 de venda (R$ 232,20 com o cupom), em 20/10/2026. Aqui o site ganha.",
-          "Terceiro, quem quer usar o cupom e ganhar cashback no mesmo pedido, além de contar com o provador e a tabela de medidas da página do produto. Para aplicar o cupom no checkout, veja o [passo a passo do cupom da Cléa Store](/reviews/cupom-clea-store-como-usar). Em 14/10/2026, o site anunciava frete grátis acima de R$ 599; abaixo disso, o frete é calculado no carrinho. Esse valor não entra nas contas desta página, então confira no carrinho."
-        ]
-      },
-      {
-        "heading": "Como escolher em 30 segundos",
-        "bullets": [
-          "**T-shirt avulsa e kit Intense ou Colorful:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Kit Classic:** site.",
-          "**Body Duplo:** Mercado Livre, no Pix, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Body Gola Alta:** Mercado Livre, se o anúncio do dia continuar abaixo do site com o cupom.",
-          "**Os outros modelos de body:** compare o anúncio com o carrinho do site. Para escolher o modelo, veja [qual body escolher](/reviews/body-clea-store-second-skin-qual-escolher).",
-          "**Blazer, calça e colete:** site.",
-          "**Quer cupom, cashback e devolução grátis no mesmo pedido:** site."
+          "Quer só a t-shirt avulsa, o Kit Intense, o Kit Colorful, o Body Duplo ou o Body Gola Alta: compare com o Mercado Livre, que em 20/10/2026 saía mais barato que o site com o cupom.",
+          "Quer o Kit Classic: o site saía R$ 154,80 mais barato.",
+          "Quer outro modelo de body, outra cor, o Kit Brazil Edition, o Monte Seu Kit ou qualquer peça de alfaiataria: site, porque essas peças não estão no Mercado Livre.",
+          "Quer cupom, cashback e devolução grátis no mesmo pedido: site."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no checkout do site oficial, e no Mercado Livre vale o preço do anúncio.",
-          "A Cléa Store tem frete grátis? Sim, acima de R$ 599, segundo a faixa anunciada em 14/10/2026. Abaixo disso, o frete é calculado no carrinho.",
-          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback foi calculado sobre o valor já com o desconto do cupom.",
-          "O preço do Mercado Livre é o mesmo do site? Não, e muda. Em 20/10/2026, a t-shirt e o Body Duplo estavam mais baratos no Mercado Livre, mas o preço pode mudar; confira os dois antes de comprar."
+          "O cupom CSEMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site oficial da Cléa Store; no Mercado Livre vale o preço do anúncio.",
+          "Quais peças da Cléa Store estão no Mercado Livre? Em 20/10/2026 eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
+          "O Mercado Livre é sempre mais barato? Não. Em 20/10/2026, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
+          "A Cléa Store tem frete grátis? No site, acima de R$ 599, segundo o valor lido em 14/10/2026. Os anúncios do Mercado Livre lidos em 20/10/2026 tinham frete grátis.",
+          "O cashback soma com o cupom? Sim. No teste de 14/10/2026, o cashback saiu sobre o valor já com o desconto do cupom."
         ]
       },
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "Os preços deste artigo foram lidos no site da Cléa Store e no Mercado Livre em 20/10/2026. Eles mudam de um dia para o outro: confira antes de comprar.",
-          "Podemos receber comissão quando você compra pelo cupom do site, pelo link da loja ou pelo link do Mercado Livre. Isso não muda o preço para você.",
-          "Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
+          "Os preços foram lidos no site da Cléa Store e na loja oficial do Mercado Livre em 20/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
+          "Podemos receber comissão quando você compra no site com o cupom ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém do site vestiu as peças citadas. O cupom foi testado em 14/10/2026."
         ]
       }
     ],

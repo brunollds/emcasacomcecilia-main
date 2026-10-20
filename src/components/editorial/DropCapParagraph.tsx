@@ -20,9 +20,16 @@ export function DropCapParagraph({
   const trimmed = text.trim();
   if (trimmed.length === 0) return <p className={className} />;
 
+  const ink = variant === 'd2' ? { text: 'text-marinho', cap: 'text-marinho' } : { text: 'text-[#24313d]', cap: 'text-[#1a4d2e]' };
+
+  // Parágrafo que abre com markdown (`**negrito**`, `[link](…)`) fica sem capitular: tirar o primeiro
+  // caractere quebraria a marcação e deixaria o asterisco ou o colchete à vista.
+  if (/^[*[]/.test(trimmed)) {
+    return <p className={`mb-4 font-editorial text-lg leading-8 ${ink.text} last:mb-0 ${className}`}>{renderText ? renderText(trimmed) : trimmed}</p>;
+  }
+
   const firstLetter = trimmed.charAt(0);
   const rest = trimmed.slice(1);
-  const ink = variant === 'd2' ? { text: 'text-marinho', cap: 'text-marinho' } : { text: 'text-[#24313d]', cap: 'text-[#1a4d2e]' };
 
   return (
     <p className={`mb-4 font-editorial text-lg leading-8 ${ink.text} last:mb-0 ${className}`}>
