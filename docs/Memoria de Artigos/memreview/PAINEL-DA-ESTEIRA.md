@@ -9,6 +9,10 @@
 - [ ] [[black-skull-ou-dux]] — série contra a Dux; whey 80% HD refil × Concentrado 900 g, 100% HD 1,8 kg × Concentrado 1,8 kg, creatina (20/10/2026)
 - [ ] [[max-titanium-ou-dux]] — série contra a Dux; três pares de whey, creatina e Creapure, multivitamínico e pré-treino (20/10/2026)
 - [ ] [[probiotica-ou-dux]] — série contra a Dux; 100% Pure Whey 900 g (e refil) × Concentrado, creatina 300 g (20/10/2026)
+- [ ] [[mais-mu-e-confiavel]] — onboarding da Mais Mu; reputação recente direta, CNPJ desde 2014 (20/10/2026)
+- [ ] [[mais-mu-reclame-aqui-nota-reputacao]] — onboarding da Mais Mu; 6 meses, 12 meses e geral lidos no navegador (20/10/2026)
+- [ ] [[cupom-mais-mu-como-usar]] — onboarding da Mais Mu; MMEMCASACOMCECILIA, Pix, Mercado Livre (20/10/2026)
+- [ ] [[black-friday-mais-mu]] — guia sem prometer desconto da loja; fim da lista de `home-events.json` (20/10/2026)
 
 ---
 
