@@ -26,19 +26,22 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pelo preço no cartão em 18/10/2026, a Black Skull sai mais barata no whey e na creatina."
+      ],
       "bullets": [
-        "**Whey:** sem cupom, o Whey 100% HD da Black Skull e o Whey Concentrado da Growth no Pix praticamente empatam: **R$ 26,66 e R$ 26,34 por 100 g de proteína**. Com o CECILIA10, a Black Skull cai para R$ 23,99. O Whey 80% HD da Black Skull, que tem a mesma dose do whey da Growth, sai a R$ 23,17 sem cupom.",
-        "**Creatina:** a Black Skull sai mais barata por grama em todas as embalagens. O Creator refil de 500 g custa **R$ 7,98 por 100 g** de creatina, contra R$ 14,98 do refil de 500 g da Growth no Pix.",
-        "**Cupom:** o **CECILIA10** dá 10% em todo o site da Black Skull, em todas as formas de pagamento, e soma com as promoções. A Growth não tem cupom nosso. Na Growth, o Pix sai cerca de 10% mais barato que o cartão; na Black Skull, o preço é o mesmo no Pix, no boleto e no cartão."
+        "**Whey:** o Whey 80% HD da Black Skull sai a R$ 23,17 por 100 g de proteína, contra R$ 29,26 do Whey Concentrado da Growth.",
+        "**Creatina:** o Creator refil de 500 g sai a R$ 7,98 por 100 g, contra R$ 16,64 do refil de 500 g da Growth.",
+        "**Cupom:** o **CECILIA10** tira mais 10% de qualquer item da Black Skull. A Growth não tem cupom nosso."
       ],
       "postParagraphs": [
-        "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+        "No Pix, a Growth fica cerca de 10% mais barata, e o whey dela quase empata com o 100% HD da Black Skull: R$ 26,34 contra R$ 26,66 por 100 g de proteína. Na Black Skull, o preço é o mesmo no Pix, no boleto e no cartão."
       ]
     },
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes.",
+        "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
         "As contas são nossas, arredondadas no centavo:"
       ],
       "bullets": [
@@ -54,59 +57,50 @@
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "Preços de 18/10/2026, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
+        "Preços de 18/10/2026 no cartão, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
-          "Ingredientes de proteína",
-          "Proteína por porção",
+          "Proteína por dose",
           "Porções",
-          "Preço",
-          "Por dose",
-          "Por 100 g de proteína"
+          "Cartão",
+          "Por 100 g de proteína (cartão)"
         ],
         "rows": [
           [
             "Black Skull Whey 100% HD 1,8 kg",
-            "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
             "21 g em 35 g",
             "50",
             "R$ 279,90",
-            "R$ 5,60",
             "R$ 26,66"
           ],
           [
             "Black Skull Whey 100% HD refil 900 g",
-            "os mesmos",
             "21 g em 35 g",
             "25",
             "R$ 139,90",
-            "R$ 5,60",
             "R$ 26,65"
           ],
           [
             "Black Skull Whey 80% HD refil 900 g",
-            "WPC",
             "23 g em 30 g",
             "30",
             "R$ 159,90 (banana: R$ 139,90)",
-            "R$ 5,33",
             "R$ 23,17 (banana: R$ 20,28)"
           ],
           [
             "Growth Whey Protein Concentrado 1 kg",
-            "WPC",
             "23 g em 30 g (24 g no Natural)",
             "33",
-            "R$ 199,90 no Pix; R$ 222,11 no cartão",
-            "R$ 6,06 no Pix",
-            "R$ 26,34 no Pix; R$ 29,26 no cartão"
+            "R$ 222,11",
+            "R$ 29,26"
           ]
         ]
       },
       "postParagraphs": [
-        "WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. As 33 porções da Growth são as da tabela, que diz \"cerca de 33\" em 1 kg."
+        "No Pix, a Growth sai por R$ 199,90, ou R$ 26,34 por 100 g de proteína. Com o CECILIA10, o 80% HD cai para R$ 20,86 e o 100% HD de 1,8 kg, para R$ 23,99.",
+        "O 100% HD mistura WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH; o 80% HD e o whey da Growth são WPC. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. As 33 porções da Growth são as da tabela, que diz \"cerca de 33\" em 1 kg."
       ]
     },
     {
@@ -151,7 +145,7 @@
     {
       "heading": "Creatina: preço por 100 g nas duas lojas",
       "paragraphs": [
-        "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026, sem o cupom."
+        "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026 no cartão, sem o cupom."
       ],
       "images": [
         {
@@ -173,56 +167,50 @@
         "headers": [
           "Produto",
           "Doses de 5 g",
-          "Preço",
-          "Por dose",
-          "Por 100 g de creatina"
+          "Cartão",
+          "Por 100 g (cartão)"
         ],
         "rows": [
           [
             "Black Skull Creator refil 500 g",
             "100",
             "R$ 39,90 (de R$ 59,90)",
-            "R$ 0,40",
-            "R$ 7,98 (de lista: R$ 11,98)"
+            "R$ 7,98"
           ],
           [
             "Black Skull Creator 300 g",
             "60",
             "R$ 29,90 (de R$ 49,90)",
-            "R$ 0,50",
-            "R$ 9,97 (de lista: R$ 16,63)"
+            "R$ 9,97"
           ],
           [
             "Black Skull Creatine 300 g sem sabor",
             "60",
             "R$ 41,90 (de R$ 49,90)",
-            "R$ 0,70",
             "R$ 13,97"
           ],
           [
             "Growth Creatina refil 500 g",
             "100",
-            "R$ 74,90 no Pix; R$ 83,22 no cartão",
-            "R$ 0,75 no Pix",
-            "R$ 14,98 no Pix; R$ 16,64 no cartão"
+            "R$ 83,22",
+            "R$ 16,64"
           ],
           [
             "Growth Creatina 500 g (pote)",
             "100",
-            "R$ 84,90 no Pix; R$ 94,33 no cartão",
-            "R$ 0,85 no Pix",
-            "R$ 16,98 no Pix; R$ 18,87 no cartão"
+            "R$ 94,33",
+            "R$ 18,87"
           ],
           [
             "Growth Creatina 250 g (pote)",
             "50",
-            "R$ 44,90 no Pix; R$ 49,88 no cartão",
-            "R$ 0,90 no Pix",
-            "R$ 17,96 no Pix; R$ 19,95 no cartão"
+            "R$ 49,88",
+            "R$ 19,95"
           ]
         ]
       },
       "postParagraphs": [
+        "No Pix, a Growth cai para R$ 14,98 por 100 g no refil de 500 g, R$ 16,98 no pote de 500 g e R$ 17,96 no de 250 g. Sem a promoção, o Creator refil sairia a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63.",
         "Com o CECILIA10, o Creator refil de 500 g sai por R$ 35,91, ou R$ 7,18 por 100 g de creatina, e o Creator de 300 g, por R$ 26,91, ou R$ 8,97 por 100 g."
       ]
     },

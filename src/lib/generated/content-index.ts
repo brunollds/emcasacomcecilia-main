@@ -89701,19 +89701,22 @@ export const reviewsData: unknown[] = [
     "contentSections": [
       {
         "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço no cartão em 18/10/2026, a Black Skull sai mais barata no whey e na creatina."
+        ],
         "bullets": [
-          "**Whey:** sem cupom, o Whey 100% HD da Black Skull e o Whey Concentrado da Growth no Pix praticamente empatam: **R$ 26,66 e R$ 26,34 por 100 g de proteína**. Com o CECILIA10, a Black Skull cai para R$ 23,99. O Whey 80% HD da Black Skull, que tem a mesma dose do whey da Growth, sai a R$ 23,17 sem cupom.",
-          "**Creatina:** a Black Skull sai mais barata por grama em todas as embalagens. O Creator refil de 500 g custa **R$ 7,98 por 100 g** de creatina, contra R$ 14,98 do refil de 500 g da Growth no Pix.",
-          "**Cupom:** o **CECILIA10** dá 10% em todo o site da Black Skull, em todas as formas de pagamento, e soma com as promoções. A Growth não tem cupom nosso. Na Growth, o Pix sai cerca de 10% mais barato que o cartão; na Black Skull, o preço é o mesmo no Pix, no boleto e no cartão."
+          "**Whey:** o Whey 80% HD da Black Skull sai a R$ 23,17 por 100 g de proteína, contra R$ 29,26 do Whey Concentrado da Growth.",
+          "**Creatina:** o Creator refil de 500 g sai a R$ 7,98 por 100 g, contra R$ 16,64 do refil de 500 g da Growth.",
+          "**Cupom:** o **CECILIA10** tira mais 10% de qualquer item da Black Skull. A Growth não tem cupom nosso."
         ],
         "postParagraphs": [
-          "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+          "No Pix, a Growth fica cerca de 10% mais barata, e o whey dela quase empata com o 100% HD da Black Skull: R$ 26,34 contra R$ 26,66 por 100 g de proteína. Na Black Skull, o preço é o mesmo no Pix, no boleto e no cartão."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes.",
+          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -89729,59 +89732,50 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
+          "Preços de 18/10/2026 no cartão, sem o cupom. Na Black Skull, o preço vale para qualquer forma de pagamento."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Ingredientes de proteína",
-            "Proteína por porção",
+            "Proteína por dose",
             "Porções",
-            "Preço",
-            "Por dose",
-            "Por 100 g de proteína"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
               "Black Skull Whey 100% HD 1,8 kg",
-              "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
               "21 g em 35 g",
               "50",
               "R$ 279,90",
-              "R$ 5,60",
               "R$ 26,66"
             ],
             [
               "Black Skull Whey 100% HD refil 900 g",
-              "os mesmos",
               "21 g em 35 g",
               "25",
               "R$ 139,90",
-              "R$ 5,60",
               "R$ 26,65"
             ],
             [
               "Black Skull Whey 80% HD refil 900 g",
-              "WPC",
               "23 g em 30 g",
               "30",
               "R$ 159,90 (banana: R$ 139,90)",
-              "R$ 5,33",
               "R$ 23,17 (banana: R$ 20,28)"
             ],
             [
               "Growth Whey Protein Concentrado 1 kg",
-              "WPC",
               "23 g em 30 g (24 g no Natural)",
               "33",
-              "R$ 199,90 no Pix; R$ 222,11 no cartão",
-              "R$ 6,06 no Pix",
-              "R$ 26,34 no Pix; R$ 29,26 no cartão"
+              "R$ 222,11",
+              "R$ 29,26"
             ]
           ]
         },
         "postParagraphs": [
-          "WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. As 33 porções da Growth são as da tabela, que diz \"cerca de 33\" em 1 kg."
+          "No Pix, a Growth sai por R$ 199,90, ou R$ 26,34 por 100 g de proteína. Com o CECILIA10, o 80% HD cai para R$ 20,86 e o 100% HD de 1,8 kg, para R$ 23,99.",
+          "O 100% HD mistura WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH; o 80% HD e o whey da Growth são WPC. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada. As 33 porções da Growth são as da tabela, que diz \"cerca de 33\" em 1 kg."
         ]
       },
       {
@@ -89826,7 +89820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026, sem o cupom."
+          "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços de 18/10/2026 no cartão, sem o cupom."
         ],
         "images": [
           {
@@ -89848,56 +89842,50 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Produto",
             "Doses de 5 g",
-            "Preço",
-            "Por dose",
-            "Por 100 g de creatina"
+            "Cartão",
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
               "Black Skull Creator refil 500 g",
               "100",
               "R$ 39,90 (de R$ 59,90)",
-              "R$ 0,40",
-              "R$ 7,98 (de lista: R$ 11,98)"
+              "R$ 7,98"
             ],
             [
               "Black Skull Creator 300 g",
               "60",
               "R$ 29,90 (de R$ 49,90)",
-              "R$ 0,50",
-              "R$ 9,97 (de lista: R$ 16,63)"
+              "R$ 9,97"
             ],
             [
               "Black Skull Creatine 300 g sem sabor",
               "60",
               "R$ 41,90 (de R$ 49,90)",
-              "R$ 0,70",
               "R$ 13,97"
             ],
             [
               "Growth Creatina refil 500 g",
               "100",
-              "R$ 74,90 no Pix; R$ 83,22 no cartão",
-              "R$ 0,75 no Pix",
-              "R$ 14,98 no Pix; R$ 16,64 no cartão"
+              "R$ 83,22",
+              "R$ 16,64"
             ],
             [
               "Growth Creatina 500 g (pote)",
               "100",
-              "R$ 84,90 no Pix; R$ 94,33 no cartão",
-              "R$ 0,85 no Pix",
-              "R$ 16,98 no Pix; R$ 18,87 no cartão"
+              "R$ 94,33",
+              "R$ 18,87"
             ],
             [
               "Growth Creatina 250 g (pote)",
               "50",
-              "R$ 44,90 no Pix; R$ 49,88 no cartão",
-              "R$ 0,90 no Pix",
-              "R$ 17,96 no Pix; R$ 19,95 no cartão"
+              "R$ 49,88",
+              "R$ 19,95"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, a Growth cai para R$ 14,98 por 100 g no refil de 500 g, R$ 16,98 no pote de 500 g e R$ 17,96 no de 250 g. Sem a promoção, o Creator refil sairia a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63.",
           "Com o CECILIA10, o Creator refil de 500 g sai por R$ 35,91, ou R$ 7,18 por 100 g de creatina, e o Creator de 300 g, por R$ 26,91, ou R$ 8,97 por 100 g."
         ]
       },
@@ -90063,20 +90051,22 @@ export const reviewsData: unknown[] = [
     "contentSections": [
       {
         "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço no cartão em 18/10/2026, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico."
+        ],
         "bullets": [
-          "**Whey:** a Growth Whey Concentrado 1 kg é a mais barata por 100 g de proteína no Pix, a R$ 26,34 (preço de 18/10/2026). O 100% Whey Refil da Max, com o cupom no teto, fica em R$ 27,21. No isolado, o IsoWhey 900 g da Max com o cupom (R$ 36,51) fica abaixo da Growth (R$ 39,27 no Pix); sem cupom, a Max fica um pouco acima.",
-          "**Creatina:** sem cupom, a Growth refil de 500 g é a mais barata por grama, a R$ 14,98 por 100 g no Pix. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96).",
-          "**Hipercalórico:** a Max leva a menor conta por 1.000 kcal nos dois tamanhos. O Mass Titanium 17500 Refil 3 kg sai a R$ 9,81 no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
-          "**Cupom:** o MAX10EMCASACOMCECILIA dá até 10% no site da Max, e o percentual varia por produto. A Growth não tem cupom nosso."
+          "**Whey:** o Whey Concentrado da Growth sai a R$ 29,26 por 100 g de proteína, contra R$ 31,17 do 100% Whey Refil da Max. No isolado, o IsoWhey da Max fica abaixo: R$ 41,82 contra R$ 43,63.",
+          "**Creatina:** o refil de 500 g da Growth sai a R$ 16,64 por 100 g, contra R$ 17,51 do pote de 500 g da Max.",
+          "**Hipercalórico:** o Mass Titanium 17500 de 3 kg sai a R$ 10,11 por 1.000 kcal, contra R$ 16,71 do Big Mass Pro da Growth."
         ],
         "postParagraphs": [
-          "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% na Max, e o percentual varia por produto. A Growth não tem cupom nosso, mas faz o Pix cerca de 10% abaixo do cartão; a Max, cerca de 3%. Abaixo de cada tabela estão as contas no Pix e com o cupom."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
+          "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -90086,7 +90076,7 @@ export const reviewsData: unknown[] = [
           "**preço por 1.000 kcal:** preço ÷ (porções × kcal por porção) × 1.000."
         ],
         "postParagraphs": [
-          "A coluna \"com cupom\" é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
+          "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
           "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
           "Ficaram de fora sabor, dissolução e digestão: não provamos nenhum produto, e não usamos avaliações de clientes. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
         ]
@@ -90094,45 +90084,42 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026, no Pix e no cartão, e o teto com o cupom."
+          "Preços de 18/10/2026 no cartão, sem o cupom."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Dose e proteína",
             "Porções",
-            "Preço Pix",
-            "Por 100 g de proteína (Pix / cartão)",
-            "Com cupom (por 100 g)"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
               "Max 100% Whey Refil 900 g (WPC)",
               "30 g, 21 g de proteína",
               "30",
-              "R$ 190,50",
-              "R$ 30,24 / R$ 31,17",
-              "R$ 27,21"
+              "R$ 196,39",
+              "R$ 31,17"
             ],
             [
               "Max Top Whey 3W + Performance 900 g",
               "40 g, 32 g de proteína",
               "cerca de 23",
-              "R$ 265,34",
-              "R$ 36,05 / R$ 37,17",
-              "R$ 32,45"
+              "R$ 273,55",
+              "R$ 37,17"
             ],
             [
               "Growth Whey Concentrado 1 kg (sabores)",
               "30 g, 23 g de proteína",
               "cerca de 33",
-              "R$ 199,90",
-              "R$ 26,34 / R$ 29,26",
-              "não se aplica"
+              "R$ 222,11",
+              "R$ 29,26"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, a conta por 100 g de proteína fica em R$ 30,24 no Refil, R$ 36,05 no 3W e R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21 e o 3W, para R$ 32,45.",
           "A dose muda de uma loja para a outra: na Max, 30 g dão 21 g de proteína no Refil e 40 g dão 32 g no 3W; na Growth, 30 g dão 23 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
           "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ],
@@ -90172,31 +90159,28 @@ export const reviewsData: unknown[] = [
             "Produto",
             "Dose e proteína",
             "Porções",
-            "Preço Pix",
-            "Por 100 g de proteína (Pix / cartão)",
-            "Com cupom (por 100 g)"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
               "Max IsoWhey 900 g",
               "30 g, 26 g de proteína",
               "30",
-              "R$ 316,39",
-              "R$ 40,56 / R$ 41,82",
-              "R$ 36,51"
+              "R$ 326,18",
+              "R$ 41,82"
             ],
             [
               "Growth (TOP) Whey Protein Isolado 1 kg",
               "30 g, 27 g de proteína",
               "cerca de 33",
-              "R$ 349,90",
-              "R$ 39,27 / R$ 43,63",
-              "não se aplica"
+              "R$ 388,77",
+              "R$ 43,63"
             ]
           ]
         },
         "postParagraphs": [
-          "Sem cupom, a Growth sai um pouco mais barata por 100 g de proteína no Pix (R$ 39,27 contra R$ 40,56). Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
+          "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai um pouco mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
         ],
         "images": [
           {
@@ -90211,65 +90195,51 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por grama nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026."
+          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026 no cartão, sem o cupom."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Tamanho e doses",
-            "Preço Pix",
-            "Preço cartão",
-            "Por 100 g (Pix / cartão)",
-            "Com cupom (por 100 g)"
+            "Cartão",
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
               "Max Creatina 300 g",
               "300 g, 60 doses",
-              "R$ 56,02",
               "R$ 59,90",
-              "R$ 18,67 / R$ 19,97",
-              "R$ 16,81"
+              "R$ 19,97"
             ],
             [
               "Max Creatina 500 g (pote)",
               "500 g, 100 doses",
-              "R$ 84,90",
               "R$ 87,53",
-              "R$ 16,98 / R$ 17,51",
-              "R$ 15,28"
+              "R$ 17,51"
             ],
             [
               "Max Pack 2 x Creatina 500 g",
               "1 kg, 200 doses",
-              "R$ 169,81",
               "R$ 175,06",
-              "R$ 16,98 / R$ 17,51",
-              "R$ 15,28"
+              "R$ 17,51"
             ],
             [
               "Growth Creatina 250 g",
               "250 g, 50 doses",
-              "R$ 44,90",
               "R$ 49,88",
-              "R$ 17,96 / R$ 19,95",
-              "não se aplica"
+              "R$ 19,95"
             ],
             [
               "Growth Creatina 500 g (pote)",
               "500 g, 100 doses",
-              "R$ 84,90",
               "R$ 94,33",
-              "R$ 16,98 / R$ 18,87",
-              "não se aplica"
+              "R$ 18,87"
             ],
             [
               "Growth Creatina 500 g (refil pouch)",
               "500 g, 100 doses",
-              "R$ 74,90",
               "R$ 83,22",
-              "R$ 14,98 / R$ 16,64",
-              "não se aplica"
+              "R$ 16,64"
             ]
           ]
         },
@@ -90302,53 +90272,44 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Porção e porções",
-            "kcal por porção",
+            "Porção, porções e kcal",
             "Proteína e carboidrato por porção",
-            "Preço Pix",
-            "Por 1.000 kcal (Pix / cartão)",
-            "Com cupom (por 1.000 kcal)"
+            "Cartão",
+            "Por 1.000 kcal (cartão)"
           ],
           "rows": [
             [
               "Max Mass Titanium 17500 Refil 1,4 kg (baunilha)",
-              "160 g, cerca de 9",
-              "619",
+              "160 g, cerca de 9, 619 kcal",
               "17 g e 135 g",
-              "R$ 67,79",
-              "R$ 12,17 / R$ 12,55",
-              "R$ 10,95"
+              "R$ 69,89",
+              "R$ 12,55"
             ],
             [
               "Growth Hiper Mass 1 kg (chocolate)",
-              "170 g, cerca de 6",
-              "615",
+              "170 g, cerca de 6, 615 kcal",
               "37 g e 108 g",
-              "R$ 54,90",
-              "R$ 14,88 / R$ 16,53",
-              "não se aplica"
+              "R$ 61,00",
+              "R$ 16,53"
             ],
             [
               "Max Mass Titanium 17500 Refil 3 kg (baunilha)",
-              "160 g, cerca de 19",
-              "619",
+              "160 g, cerca de 19, 619 kcal",
               "17 g e 135 g",
-              "R$ 115,32",
-              "R$ 9,81 / R$ 10,11",
-              "R$ 8,82"
+              "R$ 118,89",
+              "R$ 10,11"
             ],
             [
               "Growth Big Mass Pro 3 kg",
-              "160 g, cerca de 19",
-              "591",
+              "160 g, cerca de 19, 591 kcal",
               "22 g e 100 g",
-              "R$ 168,90",
-              "R$ 15,04 / R$ 16,71",
-              "não se aplica"
+              "R$ 187,66",
+              "R$ 16,71"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. Com o cupom no teto, sobre o Pix, a Max cai para R$ 10,95 e R$ 8,82.",
           "As contas usam as calorias de cada porção e o número de porções que a embalagem informa (\"cerca de\" na Max e na Growth), por isso são aproximadas. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
         ],
         "images": [
@@ -90508,16 +90469,22 @@ export const reviewsData: unknown[] = [
     "contentSections": [
       {
         "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço no cartão em 18/10/2026, a Growth sai mais barata no whey e na creatina."
+        ],
         "bullets": [
-          "**Whey:** a Growth concentrada sai mais barata por 100 g de proteína: R$ 26,34 no Pix. Os potes da Probiótica ficam entre R$ 35,56 e R$ 40,82 no Pix, e entre R$ 32,01 e R$ 36,74 no teto do cupom. Mesmo com o cupom, a Growth é mais barata.",
-          "**Creatina:** a Growth de 500 g em refil é a mais barata, com R$ 14,98 por 100 g no Pix. A Probiótica de 300 g fica em R$ 18,97 no Pix e, no teto do cupom, em R$ 17,07: abaixo da Growth de 250 g (R$ 17,96 no Pix), mas só com o cupom no teto.",
-          "**Probiótica:** entra pela linha Zero Lactose, pelos sabores que a página do pote lista e pelo cupom. A Growth não tem cupom nesta conta. Preços de 18/10/2026; eles mudam."
+          "**Whey:** o Whey Concentrado da Growth sai a R$ 29,26 por 100 g de proteína; o mais barato da Probiótica, o Zero Lactose, a R$ 36,66.",
+          "**Creatina:** o refil de 500 g da Growth sai a R$ 16,64 por 100 g; a creatina de 300 g da Probiótica, a R$ 19,97.",
+          "**Cupom:** o PRO10EMCASACOMCECILIA dá até 10% na Probiótica, mas a Growth segue mais barata no whey e no refil de creatina."
+        ],
+        "postParagraphs": [
+          "No Pix, a Growth fica cerca de 10% abaixo do cartão, e a Probiótica, de 3% a 5%. A Probiótica entra pela linha Zero Lactose, pelos sabores e pelo cupom."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial em 18/10/2026, sem frete. Na Growth, mostramos o Pix e o cartão, porque são diferentes.",
+          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -90532,58 +90499,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026. O cupom aparece como teto: 10% sobre o preço à vista no Pix, o que dá o maior desconto possível em cada linha."
+          "Preços de 18/10/2026 no cartão, sem o cupom."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Proteína por dose",
             "Porções",
-            "Preço Pix",
-            "Preço cartão",
-            "Por 100 g de proteína (Pix / cartão)",
-            "Com cupom no teto (por 100 g)"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
               "Probiótica 100% Pure Whey pote 900 g, Baunilha",
               "20 g em 30 g",
               "30",
-              "R$ 244,92",
               "R$ 252,49",
-              "R$ 40,82 / R$ 42,08",
-              "R$ 36,74"
+              "R$ 42,08"
             ],
             [
               "Probiótica 100% Pure Whey refil 900 g, Baunilha",
               "20 g em 30 g (tabela)",
               "30",
-              "R$ 228,58",
               "R$ 235,65",
-              "R$ 38,10 / R$ 39,27",
-              "R$ 34,29"
+              "R$ 39,28"
             ],
             [
               "Probiótica Zero Lactose 900 g, Baunilha",
               "22 g em 30 g",
               "30",
-              "R$ 234,71",
               "R$ 241,97",
-              "R$ 35,56 / R$ 36,66",
-              "R$ 32,01"
+              "R$ 36,66"
             ],
             [
               "Growth (TOP) Whey Protein Concentrado 1 kg, sabores",
               "23 g em 30 g",
               "cerca de 33",
-              "R$ 199,90",
               "R$ 222,11",
-              "R$ 26,34 / R$ 29,26",
-              "não se aplica"
+              "R$ 29,26"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote, R$ 38,10 no refil e R$ 35,56 no Zero Lactose da Probiótica, e em R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, os três potes da Probiótica ficam entre R$ 32,01 e R$ 36,74.",
           "A Growth fica abaixo em todas as linhas de whey desta conta. Pelo preço por dose no Pix, o refil da Probiótica (R$ 7,62) fica acima da Growth (R$ 6,06), e o pote, em R$ 8,16. Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
         ],
         "images": [
@@ -90631,53 +90589,39 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Creatina por dose",
-            "Doses",
-            "Preço Pix",
-            "Preço cartão",
-            "Por 100 g (Pix / cartão)",
-            "Com cupom no teto (por 100 g)"
+            "Doses de 5 g",
+            "Cartão",
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
               "Probiótica Creatina Monohidratada Pura 300 g",
-              "5 g (5.000 mg)",
               "60",
-              "R$ 56,90",
               "R$ 59,90",
-              "R$ 18,97 / R$ 19,97",
-              "R$ 17,07"
+              "R$ 19,97"
             ],
             [
               "Growth Creatina Monohidratada 250 g",
-              "5 g",
               "50",
-              "R$ 44,90",
               "R$ 49,88",
-              "R$ 17,96 / R$ 19,95",
-              "não se aplica"
+              "R$ 19,95"
             ],
             [
               "Growth Creatina Monohidratada 500 g, pote",
-              "5 g",
               "100",
-              "R$ 84,90",
               "R$ 94,33",
-              "R$ 16,98 / R$ 18,87",
-              "não se aplica"
+              "R$ 18,87"
             ],
             [
               "Growth Creatina Monohidratada 500 g, refil pouch",
-              "5 g",
               "100",
-              "R$ 74,90",
               "R$ 83,22",
-              "R$ 14,98 / R$ 16,64",
-              "não se aplica"
+              "R$ 16,64"
             ]
           ]
         },
         "postParagraphs": [
+          "Preços de 18/10/2026 no cartão. No Pix, a Probiótica de 300 g sai a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil.",
           "No Pix, a Probiótica de 300 g custa R$ 0,95 por dose; a Growth de 250 g, R$ 0,90; e o refil de 500 g, R$ 0,75. O cupom muda a conta só no teto, e por isso a comparação com a Growth de 250 g depende dele.",
           "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
           "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa."
@@ -102424,22 +102368,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em 20/10/2026, a resposta depende da linha. No whey, a Black Skull 80% HD sai mais barata por grama de proteína que o Whey Protein Concentrado da Dux, com ou sem cupom. Na creatina, o refil da Black Skull sai mais barato por grama que a monohidratada da Dux. A Dux leva a vantagem do selo: declara Creapure na linha própria. Nas páginas da Black Skull que lemos, não há Creapure."
+          "Pelo preço no cartão em 20/10/2026, a Black Skull sai mais barata no whey e na creatina."
         ],
         "bullets": [
-          "Whey: R$ 23,17 por 100 g de proteína no [Whey 80% HD da Black Skull](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p), sem cupom, e R$ 20,86 com o CECILIA10. O Whey Protein Concentrado de 900 g da Dux sai a R$ 61,48 no cartão e R$ 58,41 no Pix.",
-          "Creatina: R$ 7,98 por 100 g no [Creator refil de 500 g da Black Skull](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p), e R$ 7,18 com o cupom. A creatina monohidratada de 300 g da Dux sai a R$ 21,63 no cartão e R$ 20,55 no Pix.",
-          "Creapure: a linha Creapure da Dux, de 300 g, sai a R$ 91,63 por 100 g no cartão e R$ 87,05 no Pix. A Dux diz que o produto é Creapure."
+          "**Whey:** o [Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) sai a R$ 23,17 por 100 g de proteína, contra R$ 61,48 do Whey Protein Concentrado de 900 g da Dux.",
+          "**Creatina:** o [Creator refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) sai a R$ 7,98 por 100 g, contra R$ 21,63 da monohidratada de 300 g da Dux.",
+          "**Creapure:** só a Dux declara o selo, num pote de 300 g a R$ 91,63 por 100 g."
         ],
         "postParagraphs": [
-          "O CECILIA10 dá 10% em todo o site da Black Skull, em todas as formas de pagamento, e soma com as promoções. A Dux não é parceira do site: não há cupom nosso para ela. O Pix da Dux tem 5% de desconto, como mostra a própria página."
+          "O CECILIA10 tira mais 10% de qualquer item da Black Skull, inclusive em promoção. A Dux não é parceira do site e não tem cupom nosso; no Pix, ela dá 5% de desconto."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth). A série contra a Dux tem outros dois textos: [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux).",
-          "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque a diferença entre os dois é de 5%. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
+          "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -102454,58 +102398,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026. A Black Skull aparece com o preço do site, e o CECILIA10 entra na última coluna. A Dux aparece com o cartão e o Pix."
+          "Preços de 20/10/2026 no cartão, sem o cupom. A Black Skull não dá desconto no Pix nas páginas que lemos."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
             "Dose e proteína",
             "Doses",
-            "Preço",
-            "Por dose",
-            "Por 100 g de proteína"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
-              "[Black Skull Whey 80% HD refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
-              "900 g",
-              "30 g, com 23 g de proteína",
+              "[Black Skull Whey 80% HD refil](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p), 900 g",
+              "30 g, 23 g de proteína",
               "30",
               "R$ 159,90",
-              "R$ 5,33",
-              "R$ 23,17; R$ 20,86 com o CECILIA10"
+              "R$ 23,17"
             ],
             [
-              "Dux Whey Protein Concentrado",
-              "900 g",
-              "30 g, com 20 g de proteína",
+              "Dux Whey Protein Concentrado, 900 g",
+              "30 g, 20 g de proteína",
               "30",
-              "R$ 368,90 no cartão; R$ 350,46 no Pix",
-              "R$ 12,30; R$ 11,68 no Pix",
-              "R$ 61,48; R$ 58,41 no Pix"
+              "R$ 368,90",
+              "R$ 61,48"
             ],
             [
-              "[Black Skull Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
-              "1.800 g",
-              "35 g, com 21 g de proteína",
+              "[Black Skull Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p), 1,8 kg",
+              "35 g, 21 g de proteína",
               "50",
               "R$ 279,90",
-              "R$ 5,60",
-              "R$ 26,66; R$ 23,99 com o CECILIA10"
+              "R$ 26,66"
             ],
             [
-              "Dux Whey Protein Concentrado",
-              "1.800 g",
-              "30 g, com 20 g de proteína",
+              "Dux Whey Protein Concentrado, 1,8 kg",
+              "30 g, 20 g de proteína",
               "60",
-              "R$ 647,90 no cartão; R$ 615,51 no Pix",
-              "R$ 10,80; R$ 10,26 no Pix",
-              "R$ 53,99; R$ 51,29 no Pix"
+              "R$ 647,90",
+              "R$ 53,99"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, a Dux sai a R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) por 100 g de proteína. Com o CECILIA10, o 80% HD cai para R$ 20,86 e o 100% HD, para R$ 23,99.",
           "Pelo peso, o pote de 1.800 g da Dux rende 60 doses de 30 g, e cada um dos potes de 900 g rende 30 doses. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada."
         ],
         "images": [
@@ -102524,6 +102459,15 @@ export const reviewsData: unknown[] = [
           "Os dois são só proteína concentrada do soro do leite. A dose da Black Skull tem 23 g de proteína em 30 g de pó; a da Dux, 20 g em 30 g. Sem cupom, o [refil de 900 g do Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) sai a R$ 23,17 por 100 g de proteína. O concentrado da Dux sai a R$ 61,48 no cartão e R$ 58,41 no Pix. A diferença passa de duas vezes.",
           "Com o CECILIA10, o refil da Black Skull sai por R$ 143,91, ou R$ 20,86 por 100 g de proteína.",
           "O 80% HD lista proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose. A Dux diz, na própria página, que o concentrado é 100% proteína, sem blends."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp",
+            "alt": "Embalagens da Black Skull: o refil do Whey 80% HD de 900 g e o pote do Whey 100% HD de 1,8 kg, os dois sabor baunilha",
+            "caption": "Whey 80% HD refil de 900 g e Whey 100% HD de 1,8 kg, nas fotos do site da Black Skull.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
@@ -102544,53 +102488,53 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
-          "Preços de 20/10/2026. Todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
+          "Preços de 20/10/2026 no cartão, sem o cupom. Todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp",
+            "alt": "Embalagens da creatina Creator da Black Skull: o refil de 500 g e o pote de 300 g, sem sabor",
+            "caption": "Creator refil de 500 g e pote de 300 g, nas fotos do site da Black Skull.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
             "Doses (dose)",
-            "Preço",
-            "Por dose",
-            "Por 100 g de creatina"
+            "Cartão",
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
-              "[Black Skull Creator refil](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
-              "500 g",
+              "[Black Skull Creator refil](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p), 500 g",
               "100 (5 g)",
-              "R$ 39,90, de R$ 59,90",
-              "R$ 0,40",
-              "R$ 7,98; R$ 7,18 com o CECILIA10"
+              "R$ 39,90 (de R$ 59,90)",
+              "R$ 7,98"
             ],
             [
-              "[Black Skull Creator](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p)",
-              "300 g",
+              "[Black Skull Creator](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), 300 g",
               "60 (5 g)",
-              "R$ 29,90, de R$ 49,90",
-              "R$ 0,50",
-              "R$ 9,97; R$ 8,97 com o CECILIA10"
+              "R$ 29,90 (de R$ 49,90)",
+              "R$ 9,97"
             ],
             [
-              "Dux Creatina Monohidratada",
-              "300 g",
+              "Dux Creatina Monohidratada, 300 g",
               "60 (5 g)",
-              "R$ 64,90, de R$ 89,90; R$ 61,66 no Pix",
-              "R$ 1,08",
-              "R$ 21,63; R$ 20,55 no Pix"
+              "R$ 64,90 (de R$ 89,90)",
+              "R$ 21,63"
             ],
             [
-              "Dux Creatina 100% Creapure",
-              "300 g",
+              "Dux Creatina 100% Creapure, 300 g",
               "100 (3 g)",
-              "R$ 274,90; R$ 261,16 no Pix",
-              "R$ 2,75",
-              "R$ 91,63; R$ 87,05 no Pix"
+              "R$ 274,90",
+              "R$ 91,63"
             ]
           ]
         },
         "postParagraphs": [
+          "No Pix, a Dux sai a R$ 20,55 (monohidratada) e R$ 87,05 (Creapure) por 100 g. Com o CECILIA10, o Creator refil cai para R$ 7,18 e o de 300 g, para R$ 8,97.",
           "Os dois Creators, o [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) e o [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), estavam em promoção em 20/10/2026. Sem a promoção, o refil de 500 g sai a R$ 11,98 por 100 g, e o de 300 g, a R$ 16,63. As duas ficam abaixo da monohidratada da Dux, de R$ 21,63 no cartão. A contagem de 100 doses do refil vem da página do produto.",
           "A Creator refil de 500 g é a creatina mais barata desta comparação por grama. Por dose, sai a R$ 0,40; a monohidratada da Dux, a R$ 1,08."
         ]
@@ -102765,22 +102709,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em 20/10/2026, a Max sai mais barata no whey, na creatina e no pré-treino por dose. A Dux sai mais barata no multivitamínico por dia, e tem um whey adoçado com stévia e um pré-treino sem linha de cafeína. A conta muda de linha para linha."
+          "Pelo preço no cartão em 20/10/2026, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico."
         ],
         "bullets": [
-          "**Whey:** o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p) sai a R$ 30,24 por 100 g de proteína no Pix, e R$ 27,21 com o cupom no teto. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
-          "**Creatina:** o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) sai a R$ 16,98 por 100 g no Pix, e R$ 15,28 com o cupom. A creatina monohidratada de 300 g da Dux sai a R$ 20,55 no Pix e R$ 21,63 no cartão.",
-          "**Multivitamínico:** o multivitamínico da Dux sai a R$ 0,84 por dia no Pix, com uma cápsula. O [Multimax Complex da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia, com três cápsulas.",
-          "**Pré-treino:** o [Shook, sabor Uva, da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,81 por dose no Pix. O Pre Workout Original da Dux sai a R$ 6,41 por dose no Pix, com 300 mg de cafeína."
+          "**Whey:** o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) sai a R$ 31,17 por 100 g de proteína, contra R$ 61,48 do concentrado de 900 g da Dux.",
+          "**Creatina:** o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) sai a R$ 17,51 por 100 g, contra R$ 21,63 da Dux de 300 g.",
+          "**Multivitamínico:** o da Dux sai a R$ 0,89 por dia, contra R$ 1,91 do [Multimax Complex](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p).",
+          "**Pré-treino:** o [Shook](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,89 por dose, contra R$ 6,75 do Pre Workout Original da Dux."
         ],
         "postParagraphs": [
-          "Os preços são de 20/10/2026, no Pix e no cartão de cada página. O cupom MAX10EMCASACOMCECILIA dá até 10% na Max. A Dux não é parceira do site e não tem cupom nosso."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% na Max. A Dux não é parceira do site e não tem cupom nosso. No Pix, a Max fica cerca de 3% abaixo do cartão, e a Dux, 5%."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque a diferença entre os dois é de 5%. Na Max, o Pix dos produtos desta comparação sai cerca de 3% abaixo do cartão.",
+          "Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3%.",
           "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
@@ -102791,110 +102735,78 @@ export const reviewsData: unknown[] = [
           "**preço por dia:** preço ÷ dias que o pote dura, no multivitamínico."
         ],
         "postParagraphs": [
-          "A coluna \"com cupom\" é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto. Pelo preço do pote, a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. O preço por 100 g de proteína iguala essas diferenças.",
+          "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto. Pelo preço do pote, a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. O preço por 100 g de proteína iguala essas diferenças.",
           "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, preço e regras de compra. Quem tem alguma condição de saúde ou dúvida sobre suplemento deve falar antes com o médico ou o nutricionista."
         ]
       },
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026. Os pares de 900 g são comparados por 100 g de proteína, e o pote de 1,8 kg da Dux entra como linha extra. A última coluna mostra o cupom só nas linhas da Max; a Dux não tem cupom."
+          "Preços de 20/10/2026 no cartão, sem o cupom. Os pares de 900 g são comparados por 100 g de proteína, e o pote de 1,8 kg da Dux entra como linha extra."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
             "Dose e proteína",
             "Doses",
-            "Pix",
             "Cartão",
-            "Por dose (Pix)",
-            "Por 100 g de proteína (Pix / cartão)",
-            "Com cupom (teto, por 100 g)"
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
-              "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) (WPC)",
-              "900 g",
+              "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) (WPC), 900 g",
               "30 g, 21 g de proteína",
               "30",
-              "R$ 190,50",
               "R$ 196,39",
-              "R$ 6,35",
-              "R$ 30,24 / R$ 31,17",
-              "R$ 27,21"
+              "R$ 31,17"
             ],
             [
-              "Dux Whey Protein Concentrado (WPC)",
-              "900 g",
+              "Dux Whey Protein Concentrado (WPC), 900 g",
               "30 g, 20 g de proteína",
               "30",
-              "R$ 350,46",
               "R$ 368,90",
-              "R$ 11,68",
-              "R$ 58,41 / R$ 61,48",
-              "sem cupom"
+              "R$ 61,48"
             ],
             [
-              "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) (WPC, WPI e WPH)",
-              "900 g",
+              "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) (WPC, WPI e WPH), 900 g",
               "40 g, 32 g de proteína",
               "cerca de 23",
-              "R$ 265,34",
               "R$ 273,55",
-              "R$ 11,54",
-              "R$ 36,05 / R$ 37,17",
-              "R$ 32,45"
+              "R$ 37,17"
             ],
             [
-              "Dux FreshWhey (WPC, WPI e WPH)",
-              "900 g",
+              "Dux FreshWhey (WPC, WPI e WPH), 900 g",
               "30 g, 20 g de proteína",
               "30",
-              "R$ 433,11",
               "R$ 455,90",
-              "R$ 14,44",
-              "R$ 72,19 / R$ 75,98",
-              "sem cupom"
+              "R$ 75,98"
             ],
             [
-              "[IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) (WPI)",
-              "900 g",
+              "[IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) (WPI), 900 g",
               "30 g, 26 g de proteína",
               "30",
-              "R$ 316,39",
               "R$ 326,18",
-              "R$ 10,55",
-              "R$ 40,56 / R$ 41,82",
-              "R$ 36,51"
+              "R$ 41,82"
             ],
             [
-              "Dux Whey Protein Isolado (WPI)",
-              "900 g",
+              "Dux Whey Protein Isolado (WPI), 900 g",
               "30 g na conta, 24 g de proteína",
               "30 na conta",
-              "R$ 532,86",
               "R$ 560,90",
-              "R$ 17,76",
-              "R$ 74,01 / R$ 77,90",
-              "sem cupom"
+              "R$ 77,90"
             ],
             [
-              "Dux Whey Protein Concentrado (WPC)",
-              "1,8 kg",
+              "Dux Whey Protein Concentrado (WPC), 1,8 kg",
               "30 g, 20 g de proteína",
               "60 pelo peso",
-              "R$ 615,51",
               "R$ 647,90",
-              "R$ 10,26",
-              "R$ 51,29 / R$ 53,99",
-              "sem cupom"
+              "R$ 53,99"
             ]
           ]
         },
         "postParagraphs": [
           "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada.",
-          "Na Max, o preço à vista no Pix sai cerca de 3% abaixo do cartão nestes produtos. Na Dux, o Pix tem 5% de desconto, como mostra a própria página."
+          "No Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado de 900 g da Dux, a R$ 58,41. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21, o 3W, para R$ 32,45, e o IsoWhey, para R$ 36,51."
         ]
       },
       {
@@ -102903,6 +102815,15 @@ export const reviewsData: unknown[] = [
           "Os dois são só proteína concentrada do soro do leite. A dose do [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) tem 21 g de proteína em 30 g de pó, segundo o rótulo da Max. A do concentrado da Dux tem 20 g em 30 g. Pelo Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado da Dux, a R$ 58,41: a diferença é de 48%.",
           "Com o cupom no teto, o Refil sai a R$ 27,21. Pelo cartão, a diferença continua grande: R$ 31,17 contra R$ 61,48.",
           "O Refil leva aromatizante, lecitina de soja e sucralose. O concentrado da Dux leva sucralose e acessulfame de potássio, e a página da Dux diz que ele é \"sem blends ou adição de outras proteínas\"."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+            "alt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
+            "caption": "Os dois wheys da Max Titanium citados na tabela. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
@@ -102940,69 +102861,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Preços de 20/10/2026. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+          "Preços de 20/10/2026 no cartão, sem o cupom. Todas as creatinas da tabela são monohidratadas. A Max usa dose de 5 g nos potes desta comparação. A Dux usa 5 g na monohidratada e 3 g na linha Creapure."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-creatina.webp",
+            "alt": "Potes de creatina monohidratada da Max Titanium, de 300 g e de 500 g",
+            "caption": "Os potes de creatina da Max Titanium citados na tabela. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
-            "Dose",
-            "Doses",
-            "Pix",
+            "Doses de 5 g",
             "Cartão",
-            "Por dose (Pix)",
-            "Por 100 g (Pix / cartão)",
-            "Com cupom (teto, por 100 g)"
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
-              "[Creatina monohidratada](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
-              "300 g",
-              "5 g",
+              "[Max Creatina monohidratada](https://www.maxtitanium.com.br/creatina-pote-300g/p), 300 g",
               "60",
-              "R$ 56,02",
               "R$ 59,90",
-              "R$ 0,93",
-              "R$ 18,67 / R$ 19,97",
-              "R$ 16,81"
+              "R$ 19,97"
             ],
             [
-              "Dux Creatina Monohidratada",
-              "300 g",
-              "5 g",
+              "Dux Creatina Monohidratada, 300 g",
               "60",
-              "R$ 61,66",
               "R$ 64,90",
-              "R$ 1,03",
-              "R$ 20,55 / R$ 21,63",
-              "sem cupom"
+              "R$ 21,63"
             ],
             [
-              "[Creatina monohidratada](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
-              "500 g",
-              "5 g",
+              "[Max Creatina monohidratada](https://www.maxtitanium.com.br/creatine-pote-500g/p), 500 g",
               "100",
-              "R$ 84,90",
               "R$ 87,53",
-              "R$ 0,85",
-              "R$ 16,98 / R$ 17,51",
-              "R$ 15,28"
+              "R$ 17,51"
             ],
             [
-              "Dux Creatina Monohidratada",
-              "600 g",
-              "5 g",
+              "Dux Creatina Monohidratada, 600 g",
               "120",
-              "R$ 131,01",
               "R$ 137,90",
-              "R$ 1,09",
-              "R$ 21,83 / R$ 22,98",
-              "sem cupom"
+              "R$ 22,98"
             ]
           ]
         },
         "postParagraphs": [
-          "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 22% abaixo do de 600 g da Dux: R$ 16,98 contra R$ 21,83. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom."
+          "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 22% abaixo do de 600 g da Dux: R$ 16,98 contra R$ 21,83. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom.",
+          "Com o cupom no teto, sobre o Pix, a Max de 300 g cai para R$ 16,81 por 100 g, e a de 500 g, para R$ 15,28."
         ]
       },
       {
@@ -103018,46 +102924,43 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os dois são de 90 cápsulas. A Max pede três cápsulas por dia, e a Dux, uma. Por isso a conta é por dia, e não por cápsula."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-dux-multimax-e-shook.webp",
+            "alt": "Embalagens da Max Titanium: o pote do Multimax Complex de 90 cápsulas e o pote do pré-treino Shook de 300 g, sabor uva",
+            "caption": "Multimax Complex de 90 cápsulas e pré-treino Shook de 300 g, sabor uva, nas fotos do site da Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Uso diário",
-            "Dias do pote",
-            "Pix",
-            "Por dia (Pix)",
-            "Com cupom (por dia)",
-            "Vitamina A por dia",
-            "Vitamina D por dia",
-            "Vitamina C por dia"
+            "Uso diário e dias do pote",
+            "Cartão",
+            "Por dia (cartão)",
+            "Vitaminas A, D e C por dia"
           ],
           "rows": [
             [
               "[Multimax Complex 90 cápsulas](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p)",
-              "3 cápsulas",
-              "30",
-              "R$ 55,47",
-              "R$ 1,85",
-              "R$ 1,66",
-              "76% do VD",
-              "34% do VD",
-              "46% do VD"
+              "3 cápsulas, 30 dias",
+              "R$ 57,19",
+              "R$ 1,91",
+              "76%, 34% e 46% do VD"
             ],
             [
               "Dux Multivitamínico 90 cápsulas",
-              "1 cápsula",
-              "90",
-              "R$ 75,83",
-              "R$ 0,84",
-              "sem cupom",
-              "100% do VD",
-              "100% do VD",
-              "100% do VD"
+              "1 cápsula, 90 dias",
+              "R$ 79,82",
+              "R$ 0,89",
+              "100% do VD nas três"
             ]
           ]
         },
         "postParagraphs": [
-          "Preços de 20/10/2026. No cartão, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 57,19 e o da Dux, a R$ 79,82.",
-          "Pelo Pix, o multivitamínico da Dux sai a R$ 0,84 por dia, e o da Max, a R$ 1,85. Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
+          "Preços de 20/10/2026 no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
+          "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, segundo a própria tabela. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
         ]
       },
       {
@@ -103068,54 +102971,38 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
-            "Dose",
-            "Doses",
+            "Dose e doses",
             "Cafeína por dose",
-            "Pix",
             "Cartão",
-            "Por dose (Pix)",
-            "Com cupom (teto, por dose)"
+            "Por dose (cartão)"
           ],
           "rows": [
             [
-              "[Shook Uva](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p)",
-              "300 g",
-              "8 g",
-              "cerca de 38",
+              "[Shook Uva](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p), 300 g",
+              "8 g, cerca de 38",
               "200 mg",
-              "R$ 106,59",
               "R$ 109,89",
-              "R$ 2,81",
-              "R$ 2,52"
+              "R$ 2,89"
             ],
             [
-              "Dux Pre Workout Original",
-              "300 g",
-              "15 g",
-              "20",
+              "Dux Pre Workout Original, 300 g",
+              "15 g, 20",
               "300 mg",
-              "R$ 128,16",
               "R$ 134,90",
-              "R$ 6,41",
-              "sem cupom"
+              "R$ 6,75"
             ],
             [
-              "Dux Pre Workout Original Stim Free",
-              "300 g",
-              "13,5 g",
-              "cerca de 22",
+              "Dux Pre Workout Original Stim Free, 300 g",
+              "13,5 g, cerca de 22",
               "sem linha de cafeína",
-              "R$ 126,26",
               "R$ 132,90",
-              "R$ 5,68",
-              "sem cupom"
+              "R$ 5,98"
             ]
           ]
         },
         "postParagraphs": [
-          "Preços de 20/10/2026. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
-          "Por dose, o Shook sai a R$ 2,81 no Pix, e o Pre Workout Original, a R$ 6,41. Quem evita cafeína deve olhar o rótulo: a Stim Free é a única linha desta comparação sem cafeína na tabela e na lista de ingredientes."
+          "Preços de 20/10/2026 no cartão. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
+          "No Pix, o Shook sai a R$ 2,81 por dose (R$ 2,52 com o cupom no teto), o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. Quem evita cafeína deve olhar o rótulo: a Stim Free é a única linha desta comparação sem cafeína na tabela e na lista de ingredientes."
         ],
         "images": [
           {
@@ -103275,22 +103162,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em 20/10/2026, o whey da Probiótica sai mais barato por grama de proteína que o da Dux, com ou sem cupom. Na creatina de 300 g, a Probiótica também fica abaixo. A Dux tem a lista de ingredientes mais curta na creatina de 300 g: só creatina monohidratada."
+          "Pelo preço no cartão em 20/10/2026, a Probiótica sai mais barata no whey, na creatina e na Creapure."
         ],
         "bullets": [
-          "Whey: R$ 40,82 por 100 g de proteína no Pix no [pote de 900 g da Probiótica](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), contra R$ 58,41 no Pix do Whey Protein Concentrado de 900 g da Dux. Com o cupom no teto, o pote da Probiótica sai a R$ 36,74.",
-          "Creatina: R$ 18,97 por 100 g no Pix na [creatina monohidratada de 300 g da Probiótica](https://www.probiotica.com.br/creatina-300g/p), e R$ 17,07 no teto do cupom. A monohidratada de 300 g da Dux sai a R$ 20,55 no Pix.",
-          "Creapure: a [Creapure de 150 g da Probiótica](https://www.probiotica.com.br/creatina-creapure--150g/p) sai a R$ 64,59 por 100 g no Pix. O pote de 300 g da Dux, que a Dux declara Creapure, sai a R$ 87,05 por 100 g no Pix."
+          "**Whey:** o [pote de 900 g da Probiótica](https://www.probiotica.com.br/100-pure-whey-pote-900g/p) sai a R$ 42,08 por 100 g de proteína, contra R$ 61,48 do concentrado de 900 g da Dux.",
+          "**Creatina:** a [monohidratada de 300 g](https://www.probiotica.com.br/creatina-300g/p) sai a R$ 19,97 por 100 g, contra R$ 21,63 da Dux.",
+          "**Creapure:** a [Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p) sai a R$ 66,59 por 100 g, contra R$ 91,63 da Dux."
         ],
         "postParagraphs": [
-          "Os preços são de 20/10/2026. O cupom PRO10EMCASACOMCECILIA é da Probiótica; a Dux não tem cupom nosso."
+          "O cupom PRO10EMCASACOMCECILIA dá até 10% na Probiótica. A Dux não é parceira do site e não tem cupom nosso. No Pix, a Dux dá 5% de desconto, e a Probiótica, de 3% a 5%."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
-          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. Na Dux, mostramos o cartão e o Pix lado a lado, porque o Pix tem 5% de desconto. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
+          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
         "bullets": [
@@ -103299,75 +103186,57 @@ export const reviewsData: unknown[] = [
           "preço por 100 g de creatina: preço ÷ gramas do pote × 100."
         ],
         "postParagraphs": [
-          "O preço do pote, sozinho, engana. As doses das duas têm 30 g de pó e 20 g de proteína, e a conta por 100 g de proteína iguala potes de tamanhos diferentes, como o de 1,8 kg da Dux. O cupom aparece como teto: 10% sobre o preço no Pix da Probiótica, o maior desconto possível em cada linha."
+          "O preço do pote, sozinho, engana. As doses das duas têm 30 g de pó e 20 g de proteína, e a conta por 100 g de proteína iguala potes de tamanhos diferentes, como o de 1,8 kg da Dux. A conta com cupom é o teto: 10% sobre o preço no Pix da Probiótica, o maior desconto possível."
         ]
       },
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 20/10/2026. A Probiótica aparece com o cartão e o Pix, e a linha com cupom é o teto. A Dux aparece com o cartão e o Pix.",
+          "Preços de 20/10/2026 no cartão, sem o cupom.",
           "A dose da Probiótica tem 20 g de proteína em 30 g, pela tabela nutricional do sabor Baunilha. A página do pote traz outra faixa, de 20 g a 24 g por dose, e a conta não usa essa faixa. A Dux declara 20 g de proteína em 30 g no Baunilha."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
             "Dose e proteína",
             "Doses",
-            "Preço",
-            "Por dose",
-            "Por 100 g de proteína"
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
           ],
           "rows": [
             [
-              "[Probiótica 100% Pure Whey, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
-              "900 g",
-              "30 g, com 20 g de proteína",
+              "[Probiótica 100% Pure Whey, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), 900 g",
+              "30 g, 20 g de proteína",
               "30",
-              "R$ 252,49 no cartão; R$ 244,92 no Pix",
-              "R$ 8,42 no cartão; R$ 8,16 no Pix",
-              "R$ 42,08 no cartão; R$ 40,82 no Pix"
+              "R$ 252,49",
+              "R$ 42,08"
             ],
             [
-              "[Probiótica 100% Pure Whey, Baunilha, com cupom (teto)](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
-              "900 g",
-              "30 g, com 20 g de proteína",
+              "[Probiótica 100% Pure Whey Refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), 900 g",
+              "30 g, 20 g de proteína",
               "30",
-              "R$ 220,43 (Pix menos 10%)",
-              "R$ 7,35",
-              "R$ 36,74"
+              "R$ 235,65",
+              "R$ 39,28"
             ],
             [
-              "[Probiótica 100% Pure Whey Refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p)",
-              "900 g",
-              "30 g, com 20 g de proteína",
+              "Dux Whey Protein Concentrado, Baunilha, 900 g",
+              "30 g, 20 g de proteína",
               "30",
-              "R$ 235,65 no cartão; R$ 228,58 no Pix",
-              "R$ 7,86 no cartão; R$ 7,62 no Pix",
-              "R$ 39,28 no cartão; R$ 38,10 no Pix"
+              "R$ 368,90",
+              "R$ 61,48"
             ],
             [
-              "Dux Whey Protein Concentrado, Baunilha",
-              "900 g",
-              "30 g, com 20 g de proteína",
-              "30",
-              "R$ 368,90 no cartão; R$ 350,46 no Pix",
-              "R$ 12,30 no cartão; R$ 11,68 no Pix",
-              "R$ 61,48 no cartão; R$ 58,41 no Pix"
-            ],
-            [
-              "Dux Whey Protein Concentrado, Baunilha (tamanho diferente)",
-              "1,8 kg",
-              "30 g, com 20 g de proteína",
-              "60",
-              "R$ 647,90 no cartão; R$ 615,51 no Pix",
-              "R$ 10,80 no cartão; R$ 10,26 no Pix",
-              "R$ 53,99 no cartão; R$ 51,29 no Pix"
+              "Dux Whey Protein Concentrado, Baunilha, 1,8 kg",
+              "30 g, 20 g de proteína",
+              "60 pelo peso",
+              "R$ 647,90",
+              "R$ 53,99"
             ]
           ]
         },
         "postParagraphs": [
-          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso. O refil de 900 g da Probiótica tem a mesma tabela, 20 g em 30 g, e com o cupom no teto sai a R$ 205,72, ou R$ 34,29 por 100 g de proteína."
+          "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote e R$ 38,10 no refil da Probiótica, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) na Dux. Com o cupom no teto, sobre o Pix, o pote cai para R$ 36,74 e o refil, para R$ 34,29.",
+          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso."
         ],
         "images": [
           {
@@ -103384,55 +103253,55 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os dois potes de 900 g têm 30 doses de 30 g e 20 g de proteína por dose, ou seja, 600 g de proteína cada um. O pote da Probiótica sai a R$ 40,82 por 100 g de proteína no Pix. O da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão. A diferença no Pix é de R$ 17,59 por 100 g de proteína.",
           "O concentrado de 1,8 kg é a linha mais barata da Dux por 100 g de proteína: R$ 51,29 no Pix. Mesmo assim, fica acima do pote de 900 g da Probiótica, a R$ 40,82 no Pix."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+            "alt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
+            "caption": "Embalagens de whey da Probiótica: pote, refil e Zero Lactose, todos de 900 g. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "Preços de 20/10/2026. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+          "Preços de 20/10/2026 no cartão, sem o cupom. A conta usa a monohidratada de 300 g nas duas lojas, com 5 g por dose e 60 doses. A Dux de 600 g fica fora desta tabela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-creatina.webp",
+            "alt": "Potes de creatina da Probiótica, de 300 g e de 150 g (Creapure), de frente",
+            "caption": "Potes de creatina da Probiótica: Monohidratada Pura 300 g e Creapure 150 g. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Pote",
-            "Dose",
-            "Doses",
-            "Preço",
-            "Por dose",
-            "Por 100 g de creatina"
+            "Doses de 5 g",
+            "Cartão",
+            "Por 100 g (cartão)"
           ],
           "rows": [
             [
-              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p)",
-              "300 g",
-              "5 g",
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p), 300 g",
               "60",
-              "R$ 59,90 no cartão; R$ 56,90 no Pix",
-              "R$ 1,00 no cartão; R$ 0,95 no Pix",
-              "R$ 19,97 no cartão; R$ 18,97 no Pix"
+              "R$ 59,90",
+              "R$ 19,97"
             ],
             [
-              "[Probiótica Creatina Monohidratada Pura, com cupom (teto)](https://www.probiotica.com.br/creatina-300g/p)",
-              "300 g",
-              "5 g",
-              "60",
-              "R$ 51,21 (Pix menos 10%)",
-              "R$ 0,85",
-              "R$ 17,07"
-            ],
-            [
-              "Dux Creatina Monohidratada",
-              "300 g",
-              "5 g (1 dosador)",
-              "60",
-              "R$ 64,90 no cartão; R$ 61,66 no Pix",
-              "R$ 1,08 no cartão; R$ 1,03 no Pix",
-              "R$ 21,63 no cartão; R$ 20,55 no Pix"
+              "Dux Creatina Monohidratada, 300 g",
+              "60 (1 dosador)",
+              "R$ 64,90",
+              "R$ 21,63"
             ]
           ]
         },
         "postParagraphs": [
-          "A Probiótica de 300 g é a mais barata por grama, no Pix e com o cupom no teto. Por dose, a diferença no Pix é de R$ 0,08 (R$ 0,95 contra R$ 1,03)."
+          "No Pix, a Probiótica sai a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Dux, a R$ 20,55. A Probiótica de 300 g é a mais barata por grama, e por dose a diferença no Pix é de R$ 0,08 (R$ 0,95 contra R$ 1,03)."
         ]
       },
       {

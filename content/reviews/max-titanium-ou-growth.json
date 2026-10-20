@@ -26,20 +26,22 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pelo preço no cartão em 18/10/2026, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico."
+      ],
       "bullets": [
-        "**Whey:** a Growth Whey Concentrado 1 kg é a mais barata por 100 g de proteína no Pix, a R$ 26,34 (preço de 18/10/2026). O 100% Whey Refil da Max, com o cupom no teto, fica em R$ 27,21. No isolado, o IsoWhey 900 g da Max com o cupom (R$ 36,51) fica abaixo da Growth (R$ 39,27 no Pix); sem cupom, a Max fica um pouco acima.",
-        "**Creatina:** sem cupom, a Growth refil de 500 g é a mais barata por grama, a R$ 14,98 por 100 g no Pix. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96).",
-        "**Hipercalórico:** a Max leva a menor conta por 1.000 kcal nos dois tamanhos. O Mass Titanium 17500 Refil 3 kg sai a R$ 9,81 no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
-        "**Cupom:** o MAX10EMCASACOMCECILIA dá até 10% no site da Max, e o percentual varia por produto. A Growth não tem cupom nosso."
+        "**Whey:** o Whey Concentrado da Growth sai a R$ 29,26 por 100 g de proteína, contra R$ 31,17 do 100% Whey Refil da Max. No isolado, o IsoWhey da Max fica abaixo: R$ 41,82 contra R$ 43,63.",
+        "**Creatina:** o refil de 500 g da Growth sai a R$ 16,64 por 100 g, contra R$ 17,51 do pote de 500 g da Max.",
+        "**Hipercalórico:** o Mass Titanium 17500 de 3 kg sai a R$ 10,11 por 1.000 kcal, contra R$ 16,71 do Big Mass Pro da Growth."
       ],
       "postParagraphs": [
-        "Preços dos sites oficiais em 18/10/2026. Eles mudam com as promoções."
+        "O cupom MAX10EMCASACOMCECILIA dá até 10% na Max, e o percentual varia por produto. A Growth não tem cupom nosso, mas faz o Pix cerca de 10% abaixo do cartão; a Max, cerca de 3%. Abaixo de cada tabela estão as contas no Pix e com o cupom."
       ]
     },
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. Na Growth, mostramos o preço no Pix e no cartão, porque são diferentes. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
+        "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
         "As contas são nossas, arredondadas no centavo:"
       ],
       "bullets": [
@@ -49,7 +51,7 @@
         "**preço por 1.000 kcal:** preço ÷ (porções × kcal por porção) × 1.000."
       ],
       "postParagraphs": [
-        "A coluna \"com cupom\" é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
+        "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
         "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
         "Ficaram de fora sabor, dissolução e digestão: não provamos nenhum produto, e não usamos avaliações de clientes. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
       ]
@@ -57,45 +59,42 @@
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "Preços de 18/10/2026, no Pix e no cartão, e o teto com o cupom."
+        "Preços de 18/10/2026 no cartão, sem o cupom."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Dose e proteína",
           "Porções",
-          "Preço Pix",
-          "Por 100 g de proteína (Pix / cartão)",
-          "Com cupom (por 100 g)"
+          "Cartão",
+          "Por 100 g de proteína (cartão)"
         ],
         "rows": [
           [
             "Max 100% Whey Refil 900 g (WPC)",
             "30 g, 21 g de proteína",
             "30",
-            "R$ 190,50",
-            "R$ 30,24 / R$ 31,17",
-            "R$ 27,21"
+            "R$ 196,39",
+            "R$ 31,17"
           ],
           [
             "Max Top Whey 3W + Performance 900 g",
             "40 g, 32 g de proteína",
             "cerca de 23",
-            "R$ 265,34",
-            "R$ 36,05 / R$ 37,17",
-            "R$ 32,45"
+            "R$ 273,55",
+            "R$ 37,17"
           ],
           [
             "Growth Whey Concentrado 1 kg (sabores)",
             "30 g, 23 g de proteína",
             "cerca de 33",
-            "R$ 199,90",
-            "R$ 26,34 / R$ 29,26",
-            "não se aplica"
+            "R$ 222,11",
+            "R$ 29,26"
           ]
         ]
       },
       "postParagraphs": [
+        "No Pix, a conta por 100 g de proteína fica em R$ 30,24 no Refil, R$ 36,05 no 3W e R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21 e o 3W, para R$ 32,45.",
         "A dose muda de uma loja para a outra: na Max, 30 g dão 21 g de proteína no Refil e 40 g dão 32 g no 3W; na Growth, 30 g dão 23 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
         "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
       ],
@@ -135,31 +134,28 @@
           "Produto",
           "Dose e proteína",
           "Porções",
-          "Preço Pix",
-          "Por 100 g de proteína (Pix / cartão)",
-          "Com cupom (por 100 g)"
+          "Cartão",
+          "Por 100 g de proteína (cartão)"
         ],
         "rows": [
           [
             "Max IsoWhey 900 g",
             "30 g, 26 g de proteína",
             "30",
-            "R$ 316,39",
-            "R$ 40,56 / R$ 41,82",
-            "R$ 36,51"
+            "R$ 326,18",
+            "R$ 41,82"
           ],
           [
             "Growth (TOP) Whey Protein Isolado 1 kg",
             "30 g, 27 g de proteína",
             "cerca de 33",
-            "R$ 349,90",
-            "R$ 39,27 / R$ 43,63",
-            "não se aplica"
+            "R$ 388,77",
+            "R$ 43,63"
           ]
         ]
       },
       "postParagraphs": [
-        "Sem cupom, a Growth sai um pouco mais barata por 100 g de proteína no Pix (R$ 39,27 contra R$ 40,56). Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
+        "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai um pouco mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
       ],
       "images": [
         {
@@ -174,65 +170,51 @@
     {
       "heading": "Creatina: preço por grama nas duas lojas",
       "paragraphs": [
-        "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026."
+        "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de 18/10/2026 no cartão, sem o cupom."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Tamanho e doses",
-          "Preço Pix",
-          "Preço cartão",
-          "Por 100 g (Pix / cartão)",
-          "Com cupom (por 100 g)"
+          "Cartão",
+          "Por 100 g (cartão)"
         ],
         "rows": [
           [
             "Max Creatina 300 g",
             "300 g, 60 doses",
-            "R$ 56,02",
             "R$ 59,90",
-            "R$ 18,67 / R$ 19,97",
-            "R$ 16,81"
+            "R$ 19,97"
           ],
           [
             "Max Creatina 500 g (pote)",
             "500 g, 100 doses",
-            "R$ 84,90",
             "R$ 87,53",
-            "R$ 16,98 / R$ 17,51",
-            "R$ 15,28"
+            "R$ 17,51"
           ],
           [
             "Max Pack 2 x Creatina 500 g",
             "1 kg, 200 doses",
-            "R$ 169,81",
             "R$ 175,06",
-            "R$ 16,98 / R$ 17,51",
-            "R$ 15,28"
+            "R$ 17,51"
           ],
           [
             "Growth Creatina 250 g",
             "250 g, 50 doses",
-            "R$ 44,90",
             "R$ 49,88",
-            "R$ 17,96 / R$ 19,95",
-            "não se aplica"
+            "R$ 19,95"
           ],
           [
             "Growth Creatina 500 g (pote)",
             "500 g, 100 doses",
-            "R$ 84,90",
             "R$ 94,33",
-            "R$ 16,98 / R$ 18,87",
-            "não se aplica"
+            "R$ 18,87"
           ],
           [
             "Growth Creatina 500 g (refil pouch)",
             "500 g, 100 doses",
-            "R$ 74,90",
             "R$ 83,22",
-            "R$ 14,98 / R$ 16,64",
-            "não se aplica"
+            "R$ 16,64"
           ]
         ]
       },
@@ -265,53 +247,44 @@
       "comparisonTable": {
         "headers": [
           "Produto",
-          "Porção e porções",
-          "kcal por porção",
+          "Porção, porções e kcal",
           "Proteína e carboidrato por porção",
-          "Preço Pix",
-          "Por 1.000 kcal (Pix / cartão)",
-          "Com cupom (por 1.000 kcal)"
+          "Cartão",
+          "Por 1.000 kcal (cartão)"
         ],
         "rows": [
           [
             "Max Mass Titanium 17500 Refil 1,4 kg (baunilha)",
-            "160 g, cerca de 9",
-            "619",
+            "160 g, cerca de 9, 619 kcal",
             "17 g e 135 g",
-            "R$ 67,79",
-            "R$ 12,17 / R$ 12,55",
-            "R$ 10,95"
+            "R$ 69,89",
+            "R$ 12,55"
           ],
           [
             "Growth Hiper Mass 1 kg (chocolate)",
-            "170 g, cerca de 6",
-            "615",
+            "170 g, cerca de 6, 615 kcal",
             "37 g e 108 g",
-            "R$ 54,90",
-            "R$ 14,88 / R$ 16,53",
-            "não se aplica"
+            "R$ 61,00",
+            "R$ 16,53"
           ],
           [
             "Max Mass Titanium 17500 Refil 3 kg (baunilha)",
-            "160 g, cerca de 19",
-            "619",
+            "160 g, cerca de 19, 619 kcal",
             "17 g e 135 g",
-            "R$ 115,32",
-            "R$ 9,81 / R$ 10,11",
-            "R$ 8,82"
+            "R$ 118,89",
+            "R$ 10,11"
           ],
           [
             "Growth Big Mass Pro 3 kg",
-            "160 g, cerca de 19",
-            "591",
+            "160 g, cerca de 19, 591 kcal",
             "22 g e 100 g",
-            "R$ 168,90",
-            "R$ 15,04 / R$ 16,71",
-            "não se aplica"
+            "R$ 187,66",
+            "R$ 16,71"
           ]
         ]
       },
       "postParagraphs": [
+        "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. Com o cupom no teto, sobre o Pix, a Max cai para R$ 10,95 e R$ 8,82.",
         "As contas usam as calorias de cada porção e o número de porções que a embalagem informa (\"cerca de\" na Max e na Growth), por isso são aproximadas. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
       ],
       "images": [
