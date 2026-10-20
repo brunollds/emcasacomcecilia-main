@@ -100374,11 +100374,11 @@ export const reviewsData: unknown[] = [
           "A Cléa Store tem seis bodies Second Skin, todos de 90% poliamida e 10% elastano, em P, M e G. Preços de 20/10/2026, de R$ 50,70 a R$ 135,20."
         ],
         "bullets": [
-          "Por baixo do blazer ou no frio: Body Gola Alta Manga Longa, R$ 135,20.",
-          "Com jeans, saia ou alfaiataria no dia a dia: Body Regata Second Skin Duplo, R$ 127,20.",
-          "Para a noite e ocasiões especiais: Body Frente Única Decote, R$ 95,40, ou Body Ombro Único, R$ 79,50.",
-          "Dois looks numa peça só: Body Decote Reversível, R$ 79,50, com o decote na frente ou nas costas.",
-          "O mais barato: Body Regata Cavado, R$ 50,70."
+          "Por baixo do blazer ou no frio: [Body Gola Alta Manga Longa](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047), R$ 135,20.",
+          "Com jeans, saia ou alfaiataria no dia a dia: [Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045), R$ 127,20.",
+          "Para a noite e ocasiões especiais: [Body Frente Única Decote](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), R$ 95,40, ou [Body Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230), R$ 79,50.",
+          "Dois looks numa peça só: [Body Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194), R$ 79,50, com o decote na frente ou nas costas.",
+          "O mais barato: [Body Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185), R$ 50,70."
         ],
         "postParagraphs": [
           "O cupom CSEMCASACOMCECILIA tira mais 10% no site. Os preços mudam com a promoção do dia; confira na página do produto."
@@ -100399,42 +100399,42 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Body Gola Alta Manga Longa",
+              "[Body Gola Alta Manga Longa](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047)",
               "Gola alta, manga longa",
               "7: amarelo, marrom escuro, off white, preto, rosa claro, roxo e vinho",
               "R$ 135,20 (R$ 169,00)",
               "R$ 101,40 (R$ 304,20 as três)"
             ],
             [
-              "Body Regata Second Skin Duplo",
+              "[Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045)",
               "Gola alta, regata",
               "6: marrom, off white, preto, rosa claro, roxo e vinho",
               "R$ 127,20 (R$ 159,00)",
               "R$ 95,40 (R$ 286,20 as três)"
             ],
             [
-              "Body Frente Única Decote",
+              "[Body Frente Única Decote](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128)",
               "Decote profundo na frente, sem gola",
               "3: marrom, off white e preto",
               "R$ 95,40 (R$ 159,00)",
               "Sem leve 3"
             ],
             [
-              "Body Decote Reversível",
+              "[Body Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194)",
               "Decote na frente ou nas costas",
               "2: off white e preto",
               "R$ 79,50 (R$ 159,00)",
               "Sem leve 3"
             ],
             [
-              "Body Regata Cavado",
+              "[Body Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185)",
               "Regata, cavas profundas",
               "6: amarelo, off white, poá off white, poá preto, preto e rosa claro",
               "R$ 50,70 (R$ 169,00)",
               "Sem leve 3"
             ],
             [
-              "Body Ombro Único Com Detalhe nas Costas",
+              "[Body Ombro Único Com Detalhe nas Costas](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230)",
               "Um ombro só, decote assimétrico, abertura nas costas",
               "4: marrom, off white, preto e rosa claro",
               "R$ 79,50 (R$ 159,00)",
@@ -100905,9 +100905,9 @@ export const reviewsData: unknown[] = [
           "Nas categorias do site que lemos em 20/10/2026, contamos 41 peças. Destas, só as 7 acima aparecem no Mercado Livre. O que está só no site:"
         ],
         "bullets": [
-          "Alfaiataria: blazers, entre eles o Risca de Giz Cinza e os oversized Bordô e Mescla, coletes, bermuda e calças de alfaiataria.",
-          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o Frente Única, o Decote Reversível, o Regata Cavado e o Ombro Único. O Gola Alta tem 7 cores no site e 5 no anúncio do Mercado Livre.",
-          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o Brazil Edition e o Monte Seu Kit. Os dois custam R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
+          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o [Frente Única](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), o [Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194), o [Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185) e o [Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230). O [Gola Alta](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) tem 7 cores no site e 5 no anúncio do Mercado Livre.",
+          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) e o [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229). Os dois custam R$ 258,00, ou R$ 232,20 com o cupom.",
           "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
           "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
         ],
@@ -100947,37 +100947,37 @@ export const reviewsData: unknown[] = [
             [
               "Kit 3 T-Shirts Oversized Intense",
               "R$ 129,90 (6x de R$ 21,65)",
-              "R$ 232,20",
+              "[R$ 232,20](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422)",
               "Mercado Livre, R$ 102,30 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Colorful",
               "R$ 127,05 com saldo no Mercado Pago, ou R$ 133,74 em 6x",
-              "R$ 232,20",
+              "[R$ 232,20](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421)",
               "Mercado Livre, R$ 105,15 a menos"
             ],
             [
               "Kit 3 T-Shirts Oversized Classic",
               "R$ 387,00 (9x de R$ 43,00)",
-              "R$ 232,20",
+              "[R$ 232,20](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951)",
               "Site, R$ 154,80 a menos"
             ],
             [
               "T-Shirt Oversized Algodão (avulsa)",
               "R$ 62,70 com saldo no Mercado Pago, ou R$ 66,00 em 5x",
-              "R$ 116,10",
+              "[R$ 116,10](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189)",
               "Mercado Livre, R$ 53,40 a menos"
             ],
             [
               "Body Regata Second Skin Duplo",
               "R$ 82,65 com saldo no Mercado Pago, ou R$ 87,00 em 5x",
-              "R$ 114,48",
+              "[R$ 114,48](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045)",
               "Mercado Livre, R$ 31,83 a menos"
             ],
             [
               "Body Gola Alta Manga Longa",
               "R$ 89,00 (5x de R$ 17,80)",
-              "R$ 121,68",
+              "[R$ 121,68](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047)",
               "Mercado Livre, R$ 32,68 a menos"
             ]
           ]
