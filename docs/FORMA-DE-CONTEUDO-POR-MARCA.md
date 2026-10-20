@@ -167,6 +167,7 @@ acervo, não regra para linkar em massa.
 | Max Titanium | não medido | parceria nova (14/10/2026); só `/cupons/max-titanium`, sem artigo |
 | Cléa Store | não medido | parceria nova (14/10/2026); só `/cupons/clea-store`, sem artigo |
 | Belive | não medido | parceria nova (16/10/2026); só `/cupons/belive`, sem artigo |
+| Mais Mu | não medido | parceria nova (20/10/2026); só `/cupons/mais-mu`, sem artigo |
 | Hostinger | não medido | indicação nova (19/10/2026); `/cupons/hostinger` e a página nos 9 idiomas, sem artigo; fora do tema do site, artigo só por decisão do Bruno |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
