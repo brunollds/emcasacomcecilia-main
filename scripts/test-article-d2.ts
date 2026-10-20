@@ -11,6 +11,7 @@ import { getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations
 import { getStoreCode } from '@/lib/homeStores';
 import { isInternalLink } from '@/lib/internalLinks';
 import { DropCapParagraph } from '@/components/editorial/DropCapParagraph';
+import { AnimatedTextHighlight } from '@/components/editorial/AnimatedTextHighlight';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { buildSchemaAuthors } from '@/lib/content';
@@ -352,5 +353,12 @@ const dropCap = (text: string) =>
 assert.ok(!dropCap('**Preços de hoje:** veja a tabela.').includes('aria-hidden'), 'parágrafo que abre com negrito ganhou capitular');
 assert.ok(dropCap('**Preços de hoje:** veja a tabela.').includes('[**Preços de hoje:** veja a tabela.]'), 'parágrafo que abre com negrito perdeu a marcação');
 assert.ok(dropCap('Hoje no site.').includes('aria-hidden="true"'), 'parágrafo comum sem capitular');
+
+// Link externo no texto (tabela, parágrafo, FAQ) vai a loja parceira: sai com sponsored; o interno, sem rel.
+const inline = renderToStaticMarkup(
+  createElement(AnimatedTextHighlight, { text: '[Caneca](https://letseatit.com.br/products/caneca) e [cupom](/cupons/letseatit)', variant: 'd2' })
+);
+assert.ok(inline.includes('href="https://letseatit.com.br/products/caneca" target="_blank" rel="sponsored noopener noreferrer"'), 'link externo do texto sem sponsored');
+assert.ok(/href="\/cupons\/letseatit"(?![^>]*rel=)/.test(inline), 'link interno do texto ganhou rel');
 
 console.log(`✅ artigo D2: relacionados, bloco da loja, textos novos, trilha, galeria, a regra da barra do celular (${dockCases.length} casos) e o topo do artigo`);

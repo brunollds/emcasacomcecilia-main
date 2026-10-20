@@ -99406,153 +99406,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Quanto gastar depende da faixa. Abaixo, um presente de cada uma, com o preço de venda em 20/10/2026 (os preços mudam com promoção):"
-        ],
-        "bullets": [
-          "Até R$ 300: ramekin em formato de coração, Le Creuset, R$ 159.",
-          "De R$ 300 a 700: travessa retangular Heritage Cotton de 26 cm, Le Creuset, R$ 529.",
-          "De R$ 700 a 1.500: aparelho de jantar Porto Brasil Arauco/Greenery de 30 peças, R$ 868.",
-          "Acima de R$ 1.500: panela redonda Signature Azure de 2,4 L, Le Creuset, R$ 2.329."
-        ],
-        "postParagraphs": [
-          "Os valores de uma faixa não se somam, porque cada presente aparece com o seu próprio preço. O cupom MAUAD dá 5% sobre o subtotal no site da Let's Eat It, vale em todas as formas de pagamento e soma com o desconto do Pix; o frete fica à parte, calculado por CEP, e na panela de R$ 2.329 o preço sai por R$ 2.212,55 antes do frete (confira no checkout)."
-        ]
-      },
-      {
-        "heading": "Quanto custa em cada faixa",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. Cada faixa mostra o que a loja vende nela; o uso de cada peça é o que a própria ficha do produto diz."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Faixa",
-            "Presente",
-            "Marca",
-            "Preço de venda em 20/10/2026",
-            "O que a ficha diz de uso"
-          ],
-          "rows": [
-            [
-              "Até R$ 300",
-              "Ramekin Formato Coração 300 ml Vermelho",
-              "Le Creuset",
-              "R$ 159",
-              "Seguro para forno, micro-ondas, freezer e lava-louças."
-            ],
-            [
-              "Até R$ 300",
-              "Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml (19 x 5,5 cm)",
-              "Porto Brasil",
-              "R$ 189,90",
-              "Stoneware; forno, freezer, micro-ondas (aquecimento gradual, as alças podem esquentar) e lava-louças."
-            ],
-            [
-              "Até R$ 300",
-              "Jogo 6 Taças Champagne Crex Optic 270 ml",
-              "Bohemia",
-              "R$ 128,42",
-              "Cristal ecológico; não vai a lava-louças, micro-ondas nem freezer; lavar à mão."
-            ],
-            [
-              "Até R$ 300",
-              "Moedor de Pimenta Black Onyx",
-              "Le Creuset",
-              "R$ 295,20",
-              "Ajuste de moagem por pino no topo; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Travessa Retangular Heritage Cotton 26 cm",
-              "Le Creuset",
-              "R$ 529",
-              "Seguro para freezer, forno, micro-ondas, grelha, lava-louças e utensílios de metal; de -22°C a 260°C."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml (28 x 6,5 cm)",
-              "Porto Brasil",
-              "R$ 322,90",
-              "Stoneware; forno, freezer, micro-ondas e lava-louças."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Jogo 6 Taças Champagne Ardea Verde Selva 220 ml",
-              "Bohemia",
-              "R$ 329,90",
-              "Cristal ecológico; cuidados de uso: ficha não diz."
-            ],
-            [
-              "De R$ 300 a 700",
-              "Faqueiro Aço Inox Avalon 30 peças",
-              "Wolff",
-              "R$ 383,90",
-              "Não é aconselhável usar em freezer, micro-ondas, forno ou fogão; lava-louças só seguindo as recomendações da ficha; não acompanha estojo."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Skillet Coração Tradition Vermelho 26 cm",
-              "Le Creuset",
-              "R$ 1.449",
-              "Ferro fundido esmaltado; compatível com todos os cooktops e forno até 260°C; lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
-              "Le Creuset",
-              "R$ 929",
-              "Aço carbono esmaltado; pode ser usada em todas as fontes de calor, incluindo indução; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças",
-              "Porto Brasil",
-              "R$ 868",
-              "Forno, freezer, micro-ondas e lava-louças (detalhes na seção do aparelho)."
-            ],
-            [
-              "De R$ 700 a 1.500",
-              "Faqueiro LaGuiole La Maison Luxo 30 peças",
-              "LaGuiole",
-              "R$ 1.099",
-              "Lâmina de aço inox, cabo em ABS; forno, micro-ondas e lava-louças: ficha não diz."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Panela Redonda Signature Azure 2,4 L (20 cm)",
-              "Le Creuset",
-              "R$ 2.329",
-              "Ferro fundido; serve para vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; lava-louças e lavagem à mão."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Panela Redonda Signature Rhone 5,3 L (26 cm), com pegador dourado",
-              "Le Creuset",
-              "R$ 3.089",
-              "Mesmas fontes de calor da Azure; lava-louças e lavagem à mão; pegadores de aço inox."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Aparelho de Jantar Stoneware Orgânico Shimeji Gold 30 peças",
-              "Porto Brasil",
-              "R$ 2.049,90",
-              "Não vai ao micro-ondas (o filete metálico pode danificar a peça); evitar lava-louças para preservar o dourado; lavar à mão."
-            ],
-            [
-              "Acima de R$ 1.500",
-              "Faqueiro Aço Inox Pisa 130 peças",
-              "Wolff",
-              "R$ 1.699",
-              "Não é aconselhável usar em forno, freezer, micro-ondas nem fogão; não acompanha estojo."
-            ]
-          ]
-        },
-        "images": [
-          {
-            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
-            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
-            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
-            "objectFit": "square"
-          }
+          "Ideias separadas em quatro faixas de orçamento, com os preços de venda da Let's Eat It em 20/10/2026: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. O que entra em cada faixa está nas perguntas frequentes, no fim do texto; antes delas, o guia segue pelas linhas da loja: aparelho de jantar, Le Creuset, taças e faqueiros.",
+          "O cupom MAUAD dá 5% no site da Let's Eat It, em todas as formas de pagamento, e soma com o desconto do Pix."
         ]
       },
       {
@@ -99563,6 +99418,12 @@ export const reviewsData: unknown[] = [
           "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
         ],
         "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
+            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          },
           {
             "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
             "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
@@ -99579,25 +99440,25 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Cor",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Por pessoa (÷ 6)",
             "O que a ficha diz de uso"
           ],
           "rows": [
             [
-              "Arauco/Greenery",
+              "[Arauco/Greenery](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 868",
               "R$ 144,67",
               "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
             ],
             [
-              "Petroleum/Night Sky",
+              "[Petroleum/Night Sky](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-petroleum-night-sky-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 868",
               "R$ 144,67",
               "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
             ],
             [
-              "Shimeji Gold (cinza e dourada)",
+              "[Shimeji Gold (cinza e dourada)](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.049,90",
               "R$ 341,65",
               "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
@@ -99621,7 +99482,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset: o que dá para comprar por faixa",
         "paragraphs": [
-          "Os preços são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+          "Os preços mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
         ],
         "comparisonTable": {
           "headers": [
@@ -99633,43 +99494,43 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Até R$ 300",
-              "Moedor de Pimenta Black Onyx",
+              "[Moedor de Pimenta Black Onyx](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 295,20",
               "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
               "Até R$ 300",
-              "Caneca Cerâmica Cotton 100 ml",
+              "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 129",
               "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
             ],
             [
               "R$ 300 a 700",
-              "Travessa Retangular Heritage Cotton 26 cm",
+              "[Travessa Retangular Heritage Cotton 26 cm](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 529",
               "\"Seguro para freezer, forno, micro-ondas, grelha, máquina de lavar louça e utensílios de metal\"."
             ],
             [
               "R$ 700 a 1.500",
-              "Skillet Coração Tradition Vermelho 26 cm",
+              "[Skillet Coração Tradition Vermelho 26 cm](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.449",
               "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
             ],
             [
               "R$ 700 a 1.500",
-              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "[Chaleira Tradicional com Apito 1,6 L Azure Blue](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 929",
               "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
               "Acima de R$ 1.500",
-              "Panela Redonda Signature Azure 2,4 L, 20 cm",
+              "[Panela Redonda Signature Azure 2,4 L, 20 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.329",
               "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
             ],
             [
               "Acima de R$ 1.500",
-              "Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm",
+              "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 3.089",
               "Mesmas fontes de calor da Azure; pegadores de aço inox que a ficha diz aguentarem qualquer temperatura do forno. Pode ir à lava-louças."
             ]
@@ -99691,7 +99552,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Taças Bohemia: cristal ecológico ou cristal",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
+          "A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -99702,43 +99563,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Taças Champagne Crex Optic 270 ml",
+              "[Taças Champagne Crex Optic 270 ml](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 128,42",
               "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
             ],
             [
-              "Taças para Vinho Tinto Magnum 740 ml",
+              "[Taças para Vinho Tinto Magnum 740 ml](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-tinto-em-cristal-bohemia-magnum-740ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 149,90",
               "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
             ],
             [
-              "Copos Baixos Sophia 340 ml",
+              "[Copos Baixos Sophia 340 ml](https://letseatit.com.br/products/jogo-6-copos-baixos-cristal-bohemia-sophia-340ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 154,90",
               "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
             ],
             [
-              "Taças para Champanhe Eva 190 ml",
+              "[Taças para Champanhe Eva 190 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-eva-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal (a ficha não diz ecológico)",
               "R$ 246,90",
               "Altura de 24,2 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Champanhe Ardea Verde Selva 220 ml",
+              "[Taças para Champanhe Ardea Verde Selva 220 ml](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal ecológico",
               "R$ 329,90",
               "Altura de 27,5 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Champanhe Angela 190 ml, borda dourada",
+              "[Taças para Champanhe Angela 190 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-com-borda-dourada-bohemia-angela-190ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal com borda dourada",
               "R$ 499",
               "Altura de 24,8 cm. Cuidados: ficha não diz."
             ],
             [
-              "Taças para Vinho Angela 350 ml, borda dourada",
+              "[Taças para Vinho Angela 350 ml, borda dourada](https://letseatit.com.br/products/jogo-6-tacas-para-vinho-em-cristal-com-borda-dourada-bohemia-angela-350ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Cristal com borda dourada",
               "R$ 884,90",
               "Altura de 22,2 cm. Cuidados: ficha não diz."
@@ -99753,7 +99614,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faqueiros: 30, 101 ou 130 peças",
         "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção. O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
+          "O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
         ],
         "comparisonTable": {
           "headers": [
@@ -99764,31 +99625,31 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Wolff Avalon aço inox, 30 peças",
+              "[Wolff Avalon aço inox, 30 peças](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo",
               "R$ 383,90",
               "Aço inox. Não é aconselhável usar em freezer, micro-ondas, forno ou fogão. Lava-louças só seguindo as recomendações da ficha. Não acompanha estojo."
             ],
             [
-              "Wolff Berna Dourado aço inox, 30 peças",
+              "[Wolff Berna Dourado aço inox, 30 peças](https://letseatit.com.br/products/faqueiro-berna-wolff-aco-inox-30-pecas-inox-dourado?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 garfos de sobremesa, 6 colheres de sopa e 6 colheres de chá",
               "R$ 539,90",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Lava-louças com as recomendações. Não acompanha estojo."
             ],
             [
-              "LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)",
+              "[LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
               "R$ 1.099",
               "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
             ],
             [
-              "Wolff Avalon aço inox, 101 peças",
+              "[Wolff Avalon aço inox, 101 peças](https://letseatit.com.br/products/faqueiro-101-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "12 de cada um de 8 tipos, mais garfo, colher e concha de salada, colher de arroz e colher de açúcar",
               "R$ 1.598",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
             ],
             [
-              "Wolff Pisa aço inox, 130 peças",
+              "[Wolff Pisa aço inox, 130 peças](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
               "R$ 1.699",
               "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
@@ -99823,6 +99684,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A loja tem lista de casamento? Hoje, a página de lista de presentes da Let's Eat It está sem itens, então não dá para usá-la para montar a lista do casal. Se o casal quer lista, vale conferir no site antes de contar com ela.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
+          "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
+          "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
+          "O que dar de presente de casamento de R$ 700 a 1.500? [Aparelho de Jantar Arauco/Greenery 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-organico-stoneware-arauco-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 868,00; [Chaleira Tradicional com Apito 1,6 L Azure Blue, Le Creuset](https://letseatit.com.br/products/chaleira-tradicional-com-apito-1-6l-azure-blue-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 929,00; [Faqueiro LaGuiole La Maison Luxo 30 peças](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-marfim-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.099,00; e [Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.449,00.",
+          "O que dar de presente de casamento acima de R$ 1.500? [Faqueiro Aço Inox Pisa 130 peças, Wolff](https://letseatit.com.br/products/faqueiro-130-pecas-aco-inox-pisa-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 1.699,00; [Aparelho de Jantar Shimeji Gold 30 peças, Porto Brasil](https://letseatit.com.br/products/aparelho-de-jantar-stoneware-organico-shimeji-gold-porto-brasil-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.049,90; [Panela Redonda Signature Azure 2,4 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 2.329,00; e [Panela Redonda Signature Rhone 5,3 L, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 3.089,00.",
           "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
           "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
         ]
@@ -99889,52 +99754,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Até R$ 150 (preço de venda em 20/10/2026): a caneca Cotton de 100 ml da Le Creuset sai por R$ 129,00.",
-          "R$ 150 a 400: a batedeira de mão Vintage Verde da Ariete, de 127 V e 450 W, sai por R$ 329,00.",
-          "R$ 400 a 1.000: o saca-rolhas Trilogy da Le Creuset, em estojo de presente, sai por R$ 439,00.",
-          "Acima de R$ 1.000: a skillet Coração Tradition Vermelha de 26 cm da Le Creuset sai por R$ 1.449,00.",
-          "No site da Let's Eat It, o cupom MAUAD dá 5% sobre o subtotal (sem frete), vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout."
+          "Presentes separados por faixa de orçamento, com os preços de venda da Let's Eat It em 20/10/2026:"
+        ],
+        "bullets": [
+          "Até R$ 150: canecas Le Creuset, espátula KitchenAid, faca de churrasco e forma de bolo.",
+          "De R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios.",
+          "De R$ 400 a 1.000: Le Creuset, frigideiras KitchenAid e chaleira elétrica.",
+          "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis."
+        ],
+        "postParagraphs": [
+          "O cupom MAUAD dá 5% no site da Let's Eat It, em todas as formas de pagamento, e soma com o desconto do Pix."
         ]
       },
       {
         "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Caneca Cerâmica Cotton 100 ml",
+              "[Caneca Cerâmica Cotton 100 ml](https://letseatit.com.br/products/caneca-ceramica-cotton-100ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 129,00",
               "Para quem toma café em dose pequena. A ficha diz \"dose de café expresso\", com 100 ml, cerâmica premium e lava-louças."
             ],
             [
-              "Espátula Clássica em Silicone Confeitaria Preta",
+              "[Espátula Clássica em Silicone Confeitaria Preta](https://letseatit.com.br/products/espatula-classica-em-silicone-confeitaria-preta-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 129,90",
               "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças."
             ],
             [
-              "Faca para Churrasco Beef Club",
+              "[Faca para Churrasco Beef Club](https://letseatit.com.br/products/faca-para-churrasco-beef-club-em-aco-inox-com-cabo-em-plastico-fracalanza?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Fracalanza",
               "R$ 69,90",
               "Para quem faz churrasco em casa. Aço inox com cabo de plástico, 45 cm de comprimento."
             ],
             [
-              "Mini Tábua Petisqueira Churrasco e Queijo",
+              "[Mini Tábua Petisqueira Churrasco e Queijo](https://letseatit.com.br/products/mini-tabua-petisqueira-churrasco-e-queijo-carve-co?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Carve & Co",
               "R$ 138,90",
               "Para quem serve queijo e petisco. Teca, 2 x 16 x 26 cm, 259 g, com cabo ergonômico."
             ],
             [
-              "Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm",
+              "[Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm](https://letseatit.com.br/products/forma-redonda-para-brownie-bolo-e-torta-antiaderente-28cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Baker's Secret",
               "R$ 62,90",
               "Para quem assa bolo ou torta. Aço carbono de 0,5 mm, 28 cm de diâmetro e 5 cm de altura; a ficha diz forno até 232 °C."
@@ -99947,55 +99814,52 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)",
+              "[Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)](https://letseatit.com.br/products/caneca-ceramica-holly-branca-200ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 179,00",
               "Para quem quer uma caneca de Natal. Cerâmica premium, lava-louças; a ficha diz que não absorve aromas."
             ],
             [
-              "Moedor de Sal Vermelho",
+              "[Moedor de Sal Vermelho](https://letseatit.com.br/products/moedor-de-sal-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 369,00",
               "Para quem tempera na mesa. 21 x 6 cm, com ajuste de moagem por pino no topo."
             ],
             [
-              "Conjunto 4 Peças para Churrasco Inox com Estojo",
+              "[Conjunto 4 Peças para Churrasco Inox com Estojo](https://letseatit.com.br/products/conjunto-4-pecas-para-churrasco-inox-com-estojo-lhermitage?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "L'Hermitage",
               "R$ 232,90",
               "Para quem faz churrasco. Espátula vazada, garfo de duas pontas, pegador e escova, em aço inox com cabo preto e estojo com zíper."
             ],
             [
-              "Escumadeira em Aço Inox para Fritura",
+              "[Escumadeira em Aço Inox para Fritura](https://letseatit.com.br/products/escumadeira-em-aco-inox-fritura-cozinha-cinza-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 159,90",
               "Para quem frita. Aço inox e ABS livre de BPA, 39 x 13 x 6 cm, 205 g."
             ],
             [
-              "Mini Cocotte Cerâmica Cotton 250 ml",
+              "[Mini Cocotte Cerâmica Cotton 250 ml](https://letseatit.com.br/products/mini-cocotte-ceramica-cotton-250ml-10cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 239,00",
               "Para servir em porção individual. 250 ml e 10 cm; a ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
             ],
             [
-              "Batedeira de Mão Vintage Verde 127 V, 450 W",
+              "[Batedeira de Mão Vintage Verde 127 V, 450 W](https://letseatit.com.br/products/batedeira-de-mao-vintage-verde-127v-450w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 329,00",
               "Para quem bate massa em casa. 127 V, 450 W, 5 velocidades mais Turbo, com batedor e gancho para massa."
             ],
             [
-              "Forno Elétrico Vintage Verde 127 V, 800 W",
+              "[Forno Elétrico Vintage Verde 127 V, 800 W](https://letseatit.com.br/products/forno-eletrico-vintage-verde-127v-800w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 399,00",
               "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min."
@@ -100016,43 +99880,40 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "R$ 400 a 1.000: Le Creuset, KitchenAid e chaleira elétrica",
-        "paragraphs": [
-          "Os preços são de venda em 20/10/2026 e mudam com promoção."
-        ],
         "comparisonTable": {
           "headers": [
             "Presente",
             "Marca",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "Para quem é / o que a ficha diz"
           ],
           "rows": [
             [
-              "Saca-Rolhas Trilogy Estojo Presente Black Onyx",
+              "[Saca-Rolhas Trilogy Estojo Presente Black Onyx](https://letseatit.com.br/products/saca-rolha-trilogy-estojo-presente-black-onyx-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 439,00",
               "Para quem tem vinho em casa. A ficha diz que serve para qualquer tipo de cortiça; acabamento manual e vem em estojo de presente."
             ],
             [
-              "Caneca Cerâmica Coração Vermelha 220 ml, com pires",
+              "[Caneca Cerâmica Coração Vermelha 220 ml, com pires](https://letseatit.com.br/products/caneca-ceramica-coracao-vermelha-220ml-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 449,00",
               "Para quem quer uma caneca diferente. 220 ml, formato de coração, com pires; a ficha fala em cerâmica de alto padrão e retenção de calor."
             ],
             [
-              "Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L",
+              "[Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L](https://letseatit.com.br/products/kit-3-espatulas-e-1-pincel-de-silicone-e-porta-utensilios-ceramica-signature-vermelho-1-1l-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Le Creuset",
               "R$ 799,00",
               "Para organizar a bancada. Porta-utensílios de cerâmica de 1,1 L, 3 espátulas com cabo de madeira e pincel removível; a ficha diz que só a ponta do pincel vai à lava-louças."
             ],
             [
-              "Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho",
+              "[Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho](https://letseatit.com.br/products/jogo-de-2-frigideiras-aluminio-antiaderente-vermelho-kitchenaid?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "KitchenAid",
               "R$ 569,00",
               "Para o fogão do dia a dia. 21 cm e 25 cm; a ficha diz que vai ao forno até 260 °C e serve para gás, indução, vitrocerâmico e elétrico, e que vai à lava-louças."
             ],
             [
-              "Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W",
+              "[Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W](https://letseatit.com.br/products/chaleira-eletrica-positano-1-7l-360o-127v-1500w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "Ariete",
               "R$ 649,00",
               "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível."
@@ -100074,42 +99935,42 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis",
         "paragraphs": [
-          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços são de venda em 20/10/2026 e mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
+          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
-            "Preço de venda em 20/10/2026",
+            "Preço de venda",
             "O que a ficha diz"
           ],
           "rows": [
             [
-              "Skillet Coração Tradition Vermelho 26 cm, Le Creuset",
+              "[Skillet Coração Tradition Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-coracao-tradition-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.449,00",
               "ferro fundido esmaltado; \"compatível com todos os cooktops\"; forno seguro até 260 °C; interior esmaltado, sem tempero"
             ],
             [
-              "Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset",
+              "[Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset](https://letseatit.com.br/products/skillet-redonda-com-alca-signature-vermelho-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.739,00",
               "ferro fundido esmaltado; interior preto acetinado, sem tempero; \"compatível com todos os cooktops\"; forno até 260 °C; lava-louças"
             ],
             [
-              "Grelha Quadrada Signature Azure 26 cm, Le Creuset",
+              "[Grelha Quadrada Signature Azure 26 cm, Le Creuset](https://letseatit.com.br/products/grelha-quadrada-signature-azure-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.859,00",
               "ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz"
             ],
             [
-              "Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset",
+              "[Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 2.329,00",
               "ferro fundido; 2,4 L; esmalte interno; fonte de calor: vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; pegadores de aço inox"
             ],
             [
-              "Batedeira Planetária 1558 Positano 5,5 L, Ariete",
+              "[Batedeira Planetária 1558 Positano 5,5 L, Ariete](https://letseatit.com.br/products/batedeira-planetaria-1558-positano-127v-600w-5-5l-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.799,00",
               "127 V; 600 W; tigela de aço inox de 5,5 L; 7 velocidades e pulso; gancho, batedor de coração e batedor de arame"
             ],
             [
-              "Fritadeira Air Fryer Vintage Azul 16 L, Ariete",
+              "[Fritadeira Air Fryer Vintage Azul 16 L, Ariete](https://letseatit.com.br/products/fritadeira-air-fryer-vintage-azul-220v-1200w-ariete?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 1.199,00",
               "220 V; 1200 W; 3 cestos perfurados e 1 cesto giratório; \"fritar, assar, grelhar e até desidratar\""
             ]
@@ -100131,7 +99992,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher pelo perfil de quem cozinha",
         "paragraphs": [
-          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores, com o preço de venda de 20/10/2026:"
+          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores:"
         ],
         "bullets": [
           "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
@@ -100159,7 +100020,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom MAUAD e Pix: como fica o preço",
         "paragraphs": [
           "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta.",
-          "Um exemplo: a Ramekin Formato Coração Vermelho, R$ 159,00 em 20/10/2026. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
+          "Um exemplo: a Ramekin Formato Coração Vermelho, de R$ 159,00. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
           "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
         ]
       },
@@ -100259,8 +100120,8 @@ export const reviewsData: unknown[] = [
           "O blazer está com preço promocional; a camisa, sem promoção."
         ],
         "bullets": [
-          "Blazer Alfaiataria Risca de Giz Cinza: R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
-          "Camisa Clássica Feminina Tricoline Off White: R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
+          "[Blazer Alfaiataria Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282): R$ 538,30 (preço cheio R$ 769,00). Cinza claro, 95% poliéster, 3% elastano e 2% viscose, segundo a ficha.",
+          "[Camisa Clássica Feminina Tricoline Off White](https://www.cleastore.com.br/produto/camisa-classica-feminina-tricoline-off-white-4355): R$ 259,00. Off white, 97% algodão e 3% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As duas peças somam R$ 797,30. Com o cupom de 10%, o total cai para R$ 717,57.",
@@ -100282,18 +100143,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6669
           }
-        ],
-        "links": [
-          {
-            "label": "Ver o blazer risca de giz na loja",
-            "href": "https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282",
-            "sponsored": true
-          },
-          {
-            "label": "Ver a camisa off white na loja",
-            "href": "https://www.cleastore.com.br/produto/camisa-classica-feminina-tricoline-off-white-4355",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -100302,8 +100151,8 @@ export const reviewsData: unknown[] = [
           "Blazer e body estão com preço promocional; o preço cheio aparece ao lado de cada um."
         ],
         "bullets": [
-          "Blazer Oversized Alfaiataria Mescla: R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
-          "Body Gola Alta Manga Longa Second Skin: R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
+          "[Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307): R$ 524,30 (preço cheio R$ 749,00). Cinza, 70% poliéster e 30% viscose; forro com 97% poliéster e 3% elastano, segundo a ficha.",
+          "[Body Gola Alta Manga Longa Second Skin](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047): R$ 135,20 (preço cheio R$ 169,00). 90% poliamida e 10% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As duas peças somam R$ 659,50. Com o cupom de 10%, o total fica em R$ 593,55. Como no look 1, a calça fica por conta de uma calça de alfaiataria que você já tem.",
@@ -100325,18 +100174,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6669
           }
-        ],
-        "links": [
-          {
-            "label": "Ver o blazer mescla na loja",
-            "href": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
-            "sponsored": true
-          },
-          {
-            "label": "Ver o body gola alta na loja",
-            "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -100345,9 +100182,9 @@ export const reviewsData: unknown[] = [
           "As três peças são vendidas separadas: a loja não vende esse conjunto pronto. As fichas do colete e da calça aparecem como vermelho."
         ],
         "bullets": [
-          "Colete Alfaiataria Trespasse Vermelho: R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
-          "Calça Vermelha: R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
-          "Body Regata Second Skin Duplo: R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
+          "[Colete Alfaiataria Trespasse Vermelho](https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393): R$ 799,00 (sem promoção). 100% linho, segundo a ficha.",
+          "[Calça Vermelha](https://www.cleastore.com.br/produto/calca-vermelha-4340): R$ 349,00 (sem promoção). 57% algodão e 43% poliéster, segundo a ficha. A loja a chama de \"calça de alfaiataria\" na descrição, mas ela não é de linho.",
+          "[Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045): R$ 127,20 (preço cheio R$ 159,00). 90% poliamida e 10% elastano, segundo a ficha."
         ],
         "postParagraphs": [
           "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
@@ -100376,29 +100213,12 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6669
           }
-        ],
-        "links": [
-          {
-            "label": "Ver o colete vermelho na loja",
-            "href": "https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393",
-            "sponsored": true
-          },
-          {
-            "label": "Ver a calça vermelha na loja",
-            "href": "https://www.cleastore.com.br/produto/calca-vermelha-4340",
-            "sponsored": true
-          },
-          {
-            "label": "Ver o body duplo na loja",
-            "href": "https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045",
-            "sponsored": true
-          }
         ]
       },
       {
         "heading": "Casual de sexta: t-shirt oversized com blazer ou colete",
         "paragraphs": [
-          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A T-Shirt Oversized Algodão custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
+          "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. Segundo a ficha, o corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
           "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
           "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe em 14/10/2026."
         ],
@@ -100409,13 +100229,6 @@ export const reviewsData: unknown[] = [
             "caption": "T-Shirt Oversized Algodão. Imagem: Cléa Store.",
             "objectFit": "contain",
             "aspectRatio": 0.6669
-          }
-        ],
-        "links": [
-          {
-            "label": "Ver a t-shirt oversized na loja",
-            "href": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
-            "sponsored": true
           }
         ]
       },
