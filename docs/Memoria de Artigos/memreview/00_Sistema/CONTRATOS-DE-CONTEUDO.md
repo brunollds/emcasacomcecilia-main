@@ -30,6 +30,12 @@
 
   - **`4CW5Y` (SHEIN) é código de indicação** da SHEIN Brasil, pesquisado no aplicativo. Fora do português, o texto avisa que o código e as campanhas são da SHEIN Brasil.
   - Os cupons promocionais da YesStyle (como o MIDS26) vencem e não entram no texto do artigo: o artigo manda para a página da loja, que mostra os vigentes.
+  - **Hostinger é indicação por link, não cupom:** o SONARDEOFERTAS vai dentro do link e o leitor não digita nada. Nunca chamar de cupom nem mandar digitar o código. Todo texto diz que os 20% valem **só no primeiro período** e que **não somam** com outros cupons.
+  - **CECI (Dolce Gusto):** o limite de 3 usos é por campanha, e o mesmo código volta na campanha seguinte (Bruno, 19/10/2026). No máximo uma frase sobre o limite; nunca tratá-lo como desconto de uso único. Nunca indicar o CECI em fórmula infantil de 0 a 12 meses.
+  - **MAUAD (Let's Eat It e Belive)** é o sobrenome da Cecília: não destacar o nome nos termos de cupom.
+- **Formas de pagamento:** "vale em todas as formas de pagamento" só quando a fonte (loja, `couponsData.ts` ou decisão registrada do Bruno) disser. Nunca escrever "Pix e cartão" no lugar.
+- **Mercado Livre e outros marketplaces:** o código do site não vale lá. O link de afiliado do Mercado Livre de cada marca é o meli.la do FAQ da loja em `couponsData.ts`. Quando o marketplace sai mais barato, o texto diz, com a data da pesquisa (seção 1 do Job 1).
+- **Marca concorrente:** sem link de afiliado e sem cupom, e o texto continua justo.
 - **`affiliate`:** **Slug exato do cupom** em `src/lib/couponsData.ts` (ex: `"dolce-gusto"`, `"i-wanna-sleep"`, `"nestle-nutre"`, `"damie"`). O `validate:content` barra slug que não existe.
 - **`editorialNote`:** Disclosure claro de parceria comissionada ("Podemos receber comissão…"), com no máximo 3 linhas no celular (cerca de 90 caracteres; 2 linhas é o ideal) e sem data de consulta: a data do artigo é a referência.
 - **Código de terceiros:** nunca citar código de outra pessoa ou de site de cupons, nem o que aparece na visão geral do Google. A busca por "cupom de primeira compra" é respondida com o nosso código.

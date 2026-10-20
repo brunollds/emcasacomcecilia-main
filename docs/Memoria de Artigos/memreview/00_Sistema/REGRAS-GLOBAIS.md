@@ -47,5 +47,6 @@
 ## 5. Segurança Regulatória & Claims de Saúde
 - **Suplementos e Alimentos (I Wanna Sleep / Nestlé Nutre):**
   - Jamais prometer cura, tratamento ou benefícios não aprovados pela ANVISA.
+  - O texto do artigo não cita a Anvisa (registro, aprovação, proibição ou banimento) e não faz alegação de saúde. A Anvisa serve à pauta como checagem interna, não como argumento no texto; exceção só por decisão do Bruno no artigo.
   - Toda afirmação na matriz de claims deve apontar para uma **fonte exata** (com resolução, trecho do rótulo ou URL oficial).
   - Sempre orientar a consulta a um médico ou nutricionista em questões de saúde e posologia.
