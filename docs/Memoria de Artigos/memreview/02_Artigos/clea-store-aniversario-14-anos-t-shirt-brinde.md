@@ -1,6 +1,6 @@
 ---
-titulo_provisorio: "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 18/10, com o cupom CSEMCASACOMCECILIA"
-seo_title: "Cléa Store 14 anos: T-Shirt de brinde até 18/10"
+titulo_provisorio: "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 31/10, com o cupom CSEMCASACOMCECILIA"
+seo_title: "Cléa Store 14 anos: T-Shirt de brinde até 31/10"
 slug_sugerido: "clea-store-aniversario-14-anos-t-shirt-brinde"
 parceiro: "[[Clea-Store]]"
 category: "cupons-como-usar"
@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia & Cupons"
 status: "publicado"
 responsavel: "Claude"
-proxima_acao: "depois de 18/10/2026, virar promoção encerrada apontando para o cupom"
+proxima_acao: "depois de 31/10/2026, virar promoção encerrada apontando para o cupom"
 publicado_em: "2026-10-15"
 nota_publicacao: null
 bloqueado_por: null
@@ -286,3 +286,7 @@ A faixa do site traz mais três regras da loja, além do brinde. Elas valem no m
 
 - JSON `content/reviews/clea-store-aniversario-14-anos-t-shirt-brinde.json`, id 442, conferido contra o texto aprovado. Ajustes do Job 3: a tabela vai do mais barato ao mais caro (Body Regata antes da T-Shirt avulsa), o desconto aparece como "R$ -53,01", igual ao print, e o link para o passo a passo do cupom ficou só na seção do teste.
 - Imagens: `clea-store-aniversario-14-anos-capa.webp` (1600×900) e `clea-store-aniversario-14-anos-carrinho.webp` (848×1092, o print de 424×546 ampliado 2x).
+
+## Atualização de 20/10/2026
+
+A promoção seguiu ativa depois de 18/10, sem outra data de fim. O Bruno estipulou o fim em 31/10/2026: título, SEO, resposta rápida, contras e FAQ passaram de "18/10/2026, às 23h59" para "31/10/2026". Depois de 31/10, o artigo vira promoção encerrada apontando para o cupom.
