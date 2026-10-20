@@ -6,14 +6,16 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de ingredientes"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar preços e rótulos na última semana de outubro de 2026"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 60
 score_ponderado_total: 78
 data_criacao: "2026-10-20"
+publicado_em: "2026-10-20"
+nota_publicacao: "No ar em 20/10/2026 16:07 UTC (PR #185, release `e7443ec`, build `01a15a0e-6dd4-72e7-ba1b-30696757402d`), id 521; capa desenhada e as tabelas do alfajor e da Doctor Bar Avelã no CDN; probe 39454694538."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
