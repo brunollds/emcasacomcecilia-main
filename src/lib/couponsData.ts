@@ -1782,19 +1782,19 @@ export const COUPONS: Coupon[] = [
     discountNumber: 10,
     category: 'Whey, creatina, pré-treino e snacks proteicos',
     hubCategory: 'saude',
-    shortDescription: 'todo o site Mais Mu, inclusive nos produtos em oferta',
+    shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em whey protein, creatina, pré-treino, barras e snacks proteicos no site oficial da Mais Mu, inclusive nos produtos que já estão em oferta.',
+      'Código da Cecília para economizar em whey protein, creatina, pré-treino, barras e snacks proteicos no site oficial da Mais Mu, com qualquer forma de pagamento e inclusive nos produtos que já estão em oferta.',
     metaTitle: 'Cupom Mais Mu Outubro 2026: MMEMCASACOMCECILIA — 10% OFF',
     metaDescription:
-      'Cupom Mais Mu de outubro de 2026: use MMEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as ofertas. Veja o cashback e o frete grátis.',
+      'Cupom Mais Mu de outubro de 2026: use MMEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as ofertas e com os 3% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Mais Mu',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
       'Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026; abaixo disso, o frete é calculado no checkout',
     combinable:
-      'Soma com as promoções vigentes do site; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
+      'Soma com as promoções vigentes do site e com os 3% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
     lastVerified: '2026-10-20',
     testNote:
       'Aplicamos o MMEMCASACOMCECILIA num carrinho de R$ 239,89 com um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90, e o desconto foi de R$ 23,99: o total caiu para R$ 215,90, com os 10% valendo também no item que já estava em oferta.',
@@ -1805,7 +1805,7 @@ export const COUPONS: Coupon[] = [
       'Confira a linha "Desconto do cupom" no resumo do pedido antes de seguir para a entrega.',
     ],
     aboutBrand:
-      'A Mais Mu é uma marca brasileira de proteína que começou com o whey "na garrafinha" e hoje vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer e snacks salgados no site oficial. O cupom MMEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as ofertas. A recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Mais Mu é uma marca brasileira de proteína que começou com o whey "na garrafinha" e hoje vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer e snacks salgados no site oficial. O cupom MMEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as ofertas e com o desconto de 3% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
         question: 'O cupom MMEMCASACOMCECILIA vale para todos os produtos da Mais Mu?',
@@ -1815,6 +1815,11 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava com 33% de desconto.',
+      },
+      {
+        question: 'O cupom MMEMCASACOMCECILIA soma com o desconto do Pix?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Mais Mu ainda tira os 3% de desconto dela.',
       },
       {
         question: 'Ganho o cashback da Mais Mu usando o cupom?',
@@ -1837,6 +1842,12 @@ export const COUPONS: Coupon[] = [
           'Sim. No teste de checkout de 20/10/2026, o MMEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
       },
       {
+        question: 'O cupom MMEMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O MMEMCASACOMCECILIA é usado no checkout do site oficial da Mais Mu e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/24RjvdP',
+      },
+      {
         question: 'Onde coloco o cupom na Mais Mu?',
         answer: 'No checkout, em "Adicionar cupom de desconto", depois de clicar em "Iniciar compra" no carrinho.',
       },
@@ -1853,7 +1864,7 @@ export const COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todo o site',
-      note: 'Soma com as ofertas; acima de R$ 250, já com o desconto, a loja ainda devolve 5% em cashback',
+      note: 'Soma com as ofertas e os 3% do Pix; acima de R$ 250, já com o desconto, a loja ainda devolve 5% em cashback',
     },
     status: 'ativo',
     featured: false,

@@ -22,8 +22,9 @@ Dr. Peanut e Black Skull).
 | A loja não acumula cupons | condicao_comercial_volatil | FAQ da loja (lojamaismu.com.br/faq) | 2026-10-20 | 2026-11-20 | O crédito do cashback e o desconto de boas-vindas (R$ 15 acima de R$ 250, 7 dias) também entram como cupom, então não somam com o nosso | Alta |
 | Cashback de 5% nas compras acima de R$ 250 | condicao_comercial_volatil | lojamaismu.com.br/apps/pulse-b-mu/cashback | 2026-10-20 | 2026-11-20 | Programa da própria loja, para qualquer cliente. Crédito de 90 dias, usado como cupom em pedido a partir de R$ 200. No checkout com o cupom, o mínimo de R$ 250 era contado sobre o total já com desconto ("faltam R$ 34,10" num total de R$ 215,90) | Alta |
 | Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste | condicao_comercial_volatil | Faixa do topo do site oficial | 2026-10-20 | 2026-11-20 | Abaixo disso, frete calculado no checkout | Alta |
-| Pix com 3% de desconto | condicao_comercial_volatil | FAQ da loja | 2026-10-20 | 2026-11-20 | **Não conferido** se soma com o cupom: o meio de pagamento só aparece depois dos dados pessoais. Não citar a soma até o Bruno confirmar | Média |
-| Sem link de afiliado: `offerUrl` é o site oficial | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-20 | 2026-11-20 | A atribuição é pelo cupom. Sem link de Mercado Livre por enquanto | Alta |
+| Soma com os 3% de desconto do Pix e vale em todas as formas de pagamento | condicao_comercial_volatil | Bruno, 20/10/2026; FAQ da loja (3% no Pix) | 2026-10-20 | 2026-11-20 | Confirmado pelo Bruno depois do teste (o meio de pagamento só aparece depois dos dados pessoais) | Alta |
+| Sem link de afiliado: `offerUrl` é o site oficial | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-20 | 2026-11-20 | A atribuição é pelo cupom | Alta |
+| Link de afiliado da marca no Mercado Livre: `https://meli.la/24RjvdP` | condicao_comercial_volatil | Bruno, 20/10/2026; `mercadoLivreUrl` no FAQ | 2026-10-20 | 2026-11-20 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 
 Teste de checkout em 2026-10-20 (sem finalizar e sem dados pessoais): Whey Protein Concentrado
 Paçoquita 450 g (R$ 159,99) e Creatina 100% Pura Sem Sabor refil 500 g em oferta (R$ 79,90, de
