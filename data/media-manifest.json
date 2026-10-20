@@ -38029,6 +38029,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56656,
+      "sha256": "27979fe593e022436ea29aa9cf222c04cbb91b2fb1bfd115fe1d3e1449227387",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-embalagens-creatina.webp",
+      "storage_filename": "black-skull-ou-dux-embalagens-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 154,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 102495,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/27979fe593e022436ea29aa9cf222c04cbb91b2fb1bfd115fe1d3e1449227387/black-skull-ou-dux-embalagens-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/27979fe593e022436ea29aa9cf222c04cbb91b2fb1bfd115fe1d3e1449227387/black-skull-ou-dux-embalagens-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T23:35:50.570Z",
+      "verification_etag_or_digest": "27979fe593e022436ea29aa9cf222c04cbb91b2fb1bfd115fe1d3e1449227387",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71670,
+      "sha256": "873a5ad0bb396b3605e5e65934891793e2d082ab5f388bcefdd17107be1f16db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-embalagens-whey.webp",
+      "storage_filename": "black-skull-ou-dux-embalagens-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 124,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 102465,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-embalagens-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/873a5ad0bb396b3605e5e65934891793e2d082ab5f388bcefdd17107be1f16db/black-skull-ou-dux-embalagens-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/873a5ad0bb396b3605e5e65934891793e2d082ab5f388bcefdd17107be1f16db/black-skull-ou-dux-embalagens-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T23:35:50.571Z",
+      "verification_etag_or_digest": "873a5ad0bb396b3605e5e65934891793e2d082ab5f388bcefdd17107be1f16db",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
       "media_kind": "image",
@@ -61095,6 +61187,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T22:50:32.612Z",
       "verification_etag_or_digest": "c7372a08fa3d5dcf8104596bc226aa81321c76af2745f568a604f243260eb7ee",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-dux-multimax-e-shook.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-dux-multimax-e-shook.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69724,
+      "sha256": "0f2835008970c23057d0be00ff4038206dc25f1476e8c0d37d62d3fed04f2409",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-dux-multimax-e-shook.webp",
+      "storage_filename": "max-titanium-ou-dux-multimax-e-shook.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-dux.json",
+          "line": 247,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-dux-multimax-e-shook.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 102929,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-dux-multimax-e-shook.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0f2835008970c23057d0be00ff4038206dc25f1476e8c0d37d62d3fed04f2409/max-titanium-ou-dux-multimax-e-shook.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0f2835008970c23057d0be00ff4038206dc25f1476e8c0d37d62d3fed04f2409/max-titanium-ou-dux-multimax-e-shook.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T23:35:50.571Z",
+      "verification_etag_or_digest": "0f2835008970c23057d0be00ff4038206dc25f1476e8c0d37d62d3fed04f2409",
       "verification_status": "verified"
     },
     {
