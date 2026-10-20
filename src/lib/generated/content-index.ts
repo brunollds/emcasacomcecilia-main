@@ -98909,5 +98909,1308 @@ export const reviewsData: unknown[] = [
         "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
       }
     ]
+  },
+  {
+    "id": 514,
+    "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+    "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar",
+    "seoTitle": "Mesa posta de Natal: o que precisa e quanto custa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mesa posta de Natal para seis pessoas em três faixas de preço, de R$ 1.019,90 a R$ 5.250,69, com faqueiro, taças, sousplat, guardanapo e centro de mesa da Let's Eat It e o passo a passo para montar.",
+    "metaDescription": "Mesa posta de Natal para 6 pessoas: o que comprar, quanto custa em três faixas (de R$ 1.019,90) e como montar cada lugar. Preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+    "imageAlt": "Taça de vinho tinto Bohemia Magnum servida numa mesa de Natal, com flores vermelhas ao fundo",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para seis pessoas, a mesa posta de Natal fica entre R$ 968,91 (faixa básica) e R$ 4.988,16 (faixa completa), com o cupom MAUAD e sem frete. A faixa intermediária sai por R$ 2.031,40. Sem o cupom, os totais são R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69. Os preços são de venda em 20/10/2026 e mudam com promoção.",
+          "Se você já tem pratos rasos em casa, a mesa para seis pede talheres, taças, guardanapos, sousplats e um centro de mesa. As faixas 1 e 2 partem dos pratos que você já tem. A faixa 3 compra também o aparelho de jantar inteiro."
+        ]
+      },
+      {
+        "heading": "O que compõe a mesa posta para seis pessoas",
+        "paragraphs": [
+          "A conta é de um item por pessoa, com exceção do centro de mesa, que é um por mesa:"
+        ],
+        "bullets": [
+          "Prato raso: 1 por pessoa, seis no total.",
+          "Prato de sobremesa: 1 por pessoa.",
+          "Talheres: 5 por pessoa (faca, garfo, colher, garfo de sobremesa ou de bolo e colher de chá ou de sobremesa).",
+          "Taça de vinho: 1 por pessoa. Taça de água ou de champanhe, se quiser.",
+          "Guardanapo: 1 por pessoa.",
+          "Sousplat: 1 por pessoa.",
+          "Anel de guardanapo: 1 por pessoa. Cada kit traz 4 anéis.",
+          "Centro de mesa: 1 por mesa.",
+          "Velas: opcionais."
+        ],
+        "postParagraphs": [
+          "Os três faqueiros de 30 peças servem seis pessoas com cinco talheres cada, mas cada um traz tipos diferentes. O Avalon Wolff (R$ 383,90) tem garfo de mesa, colher de mesa, faca, colher de chá e garfo de bolo, e não traz colher de sobremesa. O Berna Dourado Wolff (R$ 539,90) tem faca, garfo, garfo de sobremesa, colher de sopa e colher de chá, e também não traz colher de sobremesa. O Laguiole La Maison Luxo Marfim (R$ 1.099) tem faca, garfo, colher, colher de sobremesa e garfo de sobremesa, e não traz colher de chá. Os dois Wolff não acompanham estojo, segundo a ficha.",
+          "O aparelho Porto Brasil de 30 peças (R$ 868) tem seis pratos rasos de 26,5 cm, seis de sobremesa de 19,5 cm, seis pratos fundos de 21,5 cm, seis xícaras e seis pires. São cinco peças por pessoa. Ele não traz talheres nem travessas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+            "alt": "Garfo do faqueiro Avalon da Wolff sobre guardanapo azul com anel prateado, ao lado de um prato",
+            "caption": "Faqueiro Avalon, 30 peças, Wolff. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "As três faixas para seis pessoas",
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Total sem frete",
+            "Com cupom MAUAD",
+            "Por pessoa (sem cupom / com MAUAD)",
+            "Itens-chave"
+          ],
+          "rows": [
+            [
+              "1, básica",
+              "R$ 1.019,90",
+              "R$ 968,91",
+              "R$ 169,98 / R$ 161,49",
+              "Faqueiro Avalon, taças Bohemia Magnum, centro Duna, velas"
+            ],
+            [
+              "2, intermediária",
+              "R$ 2.138,32",
+              "R$ 2.031,40",
+              "R$ 356,39 / R$ 338,57",
+              "Faqueiro Berna Dourado, sousplat fio ouro, anéis Floratta, taças de champanhe e vinho"
+            ],
+            [
+              "3, completa",
+              "R$ 5.250,69",
+              "R$ 4.988,16",
+              "R$ 875,12 / R$ 831,36",
+              "Aparelho Porto Brasil 30 peças, faqueiro Laguiole Marfim, centro Crescens, Voluspa"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+            "alt": "Quadro com as três faixas da mesa posta de Natal para seis pessoas: R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69, com o valor com o cupom MAUAD e por pessoa",
+            "caption": "As três faixas em 20/10/2026, sem frete. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Faixa 1: mesa básica para seis pessoas",
+        "paragraphs": [
+          "A faixa básica custa R$ 1.019,90 sem cupom, ou R$ 968,91 com o cupom MAUAD (5% sobre o subtotal, confira no checkout). São R$ 169,98 por pessoa sem o cupom, ou R$ 161,49 com ele. Os preços são de venda em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Sousplat",
+              "Sousplat Liso Verde 33 cm, Wolff",
+              "6",
+              "R$ 21,90",
+              "R$ 131,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo de Tecido Eco Riley 45 x 45 cm, Copa&Cia",
+              "6",
+              "R$ 21,80",
+              "R$ 130,80"
+            ],
+            [
+              "Anel (opcional)",
+              "Kit 4 Anéis Traccia Vermelho, Copa&Cia",
+              "1",
+              "R$ 69,90",
+              "R$ 69,90"
+            ],
+            [
+              "Taças de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro 30 Peças Aço Inox Avalon, Wolff",
+              "1",
+              "R$ 383,90",
+              "R$ 383,90"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Duna Retangular com Pés, Grillo",
+              "1",
+              "R$ 74,00",
+              "R$ 74,00"
+            ],
+            [
+              "Velas",
+              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "1",
+              "R$ 80,00",
+              "R$ 80,00"
+            ],
+            [
+              "Total",
+              "",
+              "",
+              "",
+              "R$ 1.019,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O sousplat é de plástico, como diz a ficha do produto. O kit de anéis traz 4 peças, então cobre só quatro das seis pessoas. Para os seis, são dois kits, e o total sobe R$ 69,90 a cada kit.",
+          "Dos pratos, a faixa não compra os rasos: eles ficam de casa. Se você já tem seis pratos de sobremesa, também entram sem custo. A colher que falta no Avalon é a de sobremesa."
+        ]
+      },
+      {
+        "heading": "Faixa 2: mesa intermediária, com o tema Natal opcional",
+        "paragraphs": [
+          "A faixa intermediária custa R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele. Os preços são de venda em 20/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço unitário",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Sousplat",
+              "Sousplat Cristal Thin Edge Fio Ouro 33 cm, Wolff",
+              "6",
+              "R$ 77,90",
+              "R$ 467,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo 100% Algodão Bordado Oliva, Decortextil",
+              "6",
+              "R$ 36,00",
+              "R$ 216,00"
+            ],
+            [
+              "Anéis",
+              "Jogo 4 Anéis Floratta Branco, Wolff",
+              "2 jogos",
+              "R$ 97,90",
+              "R$ 195,80"
+            ],
+            [
+              "Taça de champanhe",
+              "Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia",
+              "1",
+              "R$ 128,42",
+              "R$ 128,42"
+            ],
+            [
+              "Taça de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro 30 Peças Aço Inox Berna Dourado, Wolff",
+              "1",
+              "R$ 539,90",
+              "R$ 539,90"
+            ],
+            [
+              "Pratos de sobremesa",
+              "Jogo 6 Pratos de Sobremesa Jingle Bells 21 cm, Alleanza",
+              "1",
+              "R$ 214,90",
+              "R$ 214,90"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Duna Redonda com Pés, Grillo",
+              "1",
+              "R$ 146,00",
+              "R$ 146,00"
+            ],
+            [
+              "Velas",
+              "Conjunto 3 Velas Natal Parafina Verde, BTC Decor",
+              "1",
+              "R$ 80,00",
+              "R$ 80,00"
+            ],
+            [
+              "Total",
+              "",
+              "",
+              "",
+              "R$ 2.138,32"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os pratos rasos ficam de casa, como na faixa 1. Os guardanapos de algodão pedem lavagem à mão a 40 °C, sem lavagem a seco, segundo a ficha. O Berna não traz colher de sobremesa, então ela é a peça a completar.",
+          "O tema Natal é opcional e não entra no total acima. Há dois itens. O sousplat Noite de Brinquedos 34 cm, da Scalla (R$ 254,90 cada, vendido avulso), tem borda ondulada e padrão geométrico vermelho e dourado, segundo a descrição. Para seis, são R$ 1.529,40. O prato de sobremesa Soldadinhos Filete Ouro 21 cm, da Alleanza, vem em jogo de seis por R$ 564,00. Como tem filete de ouro, a ficha diz que não vai ao micro-ondas nem à lava-louças, então a lavagem é à mão.",
+          "Se a mesa é presente para quem cozinha, o [guia de presente de Natal para quem gosta de cozinhar](/reviews/presente-natal-quem-gosta-de-cozinhar) reúne outras ideias."
+        ]
+      },
+      {
+        "heading": "Faixa 3: o que vem no conjunto completo",
+        "paragraphs": [
+          "Os preços desta faixa são de venda, lidos na Let's Eat It em 20/10/2026, e mudam com promoção. Para seis pessoas, a faixa 3 soma R$ 5.250,69 sem frete. Mais da metade desse valor está em três peças: o aparelho de jantar, o faqueiro Laguiole e o centro de mesa. Por isso vale olhar item por item."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Produto",
+            "Qtd",
+            "Preço",
+            "Subtotal"
+          ],
+          "rows": [
+            [
+              "Aparelho de jantar",
+              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças, Porto Brasil",
+              "1",
+              "R$ 868,00",
+              "R$ 868,00"
+            ],
+            [
+              "Sousplat",
+              "Sousplat Cerâmica Savana 33 cm, Maison Blanche",
+              "6",
+              "R$ 121,90",
+              "R$ 731,40"
+            ],
+            [
+              "Guardanapo",
+              "Guardanapo 100% Algodão Bordado Duplo Terracota, Decortextil",
+              "6",
+              "R$ 57,00",
+              "R$ 342,00"
+            ],
+            [
+              "Anéis",
+              "Kit 4 Anéis Baia do Sancho, Copa&Cia",
+              "2",
+              "R$ 169,90",
+              "R$ 339,80"
+            ],
+            [
+              "Taça de água",
+              "Jogo 6 Taças para Água em Cristal Bohemia Eva 350 ml",
+              "1",
+              "R$ 243,90",
+              "R$ 243,90"
+            ],
+            [
+              "Taça de champanhe",
+              "Jogo 6 Taças para Champanhe em Cristal Bohemia Eva 190 ml",
+              "1",
+              "R$ 246,90",
+              "R$ 246,90"
+            ],
+            [
+              "Taça de vinho",
+              "Jogo 6 Taças para Vinho Tinto em Cristal Bohemia Magnum 740 ml",
+              "1",
+              "R$ 149,90",
+              "R$ 149,90"
+            ],
+            [
+              "Talheres",
+              "Faqueiro Laguiole La Maison Luxo Marfim 30 peças",
+              "1",
+              "R$ 1.099,00",
+              "R$ 1.099,00"
+            ],
+            [
+              "Centro de mesa",
+              "Centro de Mesa Crescens Baixo, BTC Decor",
+              "1",
+              "R$ 789,00",
+              "R$ 789,00"
+            ],
+            [
+              "Vela",
+              "Vela Voluspa Copo de Vidro Clássico Makassar Ebony e Peach, 60 horas",
+              "1",
+              "R$ 440,79",
+              "R$ 440,79"
+            ],
+            [
+              "**Total**",
+              "",
+              "",
+              "",
+              "**R$ 5.250,69**"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O aparelho Porto Brasil é a base da mesa. São 30 peças: 6 pratos rasos de 26,5 cm, 6 pratos de sobremesa de 19,5 cm, 6 pratos fundos de 21,5 cm, 6 xícaras de café de 120 ml e 6 pires. Não vêm talheres nem travessas. A ficha diz que o conjunto serve \"com elegância e consistência até seis pessoas\", ou seja, cinco peças por pessoa. Com ele, a faixa 3 não pede pratos de casa, e os talheres vêm do faqueiro.",
+          "Pela ficha, as peças vão à lava-louças, ao forno, ao freezer e ao micro-ondas, com variação térmica de até cerca de 180 °C. Para a leitura da própria marca, veja [a análise sobre a Porto Brasil](/reviews/porto-brasil-e-boa).",
+          "As taças são da Bohemia e vêm em três modelos. A Eva de 350 ml, em cristal transparente, custa R$ 243,90 o jogo de seis e serve para água. A Eva de 190 ml, também em cristal transparente, custa R$ 246,90 e serve para champanhe. Para o vinho, o jogo de seis Magnum de 740 ml, em cristal, custa R$ 149,90.",
+          "O faqueiro Laguiole La Maison Luxo Marfim tem 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa. Não traz colher de chá. Pela ficha, a lâmina é de aço inox e o cabo é de ABS. A ficha não diz se pode ir à lava-louças. É a peça de maior preço da faixa.",
+          "O centro de mesa Crescens Baixo, da BTC Decor, é de metal e mármore e custa R$ 789,00. A vela Voluspa de 60 horas tem, segundo a ficha, notas de ébano, pêssego e flor de macieira, e custa R$ 440,79.",
+          "Vale o conjunto completo quando a prioridade é comprar tudo de uma vez e manter a mesma linha, sem combinar louça, taça e talher de lojas diferentes. Se a casa já tem pratos brancos, taças e talheres, a faixa 3 traz peças que a mesa pode não precisar, e a faixa 2 ou a 1 podem atender. Dentro da faixa 3, o faqueiro Laguiole é o item mais caro e pode ser trocado por um dos faqueiros Wolff sem mudar a lógica da mesa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+            "alt": "Aparelho de jantar Porto Brasil Arauco verde-escuro empilhado, com pratos rasos, fundos, de sobremesa, xícaras e pires",
+            "caption": "Aparelho de jantar Arauco/Greenery, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Como montar a mesa de Natal, passo a passo",
+        "paragraphs": [
+          "Nas faixas 1 e 2, o prato raso é o de casa. Na faixa 3, ele vem no aparelho Porto Brasil. A ordem abaixo vale para cada lugar, e as seis cadeiras seguem o mesmo padrão. A imagem desta seção é um desenho da posição, não uma foto de mesa nossa."
+        ],
+        "bullets": [
+          "Ponha o sousplat no centro de cada lugar, com a borda a uns dois dedos da beira da mesa.",
+          "Coloque o prato raso sobre o sousplat. Se houver sopa, o prato fundo entra sobre o raso.",
+          "Os talheres ficam nas laterais: o garfo à esquerda do prato, a faca e a colher à direita, com o fio da faca virado para o prato. O talher de sobremesa, se for usar, fica acima do prato, com o cabo para cada lado.",
+          "As taças ficam acima da faca: a de água logo acima, a de vinho à direita dela, um pouco mais baixa, e a de champanhe, se houver, entre as duas.",
+          "O guardanapo fica dobrado à esquerda do garfo ou sobre o prato. Se usar anel, prenda o guardanapo no anel antes de pôr na mesa.",
+          "O centro baixo vai no meio da mesa, em altura que não atrapalhe a visão de quem está em frente. As velas ficam ao lado do centro, longe dos guardanapos e das pontas de tecido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+            "alt": "Desenho de um lugar da mesa visto de cima, com sousplat, prato, talheres, três taças, guardanapo com anel e centro de mesa numerados de 1 a 6",
+            "caption": "Como montar cada lugar. Quadro do Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6
+          }
+        ]
+      },
+      {
+        "heading": "Casa Let's: dá para ver a mesa montada antes de comprar",
+        "paragraphs": [
+          "Segundo o site da Let's Eat It, a Casa Let's monta mesa posta com a equipe, e a visita não precisa de agendamento. Antes de ir, confirme o endereço, o horário e se a montagem ainda é oferecida."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e prazo para o Natal",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix. Confira no checkout como os dois descontos aparecem. As condições do cupom estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar está em [como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é simples: 5% sobre o subtotal, sem frete. Na faixa 3, R$ 5.250,69 menos R$ 262,53 dão R$ 4.988,16, ou R$ 831,36 por pessoa para seis pessoas. O frete é calculado à parte, pelo CEP.",
+          "O prazo para chegar antes do Natal muda por região: pela política de frete da loja, a entrega leva de 3 a 12 dias úteis, contados da confirmação do pagamento. A data-limite para pedir está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), e no checkout o prazo aparece para o seu CEP antes do pagamento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantas peças por pessoa uma mesa de Natal precisa? Para seis pessoas, o aparelho Porto Brasil dá cinco peças por pessoa (raso, sobremesa, fundo, xícara e pires), e o faqueiro de 30 peças dá cinco talheres por pessoa. Somam-se a isso uma taça de água, uma de vinho, um guardanapo e um sousplat.",
+          "Dá para montar a mesa sem sousplat? Dá. O sousplat é a base decorativa, e a mesa funciona sem ele. Na faixa 1, os seis sousplats de plástico Wolff custam R$ 131,40, e tirá-los reduz esse valor sem mudar o restante da lista.",
+          "Vale comprar o faqueiro completo? Vale se a mesa precisa de talheres para seis pessoas, porque o faqueiro de 30 peças já traz cinco talheres por pessoa. Entre os três faqueiros de 30 peças lidos, o Avalon é o mais barato, com R$ 383,90. O Berna Dourado custa R$ 539,90 e troca o garfo de bolo pelo garfo de sobremesa. O Laguiole custa R$ 1.099,00 e é da linha luxo, com lâmina de aço inox e cabo de ABS, segundo a ficha.",
+          "Dá para fazer uma mesa posta de Natal barata? A faixa 1 soma R$ 1.019,90 sem cupom, com sousplat, guardanapo e centro em cores que combinam, talheres completos e os pratos de casa. Na faixa 1, o faqueiro Avalon é o item mais caro, e o centro de mesa Duna retangular custa R$ 74,00."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo foram lidos no site da Let's Eat It em 20/10/2026. Preço de loja muda com promoção, então confira antes de comprar. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém da equipe comprou nem usou estas peças. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "presente-natal-quem-gosta-de-cozinhar",
+        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      },
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "slug": "presente-de-casamento-ideias-por-preco",
+    "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset",
+    "seoTitle": "Presente de casamento: ideias por faixa de preço",
+    "type": "Guia de Presentes",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ideias de presente de casamento em quatro faixas de preço, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com aparelho de jantar Porto Brasil, Le Creuset, taças Bohemia e faqueiros, e o que a ficha de cada peça diz.",
+    "metaDescription": "Presente de casamento por faixa de preço: Le Creuset, Porto Brasil, taças Bohemia e faqueiros de até R$ 300 a mais de R$ 1.500, com preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+    "imageAlt": "Duas taças de cristal Bohemia Angela com borda dourada sobre uma mesa clara",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Quanto gastar depende da faixa. Abaixo, um presente de cada uma, com o preço de venda em 20/10/2026 (os preços mudam com promoção):"
+        ],
+        "bullets": [
+          "Até R$ 300: ramekin em formato de coração, Le Creuset, R$ 159.",
+          "De R$ 300 a 700: travessa retangular Heritage Cotton de 26 cm, Le Creuset, R$ 529.",
+          "De R$ 700 a 1.500: aparelho de jantar Porto Brasil Arauco/Greenery de 30 peças, R$ 868.",
+          "Acima de R$ 1.500: panela redonda Signature Azure de 2,4 L, Le Creuset, R$ 2.329."
+        ],
+        "postParagraphs": [
+          "Os valores de uma faixa não se somam, porque cada presente aparece com o seu próprio preço. O cupom MAUAD dá 5% sobre o subtotal no site da Let's Eat It, vale em todas as formas de pagamento e soma com o desconto do Pix; o frete fica à parte, calculado por CEP, e na panela de R$ 2.329 o preço sai por R$ 2.212,55 antes do frete (confira no checkout)."
+        ]
+      },
+      {
+        "heading": "Quanto custa em cada faixa",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. Cada faixa mostra o que a loja vende nela; o uso de cada peça é o que a própria ficha do produto diz."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "O que a ficha diz de uso"
+          ],
+          "rows": [
+            [
+              "Até R$ 300",
+              "Ramekin Formato Coração 300 ml Vermelho",
+              "Le Creuset",
+              "R$ 159",
+              "Seguro para forno, micro-ondas, freezer e lava-louças."
+            ],
+            [
+              "Até R$ 300",
+              "Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml (19 x 5,5 cm)",
+              "Porto Brasil",
+              "R$ 189,90",
+              "Stoneware; forno, freezer, micro-ondas (aquecimento gradual, as alças podem esquentar) e lava-louças."
+            ],
+            [
+              "Até R$ 300",
+              "Jogo 6 Taças Champagne Crex Optic 270 ml",
+              "Bohemia",
+              "R$ 128,42",
+              "Cristal ecológico; não vai a lava-louças, micro-ondas nem freezer; lavar à mão."
+            ],
+            [
+              "Até R$ 300",
+              "Moedor de Pimenta Black Onyx",
+              "Le Creuset",
+              "R$ 295,20",
+              "Ajuste de moagem por pino no topo; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Travessa Retangular Heritage Cotton 26 cm",
+              "Le Creuset",
+              "R$ 529",
+              "Seguro para freezer, forno, micro-ondas, grelha, lava-louças e utensílios de metal; de -22°C a 260°C."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml (28 x 6,5 cm)",
+              "Porto Brasil",
+              "R$ 322,90",
+              "Stoneware; forno, freezer, micro-ondas e lava-louças."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Jogo 6 Taças Champagne Ardea Verde Selva 220 ml",
+              "Bohemia",
+              "R$ 329,90",
+              "Cristal ecológico; cuidados de uso: ficha não diz."
+            ],
+            [
+              "De R$ 300 a 700",
+              "Faqueiro Aço Inox Avalon 30 peças",
+              "Wolff",
+              "R$ 383,90",
+              "Não é aconselhável usar em freezer, micro-ondas, forno ou fogão; lava-louças só seguindo as recomendações da ficha; não acompanha estojo."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Skillet Coração Tradition Vermelho 26 cm",
+              "Le Creuset",
+              "R$ 1.449",
+              "Ferro fundido esmaltado; compatível com todos os cooktops e forno até 260°C; lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "Le Creuset",
+              "R$ 929",
+              "Aço carbono esmaltado; pode ser usada em todas as fontes de calor, incluindo indução; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Aparelho de Jantar Stoneware Orgânico Arauco/Greenery 30 peças",
+              "Porto Brasil",
+              "R$ 868",
+              "Forno, freezer, micro-ondas e lava-louças (detalhes na seção do aparelho)."
+            ],
+            [
+              "De R$ 700 a 1.500",
+              "Faqueiro LaGuiole La Maison Luxo 30 peças",
+              "LaGuiole",
+              "R$ 1.099",
+              "Lâmina de aço inox, cabo em ABS; forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Azure 2,4 L (20 cm)",
+              "Le Creuset",
+              "R$ 2.329",
+              "Ferro fundido; serve para vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; lava-louças e lavagem à mão."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Rhone 5,3 L (26 cm), com pegador dourado",
+              "Le Creuset",
+              "R$ 3.089",
+              "Mesmas fontes de calor da Azure; lava-louças e lavagem à mão; pegadores de aço inox."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Aparelho de Jantar Stoneware Orgânico Shimeji Gold 30 peças",
+              "Porto Brasil",
+              "R$ 2.049,90",
+              "Não vai ao micro-ondas (o filete metálico pode danificar a peça); evitar lava-louças para preservar o dourado; lavar à mão."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Faqueiro Aço Inox Pisa 130 peças",
+              "Wolff",
+              "R$ 1.699",
+              "Não é aconselhável usar em forno, freezer, micro-ondas nem fogão; não acompanha estojo."
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+            "alt": "Travessa retangular Le Creuset Heritage Cotton com um bolo de laranja assado",
+            "caption": "Travessa Heritage Cotton 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem já tem casa montada",
+        "paragraphs": [
+          "Quando a casa já tem o básico, o presente pode seguir duas linhas. A primeira é a peça de complemento, algo que a mesa talvez ainda não tenha: a travessa retangular de 26 cm (R$ 529) ou a chaleira de 1,6 L com apito (R$ 929), que a ficha diz poder ir a qualquer fonte de calor, incluindo indução.",
+          "A segunda é a peça de reposição. Se o casal já tem uma linha de louça ou de talheres e precisa completar, a conta mais simples é procurar a mesma linha e conferir o tamanho na ficha do produto antes de comprar, porque cada peça tem o seu próprio tamanho e os seus cuidados.",
+          "Não há como saber, daqui, o que cada casal já tem. Por isso, a escolha entre complemento e reposição fica com quem vai dar o presente, e as fichas das peças dão o que cabe em cada caso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+            "alt": "Chaleira Le Creuset com apito na cor Azure, sobre uma tábua de madeira",
+            "caption": "Chaleira com apito 1,6 L Azure, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Aparelho de jantar Porto Brasil de 30 peças",
+        "paragraphs": [
+          "O aparelho de jantar Porto Brasil de 30 peças é de stoneware orgânico. Cada conjunto traz seis pratos rasos de 26,5 cm, seis pratos de sobremesa de 19,5 cm, seis pratos fundos (de 21 a 21,5 cm, conforme a cor) e seis xícaras de café de 120 ml com seus pires. São 30 peças no total."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cor",
+            "Preço de venda em 20/10/2026",
+            "Por pessoa (÷ 6)",
+            "O que a ficha diz de uso"
+          ],
+          "rows": [
+            [
+              "Arauco/Greenery",
+              "R$ 868",
+              "R$ 144,67",
+              "Forno, freezer, micro-ondas (a ficha cita cerca de 180°C, pede evitar choque térmico e diz que as alças podem esquentar no micro) e lava-louças."
+            ],
+            [
+              "Petroleum/Night Sky",
+              "R$ 868",
+              "R$ 144,67",
+              "Forno, freezer, micro-ondas e lava-louças, com os mesmos cuidados da linha de stoneware."
+            ],
+            [
+              "Shimeji Gold (cinza e dourada)",
+              "R$ 2.049,90",
+              "R$ 341,65",
+              "Não vai ao micro-ondas, porque o filete metálico pode danificar a peça; evitar lava-louças para preservar o dourado, e lavar à mão. Forno: ficha não diz."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha do Arauco/Greenery diz que o aparelho serve até seis pessoas, e por isso a conta por pessoa divide o preço por seis. A ficha do Shimeji Gold traz garantia de 90 dias para defeito e de 12 meses para gretamento.",
+          "Para o uso de cada cor, a diferença está na tabela: a stoneware das duas primeiras vai ao forno, ao freezer, ao micro-ondas e à lava-louças, e a Shimeji Gold é a que tem mais restrições. O [guia da Porto Brasil](/reviews/porto-brasil-e-boa) explica a marca. Para montar a mesa inteira, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que precisa e quanto custa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+            "alt": "Pratos e xícaras de stoneware Porto Brasil em tom claro, empilhados sobre a mesa",
+            "caption": "Stoneware Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Le Creuset: o que dá para comprar por faixa",
+        "paragraphs": [
+          "Os preços são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. A marca tem peças em todas as faixas deste guia, de um moedor de pimenta a uma panela de R$ 3.089. Onde a ficha de uma peça não traz o dado, a tabela diz \"ficha não diz\"."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Peça",
+            "Preço",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Até R$ 300",
+              "Moedor de Pimenta Black Onyx",
+              "R$ 295,20",
+              "Medida de 21 x 6 cm; a moagem se ajusta por um pino no topo. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Até R$ 300",
+              "Caneca Cerâmica Cotton 100 ml",
+              "R$ 129",
+              "Cerâmica premium esmaltada; pode ir à lava-louças. Forno e micro-ondas: ficha não diz."
+            ],
+            [
+              "R$ 300 a 700",
+              "Travessa Retangular Heritage Cotton 26 cm",
+              "R$ 529",
+              "\"Seguro para freezer, forno, micro-ondas, grelha, máquina de lavar louça e utensílios de metal\"."
+            ],
+            [
+              "R$ 700 a 1.500",
+              "Skillet Coração Tradition Vermelho 26 cm",
+              "R$ 1.449",
+              "Ferro fundido esmaltado, com interior vitrificado; compatível com todos os cooktops e forno até 260 °C. Lava-louças: ficha não diz."
+            ],
+            [
+              "R$ 700 a 1.500",
+              "Chaleira Tradicional com Apito 1,6 L Azure Blue",
+              "R$ 929",
+              "Aço carbono esmaltado; a ficha diz que serve em todas as fontes de calor, incluindo indução. Tem apito e marcação de nível. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Azure 2,4 L, 20 cm",
+              "R$ 2.329",
+              "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças."
+            ],
+            [
+              "Acima de R$ 1.500",
+              "Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm",
+              "R$ 3.089",
+              "Mesmas fontes de calor da Azure; pegadores de aço inox que a ficha diz aguentarem qualquer temperatura do forno. Pode ir à lava-louças."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A ficha da skillet diz que ela é o ferro fundido mais leve por litro do mercado. É uma afirmação da marca, sem comparação publicada na ficha. Para a leitura da marca, veja a [análise sobre a Le Creuset](/reviews/le-creuset-vale-a-pena)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+            "alt": "Panela redonda Le Creuset Signature na cor Cotton, de lado e vista de cima",
+            "caption": "Panela redonda Signature, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Taças Bohemia: cristal ecológico ou cristal",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. A Bohemia tem taças de cristal ecológico e de cristal comum. Nos jogos de seis lidos, o preço vai de R$ 128,42 a R$ 884,90."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Jogo de 6",
+            "Material, segundo a ficha",
+            "Preço",
+            "Cuidados na ficha"
+          ],
+          "rows": [
+            [
+              "Taças Champagne Crex Optic 270 ml",
+              "Cristal ecológico",
+              "R$ 128,42",
+              "Não vai à lava-louças, micro-ondas nem freezer; lavar à mão."
+            ],
+            [
+              "Taças para Vinho Tinto Magnum 740 ml",
+              "Cristal ecológico",
+              "R$ 149,90",
+              "Altura de 25 cm. Lava-louças e micro-ondas: ficha não diz."
+            ],
+            [
+              "Copos Baixos Sophia 340 ml",
+              "Cristal ecológico",
+              "R$ 154,90",
+              "Altura de 10 cm. Lava-louças e micro-ondas: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Eva 190 ml",
+              "Cristal (a ficha não diz ecológico)",
+              "R$ 246,90",
+              "Altura de 24,2 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Ardea Verde Selva 220 ml",
+              "Cristal ecológico",
+              "R$ 329,90",
+              "Altura de 27,5 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Champanhe Angela 190 ml, borda dourada",
+              "Cristal com borda dourada",
+              "R$ 499",
+              "Altura de 24,8 cm. Cuidados: ficha não diz."
+            ],
+            [
+              "Taças para Vinho Angela 350 ml, borda dourada",
+              "Cristal com borda dourada",
+              "R$ 884,90",
+              "Altura de 22,2 cm. Cuidados: ficha não diz."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As fichas não comparam os dois materiais, então este guia não diz qual é melhor. A escolha entre cristal ecológico e cristal fica com o casal e com o orçamento. A Crex Optic é a única com restrição escrita de lava-louças e micro-ondas, por isso quem quer uma taça que vá à máquina precisa ler a ficha de cada modelo antes de comprar.",
+          "No Reclame Aqui, a categoria \"Taças\" aparece entre os principais problemas da loja, com 20,11%, na aba geral do perfil (consulta de 02/10/2026, até três anos). A tabela não separa o tipo de problema, então não dá para dizer quantas dessas reclamações são de quebra no transporte. Segundo a loja, porcelana, cristal, vidro e cerâmica vão embalados um a um, e a peça que chega quebrada é reposta de graça, com fotos do produto e da embalagem; por isso, fotografe a caixa ao receber. Para o histórico da loja, veja [a análise sobre a Let's Eat It](/reviews/lets-eat-it-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Faqueiros: 30, 101 ou 130 peças",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção. O faqueiro de 30 peças mais barato é o Wolff Avalon, com R$ 383,90."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faqueiro",
+            "Peças",
+            "Preço",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Wolff Avalon aço inox, 30 peças",
+              "6 garfos de mesa, 6 colheres de mesa, 6 facas, 6 colheres de chá e 6 garfos de bolo",
+              "R$ 383,90",
+              "Aço inox. Não é aconselhável usar em freezer, micro-ondas, forno ou fogão. Lava-louças só seguindo as recomendações da ficha. Não acompanha estojo."
+            ],
+            [
+              "Wolff Berna Dourado aço inox, 30 peças",
+              "6 facas, 6 garfos, 6 garfos de sobremesa, 6 colheres de sopa e 6 colheres de chá",
+              "R$ 539,90",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Lava-louças com as recomendações. Não acompanha estojo."
+            ],
+            [
+              "LaGuiole La Maison Luxo, 30 peças (azul marinho, bordeaux, branco, marfim ou verde)",
+              "6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa",
+              "R$ 1.099",
+              "Lâmina de aço inox e cabo de ABS. Forno, micro-ondas e lava-louças: ficha não diz."
+            ],
+            [
+              "Wolff Avalon aço inox, 101 peças",
+              "12 de cada um de 8 tipos, mais garfo, colher e concha de salada, colher de arroz e colher de açúcar",
+              "R$ 1.598",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+            ],
+            [
+              "Wolff Pisa aço inox, 130 peças",
+              "As 101 peças da linha, mais 12 facas de peixe, 12 garfos de peixe, garfo e espátula de peixe, concha de molho, faca e garfo de assado",
+              "R$ 1.699",
+              "Mesma restrição de freezer, micro-ondas, forno e fogão. Não acompanha estojo."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os três faqueiros Wolff têm a mesma recomendação de cuidado na ficha. Se a mesa precisa só de talheres para seis pessoas, o faqueiro de 30 peças cobre. Os de 101 e 130 peças servem para quem quer talheres de serviço e de peixe."
+        ]
+      },
+      {
+        "heading": "Frete e prazo de entrega",
+        "paragraphs": [
+          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A política de frete que a loja publica (abril de 2026, lida em 02/10/2026) não traz faixa de frete grátis. O prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento; no Sul e no Sudeste, de 5 a 8. Se o presente tem data, confira no checkout o prazo para o seu CEP antes de pagar. Para o Natal, a data-limite de pedido por região está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD: a conta de um presente",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no site da Let's Eat It. Ele vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout como os dois aparecem. As condições da loja estão na [página de cupons da Let's Eat It](/cupons/letseatit), e o passo a passo para aplicar, no [guia de como usar o cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar).",
+          "A conta é 5% sobre o subtotal, sem frete. Tome o jogo de taças Crex Optic, de R$ 128,42: 5% são R$ 6,42, e o valor fica em R$ 122,00 antes do frete. Quem paga no Pix ainda tem o desconto de 5% do Pix nos produtos que o oferecem, e o valor final aparece no checkout."
+        ]
+      },
+      {
+        "heading": "Dividir o presente com outros convidados",
+        "paragraphs": [
+          "Uma peça de faixa alta, como o faqueiro de 101 peças ou uma panela, pode ser dividida entre alguns convidados. Combine antes quem leva o quê e quanto cada um paga, para não chegar três jogos iguais de taças. Não encontramos na loja uma função de presente em grupo ou vaquinha; a divisão é combinada entre vocês, fora do site."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A loja tem lista de casamento? Hoje, a página de lista de presentes da Let's Eat It está sem itens, então não dá para usá-la para montar a lista do casal. Se o casal quer lista, vale conferir no site antes de contar com ela.",
+          "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
+          "Vale dar aparelho de jantar? Pode valer quando o casal quer começar a mesa do zero ou trocar a louça, porque o conjunto completo chega de uma vez. Antes de escolher, confira o que a ficha da peça permite: o Shimeji Gold, por exemplo, não vai ao micro-ondas.",
+          "O cupom vale em Le Creuset? Sim. O cupom MAUAD vale no site da Let's Eat It inteiro, inclusive nas peças da Le Creuset, com 5% sobre o subtotal, sem frete, e soma com o desconto do Pix."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços deste artigo são de venda no site da Let's Eat It, lidos em 20/10/2026, e mudam com promoção. Podemos receber comissão quando alguém compra pelo link da loja ou usa o cupom MAUAD. Ninguém do site comprou nem usou estes produtos. O texto sai das fichas e das informações que a loja publica, não de experiência nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "slug": "presente-natal-quem-gosta-de-cozinhar",
+    "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço",
+    "seoTitle": "Presente de Natal para quem cozinha: ideias por preço",
+    "type": "Guia de Presentes",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Presentes de Natal para quem gosta de cozinhar em quatro faixas de preço, de canecas Le Creuset e utensílios KitchenAid a panelas Signature e eletroportáteis Ariete, com o prazo de entrega para chegar antes do Natal.",
+    "metaDescription": "Presente de Natal para quem gosta de cozinhar: ideias de até R$ 150 a mais de R$ 1.000, com Le Creuset, KitchenAid e Ariete. Preços de 20/10/2026.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+    "imageAlt": "Ramekin vermelho em formato de coração da Le Creuset com creme e framboesas",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Até R$ 150 (preço de venda em 20/10/2026): a caneca Cotton de 100 ml da Le Creuset sai por R$ 129,00.",
+          "R$ 150 a 400: a batedeira de mão Vintage Verde da Ariete, de 127 V e 450 W, sai por R$ 329,00.",
+          "R$ 400 a 1.000: o saca-rolhas Trilogy da Le Creuset, em estojo de presente, sai por R$ 439,00.",
+          "Acima de R$ 1.000: a skillet Coração Tradition Vermelha de 26 cm da Le Creuset sai por R$ 1.449,00.",
+          "No site da Let's Eat It, o cupom MAUAD dá 5% sobre o subtotal (sem frete), vale em todas as formas de pagamento e soma com o desconto do Pix; confira no checkout."
+        ]
+      },
+      {
+        "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Caneca Cerâmica Cotton 100 ml",
+              "Le Creuset",
+              "R$ 129,00",
+              "Para quem toma café em dose pequena. A ficha diz \"dose de café expresso\", com 100 ml, cerâmica premium e lava-louças."
+            ],
+            [
+              "Espátula Clássica em Silicone Confeitaria Preta",
+              "KitchenAid",
+              "R$ 129,90",
+              "Para o uso diário na cozinha. Ponta de silicone e cabo ABS; a ficha diz até 232 °C e lava-louças."
+            ],
+            [
+              "Faca para Churrasco Beef Club",
+              "Fracalanza",
+              "R$ 69,90",
+              "Para quem faz churrasco em casa. Aço inox com cabo de plástico, 45 cm de comprimento."
+            ],
+            [
+              "Mini Tábua Petisqueira Churrasco e Queijo",
+              "Carve & Co",
+              "R$ 138,90",
+              "Para quem serve queijo e petisco. Teca, 2 x 16 x 26 cm, 259 g, com cabo ergonômico."
+            ],
+            [
+              "Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm",
+              "Baker's Secret",
+              "R$ 62,90",
+              "Para quem assa bolo ou torta. Aço carbono de 0,5 mm, 28 cm de diâmetro e 5 cm de altura; a ficha diz forno até 232 °C."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A caneca Azure de 100 ml, da mesma linha, também sai por R$ 129,00. Quem procura mesa posta de Natal tem um guia próprio: o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa)."
+        ]
+      },
+      {
+        "heading": "R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Caneca Cerâmica Holly Branca 200 ml (coleção de Natal)",
+              "Le Creuset",
+              "R$ 179,00",
+              "Para quem quer uma caneca de Natal. Cerâmica premium, lava-louças; a ficha diz que não absorve aromas."
+            ],
+            [
+              "Moedor de Sal Vermelho",
+              "Le Creuset",
+              "R$ 369,00",
+              "Para quem tempera na mesa. 21 x 6 cm, com ajuste de moagem por pino no topo."
+            ],
+            [
+              "Conjunto 4 Peças para Churrasco Inox com Estojo",
+              "L'Hermitage",
+              "R$ 232,90",
+              "Para quem faz churrasco. Espátula vazada, garfo de duas pontas, pegador e escova, em aço inox com cabo preto e estojo com zíper."
+            ],
+            [
+              "Escumadeira em Aço Inox para Fritura",
+              "KitchenAid",
+              "R$ 159,90",
+              "Para quem frita. Aço inox e ABS livre de BPA, 39 x 13 x 6 cm, 205 g."
+            ],
+            [
+              "Mini Cocotte Cerâmica Cotton 250 ml",
+              "Le Creuset",
+              "R$ 239,00",
+              "Para servir em porção individual. 250 ml e 10 cm; a ficha diz que vai ao forno, ao micro-ondas, ao congelador e à lava-louças."
+            ],
+            [
+              "Batedeira de Mão Vintage Verde 127 V, 450 W",
+              "Ariete",
+              "R$ 329,00",
+              "Para quem bate massa em casa. 127 V, 450 W, 5 velocidades mais Turbo, com batedor e gancho para massa."
+            ],
+            [
+              "Forno Elétrico Vintage Verde 127 V, 800 W",
+              "Ariete",
+              "R$ 399,00",
+              "Para quem quer um forno elétrico de bancada. 127 V, 800 W, 10 L, até 230 °C e temporizador de até 60 min."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os três eletroportáteis Ariete da linha Vintage vêm em 127 V, segundo a ficha de cada um. Antes de comprar, confira a voltagem da sua tomada. A mesma linha tem o processador Vintage Azul, de 250 W, 127 V, por R$ 299,00."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+            "alt": "Caneca branca Holly da Le Creuset, com relevo de folhas de azevinho",
+            "caption": "Caneca Holly 200 ml, coleção de Natal da Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "R$ 400 a 1.000: Le Creuset, KitchenAid e chaleira elétrica",
+        "paragraphs": [
+          "Os preços são de venda em 20/10/2026 e mudam com promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Presente",
+            "Marca",
+            "Preço de venda em 20/10/2026",
+            "Para quem é / o que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Saca-Rolhas Trilogy Estojo Presente Black Onyx",
+              "Le Creuset",
+              "R$ 439,00",
+              "Para quem tem vinho em casa. A ficha diz que serve para qualquer tipo de cortiça; acabamento manual e vem em estojo de presente."
+            ],
+            [
+              "Caneca Cerâmica Coração Vermelha 220 ml, com pires",
+              "Le Creuset",
+              "R$ 449,00",
+              "Para quem quer uma caneca diferente. 220 ml, formato de coração, com pires; a ficha fala em cerâmica de alto padrão e retenção de calor."
+            ],
+            [
+              "Kit 3 Espátulas e Pincel de Silicone com Porta Utensílios Signature Vermelho 1,1 L",
+              "Le Creuset",
+              "R$ 799,00",
+              "Para organizar a bancada. Porta-utensílios de cerâmica de 1,1 L, 3 espátulas com cabo de madeira e pincel removível; a ficha diz que só a ponta do pincel vai à lava-louças."
+            ],
+            [
+              "Jogo de 2 Frigideiras Alumínio Antiaderente Vermelho",
+              "KitchenAid",
+              "R$ 569,00",
+              "Para o fogão do dia a dia. 21 cm e 25 cm; a ficha diz que vai ao forno até 260 °C e serve para gás, indução, vitrocerâmico e elétrico, e que vai à lava-louças."
+            ],
+            [
+              "Chaleira Elétrica Positano 1,7 L 360º, 127 V, 1500 W",
+              "Ariete",
+              "R$ 649,00",
+              "Para quem ferve água com frequência. Base sem fio com giro de 360°, desligamento automático e filtro removível."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O jogo de panelas Slim de cerâmica, de 5 peças, vermelho coral, da Ceraflame (R$ 919,90), ficou fora da tabela por causa da indução: a ficha diz que o modelo não é compatível com fogões de indução. Fora isso, a ficha diz que ele é 100% cerâmica e vai ao gás, ao elétrico, ao vitrocerâmico, ao forno convencional, ao micro-ondas, ao freezer e à lava-louças."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+            "alt": "Saca-rolhas Trilogy da Le Creuset, preto, de pé, ao lado do corta-lacre",
+            "caption": "Saca-rolhas Trilogy Black Onyx, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis",
+        "paragraphs": [
+          "Acima de R$ 1.000 ficam as panelas Signature, uma skillet, uma grelha e dois eletroportáteis Ariete. Os preços são de venda em 20/10/2026 e mudam com promoção e estoque. Onde a ficha não diz forno, indução ou lava-louças, a tabela não afirma."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço de venda em 20/10/2026",
+            "O que a ficha diz"
+          ],
+          "rows": [
+            [
+              "Skillet Coração Tradition Vermelho 26 cm, Le Creuset",
+              "R$ 1.449,00",
+              "ferro fundido esmaltado; \"compatível com todos os cooktops\"; forno seguro até 260 °C; interior esmaltado, sem tempero"
+            ],
+            [
+              "Skillet Redonda com Alça Signature Vermelho 26 cm, Le Creuset",
+              "R$ 1.739,00",
+              "ferro fundido esmaltado; interior preto acetinado, sem tempero; \"compatível com todos os cooktops\"; forno até 260 °C; lava-louças"
+            ],
+            [
+              "Grelha Quadrada Signature Azure 26 cm, Le Creuset",
+              "R$ 1.859,00",
+              "ferro fundido; superfície antiaderente; ondulações que escorrem a gordura; bicos nas duas laterais. Forno e indução: ficha não diz"
+            ],
+            [
+              "Panela Redonda Signature Azure 2,4 L 20 cm, Le Creuset",
+              "R$ 2.329,00",
+              "ferro fundido; 2,4 L; esmalte interno; fonte de calor: vitrocerâmico, indução, elétrico, gás, radiante, grill e forno; pegadores de aço inox"
+            ],
+            [
+              "Batedeira Planetária 1558 Positano 5,5 L, Ariete",
+              "R$ 1.799,00",
+              "127 V; 600 W; tigela de aço inox de 5,5 L; 7 velocidades e pulso; gancho, batedor de coração e batedor de arame"
+            ],
+            [
+              "Fritadeira Air Fryer Vintage Azul 16 L, Ariete",
+              "R$ 1.199,00",
+              "220 V; 1200 W; 3 cestos perfurados e 1 cesto giratório; \"fritar, assar, grelhar e até desidratar\""
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+            "alt": "Batedeira planetária Ariete Positano com estampa de azulejos coloridos e tigela de inox",
+            "caption": "Batedeira planetária Positano 5,5 L, Ariete. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ],
+        "postParagraphs": [
+          "A voltagem muda a compra: a batedeira é 127 V e a fritadeira é 220 V. Antes de pagar, confira a tensão da sua tomada.",
+          "Se a dúvida é se a Le Creuset compensa o preço, a análise está em [o artigo sobre a marca](/reviews/le-creuset-vale-a-pena). Aqui a descrição fica no que a ficha informa."
+        ]
+      },
+      {
+        "heading": "Como escolher pelo perfil de quem cozinha",
+        "paragraphs": [
+          "A escolha começa pelo que a pessoa faz na cozinha. Os exemplos são das faixas anteriores, com o preço de venda de 20/10/2026:"
+        ],
+        "bullets": [
+          "Quem está começando: a Espátula Clássica em Silicone Confeitaria Preta KitchenAid, R$ 129,90. A ficha diz ponta de silicone, cabo ABS, até 232 °C e lava-louças.",
+          "Quem faz churrasco: o Conjunto 4 peças para Churrasco Inox com Estojo L'Hermitage, R$ 232,90, com espátula vazada, garfo de duas pontas, pegador e escova. Para gastar menos, a Faca para Churrasco Beef Club Fracalanza sai por R$ 69,90, com lâmina de aço inox e 45 cm.",
+          "Quem assa: a Forma Redonda para Brownie, Bolo e Torta Antiaderente 28 cm da Baker's Secret, R$ 62,90. Aço carbono, forno até 232 °C pela ficha e garantia de 6 meses.",
+          "Quem já tem Le Creuset: o Ramekin Formato Coração Cerâmica 300 ml Vermelho, R$ 159,00. A ficha diz forno, micro-ondas, congelador e lava-louças, e a peça complementa a linha que a pessoa já usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+            "alt": "Skillet em formato de coração da Le Creuset, vermelha, sobre toalha rosa",
+            "caption": "Skillet Coração Tradition 26 cm, Le Creuset. Imagem: Let's Eat It.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Prazo para chegar antes do Natal",
+        "paragraphs": [
+          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
+          "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ]
+      },
+      {
+        "heading": "Cupom MAUAD e Pix: como fica o preço",
+        "paragraphs": [
+          "O cupom MAUAD dá 5% de desconto no subtotal dos produtos, no site da Let's Eat It. Ele vale com todas as formas de pagamento e soma com o desconto do Pix. O frete não entra nessa conta.",
+          "Um exemplo: a Ramekin Formato Coração Vermelho, R$ 159,00 em 20/10/2026. Com o cupom, 5% sobre R$ 159,00 são R$ 7,95, e o item sai por R$ 151,05 antes do frete e do Pix. Pagando no Pix, o desconto desse meio soma com o cupom. O valor final é o que o checkout mostra, então confira no checkout antes de pagar.",
+          "Para ver onde o código entra, veja o [passo a passo do cupom MAUAD](/reviews/cupom-mauad-lets-eat-it-como-usar). A página da loja com as regras do cupom está em [cupom da Let's Eat It](/cupons/letseatit)."
+        ]
+      },
+      {
+        "heading": "Troca, peça avariada e pré-venda",
+        "paragraphs": [
+          "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. A loja troca por outro produto de valor equivalente ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Defeito de fabricação tem prazo de 90 dias.",
+          "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
+          "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
+          "Posso trocar um presente? A loja troca por outro produto de valor equivalente em até 30 dias contados do recebimento, ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Guarde a nota fiscal e confirme o prazo com a loja antes de presentear com data marcada.",
+          "O cupom MAUAD vale em promoção? Sim. Pelo teste de 02/10/2026, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
+          "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são do site da Let's Eat It, consultados em 20/10/2026. Eles mudam com promoção e estoque, e o checkout é a referência final. Podemos receber comissão pelas compras feitas com o cupom MAUAD ou pelo link da loja, sem custo extra para quem compra. Ninguém do Em Casa com Cecília comprou nem usou os produtos citados aqui. As descrições vêm da ficha de cada item e das políticas públicas da loja, e nenhuma opinião é de experiência própria."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços do dia na Let's Eat It e aplique o cupom MAUAD no checkout: 5% em todas as formas de pagamento, somando com o desconto do Pix.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      }
+    ]
   }
 ];

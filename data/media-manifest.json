@@ -56874,6 +56874,196 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42948,
+      "sha256": "ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa",
+      "width": 782,
+      "height": 782,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "storage_filename": "mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 382,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.756Z",
+      "verification_etag_or_digest": "ded87404384fe5297245c968824ea5411d569e8f7589de95fa4e16d85a2f82aa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52654,
+      "sha256": "45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97",
+      "width": 1600,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-como-montar-lugar.webp",
+      "storage_filename": "mesa-posta-natal-como-montar-lugar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 404,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-como-montar-lugar.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97/mesa-posta-natal-como-montar-lugar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97/mesa-posta-natal-como-montar-lugar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "45992b50811be59623a763aa97eff11bd0bcb20441abcba71a4ca4abea459b97",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 396110,
+      "sha256": "50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34",
+      "width": 1500,
+      "height": 1500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "storage_filename": "mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 56,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34/mesa-posta-natal-faqueiro-avalon-wolff.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "50d4d9472570db166b6898d848321c7a0558db78def37eebaf6a8cf41be0cc34",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48952,
+      "sha256": "c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4",
+      "width": 1024,
+      "height": 1024,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-taca-bohemia-magnum.webp",
+      "storage_filename": "mesa-posta-natal-taca-bohemia-magnum.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4/mesa-posta-natal-taca-bohemia-magnum.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "c610ee2648a97ccbd058062c3dcc88da6bef57c8ba39f13f5c07cb092f8640d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+      "local_url": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64120,
+      "sha256": "ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mesa-posta-natal-tres-faixas.webp",
+      "storage_filename": "mesa-posta-natal-tres-faixas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mesa-posta-natal-o-que-precisa-quanto-custa.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28/mesa-posta-natal-tres-faixas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28/mesa-posta-natal-tres-faixas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "ee7988fcb972bc10b653f13ffd87ec99d2eb1c1f84ace0d97fb6ce35b85e6a28",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/passo-1-produto-loja.webp",
       "local_url": "/images/reviews/letseatit/passo-1-produto-loja.webp",
       "media_kind": "image",
@@ -57255,6 +57445,310 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T19:16:00.739Z",
       "verification_etag_or_digest": "a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57714,
+      "sha256": "90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e",
+      "width": 653,
+      "height": 653,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-chaleira-le-creuset-azure.webp",
+      "storage_filename": "presente-casamento-chaleira-le-creuset-azure.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 188,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-casamento-chaleira-le-creuset-azure.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e/presente-casamento-chaleira-le-creuset-azure.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e/presente-casamento-chaleira-le-creuset-azure.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "90e70c1d2de136adc4fc77d0a91fd41a868a61a5f8677148e4061f5f1d273a0e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 114304,
+      "sha256": "55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-tacas-bohemia-angela.webp",
+      "storage_filename": "presente-casamento-tacas-bohemia-angela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d/presente-casamento-tacas-bohemia-angela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d/presente-casamento-tacas-bohemia-angela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "55cb58b77099f74397a69329bf6a8778be7d19da9e7ba221645343c4cfe00b2d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+      "local_url": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123170,
+      "sha256": "9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-casamento-travessa-le-creuset-cotton.webp",
+      "storage_filename": "presente-casamento-travessa-le-creuset-cotton.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-de-casamento-ideias-por-preco.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-de-casamento-ideias-por-preco.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-casamento-travessa-le-creuset-cotton.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e/presente-casamento-travessa-le-creuset-cotton.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e/presente-casamento-travessa-le-creuset-cotton.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "9af38e77d743fac8b47655804b1715f550d58d6ee6ca3d3e532950eb0a32c82e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126624,
+      "sha256": "bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6",
+      "width": 978,
+      "height": 978,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-batedeira-ariete-positano.webp",
+      "storage_filename": "presente-natal-batedeira-ariete-positano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 258,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-batedeira-ariete-positano.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6/presente-natal-batedeira-ariete-positano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6/presente-natal-batedeira-ariete-positano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "bf45f30834435b6881101cbe519a8e9617b215168360479ebbed5c0b695f72e6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10584,
+      "sha256": "35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-caneca-holly-le-creuset.webp",
+      "storage_filename": "presente-natal-caneca-holly-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 148,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-caneca-holly-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115/presente-natal-caneca-holly-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115/presente-natal-caneca-holly-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "35dfa0e5a542941c0af539d052228612fa061d3077d88f8b5c084c69e407f115",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61130,
+      "sha256": "b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-ramekin-coracao-le-creuset.webp",
+      "storage_filename": "presente-natal-ramekin-coracao-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26/presente-natal-ramekin-coracao-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26/presente-natal-ramekin-coracao-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "b1856942158df67f169cdf35db62221aa3c7dc951c6e7fe284d3f4c0f141ed26",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16558,
+      "sha256": "0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "storage_filename": "presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 205,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a/presente-natal-saca-rolhas-trilogy-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "0d462f5f67f926869115cb13e751a4afba6a9cd161028d4019f11b266692c64a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+      "local_url": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 66318,
+      "sha256": "c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c",
+      "width": 848,
+      "height": 848,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "presente-natal-skillet-coracao-le-creuset.webp",
+      "storage_filename": "presente-natal-skillet-coracao-le-creuset.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/presente-natal-quem-gosta-de-cozinhar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/presente-natal-quem-gosta-de-cozinhar.json",
+          "line": 282,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/presente-natal-skillet-coracao-le-creuset.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c/presente-natal-skillet-coracao-le-creuset.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c/presente-natal-skillet-coracao-le-creuset.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T03:48:07.758Z",
+      "verification_etag_or_digest": "c37da3687278055c4ef7f45e106b03d6661ef7d8fc58d6f21bb5dd0ae72c510c",
       "verification_status": "verified"
     },
     {
