@@ -54748,7 +54748,7 @@ export const reviewsData: unknown[] = [
         "heading": "Resposta rápida: Black Friday Insider 2026",
         "bullets": [
           "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
-          "A Insider já abriu a coleção **Black Friday Insider 2026**: em 9 de outubro, ela tinha 129 produtos e a chamada \"Brindes + 10% Pix + até 40% OFF\", sem datas de início e fim. Este guia é atualizado quando a loja anunciar o que muda em novembro.",
+          "A Insider já abriu a coleção **Black Friday Insider 2026**: em 9 de outubro, ela tinha 129 produtos e uma chamada com brindes, desconto no Pix e \"até 40% OFF\", sem datas de início e fim. Este guia é atualizado quando a loja anunciar o que muda em novembro.",
           "Em 9 de outubro, a Tech T-Shirt estava a **R$ 129**, contra R$ 169 do preço riscado.",
           "O cupom EMCASACOMCECILIA dá **15% OFF** na loja online, vale com todas as formas de pagamento e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Ele não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
           "O frete é grátis a partir de R$ 399, valor conferido depois do desconto do cupom.",
@@ -54886,10 +54886,10 @@ export const reviewsData: unknown[] = [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de 10 de outubro, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** ficam fora do cupom, mas a etiqueta de lançamento do site não é um guia confiável. No nosso teste de 5 de outubro, peças com essa etiqueta, como a Tech T-Shirt, receberam o desconto. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
-          "**Pix:** em outubro, a loja anunciava 10% OFF no Pix, também na coleção da Black Friday. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
           "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom.",
-          "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entram também os 10% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 515,61. O resumo do checkout mostra o valor exato antes de pagar."
+          "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
         ],
         "links": [
           {
@@ -55014,7 +55014,7 @@ export const reviewsData: unknown[] = [
           "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
           "Quanto custa a Tech T-Shirt na Black Friday? Em 9 de outubro de 2026, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
           "O kit de Tech T-Shirt compensa? Em 9 de outubro de 2026, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
-          "A Insider tem desconto no Pix? Em outubro de 2026, a loja anunciava 10% OFF no Pix, que soma com o cupom EMCASACOMCECILIA.",
+          "A Insider tem desconto no Pix? Tem: em outubro de 2026, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom.",
           "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
           "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
