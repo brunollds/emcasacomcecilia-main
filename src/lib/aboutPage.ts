@@ -73,6 +73,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Max Titanium', src: '/images/about/partners/max-titanium.png', href: 'https://www.maxtitanium.com.br' },
   { name: 'Cléa Store', src: '/images/about/partners/clea-store.png', href: 'https://www.cleastore.com.br' },
   { name: 'Belive', src: '/images/about/partners/belive.png', href: 'https://belivebefree.com.br' },
+  { name: 'Mais Mu', src: '/images/about/partners/mais-mu.png', href: 'https://www.lojamaismu.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

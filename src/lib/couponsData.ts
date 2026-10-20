@@ -1767,6 +1767,98 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
+    offerMode: 'discount-code',
+    slug: 'mais-mu',
+    brand: 'Mais Mu',
+    officialUrl: 'https://www.lojamaismu.com.br/',
+    offerUrl: 'https://www.lojamaismu.com.br/',
+    brandIcon: 'MU',
+    brandLogo: '/images/about/partners/mais-mu-icon.png',
+    brandLogoAlt: 'Marca Mais Mu',
+    brandWatermark: '/images/logos/watermarks/mais-mu.webp',
+    brandColor: '#06A1E2',
+    code: 'MMEMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Whey, creatina, pré-treino e snacks proteicos',
+    hubCategory: 'saude',
+    shortDescription: 'todo o site Mais Mu, inclusive nos produtos em oferta',
+    longDescription:
+      'Código da Cecília para economizar em whey protein, creatina, pré-treino, barras e snacks proteicos no site oficial da Mais Mu, inclusive nos produtos que já estão em oferta.',
+    metaTitle: 'Cupom Mais Mu Outubro 2026: MMEMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Mais Mu de outubro de 2026: use MMEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as ofertas. Veja o cashback e o frete grátis.',
+    eligibleCategories: 'Todos os produtos do site oficial da Mais Mu',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026; abaixo disso, o frete é calculado no checkout',
+    combinable:
+      'Soma com as promoções vigentes do site; não soma com outro cupom, como o crédito do cashback ou o desconto de boas-vindas',
+    lastVerified: '2026-10-20',
+    testNote:
+      'Aplicamos o MMEMCASACOMCECILIA num carrinho de R$ 239,89 com um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90, e o desconto foi de R$ 23,99: o total caiu para R$ 215,90, com os 10% valendo também no item que já estava em oferta.',
+    codeInstructions: [
+      'Copie o código MMEMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Mais Mu pelo botão indicado, coloque os produtos no carrinho e clique em "Iniciar compra".',
+      'No checkout, clique em "Adicionar cupom de desconto", cole o código e aplique.',
+      'Confira a linha "Desconto do cupom" no resumo do pedido antes de seguir para a entrega.',
+    ],
+    aboutBrand:
+      'A Mais Mu é uma marca brasileira de proteína que começou com o whey "na garrafinha" e hoje vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer e snacks salgados no site oficial. O cupom MMEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as ofertas. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom MMEMCASACOMCECILIA vale para todos os produtos da Mais Mu?',
+        answer: 'Sim. O MMEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Mais Mu, inclusive combos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava com 33% de desconto.',
+      },
+      {
+        question: 'Ganho o cashback da Mais Mu usando o cupom?',
+        answer:
+          'O cashback é um programa da própria Mais Mu: compras acima de R$ 250 devolvem 5% do valor como crédito para a próxima compra. No checkout de 20/10/2026, com o cupom aplicado, a loja contava os R$ 250 sobre o total já com o desconto.',
+      },
+      {
+        question: 'Posso usar o crédito do cashback junto com o cupom?',
+        answer:
+          'Não. O crédito do cashback chega por e-mail como um código para o campo de cupom, e a Mais Mu não acumula cupons no mesmo pedido. O crédito vale 90 dias e pede um pedido mínimo a partir de R$ 200.',
+      },
+      {
+        question: 'O cupom MMEMCASACOMCECILIA vale na primeira compra na Mais Mu?',
+        answer:
+          'Sim. Ele vale na primeira compra e também para quem já comprou na loja. Como a Mais Mu não acumula cupons, ele substitui o desconto de boas-vindas da loja, de R$ 15 em compras acima de R$ 250.',
+      },
+      {
+        question: 'O cupom MMEMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 20/10/2026, o MMEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Mais Mu?',
+        answer: 'No checkout, em "Adicionar cupom de desconto", depois de clicar em "Iniciar compra" no carrinho.',
+      },
+      {
+        question: 'A Mais Mu tem frete grátis?',
+        answer:
+          'Sim, com valor mínimo por região. Em 20/10/2026, o site dava frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Soma com as ofertas; acima de R$ 250, já com o desconto, a loja ainda devolve 5% em cashback',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'hostinger',
     brand: 'Hostinger',
