@@ -37983,6 +37983,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73116,
+      "sha256": "810d02692ee8ca37ea0bd772b326ac129055d71b54a30c75f6c1beaf38dd8463",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-capa.webp",
+      "storage_filename": "black-skull-ou-dux-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 102419,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/810d02692ee8ca37ea0bd772b326ac129055d71b54a30c75f6c1beaf38dd8463/black-skull-ou-dux-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/810d02692ee8ca37ea0bd772b326ac129055d71b54a30c75f6c1beaf38dd8463/black-skull-ou-dux-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T19:36:34.594Z",
+      "verification_etag_or_digest": "810d02692ee8ca37ea0bd772b326ac129055d71b54a30c75f6c1beaf38dd8463",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51752,
+      "sha256": "1500359e9f2241ae411236a4a70d69d1d2949389b88dbf6ea07901168c18f444",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-proteina-por-dose.webp",
+      "storage_filename": "black-skull-ou-dux-proteina-por-dose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 116,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 102513,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1500359e9f2241ae411236a4a70d69d1d2949389b88dbf6ea07901168c18f444/black-skull-ou-dux-proteina-por-dose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1500359e9f2241ae411236a4a70d69d1d2949389b88dbf6ea07901168c18f444/black-skull-ou-dux-proteina-por-dose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-20T19:36:34.594Z",
+      "verification_etag_or_digest": "1500359e9f2241ae411236a4a70d69d1d2949389b88dbf6ea07901168c18f444",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
       "media_kind": "image",
