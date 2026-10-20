@@ -35,6 +35,25 @@ Comparativos de cada parceira de suplemento com a Growth, a referência de preç
 | 2 | Max Titanium ou Growth | **Briefing criado em 18/10/2026:** [[max-titanium-ou-growth]] (whey, 3W, isolado, creatina e hipercalórico); **no ar em 18/10/2026** (PR #155) |
 | 3 | Probiótica ou Growth | **Briefing criado em 18/10/2026:** [[probiotica-ou-growth]]; **no ar em 18/10/2026** (PR #155) |
 
+## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)
+
+As duas lojas pediram mais material. Pautas de decisão de compra, com produtos e preços reais da leitura de 19/10/2026. Ninguém do site usou as peças: sem experiência própria.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| L5 | Mesa posta de Natal (Let's Eat It) | **Briefing aprovado em 19/10/2026:** [[mesa-posta-natal-o-que-precisa-quanto-custa]] |
+| L3A | Presente de casamento por faixa de preço (Let's Eat It) | **Briefing aprovado em 19/10/2026:** [[presente-de-casamento-ideias-por-preco]] |
+| L3B | Presente de Natal para quem gosta de cozinhar (Let's Eat It) | **Briefing aprovado em 19/10/2026:** [[presente-natal-quem-gosta-de-cozinhar]] (artigo próprio, separado da Black Friday) |
+| C4 | Look de trabalho com alfaiataria (Cléa) | **Briefing aprovado em 19/10/2026:** [[look-trabalho-alfaiataria-feminina-clea-store]] |
+| C5 | Body Second Skin: qual escolher (Cléa) | **Briefing aprovado em 19/10/2026:** [[body-clea-store-second-skin-qual-escolher]] |
+| C3 | Tabela de medidas e tamanho (Cléa) | **Briefing aprovado em 19/10/2026:** [[clea-store-tabela-de-medidas-como-escolher-tamanho]] |
+| C2 | Mercado Livre ou site (Cléa) | **Briefing aprovado em 19/10/2026:** [[clea-store-mercado-livre-ou-site]] (dois links; data da pesquisa em destaque) |
+| L1 | Panela Le Creuset: qual tamanho e modelo ("le creuset 20 vs 24", "caçarola buffet") | Estoque, próxima rodada |
+| L2 | Le Creuset original: como saber e onde comprar (a Let's Eat It está no localizador oficial) | Estoque, próxima rodada |
+| L4 | Aparelho de jantar Porto Brasil: 20, 30 ou 42 peças | Estoque, próxima rodada |
+| L6 | Faqueiro Wolff: 30, 101 ou 130 peças | Estoque, próxima rodada (a loja vende) |
+| C1 | Camiseta da Cléa Store é boa? | Parado: sem compra nem amostra |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
