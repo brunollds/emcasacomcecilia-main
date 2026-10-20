@@ -62867,6 +62867,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Insider vale a pena? Tech T-Shirt, Daily, Core e cuecas comparadas com Minimal Club, Mirante, Basicamente, Hering e Alpha Co: tecido, preço e troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
+    "updatedAt": "2026-10-20",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
@@ -62907,7 +62908,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta básica das seis marcas lado a lado",
         "comparisonTable": {
-          "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui os 10% OFF no Pix anunciados na barra do site.",
+          "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui o desconto do Pix anunciado no site.",
           "headers": [
             "Marca e modelo",
             "Composição",
@@ -63103,12 +63104,12 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Dados das páginas da Insider em 12/10/2026. Preço da unidade, salvo os kits.",
+          "caption": "Material e construção das páginas da Insider em 12/10/2026; preços lidos em 20/10/2026. Preço da unidade, salvo os kits.",
           "headers": [
             "Modelo",
             "Material informado",
             "Construção informada",
-            "Preço em 12/10/2026"
+            "Preço em 20/10/2026"
           ],
           "rows": [
             [
@@ -63127,29 +63128,30 @@ export const reviewsData: unknown[] = [
               "Boxer Performance, Simples",
               "Por fora: 87,5% poliamida, 12,5% elastano. Por dentro: 88% modal, 12% elastano",
               "Sem costura na lateral",
-              "R$ 89 (de R$ 95); kit de 3 por R$ 258,99"
+              "R$ 79 a R$ 95, conforme a cor e o tamanho; kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"
             ],
             [
               "Boxer Performance, Anti Suor",
               "Igual à Simples",
               "Forro duplo na parte de trás e costura na lateral; só na cor preta",
-              "R$ 89"
+              "R$ 79 a R$ 95, conforme a cor e o tamanho"
             ],
             [
               "Boxer Seamless Touch",
               "95% poliamida, 4% elastano, 1% polipropileno",
               "Sem costura",
-              "R$ 55 (de R$ 59)"
+              "R$ 59"
             ],
             [
               "Slip Comfort",
               "88% modal, 12% elastano na descrição; a ficha da página mostra 87,5% poliamida e 12,5% elastano",
               "Slip",
-              "R$ 69 no P e R$ 75 nos demais"
+              "R$ 75, só na cor preta"
             ]
           ]
         },
         "postParagraphs": [
+          "Para escolher o modelo, com o preço de cada kit e os cuidados de lavagem, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
           "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, segundo a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
         ]
       },
@@ -63176,7 +63178,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa de verdade",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider: a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale em lançamentos nem nas lojas físicas, e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
-          "Em 12/10/2026, o frete era grátis a partir de R$ 399, e a barra do site anunciava 10% OFF no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
+          "Em 12/10/2026, o frete era grátis a partir de R$ 399, e o site anunciava desconto no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
         ],
         "links": [
           {
@@ -63203,7 +63205,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Insider vale a pena? Depende do que você compara: no site, a Tech T-Shirt custa mais que as camisetas da Mirante e da Basicamente e que a Super Cotton da Hering, e o diferencial que ela publica é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições.",
           "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal (92%, com elastano) e a Camiseta Minimal é de algodão egípcio (93%, 150 g/m²); a Minimal também vende uma Tech Modal (91% modal, 200 g/m²) por R$ 109,90.",
-          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava 10% OFF no Pix), e só a Insider publica garantia de cor.",
+          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava desconto no Pix), e só a Insider publica garantia de cor.",
           "Insider ou Basicamente: qual é melhor? Pelo site não dá para dizer: a Basicamente usa 95% modal e 5% elastano e diz que o antiodor dura até 30 lavagens, e a Insider não informa por quantas lavagens o antiodor dela dura.",
           "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79 em 12/10/2026.",
           "Insider ou Alpha Co? A Alpha Co tem camiseta de algodão Pima (R$ 99,99) e camisetas esportivas dry fit de poliéster (R$ 29,94), que são outra categoria.",
@@ -63213,7 +63215,7 @@ export const reviewsData: unknown[] = [
           "A cueca Insider é boa? Não testamos; a marca publica o tecido de cada modelo (modal na Comfort, poliamida por fora na Performance), e a troca só vale por defeito.",
           "Cueca Insider Comfort ou Performance? A Comfort é de modal e elastano; a Performance tem a parte de fora de poliamida e a de dentro de modal.",
           "Cueca Insider Simples ou Anti Suor? A Anti Suor tem uma camada extra de tecido atrás na Comfort e forro duplo atrás na Performance, segundo a página.",
-          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 55 em 12/10/2026; não testamos.",
+          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 59 em 20/10/2026; não testamos.",
           "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, por higiene e segurança, segundo a central de ajuda.",
           "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, exceto lançamentos e lojas físicas, um por pedido; a Daily avisa na página que não soma com cupons, e no teste do checkout de 12/10/2026 o cupom não entrou nela."
         ]
@@ -101407,6 +101409,989 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-dr-peanut-como-usar",
         "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "slug": "cueca-insider-comfort-ou-performance",
+    "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher",
+    "seoTitle": "Cueca Insider: Comfort ou Performance, qual escolher",
+    "type": "Guia de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Comfort ou Performance? O tecido, o uso que a marca indica, a versão Anti Suor, a Seamless Touch e a Slip, o preço por peça nos kits e a regra de troca da cueca Insider.",
+    "metaDescription": "Cueca Insider Comfort ou Performance: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits com o cupom e a regra de troca.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-cueca-performance-azul-comfort-verde-capa.webp",
+    "imageAlt": "Modelos vestindo a cueca boxer Insider Performance azul e a Comfort verde, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para treino, a boxer [Performance](https://www.insiderstore.com.br/products/cueca-performance). Para dia a dia, a boxer [Comfort](https://www.insiderstore.com.br/products/cueca-comfort). A página da loja não compara as duas diretamente, então a escolha sai do tecido e do uso que a própria marca indica.",
+          "A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. O preço muda por cor e tamanho, não por modelo: confira a variante antes de comprar. Os preços são da loja, lidos em 20/10/2026."
+        ]
+      },
+      {
+        "heading": "Comfort ou Performance: tecido, uso e costura",
+        "paragraphs": [
+          "A [Performance](https://www.insiderstore.com.br/products/cueca-performance) e a [Comfort](https://www.insiderstore.com.br/products/cueca-comfort) são as duas boxers da linha. Os dados abaixo são das páginas de produto da loja."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Cueca Comfort",
+            "Cueca Performance"
+          ],
+          "rows": [
+            [
+              "Tecido",
+              "88% TENCEL Modal e 12% elastano",
+              "Parte externa 87,5% poliamida (Nylon 6.6) e 12,5% elastano; parte interna 88% modal e 12% elastano"
+            ],
+            [
+              "Uso que a marca indica",
+              "Dia a dia. A marca diz que não aperta e não enrola nas pernas",
+              "\"Ideal para praticar esportes\", como corrida, musculação e ciclismo"
+            ],
+            [
+              "Costura",
+              "A página não descreve",
+              "Simples, sem costura na lateral. Anti Suor, com forro duplo atrás e costura na lateral"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A diferença que a página sustenta é de uso. A Performance é a de esporte, com a parte de fora em poliamida. A Comfort é a de dia a dia, com modal e TENCEL. A página não diz qual absorve mais suor. Quem quer proteção extra atrás deve olhar a versão Anti Suor de cada modelo.",
+          "A marca descreve a Performance como \"ultra resistente\" e que \"absorve e evapora rápido o suor\". Esses trechos são da marca, não de um teste nosso."
+        ]
+      },
+      {
+        "heading": "Simples ou Anti Suor: o que muda e o que o preço não mostra",
+        "paragraphs": [
+          "Na Performance, a página diz o que muda: a Anti Suor tem forro duplo atrás e costura na lateral, e a Simples não tem costura na lateral. Na Comfort, a Anti Suor tem uma camada extra de tecido na região traseira. A página não detalha mais do que isso.",
+          "O preço não segue o modelo. Na Performance, a mesma cor e o mesmo tamanho aparecem com preço diferente nas duas versões:"
+        ],
+        "bullets": [
+          "Preta P: Simples R$ 85 e Anti Suor R$ 79.",
+          "Preta M: Simples R$ 85 e Anti Suor R$ 89.",
+          "Preta G: Simples R$ 89 e Anti Suor R$ 89."
+        ],
+        "postParagraphs": [
+          "Não existe regra de que a Simples seja mais barata ou a Anti Suor mais cara. Compare o preço da variante que você escolheu."
+        ]
+      },
+      {
+        "heading": "Seamless Touch e Slip: quando fazem sentido",
+        "paragraphs": [
+          "A [Seamless Touch](https://www.insiderstore.com.br/products/cueca-seamless-touch-masculino) é a boxer que a marca descreve como \"sem costura\", com \"design anatômico\" e que \"não enrola\". Essas são afirmações da marca. A composição é 95% poliamida, 4% elastano e 1% polipropileno, ou seja, não é de modal. Ela custa R$ 59, em tamanhos de P a XXGG, sem PP. Faz sentido para quem quer a construção sem costura e a composição sintética. Não tem kit.",
+          "A [Slip](https://www.insiderstore.com.br/products/cueca-slip) hoje só existe na cor preta, de P a XGG, por R$ 75. A composição é 88% modal e 12% elastano, como a Comfort. Faz sentido para quem usa slip. Não é a opção de boxer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-cueca-seamless-touch-cinza.webp",
+            "alt": "Modelo com a cueca boxer Insider Seamless Touch cinza e camiseta azul-marinho",
+            "caption": "Seamless Touch na cor cinza. Imagem: Insider.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/insider/insider-cueca-slip-preta.webp",
+            "alt": "Modelo com a cueca Slip Insider preta e camiseta branca",
+            "caption": "Slip, hoje só na cor preta. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Preço por unidade: 1, 3 e 5 peças",
+        "paragraphs": [
+          "A coluna \"com cupom\" é conta nossa: 15% sobre o preço de cada item. Confira o valor no checkout antes de pagar."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "1 peça (preço do dia)",
+            "1 peça com cupom (conta nossa)",
+            "Kit 3: total e por peça",
+            "Kit 5: total e por peça"
+          ],
+          "rows": [
+            [
+              "[Boxer Performance](https://www.insiderstore.com.br/products/cueca-performance)",
+              "R$ 79 a R$ 95, conforme cor e tamanho",
+              "R$ 67,15 a R$ 80,75",
+              "[R$ 229,89](https://www.insiderstore.com.br/products/kit-3-cuecas-boxer-performance), R$ 76,63 cada",
+              "[R$ 375,25](https://www.insiderstore.com.br/products/kit-5-cuecas-performance), R$ 75,05 cada"
+            ],
+            [
+              "[Boxer Comfort](https://www.insiderstore.com.br/products/cueca-comfort)",
+              "R$ 79",
+              "R$ 67,15",
+              "[R$ 229,89](https://www.insiderstore.com.br/products/kit-3-cuecas-confortaveis-boxer-comfort), R$ 76,63 cada",
+              "[R$ 375,25](https://www.insiderstore.com.br/products/kit-5-cuecas-comfort), R$ 75,05 cada"
+            ],
+            [
+              "[Boxer Seamless Touch](https://www.insiderstore.com.br/products/cueca-seamless-touch-masculino)",
+              "R$ 59",
+              "R$ 50,15",
+              "Sem kit",
+              "Sem kit"
+            ],
+            [
+              "[Slip](https://www.insiderstore.com.br/products/cueca-slip) (preta)",
+              "R$ 75",
+              "R$ 63,75",
+              "Sem kit",
+              "[R$ 339](https://www.insiderstore.com.br/products/kit-5-cuecas-slip), R$ 67,80 cada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom EMCASACOMCECILIA, o desconto é de 15% sobre cada item. Ele soma com o Pix e com todas as formas de pagamento. No resumo do checkout, cada item mostra a linha \"Código de desconto EMCASACOMCECILIA\" com o valor descontado. Se ela não aparecer num item, o cupom não vale nele. No teste de 05/10/2026, o desconto também apareceu em kit com preço promocional. Pela nossa conta, com o cupom, cada peça sai por R$ 65,14 no kit 3 e por R$ 63,79 no kit 5.",
+          "A página do produto avulso também dá desconto por quantidade, pelo seletor. As regras do cupom estão na [página do cupom Insider](/cupons/insider)."
+        ]
+      },
+      {
+        "heading": "Kits: o que comparar",
+        "paragraphs": [
+          "Dois kits combinam os dois modelos:"
+        ],
+        "bullets": [
+          "Cueca Performance + Cueca Comfort (2 peças): R$ 139,83, com \"de R$ 180\" na página.",
+          "Kit Level-Up (5 Comfort + 5 Performance): R$ 692,59, com \"de R$ 900\" na página."
+        ],
+        "postParagraphs": [
+          "O \"de\" do kit não é a soma das peças avulsas. Para comparar, use o preço avulso da variante, não o \"de\" do kit. Com o cupom, o kit de duas peças sai por R$ 118,86, pela nossa conta. Para datas de Natal e outros kits de Black Friday, veja o [guia de Black Friday](/reviews/black-friday-insider)."
+        ]
+      },
+      {
+        "heading": "Lavagem",
+        "paragraphs": [
+          "A página da Performance e a da Comfort trazem os mesmos cuidados: ciclo delicado abaixo de 30 °C, sem alvejante, secagem no varal ou na secadora em temperatura baixa, sem limpeza a seco, sem passar, e evitar amaciante e pregador. As páginas da Seamless Touch e da Slip não trazem os cuidados: siga a etiqueta da peça.",
+          "A marca diz que a Performance tem \"alta resistência ao cloro\". Isso é a frase dela, não uma garantia de uso."
+        ]
+      },
+      {
+        "heading": "Troca e tamanho",
+        "paragraphs": [
+          "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Acerte o tamanho antes de comprar.",
+          "Os tamanhos por modelo são:"
+        ],
+        "bullets": [
+          "Performance e Comfort: de PP ao XXGG.",
+          "Seamless Touch: de P ao XXGG, sem PP.",
+          "Slip: de P ao XGG."
+        ],
+        "postParagraphs": [
+          "As duas boxers têm a mesma tabela de medidas, de cintura, quadril e barra. Confira a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider) antes de escolher o tamanho."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A cueca Insider é boa? Não testamos. A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é \"ultramacia\". Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854 São avaliações da loja, não uma prova independente.",
+          "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
+          "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
+          "Dá para trocar cueca Insider por tamanho? Não. Underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda da loja.",
+          "Cupom vale em kit? Em teste de 05/10/2026, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra e acerte o tamanho antes, porque cueca não tem troca por tamanho. Se a comparação for com outras marcas, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços, a composição, o uso indicado e os cuidados de lavagem vêm das páginas de produto da Insider, lidas em 20/10/2026. A regra de troca vem da central de ajuda da loja, consultada na mesma data. Rótulo, preço, estoque e avaliações mudam: confira na loja antes de comprar. Ninguém da equipe usou ou testou estas cuecas. As avaliações citadas são da página da loja e não são prova independente. Podemos receber comissão pelas compras feitas pelos nossos links e pelo cupom EMCASACOMCECILIA; isso não muda o preço para você."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "slug": "undershirt-insider-qual-escolher-funciona",
+    "title": "Undershirt Insider: Leve, Moderado ou Block, qual escolher para o seu nível de suor",
+    "seoTitle": "Undershirt Insider: Leve, Moderado ou Block",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Qual undershirt Insider escolher: o nível de suor que a marca indica para a Leve, o Moderado e o Block, o que muda nas axilas, cores, tamanho, preço com o cupom e a regra de troca.",
+    "metaDescription": "Undershirt Insider Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho, preço com o cupom e troca.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-undershirt-tres-niveis-capa.webp",
+    "imageAlt": "Undershirts Insider Leve bege, Moderado preta e Block branca, vestidas por modelos",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Escolha pelo nível de transpiração, que é como a própria Insider indica as três peças: Leve para transpiração leve, Moderado (Anti Suor) para transpiração moderada e Block para transpiração excessiva. Os preços e a ficha desta página são da loja, lidos em 20/10/2026."
+        ],
+        "bullets": [
+          "Suor leve: [Undershirt Antissuor Leve](https://www.insiderstore.com.br/products/undershirt-simples). Só na cor bege e com gola V.",
+          "Suor moderado: [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor). É a única das três com camada dupla nas axilas declarada na página.",
+          "Suor excessivo: [Undershirt Antissuor Excessivo Block](https://www.insiderstore.com.br/products/undershirt-block). Tem reforço impermeável nas axilas, segundo a marca. No dia da leitura estava esgotada."
+        ],
+        "postParagraphs": [
+          "A linha tem três níveis, e o Block é o último. Se ele continuar esgotado quando você ler, a indicação para transpiração excessiva continua sendo a dele. Nenhuma das três trata ou elimina o suor."
+        ]
+      },
+      {
+        "heading": "Qual nível escolher",
+        "paragraphs": [
+          "A tabela resume o que a loja publica para cada peça. Os estoques são do dia da leitura."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Nível que a marca indica",
+            "Construção, segundo a marca",
+            "Cores e gola",
+            "Estoque"
+          ],
+          "rows": [
+            [
+              "[Undershirt Antissuor Leve](https://www.insiderstore.com.br/products/undershirt-simples)",
+              "Transpiração leve",
+              "A página não cita camada dupla nem reforço nas axilas",
+              "Bege; gola V",
+              "3 de 5 tamanhos; P e G esgotados"
+            ],
+            [
+              "[Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor)",
+              "Transpiração moderada",
+              "Camada dupla na região das axilas, para maior proteção",
+              "Bege, preta e branca; gola V e U",
+              "20 de 20 disponíveis"
+            ],
+            [
+              "[Undershirt Antissuor Excessivo Block](https://www.insiderstore.com.br/products/undershirt-block)",
+              "Transpiração excessiva",
+              "Reforço impermeável na região das axilas",
+              "Bege e branca; gola V e U",
+              "0 de 15: esgotada, com \"Avise-me\""
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na dúvida entre Leve e Moderado, a diferença que a página mostra é o nível indicado e a camada dupla nas axilas. A marca não diz em que ponto um nível passa para o outro, e este texto também não diz.",
+          "Se a dúvida é a Insider em si, e não o nível, leia [Insider vale a pena?](/reviews/insider-vale-a-pena). O texto compara a Tech T-Shirt e as cuecas com outras marcas."
+        ]
+      },
+      {
+        "heading": "O que muda na construção",
+        "paragraphs": [
+          "Pelo que a loja publica, a construção muda nas axilas. O Moderado tem camada dupla nessa região, \"para maior proteção\". O Block tem reforço impermeável nas axilas, segundo a marca. A Leve não declara nem uma coisa nem outra.",
+          "A composição do Moderado e do Block é a mesma: 88% modal e 12% elastano. A Leve é 88% TENCEL Modal e 12% elastano. Segundo as páginas, as três usam o tecido SOFTOUCH.",
+          "A marca também descreve as três como anti odor, com a frase \"desfavorável à proliferação de bactérias\". A loja não diz que a peça elimina o cheiro, e este texto também não diz.",
+          "A loja apresenta a peça para usar por baixo da camisa social."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-undershirt-block-bege-axila.webp",
+            "alt": "Undershirt Insider Block bege com gola V, com o recorte na região das axilas",
+            "caption": "Block bege com gola V: o recorte nas axilas marca o reforço que a marca descreve. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Cor, gola e encaixe sob a social",
+        "paragraphs": [
+          "O bege existe nas três e é a única cor da Leve. O Moderado também sai em preta e branca; o Block, em branca. A Leve tem só gola V. A gola U existe no Moderado e no Block.",
+          "Sob a camisa social, a loja diz que as peças não marcam por baixo da roupa e que a modelagem é discreta sob camisas sociais. São frases da marca, sem teste independente."
+        ]
+      },
+      {
+        "heading": "Preço, kit e cupom",
+        "paragraphs": [
+          "A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço",
+            "Com o cupom (conta nossa)"
+          ],
+          "rows": [
+            [
+              "[Undershirt Antissuor Leve](https://www.insiderstore.com.br/products/undershirt-simples)",
+              "R$ 145",
+              "R$ 123,25"
+            ],
+            [
+              "[Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor)",
+              "R$ 145 a R$ 159, conforme a variante",
+              "R$ 123,25 a R$ 135,15"
+            ],
+            [
+              "[Undershirt Antissuor Excessivo Block](https://www.insiderstore.com.br/products/undershirt-block)",
+              "R$ 185 (gola V) e R$ 189 (gola U)",
+              "Não calculado: esgotada"
+            ],
+            [
+              "[Kit 3 Undershirts Antissuor Moderado, gola V](https://www.insiderstore.com.br/products/kit-3-undershirt-anti-suor-gola-v)",
+              "R$ 413,12 (a página mostra \"de R$ 477\")",
+              "R$ 351,15, cerca de R$ 117,05 por peça"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
+          "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio na loja, mas o percentual muda entre a barra do site e os banners, então não o citamos aqui.",
+          "No teste de 05/10/2026, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
+          "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
+          "Regras e código do cupom estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider).",
+          "Se achar a undershirt em outro anúncio, como no Mercado Livre, confira o preço do dia. Este texto não compara com esses anúncios."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-kit-3-undershirt-moderado.webp",
+            "alt": "Kit com três undershirts Insider Moderado de gola V, duas pretas e uma branca",
+            "caption": "Kit 3 Undershirts Antissuor Moderado, gola V. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Tamanho",
+        "paragraphs": [
+          "Os tamanhos vão do P ao XGG na loja. A tabela da Insider mede a peça deitada, não o corpo. O jeito mais seguro é medir uma undershirt sua que serve e comparar com a tabela da peça."
+        ],
+        "bullets": [
+          "Moderado, tamanho M: 68 cm de altura, 45,5 cm de largura e 18,5 cm de manga.",
+          "Leve, tamanho M: 70 cm de altura, 48,5 cm de largura e 18 cm de manga. A Leve é mais larga e mais comprida no mesmo tamanho.",
+          "Block: não temos a medida aqui. Confira a tabela na página do produto antes de escolher."
+        ],
+        "postParagraphs": [
+          "As medidas são da tabela oficial da Insider, lida em 12/10/2026. A página do Moderado diz que o modelo veste M e tem 1,91 m. Para as outras linhas da loja, veja a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider)."
+        ]
+      },
+      {
+        "heading": "Avaliações da loja",
+        "paragraphs": [
+          "Na página de cada undershirt, a loja mostra nota 4,9: 291 avaliações na Leve, 2.856 no Moderado e 1.302 no Block. Nenhuma das três tem nota de 1 a 3 estrelas.",
+          "São números da própria loja. Eles mostram que a loja publica avaliações, mas não dizem se a peça resolve o seu caso."
+        ]
+      },
+      {
+        "heading": "Troca e cuidados",
+        "paragraphs": [
+          "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra. O prazo para pedir a troca por defeito é de 180 dias corridos, com fotos. Por isso, acerte o tamanho antes de comprar.",
+          "Segundo a central de ajuda, a undershirt pode encolher até 7%. As instruções de lavagem da peça estão na etiqueta, e este texto não traz outras."
+        ]
+      },
+      {
+        "heading": "Suor excessivo: quando procurar um dermatologista",
+        "paragraphs": [
+          "A undershirt é uma peça de roupa, não um tratamento. Ela não trata, não cura e não elimina o suor.",
+          "Se o suor é excessivo ou persiste, procure um dermatologista. A indicação do Block para transpiração excessiva é da marca, e não significa tratamento."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A undershirt Insider funciona? Só pela ficha da loja não dá para dizer. A marca descreve cada nível e a construção, e as avaliações são dela. Ninguém da equipe usou as peças.",
+          "Qual undershirt Insider escolher para suor moderado? A [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor), indicada pela marca para transpiração moderada, com camada dupla nas axilas.",
+          "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado no dia da leitura.",
+          "A undershirt Insider tem versão feminina? Não. A linha da loja é masculina.",
+          "Dá para trocar a undershirt se não servir? Não por tamanho. A troca só vale por defeito de fabricação, em até 180 dias corridos, com fotos.",
+          "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
+          "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
+          "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os dados vêm das páginas de produto da Insider, do catálogo da loja e da central de ajuda, lidos em 20/10/2026. As medidas vêm da tabela oficial, lida em 12/10/2026. Preço, estoque e avaliações mudam, então confira a página antes de comprar. Ninguém da equipe usou as undershirts. Podemos receber comissão se você comprar pelos nossos links ou usar o cupom EMCASACOMCECILIA."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "slug": "presente-de-natal-insider-kits-gift-card",
+    "title": "Presente de Natal na Insider: kits, gift card, sacola e troca de presente",
+    "seoTitle": "Presente de Natal Insider: kits, gift card e troca",
+    "type": "Guia de Presente",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Presente de Natal na Insider: os kits por faixa de preço, os kits com cueca boxer, como funciona o gift card, sacola e envelope, a troca de presente e até quando pedir para chegar antes do Natal.",
+    "metaDescription": "Presente de Natal Insider: kits por preço, kits com cueca, gift card, sacola, troca de presente e prazo para chegar antes do Natal.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-kit-presente-performance-masculino.webp",
+    "imageAlt": "Kit Presente Performance Masculino da Insider: camiseta branca e duas cuecas boxer pretas",
+    "imageFit": "contain",
+    "imageAspect": "square",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para presentear com a Insider neste Natal, há três caminhos: um kit de presente, um gift card virtual ou o kit mais uma sacola ou envelope. Os preços e as regras abaixo foram lidos nas páginas da loja em 20/10/2026. Os prazos vêm da simulação de frete do carrinho de 09/10/2026."
+        ],
+        "bullets": [
+          "O [gift card virtual](https://www.insiderstore.com.br/products/cartao-presente-insider) vai de R$ 50 a R$ 1.000, em 12 valores.",
+          "São 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia. Dois deles têm cueca boxer.",
+          "O cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
+          "Cueca, calcinha e sutiã só trocam por defeito. Por isso, o tamanho precisa estar certo antes de comprar.",
+          "Para chegar antes do Natal, a data limite de pedido depende da cidade. A tabela está na seção \"Até quando pedir\"."
+        ]
+      },
+      {
+        "heading": "Vale presente na Insider: como funciona o gift card",
+        "paragraphs": [
+          "O gift card da Insider é virtual. A página do produto lista 12 valores: R$ 50, R$ 80, R$ 100, R$ 150, R$ 200, R$ 350, R$ 500, R$ 600, R$ 700, R$ 800, R$ 900 e R$ 1.000.",
+          "As regras, pela própria página do cartão:"
+        ],
+        "bullets": [
+          "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
+          "Ele vai para o e-mail de quem compra, que encaminha à pessoa presenteada. O envio sai depois da confirmação do pagamento.",
+          "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
+          "A página limita quantos cartões cada conta pode comprar por dia.",
+          "O cartão fica fora da campanha de brindes."
+        ],
+        "postParagraphs": [
+          "O desconto do Pix não se aplica à compra do gift card. E o cupom não pode ser usado em pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-gift-card-virtual.webp",
+            "alt": "Gift Card Virtual da Insider no valor de R$ 50",
+            "caption": "Gift card virtual, enviado por e-mail. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Kits com cueca boxer",
+        "paragraphs": [
+          "Para presentear um homem, os dois kits com cueca são o primeiro lugar para olhar. O [Kit Presente Performance Masculino](https://www.insiderstore.com.br/products/conjunto-1-camiseta-esportiva-performance-t-shirt-2-0-2-cuecas-boxer-performance-simples-masculino-copia) traz uma Performance T-Shirt 2.0 e duas cuecas Performance boxer. O [Kit Presente Básico Masculino](https://www.insiderstore.com.br/products/conjunto-masculino-essencias) traz duas Tech T-Shirts e uma cueca Performance."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço",
+            "Com o cupom (conta nossa)",
+            "Preço \"de\""
+          ],
+          "rows": [
+            [
+              "[Kit Presente Performance Masculino](https://www.insiderstore.com.br/products/conjunto-1-camiseta-esportiva-performance-t-shirt-2-0-2-cuecas-boxer-performance-simples-masculino-copia)",
+              "1 Performance T-Shirt 2.0 + 2 Cuecas Performance boxer",
+              "R$ 337,90",
+              "R$ 287,22",
+              "R$ 449,00"
+            ],
+            [
+              "[Kit Presente Básico Masculino](https://www.insiderstore.com.br/products/conjunto-masculino-essencias)",
+              "2 Tech T-Shirt + 1 Cueca Performance",
+              "R$ 337,22",
+              "R$ 286,64",
+              "R$ 433,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cada peça do kit tem tamanho e cor escolhidos na própria página do kit, peça por peça. Antes de passar para o próximo item, confira o tamanho da cueca. O [guia de medidas da Insider](/reviews/tabela-de-medidas-insider) ajuda a escolher.",
+          "A coluna \"Com o cupom\" é conta nossa: 15% sobre o preço do dia. O checkout pode arredondar de outro jeito, então confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item antes de pagar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-kit-presente-basico-masculino.webp",
+            "alt": "Kit Presente Básico Masculino da Insider: duas camisetas pretas e uma cueca boxer azul",
+            "caption": "Kit Presente Básico Masculino: duas Tech T-Shirts e uma cueca Performance. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Kits com cueca fora do rótulo Kit Presente",
+        "paragraphs": [
+          "Três kits com cueca não levam o nome \"Kit Presente\". O preço \"de\" da página vai entre parênteses:"
+        ],
+        "bullets": [
+          "[Conjunto Masculino Comfy](https://www.insiderstore.com.br/products/kit-home-office): Tech T-Shirt e Cueca Boxer Comfort, R$ 205,12 (de R$ 254,00).",
+          "[Kit Masculino Essencial](https://www.insiderstore.com.br/products/starter-pack-i-masculino): 2 Tech T-Shirt, Cueca Performance e Spectrum Socks Mid 2.0, R$ 360,15 (de R$ 472,00).",
+          "[Kit Masculino Essenciais](https://www.insiderstore.com.br/products/starter-pack-ii-para-ele): 2 Tech T-Shirt Gola U, Cueca Performance e Cueca Comfort, R$ 411,58 (de R$ 518,00)."
+        ]
+      },
+      {
+        "heading": "Kits até R$ 250",
+        "paragraphs": [
+          "Dois kits femininos ficam nesta faixa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço",
+            "Com o cupom (conta nossa)",
+            "Preço \"de\""
+          ],
+          "rows": [
+            [
+              "[Kit Presente Essencial Feminino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-feminina-2-calcinha-biquini-brief)",
+              "1 Tech T-Shirt + 2 Calcinha Brief",
+              "R$ 208,80",
+              "R$ 177,48",
+              "R$ 307,00"
+            ],
+            [
+              "[Kit Presente Esportivo Feminino](https://www.insiderstore.com.br/products/conjunto-performance-feminina)",
+              "Top Fitness e Short Médio",
+              "R$ 245,95",
+              "R$ 209,06",
+              "R$ 404,00"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Kits de R$ 250 a R$ 350",
+        "paragraphs": [
+          "Nove kits, femininos e masculinos."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço",
+            "Com o cupom (conta nossa)",
+            "Preço \"de\""
+          ],
+          "rows": [
+            [
+              "[Kit Presente Best-Sellers Feminino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-feminina-1-blusa-de-alca-feminina-the-perfect-top)",
+              "Tech T-Shirt + The Perfect Top",
+              "R$ 257,09",
+              "R$ 218,53",
+              "R$ 308,00"
+            ],
+            [
+              "[Kit Presente Tecnológico Feminino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-feminina-1-tech-t-shirt®-gola-v-feminina)",
+              "Tech T-Shirt Gola U + Gola V",
+              "R$ 262,38",
+              "R$ 223,02",
+              "R$ 338,00"
+            ],
+            [
+              "[Kit Presente Essencial Masculino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-1-shorts-esportivo-endorphine)",
+              "Tech T-Shirt + Shorts Endorphine",
+              "R$ 290,30",
+              "R$ 246,76",
+              "R$ 448,00"
+            ],
+            [
+              "[Kit Presente Performance Feminino](https://www.insiderstore.com.br/products/conjunto-1-the-perfect-top-1-calca-legging-easy)",
+              "The Perfect Top + Legging Easy",
+              "R$ 294,03",
+              "R$ 249,93",
+              "R$ 434,00"
+            ],
+            [
+              "[Kit Presente Active Masculino](https://www.insiderstore.com.br/products/conjunto-1-camiseta-esportiva-uv50-sportee-1-shorts-esportivo-endorphine)",
+              "Camiseta Esportiva UV50+ + Shorts Endorphine",
+              "R$ 297,80",
+              "R$ 253,13",
+              "R$ 434,00"
+            ],
+            [
+              "[Kit Presente Casual Feminino](https://www.insiderstore.com.br/products/conjunto-blusa-de-alca-the-perfect-top-saia-mini-alfaiataria-tech-kyoto-futureform)",
+              "The Perfect Top + Saia Mini",
+              "R$ 312,21",
+              "R$ 265,38",
+              "R$ 464,00"
+            ],
+            [
+              "[Kit Presente Prático Feminino](https://www.insiderstore.com.br/products/conjunto-1-saia-mini-alfaiataria-tech-kyoto-futureform®-1-tech-t-shirt®-gola-v-feminina)",
+              "Saia Mini Kyoto + Tech Gola V",
+              "R$ 317,10",
+              "R$ 269,54",
+              "R$ 494,00"
+            ],
+            [
+              "[Kit Presente Versátil Masculino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-1-camiseta-henley-game-changer)",
+              "Tech T-Shirt + Camiseta Henley",
+              "R$ 318,65",
+              "R$ 270,85",
+              "R$ 438,00"
+            ],
+            [
+              "[Kit Presente Fitness Feminino](https://www.insiderstore.com.br/products/conjunto-vestido-rush-motion-shorts-curto)",
+              "Vestido Rush + Motion Shorts",
+              "R$ 326,11",
+              "R$ 277,19",
+              "R$ 504,00"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Kits de R$ 350 a R$ 450",
+        "paragraphs": [
+          "Seis kits nesta faixa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço",
+            "Com o cupom (conta nossa)",
+            "Preço \"de\""
+          ],
+          "rows": [
+            [
+              "[Kit Presente Treino Masculino](https://www.insiderstore.com.br/products/conjunto-2-regatas-intech-1-shorts-esportivo-endorphine)",
+              "2 Regatas Intech + Shorts Endorphine",
+              "R$ 384,63",
+              "R$ 326,94",
+              "R$ 557,00"
+            ],
+            [
+              "[Kit Presente Urbano Masculino](https://www.insiderstore.com.br/products/conjunto-camiseta-henley-game-changer-camiseta-polo-game-changer)",
+              "Camiseta Henley + Camiseta Polo",
+              "R$ 384,85",
+              "R$ 327,12",
+              "R$ 544,00"
+            ],
+            [
+              "[Kit Presente Versátil Feminino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-feminina-1-bermuda-oversized-alfaiataria-tech-kyoto-futureform®-feminina)",
+              "Tech T-Shirt + Bermuda Kyoto",
+              "R$ 385,15",
+              "R$ 327,38",
+              "R$ 518,00"
+            ],
+            [
+              "[Kit Presente Exercício Masculino](https://www.insiderstore.com.br/products/conjunto-bermuda-masculina-alfaitaria-tech-future-shorts-200-1-regata-intech-masculina)",
+              "Bermuda Future Shorts 200 + Regata Intech",
+              "R$ 415,84",
+              "R$ 353,46",
+              "R$ 494,00"
+            ],
+            [
+              "[Kit Presente Feminino](https://www.insiderstore.com.br/products/conjunto-saia-mini-kyoto-futureform-blusa-gola-alta-techsture-vest)",
+              "Saia Mini Kyoto + Blusa Gola Alta Techsture Vest",
+              "R$ 424,76",
+              "R$ 361,05",
+              "R$ 624,00"
+            ],
+            [
+              "[Kit Presente Tecnológico Masculino](https://www.insiderstore.com.br/products/conjunto-1-tech-t-shirt®-1-bermuda-masculina-alfaiataria-tech-future-shorts-200)",
+              "Tech T-Shirt + Bermuda Future Shorts 200",
+              "R$ 432,67",
+              "R$ 367,77",
+              "R$ 524,00"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Kits acima de R$ 450",
+        "paragraphs": [
+          "Cinco kits nesta faixa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Peças",
+            "Preço",
+            "Com o cupom (conta nossa)",
+            "Preço \"de\""
+          ],
+          "rows": [
+            [
+              "[Kit Presente Treino Feminino](https://www.insiderstore.com.br/products/conjunto-fitness-feminino-2-top-fitness-e-short-fitness-serotonin)",
+              "2 Top Fitness + 1 Short Serotonin",
+              "R$ 467,96",
+              "R$ 397,77",
+              "R$ 669,00"
+            ],
+            [
+              "[Kit Presente Casual Masculino](https://www.insiderstore.com.br/products/conjunto-camiseta-polo-game-changer-bermuda-masculina-alfaiataria-tech-future-shorts-200)",
+              "Camiseta Polo + Bermuda Future Shorts 200",
+              "R$ 498,64",
+              "R$ 423,84",
+              "R$ 630,00"
+            ],
+            [
+              "[Kit Presente Elegante Feminino](https://www.insiderstore.com.br/products/conjunto-1-maxi-saia-nyin-1-blusa-skin-cropped)",
+              "Maxi Saia NYIN + Blusa Skin Cropped",
+              "R$ 505,00",
+              "R$ 429,25",
+              "R$ 534,00"
+            ],
+            [
+              "[Kit Presente Escritório Feminino](https://www.insiderstore.com.br/products/conjunto-1-regata-gola-alta-tech-t-shirt®-high-neck-1-bermuda-oversized-alfaiataria-tech-kyoto-futureform®-feminina)",
+              "Regata Gola Alta + Bermuda Kyoto",
+              "R$ 509,00",
+              "R$ 432,65",
+              "R$ 538,00"
+            ],
+            [
+              "[Kit Presente Esportivo Masculino](https://www.insiderstore.com.br/products/conjunto-camiseta-esportiva-bermuda-future-shorts)",
+              "2 Camisetas Esportiva UV50+ + Bermuda Future Shorts 200",
+              "R$ 583,62",
+              "R$ 496,08",
+              "R$ 665,00"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Sacola e embalagem de presente",
+        "paragraphs": [
+          "A loja vende dois itens de embalagem:"
+        ],
+        "bullets": [
+          "[Insider Gift Bag](https://www.insiderstore.com.br/products/insider-gift-bag): sacola de papel branca, 100% papel, de 24 × 32 × 10 cm, por R$ 9,00.",
+          "[Embalagem de Presente Prateada](https://www.insiderstore.com.br/products/envelope-com-fundo): envelope de papel cartão e poliéster, de 25 × 5 × 35 cm, por R$ 13,90."
+        ],
+        "postParagraphs": [
+          "A loja marca as duas como estoque baixo, então vale checar a disponibilidade antes de contar com elas. Se você comprar a sacola ou o envelope junto com um kit, a etiqueta de lançamento não decide o cupom: confira a linha do código no checkout."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-gift-bag-sacola.webp",
+            "alt": "Sacola de papel branca Insider Gift Bag com alças pretas",
+            "caption": "Insider Gift Bag. Imagem: Insider.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/insider/insider-embalagem-presente-prateada.webp",
+            "alt": "Embalagem de presente prateada da Insider, em formato de envelope",
+            "caption": "Embalagem de Presente Prateada. Imagem: Insider.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Troca de presente: o que vale e o que não vale",
+        "paragraphs": [
+          "A troca de presente segue a central de ajuda da loja. Quem ganhou o presente pode pedir a troca sem nota fiscal e sem a embalagem original. A troca sai em vale-troca, no valor da peça, para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça com etiqueta, sem uso e sem sinal de lavagem. Os 21 dias contam da entrega, não da compra.",
+          "Cueca, calcinha e sutiã só trocam ou devolvem por defeito de fabricação. As undershirts seguem a mesma regra, e a troca de presente também. Ou seja, a troca de presente não serve para corrigir o tamanho de uma cueca: o caminho é acertar o tamanho antes de comprar, com o [guia de medidas da Insider](/reviews/tabela-de-medidas-insider).",
+          "Para ver a troca com a simulação completa de prazo, veja o [guia de Black Friday da Insider](/reviews/black-friday-insider)."
+        ]
+      },
+      {
+        "heading": "Até quando pedir para chegar antes do Natal",
+        "paragraphs": [
+          "A loja diz que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. Ela não garante entrega até o Natal. A tabela abaixo é a nossa conta, a partir da simulação de frete grátis do carrinho em 09/10/2026, com o CEP do centro de cada capital.",
+          "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada em 23/12, uma quarta-feira, sem contar feriados locais. Assim, sobra um dia antes de 24/12."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cidade",
+            "Frete grátis (dias úteis na simulação)",
+            "Pedido aprovado até"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "5",
+              "16/12"
+            ],
+            [
+              "Curitiba",
+              "6",
+              "15/12"
+            ],
+            [
+              "Porto Alegre",
+              "6",
+              "15/12"
+            ],
+            [
+              "Goiânia",
+              "6",
+              "15/12"
+            ],
+            [
+              "Rio de Janeiro",
+              "7",
+              "14/12"
+            ],
+            [
+              "Belo Horizonte",
+              "7",
+              "14/12"
+            ],
+            [
+              "Brasília",
+              "8",
+              "11/12"
+            ],
+            [
+              "Salvador",
+              "9",
+              "10/12"
+            ],
+            [
+              "Fortaleza",
+              "11",
+              "08/12"
+            ],
+            [
+              "Belém",
+              "12",
+              "07/12"
+            ],
+            [
+              "Recife",
+              "13",
+              "04/12"
+            ],
+            [
+              "Manaus",
+              "19",
+              "26/11"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete é grátis a partir de R$ 399, e esse valor conta depois do desconto do cupom. Um kit sozinho abaixo desse valor paga frete. Na nossa conta, o Kit Presente Feminino de R$ 424,76 cai para cerca de R$ 361 com o cupom, então também paga frete sozinho. O carrinho mostra quanto falta para o frete grátis.",
+          "Na opção paga da simulação, de R$ 19,90, o prazo é de 2 dias úteis em São Paulo e de 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza."
+        ]
+      },
+      {
+        "heading": "Cupom EMCASACOMCECILIA no presente",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 15% de desconto na loja online. Ele vale para um pedido por vez e não soma com outro cupom. Vale com todas as formas de pagamento, inclusive o Pix, e soma com as promoções, salvo quando a promoção disser o contrário. Na loja física, ele não vale. A [página do cupom](/cupons/insider) tem o código para copiar.",
+          "Quem presenteia costuma perguntar se o cupom entra no kit. Num teste de checkout de 5 de outubro de 2026, a linha do código apareceu em kit com preço promocional. Por isso, a regra é conferir a linha de cada item no checkout, não confiar na etiqueta do produto. O [passo a passo do cupom](/reviews/cupom-emcasacomcecilia-insider-store-como-usar) mostra onde ele aparece.",
+          "O cupom não entra em pedido pago com gift card, como visto acima.",
+          "Não sabemos de cupom de Natal separado. Para o presente, o código que temos é o EMCASACOMCECILIA.",
+          "Algumas promoções dão brinde em compras acima de um valor. A loja diz que a regra muda sem aviso e que a promoção pode acabar a qualquer momento. O brinde não é trocado separadamente, e o gift card fica fora dessa campanha."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado por e-mail a quem comprou, com validade de 12 meses a partir do recebimento.",
+          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Cueca, calcinha e sutiã só trocam por defeito.",
+          "Cupom vale com gift card? Não: pedido pago com gift card não aceita cupom, segundo a página do cartão.",
+          "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
+          "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
+          "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços e as regras de kits, gift card e embalagem foram lidos nas páginas da Insider em 20/10/2026. Os prazos vêm da simulação de frete do carrinho de 09/10/2026, e a regra de troca de presente, da central de ajuda da loja. Os valores com cupom são conta nossa: 15% sobre o preço do dia, arredondados para centavos. Ninguém da equipe comprou ou usou os produtos deste texto. Podemos receber comissão pelas compras feitas pelos links deste artigo ou com o cupom EMCASACOMCECILIA. Preços, prazos e regras mudam: confira o pedido no checkout antes de pagar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+      },
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
       }
     ]
   }

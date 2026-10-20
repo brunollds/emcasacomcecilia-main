@@ -402,6 +402,17 @@ for (const review of reviews) {
         message: 'plainTextBody com markdown cru ("](" ou "**"): o áudio leria a marcação, e a página também a mostra',
       });
     }
+    // A página mostra o cabeçalho da tabela cru, sem ler o markdown (as células leem).
+    for (const section of review.contentSections || []) {
+      if ((section.comparisonTable?.headers || []).some((header) => /\]\(|\*\*/.test(header))) {
+        reportError({
+          type: 'review',
+          id: review.id,
+          slug: review.slug,
+          message: `cabeçalho de tabela com markdown ("](" ou "**") em "${section.heading}": a página o mostra cru`,
+        });
+      }
+    }
     // O FAQ corta a pergunta no primeiro "?": "**Pergunta?** resposta" vira a pergunta "**Pergunta?" e a
     // resposta "** resposta", e os asteriscos aparecem no acordeão e no FAQPage.
     for (const section of review.contentSections || []) {
