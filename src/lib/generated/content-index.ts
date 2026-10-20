@@ -80748,8 +80748,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 442,
     "slug": "clea-store-aniversario-14-anos-t-shirt-brinde",
-    "title": "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 18/10, com o cupom CSEMCASACOMCECILIA",
-    "seoTitle": "Cléa Store 14 anos: T-Shirt de brinde até 18/10",
+    "title": "Aniversário Cléa Store 14 anos: T-Shirt Oversized de brinde em qualquer compra até 31/10, com o cupom CSEMCASACOMCECILIA",
+    "seoTitle": "Cléa Store 14 anos: T-Shirt de brinde até 31/10",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80760,8 +80760,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store faz 14 anos e dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 18/10/2026. Como escolher o brinde, o pedido mais barato que leva a T-Shirt e o teste do cupom CSEMCASACOMCECILIA junto com o brinde.",
-    "metaDescription": "Cléa Store 14 anos: T-Shirt de brinde em qualquer compra até 18/10. Como escolher, o pedido mais barato e o cupom CSEMCASACOMCECILIA testado junto.",
+    "description": "A Cléa Store faz 14 anos e dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 31/10/2026. Como escolher o brinde, o pedido mais barato que leva a T-Shirt e o teste do cupom CSEMCASACOMCECILIA junto com o brinde.",
+    "metaDescription": "Cléa Store 14 anos: T-Shirt de brinde em qualquer compra até 31/10. Como escolher, o pedido mais barato e o cupom CSEMCASACOMCECILIA testado junto.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "draft": false,
@@ -80777,7 +80777,7 @@ export const reviewsData: unknown[] = [
       "Você escolhe a cor e o tamanho da T-Shirt entre as opções disponíveis"
     ],
     "cons": [
-      "A promoção acaba em 18/10/2026, às 23h59",
+      "A promoção acaba em 31/10/2026",
       "As cores e os tamanhos do brinde podem ser menos que os da peça vendida",
       "O brinde não ajuda a chegar ao frete grátis de R$ 599",
       "A loja aceita um cupom por pedido"
@@ -80810,7 +80810,7 @@ export const reviewsData: unknown[] = [
         "heading": "Resposta rápida",
         "bullets": [
           "A Cléa Store faz 14 anos e dá uma **T-Shirt Oversized de brinde** na compra de qualquer peça. Uma peça no carrinho basta, e um kit conta como uma peça.",
-          "A promoção vai até **18/10/2026, às 23h59**.",
+          "A promoção vai até **31/10/2026**.",
           "O cupom **CSEMCASACOMCECILIA** vale junto: dá 10% em todo o site, em todas as formas de pagamento. No nosso teste de 15/10/2026, o cupom entrou no pedido e o brinde saiu a R$ 0,00.",
           "O pedido mais barato que levava a T-Shirt em 15/10/2026 era o Body Cavado: R$ 45,63 com o cupom.",
           "O Em Casa com Cecília pode receber comissão pelas compras com esse cupom. As condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
@@ -80922,7 +80922,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando vai a T-Shirt de brinde da Cléa Store? Até 18/10/2026, às 23h59. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
+          "Até quando vai a T-Shirt de brinde da Cléa Store? Até 31/10/2026. A promoção é da loja e vale para qualquer cliente. Depois dessa data, o cupom de 10% continua valendo.",
           "Quanto preciso gastar para ganhar a T-Shirt? Basta uma peça no carrinho. A loja diz \"na compra de qualquer peça\", sem valor mínimo.",
           "Um kit conta como uma peça para o brinde? Sim. Um kit de 3 T-Shirts conta como uma peça e libera o brinde, como conferimos no carrinho em 15/10/2026.",
           "O cupom CSEMCASACOMCECILIA vale junto com o brinde? Sim. No teste, o cupom deu R$ -53,01 sobre a calça, e a T-Shirt seguiu a R$ 0,00.",
