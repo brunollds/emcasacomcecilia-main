@@ -41,6 +41,33 @@ O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar
 | Nasceu há 10 anos com o whey "na garrafinha" | fato_oficial | Blog da loja ("A História do Whey na Garrafinha") | 2026-10-20 | 2027-01-20 | Conferir o ano de fundação antes de citar |
 | Loja na Nuvemshop; entrega em todo o Brasil; 3x sem juros no cartão | fato_oficial | Site oficial | 2026-10-20 | 2027-01-20 | O domínio é lojamaismu.com.br (um "m"); maismu.com.br redireciona para ele |
 
+### Reputação e dados da empresa (20/10/2026)
+
+- **Reclame Aqui** (lido pelo Claude no navegador; `reclameaqui.com.br/empresa/mais-mu/`):
+
+  | Período | Reputação | Nota | Resolvidas | Voltariam a fazer negócio | Reclamações |
+  |---|---|---|---|---|---|
+  | 6 meses (01/04 a 30/09/2026) | Regular | 6,4 | 67,9% | 47,2% | 112 |
+  | 12 meses (01/10/2025 a 30/09/2026) | Boa | 7,2 | 76,3% | 59,3% | 290 |
+  | Geral (21/10/2023 a 20/10/2026) | Boa | 7,7 | 81,7% | 65,9% | 770 |
+
+  As principais queixas são produto não recebido, atraso na entrega e produto com defeito. O histórico de 6 meses passa de Boa para Regular.
+- **CNPJ:** 21.526.148/0001-34, ativo desde 05/12/2014 (BrasilAPI). O site diz "há 10 anos": citar só o CNPJ.
+- **Divergências, para a próxima revisão do couponsData (fora das sessões de artigo):**
+  - a boas-vindas aparece como R$ 15 acima de R$ 250 no cashback e como 10% na primeira compra no rodapé;
+  - o FAQ da loja chama o botão de "Usar cupom", mas o checkout do teste mostrou "Adicionar cupom de desconto";
+  - o Pix sai em nome de "Loja Integrada" (não citar).
+
+### Decisões do Bruno que valem para todos os artigos da Mais Mu (20/10/2026)
+
+- **Reputação recente:** vai direta, com os números e o período. Anvisa fora.
+- **Black Friday:** o guia sai sem esperar o anúncio da loja e entra no fim de `articleSlugs` (só em `/black-friday`).
+- **Briefings aprovados:**
+  - [[mais-mu-e-confiavel]]
+  - [[mais-mu-reclame-aqui-nota-reputacao]]
+  - [[cupom-mais-mu-como-usar]]
+  - [[black-friday-mais-mu]]
+
 ---
 
 ## 3. Alertas Editoriais
