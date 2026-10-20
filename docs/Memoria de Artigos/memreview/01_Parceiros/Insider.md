@@ -84,7 +84,7 @@ como a parceria entregou, porque o FAQ proíbe editar o link.
 | "Desde 2017", "+800 mil clientes", histórico com Shark Tank, Y Combinator e Forbes | afirmacao_da_marca | Central de ajuda, página de vagas | 2026-10-05 | 2027-01-05 | Citar sempre atribuído à marca |
 | Tech T-Shirt avulsa a R$ 129 no dia da checagem, também vendida em kits; versões masculina e feminina | fato_oficial | Página do produto | 2026-10-05 | 2026-11-05 | Preço volátil. Antiodor e "desamassa no corpo" são promessas da marca |
 | Garantia de 2 anos contra desbotamento da Tech T-Shirt, para compras desde 06/09/2024 | fato_oficial | Termos de uso; nota do produto na página da Tech T-Shirt (2026-10-12) | 2026-10-05 | 2027-01-05 | Condição: seguir a etiqueta (ciclo delicado até 30 °C, entre outros cuidados), "considerando uma lavagem por semana" (nota do produto, 12/10/2026) |
-| Undershirt Antissuor nas versões Leve, Moderado e Block, com camada dupla nas axilas | fato_oficial | Páginas dos produtos | 2026-10-05 | 2027-01-05 | Feita para usar por baixo da camisa social |
+| Undershirt Antissuor nas versões Leve, Moderado e Block; camada dupla nas axilas só no Moderado, reforço impermeável nas axilas no Block, e a Leve não declara reforço | fato_oficial | Páginas dos produtos | 2026-10-20 | 2027-01-20 | Feita para usar por baixo da camisa social; corrigido em 20/10 (antes dizia camada dupla nas três) |
 | Cuecas das linhas Comfort e Performance, avulsas ou em kits | fato_oficial | Catálogo | 2026-10-05 | 2027-01-05 | Não existe cueca "Daily". A Tech Daily é camiseta (ver linha abaixo) |
 | Tech Daily (camiseta): tecido DAYON™, 94% viscose e 6% elastano, pode encolher até 2 cm no comprimento na primeira lavagem; R$ 79 (de R$ 139) em 12/10/2026, com o aviso "este item já está com desconto máximo aplicado. Não é cumulativo com cupons"; fora das coleções do catálogo, estoque baixo | fato_oficial | `/products/daily-t-shirt` e `.js` | 2026-10-12 | 2026-11-12 | No teste do Bruno no checkout em 12/10/2026 o cupom não se aplicou à Daily (seção 1). Preço e estoque voláteis |
 | Linha feminina com tops (The Perfect Top), leggings, saias e vestidos | fato_oficial | Catálogo | 2026-10-05 | 2027-01-05 | — |
@@ -228,6 +228,6 @@ loja física, CNPJ, Insider Business e vagas.
 - [[black-friday-insider]] — Guia de Black Friday 2026: coleção no ar, preços de outubro, cupom com o Pix, troca de presente e prazo para o Natal (publicado em 10/10/2026, PR #50)
 - [[insider-vale-a-pena]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
 - [[tabela-de-medidas-insider]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
-- [[cueca-insider-comfort-ou-performance]] — briefing em pauta-aprovada (20/10/2026)
-- [[undershirt-insider-qual-escolher-funciona]] — briefing em pauta-aprovada (20/10/2026)
-- [[presente-de-natal-insider-kits-gift-card]] — briefing em pauta-aprovada (20/10/2026)
+- [[cueca-insider-comfort-ou-performance]] — publicado em 20/10/2026 (PR #188, `d240601`)
+- [[undershirt-insider-qual-escolher-funciona]] — publicado em 20/10/2026 (PR #188, `d240601`)
+- [[presente-de-natal-insider-kits-gift-card]] — publicado em 20/10/2026 (PR #188, `d240601`)

@@ -6,14 +6,16 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar preços na última semana de outubro de 2026"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 80
 score_ponderado_total: 74
 data_criacao: "2026-10-20"
+publicado_em: "2026-10-20"
+nota_publicacao: "No ar em 20/10/2026 17:40 UTC (PR #188, release `d240601`, build `01a15a63-b54c-7361-aca0-dd2930656ac0`), id 523; probe 39468481645."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
