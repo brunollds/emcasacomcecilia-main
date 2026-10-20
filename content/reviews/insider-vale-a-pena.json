@@ -17,6 +17,7 @@
   "metaDescription": "Insider vale a pena? Tech T-Shirt, Daily, Core e cuecas comparadas com Minimal Club, Mirante, Basicamente, Hering e Alpha Co: tecido, preço e troca.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-10-20",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
@@ -57,7 +58,7 @@
     {
       "heading": "Camiseta básica das seis marcas lado a lado",
       "comparisonTable": {
-        "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui os 10% OFF no Pix anunciados na barra do site.",
+        "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui o desconto do Pix anunciado no site.",
         "headers": ["Marca e modelo", "Composição", "Gramatura", "Preço em 12/10/2026", "Troca / defeito", "Garantia ou promessa da marca"],
         "rows": [
           ["Insider, Tech T-Shirt", "92% modal, 8% elastano", "185 g/m² (comparação oficial da marca)", "R$ 129 (de R$ 169)", "21 dias / 180 dias", "2 anos contra desbotamento, com condições"],
@@ -155,18 +156,19 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Dados das páginas da Insider em 12/10/2026. Preço da unidade, salvo os kits.",
-        "headers": ["Modelo", "Material informado", "Construção informada", "Preço em 12/10/2026"],
+        "caption": "Material e construção das páginas da Insider em 12/10/2026; preços lidos em 20/10/2026. Preço da unidade, salvo os kits.",
+        "headers": ["Modelo", "Material informado", "Construção informada", "Preço em 20/10/2026"],
         "rows": [
           ["Boxer Comfort, Simples", "88% modal, 12% elastano", "Boxer de modal", "R$ 79 (de R$ 85); kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"],
           ["Boxer Comfort, Anti Suor", "Igual à Simples", "Camada extra de tecido na parte de trás; só na cor preta", "R$ 79"],
-          ["Boxer Performance, Simples", "Por fora: 87,5% poliamida, 12,5% elastano. Por dentro: 88% modal, 12% elastano", "Sem costura na lateral", "R$ 89 (de R$ 95); kit de 3 por R$ 258,99"],
-          ["Boxer Performance, Anti Suor", "Igual à Simples", "Forro duplo na parte de trás e costura na lateral; só na cor preta", "R$ 89"],
-          ["Boxer Seamless Touch", "95% poliamida, 4% elastano, 1% polipropileno", "Sem costura", "R$ 55 (de R$ 59)"],
-          ["Slip Comfort", "88% modal, 12% elastano na descrição; a ficha da página mostra 87,5% poliamida e 12,5% elastano", "Slip", "R$ 69 no P e R$ 75 nos demais"]
+          ["Boxer Performance, Simples", "Por fora: 87,5% poliamida, 12,5% elastano. Por dentro: 88% modal, 12% elastano", "Sem costura na lateral", "R$ 79 a R$ 95, conforme a cor e o tamanho; kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"],
+          ["Boxer Performance, Anti Suor", "Igual à Simples", "Forro duplo na parte de trás e costura na lateral; só na cor preta", "R$ 79 a R$ 95, conforme a cor e o tamanho"],
+          ["Boxer Seamless Touch", "95% poliamida, 4% elastano, 1% polipropileno", "Sem costura", "R$ 59"],
+          ["Slip Comfort", "88% modal, 12% elastano na descrição; a ficha da página mostra 87,5% poliamida e 12,5% elastano", "Slip", "R$ 75, só na cor preta"]
         ]
       },
       "postParagraphs": [
+        "Para escolher o modelo, com o preço de cada kit e os cuidados de lavagem, veja [qual cueca Insider escolher](/reviews/cueca-insider-comfort-ou-performance).",
         "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, segundo a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
       ]
     },
@@ -193,7 +195,7 @@
       "heading": "Quanto custa de verdade",
       "paragraphs": [
         "O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider: a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale em lançamentos nem nas lojas físicas, e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
-        "Em 12/10/2026, o frete era grátis a partir de R$ 399, e a barra do site anunciava 10% OFF no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
+        "Em 12/10/2026, o frete era grátis a partir de R$ 399, e o site anunciava desconto no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
       ],
       "links": [
         {
@@ -220,7 +222,7 @@
       "bullets": [
         "Insider vale a pena? Depende do que você compara: no site, a Tech T-Shirt custa mais que as camisetas da Mirante e da Basicamente e que a Super Cotton da Hering, e o diferencial que ela publica é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições.",
         "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal (92%, com elastano) e a Camiseta Minimal é de algodão egípcio (93%, 150 g/m²); a Minimal também vende uma Tech Modal (91% modal, 200 g/m²) por R$ 109,90.",
-        "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava 10% OFF no Pix), e só a Insider publica garantia de cor.",
+        "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava desconto no Pix), e só a Insider publica garantia de cor.",
         "Insider ou Basicamente: qual é melhor? Pelo site não dá para dizer: a Basicamente usa 95% modal e 5% elastano e diz que o antiodor dura até 30 lavagens, e a Insider não informa por quantas lavagens o antiodor dela dura.",
         "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79 em 12/10/2026.",
         "Insider ou Alpha Co? A Alpha Co tem camiseta de algodão Pima (R$ 99,99) e camisetas esportivas dry fit de poliéster (R$ 29,94), que são outra categoria.",
@@ -230,7 +232,7 @@
         "A cueca Insider é boa? Não testamos; a marca publica o tecido de cada modelo (modal na Comfort, poliamida por fora na Performance), e a troca só vale por defeito.",
         "Cueca Insider Comfort ou Performance? A Comfort é de modal e elastano; a Performance tem a parte de fora de poliamida e a de dentro de modal.",
         "Cueca Insider Simples ou Anti Suor? A Anti Suor tem uma camada extra de tecido atrás na Comfort e forro duplo atrás na Performance, segundo a página.",
-        "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 55 em 12/10/2026; não testamos.",
+        "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 59 em 20/10/2026; não testamos.",
         "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, por higiene e segurança, segundo a central de ajuda.",
         "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, exceto lançamentos e lojas físicas, um por pedido; a Daily avisa na página que não soma com cupons, e no teste do checkout de 12/10/2026 o cupom não entrou nela."
       ]
