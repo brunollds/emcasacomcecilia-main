@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[dr-peanut-e-saudavel]] — Dr. Peanut, o que o rótulo mostra em pasta, alfajor, Doctor Bar, Doctor Wafer e whey, sem dizer se é saudável (Score Aut: 80 / Conv: 60)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -42,6 +42,7 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[dr-peanut-e-saudavel]] — Dr. Peanut, o que o rótulo mostra em pasta, alfajor, Doctor Bar, Doctor Wafer e whey, sem dizer se é saudável (Score Aut: 80 / Conv: 60) (No ar em 20/10/2026, PR #185, release `e7443ec`) 🚀
 - [x] [[cafeteira-escritorio-qual-escolher-custo-mes]] — Dolce Gusto, cafeteira para escritório: tipo de máquina por perfil e custo por mês da equipe (Score Aut: 60 / Conv: 70) (No ar em 20/10/2026, PR #174, release `96b0008`) 🚀
 - [x] [[mesa-posta-natal-o-que-precisa-quanto-custa]] — Let's Eat It, mesa posta de Natal para 6 em três faixas de preço (Score Aut: 58 / Conv: 74) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
 - [x] [[presente-de-casamento-ideias-por-preco]] — Let's Eat It, presente de casamento por faixa de preço (Score Aut: 55 / Conv: 70) (No ar em 20/10/2026, PR #180, release `ab083f0`) 🚀
