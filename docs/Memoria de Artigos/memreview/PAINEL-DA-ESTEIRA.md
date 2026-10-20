@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[dr-peanut-e-saudavel]] — Dr. Peanut, o que o rótulo mostra em pasta, alfajor, Doctor Bar, Doctor Wafer e whey, sem dizer se é saudável (Score Aut: 80 / Conv: 60)
 
 ---
 

@@ -8,7 +8,7 @@ revisao_geral_ate: "2027-01-13"
 
 # Dossiê Factual: Dr. Peanut
 
-Parceria iniciada em 13/10/2026 com a página `/cupons/dr-peanut`, ainda sem artigo. Fica na
+Parceria iniciada em 13/10/2026 com a página `/cupons/dr-peanut`. Fica na
 prateleira "Saúde e suplementos" de `/cupons`, junto com a Probiótica, do mesmo grupo (decisão do
 Bruno, 13/10).
 
@@ -50,6 +50,13 @@ consulta pelo navegador ou de prints do Bruno. Prints de 14/10/2026 em
 
 Nos artigos deste parceiro, usar `affiliate: "dr-peanut"` e link relativo para `/cupons/dr-peanut`,
 conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
+
+### Decisões do Bruno que valem para todos os artigos da Dr. Peanut
+
+- **Saúde** (20/10/2026): nenhum texto diz que um produto da marca é ou não é saudável, nem que engorda, emagrece ou faz mal. O texto mostra o que o rótulo traz (ingredientes, açúcares totais e adicionados, adoçantes e polióis, lactose, glúten, gordura saturada, kcal por porção) e manda para nutricionista ou médico. Sem citar a Anvisa e sem repetir o marketing da marca ("equilíbrio perfeito entre saúde e prazer").
+- **Alfajores** (20/10/2026): a loja não publica os ingredientes nem os alérgicos dos alfajores, só a tabela nutricional em imagem. O texto diz isso e não afirma nada sobre a composição.
+- **Leitura do site:** o site (VTEX) devolve 429 para leitura direta; o catálogo é lido no navegador, com a liberação do Bruno. As tabelas nutricionais ficam em imagens de `drpeanut.vteximg.com.br`.
+- O artigo de sabores (`dr-peanut-melhor-sabor`) é a referência da tabela por sabor; os outros artigos linkam para ele em vez de repetir.
 
 ---
 
