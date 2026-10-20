@@ -6,13 +6,13 @@ parceiro: "" # Ex: "[[Dolce-Gusto]]", "[[I-Wanna-Sleep]]", "[[Nestle-Nutre]]", "
 category: "" # guias-praticos-utilidade | produtos-experiencias | cupons-como-usar | confianca-reputacao
 reviewKind: "" # guia | produto | editorial
 type: "" # Ex: "Guia Prático", "Móveis de Luxo", etc.
-status: "pauta-aprovada" # pauta-aprovada | em-redacao | em-revisao | em-conformacao-json | pronto-para-gates | pronto-para-deploy | publicado
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "briefing" # briefing (antes das decisões do Bruno) | pauta-aprovada | em-redacao | em-revisao | em-conformacao-json | pronto-para-gates | pronto-para-deploy | publicado
+responsavel: "Claude"
+proxima_acao: "decisao-do-bruno" # depois das decisões: "redacao"
 bloqueado_por: null
 score_autoridade: 0 # 0 a 100
 score_conversao: 0 # 0 a 100
-score_ponderado_total: 0 # 0 a 100
+score_ponderado_total: 0 # soma das notas da tabela da seção 4 (0 a 100), não a média de A e B
 data_criacao: "2026-08-23"
 i18n_cluster: null # ex.: yesstyle | shein; null quando a pauta é somente PT
 translationKey: null # chave do JSON que une versões, ex.: yesstyle-kbeauty
@@ -76,7 +76,7 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
 - **Imagem Principal (Hero):** *(Descrever o que a imagem deve mostrar)*
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Planejar compressão, origem/licença, paths locais, upload verificado e `--append`; não confundir upload com publicação nem excluir originais.
-- **Imagens Inline / Seções:** *(Tabelas, fotos do modo de uso, infográficos)*
+- **Imagens Inline / Seções:** *(Tabelas, fotos do modo de uso, infográficos)*. Mínimo de 1 imagem no corpo além da capa. Propor opções com proporção; nenhuma entra sem o Bruno escolher.
 - **Galeria de Detalhes:** *(Fotos secundárias com legendas ricas)*
 - **Vídeo (se houver):** [ ] Primário (YouTube/MP4) | [ ] Secundário | [ ] Loop decorativo | [ ] Nenhum
 
@@ -111,3 +111,31 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 - **Fatos universais que podem ser localizados:**
 - **Fatos dependentes de país, entrega, preço, moeda ou campanha, e de qual mercado eles são:**
 - **Nota do cluster relacionada:** `[[03_Memoria/Clusters-Multilingues/<Parceiro>]]`
+
+---
+
+## 9. Esqueleto do artigo
+*(Títulos reais de H2 e o que cada seção responde.)*
+
+---
+
+## Lista de produtos citados
+*(Só quando a pauta cita produtos.)*
+
+| Produto | Preço do dia | Preço riscado | Data da leitura | URL relativa na loja |
+|---|---|---|---|---|
+
+---
+
+## Dados do navegador (<data da leitura>)
+*(O que foi lido no navegador ou por leitura direta, com a data. Pendências: `[PENDENTE: navegador]` com a URL exata.)*
+
+---
+
+## Perguntas para o Bruno
+*(Só o que é decisão dele. O que tem resposta no dossiê, na fila ou numa decisão anterior não vira pergunta.)*
+
+---
+
+## Decisões do Bruno (<data>)
+*(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`. Decisão que vale para outros artigos do parceiro vai também para o dossiê.)*
