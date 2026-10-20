@@ -310,7 +310,7 @@ Dolce Gusto, caixa de 10 (café puro R$ 1,79 e cappuccino R$ 3,58 no preço do d
 - **A Dolce Gusto tem a linha "Dolce Gusto Negócios"**, com combos de 20, 30 e 50 caixas (25% a 35% off) e o combo Mini Me 2.0 + 20 caixas por R$ 797,00. Com 50 caixas, a bebida sai a R$ 1,62: abaixo da TRES (R$ 1,72) e menos da metade da Nespresso Original (R$ 3,70 a 4,20). É a seção da Dolce Gusto no texto e o link de compra (`/negocios-combos`).
 - **A Nespresso tem a Nespresso Profissional** (Zenius, Momento 100 e 200, Aguila 220), com preço sob contato. O texto cita a linha, sem preço.
 - **O filtro sai muito mais barato por xícara** (R$ 0,44 com Melitta Tradicional, 80 g por litro e xícara de 100 ml). O texto diz isso no perfil de equipe grande que só toma café preto.
-- **Pendente para a redação (perguntar ao Bruno antes de publicar):** se o CECI vale nos combos "Para Negócios" (a faixa do dia exclui "máquinas e combos" do brinde, não do cupom; testar ou perguntar).
+- **CECI e os combos "Para Negócios" (decisão 7 abaixo):** os combos são vendidos na própria loja nescafe-dolcegusto.com.br, onde o CECI vale.
 
 ### Decisão 6: variedade de bebidas é a vantagem da Dolce Gusto (Bruno, 19/10/2026)
 
@@ -332,6 +332,16 @@ Site da Dolce Gusto (`/sabores`, 19/10/2026): "mais de 50 bebidas", com as categ
 - O Mochaccino Canela está nos combos "Para Negócios" (20 caixas a R$ 373,50, ou seja R$ 1,87 por bebida): é a bebida com leite e uma cápsula mais barata para o escritório.
 - Justiça com a concorrência: a TRES também faz bebidas cremosas e chás (multipressão, lido no site da TRES); o texto diz isso. Na Nespresso Original, as cápsulas lidas em 19/10 são de café, e as bebidas com leite dependem de leite fresco e de máquina com espumador (Momento 200 e Aguila 220, na linha Profissional).
 - O texto não dá informação nutricional nem fala de saúde das bebidas.
+
+### Decisão 7: público e cupom (Bruno, 19/10/2026)
+
+- O CECI vale na loja nescafe-dolcegusto.com.br, onde ficam os combos "Para Negócios". O atendimento B2B por formulário ("Soluções Personalizadas", `/negocios/formulario`) é outro canal: o texto não promete o cupom nele.
+- Público principal: MEI, profissional liberal, consultório e escritório pequeno que compram na loja do site, não a empresa grande com contrato. O texto fala com esse leitor; o formulário B2B aparece numa frase para quem precisa de algo sob medida.
+- A conta com CECI usa os 5% sobre o preço do dia, só a partir de R$ 100, e diz que soma com as promoções.
+
+### Redação
+
+Job 2 passa para a sessão elaboradora de artigos (Bruno, 19/10/2026).
 
 ### Dados do navegador (19/10/2026)
 
