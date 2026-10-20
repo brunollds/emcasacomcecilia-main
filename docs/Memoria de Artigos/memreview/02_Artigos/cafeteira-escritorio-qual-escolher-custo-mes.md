@@ -6,12 +6,13 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar os preços na última semana de outubro de 2026"
 bloqueado_por: null
 data_criacao: "2026-10-19"
-publicado_em: null
+publicado_em: "2026-10-20"
+nota_publicacao: "No ar em 20/10/2026 02:17 UTC (PR #174, release `96b0008`, build `01a15717-8a99-72cd-8978-39f6407c3dda`), com o gráfico novo no CDN; probe 39358232837."
 score_autoridade: 60 # 0 a 100
 score_conversao: 70 # 0 a 100
 score_ponderado_total: 65 # média de A e B; soma dos critérios da seção 4 = 74
@@ -401,3 +402,8 @@ Sem login, sem carrinho, sem link de afiliado. Preços do dia, sujeitos a promo�
 
 Bebida com leite de duas cápsulas conta em dobro. Sem CECI. O filtro sai muito mais barato por xícara: o texto diz isso.
 
+## Registro do Job 2 a Job 4 (19–20/10/2026)
+
+- **Texto em PT:** redigido por subagentes em dois blocos de capítulos a partir deste briefing (Job 2), juntado e revisado por Claude (Job 3) e aprovado pelo Bruno em 20/10/2026. Só PT (`modo_i18n: somente-pt`). id 513, `/reviews/cafeteira-escritorio-qual-escolher-custo-mes`, autoria da Cecília.
+- **Preços:** os lidos no navegador em 19/10/2026, sem cupom e sem login; a tabela da seção 10 (12/10) ficou superada. CECI: 5% a partir de R$ 100 sobre o preço do dia, soma com promoções, 3 usos por campanha; `cta.url` = `https://www.nescafe-dolcegusto.com.br/negocios-combos`, `sponsored`.
+- **Imagens:** capa `dolce-gusto-cinco-maquinas-oficial.webp`; no corpo, o gráfico novo `cafeteira-escritorio-custo-por-bebida.webp` (desenhado por Claude, upload pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`), `dolce-gusto-chocolates-e-chas-oficial.webp`, `mochaccino-canela-dolce-gusto-xicara.webp` e `genio-s-trio-oficial-cores.webp` (as duas últimas acrescentadas a pedido do Bruno), todas em `public/images/reviews/dolcegusto/`.
