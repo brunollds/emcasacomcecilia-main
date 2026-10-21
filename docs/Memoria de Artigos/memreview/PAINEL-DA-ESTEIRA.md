@@ -6,10 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[openclaw-hostinger-gerenciado-ou-vps]]: OpenClaw gerenciado ou VPS na Hostinger, com preço, chaves e para quem serve (10 idiomas; 1º da ordem)
-- [ ] [[melhor-vps-para-openclaw]]: requisitos e qual plano KVM, com modelo externo ou local (10 idiomas)
-- [ ] [[openclaw-ou-hermes-agent]]: qual dos dois agentes escolher e como rodar cada um na Hostinger (10 idiomas)
-- [ ] [[paperclip-ai-hostinger]]: o que é, se é confiável e como hospedar (gerenciado ou VPS) (10 idiomas)
 - [ ] [[skelt-e-confiavel]]: os dois CNPJs, trocas, frete, brinde e site oficial (PT)
 - [ ] [[skelt-reclame-aqui-nota-reputacao]]: Ótima 8,3 em 6 meses, RA1000 em 12 meses e principais problemas (PT)
 - [ ] [[cupom-skelt-como-usar]]: cupom testado na sacola, soma com o Pix, um por pedido e o brinde (PT)
@@ -49,6 +45,10 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[paperclip-ai-hostinger]]: o que é, se é confiável e como hospedar (gerenciado ou VPS) (10 idiomas) (no ar em 21/10/2026, PR #211, release `666113b`) 🚀
+- [x] [[openclaw-ou-hermes-agent]]: qual dos dois agentes escolher e como rodar cada um na Hostinger (10 idiomas) (no ar em 21/10/2026, PR #211, release `666113b`) 🚀
+- [x] [[melhor-vps-para-openclaw]]: requisitos e qual plano KVM, com modelo externo ou local (10 idiomas) (no ar em 21/10/2026, PR #211, release `666113b`) 🚀
+- [x] [[openclaw-hostinger-gerenciado-ou-vps]]: OpenClaw gerenciado ou VPS na Hostinger, com preço, chaves e para quem serve (10 idiomas; 1º da ordem) (no ar em 21/10/2026, PR #211, release `666113b`) 🚀
 - [x] [[yesstyle-ou-stylekorean]] — não é artigo novo: reforço da família `yesstyle-vs-alternatives` (StyleKorean + correção dos países da Olive Young) (No ar em 21/10/2026, PR #205, release `f5693d4`) 🚀
 - [x] [[yesstyle-ou-olive-young]] — família de 10 idiomas; lista de envio da Olive Young de 21/10 (Chrome), EUA pela OLIVE YOUNG US, ko curto (No ar em 21/10/2026, PR #203 e #204, release `f5693d4`) 🚀
 - [x] [[mais-mu-ou-dux]] — comparativo de whey e creatina; Mais Mu mais barata por proteína, Dux com Creapure (No ar em 21/10/2026, PR #201, release `c33b831`) 🚀
