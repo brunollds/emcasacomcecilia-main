@@ -10,6 +10,10 @@
 - [ ] [[melhor-vps-para-openclaw]]: requisitos e qual plano KVM, com modelo externo ou local (10 idiomas)
 - [ ] [[openclaw-ou-hermes-agent]]: qual dos dois agentes escolher e como rodar cada um na Hostinger (10 idiomas)
 - [ ] [[paperclip-ai-hostinger]]: o que é, se é confiável e como hospedar (gerenciado ou VPS) (10 idiomas)
+- [ ] [[skelt-e-confiavel]]: os dois CNPJs, trocas, frete, brinde e site oficial (PT)
+- [ ] [[skelt-reclame-aqui-nota-reputacao]]: Ótima 8,3 em 6 meses, RA1000 em 12 meses e principais problemas (PT)
+- [ ] [[cupom-skelt-como-usar]]: cupom testado na sacola, soma com o Pix, um por pedido e o brinde (PT)
+- [ ] [[black-friday-skelt]]: guia sem prometer desconto; aquecimento em 05/11; fim da lista de `home-events.json` (PT)
 
 ---
 
