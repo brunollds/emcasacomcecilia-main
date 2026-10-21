@@ -47,6 +47,16 @@ A Dux Human Health (duxhumanhealth.com) é a base de comparação no lugar da Gr
 | 2 | Max Titanium ou Dux | **Pauta aprovada em 20/10/2026:** [[max-titanium-ou-dux]] (três pares de whey, creatina, multivitamínico e pré-treino) |
 | 3 | Probiótica ou Dux | **Pauta aprovada em 20/10/2026:** [[probiotica-ou-dux]] |
 
+## Mais Mu contra a Growth e a Dux (Bruno, 20/10/2026)
+
+O autocompletar de 20/10/2026 traz "mais mu ou growth" e "mais mu ou dux" com whey, creatina e "qual o melhor", também na ordem invertida. Os pares com Black Skull, Probiótica e Max Titanium não têm sugestão. Growth e Dux não são parceiras: sem link, cupom, foto nem print.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| 1 | Mais Mu ou Growth | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-growth]] |
+| 2 | Mais Mu ou Dux | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-dux]] |
+| 3 | Mais Mu, Black Skull, Probiótica ou Max Titanium: qual whey escolher (um artigo só com as quatro parceiras) | Proposta do Claude, aguarda o Bruno |
+
 ## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)
 
 As duas lojas pediram mais material. Pautas de decisão de compra, com produtos e preços reais da leitura de 19/10/2026. Ninguém do site usou as peças: sem experiência própria.

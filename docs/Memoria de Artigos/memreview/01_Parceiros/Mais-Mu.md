@@ -56,7 +56,8 @@ O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar
 - **Divergências, para a próxima revisão do couponsData (fora das sessões de artigo):**
   - a boas-vindas aparece como R$ 15 acima de R$ 250 no cashback e como 10% na primeira compra no rodapé;
   - o FAQ da loja chama o botão de "Usar cupom", mas o checkout do teste mostrou "Adicionar cupom de desconto";
-  - o Pix sai em nome de "Loja Integrada" (não citar).
+  - o Pix sai em nome de "Loja Integrada" (não citar);
+  - para avisar a loja (20/10/2026): a creatina sem sabor 200 g diz "60 doses" no texto e 66 porções de 3 g no rótulo; o texto do isolado refil 900 g fala em "pote de 450 g" (o rótulo traz 33 porções de 27 g). Os artigos seguem o rótulo.
 
 ### Decisões do Bruno que valem para todos os artigos da Mais Mu (20/10/2026)
 
@@ -67,6 +68,8 @@ O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar
   - [[mais-mu-reclame-aqui-nota-reputacao]]
   - [[cupom-mais-mu-como-usar]]
   - [[black-friday-mais-mu]]
+  - [[mais-mu-ou-growth]]
+  - [[mais-mu-ou-dux]]
 
 ---
 
