@@ -53,7 +53,7 @@
       "heading": "各自是什么",
       "paragraphs": [
         "OpenClaw 与 Hermes Agent 都是开源 AI 助手，采用 MIT 许可证。你自己安装并让它在本机运行，通过 Telegram、WhatsApp 或其他即时通讯应用与它对话。许可证不收费；区别在于界面、记忆，以及谁来维护这个项目。",
-        "**OpenClaw** 由非营利组织 OpenClaw Foundation 维护。根据官方 README，状态、记忆与凭证都保存在它运行的那台设备上，项目没有付费方案、没有托管服务，也没有代币。它有网页界面（Control UI）、命令行，以及 macOS、iOS、Android、Windows 和 Linux 的原生应用。在 Hostinger 上，你可以选托管或 VPS，详情见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。",
+        "**OpenClaw** 由非营利组织 OpenClaw Foundation 维护。根据官方 README，状态、记忆与凭证都保存在它运行的那台设备上，项目没有付费方案、没有托管服务，也没有 token。它有网页界面（Control UI）、命令行，以及 macOS、iOS、Android、Windows 和 Linux 的原生应用。在 Hostinger 上，你可以选托管或 VPS，详情见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。",
         "**Hermes Agent** 由开发 AI 模型的 Nous Research 制作。它的特色是学习循环：代理在多次会话之间自行整理记忆，自行创建并改进技能，搜索过去的对话，并用 Honcho 做用户建模。它有完整的终端界面，也有 Hermes Desktop，这个桌面应用提供 Windows 和 macOS 安装程序。项目页面没有给出软件价格。它提到 Nous Portal，这是一项订阅服务，包含网页搜索、浏览和图片生成等工具，但页面没有标明金额。Nous Portal 只是付费使用模型的一种方式，并非唯一方式。"
       ]
     },
@@ -131,7 +131,7 @@
       ],
       "bullets": [
         "**服务器。** 可以是你自己的电脑（需要一直开着），也可以是租用的虚拟服务器 VPS。VPS 给你 root 权限（对整台机器的完全控制），但系统的更新与保护由你负责。内存（RAM）越大，同时运行的程序越多，也越不容易卡住。",
-        "**托管方案。** Hostinger 帮你安装、更新并维护助手。OpenClaw 与 Hermes Agent 同属「AI automation apps」方案。",
+        "**托管方案。** Hostinger 帮你安装、更新并维护助手。OpenClaw 与 Hermes Agent 同属「AI 自动化应用」方案。",
         "**AI 模型。** 助手会把回答的工作交给 Claude、GPT 或 Gemini 等模型，而模型按使用量收费。付费有两种方式：自备 API 密钥（服务商会直接向你收费，密钥是程序与服务商通信用的密码），或在 Hostinger 购买的 AI 额度。OpenClaw 与 Hermes Agent 的托管方案都附有初始余额；充值的费用不在公开页面上，请在控制台确认。Nous Portal 的价格，项目页面没有写。"
       ],
       "postParagraphs": [
@@ -200,7 +200,7 @@
         ],
         "rows": [
           [
-            "托管（AI automation apps）",
+            "托管（AI 自动化应用）",
             "Hostinger 负责安装与更新",
             "US$ 4.99/月",
             "US$ 3.99/月",

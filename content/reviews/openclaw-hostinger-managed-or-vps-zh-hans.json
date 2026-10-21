@@ -53,7 +53,7 @@
       "heading": "什么是 OpenClaw",
       "paragraphs": [
         "OpenClaw 是开源的 AI 助理，采用 MIT 许可。它在电脑或服务器上运行，把对话、记忆和凭据都保存在那台机器里，并通过你平时用的聊天软件回复，例如 Telegram、WhatsApp、Slack 和 Discord。要思考和回答，它会使用其他公司的 AI 模型，例如 Claude、GPT 和 Gemini，这些模型按用量收费。",
-        "项目本身不收费。根据官方 README，它没有付费套餐、没有托管服务，也没有代币。真正花钱的是运行助理的服务器，以及 AI 模型的用量。在 Hostinger 上有两条路："
+        "项目本身不收费。根据官方 README，它没有付费套餐、没有托管服务，也没有 token。真正花钱的是运行助理的服务器，以及 AI 模型的用量。在 Hostinger 上有两条路："
       ],
       "bullets": [
         "**托管：** 你购买套餐，Hostinger 负责安装、更新并维护助理。",

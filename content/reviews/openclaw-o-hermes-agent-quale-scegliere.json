@@ -95,9 +95,9 @@
           ],
           [
             "Memoria",
-            "Stato, memoria e credenziali restano sul tuo dispositivo. Il confronto dello stesso OpenClaw cita il tracciamento dell'origine delle sessioni e i registri di cancellazione",
+            "Stato, memoria e credenziali restano sul tuo dispositivo. Il confronto di OpenClaw cita il tracciamento dell'origine delle sessioni e i registri di cancellazione",
             "Memoria tra le sessioni, organizzata dall'agente, con ricerca nelle conversazioni passate (FTS5) e modellazione dell'utente con Honcho",
-            "README di OpenClaw; README e documentazione di Hermes Agent; confronto dello stesso OpenClaw"
+            "README di OpenClaw; README e documentazione di Hermes Agent; confronto di OpenClaw"
           ],
           [
             "Pianificatore di attività (cron)",
@@ -130,7 +130,7 @@
       ],
       "bullets": [
         "**Server.** Può essere il tuo computer, acceso di continuo, oppure un VPS, un server virtuale in affitto. Il VPS dà accesso root, il controllo totale della macchina, ma l'aggiornamento e la protezione del sistema sono tuoi. Più RAM significa più programmi in esecuzione contemporanea senza rallentamenti.",
-        "**Piano gestito.** Hostinger installa, aggiorna e mantiene l'assistente. OpenClaw e Hermes Agent sono nello stesso piano, \"AI automation apps\".",
+        "**Piano gestito.** Hostinger installa, aggiorna e mantiene l'assistente. OpenClaw e Hermes Agent sono nello stesso piano, \"app di automazione con IA\".",
         "**Modello IA.** L'assistente chiede le risposte a un modello, come Claude, GPT o Gemini, che addebita in base all'uso. Ci sono due modi di pagare: una chiave API propria, con cui il fornitore ti addebita direttamente, oppure crediti IA acquistati su Hostinger. Il piano gestito di OpenClaw e quello di Hermes Agent includono un saldo iniziale; le ricariche non compaiono in una pagina pubblica, quindi controllale nel pannello. Su Nous Portal il prezzo non è indicato nella pagina del progetto."
       ],
       "postParagraphs": [
@@ -150,7 +150,7 @@
       "bullets": [
         "**Vuoi molti canali e un'app sul telefono:** OpenClaw. Il README parla di oltre 20 canali e include app native per telefono e computer, oltre alla Control UI sul web.",
         "**Vuoi un agente che impara dall'uso:** Hermes Agent. Organizza la propria memoria, crea e migliora le proprie competenze e cerca nelle conversazioni passate.",
-        "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con uno dei due. Root è l'accesso da amministratore, con controllo totale del server.",
+        "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con entrambi. Root è l'accesso da amministratore, con controllo totale del server.",
         "**Non vuoi installare né gestire un server:** gestito, con entrambi. Hostinger installa e aggiorna."
       ],
       "postParagraphs": [
@@ -163,8 +163,8 @@
         "Prima di iniziare, verifica tre cose. Valgono per entrambi gli agenti."
       ],
       "bullets": [
-        "**Modello IA.** L'agente non risponde da solo: chiede le risposte a un modello di un'altra azienda. Su Hostinger usi i crediti IA del piano oppure la tua chiave API, la password con cui il programma parla con il fornitore. A pagare l'uso è il fornitore, direttamente a te.",
-        "**Un canale di messaggistica.** Telegram è la strada più semplice. Crei il bot su BotFather, il bot ufficiale di Telegram per creare bot, e salvi il token. WhatsApp si collega come dispositivo associato, con accesso tramite codice QR.",
+        "**Modello IA.** L'agente non risponde da solo: chiede le risposte a un modello di un'altra azienda. Su Hostinger usi i crediti IA del piano oppure la tua chiave API, la password con cui il programma parla con il fornitore. Il fornitore addebita l'uso direttamente a te.",
+        "**Un canale di messaggistica.** Telegram è la strada più semplice. Crei il bot su BotFather, il bot ufficiale di Telegram per creare bot, e salvi il token. WhatsApp si collega come dispositivo collegato, leggendo un codice QR.",
         "**Chi si occupa del server.** Nel piano gestito, Hostinger aggiorna e mantiene la sicurezza. Nel VPS l'aggiornamento è tuo, dal pulsante Update di Docker Manager, e così anche la sicurezza del server. Docker è il programma che fa girare ogni applicazione isolata in un container."
       ],
       "postParagraphs": [
@@ -199,7 +199,7 @@
         ],
         "rows": [
           [
-            "Gestito (AI automation apps)",
+            "Gestito (app di automazione con IA)",
             "Hostinger installa, aggiorna e mantiene",
             "US$ 4,99/mese",
             "US$ 3,99/mese",

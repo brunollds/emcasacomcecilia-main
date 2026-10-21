@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Paperclip is an open-source orchestrator for teams of AI agents (MIT). See what you can check, and managed or VPS on Hostinger.",
+  "description": "Paperclip is an open-source orchestrator for teams of AI agents (MIT). See what you can check, and whether managed or VPS suits you on Hostinger.",
   "metaDescription": "Paperclip AI: what it is, who maintains it, what you can check and how to run it on Hostinger, managed or VPS, with prices from October 21, 2026.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
@@ -79,7 +79,7 @@
         "**License.** MIT. It means the code is open: anyone can read, audit and use it. It also means no one is obliged to keep maintaining the version you installed.",
         "**Where it runs.** You choose. You can run it on your computer, on your own server or on Hostinger's managed plan. The project site says the self-hosted version does not require a Paperclip account.",
         "**Where the keys and data stay.** It depends on the path. On the VPS, Hostinger itself says sensitive data, agent memory and API credentials stay “entirely in your infrastructure”, meaning the server you rented. On managed, the page says the keys stay in your managed instance. That is Hostinger's description, not an audit by us.",
-        "**Code security.** The repository asks that vulnerabilities be reported through GitHub's Security Advisory feature, not in public issues. In the repository's policy, we did not find supported versions, an independent audit or published advisories.",
+        "**Code security.** The repository asks that vulnerabilities be reported through GitHub's Security Advisory feature, not in public issues. In this reading, we did not verify supported versions, an independent audit or published advisories.",
         "**What cannot be claimed.** There is no verified public security audit for this guide. There is also no independent review or third-party rating, such as Reclame Aqui, for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. About the company that hosts it, see [whether Hostinger is reliable](/en/reviews/is-hostinger-legit)."
       ]
     },
@@ -123,7 +123,7 @@
           [
             "Backups",
             "Hostinger, according to the managed page",
-            "The VPS page does not say how often; check the panel"
+            "Weekly, according to the VPS page"
           ],
           [
             "Database (Postgres)",

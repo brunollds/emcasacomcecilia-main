@@ -60,7 +60,7 @@
         "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ein VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
       ],
       "postParagraphs": [
-        "Sie nennt keine Angabe zu RAM, Prozessor (vCPU) oder Festplatte für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Credits.",
+        "Die Dokumentation nennt keine Angabe zu RAM, Prozessor (vCPU) oder Festplatte für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Credits.",
         "Ein Detail zur Rechnung: 8 GiB entsprechen etwa 8,6 GB. Der KVM 2 wird mit 8 GB angegeben, also rund 7,5 GiB und damit etwas unter der Untergrenze, und darin ist der Speicher noch nicht eingerechnet, den System und Docker belegen. Die Dokumentation sagt nicht, ob dieser Unterschied der Einheiten für die Untergrenze zählt."
       ]
     },
@@ -78,7 +78,7 @@
         "rows": [
           [
             "API-Schlüssel oder KI-Guthaben von Hostinger",
-            "Keine RAM-Angabe. Die Anfrage geht an den Anbieter (Anthropic, OpenAI, Google Gemini oder xAI).",
+            "Keine RAM-Angabe. Die Anfrage geht an den Anbieter (z. B. Anthropic oder OpenAI).",
             "Keine offizielle Zahl. Der KVM 1 ist der Ausgangspunkt."
           ],
           [

@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Paperclip est un orchestrateur open source d'équipes d'agents d'IA (MIT). Voyez ce que vous pouvez vérifier, et géré ou VPS chez Hostinger.",
+  "description": "Paperclip est un orchestrateur open source d'équipes d'agents d'IA (MIT). Voyez ce que vous pouvez vérifier, et si géré ou VPS vous convient chez Hostinger.",
   "metaDescription": "Paperclip AI : ce que c'est, qui le maintient, ce que vous pouvez vérifier et comment le faire tourner chez Hostinger, géré ou VPS, prix du 21 octobre 2026.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
@@ -79,7 +79,7 @@
         "**Licence.** MIT. Cela signifie que le code est ouvert : n'importe qui peut le lire, l'auditer et l'utiliser. Cela signifie aussi que personne n'est obligé de maintenir la version que vous avez installée.",
         "**Où il tourne.** Vous choisissez. Vous pouvez le faire tourner sur votre ordinateur, sur un serveur à vous ou dans l'offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée ne demande pas de compte Paperclip.",
         "**Où sont les clés et les données.** Cela dépend de la voie. Sur le VPS, Hostinger affirme elle-même que les données sensibles, la mémoire des agents et les identifiants d'API restent « entièrement dans votre infrastructure », c'est-à-dire sur le serveur que vous avez loué. Sur l'offre gérée, la page indique que les clés restent dans votre instance gérée. C'est la description de Hostinger, pas un audit de notre part.",
-        "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées par la fonction Security Advisory de GitHub, et non dans des tickets publics. Dans la politique du dépôt, nous n'avons trouvé ni versions prises en charge, ni audit indépendant, ni avis de sécurité publiés.",
+        "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées par la fonction Security Advisory de GitHub, et non dans des tickets publics. Dans cette lecture, nous n'avons pas vérifié de versions prises en charge, d'audit indépendant ni d'avis de sécurité publiés.",
         "**Ce qu'on ne peut pas affirmer.** Il n'existe pas d'audit de sécurité public vérifié pour ce guide. Il n'y a pas non plus de revue indépendante ni de note de tiers, comme Reclame Aqui, pour le produit. Le nombre d'étoiles sur GitHub indique la popularité, pas la sécurité. Un agent qui a accès à votre messagerie, à votre banque ou à d'autres comptes mérite une vigilance accrue, quel que soit le logiciel. Sur l'entreprise qui l'héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
       ]
     },
@@ -123,7 +123,7 @@
           [
             "Sauvegardes",
             "Hostinger, selon la page de l'offre gérée",
-            "La page du VPS n'indique pas la fréquence ; vérifiez dans le panneau"
+            "Hebdomadaires, selon la page du VPS"
           ],
           [
             "Base de données (Postgres)",

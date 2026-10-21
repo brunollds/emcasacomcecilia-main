@@ -53,7 +53,7 @@
       "heading": "各自是什麼",
       "paragraphs": [
         "OpenClaw 與 Hermes Agent 都是開源 AI 助理，採 MIT 授權。你自己安裝並讓它在本機運行，透過 Telegram、WhatsApp 或其他通訊應用程式與它對話。授權不收費；差別在於介面、記憶，以及誰來維護這個專案。",
-        "**OpenClaw** 由非營利組織 OpenClaw Foundation 維護。根據官方 README，狀態、記憶與憑證都保存在它執行的那台設備上，專案沒有付費方案、沒有託管服務，也沒有代幣。它有網頁介面（Control UI）、命令列，以及 macOS、iOS、Android、Windows 和 Linux 的原生應用程式。在 Hostinger 上，你可以選託管或 VPS，詳情見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。",
+        "**OpenClaw** 由非營利組織 OpenClaw Foundation 維護。根據官方 README，狀態、記憶與憑證都保存在它執行的那台設備上，專案沒有付費方案、沒有託管服務，也沒有 token。它有網頁介面（Control UI）、命令列，以及 macOS、iOS、Android、Windows 和 Linux 的原生應用程式。在 Hostinger 上，你可以選託管或 VPS，詳情見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。",
         "**Hermes Agent** 由開發 AI 模型的 Nous Research 製作。它的特色是學習循環：代理在多次工作階段之間自行整理記憶，自行建立並改進技能，搜尋過去的對話，並用 Honcho 做使用者建模。它有完整的終端機介面，也有 Hermes Desktop，這個桌面應用程式提供 Windows 和 macOS 安裝程式。專案頁面沒有提供軟體價格。它提到 Nous Portal，這是一項訂閱服務，包含網頁搜尋、瀏覽和圖片生成等工具，但頁面沒有標示金額。Nous Portal 只是付費使用模型的一種方式，並非唯一方式。"
       ]
     },
@@ -135,7 +135,7 @@
         "**AI 模型。** 助理會把回應的工作交給 Claude、GPT 或 Gemini 等模型，而模型按使用量收費。付費有兩種方式：自備 API 金鑰（供應商會直接向你收費，金鑰是程式與供應商溝通用的密碼），或在 Hostinger 購買的 AI 額度。OpenClaw 與 Hermes Agent 的託管方案都附有初始餘額；加值的費用不在公開頁面上，請在控制台確認。Nous Portal 的價格，專案頁面沒有寫。"
       ],
       "postParagraphs": [
-        "伺服器與方案的價格，都整理在後面「在 Hostinger 上的跑法與價格」的表格裡。模型的每月使用費，來源上找不到數字，因為它取決於你選的模型與對話次數。所以本指南不提供每月總額的估算。"
+        "伺服器與方案的價格，都整理在後面「在 Hostinger 上的運行方式與價格」的表格裡。模型的每月使用費，來源上找不到數字，因為它取決於你選的模型與對話次數。所以本指南不提供每月總額的估算。"
       ]
     },
     {
@@ -178,7 +178,7 @@
         "兩個專案的安全政策都說明了它們是為誰設計的。決定如何對外開放之前，請先讀一讀。"
       ],
       "bullets": [
-        "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：是為一位可信任的操作者設計的，不是為彼此不認識的多人設計。能跟代理說話的人，就能讓它使用它的工具。若有多人使用，專案建議每人一台伺服器。不要把代理直接暴露在公開網際網路上。外掛在同一個程序中執行，會被當成可信任的程式碼，所以只安裝你了解的外掛。",
+        "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：是為一位可信任的操作者設計的，不是為彼此不認識的多人設計。能跟代理說話的人，就能讓它使用它的工具。若有多人使用，專案建議每人一台伺服器。不要把代理直接暴露在公開網際網路上。外掛在同一個行程中執行，會被當成可信任的程式碼，所以只安裝你了解的外掛。",
         "**Hermes Agent**（NousResearch/hermes-agent 儲存庫的 SECURITY.md）：是為一個人設計的。沒有 VPN、Tailscale 或防火牆，不要把閘道暴露在網際網路上。請以沒有 root 權限的使用者執行代理，並且檢查第三方技能與外掛時，要讀程式碼，而不只看 SKILL.md。"
       ],
       "postParagraphs": [
@@ -186,7 +186,7 @@
       ]
     },
     {
-      "heading": "在 Hostinger 上的跑法與價格",
+      "heading": "在 Hostinger 上的運行方式與價格",
       "paragraphs": [
         "以下是 Hostinger 全球頁面的價格，採美元計價，為24個月方案，於2026年10月21日查閱。表中的託管方案對 OpenClaw 與 Hermes Agent 價格相同。你所在的國家可能顯示其他貨幣與稅金；付款前請在購物車確認。活動期間價格會變動，同樣請以購物車為準。"
       ],
@@ -262,7 +262,7 @@
     {
       "heading": "透明度說明",
       "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 上，以 Node.js Web App 的形式執行。Bruno 自2024年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
+        "Em Casa com Cecília 運行在 Hostinger 上，以 Node.js Web App 的形式執行。Bruno 自2024年起就是客戶，使用主機託管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
         "本文是在2026年10月21日閱讀了 Hostinger 的頁面，以及兩個專案的安全政策與文件後彙整而成。OpenClaw 發布的兩者比較由專案方撰寫，表格的來源欄中標示了這個名稱。"
       ]
     }

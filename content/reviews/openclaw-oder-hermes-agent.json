@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "hostinger-openclaw-ou-hermes-agent",
   "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben",
-  "seoTitle": "OpenClaw oder Hermes Agent: welcher ist besser? (2026)",
+  "seoTitle": "OpenClaw oder Hermes Agent: welcher passt 2026?",
   "type": "Hosting-Ratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -44,7 +44,7 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Wählen Sie **OpenClaw**, wenn Sie die größte Auswahl an Nachrichtenkanälen, eine Weboberfläche (Control UI) und native Apps für Handy und Computer wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
+        "Wählen Sie **OpenClaw**, wenn Sie viele Nachrichtenkanäle anbinden, eine Weboberfläche (Control UI) nutzen und native Apps für Handy und Computer haben wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
         "Wenn Sie sich nicht um einen Server kümmern wollen, bedient der verwaltete Tarif von Hostinger beide zum gleichen Preis: US$ 3,99/Monat mit dem Empfehlungslink, im 24-Monats-Tarif. Die Software ist in beiden Fällen kostenlos; bezahlt werden der Server und die Nutzung der KI-Modelle."
       ]
     },
@@ -83,7 +83,7 @@
           ],
           [
             "Nachrichtenkanäle",
-            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal und \"20+ more\"",
+            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal und mehr als 20 weitere",
             "Telegram, Discord, Slack, WhatsApp, Signal und CLI, über ein Gateway; die Dokumentation nennt mehr als 20 Plattformen, darunter Matrix, E-Mail, SMS und Microsoft Teams",
             "README von OpenClaw; README und Dokumentation von Hermes Agent"
           ],
@@ -163,7 +163,7 @@
         "Bevor Sie anfangen, prüfen Sie drei Dinge. Sie gelten für beide Agenten."
       ],
       "bullets": [
-        "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erstellen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren eigenen API-Schlüssel, das Passwort, mit dem das Programm mit dem Anbieter spricht. Abgerechnet wird vom Anbieter, direkt bei Ihnen.",
+        "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erstellen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren eigenen API-Schlüssel, mit dem das Programm beim Anbieter anfragt. Abgerechnet wird vom Anbieter, direkt bei Ihnen.",
         "**Ein Nachrichtenkanal.** Telegram ist der einfachste Weg. Sie erstellen den Bot bei BotFather, dem offiziellen Bot von Telegram zum Erstellen von Bots, und speichern das Token. WhatsApp wird als verknüpftes Gerät angebunden, mit Anmeldung per QR-Code.",
         "**Wer kümmert sich um den Server.** Beim verwalteten Tarif aktualisiert und schützt Hostinger das System. Beim VPS ist die Aktualisierung Ihre Aufgabe, über den Button Update im Docker Manager, und ebenso die Sicherheit des Servers. Docker ist das Programm, das jede Anwendung isoliert in einem Container laufen lässt."
       ],
@@ -177,7 +177,7 @@
         "Die Sicherheitsrichtlinien der beiden Projekte sagen, für wen der Agent gedacht ist. Lesen Sie sie, bevor Sie entscheiden, wie Sie ihn erreichbar machen."
       ],
       "bullets": [
-        "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber, nicht für mehrere Personen, die sich nicht kennen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für mehr als eine Person empfiehlt das Projekt einen Server pro Person. Setzen Sie den Agenten nicht direkt dem öffentlichen Internet aus. Die Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
+        "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber, nicht für mehrere Personen, die sich nicht kennen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für mehr als eine Person empfiehlt das Projekt einen Server pro Person. Setzen Sie das Gateway nicht direkt dem öffentlichen Internet aus. Die Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
         "**Hermes Agent** (SECURITY.md im Repository NousResearch/hermes-agent): gedacht für eine einzelne Person. Setzen Sie das Gateway nicht ohne VPN, Tailscale oder Firewall dem Internet aus. Betreiben Sie den Agenten als Benutzer ohne Root-Rechte, und prüfen Sie Skills und Plugins von Drittanbietern, indem Sie den Code lesen, nicht nur die Datei SKILL.md."
       ],
       "postParagraphs": [
@@ -236,7 +236,7 @@
         ]
       },
       "postParagraphs": [
-        "Im verwalteten Tarif ist ein Anfangsguthaben an KI-Guthaben enthalten; was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung sowie Sicherheit des Servers bleiben bei Ihnen. Mit dem Empfehlungslink gelten beim VPS 20 % Rabatt im ersten Zeitraum; den Endbetrag sehen Sie im Warenkorb.",
+        "Im verwalteten Tarif ist ein KI-Guthaben zum Start enthalten; was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung sowie Sicherheit des Servers bleiben bei Ihnen.",
         "Der verwaltete Tarif hat 30 Tage Zeit für eine Rückerstattung. Beim VPS gelten die 30 Tage nur, wenn die letzte Rückerstattung eines VPS mehr als 180 Tage zurückliegt.",
         "Wenn Sie vorab die Anforderungen durchrechnen wollen, lesen Sie [den besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Kampagne siehe [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote)."
       ]
@@ -269,7 +269,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Empfehlungscode ist schon im Link enthalten: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+    "text": "Der Empfehlungslink wendet den Rabatt schon an: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
     "label": "Tarife mit Empfehlungslink ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
     "sponsored": true

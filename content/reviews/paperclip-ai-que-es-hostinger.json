@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Paperclip es un orquestador de equipos de agentes de IA, de código abierto (MIT). Mira qué puedes comprobar y gestionado o VPS en Hostinger.",
+  "description": "Paperclip es un orquestador de equipos de agentes de IA, de código abierto (MIT). Mira qué puedes comprobar y si te conviene gestionado o VPS en Hostinger.",
   "metaDescription": "Paperclip AI: qué es, quién lo mantiene, qué puedes comprobar y cómo ejecutarlo en Hostinger, gestionado o VPS, con precios del 21 de octubre de 2026.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
@@ -79,7 +79,7 @@
         "**Licencia.** MIT. Significa que el código es abierto: cualquier persona puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
         "**Dónde funciona.** Tú eliges. Puedes ejecutarlo en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
         "**Dónde quedan las claves y los datos.** Depende del camino. En el VPS, la propia Hostinger dice que los datos sensibles, la memoria de los agentes y las credenciales de API quedan “por completo en tu infraestructura”, es decir, en el servidor que alquilaste. En el gestionado, la página dice que las claves quedan en tu instancia gestionada. Es la descripción de Hostinger, no una auditoría nuestra.",
-        "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten por la función Security Advisory de GitHub, y no en incidencias públicas. En la política del repositorio no encontramos versiones con soporte, una auditoría independiente ni avisos de seguridad publicados.",
+        "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten por la función Security Advisory de GitHub, y no en incidencias públicas. En esta lectura no verificamos versiones con soporte, una auditoría independiente ni avisos de seguridad publicados.",
         "**Lo que no se puede afirmar.** No hay una auditoría de seguridad pública verificada para esta guía. Tampoco hay una revisión independiente ni una calificación de terceros, como Reclame Aqui, para el producto. El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco u otras cuentas merece cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
       ]
     },
@@ -123,7 +123,7 @@
           [
             "Copias de seguridad",
             "Hostinger, según la página del gestionado",
-            "La página del VPS no dice la frecuencia; revísala en el panel"
+            "Semanales, según la página del VPS"
           ],
           [
             "Base de datos (Postgres)",
@@ -232,7 +232,7 @@
     {
       "heading": "Quién escribe",
       "paragraphs": [
-        "Em Casa com Cecília funciona sobre Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger, consultados el 21 de octubre de 2026."
+        "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger, consultados el 21 de octubre de 2026."
       ]
     }
   ],
@@ -253,7 +253,7 @@
     },
     {
       "slug": "openclaw-hostinger-gestionado-o-vps",
-      "title": "OpenClaw en Hostinger: gestionado o VPS? Precio, qué exige cada uno y para quién sirve"
+      "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Precio, qué exige cada uno y para quién sirve"
     },
     {
       "slug": "cupon-hostinger-codigo-de-referido",

@@ -108475,7 +108475,7 @@ export const reviewsData: unknown[] = [
           "**Renewal, over the following 24 months (the same for both):** 24 × US$11.99 = US$287.76."
         ],
         "postParagraphs": [
-          "Over the first 24 months, the managed plan with the link costs US$60 less than KVM 1 without the link. After that, both cost the same. Renewal is switched on by default; see [how Hostinger charges and renews](/en/reviews/is-hostinger-legit).",
+          "Over the first 24 months, the managed plan costs US$36 less than KVM 1, both without the link. After that, both cost the same. Renewal is switched on by default; see [how Hostinger charges and renews](/en/reviews/is-hostinger-legit).",
           "The plan is not the whole cost: AI use is charged separately. With Hostinger's credits, the managed plan comes with a starting balance, and whatever goes beyond it is charged according to use. The price of a top-up does not appear on any public page, so check the panel before you count on it. With your own key, the provider (OpenAI, Anthropic or another) charges you directly, depending on the model and the number of conversations.",
           "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only if your last VPS refund was requested more than 180 days ago."
         ]
@@ -108756,7 +108756,7 @@ export const reviewsData: unknown[] = [
           "**Renovación, en los 24 meses siguientes (igual en los dos):** 24 × US$ 11,99 = US$ 287,76."
         ],
         "postParagraphs": [
-          "En los primeros 24 meses, el gestionado con el enlace cuesta US$ 60 menos que el KVM 1 sin el enlace. Después, los dos cuestan lo mismo. La renovación viene activada por defecto; mira [cómo Hostinger cobra y renueva](/es/reviews/hostinger-es-confiable).",
+          "En los primeros 24 meses, el gestionado cuesta US$ 36 menos que el KVM 1, los dos sin el enlace. Después, los dos cuestan lo mismo. La renovación viene activada por defecto; mira [cómo Hostinger cobra y renueva](/es/reviews/hostinger-es-confiable).",
           "El plan no es todo: el uso de la IA se cobra aparte. Con los créditos de Hostinger, el gestionado trae un saldo inicial, y lo que pase de ahí se cobra según el consumo. El precio de una recarga no aparece en ninguna página pública, así que revísalo en el panel antes de contar con él. Con tu propia clave, el proveedor (OpenAI, Anthropic u otro) te cobra directamente, según el modelo y el volumen de conversaciones.",
           "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo si el último reembolso de VPS se pidió hace más de 180 días."
         ]
@@ -109037,7 +109037,7 @@ export const reviewsData: unknown[] = [
           "**Renouvellement, sur les 24 mois suivants (identique dans les deux cas) :** 24 × 11,99 US$ = 287,76 US$."
         ],
         "postParagraphs": [
-          "Sur les 24 premiers mois, l'offre gérée avec le lien coûte 60 US$ de moins que le KVM 1 sans le lien. Ensuite, les deux coûtent la même chose. Le renouvellement est activé par défaut ; voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable).",
+          "Sur les 24 premiers mois, l'offre gérée coûte 36 US$ de moins que le KVM 1, les deux sans le lien. Ensuite, les deux coûtent la même chose. Le renouvellement est activé par défaut ; voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable).",
           "L'abonnement ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
           "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent que si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours."
         ]
@@ -109902,7 +109902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "누가 무엇을 골라야 할까",
         "paragraphs": [
-          "**관리형을 고르세요, 다음에 해당한다면:**"
+          "**다음에 해당한다면 관리형을 고르세요:**"
         ],
         "bullets": [
           "서버를 설치하거나 설정하지 않고 어시스턴트를 바로 쓰고 싶다면;",
@@ -109911,7 +109911,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw를 쓰거나, 같은 플랜에서 Hermes Agent나 Paperclip으로 바꾸고 싶다면."
         ],
         "postParagraphs": [
-          "**VPS를 고르세요, 다음에 해당한다면:** root 접근이 필요하고 같은 서버에서 웹사이트나 n8n 같은 다른 프로그램을 돌리고 싶다면; 서버를 다룰 줄 알거나 배우고 싶고, 시스템 업데이트와 보호를 직접 맡을 수 있다면; 또는 더 많은 메모리와 디스크가 필요하다면. KVM 플랜은 RAM 4GB에서 32GB까지 있습니다.",
+          "**다음에 해당한다면 VPS를 고르세요:** root 접근이 필요하고 같은 서버에서 웹사이트나 n8n 같은 다른 프로그램을 돌리고 싶다면; 서버를 다룰 줄 알거나 배우고 싶고, 시스템 업데이트와 보호를 직접 맡을 수 있다면; 또는 더 많은 메모리와 디스크가 필요하다면. KVM 플랜은 RAM 4GB에서 32GB까지 있습니다.",
           "**고민된다면 관리형부터 시작하세요.** 첫 기간에 더 저렴하고 서버 지식이 필요 없습니다."
         ]
       },
@@ -110004,7 +110004,7 @@ export const reviewsData: unknown[] = [
           "OpenAI나 Anthropic 계정이 필요한가요? 아니요. 두 방식 모두 호스팅어 AI 크레딧을 쓸 수 있습니다. 제공업체 계정은 직접 가진 API 키를 쓰고 싶을 때만 필요합니다.",
           "OpenClaw용 호스팅어 쿠폰 코드가 있나요? 입력할 코드는 없습니다. 20%는 추천 링크로 적용되며, 첫 기간에만, 12개월 이상 플랜에서 적용됩니다.",
           "첫 기간 이후에는 얼마인가요? 2026년 10월 21일 가격 기준 관리형과 KVM 1은 월 US$ 11.99, KVM 2는 월 US$ 14.99입니다. 추천 링크 할인은 갱신 때 반복되지 않습니다.",
-          "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 'AI automation apps' 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 없으니 직접 가진 키를 가져가세요."
+          "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI automation apps\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 없으니 직접 가진 키를 쓰세요."
         ]
       },
       {
@@ -110045,7 +110045,7 @@ export const reviewsData: unknown[] = [
     "slug": "openclaw-hostinger-managed-or-vps-ja",
     "locale": "ja",
     "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
-    "title": "OpenClaw を Hostinger で: マネージドか VPS か？ 料金と向いている人",
+    "title": "Hostinger の OpenClaw：マネージドか VPS か？料金と向いている人",
     "seoTitle": "OpenClaw Hostinger: マネージドかVPSか？料金と選び方",
     "type": "ホスティングガイド",
     "category": "guias-praticos-utilidade",
@@ -110072,7 +110072,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw を Hostinger で使うなら: マネージドは最初の期間が安く、VPS は root と Docker が使えます。2026年10月21日の料金と、それぞれが向いている人。",
+    "description": "OpenClaw を Hostinger で使うなら：マネージドは最初の期間が安く、VPS は root と Docker が使えます。2026年10月21日の料金と、それぞれが向いている人。",
     "metaDescription": "Hostinger で OpenClaw をマネージドにするか VPS にするか。紹介リンクの有無による料金、更新、AIクレジット、Telegram と WhatsApp、サーバーの管理者を比べます。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
@@ -110095,11 +110095,11 @@ export const reviewsData: unknown[] = [
         "heading": "OpenClaw とは",
         "paragraphs": [
           "OpenClaw はオープンソースの AI アシスタントで、MIT ライセンスです。コンピューターかサーバーで動き、会話、メモリ、認証情報をその機器に保存します。Telegram、WhatsApp、Slack、Discord など、普段使っているメッセージアプリで応答します。考えて答えるには、Claude、GPT、Gemini など他社の AI モデルを使います。それらは利用量に応じて課金されます。",
-          "プロジェクト自体は無料です。README によると、有料プランもホスティングされたサービスもトークンもありません。お金がかかるのは、アシスタントを動かすサーバーと AI モデルの利用料です。Hostinger では二つの方法があります:"
+          "プロジェクト自体は無料です。README によると、有料プランもホスティングされたサービスもトークンもありません。お金がかかるのは、アシスタントを動かすサーバーと AI モデルの利用料です。Hostinger では二つの方法があります："
         ],
         "bullets": [
-          "**マネージド:** プランを契約すると、Hostinger が OpenClaw をインストールし、更新して維持します。",
-          "**VPS:** 仮想サーバーを借ります。Hostinger が Docker（アプリを独立したコンテナで動かす仕組み）を使って OpenClaw をインストールします。その後のアップデートとサーバーの安全性はあなたの担当です。"
+          "**マネージド：** プランを契約すると、Hostinger が OpenClaw をインストールし、更新して維持します。",
+          "**VPS：** 仮想サーバーを借ります。Hostinger が Docker（アプリを独立したコンテナで動かす仕組み）を使って OpenClaw をインストールします。その後のアップデートとサーバーの安全性はあなたの担当です。"
         ]
       },
       {
@@ -110168,12 +110168,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "実際の費用",
         "paragraphs": [
-          "料金ページは月額で表示されていますが、24か月プランは期間分をまとめて支払います:"
+          "料金ページは月額で表示されていますが、24か月プランは期間分をまとめて支払います："
         ],
         "bullets": [
-          "**マネージド、紹介リンクあり:** 24 × US$ 3.99 = **US$ 95.76**。紹介リンクなしなら 24 × US$ 4.99 = US$ 119.76。",
-          "**VPS KVM 1、紹介リンクなし:** 24 × US$ 6.49 = US$ 155.76。紹介リンクありの金額はカートで確認してください。",
-          "**更新、その後の24か月（どちらも同じ）:** 24 × US$ 11.99 = US$ 287.76。"
+          "**マネージド、紹介リンクあり：** 24 × US$ 3.99 = **US$ 95.76**。紹介リンクなしなら 24 × US$ 4.99 = US$ 119.76。",
+          "**VPS KVM 1、紹介リンクなし：** 24 × US$ 6.49 = US$ 155.76。紹介リンクありの金額はカートで確認してください。",
+          "**更新、その後の24か月（どちらも同じ）：** 24 × US$ 11.99 = US$ 287.76。"
         ],
         "postParagraphs": [
           "紹介リンクありのマネージドは、紹介リンクなしの KVM 1 より、最初の24か月で US$ 60 安くなります。その後は両方とも同じ価格です。更新は初期設定で有効になっています。支払いと更新の仕組みは [Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja) にまとめてあります。",
@@ -110184,7 +110184,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どちらを選ぶか",
         "paragraphs": [
-          "**マネージドを選ぶのは次の場合です:**"
+          "**マネージドを選ぶのは次の場合です：**"
         ],
         "bullets": [
           "サーバーを準備せず、すぐにアシスタントを使いたい",
@@ -110193,7 +110193,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw を使い、同じプランで Hermes Agent や Paperclip に切り替えたい"
         ],
         "postParagraphs": [
-          "**VPS を選ぶのは次の場合です:** root アクセスが欲しい、同じサーバーでサイトや n8n など他のプログラムも動かしたい、サーバーの扱いに慣れている、または学びたい、そしてシステムの更新と保護を自分で行うことに同意できる場合。より多くのメモリとディスクが必要な場合も VPS です。KVM プランは 4 GB から 32 GB の RAM があります。",
+          "**VPS を選ぶのは次の場合です：** root アクセスが欲しい、同じサーバーでサイトや n8n など他のプログラムも動かしたい、サーバーの扱いに慣れている、または学びたい、そしてシステムの更新と保護を自分で行うことに同意できる場合。より多くのメモリとディスクが必要な場合も VPS です。KVM プランは 4 GB から 32 GB の RAM があります。",
           "**迷ったらマネージドから始めてください。** 最初の期間は安く、サーバーの知識も要りません。"
         ]
       },
@@ -110201,11 +110201,11 @@ export const reviewsData: unknown[] = [
         "heading": "Telegram と WhatsApp",
         "paragraphs": [
           "どちらのチャンネルも両方の選択肢で使えます。違いは設定する場所です。マネージドでは、Hostinger のセットアップウィザードでチャンネルを選びます。WhatsApp は QR コードを読み取り、Telegram はボットのトークンを貼り付けます。VPS では、設定に WhatsApp の番号（国番号つき）と Telegram ボットのトークンを入力する任意項目があります。ドキュメントには、VPS で WhatsApp の QR コードがどこに表示されるかは書かれていません。",
-          "Telegram は3つのステップです:"
+          "Telegram は3つのステップです："
         ],
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
-          "alt": "OpenClaw を Telegram につなぐ3つのステップ: BotFather でボットを作ってトークンをコピーする、OpenClaw の設定にトークンを貼り付ける、ボットにメッセージを送って最初の接続を承認する",
+          "alt": "OpenClaw を Telegram につなぐ3つのステップ：BotFather でボットを作ってトークンをコピーする、OpenClaw の設定にトークンを貼り付ける、ボットにメッセージを送って最初の接続を承認する",
           "caption": "2026年10月21日に読んだ OpenClaw の公式ドキュメントの手順です。"
         },
         "bullets": [
@@ -110221,19 +110221,19 @@ export const reviewsData: unknown[] = [
         "heading": "安全性：判断が変わるとき",
         "paragraphs": [
           "問題は、データと認証情報を誰が管理するかです。マネージドについて Hostinger は、各インスタンスがコンテナで隔離され、独自のセキュリティゲートウェイを持つと説明しています。これは Hostinger の説明で、私たちが検証したものではありません。VPS については、Hostinger 自身が、root アクセスがある場合は設定、アップデート、セキュリティを契約者が担当すると説明しています。",
-          "OpenClaw のセキュリティポリシーは、互いを知らない複数の人のためではなく、信頼できる一人のために作られていると述べています。アシスタントに話しかけられる人は、そのツールを使わせることができます。この点から、次の三つの場合は選び方が変わります:"
+          "OpenClaw のセキュリティポリシーは、互いを知らない複数の人のためではなく、信頼できる一人のために作られていると述べています。アシスタントに話しかけられる人は、そのツールを使わせることができます。この点から、次の三つの場合は選び方が変わります："
         ],
         "bullets": [
-          "**複数の人が使う場合**（家族やチーム）: プロジェクトは一人に一つのサーバーを勧めています。VPS ならそれが簡単です。マネージドでは、一つのアカウントでいくつのインスタンスを持てるか Hostinger に確認してください。",
-          "**アシスタントがメールや銀行、ほかのアカウントにアクセスする場合**: プロジェクトは、サーバーに個人のアカウントをログインさせないよう求めています。Hostinger は、アシスタント専用のメールボックスを用意することを勧めています。",
-          "**VPS の場合**: インストール時に生成されるゲートウェイのトークンは保管し、アシスタントとの会話で送らないでください。"
+          "**複数の人が使う場合**（家族やチーム）：プロジェクトは一人に一つのサーバーを勧めています。VPS ならそれが簡単です。マネージドでは、一つのアカウントでいくつのインスタンスを持てるか Hostinger に確認してください。",
+          "**アシスタントがメールや銀行、ほかのアカウントにアクセスする場合**： プロジェクトは、サーバーに個人のアカウントをログインさせないよう求めています。Hostinger は、アシスタント専用のメールボックスを用意することを勧めています。",
+          "**VPS の場合**： インストール時に生成されるゲートウェイのトークンは保管し、アシスタントとの会話で送らないでください。"
         ]
       },
       {
         "heading": "紹介リンクと、リンク経由の価格",
         "paragraphs": [
           "紹介リンクではコードを入力する必要はありません。**最初の期間だけ 20%** の割引が適用されます。対象は12か月以上のプランで、他のクーポンとは併用できません。更新は通常価格になります。ルールの詳細は [紹介リンクの仕組み](/ja/reviews/hostinger-referral-code-ja) をご覧ください。",
-          "24か月プランのグローバル価格（2026年10月21日、米ドル建て）は次のとおりです:"
+          "24か月プランのグローバル価格（2026年10月21日、米ドル建て）は次のとおりです："
         ],
         "comparisonTable": {
           "headers": [
@@ -110376,7 +110376,7 @@ export const reviewsData: unknown[] = [
         "heading": "什麼是 OpenClaw",
         "paragraphs": [
           "OpenClaw 是開源的 AI 助理，採 MIT 授權。它在電腦或伺服器上運行，把對話、記憶與憑證都存在那台機器裡，並透過你平常用的通訊軟體回覆，例如 Telegram、WhatsApp、Slack 與 Discord。要思考和回答，它會使用其他公司的 AI 模型，例如 Claude、GPT 與 Gemini，這些模型依用量收費。",
-          "專案本身不收費。根據官方 README，它沒有付費方案、沒有託管服務，也沒有代幣。真正花錢的是運行助理的伺服器，以及 AI 模型的用量。在 Hostinger 上有兩條路："
+          "專案本身不收費。根據官方 README，它沒有付費方案、沒有託管服務，也沒有 token。真正花錢的是運行助理的伺服器，以及 AI 模型的用量。在 Hostinger 上有兩條路："
         ],
         "bullets": [
           "**託管：** 你購買方案，Hostinger 負責安裝、更新並維護助理。",
@@ -110501,11 +110501,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "安全：什麼情況會改變決定",
         "paragraphs": [
-          "關鍵問題是誰管理資料與憑證。託管方面，Hostinger 表示每個實例都在容器中隔離運行，並有自己的安全閘道。這是 Hostinger 的說法，不是我們的測試結果。VPS 方面，Hostinger 本身說明，有了 root 存取權後，設定、更新與安全都由簽約的人負責。",
+          "關鍵問題是誰管理資料與憑證。託管方面，Hostinger 表示每個執行個體都在容器中隔離運行，並有自己的安全閘道。這是 Hostinger 的說法，不是我們的測試結果。VPS 方面，Hostinger 本身說明，有了 root 存取權後，設定、更新與安全都由簽約的人負責。",
           "OpenClaw 的安全政策說，它是為一位可信任的使用者設計的，而不是給互不認識的多人共用。能跟助理說話的人，就能讓它使用其工具。因此在以下三種情況，選擇會不一樣："
         ],
         "bullets": [
-          "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個實例。",
+          "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
           "**助理會存取你的電子郵件、銀行或其他帳戶：** 專案要求伺服器上不要登入個人帳戶。Hostinger 建議為助理另外準備一個電子郵件信箱。",
           "**使用 VPS 時：** 安裝時產生的閘道 token 請妥善保存，不要在與助理的對話中傳送。"
         ]
@@ -110657,7 +110657,7 @@ export const reviewsData: unknown[] = [
         "heading": "什么是 OpenClaw",
         "paragraphs": [
           "OpenClaw 是开源的 AI 助理，采用 MIT 许可。它在电脑或服务器上运行，把对话、记忆和凭据都保存在那台机器里，并通过你平时用的聊天软件回复，例如 Telegram、WhatsApp、Slack 和 Discord。要思考和回答，它会使用其他公司的 AI 模型，例如 Claude、GPT 和 Gemini，这些模型按用量收费。",
-          "项目本身不收费。根据官方 README，它没有付费套餐、没有托管服务，也没有代币。真正花钱的是运行助理的服务器，以及 AI 模型的用量。在 Hostinger 上有两条路："
+          "项目本身不收费。根据官方 README，它没有付费套餐、没有托管服务，也没有 token。真正花钱的是运行助理的服务器，以及 AI 模型的用量。在 Hostinger 上有两条路："
         ],
         "bullets": [
           "**托管：** 你购买套餐，Hostinger 负责安装、更新并维护助理。",
@@ -110974,7 +110974,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "ローカルモデル、より大きいレシピ",
-              "より多くのメモリが必要とページにあるが、数字はなし。",
+              "ページには、より多くのメモリが必要とあるが、数字はなし。",
               "公式の計算なし。使いたいモデルのサイズで選ぶ。"
             ]
           ]
@@ -111225,7 +111225,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "문서는 로컬 모델이 없는 OpenClaw에 대해 RAM, 프로세서(vCPU), 디스크 숫자를 제시하지 않으며, API 키나 크레딧 방식에 대한 최소 서버 사양도 없습니다.",
-          "계산상 세부 사항이 하나 있습니다. 8 GiB는 약 8.6GB입니다. KVM 2는 8GB로 광고되므로 약 7.5 GiB이고, 기준보다 조금 낮습니다. 여기에 시스템과 Docker가 쓰는 메모리는 포함하지 않았습니다. 문서는 이 단위 차이가 기준에 반영되는지 말하지 않습니다."
+          "계산상 세부 사항이 하나 있습니다. 8 GiB는 약 8.6GB입니다. KVM 2는 8GB로 광고되므로 약 7.5 GiB이고, 기준보다 조금 낮습니다. 그리고 시스템과 Docker가 쓰는 메모리는 빼지 않은 수치입니다. 문서는 이 단위 차이가 기준에 반영되는지 말하지 않습니다."
         ]
       },
       {
@@ -111392,7 +111392,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "추천 링크와 가격",
         "paragraphs": [
-          "2026년 10월 21일, 24개월 플랜 기준이며 추천 링크의 20%를 이미 적용한 가격입니다. 관리형은 월 US$ 3.99(링크 없이 US$ 4.99), VPS KVM 1은 링크 없이 월 US$ 6.49이고, 링크를 쓰면 첫 기간 20% 할인이며 최종 금액은 장바구니에서 확인합니다. VPS KVM 2는 링크 없이 월 US$ 8.79입니다. 갱신 시 관리형과 KVM 1은 월 US$ 11.99, KVM 2는 월 US$ 14.99입니다."
+          "2026년 10월 21일, 24개월 플랜 기준입니다. 관리형은 추천 링크를 쓰면 월 US$ 3.99이고 링크가 없으면 US$ 4.99입니다. VPS KVM 1은 링크 없이 월 US$ 6.49이며, 링크를 쓰면 첫 기간 20% 할인으로 최종 금액은 장바구니에서 확인합니다. VPS KVM 2는 링크 없이 월 US$ 8.79입니다. 갱신 시 관리형과 KVM 1은 월 US$ 11.99, KVM 2는 월 US$ 14.99입니다."
         ],
         "postParagraphs": [
           "규칙은 이렇습니다. 20%는 첫 기간에만, 12개월 이상 플랜에서 적용되며, 다른 할인 코드와 함께 쓸 수 없습니다. 입력할 코드는 없습니다. 할인은 이미 링크에 들어 있습니다. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [호스팅어 추천 링크의 작동 방식](/ko/reviews/hostinger-referral-code-ko)과 [우리 사이트의 호스팅어 페이지](/ko/coupons/hostinger)도 함께 보세요."
@@ -111951,7 +111951,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "推薦連結與價格",
         "paragraphs": [
-          "以下是 2026年10月21日、24 個月方案，已含 20% 推薦折扣的價格。託管透過推薦連結為 US$ 3.99/月。VPS 的推薦價格請到購物車確認（沒有推薦連結時，KVM 1 為 US$ 6.49，KVM 2 為 US$ 8.79）。續訂時，託管和 KVM 1 都是 US$ 11.99/月，KVM 2 是 US$ 14.99/月。"
+          "以下是 2026年10月21日、24 個月方案的價格。託管透過推薦連結為 US$ 3.99/月（沒有推薦連結時為 US$ 4.99）。VPS 的推薦價格請到購物車確認（沒有推薦連結時，KVM 1 為 US$ 6.49，KVM 2 為 US$ 8.79）。續訂時，託管和 KVM 1 都是 US$ 11.99/月，KVM 2 是 US$ 14.99/月。"
         ],
         "postParagraphs": [
           "規則：20% 只適用於首個計費週期，限 12 個月以上的方案，不能與其他優惠券疊加。不需要輸入代碼，折扣已經在連結裡。付款前請在購物車確認金額。黑色星期五期間價格會變動。另請參考[推薦連結的運作方式](/zh-hant/reviews/hostinger-referral-code-zh-hant)和 [Hostinger 的頁面](/zh-hant/coupons/hostinger)。"
@@ -112080,7 +112080,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "API key or Hostinger credits",
-              "No RAM number. The request goes to the provider (Anthropic, OpenAI, Google Gemini or xAI).",
+              "No RAM number. The request goes to the provider (for example Anthropic or OpenAI).",
               "No official number. KVM 1 is the starting point."
             ],
             [
@@ -112340,7 +112340,7 @@ export const reviewsData: unknown[] = [
           "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ein VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
         ],
         "postParagraphs": [
-          "Sie nennt keine Angabe zu RAM, Prozessor (vCPU) oder Festplatte für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Credits.",
+          "Die Dokumentation nennt keine Angabe zu RAM, Prozessor (vCPU) oder Festplatte für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Credits.",
           "Ein Detail zur Rechnung: 8 GiB entsprechen etwa 8,6 GB. Der KVM 2 wird mit 8 GB angegeben, also rund 7,5 GiB und damit etwas unter der Untergrenze, und darin ist der Speicher noch nicht eingerechnet, den System und Docker belegen. Die Dokumentation sagt nicht, ob dieser Unterschied der Einheiten für die Untergrenze zählt."
         ]
       },
@@ -112358,7 +112358,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "API-Schlüssel oder KI-Guthaben von Hostinger",
-              "Keine RAM-Angabe. Die Anfrage geht an den Anbieter (Anthropic, OpenAI, Google Gemini oder xAI).",
+              "Keine RAM-Angabe. Die Anfrage geht an den Anbieter (z. B. Anthropic oder OpenAI).",
               "Keine offizielle Zahl. Der KVM 1 ist der Ausgangspunkt."
             ],
             [
@@ -112638,7 +112638,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Clé d'API ou crédits Hostinger",
-              "Aucun chiffre de RAM. La requête part chez le fournisseur (Anthropic, OpenAI, Google Gemini ou xAI).",
+              "Aucun chiffre de RAM. La requête part chez le fournisseur (par exemple Anthropic ou OpenAI).",
               "Pas de chiffre officiel. Le KVM 1 est le point de départ."
             ],
             [
@@ -112917,7 +112917,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Clave de API o créditos de Hostinger",
-              "Ningún número de RAM. La petición va al proveedor (Anthropic, OpenAI, Google Gemini o xAI).",
+              "Ningún número de RAM. La petición va al proveedor (por ejemplo, Anthropic u OpenAI).",
               "Sin número oficial. El KVM 1 es el punto de partida."
             ],
             [
@@ -113195,7 +113195,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Chave de API ou créditos da Hostinger",
-              "Nenhum número de RAM. O pedido vai ao provedor (Anthropic, OpenAI, Google Gemini ou xAI).",
+              "Nenhum número de RAM. O pedido vai ao provedor (por exemplo, Anthropic ou OpenAI).",
               "Sem número oficial. O KVM 1 é o ponto de partida."
             ],
             [
@@ -113623,7 +113623,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Link di invito e prezzo",
         "paragraphs": [
-          "Prezzi del 21/10/2026, nel piano di 24 mesi, già con il 20% del link di invito: gestito 3,99 USD al mese (senza link 4,99 USD); VPS KVM 1 6,49 USD al mese senza link, con link 20% sul primo periodo e prezzo finale nel carrello; VPS KVM 2 8,79 USD al mese senza link. Al rinnovo, gestito e KVM 1 passano a 11,99 USD al mese, e il KVM 2 a 14,99 USD al mese."
+          "Prezzi del 21/10/2026, nel piano di 24 mesi. Con il link di invito il gestito costa 3,99 USD al mese (senza link 4,99 USD). Il VPS KVM 1 costa 6,49 USD al mese senza link; con il link vale il 20% sul primo periodo, con prezzo finale nel carrello. Il VPS KVM 2 costa 8,79 USD al mese senza link. Al rinnovo, gestito e KVM 1 passano a 11,99 USD al mese, e il KVM 2 a 14,99 USD al mese."
         ],
         "postParagraphs": [
           "La regola: i 20% valgono solo sul primo periodo, su piani di 12 mesi o più, e non si sommano ad altri coupon. Non c'è nessun codice da digitare, perché lo sconto è già nel link. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Leggi [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito) e [la pagina Hostinger del nostro sito](/it/coupons/hostinger)."
@@ -113769,9 +113769,9 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Memoria",
-              "Stato, memoria e credenziali restano sul tuo dispositivo. Il confronto dello stesso OpenClaw cita il tracciamento dell'origine delle sessioni e i registri di cancellazione",
+              "Stato, memoria e credenziali restano sul tuo dispositivo. Il confronto di OpenClaw cita il tracciamento dell'origine delle sessioni e i registri di cancellazione",
               "Memoria tra le sessioni, organizzata dall'agente, con ricerca nelle conversazioni passate (FTS5) e modellazione dell'utente con Honcho",
-              "README di OpenClaw; README e documentazione di Hermes Agent; confronto dello stesso OpenClaw"
+              "README di OpenClaw; README e documentazione di Hermes Agent; confronto di OpenClaw"
             ],
             [
               "Pianificatore di attività (cron)",
@@ -113804,7 +113804,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Server.** Può essere il tuo computer, acceso di continuo, oppure un VPS, un server virtuale in affitto. Il VPS dà accesso root, il controllo totale della macchina, ma l'aggiornamento e la protezione del sistema sono tuoi. Più RAM significa più programmi in esecuzione contemporanea senza rallentamenti.",
-          "**Piano gestito.** Hostinger installa, aggiorna e mantiene l'assistente. OpenClaw e Hermes Agent sono nello stesso piano, \"AI automation apps\".",
+          "**Piano gestito.** Hostinger installa, aggiorna e mantiene l'assistente. OpenClaw e Hermes Agent sono nello stesso piano, \"app di automazione con IA\".",
           "**Modello IA.** L'assistente chiede le risposte a un modello, come Claude, GPT o Gemini, che addebita in base all'uso. Ci sono due modi di pagare: una chiave API propria, con cui il fornitore ti addebita direttamente, oppure crediti IA acquistati su Hostinger. Il piano gestito di OpenClaw e quello di Hermes Agent includono un saldo iniziale; le ricariche non compaiono in una pagina pubblica, quindi controllale nel pannello. Su Nous Portal il prezzo non è indicato nella pagina del progetto."
         ],
         "postParagraphs": [
@@ -113824,7 +113824,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Vuoi molti canali e un'app sul telefono:** OpenClaw. Il README parla di oltre 20 canali e include app native per telefono e computer, oltre alla Control UI sul web.",
           "**Vuoi un agente che impara dall'uso:** Hermes Agent. Organizza la propria memoria, crea e migliora le proprie competenze e cerca nelle conversazioni passate.",
-          "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con uno dei due. Root è l'accesso da amministratore, con controllo totale del server.",
+          "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con entrambi. Root è l'accesso da amministratore, con controllo totale del server.",
           "**Non vuoi installare né gestire un server:** gestito, con entrambi. Hostinger installa e aggiorna."
         ],
         "postParagraphs": [
@@ -113837,8 +113837,8 @@ export const reviewsData: unknown[] = [
           "Prima di iniziare, verifica tre cose. Valgono per entrambi gli agenti."
         ],
         "bullets": [
-          "**Modello IA.** L'agente non risponde da solo: chiede le risposte a un modello di un'altra azienda. Su Hostinger usi i crediti IA del piano oppure la tua chiave API, la password con cui il programma parla con il fornitore. A pagare l'uso è il fornitore, direttamente a te.",
-          "**Un canale di messaggistica.** Telegram è la strada più semplice. Crei il bot su BotFather, il bot ufficiale di Telegram per creare bot, e salvi il token. WhatsApp si collega come dispositivo associato, con accesso tramite codice QR.",
+          "**Modello IA.** L'agente non risponde da solo: chiede le risposte a un modello di un'altra azienda. Su Hostinger usi i crediti IA del piano oppure la tua chiave API, la password con cui il programma parla con il fornitore. Il fornitore addebita l'uso direttamente a te.",
+          "**Un canale di messaggistica.** Telegram è la strada più semplice. Crei il bot su BotFather, il bot ufficiale di Telegram per creare bot, e salvi il token. WhatsApp si collega come dispositivo collegato, leggendo un codice QR.",
           "**Chi si occupa del server.** Nel piano gestito, Hostinger aggiorna e mantiene la sicurezza. Nel VPS l'aggiornamento è tuo, dal pulsante Update di Docker Manager, e così anche la sicurezza del server. Docker è il programma che fa girare ogni applicazione isolata in un container."
         ],
         "postParagraphs": [
@@ -113873,7 +113873,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Gestito (AI automation apps)",
+              "Gestito (app di automazione con IA)",
               "Hostinger installa, aggiorna e mantiene",
               "US$ 4,99/mese",
               "US$ 3,99/mese",
@@ -114013,7 +114013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige **OpenClaw** si quieres la mayor variedad de canales de mensajería, una interfaz web (Control UI) y aplicaciones nativas para el móvil y el ordenador. El README habla de más de 20 canales, y el proyecto lo mantiene una fundación sin fines de lucro. Elige **Hermes Agent** si quieres un agente que aprende con el uso: la memoria la organiza el propio agente, él crea y mejora sus propias habilidades, busca en conversaciones antiguas y modela al usuario con Honcho. Hermes Agent lo desarrolla Nous Research.",
+          "Elige **OpenClaw** si quieres conectar el agente a muchos canales de mensajería, usar una interfaz web (Control UI) y tener aplicaciones nativas para el móvil y el ordenador. El README habla de más de 20 canales, y el proyecto lo mantiene una fundación sin fines de lucro. Elige **Hermes Agent** si quieres un agente que aprende con el uso: la memoria la organiza el propio agente, él crea y mejora sus propias habilidades, busca en conversaciones antiguas y modela al usuario con Honcho. Hermes Agent lo desarrolla Nous Research.",
           "Si no quieres encargarte de un servidor, el plan gestionado de Hostinger sirve a los dos al mismo precio: US$ 3,99/mes con el enlace de referido, en un plan de 24 meses. El software es gratuito en ambos casos; lo que pagas es el servidor y el uso de los modelos de IA."
         ]
       },
@@ -114052,7 +114052,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Canales de mensajería",
-              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal y “20+ more”",
+              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal y más de 20 otros",
               "Telegram, Discord, Slack, WhatsApp, Signal y CLI, mediante una pasarela; la documentación lista más de 20 plataformas, entre ellas Matrix, correo electrónico, SMS y Microsoft Teams",
               "README de OpenClaw; README y documentación de Hermes Agent"
             ],
@@ -114132,7 +114132,7 @@ export const reviewsData: unknown[] = [
           "Antes de empezar, confirma tres cosas. Valen para los dos agentes."
         ],
         "bullets": [
-          "**Modelo de IA.** El agente no responde solo: pide las respuestas a un modelo de otra empresa. En Hostinger usas los créditos de IA del plan o tu clave de API, la contraseña que el programa usa para hablar con el proveedor. Quien cobra por el uso es el proveedor, directamente a ti.",
+          "**Modelo de IA.** El agente no responde solo: pide las respuestas a un modelo de otra empresa. En Hostinger usas los créditos de IA del plan o tu clave de API, con la que el programa habla con el proveedor. Quien cobra por el uso es el proveedor, directamente a ti.",
           "**Un canal de mensajería.** Telegram es el camino más simple. Creas el bot en BotFather, el bot oficial de Telegram para crear bots, y guardas el token. WhatsApp entra como dispositivo vinculado, con lectura de código QR.",
           "**Quién cuida el servidor.** En el gestionado, Hostinger actualiza y mantiene la seguridad. En el VPS, la actualización es tuya, con el botón Update del Docker Manager, y también la seguridad del servidor. Docker es el programa que ejecuta cada aplicación aislada en un contenedor."
         ],
@@ -114146,7 +114146,7 @@ export const reviewsData: unknown[] = [
           "Las políticas de seguridad de los dos proyectos dicen para quién está hecho el agente. Léelas antes de decidir cómo exponerlo."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md del repositorio openclaw/openclaw): hecho para un operador de confianza, no para varias personas que no se conocen. Quien pueda hablar con el agente puede hacer que use sus herramientas. Para más de una persona, el proyecto recomienda un servidor por persona. No expongas el agente directamente a internet. Los plugins se ejecutan en el mismo proceso y se tratan como código de confianza, así que instala solo lo que conoces.",
+          "**OpenClaw** (SECURITY.md del repositorio openclaw/openclaw): hecho para un operador de confianza, no para varias personas que no se conocen. Quien pueda hablar con el agente puede hacer que use sus herramientas. Para más de una persona, el proyecto recomienda un servidor por persona. No expongas el gateway directamente a internet. Los plugins se ejecutan en el mismo proceso y se tratan como código de confianza, así que instala solo lo que conoces.",
           "**Hermes Agent** (SECURITY.md del repositorio NousResearch/hermes-agent): hecho para una sola persona. No expongas la pasarela a internet sin VPN, Tailscale o cortafuegos. Ejecuta el agente como un usuario sin privilegios de root y revisa las skills y los plugins de terceros leyendo el código, no solo el archivo SKILL.md."
         ],
         "postParagraphs": [
@@ -114238,7 +114238,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "El código de referido ya va en el enlace: no tienes que escribir nada. Los 20 % valen solo para el primer período, en planes de 12 meses o más, y no se suman a otros códigos de descuento.",
+      "text": "El enlace de referido ya aplica el descuento: no tienes que escribir nada. Los 20 % valen solo para el primer período, en planes de 12 meses o más, y no se suman a otros códigos de descuento.",
       "label": "Ver los planes con el enlace de referido",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -114266,7 +114266,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "hostinger-openclaw-ou-hermes-agent",
     "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben",
-    "seoTitle": "OpenClaw oder Hermes Agent: welcher ist besser? (2026)",
+    "seoTitle": "OpenClaw oder Hermes Agent: welcher passt 2026?",
     "type": "Hosting-Ratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -114306,7 +114306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Wählen Sie **OpenClaw**, wenn Sie die größte Auswahl an Nachrichtenkanälen, eine Weboberfläche (Control UI) und native Apps für Handy und Computer wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
+          "Wählen Sie **OpenClaw**, wenn Sie viele Nachrichtenkanäle anbinden, eine Weboberfläche (Control UI) nutzen und native Apps für Handy und Computer haben wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
           "Wenn Sie sich nicht um einen Server kümmern wollen, bedient der verwaltete Tarif von Hostinger beide zum gleichen Preis: US$ 3,99/Monat mit dem Empfehlungslink, im 24-Monats-Tarif. Die Software ist in beiden Fällen kostenlos; bezahlt werden der Server und die Nutzung der KI-Modelle."
         ]
       },
@@ -114345,7 +114345,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nachrichtenkanäle",
-              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal und \"20+ more\"",
+              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal und mehr als 20 weitere",
               "Telegram, Discord, Slack, WhatsApp, Signal und CLI, über ein Gateway; die Dokumentation nennt mehr als 20 Plattformen, darunter Matrix, E-Mail, SMS und Microsoft Teams",
               "README von OpenClaw; README und Dokumentation von Hermes Agent"
             ],
@@ -114425,7 +114425,7 @@ export const reviewsData: unknown[] = [
           "Bevor Sie anfangen, prüfen Sie drei Dinge. Sie gelten für beide Agenten."
         ],
         "bullets": [
-          "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erstellen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren eigenen API-Schlüssel, das Passwort, mit dem das Programm mit dem Anbieter spricht. Abgerechnet wird vom Anbieter, direkt bei Ihnen.",
+          "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erstellen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren eigenen API-Schlüssel, mit dem das Programm beim Anbieter anfragt. Abgerechnet wird vom Anbieter, direkt bei Ihnen.",
           "**Ein Nachrichtenkanal.** Telegram ist der einfachste Weg. Sie erstellen den Bot bei BotFather, dem offiziellen Bot von Telegram zum Erstellen von Bots, und speichern das Token. WhatsApp wird als verknüpftes Gerät angebunden, mit Anmeldung per QR-Code.",
           "**Wer kümmert sich um den Server.** Beim verwalteten Tarif aktualisiert und schützt Hostinger das System. Beim VPS ist die Aktualisierung Ihre Aufgabe, über den Button Update im Docker Manager, und ebenso die Sicherheit des Servers. Docker ist das Programm, das jede Anwendung isoliert in einem Container laufen lässt."
         ],
@@ -114439,7 +114439,7 @@ export const reviewsData: unknown[] = [
           "Die Sicherheitsrichtlinien der beiden Projekte sagen, für wen der Agent gedacht ist. Lesen Sie sie, bevor Sie entscheiden, wie Sie ihn erreichbar machen."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber, nicht für mehrere Personen, die sich nicht kennen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für mehr als eine Person empfiehlt das Projekt einen Server pro Person. Setzen Sie den Agenten nicht direkt dem öffentlichen Internet aus. Die Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
+          "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber, nicht für mehrere Personen, die sich nicht kennen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für mehr als eine Person empfiehlt das Projekt einen Server pro Person. Setzen Sie das Gateway nicht direkt dem öffentlichen Internet aus. Die Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
           "**Hermes Agent** (SECURITY.md im Repository NousResearch/hermes-agent): gedacht für eine einzelne Person. Setzen Sie das Gateway nicht ohne VPN, Tailscale oder Firewall dem Internet aus. Betreiben Sie den Agenten als Benutzer ohne Root-Rechte, und prüfen Sie Skills und Plugins von Drittanbietern, indem Sie den Code lesen, nicht nur die Datei SKILL.md."
         ],
         "postParagraphs": [
@@ -114498,7 +114498,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Im verwalteten Tarif ist ein Anfangsguthaben an KI-Guthaben enthalten; was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung sowie Sicherheit des Servers bleiben bei Ihnen. Mit dem Empfehlungslink gelten beim VPS 20 % Rabatt im ersten Zeitraum; den Endbetrag sehen Sie im Warenkorb.",
+          "Im verwalteten Tarif ist ein KI-Guthaben zum Start enthalten; was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung sowie Sicherheit des Servers bleiben bei Ihnen.",
           "Der verwaltete Tarif hat 30 Tage Zeit für eine Rückerstattung. Beim VPS gelten die 30 Tage nur, wenn die letzte Rückerstattung eines VPS mehr als 180 Tage zurückliegt.",
           "Wenn Sie vorab die Anforderungen durchrechnen wollen, lesen Sie [den besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Kampagne siehe [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote)."
         ]
@@ -114531,7 +114531,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Der Empfehlungscode ist schon im Link enthalten: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+      "text": "Der Empfehlungslink wendet den Rabatt schon an: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
       "label": "Tarife mit Empfehlungslink ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -114601,7 +114601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez **OpenClaw** si vous voulez le plus grand choix de canaux de messagerie, une interface web (Control UI) et des applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
+          "Choisissez **OpenClaw** si vous voulez relier l'agent à de nombreux canaux de messagerie, utiliser une interface web (Control UI) et disposer d'applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
           "Si vous ne voulez pas gérer de serveur, l'offre gérée de Hostinger couvre les deux au même prix : 3,99 US$/mois avec le lien de parrainage, sur un forfait de 24 mois. Le logiciel est gratuit dans les deux cas ; ce que vous payez, ce sont le serveur et l'usage des modèles d'IA."
         ]
       },
@@ -114609,7 +114609,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce qu'est chacun",
         "paragraphs": [
           "OpenClaw et Hermes Agent sont des assistants d'IA open source, sous licence MIT. Vous les installez pour les faire tourner vous-même et discuter via Telegram, WhatsApp ou une autre application de messagerie. La licence ne coûte rien ; ce qui change, c'est l'interface, la mémoire et l'organisation qui maintient le projet.",
-          "**OpenClaw** est maintenu par la OpenClaw Foundation, une organisation à but non lucratif. Selon le README officiel, l'état, la mémoire et les identifiants restent sur l'équipement où il tourne, et le projet n'a ni offre payante, ni service hébergé, ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, il peut être pris en géré ou en VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
+          "**OpenClaw** est maintenu par la OpenClaw Foundation, une organisation à but non lucratif. Selon le README officiel, l'état, la mémoire et les identifiants restent sur l'équipement où il tourne, et le projet n'a ni offre payante, ni service hébergé, ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, il peut être souscrit en offre gérée ou en VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
           "**Hermes Agent** est développé par Nous Research, une entreprise qui conçoit des modèles d'IA. Sa particularité est le cycle d'apprentissage : l'agent organise sa mémoire entre les sessions, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Il dispose d'un terminal complet et de Hermes Desktop, une application de bureau avec installateur pour Windows et macOS. La page du projet n'indique aucun prix pour le logiciel. Elle mentionne Nous Portal, un abonnement avec des outils comme la recherche web, la navigation et la génération d'images, sans montant indiqué. Nous Portal est une façon de payer le modèle, pas la seule."
         ]
       },
@@ -114640,7 +114640,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Canaux de messagerie",
-              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal et « 20+ more »",
+              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal et plus de 20 autres",
               "Telegram, Discord, Slack, WhatsApp, Signal et CLI, par une passerelle ; la documentation liste plus de 20 plateformes, dont Matrix, e-mail, SMS et Microsoft Teams",
               "README d'OpenClaw ; README et documentation d'Hermes Agent"
             ],
@@ -114720,7 +114720,7 @@ export const reviewsData: unknown[] = [
           "Avant de commencer, vérifiez trois points. Ils valent pour les deux agents."
         ],
         "bullets": [
-          "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, le mot de passe que le programme emploie pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
+          "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, celle que le programme utilise pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
           "**Un canal de messagerie.** Telegram est le plus simple. Vous créez le bot avec BotFather, le bot officiel de Telegram pour créer des bots, et vous gardez le jeton. WhatsApp s'ajoute comme appareil lié, par lecture d'un QR code.",
           "**Qui s'occupe du serveur.** En géré, Hostinger met à jour et assure la sécurité. En VPS, la mise à jour est à votre charge, avec le bouton Update de Docker Manager, et la sécurité du serveur aussi. Docker est le programme qui fait tourner chaque application isolée dans un conteneur."
         ],
@@ -114734,7 +114734,7 @@ export const reviewsData: unknown[] = [
           "Les politiques de sécurité des deux projets disent à qui l'agent est destiné. Lisez-les avant de décider comment l'exposer."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, et non pour plusieurs personnes qui ne se connaissent pas. Qui peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas l'agent directement à internet. Les plugins tournent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
+          "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, et non pour plusieurs personnes qui ne se connaissent pas. Qui peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas le gateway directement à internet. Les plugins tournent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
           "**Hermes Agent** (SECURITY.md du dépôt NousResearch/hermes-agent) : conçu pour une seule personne. N'exposez pas la passerelle à internet sans VPN, Tailscale ou pare-feu. Faites tourner l'agent avec un utilisateur sans privilèges root, et relisez le code des skills et plugins tiers, pas seulement le fichier SKILL.md."
         ],
         "postParagraphs": [
@@ -114826,7 +114826,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Le code de parrainage est déjà dans le lien : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+      "text": "Le lien de parrainage applique déjà la réduction : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
       "label": "Voir les forfaits avec le lien de parrainage",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -114894,7 +114894,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o **OpenClaw** se quer o maior leque de canais de mensagem, uma interface web (Control UI) e aplicativos nativos para celular e computador. O README fala em mais de 20 canais, e o projeto é mantido por uma fundação sem fins lucrativos. Escolha o **Hermes Agent** se quer um agente que aprende com o uso: a memória é organizada pelo próprio agente, ele cria e melhora as próprias habilidades, busca nas conversas antigas e faz modelagem do usuário com o Honcho. O Hermes Agent é feito pela Nous Research.",
+          "Escolha o **OpenClaw** se quer conectar o agente a muitos canais de mensagem, usar uma interface web (Control UI) e ter aplicativos nativos para celular e computador. O README fala em mais de 20 canais, e o projeto é mantido por uma fundação sem fins lucrativos. Escolha o **Hermes Agent** se quer um agente que aprende com o uso: a memória é organizada pelo próprio agente, ele cria e melhora as próprias habilidades, busca nas conversas antigas e faz modelagem do usuário com o Honcho. O Hermes Agent é feito pela Nous Research.",
           "Se você não quer cuidar de servidor, o plano gerenciado da Hostinger serve aos dois pelo mesmo preço: R$ 19,99/mês com a indicação, em plano de 24 meses. O software é grátis nos dois casos; o que você paga é o servidor e o uso dos modelos de IA."
         ]
       },
@@ -114933,7 +114933,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Canais de mensagem",
-              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal e \"20+ more\"",
+              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal e mais de 20 outros",
               "Telegram, Discord, Slack, WhatsApp, Signal e CLI, por um gateway; a documentação lista mais de 20 plataformas, entre elas Matrix, e-mail, SMS e Microsoft Teams",
               "README do OpenClaw; README e documentação do Hermes Agent"
             ],
@@ -115013,7 +115013,7 @@ export const reviewsData: unknown[] = [
           "Antes de começar, confirme três coisas. Valem para os dois agentes."
         ],
         "bullets": [
-          "**Modelo de IA.** O agente não responde sozinho: ele pede as respostas a um modelo de outra empresa. Na Hostinger, você usa os créditos de IA do plano ou a sua chave de API, a senha que o programa usa para falar com o provedor. Quem cobra pelo uso é o provedor, direto de você.",
+          "**Modelo de IA.** O agente não responde sozinho: ele pede as respostas a um modelo de outra empresa. Na Hostinger, você usa os créditos de IA do plano ou a sua chave de API, que o programa usa para falar com o provedor. Quem cobra pelo uso é o provedor, direto de você.",
           "**Um canal de mensagem.** O Telegram é o caminho mais simples. Você cria o bot no BotFather, o bot oficial do Telegram para criar bots, e guarda o token. O WhatsApp entra como aparelho vinculado, com leitura de QR code.",
           "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
         ],
@@ -115027,7 +115027,7 @@ export const reviewsData: unknown[] = [
           "As políticas de segurança dos dois projetos dizem para quem o agente foi feito. Leia antes de decidir como expô-lo."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md do repositório openclaw/openclaw): feito para um operador de confiança, não para várias pessoas que não se conhecem. Quem consegue falar com o agente pode fazer com que ele use as ferramentas dele. Para mais de uma pessoa, o projeto recomenda um servidor por pessoa. Não exponha o agente direto à internet pública. Os plugins rodam no mesmo processo e são tratados como código confiável, então instale só o que você conhece.",
+          "**OpenClaw** (SECURITY.md do repositório openclaw/openclaw): feito para um operador de confiança, não para várias pessoas que não se conhecem. Quem consegue falar com o agente pode fazer com que ele use as ferramentas dele. Para mais de uma pessoa, o projeto recomenda um servidor por pessoa. Não exponha o gateway direto à internet pública. Os plugins rodam no mesmo processo e são tratados como código confiável, então instale só o que você conhece.",
           "**Hermes Agent** (SECURITY.md do repositório NousResearch/hermes-agent): feito para uma pessoa só. Não exponha o gateway à internet sem VPN, Tailscale ou firewall. Rode o agente como usuário sem privilégio de root e revise skills e plugins de terceiros lendo o código, não só o arquivo SKILL.md."
         ],
         "postParagraphs": [
@@ -115119,7 +115119,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
+      "text": "A indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
       "label": "Ver os planos com o link de indicação",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -115274,7 +115274,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**サーバー。** 常時起動しているご自身のコンピューター、または仮想サーバーの VPS を借りる方法があります。VPS には root アクセス（マシンを完全に操作できる権限）がありますが、システムの更新と保護は自分の担当です。メモリ（RAM）が多いほど、同時に動くプログラムが増えても止まりにくくなります。",
-          "**マネージドプラン。** Hostinger がアシスタントをインストールし、更新して維持します。OpenClaw と Hermes Agent は同じプラン「AI automation apps」に入っています。",
+          "**マネージドプラン。** Hostinger がアシスタントをインストールし、更新して維持します。OpenClaw と Hermes Agent は同じプラン「AI自動化アプリ」に入っています。",
           "**AI モデル。** アシスタントは、Claude、GPT、Gemini などのモデルに応答を頼みます。モデルは利用量に応じて課金されます。支払い方法は2つあります。自分の API キー（プロバイダーと通信するためのパスワード）で、プロバイダーが直接請求する方法と、Hostinger で購入する AI クレジットです。OpenClaw と Hermes Agent のマネージドには初期残高があります。チャージの料金は公開ページにないので、管理画面で確認してください。Nous Portal の価格はプロジェクトのページに記載がありません。"
         ],
         "postParagraphs": [
@@ -115343,7 +115343,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "マネージド（AI automation apps）",
+              "マネージド（AI自動化アプリ）",
               "Hostinger がインストールと更新を担当",
               "US$ 4.99/月",
               "US$ 3.99/月",
@@ -115481,7 +115481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "채널 종류가 가장 많고 웹 인터페이스(Control UI)와 휴대폰·컴퓨터용 네이티브 앱을 원하면 **OpenClaw**를 고르세요. README에는 20개 이상의 채널이 나와 있고, 이 프로젝트는 비영리 단체가 관리합니다. 사용하면서 배우는 에이전트를 원하면 **Hermes Agent**를 고르세요. 메모리는 에이전트가 직접 정리하고, 스스로 기술을 만들고 개선하며, 예전 대화를 검색하고, Honcho로 사용자 모델링을 합니다. Hermes Agent는 Nous Research가 만들었습니다.",
+          "채널 종류가 가장 많고 웹 인터페이스(Control UI)와 휴대폰·컴퓨터용 네이티브 앱을 원하면 **OpenClaw**를 고르세요. README에는 20개 이상의 채널이 나와 있고, 이 프로젝트는 비영리 단체가 관리합니다. 사용하면서 배우는 에이전트를 원하면 **Hermes Agent**를 고르세요. 메모리는 에이전트가 직접 정리하고, 스스로 스킬을 만들고 개선하며, 예전 대화를 검색하고, Honcho로 사용자 모델링을 합니다. Hermes Agent는 Nous Research가 만들었습니다.",
           "서버를 신경 쓰고 싶지 않다면 호스팅어의 관리형 플랜이 두 가지 모두를 같은 가격에 제공합니다. 24개월 플랜 기준으로 추천 링크를 쓰면 월 **US$ 3.99**입니다. 소프트웨어는 두 경우 모두 무료이며, 내는 돈은 서버와 AI 모델 사용료입니다."
         ]
       },
@@ -115490,7 +115490,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "OpenClaw와 Hermes Agent는 MIT 라이선스의 오픈소스 AI 어시스턴트입니다. 직접 설치해 혼자 실행하고, 텔레그램, 왓츠앱 또는 다른 메시지 앱으로 대화합니다. 라이선스는 비용이 없고, 차이는 인터페이스, 메모리, 그리고 프로젝트를 누가 관리하는지에 있습니다.",
           "**OpenClaw**는 비영리 단체인 OpenClaw Foundation이 관리합니다. 공식 README에 따르면 상태, 메모리, 자격 증명은 실행되는 기기에 저장되며, 이 프로젝트에는 유료 플랜, 호스팅 서비스, 토큰이 없습니다. 웹 인터페이스(Control UI), 명령줄, macOS, iOS, Android, Windows, Linux용 네이티브 앱이 있습니다. 호스팅어에서는 관리형이나 VPS로 구매할 수 있으며, [OpenClaw 관리형 또는 VPS 가이드](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)에 나와 있습니다.",
-          "**Hermes Agent**는 AI 모델을 만드는 회사 Nous Research가 개발했습니다. 특징은 학습 주기입니다. 에이전트가 세션 사이의 메모리를 스스로 정리하고, 자신의 기술을 만들고 개선하며, 예전 대화를 검색하고, Honcho로 사용자 모델링을 합니다. 완전한 기능의 터미널 버전이 있고, Windows와 macOS용 설치 프로그램이 있는 데스크톱 앱 Hermes Desktop도 있습니다. 프로젝트 페이지에는 소프트웨어 가격이 나와 있지 않습니다. 웹 검색, 브라우징, 이미지 생성 같은 도구가 포함된 구독인 Nous Portal이 언급되지만 가격은 없습니다. Nous Portal은 모델 비용을 내는 방법 중 하나이지, 유일한 방법은 아닙니다."
+          "**Hermes Agent**는 AI 모델을 만드는 회사 Nous Research가 개발했습니다. 특징은 학습 주기입니다. 에이전트가 세션 사이의 메모리를 스스로 정리하고, 자신의 스킬을 만들고 개선하며, 예전 대화를 검색하고, Honcho로 사용자 모델링을 합니다. 완전한 기능의 터미널 버전이 있고, Windows와 macOS용 설치 프로그램이 있는 데스크톱 앱 Hermes Desktop도 있습니다. 프로젝트 페이지에는 소프트웨어 가격이 나와 있지 않습니다. 웹 검색, 브라우징, 이미지 생성 같은 도구가 포함된 구독인 Nous Portal이 언급되지만 가격은 없습니다. Nous Portal은 모델 비용을 내는 방법 중 하나이지, 유일한 방법은 아닙니다."
         ]
       },
       {
@@ -115567,7 +115567,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**서버.** 항상 켜져 있는 본인 컴퓨터일 수도 있고, 임대한 가상 서버인 VPS일 수도 있습니다. VPS는 root 접근, 즉 기기 전체에 대한 완전한 제어를 주지만, 시스템 업데이트와 보호는 본인 몫입니다. RAM이 많을수록 여러 프로그램이 멈추지 않고 동시에 돌아갑니다.",
-          "**관리형 플랜.** 호스팅어가 어시스턴트를 설치하고, 업데이트하고, 유지합니다. OpenClaw와 Hermes Agent는 같은 \"AI automation apps\" 플랜에 있습니다.",
+          "**관리형 플랜.** 호스팅어가 어시스턴트를 설치하고, 업데이트하고, 유지합니다. OpenClaw와 Hermes Agent는 같은 \"AI 자동화 앱\" 플랜에 있습니다.",
           "**AI 모델.** 어시스턴트는 Claude, GPT, Gemini 같은 모델에 답변을 요청하며, 이 모델은 사용량만큼 요금을 받습니다. 결제 방법은 두 가지입니다. 제공업체가 직접 청구하는 본인 API 키를 쓰거나, 호스팅어에서 산 AI 크레딧을 쓰는 것입니다. OpenClaw와 Hermes Agent의 관리형 플랜에는 초기 잔액이 있고, 충전 가격은 공개 페이지에 없으니 대시보드에서 확인하세요. Nous Portal의 가격은 프로젝트 페이지에 나와 있지 않습니다."
         ],
         "postParagraphs": [
@@ -115581,12 +115581,12 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
-          "alt": "네 가지 유형과 각각의 답을 보여주는 표: 채널이 많고 휴대폰 앱을 원하면 OpenClaw, 배우고 스스로 기술을 만드는 에이전트를 원하면 Hermes Agent, 서버를 다루지 않으려면 관리형, root와 다른 프로그램을 원하면 VPS",
+          "alt": "네 가지 유형과 각각의 답을 보여주는 표: 채널이 많고 휴대폰 앱을 원하면 OpenClaw, 배우고 스스로 스킬을 만드는 에이전트를 원하면 Hermes Agent, 서버를 다루지 않으려면 관리형, root와 다른 프로그램을 원하면 VPS",
           "caption": "각 프로젝트의 문서 기준, 2026년 10월 21일에 읽음."
         },
         "bullets": [
           "**채널이 많고 휴대폰 앱을 원한다면:** OpenClaw. README에는 20개 이상의 채널이 있고, 휴대폰과 컴퓨터용 네이티브 앱, 그리고 웹의 Control UI가 있습니다.",
-          "**사용하면서 배우는 에이전트를 원한다면:** Hermes Agent. 자신의 메모리를 정리하고, 자신의 기술을 만들고 개선하며, 예전 대화를 검색합니다.",
+          "**사용하면서 배우는 에이전트를 원한다면:** Hermes Agent. 자신의 메모리를 정리하고, 자신의 스킬을 만들고 개선하며, 예전 대화를 검색합니다.",
           "**같은 서버에서 root 접근과 웹사이트나 n8n 같은 다른 프로그램을 원한다면:** VPS, 둘 중 어느 쪽이든. Root는 서버 전체를 제어하는 관리자 접근 권한입니다.",
           "**설치하고 서버를 관리하고 싶지 않다면:** 관리형, 둘 다. 호스팅어가 설치하고 업데이트합니다."
         ],
@@ -115615,7 +115615,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**OpenClaw** (openclaw/openclaw 저장소의 SECURITY.md): 서로 모르는 여러 사람이 아니라 신뢰할 수 있는 운영자 한 명을 위한 것입니다. 에이전트에게 말을 걸 수 있는 사람은 에이전트가 도구를 쓰게 만들 수 있습니다. 한 명 이상이 쓴다면 프로젝트는 사람마다 서버 하나를 권합니다. 에이전트를 공개 인터넷에 직접 노출하지 마세요. 플러그인은 같은 프로세스에서 실행되며 신뢰할 수 있는 코드로 취급되므로, 아는 것만 설치하세요.",
-          "**Hermes Agent** (NousResearch/hermes-agent 저장소의 SECURITY.md): 한 사람을 위한 것입니다. VPN, Tailscale 또는 방화벽 없이 게이트웨이를 인터넷에 노출하지 마세요. root 권한이 없는 사용자로 에이전트를 실행하고, 제3자 skill과 plugin은 SKILL.md 파일만이 아니라 코드를 읽고 검토하세요."
+          "**Hermes Agent** (NousResearch/hermes-agent 저장소의 SECURITY.md): 한 사람을 위한 것입니다. VPN, Tailscale 또는 방화벽 없이 게이트웨이를 인터넷에 노출하지 마세요. root 권한이 없는 사용자로 에이전트를 실행하고, 제3자 스킬과 플러그인은 SKILL.md 파일만이 아니라 코드를 읽고 검토하세요."
         ],
         "postParagraphs": [
           "관리형과 VPS 중 고르는 문제는 데이터와 자격 증명을 누가 관리하느냐입니다. [OpenClaw 관리형 또는 VPS 가이드](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)가 이를 자세히 다룹니다."
@@ -115636,7 +115636,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "관리형 (AI automation apps)",
+              "관리형 (AI 자동화 앱)",
               "호스팅어가 설치, 업데이트, 유지",
               "월 US$ 4.99",
               "월 US$ 3.99",
@@ -115784,7 +115784,7 @@ export const reviewsData: unknown[] = [
         "heading": "各自是什么",
         "paragraphs": [
           "OpenClaw 与 Hermes Agent 都是开源 AI 助手，采用 MIT 许可证。你自己安装并让它在本机运行，通过 Telegram、WhatsApp 或其他即时通讯应用与它对话。许可证不收费；区别在于界面、记忆，以及谁来维护这个项目。",
-          "**OpenClaw** 由非营利组织 OpenClaw Foundation 维护。根据官方 README，状态、记忆与凭证都保存在它运行的那台设备上，项目没有付费方案、没有托管服务，也没有代币。它有网页界面（Control UI）、命令行，以及 macOS、iOS、Android、Windows 和 Linux 的原生应用。在 Hostinger 上，你可以选托管或 VPS，详情见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。",
+          "**OpenClaw** 由非营利组织 OpenClaw Foundation 维护。根据官方 README，状态、记忆与凭证都保存在它运行的那台设备上，项目没有付费方案、没有托管服务，也没有 token。它有网页界面（Control UI）、命令行，以及 macOS、iOS、Android、Windows 和 Linux 的原生应用。在 Hostinger 上，你可以选托管或 VPS，详情见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。",
           "**Hermes Agent** 由开发 AI 模型的 Nous Research 制作。它的特色是学习循环：代理在多次会话之间自行整理记忆，自行创建并改进技能，搜索过去的对话，并用 Honcho 做用户建模。它有完整的终端界面，也有 Hermes Desktop，这个桌面应用提供 Windows 和 macOS 安装程序。项目页面没有给出软件价格。它提到 Nous Portal，这是一项订阅服务，包含网页搜索、浏览和图片生成等工具，但页面没有标明金额。Nous Portal 只是付费使用模型的一种方式，并非唯一方式。"
         ]
       },
@@ -115862,7 +115862,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**服务器。** 可以是你自己的电脑（需要一直开着），也可以是租用的虚拟服务器 VPS。VPS 给你 root 权限（对整台机器的完全控制），但系统的更新与保护由你负责。内存（RAM）越大，同时运行的程序越多，也越不容易卡住。",
-          "**托管方案。** Hostinger 帮你安装、更新并维护助手。OpenClaw 与 Hermes Agent 同属「AI automation apps」方案。",
+          "**托管方案。** Hostinger 帮你安装、更新并维护助手。OpenClaw 与 Hermes Agent 同属「AI 自动化应用」方案。",
           "**AI 模型。** 助手会把回答的工作交给 Claude、GPT 或 Gemini 等模型，而模型按使用量收费。付费有两种方式：自备 API 密钥（服务商会直接向你收费，密钥是程序与服务商通信用的密码），或在 Hostinger 购买的 AI 额度。OpenClaw 与 Hermes Agent 的托管方案都附有初始余额；充值的费用不在公开页面上，请在控制台确认。Nous Portal 的价格，项目页面没有写。"
         ],
         "postParagraphs": [
@@ -115931,7 +115931,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "托管（AI automation apps）",
+              "托管（AI 自动化应用）",
               "Hostinger 负责安装与更新",
               "US$ 4.99/月",
               "US$ 3.99/月",
@@ -116078,7 +116078,7 @@ export const reviewsData: unknown[] = [
         "heading": "各自是什麼",
         "paragraphs": [
           "OpenClaw 與 Hermes Agent 都是開源 AI 助理，採 MIT 授權。你自己安裝並讓它在本機運行，透過 Telegram、WhatsApp 或其他通訊應用程式與它對話。授權不收費；差別在於介面、記憶，以及誰來維護這個專案。",
-          "**OpenClaw** 由非營利組織 OpenClaw Foundation 維護。根據官方 README，狀態、記憶與憑證都保存在它執行的那台設備上，專案沒有付費方案、沒有託管服務，也沒有代幣。它有網頁介面（Control UI）、命令列，以及 macOS、iOS、Android、Windows 和 Linux 的原生應用程式。在 Hostinger 上，你可以選託管或 VPS，詳情見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。",
+          "**OpenClaw** 由非營利組織 OpenClaw Foundation 維護。根據官方 README，狀態、記憶與憑證都保存在它執行的那台設備上，專案沒有付費方案、沒有託管服務，也沒有 token。它有網頁介面（Control UI）、命令列，以及 macOS、iOS、Android、Windows 和 Linux 的原生應用程式。在 Hostinger 上，你可以選託管或 VPS，詳情見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。",
           "**Hermes Agent** 由開發 AI 模型的 Nous Research 製作。它的特色是學習循環：代理在多次工作階段之間自行整理記憶，自行建立並改進技能，搜尋過去的對話，並用 Honcho 做使用者建模。它有完整的終端機介面，也有 Hermes Desktop，這個桌面應用程式提供 Windows 和 macOS 安裝程式。專案頁面沒有提供軟體價格。它提到 Nous Portal，這是一項訂閱服務，包含網頁搜尋、瀏覽和圖片生成等工具，但頁面沒有標示金額。Nous Portal 只是付費使用模型的一種方式，並非唯一方式。"
         ]
       },
@@ -116160,7 +116160,7 @@ export const reviewsData: unknown[] = [
           "**AI 模型。** 助理會把回應的工作交給 Claude、GPT 或 Gemini 等模型，而模型按使用量收費。付費有兩種方式：自備 API 金鑰（供應商會直接向你收費，金鑰是程式與供應商溝通用的密碼），或在 Hostinger 購買的 AI 額度。OpenClaw 與 Hermes Agent 的託管方案都附有初始餘額；加值的費用不在公開頁面上，請在控制台確認。Nous Portal 的價格，專案頁面沒有寫。"
         ],
         "postParagraphs": [
-          "伺服器與方案的價格，都整理在後面「在 Hostinger 上的跑法與價格」的表格裡。模型的每月使用費，來源上找不到數字，因為它取決於你選的模型與對話次數。所以本指南不提供每月總額的估算。"
+          "伺服器與方案的價格，都整理在後面「在 Hostinger 上的運行方式與價格」的表格裡。模型的每月使用費，來源上找不到數字，因為它取決於你選的模型與對話次數。所以本指南不提供每月總額的估算。"
         ]
       },
       {
@@ -116203,7 +116203,7 @@ export const reviewsData: unknown[] = [
           "兩個專案的安全政策都說明了它們是為誰設計的。決定如何對外開放之前，請先讀一讀。"
         ],
         "bullets": [
-          "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：是為一位可信任的操作者設計的，不是為彼此不認識的多人設計。能跟代理說話的人，就能讓它使用它的工具。若有多人使用，專案建議每人一台伺服器。不要把代理直接暴露在公開網際網路上。外掛在同一個程序中執行，會被當成可信任的程式碼，所以只安裝你了解的外掛。",
+          "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：是為一位可信任的操作者設計的，不是為彼此不認識的多人設計。能跟代理說話的人，就能讓它使用它的工具。若有多人使用，專案建議每人一台伺服器。不要把代理直接暴露在公開網際網路上。外掛在同一個行程中執行，會被當成可信任的程式碼，所以只安裝你了解的外掛。",
           "**Hermes Agent**（NousResearch/hermes-agent 儲存庫的 SECURITY.md）：是為一個人設計的。沒有 VPN、Tailscale 或防火牆，不要把閘道暴露在網際網路上。請以沒有 root 權限的使用者執行代理，並且檢查第三方技能與外掛時，要讀程式碼，而不只看 SKILL.md。"
         ],
         "postParagraphs": [
@@ -116211,7 +116211,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "在 Hostinger 上的跑法與價格",
+        "heading": "在 Hostinger 上的運行方式與價格",
         "paragraphs": [
           "以下是 Hostinger 全球頁面的價格，採美元計價，為24個月方案，於2026年10月21日查閱。表中的託管方案對 OpenClaw 與 Hermes Agent 價格相同。你所在的國家可能顯示其他貨幣與稅金；付款前請在購物車確認。活動期間價格會變動，同樣請以購物車為準。"
         ],
@@ -116287,7 +116287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "透明度說明",
         "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 上，以 Node.js Web App 的形式執行。Bruno 自2024年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
+          "Em Casa com Cecília 運行在 Hostinger 上，以 Node.js Web App 的形式執行。Bruno 自2024年起就是客戶，使用主機託管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
           "本文是在2026年10月21日閱讀了 Hostinger 的頁面，以及兩個專案的安全政策與文件後彙整而成。OpenClaw 發布的兩者比較由專案方撰寫，表格的來源欄中標示了這個名稱。"
         ]
       }
@@ -116364,7 +116364,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose **OpenClaw** if you want the widest range of messaging channels, a web interface (Control UI) and native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
+          "Choose **OpenClaw** if you want to connect the agent to many messaging channels, use a web interface (Control UI) and have native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
           "If you don't want to look after a server, Hostinger's managed plan serves both at the same price: US$3.99/month with the referral link, on a 24-month plan. The software is free in both cases; what you pay for is the server and the use of AI models."
         ]
       },
@@ -116403,7 +116403,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Messaging channels",
-              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal and “20+ more”",
+              "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal and more than 20 others",
               "Telegram, Discord, Slack, WhatsApp, Signal and CLI, through one gateway; the documentation lists more than 20 platforms, including Matrix, email, SMS and Microsoft Teams",
               "OpenClaw README; Hermes Agent README and documentation"
             ],
@@ -116483,7 +116483,7 @@ export const reviewsData: unknown[] = [
           "Before you start, confirm three things. They apply to both agents."
         ],
         "bullets": [
-          "**AI model.** The agent does not answer on its own: it asks a model from another company for replies. On Hostinger, you use the plan's AI credits or your own API key, the password the program uses to talk to the provider. The provider charges for that use, directly to you.",
+          "**AI model.** The agent does not answer on its own: it asks a model from another company for replies. On Hostinger, you use the plan's AI credits or your own API key, the key the program uses to talk to the provider. The provider charges for that use, directly to you.",
           "**A messaging channel.** Telegram is the simplest route. You create the bot in BotFather, Telegram's official bot for creating bots, and keep the token. WhatsApp joins as a linked device, by reading a QR code.",
           "**Who looks after the server.** On managed, Hostinger updates and maintains security. On the VPS, updates are yours, through the Update button in Docker Manager, and so is server security. Docker is the program that runs each application isolated in its own container."
         ],
@@ -116497,7 +116497,7 @@ export const reviewsData: unknown[] = [
           "The security policies of both projects say who the agent was built for. Read them before you decide how to expose it."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for a trusted operator, not for several people who don't know each other. Anyone who can talk to the agent can make it use its tools. For more than one person, the project recommends one server per person. Don't expose the agent directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
+          "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for a trusted operator, not for several people who don't know each other. Anyone who can talk to the agent can make it use its tools. For more than one person, the project recommends one server per person. Don't expose the gateway directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
           "**Hermes Agent** (SECURITY.md in the NousResearch/hermes-agent repository): built for a single person. Don't expose the gateway to the internet without a VPN, Tailscale or a firewall. Run the agent as a user without root privileges, and review third-party skills and plugins by reading the code, not just the SKILL.md file."
         ],
         "postParagraphs": [
@@ -116589,7 +116589,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "The referral code is already in the link: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+      "text": "The referral link already applies the discount: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
       "label": "See the plans with the referral link",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -116680,7 +116680,7 @@ export const reviewsData: unknown[] = [
           "**Protokoll:** Aktionen, Statuswechsel, Kosten, Freigaben und Kommentare werden festgehalten. So lässt sich später nachvollziehen, was passiert ist und warum."
         ],
         "postParagraphs": [
-          "Der Unterschied zu einem einzelnen Agenten liegt im Format. Ein Assistent wie [OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ist eine digitale Helferin, mit der Sie von Anfang bis Ende schreiben. Paperclip ist der Besprechungsraum: Sie legen die Rollen fest und lassen das Team unter Budget- und Freigaberegeln arbeiten. Für den persönlichen Gebrauch reicht meist ein einzelner Agent. Ein Team ergibt Sinn, wenn Sie mehrere Arbeitsstränge haben und die Ausgaben jedes einzelnen kontrollieren wollen."
+          "Der Unterschied zu einem einzelnen Agenten liegt im Format. Ein Assistent wie [OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ist eine digitale Helferin, mit der Sie von Anfang bis Ende im Chat arbeiten. Paperclip ist der Besprechungsraum: Sie legen die Rollen fest und lassen das Team unter Budget- und Freigaberegeln arbeiten. Für den persönlichen Gebrauch reicht meist ein einzelner Agent. Ein Team ergibt Sinn, wenn Sie mehrere Arbeitsstränge haben und die Ausgaben jedes einzelnen kontrollieren wollen."
         ]
       },
       {
@@ -116693,7 +116693,7 @@ export const reviewsData: unknown[] = [
           "**Lizenz.** MIT. Das heißt: Der Code ist offen, jede Person kann ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die Version zu pflegen, die Sie installiert haben.",
           "**Wo es läuft.** Sie entscheiden. Paperclip kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Angebot von Hostinger laufen. Die Projektseite sagt, dass die selbst gehostete Version kein Konto bei Paperclip verlangt.",
           "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Beim VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ liegen, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz liegen. Das ist die Beschreibung von Hostinger, keine eigene Prüfung von uns.",
-          "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In der Richtlinie des Repositorys haben wir keine unterstützten Versionen, keine unabhängige Prüfung und keine veröffentlichten Advisories gefunden."
+          "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In dieser Lesung haben wir unterstützte Versionen, eine unabhängige Prüfung und veröffentlichte Advisories nicht geprüft."
         ],
         "postParagraphs": [
           "**Was sich nicht sagen lässt.** Für diesen Leitfaden gibt es keine öffentliche, verifizierte Sicherheitsprüfung. Es fehlen auch unabhängige Bewertungen oder Urteile Dritter zum Produkt, etwa beim Reclame Aqui. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihr Bankkonto oder andere Konten verdient besondere Vorsicht, egal welche Software. Zur Firma, die hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
@@ -116739,7 +116739,7 @@ export const reviewsData: unknown[] = [
             [
               "Backups",
               "Hostinger, laut der Seite des verwalteten Angebots",
-              "Die VPS-Seite nennt keine Häufigkeit; prüfen Sie es im Panel"
+              "Wöchentlich, laut der VPS-Seite"
             ],
             [
               "Datenbank (Postgres)",
@@ -116786,25 +116786,25 @@ export const reviewsData: unknown[] = [
             [
               "VPS KVM 1 (1 vCPU, 4 GB, 50 GB)",
               "6,49 USD pro Monat",
-              "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+              "Im Warenkorb angezeigt",
               "11,99 USD pro Monat"
             ],
             [
               "VPS KVM 2 (2 vCPU, 8 GB, 100 GB)",
               "8,79 USD pro Monat",
-              "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+              "Im Warenkorb angezeigt",
               "14,99 USD pro Monat"
             ],
             [
               "VPS KVM 4 (4 vCPU, 16 GB, 200 GB)",
               "12,99 USD pro Monat",
-              "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+              "Im Warenkorb angezeigt",
               "28,99 USD pro Monat"
             ],
             [
               "VPS KVM 8 (8 vCPU, 32 GB, 400 GB)",
               "25,99 USD pro Monat",
-              "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+              "Im Warenkorb angezeigt",
               "49,99 USD pro Monat"
             ]
           ]
@@ -117175,7 +117175,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip est un orchestrateur open source d'équipes d'agents d'IA (MIT). Voyez ce que vous pouvez vérifier, et géré ou VPS chez Hostinger.",
+    "description": "Paperclip est un orchestrateur open source d'équipes d'agents d'IA (MIT). Voyez ce que vous pouvez vérifier, et si géré ou VPS vous convient chez Hostinger.",
     "metaDescription": "Paperclip AI : ce que c'est, qui le maintient, ce que vous pouvez vérifier et comment le faire tourner chez Hostinger, géré ou VPS, prix du 21 octobre 2026.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
@@ -117224,7 +117224,7 @@ export const reviewsData: unknown[] = [
           "**Licence.** MIT. Cela signifie que le code est ouvert : n'importe qui peut le lire, l'auditer et l'utiliser. Cela signifie aussi que personne n'est obligé de maintenir la version que vous avez installée.",
           "**Où il tourne.** Vous choisissez. Vous pouvez le faire tourner sur votre ordinateur, sur un serveur à vous ou dans l'offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée ne demande pas de compte Paperclip.",
           "**Où sont les clés et les données.** Cela dépend de la voie. Sur le VPS, Hostinger affirme elle-même que les données sensibles, la mémoire des agents et les identifiants d'API restent « entièrement dans votre infrastructure », c'est-à-dire sur le serveur que vous avez loué. Sur l'offre gérée, la page indique que les clés restent dans votre instance gérée. C'est la description de Hostinger, pas un audit de notre part.",
-          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées par la fonction Security Advisory de GitHub, et non dans des tickets publics. Dans la politique du dépôt, nous n'avons trouvé ni versions prises en charge, ni audit indépendant, ni avis de sécurité publiés.",
+          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées par la fonction Security Advisory de GitHub, et non dans des tickets publics. Dans cette lecture, nous n'avons pas vérifié de versions prises en charge, d'audit indépendant ni d'avis de sécurité publiés.",
           "**Ce qu'on ne peut pas affirmer.** Il n'existe pas d'audit de sécurité public vérifié pour ce guide. Il n'y a pas non plus de revue indépendante ni de note de tiers, comme Reclame Aqui, pour le produit. Le nombre d'étoiles sur GitHub indique la popularité, pas la sécurité. Un agent qui a accès à votre messagerie, à votre banque ou à d'autres comptes mérite une vigilance accrue, quel que soit le logiciel. Sur l'entreprise qui l'héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
@@ -117268,7 +117268,7 @@ export const reviewsData: unknown[] = [
             [
               "Sauvegardes",
               "Hostinger, selon la page de l'offre gérée",
-              "La page du VPS n'indique pas la fréquence ; vérifiez dans le panneau"
+              "Hebdomadaires, selon la page du VPS"
             ],
             [
               "Base de données (Postgres)",
@@ -117438,7 +117438,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip is an open-source orchestrator for teams of AI agents (MIT). See what you can check, and managed or VPS on Hostinger.",
+    "description": "Paperclip is an open-source orchestrator for teams of AI agents (MIT). See what you can check, and whether managed or VPS suits you on Hostinger.",
     "metaDescription": "Paperclip AI: what it is, who maintains it, what you can check and how to run it on Hostinger, managed or VPS, with prices from October 21, 2026.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
@@ -117487,7 +117487,7 @@ export const reviewsData: unknown[] = [
           "**License.** MIT. It means the code is open: anyone can read, audit and use it. It also means no one is obliged to keep maintaining the version you installed.",
           "**Where it runs.** You choose. You can run it on your computer, on your own server or on Hostinger's managed plan. The project site says the self-hosted version does not require a Paperclip account.",
           "**Where the keys and data stay.** It depends on the path. On the VPS, Hostinger itself says sensitive data, agent memory and API credentials stay “entirely in your infrastructure”, meaning the server you rented. On managed, the page says the keys stay in your managed instance. That is Hostinger's description, not an audit by us.",
-          "**Code security.** The repository asks that vulnerabilities be reported through GitHub's Security Advisory feature, not in public issues. In the repository's policy, we did not find supported versions, an independent audit or published advisories.",
+          "**Code security.** The repository asks that vulnerabilities be reported through GitHub's Security Advisory feature, not in public issues. In this reading, we did not verify supported versions, an independent audit or published advisories.",
           "**What cannot be claimed.** There is no verified public security audit for this guide. There is also no independent review or third-party rating, such as Reclame Aqui, for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. About the company that hosts it, see [whether Hostinger is reliable](/en/reviews/is-hostinger-legit)."
         ]
       },
@@ -117531,7 +117531,7 @@ export const reviewsData: unknown[] = [
             [
               "Backups",
               "Hostinger, according to the managed page",
-              "The VPS page does not say how often; check the panel"
+              "Weekly, according to the VPS page"
             ],
             [
               "Database (Postgres)",
@@ -117701,7 +117701,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip はAIエージェントのチームを管理する、オープンソース（MIT）のツールです。確認できること、Hostinger でマネージドにするか VPS にするか。",
+    "description": "Paperclip は AI エージェントのチームを管理する、オープンソース（MIT）のツールです。確認できること、Hostinger でマネージドにするか VPS にするか。",
     "metaDescription": "Paperclip AI とは何か、誰が運営しているか、何を確認できるか、Hostinger でマネージドか VPS で動かすか。2026年10月21日の米ドル建ての料金つき。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
@@ -117897,7 +117897,7 @@ export const reviewsData: unknown[] = [
           "Paperclip は信頼できますか？ 判定は下せません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を運営者として示していること、セキュリティの問題が GitHub の公式窓口で報告されることです。読んだ情報源には、独立した監査は見つかりませんでした（2026年10月21日時点）。",
           "API キーは必要ですか？ はい。マネージドと VPS では、ご自身のキーを用意するよう Paperclip のページで求められます。コンピューターで動かす場合、README は Claude や Codex のサブスクリプションでのログインも認めており、API キーは不要です。",
           "Ollama で動きますか？ 接続するエージェントによります。Paperclip の README には Ollama（自分のコンピューターで AI モデルを動かすプログラム）の記載はありません。OpenClaw はローカルのモデルに対応していると文書化されていますが、Paperclip ではモデルは接続するエージェント側にあります。",
-          "Paperclip の Hostinger クーポンはありますか？ コードの入力はありません。紹介リンクから自動で 20% の割引が適用されます。最初の期間のみ、12か月以上のプランに限られ、他のクーポンとは併用できません。"
+          "紹介リンクで割引を受けられますか？ はい。コードの入力は不要です。紹介リンクから最初の期間に 20% の割引が付き、12か月以上のプランに限られ、他のクーポンとは併用できません。"
         ]
       },
       {
@@ -118262,7 +118262,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**组织架构图：** 谁向谁汇报的结构。营销代理向负责策略的上级代理汇报，依此类推。",
-          "**Heartbeats（心跳）：** 名称来自“心跳”。代理并不会一直运行。它在收到工作、后续消息或排程时被“唤醒”，确认该做什么、去做，然后再进入休眠。",
+          "**Heartbeats（心跳）：** 名称来自“心跳”。代理并不会一直运行。它在收到工作、后续消息或定时任务时被“唤醒”，确认该做什么、去做，然后再进入休眠。",
           "**每个代理的预算：** 可以为每个代理、每个项目以及整家公司设定上限。达到上限时，工作会暂停。AI 每次回应都会花钱，这笔费用由模型供应商向你收取。",
           "**审批：** 工作进入下一步前，可以要求审查；新代理的聘用可以由你审批；也可以暂停工作、重新分配任务。",
           "**审计记录：** 操作、状态变化、费用、审批和评论都会被记录。之后可以查看发生了什么，以及原因。"
@@ -118275,7 +118275,7 @@ export const reviewsData: unknown[] = [
         "heading": "靠不靠谱？可以确认的事",
         "paragraphs": [
           "“靠谱”是个大词。我们把可以查证的和无法查证的分开来看。",
-          "**由谁维护。** 根据官方仓库 github.com/paperclipai/paperclip，项目由 Paperclip 团队维护，版权声明写的是“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向的也是同一个仓库。不要和搜索结果中的分支或复制版本混为一谈。",
+          "**由谁维护。** 根据官方仓库 github.com/paperclipai/paperclip，项目由 Paperclip 团队维护，版权声明写的是“MIT © 2026 Paperclip Labs, Inc.”。项目网站 paperclip.ing 指向的也是同一个仓库。不要和搜索结果中的复刻版或副本混为一谈。",
           "**许可。** MIT。这代表代码是公开的，任何人都能阅读、审计和使用。也代表没有人有义务维护你安装的那个版本。",
           "**在哪里运行。** 由你选择。可以在自己的电脑、自建的服务器，或 Hostinger 的托管方案上运行。项目网站说，自建版本不需要 Paperclip 账号。",
           "**密钥和数据存在哪里。** 取决于使用方式。在 VPS 上，Hostinger 说敏感数据、代理的记忆和 API 凭证“完全保存在你的基础设施内”，也就是你租用的那台服务器。在托管方案上，页面说密钥保存在你的托管实例中。这是 Hostinger 的说法，不是我们的审计结果。",
@@ -118395,7 +118395,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "以上是 Hostinger 全球页面上以美元计价的价格。在你所在的国家，可能会显示其他货币和税费。付款前请在结账页面确认金额。",
-          "RAM 是服务器的内存，vCPU 是处理器的核心。VPS 套餐越大，内存和运算能力越多。我们读过的页面没有列出 Paperclip 的最低内存需求。KVM 1 是起点，能否够用取决于你要运行多少个代理。",
+          "RAM 是服务器的内存，vCPU 是处理器的核心。VPS 套餐越大，内存和运算能力越多。我们读过的页面没有列出 Paperclip 的最低内存需求。KVM 1 是起点，够不够用取决于你要运行多少个代理。",
           "Hostinger 目前正在进行黑色星期五活动，价格会有变动。请参考 [Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，并在付款前于结账页面确认金额。"
         ]
       },
@@ -118426,7 +118426,7 @@ export const reviewsData: unknown[] = [
           "Paperclip 靠谱吗？ 无法给出定论。我们能确认的是：代码是公开的；仓库把 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）列为负责方；安全问题通过 GitHub 的官方渠道报告。在 2026年10月21日读过的资料来源中，没有找到独立审计。",
           "需要 API 密钥吗？ 需要。在托管和 VPS 上，Paperclip 页面要求你提供自己的密钥。在电脑上运行时，README 也允许使用 Claude 或 Codex 的订阅登录，不需要 API 密钥。",
           "可以用 Ollama 运行吗？ 要看你连接的代理。Paperclip 的 README 没有提到 Ollama（一种在自己电脑上运行 AI 模型的程序）。OpenClaw 有文档说明支持本地模型，但在 Paperclip 中，模型取决于你连接的代理。",
-          "Paperclip 有 Hostinger 优惠券吗？ 不需要输入代码。推荐链接会自动套用 20% 折扣，只限首期、12 个月或以上的套餐，不能与其他优惠券叠加。"
+          "可以用推荐链接拿到折扣吗？ 可以，不需要输入代码。推荐链接会自动套用 20% 折扣，只限首期、12 个月或以上的套餐，不能与其他优惠券叠加。"
         ]
       },
       {
@@ -118510,7 +118510,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Paperclip 是用來組織 AI 代理團隊的程式。它不是只放一個助理，而是為團隊設定職位、目標，以及每個代理的花費上限。Paperclip 本身不運行 AI 模型。它負責協調用其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。程式碼採用 MIT 授權的開源方式。官方儲存庫說明，專案由 Paperclip 團隊維護。",
           "在 Hostinger 上有兩種運行方式。**託管** 適合不想管伺服器的人，資料庫、更新和備份都由 Hostinger 負責。**VPS** 是租來的伺服器，搭配 Docker 使用，安全性和更新由你負責。兩種方式下，Claude、OpenAI 等 AI 金鑰都是你自己的。Paperclip 託管版的頁面沒有列出 Hostinger 的 AI 額度。",
-          "截至 2026年10月21日，在 Hostinger 全球頁面（美元計價、24 個月方案）上，透過推薦連結的託管為 **US$ 3.99/月**（不用推薦連結為 US$ 4.99/月）。續費為 **US$ 11.99/月**。"
+          "截至 2026年10月21日，在 Hostinger 全球頁面（美元計價、24 個月方案）上，透過推薦連結的託管為 **US$ 3.99/月**（不用推薦連結為 US$ 4.99/月）。續約為 **US$ 11.99/月**。"
         ]
       },
       {
@@ -118538,12 +118538,12 @@ export const reviewsData: unknown[] = [
         "heading": "可不可靠？可以確認的事",
         "paragraphs": [
           "「可靠」是個大詞。我們把可以查證的和無法查證的分開來看。",
-          "**由誰維護。** 根據官方儲存庫 github.com/paperclipai/paperclip，專案由 Paperclip 團隊維護，版權聲明寫的是「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向的也是同一個儲存庫。不要和搜尋結果中的分支或複製版本混為一談。",
+          "**由誰維護。** 根據官方儲存庫 github.com/paperclipai/paperclip，專案由 Paperclip 團隊維護，版權聲明寫的是「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向的也是同一個儲存庫。不要和搜尋結果中的 Fork 版本或複本混為一談。",
           "**授權。** MIT。這代表程式碼是公開的，任何人都能閱讀、稽核和使用。也代表沒有人有義務維護你安裝的那個版本。",
           "**在哪裡運行。** 由你選擇。可以在自己的電腦、自架的伺服器，或 Hostinger 的託管方案上運行。專案網站說，自架版本不需要 Paperclip 帳號。",
-          "**金鑰和資料存在哪裡。** 取決於使用方式。在 VPS 上，Hostinger 說機敏資料、代理的記憶和 API 憑證「完全保存在你的基礎設施內」，也就是你租用的那台伺服器。在託管方案上，頁面說金鑰保存在你的託管實例中。這是 Hostinger 的說法，不是我們的稽核結果。",
+          "**金鑰和資料存在哪裡。** 取決於使用方式。在 VPS 上，Hostinger 說敏感資料、代理的記憶和 API 憑證「完全保存在你的基礎設施內」，也就是你租用的那台伺服器。在託管方案上，頁面說金鑰保存在你的託管實例中。這是 Hostinger 的說法，不是我們的稽核結果。",
           "**程式碼安全。** 儲存庫要求以 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。在儲存庫的政策中，我們沒有找到支援的版本列表、獨立稽核或已發布的 advisory。",
-          "**無法肯定的事。** 本指南沒有經過驗證、公開的安全稽核。產品也沒有獨立評測，或像 Reclame Aqui 這類第三方評價。GitHub 的星標數代表受歡迎程度，不代表安全。能存取你的電郵、銀行或其他帳戶的代理，不論是哪套軟體，都需要格外小心。關於託管的公司，請看 [Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "**無法肯定的事。** 本指南沒有經過驗證、公開的安全稽核。產品也沒有獨立評測，或像 Reclame Aqui 這類第三方評價。GitHub 的星號數代表受歡迎程度，不代表安全。能存取你的電郵、銀行或其他帳戶的代理，不論是哪套軟體，都需要格外小心。關於託管的公司，請看 [Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
@@ -118621,7 +118621,7 @@ export const reviewsData: unknown[] = [
             "方案",
             "不用推薦連結",
             "用推薦連結",
-            "續費"
+            "續約"
           ],
           "rows": [
             [
@@ -118658,14 +118658,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "以上是 Hostinger 全球頁面上以美元計價的價格。在你所在的國家，可能會顯示其他貨幣和稅金。付款前請在結帳頁面確認金額。",
-          "RAM 是伺服器的記憶體，vCPU 是處理器的核心。VPS 方案越大，記憶體和運算能力越多。我們讀過的頁面沒有列出 Paperclip 的最低記憶體需求。KVM 1 是起點，能否夠用取決於你要運行多少個代理。",
+          "RAM 是伺服器的記憶體，vCPU 是處理器的核心。VPS 方案越大，記憶體和運算能力越多。我們讀過的頁面沒有列出 Paperclip 的最低記憶體需求。KVM 1 是起點，夠不夠用取決於你要運行多少個代理。",
           "Hostinger 目前正在進行黑色星期五活動，價格會有變動。請參考 [Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並在付款前於結帳頁面確認金額。"
         ]
       },
       {
         "heading": "推薦連結",
         "paragraphs": [
-          "使用推薦連結不需要輸入代碼。**只有首期** 享有 **20%** 折扣。適用於 12 個月或以上的方案，不能與其他優惠券疊加。續費按正常價格計算。完整規則請看 [推薦連結怎麼運作](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "使用推薦連結不需要輸入代碼。**只有首期** 享有 **20%** 折扣。適用於 12 個月或以上的方案，不能與其他優惠券疊加。續約按正常價格計算。完整規則請看 [推薦連結怎麼運作](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
       {
@@ -118689,7 +118689,7 @@ export const reviewsData: unknown[] = [
           "Paperclip 可靠嗎？ 無法給出定論。我們能確認的是：程式碼是公開的；儲存庫把 Paperclip 團隊（版權聲明中為 Paperclip Labs, Inc.）列為負責方；安全問題透過 GitHub 的官方管道回報。在 2026年10月21日讀過的資料來源中，沒有找到獨立稽核。",
           "需要 API 金鑰嗎？ 需要。在託管和 VPS 上，Paperclip 頁面要求你提供自己的金鑰。在電腦上運行時，README 也允許使用 Claude 或 Codex 的訂閱登入，不需要 API 金鑰。",
           "可以用 Ollama 運行嗎？ 要看你連接的代理。Paperclip 的 README 沒有提到 Ollama（一種在自己電腦上運行 AI 模型的程式）。OpenClaw 有文件說明支援本地模型，但在 Paperclip 中，模型取決於你連接的代理。",
-          "Paperclip 有 Hostinger 優惠券嗎？ 不需要輸入代碼。推薦連結會自動套用 20% 折扣，只限首期、12 個月或以上的方案，不能與其他優惠券疊加。"
+          "可以用推薦連結拿到折扣嗎？ 可以，不需要輸入代碼。推薦連結會自動套用 20% 折扣，只限首期、12 個月或以上的方案，不能與其他優惠券疊加。"
         ]
       },
       {
@@ -118702,7 +118702,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "推薦代碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
+      "text": "推薦碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
       "label": "透過推薦連結查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
       "sponsored": true
@@ -118756,7 +118756,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip é um orquestrador de equipes de agentes de IA, open source (MIT). Veja o que dá para conferir e gerenciado ou VPS na Hostinger.",
+    "description": "Paperclip é um orquestrador de equipes de agentes de IA, open source (MIT). Veja o que dá para conferir e se compensa gerenciado ou VPS na Hostinger.",
     "metaDescription": "Paperclip AI: o que é, quem mantém, o que dá para conferir e como rodar na Hostinger, gerenciado ou VPS, com preços de 21/10/2026.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -118804,7 +118804,7 @@ export const reviewsData: unknown[] = [
           "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
           "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",
           "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria nossa.",
-          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas. Não encontramos, na política do repositório, versões suportadas, auditoria independente ou advisories publicados.",
+          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas. Nesta leitura, não verificamos versões suportadas, auditoria independente nem advisories publicados.",
           "**O que não dá para afirmar.** Não há auditoria de segurança pública verificada para este guia. Também não há revisão independente nem nota de terceiros, como o Reclame Aqui, para o produto. O número de estrelas no GitHub mostra popularidade, não segurança. Um agente com acesso ao seu e-mail, ao banco ou a outras contas merece cuidado extra, seja qual for o software. Sobre a empresa que hospeda, veja [se a Hostinger é confiável](/reviews/hostinger-e-confiavel)."
         ]
       },
@@ -118848,7 +118848,7 @@ export const reviewsData: unknown[] = [
             [
               "Backups",
               "A Hostinger, segundo a página do gerenciado",
-              "A página do VPS não diz a frequência; confira no painel"
+              "Semanais, segundo a página do VPS"
             ],
             [
               "Banco de dados (Postgres)",
@@ -119017,7 +119017,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip es un orquestador de equipos de agentes de IA, de código abierto (MIT). Mira qué puedes comprobar y gestionado o VPS en Hostinger.",
+    "description": "Paperclip es un orquestador de equipos de agentes de IA, de código abierto (MIT). Mira qué puedes comprobar y si te conviene gestionado o VPS en Hostinger.",
     "metaDescription": "Paperclip AI: qué es, quién lo mantiene, qué puedes comprobar y cómo ejecutarlo en Hostinger, gestionado o VPS, con precios del 21 de octubre de 2026.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
@@ -119066,7 +119066,7 @@ export const reviewsData: unknown[] = [
           "**Licencia.** MIT. Significa que el código es abierto: cualquier persona puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
           "**Dónde funciona.** Tú eliges. Puedes ejecutarlo en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
           "**Dónde quedan las claves y los datos.** Depende del camino. En el VPS, la propia Hostinger dice que los datos sensibles, la memoria de los agentes y las credenciales de API quedan “por completo en tu infraestructura”, es decir, en el servidor que alquilaste. En el gestionado, la página dice que las claves quedan en tu instancia gestionada. Es la descripción de Hostinger, no una auditoría nuestra.",
-          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten por la función Security Advisory de GitHub, y no en incidencias públicas. En la política del repositorio no encontramos versiones con soporte, una auditoría independiente ni avisos de seguridad publicados.",
+          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten por la función Security Advisory de GitHub, y no en incidencias públicas. En esta lectura no verificamos versiones con soporte, una auditoría independiente ni avisos de seguridad publicados.",
           "**Lo que no se puede afirmar.** No hay una auditoría de seguridad pública verificada para esta guía. Tampoco hay una revisión independiente ni una calificación de terceros, como Reclame Aqui, para el producto. El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco u otras cuentas merece cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
         ]
       },
@@ -119110,7 +119110,7 @@ export const reviewsData: unknown[] = [
             [
               "Copias de seguridad",
               "Hostinger, según la página del gestionado",
-              "La página del VPS no dice la frecuencia; revísala en el panel"
+              "Semanales, según la página del VPS"
             ],
             [
               "Base de datos (Postgres)",
@@ -119219,7 +119219,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién escribe",
         "paragraphs": [
-          "Em Casa com Cecília funciona sobre Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger, consultados el 21 de octubre de 2026."
+          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger, consultados el 21 de octubre de 2026."
         ]
       }
     ],
@@ -119240,7 +119240,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "openclaw-hostinger-gestionado-o-vps",
-        "title": "OpenClaw en Hostinger: gestionado o VPS? Precio, qué exige cada uno y para quién sirve"
+        "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Precio, qué exige cada uno y para quién sirve"
       },
       {
         "slug": "cupon-hostinger-codigo-de-referido",

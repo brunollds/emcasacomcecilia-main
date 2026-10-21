@@ -45,7 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Choose **OpenClaw** if you want the widest range of messaging channels, a web interface (Control UI) and native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
+        "Choose **OpenClaw** if you want to connect the agent to many messaging channels, use a web interface (Control UI) and have native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
         "If you don't want to look after a server, Hostinger's managed plan serves both at the same price: US$3.99/month with the referral link, on a 24-month plan. The software is free in both cases; what you pay for is the server and the use of AI models."
       ]
     },
@@ -84,7 +84,7 @@
           ],
           [
             "Messaging channels",
-            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal and “20+ more”",
+            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal and more than 20 others",
             "Telegram, Discord, Slack, WhatsApp, Signal and CLI, through one gateway; the documentation lists more than 20 platforms, including Matrix, email, SMS and Microsoft Teams",
             "OpenClaw README; Hermes Agent README and documentation"
           ],
@@ -164,7 +164,7 @@
         "Before you start, confirm three things. They apply to both agents."
       ],
       "bullets": [
-        "**AI model.** The agent does not answer on its own: it asks a model from another company for replies. On Hostinger, you use the plan's AI credits or your own API key, the password the program uses to talk to the provider. The provider charges for that use, directly to you.",
+        "**AI model.** The agent does not answer on its own: it asks a model from another company for replies. On Hostinger, you use the plan's AI credits or your own API key, the key the program uses to talk to the provider. The provider charges for that use, directly to you.",
         "**A messaging channel.** Telegram is the simplest route. You create the bot in BotFather, Telegram's official bot for creating bots, and keep the token. WhatsApp joins as a linked device, by reading a QR code.",
         "**Who looks after the server.** On managed, Hostinger updates and maintains security. On the VPS, updates are yours, through the Update button in Docker Manager, and so is server security. Docker is the program that runs each application isolated in its own container."
       ],
@@ -178,7 +178,7 @@
         "The security policies of both projects say who the agent was built for. Read them before you decide how to expose it."
       ],
       "bullets": [
-        "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for a trusted operator, not for several people who don't know each other. Anyone who can talk to the agent can make it use its tools. For more than one person, the project recommends one server per person. Don't expose the agent directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
+        "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for a trusted operator, not for several people who don't know each other. Anyone who can talk to the agent can make it use its tools. For more than one person, the project recommends one server per person. Don't expose the gateway directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
         "**Hermes Agent** (SECURITY.md in the NousResearch/hermes-agent repository): built for a single person. Don't expose the gateway to the internet without a VPN, Tailscale or a firewall. Run the agent as a user without root privileges, and review third-party skills and plugins by reading the code, not just the SKILL.md file."
       ],
       "postParagraphs": [
@@ -270,7 +270,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "The referral code is already in the link: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+    "text": "The referral link already applies the discount: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
     "label": "See the plans with the referral link",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
     "sponsored": true

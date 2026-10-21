@@ -79,7 +79,7 @@
         "rows": [
           [
             "API key or Hostinger credits",
-            "No RAM number. The request goes to the provider (Anthropic, OpenAI, Google Gemini or xAI).",
+            "No RAM number. The request goes to the provider (for example Anthropic or OpenAI).",
             "No official number. KVM 1 is the starting point."
           ],
           [

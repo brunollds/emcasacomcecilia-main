@@ -78,7 +78,7 @@
         "rows": [
           [
             "Chave de API ou créditos da Hostinger",
-            "Nenhum número de RAM. O pedido vai ao provedor (Anthropic, OpenAI, Google Gemini ou xAI).",
+            "Nenhum número de RAM. O pedido vai ao provedor (por exemplo, Anthropic ou OpenAI).",
             "Sem número oficial. O KVM 1 é o ponto de partida."
           ],
           [

@@ -67,7 +67,7 @@
         "**Protokoll:** Aktionen, Statuswechsel, Kosten, Freigaben und Kommentare werden festgehalten. So lässt sich später nachvollziehen, was passiert ist und warum."
       ],
       "postParagraphs": [
-        "Der Unterschied zu einem einzelnen Agenten liegt im Format. Ein Assistent wie [OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ist eine digitale Helferin, mit der Sie von Anfang bis Ende schreiben. Paperclip ist der Besprechungsraum: Sie legen die Rollen fest und lassen das Team unter Budget- und Freigaberegeln arbeiten. Für den persönlichen Gebrauch reicht meist ein einzelner Agent. Ein Team ergibt Sinn, wenn Sie mehrere Arbeitsstränge haben und die Ausgaben jedes einzelnen kontrollieren wollen."
+        "Der Unterschied zu einem einzelnen Agenten liegt im Format. Ein Assistent wie [OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ist eine digitale Helferin, mit der Sie von Anfang bis Ende im Chat arbeiten. Paperclip ist der Besprechungsraum: Sie legen die Rollen fest und lassen das Team unter Budget- und Freigaberegeln arbeiten. Für den persönlichen Gebrauch reicht meist ein einzelner Agent. Ein Team ergibt Sinn, wenn Sie mehrere Arbeitsstränge haben und die Ausgaben jedes einzelnen kontrollieren wollen."
       ]
     },
     {
@@ -80,7 +80,7 @@
         "**Lizenz.** MIT. Das heißt: Der Code ist offen, jede Person kann ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die Version zu pflegen, die Sie installiert haben.",
         "**Wo es läuft.** Sie entscheiden. Paperclip kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Angebot von Hostinger laufen. Die Projektseite sagt, dass die selbst gehostete Version kein Konto bei Paperclip verlangt.",
         "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Beim VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ liegen, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz liegen. Das ist die Beschreibung von Hostinger, keine eigene Prüfung von uns.",
-        "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In der Richtlinie des Repositorys haben wir keine unterstützten Versionen, keine unabhängige Prüfung und keine veröffentlichten Advisories gefunden."
+        "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In dieser Lesung haben wir unterstützte Versionen, eine unabhängige Prüfung und veröffentlichte Advisories nicht geprüft."
       ],
       "postParagraphs": [
         "**Was sich nicht sagen lässt.** Für diesen Leitfaden gibt es keine öffentliche, verifizierte Sicherheitsprüfung. Es fehlen auch unabhängige Bewertungen oder Urteile Dritter zum Produkt, etwa beim Reclame Aqui. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihr Bankkonto oder andere Konten verdient besondere Vorsicht, egal welche Software. Zur Firma, die hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
@@ -126,7 +126,7 @@
           [
             "Backups",
             "Hostinger, laut der Seite des verwalteten Angebots",
-            "Die VPS-Seite nennt keine Häufigkeit; prüfen Sie es im Panel"
+            "Wöchentlich, laut der VPS-Seite"
           ],
           [
             "Datenbank (Postgres)",
@@ -173,25 +173,25 @@
           [
             "VPS KVM 1 (1 vCPU, 4 GB, 50 GB)",
             "6,49 USD pro Monat",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+            "Im Warenkorb angezeigt",
             "11,99 USD pro Monat"
           ],
           [
             "VPS KVM 2 (2 vCPU, 8 GB, 100 GB)",
             "8,79 USD pro Monat",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+            "Im Warenkorb angezeigt",
             "14,99 USD pro Monat"
           ],
           [
             "VPS KVM 4 (4 vCPU, 16 GB, 200 GB)",
             "12,99 USD pro Monat",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+            "Im Warenkorb angezeigt",
             "28,99 USD pro Monat"
           ],
           [
             "VPS KVM 8 (8 vCPU, 32 GB, 400 GB)",
             "25,99 USD pro Monat",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
+            "Im Warenkorb angezeigt",
             "49,99 USD pro Monat"
           ]
         ]

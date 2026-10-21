@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Choisissez **OpenClaw** si vous voulez le plus grand choix de canaux de messagerie, une interface web (Control UI) et des applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
+        "Choisissez **OpenClaw** si vous voulez relier l'agent à de nombreux canaux de messagerie, utiliser une interface web (Control UI) et disposer d'applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
         "Si vous ne voulez pas gérer de serveur, l'offre gérée de Hostinger couvre les deux au même prix : 3,99 US$/mois avec le lien de parrainage, sur un forfait de 24 mois. Le logiciel est gratuit dans les deux cas ; ce que vous payez, ce sont le serveur et l'usage des modèles d'IA."
       ]
     },
@@ -53,7 +53,7 @@
       "heading": "Ce qu'est chacun",
       "paragraphs": [
         "OpenClaw et Hermes Agent sont des assistants d'IA open source, sous licence MIT. Vous les installez pour les faire tourner vous-même et discuter via Telegram, WhatsApp ou une autre application de messagerie. La licence ne coûte rien ; ce qui change, c'est l'interface, la mémoire et l'organisation qui maintient le projet.",
-        "**OpenClaw** est maintenu par la OpenClaw Foundation, une organisation à but non lucratif. Selon le README officiel, l'état, la mémoire et les identifiants restent sur l'équipement où il tourne, et le projet n'a ni offre payante, ni service hébergé, ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, il peut être pris en géré ou en VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
+        "**OpenClaw** est maintenu par la OpenClaw Foundation, une organisation à but non lucratif. Selon le README officiel, l'état, la mémoire et les identifiants restent sur l'équipement où il tourne, et le projet n'a ni offre payante, ni service hébergé, ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, il peut être souscrit en offre gérée ou en VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
         "**Hermes Agent** est développé par Nous Research, une entreprise qui conçoit des modèles d'IA. Sa particularité est le cycle d'apprentissage : l'agent organise sa mémoire entre les sessions, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Il dispose d'un terminal complet et de Hermes Desktop, une application de bureau avec installateur pour Windows et macOS. La page du projet n'indique aucun prix pour le logiciel. Elle mentionne Nous Portal, un abonnement avec des outils comme la recherche web, la navigation et la génération d'images, sans montant indiqué. Nous Portal est une façon de payer le modèle, pas la seule."
       ]
     },
@@ -84,7 +84,7 @@
           ],
           [
             "Canaux de messagerie",
-            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal et « 20+ more »",
+            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal et plus de 20 autres",
             "Telegram, Discord, Slack, WhatsApp, Signal et CLI, par une passerelle ; la documentation liste plus de 20 plateformes, dont Matrix, e-mail, SMS et Microsoft Teams",
             "README d'OpenClaw ; README et documentation d'Hermes Agent"
           ],
@@ -164,7 +164,7 @@
         "Avant de commencer, vérifiez trois points. Ils valent pour les deux agents."
       ],
       "bullets": [
-        "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, le mot de passe que le programme emploie pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
+        "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, celle que le programme utilise pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
         "**Un canal de messagerie.** Telegram est le plus simple. Vous créez le bot avec BotFather, le bot officiel de Telegram pour créer des bots, et vous gardez le jeton. WhatsApp s'ajoute comme appareil lié, par lecture d'un QR code.",
         "**Qui s'occupe du serveur.** En géré, Hostinger met à jour et assure la sécurité. En VPS, la mise à jour est à votre charge, avec le bouton Update de Docker Manager, et la sécurité du serveur aussi. Docker est le programme qui fait tourner chaque application isolée dans un conteneur."
       ],
@@ -178,7 +178,7 @@
         "Les politiques de sécurité des deux projets disent à qui l'agent est destiné. Lisez-les avant de décider comment l'exposer."
       ],
       "bullets": [
-        "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, et non pour plusieurs personnes qui ne se connaissent pas. Qui peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas l'agent directement à internet. Les plugins tournent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
+        "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, et non pour plusieurs personnes qui ne se connaissent pas. Qui peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas le gateway directement à internet. Les plugins tournent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
         "**Hermes Agent** (SECURITY.md du dépôt NousResearch/hermes-agent) : conçu pour une seule personne. N'exposez pas la passerelle à internet sans VPN, Tailscale ou pare-feu. Faites tourner l'agent avec un utilisateur sans privilèges root, et relisez le code des skills et plugins tiers, pas seulement le fichier SKILL.md."
       ],
       "postParagraphs": [
@@ -270,7 +270,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Le code de parrainage est déjà dans le lien : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+    "text": "Le lien de parrainage applique déjà la réduction : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
     "label": "Voir les forfaits avec le lien de parrainage",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
     "sponsored": true
