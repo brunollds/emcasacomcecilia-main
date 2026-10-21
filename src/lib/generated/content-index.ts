@@ -104278,5 +104278,663 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
       }
     ]
+  },
+  {
+    "id": 532,
+    "slug": "mais-mu-ou-growth",
+    "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço",
+    "seoTitle": "Mais Mu ou Growth: whey e creatina por 100 g, com preço",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mais Mu ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína e creatina por 100 g, preço no cartão, Pix e o cupom MMEMCASACOMCECILIA. Preços de 21/10/2026.",
+    "metaDescription": "Mais Mu ou Growth: whey e creatina por 100 g de proteína e de creatina, com preço no cartão, no Pix e com cupom. Preços de 21/10/2026.",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+    "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Preços de 21/10/2026: a Growth sai mais barata no whey em todas as formas de pagamento, e na creatina a Mais Mu ganha quando entra o cupom."
+        ],
+        "bullets": [
+          "**Whey concentrado:** a Growth sai a R$ 29,26 por 100 g de proteína no cartão; o [Whey Protein Concentrado Mais Mu baunilha refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) sai a R$ 50,00, a menor conta da Mais Mu.",
+          "**Whey isolado:** a Growth sai a R$ 43,63; o [Whey Protein Isolado Mais Mu baunilha refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) sai a R$ 71,63.",
+          "**Creatina sem sabor:** a [Creatina Mais Mu sem sabor refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 15,98 por 100 g no cartão, contra R$ 16,64 do pouch de 500 g da Growth. No Pix sem cupom, a Growth vira: R$ 14,98 contra R$ 15,50."
+        ],
+        "postParagraphs": [
+          "Com o cupom [MMEMCASACOMCECILIA](/cupons/mais-mu), que dá 10% em todas as formas de pagamento e soma com os 3% do Pix, o refil de creatina da Mais Mu cai a R$ 13,95 por 100 g; a Growth não tem cupom neste site."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Comparamos o que as duas lojas publicam: a dose e a proteína por dose do rótulo ou da tabela nutricional, o preço no site e as regras de cupom e de Pix. Os preços são de 21/10/2026, sem frete. Os da Mais Mu saem das páginas de produto; os da Growth, do site dela lido no navegador, com os mesmos valores de 18/10/2026.",
+          "A série contra a Growth tem outros três textos: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). Quem quer a comparação com a Dux lê [Mais Mu ou Dux](/reviews/mais-mu-ou-dux).",
+          "As contas são nossas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
+          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
+          "**com cupom:** preço no cartão × 0,90, os 10% do cupom;",
+          "**com cupom e Pix:** preço no cartão × 0,873, com o cupom e depois os 3% do Pix."
+        ],
+        "postParagraphs": [
+          "O Pix da Growth fica cerca de 10% abaixo do cartão, e o da Mais Mu, 3%. O passo a passo do cupom está em [como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar).",
+          "Ninguém da equipe provou os produtos. Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, dose e preço. Dúvida sobre suplemento: fale antes com um médico ou um nutricionista."
+        ]
+      },
+      {
+        "heading": "Whey concentrado: Mais Mu ou Growth",
+        "paragraphs": [
+          "A Growth declara 23 g de proteína em cada dose de 30 g do concentrado de 1 kg. A Mais Mu declara 20 g em cada dose de 36 g. Por isso a conta é por 100 g de proteína, e não pelo preço do pote."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Porções",
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
+          ],
+          "rows": [
+            [
+              "[Whey Protein Concentrado Mais Mu baunilha pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/)",
+              "36 g, 20 g de proteína",
+              "cerca de 13",
+              "R$ 159,99",
+              "R$ 61,53"
+            ],
+            [
+              "[Whey Protein Concentrado Mais Mu baunilha refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/)",
+              "36 g, 20 g de proteína",
+              "25",
+              "R$ 279,99",
+              "R$ 56,00"
+            ],
+            [
+              "[Whey Protein Concentrado Mais Mu baunilha refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/)",
+              "36 g, 20 g de proteína",
+              "50",
+              "R$ 499,99",
+              "R$ 50,00"
+            ],
+            [
+              "Growth Whey Protein Concentrado 1 kg",
+              "30 g, 23 g de proteína",
+              "cerca de 33",
+              "R$ 222,11",
+              "R$ 29,26"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o refil de 1,8 kg da Mais Mu sai a R$ 48,50 por 100 g de proteína, e a Growth, a R$ 26,34; com o cupom e o Pix somados, o mesmo refil de 1,8 kg cai para R$ 43,65.",
+          "A Growth fica abaixo de todas as linhas de concentrado desta conta, inclusive do refil de 1,8 kg da Mais Mu com cupom e Pix. O refil de 900 g, que tem a mesma dose de 36 g, sai a R$ 56,00 no cartão."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+            "alt": "Whey Protein Concentrado Mais Mu sabor baunilha no pote de 450 g, no refil de 900 g e no refil de 1,8 kg",
+            "caption": "As três embalagens do whey concentrado baunilha da Mais Mu citadas na tabela. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Whey isolado: Mais Mu ou Growth",
+        "paragraphs": [
+          "O isolado da Growth declara 27 g de proteína em cada dose de 30 g, com 33 porções no pote de 1 kg. O refil de 900 g da Mais Mu declara 22 g em cada dose de 27 g, com 33 porções."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Porções",
+            "Cartão",
+            "Por 100 g de proteína (cartão)"
+          ],
+          "rows": [
+            [
+              "[Whey Protein Isolado Mais Mu baunilha refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/)",
+              "27 g, 22 g de proteína",
+              "33",
+              "R$ 520,00",
+              "R$ 71,63"
+            ],
+            [
+              "[Whey Isolado Mais Mu baunilha pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/)",
+              "27 g, 22 g de proteína",
+              "16",
+              "R$ 299,99",
+              "R$ 85,22"
+            ],
+            [
+              "Growth Whey Protein Isolado 1 kg",
+              "30 g, 27 g de proteína",
+              "33",
+              "R$ 388,77",
+              "R$ 43,63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o refil de 900 g da Mais Mu sai a R$ 69,48 por 100 g de proteína, e a Growth, a R$ 39,27; com o cupom e o Pix somados, o refil cai para R$ 62,53.",
+          "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem dose de 25 g e 22 g de proteína no rótulo, com 18 porções: sai a R$ 75,76 por 100 g no cartão, R$ 73,48 no Pix e R$ 66,13 com cupom e Pix."
+        ]
+      },
+      {
+        "heading": "Creatina: refil de 500 g sem sabor contra o pouch da Growth",
+        "paragraphs": [
+          "A dose da creatina sem sabor da Mais Mu é de 3 g, e a da Growth, de 5 g; por isso a conta é por 100 g. Por dose, a Mais Mu sai menor: R$ 0,48 no refil, contra R$ 0,83 no pouch da Growth, no cartão."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e porções",
+            "Cartão",
+            "Por 100 g (cartão)"
+          ],
+          "rows": [
+            [
+              "[Creatina Mais Mu sem sabor refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
+              "3 g, cerca de 167",
+              "R$ 79,90",
+              "R$ 15,98"
+            ],
+            [
+              "[Creatina Mais Mu refil melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
+              "3,5 g, cerca de 143",
+              "R$ 79,90",
+              "R$ 15,98"
+            ],
+            [
+              "[Creatina Mais Mu limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
+              "3,5 g, 60",
+              "R$ 64,90",
+              "R$ 30,90"
+            ],
+            [
+              "[Creatina Mais Mu sem sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
+              "3 g, 66",
+              "R$ 64,90",
+              "R$ 32,45"
+            ],
+            [
+              "Growth Creatina Monohidratada refil pouch 500 g",
+              "5 g, 100",
+              "R$ 83,22",
+              "R$ 16,64"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o refil sem sabor sai a R$ 15,50 por 100 g, e o pouch da Growth, a R$ 14,98; com o cupom e o Pix somados, o refil cai para R$ 13,95.",
+          "O pote de 200 g sem sabor é o mais caro por grama desta tabela, e os sabores de limonada e de melancia seguem o preço de cada linha. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+            "alt": "Creatina Mais Mu sem sabor no pote de 200 g e no refil de 500 g",
+            "caption": "A creatina sem sabor da Mais Mu no pote de 200 g e no refil de 500 g. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Onde a Growth ganha e onde a Mais Mu ganha",
+        "paragraphs": [
+          "A comparação só fica justa com o lado de cada loja:"
+        ],
+        "bullets": [
+          "**A Growth ganha no whey, em todas as formas de pagamento.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, e o isolado, a R$ 39,27. A melhor conta da Mais Mu, com cupom e Pix, é de R$ 43,65 no concentrado de 1,8 kg e de R$ 62,53 no isolado de 900 g.",
+          "**A Growth ganha na proteína por dose.** São 23 g em 30 g no concentrado, contra 20 g em 36 g da Mais Mu.",
+          "**A Growth ganha na creatina no Pix, sem cupom.** O pouch de 500 g sai a R$ 14,98 por 100 g, contra R$ 15,50 do refil da Mais Mu.",
+          "**A Mais Mu ganha na creatina com o cupom.** O refil de 500 g sai a R$ 14,38 por 100 g com o cupom no cartão, e a R$ 13,95 com cupom e Pix, abaixo do pouch da Growth no Pix, que não tem cupom.",
+          "**A Mais Mu ganha na creatina no cartão, sem cupom.** São R$ 15,98 contra R$ 16,64 do pouch.",
+          "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, pelo mesmo preço por 100 g do sem sabor no refil de 500 g."
+        ],
+        "postParagraphs": [
+          "Não há um veredito único: a Growth vence no whey por proteína, mesmo contra o refil de 1,8 kg da Mais Mu com cupom e Pix, e a Mais Mu vence na creatina quando entra o cupom."
+        ]
+      },
+      {
+        "heading": "Creapure, pureza e alérgenos",
+        "paragraphs": [
+          "As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo. Quem procura o selo deve conferir o rótulo do pote antes de comprar.",
+          "O nome da creatina sem sabor diz 100% Pura, e o rótulo lista só creatina monohidratada. A Growth lista, nas páginas lidas, só creatina monohidratada e diz que não contém glúten.",
+          "No whey concentrado de baunilha, a página da Mais Mu declara derivados do leite e da soja e lactose, e diz que não contém glúten. Além da proteína concentrada do soro do leite, a lista traz aroma, goma xantana, cloreto de potássio e sucralose. O concentrado da Growth tem proteína de soro do leite concentrada e emulsificante lecitina, segundo a página dela.",
+          "O whey concentrado paçoquita tem \"contém glúten\" na página da Mais Mu; por isso a tabela usa o baunilha, que a página diz não conter glúten. O isolado baunilha da Mais Mu também diz \"não contém glúten\" e \"contém lactose\"."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "Pelos rótulos e pelos preços de 21/10/2026:"
+        ],
+        "bullets": [
+          "Quer o menor preço por 100 g de proteína no whey: a Growth concentrado de 1 kg, a R$ 26,34 no Pix. Na Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
+          "Quer isolado pelo menor preço: a Growth de 1 kg, a R$ 39,27 no Pix. Na Mais Mu, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 62,53 com cupom e Pix.",
+          "Quer creatina sem sabor com cupom: o [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 13,95 por 100 g com cupom e Pix.",
+          "Quer creatina no Pix sem cupom: o pouch de 500 g da Growth, a R$ 14,98 por 100 g.",
+          "Quer creatina com sabor: a [creatina limonada de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/) ou a [creatina refil melancia de 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/) da Mais Mu, a R$ 30,90 e a R$ 15,98 por 100 g no cartão.",
+          "Quer um produto com o selo Creapure: as páginas da Mais Mu lidas não declaram o selo; confira o rótulo do pote."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Mais Mu ou Growth: qual é melhor? Depende da linha: a Growth vence no whey por proteína, e a Mais Mu, na creatina com cupom.",
+          "Qual whey tem o menor preço por 100 g de proteína? A Growth concentrado de 1 kg, a R$ 26,34 no Pix; entre os da Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
+          "A Mais Mu é boa? Esta comparação responde só pelo rótulo, pela dose e pelo preço; a reputação e as reclamações da loja estão no [artigo sobre a confiança na Mais Mu](/reviews/mais-mu-e-confiavel).",
+          "A creatina da Mais Mu é pura? O nome do produto diz 100% Pura, e o rótulo do sem sabor lista só creatina monohidratada.",
+          "Tem selo Creapure? As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo; confira o rótulo do pote.",
+          "O cupom soma com o Pix? Sim. O cupom de 10% soma com os 3% do Pix, em sequência, e vale em todas as formas de pagamento. Não soma com o crédito do cashback nem com o desconto de boas-vindas.",
+          "Dá para usar o cupom no Mercado Livre? Não. O cupom vale só no site da Mais Mu; no [Mercado Livre](https://meli.la/24RjvdP) vale o preço do anúncio."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Mais Mu e aplique o cupom MMEMCASACOMCECILIA no checkout, em Adicionar cupom de desconto.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Mais Mu; a Growth não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-ou-dux",
+        "title": "Mais Mu ou Dux: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "probiotica-ou-growth",
+        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "slug": "mais-mu-ou-dux",
+    "title": "Mais Mu ou Dux: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Mais Mu ou Dux: whey e creatina por dose",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mais Mu ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, Creapure, Pix, frete e o cupom MMEMCASACOMCECILIA da Mais Mu. Preços de 21/10/2026.",
+    "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com cupom, Pix, Creapure e frete. Preços de 21/10/2026.",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+    "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço no cartão em 21/10/2026, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina; a Dux leva a proteína por dose, o Pix de 5% e a única Creapure declarada entre as duas."
+        ],
+        "bullets": [
+          "**Whey concentrado:** o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) sai a R$ 50,00 por 100 g de proteína, contra R$ 53,99 do 1,8 kg da Dux. A partir do [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/), a Mais Mu fica abaixo da Dux de 900 g: R$ 56,00 contra R$ 61,48.",
+          "**Whey isolado:** o [Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) sai a R$ 71,63 por 100 g de proteína, contra R$ 77,90 do isolado da Dux de 900 g.",
+          "**Creatina:** a [Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 15,98 por 100 g, contra R$ 21,63 da Dux de 300 g. A Creapure da Dux sai a R$ 91,63."
+        ],
+        "postParagraphs": [
+          "O cupom MMEMCASACOMCECILIA dá 10% em todo o site da Mais Mu, em todas as formas de pagamento, e soma com os 3% do Pix; a regra completa está na [página do cupom](/cupons/mais-mu). A Dux não tem cupom nosso e dá 5% no Pix."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Comparamos o que as duas lojas publicam: o rótulo nutricional de cada linha, o preço no site e as regras de pagamento e de frete. Os preços são de 21/10/2026, sem frete; os rótulos da Mais Mu foram lidos em 20/10/2026. As tabelas usam o preço no cartão, e o Pix e o cupom vêm numa frase logo abaixo de cada uma. Ninguém da equipe provou os produtos: sabor, dissolução e digestão ficam de fora. Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista.",
+          "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
+          "As contas são estas, arredondadas no centavo:"
+        ],
+        "bullets": [
+          "preço por dose: preço ÷ número de doses;",
+          "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
+          "preço por 100 g de creatina: preço ÷ gramas × 100;",
+          "com cupom: cartão × 0,90; com cupom e Pix: cartão × 0,873."
+        ],
+        "postParagraphs": [
+          "Pelo preço do pote, a comparação engana. A conta por 100 g de proteína iguala potes de tamanhos diferentes, e é a que usamos para o whey."
+        ]
+      },
+      {
+        "heading": "O que cada loja declara",
+        "paragraphs": [
+          "No whey concentrado, a Mais Mu declara 20 g de proteína por dose, com 36 g de pó. A página lista derivados do leite e da soja entre os alérgenos.",
+          "No whey isolado da Mais Mu, a página diz \"não contém glúten\" e \"contém lactose\" na linha baunilha. A dose é de 27 g, com 22 g de proteína.",
+          "Na creatina sem sabor, a Mais Mu diz \"100% Pura\", monohidratada e \"não é de origem animal\", e a página diz que não contém glúten.",
+          "A Dux diz \"proteína 100% pura, sem blends\" no concentrado e \"100% Creapure\" na linha Creapure. No isolado, a página da Dux diz \"contém glúten\" e \"contém lactose\"."
+        ]
+      },
+      {
+        "heading": "Whey concentrado: proteína por dose e preço por 100 g",
+        "paragraphs": [
+          "Preços de 21/10/2026 no cartão, sem cupom. As três linhas da Mais Mu têm a mesma dose, de 36 g de pó com 20 g de proteína. A Dux tem dose de 30 g, com 20 g de proteína."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Doses",
+            "Cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Whey Concentrado Mais Mu Baunilha 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/)",
+              "36 g, 20 g de proteína",
+              "cerca de 13",
+              "R$ 159,99",
+              "R$ 61,53"
+            ],
+            [
+              "[Whey Concentrado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/)",
+              "36 g, 20 g de proteína",
+              "25",
+              "R$ 279,99",
+              "R$ 56,00"
+            ],
+            [
+              "[Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/)",
+              "36 g, 20 g de proteína",
+              "50",
+              "R$ 499,99",
+              "R$ 50,00"
+            ],
+            [
+              "Dux Whey Concentrado Baunilha 900 g",
+              "30 g, 20 g de proteína",
+              "30",
+              "R$ 368,90",
+              "R$ 61,48"
+            ],
+            [
+              "Dux Whey Concentrado Baunilha 1,8 kg",
+              "30 g, 20 g de proteína",
+              "60 pelo peso",
+              "R$ 647,90",
+              "R$ 53,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, a conta fica em R$ 54,32 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 48,50 no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 48,89 no 900 g e R$ 43,65 no 1,8 kg.",
+          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso.",
+          "A linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína. Por dose, ela sai a R$ 10,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg.",
+          "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página. O baunilha, usado nesta tabela, diz \"não contém glúten\", segundo a página. A conta não muda por sabor."
+        ]
+      },
+      {
+        "heading": "Whey isolado: proteína por dose e preço por 100 g",
+        "paragraphs": [
+          "Preços de 21/10/2026 no cartão, sem cupom. A dose da Mais Mu é de 27 g com 22 g de proteína, exceto no sem sabor de 450 g, que tem 25 g de dose pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e proteína",
+            "Doses",
+            "Cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Whey Isolado Mais Mu Baunilha 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/)",
+              "27 g, 22 g de proteína",
+              "16",
+              "R$ 299,99",
+              "R$ 85,22"
+            ],
+            [
+              "[Whey Isolado Mais Mu Sem Sabor 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/)",
+              "25 g, 22 g de proteína",
+              "18",
+              "R$ 299,99",
+              "R$ 75,76"
+            ],
+            [
+              "[Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/)",
+              "27 g, 22 g de proteína",
+              "33",
+              "R$ 520,00",
+              "R$ 71,63"
+            ],
+            [
+              "Dux Whey Isolado 900 g",
+              "30 g na conta, 24 g de proteína",
+              "30 na conta",
+              "R$ 560,90",
+              "R$ 77,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) da Mais Mu sai a R$ 69,48 por 100 g de proteína, e o isolado da Dux de 900 g, a R$ 74,01. Com cupom e Pix, o refil da Mais Mu cai para R$ 62,53.",
+          "O refil de 900 g é o isolado mais barato por grama de proteína entre os da Mais Mu. O pote sem sabor de 450 g sai a R$ 75,76, e o baunilha de 450 g, a R$ 85,22."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+            "alt": "Whey Isolado Mais Mu baunilha e sem sabor no pote de 450 g e baunilha no refil de 900 g",
+            "caption": "Os três isolados da Mais Mu citados na tabela. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g e por dose",
+        "paragraphs": [
+          "Preços de 21/10/2026 no cartão, sem cupom. A dose vem do rótulo de cada pote: 3 g na Mais Mu sem sabor, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure da Dux."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose",
+            "Doses",
+            "Cartão",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "[Creatina Mais Mu Sem Sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
+              "3 g",
+              "66",
+              "R$ 64,90",
+              "R$ 32,45"
+            ],
+            [
+              "[Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
+              "3 g",
+              "cerca de 167",
+              "R$ 79,90",
+              "R$ 15,98"
+            ],
+            [
+              "[Creatina Mais Mu Limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
+              "3,5 g",
+              "60",
+              "R$ 64,90",
+              "R$ 30,90"
+            ],
+            [
+              "[Creatina Mais Mu Performance Refil Melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
+              "3,5 g",
+              "cerca de 143",
+              "R$ 79,90",
+              "R$ 15,98"
+            ],
+            [
+              "Dux Creatina Monohidratada 300 g",
+              "5 g",
+              "60",
+              "R$ 64,90",
+              "R$ 21,63"
+            ],
+            [
+              "Dux Creatina Monohidratada 600 g",
+              "5 g",
+              "120",
+              "R$ 137,90",
+              "R$ 22,98"
+            ],
+            [
+              "Dux Creatina Creapure 300 g",
+              "3 g",
+              "100",
+              "R$ 274,90",
+              "R$ 91,63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o [refil de 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) da Mais Mu sai a R$ 15,50 por 100 g, e a Dux de 300 g, a R$ 20,55. Com cupom e Pix, o refil cai para R$ 13,95.",
+          "Pelo mesmo preço no cartão, R$ 64,90, a Dux de 300 g traz 300 g de creatina, e a [Mais Mu sem sabor de 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/) traz 200 g: são 50% mais creatina na Dux. Por dose, o refil de 500 g da Mais Mu sai a R$ 0,48 no cartão, e a Dux de 300 g, a R$ 1,08."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+            "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
+            "caption": "As quatro creatinas da Mais Mu citadas na tabela. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Creapure e pureza",
+        "paragraphs": [
+          "A Dux diz que a linha de 300 g é \"100% Creapure\", com 3 g por dose e 100 doses. O selo é declaração da Dux; este texto não checou o selo por fora.",
+          "As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo. Laudos de terceiros não foram lidos para nenhuma das duas lojas, e o texto não afirma que o produto da Mais Mu não é Creapure.",
+          "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 15,98 e R$ 15,50 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
+          "Esta comparação é de rótulo e de preço. Ela não trata de efeito no corpo."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "Cupom e pagamento mudam a conta. As regras, lidas em 21/10/2026:"
+        ],
+        "bullets": [
+          "**Mais Mu, cupom:** MMEMCASACOMCECILIA dá 10% em todo o site, inclusive em produto em oferta, em todas as formas de pagamento. Não soma com o crédito do cashback nem com o desconto de boas-vindas.",
+          "**Mais Mu, Pix:** 3%. O cupom soma com ele em sequência: 10% primeiro e depois 3%, ou seja, cartão × 0,873.",
+          "**Mais Mu, frete:** grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste.",
+          "**Dux, Pix:** 5%, não acumulável com algumas promoções. No cartão, não há desconto.",
+          "**Dux, frete:** grátis acima de R$ 250 no Sul, Sudeste e Centro-Oeste, acima de R$ 300 no Nordeste e acima de R$ 400 no Norte.",
+          "**Dux, cupom:** nenhum cupom nosso. A Dux não é parceira do site."
+        ],
+        "postParagraphs": [
+          "O passo a passo do código está em [cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar), e as regras da loja, na [página do cupom](/cupons/mais-mu)."
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "paragraphs": [
+          "A comparação só fica justa se cada lado tiver o que ganha:"
+        ],
+        "bullets": [
+          "**Dux:** 20 g de proteína em 30 g no concentrado, ou 67% da dose, contra 20 g em 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
+          "**Dux:** a creatina de 300 g, pelo mesmo preço de R$ 64,90 no cartão, traz 50% mais creatina que a Mais Mu de 200 g.",
+          "**Dux:** a única Creapure declarada entre as duas, com \"100% Creapure\" na página.",
+          "**Dux:** Pix de 5%, e frete grátis a partir de R$ 250 no Sudeste, contra R$ 299 da Mais Mu.",
+          "**Dux:** o concentrado de 900 g sai em 13 sabores, com o Neutro, e o isolado de 900 g, em 11. Sabor não entra na conta.",
+          "**Mais Mu:** preço por 100 g de proteína no concentrado a partir do refil de 900 g (R$ 56,00 contra R$ 61,48 no cartão) e no 1,8 kg (R$ 50,00 contra R$ 53,99).",
+          "**Mais Mu:** preço por 100 g de proteína no isolado do refil de 900 g (R$ 71,63 contra R$ 77,90 no cartão).",
+          "**Mais Mu:** preço por grama de creatina no refil de 500 g (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
+          "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. A Dux não tem cupom.",
+          "**Mais Mu:** no isolado, a página diz \"não contém glúten\". A da Dux diz \"contém glúten\", atribuído à página."
+        ]
+      },
+      {
+        "heading": "Quem escolhe o quê",
+        "paragraphs": [
+          "Pelos rótulos e pelos preços de 21/10/2026:"
+        ],
+        "bullets": [
+          "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 50,00 no cartão, R$ 48,50 no Pix e R$ 43,65 com cupom e Pix.",
+          "Quer mais proteína por dose e não depende de cupom: o concentrado da Dux, com 20 g em 30 g. O de 900 g sai a R$ 58,41 por 100 g no Pix, e o de 1,8 kg, a R$ 51,29.",
+          "Quer isolado: o [Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 71,63 no cartão, R$ 69,48 no Pix e R$ 62,53 com cupom e Pix. Quer 24 g de proteína por dose: o isolado da Dux, a R$ 77,90 no cartão.",
+          "Quer creatina pelo menor preço por grama: a [Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 15,98 no cartão, R$ 15,50 no Pix e R$ 13,95 com cupom e Pix.",
+          "Quer creatina com o selo Creapure declarado: a Dux de 300 g, a R$ 91,63 por 100 g no cartão e R$ 87,05 no Pix."
+        ],
+        "postParagraphs": [
+          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Mais Mu ou Dux: qual whey? No concentrado, a Mais Mu sai mais barata por 100 g de proteína a partir do refil de 900 g. A Dux tem mais proteína por dose: 20 g em 30 g, contra 20 g em 36 g.",
+          "Qual creatina compensa mais? Por grama, o refil de 500 g da Mais Mu, a R$ 15,98 no cartão. A Dux de 300 g sai a R$ 21,63, e a Creapure dela, a R$ 91,63.",
+          "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz \"proteína 100% pura, sem blends\" no concentrado. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
+          "A Dux tem cupom? Não. A Dux não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
+          "A Mais Mu é boa? Este texto não responde a isso. Reputação e confiança da loja estão em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+          "Creatina Mais Mu é pura? A página diz \"100% Pura\", monohidratada e \"não é de origem animal\". É o que o texto da loja diz; não há laudo de terceiros neste texto.",
+          "Creatina Mais Mu tem selo Creapure? As páginas da Mais Mu lidas em 21/10/2026 não declaram Creapure nem laudo.",
+          "O cupom vale com Pix? Sim. O cupom soma com os 3% do Pix, em sequência: cartão × 0,873.",
+          "Vale esperar a Black Friday? Os preços de data estão em [Black Friday com a Mais Mu](/reviews/black-friday-mais-mu). A conta deste texto é de 21/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Mais Mu e aplique o cupom MMEMCASACOMCECILIA no checkout, em Adicionar cupom de desconto.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Mais Mu; a Dux não é parceira. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-ou-growth",
+        "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+      },
+      {
+        "slug": "probiotica-ou-dux",
+        "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      }
+    ]
   }
 ];
