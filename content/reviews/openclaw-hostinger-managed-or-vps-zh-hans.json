@@ -1,0 +1,281 @@
+{
+  "id": 553,
+  "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
+  "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、要做什么，以及适合谁",
+  "seoTitle": "OpenClaw Hostinger：托管还是 VPS？价格与选择",
+  "type": "主机指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw 在 Hostinger：托管套餐首期更便宜，VPS 则给你 root 与 Docker。2026年10月21日的价格，以及各自适合谁。",
+  "metaDescription": "Hostinger 上的 OpenClaw 选托管还是 VPS：含推荐链接与不含的价格、续费、AI 额度、Telegram 与 WhatsApp，以及由谁负责服务器。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+  "imageAlt": "红色 OpenClaw 吉祥物站在云端图标与服务器图标之间，紫色背景上以白色绘制",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "如果你想让助理直接运行、不必管服务器，就选 **托管**。Hostinger 负责安装、更新和备份。如果你想要 root（完全掌控服务器的权限）、想在同一台机器上跑其他程序，并且愿意自己更新和保护系统，就选 **VPS**。",
+        "两种方式都可以用 Hostinger 的 AI 额度，或你自己的 API 密钥。2026年10月21日，依 Hostinger 全球页面（美元计价、24 个月套餐），通过推荐链接的托管为 **US$ 3.99/月**，不含推荐的 VPS KVM 1 为 **US$ 6.49/月**。续费两者都是 **US$ 11.99/月**。"
+      ]
+    },
+    {
+      "heading": "什么是 OpenClaw",
+      "paragraphs": [
+        "OpenClaw 是开源的 AI 助理，采用 MIT 许可。它在电脑或服务器上运行，把对话、记忆和凭据都保存在那台机器里，并通过你平时用的聊天软件回复，例如 Telegram、WhatsApp、Slack 和 Discord。要思考和回答，它会使用其他公司的 AI 模型，例如 Claude、GPT 和 Gemini，这些模型按用量收费。",
+        "项目本身不收费。根据官方 README，它没有付费套餐、没有托管服务，也没有 token。真正花钱的是运行助理的服务器，以及 AI 模型的用量。在 Hostinger 上有两条路："
+      ],
+      "bullets": [
+        "**托管：** 你购买套餐，Hostinger 负责安装、更新并维护助理。",
+        "**VPS：** 你租一台虚拟服务器，Hostinger 会用 Docker（一种把每个应用隔离在容器里运行的程序）替你安装 OpenClaw。之后的更新和服务器安全就由你负责。"
+      ]
+    },
+    {
+      "heading": "托管还是 VPS：对比表",
+      "paragraphs": [
+        "OpenClaw 的托管版是「AI 自动化应用」套餐，和 Hermes Agent、Paperclip 的托管版是同一个套餐，价格也一样。数字以 24 个月套餐计算，2026年10月21日确认。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+        "alt": "托管与 VPS 两栏的表格。两者都由 Hostinger 安装；服务器的更新和安全，在托管是 Hostinger 负责，在 VPS 则由你负责。AI 额度或自己的密钥，两者都可以选",
+        "caption": "各套餐由谁负责哪些事，依据 2026年10月21日读取的 Hostinger 页面和 OpenClaw 文档整理。"
+      },
+      "comparisonTable": {
+        "headers": [
+          "",
+          "托管",
+          "VPS（KVM 1）"
+        ],
+        "rows": [
+          [
+            "价格（有推荐链接）",
+            "US$ 3.99/月",
+            "结账时确认（首期 20%）"
+          ],
+          [
+            "续费",
+            "US$ 11.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "AI 额度",
+            "含初始余额，超出部分另外计费",
+            "可选，结账时可购买"
+          ],
+          [
+            "自己的 API 密钥",
+            "可选（Anthropic、OpenAI、Google Gemini 或 xAI）",
+            "只有在不购买额度时才需要"
+          ],
+          [
+            "root 访问",
+            "页面只提到命令行访问，没有提到 root",
+            "有"
+          ],
+          [
+            "谁负责更新",
+            "Hostinger 自动处理",
+            "你，通过 Docker Manager 的 Update 按钮"
+          ],
+          [
+            "服务器安全",
+            "Hostinger",
+            "你"
+          ],
+          [
+            "Telegram 与 WhatsApp",
+            "在设置向导中选择",
+            "VPS 设置中的选填项"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**API 密钥**是 OpenClaw 向 AI 服务商请求回复时使用的密码。服务商按用量直接向你收费。"
+      ]
+    },
+    {
+      "heading": "实际要花多少",
+      "paragraphs": [
+        "价格页面以每月显示，但 24 个月套餐是一次性付清的："
+      ],
+      "bullets": [
+        "**托管，有推荐链接：** 24 × US$ 3.99 = **US$ 95.76**。没有推荐链接则为 24 × US$ 4.99 = US$ 119.76。",
+        "**VPS KVM 1，没有推荐链接：** 24 × US$ 6.49 = US$ 155.76。有推荐链接的金额请在结账时确认。",
+        "**续费，之后的 24 个月（两者相同）：** 24 × US$ 11.99 = US$ 287.76。"
+      ],
+      "postParagraphs": [
+        "有推荐链接的托管，在前 24 个月比没有推荐链接的 KVM 1 便宜 US$ 60。之后两者价格相同。续费默认是开启的。付款和续费的方式，可以看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
+        "套餐价格不是全部。AI 用量另外计费。如果你使用 Hostinger 的额度，托管附带初始余额，超出的部分按实际用量收费。充值价格没有公开在任何页面上，所以在依赖它之前，请先在后台确认。如果你使用自己的 API 密钥，服务商（OpenAI、Anthropic 等）会按模型和对话量直接向你收费。",
+        "托管套餐有 30 天退款期。VPS 的 30 天只在你上一次 VPS 退款申请超过 180 天时才适用。"
+      ]
+    },
+    {
+      "heading": "该选哪一种",
+      "paragraphs": [
+        "**如果你符合以下情况，选托管：**"
+      ],
+      "bullets": [
+        "你想让助理直接上线，不想安装或配置服务器；",
+        "你希望 Hostinger 负责更新、备份和安全；",
+        "你不知道 root 或 Docker 是什么；",
+        "你要用 OpenClaw，或想在同一套餐中改用 Hermes Agent 或 Paperclip。"
+      ],
+      "postParagraphs": [
+        "**如果你符合以下情况，选 VPS：** 你想要 root 访问，并在同一台服务器上跑网站或 n8n 等其他程序；你熟悉服务器，或想学习，并愿意自己更新和保护系统；或者你需要更多内存和硬盘。KVM 套餐提供 4 GB 到 32 GB 的 RAM。",
+        "**拿不准，先从托管开始。** 它首期更便宜，也不需要服务器知识。"
+      ]
+    },
+    {
+      "heading": "Telegram 与 WhatsApp",
+      "paragraphs": [
+        "两种方式都可以使用这两个渠道。区别在于在哪里设置。托管版在 Hostinger 的设置向导中选择渠道：WhatsApp 扫描 QR code，Telegram 粘贴机器人的 token。VPS 的设置中则有选填项，可以填入 WhatsApp 号码（含国家代码）和 Telegram 机器人的 token。文档没有说明 VPS 上的 WhatsApp QR code 会出现在哪里。",
+        "Telegram 需要三个步骤："
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+        "alt": "把 OpenClaw 连上 Telegram 的三个步骤：在 BotFather 创建机器人并复制 token；把 token 粘贴到 OpenClaw 的设置中；给机器人发消息，以批准第一次连接",
+        "caption": "依据 2026年10月21日读取的 OpenClaw 官方文档整理的步骤。"
+      },
+      "bullets": [
+        "在 BotFather（Telegram 官方的机器人创建工具）里创建机器人，并复制 token。",
+        "把 token 粘贴到 OpenClaw 的设置中。",
+        "给机器人发一条消息。尚未获批的对象会收到配对码，你再到 OpenClaw 的后台批准第一次联系。"
+      ],
+      "postParagraphs": [
+        "WhatsApp 的情况是，OpenClaw 会像 WhatsApp Web 一样，以「已关联的设备」身份加入，登录只需要 QR code。文档建议使用与个人号码分开的号码。"
+      ]
+    },
+    {
+      "heading": "安全：什么情况会改变决定",
+      "paragraphs": [
+        "关键问题是谁管理数据和凭据。托管方面，Hostinger 表示每个实例都在容器中隔离运行，并有自己的安全网关。这是 Hostinger 的说法，不是我们的测试结果。VPS 方面，Hostinger 本身说明，有了 root 访问权后，配置、更新和安全都由签约的人负责。",
+        "OpenClaw 的安全政策说，它是为一位可信任的用户设计的，而不是给互不认识的多人共用。能跟助理说话的人，就能让它使用其工具。因此在以下三种情况，选择会不一样："
+      ],
+      "bullets": [
+        "**多人使用**（家人或团队）：项目建议一人一台服务器。VPS 做起来很直接；托管方面，请向 Hostinger 确认一个账户能有几个实例。",
+        "**助理会访问你的邮箱、银行或其他账户：** 项目要求服务器上不要登录个人账户。Hostinger 建议为助理另外准备一个邮箱。",
+        "**使用 VPS 时：** 安装时生成的网关 token 请妥善保存，不要在和助理的对话中发送。"
+      ]
+    },
+    {
+      "heading": "推荐链接与链接价格",
+      "paragraphs": [
+        "推荐链接已经套用折扣，不需要输入代码。**只有首个计费周期** 享有 **20%** 折扣，适用于 12 个月以上的套餐，且不能与其他优惠券叠加。续费会回到标准价格。完整规则请见[Hostinger 推荐链接的运作方式](/zh-hans/reviews/hostinger-referral-code-zh-hans)。",
+        "以下是 24 个月套餐的全球价格（2026年10月21日，美元计价）："
+      ],
+      "comparisonTable": {
+        "headers": [
+          "套餐",
+          "没有推荐链接",
+          "有推荐链接",
+          "续费"
+        ],
+        "rows": [
+          [
+            "托管（AI 自动化应用）",
+            "US$ 4.99/月",
+            "US$ 3.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 1（4 GB RAM）",
+            "US$ 6.49/月",
+            "结账时确认（首期 20%）",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 2（8 GB RAM）",
+            "US$ 8.79/月",
+            "结账时确认（首期 20%）",
+            "US$ 14.99/月"
+          ],
+          [
+            "VPS KVM 4（16 GB RAM）",
+            "US$ 12.99/月",
+            "结账时确认（首期 20%）",
+            "US$ 28.99/月"
+          ],
+          [
+            "VPS KVM 8（32 GB RAM）",
+            "US$ 25.99/月",
+            "结账时确认（首期 20%）",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "这些是 Hostinger 全球页面的价格。在你所在的国家，可能显示其他货币和税费。活动期间价格也会变动，请先看[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前到购物车确认金额。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "OpenClaw 的托管套餐值得买吗？对于不想管理服务器的人来说值得。截至2026年10月21日，首期比 VPS 便宜，续费价格相同。想在服务器上跑 root 和其他程序的人，VPS 更合适。",
+        "需要 OpenAI 或 Anthropic 账户吗？不需要。两种方式都能使用 Hostinger 的 AI 额度。只有想用自己的 API 密钥时，才需要该服务商的账户。",
+        "OpenClaw 有 Hostinger 优惠券吗？不需要输入代码。20% 折扣会通过推荐链接自动套用，只限首期，并且只适用于 12 个月以上的套餐。",
+        "首期之后要付多少？托管与 KVM 1 为 US$ 11.99/月，KVM 2 为 US$ 14.99/月（依 2026年10月21日的价格）。推荐链接的折扣不会在续费时重复套用。",
+        "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在「AI 自动化应用」这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。"
+      ]
+    },
+    {
+      "heading": "透明度说明",
+      "paragraphs": [
+        "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式运作。Bruno 从 2024 年开始就是客户，使用主机服务和一台 VPS KVM 2。团队中没有人使用 OpenClaw。这篇文章是在 2026年10月21日阅读 Hostinger 页面和 OpenClaw 官方文档后整理的。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推荐代码已经在链接里：20% 仅适用于首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
+    "label": "通过推荐链接查看套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hans",
+      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hans",
+      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+    }
+  ]
+}

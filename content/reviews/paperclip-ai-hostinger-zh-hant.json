@@ -1,0 +1,263 @@
+{
+  "id": 582,
+  "slug": "paperclip-ai-hostinger-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-paperclip-ai",
+  "title": "Paperclip AI 是什麼：可不可靠，以及如何在 Hostinger 上運行",
+  "seoTitle": "Paperclip AI 可靠嗎？Hostinger 託管還是 VPS",
+  "type": "主機指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Paperclip 是管理 AI 代理團隊的開源工具（MIT）。看得到什麼、可以確認什麼，以及在 Hostinger 選託管還是 VPS。",
+  "metaDescription": "Paperclip AI 是什麼、由誰維護、能確認什麼，以及在 Hostinger 用託管或 VPS 運行。附 2026年10月21日的美元價格。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+  "imageAlt": "白色背景上的 Paperclip 標誌（迴紋針圖形和 Paperclip 字樣），漂浮在深色底色之上的圖像",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Paperclip 是用來組織 AI 代理團隊的程式。它不是只放一個助理，而是為團隊設定職位、目標，以及每個代理的花費上限。Paperclip 本身不運行 AI 模型。它負責協調用其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。程式碼採用 MIT 授權的開源方式。官方儲存庫說明，專案由 Paperclip 團隊維護。",
+        "在 Hostinger 上有兩種運行方式。**託管** 適合不想管伺服器的人，資料庫、更新和備份都由 Hostinger 負責。**VPS** 是租來的伺服器，搭配 Docker 使用，安全性和更新由你負責。兩種方式下，Claude、OpenAI 等 AI 金鑰都是你自己的。Paperclip 託管版的頁面沒有列出 Hostinger 的 AI 額度。",
+        "截至 2026年10月21日，在 Hostinger 全球頁面（美元計價、24 個月方案）上，透過推薦連結的託管為 **US$ 3.99/月**（不用推薦連結為 US$ 4.99/月）。續約為 **US$ 11.99/月**。"
+      ]
+    },
+    {
+      "heading": "用白話說 Paperclip 是什麼",
+      "paragraphs": [
+        "想像一家小公司，有老闆、經理和員工，每個人各有職責。Paperclip 用 AI 代理來做同樣的事。每個代理都有職位、工作說明和上司。位階較高的人分派工作，位階較低的人向上司回報。官方文件中，這個專案有五個核心概念。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
+        "alt": "最上方是目標，下面是 CEO，再下面三個代理（工程、行銷、客服），最下方是預算與核准的橫條",
+        "caption": "Paperclip 如何組織代理，依據 2026年10月21日讀取的官方文件整理。"
+      },
+      "bullets": [
+        "**組織圖：** 誰向誰回報的結構。行銷代理向負責策略的上級代理回報，依此類推。",
+        "**Heartbeats（心跳）：** 名稱來自「心跳」。代理並不會一直運行。它在收到工作、後續訊息或排程時被「喚醒」，確認該做什麼、去做，然後再進入休眠。",
+        "**每個代理的預算：** 可以為每個代理、每個專案以及整間公司設定上限。達到上限時，工作會暫停。AI 每次回應都會花錢，這筆費用由模型供應商向你收取。",
+        "**核准：** 工作進入下一步前，可以要求審查；新代理的聘用可以由你核准；也可以暫停工作、重新指派任務。",
+        "**稽核紀錄：** 操作、狀態變化、費用、核准和留言都會被記錄。之後可以查看發生了什麼事，以及原因。"
+      ],
+      "postParagraphs": [
+        "和單一代理相比，差別在形式。像 [OpenClaw](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant) 這樣的助理，是你從頭到尾對話的數位助手。Paperclip 更像會議室：你定義角色，讓團隊在預算和核准規則下工作。個人使用時，單一代理通常就夠了。當有多條工作線、而且你想控制每條線的花費時，團隊的形式才有意義。"
+      ]
+    },
+    {
+      "heading": "可不可靠？可以確認的事",
+      "paragraphs": [
+        "「可靠」是個大詞。我們把可以查證的和無法查證的分開來看。",
+        "**由誰維護。** 根據官方儲存庫 github.com/paperclipai/paperclip，專案由 Paperclip 團隊維護，版權聲明寫的是「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向的也是同一個儲存庫。不要和搜尋結果中的 Fork 版本或複本混為一談。",
+        "**授權。** MIT。這代表程式碼是公開的，任何人都能閱讀、稽核和使用。也代表沒有人有義務維護你安裝的那個版本。",
+        "**在哪裡運行。** 由你選擇。可以在自己的電腦、自架的伺服器，或 Hostinger 的託管方案上運行。專案網站說，自架版本不需要 Paperclip 帳號。",
+        "**金鑰和資料存在哪裡。** 取決於使用方式。在 VPS 上，Hostinger 說敏感資料、代理的記憶和 API 憑證「完全保存在你的基礎設施內」，也就是你租用的那台伺服器。在託管方案上，頁面說金鑰保存在你的託管實例中。這是 Hostinger 的說法，不是我們的稽核結果。",
+        "**程式碼安全。** 儲存庫要求以 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。在儲存庫的政策中，我們沒有找到支援的版本列表、獨立稽核或已發布的 advisory。",
+        "**無法肯定的事。** 本指南沒有經過驗證、公開的安全稽核。產品也沒有獨立評測，或像 Reclame Aqui 這類第三方評價。GitHub 的星號數代表受歡迎程度，不代表安全。能存取你的電郵、銀行或其他帳戶的代理，不論是哪套軟體，都需要格外小心。關於託管的公司，請看 [Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "你需要準備的東西",
+      "paragraphs": [
+        "下單前，請先確認這四點。"
+      ],
+      "bullets": [
+        "**Postgres。** 這是 Paperclip 存放代理、任務和紀錄的資料庫。在本機安裝時，它內建並自動啟動。在正式環境中，專案本身建議你指向自己的 Postgres。託管方案已包含資料庫。VPS 的資料庫則由你自己管理。",
+        "**自己的 AI 金鑰。** API 金鑰是程式向供應商（Anthropic 的 Claude、OpenAI 或其他）要求回應時使用的密碼。供應商會直接向你收費。Paperclip 託管版的頁面說，你要連接「自己的代理和 API 金鑰」，並沒有列出包含的 AI 額度。沒有金鑰，團隊就不會回應。",
+        "**每個代理的每月預算。** 啟動團隊前先定上限。五個每天都有任務的代理，花費可能遠高於只偶爾和你聊天的助理。沒有上限，費用就是月底供應商的收費。",
+        "**VPS 需要伺服器知識。** 在 VPS 上，你需要知道 Docker 是什麼（一種把每個應用程式隔離在容器中運行的工具），並願意自己更新和保護系統。如果這些不適合你，託管方案比較合適。"
+      ],
+      "postParagraphs": [
+        "如果你要在自己的電腦上運行，專案要求 Node.js 24.11 或以上。舊版 Node 無法運行。"
+      ]
+    },
+    {
+      "heading": "在 Hostinger 上選託管還是 VPS",
+      "paragraphs": [
+        "Hostinger 提供兩種 Paperclip 方案。**託管** 是下單後，由公司負責伺服器、資料庫和更新。**VPS** 是租用一台虛擬伺服器，Hostinger 用 Docker（一種把每個應用程式隔離在容器中運行的工具）幫你安裝 Paperclip，其餘都由你負責。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "",
+          "託管",
+          "VPS（KVM）"
+        ],
+        "rows": [
+          [
+            "誰管理伺服器",
+            "Hostinger",
+            "你，擁有 root 權限（完全掌控伺服器的權限）"
+          ],
+          [
+            "更新",
+            "Hostinger 在背景進行",
+            "你，透過 Docker Manager 的更新按鈕"
+          ],
+          [
+            "備份",
+            "Hostinger，依託管頁面的說明",
+            "VPS 頁面沒有說明頻率，請在面板中查看"
+          ],
+          [
+            "資料庫（Postgres）",
+            "已包含",
+            "由你管理"
+          ],
+          [
+            "AI 金鑰",
+            "是你的；頁面沒有列出 Hostinger 的額度",
+            "是你的；頁面提到要帶自己的 API 金鑰"
+          ],
+          [
+            "退款",
+            "30 天",
+            "只有在上一次 VPS 退款申請距今超過 180 天時，才適用 30 天"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**適合選託管的情況：** 你想不安裝任何東西就能用上 Paperclip，不懂 root 和 Docker，並且希望資料庫、更新和備份都由 Hostinger 負責。",
+        "**適合選 VPS 的情況：** 你想在同一台伺服器上運行網站或 n8n（自動化工具）等其他程式，會管理伺服器或想學習，並且希望資料庫和設定都在自己掌控之下。",
+        "關於退款，VPS 的 180 天規則與 [Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant) 一文相同，該文讀的是公司的政策。如果你在過去六個月內申請過 VPS 退款，新購買的 VPS 就沒有 30 天的保障。"
+      ]
+    },
+    {
+      "heading": "要花多少錢",
+      "paragraphs": [
+        "以下是 24 個月方案的價格，讀取日期為 2026年10月21日。託管是「AI 自動化應用」方案，OpenClaw、Hermes Agent 和 Paperclip 的託管版是同一個方案、同一個價格。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "不用推薦連結",
+          "用推薦連結",
+          "續約"
+        ],
+        "rows": [
+          [
+            "託管（AI 自動化應用）",
+            "US$ 4.99/月",
+            "US$ 3.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 1（1 vCPU、4 GB、50 GB）",
+            "US$ 6.49/月",
+            "結帳時查看（首期 20%）",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 2（2 vCPU、8 GB、100 GB）",
+            "US$ 8.79/月",
+            "結帳時查看（首期 20%）",
+            "US$ 14.99/月"
+          ],
+          [
+            "VPS KVM 4（4 vCPU、16 GB、200 GB）",
+            "US$ 12.99/月",
+            "結帳時查看（首期 20%）",
+            "US$ 28.99/月"
+          ],
+          [
+            "VPS KVM 8（8 vCPU、32 GB、400 GB）",
+            "US$ 25.99/月",
+            "結帳時查看（首期 20%）",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "以上是 Hostinger 全球頁面上以美元計價的價格。在你所在的國家，可能會顯示其他貨幣和稅金。付款前請在結帳頁面確認金額。",
+        "RAM 是伺服器的記憶體，vCPU 是處理器的核心。VPS 方案越大，記憶體和運算能力越多。我們讀過的頁面沒有列出 Paperclip 的最低記憶體需求。KVM 1 是起點，夠不夠用取決於你要運行多少個代理。",
+        "Hostinger 目前正在進行黑色星期五活動，價格會有變動。請參考 [Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，並在付款前於結帳頁面確認金額。"
+      ]
+    },
+    {
+      "heading": "推薦連結",
+      "paragraphs": [
+        "使用推薦連結不需要輸入代碼。**只有首期** 享有 **20%** 折扣。適用於 12 個月或以上的方案，不能與其他優惠券疊加。續約按正常價格計算。完整規則請看 [推薦連結怎麼運作](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "開始的步驟，依順序",
+      "bullets": [
+        "**在自己的電腦上運行。** 官方 README 要求 Node.js 24.11 或更新版本。先在終端機輸入 node -v 確認版本，然後執行 npx paperclipai@latest onboard --yes。介面會在 http://localhost:3100 開啟，Postgres 資料庫會自動建立。沒有伺服器費用，但電腦關機時 Paperclip 也會停止。如果你訂閱了 Claude 或 Codex，README 也說明可以不用 API 金鑰，改用訂閱登入，前提是已安裝 Python 3 和供應商的程式。",
+        "**訂購託管方案。** 透過推薦連結，選擇 24 個月的「AI 自動化應用」方案。下單後，Hostinger 會準備實例和資料庫。進入面板，連接你的代理，並貼上你的 AI 金鑰。",
+        "**或訂購附 Docker 的 VPS。** 選擇一個 KVM 方案（最便宜的是 KVM 1），然後在應用程式清單中選擇 Paperclip。Hostinger 會一鍵安裝。在面板的 Docker Manager 中開啟 Paperclip，放入金鑰，並用按鈕更新版本。伺服器安全、密碼和系統更新仍然由你負責。"
+      ]
+    },
+    {
+      "heading": "另一種選擇：單一代理",
+      "paragraphs": [
+        "Paperclip 用來組織一個代理團隊。如果你只想要一個助理，例如在 Telegram 或 WhatsApp 上使用，Paperclip 就太多了。這種情況下，可以參考 [Hostinger 上的 OpenClaw，託管還是 VPS](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，以及比較兩款單一代理的 [OpenClaw 還是 Hermes Agent](/zh-hant/reviews/openclaw-vs-hermes-agent-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Paperclip 免費嗎？ 程式是開源的，採用 MIT 授權，你可以安裝在自己的電腦上，不必付費給 Hostinger。AI 模型的使用費由供應商收取，託管和 VPS 則是付費方案。",
+        "Paperclip 可靠嗎？ 無法給出定論。我們能確認的是：程式碼是公開的；儲存庫把 Paperclip 團隊（版權聲明中為 Paperclip Labs, Inc.）列為負責方；安全問題透過 GitHub 的官方管道回報。在 2026年10月21日讀過的資料來源中，沒有找到獨立稽核。",
+        "需要 API 金鑰嗎？ 需要。在託管和 VPS 上，Paperclip 頁面要求你提供自己的金鑰。在電腦上運行時，README 也允許使用 Claude 或 Codex 的訂閱登入，不需要 API 金鑰。",
+        "可以用 Ollama 運行嗎？ 要看你連接的代理。Paperclip 的 README 沒有提到 Ollama（一種在自己電腦上運行 AI 模型的程式）。OpenClaw 有文件說明支援本地模型，但在 Paperclip 中，模型取決於你連接的代理。",
+        "可以用推薦連結拿到折扣嗎？ 可以，不需要輸入代碼。推薦連結會自動套用 20% 折扣，只限首期、12 個月或以上的方案，不能與其他優惠券疊加。"
+      ]
+    },
+    {
+      "heading": "透明度說明",
+      "paragraphs": [
+        "Em Casa com Cecília 運行在 Hostinger 上，以 Node.js Web App 的形式運作。Bruno 從 2024 年開始就是客戶，使用主機與一台 VPS KVM 2。團隊中沒有人使用 Paperclip。這篇文章整理的是 2026年10月21日讀取的 Paperclip 官方儲存庫和 Hostinger 頁面內容。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推薦碼已經在連結裡：20% 只適用於首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
+    "label": "透過推薦連結查看方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人使用 Paperclip。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-vs-hermes-agent-zh-hant",
+      "title": "OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑"
+    },
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
+      "title": "OpenClaw 在 Hostinger：託管還是 VPS？價格、要做什麼，以及適合誰"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hant",
+      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+    }
+  ]
+}
