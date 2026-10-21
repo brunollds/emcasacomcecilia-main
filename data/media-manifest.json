@@ -60612,6 +60612,620 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
+      "local_url": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85974,
+      "sha256": "c18f7c5924e9f37156f3db22353765853d36a1a683e30dcff65ff29f7c50bc6c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-mais-mu-capa.webp",
+      "storage_filename": "black-friday-mais-mu-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104121,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c18f7c5924e9f37156f3db22353765853d36a1a683e30dcff65ff29f7c50bc6c/black-friday-mais-mu-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c18f7c5924e9f37156f3db22353765853d36a1a683e30dcff65ff29f7c50bc6c/black-friday-mais-mu-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.194Z",
+      "verification_etag_or_digest": "c18f7c5924e9f37156f3db22353765853d36a1a683e30dcff65ff29f7c50bc6c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 117018,
+      "sha256": "447110ac73aabdb9f01be06b3b0673cd870bcf9afe050140e6ee42e1afcad3fd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "storage_filename": "mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-confiavel.json",
+          "line": 69,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103490,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/447110ac73aabdb9f01be06b3b0673cd870bcf9afe050140e6ee42e1afcad3fd/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/447110ac73aabdb9f01be06b3b0673cd870bcf9afe050140e6ee42e1afcad3fd/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "447110ac73aabdb9f01be06b3b0673cd870bcf9afe050140e6ee42e1afcad3fd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 101654,
+      "sha256": "edccd09f133a0a3fe0ec84610e87f53b57fcf4fea388aa18b4895c7b22243e3e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-confiavel-capa.webp",
+      "storage_filename": "mais-mu-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103443,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/edccd09f133a0a3fe0ec84610e87f53b57fcf4fea388aa18b4895c7b22243e3e/mais-mu-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/edccd09f133a0a3fe0ec84610e87f53b57fcf4fea388aa18b4895c7b22243e3e/mais-mu-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "edccd09f133a0a3fe0ec84610e87f53b57fcf4fea388aa18b4895c7b22243e3e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35422,
+      "sha256": "0d3c56c619e51b8f8ce4912a282deec0eff653479c74990360be8aed187c01e1",
+      "width": 597,
+      "height": 662,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-cupom-01-sem-cupom.webp",
+      "storage_filename": "mais-mu-cupom-01-sem-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-como-usar.json",
+          "line": 64,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103942,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0d3c56c619e51b8f8ce4912a282deec0eff653479c74990360be8aed187c01e1/mais-mu-cupom-01-sem-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0d3c56c619e51b8f8ce4912a282deec0eff653479c74990360be8aed187c01e1/mais-mu-cupom-01-sem-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "0d3c56c619e51b8f8ce4912a282deec0eff653479c74990360be8aed187c01e1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29672,
+      "sha256": "fcab4bb829c5c4667e3b6d5d17e940389006182c69666f3b172cd534666645c8",
+      "width": 597,
+      "height": 528,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-cupom-02-codigo-digitado.webp",
+      "storage_filename": "mais-mu-cupom-02-codigo-digitado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-como-usar.json",
+          "line": 79,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103957,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fcab4bb829c5c4667e3b6d5d17e940389006182c69666f3b172cd534666645c8/mais-mu-cupom-02-codigo-digitado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fcab4bb829c5c4667e3b6d5d17e940389006182c69666f3b172cd534666645c8/mais-mu-cupom-02-codigo-digitado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "fcab4bb829c5c4667e3b6d5d17e940389006182c69666f3b172cd534666645c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34528,
+      "sha256": "ec39837892e01681519b95601bbe002a21c7b4bf24724e0f3ceb09472e1d03c8",
+      "width": 597,
+      "height": 587,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-cupom-03-desconto-aplicado.webp",
+      "storage_filename": "mais-mu-cupom-03-desconto-aplicado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json",
+        "content/reviews/cupom-mais-mu-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-mais-mu-como-usar.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103972,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ec39837892e01681519b95601bbe002a21c7b4bf24724e0f3ceb09472e1d03c8/mais-mu-cupom-03-desconto-aplicado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec39837892e01681519b95601bbe002a21c7b4bf24724e0f3ceb09472e1d03c8/mais-mu-cupom-03-desconto-aplicado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "ec39837892e01681519b95601bbe002a21c7b4bf24724e0f3ceb09472e1d03c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78842,
+      "sha256": "5f628675ebe0aa585551aa2b21927a88a94b9c3a0b1a5c0ac2e160264a293324",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-cupom-capa.webp",
+      "storage_filename": "mais-mu-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json",
+        "content/reviews/cupom-mais-mu-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-mais-mu-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103900,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5f628675ebe0aa585551aa2b21927a88a94b9c3a0b1a5c0ac2e160264a293324/mais-mu-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f628675ebe0aa585551aa2b21927a88a94b9c3a0b1a5c0ac2e160264a293324/mais-mu-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "5f628675ebe0aa585551aa2b21927a88a94b9c3a0b1a5c0ac2e160264a293324",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74274,
+      "sha256": "0583e70b73c84237dac7e3d7c0bdb6a4ba72a906bc04f65a1511a4371202b8be",
+      "width": 1056,
+      "height": 1025,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-reclame-aqui-abas.webp",
+      "storage_filename": "mais-mu-reclame-aqui-abas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+          "line": 50,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103687,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0583e70b73c84237dac7e3d7c0bdb6a4ba72a906bc04f65a1511a4371202b8be/mais-mu-reclame-aqui-abas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0583e70b73c84237dac7e3d7c0bdb6a4ba72a906bc04f65a1511a4371202b8be/mais-mu-reclame-aqui-abas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "0583e70b73c84237dac7e3d7c0bdb6a4ba72a906bc04f65a1511a4371202b8be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28086,
+      "sha256": "ad21f24bfc1ebe40d71d812ae1d2f6d3c5bd05c11a0a1e4115a4b1cc04b15a81",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-reclame-aqui-capa.webp",
+      "storage_filename": "mais-mu-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103659,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ad21f24bfc1ebe40d71d812ae1d2f6d3c5bd05c11a0a1e4115a4b1cc04b15a81/mais-mu-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ad21f24bfc1ebe40d71d812ae1d2f6d3c5bd05c11a0a1e4115a4b1cc04b15a81/mais-mu-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "ad21f24bfc1ebe40d71d812ae1d2f6d3c5bd05c11a0a1e4115a4b1cc04b15a81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8968,
+      "sha256": "70f9bb9e73099219bff871b469731c90a48d792481bf438cc6470ee1fc8ada73",
+      "width": 399,
+      "height": 373,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-reclame-aqui-historico.webp",
+      "storage_filename": "mais-mu-reclame-aqui-historico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+          "line": 140,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103777,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/70f9bb9e73099219bff871b469731c90a48d792481bf438cc6470ee1fc8ada73/mais-mu-reclame-aqui-historico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/70f9bb9e73099219bff871b469731c90a48d792481bf438cc6470ee1fc8ada73/mais-mu-reclame-aqui-historico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "70f9bb9e73099219bff871b469731c90a48d792481bf438cc6470ee1fc8ada73",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15324,
+      "sha256": "76a83c931b232d2870dc62eb24c9cc595388771674d367be60d208a53a2bed98",
+      "width": 701,
+      "height": 592,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "mais-mu-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-reclame-aqui-nota-reputacao.json",
+          "line": 155,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103792,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/76a83c931b232d2870dc62eb24c9cc595388771674d367be60d208a53a2bed98/mais-mu-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/76a83c931b232d2870dc62eb24c9cc595388771674d367be60d208a53a2bed98/mais-mu-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "76a83c931b232d2870dc62eb24c9cc595388771674d367be60d208a53a2bed98",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39230,
+      "sha256": "52e2eb7ddf240b19c5f3a8cfcccd22cc7d9e8700c2bf333fc16001c3030896de",
+      "width": 1568,
+      "height": 333,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-rodape-cnpj.webp",
+      "storage_filename": "mais-mu-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-confiavel.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103473,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/52e2eb7ddf240b19c5f3a8cfcccd22cc7d9e8700c2bf333fc16001c3030896de/mais-mu-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52e2eb7ddf240b19c5f3a8cfcccd22cc7d9e8700c2bf333fc16001c3030896de/mais-mu-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "52e2eb7ddf240b19c5f3a8cfcccd22cc7d9e8700c2bf333fc16001c3030896de",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102376,
+      "sha256": "b91f6922ba6d24512957245f3ecec56c159b2ea32646621990969ce1641ac37e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "storage_filename": "mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mais-mu-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mais-mu-como-usar.json",
+          "line": 43,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 103921,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b91f6922ba6d24512957245f3ecec56c159b2ea32646621990969ce1641ac37e/mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b91f6922ba6d24512957245f3ecec56c159b2ea32646621990969ce1641ac37e/mais-mu-whey-isolado-concentrado-vegetal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T01:24:04.195Z",
+      "verification_etag_or_digest": "b91f6922ba6d24512957245f3ecec56c159b2ea32646621990969ce1641ac37e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/manteiga-batida-aerada.jpg",
       "local_url": "/images/reviews/manteiga-batida-aerada.jpg",
       "media_kind": "image",

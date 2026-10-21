@@ -103418,5 +103418,865 @@ export const reviewsData: unknown[] = [
         "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
       }
     ]
+  },
+  {
+    "id": 528,
+    "slug": "mais-mu-e-confiavel",
+    "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas",
+    "seoTitle": "Mais Mu é confiável? CNPJ, site oficial e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem opera a Mais Mu, como conferir o site oficial, o que a loja diz sobre trocas e reembolso e o que o Reclame Aqui mostra sobre a reputação recente. A loja caiu para Regular nos últimos 6 meses.",
+    "metaDescription": "A Mais Mu é confiável? Veja a empresa por trás da loja, o CNPJ, o site oficial, as regras de troca e reembolso e a reputação no Reclame Aqui.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
+    "imageAlt": "Produtos da Mais Mu lado a lado: Whey Protein paçoquita, Creatina 100% Pura refil, pré-treino Exquenta pink lemonade, Proteína Vegetal e Cappuccino proteico",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Mais Mu é uma empresa registrada. A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., com CNPJ ativo desde 2014 e sede em São Paulo (SP). O site oficial é lojamaismu.com.br.",
+          "A reputação recente pede atenção. No Reclame Aqui, a loja está como Regular nos últimos 6 meses, com nota 6,4, e a entrega é a principal queixa. Se o pedido parar, acompanhe o rastreio e guarde o número do pedido.",
+          "A loja paga o recolhimento de trocas e devoluções, desde que o produto esteja na embalagem original, fechado e sem sinais de uso. Para usar o cupom do Em Casa com Cecília, veja [a página do cupom da Mais Mu](/cupons/mais-mu)."
+        ]
+      },
+      {
+        "heading": "Quem opera a Mais Mu",
+        "paragraphs": [
+          "A Mais Mu é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., inscrita no CNPJ 21.526.148/0001-34. Na consulta pública da Receita Federal feita em 20/10/2026 pela BrasilAPI, o CNPJ aparece como ativo, matriz, com início de atividade em 05/12/2014.",
+          "A sede fica na Rua Pamplona, 145, sala 816, bairro Jardim Paulista, em São Paulo (SP), CEP 01405-000. O nome jurídico aparece na política de privacidade do site. A página Quem somos conta a história da marca, mas não traz a razão social.",
+          "O rodapé de todas as páginas traz \"+MU | CNPJ: 21526148000134\". Se o CNPJ de lá não bater com o da consulta pública, desconfie da loja."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é [lojamaismu.com.br](https://www.lojamaismu.com.br/). Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se você chegou por anúncio ou por mensagem.",
+          "O segundo teste é o rodapé, que mostra \"+MU | CNPJ: 21.526.148/0001-34\". Compare o número com a consulta pública do CNPJ.",
+          "A loja não publica telefone no site. O atendimento é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, que aparece no rodapé."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp",
+            "alt": "Rodapé do site lojamaismu.com.br com o logo +Mu, o CNPJ 21.526.148/0001-34, os links de suporte e o e-mail fala.ai@maismu.com.br",
+            "caption": "Rodapé do site oficial em 20/10/2026, com o CNPJ e o e-mail de atendimento.",
+            "objectFit": "contain",
+            "aspectRatio": 4.7087
+          }
+        ]
+      },
+      {
+        "heading": "O que a Mais Mu vende",
+        "paragraphs": [
+          "A loja vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer, bebidas proteicas e snacks salgados.",
+          "Este texto não avalia os produtos. Saber se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
+          "O site também indica lojas físicas que vendem a marca, em um mapa. A página não traz os nomes das lojas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+            "alt": "Caixas de barras de proteína da Mais Mu: Mukebar paçoquita, Chocowheyfer chocolate e Crushbar morango",
+            "caption": "Mukebar, Chocowheyfer e Crushbar, nas fotos do site oficial da Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "As regras de troca e devolução estão na FAQ da loja (lida em 20/10/2026):"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "O que a FAQ diz"
+          ],
+          "rows": [
+            [
+              "Estado do produto",
+              "Na embalagem original, fechado e sem sinais de uso"
+            ],
+            [
+              "Como pedir",
+              "Por e-mail, com o número do pedido"
+            ],
+            [
+              "Custo do recolhimento",
+              "Pago pela loja"
+            ],
+            [
+              "Reembolso ou reenvio",
+              "Em até 7 dias úteis depois da avaliação na unidade"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O prazo de arrependimento é de 7 dias para compra pela internet, pelo Código de Defesa do Consumidor (art. 49). A FAQ da loja não publica prazo próprio de arrependimento, então a lei é a referência.",
+          "Guarde o número do pedido desde o primeiro contato. É ele que a loja pede para abrir a troca."
+        ]
+      },
+      {
+        "heading": "Reembolso e estorno",
+        "paragraphs": [
+          "O prazo do dinheiro de volta muda conforme a forma de pagamento:"
+        ],
+        "bullets": [
+          "Pix e boleto: reembolso em até 7 dias úteis depois do envio dos dados bancários.",
+          "Cartão: estorno em até 48 horas úteis, creditado em até duas faturas."
+        ],
+        "postParagraphs": [
+          "O estorno no cartão depende da administradora. Se a fatura não mostrar o valor no prazo, guarde o número do pedido e fale com a loja."
+        ]
+      },
+      {
+        "heading": "Frete e pagamento",
+        "paragraphs": [
+          "O frete grátis depende da região. Em 20/10/2026, o site dava frete grátis a partir dos valores abaixo:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "Sul, Sudeste e Centro-Oeste",
+              "R$ 299"
+            ],
+            [
+              "Norte e Nordeste",
+              "R$ 399"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Abaixo desses valores, o frete é calculado no checkout. Os valores mudam com o tempo, então confira o frete do seu CEP antes de fechar o pedido.",
+          "No pagamento, o cartão tem 3x sem juros, e as demais parcelas têm juros. Pix e boleto também estão disponíveis, e o Pix tem 3% de desconto. A entrega é feita por transportadora parceira, com até 3 tentativas. O rastreio sai em rastreae.com.br."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Nos últimos 6 meses (01/04/2026 a 30/09/2026), a Mais Mu está como Regular no Reclame Aqui, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses até 30/09/2026 (01/10/2025 a 30/09/2026), a reputação é Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
+          "Na aba geral (21/10/2023 a 20/10/2026), as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa.",
+          "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
+          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. No teste de 20/10/2026, com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
+          "Para aplicar, clique em \"Iniciar compra\" no carrinho. No checkout, clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo antes de seguir para a entrega.",
+          "A loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o nosso. O cashback é um programa da própria loja: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. Ele é da loja, não é vantagem do cupom.",
+          "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio. Se preferir comprar por lá, use o [anúncio da Mais Mu no Mercado Livre](https://meli.la/24RjvdP).",
+          "Não testamos se o frete grátis entra junto com o cupom, então confira o valor final do frete no checkout. Para o passo a passo, veja [o artigo sobre como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar). Para a Black Friday, veja [o guia da Mais Mu para a campanha](/reviews/black-friday-mais-mu)."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Mais Mu?",
+        "paragraphs": [
+          "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação recente. Nos últimos 6 meses, a loja está como Regular no Reclame Aqui, com a entrega como queixa principal.",
+          "Se você for comprar, confira o endereço e o CNPJ no rodapé, acompanhe o rastreio do pedido e guarde o número. Use o cupom pelo checkout do site oficial."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. A reputação recente no Reclame Aqui é Regular nos últimos 6 meses, com nota 6,4, e a entrega é a principal queixa.",
+          "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
+          "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública de 20/10/2026, ele aparece como ativo desde 05/12/2014.",
+          "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
+          "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
+          "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Para troca ou devolução, o produto precisa estar na embalagem original, fechado e sem sinais de uso.",
+          "Quando o reembolso cai no Pix e no cartão? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
+          "A Mais Mu tem frete grátis? Sim. Em 20/10/2026, o frete era grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.",
+          "Tem cupom de primeira compra na Mais Mu? O nosso cupom é o MMEMCASACOMCECILIA, com 10% OFF em todo o site, para conta nova e antiga. A loja não acumula cupons, então o cashback e o desconto de boas-vindas não somam com ele."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Mais Mu faz sentido para você, entre no site oficial e use o cupom MMEMCASACOMCECILIA, de 10% OFF, no checkout.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-reclame-aqui-nota-reputacao",
+        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      },
+      {
+        "slug": "black-friday-mais-mu",
+        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "slug": "mais-mu-reclame-aqui-nota-reputacao",
+    "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Mais Mu no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular nos últimos 6 meses, nota 6,4, 95,5% das reclamações respondidas e 67,9% resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "Mais Mu no Reclame Aqui: reputação Regular em 6 meses (nota 6,4), 67,9% resolvidas e queixas sobre entrega. Veja os números e o que fazer (20/10/2026).",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No Reclame Aqui, a Mais Mu tem reputação Regular nos últimos 6 meses, com nota 6,4 (de 01/04/2026 a 30/09/2026). Nos 12 meses até 30/09/2026, a reputação é Boa, com nota 7,2. Os dados são de 20/10/2026.",
+          "A loja responde quase todas as reclamações: 95,5% nos últimos 6 meses. Resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
+          "Na aba geral, a queixa mais citada é produto não recebido, seguida de atraso na entrega. Na prática, acompanhe o rastreio do pedido e guarde o número do pedido desde a compra.",
+          "Para comparar a confiança geral na loja, veja [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar",
+        "paragraphs": [
+          "Toda loja recebe reclamações. O que importa é a proporção: quantas são respondidas, quantas são resolvidas e quanta gente voltaria a comprar. Os números abaixo são do perfil público da Mais Mu e mudam todos os dias. Confira de novo no dia da compra.",
+          "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014, segundo a BrasilAPI. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
+        ]
+      },
+      {
+        "heading": "Os números da Mais Mu no Reclame Aqui",
+        "paragraphs": [
+          "O perfil aparece como Mais Mu, na categoria Suplementos Alimentares e Fórmulas. Em 20/10/2026, a reputação nas três abas do Reclame Aqui era esta:"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
+            "alt": "Três abas de desempenho da Mais Mu no Reclame Aqui: 6 meses Regular com nota 6,4 e 112 reclamações; 12 meses Boa com nota 7,2 e 290 reclamações; Geral Boa com nota 7,7 e 770 reclamações",
+            "caption": "Abas de 6 meses, 12 meses e Geral do perfil da Mais Mu no Reclame Aqui, lidas em 20/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0302
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (01/04/2026 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "Geral (21/10/2023 a 20/10/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Regular",
+              "Boa",
+              "Boa"
+            ],
+            [
+              "Nota",
+              "6,4",
+              "7,2",
+              "7,7"
+            ],
+            [
+              "Reclamações recebidas",
+              "112",
+              "290",
+              "770"
+            ],
+            [
+              "Respondidas",
+              "95,5%",
+              "98,3%",
+              "98,8%"
+            ],
+            [
+              "Aguardando resposta",
+              "0",
+              "0",
+              "1"
+            ],
+            [
+              "Resolvidas",
+              "67,9%",
+              "76,3%",
+              "81,7%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "47,2%",
+              "59,3%",
+              "65,9%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "53",
+              "135",
+              "374"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,19",
+              "5,91",
+              "6,42"
+            ],
+            [
+              "Tempo médio de resposta",
+              "24 dias e 13 horas",
+              "12 dias e 4 horas",
+              "12 dias e 13 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A aba de 6 meses é a mais fraca das três. Tem a menor nota (6,4), a menor taxa de resolução (67,9%), a menor taxa de respostas (95,5%) e o maior tempo médio de resposta, de 24 dias e 13 horas.",
+          "O Reclame Aqui também mostra uma nota de compra separada da reputação: 4,7 de 5, a partir de 620 avaliações verificadas dos últimos 6 meses. Ela mede a experiência de quem comprou, não o atendimento a reclamações."
+        ]
+      },
+      {
+        "heading": "Como a reputação mudou",
+        "paragraphs": [
+          "No gráfico de histórico dos últimos 6 meses, os dois primeiros pontos estão em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
+          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui também os seis meses anteriores, de 01/10/2025 a 31/03/2026. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
+            "alt": "Gráfico de histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa e quatro em Regular",
+            "caption": "Histórico da reputação nos últimos 6 meses, no Reclame Aqui em 20/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0697
+          }
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, o Reclame Aqui lista as categorias e os problemas das reclamações de até 3 anos. Os mais citados são:"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
+            "alt": "Bloco Principais problemas comentados do Reclame Aqui: Problemas na Loja com 15,32% nas categorias, Produto não recebido com 17,01% nos problemas e Entrega com 18,57% nos produtos",
+            "caption": "Principais problemas da aba geral do Reclame Aqui, em 20/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1841
+          }
+        ],
+        "bullets": [
+          "Categorias: Problemas na Loja (118), Não encontrei meu problema (60), Suplementos Alimentares (55) e Problemas com o Atendimento (49).",
+          "Problemas: Produto não recebido (131), Atraso na entrega (125), Produto com defeito (97) e Estorno do valor pago (31)."
+        ],
+        "postParagraphs": [
+          "Produto não recebido e atraso na entrega somam 256 registros, cerca de um terço das 770 reclamações da aba geral. Entrega e recebimento são a principal fonte de reclamação."
+        ]
+      },
+      {
+        "heading": "Como a Mais Mu responde às reclamações",
+        "paragraphs": [
+          "A loja responde quase todas: 95,5% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, nenhuma reclamação estava aguardando resposta.",
+          "Responder não é o mesmo que resolver. Nos 6 meses, 67,9% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 47,2% disseram que voltariam a comprar.",
+          "A nota média do consumidor nos 6 meses foi 5,19, e só 53 das 112 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
+        ]
+      },
+      {
+        "heading": "O que fazer se o pedido der problema",
+        "paragraphs": [
+          "A regra vem da própria loja, no FAQ e na página de contato. O canal de atendimento é o e-mail fala.ai@maismu.com.br."
+        ],
+        "bullets": [
+          "Atraso, endereço errado, pedido avariado ou item faltando: acompanhe o rastreio no rastreae.com.br, com o código do e-mail ou o CPF, e escreva para fala.ai@maismu.com.br com o número do pedido.",
+          "Troca ou devolução: o produto precisa estar na embalagem original, fechada e sem sinais de uso. Peça pelo e-mail. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
+          "Pedido devolvido pela transportadora: a loja faz o reenvio sem custo para você, depois do e-mail com o número do pedido, o rastreio e o endereço.",
+          "Reembolso: volta na mesma forma de pagamento. No Pix e no boleto, em até 7 dias úteis depois do envio dos dados. No cartão, em até 48 horas úteis; no crédito, pode levar até duas faturas.",
+          "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). Em 20/10/2026, o FAQ da loja não traz prazo próprio para isso."
+        ],
+        "postParagraphs": [
+          "Se o atendimento não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA. Os números deste artigo são do perfil público da loja no Reclame Aqui e não mudam por causa disso.",
+          "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com os 3% de desconto do Pix. Não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP): lá vale o preço do anúncio.",
+          "No site, aplique o cupom no checkout, em \"Adicionar cupom de desconto\", depois de iniciar a compra no carrinho. Confira a linha \"Desconto do cupom\" no resumo antes de pagar.",
+          "A loja não acumula cupons. O crédito de cashback e o desconto de boas-vindas contam como cupom, então não somam com o MMEMCASACOMCECILIA. O cashback é um programa da própria loja, não uma vantagem do cupom.",
+          "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste, segundo o site em 20/10/2026. Não testamos o frete grátis junto com o cupom: confira no checkout.",
+          "Compre pelo [site oficial da Mais Mu](https://www.lojamaismu.com.br/). Os detalhes estão na [página do cupom da Mais Mu](/cupons/mais-mu), e o passo a passo, no artigo [Cupom Mais Mu: como usar o desconto de 10%](/reviews/cupom-mais-mu-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Mais Mu é confiável segundo o Reclame Aqui? Em 20/10/2026, o perfil mostrava reputação Regular nos últimos 6 meses, com nota 6,4, e Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+          "Qual a nota da Mais Mu no Reclame Aqui? Em 20/10/2026, nota 6,4 nos últimos 6 meses (de 01/04/2026 a 30/09/2026), 7,2 nos últimos 12 meses (de 01/10/2025 a 30/09/2026) e 7,7 na aba geral.",
+          "A Mais Mu responde às reclamações? Sim, na maior parte. Nos últimos 6 meses, 95,5% das reclamações foram respondidas, e 67,9% foram resolvidas.",
+          "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
+          "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. O produto precisa estar na embalagem original, fechada e sem sinais de uso, e o reembolso sai na mesma forma de pagamento."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se for comprar, entre no site oficial da Mais Mu, guarde o número do pedido e use o cupom MMEMCASACOMCECILIA no checkout.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      },
+      {
+        "slug": "black-friday-mais-mu",
+        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "slug": "cupom-mais-mu-como-usar",
+    "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre",
+    "seoTitle": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom MMEMCASACOMCECILIA no site oficial da Mais Mu: 10% OFF, passo a passo no checkout, frete grátis por região e por que ele não vale no Mercado Livre. Testado no carrinho em 20/10/2026.",
+    "metaDescription": "Cupom Mais Mu MMEMCASACOMCECILIA: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre. Veja como aplicar no checkout e o frete.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+    "imageAlt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Mais Mu. Ele vale na primeira compra e para quem já comprou, em todas as formas de pagamento, e soma com as promoções e com os 3% de desconto do Pix.",
+          "Ele não vale no Mercado Livre. Lá vale o preço do anúncio, sem cupom.",
+          "Para usar, entre no site oficial pelo botão desta página, monte o carrinho e clique em \"Iniciar compra\". No checkout, clique em \"Adicionar cupom de desconto\", cole o código e aplique. Confira a linha do desconto no resumo antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que é o cupom MMEMCASACOMCECILIA",
+        "paragraphs": [
+          "MMEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Mais Mu, marca brasileira de whey, creatina, pré-treino, barras e snacks proteicos. O cupom é usado só no site oficial, lojamaismu.com.br.",
+          "O desconto é de 10% em todo o site, inclusive em produtos que já estão em oferta. A loja não acumula cupons: um cupom não soma com outro no mesmo pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+            "alt": "Embalagens da Mais Mu: Whey Isolado baunilha refil 900 g, Whey Protein baunilha pote 450 g e Proteína Vegetal chocolate com avelã",
+            "caption": "Whey isolado, whey concentrado e proteína vegetal, nas fotos do site oficial da Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial pelo botão da parceria",
+        "paragraphs": [
+          "Use o botão desta página para abrir o site oficial da Mais Mu. O cupom só funciona no site oficial. As condições atualizadas do código ficam na [página do cupom da Mais Mu](/cupons/mais-mu)."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho e clique em \"Iniciar compra\"",
+        "paragraphs": [
+          "Escolha os produtos e abra o carrinho. Depois, clique em \"Iniciar compra\". É no checkout, depois desse passo, que entra o cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp",
+            "alt": "Resumo do pedido no checkout da Mais Mu sem cupom: creatina refil 500 g a R$ 79,90 e whey paçoquita 450 g a R$ 159,99, total de R$ 239,89 e o botão Adicionar cupom de desconto",
+            "caption": "Checkout da Mais Mu em 20/10/2026, antes do cupom.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9018
+          }
+        ]
+      },
+      {
+        "heading": "3. Cole o código em \"Adicionar cupom de desconto\"",
+        "paragraphs": [
+          "No resumo do pedido, ao lado do checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp",
+            "alt": "Campo Código do cupom no checkout da Mais Mu com MMEMCASACOMCECILIA digitado, ao lado da seta para aplicar",
+            "caption": "O código no campo do cupom, antes de clicar na seta.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1307
+          }
+        ]
+      },
+      {
+        "heading": "4. Confira o desconto no resumo antes de pagar",
+        "paragraphs": [
+          "Depois de aplicar, o resumo do pedido mostra a linha \"Desconto do cupom\" e o código embaixo. Se essa linha não aparecer, o cupom não entrou no pedido."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+            "alt": "Resumo do pedido com o cupom aplicado: subtotal de R$ 239,89, Desconto do cupom de R$ 23,99, total de R$ 215,90 e Cupom MMEMCASACOMCECILIA",
+            "caption": "Cupom aplicado no checkout da Mais Mu em 20/10/2026: R$ 23,99 de desconto.",
+            "objectFit": "contain",
+            "aspectRatio": 1.017
+          }
+        ]
+      },
+      {
+        "heading": "O que aconteceu no teste do cupom",
+        "paragraphs": [
+          "Em 20/10/2026, testamos o cupom no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha um whey de R$ 159,99 e uma creatina em oferta, de R$ 79,90 (antes, R$ 119,00, com 33% de desconto)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Subtotal antes do cupom",
+              "R$ 239,89"
+            ],
+            [
+              "Desconto do cupom",
+              "- R$ 23,99"
+            ],
+            [
+              "Total depois do cupom",
+              "R$ 215,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O desconto de 10% entrou também na creatina, que já estava em oferta. No teste, o cupom somou com a promoção. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
+        ]
+      },
+      {
+        "heading": "Frete grátis com o cupom",
+        "paragraphs": [
+          "A Mais Mu dá frete grátis a partir de um valor que depende da região. Na faixa do topo do site, em 20/10/2026, estavam estes valores:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Região",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "Sul, Sudeste e Centro-Oeste",
+              "R$ 299"
+            ],
+            [
+              "Norte e Nordeste",
+              "R$ 399"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Abaixo desse valor, o frete é calculado no checkout. O cupom reduz o total, e isso pode fazer o pedido cair abaixo do mínimo da sua região. Não testamos esse caso com o cupom aplicado: se o seu pedido estiver perto do mínimo, confira o frete no checkout, depois de aplicar o código, antes de pagar."
+        ]
+      },
+      {
+        "heading": "Pix, cartão e boleto",
+        "paragraphs": [
+          "O cupom vale em todas as formas de pagamento da loja. No Pix, os 3% de desconto da própria loja entram junto: o cupom soma com eles."
+        ]
+      },
+      {
+        "heading": "Cashback e desconto de boas-vindas",
+        "paragraphs": [
+          "A loja tem um programa de cashback próprio: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. O crédito vale por 90 dias e pede um pedido mínimo a partir de R$ 200. O cashback é da loja, não uma vantagem do nosso cupom.",
+          "O crédito chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O desconto de boas-vindas da loja também conta como cupom e não soma com o nosso."
+        ]
+      },
+      {
+        "heading": "Mercado Livre",
+        "paragraphs": [
+          "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio, sem o cupom. Para ver a marca no Mercado Livre, use o [link da marca no Mercado Livre](https://meli.la/24RjvdP), e compare o preço do anúncio com o do site oficial."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Mais Mu, o cupom vale: 10% em todo o site, em todas as formas de pagamento, e soma com o Pix. Antes de pagar, confira a linha do desconto no resumo e, se o pedido estiver perto do mínimo do frete grátis da sua região, o total depois do cupom.",
+          "Antes de comprar, leia também [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Mais Mu? O cupom é MMEMCASACOMCECILIA, com 10% OFF em todo o site oficial, lojamaismu.com.br.",
+          "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
+          "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
+          "O cupom soma com produto em promoção? Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava em oferta.",
+          "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
+          "O cupom da Mais Mu dá frete grátis? Não necessariamente. O frete grátis depende do valor do pedido e da região: acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Se o cupom deixar o total abaixo do mínimo, o frete pode ser cobrado.",
+          "Dá para usar o cashback junto com o cupom? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom.",
+          "Onde coloco o cupom na Mais Mu? No checkout, em \"Adicionar cupom de desconto\", depois de clicar em \"Iniciar compra\" no carrinho."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Mais Mu, clique em Adicionar cupom de desconto no checkout e cole o MMEMCASACOMCECILIA.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Cupom testado no checkout oficial. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "mais-mu-reclame-aqui-nota-reputacao",
+        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "black-friday-mais-mu",
+        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "slug": "black-friday-mais-mu",
+    "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou",
+    "seoTitle": "Black Friday Mais Mu 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Mais Mu não anunciou Black Friday até 20/10/2026. Este guia traz os preços de whey e creatina de hoje para comparar, como o cupom MMEMCASACOMCECILIA soma com o Pix e as regras de frete grátis.",
+    "metaDescription": "Black Friday Mais Mu 2026: sem anúncio até 20/10/2026. Preços de whey e creatina para comparar, cupom MMEMCASACOMCECILIA com 10% OFF e frete.",
+    "publishedAt": "20 de outubro de 2026",
+    "publishedAtISO": "2026-10-20",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
+    "imageAlt": "Produtos da Mais Mu: Whey Isolado baunilha refil 900 g, Creatina 100% Pura refil 500 g e pré-treino Exquenta pink lemonade 300 g",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Até 20/10/2026, a Mais Mu não anunciou Black Friday. Não encontramos no site data, regra ou desconto para novembro. A Black Friday de 2026 é na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026."
+        ],
+        "bullets": [
+          "Campanha: nenhum anúncio até 20/10/2026. Este guia é atualizado quando a loja anunciar.",
+          "Cupom: MMEMCASACOMCECILIA, com 10% OFF em todo o site. Ele soma com as ofertas e com o desconto de 3% do Pix.",
+          "Frete: grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste."
+        ],
+        "postParagraphs": [
+          "Quem espera novembro para comprar whey ou creatina precisa do preço de hoje. Só assim dá para saber se um desconto de novembro é mesmo desconto."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da Mais Mu?",
+        "paragraphs": [
+          "A loja não tem data de Black Friday. Até 20/10/2026, a home do site não traz campanha de novembro. Também não encontramos página de campanha nos endereços do sitemap que conferimos.",
+          "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
+          "Se a Mais Mu anunciar uma campanha, a data, as regras e o que o cupom faz nela entram aqui, com a data da atualização."
+        ]
+      },
+      {
+        "heading": "Preços de 20/10/2026 para comparar",
+        "paragraphs": [
+          "Estes são os preços que as páginas dos produtos mostravam em 20/10/2026, antes do cupom. Quando a página mostra dois valores, a tabela traz o preço riscado e o preço do dia."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Preço no site (cartão)",
+            "No Pix"
+          ],
+          "rows": [
+            [
+              "Creatina 100% Pura sem sabor, refil 500 g",
+              "R$ 119,00",
+              "R$ 79,90",
+              "R$ 77,50"
+            ],
+            [
+              "Whey Isolado baunilha, refil 900 g",
+              "sem preço riscado",
+              "R$ 520,00",
+              "R$ 504,40"
+            ],
+            [
+              "Whey Concentrado paçoquita, pote 450 g",
+              "sem preço riscado",
+              "R$ 159,99",
+              "R$ 155,19"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um desconto de novembro só vale a pena se o preço ficar abaixo desta tabela. O preço do site muda sem aviso, então confira a página do produto no dia da compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+            "alt": "Embalagens da Mais Mu: Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g",
+            "caption": "Whey paçoquita e creatina refil, dois dos produtos da tabela, nas fotos do site oficial.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e o que soma",
+        "paragraphs": [
+          "O cupom é o **MMEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com todas as formas de pagamento, para conta nova e para quem já comprou. No checkout, depois de \"Iniciar compra\", clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo.",
+          "No teste de 20/10/2026, sem finalizar a compra, o cupom entrou sobre um carrinho de R$ 239,89, com um whey de R$ 159,99 e uma creatina que já estava em oferta, de R$ 79,90. O desconto foi de R$ 23,99, e o total caiu para R$ 215,90."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp",
+            "alt": "Resumo do pedido com o cupom MMEMCASACOMCECILIA aplicado: desconto de R$ 23,99 e total de R$ 215,90",
+            "caption": "O cupom no checkout da Mais Mu em 20/10/2026, com a creatina em oferta no carrinho.",
+            "objectFit": "contain",
+            "aspectRatio": 1.017
+          }
+        ],
+        "bullets": [
+          "Ofertas: o cupom vale também para produto que já está em promoção.",
+          "Pix: o cupom soma com o desconto de 3% que a loja dá no Pix.",
+          "Outros cupons: a loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o MMEMCASACOMCECILIA. O cashback é regra da loja, não vantagem do nosso cupom.",
+          "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/24RjvdP)."
+        ],
+        "postParagraphs": [
+          "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar). As condições atualizadas ficam na [página do cupom da Mais Mu](/cupons/mais-mu). Para comprar direto na loja, use o [site oficial da Mais Mu](https://www.lojamaismu.com.br/)."
+        ]
+      },
+      {
+        "heading": "Frete grátis e entrega",
+        "paragraphs": [
+          "A Mais Mu tem frete grátis com valor mínimo por região. Em 20/10/2026, o site mostrava:"
+        ],
+        "bullets": [
+          "Sul, Sudeste e Centro-Oeste: frete grátis acima de R$ 299.",
+          "Norte e Nordeste: frete grátis acima de R$ 399."
+        ],
+        "postParagraphs": [
+          "Abaixo desses valores, o frete é calculado no checkout.",
+          "O desconto do cupom entra na conta. Se o total ficar abaixo do mínimo da sua região depois do cupom, o frete pode ser cobrado. Confira o frete no checkout antes de finalizar, porque o uso do frete grátis junto com o cupom não foi testado.",
+          "Compra pela internet tem direito de desistência de 7 dias, contados do recebimento, pelo Código de Defesa do Consumidor (art. 49). Vale para qualquer compra online, em qualquer época do ano."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom da Mais Mu vale na Black Friday? Até 20/10/2026, a loja não anunciou regra especial para novembro. O MMEMCASACOMCECILIA vale enquanto a parceria estiver vigente, e o carrinho mostra o desconto antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. No teste de 20/10/2026, os 10% entraram também na creatina que já estava em oferta.",
+          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
+          "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
+          "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
+          "O que muda quando a Mais Mu anunciar a Black Friday? O guia ganha a data, as regras e o que o cupom faz na campanha, com a data da atualização."
+        ]
+      }
+    ],
+    "pros": [
+      "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
+      "O cupom soma com as ofertas do site e com os 3% do Pix",
+      "A creatina refil de 500 g estava a R$ 79,90, de R$ 119,00, em 20/10/2026",
+      "Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste"
+    ],
+    "cons": [
+      "A Mais Mu não tinha anunciado Black Friday até 20/10/2026",
+      "O cupom não soma com o cashback nem com o desconto de boas-vindas da loja",
+      "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
+      "No Norte e no Nordeste, o frete grátis começa em R$ 399"
+    ],
+    "cta": {
+      "text": "Entre na Mais Mu pelo site oficial e use o MMEMCASACOMCECILIA no checkout. Compare com a tabela de preços de outubro antes de pagar.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "mais-mu-reclame-aqui-nota-reputacao",
+        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      }
+    ]
   }
 ];
