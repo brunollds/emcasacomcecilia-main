@@ -73701,6 +73701,466 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
+      "local_url": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15738,
+      "sha256": "7dd2a7e9f3a48cd2ad1696352d9071cf22e54ef1112ce47e47e0e66c63d75646",
+      "width": 1200,
+      "height": 620,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-skelt-busca-vazia.webp",
+      "storage_filename": "black-friday-skelt-busca-vazia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-skelt.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-skelt.json",
+          "line": 55,
+          "column": 19,
+          "literal": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 120000,
+          "column": 21,
+          "literal": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7dd2a7e9f3a48cd2ad1696352d9071cf22e54ef1112ce47e47e0e66c63d75646/black-friday-skelt-busca-vazia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7dd2a7e9f3a48cd2ad1696352d9071cf22e54ef1112ce47e47e0e66c63d75646/black-friday-skelt-busca-vazia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.751Z",
+      "verification_etag_or_digest": "7dd2a7e9f3a48cd2ad1696352d9071cf22e54ef1112ce47e47e0e66c63d75646",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/black-friday-skelt-capa.webp",
+      "local_url": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36802,
+      "sha256": "7af3fe223ffb6c874a263e6739badb61eb22de2298391c8bf94c76863aa45132",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-skelt-capa.webp",
+      "storage_filename": "black-friday-skelt-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-skelt.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-skelt.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119967,
+          "column": 15,
+          "literal": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7af3fe223ffb6c874a263e6739badb61eb22de2298391c8bf94c76863aa45132/black-friday-skelt-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7af3fe223ffb6c874a263e6739badb61eb22de2298391c8bf94c76863aa45132/black-friday-skelt-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "7af3fe223ffb6c874a263e6739badb61eb22de2298391c8bf94c76863aa45132",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-capa.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64782,
+      "sha256": "4c0e63fd42625b8313ab0f34418eaddea1a5d525a903a5c2cd77a1ad6c20ad8c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-capa.webp",
+      "storage_filename": "cupom-skelt-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/cupom-skelt-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119732,
+          "column": 15,
+          "literal": "/images/reviews/skelt/cupom-skelt-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c0e63fd42625b8313ab0f34418eaddea1a5d525a903a5c2cd77a1ad6c20ad8c/cupom-skelt-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c0e63fd42625b8313ab0f34418eaddea1a5d525a903a5c2cd77a1ad6c20ad8c/cupom-skelt-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "4c0e63fd42625b8313ab0f34418eaddea1a5d525a903a5c2cd77a1ad6c20ad8c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17240,
+      "sha256": "55a5a985cca7543a4b06d7c3f72b3e2dc9a0ca0177e203db4140faf0253de05c",
+      "width": 980,
+      "height": 342,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-preco-mousse.webp",
+      "storage_filename": "cupom-skelt-preco-mousse.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-como-usar.json",
+          "line": 57,
+          "column": 19,
+          "literal": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119767,
+          "column": 21,
+          "literal": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/55a5a985cca7543a4b06d7c3f72b3e2dc9a0ca0177e203db4140faf0253de05c/cupom-skelt-preco-mousse.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55a5a985cca7543a4b06d7c3f72b3e2dc9a0ca0177e203db4140faf0253de05c/cupom-skelt-preco-mousse.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "55a5a985cca7543a4b06d7c3f72b3e2dc9a0ca0177e203db4140faf0253de05c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39228,
+      "sha256": "2dc23897b59a846676c8d77e853bdd753889f8da014b0bb81cff5687307f6349",
+      "width": 1600,
+      "height": 879,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-sacola-com-cupom.webp",
+      "storage_filename": "cupom-skelt-sacola-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-como-usar.json",
+          "line": 72,
+          "column": 19,
+          "literal": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119782,
+          "column": 21,
+          "literal": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2dc23897b59a846676c8d77e853bdd753889f8da014b0bb81cff5687307f6349/cupom-skelt-sacola-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2dc23897b59a846676c8d77e853bdd753889f8da014b0bb81cff5687307f6349/cupom-skelt-sacola-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "2dc23897b59a846676c8d77e853bdd753889f8da014b0bb81cff5687307f6349",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
+      "local_url": "/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49984,
+      "sha256": "57cc97b87ef77a68f4954d9d14fa7c778920a89f16370dbeec224da8acd6641b",
+      "width": 1340,
+      "height": 771,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-skelt-sem-e-com-cupom.webp",
+      "storage_filename": "cupom-skelt-sem-e-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-skelt-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-skelt-como-usar.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119797,
+          "column": 21,
+          "literal": "/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/57cc97b87ef77a68f4954d9d14fa7c778920a89f16370dbeec224da8acd6641b/cupom-skelt-sem-e-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/57cc97b87ef77a68f4954d9d14fa7c778920a89f16370dbeec224da8acd6641b/cupom-skelt-sem-e-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "57cc97b87ef77a68f4954d9d14fa7c778920a89f16370dbeec224da8acd6641b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61904,
+      "sha256": "6c58dc58674dc8fc11699ffd989618721fe82b6fac3fad5b7d2144953e1e3089",
+      "width": 1440,
+      "height": 810,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-e-confiavel-capa.webp",
+      "storage_filename": "skelt-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119272,
+          "column": 15,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6c58dc58674dc8fc11699ffd989618721fe82b6fac3fad5b7d2144953e1e3089/skelt-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6c58dc58674dc8fc11699ffd989618721fe82b6fac3fad5b7d2144953e1e3089/skelt-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "6c58dc58674dc8fc11699ffd989618721fe82b6fac3fad5b7d2144953e1e3089",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp",
+      "local_url": "/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31824,
+      "sha256": "4020942dadb892bed03aac1fca91897bc84bf07ec343f06740a39e82d3332572",
+      "width": 1004,
+      "height": 290,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-e-confiavel-rodape-cnpj.webp",
+      "storage_filename": "skelt-e-confiavel-rodape-cnpj.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-e-confiavel.json",
+          "line": 75,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119325,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4020942dadb892bed03aac1fca91897bc84bf07ec343f06740a39e82d3332572/skelt-e-confiavel-rodape-cnpj.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4020942dadb892bed03aac1fca91897bc84bf07ec343f06740a39e82d3332572/skelt-e-confiavel-rodape-cnpj.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "4020942dadb892bed03aac1fca91897bc84bf07ec343f06740a39e82d3332572",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48902,
+      "sha256": "efa0f7ecc0cbc9ef14beefae8f25b1219fa0e75f9989f93b51ac89d1afc1225f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-reclame-aqui-capa.webp",
+      "storage_filename": "skelt-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119497,
+          "column": 15,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/efa0f7ecc0cbc9ef14beefae8f25b1219fa0e75f9989f93b51ac89d1afc1225f/skelt-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efa0f7ecc0cbc9ef14beefae8f25b1219fa0e75f9989f93b51ac89d1afc1225f/skelt-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "efa0f7ecc0cbc9ef14beefae8f25b1219fa0e75f9989f93b51ac89d1afc1225f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
+      "local_url": "/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51734,
+      "sha256": "e097e4d8b5a7e8e3a41fb19e113427335af103e0d8e07ac9fcf5d5b0f0000a20",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-reclame-aqui-mes-a-mes.webp",
+      "storage_filename": "skelt-reclame-aqui-mes-a-mes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+          "line": 57,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119532,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e097e4d8b5a7e8e3a41fb19e113427335af103e0d8e07ac9fcf5d5b0f0000a20/skelt-reclame-aqui-mes-a-mes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e097e4d8b5a7e8e3a41fb19e113427335af103e0d8e07ac9fcf5d5b0f0000a20/skelt-reclame-aqui-mes-a-mes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T23:21:50.752Z",
+      "verification_etag_or_digest": "e097e4d8b5a7e8e3a41fb19e113427335af103e0d8e07ac9fcf5d5b0f0000a20",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/sofa-damie-modular-hero.webp",
       "local_url": "/images/reviews/sofa-damie-modular-hero.webp",
       "media_kind": "image",
