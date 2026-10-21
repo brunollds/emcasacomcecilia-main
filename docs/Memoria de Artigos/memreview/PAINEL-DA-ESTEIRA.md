@@ -6,7 +6,10 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[openclaw-hostinger-gerenciado-ou-vps]]: OpenClaw gerenciado ou VPS na Hostinger, com preço, chaves e para quem serve (10 idiomas; 1º da ordem)
+- [ ] [[melhor-vps-para-openclaw]]: requisitos e qual plano KVM, com modelo externo ou local (10 idiomas)
+- [ ] [[openclaw-ou-hermes-agent]]: qual dos dois agentes escolher e como rodar cada um na Hostinger (10 idiomas)
+- [ ] [[paperclip-ai-hostinger]]: o que é, se é confiável e como hospedar (gerenciado ou VPS) (10 idiomas)
 
 ---
 

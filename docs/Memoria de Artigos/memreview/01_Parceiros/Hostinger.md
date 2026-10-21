@@ -44,6 +44,15 @@ indicação de cupom. Todo texto diz que os 20% valem só no primeiro período e
 cupons. Artigo só por decisão do Bruno: o tema está fora do site, e as buscas por cupom de hospedagem
 são muito disputadas.
 
+**Termos da indicação (revisão de 02/09/2026, lidos em 21/10/2026).**
+- O link "não deve ser publicado ou distribuído em sites comerciais, em blogs ou em canais/vídeos do YouTube", só nas redes sociais pessoais.
+- Decisão do Bruno (21/10/2026): seguir com a indicação enquanto pede a entrada no programa de afiliados da Hostinger. Se for aceito, o link de todos os artigos e da página da loja muda num PR próprio.
+- Os mesmos termos dão como elegíveis: hospedagem, VPS, e-mail, Reach, Criador com IA, "aplicativos de automação com IA" e "Agentes da Hostinger", sempre em assinaturas de 12 meses ou mais. O texto nunca promete o desconto em plano mensal.
+
+**Agentes de IA (21/10/2026).** São quatro briefings em 10 idiomas: [[openclaw-hostinger-gerenciado-ou-vps]], [[melhor-vps-para-openclaw]], [[openclaw-ou-hermes-agent]] e [[paperclip-ai-hostinger]].
+- Ninguém do site usa OpenClaw, Hermes ou Paperclip.
+- O OpenClaw e o Hermes gerenciados trazem créditos de IA. O Paperclip gerenciado não traz: o cliente usa as próprias chaves.
+
 ---
 
 ## 4. Mídia da Marca
