@@ -155,6 +155,9 @@
           "label": "YesStyleの日本への配送：日数・送料・関税",
           "href": "/ja/reviews/yesstyle-shipping-japan-ja"
         }
+      ],
+      "postParagraphs": [
+        "Olive Youngの送料無料の条件、税金、返品、メンバープログラムは[YesStyleとOlive Youngの比較](/ja/reviews/yesstyle-vs-olive-young-ja)で詳しく紹介しています。"
       ]
     },
     {
@@ -202,6 +205,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "YesStyleの購入でアフィリエイト報酬を受け取る場合があります。他店のルールは各店の公式ページによります。",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-olive-young-ja",
+      "title": "YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品"
+    },
     {
       "slug": "yesstyle-shipping-japan-ja",
       "title": "YesStyleの日本への配送：日数・送料・関税"

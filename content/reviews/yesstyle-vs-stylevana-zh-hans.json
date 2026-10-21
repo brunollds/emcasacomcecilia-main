@@ -228,6 +228,9 @@
           "label": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费",
           "href": "/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans"
         }
+      ],
+      "postParagraphs": [
+        "Olive Young 在新加坡与马来西亚的运费、税费、退货与会员制度，请看 [YesStyle 还是 Olive Young？](/zh-hans/reviews/yesstyle-vs-olive-young-zh-hans)。"
       ]
     },
     {
@@ -276,6 +279,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "我们可能会从 YesStyle 的购买获得佣金。其他店家的规则取自各店官方页面。",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-olive-young-zh-hans",
+      "title": "YesStyle 还是 Olive Young？新加坡与马来西亚的运送、运费、税费与退货比较"
+    },
     {
       "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
       "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"

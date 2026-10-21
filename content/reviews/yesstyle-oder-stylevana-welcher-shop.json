@@ -238,6 +238,9 @@
           "label": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll",
           "href": "/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz"
         }
+      ],
+      "postParagraphs": [
+        "Olive Young Land für Land, mit kostenlosem Versand, Steuern, Rückgabe und Mitgliederprogramm, finden Sie in [YesStyle oder Olive Young](/de/reviews/yesstyle-oder-olive-young-welcher-shop)."
       ]
     },
     {
@@ -286,6 +289,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "Wir können eine Provision von YesStyle erhalten. Regeln anderer Shops laut deren Seiten.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-oder-olive-young-welcher-shop",
+      "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe"
+    },
     {
       "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
       "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"

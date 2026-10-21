@@ -240,6 +240,9 @@
           "label": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes",
           "href": "/fr/reviews/yesstyle-livraison-france-belgique-canada"
         }
+      ],
+      "postParagraphs": [
+        "Pour Olive Young pays par pays, avec la livraison gratuite, les taxes, les retours et le programme de membres, voyez [YesStyle ou Olive Young](/fr/reviews/yesstyle-ou-olive-young-que-choisir)."
       ]
     },
     {
@@ -288,6 +291,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "Commission possible sur YesStyle. Règles des autres boutiques tirées de leurs pages.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-ou-olive-young-que-choisir",
+      "title": "YesStyle ou Olive Young : qui livre dans votre pays, frais, taxes et retours"
+    },
     {
       "slug": "yesstyle-livraison-france-belgique-canada",
       "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes"
