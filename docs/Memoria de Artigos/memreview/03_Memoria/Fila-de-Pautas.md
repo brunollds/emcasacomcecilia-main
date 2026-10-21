@@ -2,7 +2,7 @@
 
 Pautas que o Bruno aprovou e que ainda não viraram `02_Artigos/<slug>.md`. Quando o briefing é criado, a linha sai daqui. Briefings aprovados seguem no [[PAINEL-DA-ESTEIRA]].
 
-Ordem combinada: primeiro as duas da YesStyle e depois as do Bing, todas depois do deploy dos 17 guias das pautas de 11 e 12/10/2026.
+Ordem combinada: primeiro as duas da YesStyle e depois as do Bing, todas depois do deploy dos 17 guias das pautas de 11 e 12/10/2026. Ordem de 20/10/2026 (Bruno): os comparativos `mais-mu-ou-growth` e `mais-mu-ou-dux`, depois as pautas 1 e 2 (YesStyle ou X) e, num lote posterior, as pautas 8 e 9 (Trustpilot).
 
 | # | Pauta | Parceiro | Idiomas | Origem | Aprovação | Observação |
 |---|---|---|---|---|---|---|
@@ -10,9 +10,10 @@ Ordem combinada: primeiro as duas da YesStyle e depois as do Bing, todas depois 
 | 2 | YesStyle ou StyleKorean | YesStyle | 10 | Idem | Bruno, 12/10/2026 | A StyleKorean não lista o Japão |
 | 3 | Sofá na Caixa ou Inflow: diferença e qual escolher — **briefing criado em 14/10/2026:** [[sofa-na-caixa-inflow-ou-damie]], com a DAMIE no título (Bruno, 14/10); **no ar em 14/10/2026** | DAMIE | PT | Bing, buscas de até 12/10/2026: "sofá na caixa inflow diferença marca empresa" (8 impressões, posição 3,1), "existe diferença dos produtos da sofa na caixa pra inflow?" (8; 5,0), "tem uma marca menos conhecida, parecida com sofa na caixa e inflow" (4; 1,25) | Bruno, 12/10/2026 | Nenhum artigo cita a Inflow. A DAMIE entra como alternativa parceira. Link interno para `sofa-na-caixa-crise-reclamacoes-procon-sp` |
 | 4 | Sofá na caixa ou sofá montado: qual dura mais — **briefing criado em 14/10/2026:** [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]]; **no ar em 14/10/2026** | DAMIE | PT | Copilot: "sofás armados en caja vs sofás ya armados calidad duración" (23 citações, 39,66% das citações) | Bruno, 12/10/2026 | Só em PT: a DAMIE só entrega no Brasil |
-| 5 | Poltrona reclinável elétrica para até 150 kg | DAMIE | PT | Bing: "poltrona 150 kg avaliações elétrica reclinável" (posição 1), "poltrona elevatória para idosos recomendação" (6) | Bruno, 12/10/2026 | Antes do briefing, confirmar que não é tema do subdomínio da DAMIE, onde está o guia de poltrona para idosos |
 | 6 | Preço por cápsula: Dolce Gusto × Nespresso × Delta Q × 3 Corações | Dolce Gusto | PT | Bing: "preço capsulas café nespresso vs deltaq vs dolce gusto", "compara os precos por capsula entre deltaq, nespresso e dolcegusto" | Bruno, 12/10/2026 | Não é artigo novo: atualiza o `quanto-custa-capsula-dolce-gusto` depois que ele for ao ar, para não concorrer com ele |
 | 7 | Cafeteira de cápsula para escritório: Dolce Gusto, Nespresso ou 3 Corações? — **briefing criado em 19/10/2026:** [[cafeteira-escritorio-qual-escolher-custo-mes]] (artigo próprio, com outras marcas e o filtro; Bruno, 19/10) | Dolce Gusto | PT | Autocompletar de 12/10/2026: "cafeteira para escritorio" com as variações "cápsulas", "pequena", "grande", "sem cápsula", "grãos", "advocacia" e "melhor"; "melhor cafeteira de capsula para escritorio". "dolce gusto para escritório" sem sugestão. Tema sugerido pelo Bruno a partir de `viroutendencia.com/2026/10/09/qual-dolce-gusto-comprar-para-escritorio/` (custos hipotéticos, sem dado de capacidade) | Bruno, 12/10/2026 | Compara sistemas, não modelos. A escolha do modelo Dolce Gusto fica no `dolce-gusto-maquinas-qual-escolher`, com link. Custo mensal com o preço real por bebida (pauta 6 e `quanto-custa-capsula-dolce-gusto`), reservatório por modelo e garantia em uso no escritório, só com fonte oficial. Link de compra só da Dolce Gusto, com aviso de comissão; Nespresso e 3 Corações sem link. Nunca citar o cupom da concorrente |
+| 8 | YesStyle na Trustpilot: nota, reclamações e o que os dados mostram | YesStyle | 10 (PT inclusive) | Pedido do Bruno em 20/10/2026, no modelo da família `hostinger-trustpilot-reviews` | Bruno, 20/10/2026 | Estoque: lote depois das pautas 1 e 2. Sem Reclame Aqui: a YesStyle não atende por lá, então a versão PT também usa a Trustpilot |
+| 9 | SHEIN na Trustpilot: nota, reclamações e o que os dados mostram | SHEIN | 10 | Pedido do Bruno em 20/10/2026, no modelo da família `hostinger-trustpilot-reviews` | Bruno, 20/10/2026 | Estoque: mesmo lote da pauta 8. Antes do briefing, decidir com o Bruno se a versão PT usa a Trustpilot ou o Reclame Aqui (a SHEIN Brasil atende lá), como a Hostinger, que tem Reclame Aqui no PT e Trustpilot nos outros idiomas. Fora do PT, sem link da SHEIN Brasil |
 
 ## Onboarding dos parceiros novos (aprovado pelo Bruno em 13/10/2026)
 
@@ -45,6 +46,16 @@ A Dux Human Health (duxhumanhealth.com) é a base de comparação no lugar da Gr
 | 1 | Black Skull ou Dux | **Pauta aprovada em 20/10/2026:** [[black-skull-ou-dux]] |
 | 2 | Max Titanium ou Dux | **Pauta aprovada em 20/10/2026:** [[max-titanium-ou-dux]] (três pares de whey, creatina, multivitamínico e pré-treino) |
 | 3 | Probiótica ou Dux | **Pauta aprovada em 20/10/2026:** [[probiotica-ou-dux]] |
+
+## Mais Mu contra a Growth e a Dux (Bruno, 20/10/2026)
+
+O autocompletar de 20/10/2026 traz "mais mu ou growth" e "mais mu ou dux" com whey, creatina e "qual o melhor", também na ordem invertida. Os pares com Black Skull, Probiótica e Max Titanium não têm sugestão. Growth e Dux não são parceiras: sem link, cupom, foto nem print.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| 1 | Mais Mu ou Growth | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-growth]] |
+| 2 | Mais Mu ou Dux | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-dux]] |
+| 3 | Mais Mu, Black Skull, Probiótica ou Max Titanium: qual whey escolher (um artigo só com as quatro parceiras) | Proposta do Claude, aguarda o Bruno |
 
 ## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)
 

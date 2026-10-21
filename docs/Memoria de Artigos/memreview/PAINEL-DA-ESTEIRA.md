@@ -13,6 +13,8 @@
 - [ ] [[mais-mu-reclame-aqui-nota-reputacao]] — onboarding da Mais Mu; 6 meses, 12 meses e geral lidos no navegador (20/10/2026)
 - [ ] [[cupom-mais-mu-como-usar]] — onboarding da Mais Mu; MMEMCASACOMCECILIA, Pix, Mercado Livre (20/10/2026)
 - [ ] [[black-friday-mais-mu]] — guia sem prometer desconto da loja; fim da lista de `home-events.json` (20/10/2026)
+- [ ] [[mais-mu-ou-growth]] — comparativo de whey e creatina; Growth com preços de 18/10 (reler com liberação do Bruno) (20/10/2026)
+- [ ] [[mais-mu-ou-dux]] — comparativo de whey e creatina; Mais Mu mais barata por proteína, Dux com Creapure (20/10/2026)
 
 ---
 
