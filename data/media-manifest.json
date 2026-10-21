@@ -73401,6 +73401,866 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13448,
+      "sha256": "352a9f3b4dabd86ce8d1f72134641abfb6144d14369eff943484cd8f714f13df",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-olive-young-devolucao.webp",
+      "storage_filename": "yesstyle-olive-young-devolucao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-ko.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 251,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 251,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 252,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 251,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 250,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 251,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ko.json",
+          "line": 76,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 250,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105189,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105568,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105948,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106328,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106709,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107088,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107292,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107592,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107938,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108299,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/352a9f3b4dabd86ce8d1f72134641abfb6144d14369eff943484cd8f714f13df/yesstyle-olive-young-devolucao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/352a9f3b4dabd86ce8d1f72134641abfb6144d14369eff943484cd8f714f13df/yesstyle-olive-young-devolucao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T18:16:46.748Z",
+      "verification_etag_or_digest": "352a9f3b4dabd86ce8d1f72134641abfb6144d14369eff943484cd8f714f13df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32792,
+      "sha256": "140f83749b8662a4e55d2a38f42480edeba61d889de433c55a0d94e8a4f8eb21",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-olive-young-entrega-por-pais.webp",
+      "storage_filename": "yesstyle-olive-young-entrega-por-pais.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 188,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 188,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 188,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105127,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105507,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105886,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106266,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106646,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107026,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107530,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107908,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108269,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/140f83749b8662a4e55d2a38f42480edeba61d889de433c55a0d94e8a4f8eb21/yesstyle-olive-young-entrega-por-pais.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/140f83749b8662a4e55d2a38f42480edeba61d889de433c55a0d94e8a4f8eb21/yesstyle-olive-young-entrega-por-pais.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T18:16:46.749Z",
+      "verification_etag_or_digest": "140f83749b8662a4e55d2a38f42480edeba61d889de433c55a0d94e8a4f8eb21",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42232,
+      "sha256": "b2481ad4e837197d7dad23309b9259b0334c4277a5ca71666acfafba8570b655",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-olive-young-frete-gratis.webp",
+      "storage_filename": "yesstyle-olive-young-frete-gratis.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 206,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 204,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 203,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 204,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 204,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105143,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105536,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105930,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106324,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106719,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107112,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107630,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108022,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108396,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b2481ad4e837197d7dad23309b9259b0334c4277a5ca71666acfafba8570b655/yesstyle-olive-young-frete-gratis.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b2481ad4e837197d7dad23309b9259b0334c4277a5ca71666acfafba8570b655/yesstyle-olive-young-frete-gratis.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T18:16:46.749Z",
+      "verification_etag_or_digest": "b2481ad4e837197d7dad23309b9259b0334c4277a5ca71666acfafba8570b655",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28440,
+      "sha256": "05f3d052d8f7802d478f07ff75e3b177d87005205962aa6fe25ea412626a1c13",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-olive-young-oy-members.webp",
+      "storage_filename": "yesstyle-olive-young-oy-members.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 311,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 309,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 309,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105248,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105641,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106035,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106429,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106824,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107217,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107735,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108128,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108503,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/05f3d052d8f7802d478f07ff75e3b177d87005205962aa6fe25ea412626a1c13/yesstyle-olive-young-oy-members.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/05f3d052d8f7802d478f07ff75e3b177d87005205962aa6fe25ea412626a1c13/yesstyle-olive-young-oy-members.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T18:16:46.749Z",
+      "verification_etag_or_digest": "05f3d052d8f7802d478f07ff75e3b177d87005205962aa6fe25ea412626a1c13",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18214,
+      "sha256": "7dd43d088cfd716f0b79a3e8a436a1220e5158069114f231ea03f5a1155fbb87",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-ko.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104963,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105343,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 105722,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106102,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106482,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 106862,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107241,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107366,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 107745,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108106,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7dd43d088cfd716f0b79a3e8a436a1220e5158069114f231ea03f5a1155fbb87/yesstyle-ou-olive-young-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7dd43d088cfd716f0b79a3e8a436a1220e5158069114f231ea03f5a1155fbb87/yesstyle-ou-olive-young-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T18:16:46.749Z",
+      "verification_etag_or_digest": "7dd43d088cfd716f0b79a3e8a436a1220e5158069114f231ea03f5a1155fbb87",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
       "media_kind": "image",

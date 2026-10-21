@@ -1,0 +1,375 @@
+{
+  "id": 542,
+  "slug": "yesstyle-vs-olive-young-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "yesstyle-vs-olive-young",
+  "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較",
+  "seoTitle": "YesStyle 與 Olive Young 比較：台灣、香港運送與退貨",
+  "type": "購物平台比較",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "並排比較 YesStyle 與 Olive Young Global 在台灣與香港的寄送、免運門檻、稅費由誰負擔，以及各店接受什麼退貨，內容取自兩家的官方頁面。",
+  "metaDescription": "YesStyle 還是 Olive Young？台灣與香港的運送時間、免運門檻、稅費與退貨比較，依兩家商店的官方頁面整理。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+  "imageAlt": "插圖：YesStyle 與 Olive Young 的名稱並排，下方五行各配一個圖示，分別是地球、貨車、文件、退貨箭頭與星星",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。",
+        "本文不比較價格。內容只整理兩家官方頁面的規定，查閱日期為 2026年10月21日。"
+      ],
+      "bullets": [
+        "**免運門檻：** YesStyle 台灣滿 US$50、香港滿 US$35。Olive Young Global 香港滿 US$60；台灣滿 US$35（自 2026年7月30日起，以扣除優惠後的實付金額計算）。",
+        "**運送時間：** YesStyle 台灣 Express 3 至 6 個工作天，香港順豐 1 至 3 個工作天。Olive Young Global 台灣 5 至 6 天，香港 3 至 5 天（日曆天）。",
+        "**稅費：** YesStyle 沒有台灣與香港的稅費頁面。Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。",
+        "**退貨：** YesStyle 收到後 14 天內可申請改變心意與換尺寸的退貨。Olive Young Global 只接受瑕疵品或寄錯的商品。"
+      ],
+      "postParagraphs": [
+        "查看 YesStyle 的優惠內容，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+      ]
+    },
+    {
+      "heading": "各國寄送情況",
+      "paragraphs": [
+        "每一列是一個國家。YesStyle 欄來自 2026年10月13日起生效的運費表；Olive Young Global 欄來自 2026年10月21日讀取的寄送頁面與運費 FAQ。沒有公布時間的，表格照實寫。"
+      ],
+      "comparisonTable": {
+        "caption": "各國的寄送時間與免運門檻，依各店官方頁面整理。",
+        "headers": [
+          "國家",
+          "YesStyle",
+          "Olive Young Global"
+        ],
+        "rows": [
+          [
+            "巴西",
+            "2026年7月3日的暫停新訂單通知仍掛在頁面上；我們 2026年9月17日的一筆訂單已寄出",
+            "不寄送"
+          ],
+          [
+            "葡萄牙",
+            "Standard，10 至 15 個工作天；滿 US$60 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "美國",
+            "Standard，7 至 11 個工作天；滿 US$35 免運",
+            "不由全球站寄送；請用 OLIVE YOUNG US（Standard，5 個工作天，滿 US$35 免運）"
+          ],
+          [
+            "英國",
+            "Premium Standard，5 至 12 個工作天；滿 US$50 免運",
+            "4 至 5 天；滿 US$60 免運"
+          ],
+          [
+            "加拿大",
+            "Premium Standard，7 至 14 個工作天；滿 US$50 免運",
+            "5 至 7 天；滿 US$60 免運"
+          ],
+          [
+            "澳洲",
+            "Premium Standard，6 至 8 個工作天；滿 US$35 免運",
+            "4 至 5 天；滿 US$60 免運"
+          ],
+          [
+            "西班牙",
+            "Standard，10 至 15 個工作天；滿 US$45 免運（不含巴利阿里群島、加那利群島、休達與梅利利亞）",
+            "不寄送"
+          ],
+          [
+            "墨西哥",
+            "Standard，10 至 13 個工作天；滿 US$45 免運",
+            "8 至 9 天；滿 US$60 免運"
+          ],
+          [
+            "智利",
+            "Standard，15 至 20 個工作天；滿 US$60 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "秘魯",
+            "Standard，15 至 22 個工作天；滿 US$60 免運",
+            "不寄送"
+          ],
+          [
+            "阿根廷",
+            "Standard，15 至 27 個工作天；滿 US$60 免運",
+            "不寄送"
+          ],
+          [
+            "哥倫比亞",
+            "Standard，15 至 22 個工作天；滿 US$45 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "法國",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "4 至 5 天；滿 US$60 免運"
+          ],
+          [
+            "比利時",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "德國",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "4 至 5 天；滿 US$60 免運"
+          ],
+          [
+            "奧地利",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "瑞士",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "義大利",
+            "Standard，10 至 15 個工作天；滿 US$45 免運",
+            "寄送；滿 US$60 免運，未公布時間"
+          ],
+          [
+            "日本",
+            "Express，4 至 5 天；滿 US$50 免運",
+            "6 至 7 天；滿 ¥3,900 免運"
+          ],
+          [
+            "韓國",
+            "Express，3 至 5 天；滿 US$50 免運",
+            "在目的地選單中，但不在寄送表；時間與運費未公布"
+          ],
+          [
+            "台灣",
+            "Express，3 至 6 個工作天；滿 US$50 免運",
+            "5 至 6 天；滿 US$35 免運"
+          ],
+          [
+            "香港",
+            "順豐速運，1 至 3 個工作天；滿 US$35 免運",
+            "3 至 5 天；滿 US$60 免運"
+          ],
+          [
+            "新加坡",
+            "Express，3 至 5 個工作天；滿 US$50 免運",
+            "5 至 6 天；滿 US$60 免運"
+          ],
+          [
+            "馬來西亞",
+            "Standard，10 至 16 個工作天；滿 US$35 免運",
+            "寄送；滿 US$60 免運（未滿收 US$5），未公布時間"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Olive Young Global 的天數是日曆天，YesStyle 的天數是工作天，兩者都不含商品離開倉庫前的備貨時間，不能直接相加比較。",
+        "沒有公布時間的地方，Olive Young Global 只在結帳時按地址顯示送達時間。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
+        "alt": "24 個國家代碼的格子，每格有兩個點：左邊為 YesStyle，右邊為 Olive Young",
+        "caption": "綠色：寄送；黃色：寄送但未公布時間，或巴西的 YesStyle 暫停通知；×：不寄送；橘色：美國的 Olive Young 由美國站販售。資料取自 2026年10月13日的 YesStyle 頁面與 2026年10月21日的 Olive Young 頁面。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "運費與送達時間",
+      "paragraphs": [
+        "**YesStyle。** 所有訂單都從香港的倉庫寄出。台灣只含庫存商品的訂單，總共需要 4 至 9 個工作天：1 至 3 個工作天備貨，加上 3 至 6 個工作天運送。若付款需要審核，從訂單核准當天才開始計算。",
+        "**香港的 YesStyle。** 順豐速運 1 至 3 個工作天，可選擇到順豐站、服務中心或 EF Locker 智能櫃自取。未滿 US$35 的運費為 US$4；台灣未滿 US$50 則收 US$3。",
+        "**Olive Young Global。** 台灣與香港都在寄送表中。香港免運門檻為 US$60；台灣為 US$35，自 2026年7月30日起以扣除優惠後的實付金額計算。未達門檻時，一般規則是收 US$25。",
+        "免運門檻的計算：YesStyle 不計禮品包裝費。Olive Young Global 香港以產品價格計算，不含折扣、點數、運費與稅；台灣則以扣除優惠後的實付金額計算。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
+        "alt": "24 個國家代碼的表格，每格標出免運門檻的美元金額：左邊是 YesStyle，右邊是 Olive Young",
+        "caption": "免運門檻（美元；Olive Young 在日本以 3,900 日圓計）。綠色為各國較低的金額；×：不寄送；橘色：美國由 OLIVE YOUNG US 負責；橫線：未公布運費（YesStyle 寄往巴西；Olive Young 寄往不在其寄送表中的韓國）。資料來自 2026 年 10 月 13 日（YesStyle）與 2026 年 10 月 21 日（Olive Young）的頁面。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "稅費由誰負擔",
+      "paragraphs": [
+        "**Olive Young Global。** 價格與運費不含稅。頁面寫明，到貨時可能產生的額外費用由顧客負擔。",
+        "**YesStyle。** 沒有台灣與香港的稅費頁面，我們也沒有查閱這兩個地區的當地規定。到貨時被收取的費用，若訂單未滿 US$1,000，可以 YesStyle Credit 退還。你必須在收據日期起 30 天內，用電郵把收據寄給客服；沒有收據或超過期限，店家不會受理。",
+        "包裹到貨時若被收費，不要拒收：拒收的包裹既不退款，也不重寄。"
+      ]
+    },
+    {
+      "heading": "退貨與已拆封的商品",
+      "paragraphs": [
+        "兩家都不接受因改變心意而退回已拆封的美妝品。差別在於申請期限，以及各店接受哪些商品。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+        "alt": "插圖：三個盒子，分別是未拆封、破損與已拆封，每個盒子旁都有 YesStyle 與 Olive Young 的接受標記",
+        "caption": "未拆封的商品因改變心意退貨：YesStyle 接受，Olive Young Global 不接受。瑕疵品：兩家都接受。已拆封的美妝品：兩家都不接受。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "退貨規定，依各店官方頁面（2026年10月21日查閱）。",
+        "headers": [
+          "項目",
+          "Olive Young Global",
+          "YesStyle"
+        ],
+        "rows": [
+          [
+            "申請期限",
+            "收到後 30 天內",
+            "收到後 14 天內，需 RMA 編號"
+          ],
+          [
+            "接受退回的情況",
+            "只限瑕疵品或寄錯的商品；不換貨",
+            "改變心意、換尺寸與瑕疵品"
+          ],
+          [
+            "已拆封的美妝品",
+            "不能退",
+            "不能退"
+          ],
+          [
+            "退款方式",
+            "退回原付款方式",
+            "YesStyle Credit；要求時可退回付款方式"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Olive Young Global 的退貨要在 30 天內透過一對一諮詢提出，附上訂單號與產品照片；寄錯貨時還要附上包裹標籤的照片。退貨通過後，店家負擔退貨運費，退款在 2 至 15 個工作天內退回原付款方式。店家提醒，商品需在 2 個月內寄回，否則不予退款。",
+        "YesStyle 的退貨要在收到商品後 14 天內申請 RMA 編號，並在 RMA 發出後 30 天內寄出。包裹寄回香港的辦公室，或寄到美國、加拿大的退貨合作夥伴。"
+      ]
+    },
+    {
+      "heading": "會員與點數",
+      "paragraphs": [
+        "Olive Young Global 的 OY MEMBERS 免費，註冊即為 BABY 等級。其他等級於每年 1 月與 7 月的第一個週一，依上一個半年的購買額重新計算；本期購買額超過門檻時會立即升級。下表是 2026年10月21日查閱的門檻，目前的計劃有效至 2026年12月31日。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "等級",
+          "半年內的購買額",
+          "回饋點數"
+        ],
+        "rows": [
+          [
+            "BABY",
+            "註冊時",
+            "0.5%"
+          ],
+          [
+            "PINK",
+            "US$1 至 US$119.99",
+            "1.0%"
+          ],
+          [
+            "GREEN",
+            "US$120 至 US$179.99",
+            "1.5%"
+          ],
+          [
+            "BLACK",
+            "US$180 至 US$299.99",
+            "2.0%"
+          ],
+          [
+            "GOLD",
+            "超過 US$300",
+            "2.5%"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "點數以產品價格計算，不含折扣、點數支付的部分、稅與運費。取消或退款的訂單，點數會扣回。一點等於 US$1，只能用在 Olive Young Global 購物，每次至少使用 1 點。點數不能轉給他人，非會員不累積也不能使用。",
+        "YesStyle 的點數規則本文沒有讀取，因此不做比較。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
+        "alt": "OY MEMBERS 五個等級（BABY 至 GOLD）的長條圖，標出各等級的半年消費門檻與點數回饋比例",
+        "caption": "OY MEMBERS 等級：半年消費金額（美元）與點數回饋，從 0.5% 到 2.5%。會員頁面於 2026 年 10 月 21 日查閱；現行方案適用至 2026 年 12 月 31 日。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "付款方式",
+      "paragraphs": [
+        "Olive Young Global 接受 PayPal、Visa、Mastercard、American Express、Diners Club、Discover、JCB、UnionPay、Apple Pay 與 Alipay（2026年10月21日列表）。金額以美元或日圓計價，實際扣款可能因匯率而不同。",
+        "YesStyle 接受 Visa、Mastercard、American Express、JCB、PayPal、Google Pay 與 Apple Pay。價格以美元計，其他貨幣由商店按下單時的匯率換算。",
+        "兩家都是外幣扣款，銀行可能收取海外交易手續費。Olive Young 的寄送頁沒有提到這一點。"
+      ]
+    },
+    {
+      "heading": "Olive Young Global 不寄送的地區",
+      "paragraphs": [
+        "Olive Young Global 的 FAQ 寫明，不在清單內的國家不會寄送，並以西班牙、巴西與印度為例。它的目的地選擇器共有 61 個地區，台灣與香港都在內；巴西、西班牙、阿根廷、秘魯與美國不在內。",
+        "FAQ 也說清單可能變動，國家可能被暫停、調整或移除。頁面沒有說明巴西為什麼不在清單中，本文也不猜測。在巴西，FAQ 的答案是不寄送。"
+      ]
+    },
+    {
+      "heading": "CECILIA010 在 YesStyle 的用法",
+      "paragraphs": [
+        "CECILIA010 是 YesStyle 的獎勵碼（Reward Code），請填在結帳頁的 Reward Code 欄位。首購最高 5%，回購 2%，並可與 YesStyle 目前有效的優惠券一同計算。",
+        "這篇比較中的 Olive Young Global 沒有我們的代碼。目前有效的 YesStyle 優惠券內容，請看 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Olive Young 會寄到台灣或香港嗎？會。台灣與香港都在 Olive Young Global 的目的地清單上。",
+        "哪一家比較快？YesStyle 台灣為 Express 3 至 6 個工作天，香港為順豐 1 至 3 個工作天；Olive Young Global 台灣為 5 至 6 天，香港為 3 至 5 天。兩者的單位不同，也都不含備貨時間。",
+        "哪一家的免運門檻低？看地區。台灣 YesStyle 滿 US$50，Olive Young Global 滿 US$35；香港 YesStyle 滿 US$35，Olive Young Global 滿 US$60。",
+        "稅費由誰負擔？Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。YesStyle 沒有台灣與香港的稅費頁面，未滿 US$1,000 的訂單，到貨時被收取的費用可申請以 YesStyle Credit 退還。",
+        "已拆封的美妝品可以退嗎？不行。兩家都不接受因改變心意而退回已拆封的美妝品。",
+        "哪一家比較便宜？本文不比較價格。請在結帳頁比較含運費與稅費的總價。",
+        "CECILIA010 要填在哪裡？填在結帳頁的 Reward Code 欄位。YesStyle 目前有效的優惠券內容，請看本站的 YesStyle 頁面。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "到 YesStyle 的結帳頁查看寄到你地址的運費與稅費，並把 CECILIA010 貼到 Reward Code 欄位。",
+    "label": "前往 YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "我們可能會從 YesStyle 的購買獲得佣金。Olive Young Global 的規則取自其官方頁面，我們沒有在該店購物的經驗。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-stylevana-zh-hant",
+      "title": "YesStyle 還是 Stylevana？台灣與香港的運送、稅費與退貨比較"
+    },
+    {
+      "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
+      "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+      "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+    }
+  ]
+}
