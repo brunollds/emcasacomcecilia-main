@@ -1,0 +1,125 @@
+{
+  "id": 540,
+  "slug": "yesstyle-vs-olive-young-ko",
+  "locale": "ko",
+  "translationKey": "yesstyle-vs-olive-young",
+  "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교",
+  "seoTitle": "YesStyle vs Olive Young: 한국 배송, 세금, 반품",
+  "type": "쇼핑몰 비교",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "한국에서 받을 때 YesStyle과 Olive Young Global이 어떻게 다른지 정리했습니다. 한국 배송 정보가 공개된 곳, 세관 환급, 반품 규정과 리워드 코드 CECILIA010을 넣는 칸을 공식 페이지 기준으로 설명합니다.",
+  "metaDescription": "YesStyle vs Olive Young: 한국 배송 기간, 무료배송 기준, 세관 환급과 반품 규정을 공식 페이지 기준으로 정리했습니다.",
+  "publishedAt": "2026년 10월 21일",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
+  "imageAlt": "YesStyle과 Olive Young 이름이 나란히 있고, 지구본, 트럭, 문서, 반품 화살표, 별 아이콘이 붙은 다섯 줄이 있는 일러스트",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "핵심 요약",
+      "paragraphs": [
+        "한국에 사는 분께는 두 쇼핑몰의 상황이 다릅니다. 올리브영은 한국에 매장과 앱이 있습니다. Olive Young Global은 목적지 선택 화면에는 한국이 있지만 배송표에는 없어, 배송 기간과 배송비가 공개되지 않았습니다. YesStyle은 한국 배송 기간과 배송비를 모두 공개했습니다.",
+        "이 글은 가격을 비교하지 않습니다. 공식 페이지에 적힌 배송, 세금, 반품 규정만 정리했고, 저희가 Olive Young에서 직접 주문해 본 경험은 없습니다."
+      ],
+      "bullets": [
+        "**배송:** YesStyle은 Express로 영업일 3~5일이 걸리며, US$ 50 이상이면 배송비가 무료입니다. 미만이면 US$ 7입니다.",
+        "**세금:** YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급됩니다.",
+        "**반품:** YesStyle은 수령 후 14일 안에 RMA 번호를 요청해야 합니다. 개봉한 뷰티 제품은 반품할 수 없습니다."
+      ]
+    },
+    {
+      "heading": "배송 한눈에",
+      "paragraphs": [
+        "YesStyle의 기간은 상품이 홍콩 창고에서 출고되는 시간에 배송 기간을 더한 것입니다. 재고가 있는 상품만 주문하면 영업일 4~8일이 걸립니다."
+      ],
+      "comparisonTable": {
+        "caption": "YesStyle은 2026년 10월 13일부터 적용된 배송표, Olive Young Global은 2026년 10월 21일에 읽은 배송 페이지 기준입니다.",
+        "headers": [
+          "쇼핑몰",
+          "한국 배송",
+          "무료배송 기준"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "Express, 영업일 3~5일",
+            "US$ 50 이상 (미만 US$ 7)"
+          ],
+          [
+            "Olive Young Global",
+            "목적지 선택 화면에만 있음 (배송표에는 없음)",
+            "공개되지 않음"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "세금과 반품",
+      "paragraphs": [
+        "YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 배송 때 부과한 금액은 영수증 날짜부터 30일 안에 영수증을 이메일로 보내면 환급받을 수 있습니다."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-olive-young-devolucao.webp",
+        "alt": "세 개의 상자를 그린 그림: 봉인된 상자, 파손된 상자, 개봉된 상자이며, 각 상자에 YesStyle과 Olive Young의 반품 가능 표시가 있음",
+        "caption": "봉인된 제품을 단순 변심으로 반품하는 경우 YesStyle은 받고 Olive Young Global은 받지 않습니다. 결함이 있는 제품은 두 곳 모두 받습니다. 개봉한 뷰티 제품은 두 곳 모두 받지 않습니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "postParagraphs": [
+        "YesStyle은 수령 후 14일 안에 RMA 번호를 요청하고, RMA 발급 후 30일 안에 제품을 보내야 합니다. 건강보조식품과 개봉한 뷰티 제품은 반품되지 않습니다. Olive Young Global은 수령 후 30일 안에 결함이 있거나 잘못 온 제품만 받고, 교환은 하지 않습니다."
+      ]
+    },
+    {
+      "heading": "CECILIA010 리워드 코드",
+      "paragraphs": [
+        "CECILIA010은 YesStyle의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매 최대 5%, 재구매 2%가 적용되며, YesStyle의 쿠폰와 함께 계산됩니다. Olive Young Global에는 저희 코드가 없습니다. 현재 쿠폰는 [YesStyle 페이지](/ko/coupons/yesstyle)에서 확인할 수 있습니다."
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "올리브영 매장에서 사면 되지 않나요? 올리브영은 한국에 매장과 앱이 있어 국내에서 구매할 수 있습니다. 이 글은 해외 배송 쇼핑몰인 Olive Young Global과 YesStyle의 배송 정보만 비교합니다.",
+        "YesStyle은 한국으로 배송하나요? 네. 2026년 10월 13일부터 적용된 배송표에 한국이 있고, Express로 보냅니다.",
+        "세금이나 관세가 붙나요? YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급됩니다.",
+        "CECILIA010은 어디에 입력하나요? 결제 화면의 Reward Code 칸에 입력합니다. YesStyle의 쿠폰와 함께 적용되니, 결제 요약에서 최종 금액을 확인하세요."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "결제 화면에서 내 주소의 배송비와 관세를 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
+    "label": "YesStyle로 이동",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "YesStyle 링크로 구매하면 수수료를 받을 수 있습니다. Olive Young Global의 규정은 공식 페이지 기준입니다.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-stylevana-ko",
+      "title": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교"
+    },
+    {
+      "slug": "yesstyle-shipping-korea-ko",
+      "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ko",
+      "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+    }
+  ]
+}
