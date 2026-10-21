@@ -119247,5 +119247,919 @@ export const reviewsData: unknown[] = [
         "title": "Cupón Hostinger: no necesitas uno, esto es lo que da el enlace de referido"
       }
     ]
+  },
+  {
+    "id": 584,
+    "slug": "skelt-e-confiavel",
+    "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas",
+    "seoTitle": "Skelt é confiável? CNPJ, site oficial e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem opera a Skelt, o que os dois CNPJs ligados à marca mostram, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete.",
+    "metaDescription": "A Skelt é confiável? Veja a empresa por trás do site, os dois CNPJs, as regras de troca e reembolso, o frete grátis por região e como conferir o site oficial.",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/skelt-e-confiavel-capa.webp",
+    "imageAlt": "Mousse Autobronzeador da Skelt, em foto oficial do produto no site da marca",
+    "imageFit": "contain",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Skelt é uma empresa registrada. O site skelt.com.br é operado pela SKELT BEAUTY BRANDS S/A, CNPJ 38.290.785/0001-57, com sede em Curitiba (PR). Na consulta pública da Receita feita em 21/10/2026 pela BrasilAPI, esse CNPJ aparece como ativo e com início de atividade em 31/08/2020.",
+          "Há um ponto que pede atenção. O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, da BELEZE & OLIVEIRA, e o site não explica a ligação entre as duas empresas. Explicamos isso na seção sobre quem opera a loja, e a reputação recente está no [artigo sobre a Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao).",
+          "As trocas têm prazo de 20 dias para produto sem defeito e de 45 dias para produto com defeito, contados da entrega. A primeira devolução é grátis, com o frete incluído. O cupom da loja está na [página do cupom da Skelt](/cupons/skelt), com o SKEMCASACOMCECILIA, de 10% OFF."
+        ]
+      },
+      {
+        "heading": "Quem opera a Skelt",
+        "paragraphs": [
+          "O rodapé do site traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57, com a sede em Curitiba. Na consulta pública de 21/10/2026, esse CNPJ aparece como ativo, matriz, sociedade anônima fechada, com início de atividade em 31/08/2020. O logradouro e o CEP são os mesmos no rodapé e na Receita: Rua Heitor Stockler de França, 396, Centro Cívico, Curitiba (PR), CEP 80030-030.",
+          "O perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, o da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com nome fantasia SKELT COSMETICS. A S/A aparece como sócia dessa empresa na mesma consulta. As duas empresas têm datas de abertura diferentes. Já a marca diz, no próprio site, que surgiu em 2017: essa data é a da marca, não a de nenhum dos dois CNPJs."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "S/A do site",
+            "Beleze & Oliveira"
+          ],
+          "rows": [
+            [
+              "Razão social",
+              "SKELT BEAUTY BRANDS S/A",
+              "BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA"
+            ],
+            [
+              "CNPJ",
+              "38.290.785/0001-57",
+              "17.616.018/0001-15"
+            ],
+            [
+              "Início de atividade",
+              "31/08/2020",
+              "08/02/2013"
+            ],
+            [
+              "Onde aparece",
+              "Rodapé do site",
+              "Perfil da Skelt no Reclame Aqui"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Este texto não diz que a Beleze & Oliveira é quem vende pelo site, nem que a S/A não vende. As fontes que lemos não dizem isso. O que dá para afirmar é que são dois CNPJs ligados à mesma marca, e que o site não explica essa ligação.",
+          "O CNAE principal da S/A é de holding, não de varejo de cosméticos, e as fontes que lemos não dizem qual empresa emite a nota fiscal das compras feitas no site. Se a nota importa para você, confira na nota fiscal da sua compra qual CNPJ aparece."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp",
+            "alt": "Rodapé do site skelt.com.br com a razão social SKELT BEAUTY BRANDS S/A, o CNPJ 38.290.785/0001-57 e o endereço da sede em Curitiba",
+            "caption": "Rodapé de skelt.com.br lido em 21/10/2026, com a razão social, o CNPJ e o endereço da sede. As linhas foram reagrupadas para caber na tela do celular.",
+            "objectFit": "contain",
+            "aspectRatio": 3.4621
+          }
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é [skelt.com.br](https://www.skelt.com.br/). Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
+          "Depois, confira o rodapé. Ele traz a razão social SKELT BEAUTY BRANDS S/A e o CNPJ 38.290.785/0001-57. Compare o número com a consulta pública do CNPJ na Receita.",
+          "Faça a compra dentro do site, e não por um link que chegou em mensagem. O contato do rodapé é o e-mail contato@skelt.com.br e o WhatsApp (41) 3042-4721, para conferir se o atendimento responde."
+        ]
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "A política de troca publicada pela loja tem dois prazos, contados da data de entrega:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Caso",
+            "Prazo"
+          ],
+          "rows": [
+            [
+              "Produto sem defeito",
+              "20 dias"
+            ],
+            [
+              "Produto com defeito",
+              "45 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para defeito, é obrigatório enviar fotos ou vídeos do produto e do lote. Para desistir, o produto precisa estar na embalagem original e sem sinais de uso.",
+          "Em compra pelo site, a loja pede o número do pedido e o CPF do titular da compra. A troca só é feita por produto de mesmo valor e que esteja disponível em estoque. A primeira devolução é grátis, com o frete incluído. A devolução é feita pelo site skelt.troque.app.br, que gera um código dos Correios válido por 10 dias corridos."
+        ]
+      },
+      {
+        "heading": "Reembolso e arrependimento",
+        "paragraphs": [
+          "O reembolso sai em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento, então o texto não dá prazo diferente para Pix ou cartão.",
+          "Na compra pela internet, a lei dá 7 dias de arrependimento (Código de Defesa do Consumidor, art. 49). A política da loja não publica prazo próprio para isso, então a lei é a referência."
+        ]
+      },
+      {
+        "heading": "Frete e brindes",
+        "paragraphs": [
+          "O frete grátis depende da cidade e do valor do pedido, sempre sobre o valor final, já com os descontos. Segundo a política de frete lida em 21/10/2026, que a loja diz poder mudar sem aviso:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Onde",
+            "Frete grátis"
+          ],
+          "rows": [
+            [
+              "12 cidades (lista abaixo)",
+              "Sem valor mínimo"
+            ],
+            [
+              "Sul, Sudeste e Centro-Oeste",
+              "A partir de R$ 199"
+            ],
+            [
+              "Norte e Nordeste",
+              "A partir de R$ 299"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As 12 cidades sem valor mínimo são São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú.",
+          "Os brindes têm regra própria. O valor mínimo da campanha conta o pedido depois dos descontos. Por isso, um cupom ou o Pix que baixe o total abaixo do mínimo tira o brinde do carrinho. Num exemplo do próprio site, a campanha começava em R$ 249."
+        ]
+      },
+      {
+        "heading": "Pagamento e atendimento",
+        "paragraphs": [
+          "A loja aceita Pix, cartões Visa, Mastercard, Elo, Hipercard, Diners e American Express, Apple Pay, Vale e Pagaleve Pix Mensal. O Pix tem 5% de desconto da própria loja. O número de parcelas sem juros muda de produto para produto, então confira no checkout."
+        ],
+        "postParagraphs": [
+          "Para falar com a loja, use o e-mail contato@skelt.com.br, o WhatsApp (41) 3042-4721 ou o chat do site. O site diz que responde em até 48 horas úteis. A página de contato e a política de troca dão horários diferentes de atendimento, e o Reclame Aqui traz um terceiro horário informado pela empresa. Por isso, este texto não cita horário."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "O perfil da Skelt no Reclame Aqui está ligado ao CNPJ da Beleze & Oliveira, como explicado acima. Os números de nota, reclamações e respostas estão no [artigo sobre a Skelt no Reclame Aqui](/reviews/skelt-reclame-aqui-nota-reputacao), com a data da leitura."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar na Skelt?",
+        "paragraphs": [
+          "Do lado da empresa, a Skelt mostra o que um comprador procura: uma S/A ativa com CNPJ no rodapé, sede em Curitiba, regras de troca e de frete publicadas e canais de atendimento. Os pontos de atenção são o perfil do Reclame Aqui ligado a outro CNPJ e a falta de explicação sobre essa ligação no site.",
+          "O site declara que os produtos são 100% veganos e não são testados em animais. É uma afirmação da marca, não uma certificação de terceiros.",
+          "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no checkout do site oficial."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Skelt e pode receber comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA. Veja a [página do cupom da Skelt](/cupons/skelt) para o código e as condições vigentes.",
+          "O cupom dá 10% OFF em todo o site, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 5% do Pix, vale também em kits e combos e não soma com outro cupom. A loja aceita um cupom por pedido.",
+          "Testamos o cupom no carrinho em 21/10/2026, sem finalizar a compra. O passo a passo e os números do teste estão em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar).",
+          "Para aplicar, cole o código no campo de cupom do carrinho ou do checkout, antes de escolher a forma de pagamento, e confira o desconto no resumo do pedido.",
+          "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Skelt é confiável? A loja é operada por empresa registrada, com CNPJ ativo e sede em Curitiba, e publica regras de troca, reembolso e frete. Os pontos de atenção são o perfil do Reclame Aqui ligado a outro CNPJ e a falta de explicação sobre essa ligação no site.",
+          "De qual empresa é a Skelt? O site é operado pela SKELT BEAUTY BRANDS S/A. O perfil da marca no Reclame Aqui está em nome da BELEZE & OLIVEIRA - COMÉRCIO DE COSMÉTICOS LTDA, com a S/A como sócia. O autocompletar do Google sugere “skelt é da creamy”, e o Reclame Aqui lista a Creamy entre as marcas “também acessadas”. Este texto não afirma nenhuma relação societária entre as duas.",
+          "Qual é o CNPJ da Skelt? O CNPJ da loja é 38.290.785/0001-57, da SKELT BEAUTY BRANDS S/A, com início de atividade em 31/08/2020 na consulta pública de 21/10/2026. O CNPJ 17.616.018/0001-15, da BELEZE & OLIVEIRA, é o que aparece no perfil do Reclame Aqui.",
+          "O site skelt.com.br é o oficial? O endereço oficial é skelt.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública da Receita.",
+          "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, além do e-mail contato@skelt.com.br e do chat do site. O site diz que responde em até 48 horas úteis.",
+          "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, o produto precisa estar na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49).",
+          "Quando o reembolso cai? Em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
+          "A Skelt tem frete grátis? Tem frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte e Curitiba. Também há frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido.",
+          "Tem cupom na Skelt? Tem, o SKEMCASACOMCECILIA, com 10% OFF em todo o site, somando com as promoções e com os 5% do Pix. A loja aceita um cupom por pedido.",
+          "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2unTb7k) abre antes a página da Cecília no Mercado Livre, como todo link meli.la."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Skelt faz sentido para você, entre no site oficial e cole o SKEMCASACOMCECILIA no carrinho para ganhar 10% OFF.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "skelt-reclame-aqui-nota-reputacao",
+        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      }
+    ],
+    "imageAspect": "landscape"
+  },
+  {
+    "id": 585,
+    "slug": "skelt-reclame-aqui-nota-reputacao",
+    "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Skelt no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Skelt no Reclame Aqui em 21/10/2026: reputação Ótima nos últimos 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja a troca de faixa, as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "Skelt no Reclame Aqui: reputação Ótima em 6 meses (nota 8,3), 92,2% resolvidas e queixas sobre defeito e entrega. Veja os números e o que fazer (21/10/2026).",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+    "imageAlt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas e resoluções",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No Reclame Aqui, a Skelt tem reputação Ótima nos últimos 6 meses, com nota 8,3 (de 01/04/2026 a 30/09/2026). Nos 12 meses até 30/09/2026, a faixa é RA1000, com nota 8,4. Os dados são de 21/10/2026.",
+          "A loja respondeu a 100% das reclamações dos últimos 6 meses. Resolveu 92,2% delas, e 73,7% de quem avaliou disse que voltaria a comprar.",
+          "A faixa saiu da RA1000 em maio de 2026, com a nota quase igual. Na aba geral, as queixas mais citadas são produto com defeito, produto não recebido e atraso na entrega.",
+          "Para a confiança geral na loja, incluindo empresa, CNPJ e trocas, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar",
+        "paragraphs": [
+          "O site da Skelt não mostra nota nem reclamações. O Reclame Aqui mostra quantas reclamações a loja recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar. Os números abaixo mudam todos os dias: confira de novo no dia da compra.",
+          "O perfil Skelt Cosméticos aparece como empresa verificada e está no Reclame Aqui há 8 anos. No topo do perfil, as avaliações de compra somam 4,6 de 5, a partir de 1.286 avaliações verificadas. Essa nota mede a experiência de quem comprou, não o atendimento às reclamações."
+        ]
+      },
+      {
+        "heading": "Qual CNPJ aparece no perfil",
+        "paragraphs": [
+          "O perfil Skelt Cosméticos é da Beleze & Oliveira - Comércio de Cosméticos Ltda., com nome fantasia Skelt Cosmetics e CNPJ 17.616.018/0001-15, aberta em 08/02/2013, segundo a BrasilAPI. A sócia dessa empresa é a SKELT BEAUTY BRANDS S/A.",
+          "O rodapé do site usa outro CNPJ: o da SKELT BEAUTY BRANDS S/A, 38.290.785/0001-57, com sede em Curitiba (PR). Este texto só diz o que o perfil e o site mostram. Não conclui quem faz a venda de cada pedido."
+        ]
+      },
+      {
+        "heading": "Os números da Skelt no Reclame Aqui",
+        "paragraphs": [
+          "O quadro abaixo resume a aba de 6 meses e a faixa de cada mês, lidas em 21/10/2026. Os outros períodos estão na tabela, na mesma leitura."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
+            "alt": "Quadro com a reputação da Skelt no Reclame Aqui mês a mês, de abril a setembro de 2026 (RA1000 em abril e Ótima de maio a setembro), e os números da aba de 6 meses: nota 8,3, 665 reclamações, 100% respondidas, 92,2% resolvidas, 73,7% voltariam e tempo médio de resposta de 10 dias e 4 horas",
+            "caption": "Quadro nosso com os dados do perfil Skelt Cosméticos no Reclame Aqui, lido em 21/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (01/04/2026 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "2025",
+            "2024",
+            "Geral (22/10/2023 a 21/10/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Ótima",
+              "RA1000",
+              "RA1000",
+              "RA1000",
+              "—"
+            ],
+            [
+              "Nota",
+              "8,3",
+              "8,4",
+              "8,4",
+              "8,6",
+              "8,4"
+            ],
+            [
+              "Reclamações recebidas",
+              "665",
+              "1.179",
+              "1.205",
+              "608",
+              "2.815"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%",
+              "99,4%",
+              "99,2%",
+              "99,5%"
+            ],
+            [
+              "Resolvidas",
+              "92,2%",
+              "92,0%",
+              "90,9%",
+              "91,0%",
+              "91,4%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "73,7%",
+              "75,1%",
+              "76,5%",
+              "77,3%",
+              "76,3%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "360",
+              "625",
+              "585",
+              "345",
+              "1.487"
+            ],
+            [
+              "Tempo médio de resposta",
+              "10 dias e 4 horas",
+              "7 dias e 5 horas",
+              "18 dias e 22 horas",
+              "10 dias e 13 horas",
+              "13 dias e 7 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos 6 meses, a loja respondeu 100% das reclamações, em tempo médio de 10 dias e 4 horas. A nota média do consumidor foi 6,94; nos 12 meses, 7,15. É uma medida à parte da nota de reputação, que é 8,3 nos 6 meses."
+        ]
+      },
+      {
+        "heading": "Como a reputação mudou",
+        "paragraphs": [
+          "O histórico dos últimos 6 meses mostra a Skelt na RA1000 em abril de 2026 e na Ótima de maio a setembro. A troca de faixa aconteceu com a nota quase igual: 8,4 na RA1000 e 8,3 na Ótima.",
+          "A aba de 12 meses segue na RA1000 porque inclui também os seis meses anteriores, de outubro de 2025 a março de 2026. A leitura não traz o motivo da troca de faixa, e este texto não atribui causa."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, o Reclame Aqui lista os problemas e as categorias das reclamações. Os mais citados são:"
+        ],
+        "bullets": [
+          "Problemas: produto com defeito (762, 27,05%), produto não recebido (708, 25,13%), atraso na entrega (444, 15,76%), qualidade do produto (151, 5,36%) e estorno do valor pago (78, 2,77%).",
+          "Categorias: problemas com o atendimento (567, 20,13%), equipamentos de beleza e estética (115) e perfumarias (55).",
+          "Produtos e serviços citados: canais de atendimento (359, 12,74%) e equipe de atendimento (234, 8,31%)."
+        ],
+        "postParagraphs": [
+          "Os percentuais são os exibidos pelo Reclame Aqui, sem recálculo. Defeito, produto não recebido e atraso são os três primeiros da lista, e o texto não atribui causa a nenhum deles."
+        ]
+      },
+      {
+        "heading": "Como a Skelt responde às reclamações",
+        "paragraphs": [
+          "A Skelt respondeu a 100% das reclamações nos 6 meses e nos 12 meses. Responder não é o mesmo que resolver: nos 6 meses, 92,2% foram resolvidas, e 73,7% de quem avaliou disse que voltaria a comprar.",
+          "O tempo médio de resposta muda de um período para outro: 10 dias e 4 horas nos 6 meses, 7 dias e 5 horas nos 12 meses e 18 dias e 22 horas em 2025. A tabela traz todos os períodos."
+        ]
+      },
+      {
+        "heading": "O que fazer se o pedido der problema",
+        "paragraphs": [
+          "As regras vêm da própria loja, na política de troca e na página de contato. Comece pelo atendimento da loja, e só depois recorra ao Reclame Aqui."
+        ],
+        "bullets": [
+          "Contato: e-mail contato@skelt.com.br, WhatsApp (41) 3042-4721 ou chat do site. Informe o número do pedido e o CPF.",
+          "Defeito: envie fotos e vídeos do produto e do lote. A loja tem até 48 horas úteis para responder a um pedido de troca.",
+          "Prazos: 20 dias para troca sem defeito e 45 dias com defeito, contados a partir da entrega. O produto volta na embalagem original.",
+          "Devolução: pelo site skelt.troque.app.br. A primeira é grátis, e o reembolso sai em até 7 dias úteis depois do recebimento e da conferência do produto.",
+          "Reclame Aqui: se a loja não resolver, é o canal para registrar a queixa."
+        ],
+        "postParagraphs": [
+          "Os prazos são os da política publicada pela loja em 21/10/2026. Confira no site antes de pedir a troca."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Skelt e pode receber comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O cupom dá 10% OFF em todo o site, inclusive em produtos já em promoção e em kits e combos. Ele vale com todas as formas de pagamento e soma com os 5% de desconto do Pix da própria loja. Vale um cupom por pedido.",
+          "No nosso teste de 21/10/2026, o cupom entrou sobre os preços que já estavam com a promoção do site. No checkout, cole o código no campo de cupom de desconto antes de escolher a forma de pagamento, e confira o desconto no resumo do pedido.",
+          "No Mercado Livre, o cupom não vale: lá vale o preço do anúncio, pelo [link da Skelt no Mercado Livre](https://meli.la/2unTb7k).",
+          "Os detalhes do cupom estão na [página da Skelt](/cupons/skelt), e o passo a passo, no artigo [Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma](/reviews/cupom-skelt-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Skelt é confiável segundo o Reclame Aqui? Em 21/10/2026, o perfil mostrava reputação Ótima nos últimos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4. Esses números medem o atendimento às reclamações, não a qualidade dos produtos.",
+          "Qual a nota da Skelt no Reclame Aqui? Nota 8,3 nos últimos 6 meses (de 01/04/2026 a 30/09/2026), 8,4 nos últimos 12 meses (de 01/10/2025 a 30/09/2026) e 8,4 na aba geral, lidas em 21/10/2026.",
+          "A Skelt responde às reclamações? Sim. Nos últimos 6 meses, 100% das reclamações foram respondidas, e 92,2% foram resolvidas.",
+          "Por que a Skelt saiu da RA1000? A faixa mudou para Ótima em maio de 2026, com a nota de 8,4 para 8,3. A leitura não traz o motivo, e este texto não atribui causa.",
+          "O que fazer se o pedido da Skelt tiver defeito ou não chegar? Escreva para contato@skelt.com.br ou chame no WhatsApp (41) 3042-4721, com o número do pedido e o CPF. Se for defeito, envie fotos e vídeos do produto e do lote.",
+          "Quanto tempo a Skelt leva para responder no Reclame Aqui? Em 21/10/2026, o tempo médio de resposta era de 10 dias e 4 horas nos últimos 6 meses e de 7 dias e 5 horas nos 12 meses."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se for comprar, entre no site oficial da Skelt pelo botão, cole o cupom SKEMCASACOMCECILIA no checkout e guarde o número do pedido.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      },
+      {
+        "slug": "black-friday-skelt",
+        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+      }
+    ]
+  },
+  {
+    "id": 586,
+    "slug": "cupom-skelt-como-usar",
+    "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma",
+    "seoTitle": "Cupom Skelt: como usar o SKEMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom SKEMCASACOMCECILIA no site oficial da Skelt: 10% OFF, passo a passo na sacola, o que ele soma com o Pix e por que não vale no Mercado Livre. Testado na sacola em 21/10/2026.",
+    "metaDescription": "Cupom Skelt SKEMCASACOMCECILIA: 10% OFF em todo o site, soma com a promoção e com os 5% do Pix. Veja onde colar o código na sacola e o que conferir no resumo.",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/cupom-skelt-capa.webp",
+    "imageAlt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt. No nosso teste, ele entrou sobre um produto que já estava em promoção, e o Pix de 5% da loja entrou depois, sobre o total que já tinha o cupom.",
+          "A loja aceita um cupom por pedido: aplicar outro código troca o que estiver na sacola. O cupom não vale no Mercado Livre, onde vale o preço do anúncio.",
+          "Para usar, entre no site oficial pelo botão desta página, monte a sacola e cole o código no campo \"Cupom de desconto\", abaixo do CEP, depois clique em OK. Confira os descontos no resumo antes de escolher o pagamento. As condições da loja estão na [página do cupom Skelt](/cupons/skelt)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom SKEMCASACOMCECILIA",
+        "paragraphs": [
+          "SKEMCASACOMCECILIA é o cupom da parceria do Em Casa com Cecília com a Skelt, marca brasileira de autobronzeador, body splash e hidratação corporal. O cupom vale só no site oficial, skelt.com.br.",
+          "O desconto é de 10% em todo o site. Kits e combos não entraram no nosso teste: se for comprar um deles, confira o valor no resumo da sacola.",
+          "A loja aceita um cupom por pedido. Um cupom de primeira compra da própria loja também não soma com o nosso."
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial pelo botão da parceria",
+        "paragraphs": [
+          "Use o botão desta página: ele abre o site oficial da Skelt com a identificação da parceria. O cupom só funciona no site oficial. As condições atualizadas ficam na [página do cupom Skelt](/cupons/skelt)."
+        ]
+      },
+      {
+        "heading": "2. Confira o preço e monte a sacola",
+        "paragraphs": [
+          "Na página do produto, o preço já aparece com o desconto do site e com o do Pix. No teste, o mousse autobronzeador estava de R$ 119,90 por R$ 102,51 no Pix, antes de qualquer cupom.",
+          "Monte a sacola com os produtos que você quer. O cupom não entra na página do produto: ele entra na sacola, no campo de cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+            "alt": "Página do Mousse Autobronzeador na Skelt com o preço De R$ 119,90 e por R$ 102,51 no Pix",
+            "caption": "Preço do mousse na página do produto em 21/10/2026, antes do cupom.",
+            "objectFit": "contain",
+            "aspectRatio": 2.8655
+          }
+        ]
+      },
+      {
+        "heading": "3. Cole o código no campo \"Cupom de desconto\" e clique em OK",
+        "paragraphs": [
+          "Na sacola, o campo \"Cupom de desconto\" fica abaixo do CEP. Cole o código SKEMCASACOMCECILIA e clique em OK. Depois de aplicado, o código aparece como etiqueta no campo e os descontos sobem. Se a etiqueta não aparecer, refaça a colagem antes de seguir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/cupom-skelt-sacola-com-cupom.webp",
+            "alt": "Sacola da Skelt com o cupom SKEMCASACOMCECILIA aplicado no campo Cupom de desconto, com a linha do produto já com o desconto e o resumo ao lado",
+            "caption": "Sacola em 21/10/2026, com o cupom aplicado.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8203
+          }
+        ]
+      },
+      {
+        "heading": "4. Confira o resumo antes de escolher o pagamento",
+        "paragraphs": [
+          "O resumo mostra a linha de descontos, que junta a promoção do site, o cupom e o Pix. No teste, os descontos foram de R$ 17,39 sem o cupom para R$ 27,64 com ele. Veja a conta completa mais abaixo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/cupom-skelt-sem-e-com-cupom.webp",
+            "alt": "Dois resumos da sacola lado a lado: sem o cupom, Descontos de R$ 17,39; com o cupom SKEMCASACOMCECILIA, Descontos de R$ 27,64",
+            "caption": "Mesmo recorte da sacola, sem e com o cupom, em 21/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.738
+          }
+        ]
+      },
+      {
+        "heading": "5. Escolha o Pix ou o cartão",
+        "paragraphs": [
+          "No Pix, a loja tira mais 5% sobre o total que já tem o cupom: no teste, R$ 97,12 caíram para R$ 92,26. No cartão, a sacola mostra R$ 97,12 com o cupom aplicado.",
+          "Não testamos Apple Pay, Vale ou Pagaleve, por isso o texto fala só em Pix e cartão. Também não citamos número de parcelas, porque o parcelamento muda por produto."
+        ]
+      },
+      {
+        "heading": "O que aconteceu no nosso teste",
+        "paragraphs": [
+          "Em 21/10/2026, montamos um carrinho com um mousse autobronzeador até a sacola, sem identificação e sem finalizar a compra. Não houve compra."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Etapa",
+            "Valor"
+          ],
+          "rows": [
+            [
+              "Preço de tabela",
+              "R$ 119,90"
+            ],
+            [
+              "Promoção do site, 10% OFF em todo o site",
+              "- R$ 11,99"
+            ],
+            [
+              "Cupom SKEMCASACOMCECILIA, 10% sobre R$ 107,91",
+              "- R$ 10,79"
+            ],
+            [
+              "Total no cartão",
+              "R$ 97,12"
+            ],
+            [
+              "Pix de 5% sobre R$ 97,12",
+              "- R$ 4,86"
+            ],
+            [
+              "Total no Pix",
+              "R$ 92,26"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem o cupom, os descontos somavam R$ 17,39 e o total no Pix era R$ 102,51. Com o cupom, os descontos chegaram a R$ 27,64. O cupom entrou sobre o preço que já estava com a promoção, não sobre o preço de tabela.",
+          "Num segundo teste, pela API pública do carrinho no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
+          "São valores de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
+        ]
+      },
+      {
+        "heading": "Frete grátis e o cupom",
+        "paragraphs": [
+          "A Skelt dá frete grátis conforme a região e o valor final do pedido. Segundo a política de frete lida em 21/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Caso",
+            "Frete grátis"
+          ],
+          "rows": [
+            [
+              "12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia",
+              "Sem valor mínimo"
+            ],
+            [
+              "Sul, Sudeste e Centro-Oeste",
+              "A partir de R$ 199"
+            ],
+            [
+              "Norte e Nordeste",
+              "A partir de R$ 299"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Como o mínimo vale sobre o valor final, um desconto pode deixar o pedido abaixo da faixa da sua região. Não conferimos na sacola de teste como o frete aparece antes do CEP, então não comparamos o frete com e sem o cupom. Antes de pagar, veja o frete no resumo."
+        ]
+      },
+      {
+        "heading": "Brinde e promoção",
+        "paragraphs": [
+          "O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos, segundo a política de brindes. Por isso, o cupom e o Pix podem tirar o brinde da sacola. O brinde muda com a campanha, e na sacola do teste com o mousse não apareceu nenhuma linha de brinde.",
+          "O cupom soma com as promoções vigentes do site. Confira o carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que não testamos",
+        "paragraphs": [
+          "Não testamos o cupom com conta já cadastrada nem com conta nova, então não dizemos se ele vale para os dois casos: confira no checkout, depois de aplicar o código.",
+          "Também não testamos kits e combos na sacola, nem Apple Pay, Vale ou Pagaleve. Não finalizamos nenhuma compra."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Skelt, o cupom vale: 10% em todo o site, soma com as promoções e com o Pix, e cai na sacola sem nenhum passo extra além de colar o código. Se a compra for pelo Mercado Livre, compare o preço do anúncio com o do site oficial, que depende do produto e do dia.",
+          "Antes de comprar, leia também [Skelt é confiável?](/reviews/skelt-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/skelt-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Skelt? O cupom é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial da Skelt.",
+          "O cupom Skelt soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre o mousse que já estava com a promoção do site.",
+          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. O Pix de 5% da loja entra sobre o total que já tem o cupom.",
+          "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
+          "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
+          "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. A marca lá está no [link da Skelt no Mercado Livre](https://meli.la/2unTb7k).",
+          "O cupom dá frete grátis? Depende da região e do valor final do pedido, já com o cupom: sem mínimo em 12 cidades, a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste.",
+          "Onde coloco o cupom na Skelt? Na sacola, no campo \"Cupom de desconto\", abaixo do CEP, e depois clique em OK, antes de escolher a forma de pagamento.",
+          "O cupom vale para quem já tem conta? Não testamos. Confira no checkout, depois de aplicar o código."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, monte a sacola e cole o SKEMCASACOMCECILIA no campo Cupom de desconto.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Cupom testado até a sacola, sem finalizar. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "skelt-reclame-aqui-nota-reputacao",
+        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "black-friday-skelt",
+        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "slug": "black-friday-skelt",
+    "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou",
+    "seoTitle": "Black Friday Skelt 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Skelt não tem Black Friday no ar até 21/10/2026. Este guia traz os preços de autobronzeador de hoje para comparar, como o cupom SKEMCASACOMCECILIA soma com o Pix e as regras de frete e de brinde.",
+    "metaDescription": "Black Friday Skelt 2026: sem anúncio até 21/10/2026. Preços de autobronzeador para comparar, cupom SKEMCASACOMCECILIA com 10% OFF, Pix e frete.",
+    "publishedAt": "21 de outubro de 2026",
+    "publishedAtISO": "2026-10-21",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+    "imageAlt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Até 21/10/2026, a Skelt não tem página de Black Friday no ar e não anunciou desconto para novembro. O endereço /blackfriday abre uma busca sem resultado. A Black Friday de 2026 é na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026. São datas do calendário, não da loja."
+        ],
+        "bullets": [
+          "Campanha: nenhum anúncio de desconto até 21/10/2026. Este guia é atualizado quando a loja anunciar.",
+          "Cupom: SKEMCASACOMCECILIA, com 10% OFF em todo o site. Ele soma com as promoções da loja e com os 5% do Pix.",
+          "Frete: grátis em 12 cidades, sem valor mínimo. Nas demais, a partir de R$ 199 no Sul, Sudeste e Centro-Oeste, e de R$ 299 no Norte e Nordeste, sobre o valor final do pedido."
+        ],
+        "postParagraphs": [
+          "Quem espera novembro para comprar autobronzeador precisa do preço de hoje. Só assim dá para saber se um desconto de novembro é mesmo desconto."
+        ]
+      },
+      {
+        "heading": "O que a Skelt já mostrou sobre a Black Friday",
+        "paragraphs": [
+          "Em 21/10/2026, o site não trazia campanha de Black Friday com percentual ou data. O que encontramos:"
+        ],
+        "bullets": [
+          "A home tem coleções internas com os nomes \"Black Friday\", \"Pre Black Friday\" e \"BF - Live 05/11\". Os nomes são o que aparece: nenhuma página diz o desconto de cada uma.",
+          "A coleção \"BF - Live 05/11\" indica uma live de aquecimento da Black Friday em 5/11. É um indício pelo nome da coleção, não um anúncio de desconto.",
+          "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site. Não lemos um prazo de fim para ela.",
+          "A página da flash sale traz 20% no creme para mãos, também sem data de fim.",
+          "O endereço /black-friday redireciona para a home."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
+            "alt": "Busca do site da Skelt por \"blackfriday\" em 21/10/2026, com a mensagem de nenhum resultado encontrado",
+            "caption": "A busca pelo endereço /blackfriday no site da Skelt, lida em 21/10/2026: nenhum resultado encontrado.",
+            "objectFit": "contain",
+            "aspectRatio": 1.9355
+          }
+        ],
+        "postParagraphs": [
+          "Sobre 2024 e 2025: não conseguimos ler os registros do arquivo público do site nesta rodada. Por isso, não afirmamos se a Skelt fez campanha de Black Friday antes."
+        ]
+      },
+      {
+        "heading": "Preços de 21/10/2026 para comparar",
+        "paragraphs": [
+          "Estes são os preços de venda do catálogo público da Skelt em 21/10/2026, antes do cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Preço de venda"
+          ],
+          "rows": [
+            [
+              "Mousse Autobronzeador",
+              "R$ 119,90",
+              "R$ 107,91"
+            ],
+            [
+              "Mousse Autobronzeador Dark",
+              "R$ 129,90",
+              "R$ 116,91"
+            ],
+            [
+              "Água Autobronzeadora (incolor)",
+              "R$ 119,90",
+              "R$ 107,91"
+            ],
+            [
+              "Autobronzeador Bifásico",
+              "R$ 119,90",
+              "R$ 107,91"
+            ],
+            [
+              "Removedor de autobronzeador",
+              "R$ 69,90",
+              "R$ 62,91"
+            ],
+            [
+              "Body Splash Solar Muse",
+              "R$ 99,90",
+              "R$ 89,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o mousse sai por R$ 102,51, com os 5% de desconto sobre R$ 107,91. Os kits ficam fora desta tabela, porque o preço e a composição ainda estão em conferência.",
+          "O preço do site muda sem aviso. Confira o produto no dia da compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/cupom-skelt-preco-mousse.webp",
+            "alt": "Página do Mousse Autobronzeador da Skelt mostrando o preço cheio de R$ 119,90 e o preço de R$ 102,51 no Pix, em 21/10/2026",
+            "caption": "Nome e preço do mousse na página do produto, lidos em 21/10/2026: De R$ 119,90, por R$ 102,51 no Pix.",
+            "objectFit": "contain",
+            "aspectRatio": 2.8655
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e o que soma",
+        "paragraphs": [
+          "O cupom é o **SKEMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, com qualquer forma de pagamento, e o desconto sai sobre o preço que já está com a promoção. O passo a passo no carrinho está em [Cupom Skelt SKEMCASACOMCECILIA: como usar](/reviews/cupom-skelt-como-usar).",
+          "No teste de 21/10/2026, sem finalizar a compra, um mousse de R$ 119,90 entrou com a promoção de 10% da loja por R$ 107,91. Com o cupom, saiu por R$ 97,12. No Pix, a loja tirou mais 5%, e o total ficou em R$ 92,26."
+        ],
+        "bullets": [
+          "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
+          "Um cupom por pedido: a loja aceita só um. Se você aplicar outro código da loja, como o de primeira compra, ele troca o nosso.",
+          "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
+        ],
+        "postParagraphs": [
+          "As condições atualizadas ficam na [página do cupom da Skelt](/cupons/skelt)."
+        ]
+      },
+      {
+        "heading": "Brinde e frete",
+        "paragraphs": [
+          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. Em 21/10/2026, o brinde da sacola era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola. O valor mínimo da campanha de brinde ainda não foi conferido por nós.",
+          "O frete grátis também conta o valor final do pedido. Em 21/10/2026, a política de frete do site dizia:"
+        ],
+        "bullets": [
+          "Grátis sem valor mínimo em 12 cidades, entre elas São Paulo, Belo Horizonte, Curitiba e Goiânia.",
+          "Sul, Sudeste e Centro-Oeste: grátis a partir de R$ 199.",
+          "Norte e Nordeste: grátis a partir de R$ 299."
+        ],
+        "postParagraphs": [
+          "Confira o frete para o seu CEP no carrinho antes de pagar. Compra pela internet tem direito de desistência de 7 dias, contados do recebimento, pelo Código de Defesa do Consumidor (art. 49)."
+        ]
+      },
+      {
+        "heading": "Como se preparar, sem promessa de desconto",
+        "paragraphs": [
+          "Estas etapas valem com ou sem campanha:"
+        ],
+        "bullets": [
+          "Confira o preço de venda do dia, não o preço cheio.",
+          "Confira o total depois do cupom e do Pix, na sacola, antes de pagar.",
+          "Veja se o brinde continua na sacola e se o frete fica grátis para o seu CEP.",
+          "Compre pelo link da parceria, no site oficial da Skelt.",
+          "Guarde o print da sacola se quiser comparar depois."
+        ]
+      },
+      {
+        "heading": "Vale esperar novembro?",
+        "paragraphs": [
+          "Não há base pública para prometer que novembro será melhor. A Skelt não anunciou desconto de Black Friday, e a tabela de 21/10 é o que dá para comparar hoje.",
+          "Se você precisa agora, o cupom e o Pix já estão ativos. Se pode esperar, compare o preço que a loja mostrar em novembro com a tabela deste guia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Skelt tem Black Friday? Não anunciou até 21/10/2026. O endereço /blackfriday abre uma busca sem resultado, e a home mostra coleções com esse nome, sem percentual nem data.",
+          "A \"BF - Live 05/11\" é desconto? Não. A loja não anunciou desconto. O nome da coleção indica uma live de aquecimento em 5/11.",
+          "O cupom vale na Black Friday? Hoje ele vale enquanto a parceria estiver vigente. A loja não definiu regra para novembro e pode mudar as regras sem aviso.",
+          "Vale a pena esperar? Depende do que você precisa e do preço do dia. Compare com a tabela deste guia.",
+          "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
+          "O que muda quando a Skelt anunciar a Black Friday? O guia ganha a data, as regras e o que o cupom faz na campanha, com a data da atualização."
+        ]
+      }
+    ],
+    "pros": [
+      "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
+      "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
+      "Frete grátis em 12 cidades, sem valor mínimo"
+    ],
+    "cons": [
+      "A Skelt não anunciou Black Friday até 21/10/2026",
+      "A loja aceita um cupom por pedido: outro código da loja troca o nosso",
+      "Brinde e frete contam o valor final do pedido, depois dos descontos"
+    ],
+    "cta": {
+      "text": "Veja os preços de hoje no site da Skelt pelo link da parceria e confira o total com o SKEMCASACOMCECILIA antes de pagar.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "skelt-reclame-aqui-nota-reputacao",
+        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      }
+    ]
   }
 ];
