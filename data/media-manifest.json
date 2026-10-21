@@ -60950,6 +60950,282 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61480,
+      "sha256": "c5efdf152a4c7791e79e31b7cfa975c35bccc6ad563346003c42afc52ee6107e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-dux-capa.webp",
+      "storage_filename": "mais-mu-ou-dux-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104599,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c5efdf152a4c7791e79e31b7cfa975c35bccc6ad563346003c42afc52ee6107e/mais-mu-ou-dux-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c5efdf152a4c7791e79e31b7cfa975c35bccc6ad563346003c42afc52ee6107e/mais-mu-ou-dux-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.875Z",
+      "verification_etag_or_digest": "c5efdf152a4c7791e79e31b7cfa975c35bccc6ad563346003c42afc52ee6107e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108112,
+      "sha256": "c340c465941e02978ae76f16c7d8872b9b74bbf2255f60100fb642bd9f706a9f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-dux-creatina.webp",
+      "storage_filename": "mais-mu-ou-dux-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-dux.json",
+          "line": 254,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104831,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c340c465941e02978ae76f16c7d8872b9b74bbf2255f60100fb642bd9f706a9f/mais-mu-ou-dux-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c340c465941e02978ae76f16c7d8872b9b74bbf2255f60100fb642bd9f706a9f/mais-mu-ou-dux-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.877Z",
+      "verification_etag_or_digest": "c340c465941e02978ae76f16c7d8872b9b74bbf2255f60100fb642bd9f706a9f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83608,
+      "sha256": "c29a3ea0657ffeecb175e11f863285c4a8f0b00e57a2502f88ba8355769e15ff",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-dux-whey-isolado.webp",
+      "storage_filename": "mais-mu-ou-dux-whey-isolado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-dux.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-dux.json",
+          "line": 175,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104752,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c29a3ea0657ffeecb175e11f863285c4a8f0b00e57a2502f88ba8355769e15ff/mais-mu-ou-dux-whey-isolado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c29a3ea0657ffeecb175e11f863285c4a8f0b00e57a2502f88ba8355769e15ff/mais-mu-ou-dux-whey-isolado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.877Z",
+      "verification_etag_or_digest": "c29a3ea0657ffeecb175e11f863285c4a8f0b00e57a2502f88ba8355769e15ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64318,
+      "sha256": "319b2e6eab15c0068bd048984a686363748ab3bf186116d47265600fbdeef5bf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-growth-capa.webp",
+      "storage_filename": "mais-mu-ou-growth-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104303,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/319b2e6eab15c0068bd048984a686363748ab3bf186116d47265600fbdeef5bf/mais-mu-ou-growth-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/319b2e6eab15c0068bd048984a686363748ab3bf186116d47265600fbdeef5bf/mais-mu-ou-growth-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.877Z",
+      "verification_etag_or_digest": "319b2e6eab15c0068bd048984a686363748ab3bf186116d47265600fbdeef5bf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58862,
+      "sha256": "3feb54d5627bd49716e5cc6fd6dfd0e75be3091fd9df72aaf303dcb912782801",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-growth-creatina.webp",
+      "storage_filename": "mais-mu-ou-growth-creatina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-growth.json",
+          "line": 210,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104491,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3feb54d5627bd49716e5cc6fd6dfd0e75be3091fd9df72aaf303dcb912782801/mais-mu-ou-growth-creatina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3feb54d5627bd49716e5cc6fd6dfd0e75be3091fd9df72aaf303dcb912782801/mais-mu-ou-growth-creatina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.877Z",
+      "verification_etag_or_digest": "3feb54d5627bd49716e5cc6fd6dfd0e75be3091fd9df72aaf303dcb912782801",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73586,
+      "sha256": "b51895289cbc45557b7faf37f6ddcab3d988139849b06a4ee99041cc508f143f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-growth-whey-concentrado.webp",
+      "storage_filename": "mais-mu-ou-growth-whey-concentrado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-growth.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-growth.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 104390,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b51895289cbc45557b7faf37f6ddcab3d988139849b06a4ee99041cc508f143f/mais-mu-ou-growth-whey-concentrado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b51895289cbc45557b7faf37f6ddcab3d988139849b06a4ee99041cc508f143f/mais-mu-ou-growth-whey-concentrado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T04:07:01.877Z",
+      "verification_etag_or_digest": "b51895289cbc45557b7faf37f6ddcab3d988139849b06a4ee99041cc508f143f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
       "local_url": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
       "media_kind": "image",
