@@ -1,0 +1,279 @@
+{
+  "id": 555,
+  "slug": "best-vps-for-openclaw",
+  "locale": "en",
+  "translationKey": "hostinger-openclaw-melhor-vps",
+  "title": "Best VPS for OpenClaw: requirements and which KVM plan to pick",
+  "seoTitle": "Best VPS for OpenClaw: requirements and which KVM to pick",
+  "type": "Hosting Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw publishes no general minimum RAM. See how much each scenario needs and which Hostinger KVM plan fits, with prices from October 21, 2026.",
+  "metaDescription": "Best VPS for OpenClaw with no official minimum RAM: the KVM for each scenario, with a cloud or local model, and Hostinger prices from October 21, 2026.",
+  "publishedAt": "October 21, 2026",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+  "imageAlt": "White bars of increasing height beside the red OpenClaw mascot, on a purple background",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "If the AI model stays with the provider, that is, you use your own API key or Hostinger's AI credits, the request goes to the AI company and the model does not run on your server. An API key is the password OpenClaw uses to ask a provider for answers, and the provider charges for each use. In that case the documentation gives no memory number, and the server only runs the program. That is why KVM 1, with 4 GB of RAM, is the starting point. This is our reading of the documentation, not a measurement.",
+        "With a local model, which runs on the server itself, the math changes. The documentation sets a floor of 8 GiB of memory (about 8.6 GB) for its smallest local recipe, with a 64K context. KVM 2, with 8 GB, sits right at the limit. KVM 4, with 16 GB, is the first with room to spare.",
+        "If you don't want to look after a server, look at the [managed plan](/en/reviews/openclaw-hostinger-managed-or-vps). With the link it costs US$3.99/month over the first 24-month period, while KVM 1 costs US$6.49/month without the link (with the link, its price is shown in the cart). Hostinger installs and updates the assistant."
+      ]
+    },
+    {
+      "heading": "What the official documentation says (and doesn't say) about requirements",
+      "paragraphs": [
+        "The official installation and local-model pages, read on October 21, 2026, say the following:"
+      ],
+      "bullets": [
+        "**Node version.** OpenClaw needs Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and the npm installation requires that version. The page recommends Node 26. If Node is not installed, the official installer brings the version (Node 26 on macOS and Node 24 LTS on Linux).",
+        "**Local model.** For the smallest recipe offered by the documentation itself, the floor is 8 GiB of host memory, with a 64K context. The page says those floors do not guarantee that the model fits or runs at a useful speed.",
+        "**Hostinger VPS.** Hostinger installs OpenClaw on the VPS with Docker, a program that runs each application isolated in its own container. The VPS is a rented virtual server; with root access, you have full control of it."
+      ],
+      "postParagraphs": [
+        "It gives no RAM, processor (vCPU) or disk number for OpenClaw without a local model, nor a server minimum for the API key or credits scenario.",
+        "A detail on the units: 8 GiB is about 8.6 GB. KVM 2 is advertised with 8 GB, which is about 7.5 GiB, a bit below the floor, and that does not count the memory the system and Docker use. The documentation does not say whether this difference in units counts toward the floor."
+      ]
+    },
+    {
+      "heading": "How much RAM each scenario needs",
+      "paragraphs": [
+        "RAM is the server's working memory: it is where the program and, in the case of a local model, the model itself stay while running. The documentation gives a number only for the local model."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Scenario",
+          "What the documentation says",
+          "What that means for the plan"
+        ],
+        "rows": [
+          [
+            "API key or Hostinger credits",
+            "No RAM number. The request goes to the provider (Anthropic, OpenAI, Google Gemini or xAI).",
+            "No official number. KVM 1 is the starting point."
+          ],
+          [
+            "Local model, the smallest official recipe",
+            "Floor of 8 GiB of host memory, with a 64K context. It does not guarantee the model fits or runs fast.",
+            "KVM 1 (4 GB) is below the floor. KVM 2 (8 GB) sits at the limit. KVM 4 (16 GB) is the first with room."
+          ],
+          [
+            "Local model, larger recipes",
+            "The page says they need more memory, with no number.",
+            "No official count. Choose by the size of the model you want to run."
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Two details about the local model. The context is the amount of text (tokens, pieces of words) the model reads at once. When less than 20% of the context window is left, OpenClaw warns, with a floor of 8,000 tokens; below 10%, it blocks the reply, with a floor of 4,000 tokens.",
+        "In the KVM plan pages I read, none lists a graphics card (GPU). The documentation also does not say what speed a local model would have without one."
+      ]
+    },
+    {
+      "heading": "Which KVM plan to choose",
+      "paragraphs": [
+        "KVM is the name of Hostinger's virtual server plans. The table has the four, with prices for 24-month plans read on October 21, 2026. The price with the referral link is shown in the cart, because we did not read it on the global page. Read each plan against the documentation:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+        "alt": "Chart with three rows: a model outside the server (API key or credits) leads to KVM 1; a small local model leads to KVM 2, at the limit, or KVM 4; a local model with more context or other programs leads to KVM 4 or KVM 8",
+        "caption": "From OpenClaw's documentation read on October 21, 2026; we did not measure performance."
+      },
+      "comparisonTable": {
+        "headers": [
+          "Plan",
+          "vCPU (virtual processor)",
+          "RAM",
+          "NVMe disk",
+          "With the link",
+          "Without the link",
+          "Renewal"
+        ],
+        "rows": [
+          [
+            "KVM 1",
+            "1",
+            "4 GB",
+            "50 GB",
+            "Shown in the cart",
+            "US$6.49/month",
+            "US$11.99/month"
+          ],
+          [
+            "KVM 2",
+            "2",
+            "8 GB",
+            "100 GB",
+            "Shown in the cart",
+            "US$8.79/month",
+            "US$14.99/month"
+          ],
+          [
+            "KVM 4",
+            "4",
+            "16 GB",
+            "200 GB",
+            "Shown in the cart",
+            "US$12.99/month",
+            "US$28.99/month"
+          ],
+          [
+            "KVM 8",
+            "8",
+            "32 GB",
+            "400 GB",
+            "Shown in the cart",
+            "US$25.99/month",
+            "US$49.99/month"
+          ]
+        ]
+      },
+      "bullets": [
+        "**KVM 1 (4 GB).** Starting point for the API key or credits scenario. For a local model, it is below the official floor.",
+        "**KVM 2 (8 GB).** With an API key, there is room to spare. With a local model, it sits at the floor's limit, with no margin for the system.",
+        "**KVM 4 (16 GB).** The first plan with room above the official 8 GiB floor. The documentation does not say how well it performs with a local model.",
+        "**KVM 8 (32 GB).** Only makes sense with a larger local model. The documentation does not say how much memory each large recipe needs."
+      ],
+      "postParagraphs": [
+        "The referral link gives 20% off the first period only, on plans of 12 months or more, and it does not stack with other coupons. Renewal is charged at the normal price. [See how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running a Black Friday campaign and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+      ]
+    },
+    {
+      "heading": "VPS, running at home or managed: which scenario needs what",
+      "paragraphs": [
+        "The three paths run the same program, OpenClaw, with different costs and chores. The choice depends on three things: whether you want to deal with a server, whether the computer can stay on 24 hours a day, and whether the AI model is cloud-based or runs on your own equipment."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Scenario",
+          "Best path",
+          "Why"
+        ],
+        "rows": [
+          [
+            "You want the assistant running without touching a server, with an API key or Hostinger credits",
+            "Managed",
+            "Hostinger installs and maintains the assistant. On October 21, 2026, US$3.99/month with the link, on a 24-month plan"
+          ],
+          [
+            "You want root access and to run other programs on the same server, such as a website or n8n",
+            "VPS",
+            "You have full control. Updates and server security are yours"
+          ],
+          [
+            "You want to run the AI model on the server itself, without a provider key",
+            "VPS with a larger plan, or a home computer with spare memory",
+            "Memory decides everything. See the RAM count for the local model in this article"
+          ],
+          [
+            "You want the assistant only while your home computer is on, with a stable internet connection",
+            "Running at home",
+            "There is no server fee; the cost is electricity and a busy computer. If the internet goes down, the assistant goes down too"
+          ],
+          [
+            "You don't want to leave your computer on and want control of the server",
+            "VPS",
+            "It stays online without your machine. You do the updates with the Update button in Docker Manager"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "On the VPS, Hostinger installs OpenClaw with Docker, a program that runs each application isolated in a container. From then on, maintenance is yours."
+      ]
+    },
+    {
+      "heading": "The free VPS: Oracle Always Free",
+      "paragraphs": [
+        "Oracle has a free plan, Always Free. It is not from Hostinger and does not replace the paid VPS. According to Oracle's documentation, read on October 21, 2026:"
+      ],
+      "bullets": [
+        "Up to two Micro instances (AMD processor), with 1/8 OCPU and 1 GB of memory each.",
+        "Arm Ampere A1 instances: 2 OCPUs and 12 GB of memory in total, which you split as you like. The monthly limit is 1,500 OCPU-hours and 9,000 GB-hours.",
+        "200 GB of block storage in total, for the system disks and extras, with up to five backups.",
+        "Free instances must be created in the account's home region. Creating them elsewhere generates charges."
+      ],
+      "postParagraphs": [
+        "The rule that matters: Oracle says it can reclaim an idle instance. It is considered idle when, over a 7-day period, CPU usage at the 95th percentile stays below 20%, network usage stays below 20% and, on the A1 instances, memory usage also stays below 20%. An assistant that sits idle most of the time can fall under this rule. The documentation does not describe a notice before reclamation."
+      ]
+    },
+    {
+      "heading": "Referral link and price",
+      "paragraphs": [
+        "Prices of 24-month plans, read on October 21, 2026: managed costs US$3.99/month with the link. The VPS prices with the link are shown in the cart; without the link, KVM 1 is US$6.49 and KVM 2 is US$8.79. On renewal, managed and KVM 1 go to US$11.99/month, and KVM 2 to US$14.99/month."
+      ],
+      "postParagraphs": [
+        "The rule: the 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons. There is no code to type, because the discount goes in the link. Check the amount in the cart before paying, because Black Friday changes prices. See [how Hostinger's referral link works](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; it requires Node 24.16 or newer (or 26.1). With an API key or credits, KVM 1 is the starting point. With a local model, the floor is 8 GiB, and KVM 4 is the first with room to spare.",
+        "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger credits, you don't need an account with an AI provider, but you pay for usage.",
+        "Is Oracle really free? Yes, as long as the account stays on Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that stays idle for 7 days, with CPU, network and memory below 20%, can be reclaimed by Oracle.",
+        "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it can't, choose a VPS or the managed plan.",
+        "Is there a Hostinger coupon code for the OpenClaw VPS? There is no code to type. The 20% comes through the referral link, only on the first period, on plans of 12 months or more, and it does not stack with other coupons."
+      ]
+    },
+    {
+      "heading": "Who writes this",
+      "paragraphs": [
+        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses OpenClaw: this text gathers what Hostinger, Oracle and OpenClaw's official documentation say, read on October 21, 2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "The referral link already applies the discount: there is nothing to type. The 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+    "label": "See the plans with the referral link",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. No one on the team uses OpenClaw.",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps",
+      "title": "OpenClaw on Hostinger: managed or VPS? Price, what each one requires and who it suits"
+    },
+    {
+      "slug": "openclaw-vs-hermes-agent",
+      "title": "OpenClaw or Hermes Agent: which to choose and how to run each one on Hostinger"
+    },
+    {
+      "slug": "hostinger-coupon-code-referral",
+      "title": "Hostinger coupon: you don't need one — what the referral link gives"
+    }
+  ]
+}

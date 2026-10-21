@@ -51704,6 +51704,3030 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 8124,
+      "sha256": "b42ce7df492c6a63c19b6f7f79d7618eac9d705229add734abb4ebd2fcbe9f40",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ja.json",
+        "content/reviews/best-vps-for-openclaw-ko.json",
+        "content/reviews/best-vps-for-openclaw-zh-hans.json",
+        "content/reviews/best-vps-for-openclaw-zh-hant.json",
+        "content/reviews/best-vps-for-openclaw.json",
+        "content/reviews/bester-vps-fuer-openclaw.json",
+        "content/reviews/meilleur-vps-pour-openclaw.json",
+        "content/reviews/mejor-vps-para-openclaw.json",
+        "content/reviews/melhor-vps-para-openclaw.json",
+        "content/reviews/miglior-vps-per-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/bester-vps-fuer-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/meilleur-vps-pour-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/mejor-vps-para-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/melhor-vps-para-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/miglior-vps-per-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110925,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111203,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111483,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111762,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112041,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112319,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112599,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112878,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113156,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113434,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b42ce7df492c6a63c19b6f7f79d7618eac9d705229add734abb4ebd2fcbe9f40/melhor-vps-para-openclaw-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b42ce7df492c6a63c19b6f7f79d7618eac9d705229add734abb4ebd2fcbe9f40/melhor-vps-para-openclaw-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.240Z",
+      "verification_etag_or_digest": "b42ce7df492c6a63c19b6f7f79d7618eac9d705229add734abb4ebd2fcbe9f40",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40594,
+      "sha256": "88a95de9c7a87bbc7486f9e969019ce1f4144184a324a287f931155f052baf19",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bester-vps-fuer-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bester-vps-fuer-openclaw.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112387,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/88a95de9c7a87bbc7486f9e969019ce1f4144184a324a287f931155f052baf19/melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/88a95de9c7a87bbc7486f9e969019ce1f4144184a324a287f931155f052baf19/melhor-vps-para-openclaw-qual-kvm-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "88a95de9c7a87bbc7486f9e969019ce1f4144184a324a287f931155f052baf19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31658,
+      "sha256": "52a8c1d00ececee54a90da128995bf9109a17a0279f3832c40a4fbb0ba13a0cf",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112109,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/52a8c1d00ececee54a90da128995bf9109a17a0279f3832c40a4fbb0ba13a0cf/melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/52a8c1d00ececee54a90da128995bf9109a17a0279f3832c40a4fbb0ba13a0cf/melhor-vps-para-openclaw-qual-kvm-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "52a8c1d00ececee54a90da128995bf9109a17a0279f3832c40a4fbb0ba13a0cf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33450,
+      "sha256": "f83418ab216d2047b86b23a507261d2d88d4d5944fffdd4fde1b3dec057ed1b0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mejor-vps-para-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mejor-vps-para-openclaw.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112946,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f83418ab216d2047b86b23a507261d2d88d4d5944fffdd4fde1b3dec057ed1b0/melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f83418ab216d2047b86b23a507261d2d88d4d5944fffdd4fde1b3dec057ed1b0/melhor-vps-para-openclaw-qual-kvm-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "f83418ab216d2047b86b23a507261d2d88d4d5944fffdd4fde1b3dec057ed1b0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33870,
+      "sha256": "17d7db1db407ed1ea918e7bed602848ade1dc5700454245b47e578c091ff6a1e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/meilleur-vps-pour-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/meilleur-vps-pour-openclaw.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 112667,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/17d7db1db407ed1ea918e7bed602848ade1dc5700454245b47e578c091ff6a1e/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/17d7db1db407ed1ea918e7bed602848ade1dc5700454245b47e578c091ff6a1e/melhor-vps-para-openclaw-qual-kvm-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "17d7db1db407ed1ea918e7bed602848ade1dc5700454245b47e578c091ff6a1e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33036,
+      "sha256": "9b5342688b4661f3bf727200eedb25b6c9ebe5edb9e947fda6277fabe3ecc443",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/miglior-vps-per-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/miglior-vps-per-openclaw.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113502,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9b5342688b4661f3bf727200eedb25b6c9ebe5edb9e947fda6277fabe3ecc443/melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9b5342688b4661f3bf727200eedb25b6c9ebe5edb9e947fda6277fabe3ecc443/melhor-vps-para-openclaw-qual-kvm-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "9b5342688b4661f3bf727200eedb25b6c9ebe5edb9e947fda6277fabe3ecc443",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29378,
+      "sha256": "942b7ee43da4fee1f7708ffb9db3dfa95bacabb8b5d4ba878170348dfd587cec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ja.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110993,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/942b7ee43da4fee1f7708ffb9db3dfa95bacabb8b5d4ba878170348dfd587cec/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/942b7ee43da4fee1f7708ffb9db3dfa95bacabb8b5d4ba878170348dfd587cec/melhor-vps-para-openclaw-qual-kvm-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "942b7ee43da4fee1f7708ffb9db3dfa95bacabb8b5d4ba878170348dfd587cec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24850,
+      "sha256": "67ffda007d376dfe43fd91193a61b4fcac468680c59e7e4d1c49dbb7dbfb4f7b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ko.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111271,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/67ffda007d376dfe43fd91193a61b4fcac468680c59e7e4d1c49dbb7dbfb4f7b/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/67ffda007d376dfe43fd91193a61b4fcac468680c59e7e4d1c49dbb7dbfb4f7b/melhor-vps-para-openclaw-qual-kvm-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "67ffda007d376dfe43fd91193a61b4fcac468680c59e7e4d1c49dbb7dbfb4f7b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34394,
+      "sha256": "143a464bb74c43f9db04365dc7733844e4567e06d26ca954494233360edfce36",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhor-vps-para-openclaw.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhor-vps-para-openclaw.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113224,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/143a464bb74c43f9db04365dc7733844e4567e06d26ca954494233360edfce36/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/143a464bb74c43f9db04365dc7733844e4567e06d26ca954494233360edfce36/melhor-vps-para-openclaw-qual-kvm-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "143a464bb74c43f9db04365dc7733844e4567e06d26ca954494233360edfce36",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32866,
+      "sha256": "1f87fc25c16d4b2eb23511d234806bce8ce3f393539246d59df5c4c0118b19ae",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hans.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111551,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f87fc25c16d4b2eb23511d234806bce8ce3f393539246d59df5c4c0118b19ae/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f87fc25c16d4b2eb23511d234806bce8ce3f393539246d59df5c4c0118b19ae/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "1f87fc25c16d4b2eb23511d234806bce8ce3f393539246d59df5c4c0118b19ae",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32316,
+      "sha256": "e36d5632e1cc92e3452adad2dd05b14b742774dd66a0e824fb4b56068835b40f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "storage_filename": "melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hant.json",
+          "line": 108,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 111830,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e36d5632e1cc92e3452adad2dd05b14b742774dd66a0e824fb4b56068835b40f/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e36d5632e1cc92e3452adad2dd05b14b742774dd66a0e824fb4b56068835b40f/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "e36d5632e1cc92e3452adad2dd05b14b742774dd66a0e824fb4b56068835b40f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10622,
+      "sha256": "157c92c6248f9c7f68d5ac3286b7506fce23a4689bcfe2195d62a76142587d47",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+        "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+        "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+        "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps.json",
+        "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108100,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108381,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108662,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108943,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109223,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109509,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109795,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110082,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110363,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110644,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/157c92c6248f9c7f68d5ac3286b7506fce23a4689bcfe2195d62a76142587d47/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/157c92c6248f9c7f68d5ac3286b7506fce23a4689bcfe2195d62a76142587d47/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "157c92c6248f9c7f68d5ac3286b7506fce23a4689bcfe2195d62a76142587d47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34746,
+      "sha256": "895ed30321187b489c1e7c670d24a17e4444f0e3681d2b4d13e163742aa9afb5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+          "line": 68,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109252,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/895ed30321187b489c1e7c670d24a17e4444f0e3681d2b4d13e163742aa9afb5/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/895ed30321187b489c1e7c670d24a17e4444f0e3681d2b4d13e163742aa9afb5/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "895ed30321187b489c1e7c670d24a17e4444f0e3681d2b4d13e163742aa9afb5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32680,
+      "sha256": "0b202b77f0340fd8b9ab7e6564cb4f0d77d73c8aca25f3ba395d40cee0035cf0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108410,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0b202b77f0340fd8b9ab7e6564cb4f0d77d73c8aca25f3ba395d40cee0035cf0/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b202b77f0340fd8b9ab7e6564cb4f0d77d73c8aca25f3ba395d40cee0035cf0/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "0b202b77f0340fd8b9ab7e6564cb4f0d77d73c8aca25f3ba395d40cee0035cf0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33990,
+      "sha256": "61d60370c0a6f1ba136a784b3cf34c1ae63e9e273809dc9dcc276221d1d97649",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108691,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/61d60370c0a6f1ba136a784b3cf34c1ae63e9e273809dc9dcc276221d1d97649/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/61d60370c0a6f1ba136a784b3cf34c1ae63e9e273809dc9dcc276221d1d97649/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "61d60370c0a6f1ba136a784b3cf34c1ae63e9e273809dc9dcc276221d1d97649",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32248,
+      "sha256": "661a2c59c54f13fe814f9e02424950bef2fe45330d862b76d1410f92ba0673d7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108972,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/661a2c59c54f13fe814f9e02424950bef2fe45330d862b76d1410f92ba0673d7/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/661a2c59c54f13fe814f9e02424950bef2fe45330d862b76d1410f92ba0673d7/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "661a2c59c54f13fe814f9e02424950bef2fe45330d862b76d1410f92ba0673d7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32314,
+      "sha256": "bb43a3352e4e283db4dd3d2f136384073ec5d86793af772f99bb53b060233b19",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+          "line": 68,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109538,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bb43a3352e4e283db4dd3d2f136384073ec5d86793af772f99bb53b060233b19/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bb43a3352e4e283db4dd3d2f136384073ec5d86793af772f99bb53b060233b19/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "bb43a3352e4e283db4dd3d2f136384073ec5d86793af772f99bb53b060233b19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33488,
+      "sha256": "bfcf97935cb96e8642863e7a7276b6d988fd78612a17df945e888a1e51ad88de",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110111,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bfcf97935cb96e8642863e7a7276b6d988fd78612a17df945e888a1e51ad88de/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bfcf97935cb96e8642863e7a7276b6d988fd78612a17df945e888a1e51ad88de/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "bfcf97935cb96e8642863e7a7276b6d988fd78612a17df945e888a1e51ad88de",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28002,
+      "sha256": "fa8eb717283928960c0d06677bbd817cddea267195a7ed15840d759e20165c4f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+          "line": 68,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109824,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fa8eb717283928960c0d06677bbd817cddea267195a7ed15840d759e20165c4f/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa8eb717283928960c0d06677bbd817cddea267195a7ed15840d759e20165c4f/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "fa8eb717283928960c0d06677bbd817cddea267195a7ed15840d759e20165c4f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37434,
+      "sha256": "b09e0715b139d43945d4d578681fbcfff397b20c8c6b10173e7d53ea81ab340f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+          "line": 68,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108129,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b09e0715b139d43945d4d578681fbcfff397b20c8c6b10173e7d53ea81ab340f/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b09e0715b139d43945d4d578681fbcfff397b20c8c6b10173e7d53ea81ab340f/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "b09e0715b139d43945d4d578681fbcfff397b20c8c6b10173e7d53ea81ab340f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32976,
+      "sha256": "dd86559cbfaa57ff68b6a4e4de1620a415fc0d16d5bfe7dc845a6a7019bf947e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110673,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dd86559cbfaa57ff68b6a4e4de1620a415fc0d16d5bfe7dc845a6a7019bf947e/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd86559cbfaa57ff68b6a4e4de1620a415fc0d16d5bfe7dc845a6a7019bf947e/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "dd86559cbfaa57ff68b6a4e4de1620a415fc0d16d5bfe7dc845a6a7019bf947e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32220,
+      "sha256": "94ee6e67373099d8979c9112ef72c3944e8033548388649b0719015c4bdd4677",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110392,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/94ee6e67373099d8979c9112ef72c3944e8033548388649b0719015c4bdd4677/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/94ee6e67373099d8979c9112ef72c3944e8033548388649b0719015c4bdd4677/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "94ee6e67373099d8979c9112ef72c3944e8033548388649b0719015c4bdd4677",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31240,
+      "sha256": "adb68776e19b39d06f83107063ae9810c233be0810d96ac797f38c5b992daade",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+          "line": 169,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109353,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/adb68776e19b39d06f83107063ae9810c233be0810d96ac797f38c5b992daade/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/adb68776e19b39d06f83107063ae9810c233be0810d96ac797f38c5b992daade/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "adb68776e19b39d06f83107063ae9810c233be0810d96ac797f38c5b992daade",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31206,
+      "sha256": "bc0e35e15d65274e6285937c8f83668a29395fe6251c12b86c9c09d4c713ae3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108506,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bc0e35e15d65274e6285937c8f83668a29395fe6251c12b86c9c09d4c713ae3b/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc0e35e15d65274e6285937c8f83668a29395fe6251c12b86c9c09d4c713ae3b/openclaw-hostinger-gerenciado-ou-vps-telegram-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "bc0e35e15d65274e6285937c8f83668a29395fe6251c12b86c9c09d4c713ae3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30702,
+      "sha256": "50ed486f6cc0214998dfc89208406b22c4f647ca4cf1e7187dbbda4a0f42d2a8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108787,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50ed486f6cc0214998dfc89208406b22c4f647ca4cf1e7187dbbda4a0f42d2a8/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50ed486f6cc0214998dfc89208406b22c4f647ca4cf1e7187dbbda4a0f42d2a8/openclaw-hostinger-gerenciado-ou-vps-telegram-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "50ed486f6cc0214998dfc89208406b22c4f647ca4cf1e7187dbbda4a0f42d2a8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33626,
+      "sha256": "4d5ab56420e6488ad85a2cea0046861a0f8bbfec1138f828b7099b5f6edf34c3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109068,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4d5ab56420e6488ad85a2cea0046861a0f8bbfec1138f828b7099b5f6edf34c3/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d5ab56420e6488ad85a2cea0046861a0f8bbfec1138f828b7099b5f6edf34c3/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "4d5ab56420e6488ad85a2cea0046861a0f8bbfec1138f828b7099b5f6edf34c3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31138,
+      "sha256": "2f0d6bd938fc7085e40127f3144aaa95954b7f47b0d3aaee4ccd8a5faedb5d9d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+          "line": 169,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109639,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2f0d6bd938fc7085e40127f3144aaa95954b7f47b0d3aaee4ccd8a5faedb5d9d/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2f0d6bd938fc7085e40127f3144aaa95954b7f47b0d3aaee4ccd8a5faedb5d9d/openclaw-hostinger-gerenciado-ou-vps-telegram-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "2f0d6bd938fc7085e40127f3144aaa95954b7f47b0d3aaee4ccd8a5faedb5d9d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28202,
+      "sha256": "bc98f4307504ebf0c4e17a2ecf862cd579a45aaf57a2156a3e8b7ac48aded800",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110207,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bc98f4307504ebf0c4e17a2ecf862cd579a45aaf57a2156a3e8b7ac48aded800/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc98f4307504ebf0c4e17a2ecf862cd579a45aaf57a2156a3e8b7ac48aded800/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "bc98f4307504ebf0c4e17a2ecf862cd579a45aaf57a2156a3e8b7ac48aded800",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22702,
+      "sha256": "d57093f71c667f22ad7b85029870792c2d17ef82a668ec42c96a5e0dec755f73",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+          "line": 169,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 109925,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d57093f71c667f22ad7b85029870792c2d17ef82a668ec42c96a5e0dec755f73/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d57093f71c667f22ad7b85029870792c2d17ef82a668ec42c96a5e0dec755f73/openclaw-hostinger-gerenciado-ou-vps-telegram-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "d57093f71c667f22ad7b85029870792c2d17ef82a668ec42c96a5e0dec755f73",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31200,
+      "sha256": "78baa653dc2cef5980a40c84ffbe48604ba92260d73dc20dd168e2589d9f0c81",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+          "line": 164,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 108225,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/78baa653dc2cef5980a40c84ffbe48604ba92260d73dc20dd168e2589d9f0c81/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78baa653dc2cef5980a40c84ffbe48604ba92260d73dc20dd168e2589d9f0c81/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "78baa653dc2cef5980a40c84ffbe48604ba92260d73dc20dd168e2589d9f0c81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29224,
+      "sha256": "81074c53722b420d753ade15c0165040af2b612bc8ce544616a445a9b39f4d02",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110769,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/81074c53722b420d753ade15c0165040af2b612bc8ce544616a445a9b39f4d02/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/81074c53722b420d753ade15c0165040af2b612bc8ce544616a445a9b39f4d02/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "81074c53722b420d753ade15c0165040af2b612bc8ce544616a445a9b39f4d02",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29016,
+      "sha256": "3b702e6d351ef5d7ea6e8f064468e86d0bcdaceac4cf33c4dbfad883e013b6a4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+          "line": 165,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 110488,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3b702e6d351ef5d7ea6e8f064468e86d0bcdaceac4cf33c4dbfad883e013b6a4/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3b702e6d351ef5d7ea6e8f064468e86d0bcdaceac4cf33c4dbfad883e013b6a4/openclaw-hostinger-gerenciado-ou-vps-telegram-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "3b702e6d351ef5d7ea6e8f064468e86d0bcdaceac4cf33c4dbfad883e013b6a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20306,
+      "sha256": "5cd91ec5bd5876bc25f26be4a70a5e24676120a03ab4539dc5718ba4f1f61cf8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+        "content/reviews/openclaw-o-hermes-agent.json",
+        "content/reviews/openclaw-oder-hermes-agent.json",
+        "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+        "content/reviews/openclaw-ou-hermes-agent.json",
+        "content/reviews/openclaw-vs-hermes-agent-ja.json",
+        "content/reviews/openclaw-vs-hermes-agent-ko.json",
+        "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+        "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+        "content/reviews/openclaw-vs-hermes-agent.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-oder-hermes-agent.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113713,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114008,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114301,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114596,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114889,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115183,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115476,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115771,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116065,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116359,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5cd91ec5bd5876bc25f26be4a70a5e24676120a03ab4539dc5718ba4f1f61cf8/openclaw-ou-hermes-agent-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5cd91ec5bd5876bc25f26be4a70a5e24676120a03ab4539dc5718ba4f1f61cf8/openclaw-ou-hermes-agent-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "5cd91ec5bd5876bc25f26be4a70a5e24676120a03ab4539dc5718ba4f1f61cf8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35540,
+      "sha256": "ebbe214d1e82b390059c1b340b23069d0e81fcec782a45cf4b53348bd3a7131f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-de.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-oder-hermes-agent.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-oder-hermes-agent.json",
+          "line": 146,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114408,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ebbe214d1e82b390059c1b340b23069d0e81fcec782a45cf4b53348bd3a7131f/openclaw-ou-hermes-agent-perfil-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ebbe214d1e82b390059c1b340b23069d0e81fcec782a45cf4b53348bd3a7131f/openclaw-ou-hermes-agent-perfil-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "ebbe214d1e82b390059c1b340b23069d0e81fcec782a45cf4b53348bd3a7131f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35060,
+      "sha256": "2902262f0bbc0fb0218076a1383e8848d98ba77deeaa06ea836b526cf4c6b5e3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-en.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116466,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2902262f0bbc0fb0218076a1383e8848d98ba77deeaa06ea836b526cf4c6b5e3/openclaw-ou-hermes-agent-perfil-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2902262f0bbc0fb0218076a1383e8848d98ba77deeaa06ea836b526cf4c6b5e3/openclaw-ou-hermes-agent-perfil-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "2902262f0bbc0fb0218076a1383e8848d98ba77deeaa06ea836b526cf4c6b5e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35710,
+      "sha256": "164a0fbe326a6393d745a0588c9a4514c2bc2538627193100615d9dbd1046ca5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-es.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114115,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/164a0fbe326a6393d745a0588c9a4514c2bc2538627193100615d9dbd1046ca5/openclaw-ou-hermes-agent-perfil-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/164a0fbe326a6393d745a0588c9a4514c2bc2538627193100615d9dbd1046ca5/openclaw-ou-hermes-agent-perfil-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "164a0fbe326a6393d745a0588c9a4514c2bc2538627193100615d9dbd1046ca5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36142,
+      "sha256": "75932e0869c1aff5e6ca21babe091036c4385d0cfc52635bf53fde5b86ecb0be",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-fr.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114703,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/75932e0869c1aff5e6ca21babe091036c4385d0cfc52635bf53fde5b86ecb0be/openclaw-ou-hermes-agent-perfil-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/75932e0869c1aff5e6ca21babe091036c4385d0cfc52635bf53fde5b86ecb0be/openclaw-ou-hermes-agent-perfil-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "75932e0869c1aff5e6ca21babe091036c4385d0cfc52635bf53fde5b86ecb0be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33702,
+      "sha256": "c3ebe9ecac519551d9d24442c2d0bf57645cda738bb94a145e86ae7a06f42398",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-it.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+          "line": 146,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 113820,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c3ebe9ecac519551d9d24442c2d0bf57645cda738bb94a145e86ae7a06f42398/openclaw-ou-hermes-agent-perfil-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c3ebe9ecac519551d9d24442c2d0bf57645cda738bb94a145e86ae7a06f42398/openclaw-ou-hermes-agent-perfil-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "c3ebe9ecac519551d9d24442c2d0bf57645cda738bb94a145e86ae7a06f42398",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31214,
+      "sha256": "b4132f818e2d51201cfe58ada97c478886b952de731a72bcc62eddc9df6763bd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-ja.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ja.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115290,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b4132f818e2d51201cfe58ada97c478886b952de731a72bcc62eddc9df6763bd/openclaw-ou-hermes-agent-perfil-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b4132f818e2d51201cfe58ada97c478886b952de731a72bcc62eddc9df6763bd/openclaw-ou-hermes-agent-perfil-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "b4132f818e2d51201cfe58ada97c478886b952de731a72bcc62eddc9df6763bd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27888,
+      "sha256": "1a6a2a27ac3ea07ee066c906ee5d7b2efe9b45fa2d8d9b6bc7e854b076cfad11",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-ko.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ko.json",
+          "line": 146,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115583,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1a6a2a27ac3ea07ee066c906ee5d7b2efe9b45fa2d8d9b6bc7e854b076cfad11/openclaw-ou-hermes-agent-perfil-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1a6a2a27ac3ea07ee066c906ee5d7b2efe9b45fa2d8d9b6bc7e854b076cfad11/openclaw-ou-hermes-agent-perfil-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "1a6a2a27ac3ea07ee066c906ee5d7b2efe9b45fa2d8d9b6bc7e854b076cfad11",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34610,
+      "sha256": "7b4c40822e46546b87205c9d4a9b029ff4b8db756195134517587fba2f80b932",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-pt.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-ou-hermes-agent.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent.json",
+          "line": 146,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 114996,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7b4c40822e46546b87205c9d4a9b029ff4b8db756195134517587fba2f80b932/openclaw-ou-hermes-agent-perfil-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7b4c40822e46546b87205c9d4a9b029ff4b8db756195134517587fba2f80b932/openclaw-ou-hermes-agent-perfil-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "7b4c40822e46546b87205c9d4a9b029ff4b8db756195134517587fba2f80b932",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34750,
+      "sha256": "707701362bfa4771de5e86d26f808f25ab2833d28ce627ea50cbf74c5a26c985",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 115878,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/707701362bfa4771de5e86d26f808f25ab2833d28ce627ea50cbf74c5a26c985/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/707701362bfa4771de5e86d26f808f25ab2833d28ce627ea50cbf74c5a26c985/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "707701362bfa4771de5e86d26f808f25ab2833d28ce627ea50cbf74c5a26c985",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33902,
+      "sha256": "11c40f00e5642af00cc397baa536de08924e7a20be57fe9d0d074dd65c86b18a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+          "line": 147,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116172,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/11c40f00e5642af00cc397baa536de08924e7a20be57fe9d0d074dd65c86b18a/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/11c40f00e5642af00cc397baa536de08924e7a20be57fe9d0d074dd65c86b18a/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "11c40f00e5642af00cc397baa536de08924e7a20be57fe9d0d074dd65c86b18a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11682,
+      "sha256": "ba589bc0ec96f51136fe591701fbde263a985fb13e201af525995f16a5fc738b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-anleitung.json",
+        "content/reviews/paperclip-ai-hostinger-guida.json",
+        "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+        "content/reviews/paperclip-ai-hostinger-guide.json",
+        "content/reviews/paperclip-ai-hostinger-ja.json",
+        "content/reviews/paperclip-ai-hostinger-ko.json",
+        "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+        "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+        "content/reviews/paperclip-ai-hostinger.json",
+        "content/reviews/paperclip-ai-que-es-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-anleitung.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guida.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-que-es-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116652,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116918,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117185,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117448,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117711,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117973,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118240,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118503,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118765,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119027,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ba589bc0ec96f51136fe591701fbde263a985fb13e201af525995f16a5fc738b/paperclip-ai-hostinger-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba589bc0ec96f51136fe591701fbde263a985fb13e201af525995f16a5fc738b/paperclip-ai-hostinger-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "ba589bc0ec96f51136fe591701fbde263a985fb13e201af525995f16a5fc738b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23196,
+      "sha256": "06a82b909da6d9bfc3f5a83118f704ef73b61bcf74cb4e3a6540ac9f8430ad74",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-de.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-de.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-anleitung.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-anleitung.json",
+          "line": 58,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116671,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/06a82b909da6d9bfc3f5a83118f704ef73b61bcf74cb4e3a6540ac9f8430ad74/paperclip-ai-hostinger-organograma-de.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/06a82b909da6d9bfc3f5a83118f704ef73b61bcf74cb4e3a6540ac9f8430ad74/paperclip-ai-hostinger-organograma-de.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "06a82b909da6d9bfc3f5a83118f704ef73b61bcf74cb4e3a6540ac9f8430ad74",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23526,
+      "sha256": "d41e80a6376baacd032648f2981633825ac68ca47de243bcf32d5a165a858716",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-en.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-en.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guide.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117467,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d41e80a6376baacd032648f2981633825ac68ca47de243bcf32d5a165a858716/paperclip-ai-hostinger-organograma-en.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d41e80a6376baacd032648f2981633825ac68ca47de243bcf32d5a165a858716/paperclip-ai-hostinger-organograma-en.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "d41e80a6376baacd032648f2981633825ac68ca47de243bcf32d5a165a858716",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-es.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-es.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25006,
+      "sha256": "d3dcbfc847361e6c141798ff9f246a7c18b6116093281b85b67c536a013ebb20",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-es.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-es.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-que-es-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-que-es-hostinger.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-es.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119046,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-es.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d3dcbfc847361e6c141798ff9f246a7c18b6116093281b85b67c536a013ebb20/paperclip-ai-hostinger-organograma-es.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d3dcbfc847361e6c141798ff9f246a7c18b6116093281b85b67c536a013ebb20/paperclip-ai-hostinger-organograma-es.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "d3dcbfc847361e6c141798ff9f246a7c18b6116093281b85b67c536a013ebb20",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23828,
+      "sha256": "4b919b41a90f545635412f9348faeff5068ae0f160b0eadf13eee021020032dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-fr.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-fr.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117204,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b919b41a90f545635412f9348faeff5068ae0f160b0eadf13eee021020032dd/paperclip-ai-hostinger-organograma-fr.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b919b41a90f545635412f9348faeff5068ae0f160b0eadf13eee021020032dd/paperclip-ai-hostinger-organograma-fr.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.241Z",
+      "verification_etag_or_digest": "4b919b41a90f545635412f9348faeff5068ae0f160b0eadf13eee021020032dd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25382,
+      "sha256": "407a12a87fe5c1525531fe99380c9a8397e04a9058fcc72cc059324150820bf8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-it.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-it.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-guida.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guida.json",
+          "line": 58,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 116937,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/407a12a87fe5c1525531fe99380c9a8397e04a9058fcc72cc059324150820bf8/paperclip-ai-hostinger-organograma-it.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/407a12a87fe5c1525531fe99380c9a8397e04a9058fcc72cc059324150820bf8/paperclip-ai-hostinger-organograma-it.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "407a12a87fe5c1525531fe99380c9a8397e04a9058fcc72cc059324150820bf8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ja.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22134,
+      "sha256": "996c5cb92e11a4ab6dd7f4973de5d8b98c6de54aa44e6d8180d8d35195013a3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-ja.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-ja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ja.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117730,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/996c5cb92e11a4ab6dd7f4973de5d8b98c6de54aa44e6d8180d8d35195013a3b/paperclip-ai-hostinger-organograma-ja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/996c5cb92e11a4ab6dd7f4973de5d8b98c6de54aa44e6d8180d8d35195013a3b/paperclip-ai-hostinger-organograma-ja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "996c5cb92e11a4ab6dd7f4973de5d8b98c6de54aa44e6d8180d8d35195013a3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19464,
+      "sha256": "6fdd25d25b0aa4dfc7ba5a9ef22763ac33dd34f84964ab868aeae5dc5838ee9a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-ko.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-ko.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ko.json",
+          "line": 58,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 117992,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6fdd25d25b0aa4dfc7ba5a9ef22763ac33dd34f84964ab868aeae5dc5838ee9a/paperclip-ai-hostinger-organograma-ko.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6fdd25d25b0aa4dfc7ba5a9ef22763ac33dd34f84964ab868aeae5dc5838ee9a/paperclip-ai-hostinger-organograma-ko.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "6fdd25d25b0aa4dfc7ba5a9ef22763ac33dd34f84964ab868aeae5dc5838ee9a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24952,
+      "sha256": "67846eeef1b9a1272aff6666c90a3a6b04bfc74a102680143407b222850a1c8a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-pt.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-pt.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger.json",
+          "line": 58,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118784,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/67846eeef1b9a1272aff6666c90a3a6b04bfc74a102680143407b222850a1c8a/paperclip-ai-hostinger-organograma-pt.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/67846eeef1b9a1272aff6666c90a3a6b04bfc74a102680143407b222850a1c8a/paperclip-ai-hostinger-organograma-pt.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "67846eeef1b9a1272aff6666c90a3a6b04bfc74a102680143407b222850a1c8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19794,
+      "sha256": "15aabc79bbaf0f04f627be504e1c62bc181499dbd0960dec817558dbc91ebc3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118259,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/15aabc79bbaf0f04f627be504e1c62bc181499dbd0960dec817558dbc91ebc3b/paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/15aabc79bbaf0f04f627be504e1c62bc181499dbd0960dec817558dbc91ebc3b/paperclip-ai-hostinger-organograma-zh-hans.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "15aabc79bbaf0f04f627be504e1c62bc181499dbd0960dec817558dbc91ebc3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20270,
+      "sha256": "42801bbd67cf4b5ec3b3fb9007c7304c4dcac569bf22954f105b5e560501c204",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "storage_filename": "paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 118522,
+          "column": 19,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/42801bbd67cf4b5ec3b3fb9007c7304c4dcac569bf22954f105b5e560501c204/paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/42801bbd67cf4b5ec3b3fb9007c7304c4dcac569bf22954f105b5e560501c204/paperclip-ai-hostinger-organograma-zh-hant.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-21T21:43:07.242Z",
+      "verification_etag_or_digest": "42801bbd67cf4b5ec3b3fb9007c7304c4dcac569bf22954f105b5e560501c204",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
       "local_url": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
       "media_kind": "image",

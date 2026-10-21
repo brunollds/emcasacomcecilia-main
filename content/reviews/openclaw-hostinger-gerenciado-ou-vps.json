@@ -1,0 +1,280 @@
+{
+  "id": 544,
+  "slug": "openclaw-hostinger-gerenciado-ou-vps",
+  "locale": "pt",
+  "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
+  "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve",
+  "seoTitle": "OpenClaw Hostinger: gerenciado ou VPS? Preço e escolha",
+  "type": "Guia de Hospedagem",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw na Hostinger: o gerenciado sai mais barato no primeiro período, e o VPS dá root e Docker. Preços de 21/10/2026 e para quem é cada um.",
+  "metaDescription": "Gerenciado ou VPS para o OpenClaw na Hostinger: preço com e sem a indicação, renovação, créditos de IA, Telegram e WhatsApp e quem cuida do servidor.",
+  "publishedAt": "21 de outubro de 2026",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+  "imageAlt": "Mascote vermelho do OpenClaw entre o ícone de uma nuvem e o de um servidor, em branco sobre fundo roxo",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Escolha o **gerenciado** se você quer o assistente funcionando sem cuidar de servidor: a Hostinger instala, atualiza e faz os backups. Escolha o **VPS** se você quer acesso root (controle total do servidor) e rodar outros programas na mesma máquina, e aceita atualizar e proteger o sistema.",
+        "Nas duas opções dá para usar os créditos de IA da Hostinger ou a sua própria chave de API. Em 21/10/2026, com a indicação, o gerenciado sai por **R$ 19,99/mês** e o VPS KVM 1 por **R$ 23,99/mês**, em plano de 24 meses. Os dois renovam por **R$ 59,99/mês**."
+      ]
+    },
+    {
+      "heading": "O que é o OpenClaw",
+      "paragraphs": [
+        "O OpenClaw é um assistente de IA de código aberto, com licença MIT. Ele roda num computador ou servidor, guarda conversas, memória e credenciais nesse equipamento e responde pelos aplicativos de mensagem que você já usa, como Telegram, WhatsApp, Slack e Discord. Para pensar e responder, ele usa modelos de IA de outras empresas, como Claude, GPT e Gemini, que cobram pelo uso.",
+        "O projeto não cobra nada: o README oficial diz que ele não tem plano pago, serviço hospedado nem token. O que custa dinheiro é o servidor onde ele roda e o uso dos modelos de IA. Na Hostinger, há dois caminhos:"
+      ],
+      "bullets": [
+        "**Gerenciado:** você contrata o plano, e a Hostinger instala, atualiza e mantém o assistente.",
+        "**VPS:** você aluga um servidor virtual, e a Hostinger instala o OpenClaw nele com Docker, um programa que roda cada aplicativo isolado num contêiner. Daí em diante, as atualizações e a segurança do servidor são suas."
+      ]
+    },
+    {
+      "heading": "Gerenciado ou VPS: a tabela",
+      "paragraphs": [
+        "O OpenClaw gerenciado é o plano \"Apps de automação com IA\", o mesmo do Hermes Agent e do Paperclip gerenciados, pelo mesmo preço. Os valores são de plano de 24 meses, lidos em 21/10/2026."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
+        "alt": "Quadro com duas colunas, Gerenciado e VPS: a Hostinger instala nos dois; atualizações e segurança do servidor ficam com a Hostinger no gerenciado e com você no VPS; créditos de IA ou chave própria você escolhe nos dois",
+        "caption": "Quem cuida de quê em cada opção, pela página da Hostinger e pela documentação do OpenClaw lidas em 21/10/2026."
+      },
+      "comparisonTable": {
+        "headers": [
+          "",
+          "Gerenciado",
+          "VPS (KVM 1)"
+        ],
+        "rows": [
+          [
+            "Preço com a indicação",
+            "R$ 19,99/mês",
+            "R$ 23,99/mês"
+          ],
+          [
+            "Renovação",
+            "R$ 59,99/mês",
+            "R$ 59,99/mês"
+          ],
+          [
+            "Créditos de IA",
+            "Saldo inicial incluído; o uso além dele é cobrado à parte",
+            "Opcionais: dá para comprar no checkout"
+          ],
+          [
+            "Chave de API própria",
+            "Opcional (Anthropic, OpenAI, Google Gemini ou xAI)",
+            "Só se você não comprar os créditos"
+          ],
+          [
+            "Acesso root",
+            "A página fala em acesso à linha de comando, sem citar root",
+            "Sim"
+          ],
+          [
+            "Quem atualiza",
+            "A Hostinger, automaticamente",
+            "Você, pelo botão Update do Docker Manager"
+          ],
+          [
+            "Segurança do servidor",
+            "A Hostinger",
+            "Você"
+          ],
+          [
+            "Telegram e WhatsApp",
+            "Escolhidos no assistente de configuração",
+            "Campos opcionais na configuração do VPS"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor de IA. O provedor cobra pelo uso, direto de você."
+      ]
+    },
+    {
+      "heading": "Quanto custa de verdade",
+      "paragraphs": [
+        "O preço da página é por mês, mas o plano de 24 meses é pago de uma vez, ou parcelado em até 12 vezes:"
+      ],
+      "bullets": [
+        "**Gerenciado, com a indicação:** 24 × R$ 19,99 = **R$ 479,76**. Sem a indicação: 24 × R$ 24,99 = R$ 599,76.",
+        "**VPS KVM 1, com a indicação:** 24 × R$ 23,99 = **R$ 575,76**. Sem a indicação: 24 × R$ 29,99 = R$ 719,76.",
+        "**Renovação, nos 24 meses seguintes (igual nos dois):** 24 × R$ 59,99 = R$ 1.439,76."
+      ],
+      "postParagraphs": [
+        "Com a indicação, o gerenciado sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses. Depois, os dois custam o mesmo. A renovação vem ligada por padrão; veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel).",
+        "O plano não é tudo: o uso da IA entra à parte. Com os créditos da Hostinger, o gerenciado traz um saldo inicial, e o que passar dele é cobrado conforme o consumo. O preço da recarga não aparece em nenhuma página pública, então confira no painel antes de contar com ele. Com a sua chave, o provedor (OpenAI, Anthropic ou outro) cobra direto de você, conforme o modelo e o volume de conversas.",
+        "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só se o último reembolso de VPS tiver sido pedido há mais de 180 dias. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
+      ]
+    },
+    {
+      "heading": "Quem deve escolher cada um",
+      "paragraphs": [
+        "**Escolha o gerenciado se:**"
+      ],
+      "bullets": [
+        "você quer o assistente no ar sem instalar nem configurar servidor;",
+        "prefere que a Hostinger cuide das atualizações, dos backups e da segurança;",
+        "não sabe o que é root nem Docker;",
+        "quer o OpenClaw, ou trocar para o Hermes Agent ou o Paperclip no mesmo plano."
+      ],
+      "postParagraphs": [
+        "**Escolha o VPS se:** você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n; sabe mexer em servidor, ou quer aprender, e aceita atualizar e proteger o sistema; ou precisa de mais memória e disco: os planos KVM vão de 4 GB a 32 GB de RAM.",
+        "**Na dúvida, comece pelo gerenciado.** Ele custa menos no primeiro período e não pede conhecimento de servidor."
+      ]
+    },
+    {
+      "heading": "Telegram e WhatsApp",
+      "paragraphs": [
+        "Os dois canais funcionam nas duas opções. A diferença está em onde você configura. No gerenciado, você escolhe os canais no assistente de configuração da Hostinger: no WhatsApp, lê um QR code; no Telegram, cola o token do bot. No VPS, a configuração tem campos opcionais para o número do WhatsApp, com código do país, e para o token do bot do Telegram. A documentação não mostra onde aparece o QR do WhatsApp no VPS.",
+        "Para o Telegram, são três passos:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-pt.webp",
+        "alt": "Três passos para ligar o OpenClaw ao Telegram: criar o bot no BotFather e copiar o token, colar o token na configuração do OpenClaw e mandar uma mensagem para aprovar o primeiro contato",
+        "caption": "Os passos da documentação oficial do OpenClaw, lida em 21/10/2026."
+      },
+      "bullets": [
+        "Crie o bot no BotFather, o bot oficial do Telegram para criar bots, e copie o token.",
+        "Cole o token na configuração do OpenClaw.",
+        "Mande uma mensagem para o bot. Quem ainda não foi aprovado recebe um código de pareamento, e você aprova o primeiro contato no painel do OpenClaw."
+      ],
+      "postParagraphs": [
+        "No WhatsApp, o OpenClaw entra como um aparelho vinculado, como o WhatsApp Web, e o login é só por QR code. A documentação recomenda usar um número separado do seu número pessoal."
+      ]
+    },
+    {
+      "heading": "Segurança: quando muda a decisão",
+      "paragraphs": [
+        "A pergunta é quem cuida dos dados e das credenciais. No gerenciado, a Hostinger diz que cada instância roda isolada num contêiner, com um gateway de segurança próprio. É a descrição da Hostinger, não um teste nosso. No VPS, a própria Hostinger diz que, com acesso root, a configuração, as atualizações e a segurança ficam com quem contratou.",
+        "A política de segurança do OpenClaw diz que ele é feito para uma pessoa de confiança, não para várias pessoas que não se conhecem: quem consegue falar com o assistente pode fazer com que ele use as ferramentas dele. Isso muda a escolha em três casos:"
+      ],
+      "bullets": [
+        "**Mais de uma pessoa vai usar o assistente** (família ou equipe): o projeto recomenda um servidor por pessoa. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
+        "**O assistente vai ter acesso ao seu e-mail, ao banco ou a outras contas:** o projeto pede que o servidor não tenha contas pessoais logadas. A Hostinger sugere uma caixa de e-mail separada para o assistente.",
+        "**No VPS, guarde o token do gateway** que a instalação gera e não o mande em conversa com o assistente."
+      ]
+    },
+    {
+      "heading": "Indicação e preço com o link",
+      "paragraphs": [
+        "O link de indicação já aplica o desconto: não há código para digitar. São **20% só no primeiro período**, em planos de 12 meses ou mais, e o desconto **não soma com outros cupons**. A renovação sai pelo preço normal. A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao).",
+        "Preços de planos de 24 meses, lidos em 21/10/2026:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Plano",
+          "Sem a indicação",
+          "Com a indicação",
+          "Renovação"
+        ],
+        "rows": [
+          [
+            "Gerenciado (Apps de automação com IA)",
+            "R$ 24,99/mês",
+            "R$ 19,99/mês",
+            "R$ 59,99/mês"
+          ],
+          [
+            "VPS KVM 1 (4 GB de RAM)",
+            "R$ 29,99/mês",
+            "R$ 23,99/mês",
+            "R$ 59,99/mês"
+          ],
+          [
+            "VPS KVM 2 (8 GB)",
+            "R$ 42,99/mês",
+            "R$ 34,39/mês",
+            "R$ 77,99/mês"
+          ],
+          [
+            "VPS KVM 4 (16 GB)",
+            "R$ 59,99/mês",
+            "R$ 47,99/mês",
+            "R$ 149,99/mês"
+          ],
+          [
+            "VPS KVM 8 (32 GB)",
+            "R$ 119,99/mês",
+            "R$ 95,99/mês",
+            "R$ 259,99/mês"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Hostinger está em campanha de Black Friday, e os preços mudam. Veja [a Black Friday da Hostinger](/reviews/black-friday-hostinger) e confira o valor no carrinho antes de pagar."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: em 21/10/2026, ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
+        "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
+        "Tem cupom de desconto da Hostinger para o OpenClaw? Não há código para digitar. O desconto de 20% vem pelo link de indicação, só no primeiro período e em planos de 12 meses ou mais.",
+        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços de 21/10/2026. O desconto da indicação não se repete na renovação.",
+        "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
+      ]
+    },
+    {
+      "heading": "Quem escreve",
+      "paragraphs": [
+        "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem, lidas em 21/10/2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
+    "label": "Ver os planos com o link de indicação",
+    "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-hostinger-indicacao",
+      "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+    },
+    {
+      "slug": "hostinger-e-confiavel",
+      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+    },
+    {
+      "slug": "black-friday-hostinger",
+      "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+    }
+  ]
+}

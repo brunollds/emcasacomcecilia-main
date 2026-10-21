@@ -1,0 +1,294 @@
+{
+  "id": 573,
+  "slug": "openclaw-vs-hermes-agent-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-openclaw-ou-hermes-agent",
+  "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑",
+  "seoTitle": "OpenClaw 还是 Hermes Agent？2026年该选哪个",
+  "type": "主机指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "比较 OpenClaw 与 Hermes Agent：聊天渠道、记忆、学习、授权与在 Hostinger 上的实际花费。附2026年10月21日查阅的价格。",
+  "metaDescription": "OpenClaw 还是 Hermes Agent？在 Hostinger 上怎么选：从聊天渠道、记忆、AI 模型到含推荐链接与不含的价格，2026年10月21日时点比较。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+  "imageAlt": "紫色背景左侧是红色的 OpenClaw 吉祥物，深色背景右侧是 Hermes Agent 的图标（黑白绘制的女孩）",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "想要最多的聊天渠道、网页界面（Control UI），以及手机和电脑的原生应用，就选 **OpenClaw**。README 写明支持超过 20 个渠道，项目由一个非营利基金会维护。想要一个会随使用而学习的代理，就选 **Hermes Agent**：它的记忆由代理自己整理，它会自己创建并改进技能，能搜索过去的对话，并用 Honcho 做用户建模。Hermes Agent 由 Nous Research 开发。",
+        "如果你不想管服务器，Hostinger 的托管方案两者都适用，而且价格相同：有推荐链接时是每月 US$ 3.99，以24个月方案计。软件在两种情况下都是免费的，你付的是服务器与 AI 模型的使用费。"
+      ]
+    },
+    {
+      "heading": "各自是什么",
+      "paragraphs": [
+        "OpenClaw 与 Hermes Agent 都是开源 AI 助手，采用 MIT 许可证。你自己安装并让它在本机运行，通过 Telegram、WhatsApp 或其他即时通讯应用与它对话。许可证不收费；区别在于界面、记忆，以及谁来维护这个项目。",
+        "**OpenClaw** 由非营利组织 OpenClaw Foundation 维护。根据官方 README，状态、记忆与凭证都保存在它运行的那台设备上，项目没有付费方案、没有托管服务，也没有代币。它有网页界面（Control UI）、命令行，以及 macOS、iOS、Android、Windows 和 Linux 的原生应用。在 Hostinger 上，你可以选托管或 VPS，详情见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。",
+        "**Hermes Agent** 由开发 AI 模型的 Nous Research 制作。它的特色是学习循环：代理在多次会话之间自行整理记忆，自行创建并改进技能，搜索过去的对话，并用 Honcho 做用户建模。它有完整的终端界面，也有 Hermes Desktop，这个桌面应用提供 Windows 和 macOS 安装程序。项目页面没有给出软件价格。它提到 Nous Portal，这是一项订阅服务，包含网页搜索、浏览和图片生成等工具，但页面没有标明金额。Nous Portal 只是付费使用模型的一种方式，并非唯一方式。"
+      ]
+    },
+    {
+      "heading": "比较表",
+      "paragraphs": [
+        "这张表汇总了一手来源的说法。OpenClaw 自己发布的 Hermes 比较，是项目方撰写的，不是我们写的；来自该比较的行，在来源栏会标上这个名称。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "项目",
+          "OpenClaw",
+          "Hermes Agent",
+          "一手来源"
+        ],
+        "rows": [
+          [
+            "许可证",
+            "MIT",
+            "MIT",
+            "各项目的 README"
+          ],
+          [
+            "维护者",
+            "OpenClaw Foundation，非营利组织",
+            "Nous Research，开发 AI 模型的公司",
+            "OpenClaw 的 README；Hermes Agent 的 README"
+          ],
+          [
+            "聊天渠道",
+            "Discord、iMessage、Slack、Teams、Telegram、WhatsApp、Google Chat、Signal 与「20+ more」",
+            "Telegram、Discord、Slack、WhatsApp、Signal 与 CLI，通过同一个网关；文档列出超过 20 个平台，包括 Matrix、邮件、SMS 与 Microsoft Teams",
+            "OpenClaw 的 README；Hermes Agent 的 README 与文档"
+          ],
+          [
+            "AI 模型",
+            "托管的服务商与本地模型。Hostinger 的安装文档列出可使用自备密钥的服务商：Anthropic、OpenAI、Google Gemini 与 xAI",
+            "Nous Portal、OpenRouter、OpenAI、Anthropic 等服务商；切换模型用 hermes model 命令",
+            "各项目的 README 与文档；docs.openclaw.ai/install/hostinger"
+          ],
+          [
+            "记忆",
+            "状态、记忆与凭证保存在你的设备上。OpenClaw 自己的比较提到会话来源追踪与删除记录",
+            "跨会话的记忆，由代理整理，可搜索过去的对话（FTS5），并用 Honcho 做用户建模",
+            "OpenClaw 的 README；Hermes Agent 的 README 与文档；OpenClaw 自己的比较"
+          ],
+          [
+            "任务调度（cron）",
+            "有：Automations，命令为 openclaw automations（别名 openclaw cron）",
+            "有：内置 cron，结果可发送到任何平台",
+            "docs.openclaw.ai/automation/cron-jobs；Hermes Agent 的文档"
+          ],
+          [
+            "子代理",
+            "有，用于并行任务",
+            "有，独立的子代理，用于并行工作流",
+            "docs.openclaw.ai/tools/subagents；Hermes Agent 的文档"
+          ],
+          [
+            "界面",
+            "Control UI（网页）、命令行与 TUI，以及 macOS、iOS、Android、Windows、Linux 的原生应用",
+            "终端（TUI）与 Hermes Desktop，提供 Windows 和 macOS 安装程序；未标明网页界面",
+            "OpenClaw 的 README；Hermes Agent 的文档"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "两者都有调度器与子代理，所以这两项无法区分它们。区别在于 OpenClaw 的渠道与界面，以及 Hermes Agent 会随使用而学习的记忆。"
+      ]
+    },
+    {
+      "heading": "实际花费",
+      "paragraphs": [
+        "两者的软件都不收费。真正的花费来自三个地方："
+      ],
+      "bullets": [
+        "**服务器。** 可以是你自己的电脑（需要一直开着），也可以是租用的虚拟服务器 VPS。VPS 给你 root 权限（对整台机器的完全控制），但系统的更新与保护由你负责。内存（RAM）越大，同时运行的程序越多，也越不容易卡住。",
+        "**托管方案。** Hostinger 帮你安装、更新并维护助手。OpenClaw 与 Hermes Agent 同属「AI automation apps」方案。",
+        "**AI 模型。** 助手会把回答的工作交给 Claude、GPT 或 Gemini 等模型，而模型按使用量收费。付费有两种方式：自备 API 密钥（服务商会直接向你收费，密钥是程序与服务商通信用的密码），或在 Hostinger 购买的 AI 额度。OpenClaw 与 Hermes Agent 的托管方案都附有初始余额；充值的费用不在公开页面上，请在控制台确认。Nous Portal 的价格，项目页面没有写。"
+      ],
+      "postParagraphs": [
+        "服务器与方案的价格，都整理在后面「在 Hostinger 上的运行方式与价格」的表格里。模型的每月使用费，来源上找不到数字，因为它取决于你选的模型与对话次数。所以本指南不提供每月总额的估算。"
+      ]
+    },
+    {
+      "heading": "各适合谁",
+      "paragraphs": [
+        "两者都是开源的，不收许可费。选择取决于你要代理做什么，而不是软件本身。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+        "alt": "四种用户画像，以及各自的答案：想要很多渠道与手机应用，选 OpenClaw；想要会学习、自己创建技能的代理，选 Hermes Agent；不想管服务器，选托管；想要 root 与其他程序，选 VPS",
+        "caption": "依各项目的文档整理，查阅日期为2026年10月21日。"
+      },
+      "bullets": [
+        "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，以及网页版 Control UI。",
+        "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
+        "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。",
+        "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新。"
+      ],
+      "postParagraphs": [
+        "我们团队中没有人使用这两者。这些画像来自各项目的文档，不是我们的经验。"
+      ]
+    },
+    {
+      "heading": "安装之前",
+      "paragraphs": [
+        "开始之前，请先确认三件事。这三点对两个代理都适用。"
+      ],
+      "bullets": [
+        "**AI 模型。** 代理不会自己回答，它要把问题交给另一家公司的模型。在 Hostinger，你可以用方案附带的 AI 额度，或用自己的 API 密钥。使用费由服务商直接向你收取。",
+        "**一个聊天渠道。** Telegram 最简单。在 BotFather（Telegram 官方的机器人创建工具）里建立机器人，然后保存 token。WhatsApp 则以关联设备的身份接入，用扫描 QR code 登录。",
+        "**谁负责服务器。** 托管方案中，更新与安全由 Hostinger 负责。VPS 中，更新要你自己通过 Docker Manager 的 Update 按钮完成，服务器的安全也由你负责。Docker 是让每个应用在独立容器中运行的程序。"
+      ],
+      "postParagraphs": [
+        "如果你要自己用 npm 安装 OpenClaw，需要 Node.js 24.16 或更新版本，或 26.1 或更新版本。根据项目的安全政策，22、23 与 25 不受支持。"
+      ]
+    },
+    {
+      "heading": "各项目的安全性",
+      "paragraphs": [
+        "两个项目的安全政策都说明了它们是为谁设计的。决定如何对外开放之前，请先读一读。"
+      ],
+      "bullets": [
+        "**OpenClaw**（openclaw/openclaw 仓库的 SECURITY.md）：是为一位可信任的操作者设计的，不是为彼此不认识的多人设计。能跟代理说话的人，就能让它使用它的工具。若有多人使用，项目建议每人一台服务器。不要把代理直接暴露在公共互联网上。插件在同一个进程中运行，会被当作可信代码，所以只安装你了解的插件。",
+        "**Hermes Agent**（NousResearch/hermes-agent 仓库的 SECURITY.md）：是为一个人设计的。没有 VPN、Tailscale 或防火墙，不要把网关暴露在互联网上。请以没有 root 权限的用户运行代理，并且检查第三方技能与插件时，要读代码，而不只看 SKILL.md。"
+      ],
+      "postParagraphs": [
+        "在托管与 VPS 之间做选择时，关键问题是谁管理你的数据与凭证。关于 OpenClaw 的托管方案，详见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。"
+      ]
+    },
+    {
+      "heading": "在 Hostinger 上的运行方式与价格",
+      "paragraphs": [
+        "以下是 Hostinger 全球页面的价格，采用美元计价，为24个月方案，于2026年10月21日查阅。表中的托管方案对 OpenClaw 与 Hermes Agent 价格相同。你所在的国家可能显示其他货币与税费；付款前请在购物车确认。活动期间价格会变动，同样请以购物车为准。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "方案",
+          "服务器",
+          "不含推荐链接",
+          "含推荐链接",
+          "续费"
+        ],
+        "rows": [
+          [
+            "托管（AI automation apps）",
+            "Hostinger 负责安装与更新",
+            "US$ 4.99/月",
+            "US$ 3.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 1",
+            "4 GB RAM",
+            "US$ 6.49/月",
+            "购物车确认（首期 20%）",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 2",
+            "8 GB RAM",
+            "US$ 8.79/月",
+            "购物车确认（首期 20%）",
+            "US$ 14.99/月"
+          ],
+          [
+            "VPS KVM 4",
+            "16 GB RAM",
+            "US$ 12.99/月",
+            "购物车确认（首期 20%）",
+            "US$ 28.99/月"
+          ],
+          [
+            "VPS KVM 8",
+            "32 GB RAM",
+            "US$ 25.99/月",
+            "购物车确认（首期 20%）",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "托管方案的初始 AI 额度余额包含在方案中，超出的部分按使用量收费。VPS 的话，Hostinger 会用 Docker 帮你安装助手，之后的更新与服务器安全则由你负责。",
+        "托管方案有30天的退款申请期。VPS 的话，只有在上一次 VPS 退款申请距今超过180天时，才适用30天的期限。",
+        "如果你想在选方案前先算清楚需要的配置，请阅读[OpenClaw 最佳 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动内容请看 [Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "推荐链接",
+      "paragraphs": [
+        "推荐链接会自动应用折扣，不需要输入代码。折扣**仅限首期 20%**，适用于12个月以上的方案，不能与其他优惠券叠加。续费按正常价格计算。付款前，请在购物车确认金额。",
+        "完整规则见[Hostinger 推荐链接怎么用](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "OpenClaw 和 Hermes Agent 免费吗？两者都是开源项目，采用 MIT 许可证，软件本身不收费。你付的是服务器或托管方案，以及 AI 模型的使用费。Hermes 另有 Nous Portal 订阅，但价格没有写在项目文档里。",
+        "可以用 Telegram 吗？可以，两者都支持。在 BotFather 创建机器人，然后把 token 粘贴到配置中。",
+        "需要会编程吗？托管方案不需要：你选好渠道，粘贴 token 即可。VPS 则需要懂一点服务器基础，例如 root、Docker 与更新。只有想修改项目代码时，才需要编程。",
+        "安全吗？要看你怎么用。两份安全政策的要求相同：由一个可信任的人使用，不直接暴露在互联网上，并检查你安装的第三方内容。",
+        "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里写代码的工具，无法替代这两者。两者都接受 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 则把 Anthropic 密钥列在机密清单中。如果你想要会随使用而学习的代理，Hermes Agent 更合适；如果你要很多渠道和手机应用，就选 OpenClaw。"
+      ]
+    },
+    {
+      "heading": "关于透明度",
+      "paragraphs": [
+        "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式执行。Bruno 自2024年起就是客户，使用虚拟主机与一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
+        "本文是在2026年10月21日阅读了 Hostinger 的页面，以及两个项目的安全政策与文档后整理而成。OpenClaw 发布的两者比较由项目方撰写，表格的来源栏中标示了这个名称。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推荐代码已经在链接里：20% 仅适用于首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
+    "label": "通过推荐链接查看套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw 或 Hermes Agent。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
+      "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、要做什么，以及适合谁"
+    },
+    {
+      "slug": "best-vps-for-openclaw-zh-hans",
+      "title": "OpenClaw 最适合的 VPS：需要多少内存，该选哪个 KVM 套餐"
+    },
+    {
+      "slug": "paperclip-ai-hostinger-zh-hans",
+      "title": "Paperclip AI 是什么：靠不靠谱，以及如何在 Hostinger 上运行"
+    }
+  ]
+}

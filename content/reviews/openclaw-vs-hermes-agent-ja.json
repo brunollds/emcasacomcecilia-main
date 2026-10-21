@@ -1,0 +1,294 @@
+{
+  "id": 571,
+  "slug": "openclaw-vs-hermes-agent-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-openclaw-ou-hermes-agent",
+  "title": "OpenClaw か Hermes Agent か: どちらを選び、Hostinger でどう動かすか",
+  "seoTitle": "OpenClaw か Hermes Agent か：2026年どちらを選ぶ？",
+  "type": "ホスティングガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw と Hermes Agent を比べます: チャンネル、メモリ、学習、ライセンス、Hostinger での実際の費用。2026年10月21日に読んだ価格つき。",
+  "metaDescription": "OpenClaw か Hermes Agent か。Hostinger での選び方を、チャンネル、メモリ、AI モデル、紹介リンクの有無による価格で比べます。2026年10月21日時点。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+  "imageAlt": "紫の背景の左に赤い OpenClaw のマスコット、暗い背景の右に Hermes Agent のアイコン（白黒で描かれた女の子）",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "チャンネルの数が一番多く、Web 画面（Control UI）とスマホ・PC のネイティブアプリがほしいなら **OpenClaw** を選んでください。README では20以上のチャンネルに対応するとあり、プロジェクトは非営利財団が管理しています。使うほど学ぶエージェントがほしいなら **Hermes Agent** です。メモリはエージェント自身が整理し、スキルを自分で作って改善し、過去の会話を検索し、Honcho でユーザーのモデル化を行います。Hermes Agent は Nous Research が開発しています。",
+        "サーバーの管理をしたくないなら、Hostinger のマネージドプランは両方に同じ料金です。紹介リンクありで US$ 3.99/月、24か月プランの場合です。ソフトウェアは両方とも無料です。支払うのはサーバーと AI モデルの利用料です。"
+      ]
+    },
+    {
+      "heading": "それぞれの概要",
+      "paragraphs": [
+        "OpenClaw と Hermes Agent は、MIT ライセンスのオープンソース AI アシスタントです。自分で導入して動かし、Telegram や WhatsApp などのメッセージアプリで会話します。ライセンスは無料です。違うのは、インターフェース、メモリ、そしてプロジェクトを誰が管理しているかです。",
+        "**OpenClaw** は非営利団体の OpenClaw Foundation が管理しています。公式の README によると、状態、メモリ、認証情報は動かしている機器に保存され、プロジェクトには有料プランも、ホスティングされたサービスも、トークンもありません。Web 画面（Control UI）、コマンドライン、macOS、iOS、Android、Windows、Linux 向けのネイティブアプリがあります。Hostinger では、マネージドか VPS で契約できます。詳しくは [OpenClaw を Hostinger で: マネージドか VPS か？](/ja/reviews/openclaw-hostinger-managed-or-vps-ja) をご覧ください。",
+        "**Hermes Agent** は、AI モデルを開発する Nous Research が作っています。特徴は学習のサイクルです。エージェントはセッションをまたいだメモリを自分で整理し、スキルを自分で作って改善し、過去の会話を検索し、Honcho でユーザーのモデル化を行います。ターミナルの操作に完全に対応し、Windows と macOS 向けのインストーラーがある Hermes Desktop もあります。プロジェクトのページにはソフトウェアの価格が書かれていません。Nous Portal という、Web 検索、ブラウジング、画像生成などのツールを含むサブスクリプションが紹介されていますが、金額は書かれていません。Nous Portal はモデル代の支払い方法の一つで、唯一の方法ではありません。"
+      ]
+    },
+    {
+      "heading": "比較表",
+      "paragraphs": [
+        "この表は、一次情報源が述べている内容をまとめたものです。OpenClaw が Hermes について公開している比較は、プロジェクト自身が書いたもので、私たちが書いたものではありません。その行は、出典の列にその名前を記しています。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "項目",
+          "OpenClaw",
+          "Hermes Agent",
+          "一次情報源"
+        ],
+        "rows": [
+          [
+            "ライセンス",
+            "MIT",
+            "MIT",
+            "各プロジェクトの README"
+          ],
+          [
+            "管理者",
+            "OpenClaw Foundation（非営利団体）",
+            "Nous Research（AI モデルを開発する企業）",
+            "OpenClaw の README、Hermes Agent の README"
+          ],
+          [
+            "メッセージのチャンネル",
+            "Discord、iMessage、Slack、Teams、Telegram、WhatsApp、Google Chat、Signal、「20+ more」",
+            "Telegram、Discord、Slack、WhatsApp、Signal、CLI をゲートウェイ経由で。ドキュメントでは Matrix、メール、SMS、Microsoft Teams を含む20以上のプラットフォームを挙げている",
+            "OpenClaw の README、Hermes Agent の README とドキュメント"
+          ],
+          [
+            "AI モデル",
+            "ホスト型のプロバイダーとローカルモデル。Hostinger のインストールドキュメントは、自分のキーで使うプロバイダーとして Anthropic、OpenAI、Google Gemini、xAI を挙げている",
+            "Nous Portal、OpenRouter、OpenAI、Anthropic など。モデルの切り替えは hermes model コマンド",
+            "各プロジェクトの README とドキュメント、docs.openclaw.ai/install/hostinger"
+          ],
+          [
+            "メモリ",
+            "状態、メモリ、認証情報は手元の機器に保存。OpenClaw 自身の比較は、セッションの送信元の追跡と削除の記録に触れている",
+            "セッションをまたいだメモリ。エージェントが整理し、過去の会話を検索（FTS5）、Honcho でユーザーのモデル化",
+            "OpenClaw の README、Hermes Agent の README とドキュメント、OpenClaw 自身の比較"
+          ],
+          [
+            "タスクのスケジューラ（cron）",
+            "あり: Automations。openclaw automations コマンド（別名 openclaw cron）",
+            "あり: 組み込みの cron。結果は任意のプラットフォームに送信可能",
+            "docs.openclaw.ai/automation/cron-jobs、Hermes Agent のドキュメント"
+          ],
+          [
+            "サブエージェント",
+            "あり。並列のタスク向け",
+            "あり。並列のワークフロー向けの独立したサブエージェント",
+            "docs.openclaw.ai/tools/subagents、Hermes Agent のドキュメント"
+          ],
+          [
+            "インターフェース",
+            "Control UI（Web）、コマンドラインと TUI、macOS、iOS、Android、Windows、Linux のネイティブアプリ",
+            "ターミナル（TUI）と Hermes Desktop。Windows と macOS 向けのインストーラー。Web 画面は記載なし",
+            "OpenClaw の README、Hermes Agent のドキュメント"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "両方にスケジューラとサブエージェントがあるので、それでは区別できません。違いは、OpenClaw のチャンネルとインターフェース、そして Hermes Agent の、使うほど学ぶメモリにあります。"
+      ]
+    },
+    {
+      "heading": "実際の費用",
+      "paragraphs": [
+        "ソフトウェアは両方とも無料です。実際の費用は次の3つから来ます:"
+      ],
+      "bullets": [
+        "**サーバー。** 常時起動しているご自身のコンピューター、または仮想サーバーの VPS を借りる方法があります。VPS には root アクセス（マシンを完全に操作できる権限）がありますが、システムの更新と保護は自分の担当です。メモリ（RAM）が多いほど、同時に動くプログラムが増えても止まりにくくなります。",
+        "**マネージドプラン。** Hostinger がアシスタントをインストールし、更新して維持します。OpenClaw と Hermes Agent は同じプラン「AI automation apps」に入っています。",
+        "**AI モデル。** アシスタントは、Claude、GPT、Gemini などのモデルに応答を頼みます。モデルは利用量に応じて課金されます。支払い方法は2つあります。自分の API キー（プロバイダーと通信するためのパスワード）で、プロバイダーが直接請求する方法と、Hostinger で購入する AI クレジットです。OpenClaw と Hermes Agent のマネージドには初期残高があります。チャージの料金は公開ページにないので、管理画面で確認してください。Nous Portal の価格はプロジェクトのページに記載がありません。"
+      ],
+      "postParagraphs": [
+        "サーバーとプランの料金は、後の「Hostinger で動かす場所と料金」の表にまとめています。モデルの月額利用料は、出典では確認できません。選んだモデルと会話の数によって変わるからです。そのためこのガイドでは、月の合計額の見積もりは載せていません。"
+      ]
+    },
+    {
+      "heading": "どちらが向いているか",
+      "paragraphs": [
+        "どちらもオープンソースで、ライセンス料はかかりません。選ぶ基準はソフトウェアではなく、エージェントに何をさせたいかです。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+        "alt": "4つのプロフィールと、それぞれの答え: 多くのチャンネルとスマホのアプリがほしいなら OpenClaw。学習して自分でスキルを作るエージェントなら Hermes Agent。サーバー管理をしたくないならマネージド。root と他のプログラムがほしいなら VPS",
+        "caption": "各プロジェクトのドキュメントを、2026年10月21日に読んで作成しました。"
+      },
+      "bullets": [
+        "**多くのチャンネルとスマホのアプリがほしい:** OpenClaw。README では20以上のチャンネルに対応し、スマホと PC のネイティブアプリと、Web の Control UI があります。",
+        "**使うほど学ぶエージェントがほしい:** Hermes Agent。自分でメモリを整理し、スキルを作って改善し、過去の会話を検索します。",
+        "**root と、同じサーバーの他のプログラム（サイトや n8n など）がほしい:** VPS。どちらのエージェントでも可能です。root は管理者権限で、サーバーを完全に操作できます。",
+        "**インストールもサーバーの管理もしたくない:** どちらもマネージド。Hostinger がインストールと更新を行います。"
+      ],
+      "postParagraphs": [
+        "チームの誰も、どちらも使っていません。このプロフィールは各プロジェクトのドキュメントに基づいており、私たちの経験ではありません。"
+      ]
+    },
+    {
+      "heading": "インストール前に",
+      "paragraphs": [
+        "始める前に、3つのことを確認してください。どちらのエージェントにも当てはまります。"
+      ],
+      "bullets": [
+        "**AI モデル。** エージェントは自分では答えられません。他社のモデルに応答を頼みます。Hostinger では、プランの AI クレジットか、自分の API キーを使います。利用料は、プロバイダーが直接あなたに請求します。",
+        "**メッセージのチャンネル。** Telegram が一番簡単です。BotFather（Telegram 公式のボット作成ツール）でボットを作り、トークンを保存します。WhatsApp は接続済みの機器として、QR コードを読み取って接続します。",
+        "**サーバーの担当。** マネージドでは、Hostinger が更新とセキュリティを担当します。VPS では、Docker Manager の Update ボタンで自分が更新し、サーバーのセキュリティも自分で担当します。Docker は、各アプリを独立したコンテナで動かすプログラムです。"
+      ],
+      "postParagraphs": [
+        "npm で OpenClaw を自分で入れる場合は、Node.js 24.16 以降、または 26.1 以降が必要です。プロジェクトのセキュリティポリシーにより、22、23、25 はサポートされていません。"
+      ]
+    },
+    {
+      "heading": "各プロジェクトのセキュリティ",
+      "paragraphs": [
+        "両プロジェクトのセキュリティポリシーには、想定している利用者が書かれています。公開の仕方を決める前に読んでください。"
+      ],
+      "bullets": [
+        "**OpenClaw**（openclaw/openclaw リポジトリの SECURITY.md）: 互いを知らない多人数ではなく、信頼できる運用者一人のために作られています。エージェントに話しかけられる人は、そのツールを使わせることができます。複数人で使うなら、プロジェクトは一人一サーバーを勧めています。エージェントをインターネットに直接公開しないでください。プラグインは同じプロセスで動き、信頼できるコードとして扱われるので、知っているものだけを入れてください。",
+        "**Hermes Agent**（NousResearch/hermes-agent リポジトリの SECURITY.md）: 一人のために作られています。VPN、Tailscale、ファイアウォールなしでゲートウェイをインターネットに公開しないでください。root 権限のないユーザーで動かし、サードパーティのスキルやプラグインは、SKILL.md だけでなくコードを読んで確認してください。"
+      ],
+      "postParagraphs": [
+        "マネージドか VPS かの選択では、データと認証情報を誰が管理するかが問題です。OpenClaw のマネージドについて詳しくは、[OpenClaw を Hostinger で: マネージドか VPS か？](/ja/reviews/openclaw-hostinger-managed-or-vps-ja) をご覧ください。"
+      ]
+    },
+    {
+      "heading": "Hostinger で動かす場所と料金",
+      "paragraphs": [
+        "Hostinger のグローバルページの価格です。24か月プランを、米ドル建てで2026年10月21日に読みました。表のマネージドは、OpenClaw と Hermes Agent で同じ料金です。お住まいの国では別の通貨や税金が表示されることがあります。キャンペーン中は価格も変わるので、支払う前にカートで金額を確認してください。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "サーバー",
+          "紹介リンクなし",
+          "紹介リンクあり",
+          "更新"
+        ],
+        "rows": [
+          [
+            "マネージド（AI automation apps）",
+            "Hostinger がインストールと更新を担当",
+            "US$ 4.99/月",
+            "US$ 3.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 1",
+            "4 GB RAM",
+            "US$ 6.49/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 2",
+            "8 GB RAM",
+            "US$ 8.79/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 14.99/月"
+          ],
+          [
+            "VPS KVM 4",
+            "16 GB RAM",
+            "US$ 12.99/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 28.99/月"
+          ],
+          [
+            "VPS KVM 8",
+            "32 GB RAM",
+            "US$ 25.99/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "マネージドでは、プランに初期の AI クレジット残高が付いてきます。それを超えた分は利用量に応じて請求されます。VPS では、Hostinger がアシスタントを Docker でインストールします。アップデートとサーバーのセキュリティはあなたの担当です。",
+        "マネージドには30日間の返金申請があります。VPS の場合は、前回の VPS の返金申請から180日を超えている場合に限り、30日間が適用されます。",
+        "プランを選ぶ前に必要なスペックを確認したいなら、[OpenClaw に最適な VPS](/ja/reviews/best-vps-for-openclaw-ja) を読んでください。キャンペーンについては [Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) をご覧ください。"
+      ]
+    },
+    {
+      "heading": "紹介リンク",
+      "paragraphs": [
+        "紹介リンクは割引を自動で適用します。コードの入力は不要です。割引は**最初の期間の 20% のみ**で、12か月以上のプランが対象です。他のクーポンとの併用はできません。更新は通常料金になります。支払う前に、カートで金額を確認してください。",
+        "ルールの詳細は [Hostinger の紹介リンクの仕組み](/ja/reviews/hostinger-referral-code-ja) にまとめています。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "OpenClaw と Hermes Agent は無料ですか？両方ともオープンソースで MIT ライセンスです。ソフトウェアの料金はかかりません。サーバーかマネージドプランと、AI モデルの利用料を支払います。Hermes には Nous Portal のサブスクリプションもありますが、料金はプロジェクトのドキュメントに書かれていません。",
+        "Telegram で使えますか？はい、両方で使えます。BotFather でボットを作り、トークンを設定に貼り付けます。",
+        "プログラミングは必要ですか？マネージドでは不要です。チャンネルを選んでトークンを貼るだけです。VPS の場合は、root、Docker、アップデートなど、サーバーの基本知識が必要です。プログラミングは、プロジェクトのコードを変更したいときだけ必要です。",
+        "安全ですか？使い方によります。両方のセキュリティポリシーは同じことを求めています。信頼できる一人で使うこと、インターネットに直接公開しないこと、サードパーティ製のものは中身を確認してから入れることです。",
+        "Claude Code を使っているなら、どちらを選ぶべきですか？Claude Code はターミナルでプログラムを書くためのツールで、どちらの代わりにもなりません。両方とも Anthropic のキーを受け付けます。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は秘密情報の一覧に Anthropic のキーを挙げています。使うほど学ぶエージェントがよければ Hermes Agent が合います。チャンネルが多く、スマホのアプリがほしければ OpenClaw です。"
+      ]
+    },
+    {
+      "heading": "透明性について",
+      "paragraphs": [
+        "Em Casa com Cecília は Hostinger 上で動いています。Node.js Web App として稼働しており、Bruno は2024年からの顧客で、ホスティングと VPS KVM 2 を利用しています。チームの誰も OpenClaw や Hermes Agent は使っていません。",
+        "この記事は、Hostinger のページと、両プロジェクトのセキュリティポリシーとドキュメントを2026年10月21日に読んでまとめたものです。OpenClaw が公開している両者の比較はプロジェクト自身が書いたもので、表の出典の列にその名前を記しています。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "コードはすでにリンクに含まれています。20%は最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。",
+    "label": "紹介リンクでプランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-ja",
+      "title": "OpenClaw を Hostinger で: マネージドか VPS か？ 料金と向いている人"
+    },
+    {
+      "slug": "best-vps-for-openclaw-ja",
+      "title": "OpenClaw に最適な VPS：必要なメモリと KVM プランの選び方"
+    },
+    {
+      "slug": "paperclip-ai-hostinger-ja",
+      "title": "Paperclip AI とは：信頼できるか、Hostinger で動かす方法"
+    }
+  ]
+}

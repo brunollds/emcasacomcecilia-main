@@ -1,0 +1,294 @@
+{
+  "id": 567,
+  "slug": "openclaw-ou-hermes-agent-que-choisir",
+  "locale": "fr",
+  "translationKey": "hostinger-openclaw-ou-hermes-agent",
+  "title": "OpenClaw ou Hermes Agent : lequel choisir et comment faire tourner chacun chez Hostinger",
+  "seoTitle": "OpenClaw ou Hermes Agent : lequel choisir en 2026 ?",
+  "type": "Guide d'hébergement",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw ou Hermes Agent : canaux, mémoire, apprentissage, licence et coût réel chez Hostinger, avec les prix du 21 octobre 2026.",
+  "metaDescription": "OpenClaw ou Hermes Agent chez Hostinger : lequel choisir, canaux, mémoire, modèles d'IA et prix avec et sans le lien de parrainage, au 21 octobre 2026.",
+  "publishedAt": "21 octobre 2026",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
+  "imageAlt": "Mascotte rouge d'OpenClaw sur fond violet à gauche et l'icône d'Hermes Agent, un dessin en noir et blanc d'une jeune fille, sur fond sombre à droite",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Choisissez **OpenClaw** si vous voulez le plus grand choix de canaux de messagerie, une interface web (Control UI) et des applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
+        "Si vous ne voulez pas gérer de serveur, l'offre gérée de Hostinger couvre les deux au même prix : 3,99 US$/mois avec le lien de parrainage, sur un forfait de 24 mois. Le logiciel est gratuit dans les deux cas ; ce que vous payez, ce sont le serveur et l'usage des modèles d'IA."
+      ]
+    },
+    {
+      "heading": "Ce qu'est chacun",
+      "paragraphs": [
+        "OpenClaw et Hermes Agent sont des assistants d'IA open source, sous licence MIT. Vous les installez pour les faire tourner vous-même et discuter via Telegram, WhatsApp ou une autre application de messagerie. La licence ne coûte rien ; ce qui change, c'est l'interface, la mémoire et l'organisation qui maintient le projet.",
+        "**OpenClaw** est maintenu par la OpenClaw Foundation, une organisation à but non lucratif. Selon le README officiel, l'état, la mémoire et les identifiants restent sur l'équipement où il tourne, et le projet n'a ni offre payante, ni service hébergé, ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, il peut être pris en géré ou en VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
+        "**Hermes Agent** est développé par Nous Research, une entreprise qui conçoit des modèles d'IA. Sa particularité est le cycle d'apprentissage : l'agent organise sa mémoire entre les sessions, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Il dispose d'un terminal complet et de Hermes Desktop, une application de bureau avec installateur pour Windows et macOS. La page du projet n'indique aucun prix pour le logiciel. Elle mentionne Nous Portal, un abonnement avec des outils comme la recherche web, la navigation et la génération d'images, sans montant indiqué. Nous Portal est une façon de payer le modèle, pas la seule."
+      ]
+    },
+    {
+      "heading": "Tableau comparatif",
+      "paragraphs": [
+        "Le tableau réunit ce que disent les sources primaires. La comparaison que OpenClaw publie sur Hermes a été écrite par le projet, pas par nous : les lignes qui en sont issues portent ce nom dans la colonne source."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Élément",
+          "OpenClaw",
+          "Hermes Agent",
+          "Source primaire"
+        ],
+        "rows": [
+          [
+            "Licence",
+            "MIT",
+            "MIT",
+            "README de chaque projet"
+          ],
+          [
+            "Maintenu par",
+            "OpenClaw Foundation, organisation à but non lucratif",
+            "Nous Research, entreprise qui conçoit des modèles d'IA",
+            "README d'OpenClaw ; README d'Hermes Agent"
+          ],
+          [
+            "Canaux de messagerie",
+            "Discord, iMessage, Slack, Teams, Telegram, WhatsApp, Google Chat, Signal et « 20+ more »",
+            "Telegram, Discord, Slack, WhatsApp, Signal et CLI, par une passerelle ; la documentation liste plus de 20 plateformes, dont Matrix, e-mail, SMS et Microsoft Teams",
+            "README d'OpenClaw ; README et documentation d'Hermes Agent"
+          ],
+          [
+            "Modèles d'IA",
+            "Fournisseurs hébergés et modèles locaux. La documentation d'installation de Hostinger cite Anthropic, OpenAI, Google Gemini et xAI pour une clé personnelle",
+            "Nous Portal, OpenRouter, OpenAI, Anthropic et d'autres fournisseurs ; le changement de modèle se fait avec la commande hermes model",
+            "README et documentation de chaque projet ; docs.openclaw.ai/install/hostinger"
+          ],
+          [
+            "Mémoire",
+            "L'état, la mémoire et les identifiants restent sur votre équipement. La comparaison publiée par OpenClaw cite le suivi de l'origine des sessions et les journaux de suppression",
+            "Mémoire entre les sessions, organisée par l'agent, avec recherche dans les anciennes conversations (FTS5) et modélisation de l'utilisateur avec Honcho",
+            "README d'OpenClaw ; README et documentation d'Hermes Agent ; comparaison publiée par OpenClaw"
+          ],
+          [
+            "Planificateur de tâches (cron)",
+            "Oui : Automations, avec la commande openclaw automations (alias openclaw cron)",
+            "Oui : cron intégré, avec envoi du résultat vers n'importe quelle plateforme",
+            "docs.openclaw.ai/automation/cron-jobs ; documentation d'Hermes Agent"
+          ],
+          [
+            "Sous-agents",
+            "Oui, pour les tâches en parallèle",
+            "Oui, sous-agents isolés pour des flux de travail en parallèle",
+            "docs.openclaw.ai/tools/subagents ; documentation d'Hermes Agent"
+          ],
+          [
+            "Interface",
+            "Control UI (web), ligne de commande et TUI, et applications natives pour macOS, iOS, Android, Windows et Linux",
+            "Terminal (TUI) et Hermes Desktop, avec installateur pour Windows et macOS ; interface web non indiquée",
+            "README d'OpenClaw ; documentation d'Hermes Agent"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Les deux ont un planificateur et des sous-agents, donc cela ne les départage pas. La différence tient aux canaux et à l'interface d'OpenClaw, et à la mémoire qui apprend avec l'usage chez Hermes Agent."
+      ]
+    },
+    {
+      "heading": "Combien ça coûte vraiment",
+      "paragraphs": [
+        "Le logiciel ne coûte rien dans les deux cas. La dépense réelle vient de trois postes :"
+      ],
+      "bullets": [
+        "**Le serveur.** Il peut s'agir de votre ordinateur, allumé en permanence, ou d'un VPS, un serveur virtuel loué. Le VPS donne un accès root, le contrôle total de la machine, mais c'est vous qui mettez à jour et protégez le système. Plus il y a de RAM, plus de programmes tournent en même temps sans ralentir.",
+        "**L'offre gérée.** Hostinger installe, met à jour et maintient l'assistant. OpenClaw et Hermes Agent sont dans la même offre, « Applications d'automatisation IA ».",
+        "**Le modèle d'IA.** L'assistant demande ses réponses à un modèle, comme Claude, GPT ou Gemini, qui facture l'usage. Il y a deux façons de payer : une clé d'API personnelle, où le fournisseur vous facture directement, ou des crédits d'IA achetés chez Hostinger. L'offre gérée d'OpenClaw et celle d'Hermes Agent incluent un solde de départ ; la recharge n'apparaît sur aucune page publique, vérifiez-la donc dans le panneau. Pour Nous Portal, le prix n'est pas indiqué sur la page du projet."
+      ],
+      "postParagraphs": [
+        "Les prix du serveur et de l'offre figurent dans un seul tableau, au chapitre Où le faire tourner chez Hostinger, plus bas. Le coût mensuel de l'usage du modèle n'est indiqué dans aucune source : il dépend du modèle choisi et du nombre de conversations. C'est pourquoi ce guide ne donne pas d'estimation du total mensuel."
+      ]
+    },
+    {
+      "heading": "À qui convient chacun",
+      "paragraphs": [
+        "Les deux sont open source et ne facturent aucune licence. Le choix dépend de ce que vous voulez que l'agent fasse, pas du logiciel."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+        "alt": "Tableau à quatre profils et la réponse pour chacun : beaucoup de canaux et une application sur le téléphone mènent à OpenClaw ; un agent qui apprend et crée ses propres compétences mène à Hermes Agent ; ne pas vouloir gérer de serveur mène à l'offre gérée ; vouloir un accès root et d'autres programmes mène au VPS",
+        "caption": "D'après la documentation de chaque projet, consultée le 21 octobre 2026."
+      },
+      "bullets": [
+        "**Vous voulez beaucoup de canaux et une application sur le téléphone :** OpenClaw. Le README annonce plus de 20 canaux et propose des applications natives pour téléphone et ordinateur, en plus de la Control UI sur le web.",
+        "**Vous voulez un agent qui apprend en s'utilisant :** Hermes Agent. Il organise sa propre mémoire, crée et améliore ses propres compétences et cherche dans les anciennes conversations.",
+        "**Vous voulez un accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est le compte administrateur, avec le contrôle total du serveur.",
+        "**Vous ne voulez pas installer ni gérer de serveur :** géré, pour les deux. Hostinger installe et met à jour."
+      ],
+      "postParagraphs": [
+        "Personne dans l'équipe n'utilise l'un ni l'autre. Les profils viennent de la documentation des projets, pas de notre expérience."
+      ]
+    },
+    {
+      "heading": "Avant d'installer",
+      "paragraphs": [
+        "Avant de commencer, vérifiez trois points. Ils valent pour les deux agents."
+      ],
+      "bullets": [
+        "**Modèle d'IA.** L'agent ne répond pas tout seul : il demande les réponses à un modèle d'une autre entreprise. Chez Hostinger, vous utilisez les crédits d'IA de l'offre ou votre clé d'API, le mot de passe que le programme emploie pour parler au fournisseur. C'est le fournisseur qui facture l'usage, directement à vous.",
+        "**Un canal de messagerie.** Telegram est le plus simple. Vous créez le bot avec BotFather, le bot officiel de Telegram pour créer des bots, et vous gardez le jeton. WhatsApp s'ajoute comme appareil lié, par lecture d'un QR code.",
+        "**Qui s'occupe du serveur.** En géré, Hostinger met à jour et assure la sécurité. En VPS, la mise à jour est à votre charge, avec le bouton Update de Docker Manager, et la sécurité du serveur aussi. Docker est le programme qui fait tourner chaque application isolée dans un conteneur."
+      ],
+      "postParagraphs": [
+        "Si vous installez OpenClaw vous-même, avec npm, il exige Node.js 24.16 ou plus récent, ou 26.1 ou plus récent. Les versions 22, 23 et 25 ne sont pas prises en charge, selon la politique de sécurité du projet."
+      ]
+    },
+    {
+      "heading": "Sécurité de chaque projet",
+      "paragraphs": [
+        "Les politiques de sécurité des deux projets disent à qui l'agent est destiné. Lisez-les avant de décider comment l'exposer."
+      ],
+      "bullets": [
+        "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, et non pour plusieurs personnes qui ne se connaissent pas. Qui peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas l'agent directement à internet. Les plugins tournent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
+        "**Hermes Agent** (SECURITY.md du dépôt NousResearch/hermes-agent) : conçu pour une seule personne. N'exposez pas la passerelle à internet sans VPN, Tailscale ou pare-feu. Faites tourner l'agent avec un utilisateur sans privilèges root, et relisez le code des skills et plugins tiers, pas seulement le fichier SKILL.md."
+      ],
+      "postParagraphs": [
+        "Pour choisir entre géré et VPS, la question est de savoir qui s'occupe des données et des identifiants. Le guide [géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps) traite ce point en détail."
+      ]
+    },
+    {
+      "heading": "Où le faire tourner chez Hostinger",
+      "paragraphs": [
+        "Prix des forfaits de 24 mois, relevés le 21 octobre 2026. Dans le tableau, l'offre gérée vaut pour OpenClaw et pour Hermes Agent au même prix. La campagne de Black Friday peut modifier les montants : confirmez dans le panier."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "Serveur",
+          "Sans le lien",
+          "Avec le lien",
+          "Renouvellement"
+        ],
+        "rows": [
+          [
+            "Géré (Applications d'automatisation IA)",
+            "Hostinger installe, met à jour et maintient",
+            "4,99 US$/mois",
+            "3,99 US$/mois",
+            "11,99 US$/mois"
+          ],
+          [
+            "VPS KVM 1",
+            "4 Go de RAM",
+            "6,49 US$/mois",
+            "Affiché dans le panier",
+            "11,99 US$/mois"
+          ],
+          [
+            "VPS KVM 2",
+            "8 Go de RAM",
+            "8,79 US$/mois",
+            "Affiché dans le panier",
+            "14,99 US$/mois"
+          ],
+          [
+            "VPS KVM 4",
+            "16 Go de RAM",
+            "12,99 US$/mois",
+            "Affiché dans le panier",
+            "28,99 US$/mois"
+          ],
+          [
+            "VPS KVM 8",
+            "32 Go de RAM",
+            "25,99 US$/mois",
+            "Affiché dans le panier",
+            "49,99 US$/mois"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Dans l'offre gérée, le forfait inclut un solde de départ de crédits d'IA, et ce qui le dépasse est facturé selon la consommation. Sur le VPS, Hostinger installe l'assistant avec Docker, et la mise à jour et la sécurité du serveur restent à votre charge.",
+        "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent que si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours.",
+        "Si vous voulez le calcul des ressources nécessaires avant de choisir le forfait, lisez [le meilleur VPS pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw). Pour la campagne, voyez [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres)."
+      ]
+    },
+    {
+      "heading": "Lien de parrainage",
+      "paragraphs": [
+        "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Il donne **20 % seulement sur la première période**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement se fait au prix normal. Vérifiez le montant dans le panier avant de payer.",
+        "La règle complète est expliquée dans [le fonctionnement du lien de parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage)."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "OpenClaw et Hermes Agent sont-ils gratuits ? Les deux programmes sont open source, sous licence MIT, et vous ne payez pas le logiciel. Vous payez le serveur ou l'offre gérée, ainsi que l'usage du modèle d'IA. Hermes dispose aussi d'un abonnement Nous Portal, mais son prix n'apparaît pas dans la documentation du projet.",
+        "Ça marche avec Telegram ? Oui, avec les deux. Vous créez le bot avec BotFather et collez le jeton dans la configuration.",
+        "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. Sur le VPS, il faut connaître les bases du serveur, comme root, Docker et les mises à jour. Programmer n'est nécessaire que si vous voulez modifier le code du projet.",
+        "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même chose : un usage par une personne de confiance, pas d'exposition directe à internet, et une relecture de ce que vous installez de tiers.",
+        "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et il ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw liste Anthropic parmi ses fournisseurs, et le README d'Hermes Agent cite la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une application sur le téléphone, OpenClaw."
+      ]
+    },
+    {
+      "heading": "Qui écrit",
+      "paragraphs": [
+        "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
+        "Ce texte réunit les pages de Hostinger et les politiques et documentations officielles des deux projets, consultées le 21 octobre 2026. La comparaison entre les deux que publie OpenClaw est écrite par le projet lui-même, et apparaît sous ce nom dans la colonne source du tableau."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Le code de parrainage est déjà dans le lien : rien à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+    "label": "Voir les forfaits avec le lien de parrainage",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Les achats par le lien de parrainage peuvent donner un crédit à Bruno chez Hostinger, sans frais pour vous. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-gere-ou-vps",
+      "title": "OpenClaw chez Hostinger : géré ou VPS ? Prix, ce qu'exige chaque option et à qui elle convient"
+    },
+    {
+      "slug": "meilleur-vps-pour-openclaw",
+      "title": "Meilleur VPS pour OpenClaw : besoins et forfait KVM à choisir"
+    },
+    {
+      "slug": "paperclip-ai-hostinger-guide-fr",
+      "title": "Paperclip AI : ce que c'est, s'il est fiable et comment l'héberger chez Hostinger"
+    }
+  ]
+}

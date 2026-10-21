@@ -1,0 +1,281 @@
+{
+  "id": 551,
+  "slug": "openclaw-hostinger-managed-or-vps-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
+  "title": "OpenClaw を Hostinger で: マネージドか VPS か？ 料金と向いている人",
+  "seoTitle": "OpenClaw Hostinger: マネージドかVPSか？料金と選び方",
+  "type": "ホスティングガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw を Hostinger で使うなら: マネージドは最初の期間が安く、VPS は root と Docker が使えます。2026年10月21日の料金と、それぞれが向いている人。",
+  "metaDescription": "Hostinger で OpenClaw をマネージドにするか VPS にするか。紹介リンクの有無による料金、更新、AIクレジット、Telegram と WhatsApp、サーバーの管理者を比べます。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa.webp",
+  "imageAlt": "雲のアイコンとサーバーのアイコンの間に立つ赤い OpenClaw のマスコット。紫の背景に白いイラスト",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "サーバーの管理を任せたいなら **マネージド** を選んでください。Hostinger がインストール、更新、バックアップを行います。root（サーバーを完全に操作できる権限）が欲しい、同じマシンで他のプログラムも動かしたい、という場合は **VPS** を選びます。その代わり、システムの更新と保護は自分で行う必要があります。",
+        "どちらでも、Hostinger の AI クレジットか自分の API キーを使えます。2026年10月21日時点、Hostinger のグローバルページ（米ドル建て、24か月プラン）では、紹介リンクでのマネージドが **US$ 3.99/月**、紹介割引なしの VPS KVM 1 が **US$ 6.49/月** です。更新はどちらも **US$ 11.99/月** です。"
+      ]
+    },
+    {
+      "heading": "OpenClaw とは",
+      "paragraphs": [
+        "OpenClaw はオープンソースの AI アシスタントで、MIT ライセンスです。コンピューターかサーバーで動き、会話、メモリ、認証情報をその機器に保存します。Telegram、WhatsApp、Slack、Discord など、普段使っているメッセージアプリで応答します。考えて答えるには、Claude、GPT、Gemini など他社の AI モデルを使います。それらは利用量に応じて課金されます。",
+        "プロジェクト自体は無料です。README によると、有料プランもホスティングされたサービスもトークンもありません。お金がかかるのは、アシスタントを動かすサーバーと AI モデルの利用料です。Hostinger では二つの方法があります:"
+      ],
+      "bullets": [
+        "**マネージド:** プランを契約すると、Hostinger が OpenClaw をインストールし、更新して維持します。",
+        "**VPS:** 仮想サーバーを借ります。Hostinger が Docker（アプリを独立したコンテナで動かす仕組み）を使って OpenClaw をインストールします。その後のアップデートとサーバーの安全性はあなたの担当です。"
+      ]
+    },
+    {
+      "heading": "マネージドか VPS か：比較表",
+      "paragraphs": [
+        "OpenClaw のマネージド版は「AI automation apps」プランです。Hermes Agent と Paperclip のマネージド版と同じプラン、同じ料金です。数字は24か月プランのもので、2026年10月21日に確認しました。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-ja.webp",
+        "alt": "マネージドと VPS の二列の表。どちらも Hostinger がインストールします。サーバーの更新と安全性は、マネージドでは Hostinger、VPS ではあなたが担当します。AI クレジットか自分のキーかは両方で選べます",
+        "caption": "各プランで誰が何を担当するかを、2026年10月21日に読んだ Hostinger のページと OpenClaw のドキュメントをもとにまとめました。"
+      },
+      "comparisonTable": {
+        "headers": [
+          "",
+          "マネージド",
+          "VPS（KVM 1）"
+        ],
+        "rows": [
+          [
+            "料金（紹介リンクあり）",
+            "US$ 3.99/月",
+            "カートで確認（最初の期間 20%）"
+          ],
+          [
+            "更新",
+            "US$ 11.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "AI クレジット",
+            "初期残高つき。それを超えた分は別途請求",
+            "任意。チェックアウトで購入可能"
+          ],
+          [
+            "自分の API キー",
+            "任意（Anthropic、OpenAI、Google Gemini、xAI）",
+            "クレジットを買わない場合のみ"
+          ],
+          [
+            "root アクセス",
+            "コマンドラインへのアクセスとだけ書かれており、root という語は使われていない",
+            "あり"
+          ],
+          [
+            "アップデート担当",
+            "Hostinger が自動で実施",
+            "あなた。Docker Manager の Update ボタンで"
+          ],
+          [
+            "サーバーの安全性",
+            "Hostinger",
+            "あなた"
+          ],
+          [
+            "Telegram と WhatsApp",
+            "セットアップウィザードで選択",
+            "VPS 設定の任意項目"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**API キー**は、OpenClaw が AI プロバイダーに応答を頼むときに使うパスワードです。使った分だけ、プロバイダーがあなたに直接請求します。"
+      ]
+    },
+    {
+      "heading": "実際の費用",
+      "paragraphs": [
+        "料金ページは月額で表示されていますが、24か月プランは期間分をまとめて支払います:"
+      ],
+      "bullets": [
+        "**マネージド、紹介リンクあり:** 24 × US$ 3.99 = **US$ 95.76**。紹介リンクなしなら 24 × US$ 4.99 = US$ 119.76。",
+        "**VPS KVM 1、紹介リンクなし:** 24 × US$ 6.49 = US$ 155.76。紹介リンクありの金額はカートで確認してください。",
+        "**更新、その後の24か月（どちらも同じ）:** 24 × US$ 11.99 = US$ 287.76。"
+      ],
+      "postParagraphs": [
+        "紹介リンクありのマネージドは、紹介リンクなしの KVM 1 より、最初の24か月で US$ 60 安くなります。その後は両方とも同じ価格です。更新は初期設定で有効になっています。支払いと更新の仕組みは [Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja) にまとめてあります。",
+        "プランだけでは全部ではありません。AI の利用料は別です。Hostinger のクレジットを使う場合、マネージドには初期残高がつき、それを超えた分は利用量に応じて請求されます。追加チャージの料金は公開ページにないので、契約前に管理画面で確認してください。自分の API キーを使う場合は、プロバイダー（OpenAI、Anthropic など）がモデルと利用量に応じて直接請求します。",
+        "マネージドは30日間の返金申請ができます。VPS の場合は、前回の VPS の返金申請から180日を超えている場合に限り、30日間が適用されます。"
+      ]
+    },
+    {
+      "heading": "どちらを選ぶか",
+      "paragraphs": [
+        "**マネージドを選ぶのは次の場合です:**"
+      ],
+      "bullets": [
+        "サーバーを準備せず、すぐにアシスタントを使いたい",
+        "アップデート、バックアップ、セキュリティを Hostinger に任せたい",
+        "root や Docker が何か分からない",
+        "OpenClaw を使い、同じプランで Hermes Agent や Paperclip に切り替えたい"
+      ],
+      "postParagraphs": [
+        "**VPS を選ぶのは次の場合です:** root アクセスが欲しい、同じサーバーでサイトや n8n など他のプログラムも動かしたい、サーバーの扱いに慣れている、または学びたい、そしてシステムの更新と保護を自分で行うことに同意できる場合。より多くのメモリとディスクが必要な場合も VPS です。KVM プランは 4 GB から 32 GB の RAM があります。",
+        "**迷ったらマネージドから始めてください。** 最初の期間は安く、サーバーの知識も要りません。"
+      ]
+    },
+    {
+      "heading": "Telegram と WhatsApp",
+      "paragraphs": [
+        "どちらのチャンネルも両方の選択肢で使えます。違いは設定する場所です。マネージドでは、Hostinger のセットアップウィザードでチャンネルを選びます。WhatsApp は QR コードを読み取り、Telegram はボットのトークンを貼り付けます。VPS では、設定に WhatsApp の番号（国番号つき）と Telegram ボットのトークンを入力する任意項目があります。ドキュメントには、VPS で WhatsApp の QR コードがどこに表示されるかは書かれていません。",
+        "Telegram は3つのステップです:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-ja.webp",
+        "alt": "OpenClaw を Telegram につなぐ3つのステップ: BotFather でボットを作ってトークンをコピーする、OpenClaw の設定にトークンを貼り付ける、ボットにメッセージを送って最初の接続を承認する",
+        "caption": "2026年10月21日に読んだ OpenClaw の公式ドキュメントの手順です。"
+      },
+      "bullets": [
+        "Telegram の公式ボット作成ツールである BotFather でボットを作り、トークンをコピーします。",
+        "OpenClaw の設定にトークンを貼り付けます。",
+        "ボットにメッセージを送ります。まだ承認されていない相手にはペアリングコードが届くので、OpenClaw の管理画面で最初の接続を承認します。"
+      ],
+      "postParagraphs": [
+        "WhatsApp では、OpenClaw は WhatsApp Web と同じように「リンクされたデバイス」として接続し、ログインは QR コードだけです。ドキュメントは、個人の番号とは別の番号を使うことを勧めています。"
+      ]
+    },
+    {
+      "heading": "安全性：判断が変わるとき",
+      "paragraphs": [
+        "問題は、データと認証情報を誰が管理するかです。マネージドについて Hostinger は、各インスタンスがコンテナで隔離され、独自のセキュリティゲートウェイを持つと説明しています。これは Hostinger の説明で、私たちが検証したものではありません。VPS については、Hostinger 自身が、root アクセスがある場合は設定、アップデート、セキュリティを契約者が担当すると説明しています。",
+        "OpenClaw のセキュリティポリシーは、互いを知らない複数の人のためではなく、信頼できる一人のために作られていると述べています。アシスタントに話しかけられる人は、そのツールを使わせることができます。この点から、次の三つの場合は選び方が変わります:"
+      ],
+      "bullets": [
+        "**複数の人が使う場合**（家族やチーム）: プロジェクトは一人に一つのサーバーを勧めています。VPS ならそれが簡単です。マネージドでは、一つのアカウントでいくつのインスタンスを持てるか Hostinger に確認してください。",
+        "**アシスタントがメールや銀行、ほかのアカウントにアクセスする場合**: プロジェクトは、サーバーに個人のアカウントをログインさせないよう求めています。Hostinger は、アシスタント専用のメールボックスを用意することを勧めています。",
+        "**VPS の場合**: インストール時に生成されるゲートウェイのトークンは保管し、アシスタントとの会話で送らないでください。"
+      ]
+    },
+    {
+      "heading": "紹介リンクと、リンク経由の価格",
+      "paragraphs": [
+        "紹介リンクではコードを入力する必要はありません。**最初の期間だけ 20%** の割引が適用されます。対象は12か月以上のプランで、他のクーポンとは併用できません。更新は通常価格になります。ルールの詳細は [紹介リンクの仕組み](/ja/reviews/hostinger-referral-code-ja) をご覧ください。",
+        "24か月プランのグローバル価格（2026年10月21日、米ドル建て）は次のとおりです:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "紹介リンクなし",
+          "紹介リンクあり",
+          "更新"
+        ],
+        "rows": [
+          [
+            "マネージド（AI automation apps）",
+            "US$ 4.99/月",
+            "US$ 3.99/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 1（4 GB RAM）",
+            "US$ 6.49/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 11.99/月"
+          ],
+          [
+            "VPS KVM 2（8 GB RAM）",
+            "US$ 8.79/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 14.99/月"
+          ],
+          [
+            "VPS KVM 4（16 GB RAM）",
+            "US$ 12.99/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 28.99/月"
+          ],
+          [
+            "VPS KVM 8（32 GB RAM）",
+            "US$ 25.99/月",
+            "カートで確認（最初の期間 20%）",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "これらは Hostinger のグローバルページの価格です。お住まいの国では、別の通貨や税金が表示されることがあります。キャンペーン中は価格も変わるので、[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "OpenClaw のマネージドは買う価値がありますか？サーバーを管理したくない人には価値があります。2026年10月21日時点では、最初の期間は VPS より安く、更新価格は同じです。root や他のプログラムをサーバーで動かしたい人には VPS が向いています。",
+        "OpenAI や Anthropic のアカウントは必要ですか？いいえ。どちらの方法でも Hostinger の AI クレジットを使えます。自分の API キーを使いたい場合だけ、そのプロバイダーのアカウントが必要です。",
+        "OpenClaw の Hostinger クーポンはありますか？コードの入力はありません。20%の割引は紹介リンクから自動で適用されます。最初の期間のみで、12か月以上のプランに限られます。",
+        "最初の期間の後はいくらですか？マネージドと KVM 1 は US$ 11.99/月、KVM 2 は US$ 14.99/月です（2026年10月21日の価格）。紹介リンクの割引は更新時には繰り返されません。",
+        "マネージドプランは Hermes Agent や Paperclip にも使えますか？はい。3つとも「AI automation apps」の同じプランで、料金も同じです。Paperclip のページには AI クレジットが記載されていないので、自分のキーを用意してください。"
+      ]
+    },
+    {
+      "heading": "透明性について",
+      "paragraphs": [
+        "Em Casa com Cecília は Hostinger 上で動いています。Node.js Web App として稼働しており、Bruno は2024年からの顧客で、ホスティングと VPS KVM 2 を利用しています。チームの誰も OpenClaw は使っていません。この記事は、Hostinger のページと OpenClaw の公式ドキュメントを2026年10月21日に読んでまとめたものです。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "コードはすでにリンクに含まれています。20%は最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。",
+    "label": "紹介リンクでプランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。チームの誰も OpenClaw は使っていません。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-ja",
+      "title": "Hostingerのクーポンは不要です：紹介リンクで受けられる割引"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja",
+      "title": "Hostingerは信頼できる？ 会社、返金、自動更新、申し込み前に確認すること"
+    },
+    {
+      "slug": "hostinger-black-friday-ja",
+      "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+    }
+  ]
+}

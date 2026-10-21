@@ -1,0 +1,279 @@
+{
+  "id": 563,
+  "slug": "best-vps-for-openclaw-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-openclaw-melhor-vps",
+  "title": "OpenClaw 最适合的 VPS：需要多少内存，该选哪个 KVM 套餐",
+  "seoTitle": "OpenClaw VPS：所需内存与 KVM 套餐怎么选",
+  "type": "主机指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "OpenClaw 官方文档没有公布通用的最低内存。按使用场景看需要多少，以及哪一个 Hostinger KVM 套餐够用，价格为 2026年10月21日。",
+  "metaDescription": "OpenClaw 的 VPS 怎么选：云端模型或本地模型各需要多少内存，以及 Hostinger KVM 套餐在 2026年10月21日的价格。",
+  "publishedAt": "2026年10月21日",
+  "publishedAtISO": "2026-10-21",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa.webp",
+  "imageAlt": "大小递增的白色长条，旁边是紫色背景上的红色 OpenClaw 吉祥物",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "如果模型在供应商那边，也就是你使用自己的 API 密钥或 Hostinger 的 AI 额度，请求会发送到 AI 公司，模型不会在你的服务器上运行。API 密钥是 OpenClaw 向付费供应商请求回复时使用的密码。这种情况下，文档没有内存数字，服务器只负责运行程序。所以起点是 4 GB RAM 的 KVM 1。这是我们读文档后的判断，不是实测结果。",
+        "如果改用本地模型，模型在服务器上运行，计算就不一样了。文档对最小的本地配方（上下文 64K）给出 8 GiB（约 8.6 GB）的内存下限。8 GB 的 KVM 2 刚好卡在这条线上。16 GB 的 KVM 4 是第一个有余量的套餐。",
+        "如果你不想管服务器，可以看[托管套餐](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)。有推荐链接的托管是每月 US$ 3.99，Hostinger 会帮你安装助理并更新。没有推荐链接的 KVM 1 是 US$ 6.49（有推荐链接的 VPS 价格请在购物车确认）。"
+      ]
+    },
+    {
+      "heading": "官方文档说了什么（又没说什么）",
+      "paragraphs": [
+        "官方的安装页和本地模型页（2026年10月21日阅读），内容如下："
+      ],
+      "bullets": [
+        "**Node 版本。** OpenClaw 需要 Node 24.16 或更新，或 Node 26.1 或更新。Node 是运行 OpenClaw 的程序，用 npm 安装时必须符合这个版本。页面建议使用 Node 26。如果还没装 Node，官方安装程序会提供版本（macOS 为 Node 26，Linux 为 Node 24 LTS）。",
+        "**本地模型。** 文档列出的最小本地配方，以主机 8 GiB 内存为下限，上下文为 64K。页面写道，这些下限「不保证模型放得下，也不保证跑得顺」。",
+        "**Hostinger 的 VPS。** Hostinger 用 Docker（一种把每个应用程序隔离在容器中运行的程序）替你安装 OpenClaw。VPS 是租来的虚拟服务器，有了 root 权限，你就能完全掌控它。"
+      ],
+      "postParagraphs": [
+        "文档没有为不使用本地模型的 OpenClaw 写出任何 RAM、处理器（vCPU）或硬盘数字，也没有给 API 密钥或额度场景的最低服务器规格。",
+        "单位上有个细节。8 GiB 约等于 8.6 GB。KVM 2 标示为 8 GB，也就是约 7.5 GiB，略低于下限，而且还没扣除系统和 Docker 占用的内存。文档没有说明，这个单位差异是否算在下限之内。"
+      ]
+    },
+    {
+      "heading": "每种场景需要多少 RAM",
+      "paragraphs": [
+        "RAM 是服务器的工作内存。程序运行时放在这里；如果用本地模型，模型本身也放在这里。文档只对本地模型给出数字。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "场景",
+          "文档怎么说",
+          "换到套餐上是什么意思"
+        ],
+        "rows": [
+          [
+            "API 密钥或 Hostinger 额度",
+            "没有 RAM 数字。请求会发往供应商（Anthropic、OpenAI、Google Gemini 或 xAI）。",
+            "没有官方数字。KVM 1 是起点。"
+          ],
+          [
+            "本地模型，官方最小配方",
+            "主机 8 GiB 内存为下限，上下文 64K。不保证放得下，也不保证速度。",
+            "KVM 1（4 GB）低于下限。KVM 2（8 GB）刚好卡线。KVM 4（16 GB）是第一个有余量的套餐。"
+          ],
+          [
+            "本地模型，较大的配方",
+            "页面说需要更多内存，但没有数字。",
+            "没有官方计算。按你想运行的模型大小来选。"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "本地模型有两个细节。上下文是模型一次能读入的文字量（token，即词的片段）。上下文窗口剩下不到 20% 时，OpenClaw 会提醒，下限为 8,000 token；低于 10% 时，它会拦下回复，下限为 4,000 token。",
+        "我读过的 KVM 套餐页面，都没有列出显卡（GPU）。文档也没有说明，没有 GPU 时本地模型会跑多快。"
+      ]
+    },
+    {
+      "heading": "该选哪个 KVM 套餐",
+      "paragraphs": [
+        "KVM 是 Hostinger 虚拟服务器套餐的名称。表格列出四个套餐，价格是 2026年10月21日读取的 24 个月套餐。请对照文档来看每个套餐："
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
+        "alt": "三行的表：服务器外的模型（API 密钥或额度）选 KVM 1；小型本地模型选 KVM 2（刚好卡线）或 KVM 4；上下文较大或还要运行其他程序的本地模型，选 KVM 4 或 KVM 8",
+        "caption": "依据 2026年10月21日阅读的 OpenClaw 文档整理；我们没有测量性能。"
+      },
+      "comparisonTable": {
+        "headers": [
+          "套餐",
+          "vCPU（虚拟处理器）",
+          "RAM",
+          "NVMe 硬盘",
+          "有推荐链接",
+          "没有推荐链接",
+          "续费"
+        ],
+        "rows": [
+          [
+            "KVM 1",
+            "1",
+            "4 GB",
+            "50 GB",
+            "结账时确认（首期 20%）",
+            "US$ 6.49/月",
+            "US$ 11.99/月"
+          ],
+          [
+            "KVM 2",
+            "2",
+            "8 GB",
+            "100 GB",
+            "结账时确认（首期 20%）",
+            "US$ 8.79/月",
+            "US$ 14.99/月"
+          ],
+          [
+            "KVM 4",
+            "4",
+            "16 GB",
+            "200 GB",
+            "结账时确认（首期 20%）",
+            "US$ 12.99/月",
+            "US$ 28.99/月"
+          ],
+          [
+            "KVM 8",
+            "8",
+            "32 GB",
+            "400 GB",
+            "结账时确认（首期 20%）",
+            "US$ 25.99/月",
+            "US$ 49.99/月"
+          ]
+        ]
+      },
+      "bullets": [
+        "**KVM 1（4 GB）。** API 密钥或额度场景的起点。若用本地模型，低于官方下限。",
+        "**KVM 2（8 GB）。** 用 API 密钥时绰绰有余。用本地模型时刚好卡在下限，系统没有余量。",
+        "**KVM 4（16 GB）。** 第一个高于官方 8 GiB 下限、且有余量的套餐。文档没有说明它用本地模型能跑多好。",
+        "**KVM 8（32 GB）。** 只有在跑更大的本地模型时才有意义。文档没有说明大型配方需要多少内存。"
+      ],
+      "postParagraphs": [
+        "推荐链接只在首个计费周期提供 20% 折扣，适用于 12 个月以上的套餐，且不能与其他优惠券叠加。续费时会回到标准价格。请先看[Hostinger 推荐链接的运作方式](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前到购物车确认金额。Hostinger 目前正在进行黑色星期五活动，价格可能会变动：[看活动内容](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "VPS、在家跑，还是托管：各种场景该怎么选",
+      "paragraphs": [
+        "三条路都运行同一个程序 OpenClaw，但成本和要做的事不同。选择取决于三件事：你想不想碰服务器、电脑能不能 24 小时开着，以及 AI 模型是云端的还是跑在你自己的机器上。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "场景",
+          "较好的路",
+          "原因"
+        ],
+        "rows": [
+          [
+            "想让助理上线，不碰服务器，用 API 密钥或 Hostinger 额度",
+            "托管",
+            "Hostinger 负责安装和维护。2026年10月21日，24 个月套餐、有推荐链接为 US$ 3.99/月"
+          ],
+          [
+            "想要 root 权限，并在同一台服务器上跑网站或 n8n 等其他程序",
+            "VPS",
+            "你有完全的掌控权。服务器的更新与安全由你负责"
+          ],
+          [
+            "想在服务器本身跑 AI 模型，不用供应商的密钥",
+            "较大的 VPS 套餐，或内存足够的家用电脑",
+            "内存决定一切。请看本文的本地模型内存计算"
+          ],
+          [
+            "只想在家里电脑开着、网络稳定时才跑助理",
+            "在家跑",
+            "没有服务器月费，成本是电费和被占用的电脑。网络断开，助理也会跟着停"
+          ],
+          [
+            "不想让自己的电脑一直开着，又想掌控服务器",
+            "VPS",
+            "不靠你的机器也能持续上线。更新用 Docker Manager 的 Update 按钮"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "在 VPS 上，Hostinger 会用 Docker（一种把每个应用程序隔离在容器中运行的程序）替你安装 OpenClaw。之后的维护就由你负责。"
+      ]
+    },
+    {
+      "heading": "免费的 VPS：Oracle Always Free",
+      "paragraphs": [
+        "Oracle 有免费套餐，叫 Always Free。它不是 Hostinger 的服务，也无法取代付费的 VPS。依据 2026年10月21日读取的 Oracle 文档："
+      ],
+      "bullets": [
+        "最多两台 Micro 实例（AMD 处理器），每台 1/8 OCPU 和 1 GB 内存。",
+        "Arm Ampere A1 实例：合计 2 OCPU 和 12 GB 内存，你可以自由分配。每月上限为 1,500 OCPU 小时和 9,000 GB 小时。",
+        "块存储合计 200 GB，用于系统盘和额外盘，最多五份备份。",
+        "免费实例必须建在账户的原始区域。在其他区域创建会产生费用。"
+      ],
+      "postParagraphs": [
+        "关键规则是：Oracle 可能回收闲置的实例。在 7 天内，若 CPU 第 95 百分位使用率低于 20%、网络使用率低于 20%，而且 A1 的内存使用率也低于 20%，就会被视为闲置。大部分时间都静止的助理，可能会碰到这条规则。文档没有说明回收前是否会事先通知。"
+      ]
+    },
+    {
+      "heading": "推荐链接与价格",
+      "paragraphs": [
+        "以下是 2026年10月21日、24 个月套餐的价格。托管通过推荐链接为 US$ 3.99/月。VPS 的推荐价格请到购物车确认（没有推荐链接时，KVM 1 为 US$ 6.49，KVM 2 为 US$ 8.79）。续费时，托管和 KVM 1 都是 US$ 11.99/月，KVM 2 是 US$ 14.99/月。"
+      ],
+      "postParagraphs": [
+        "规则：20% 只适用于首个计费周期，限 12 个月以上的套餐，不能与其他优惠券叠加。不需要输入代码，折扣已经在链接里。付款前请在购物车确认金额。黑色星期五期间价格会变动。另请参考[推荐链接的运作方式](/zh-hans/reviews/hostinger-referral-code-zh-hans)和 [Hostinger 的页面](/zh-hans/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "OpenClaw 需要的最低服务器规格是多少？官方文档没有公布 RAM、CPU 或硬盘的最低值，只要求 Node 24.16 或更新（或 26.1）。使用 API 密钥或额度，KVM 1 是起点。用本地模型，下限是 8 GiB，KVM 4 是第一个有余量的选择。",
+        "没有 API 密钥能用吗？可以，但要用本地模型，内存就成了问题。文档以 8 GiB 为最小本地配方的下限，上下文 64K，并提醒这不保证模型放得下，也不保证跑得好。使用 Hostinger 额度时，你不需要在 AI 供应商开户，但要为用量付费。",
+        "Oracle 真的免费吗？是的，只要账户保持在 Always Free 套餐。你可以用 Arm A1 的 2 OCPU 和 12 GB，外加 Micro 实例。若实例闲置 7 天（CPU、网络、内存都低于 20%），可能会被 Oracle 回收。",
+        "Mac mini 还是 VPS？取决于你的电脑能不能 24 小时开着。能的话，在家跑就不用付服务器月费；不能的话，选 VPS 或托管。",
+        "Hostinger 有没有适用于 OpenClaw VPS 的优惠券？没有需要输入的代码。20% 折扣通过推荐链接自动套用，只限首个计费周期，适用于 12 个月以上的套餐，且不能与其他优惠券叠加。"
+      ]
+    },
+    {
+      "heading": "透明度说明",
+      "paragraphs": [
+        "Em Casa com Cecília 运行在 Hostinger 上，以 Node.js Web App 的形式运作。Bruno 从 2024 年开始就是客户，使用主机服务与一台 VPS KVM 2。团队中没有人使用 OpenClaw。这篇文章整理的，是 Hostinger、Oracle 和 OpenClaw 官方文档在 2026年10月21日所说的内容。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推荐代码已经在链接里：20% 仅适用于首个计费周期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
+    "label": "通过推荐链接查看套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人使用 OpenClaw。",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
+      "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、要做什么，以及适合谁"
+    },
+    {
+      "slug": "openclaw-vs-hermes-agent-zh-hans",
+      "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+    }
+  ]
+}
