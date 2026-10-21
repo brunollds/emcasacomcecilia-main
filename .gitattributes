@@ -72,6 +72,8 @@ public/images/about/partners/promobit.jpg -text export-ignore
 public/images/about/partners/santos-simoes.webp -text export-ignore
 public/images/about/partners/shein.webp -text export-ignore
 public/images/about/partners/shopee.png -text export-ignore
+public/images/about/partners/skelt-icon.png -text export-ignore
+public/images/about/partners/skelt.png -text export-ignore
 public/images/about/partners/tempero-do-anjo.webp -text export-ignore
 public/images/about/partners/wap.png -text export-ignore
 public/images/authors/bruno-luiz.webp -text export-ignore
@@ -93,6 +95,7 @@ public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
 public/images/logos/watermarks/shein.webp -text export-ignore
+public/images/logos/watermarks/skelt.webp -text export-ignore
 public/images/logos/watermarks/yesstyle.webp -text export-ignore
 public/images/logos/yesstyle.jpg -text export-ignore
 public/images/photos/BRU-1.jpg -text export-ignore

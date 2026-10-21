@@ -74,6 +74,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Cléa Store', src: '/images/about/partners/clea-store.png', href: 'https://www.cleastore.com.br' },
   { name: 'Belive', src: '/images/about/partners/belive.png', href: 'https://belivebefree.com.br' },
   { name: 'Mais Mu', src: '/images/about/partners/mais-mu.png', href: 'https://www.lojamaismu.com.br' },
+  { name: 'Skelt', src: '/images/about/partners/skelt.png', href: 'https://www.skelt.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
