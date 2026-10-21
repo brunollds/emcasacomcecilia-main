@@ -89,6 +89,17 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 | I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
 | I6 | Insider no Mercado Livre ou no site | Estoque (sem link de afiliado do Mercado Livre da Insider) |
 
+## Hostinger: agentes de IA (Bruno, 21/10/2026)
+
+O Bruno pediu pautas com OpenClaw, Hermes Agent e Paperclip, os temas em alta. São 10 idiomas, como as famílias da Hostinger, e nenhum de nós usa os três: o texto é guia, com fontes públicas. A indicação segue no artigo. Os termos (revisão de 02/09/2026) vetam o link em blogs, e o Bruno pediu a entrada no programa de afiliados. Ver [[Hostinger]].
+
+| Ordem | Pauta | Sinal do autocompletar (21/10/2026) | Situação |
+|---|---|---|---|
+| 1 | OpenClaw na Hostinger: gerenciado ou VPS | "openclaw hostinger" vps, setup, vale a pena, whatsapp, telegram, coupon code (pt, en, es, de, ja) | **Briefing criado em 21/10/2026:** [[openclaw-hostinger-gerenciado-ou-vps]] |
+| 2 | Melhor VPS para OpenClaw | "melhor vps para openclaw", "vps barato para openclaw", "best vps for openclaw" | **Briefing criado em 21/10/2026:** [[melhor-vps-para-openclaw]] |
+| 3 | OpenClaw ou Hermes Agent | "openclaw vs hermes" em todos os idiomas, "openclaw ou hermes agent" | **Briefing criado em 21/10/2026:** [[openclaw-ou-hermes-agent]] |
+| 4 | Paperclip AI na Hostinger | "paperclip ai" o que é, é confiável, docker, hostinger | **Briefing criado em 21/10/2026:** [[paperclip-ai-hostinger]] |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
