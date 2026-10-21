@@ -15,6 +15,8 @@
 - [ ] [[black-friday-mais-mu]] — guia sem prometer desconto da loja; fim da lista de `home-events.json` (20/10/2026)
 - [ ] [[mais-mu-ou-growth]] — comparativo de whey e creatina; Growth com preços de 18/10 (reler com liberação do Bruno) (20/10/2026)
 - [ ] [[mais-mu-ou-dux]] — comparativo de whey e creatina; Mais Mu mais barata por proteína, Dux com Creapure (20/10/2026)
+- [ ] [[yesstyle-ou-olive-young]] — família de 10 idiomas; lista de envio da Olive Young de 21/10 (Chrome), EUA pela OLIVE YOUNG US, ko curto (21/10/2026)
+- [ ] [[yesstyle-ou-stylekorean]] — não é artigo novo: reforço da família `yesstyle-vs-alternatives` (StyleKorean + correção dos países da Olive Young) (21/10/2026)
 
 ---
 
