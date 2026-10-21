@@ -242,6 +242,37 @@ Nenhum. Este briefing não usou o Chrome, por pedido. Pendências de navegador:
 
 ---
 
+## Leitura no Chrome (21/10/2026, com o OK do Bruno)
+
+Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas já mostravam "Código de indicação aplicado": o navegador guardava a indicação de antes. Os preços abaixo são **com** os 20%. Sem a indicação, o mesmo plano saía mais caro no curl da manhã: gerenciado R$ 24,99; KVM 1 R$ 29,99; KVM 2 R$ 42,99; KVM 4 R$ 59,99; KVM 8 R$ 119,99. A conta bate com 20% sobre esses preços.
+
+**A indicação vale nos planos de agente de 24 meses.** Isso vale para o gerenciado (OpenClaw, Hermes e Paperclip) e para todos os KVM. Fica resolvida a lacuna da elegibilidade.
+
+- **Campanha:** a página do OpenClaw gerenciado já está na Black Friday ("Aproveite até 80% off em OpenClaw na Black Friday"; faixa "Até 80% off").
+- **Gerenciado, BR.** OpenClaw, Hermes Agent e Paperclip são **o mesmo plano**, "Apps de automação com IA" ("Experimente o OpenClaw e outros aplicativos de automação, tudo em um único plano").
+  - R$ 99,99 riscado → **R$ 19,99/mês** com a indicação.
+  - "Renova por R$ 59,99/mês a cada 2 anos".
+  - Pagamento integral do período; parcela em até 12x; 30 dias para pedir reembolso.
+- **O que o plano inclui.** No OpenClaw e no Hermes, "Créditos de IA pré-configurados" e "Use seu ChatGPT". A página do Paperclip lista "Use seu ChatGPT" e **não** lista créditos.
+  - FAQ: "O uso é cobrado à parte, conforme o consumo".
+  - O valor da recarga de créditos não aparece em nenhuma página pública. O texto manda conferir no painel e não dá número.
+- **VPS, BR** (/br/applications/openclaw, preço com a indicação, 2 anos):
+
+  | Plano | Recursos | Riscado | Com a indicação | Renova |
+  |---|---|---|---|---|
+  | KVM 1 | 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB | R$ 87,99 | R$ 23,99/mês | R$ 59,99/mês |
+  | KVM 2 ("mais popular") | 2 vCPU, 8 GB, 100 GB, 8 TB | R$ 108,99 | R$ 34,39/mês | R$ 77,99/mês |
+  | KVM 4 | 4 vCPU, 16 GB, 200 GB, 16 TB | R$ 196,99 | R$ 47,99/mês | R$ 149,99/mês |
+  | KVM 8 | (não lido) | R$ 359,99 | R$ 95,99/mês | R$ 259,99/mês |
+
+  - VPS de 12 meses ou mais leva domínio .cloud ou .tech grátis no 1º ano.
+- **Gerenciado, global** (/managed-openclaw): US$ 21,99 riscado → **US$ 3,99/mês** com a indicação; "renovação automática por US$ 11,99/mês durante 2 anos".
+
+**Regra para o texto:**
+- Preço com data e com o período (24 meses).
+- Dizer qual preço já tem os 20%.
+- A diferença é pequena: o gerenciado fica **mais barato** que o KVM 1 no 1º período, e os dois renovam por R$ 59,99.
+
 ## Decisões do Bruno (21/10/2026)
 
 - **Pauta aprovada.** O lote de agentes de IA na Hostinger (OpenClaw, Hermes Agent, Paperclip) foi pedido pelo Bruno em 21/10/2026, nos 10 idiomas. Com isso, a regra do dossiê ("artigo só por decisão do Bruno") está cumprida.
