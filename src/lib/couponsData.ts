@@ -1870,6 +1870,104 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
+    offerMode: 'discount-code',
+    slug: 'skelt',
+    brand: 'Skelt',
+    officialUrl: 'https://www.skelt.com.br/',
+    offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz',
+    brandIcon: 'SK',
+    brandLogo: '/images/about/partners/skelt-icon.png',
+    brandLogoAlt: 'Marca Skelt',
+    brandWatermark: '/images/logos/watermarks/skelt.webp',
+    brandColor: '#212121',
+    code: 'SKEMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Autobronzeador, body splash e hidratação corporal',
+    hubCategory: 'beleza',
+    shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em autobronzeador, body splash, body cream, maquiagem corporal e kits no site oficial da Skelt, com qualquer forma de pagamento e inclusive nos produtos que já estão em promoção.',
+    metaTitle: 'Cupom Skelt Outubro 2026: SKEMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Skelt de outubro de 2026: use SKEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as promoções e com os 5% do Pix.',
+    eligibleCategories: 'Todos os produtos do site oficial da Skelt, inclusive kits e combos',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido, segundo o site em 21/10/2026',
+    combinable:
+      'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o de primeira compra da loja',
+    lastVerified: '2026-10-21',
+    testNote:
+      'Aplicamos o SKEMCASACOMCECILIA num carrinho com um body splash e um mousse autobronzeador, que já estavam com os 10% da promoção do site e somavam R$ 197,82, e o desconto foi de R$ 19,78: o total caiu para R$ 178,04, e no Pix a loja tirou mais 5%, para R$ 169,13.',
+    codeInstructions: [
+      'Copie o código SKEMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Skelt pelo botão indicado e coloque os produtos no carrinho.',
+      'No carrinho ou no checkout, cole o código no campo de cupom de desconto e aplique.',
+      'Confira o desconto no resumo do pedido antes de escolher a forma de pagamento.',
+    ],
+    aboutBrand:
+      'A Skelt é uma marca brasileira de Curitiba, criada em 2017, conhecida pelos autobronzeadores em mousse, água e gel, e que hoje também vende body splash, body cream, maquiagem corporal e kits, com fórmulas veganas e cruelty-free. O cupom SKEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom SKEMCASACOMCECILIA vale para todos os produtos da Skelt?',
+        answer: 'Sim. O SKEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 21/10/2026, os 10% do cupom entraram sobre os preços que já estavam com os 10% da promoção do site.',
+      },
+      {
+        question: 'O cupom SKEMCASACOMCECILIA soma com o desconto do Pix?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Skelt ainda tira os 5% de desconto dela.',
+      },
+      {
+        question: 'Posso usar o SKEMCASACOMCECILIA junto com o cupom PRIMEIRA10?',
+        answer:
+          'Não. A Skelt aceita um cupom por pedido: aplicar outro código troca o anterior. Na primeira compra, fique com um dos dois; os dois dão 10%.',
+      },
+      {
+        question: 'O cupom tira o brinde do pedido?',
+        answer:
+          'Pode tirar. O valor mínimo dos brindes da Skelt conta o pedido depois dos descontos, então, se o cupom deixar o total abaixo do mínimo da campanha, o brinde sai do carrinho. Confira o carrinho antes de pagar.',
+      },
+      {
+        question: 'O cupom SKEMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 21/10/2026, o SKEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O cupom SKEMCASACOMCECILIA vale no Mercado Livre?',
+        answer:
+          'Não. O SKEMCASACOMCECILIA é usado no checkout do site oficial da Skelt e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2unTb7k',
+      },
+      {
+        question: 'Onde coloco o cupom na Skelt?',
+        answer: 'No campo de cupom de desconto do carrinho ou do checkout, antes de escolher a forma de pagamento.',
+      },
+      {
+        question: 'A Skelt tem frete grátis?',
+        answer:
+          'Sim. Em 21/10/2026, o frete era grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste; e a partir de R$ 299 no Norte e Nordeste. O valor conta o pedido já com os descontos.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Soma com as promoções do site e os 5% do Pix; vale também em kits e combos',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'hostinger',
     brand: 'Hostinger',
