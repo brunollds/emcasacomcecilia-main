@@ -96,10 +96,10 @@ O Bruno pediu pautas com OpenClaw, Hermes Agent e Paperclip, os temas em alta. S
 
 | Ordem | Pauta | Sinal do autocompletar (21/10/2026) | Situação |
 |---|---|---|---|
-| 1 | OpenClaw na Hostinger: gerenciado ou VPS | "openclaw hostinger" vps, setup, vale a pena, whatsapp, telegram, coupon code (pt, en, es, de, ja) | **Briefing criado em 21/10/2026:** [[openclaw-hostinger-gerenciado-ou-vps]] |
-| 2 | Melhor VPS para OpenClaw | "melhor vps para openclaw", "vps barato para openclaw", "best vps for openclaw" | **Briefing criado em 21/10/2026:** [[melhor-vps-para-openclaw]] |
-| 3 | OpenClaw ou Hermes Agent | "openclaw vs hermes" em todos os idiomas, "openclaw ou hermes agent" | **Briefing criado em 21/10/2026:** [[openclaw-ou-hermes-agent]] |
-| 4 | Paperclip AI na Hostinger | "paperclip ai" o que é, é confiável, docker, hostinger | **Briefing criado em 21/10/2026:** [[paperclip-ai-hostinger]] |
+| 1 | OpenClaw na Hostinger: gerenciado ou VPS | "openclaw hostinger" vps, setup, vale a pena, whatsapp, telegram, coupon code (pt, en, es, de, ja) | **Publicado em 21/10/2026:** [[openclaw-hostinger-gerenciado-ou-vps]] (PR #211, release `666113b`) |
+| 2 | Melhor VPS para OpenClaw | "melhor vps para openclaw", "vps barato para openclaw", "best vps for openclaw" | **Publicado em 21/10/2026:** [[melhor-vps-para-openclaw]] (PR #211, release `666113b`) |
+| 3 | OpenClaw ou Hermes Agent | "openclaw vs hermes" em todos os idiomas, "openclaw ou hermes agent" | **Publicado em 21/10/2026:** [[openclaw-ou-hermes-agent]] (PR #211, release `666113b`) |
+| 4 | Paperclip AI na Hostinger | "paperclip ai" o que é, é confiável, docker, hostinger | **Publicado em 21/10/2026:** [[paperclip-ai-hostinger]] (PR #211, release `666113b`) |
 
 ## Temas para depois (não prioritários)
 

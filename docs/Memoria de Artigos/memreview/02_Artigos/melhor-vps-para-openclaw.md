@@ -6,20 +6,22 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "rever preços da Hostinger (BR e global) na revisão mensal de novembro de 2026; trocar o link se a afiliação for aceita"
+publicado_em: "2026-10-21"
+nota_publicacao: "No ar em 21/10/2026 ~22:40 UTC (PR #211, release `666113b`, build `01a16090-807a-730c-9bf5-3c36806446df`), ids 554–563, 10 idiomas; revisão dos 10 idiomas com conferência nas fontes oficiais antes do merge; link de indicação (decisão de 21/10)."
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 74
 score_ponderado_total: 74
 data_criacao: "2026-10-21"
 i18n_cluster: null
-translationKey: "openclaw-melhor-vps"
+translationKey: "hostinger-openclaw-melhor-vps"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "nao-aplicavel"
+status_i18n: "completo"
 authors: ["cecilia-mauad", "bruno-luiz"]
 ---
 
