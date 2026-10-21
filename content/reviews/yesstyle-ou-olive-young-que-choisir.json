@@ -37,7 +37,7 @@
         "**Ce qui change entre les deux :**"
       ],
       "bullets": [
-        "**Pays :** YesStyle publie livraison et délai pour 23 des 24 pays de ce tableau (tous sauf le Brésil). Olive Young Global a une ligne de délai et de livraison pour 10 d'entre eux, et les États-Unis passent par sa boutique américaine.",
+        "**Pays :** YesStyle publie livraison et délai pour 23 des 24 pays du comparatif (tous sauf le Brésil). Olive Young Global a une ligne de délai et de livraison pour 10 d'entre eux, et les États-Unis passent par sa boutique américaine.",
         "**Livraison gratuite :** Olive Young demande US$ 60 dans la plupart des pays. YesStyle demande entre US$ 35 et US$ 45 dans une grande partie de l'Europe, en Australie et à Hong Kong, et US$ 50 ou US$ 60 ailleurs.",
         "**Taxes :** Olive Young fait payer la TVA et les droits de l'UE au paiement depuis le 31 juillet 2026 ; ailleurs, la taxe peut tomber à la livraison. Chez YesStyle, la boutique paie actuellement la taxe de 3 € de l'UE à la place du client.",
         "**Retours :** Olive Young n'accepte les retours que pour un défaut ou une erreur de la boutique, dans les 30 jours. YesStyle laisse 14 jours pour demander un numéro de retour."
@@ -49,7 +49,7 @@
     {
       "heading": "Qui livre dans votre pays",
       "paragraphs": [
-        "Chaque ligne est un pays. La colonne YesStyle vient du tableau de livraison publié le 13 octobre 2026. La colonne Olive Young vient de la page de livraison lue le 21 octobre 2026. Quand une boutique ne publie pas de délai ou de frais de port, la case le dit."
+        "Chaque ligne est un pays ; la dernière regroupe les autres. La colonne YesStyle vient du tableau de livraison publié le 13 octobre 2026. La colonne Olive Young vient de la page de livraison lue le 21 octobre 2026. Quand une boutique ne publie pas de délai ou de frais de port, la case le dit."
       ],
       "comparisonTable": {
         "headers": [
@@ -59,64 +59,9 @@
         ],
         "rows": [
           [
-            "Brésil",
-            "Avis de suspension du 3 juillet 2026 toujours en ligne ; pas d'avis de reprise",
-            "Ne livre pas"
-          ],
-          [
-            "Portugal",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 60",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
-          ],
-          [
-            "États-Unis",
-            "Standard, 7 à 11 jours ouvrés ; gratuit à partir de US$ 35",
-            "Pas par la boutique mondiale ; utilisez OLIVE YOUNG US (Standard, 5 jours ouvrés ; gratuit à partir de US$ 35)"
-          ],
-          [
-            "Royaume-Uni",
-            "Premium Standard, 5 à 12 jours ouvrés ; gratuit à partir de US$ 50",
-            "4 à 5 jours ; gratuit à partir de US$ 60"
-          ],
-          [
             "Canada",
             "Premium Standard, 7 à 14 jours ouvrés ; gratuit à partir de US$ 50",
             "5 à 7 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Australie",
-            "Premium Standard, 6 à 8 jours ouvrés ; gratuit à partir de US$ 35",
-            "4 à 5 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Espagne",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 45 (hors Baléares, Canaries, Ceuta et Melilla)",
-            "Ne livre pas"
-          ],
-          [
-            "Mexique",
-            "Standard, 10 à 13 jours ouvrés ; gratuit à partir de US$ 45",
-            "8 à 9 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Chili",
-            "Standard, 15 à 20 jours ouvrés ; gratuit à partir de US$ 60",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
-          ],
-          [
-            "Pérou",
-            "Standard, 15 à 22 jours ouvrés ; gratuit à partir de US$ 60",
-            "Ne livre pas"
-          ],
-          [
-            "Argentine",
-            "Standard, 15 à 27 jours ouvrés ; gratuit à partir de US$ 60",
-            "Ne livre pas"
-          ],
-          [
-            "Colombie",
-            "Standard, 15 à 22 jours ouvrés ; gratuit à partir de US$ 45",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
           ],
           [
             "France",
@@ -129,54 +74,9 @@
             "Livre ; gratuit à partir de US$ 60, délai non publié"
           ],
           [
-            "Allemagne",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 45",
-            "4 à 5 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Autriche",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 45",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
-          ],
-          [
-            "Suisse",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 45",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
-          ],
-          [
-            "Italie",
-            "Standard, 10 à 15 jours ouvrés ; gratuit à partir de US$ 45",
-            "Livre ; gratuit à partir de US$ 60, délai non publié"
-          ],
-          [
-            "Japon",
-            "Express, 4 à 5 jours ; gratuit à partir de US$ 50",
-            "6 à 7 jours ; gratuit à partir de ¥ 3 900"
-          ],
-          [
-            "Corée du Sud",
-            "Express, 3 à 5 jours ; gratuit à partir de US$ 50",
-            "Dans le sélecteur de destination, mais absente du tableau d'expédition ; délai et tarif non publiés"
-          ],
-          [
-            "Taïwan",
-            "Express, 3 à 6 jours ; gratuit à partir de US$ 50",
-            "5 à 6 jours ; gratuit à partir de US$ 35"
-          ],
-          [
-            "Hong Kong",
-            "SF Express, 1 à 3 jours ; gratuit à partir de US$ 35",
-            "3 à 5 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Singapour",
-            "Express, 3 à 5 jours ; gratuit à partir de US$ 50",
-            "5 à 6 jours ; gratuit à partir de US$ 60"
-          ],
-          [
-            "Malaisie",
-            "Standard, 10 à 16 jours ouvrés ; gratuit à partir de US$ 35",
-            "Livre ; gratuit à partir de US$ 60 (US$ 5 en dessous), délai non publié"
+            "autres pays",
+            "Délai et livraison gratuite varient selon le pays ; vérifiez au paiement avec votre adresse",
+            "Gratuit dès US$ 60 dans la plupart des destinations (US$ 25 en dessous) ; délai au paiement"
           ]
         ],
         "caption": "Délai et seuil de livraison gratuite par pays : YesStyle d'après son tableau du 13 octobre 2026 ; Olive Young Global d'après sa page de livraison et sa FAQ de frais de port, lues le 21 octobre 2026."
@@ -196,10 +96,10 @@
     {
       "heading": "Livraison gratuite et délais",
       "paragraphs": [
-        "Les délais sont ceux de l'expédition, pas du porte-à-porte. Chez YesStyle, le temps que l'article quitte l'entrepôt de Hong Kong s'ajoute à l'expédition : un article en stock part en 1 à 3 jours ouvrés. Olive Young n'affiche que le délai d'expédition, sans le temps de sortie de l'entrepôt. N'additionnez pas les valeurs d'une boutique et de l'autre : YesStyle compte en jours ouvrés, et Olive Young affiche des jours calendaires.",
+        "Les délais sont ceux de l'expédition, pas du porte-à-porte. Chez YesStyle, le temps que l'article quitte l'entrepôt de Hong Kong s'ajoute à l'expédition : un article en stock part en 1 à 3 jours ouvrés. Olive Young n'affiche que le délai d'expédition, sans le temps de sortie de l'entrepôt. N'additionnez pas les valeurs d'une boutique et de l'autre : YesStyle compte en jours ouvrés, et Olive Young affiche seulement des « jours », sans préciser s'ils sont ouvrés.",
         "**France et Belgique.** Chez YesStyle, le Standard prend 10 à 15 jours ouvrés, avec livraison gratuite dès US$ 45. Chez Olive Young, la France annonce 4 à 5 jours, avec livraison gratuite dès US$ 60 ; la Belgique est livrée sans délai publié. Pour comparer, mettez votre adresse au paiement de chaque boutique.",
         "**Canada.** Olive Young annonce 5 à 7 jours, contre 7 à 14 jours ouvrés pour le Premium Standard de YesStyle, dès US$ 50. Le mieux est de comparer les frais au paiement, car les seuils ne sont pas les mêmes.",
-        "**Livraison gratuite.** Olive Young offre la livraison dès US$ 60 dans la plupart des pays du tableau. À Taïwan, le seuil est de US$ 35, et au Japon, de ¥ 3 900. YesStyle demande US$ 35 à Hong Kong, en Malaisie, aux États-Unis (Standard) et en Australie (Premium Standard) ; US$ 45 en Europe continentale, en Espagne, au Mexique et en Colombie ; US$ 50 au Japon, en Corée du Sud, à Taïwan, à Singapour, au Royaume-Uni et au Canada ; et US$ 60 au Portugal, au Chili, au Pérou et en Argentine. Sous le seuil, YesStyle facture entre US$ 3 et US$ 8 dans la plupart des pays."
+        "**Livraison gratuite.** Olive Young offre la livraison dès US$ 60 dans la plupart des pays du comparatif. À Taïwan, le seuil est de US$ 35, et au Japon, de ¥ 3 900. YesStyle demande US$ 35 à Hong Kong, en Malaisie, aux États-Unis (Standard) et en Australie (Premium Standard) ; US$ 45 en Europe continentale, en Espagne, au Mexique et en Colombie ; US$ 50 au Japon, en Corée du Sud, à Taïwan, à Singapour, au Royaume-Uni et au Canada ; et US$ 60 au Portugal, au Chili, au Pérou et en Argentine. Sous le seuil, YesStyle facture entre US$ 3 et US$ 8 dans la plupart des pays."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -213,7 +113,7 @@
       "heading": "Qui paie la taxe",
       "paragraphs": [
         "La taxe change d'un pays à l'autre dans les deux boutiques. Chez Olive Young, elle passe au paiement dans certains pays et reste à la livraison, à la charge du client, dans d'autres.",
-        "**Olive Young.** La page regroupe les pays. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme prélevée à l'achat. Le Royaume-Uni peut facturer la TVA et des frais sur les commandes au-delà de £ 135 ; la Norvège applique 25 % de TVA, l'Australie 10 % de GST et Singapour 9 %. Dans l'UE, depuis les commandes passées le 31 juillet 2026, Olive Young calcule au paiement, une fois l'adresse saisie, la TVA du pays et 3 EUR de droits d'importation par code HS (catégorie douanière) ; sur une commande de moins de US$ 60 avec livraison, la TVA porte aussi sur les frais de port. La boutique indique que rien d'autre n'est facturé à la livraison (avis du 23 juillet 2026, lu le 21 octobre 2026) ; si un montant est réclamé à l'arrivée, le client s'adresse au transporteur avec le justificatif. Le Canada peut facturer la TVA sur les commandes au-delà de CA$ 20, et Israël des frais au-delà de US$ 75 ; le texte que nous avons lu ne précise pas à quel moment ces deux prélèvements tombent. Olive Young n'accepte pas non plus de retour ni de remboursement de cette taxe ou de ces frais (FAQ des frais de l'UE, lue le 21 octobre 2026).",
+        "**Olive Young.** La page regroupe les pays. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme prélevée à l'achat. Le Royaume-Uni peut facturer la TVA et des frais sur les commandes au-delà de £ 135 ; la Norvège applique 25 % de TVA, l'Australie 10 % de GST et Singapour 9 %. Dans l'UE, depuis les commandes passées le 31 juillet 2026, Olive Young calcule au paiement, une fois l'adresse saisie, la TVA du pays et 3 EUR de droits d'importation par code HS (catégorie douanière) ; sur une commande de moins de US$ 60 avec livraison, la TVA porte aussi sur les frais de port. La boutique indique que rien d'autre n'est facturé à la livraison (avis du 23 juillet 2026, lu le 21 octobre 2026) ; si un montant est réclamé à l'arrivée, le client s'adresse au transporteur avec le justificatif. Au Canada et en Israël, le prélèvement tombe à la livraison : le Canada peut facturer la TVA sur les commandes au-delà de CA$ 20, et Israël des frais au-delà de US$ 75, et le transporteur local peut ajouter des frais. Olive Young n'accepte pas non plus de retour ni de remboursement de cette taxe ou de ces frais (FAQ des frais de l'UE, lue le 21 octobre 2026).",
         "**YesStyle.** L'article de livraison de YesStyle (données du 13 octobre 2026) indique que, depuis le 1er juillet 2026, l'UE facture 3 € par catégorie douanière sur les colis de moins de 150 €, et que la boutique paie actuellement ce montant à la place du client. Les frais de douane prélevés à la livraison sur les commandes de moins de US$ 1 000 sont remboursés en avoir sur la boutique si vous envoyez le justificatif dans les 30 jours. Vérifiez le total pour votre adresse au paiement avant de payer."
       ]
     },
@@ -265,7 +165,7 @@
     {
       "heading": "Programme de membres et points",
       "paragraphs": [
-        "Olive Young Global propose OY MEMBERS, gratuit. L'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et montent aussitôt si vos achats du semestre en cours dépassent le seuil. Sur la page des membres lue le 21 octobre 2026, la fourchette de chaque niveau est la suivante ; le programme actuel est valable jusqu'au 31 décembre 2026."
+        "Olive Young Global propose OY MEMBERS, gratuit. L'inscription donne tout de suite le niveau BABY. Les autres niveaux sont recalculés le premier lundi de janvier et de juillet, d'après les achats du semestre précédent, et montent aussitôt si vos achats du semestre en cours dépassent le seuil. Sur la page des membres lue le 21 octobre 2026, la fourchette de chaque niveau est la suivante ; le niveau actuel est valable jusqu'au 31 décembre 2026."
       ],
       "comparisonTable": {
         "headers": [
@@ -309,7 +209,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-oy-members.webp",
         "alt": "Graphique en barres des cinq niveaux d'OY MEMBERS, de BABY à GOLD, avec l'achat semestriel de chacun et le pourcentage rendu en points",
-        "caption": "Niveaux d'OY MEMBERS : achats du semestre, en US$, et points rendus, de 0,5 % à 2,5 %. Page des membres lue le 21 octobre 2026 ; le programme actuel court jusqu'au 31 décembre 2026.",
+        "caption": "Niveaux d'OY MEMBERS : achats du semestre, en US$, et points rendus, de 0,5 % à 2,5 %. Page des membres lue le 21 octobre 2026 ; le niveau actuel court jusqu'au 31 décembre 2026.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
