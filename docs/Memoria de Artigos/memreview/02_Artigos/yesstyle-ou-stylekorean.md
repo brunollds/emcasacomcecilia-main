@@ -6,15 +6,16 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "reforco-da-familia-yesstyle-vs-alternatives"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "conferir o frete da StyleKorean na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 64
 score_ponderado_total: 63
 data_criacao: "2026-10-21"
-publicado_em: null
+publicado_em: "2026-10-21"
+nota_publicacao: "Reforço da família `yesstyle-vs-alternatives` nos 10 idiomas no ar em 21/10/2026 ~19:05 UTC (PR #205, release `f5693d4`)."
 i18n_cluster: "yesstyle"
 translationKey: "yesstyle-vs-stylekorean"
 modo_i18n: "paridade-completa"

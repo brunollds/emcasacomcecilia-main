@@ -6,8 +6,8 @@ Ordem combinada: primeiro as duas da YesStyle e depois as do Bing, todas depois 
 
 | # | Pauta | Parceiro | Idiomas | Origem | Aprovação | Observação |
 |---|---|---|---|---|---|---|
-| 1 | YesStyle ou Olive Young — **pauta aprovada em 21/10/2026:** [[yesstyle-ou-olive-young]] (família própria) | YesStyle | 10 | Autocompletar e PAA da pauta `yesstyle-ou-stylevana` | Bruno, 12/10/2026 | A Olive Young Global não entrega no Brasil, na Espanha nem na Coreia: cada versão cobre só os mercados que a loja atende |
-| 2 | YesStyle ou StyleKorean — **pauta aprovada em 21/10/2026 como reforço:** [[yesstyle-ou-stylekorean]] (sem família própria, decisão do Bruno; duas seções na família `yesstyle-vs-alternatives`) | YesStyle | 10 | Idem | Bruno, 12/10/2026 | A StyleKorean não lista o Japão |
+| 1 | YesStyle ou Olive Young — **publicado em 21/10/2026:** [[yesstyle-ou-olive-young]] (família própria; PR #203 e #204, release `f5693d4`) | YesStyle | 10 | Autocompletar e PAA da pauta `yesstyle-ou-stylevana` | Bruno, 12/10/2026 | A Olive Young Global não entrega no Brasil, na Espanha nem na Coreia: cada versão cobre só os mercados que a loja atende |
+| 2 | YesStyle ou StyleKorean — **publicado em 21/10/2026 como reforço:** [[yesstyle-ou-stylekorean]] (PR #205, release `f5693d4`) (sem família própria, decisão do Bruno; duas seções na família `yesstyle-vs-alternatives`) | YesStyle | 10 | Idem | Bruno, 12/10/2026 | A StyleKorean não lista o Japão |
 | 3 | Sofá na Caixa ou Inflow: diferença e qual escolher — **briefing criado em 14/10/2026:** [[sofa-na-caixa-inflow-ou-damie]], com a DAMIE no título (Bruno, 14/10); **no ar em 14/10/2026** | DAMIE | PT | Bing, buscas de até 12/10/2026: "sofá na caixa inflow diferença marca empresa" (8 impressões, posição 3,1), "existe diferença dos produtos da sofa na caixa pra inflow?" (8; 5,0), "tem uma marca menos conhecida, parecida com sofa na caixa e inflow" (4; 1,25) | Bruno, 12/10/2026 | Nenhum artigo cita a Inflow. A DAMIE entra como alternativa parceira. Link interno para `sofa-na-caixa-crise-reclamacoes-procon-sp` |
 | 4 | Sofá na caixa ou sofá montado: qual dura mais — **briefing criado em 14/10/2026:** [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]]; **no ar em 14/10/2026** | DAMIE | PT | Copilot: "sofás armados en caja vs sofás ya armados calidad duración" (23 citações, 39,66% das citações) | Bruno, 12/10/2026 | Só em PT: a DAMIE só entrega no Brasil |
 | 6 | Preço por cápsula: Dolce Gusto × Nespresso × Delta Q × 3 Corações | Dolce Gusto | PT | Bing: "preço capsulas café nespresso vs deltaq vs dolce gusto", "compara os precos por capsula entre deltaq, nespresso e dolcegusto" | Bruno, 12/10/2026 | Não é artigo novo: atualiza o `quanto-custa-capsula-dolce-gusto` depois que ele for ao ar, para não concorrer com ele |
@@ -25,7 +25,7 @@ Todo parceiro novo começa com três artigos: "Loja X é confiável?", "Loja X n
 | 2 | Dr. Peanut (`DREMCASACOMCECILIA`) — **briefings criados em 14/10/2026:** [[dr-peanut-e-confiavel]], [[dr-peanut-reclame-aqui-nota-reputacao]] e [[cupom-dr-peanut-como-usar]] | é confiável?; Reclame Aqui; cupom: como usar | "dr peanut é bom / é saudável / é brasileira / é da max titanium"; "dr peanut cupom primeira compra" | O site bloqueia robôs: as telas vêm do Bruno |
 | 3 | Black Skull (`CECILIA10`) — **briefings criados em 14/10/2026:** [[black-skull-e-confiavel]], [[black-skull-reclame-aqui-nota-reputacao]] e [[cupom-black-skull-como-usar]] | é confiável?; Reclame Aqui; cupom: como usar | "black skull é boa / é confiável / é brasileira / é da integralmedica / é aprovado pela anvisa"; "black skull cupom primeira compra" | **Decisão do Bruno (14/10/2026): não entra.** O banimento de 19 manipulados pela Anvisa em fevereiro de 2025 (farmácia, não a linha regular) fica fora do artigo. O onboarding é só a apresentação básica da loja |
 | 4 | Lejour (sem código; só o nosso link de indicação) — **briefings criados em 14/10/2026:** [[lejour-e-confiavel]], [[lejour-reclame-aqui-nota-reputacao]], [[lejour-como-funciona]] e [[lista-de-casamento-lejour-como-criar]] | é confiável?; Reclame Aqui; o que é a Lejour e como funciona; como criar a lista de casamento na Lejour | "lejour é confiável", "lejour reclame aqui", "lejour como funciona", "lejour lista de casamento / de presentes" | 4 artigos (Bruno, 13/10). O "como usar" vira "como criar a lista", com o link de indicação. O "o que é" junta "como funciona", para os dois não concorrerem. Planos e taxas pela tabela do Bruno de 13/10 |
-| 5 | Mais Mu (`MMEMCASACOMCECILIA`, 10%) — **pautas aprovadas em 20/10/2026:** [[mais-mu-e-confiavel]], [[mais-mu-reclame-aqui-nota-reputacao]], [[cupom-mais-mu-como-usar]] e [[black-friday-mais-mu]] | é confiável?; Reclame Aqui; cupom: como usar; Black Friday | Autocompletar de 20/10/2026: "mais mu é bom / é confiável / é saudável / é vegano / é de onde"; "mais mu reclame aqui"; "cupom mais mu mercado livre / primeira compra"; "mais mu black friday" | Pedido do Bruno em 20/10/2026: 3 artigos e o guia de Black Friday, que entra no fim da lista de `home-events.json` (só em `/black-friday`). Reclame Aqui lido no navegador em 20/10: Regular (6,4) em 6 meses, Boa no geral (7,7), dito direto no "é confiável". Anvisa fora |
+| 5 | Mais Mu (`MMEMCASACOMCECILIA`, 10%) — **publicadas em 21/10/2026:** [[mais-mu-e-confiavel]], [[mais-mu-reclame-aqui-nota-reputacao]], [[cupom-mais-mu-como-usar]] e [[black-friday-mais-mu]] (PR #199, release `bdd85bb`) | é confiável?; Reclame Aqui; cupom: como usar; Black Friday | Autocompletar de 20/10/2026: "mais mu é bom / é confiável / é saudável / é vegano / é de onde"; "mais mu reclame aqui"; "cupom mais mu mercado livre / primeira compra"; "mais mu black friday" | Pedido do Bruno em 20/10/2026: 3 artigos e o guia de Black Friday, que entra no fim da lista de `home-events.json` (só em `/black-friday`). Reclame Aqui lido no navegador em 20/10: Regular (6,4) em 6 meses, Boa no geral (7,7), dito direto no "é confiável". Anvisa fora |
 
 ## Série 1 a 1 contra a Growth (Bruno, 18/10/2026)
 
@@ -43,9 +43,9 @@ A Dux Human Health (duxhumanhealth.com) é a base de comparação no lugar da Gr
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| 1 | Black Skull ou Dux | **Pauta aprovada em 20/10/2026:** [[black-skull-ou-dux]] |
-| 2 | Max Titanium ou Dux | **Pauta aprovada em 20/10/2026:** [[max-titanium-ou-dux]] (três pares de whey, creatina, multivitamínico e pré-treino) |
-| 3 | Probiótica ou Dux | **Pauta aprovada em 20/10/2026:** [[probiotica-ou-dux]] |
+| 1 | Black Skull ou Dux | **Publicado em 20/10/2026:** [[black-skull-ou-dux]] (PR #194, release `e758bb1`) |
+| 2 | Max Titanium ou Dux | **Publicado em 20/10/2026:** [[max-titanium-ou-dux]] (PR #196, release `e758bb1`) (três pares de whey, creatina, multivitamínico e pré-treino) |
+| 3 | Probiótica ou Dux | **Publicado em 20/10/2026:** [[probiotica-ou-dux]] (PR #196, release `e758bb1`) |
 
 ## Mais Mu contra a Growth e a Dux (Bruno, 20/10/2026)
 
@@ -53,8 +53,8 @@ O autocompletar de 20/10/2026 traz "mais mu ou growth" e "mais mu ou dux" com wh
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| 1 | Mais Mu ou Growth | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-growth]] |
-| 2 | Mais Mu ou Dux | **Pauta aprovada em 20/10/2026:** [[mais-mu-ou-dux]] |
+| 1 | Mais Mu ou Growth | **Publicado em 21/10/2026:** [[mais-mu-ou-growth]] (PR #201, release `c33b831`) |
+| 2 | Mais Mu ou Dux | **Publicado em 21/10/2026:** [[mais-mu-ou-dux]] (PR #201, release `c33b831`) |
 | 3 | Mais Mu, Black Skull, Probiótica ou Max Titanium: qual whey escolher (um artigo só com as quatro parceiras) | Proposta do Claude, aguarda o Bruno |
 
 ## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)

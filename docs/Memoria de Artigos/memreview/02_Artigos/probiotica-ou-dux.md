@@ -6,15 +6,16 @@ parceiro: "[[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar preços na última semana de outubro de 2026"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 58
 score_ponderado_total: 75
 data_criacao: "2026-10-20"
-publicado_em: null
+publicado_em: "2026-10-20"
+nota_publicacao: "No ar em 20/10/2026 23:03 UTC (PR #196, release `e758bb1`), id 527. Revisão de legibilidade (tabela no cartão, Resposta rápida curta, fotos dos parceiros) no ar em 21/10/2026 00:39 UTC (PR #197 e #198, release `02b941a`)."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

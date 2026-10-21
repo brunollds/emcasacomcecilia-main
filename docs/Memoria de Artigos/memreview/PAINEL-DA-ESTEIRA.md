@@ -6,17 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[black-skull-ou-dux]] — série contra a Dux; whey 80% HD refil × Concentrado 900 g, 100% HD 1,8 kg × Concentrado 1,8 kg, creatina (20/10/2026)
-- [ ] [[max-titanium-ou-dux]] — série contra a Dux; três pares de whey, creatina e Creapure, multivitamínico e pré-treino (20/10/2026)
-- [ ] [[probiotica-ou-dux]] — série contra a Dux; 100% Pure Whey 900 g (e refil) × Concentrado, creatina 300 g (20/10/2026)
-- [ ] [[mais-mu-e-confiavel]] — onboarding da Mais Mu; reputação recente direta, CNPJ desde 2014 (20/10/2026)
-- [ ] [[mais-mu-reclame-aqui-nota-reputacao]] — onboarding da Mais Mu; 6 meses, 12 meses e geral lidos no navegador (20/10/2026)
-- [ ] [[cupom-mais-mu-como-usar]] — onboarding da Mais Mu; MMEMCASACOMCECILIA, Pix, Mercado Livre (20/10/2026)
-- [ ] [[black-friday-mais-mu]] — guia sem prometer desconto da loja; fim da lista de `home-events.json` (20/10/2026)
-- [ ] [[mais-mu-ou-growth]] — comparativo de whey e creatina; Growth com preços de 18/10 (reler com liberação do Bruno) (20/10/2026)
-- [ ] [[mais-mu-ou-dux]] — comparativo de whey e creatina; Mais Mu mais barata por proteína, Dux com Creapure (20/10/2026)
-- [ ] [[yesstyle-ou-olive-young]] — família de 10 idiomas; lista de envio da Olive Young de 21/10 (Chrome), EUA pela OLIVE YOUNG US, ko curto (21/10/2026)
-- [ ] [[yesstyle-ou-stylekorean]] — não é artigo novo: reforço da família `yesstyle-vs-alternatives` (StyleKorean + correção dos países da Olive Young) (21/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -52,6 +42,17 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[yesstyle-ou-stylekorean]] — não é artigo novo: reforço da família `yesstyle-vs-alternatives` (StyleKorean + correção dos países da Olive Young) (No ar em 21/10/2026, PR #205, release `f5693d4`) 🚀
+- [x] [[yesstyle-ou-olive-young]] — família de 10 idiomas; lista de envio da Olive Young de 21/10 (Chrome), EUA pela OLIVE YOUNG US, ko curto (No ar em 21/10/2026, PR #203 e #204, release `f5693d4`) 🚀
+- [x] [[mais-mu-ou-dux]] — comparativo de whey e creatina; Mais Mu mais barata por proteína, Dux com Creapure (No ar em 21/10/2026, PR #201, release `c33b831`) 🚀
+- [x] [[mais-mu-ou-growth]] — comparativo de whey e creatina; preços relidos em 21/10, Growth no Chrome do Bruno (No ar em 21/10/2026, PR #201, release `c33b831`) 🚀
+- [x] [[black-friday-mais-mu]] — guia sem prometer desconto da loja; fim da lista de `home-events.json` (No ar em 21/10/2026, PR #199, release `bdd85bb`) 🚀
+- [x] [[cupom-mais-mu-como-usar]] — onboarding da Mais Mu; MMEMCASACOMCECILIA, Pix, Mercado Livre (No ar em 21/10/2026, PR #199, release `bdd85bb`) 🚀
+- [x] [[mais-mu-reclame-aqui-nota-reputacao]] — onboarding da Mais Mu; 6 meses, 12 meses e geral lidos no navegador (No ar em 21/10/2026, PR #199, release `bdd85bb`) 🚀
+- [x] [[mais-mu-e-confiavel]] — onboarding da Mais Mu; reputação recente direta, CNPJ desde 2014 (No ar em 21/10/2026, PR #199, release `bdd85bb`) 🚀
+- [x] [[probiotica-ou-dux]] — série contra a Dux; 100% Pure Whey 900 g (e refil) × Concentrado, creatina 300 g (No ar em 20/10/2026, PR #196, release `e758bb1`) 🚀
+- [x] [[max-titanium-ou-dux]] — série contra a Dux; três pares de whey, creatina e Creapure, multivitamínico e pré-treino (No ar em 20/10/2026, PR #196, release `e758bb1`) 🚀
+- [x] [[black-skull-ou-dux]] — série contra a Dux; whey 80% HD refil × Concentrado 900 g, 100% HD 1,8 kg × Concentrado 1,8 kg, creatina (No ar em 20/10/2026, PR #194, release `e758bb1`) 🚀
 - [x] [[cueca-insider-comfort-ou-performance]] — Insider, cueca Comfort, Performance, Seamless Touch ou Slip: qual escolher, preço por peça e kits com o cupom (Score Aut: 70 / Conv: 82); junto, corrigir os preços de cueca do `insider-vale-a-pena` e linkar este guia (No ar em 20/10/2026, PR #188, release `d240601`) 🚀
 - [x] [[undershirt-insider-qual-escolher-funciona]] — Insider, Undershirt Antissuor Leve, Moderado ou Block pelo nível de suor (Score Aut: 62 / Conv: 80) (No ar em 20/10/2026, PR #188, release `d240601`) 🚀
 - [x] [[presente-de-natal-insider-kits-gift-card]] — Insider, presente de Natal: Kits Presente por faixa de preço, gift card, sacola e troca de presente (Score Aut: 62 / Conv: 78) (No ar em 20/10/2026, PR #188, release `d240601`) 🚀
