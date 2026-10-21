@@ -23,7 +23,7 @@ prateleira de beleza de `/cupons`, junto da YesStyle.
 | O mínimo dos brindes conta o pedido depois dos descontos | condicao_comercial_volatil | skelt.com.br/politica-de-brindes | 2026-10-21 | 2026-11-21 | O cupom e o Pix podem tirar o brinde do carrinho. Em 21/10, o brinde era um Body Splash Mystic Bloom | Alta |
 | Frete grátis: 12 cidades sem mínimo; R$ 199 no Sul, Sudeste e Centro-Oeste; R$ 299 no Norte e Nordeste | condicao_comercial_volatil | skelt.com.br/politica-de-frete | 2026-10-21 | 2026-11-21 | Sobre o valor final do pedido. Cidades sem mínimo: São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú | Alta |
 | Link de afiliado: `https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz` | condicao_comercial_volatil | Bruno, 21/10/2026; `offerUrl` em `src/lib/couponsData.ts` | 2026-10-21 | 2026-11-21 | Vai exatamente como veio | Alta |
-| Sem link da marca no Mercado Livre | condicao_comercial_volatil | Bruno não enviou (21/10/2026) | 2026-10-21 | 2026-11-21 | A pergunta do Mercado Livre fica sem link até ele mandar | Média |
+| Link de afiliado da marca no Mercado Livre: `https://meli.la/2unTb7k` | condicao_comercial_volatil | Bruno, 21/10/2026; `mercadoLivreUrl` no FAQ | 2026-10-21 | 2026-11-21 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 
 Teste de carrinho em 2026-10-21, pela API pública do checkout da VTEX (sem dados pessoais e sem
 finalizar): Body Splash Solar Muse (R$ 99,90) e Mousse Autobronzeador (R$ 119,90), R$ 219,80 de

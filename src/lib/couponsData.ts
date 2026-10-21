@@ -1942,7 +1942,8 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom SKEMCASACOMCECILIA vale no Mercado Livre?',
         answer:
-          'Não. O SKEMCASACOMCECILIA é usado no checkout do site oficial da Skelt e não vale no Mercado Livre nem em outros marketplaces.',
+          'Não. O SKEMCASACOMCECILIA é usado no checkout do site oficial da Skelt e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2unTb7k',
       },
       {
         question: 'Onde coloco o cupom na Skelt?',
