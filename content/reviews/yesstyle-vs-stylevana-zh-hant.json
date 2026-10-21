@@ -227,6 +227,9 @@
           "label": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費",
           "href": "/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant"
         }
+      ],
+      "postParagraphs": [
+        "Olive Young 在台灣與香港的運費、稅費、退貨與會員制度，請看 [YesStyle 還是 Olive Young？](/zh-hant/reviews/yesstyle-vs-olive-young-zh-hant)。"
       ]
     },
     {
@@ -275,6 +278,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "我們可能會從 YesStyle 的購買獲得佣金。其他店家的規則取自各店官方頁面。",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-olive-young-zh-hant",
+      "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較"
+    },
     {
       "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
       "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"

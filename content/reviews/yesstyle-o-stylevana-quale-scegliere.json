@@ -227,6 +227,9 @@
           "label": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana",
           "href": "/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana"
         }
+      ],
+      "postParagraphs": [
+        "Per Olive Young paese per paese, con spedizione gratuita, imposte, resi e programma membri, vedi [YesStyle o Olive Young](/it/reviews/yesstyle-o-olive-young-quale-scegliere)."
       ]
     },
     {
@@ -275,6 +278,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "Possiamo ricevere una commissione da YesStyle. Regole degli altri negozi: dalle loro pagine.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-o-olive-young-quale-scegliere",
+      "title": "YesStyle o Olive Young: chi spedisce nel tuo paese, spedizione, imposte e resi"
+    },
     {
       "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
       "title": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana"

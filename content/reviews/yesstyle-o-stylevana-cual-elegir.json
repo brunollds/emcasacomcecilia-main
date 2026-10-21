@@ -282,6 +282,9 @@
           "label": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos",
           "href": "/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
         }
+      ],
+      "postParagraphs": [
+        "Para Olive Young país por país, con envío gratis, impuestos, devoluciones y el programa de socios, mira [YesStyle o Olive Young](/es/reviews/yesstyle-o-olive-young-cual-elegir)."
       ]
     },
     {
@@ -330,6 +333,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "Podemos recibir comisión por YesStyle. Las reglas de las otras tiendas vienen de sus webs.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-o-olive-young-cual-elegir",
+      "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones"
+    },
     {
       "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
       "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"

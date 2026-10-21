@@ -292,6 +292,9 @@
           "label": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto",
           "href": "/reviews/yesstyle-entrega-no-brasil-e-portugal"
         }
+      ],
+      "postParagraphs": [
+        "Para a Olive Young país a país, com frete grátis, imposto, devolução e o programa de membros, veja [YesStyle ou Olive Young](/reviews/yesstyle-ou-olive-young)."
       ]
     },
     {
@@ -347,6 +350,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "Podemos receber comissão pela YesStyle. As regras das outras lojas vêm das páginas delas.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-ou-olive-young",
+      "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+    },
     {
       "slug": "yesstyle-entrega-no-brasil-e-portugal",
       "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"

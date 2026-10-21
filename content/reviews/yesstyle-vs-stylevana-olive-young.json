@@ -245,6 +245,9 @@
           "label": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs",
           "href": "/en/reviews/yesstyle-shipping-us-uk-canada-australia"
         }
+      ],
+      "postParagraphs": [
+        "For Olive Young country by country, with free shipping, tax, returns and the membership program, see [YesStyle or Olive Young](/en/reviews/yesstyle-vs-olive-young)."
       ]
     },
     {
@@ -293,6 +296,10 @@
   "affiliate": "yesstyle",
   "editorialNote": "We may earn a commission from YesStyle. The other stores' rules come from their own pages.",
   "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-olive-young",
+      "title": "YesStyle or Olive Young: who ships to your country, shipping, tax and returns"
+    },
     {
       "slug": "yesstyle-shipping-us-uk-canada-australia",
       "title": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs"

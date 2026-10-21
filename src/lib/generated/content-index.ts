@@ -71864,6 +71864,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto",
             "href": "/reviews/yesstyle-entrega-no-brasil-e-portugal"
           }
+        ],
+        "postParagraphs": [
+          "Para a Olive Young país a país, com frete grátis, imposto, devolução e o programa de membros, veja [YesStyle ou Olive Young](/reviews/yesstyle-ou-olive-young)."
         ]
       },
       {
@@ -71919,6 +71922,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "Podemos receber comissão pela YesStyle. As regras das outras lojas vêm das páginas delas.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-ou-olive-young",
+        "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+      },
       {
         "slug": "yesstyle-entrega-no-brasil-e-portugal",
         "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
@@ -72181,6 +72188,9 @@ export const reviewsData: unknown[] = [
             "label": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs",
             "href": "/en/reviews/yesstyle-shipping-us-uk-canada-australia"
           }
+        ],
+        "postParagraphs": [
+          "For Olive Young country by country, with free shipping, tax, returns and the membership program, see [YesStyle or Olive Young](/en/reviews/yesstyle-vs-olive-young)."
         ]
       },
       {
@@ -72229,6 +72239,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "We may earn a commission from YesStyle. The other stores' rules come from their own pages.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-olive-young",
+        "title": "YesStyle or Olive Young: who ships to your country, shipping, tax and returns"
+      },
       {
         "slug": "yesstyle-shipping-us-uk-canada-australia",
         "title": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs"
@@ -72528,6 +72542,9 @@ export const reviewsData: unknown[] = [
             "label": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos",
             "href": "/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
           }
+        ],
+        "postParagraphs": [
+          "Para Olive Young país por país, con envío gratis, impuestos, devoluciones y el programa de socios, mira [YesStyle o Olive Young](/es/reviews/yesstyle-o-olive-young-cual-elegir)."
         ]
       },
       {
@@ -72576,6 +72593,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "Podemos recibir comisión por YesStyle. Las reglas de las otras tiendas vienen de sus webs.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-o-olive-young-cual-elegir",
+        "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones"
+      },
       {
         "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
         "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"
@@ -72833,6 +72854,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes",
             "href": "/fr/reviews/yesstyle-livraison-france-belgique-canada"
           }
+        ],
+        "postParagraphs": [
+          "Pour Olive Young pays par pays, avec la livraison gratuite, les taxes, les retours et le programme de membres, voyez [YesStyle ou Olive Young](/fr/reviews/yesstyle-ou-olive-young-que-choisir)."
         ]
       },
       {
@@ -72881,6 +72905,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "Commission possible sur YesStyle. Règles des autres boutiques tirées de leurs pages.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-ou-olive-young-que-choisir",
+        "title": "YesStyle ou Olive Young : qui livre dans votre pays, frais, taxes et retours"
+      },
       {
         "slug": "yesstyle-livraison-france-belgique-canada",
         "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes"
@@ -73136,6 +73164,9 @@ export const reviewsData: unknown[] = [
             "label": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll",
             "href": "/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz"
           }
+        ],
+        "postParagraphs": [
+          "Olive Young Land für Land, mit kostenlosem Versand, Steuern, Rückgabe und Mitgliederprogramm, finden Sie in [YesStyle oder Olive Young](/de/reviews/yesstyle-oder-olive-young-welcher-shop)."
         ]
       },
       {
@@ -73184,6 +73215,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "Wir können eine Provision von YesStyle erhalten. Regeln anderer Shops laut deren Seiten.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-oder-olive-young-welcher-shop",
+        "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe"
+      },
       {
         "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
         "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"
@@ -73428,6 +73463,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana",
             "href": "/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana"
           }
+        ],
+        "postParagraphs": [
+          "Per Olive Young paese per paese, con spedizione gratuita, imposte, resi e programma membri, vedi [YesStyle o Olive Young](/it/reviews/yesstyle-o-olive-young-quale-scegliere)."
         ]
       },
       {
@@ -73476,6 +73514,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "Possiamo ricevere una commissione da YesStyle. Regole degli altri negozi: dalle loro pagine.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-o-olive-young-quale-scegliere",
+        "title": "YesStyle o Olive Young: chi spedisce nel tuo paese, spedizione, imposte e resi"
+      },
       {
         "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
         "title": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana"
@@ -73647,6 +73689,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle 한국 배송: 배송 기간, 배송비, 관세",
             "href": "/ko/reviews/yesstyle-shipping-korea-ko"
           }
+        ],
+        "postParagraphs": [
+          "Olive Young Global의 한국 배송, 세금, 반품은 [YesStyle vs Olive Young Global](/ko/reviews/yesstyle-vs-olive-young-ko)에서 따로 정리했습니다."
         ]
       },
       {
@@ -73695,6 +73740,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "YesStyle에서 수수료를 받을 수 있습니다. 다른 쇼핑몰의 규정은 각 공식 페이지 기준입니다.",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-olive-young-ko",
+        "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교"
+      },
       {
         "slug": "yesstyle-shipping-korea-ko",
         "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
@@ -73867,6 +73916,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyleの日本への配送：日数・送料・関税",
             "href": "/ja/reviews/yesstyle-shipping-japan-ja"
           }
+        ],
+        "postParagraphs": [
+          "Olive Youngの送料無料の条件、税金、返品、メンバープログラムは[YesStyleとOlive Youngの比較](/ja/reviews/yesstyle-vs-olive-young-ja)で詳しく紹介しています。"
         ]
       },
       {
@@ -73914,6 +73966,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "YesStyleの購入でアフィリエイト報酬を受け取る場合があります。他店のルールは各店の公式ページによります。",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-olive-young-ja",
+        "title": "YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品"
+      },
       {
         "slug": "yesstyle-shipping-japan-ja",
         "title": "YesStyleの日本への配送：日数・送料・関税"
@@ -74158,6 +74214,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費",
             "href": "/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant"
           }
+        ],
+        "postParagraphs": [
+          "Olive Young 在台灣與香港的運費、稅費、退貨與會員制度，請看 [YesStyle 還是 Olive Young？](/zh-hant/reviews/yesstyle-vs-olive-young-zh-hant)。"
         ]
       },
       {
@@ -74206,6 +74265,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "我們可能會從 YesStyle 的購買獲得佣金。其他店家的規則取自各店官方頁面。",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hant",
+        "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較"
+      },
       {
         "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
         "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
@@ -74451,6 +74514,9 @@ export const reviewsData: unknown[] = [
             "label": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费",
             "href": "/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans"
           }
+        ],
+        "postParagraphs": [
+          "Olive Young 在新加坡与马来西亚的运费、税费、退货与会员制度，请看 [YesStyle 还是 Olive Young？](/zh-hans/reviews/yesstyle-vs-olive-young-zh-hans)。"
         ]
       },
       {
@@ -74499,6 +74565,10 @@ export const reviewsData: unknown[] = [
     "affiliate": "yesstyle",
     "editorialNote": "我们可能会从 YesStyle 的购买获得佣金。其他店家的规则取自各店官方页面。",
     "relatedArticles": [
+      {
+        "slug": "yesstyle-vs-olive-young-zh-hans",
+        "title": "YesStyle 还是 Olive Young？新加坡与马来西亚的运送、运费、税费与退货比较"
+      },
       {
         "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
         "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"
