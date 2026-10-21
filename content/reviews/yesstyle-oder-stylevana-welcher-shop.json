@@ -32,7 +32,7 @@
     {
       "heading": "Kurz gesagt",
       "paragraphs": [
-        "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht nur Deutschland in der Versandtabelle. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand.",
+        "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht in der Versandtabelle nur Deutschland mit einer Lieferzeit; Österreich und die Schweiz stehen in der Länderauswahl der Website, ohne Lieferzeit. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand.",
         "Dieser Artikel vergleicht keine Preise und testet die anderen Shops nicht. Die Tabellen fassen zusammen, was jeder Shop auf seinen offiziellen Seiten veröffentlicht. Stand der Seiten: 12.10.2026."
       ]
     },
@@ -62,8 +62,8 @@
           [
             "Olive Young Global",
             "4–5 Tage; kostenlos ab US$ 60",
-            "nicht in der Versandtabelle des Shops",
-            "nicht in der Versandtabelle des Shops"
+            "keine Lieferzeit in der Versandtabelle; kostenlos ab US$ 60, sonst US$ 25 Versandkosten",
+            "keine Lieferzeit in der Versandtabelle; kostenlos ab US$ 60, sonst US$ 25 Versandkosten"
           ],
           [
             "StyleKorean",
@@ -81,7 +81,8 @@
       },
       "postParagraphs": [
         "Die Versandseite von Olive Young Global nennt außerdem „andere Regionen“, ohne sie aufzuzählen. Die vollständige Liste steht in der Länderauswahl der Website.",
-        "StyleKorean übergibt die Bestellung innerhalb von 5 Werktagen an den Zustelldienst und nennt keine Lieferzeit pro Land. Jolse veröffentlicht ebenfalls keine Lieferzeit pro Land."
+        "StyleKorean übergibt die Bestellung innerhalb von 5 Werktagen an den Zustelldienst und nennt keine Lieferzeit pro Land. Jolse veröffentlicht ebenfalls keine Lieferzeit pro Land.",
+        "Olive Young Global liefert laut Länderauswahl der Website nach Österreich und in die Schweiz (gelesen am 21.10.2026). Die Versandtabelle hat für diese beiden Länder keine Zeile, daher gilt die allgemeine Regel aus den FAQ des Shops: kostenloser Versand ab US$ 60, sonst US$ 25 Versandkosten."
       ]
     },
     {
@@ -106,13 +107,13 @@
           ],
           [
             "Olive Young Global",
-            "Preis und Versand enthalten keine Steuer; in der EU wird sie beim Kauf erhoben",
+            "in der EU: seit Bestellungen vom 31.07.2026 werden MwSt. und 3 € je Zollkategorie im Checkout berechnet, und der Shop sagt, bei der Lieferung falle nichts weiter an; in der Schweiz enthalten Preis und Versand keine Steuer",
             "In der EU erstattet der Shop weder Zollgebühren noch Mehrwertsteuer noch Einfuhrabgaben"
           ],
           [
             "StyleKorean",
             "Die Zollabgaben trägt der Kunde",
-            "nicht veröffentlicht"
+            "nicht veröffentlicht; verweigert der Kunde die Steuer, geht das Paket zurück oder wird entsorgt, ohne Erstattung"
           ],
           [
             "Jolse",
@@ -177,6 +178,37 @@
       }
     },
     {
+      "heading": "StyleKorean: kostenloser Versand nach Land und Bestellobergrenze",
+      "paragraphs": [
+        "Alle Bestellungen der StyleKorean werden aus einem Lager in Korea verschickt und innerhalb von 5 Werktagen an den Zustelldienst übergeben. Die Versandkosten richten sich nach dem Gewicht und sind nicht im Produktpreis enthalten. Gratisversand gilt nur für Beauty-Produkte; Alben und K-Pop-Produkte sind ausgenommen (Versandseite, gelesen am 21.10.2026).",
+        "Eine Bestellung hat eine Obergrenze von US$ 500 ohne Versandkosten; darüber verlangt der Shop, die Bestellung auf zwei Bestellungen aufzuteilen. Postfächer und Militäradressen (APO, FPO und DPO) werden nicht beliefert."
+      ],
+      "comparisonTable": {
+        "caption": "Kostenloser Versand der StyleKorean für Deutschland, Österreich und die Schweiz, laut Versandseite vom 21.10.2026.",
+        "headers": [
+          "Kostenlos ab",
+          "Länder"
+        ],
+        "rows": [
+          [
+            "US$ 80",
+            "Deutschland, Schweiz"
+          ],
+          [
+            "US$ 90",
+            "Österreich"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Rückgabe und Punkte bei StyleKorean",
+      "paragraphs": [
+        "StyleKorean nimmt versiegelte, unbenutzte Ware ohne Gebrauchsspuren zurück, die ins Lager in Korea zurückgeht. Die Anfrage muss innerhalb von 14 Werktagen nach Erhalt der Bestellung gestellt werden. Eine Rückgabe wegen Allergie oder Hautreaktion gibt es nicht.",
+        "Die Erstattung erfolgt als Punkte des Shops, die sechs Monate gelten, oder auf die Zahlungsart, 2 bis 14 Werktage nach Bearbeitung. Die Versandkosten werden abgezogen; ist das Konto danach negativ, zahlt der Kunde den Unterschied. Beschädigte oder fehlende Ware wird mit Fotos, Beleg und Foto des Kartons gemeldet; der Shop schickt keinen Ersatz (Rückgabeseite, gelesen am 21.10.2026)."
+      ]
+    },
+    {
       "heading": "Was jeder Shop zur Echtheit sagt",
       "paragraphs": [
         "Jeder Shop sagt Folgendes; das sind Aussagen der Shops selbst, ohne unabhängige Prüfung."
@@ -184,7 +216,8 @@
       "bullets": [
         "**YesStyle:** sagt, alle Produkte seien echt und das Unternehmen sei autorisierter Vertriebspartner von mehr als 400 koreanischen Marken. Wer YesStyle betreibt und worauf Sie vor dem Kauf achten sollten, steht im Ratgeber zur Seriosität.",
         "**Stylevana:** sagt, jedes Produkt, das der Shop verkauft, sei authentisch und original und stamme von Lieferanten mit gutem Ruf und von autorisierten Distributoren.",
-        "**Olive Young Global:** sagt, sie verkaufe dieselben authentischen Produkte wie ihre Läden in Korea, wo sie mehr als 1.400 Filialen hat."
+        "**Olive Young Global:** sagt, sie verkaufe dieselben authentischen Produkte wie ihre Läden in Korea, wo sie mehr als 1.400 Filialen hat.",
+        "**StyleKorean:** sagt, alle Produkte seien echt und stammten von der Marke oder von vertrauenswürdigen Lieferanten in Korea."
       ],
       "links": [
         {
@@ -231,9 +264,11 @@
         "Was ist besser, YesStyle oder Stylevana? Das hängt vom Land ab. Für Deutschland nennt Stylevana 7–11 Werktage und kostenlosen Versand ab 48 €, YesStyle 10–15 Werktage und ab US$ 45. Für Österreich nennt Stylevana 6–10 Werktage und ab 79 €, für die Schweiz 5–7 Werktage und ab 75 €. YesStyle nennt in beiden Ländern 10–15 Werktage und ab US$ 45.",
         "Ist YesStyle dasselbe wie SHEIN? Nein: YesStyle steht nicht auf der Markenliste der SHEIN Group und gibt an, zu YesAsia Holdings in Hongkong zu gehören.",
         "Liefert Stylevana nach Deutschland, Österreich und in die Schweiz? Ja. Stylevana nennt für Deutschland 7–11 Werktage, für Österreich 6–10 und für die Schweiz 5–7, mit kostenlosem Versand ab 48 €, 79 € und 75 €.",
-        "Liefert Olive Young nach Österreich und in die Schweiz? Beide Länder stehen nicht in der Versandtabelle von Olive Young Global. Die Versandseite nennt aber auch „andere Regionen“, ohne sie aufzuzählen; die vollständige Liste steht in der Länderauswahl der Website. Für Deutschland nennt die Tabelle 4–5 Tage und kostenlosen Versand ab US$ 60.",
-        "Welcher Shop hat den niedrigsten Mindestbestellwert für kostenlosen Versand? Die Shops geben den Betrag in verschiedenen Währungen an, deshalb bringen wir sie nicht in eine Reihenfolge. Deutschland: YesStyle ab US$ 45, Stylevana ab 48 €, Olive Young Global ab US$ 60, StyleKorean ab US$ 80, Jolse über US$ 50 (nur mit MwSt. im Preis). Österreich: YesStyle ab US$ 45, Stylevana ab 79 €, StyleKorean ab US$ 90, Jolse über US$ 43 ohne Steuer oder über US$ 60 mit MwSt. im Preis. Schweiz: YesStyle ab US$ 45, Stylevana ab 75 €, StyleKorean ab US$ 80, Jolse über US$ 43.",
-        "Wer zahlt die Steuern? Das hängt vom Shop ab. Bei YesStyle steckt die Steuer in Deutschland, Österreich und der Schweiz schon im Preis. Steuern, die bei der Lieferung erhoben werden, erstattet der Shop bei Bestellungen unter US$ 1.000 als Guthaben, nicht aber die im Checkout schon gezahlte Steuer. Bei Jolse ist die Steuer in Deutschland enthalten, in Österreich optional und in der Schweiz nicht; was dort erhoben wird, zahlt der Käufer. Bei Olive Young Global wird die Steuer in der EU beim Kauf erhoben, bei StyleKorean trägt der Kunde die Zollabgaben, und Stylevana nennt für Deutschland nicht, wer sie zahlt.",
+        "Liefert StyleKorean nach Deutschland, Österreich und in die Schweiz? Ja, laut der Versandseite vom 21.10.2026: kostenloser Versand ab US$ 80 in Deutschland und der Schweiz und ab US$ 90 in Österreich.",
+        "Welche Bestellobergrenze gilt bei StyleKorean? US$ 500 pro Bestellung ohne Versandkosten; darüber verlangt der Shop, in zwei Bestellungen aufzuteilen.",
+        "Liefert Olive Young nach Österreich und in die Schweiz? Ja, laut der Länderauswahl der Website (gelesen am 21.10.2026). Die Versandtabelle nennt beide Länder nicht und gibt deshalb keine Lieferzeit an; es gilt die allgemeine Regel des Shops: kostenloser Versand ab US$ 60, sonst US$ 25 Versandkosten. Für Deutschland nennt die Tabelle 4–5 Tage und kostenlosen Versand ab US$ 60.",
+        "Welcher Shop hat den niedrigsten Mindestbestellwert für kostenlosen Versand? Die Shops geben den Betrag in verschiedenen Währungen an, deshalb bringen wir sie nicht in eine Reihenfolge. Deutschland: YesStyle ab US$ 45, Stylevana ab 48 €, Olive Young Global ab US$ 60, StyleKorean ab US$ 80, Jolse über US$ 50 (nur mit MwSt. im Preis). Österreich: YesStyle ab US$ 45, Stylevana ab 79 €, Olive Young Global ab US$ 60 (allgemeine Regel), StyleKorean ab US$ 90, Jolse über US$ 43 ohne Steuer oder über US$ 60 mit MwSt. im Preis. Schweiz: YesStyle ab US$ 45, Stylevana ab 75 €, Olive Young Global ab US$ 60 (allgemeine Regel), StyleKorean ab US$ 80, Jolse über US$ 43.",
+        "Wer zahlt die Steuern? Das hängt vom Shop ab. Bei YesStyle steckt die Steuer in Deutschland, Österreich und der Schweiz schon im Preis. Steuern, die bei der Lieferung erhoben werden, erstattet der Shop bei Bestellungen unter US$ 1.000 als Guthaben, nicht aber die im Checkout schon gezahlte Steuer. Bei Jolse ist die Steuer in Deutschland enthalten, in Österreich optional und in der Schweiz nicht; was dort erhoben wird, zahlt der Käufer. Bei Olive Young Global werden in der EU seit Bestellungen vom 31.07.2026 MwSt. und 3 € je Zollkategorie im Checkout berechnet; laut Shop fällt bei der Lieferung nichts weiter an, bei StyleKorean trägt der Kunde die Zollabgaben, und Stylevana nennt für Deutschland nicht, wer sie zahlt.",
         "Kann ich ein geöffnetes Beauty-Produkt zurückgeben? Bei Nichtgefallen nicht, in keinem der fünf Shops. Stylevana nimmt Ware bei Nichtgefallen nur zurück, wenn das Produkt neu, versiegelt und unbenutzt ist.",
         "Welcher Shop liefert am schnellsten? Die Shops veröffentlichen die Dauer des Versands, nicht die Gesamtzeit: Die Zeit, bis der Artikel das Lager verlässt, kommt noch dazu. Für Deutschland nennt Stylevana 7–11 Werktage, Olive Young Global 4–5 Tage und YesStyle 10–15 Werktage; für Österreich Stylevana 6–10 und für die Schweiz 5–7 Werktage, YesStyle jeweils 10–15. StyleKorean übergibt die Bestellung innerhalb von 5 Werktagen an den Zustelldienst, und Jolse veröffentlicht keine Lieferzeit pro Land.",
         "Welcher Shop ist günstiger? Dieser Artikel vergleicht keine Preise. Vergleichen Sie im Checkout jedes Shops die Gesamtsumme mit Versand und Steuern.",
@@ -263,5 +298,6 @@
       "slug": "yesstyle-reward-code-rabatt-cecilia010",
       "title": "YesStyle CECILIA010: Reward Code nutzen"
     }
-  ]
+  ],
+  "updatedAt": "2026-10-21"
 }
