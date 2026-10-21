@@ -6,15 +6,16 @@ parceiro: "[[Mais-Mu]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar preços na última semana de outubro de 2026"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 72
 score_ponderado_total: 75
 data_criacao: "2026-10-20"
-publicado_em: null
+publicado_em: "2026-10-21"
+nota_publicacao: "No ar em 21/10/2026 04:35 UTC (PR #201, release `c33b831`, build `01a15cb8-d919-734a-b045-2d6702c9ec1d`), id 533; preços relidos em 21/10 (Growth no Chrome do Bruno); probe 39544702160."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"

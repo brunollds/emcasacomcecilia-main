@@ -6,21 +6,22 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "conferir a lista de envio, o frete e o imposto da Olive Young na revisão mensal de novembro de 2026"
 bloqueado_por: null
-publicado_em: null
+publicado_em: "2026-10-21"
+nota_publicacao: "No ar em 21/10/2026 ~19:05 UTC (PR #203 e #204, release `f5693d4`, build `01a15fd3-34b3-70eb-b3e7-cbb9c96184c9`), ids 534–543; 5 imagens próprias no CDN; tabela só com os países de cada idioma; Canadá e Israel com imposto na entrega (página de envio relida no Chrome em 21/10); link da família `yesstyle-vs-alternatives` no PR #206; probe 39657884371."
 score_autoridade: 70
 score_conversao: 60
 score_ponderado_total: 71
 data_criacao: "2026-10-21"
 i18n_cluster: "yesstyle"
-translationKey: "yesstyle-vs-olive-young" # proposto; a família nova não reusa "yesstyle-vs-alternatives"
+translationKey: "yesstyle-vs-olive-young"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "nao-aplicavel"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: YesStyle ou Olive Young

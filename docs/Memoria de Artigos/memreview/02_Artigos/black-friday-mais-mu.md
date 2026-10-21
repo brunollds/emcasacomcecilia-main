@@ -6,9 +6,9 @@ parceiro: "[[Mais-Mu]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reconferir preços e campanha de Black Friday em 01–03/11/2026"
 bloqueado_por: null
 score_autoridade: 45
 score_conversao: 70
@@ -20,7 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
+publicado_em: "2026-10-21"
+nota_publicacao: "No ar em 21/10/2026 01:39 UTC (PR #199, release `bdd85bb`, build `01a15c1a-0e7b-734d-8735-869b07dde15c`), id 531; fotos oficiais da Mais Mu e prints do checkout no CDN."
 ---
 
 # Briefing de Pauta: Black Friday Mais Mu 2026

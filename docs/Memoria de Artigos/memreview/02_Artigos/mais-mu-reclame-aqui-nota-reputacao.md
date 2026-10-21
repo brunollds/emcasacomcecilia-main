@@ -6,15 +6,16 @@ parceiro: "[[Mais-Mu]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "revisar na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 68
 score_ponderado_total: 80
 data_criacao: "2026-10-20"
-publicado_em: null
+publicado_em: "2026-10-21"
+nota_publicacao: "No ar em 21/10/2026 01:39 UTC (PR #199, release `bdd85bb`, build `01a15c1a-0e7b-734d-8735-869b07dde15c`), id 529; fotos oficiais da Mais Mu e prints do checkout no CDN."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
