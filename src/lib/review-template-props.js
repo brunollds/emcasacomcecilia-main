@@ -120,7 +120,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     url: reviewUrl,
     mainEntityOfPage: reviewUrl,
     datePublished: review.publishedAtISO || review.publishedAt,
-    ...(review.updatedAt ? { dateModified: review.updatedAt } : {}),
+    dateModified: review.updatedAt || review.publishedAtISO || review.publishedAt,
     author: buildSchemaAuthors(review.authors, review.author),
     publisher: {
       '@type': 'Organization',
