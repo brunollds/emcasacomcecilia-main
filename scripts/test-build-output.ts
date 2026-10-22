@@ -110,6 +110,11 @@ const headOf = (html: string) => html.match(/<head>([\s\S]*?)<\/head>/)?.[1] ?? 
 // O <body> sem scripts e sem os comentários que o React põe entre expressões de texto.
 const bodyOf = (html: string) =>
   (html.match(/<body[^>]*>([\s\S]*)<\/body>/)?.[1] ?? '').replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').replace(/<!--[\s\S]*?-->/g, '');
+// O robots padrão do layout libera a imagem grande (Google Discover); as páginas noindex declaram o próprio robots.
+function assertDiscoverHead(pagePath: string, head: string) {
+  const robots = head.match(/<meta name="robots" content="([^"]*)"/)?.[1] ?? '';
+  assert.ok(robots.includes('max-image-preview:large'), `${pagePath}: robots sem max-image-preview:large (${robots})`);
+}
 const jsonLdOf = (html: string) =>
   [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
 
@@ -1314,6 +1319,7 @@ const articleUrls = sitemapUrls.filter(
 );
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
+let discoverArticles = 0;
 let notedArticles = 0;
 let faqArticles = 0;
 let cutoutArticles = 0;
@@ -1559,6 +1565,13 @@ for (const url of articleUrls) {
   );
   if (visibleFaq.length) faqArticles++;
 
+  // Discover: o robots libera a imagem grande e o schema do artigo sempre diz quando foi modificado.
+  assertDiscoverHead(pagePath, headOf(html));
+  const articleSchema = jsonLdOf(html).find((schema) => schema['@type'] === 'Article' || schema['@type'] === 'Review');
+  assert.match(String(articleSchema?.dateModified ?? ''), /^\d{4}-\d{2}-\d{2}/, `${pagePath}: Article/Review sem dateModified em ISO`);
+  assert.ok(headOf(html).includes('<meta property="article:modified_time"'), `${pagePath}: <head> sem article:modified_time`);
+  discoverArticles++;
+
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
     const family = familyPaths.get(review.translationKey) ?? {};
@@ -1723,6 +1736,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const html = read(file);
   const content = getLocaleHomeContent(locale, publishedReviews);
   assertLocalizedHead(pagePath, headOf(html), homeAlternates, LOCALES[locale].openGraphLocale);
+  assertDiscoverHead(pagePath, headOf(html));
   // A imagem de compartilhamento é a foto da Cecília, no og:image, no cartão do X e no Person.
   assertShareImage(pagePath, headOf(html), { url: content.hero.photoUrl, alt: content.hero.photo.alt });
 
@@ -2334,6 +2348,14 @@ assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /cat
 const categoriasFile = builtFile(`${SITE_URL}/categorias`);
 assert.ok(categoriasFile, '/categorias: página não gerada no build');
 assert.ok(headOf(read(categoriasFile)).includes('<meta name="robots" content="noindex, follow"/>'), '/categorias: sem robots noindex, follow no <head>');
+assert.ok(!headOf(read(categoriasFile)).includes('<meta name="googlebot"'), '/categorias: googlebot do layout vazou para a página noindex');
+
+// As páginas indexáveis de cada família também levam o robots que libera a imagem grande no Discover.
+for (const pagePath of ['/', '/reviews', '/receitas/pao-naan-indiano-caseiro', '/cupons/damie']) {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  assertDiscoverHead(pagePath, headOf(read(file)));
+}
 
 // A home (D2) como o build a gerou, contra os mesmos dados que a montam: a vitrine, o "Acabou de
 // sair", a data comercial e as seções de baixo. As ofertas (no card do Dicas & Ofertas) e os vídeos
@@ -3373,6 +3395,9 @@ if (homeVideos) assertHomeVideoLinks(homeVideos);
     ['busca', 'placeholder="Buscar receitas e artigos"'],
   ];
   for (const [label, needle] of expected) assert.ok(notFoundHtml.includes(needle), `404: sem ${label}`);
+  const notFoundHead = headOf(notFoundHtml);
+  assert.ok(!notFoundHead.includes('max-image-preview'), '404: robots do layout vazou para a página noindex');
+  assert.ok(!notFoundHead.includes('<meta name="googlebot"'), '404: googlebot do layout vazou para a página noindex');
   for (const locale of LOCALE_KEYS.filter((key) => key !== 'pt')) {
     assert.ok(notFoundHtml.includes(`<li lang="${LOCALES[locale].htmlLang}"`), `404: sem a linha do idioma ${locale}`);
   }
@@ -3565,5 +3590,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

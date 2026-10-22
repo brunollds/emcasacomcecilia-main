@@ -183,7 +183,7 @@ export function buildRecipeTemplateProps(recipe) {
       url: `${baseUrl}/receitas/${recipe.slug}#step-${index + 1}`,
     })),
     ...(recipe.publishedAt && { datePublished: recipe.publishedAt }),
-    ...(recipe.updatedAt && { dateModified: recipe.updatedAt }),
+    ...((recipe.updatedAt || recipe.publishedAt) && { dateModified: recipe.updatedAt || recipe.publishedAt }),
     ...(recipe.rating && {
       aggregateRating: {
         '@type': 'AggregateRating',

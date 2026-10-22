@@ -65,7 +65,7 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
       type: 'article',
       locale: LOCALES[resolveReviewLocale(review.locale)].openGraphLocale,
       publishedTime: review.publishedAtISO,
-      modifiedTime: review.updatedAt,
+      modifiedTime: review.updatedAt || review.publishedAtISO,
       authors: review.authors?.map((author) => author.name),
       images: socialImage,
     },
