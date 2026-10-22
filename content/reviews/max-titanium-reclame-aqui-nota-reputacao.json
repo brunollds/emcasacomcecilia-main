@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
+  "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa-discover.webp",
+  "imageAlt": "100% Whey e Top Whey 3W da Max Titanium e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,8",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Boa no Reclame Aqui nas três janelas: nota 7,6 em 6 meses, 7,2 em 12 meses e 7,6 em 2025",
     "97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12",
@@ -190,7 +189,14 @@
         "Responde quase todas: em 14/10/2026, 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
         "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 82,6% das reclamações, e 62,3% de quem avaliou voltaria a fazer negócio. Em outras palavras, perto de 4 em cada 10 consumidores que avaliaram não voltariam.",
         "Só 207 das 446 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor (6,32) falam de uma parte delas. Esses números mostram como a Max Titanium foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+        "alt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
+        "caption": "As abas de 6 meses, 12 meses e 2025 da Max Titanium no Reclame Aqui, todas com reputação Boa, consultadas em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Se o seu pedido der problema: o que fazer",

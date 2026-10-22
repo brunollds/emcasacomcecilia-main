@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
+  "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Whey 80% HD e Whey 100% HD da Black Skull e o topo do perfil BLACKSKULL USA no Reclame Aqui em 22/10/2026: reputação Regular e Empresa Verificada",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "100% das reclamações respondidas nos últimos 6 meses, sem nenhuma aguardando resposta",
     "Reputação Boa, nota 7,1, na aba de 12 meses",
@@ -163,7 +162,14 @@
         "A diferença mais clara entre as abas é a solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
         "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas nos últimos 6 meses. Responder a todas não significa resolver todas.",
         "O que isso quer dizer para você: Regular, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+        "alt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
+        "caption": "O perfil BLACKSKULL USA no Reclame Aqui, com o quadro de desempenho dos últimos 6 meses, consultado em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O que mais aparece nas reclamações da Black Skull",

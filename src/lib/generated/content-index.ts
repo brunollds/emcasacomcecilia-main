@@ -74852,11 +74852,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
+    "image": "/images/reviews/probiotica/probiotica-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Embalagens do 100% Pure Whey da Probiótica e o topo do perfil Probiótica Laboratórios no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,7",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
       "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
@@ -75015,7 +75014,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Responde quase todas: em 14/10/2026, 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
           "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+          "alt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
+          "caption": "O topo do perfil da Probiótica no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Se o seu pedido der problema: o que fazer",
@@ -75545,11 +75551,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+    "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Potes de pasta de amendoim da Dr. Peanut em vários sabores e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,6",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Ótima (nota 8,1) nos últimos 12 meses",
       "95,6% das reclamações respondidas nos últimos 6 meses",
@@ -75688,7 +75693,14 @@ export const reviewsData: unknown[] = [
           "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
           "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro de 2026, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro de 2026, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
           "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+          "alt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+          "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O que mais aparece nas reclamações da Dr. Peanut",
@@ -76293,11 +76305,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
+    "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Whey 80% HD e Whey 100% HD da Black Skull e o topo do perfil BLACKSKULL USA no Reclame Aqui em 22/10/2026: reputação Regular e Empresa Verificada",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "100% das reclamações respondidas nos últimos 6 meses, sem nenhuma aguardando resposta",
       "Reputação Boa, nota 7,1, na aba de 12 meses",
@@ -76437,7 +76448,14 @@ export const reviewsData: unknown[] = [
           "A diferença mais clara entre as abas é a solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
           "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas nos últimos 6 meses. Responder a todas não significa resolver todas.",
           "O que isso quer dizer para você: Regular, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+          "alt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
+          "caption": "O perfil BLACKSKULL USA no Reclame Aqui, com o quadro de desempenho dos últimos 6 meses, consultado em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O que mais aparece nas reclamações da Black Skull",
@@ -77021,11 +77039,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
+    "image": "/images/reviews/lejour/lejour-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Logo da Lejour sobre fundo coral e o topo do perfil da Lejour no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 5,0",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Ótima nos últimos 12 meses, com nota 9,5 de 10",
       "100% das reclamações respondidas nas abas de 6 meses, 12 meses e 2025",
@@ -77068,6 +77085,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas em 14/10/2026: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
         ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+          "alt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
+          "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses, consultados em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "postParagraphs": [
           "O \"--\" aparece no próprio Reclame Aqui, nas abas de 6 meses e de 2025. Só a aba de 12 meses traz esses números.",
           "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."
@@ -78680,11 +78704,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
+    "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa-discover.webp",
+    "imageAlt": "100% Whey e Top Whey 3W da Max Titanium e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,8",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Boa no Reclame Aqui nas três janelas: nota 7,6 em 6 meses, 7,2 em 12 meses e 7,6 em 2025",
       "97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12",
@@ -78851,7 +78874,14 @@ export const reviewsData: unknown[] = [
           "Responde quase todas: em 14/10/2026, 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
           "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 82,6% das reclamações, e 62,3% de quem avaliou voltaria a fazer negócio. Em outras palavras, perto de 4 em cada 10 consumidores que avaliaram não voltariam.",
           "Só 207 das 446 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor (6,32) falam de uma parte delas. Esses números mostram como a Max Titanium foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
+          "alt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
+          "caption": "As abas de 6 meses, 12 meses e 2025 da Max Titanium no Reclame Aqui, todas com reputação Boa, consultadas em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Se o seu pedido der problema: o que fazer",
@@ -79418,11 +79448,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
+    "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Três bodies da Cléa Store vestidos por modelos e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa, Empresa Verificada e avaliações de compra 4,8",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12",
       "Selo de Empresa Verificada no Reclame Aqui",
@@ -79563,6 +79592,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Duas notas aparecem no perfil, e não são a mesma coisa:"
         ],
+        "image": {
+          "src": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+          "alt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
+          "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui, consultados em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Nota de reputação (7,1 e 7,5):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
           "**Avaliações de compra (4,8 em 5):** avaliação de quem comprou, mostrada no topo do perfil."
@@ -84507,11 +84543,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
-    "imageAlt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+    "image": "/images/reviews/belive/belive-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Brownies sem açúcar da Belive em oito sabores e o topo do perfil Belive Be Free no Reclame Aqui em 22/10/2026, com a reputação Ótima",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1",
       "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
@@ -84657,7 +84692,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O perfil diz que a Belive respondeu todas as reclamações nas três janelas. Para quem comprou, o que pesa é a resolução, e o perfil não diz o que aconteceu com as reclamações que não foram resolvidas.",
           "No site, o atendimento é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
+          "alt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+          "caption": "O topo do perfil da Belive no Reclame Aqui e a aba de 6 meses, com nota 8,1, consultados em 16/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Se o seu pedido der problema: o que fazer",
@@ -104106,8 +104148,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
-    "imageAlt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+    "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Regular e avaliações de compra 4,7",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -104260,7 +104302,14 @@ export const reviewsData: unknown[] = [
           "A loja responde quase todas: 95,5% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, nenhuma reclamação estava aguardando resposta.",
           "Responder não é o mesmo que resolver. Nos 6 meses, 67,9% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 47,2% disseram que voltariam a comprar.",
           "A nota média do consumidor nos 6 meses foi 5,19, e só 53 das 112 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+          "alt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+          "caption": "O perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 e 67,9% das reclamações resolvidas.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O que fazer se o pedido der problema",
@@ -119543,8 +119592,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
-    "imageAlt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas, resoluções e quem voltaria a comprar",
+    "image": "/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Mousse autobronzeador da Skelt sobre fundo amarelo e o topo do perfil Skelt Cosméticos no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 4,6",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -119670,7 +119719,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O histórico dos últimos 6 meses mostra a Skelt na RA1000 em abril de 2026 e na Ótima de maio a setembro. A troca de faixa aconteceu com a nota quase igual: 8,4 na aba de 12 meses (RA1000) e 8,3 na de 6 meses (Ótima).",
           "A aba de 12 meses continua em RA1000 e cobre também outubro de 2025 a março de 2026, período que esta leitura não detalha mês a mês. A leitura não traz o motivo da troca de faixa, e este texto não atribui causa."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+          "alt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas, resoluções e quem voltaria a comprar",
+          "caption": "A reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O que mais aparece nas reclamações",
