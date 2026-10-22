@@ -6,11 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[bagaggio-e-confiavel]]: CNPJ do site, trocas, reembolso, retirada em loja e site oficial (PT) (briefing aprovado em 22/10/2026)
-- [ ] [[bagaggio-reclame-aqui-nota-reputacao]]: Loja Virtual Boa 7,7 em 6 meses e Ruim 5,8 em 12 meses, histórico e principais problemas (PT) (briefing aprovado em 22/10/2026)
-- [ ] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (briefing aprovado em 22/10/2026)
-- [ ] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (briefing aprovado em 22/10/2026)
-- [ ] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (briefing aprovado em 22/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -46,6 +42,11 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[bagaggio-reclame-aqui-nota-reputacao]]: Loja Virtual Boa 7,7 em 6 meses e Ruim 5,8 em 12 meses, histórico e principais problemas (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[bagaggio-e-confiavel]]: CNPJ do site, trocas, reembolso, retirada em loja e site oficial (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[black-friday-skelt]]: guia sem prometer desconto; aquecimento em 05/11; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #214 e #215, release `71e5c0d`) 🚀
 - [x] [[cupom-skelt-como-usar]]: cupom testado na sacola, soma com o Pix, um por pedido e o brinde (PT) (no ar em 22/10/2026, PR #214 e #215, release `71e5c0d`) 🚀
 - [x] [[skelt-reclame-aqui-nota-reputacao]]: Ótima 8,3 em 6 meses, RA1000 em 12 meses e principais problemas (PT) (no ar em 22/10/2026, PR #214 e #215, release `71e5c0d`) 🚀

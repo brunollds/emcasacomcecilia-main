@@ -7,16 +7,16 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Garantia"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "PR e deploy"
+proxima_acao: "revisar na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 77
 score_conversao: 70
 score_ponderado_total: 77
 data_criacao: "2026-10-22"
-publicado_em: null
-nota_publicacao: null
+publicado_em: "2026-10-22"
+nota_publicacao: "No ar em 22/10/2026 ~22:45 UTC (PR #231, release `b2907f1`, build `01a165c0-0675-7204-a59b-9a1e8c8044be`), id 592; primeiro lote do Job 6 (capas do Discover e 23 imagens no CDN); covers:check na produção 5/5."
 i18n_cluster: null
 translationKey: null
 modo_i18n: "somente-pt"
