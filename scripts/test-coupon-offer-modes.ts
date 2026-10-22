@@ -118,6 +118,7 @@ const mercadoLivreLinks: Record<string, string> = {
   belive: 'https://meli.la/2xDjP2k',
   'mais-mu': 'https://meli.la/24RjvdP',
   skelt: 'https://meli.la/2unTb7k',
+  bagaggio: 'https://meli.la/2KeydkG',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);

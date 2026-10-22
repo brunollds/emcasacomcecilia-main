@@ -24,6 +24,7 @@ prateleira de moda de `/cupons`.
 | Frete calculado pelo CEP; retirada em lojas próximas conforme a disponibilidade | condicao_comercial_volatil | Site oficial | 2026-10-22 | 2026-11-22 | O site não divulgava frete grátis; `/institucional/politica-de-frete` não existe | Média |
 | Desistência em até 7 dias corridos depois do recebimento, só em compra pelo site | condicao_comercial_volatil | bagaggio.com.br/institucional/trocas-e-devolucoes | 2026-10-22 | 2026-11-22 | Com vale-troca ou devolução do valor pago | Alta |
 | Link de afiliado: `https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz` | condicao_comercial_volatil | Bruno, 22/10/2026; `offerUrl` em `src/lib/couponsData.ts` | 2026-10-22 | 2026-11-22 | Vai exatamente como veio | Alta |
+| Link de afiliado da marca no Mercado Livre: `https://meli.la/2KeydkG` | condicao_comercial_volatil | Bruno, 22/10/2026; `mercadoLivreUrl` no FAQ | 2026-10-22 | 2026-11-22 | Abre a vitrine da Cecília no Mercado Livre com produtos da Bagaggio. O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 
 Teste de carrinho em 2026-10-22, pela API pública do checkout da VTEX (sem dados pessoais e sem
 finalizar): Mala de Bordo PP Downtown Preta, do Outlet, de R$ 249,90 por R$ 179,90; com o cupom,
@@ -49,7 +50,6 @@ para R$ 1.349,91. Mala de Bordo Detroit Preta, do Outlet, de R$ 249,90 para R$ 2
   (Job 1) e depois pela sessão de artigos.
 - Nunca citar o código da promoção da 2ª peça, o de primeira compra ou outro cupom da loja como
   alternativa ao nosso. A página só diz que a promoção da 2ª peça não soma com outro cupom.
-- Ainda sem link da marca no Mercado Livre.
 
 ---
 
