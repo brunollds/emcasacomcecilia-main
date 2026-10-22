@@ -29,4 +29,5 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
 - [ ] **9. Imagens no corpo:** o Plano de imagens do Job 2 traz **pelo menos uma
   imagem no corpo além da capa**, sem repetir imagem e sem fugir do tema da seção?
   É o mínimo, não a meta: aponte as seções que ganhariam outra imagem. Sem ao menos
-  uma imagem no corpo, o rascunho volta ao Job 2.
+  uma imagem no corpo, o rascunho volta ao Job 2. Aprovado o texto, a nota segue
+  para o Job 6 (capa e imagens), e só depois para o Job 4.

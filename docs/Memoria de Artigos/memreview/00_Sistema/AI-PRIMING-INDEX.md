@@ -46,7 +46,19 @@
   3. `01_Parceiros/[[Nome-do-Parceiro]].md` (conferir dados voláteis e códigos ativos)
   4. O rascunho em `02_Artigos/<slug>.md`
   5. A nota do cluster, **se** `modo_i18n` for `paridade-completa`
-- **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` (com `status: em-conformacao-json`)
+- **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` (com `status: em-conformacao-json`); a nota segue para o Job 6
+
+---
+
+### Job 6: Capa e Imagens (roda entre o Job 3 e o Job 4)
+*Objetivo: Buscar as fotos, montar a capa no modelo do tipo de artigo, cuidar das imagens do corpo, levar a folha de aprovação ao Bruno e subir ao CDN com o OK dele.*
+- **Leituras Obrigatórias:**
+  1. `00_Sistema/JOBS/Job-6-Capa-e-Imagens.md`
+  2. `docs/GUIA-MIDIA-EDITORIAL.md` (o fluxo técnico de upload e verificação)
+  3. `01_Parceiros/[[Nome-do-Parceiro]].md` (códigos e o que não pode aparecer)
+  4. O artigo revisado em `02_Artigos/<slug>.md`, com o Plano de imagens do Job 2
+  5. A nota do cluster, **se** `modo_i18n` for `paridade-completa` (capa sem texto em português, alt nos 10 idiomas)
+- **Destino do Arquivo:** Acrescenta a seção "Capa e imagens" em `02_Artigos/<slug>.md`, com a data da aprovação do Bruno, os caminhos, os alts, as legendas e a origem de cada imagem. O `status` continua `em-conformacao-json`; o Job 4 só começa com essa seção.
 
 ---
 
