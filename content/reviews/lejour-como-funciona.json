@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
-  "imageAlt": "Painel da Lejour com o menu Personalizar site, Lista de presentes e Lista de convidados e a prévia do site do casal",
+  "image": "/images/reviews/lejour/lejour-como-funciona-capa-discover.webp",
+  "imageAlt": "Dois noivos sorrindo num terraço com flores, foto do site da Lejour, com o logo da Lejour e o título Como funciona a Lejour",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -40,6 +40,13 @@
       "paragraphs": [
         "A Lejour junta, num só painel, o que o casal precisa para avisar e organizar a festa. O menu do painel mostra as áreas: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop."
       ],
+      "image": {
+        "src": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+        "alt": "Painel da Lejour com o menu Personalizar site, Lista de presentes e Lista de convidados e a prévia do site do casal",
+        "caption": "O painel da Lejour, com o menu de personalizar o site, a lista de presentes, a lista de convidados e a prévia do site do casal.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Site do casamento.** Uma página pública com as informações da festa, que o casal personaliza. O título do site da Lejour o apresenta como \"site de casamento grátis e lista de presentes\".",
         "**Lista de presentes.** Onde o casal define os presentes e acompanha o que os convidados deram. Como ela funciona está na próxima seção.",

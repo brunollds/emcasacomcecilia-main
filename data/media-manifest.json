@@ -50243,6 +50243,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129016,
+      "sha256": "4bf514a387242974f570dcb54b6963dd7edc7b27f9f2cc27bdaf6fd276c691df",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-saudavel-capa-discover.webp",
+      "storage_filename": "dr-peanut-e-saudavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-saudavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-saudavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4bf514a387242974f570dcb54b6963dd7edc7b27f9f2cc27bdaf6fd276c691df/dr-peanut-e-saudavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4bf514a387242974f570dcb54b6963dd7edc7b27f9f2cc27bdaf6fd276c691df/dr-peanut-e-saudavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:54:58.902Z",
+      "verification_etag_or_digest": "4bf514a387242974f570dcb54b6963dd7edc7b27f9f2cc27bdaf6fd276c691df",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
       "media_kind": "image",
@@ -60876,6 +60914,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
+      "local_url": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90804,
+      "sha256": "420d19445ae3d94d4878fb7fad82f3ddb703721831b41d82c541ee918931f3c1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-lejour-capa-discover.webp",
+      "storage_filename": "black-friday-lejour-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-lejour.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-lejour.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/420d19445ae3d94d4878fb7fad82f3ddb703721831b41d82c541ee918931f3c1/black-friday-lejour-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/420d19445ae3d94d4878fb7fad82f3ddb703721831b41d82c541ee918931f3c1/black-friday-lejour-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:54:58.902Z",
+      "verification_etag_or_digest": "420d19445ae3d94d4878fb7fad82f3ddb703721831b41d82c541ee918931f3c1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/black-friday-lejour-home.webp",
       "local_url": "/images/reviews/lejour/black-friday-lejour-home.webp",
       "media_kind": "image",
@@ -61106,6 +61182,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/lejour-como-funciona-capa-discover.webp",
+      "local_url": "/images/reviews/lejour/lejour-como-funciona-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78910,
+      "sha256": "90ee46df30a55846c3fa3499f3f20139d3c6e5c90bc7b53d02cf3e05eb3adf36",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-como-funciona-capa-discover.webp",
+      "storage_filename": "lejour-como-funciona-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-como-funciona.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-como-funciona.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-como-funciona-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/90ee46df30a55846c3fa3499f3f20139d3c6e5c90bc7b53d02cf3e05eb3adf36/lejour-como-funciona-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90ee46df30a55846c3fa3499f3f20139d3c6e5c90bc7b53d02cf3e05eb3adf36/lejour-como-funciona-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:54:58.903Z",
+      "verification_etag_or_digest": "90ee46df30a55846c3fa3499f3f20139d3c6e5c90bc7b53d02cf3e05eb3adf36",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-como-funciona-capa.webp",
       "local_url": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
       "media_kind": "image",
@@ -61279,6 +61393,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "1347e2b026f3cbd2d83d64deec70370712d84ac288e32ef364f3ef3182c18f5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp",
+      "local_url": "/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99742,
+      "sha256": "5e7ea883b31686814267bcf08035fb2eb8b008ca4a2cc34a7b8f4b58563bf535",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-ou-icasei-capa-discover.webp",
+      "storage_filename": "lejour-ou-icasei-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-ou-icasei.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-ou-icasei.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5e7ea883b31686814267bcf08035fb2eb8b008ca4a2cc34a7b8f4b58563bf535/lejour-ou-icasei-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e7ea883b31686814267bcf08035fb2eb8b008ca4a2cc34a7b8f4b58563bf535/lejour-ou-icasei-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:54:58.903Z",
+      "verification_etag_or_digest": "5e7ea883b31686814267bcf08035fb2eb8b008ca4a2cc34a7b8f4b58563bf535",
       "verification_status": "verified"
     },
     {
@@ -61547,6 +61699,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T16:08:01.326Z",
       "verification_etag_or_digest": "aed5585e436b5f8a5f38689d0c76ee9dfb278fde898b90d7d95c0d53ac675bf3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
+      "local_url": "/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37654,
+      "sha256": "d44455c384489db0f4b3ba0b57d7582602ab5fa3668f173d6b6b5ea8b2ea47e9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lista-de-casamento-lejour-capa-discover.webp",
+      "storage_filename": "lista-de-casamento-lejour-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lista-de-casamento-lejour-como-criar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lista-de-casamento-lejour-como-criar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d44455c384489db0f4b3ba0b57d7582602ab5fa3668f173d6b6b5ea8b2ea47e9/lista-de-casamento-lejour-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d44455c384489db0f4b3ba0b57d7582602ab5fa3668f173d6b6b5ea8b2ea47e9/lista-de-casamento-lejour-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:54:58.903Z",
+      "verification_etag_or_digest": "d44455c384489db0f4b3ba0b57d7582602ab5fa3668f173d6b6b5ea8b2ea47e9",
       "verification_status": "verified"
     },
     {

@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/lejour-lista-capa.webp",
-  "imageAlt": "Passo 3 do cadastro na Lejour: tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema",
+  "image": "/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
+  "imageAlt": "Ilustração da lista de presentes da Lejour, com panelas e um maço de dinheiro, com o logo da Lejour e o título Lista de casamento na Lejour",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -67,7 +67,14 @@
       "heading": "3. Escolha o tema do site",
       "paragraphs": [
         "O passo 3, \"Qual tema vocês mais gostam?\", mostra a prévia do site do casal e, abaixo dela, quatro bolinhas de cor, uma delas marcada. A Lejour avisa: \"Lembrando que vocês podem alterar o tema quando quiserem!\". A prévia traz o nome do casal no topo, a \"Mensagem inicial\" e a seção \"Sobre o casal\". A barra de progresso marca \"3/3\"."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/lejour/lejour-lista-capa.webp",
+        "alt": "Passo 3 do cadastro na Lejour: tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema",
+        "caption": "O passo 3 do cadastro: a tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "4. Crie a conta grátis para salvar",

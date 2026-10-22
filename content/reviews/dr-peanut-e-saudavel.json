@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-20",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
-  "imageAlt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
+  "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
+  "imageAlt": "Onze potes de pasta de amendoim Dr. Peanut em sabores diferentes, com o logo da loja e a pergunta Dr. Peanut é saudável",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -51,6 +51,13 @@
       "paragraphs": [
         "O quadro mostra uma porção de cada produto, como a loja a define. Na Doctor Bar e na Doctor Wafer, lemos só o sabor Avelã. Nas pastas, no alfajor e no whey, a faixa junta todos os sabores."
       ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
+        "alt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
+        "caption": "A porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey, segundo a tabela da loja.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "headers": [
           "Produto",

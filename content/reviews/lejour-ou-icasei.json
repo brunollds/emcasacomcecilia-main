@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-16",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
-  "imageAlt": "Gráfico com R$ 20.000 em presentes de casamento e quanto o casal recebe na Lejour, no iCasei e no Casar.com",
+  "image": "/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp",
+  "imageAlt": "Casal de noivos sorrindo num terraço com flores, foto do site da Lejour, com o logo da Lejour e a pergunta Lejour ou iCasei",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -170,6 +170,13 @@
       "paragraphs": [
         "Fizemos a conta para uma lista que arrecada R$ 20.000. As premissas:"
       ],
+      "image": {
+        "src": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+        "alt": "Gráfico com R$ 20.000 em presentes de casamento e quanto o casal recebe na Lejour, no iCasei e no Casar.com",
+        "caption": "Quanto o casal fica de R$ 20.000 em presentes no plano de cada plataforma: Lejour Premium, iCasei Basic e Casar.com grátis.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "todos os presentes pagos por Pix;",
         "o casal paga a taxa;",
