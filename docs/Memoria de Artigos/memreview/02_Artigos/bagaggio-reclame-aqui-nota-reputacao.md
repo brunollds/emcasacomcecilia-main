@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "PR e deploy"
+proxima_acao: "revisar na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 66
@@ -21,8 +21,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
-nota_publicacao: null
+publicado_em: "2026-10-22"
+nota_publicacao: "No ar em 22/10/2026 ~22:45 UTC (PR #231, release `b2907f1`, build `01a165c0-0675-7204-a59b-9a1e8c8044be`), id 589; primeiro lote do Job 6 (capas do Discover e 23 imagens no CDN); covers:check na produção 5/5."
 affiliate: "bagaggio"
 coupon: "CECILIA10"
 ---

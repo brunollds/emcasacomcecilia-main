@@ -6,9 +6,9 @@ parceiro: "[[Bagaggio]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-conformacao-json"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "PR e deploy"
+proxima_acao: "reler preços e a página /black-friday no fim de outubro de 2026 e testar o CECILIA10 quando a campanha abrir"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 70
@@ -20,8 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
-nota_publicacao: null
+publicado_em: "2026-10-22"
+nota_publicacao: "No ar em 22/10/2026 ~22:45 UTC (PR #231, release `b2907f1`, build `01a165c0-0675-7204-a59b-9a1e8c8044be`), id 591; primeiro lote do Job 6 (capas do Discover e 23 imagens no CDN); covers:check na produção 5/5."
 parceiro_slug: "bagaggio"
 affiliate: "bagaggio"
 coupon: "CECILIA10"
