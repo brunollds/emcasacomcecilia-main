@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
+  "image": "/images/reviews/lejour/lejour-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Logo da Lejour sobre fundo coral e o topo do perfil da Lejour no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 5,0",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Ótima nos últimos 12 meses, com nota 9,5 de 10",
     "100% das reclamações respondidas nas abas de 6 meses, 12 meses e 2025",
@@ -66,6 +65,13 @@
       "paragraphs": [
         "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas em 14/10/2026: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
       ],
+      "image": {
+        "src": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+        "alt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
+        "caption": "O topo do perfil da Lejour no Reclame Aqui e o quadro de desempenho dos últimos 12 meses, consultados em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "postParagraphs": [
         "O \"--\" aparece no próprio Reclame Aqui, nas abas de 6 meses e de 2025. Só a aba de 12 meses traz esses números.",
         "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."

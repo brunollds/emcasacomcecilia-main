@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-20",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+  "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Regular e avaliações de compra 4,7",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -173,7 +173,14 @@
         "A loja responde quase todas: 95,5% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, nenhuma reclamação estava aguardando resposta.",
         "Responder não é o mesmo que resolver. Nos 6 meses, 67,9% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 47,2% disseram que voltariam a comprar.",
         "A nota média do consumidor nos 6 meses foi 5,19, e só 53 das 112 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
+        "alt": "Perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
+        "caption": "O perfil da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular, avaliações de compra 4,7 e 67,9% das reclamações resolvidas.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O que fazer se o pedido der problema",

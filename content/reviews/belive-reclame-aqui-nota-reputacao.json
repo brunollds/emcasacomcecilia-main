@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-16",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
-  "imageAlt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+  "image": "/images/reviews/belive/belive-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Brownies sem açúcar da Belive em oito sabores e o topo do perfil Belive Be Free no Reclame Aqui em 22/10/2026, com a reputação Ótima",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1",
     "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
@@ -169,7 +168,14 @@
       "paragraphs": [
         "O perfil diz que a Belive respondeu todas as reclamações nas três janelas. Para quem comprou, o que pesa é a resolução, e o perfil não diz o que aconteceu com as reclamações que não foram resolvidas.",
         "No site, o atendimento é pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/. A loja informa prazo de resposta de até 24 horas úteis, sem contar fins de semana e feriados. É prazo da loja, não garantia de solução."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/belive-reclame-aqui-capa.webp",
+        "alt": "Topo do perfil Belive Be Free no Reclame Aqui em 16/10/2026, com o selo de reputação Ótima e a aba de 6 meses com nota 8,1",
+        "caption": "O topo do perfil da Belive no Reclame Aqui e a aba de 6 meses, com nota 8,1, consultados em 16/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Se o seu pedido der problema: o que fazer",

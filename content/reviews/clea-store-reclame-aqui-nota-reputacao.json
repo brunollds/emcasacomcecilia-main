@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
+  "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Três bodies da Cléa Store vestidos por modelos e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa, Empresa Verificada e avaliações de compra 4,8",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12",
     "Selo de Empresa Verificada no Reclame Aqui",
@@ -164,6 +163,13 @@
       "paragraphs": [
         "Duas notas aparecem no perfil, e não são a mesma coisa:"
       ],
+      "image": {
+        "src": "/images/reviews/clea-store/clea-store-reclame-aqui-capa.webp",
+        "alt": "Perfil da Cléa Store no Reclame Aqui em 14/10/2026: topo com reputação Boa, Empresa Verificada e avaliações de compra 4,8, ao lado da aba de 6 meses",
+        "caption": "O topo do perfil e a aba de 6 meses da Cléa Store no Reclame Aqui, consultados em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Nota de reputação (7,1 e 7,5):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
         "**Avaliações de compra (4,8 em 5):** avaliação de quem comprou, mostrada no topo do perfil."

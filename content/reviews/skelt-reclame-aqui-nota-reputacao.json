@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
-  "imageAlt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas, resoluções e quem voltaria a comprar",
+  "image": "/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Mousse autobronzeador da Skelt sobre fundo amarelo e o topo do perfil Skelt Cosméticos no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 4,6",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -146,7 +146,14 @@
       "paragraphs": [
         "O histórico dos últimos 6 meses mostra a Skelt na RA1000 em abril de 2026 e na Ótima de maio a setembro. A troca de faixa aconteceu com a nota quase igual: 8,4 na aba de 12 meses (RA1000) e 8,3 na de 6 meses (Ótima).",
         "A aba de 12 meses continua em RA1000 e cobre também outubro de 2025 a março de 2026, período que esta leitura não detalha mês a mês. A leitura não traz o motivo da troca de faixa, e este texto não atribui causa."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
+        "alt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas, resoluções e quem voltaria a comprar",
+        "caption": "A reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O que mais aparece nas reclamações",

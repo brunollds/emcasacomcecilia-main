@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+  "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Potes de pasta de amendoim da Dr. Peanut em vários sabores e o topo do perfil da loja no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,6",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Ótima (nota 8,1) nos últimos 12 meses",
     "95,6% das reclamações respondidas nos últimos 6 meses",
@@ -162,7 +161,14 @@
         "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
         "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro de 2026, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro de 2026, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
         "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+        "alt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+        "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O que mais aparece nas reclamações da Dr. Peanut",

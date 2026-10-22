@@ -19,11 +19,10 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
-  "imageAlt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
+  "image": "/images/reviews/probiotica/probiotica-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Embalagens do 100% Pure Whey da Probiótica e o topo do perfil Probiótica Laboratórios no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,7",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "heroCompact": true,
   "pros": [
     "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
     "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
@@ -182,7 +181,14 @@
       "paragraphs": [
         "Responde quase todas: em 14/10/2026, 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
         "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+        "alt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
+        "caption": "O topo do perfil da Probiótica no Reclame Aqui e a aba de 6 meses, consultados em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Se o seu pedido der problema: o que fazer",
