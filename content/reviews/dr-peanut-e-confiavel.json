@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
-  "imageAlt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
+  "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
+  "imageAlt": "Cinco potes de pasta de amendoim Dr. Peanut em sabores diferentes, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,6",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -93,6 +93,13 @@
       "paragraphs": [
         "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. Em 14/10/2026, o menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
       ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+        "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
+        "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br, em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Pastas de amendoim**, a categoria que dá nome à marca, em sabores como Bombom Italiano.",
         "**Alfajores.**",

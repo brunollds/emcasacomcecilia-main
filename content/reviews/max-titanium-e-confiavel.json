@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
-  "imageAlt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
+  "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
+  "imageAlt": "Creatina da Max Titanium em embalagens de 300 g e 500 g, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,8",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -106,7 +106,14 @@
       "paragraphs": [
         "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
         "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+        "alt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
+        "caption": "A página inicial da Max Titanium em 14/10/2026, com a campanha Semana Max Economia.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Trocas, devoluções e defeito",

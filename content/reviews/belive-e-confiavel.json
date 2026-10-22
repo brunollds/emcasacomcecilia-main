@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-16",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/belive/belive-e-confiavel-home.webp",
-  "imageAlt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+  "image": "/images/reviews/belive/belive-confiavel-capa-discover.webp",
+  "imageAlt": "Bolinho, brownies, pão de mel e bolo sem açúcar da Belive, com o logo da loja e a reputação Ótima no Reclame Aqui em 22/10/2026",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -94,7 +94,14 @@
       "paragraphs": [
         "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos. Não avaliamos sabor nem dieta.",
         "Parte dos produtos é anunciada como **sem glúten** e **zero açúcar**. São declarações da loja e da embalagem, produto a produto. Se você é celíaco, diabético ou tem outra condição de saúde, converse com um médico ou nutricionista antes de comprar."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+        "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+        "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Trocas, devoluções e defeito",
