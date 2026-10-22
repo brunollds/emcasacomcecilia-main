@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
-  "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
+  "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
+  "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu, com o logo da loja e a pergunta Mais Mu ou Growth",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -45,6 +45,13 @@
         "A série contra a Growth tem outros três textos: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). Quem quer a comparação com a Dux lê [Mais Mu ou Dux](/reviews/mais-mu-ou-dux).",
         "As contas são nossas, arredondadas no centavo:"
       ],
+      "image": {
+        "src": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+        "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
+        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
         "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",

@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
-  "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
+  "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
+  "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu, com o logo da loja e a pergunta Mais Mu ou Dux",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -45,6 +45,13 @@
         "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
         "As contas são estas, arredondadas no centavo:"
       ],
+      "image": {
+        "src": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+        "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
+        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "preço por dose: preço ÷ número de doses;",
         "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",

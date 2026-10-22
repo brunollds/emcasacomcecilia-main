@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-18",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-  "imageAlt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+  "image": "/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
+  "imageAlt": "100% Pure Whey e creatina da Probiótica, com o logo da loja e a pergunta Probiótica ou Growth",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -44,6 +44,13 @@
         "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
         "As contas são nossas, arredondadas no centavo:"
       ],
+      "image": {
+        "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+        "alt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 18/10/2026, sem frete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**preço por dose:** preço ÷ porções;",
         "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",

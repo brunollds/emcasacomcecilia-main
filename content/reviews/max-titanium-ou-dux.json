@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-20",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
-  "imageAlt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+  "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
+  "imageAlt": "100% Whey e creatina da Max Titanium, com o logo da loja e a pergunta Max Titanium ou Dux",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -46,6 +46,13 @@
         "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
         "As contas são estas, arredondadas no centavo:"
       ],
+      "image": {
+        "src": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
+        "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**preço por dose:** preço ÷ número de doses do pote;",
         "**preço por 100 g de proteína:** preço ÷ (doses × proteína por dose) × 100;",
