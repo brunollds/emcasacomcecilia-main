@@ -17,6 +17,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - `affiliate`: Slug do cupom correspondente em `src/lib/couponsData.ts`.
    - `editorialNote`: Texto de divulgação, com no máximo 3 linhas no celular e sem data.
 3. **Mídia, Imagens & Vídeos (Sub-etapa de Assets):**
+   - A capa e as imagens do corpo chegam prontas do Job 6: aprovadas pelo Bruno, no CDN e verificadas, com caminhos, alts e legendas na seção "Capa e imagens" da nota. Sem esse registro o Job 4 não começa. Aqui elas só entram no JSON, com as regras abaixo; imagem nova que aparecer no Job 4 volta ao Job 6.
    - `image`: Caminho da imagem principal (Hero).
    - `imageAlt`: Texto alternativo descritivo e acessível (sem clickbait).
    - `imageFit` (`"contain"` | `"cover"` | `"wide"` | `"square"`) e `imageAspect`.

@@ -38,6 +38,7 @@ jobs:
       - run: npm run test:deploy-guard
       - run: npm run test:indexnow
       - run: npm run test:migrate-categories
+      - run: npm run test:covers
       - run: npm run build
       - run: npm run test:html-lang
 
