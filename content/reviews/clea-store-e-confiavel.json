@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
-  "imageAlt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
+  "image": "/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
+  "imageAlt": "Blazer risca de giz, blazer oversized bordô e kit de t-shirts da Cléa Store vestidos por modelos, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa, Empresa Verificada e avaliações de compra 4,8",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -100,7 +100,14 @@
       "heading": "O que a Cléa Store vende",
       "paragraphs": [
         "A Cléa Store é uma loja de moda feminina. O site reúne alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+        "alt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
+        "caption": "A página inicial da Cléa Store em 14/10/2026, com a campanha de 14 anos da loja.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Devolução, defeito, arrependimento e troca",

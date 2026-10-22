@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
-  "imageAlt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
+  "image": "/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
+  "imageAlt": "Creatina Creator da Black Skull em refil e pote, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Regular e Empresa Verificada",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -84,6 +84,13 @@
       "paragraphs": [
         "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). Em 14/10/2026, o menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
       ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+        "alt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
+        "caption": "A página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "whey protein, inclusive em kits;",
         "creatina;",

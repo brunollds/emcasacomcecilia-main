@@ -74605,8 +74605,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
-    "imageAlt": "Página inicial do site probiotica.com.br em 14/10/2026",
+    "image": "/images/reviews/probiotica/probiotica-confiavel-capa-discover.webp",
+    "imageAlt": "Creatina da Probiótica em potes de 300 g e 150 g, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,7",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -74696,7 +74696,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja é de suplementos e de itens ligados a eles. O menu da página inicial, em 14/10/2026, lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
           "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para verificar, e é o que fizemos, é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+          "alt": "Página inicial do site probiotica.com.br em 14/10/2026",
+          "caption": "A página inicial da Probiótica, probiotica.com.br, em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Trocas, devoluções e defeito",
@@ -75313,8 +75320,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
-    "imageAlt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
+    "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
+    "imageAlt": "Cinco potes de pasta de amendoim Dr. Peanut em sabores diferentes, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,6",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -75387,6 +75394,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. Em 14/10/2026, o menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
         ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+          "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
+          "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br, em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Pastas de amendoim**, a categoria que dá nome à marca, em sabores como Bombom Italiano.",
           "**Alfajores.**",
@@ -76028,8 +76042,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
-    "imageAlt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
+    "image": "/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
+    "imageAlt": "Creatina Creator da Black Skull em refil e pote, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Regular e Empresa Verificada",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -76093,6 +76107,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). Em 14/10/2026, o menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
         ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+          "alt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
+          "caption": "A página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "whey protein, inclusive em kits;",
           "creatina;",
@@ -76797,8 +76818,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lejour-confiavel-capa.webp",
-    "imageAlt": "Página inicial de lejour.com.br com o logo Fast Shop + le jour no cabeçalho",
+    "image": "/images/reviews/lejour/lejour-confiavel-capa-discover.webp",
+    "imageAlt": "Logo da Lejour em coral sobre fundo creme, com os selos do perfil no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 5,0",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -76870,6 +76891,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. Em 14/10/2026, a parceria aparece nos dois sites:"
         ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+          "alt": "Página inicial de lejour.com.br com o logo Fast Shop + le jour no cabeçalho",
+          "caption": "A página inicial da Lejour, com o logo Fast Shop + le jour no cabeçalho.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "o cabeçalho de lejour.com.br traz o logo \"Fast Shop + le jour\";",
           "a Fast Shop tem uma página de lista de casamento que apresenta a \"lista Lejour + Fast Shop\", com depoimentos de casais sobre ela."
@@ -78466,8 +78494,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
-    "imageAlt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
+    "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
+    "imageAlt": "Creatina da Max Titanium em embalagens de 300 g e 500 g, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa e avaliações de compra 4,8",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -78553,7 +78581,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
           "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
+          "alt": "Página inicial do site maxtitanium.com.br em 14/10/2026, com a campanha Semana Max Economia",
+          "caption": "A página inicial da Max Titanium em 14/10/2026, com a campanha Semana Max Economia.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Trocas, devoluções e defeito",
@@ -79182,8 +79217,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
-    "imageAlt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
+    "image": "/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
+    "imageAlt": "Blazer risca de giz, blazer oversized bordô e kit de t-shirts da Cléa Store vestidos por modelos, com o logo da loja e os selos do perfil no Reclame Aqui em 22/10/2026: reputação Boa, Empresa Verificada e avaliações de compra 4,8",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -79263,7 +79298,14 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Cléa Store vende",
         "paragraphs": [
           "A Cléa Store é uma loja de moda feminina. O site reúne alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/clea-store/clea-store-confiavel-capa.webp",
+          "alt": "Página inicial do site cleastore.com.br em 14/10/2026, com a campanha de 14 anos da Cléa (\"Ganhe uma t-shirt\")",
+          "caption": "A página inicial da Cléa Store em 14/10/2026, com a campanha de 14 anos da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Devolução, defeito, arrependimento e troca",
@@ -84340,8 +84382,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/belive/belive-e-confiavel-home.webp",
-    "imageAlt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+    "image": "/images/reviews/belive/belive-confiavel-capa-discover.webp",
+    "imageAlt": "Bolinho, brownies, pão de mel e bolo sem açúcar da Belive, com o logo da loja e a reputação Ótima no Reclame Aqui em 22/10/2026",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -84415,7 +84457,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A loja vende pães, bisnaguinhas, doces, brownies, bolinhos, snacks e combos. Não avaliamos sabor nem dieta.",
           "Parte dos produtos é anunciada como **sem glúten** e **zero açúcar**. São declarações da loja e da embalagem, produto a produto. Se você é celíaco, diabético ou tem outra condição de saúde, converse com um médico ou nutricionista antes de comprar."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/belive-e-confiavel-home.webp",
+          "alt": "Página inicial do site belivebefree.com.br em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten",
+          "caption": "A página inicial da Belive em 16/10/2026, com a vitrine de doces, snacks e pães sem glúten.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Trocas, devoluções e defeito",

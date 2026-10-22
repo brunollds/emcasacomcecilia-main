@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/lejour-confiavel-capa.webp",
-  "imageAlt": "Página inicial de lejour.com.br com o logo Fast Shop + le jour no cabeçalho",
+  "image": "/images/reviews/lejour/lejour-confiavel-capa-discover.webp",
+  "imageAlt": "Logo da Lejour em coral sobre fundo creme, com os selos do perfil no Reclame Aqui em 22/10/2026: reputação Ótima, Empresa Verificada e avaliações de compra 5,0",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -92,6 +92,13 @@
       "paragraphs": [
         "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. Em 14/10/2026, a parceria aparece nos dois sites:"
       ],
+      "image": {
+        "src": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+        "alt": "Página inicial de lejour.com.br com o logo Fast Shop + le jour no cabeçalho",
+        "caption": "A página inicial da Lejour, com o logo Fast Shop + le jour no cabeçalho.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "o cabeçalho de lejour.com.br traz o logo \"Fast Shop + le jour\";",
         "a Fast Shop tem uma página de lista de casamento que apresenta a \"lista Lejour + Fast Shop\", com depoimentos de casais sobre ela."

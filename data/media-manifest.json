@@ -36747,6 +36747,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/belive/belive-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113984,
+      "sha256": "63ae2c8a963d8c49f6b4e5ddce9fc3942bb07958c5d96a860bcdc7dbf4521b25",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-confiavel-capa-discover.webp",
+      "storage_filename": "belive-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/belive-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/63ae2c8a963d8c49f6b4e5ddce9fc3942bb07958c5d96a860bcdc7dbf4521b25/belive-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/63ae2c8a963d8c49f6b4e5ddce9fc3942bb07958c5d96a860bcdc7dbf4521b25/belive-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.239Z",
+      "verification_etag_or_digest": "63ae2c8a963d8c49f6b4e5ddce9fc3942bb07958c5d96a860bcdc7dbf4521b25",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-e-confiavel-home.webp",
       "local_url": "/images/reviews/belive/belive-e-confiavel-home.webp",
       "media_kind": "image",
@@ -37902,6 +37940,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-15T03:08:09.521Z",
       "verification_etag_or_digest": "0fec17e64c46dc4b88d326fe801417634e170b80a5777610dcc0336a98cac3d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48874,
+      "sha256": "ba46063c43b0b1f911e13d2925f8590b5dd5ee67c026ca737fcb1f5a94727b9e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-confiavel-capa-discover.webp",
+      "storage_filename": "black-skull-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ba46063c43b0b1f911e13d2925f8590b5dd5ee67c026ca737fcb1f5a94727b9e/black-skull-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba46063c43b0b1f911e13d2925f8590b5dd5ee67c026ca737fcb1f5a94727b9e/black-skull-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "ba46063c43b0b1f911e13d2925f8590b5dd5ee67c026ca737fcb1f5a94727b9e",
       "verification_status": "verified"
     },
     {
@@ -49795,6 +49871,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 98904,
+      "sha256": "f00ce4f2102c6690b706822ffd45db8e744cd31240e25d07468970aa87009f9d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-confiavel-capa-discover.webp",
+      "storage_filename": "dr-peanut-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f00ce4f2102c6690b706822ffd45db8e744cd31240e25d07468970aa87009f9d/dr-peanut-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f00ce4f2102c6690b706822ffd45db8e744cd31240e25d07468970aa87009f9d/dr-peanut-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "f00ce4f2102c6690b706822ffd45db8e744cd31240e25d07468970aa87009f9d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
       "local_url": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
       "media_kind": "image",
@@ -60962,6 +61076,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/lejour/lejour-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/lejour/lejour-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35358,
+      "sha256": "6f08f03f54f606c50c96c159bdbc850e73274a37d47c433e292c64be539c0cc5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lejour-confiavel-capa-discover.webp",
+      "storage_filename": "lejour-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lejour-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lejour-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/lejour/lejour-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6f08f03f54f606c50c96c159bdbc850e73274a37d47c433e292c64be539c0cc5/lejour-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6f08f03f54f606c50c96c159bdbc850e73274a37d47c433e292c64be539c0cc5/lejour-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "6f08f03f54f606c50c96c159bdbc850e73274a37d47c433e292c64be539c0cc5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/lejour/lejour-confiavel-capa.webp",
       "local_url": "/images/reviews/lejour/lejour-confiavel-capa.webp",
       "media_kind": "image",
@@ -62767,6 +62919,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-11T18:20:30.122Z",
       "verification_etag_or_digest": "efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85890,
+      "sha256": "64add32651a8a99c7a30b8615b61faeb852ab27d00765b0fb3dc9c1bccbaeaad",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "clea-store-confiavel-capa-discover.webp",
+      "storage_filename": "clea-store-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/clea-store-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/clea-store-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/64add32651a8a99c7a30b8615b61faeb852ab27d00765b0fb3dc9c1bccbaeaad/clea-store-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/64add32651a8a99c7a30b8615b61faeb852ab27d00765b0fb3dc9c1bccbaeaad/clea-store-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "64add32651a8a99c7a30b8615b61faeb852ab27d00765b0fb3dc9c1bccbaeaad",
       "verification_status": "verified"
     },
     {
@@ -65381,6 +65571,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "f22c74faf0069ace26abfd4ccc126c66875a6eb6f7e03d2d2e37af3d467c1aec",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46638,
+      "sha256": "6a2dc3565150fb550632557ef7874a858edf08665448bf75e2e8ef9506a90708",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-confiavel-capa-discover.webp",
+      "storage_filename": "max-titanium-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6a2dc3565150fb550632557ef7874a858edf08665448bf75e2e8ef9506a90708/max-titanium-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a2dc3565150fb550632557ef7874a858edf08665448bf75e2e8ef9506a90708/max-titanium-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "6a2dc3565150fb550632557ef7874a858edf08665448bf75e2e8ef9506a90708",
       "verification_status": "verified"
     },
     {
@@ -70346,6 +70574,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "2af8b96db55681b47e8474a09f178e614c227b07e1be1cf757709e8bd83f3c06",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59958,
+      "sha256": "56b8ac0509a057f1868e53f0951671c160e931dadf79adfefde6ac1f2b5ddd02",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-confiavel-capa-discover.webp",
+      "storage_filename": "probiotica-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-e-confiavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/56b8ac0509a057f1868e53f0951671c160e931dadf79adfefde6ac1f2b5ddd02/probiotica-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/56b8ac0509a057f1868e53f0951671c160e931dadf79adfefde6ac1f2b5ddd02/probiotica-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T05:45:06.240Z",
+      "verification_etag_or_digest": "56b8ac0509a057f1868e53f0951671c160e931dadf79adfefde6ac1f2b5ddd02",
       "verification_status": "verified"
     },
     {
