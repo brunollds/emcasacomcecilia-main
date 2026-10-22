@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
-  "imageAlt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+  "image": "/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp",
+  "imageAlt": "Potes de 900 g de Hiper 100% Whey, Iso Protein Blend e 100% Pure Whey Zero Lactose da Probiótica, em imagens oficiais da loja, com o logo e o título Black Friday da Probiótica",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -53,7 +53,14 @@
       "paragraphs": [
         "A Probiótica não publicou data de Black Friday para 2026. Em 14 de outubro, o site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
         "A loja também não dá prazo de aviso. Os termos de uso dizem que as ofertas e promoções \"podem ser lançadas a qualquer momento, sem aviso prévio\". Uma promoção pode aparecer antes de 27 de novembro, e uma que você viu pode sair do site quando o estoque acaba."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+        "alt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+        "caption": "A página inicial da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Preços de outubro para comparar",

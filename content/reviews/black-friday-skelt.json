@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/skelt/black-friday-skelt-capa.webp",
-  "imageAlt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
+  "image": "/images/reviews/skelt/black-friday-skelt-capa-discover.webp",
+  "imageAlt": "Body splashes Solar Muse, Mystic Bloom, Hidden Flowers e Pink Sands da Skelt, em imagens oficiais da loja, com o logo e o título Black Friday da Skelt",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -156,6 +156,13 @@
       "paragraphs": [
         "Estas etapas valem com ou sem campanha:"
       ],
+      "image": {
+        "src": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+        "alt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
+        "caption": "As datas da Black Friday Skelt 2026: preço medido em 21/10, releitura no fim de outubro, live de aquecimento em 05/11, Black Friday em 27/11 e Cyber Monday em 30/11.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "Confira o preço de venda do dia, não o preço cheio.",
         "Confira o total depois do cupom e do Pix, na sacola, antes de pagar.",

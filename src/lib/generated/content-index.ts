@@ -54062,9 +54062,9 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-09",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-    "imageAlt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
-    "imageFit": "cover",
+    "image": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
+    "imageAlt": "Skillet de coração da Le Creuset, aparelho de jantar verde da Porto Brasil e ramequim de coração da Le Creuset, com o logo da Let's Eat It e o título Black Friday da Let's Eat It",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
@@ -54096,7 +54096,14 @@ export const reviewsData: unknown[] = [
           "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
           "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
           "Quando a Let's Eat It anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+          "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
+          "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
@@ -54727,8 +54734,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
-    "imageAlt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+    "image": "/images/reviews/insider/black-friday-insider-capa-discover.webp",
+    "imageAlt": "Tech T-Shirt da Insider nas cores preta, vinho e verde vestida por modelos, em fotos oficiais da loja, com o logo e o título Black Friday da Insider",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -54761,7 +54768,14 @@ export const reviewsData: unknown[] = [
           "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em 9 de outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto de 27 de novembro.",
           "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. A de 10 de outubro dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
           "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio de 28 de novembro de 2024, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "alt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+          "caption": "O banner da coleção Black Friday 2026 no site da Insider: Descontos inteligentes, itens atemporais.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Tech T-Shirt e kits: preços de outubro",
@@ -55067,9 +55081,9 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
-    "imageAlt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
-    "imageFit": "cover",
+    "image": "/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp",
+    "imageAlt": "Latas de Nutren Senior, Nutren Protein, Nutren Control e Nutren Active, com o logo da Nestlé Nutre e o título Black Friday da Nestlé Nutre",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Nutren Senior, Just Protein e Nutren Active já tinham preço riscado em outubro",
@@ -55263,6 +55277,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Assinatura ou compra única com o cupom CECI",
+        "image": {
+          "src": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "alt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
+          "caption": "A lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
           "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
@@ -79964,8 +79985,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
-    "imageAlt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
+    "image": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
+    "imageAlt": "Whey 100% HD Gourmet da Black Skull em pote e refil e a caixa de Whey Bar Gourmet, em imagens oficiais da loja, com o logo e o título Black Friday da Black Skull",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -80006,6 +80027,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço do dia. Os dois valores são anteriores ao cupom CECILIA10."
         ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+          "alt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
+          "caption": "A página inicial da Black Skull em 14/10/2026, com o Whey Protein Concentrado a partir de R$ 139,90.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preços da Black Skull em 14 de outubro de 2026: preço de lista e preço do dia, antes do cupom CECILIA10.",
           "headers": [
@@ -80228,8 +80256,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
-    "imageAlt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+    "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp",
+    "imageAlt": "Multivitamínico Multi Max Complex e pré-treino Shook da Max Titanium, com o logo da loja e o título Black Friday da Max Titanium",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -80292,6 +80320,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
         ],
+        "image": {
+          "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+          "alt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+          "caption": "A página inicial da Max Titanium em 14/10/2026, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preços do whey e da creatina no site da Max Titanium em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto, com o preço de lista quando a loja o mostra.",
           "headers": [
@@ -80493,8 +80528,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-    "imageAlt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
+    "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover.webp",
+    "imageAlt": "Cinco potes de pasta de amendoim Dr. Peanut, com o logo da loja e o título Black Friday da Dr. Peanut",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -80550,7 +80585,14 @@ export const reviewsData: unknown[] = [
           "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
           "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM de 18/02/2025, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
           "Da Black Friday de 2025, em 14/10/2026 não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+          "alt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
+          "caption": "A página inicial da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Como o cupom entra na Black Friday",
@@ -80661,8 +80703,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
-    "imageAlt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+    "image": "/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp",
+    "imageAlt": "Potes de 900 g de Hiper 100% Whey, Iso Protein Blend e 100% Pure Whey Zero Lactose da Probiótica, em imagens oficiais da loja, com o logo e o título Black Friday da Probiótica",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -80695,7 +80737,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Probiótica não publicou data de Black Friday para 2026. Em 14 de outubro, o site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
           "A loja também não dá prazo de aviso. Os termos de uso dizem que as ofertas e promoções \"podem ser lançadas a qualquer momento, sem aviso prévio\". Uma promoção pode aparecer antes de 27 de novembro, e uma que você viu pode sair do site quando o estoque acaba."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
+          "alt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+          "caption": "A página inicial da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Preços de outubro para comparar",
@@ -80874,8 +80923,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
-    "imageAlt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
+    "image": "/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp",
+    "imageAlt": "Blazer oversized mescla, colete trespasse vermelho e camisa clássica off-white da Cléa Store vestidos por modelos, com o logo da loja e o título Black Friday da Cléa Store",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -80922,6 +80971,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O jeito mais seguro de saber se uma oferta de novembro é boa é guardar o preço de antes. Estes são os preços de tabela do site em 14/10/2026, antes de qualquer desconto, ao lado do preço que o site já mostrava naquele dia, sem cupom e sem campanha de Black Friday:"
         ],
+        "image": {
+          "src": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+          "alt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
+          "caption": "A categoria Body da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Preços na Cléa Store em 14/10/2026: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
           "headers": [
@@ -85114,8 +85170,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/belive/black-friday-belive-black-november.webp",
-    "imageAlt": "Página Black November da Belive em 16/10/2026, com o formulário de cadastro para receber ofertas exclusivas",
+    "image": "/images/reviews/belive/black-friday-belive-capa-discover.webp",
+    "imageAlt": "Pão de mel Zero e Protein Pão de Mel da Belive, com o logo da loja e o título Black Friday da Belive",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -120216,8 +120272,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/skelt/black-friday-skelt-capa.webp",
-    "imageAlt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
+    "image": "/images/reviews/skelt/black-friday-skelt-capa-discover.webp",
+    "imageAlt": "Body splashes Solar Muse, Mystic Bloom, Hidden Flowers e Pink Sands da Skelt, em imagens oficiais da loja, com o logo e o título Black Friday da Skelt",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -120353,6 +120409,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Estas etapas valem com ou sem campanha:"
         ],
+        "image": {
+          "src": "/images/reviews/skelt/black-friday-skelt-capa.webp",
+          "alt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
+          "caption": "As datas da Black Friday Skelt 2026: preço medido em 21/10, releitura no fim de outubro, live de aquecimento em 05/11, Black Friday em 27/11 e Cyber Monday em 30/11.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "Confira o preço de venda do dia, não o preço cheio.",
           "Confira o total depois do cupom e do Pix, na sacola, antes de pagar.",

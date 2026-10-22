@@ -19,9 +19,9 @@
   "publishedAtISO": "2026-10-09",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-  "imageAlt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
-  "imageFit": "cover",
+  "image": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
+  "imageAlt": "Skillet de coração da Le Creuset, aparelho de jantar verde da Porto Brasil e ramequim de coração da Le Creuset, com o logo da Let's Eat It e o título Black Friday da Let's Eat It",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
@@ -53,7 +53,14 @@
         "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
         "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
         "Quando a Let's Eat It anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+        "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
+        "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
