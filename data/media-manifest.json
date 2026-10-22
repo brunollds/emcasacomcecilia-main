@@ -74115,6 +74115,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "local_url": "/images/reviews/skelt/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51816,
+      "sha256": "3e3f9dac300d4163cc9fa60ecdfda2bfaac9f4cd91e06da23a069fcb4c836f1c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "storage_filename": "skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-reclame-aqui-nota-reputacao.json",
+          "line": 57,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 119532,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3e3f9dac300d4163cc9fa60ecdfda2bfaac9f4cd91e06da23a069fcb4c836f1c/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e3f9dac300d4163cc9fa60ecdfda2bfaac9f4cd91e06da23a069fcb4c836f1c/skelt-reclame-aqui-faixa-mes-a-mes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T00:43:43.090Z",
+      "verification_etag_or_digest": "3e3f9dac300d4163cc9fa60ecdfda2bfaac9f4cd91e06da23a069fcb4c836f1c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
       "local_url": "/images/reviews/skelt/skelt-reclame-aqui-mes-a-mes.webp",
       "media_kind": "image",
