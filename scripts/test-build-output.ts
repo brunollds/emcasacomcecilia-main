@@ -1568,7 +1568,8 @@ for (const url of articleUrls) {
   // Discover: o robots libera a imagem grande e o schema do artigo sempre diz quando foi modificado.
   assertDiscoverHead(pagePath, headOf(html));
   const articleSchema = jsonLdOf(html).find((schema) => schema['@type'] === 'Article' || schema['@type'] === 'Review');
-  assert.ok(articleSchema?.dateModified, `${pagePath}: Article/Review sem dateModified`);
+  assert.match(String(articleSchema?.dateModified ?? ''), /^\d{4}-\d{2}-\d{2}/, `${pagePath}: Article/Review sem dateModified em ISO`);
+  assert.ok(headOf(html).includes('<meta property="article:modified_time"'), `${pagePath}: <head> sem article:modified_time`);
   discoverArticles++;
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
@@ -2348,6 +2349,13 @@ const categoriasFile = builtFile(`${SITE_URL}/categorias`);
 assert.ok(categoriasFile, '/categorias: página não gerada no build');
 assert.ok(headOf(read(categoriasFile)).includes('<meta name="robots" content="noindex, follow"/>'), '/categorias: sem robots noindex, follow no <head>');
 assert.ok(!headOf(read(categoriasFile)).includes('<meta name="googlebot"'), '/categorias: googlebot do layout vazou para a página noindex');
+
+// As páginas indexáveis de cada família também levam o robots que libera a imagem grande no Discover.
+for (const pagePath of ['/', '/reviews', '/receitas/pao-naan-indiano-caseiro', '/cupons/damie']) {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  assertDiscoverHead(pagePath, headOf(read(file)));
+}
 
 // A home (D2) como o build a gerou, contra os mesmos dados que a montam: a vitrine, o "Acabou de
 // sair", a data comercial e as seções de baixo. As ofertas (no card do Dicas & Ofertas) e os vídeos
