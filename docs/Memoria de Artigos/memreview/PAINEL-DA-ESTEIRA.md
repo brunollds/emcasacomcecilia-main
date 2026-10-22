@@ -6,7 +6,11 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[bagaggio-e-confiavel]]: CNPJ do site, trocas, reembolso, retirada em loja e site oficial (PT) (briefing aprovado em 22/10/2026)
+- [ ] [[bagaggio-reclame-aqui-nota-reputacao]]: Loja Virtual Boa 7,7 em 6 meses e Ruim 5,8 em 12 meses, histórico e principais problemas (PT) (briefing aprovado em 22/10/2026)
+- [ ] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (briefing aprovado em 22/10/2026)
+- [ ] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (briefing aprovado em 22/10/2026)
+- [ ] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (briefing aprovado em 22/10/2026)
 
 ---
 
