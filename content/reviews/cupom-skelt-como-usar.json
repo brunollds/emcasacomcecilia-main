@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-21",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/skelt/cupom-skelt-capa.webp",
-  "imageAlt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
+  "image": "/images/reviews/skelt/cupom-skelt-capa-discover.webp",
+  "imageAlt": "Mousse autobronzeador da Skelt sobre fundo amarelo, com o logo da loja e o cupom SKEMCASACOMCECILIA de 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -140,7 +140,14 @@
         "Sem o cupom, os descontos somavam R$ 17,39 e o total no Pix era R$ 102,51. Com o cupom, os descontos chegaram a R$ 27,64. O cupom entrou sobre o preço que já estava com a promoção, não sobre o preço de tabela.",
         "Num segundo teste, pela API pública do carrinho no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
         "São valores de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/skelt/cupom-skelt-capa.webp",
+        "alt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
+        "caption": "O caminho do cupom em três passos, com as contas do teste de 21/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Frete grátis e o cupom",

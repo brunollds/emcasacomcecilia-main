@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
-  "imageAlt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
+  "image": "/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
+  "imageAlt": "Embalagens do 100% Pure Whey da Probiótica, com o logo da loja e o cupom PRO10EMCASACOMCECILIA de até 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -71,7 +71,14 @@
         "PRO10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Probiótica, marca brasileira de suplementos. Na loja, ele entra no campo \"Cupom de Desconto\" do carrinho.",
         "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
         "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+        "alt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
+        "caption": "O código no campo Cupom de Desconto e, ao lado, o desconto já aplicado no resumo do pedido.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "1. Entre no site pelo link da parceria",

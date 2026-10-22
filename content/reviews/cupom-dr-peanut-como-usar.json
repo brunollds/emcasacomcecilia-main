@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
-  "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+  "image": "/images/reviews/dr-peanut/cupom-dr-peanut-capa-discover.webp",
+  "imageAlt": "Potes de pasta de amendoim da Dr. Peanut em vários sabores, com o logo da loja e o cupom DREMCASACOMCECILIA de 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -51,7 +51,14 @@
       "heading": "O que é o cupom DREMCASACOMCECILIA",
       "paragraphs": [
         "O **DREMCASACOMCECILIA** é o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Ele dá 10% OFF em todo o site oficial, com qualquer forma de pagamento, e o percentual é o mesmo seja qual for o meio escolhido. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+        "alt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+        "caption": "O carrinho do nosso teste de 13/10/2026: o código digitado e, depois, aplicado.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "1. Entre no site oficial da Dr. Peanut",
