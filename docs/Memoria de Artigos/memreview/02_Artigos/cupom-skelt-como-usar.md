@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "retestar o cupom na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 82
@@ -20,7 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-publicado_em: null
+publicado_em: "2026-10-22"
+nota_publicacao: "No ar em 22/10/2026 ~00:35 UTC (PR #214 e #215, release `71e5c0d`, build `01a16133-e1d2-72a2-b0ae-ab7b88b55001`), id 586; texto conferido nas fontes antes do deploy (#215); imagens no CDN."
 nota_publicacao: null
 parceiro_slug: "skelt"
 affiliate: "skelt"
