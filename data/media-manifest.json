@@ -38239,6 +38239,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40038,
+      "sha256": "1623c0a9aa4bb12122dc96e996bd9e7872e85d5f88c341c246eb1d27622b566c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-dux-capa-discover.webp",
+      "storage_filename": "black-skull-ou-dux-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1623c0a9aa4bb12122dc96e996bd9e7872e85d5f88c341c246eb1d27622b566c/black-skull-ou-dux-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1623c0a9aa4bb12122dc96e996bd9e7872e85d5f88c341c246eb1d27622b566c/black-skull-ou-dux-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.250Z",
+      "verification_etag_or_digest": "1623c0a9aa4bb12122dc96e996bd9e7872e85d5f88c341c246eb1d27622b566c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
       "media_kind": "image",
@@ -38420,6 +38458,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T19:36:34.594Z",
       "verification_etag_or_digest": "1500359e9f2241ae411236a4a70d69d1d2949389b88dbf6ea07901168c18f444",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48080,
+      "sha256": "bc8f727dc43fd5d08576e32a691dd7e71f1252159ddb2190731676cf54fa45fa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-ou-growth-capa-discover.webp",
+      "storage_filename": "black-skull-ou-growth-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bc8f727dc43fd5d08576e32a691dd7e71f1252159ddb2190731676cf54fa45fa/black-skull-ou-growth-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc8f727dc43fd5d08576e32a691dd7e71f1252159ddb2190731676cf54fa45fa/black-skull-ou-growth-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "bc8f727dc43fd5d08576e32a691dd7e71f1252159ddb2190731676cf54fa45fa",
       "verification_status": "verified"
     },
     {
@@ -64608,6 +64684,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75040,
+      "sha256": "c4b0eb8e7adbe48cc3bef0c974f8a9a908211ff6f01282e18856e5672497ecbe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-dux-capa-discover.webp",
+      "storage_filename": "mais-mu-ou-dux-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c4b0eb8e7adbe48cc3bef0c974f8a9a908211ff6f01282e18856e5672497ecbe/mais-mu-ou-dux-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c4b0eb8e7adbe48cc3bef0c974f8a9a908211ff6f01282e18856e5672497ecbe/mais-mu-ou-dux-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "c4b0eb8e7adbe48cc3bef0c974f8a9a908211ff6f01282e18856e5672497ecbe",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
       "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
       "media_kind": "image",
@@ -64743,6 +64857,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T04:07:01.877Z",
       "verification_etag_or_digest": "c29a3ea0657ffeecb175e11f863285c4a8f0b00e57a2502f88ba8355769e15ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76758,
+      "sha256": "9a4acd7c229ea365b95c25a5a2598e0fd1e9cdc42f13852a7900982f556b4a22",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-ou-growth-capa-discover.webp",
+      "storage_filename": "mais-mu-ou-growth-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9a4acd7c229ea365b95c25a5a2598e0fd1e9cdc42f13852a7900982f556b4a22/mais-mu-ou-growth-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a4acd7c229ea365b95c25a5a2598e0fd1e9cdc42f13852a7900982f556b4a22/mais-mu-ou-growth-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "9a4acd7c229ea365b95c25a5a2598e0fd1e9cdc42f13852a7900982f556b4a22",
       "verification_status": "verified"
     },
     {
@@ -65796,6 +65948,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45226,
+      "sha256": "959be524d8994aefc4c47a4b9299a5c42c280031ef76b65facd26a26e7072e87",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-dux-capa-discover.webp",
+      "storage_filename": "max-titanium-ou-dux-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/959be524d8994aefc4c47a4b9299a5c42c280031ef76b65facd26a26e7072e87/max-titanium-ou-dux-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/959be524d8994aefc4c47a4b9299a5c42c280031ef76b65facd26a26e7072e87/max-titanium-ou-dux-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "959be524d8994aefc4c47a4b9299a5c42c280031ef76b65facd26a26e7072e87",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
       "local_url": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
       "media_kind": "image",
@@ -65931,6 +66121,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T22:50:32.613Z",
       "verification_etag_or_digest": "b59a20b06291dcc41d56050c4bba0e7c7ac24180f426ed595888da4dabe528e5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
+      "local_url": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46944,
+      "sha256": "47afbf05d71d5ae3a9110b57efcdb72f5a8ed6c34b1017ca41bc19a4e0b52105",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-ou-growth-capa-discover.webp",
+      "storage_filename": "max-titanium-ou-growth-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/max-titanium-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/max-titanium-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/47afbf05d71d5ae3a9110b57efcdb72f5a8ed6c34b1017ca41bc19a4e0b52105/max-titanium-ou-growth-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/47afbf05d71d5ae3a9110b57efcdb72f5a8ed6c34b1017ca41bc19a4e0b52105/max-titanium-ou-growth-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "47afbf05d71d5ae3a9110b57efcdb72f5a8ed6c34b1017ca41bc19a4e0b52105",
       "verification_status": "verified"
     },
     {
@@ -70845,6 +71073,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53570,
+      "sha256": "1c63dffe1bf42445e91f88c190efee2a00e3227142d4ed13b230ca696a9a7098",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-dux-capa-discover.webp",
+      "storage_filename": "probiotica-ou-dux-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-dux.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-dux.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1c63dffe1bf42445e91f88c190efee2a00e3227142d4ed13b230ca696a9a7098/probiotica-ou-dux-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c63dffe1bf42445e91f88c190efee2a00e3227142d4ed13b230ca696a9a7098/probiotica-ou-dux-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "1c63dffe1bf42445e91f88c190efee2a00e3227142d4ed13b230ca696a9a7098",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
       "local_url": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
       "media_kind": "image",
@@ -70934,6 +71200,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T22:50:32.613Z",
       "verification_etag_or_digest": "d65b23bc7d2fb0dd6e9fb3a363e741d5700c3fefceac822fd2953a3150566835",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
+      "local_url": "/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54482,
+      "sha256": "9c4e4544344ff15fcf34d579323cffe5fc75b553c0db63f31ea42a817b39be87",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "probiotica-ou-growth-capa-discover.webp",
+      "storage_filename": "probiotica-ou-growth-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/probiotica-ou-growth.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/probiotica-ou-growth.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9c4e4544344ff15fcf34d579323cffe5fc75b553c0db63f31ea42a817b39be87/probiotica-ou-growth-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c4e4544344ff15fcf34d579323cffe5fc75b553c0db63f31ea42a817b39be87/probiotica-ou-growth-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T06:29:00.251Z",
+      "verification_etag_or_digest": "9c4e4544344ff15fcf34d579323cffe5fc75b553c0db63f31ea42a817b39be87",
       "verification_status": "verified"
     },
     {

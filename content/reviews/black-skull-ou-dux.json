@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-20",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
-  "imageAlt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
+  "image": "/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
+  "imageAlt": "Whey 100% HD e creatina Creator da Black Skull, com o logo da loja e a pergunta Black Skull ou Dux",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -45,6 +45,13 @@
         "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
         "As contas são estas, arredondadas no centavo:"
       ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+        "alt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
+        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "preço por dose: preço ÷ número de doses do pote;",
         "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",

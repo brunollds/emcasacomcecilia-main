@@ -90235,8 +90235,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-18",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g em 18/10/2026: whey Black Skull 80% HD R$ 23,17, 100% HD R$ 26,66 e Growth Concentrado R$ 26,34 no Pix; creatina Black Skull Creator refil R$ 7,98, Creator 300 g R$ 9,97 e Growth refil R$ 14,98 no Pix",
+    "image": "/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp",
+    "imageAlt": "Whey 80% HD e Whey 100% HD da Black Skull, com o logo da loja e a pergunta Black Skull ou Growth",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -90260,6 +90260,13 @@ export const reviewsData: unknown[] = [
           "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista de cada página. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
           "As contas são nossas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
+          "alt": "Quadro com o preço por 100 g em 18/10/2026: whey Black Skull 80% HD R$ 23,17, 100% HD R$ 26,66 e Growth Concentrado R$ 26,34 no Pix; creatina Black Skull Creator refil R$ 7,98, Creator 300 g R$ 9,97 e Growth refil R$ 14,98 no Pix",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 18/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**preço por dose:** preço ÷ porções do rótulo;",
           "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
@@ -90571,8 +90578,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-18",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
-    "imageAlt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Growth refil R$ 14,98, Max 500 g R$ 16,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
+    "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
+    "imageAlt": "100% Whey e creatina da Max Titanium, com o logo da loja e a pergunta Max Titanium ou Growth",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -90596,6 +90603,13 @@ export const reviewsData: unknown[] = [
           "Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
           "As contas são nossas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
+          "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Growth refil R$ 14,98, Max 500 g R$ 16,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
+          "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais em 18/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**preço por dose:** preço ÷ porções;",
           "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
@@ -90989,8 +91003,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-18",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-    "imageAlt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+    "image": "/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
+    "imageAlt": "100% Pure Whey e creatina da Probiótica, com o logo da loja e a pergunta Probiótica ou Growth",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -91014,6 +91028,13 @@ export const reviewsData: unknown[] = [
           "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial em 18/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
           "As contas são nossas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
+          "alt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 18/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**preço por dose:** preço ÷ porções;",
           "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
@@ -102887,8 +102908,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
+    "image": "/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
+    "imageAlt": "Whey 100% HD e creatina Creator da Black Skull, com o logo da loja e a pergunta Black Skull ou Dux",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -102913,6 +102934,13 @@ export const reviewsData: unknown[] = [
           "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficaram de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
+          "alt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "preço por dose: preço ÷ número de doses do pote;",
           "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
@@ -103228,8 +103256,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+    "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
+    "imageAlt": "100% Whey e creatina da Max Titanium, com o logo da loja e a pergunta Max Titanium ou Dux",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -103255,6 +103283,13 @@ export const reviewsData: unknown[] = [
           "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-dux-capa.webp",
+          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 16,98 e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**preço por dose:** preço ÷ número de doses do pote;",
           "**preço por 100 g de proteína:** preço ÷ (doses × proteína por dose) × 100;",
@@ -103681,8 +103716,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Probiótica refil R$ 38,10 e pote R$ 40,82, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Probiótica 300 g R$ 18,97 e Creapure R$ 64,59, Dux monohidratada R$ 20,55 e Creapure R$ 87,05",
+    "image": "/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp",
+    "imageAlt": "100% Pure Whey e creatina da Probiótica, com o logo da loja e a pergunta Probiótica ou Dux",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -103707,6 +103742,13 @@ export const reviewsData: unknown[] = [
           "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: ninguém da equipe provou os produtos.",
           "As contas são estas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
+          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Probiótica refil R$ 38,10 e pote R$ 40,82, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Probiótica 300 g R$ 18,97 e Creapure R$ 64,59, Dux monohidratada R$ 20,55 e Creapure R$ 87,05",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 20/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "preço por dose: preço ÷ número de doses do pote;",
           "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
@@ -104855,8 +104897,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
+    "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
+    "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu, com o logo da loja e a pergunta Mais Mu ou Growth",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -104881,6 +104923,13 @@ export const reviewsData: unknown[] = [
           "A série contra a Growth tem outros três textos: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). Quem quer a comparação com a Dux lê [Mais Mu ou Dux](/reviews/mais-mu-ou-dux).",
           "As contas são nossas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-growth-capa.webp",
+          "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey Mais Mu concentrado refil 1,8 kg R$ 50,00 e isolado refil 900 g R$ 71,63, Growth concentrado 1 kg R$ 29,26 e isolado 1 kg R$ 43,63; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Growth refil 500 g R$ 16,64 e pote 500 g R$ 18,87",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
           "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
@@ -105151,8 +105200,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
-    "imageAlt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
+    "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
+    "imageAlt": "Whey isolado, whey concentrado e proteína vegetal da Mais Mu, com o logo da loja e a pergunta Mais Mu ou Dux",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -105177,6 +105226,13 @@ export const reviewsData: unknown[] = [
           "A série contra a Dux tem outros três textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Mais Mu ou Growth](/reviews/mais-mu-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
+        "image": {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp",
+          "alt": "Quadro com o preço por 100 g no cartão em 21/10/2026: whey concentrado Mais Mu refil 1,8 kg R$ 50,00 e refil 900 g R$ 56,00, Dux 1,8 kg R$ 53,99 e 900 g R$ 61,48; creatina Mais Mu refil 500 g R$ 15,98 e 200 g R$ 32,45, Dux monohidratada 300 g R$ 21,63 e Creapure 300 g R$ 91,63",
+          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais em 21/10/2026, sem frete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "preço por dose: preço ÷ número de doses;",
           "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
