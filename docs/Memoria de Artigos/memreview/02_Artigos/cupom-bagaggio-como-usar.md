@@ -6,9 +6,9 @@ parceiro: "[[Bagaggio]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "PR e deploy"
 bloqueado_por: null
 score_autoridade: 56
 score_conversao: 80
@@ -261,3 +261,16 @@ As dúvidas fechadas seguem com o número original, para as referências no text
 4. **Formas de pagamento (dúvida 4):** o texto diz que vale em todas as formas de pagamento, que é o padrão dos textos do site.
 5. **Black Skull (dúvida 6):** é o mesmo código em lojas diferentes. O texto não cita a Black Skull nem leva link para ela.
 6. **Black Friday (dúvida 7):** a soma do cupom com as ofertas de novembro fica pendente, sem afirmar nada, e o CECILIA10 é testado quando a campanha abrir.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 22/10/2026)
+
+Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no corpo na segunda). Upload FTPS, verificação HTTPS e mapa de entrega em 22/10/2026. Fotos oficiais do catálogo público da loja (VTEX), lidas em 22/10/2026.
+
+- **Capa:** `/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Mala de bordo Downtown Preta vendida pela Bagaggio, de frente, de lado e de costas, com o logo da loja e o cupom CECILIA10 de 10% OFF". Origem: Fotos oficiais da Downtown PP preta (frente, lado e costas); gerador do repositório.
+- **O que é o cupom CECILIA10:** `/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp` (square, 1.0). Alt: "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio". Legenda: "Mala de bordo Route preta. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route P preta, marca Bagaggio).
+- **3. Cole o código no campo Cupom de desconto:** `/images/reviews/bagaggio/cupom-sacola-sem-cupom.webp` (contain, 1.0959). Alt: "Sacola da Bagaggio antes do cupom: os campos Código de vendedor(a) ou influenciador(a) e Cupom de desconto vazios, com a mala Downtown Preta a R$ 179,90 e total de R$ 179,90". Legenda: "Sacola em 22/10/2026, sem cupom. O CECILIA10 vai no campo de baixo, Cupom de desconto.". Origem: Print da sacola de 22/10, recortado no resumo.
+- **4. Confira o resumo antes de escolher o pagamento:** `/images/reviews/bagaggio/cupom-sacola-com-cupom.webp` (contain, 1.3056). Alt: "Sacola da Bagaggio com o CECILIA10 aplicado: etiqueta no campo Cupom de desconto, subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91". Legenda: "Sacola em 22/10/2026, com o CECILIA10 aplicado.". Origem: Print da sacola de 22/10, recortado no resumo.
+- **O que aconteceu no nosso teste:** `/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp` (contain, 1.7778). Alt: "Quadro com a conta da mala Downtown Preta do Outlet: R$ 249,90 de tabela, R$ 179,90 na loja, R$ 161,91 com o CECILIA10 e R$ 153,81 no Pix". Legenda: "Conta da Downtown Preta do Outlet no teste de 22/10/2026. Quadro feito por nós.". Origem: Quadro nosso com a conta do teste.
+- **O que aconteceu no nosso teste:** `/images/reviews/bagaggio/cupom-teste-kidgo-detroit.webp` (contain, 2.1053). Alt: "As malas de bordo KidGo Preta e Detroit Preta da Bagaggio, lado a lado, em fotos oficiais da loja". Legenda: "Os outros dois produtos do teste de 22/10/2026: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.". Origem: Montagem nossa com fotos oficiais (KidGo preta e Detroit P preta, marca Bagaggio).
+- **Quando a 2ª peça rende mais que o 10%:** `/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp` (square, 1.0). Alt: "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão". Legenda: "Malas Route vinho da Bagaggio. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route G vinho, marca Bagaggio).
+- **E a garantia vitalícia?:** `/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp` (square, 1.0). Alt: "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm". Legenda: "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.". Origem: Imagem oficial da ficha da Detroit P preta no catálogo (marca Bagaggio), com o selo de garantia vitalícia.
