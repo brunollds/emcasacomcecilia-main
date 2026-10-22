@@ -2033,6 +2033,12 @@ export const COUPONS: Coupon[] = [
           'Sim. No teste de checkout de 22/10/2026, o CECILIA10 aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
       },
       {
+        question: 'O cupom CECILIA10 vale no Mercado Livre?',
+        answer:
+          'Não. O CECILIA10 é usado no carrinho do site oficial da Bagaggio e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2KeydkG',
+      },
+      {
         question: 'Onde coloco o cupom na Bagaggio?',
         answer: 'No campo de cupom de desconto do carrinho, antes de escolher a forma de pagamento.',
       },
