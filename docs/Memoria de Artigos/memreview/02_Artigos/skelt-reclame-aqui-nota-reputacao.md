@@ -6,15 +6,16 @@ parceiro: "[[Skelt]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler o Reclame Aqui na revisão mensal de novembro de 2026"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 68
 score_ponderado_total: 80
 data_criacao: "2026-10-21"
-publicado_em: null
+publicado_em: "2026-10-22"
+nota_publicacao: "No ar em 22/10/2026 ~00:35 UTC (PR #214 e #215, release `71e5c0d`, build `01a16133-e1d2-72a2-b0ae-ab7b88b55001`), id 585; texto conferido nas fontes antes do deploy (#215); imagens no CDN."
 nota_publicacao: null
 i18n_cluster: null
 translationKey: null
