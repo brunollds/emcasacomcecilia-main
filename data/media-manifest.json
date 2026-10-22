@@ -420,6 +420,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/bagaggio-icon.png",
+      "local_url": "/images/about/partners/bagaggio-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 5547,
+      "sha256": "2768a20b7e596b12b18bfd3deba2f131c6f18692fbe92aa83e8076085f24f133",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "bagaggio-icon.png",
+      "storage_filename": "bagaggio-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+          "line": 61,
+          "column": 4,
+          "literal": "/images/about/partners/bagaggio-icon.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1977,
+          "column": 17,
+          "literal": "/images/about/partners/bagaggio-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2768a20b7e596b12b18bfd3deba2f131c6f18692fbe92aa83e8076085f24f133/bagaggio-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2768a20b7e596b12b18bfd3deba2f131c6f18692fbe92aa83e8076085f24f133/bagaggio-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T19:01:35.332Z",
+      "verification_etag_or_digest": "2768a20b7e596b12b18bfd3deba2f131c6f18692fbe92aa83e8076085f24f133",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/bagaggio.png",
+      "local_url": "/images/about/partners/bagaggio.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 14871,
+      "sha256": "9738bcbe6119ae8fd1083584d14c96cd92b2c0c245ff50654e26796f1a074e04",
+      "width": 300,
+      "height": 44,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "bagaggio.png",
+      "storage_filename": "bagaggio.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+        "src/lib/aboutPage.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+          "line": 60,
+          "column": 4,
+          "literal": "/images/about/partners/bagaggio.png",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/aboutPage.ts",
+          "line": 78,
+          "column": 29,
+          "literal": "/images/about/partners/bagaggio.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9738bcbe6119ae8fd1083584d14c96cd92b2c0c245ff50654e26796f1a074e04/bagaggio.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9738bcbe6119ae8fd1083584d14c96cd92b2c0c245ff50654e26796f1a074e04/bagaggio.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T19:01:35.333Z",
+      "verification_etag_or_digest": "9738bcbe6119ae8fd1083584d14c96cd92b2c0c245ff50654e26796f1a074e04",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/belive-icon.png",
       "local_url": "/images/about/partners/belive-icon.png",
       "staged": true,
@@ -21763,6 +21855,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "730c4f149480a31c077c321fe8c5a32e5e4f0372e1cb9b5a9f9428868531628d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/bagaggio.webp",
+      "local_url": "/images/logos/watermarks/bagaggio.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15030,
+      "sha256": "4dcedff7abf26d902243a5cf2752b97160a3b9e9689105af4d3d21f85c6dcc81",
+      "width": 480,
+      "height": 70,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "bagaggio.webp",
+      "storage_filename": "bagaggio.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Bagaggio.md",
+          "line": 62,
+          "column": 4,
+          "literal": "/images/logos/watermarks/bagaggio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1979,
+          "column": 22,
+          "literal": "/images/logos/watermarks/bagaggio.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4dcedff7abf26d902243a5cf2752b97160a3b9e9689105af4d3d21f85c6dcc81/bagaggio.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4dcedff7abf26d902243a5cf2752b97160a3b9e9689105af4d3d21f85c6dcc81/bagaggio.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T19:01:35.333Z",
+      "verification_etag_or_digest": "4dcedff7abf26d902243a5cf2752b97160a3b9e9689105af4d3d21f85c6dcc81",
       "verification_status": "verified"
     },
     {

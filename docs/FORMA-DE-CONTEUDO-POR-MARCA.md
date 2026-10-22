@@ -169,6 +169,7 @@ acervo, não regra para linkar em massa.
 | Belive | não medido | parceria nova (16/10/2026); só `/cupons/belive`, sem artigo |
 | Mais Mu | não medido | parceria nova (20/10/2026); só `/cupons/mais-mu`, sem artigo |
 | Skelt | não medido | parceria nova (21/10/2026); só `/cupons/skelt`, sem artigo |
+| Bagaggio | não medido | parceria nova (22/10/2026); só `/cupons/bagaggio`, sem artigo |
 | Hostinger | não medido | indicação nova (19/10/2026); `/cupons/hostinger` e a página nos 9 idiomas, sem artigo; fora do tema do site, artigo só por decisão do Bruno |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
