@@ -75074,8 +75074,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
-    "imageAlt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
+    "image": "/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
+    "imageAlt": "Embalagens do 100% Pure Whey da Probiótica, com o logo da loja e o cupom PRO10EMCASACOMCECILIA de até 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -75126,7 +75126,14 @@ export const reviewsData: unknown[] = [
           "PRO10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Probiótica, marca brasileira de suplementos. Na loja, ele entra no campo \"Cupom de Desconto\" do carrinho.",
           "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
           "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+          "alt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
+          "caption": "O código no campo Cupom de Desconto e, ao lado, o desconto já aplicado no resumo do pedido.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "1. Entre no site pelo link da parceria",
@@ -75805,8 +75812,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
-    "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+    "image": "/images/reviews/dr-peanut/cupom-dr-peanut-capa-discover.webp",
+    "imageAlt": "Potes de pasta de amendoim da Dr. Peanut em vários sabores, com o logo da loja e o cupom DREMCASACOMCECILIA de 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -75837,7 +75844,14 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o cupom DREMCASACOMCECILIA",
         "paragraphs": [
           "O **DREMCASACOMCECILIA** é o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Ele dá 10% OFF em todo o site oficial, com qualquer forma de pagamento, e o percentual é o mesmo seja qual for o meio escolhido. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+          "alt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+          "caption": "O carrinho do nosso teste de 13/10/2026: o código digitado e, depois, aplicado.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "1. Entre no site oficial da Dr. Peanut",
@@ -76563,8 +76577,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
-    "imageAlt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
+    "image": "/images/reviews/black-skull/cupom-black-skull-capa-discover.webp",
+    "imageAlt": "Whey 80% HD e Whey 100% HD da Black Skull, com o logo da loja e o cupom CECILIA10 de 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -76602,7 +76616,14 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+          "alt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
+          "caption": "A sacola do nosso teste de 13/10/2026: o CECILIA10 digitado e, ao lado, já aplicado.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "1. Entre no site oficial da Black Skull",
@@ -78886,8 +78907,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
-    "imageAlt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
+    "image": "/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp",
+    "imageAlt": "100% Whey e Top Whey 3W da Max Titanium, com o logo da loja e o cupom MAX10EMCASACOMCECILIA de até 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -78964,7 +78985,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No resumo do pedido está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **MAX10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
           "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+          "alt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
+          "caption": "O campo Cupom de Desconto vazio e, ao lado, o código aplicado com a linha Descontos.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "4. Confira o desconto no resumo antes de pagar",
@@ -79622,8 +79650,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
-    "imageAlt": "Montagem do resumo do pedido da Cléa Store: antes, com o campo Cupom de desconto, e depois, com o CSEMCASACOMCECILIA aplicado e o desconto de R$ 25,80",
+    "image": "/images/reviews/clea-store/cupom-clea-store-capa-discover.webp",
+    "imageAlt": "Três bodies da Cléa Store vestidos por modelos, com o logo da loja e o cupom CSEMCASACOMCECILIA de 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -79674,7 +79702,14 @@ export const reviewsData: unknown[] = [
           "CSEMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Cléa Store, loja de moda. Ele dá 10% OFF em todo o site oficial e é digitado no carrinho.",
           "Os termos da loja chamam esse código de \"voucher\". A central de atendimento chama de \"cupom\". É o mesmo desconto.",
           "O cupom vale na primeira compra e nas seguintes. Não importa se a conta é nova ou antiga."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+          "alt": "Montagem do resumo do pedido da Cléa Store: antes, com o campo Cupom de desconto, e depois, com o CSEMCASACOMCECILIA aplicado e o desconto de R$ 25,80",
+          "caption": "O resumo do pedido antes e depois do código: o desconto aparece numa linha própria assim que o CSEMCASACOMCECILIA é aceito.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "1. Entre no site da Cléa Store",
@@ -84683,8 +84718,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/belive/cupom-belive-capa.webp",
-    "imageAlt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
+    "image": "/images/reviews/belive/cupom-belive-capa-discover.webp",
+    "imageAlt": "Brownies sem açúcar da Belive em oito sabores, com o logo da loja e o desconto de 10% do cupom da Cecília",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -84813,7 +84848,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/belive/cupom-belive-capa.webp",
+          "alt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
+          "caption": "O carrinho do teste com o código aplicado: desconto de R$ 57,68 e total de R$ 519,14.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O 5% do Pix soma com o cupom",
@@ -104305,8 +104347,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
-    "imageAlt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
+    "image": "/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp",
+    "imageAlt": "Caixas das barras de proteína Mukebar, Chocowheyfer e Crush Bar da Mais Mu, com o logo da loja e o cupom MMEMCASACOMCECILIA de 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -104412,7 +104454,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O desconto de 10% entrou também na creatina, que já estava em oferta. No teste, o cupom somou com a promoção. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+          "alt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
+          "caption": "Os dois produtos do teste: Whey Protein paçoquita 450 g e Creatina 100% Pura refil 500 g.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Frete grátis com o cupom",
@@ -119729,8 +119778,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-21",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/skelt/cupom-skelt-capa.webp",
-    "imageAlt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
+    "image": "/images/reviews/skelt/cupom-skelt-capa-discover.webp",
+    "imageAlt": "Mousse autobronzeador da Skelt sobre fundo amarelo, com o logo da loja e o cupom SKEMCASACOMCECILIA de 10% OFF",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -119850,7 +119899,14 @@ export const reviewsData: unknown[] = [
           "Sem o cupom, os descontos somavam R$ 17,39 e o total no Pix era R$ 102,51. Com o cupom, os descontos chegaram a R$ 27,64. O cupom entrou sobre o preço que já estava com a promoção, não sobre o preço de tabela.",
           "Num segundo teste, pela API pública do carrinho no mesmo dia, um body splash e o mousse somavam R$ 219,80 de tabela. Com a promoção do site, foram para R$ 197,82; com o cupom, R$ 178,04; no Pix, R$ 169,13. Não houve dado pessoal nem finalização.",
           "São valores de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/skelt/cupom-skelt-capa.webp",
+          "alt": "Desenho do caminho do cupom SKEMCASACOMCECILIA na Skelt em três passos: campo Cupom de desconto, botão OK e resumo com o total, com as contas do teste de 21/10/2026",
+          "caption": "O caminho do cupom em três passos, com as contas do teste de 21/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Frete grátis e o cupom",

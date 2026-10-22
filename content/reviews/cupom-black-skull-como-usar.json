@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
-  "imageAlt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
+  "image": "/images/reviews/black-skull/cupom-black-skull-capa-discover.webp",
+  "imageAlt": "Whey 80% HD e Whey 100% HD da Black Skull, com o logo da loja e o cupom CECILIA10 de 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -58,7 +58,14 @@
       ],
       "postParagraphs": [
         "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+        "alt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
+        "caption": "A sacola do nosso teste de 13/10/2026: o CECILIA10 digitado e, ao lado, já aplicado.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "1. Entre no site oficial da Black Skull",

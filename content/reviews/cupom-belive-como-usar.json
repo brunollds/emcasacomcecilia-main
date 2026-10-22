@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-16",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/belive/cupom-belive-capa.webp",
-  "imageAlt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
+  "image": "/images/reviews/belive/cupom-belive-capa-discover.webp",
+  "imageAlt": "Brownies sem açúcar da Belive em oito sabores, com o logo da loja e o desconto de 10% do cupom da Cecília",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -149,7 +149,14 @@
       },
       "postParagraphs": [
         "Sem o cupom, o mesmo carrinho saía por R$ 547,98 no Pix. Com o MAUAD e o Pix, o pedido ficou R$ 54,80 mais barato do que só no Pix (conta nossa)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/belive/cupom-belive-capa.webp",
+        "alt": "Carrinho da Belive com o código MAUAD aplicado, o desconto de R$ 57,68 e o total de R$ 519,14",
+        "caption": "O carrinho do teste com o código aplicado: desconto de R$ 57,68 e total de R$ 519,14.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O 5% do Pix soma com o cupom",

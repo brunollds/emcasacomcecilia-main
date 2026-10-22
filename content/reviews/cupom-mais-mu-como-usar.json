@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-20",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
-  "imageAlt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
+  "image": "/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp",
+  "imageAlt": "Caixas das barras de proteína Mukebar, Chocowheyfer e Crush Bar da Mais Mu, com o logo da loja e o cupom MMEMCASACOMCECILIA de 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -126,7 +126,14 @@
       },
       "postParagraphs": [
         "O desconto de 10% entrou também na creatina, que já estava em oferta. No teste, o cupom somou com a promoção. Foi um carrinho com dois itens, então ele não mostra todos os casos. Confira a linha do desconto no seu carrinho."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
+        "alt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
+        "caption": "Os dois produtos do teste: Whey Protein paçoquita 450 g e Creatina 100% Pura refil 500 g.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Frete grátis com o cupom",

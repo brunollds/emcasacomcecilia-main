@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
-  "imageAlt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
+  "image": "/images/reviews/max-titanium/cupom-max-titanium-capa-discover.webp",
+  "imageAlt": "100% Whey e Top Whey 3W da Max Titanium, com o logo da loja e o cupom MAX10EMCASACOMCECILIA de até 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -97,7 +97,14 @@
       "paragraphs": [
         "No resumo do pedido está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **MAX10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
         "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
+        "alt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
+        "caption": "O campo Cupom de Desconto vazio e, ao lado, o código aplicado com a linha Descontos.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "4. Confira o desconto no resumo antes de pagar",

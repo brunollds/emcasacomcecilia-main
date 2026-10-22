@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-14",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
-  "imageAlt": "Montagem do resumo do pedido da Cléa Store: antes, com o campo Cupom de desconto, e depois, com o CSEMCASACOMCECILIA aplicado e o desconto de R$ 25,80",
+  "image": "/images/reviews/clea-store/cupom-clea-store-capa-discover.webp",
+  "imageAlt": "Três bodies da Cléa Store vestidos por modelos, com o logo da loja e o cupom CSEMCASACOMCECILIA de 10% OFF",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -71,7 +71,14 @@
         "CSEMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Cléa Store, loja de moda. Ele dá 10% OFF em todo o site oficial e é digitado no carrinho.",
         "Os termos da loja chamam esse código de \"voucher\". A central de atendimento chama de \"cupom\". É o mesmo desconto.",
         "O cupom vale na primeira compra e nas seguintes. Não importa se a conta é nova ou antiga."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/clea-store/clea-store-cupom-capa.webp",
+        "alt": "Montagem do resumo do pedido da Cléa Store: antes, com o campo Cupom de desconto, e depois, com o CSEMCASACOMCECILIA aplicado e o desconto de R$ 25,80",
+        "caption": "O resumo do pedido antes e depois do código: o desconto aparece numa linha própria assim que o CSEMCASACOMCECILIA é aceito.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "1. Entre no site da Cléa Store",
