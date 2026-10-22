@@ -77691,6 +77691,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107708,
+      "sha256": "739d4bbf890f8b976329137b68484f23326c0a6953dc71c29c91ec7418cb6e7d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-capa-discover.webp",
+      "storage_filename": "yesstyle-entrega-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/739d4bbf890f8b976329137b68484f23326c0a6953dc71c29c91ec7418cb6e7d/yesstyle-entrega-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/739d4bbf890f8b976329137b68484f23326c0a6953dc71c29c91ec7418cb6e7d/yesstyle-entrega-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T07:19:07.769Z",
+      "verification_etag_or_digest": "739d4bbf890f8b976329137b68484f23326c0a6953dc71c29c91ec7418cb6e7d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
       "media_kind": "image",
@@ -79050,6 +79160,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91048,
+      "sha256": "5d3fbd49e921b4fffe673dbf33513834eb61e3b6597f9c942caafed226c9ef28",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-olive-young-capa-discover.webp",
+      "storage_filename": "yesstyle-ou-olive-young-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+        "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+        "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+        "content/reviews/yesstyle-ou-olive-young.json",
+        "content/reviews/yesstyle-vs-olive-young-ja.json",
+        "content/reviews/yesstyle-vs-olive-young-ko.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+        "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+        "content/reviews/yesstyle-vs-olive-young.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-olive-young-quale-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-olive-young-welcher-shop.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young-que-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-olive-young.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-olive-young.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5d3fbd49e921b4fffe673dbf33513834eb61e3b6597f9c942caafed226c9ef28/yesstyle-ou-olive-young-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d3fbd49e921b4fffe673dbf33513834eb61e3b6597f9c942caafed226c9ef28/yesstyle-ou-olive-young-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T07:19:07.769Z",
+      "verification_etag_or_digest": "5d3fbd49e921b4fffe673dbf33513834eb61e3b6597f9c942caafed226c9ef28",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
       "local_url": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa.webp",
       "media_kind": "image",
@@ -79228,6 +79448,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T18:16:46.749Z",
       "verification_etag_or_digest": "7dd43d088cfd716f0b79a3e8a436a1220e5158069114f231ea03f5a1155fbb87",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81970,
+      "sha256": "288f4e79b84fb83a51c729e5b1e05b396dfca10c29ded97f0b10d125e26d9a5d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-stylevana-capa-discover.webp",
+      "storage_filename": "yesstyle-ou-stylevana-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+        "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+        "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+        "content/reviews/yesstyle-ou-stylevana.json",
+        "content/reviews/yesstyle-vs-stylevana-ja.json",
+        "content/reviews/yesstyle-vs-stylevana-ko.json",
+        "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/288f4e79b84fb83a51c729e5b1e05b396dfca10c29ded97f0b10d125e26d9a5d/yesstyle-ou-stylevana-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/288f4e79b84fb83a51c729e5b1e05b396dfca10c29ded97f0b10d125e26d9a5d/yesstyle-ou-stylevana-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T07:19:07.769Z",
+      "verification_etag_or_digest": "288f4e79b84fb83a51c729e5b1e05b396dfca10c29ded97f0b10d125e26d9a5d",
       "verification_status": "verified"
     },
     {
