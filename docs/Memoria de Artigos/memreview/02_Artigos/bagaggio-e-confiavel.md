@@ -6,9 +6,9 @@ parceiro: "[[Bagaggio]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "PR e deploy"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 72
@@ -327,3 +327,14 @@ Pauta aprovada em 22/10/2026. As perguntas abertas abaixo ficaram respondidas as
    buscas próprias. O quadro de exclusões, o fluxo de análise por fotos e o caso do dano em voo cabem em um artigo próprio;
    neste fica só o quadro resumido.
 8. **Franquias:** a FAQ diz que a loja tem franquias. Recomendação: o artigo não cita. Confirma?
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 22/10/2026)
+
+Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no corpo na segunda). Upload FTPS, verificação HTTPS e mapa de entrega em 22/10/2026. Fotos oficiais do catálogo público da loja (VTEX), lidas em 22/10/2026.
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Três malas Detroit da Bagaggio, vermelha, rosé e preta, com o logo da loja, a pergunta Bagaggio é confiável? e os selos do perfil no Reclame Aqui lidos em 22/10/2026". Origem: Fotos oficiais do catálogo (Detroit G vermelha, Detroit G rosé, Detroit P preta; marca Bagaggio) e selos recortados do print do RA de 22/10; gerador do repositório.
+- **Quem opera a Bagaggio:** `/images/reviews/bagaggio/bagaggio-e-confiavel-rodape-cnpj.webp` (contain, 4.3048). Alt: "Rodapé do checkout de bagaggio.com.br com a razão social BAG-ONLINE COMERCIO DE BOLSAS LTDA, o CNPJ 08.956.394/0001-68 e o endereço em Xerém, Duque de Caxias". Legenda: "Rodapé do checkout de bagaggio.com.br, capturado em 22/10/2026. O destaque nos dados da empresa é nosso.". Origem: Print do rodapé do checkout (22/10), linha dividida em duas; marca-texto nosso.
+- **De qual país é a Bagaggio e o que dizem as três datas:** `/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp` (square, 1.0). Alt: "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão". Legenda: "Malas Route vinho da Bagaggio. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route G vinho, marca Bagaggio).
+- **Garantia vitalícia, em resumo:** `/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp` (square, 1.0). Alt: "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm". Legenda: "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.". Origem: Imagem oficial da ficha da Detroit P preta no catálogo (marca Bagaggio), com o selo de garantia vitalícia.
+- **Frete e retirada em loja:** `/images/reviews/bagaggio/bagaggio-cartagena-preta.webp` (portrait, 0.5287). Alt: "Mala Pequena Cartagena Preta da Bagaggio, de frente, com a alça puxada". Legenda: "Mala Pequena Cartagena Preta, da marca Bagaggio. Foto oficial da loja.". Origem: Foto oficial do catálogo (Cartagena P preta, marca Bagaggio), fundo recortado.
+- **Vale a pena comprar na Bagaggio?:** `/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp` (square, 1.0). Alt: "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio". Legenda: "Mala de bordo Route preta. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route P preta, marca Bagaggio).

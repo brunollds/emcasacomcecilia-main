@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Garantia"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "PR e deploy"
 bloqueado_por: null
 score_autoridade: 77
 score_conversao: 70
@@ -255,3 +255,15 @@ FAQ (formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
 1. **Compra online: onde acionar.** O Termo (seção V) diz que a compra online vai ao Troque Fácil. A página de garantia (seção IV) diz que pode ir a qualquer loja física própria, e só usa o Troque Fácil se não houver loja na região. Recomendação: escrever as duas, cada uma com a fonte, e dizer que a loja usa dois textos. Você confirma, ou prefere perguntar à loja antes?
 2. **Troca: voucher ou produto.** A página de garantia (seção III) diz que a troca é por voucher. O Termo (seção VI) fala em substituição do produto. Recomendação: citar o voucher como a loja diz, com a fonte, sem afirmar o que a loja faz na prática. Confirma?
 3. **Mala comprada antes de 29/04/2024.** O texto não diz o que vale para ela. Recomendação: o artigo dá a data e não diz o que vale antes dela. Perguntar à loja antes de publicar, se você quiser a resposta. Confirma?
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 22/10/2026)
+
+Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no corpo na segunda). Upload FTPS, verificação HTTPS e mapa de entrega em 22/10/2026. Fotos oficiais do catálogo público da loja (VTEX), lidas em 22/10/2026.
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Mulher com uma mala Detroit vermelha da Bagaggio, em foto oficial da loja, com o logo e o título Garantia vitalícia das malas". Origem: Foto oficial de ambiente (Detroit G vermelha) sobre o fundo dela desfocado; gerador do repositório.
+- **Mochila tem garantia vitalícia?:** `/images/reviews/bagaggio/bf-mochila-floral-camelia.webp` (portrait, 0.7219). Alt: "Mochila Feminina Floral Camélia Rosa, da marca Bagaggio, em foto oficial da loja". Legenda: "Mochila Floral Camélia Rosa, da marca Bagaggio: mochila segue a garantia da etiqueta, não a vitalícia. Foto oficial da loja.". Origem: Foto oficial do catálogo (Mochila Floral Camélia Rosa, marca Bagaggio), fundo recortado.
+- **Quem tem direito:** `/images/reviews/bagaggio/garantia-print-pagina-oficial.webp` (contain, 1.7131). Alt: "Print da página oficial Garantia Vitalícia Bagaggio, com o título, a frase sobre vícios de fabricação e a regra de que a garantia vale só para malas da marca, a partir de 29/04/2024". Legenda: "Página oficial da garantia, lida em 22/10/2026.". Origem: Recaptura da página /garantia-vitalicia (22/10, headless, página pública).
+- **O que cobre e o que não cobre:** `/images/reviews/bagaggio/garantia-quadro-cobre-nao-cobre.webp` (contain, 1.3333). Alt: "Quadro com duas colunas: à esquerda, o que a garantia cobre, como falha de fabricação e defeito de montagem; à direita, o que não cobre, como queda, desgaste das rodas, zíper danificado por uso, manchas e dano no voo". Legenda: "Quadro feito por nós, com base na página de garantia lida em 22/10/2026.". Origem: Quadro nosso com o Termo da garantia.
+- **Garantia comum e vitalícia:** `/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp` (square, 1.0). Alt: "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm". Legenda: "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.". Origem: Imagem oficial da ficha da Detroit P preta no catálogo (marca Bagaggio), com o selo de garantia vitalícia.
+- **Dano no voo: o que fazer:** `/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp` (square, 1.0). Alt: "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio". Legenda: "Mala de bordo Route preta. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route P preta, marca Bagaggio).
+- **Como acionar, por canal:** `/images/reviews/bagaggio/garantia-detroit-angulos.webp` (contain, 2.1053). Alt: "Mala Detroit vermelha da Bagaggio fotografada de frente, em ângulo e de lado". Legenda: "Exemplo de ângulos para as fotos da análise, com fotos oficiais da Detroit vermelha. A loja pede também a foto de costas, a nota fiscal e a avaria visível.". Origem: Montagem nossa com fotos oficiais da Detroit G vermelha (frente, ângulo, lado).

@@ -6,9 +6,9 @@ parceiro: "[[Bagaggio]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "PR e deploy"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 70
@@ -236,3 +236,14 @@ Pauta aprovada em 22/10/2026. As perguntas abertas abaixo ficaram respondidas as
 6. **Capa:** (a) foto oficial da mala Downtown PP Preta com faixa de logo, ou (b) quadro da linha do tempo? Recomendação: (a) como capa, com o quadro no corpo.
 7. **Perfis do Reclame Aqui:** cito no artigo o perfil "Bagaggio Oficial" (0% de respostas) e o "BAGAGGIO" (CNPJ de outra empresa, de Santo André), ou só oriento a conferir o CNPJ 08.956.394/0001-68? Recomendação: só a orientação pelo CNPJ.
 8. **Entrada na faixa:** confirma que `black-friday-bagaggio` entra no fim de `articleSlugs` do evento `black-friday-2026` em `content/home-events.json`, no mesmo PR do JSON do artigo, depois de `black-friday-skelt`? Assim aparece só em `/black-friday`, e a faixa da home não muda. Esse arquivo não é editado nesta pauta.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 22/10/2026)
+
+Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no corpo na segunda). Upload FTPS, verificação HTTPS e mapa de entrega em 22/10/2026. Fotos oficiais do catálogo público da loja (VTEX), lidas em 22/10/2026.
+
+- **Capa:** `/images/reviews/bagaggio/black-friday-bagaggio-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Mulher com uma mala de bordo Route preta da Bagaggio, em foto oficial da loja, com o logo e o título Black Friday da Bagaggio". Origem: Foto oficial de ambiente (Route P preta) sobre o fundo dela desfocado; gerador do repositório.
+- **Calendário de novembro:** `/images/reviews/bagaggio/bf-linha-do-tempo.webp` (contain, 1.7778). Alt: "Linha do tempo da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11". Legenda: "As datas da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11, a confirmar.". Origem: Quadro nosso.
+- **Preços de 22/10/2026 para comparar:** `/images/reviews/bagaggio/bf-malas-da-tabela.webp` (contain, 2.1053). Alt: "Três itens da tabela de preços da Bagaggio: o conjunto de malas Downtown e Detroit pretas, a mala de bordo Route preta e a mala Detroit de 32 kg vermelha". Legenda: "Três itens da tabela de 22/10/2026: o conjunto Downtown + Detroit, a Route de 10 kg e a Detroit de 32 kg. Fotos oficiais da loja.". Origem: Montagem nossa com fotos oficiais (conjunto Downtown + Detroit, Route P preta, Detroit G vermelha).
+- **Cupom na sacola: a conta com o Pix:** `/images/reviews/bagaggio/bagaggio-downtown-preta.webp` (portrait, 0.5057). Alt: "Mala de Bordo PP Downtown Preta, de frente, com a alça puxada". Legenda: "Mala de Bordo PP Downtown Preta, a do teste de 22/10/2026. Foto oficial da loja.". Origem: Foto oficial do catálogo (Downtown PP preta), fundo recortado.
+- **Garantia: malas e mochilas são diferentes:** `/images/reviews/bagaggio/bf-mochila-floral-camelia.webp` (portrait, 0.7219). Alt: "Foto oficial da Mochila Feminina Floral Camélia Rosa da Bagaggio, no site da loja". Legenda: "Mochila Feminina Floral Camélia Rosa, foto oficial do site lida em 22/10/2026: de R$ 79,90 por R$ 69,90, sem cupom.". Origem: Foto oficial do catálogo (Mochila Floral Camélia Rosa, marca Bagaggio), fundo recortado.
+- **Vale esperar novembro?:** `/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp` (square, 1.0). Alt: "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão". Legenda: "Malas Route vinho da Bagaggio. Foto oficial da loja.". Origem: Foto oficial de ambiente do catálogo (Route G vinho, marca Bagaggio).

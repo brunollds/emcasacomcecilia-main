@@ -120476,5 +120476,1346 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
       }
     ]
+  },
+  {
+    "id": 588,
+    "slug": "bagaggio-e-confiavel",
+    "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia",
+    "seoTitle": "Bagaggio é confiável? CNPJ, site oficial e garantia",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem opera a Bagaggio, o que as datas do site significam, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e garantia.",
+    "metaDescription": "A Bagaggio é confiável? Veja a empresa por trás do site, o CNPJ do rodapé, as três datas da marca, a garantia vitalícia, as trocas e como conferir o site oficial.",
+    "publishedAt": "22 de outubro de 2026",
+    "publishedAtISO": "2026-10-22",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
+    "imageAlt": "Três malas Detroit da Bagaggio, vermelha, rosé e preta, com o logo da loja, a pergunta Bagaggio é confiável? e os selos do perfil no Reclame Aqui lidos em 22/10/2026",
+    "imageFit": "contain",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Bagaggio é operada por uma empresa registrada no Brasil. O rodapé de bagaggio.com.br traz a razão social BAG-ONLINE COMERCIO DE BOLSAS LTDA e o CNPJ 08.956.394/0001-68, com sede em Xerém, Duque de Caxias (RJ). Na base pública da Receita, consultada pela BrasilAPI em 22/10/2026, esse CNPJ está ativo e é a matriz.",
+          "Ter CNPJ ativo não responde tudo. O site traz três datas que se misturam, e a loja não explica a ligação entre elas. Frases de ranking que aparecem no site também não batem com a reputação pública da loja, então este texto não as repete.",
+          "Para comprar com mais segurança, confira o endereço e o CNPJ no rodapé, compre dentro do site e guarde o número do pedido. A troca por arrependimento vale 7 dias corridos depois do recebimento, e a garantia vitalícia cobre malas da marca compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas ficam de fora da garantia, e o [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia) tem o quadro completo."
+        ]
+      },
+      {
+        "heading": "Quem opera a Bagaggio",
+        "paragraphs": [
+          "O rodapé do site e o do checkout repetem a mesma razão social e o mesmo CNPJ. Na consulta pública de 22/10/2026, esse CNPJ aparece como ativo e matriz, de sociedade empresária limitada, com início de atividade em 27/07/2007. A atividade principal cadastrada é comércio varejista de artigos de viagem. O endereço é o mesmo no site e na Receita: Rua Dezesseis, s/n, quadra 17, lotes 1 e 2, Xerém, Duque de Caxias (RJ), CEP 25250-614."
+        ],
+        "postParagraphs": [
+          "Para conferir, compare o CNPJ do rodapé com o número que aparece na nota fiscal da sua compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/bagaggio-e-confiavel-rodape-cnpj.webp",
+            "alt": "Rodapé do checkout de bagaggio.com.br com a razão social BAG-ONLINE COMERCIO DE BOLSAS LTDA, o CNPJ 08.956.394/0001-68 e o endereço em Xerém, Duque de Caxias",
+            "caption": "Rodapé do checkout de bagaggio.com.br, capturado em 22/10/2026. O destaque nos dados da empresa é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 4.3048
+          }
+        ]
+      },
+      {
+        "heading": "De qual país é a Bagaggio e o que dizem as três datas",
+        "paragraphs": [
+          "A página Quem somos responde à pergunta de origem com três datas. Elas falam de coisas diferentes:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Data",
+            "O que ela marca",
+            "De quem é"
+          ],
+          "rows": [
+            [
+              "1942",
+              "Fundação da marca, segundo a página Quem somos",
+              "A marca Bagaggio"
+            ],
+            [
+              "2002",
+              "Lançamento do e-commerce, segundo a mesma página",
+              "A operação online da marca"
+            ],
+            [
+              "2007",
+              "Abertura do CNPJ que aparece no rodapé",
+              "A empresa que opera o site"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As três datas não dizem que a empresa de 2007 é a mesma que começou a marca em 1942. A página Quem somos não explica essa ligação, e as fontes que lemos também não. O que dá para afirmar é que a marca se apresenta como brasileira, com origem no Rio de Janeiro, e que a empresa do site está registrada no Brasil, com CNPJ aberto em 2007.",
+          "Sobre o país, então: a própria marca diz que é brasileira, e a empresa que opera o site tem sede em Duque de Caxias, no estado do Rio de Janeiro."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
+          "alt": "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão",
+          "caption": "Malas Route vinho da Bagaggio. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é [bagaggio.com.br](https://www.bagaggio.com.br/). Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
+          "Depois, role até o rodapé. Ele traz a razão social e o CNPJ 08.956.394/0001-68, a mesma informação que aparece no checkout. Compare o número com a consulta pública do CNPJ na Receita.",
+          "Faça a compra dentro do site. A própria loja diz que os canais verificados são o site, os perfis com selo azul nas redes sociais e o WhatsApp oficial, e alerta para perfis falsos. Desconfie de link de pagamento ou de perfil que chegou por mensagem."
+        ]
+      },
+      {
+        "heading": "Garantia vitalícia, em resumo",
+        "paragraphs": [
+          "A garantia vitalícia cobre vícios de fabricação em todas as malas da marca Bagaggio compradas a partir de 29/04/2024, sem custo adicional. Mochilas, bolsas e outras marcas vendidas no site, como Travelcross, Swiss One e Samsonite, ficam fora dela.",
+          "Ela vale só no Brasil, com nota fiscal em nome do consumidor, e só para o comprador original. Desgaste das rodas, queda, sobrecarga e avarias no transporte ficam de fora. O quadro completo, com as exclusões e o passo a passo para acionar, está no [artigo da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
+          "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "Para compra feita no site, a troca e a garantia podem ser pedidas em qualquer loja física da Bagaggio ou pelo Troque Fácil. A devolução, porém, só é feita pelo Troque Fácil, com o número do pedido e o CPF vinculado à compra."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Caso",
+            "Prazo ou regra"
+          ],
+          "rows": [
+            [
+              "Desistência de compra feita pelo site",
+              "7 dias corridos depois do recebimento, pelo art. 49 do CDC, com devolução por vale-troca ou restituição"
+            ],
+            [
+              "Defeito de fabricação",
+              "Prazo impresso na etiqueta do produto; sem prazo na etiqueta, 90 dias (prazo legal do CDC)"
+            ],
+            [
+              "Produto personalizado",
+              "Não aceita troca, devolução nem cancelamento"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na desistência, a loja devolve por vale-troca ou restituição do valor pago. Essa regra só vale para compra pelo site: em loja física, não é possível desistir. Na troca online, a loja emite um vale-compras no valor da mercadoria, para um novo pedido no site.",
+          "O produto precisa estar com a etiqueta, na embalagem original sem danos, sem uso, odor ou manchas, e com a Danfe. Malas e mochilas com rodinhas não podem ter nenhuma ranhura. O envio é feito por coleta de transportadora, paga pela Bagaggio, e o frete só é isento na primeira troca."
+        ]
+      },
+      {
+        "heading": "Reembolso por forma de pagamento",
+        "paragraphs": [
+          "O reembolso depende da forma de pagamento. A política publicada separa cartão e boleto:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forma de pagamento",
+            "Como o valor volta"
+          ],
+          "rows": [
+            [
+              "Cartão de crédito",
+              "A loja pede o estorno à administradora, que pode aparecer em até duas faturas. O protocolo vai por e-mail em até 10 dias úteis depois que o item entra no centro de distribuição."
+            ],
+            [
+              "Boleto",
+              "Crédito na conta corrente do mesmo CPF da nota, em até 10 dias úteis depois do recebimento do produto."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete só é reembolsado na devolução integral do pedido. Em pedido promocional com devolução parcial, você fica com os produtos de valor cheio e devolve os promocionais, ou devolve tudo.",
+          "A política não diz como o valor volta quando a compra foi paga no Pix, então este texto não dá prazo para isso."
+        ]
+      },
+      {
+        "heading": "Frete e retirada em loja",
+        "paragraphs": [
+          "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. O site não publica uma política de frete grátis.",
+          "Na retirada em loja, você tem até 3 horas para buscar o pedido na loja escolhida. A retirada só é feita pelo titular da compra, com documento original com foto."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-cartagena-preta.webp",
+          "alt": "Mala Pequena Cartagena Preta da Bagaggio, de frente, com a alça puxada",
+          "caption": "Mala Pequena Cartagena Preta, da marca Bagaggio. Foto oficial da loja.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5287
+        }
+      },
+      {
+        "heading": "Pagamento e atendimento",
+        "paragraphs": [
+          "A loja aceita cartões de crédito, Pix e boleto. A página de formas de pagamento cita Mastercard, Visa, American Express e Diners emitidos no Brasil. As parcelas sem juros mudam conforme o valor, então confira as parcelas no checkout."
+        ],
+        "postParagraphs": [
+          "O atendimento é feito exclusivamente pelo chat do site, de segunda a sexta, das 9h às 18h. Para troca, desistência e garantia, o e-mail indicado pela loja é atendimento@bagaggio.com.br."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Na leitura de 22/10/2026, o perfil Bagaggio - Loja Virtual no Reclame Aqui tinha o selo \"Empresa Verificada\", mas a nota muda bastante conforme o período, e os números estão no [artigo sobre a reputação no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar na Bagaggio?",
+        "paragraphs": [
+          "Do lado da empresa, a Bagaggio tem o que um comprador procura: CNPJ ativo no rodapé, sede no Brasil, regras de troca e de reembolso publicadas, garantia por escrito e atendimento pelo chat. Os pontos de atenção são a reputação no Reclame Aqui, Ruim nos últimos 12 meses e Boa nos últimos 6, e as datas que o site não explica.",
+          "Este texto fala da loja. Se a marca é boa para a mala que você procura, é outra pergunta, e ela fica para os artigos de produto.",
+          "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no carrinho do site oficial."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp",
+          "alt": "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio",
+          "caption": "Mala de bordo Route preta. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
+          "O CECILIA10 dá 10% OFF em todo o site, inclusive no Outlet e em produtos já com desconto. Vale para clientes novos e antigos, em todas as formas de pagamento, e a loja aceita um cupom por pedido. Ele soma com o Pix de 5%, que entra sobre o total já com o cupom, enquanto a loja mantiver a oferta.",
+          "Para aplicar, cole o código no campo \"Cupom de desconto\" do resumo do pedido. O campo \"Código de vendedor(a) ou influenciador(a)\" não é o lugar do CECILIA10.",
+          "Em 22/10/2026, testamos no carrinho, sem finalizar a compra: uma mala do Outlet, de R$ 249,90 por R$ 179,90, ficou em R$ 161,91 com o cupom. No Pix, o teste pela API pública do checkout deu R$ 153,81. O passo a passo está em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar).",
+          "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. O link da marca no Mercado Livre está nas perguntas frequentes, no fim do texto."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Bagaggio é confiável? É uma empresa registrada no Brasil, com CNPJ ativo e sede em Duque de Caxias (RJ), e publica regras de troca, reembolso e garantia. Os pontos de atenção são a reputação no Reclame Aqui, Ruim nos últimos 12 meses e Boa nos últimos 6, e as datas que o site não explica.",
+          "De qual país é a Bagaggio? A própria marca diz que é brasileira e que foi fundada em 1942 no Rio de Janeiro. A empresa que opera o site está registrada no Brasil, com sede em Duque de Caxias (RJ).",
+          "Qual é o CNPJ da Bagaggio? O CNPJ do rodapé do site é 08.956.394/0001-68, da BAG-ONLINE COMERCIO DE BOLSAS LTDA. Confira o número na consulta pública da Receita.",
+          "O site bagaggio.com.br é seguro e oficial? O endereço oficial é bagaggio.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a Receita.",
+          "A garantia vitalícia da Bagaggio vale para todas as malas? Não. Ela vale só para as malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas ficam de fora.",
+          "Posso trocar ou devolver um produto da Bagaggio? Sim, dentro das regras da loja. Na compra pelo site, a lei dá 7 dias corridos depois do recebimento para desistir, e a devolução é feita pelo Troque Fácil.",
+          "Quando o reembolso cai? No cartão, o estorno pode aparecer em até duas faturas. No boleto, o crédito sai em até 10 dias úteis depois do recebimento do produto.",
+          "A Bagaggio tem frete grátis? O site não publica uma política de frete grátis. O valor do frete aparece pelo CEP no carrinho.",
+          "Qual é o atendimento da Bagaggio? O atendimento é feito pelo chat do site, de segunda a sexta, das 9h às 18h. Para troca, desistência e garantia, o e-mail é atendimento@bagaggio.com.br.",
+          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive no Outlet. A loja aceita um cupom por pedido, e ele soma com o Pix de 5%.",
+          "Tem produtos da Bagaggio no Mercado Livre? Sim, a [vitrine da Cecília no Mercado Livre](https://meli.la/2KeydkG) tem produtos da marca. O cupom não vale lá; vale o preço do anúncio."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Bagaggio faz sentido para você, entre no site oficial e use o CECILIA10 no campo de cupom do carrinho para ganhar 10% OFF.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelas compras feitas com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao",
+        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      }
+    ],
+    "imageAspect": "landscape"
+  },
+  {
+    "id": 589,
+    "slug": "bagaggio-reclame-aqui-nota-reputacao",
+    "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações",
+    "seoTitle": "Bagaggio no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Bagaggio no Reclame Aqui em 22/10/2026: reputação Boa nos últimos 6 meses e Ruim nos últimos 12. Veja a tabela por período, qual perfil olhar e o que fazer se o pedido der problema.",
+    "metaDescription": "Bagaggio no Reclame Aqui: Boa em 6 meses (nota 7,7), Ruim em 12 meses (nota 5,8). Tabela por período, qual perfil olhar e o que fazer se o pedido atrasar (22/10/2026).",
+    "publishedAt": "22 de outubro de 2026",
+    "publishedAtISO": "2026-10-22",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa.webp",
+    "imageAlt": "Três malas Route vinho da Bagaggio em foto oficial da loja, com o topo do perfil Bagaggio - Loja Virtual no Reclame Aqui (reputação Boa e selo Empresa Verificada) e o logo do Reclame Aqui",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No Reclame Aqui, a Bagaggio tem reputação Boa nos últimos 6 meses, com nota 7,7 (de 01/04/2026 a 30/09/2026). Nos últimos 12 meses, até 30/09/2026, ela ainda está Ruim, com nota 5,8. Os números são do perfil Bagaggio - Loja Virtual, lidos em 22/10/2026.",
+          "A loja respondeu a 100% das reclamações dos últimos 6 meses. Resolveu 90,4% delas, e 58,4% de quem avaliou disse que voltaria a comprar.",
+          "Se você comprou no site bagaggio.com.br, o perfil que conta é o Bagaggio - Loja Virtual. Para a confiança geral na loja, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar",
+        "paragraphs": [
+          "O site da Bagaggio atende só pelo chat, de segunda a sexta, das 9h às 18h. Quando o pedido dá problema, o que outras pessoas viveram com a loja ajuda a decidir antes de comprar. O Reclame Aqui mostra quantas reclamações a empresa recebeu, quantas respondeu e resolveu, e quanta gente voltaria a comprar.",
+          "Os números mudam todos os dias. Confira de novo no dia da compra."
+        ]
+      },
+      {
+        "heading": "Qual perfil olhar",
+        "paragraphs": [
+          "Há mais de um perfil com o nome Bagaggio no Reclame Aqui. O que mostra quem compra no site é o Bagaggio - Loja Virtual. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
+          "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar na leitura de 22/10/2026.",
+          "O selo RA1000 dos últimos 6 meses, com nota 8,6, é do perfil Bagaggio - Loja Física, e não deste. Antes de ler os números, confira o nome e o CNPJ no topo do perfil."
+        ]
+      },
+      {
+        "heading": "Os números da Loja Virtual",
+        "paragraphs": [
+          "Cada coluna da tabela é uma aba do perfil, com o período dela. Os dados são de 22/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (01/04/2026 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "2025",
+            "2024",
+            "Geral (22/10/2023 a 21/10/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa",
+              "Ruim",
+              "Regular",
+              "Regular",
+              "Regular"
+            ],
+            [
+              "Nota",
+              "7,7",
+              "5,8",
+              "6,5",
+              "6,7",
+              "6,3"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.137",
+              "5.757",
+              "4.408",
+              "1.903",
+              "10.681"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "91,3%",
+              "95,7%",
+              "98,4%",
+              "94,8%"
+            ],
+            [
+              "Resolvidas",
+              "90,4%",
+              "72,8%",
+              "80,9%",
+              "79,6%",
+              "78,1%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "58,4%",
+              "33,9%",
+              "42,9%",
+              "46,0%",
+              "40,2%"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,2",
+              "3,67",
+              "4,43",
+              "4,89",
+              "4,31"
+            ],
+            [
+              "Tempo médio de resposta",
+              "9 dias e 10 horas",
+              "34 dias e 23 horas",
+              "29 dias e 13 horas",
+              "18 dias e 16 horas",
+              "26 dias e 13 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses de outubro de 2025 a março de 2026."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses.webp",
+          "alt": "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui em 22/10/2026: nos últimos 6 meses, reputação Boa, nota 7,7, 1.137 reclamações e 90,4% resolvidas; nos últimos 12 meses, reputação Ruim, nota 5,8, 5.757 reclamações e 72,8% resolvidas",
+          "caption": "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual, lidas no Reclame Aqui em 22/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Como a reputação mudou",
+        "paragraphs": [
+          "O histórico dos últimos 6 meses mostra a reputação mês a mês: Ruim em abril, maio e junho de 2026; Regular em julho; Boa em agosto e setembro.",
+          "O Reclame Aqui não mostra quantas reclamações entraram em cada mês. Mostra só a faixa de reputação. Por isso, o histórico confirma a melhora recente, mas não diz o que a causou."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-historico-6-meses.webp",
+          "alt": "Quadro com a reputação mês a mês do Bagaggio - Loja Virtual no Reclame Aqui: Ruim em abril, maio e junho de 2026; Regular em julho; Boa em agosto e setembro de 2026",
+          "caption": "Quadro nosso com o histórico de reputação do perfil Bagaggio - Loja Virtual, lido no Reclame Aqui em 22/10/2026. O RA não mostra o número de reclamações por mês.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "O que a conta de reclamações mostra",
+        "paragraphs": [
+          "Entre 01/10/2025 e 30/09/2026, a aba de 12 meses soma 5.757 reclamações. A aba de 6 meses, de 01/04/2026 a 30/09/2026, soma 1.137. A diferença, 4.620, corresponde ao período de 01/10/2025 a 31/03/2026: cerca de 770 por mês. De abril a setembro de 2026, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
+          "O Reclame Aqui não explica por que esse período teve mais reclamações. Uma hipótese é a Black Friday de 2025 e o Natal, que caem nele. Não temos a contagem mês a mês para confirmar isso. Se a campanha pesa nessa conta, o [calendário da Black Friday da Bagaggio](/reviews/black-friday-bagaggio) está lá."
+        ]
+      },
+      {
+        "heading": "Os problemas mais citados",
+        "paragraphs": [
+          "Na aba geral, de até 3 anos, o Reclame Aqui lista as categorias de problema das reclamações. Estas são as que ele registra, com a contagem e o percentual exibidos no perfil. São categorias do RA, e este texto não diz que cada uma é verdadeira:"
+        ],
+        "bullets": [
+          "Atraso na entrega: 3.198 (29,95%)",
+          "Produto não recebido: 2.015 (18,87%)",
+          "Troca-devolução de produto: 889 (8,32%)",
+          "Produto com defeito: 874 (8,18%)",
+          "Estorno do valor pago: 728 (6,82%)",
+          "Produto indisponível: 364 (3,41%)",
+          "Má qualidade: 359 (3,36%)",
+          "Produto errado: 293 (2,74%)",
+          "Propaganda enganosa: 273 (2,56%)",
+          "Não consigo cancelar: 146 (1,37%)"
+        ],
+        "postParagraphs": [
+          "Pelos tipos de produto citados, mochilas aparecem com 32,16% e malas com 29,76%. Os percentuais são os que o Reclame Aqui exibe na aba de 3 anos."
+        ]
+      },
+      {
+        "heading": "O que a loja diz sobre si",
+        "paragraphs": [
+          "A FAQ da loja fala em certificações de excelência no Reclame Aqui. Para o perfil Loja Virtual, o Reclame Aqui mostra Ruim nos últimos 12 meses e Regular na aba de 3 anos. Este texto registra essa diferença e não explica de onde vem a frase da FAQ."
+        ]
+      },
+      {
+        "heading": "Se o pedido der problema",
+        "paragraphs": [
+          "A regra vem da própria loja. Comece pelo canal dela. Se a loja não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
+        ],
+        "bullets": [
+          "Compra pelo site: fale pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, o e-mail é atendimento@bagaggio.com.br.",
+          "Compra em loja física: trocas e garantia podem ser pedidas em qualquer loja Bagaggio.",
+          "Desistência de compra pelo site, em até 7 dias corridos depois do recebimento: pelo Troque Fácil, com o número do pedido e o CPF. A devolução pode virar vale-trocas ou restituição do valor pago.",
+          "Pedido ainda com a transportadora: recuse a entrega. O estorno sai na mesma forma de pagamento, depois que a mercadoria volta ao centro de distribuição.",
+          "Cartão: o estorno é pedido à administradora e pode cair em até duas faturas. Boleto: o crédito vai para a conta corrente do mesmo CPF da nota, em até 10 dias úteis depois do recebimento do produto.",
+          "Frete: o reembolso do frete só sai na devolução integral do pedido."
+        ],
+        "postParagraphs": [
+          "Se o prazo de entrega passou, guarde o número do pedido e o CPF da compra e registre a data em que o prazo venceu. Esses dados ajudam em qualquer contato com a loja."
+        ]
+      },
+      {
+        "heading": "Garantia vitalícia, em resumo",
+        "paragraphs": [
+          "A garantia vitalícia cobre vício de fabricação nas malas da marca Bagaggio compradas a partir de 29/04/2024, sem custo. Mochilas, bolsas e outras marcas vendidas pela loja ficam fora. Na compra pelo site, a garantia é pedida pelo Troque Fácil. Na compra física, procure, de preferência, a loja onde comprou.",
+          "O que a garantia cobre e o que ela deixa de fora estão no [guia da garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produtos que já estão em promoção. Ele vale com todas as formas de pagamento e soma com o desconto de 5% do Pix. Vale um cupom por pedido.",
+          "No nosso teste de 22/10/2026, montamos a sacola no site, sem finalizar a compra. Uma Mala de Bordo PP Downtown Preta, do Outlet, saiu de R$ 249,90 para R$ 179,90. Com o cupom, o total foi para R$ 161,91. No Pix, o total ficou em R$ 153,81 no mesmo teste.",
+          "Na sacola, cole o código no campo Cupom de desconto, e não no campo de código de vendedor ou influenciador. Confira o desconto no resumo antes de escolher a forma de pagamento.",
+          "Os detalhes estão na [página da Bagaggio](/cupons/bagaggio), e o passo a passo, no artigo [Cupom Bagaggio: como usar o CECILIA10 e o que ele soma](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Bagaggio é confiável segundo o Reclame Aqui? Em 22/10/2026, o perfil Loja Virtual mostrava reputação Boa nos últimos 6 meses, com nota 7,7, e Ruim nos últimos 12 meses, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
+          "Qual perfil da Bagaggio é o da loja? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, que é o mesmo do rodapé do site bagaggio.com.br.",
+          "O que fazer se o pedido da Bagaggio atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale pelo chat do site, de segunda a sexta, das 9h às 18h.",
+          "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
+          "A Bagaggio responde às reclamações? Nos últimos 6 meses, o perfil Loja Virtual respondeu a 100% das reclamações, em 9 dias e 10 horas, em média. Nos últimos 12 meses, respondeu a 91,3%."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se for comprar, entre no site oficial da Bagaggio pelo botão, cole o cupom CECILIA10 no campo Cupom de desconto e guarde o número do pedido.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "slug": "cupom-bagaggio-como-usar",
+    "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma",
+    "seoTitle": "Cupom Bagaggio: como usar o CECILIA10",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom CECILIA10 no site oficial da Bagaggio: 10% OFF em todo o site, passo a passo na sacola, o que ele soma com o Pix e onde não vale. Testado na sacola em 22/10/2026.",
+    "metaDescription": "Cupom Bagaggio CECILIA10: 10% OFF em todo o site, inclusive no Outlet. Veja onde colar o código na sacola e o que soma com o Pix de 5%.",
+    "publishedAt": "22 de outubro de 2026",
+    "publishedAtISO": "2026-10-22",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp",
+    "imageAlt": "Mala de bordo Downtown Preta vendida pela Bagaggio, de frente, de lado e de costas, com o logo da loja e o cupom CECILIA10 de 10% OFF",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto que já está em promoção. No Pix, a loja tira mais 5% sobre o total que já tem o cupom.",
+          "A loja aceita um cupom por pedido. O CECILIA10 não vale no Mercado Livre, onde vale o preço do anúncio.",
+          "Para usar, entre no site oficial pelo botão desta página, monte a sacola e cole o código no campo \"Cupom de desconto\", no resumo do pedido à direita, depois clique em Adicionar. As condições da loja estão na [página do cupom Bagaggio](/cupons/bagaggio)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom CECILIA10",
+        "paragraphs": [
+          "CECILIA10 é o cupom da parceria do Em Casa com Cecília com a Bagaggio, loja de malas, mochilas, bolsas e acessórios de viagem. O cupom vale só no site oficial, bagaggio.com.br.",
+          "O desconto é de 10% em todo o site, inclusive no Outlet e em produto que já está com desconto. O cupom vale para clientes novos e antigos e em todas as formas de pagamento.",
+          "A faixa do topo do site anuncia 5% na primeira compra. Não testamos esse desconto. O CECILIA10 dá 10%.",
+          "A loja aceita um cupom por pedido."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp",
+          "alt": "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio",
+          "caption": "Mala de bordo Route preta. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "1. Entre no site oficial pelo botão da parceria",
+        "paragraphs": [
+          "Use o botão desta página. Ele abre o site oficial, com a identificação da parceria. Confira que o endereço é bagaggio.com.br. As condições atualizadas ficam na [página do cupom Bagaggio](/cupons/bagaggio)."
+        ]
+      },
+      {
+        "heading": "2. Monte a sacola",
+        "paragraphs": [
+          "Escolha as malas e coloque na sacola. O cupom não entra na página do produto: ele entra na sacola, no resumo do pedido. No teste de 22/10/2026, a mala Downtown do Outlet aparecia por R$ 179,90, de R$ 249,90."
+        ]
+      },
+      {
+        "heading": "3. Cole o código no campo Cupom de desconto",
+        "paragraphs": [
+          "No resumo do pedido, à direita, há dois campos: \"Código de vendedor(a) ou influenciador(a)\" e \"Cupom de desconto\". O CECILIA10 vai só no segundo. Cole o código e clique em Adicionar, o botão ao lado desse campo.",
+          "Quando o cupom entra, o código aparece como etiqueta no campo e a linha de descontos aparece no resumo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/cupom-sacola-sem-cupom.webp",
+            "alt": "Sacola da Bagaggio antes do cupom: os campos Código de vendedor(a) ou influenciador(a) e Cupom de desconto vazios, com a mala Downtown Preta a R$ 179,90 e total de R$ 179,90",
+            "caption": "Sacola em 22/10/2026, sem cupom. O CECILIA10 vai no campo de baixo, Cupom de desconto.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0959
+          }
+        ]
+      },
+      {
+        "heading": "4. Confira o resumo antes de escolher o pagamento",
+        "paragraphs": [
+          "Com o CECILIA10 aplicado, a etiqueta aparece no campo e o resumo mostra a linha de descontos. No teste, o subtotal foi R$ 179,90, os descontos R$ 17,99 e o total R$ 161,91. Confira esses três valores antes de seguir."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/cupom-sacola-com-cupom.webp",
+            "alt": "Sacola da Bagaggio com o CECILIA10 aplicado: etiqueta no campo Cupom de desconto, subtotal de R$ 179,90, descontos de R$ 17,99 e total de R$ 161,91",
+            "caption": "Sacola em 22/10/2026, com o CECILIA10 aplicado.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3056
+          }
+        ]
+      },
+      {
+        "heading": "5. Escolha o Pix ou o cartão",
+        "paragraphs": [
+          "O Pix aparece só na etapa de pagamento, depois da identificação. No teste, a Downtown foi de R$ 161,91 para R$ 153,81 no Pix, porque o Pix tira 5% sobre o total que já tem o cupom. Esse valor veio do teste pela API pública do carrinho, não de uma tela de pagamento.",
+          "No cartão, o total da sacola fica em R$ 161,91. Confira as parcelas no checkout, porque o parcelamento muda com o valor e a forma de pagamento."
+        ]
+      },
+      {
+        "heading": "O que aconteceu no nosso teste",
+        "paragraphs": [
+          "Em 22/10/2026, montamos sacolas no site até o resumo, sem identificação e sem finalizar. Não houve compra, e a sacola foi esvaziada depois."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço no site",
+            "Com o CECILIA10",
+            "No Pix"
+          ],
+          "rows": [
+            [
+              "Mala de Bordo PP Downtown Preta (Outlet)",
+              "R$ 179,90 (era R$ 249,90)",
+              "R$ 161,91",
+              "R$ 153,81"
+            ],
+            [
+              "Mala de Bordo KidGo Preta (preço cheio)",
+              "R$ 1.499,90",
+              "R$ 1.349,91",
+              "Não testamos"
+            ],
+            [
+              "Mala de Bordo Detroit Preta (Outlet)",
+              "R$ 249,90",
+              "R$ 224,91",
+              "Não testamos"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/cupom-quadro-conta-downtown.webp",
+            "alt": "Quadro com a conta da mala Downtown Preta do Outlet: R$ 249,90 de tabela, R$ 179,90 na loja, R$ 161,91 com o CECILIA10 e R$ 153,81 no Pix",
+            "caption": "Conta da Downtown Preta do Outlet no teste de 22/10/2026. Quadro feito por nós.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/bagaggio/cupom-teste-kidgo-detroit.webp",
+            "alt": "As malas de bordo KidGo Preta e Detroit Preta da Bagaggio, lado a lado, em fotos oficiais da loja",
+            "caption": "Os outros dois produtos do teste de 22/10/2026: a KidGo Preta, a preço cheio, e a Detroit Preta, do Outlet. Fotos oficiais da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 2.1053
+          }
+        ],
+        "postParagraphs": [
+          "Na Downtown, a conta fica assim: a loja tirou R$ 70,00 do preço de tabela, o cupom tirou R$ 17,99 e o Pix tirou R$ 8,10.",
+          "Esses valores são de um dia. A loja pode mudar a promoção e o Pix sem aviso, então confira a conta no seu resumo."
+        ]
+      },
+      {
+        "heading": "Frete e retirada",
+        "paragraphs": [
+          "O frete é calculado pelo CEP, no carrinho, e o cupom não muda o frete. A loja não divulga frete grátis, então confira o valor no resumo antes de pagar. A retirada em lojas próximas aparece conforme a disponibilidade, e só o titular da compra retira, com documento original com foto."
+        ]
+      },
+      {
+        "heading": "Quando a 2ª peça rende mais que o 10%",
+        "paragraphs": [
+          "A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom, então o CECILIA10 não entra junto com ela.",
+          "Este é um exemplo ilustrativo, não um teste. Suponha duas malas de R$ 100. O CECILIA10 nas duas dá R$ 20 de desconto, que é 10% de R$ 200. A promoção de 50% na segunda dá R$ 50, que é metade de R$ 100. Com uma mala só, fica o 10%, que dá R$ 10.",
+          "Ainda não confirmamos se a promoção de 50% na segunda peça vale em produto do Outlet ou em produto que já tem desconto. Por isso o exemplo usa preço cheio."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
+          "alt": "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão",
+          "caption": "Malas Route vinho da Bagaggio. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Black Friday",
+        "paragraphs": [
+          "Sobre o CECILIA10 na Black Friday, vamos testar quando a campanha abrir. Calendário e preço ficam no [guia de Black Friday da Bagaggio](/reviews/black-friday-bagaggio)."
+        ]
+      },
+      {
+        "heading": "E a garantia vitalícia?",
+        "paragraphs": [
+          "A garantia vitalícia vale para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação. Mochilas, bolsas e malas de outras marcas ficam fora. Veja o que cobre e como acionar no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
+          "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "O que não testamos",
+        "paragraphs": [
+          "Não testamos cada forma de pagamento, como boleto, Vale ou Google Pay. Também não finalizamos nenhuma compra."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Bagaggio, o CECILIA10 vale: 10% em todo o site, inclusive no Outlet, e soma com o Pix. Se a compra for pelo Mercado Livre, o cupom não vale lá, então compare o preço do anúncio.",
+          "Antes de comprar, leia [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/bagaggio-reclame-aqui-nota-reputacao). As condições atualizadas do cupom ficam na [página do cupom Bagaggio](/cupons/bagaggio)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
+          "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
+          "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom.",
+          "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra, mas não testamos esse desconto. O CECILIA10 dá 10%.",
+          "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Bagaggio pelo botão, monte a sacola e cole o CECILIA10 no campo Cupom de desconto.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Cupom testado até a sacola, sem finalizar. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      },
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao",
+        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      },
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "slug": "black-friday-bagaggio",
+    "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom",
+    "seoTitle": "Black Friday Bagaggio 2026: preços e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Bagaggio ainda não anunciou Black Friday para 2026. Este guia mostra o que a página da loja diz hoje, os preços de 22/10 para comparar e como o cupom CECILIA10 soma com o Pix.",
+    "metaDescription": "Black Friday Bagaggio 2026: sem anúncio de percentual até 22/10/2026. Preços de malas e mochilas para comparar, cupom CECILIA10 com 10% OFF e Pix.",
+    "publishedAt": "22 de outubro de 2026",
+    "publishedAtISO": "2026-10-22",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/black-friday-bagaggio-capa.webp",
+    "imageAlt": "Mulher com uma mala de bordo Route preta da Bagaggio, em foto oficial da loja, com o logo e o título Black Friday da Bagaggio",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Até 22/10/2026, a Bagaggio não anunciou Black Friday com percentual nem data de início. A página /black-friday existe, mas o título e o texto são da campanha anterior e não têm data. A Black Friday de 2026 é na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026. São datas do calendário, não da loja."
+        ],
+        "bullets": [
+          "Cupom: CECILIA10, com 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. Ele soma com os 5% do Pix. Veja a [página do cupom da Bagaggio](/cupons/bagaggio).",
+          "Frete: calculado pelo CEP no carrinho. Também dá para retirar em loja próxima, em até 3 horas."
+        ],
+        "postParagraphs": [
+          "Quem espera novembro precisa de um preço de referência. A tabela de 22/10, mais abaixo, é o que dá para comparar hoje."
+        ]
+      },
+      {
+        "heading": "O que a página da Black Friday mostra hoje",
+        "paragraphs": [
+          "A página bagaggio.com.br/black-friday ainda traz o título e o texto da campanha anterior, sem o ano, a data de início ou a de fim. A página também não diz se algum cupom soma com as ofertas.",
+          "Pelos nomes das coleções do catálogo, a loja já teve campanhas de Black Friday em 2023, 2024 e 2025, além de uma campanha antecipada. Não encontramos o percentual de cada uma, e por isso ele não entra aqui."
+        ]
+      },
+      {
+        "heading": "Calendário de novembro",
+        "paragraphs": [
+          "A Black Friday de 2026 cai na sexta, 27/11. A Cyber Monday, na segunda, 30/11, é outra data do calendário do varejo. A Bagaggio não anunciou nenhuma das duas.",
+          "Dá para se preparar sem esperar o anúncio: ter um preço de referência em 22/10, reler a página no fim de outubro e, na semana da campanha, conferir o total com o cupom e o Pix antes de pagar."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bf-linha-do-tempo.webp",
+          "alt": "Linha do tempo da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11",
+          "caption": "As datas da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11, a confirmar.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Preços de 22/10/2026 para comparar",
+        "paragraphs": [
+          "Estes são os preços de venda do site da Bagaggio lidos em 22/10/2026, sem cupom. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Preço de venda"
+          ],
+          "rows": [
+            [
+              "Mala de Bordo PP 8 kg Downtown Preta",
+              "R$ 249,90",
+              "R$ 179,90"
+            ],
+            [
+              "Conjunto de Malas ABS Downtown PP e Detroit G Preta",
+              "R$ 749,80",
+              "R$ 529,80"
+            ],
+            [
+              "Mala de Bordo 10 kg Polipropileno Route Preta",
+              "R$ 449,90",
+              "R$ 299,90"
+            ],
+            [
+              "Mala Média 23 kg Polipropileno Route Preta",
+              "R$ 499,90",
+              "R$ 449,90"
+            ],
+            [
+              "Mala de Viagem 32 kg Polipropileno Route Preta",
+              "R$ 549,90",
+              "R$ 399,90"
+            ],
+            [
+              "Mala Grande 32 kg ABS Detroit",
+              "R$ 499,90",
+              "R$ 349,90"
+            ],
+            [
+              "Mochila Feminina Floral Camélia Rosa",
+              "R$ 79,90",
+              "R$ 69,90"
+            ],
+            [
+              "Mochila Escolar Feminina Dra Brinquedos 19K com Rodinha Roxa",
+              "R$ 99,90",
+              "R$ 79,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na leitura de 22/10, a mala Route de 32 kg saiu por menos que a de 23 kg. É assim que o catálogo mostra, e a tabela traz os dois valores como foram lidos. Confira os dois antes de comparar.",
+          "A Detroit de 32 kg apareceu em três cores (vermelha, prata e rosé), todas pelo mesmo preço. As malas do Outlet ficam fora desta tabela, porque o Outlet tem regra própria.",
+          "O preço do site muda sem aviso. Confira o produto no dia da compra."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bf-malas-da-tabela.webp",
+          "alt": "Três itens da tabela de preços da Bagaggio: o conjunto de malas Downtown e Detroit pretas, a mala de bordo Route preta e a mala Detroit de 32 kg vermelha",
+          "caption": "Três itens da tabela de 22/10/2026: o conjunto Downtown + Detroit, a Route de 10 kg e a Detroit de 32 kg. Fotos oficiais da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 2.1053
+        }
+      },
+      {
+        "heading": "Cupom na sacola: a conta com o Pix",
+        "paragraphs": [
+          "Montamos a sacola no site, sem finalizar a compra, em 22/10/2026. Com a Mala de Bordo PP Downtown Preta, que estava por R$ 179,90, o CECILIA10 tirou mais R$ 17,99 e o total ficou em R$ 161,91. No Pix, a loja deu mais 5% sobre esse total, e o valor caiu para R$ 153,81.",
+          "O cupom entra no campo \"Cupom de desconto\" do resumo do pedido. O outro campo, \"Código de vendedor(a) ou influenciador(a)\", não é para ele. O passo a passo está em [Cupom Bagaggio: como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
+        ],
+        "bullets": [
+          "Pix: o desconto de 5% entra depois do cupom, sobre o total que já está com desconto.",
+          "Promoção: o cupom vale também no produto que já está em promoção, inclusive no Outlet.",
+          "Não soma: com a promoção de 50% na 2ª peça, que usa outro cupom da loja, nem com outro cupom. Vale um cupom por pedido.",
+          "Pagamento e cliente: vale em todas as formas de pagamento, para cliente novo e para cliente antigo.",
+          "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
+        ],
+        "postParagraphs": [
+          "Se a campanha de novembro soma com o CECILIA10, ainda não sabemos. Vamos testar o cupom num item da campanha quando ela abrir e registrar a data do teste neste guia."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
+          "alt": "Mala de Bordo PP Downtown Preta, de frente, com a alça puxada",
+          "caption": "Mala de Bordo PP Downtown Preta, a do teste de 22/10/2026. Foto oficial da loja.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5057
+        }
+      },
+      {
+        "heading": "Garantia: malas e mochilas são diferentes",
+        "paragraphs": [
+          "Malas da marca Bagaggio compradas a partir de 29/04/2024 têm garantia vitalícia contra vício de fabricação, sem custo. Vale só para o comprador original e só no Brasil. Mochila, bolsa e as marcas de terceiros vendidas pela loja ficam de fora.",
+          "A mochila tem a garantia da etiqueta. Quando a etiqueta não traz prazo, vale a garantia legal de 90 dias, pelo Código de Defesa do Consumidor. Veja o que a garantia vitalícia cobre e o que não cobre em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
+          "alt": "Foto oficial da Mochila Feminina Floral Camélia Rosa da Bagaggio, no site da loja",
+          "caption": "Mochila Feminina Floral Camélia Rosa, foto oficial do site lida em 22/10/2026: de R$ 79,90 por R$ 69,90, sem cupom.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7219
+        }
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Confira estes pontos antes de finalizar, na campanha ou fora dela:"
+        ],
+        "bullets": [
+          "Confira o prazo de entrega pelo seu CEP na sacola.",
+          "Confira o total depois do cupom e do Pix, antes de finalizar.",
+          "Compre só pelo site oficial, pelo link da parceria (bagaggio.com.br) ou numa loja física da marca.",
+          "Se for retirar na loja, veja se há loja perto. A retirada é em até 3 horas e é do titular da compra, com documento original com foto.",
+          "Guarde o print da sacola e o número do pedido.",
+          "Compra pela internet tem direito de arrependimento de 7 dias corridos depois do recebimento, pelo Código de Defesa do Consumidor (art. 49). Essa regra vale só para compra pelo site.",
+          "O atendimento é pelo chat do site, de segunda a sexta, das 9h às 18h. Para trocas e garantia, a loja também indica o e-mail atendimento@bagaggio.com.br."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "Na leitura de 22/10/2026, o perfil \"Bagaggio - Loja Virtual\" no Reclame Aqui tinha nota Boa nos últimos 6 meses (7,7, com 1.137 reclamações, de 01/04 a 30/09/2026) e nota Ruim nos últimos 12 meses (5,8, com 5.757 reclamações, de 01/10/2025 a 30/09/2026).",
+          "Pela conta entre os dois períodos, são cerca de 4.620 reclamações entre outubro de 2025 e março de 2026, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
+          "Ao procurar a loja no Reclame Aqui, confira se o perfil tem o CNPJ 08.956.394/0001-68, que é o do site."
+        ],
+        "postParagraphs": [
+          "Se for comprar em novembro, faça o pedido com folga e confira o prazo antes de pagar. Os números completos estão em [Bagaggio no Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Vale esperar novembro?",
+        "paragraphs": [
+          "Não há base pública para prometer que novembro será mais barato. A loja não anunciou percentual nem data, e a tabela de 22/10 é o que dá para comparar hoje.",
+          "Se você precisa agora, o cupom e o Pix já funcionam. Se pode esperar, compare o preço que a loja mostrar em novembro com a tabela deste guia antes de pagar. As condições atuais do cupom estão na [página da Bagaggio](/cupons/bagaggio)."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
+          "alt": "Mulher com três malas Route vinho da Bagaggio, de tamanhos diferentes, em frente a um portão",
+          "caption": "Malas Route vinho da Bagaggio. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Bagaggio tem Black Friday? A página /black-friday existe, mas traz texto da campanha anterior, sem data. Até 22/10/2026, a loja não anunciou percentual para 2026.",
+          "O cupom CECILIA10 vale na Black Friday? Hoje ele vale em todo o site, com o Pix. Se soma com as ofertas de novembro, ainda não sabemos: vamos testar quando a campanha abrir.",
+          "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas a partir de 29/04/2024.",
+          "Dá para retirar na loja? Sim, quando há loja perto. A retirada é em até 3 horas e precisa do titular da compra, com documento original com foto.",
+          "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
+        ]
+      }
+    ],
+    "pros": [
+      "O CECILIA10 dá 10% OFF em todo o site, inclusive em produto já com desconto",
+      "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
+      "A tabela de 22/10 dá um preço de referência para comparar em novembro"
+    ],
+    "cons": [
+      "A Bagaggio não anunciou percentual nem data de Black Friday para 2026",
+      "Um cupom por pedido, e a promoção de 50% na 2ª peça não soma com ele",
+      "A garantia vitalícia vale só para malas da marca, não para mochilas"
+    ],
+    "cta": {
+      "text": "Veja os preços no site da Bagaggio pelo link da parceria e confira o total com o CECILIA10 antes de pagar.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      },
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao",
+        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "bagaggio-garantia-vitalicia",
+        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "slug": "bagaggio-garantia-vitalicia",
+    "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar",
+    "seoTitle": "Garantia vitalícia Bagaggio: o que cobre e como acionar",
+    "type": "Guia de Garantia",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A garantia vitalícia da Bagaggio vale só para malas da marca compradas a partir de 29/04/2024. Veja o que cobre, o que não cobre e como acionar a garantia.",
+    "metaDescription": "Garantia vitalícia Bagaggio: vale só para malas da marca compradas a partir de 29/04/2024. Veja o que cobre, o que não cobre, o passo a passo e o que fazer com dano no voo.",
+    "publishedAt": "22 de outubro de 2026",
+    "publishedAtISO": "2026-10-22",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa.webp",
+    "imageAlt": "Mulher com uma mala Detroit vermelha da Bagaggio, em foto oficial da loja, com o logo e o título Garantia vitalícia das malas",
+    "imageFit": "contain",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação e sem prazo de validade. Pelo texto da própria loja, mochila, bolsa, carteira e malas de outras marcas vendidas no site ficam de fora.",
+          "Para acionar pelo site, use o Troque Fácil com o número do pedido e o CPF. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo na etiqueta, 90 dias pelo Código de Defesa do Consumidor.",
+          "Se a sua dúvida é se a loja é confiável, veja a [análise sobre a Bagaggio](/reviews/bagaggio-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Mochila tem garantia vitalícia?",
+        "paragraphs": [
+          "Pelo texto da loja, a resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. Travelcross, Swiss One e Samsonite, vendidas pela loja, ficam de fora e seguem a garantia própria de cada fabricante.",
+          "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta ou, sem prazo na etiqueta, a garantia legal de 90 dias, contada a partir da compra ou da entrega."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
+          "alt": "Mochila Feminina Floral Camélia Rosa, da marca Bagaggio, em foto oficial da loja",
+          "caption": "Mochila Floral Camélia Rosa, da marca Bagaggio: mochila segue a garantia da etiqueta, não a vitalícia. Foto oficial da loja.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7219
+        }
+      },
+      {
+        "heading": "Quem tem direito",
+        "paragraphs": [
+          "A mala precisa cumprir estas condições para ter a garantia vitalícia, todas segundo a página e o Termo de garantia:"
+        ],
+        "bullets": [
+          "Ser da marca Bagaggio, e não de outra marca vendida pela loja.",
+          "Ter sido comprada a partir de 29/04/2024, com nota fiscal em nome do consumidor.",
+          "Estar no Brasil. A garantia não vale fora do território nacional.",
+          "Ser do comprador original. A garantia não passa para outra pessoa."
+        ],
+        "postParagraphs": [
+          "A garantia vem na mala, sem custo adicional. A página diz que vale para todas as malas da marca \"independentemente do período informado na TAG\". Ou seja, a etiqueta de prazo não limita essas malas.",
+          "A página não diz o que vale para malas compradas antes de 29/04/2024. Este texto dá só a data. Se a sua mala é anterior, vale perguntar à loja antes de contar com a garantia vitalícia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/garantia-print-pagina-oficial.webp",
+            "alt": "Print da página oficial Garantia Vitalícia Bagaggio, com o título, a frase sobre vícios de fabricação e a regra de que a garantia vale só para malas da marca, a partir de 29/04/2024",
+            "caption": "Página oficial da garantia, lida em 22/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7131
+          }
+        ]
+      },
+      {
+        "heading": "O que cobre e o que não cobre",
+        "paragraphs": [
+          "A garantia cobre vício de fabricação, ou seja, problema que nasce na produção, e não no uso. A página dá três exemplos: falha estrutural sem mau uso, problema em componente interno e defeito de montagem ou de material, identificado em análise técnica.",
+          "Vitalícia não quer dizer que a mala dura para sempre. A própria página diz que o termo se refere ao prazo da garantia contra vício de fabricação, que não expira. O desgaste do uso continua fora da cobertura."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cobre",
+            "Não cobre"
+          ],
+          "rows": [
+            [
+              "Falha estrutural sem mau uso",
+              "Queda, batida ou sobrecarga de peso ou volume"
+            ],
+            [
+              "Problema em componente interno",
+              "Costura rompida pelo atrito"
+            ],
+            [
+              "Defeito de montagem ou de material",
+              "Zíper, alça, puxador ou cadeado danificados por impacto ou uso indevido"
+            ],
+            [
+              "",
+              "Desgaste natural, em especial das rodas"
+            ],
+            [
+              "",
+              "Manchas de alimento ou líquido, e produtos químicos"
+            ],
+            [
+              "",
+              "Chuva, maresia ou calor excessivo"
+            ],
+            [
+              "",
+              "Senha de cadeado perdida"
+            ],
+            [
+              "",
+              "Conserto feito fora da rede autorizada"
+            ],
+            [
+              "",
+              "Dano no voo, que é responsabilidade da companhia aérea"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A lista de exclusões é a mesma na garantia vitalícia e na garantia comum, de A a L no Termo. A página diz que são exclusões comuns no mercado de bagagens.",
+          "A análise não garante troca, reparo nem devolução do dinheiro. Ela confirma se o defeito é de fabricação, e só depois disso a loja decide o reparo ou a troca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/bagaggio/garantia-quadro-cobre-nao-cobre.webp",
+            "alt": "Quadro com duas colunas: à esquerda, o que a garantia cobre, como falha de fabricação e defeito de montagem; à direita, o que não cobre, como queda, desgaste das rodas, zíper danificado por uso, manchas e dano no voo",
+            "caption": "Quadro feito por nós, com base na página de garantia lida em 22/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ]
+      },
+      {
+        "heading": "Garantia comum e vitalícia",
+        "paragraphs": [
+          "As duas garantias seguem a mesma lista de exclusões. A diferença principal está em quem tem direito e no prazo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "Vitalícia (malas da marca)",
+            "Comum (demais produtos)"
+          ],
+          "rows": [
+            [
+              "Quem tem",
+              "Malas da marca Bagaggio, compradas a partir de 29/04/2024",
+              "Mochilas, bolsas e carteiras da loja"
+            ],
+            [
+              "Prazo",
+              "Não expira",
+              "Prazo da etiqueta; sem prazo na etiqueta, 90 dias"
+            ],
+            [
+              "O que cobre",
+              "Vício de fabricação",
+              "Defeito de fabricação"
+            ],
+            [
+              "Exclusões",
+              "Lista de A a L do Termo",
+              "Mesma lista de A a L"
+            ],
+            [
+              "Território",
+              "Só no Brasil",
+              "Só no Brasil"
+            ],
+            [
+              "Nota fiscal",
+              "Em nome do consumidor",
+              "Documento fiscal de venda"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nas duas, confirmado o defeito de fabricação, a loja faz o reparo. Se o defeito não tiver conserto, o consumidor escolhe, conforme a lei: troca por outro da mesma espécie, devolução do valor pago ou abatimento proporcional do preço."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-detroit-preta-ficha.webp",
+          "alt": "Ficha da Mala de Bordo Detroit Preta no site da Bagaggio: cadeado embutido, rodas 360°, bolsos internos, feita em ABS, suporta até 10 kg e selo de garantia vitalícia, com as medidas de 55 x 35 x 23 cm",
+          "caption": "Imagem oficial da Mala de Bordo Detroit Preta, da marca Bagaggio, no site da loja, lida em 22/10/2026. O selo de garantia vitalícia vale para as malas da marca.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Dano no voo: o que fazer",
+        "paragraphs": [
+          "A página diz que danos no transporte aéreo são responsabilidade da companhia aérea, não da fabricação da mala. Por isso, a garantia não cobre esse caso. A loja recomenda estes passos:"
+        ],
+        "bullets": [
+          "Antes de despachar, fotografe a mala no estado em que ela está.",
+          "Ao desembarcar, inspecione a mala ainda no aeroporto, antes de sair da área de bagagens.",
+          "Se encontrar dano, faça a reclamação formal no balcão da companhia aérea, ainda no aeroporto. O registro, geralmente o RIB ou PIR, é o documento que garante o seu direito.",
+          "Guarde o comprovante de despacho, o cartão de embarque e as fotos."
+        ],
+        "postParagraphs": [
+          "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos dessas normas não estão neste texto. Confirme-os no site da [ANAC](https://www.gov.br/anac) antes de fazer qualquer reclamação.",
+          "Esta seção é informativa e não substitui orientação jurídica."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp",
+          "alt": "Mulher segurando o celular ao lado de uma mala de bordo Route preta da Bagaggio",
+          "caption": "Mala de bordo Route preta. Foto oficial da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Como acionar, por canal",
+        "paragraphs": [
+          "Antes de tudo, a mala e o cliente precisam estar no Brasil. A loja pede a nota fiscal para abrir o pedido de análise."
+        ],
+        "bullets": [
+          "Compra pelo site: acesse o [Troque Fácil](https://bagaggio.troquefacil.com.br/) com o número do pedido e o CPF.",
+          "Compra em loja física: procure, de preferência, a loja onde a compra foi feita, ou escreva para atendimento@bagaggio.com.br."
+        ],
+        "postParagraphs": [
+          "Sobre a compra pelo site, os textos da loja não dizem a mesma coisa. A página de garantia diz que o cliente pode pedir a garantia em qualquer loja física própria da Bagaggio, e que o Troque Fácil vale quando não há loja na região. O Termo de garantia diz que, na compra online, o pedido deve ser feito pelo Troque Fácil. A página de trocas e devoluções fala em loja física. Este artigo cita os dois caminhos, e a loja deve confirmar qual vale no seu caso.",
+          "Para a primeira análise, a loja pede fotos: a nota fiscal, o produto por completo (de frente, de costas e dos lados, com o local danificado visível), a descrição clara da avaria e a data em que o defeito foi constatado.",
+          "Depois das fotos, a loja analisa se o defeito é coberto. Se aprovado, ela envia por e-mail o procedimento para mandar a mala para inspeção física e informa o prazo de reparo, de até 30 dias. Se recusado, manda um parecer técnico por e-mail. Nesse caso, reparo e frete para a assistência autorizada ficam com o cliente.",
+          "Se a mala não tiver conserto, a lei dá a escolha entre troca por outro da mesma espécie, devolução do valor pago e abatimento proporcional do preço. A página de ajuda diz que a troca é feita por voucher, considerando o valor da nota fiscal. O Termo fala em substituição do produto. Os dois textos estão na loja, e este artigo cita os dois.",
+          "Se a mala sair de linha e precisar ser trocada, o modelo novo também tem garantia vitalícia, nas mesmas condições."
+        ],
+        "image": {
+          "src": "/images/reviews/bagaggio/garantia-detroit-angulos.webp",
+          "alt": "Mala Detroit vermelha da Bagaggio fotografada de frente, em ângulo e de lado",
+          "caption": "Exemplo de ângulos para as fotos da análise, com fotos oficiais da Detroit vermelha. A loja pede também a foto de costas, a nota fiscal e a avaria visível.",
+          "objectFit": "contain",
+          "aspectRatio": 2.1053
+        }
+      },
+      {
+        "heading": "Garantia fora do Brasil",
+        "paragraphs": [
+          "A garantia não vale fora do Brasil. Se o defeito aparecer no exterior, o acionamento só começa depois do retorno ao país. A loja não envia peças, não faz coletas e não cobre frete, taxas nem assistências estrangeiras, e esses custos ficam com o cliente."
+        ]
+      },
+      {
+        "heading": "Se o pedido der problema",
+        "paragraphs": [
+          "Se a loja não resolver, o [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao) mostra o que os dados públicos dizem sobre o atendimento."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Bagaggio e pode receber comissão pelas compras feitas com o cupom CECILIA10. Veja a [página do cupom da Bagaggio](/cupons/bagaggio) para as condições vigentes.",
+          "O cupom dá 10% OFF em todo o site, inclusive no Outlet e em produto já com desconto. O Pix de 5% entra depois, sobre o total que já tem o cupom. Vale em todas as formas de pagamento, para cliente novo e antigo, com um cupom por pedido.",
+          "Ele vai no campo \"Cupom de desconto\" do resumo, e não no campo de vendedor ou influenciador. Confira as parcelas no checkout. Em 22/10/2026, montamos a sacola no site, sem finalizar, e o desconto apareceu no resumo.",
+          "O passo a passo do cupom e os números do teste estão em [como usar o cupom da Bagaggio](/reviews/cupom-bagaggio-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo, 90 dias.",
+          "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas a partir de 29/04/2024. Travelcross, Swiss One e Samsonite seguem a garantia do fabricante.",
+          "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR.",
+          "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
+          "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
+          "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível.",
+          "Tem cupom na Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site e um cupom por pedido. No Mercado Livre o cupom não vale: lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2KeydkG) abre a vitrine da Cecília por lá."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a sua compra é na Bagaggio, entre no site oficial e cole o CECILIA10 no carrinho para ganhar 10% OFF.",
+      "label": "Ir para a Bagaggio com o cupom",
+      "url": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "bagaggio",
+    "editorialNote": "Feito com fontes públicas da própria loja. Podemos receber comissão pelas compras com o CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "bagaggio-e-confiavel",
+        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      },
+      {
+        "slug": "bagaggio-reclame-aqui-nota-reputacao",
+        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      },
+      {
+        "slug": "cupom-bagaggio-como-usar",
+        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      },
+      {
+        "slug": "black-friday-bagaggio",
+        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      }
+    ],
+    "imageAspect": "landscape"
   }
 ];

@@ -7,9 +7,9 @@ parceiro_slug: "bagaggio"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "em-conformacao-json"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "PR e deploy"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 66
@@ -250,3 +250,11 @@ Pauta aprovada em 22/10/2026. As perguntas abertas abaixo ficaram respondidas as
 7. **Capa:** foto oficial de uma mala de bordo, com faixa do print do topo do RA e o logo do RA. Qual mala, e o logo do RA pode entrar com a fonte escrita? Recomendação: sim, com a fonte escrita na faixa.
 8. **Irmão de confiança:** confirma que [[bagaggio-e-confiavel]] segue sem nomear os perfis Oficial e BAGAGGIO, e só linka para cá? Recomendação: sim.
 9. **Garantia vitalícia:** a seção curta fica aqui, com link para o artigo de confiança, ou só lá? Recomendação: aqui, um parágrafo e uma lista curta, com link.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 22/10/2026)
+
+Folha aprovada em 22/10/2026 (capas na primeira rodada; mais fotos de produto no corpo na segunda). Upload FTPS, verificação HTTPS e mapa de entrega em 22/10/2026. Fotos oficiais do catálogo público da loja (VTEX), lidas em 22/10/2026.
+
+- **Capa:** `/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa.webp` (1600×900, `imageFit: "contain"`). Alt: "Três malas Route vinho da Bagaggio em foto oficial da loja, com o topo do perfil Bagaggio - Loja Virtual no Reclame Aqui (reputação Boa e selo Empresa Verificada) e o logo do Reclame Aqui". Origem: Foto oficial de ambiente da loja (Route vinho) e topo do perfil no RA (print de 22/10); gerador do repositório.
+- **Os números da Loja Virtual:** `/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses.webp` (contain, 1.7778). Alt: "Quadro com os números do perfil Bagaggio - Loja Virtual no Reclame Aqui em 22/10/2026: nos últimos 6 meses, reputação Boa, nota 7,7, 1.137 reclamações e 90,4% resolvidas; nos últimos 12 meses, reputação Ruim, nota 5,8, 5.757 reclamações e 72,8% resolvidas". Legenda: "Quadro nosso com as abas de 6 e de 12 meses do perfil Bagaggio - Loja Virtual, lidas no Reclame Aqui em 22/10/2026.". Origem: Quadro nosso (abas de 6 e 12 meses, 22/10).
+- **Como a reputação mudou:** `/images/reviews/bagaggio/bagaggio-reclame-aqui-historico-6-meses.webp` (contain, 1.7778). Alt: "Quadro com a reputação mês a mês do Bagaggio - Loja Virtual no Reclame Aqui: Ruim em abril, maio e junho de 2026; Regular em julho; Boa em agosto e setembro de 2026". Legenda: "Quadro nosso com o histórico de reputação do perfil Bagaggio - Loja Virtual, lido no Reclame Aqui em 22/10/2026. O RA não mostra o número de reclamações por mês.". Origem: Quadro nosso (histórico mês a mês, 22/10).
