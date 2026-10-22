@@ -51274,6 +51274,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35774,
+      "sha256": "92d8fbcc0a92a029afe348c542d102b84b3feea3ef5304b9fcad813d3e46500c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-hostinger-capa-discover.webp",
+      "storage_filename": "black-friday-hostinger-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-hostinger-ofertas.json",
+        "content/reviews/black-friday-hostinger-offerte.json",
+        "content/reviews/black-friday-hostinger-offres.json",
+        "content/reviews/black-friday-hostinger.json",
+        "content/reviews/hostinger-black-friday-angebote.json",
+        "content/reviews/hostinger-black-friday-ja.json",
+        "content/reviews/hostinger-black-friday-ko.json",
+        "content/reviews/hostinger-black-friday-zh-hans.json",
+        "content/reviews/hostinger-black-friday-zh-hant.json",
+        "content/reviews/hostinger-black-friday.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-hostinger-ofertas.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger-offerte.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger-offres.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-hostinger.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-angebote.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-black-friday.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/92d8fbcc0a92a029afe348c542d102b84b3feea3ef5304b9fcad813d3e46500c/black-friday-hostinger-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92d8fbcc0a92a029afe348c542d102b84b3feea3ef5304b9fcad813d3e46500c/black-friday-hostinger-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.587Z",
+      "verification_etag_or_digest": "92d8fbcc0a92a029afe348c542d102b84b3feea3ef5304b9fcad813d3e46500c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/black-friday-hostinger-capa.webp",
       "local_url": "/images/reviews/hostinger/black-friday-hostinger-capa.webp",
       "media_kind": "image",
@@ -51347,6 +51457,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T22:50:38.066Z",
       "verification_etag_or_digest": "cbe2a0db70ad49e82088e041b1d6fd8dc678d4ac58a28ab861412b1861af8fbe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31636,
+      "sha256": "d0e85b45c1ac6602c6474161ae22903ec3510f46ef611d4711c1b86d348dba46",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-hostinger-indicacao-capa-discover.webp",
+      "storage_filename": "cupom-hostinger-indicacao-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-promo-hostinger-parrainage.json",
+        "content/reviews/coupon-hostinger-codice-invito.json",
+        "content/reviews/cupom-hostinger-indicacao.json",
+        "content/reviews/cupon-hostinger-codigo-de-referido.json",
+        "content/reviews/hostinger-coupon-code-referral.json",
+        "content/reviews/hostinger-gutschein-empfehlungscode.json",
+        "content/reviews/hostinger-referral-code-ja.json",
+        "content/reviews/hostinger-referral-code-ko.json",
+        "content/reviews/hostinger-referral-code-zh-hans.json",
+        "content/reviews/hostinger-referral-code-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-promo-hostinger-parrainage.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/coupon-hostinger-codice-invito.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-hostinger-indicacao.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupon-hostinger-codigo-de-referido.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-coupon-code-referral.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-gutschein-empfehlungscode.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-referral-code-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d0e85b45c1ac6602c6474161ae22903ec3510f46ef611d4711c1b86d348dba46/cupom-hostinger-indicacao-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d0e85b45c1ac6602c6474161ae22903ec3510f46ef611d4711c1b86d348dba46/cupom-hostinger-indicacao-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "d0e85b45c1ac6602c6474161ae22903ec3510f46ef611d4711c1b86d348dba46",
       "verification_status": "verified"
     },
     {
@@ -51716,6 +51936,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30130,
+      "sha256": "3e81a929077b2cd328cbc7787c635ea19375a86cdb75ef5e6844dbdbc87a9910",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-e-confiavel-capa-discover.webp",
+      "storage_filename": "hostinger-e-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-e-affidabile.json",
+        "content/reviews/hostinger-e-confiavel.json",
+        "content/reviews/hostinger-es-confiable.json",
+        "content/reviews/hostinger-est-il-fiable.json",
+        "content/reviews/hostinger-trust-guide-ja.json",
+        "content/reviews/hostinger-trust-guide-ko.json",
+        "content/reviews/hostinger-trust-guide-zh-hans.json",
+        "content/reviews/hostinger-trust-guide-zh-hant.json",
+        "content/reviews/is-hostinger-legit.json",
+        "content/reviews/ist-hostinger-serioes.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-e-affidabile.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-e-confiavel.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-es-confiable.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-est-il-fiable.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trust-guide-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trust-guide-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trust-guide-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trust-guide-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/is-hostinger-legit.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/ist-hostinger-serioes.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3e81a929077b2cd328cbc7787c635ea19375a86cdb75ef5e6844dbdbc87a9910/hostinger-e-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e81a929077b2cd328cbc7787c635ea19375a86cdb75ef5e6844dbdbc87a9910/hostinger-e-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "3e81a929077b2cd328cbc7787c635ea19375a86cdb75ef5e6844dbdbc87a9910",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
       "local_url": "/images/reviews/hostinger/hostinger-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -52082,6 +52412,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32714,
+      "sha256": "3f2b11bbb807506ee2dea5c6b669d81a255519d5578c9a0257763b9c38165ca6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "storage_filename": "hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-avis-trustpilot.json",
+        "content/reviews/hostinger-opiniones-trustpilot.json",
+        "content/reviews/hostinger-recensioni-trustpilot.json",
+        "content/reviews/hostinger-reclame-aqui-nota-reputacao.json",
+        "content/reviews/hostinger-trustpilot-bewertungen.json",
+        "content/reviews/hostinger-trustpilot-reviews-ja.json",
+        "content/reviews/hostinger-trustpilot-reviews-ko.json",
+        "content/reviews/hostinger-trustpilot-reviews-zh-hans.json",
+        "content/reviews/hostinger-trustpilot-reviews-zh-hant.json",
+        "content/reviews/hostinger-trustpilot-reviews.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-avis-trustpilot.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-opiniones-trustpilot.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-recensioni-trustpilot.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-reclame-aqui-nota-reputacao.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-bewertungen.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-reviews-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-reviews-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-reviews-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-reviews-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-trustpilot-reviews.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3f2b11bbb807506ee2dea5c6b669d81a255519d5578c9a0257763b9c38165ca6/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3f2b11bbb807506ee2dea5c6b669d81a255519d5578c9a0257763b9c38165ca6/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "3f2b11bbb807506ee2dea5c6b669d81a255519d5578c9a0257763b9c38165ca6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
       "local_url": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa.webp",
       "media_kind": "image",
@@ -52345,6 +52785,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T22:50:38.066Z",
       "verification_etag_or_digest": "a9b6f1f5ac58a03ce3616474041bc745eccbd3be459600c013d203f3f85ca49f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22920,
+      "sha256": "b1d203771ac00ef8e4b0d4da6c58cf92cf924ef3c34bbbd6ccb0c1ff72dd0a59",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhor-vps-para-openclaw-capa-discover.webp",
+      "storage_filename": "melhor-vps-para-openclaw-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/best-vps-for-openclaw-ja.json",
+        "content/reviews/best-vps-for-openclaw-ko.json",
+        "content/reviews/best-vps-for-openclaw-zh-hans.json",
+        "content/reviews/best-vps-for-openclaw-zh-hant.json",
+        "content/reviews/best-vps-for-openclaw.json",
+        "content/reviews/bester-vps-fuer-openclaw.json",
+        "content/reviews/meilleur-vps-pour-openclaw.json",
+        "content/reviews/mejor-vps-para-openclaw.json",
+        "content/reviews/melhor-vps-para-openclaw.json",
+        "content/reviews/miglior-vps-per-openclaw.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/best-vps-for-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/bester-vps-fuer-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/meilleur-vps-pour-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/mejor-vps-para-openclaw.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/melhor-vps-para-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/miglior-vps-per-openclaw.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b1d203771ac00ef8e4b0d4da6c58cf92cf924ef3c34bbbd6ccb0c1ff72dd0a59/melhor-vps-para-openclaw-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1d203771ac00ef8e4b0d4da6c58cf92cf924ef3c34bbbd6ccb0c1ff72dd0a59/melhor-vps-para-openclaw-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "b1d203771ac00ef8e4b0d4da6c58cf92cf924ef3c34bbbd6ccb0c1ff72dd0a59",
       "verification_status": "verified"
     },
     {
@@ -52986,6 +53536,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T21:43:07.241Z",
       "verification_etag_or_digest": "e36d5632e1cc92e3452adad2dd05b14b742774dd66a0e824fb4b56068835b40f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19770,
+      "sha256": "0ec00f7b3b41f76268d34d6b1872e788fd0037463a54df90d52350f4f996cb6f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "storage_filename": "openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+        "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+        "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+        "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+        "content/reviews/openclaw-hostinger-managed-or-vps.json",
+        "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-hostinger-gere-ou-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gerenciado-ou-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gestionado-o-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-gestito-o-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-managed-or-vps.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-hostinger-verwaltet-oder-vps.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0ec00f7b3b41f76268d34d6b1872e788fd0037463a54df90d52350f4f996cb6f/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0ec00f7b3b41f76268d34d6b1872e788fd0037463a54df90d52350f4f996cb6f/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "0ec00f7b3b41f76268d34d6b1872e788fd0037463a54df90d52350f4f996cb6f",
       "verification_status": "verified"
     },
     {
@@ -54090,6 +54750,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31620,
+      "sha256": "7f356cfa438672c40fe9509a20fe190ba5d4364518f9cfe2f6ac2df5526a4342",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "openclaw-ou-hermes-agent-capa-discover.webp",
+      "storage_filename": "openclaw-ou-hermes-agent-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+        "content/reviews/openclaw-o-hermes-agent.json",
+        "content/reviews/openclaw-oder-hermes-agent.json",
+        "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+        "content/reviews/openclaw-ou-hermes-agent.json",
+        "content/reviews/openclaw-vs-hermes-agent-ja.json",
+        "content/reviews/openclaw-vs-hermes-agent-ko.json",
+        "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+        "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+        "content/reviews/openclaw-vs-hermes-agent.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent-quale-scegliere.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-o-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-oder-hermes-agent.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent-que-choisir.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-ou-hermes-agent.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/openclaw-vs-hermes-agent.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7f356cfa438672c40fe9509a20fe190ba5d4364518f9cfe2f6ac2df5526a4342/openclaw-ou-hermes-agent-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f356cfa438672c40fe9509a20fe190ba5d4364518f9cfe2f6ac2df5526a4342/openclaw-ou-hermes-agent-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "7f356cfa438672c40fe9509a20fe190ba5d4364518f9cfe2f6ac2df5526a4342",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
       "local_url": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa.webp",
       "media_kind": "image",
@@ -54728,6 +55498,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T21:43:07.241Z",
       "verification_etag_or_digest": "11c40f00e5642af00cc397baa536de08924e7a20be57fe9d0d074dd65c86b18a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+      "local_url": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21336,
+      "sha256": "e2bed1638e3c8af46351f0adb01f19317f1f5ef8db6ff8a6bbcf4be614f41e0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "paperclip-ai-hostinger-capa-discover.webp",
+      "storage_filename": "paperclip-ai-hostinger-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/paperclip-ai-hostinger-anleitung.json",
+        "content/reviews/paperclip-ai-hostinger-guida.json",
+        "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+        "content/reviews/paperclip-ai-hostinger-guide.json",
+        "content/reviews/paperclip-ai-hostinger-ja.json",
+        "content/reviews/paperclip-ai-hostinger-ko.json",
+        "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+        "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+        "content/reviews/paperclip-ai-hostinger.json",
+        "content/reviews/paperclip-ai-que-es-hostinger.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-anleitung.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guida.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide-fr.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-guide.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-ko.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-hostinger.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/paperclip-ai-que-es-hostinger.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e2bed1638e3c8af46351f0adb01f19317f1f5ef8db6ff8a6bbcf4be614f41e0a/paperclip-ai-hostinger-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2bed1638e3c8af46351f0adb01f19317f1f5ef8db6ff8a6bbcf4be614f41e0a/paperclip-ai-hostinger-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-22T18:58:08.588Z",
+      "verification_etag_or_digest": "e2bed1638e3c8af46351f0adb01f19317f1f5ef8db6ff8a6bbcf4be614f41e0a",
       "verification_status": "verified"
     },
     {
