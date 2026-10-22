@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
-  "imageAlt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
+  "image": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
+  "imageAlt": "Whey 100% HD Gourmet da Black Skull em pote e refil e a caixa de Whey Bar Gourmet, em imagens oficiais da loja, com o logo e o título Black Friday da Black Skull",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -61,6 +61,13 @@
       "paragraphs": [
         "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o catálogo da loja mostrava em 14 de outubro de 2026. Onde há desconto, o preço de lista aparece ao lado do preço do dia. Os dois valores são anteriores ao cupom CECILIA10."
       ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-friday-black-skull-home-whey.webp",
+        "alt": "Página inicial do site da Black Skull em 14/10/2026, com o banner do Whey Protein Concentrado a partir de R$ 139,90",
+        "caption": "A página inicial da Black Skull em 14/10/2026, com o Whey Protein Concentrado a partir de R$ 139,90.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preços da Black Skull em 14 de outubro de 2026: preço de lista e preço do dia, antes do cupom CECILIA10.",
         "headers": [

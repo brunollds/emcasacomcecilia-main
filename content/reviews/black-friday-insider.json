@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-10",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
-  "imageAlt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+  "image": "/images/reviews/insider/black-friday-insider-capa-discover.webp",
+  "imageAlt": "Tech T-Shirt da Insider nas cores preta, vinho e verde vestida por modelos, em fotos oficiais da loja, com o logo e o título Black Friday da Insider",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -53,7 +53,14 @@
         "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em 9 de outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto de 27 de novembro.",
         "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. A de 10 de outubro dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
         "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio de 28 de novembro de 2024, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+        "alt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+        "caption": "O banner da coleção Black Friday 2026 no site da Insider: Descontos inteligentes, itens atemporais.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Tech T-Shirt e kits: preços de outubro",

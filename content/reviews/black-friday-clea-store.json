@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
-  "imageAlt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
+  "image": "/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp",
+  "imageAlt": "Blazer oversized mescla, colete trespasse vermelho e camisa clássica off-white da Cléa Store vestidos por modelos, com o logo da loja e o título Black Friday da Cléa Store",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -67,6 +67,13 @@
       "paragraphs": [
         "O jeito mais seguro de saber se uma oferta de novembro é boa é guardar o preço de antes. Estes são os preços de tabela do site em 14/10/2026, antes de qualquer desconto, ao lado do preço que o site já mostrava naquele dia, sem cupom e sem campanha de Black Friday:"
       ],
+      "image": {
+        "src": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
+        "alt": "Categoria Body do site da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20 e os bodies Tule Gola Alta e Regata Second Skin Duplo de R$ 159,00 por R$ 127,20",
+        "caption": "A categoria Body da Cléa Store em 14/10/2026, com o Body Gola Alta Manga Longa de R$ 169,00 por R$ 135,20.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preços na Cléa Store em 14/10/2026: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
         "headers": ["Produto", "Preço de tabela", "Preço no site em 14/10/2026"],

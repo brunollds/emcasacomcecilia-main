@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-  "imageAlt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
+  "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover.webp",
+  "imageAlt": "Cinco potes de pasta de amendoim Dr. Peanut, com o logo da loja e o título Black Friday da Dr. Peanut",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -76,7 +76,14 @@
         "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
         "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM de 18/02/2025, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
         "Da Black Friday de 2025, em 14/10/2026 não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
+        "alt": "Página inicial do site da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF",
+        "caption": "A página inicial da Dr. Peanut em 14/10/2026, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Como o cupom entra na Black Friday",

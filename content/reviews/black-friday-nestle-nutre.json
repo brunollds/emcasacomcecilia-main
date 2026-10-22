@@ -19,9 +19,9 @@
   "publishedAtISO": "2026-10-10",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
-  "imageAlt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
-  "imageFit": "cover",
+  "image": "/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp",
+  "imageAlt": "Latas de Nutren Senior, Nutren Protein, Nutren Control e Nutren Active, com o logo da Nestlé Nutre e o título Black Friday da Nestlé Nutre",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Nutren Senior, Just Protein e Nutren Active já tinham preço riscado em outubro",
@@ -145,6 +145,13 @@
     },
     {
       "heading": "Assinatura ou compra única com o cupom CECI",
+      "image": {
+        "src": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+        "alt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
+        "caption": "A lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
         "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",

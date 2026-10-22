@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
-  "imageAlt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+  "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp",
+  "imageAlt": "Multivitamínico Multi Max Complex e pré-treino Shook da Max Titanium, com o logo da loja e o título Black Friday da Max Titanium",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -83,6 +83,13 @@
       "paragraphs": [
         "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque na consulta, como a Creatina Creapure 250g, a Creatina 100g e alguns kits, ficaram de fora."
       ],
+      "image": {
+        "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
+        "alt": "Página inicial do site da Max Titanium em 14/10/2026, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
+        "caption": "A página inicial da Max Titanium em 14/10/2026, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Preços do whey e da creatina no site da Max Titanium em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto, com o preço de lista quando a loja o mostra.",
         "headers": [
