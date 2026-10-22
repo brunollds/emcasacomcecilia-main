@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-15",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/lejour/black-friday-lejour-home.webp",
-  "imageAlt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+  "image": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
+  "imageAlt": "Duas noivas abraçadas num terraço com flores, foto do site da Lejour, com o logo da Lejour e o título Black Friday da Lejour",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
@@ -203,7 +203,14 @@
         "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
         "Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
         "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/lejour/black-friday-lejour-home.webp",
+        "alt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+        "caption": "A página inicial da Lejour em 14/10/2026, com o logo da parceria Fast Shop + Lejour no cabeçalho.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Perguntas frequentes",

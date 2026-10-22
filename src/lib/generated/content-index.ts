@@ -77329,8 +77329,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
-    "imageAlt": "Painel da Lejour com o menu Personalizar site, Lista de presentes e Lista de convidados e a prévia do site do casal",
+    "image": "/images/reviews/lejour/lejour-como-funciona-capa-discover.webp",
+    "imageAlt": "Dois noivos sorrindo num terraço com flores, foto do site da Lejour, com o logo da Lejour e o título Como funciona a Lejour",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -77350,6 +77350,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Lejour junta, num só painel, o que o casal precisa para avisar e organizar a festa. O menu do painel mostra as áreas: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop."
         ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+          "alt": "Painel da Lejour com o menu Personalizar site, Lista de presentes e Lista de convidados e a prévia do site do casal",
+          "caption": "O painel da Lejour, com o menu de personalizar o site, a lista de presentes, a lista de convidados e a prévia do site do casal.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "**Site do casamento.** Uma página pública com as informações da festa, que o casal personaliza. O título do site da Lejour o apresenta como \"site de casamento grátis e lista de presentes\".",
           "**Lista de presentes.** Onde o casal define os presentes e acompanha o que os convidados deram. Como ela funciona está na próxima seção.",
@@ -77652,8 +77659,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lejour-lista-capa.webp",
-    "imageAlt": "Passo 3 do cadastro na Lejour: tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema",
+    "image": "/images/reviews/lejour/lista-de-casamento-lejour-capa-discover.webp",
+    "imageAlt": "Ilustração da lista de presentes da Lejour, com panelas e um maço de dinheiro, com o logo da Lejour e o título Lista de casamento na Lejour",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -77700,7 +77707,14 @@ export const reviewsData: unknown[] = [
         "heading": "3. Escolha o tema do site",
         "paragraphs": [
           "O passo 3, \"Qual tema vocês mais gostam?\", mostra a prévia do site do casal e, abaixo dela, quatro bolinhas de cor, uma delas marcada. A Lejour avisa: \"Lembrando que vocês podem alterar o tema quando quiserem!\". A prévia traz o nome do casal no topo, a \"Mensagem inicial\" e a seção \"Sobre o casal\". A barra de progresso marca \"3/3\"."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-lista-capa.webp",
+          "alt": "Passo 3 do cadastro na Lejour: tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema",
+          "caption": "O passo 3 do cadastro: a tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "4. Crie a conta grátis para salvar",
@@ -81068,8 +81082,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-15",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/black-friday-lejour-home.webp",
-    "imageAlt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+    "image": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
+    "imageAlt": "Duas noivas abraçadas num terraço com flores, foto do site da Lejour, com o logo da Lejour e o título Black Friday da Lejour",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -81252,7 +81266,14 @@ export const reviewsData: unknown[] = [
           "O crédito dos presentes não precisa virar dinheiro. O casal pode sacar por Pix, usar em produtos da Fast Shop ou dividir entre os dois, e o painel da Lejour tem uma área só para os produtos da Fast Shop. A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\".",
           "Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito da lista dão cashback mínimo de 4% para as próximas compras. Pela nossa conta, num crédito de R$ 5.000 usado na loja, 4% são R$ 200 de cashback, e o cashback é para as próximas compras na Fast Shop, não para saque.",
           "A condição é da Fast Shop, não da Lejour; qualquer oferta maior só vale depois de a loja publicar. Compare o preço do produto na Fast Shop com o de outras lojas antes de usar o crédito, porque o cashback só compensa se o produto não custar mais caro. A segurança dessa parceria e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/lejour/black-friday-lejour-home.webp",
+          "alt": "Página inicial do site da Lejour em 14/10/2026, com a chamada Crie seu site de casamento e lista de presentes em um só lugar e o logo da parceria Fast Shop + Lejour",
+          "caption": "A página inicial da Lejour em 14/10/2026, com o logo da parceria Fast Shop + Lejour no cabeçalho.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Perguntas frequentes",
@@ -83584,8 +83605,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-16",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
-    "imageAlt": "Gráfico com R$ 20.000 em presentes de casamento e quanto o casal recebe na Lejour, no iCasei e no Casar.com",
+    "image": "/images/reviews/lejour/lejour-ou-icasei-capa-discover.webp",
+    "imageAlt": "Casal de noivos sorrindo num terraço com flores, foto do site da Lejour, com o logo da Lejour e a pergunta Lejour ou iCasei",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -83735,6 +83756,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Fizemos a conta para uma lista que arrecada R$ 20.000. As premissas:"
         ],
+        "image": {
+          "src": "/images/reviews/lejour/lejour-ou-icasei-capa.webp",
+          "alt": "Gráfico com R$ 20.000 em presentes de casamento e quanto o casal recebe na Lejour, no iCasei e no Casar.com",
+          "caption": "Quanto o casal fica de R$ 20.000 em presentes no plano de cada plataforma: Lejour Premium, iCasei Basic e Casar.com grátis.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "bullets": [
           "todos os presentes pagos por Pix;",
           "o casal paga a taxa;",
@@ -101590,8 +101618,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-20",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
-    "imageAlt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
+    "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
+    "imageAlt": "Onze potes de pasta de amendoim Dr. Peanut em sabores diferentes, com o logo da loja e a pergunta Dr. Peanut é saudável",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -101622,6 +101650,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O quadro mostra uma porção de cada produto, como a loja a define. Na Doctor Bar e na Doctor Wafer, lemos só o sabor Avelã. Nas pastas, no alfajor e no whey, a faixa junta todos os sabores."
         ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
+          "alt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
+          "caption": "A porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey, segundo a tabela da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "headers": [
             "Produto",
