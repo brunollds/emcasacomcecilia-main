@@ -1968,6 +1968,98 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
+    offerMode: 'discount-code',
+    slug: 'bagaggio',
+    brand: 'Bagaggio',
+    officialUrl: 'https://www.bagaggio.com.br/',
+    offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
+    brandIcon: 'BG',
+    brandLogo: '/images/about/partners/bagaggio-icon.png',
+    brandLogoAlt: 'Marca Bagaggio',
+    brandWatermark: '/images/logos/watermarks/bagaggio.webp',
+    brandColor: '#265842',
+    code: 'CECILIA10',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Malas, mochilas e acessórios de viagem',
+    hubCategory: 'moda',
+    shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em malas de bordo e de viagem, mochilas, bolsas, carteiras e acessórios no site oficial da Bagaggio, com qualquer forma de pagamento e inclusive nos produtos que já estão em promoção e no Outlet.',
+    metaTitle: 'Cupom Bagaggio Outubro 2026: CECILIA10 — 10% OFF',
+    metaDescription:
+      'Cupom Bagaggio de outubro de 2026: use CECILIA10 e ganhe 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
+    eligibleCategories: 'Todos os produtos do site oficial da Bagaggio, inclusive os do Outlet',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado pelo CEP no carrinho; o site também mostra a retirada em lojas próximas, conforme a disponibilidade',
+    combinable:
+      'Soma com as promoções vigentes do site, inclusive o Outlet, e com os 5% de desconto do Pix, e vale com todas as formas de pagamento; não soma com outro cupom, como o da promoção de 50% na 2ª peça',
+    lastVerified: '2026-10-22',
+    testNote:
+      'Aplicamos o CECILIA10 num carrinho com uma mala de bordo Downtown do Outlet, que já estava de R$ 249,90 por R$ 179,90, e o desconto foi de R$ 17,99: o total caiu para R$ 161,91, e no Pix a loja tirou mais 5%, para R$ 153,81.',
+    codeInstructions: [
+      'Copie o código CECILIA10 no card acima.',
+      'Acesse o site oficial da Bagaggio pelo botão indicado e coloque os produtos no carrinho.',
+      'No carrinho, cole o código no campo de cupom de desconto e aplique.',
+      'Confira o desconto no resumo do pedido antes de escolher a forma de pagamento.',
+    ],
+    aboutBrand:
+      'A Bagaggio é uma marca brasileira de malas, mochilas, bolsas e acessórios de viagem, no mercado desde 1942, com loja online e lojas físicas. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções, com o Outlet e com o desconto de 5% do Pix. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom CECILIA10 vale para todos os produtos da Bagaggio?',
+        answer:
+          'Sim. O CECILIA10 dá 10% OFF em todos os produtos do site oficial da Bagaggio: malas, mochilas, bolsas, carteiras e acessórios, inclusive os do Outlet.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 22/10/2026, os 10% do cupom entraram sobre malas que já estavam com desconto no Outlet e também sobre uma mala a preço cheio.',
+      },
+      {
+        question: 'O cupom CECILIA10 soma com o desconto do Pix?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento e, no Pix, a Bagaggio ainda tira os 5% de desconto dela.',
+      },
+      {
+        question: 'Posso usar o CECILIA10 junto com a promoção de 50% na 2ª peça?',
+        answer:
+          'Não. A promoção da 2ª peça funciona com outro cupom da loja, que não acumula com outros cupons. Levando duas peças de preço parecido, os 50% na mais barata costumam render mais que os 10%; levando uma, fique com o CECILIA10.',
+      },
+      {
+        question: 'O cupom CECILIA10 está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 22/10/2026, o CECILIA10 aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Bagaggio?',
+        answer: 'No campo de cupom de desconto do carrinho, antes de escolher a forma de pagamento.',
+      },
+      {
+        question: 'Quanto custa o frete da Bagaggio?',
+        answer:
+          'O frete é calculado pelo CEP no carrinho. O site também mostra a retirada em lojas próximas, conforme a disponibilidade.',
+      },
+      {
+        question: 'Posso desistir da compra feita com o cupom?',
+        answer:
+          'Sim. Em compras pelo site, a Bagaggio aceita a desistência em até 7 dias corridos depois do recebimento, com vale-troca ou devolução do valor pago.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no carrinho quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Soma com as promoções do site, o Outlet e os 5% do Pix',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'hostinger',
     brand: 'Hostinger',

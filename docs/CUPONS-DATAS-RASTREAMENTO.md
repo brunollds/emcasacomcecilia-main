@@ -40,6 +40,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `belive` | Belive | `MAUAD` (o mesmo da Let's Eat It) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
 | `mais-mu` | Mais Mu | `MMEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regras do cashback na FAQ |
 | `skelt` | Skelt | `SKEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regra do brinde na FAQ; manter `offerUrl` exatamente como veio |
+| `bagaggio` | Bagaggio | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, regra da promoção de 50% na 2ª peça em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
 | `hostinger` | Hostinger | Indicação por link (o `SONARDEOFERTAS` vai no link), sem código para digitar | `lastVerified`, `metaTitle`, `metaDescription` e o percentual e as regras da indicação na FAQ, em PT e nos 9 idiomas de `couponTranslations.ts`; manter os dois links (o `/br` do PT e o global dos outros idiomas) exatamente como vieram |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
