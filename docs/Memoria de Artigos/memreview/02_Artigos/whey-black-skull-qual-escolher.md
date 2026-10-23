@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e sabores com estoque na Black Friday da Black Skull (80% HD Banana a R$ 139,90 em 23/10)"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 80
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #251, release `7ea1ab6`, build `01a16aee-5495-7348-a6a5-2b2e37ec482b`), id 601; 4 imagens no CDN (Job 6, folhas aprovadas pelo Bruno); revisão do Fable 5.1 com 9 achados aplicados (tabela do cupom cortada, colágeno em \"Atenção ao nome\", FAQ com 5 itens, 10 seções); preços relidos nas lojas no dia."
 affiliate: "black-skull"
 coupon: "CECILIA10"
 ---
@@ -225,3 +227,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 1. **`affiliate: "black-skull"`** (recorte, dock e bloco da loja).
 2. **Sem "melhor sabor":** lista dos sabores à venda em 23/10 e a frase de que a loja não publica venda por sabor.
 3. **Colágeno:** a mesma formulação dos comparativos (as duas frases da loja, com data), sem estimar a quantidade.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+- **Capa:** `/images/reviews/black-skull/whey-black-skull-capa.webp`
+- **A linha 100% HD: pote, refil, 1,8 kg e 450 g:** `/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp`
+- **3W Core e 100% HD: por que não são o mesmo produto:** `/images/reviews/black-skull/whey-black-skull-3w-core.webp`
+- **Quadro da linha: os 11 wheys e o kit de Turbo do site:** `/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp`

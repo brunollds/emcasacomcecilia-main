@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "depois de 31/10/2026 tirar a frase da T-Shirt de brinde dos 14 anos; quando houver camiseta para testar, atualizar com uso próprio"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 66
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #251, release `7ea1ab6`, build `01a16aee-5495-7348-a6a5-2b2e37ec482b`), id 599; 4 imagens no CDN (Job 6, folhas aprovadas pelo Bruno); revisão do Fable 5.1 com 9 achados aplicados (\"punho\" fora, nota editorial do modelo, básica = a oversized, brinde dos 14 anos até 31/10, nomes \"Kit 3 T-Shirts\"); preços relidos nas lojas no dia."
 ---
 
 # Briefing de Pauta: Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça
@@ -219,3 +221,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 3. **"Algodão penteado":** só como a loja diz, sem explicação até haver fonte técnica.
 4. **Imagem principal:** tabela desenhada com os modelos (opção A).
 5. Abertura obrigatória: ninguém do site comprou nem vestiu; quando houver uma camiseta para testar, vira artigo novo ou atualização deste (Bruno, 23/10).
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+- **Capa:** `/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp`
+- **Os 6 modelos de camiseta lado a lado:** `/images/reviews/clea-store/camiseta-clea-store-avulsa.webp`
+- **Avulsa ou kit: quanto sai cada peça:** `/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp`
+- **Avulsa ou kit: quanto sai cada peça:** `/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp`
