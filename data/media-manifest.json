@@ -45534,6 +45534,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
+      "local_url": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100926,
+      "sha256": "8089a79f9b50a4c6c7c3ac584d6e0b12248fb479be145627820f35ca1c31d02c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "damie-reclame-aqui-capa-discover.webp",
+      "storage_filename": "damie-reclame-aqui-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/damie-reclame-aqui-o-que-os-dados-mostram.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/damie-reclame-aqui-o-que-os-dados-mostram.json",
+          "line": 10,
+          "column": 13,
+          "literal": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8089a79f9b50a4c6c7c3ac584d6e0b12248fb479be145627820f35ca1c31d02c/damie-reclame-aqui-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8089a79f9b50a4c6c7c3ac584d6e0b12248fb479be145627820f35ca1c31d02c/damie-reclame-aqui-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:46:42.618Z",
+      "verification_etag_or_digest": "8089a79f9b50a4c6c7c3ac584d6e0b12248fb479be145627820f35ca1c31d02c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/natal-apoio-puff-joy.webp",
       "local_url": "/images/reviews/damie/natal-apoio-puff-joy.webp",
       "media_kind": "image",
@@ -58006,6 +58044,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-reclame-aqui-capa-discover.webp",
+      "local_url": "/images/reviews/insider/insider-reclame-aqui-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72344,
+      "sha256": "e2c21670cf962d0690bc78e049f10e51ceec952edcdcba5d4825fae5dbc90961",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-reclame-aqui-capa-discover.webp",
+      "storage_filename": "insider-reclame-aqui-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e2c21670cf962d0690bc78e049f10e51ceec952edcdcba5d4825fae5dbc90961/insider-reclame-aqui-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2c21670cf962d0690bc78e049f10e51ceec952edcdcba5d4825fae5dbc90961/insider-reclame-aqui-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:46:42.619Z",
+      "verification_etag_or_digest": "e2c21670cf962d0690bc78e049f10e51ceec952edcdcba5d4825fae5dbc90961",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
       "local_url": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
       "media_kind": "image",
@@ -64244,6 +64320,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75114,
+      "sha256": "eb5689db9996bdde28bb64262c75b1bfb60bc0a312aaac04d582920628c194b2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-reclame-aqui-capa-discover.webp",
+      "storage_filename": "lets-eat-it-reclame-aqui-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eb5689db9996bdde28bb64262c75b1bfb60bc0a312aaac04d582920628c194b2/lets-eat-it-reclame-aqui-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eb5689db9996bdde28bb64262c75b1bfb60bc0a312aaac04d582920628c194b2/lets-eat-it-reclame-aqui-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:46:42.619Z",
+      "verification_etag_or_digest": "eb5689db9996bdde28bb64262c75b1bfb60bc0a312aaac04d582920628c194b2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
       "local_url": "/images/reviews/letseatit/mesa-posta-natal-aparelho-porto-brasil-arauco.webp",
       "media_kind": "image",
@@ -65219,6 +65333,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "6965e73b98eaa6c67bf46d9b5f96991773a4978c02d8b2ff5a2c040b86b282fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/magalu/black-friday-magalu-capa-discover.webp",
+      "local_url": "/images/reviews/magalu/black-friday-magalu-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50124,
+      "sha256": "59b8a00930ff9b1a2742df42f784d3b5ae954360ad6feec269d370100c43e5ac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-magalu-capa-discover.webp",
+      "storage_filename": "black-friday-magalu-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-magalu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-magalu.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/black-friday-magalu-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/59b8a00930ff9b1a2742df42f784d3b5ae954360ad6feec269d370100c43e5ac/black-friday-magalu-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/59b8a00930ff9b1a2742df42f784d3b5ae954360ad6feec269d370100c43e5ac/black-friday-magalu-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:46:42.619Z",
+      "verification_etag_or_digest": "59b8a00930ff9b1a2742df42f784d3b5ae954360ad6feec269d370100c43e5ac",
       "verification_status": "verified"
     },
     {
@@ -81144,6 +81296,116 @@
       "uploaded_at": null,
       "verified_at": "2026-10-14T00:50:38.640Z",
       "verification_etag_or_digest": "1c48bfa6cd288146223601146a4db131252747d269e2700a35a1033ffc8f2b07",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 134436,
+      "sha256": "b5b3c925989407109a9d070940e23053af96afaa00b6c7e48e7f9c031657c911",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-e-confiavel-capa-discover.webp",
+      "storage_filename": "yesstyle-e-confiavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/es-yesstyle-de-fiar-y-seguro.json",
+        "content/reviews/is-yesstyle-legit-and-safe-review.json",
+        "content/reviews/ist-yesstyle-serioes-und-sicher.json",
+        "content/reviews/yesstyle-e-affidabile-e-sicuro.json",
+        "content/reviews/yesstyle-e-confiavel.json",
+        "content/reviews/yesstyle-est-il-fiable-et-sur.json",
+        "content/reviews/yesstyle-trust-guide-ja.json",
+        "content/reviews/yesstyle-trust-guide-ko.json",
+        "content/reviews/yesstyle-trust-guide-zh-hans.json",
+        "content/reviews/yesstyle-trust-guide-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/es-yesstyle-de-fiar-y-seguro.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/is-yesstyle-legit-and-safe-review.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/ist-yesstyle-serioes-und-sicher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-e-affidabile-e-sicuro.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-e-confiavel.json",
+          "line": 141,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-est-il-fiable-et-sur.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-trust-guide-ja.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-trust-guide-ko.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-trust-guide-zh-hans.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-trust-guide-zh-hant.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b5b3c925989407109a9d070940e23053af96afaa00b6c7e48e7f9c031657c911/yesstyle-e-confiavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b5b3c925989407109a9d070940e23053af96afaa00b6c7e48e7f9c031657c911/yesstyle-e-confiavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:46:42.619Z",
+      "verification_etag_or_digest": "b5b3c925989407109a9d070940e23053af96afaa00b6c7e48e7f9c031657c911",
       "verification_status": "verified"
     },
     {

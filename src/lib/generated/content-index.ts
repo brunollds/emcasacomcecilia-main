@@ -31060,8 +31060,10 @@ export const reviewsData: unknown[] = [
     "description": "Levantamento completo do Reclame Aqui da Damie Móveis: nota atual, taxa de resposta, tipos de reclamação mais comuns e o que considerar antes de comprar.",
     "publishedAt": "20 Jun 2026",
     "publishedAtISO": "2026-06-20",
-    "image": "/images/reviews/damie-reclame-aqui-hero.webp",
-    "imageAlt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
+    "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Cecília na poltrona Levita, no sofá na caixa e ao lado da poltrona Moon da Damie, com o quadro de reputação Ótimo e nota 8.0/10 da Damie no Reclame Aqui",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [
       "Dados públicos do Reclame Aqui",
       "Resposta de 100% das reclamações",
@@ -31105,7 +31107,14 @@ export const reviewsData: unknown[] = [
             "label": "Ver perfil oficial no Reclame Aqui →",
             "href": "https://www.reclameaqui.com.br/empresa/damie-moveis/"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/damie-reclame-aqui-hero.webp",
+          "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
+          "caption": "Painel da Damie Móveis no Reclame Aqui, consultado em junho de 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8664
+        }
       },
       {
         "heading": "Dados institucionais",
@@ -38109,8 +38118,8 @@ export const reviewsData: unknown[] = [
     ],
     "draft": false,
     "isNew": false,
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -38214,8 +38223,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "locale": "pt",
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília com três produtos da Abib (o creme booster com PDRN, a máscara labial e o adesivo de hidrogel para os olhos) e o logo da YesStyle",
     "translationKey": "yesstyle-trust"
   },
   {
@@ -39196,10 +39205,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "en",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "K-Beauty products and promotions on the YesStyle platform",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília with three Abib products (the PDRN booster cream, the lip mask and the hydrogel eye patch) and the YesStyle logo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39322,10 +39331,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "es",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "Productos de K-Beauty y ofertas en la plataforma YesStyle",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília con tres productos de Abib (la crema booster con PDRN, la mascarilla labial y el parche de hidrogel para los ojos) y el logo de YesStyle",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39443,10 +39452,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "fr",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "Produits K-Beauty et offres sur la plateforme YesStyle",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília avec trois produits d'Abib (la crème booster au PDRN, le masque pour les lèvres et le patch hydrogel pour les yeux) et le logo de YesStyle",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39563,10 +39572,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "de",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "K-Beauty Produkte und Angebote auf YesStyle",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília mit drei Produkten von Abib (der Booster-Creme mit PDRN, der Lippenmaske und dem Hydrogel-Augenpad) und dem YesStyle-Logo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39683,10 +39692,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "ko",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "YesStyle 플랫폼의 K-뷰티 제품 및 프로모션",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília와 Abib 제품 세 가지(PDRN 부스터 크림, 립 마스크, 눈가 하이드로겔 패치), 그리고 YesStyle 로고",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39788,10 +39797,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "ja",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "YesStyleのK-Beauty製品とプロモーション",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "セシリアとAbibの3つの製品（PDRN配合ブースタークリーム、リップマスク、目元用ハイドロゲルパッチ）、YesStyleのロゴ",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -39908,10 +39917,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "zh-hant",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "YesStyle 平台上的 K-Beauty 美妝產品",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "西西莉亞和三款 Abib 產品（PDRN 精華乳霜、唇膜和水凝膠眼貼），以及 YesStyle 的標誌",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -40013,10 +40022,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "zh-hans",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "YesStyle 平台上的 K-Beauty 美妆产品",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "西西莉亚和三款 Abib 产品（PDRN 精华面霜、唇膜和水凝胶眼贴），以及 YesStyle 的标志",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -48413,10 +48422,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "locale": "it",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "Prodotti K-Beauty e offerte sulla piattaforma YesStyle",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/yesstyle/yesstyle-e-confiavel-capa-discover.webp",
+    "imageAlt": "Cecília con tre prodotti di Abib (la crema booster con PDRN, la maschera per le labbra e il patch in idrogel per gli occhi) e il logo di YesStyle",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -50682,9 +50691,9 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
-    "imageAlt": "Perfil da Lets Eat It no Reclame Aqui, na categoria Móveis e Decoração, com reputação Boa",
-    "imageFit": "cover",
+    "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Panela redonda Le Creuset branca, faqueiro Wolff Avalon numa mesa posta e caneca Le Creuset da Let's Eat It, com o quadro de reputação Boa e nota 7,6/10 no Reclame Aqui",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "99,1% das reclamações dos últimos 6 meses foram respondidas — só 1 aguardava resposta na consulta",
@@ -50715,7 +50724,14 @@ export const reviewsData: unknown[] = [
         "heading": "Por que olhar o Reclame Aqui antes de comprar panela e cristal",
         "paragraphs": [
           "Uma panela de ferro esmaltado ou um aparelho de jantar completo não é compra de impulso, e cristal e porcelana viajam mal quando a embalagem não ajuda. Por isso, antes de começar a indicar a Let's Eat It por aqui, fui ver como ela se comporta quando algo dá errado. O Reclame Aqui não mostra se uma loja é perfeita — nenhuma é —, mas mostra o padrão dos problemas e se a empresa aparece para resolver."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+          "alt": "Perfil da Let's Eat It no Reclame Aqui, na categoria Móveis e Decoração, com reputação Boa",
+          "caption": "Perfil da Let's Eat It no Reclame Aqui, consultado em 02/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.777
+        }
       },
       {
         "heading": "Os números da Let's Eat It no Reclame Aqui",
@@ -50913,8 +50929,7 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-mauad-lets-eat-it-como-usar",
         "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
       }
-    ],
-    "heroCompact": true
+    ]
   },
   {
     "id": 321,
@@ -52285,11 +52300,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-05",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
-    "imageAlt": "Perfil da Insider Store no Reclame Aqui, na categoria Moda - E-commerce - Moda, com selo de empresa verificada e reputação RA 1000",
-    "imageFit": "cover",
+    "image": "/images/reviews/insider/insider-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Tech T-Shirt vinho, Daily T-Shirt feminina preta e Tech T-Shirt verde da Insider, com o quadro de reputação RA1000 e nota 9.0/10 da Insider Store no Reclame Aqui",
+    "imageFit": "contain",
     "imageAspect": "landscape",
-    "heroCompact": true,
     "pros": [
       "Reputação RA1000 em todos os períodos do perfil: 6 meses, 12 meses, 2025, 2024 e geral",
       "99,4% das reclamações respondidas nos últimos 6 meses",
@@ -52322,7 +52336,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Insider vende quase tudo pela internet, em todo o país, e trabalha com peças mais caras que a média das camisetas básicas. Para quem vai comprar pela primeira vez, a dúvida é menos sobre a roupa e mais sobre o que acontece se o pacote atrasar, se a peça vier com defeito ou se o tamanho não servir.",
           "Uma loja desse tamanho sempre vai ter reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, se resolve, quanto tempo leva e quais problemas se repetem. Para este artigo, consultamos em 5 de outubro de 2026 todas as abas de desempenho do perfil da Insider Store, a lista de principais problemas dos últimos três anos e as respostas da empresa às reclamações mais recentes. Os números do Reclame Aqui mudam todos os dias, então vale abrir o perfil de novo no dia da sua compra."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+          "alt": "Perfil da Insider Store no Reclame Aqui, na categoria Moda - E-commerce - Moda, com selo de empresa verificada e reputação RA 1000",
+          "caption": "Perfil da Insider Store no Reclame Aqui, consultado em 05/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7757
+        }
       },
       {
         "heading": "Os números da Insider Store no Reclame Aqui",
@@ -55493,9 +55514,9 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-11",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/magalu/black-friday-magalu-lu.webp",
-    "imageAlt": "A Lu, personagem do Magalu, sorrindo e mostrando um celular com o logo do Magalu na tela, sobre um fundo azul com dois celulares desenhados",
-    "imageFit": "cover",
+    "image": "/images/reviews/magalu/black-friday-magalu-capa-discover.webp",
+    "imageAlt": "A Lu, personagem do Magalu, mostrando um celular com o logo do Magalu, e a faixa Black Friday do Magalu",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Dez faixas, de R$ 10 a R$ 100 OFF, que valem sobre o preço da Black Friday",

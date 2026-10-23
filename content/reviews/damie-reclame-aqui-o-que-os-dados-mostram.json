@@ -7,8 +7,10 @@
   "description": "Levantamento completo do Reclame Aqui da Damie Móveis: nota atual, taxa de resposta, tipos de reclamação mais comuns e o que considerar antes de comprar.",
   "publishedAt": "20 Jun 2026",
   "publishedAtISO": "2026-06-20",
-  "image": "/images/reviews/damie-reclame-aqui-hero.webp",
-  "imageAlt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
+  "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Cecília na poltrona Levita, no sofá na caixa e ao lado da poltrona Moon da Damie, com o quadro de reputação Ótimo e nota 8.0/10 da Damie no Reclame Aqui",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "Dados públicos do Reclame Aqui",
     "Resposta de 100% das reclamações",
@@ -52,7 +54,14 @@
           "label": "Ver perfil oficial no Reclame Aqui →",
           "href": "https://www.reclameaqui.com.br/empresa/damie-moveis/"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/damie-reclame-aqui-hero.webp",
+        "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
+        "caption": "Painel da Damie Móveis no Reclame Aqui, consultado em junho de 2026.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8664
+      }
     },
     {
       "heading": "Dados institucionais",
