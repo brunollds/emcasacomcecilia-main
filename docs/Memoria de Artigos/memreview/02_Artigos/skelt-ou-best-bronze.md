@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Beleza"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler a promoção do Dark Express Pro da Best Bronze (R$ 122,32 de R$ 172,00 em 23/10): se cair, reescrever o veredito do mousse escuro (sem promoção, R$ 114,67 por 100 ml e a Skelt à frente no cartão); reler tudo no aquecimento da Black Friday da Skelt (05/11)"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 82
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #247, release `f795f8f`, build `01a16a9f-bb7d-7204-9f88-f2c56715006d`), id 596; capa, quadro de preço por 100 ml e 3 fotos oficiais da Skelt no CDN (Job 6); revisão do Fable 5.1 com 7 achados aplicados; preços da Best Bronze relidos no Chrome no dia."
 affiliate: "skelt"
 coupon: "SKEMCASACOMCECILIA"
 ---
@@ -178,3 +180,14 @@ Introdução curta + aviso de guia sem uso próprio.
 2. **Veredito:** aprovado como na seção 5, por perfil e sem vencedora geral: no cartão, o Dark Express Pro em promoção sai mais barato por ml que o Mousse Dark; com cupom e Pix a Skelt passa à frente; no transparente e no kit com luva a Skelt ganha; spray, gotas e lenço para o rosto só a Best Bronze tem hoje.
 3. **Reclame Aqui da Best Bronze:** fora do texto.
 4. Valem as regras da série 1 a 1: concorrente sem link (nem em Fontes), cupom, foto ou print; tabelas só com o preço no cartão e Pix/cupom numa frase abaixo; avaliações de cliente fora; preços datados e relidos no dia da redação (a promoção da Best Bronze muda o veredito do mousse escuro).
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+Só produtos da Skelt (fotos oficiais de `skelt-a1/imagens-2310/`, baixadas em 23/10/2026); nada da Best Bronze.
+
+- **Capa:** `/images/reviews/skelt/skelt-ou-best-bronze-capa.webp` (1600×900, `imageFit: "contain"`). Mousse Dark em fundo roxo (`skelt-mousse-dark-3.png`) e Água em fundo azul (`skelt-agua-4.png`), nenhuma em outra capa da Skelt, com o logo e "Skelt ou Best Bronze?".
+- **Resposta rápida:** `/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp` (wide). Quadro nosso: preço por 100 ml no cartão, mousses com cor-guia e transparentes; cupom e Pix da Skelt na nota.
+- **Cor-guia ou transparente:** `/images/reviews/skelt/skelt-ou-best-bronze-mousse-dark-cor-guia.webp` e `/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp` (square). Mão aplicando o Mousse Dark (espuma marrom) e a Água (espuma branca) na luva; só mão e braço. Origem: `skelt-mousse-dark-2.png`, `skelt-agua-2.png`.
+- **Onde cada uma ganha:** `/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp` (square). Origem: `skelt-kit-iniciante-dark-1.png`.
+
+Releitura em 23/10/2026: a loja da Best Bronze pelo Chrome (`/products.json` na própria origem; a leitura direta tinha dado rate limit), com todos os preços iguais aos da seção 5; Dark Express Pro Sem Fragrância esgotado. O custo por aplicação (pelo rendimento declarado) ficou no texto como estimativa.
