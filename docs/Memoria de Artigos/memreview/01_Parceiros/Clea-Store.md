@@ -49,7 +49,8 @@ primeiro pela pauta (Job 1) e depois pela sessão de artigos (Bruno, 14/10/2026)
 - **Mercado Livre** (14/10 e 19/10/2026): o vendedor "Clea Oficial" é a própria Cléa Store. O onboarding não cita o Mercado Livre; ele entra no artigo `clea-store-mercado-livre-ou-site`, com o link meli.la do `couponsData.ts` e a data da pesquisa de preço, porque os básicos (t-shirts e bodies) costumam sair mais baratos lá, sem o cupom. Nas outras pautas, no máximo uma frase com link para esse artigo.
 - **Loja física** (14/10/2026): não citar.
 - **Contador de promoção do site** (19/10/2026): é estratégia de marketing, não data de fim. A data da promoção dos 14 anos é acompanhada pelo Bruno (até 31/10/2026).
-- **Sem experiência própria** (19/10/2026): ninguém do site comprou nem recebeu peças. "A camiseta da Cléa é boa?" fica parada até haver uso real.
+- **Catálogo em 23/10/2026:** camiseta só no modelo oversized (100% algodão; avulsa R$ 129, kit de 3 a R$ 258); sem calça branca nem peça dourada à venda. Gramatura não publicada; tabela de medidas num widget (Sizebay).
+- **Sem experiência própria** (19/10/2026): ninguém do site comprou nem recebeu peças. "A camiseta da Cléa é boa?" foi reaberta pelo Bruno em 23/10/2026 como guia sem uso próprio ([[camiseta-clea-store-e-boa]]); quando houver uma peça para testar, vira artigo novo ou atualização.
 
 ---
 

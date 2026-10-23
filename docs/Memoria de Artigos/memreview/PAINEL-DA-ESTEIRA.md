@@ -6,6 +6,12 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[creatina-black-skull-qual-escolher]]: creatina Black Skull: Creator, Creatine ou Turbo, preço por 100 g de creatina e qual pote compensa (PT)
+- [ ] [[whey-black-skull-qual-escolher]]: whey Black Skull: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, pela tabela e pelo preço por 100 g de proteína (PT)
+- [ ] [[pre-treino-black-skull-bope-ou-bone-crusher]]: pré-treino Black Skull: BOPE ou Bone Crusher, pelo rótulo e pelo preço por dose; não há versão sem cafeína (PT)
+- [ ] [[body-splash-skelt-qual-escolher]]: body splash Skelt por fragrância (notas publicadas), hidratantes e kits para presente, com links UTM da Inbazz (PT)
+- [ ] [[camiseta-clea-store-e-boa]]: camiseta Cléa Store é boa? Pela ficha, sem uso próprio (PT)
+- [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 - [ ] [[skelt-ou-best-bronze]]: Skelt ou Best Bronze, autobronzeador pela ficha e pelo preço por 100 ml (cartão; Skelt também com cupom e Pix), por perfil e sem vencedora geral; Best Bronze sem link, cupom nem foto (PT)
 
 ---
