@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[presente-de-natal-para-casa-moveis]]: guia-mãe de presentes de Natal para a casa (sofá, poltrona, cinema em casa e área de piscina), com a Black Friday; marcas de cada categoria e a DAMIE com o CECILIA12 (PT)
 
 ---
 
