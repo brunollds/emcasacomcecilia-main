@@ -47149,6 +47149,120 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77694,
+      "sha256": "b526f11909d20f3875f5114e5ddfecb4718c08ac68c099fbb342941e3d53b4e9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-damie-e-boa-capa-discover.webp",
+      "storage_filename": "poltrona-damie-e-boa-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-damie-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-damie-e-boa.json",
+          "line": 32,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b526f11909d20f3875f5114e5ddfecb4718c08ac68c099fbb342941e3d53b4e9/poltrona-damie-e-boa-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b526f11909d20f3875f5114e5ddfecb4718c08ac68c099fbb342941e3d53b4e9/poltrona-damie-e-boa-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:33:43.748Z",
+      "verification_etag_or_digest": "b526f11909d20f3875f5114e5ddfecb4718c08ac68c099fbb342941e3d53b4e9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46440,
+      "sha256": "d2fc2c8a63013165c619d2326008a92c29f4b838c7ab12d8b239e99a60cede14",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "storage_filename": "poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json",
+          "line": 16,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d2fc2c8a63013165c619d2326008a92c29f4b838c7ab12d8b239e99a60cede14/poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d2fc2c8a63013165c619d2326008a92c29f4b838c7ab12d8b239e99a60cede14/poltrona-decorativa-aurora-levita-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:33:43.748Z",
+      "verification_etag_or_digest": "d2fc2c8a63013165c619d2326008a92c29f4b838c7ab12d8b239e99a60cede14",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-levita-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87634,
+      "sha256": "fe10c5363d190bd734fc73db7bbfa210b5ee49a9062245a4b22437ae5bfed0fc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-levita-capa-discover.webp",
+      "storage_filename": "poltrona-levita-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto.json",
+          "line": 17,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fe10c5363d190bd734fc73db7bbfa210b5ee49a9062245a4b22437ae5bfed0fc/poltrona-levita-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fe10c5363d190bd734fc73db7bbfa210b5ee49a9062245a4b22437ae5bfed0fc/poltrona-levita-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:33:43.748Z",
+      "verification_etag_or_digest": "fe10c5363d190bd734fc73db7bbfa210b5ee49a9062245a4b22437ae5bfed0fc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
       "local_url": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
       "media_kind": "image",
@@ -47206,6 +47320,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "52d59b61066f48ddaf935513d4315325c69f0de2a90d12d76d8eb6573e7e9efd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-moon-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87054,
+      "sha256": "4b371487a714a7d119c40e1fc8ff790f2f3b6c388bc312187251cc969195e775",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-moon-capa-discover.webp",
+      "storage_filename": "poltrona-moon-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-moon-design-que-parece-obra-de-arte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-moon-design-que-parece-obra-de-arte.json",
+          "line": 17,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4b371487a714a7d119c40e1fc8ff790f2f3b6c388bc312187251cc969195e775/poltrona-moon-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b371487a714a7d119c40e1fc8ff790f2f3b6c388bc312187251cc969195e775/poltrona-moon-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:33:43.749Z",
+      "verification_etag_or_digest": "4b371487a714a7d119c40e1fc8ff790f2f3b6c388bc312187251cc969195e775",
       "verification_status": "verified"
     },
     {
@@ -47528,6 +47680,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-07T04:20:28.832Z",
       "verification_etag_or_digest": "a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78478,
+      "sha256": "504ad68de147f8c7490edb0662808493ec305052c532b1d58ac63320de3c6564",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltronas-reclinaveis-damie-capa-discover.webp",
+      "storage_filename": "poltronas-reclinaveis-damie-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltronas-reclinaveis-damie-vale-o-investimento.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltronas-reclinaveis-damie-vale-o-investimento.json",
+          "line": 27,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/504ad68de147f8c7490edb0662808493ec305052c532b1d58ac63320de3c6564/poltronas-reclinaveis-damie-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/504ad68de147f8c7490edb0662808493ec305052c532b1d58ac63320de3c6564/poltronas-reclinaveis-damie-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:33:43.749Z",
+      "verification_etag_or_digest": "504ad68de147f8c7490edb0662808493ec305052c532b1d58ac63320de3c6564",
       "verification_status": "verified"
     },
     {

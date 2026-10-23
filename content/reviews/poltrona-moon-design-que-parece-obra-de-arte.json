@@ -14,11 +14,11 @@
   "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
-  "image": "/images/reviews/poltrona-moon-cecilia-quem.webp",
-  "imageAlt": "Cecília na Poltrona Moon em um canto de leitura da casa.",
-  "imageAspect": "portrait",
+  "image": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
+  "imageAlt": "Cecília sentada e apoiada na Poltrona Moon em três fotos na sala de casa",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "imagePosition": "top",
-  "imageFit": "cover",
   "youtubeUrl": "https://youtu.be/YUAO12eA0oo?si=4ahcTSH1TuX3j1aP",
   "gallery": [
     {

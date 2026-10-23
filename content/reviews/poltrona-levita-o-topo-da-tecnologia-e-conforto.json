@@ -14,11 +14,11 @@
   "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
-  "image": "/images/reviews/poltrona-levita-cecilia-flores.webp",
-  "imageAlt": "Cecília sentada na Poltrona Levita ao lado de um arranjo de flores.",
-  "imageAspect": "portrait",
+  "image": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
+  "imageAlt": "Cecília na Poltrona Levita segurando flores e sentada de lado, ao lado da foto oficial da Levita reclinada",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "imagePosition": "top",
-  "imageFit": "cover",
   "youtubeUrl": "https://youtu.be/jC0UZewMARE?si=N9l8Kl1yLcGkiyhu",
   "gallery": [
     {

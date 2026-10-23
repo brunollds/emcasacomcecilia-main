@@ -29,9 +29,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
-  "imageAlt": "Cecília Mauad sentada na Poltrona Reclinável Damie 2.0 na cor caramelo.",
-  "imageFit": "cover",
+  "image": "/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
+  "imageAlt": "Cecília sentada na Poltrona Reclinável Damie 2.0 caramelo, ao lado de duas fotos oficiais da 2.0 bege, reclinada e com base giratória",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "youtubeUrl": "https://youtube.com/shorts/B8L2YJC8gaE?si=vlYdQlHOWvhfYVAv",
   "pros": [
     "Base elétrica com giro de 180° e balanço suave (modelo testado)",
@@ -271,7 +272,6 @@
       ]
     }
   ],
-  "imageAspect": "square",
   "video": {
     "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
     "poster": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp"
