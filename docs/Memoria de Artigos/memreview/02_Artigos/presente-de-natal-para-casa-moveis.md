@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presentes"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços e a página de ofertas na semana de 23/11 e testar se o CECILIA12 soma na campanha; no começo de dezembro, reler o prazo de entrega e decidir o texto \"para chegar no Natal\""
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 75
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #235, release `79eb22f`, build `01a166be-0194-7181-949b-5cbe199ab89b`), id 593; capa e 5 imagens novas no CDN (Job 6); covers:check na produção 1/1; o black-friday-damie ganhou a página de ofertas da loja no mesmo deploy (PR #236)."
 parceiro_slug: "damie"
 affiliate: "damie"
 coupon: "CECILIA12"
