@@ -77171,6 +77171,386 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/autobronzeador-agua-dark.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24310,
+      "sha256": "b1d2ee83f631336a6c8520a296e04fdf5c38a5b670b01377d61cb299dc23fd26",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-agua-dark.webp",
+      "storage_filename": "autobronzeador-agua-dark.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 181,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b1d2ee83f631336a6c8520a296e04fdf5c38a5b670b01377d61cb299dc23fd26/autobronzeador-agua-dark.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b1d2ee83f631336a6c8520a296e04fdf5c38a5b670b01377d61cb299dc23fd26/autobronzeador-agua-dark.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.446Z",
+      "verification_etag_or_digest": "b1d2ee83f631336a6c8520a296e04fdf5c38a5b670b01377d61cb299dc23fd26",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-agua.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-agua.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22362,
+      "sha256": "a9eccfcdf6aa2308360347742b749bc9688d475cf958f899b7778211e5847aa1",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-agua.webp",
+      "storage_filename": "autobronzeador-agua.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-agua.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a9eccfcdf6aa2308360347742b749bc9688d475cf958f899b7778211e5847aa1/autobronzeador-agua.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a9eccfcdf6aa2308360347742b749bc9688d475cf958f899b7778211e5847aa1/autobronzeador-agua.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "a9eccfcdf6aa2308360347742b749bc9688d475cf958f899b7778211e5847aa1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-bifasico.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-bifasico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15076,
+      "sha256": "060c1543f0c18ecfa3d6e8e840e7ec56dc935da8a80e93c0c07cb52a46242448",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-bifasico.webp",
+      "storage_filename": "autobronzeador-bifasico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 199,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-bifasico.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/060c1543f0c18ecfa3d6e8e840e7ec56dc935da8a80e93c0c07cb52a46242448/autobronzeador-bifasico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/060c1543f0c18ecfa3d6e8e840e7ec56dc935da8a80e93c0c07cb52a46242448/autobronzeador-bifasico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "060c1543f0c18ecfa3d6e8e840e7ec56dc935da8a80e93c0c07cb52a46242448",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-gel.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-gel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20406,
+      "sha256": "42808edd21803dd5edd4e0f8d62c1d382a422681453dc039ca212c36e6aa171b",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-gel.webp",
+      "storage_filename": "autobronzeador-gel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-gel.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/42808edd21803dd5edd4e0f8d62c1d382a422681453dc039ca212c36e6aa171b/autobronzeador-gel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/42808edd21803dd5edd4e0f8d62c1d382a422681453dc039ca212c36e6aa171b/autobronzeador-gel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "42808edd21803dd5edd4e0f8d62c1d382a422681453dc039ca212c36e6aa171b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-kit-iniciante.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-kit-iniciante.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26992,
+      "sha256": "9cb9e2df5d4d1c3d239c38f7253955b0c4a2488024641de2e14a7ba7a85de35a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-kit-iniciante.webp",
+      "storage_filename": "autobronzeador-kit-iniciante.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 267,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-kit-iniciante.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9cb9e2df5d4d1c3d239c38f7253955b0c4a2488024641de2e14a7ba7a85de35a/autobronzeador-kit-iniciante.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9cb9e2df5d4d1c3d239c38f7253955b0c4a2488024641de2e14a7ba7a85de35a/autobronzeador-kit-iniciante.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "9cb9e2df5d4d1c3d239c38f7253955b0c4a2488024641de2e14a7ba7a85de35a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-luva.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-luva.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17762,
+      "sha256": "aef19bd041ba24954c0b1478210e85a6f78b3d859e8a02090849fde7e18b5b2b",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-luva.webp",
+      "storage_filename": "autobronzeador-luva.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 294,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-luva.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/aef19bd041ba24954c0b1478210e85a6f78b3d859e8a02090849fde7e18b5b2b/autobronzeador-luva.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aef19bd041ba24954c0b1478210e85a6f78b3d859e8a02090849fde7e18b5b2b/autobronzeador-luva.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "aef19bd041ba24954c0b1478210e85a6f78b3d859e8a02090849fde7e18b5b2b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-mousse-dark.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-mousse-dark.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24630,
+      "sha256": "4c0ebce3cf4faeb7448c39f82e6f20ecca8fec4aff034b7daca1489daaf6f901",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-mousse-dark.webp",
+      "storage_filename": "autobronzeador-mousse-dark.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-mousse-dark.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4c0ebce3cf4faeb7448c39f82e6f20ecca8fec4aff034b7daca1489daaf6f901/autobronzeador-mousse-dark.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c0ebce3cf4faeb7448c39f82e6f20ecca8fec4aff034b7daca1489daaf6f901/autobronzeador-mousse-dark.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "4c0ebce3cf4faeb7448c39f82e6f20ecca8fec4aff034b7daca1489daaf6f901",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-mousse.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-mousse.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19990,
+      "sha256": "94578de07106791324c1c7a5d5ccd45a3c512a877be70492df99be0fbc4bb97f",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-mousse.webp",
+      "storage_filename": "autobronzeador-mousse.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 149,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-mousse.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/94578de07106791324c1c7a5d5ccd45a3c512a877be70492df99be0fbc4bb97f/autobronzeador-mousse.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/94578de07106791324c1c7a5d5ccd45a3c512a877be70492df99be0fbc4bb97f/autobronzeador-mousse.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "94578de07106791324c1c7a5d5ccd45a3c512a877be70492df99be0fbc4bb97f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-removedor.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-removedor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14456,
+      "sha256": "2dc74e73ba2f4dc02e80ea4cebdeb4910d72f593cee2524c108dab7b584193d3",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-removedor.webp",
+      "storage_filename": "autobronzeador-removedor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 301,
+          "column": 19,
+          "literal": "/images/reviews/skelt/autobronzeador-removedor.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2dc74e73ba2f4dc02e80ea4cebdeb4910d72f593cee2524c108dab7b584193d3/autobronzeador-removedor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2dc74e73ba2f4dc02e80ea4cebdeb4910d72f593cee2524c108dab7b584193d3/autobronzeador-removedor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "2dc74e73ba2f4dc02e80ea4cebdeb4910d72f593cee2524c108dab7b584193d3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63996,
+      "sha256": "8fa3bbb3b23888a2de081ab439137ba41db50750870b9019406915452a2675c0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "autobronzeador-skelt-qual-escolher-capa.webp",
+      "storage_filename": "autobronzeador-skelt-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/autobronzeador-skelt-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/autobronzeador-skelt-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8fa3bbb3b23888a2de081ab439137ba41db50750870b9019406915452a2675c0/autobronzeador-skelt-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8fa3bbb3b23888a2de081ab439137ba41db50750870b9019406915452a2675c0/autobronzeador-skelt-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T18:15:22.447Z",
+      "verification_etag_or_digest": "8fa3bbb3b23888a2de081ab439137ba41db50750870b9019406915452a2675c0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
       "local_url": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
       "media_kind": "image",
