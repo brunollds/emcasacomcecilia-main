@@ -77985,6 +77985,236 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49412,
+      "sha256": "86c935c6ff4e5c9d2eaac198c54ba7a51090a09b81552926e7d69c6478568aed",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-agua-incolor.webp",
+      "storage_filename": "skelt-ou-best-bronze-agua-incolor.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 192,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123480,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86c935c6ff4e5c9d2eaac198c54ba7a51090a09b81552926e7d69c6478568aed/skelt-ou-best-bronze-agua-incolor.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86c935c6ff4e5c9d2eaac198c54ba7a51090a09b81552926e7d69c6478568aed/skelt-ou-best-bronze-agua-incolor.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:02:24.835Z",
+      "verification_etag_or_digest": "86c935c6ff4e5c9d2eaac198c54ba7a51090a09b81552926e7d69c6478568aed",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58464,
+      "sha256": "fa9bf39a89b2860a98da3e80f344a8a043a52a21fd345b40f452632a352b0105",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-capa.webp",
+      "storage_filename": "skelt-ou-best-bronze-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123310,
+          "column": 15,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fa9bf39a89b2860a98da3e80f344a8a043a52a21fd345b40f452632a352b0105/skelt-ou-best-bronze-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa9bf39a89b2860a98da3e80f344a8a043a52a21fd345b40f452632a352b0105/skelt-ou-best-bronze-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:02:24.835Z",
+      "verification_etag_or_digest": "fa9bf39a89b2860a98da3e80f344a8a043a52a21fd345b40f452632a352b0105",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21904,
+      "sha256": "01b074448e4756acc22c9d0084e0a7ae014f0b386d7fb381fe7b6ebe372e1ece",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "storage_filename": "skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 266,
+          "column": 17,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123554,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01b074448e4756acc22c9d0084e0a7ae014f0b386d7fb381fe7b6ebe372e1ece/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01b074448e4756acc22c9d0084e0a7ae014f0b386d7fb381fe7b6ebe372e1ece/skelt-ou-best-bronze-kit-iniciante-dark.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:02:24.835Z",
+      "verification_etag_or_digest": "01b074448e4756acc22c9d0084e0a7ae014f0b386d7fb381fe7b6ebe372e1ece",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44396,
+      "sha256": "b28e4db56c4a0305d1753653e31e8252bcd9df4ad4a75fac65b88478ec88dd59",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "storage_filename": "skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 185,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123473,
+          "column": 21,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b28e4db56c4a0305d1753653e31e8252bcd9df4ad4a75fac65b88478ec88dd59/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b28e4db56c4a0305d1753653e31e8252bcd9df4ad4a75fac65b88478ec88dd59/skelt-ou-best-bronze-mousse-dark-cor-guia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:02:24.835Z",
+      "verification_etag_or_digest": "b28e4db56c4a0305d1753653e31e8252bcd9df4ad4a75fac65b88478ec88dd59",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
+      "local_url": "/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68262,
+      "sha256": "dd4cbaef66bfc62bcd3fecefe098128b19827e561ba9903fd66050d95923b8f4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-ou-best-bronze-preco-por-ml.webp",
+      "storage_filename": "skelt-ou-best-bronze-preco-por-ml.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skelt-ou-best-bronze.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skelt-ou-best-bronze.json",
+          "line": 34,
+          "column": 17,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123322,
+          "column": 19,
+          "literal": "/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dd4cbaef66bfc62bcd3fecefe098128b19827e561ba9903fd66050d95923b8f4/skelt-ou-best-bronze-preco-por-ml.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dd4cbaef66bfc62bcd3fecefe098128b19827e561ba9903fd66050d95923b8f4/skelt-ou-best-bronze-preco-por-ml.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T21:02:24.835Z",
+      "verification_etag_or_digest": "dd4cbaef66bfc62bcd3fecefe098128b19827e561ba9903fd66050d95923b8f4",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp",
       "local_url": "/images/reviews/skelt/skelt-reclame-aqui-capa-discover.webp",
       "media_kind": "image",
