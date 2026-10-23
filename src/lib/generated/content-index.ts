@@ -123628,5 +123628,1609 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
       }
     ]
+  },
+  {
+    "id": 597,
+    "slug": "creatina-black-skull-qual-escolher",
+    "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa",
+    "seoTitle": "Creatina Black Skull: qual escolher (Turbo ou monohidratada)",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As creatinas da Black Skull lado a lado: Creator, Creatine, Turbo e Caps, com porção, preço por 100 g de creatina e por dose em 23/10/2026. Qual pote compensa e o que a página declara sobre Creapure.",
+    "metaDescription": "Qual creatina da Black Skull comprar: Creator, Creatine ou Turbo, com o preço por 100 g de creatina, por dose e com o cupom CECILIA10, nos preços de 23/10/2026.",
+    "publishedAt": "23 de outubro de 2026",
+    "publishedAtISO": "2026-10-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/creatina-black-skull-capa.webp",
+    "imageAlt": "Composição com o pote do Creator refil de 500 g e o da Creatine Turbo de 300 g, da Black Skull, com o logo da marca e o código CECILIA10",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual creatina da Black Skull comprar",
+        "paragraphs": [
+          "A Black Skull vende a creatina em três linhas, e a escolha cabe numa regra: pelo rótulo, Creator e Creatine são só creatina monohidratada, e a Creatine Turbo é creatina monohidratada com maltodextrina. Ninguém do site usou os produtos. Tudo aqui vem das páginas oficiais da loja, lidas em 23/10/2026, e o que a marca promete de efeito não entra no texto."
+        ],
+        "bullets": [
+          "Só creatina, pelo menor preço: o [Creator refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p), R$ 39,90 em 23/10/2026 (em promoção, de R$ 59,90 por R$ 39,90). São 100 doses de 5 g, R$ 7,98 por 100 g de creatina e R$ 0,40 por dose.",
+          "Quer um pote menor: o [Creator de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), R$ 29,90 (em promoção, de R$ 49,90 por R$ 29,90). São 60 doses, R$ 9,97 por 100 g e R$ 0,50 por dose.",
+          "Quer o pó da linha Turbo, com maltodextrina: o [Creatine Turbo refil de 500 g](https://www.blackskullusa.com.br/creatine-turbo-refil--500g/p), R$ 49,90. Cada dose de 10 g traz 5 g de creatina e 5 g de carboidrato, e a creatina sai a R$ 19,96 por 100 g.",
+          "Selo Creapure: a página não declara."
+        ],
+        "postParagraphs": [
+          "Com o cupom CECILIA10, que dá 10% de desconto em todo o site, o Creator refil de 500 g sai a R$ 35,91, ou R$ 7,18 por 100 g de creatina. Condições na [página do cupom Black Skull](/cupons/black-skull). Preços de venda do site oficial em 23/10/2026, antes do cupom."
+        ]
+      },
+      {
+        "heading": "O que cada rótulo diz",
+        "paragraphs": [
+          "A loja organiza a creatina em três nomes. **Creator** e **Creatine** têm a mesma lista de ingredientes nas páginas: \"creatina monohidratada\", e só. [Creatine Turbo](https://www.blackskullusa.com.br/creatine-turbo--300g/p) lista \"creatina monohidratada e maltodextrina\" no pote sem sabor. A maltodextrina é um carboidrato, e a tabela nutricional do Turbo mostra 5 g de carboidratos e 20 kcal em cada porção de 10 g. Por isso o Turbo não é só creatina: pelo rótulo, a porção de 10 g tem 5 g de creatina e 5 g de carboidrato.",
+          "\"Pura\" também não é uma palavra que a lista de ingredientes prove. A lista e a tabela trazem só o nome da creatina e a quantidade por porção.",
+          "A Black Skull tem ainda a [Creatine Caps](https://www.blackskullusa.com.br/creatine-caps-black-skull/p), em cápsulas, também só com creatina monohidratada na lista de ingredientes. Ela entra na tabela abaixo para você ver o custo por grama. As fichas indicam os produtos para adultos acima de 19 anos."
+        ]
+      },
+      {
+        "heading": "As creatinas da Black Skull lado a lado: preço por 100 g de creatina",
+        "paragraphs": [
+          "A ordem é a de mais vendidos do site da Black Skull em 23/10/2026, na busca por \"creatina\", só as creatinas avulsas, sem kits nem os outros aminoácidos. O preço por 100 g de creatina é o preço de venda dividido pela creatina que o pote tem, e o preço por dose é o preço dividido pelas doses do rótulo. A conta é nossa; o dado de cada produto é da ficha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Doses (creatina por dose)",
+            "Preço em 23/10/2026",
+            "Por 100 g de creatina",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "Creator refil, 500 g",
+              "100 (5 g)",
+              "R$ 39,90",
+              "R$ 7,98",
+              "R$ 0,40"
+            ],
+            [
+              "Creatine sem sabor, 300 g",
+              "60 (5 g)",
+              "R$ 41,90",
+              "R$ 13,97",
+              "R$ 0,70"
+            ],
+            [
+              "Creator, 300 g",
+              "60 (5 g)",
+              "R$ 29,90",
+              "R$ 9,97",
+              "R$ 0,50"
+            ],
+            [
+              "Creatine Turbo sem sabor, 300 g",
+              "30 (5 g, com 5 g de carboidrato)",
+              "R$ 39,90",
+              "R$ 26,60",
+              "R$ 1,33"
+            ],
+            [
+              "Creatine Turbo sem sabor, 150 g",
+              "15 (5 g, com 5 g de carboidrato)",
+              "R$ 17,94",
+              "R$ 23,92",
+              "R$ 1,20"
+            ],
+            [
+              "Creatine refil, 500 g",
+              "100 (5 g)",
+              "R$ 78,90",
+              "R$ 15,78",
+              "R$ 0,79"
+            ],
+            [
+              "Creatine Caps, 90 cápsulas",
+              "30 (3 g, em 3 cápsulas)",
+              "R$ 59,90",
+              "R$ 66,56",
+              "R$ 2,00"
+            ],
+            [
+              "Creatine Turbo refil, 500 g",
+              "50 (5 g, com 5 g de carboidrato)",
+              "R$ 49,90",
+              "R$ 19,96",
+              "R$ 1,00"
+            ],
+            [
+              "Creatine sem sabor, 150 g",
+              "30 (5 g)",
+              "R$ 39,90",
+              "R$ 26,60",
+              "R$ 1,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10 (10% sobre o preço de venda), o preço por 100 g de creatina fica: Creator refil 500 g, R$ 7,18; Creator 300 g, R$ 8,97; Creatine 300 g, R$ 12,57; Creatine refil 500 g, R$ 14,20; Turbo refil 500 g, R$ 17,96; Turbo 150 g, R$ 21,53; Turbo 300 g e Creatine 150 g, R$ 23,94 cada; Caps, R$ 59,90. Por dose, o Creator refil cai de R$ 0,40 para R$ 0,36.",
+          "Em promoção em 23/10/2026: Creator refil 500 g, de R$ 59,90 por R$ 39,90; Creator 300 g, de R$ 49,90 por R$ 29,90; Creatine 300 g, de R$ 49,90 por R$ 41,90; Turbo 150 g sem sabor, de R$ 29,90 por R$ 17,94. Os preços mudam com as promoções da loja.",
+          "Os sabores laranja e limão do Creatine 300 g estavam ao mesmo preço do sem sabor. Do Turbo, estavam à venda os sabores laranja e uva no pote de 300 g e só o sem sabor no pote de 150 g."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
+            "alt": "Quadro com o preço por 100 g de creatina de cada produto da Black Skull em 23/10/2026, do Creator refil de 500 g, R$ 7,98, à Creatine Caps, R$ 66,56",
+            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "objectFit": "wide",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Creator ou Creatine: a página não explica a diferença",
+        "paragraphs": [
+          "As duas linhas aparecem com a mesma lista de ingredientes (\"creatina monohidratada\"), a mesma porção (1 dosador de 5 g) e o mesmo número de notificação nas páginas lidas. O preço não é o mesmo: o [refil de 500 g da Creatine](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-refil500g/p) custa R$ 78,90 e o do Creator, R$ 39,90, quase o dobro. A página da loja não explica o motivo, e não dá para dizer pelo rótulo que um produto é melhor que o outro.",
+          "Pela conta do rótulo, o Creator refil de 500 g é a opção mais barata por grama de creatina da marca. O Creator de 300 g também sai na frente do [Creatine de 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): R$ 9,97 contra R$ 13,97 por 100 g. Quem quer só creatina monohidratada e decide pelo preço fica com o Creator.",
+          "Modo de consumo, segundo a ficha: 1 dosador (5 g) em água, uma vez ao dia, ou conforme a orientação de um nutricionista ou de outro profissional da saúde. No refil de 500 g do Creator, a ficha avisa que o refil não acompanha o dosador. Na linha Creator, a página avisa que o produto pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+            "alt": "Embalagem do Creator, creatina monohidratada, refil de 500 g da Black Skull",
+            "caption": "Creator refil de 500 g, na foto do site da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Creatine Turbo: o que muda com a maltodextrina",
+        "paragraphs": [
+          "O Turbo é a única linha com carboidrato na lista de ingredientes. Pela tabela nutricional dos potes de 300 g e do refil de 500 g, a porção é de 10 g (2 dosadores): 5 g de creatina, 5 g de carboidratos e 20 kcal. A ficha manda diluir os 2 dosadores em 300 ml de água, uma vez ao dia.",
+          "Na conta, isso pesa. Você paga o pote inteiro, mas a creatina é metade de cada dose. O Turbo de 300 g sai a R$ 26,60 por 100 g de creatina e o refil de 500 g, a R$ 19,96. O Creator refil de 500 g sai a R$ 7,98: o Turbo de 500 g custa 2,5 vezes mais por grama de creatina, e o de 300 g, 3,3 vezes. Quem quer só creatina paga mais por grama no Turbo. Quem já escolheu o pó da linha Turbo fica mais bem servido, pelo preço, com o refil de 500 g.",
+          "**Turbo de 150 g: a ficha e a tabela não batem.** O [Turbo de 150 g](https://www.blackskullusa.com.br/creatine-turbo--150g/p) tem duas leituras. A ficha da página diz para diluir 2 dosadores (10 g), e a tabela acima usa essa ficha: 15 doses, 5 g de creatina por dose, 75 g de creatina no pote. A tabela nutricional que aparece como imagem na mesma página traz outra versão: porção de 6 g (1 dosador), 25 doses e 3 g de creatina. A própria página explica: segundo a loja, a recomendação de consumo diário passou de 3 g para 5 g de creatina, e por isso os rótulos foram atualizados com o novo número de doses. O preço por 100 g de creatina é o mesmo nas duas contas, R$ 23,92. Muda o número de doses e o preço por dose: R$ 1,20 pela ficha e R$ 0,72 pela tabela com 6 g.",
+          "**Ingredientes dos sabores, como a loja lista.** Turbo com sabor: creatina monohidratada, maltodextrina, acidulante ácido cítrico, aromatizante, corante (urucum no laranja, clorofila no limão, vermelho ponceau e azul indigotina no uva) e edulcorante sucralose. O refil de 500 g do Turbo pode conter leite, ovo, amendoim, soja, trigo e derivados. Creatine com sabor, no pote de 300 g: creatina monohidratada, acidulante ácido málico, antiumectante dióxido de silício, aromatizante, corante (urucum e norbixina no laranja, clorofila e sais de cobre no limão) e edulcorante sucralose. Os potes sem sabor listam só a creatina, ou a creatina e a maltodextrina no Turbo. Pela ficha, a dose do Creatine com sabor é de 6 g; as contas da tabela são do sem sabor."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+            "alt": "Pote da Creatine Turbo sem sabor, 300 g, da Black Skull",
+            "caption": "Creatine Turbo 300 g, na foto do site da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Qual tamanho compensa, por linha",
+        "paragraphs": [
+          "**Creator: o refil de 500 g.** O refil sai a R$ 7,98 por 100 g de creatina, contra R$ 9,97 no pote de 300 g, 20% menos por grama. São 100 doses de 5 g, ou 100 dias no uso de uma dose ao dia da ficha. O pote de 300 g só ganha no preço de entrada: R$ 29,90 contra R$ 39,90.",
+          "**Creatine: o pote de 300 g.** Aqui a conta inverte. O pote de 300 g sai a R$ 13,97 por 100 g de creatina e o refil de 500 g, a R$ 15,78. O [de 150 g](https://www.blackskullusa.com.br/creatine--creatina-monohidratada--150g/p), a R$ 26,60, é o mais caro por grama das três gramagens.",
+          "**Turbo: o refil de 500 g.** R$ 19,96 por 100 g de creatina, contra R$ 26,60 do pote de 300 g e R$ 23,92 do de 150 g sem sabor, que estava em promoção em 23/10/2026.",
+          "**Caps: a mais cara por grama.** A Creatine Caps tem 90 cápsulas, e a ficha indica 3 cápsulas (3,5 g) por dia, com 3 g de creatina por porção e 30 porções. Sai a R$ 66,56 por 100 g de creatina, mais de oito vezes o Creator refil. A página não explica os 0,5 g a mais por porção em relação à creatina.",
+          "**E 1 kg?** O kit mais próximo é o [Combo Creatina Creator com 2 refis de 500 g](https://www.blackskullusa.com.br/2-creatina-monohidratada-refil-500g/p), R$ 75,81 (em promoção em 23/10/2026, de R$ 119,80 por R$ 75,81). Dá 1.000 g de creatina a R$ 7,58 por 100 g, ou R$ 6,82 com o CECILIA10. Dois refis avulsos custam R$ 79,80, então o kit sai R$ 3,99 mais barato. O [kit de 2 refis com coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p), R$ 94,72 (em promoção em 23/10/2026, de R$ 139,70 por R$ 94,72), leva a coqueteleira no preço e sai a R$ 9,47 por 100 g. O [kit com 3 potes de Creatine de 150 g](https://www.blackskullusa.com.br/kit-3-unidades-creatina-150g/p), R$ 113,72 (em promoção em 23/10/2026, de R$ 119,70 por R$ 113,72), sai a R$ 25,27 por 100 g pela tabela nutricional, que traz 5 g por porção; a descrição curta do kit diz 3.000 mg por dose, e a conta usa a tabela."
+        ]
+      },
+      {
+        "heading": "Creapure, laudo e pureza: o que a página declara",
+        "paragraphs": [
+          "Creapure é um dos termos que mais aparecem no autocompletar junto com a Black Skull. Nenhuma página de creatina da loja lida em 23/10/2026 declara o selo, e a busca por \"creapure\" no site da Black Skull não devolve nenhum produto. Isso não quer dizer que a creatina da marca seja ou não seja Creapure: quer dizer que a loja não informa.",
+          "Também não há laudo de pureza, análise de terceiros ou certificado de lote nas páginas. A lista de ingredientes do Creator diz \"creatina monohidratada\", e a tabela mostra 5.000 mg por porção de 5 g. É isso que o rótulo permite afirmar. Se você precisa de um selo específico, confirme com o SAC da Black Skull antes de comprar.",
+          "Quem quer comparar com outras marcas já tem a conta feita nos nossos comparativos: [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium), [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux). Neste guia, só entram produtos da Black Skull."
+        ]
+      },
+      {
+        "heading": "Cupom CECILIA10 nas creatinas",
+        "paragraphs": [
+          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, válido em todas as formas de pagamento e em itens que já estão em promoção. Num carrinho de teste do dia 13/10/2026, com R$ 364,33 em itens, o cupom deu R$ 36,44 de desconto. Cole o código no campo de cupom da sacola e confira a linha \"Descontos\" antes de pagar. As regras e a conta completa estão na [página do cupom Black Skull](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre a creatina Creator e a Creatine da Black Skull? As páginas trazem os mesmos ingredientes e a mesma porção de 5 g, e o refil de 500 g da Creatine custa quase o dobro do Creator (R$ 78,90 contra R$ 39,90 em 23/10/2026). A página da loja não explica a diferença.",
+          "Creatina Black Skull Turbo ou monohidratada: qual escolher? Quem quer só creatina fica com a monohidratada (Creator ou Creatine); o Turbo traz 5 g de creatina e 5 g de carboidrato em cada dose de 10 g e sai bem mais caro por grama de creatina.",
+          "A creatina Black Skull Turbo é pura? Não é só creatina: a lista de ingredientes diz \"creatina monohidratada e maltodextrina\", e a tabela mostra 5 g de creatina e 5 g de carboidratos por porção de 10 g.",
+          "A creatina Black Skull Turbo engorda? A página não faz essa afirmação, e a tabela mostra 20 kcal e 5 g de carboidratos por porção de 10 g. Se você tem meta de peso ou de dieta, fale com um nutricionista.",
+          "A creatina da Black Skull tem selo Creapure? A página não declara o selo, e a busca por \"creapure\" no site da loja não devolve produto.",
+          "A creatina de 1 kg da Black Skull compensa? O kit com 2 refis de 500 g do Creator sai a R$ 75,81 em 23/10/2026, R$ 7,58 por 100 g de creatina, R$ 3,99 menos do que dois refis avulsos.",
+          "Qual a creatina da Black Skull mais barata? Pela conta do rótulo e do preço, o Creator refil de 500 g, a R$ 7,98 por 100 g de creatina em 23/10/2026, ou R$ 7,18 com o CECILIA10.",
+          "Quantas doses tem o pote de 300 g da creatina Black Skull? 60 doses de 5 g no Creator e no Creatine sem sabor, e 30 doses de 10 g no Turbo, segundo as fichas.",
+          "Como usar o cupom CECILIA10 na Black Skull? Cole o código na sacola do site oficial. O passo a passo, com os prints do carrinho, está em [Cupom Black Skull: como usar](/reviews/cupom-black-skull-como-usar)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Black Skull. Podemos receber comissão pelas compras feitas com o cupom CECILIA10. Ninguém do site usou as creatinas: o texto mostra o que o rótulo e o preço dizem, e não é orientação de nutricionista nem de médico.",
+          "Fontes: páginas oficiais das creatinas e dos kits da Black Skull (blackskullusa.com.br), com ficha, ingredientes, tabela nutricional, modo de consumo e preço, e também a busca \"creapure\" e a ordem de mais vendidos do site, lidos em 23/10/2026; o teste de carrinho de 13/10/2026. Preço, estoque e sabores à venda mudam: vale o que aparece no site na hora da compra. A conta por 100 g e por dose é nossa."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Black Skull pelo botão, escolha a creatina e cole o CECILIA10 na sacola: 10% de desconto em todo o site.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      },
+      {
+        "slug": "black-skull-ou-growth",
+        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "slug": "body-splash-skelt-qual-escolher",
+    "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits",
+    "seoTitle": "Body splash Skelt: qual escolher por fragrância",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As 10 fragrâncias de body splash da Skelt lado a lado, com as notas que a loja publica, os hidratantes da mesma fragrância e a conta dos kits com cupom e Pix, em 23/10/2026.",
+    "metaDescription": "Qual body splash Skelt escolher: as 10 fragrâncias por notas, perfil e preço, os hidratantes da mesma linha e a conta dos kits com o cupom SKEMCASACOMCECILIA, em 23/10/2026.",
+    "publishedAt": "23 de outubro de 2026",
+    "publishedAtISO": "2026-10-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/body-splash-skelt-capa.webp",
+    "imageAlt": "Frascos dos body splash Solar Muse, Hidden Flowers e Velvet Milano da Skelt, com o logo da loja e o título Body splash Skelt: qual escolher?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, escolha o body splash e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "autobronzeador-skelt-qual-escolher",
+        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      },
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual body splash Skelt escolher",
+        "paragraphs": [
+          "A Skelt vende dez body splash de 100 ml, todos a R$ 99,90 em 23/10/2026. Como o preço é o mesmo, a escolha é pela fragrância. Ninguém do site usou nenhum deles, e este guia não diz qual é o mais cheiroso: cheiro é gosto, e a loja também não classifica. O que dá para comparar são as notas que a Skelt publica em cada página, o tamanho, o preço, o que vem em cada kit e a ordem de mais vendidos do site.",
+          "A Skelt não agrupa as dez num só lugar e o rótulo muda de página para página; o agrupamento deste guia (cítrico e fresco, floral, doce e gourmand) parte das notas publicadas. A loja também não compara seus produtos com perfumes de outras marcas. Aqui, a comparação é só entre as dez fragrâncias dela."
+        ],
+        "bullets": [
+          "Quer uma fragrância de dia, cítrica e leve: [Amalfi Sunset](https://www.skelt.com.br/body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Unexpected Day](https://www.skelt.com.br/body-splash-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
+          "Quer floral: [Hidden Flowers](https://www.skelt.com.br/body-splash-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Mystic Bloom](https://www.skelt.com.br/body-splash-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz).",
+          "Quer doce ou gourmand: [Velvet Milano](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) ou [Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), que está em primeiro na ordem de mais vendidos do site da Skelt em 23/10/2026.",
+          "Quer dar de presente com hidratante: o [Duo Hidden Flowers](https://www.skelt.com.br/duo-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (body splash e hidratante), em promoção em 23/10/2026, de R$ 197,90 por R$ 178,11. Com o creme para mãos junto, o [Duo + Creme para Mãos Hidden Flowers](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), em promoção em 23/10/2026, de R$ 229,37 por R$ 194,96.",
+          "Quer provar antes de levar o frasco grande: o [Kit Miniaturas Sellers Set](https://www.skelt.com.br/kit-miniaturas-sellers-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com Amalfi Sunset, Velvet Milano e Hidden Flowers de 15 ml cada, R$ 99,90."
+        ],
+        "postParagraphs": [
+          "O cupom SKEMCASACOMCECILIA dá 10% em todo o site oficial da Skelt: um body splash de R$ 99,90 sai a R$ 89,91 e, com mais 5% do Pix, a R$ 85,41. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+        ]
+      },
+      {
+        "heading": "As 10 fragrâncias lado a lado",
+        "paragraphs": [
+          "A tabela traz as notas de topo que a Skelt publica em cada página e o perfil em que o guia encaixou a fragrância. Onde a página não tem a pirâmide de notas, a célula diz isso e traz o que a descrição da loja cita. A posição é a do produto na ordem de mais vendidos do site da Skelt em 23/10/2026, entre todos os produtos da loja, e não só entre body splash."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Fragrância",
+            "Perfil (do guia)",
+            "Notas de topo, segundo a Skelt",
+            "Preço (23/10/2026)",
+            "Mais vendidos (23/10/2026)"
+          ],
+          "rows": [
+            [
+              "Amalfi Sunset",
+              "Cítrico e fresco",
+              "A página do produto não traz pirâmide. Notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos): bergamota, jasmim e sândalo",
+              "R$ 99,90",
+              "5º"
+            ],
+            [
+              "Unexpected Day",
+              "Cítrico e fresco",
+              "Sem pirâmide. A descrição cita pera e maçã verde",
+              "R$ 99,90",
+              "15º"
+            ],
+            [
+              "[Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Cítrico e fresco",
+              "Abacaxi, bergamota, água de coco",
+              "R$ 99,90",
+              "24º"
+            ],
+            [
+              "[Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Cítrico e fresco",
+              "Água de coco, acorde aquoso",
+              "R$ 99,90",
+              "35º"
+            ],
+            [
+              "Hidden Flowers",
+              "Floral",
+              "Bergamota da Itália, pera, pêssego, noz-moscada",
+              "R$ 99,90",
+              "4º"
+            ],
+            [
+              "Mystic Bloom",
+              "Floral",
+              "Groselha negra, morango, tangerina",
+              "R$ 99,90",
+              "3º"
+            ],
+            [
+              "[Pink Sands](https://www.skelt.com.br/body-splash-pink-sands/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Floral",
+              "Pitaya, lichia, bergamota, laranja",
+              "R$ 99,90",
+              "11º"
+            ],
+            [
+              "[Urban Beat](https://www.skelt.com.br/body-splash-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Floral",
+              "Sem pirâmide. A descrição cita frutas vermelhas encorpadas",
+              "R$ 99,90",
+              "14º"
+            ],
+            [
+              "Velvet Milano",
+              "Doce e gourmand",
+              "Limão, bergamota, maçã, laranja",
+              "R$ 99,90",
+              "12º"
+            ],
+            [
+              "Solar Muse",
+              "Doce e gourmand",
+              "Abacaxi rosa, água de coco, folhas de palmeira",
+              "R$ 99,90",
+              "1º"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Skelt publica três pirâmides diferentes do Amalfi Sunset (nos kits e no perfume para cabelos). Por isso o guia fica só com as notas comuns às três: bergamota, jasmim e sândalo. A página do body splash fala em \"notas frutadas e florais\", e as dos kits chamam a fragrância de cítrica.",
+          "Nas dez páginas, a lista de ingredientes começa por álcool (Alcohol ou Álcool Etílico), seguido de água e Parfum. A Skelt declara os produtos dermatologicamente testados, veganos, cruelty free e livres de parabenos e óleo mineral.",
+          "A Skelt descreve as dez como de alta fixação, fixação prolongada ou perfumação duradoura, e não publica tempo em horas.",
+          "O modo de uso que a loja publica está na página do Amalfi Sunset: aplicar a uma distância de 15 a 20 cm, não esfregar depois de aplicar e reaplicar quando quiser. A mesma página diz que o produto não deve ser aplicado na pele do rosto; nas outras nove, a loja não traz essa frase. Isso é orientação da marca, não experiência nossa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
+            "alt": "Quadro com as 10 fragrâncias de body splash da Skelt, o perfil de cada uma, as notas de topo, o preço de R$ 99,90 e a posição na ordem de mais vendidos em 23/10/2026",
+            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "objectFit": "wide",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Cítrico e fresco: Amalfi Sunset, Unexpected Day, Grand Bahama e Milos Breeze",
+        "paragraphs": [
+          "Este é o grupo em que as notas de topo são cítricas, de fruta clara ou de água. O agrupamento é deste guia, não da loja.",
+          "**Amalfi Sunset.** A Skelt diz \"Transporte-se para o verão europeu\" e descreve a fragrância como cítrica nos kits. As notas comuns às três pirâmides que a loja publica (kits e perfume para cabelos) são bergamota, jasmim e sândalo. Está em quinto na ordem de mais vendidos do site em 23/10/2026 e é a única das dez que tem perfume para cabelos, hidratante e creme para mãos da mesma fragrância. A página do Amalfi pede para não aplicar no rosto.",
+          "**Unexpected Day.** A loja a chama de \"uma surpresa refrescante\". A descrição cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly: começa fresca e termina em \"conforto doce\", nas palavras da Skelt. Não há pirâmide na página.",
+          "**Grand Bahama.** A Skelt a descreve como solar, exótica e vibrante. Topo de abacaxi, bergamota e água de coco; meio de lírio do vale, flores solares e limão; fundo de baunilha, musk e musgo de carvalho. É a fragrância do Bifásico, o autobronzeador com perfume de body splash: veja o [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher).",
+          "**Milos Breeze.** \"Frescor com a energia do verão grego\", diz a loja, que cita a brisa do mar Egeu. Topo de água de coco e acorde aquoso; meio de frangipani, lírio do vale e mimosa; fundo de musk, cedro e patchouli. Fica neste grupo pelo topo aquoso. É a que aparece mais embaixo na ordem de mais vendidos, em 35º."
+        ],
+        "postParagraphs": [
+          "As quatro custam o mesmo, então a escolha é só pelas notas."
+        ]
+      },
+      {
+        "heading": "Floral: Hidden Flowers, Mystic Bloom, Pink Sands e Urban Beat",
+        "paragraphs": [
+          "Aqui estão as fragrâncias cujo meio é de flores ou que a loja descreve como florais. É o grupo com dois dos body splash mais bem colocados na ordem de mais vendidos do site em 23/10/2026: Mystic Bloom em terceiro e Hidden Flowers em quarto.",
+          "**Hidden Flowers.** A página fala em fragrância floral envolvente e de alta fixação. Topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. A Skelt não informa quantas horas dura.",
+          "**Mystic Bloom.** \"Fragrância floral sofisticada e encantadora\", segundo a loja. Topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
+          "**Pink Sands.** A Skelt a chama de \"um toque de verão sofisticado\". Topo de pitaya, lichia, bergamota e laranja; meio de jasmim, peônia e rosa; fundo de âmbar, sândalo e baunilha.",
+          "**Urban Beat.** Descrita como \"a combinação autêntica do frutado e floral\": frutas vermelhas encorpadas e um buquê floral, sem pirâmide na página. A lista com ameixa, cereja e blueberry que aparece na loja é do hidratante, não do body splash."
+        ]
+      },
+      {
+        "heading": "Doce e gourmand: Velvet Milano e Solar Muse",
+        "paragraphs": [
+          "São as duas que a loja descreve com palavras como gourmand e adocicado. Também aqui o agrupamento é nosso.",
+          "**Velvet Milano.** A Skelt a descreve como fragrância gourmand \"para celebrar sua essência\". Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. Um dos kits da loja a chama de gourmand cítrica. Ocupa o 12º lugar na ordem de mais vendidos em 23/10/2026.",
+          "**Solar Muse.** O perfil na página é \"Solar, Cítrico e Adocicado (Floral Frutado Solar)\", com o slogan \"Quente como você chega\". Topo de abacaxi rosa, água de coco e folhas de palmeira; meio de jasmim manga, lírio-do-vale, gardênia e floral doce; fundo de baunilha, caramelo, âmbar doce, madeiras salgadas e musgo. Só aparece em kits, junto do hidratante Amalfi Sunset ou do Hidden Flowers.",
+          "Entre as duas, a diferença que a loja publica está no meio e no fundo: rosa branca e frutas vermelhas no Velvet Milano, jasmim manga e caramelo no Solar Muse."
+        ]
+      },
+      {
+        "heading": "Hidratante, creme para mãos e perfume para cabelos da mesma fragrância",
+        "paragraphs": [
+          "Quem quer a mesma fragrância em mais de um produto encontra seis hidratantes de 200 g, três cremes para mãos de 75 g e um perfume para cabelos de 140 ml. Pink Sands, Grand Bahama, Solar Muse e Milos Breeze não têm hidratante avulso. Na ordem de mais vendidos do site em 23/10/2026, o perfume para cabelos Amalfi Sunset está em 2º; entre os hidratantes, o Unexpected Day está em 6º, o Amalfi Sunset em 7º e o Hidden Flowers em 10º."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Fragrância",
+            "Volume",
+            "Preço (23/10/2026)",
+            "Preço por g ou ml"
+          ],
+          "rows": [
+            [
+              "[Body Cream Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Amalfi Sunset",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Body Cream Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Unexpected Day",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Body Cream Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Hidden Flowers",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Body Cream Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Mystic Bloom",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Body Cream Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Velvet Milano",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Body Cream Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Urban Beat",
+              "200 g",
+              "R$ 99,90",
+              "R$ 0,50"
+            ],
+            [
+              "[Creme para Mãos Amalfi Sunset](https://www.skelt.com.br/creme-para-maos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Amalfi Sunset",
+              "75 g",
+              "R$ 32,90",
+              "R$ 0,44"
+            ],
+            [
+              "[Creme para Mãos Hidden Flowers](https://www.skelt.com.br/creme-para-maos-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Hidden Flowers",
+              "75 g",
+              "R$ 32,90",
+              "R$ 0,44"
+            ],
+            [
+              "[Creme para Mãos Velvet Milano](https://www.skelt.com.br/creme-para-maos-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Velvet Milano",
+              "75 g",
+              "R$ 32,90",
+              "R$ 0,44"
+            ],
+            [
+              "[Perfume para Cabelos Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Amalfi Sunset",
+              "140 ml",
+              "R$ 79,90",
+              "R$ 0,57"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O perfume para cabelos Amalfi Sunset é a única fragrância de cabelo do catálogo em 23/10/2026. O preço por grama ou mililitro é o preço de venda dividido pelo volume. Para comparar: o body splash de 100 ml sai a cerca de R$ 1,00 por ml, então o perfume para cabelos custa menos por ml que o body splash."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp",
+            "alt": "Pote do hidratante Body Cream Amalfi Sunset da Skelt, 200 g",
+            "caption": "Foto oficial da Skelt.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Kits para presente: a conta contra os avulsos",
+        "paragraphs": [
+          "A conta abaixo compara o preço de cada kit em 23/10/2026 com a soma dos produtos avulsos, também a preço de venda do dia. A última coluna mostra o kit com o cupom SKEMCASACOMCECILIA e o Pix de 5% somado. Segundo o teste de carrinho de 21/10/2026, o cupom vale em kit e soma com o Pix, e a loja aceita um cupom por pedido. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Kit",
+            "Preço (23/10/2026)",
+            "Soma dos avulsos",
+            "Diferença",
+            "Com cupom e Pix"
+          ],
+          "rows": [
+            [
+              "Duo Hidden Flowers (body splash e hidratante)",
+              "R$ 178,11",
+              "R$ 199,80",
+              "−R$ 21,69 (−10,9%)",
+              "R$ 152,28"
+            ],
+            [
+              "Duo + Creme para Mãos Hidden Flowers (body splash, hidratante e creme)",
+              "R$ 194,96",
+              "R$ 232,70",
+              "−R$ 37,74 (−16,2%)",
+              "R$ 166,69"
+            ],
+            [
+              "[Duo Hidden Flowers: Body Splash + Creme para Mãos](https://www.skelt.com.br/duohiddenflowers-bodysplash-cremeparamaos/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 117,42",
+              "R$ 132,80",
+              "−R$ 15,38 (−11,6%)",
+              "R$ 100,39"
+            ],
+            [
+              "[Kit Hidratação Corporal Radiante & Perfumada (3 hidratantes)](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 252,20",
+              "R$ 299,70",
+              "−R$ 47,50 (−15,8%)",
+              "R$ 215,63"
+            ],
+            [
+              "[Kit Best Sellers 2025 (splash e hidratante Amalfi, Bifásico e luva)](https://www.skelt.com.br/kit-best-sellers-2025/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 280,33",
+              "R$ 354,60",
+              "−R$ 74,27 (−20,9%)",
+              "R$ 239,68"
+            ],
+            [
+              "[Linha Completa Amalfi Sunset (splash, hidratante, perfume para cabelos e creme)](https://www.skelt.com.br/linhacompleta-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 312,60",
+              "R$ 312,60",
+              "R$ 0,00",
+              "R$ 267,27"
+            ],
+            [
+              "[Kit Secret Garden Collection (Hidden Flowers e Mystic Bloom, frasco e hidratante de cada)](https://www.skelt.com.br/kit-secret-garden-collection/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 336,43",
+              "R$ 399,60",
+              "−R$ 63,17 (−15,8%)",
+              "R$ 287,65"
+            ],
+            [
+              "[Kit Fragrâncias Solar Muse + Hidden Flowers + Amalfi Sunset (3 body splash)](https://www.skelt.com.br/kit-solarmuse-hiddenflowers-splashamalfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 297,00",
+              "R$ 299,70",
+              "−R$ 2,70 (−0,9%)",
+              "R$ 253,94"
+            ],
+            [
+              "[Perfume para Cabelos + Body Splash Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelo-body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 183,20",
+              "R$ 179,80",
+              "+R$ 3,40",
+              "R$ 156,64"
+            ],
+            [
+              "[Perfume para Cabelos + Creme para Mãos Amalfi Sunset](https://www.skelt.com.br/duo-perfume-para-cabelos-creme-para-maos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 115,67",
+              "R$ 112,80",
+              "+R$ 2,87",
+              "R$ 98,90"
+            ],
+            [
+              "[Perfume para Cabelos + Body Splash Amalfi + Body Splash Solar Muse](https://www.skelt.com.br/perfume-para-cabelo-body-splash-amalfi-body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 282,20",
+              "R$ 279,70",
+              "+R$ 2,50",
+              "R$ 241,28"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os Duos e o Kit Hidratação ficam entre 10,9% e 16,2% mais baratos que os avulsos. O Best Sellers 2025 tem a maior diferença, 20,9%, mas inclui o Bifásico e a luva, que não são body splash. O Duo Hidden Flowers estava em promoção em 23/10/2026, de R$ 197,90 por R$ 178,11, e o Duo + Creme para Mãos, em promoção em 23/10/2026, de R$ 229,37 por R$ 194,96.",
+          "Os kits de três body splash, como o da tabela e o [Trio Exotic Trip Collection](https://www.skelt.com.br/trio-body-splash-exotic-trip/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 297,70), saem menos de R$ 3,00 mais baratos que os três frascos avulsos. Já os três kits com perfume para cabelos da tabela custam de R$ 2,50 a R$ 3,40 a mais que os produtos separados. Não é economia: para presente, os Duos e o Kit Hidratação são os que mostram vantagem de preço.",
+          "Um exemplo completo: o Duo Hidden Flowers custa R$ 178,11, vai a R$ 160,30 com o cupom de 10% e a cerca de R$ 152,28 com o Pix de 5% somado. Preço, promoção e condições mudam, então confira no carrinho."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-quadro-kits.webp",
+            "alt": "Quadro com os kits de body splash e hidratante da Skelt, o preço de cada um, a soma dos avulsos, a diferença e o valor com cupom e Pix em 23/10/2026",
+            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "objectFit": "wide",
+            "aspectRatio": 1.7778
+          },
+          {
+            "src": "/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp",
+            "alt": "Duo Hidden Flowers da Skelt, com o frasco do body splash e o pote do hidratante",
+            "caption": "Foto oficial da Skelt.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Kits de miniaturas de 15 ml: para provar antes",
+        "paragraphs": [
+          "A Skelt vende kits de três miniaturas de 15 ml, em edição limitada, segundo a caixa. O conteúdo que a caixa e a página trazem: o Sellers Set tem Amalfi Sunset, Velvet Milano e Hidden Flowers; o [Exotic Set](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), Grand Bahama, Pink Sands e Milos Breeze; o [Trends Set](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), Mystic Bloom, Urban Beat e Unexpected Day. Cada kit custa R$ 99,90 em 23/10/2026, ou R$ 85,41 com cupom e Pix.",
+          "O [Combo Kit Miniaturas](https://www.skelt.com.br/combo-kit-miniaturas-travel-size/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) reúne os três kits, com nove fragrâncias e 135 ml, por R$ 299,70 (R$ 256,24 com cupom e Pix). Cobre as dez fragrâncias menos a Solar Muse.",
+          "A conta por ml: os minis saem a R$ 2,22 por ml (R$ 99,90 por 45 ml), cerca de 2,2 vezes o body splash de 100 ml, que custa perto de R$ 1,00 por ml. Cada miniatura sai a R$ 33,30. É o preço de conhecer três fragrâncias antes de comprar o frasco grande."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o body splash Skelt mais cheiroso? Não há ranking de cheiro: é questão de gosto, e a Skelt também não classifica. O que a loja publica é a ordem de mais vendidos, em que o Solar Muse estava em primeiro em 23/10/2026, seguido de Mystic Bloom, Hidden Flowers e Amalfi Sunset entre os body splash; para escolher, use o perfil de notas.",
+          "Algum body splash Skelt lembra perfume importado? A Skelt não compara os body splash com perfumes de outras marcas nas páginas, e este guia também não. A comparação aqui é só pelas notas que a loja publica, entre as dez fragrâncias dela.",
+          "Qual body splash Skelt dura mais? A Skelt descreve as dez como de alta fixação, fixação prolongada ou perfumação duradoura, e não publica tempo em horas.",
+          "Dá para usar o body splash Skelt no rosto? A página do Amalfi Sunset diz que o produto não deve ser aplicado na pele do rosto. Nos outros nove, a loja não traz essa frase, e a lista de ingredientes começa por álcool.",
+          "Tem hidratante da mesma fragrância do body splash? Sim, para seis delas, e três também têm creme para mãos; Pink Sands, Grand Bahama, Solar Muse e Milos Breeze não têm hidratante avulso.",
+          "Qual a diferença entre body splash e perfume mist da Skelt? A loja não explica diferença: o catálogo chama o produto de body splash no nome e de perfume mist em algumas fotos e kits, no mesmo frasco de 100 ml. Este guia usa body splash.",
+          "Qual kit de body splash sai mais barato que os avulsos? Em 23/10/2026, os Duos com hidratante saíam 10,9% mais baratos, o Duo + Creme para Mãos 16,2% e o Kit Hidratação 15,8%. Os kits com perfume para cabelos custavam um pouco mais que os avulsos.",
+          "O cupom vale no kit e soma com o Pix? Sim: o cupom SKEMCASACOMCECILIA, de 10%, vale em kits e em produtos em promoção e soma com os 5% do Pix, e a Skelt aceita um cupom por pedido. O passo a passo está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar).",
+          "Comprei no Mercado Livre, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou os body splash, os hidratantes ou os kits da Skelt. Este guia reúne o que a marca publica no site oficial (skelt.com.br): página de cada produto e catálogo público, com preço, volume, notas, composição e a ordem de mais vendidos, lidos em 23/10/2026. Toda afirmação sobre fragrância, fixação e uso é da Skelt, e não algo que tenhamos sentido.",
+          "Os perfis (cítrico e fresco, floral, doce e gourmand), as contas dos kits e os valores com cupom e Pix são nossos, calculados sobre o preço do dia. Preço, promoção e estoque mudam, e vale o que aparece no site da Skelt na hora da compra. O site recebe comissão pelas compras feitas com o cupom SKEMCASACOMCECILIA e pelos links da Skelt. Para saber mais sobre a loja, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "slug": "camiseta-clea-store-e-boa",
+    "title": "Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça",
+    "seoTitle": "Camiseta Cléa Store é boa? Tecido e preço",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço por peça na avulsa e no kit e os cuidados, em 23/10/2026.",
+    "metaDescription": "Camiseta Cléa Store é boa? Veja composição, só oversized, 6 modelos e o preço por peça: avulsa R$ 129,00 e kit de 3 a R$ 258,00 em 23/10/2026.",
+    "publishedAt": "23 de outubro de 2026",
+    "publishedAtISO": "2026-10-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+    "imageAlt": "Quadro com os seis modelos de camiseta da Cléa Store: a peça avulsa e os cinco kits de três, com cores e preço por peça em 23/10/2026",
+    "imageFit": "contain",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Preços lidos no site da Cléa Store. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Ninguém do site comprou nem vestiu estas peças. Este guia usa a ficha da loja, a composição informada, o preço do dia e a tabela de medidas, nada de opinião sobre toque, caimento ou durabilidade.",
+          "A Cléa Store vende camiseta em um modelo só, o oversized. Preços de 23/10/2026, no site, sem cupom."
+        ],
+        "bullets": [
+          "Peça avulsa: [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), R$ 129,00, em 10 cores e nos tamanhos P, M e G.",
+          "Kit de três: R$ 258,00 no site, o que dá R$ 86,00 por peça. São cinco kits, todos em P, M e G.",
+          "Composição, segundo a ficha: corpo 100% algodão penteado premium; a ribana da gola é 97% algodão e 3% elastano.",
+          "Gramatura: a loja não informa."
+        ],
+        "postParagraphs": [
+          "O cupom CSEMCASACOMCECILIA tira mais 10% no site. Com ele, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 232,20, ou R$ 77,40 por peça."
+        ]
+      },
+      {
+        "heading": "Tecido e composição: o que a ficha informa",
+        "paragraphs": [
+          "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
+          "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
+          "A loja descreve o tecido como leve, respirável e de toque natural e macio. É a descrição da loja, não uma avaliação nossa.",
+          "A gramatura da malha, o peso do tecido, não está na ficha."
+        ]
+      },
+      {
+        "heading": "Modelagem: só existe oversized",
+        "paragraphs": [
+          "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, lidas em 23/10/2026, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
+          "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Os 6 modelos de camiseta lado a lado",
+        "paragraphs": [
+          "São uma peça avulsa e cinco kits de três camisetas. Preços de venda do site em 23/10/2026, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Cores",
+            "Tamanhos",
+            "Preço no site",
+            "Preço por peça"
+          ],
+          "rows": [
+            [
+              "[T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189)",
+              "10: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho",
+              "P, M e G",
+              "R$ 129,00",
+              "R$ 129,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951)",
+              "Off white, preto e marrom, uma de cada",
+              "P, M e G",
+              "R$ 258,00 (R$ 387,00)",
+              "R$ 86,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Oversized Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421)",
+              "Rosa claro, verde oliva e caramelo, uma de cada",
+              "P, M e G",
+              "R$ 258,00 (R$ 387,00)",
+              "R$ 86,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Oversized Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422)",
+              "Chumbo, bege e vinho, uma de cada",
+              "P, M e G",
+              "R$ 258,00 (R$ 387,00)",
+              "R$ 86,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Oversized Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333)",
+              "Azul marinho, verde oliva e off white, uma de cada",
+              "P, M e G",
+              "R$ 258,00 (R$ 387,00)",
+              "R$ 86,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Essenciais, Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229)",
+              "Você escolhe 3 entre as 10 cores e pode repetir",
+              "P, M e G",
+              "R$ 258,00 (R$ 387,00)",
+              "R$ 86,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os kits estão em promoção em 23/10/2026, de R$ 387,00 por R$ 258,00. O kit Classic aparece na ficha com dois nomes: \"Classic\" na página e \"Kit 3 T-Shirts Básica Algodão\" nas variantes. Aqui vale o nome da página."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+            "alt": "Camiseta T-Shirts Oversized Algodão da Cléa Store, foto oficial da loja",
+            "caption": "Foto oficial da Cléa Store.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Avulsa ou kit: quanto sai cada peça",
+        "paragraphs": [
+          "A conta é direta, com os preços de 23/10/2026. Três avulsas custam R$ 387,00. O kit de três custa R$ 258,00. A diferença é de R$ 129,00, o preço de uma camiseta avulsa. Por peça, a avulsa sai por R$ 129,00 e o kit por R$ 86,00.",
+          "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta fica assim:"
+        ],
+        "bullets": [
+          "Avulsa: R$ 116,10.",
+          "Três avulsas: R$ 348,30.",
+          "Kit de três: R$ 232,20, ou R$ 77,40 por peça."
+        ],
+        "postParagraphs": [
+          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout de 14/10/2026, o kit de três saiu de R$ 258,00 por R$ 232,20 com o cupom. O valor final aparece no carrinho, e o preço do dia pode mudar. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
+          "Até 31/10/2026, a Cléa Store dá uma T-Shirt Oversized de brinde em qualquer pedido. As regras estão no [guia da promoção dos 14 anos](/reviews/clea-store-aniversario-14-anos-t-shirt-brinde).",
+          "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+            "alt": "Modelo com a camiseta off white do Kit 3 T-Shirts Oversized Classic da Cléa Store",
+            "caption": "Foto oficial da Cléa Store.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp",
+            "alt": "Kit 3 T-Shirts Oversized Colorful da Cléa Store, com camisetas rosa claro, verde oliva e caramelo",
+            "caption": "Foto oficial da Cléa Store.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Mais vendidos da loja em 23/10/2026",
+        "paragraphs": [
+          "Na página Mais Vendidos da Cléa Store, em 23/10/2026, as camisetas aparecem nesta ordem: Kit Classic, Kit Colorful, Kit Intense, Kit Essenciais e, por último entre elas, a T-Shirts Oversized Algodão avulsa. É a ordem da página do site naquele dia. A loja não informa número de vendas, e este guia também não."
+        ]
+      },
+      {
+        "heading": "Como lavar a camiseta",
+        "paragraphs": [
+          "Segundo a ficha da loja, os cuidados são:"
+        ],
+        "bullets": [
+          "Lavar até 30 °C, em processo suave",
+          "Usar sabão para roupa delicada",
+          "Não usar alvejante",
+          "Secar em varal",
+          "Não usar secadora",
+          "Passar até 150 °C"
+        ]
+      },
+      {
+        "heading": "Devolução e frete",
+        "paragraphs": [
+          "Segundo a política da loja, o prazo de devolução é de 30 dias corridos após o recebimento. Em caso de defeito, o prazo é de 90 dias corridos. A devolução é grátis, e o frete é grátis acima de R$ 599,00 em compras no site.",
+          "Este guia não confirma troca direta de tamanho nem reembolso de uma compra feita com cupom. A política diz que valores creditados como bônus, como cashback, cupons e frete grátis, não são reembolsados. Antes de comprar com o cupom, leia a regra completa no site. A comparação com o Mercado Livre está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
+          "Kit camiseta Cléa Store vale a pena? Em 23/10/2026, o kit de três sai a R$ 86,00 por peça, contra R$ 129,00 da avulsa; com o cupom, R$ 77,40 por peça.",
+          "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido em 23/10/2026 não há corte regular nem baby look.",
+          "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
+          "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Fontes: as páginas oficiais dos seis modelos, as listagens de camisetas, essenciais, mais vendidos e roupas e a política de troca e devolução do site cleastore.com.br, todas lidas em 23/10/2026. Os preços podem mudar até a compra. Podemos receber comissão quando a compra sai pelo cupom CSEMCASACOMCECILIA ou pelo link da loja, e isso não muda o preço para quem compra. Ninguém da equipe do site comprou nem vestiu as camisetas: o que está aqui vem da ficha da loja. O cupom foi testado pela equipe em 14/10/2026."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "slug": "pre-treino-black-skull-bope-ou-bone-crusher",
+    "title": "Pré-treino Black Skull: BOPE ou Bone Crusher, pela tabela do rótulo e pelo preço por dose",
+    "seoTitle": "Pré-treino Black Skull: BOPE ou Bone Crusher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "BOPE, Bone Crusher e Legacy da Black Skull lado a lado: cafeína, beta-alanina, arginina e preço por dose com e sem o cupom CECILIA10, pelo site oficial em 23/10/2026.",
+    "metaDescription": "Pré-treino Black Skull: BOPE ou Bone Crusher? Compare cafeína, beta-alanina e preço por dose pelo rótulo, com o cupom CECILIA10 e os preços de 23/10/2026.",
+    "publishedAt": "23 de outubro de 2026",
+    "publishedAtISO": "2026-10-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
+    "imageAlt": "Potes de pré-treino BOPE e Bone Crusher da Black Skull lado a lado, com o logo da loja e o título Pré-treino Black Skull: BOPE ou Bone Crusher?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: BOPE ou Bone Crusher",
+        "paragraphs": [
+          "A categoria Pré-treino da Black Skull tinha seis itens em 23/10/2026: o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o de 150 g, o BOPE de 300 g e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o Legacy de 300 g e uma Promopack do Bone Crusher. A diferença entre BOPE e Bone Crusher está principalmente em três números do rótulo (beta-alanina, arginina e carboidrato) e no preço por dose. Ninguém do site usou os produtos: tudo vem da ficha e da tabela nutricional que a própria loja publica, lidas em 23/10/2026."
+        ],
+        "bullets": [
+          "Menor preço por dose: BOPE. O [BOPE 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) sai a **R$ 1,62 por dose** (R$ 1,46 com o cupom), e o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p), a R$ 1,42 (R$ 1,28 com o cupom).",
+          "Mais beta-alanina, mais arginina e menos carboidrato: Bone Crusher. Pelo rótulo do [150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), são 2 g de beta-alanina, 500 mg de arginina e 0,9 g de carboidrato por dose de 7,5 g, contra 750 mg, 150 mg e 2,2 a 2,3 g do BOPE.",
+          "Mais cafeína por dose: [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p), com 200 mg numa dose de 10 g. BOPE tem 135 mg e Bone Crusher 150 g, 140 mg, os dois em 7,5 g.",
+          "Sem cafeína: a Black Skull não tem pré-treino sem cafeína. A busca do site por \"sem cafeina\" volta \"não encontrado\" em 23/10/2026, e todos os produtos da categoria têm cafeína no rótulo.",
+          "Cupom CECILIA10: 10% em todo o site da Black Skull, inclusive nos itens em promoção."
+        ],
+        "postParagraphs": [
+          "Preços do site oficial em 23/10/2026, antes do cupom; eles mudam com as promoções. As condições do código estão na [página do cupom da Black Skull](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "Os pré-treinos da Black Skull pelo rótulo",
+        "paragraphs": [
+          "A tabela traz os valores por dose, como estão na tabela nutricional da página de cada produto. A creatina é de 3000 mg por dose no BOPE e no Bone Crusher 150 g, e de 2000 mg no Legacy. O carboidrato é de 2,2 a 2,3 g por dose no BOPE (a lista de ingredientes inclui maltodextrina), 0,9 g no Bone Crusher 150 g e 1,5 g no Legacy."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Cafeína por dose",
+            "Beta-alanina",
+            "Arginina",
+            "Taurina"
+          ],
+          "rows": [
+            [
+              "BOPE 300 g e 150 g (7,5 g)",
+              "135 mg",
+              "750 mg",
+              "150 mg",
+              "350 mg"
+            ],
+            [
+              "Bone Crusher 150 g (7,5 g)",
+              "140 mg",
+              "2 g",
+              "500 mg",
+              "370 mg"
+            ],
+            [
+              "Legacy 300 g (10 g)",
+              "200 mg",
+              "2 g",
+              "1200 mg",
+              "1000 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem, e não conseguimos confirmar essa imagem com a marca. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
+          "Sabores à venda em 23/10/2026: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+            "alt": "Pote do Pré-Treino BOPE 300 g, sabor frutas vermelhas, da Black Skull",
+            "caption": "Foto oficial da Black Skull: BOPE 300 g.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+            "alt": "Pote do Pré-Treino Bone Crusher 300 g, sabor frutas vermelhas, da Black Skull",
+            "caption": "Foto oficial da Black Skull: Bone Crusher 300 g.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "BOPE ou Bone Crusher: o que muda no rótulo",
+        "paragraphs": [
+          "Os números do Bone Crusher abaixo são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
+          "Dose e creatina: iguais. Os dois pedem uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e declaram 3000 mg de creatina por dose.",
+          "Cafeína: 135 mg no BOPE e 140 mg no Bone Crusher (rótulo do 150 g). A diferença é de 5 mg por dose.",
+          "Beta-alanina: 750 mg no BOPE e 2 g no Bone Crusher, a maior diferença da tabela. Arginina: 150 mg no BOPE e 500 mg no Bone Crusher. Taurina: 350 mg e 370 mg.",
+          "Carboidrato: 2,2 a 2,3 g por dose no BOPE e 0,9 g no Bone Crusher. A lista de ingredientes do BOPE traz maltodextrina; a do Bone Crusher, não. O Bone Crusher declara açúcar zero.",
+          "Número de doses: os dois vêm em 300 g, com 40 doses, e em 150 g, com 20. É no preço por dose que eles se separam, como mostra o próximo capítulo.",
+          "Se a ideia é montar a rotina com a creatina à parte, o artigo irmão deste, [creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher), compara os potes por dose. O BOPE e o Bone Crusher 150 g já trazem 3000 mg de creatina por dose no rótulo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+            "alt": "Quadro comparando BOPE e Bone Crusher da Black Skull: dose de 7,5 g, cafeína por dose e preço por dose em 23/10/2026",
+            "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+            "objectFit": "wide",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada dose",
+        "paragraphs": [
+          "O preço por dose é o preço de venda do site em 23/10/2026 dividido pelas doses do pote. A última coluna aplica o cupom CECILIA10, de 10% em todo o site, sobre esse preço. O cálculo é nosso e está arredondado para o centavo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porção e doses",
+            "Preço em 23/10/2026",
+            "Por dose",
+            "Por dose com cupom"
+          ],
+          "rows": [
+            [
+              "BOPE 300 g",
+              "7,5 g, 40 doses",
+              "R$ 64,90",
+              "R$ 1,62",
+              "R$ 1,46"
+            ],
+            [
+              "BOPE 150 g",
+              "7,5 g, 20 doses",
+              "R$ 34,90",
+              "R$ 1,75",
+              "R$ 1,57"
+            ],
+            [
+              "Kit BOPE 3 × 150 g",
+              "7,5 g, 60 doses",
+              "R$ 85,22",
+              "R$ 1,42",
+              "R$ 1,28"
+            ],
+            [
+              "Bone Crusher 300 g",
+              "7,5 g, 40 doses",
+              "R$ 69,90",
+              "R$ 1,75",
+              "R$ 1,57"
+            ],
+            [
+              "Bone Crusher 150 g",
+              "7,5 g, 20 doses",
+              "R$ 44,90",
+              "R$ 2,25",
+              "R$ 2,02"
+            ],
+            [
+              "Legacy 300 g",
+              "10 g, 30 doses",
+              "R$ 71,30",
+              "R$ 2,38",
+              "R$ 2,14"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dentro de cada linha, o pote maior sai mais barato por dose: o BOPE de 300 g custa R$ 1,62 contra R$ 1,75 do de 150 g, e o Bone Crusher de 300 g, R$ 1,75 contra R$ 2,25. No mesmo tamanho, o BOPE custa menos por dose: R$ 0,13 a menos no 300 g e R$ 0,50 a menos no 150 g.",
+          "O kit de três BOPE de 150 g estava em promoção em 23/10/2026, de R$ 89,70 por R$ 85,22. Três potes de 150 g comprados avulsos custariam R$ 104,70, ou seja, R$ 19,48 a mais.",
+          "Com o cupom, o BOPE 300 g vai de R$ 64,90 para R$ 58,41, e o Bone Crusher 300 g, de R$ 69,90 para R$ 62,91. O código vale também em produto em promoção, em qualquer forma de pagamento, e soma com as promoções do site. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
+          "Edição limitada: a [Promopack](https://www.blackskullusa.com.br/kit-pre-treino-bone-crusher-300g-coqueteleira/p) traz dois potes de Bone Crusher de 300 g e uma coqueteleira de brinde, por R$ 139,90, com 80 doses (dois potes de 40). Ela fica fora da conta por dose, porque a página não traz tabela própria."
+        ]
+      },
+      {
+        "heading": "Pré-treino da Black Skull sem cafeína existe?",
+        "paragraphs": [
+          "Não. Em 23/10/2026, a Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda em 23/10/2026.",
+          "Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes da página do produto. Nos da Black Skull, a cafeína aparece na lista como cafeína anidra ou apenas cafeína, e a quantidade por dose está na tabela."
+        ]
+      },
+      {
+        "heading": "Legacy, Uva e Xtreme: o resto da loja",
+        "paragraphs": [
+          "Legacy 300 g: dose de 10 g (dois dosadores), 30 doses, R$ 71,30 em 23/10/2026. O rótulo declara, por dose: cafeína 200 mg, beta-alanina 2 g, arginina 1200 mg, taurina 1000 mg, creatina 2000 mg, L-carnitina 250 mg, coenzima Q10 35 mg, L-citrulinilarginina 52,8 mg, niacina 25 mg (167% do VD) e vitamina B6 42 mg (3231% do VD).",
+          "Bone Crusher Uva 150 g: o rótulo em imagem diz 30 porções de 5 g, com 1200 mg de creatina e 140 mg de cafeína; a página do produto diz 7,5 g e 20 doses. Como as duas leituras divergem, ele não entra na tabela principal. Confirme no pote antes de calcular a dose.",
+          "Fora da comparação: a loja também vende o Xtreme Energy Caps, na categoria Termogênico, com L-carnitina e cafeína anidra na composição e 174 mg de cafeína por dose de duas cápsulas ([página do produto](https://www.blackskullusa.com.br/pre-treino-em-capsulas-xtreme-energ/p))."
+        ]
+      },
+      {
+        "heading": "O que o rótulo não traz",
+        "paragraphs": [
+          "A lista de ingredientes do Bone Crusher inclui \"C. Crispus Invernal (L-citrulil-L-arginina)\", mas a tabela do 150 g não mostra a quantidade. O BOPE não tem esse item na lista. No Legacy, a tabela traz a quantidade: 52,8 mg de L-citrulinilarginina por dose.",
+          "Também não há, nas páginas, preço por dose nem comparação entre os produtos da linha: essa conta é nossa."
+        ]
+      },
+      {
+        "heading": "Aviso e modo de uso da loja",
+        "paragraphs": [
+          "As páginas do BOPE, do Bone Crusher e do Legacy trazem a recomendação para adultos acima de 19 anos. O modo de uso do BOPE e do Bone Crusher é uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e o do Legacy, dois dosadores (10 g) em 150 ml. As páginas do BOPE e do Bone Crusher pedem para consumir logo após o preparo; a do Bone Crusher 300 g, para não exceder a dose da embalagem; todas, para seguir a orientação de um profissional.",
+          "As páginas do BOPE e do Bone Crusher dizem que o consumo deve estar associado a uma alimentação equilibrada e à prática de exercícios. Quem tem alguma condição de saúde deve conversar com um médico ou nutricionista antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço de 23/10/2026, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
+          "Bone Crusher é bom? Ninguém do site usou o produto. O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
+          "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g em 23/10/2026.",
+          "A Black Skull tem pré-treino sem cafeína? Não. Em 23/10/2026 nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
+          "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
+          "Quantas doses tem cada pote? O BOPE e o Bone Crusher têm 40 doses no pote de 300 g e 20 no de 150 g, e o Legacy de 300 g tem 30 doses.",
+          "Qual o cupom da Black Skull? É o CECILIA10, de 10% em todo o site, inclusive em itens em promoção. Veja as condições na [página do cupom](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "A Black Skull é parceira do Em Casa com Cecília. Se você compra com o CECILIA10, o site recebe uma comissão, sem custo a mais para você. Ninguém do site usou os pré-treinos: o guia reúne a ficha, a tabela nutricional e o preço de cada produto no site oficial da Black Skull, lidos em 23/10/2026. As contas por dose, com e sem cupom, são nossas, sobre o preço do dia.",
+          "Preço, estoque e promoção mudam, então vale o que aparece no carrinho na hora da compra. Sobre a loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Black Skull pelo botão, escolha o pré-treino e cole o CECILIA10 no campo de cupom do carrinho.",
+      "label": "Ir para a Black Skull com o cupom",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      },
+      {
+        "slug": "whey-black-skull-qual-escolher",
+        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "slug": "whey-black-skull-qual-escolher",
+    "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo",
+    "seoTitle": "Whey Black Skull: qual escolher (80% HD, 100% HD, 3W)",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os wheys da Black Skull lado a lado: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, com dose, proteína por dose e preço por 100 g de proteína em 23/10/2026, mais os sabores com estoque e o cupom CECILIA10.",
+    "metaDescription": "Qual whey da Black Skull comprar: compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo pela proteína por dose e pelo preço por 100 g, com os preços de 23/10/2026.",
+    "publishedAt": "23 de outubro de 2026",
+    "publishedAtISO": "2026-10-23",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/whey-black-skull-capa.webp",
+    "imageAlt": "Potes do Whey 80% HD, do 100% HD e do 3W Core da Black Skull, com o logo da marca, o código CECILIA10 e o título Whey Black Skull: qual escolher?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os wheys da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Não tomamos os wheys. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "melhor-whey-qual-escolher-por-objetivo",
+        "title": "Melhor whey em 2026: qual escolher para cada objetivo"
+      },
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      },
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual whey da Black Skull comprar",
+        "paragraphs": [
+          "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe. Ninguém do site tomou nenhum deles: tudo aqui sai do rótulo, da tabela nutricional e do preço do site oficial, lidos em 23/10/2026.",
+          "A tabela abaixo diz qual whey leva cada objetivo de compra. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10, que dá 10% de desconto em todo o site da Black Skull ([veja a página do cupom](/cupons/black-skull))."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose e as porções da tabela nutricional de cada rótulo. Com CECILIA10: preço menos 10%.",
+          "headers": [
+            "Se você quer…",
+            "Leve…",
+            "Preço (23/10/2026)",
+            "R$ por 100 g de proteína",
+            "Com CECILIA10"
+          ],
+          "rows": [
+            [
+              "Pagar menos pela proteína",
+              "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
+              "R$ 159,90",
+              "R$ 23,17",
+              "R$ 20,86"
+            ],
+            [
+              "Um whey de uso diário, com mistura de proteínas e 11 sabores",
+              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
+              "R$ 159,90",
+              "R$ 30,46",
+              "R$ 27,41"
+            ],
+            [
+              "O menor preço por proteína da linha 100% HD",
+              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+              "R$ 279,90",
+              "R$ 26,66",
+              "R$ 23,99"
+            ],
+            [
+              "Mais proteína por dose",
+              "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) (31 g em 40 g)",
+              "R$ 279,90",
+              "R$ 41,04",
+              "R$ 36,94"
+            ],
+            [
+              "Um pote pequeno",
+              "[Whey 100% HD Gourmet 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), só se a dose de 12 g servir",
+              "R$ 84,90",
+              "R$ 47,17",
+              "R$ 42,45"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout de 13/10/2026, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
+          "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na [página do cupom](/cupons/black-skull).",
+          "O 80% HD e o 100% HD Refil são as mesmas duas escolhas do [guia de whey por objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo), que compara cinco marcas. Aqui a conta fica dentro da Black Skull, com a linha inteira à frente."
+        ]
+      },
+      {
+        "heading": "Como lemos a linha: preço por 100 g de proteína",
+        "paragraphs": [
+          "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
+          "Todos os wheys da linha declaram \"Contém lactose\", e a Black Skull não tem whey isolado nem sem lactose no site: a busca por \"isolado\" voltou sem resultado em 23/10/2026."
+        ]
+      },
+      {
+        "heading": "A linha 100% HD: pote, refil, 1,8 kg e 450 g",
+        "paragraphs": [
+          "O Whey 100% HD tem quatro tamanhos, e a dose e a proteína por dose são as mesmas nos três maiores: 21 g em 35 g (60% do pó). A lista de ingredientes traz proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite, proteína isolada do soro e proteína hidrolisada do soro (WPC, WPI e WPH). Contém lactose.",
+          "O que muda de um tamanho para o outro é a embalagem e o preço por proteína. O refil de 450 g tem rótulo próprio, com dose de 30 g, e estava sem estoque nos quatro sabores em 23/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. Proteína e porções da tabela nutricional de cada tamanho.",
+          "headers": [
+            "Tamanho",
+            "Proteína por dose",
+            "Porções",
+            "Preço (23/10/2026)",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Refil 900 g",
+              "21 g em 35 g",
+              "25",
+              "R$ 159,90",
+              "R$ 30,46"
+            ],
+            [
+              "[Pote 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "25",
+              "R$ 169,90",
+              "R$ 32,36"
+            ],
+            [
+              "1,8 kg",
+              "21 g em 35 g",
+              "50",
+              "R$ 279,90",
+              "R$ 26,66"
+            ],
+            [
+              "[Refil 450 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull--450g-wpc-wpi-e-wph/p) (esgotado em 23/10/2026)",
+              "21 g em 30 g",
+              "15",
+              "R$ 89,90",
+              "R$ 28,54"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote de 900 g custava R$ 10,00 a mais que o refil, com a mesma tabela. O 1,8 kg é o menor preço por proteína da linha 100% HD, com R$ 26,66, mas pede R$ 279,90 de uma vez. Quem compra o refil de 900 g paga R$ 30,46.",
+          "Para ver o 100% HD ao lado de outra marca, leia [Black Skull ou Growth](/reviews/black-skull-ou-growth). O que a loja diz sobre o colágeno do 100% HD está no capítulo \"Atenção ao nome\"."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+          "alt": "Embalagem refil de 900 g do Whey 100% HD da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+          "caption": "Foto oficial da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "80% HD: o mais barato por proteína da linha",
+        "paragraphs": [
+          "O Whey 80% HD Refil 900 g custava R$ 159,90 em 23/10/2026, com 23 g de proteína em cada dose de 30 g (77%) e 30 porções. A conta dá R$ 23,17 por 100 g de proteína, o menor número da linha. A lista de ingredientes traz só WPC (proteína concentrada do soro do leite), e o produto contém lactose.",
+          "É o único whey da linha com preço diferente por sabor: o Banana saía a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies saíam a R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
+          "O \"80\" do nome também não é o teor exato do pó: a tabela mostra 23 g em 30 g, cerca de 77%, e é essa conta que vale."
+        ],
+        "postParagraphs": [
+          "Contra o 100% HD Refil, que custa os mesmos R$ 159,90, a diferença é de R$ 7,29 por 100 g de proteína a favor do 80% HD (R$ 23,17 contra R$ 30,46). Em troca, a lista do 80% HD é mais simples: só WPC, sem isolado, hidrolisado nem peptídeos."
+        ]
+      },
+      {
+        "heading": "3W Core e 100% HD: por que não são o mesmo produto",
+        "paragraphs": [
+          "O 3W Core tem 31 g de proteína em 40 g; o 100% HD, 21 g em 35 g. Os dois misturam WPC, WPI e WPH, mas o rótulo é outro.",
+          "O 3W Core 900 g pede dois dosadores por dose (77,5% de proteína no pó), tem 22 porções e custava R$ 279,90. A lista traz WPC, WPI e WPH, sem peptídeos. A conta dá R$ 41,04 por 100 g de proteína.",
+          "O 100% HD Refil 900 g (60% de proteína no pó) tem 25 porções e custava R$ 159,90, com peptídeos hidrolisados e proteína concentrada de leite na lista. A conta dá R$ 30,46 por 100 g de proteína, R$ 10,58 a menos que o 3W Core.",
+          "Na prática, o 3W Core entrega mais proteína por dose (31 g contra 21 g) e custa mais por proteína. Se você quer uma dose com muita proteína, o 3W Core é o da linha. Se o que importa é o preço da proteína, o 100% HD sai mais barato."
+        ],
+        "postParagraphs": [
+          "A Max Titanium também vende um 3W, com outra conta de preço e de dose. A comparação está em [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+          "alt": "Pote de 900 g do Whey 3W Core da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+          "caption": "Foto oficial da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Sabor: o que a loja mostra e o que não mostra",
+        "paragraphs": [
+          "A Black Skull não publica venda por sabor. O que o site mostra, em 23/10/2026, é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso este artigo não escolhe sabor: escolha o que você gosta. Ninguém do site provou nenhum deles.",
+          "Na ordem de produtos do site em 23/10/2026, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
+        ],
+        "comparisonTable": {
+          "caption": "Sabores com estoque no site oficial em 23/10/2026. A ordem dos sabores é a do cadastro da loja.",
+          "headers": [
+            "Produto",
+            "Sabores com estoque",
+            "Sem estoque"
+          ],
+          "rows": [
+            [
+              "80% HD Refil 900 g",
+              "Morango, Banana (R$ 139,90) e Cookies",
+              "Chocolate e Baunilha"
+            ],
+            [
+              "100% HD Refil 900 g",
+              "Baunilha, Morango, Chocolate, Cookies, Pistache, Cappuccino, Milho Verde, Caramelo Macchiato, Vitamina de Frutas, Chocolate com Amendoim e Torta de Limão (11 de 11)",
+              "Nenhum"
+            ],
+            [
+              "100% HD Pote 900 g",
+              "Baunilha, Morango, Chocolate, Cookies & Cream, Capuccino, Milho Verde, Vitamina de Frutas, Chocolate com Amendoim, Torta de Limão, Caramelo Macchiato e Pistache (11 de 11)",
+              "Nenhum"
+            ],
+            [
+              "100% HD 1,8 kg",
+              "Baunilha, Morango, Chocolate e Cookies & Cream (4 de 4)",
+              "Nenhum"
+            ],
+            [
+              "100% HD Refil 450 g",
+              "Nenhum",
+              "Baunilha, Morango, Chocolate e Pistache"
+            ],
+            [
+              "Gourmet (pote 900 g, refil 900 g e 450 g)",
+              "Chocolate, Baunilha e Morango (3 de 3 em cada tamanho)",
+              "Nenhum"
+            ],
+            [
+              "3W Core 900 g",
+              "Baunilha, Chocolate, Morango e Cookies e Cream (4 de 4)",
+              "Nenhum"
+            ],
+            [
+              "Whey Protein (WPI, WPC, WPH) Refil 900 g",
+              "Chocolate",
+              "Baunilha e Morango"
+            ],
+            [
+              "Turbo Refil 907 g",
+              "Baunilha, Morango e Chocolate (3 de 3)",
+              "Nenhum"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O refil e o pote do 100% HD têm os mesmos 11 sabores, com grafia diferente em dois deles: \"Cookies\" e \"Cappuccino\" no refil, \"Cookies & Cream\" e \"Capuccino\" no pote. São os dois produtos com mais sabores da linha."
+        ]
+      },
+      {
+        "heading": "Atenção ao nome: wheys que não são o que parecem",
+        "paragraphs": [
+          "O nome do pote nem sempre diz o que está dentro. Estes são os casos que mudam a conta, com os números da tabela nutricional ou da lista de ingredientes lidos em 23/10/2026."
+        ],
+        "bullets": [
+          "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p): não é o 100% HD com outro sabor. A tabela traz 12 g de proteína em dose de 30 g (40%), contra 21 g em 35 g (60%) do 100% HD comum. O pote de 900 g custava R$ 129,90, ou R$ 36,08 por 100 g de proteína. O [refil de 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p) custava R$ 119,90 (R$ 33,31) e o pote de 450 g, R$ 84,90 (R$ 47,17, o maior número do quadro da linha).",
+          "[Whey Protein (WPI, WPC, WPH) Refil 900 g](https://www.blackskullusa.com.br/whey-protein-refil-black-skull--900g-wpi-wpc-wph/p): o nome lembra o 3W Core, mas a tabela traz 11 g de proteína em dose de 25 g (44%), a menor proteína por dose da linha, e a lista não tem peptídeos. O 3W Core tem 31 g em 40 g. O refil custava R$ 99,90 (R$ 25,23 por 100 g de proteína), com 36 porções, e só o sabor Chocolate estava com estoque.",
+          "[Whey Turbo Refil 907 g](https://www.blackskullusa.com.br/whey-turbo-refil--907g/p): é um hipercalórico, não um whey como os outros. A dose é de 120 g (12 colheres) e traz 30 g de proteína, 75 g de carboidrato e 479 kcal, com 7 doses. O refil custava R$ 79,90, e o [kit com 2 refis](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p), R$ 132,81 (preço de tabela R$ 139,80). A conta por 100 g de proteína dá R$ 38,05 no refil e R$ 31,62 no kit, mas é só de referência: junto com a proteína, o que você compra é carboidrato.",
+          "\"100%\" no nome: não é 100% de proteína. O 100% HD tem 21 g em 35 g (60%) no pote e no refil de 900 g, e 21 g em 30 g (70%) no refil de 450 g.",
+          "Colágeno no 100% HD: o texto de venda da loja diz que o \"Blend Duo Protein\" integra as proteínas do soro do leite aos \"peptídeos hidrolisados de colágeno\" (refil de 900 g) e \"Whey + Colágeno Hidrolisado\" (1,8 kg), e as páginas do Gourmet repetem a descrição do blend. A lista de ingredientes diz só \"peptídeos hidrolisados\", sem origem, e a Black Skull não publica a quantidade (lido em 23/10/2026). Por isso não fazemos conta de colágeno nem estimamos a parte dele na dose. O 80% HD e o 3W Core não têm peptídeos na lista.",
+          "Dose da ficha e dose do rótulo: a ficha do 100% HD Refil 900 g na loja diz \"Dose: 30\", e a tabela nutricional do rótulo diz 35 g. As contas deste artigo usam o rótulo."
+        ],
+        "postParagraphs": [
+          "Em todos os casos vale a regra do artigo: a proteína por dose da tabela e o preço do dia. O nome do produto não diz a dose."
+        ]
+      },
+      {
+        "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
+        "paragraphs": [
+          "Os 11 wheys e o kit de Turbo do site na mesma régua, com o preço de 23/10/2026. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
+          "alt": "Quadro desenhado com o preço por 100 g de proteína dos wheys da Black Skull em 23/10/2026, do 80% HD Refil (R$ 23,17) ao Gourmet 450 g (R$ 47,17)",
+          "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+          "objectFit": "wide",
+          "aspectRatio": 1.7778
+        },
+        "comparisonTable": {
+          "caption": "Preços de venda do site oficial em 23/10/2026, antes do cupom. R$ por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100, com a tabela nutricional. O Turbo é hipercalórico: a conta é só de referência.",
+          "headers": [
+            "Produto",
+            "Dose e proteína por dose",
+            "Porções",
+            "Preço (23/10/2026)",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "80% HD Refil 900 g",
+              "30 g, 23 g de proteína",
+              "30",
+              "R$ 159,90",
+              "R$ 23,17"
+            ],
+            [
+              "100% HD Refil 900 g",
+              "35 g, 21 g",
+              "25",
+              "R$ 159,90",
+              "R$ 30,46"
+            ],
+            [
+              "100% HD Pote 900 g",
+              "35 g, 21 g",
+              "25",
+              "R$ 169,90",
+              "R$ 32,36"
+            ],
+            [
+              "100% HD 1,8 kg",
+              "35 g, 21 g",
+              "50",
+              "R$ 279,90",
+              "R$ 26,66"
+            ],
+            [
+              "100% HD Refil 450 g (esgotado)",
+              "30 g, 21 g",
+              "15",
+              "R$ 89,90",
+              "R$ 28,54"
+            ],
+            [
+              "Gourmet Pote 900 g",
+              "30 g, 12 g",
+              "30",
+              "R$ 129,90",
+              "R$ 36,08"
+            ],
+            [
+              "Gourmet Refil 900 g",
+              "30 g, 12 g",
+              "30",
+              "R$ 119,90",
+              "R$ 33,31"
+            ],
+            [
+              "Gourmet 450 g",
+              "30 g, 12 g",
+              "15",
+              "R$ 84,90",
+              "R$ 47,17"
+            ],
+            [
+              "3W Core 900 g",
+              "40 g, 31 g",
+              "22",
+              "R$ 279,90",
+              "R$ 41,04"
+            ],
+            [
+              "Whey Protein (WPI, WPC, WPH) Refil 900 g",
+              "25 g, 11 g",
+              "36",
+              "R$ 99,90",
+              "R$ 25,23"
+            ],
+            [
+              "Turbo Refil 907 g (hipercalórico)",
+              "120 g, 30 g",
+              "7",
+              "R$ 79,90",
+              "R$ 38,05"
+            ],
+            [
+              "Kit 2x Turbo 907 g (hipercalórico)",
+              "120 g, 30 g",
+              "14",
+              "R$ 132,81",
+              "R$ 31,62"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual whey da Black Skull é o mais barato por proteína? Em 23/10/2026, o Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
+          "A Black Skull tem whey isolado ou sem lactose? Não em 23/10/2026: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
+          "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
+          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor e ninguém do site provou os wheys, então não escolhemos sabor. A lista dos sabores com estoque em 23/10/2026 está no capítulo de sabor.",
+          "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site tomou os wheys da Black Skull. Este artigo reúne o que a loja publica: tabela nutricional, lista de ingredientes, ficha, sabores com estoque, ordem de produtos e preço de venda, lidos no site oficial da Black Skull (blackskullusa.com.br) em 23/10/2026. As contas de R$ por 100 g de proteína e do desconto do cupom são nossas.",
+          "O Em Casa com Cecília é afiliado da Black Skull e recebe comissão pelas compras feitas com o código CECILIA10 e pelos links da loja, sem custo extra para você. Preço e estoque mudam toda semana: vale o que aparecer no site da loja na hora da compra."
+        ]
+      }
+    ]
   }
 ];
