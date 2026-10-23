@@ -28829,9 +28829,10 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "image": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
-    "imageAlt": "Cecília Mauad sentada na Poltrona Reclinável Damie 2.0 na cor caramelo.",
-    "imageFit": "cover",
+    "image": "/images/reviews/damie/poltrona-damie-e-boa-capa-discover.webp",
+    "imageAlt": "Cecília sentada na Poltrona Reclinável Damie 2.0 caramelo, ao lado de duas fotos oficiais da 2.0 bege, reclinada e com base giratória",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "youtubeUrl": "https://youtube.com/shorts/B8L2YJC8gaE?si=vlYdQlHOWvhfYVAv",
     "pros": [
       "Base elétrica com giro de 180° e balanço suave (modelo testado)",
@@ -29071,7 +29072,6 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "imageAspect": "square",
     "video": {
       "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
       "poster": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp"
@@ -31890,11 +31890,11 @@ export const reviewsData: unknown[] = [
     "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
-    "image": "/images/reviews/poltrona-levita-cecilia-flores.webp",
-    "imageAlt": "Cecília sentada na Poltrona Levita ao lado de um arranjo de flores.",
-    "imageAspect": "portrait",
+    "image": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
+    "imageAlt": "Cecília na Poltrona Levita segurando flores e sentada de lado, ao lado da foto oficial da Levita reclinada",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "imagePosition": "top",
-    "imageFit": "cover",
     "youtubeUrl": "https://youtu.be/jC0UZewMARE?si=N9l8Kl1yLcGkiyhu",
     "gallery": [
       {
@@ -32232,11 +32232,11 @@ export const reviewsData: unknown[] = [
     "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
-    "image": "/images/reviews/poltrona-moon-cecilia-quem.webp",
-    "imageAlt": "Cecília na Poltrona Moon em um canto de leitura da casa.",
-    "imageAspect": "portrait",
+    "image": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
+    "imageAlt": "Cecília sentada e apoiada na Poltrona Moon em três fotos na sala de casa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "imagePosition": "top",
-    "imageFit": "cover",
     "youtubeUrl": "https://youtu.be/YUAO12eA0oo?si=4ahcTSH1TuX3j1aP",
     "gallery": [
       {
@@ -32405,10 +32405,10 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "image": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
-    "imageAlt": "Cecília Mauad usando a poltrona reclinável Damie e acionando o botão de reclinação.",
-    "imageAspect": "portrait",
-    "imageFit": "cover",
+    "image": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
+    "imageAlt": "Cecília acionando o botão de reclinação da poltrona Damie, ao lado das fotos oficiais da poltrona reclinável de 2 lugares e da 1.0 com giro e balanço",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/brlxM4aUXkk?si=jHZDbXvAzKj-BNQx",
     "pros": [
       "Conforto de cinema em casa",
@@ -43862,10 +43862,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-09-02",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp",
-    "imageAlt": "Poltrona Aurora em couro castanho com puff, ambientada em sala de estar",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/damie/poltrona-decorativa-aurora-levita-capa-discover.webp",
+    "imageAlt": "Poltrona Aurora da Damie em couro castanho, em off-white com puff e reclinada com o puff ao lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [

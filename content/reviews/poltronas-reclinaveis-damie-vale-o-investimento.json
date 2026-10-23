@@ -24,10 +24,10 @@
       "initials": "BL"
     }
   ],
-  "image": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
-  "imageAlt": "Cecília Mauad usando a poltrona reclinável Damie e acionando o botão de reclinação.",
-  "imageAspect": "portrait",
-  "imageFit": "cover",
+  "image": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
+  "imageAlt": "Cecília acionando o botão de reclinação da poltrona Damie, ao lado das fotos oficiais da poltrona reclinável de 2 lugares e da 1.0 com giro e balanço",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/brlxM4aUXkk?si=jHZDbXvAzKj-BNQx",
   "pros": [
     "Conforto de cinema em casa",
