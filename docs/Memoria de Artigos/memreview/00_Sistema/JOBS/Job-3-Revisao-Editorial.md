@@ -31,3 +31,7 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
   É o mínimo, não a meta: aponte as seções que ganhariam outra imagem. Sem ao menos
   uma imagem no corpo, o rascunho volta ao Job 2. Aprovado o texto, a nota segue
   para o Job 6 (capa e imagens), e só depois para o Job 4.
+- [ ] **10. Resposta rápida e veredito:** a resposta rápida é um parágrafo de 2 ou 3
+  frases (40 a 60 palavras), só com a decisão e a frase que aponta o que muda a
+  escolha? Tudo o que ela diz também está num capítulo? Em comparativo e guia de
+  escolha, há capítulo de veredito antes do FAQ (`REGRAS-GLOBAIS.md`, seção 6)?

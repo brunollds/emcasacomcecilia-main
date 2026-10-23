@@ -19,7 +19,7 @@ proxima_acao: "revisao-editorial"
 
 # {{title}}
 
-> **Resposta Rápida:** [Resumo direto e objetivo respondendo a dúvida principal em 2 linhas].
+> **Resposta Rápida:** [Um parágrafo de 2 ou 3 frases, 40 a 60 palavras: a decisão e, por último, o que muda a escolha e onde está no texto. Sem bullets, tabela, imagem ou preço com cupom. Ver REGRAS-GLOBAIS, seção 6.]
 
 ---
 

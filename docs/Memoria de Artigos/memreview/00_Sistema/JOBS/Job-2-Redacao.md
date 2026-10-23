@@ -10,7 +10,7 @@ Transformar o Briefing aprovado em um rascunho completo de artigo, no tom "Vida 
 ---
 
 ## 2. Princípios de Redação
-1. **Resposta Rápida no Topo:** A resposta principal deve ser entregue nas primeiras linhas (sem enrolação).
+1. **Resposta rápida no topo, curta:** um parágrafo de 2 ou 3 frases (40 a 60 palavras) com a decisão e uma última frase que aponta o que muda a escolha e onde está no texto. Sem bullets, tabela, imagem, conta ou preço com cupom. Nada pode existir só ali, e comparativos e guias levam o veredito num capítulo próprio antes do FAQ. Regra completa em `REGRAS-GLOBAIS.md`, seção 6.
 2. **Estrutura por Seções Claras:** Subtítulos (H2/H3) descritivos e fáceis de escanear.
 3. **Tabelas e Bullets:** Sempre que houver dados técnicos, use tabelas limpas ou passos numerados.
 4. **FAQ Estruturada:** Incluir 3 a 5 perguntas literais, cada uma terminando em "?", com respostas em 1–2 frases. No rascunho, cada item é "Pergunta? resposta", sem negrito na pergunta. Usar os termos do autocompletar do Google que o site do parceiro confirma (`CONTRATOS-DE-CONTEUDO.md`).

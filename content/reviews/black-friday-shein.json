@@ -41,17 +41,8 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A SHEIN ainda não anunciou a Black Friday de 2026. Nos três últimos anos, as ofertas começaram antes da data, junto com o 11.11, e terminaram depois dela (25/11 em 2023 e 30/11 em 2024 e 2025). Em 2026, a Black Friday cai em 27 de novembro.",
-        "A grande mudança deste ano é o imposto. Desde 13 de maio de 2026, o pedido internacional de até **US$ 50** (produto mais frete, já com os descontos) não paga imposto de importação. O ICMS do estado, de 17% a 20%, continua, e a SHEIN diz que cobre uma parte dele. Acima de US$ 50, o imposto de importação volta.",
-        "Vale um cupom da SHEIN por pedido. O 4CW5Y é o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e confere as condições que aparecem para a sua conta."
-      ],
-      "image": {
-        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-        "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-        "caption": "A página inicial da SHEIN Brasil em 12/10/2026. A campanha da Black Friday de 2026 ainda não tinha sido anunciada.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+        "A SHEIN ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Pelo histórico, as ofertas começam antes, junto com o 11.11, e vão até 30 de novembro. No pedido internacional de até US$ 50 não há imposto de importação, só ICMS; veja abaixo a conta, o cupom e o código 4CW5Y."
+      ]
     },
     {
       "heading": "Quando começa a Black Friday da SHEIN",
@@ -60,11 +51,7 @@
       ],
       "comparisonTable": {
         "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
-        "headers": [
-          "Ano",
-          "Começo e fim",
-          "Desconto máximo anunciado"
-        ],
+        "headers": ["Ano", "Começo e fim", "Desconto máximo anunciado"],
         "rows": [
           [
             "2023",
@@ -86,7 +73,14 @@
       "postParagraphs": [
         "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta, 27 de novembro. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até 30 de novembro. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
         "Nos três anos, o desconto máximo subiu perto do fim: 90% em 24 e 25/11 de 2023, 95% de 26 a 30/11 de 2024 e 95% a partir de 24/11 de 2025."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+        "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+        "caption": "A página inicial da SHEIN Brasil em 12/10/2026. A campanha da Black Friday de 2026 ainda não tinha sido anunciada.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "\"Até 90%\" não é o carrinho inteiro",
@@ -115,12 +109,7 @@
           "Exemplo da SHEIN, sem o subsídio"
         ],
         "rows": [
-          [
-            "Até US$ 50",
-            "0%",
-            "17% a 20%, conforme o estado",
-            "US$ 50 viram US$ 60,24 com ICMS de 17%"
-          ],
+          ["Até US$ 50", "0%", "17% a 20%, conforme o estado", "US$ 50 viram US$ 60,24 com ICMS de 17%"],
           [
             "Acima de US$ 50",
             "60%, menos US$ 30 no valor do imposto",

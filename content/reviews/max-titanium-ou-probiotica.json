@@ -26,17 +26,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "**São a mesma coisa?** Não. As duas são marcas do grupo Supley, e o rótulo das duas aponta a mesma fábrica. As linhas, as porções, os sabores e os preços são diferentes.",
-        "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
-        "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
-        "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
-        "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g.",
-        "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g.",
-        "**Cupom:** cada loja tem o seu código, de até 10%, e os dois somam com as promoções do site."
-      ],
-      "postParagraphs": [
-        "A comparação usa a tabela nutricional que cada loja publica e o preço dos sites oficiais em 16/10/2026, que muda com as promoções."
+      "paragraphs": [
+        "Não são a mesma coisa. As duas marcas são do grupo Supley e o rótulo aponta a mesma fábrica, mas linhas, porções, sabores e preços mudam. A escolha depende da linha que você quer comprar, e em vários pares a diferença está na proteína por porção. Veja o capítulo Qual escolher para o veredito por produto."
       ]
     },
     {
@@ -414,6 +405,19 @@
       "postParagraphs": [
         "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: em 16/10/2026, a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).",
         "O frete grátis segue a mesma tabela nas duas lojas. Em 14/10/2026, a entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "O veredito por tipo de produto, com os números de cada capítulo acima."
+      ],
+      "bullets": [
+        "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
+        "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
+        "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
+        "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g.",
+        "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g."
       ]
     },
     {

@@ -50,3 +50,18 @@
   - O texto do artigo não cita a Anvisa (registro, aprovação, proibição ou banimento) e não faz alegação de saúde. A Anvisa serve à pauta como checagem interna, não como argumento no texto; exceção só por decisão do Bruno no artigo.
   - Toda afirmação na matriz de claims deve apontar para uma **fonte exata** (com resolução, trecho do rótulo ou URL oficial).
   - Sempre orientar a consulta a um médico ou nutricionista em questões de saúde e posologia.
+
+---
+
+## 6. Resposta rápida e veredito (Bruno, 23/10/2026)
+A primeira seção do artigo (`Resposta rápida` em português; `Quick answer`, `Respuesta rápida`, `Réponse rapide` etc. nas traduções) é um resumo de verdade, não um mini-artigo.
+
+- **Um parágrafo só, de 2 ou 3 frases e 40 a 60 palavras,** respondendo direto à pergunta do título. No JSON: `paragraphs` com um item, sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images`.
+- **Só a decisão,** sem os detalhes que se repetem nos capítulos: nada de lista de produtos, preço com cupom, conta, tabela ou passo a passo.
+- **A última frase aponta o que muda a decisão e onde está no texto.** Ex.: "o que pesa é o mínimo de 3 caixas; veja abaixo se compensa no seu consumo". Ela puxa a leitura sem esconder a resposta do Google.
+- No máximo um link, de preferência nenhum. Sem negrito.
+- Por tipo de artigo: no **comparativo** e no **guia de escolha**, o veredito em uma frase e o que pesa na escolha; no **é confiável / Reclame Aqui**, sim ou não, com o porquê em uma frase; no **cupom**, o código, o desconto, onde ele vale e a condição principal (aqui o código é a própria resposta); na **Black Friday**, se a loja tem campanha, quando, e o que o cupom faz nela.
+- **Nada existe só na resposta rápida.** Todo fato, link, tabela, imagem, aviso ou data dela também está num capítulo. Veredito que só aparece na resposta rápida é sinal de artigo mal estruturado.
+- **O veredito tem capítulo próprio.** Comparativos e guias de escolha trazem um capítulo de veredito ("Qual escolher", "Quem escolhe o quê", "Onde cada um ganha"), no mínimo como capítulo final, antes de "Perguntas frequentes" e da "Nota de transparência", com o veredito por perfil e os números que o sustentam. Nos artigos de confiança, o capítulo final responde "dá para confiar?" com os números.
+- **O primeiro capítulo depois da resposta rápida abre o assunto:** se ele começa no meio (método, tabela solta), ganha uma ou duas frases de entrada.
+- Vale para todos os idiomas: as traduções seguem o mesmo formato, a partir do PT.
