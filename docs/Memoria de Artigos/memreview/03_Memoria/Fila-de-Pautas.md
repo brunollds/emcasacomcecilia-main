@@ -57,7 +57,7 @@ O autocompletar de 20/10/2026 traz "mais mu ou growth" e "mais mu ou dux" com wh
 |---|---|---|
 | 1 | Mais Mu ou Growth | **Publicado em 21/10/2026:** [[mais-mu-ou-growth]] (PR #201, release `c33b831`) |
 | 2 | Mais Mu ou Dux | **Publicado em 21/10/2026:** [[mais-mu-ou-dux]] (PR #201, release `c33b831`) |
-| 3 | Mais Mu, Black Skull, Probiótica ou Max Titanium: qual whey escolher (um artigo só com as quatro parceiras) | Proposta do Claude, aguarda o Bruno |
+| 3 | Mais Mu, Black Skull, Probiótica ou Max Titanium: qual whey escolher (um artigo só com as quatro parceiras) | **Aprovada em 23/10/2026 no formato por perfil, com a Dr. Peanut:** ver a pauta A2 em "Afiliados com poucas vendas" |
 
 ## Conversão da Let's Eat It e da Cléa Store (Bruno, 19/10/2026)
 
@@ -76,7 +76,7 @@ As duas lojas pediram mais material. Pautas de decisão de compra, com produtos 
 | L2 | Le Creuset original: como saber e onde comprar (a Let's Eat It está no localizador oficial) | Estoque, próxima rodada |
 | L4 | Aparelho de jantar Porto Brasil: 20, 30 ou 42 peças | Estoque, próxima rodada |
 | L6 | Faqueiro Wolff: 30, 101 ou 130 peças | Estoque, próxima rodada (a loja vende) |
-| C1 | Camiseta da Cléa Store é boa? | Parado: sem compra nem amostra |
+| C1 | Camiseta da Cléa Store é boa? | **Reaberta em 23/10/2026:** ver a pauta A9 em "Afiliados com poucas vendas" |
 
 ## Insider (Bruno, 20/10/2026)
 
@@ -111,6 +111,48 @@ Guia amplo de fim de ano (Black Friday e Natal antecipado) para quem esperou o a
 | 1 | Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina | **Publicado em 23/10/2026 (PR #235, release `79eb22f`):** [[presente-de-natal-para-casa-moveis]] |
 | 2 | Poltrona Cinema DAMIE 2.0 (2 a 9 lugares, com ou sem braço no meio) | Pauta do **subdomínio** (não vira briefing em `02_Artigos/`). O `/guias/poltrona-para-cinema-em-casa` fala das reclináveis avulsas, não deste modelo. Autocompletar de 22/10: "poltrona cinema 2 lugares damie", "poltrona cinema damie 2 lugares sem braço no meio" |
 | 3 | Puff de piscina e espreguiçadeira: qual escolher (material, medidas, preço) | Pauta do **subdomínio**, a decidir: hoje o `/guias/linha-garden-damie-moveis-de-area-externa` cobre a linha. Autocompletar de 22/10: "puff de piscina impermeável / redondo / grande", "espreguiçadeira piscina alumínio / corda náutica / medidas" |
+
+## Afiliados com poucas vendas (Bruno, 23/10/2026)
+
+O Bruno quer reforçar os parceiros que vendem pouco e têm potencial (vendas e posição no ranking de afiliados da loja em 23/10/2026): Cléa Store (16 vendas, 46º), Mais Mu (1, 163º), Skelt (1, 59º), Black Skull (6, 20º) e Dr. Peanut (5, 10º). Os outros parceiros seguem bem para o ciclo inicial. Os sinais vêm do autocompletar do Google de 23/10/2026, em duas rodadas independentes: a do Claude e a de um subagente com o modelo Fable 5.1, pedida pelo Bruno só para esta pesquisa. O Bruno mandou incluir tudo o que as duas encontraram. Ninguém do site usou os produtos: os textos são guias com fontes públicas, sem promessa de saúde ("emagrecer", "mounjaro", "grávida" e afins ficam fora). Concorrentes sem link, cupom, foto nem print.
+
+| Ordem | Pauta | Loja | Sinal do autocompletar (23/10/2026) | Observação |
+|---|---|---|---|---|
+| A1 | Autobronzeador Skelt: qual escolher (água, mousse, bifásico, gradual, dark ou normal; rosto ou corpo) | Skelt | "autobronzeador skelt qual o melhor", "skelt agua ou mousse", "skelt dark ou normal", "qual skelt nao mancha", "qual skelt bronzeia mais", "skelt autobronzeador como usar", "skelt kit iniciante", "autobronzeador skelt resenha" | Primeira da fila: a Skelt não tem artigo de produto e o verão começa. Modo de uso só pela página da loja. O protetor Summer Vibes (FPS 8, 15, 30) e o acelerador entram, no máximo, como seção, sem recomendar FPS baixo |
+| A2 | Melhor whey em 2026: qual escolher para cada objetivo | Max Titanium, Probiótica, Black Skull, Mais Mu e Dr. Peanut | "whey qual o melhor", "qual whey comprar", "whey qual a melhor marca", "melhor whey custo beneficio 2026", "melhor whey nacional 2026", "whey concentrado ou isolado qual o melhor", "whey 3w ou 100", "melhor whey para iniciantes", "whey refil", "whey sache" | Regra do Bruno: as cinco são recomendadas, cada uma no perfil em que compensa (custo por 100 g de proteína, isolado ou zero lactose, sabor de sobremesa, sachê para iniciante, refil, 3W); sem vencedor único. Quem fica com cada perfil sai dos números no briefing. O texto diz que somos afiliados das cinco e mostra o método ("melhor whey reddit" mostra desconfiança de ranking). Conferir se o whey da Dr. Peanut é feito pela Max Titanium ("whey dr peanut max titanium"): se for, ela entra pelo sabor e pelo tamanho |
+| A3 | Creatina Mais Mu com sabor é boa? Melancia, pink lemonade e manga | Mais Mu | "creatina mais mu é boa", "creatina mais mu é pura", "creatina mais mu tem selo creapure", "creatina com sabor tem o mesmo efeito", "creatina com sabor qual a melhor" | ⚠️ "mais mu creatina recall" e "laudo" aparecem no autocompletar. Apurar antes do briefing (Anvisa, imprensa, nota da marca): se houve episódio, o texto fala dele com fonte; se não, diz que não há registro público |
+| A4 | Skelt ou Best Bronze (e Australian Gold, Episol, Panvel, Mantecorp): autobronzeador pelo rótulo e pelo preço | Skelt | "skelt ou best bronze", "skelt ou australian gold", "autobronzeador skelt ou episol / panvel / mantecorp", "autobronzeador qual a melhor marca", "qual autobronzeador não mancha", "qual autobronzeador dura mais" | Um artigo com as marcas ou um por concorrente (Best Bronze primeiro): decidir no briefing |
+| A5 | Dr. Peanut ou La Ganexa (e Power One, Nutrata, Growth): pasta de amendoim pelo rótulo e pelo preço por 100 g | Dr. Peanut | "dr peanut ou la ganexa" (1ª sugestão de "dr peanut ou"), "pasta de amendoim dr peanut ou power one / growth / nutrata", "pasta de amendoim qual a melhor marca" | A La Ganexa já estava no lote seguinte dos comparativos de 16/10 |
+| A6 | Creatina Black Skull: Turbo ou monohidratada (Caveira Preta), é pura e qual tamanho compensa | Black Skull | "creatina black skull turbo ou monohidratada", "turbo é pura", "black skull creatina creapure", "creatina black skull 300g / 500g / 1kg" | "Creatina black skull ou dark lab / integralmedica" vai para a FAQ |
+| A7 | Body splash Skelt: qual o mais cheiroso e qual lembra perfume importado (Amalfi Sunset, Hidden Flowers, Velvet Milano, Unexpected Day, Pink Sands), com os kits para presente | Skelt | "skelt qual o mais cheiroso", "body splash skelt lembra qual perfume importado", "skelt amalfi sunset notas", "skelt hidratante corporal qual o melhor", "skelt kit miniatura", "kit presente skelt" | Notas olfativas publicadas, sem afirmar cópia de perfume. Hidratantes da mesma fragrância entram aqui. Presente de Natal |
+| A8 | Presente de Natal para quem treina: kits e lembranças das lojas parceiras | Dr. Peanut, Mais Mu, Black Skull, Max Titanium, Probiótica e Skelt | "kit presente academia", "kit presente para quem faz academia", "presente fitness feminino", "presente para quem treina musculação" | Ideia da rodada do Fable: junta as lojas fracas num guia de presentes. Publicar em novembro |
+| A9 | Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço | Cléa Store | "camiseta clea store é boa" (em 3 prefixos), "clea store camiseta" (1ª sugestão da marca), "kit camiseta clea store" | Era a C1, parada por falta de uso. Reaberta pelo Bruno em 23/10/2026 como guia com fontes públicas, no modelo do `body-clea-store-second-skin-qual-escolher`, dizendo que não houve uso. Quando houver uma camiseta para testar, vira artigo novo ou atualização deste, conforme o desempenho até lá |
+| A10 | Look de Natal e de Réveillon 2026 feminino com peças da Cléa (calça branca, colete, body), e look de formatura com calça | Cléa Store | "look reveillon 2026 feminino", "look natal 2026 feminino", "look de natal feminino elegante", "roupa branca ano novo feminina", "look para formatura com calça pantalona" | Depende de o catálogo ter peças brancas ou off-white (conferir no Chrome). Modelo do `look-trabalho-alfaiataria-feminina-clea-store`, com preço por peça e total com cupom. Publicar em novembro |
+| A11 | Pré-treino Exquenta da Mais Mu é bom? Composição, cafeína, sem cafeína e sachê | Mais Mu | "mais mu pre treino" (2ª sugestão da marca), "pre treino exquenta mais mu é bom", "mais mu pre treino sem cafeina" | Pelo rótulo; sem dizer que "funciona" |
+| A12 | Pré-treino Black Skull: BOPE ou Bone Crusher (e o sem cafeína) | Black Skull | "black skull bope ou bone crusher", "bone crusher é bom", "black skull bone crusher caffeine free", "black skull pre treino tabela" | O termogênico Thermo Flame fica fora (só promessa de emagrecer) |
+| A13 | Whey Mais Mu: qual sabor e qual versão (paçoquita, brownie, doce de leite; concentrado, isolado, sachê, refil) | Mais Mu | "mais mu whey isolado", "whey mais mu paçoquita", "whey mais mu melhor sabor", "whey mais mu sache", "mais mu whey é bom" | Modelo do `dr-peanut-melhor-sabor`. Conferir o "brownie do luiz" (colaboração?) |
+| A14 | Whey Black Skull: 100% HD, 80% HD, 3W, Turbo ou isolado | Black Skull | "whey black skull 100 hd é bom", "whey black skull 80", "whey black skull 3w", "whey black skull turbo ou hd", "whey black skull melhor sabor" | Os comparativos com Growth, Dux e Max não cobrem a linha da própria marca |
+| A15 | Black Skull ou Dark Lab (e Integralmédica): whey e creatina pelo rótulo | Black Skull | "black skull ou dark lab" (1ª sugestão de "black skull ou"), "black skull ou integralmedica", "black skull é da integralmedica" | Esclarecer a origem da marca |
+| A16 | Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade) | Dr. Peanut | "dr peanut doctor bar", "dr peanut alfajor calorias", "alfajor proteico dr peanut", "dr peanut barra de proteina é boa", "barra de proteina qual a melhor marca" | O alfajor não tem composição publicada: repetir a ressalva do `dr-peanut-e-saudavel` |
+| A17 | Pasta de amendoim com whey vale a pena? Power Cream × pasta comum da Dr. Peanut | Dr. Peanut | "pasta de amendoim com whey vale a pena", "dr peanut power cream", "dr peanut com whey tabela nutricional" | Sem "engorda" nem "emagrece" |
+| A18 | Dr. Peanut: 250 g, 600 g, 800 g ou 1 kg, qual tamanho compensa | Dr. Peanut | "dr peanut 600g", "dr peanut 250g", "dr peanut avela 1kg", "dr peanut kit 3" | Curto; preço por 100 g com cupom |
+| A19 | Barrinhas Mais Mu: Mukebar, Wheyfer e Choco Wheyfer | Mais Mu | "mais mu barra de proteina", "mais mu barra muke", "mais mu barra de proteina vegana", "mais mu wheyfer bites" | Conferir se a pasta de amendoim da Mais Mu saiu de linha antes de citá-la ("pasta de amendoim mais mu saiu de linha") |
+| A20 | Alfaiataria de verão da Cléa: blazer, colete, conjunto ou pantalona para o calor | Cléa Store | "alfaiataria verão 2026", "conjunto alfaiataria verão feminino", "colete alfaiataria feminino", "calça wide leg alfaiataria feminina", "blazer feminino qual melhor tecido" | O look de trabalho publicado é de inverno |
+| A21 | Creatina com sabor: qual escolher (as marcas parceiras por perfil, no formato da A2) | Mais Mu, Max Titanium, Probiótica e Black Skull | "creatina com sabor qual a melhor", "creatina com sabor é boa", "creatina com sabor tem o mesmo efeito" | Depois da A2 e da A3 |
+
+Ajustes em artigos publicados, sem artigo novo (sessão de melhorias):
+- **Cléa:** "clea store tem loja fisica" e "clea store shopee" viram perguntas da FAQ. A loja física fica **a verificar** (o autocompletar sugere "bom retiro" e "jaraguá do sul"; nenhum dos dois conferido).
+- **Skelt:** a relação com a Creamy ("skelt é da creamy"), "skelt é brasileira" e onde mais a marca é vendida (Renner, Sephora, Panvel, lojas físicas) entram no `skelt-e-confiavel`, depois de conferidos.
+- **Dr. Peanut:** se o whey for da Max Titanium, uma frase no `dr-peanut-e-confiavel`.
+
+## Apps das lojas parceiras (Bruno, 23/10/2026)
+
+Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
+
+| Ordem | Pauta | Loja | Idiomas | Sinal | Observação |
+|---|---|---|---|---|---|
+| P1 | App da YesStyle: como comprar e onde entra o código de recompensa no app | YesStyle | 10 | "yesstyle app", "yesstyle app review", "yesstyle app not working", "yesstyle app download" | O CECILIA010 foi testado pelo Bruno no app (campo Reward Code). É código de recompensa, nunca cupom |
+| P2 | App da Dolce Gusto: comprar, controlar a NEO, timer e Dolce Gusto Club (e quando o app não abre) | Dolce Gusto | PT | "app dolce gusto neo", "app dolce gusto timer", "app dolce gusto não funciona", "app dolce gusto nao abre", "cupom app dolce gusto" | O CECI foi testado pelo Bruno no app. O tema "pontos da NEO pelo app", em "Temas para depois", pode entrar aqui |
 
 ## Temas para depois (não prioritários)
 
