@@ -362,6 +362,23 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "basic26vip-promo",
+    "code": "BASIC26VIP",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-10-23",
+    "expiresAt": "2026-10-26",
+    "verifiedAt": "2026-10-23",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
