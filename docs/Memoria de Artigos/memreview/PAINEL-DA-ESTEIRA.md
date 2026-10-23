@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- *(Nenhum artigo no momento)*
+- [ ] [[autobronzeador-skelt-qual-escolher]]: qual autobronzeador Skelt escolher (mousse, água, gel, bifásico, Dark, kits), pela ficha oficial, sem uso próprio; links de produto com a UTM da Inbazz (PT)
 
 ---
 

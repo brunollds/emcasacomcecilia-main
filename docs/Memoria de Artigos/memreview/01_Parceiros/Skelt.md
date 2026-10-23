@@ -49,6 +49,9 @@ Amalfi Sunset foram de R$ 443,50 para R$ 359,24.
 - Nos artigos deste parceiro, usar `affiliate: "skelt"` e link relativo para `/cupons/skelt`,
   conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Os artigos de onboarding passam primeiro pela pauta
   (Job 1) e depois pela sessão de artigos.
+- **Links de produto (Bruno, 23/10/2026):** produto citado num artigo leva o link oficial da página com a mesma UTM do `offerUrl` (`?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz`) e `rel="sponsored"`. Ex.: `https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz`.
+- **Fotos oficiais (Bruno, 23/10/2026):** as fotos de produto do catálogo (`skelt.vteximg.com.br`) podem ser baixadas para os artigos. Ficam fora as de "antes e depois" e as que trazem "aprovado por dermatologistas" ou "líder".
+- **Catálogo por leitura direta:** a busca pública da VTEX (`/api/catalog_system/pub/products/search/<termo>`) traz preço, estoque, especificações (Intensidade, Duração, Nível, Área, Benefícios) e imagens; `O=OrderByTopSaleDESC` dá a ordem de mais vendidos. Em 23/10/2026, 8 dos 10 mais vendidos do site eram body splash.
 - Nunca citar o `PRIMEIRA10` ou outro cupom da loja como alternativa ao nosso, salvo na pergunta
   que explica que eles não somam.
 
