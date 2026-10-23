@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[autobronzeador-skelt-qual-escolher]]: qual autobronzeador Skelt escolher (mousse, água, gel, bifásico, Dark, kits), pela ficha oficial, sem uso próprio; links de produto com a UTM da Inbazz (PT)
+- [ ] [[melhor-whey-qual-escolher-por-objetivo]]: melhor whey por objetivo, com as cinco parceiras (Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu) cada uma num perfil, pelo preço por 100 g de proteína; sem `affiliate`, estante "Outros" (PT)
 
 ---
 
@@ -44,6 +44,7 @@
 *No ar.*
 - [x] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[autobronzeador-skelt-qual-escolher]]: qual autobronzeador Skelt escolher (mousse, água, gel, bifásico, Dark, kits), pela ficha oficial, sem uso próprio (PT) (no ar em 23/10/2026, PR #241, release `d3c2688`) 🚀
 - [x] [[presente-de-natal-para-casa-moveis]]: guia-mãe de presentes de Natal para a casa (sofá, poltrona, cinema em casa e piscina), com a página de ofertas da DAMIE; fim da lista de `home-events.json` (PT) (no ar em 23/10/2026, PR #235, release `79eb22f`) 🚀
 - [x] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[bagaggio-reclame-aqui-nota-reputacao]]: Loja Virtual Boa 7,7 em 6 meses e Ruim 5,8 em 12 meses, histórico e principais problemas (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀

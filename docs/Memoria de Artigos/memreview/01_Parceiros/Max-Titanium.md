@@ -44,6 +44,8 @@ pode ser menor em alguns produtos" fica separado, no destaque, nas regras e na F
 
 ## 3. Alertas Editoriais
 
+- **Proteína por dose (23/10/2026):** vale a tabela nutricional, não o texto da página. O Top Whey 3W "+ Sabor" (Brigadeiro) tem 25 g em 40 g na tabela, e a página diz 26 g. As tabelas ficam na última imagem da galeria (`...-Tabela-Nutricional`).
+- A Max não vende whey zero lactose: o "Zero Lactose" do menu é o Mass Titanium 17500 (hipercalórico).
 Nos artigos deste parceiro, usar `affiliate: "max-titanium"` e link relativo para
 `/cupons/max-titanium`, conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Nunca prometer 10% em todo
 produto. Os artigos de onboarding passam primeiro pela pauta (Job 1) e depois pela sessão de

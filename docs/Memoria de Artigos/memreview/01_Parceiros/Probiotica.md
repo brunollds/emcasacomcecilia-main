@@ -47,6 +47,7 @@ quem já comprou. A soma com promoções da loja segue sem confirmação. Prints
 
 ## 3. Alertas Editoriais
 
+- **Leitura no Chrome (23/10/2026):** a extensão não tinha permissão para ler `probiotica.com.br` (página e captura de tela recusadas); as tabelas do 3W, do Monster e do sachê monodose seguem sem leitura. Antes da próxima rodada no Chrome, o Bruno libera o domínio na extensão.
 Nos artigos deste parceiro, usar `affiliate: "probiotica"` e link relativo para `/cupons/probiotica`,
 conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Nunca prometer 10% em todo produto.
 

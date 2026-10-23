@@ -75,6 +75,8 @@ O cupom fica no checkout (depois de "Iniciar compra" no carrinho), em "Adicionar
 
 ## 3. Alertas Editoriais
 
+- **Tabela nutricional (23/10/2026):** a loja não publica tabela nutricional dos wheys, nem na galeria nem na descrição (conferido no Chrome). Só declara "20 g de proteína" por dose; a dose em gramas aparece no sachê ("15 sachês com 31 g cada" no título) e no pote de 450 g (12 doses), não nos refis. Não citar dose em gramas de potes e refis nem calcular preço por proteína do refil.
+- **Leitura do site:** a loja (Nuvemshop) responde com o desafio da Cloudflare quando lida em paralelo. Decisão do Bruno (23/10/2026): com bloqueio, parar a leitura automática e ir para o Chrome.
 - O nome é Mais Mu; o logo escreve "+Mu". O cupom é longo: em layout estreito, conferir a quebra.
 - O cashback é da loja, não da parceria: nunca apresentá-lo como vantagem do cupom.
 - Nos artigos deste parceiro, usar `affiliate: "mais-mu"` e link relativo para `/cupons/mais-mu`,

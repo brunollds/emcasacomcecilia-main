@@ -56,6 +56,7 @@ conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
 - **Saúde** (20/10/2026): nenhum texto diz que um produto da marca é ou não é saudável, nem que engorda, emagrece ou faz mal. O texto mostra o que o rótulo traz (ingredientes, açúcares totais e adicionados, adoçantes e polióis, lactose, glúten, gordura saturada, kcal por porção) e manda para nutricionista ou médico. Sem citar a Anvisa e sem repetir o marketing da marca ("equilíbrio perfeito entre saúde e prazer").
 - **Alfajores** (20/10/2026): a loja não publica os ingredientes nem os alérgicos dos alfajores, só a tabela nutricional em imagem. O texto diz isso e não afirma nada sobre a composição.
 - **Leitura do site:** o site (VTEX) devolve 429 para leitura direta; o catálogo é lido no navegador, com a liberação do Bruno. As tabelas nutricionais ficam em imagens de `drpeanut.vteximg.com.br`.
+- **Whey Dr. Peanut (23/10/2026):** está à venda no próprio site (`/whey-protein`, 5 sabores, R$ 224,39) com o nome "100% Whey Dr. Peanut - Max Titanium". Nos artigos, o link e o código são os da Dr. Peanut.
 - O artigo de sabores (`dr-peanut-melhor-sabor`) é a referência da tabela por sabor; os outros artigos linkam para ele em vez de repetir.
 
 ---
