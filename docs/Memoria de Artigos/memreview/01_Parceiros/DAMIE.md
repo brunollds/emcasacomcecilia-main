@@ -81,6 +81,18 @@ Fonte e data da condição do sofá modular: [coleção oficial da Damie](https:
   de apoio, suporte com carregador, case 3 em 1), leitura (luminária), descanso (massagem) e
   lazer (porta-copos e porta-taças).
 
+### Poltrona Cinema e Linha Garden (catálogo público, 22/10/2026)
+
+| Produto | Preço | Ficha |
+|---|---|---|
+| Poltrona Cinema DAMIE 2.0 | 2 lugares R$ 5.438 a R$ 8.380; 3 lugares R$ 8.457 a R$ 12.870; 4 lugares R$ 11.276 a R$ 17.160 (até 9 lugares) | Com ou sem braço divisor; suede, bouclé, linho, corino importado e couro bovino; SoftSpring; aço carbono; fabricada no Brasil; 1 ano de garantia |
+| Espreguiçadeira Caraíva, puffs Geribá e Joy | R$ 2.250 cada | Ultra Poliéster Impermeável, 6 cores; flocos de espuma e EPS (artigo Garden do subdomínio, agosto; reler na página antes de citar) |
+| Apoio do puff Joy | R$ 1.450 | Idem |
+| Ombrelone 2,75 × 2,45 m e mesa champanheira | R$ 1.990 e R$ 2.290 | Alumínio |
+
+- O vídeo da espreguiçadeira na água, no artigo Garden do subdomínio, é da DAMIE (Bruno, 22/10/2026): ninguém do site usou a linha Garden nem a Poltrona Cinema 2.0.
+- Em 22/10/2026 as páginas de produto deram 429 na leitura direta; os preços vieram do `products.json` das coleções.
+
 ### Links de afiliado fora da DAMIE (alternativas mais baratas)
 
 | Link | Destino | Dados conferidos em 06 e 07/10/2026 |

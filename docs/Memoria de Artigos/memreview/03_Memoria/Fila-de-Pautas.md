@@ -102,6 +102,16 @@ O Bruno pediu pautas com OpenClaw, Hermes Agent e Paperclip, os temas em alta. S
 | 3 | OpenClaw ou Hermes Agent | "openclaw vs hermes" em todos os idiomas, "openclaw ou hermes agent" | **Publicado em 21/10/2026:** [[openclaw-ou-hermes-agent]] (PR #211, release `666113b`) |
 | 4 | Paperclip AI na Hostinger | "paperclip ai" o que é, é confiável, docker, hostinger | **Publicado em 21/10/2026:** [[paperclip-ai-hostinger]] (PR #211, release `666113b`) |
 
+## DAMIE: guia de Natal para a casa (Bruno, 22/10/2026)
+
+Guia amplo de fim de ano (Black Friday e Natal antecipado) para quem esperou o ano para comprar um móvel ou quer dar um de presente. O guia-mãe fica no site principal; os artigos de cada categoria ficam no subdomínio da DAMIE.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| 1 | Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina | **Briefing criado em 22/10/2026:** [[presente-de-natal-para-casa-moveis]] |
+| 2 | Poltrona Cinema DAMIE 2.0 (2 a 9 lugares, com ou sem braço no meio) | Pauta do **subdomínio** (não vira briefing em `02_Artigos/`). O `/guias/poltrona-para-cinema-em-casa` fala das reclináveis avulsas, não deste modelo. Autocompletar de 22/10: "poltrona cinema 2 lugares damie", "poltrona cinema damie 2 lugares sem braço no meio" |
+| 3 | Puff de piscina e espreguiçadeira: qual escolher (material, medidas, preço) | Pauta do **subdomínio**, a decidir: hoje o `/guias/linha-garden-damie-moveis-de-area-externa` cobre a linha. Autocompletar de 22/10: "puff de piscina impermeável / redondo / grande", "espreguiçadeira piscina alumínio / corda náutica / medidas" |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
