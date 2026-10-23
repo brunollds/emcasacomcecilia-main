@@ -6,6 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[skelt-ou-best-bronze]]: Skelt ou Best Bronze, autobronzeador pela ficha e pelo preço por 100 ml (cartão; Skelt também com cupom e Pix), por perfil e sem vencedora geral; Best Bronze sem link, cupom nem foto (PT)
 - [ ] [[melhor-whey-qual-escolher-por-objetivo]]: melhor whey por objetivo, com as cinco parceiras (Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu) cada uma num perfil, pelo preço por 100 g de proteína; sem `affiliate`, estante "Outros" (PT)
 
 ---
