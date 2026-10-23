@@ -19,9 +19,9 @@
   "publishedAtISO": "2026-10-11",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/magalu/black-friday-magalu-lu.webp",
-  "imageAlt": "A Lu, personagem do Magalu, sorrindo e mostrando um celular com o logo do Magalu na tela, sobre um fundo azul com dois celulares desenhados",
-  "imageFit": "cover",
+  "image": "/images/reviews/magalu/black-friday-magalu-capa-discover.webp",
+  "imageAlt": "A Lu, personagem do Magalu, mostrando um celular com o logo do Magalu, e a faixa Black Friday do Magalu",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Dez faixas, de R$ 10 a R$ 100 OFF, que valem sobre o preço da Black Friday",

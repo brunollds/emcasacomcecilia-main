@@ -19,9 +19,9 @@
   "publishedAtISO": "2026-10-03",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
-  "imageAlt": "Perfil da Lets Eat It no Reclame Aqui, na categoria Móveis e Decoração, com reputação Boa",
-  "imageFit": "cover",
+  "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
+  "imageAlt": "Panela redonda Le Creuset branca, faqueiro Wolff Avalon numa mesa posta e caneca Le Creuset da Let's Eat It, com o quadro de reputação Boa e nota 7,6/10 no Reclame Aqui",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "99,1% das reclamações dos últimos 6 meses foram respondidas — só 1 aguardava resposta na consulta",
@@ -52,7 +52,14 @@
       "heading": "Por que olhar o Reclame Aqui antes de comprar panela e cristal",
       "paragraphs": [
         "Uma panela de ferro esmaltado ou um aparelho de jantar completo não é compra de impulso, e cristal e porcelana viajam mal quando a embalagem não ajuda. Por isso, antes de começar a indicar a Let's Eat It por aqui, fui ver como ela se comporta quando algo dá errado. O Reclame Aqui não mostra se uma loja é perfeita — nenhuma é —, mas mostra o padrão dos problemas e se a empresa aparece para resolver."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+        "alt": "Perfil da Let's Eat It no Reclame Aqui, na categoria Móveis e Decoração, com reputação Boa",
+        "caption": "Perfil da Let's Eat It no Reclame Aqui, consultado em 02/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.777
+      }
     },
     {
       "heading": "Os números da Let's Eat It no Reclame Aqui",
@@ -250,6 +257,5 @@
       "slug": "cupom-mauad-lets-eat-it-como-usar",
       "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
     }
-  ],
-  "heroCompact": true
+  ]
 }
