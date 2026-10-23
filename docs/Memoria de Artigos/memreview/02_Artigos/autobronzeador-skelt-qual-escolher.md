@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e estoque (Facial e Gradual esgotados em 23/10) no aquecimento da Black Friday da Skelt (05/11)"
 bloqueado_por: null
 score_autoridade: 64
 score_conversao: 84
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #241, release `d3c2688`, build `01a16a07-faa6-7303-a303-2307ca2bce14`), id 594; capa e 9 imagens novas no CDN (Job 6); covers:check na produção 1/1; preços e estoque relidos no catálogo da Skelt no dia; o mesmo deploy encurtou a nota editorial do guia de Natal da DAMIE."
 parceiro_slug: "skelt"
 affiliate: "skelt"
 coupon: "SKEMCASACOMCECILIA"
@@ -263,3 +265,20 @@ Em 21/10/2026 a loja tinha uma "flash sale" de 10% em todo o site, aplicada no c
 - **Não usar:** as fotos de pele e corpo das posições 3 a 5 (ex.: `skelt-bifasico-3.png`), porque sugerem resultado que o site não testou; e o `skelt-mousse-4.png`, um "antes e depois" de marketing. Conferir as demais antes de usar e descartar qualquer uma com "antes e depois", "aprovado por dermatologistas" ou "líder".
 - São quadradas: a capa 16:9 sai da composição (gerador de capas do Job 6), não de corte de uma foto só.
 - A pasta é temporária: a sessão de artigos copia as que for usar e segue o fluxo do Guia de mídia editorial (compressão, `public/images/reviews/skelt/...`, CDN e `--append`).
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+Fotos oficiais da Skelt, só as de índice 1 de cada produto (frasco ou kit em fundo claro), baixadas do site em 23/10/2026. Nenhuma foto de pele, corpo ou "antes e depois", nenhum selo proibido. O `skelt-mousse-3.png` não entrou: o frasco em fundo amarelo já está em três capas da Skelt.
+
+- **Capa:** `/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp` (1600×900, `imageFit: "contain"`). Composição dos frascos do Mousse, da Água e do Mousse Dark com o logo da Skelt e o título "Autobronzeador Skelt: qual escolher?" (gerador do repositório, faixa `title`).
+- **Os 7 autobronzeadores / Mousse ou água:** `/images/reviews/skelt/autobronzeador-mousse.webp` (square, 1.0). Mousse Autobronzeador. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Mousse ou água:** `/images/reviews/skelt/autobronzeador-agua.webp` (square, 1.0). Água Autobronzeadora. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Dark ou normal:** `/images/reviews/skelt/autobronzeador-mousse-dark.webp` (square, 1.0). Mousse Autobronzeador Dark. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Dark ou normal:** `/images/reviews/skelt/autobronzeador-agua-dark.webp` (square, 1.0). Água Autobronzeadora Dark. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Gel e Bifásico:** `/images/reviews/skelt/autobronzeador-gel.webp` (square, 1.0). Gel Autobronzeador Hidratante. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Gel e Bifásico:** `/images/reviews/skelt/autobronzeador-bifasico.webp` (square, 1.0). Autobronzeador Bifásico. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Kit ou produto avulso:** `/images/reviews/skelt/autobronzeador-kit-iniciante.webp` (square, 1.0). Kit Iniciante (Mousse + Luva). Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Como aplicar sem manchar:** `/images/reviews/skelt/autobronzeador-luva.webp` (square, 1.0). Luva Aplicadora (Tanning Mitt). Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+- **Como aplicar sem manchar:** `/images/reviews/skelt/autobronzeador-removedor.webp` (square, 1.0). Removedor de Autobronzeador. Legenda: "Foto oficial da Skelt.". Origem: skelt.com.br, foto -1, 23/10/2026.
+
+Releitura no Chrome em 23/10/2026: o Bifásico não informa cor-guia (a tabela diz "A página não informa"); Água, Água Dark e Mousse Dark mandam seguir o tempo da embalagem; "2x mais intenso" está na página do Dark. Preços e estoque relidos pela API do catálogo no dia da publicação: iguais aos do texto.
