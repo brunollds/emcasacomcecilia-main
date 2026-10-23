@@ -39911,6 +39911,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/creatina-black-skull-capa.webp",
+      "local_url": "/images/reviews/black-skull/creatina-black-skull-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75526,
+      "sha256": "b9c21a3fd1d8656e4f12debc3769e4e757dee2dd2ea50dac923ddc9037ed08cb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-black-skull-capa.webp",
+      "storage_filename": "creatina-black-skull-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123632,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b9c21a3fd1d8656e4f12debc3769e4e757dee2dd2ea50dac923ddc9037ed08cb/creatina-black-skull-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9c21a3fd1d8656e4f12debc3769e4e757dee2dd2ea50dac923ddc9037ed08cb/creatina-black-skull-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.576Z",
+      "verification_etag_or_digest": "b9c21a3fd1d8656e4f12debc3769e4e757dee2dd2ea50dac923ddc9037ed08cb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+      "local_url": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64566,
+      "sha256": "a1e91d4e3847ce8fd63880fbce63eb554de76dd0d26185585fd5a81549ae668a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-black-skull-creator-refil-500g.webp",
+      "storage_filename": "creatina-black-skull-creator-refil-500g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123763,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a1e91d4e3847ce8fd63880fbce63eb554de76dd0d26185585fd5a81549ae668a/creatina-black-skull-creator-refil-500g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a1e91d4e3847ce8fd63880fbce63eb554de76dd0d26185585fd5a81549ae668a/creatina-black-skull-creator-refil-500g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "a1e91d4e3847ce8fd63880fbce63eb554de76dd0d26185585fd5a81549ae668a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
+      "local_url": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67724,
+      "sha256": "e24a558499bae40831d4c100bf649ee244c8d8b3b6708bb6267614f795021aa7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-black-skull-preco-por-100g.webp",
+      "storage_filename": "creatina-black-skull-preco-por-100g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 136,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123746,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e24a558499bae40831d4c100bf649ee244c8d8b3b6708bb6267614f795021aa7/creatina-black-skull-preco-por-100g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e24a558499bae40831d4c100bf649ee244c8d8b3b6708bb6267614f795021aa7/creatina-black-skull-preco-por-100g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "e24a558499bae40831d4c100bf649ee244c8d8b3b6708bb6267614f795021aa7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+      "local_url": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97860,
+      "sha256": "a9bb2930770c82bc47af94773a589dabe12196ccf91980c6353e020e73030019",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-black-skull-turbo-300g.webp",
+      "storage_filename": "creatina-black-skull-turbo-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 171,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123781,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a9bb2930770c82bc47af94773a589dabe12196ccf91980c6353e020e73030019/creatina-black-skull-turbo-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a9bb2930770c82bc47af94773a589dabe12196ccf91980c6353e020e73030019/creatina-black-skull-turbo-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "a9bb2930770c82bc47af94773a589dabe12196ccf91980c6353e020e73030019",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/cupom-black-skull-capa-discover.webp",
       "local_url": "/images/reviews/black-skull/cupom-black-skull-capa-discover.webp",
       "media_kind": "image",
@@ -39995,6 +40179,374 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+      "local_url": "/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52846,
+      "sha256": "a796c4f69b0ab5c6e6383190aefeb2591a19f6484a53944e6f492d5967c3a2b0",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-black-skull-bone-crusher-300g.webp",
+      "storage_filename": "pre-treino-black-skull-bone-crusher-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+          "line": 93,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124631,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a796c4f69b0ab5c6e6383190aefeb2591a19f6484a53944e6f492d5967c3a2b0/pre-treino-black-skull-bone-crusher-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a796c4f69b0ab5c6e6383190aefeb2591a19f6484a53944e6f492d5967c3a2b0/pre-treino-black-skull-bone-crusher-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "a796c4f69b0ab5c6e6383190aefeb2591a19f6484a53944e6f492d5967c3a2b0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+      "local_url": "/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41498,
+      "sha256": "4591853856e9d3a25d42572595da08433faff605cb88308873b2b30c4a84a0fe",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-black-skull-bope-300g.webp",
+      "storage_filename": "pre-treino-black-skull-bope-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+          "line": 86,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124624,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4591853856e9d3a25d42572595da08433faff605cb88308873b2b30c4a84a0fe/pre-treino-black-skull-bope-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4591853856e9d3a25d42572595da08433faff605cb88308873b2b30c4a84a0fe/pre-treino-black-skull-bope-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "4591853856e9d3a25d42572595da08433faff605cb88308873b2b30c4a84a0fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
+      "local_url": "/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60810,
+      "sha256": "d7e4a6c16271b040feac2bce81eb56ac9ae6cc1a673ad5b20ca1eea1d9638eb4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-black-skull-capa.webp",
+      "storage_filename": "pre-treino-black-skull-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124560,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d7e4a6c16271b040feac2bce81eb56ac9ae6cc1a673ad5b20ca1eea1d9638eb4/pre-treino-black-skull-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d7e4a6c16271b040feac2bce81eb56ac9ae6cc1a673ad5b20ca1eea1d9638eb4/pre-treino-black-skull-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "d7e4a6c16271b040feac2bce81eb56ac9ae6cc1a673ad5b20ca1eea1d9638eb4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "local_url": "/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84252,
+      "sha256": "90e7dc4851ae7a642f4e146c72707a9c406eaa327918d8aa3bcc73c24a7b75f1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "storage_filename": "pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pre-treino-black-skull-bope-ou-bone-crusher.json",
+          "line": 114,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124652,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/90e7dc4851ae7a642f4e146c72707a9c406eaa327918d8aa3bcc73c24a7b75f1/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90e7dc4851ae7a642f4e146c72707a9c406eaa327918d8aa3bcc73c24a7b75f1/pre-treino-black-skull-quadro-bope-bone-crusher.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "90e7dc4851ae7a642f4e146c72707a9c406eaa327918d8aa3bcc73c24a7b75f1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+      "local_url": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126174,
+      "sha256": "ba4fab43a709d59e1308b0ff430764c72f95584b1869a39f341b62286ebc44f0",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-black-skull-100-hd-refil.webp",
+      "storage_filename": "whey-black-skull-100-hd-refil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-black-skull-qual-escolher.json",
+          "line": 169,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124968,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ba4fab43a709d59e1308b0ff430764c72f95584b1869a39f341b62286ebc44f0/whey-black-skull-100-hd-refil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba4fab43a709d59e1308b0ff430764c72f95584b1869a39f341b62286ebc44f0/whey-black-skull-100-hd-refil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "ba4fab43a709d59e1308b0ff430764c72f95584b1869a39f341b62286ebc44f0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+      "local_url": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58562,
+      "sha256": "7521076894edee72363b6ebbc74d65ad330ba79d6e1f62d14d0e9ab8f59c58f0",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-black-skull-3w-core.webp",
+      "storage_filename": "whey-black-skull-3w-core.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-black-skull-qual-escolher.json",
+          "line": 199,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124998,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7521076894edee72363b6ebbc74d65ad330ba79d6e1f62d14d0e9ab8f59c58f0/whey-black-skull-3w-core.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7521076894edee72363b6ebbc74d65ad330ba79d6e1f62d14d0e9ab8f59c58f0/whey-black-skull-3w-core.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "7521076894edee72363b6ebbc74d65ad330ba79d6e1f62d14d0e9ab8f59c58f0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/whey-black-skull-capa.webp",
+      "local_url": "/images/reviews/black-skull/whey-black-skull-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95734,
+      "sha256": "31785f2e34ca48b5fdccf7c29d5a857a395ba082e5d72a070ccdbc255fb61091",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-black-skull-capa.webp",
+      "storage_filename": "whey-black-skull-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-black-skull-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/whey-black-skull-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124821,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/whey-black-skull-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/31785f2e34ca48b5fdccf7c29d5a857a395ba082e5d72a070ccdbc255fb61091/whey-black-skull-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/31785f2e34ca48b5fdccf7c29d5a857a395ba082e5d72a070ccdbc255fb61091/whey-black-skull-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "31785f2e34ca48b5fdccf7c29d5a857a395ba082e5d72a070ccdbc255fb61091",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
+      "local_url": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82326,
+      "sha256": "844a7960b1b40f19f6ef76b1b3c16bec0c33c90cd95480eeff1bd068fcc11e86",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-black-skull-preco-por-proteina.webp",
+      "storage_filename": "whey-black-skull-preco-por-proteina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-black-skull-qual-escolher.json",
+          "line": 294,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 125093,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/844a7960b1b40f19f6ef76b1b3c16bec0c33c90cd95480eeff1bd068fcc11e86/whey-black-skull-preco-por-proteina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/844a7960b1b40f19f6ef76b1b3c16bec0c33c90cd95480eeff1bd068fcc11e86/whey-black-skull-preco-por-proteina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "844a7960b1b40f19f6ef76b1b3c16bec0c33c90cd95480eeff1bd068fcc11e86",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
       "local_url": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
       "media_kind": "image",
@@ -40076,6 +40628,190 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T17:08:30.863Z",
       "verification_etag_or_digest": "e29306a848d4f7e346aad5705460fba893d54b8db2237e71d98ca79d2af7e680",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30886,
+      "sha256": "7485ec0bf51733a3652a3d329ccaac6803565cfc6a0d1db1fa976fb8dd70ea0b",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-avulsa.webp",
+      "storage_filename": "camiseta-clea-store-avulsa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 146,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124453,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-avulsa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7485ec0bf51733a3652a3d329ccaac6803565cfc6a0d1db1fa976fb8dd70ea0b/camiseta-clea-store-avulsa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7485ec0bf51733a3652a3d329ccaac6803565cfc6a0d1db1fa976fb8dd70ea0b/camiseta-clea-store-avulsa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "7485ec0bf51733a3652a3d329ccaac6803565cfc6a0d1db1fa976fb8dd70ea0b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26178,
+      "sha256": "6e680267d472b9b48d368a5aad14a77927f58d7959031dd280c994842aa31d75",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-kit-classic.webp",
+      "storage_filename": "camiseta-clea-store-kit-classic.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 172,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124479,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6e680267d472b9b48d368a5aad14a77927f58d7959031dd280c994842aa31d75/camiseta-clea-store-kit-classic.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6e680267d472b9b48d368a5aad14a77927f58d7959031dd280c994842aa31d75/camiseta-clea-store-kit-classic.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "6e680267d472b9b48d368a5aad14a77927f58d7959031dd280c994842aa31d75",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35126,
+      "sha256": "dcae67369e815220ea4c068acb3bcb4a5c05b36bc15c62d61302d977787c863f",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-kit-colorful.webp",
+      "storage_filename": "camiseta-clea-store-kit-colorful.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 179,
+          "column": 19,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124486,
+          "column": 21,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-kit-colorful.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcae67369e815220ea4c068acb3bcb4a5c05b36bc15c62d61302d977787c863f/camiseta-clea-store-kit-colorful.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcae67369e815220ea4c068acb3bcb4a5c05b36bc15c62d61302d977787c863f/camiseta-clea-store-kit-colorful.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "dcae67369e815220ea4c068acb3bcb4a5c05b36bc15c62d61302d977787c863f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 92618,
+      "sha256": "c95604b95a7711f4615ee1deab3575178f0ac49a4127fbb6654b6a961c2b1f53",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-quadro-modelos.webp",
+      "storage_filename": "camiseta-clea-store-quadro-modelos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124329,
+          "column": 15,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c95604b95a7711f4615ee1deab3575178f0ac49a4127fbb6654b6a961c2b1f53/camiseta-clea-store-quadro-modelos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c95604b95a7711f4615ee1deab3575178f0ac49a4127fbb6654b6a961c2b1f53/camiseta-clea-store-quadro-modelos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "c95604b95a7711f4615ee1deab3575178f0ac49a4127fbb6654b6a961c2b1f53",
       "verification_status": "verified"
     },
     {
@@ -77830,6 +78566,236 @@
       "uploaded_at": null,
       "verified_at": "2026-10-21T23:21:50.752Z",
       "verification_etag_or_digest": "7af3fe223ffb6c874a263e6739badb61eb22de2298391c8bf94c76863aa45132",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-capa.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43286,
+      "sha256": "5bba211d3de1d9c3125093ccfe6e75df7bc90cc6d7e156122935e65a6b635049",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-capa.webp",
+      "storage_filename": "body-splash-skelt-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/skelt/body-splash-skelt-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 123882,
+          "column": 15,
+          "literal": "/images/reviews/skelt/body-splash-skelt-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5bba211d3de1d9c3125093ccfe6e75df7bc90cc6d7e156122935e65a6b635049/body-splash-skelt-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5bba211d3de1d9c3125093ccfe6e75df7bc90cc6d7e156122935e65a6b635049/body-splash-skelt-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "5bba211d3de1d9c3125093ccfe6e75df7bc90cc6d7e156122935e65a6b635049",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35678,
+      "sha256": "0c5b453ac3ad8837ce743e07b3f9fb2d21603160065341df04958684362ed8f8",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-duo-hidden-flowers.webp",
+      "storage_filename": "body-splash-skelt-duo-hidden-flowers.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-qual-escolher.json",
+          "line": 409,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124269,
+          "column": 21,
+          "literal": "/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0c5b453ac3ad8837ce743e07b3f9fb2d21603160065341df04958684362ed8f8/body-splash-skelt-duo-hidden-flowers.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c5b453ac3ad8837ce743e07b3f9fb2d21603160065341df04958684362ed8f8/body-splash-skelt-duo-hidden-flowers.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "0c5b453ac3ad8837ce743e07b3f9fb2d21603160065341df04958684362ed8f8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31278,
+      "sha256": "30a94eacffd2c6ef5bcd779e64ee51e60c033ad7f3dff30f90daa3b3e92e3a48",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-hidratante-amalfi.webp",
+      "storage_filename": "body-splash-skelt-hidratante-amalfi.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-qual-escolher.json",
+          "line": 294,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124154,
+          "column": 21,
+          "literal": "/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/30a94eacffd2c6ef5bcd779e64ee51e60c033ad7f3dff30f90daa3b3e92e3a48/body-splash-skelt-hidratante-amalfi.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/30a94eacffd2c6ef5bcd779e64ee51e60c033ad7f3dff30f90daa3b3e92e3a48/body-splash-skelt-hidratante-amalfi.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "30a94eacffd2c6ef5bcd779e64ee51e60c033ad7f3dff30f90daa3b3e92e3a48",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142198,
+      "sha256": "06a7ada9ffb7b7dad215f11df4be2ad86e32e5892553c70f5ccb79116fa422fb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-quadro-fragrancias.webp",
+      "storage_filename": "body-splash-skelt-quadro-fragrancias.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-qual-escolher.json",
+          "line": 163,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124023,
+          "column": 21,
+          "literal": "/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/06a7ada9ffb7b7dad215f11df4be2ad86e32e5892553c70f5ccb79116fa422fb/body-splash-skelt-quadro-fragrancias.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/06a7ada9ffb7b7dad215f11df4be2ad86e32e5892553c70f5ccb79116fa422fb/body-splash-skelt-quadro-fragrancias.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "06a7ada9ffb7b7dad215f11df4be2ad86e32e5892553c70f5ccb79116fa422fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/body-splash-skelt-quadro-kits.webp",
+      "local_url": "/images/reviews/skelt/body-splash-skelt-quadro-kits.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 159854,
+      "sha256": "1448080dc1f60e4c8a5984e2f235cce288b2cf7119d604675f07bcc68fb895aa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-skelt-quadro-kits.webp",
+      "storage_filename": "body-splash-skelt-quadro-kits.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/body-splash-skelt-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/body-splash-skelt-qual-escolher.json",
+          "line": 402,
+          "column": 19,
+          "literal": "/images/reviews/skelt/body-splash-skelt-quadro-kits.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 124262,
+          "column": 21,
+          "literal": "/images/reviews/skelt/body-splash-skelt-quadro-kits.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1448080dc1f60e4c8a5984e2f235cce288b2cf7119d604675f07bcc68fb895aa/body-splash-skelt-quadro-kits.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1448080dc1f60e4c8a5984e2f235cce288b2cf7119d604675f07bcc68fb895aa/body-splash-skelt-quadro-kits.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T22:31:30.577Z",
+      "verification_etag_or_digest": "1448080dc1f60e4c8a5984e2f235cce288b2cf7119d604675f07bcc68fb895aa",
       "verification_status": "verified"
     },
     {
