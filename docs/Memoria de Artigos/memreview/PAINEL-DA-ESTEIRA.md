@@ -6,7 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[presente-de-natal-para-casa-moveis]]: guia-mãe de presentes de Natal para a casa (sofá, poltrona, cinema em casa e área de piscina), com a Black Friday; marcas de cada categoria e a DAMIE com o CECILIA12 (PT)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -44,6 +44,7 @@
 *No ar.*
 - [x] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
+- [x] [[presente-de-natal-para-casa-moveis]]: guia-mãe de presentes de Natal para a casa (sofá, poltrona, cinema em casa e piscina), com a página de ofertas da DAMIE; fim da lista de `home-events.json` (PT) (no ar em 23/10/2026, PR #235, release `79eb22f`) 🚀
 - [x] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[bagaggio-reclame-aqui-nota-reputacao]]: Loja Virtual Boa 7,7 em 6 meses e Ruim 5,8 em 12 meses, histórico e principais problemas (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[bagaggio-e-confiavel]]: CNPJ do site, trocas, reembolso, retirada em loja e site oficial (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀

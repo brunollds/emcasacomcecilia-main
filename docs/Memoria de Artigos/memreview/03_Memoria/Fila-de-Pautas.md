@@ -108,7 +108,7 @@ Guia amplo de fim de ano (Black Friday e Natal antecipado) para quem esperou o a
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| 1 | Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina | **Briefing criado em 22/10/2026:** [[presente-de-natal-para-casa-moveis]] |
+| 1 | Presente de Natal para a casa: sofá, poltrona, cinema em casa e área de piscina | **Publicado em 23/10/2026 (PR #235, release `79eb22f`):** [[presente-de-natal-para-casa-moveis]] |
 | 2 | Poltrona Cinema DAMIE 2.0 (2 a 9 lugares, com ou sem braço no meio) | Pauta do **subdomínio** (não vira briefing em `02_Artigos/`). O `/guias/poltrona-para-cinema-em-casa` fala das reclináveis avulsas, não deste modelo. Autocompletar de 22/10: "poltrona cinema 2 lugares damie", "poltrona cinema damie 2 lugares sem braço no meio" |
 | 3 | Puff de piscina e espreguiçadeira: qual escolher (material, medidas, preço) | Pauta do **subdomínio**, a decidir: hoje o `/guias/linha-garden-damie-moveis-de-area-externa` cobre a linha. Autocompletar de 22/10: "puff de piscina impermeável / redondo / grande", "espreguiçadeira piscina alumínio / corda náutica / medidas" |
 
