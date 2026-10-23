@@ -192,6 +192,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/25cdWK4',
       },
       {
+        question: 'A DAMIE tem aplicativo para comprar?',
+        answer:
+          'Não. O app da DAMIE serve só para o controle do colchão e não vende. A compra é pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECILIA12 vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'O cupom inclui frete grátis?',
         answer:
           'Não. O cupom aplica desconto no valor dos produtos. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
@@ -312,6 +317,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O CECI é usado no checkout do site oficial da Dolce Gusto e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/1Dj5ZpJ',
+      },
+      {
+        question: 'O cupom CECI vale no app da Dolce Gusto?',
+        answer:
+          'Sim. O CECI vale no aplicativo Nescafé Dolce Gusto, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -549,6 +559,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/2zH895L',
       },
       {
+        question: 'A Nestlé Nutre tem aplicativo?',
+        answer:
+          'Não. A Nestlé Nutre vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECI vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
@@ -641,6 +656,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O CECIEMCASA é usado no checkout do site oficial da I Wanna Sleep e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/33vyTDP',
+      },
+      {
+        question: 'A I Wanna Sleep tem aplicativo?',
+        answer:
+          'Não. A I Wanna Sleep vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECIEMCASA vale: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -861,6 +881,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/1RHKLYr',
       },
       {
+        question: "A Let's Eat It tem aplicativo?",
+        answer:
+          "Não. A Let's Eat It vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o MAUAD vale: digite o código no campo de cupom, antes de pagar.",
+      },
+      {
         question: 'Por que o cupom se chama MAUAD?',
         answer:
           'MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a loja.',
@@ -979,6 +1004,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O EMCASACOMCECILIA é usado no checkout da loja online da Insider e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/2TijWRi',
+      },
+      {
+        question: 'A Insider tem aplicativo?',
+        answer:
+          'Não. A Insider vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o EMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O link já aplica o cupom?',
@@ -1254,6 +1284,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/1U1ttvv',
       },
       {
+        question: 'A Probiótica tem aplicativo?',
+        answer:
+          'Não. A Probiótica vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o PRO10EMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
@@ -1324,6 +1359,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O MAX10EMCASACOMCECILIA é usado no checkout do site oficial da Max Titanium e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/2wysiEJ',
+      },
+      {
+        question: 'O cupom MAX10EMCASACOMCECILIA vale no app da Max Titanium?',
+        answer:
+          'Sim. O MAX10EMCASACOMCECILIA vale no aplicativo Max Titanium Suplementos, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
@@ -1412,6 +1452,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/1wNsKJB',
       },
       {
+        question: 'A Dr. Peanut tem aplicativo?',
+        answer:
+          'Não. A Dr. Peanut vende pelo site oficial, que funciona no navegador do celular. É lá que o DREMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 13/10/2026, os 10% entraram também na pasta de amendoim que já estava com preço promocional.',
@@ -1490,6 +1535,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O CECILIA10 é usado no checkout do site oficial da Black Skull e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/1R7Zwan',
+      },
+      {
+        question: 'O cupom CECILIA10 vale no app da Black Skull?',
+        answer:
+          'Sim. O CECILIA10 vale no aplicativo Black Skull USA, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom soma com produtos em promoção?',
@@ -1642,6 +1692,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/1t3kn5d',
       },
       {
+        question: 'A Cléa Store tem aplicativo?',
+        answer:
+          'Não. A Cléa Store vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CSEMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 14/10/2026, os 10% entraram num kit de t-shirts que já estava com preço promocional.',
@@ -1738,6 +1793,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O MAUAD é usado no checkout do site oficial da Belive e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/2xDjP2k',
+      },
+      {
+        question: 'A Belive tem aplicativo?',
+        answer:
+          'Não. A Belive vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o MAUAD vale: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -1848,6 +1908,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/24RjvdP',
       },
       {
+        question: 'A Mais Mu tem aplicativo?',
+        answer:
+          'Não. A Mais Mu vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o MMEMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'Onde coloco o cupom na Mais Mu?',
         answer: 'No checkout, em "Adicionar cupom de desconto", depois de clicar em "Iniciar compra" no carrinho.',
       },
@@ -1946,6 +2011,11 @@ export const COUPONS: Coupon[] = [
         mercadoLivreUrl: 'https://meli.la/2unTb7k',
       },
       {
+        question: 'A Skelt tem aplicativo?',
+        answer:
+          'Não. A Skelt vende pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o SKEMCASACOMCECILIA vale: digite o código no campo de cupom, antes de pagar.',
+      },
+      {
         question: 'Onde coloco o cupom na Skelt?',
         answer: 'No campo de cupom de desconto do carrinho ou do checkout, antes de escolher a forma de pagamento.',
       },
@@ -2037,6 +2107,11 @@ export const COUPONS: Coupon[] = [
         answer:
           'Não. O CECILIA10 é usado no carrinho do site oficial da Bagaggio e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
         mercadoLivreUrl: 'https://meli.la/2KeydkG',
+      },
+      {
+        question: 'O cupom CECILIA10 vale no app da Bagaggio?',
+        answer:
+          'Sim. O CECILIA10 vale no aplicativo Bagaggio, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'Onde coloco o cupom na Bagaggio?',
