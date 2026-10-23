@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]], [[Max-Titanium]], [[Probiotica]], [[Dr-Peanut]], [[M
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e estoque das ~25 linhas na Black Friday (o Hiper e o 3W + Sabor estavam em promoção em 23/10); fechar as tabelas do 3W, Monster e sachê da Probiótica quando o Chrome ler o site; decidir se os refis de 900 g da Mais Mu entram no quadro-mestre (seção 5 × seção 6)"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 80
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #244, release `e9e4164`, build `01a16a67-7572-7001-95e9-7df92ddbf2d6`), id 595, sem affiliate (estante Outros); capa, 9 fotos oficiais e 3 quadros novos no CDN (Job 6); revisão do Fable 5.1 com 8 achados aplicados; preços relidos nas cinco lojas no dia."
 affiliate: null
 coupon: null
 ---
@@ -223,3 +225,23 @@ Divergências entre o que a Mais Mu publica em 23/10/2026 e os comparativos já 
 3. **Bloqueio na leitura automática** (Cloudflare, 429, desafio): parar e ir para o Chrome, não reler em sequência. Vale para as próximas leituras.
 4. **Chrome liberado nesta rodada.** Resultado: IsoWhey e Top Whey 3W da Max conferidos (tabelas baixadas); whey Dr. Peanut à venda em drpeanut.com.br; a Mais Mu não publica tabela nutricional; a página do 100% HD da Black Skull não diz a quantidade de colágeno. Ficou pendente só a Probiótica (3W, Monster e sachê): a extensão não tinha permissão para ler o domínio `probiotica.com.br`.
 5. **Distribuição:** o "concentrado para todo dia" vai para a Black Skull 100% HD, porque a Max já tem outros perfis; a Max fica como alternativa.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+Fotos oficiais das lojas, baixadas em 23/10/2026 (`whey-a2/imagens-2310/`), e quadros feitos por nós. Nenhuma foto de pessoa nem de resultado; nenhum concorrente.
+
+- **Capa:** `/images/reviews/whey/melhor-whey-qual-escolher-por-objetivo-capa.webp` (1600×900, `imageFit: "contain"`). Um pote de cada loja (80% HD, IsoWhey, Pure Whey Zero Lactose, Whey Dr. Peanut e Mais Mu Paçoquita) com o logo de cada uma embaixo; a faixa leva o logo do site (cinco lojas, nenhuma em destaque) e "Melhor whey: qual escolher?". Sem código de cupom.
+- **Resposta rápida:** `/images/reviews/whey/melhor-whey-resposta-rapida.webp` (wide). Quadro nosso com os 7 perfis.
+- **Como comparamos:** `/images/reviews/whey/melhor-whey-preco-por-proteina.webp` (wide). Gráfico de barras nosso, R$ por 100 g de proteína de 13 wheys, sem cor de vencedor.
+- **Atenção ao nome:** `/images/reviews/whey/melhor-whey-atencao-ao-nome.webp` (wide). Quadro nosso; substituiu o recorte da tabela do Iso Protein Blend, cuja imagem oficial não traz a lista de ingredientes (a soja não aparece nela).
+- **Melhor whey custo-benefício:** `/images/reviews/whey/black-skull-80-hd-refil.webp` (square, 1.0). Legenda: "Foto oficial da Black Skull.". Origem: bs-80hd-refil-1.jpg.
+- **Melhor whey zero lactose:** `/images/reviews/whey/probiotica-pure-whey-zero-lactose.webp` (square, 1.0). Legenda: "Foto oficial da Probiótica.". Origem: pr-pure-zero-lactose-1.jpg.
+- **Melhor whey isolado:** `/images/reviews/whey/max-titanium-isowhey.webp` (square, 1.0). Legenda: "Foto oficial da Max Titanium.". Origem: max-isowhey-1.jpg.
+- **Whey 3W ou 100%:** `/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp` (square, 1.0). Legenda: "Foto oficial da Max Titanium.". Origem: max-3w-sabor-1.png.
+- **Whey 3W ou 100%:** `/images/reviews/whey/max-titanium-top-whey-3w-performance.webp` (square, 1.0). Legenda: "Foto oficial da Max Titanium.". Origem: max-3w-performance-1.png.
+- **Whey concentrado para todo dia:** `/images/reviews/whey/black-skull-100-hd-refil.webp` (square, 1.0). Legenda: "Foto oficial da Black Skull.". Origem: bs-100hd-refil-1.png.
+- **Whey com sabor de sobremesa:** `/images/reviews/whey/whey-dr-peanut.webp` (square, 1.0). Legenda: "Foto oficial da Max Titanium.". Origem: max-drpeanut-whey-1.png, do site da Max.
+- **Whey para começar:** `/images/reviews/whey/mais-mu-pote-pacoquita.webp` (square, 1.0). Legenda: "Foto oficial da Mais Mu.". Origem: mm-pote-pacoquita-1.webp.
+- **Whey para começar:** `/images/reviews/whey/mais-mu-sache-cookies.webp` (square, 1.0). Legenda: "Foto oficial da Mais Mu.". Origem: mm-sache-cookies-1.webp.
+
+Releitura de preço e estoque em 23/10/2026, no dia da publicação: Black Skull, Max e Probiótica pela API pública VTEX (21 produtos); Dr. Peanut e Mais Mu pelo Chrome. Tudo igual ao texto.
