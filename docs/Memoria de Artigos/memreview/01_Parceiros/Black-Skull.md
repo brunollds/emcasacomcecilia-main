@@ -55,6 +55,8 @@ Prints do checkout e do Reclame Aqui em `midia-staging/2026-10-14-onboarding-bla
 > Bruno, 13/10/2026). Os artigos de onboarding também não citam o caso (decisão do Bruno de
 > 14/10/2026, PR #88). Se um artigo futuro tratar o tema, usar as fontes oficiais da Anvisa.
 
+- **Leitura de 23/10/2026 (pautas A6, A12, A14):** nenhuma página mostra desconto no Pix; a loja não vende pré-treino sem cafeína; a tabela do Bone Crusher 300 g na página é uma imagem chamada "ChatGPT Image 8 de out. de 2026" e só vira fato com confirmação da marca; a Creatine Turbo explica na página que os rótulos foram atualizados quando a recomendação passou de 3 g para 5 g de creatina por dia.
+
 Nos artigos deste parceiro, usar `affiliate: "black-skull"` e link relativo para
 `/cupons/black-skull`, conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
 
