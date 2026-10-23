@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços, Duos em promoção e minikits no aquecimento da Black Friday da Skelt (05/11)"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 82
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #251, release `7ea1ab6`, build `01a16aee-5495-7348-a6a5-2b2e37ec482b`), id 598; 5 imagens no CDN (Job 6, folhas aprovadas pelo Bruno); revisão do Fable 5.1 com 13 achados aplicados (fixação das dez, Amalfi pelas três pirâmides, agrupamento \"deste guia\", kits com perfume de cabelo de R$ 2,50 a R$ 3,40 a mais, seção Como usar fundida); o fatos errava o minikit (R$ 2,22/ml, não R$ 6,66); preços relidos nas lojas no dia."
 parceiro_slug: "skelt"
 affiliate: "skelt"
 coupon: "SKEMCASACOMCECILIA"
@@ -230,3 +232,11 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 3. **Minikits:** conteúdo conferido no Chrome (caixa na foto oficial; `fatos-2310.md`, seção 7): Exotic = Grand Bahama, Pink Sands, Milos Breeze; Sellers = Amalfi Sunset, Velvet Milano, Hidden Flowers; Trends = Mystic Bloom, Urban Beat, Unexpected Day; o Combo junta os três. Secret Garden = Mystic Bloom e Hidden Flowers em "spray perfumado / perfume mist".
 4. **Kits com perfume de cabelo** mais caros que os avulsos: aparecem na tabela com a diferença; a recomendação de presente fica nos Duos e no Kit Hidratação.
 5. O número "8 dos 10 mais vendidos" do dossiê estava errado e foi corrigido; o texto usa a ordem do site com data.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+- **Capa:** `/images/reviews/skelt/body-splash-skelt-capa.webp`
+- **As 10 fragrâncias lado a lado:** `/images/reviews/skelt/body-splash-skelt-quadro-fragrancias.webp`
+- **Hidratante, creme para mãos e perfume para cabelos da mesma fragrância:** `/images/reviews/skelt/body-splash-skelt-hidratante-amalfi.webp`
+- **Kits para presente: a conta contra os avulsos:** `/images/reviews/skelt/body-splash-skelt-quadro-kits.webp`
+- **Kits para presente: a conta contra os avulsos:** `/images/reviews/skelt/body-splash-skelt-duo-hidden-flowers.webp`

@@ -6,10 +6,10 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
-bloqueado_por: "perguntas 1 a 4 e [PENDENTE: navegador] (porção do Turbo 150 g)"
+proxima_acao: "reler preços e promoções das creatinas (Creator refil, Turbo 150 g) na Black Friday da Black Skull; se a página do Turbo 150 g for corrigida, ajustar a divergência ficha × tabela"
+bloqueado_por: null
 score_autoridade: 62
 score_conversao: 78
 score_ponderado_total: 72
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #251, release `7ea1ab6`, build `01a16aee-5495-7348-a6a5-2b2e37ec482b`), id 597; 4 imagens no CDN (Job 6, folhas aprovadas pelo Bruno); revisão do Fable 5.1 com 10 achados aplicados (Anvisa fora do texto, links de ficha, promoções dos kits, dosador do refil, dose de 6 g dos sabores); preços relidos nas lojas no dia."
 parceiro_slug: "black-skull"
 affiliate: "black-skull"
 coupon: "CECILIA10"
@@ -184,3 +186,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 3. **Kit 3x 150 g:** vale a tabela (5.000 mg por 5 g), com a divergência da descrição numa linha.
 4. **Ingredientes dos sabores** (Turbo e Creatine): listados no capítulo do Turbo, sem julgamento.
 5. **Pix:** nenhuma página mostra desconto no Pix (Chrome, 23/10); o texto não fala em Pix. Caps e kit 144: como nas decisões do Claude acima.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+- **Capa:** `/images/reviews/black-skull/creatina-black-skull-capa.webp`
+- **As creatinas da Black Skull lado a lado: preço por 100 g de creatina:** `/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp`
+- **Creator ou Creatine: a página não explica a diferença:** `/images/reviews/black-skull/creatina-black-skull-creator-refil-500g.webp`
+- **Creatine Turbo: o que muda com a maltodextrina:** `/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp`

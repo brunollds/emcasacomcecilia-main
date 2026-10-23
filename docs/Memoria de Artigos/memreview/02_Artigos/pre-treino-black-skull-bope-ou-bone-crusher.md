@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "se a Black Skull confirmar a tabela do Bone Crusher 300 g, trocar os números do 150 g pelos do 300 g; reler preços na Black Friday"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 78
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-23"
+nota_publicacao: "No ar em 23/10/2026 (PR #251, release `7ea1ab6`, build `01a16aee-5495-7348-a6a5-2b2e37ec482b`), id 600; 4 imagens no CDN (Job 6, folhas aprovadas pelo Bruno); revisão do Fable 5.1 com 10 achados aplicados (números do Bone Crusher atribuídos ao 150 g, avisos por página, L-citrulinilarginina, sem Pix); preços relidos nas lojas no dia."
 affiliate: "black-skull"
 coupon: "CECILIA10"
 ---
@@ -211,3 +213,10 @@ Respostas do Bruno de 23/10/2026 ao lote de seis pautas. Ele aprovou as recomend
 - A descrição geral do Bone Crusher 300 g fala em blackberry, blueberry, fruit punch, melancia e uva, sabores que não estão à venda no 300 g (só quatro: frutas vermelhas, limão, frutas amarelas e laranja com pimenta). O texto é de cadastro e não entra no artigo.
 - A lista de ingredientes da Promopack não traz o "C. Crispus Invernal" que aparece na lista do Bone Crusher 300 g regular, embora o produto seja o mesmo pré-treino. Não citar a Promopack como "a mesma fórmula" sem conferir o pote.
 - O Legacy declara 3231% VD de vitamina B6 e 167% VD de niacina por porção. O artigo cita os números, sem comentário. Um aviso sobre vitaminas em dose alta no texto é decisão do Bruno; sem ela, o artigo só cita os números do rótulo.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 23/10/2026)
+
+- **Capa:** `/images/reviews/black-skull/pre-treino-black-skull-capa.webp`
+- **Os pré-treinos da Black Skull pelo rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp`
+- **Os pré-treinos da Black Skull pelo rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp`
+- **BOPE ou Bone Crusher: o que muda no rótulo:** `/images/reviews/black-skull/pre-treino-black-skull-quadro-bope-bone-crusher.webp`

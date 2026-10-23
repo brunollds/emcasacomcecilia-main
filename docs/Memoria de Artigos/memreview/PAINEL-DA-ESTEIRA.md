@@ -6,11 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[creatina-black-skull-qual-escolher]]: creatina Black Skull: Creator, Creatine ou Turbo, preço por 100 g de creatina e qual pote compensa (PT)
-- [ ] [[whey-black-skull-qual-escolher]]: whey Black Skull: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, pela tabela e pelo preço por 100 g de proteína (PT)
-- [ ] [[pre-treino-black-skull-bope-ou-bone-crusher]]: pré-treino Black Skull: BOPE ou Bone Crusher, pelo rótulo e pelo preço por dose; não há versão sem cafeína (PT)
-- [ ] [[body-splash-skelt-qual-escolher]]: body splash Skelt por fragrância (notas publicadas), hidratantes e kits para presente, com links UTM da Inbazz (PT)
-- [ ] [[camiseta-clea-store-e-boa]]: camiseta Cléa Store é boa? Pela ficha, sem uso próprio (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -51,6 +46,11 @@
 - [x] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[autobronzeador-skelt-qual-escolher]]: qual autobronzeador Skelt escolher (mousse, água, gel, bifásico, Dark, kits), pela ficha oficial, sem uso próprio (PT) (no ar em 23/10/2026, PR #241, release `d3c2688`) 🚀
 - [x] [[skelt-ou-best-bronze]]: Skelt ou Best Bronze, autobronzeador pela ficha e pelo preço por 100 ml (cartão; Skelt também com cupom e Pix), por perfil e sem vencedora geral; Best Bronze sem link, cupom nem foto (PT) (no ar em 23/10/2026, PR #247, release `f795f8f`) 🚀
+- [x] [[creatina-black-skull-qual-escolher]]: creatina Black Skull: Creator, Creatine ou Turbo, preço por 100 g de creatina e qual pote compensa (PT) (no ar em 23/10/2026, PR #251, release `7ea1ab6`) 🚀
+- [x] [[body-splash-skelt-qual-escolher]]: body splash Skelt por fragrância (notas publicadas), hidratantes e kits para presente, com links UTM da Inbazz (PT) (no ar em 23/10/2026, PR #251, release `7ea1ab6`) 🚀
+- [x] [[camiseta-clea-store-e-boa]]: camiseta Cléa Store é boa? Pela ficha, sem uso próprio (PT) (no ar em 23/10/2026, PR #251, release `7ea1ab6`) 🚀
+- [x] [[pre-treino-black-skull-bope-ou-bone-crusher]]: pré-treino Black Skull: BOPE ou Bone Crusher, pelo rótulo e pelo preço por dose; não há versão sem cafeína (PT) (no ar em 23/10/2026, PR #251, release `7ea1ab6`) 🚀
+- [x] [[whey-black-skull-qual-escolher]]: whey Black Skull: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, pela tabela e pelo preço por 100 g de proteína (PT) (no ar em 23/10/2026, PR #251, release `7ea1ab6`) 🚀
 - [x] [[melhor-whey-qual-escolher-por-objetivo]]: melhor whey por objetivo, com as cinco parceiras (Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu) cada uma num perfil, pelo preço por 100 g de proteína; sem `affiliate`, estante "Outros" (PT) (no ar em 23/10/2026, PR #244, release `e9e4164`) 🚀
 - [x] [[presente-de-natal-para-casa-moveis]]: guia-mãe de presentes de Natal para a casa (sofá, poltrona, cinema em casa e piscina), com a página de ofertas da DAMIE; fim da lista de `home-events.json` (PT) (no ar em 23/10/2026, PR #235, release `79eb22f`) 🚀
 - [x] [[cupom-bagaggio-como-usar]]: CECILIA10 no campo "Cupom de desconto", soma com o Pix e vale no Outlet (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
