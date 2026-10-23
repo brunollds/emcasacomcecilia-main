@@ -111,6 +111,7 @@ const pages: Record<Locale, PageCopy> = {
     faqs: [
       { question: 'O código {code} pode ser usado junto com cupons de desconto?', answer: 'O código {code} no campo Reward Code pode ser combinado com cupons promocionais elegíveis no campo Coupon Code. A aceitação dos dois descontos deve ser sempre confirmada no resumo do checkout.' },
       { question: 'Qual a diferença entre Coupon Code e Reward Code?', answer: 'Coupon Code aceita cupons promocionais temporários da loja. Reward Code aceita o código de influenciadora {code} para desconto extra.' },
+      { question: 'O código {code} vale no app da YesStyle?', answer: 'Sim. O app da YesStyle, para Android e iPhone, também tem o campo Reward Code: digite {code} nele no checkout, como no site.' },
     ],
     transparencyTemplate: 'Esta página contém links de afiliada. Ao comprar pelo link ou utilizar o código {code}, podemos receber uma comissão sem custo adicional para você.',
   },
@@ -174,6 +175,7 @@ const pages: Record<Locale, PageCopy> = {
     faqs: [
       { question: 'Can I use {code} with a promo coupon?', answer: 'The code {code} in the Reward Code field may be stacked with eligible promo coupons in the Coupon Code field. Stacking eligibility must always be confirmed in the checkout summary.' },
       { question: 'What discount does {code} offer?', answer: 'It adds up to {newDiscount}% extra ({newDiscount}% first order / {returningDiscount}% returning orders).' },
+      { question: 'Does {code} work in the YesStyle app?', answer: 'Yes. The YesStyle app for Android and iPhone also has the Reward Code field: enter {code} there at checkout, just like on the website.' },
     ],
     transparencyTemplate: 'This page contains affiliate links. If you visit YesStyle through our links or use the code {code}, we may earn a commission at no extra cost to you.',
   },
@@ -236,6 +238,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Preguntas frecuentes',
     faqs: [
       { question: '¿Puedo usar {code} con un cupón?', answer: 'El código {code} en el campo Reward Code se puede combinar con cupones promocionales elegibles en Coupon Code, debiendo confirmarse en el resumen del checkout.' },
+      { question: '¿{code} funciona en la app de YesStyle?', answer: 'Sí. La app de YesStyle para Android e iPhone también tiene el campo Reward Code: escribe {code} ahí en el checkout, igual que en el sitio web.' },
     ],
     transparencyTemplate: 'Esta página contiene enlaces de afiliado. Si compras mediante el código {code}, podemos recibir una comisión sin coste adicional.',
   },
@@ -298,6 +301,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Questions fréquentes',
     faqs: [
       { question: `Puis-je utiliser {code} avec un coupon${NBSP}?`, answer: 'Le code {code} dans le champ Reward Code peut être cumulé avec les coupons promo éligibles dans Coupon Code, sous réserve de confirmation au moment du paiement.' },
+      { question: `{code} fonctionne-t-il dans l’application YesStyle${NBSP}?`, answer: `Oui. L’application YesStyle pour Android et iPhone a aussi le champ Reward Code${NBSP}: saisissez {code} au moment du paiement, comme sur le site.` },
     ],
     transparencyTemplate: 'Cette page contient des liens affiliés. Si vous achetez via {code}, nous pouvons recevoir une commission sans frais supplémentaires.',
   },
@@ -360,6 +364,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Häufige Fragen',
     faqs: [
       { question: 'Kann ich {code} mit einem Gutschein nutzen?', answer: 'Der Code {code} im Feld Reward Code kann mit berechtigten Aktionsgutscheinen im Feld Coupon Code kombiniert werden. Die Ausweisung beider Rabatte ist an der Kasse zu prüfen.' },
+      { question: 'Funktioniert {code} in der YesStyle-App?', answer: 'Ja. Die YesStyle-App für Android und iPhone hat ebenfalls das Feld Reward Code: Gib {code} dort an der Kasse ein, genau wie auf der Website.' },
     ],
     transparencyTemplate: 'Diese Seite enthält Affiliate-Links. Wenn du über {code} kaufst, erhalten wir möglicherweise eine Provision ohne Zusatzkosten.',
   },
@@ -422,6 +427,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Domande frequenti',
     faqs: [
       { question: 'Posso usare {code} insieme a un coupon?', answer: 'Il codice {code} nel campo Reward Code si può cumulare con i coupon promozionali idonei nel campo Coupon Code. Controlla sempre nel riepilogo del checkout che entrambi gli sconti siano applicati.' },
+      { question: "{code} funziona nell'app di YesStyle?", answer: "Sì. L'app di YesStyle per Android e iPhone ha anche il campo Reward Code: inserisci {code} lì al checkout, come sul sito." },
     ],
     transparencyTemplate: 'Questa pagina contiene link di affiliazione. Se acquisti tramite il link o usi il codice {code}, potremmo ricevere una commissione senza costi aggiuntivi per te.',
   },
@@ -484,6 +490,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '자주 묻는 질문',
     faqs: [
       { question: '{code} 코드를 쿠폰과 함께 사용할 수 있나요?', answer: 'Reward Code 칸의 {code} 코드는 Coupon Code 칸의 대상 프로모션 쿠폰과 함께 적용될 수 있으며, 최종 적용 여부는 결제 요약 화면에서 확인해야 합니다.' },
+      { question: '{code} 코드는 YesStyle 앱에서도 사용할 수 있나요?', answer: '네. Android와 iPhone용 YesStyle 앱에도 Reward Code 칸이 있습니다. 웹사이트와 마찬가지로 결제 단계에서 {code}를 입력하세요.' },
     ],
     transparencyTemplate: '이 페이지에는 제휴 링크가 포함되어 있습니다. 코드를 사용하여 구매 시 수수료를 지급받을 수 있습니다.',
   },
@@ -546,6 +553,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'よくある質問',
     faqs: [
       { question: '{code}はクーポンと併用できますか？', answer: 'Reward Code 欄の {code} は対象のプロモーションクーポンと併用できる場合があります。両方の割引が適用されるかは注文確定前のチェックアウト画面で確認してください。' },
+      { question: '{code}はYesStyleのアプリでも使えますか？', answer: 'はい。Android・iPhone版のYesStyleアプリにもReward Code欄があります。サイトと同じく、チェックアウトで{code}を入力してください。' },
     ],
     transparencyTemplate: 'このページにはアフィリエイトリンクが含まれる場合があります。{code}を利用して購入すると報酬を得ることがあります。',
   },
@@ -608,6 +616,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '常見問題',
     faqs: [
       { question: '{code} 可以與優惠碼同時使用嗎？', answer: 'Reward Code 欄位的 {code} 可與 Coupon Code 欄位的適用促銷優惠碼組合使用，實際疊加結果須以結帳明細為準。' },
+      { question: '{code} 在 YesStyle App 也能使用嗎？', answer: '可以。Android 與 iPhone 版的 YesStyle App 也有 Reward Code 欄位，結帳時輸入 {code} 即可，和網站一樣。' },
     ],
     transparencyTemplate: '此頁面包含聯盟連結。使用 {code} 購物時，我們可能會獲得佣金。',
   },
@@ -670,6 +679,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '常见问题',
     faqs: [
       { question: '{code} 可以和优惠码一起使用吗？', answer: 'Reward Code 栏位的 {code} 可与 Coupon Code 栏位的适用促销优惠码组合使用，实际叠加结果须以结账明细为準。' },
+      { question: '{code} 在 YesStyle App 也能使用吗？', answer: '可以。Android 和 iPhone 版的 YesStyle App 也有 Reward Code 栏位，结账时输入 {code} 即可，和网站一样。' },
     ],
     transparencyTemplate: '此页面包含联盟链接。使用 {code} 购物时，我们可能会获得佣金。',
   },
