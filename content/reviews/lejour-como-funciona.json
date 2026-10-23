@@ -28,11 +28,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "A Lejour é uma plataforma brasileira de casamento que faz duas coisas: o site do casal e a lista de presentes. Tem também lista de convidados com confirmação de presença.",
-        "Os presentes são virtuais. O convidado paga e o valor vira crédito em dinheiro para o casal; nenhum produto é enviado.",
-        "O casal usa o crédito em dinheiro (Pix), em produtos da Fast Shop ou nos dois.",
-        "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa por presente, de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro, em 14/10/2026. Premium e Pro são pagos uma vez e valem para sempre."
+      "paragraphs": [
+        "A Lejour é uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes. Os presentes são virtuais: o convidado paga e o valor vira crédito em dinheiro ou em produtos da Fast Shop. Criar a lista é grátis no plano Basic, e os planos pagos baixam a taxa; veja abaixo qual escolher."
       ]
     },
     {

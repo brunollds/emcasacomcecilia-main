@@ -40,12 +40,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Reputação no Reclame Aqui: Boa, com nota 7,6/10 nos últimos 6 meses (dados de 01/04/2026 a 30/09/2026, consultados em 02/10/2026).",
-        "A loja responde quase tudo: 99,1% das 115 reclamações do período foram respondidas.",
-        "E resolve quase tudo: 94% das reclamações avaliadas foram marcadas como resolvidas pelo consumidor.",
-        "O ponto de atenção é a satisfação: 54% voltariam a fazer negócio e a nota média do consumidor é 5,6.",
-        "Leitura do quadro: a Let's Eat It resolve, mas nem sempre do jeito ou no tempo que o cliente esperava."
+      "paragraphs": [
+        "A Let's Eat It tem reputação Boa no Reclame Aqui: responde quase todas as reclamações e resolve quase todas as avaliadas. O ponto fraco é a satisfação, porque só pouco mais da metade voltaria a comprar. Ela resolve, mas nem sempre do jeito esperado. Os capítulos abaixo trazem os números e o caminho se o pedido der problema."
       ]
     },
     {
@@ -222,6 +218,13 @@
           "label": "Cupom MAUAD: regras e validade",
           "href": "/cupons/letseatit"
         }
+      ]
+    },
+    {
+      "heading": "Dá para confiar na Let's Eat It?",
+      "paragraphs": [
+        "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com nota 7,6 de 10, 99,1% das reclamações respondidas e 94% das avaliadas marcadas como resolvidas.",
+        "O que pede atenção é a satisfação: 54% voltariam a fazer negócio e a nota média do consumidor é 5,6, além de um tempo médio de resposta longo. Quem compra deve esperar que o problema seja resolvido, mas talvez com mais demora e menos conforto do que gostaria."
       ]
     },
     {

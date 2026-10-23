@@ -44,8 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Escolha o **gerenciado** se você quer o assistente funcionando sem cuidar de servidor: a Hostinger instala, atualiza e faz os backups. Escolha o **VPS** se você quer acesso root (controle total do servidor) e rodar outros programas na mesma máquina, e aceita atualizar e proteger o sistema.",
-        "Nas duas opções dá para usar os créditos de IA da Hostinger ou a sua própria chave de API. Em 21/10/2026, com a indicação, o gerenciado sai por **R$ 19,99/mês** e o VPS KVM 1 por **R$ 23,99/mês**, em plano de 24 meses. Os dois renovam por **R$ 59,99/mês**."
+        "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA da Hostinger ou a sua chave de API. O que pesa é a manutenção que você aceita; veja os preços abaixo."
       ]
     },
     {

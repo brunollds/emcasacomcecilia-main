@@ -26,19 +26,14 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "**5 pessoas (220 bebidas por mês):** Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
-        "**10 pessoas (440 bebidas):** Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
-        "**20 pessoas (880 bebidas):** Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
-      ],
-      "postParagraphs": [
-        "Os valores são de 19/10/2026, sem cupom e sem a máquina. A conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula.",
-        "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
+      "paragraphs": [
+        "Para um escritório em que nem todo mundo toma só café, a Dolce Gusto atende melhor: faz café, bebidas com leite, chocolate e chá na mesma máquina. Quem só toma café preto paga bem menos com filtro. O custo por mês para 5, 10 e 20 pessoas está no capítulo de custo."
       ]
     },
     {
       "heading": "Quantas bebidas o escritório toma por mês",
       "paragraphs": [
+        "Este guia responde qual sistema de máquina serve para cada tamanho de escritório e quanto o café custa por mês para 5, 10 e 20 pessoas. A conta é sem cupom e sem a máquina, com os preços lidos em 19/10/2026.",
         "A conta é pessoas × 2 bebidas por dia × 22 dias úteis. Cada pessoa toma 44 bebidas no mês, e a equipe toma:"
       ],
       "bullets": [
@@ -369,6 +364,20 @@
       "paragraphs": [
         "Se a equipe só toma café preto, a cápsula perde para o filtro por xícara. Na Dolce Gusto, uma bebida de uma cápsula custa de R$ 1,62 a R$ 2,49 no combo ou na caixa avulsa. No filtro, com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44. A Melitta vende o café, mas o site dela não vende cafeteira elétrica de filtro, só a Amano, a R$ 1.149,00, então a máquina de filtro vem de outra marca, como a Oster.",
         "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada no preço de 19/10/2026."
+      ]
+    },
+    {
+      "heading": "Qual escolher para o escritório",
+      "paragraphs": [
+        "A escolha depende de quem toma o quê. Os valores são de 19/10/2026, sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
+      ],
+      "bullets": [
+        "5 pessoas (220 bebidas por mês): Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
+        "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
+        "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
+      ],
+      "postParagraphs": [
+        "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
       ]
     },
     {

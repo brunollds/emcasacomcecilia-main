@@ -42,12 +42,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "A Insider Store tem reputação **RA1000**, a mais alta do Reclame Aqui, com nota 9,0 nos últimos seis meses (1º de abril a 30 de setembro de 2026). A empresa está verificada pela plataforma e aparece no perfil há 9 anos.",
-        "No período, foram 1.593 reclamações: 99,4% respondidas e 92,6% resolvidas, segundo quem avaliou. A resposta média saiu em 2 dias e 3 horas, e 86% disseram que voltariam a comprar.",
-        "O que mais gera queixa é a entrega. Em três anos, \"produto não recebido\" e \"atraso na entrega\" somam mais de 4.600 reclamações. Depois vêm má qualidade, troca e devolução e defeito.",
-        "Dois alertas recentes: pedidos feitos com um cupom pessoal que vazou em sites de cupons foram cancelados, e há relatos de mensagens de golpe em nome da marca.",
-        "Se algo der errado, o primeiro caminho é o WhatsApp da Insider. O Reclame Aqui é a segunda instância, quando o atendimento direto não resolve."
+      "paragraphs": [
+        "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete. Há também dois alertas recentes, sobre cupom vazado e mensagens de golpe, e os capítulos abaixo explicam cada um e o caminho certo se o pedido der problema."
       ]
     },
     {
@@ -277,6 +273,13 @@
           "label": "A Insider Store é confiável? CNPJ, loja física e trocas",
           "href": "/reviews/insider-store-e-confiavel"
         }
+      ]
+    },
+    {
+      "heading": "Dá para comprar na Insider?",
+      "paragraphs": [
+        "Pelos dados do Reclame Aqui, sim. A Insider Store tem reputação RA1000, nota 9,0 nos últimos seis meses, 99,4% das reclamações respondidas, 92,6% resolvidas e 86% de quem avaliou dizendo que voltaria a comprar.",
+        "O ponto de atenção é a entrega, que lidera as reclamações, e os dois alertas recentes: o cupom pessoal vazado, que leva ao cancelamento do pedido, e as mensagens de golpe em nome da marca. Com o pedido acompanhado pelo rastreio e o WhatsApp oficial como primeiro canal, o risco de ficar sem resposta é baixo."
       ]
     },
     {

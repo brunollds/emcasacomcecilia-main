@@ -26,18 +26,15 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Para acertar a altura em casa: Snow, da I Wanna Sleep. Ele chega com 18 cm, e você tira o enchimento até achar o ponto.",
-        "Para ajustar por camadas e poder devolver com reembolso: Emma, com 14 noites de teste.",
-        "Para gastar menos: Ortobom, sabendo que as páginas dos dois modelos que consultamos não falam em noites de teste.",
-        "Na troca, a diferença é o que você recebe de volta: a Emma devolve o dinheiro, e a I Wanna Sleep dá crédito para outro produto da loja."
-      ],
-      "postParagraphs": [
-        "Não testamos os travesseiros. Preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções: confira o teste e a troca no site de cada marca antes de comprar."
+      "paragraphs": [
+        "Depende da altura e da troca. Para acertar a altura em casa, o Snow, da I Wanna Sleep, chega com 18 cm e você tira o enchimento; para ajustar por camadas e receber o dinheiro de volta, a Emma tem 14 noites de teste; para gastar menos, a Ortobom. Veja abaixo o teste e a troca de cada marca."
       ]
     },
     {
       "heading": "Os travesseiros lado a lado",
+      "paragraphs": [
+        "Comparamos o Snow, o Coluna Relax e o Original Látex da I Wanna Sleep, quatro modelos da Emma e dois da Ortobom. Não testamos os travesseiros: preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções, então confira o teste e a troca no site de cada marca antes de comprar."
+      ],
       "comparisonTable": {
         "caption": "Dados dos sites oficiais em 12/10/2026, sem códigos de desconto. Na Emma, é o preço exibido na lista de travesseiros.",
         "headers": [

@@ -44,8 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Escolha o **OpenClaw** se quer conectar o agente a muitos canais de mensagem, usar uma interface web (Control UI) e ter aplicativos nativos para celular e computador. O README fala em mais de 20 canais, e o projeto é mantido por uma fundação sem fins lucrativos. Escolha o **Hermes Agent** se quer um agente que aprende com o uso: a memória é organizada pelo próprio agente, ele cria e melhora as próprias habilidades, busca nas conversas antigas e faz modelagem do usuário com o Honcho. O Hermes Agent é feito pela Nous Research.",
-        "Se você não quer cuidar de servidor, o plano gerenciado da Hostinger serve aos dois pelo mesmo preço: R$ 19,99/mês com a indicação, em plano de 24 meses. O software é grátis nos dois casos; o que você paga é o servidor e o uso dos modelos de IA."
+        "Escolha o OpenClaw se quer muitos canais de mensagem e aplicativos nativos para celular e computador, e o Hermes Agent se quer um agente que aprende com o uso. O software é grátis nos dois, e o plano gerenciado da Hostinger serve a ambos. O que pesa é o que o agente vai fazer; veja os perfis abaixo."
       ]
     },
     {

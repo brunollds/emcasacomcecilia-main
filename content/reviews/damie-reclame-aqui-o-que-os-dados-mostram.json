@@ -26,7 +26,9 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "widget": "ReputacaoMetricas"
+      "paragraphs": [
+        "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar móvel online vale a pena porque entrega e acesso ao prédio concentram os problemas. O que pode mudar a sua decisão é o índice de solução; veja os dados atuais abaixo."
+      ]
     },
     {
       "heading": "Por que pesquisar o Reclame Aqui antes de comprar móvel pela internet",
@@ -37,6 +39,7 @@
     },
     {
       "heading": "Os dados atuais da Damie no Reclame Aqui",
+      "widget": "ReputacaoMetricas",
       "paragraphs": [
         "Segundo o painel do Reclame Aqui consultado em junho de 2026, a Damie Móveis apresenta os seguintes indicadores:"
       ],
@@ -124,6 +127,12 @@
           "label": "Damie é confiável? Nossa experiência depois de meses de uso",
           "href": "https://damie.emcasacomcecilia.com/damie-e-confiavel"
         }
+      ]
+    },
+    {
+      "heading": "Dá para confiar na Damie?",
+      "paragraphs": [
+        "Pelos números do Reclame Aqui, sim: nota 8,0 e classificação Ótimo, 100% das reclamações respondidas, índice de solução de 81,7% e resposta em 14 horas, em 324 casos. O ponto mais fraco é que 70,9% voltariam a fazer negócio, e as reclamações se concentram na entrega e no acesso ao prédio. Antes de fechar o pedido, meça o acesso e registre o recebimento em foto."
       ]
     },
     {

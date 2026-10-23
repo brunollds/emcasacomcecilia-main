@@ -27,21 +27,22 @@
     {
       "heading": "Resposta rápida: o que é o Nanlac Supreme Pro 1 a 3 anos",
       "paragraphs": [
-        "O Nanlac Supreme Pro é uma fórmula infantil de primeira infância, da Nestlé, para crianças de 1 a 3 anos. A lata tem 800 g. Segundo a Nestlé Nutre, o preço em 17/10/2026 é R$ 95,53 (de R$ 112,39). Pelas medidas do rótulo, a lata rende cerca de 5,7 litros de preparo, ou 24 copos de 210 ml (conta nossa). Antes de comprar ou de usar uma lata que já está em casa, confira o número do lote no fundo da lata: lotes do Supreme Pro 800 g entraram no recolhimento de janeiro de 2026.",
-        "**Este produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.**",
-        "Este guia reúne o que a Nestlé publica na página do produto e no rótulo. Não testamos o produto. A escolha do leite ou da fórmula da criança é uma conversa para ter com o pediatra ou nutricionista."
-      ],
-      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+        "O Nanlac Supreme Pro é uma fórmula infantil de primeira infância da Nestlé, para crianças de 1 a 3 anos, e não deve ser usado abaixo de 1 ano. Antes de comprar ou de usar uma lata que já está em casa, confira o número do lote; o capítulo sobre o recolhimento mostra como."
+      ]
     },
     {
       "heading": "É fórmula infantil, leite ou composto lácteo?",
       "paragraphs": [
         "É fórmula infantil. A página da Nestlé Nutre vende o produto como \"fórmula infantil de primeira infância\", e a Nota Técnica Conjunta nº 17/2026 do Ministério da Saúde e da Anvisa chama a linha Nanlac de fórmula infantil. Não é leite em pó nem composto lácteo. Para entender a diferença entre os três tipos de produto, veja o [guia da linha Ninho](/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo).",
         "Há outras fórmulas da marca para faixas de idade menores. Elas são outros produtos, com regras próprias, e este guia não trata delas."
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Para quem é e quem não deve usar",
+      "paragraphs": [
+        "**Este produto não deve ser usado para alimentar crianças menores de 1 (um) ano de idade.**"
+      ],
       "comparisonTable": {
         "headers": [
           "Item",

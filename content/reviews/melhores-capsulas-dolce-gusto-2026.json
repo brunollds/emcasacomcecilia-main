@@ -29,27 +29,13 @@
     {
       "heading": "Resposta rápida: qual sabor para cada perfil",
       "paragraphs": [
-        "Não existe um melhor sabor de Dolce Gusto: existe o que combina com o seu jeito de tomar café. Pelo catálogo da loja oficial em 12/10/2026:"
-      ],
-      "bullets": [
-        "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
-        "Café forte: Caffè Matinal ou Espresso Barista (9) e Doppio Espresso (10).",
-        "Descafeinado, segundo a loja: Espresso Descafeinado.",
-        "Café com leite de uma cápsula: Café au Lait, Pingado ou Mochaccino Canela.",
-        "Cappuccino e latte de duas cápsulas: Cappuccino, Latte Macchiato ou Vanilla Latte Macchiato.",
-        "Chocolate, sem café na lista de ingredientes: Nescau, Galak, KitKat ou Chococino Nestlé.",
-        "Chá: Nestea Pêssego, Nestea Mate Limão ou Chai Tea Latte.",
-        "Gelado: Frappe, Shakerato ou Nestea Pêssego.",
-        "Marca parceira: Starbucks ou Kopenhagen.",
-        "Máquina NEO: só os cafés NEO, como o NEO Espresso Sul de Minas Orgânico."
-      ],
-      "postParagraphs": [
-        "Se a casa tem gostos diferentes, uma saída é fixar dois ou três sabores e trocar um a cada pedido."
+        "Não existe um melhor sabor de Dolce Gusto: a escolha depende do seu jeito de tomar café, puro, com leite, chocolate, chá ou gelado, e da sua máquina, Original ou NEO. O capítulo Qual sabor escolher, no fim, traz um sabor para cada perfil, e a máquina vem primeiro, logo abaixo."
       ]
     },
     {
       "heading": "Original ou NEO: a máquina escolhe primeiro",
       "paragraphs": [
+        "Não existe um melhor sabor, existe o que combina com o seu jeito de tomar café. Antes de escolher o sabor, veja qual linha de cápsulas serve na sua máquina.",
         "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
         "A NEO tem só cafés pretos: oito na loja em 12/10/2026, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
       ],
@@ -316,10 +302,31 @@
       ]
     },
     {
+      "heading": "Qual sabor escolher",
+      "paragraphs": [
+        "Um sabor para cada perfil, pelo catálogo da loja oficial em 12/10/2026:"
+      ],
+      "bullets": [
+        "Café puro, de menor intensidade: Espresso (5), Lungo ou Café Caseiro (6).",
+        "Café forte: Caffè Matinal ou Espresso Barista (9) e Doppio Espresso (10).",
+        "Descafeinado, segundo a loja: Espresso Descafeinado.",
+        "Café com leite de uma cápsula: Café au Lait, Pingado ou Mochaccino Canela.",
+        "Cappuccino e latte de duas cápsulas: Cappuccino, Latte Macchiato ou Vanilla Latte Macchiato.",
+        "Chocolate, sem café na lista de ingredientes: Nescau, Galak, KitKat ou Chococino Nestlé.",
+        "Chá: Nestea Pêssego, Nestea Mate Limão ou Chai Tea Latte.",
+        "Gelado: Frappe, Shakerato ou Nestea Pêssego.",
+        "Marca parceira: Starbucks ou Kopenhagen.",
+        "Máquina NEO: só os cafés NEO, como o NEO Espresso Sul de Minas Orgânico."
+      ],
+      "postParagraphs": [
+        "Se a casa tem gostos diferentes, uma saída é fixar dois ou três sabores e trocar um a cada pedido."
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Quais são as melhores cápsulas Dolce Gusto? Não existe uma melhor: a escolha depende de você tomar café puro, café com leite, chocolate ou chá, e da sua máquina, Original ou NEO.",
-        "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: a resposta rápida deste guia separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
+        "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: o capítulo Qual sabor escolher separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
         "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial e este guia não faz um.",
         "Qual o café mais gostoso da Dolce Gusto? Depende do seu gosto: compare pela intensidade que a loja informa e pelo leite ou chocolate da bebida.",
         "Quais são os sabores das cápsulas Dolce Gusto? Em 12/10/2026, a loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",

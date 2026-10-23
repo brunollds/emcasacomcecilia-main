@@ -31,12 +31,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não há uma loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em 19/09/2026; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis.",
-        "Este artigo não compara preço nem testa as lojas concorrentes. As tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026."
+        "Não há loja melhor para todo mundo: a escolha muda com o país, com quem paga o imposto e com o que a loja aceita de volta. No Brasil só a Jolse publica o frete, e em Portugal as cinco lojas entregam. O que pesa é o país de destino; as tabelas abaixo mostram entrega, imposto e devolução."
       ]
     },
     {
       "heading": "Quem entrega no Brasil",
+      "paragraphs": [
+        "Este artigo não compara preço nem testa as lojas concorrentes: as tabelas juntam o que cada loja publica nas páginas oficiais, lidas em 12/10/2026. Não existe loja melhor para todo mundo, porque a escolha depende do país, de quem paga o imposto e do que a loja aceita de volta. No Brasil, a Jolse publica frete; a YesStyle não publica frete nem prazo, mas enviou um pedido nosso em 19/09/2026; o Stylevana também não os publica, e a Olive Young Global cita o país entre os sem envio. Em Portugal, as cinco lojas entregam, e todas publicam a partir de quanto o frete é grátis."
+      ],
       "comparisonTable": {
         "caption": "Envio ao Brasil da YesStyle, da Jolse e da StyleKorean, pelas páginas oficiais lidas em 12/10/2026, pela regra da Receita Federal e por um pedido nosso à YesStyle.",
         "headers": [
@@ -320,6 +322,14 @@
           "label": "Ver os cupons da YesStyle de hoje e o código CECILIA010",
           "href": "/cupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "bullets": [
+        "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em 19/09/2026, mas não publica frete nem prazo.",
+        "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
+        "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
       ]
     },
     {

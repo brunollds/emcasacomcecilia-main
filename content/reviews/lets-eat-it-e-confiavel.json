@@ -41,12 +41,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Sim, a Let's Eat It é uma empresa real e estabelecida: tem CNPJ ativo desde 2020, quatro unidades registradas e um showroom em São Paulo.",
-        "A Le Creuset Brasil lista a loja no seu localizador oficial de pontos de venda.",
-        "As políticas são claras e generosas: 30 dias para devolução, reembolso integral e reposição de peça danificada no transporte.",
-        "No Reclame Aqui, a reputação é Boa e quase todas as reclamações são respondidas e resolvidas.",
-        "O ponto de atenção é o pós-venda: quando algo dá errado, a solução vem, mas pode demorar e nem sempre agrada."
+      "paragraphs": [
+        "Sim, a Let's Eat It é uma empresa real e estabelecida, com CNPJ ativo, showroom em São Paulo e reconhecimento da Le Creuset Brasil. As políticas de troca são claras e a reputação no Reclame Aqui é Boa. O ponto de atenção é o pós-venda, que resolve, mas pode demorar. O Veredito, no fim, resume o que observar."
       ]
     },
     {

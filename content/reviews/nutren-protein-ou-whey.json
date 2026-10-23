@@ -29,13 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não existe um \"melhor\" no rótulo. O Nutren Protein em pó contém whey, mas não é só whey: tem cafeína, vitaminas e minerais e 14 g de proteína em 31,5 g de pó. Quem procura uma proteína isolada e sem sabor está falando de outro produto da Nestlé, o Nutren Just Protein. Comparamos só o que as páginas oficiais informam, em 12/10/2026."
-      ],
-      "bullets": [
-        "Nutren Protein em pó: 14 g de proteína e 80 mg de cafeína por porção de 31,5 g; segundo o FAQ da Nestlé, contém lactose e glúten.",
-        "Nutren Protein pronto para beber: 15 g de proteína na garrafa de 260 ml, com lactose 0 g na tabela.",
-        "Nutren Just Protein: \"100% whey protein isolado\", 13 g de proteína em 15 g de pó, sem sabor.",
-        "YoPRO: bebida láctea pronta com \"whey + caseína\" e 15 g de proteína na embalagem de 250 ml."
+        "Não existe um melhor no rótulo. O Nutren Protein em pó contém whey, mas também cafeína, lactose, glúten, vitaminas e minerais, e quem quer só a proteína do soro está falando do Nutren Just Protein. Para bebida pronta, a comparação é com a YoPRO. O que pesa é cafeína, lactose e preço por porção; veja abaixo."
       ]
     },
     {
@@ -180,6 +174,18 @@
           "label": "Cupom Nestlé Nutre: CECI",
           "href": "/cupons/nestle-nutre"
         }
+      ]
+    },
+    {
+      "heading": "Qual escolher pelo rótulo",
+      "paragraphs": [
+        "Não existe um melhor no rótulo: cada produto serve a uma necessidade diferente, e a quantidade certa é assunto para o médico ou o nutricionista."
+      ],
+      "bullets": [
+        "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
+        "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
+        "Quer bebida pronta: a garrafa de 260 ml do Nutren Protein (15 g de proteína) ou a YoPRO de 250 ml (15 g de proteína), que têm lactose 0 g na tabela.",
+        "Tem 50 anos ou mais, ou dúvida sobre lactose: veja a linha Nutren Senior e confirme na embalagem."
       ]
     },
     {

@@ -27,18 +27,14 @@
     {
       "heading": "Resposta rápida: Le Creuset vale a pena?",
       "paragraphs": [
-        "Vale para quem vai usar a panela no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset tem os melhores resultados no calor médio ou baixo, não vai ao micro-ondas e tem garantia vitalícia, que não cobre choque térmico nem queda.",
-        "Não testamos as panelas. As regras abaixo vêm da página de uso e cuidado da Le Creuset Brasil e da página de cuidados da Zwilling sobre a Staub."
-      ],
-      "bullets": [
-        "Indução: vai.",
-        "Forno: depende do puxador. O fenólico preto da linha Signature aguenta até 250 °C.",
-        "Lava-louças: pode; a lavagem constante pode desbotar o acabamento, e a marca diz que isso não é prejudicial.",
-        "Micro-ondas: não vai."
+        "Vale para quem vai usar a panela no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. O limite no forno depende do puxador; veja abaixo as regras por uso."
       ]
     },
     {
       "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
+      "paragraphs": [
+        "A panela serve no fogão, inclusive de indução, e no forno, com cuidado com o esmalte, e a garantia é vitalícia. Não testamos as panelas: as regras abaixo vêm da página de uso e cuidado da Le Creuset Brasil e da página de cuidados da Zwilling sobre a Staub."
+      ],
       "bullets": [
         "Indução: o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
         "Micro-ondas: o ferro fundido não deve ser usado no micro-ondas.",
@@ -164,6 +160,17 @@
           "label": "Cupom da Let's Eat It",
           "href": "/cupons/letseatit"
         }
+      ]
+    },
+    {
+      "heading": "Vale a pena?",
+      "paragraphs": [
+        "Pelo que a marca publica, vale para quem cozinha no fogão ou na indução, usa o forno e aceita os cuidados: calor médio ou baixo, nada de micro-ondas e nada de água fria na panela quente, porque a garantia vitalícia não cobre choque térmico nem queda."
+      ],
+      "bullets": [
+        "Vale: quer uma panela para fogão, indução e forno, e vai respeitar o limite do puxador (250 °C no fenólico da Signature, 200 °C na Tradicional, qualquer temperatura com alça de ferro ou puxador de inox).",
+        "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
+        "O preço pesa: em 12/10/2026, a Redonda Signature de 20 cm saía por R$ 2.329 e a de 28 cm, por R$ 3.429, nas cores de preço padrão."
       ]
     },
     {

@@ -61,17 +61,14 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "A Cléa Store faz 14 anos e dá uma **T-Shirt Oversized de brinde** na compra de qualquer peça. Uma peça no carrinho basta, e um kit conta como uma peça.",
-        "A promoção vai até **31/10/2026**.",
-        "O cupom **CSEMCASACOMCECILIA** vale junto: dá 10% em todo o site, em todas as formas de pagamento. No nosso teste de 15/10/2026, o cupom entrou no pedido e o brinde saiu a R$ 0,00.",
-        "O pedido mais barato que levava a T-Shirt em 15/10/2026 era o Body Cavado: R$ 45,63 com o cupom.",
-        "O Em Casa com Cecília pode receber comissão pelas compras com esse cupom. As condições atualizadas ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
+      "paragraphs": [
+        "A Cléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 31/10/2026, e o cupom CSEMCASACOMCECILIA, com 10% em todo o site, vale junto com o brinde. Uma peça no carrinho basta, e um kit conta como uma. O que decide quanto você paga é a peça escolhida; veja abaixo o pedido mais barato."
       ]
     },
     {
       "heading": "Como funciona o brinde dos 14 anos",
       "paragraphs": [
+        "A Cléa Store comemora 14 anos com uma T-Shirt Oversized de brinde em qualquer compra, até 31/10/2026, e o cupom CSEMCASACOMCECILIA vale junto. Veja como pegar o brinde.",
         "Você escolhe a T-Shirt numa janela do site. Com o carrinho vazio, a loja avisa: \"Adicione mais 1 item(ns) para ganhar um brinde\". Depois da primeira peça, o brinde fica liberado.",
         "A janela se chama **\"Escolha entre os brindes disponíveis\"**. O título diz \"A Cléa faz 14 anos. O presente é seu!\". Logo abaixo, a loja explica: \"Em qualquer compra, você ganha uma T-Shirt Oversized. Escolha a cor e o tamanho do seu brinde entre as opções disponíveis.\"",
         "O passo a passo, como fizemos no nosso teste de 15/10/2026:"
