@@ -46509,6 +46509,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88718,
+      "sha256": "15256e1986afecb41423fd8af10857193a1a453d9f3e3fc0680aed70082bf064",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "storage_filename": "poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-como-escolher-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/15256e1986afecb41423fd8af10857193a1a453d9f3e3fc0680aed70082bf064/poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/15256e1986afecb41423fd8af10857193a1a453d9f3e3fc0680aed70082bf064/poltrona-amamentacao-como-escolher-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.596Z",
+      "verification_etag_or_digest": "15256e1986afecb41423fd8af10857193a1a453d9f3e3fc0680aed70082bf064",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
       "local_url": "/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
       "media_kind": "image",
@@ -46552,6 +46590,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-07T03:23:29.994Z",
       "verification_etag_or_digest": "01405c5c4ad10597eead0b09cc9394ce8a5ada0382dcd26d840bc13d00ec9c41",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97362,
+      "sha256": "0582e7147727d5dd8ec2a8b0771d1215f9d9ffeb2f29c061fb49c1588ffde99d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "storage_filename": "poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0582e7147727d5dd8ec2a8b0771d1215f9d9ffeb2f29c061fb49c1588ffde99d/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0582e7147727d5dd8ec2a8b0771d1215f9d9ffeb2f29c061fb49c1588ffde99d/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "0582e7147727d5dd8ec2a8b0771d1215f9d9ffeb2f29c061fb49c1588ffde99d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-rotina-capa-discover.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-rotina-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84678,
+      "sha256": "052a6ab539315e84009e07b789c75368f6243cb8e017970e6cd5b8838c0037ce",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-rotina-capa-discover.webp",
+      "storage_filename": "poltrona-amamentacao-rotina-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-amamentacao-rotina.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-amamentacao-rotina.json",
+          "line": 10,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-rotina-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/052a6ab539315e84009e07b789c75368f6243cb8e017970e6cd5b8838c0037ce/poltrona-amamentacao-rotina-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/052a6ab539315e84009e07b789c75368f6243cb8e017970e6cd5b8838c0037ce/poltrona-amamentacao-rotina-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "052a6ab539315e84009e07b789c75368f6243cb8e017970e6cd5b8838c0037ce",
       "verification_status": "verified"
     },
     {
@@ -47746,6 +47860,158 @@
       "uploaded_at": null,
       "verified_at": "2026-10-23T02:52:07.486Z",
       "verification_etag_or_digest": "0d741f10d89b83b11f11f7433a39a17ffe9d19d316485f01f03bebcf60a54ca5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/sofa-damie-modular-capa-discover.webp",
+      "local_url": "/images/reviews/damie/sofa-damie-modular-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80566,
+      "sha256": "58b17b5e574bbf99d353f6a72c3be673314992af2dc24701f193b16d357d4158",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-damie-modular-capa-discover.webp",
+      "storage_filename": "sofa-damie-modular-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-damie-modular-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-damie-modular-vale-a-pena.json",
+          "line": 18,
+          "column": 13,
+          "literal": "/images/reviews/damie/sofa-damie-modular-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58b17b5e574bbf99d353f6a72c3be673314992af2dc24701f193b16d357d4158/sofa-damie-modular-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58b17b5e574bbf99d353f6a72c3be673314992af2dc24701f193b16d357d4158/sofa-damie-modular-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "58b17b5e574bbf99d353f6a72c3be673314992af2dc24701f193b16d357d4158",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/sofa-damie-na-caixa-capa-discover.webp",
+      "local_url": "/images/reviews/damie/sofa-damie-na-caixa-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70790,
+      "sha256": "641f6247e63f331aa34a928352c1e9a7ebd5ce007360891b67168cc99436ec8b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-damie-na-caixa-capa-discover.webp",
+      "storage_filename": "sofa-damie-na-caixa-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular.json",
+          "line": 17,
+          "column": 13,
+          "literal": "/images/reviews/damie/sofa-damie-na-caixa-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/641f6247e63f331aa34a928352c1e9a7ebd5ce007360891b67168cc99436ec8b/sofa-damie-na-caixa-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/641f6247e63f331aa34a928352c1e9a7ebd5ce007360891b67168cc99436ec8b/sofa-damie-na-caixa-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "641f6247e63f331aa34a928352c1e9a7ebd5ce007360891b67168cc99436ec8b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "local_url": "/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74550,
+      "sha256": "64d1d933322d0bd6fe60e9b8673e5bcbaa98c88efad6bc534186e478a260be7e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "storage_filename": "sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-inflow-ou-damie.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-inflow-ou-damie.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/64d1d933322d0bd6fe60e9b8673e5bcbaa98c88efad6bc534186e478a260be7e/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/64d1d933322d0bd6fe60e9b8673e5bcbaa98c88efad6bc534186e478a260be7e/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "64d1d933322d0bd6fe60e9b8673e5bcbaa98c88efad6bc534186e478a260be7e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp",
+      "local_url": "/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57898,
+      "sha256": "524ab72ec40f0d7d55addd37d50acfdcd6ac424dcee2f5d17db4773fd1e25e24",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sofa-na-caixa-ou-montado-capa-discover.webp",
+      "storage_filename": "sofa-na-caixa-ou-montado-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/524ab72ec40f0d7d55addd37d50acfdcd6ac424dcee2f5d17db4773fd1e25e24/sofa-na-caixa-ou-montado-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/524ab72ec40f0d7d55addd37d50acfdcd6ac424dcee2f5d17db4773fd1e25e24/sofa-na-caixa-ou-montado-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-23T23:33:24.597Z",
+      "verification_etag_or_digest": "524ab72ec40f0d7d55addd37d50acfdcd6ac424dcee2f5d17db4773fd1e25e24",
       "verification_status": "verified"
     },
     {

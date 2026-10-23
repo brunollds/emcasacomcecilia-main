@@ -18,9 +18,10 @@
   "publishedAt": "7 de outubro de 2026",
   "publishedAtISO": "2026-10-07",
   "isNew": true,
-  "image": "/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
-  "imageAlt": "Cecília reclinando a poltrona reclinável bege pelo botão na lateral do braço",
-  "imageAspect": "square",
+  "image": "/images/reviews/damie/poltrona-amamentacao-ou-reclinavel-capa-discover.webp",
+  "imageAlt": "Cecília reclinada na poltrona bege da Damie e, ao lado, sentada nela com o filho",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
