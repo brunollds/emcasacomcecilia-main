@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Si le modèle d'IA reste chez le fournisseur, avec votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Le calcul est dans Combien de RAM chaque scénario demande."
+        "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Calcul : Combien de RAM chaque scénario demande."
       ]
     },
     {

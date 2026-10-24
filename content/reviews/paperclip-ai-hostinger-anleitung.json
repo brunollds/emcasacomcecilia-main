@@ -44,13 +44,13 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Paperclip organisiert ein Team aus KI-Agenten mit Rollen, Zielen und einem Ausgabenlimit für jeden, führt die KI aber nicht selbst aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; siehe die Kapitel Verwaltet oder VPS bei Hostinger und Was es kostet weiter unten."
+        "Paperclip organisiert ein Team aus KI-Agenten, jeder mit Rolle, Zielen und Ausgabenlimit, und die KI-Schlüssel gehören Ihnen. Der Code ist öffentlich (MIT), aber wir haben keine unabhängige Prüfung gefunden. Bei Hostinger läuft es als verwaltetes Angebot oder auf einem VPS, und wer sich um den Server kümmert, entscheidet die Wahl: siehe Welche Lösung passt."
       ]
     },
     {
       "heading": "Was Paperclip ist, in einfacher Sprache",
       "paragraphs": [
-        "Paperclip ist ein Programm zum Organisieren eines Teams aus KI-Agenten: Statt eines einzelnen Assistenten bauen Sie das Team mit Rollen, Zielen und einem Ausgabenlimit für jeden Agenten auf. Stellen Sie sich ein kleines Unternehmen vor. Es hat eine Inhaberin, Leitungen und Mitarbeitende, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
+        "Paperclip ist ein Programm zum Organisieren eines Teams aus KI-Agenten: Statt eines einzelnen Assistenten bauen Sie das Team mit Rollen, Zielen und einem Ausgabenlimit für jeden Agenten auf. Stellen Sie sich ein kleines Unternehmen vor, mit einer Inhaberin, Leitungen und Mitarbeitenden, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
@@ -71,17 +71,13 @@
     {
       "heading": "Ist es vertrauenswürdig? Was Sie prüfen können",
       "paragraphs": [
-        "„Vertrauenswürdig“ ist ein großes Wort. Man kann trennen, was sich überprüfen lässt, und was nicht."
-      ],
-      "bullets": [
+        "„Vertrauenswürdig“ ist ein großes Wort. Hilfreich ist, zu trennen, was sich überprüfen lässt und was nicht.",
         "**Wer pflegt es.** Laut dem offiziellen Repository github.com/paperclipai/paperclip wird das Projekt vom Team Paperclip gepflegt. Der Copyright-Hinweis lautet „MIT © 2026 Paperclip Labs, Inc.“. Die Projektseite paperclip.ing verweist auf dasselbe Repository. Verwechseln Sie es nicht mit Forks und Kopien des Codes, die in der Suche auftauchen.",
         "**Lizenz.** MIT. Das heißt: Der Code ist offen, jede Person kann ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die Version zu pflegen, die Sie installiert haben.",
         "**Wo es läuft.** Sie entscheiden. Paperclip kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Angebot von Hostinger laufen. Die Projektseite sagt, dass die selbst gehostete Version kein Konto bei Paperclip verlangt.",
         "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Beim VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ liegen, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz liegen. Das ist die Beschreibung von Hostinger, keine eigene Prüfung von uns.",
-        "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In dieser Lesung haben wir unterstützte Versionen, eine unabhängige Prüfung und veröffentlichte Advisories nicht geprüft."
-      ],
-      "postParagraphs": [
-        "**Was sich nicht sagen lässt.** Für diesen Leitfaden gibt es keine öffentliche, verifizierte Sicherheitsprüfung. Es fehlen auch unabhängige Bewertungen oder Urteile Dritter zum Produkt, etwa beim Reclame Aqui. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihr Bankkonto oder andere Konten verdient besondere Vorsicht, egal welche Software. Zur Firma, die hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
+        "**Sicherheit des Codes.** Das Repository bittet, Sicherheitslücken über die Security-Advisory-Funktion von GitHub zu melden, nicht in öffentlichen Issues. In dieser Lesung haben wir unterstützte Versionen, eine unabhängige Prüfung und veröffentlichte Advisories nicht geprüft.",
+        "**Was sich nicht sagen lässt.** Für diesen Leitfaden gibt es keine öffentliche, verifizierte Sicherheitsprüfung. In den gelesenen Quellen fehlen außerdem unabhängige Bewertungen oder Urteile Dritter zum Produkt. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihr Bankkonto oder andere Konten verdient besondere Vorsicht, egal welche Software. Zur Firma, die hostet, lesen Sie [Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes)."
       ]
     },
     {
@@ -147,13 +143,13 @@
       "postParagraphs": [
         "**Das verwaltete Angebot passt, wenn** Sie Paperclip ohne Installation nutzen wollen, nicht wissen, was Root oder Docker ist, und Hostinger Datenbank, Updates und Backups übernehmen soll.",
         "**Der VPS passt, wenn** Sie weitere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), Erfahrung mit Servern haben oder lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle behalten möchten.",
-        "Zur Erstattung gilt beim VPS die 180-Tage-Regel, wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie der Firma liest. Wenn Sie in den letzten sechs Monaten eine VPS-Erstattung beantragt haben, hat der neue Kauf keine 30-Tage-Garantie."
+        "Zur Erstattung gilt beim VPS die 180-Tage-Regel, wie sie im [Artikel Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes) beschrieben ist, der die Richtlinie der Firma liest. Wenn Sie in den letzten sechs Monaten eine VPS-Erstattung beantragt haben, hat der neue Kauf keine 30-Tage-Garantie."
       ]
     },
     {
       "heading": "Was es kostet",
       "paragraphs": [
-        "Die Preise gelten für 24-Monats-Pläne und stammen von der globalen Hostinger-Seite in US-Dollar, gelesen am 21.10.2026. In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen: Prüfen Sie den Betrag im Warenkorb. Das verwaltete Angebot ist der Tarif „AI automation apps“, zum gleichen Preis wie für OpenClaw und Hermes Agent."
+        "Die Preise gelten für 24-Monats-Pläne. Sie stammen von der globalen Hostinger-Seite, in US-Dollar, gelesen am 21.10.2026. Das verwaltete Angebot ist der Tarif „AI automation apps“ und kostet für OpenClaw, Hermes Agent und Paperclip gleich viel. Die Seite zeigte den Empfehlungspreis nur für das verwaltete Angebot; beim VPS erscheinen die 20 % im Warenkorb."
       ],
       "comparisonTable": {
         "headers": [
@@ -196,14 +192,15 @@
         ]
       },
       "postParagraphs": [
+        "In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen: Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
         "RAM ist der Arbeitsspeicher des Servers, und vCPU ist ein Prozessorkern. Je größer der VPS-Plan, desto mehr Speicher und Rechenleistung hat er. Die gelesenen Hostinger-Seiten nennen keinen Mindestbedarf an Arbeitsspeicher für Paperclip. KVM 1 ist der Ausgangspunkt, und wie viele Agenten Sie betreiben, entscheidet, ob er reicht.",
-        "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Lesen Sie [den Black-Friday-Ratgeber zu Hostinger](/de/reviews/hostinger-black-friday-angebote) und prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
+        "Am 21.10.2026 lief bei Hostinger eine Black-Friday-Aktion, und die Preise ändern sich. Lesen Sie [Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?](/de/reviews/hostinger-black-friday-angebote) und prüfen Sie den Betrag im Warenkorb."
       ]
     },
     {
       "heading": "Empfehlungslink",
       "paragraphs": [
-        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es gibt **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt **lässt sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung kostet den normalen Preis. Die vollständige Regel steht in [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
+        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es gibt **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt **lässt sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung kostet den normalen Preis. Die vollständige Regel steht in [Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
       ]
     },
     {
@@ -215,9 +212,18 @@
       ]
     },
     {
-      "heading": "Alternativen: ein einzelner Agent",
+      "heading": "Welche Lösung passt",
       "paragraphs": [
-        "Paperclip organisiert ein Team aus Agenten. Wenn Sie nur einen Assistenten wollen, etwa über Telegram oder WhatsApp, ist es mehr als nötig. Für diese Wahl lesen Sie [OpenClaw bei Hostinger, verwaltet oder VPS](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) und [OpenClaw oder Hermes Agent](/de/reviews/openclaw-oder-hermes-agent), das die beiden Einzelagenten vergleicht."
+        "Unsere Lesart, aus dem offiziellen Repository und dem, was Hostinger am 21.10.2026 angab. Die Preise gelten für 24-Monats-Pläne in US-Dollar."
+      ],
+      "bullets": [
+        "**Testen Sie es zuerst auf Ihrem Computer**, wenn Sie nicht sicher sind, ob ein Team aus Agenten das Richtige für Sie ist. Die Installation besteht aus einem Befehl, und die einzigen Kosten sind die der KI-Anbieter.",
+        "**Verwaltet**, wenn Sie Paperclip online nutzen wollen, ohne einen Server anzufassen: 3,99 USD pro Monat mit dem Empfehlungslink, 11,99 USD pro Monat bei der Verlängerung, mit Datenbank, Updates und Backups auf Seiten von Hostinger.",
+        "**VPS**, wenn Sie Root-Zugriff, weitere Programme auf demselben Server oder die Datenbank unter Ihrer Kontrolle wollen: KVM 1 ab 6,49 USD pro Monat vor dem Rabatt, 11,99 USD pro Monat bei der Verlängerung. Sicherheit und Updates des Servers liegen bei Ihnen.",
+        "**Ein einzelner Agent statt eines Teams**, wenn Sie nur einen Assistenten wollen, zum Beispiel über Telegram oder WhatsApp. Für diese Wahl lesen Sie [OpenClaw bei Hostinger: verwaltet oder VPS? Preis, was jede Option verlangt und für wen sie passt](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) und [OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben](/de/reviews/openclaw-oder-hermes-agent), das die beiden Einzelagenten vergleicht."
+      ],
+      "postParagraphs": [
+        "Zum Vertrauen: Der Code ist öffentlich, das Repository nennt, wer ihn pflegt, und Sicherheitslücken laufen über einen offiziellen GitHub-Kanal. Was fehlt, ist eine unabhängige Prüfung, und die haben wir nicht gefunden. Setzen Sie in jedem Fall die Budgetobergrenze, bevor Sie das Team starten, und seien Sie vorsichtig mit jedem Agenten, der Zugriff auf Ihre Konten hat."
       ]
     },
     {
@@ -227,7 +233,7 @@
         "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Man kann prüfen, dass der Code öffentlich ist, dass das Repository das Team Paperclip (Paperclip Labs, Inc. im Copyright-Hinweis) als verantwortlich nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. Eine unabhängige Prüfung haben wir in den am 21.10.2026 gelesenen Quellen nicht gefunden.",
         "Brauche ich einen API-Schlüssel? Ja. Beim verwalteten Angebot und beim VPS verlangt die Paperclip-Seite, dass Sie Ihre eigenen mitbringen. Auf dem Computer akzeptiert das README auch das Abo von Claude oder Codex, ohne API-Schlüssel.",
         "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Das README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer laufen zu lassen. OpenClaw dokumentiert zum Beispiel lokale Modelle. Bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
-        "Gibt es einen Rabatt über den Empfehlungslink? Ja, ohne Code einzugeben. Der Empfehlungslink von Hostinger gewährt 20 % im ersten Zeitraum bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
+        "Gibt es einen Hostinger-Rabattcode für Paperclip? Sie müssen keinen Code eingeben. Der Empfehlungslink gewährt 20 % im ersten Zeitraum bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
       ]
     },
     {
@@ -258,7 +264,7 @@
     },
     {
       "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
     }
   ],
   "hideFromPortugueseListings": true

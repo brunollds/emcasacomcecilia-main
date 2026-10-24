@@ -3,7 +3,7 @@
   "slug": "paperclip-ai-hostinger-zh-hans",
   "locale": "zh-hans",
   "translationKey": "hostinger-paperclip-ai",
-  "title": "Paperclip AI 是什么：靠不靠谱，以及如何在 Hostinger 上运行",
+  "title": "Paperclip AI 是什么：是否可靠，以及如何在 Hostinger 上托管",
   "seoTitle": "Paperclip AI 靠谱吗？Hostinger 托管还是 VPS",
   "type": "主机指南",
   "category": "guias-praticos-utilidade",
@@ -45,7 +45,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Paperclip 用来组织一支 AI 代理团队，每个代理都有职位、目标和支出上限，但它本身不运行 AI，密钥要你自己提供。在 Hostinger 上可以用托管方案或 VPS 运行。决定因素是谁来管服务器，请看下面“在 Hostinger 上选托管还是 VPS”和“要花多少钱”两章。"
+        "Paperclip 是一个开源工具，用来组织一支 AI 代理团队，每个代理都有职位、目标和支出上限，而 AI 密钥属于你自己。代码以 MIT 许可公开，但我们没有找到独立审计。在 Hostinger 上可以用托管或 VPS 运行，决定因素是谁来管理服务器，请看“怎么选”一章。"
       ]
     },
     {
@@ -60,7 +60,7 @@
       },
       "bullets": [
         "**组织架构图：** 谁向谁汇报的结构。营销代理向负责策略的上级代理汇报，依此类推。",
-        "**Heartbeats（心跳）：** 名称来自“心跳”。代理并不会一直运行。它在收到工作、后续消息或定时任务时被“唤醒”，确认该做什么、去做，然后再进入休眠。",
+        "**Heartbeats（心跳）：** 代理并不会一直运行。它在收到工作、后续消息或定时任务时被“唤醒”，确认该做什么、去做，然后再进入休眠。",
         "**每个代理的预算：** 可以为每个代理、每个项目以及整家公司设定上限。达到上限时，工作会暂停。AI 每次回应都会花钱，这笔费用由模型供应商向你收取。",
         "**审批：** 工作进入下一步前，可以要求审查；新代理的聘用可以由你审批；也可以暂停工作、重新分配任务。",
         "**审计记录：** 操作、状态变化、费用、审批和评论都会被记录。之后可以查看发生了什么，以及原因。"
@@ -78,7 +78,7 @@
         "**在哪里运行。** 由你选择。可以在自己的电脑、自建的服务器，或 Hostinger 的托管方案上运行。项目网站说，自建版本不需要 Paperclip 账号。",
         "**密钥和数据存在哪里。** 取决于使用方式。在 VPS 上，Hostinger 说敏感数据、代理的记忆和 API 凭证“完全保存在你的基础设施内”，也就是你租用的那台服务器。在托管方案上，页面说密钥保存在你的托管实例中。这是 Hostinger 的说法，不是我们的审计结果。",
         "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。在仓库的政策中，我们没有找到支持的版本列表、独立审计或已发布的 advisory。",
-        "**无法肯定的事。** 本指南没有经过验证、公开的安全审计。产品也没有独立评测，或像 Reclame Aqui 这类第三方评价。GitHub 的星标数代表受欢迎程度，不代表安全。能访问你的邮箱、银行或其他账户的代理，不论是哪套软件，都需要格外小心。关于托管的公司，请看 [Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        "**无法肯定的事。** 本指南没有找到经过验证的公开安全审计。我们读过的资料中，也没有关于该产品的独立评测或第三方评级。GitHub 的星标数代表受欢迎程度，不代表安全。能访问你的邮箱、银行或其他账户的代理，不论是哪套软件，都需要格外小心。关于托管的公司，请看 [Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
       ]
     },
     {
@@ -122,7 +122,7 @@
           [
             "备份",
             "Hostinger，依托管页面的说明",
-            "VPS 页面没有说明频率，请在面板中查看"
+            "每周，依 VPS 页面的说明"
           ],
           [
             "数据库（Postgres）",
@@ -144,13 +144,13 @@
       "postParagraphs": [
         "**适合选托管的情况：** 你想不安装任何东西就能用上 Paperclip，不懂 root 和 Docker，并且希望数据库、更新和备份都由 Hostinger 负责。",
         "**适合选 VPS 的情况：** 你想在同一台服务器上运行网站或 n8n（自动化工具）等其他程序，会管理服务器或想学习，并且希望数据库和设置都在自己掌控之下。",
-        "关于退款，VPS 的 180 天规则与 [Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans) 一文相同，该文读的是公司的政策。如果你在过去六个月内申请过 VPS 退款，新购买的 VPS 就没有 30 天的保障。"
+        "关于退款，VPS 的 180 天规则与 [Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么](/zh-hans/reviews/hostinger-trust-guide-zh-hans) 一文相同，该文读的是公司的政策。如果你在过去六个月内申请过 VPS 退款，新购买的 VPS 就没有 30 天的保障。"
       ]
     },
     {
       "heading": "要花多少钱",
       "paragraphs": [
-        "以下是 24 个月套餐的价格，读取日期为 2026年10月21日。托管是“AI 自动化应用”套餐，OpenClaw、Hermes Agent 和 Paperclip 的托管版是同一个套餐、同一个价格。"
+        "以下是 24 个月套餐的价格，读取日期为 2026年10月21日。托管是“AI 自动化应用”套餐，OpenClaw、Hermes Agent 和 Paperclip 的托管版是同一个套餐、同一个价格。推荐价只在托管套餐的页面上显示，VPS 的 20% 要在结账时看到。"
       ],
       "comparisonTable": {
         "headers": [
@@ -195,13 +195,13 @@
       "postParagraphs": [
         "以上是 Hostinger 全球页面上以美元计价的价格。在你所在的国家，可能会显示其他货币和税费。付款前请在结账页面确认金额。",
         "RAM 是服务器的内存，vCPU 是处理器的核心。VPS 套餐越大，内存和运算能力越多。我们读过的页面没有列出 Paperclip 的最低内存需求。KVM 1 是起点，够不够用取决于你要运行多少个代理。",
-        "Hostinger 目前正在进行黑色星期五活动，价格会有变动。请参考 [Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，并在付款前于结账页面确认金额。"
+        "读取价格的 2026年10月21日，Hostinger 正在进行黑色星期五活动，价格会有变动。请参考 [2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？](/zh-hans/reviews/hostinger-black-friday-zh-hans)，并在付款前于结账页面确认金额。"
       ]
     },
     {
       "heading": "推荐链接",
       "paragraphs": [
-        "使用推荐链接不需要输入代码。**只有首期** 享有 **20%** 折扣。适用于 12 个月或以上的套餐，不能与其他优惠券叠加。续费按正常价格计算。完整规则请看 [推荐链接怎么运作](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        "使用推荐链接不需要输入代码。**只有首期** 享有 **20%** 折扣。适用于 12 个月或以上的套餐，不能与其他优惠券叠加。续费按正常价格计算。完整规则请看 [Hostinger 优惠券不用找：推荐链接能拿到什么](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
       ]
     },
     {
@@ -213,9 +213,18 @@
       ]
     },
     {
-      "heading": "另一种选择：单一代理",
+      "heading": "怎么选",
       "paragraphs": [
-        "Paperclip 用来组织一个代理团队。如果你只想要一个助手，例如在 Telegram 或 WhatsApp 上使用，Paperclip 就太多了。这种情况下，可以参考 [Hostinger 上的 OpenClaw，托管还是 VPS](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)，以及比较两款单一代理的 [OpenClaw 还是 Hermes Agent](/zh-hans/reviews/openclaw-vs-hermes-agent-zh-hans)。"
+        "我们的判断，依据是 2026年10月21日官方仓库和 Hostinger 的说明。价格为 24 个月套餐，以美元计。"
+      ],
+      "bullets": [
+        "**先在自己的电脑上试。** 如果你还不确定一支代理团队是否适合你，就从这里开始。安装只需一条命令，唯一的成本是 AI 供应商的收费。",
+        "**托管。** 如果你想不碰服务器就在线使用 Paperclip：推荐链接下每月 US$3.99，续费每月 US$11.99，数据库、更新和备份都由 Hostinger 负责。",
+        "**VPS。** 如果你需要 root 权限、同一台服务器上的其他程序，或者由自己掌控数据库：KVM 1 折前每月 US$6.49 起，续费每月 US$11.99。服务器安全和更新由你负责。",
+        "**只要一个代理，不要团队。** 如果你只想要一个助手，例如在 Telegram 或 WhatsApp 上使用，可以参考 [OpenClaw 在 Hostinger：托管还是 VPS？价格、要做什么，以及适合谁](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)，以及比较两款单一代理的 [OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑](/zh-hans/reviews/openclaw-vs-hermes-agent-zh-hans)。"
+      ],
+      "postParagraphs": [
+        "关于信任：代码是公开的，仓库写明了由谁维护，安全漏洞通过 GitHub 的官方渠道报告。缺少的是独立审计，我们没有找到。无论选哪条路，都请在启动团队前先设定预算上限，并对能访问你账户的代理保持警惕。"
       ]
     },
     {
@@ -225,7 +234,7 @@
         "Paperclip 靠谱吗？ 无法给出定论。我们能确认的是：代码是公开的；仓库把 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）列为负责方；安全问题通过 GitHub 的官方渠道报告。在 2026年10月21日读过的资料来源中，没有找到独立审计。",
         "需要 API 密钥吗？ 需要。在托管和 VPS 上，Paperclip 页面要求你提供自己的密钥。在电脑上运行时，README 也允许使用 Claude 或 Codex 的订阅登录，不需要 API 密钥。",
         "可以用 Ollama 运行吗？ 要看你连接的代理。Paperclip 的 README 没有提到 Ollama（一种在自己电脑上运行 AI 模型的程序）。OpenClaw 有文档说明支持本地模型，但在 Paperclip 中，模型取决于你连接的代理。",
-        "可以用推荐链接拿到折扣吗？ 可以，不需要输入代码。推荐链接会自动套用 20% 折扣，只限首期、12 个月或以上的套餐，不能与其他优惠券叠加。"
+        "Paperclip 有可用的 Hostinger 优惠券吗？ 没有需要输入的代码。推荐链接会在 12 个月或以上套餐的首期提供 20% 折扣，不能与其他优惠券叠加。"
       ]
     },
     {
@@ -252,7 +261,7 @@
     },
     {
       "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-      "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、要做什么，以及适合谁"
+      "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、各自要做什么，以及适合谁"
     },
     {
       "slug": "hostinger-referral-code-zh-hans",

@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Choisissez le géré si vous voulez que l'assistant tourne sans vous occuper d'un serveur, et le VPS si vous voulez un accès root et faire tourner d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API. Tout dépend de la maintenance que vous acceptez ; voyez « Combien ça coûte vraiment » plus bas."
+        "Choisissez le géré si vous voulez que l'assistant tourne sans vous occuper d'un serveur, et le VPS pour un accès root et d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API. Ce qui tranche, c'est la maintenance que vous acceptez ; voyez le chapitre « Qui doit choisir quoi »."
       ]
     },
     {
@@ -60,9 +60,9 @@
       ]
     },
     {
-      "heading": "Géré ou VPS : le tableau",
+      "heading": "Géré ou VPS : ce que donne chacun",
       "paragraphs": [
-        "OpenClaw géré est l'offre « Applications d'automatisation IA », la même que celle des versions gérées d'Hermes Agent et de Paperclip, au même prix. Les valeurs sont celles d'un forfait de 24 mois, relevées le 21 octobre 2026."
+        "L'OpenClaw géré est l'offre « Applications d'automatisation IA », la même que celle qui fait tourner Hermes Agent et Paperclip gérés, au même prix. La colonne VPS correspond au KVM 1, le plus petit forfait. Les prix sont ceux de forfaits de 24 mois sur la page mondiale de Hostinger, en dollars américains, relevés le 21 octobre 2026."
       ],
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-fr.webp",
@@ -77,9 +77,14 @@
         ],
         "rows": [
           [
-            "Prix avec le lien",
+            "Première période, sans le lien",
+            "4,99 US$/mois",
+            "6,49 US$/mois"
+          ],
+          [
+            "Première période, avec le lien de parrainage",
             "3,99 US$/mois",
-            "Affiché dans le panier"
+            "20 % de réduction, affichée dans le panier"
           ],
           [
             "Renouvellement",
@@ -129,7 +134,7 @@
       ],
       "bullets": [
         "**Géré, avec le lien :** 24 × 3,99 US$ = **95,76 US$**. Sans le lien : 24 × 4,99 US$ = 119,76 US$.",
-        "**VPS KVM 1, sans le lien :** 24 × 6,49 US$ = **155,76 US$**.",
+        "**VPS KVM 1, sans le lien :** 24 × 6,49 US$ = **155,76 US$**. La page n'affichait pas le prix avec le lien ; la réduction de 20 % apparaît dans le panier.",
         "**Renouvellement, sur les 24 mois suivants (identique dans les deux cas) :** 24 × 11,99 US$ = 287,76 US$."
       ],
       "postParagraphs": [
@@ -139,55 +144,7 @@
       ]
     },
     {
-      "heading": "Telegram et WhatsApp",
-      "paragraphs": [
-        "Les deux canaux fonctionnent avec les deux options. La différence tient à l'endroit où on les configure. En géré, vous choisissez les canaux dans l'assistant de configuration de Hostinger : pour WhatsApp, vous lisez un QR code ; pour Telegram, vous collez le jeton du bot. Sur le VPS, la configuration comporte des champs facultatifs pour le numéro WhatsApp, avec l'indicatif du pays, et pour le jeton du bot Telegram. La documentation ne montre pas où s'affiche le QR de WhatsApp sur le VPS.",
-        "Pour Telegram, il y a trois étapes :"
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
-        "alt": "Trois étapes pour relier OpenClaw à Telegram : créer le bot dans BotFather et copier le jeton, coller le jeton dans la configuration d'OpenClaw, et envoyer un message pour approuver le premier contact",
-        "caption": "Les étapes de la documentation officielle d'OpenClaw, consultée le 21 octobre 2026."
-      },
-      "bullets": [
-        "Créez le bot dans BotFather, le bot officiel de Telegram pour créer des bots, et copiez le jeton.",
-        "Collez le jeton dans la configuration d'OpenClaw.",
-        "Envoyez un message au bot. Qui n'a pas encore été approuvé reçoit un code d'appairage, et vous approuvez le premier contact dans le panneau d'OpenClaw."
-      ],
-      "postParagraphs": [
-        "Sur WhatsApp, OpenClaw s'ajoute comme un appareil lié, à la manière de WhatsApp Web, et la connexion se fait uniquement par QR code. La documentation recommande d'utiliser un numéro distinct de votre numéro personnel."
-      ]
-    },
-    {
-      "heading": "Sécurité : quand la décision change",
-      "paragraphs": [
-        "La question est de savoir qui s'occupe des données et des identifiants. En géré, Hostinger indique que chaque instance tourne isolée dans un conteneur, avec sa propre passerelle de sécurité. C'est la description de Hostinger, pas un test de notre part. Sur le VPS, Hostinger dit elle-même qu'avec un accès root, la configuration, les mises à jour et la sécurité reviennent à celui qui a souscrit.",
-        "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
-      ],
-      "bullets": [
-        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
-        "**L'assistant aura accès à votre messagerie, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte mail séparée pour l'assistant.",
-        "**Sur le VPS, gardez le jeton de la passerelle** que l'installation génère, et ne l'envoyez jamais dans une conversation avec l'assistant."
-      ]
-    },
-    {
-      "heading": "Qui doit choisir quoi",
-      "paragraphs": [
-        "**Choisissez l'offre gérée si :**"
-      ],
-      "bullets": [
-        "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
-        "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
-        "vous ne savez pas ce que sont root ou Docker ;",
-        "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
-      ],
-      "postParagraphs": [
-        "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
-        "**Dans le doute, commencez par le géré.** Il coûte moins cher sur la première période et ne demande pas de connaissances en serveur."
-      ]
-    },
-    {
-      "heading": "Lien de parrainage et prix avec le lien",
+      "heading": "Lien de parrainage et prix de chaque forfait",
       "paragraphs": [
         "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Il donne **20 % seulement sur la première période**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement se fait au prix normal. La règle complète est expliquée dans [le fonctionnement du lien de parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage).",
         "Prix des forfaits de 24 mois, relevés le 21 octobre 2026 :"
@@ -233,7 +190,55 @@
         ]
       },
       "postParagraphs": [
-        "Ce sont les prix de la page mondiale de Hostinger, en dollars américains. Dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes : vérifiez le panier avant de payer. Les prix changent pendant les campagnes : voyez [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et confirmez le montant dans le panier."
+        "Ce sont les prix de la page mondiale de Hostinger, en dollars américains. Dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes : vérifiez le montant dans le panier avant de payer. Les prix changent pendant les campagnes : voyez [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et contrôlez le prix final."
+      ]
+    },
+    {
+      "heading": "Telegram et WhatsApp",
+      "paragraphs": [
+        "Les deux canaux fonctionnent avec les deux options. La différence tient à l'endroit où on les configure. En géré, vous choisissez les canaux dans l'assistant de configuration de Hostinger : pour WhatsApp, vous lisez un QR code ; pour Telegram, vous collez le jeton du bot. Sur le VPS, la configuration comporte des champs facultatifs pour le numéro WhatsApp, avec l'indicatif du pays, et pour le jeton du bot Telegram. La documentation ne montre pas où s'affiche le QR de WhatsApp sur le VPS.",
+        "Pour Telegram, il y a trois étapes :"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-fr.webp",
+        "alt": "Trois étapes pour relier OpenClaw à Telegram : créer le bot dans BotFather et copier le jeton, coller le jeton dans la configuration d'OpenClaw, et envoyer un message pour approuver le premier contact",
+        "caption": "Les étapes de la documentation officielle d'OpenClaw, consultée le 21 octobre 2026."
+      },
+      "bullets": [
+        "Créez le bot dans BotFather, le bot officiel de Telegram pour créer des bots, et copiez le jeton.",
+        "Collez le jeton dans la configuration d'OpenClaw.",
+        "Envoyez un message au bot. Qui n'a pas encore été approuvé reçoit un code d'appairage, et vous approuvez le premier contact dans le panneau d'OpenClaw."
+      ],
+      "postParagraphs": [
+        "Sur WhatsApp, OpenClaw s'ajoute comme un appareil lié, à la manière de WhatsApp Web, et la connexion se fait uniquement par QR code. La documentation recommande d'utiliser un numéro distinct de votre numéro personnel."
+      ]
+    },
+    {
+      "heading": "Sécurité : quand la décision change",
+      "paragraphs": [
+        "La question est de savoir qui s'occupe des données et des identifiants. En géré, Hostinger indique que chaque instance tourne isolée dans un conteneur, avec sa propre passerelle de sécurité. C'est la description de Hostinger, pas un test de notre part. Sur le VPS, Hostinger dit elle-même qu'avec un accès root, la configuration, les mises à jour et la sécurité reviennent à celui qui a souscrit.",
+        "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
+      ],
+      "bullets": [
+        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
+        "**L'assistant aura accès à votre messagerie, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte mail séparée pour l'assistant.",
+        "**Sur le VPS, gardez le jeton de la passerelle** que l'installation génère, et ne l'envoyez jamais dans une conversation avec l'assistant."
+      ]
+    },
+    {
+      "heading": "Qui doit choisir quoi",
+      "paragraphs": [
+        "Le choix dépend de la maintenance serveur que vous acceptez et de ce que la machine doit faire tourner d'autre. **Choisissez l'offre gérée si :**"
+      ],
+      "bullets": [
+        "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
+        "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
+        "vous ne savez pas ce que sont root ou Docker ;",
+        "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
+      ],
+      "postParagraphs": [
+        "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
+        "**Dans le doute, commencez par le géré.** Aux prix du 21 octobre 2026, il coûte 36 US$ de moins que le KVM 1 sur les 24 premiers mois sans le lien, 3,99 US$/mois avec le lien, et les deux se renouvellent à 11,99 US$/mois. Il ne demande aucune connaissance serveur, et le coût de l'IA est le même dans les deux cas."
       ]
     },
     {
@@ -241,9 +246,15 @@
       "bullets": [
         "L'offre OpenClaw gérée de Hostinger vaut-elle le coup ? Elle s'adresse à ceux qui veulent l'assistant sans s'occuper d'un serveur : le 21 octobre 2026, elle coûte moins cher que le VPS sur la première période et se renouvelle au même prix. Qui veut un accès root et d'autres programmes sur le serveur a intérêt à prendre le VPS.",
         "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
-        "Existe-t-il un code promo Hostinger pour OpenClaw ? Il n'y a pas de code à saisir. La réduction de 20 % passe par le lien de parrainage, seulement sur la première période et sur des forfaits de 12 mois ou plus.",
+        "Existe-t-il un code promo Hostinger pour OpenClaw ? Il n'y a pas de code à saisir. La réduction de 20 % passe par le lien de parrainage, seulement sur la première période et sur des forfaits de 12 mois ou plus, et elle ne se cumule pas avec d'autres codes promo.",
         "Combien coûte-t-il après la première période ? 11,99 US$/mois pour le géré et le KVM 1, et 14,99 US$/mois pour le KVM 2, aux prix du 21 octobre 2026. La réduction du parrainage ne se répète pas au renouvellement.",
         "L'offre gérée fonctionne-t-elle pour Hermes Agent ou Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne liste pas de crédits d'IA : apportez donc votre propre clé."
+      ]
+    },
+    {
+      "heading": "Si vous avez déjà décidé",
+      "paragraphs": [
+        "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo ; le renouvellement se fait au prix normal. Sur les forfaits de 24 mois relevés le 21 octobre 2026, le géré coûte 3,99 US$/mois avec le lien, et le KVM 1 coûte 6,49 US$/mois avant la réduction, qui apparaît dans le panier ; les deux se renouvellent à 11,99 US$/mois. Vérifiez le montant dans le panier avant de payer. Voyez [le fonctionnement du lien de parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage) et [la page Hostinger du site](/fr/coupons/hostinger)."
       ]
     },
     {
