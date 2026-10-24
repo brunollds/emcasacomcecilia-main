@@ -48,6 +48,8 @@ Prints do checkout e do Reclame Aqui em `midia-staging/2026-10-14-onboarding-bla
 
 ## 3. Alertas Editoriais
 
+- **Origem e comparativo com a Dark Lab (24/10/2026):** o site oficial diz "marca brasileira", sede em Embu das Artes (SP), no Brasil desde 2015, desenvolvida "através da Grow Dietary Supplements Labs USA (GDS)"; empresa GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38 (BrasilAPI). Nenhuma fonte primária a liga à Integralmédica. Na série 1 a 1, a Dark Lab entra sem link, cupom, foto ou print, e o caso Bioghen fica fora do texto (Bruno). Briefing [[black-skull-ou-dark-lab]].
+
 > [!WARNING]
 > Em fevereiro de 2025, a Anvisa proibiu 19 produtos manipulados vendidos com o nome Black Skull,
 > feitos por uma farmácia de manipulação (OficialMed, Apucarana/PR). A marca disse que a linha

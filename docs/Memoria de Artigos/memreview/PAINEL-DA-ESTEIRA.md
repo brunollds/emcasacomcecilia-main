@@ -6,6 +6,10 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[black-skull-ou-dark-lab]]: Black Skull ou Dark Lab, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e a origem da Black Skull; Dark Lab sem link, cupom nem foto (PT)
+- [ ] [[snacks-dr-peanut-qual-escolher]]: Doctor Bar, alfajor ou Doctor Wafer: qual snack da Dr. Peanut, por proteína e preço por unidade (e R$ por grama de proteína, conta nossa); alfajor sem composição publicada (PT)
+- [ ] [[dr-peanut-qual-tamanho-compensa]]: Dr. Peanut: 250 g, 600 g, kit ou assinatura, qual tamanho compensa (preço por 100 g, com o cupom; 800 g e 1 kg não existem no site) (PT)
+- [ ] [[alfaiataria-verao-clea-store]]: Alfaiataria de verão da Cléa: blazer, colete, calça e bermuda por tecido (linho, mistura, poliéster) e três conjuntos "monte o seu" (PT)
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
