@@ -1,48 +1,71 @@
 {
   "id": 13,
   "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia",
-  "title": "10 Fatos Surpreendentes Sobre a Air Fryer que Você Não Sabia!",
+  "title": "Air fryer: 10 fatos sobre como funciona e como usar melhor",
+  "seoTitle": "Air fryer: 10 fatos sobre como funciona e como usar",
   "type": "Guia & Curiosidades",
   "category": "guias-praticos-utilidade",
-  "description": "Uma seleção de curiosidades sobre a air fryer, do fluxo de ar quente às comunidades gigantes que transformaram o aparelho em fenômeno.",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Dez fatos sobre a air fryer: como o ar quente em circulação cozinha, quando pré-aquecer, por que não lotar o cesto e como limpar, com receitas para testar.",
+  "metaDescription": "Air fryer: 10 fatos sobre o ar quente em circulação, pré-aquecimento, cesto sem excesso, papel-manteiga e limpeza, com receitas para fazer.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
   "image": "/images/reviews/airfryer-10-fatos-surpreendentes.jpg",
   "imageAlt": "Cecília na cozinha com uma air fryer preta.",
   "imageAspect": "portrait",
-  "pros": [
-    "Conteúdo leve e compartilhável",
-    "Ajuda a contextualizar a popularidade da air fryer",
-    "Boa ponte para receitas e comparativos"
-  ],
-  "cons": [
-    "Algumas curiosidades dependem de contexto histórico e mercado"
-  ],
+  "pros": [],
+  "cons": [],
+  "editorialNote": "Texto informativo, sem parceria e sem teste de aparelho.",
   "contentSections": [
     {
-      "heading": "10 fatos surpreendentes sobre a air fryer",
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A air fryer cozinha com ar quente em circulação, e a maior parte dos bons resultados vem de poucos hábitos: pré-aquecer, não lotar o cesto e limpar sempre. Os dez fatos abaixo juntam a origem do aparelho e dicas de uso, e as dicas práticas começam no quarto fato."
+      ]
+    },
+    {
+      "heading": "10 fatos sobre a air fryer",
       "image": "/images/reviews/fred-van-der-weij-airfryer.avif",
       "imageAlt": "Fred van der Weij, inventor associado ao desenvolvimento da air fryer moderna.",
       "imageCaption": "Fred van der Weij, nome ligado ao desenvolvimento da air fryer moderna pela Philips.",
       "bullets": [
-        "1. A inspiração inusitada do inventor: Fred van der Weij criou a air fryer depois de observar o funcionamento de um secador de cabelo. Ele percebeu que o fluxo de ar quente poderia ser a chave para uma nova forma de cozinhar.",
-        "2. Velocidade impressionante do ar: o ar dentro de uma air fryer circula em alta velocidade, criando o efeito de crocância que faz o aparelho parecer uma fritura sem imersão em óleo.",
-        "3. A verdadeira origem: embora tenha explodido em popularidade recentemente, o conceito de cozinhar com ar quente já vinha sendo desenvolvido antes do lançamento comercial moderno.",
-        "4. Festival exclusivo na Austrália: em 2022, aconteceu um festival gastronômico dedicado a pratos feitos na air fryer, mostrando como o aparelho virou tema de comunidade e criatividade culinária.",
-        "5. Adaptações culturais curiosas: diferentes países passaram a desenvolver modelos e usos próprios, como preparos para tempurá, especiarias ou receitas mais robustas para famílias.",
-        "6. Economia surpreendente: em alguns preparos, a air fryer pode consumir menos energia que um forno tradicional, especialmente por aquecer rápido e trabalhar com espaço interno menor.",
-        "7. Fenômeno de vendas: a air fryer se tornou um dos eletrodomésticos mais desejados dos últimos anos, impulsionada por praticidade, promessas de menos óleo e presença forte nas redes sociais.",
-        "8. Comunidade online gigantesca: receitas, testes, erros, dicas e comparativos transformaram a air fryer em tema constante em grupos, perfis e vídeos de cozinha.",
-        "9. Recorde de patentes e inovação: nos anos seguintes ao crescimento do produto, surgiram muitos registros e variações relacionados à tecnologia, cestos, circulação de ar e funções extras.",
-        "10. O futuro é agora: a próxima geração já caminha para conectividade Wi-Fi, reconhecimento automático de alimentos, controle por voz e sistemas de limpeza mais inteligentes."
+        "1. A origem é holandesa: a air fryer moderna foi desenvolvida por Fred van der Weij, a partir de 2005, e lançada pela Philips em 2010. A história completa está em [História da air fryer](/reviews/airfryer-uma-breve-historia).",
+        "2. A ideia é mais antiga: nos anos 1940, o Whirlwind Oven, de William L. Maxson, já cozinhava com ar forçado, mas não chegou ao mercado de massa.",
+        "3. O segredo é a circulação do ar: o ar quente passa em alta velocidade pelo cesto, e é isso que doura a superfície e dá a crocância sem imergir o alimento em óleo.",
+        "4. Pré-aquecer ajuda: ligar o aparelho uns minutos antes de colocar a comida costuma dar um dourado mais parecido de um preparo para outro. Confira o que o manual do seu modelo recomenda.",
+        "5. Não lotar o cesto: o ar precisa circular entre os pedaços. Cesto cheio demais cozinha de forma desigual, e fazer em duas levas funciona melhor.",
+        "6. Seque e chacoalhe: alimento seco por fora doura mais e, em preparos como batata, sacudir o cesto no meio do tempo ajuda a dourar por igual.",
+        "7. Pouco óleo, não necessariamente nenhum: muitos preparos ficam bons com pouco ou nenhum óleo, mas o resultado depende do alimento. Um fio de óleo costuma ajudar em legumes e batatas.",
+        "8. Papel-manteiga com cuidado: se usar papel no cesto, deixe o alimento por cima para segurá-lo e não ligue o aparelho com o papel solto, porque o ar em movimento pode levantá-lo até a resistência. Use só papel próprio para forno ou air fryer.",
+        "9. Dá para fazer mais que fritura: assar, gratinar e preparar sobremesas também funciona. Um exemplo é o [bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer).",
+        "10. A limpeza é parte do uso: lave o cesto depois de cada uso, com o aparelho frio, e siga o manual para as peças. Gordura acumulada pode fumegar no próximo preparo."
+      ]
+    },
+    {
+      "heading": "Receitas de air fryer para testar",
+      "paragraphs": [
+        "Para colocar os fatos em prática, comece por uma destas receitas do site:"
+      ],
+      "bullets": [
+        "[Batatas rústicas crocantes na air fryer](/receitas/batatas-rusticas-crocantes-na-air-fryer)",
+        "[Chips de batata-doce na air fryer](/receitas/chips-de-batata-doce-na-air-fryer)",
+        "[Trouxinha de cheddar na air fryer](/receitas/trouxinha-de-cheddar-na-air-fryer)",
+        "[Nozes crocantes com mel e especiarias na air fryer](/receitas/nozes-crocantes-com-mel-e-especiarias-na-air-fryer)",
+        "[Bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer)"
       ]
     },
     {
       "heading": "Conclusão",
       "paragraphs": [
-        "A air fryer não é apenas uma moda passageira; ela representa uma mudança significativa nas práticas culinárias contemporâneas. Com sua capacidade de oferecer refeições saborosas e crocantes com menos gordura, esse eletrodoméstico se consolidou como um aliado na busca por uma alimentação mais prática e equilibrada.",
-        "À medida que novas tecnologias continuam a surgir, é provável que as air fryers continuem a evoluir e a desempenhar um papel central nas cozinhas ao redor do mundo.",
-        "Saciou sua curiosidade sobre air fryers? Se não, vale conhecer também a história por trás da sua criação."
+        "A air fryer rende mais quando você entende o que ela faz: circular ar quente em volta do alimento. Pré-aquecer, não lotar o cesto e limpar sempre resolvem a maior parte dos problemas.",
+        "Quer saber de onde veio o aparelho? Leia a [história da air fryer](/reviews/airfryer-uma-breve-historia)."
       ]
     }
   ]

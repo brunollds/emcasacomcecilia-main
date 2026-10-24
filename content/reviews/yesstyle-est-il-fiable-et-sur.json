@@ -27,6 +27,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? »."
+      ]
+    },
+    {
       "heading": "Informations publiques sur l'entreprise",
       "paragraphs": [
         "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
@@ -84,6 +90,13 @@
       ]
     },
     {
+      "heading": "Peut-on faire confiance à YesStyle ?",
+      "paragraphs": [
+        "Oui, avec les vérifications habituelles. YesStyle est basée à Hong Kong, existe depuis 2006 et est une filiale de YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK). Elle se dit distributeur autorisé de plus de 400 marques de beauté coréenne, mais nous n'avons trouvé aucun audit indépendant de cette affirmation.",
+        "En pratique : commandez uniquement sur yesstyle.com, vérifiez les délais à la validation du panier et, à la livraison, contrôlez le lot, la date de péremption et le scellé."
+      ]
+    },
+    {
       "heading": "Code récompense et réduction supplémentaire",
       "paragraphs": [
         "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
@@ -109,7 +122,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Revue éditoriale indépendante. L'utilisation du code CECILIA010 s'inscrit dans le cadre d'un partenariat d'affiliation.",
+  "editorialNote": "Données publiques. Le code CECILIA010 vient d'un partenariat d'affiliation.",
   "relatedArticles": [
     {
       "slug": "code-recompense-yesstyle-cecilia010",

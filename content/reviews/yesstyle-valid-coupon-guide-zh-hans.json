@@ -67,7 +67,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "本文包含赞助联盟链接。如果您通过我们的链接购买或使用 CECILIA010 代码，我们可能会获得佣金，对您无需支付额外费用。",
+  "editorialNote": "含联盟链接：通过 YesStyle 和 CECILIA010 购物，我们可能获得佣金。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hans",
@@ -75,6 +75,12 @@
     }
   ],
   "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。YesStyle 的促销优惠码填入 Coupon Code 栏位，很快会过期。两个栏位的操作步骤从“步骤 1：通过官方链接前往商店”开始。"
+      ]
+    },
     {
       "heading": "为什么网络上大多数 YesStyle 优惠码都无法使用？",
       "paragraphs": [
@@ -123,7 +129,7 @@
       ]
     },
     {
-      "heading": "步骤 1 — 通过官方链接前往商店",
+      "heading": "步骤 1：通过官方链接前往商店",
       "paragraphs": [
         "使用 Cecília 的官方专属链接开启 YesStyle。这有助于在结账输入代码前正确记录推荐关系。"
       ],
@@ -136,7 +142,7 @@
       ]
     },
     {
-      "heading": "步骤 2 — 将商品加入购物车",
+      "heading": "步骤 2：将商品加入购物车",
       "paragraphs": [
         "选择您喜爱的韩国护肤品或彩妆，将其放入购物车。"
       ],
@@ -146,19 +152,19 @@
       "imageFit": "cover"
     },
     {
-      "heading": "步骤 3 — 在 Coupon Code 栏位输入促销代码",
+      "heading": "步骤 3：在 Coupon Code 栏位输入促销代码",
       "paragraphs": [
         "在结账页面找到 \"Coupon Code\" 区块，输入正在进行的促销代码，然后点击 \"Apply\"。"
       ]
     },
     {
-      "heading": "步骤 4 — 在 Reward Code 栏位粘贴 CECILIA010 代码",
+      "heading": "步骤 4：在 Reward Code 栏位粘贴 CECILIA010 代码",
       "paragraphs": [
         "在同一结账页面的 \"Reward Code / Influencer Code\" 区块中输入 CECILIA010，然后点击 \"Apply\"。"
       ]
     },
     {
-      "heading": "步骤 5 — 确认叠加折扣并完成订单",
+      "heading": "步骤 5：确认叠加折扣并完成订单",
       "paragraphs": [
         "检查最终订单摘要，确认两项折扣（促销码 ＋ CECILIA010）皆已成功显示后再付款。"
       ],
@@ -188,7 +194,7 @@
       ]
     },
     {
-      "heading": "FAQ — YesStyle 优惠码常见问题",
+      "heading": "YesStyle 优惠码常见问题",
       "bullets": [
         "Coupon Code 与 Reward Code 有何不同？ Coupon Code 是 YesStyle 发行的临时促销代码。CECILIA010 是填入 Reward Code 栏位的网红代码，可额外享高达 5% 折扣（首购5%/复购2%）。活动允许时两者可叠加。",
         "什么是 YesStyle 网红代码？ 它是奖励码（Reward Code），须填入结账页面专属的独立栏位，与 Coupon Code 栏位分开。我们的代码是 CECILIA010：首次订单享 5% 折扣，之后的订单享 2% 折扣。",

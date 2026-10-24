@@ -27,6 +27,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "快速解答",
+      "paragraphs": [
+        "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。"
+      ]
+    },
+    {
       "heading": "上市公司企业背景",
       "paragraphs": [
         "YesStyle Limited 成立于 2006 年，总部位于香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代码：2209.HK）旗下的电商平台。作为上市公司子公司，其运营与财务均受严格监管及定期审计。",
@@ -72,6 +78,13 @@
       ]
     },
     {
+      "heading": "可以信任 YesStyle 吗？",
+      "paragraphs": [
+        "可以，但要照常检查。YesStyle 总部在香港，2006 年创立，隶属香港交易所上市的 YesAsia Holdings（2209.HK）。平台称自己是 400 多个韩国美妆品牌的授权经销商，但我们没有找到能证实这一说法的独立审核。",
+        "实际操作：只在 yesstyle.com 下单，结账前确认运送时间与运费，收货时检查批号、有效期和封条。"
+      ]
+    },
+    {
       "heading": "奖励码额外折扣",
       "paragraphs": [
         "结账时于“奖励码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。CECILIA010 代码没有到期日，只要与 YesStyle 的合作持续就会保持有效；使用此代码不会为买家带来额外费用。"
@@ -94,7 +107,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "本文章为独立编辑评论。使用 CECILIA010 代码包含联盟营销合作关系。",
+  "editorialNote": "依据公开资料撰写。CECILIA010 代码来自联盟营销合作。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hans",

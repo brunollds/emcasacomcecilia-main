@@ -27,6 +27,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "まずは結論",
+      "paragraphs": [
+        "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場するYesAsia Holdings傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。"
+      ]
+    },
+    {
       "heading": "企業情報と透明性",
       "paragraphs": [
         "YesStyle Limitedは2006年に設立された香港拠点のECプラットフォームです。香港証券取引所上場企業であるYesAsia Holdings Limited（証券コード 2209.HK）の傘下であり、定期的な会計監査を受ける公開企業です。",
@@ -85,6 +91,13 @@
       ]
     },
     {
+      "heading": "YesStyleは信頼できる？",
+      "paragraphs": [
+        "はい、ただし通常の確認は必要です。YesStyleは香港に拠点を置き、2006年から事業を続け、香港証券取引所上場のYesAsia Holdings（2209.HK）の傘下にあります。400以上の韓国コスメブランドの正規販売店と説明していますが、この主張を裏付ける第三者の監査は確認できませんでした。",
+        "実際には、yesstyle.comで注文し、カート画面でお届け日数と送料を確認し、お届け時にロット番号、使用期限、封を確認してください。"
+      ]
+    },
+    {
       "heading": "リワードコードで追加割引",
       "paragraphs": [
         "Em Casa com CecíliaはYesStyleと公式アフィリエイトパートナーシップを結んでいます。チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフの追加割引が適用されます。通常のプロモーションクーポンと併用可能です。",
@@ -109,7 +122,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "本記事は独立した編集レビューです。コード CECILIA010 の利用はアフィリエイトパートナーシップに基づきます。",
+  "editorialNote": "公開情報に基づく記事です。コード CECILIA010 はアフィリエイト提携によるものです。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ja",
