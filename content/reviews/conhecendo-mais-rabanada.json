@@ -8,8 +8,9 @@
   "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
-  "image": "/images/reviews/conhecendo-mais-rabanada.avif",
-  "imageAlt": "Rabanadas servidas em um prato com açúcar e canela.",
+  "image": "/images/reviews/rabanada/rabanada-capa-discover.webp",
+  "imageAlt": "Rabanada recheada de doce de leite aberta nas mãos da Cecília e fatias de pão fritando na panela",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/DSH6TZyiMms?si=kchxcuEg9MF7B2bG",
   "pros": [

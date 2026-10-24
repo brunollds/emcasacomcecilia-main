@@ -8,9 +8,10 @@
   "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
-  "image": "/images/reviews/manteiga-batida-aerada.jpg",
-  "imageAlt": "Manteiga batida em uma tigela de batedeira.",
-  "imageAspect": "portrait",
+  "image": "/images/reviews/manteiga/manteiga-batida-capa-discover.webp",
+  "imageAlt": "Teste da manteiga batida com leite: o leite separando da gordura na tigela e a manteiga aerada pronta na colher",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/pftnU5mPuGU?si=xxXnKMlf0vDTayVy",
   "pros": [
     "Explica o que deu errado na prática",

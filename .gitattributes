@@ -149,7 +149,9 @@ public/images/recipes/sobremesas/torta-de-chocolate-com-morango.jpg -text export
 public/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg -text export-ignore
 public/images/recipes/sopas/sopa.jpg -text export-ignore
 public/images/recipes/tortas/torta.jpg -text export-ignore
+public/images/reviews/airfryer-10-fatos-capa-discover.webp -text export-ignore
 public/images/reviews/airfryer-10-fatos-surpreendentes.jpg -text export-ignore
+public/images/reviews/airfryer-historia-capa-discover.webp -text export-ignore
 public/images/reviews/airfryer-linha-do-tempo.webp -text export-ignore
 public/images/reviews/airfryer-uma-breve-historia.jpg -text export-ignore
 public/images/reviews/bagaggio/bagaggio-cartagena-preta.webp -text export-ignore
@@ -799,6 +801,7 @@ public/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp -te
 public/images/reviews/mais-mu/mais-mu-rodape-cnpj.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp -text export-ignore
 public/images/reviews/manteiga-batida-aerada.jpg -text export-ignore
+public/images/reviews/manteiga/manteiga-batida-capa-discover.webp -text export-ignore
 public/images/reviews/manteiga/manteiga-batida-colheradas-batedeira.webp -text export-ignore
 public/images/reviews/manteiga/manteiga-batida-leite-espirrando.webp -text export-ignore
 public/images/reviews/manteiga/manteiga-batida-leite-por-fora.webp -text export-ignore
@@ -952,6 +955,7 @@ public/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp -text export-
 public/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp -text export-ignore
 public/images/reviews/probiotica/probiotica-rodape-cnpj.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-caminho-ilustracao.webp -text export-ignore
+public/images/reviews/rabanada/rabanada-capa-discover.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-cecilia-acucar-canela.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-cecilia-cortando-pao.webp -text export-ignore
 public/images/reviews/rabanada/rabanada-cecilia-fritura.webp -text export-ignore
