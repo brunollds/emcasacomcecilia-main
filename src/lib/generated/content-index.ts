@@ -29456,8 +29456,8 @@ export const reviewsData: unknown[] = [
           "Reunimos as dúvidas mais comuns enviadas por leitoras sobre como usar o código da Cecília e economizar nas compras de K-beauty."
         ],
         "bullets": [
-          "O CECILIA010 é um cupom de desconto? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
-          "Posso usar o CECILIA010 junto com cupons? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
+          "O CECILIA010 é cupom ou código de recompensa? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
+          "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
           "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
           "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 150 países e regiões, produtos autênticos, criptografia SSL.",
           "Quanto tempo demora para chegar no Brasil? O prazo estimado aparece no checkout, depois do CEP. O tempo na alfândega pode adicionar dias extras.",
@@ -31614,7 +31614,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
-          "Essa técnica pode aumentar o volume em aproximadamente 20%, mantendo textura adequada e agregando sabor. A manteiga em temperatura ambiente permite que o azeite se incorpore melhor, criando uma mistura mais estável.",
+          "Essa técnica rende mais com a mesma quantidade de manteiga, mantendo textura adequada e agregando sabor. A manteiga em temperatura ambiente permite que o azeite se incorpore melhor, criando uma mistura mais estável.",
           "Ghee caseiro: derreta 200 g de manteiga em fogo muito baixo, deixe cozinhar lentamente até formar espuma na superfície, retire essa espuma e separe a parte translúcida dourada.",
           "O ghee rende menos em volume, mas oferece sabor mais concentrado, dura mais e pode gerar economia a longo prazo porque você usa menor quantidade nos preparos."
         ]
@@ -31650,7 +31650,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dicas práticas para economizar manteiga",
         "bullets": [
           "Para frituras, use metade da quantidade de manteiga indicada e complete com óleo de girassol ou canola.",
-          "Essa combinação mantém parte do sabor da manteiga, mas com economia significativa.",
+          "Essa combinação mantém parte do sabor da manteiga e gasta menos dela.",
           "Em receitas de bolos e biscoitos, substitua até 30% da manteiga por óleo vegetal, quando a receita permitir, sem comprometer o resultado.",
           "Congele manteiga em porções pequenas, embrulhadas em papel manteiga e depois em papel alumínio.",
           "Mantenha uma porção pequena na geladeira e o restante no congelador.",
@@ -31793,7 +31793,7 @@ export const reviewsData: unknown[] = [
           "Cobertura especial com calda de caramelo ou chocolate.",
           "Versão assada, sem fritura.",
           "Pão brioche para uma rabanada mais macia e sofisticada.",
-          "Cada região tem sua própria versão: pain perdu na França, french toast na Inglaterra e eggy bread nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
+          "Cada região tem sua própria versão: pain perdu na França, eggy bread na Inglaterra e french toast nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
         ]
       }
     ]
@@ -31899,7 +31899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A air fryer cozinha com ar quente em circulação, uma ideia que já aparece nos anos 1940. O holandês Fred van der Weij desenvolveu a versão moderna a partir de 2005, e a Philips a lançou em 2010, em Berlim. O capítulo sobre o funcionamento explica a crocância."
+          "A air fryer cozinha com ar quente em circulação, uma ideia que já aparece nos anos 1940. O holandês Fred van der Weij desenvolveu a versão moderna a partir de 2005, e a Philips a lançou em 2010, em Berlim. O capítulo Como a air fryer funciona explica a crocância."
         ]
       },
       {
@@ -32013,7 +32013,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Dois motores independentes",
       "Ajuste manual de pescoço",
-      "Base giratória 360°",
+      "Base giratória",
       "Couro bovino ou linho italiano",
       "Cupom CECILIA12 disponível"
     ],
@@ -32059,13 +32059,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Base giratória 360°, bivolt e montagem simples",
+        "heading": "Base giratória, bivolt e montagem simples",
         "image": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
         "imageAlt": "Vista lateral da Cecília sentada na Poltrona Levita.",
         "imageCaption": "Perfil da poltrona mostrando o acabamento e o encosto.",
         "imageFit": "portrait",
         "paragraphs": [
-          "Segundo a página oficial da Damie, a base da Levita gira 360° e tem acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
+          "Segundo a página oficial da Damie, a base da Levita gira 360° (a FAQ oficial fala em até 280°) e tem acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
           "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
           "A montagem também é simples: a poltrona vai praticamente montada, e o principal é ligar o fio direto na tomada. Ainda assim, por ser uma peça premium e elétrica, vale posicionar com cuidado, medir espaço de abertura e garantir uma tomada próxima."
         ]
@@ -32611,7 +32611,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A poltrona reclinável da Damie é um convite ao relaxamento. Com um toque, ajustamos o encosto e o apoio para os pés, encontrando a posição perfeita para assistir filmes, ler ou descansar. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
           "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
-          "A estrutura transmite segurança e durabilidade, cumprindo exatamente o que a Damie promete em suas propagandas."
+          "A estrutura segue firme, até aqui sem sinais de desgaste."
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
@@ -32631,7 +32631,7 @@ export const reviewsData: unknown[] = [
         "heading": "Um Uso Especial: Amamentação do Meu Filho Ian",
         "paragraphs": [
           "Uma das surpresas mais felizes foi descobrir como a poltrona é perfeita para a amamentação. Desde o nascimento do meu filho, Ian, tenho usado a poltrona reclinável diariamente.",
-          "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, garantindo conforto e segurança enquanto amamento, especialmente durante a madrugada. O movimento silencioso não acorda o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
+          "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, o que deixa a amamentação mais confortável, especialmente durante a madrugada. Na nossa casa, o movimento silencioso não acordou o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
           "O tecido linho respirável mantém o conforto mesmo em dias quentes, tornando esses momentos ainda mais especiais. Se você é mãe ou está esperando um bebê, a poltrona reclinável da Damie é uma aliada incrível, indo além do conforto convencional."
         ],
         "image": {
@@ -34097,7 +34097,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo final, Dá para confiar?"
+          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo Dá para confiar na I Wanna Sleep?"
         ]
       },
       {
@@ -34337,7 +34337,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 227,
     "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeiras noites",
+    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite",
     "seoTitle": "Cobertor Igloo IWS é bom? O lado gelado na prática e tamanhos",
     "type": "Editorial",
     "category": "produtos-experiencias",
@@ -34376,7 +34376,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nas primeiras noites, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+          "Na primeira noite, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
         ]
       },
       {
@@ -34446,7 +34446,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem vale a pena",
         "paragraphs": [
-          "Pelas primeiras noites e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
+          "Pela primeira noite e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
         ],
         "bullets": [
           "Sente calorão no meio da noite e hoje precisa se levantar pra trocar de cobertor ou ligar o ar-condicionado.",
@@ -34476,8 +34476,8 @@ export const reviewsData: unknown[] = [
           "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
-          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
-          "O Cobertor IWS Igloo realmente funciona para casais com temperaturas diferentes? Sim, essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. A tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
+          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM), segundo a marca, dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A proposta é dispensar a troca de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
+          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. Segundo a marca, a tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
           "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
           "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
           "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período."
@@ -35444,7 +35444,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto hoje: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e a máquina avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
+    "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e a máquina avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
     "metaDescription": "Mini Me Dolce Gusto: combos com máquina, combo com 20 caixas (R$ 797,00) e avulsa (R$ 419,90). Veja quando compensa e o cupom CECI.",
     "publishedAt": "29 Jun 2026",
     "publishedAtISO": "2026-06-29",
@@ -35485,11 +35485,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Hoje dá para ganhar a Mini Me nos combos da loja oficial (só com cápsulas ORIGINAL) ou levá-la no combo Mini Me 2.0 com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
+          "Na loja oficial, dá para ganhar a Mini Me nos combos da loja oficial (só com cápsulas ORIGINAL) ou levá-la no combo Mini Me 2.0 com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
         ]
       },
       {
-        "heading": "Como ganhar ou comprar a Mini Me hoje",
+        "heading": "Como ganhar ou comprar a Mini Me",
         "paragraphs": [
           "Na loja oficial da NESCAFÉ Dolce Gusto, a página de combos com máquina traz o selo \"Ganhe máquina Mini Me\". A oferta vale apenas para cápsulas ORIGINAL e pode ser parcelada em até 10x sem juros. O número de caixas exigido aparece no carrinho, não na página.",
           "Há outro caminho: o combo Mini Me 2.0 com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negócios\". A Mini Me 2.0 avulsa custa R$ 419,90, em Terracota, Cinza Chumbo, Cinza Gelo e Preto Onyx. Preços lidos na loja em 24/10/2026."
@@ -35524,13 +35524,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
           "Mini Me 2.0 avulsa: R$ 419,90.",
-          "Mini Me da geração anterior: R$ 579,90, também avulsa."
+          "Mini Me da geração anterior: R$ 579,90 avulsa, mais cara que a 2.0 na loja naquele dia."
         ]
       },
       {
         "heading": "O gatilho de 50 a 70 caixas ficou no histórico",
         "paragraphs": [
-          "Em junho e julho de 2026, a promoção exigia entre 50 e 70 caixas ORIGINAL para ganhar a Mini Me; em 16 de julho de 2026, eram 60. Na leitura de 24/10/2026, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
+          "Em junho de 2026, a promoção exigia 55 caixas ORIGINAL para ganhar a Mini Me; em 16 de julho de 2026, eram 60. Na leitura de 24/10/2026, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
         ]
       },
       {
@@ -35555,8 +35555,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
-          "Consumo esporádico: Mini Me 2.0 avulsa e cápsulas conforme o uso.",
-          "Sempre confirme as condições no site oficial antes de finalizar o pedido."
+          "Consumo esporádico: Mini Me 2.0 avulsa e cápsulas conforme o uso."
         ]
       }
     ],
@@ -38047,7 +38046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Dolce Gusto, 1 barra do painel rende cerca de 35 a 40 ml, 4 barras cerca de 110 a 120 ml, 7 barras cerca de 200 a 220 ml, e o XL chega a 300 ml na Genio S Touch. A Nestlé não publica tabela oficial única, então são faixas de referência; veja a tabela de referência abaixo."
+          "Na Dolce Gusto, 1 barra do painel rende cerca de 35 a 40 ml, 4 barras cerca de 110 a 120 ml, 7 barras cerca de 200 a 220 ml, e o XL chega a 300 ml na Genio S Touch. A Nestlé não publica tabela oficial única, então são faixas de referência; veja a Tabela de referência."
         ]
       },
       {
@@ -38060,7 +38059,7 @@ export const reviewsData: unknown[] = [
           "2 barras (2 níveis): cerca de 50 ml a 60 ml, exemplos de espresso tradicional",
           "3 barras (3 níveis): cerca de 80 ml a 90 ml, exemplos de espresso duplo ou bebidas curtas com leite",
           "4 barras (4 níveis): cerca de 110 ml a 120 ml, exemplos de lungo ou etapa de café do cappuccino",
-          "5 barras (5 níveis): cerca de 140 ml a 150 ml, exemplos de Café au Lait ou chá",
+          "5 barras (5 níveis): cerca de 140 ml a 150 ml, exemplos de Café au Lait Desnatado ou chá",
           "6 barras (6 níveis): cerca de 170 ml a 180 ml, exemplos de bebidas médias com leite ou chocolate",
           "7 barras (7 níveis): cerca de 200 ml a 220 ml, exemplos de cafés grandes e bebidas longas",
           "Função XL: 300 ml nos manuais consultados, tamanho máximo extra grande"
@@ -38275,7 +38274,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é uma empresa pública com operações fiscalizadas e auditadas.",
+          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é listada na bolsa de Hong Kong.",
           "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
         ],
         "bullets": [],
@@ -38287,7 +38286,7 @@ export const reviewsData: unknown[] = [
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
           "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
-          "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
+          "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é uma informação pública sobre quem controla a loja."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38354,7 +38353,7 @@ export const reviewsData: unknown[] = [
           "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
           "Qual o prazo de entrega da YesStyle para o Brasil? A loja não publica prazo para o Brasil: ele aparece no checkout, antes de pagar. Como o prazo é contado está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "YesStyle cobra impostos de importação para o Brasil? O imposto pode ser cobrado na chegada do pacote. A YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja.",
-          "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
+          "O código CECILIA010 muda o preço final do produto? Sim. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
           "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, carteiras locais. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
@@ -38701,7 +38700,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Genio S",
-          "Genio S Touch (a mesma que temos em casa e já testamos)",
+          "Genio S Touch (a mesma que temos em casa)",
           "Genio S Plus",
           "Infinissima",
           "Infinissima Touch",
@@ -38768,7 +38767,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
           "Se você consome pouquíssimo café, pode não compensar o investimento: nesse caso, as cápsulas ORIGINAL comuns já atendem.",
-          "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
+          "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch, que é compatível com o adaptador.",
           "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
         ]
       },
@@ -40713,7 +40712,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O modo de uso do rótulo é uma gota por via oral antes de dormir. Veja ingredientes, cuidados e preços na ficha abaixo."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O modo de uso do rótulo é uma gota por via oral antes de dormir. Ingredientes e cuidados estão na Ficha técnica, e os preços, em Preço e kits com o cupom."
         ]
       },
       {
@@ -40741,7 +40740,7 @@ export const reviewsData: unknown[] = [
           "**Modo de uso:** 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. A página oficial não fixa um intervalo de minutos antes de deitar e não indica reter o líquido sob a língua nem diluí-lo.",
           "**Ingredientes:** água purificada, melatonina, agente de massa glicerina vegetal, aromatizante natural de maracujá e acidulante ácido cítrico.",
           "**Perfil:** sem glúten, sem lactose, sem adição de açúcares e vegano, segundo o fabricante.",
-          "**Validade e conservação:** conferir na embalagem, inclusive os cuidados depois de aberto. Os cerca de 750 gotas do frasco dependem disso."
+          "**Validade e conservação:** conferir na embalagem, inclusive os cuidados depois de aberto. As cerca de 750 gotas do frasco dependem disso."
         ]
       },
       {
@@ -40903,7 +40902,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Design compacto e acabamento Terracota moderno que valoriza a bancada",
       "Controles de temperatura e preparo com dosagem automática por barras, que ajudam a respeitar o volume selecionado (desde que a xícara comporte a bebida escolhida)",
-      "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia)",
+      "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia, segundo a fabricante)",
       "Pressão de 15 bar que gera boa extração de crema para cafés e bebidas"
     ],
     "cons": [
@@ -40952,7 +40951,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
-          "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, reduzindo o consumo de energia em até 20%.",
+          "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
           "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
           "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
           "**Pingamento pós-preparo:** Após a interrupção do fluxo de água, a cápsula perfurada pode continuar liberando líquido por um período prolongado. Por isso, vale manter limpa a bandeja removível que apoia xícaras e copos e retém esse excedente."
@@ -40996,7 +40995,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a Dolce Gusto Mini Me 2.0? O painel tem um botão para selecionar a temperatura e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula e interrompe o fluxo ao atingir o volume selecionado.",
-          "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, reduzindo o consumo de energia em até 20%.",
+          "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
           "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
@@ -43868,7 +43867,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comprar uma cafeteira de cápsulas não é apenas adquirir um eletroportátil para a bancada: é escolher um ecossistema de consumo para os próximos anos.",
           "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma foi concebida para perfis de paladar e hábitos distintos, e compreender essas diferenças evita deixar a máquina parada sem uso.",
-          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira; Original e Vertuo na segunda: que também não se cruzam."
+          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
@@ -43981,7 +43980,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.",
-          "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ: marca que também pertence ao grupo Nestlé: produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
+          "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ (marca que também pertence ao grupo Nestlé), produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
           "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e ainda oferece menos blends puros que a Nespresso.",
           "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."
         ],
@@ -44092,7 +44091,7 @@ export const reviewsData: unknown[] = [
           "Qual a diferença entre Nespresso Original e Vertuo? A Original usa cápsulas clássicas de alumínio a 19 bar com compatíveis no mercado. A Vertuo usa cápsulas semiesféricas lidas por código de barras com rotação centrífuga, em formatos maiores e sem marcas compatíveis de terceiros.",
           "Nespresso Essenza Mini ou Vertuo Pop: qual escolher? A Essenza Mini pertence ao sistema Original e é a opção mais coerente para espresso e lungo, inclusive com cápsulas compatíveis. A Vertuo Pop pertence ao sistema Vertuo, prepara mais volumes de café e aceita somente cápsulas Vertuo. A escolha muda o ecossistema de cápsulas, não apenas o tamanho da máquina.",
           "NESCAFÉ Farmers Origins é cápsula Nespresso? Não é uma linha da Nespresso. É uma cápsula da NESCAFÉ, também do grupo Nestlé, compatível com máquinas Nespresso Original. Pode ser uma forma mais econômica de usar o sistema, mas não funciona em máquinas Vertuo.",
-          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, usamos o app para iniciar o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
+          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, o app inicia o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
           "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto em compras a partir de R$ 100 no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
@@ -44278,7 +44277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita: minha experiência com a poltrona em casa",
         "paragraphs": [
-          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e giro de até 280°.",
+          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória (360° na página oficial, até 280° na FAQ).",
           "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora remove a tomada da equação, mas usa uma alavanca e um puff deslocável. São características para comparar com a planta da casa e a rotina, não um ranking de conforto.",
           "A foto abaixo me mostra usando a Levita em casa."
         ],
@@ -45030,7 +45029,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Média simples da amostra por 100 ml",
-              "Clássica: aproximadamente R$ 2,64",
+              "Clássica: aproximadamente R$ 2,64 (inclui bebidas de até 145 ml, por isso fica abaixo do espresso)",
               "Original oficial: aproximadamente R$ 9,67"
             ],
             [
@@ -45122,7 +45121,7 @@ export const reviewsData: unknown[] = [
         "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
         "paragraphs": [
           "A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:",
-          "Espaço e visual: na largura, quase empatam: as Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
+          "Espaço e visual: na largura, quase empatam. As Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
           "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."
         ],
@@ -45147,7 +45146,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e cupons ativos",
         "paragraphs": [
-          "Confira as opções oficiais e links de varejo com condições verificadas para a sua compra: Como associado da Amazon, ganhamos com compras qualificadas."
+          "Confira as opções oficiais e links de varejo com condições verificadas para a sua compra. Como associado da Amazon, ganhamos com compras qualificadas."
         ],
         "bullets": [],
         "links": [
@@ -45376,7 +45375,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Costura em gomos térmicos compartimentados: o desenho geométrico em gomos evita o deslocamento interno do enchimento, garantindo aquecimento homogêneo dos ombros até a ponta dos pés sem criação de zonas frias;",
-          "O cobertor que vira almofada: quando fechado no compartimento integrado com zíper, transforma-se em uma almofada firme e ergonômica para apoio lombar no sofá ou leitura na poltrona;",
+          "O cobertor que vira almofada: quando fechado no compartimento integrado com zíper, transforma-se em uma almofada que serve de apoio às costas no sofá ou leitura na poltrona;",
           "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
           "Lavagem e secagem ultrarrápida: cabe perfeitamente em máquinas de lavar residenciais comuns (a partir de 9kg) e seca na metade do tempo de um edredom tradicional por não encharcar internamente;",
           "Versão solteiro e casal: excelente opção como cobertor solteiro individual para o dia a dia no quarto ou no home office.",
@@ -45480,7 +45479,7 @@ export const reviewsData: unknown[] = [
               "Tamanhos Oficiais",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
-              "Solteiro/Manta e Casal/Queen",
+              "Solteiro/Manta, Casal/Queen e King/Super King",
               "Solteiro/Solteirão, Casal/Queen (2,20x2,40m) e King (2,40x2,60m)"
             ],
             [
@@ -45694,7 +45693,7 @@ export const reviewsData: unknown[] = [
       "Adesivo de hidrogel geladinho, com superfície texturizada que ajuda a não escorregar",
       "Creme com textura de pomada que espalha fácil e deixa um toque aveludado",
       "Máscara labial com espátula e cheirinho de doce que, para mim, não enjoou",
-      "Produtos coreanos originais vendidos pela própria YesStyle, com o CECILIA010 somando desconto no campo Reward Code"
+      "Produtos coreanos vendidos pela própria YesStyle, que declara a originalidade, com o CECILIA010 somando desconto no campo Reward Code"
     ],
     "cons": [
       "PDRN e retinal agem devagar: não espere diferença visível na primeira semana",
@@ -45713,7 +45712,7 @@ export const reviewsData: unknown[] = [
         "heading": "Aos 30, minha primeira rotina de skincare coreano",
         "paragraphs": [
           "Até aqui a gente foi bonita de graça. Eu, que nunca usei nem protetor solar, completei 30 anos e resolvi encarar a coisa com seriedade: montei minha primeira rotina de skincare coreano.",
-          "Recebi três produtos da Abib enviados pela YesStyle, uma loja on-line que vende cosméticos importados. E é coreano da Coreia mesmo, viu? Não é “tipo coreano”, não é “sabor coreano”.",
+          "Recebi três produtos da Abib enviados pela YesStyle, uma loja on-line que vende cosméticos importados. São marcas coreanas, e a originalidade é declarada pela própria loja.",
           "Este artigo é o meu primeiro contato com os três, registrado no vídeo deste artigo: como é colocar, a textura, o cheiro e o que eu senti ao tirar o adesivo. Resultado de pele não dá para prometer no primeiro dia. Vou usar nas próximas semanas e volto aqui para contar o que mudou."
         ]
       },
@@ -45786,7 +45785,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Enquanto o adesivo agia, passei o creme. Ele sai da bisnaga com textura de pomada: você passa e sente ele escorregar pela pele.",
           "Aí acontece a parte que eu mais gostei: depois de espalhar, a pele fica com um toque aveludado, como se virasse veludo na hora. E espalha muito bem.",
-          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. É um creme pensado para firmeza e linhas finas, ou seja, um trabalho de longo prazo."
+          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. A Abib indica o creme para firmeza e linhas finas, ou seja, um trabalho de longo prazo."
         ],
         "bullets": [
           "Onde passar: rosto e pescoço, com batidinhas leves para ajudar a absorção, como indica a marca;"
@@ -45852,7 +45851,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
-          "Os três produtos são vendidos pela YesStyle, que voltou a entregar no Brasil (situação confirmada em setembro de 2026). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
+          "Os três produtos são vendidos pela YesStyle, que entrega no Brasil (confira no checkout se o envio aparece para o seu CEP). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
           "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
           "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete). Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle."
         ],
@@ -45895,7 +45894,7 @@ export const reviewsData: unknown[] = [
           "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-          "A YesStyle entrega no Brasil? Sim. Os envios voltaram, e a situação foi confirmada em setembro de 2026. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
+          "A YesStyle entrega no Brasil? Sim, mas confira no checkout se o envio aparece para o seu CEP. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
           "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e soma com o cupom que você colocar no campo Coupon Code."
         ]
       }
@@ -49429,7 +49428,7 @@ export const reviewsData: unknown[] = [
         "heading": "\"Melatonin free\": o que o selo significa e o que não significa",
         "paragraphs": [
           "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. Por isso ele não é o indicado para o quarto da criança, e dúvida sobre melatonina em criança é assunto para o pediatra.",
-          "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que ele não atua por hormônio e depende do aroma e da rotina. Também não é motivo para borrifar o spray adulto no quarto da criança."
+          "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que a fórmula não tem melatonina; a marca não explica como o produto atuaria. Também não é motivo para borrifar o spray adulto no quarto da criança."
         ],
         "bullets": []
       },
@@ -49439,7 +49438,7 @@ export const reviewsData: unknown[] = [
           "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
         ],
         "bullets": [
-          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Mais borrifadas não deixam a criança mais calma, só deixam o cheiro mais forte;",
+          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Passar disso só deixa o cheiro mais forte;",
           "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
           "Quando: alguns minutos antes de deitar, com a criança fora da cama. Nossa sugestão: 10 a 15 minutos, enquanto ela escova os dentes, para o tecido secar;",
           "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
@@ -49560,7 +49559,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
           "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
-          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso não traz benefício e deixa o aroma mais forte.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso só deixa o aroma mais forte.",
           "Posso borrifar na pele, no rosto ou na naninha? Na pele não: a marca pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada e não ingerir. Na naninha, borrife longe da criança, deixe secar e evite a parte que ela morde ou chupa; se ela leva o objeto à boca com frequência, prefira o travesseiro ou o ambiente.",
           "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
           "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
@@ -51325,7 +51324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão; veja o veredito e os preços abaixo."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão; veja Veredito: para quem o Magnum vale a pena."
         ]
       },
       {
@@ -51367,7 +51366,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pillow top ajuda na dor nas costas?",
         "paragraphs": [
-          "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado, e muita gente acorda travada por isso. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
+          "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
           "O que o pillow top não faz é tratar problema de coluna. Hérnia de disco, dor que dura semanas, dor que irradia para as pernas ou que piora com o tempo precisam de avaliação de médico ou fisioterapeuta. E se o colchão já está afundado, o pillow top vai acompanhar o buraco: aí o problema é a base, não a superfície.",
           "Por isso a pergunta certa antes de comprar é: **o meu colchão está firme demais ou está gasto?** Se está firme e em bom estado, o pillow top é uma solução mais barata do que um colchão novo. Se está gasto, o dinheiro rende mais em outro colchão."
         ]

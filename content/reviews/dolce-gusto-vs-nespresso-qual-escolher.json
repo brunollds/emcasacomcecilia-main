@@ -108,7 +108,7 @@
         "rows": [
           ["Preço por cápsula na amostra", "Clássica oficial: R$ 1,69 a R$ 2,10", "Original oficial: R$ 3,70 a R$ 4,20 · Farmers Origins compatível: R$ 1,70"],
           ["Espresso por 100 ml", "Clássica: aproximadamente R$ 3,80 a R$ 4,83", "Original oficial: aproximadamente R$ 9,25 a R$ 10,50 · Farmers Origins: aproximadamente R$ 4,25"],
-          ["Média simples da amostra por 100 ml", "Clássica: aproximadamente R$ 2,64", "Original oficial: aproximadamente R$ 9,67"],
+          ["Média simples da amostra por 100 ml", "Clássica: aproximadamente R$ 2,64 (inclui bebidas de até 145 ml, por isso fica abaixo do espresso)", "Original oficial: aproximadamente R$ 9,67"],
           ["Simulação mensal com 30 cápsulas", "Clássica oficial: R$ 50,70 a R$ 63,00", "Original oficial: R$ 111,00 a R$ 126,00 · Farmers Origins: aproximadamente R$ 51,00"],
           ["Bebidas com leite", "O custo depende da bebida e da quantidade de cápsulas indicada na caixa", "O custo depende do café, do leite e do equipamento ou sistema de leite utilizado"]
         ]
@@ -146,7 +146,7 @@
     },
     {
       "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
-      "paragraphs": ["A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:", "Espaço e visual: na largura, quase empatam: as Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.", "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.", "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."],
+      "paragraphs": ["A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:", "Espaço e visual: na largura, quase empatam. As Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.", "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.", "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."],
       "video": {
         "mp4": "/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4",
         "poster": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
@@ -161,7 +161,7 @@
     },
     {
       "heading": "Onde comprar e cupons ativos",
-      "paragraphs": ["Confira as opções oficiais e links de varejo com condições verificadas para a sua compra: Como associado da Amazon, ganhamos com compras qualificadas."],
+      "paragraphs": ["Confira as opções oficiais e links de varejo com condições verificadas para a sua compra. Como associado da Amazon, ganhamos com compras qualificadas."],
       "bullets": [],
       "links": [
         {
