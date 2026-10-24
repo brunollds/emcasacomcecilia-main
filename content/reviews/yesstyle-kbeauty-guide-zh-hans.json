@@ -21,9 +21,10 @@
   "isNew": false,
   "locale": "zh-hans",
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-  "imageAlt": "肌肤水润有光泽的女性，展现 K-Beauty“玻璃肌”的概念",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+  "imageAlt": "Cecília 使用三款韩国 Abib 产品：管装面霜、水凝胶眼膜贴和唇膜",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -141,7 +142,5 @@
       "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用"
     }
   ],
-  "imageAspect": "landscape",
-  "heroCompact": true,
   "translationKey": "yesstyle-kbeauty"
 }

@@ -19,9 +19,10 @@
   "publishedAtISO": "2026-07-10",
   "updatedAt": "2026-10-04",
   "draft": false,
-  "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
-  "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
-  "imageFit": "cover",
+  "image": "/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp",
+  "imageAlt": "Latas de Nutren Senior, Nutren Protein, Nutren Control e Nutren Active, fotos oficiais da Nestlé Nutre, e o cupom CECI de 10% da Cecília",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [
     "10% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
     "Vale para os produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses",
@@ -59,7 +60,11 @@
         "O cupom Nestlé Nutre CECI oferece 10% de desconto sobre o valor dos produtos na loja oficial. Ele foi cadastrado para produtos Nestlé Nutre, com exceções: Alfamino e Alfaré ficam de fora, e o código não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN.",
         "Diferente de cupons que mudam todo mês, o CECI segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As regras da loja e das campanhas podem mudar, então o valor mostrado no carrinho é sempre a referência.",
         "A regra mais importante: o cupom funciona sobre o valor dos produtos, não sobre o frete. Se a compra for de R$ 100 em produtos, o desconto é de R$ 10; o frete é calculado à parte, conforme a política da loja."
-      ]
+      ],
+      "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+      "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
+      "imageCaption": "Parte da linha Nutren Senior no site oficial da Nestlé Nutre.",
+      "imageFit": "contain"
     },
     {
       "heading": "1. Escolha o produto no site oficial",

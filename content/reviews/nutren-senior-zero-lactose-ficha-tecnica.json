@@ -26,9 +26,10 @@
   ],
   "draft": false,
   "isNew": false,
-  "image": "/images/reviews/nutren/nutren-senior-hero.webp",
-  "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g, composto lácteo da Nestlé Nutre",
-  "imageFit": "cover",
+  "image": "/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp",
+  "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor de 740 g, composto lácteo da Nestlé Nutre",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "productSpec": [
     {
       "key": "Marca",

@@ -20,9 +20,10 @@
   "draft": false,
   "isNew": false,
   "locale": "pt",
-  "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-  "imageAlt": "Mulher com pele iluminada e hidratada, ilustrando o conceito de \"glass skin\" da K-Beauty",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
+  "imageAlt": "Cecília usando três produtos coreanos da Abib: o creme em bisnaga, o adesivo de hidrogel para os olhos e a máscara labial",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -142,7 +143,5 @@
       "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010"
     }
   ],
-  "imageAspect": "landscape",
-  "heroCompact": true,
   "translationKey": "yesstyle-kbeauty"
 }

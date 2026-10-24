@@ -34521,9 +34521,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-07-10",
     "updatedAt": "2026-10-04",
     "draft": false,
-    "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
-    "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
-    "imageFit": "cover",
+    "image": "/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp",
+    "imageAlt": "Latas de Nutren Senior, Nutren Protein, Nutren Control e Nutren Active, fotos oficiais da Nestlé Nutre, e o cupom CECI de 10% da Cecília",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [
       "10% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
       "Vale para os produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses",
@@ -34561,7 +34562,11 @@ export const reviewsData: unknown[] = [
           "O cupom Nestlé Nutre CECI oferece 10% de desconto sobre o valor dos produtos na loja oficial. Ele foi cadastrado para produtos Nestlé Nutre, com exceções: Alfamino e Alfaré ficam de fora, e o código não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN.",
           "Diferente de cupons que mudam todo mês, o CECI segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As regras da loja e das campanhas podem mudar, então o valor mostrado no carrinho é sempre a referência.",
           "A regra mais importante: o cupom funciona sobre o valor dos produtos, não sobre o frete. Se a compra for de R$ 100 em produtos, o desconto é de R$ 10; o frete é calculado à parte, conforme a política da loja."
-        ]
+        ],
+        "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+        "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
+        "imageCaption": "Parte da linha Nutren Senior no site oficial da Nestlé Nutre.",
+        "imageFit": "contain"
       },
       {
         "heading": "1. Escolha o produto no site oficial",
@@ -35224,9 +35229,10 @@ export const reviewsData: unknown[] = [
     ],
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/nutren/nutren-senior-hero.webp",
-    "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g, composto lácteo da Nestlé Nutre",
-    "imageFit": "cover",
+    "image": "/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp",
+    "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor de 740 g, composto lácteo da Nestlé Nutre",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "productSpec": [
       {
         "key": "Marca",
@@ -40847,9 +40853,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "12 de agosto de 2026",
     "publishedAtISO": "2026-08-12",
     "updatedAt": "2026-08-12",
-    "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
-    "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
-    "imageFit": "cover",
+    "image": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
+    "imageAlt": "Bruno com a caixa da cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 e a máquina vermelha com cápsulas, em gravação para o canal Em Casa com Cecília",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "productSpec": [
       {
         "key": "Marca",
@@ -41352,10 +41359,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "23 de agosto de 2026",
     "publishedAtISO": "2026-08-23",
     "draft": false,
-    "image": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
-    "imageAlt": "Frente da lata de 280g do Nutren Just Protein, suplemento alimentar de proteína em pó sem sabor",
+    "image": "/images/reviews/nutren/nutren-just-protein-capa-discover.webp",
+    "imageAlt": "Lata de Nutren Just Protein Sem Sabor de 280 g, proteína 100% whey isolado da Nestlé Health Science",
     "imageFit": "contain",
-    "imageAspect": "square",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -41768,9 +41775,10 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "locale": "pt",
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Mulher com pele iluminada e hidratada, ilustrando o conceito de \"glass skin\" da K-Beauty",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
+    "imageAlt": "Cecília usando três produtos coreanos da Abib: o creme em bisnaga, o adesivo de hidrogel para os olhos e a máscara labial",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -41889,8 +41897,6 @@ export const reviewsData: unknown[] = [
         "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -41916,9 +41922,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "en",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Woman with glowing, hydrated skin illustrating the K-Beauty \"glass skin\" concept",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília using three Korean Abib products: the tube cream, the hydrogel eye patch and the lip mask",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42036,8 +42043,6 @@ export const reviewsData: unknown[] = [
         "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42063,9 +42068,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "es",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Mujer con piel luminosa e hidratada, que ilustra el concepto de \"glass skin\" del K-Beauty",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília usando tres productos coreanos de Abib: la crema en tubo, el parche de hidrogel para los ojos y la mascarilla de labios",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42183,8 +42189,6 @@ export const reviewsData: unknown[] = [
         "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42210,9 +42214,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "fr",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Femme à la peau lumineuse et hydratée, illustrant le concept de \"glass skin\" de la K-Beauty",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília utilise trois produits coréens Abib : la crème en tube, le patch hydrogel pour les yeux et le masque pour les lèvres",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42330,8 +42335,6 @@ export const reviewsData: unknown[] = [
         "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42357,9 +42360,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "de",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Frau mit strahlender, hydratisierter Haut, die das Konzept von \"Glass Skin\" bei K-Beauty veranschaulicht",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília mit drei koreanischen Abib-Produkten: der Creme in der Tube, dem Hydrogel-Augenpad und der Lippenmaske",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42477,8 +42481,6 @@ export const reviewsData: unknown[] = [
         "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42504,9 +42506,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "ko",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "K-뷰티의 '글래스 스킨' 개념을 보여주는, 촉촉하고 윤기 있는 피부를 가진 여성",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "아비브 한국 화장품 세 가지를 사용하는 세실리아: 튜브 크림, 하이드로겔 아이 패치, 립 마스크",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42624,8 +42627,6 @@ export const reviewsData: unknown[] = [
         "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42651,9 +42652,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "ja",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "K-Beautyの「グラススキン」の概念を表現した、潤いに満ちた輝く肌の女性",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Abibの韓国コスメ3品を使うセシリア：チューブクリーム、ハイドロゲルアイパッチ、リップマスク",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42771,8 +42773,6 @@ export const reviewsData: unknown[] = [
         "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42798,9 +42798,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "zh-hant",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "肌膚光澤水潤的女性,展現 K-Beauty「玻璃肌」的概念",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília 使用三款韓國 Abib 產品：管裝面霜、水凝膠眼膜貼和唇膜",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -42918,8 +42919,6 @@ export const reviewsData: unknown[] = [
         "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -42945,9 +42944,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "zh-hans",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "肌肤水润有光泽的女性，展现 K-Beauty“玻璃肌”的概念",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília 使用三款韩国 Abib 产品：管装面霜、水凝胶眼膜贴和唇膜",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -43065,8 +43065,6 @@ export const reviewsData: unknown[] = [
         "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -43579,10 +43577,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-08-26",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
-    "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
+    "image": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp",
+    "imageAlt": "Embalagem de 300 g da Nutren Creatina 100% monohidratada, sabor neutro, foto oficial da Nestlé",
     "imageFit": "contain",
-    "imageAspect": "wide",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -43750,6 +43748,10 @@ export const reviewsData: unknown[] = [
           "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
+        "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
+        "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
+        "imageCaption": "Campanha de lançamento da Nutren Creatina, com o preço consultado em 27/08/2026.",
+        "imageFit": "contain",
         "links": [
           {
             "label": "Consultar regras e validade do cupom CECI na página Nestlé Nutre",
@@ -48934,9 +48936,10 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "locale": "it",
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-    "imageAlt": "Donna dalla pelle luminosa e idratata, a rappresentare il concetto di \"glass skin\" della K-Beauty",
-    "imageFit": "cover",
+    "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+    "imageAlt": "Cecília usa tre prodotti coreani Abib: la crema in tubetto, il patch in idrogel per gli occhi e la maschera labbra",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -49054,8 +49057,6 @@ export const reviewsData: unknown[] = [
         "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
       }
     ],
-    "imageAspect": "landscape",
-    "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
   },
   {
@@ -49610,10 +49611,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-09-30",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/nutren/nutren-senior-hero.webp",
-    "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor de 740 g, da Nestlé Health Science",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
+    "imageAlt": "As três latas de Nutren Senior de 740 g, Zero Lactose Sem Sabor, Café com Leite e Sem Sabor, fotos oficiais da Nestlé",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [
       "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
       "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
@@ -50199,10 +50200,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-02",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
-    "imageAlt": "Foto oficial da lata de FiberMais Sem Sabor de 260 g da Nestlé Health Science",
+    "image": "/images/reviews/nutren/fibermais-como-usar-capa-discover.webp",
+    "imageAlt": "Lata de FiberMais Sem Sabor de 260 g, suplemento de fibras em pó da Nestlé Health Science",
     "imageFit": "contain",
-    "imageAspect": "square",
+    "imageAspect": "landscape",
     "pros": [
       "FiberMais Sem Sabor combina goma guar parcialmente hidrolisada e inulina, fibras de origem vegetal",
       "A fabricante apresenta a versão Sem Sabor como uma opção que não altera sabor, cheiro ou textura dos alimentos",
@@ -51552,10 +51553,10 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-04",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/ninho-linha-oficial-hero.webp",
-    "imageAlt": "Fotos oficiais da Nestlé: Ninho Integral Instantâneo, Ninho Fases 1+, Ninho Fases 3+ e Ninho Forti+ Fibras",
-    "imageFit": "cover",
-    "imageAspect": "square",
+    "image": "/images/reviews/nutren/guia-linha-ninho-capa-discover.webp",
+    "imageAlt": "Fotos oficiais da Nestlé: lata de Ninho Integral Instantâneo e pacote de Ninho Forti+ composto lácteo com fibras",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [
       "Linha Ninho vendida na loja oficial da Nestlé",
       "Cupom CECI com 10% de desconto no teste de checkout",

@@ -299,8 +299,10 @@ public/images/reviews/cupom-cecilia12/4-confirme-desconto.png -text export-ignor
 public/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp -text export-ignore
 public/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp -text export-ignore
 public/images/reviews/cupons/k-beauty-expo-korea.webp -text export-ignore
+public/images/reviews/cupons/k-beauty-familia-capa-discover.webp -text export-ignore
 public/images/reviews/cupons/k-beauty-glass-skin-hero.webp -text export-ignore
 public/images/reviews/cupons/k-beauty-loja-varejo.webp -text export-ignore
+public/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp -text export-ignore
 public/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp -text export-ignore
 public/images/reviews/cupons/nescafe-dolce-gusto-galeria-2.webp -text export-ignore
 public/images/reviews/cupons/nescafe-dolce-gusto-galeria-3.webp -text export-ignore
@@ -408,6 +410,7 @@ public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp -text export-i
 public/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp -text export-ignore
 public/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp -text export-ignore
 public/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp -text export-ignore
 public/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp -text export-ignore
 public/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp -text export-ignore
 public/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp -text export-ignore
@@ -843,9 +846,12 @@ public/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp -text export
 public/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp -text export-ignore
 public/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp -text export-ignore
+public/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp -text export-ignore
+public/images/reviews/nutren/fibermais-como-usar-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/fibermais-linha-preparo-oficial.webp -text export-ignore
 public/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp -text export-ignore
 public/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp -text export-ignore
+public/images/reviews/nutren/guia-linha-ninho-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-sem-sabor-capa.webp -text export-ignore
 public/images/reviews/nutren/isosource-1-5-sem-sabor-instrucoes.webp -text export-ignore
@@ -871,12 +877,14 @@ public/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp -text ex
 public/images/reviews/nutren/nutren-creatina-300g-composicao.webp -text export-ignore
 public/images/reviews/nutren/nutren-creatina-300g-frente.avif -text export-ignore
 public/images/reviews/nutren/nutren-creatina-300g-rotulo.avif -text export-ignore
+public/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png -text export-ignore
 public/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp -text export-ignore
 public/images/reviews/nutren/nutren-ensure-sustagen-latas.webp -text export-ignore
 public/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp -text export-ignore
 public/images/reviews/nutren/nutren-just-protein-banner.avif -text export-ignore
 public/images/reviews/nutren/nutren-just-protein-beneficios.png -text export-ignore
+public/images/reviews/nutren/nutren-just-protein-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/nutren-just-protein-lata-280g.avif -text export-ignore
 public/images/reviews/nutren/nutren-just-protein-modo-preparo.avif -text export-ignore
 public/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp -text export-ignore
@@ -890,8 +898,10 @@ public/images/reviews/nutren/nutren-senior-linha-banner.avif -text export-ignore
 public/images/reviews/nutren/nutren-senior-linha-hero.webp -text export-ignore
 public/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp -text export-ignore
 public/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp -text export-ignore
+public/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp -text export-ignore
 public/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp -text export-ignore
+public/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp -text export-ignore
 public/images/reviews/nutren/passo-1-lista-produtos.webp -text export-ignore
 public/images/reviews/nutren/passo-2-carrinho.webp -text export-ignore
 public/images/reviews/nutren/passo-3-digite-ceci.webp -text export-ignore
