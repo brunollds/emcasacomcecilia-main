@@ -19,9 +19,10 @@
   "publishedAtISO": "2026-08-04",
   "draft": false,
   "isNew": false,
-  "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
-  "imageAlt": "Pessoa usando a máscara térmica Aliv Head Gel IWS sobre os olhos",
-  "imageFit": "cover",
+  "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-capa-discover.webp",
+  "imageAlt": "Máscara térmica Aliv Head Gel IWS em três fotos oficiais: sobre os olhos, em uso quente e cobrindo a cabeça inteira",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "productSpec": [
     {
       "key": "Marca",

@@ -19,9 +19,10 @@
   "publishedAtISO": "2026-10-23",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
-  "imageAlt": "Quadro com os seis modelos de camiseta da Cléa Store: a peça avulsa e os cinco kits de três, com cores e preço por peça em 23/10/2026",
+  "image": "/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-discover.webp",
+  "imageAlt": "Modelo com as camisetas oversized da Cléa Store em bordô, preto e off white, fotos oficiais da loja",
   "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "cta": {
@@ -139,6 +140,13 @@
           "caption": "Foto oficial da Cléa Store.",
           "objectFit": "square",
           "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
+          "alt": "Quadro com os seis modelos de camiseta da Cléa Store: a peça avulsa e os cinco kits de três, com cores e preço por peça em 23/10/2026",
+          "caption": "Os seis modelos e o preço por peça no site oficial, em 23/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
         }
       ]
     },
