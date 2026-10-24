@@ -22,6 +22,7 @@ npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
+npm run test:yesstyle-article-date  # {yesstyle:verifiedAt} nos artigos: o build-index troca pela data da página /cupons/yesstyle no idioma do artigo; marcação que sobra para o build
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"; consentimento (store, valor inválido, armazenamento bloqueado, os dois loaders atrás de isTrackingAllowed, textos do aviso nos 10 idiomas)
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas (com a Outros) e a página /reviews/outros, páginas de 12 e 24, medição e os componentes
