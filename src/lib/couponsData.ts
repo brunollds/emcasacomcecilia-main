@@ -2158,39 +2158,51 @@ export const COUPONS: Coupon[] = [
     offerActionLabel: 'Clique para ter 20% OFF nos planos',
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
-    shortDescription: 'primeiro período de qualquer plano novo, com o desconto já no link',
+    shortDescription:
+      'primeiro período de um plano novo de 12 meses ou mais, com o desconto já no link',
     longDescription:
-      'Indicação para quem vai pôr um site no ar: pelo link, a Hostinger mostra os planos com 20% de desconto no primeiro período, sem cupom para digitar. O Em Casa com Cecília roda na Hostinger.',
+      'O link de indicação da Hostinger dá 20% de desconto no primeiro período de um plano novo de 12 meses ou mais, já aplicado no carrinho, sem nada para digitar: hospedagem de sites, VPS, e-mail profissional ou os planos de agentes de IA (OpenClaw). No plano de 1 mês, os planos Single, Premium e Unlimited aparecem sem o desconto da indicação (só o Startup ainda mostrou); a renovação sai pelo preço normal e não soma com outros cupons. O Em Casa com Cecília roda na Hostinger desde 2024; link conferido em 24/10/2026.',
     metaTitle: 'Desconto Hostinger: 20% OFF pelo link de indicação',
     metaDescription:
-      'Desconto Hostinger de 20% no primeiro período de qualquer plano novo, já aplicado pelo link de indicação, sem cupom. Veja a renovação e o que não soma.',
-    eligibleCategories: 'Primeiro período de qualquer plano novo da Hostinger, seja qual for o produto',
+      'Desconto Hostinger de 20% no primeiro período de planos de 12 meses ou mais, aplicado pelo link de indicação, sem cupom. Veja a renovação e o que não soma.',
+    eligibleCategories:
+      'Primeiro período de um plano novo da Hostinger de 12 meses ou mais: hospedagem de sites, VPS, e-mail e os planos de agentes de IA',
     validity: 'Indicação ativa enquanto o programa de indicação da Hostinger estiver vigente',
     reusable: 'Não se aplica: o desconto vem do link, não de um cupom',
     shipping: 'Não se aplica',
     combinable:
       'Não soma com outros cupons: segundo a Hostinger, o preço do link de indicação já é o melhor que ela oferece por ele',
-    lastVerified: '2026-10-19',
+    lastVerified: '2026-10-24',
     linkInstructions: [
       'Abra a Hostinger pelo botão indicado: os preços da página já aparecem com o desconto da indicação.',
-      'Escolha o plano e o período e siga para o carrinho pelo próprio link.',
+      'Escolha o plano e um período de 12 meses ou mais e siga para o carrinho pelo próprio link.',
       'Não é preciso digitar cupom: o desconto já está vinculado ao link.',
       'Confira no carrinho o preço do primeiro período e o preço da renovação antes de pagar.',
     ],
     linkNote:
-      'Os 20% valem só no primeiro período de um plano novo: a renovação sai pelo preço padrão do plano, e o desconto não vale em compras já feitas.',
+      'Os 20% valem só no primeiro período de um plano novo de 12 meses ou mais: a renovação sai pelo preço padrão do plano, e o desconto não vale em compras já feitas.',
     aboutBrand:
-      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger, como aplicação Node.js. O link desta página é uma indicação: abre o site da Hostinger com 20% de desconto no primeiro período de qualquer plano novo, sem cupom para digitar.',
+      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O link desta página é uma indicação: abre o site da Hostinger com 20% de desconto no primeiro período de um plano novo de 12 meses ou mais, sem cupom para digitar.',
     faqs: [
       {
-        question: 'Tem cupom de desconto da Hostinger?',
+        question: 'Preciso de código de indicação ou cupom da Hostinger?',
         answer:
-          'Não é preciso cupom. O desconto da indicação já vem no link desta página e aparece nos preços do site da Hostinger.',
+          'Não. Pelo link desta página, o desconto da indicação já vem aplicado no carrinho, sem nada para digitar. É uma indicação, não um cupom.',
       },
       {
-        question: 'De quanto é o desconto da Hostinger pelo link?',
+        question: 'O desconto de 20% da indicação da Hostinger é real?',
         answer:
-          'De 20%, segundo a página de indicação da Hostinger em 19/10/2026, no primeiro período de qualquer plano novo, seja qual for o produto.',
+          'Sim. Os termos da Hostinger falam em “até 20%”; nos planos que conferimos por este link em outubro de 2026 (hospedagem de sites nos planos de 12 e 48 meses, VPS KVM e os planos de agentes de IA), o preço mostrou 20% de desconto no primeiro período.',
+      },
+      {
+        question: 'O desconto da indicação vale no plano mensal?',
+        answer:
+          'Não nos planos principais de hospedagem. Em 24/10/2026, Single, Premium e Unlimited mostraram a indicação aplicada nos períodos de 12 e 48 meses, e não no de 1 mês; só o Startup ainda mostrou a 1 mês. Escolha um período de 12 meses ou mais para garantir os 20%.',
+      },
+      {
+        question: 'Os 20% valem em VPS, e-mail e agentes de IA?',
+        answer:
+          'A Hostinger lista os três como elegíveis. Vimos os 20% no primeiro período do VPS KVM e dos planos de agentes de IA no período de 24 meses; e-mail e períodos mais curtos não conferimos. Domínios ficam fora da indicação.',
       },
       {
         question: 'O desconto vale na renovação do plano?',
@@ -2209,7 +2221,8 @@ export const COUPONS: Coupon[] = [
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
-        answer: 'Sim. O site roda na Hostinger, como aplicação Node.js.',
+        answer:
+          'Sim. O site roda na Hostinger desde 2024, como aplicação Node.js.',
       },
       {
         question: 'Comprar pelo link apoia o Em Casa com Cecília?',
