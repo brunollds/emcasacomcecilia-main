@@ -700,7 +700,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% off',
     offerTypeLabel: 'referral',
     offerTypeLabelPlural: 'referrals',
-    offerActionLabel: 'See discounted plans',
+    offerActionLabel: 'Click to get 20% OFF the plans',
     category: 'Web hosting and domains',
     shortDescription: 'first term of any new plan, with the discount already in the link',
     longDescription:
@@ -765,7 +765,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% de descuento',
     offerTypeLabel: 'recomendación',
     offerTypeLabelPlural: 'recomendaciones',
-    offerActionLabel: 'Ver los planes con descuento',
+    offerActionLabel: 'Haz clic y obtén 20% OFF en los planes',
     category: 'Hosting web y dominios',
     shortDescription: 'primer período de cualquier plan nuevo, con el descuento ya incluido en el enlace',
     longDescription:
@@ -830,7 +830,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: `20${NBSP}% de réduction`,
     offerTypeLabel: 'parrainage',
     offerTypeLabelPlural: 'parrainages',
-    offerActionLabel: 'Voir les offres avec réduction',
+    offerActionLabel: 'Cliquez pour avoir 20 % de réduction sur les offres',
     category: 'Hébergement web et noms de domaine',
     shortDescription: 'première période de toute nouvelle offre, réduction déjà incluse dans le lien',
     longDescription: `Un lien de parrainage pour mettre un site en ligne${NBSP}: grâce à lui, Hostinger affiche ses offres avec 20${NBSP}% de réduction sur la première période, sans code promo à saisir. Em Casa com Cecília est hébergé chez Hostinger.`,
@@ -889,7 +889,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: `20${NBSP}% Rabatt`,
     offerTypeLabel: 'Empfehlung',
     offerTypeLabelPlural: 'Empfehlungen',
-    offerActionLabel: 'Tarife mit Rabatt ansehen',
+    offerActionLabel: 'Klicken und 20 % Rabatt auf die Tarife sichern',
     category: 'Webhosting und Domains',
     shortDescription: 'erste Laufzeit jedes neuen Tarifs, Rabatt schon im Link',
     longDescription: `Ein Empfehlungslink für alle, die eine Website online bringen: Über ihn zeigt Hostinger die Tarife mit 20${NBSP}% Rabatt auf die erste Laufzeit, ohne Gutscheincode. Em Casa com Cecília läuft bei Hostinger.`,
@@ -948,7 +948,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% di sconto',
     offerTypeLabel: 'invito',
     offerTypeLabelPlural: 'inviti',
-    offerActionLabel: 'Vedi i piani scontati',
+    offerActionLabel: 'Clicca per avere il 20% di sconto sui piani',
     category: 'Hosting web e domini',
     shortDescription: 'primo periodo di qualsiasi nuovo piano, con lo sconto già nel link',
     longDescription:
@@ -1013,7 +1013,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% 할인',
     offerTypeLabel: '추천',
     offerTypeLabelPlural: '추천',
-    offerActionLabel: '할인된 요금제 보기',
+    offerActionLabel: '클릭하고 요금제 20% 할인 받기',
     category: '웹 호스팅·도메인',
     shortDescription: '모든 신규 요금제의 첫 이용 기간, 할인은 링크에 이미 적용',
     longDescription:
@@ -1072,7 +1072,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20%オフ',
     offerTypeLabel: '紹介',
     offerTypeLabelPlural: '紹介',
-    offerActionLabel: '割引価格のプランを見る',
+    offerActionLabel: 'クリックしてプランを20%オフに',
     category: 'Webホスティング・ドメイン',
     shortDescription: '新規プランの初回契約期間が対象、割引はリンクに適用済み',
     longDescription:
@@ -1131,7 +1131,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% 折扣',
     offerTypeLabel: '推薦',
     offerTypeLabelPlural: '推薦',
-    offerActionLabel: '查看優惠方案',
+    offerActionLabel: '點擊享方案 20% 折扣',
     category: '網站主機與網域',
     shortDescription: '任何新方案的首期，折扣已包含在連結中',
     longDescription:
@@ -1189,7 +1189,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     discount: '20% 折扣',
     offerTypeLabel: '推荐',
     offerTypeLabelPlural: '推荐',
-    offerActionLabel: '查看优惠套餐',
+    offerActionLabel: '点击享套餐 20% 折扣',
     category: '网站主机与域名',
     shortDescription: '任何新套餐的首期，折扣已包含在链接中',
     longDescription:
