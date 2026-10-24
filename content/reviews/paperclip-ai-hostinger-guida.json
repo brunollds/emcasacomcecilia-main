@@ -44,13 +44,13 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Paperclip organizza un team di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non esegue l'IA: le chiavi sono vostre. Su Hostinger funziona con il piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedete i capitoli Gestito o VPS su Hostinger e Quanto costa, più sotto."
+        "Paperclip organizza un team di agenti IA, ciascuno con ruolo, obiettivi e un limite di spesa, e le chiavi IA sono vostre. Il codice è pubblico (MIT), ma non abbiamo trovato alcun audit indipendente. Su Hostinger funziona in piano gestito o su VPS, e chi si occupa del server decide la scelta: vedete Quale scegliere."
       ]
     },
     {
       "heading": "Cos'è Paperclip, in parole semplici",
       "paragraphs": [
-        "Paperclip è un programma per organizzare un team di agenti IA: invece di un solo assistente, componete il team con ruoli, obiettivi e un limite di spesa per ciascun agente. Pensate a una piccola azienda. C'è un titolare, ci sono i responsabili e i dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. Nella documentazione compaiono cinque idee del progetto."
+        "Paperclip è un programma per organizzare un team di agenti IA: invece di un solo assistente, componete il team con ruoli, obiettivi e un limite di spesa per ciascun agente. Pensate a una piccola azienda, con un titolare, dei responsabili e dei dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. La documentazione mette in evidenza cinque idee del progetto."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
@@ -59,7 +59,7 @@
       },
       "bullets": [
         "**Organigramma:** la struttura di chi riferisce a chi. Un agente di marketing riferisce a chi cura la strategia, e così via.",
-        "**Heartbeat:** il nome viene da “battito”. Un agente non resta attivo di continuo. Si “risveglia” quando riceve un lavoro, un messaggio di follow-up o una pianificazione, controlla che cosa c'è da fare, agisce e torna a dormire.",
+        "**Heartbeat:** un agente non resta attivo di continuo. Si risveglia quando riceve un lavoro, un messaggio di follow-up o una pianificazione, controlla che cosa c'è da fare, agisce e torna a riposare.",
         "**Budget per agente:** si fissa un tetto di spesa per ogni agente, per ogni progetto e per l'intera azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta IA costa denaro, addebitato dal fornitore del modello.",
         "**Approvazione:** si può chiedere una revisione prima che un lavoro prosegua, approvare l'assunzione di un nuovo agente oppure fermare e riassegnare un'attività.",
         "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti restano registrati. Si può vedere dopo che cosa è successo e perché."
@@ -71,17 +71,13 @@
     {
       "heading": "È affidabile? Che cosa si può verificare",
       "paragraphs": [
-        "“Affidabile” è una parola impegnativa. Si può distinguere ciò che è verificabile da ciò che non lo è."
-      ],
-      "bullets": [
-        "**Chi lo mantiene.** Secondo il repository ufficiale, github.com/paperclipai/paperclip, il progetto è mantenuto dal team Paperclip, e l'avviso di copyright dice “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con fork e copie del codice che compaiono nella ricerca.",
+        "“Affidabile” è una parola impegnativa. Conviene distinguere ciò che si può verificare da ciò che non si può verificare.",
+        "**Chi lo mantiene.** Secondo il repository ufficiale, github.com/paperclipai/paperclip, il progetto è mantenuto dal team Paperclip, e l'avviso di copyright dice “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con fork e copie del codice che compaiono nelle ricerche.",
         "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, verificarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che avete installato.",
         "**Dove gira.** Decidete voi. Può girare sul vostro computer, su un server proprio o nel piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
         "**Dove stanno chiavi e dati.** Dipende dalla strada scelta. Sul VPS, Hostinger stessa dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente nella vostra infrastruttura”, cioè sul server che avete affittato. Nel gestito, la pagina dice che le chiavi restano nell'istanza gestita. Questa è la descrizione di Hostinger, non un controllo nostro.",
-        "**Sicurezza del codice.** Il repository chiede di segnalare le vulnerabilità con la funzione Security Advisory di GitHub, non in issue pubbliche. Nella politica del repository non abbiamo trovato versioni supportate, audit indipendenti o advisory pubblicati."
-      ],
-      "postParagraphs": [
-        "**Che cosa non si può affermare.** Per questa guida non esiste un audit di sicurezza pubblico e verificato. Mancano anche revisioni indipendenti o valutazioni di terzi sul prodotto, come quelle di Reclame Aqui. Il numero di stelle su GitHub indica popolarità, non sicurezza. Un agente con accesso alla vostra e-mail, alla banca o ad altri account richiede più cautela, qualunque sia il software. Sull'azienda che ospita, leggete [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
+        "**Sicurezza del codice.** Il repository chiede di segnalare le vulnerabilità con la funzione Security Advisory di GitHub, non in issue pubbliche. In questa lettura non abbiamo verificato versioni supportate, audit indipendenti né advisory pubblicati.",
+        "**Che cosa non si può affermare.** Per questa guida non esiste un audit di sicurezza pubblico e verificato. Nelle fonti lette non ci sono neppure revisioni indipendenti o valutazioni di terzi sul prodotto. Il numero di stelle su GitHub indica popolarità, non sicurezza. Un agente con accesso alla vostra e-mail, alla banca o ad altri account richiede più cautela, qualunque sia il software. Sull'azienda che ospita, leggete [Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare](/it/reviews/hostinger-e-affidabile)."
       ]
     },
     {
@@ -125,7 +121,7 @@
           [
             "Backup",
             "Hostinger, secondo la pagina del gestito",
-            "La pagina del VPS non dice la frequenza; controllate nel pannello"
+            "Settimanali, secondo la pagina del VPS"
           ],
           [
             "Database (Postgres)",
@@ -153,7 +149,7 @@
     {
       "heading": "Quanto costa",
       "paragraphs": [
-        "Prezzi dei piani di 24 mesi, letti il 21/10/2026. Il gestito è il piano “AI automation apps”, con lo stesso prezzo per OpenClaw, Hermes Agent e Paperclip. I prezzi sono quelli della pagina globale di Hostinger in dollari USA: nel vostro Paese Hostinger può mostrare un'altra valuta e le tasse, quindi controllate l'importo nel carrello."
+        "Prezzi dei piani di 24 mesi, letti il 21/10/2026 sulla pagina globale di Hostinger, in dollari USA. Il gestito è il piano “AI automation apps”, con lo stesso prezzo per OpenClaw, Hermes Agent e Paperclip. La pagina mostrava il prezzo con il link di invito solo per il gestito; per il VPS, il 20% compare nel carrello."
       ],
       "comparisonTable": {
         "headers": [
@@ -172,38 +168,39 @@
           [
             "VPS KVM 1 (1 vCPU, 4 GB, 50 GB)",
             "6,49 USD al mese",
-            "20% sul primo periodo; prezzo finale nel carrello",
+            "Visibile nel carrello",
             "11,99 USD al mese"
           ],
           [
             "VPS KVM 2 (2 vCPU, 8 GB, 100 GB)",
             "8,79 USD al mese",
-            "20% sul primo periodo; prezzo finale nel carrello",
+            "Visibile nel carrello",
             "14,99 USD al mese"
           ],
           [
             "VPS KVM 4 (4 vCPU, 16 GB, 200 GB)",
             "12,99 USD al mese",
-            "20% sul primo periodo; prezzo finale nel carrello",
+            "Visibile nel carrello",
             "28,99 USD al mese"
           ],
           [
             "VPS KVM 8 (8 vCPU, 32 GB, 400 GB)",
             "25,99 USD al mese",
-            "20% sul primo periodo; prezzo finale nel carrello",
+            "Visibile nel carrello",
             "49,99 USD al mese"
           ]
         ]
       },
       "postParagraphs": [
+        "Nel vostro Paese Hostinger può mostrare un'altra valuta e le tasse, quindi controllate l'importo nel carrello prima di pagare.",
         "RAM è la memoria del server, e vCPU è un core del processore. Più grande è il piano VPS, più memoria e potenza di calcolo ha. Nelle pagine lette Hostinger non indica un requisito minimo di memoria per Paperclip: il KVM 1 è il punto di partenza, e quanti agenti fate girare decide se basta.",
-        "Hostinger è in campagna di Black Friday, e i prezzi cambiano. Leggete [la guida al Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controllate l'importo nel carrello prima di pagare."
+        "Il 21/10/2026 Hostinger era in campagna di Black Friday, e i prezzi cambiano. Leggete [Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?](/it/reviews/black-friday-hostinger-offerte) e controllate l'importo nel carrello prima di pagare."
       ]
     },
     {
       "heading": "Link di invito",
       "paragraphs": [
-        "Il link di invito applica già lo sconto e non c'è nessun codice da digitare. Il 20% vale solo sul primo periodo, per piani di 12 mesi o più, e non si somma ad altri coupon. Il rinnovo costa il prezzo pieno. La regola completa è spiegata in [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito). Controllate l'importo nel carrello prima di pagare."
+        "Il link di invito applica già lo sconto e non c'è nessun codice da digitare. Il 20% vale solo sul primo periodo, per piani di 12 mesi o più, e non si somma ad altri coupon. Il rinnovo costa il prezzo pieno. La regola completa è spiegata in [Coupon Hostinger: non serve, ecco cosa dà il link di invito](/it/reviews/coupon-hostinger-codice-invito). Controllate l'importo nel carrello prima di pagare."
       ]
     },
     {
@@ -215,9 +212,18 @@
       ]
     },
     {
-      "heading": "Alternative: un agente singolo",
+      "heading": "Quale scegliere",
       "paragraphs": [
-        "Paperclip organizza una squadra di agenti. Se volete solo un assistente, per esempio su Telegram o WhatsApp, è più di quanto serva. Per questa scelta leggete [OpenClaw su Hostinger, gestito o VPS](/it/reviews/openclaw-hostinger-gestito-o-vps) e [OpenClaw o Hermes Agent](/it/reviews/openclaw-o-hermes-agent-quale-scegliere), che confronta i due agenti singoli."
+        "La nostra lettura, da repository ufficiale e da quanto Hostinger indicava il 21/10/2026. I prezzi sono di piani di 24 mesi, in dollari USA."
+      ],
+      "bullets": [
+        "**Provatelo prima sul vostro computer** se non siete sicuri che una squadra di agenti faccia per voi. L'installazione è un solo comando, e l'unico costo è quello che addebitano i fornitori di IA.",
+        "**Gestito** se volete Paperclip online senza toccare un server: 3,99 USD al mese con il link di invito, 11,99 USD al mese al rinnovo, con database, aggiornamenti e backup a carico di Hostinger.",
+        "**VPS** se volete accesso root, altri programmi sullo stesso server o il database sotto il vostro controllo: KVM 1 da 6,49 USD al mese prima dello sconto, 11,99 USD al mese al rinnovo. Sicurezza e aggiornamenti del server sono vostri.",
+        "**Un agente singolo invece di una squadra** se volete solo un assistente, per esempio su Telegram o WhatsApp. Per questa scelta leggete [OpenClaw su Hostinger: gestito o VPS? Prezzo, cosa richiede ciascuno e a chi serve](/it/reviews/openclaw-hostinger-gestito-o-vps) e [OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger](/it/reviews/openclaw-o-hermes-agent-quale-scegliere), che confronta i due agenti singoli."
+      ],
+      "postParagraphs": [
+        "Sulla fiducia: il codice è pubblico, il repository indica chi lo mantiene e le falle di sicurezza passano da un canale ufficiale di GitHub. Manca un audit indipendente, che non abbiamo trovato. In ogni caso, fissate il tetto di budget prima di accendere la squadra e siate prudenti con qualsiasi agente che abbia accesso ai vostri account."
       ]
     },
     {
@@ -227,7 +233,7 @@
         "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell'avviso di copyright) come responsabile e che le falle di sicurezza si segnalano su un canale ufficiale di GitHub. Nelle fonti lette il 21/10/2026 non abbiamo trovato un audit indipendente.",
         "Serve una chiave API? Sì. Nel gestito e nel VPS la pagina di Paperclip chiede di portare le proprie. Sul computer il README accetta anche l'abbonamento a Claude o Codex, senza chiave API.",
         "Funziona con Ollama? Dipende dall'agente che collegate. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta i modelli locali; in Paperclip il modello è a carico dell'agente che collegate.",
-        "Si può avere uno sconto con il link di invito? Sì, senza inserire alcun codice. Il link di invito di Hostinger applica il 20% sul primo periodo di piani di 12 mesi o più, e lo sconto non si somma ad altri coupon."
+        "Esiste un coupon Hostinger per Paperclip? Non c'è nessun codice da inserire. Il link di invito applica il 20% sul primo periodo di piani di 12 mesi o più, e lo sconto non si somma ad altri coupon."
       ]
     },
     {

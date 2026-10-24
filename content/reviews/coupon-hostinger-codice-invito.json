@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Redazione e analisi",
       "initials": "BL"
     }
   ],
-  "description": "Hostinger ha un coupon? Non serve. Il link di invito dà già il 20% sul primo periodo di un piano nuovo. Ecco le regole del 19/10/2026 e cosa cambia al rinnovo.",
-  "metaDescription": "Su Hostinger non c’è un codice da digitare: il link di invito dà il 20% sul primo periodo, non si somma con altri coupon e il rinnovo torna al prezzo standard.",
+  "description": "Hostinger ha un coupon? Non serve. Il link di invito dà già il 20% sul primo periodo di un piano nuovo, senza codice da digitare. Vedi quali servizi rientrano, cosa dicono i termini e cosa cambia al rinnovo.",
+  "metaDescription": "Su Hostinger non c'è un codice da digitare: il link di invito dà il 20% sul primo periodo, non si somma con altri coupon e il rinnovo torna al prezzo standard.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,56 +45,41 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Non serve nessun coupon: il link di invito di Hostinger non ha un codice da digitare, perché lo sconto è già nel link e compare nei prezzi della pagina. Con il link, un piano nuovo costa il 20% in meno solo sul primo periodo, poi il rinnovo torna al prezzo standard. Conta il periodo scelto; vedi «Quanto costa con e senza il link» più sotto."
+        "Non serve nessun coupon: il link di invito di Hostinger non ha un codice da digitare, perché lo sconto è già nel link. Con questo link, un piano nuovo ottiene il 20% solo sul primo periodo, poi il rinnovo torna al prezzo standard. L'importo dipende dal periodo scelto; vedi «Come funziona lo sconto» più sotto."
       ]
     },
     {
       "heading": "Cosa dice Hostinger sui coupon",
       "paragraphs": [
-        "Nella FAQ del Black Friday, Hostinger scrive che “non è necessario nessun codice coupon per le offerte principali”, perché gli sconti vengono applicati in automatico. La stessa FAQ avvisa che alcune promozioni di canali specifici possono usare codici separati. Questo testo parla solo del link di invito. Non citiamo codici di altri siti, e per lo sconto di questo link non ti serve nessun codice."
+        "Nella FAQ del Black Friday, Hostinger scrive che per le offerte principali non serve nessun codice coupon, perché gli sconti vengono applicati automaticamente nella pagina. La stessa FAQ avvisa che alcune promozioni di canali specifici possono usare codici separati.",
+        "Questo testo riguarda solo il link di invito, cioè il modo in cui funziona lo sconto di questo sito. Non citiamo codici di altri siti, e per questo sconto non ne serve nessuno."
       ]
     },
     {
       "heading": "Dove va il codice",
       "paragraphs": [
-        "Il codice è già nel link, quindi non devi digitare nulla. Il link porta alla pagina dei prezzi di Hostinger. Per vedere il riepilogo dell’offerta sul sito, consulta la [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
-      ]
-    },
-    {
-      "heading": "Il sito gira su Hostinger",
-      "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l’assistenza lo ha risolto, soprattutto con l’agente IA. Personalmente non ha mai visto un’interruzione del servizio. Questa è la sua esperienza; le regole dello sconto sono nella pagina di Hostinger e sono quelle descritte in questo testo."
-      ]
-    },
-    {
-      "heading": "Quanto costa con e senza il link",
-      "paragraphs": [
-        "I valori con il link sono calcolati sul prezzo della campagna in corso e possono cambiare in qualsiasi momento. Per i prezzi, consulta la pagina dei prezzi della tua regione tramite il link."
-      ],
-      "bullets": [
-        "Con il link, il primo periodo di un piano nuovo costa il 20% in meno.",
-        "Il rinnovo non ha sconti: si paga il prezzo standard, indicato sotto la scheda di ogni piano.",
-        "Prima di pagare, controlla nel carrello l’importo finale per la tua regione."
-      ],
-      "postParagraphs": [
-        "Per la campagna in sé, con le date e il confronto con l’acquisto senza link, vedi il [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
+        "Da nessuna parte. Il codice di invito è già nel link, quindi non devi digitare nulla al pagamento. Il link porta alla pagina dei prezzi di Hostinger con lo sconto applicato; quando l'abbiamo aperta il 24 ottobre 2026, ogni scheda di piano mostrava l'avviso «Referral code applied» (codice di invito applicato). Per un riepilogo dell'offerta, vedi la [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
       ]
     },
     {
       "heading": "Come funziona lo sconto",
       "paragraphs": [
-        "La pagina dice che lo sconto vale per “il primo periodo di qualsiasi nuovo piano, indipendentemente dal prodotto scelto”. I termini del programma, però, limitano i servizi idonei e parlano di abbonamenti da 12 mesi o più. Per questo questo testo non dice “qualsiasi piano”: controlla nel carrello che il 20% compaia sul piano che hai scelto. I termini parlano anche di “fino al 20%” di sconto per chi arriva dal link; la pagina mostra il 20%."
+        "La pagina di invito di Hostinger dice che il 20% vale per il primo periodo di qualsiasi piano nuovo, indipendentemente dal prodotto. Lo sconto si calcola sul prezzo di campagna in vigore in quel momento, quindi il prezzo finale dipende dalla tua regione e dalla promozione attiva quando acquisti. Per questo il testo non indica prezzi: la pagina raggiunta dal link mostra quelli attuali.",
+        "Il periodo scelto cambia il calcolo. Il 20% si applica al primo periodo intero: un primo periodo lungo significa uno sconto totale più alto, uno corto significa uno sconto minore e un rinnovo prima, al prezzo standard.",
+        "Le condizioni del programma sono più strette della pagina. Limitano i servizi idonei, parlano di abbonamenti da 12 mesi o più e dicono «fino al 20%» dove la pagina indica 20%. Per questo il testo non promette lo sconto su tutti i piani: controlla nel carrello che il 20% compaia sul piano scelto.",
+        "Per la campagna del Black Friday, con le date e il confronto tra promozione e link, vedi la [guida Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
       ]
     },
     {
       "heading": "Rinnovo: cosa cambia dopo il primo periodo",
       "paragraphs": [
-        "Dopo il primo periodo, il piano si rinnova al prezzo standard, indicato sotto la scheda di ogni piano. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo. Per disattivare il rinnovo automatico e capire cosa fare con un addebito che non riconosci, vedi [Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot)."
+        "Dopo il primo periodo il piano si rinnova al prezzo standard, indicato sotto la scheda di ogni piano nella pagina dei prezzi. Il rinnovo non ha sconti. La pagina dice che puoi cambiare periodo di fatturazione o annullare in qualsiasi momento prima del rinnovo.",
+        "Per disattivare il rinnovo automatico e vedere cosa dicono i clienti su addebiti inattesi, leggi l'[articolo di Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot), che contiene la procedura passo passo dal centro assistenza di Hostinger."
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/cupom-hostinger-indicacao-primeiro-periodo-renovacao-it.webp",
-          "alt": "Grafico che confronta il primo periodo con il 20% dal link e il rinnovo al prezzo standard dopo di esso",
+          "alt": "Tabella che confronta il primo periodo con il 20% dal link e il rinnovo al prezzo standard successivo",
           "caption": "Primo periodo con il 20% dal link di invito, e rinnovo al prezzo standard. Immagine: grafico di Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
@@ -104,28 +89,39 @@
     {
       "heading": "Perché lo sconto non si somma con altri coupon",
       "paragraphs": [
-        "La FAQ della pagina dice “questo è già il miglior prezzo che possiamo offrire con questo link”, quindi altri coupon di sconto non sono cumulabili. Se trovi un codice su un altro sito, non si somma con il link, e non ne consigliamo nessuno."
+        "La FAQ della pagina dice che questo è già il miglior prezzo che Hostinger può offrire tramite il link, e che altri coupon di sconto non sono cumulabili con esso. Se trovi un codice su un altro sito, non si somma al 20%. Non ne consigliamo nessuno."
       ]
     },
     {
-      "heading": "VPS, e-mail e dominio",
+      "heading": "Quali servizi rientrano: hosting, VPS, e-mail e dominio",
       "paragraphs": [
-        "I termini del programma elencano tra i servizi idonei l’hosting di siti, il VPS e l’e-mail di Hostinger. Il dominio non compare in questo elenco, quindi non contiamo sul 20% per il dominio; vale quello che compare nel carrello. La pagina inoltre non usa il termine “primo acquisto”: la sua regola è il primo periodo di un piano nuovo."
+        "I termini del programma elencano tra i servizi idonei l'hosting di siti, il VPS e l'e-mail di Hostinger. Il dominio non compare in questo elenco, quindi non contiamo sul 20% per un dominio; vale quello che appare nel carrello.",
+        "La pagina non usa inoltre il termine «primo acquisto»: la sua regola è il primo periodo di un piano nuovo, cosa che conta se pensi di aggiungere un altro prodotto in seguito."
       ]
     },
     {
-      "heading": "Chi è già cliente",
+      "heading": "Clienti già esistenti",
       "paragraphs": [
-        "Il link non vale per i rinnovi né per un acquisto già fatto. I termini descrivono il programma come rivolto a nuovi utenti. La pagina non dice cosa offre Hostinger a chi è già cliente, quindi questo testo non promette sconti per rinnovare. Chi ha già un piano controlla il valore del rinnovo nel pannello di Hostinger."
+        "Il link non vale per i rinnovi né per gli acquisti già fatti. I termini descrivono il programma come rivolto a nuovi utenti, e la pagina non dice cosa offre Hostinger a chi è già cliente, quindi questo testo non promette sconti al rinnovo. Se hai già un piano, controlla il prezzo del rinnovo nel pannello di Hostinger."
       ]
     },
     {
-      "heading": "Prima di pagare",
+      "heading": "La nostra esperienza con Hostinger",
+      "paragraphs": [
+        "Questo sito gira su Hostinger. Bruno, che firma anche questo testo, è cliente dal 2024, con più di 24 mesi: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che c'è stato un problema, l'assistenza lo ha risolto, soprattutto con l'agente IA, e non ha mai visto il servizio andare giù.",
+        "È la sua esperienza, con il suo uso. Le regole dello sconto in questo testo vengono dalla pagina di invito di Hostinger e dai suoi termini, non dalla sua esperienza."
+      ]
+    },
+    {
+      "heading": "Il link di invito vale la pena?",
+      "paragraphs": [
+        "La nostra lettura: per un piano nuovo, sì. Il link non costa nulla da usare, non c'è un codice da sbagliare, e il 20% sul primo periodo è più di quanto darebbe un coupon di un altro sito, perché quelli non si sommano. A decidere quanto risparmi sono il periodo scelto e il prezzo del rinnovo, quindi controllali entrambi prima di pagare:"
+      ],
       "bullets": [
         "Apri il link dal pulsante di questo articolo.",
-        "Confronta il prezzo del primo periodo con e senza il link, sullo stesso piano e periodo.",
-        "Nel carrello, verifica che il 20% compaia sul primo periodo e che il rinnovo sia indicato. La pagina non dice se l’account deve essere nuovo, quindi è il momento di controllarlo.",
-        "Se l’importo nel carrello non corrisponde a quello della pagina dei prezzi, vale l’importo del carrello."
+        "Nella pagina dei prezzi cerca l'avviso che il codice di invito è stato applicato, e confronta il totale del primo periodo con e senza il link.",
+        "Nel carrello, verifica che il 20% compaia sul primo periodo e che il rinnovo sia indicato. La pagina non dice se l'account deve essere nuovo, quindi è il momento di verificarlo.",
+        "Se il prezzo nel carrello è diverso da quello che hai visto altrove, vale il prezzo del carrello. I prezzi cambiano con la campagna e con la regione."
       ]
     },
     {
@@ -141,7 +137,7 @@
     {
       "heading": "Nota di trasparenza",
       "paragraphs": [
-        "Questo è un articolo con link di invito. Gli acquisti fatti tramite il link possono generare un credito su Hostinger per Bruno, senza costi extra per chi acquista. Il sito gira su Hostinger, e Bruno è cliente dal 2024. I prezzi sono del 19/10/2026, cambiano con le campagne e Hostinger può modificarli in qualsiasi momento."
+        "Questo è un articolo con link di invito. Gli acquisti fatti tramite il link possono generare un credito su Hostinger per Bruno, senza costi extra per chi acquista. Questo sito gira su Hostinger, e Bruno è cliente dal 2024. La pagina di invito, la sua FAQ e i termini del programma sono stati letti il 19 ottobre 2026. Prezzi e campagne cambiano, e Hostinger può modificarli in qualsiasi momento."
       ]
     }
   ],
@@ -162,7 +158,7 @@
     },
     {
       "slug": "hostinger-recensioni-trustpilot",
-      "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni"
     },
     {
       "slug": "black-friday-hostinger-offerte",

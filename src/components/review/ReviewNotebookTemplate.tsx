@@ -4,6 +4,7 @@ import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
+import { getLocalizedCoupon } from '@/lib/couponTranslations';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
@@ -128,11 +129,13 @@ export function ReviewNotebookTemplate({
       ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark }
       : undefined;
 
-  // O link do recorte: 'Ir para a loja' com código; sem código, o rótulo que a página da loja já usa.
+  // O link do recorte: 'Ir para a loja' com código; sem código, o rótulo que a página da loja já usa, no
+  // idioma do artigo.
   const storeCopy = COUPON_STORE_COPY[couponCopyLocale];
-  const storeLabel = storeBlock?.code
-    ? storeCopy.goToStore
-    : (couponCopyLocale === 'pt' && store?.offerActionLabel) || storeCopy.viewOffer;
+  const offerActionLabel = couponCopyLocale === 'pt'
+    ? store?.offerActionLabel
+    : review.affiliate && getLocalizedCoupon(review.affiliate, couponCopyLocale)?.offerActionLabel;
+  const storeLabel = storeBlock?.code ? storeCopy.goToStore : offerActionLabel || storeCopy.viewOffer;
   // O código da loja citado no texto do corpo copia ao toque, com os textos do recorte.
   const inlineCodeCopy = storeBlock?.code
     ? { code: storeBlock.code, codeKind: storeBlock.codeKind, brand: storeBlock.brand, slug: storeBlock.slug, reviewSlug: review.slug, locale: couponCopyLocale }

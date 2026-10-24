@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Redazione e analisi",
       "initials": "BL"
     }
   ],
-  "description": "Il Black Friday di Hostinger va dal 19/10 al 14/12/2026. Ecco come confrontare la campagna con il link di invito, il rinnovo e cosa controllare prima di pagare.",
-  "metaDescription": "Black Friday Hostinger 2026: campagna dal 19/10 al 14/12, prezzi con e senza il link di invito e rinnovo. Confrontali prima di pagare.",
+  "description": "Il Black Friday di Hostinger va dal 19 ottobre al 14 dicembre 2026, secondo la FAQ dell’azienda. Come funziona il link di invito durante la campagna, quanto costa il rinnovo e come confrontare entrambi prima di pagare.",
+  "metaDescription": "Black Friday Hostinger 2026: date della campagna dalla FAQ ufficiale, come funziona il link di invito con il 20% nel primo periodo, rinnovo al prezzo standard e confronto prima di pagare.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,46 +45,51 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, il Black Friday di Hostinger è iniziato e va fino al 14/12/2026. Per le offerte principali non serve nessun codice, e il link di invito applica il 20% sul prezzo della campagna, solo nel primo periodo. A cambiare il conto è il rinnovo; vedi «Come confrontare la campagna con il link» più sotto."
+        "Secondo la FAQ di Hostinger, la campagna di Black Friday va dal 19 ottobre al 14 dicembre 2026. Le offerte principali non richiedono codici, e il link di invito applica il 20% solo nel primo periodo; il rinnovo si paga al prezzo standard. Vedi «Come confrontare la campagna con il link» per fare il confronto prima di pagare."
       ]
     },
     {
       "heading": "Il Black Friday di Hostinger è già iniziato?",
       "paragraphs": [
-        "È già iniziato. La FAQ ufficiale di Hostinger dice: “La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026.” La pagina globale in inglese riporta la stessa data.",
-        "Questo testo non usa le percentuali dei banner della pagina: il VPS resta fuori, e ne parliamo più avanti.",
-        "Questo testo tratta solo la campagna 2026. Le edizioni precedenti non sono incluse: le fonti che abbiamo consultato davano date e percentuali diverse, e nessuna era di Hostinger."
+        "Sì, secondo Hostinger. Il 19 ottobre 2026 la FAQ ufficiale dell’azienda indicava che la promozione Black Friday va dal 19 ottobre al 14 dicembre 2026, e il 24 ottobre 2026 la pagina globale del Black Friday mostrava le stesse date. Se leggi questo testo più tardi, controlla le date attuali sul sito di Hostinger.",
+        "I banner di Hostinger mostrano uno sconto preceduto da «fino a». È il massimo del banner, non lo sconto di ogni piano. Lo sconto di ciascun piano è nella pagina dei prezzi della tua regione.",
+        "Questo testo tratta solo la campagna 2026. Le edizioni precedenti non sono incluse: le fonti che abbiamo consultato davano date e percentuali diverse, e nessuna era di Hostinger stessa."
       ]
     },
     {
       "heading": "Come confrontare la campagna con il link",
       "paragraphs": [
-        "Il calcolo è semplice: il link applica il 20% sul prezzo che la pagina mostra durante la campagna, e solo nel primo periodo. I prezzi cambiano con il piano, il periodo e la regione, quindi qui non elenchiamo nessun valore.",
-        "Non abbiamo letto il prezzo del VPS né quello degli altri periodi di abbonamento, quindi non diciamo nulla su di essi."
+        "Campagna e link di invito non sono due prezzi tra cui scegliere. Il link applica il suo sconto al prezzo mostrato dalla pagina, quindi durante la campagna lavora sul prezzo della campagna. Tre regole determinano il calcolo:"
+      ],
+      "bullets": [
+        "Il link di invito applica il 20% sul prezzo della pagina, e solo nel primo periodo di un piano nuovo.",
+        "Lo sconto non si somma ad altri coupon o codici.",
+        "Il rinnovo si paga al prezzo standard, che Hostinger mostra prima del pagamento."
       ],
       "postParagraphs": [
-        "Perché il link di invito non si somma ad altre promozioni, e cosa succede allo sconto al rinnovo, lo spiega [Hostinger coupon: come funziona il link di invito](/it/reviews/coupon-hostinger-codice-invito)."
+        "Abbiamo verificato i prezzi solo in Brasile, il 19 ottobre 2026. Lì, sui piani da 48 mesi che abbiamo letto, il link ha applicato il 20% sul prezzo della campagna ed è risultato più conveniente della sola campagna. I prezzi cambiano per regione e durante la campagna, quindi questo articolo non riporta importi. Per conoscere il tuo prezzo, apri la pagina dei prezzi della tua regione tramite il link, annota il totale del primo periodo del piano e della durata che ti interessano, poi apri la stessa pagina senza il link e confronta.",
+        "Perché il link non si somma ad altri coupon e cosa succede allo sconto al rinnovo è spiegato in [Coupon Hostinger: non serve, ecco cosa dà il link di invito](/it/reviews/coupon-hostinger-codice-invito)."
       ]
     },
     {
       "heading": "Chi deve aspettare e chi no",
       "paragraphs": [
-        "Se ti serve il sito online questa settimana, non aspettare: con il link, il primo periodo costa già meno della campagna da sola.",
-        "Se puoi aspettare, sappi che la campagna va fino al 14/12, ma nessun prezzo è garantito fino ad allora. Lo sconto del link dipende dal prezzo della campagna: se la campagna cambia, cambia anche il link.",
-        "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ indica il Premium. Il Single è il piano che la pagina definisce ideale per chi sta iniziando o ha progetti semplici. Per il VPS non abbiamo fatto nessun confronto: non abbiamo letto il prezzo del VPS né con né senza il link.",
-        "Chi è già cliente segue un’altra strada. La FAQ dice che i clienti attuali possono ricevere offerte separate di upgrade e cross-selling, e l’invito vale solo per un piano nuovo, non per il rinnovo né per un acquisto già fatto. Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
+        "Se ti serve il sito online questa settimana, non aspettare. Apri la pagina dei prezzi della tua regione tramite il link, confronta il totale del primo periodo con e senza il link, poi decidi. La campagna è già in corso e il link si applica sopra di essa.",
+        "Se puoi aspettare, sappi che la campagna dura fino al 14 dicembre 2026, ma nessun prezzo è garantito fino ad allora. Lo sconto del link è il 20% del prezzo della pagina: se il prezzo cambia, cambia anche lo sconto. La nostra lettura: aspettare conviene solo se ti aspetti che il prezzo di campagna del tuo piano scenda, e Hostinger non indica nessuna data per questo.",
+        "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ di Hostinger indica il piano Premium. La pagina definisce il piano Single ideale per chi inizia o ha progetti semplici. Per il VPS non abbiamo un confronto: non abbiamo verificato il prezzo del VPS né con né senza il link.",
+        "Chi è già cliente è in un’altra situazione. La FAQ dice che i clienti attuali possono ricevere offerte separate di upgrade e cross-selling, e che l’invito vale solo per un piano nuovo, non per i rinnovi né per acquisti già fatti. Bruno, che cura questo sito, è cliente di Hostinger dal 2024. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
       ]
     },
     {
       "heading": "Come verificare prima di pagare",
       "bullets": [
         "Apri [Hostinger nella pagina del negozio di questo sito](/it/coupons/hostinger) e prosegui dal pulsante di invito.",
-        "In una finestra in incognito, apri Hostinger direttamente, senza il link, e scegli lo stesso piano e lo stesso periodo: così hai il prezzo di partenza da confrontare con quello del link.",
-        "Confronta il totale del primo periodo, non solo il prezzo al mese. Il totale mostra la differenza reale.",
+        "In una finestra in incognito apri Hostinger direttamente, senza il link, e scegli lo stesso piano e lo stesso periodo.",
+        "Confronta il totale del primo periodo, non solo il prezzo mensile. Il totale mostra la differenza reale.",
         "Controlla il prezzo del rinnovo prima di concludere. Hostinger lo mostra prima del pagamento, e non è quello della campagna."
       ],
       "postParagraphs": [
-        "Prima di pagare, lo storico dei reclami dell’azienda è in [Hostinger su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot), e cosa copre la garanzia e cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        "Prima di pagare, lo storico dei reclami dell’azienda è in [Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni](/it/reviews/hostinger-recensioni-trustpilot), e cosa copre la garanzia e cosa resta fuori è in [Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare](/it/reviews/hostinger-e-affidabile)."
       ],
       "images": [
         {
@@ -100,16 +105,16 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Il Black Friday di Hostinger richiede un codice? No, per le offerte principali: gli sconti si applicano da soli. Hostinger dice che alcuni canali hanno promozioni con un codice dedicato, e qui non ne citiamo nessuno.",
-        "Fino a quando dura il Black Friday di Hostinger? Fino al 14 dicembre 2026, secondo la FAQ ufficiale consultata il 19/10/2026.",
-        "Il prezzo del Black Friday resta al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
-        "Il link di invito costa meno della campagna? Sì: il link applica il 20% sul prezzo della campagna nel primo periodo. Poiché i prezzi cambiano, confrontali prima di pagare.",
-        "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        "Fino a quando dura il Black Friday di Hostinger? Fino al 14 dicembre 2026, secondo la FAQ ufficiale consultata il 24 ottobre 2026.",
+        "Il prezzo del Black Friday resta al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo standard del piano.",
+        "Il link di invito costa meno della campagna? Applica il 20% sul prezzo della pagina nel primo periodo: sui piani che abbiamo verificato in Brasile il 19 ottobre 2026 è risultato più conveniente della sola campagna. Non abbiamo verificato altre regioni e i prezzi cambiano, quindi confronta il totale del primo periodo con e senza il link prima di pagare.",
+        "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare](/it/reviews/hostinger-e-affidabile)."
       ]
     },
     {
       "heading": "Nota di trasparenza",
       "paragraphs": [
-        "Questo articolo usa il link di invito di Hostinger, l’azienda che ospita il sito Em Casa com Cecília. L’invito può generare un credito per Bruno, senza costi extra per te, e lo sconto è quello che il link mostra. Prezzi e campagna cambiano, e i numeri di questo testo non sono una garanzia: controlla la pagina dei prezzi della tua regione, raggiunta dal link, e il carrello prima di pagare."
+        "Questo articolo usa il link di invito di Hostinger, l’azienda che ospita il sito Em Casa com Cecília. L’invito può generare un credito per Bruno, senza costi extra per te, e lo sconto è quello che mostra il link. Le date della campagna e il testo della FAQ sono stati letti il 19 ottobre 2026, e le date sono state ricontrollate sulla pagina globale del Black Friday il 24 ottobre 2026. Gli unici prezzi letti sono sulla pagina pubblica di Hostinger per il Brasile, nello stesso giorno, senza accesso né carrello, e non compaiono in questo testo perché non valgono per altre regioni. Campagne e prezzi cambiano: controlla la pagina dei prezzi aperta dal link e il carrello prima di pagare."
       ]
     }
   ],
@@ -130,7 +135,7 @@
     },
     {
       "slug": "hostinger-recensioni-trustpilot",
-      "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni"
     },
     {
       "slug": "coupon-hostinger-codice-invito",

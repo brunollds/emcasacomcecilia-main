@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und echte Kosten bei Hostinger, mit Preisen vom 21. Oktober 2026.",
-  "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Speicher, KI-Modelle und Preis mit und ohne Empfehlungslink, Stand 21.10.2026.",
+  "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und echte Kosten bei Hostinger, mit US-Dollar-Preisen vom 21.10.2026.",
+  "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und Preis mit und ohne Empfehlungslink, Stand 21.10.2026.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -44,14 +44,14 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Wählen Sie OpenClaw für viele Nachrichtenkanäle und native Apps für Handy und Computer, den Hermes Agent für einen Agenten, der aus der Nutzung lernt. Die Software ist in beiden Fällen kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; siehe das Kapitel Für wen welcher ist weiter unten."
+        "Wählen Sie OpenClaw für viele Nachrichtenkanäle und native Apps für Handy und Computer, Hermes Agent für einen Agenten, der aus der Nutzung lernt. Die Software ist in beiden Fällen kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; siehe das Kapitel Für wen welcher ist."
       ]
     },
     {
       "heading": "Was jedes ist",
       "paragraphs": [
         "OpenClaw und Hermes Agent sind quelloffene KI-Assistenten mit MIT-Lizenz. Sie installieren sie, um sie selbst laufen zu lassen, und sprechen über Telegram, WhatsApp oder eine andere Nachrichten-App mit ihnen. Die Lizenz kostet nichts; was sich unterscheidet, sind Oberfläche, Gedächtnis und die Frage, wer das Projekt pflegt.",
-        "**OpenClaw** wird von der OpenClaw Foundation betreut, einer gemeinnützigen Organisation. Laut dem offiziellen README bleiben Zustand, Gedächtnis und Zugangsdaten auf dem Gerät, auf dem es läuft, und das Projekt hat weder einen kostenpflichtigen Tarif, noch einen gehosteten Dienst oder ein Token. Es hat eine Weboberfläche (Control UI), eine Kommandozeile und native Apps für macOS, iOS, Android, Windows und Linux. Bei Hostinger kann man es verwaltet oder als VPS buchen, wie der [Leitfaden zu verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) zeigt.",
+        "**OpenClaw** wird von der OpenClaw Foundation betreut, einer gemeinnützigen Organisation. Laut dem offiziellen README bleiben Zustand, Gedächtnis und Zugangsdaten auf dem Gerät, auf dem es läuft, und das Projekt hat weder einen kostenpflichtigen Tarif noch einen gehosteten Dienst oder ein Token. Es hat eine Weboberfläche (Control UI), eine Kommandozeile und native Apps für macOS, iOS, Android, Windows und Linux. Bei Hostinger kann man es verwaltet oder als VPS buchen, wie der [Leitfaden zu verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) zeigt.",
         "**Hermes Agent** stammt von Nous Research, einem Unternehmen, das KI-Modelle entwickelt. Sein Unterschied ist der Lernkreislauf: Der Agent organisiert sein Gedächtnis über die Sitzungen hinweg, erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Es gibt ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installationsprogramm für Windows und macOS. Die Projektseite nennt keinen Preis für die Software. Sie erwähnt das Nous Portal, ein Abo mit Werkzeugen wie Websuche, Browsersteuerung und Bilderzeugung, ohne angegebenen Betrag. Das Nous Portal ist eine Möglichkeit, das Modell zu bezahlen, nicht die einzige."
       ]
     },
@@ -164,29 +164,9 @@
       ]
     },
     {
-      "heading": "Für wen welcher ist",
-      "paragraphs": [
-        "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, nicht von der Software."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
-        "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
-        "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
-      },
-      "bullets": [
-        "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
-        "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
-        "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server.",
-        "**Wer nichts installieren und keinen Server betreuen will:** verwaltet, bei beiden. Hostinger installiert und aktualisiert."
-      ],
-      "postParagraphs": [
-        "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
-      ]
-    },
-    {
       "heading": "Wo Sie auf Hostinger betreiben",
       "paragraphs": [
-        "Preise für 24-Monats-Tarife, gelesen am 21.10.2026. In der Tabelle gilt der verwaltete Tarif für OpenClaw und Hermes Agent zum gleichen Preis. Die Black-Friday-Kampagne ändert die Werte, prüfen Sie also den Warenkorb."
+        "Preise für 24-Monats-Tarife der globalen Seite von Hostinger, in US-Dollar, gelesen am 21.10.2026. Der verwaltete Tarif gilt für OpenClaw und Hermes Agent zum gleichen Preis. Bei den VPS-Tarifen zeigte die Seite den Preis mit Empfehlungslink nicht an; die 20 % erscheinen im Warenkorb. Die Black-Friday-Kampagne von Hostinger ändert die Beträge, und in Ihrem Land kann die Seite eine andere Währung und Steuern anzeigen. Bestätigen Sie den Preis deshalb im Warenkorb."
       ],
       "comparisonTable": {
         "headers": [
@@ -206,28 +186,28 @@
           ],
           [
             "VPS KVM 1",
-            "1 vCPU, 4 GB RAM, 50 GB Speicher",
+            "1 vCPU, 4 GB RAM, 50 GB Speicher (NVMe)",
             "US$ 6,49/Monat",
             "Im Warenkorb",
             "US$ 11,99/Monat"
           ],
           [
             "VPS KVM 2",
-            "2 vCPU, 8 GB RAM, 100 GB Speicher",
+            "2 vCPU, 8 GB RAM, 100 GB Speicher (NVMe)",
             "US$ 8,79/Monat",
             "Im Warenkorb",
             "US$ 14,99/Monat"
           ],
           [
             "VPS KVM 4",
-            "4 vCPU, 16 GB RAM, 200 GB Speicher",
+            "4 vCPU, 16 GB RAM, 200 GB Speicher (NVMe)",
             "US$ 12,99/Monat",
             "Im Warenkorb",
             "US$ 28,99/Monat"
           ],
           [
             "VPS KVM 8",
-            "8 vCPU, 32 GB RAM, 400 GB Speicher",
+            "8 vCPU, 32 GB RAM, 400 GB Speicher (NVMe)",
             "US$ 25,99/Monat",
             "Im Warenkorb",
             "US$ 49,99/Monat"
@@ -241,10 +221,24 @@
       ]
     },
     {
-      "heading": "Empfehlung",
+      "heading": "Für wen welcher ist",
       "paragraphs": [
-        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es sind **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich **nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung wird zum regulären Preis berechnet. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen.",
-        "Die vollständige Regel steht unter [so funktioniert der Empfehlungslink von Hostinger](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, und danach davon, wer sich um den Server kümmert."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+        "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
+        "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
+      },
+      "bullets": [
+        "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
+        "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
+        "**Wer nichts installieren und keinen Server betreuen will:** der verwaltete Tarif, mit einem der beiden. Hostinger installiert und aktualisiert, für 3,99 US$/Monat mit dem Empfehlungslink in einem 24-Monats-Tarif, gelesen am 21.10.2026.",
+        "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server. KVM 1 mit 4 GB RAM ist der Einstieg für 6,49 US$/Monat vor dem Rabatt; ein lokales KI-Modell braucht mehr Speicher, wie der Leitfaden zum VPS erklärt."
+      ],
+      "postParagraphs": [
+        "Unsere Einschätzung: Die beiden Projekte überschneiden sich bei Planer, Subagenten und Kanälen, wählen Sie also nach der Funktion, die Sie tatsächlich nutzen. Wenn Sie keinen klaren Bedarf an einem lernenden Agenten haben, ist OpenClaw das breitere Werkzeug, mit mehr Oberflächen und einer gemeinnützigen Organisation dahinter. Wenn der Lernkreislauf der Kern ist, ist Hermes Agent das einzige der beiden, das ihn bietet.",
+        "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
       ]
     },
     {
@@ -254,14 +248,21 @@
         "Funktioniert es mit Telegram? Ja, bei beiden. Sie erstellen den Bot bei BotFather und fügen das Token in die Konfiguration ein.",
         "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen das Token ein. Beim VPS braucht es Grundkenntnisse über Server, etwa Root, Docker und Aktualisierungen. Programmieren ist nur nötig, wenn Sie am Code des Projekts arbeiten wollen.",
         "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person, keine direkte Öffnung zum Internet und Prüfung von Drittanbieter-Software vor der Installation.",
-        "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keines der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README des Hermes Agent führt den Anthropic-Schlüssel unter den Geheimnissen auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt der Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, passt OpenClaw."
+        "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keines der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README des Hermes Agent führt den Anthropic-Schlüssel unter den Geheimnissen auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt der Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, passt OpenClaw.",
+        "Gibt es einen Hostinger-Gutscheincode für OpenClaw oder Hermes Agent? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Gutscheinen kombinieren."
+      ]
+    },
+    {
+      "heading": "Wenn Sie sich schon entschieden haben",
+      "paragraphs": [
+        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es sind **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich **nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung wird zum regulären Preis berechnet. Bei den am 21.10.2026 gelesenen 24-Monats-Tarifen kostet der verwaltete Tarif mit dem Link 3,99 US$/Monat, KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 US$ und 8,79 US$/Monat, was im Warenkorb erscheint. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Die vollständige Regel steht unter [so funktioniert der Empfehlungslink von Hostinger](/de/reviews/hostinger-gutschein-empfehlungscode), und [die Seite von Hostinger auf dieser Website](/de/coupons/hostinger) nennt die aktuellen Bedingungen."
       ]
     },
     {
       "heading": "Wer schreibt",
       "paragraphs": [
         "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw oder Hermes Agent.",
-        "Dieser Text fasst die Seiten von Hostinger sowie die Richtlinien und Dokumentationen beider Projekte zusammen, gelesen am 21.10.2026. Der Vergleich, den OpenClaw selbst veröffentlicht, stammt vom Projekt und erscheint in der Tabelle in der Spalte Quelle unter diesem Namen."
+        "Dieser Text fasst die Seiten von Hostinger sowie die Richtlinien und Dokumentationen beider Projekte zusammen, gelesen am 21.10.2026. Der Vergleich, den OpenClaw selbst veröffentlicht, stammt vom Projekt und erscheint in der Tabelle in der Spalte Quelle unter diesem Namen. Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie."
       ]
     }
   ],

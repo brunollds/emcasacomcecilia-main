@@ -2155,7 +2155,7 @@ export const COUPONS: Coupon[] = [
     discount: '20% OFF',
     offerTypeLabel: 'indicação',
     offerTypeLabelPlural: 'indicações',
-    offerActionLabel: 'Ver os planos com desconto',
+    offerActionLabel: 'Clique para ter 20% OFF nos planos',
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
     shortDescription: 'primeiro período de qualquer plano novo, com o desconto já no link',

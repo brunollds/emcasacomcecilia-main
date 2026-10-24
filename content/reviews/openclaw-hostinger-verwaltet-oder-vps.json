@@ -44,7 +44,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Wählen Sie verwaltet, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und andere Programme auf derselben Maschine betreiben. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist der Wartungsaufwand, den Sie akzeptieren; siehe „Was es wirklich kostet“ weiter unten."
+        "Wählen Sie verwaltet, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und andere Programme auf derselben Maschine betreiben. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist, wie viel Serverpflege Sie übernehmen; siehe das Kapitel „Wer sollte was wählen“."
       ]
     },
     {
@@ -59,13 +59,13 @@
       ]
     },
     {
-      "heading": "Verwaltet oder VPS: die Tabelle",
+      "heading": "Verwaltet oder VPS: was jede Option bietet",
       "paragraphs": [
-        "Der verwaltete OpenClaw ist der Tarif „AI automation apps“, derselbe wie für den verwalteten Hermes Agent und Paperclip, zum gleichen Preis. Die Werte gelten für einen 24-Monats-Plan und wurden am 21.10.2026 gelesen."
+        "Der verwaltete OpenClaw ist der Tarif „AI automation apps“, derselbe, mit dem auch Hermes Agent und Paperclip verwaltet laufen, zum gleichen Preis. Die VPS-Spalte steht für KVM 1, den kleinsten Tarif. Die Preise gelten für 24-Monats-Pläne auf der globalen Hostinger-Seite in US-Dollar, gelesen am 21.10.2026."
       ],
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-de.webp",
-        "alt": "Tabelle mit zwei Spalten, Verwaltet und VPS: Hostinger installiert bei beiden; Updates und Serversicherheit übernimmt beim verwalteten Plan Hostinger, beim VPS Sie; KI-Guthaben oder eigenen Schlüssel wählen Sie bei beiden",
+        "alt": "Tabelle mit zwei Spalten, Verwaltet und VPS: Hostinger installiert bei beiden; Updates und Serversicherheit übernimmt beim verwalteten Tarif Hostinger, beim VPS Sie; KI-Guthaben oder eigenen Schlüssel wählen Sie bei beiden",
         "caption": "Wer was übernimmt, laut der Hostinger-Seite und der OpenClaw-Dokumentation, gelesen am 21.10.2026."
       },
       "comparisonTable": {
@@ -76,14 +76,14 @@
         ],
         "rows": [
           [
-            "Preis ohne Empfehlungslink",
+            "Erster Zeitraum ohne Empfehlungslink",
             "4,99 USD pro Monat",
             "6,49 USD pro Monat"
           ],
           [
-            "Preis mit Empfehlungslink",
+            "Erster Zeitraum mit Empfehlungslink",
             "3,99 USD pro Monat",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb"
+            "20 % Rabatt, im Warenkorb angezeigt"
           ],
           [
             "Verlängerung",
@@ -108,7 +108,7 @@
           [
             "Wer aktualisiert",
             "Hostinger, automatisch",
-            "Sie, über den Update-Button des Docker Managers"
+            "Sie, über den Update-Button im Docker Manager"
           ],
           [
             "Serversicherheit",
@@ -129,7 +129,7 @@
     {
       "heading": "Was es wirklich kostet",
       "paragraphs": [
-        "Der Preis auf der Seite gilt pro Monat. Der 24-Monats-Plan wird aber auf einmal bezahlt:"
+        "Der Preis auf der Seite gilt pro Monat, der 24-Monats-Plan wird aber auf einmal bezahlt:"
       ],
       "bullets": [
         "**Verwaltet, mit Empfehlungslink:** 24 × 3,99 USD = **95,76 USD**. Ohne Empfehlungslink: 24 × 4,99 USD = 119,76 USD.",
@@ -143,58 +143,10 @@
       ]
     },
     {
-      "heading": "Telegram und WhatsApp",
-      "paragraphs": [
-        "Beide Kanäle funktionieren bei beiden Optionen. Der Unterschied liegt darin, wo Sie sie einrichten. Bei der verwalteten Option wählen Sie die Kanäle im Einrichtungsassistenten von Hostinger: Bei WhatsApp lesen Sie einen QR-Code ein, bei Telegram fügen Sie den Bot-Token ein. Beim VPS hat die Einrichtung optionale Felder für die WhatsApp-Nummer mit Ländervorwahl und für den Telegram-Bot-Token. Die Dokumentation zeigt nicht, wo beim VPS der WhatsApp-QR-Code erscheint.",
-        "Für Telegram sind es drei Schritte:"
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
-        "alt": "Drei Schritte, um OpenClaw mit Telegram zu verbinden: Bot bei BotFather erstellen und Token kopieren, Token in die OpenClaw-Konfiguration einfügen und eine Nachricht senden, um den ersten Kontakt zu bestätigen",
-        "caption": "Die Schritte aus der offiziellen OpenClaw-Dokumentation, gelesen am 21.10.2026."
-      },
-      "bullets": [
-        "Erstellen Sie den Bot bei BotFather, dem offiziellen Telegram-Bot zum Erstellen von Bots, und kopieren Sie das Token.",
-        "Fügen Sie das Token in die OpenClaw-Konfiguration ein.",
-        "Schicken Sie dem Bot eine Nachricht. Wer noch nicht freigegeben ist, bekommt einen Kopplungscode, und Sie bestätigen den ersten Kontakt im OpenClaw-Dashboard."
-      ],
-      "postParagraphs": [
-        "Bei WhatsApp verbindet sich OpenClaw wie ein gekoppeltes Gerät, etwa WhatsApp Web, und die Anmeldung läuft nur per QR-Code. Die Dokumentation empfiehlt eine Nummer, die von Ihrer persönlichen Nummer getrennt ist."
-      ]
-    },
-    {
-      "heading": "Sicherheit: wann die Entscheidung sich ändert",
-      "paragraphs": [
-        "Die Frage ist, wer die Daten und Zugangsdaten betreut. Bei der verwalteten Option sagt Hostinger, dass jede Instanz isoliert in einem Container mit eigenem Sicherheitsgateway läuft. Das ist die Beschreibung von Hostinger, kein eigener Test. Beim VPS sagt Hostinger selbst, dass bei Root-Zugriff Konfiguration, Updates und Sicherheit bei dem liegen, der den Server gebucht hat.",
-        "Die Sicherheitsrichtlinie von OpenClaw besagt, dass das Tool für eine vertrauenswürdige Person gedacht ist, nicht für mehrere Personen, die sich nicht kennen: Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
-      ],
-      "bullets": [
-        "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; bei der verwalteten Option fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
-        "**Der Assistent bekommt Zugriff auf Ihre E-Mail, Ihr Bankkonto oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine persönlichen Konten angemeldet sind. Hostinger schlägt ein separates E-Mail-Postfach für den Assistenten vor.",
-        "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und schicken es nicht im Gespräch mit dem Assistenten."
-      ]
-    },
-    {
-      "heading": "Wer sollte was wählen",
-      "paragraphs": [
-        "**Wählen Sie die verwaltete Option, wenn:**"
-      ],
-      "bullets": [
-        "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
-        "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
-        "Sie nicht wissen, was Root oder Docker ist;",
-        "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
-      ],
-      "postParagraphs": [
-        "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
-        "**Im Zweifel mit der verwalteten Option beginnen.** Sie kostet im ersten Zeitraum weniger und setzt keine Serverkenntnisse voraus."
-      ]
-    },
-    {
-      "heading": "Empfehlungslink und Preis",
+      "heading": "Empfehlungslink und Preis jedes Tarifs",
       "paragraphs": [
         "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es gibt **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt **lässt sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung kostet den normalen Preis. Die vollständige Regel steht in [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode).",
-        "Die Preise gelten für 24-Monats-Pläne und stammen von der globalen Hostinger-Seite in US-Dollar, gelesen am 21.10.2026. In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen: Prüfen Sie den Betrag im Warenkorb."
+        "Preise für 24-Monats-Pläne, gelesen am 21.10.2026:"
       ],
       "comparisonTable": {
         "headers": [
@@ -237,7 +189,55 @@
         ]
       },
       "postParagraphs": [
-        "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Lesen Sie [den Black-Friday-Ratgeber zu Hostinger](/de/reviews/hostinger-black-friday-angebote) und prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
+        "Das sind die Preise der globalen Hostinger-Seite in US-Dollar. In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen, prüfen Sie also den Betrag im Warenkorb, bevor Sie zahlen. Preise ändern sich bei Aktionen: Lesen Sie [den Black-Friday-Ratgeber zu Hostinger](/de/reviews/hostinger-black-friday-angebote) und kontrollieren Sie den Endbetrag im Warenkorb."
+      ]
+    },
+    {
+      "heading": "Telegram und WhatsApp",
+      "paragraphs": [
+        "Beide Kanäle funktionieren bei beiden Optionen. Der Unterschied liegt darin, wo Sie sie einrichten. Bei der verwalteten Option wählen Sie die Kanäle im Einrichtungsassistenten von Hostinger: Bei WhatsApp lesen Sie einen QR-Code ein, bei Telegram fügen Sie den Bot-Token ein. Beim VPS hat die Einrichtung optionale Felder für die WhatsApp-Nummer mit Ländervorwahl und für den Telegram-Bot-Token. Die Dokumentation zeigt nicht, wo beim VPS der WhatsApp-QR-Code erscheint.",
+        "Für Telegram sind es drei Schritte:"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-telegram-de.webp",
+        "alt": "Drei Schritte, um OpenClaw mit Telegram zu verbinden: Bot bei BotFather erstellen und Token kopieren, Token in die OpenClaw-Konfiguration einfügen und eine Nachricht senden, um den ersten Kontakt zu bestätigen",
+        "caption": "Die Schritte aus der offiziellen OpenClaw-Dokumentation, gelesen am 21.10.2026."
+      },
+      "bullets": [
+        "Erstellen Sie den Bot bei BotFather, dem offiziellen Telegram-Bot zum Erstellen von Bots, und kopieren Sie das Token.",
+        "Fügen Sie das Token in die OpenClaw-Konfiguration ein.",
+        "Schicken Sie dem Bot eine Nachricht. Wer noch nicht freigegeben ist, bekommt einen Kopplungscode, und Sie bestätigen den ersten Kontakt im OpenClaw-Dashboard."
+      ],
+      "postParagraphs": [
+        "Bei WhatsApp verbindet sich OpenClaw wie ein gekoppeltes Gerät, etwa WhatsApp Web, und die Anmeldung läuft nur per QR-Code. Die Dokumentation empfiehlt eine Nummer, die von Ihrer persönlichen Nummer getrennt ist."
+      ]
+    },
+    {
+      "heading": "Sicherheit: wann sich die Entscheidung ändert",
+      "paragraphs": [
+        "Die Frage ist, wer die Daten und Zugangsdaten betreut. Bei der verwalteten Option sagt Hostinger, dass jede Instanz isoliert in einem Container mit eigenem Sicherheitsgateway läuft. Das ist die Beschreibung von Hostinger, kein eigener Test. Beim VPS sagt Hostinger selbst, dass bei Root-Zugriff Konfiguration, Updates und Sicherheit bei dem liegen, der den Server gebucht hat.",
+        "Die Sicherheitsrichtlinie von OpenClaw besagt, dass das Tool für eine vertrauenswürdige Person gedacht ist, nicht für mehrere Personen, die sich nicht kennen: Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
+      ],
+      "bullets": [
+        "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; bei der verwalteten Option fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
+        "**Der Assistent bekommt Zugriff auf Ihre E-Mail, Ihr Bankkonto oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine persönlichen Konten angemeldet sind. Hostinger schlägt ein separates E-Mail-Postfach für den Assistenten vor.",
+        "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und schicken es nicht im Gespräch mit dem Assistenten."
+      ]
+    },
+    {
+      "heading": "Wer sollte was wählen",
+      "paragraphs": [
+        "Die Wahl richtet sich danach, wie viel Serverpflege Sie übernehmen wollen und was die Maschine sonst noch laufen lassen soll. **Wählen Sie die verwaltete Option, wenn:**"
+      ],
+      "bullets": [
+        "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
+        "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
+        "Sie nicht wissen, was Root oder Docker ist;",
+        "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
+      ],
+      "postParagraphs": [
+        "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
+        "**Im Zweifel mit der verwalteten Option beginnen.** Zu den Preisen vom 21.10.2026 ist sie ohne Empfehlungslink in den ersten 24 Monaten 36 USD günstiger als der KVM 1, mit Empfehlungslink kostet sie 3,99 USD pro Monat, und beide verlängern zu 11,99 USD pro Monat. Sie setzt keine Serverkenntnisse voraus, und die KI-Kosten sind auf beiden Wegen gleich."
       ]
     },
     {
@@ -245,9 +245,15 @@
       "bullets": [
         "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Am 21.10.2026 war er im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
         "Brauche ich ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie Ihren eigenen Schlüssel verwenden möchten.",
-        "Gibt es einen Hostinger-Gutschein für OpenClaw? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum und bei Tarifen von 12 Monaten oder mehr.",
+        "Gibt es einen Hostinger-Gutschein für OpenClaw? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum und bei Tarifen von 12 Monaten oder mehr, und sie lassen sich nicht mit anderen Rabattcodes kombinieren.",
         "Wie viel kostet es nach dem ersten Zeitraum? 11,99 USD pro Monat beim verwalteten Tarif und beim KVM 1, und 14,99 USD pro Monat beim KVM 2, mit den Preisen vom 21.10.2026. Der Rabatt des Empfehlungslinks wiederholt sich bei der Verlängerung nicht.",
         "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif „AI automation apps“ zum gleichen Preis. Die Paperclip-Seite listet keine KI-Credits, bringen Sie dort also Ihren eigenen Schlüssel mit."
+      ]
+    },
+    {
+      "heading": "Wenn Sie sich schon entschieden haben",
+      "paragraphs": [
+        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren; die Verlängerung kostet den normalen Preis. Bei den 24-Monats-Tarifen vom 21.10.2026 kostet die verwaltete Option mit Link 3,99 USD pro Monat, und der KVM 1 kostet 6,49 USD pro Monat vor dem Rabatt, den der Warenkorb zeigt; beide verlängern zu 11,99 USD pro Monat. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen. Lesen Sie [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Hostinger-Seite auf dieser Website](/de/coupons/hostinger)."
       ]
     },
     {
@@ -270,7 +276,7 @@
   "relatedArticles": [
     {
       "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
     },
     {
       "slug": "ist-hostinger-serioes",

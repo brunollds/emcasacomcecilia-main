@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "hostinger-openclaw-melhor-vps",
   "title": "Bester VPS für OpenClaw: Anforderungen und welcher KVM-Tarif passt",
-  "seoTitle": "Bester VPS für OpenClaw: Anforderungen und KVM-Tarif",
+  "seoTitle": "Bester VPS für OpenClaw: welcher KVM-Tarif von Hostinger passt",
   "type": "Hosting-Ratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw nennt keinen allgemeinen Mindest-RAM. Sehen Sie, was jedes Szenario braucht und welcher KVM-Tarif von Hostinger passt, mit Preisen vom 21.10.2026.",
-  "metaDescription": "Bester VPS für OpenClaw ohne offizielles RAM-Minimum: der KVM je nach Szenario, mit Cloud- oder lokalem Modell, und die Hostinger-Preise vom 21.10.2026.",
+  "description": "OpenClaw nennt keinen allgemeinen Mindest-RAM. Was die offizielle Dokumentation tatsächlich sagt, wie viel Speicher jedes Szenario braucht und welcher Hostinger-KVM-Tarif passt, mit US-Dollar-Preisen vom 21.10.2026.",
+  "metaDescription": "Bester VPS für OpenClaw ohne offizielles RAM-Minimum: der KVM-Tarif für ein Cloud- oder lokales Modell, Oracle Always Free und die Hostinger-Preise vom 21.10.2026.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -44,35 +44,35 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste mit Reserve. Wer keinen Server betreuen will, sieht sich die verwaltete Option weiter unten an."
+        "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste mit Reserve. Die Rechnung steht unter Wie viel RAM jedes Szenario braucht."
       ]
     },
     {
       "heading": "Was die offizielle Dokumentation sagt (und nicht sagt) zu Anforderungen",
       "paragraphs": [
-        "OpenClaw kann ein KI-Modell nutzen, das beim Anbieter bleibt, über Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger, oder ein lokales Modell, das auf dem Server selbst läuft. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet die Nutzung ab. Liegt das Modell beim Anbieter, geht die Anfrage an das KI-Unternehmen, und der Server führt nur das Programm aus.",
-        "Die offiziellen Seiten zur Installation und zu lokalen Modellen, gelesen am 21.10.2026, sagen Folgendes:"
+        "OpenClaw kann ein KI-Modell nutzen, das beim Anbieter bleibt und über Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger angesprochen wird, oder ein lokales Modell, das auf dem Server selbst läuft. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet jede Nutzung ab. Liegt das Modell beim Anbieter, geht die Anfrage an das KI-Unternehmen, und der Server führt nur das Programm aus.",
+        "Die offiziellen Seiten zur Installation und zu lokalen Modellen, am 21.10.2026 gelesen, sagen Folgendes:"
       ],
       "bullets": [
-        "**Node-Version.** OpenClaw verlangt Node 24.16 oder neuer oder Node 26.1 oder neuer. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm braucht diese Version. Die Seite empfiehlt Node 26. Fehlt Node, bringt das offizielle Installationsprogramm die Version mit (Node 26 unter macOS, Node 24 LTS unter Linux).",
-        "**Lokales Modell.** Für das kleinste Rezept, das die Dokumentation selbst anbietet, liegt die Untergrenze bei 8 GiB Host-Speicher mit 64K Kontext. Die Seite sagt, diese Werte „garantieren nicht, dass das Modell passt, noch dass es mit Geschwindigkeit läuft“.",
-        "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ein VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
+        "**Node-Version.** OpenClaw verlangt Node 24.16 oder neuer oder Node 26.1 oder neuer. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm braucht eine dieser Versionen. Die Seite empfiehlt Node 26. Fehlt Node, bringt das offizielle Installationsprogramm es mit (Node 26 unter macOS, Node 24 LTS unter Linux).",
+        "**Lokales Modell.** Für das kleinste Rezept, das die Dokumentation selbst anbietet, liegt die Untergrenze bei 8 GiB Host-Speicher mit 64K Kontext. Die Seite sagt, dass diese Werte weder garantieren, dass das Modell passt, noch, dass es mit brauchbarer Geschwindigkeit läuft.",
+        "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem eigenen Container laufen lässt. Ein VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
       ],
       "postParagraphs": [
-        "Die Dokumentation nennt keine Angabe zu RAM, Prozessor (vCPU) oder Festplatte für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Credits.",
-        "Ein Detail zur Rechnung: 8 GiB entsprechen etwa 8,6 GB. Der KVM 2 wird mit 8 GB angegeben, also rund 7,5 GiB und damit etwas unter der Untergrenze, und darin ist der Speicher noch nicht eingerechnet, den System und Docker belegen. Die Dokumentation sagt nicht, ob dieser Unterschied der Einheiten für die Untergrenze zählt."
+        "Die Dokumentation nennt keinen RAM-, Prozessor- (vCPU) oder Festplattenwert für OpenClaw ohne lokales Modell und keine Mindestgröße für den Fall mit API-Schlüssel oder Guthaben.",
+        "Ein Detail zu den Einheiten: 8 GiB entsprechen etwa 8,6 GB. Der KVM 2 wird mit 8 GB angegeben, also rund 7,5 GiB und damit etwas unter der Untergrenze, bevor der Speicher für System und Docker abgezogen ist. Die Dokumentation sagt nicht, ob dieser Unterschied für die Untergrenze zählt."
       ]
     },
     {
       "heading": "Wie viel RAM jedes Szenario braucht",
       "paragraphs": [
-        "RAM ist der Arbeitsspeicher des Servers: Dort liegen das Programm und, beim lokalen Modell, das Modell selbst, solange sie laufen. Die Dokumentation nennt nur für das lokale Modell eine Zahl."
+        "RAM ist der Arbeitsspeicher des Servers: Dort liegen das Programm und, bei einem lokalen Modell, das Modell selbst, solange es läuft. Die Dokumentation nennt nur für das lokale Modell eine Zahl."
       ],
       "comparisonTable": {
         "headers": [
           "Szenario",
           "Was die Dokumentation sagt",
-          "Was das im Tarif bedeutet"
+          "Was das für den Tarif bedeutet"
         ],
         "rows": [
           [
@@ -82,29 +82,29 @@
           ],
           [
             "Lokales Modell, kleinstes offizielles Rezept",
-            "Untergrenze 8 GiB Host-Speicher, 64K Kontext. Garantiert weder Platz noch Geschwindigkeit.",
+            "Untergrenze 8 GiB Host-Speicher, 64K Kontext. Garantiert weder, dass das Modell passt, noch, dass es schnell läuft.",
             "KVM 1 (4 GB) liegt unter der Grenze. KVM 2 (8 GB) liegt an der Grenze. KVM 4 (16 GB) ist der erste mit Reserve."
           ],
           [
             "Lokales Modell, größere Rezepte",
-            "Die Seite sagt, sie brauchen mehr Speicher, ohne Zahl.",
+            "Die Seite sagt, sie brauchen mehr Speicher, nennt aber keine Zahl.",
             "Keine offizielle Rechnung. Wählen Sie nach der Größe des Modells, das Sie betreiben wollen."
           ]
         ]
       },
       "postParagraphs": [
         "Zwei Details zum lokalen Modell. Der Kontext ist die Textmenge (Tokens, also Wortteile), die das Modell auf einmal liest. Bleiben weniger als 20 % des Kontextfensters übrig, warnt OpenClaw, mit einer Untergrenze von 8.000 Tokens; unter 10 % blockiert es die Antwort, mit einer Untergrenze von 4.000 Tokens.",
-        "Auf den KVM-Tarifseiten, die wir gelesen haben, wird keine Grafikkarte (GPU) aufgeführt. Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
+        "Auf den KVM-Tarifseiten, die wir gelesen haben, ist keine Grafikkarte (GPU) aufgeführt. Die Dokumentation sagt auch nicht, wie schnell ein lokales Modell ohne sie liefe."
       ]
     },
     {
       "heading": "Welchen KVM-Tarif wählen",
       "paragraphs": [
-        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt die vier, mit Preisen für 24-Monats-Pläne vom 21.10.2026. Den Preis mit Empfehlungslink haben wir nicht gelesen, deshalb steht dort „im Warenkorb“. Lesen Sie jeden Tarif neben der Dokumentation; das ist unsere Lesart, keine Messung:"
+        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt alle vier mit den Preisen für 24-Monats-Pläne von der globalen Hostinger-Seite, in US-Dollar, am 21.10.2026 gelesen. Den Preis mit Empfehlungslink hat die Seite nicht angezeigt; die 20 % erscheinen im Warenkorb. Unsere Lesart jedes Tarifs neben der Dokumentation folgt; wir haben keine Leistung gemessen."
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
-        "alt": "Tabelle mit drei Zeilen: Modell außerhalb des Servers (API-Schlüssel oder Credits) führt zum KVM 1; kleines lokales Modell führt zum KVM 2, an der Grenze, oder zum KVM 4; lokales Modell mit mehr Kontext oder anderen Programmen führt zum KVM 4 oder zum KVM 8",
+        "alt": "Tabelle mit drei Zeilen: Modell außerhalb des Servers (API-Schlüssel oder Guthaben) führt zum KVM 1; kleines lokales Modell führt zum KVM 2, an der Grenze, oder zum KVM 4; lokales Modell mit mehr Kontext oder anderen Programmen führt zum KVM 4 oder zum KVM 8",
         "caption": "Nach der OpenClaw-Dokumentation, am 21.10.2026 gelesen; wir haben keine Leistung gemessen."
       },
       "comparisonTable": {
@@ -113,8 +113,7 @@
           "vCPU (virtueller Prozessor)",
           "RAM",
           "NVMe-Speicher",
-          "Mit Empfehlungslink",
-          "Ohne Empfehlungslink",
+          "Erster Zeitraum, ohne Empfehlungslink",
           "Verlängerung"
         ],
         "rows": [
@@ -123,7 +122,6 @@
             "1",
             "4 GB",
             "50 GB",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
             "6,49 USD/Monat",
             "11,99 USD/Monat"
           ],
@@ -132,7 +130,6 @@
             "2",
             "8 GB",
             "100 GB",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
             "8,79 USD/Monat",
             "14,99 USD/Monat"
           ],
@@ -141,7 +138,6 @@
             "4",
             "16 GB",
             "200 GB",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
             "12,99 USD/Monat",
             "28,99 USD/Monat"
           ],
@@ -150,26 +146,25 @@
             "8",
             "32 GB",
             "400 GB",
-            "20 % im ersten Zeitraum; Endpreis im Warenkorb",
             "25,99 USD/Monat",
             "49,99 USD/Monat"
           ]
         ]
       },
       "bullets": [
-        "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Credits. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
+        "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
         "**KVM 2 (8 GB).** Mit API-Schlüssel bleibt genug Reserve. Mit lokalem Modell liegt er an der Untergrenze, ohne Spielraum für das System.",
-        "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, was er mit einem lokalen Modell leistet.",
+        "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, wie er mit einem lokalen Modell läuft.",
         "**KVM 8 (32 GB).** Lohnt sich nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
       ],
       "postParagraphs": [
-        "Der Empfehlungslink gibt 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lässt sich nicht mit anderen Rabattcodes kombinieren. Die Verlängerung kostet den normalen Preis. Lesen Sie [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode) und prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen. Hostinger hat gerade Black Friday, und die Preise ändern sich: [zur Aktion](/de/reviews/hostinger-black-friday-angebote)."
+        "In Ihrem Land zeigt Hostinger vielleicht eine andere Währung und andere Steuern, prüfen Sie den Warenkorb also vor dem Bezahlen. Der Empfehlungslink gibt 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lässt sich nicht mit anderen Rabattcodes kombinieren; die Verlängerung kostet den normalen Preis. [So funktioniert der Empfehlungslink von Hostinger](/de/reviews/hostinger-gutschein-empfehlungscode). Hostinger hat gerade Black Friday, und die Preise ändern sich: [zur Aktion](/de/reviews/hostinger-black-friday-angebote)."
       ]
     },
     {
       "heading": "VPS, Betrieb zu Hause oder verwaltet: was jedes Szenario verlangt",
       "paragraphs": [
-        "Alle drei Wege führen dasselbe Programm aus, OpenClaw, mit unterschiedlichen Kosten und Aufgaben. Die Wahl hängt von drei Dingen ab: ob Sie am Server arbeiten wollen, ob der Computer rund um die Uhr laufen kann und ob das KI-Modell aus der Cloud kommt oder auf Ihrem Gerät läuft."
+        "Alle drei Wege führen dasselbe Programm aus, OpenClaw, mit unterschiedlichen Kosten und Aufgaben. Die Wahl hängt von drei Dingen ab: ob Sie sich um einen Server kümmern wollen, ob der Computer rund um die Uhr laufen kann und ob das KI-Modell in der Cloud läuft oder auf Ihrem eigenen Gerät."
       ],
       "comparisonTable": {
         "headers": [
@@ -189,31 +184,30 @@
             "Sie haben die volle Kontrolle. Server-Updates und Sicherheit liegen bei Ihnen"
           ],
           [
-            "KI-Modell auf dem eigenen Server, ohne Anbieter-Schlüssel",
+            "KI-Modell auf dem Server selbst, ohne Anbieter-Schlüssel",
             "VPS mit größerem Tarif oder Heim-Computer mit viel Speicher",
-            "Der Speicher bestimmt alles. Die Rechnung für den Speicher des lokalen Modells steht in diesem Artikel"
+            "Der Speicher entscheidet alles. Die Rechnung zum Speicher des lokalen Modells steht oben in diesem Artikel"
           ],
           [
-            "Assistent nur, wenn der Heim-Computer läuft, mit stabilem Internet",
+            "Assistent nur, solange der Heim-Computer läuft, mit stabiler Internetverbindung",
             "Zu Hause betreiben",
-            "Keine Servergebühr; die Kosten sind Strom und ein belegter Computer. Fällt das Internet aus, fällt der Assistent mit aus"
+            "Keine Servergebühr; die Kosten sind Strom und ein belegter Computer. Fällt das Internet aus, fällt auch der Assistent aus"
           ],
           [
-            "Der Computer soll nicht dauerhaft laufen, und Sie wollen Serverkontrolle",
+            "Der Computer soll nicht dauerhaft laufen, und Sie wollen die Serverkontrolle",
             "VPS",
             "Er bleibt online, ohne Ihre Maschine. Updates machen Sie über den Update-Button des Docker Managers"
           ]
         ]
       },
       "postParagraphs": [
-        "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ab dann liegt die Wartung bei Ihnen.",
-        "Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen, bei der Hostinger den Assistenten installiert und aktualisiert."
+        "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Danach liegt die Wartung bei Ihnen. Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen, bei der Hostinger den Assistenten installiert und aktualisiert."
       ]
     },
     {
       "heading": "Der kostenlose VPS: Oracle Always Free",
       "paragraphs": [
-        "Oracle hat einen kostenlosen Tarif, den Always Free. Er gehört nicht zu Hostinger und ersetzt den bezahlten VPS nicht. Laut der Oracle-Dokumentation, gelesen am 21.10.2026:"
+        "Oracle hat einen kostenlosen Tarif, den Always Free. Er gehört nicht zu Hostinger und ersetzt den bezahlten VPS nicht, ist aber eine Möglichkeit, OpenClaw ohne Kosten zu testen. Laut Oracle-Dokumentation, am 21.10.2026 gelesen:"
       ],
       "bullets": [
         "Bis zu zwei Micro-Instanzen (AMD-Prozessor) mit je 1/8 OCPU und 1 GB Speicher.",
@@ -222,7 +216,7 @@
         "Die kostenlosen Instanzen müssen in der Heimatregion des Kontos erstellt werden. Wer außerhalb erstellt, zahlt dafür."
       ],
       "postParagraphs": [
-        "Die Regel, die ins Gewicht fällt: Oracle sagt, dass es eine untätige Instanz zurücknehmen kann. Sie gilt als untätig, wenn in einem Zeitraum von 7 Tagen die CPU-Auslastung im 95. Perzentil unter 20 % liegt, die Netzwerkauslastung unter 20 % und bei den A1-Instanzen auch die Speicherauslastung unter 20 % bleibt. Ein Assistent, der den größten Teil der Zeit still steht, kann unter diese Regel fallen. Die Dokumentation beschreibt keine Vorwarnung vor der Rücknahme."
+        "Die Regel, die ins Gewicht fällt: Oracle sagt, dass es eine untätige Instanz zurücknehmen kann. Sie gilt als untätig, wenn über 7 Tage die CPU-Auslastung im 95. Perzentil unter 20 % liegt, die Netzwerkauslastung ebenfalls und bei den A1-Instanzen auch die Speicherauslastung. Ein Assistent, der den größten Teil der Zeit stillsteht, kann unter diese Regel fallen. Die Dokumentation beschreibt keine Vorwarnung vor der Rücknahme."
       ]
     },
     {
@@ -231,35 +225,32 @@
         "Die Wahl des Tarifs richtet sich danach, wo das KI-Modell läuft und wie viel Serverarbeit Sie übernehmen wollen."
       ],
       "bullets": [
-        "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt.",
-        "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. KVM 8 mit 32 GB ergibt nur bei einem größeren lokalen Modell Sinn.",
-        "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert.",
-        "Zum kostenlosen Testen: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückfordern kann."
-      ]
-    },
-    {
-      "heading": "Empfehlungslink und Preis",
-      "paragraphs": [
-        "Preise vom 21.10.2026 im 24-Monats-Plan, mit den 20 % des Empfehlungslinks: verwaltet 3,99 USD pro Monat (ohne Link 4,99 USD); VPS KVM 1 ohne Link 6,49 USD pro Monat, mit Link 20 % im ersten Zeitraum und Endpreis im Warenkorb; VPS KVM 2 ohne Link 8,79 USD pro Monat. In der Verlängerung kosten verwaltet und KVM 1 je 11,99 USD pro Monat, der KVM 2 14,99 USD pro Monat."
-      ],
-      "postParagraphs": [
-        "Die Regel: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren. Es gibt keinen Code zum Eingeben, denn der Rabatt steckt im Link. Prüfen Sie den Betrag im Warenkorb vor dem Bezahlen, denn Black Friday ändert Preise. Lesen Sie [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Hostinger-Seite bei uns](/de/coupons/hostinger)."
+        "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt, im 24-Monats-Plan 6,49 USD pro Monat vor dem Rabatt des Links.",
+        "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB, 12,99 USD pro Monat vor dem Rabatt. KVM 8 mit 32 GB ergibt nur bei einem größeren lokalen Modell Sinn.",
+        "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert, mit Link 3,99 USD pro Monat.",
+        "Zum kostenlosen Testen: Oracle Always Free, mit dem Wissen, dass Oracle eine untätige Instanz zurückfordern kann."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Ist Oracle wirklich kostenlos? Ja, solange das Konto im Always-Free-Tarif bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang untätig bleibt, mit CPU, Netz und Speicher unter 20 %, kann Oracle zurückfordern.",
-        "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Speicher; sie verlangt Node 24.16 oder neuer (oder 26.1). Mit API-Schlüssel oder Credits ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell liegt die Untergrenze bei 8 GiB, und der KVM 4 ist der erste mit Reserve.",
-        "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept bei 64K Kontext und warnt, dass das nicht garantiert, dass das Modell passt oder gut läuft. Mit dem KI-Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
-        "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nicht, wählen Sie VPS oder verwaltet.",
-        "Gibt es einen Hostinger-Gutschein für den VPS von OpenClaw? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und sie lassen sich nicht mit anderen Rabattcodes kombinieren."
+        "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; sie verlangt Node 24.16 oder neuer (oder 26.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell liegt die Untergrenze bei 8 GiB, und der KVM 4 ist der erste mit Reserve.",
+        "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem KI-Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
+        "Ist Oracle Always Free wirklich kostenlos? Ja, solange das Konto im Always-Free-Tarif bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang untätig bleibt, mit CPU, Netz und Speicher unter 20 %, kann Oracle zurückfordern.",
+        "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden am Tag laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nicht, wählen Sie VPS oder die verwaltete Option.",
+        "Gibt es einen Hostinger-Gutschein für den VPS von OpenClaw? Es gibt keinen Code zum Eingeben. Die 20 % kommen über den Empfehlungslink, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren."
+      ]
+    },
+    {
+      "heading": "Wenn Sie sich schon entschieden haben",
+      "paragraphs": [
+        "Der Empfehlungslink wendet den Rabatt bereits an: Es gibt keinen Code zum Eingeben. Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren; die Verlängerung kostet den normalen Preis. Bei den 24-Monats-Plänen vom 21.10.2026 kostet die verwaltete Option mit dem Link 3,99 USD pro Monat; KVM 1 und KVM 2 kosten vor dem Rabatt 6,49 und 8,79 USD pro Monat, den Endpreis sehen Sie im Warenkorb. In der Verlängerung kosten verwaltet und KVM 1 je 11,99 USD pro Monat, KVM 2 14,99 USD pro Monat. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn Black Friday ändert die Preise. Lesen Sie [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Hostinger-Seite bei uns](/de/coupons/hostinger)."
       ]
     },
     {
       "heading": "Wer schreibt",
       "paragraphs": [
-        "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen, gelesen am 21.10.2026."
+        "Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen, am 21.10.2026 gelesen. Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie."
       ]
     }
   ],
@@ -284,7 +275,7 @@
     },
     {
       "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein: Brauchen Sie nicht, das bringt der Empfehlungslink"
+      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
     }
   ],
   "hideFromPortugueseListings": true
