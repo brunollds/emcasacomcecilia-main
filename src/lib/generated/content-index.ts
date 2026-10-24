@@ -56016,9 +56016,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has not announced the 2026 Black Friday dates yet. In the last two years, the name \"Black Friday\" showed up on its coupons early in November (Nov 4 in 2024 and Nov 3 in 2025) and ran until Cyber Monday, with a new coupon every three or four days.",
-          "The Black Friday tiered coupon is the same as the rest of the year: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. What changes is the handful of days with **15% and no minimum order**, which in 2024 and 2025 began on Black Friday or the day before and ran until Cyber Monday.",
-          "CECILIA010 is Cecília's reward code: it goes in the Reward Code field, gives 5% on the first order and 2% on returning orders, and stacks with the YesStyle coupon during Black Friday too. The coupons' own rules say so."
+          "YesStyle has not announced Black Friday 2026 yet, but in 2024 and 2025 coupons with that name appeared in early November and ran until Cyber Monday. The tiered coupon is the same all year, and CECILIA010 stacks with it. What matters is the 15% no-minimum days: see \"Is it worth waiting for the 15% no-minimum days?\""
         ]
       },
       {
@@ -56297,9 +56295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle todavía no ha anunciado las fechas del Black Friday de 2026. En los dos últimos años, el nombre \"Black Friday\" apareció en los cupones al principio de noviembre (4/11 en 2024 y 3/11 en 2025) y llegó hasta el Cyber Monday, con un cupón nuevo cada tres o cuatro días.",
-          "El cupón por tramos del Black Friday es el mismo que el resto del año: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. Lo que cambia son los pocos días con **15% sin mínimo de compra**, que en 2024 y 2025 empezaron el día del Black Friday o la víspera y llegaron hasta el Cyber Monday.",
-          "CECILIA010 es el código de recompensa de Cecília: va en el campo Código de Recompensa (Reward Code), da un 5% en la 1ª compra y un 2% en las recurrentes, y suma con el cupón de YesStyle también en el Black Friday. Así lo dicen las reglas de los propios cupones."
+          "YesStyle aún no ha anunciado el Black Friday de 2026, pero en 2024 y 2025 los cupones con ese nombre salieron a principios de noviembre, hasta el Cyber Monday. El cupón por tramos es el mismo todo el año y CECILIA010 suma con él. Pesan los días de 15% sin mínimo: ver \"¿Vale la pena esperar a los días de 15% sin mínimo?\"."
         ]
       },
       {
@@ -56578,9 +56574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle n'a pas encore annoncé les dates du Black Friday 2026. Ces deux dernières années, le nom « Black Friday » est apparu sur les coupons dès le début de novembre (4/11 en 2024 et 3/11 en 2025), jusqu'au Cyber Monday, avec un nouveau coupon tous les trois ou quatre jours.",
-          "Le coupon par palier du Black Friday est le même que le reste de l'année : 8 % dès US$ 79, 10 % dès US$ 149 et 15 % dès US$ 199. Ce qui change, ce sont les quelques jours à **15 % sans minimum de commande**, qui en 2024 et 2025 ont commencé le jour du Black Friday ou la veille et sont allés jusqu'au Cyber Monday.",
-          "CECILIA010 est le code récompense de Cecília : il se saisit dans le champ \"Reward Code\", offre 5 % sur la première commande et 2 % sur les commandes suivantes, et se cumule aussi avec le coupon YesStyle pendant le Black Friday. Les règles des coupons eux-mêmes le confirment."
+          "YesStyle n'a pas encore annoncé le Black Friday 2026, mais en 2024 et 2025 les coupons de ce nom sont apparus début novembre, jusqu'au Cyber Monday. Le coupon par palier est le même toute l'année et CECILIA010 s'y cumule. Les jours à 15 % sans minimum font la différence : voir « Vaut-il la peine d'attendre les journées à 15 % sans minimum ? »."
         ]
       },
       {
@@ -56859,9 +56853,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "YesStyle hat die Termine des Black Friday 2026 noch nicht bekannt gegeben. In den letzten zwei Jahren tauchte der Name „Black Friday“ schon Anfang November in den Gutscheinen auf (am 4.11.2024 und am 3.11.2025). Die Aktion lief bis zum Cyber Monday, mit einem neuen Gutschein alle drei oder vier Tage.",
-          "Der Staffelgutschein des Black Friday ist derselbe wie im restlichen Jahr: 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199. Was sich ändert, sind die wenigen Tage mit **15% ohne Mindestbestellwert**, die 2024 und 2025 am Tag des Black Friday oder am Vortag begannen und bis zum Cyber Monday liefen.",
-          "CECILIA010 ist der Reward Code von Cecília. Er kommt in das Feld Reward Code, bringt 5% bei der Erstbestellung und 2% bei den folgenden und lässt sich beim Black Friday auch mit dem YesStyle-Gutschein kombinieren. Das sagen die Regeln der Gutscheine selbst."
+          "YesStyle hat den Black Friday 2026 noch nicht angekündigt, doch 2024 und 2025 erschienen die Gutscheine mit diesem Namen Anfang November und liefen bis zum Cyber Monday. Der Staffelgutschein ist das ganze Jahr derselbe, und CECILIA010 lässt sich damit kombinieren. Entscheidend sind die Tage mit 15% ohne Mindestbestellwert: siehe „Lohnt es sich, auf die Tage mit 15% ohne Mindestbestellwert zu warten?“"
         ]
       },
       {
@@ -57140,9 +57132,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "YesStyle non ha ancora annunciato le date del Black Friday 2026. Negli ultimi due anni il nome “Black Friday” è comparso nei coupon all'inizio di novembre (il 4/11 nel 2024 e il 3/11 nel 2025) ed è durato fino alla Cyber Monday, con un nuovo coupon ogni tre o quattro giorni.",
-          "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Cambiano solo i pochi giorni con il **15% senza minimo**, che nel 2024 e nel 2025 sono iniziati il giorno del Black Friday o la vigilia e sono durati fino alla Cyber Monday.",
-          "CECILIA010 è il codice ricompensa di Cecília: va nel campo Reward Code, dà il 5% sul primo ordine e il 2% su quelli successivi, e si somma al coupon YesStyle anche durante il Black Friday. Lo dicono le regole dei coupon stessi."
+          "YesStyle non ha ancora annunciato il Black Friday 2026, ma nel 2024 e nel 2025 i coupon con questo nome sono comparsi a inizio novembre e sono durati fino alla Cyber Monday. Il coupon a scaglioni è lo stesso di tutto l'anno e CECILIA010 si somma. Pesano i giorni con il 15% senza minimo: vedi «Conviene aspettare i giorni con il 15% senza minimo?»."
         ]
       },
       {
@@ -57421,9 +57411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "YesStyle은 아직 2026년 블랙프라이데이 일정을 발표하지 않았습니다. 최근 2년 동안 쿠폰에 ‘블랙프라이데이’ 이름이 나타난 것은 11월 초였고(2024년 11월 4일, 2025년 11월 3일), 사이버 먼데이까지 3~4일마다 새 쿠폰이 나왔습니다.",
-          "블랙프라이데이 구간 쿠폰은 연중 쿠폰과 같습니다: US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%. 달라지는 것은 며칠뿐이며, 그 며칠 동안에는 **최소 주문 금액 없이 15%**가 적용됩니다. 2024년과 2025년에는 블랙프라이데이 당일이나 전날에 시작해 사이버 먼데이까지 이어졌습니다.",
-          "CECILIA010은 Cecília의 리워드 코드입니다. Reward Code 칸에 넣으면 첫 구매 5%, 재구매 2%가 적용되고, 블랙프라이데이에도 YesStyle 쿠폰과 합산됩니다. 이 내용은 쿠폰 규정 자체가 그렇게 말하고 있습니다."
+          "YesStyle은 아직 2026년 블랙프라이데이를 발표하지 않았지만, 2024년과 2025년에는 11월 초부터 사이버 먼데이까지 해당 이름의 쿠폰이 나왔습니다. 구간 쿠폰은 연중 같고 CECILIA010도 함께 쓸 수 있습니다. 판단이 갈리는 것은 최소 금액 없는 15%입니다. '최소 금액 없는 15%를 기다릴 가치가 있을까요?' 항목을 보세요."
         ]
       },
       {
@@ -57702,9 +57690,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "YesStyleはまだ2026年のブラックフライデーの日程を発表していません。過去2年は、11月の初め（2024年は11月4日、2025年は11月3日）に「Black Friday」の名前のクーポンが現れ、サイバーマンデーまで続きました。3〜4日ごとに新しいクーポンが出ていました。",
-          "ブラックフライデーの金額別クーポンは、年中ふだんのものと同じです。US$79から8%、US$149から10%、US$199から15%。変わるのは、**最低額なしの15%**が出る数日だけです。2024年と2025年は、ブラックフライデーの当日か前日に始まり、サイバーマンデーまで続きました。",
-          "CECILIA010はセシリアのリワードコードです。Reward Code欄に入力すると、初回購入は5%、リピーターは2%割引になります。ブラックフライデーでも、YesStyleのクーポンと併用できます。これはクーポン自体のルールに書かれています。"
+          "YesStyleはまだ2026年のブラックフライデーを発表していませんが、2024年と2025年は11月初めにその名前のクーポンが出て、サイバーマンデーまで続きました。金額別クーポンは年中同じで、CECILIA010も併用できます。判断が分かれるのは最低額なしの15%の日です。「最低額なしの15%の日を待つ価値はある？」を参照してください。"
         ]
       },
       {
@@ -57983,9 +57969,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 尚未公布 2026年黑色星期五的日期。過去兩年，「Black Friday」的名稱在 11月初就出現在優惠券上（2024年為 11月4日，2025年為 11月3日），一路延續到網購星期一，每三到四天就有新的優惠券。",
-          "黑色星期五的滿額分級優惠券與全年相同：滿 US$79 享 8%、滿 US$149 享 10%、滿 US$199 享 15%。不同的是**無最低消費 15%**的那幾天。2024年與 2025年，這幾天從黑色星期五當天或前一天開始，一直到網購星期一。",
-          "CECILIA010 是西西莉亞的獎勵碼：填入 Reward Code 欄位，首購享 5%、回購享 2%，黑色星期五期間也能與 YesStyle 的優惠券一起使用。這是各優惠券自己的規則所寫的。"
+          "YesStyle 尚未公布 2026年黑色星期五，但 2024年與 2025年，同名優惠券在 11月初出現，一路延續到網購星期一。滿額分級優惠券全年相同，CECILIA010 也能疊加。要不要等，取決於無最低消費的 15% 日子，見「要等無最低消費的 15% 日子嗎？」。"
         ]
       },
       {
@@ -58264,9 +58248,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 尚未公布 2026年黑色星期五的日期。过去两年，「Black Friday」的名称在 11月初就出现在优惠券上（2024年为 11月4日，2025年为 11月3日），一直延续到网络星期一，每三到四天就有新的优惠券。",
-          "黑色星期五的满额分级优惠券与全年相同：满 US$79 享 8%、满 US$149 享 10%、满 US$199 享 15%。不同的是**无最低消费 15%**的那几天。2024年与 2025年，这几天从黑色星期五当天或前一天开始，一直到网络星期一。",
-          "CECILIA010 是西西莉亚的奖励码：填入 Reward Code 栏位，首购享 5%、回购享 2%，黑色星期五期间也能与 YesStyle 的优惠券一起使用。这是各优惠券自己的规则写明的。"
+          "YesStyle 尚未公布 2026年黑色星期五，但 2024年与 2025年，同名优惠券在 11月初出现，一直到网络星期一。满额分级优惠券全年相同，CECILIA010 也能叠加。要不要等，取决于无最低消费的 15% 日子，见“要等无最低消费的 15% 日子吗？”。"
         ]
       },
       {
@@ -58782,22 +58764,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "This guide covers SHEIN Brazil (the Brazilian site and app), and its dates, taxes, prices and rules may differ in other countries. SHEIN has not announced Black Friday 2026 yet. In the last three years, the offers started before Black Friday, together with 11.11 (the Singles' Day sale), and ended after it: on Nov 25 in 2023, and on Nov 30 in 2024 and 2025. In 2026, Black Friday falls on November 27.",
-          "The big change this year is the tax. Since May 13, 2026, an international order up to **US$ 50** (product plus shipping, already with discounts) pays no import tax. The state ICMS, of 17% to 20%, still applies, and SHEIN says it covers part of it. Above US$ 50, the import tax comes back.",
-          "There is one SHEIN coupon per order. The 4CW5Y is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "Collage of SHEIN's home page in ten markets, each with its site address: Brazil, United Kingdom, Spain, France, Germany, Italy, South Korea, Japan, Taiwan and Singapore",
-          "caption": "SHEIN's home page in ten markets on October 12, 2026. Each market has its own site; this guide covers SHEIN Brazil (br.shein.com).",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN Brazil has not announced Black Friday 2026, which falls on November 27. Judging by past years, the offers start earlier, with 11.11, and run until November 30. International orders up to US$ 50 pay no import tax, only ICMS; the math is in “The tax on Black Friday: what changed in 2026”."
+        ]
       },
       {
         "heading": "When the SHEIN Black Friday starts",
         "paragraphs": [
-          "SHEIN puts 11.11 and Black Friday into one campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet."
+          "SHEIN puts 11.11 and Black Friday into one campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet. This guide covers SHEIN Brazil (the Brazilian site and app), and its dates, taxes, prices and rules may differ in other countries."
         ],
         "comparisonTable": {
           "caption": "Phases and maximum discounts announced by SHEIN Brazil, by the press that published the announcements and by the brand's profiles. The “up to” applies to some items.",
@@ -58827,7 +58800,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday, November 27. If SHEIN repeats the pattern, the offers should start between late October and early November and run until November 30. This is an estimate based on past years, and this guide will be updated when SHEIN announces the 2026 campaign.",
           "Over those three years, the maximum discount rose near the end: 90% on Nov 24 and 25 in 2023, 95% from Nov 26 to 30 in 2024, and 95% from Nov 24 in 2025."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage of SHEIN's home page in ten markets, each with its site address: Brazil, United Kingdom, Spain, France, Germany, Italy, South Korea, Japan, Taiwan and Singapore",
+          "caption": "SHEIN's home page in ten markets on October 12, 2026. Each market has its own site; this guide covers SHEIN Brazil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "“Up to 90%” is not the whole cart",
@@ -59016,22 +58996,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países. SHEIN todavía no anunció el Black Friday de 2026. En los últimos tres años, las ofertas empezaron antes de la fecha, junto con el 11.11 (la campaña del Día de los Solteros), y terminaron después de él: el 25/11 en 2023 y el 30/11 en 2024 y 2025. En 2026, el Black Friday cae el 27 de noviembre.",
-          "El gran cambio de este año es el impuesto. Desde el 13 de mayo de 2026, un pedido internacional de hasta **US$ 50** (producto más envío, ya con los descuentos) no paga impuesto de importación. El ICMS del estado, de 17% a 20%, sigue vigente, y SHEIN dice que cubre una parte. Por encima de US$ 50, el impuesto de importación vuelve.",
-          "Vale un cupón de SHEIN por pedido. El 4CW5Y es el código de referido de Cecília para SHEIN Brasil: busca el código en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "Collage de la página de inicio de SHEIN en diez mercados, cada uno con la dirección de su sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
-          "caption": "La página de inicio de SHEIN en diez mercados el 12 de octubre de 2026. Cada mercado tiene su propio sitio; esta guía trata de SHEIN Brasil (br.shein.com).",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN Brasil todavía no anunció el Black Friday de 2026, que cae el 27 de noviembre. Según otros años, las ofertas empiezan antes, con el 11.11, y duran hasta el 30 de noviembre. Un pedido internacional de hasta US$ 50 no paga impuesto de importación, solo ICMS; la cuenta, en “El impuesto en el Black Friday: qué cambió en 2026”."
+        ]
       },
       {
         "heading": "Cuándo empieza el Black Friday de SHEIN",
         "paragraphs": [
-          "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió."
+          "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió. Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países."
         ],
         "comparisonTable": {
           "caption": "Fases y descuentos máximos anunciados por SHEIN Brasil, por la prensa que publicó los comunicados y por los perfiles de la marca. El “hasta” vale para algunos artículos.",
@@ -59061,7 +59032,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes, 27 de noviembre. Si SHEIN repite el patrón, las ofertas deberían empezar entre finales de octubre y principios de noviembre, y llegar hasta el 30 de noviembre. Es una estimación según el historial, y esta guía se actualizará cuando SHEIN anuncie la campaña de 2026.",
           "En esos tres años, el descuento máximo subió hacia el final: 90% el 24 y el 25/11 de 2023, 95% del 26 al 30/11 de 2024 y 95% desde el 24/11 de 2025."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage de la página de inicio de SHEIN en diez mercados, cada uno con la dirección de su sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
+          "caption": "La página de inicio de SHEIN en diez mercados el 12 de octubre de 2026. Cada mercado tiene su propio sitio; esta guía trata de SHEIN Brasil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "“Hasta 90%” no es todo el carrito",
@@ -59250,22 +59228,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Ce guide porte sur SHEIN Brésil (le site et l'appli brésiliens), et ses dates, taxes, prix et règles peuvent différer dans les autres pays. SHEIN n'a pas encore annoncé le Black Friday 2026. Ces trois dernières années, les offres ont commencé avant la date, en même temps que le 11.11 (la vente de la Journée des célibataires), et se sont terminées après le Black Friday : le 25/11 en 2023, puis le 30/11 en 2024 et 2025. En 2026, le Black Friday tombe le 27 novembre.",
-          "Le grand changement de cette année, c'est la taxe. Depuis le 13 mai 2026, une commande internationale allant jusqu'à **US$ 50** (produit plus livraison, déjà avec les réductions) ne paie pas la taxe d'importation. L'ICMS de l'État, de 17 % à 20 %, reste dû, et SHEIN dit en couvrir une partie. Au-delà de US$ 50, la taxe d'importation revient.",
-          "Il n'y a qu'un coupon SHEIN par commande. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil : vous le recherchez dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans les autres pays."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "Collage de la page d'accueil de SHEIN dans dix marchés, chacun avec son adresse de site : Brésil, Royaume-Uni, Espagne, France, Allemagne, Italie, Corée du Sud, Japon, Taïwan et Singapour",
-          "caption": "La page d'accueil de SHEIN dans dix marchés le 12 octobre 2026. Chaque marché a son propre site ; ce guide porte sur SHEIN Brésil (br.shein.com).",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN Brésil n'a pas encore annoncé le Black Friday 2026, qui tombe le 27 novembre. D'après les années passées, les offres commencent avant, avec le 11.11, et durent jusqu'au 30 novembre. Une commande internationale jusqu'à US$ 50 ne paie pas la taxe d'importation, seulement l'ICMS ; détail dans « La taxe pendant le Black Friday : ce qui a changé en 2026 »."
+        ]
       },
       {
         "heading": "Quand commence le Black Friday de SHEIN",
         "paragraphs": [
-          "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui relèvent la réduction maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier 2026 n'est pas encore publié."
+          "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui relèvent la réduction maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier 2026 n'est pas encore publié. Ce guide porte sur SHEIN Brésil (le site et l'appli brésiliens), et ses dates, taxes, prix et règles peuvent différer dans les autres pays."
         ],
         "comparisonTable": {
           "caption": "Phases et réductions maximales annoncées par SHEIN Brésil, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » ne vaut que pour certains articles.",
@@ -59295,7 +59264,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi, le 27 novembre. Si SHEIN reprend le même schéma, les offres devraient commencer entre fin octobre et début novembre, et aller jusqu'au 30 novembre. C'est une estimation fondée sur l'historique, et ce guide sera mis à jour quand SHEIN annoncera la campagne 2026.",
           "Pendant ces trois ans, la réduction maximale a augmenté vers la fin : 90 % les 24 et 25/11 de 2023, 95 % du 26 au 30/11 de 2024, et 95 % à partir du 24/11 de 2025."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage de la page d'accueil de SHEIN dans dix marchés, chacun avec son adresse de site : Brésil, Royaume-Uni, Espagne, France, Allemagne, Italie, Corée du Sud, Japon, Taïwan et Singapour",
+          "caption": "La page d'accueil de SHEIN dans dix marchés le 12 octobre 2026. Chaque marché a son propre site ; ce guide porte sur SHEIN Brésil (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "« Jusqu'à 90 % » ne vaut pas pour tout le panier",
@@ -59484,22 +59460,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "SHEIN hat den Black Friday 2026 noch nicht angekündigt. In den letzten drei Jahren begannen die Angebote vor dem Black Friday, zusammen mit dem 11.11., dem Singles'-Day-Sale, und endeten danach: am 25.11. im Jahr 2023 und am 30.11. in den Jahren 2024 und 2025. Im Jahr 2026 fällt der Black Friday auf den 27. November. Dieser Leitfaden gilt für SHEIN Brasilien (Website und App), und Termine, Steuern, Preise und Regeln können in anderen Ländern abweichen.",
-          "Die große Neuerung in diesem Jahr betrifft die Steuer. Seit dem 13. Mai 2026 zahlt eine internationale Bestellung bis **US$ 50** (Produkt plus Versand, schon mit Rabatten) keine brasilianische Einfuhrsteuer. Die ICMS-Steuer der Bundesstaaten (17 % bis 20 %) bleibt bestehen, und SHEIN sagt, dass das Unternehmen einen Teil davon übernimmt. Über US$ 50 kommt die Einfuhrsteuer zurück.",
-          "Pro Bestellung gilt ein SHEIN-Gutschein. Sie suchen den Empfehlungscode 4CW5Y von Cecília in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "Collage der Startseite von SHEIN in zehn Märkten, jeweils mit ihrer Adresse: Brasilien, Vereinigtes Königreich, Spanien, Frankreich, Deutschland, Italien, Südkorea, Japan, Taiwan und Singapur",
-          "caption": "Die Startseite von SHEIN in zehn Märkten am 12. Oktober 2026. Jeder Markt hat eine eigene Website; dieser Leitfaden behandelt SHEIN Brasilien (br.shein.com).",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN Brasilien hat den Black Friday 2026 noch nicht angekündigt; er fällt auf den 27. November. Nach den Vorjahren beginnen die Angebote früher, zusammen mit dem 11.11., und laufen bis zum 30. November. Internationale Bestellungen bis US$ 50 zahlen keine Einfuhrsteuer, nur ICMS; die Rechnung steht in „Die Steuer beim Black Friday: Was sich 2026 geändert hat“."
+        ]
       },
       {
         "heading": "Wann der Black Friday bei SHEIN beginnt",
         "paragraphs": [
-          "SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Phasen, in denen der höchste Rabatt bis zum Monatsende steigt. Die Tabelle unten fasst zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht veröffentlicht."
+          "SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Phasen, in denen der höchste Rabatt bis zum Monatsende steigt. Die Tabelle unten fasst zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht veröffentlicht. Dieser Leitfaden gilt für SHEIN Brasilien (Website und App), und Termine, Steuern, Preise und Regeln können in anderen Ländern abweichen."
         ],
         "comparisonTable": {
           "caption": "Phasen und höchste Rabatte, die SHEIN Brasilien angekündigt hat, laut der Presse, die die Mitteilungen veröffentlicht hat, und laut den Profilen der Marke. Das „bis zu“ gilt für einige Artikel.",
@@ -59529,7 +59496,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 fällt der 11.11. auf einen Mittwoch und der Black Friday auf einen Freitag, den 27. November. Wenn SHEIN das Muster wiederholt, sollten die Angebote zwischen Ende Oktober und Anfang November beginnen und bis zum 30. November laufen. Das ist eine Schätzung aus den bisherigen Jahren. Dieser Leitfaden wird aktualisiert, sobald SHEIN die Aktion für 2026 ankündigt.",
           "In allen drei Jahren stieg der höchste Rabatt gegen Ende: 90 % am 24. und 25.11.2023, 95 % vom 26.11. bis 30.11.2024 und 95 % ab dem 24.11.2025."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage der Startseite von SHEIN in zehn Märkten, jeweils mit ihrer Adresse: Brasilien, Vereinigtes Königreich, Spanien, Frankreich, Deutschland, Italien, Südkorea, Japan, Taiwan und Singapur",
+          "caption": "Die Startseite von SHEIN in zehn Märkten am 12. Oktober 2026. Jeder Markt hat eine eigene Website; dieser Leitfaden behandelt SHEIN Brasilien (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
@@ -59718,22 +59692,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN non ha ancora annunciato il Black Friday 2026. Negli ultimi tre anni le offerte sono iniziate prima della data, insieme all'11.11, la vendita del Singles' Day, e sono finite dopo di esso: il 25/11 nel 2023 e il 30/11 nel 2024 e nel 2025. Nel 2026 il Black Friday cade il 27 novembre. Questa guida riguarda SHEIN Brasile (il sito e l'app brasiliani), e date, imposte, prezzi e regole possono cambiare negli altri paesi.",
-          "La grande novità di quest'anno è l'imposta. Dal 13 maggio 2026, un ordine internazionale fino a **US$ 50** (prodotto più spedizione, già con gli sconti) non paga l'imposta di importazione brasiliana. L'ICMS (dal 17% al 20%) resta, e SHEIN dice di coprirne una parte. Sopra US$ 50 torna l'imposta di importazione.",
-          "Vale un coupon SHEIN per ordine. Il 4CW5Y è il codice invito di Cecília: cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "Collage della home page di SHEIN in dieci mercati, ciascuno con l'indirizzo del proprio sito: Brasile, Regno Unito, Spagna, Francia, Germania, Italia, Corea del Sud, Giappone, Taiwan e Singapore",
-          "caption": "La home page di SHEIN in dieci mercati il 12 ottobre 2026. Ogni mercato ha il proprio sito; questa guida riguarda SHEIN Brasile (br.shein.com).",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN Brasile non ha annunciato il Black Friday 2026, che cade il 27 novembre. Secondo gli anni passati, le offerte iniziano prima, con l'11.11, e durano fino al 30 novembre. Un ordine internazionale fino a US$ 50 non paga l'imposta di importazione, solo l'ICMS; il conto è in «L'imposta nel Black Friday: cosa è cambiato nel 2026»."
+        ]
       },
       {
         "heading": "Quando inizia il Black Friday di SHEIN",
         "paragraphs": [
-          "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che aumentano lo sconto massimo fino a fine mese. La tabella qui sotto raccoglie quello che SHEIN ha annunciato negli ultimi tre anni. Il calendario 2026 non è ancora uscito."
+          "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che aumentano lo sconto massimo fino a fine mese. La tabella qui sotto raccoglie quello che SHEIN ha annunciato negli ultimi tre anni. Il calendario 2026 non è ancora uscito. Questa guida riguarda SHEIN Brasile (il sito e l'app brasiliani), e date, imposte, prezzi e regole possono cambiare negli altri paesi."
         ],
         "comparisonTable": {
           "caption": "Fasi e sconti massimi annunciati da SHEIN Brasile, dalla stampa che ha riportato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
@@ -59763,7 +59728,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Nel 2026 l'11.11 cade di mercoledì e il Black Friday venerdì 27 novembre. Se SHEIN ripete lo schema, le offerte dovrebbero iniziare tra fine ottobre e inizio novembre e durare fino al 30 novembre. È una stima basata sullo storico, e questa guida verrà aggiornata quando SHEIN annuncerà la campagna 2026.",
           "In tutti e tre gli anni lo sconto massimo è salito verso la fine: 90% il 24 e 25/11 del 2023, 95% dal 26 al 30/11 del 2024 e 95% dal 24/11 del 2025."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Collage della home page di SHEIN in dieci mercati, ciascuno con l'indirizzo del proprio sito: Brasile, Regno Unito, Spagna, Francia, Germania, Italia, Corea del Sud, Giappone, Taiwan e Singapore",
+          "caption": "La home page di SHEIN in dieci mercati il 12 ottobre 2026. Ogni mercato ha il proprio sito; questa guida riguarda SHEIN Brasile (br.shein.com).",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "«Fino al 90%» non è tutto il carrello",
@@ -59952,22 +59924,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 아직 2026년 블랙프라이데이를 발표하지 않았습니다. 최근 3년 동안 할인은 블랙프라이데이 전부터 11.11(싱글스 데이 세일)과 함께 시작해 블랙프라이데이 뒤에 끝났습니다. 2023년에는 11월 25일까지, 2024년과 2025년에는 11월 30일까지였습니다. 2026년 블랙프라이데이는 11월 27일입니다. 이 가이드는 SHEIN 브라질(브라질 웹사이트와 앱)을 다루며, 날짜·세금·가격·규정은 다른 나라에서 다를 수 있습니다.",
-          "올해 큰 변화는 세금입니다. 2026년 5월 13일부터 **US$ 50** 이하 해외 주문(상품 가격과 배송비 합계, 할인 적용 후 금액)에는 브라질 수입세가 붙지 않습니다. 주 세금 ICMS(17%~20%)는 그대로 붙고, SHEIN은 그중 일부를 부담한다고 밝혔습니다. US$ 50을 넘으면 수입세가 다시 붙습니다.",
-          "주문마다 SHEIN 쿠폰 1장을 쓸 수 있습니다. 4CW5Y는 Cecília의 추천 코드입니다. 이 코드와 캠페인은 SHEIN 브라질의 것이며, 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "10개 시장의 SHEIN 홈페이지 콜라주. 각 사이트 주소와 함께: 브라질, 영국, 스페인, 프랑스, 독일, 이탈리아, 한국, 일본, 대만, 싱가포르",
-          "caption": "2026년 10월 12일 기준, 10개 시장의 SHEIN 홈페이지. 시장마다 별도의 사이트가 있으며, 이 가이드는 SHEIN 브라질(br.shein.com)을 다룹니다.",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN 브라질은 11월 27일인 2026년 블랙프라이데이를 아직 발표하지 않았습니다. 지난 흐름으로 보면 할인은 11.11과 함께 일찍 시작해 11월 30일까지 이어집니다. US$ 50 이하 해외 주문에는 수입세가 없고 ICMS만 붙으며, 계산은 “블랙프라이데이의 세금: 2026년에 달라진 것”에서 볼 수 있습니다."
+        ]
       },
       {
         "heading": "SHEIN 블랙프라이데이는 언제 시작하나요?",
         "paragraphs": [
-          "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말까지 최대 할인율이 올라가는 단계를 둡니다. 아래 표는 SHEIN이 최근 3년 동안 발표한 내용을 모았습니다. 2026년 일정은 아직 나오지 않았습니다."
+          "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말까지 최대 할인율이 올라가는 단계를 둡니다. 아래 표는 SHEIN이 최근 3년 동안 발표한 내용을 모았습니다. 2026년 일정은 아직 나오지 않았습니다. 이 가이드는 SHEIN 브라질(브라질 웹사이트와 앱)을 다루며, 날짜·세금·가격·규정은 다른 나라에서 다를 수 있습니다."
         ],
         "comparisonTable": {
           "caption": "SHEIN 브라질이 발표하고 해당 공지를 보도한 언론, 브랜드 프로필을 근거로 정리한 단계별 최대 할인율입니다. “최대”는 일부 상품에만 해당합니다.",
@@ -59997,7 +59960,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026년 11.11은 수요일이고, 블랙프라이데이는 금요일인 11월 27일입니다. SHEIN이 같은 흐름을 따른다면 할인은 10월 말~11월 초에 시작해 11월 30일까지 이어질 수 있습니다. 과거 흐름을 바탕으로 한 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
           "최근 3년 동안 최대 할인율은 막바지에 올랐습니다. 2023년 11월 24일·25일 90%, 2024년 11월 26일~30일 95%, 2025년 11월 24일부터 95%입니다."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "10개 시장의 SHEIN 홈페이지 콜라주. 각 사이트 주소와 함께: 브라질, 영국, 스페인, 프랑스, 독일, 이탈리아, 한국, 일본, 대만, 싱가포르",
+          "caption": "2026년 10월 12일 기준, 10개 시장의 SHEIN 홈페이지. 시장마다 별도의 사이트가 있으며, 이 가이드는 SHEIN 브라질(br.shein.com)을 다룹니다.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "“최대 90%”는 장바구니 전체 할인이 아닙니다",
@@ -60186,22 +60156,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN はまだ2026年のブラックフライデーを発表していません。このガイドは SHEIN ブラジル（ブラジル向けのサイトとアプリ）について書いています。日程、税金、価格、ルールは他の国では異なる場合があります。過去3年は、ブラックフライデーより前に11.11（独身の日のセール）と一緒にセールが始まり、ブラックフライデーの後も続きました。終了日は2023年が11月25日、2024年と2025年が11月30日です。2026年のブラックフライデーは11月27日です。",
-          "今年の大きな変化は税金です。2026年5月13日から、**US$ 50**までの国際注文（商品と送料の合計、割引適用後）には、ブラジルの輸入税がかかりません。州税のICMSは17%〜20%で引き続きかかり、SHEIN はその一部を負担すると述べています。US$ 50を超えると、輸入税が戻ります。",
-          "注文ごとに、SHEIN のプラットフォームクーポンは1枚まで使えます。4CW5Y は Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "10の市場のSHEINトップページのコラージュ。それぞれにサイトのアドレスがある：ブラジル、イギリス、スペイン、フランス、ドイツ、イタリア、韓国、日本、台湾、シンガポール",
-          "caption": "2026年10月12日時点の、10の市場におけるSHEINのトップページ。市場ごとに別のサイトがあり、このガイドはSHEIN ブラジル（br.shein.com）を扱います。",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN ブラジルはまだ2026年のブラックフライデーを発表していません（11月27日）。過去の傾向では、11.11とともに早く始まり、11月30日ごろまで続きます。US$ 50までの国際注文には輸入税がかからず、ICMSのみです。計算は「ブラックフライデーの税金：2026年に何が変わったか」をご覧ください。"
+        ]
       },
       {
         "heading": "SHEIN のブラックフライデーはいつ始まる？",
         "paragraphs": [
-          "SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで最大割引率を段階的に上げていきます。下の表は、過去3年に SHEIN が発表した内容をまとめたものです。2026年の日程はまだ発表されていません。"
+          "SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで最大割引率を段階的に上げていきます。下の表は、過去3年に SHEIN が発表した内容をまとめたものです。2026年の日程はまだ発表されていません。このガイドは SHEIN ブラジル（ブラジル向けのサイトとアプリ）について書いています。日程、税金、価格、ルールは他の国では異なる場合があります。"
         ],
         "comparisonTable": {
           "caption": "SHEIN ブラジルが発表した各段階と最大割引率。発表を掲載した報道と、ブランドの公式アカウントを基にしています。「最大」は一部の商品に当てはまります。",
@@ -60231,7 +60192,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026年は、11.11が水曜日、ブラックフライデーは金曜日の11月27日です。SHEIN が過去と同じパターンを続けるなら、セールは10月末から11月初めの間に始まり、11月30日まで続くと考えられます。これは過去の傾向による推測です。SHEIN が2026年のキャンペーンを発表したら、このガイドを更新します。",
           "過去3年とも、最大割引率は終わりに近づくほど上がりました。2023年は11月24日と25日に90%、2024年は11月26日〜30日に95%、2025年は11月24日から95%です。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "10の市場のSHEINトップページのコラージュ。それぞれにサイトのアドレスがある：ブラジル、イギリス、スペイン、フランス、ドイツ、イタリア、韓国、日本、台湾、シンガポール",
+          "caption": "2026年10月12日時点の、10の市場におけるSHEINのトップページ。市場ごとに別のサイトがあり、このガイドはSHEIN ブラジル（br.shein.com）を扱います。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "「最大90%」はカート全体の割引ではありません",
@@ -60420,22 +60388,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 尚未公布 2026 年的黑色星期五活動。本指南介紹的是 SHEIN 巴西站（巴西網站與 App），日期、稅金、價格與規則在其他國家可能不同。過去三年，活動都在黑色星期五之前與 11.11（光棍節，即雙十一購物節）一同開始，並在黑色星期五之後結束：2023 年為 11 月 25 日，2024 年與 2025 年為 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
-          "今年最大的變化在稅金。自 2026 年 5 月 13 日起，國際訂單若在 US$ 50 以內（商品加運費，且已扣除折扣），就不需繳納進口稅。ICMS 州稅（17% 至 20%）仍要繳，SHEIN 表示會負擔其中一部分。超過 US$ 50，進口稅就會回來。",
-          "每筆訂單可使用一張 SHEIN 平台優惠券。4CW5Y 是 Cecília 的推薦碼。你可以在 SHEIN App 中搜尋 4CW5Y，並查看帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "SHEIN 首頁十個市場的拼貼，每個都附網址：巴西、英國、西班牙、法國、德國、義大利、韓國、日本、台灣和新加坡",
-          "caption": "2026年10月12日，SHEIN 首頁在十個市場的樣子。每個市場都有自己的網站；本指南介紹的是 SHEIN 巴西站（br.shein.com）。",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN 巴西站尚未公布 2026 年黑色星期五（11 月 27 日）。按往年規律，活動會隨 11.11 提前開始，持續到 11 月 30 日。US$ 50 以內的國際訂單不收進口稅，只收 ICMS；計算見「黑色星期五的稅金：2026 年有什麼改變」。"
+        ]
       },
       {
         "heading": "SHEIN 黑色星期五何時開始",
         "paragraphs": [
-          "SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前逐步提高最高折扣。下表彙整了 SHEIN 過去三年公布的內容。2026 年的日程尚未公布。"
+          "SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前逐步提高最高折扣。下表彙整了 SHEIN 過去三年公布的內容。2026 年的日程尚未公布。本指南介紹的是 SHEIN 巴西站（巴西網站與 App），日期、稅金、價格與規則在其他國家可能不同。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 巴西站公布的各階段與最高折扣，依據刊登公告的媒體與品牌官方帳號整理。「最高」只適用於部分商品。",
@@ -60465,7 +60424,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延續過去的模式，活動應會在十月底到十一月初之間開始，並持續到 11 月 30 日。這是依據過去紀錄的推估。SHEIN 公布 2026 年活動後，本指南會再更新。",
           "過去三年，最高折扣都是越接近結束越高：2023 年 11 月 24、25 日為 90%；2024 年 11 月 26 至 30 日為 95%；2025 年自 11 月 24 日起為 95%。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 首頁十個市場的拼貼，每個都附網址：巴西、英國、西班牙、法國、德國、義大利、韓國、日本、台灣和新加坡",
+          "caption": "2026年10月12日，SHEIN 首頁在十個市場的樣子。每個市場都有自己的網站；本指南介紹的是 SHEIN 巴西站（br.shein.com）。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "「最高 90%」不代表整個購物車",
@@ -60654,22 +60620,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 尚未公布 2026 年的黑色星期五活动。本指南介绍的是 SHEIN 巴西站（巴西网站与 App），日期、税金、价格与规则在其他国家可能不同。过去三年，活动都在黑色星期五之前与 11.11（光棍节，即双十一购物节）一同开始，并在黑色星期五之后结束：2023 年到 11 月 25 日，2024 年与 2025 年到 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
-          "今年最大的变化在税金。自 2026 年 5 月 13 日起，国际订单若在 US$ 50 以内（商品加运费，且已扣除折扣），就不需缴纳进口税。ICMS 州税（17% 至 20%）仍要缴，SHEIN 表示会负担其中一部分。超过 US$ 50，进口税就会回来。",
-          "每笔订单可使用一张 SHEIN 平台优惠券。4CW5Y 是 Cecília 的推荐码。你可以在 SHEIN App 中搜索 4CW5Y，并查看账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-          "alt": "SHEIN 首页十个市场的拼图，每个都附网址：巴西、英国、西班牙、法国、德国、意大利、韩国、日本、台湾和新加坡",
-          "caption": "2026年10月12日，SHEIN 首页在十个市场的样子。每个市场都有自己的网站；本指南介绍的是 SHEIN 巴西站（br.shein.com）。",
-          "objectFit": "contain",
-          "aspectRatio": 2.8571
-        }
+          "SHEIN 巴西站尚未公布 2026 年黑色星期五（11 月 27 日）。按往年规律，活动会随 11.11 提前开始，持续到 11 月 30 日。US$ 50 以内的国际订单不收进口税，只收 ICMS；计算见“黑色星期五的税金：2026 年有什么变化”。"
+        ]
       },
       {
         "heading": "SHEIN 黑色星期五何时开始",
         "paragraphs": [
-          "SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前逐步提高最高折扣。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
+          "SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前逐步提高最高折扣。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。本指南介绍的是 SHEIN 巴西站（巴西网站与 App），日期、税金、价格与规则在其他国家可能不同。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 巴西站公布的各阶段与最高折扣，依据刊登公告的媒体与品牌官方账号整理。“最高”只适用于部分商品。",
@@ -60699,7 +60656,14 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延续过去的模式，活动应会在十月底到十一月初之间开始，并持续到 11 月 30 日。这是依据过去纪录的推估。SHEIN 公布 2026 年活动后，本指南会再更新。",
           "过去三年，最高折扣都是越接近结束越高：2023 年 11 月 24、25 日为 90%；2024 年 11 月 26 至 30 日为 95%；2025 年自 11 月 24 日起为 95%。"
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 首页十个市场的拼图，每个都附网址：巴西、英国、西班牙、法国、德国、意大利、韩国、日本、台湾和新加坡",
+          "caption": "2026年10月12日，SHEIN 首页在十个市场的样子。每个市场都有自己的网站；本指南介绍的是 SHEIN 巴西站（br.shein.com）。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
       },
       {
         "heading": "“最高 90%”不等于整个购物车的折扣",
@@ -64123,9 +64087,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "A SHEIN referral code goes in the store's **search bar**, in the app or on the website on your phone, not in the coupon field. SHEIN itself says so in the affiliate program's FAQ: use the code in the search box, “not as a coupon”.",
-          "According to SHEIN, the search opens the page of the person who shared the code, with the offers the store shows there. There is no fixed discount tied to the code.",
-          "4CW5Y is Cecília's referral code on SHEIN Brazil, and it may not work in your country."
+          "A SHEIN referral code goes in the store's search bar, in the app or on your phone's browser, not in the coupon field. It has no fixed discount: it opens the page of whoever shared it, with the store's offers. 4CW5Y is Cecília's code on SHEIN Brazil and may not work abroad; see “Where to enter the SHEIN referral code”."
         ]
       },
       {
@@ -64257,9 +64219,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El código de referido de SHEIN va en la **barra de búsqueda** de la tienda, en la app o en el sitio desde el celular, no en el campo de cupón. La propia SHEIN lo dice en las preguntas frecuentes de su programa de afiliados: usa el código en el cuadro de búsqueda, no como un cupón.",
-          "Según SHEIN, la búsqueda abre la página de quien compartió el código, con las ofertas que la tienda muestre allí. No hay un descuento fijo ligado al código.",
-          "4CW5Y es el código de referido de Cecília en SHEIN Brasil, y puede no funcionar en tu país."
+          "El código de referido de SHEIN va en la barra de búsqueda, en la app o el sitio móvil, no en el campo de cupón. No da descuento fijo: abre la página de quien lo compartió. 4CW5Y es el código de Cecília en SHEIN Brasil y puede no funcionar en tu país; mira “Dónde poner el código de referido de SHEIN”."
         ]
       },
       {
@@ -64391,14 +64351,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le code de parrainage SHEIN dont parle ce guide n'a pas de valeur fixe et ne donne pas droit à une prime en euros : on le tape dans la **barre de recherche** de la boutique, dans l'appli ou sur le site depuis le téléphone, et non dans le champ du coupon. SHEIN le dit elle-même dans la FAQ de son programme d'affiliation : utilisez le code dans la zone de recherche, et non comme un coupon.",
-          "Selon SHEIN, la recherche ouvre la page de la personne qui a partagé le code, avec les offres que la boutique y affiche. Il n'y a pas de réduction fixe liée au code.",
-          "Le 4CW5Y est le code de parrainage de Cecília sur SHEIN Brésil, et il peut ne pas fonctionner dans votre pays."
+          "Le code de parrainage SHEIN se tape dans la barre de recherche, dans l'appli ou sur mobile, pas dans le champ du coupon. Sans réduction fixe, il ouvre la page de celui qui l'a partagé. Le 4CW5Y est le code de Cecília sur SHEIN Brésil et peut ne pas fonctionner chez vous ; voir « Où saisir le code de parrainage SHEIN »."
         ]
       },
       {
         "heading": "Où saisir le code de parrainage SHEIN",
         "paragraphs": [
+          "Le code de parrainage dont parle ce guide est celui que l'on recherche dans la barre de recherche : il n'a pas de valeur fixe et ne donne pas droit à une prime en euros.",
           "SHEIN demande de rechercher le code dans la barre de recherche de l'appli. Les captures ci-dessous viennent du site de SHEIN Brésil sur téléphone, en portugais, sans connexion :"
         ],
         "bullets": [
@@ -64525,8 +64484,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Empfehlungscode von SHEIN gehört in die **Suche** des Shops, in der App oder auf der Website im Browser des Smartphones, nicht in das Gutscheinfeld. Das sagt SHEIN selbst in den häufig gestellten Fragen zum Affiliate-Programm: Der Code wird im Suchfeld verwendet, nicht als Gutschein.",
-          "Laut SHEIN öffnet die Suche die Seite der Person, die den Code verbreitet hat, mit den Angeboten, die der Shop dort zeigt. Es gibt keinen festen Rabatt, der am Code hängt. 4CW5Y ist Cecílias Empfehlungscode bei SHEIN Brasilien und gilt in Ihrem Land womöglich nicht."
+          "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, in der App oder im Browser des Smartphones, nicht ins Gutscheinfeld. Er bringt keinen festen Rabatt: Er öffnet die Seite der Person, die ihn geteilt hat, mit den Angeboten des Shops. 4CW5Y ist Cecílias Code bei SHEIN Brasilien und gilt im Ausland womöglich nicht; siehe „Wo Sie den SHEIN-Empfehlungscode eingeben“."
         ]
       },
       {
@@ -64658,8 +64616,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il codice invito di SHEIN (o «codice amico») va nella **ricerca** del negozio, nell'app o nel sito dal telefono, non nel campo del coupon. Lo dice la stessa SHEIN nelle domande frequenti del programma di affiliazione: il codice si usa nella casella di ricerca, non come un coupon.",
-          "Secondo SHEIN, la ricerca apre la pagina di chi ha diffuso il codice, con le offerte che il negozio mostra lì. Non esiste uno sconto fisso legato al codice. Il 4CW5Y è il codice invito di Cecília su SHEIN Brasile e potrebbe non valere nel tuo paese."
+          "Il codice invito di SHEIN va nella ricerca del negozio, nell'app o nel browser del telefono, non nel campo del coupon. Non ha uno sconto fisso: apre la pagina di chi lo ha diffuso, con le offerte del negozio. Il 4CW5Y è il codice di Cecília su SHEIN Brasile e potrebbe non valere nel tuo paese; vedi «Dove inserire il codice invito di SHEIN»."
         ]
       },
       {
@@ -64791,14 +64748,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN 추천 코드(추천인 코드라고도 합니다)는 쿠폰 입력란이 아니라 쇼핑몰의 **검색창**에 입력합니다. 앱에서도, 휴대폰 웹사이트에서도 마찬가지입니다. SHEIN도 어필리에이트 프로그램의 자주 묻는 질문에서 코드는 검색창에 입력하는 것이며 “쿠폰으로 쓰는 것이 아니다”라고 직접 안내합니다.",
-          "SHEIN에 따르면 코드를 검색하면 코드를 알린 사람의 페이지가 열리고, 쇼핑몰이 그곳에 보여 주는 혜택이 나옵니다. 코드에 붙은 고정 할인은 없습니다. 4CW5Y는 SHEIN 브라질에서 쓰는 Cecília의 추천 코드이며, 거주하는 나라에서는 적용되지 않을 수 있습니다.",
-          "이 가이드는 검색창에서 찾는 코드만 다루며, 친구 초대 프로그램은 다루지 않습니다."
+          "SHEIN 추천 코드는 쿠폰 입력란이 아니라 앱이나 휴대폰 웹사이트의 검색창에 입력합니다. 고정 할인은 없고, 코드를 알린 사람의 페이지가 열려 쇼핑몰의 혜택이 나옵니다. 4CW5Y는 SHEIN 브라질의 Cecília 코드이며 거주하는 나라에서는 적용되지 않을 수 있습니다. 방법은 “SHEIN 추천 코드를 입력하는 곳”을 보세요."
         ]
       },
       {
         "heading": "SHEIN 추천 코드를 입력하는 곳",
         "paragraphs": [
+          "SHEIN 추천 코드는 추천인 코드라고도 합니다. 이 가이드는 검색창에서 찾는 코드만 다루며, 친구 초대 프로그램은 다루지 않습니다.",
           "SHEIN은 앱의 검색창에서 코드를 검색하라고 안내합니다. 아래 화면은 휴대폰으로 본 SHEIN 브라질 웹사이트로, 포르투갈어로 표시되고 로그인하지 않은 상태입니다."
         ],
         "bullets": [
@@ -64925,14 +64881,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN の紹介コードは、SHEIN のアプリ、またはスマートフォンで開いたサイトの**検索バー**に入力します。クーポン欄には入力しません。SHEIN はアフィリエイトプログラムのよくある質問で、コードはクーポンとしてではなく、検索ボックスで使うよう案内しています。",
-          "SHEIN によると、検索するとコードを紹介した人のページが開き、そこにストアが表示するオファーが並びます。コードに決まった割引は付いていません。4CW5Y は、SHEIN ブラジルでの Cecília の紹介コードです。SHEIN ブラジルのコードなので、お住まいの国では使えない場合があります。",
-          "「招待コード」と呼ばれることもありますが、このガイドは検索バーで検索するコードだけを扱い、友達紹介プログラムは取り上げません。"
+          "SHEIN の紹介コードは、クーポン欄ではなく、アプリまたはスマートフォンのサイトの検索バーに入力します。決まった割引は付かず、コードを紹介した人のページが開きます。4CW5Y は SHEIN ブラジルでの Cecília のコードで、お住まいの国では使えない場合があります。手順は「SHEIN の紹介コードを入力する場所」をご覧ください。"
         ]
       },
       {
         "heading": "SHEIN の紹介コードを入力する場所",
         "paragraphs": [
+          "「招待コード」と呼ばれることもありますが、このガイドは検索バーで検索するコードだけを扱い、友達紹介プログラムは取り上げません。",
           "SHEIN は、コードをアプリの検索バーで検索するよう案内しています。以下の画面は、ログインせずにスマートフォンで開いた SHEIN ブラジルのサイトのもので、表示はポルトガル語です。"
         ],
         "bullets": [
@@ -65059,8 +65014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 推薦碼要在 SHEIN 的**搜尋欄**輸入，App 或手機上的網站都可以，不是輸入到優惠券欄位。SHEIN 在聯盟行銷計畫的常見問題中說明，推薦碼要在搜尋框使用，而不是當作優惠券。",
-          "根據 SHEIN 的說明，搜尋後會開啟推廣這個推薦碼的人的頁面，並顯示商店在頁面上提供的優惠。推薦碼沒有固定折扣。4CW5Y 是 Cecília 在 SHEIN 巴西站的推薦碼，在你所在的國家可能無法使用。"
+          "SHEIN 推薦碼要輸入搜尋欄（App 或手機網站），不是優惠券欄位。它沒有固定折扣，搜尋後會開啟推廣者的頁面，顯示商店提供的優惠。4CW5Y 是 Cecília 在 SHEIN 巴西站的推薦碼，在你所在的國家可能無法使用。步驟見「SHEIN 推薦碼要在哪裡輸入」。"
         ]
       },
       {
@@ -65192,8 +65146,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 推荐码要在 SHEIN 的**搜索栏**输入，App 或手机上的网站都可以，不是输入到优惠券输入框。SHEIN 在联盟营销计划的常见问题中说明，推荐码要在搜索框使用，而不是当作优惠券。",
-          "根据 SHEIN 的说明，搜索后会打开推广这个推荐码的人的页面，并显示商店在页面上提供的优惠。推荐码没有固定折扣。4CW5Y 是 Cecília 在 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+          "SHEIN 推荐码要输入搜索栏（App 或手机网站），不是优惠券输入框。它没有固定折扣，搜索后会打开推广者的页面，显示商店提供的优惠。4CW5Y 是 Cecília 在 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。步骤见“SHEIN 推荐码要在哪里输入”。"
         ]
       },
       {
@@ -65550,9 +65503,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, SHEIN is a legitimate store. The SHEIN site in each market is run by an identified company: in the US, SHEIN US Services, LLC, and in the UK, Infinite Styles Services Co., Limited (“ISSL”), according to the privacy policy of each site. This guide covers the US and UK sites, and other countries may differ.",
-          "SHEIN started in China and is headquartered in Singapore, according to the Financial Times.",
-          "On returns, the US site gives you up to 30 days from delivery. In the UK, you have 14 days by law, counted from receipt, and under SHEIN's own policy most items can be returned up to 30 days after you receive them."
+          "Yes, SHEIN is a legitimate store, and the site of each market is run by an identified company named in its privacy policy. What weighs on the decision is the return window, which differs by market, and the import tax. The chapter \"Returns and import tax\" below has the rules for the US and UK."
         ]
       },
       {
@@ -65662,6 +65613,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Can you trust SHEIN?",
+        "paragraphs": [
+          "Yes, as long as you buy on your market's official site or in the official SHEIN app. According to their privacy policies, SHEIN US Services, LLC runs the US site and Infinite Styles Services Co., Limited the UK one, and SHEIN says it does not sell customer data.",
+          "Before you pay, check the shipping cost and delivery time on the order page, the import taxes at checkout and the return deadline, and keep the order confirmation. In the US you have up to 30 days from delivery to return; in the UK, 14 days by law and most items up to 30 days under SHEIN's policy."
+        ]
+      },
+      {
         "heading": "Frequently asked questions",
         "bullets": [
           "Is SHEIN legit? Yes. It is a legitimate store, and the site of each market has an identified company behind it: SHEIN US Services, LLC in the US and Infinite Styles Services Co., Limited in the UK, according to the privacy policies.",
@@ -65733,10 +65691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, SHEIN es una tienda legítima. El sitio de cada mercado lo opera una empresa identificada: en España, Infinite Styles Services Co., Limited (“ISSL”), y en México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México, según la política de privacidad de cada sitio. Esta guía trata de los sitios de España y México, y en otros países puede haber diferencias.",
-          "SHEIN nació en China y tiene su sede en Singapur, según el Financial Times.",
-          "Sobre las devoluciones: en España, el derecho de desistimiento es de 14 días por ley, contados desde la recepción, y según la política comercial de SHEIN la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos. En México, hasta 30 días desde la recepción.",
-          "En la UE, la Comisión Europea abrió en febrero de 2026 un procedimiento formal contra SHEIN por la Ley de Servicios Digitales (DSA) y aclara que la apertura no anticipa el resultado."
+          "Sí, SHEIN es una tienda legítima, y el sitio de cada mercado lo opera una empresa identificada en su política de privacidad. Lo que pesa en la decisión es el plazo de devolución, que cambia según el mercado, y los impuestos de importación. El capítulo «Devoluciones y aduana» más abajo explica las reglas de España y México."
         ]
       },
       {
@@ -65860,6 +65815,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "¿Se puede confiar en SHEIN?",
+        "paragraphs": [
+          "Sí, siempre que compres en el sitio oficial de tu mercado o en la app oficial de SHEIN. Según la política de privacidad de cada sitio, en España lo opera Infinite Styles Services Co., Limited (“ISSL”), y SHEIN dice que no vende los datos de sus clientes.",
+          "Antes de pagar, revisa el costo y el plazo de envío en la página del pedido, los impuestos de importación en el checkout y el plazo de devolución, y guarda la confirmación del pedido. En España tienes 14 días de desistimiento por ley y, según la política de SHEIN, la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos; en México, hasta 30 días desde la recepción."
+        ]
+      },
+      {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿SHEIN es confiable? Sí. Es una tienda legítima, y el sitio de cada mercado tiene una empresa identificada detrás: Infinite Styles Services Co., Limited en España y “SHEIN”, con domicilio en la Ciudad de México, en México, según las políticas de privacidad.",
@@ -65932,10 +65894,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, SHEIN est une boutique légitime. Le site de chaque marché est exploité par une société identifiée : en France, Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Ce guide porte sur le site de SHEIN en France, et les autres pays peuvent différer.",
-          "L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times.",
-          "Pour les retours : le délai de rétractation légal est de 14 jours à compter de la réception, et, selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception.",
-          "Dans l'UE, la Commission européenne a ouvert en février 2026 une procédure formelle contre SHEIN au titre du règlement sur les services numériques (DSA), et précise que cette ouverture n'anticipe pas le résultat."
+          "Oui, SHEIN est une boutique légitime, et le site de chaque marché est exploité par une société identifiée dans sa politique de confidentialité. Ce qui pèse dans la décision, c'est le délai de retour et la douane. Le chapitre « Retours et douane » plus bas détaille les règles pour la France."
         ]
       },
       {
@@ -66027,6 +65986,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Peut-on faire confiance à SHEIN ?",
+        "paragraphs": [
+          "Oui, à condition d'acheter sur le site officiel de votre marché ou dans l'application officielle de SHEIN. Selon la politique de confidentialité du site, la société qui l'exploite en France est Infinite Styles Services Co., Limited (« ISSL »), et SHEIN dit ne pas vendre les données de ses clients.",
+          "Avant de payer, vérifiez les frais et le délai de livraison sur la page de la commande, les taxes d'importation au paiement et le délai de retour, et gardez la confirmation de commande. Le délai de rétractation légal est de 14 jours à compter de la réception, et, selon la politique de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception."
+        ]
+      },
+      {
         "heading": "Questions fréquentes",
         "bullets": [
           "SHEIN est-il fiable ? Oui, c'est une boutique légitime, avec une société identifiée derrière le site de chaque marché : en France, Infinite Styles Services Co., Limited, selon la politique de confidentialité du site.",
@@ -66099,9 +66065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, SHEIN ist ein echter Onlineshop mit einem identifizierbaren Unternehmen dahinter. Auf de.shein.com ist das die Infinite Styles Services Co., Limited („ISSL“), die in der Datenschutzerklärung der Website genannt wird. Laut Financial Times ist SHEIN in China entstanden, und das Unternehmen hat seinen Sitz in Singapur.",
-          "Bei der Rückgabe haben Sie 14 Tage gesetzliches Widerrufsrecht ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden.",
-          "Die Europäische Kommission hat im Februar 2026 ein förmliches Verfahren gegen SHEIN nach dem Gesetz über digitale Dienste (DSA) eingeleitet. Nach ihren Angaben greift die Einleitung dem Ergebnis nicht vor. Mehr dazu weiter unten."
+          "Ja, SHEIN ist ein echter Onlineshop, und die Website jedes Marktes wird von einem Unternehmen betrieben, das in der Datenschutzerklärung genannt wird. Entscheidend sind die Rückgabefrist und der Zoll. Im Kapitel „Rückgabe und Zoll“ weiter unten stehen die Regeln für Deutschland; das EU-Verfahren steht im Kapitel „Verfahren und Mitteilung der EU-Behörden“."
         ]
       },
       {
@@ -66192,6 +66156,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Kann man SHEIN vertrauen?",
+        "paragraphs": [
+          "Ja, solange Sie auf der offiziellen Website Ihres Marktes oder in der offiziellen SHEIN-App einkaufen. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website, und SHEIN sagt, dass es keine Kundendaten verkauft.",
+          "Prüfen Sie vor der Zahlung die Versandkosten und die Lieferzeit auf der Bestellseite, die Einfuhrabgaben an der Kasse und die Rückgabefrist, und bewahren Sie die Bestellbestätigung auf. Sie haben 14 Tage gesetzliches Widerrufsrecht ab Erhalt der Ware, und nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden."
+        ]
+      },
+      {
         "heading": "Häufige Fragen",
         "bullets": [
           "Ist SHEIN seriös? Ja, SHEIN ist ein echter Onlineshop. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website.",
@@ -66264,9 +66235,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, SHEIN è un vero negozio online, con un'azienda identificata dietro il sito. Su it.shein.com è Infinite Styles Services Co., Limited («ISSL»), indicata nell'informativa sulla privacy del sito. Secondo il Financial Times, SHEIN è nata in Cina e ha sede a Singapore.",
-          "Per il reso, il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento.",
-          "La Commissione europea ha avviato a febbraio 2026 un procedimento formale contro SHEIN ai sensi del regolamento sui servizi digitali (DSA) e precisa che l'avvio non pregiudica l'esito. Più sotto trovi i dettagli."
+          "Sì, SHEIN è un vero negozio online, e il sito di ogni mercato è gestito da un'azienda identificata nell'informativa sulla privacy. A pesare sulla decisione sono il termine per il reso e la dogana. Nel capitolo «Reso e dogana» qui sotto trovi le regole per l'Italia."
         ]
       },
       {
@@ -66357,6 +66326,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Ci si può fidare di SHEIN?",
+        "paragraphs": [
+          "Sì, purché tu compri sul sito ufficiale del tuo mercato o nell'app ufficiale di SHEIN. Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»), e SHEIN dice di non vendere i dati dei clienti.",
+          "Prima di pagare, controlla le spese e i tempi di consegna nella pagina dell'ordine, le imposte di importazione al checkout e il termine per il reso, e conserva la conferma dell'ordine. Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce e, secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento."
+        ]
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
           "SHEIN è affidabile? Sì, SHEIN è un vero negozio online. Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»).",
@@ -66429,8 +66405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, SHEIN은 정식으로 운영되는 쇼핑몰이며, 시장별 웹사이트마다 운영 회사가 공개되어 있습니다. 한국 사이트 kr.shein.com의 운영 회사는 싱가포르의 Wonderflow Support Pte. Ltd.입니다. 사이트의 개인정보 처리방침에 나와 있습니다. 파이낸셜 타임스(Financial Times)에 따르면 SHEIN은 중국에서 시작했고 본사는 싱가포르에 있습니다.",
-          "kr.shein.com의 반품 정책에 따르면 반품은 수령 후 60일 이내에 할 수 있습니다."
+          "네, SHEIN은 정식으로 운영되는 쇼핑몰이며, 한국 사이트의 운영 회사는 개인정보 처리방침에 공개되어 있습니다. 판단에서 중요한 것은 반품 기한과 수입 세금이고, 기한은 시장마다 다릅니다. 자세한 내용은 아래 '반품 기한과 세금 확인' 장에서 확인하세요."
         ]
       },
       {
@@ -66510,6 +66485,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "SHEIN을 믿어도 되나요?",
+        "paragraphs": [
+          "네, 공식 사이트 kr.shein.com이나 공식 SHEIN 앱에서 구매하는 한 믿고 이용할 수 있는 쇼핑몰입니다. 개인정보 처리방침에 따르면 한국 사이트는 싱가포르의 Wonderflow Support Pte. Ltd.에서 운영하며, SHEIN은 고객 데이터를 판매하지 않는다고 말합니다.",
+          "결제 전에 주문 페이지의 배송비와 배송 기간, 결제 화면의 세금과 수입 관련 비용, 반품 기한을 확인하고 주문 확인 내역을 보관하세요. kr.shein.com의 반품은 수령 후 60일 이내에 할 수 있습니다."
+        ]
+      },
+      {
         "heading": "자주 묻는 질문",
         "bullets": [
           "SHEIN(쉬인)은 믿을 수 있나요? 정식으로 운영되는 쇼핑몰이며, 시장별 사이트마다 개인정보 처리방침에 운영 회사가 나와 있습니다. 한국 사이트 kr.shein.com은 싱가포르의 Wonderflow Support Pte. Ltd.에서 운영합니다.",
@@ -66581,8 +66563,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、SHEIN は正規のお店です。このガイドは、日本向けのサイト（jp.shein.com）について書いています。日本のサイトの運営会社は、シンガポールの Fashion Choice Pte. Ltd. で、サイトのプライバシーポリシーに会社名が書かれています。運営会社や返品のルールは、マーケットによって異なります。",
-          "フィナンシャル・タイムズ（Financial Times）によると、SHEIN は中国で生まれ、本社はシンガポールにあります。日本のサイトの返品期限は、購入日から40日以内です。"
+          "はい、SHEIN は正規のお店で、日本のサイトの運営会社はプライバシーポリシーに書かれています。判断のポイントは返品期限と関税で、期限は市場によって異なります。詳しくは下の「返品と関税」をご覧ください。"
         ]
       },
       {
@@ -66664,6 +66645,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "SHEIN は信頼できる？",
+        "paragraphs": [
+          "はい、公式サイト（jp.shein.com）か公式アプリで買うかぎり、信頼できるお店です。日本のサイトの運営会社は、プライバシーポリシーによるとシンガポールの Fashion Choice Pte. Ltd. で、SHEIN はお客様のデータを販売していないと述べています。",
+          "支払う前に、注文ページの送料と配送日数、チェックアウトの輸入税や手数料、返品期限を確認し、注文の確認を保存しておきましょう。日本のサイトの返品期限は、購入日から40日以内です。"
+        ]
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
           "SHEIN は信頼できますか？ 正規のお店です。日本のサイトの運営会社はシンガポールの Fashion Choice Pte. Ltd. で、サイトのプライバシーポリシーに会社名が書かれています。",
@@ -66736,8 +66724,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一間正規經營的商店。本指南介紹的是 SHEIN 台灣站（shein.tw）。台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，公司名稱寫在網站的隱私權政策中。不同市場的營運公司與退貨規則可能不同。",
-          "根據《金融時報》（Financial Times）的報導，SHEIN 誕生於中國，總部位於新加坡。台灣站的退貨期限是收到商品後 15 天內。"
+          "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅，不同市場的規則不同。詳情見下文「退貨與進口稅」。"
         ]
       },
       {
@@ -66819,6 +66806,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "SHEIN 可以信任嗎？",
+        "paragraphs": [
+          "可以，前提是只在官方網站（台灣站為 shein.tw）或官方 App 上購買。根據其隱私權政策，台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，SHEIN 也表示不會販售客戶資料。",
+          "付款前請確認訂單頁面上的運費與配送時間、結帳頁面上的進口稅與相關費用，以及退貨期限，並保留訂單確認。台灣站的退貨期限是收到商品後 15 天內。"
+        ]
+      },
+      {
         "heading": "常見問題",
         "bullets": [
           "SHEIN 可靠嗎？ SHEIN 是正規經營的商店，台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，公司名稱寫在網站的隱私權政策中。",
@@ -66890,8 +66884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一家正规经营的商店。本指南介绍的是 SHEIN 新加坡站（sg.shein.com）。新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。不同市场的运营公司与退货规则可能不同。",
-          "据《金融时报》（Financial Times）报道，SHEIN 诞生于中国，总部位于新加坡。新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它是从收货、送达还是下单那天开始计算。"
+          "SHEIN 是一家正规经营的商店，新加坡站的运营公司写在网站的隐私政策中。判断的关键是退货期限和进口税，不同市场的规则不同。详情见下文「退货与进口税」。"
         ]
       },
       {
@@ -66970,6 +66963,13 @@ export const reviewsData: unknown[] = [
             "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
             "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
           }
+        ]
+      },
+      {
+        "heading": "SHEIN 可以信任吗？",
+        "paragraphs": [
+          "可以，前提是只在官方网站（新加坡站为 sg.shein.com）或官方 App 上购买。据其隐私政策，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，SHEIN 也表示不会出售客户数据。",
+          "付款前请确认订单页面上的运费与配送时间、结账页面上的进口税与相关费用，以及退货期限，并保留订单确认。新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。"
         ]
       },
       {
@@ -67314,13 +67314,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "There is no store that is best for everyone. The choice depends on what you are buying and on how much being able to return it matters. In the UK, Temu and AliExpress give 90 days to return, counted from the purchase (AliExpress, for sellers that ship from abroad), and SHEIN up to 30 days after receipt for most items, with 14 days by law. In the US, SHEIN publishes 30 days after delivery.",
-          "This article does not measure prices or test deliveries. The table brings together what each store publishes in the UK, checked on October 12 and 13, 2026. Amazon and Shopee also appear in searches like this one, but this article does not compare them."
+          "There is no store that is best for everyone: the choice depends on what you buy and how much returning it matters, and the longest UK return window is 90 days, at Temu and AliExpress. We do not test prices or deliveries. The chapter \"Which to choose, depending on what you're buying\" below shows what to check in each case."
         ]
       },
       {
         "heading": "SHEIN, Temu and AliExpress side by side in the UK",
         "paragraphs": [
+          "There is no store that is best for everyone: it depends on what you are buying and how much being able to return it matters. This article does not measure prices or test deliveries; the table brings together what each store publishes in the UK. Amazon and Shopee also appear in searches like this one, but this article does not compare them.",
           "Sources, checked on October 12 and 13, 2026: the privacy, shipping and returns pages of SHEIN's UK site; Temu's shipping and returns pages for the UK; AliExpress's return policy and the product page of a dress, with delivery set to the UK. SHEIN's UK site is operated by Infinite Styles Services Co., Limited (ISSL)."
         ],
         "image": {
@@ -67370,15 +67370,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Which to choose, depending on what you're buying",
-        "bullets": [
-          "**You want room to return things:** compare the return window, not just the price.",
-          "**You need it by a certain date:** check the delivery time on the product page or in your order. On AliExpress, the product page shows the estimated date, and the order is refunded if it is not delivered within 35 days.",
-          "**The order comes from abroad:** check the total with taxes at checkout.",
-          "**You will pay by card, with a digital wallet or in instalments:** check the payment options at each store's checkout."
-        ]
-      },
-      {
         "heading": "What reviews measure",
         "paragraphs": [
           "Scores on complaint and review sites measure how a store handles customers who complain, not the quality of the product, and the number of complaints depends on the size of the store. Who operates SHEIN and what is known about its reputation are in our article on whether SHEIN is legit and safe."
@@ -67397,6 +67388,15 @@ export const reviewsData: unknown[] = [
           "The return window, and whether the item is one of those with a shorter window (on SHEIN UK, for example, lingerie, underwear and costume jewelry).",
           "Who sells it: the store itself or a partner seller.",
           "The delivery time shown in your order."
+        ]
+      },
+      {
+        "heading": "Which to choose, depending on what you're buying",
+        "bullets": [
+          "**You want room to return things:** compare the return window, not just the price.",
+          "**You need it by a certain date:** check the delivery time on the product page or in your order. On AliExpress, the product page shows the estimated date, and the order is refunded if it is not delivered within 35 days.",
+          "**The order comes from abroad:** check the total with taxes at checkout.",
+          "**You will pay by card, with a digital wallet or in instalments:** check the payment options at each store's checkout."
         ]
       },
       {
@@ -67499,13 +67499,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No existe una tienda mejor para todo el mundo. La elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo. En España, Temu da 90 días desde la compra y AliExpress, 90 días desde el pedido si el vendedor envía desde el extranjero; SHEIN admite la mayoría de los artículos hasta 30 días después de recibirlos, con 14 días de desistimiento por ley. En México, Temu da 90 días desde la compra y SHEIN, hasta 30 días después de recibir el pedido.",
-          "Este artículo no mide precios ni prueba entregas. Las tablas reúnen lo que cada tienda publica en España y en México, consultado el 12 y el 13 de octubre de 2026. Amazon también aparece en búsquedas como esta, pero este artículo no la compara."
+          "No existe una tienda mejor para todo el mundo: la elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo, y en España el plazo más largo es de 90 días, en Temu y AliExpress. No medimos precios ni probamos entregas. El capítulo «Cuál elegir, según lo que vayas a comprar» más abajo muestra qué revisar en cada caso."
         ]
       },
       {
         "heading": "SHEIN, Temu y AliExpress lado a lado en España",
         "paragraphs": [
+          "No existe una tienda mejor para todo el mundo: depende de lo que vayas a comprar y de cuánto te importe poder devolverlo. Este artículo no mide precios ni prueba entregas; las tablas reúnen lo que cada tienda publica en España y en México. Amazon también aparece en búsquedas como esta, pero este artículo no la compara.",
           "Fuentes, consultadas el 12 y el 13 de octubre de 2026: las políticas de privacidad, de envío y de devolución del sitio de SHEIN en España; las páginas de envío y devolución de Temu para España; la política de devolución de AliExpress y la página de producto de un vestido, con la entrega configurada para España. El sitio de SHEIN en España lo opera Infinite Styles Services Co., Limited (“ISSL”)."
         ],
         "image": {
@@ -67590,15 +67590,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cuál elegir, según lo que vayas a comprar",
-        "bullets": [
-          "**Quieres poder devolver con margen:** compara el plazo de devolución, no solo el precio.",
-          "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido. En AliExpress, la página del producto muestra la fecha estimada y el pedido se reembolsa si no llega en 35 días en España o en 45 en México.",
-          "**El pedido viene del extranjero:** mira en el checkout el total con impuestos.",
-          "**Vas a pagar con tarjeta, con billetera digital o a plazos:** revisa las formas de pago en el checkout de cada tienda."
-        ]
-      },
-      {
         "heading": "Qué miden las valoraciones",
         "paragraphs": [
           "Las notas de los sitios de reclamaciones y de opiniones miden cómo atiende la tienda a quien reclama, no la calidad del producto, y la cantidad de quejas depende del tamaño de la tienda. En nuestro artículo sobre si SHEIN es confiable y seguro explicamos quién opera SHEIN y qué se sabe de su reputación."
@@ -67617,6 +67608,15 @@ export const reviewsData: unknown[] = [
           "El plazo de devolución y si el artículo es de los que tienen un plazo menor (en SHEIN España, por ejemplo, la lencería, la ropa interior y la bisutería).",
           "Quién lo vende: la propia tienda o un vendedor asociado.",
           "El plazo de entrega que figura en tu pedido."
+        ]
+      },
+      {
+        "heading": "Cuál elegir, según lo que vayas a comprar",
+        "bullets": [
+          "**Quieres poder devolver con margen:** compara el plazo de devolución, no solo el precio.",
+          "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido. En AliExpress, la página del producto muestra la fecha estimada y el pedido se reembolsa si no llega en 35 días en España o en 45 en México.",
+          "**El pedido viene del extranjero:** mira en el checkout el total con impuestos.",
+          "**Vas a pagar con tarjeta, con billetera digital o a plazos:** revisa las formas de pago en el checkout de cada tienda."
         ]
       },
       {
@@ -67719,13 +67719,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Il n'existe pas de boutique meilleure pour tout le monde. Le choix dépend de ce que vous achetez et de l'importance que vous accordez à la possibilité de retourner l'article. En France, Temu accorde 90 jours après l'achat et AliExpress 90 jours après la commande pour les vendeurs qui expédient de l'étranger ; chez SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après réception, avec 14 jours de rétractation prévus par la loi.",
-          "Cet article ne mesure pas les prix et ne teste pas les livraisons. Le tableau réunit ce que chaque boutique publie en France, consulté les 12 et 13 octobre 2026. Amazon apparaît aussi dans ce genre de recherches, mais cet article ne le compare pas."
+          "Il n'existe pas de boutique meilleure pour tout le monde : le choix dépend de ce que vous achetez et de l'importance du retour, et le délai le plus long en France est de 90 jours, chez Temu et AliExpress. Nous ne testons ni prix ni livraisons. Le chapitre « Que choisir, selon votre achat » plus bas montre quoi vérifier dans chaque cas."
         ]
       },
       {
         "heading": "SHEIN, Temu et AliExpress côte à côte en France",
         "paragraphs": [
+          "Il n'existe pas de boutique meilleure pour tout le monde : cela dépend de ce que vous achetez et de l'importance que vous accordez à la possibilité de retourner l'article. Cet article ne mesure pas les prix et ne teste pas les livraisons ; le tableau réunit ce que chaque boutique publie en France. Amazon apparaît aussi dans ce genre de recherches, mais cet article ne le compare pas.",
           "Sources, consultées les 12 et 13 octobre 2026 : les pages de confidentialité, de livraison et de retour du site de SHEIN en France ; les pages de livraison et de retour de Temu pour la France ; la politique de retour d'AliExpress et la page produit d'une robe, avec la livraison réglée sur la France. Le site de SHEIN en France est exploité par Infinite Styles Services Co., Limited (« ISSL »)."
         ],
         "image": {
@@ -67774,15 +67774,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Que choisir, selon votre achat",
-        "bullets": [
-          "**Vous voulez avoir de la marge pour retourner :** comparez le délai de retour, et pas seulement le prix.",
-          "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande. Chez AliExpress, la page du produit indique la date estimée, et la commande est remboursée si elle n'est pas livrée sous 35 jours.",
-          "**La commande vient de l'étranger :** regardez sur la page de paiement le total avec les taxes.",
-          "**Vous payez par carte, avec un portefeuille numérique ou en plusieurs fois :** consultez les moyens de paiement sur la page de paiement de chaque boutique."
-        ]
-      },
-      {
         "heading": "Ce que mesurent les avis",
         "paragraphs": [
           "Les notes des sites de réclamations et d'avis mesurent la façon dont la boutique traite les clients qui se plaignent, pas la qualité du produit, et le nombre de plaintes dépend de la taille de la boutique. Qui exploite SHEIN et ce que l'on sait de sa réputation figurent dans notre article sur la fiabilité de SHEIN."
@@ -67801,6 +67792,15 @@ export const reviewsData: unknown[] = [
           "Le délai de retour, et si l'article fait partie de ceux dont le délai est plus court (chez SHEIN France, par exemple, la lingerie, les sous-vêtements et les bijoux fantaisie).",
           "Qui vend : la boutique elle-même ou un vendeur partenaire.",
           "Le délai de livraison indiqué dans votre commande."
+        ]
+      },
+      {
+        "heading": "Que choisir, selon votre achat",
+        "bullets": [
+          "**Vous voulez avoir de la marge pour retourner :** comparez le délai de retour, et pas seulement le prix.",
+          "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande. Chez AliExpress, la page du produit indique la date estimée, et la commande est remboursée si elle n'est pas livrée sous 35 jours.",
+          "**La commande vient de l'étranger :** regardez sur la page de paiement le total avec les taxes.",
+          "**Vous payez par carte, avec un portefeuille numérique ou en plusieurs fois :** consultez les moyens de paiement sur la page de paiement de chaque boutique."
         ]
       },
       {
@@ -67904,13 +67904,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle der beste ist. Die Wahl hängt davon ab, was Sie kaufen und wie wichtig es Ihnen ist, Ware zurückschicken zu können. In Deutschland räumt Temu 90 Tage ab Kauf für die Rückgabe ein, AliExpress 90 Tage ab Bestellung bei Verkäufern, die aus dem Ausland liefern; bei SHEIN lassen sich die meisten Artikel bis zu 30 Tage nach Erhalt zurückgeben, dazu kommt das gesetzliche Widerrufsrecht von 14 Tagen.",
-          "Dieser Artikel vergleicht keine Preise und testet keine Lieferungen. Die Tabelle fasst zusammen, was jeder Shop für Deutschland veröffentlicht, abgerufen am 12. und 13.10.2026. Auch Zalando und Amazon tauchen bei der Suche nach Kleidung auf, sind hier aber nicht verglichen."
+          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt davon ab, was Sie kaufen und wie wichtig die Rückgabe ist, und in Deutschland beträgt die längste Rückgabefrist 90 Tage, bei Temu und AliExpress. Preise messen und Lieferungen testen wir nicht. Das Kapitel „Was zu welchem Einkauf passt“ weiter unten zeigt, was Sie im jeweiligen Fall prüfen sollten."
         ]
       },
       {
         "heading": "SHEIN, Temu und AliExpress im Vergleich für Deutschland",
         "paragraphs": [
+          "Es gibt keinen Shop, der für alle der beste ist: Es hängt davon ab, was Sie kaufen und wie wichtig es Ihnen ist, Ware zurückschicken zu können. Dieser Artikel vergleicht keine Preise und testet keine Lieferungen; die Tabelle fasst zusammen, was jeder Shop für Deutschland veröffentlicht. Auch Zalando und Amazon tauchen bei der Suche nach Kleidung auf, sind hier aber nicht verglichen.",
           "Quellen, abgerufen am 12. und 13.10.2026: Datenschutzerklärung sowie die Seiten zu Versand und Rückgabe der SHEIN-Website für Deutschland; die Seiten von Temu zu Versand und Rückgabe für Deutschland; die Rückgaberichtlinie von AliExpress und die Produktseite eines Kleides, mit Lieferung nach Deutschland eingestellt. Die SHEIN-Website für Deutschland wird von Infinite Styles Services Co., Limited („ISSL“) betrieben."
         ],
         "image": {
@@ -67959,15 +67959,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Was zu welchem Einkauf passt",
-        "bullets": [
-          "**Sie möchten viel Zeit zum Zurückschicken haben:** Vergleichen Sie die Rückgabefrist, nicht nur den Preis.",
-          "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung. Bei AliExpress zeigt die Produktseite das geschätzte Datum, und Sie bekommen den Betrag erstattet, wenn die Bestellung nicht innerhalb von 40 Tagen ankommt.",
-          "**Die Ware kommt aus dem Ausland:** Prüfen Sie an der Kasse den Gesamtbetrag mit Steuern.",
-          "**Sie zahlen mit Karte, per Wallet oder in Raten:** Die Zahlungsarten sehen Sie an der Kasse des jeweiligen Shops."
-        ]
-      },
-      {
         "heading": "Was Bewertungen messen",
         "paragraphs": [
           "Bewertungen auf Beschwerde- und Bewertungsportalen messen, wie ein Shop mit Menschen umgeht, die sich beschweren, und nicht die Qualität des Produkts; die Zahl der Beschwerden hängt von der Größe des Shops ab. Wer SHEIN betreibt und was über den Ruf bekannt ist, steht im Artikel zur Seriosität von SHEIN."
@@ -67986,6 +67977,15 @@ export const reviewsData: unknown[] = [
           "Die Rückgabefrist und ob der Artikel zu denen mit kürzerer Frist gehört.",
           "Wer verkauft: der Shop selbst oder ein Partnerverkäufer.",
           "Die Lieferzeit in der Bestellung."
+        ]
+      },
+      {
+        "heading": "Was zu welchem Einkauf passt",
+        "bullets": [
+          "**Sie möchten viel Zeit zum Zurückschicken haben:** Vergleichen Sie die Rückgabefrist, nicht nur den Preis.",
+          "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung. Bei AliExpress zeigt die Produktseite das geschätzte Datum, und Sie bekommen den Betrag erstattet, wenn die Bestellung nicht innerhalb von 40 Tagen ankommt.",
+          "**Die Ware kommt aus dem Ausland:** Prüfen Sie an der Kasse den Gesamtbetrag mit Steuern.",
+          "**Sie zahlen mit Karte, per Wallet oder in Raten:** Die Zahlungsarten sehen Sie an der Kasse des jeweiligen Shops."
         ]
       },
       {
@@ -68088,13 +68088,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti. La scelta dipende da cosa compri e da quanto conta poter restituire. In Italia Temu dà 90 giorni dall'acquisto per il reso e AliExpress 90 giorni dall'ordine, se il venditore spedisce dall'estero; su SHEIN la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento, con 14 giorni di recesso per legge.",
-          "Questo articolo non misura i prezzi e non testa le consegne. La tabella raccoglie ciò che ogni negozio pubblica in Italia, consultato il 12 e il 13/10/2026. Anche Amazon compare nelle ricerche, ma qui non è confrontato."
+          "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire, e in Italia il termine più lungo per il reso è di 90 giorni, da Temu e AliExpress. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
         ]
       },
       {
         "heading": "SHEIN, Temu e AliExpress a confronto in Italia",
         "paragraphs": [
+          "Non esiste un negozio migliore per tutti: dipende da cosa compri e da quanto conta poter restituire. Questo articolo non misura i prezzi e non testa le consegne; la tabella raccoglie ciò che ogni negozio pubblica in Italia. Anche Amazon compare nelle ricerche, ma qui non è confrontato.",
           "Fonti, consultate il 12 e il 13/10/2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia; pagine su spedizione e resi di Temu per l'Italia; politica di reso di AliExpress e pagina prodotto di un vestito, con la consegna impostata sull'Italia. Il sito SHEIN per l'Italia è gestito da Infinite Styles Services Co., Limited («ISSL»)."
         ],
         "image": {
@@ -68143,15 +68143,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quale scegliere, a seconda dell'acquisto",
-        "bullets": [
-          "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
-          "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine. Su AliExpress la pagina del prodotto mostra la data stimata e l'ordine viene rimborsato se non arriva entro 45 giorni.",
-          "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
-          "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
-        ]
-      },
-      {
         "heading": "Cosa misurano le valutazioni",
         "paragraphs": [
           "I punteggi dei siti di reclami e di recensioni misurano come il negozio risponde a chi si lamenta, non la qualità del prodotto; il numero di reclami dipende dalle dimensioni del negozio. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nell'articolo sull'affidabilità di SHEIN."
@@ -68170,6 +68161,15 @@ export const reviewsData: unknown[] = [
           "Il termine per il reso e se l'articolo è tra quelli con un termine più breve.",
           "Chi vende: il negozio stesso o un venditore partner.",
           "Il tempo di consegna indicato nell'ordine."
+        ]
+      },
+      {
+        "heading": "Quale scegliere, a seconda dell'acquisto",
+        "bullets": [
+          "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
+          "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine. Su AliExpress la pagina del prodotto mostra la data stimata e l'ordine viene rimborsato se non arriva entro 45 giorni.",
+          "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
+          "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
         ]
       },
       {
@@ -68273,13 +68273,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "모두에게 맞는 단 하나의 쇼핑몰은 없습니다. 무엇을 사는지, 그리고 반품할 수 있는 기간이 얼마나 중요한지에 따라 달라집니다. 한국에서 테무는 구매 후 90일 이내, SHEIN은 수령 후 60일 이내, 알리익스프레스는 단순 변심의 경우 배송 후 7일 이내(파손·결함·설명과 다른 상품은 3개월 이내) 반품을 안내합니다.",
-          "이 글은 가격을 비교하지 않고 배송도 테스트하지 않습니다. 표는 각 쇼핑몰이 한국에서 공개한 내용을 2026년 10월 12일과 13일에 확인해 정리했습니다."
+          "모두에게 맞는 단 하나의 쇼핑몰은 없습니다. 무엇을 사는지, 반품 기간이 얼마나 중요한지에 따라 달라지며, 한국에서 테무는 구매 후 90일 이내로 반품 기간을 가장 길게 안내합니다. 가격과 배송은 검증하지 않았습니다. 자세한 내용은 아래 '구매 목적에 따라 고르기' 장을 보세요."
         ]
       },
       {
         "heading": "한국에서 SHEIN, 테무, 알리 비교",
         "paragraphs": [
+          "모두에게 맞는 단 하나의 쇼핑몰은 없습니다. 무엇을 사는지, 그리고 반품할 수 있는 기간이 얼마나 중요한지에 따라 달라집니다. 이 글은 가격을 비교하지 않고 배송도 테스트하지 않으며, 표는 각 쇼핑몰이 한국에서 공개한 내용을 정리했습니다.",
           "출처: 한국 SHEIN 사이트의 개인정보 처리방침, 배송 안내, 반품 정책, 한국 기준 테무의 배송·반품 안내, 알리익스프레스의 반품 정책과 배송지를 한국으로 설정한 원피스 상품 페이지, 2026년 10월 12일·13일 확인. 한국 SHEIN 사이트는 Wonderflow Support Pte. Ltd.(싱가포르 회사)가 운영합니다."
         ],
         "image": {
@@ -68328,15 +68328,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "구매 목적에 따라 고르기",
-        "bullets": [
-          "**여유 있게 반품하고 싶다면:** 가격만 보지 말고 반품 기한을 비교하세요.",
-          "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요. 알리익스프레스는 상품 페이지에 예상 도착일을 보여 주고, 30일 안에 배송되지 않으면 주문 금액을 환불합니다.",
-          "**해외에서 오는 상품이라면:** 결제 화면에서 세금이 포함된 총 금액을 확인하세요.",
-          "**카드, 간편결제, 할부로 결제할 예정이라면:** 각 쇼핑몰의 결제 화면에서 결제 수단을 확인하세요."
-        ]
-      },
-      {
         "heading": "평점이 보여 주는 것",
         "paragraphs": [
           "불만·평가 사이트의 점수는 쇼핑몰이 불만을 제기한 고객을 어떻게 응대하는지를 보여 줄 뿐 상품의 품질을 측정하지 않으며, 불만 건수는 쇼핑몰의 규모에 따라 달라집니다. SHEIN을 누가 운영하고 평판이 어떤지는 SHEIN 신뢰도 글에 정리해 두었습니다."
@@ -68355,6 +68346,15 @@ export const reviewsData: unknown[] = [
           "반품 기한, 그리고 반품 기한이 더 짧은 상품인지.",
           "판매자가 누구인지: 쇼핑몰 직접 판매인지, 입점 판매자인지.",
           "주문 내역에 표시된 배송 기간."
+        ]
+      },
+      {
+        "heading": "구매 목적에 따라 고르기",
+        "bullets": [
+          "**여유 있게 반품하고 싶다면:** 가격만 보지 말고 반품 기한을 비교하세요.",
+          "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요. 알리익스프레스는 상품 페이지에 예상 도착일을 보여 주고, 30일 안에 배송되지 않으면 주문 금액을 환불합니다.",
+          "**해외에서 오는 상품이라면:** 결제 화면에서 세금이 포함된 총 금액을 확인하세요.",
+          "**카드, 간편결제, 할부로 결제할 예정이라면:** 각 쇼핑몰의 결제 화면에서 결제 수단을 확인하세요."
         ]
       },
       {
@@ -68456,13 +68456,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人にとってベストなお店はありません。何を買うか、そして返品できることをどれだけ大事にするかで、選ぶお店は変わります。日本では、Temu は購入から90日以内、AliExpress は海外から発送する出品者なら注文から90日以内、SHEIN は購入から40日以内の返品を公表しています。",
-          "この記事は、価格を比べたり、配送を試したりしていません。表は、各お店が日本向けに公表している内容を、2026年10月12日・13日に確認してまとめたものです。検索では Amazon と比べる人もいますが、この記事では Amazon は取り上げません。"
+          "すべての人にとってベストなお店はありません。何を買うか、返品できることをどれだけ大事にするかで変わり、日本では Temu が購入から90日以内と返品期限を長く設けています。価格や配送は検証していません。詳しくは下の「買うものに合わせた選び方」をご覧ください。"
         ]
       },
       {
         "heading": "日本の SHEIN・Temu・AliExpress を比べる",
         "paragraphs": [
+          "すべての人にとってベストなお店はありません。何を買うか、そして返品できることをどれだけ大事にするかで、選ぶお店は変わります。この記事は価格を比べたり配送を試したりしていません。表は、各お店が日本向けに公表している内容をまとめたものです。検索では Amazon と比べる人もいますが、この記事では Amazon は取り上げません。",
           "出典は、SHEIN 日本サイトのプライバシーポリシー、配送ページ、返品ポリシー、Temu の日本向けの配送ページと返品ページ、AliExpress の返品ポリシーと、お届け先を日本にしたワンピースの商品ページです（2026年10月12日・13日に確認）。SHEIN 日本サイトの運営会社は Fashion Choice Pte. Ltd.（シンガポール）です。"
         ],
         "image": {
@@ -68513,15 +68513,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "買うものに合わせた選び方",
-        "bullets": [
-          "**返品に余裕がほしい：** 価格だけでなく、返品できる期間も比べましょう。",
-          "**いつまでに届いてほしい：** 商品ページや注文ページで、お届けの目安を確認しましょう。AliExpress は商品ページに到着予定日が表示され、30日以内に届かなければ注文代金が返金されます。",
-          "**海外から届く商品を買う：** 支払い画面（チェックアウト）で、税金を含めた合計金額を確認しましょう。",
-          "**クレジットカードや電子決済、分割払いで払う：** お店ごとの支払い画面で、使える支払い方法を確認しましょう。"
-        ]
-      },
-      {
         "heading": "口コミサイトの点数が示すもの",
         "paragraphs": [
           "クレームやレビューのサイトの点数が測っているのは、不満を持った人へのお店の対応です。商品の品質ではありません。クレームの件数も、お店の大きさによって変わります。SHEIN を運営している会社と、評判について分かっていることは、SHEIN の信頼性についての記事にまとめています。"
@@ -68540,6 +68531,15 @@ export const reviewsData: unknown[] = [
           "返品できる期間と、返品期間が短い商品かどうか。",
           "誰が売っているか：お店自身か、パートナーの販売者か。",
           "注文ページに表示されたお届けの目安。"
+        ]
+      },
+      {
+        "heading": "買うものに合わせた選び方",
+        "bullets": [
+          "**返品に余裕がほしい：** 価格だけでなく、返品できる期間も比べましょう。",
+          "**いつまでに届いてほしい：** 商品ページや注文ページで、お届けの目安を確認しましょう。AliExpress は商品ページに到着予定日が表示され、30日以内に届かなければ注文代金が返金されます。",
+          "**海外から届く商品を買う：** 支払い画面（チェックアウト）で、税金を含めた合計金額を確認しましょう。",
+          "**クレジットカードや電子決済、分割払いで払う：** お店ごとの支払い画面で、使える支払い方法を確認しましょう。"
         ]
       },
       {
@@ -68643,13 +68643,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。在台灣，SHEIN 公布的退貨期限是收到商品後 15 天內；蝦皮要求所有賣家依消保法提供七天鑑賞期；AliExpress 是送達後 15 天內。",
-          "這篇文章不比較價格，也沒有測試配送。表格整理了各平台在台灣公布的規則，2026 年 10 月 12 日和 13 日查閱。"
+          "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要，台灣各平台公布的退貨期限不同。我們不比較價格，也沒有測試配送。詳情見下文「依購物需求怎麼選」。"
         ]
       },
       {
         "heading": "台灣的 SHEIN、蝦皮和 AliExpress 對比",
         "paragraphs": [
+          "沒有一家平台適合所有人：怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。這篇文章不比較價格，也沒有測試配送；表格整理了各平台在台灣公布的規則。",
           "出處（2026 年 10 月 12 日和 13 日查閱）：SHEIN 台灣站（shein.tw）的隱私權政策、運送與退貨頁面；蝦皮幫助中心（help.shopee.tw）的退貨退款說明文章；AliExpress 的退貨政策，以及一件洋裝的商品頁面（配送地設為台灣）。SHEIN 台灣站由 Fashion Choice Pte. Ltd.（新加坡）營運。"
         ],
         "image": {
@@ -68700,15 +68700,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "依購物需求怎麼選",
-        "bullets": [
-          "**想要有充裕的退貨時間：** 比較退貨期限，不要只比價格。",
-          "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
-          "**買從海外寄來的商品：** 在結帳頁面確認含稅的總金額。",
-          "**用信用卡、電子錢包或分期付款：** 到各平台的結帳頁面查看可用的付款方式。"
-        ]
-      },
-      {
         "heading": "評價分數衡量的是什麼",
         "paragraphs": [
           "投訴與評價網站的分數衡量的是平台如何處理客訴，而不是商品品質，而且投訴數量也會隨平台規模而不同。關於 SHEIN 由誰營運、聲譽有哪些已知情況，我們寫在談 SHEIN 可靠性的文章裡。"
@@ -68727,6 +68718,15 @@ export const reviewsData: unknown[] = [
           "退貨期限，以及這件商品是不是退貨期限較短的品項。",
           "誰在賣：平台自己，還是合作賣家。",
           "訂單頁面上的送達時間。"
+        ]
+      },
+      {
+        "heading": "依購物需求怎麼選",
+        "bullets": [
+          "**想要有充裕的退貨時間：** 比較退貨期限，不要只比價格。",
+          "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
+          "**買從海外寄來的商品：** 在結帳頁面確認含稅的總金額。",
+          "**用信用卡、電子錢包或分期付款：** 到各平台的結帳頁面查看可用的付款方式。"
         ]
       },
       {
@@ -68824,13 +68824,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有一家平台适合所有人。怎么选，取决于你要买什么，以及能不能退货对你有多重要。在新加坡，Temu 公布购买后 90 天内可退货，SHEIN 大多数商品是收到后 15 天内，AliExpress 是送达后 15 天内；在马来西亚，Temu 是购买后 90 天内，SHEIN 是收到后 20 天内，AliExpress 是送达后 15 天内。",
-          "这篇文章不比较价格，也没有测试配送。表格整理了各平台在新加坡和马来西亚公布的规则，2026 年 10 月 12 日和 13 日查阅。"
+          "没有一家平台适合所有人。怎么选，取决于你要买什么，以及能不能退货对你有多重要，各平台公布的退货期限不同，Temu 最长，购买后 90 天内。我们不比较价格，也没有测试配送。详情见下文「按购物需求怎么选」。"
         ]
       },
       {
         "heading": "新加坡：SHEIN、Temu 和 AliExpress 对比",
         "paragraphs": [
+          "没有一家平台适合所有人：怎么选，取决于你要买什么，以及能不能退货对你有多重要。这篇文章不比较价格，也没有测试配送；表格整理了各平台在新加坡和马来西亚公布的规则。",
           "出处（2026 年 10 月 12 日和 13 日查阅）：SHEIN 新加坡站的配送与退货页面；Temu 针对新加坡的配送与退货页面；AliExpress 的退货政策，以及一件连衣裙的商品页面（配送地设为新加坡）。SHEIN 新加坡站（sg.shein.com）由 Fashion Choice Pte. Ltd. 运营。"
         ],
         "image": {
@@ -68915,15 +68915,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "按购物需求怎么选",
-        "bullets": [
-          "**想要有充裕的退货时间：** 比较退货期限，不要只比价格。",
-          "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
-          "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
-          "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
-        ]
-      },
-      {
         "heading": "评分衡量的是什么",
         "paragraphs": [
           "投诉与评价网站的评分衡量的是平台如何处理消费者的投诉，而不是商品质量，而且投诉数量也会随平台规模而不同。关于 SHEIN 由谁运营、声誉有哪些已知情况，我们写在谈 SHEIN 可靠性的文章里。"
@@ -68942,6 +68933,15 @@ export const reviewsData: unknown[] = [
           "退货期限，以及这件商品是不是退货期限较短的品类。",
           "谁在卖：平台自己，还是合作卖家。",
           "订单页面上的送达时间。"
+        ]
+      },
+      {
+        "heading": "按购物需求怎么选",
+        "bullets": [
+          "**想要有充裕的退货时间：** 比较退货期限，不要只比价格。",
+          "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
+          "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
+          "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
         ]
       },
       {
@@ -69294,23 +69294,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "This version covers the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand; the other language versions of this guide cover other countries."
-        ],
-        "bullets": [
-          "**United States:** Standard takes 7 to 11 business days and is free from US$ 35 (US$ 6 below that). Express takes 3 to 5 business days and is free from US$ 200. Sales tax and Import Fees are added at checkout.",
-          "**United Kingdom:** Premium Standard takes 5 to 12 business days and is free from US$ 50 (US$ 5 below that). Express takes 3 to 5 business days and is free from US$ 100. The 20% VAT is already in the price.",
-          "**Canada:** Premium Standard takes 7 to 14 business days and is free from US$ 50 (US$ 6 below that). Only Saskatchewan has tax added at checkout, a 6% PST. The store's page does not mention the federal GST.",
-          "**Australia:** Premium Standard takes 6 to 8 business days and is free from US$ 35 (US$ 5.50 below that). Express takes 3 to 5 business days and is free from US$ 100. The 10% GST is already in the price.",
-          "**Ireland:** Standard takes 12 to 18 business days and is free from US$ 45 (US$ 5 below that). The 23% VAT is already in the price.",
-          "**New Zealand:** Premium Standard takes 7 to 14 business days and is free from US$ 35 (US$ 5 below that). Express takes 3 to 5 business days and is free from US$ 100. The 15% GST is already in the price."
-        ],
-        "postParagraphs": [
-          "The figures come from YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT) and read the same day, and from its tax pages for each region, read on October 12, 2026. Amounts are in US dollars, as the store publishes them."
+          "YesStyle publishes a delivery time and shipping cost for the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand. Standard takes 5 to 18 business days depending on the country, and shipping is free from US$ 35 to US$ 50. What differs by country is the tax; see \"Tax: what is already in the price and what is added at checkout\" below."
         ]
       },
       {
         "heading": "Delivery time and shipping cost in the US, UK, Canada, Australia, Ireland and New Zealand",
         "paragraphs": [
+          "This version covers the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand; the other language versions of this guide cover other countries. The figures come from YesStyle's shipping table, in force since October 13, 2026 (07:15 GMT) and read the same day, and from its tax pages for each region, read on October 12, 2026. Amounts are in US dollars, as the store publishes them.",
           "The time for the item to leave the warehouse, explained below, comes on top of the shipping time."
         ],
         "comparisonTable": {
@@ -69597,23 +69587,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Esta versión cubre España, México, Chile, Perú, Argentina y Colombia; las otras versiones de idioma de esta guía cubren otros países."
-        ],
-        "bullets": [
-          "**España:** envío Standard en 10 a 15 días hábiles, gratis desde US$ 45 (US$ 5 por debajo del mínimo). El IVA del 21% ya está en el precio.",
-          "**México:** envío Standard en 10 a 13 días hábiles, gratis desde US$ 45 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de México; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
-          "**Chile:** envío Standard en 15 a 20 días hábiles, gratis desde US$ 60 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de Chile; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
-          "**Perú:** envío Standard en 15 a 22 días hábiles, gratis desde US$ 60 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de Perú; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
-          "**Argentina:** envío Standard en 15 a 27 días hábiles, gratis desde US$ 60 (US$ 8 por debajo del mínimo). YesStyle no publica los impuestos de Argentina; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
-          "**Colombia:** envío Standard en 15 a 22 días hábiles, gratis desde US$ 45 (US$ 5 por debajo del mínimo). El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto. YesStyle no publica los impuestos de Colombia; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo)."
-        ],
-        "postParagraphs": [
-          "Las cifras salen de la tabla de envío de YesStyle vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día, y de sus páginas de impuestos por región, leídas el 12 de octubre de 2026. Los valores están en dólares estadounidenses, como los publica la tienda."
+          "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles, gratis desde US$ 45 o US$ 60 según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Los detalles están en \"Si te cobran impuestos al recibir el paquete\"."
         ]
       },
       {
         "heading": "Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia",
         "paragraphs": [
+          "Esta versión cubre España, México, Chile, Perú, Argentina y Colombia; las otras versiones de idioma de esta guía cubren otros países. Las cifras salen de la tabla de envío de YesStyle vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día, y de sus páginas de impuestos por región, leídas el 12 de octubre de 2026. Los valores están en dólares estadounidenses, como los publica la tienda. El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto.",
           "Al plazo del envío se suma el tiempo que tarda el producto en salir del almacén, que se explica más abajo."
         ],
         "comparisonTable": {
@@ -69872,20 +69852,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Cette version couvre la France, la Belgique et le Canada ; les autres versions linguistiques de ce guide couvrent d'autres pays."
-        ],
-        "bullets": [
-          "**France :** livraison Standard en 10 à 15 jours ouvrés, gratuite dès US$ 45 et facturée US$ 5 en dessous. La TVA de 20 % est déjà comprise dans le prix.",
-          "**Belgique :** livraison Standard en 10 à 15 jours ouvrés, gratuite dès US$ 45 et facturée US$ 5 en dessous. La TVA de 21 % est déjà comprise dans le prix.",
-          "**Canada :** livraison Premium Standard en 7 à 14 jours ouvrés, gratuite dès US$ 50 et facturée US$ 6 en dessous. Seule la Saskatchewan a une taxe ajoutée au paiement, la PST de 6 % ; la page de YesStyle ne parle pas de la TPS fédérale."
-        ],
-        "postParagraphs": [
-          "Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT) et lue le même jour, et de ses pages de taxes par région, lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie."
+          "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison est gratuite dès US$ 45 (US$ 50 au Canada), et la TVA est déjà dans le prix en France et en Belgique. Voir « Taxes : ce qui est déjà dans le prix et ce qui arrive après »."
         ]
       },
       {
         "heading": "Délais et frais de livraison en France, en Belgique et au Canada",
         "paragraphs": [
+          "Cette version couvre la France, la Belgique et le Canada ; les autres versions linguistiques de ce guide couvrent d'autres pays. Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 13 octobre 2026 (07 h 15 GMT) et lue le même jour, et de ses pages de taxes par région, lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie.",
           "Au délai d'expédition s'ajoute le temps nécessaire pour que l'article quitte l'entrepôt, expliqué plus bas."
         ],
         "comparisonTable": {
@@ -70127,20 +70100,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Dieser Ratgeber gilt für Deutschland, Österreich und die Schweiz. Die anderen Sprachversionen dieses Ratgebers behandeln andere Länder."
-        ],
-        "bullets": [
-          "**Deutschland:** Standardversand in 10 bis 15 Werktagen, Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), MwSt. von 19% schon im Preis.",
-          "**Österreich:** Standardversand in 10 bis 15 Werktagen, auch mit Abholung an einer Abholstelle (Standard Self-Pickup), Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), USt. von 20% schon im Preis.",
-          "**Schweiz:** Standardversand in 10 bis 15 Werktagen, Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), MWST von 8,1% schon im Preis."
-        ],
-        "postParagraphs": [
-          "Die Zahlen stammen aus der Versandtabelle von YesStyle, die seit dem 13. Oktober 2026 (07:15 GMT) gilt und am selben Tag abgerufen wurde, und aus den Steuerseiten des Shops (Stand: 12.10.2026). Die Beträge stehen in US-Dollar, wie der Shop sie veröffentlicht."
+          "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab US$ 45 ist der Versand kostenlos, darunter kostet er US$ 5, und die Mehrwertsteuer steckt schon im Preis. Was danach noch auf das Paket zukommen kann, steht unter „Wenn auf das Paket Abgaben erhoben werden“."
         ]
       },
       {
         "heading": "Lieferzeit und Versandkosten in Deutschland, Österreich und der Schweiz",
         "paragraphs": [
+          "Dieser Ratgeber gilt für Deutschland, Österreich und die Schweiz. Die anderen Sprachversionen dieses Ratgebers behandeln andere Länder. Die Zahlen stammen aus der Versandtabelle von YesStyle, die seit dem 13. Oktober 2026 (07:15 GMT) gilt und am selben Tag abgerufen wurde, und aus den Steuerseiten des Shops (Stand: 12.10.2026). Die Beträge stehen in US-Dollar, wie der Shop sie veröffentlicht.",
           "Zur Versanddauer kommt die Zeit hinzu, bis der Artikel das Lager verlässt. Mehr dazu weiter unten."
         ],
         "comparisonTable": {
@@ -70388,18 +70354,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Questa versione copre l'Italia. Le altre versioni linguistiche di questa guida coprono altri paesi."
-        ],
-        "bullets": [
-          "**Italia:** spedizione Standard da 10 a 15 giorni lavorativi, gratuita da US$ 45 (sotto questa soglia costa US$ 5) e IVA del 22% già nel prezzo."
-        ],
-        "postParagraphs": [
-          "I numeri vengono dalla tabella di spedizione di YesStyle in vigore dal 13 ottobre 2026 (07:15 GMT), consultata lo stesso giorno, e dalle pagine delle imposte del negozio, consultate il 12/10/2026. Gli importi sono in dollari, come li pubblica il negozio."
+          "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita da US$ 45 (sotto la soglia costa US$ 5), e l'IVA del 22% è già nel prezzo. Cosa può arrivare dopo alla consegna lo trovi in «Se alla consegna ci sono addebiti»."
         ]
       },
       {
         "heading": "Tempi e spese di spedizione in Italia",
         "paragraphs": [
+          "Questa versione copre l'Italia. Le altre versioni linguistiche di questa guida coprono altri paesi. I numeri vengono dalla tabella di spedizione di YesStyle in vigore dal 13 ottobre 2026 (07:15 GMT), consultata lo stesso giorno, e dalle pagine delle imposte del negozio, consultate il 12/10/2026. Gli importi sono in dollari, come li pubblica il negozio.",
           "Ai tempi della spedizione si aggiunge il tempo che l'articolo impiega a uscire dal magazzino, spiegato più sotto."
         ],
         "comparisonTable": {
@@ -70627,18 +70588,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "이 글은 한국 배송만 다룹니다. 이 가이드의 다른 언어 버전은 다른 나라를 다룹니다."
-        ],
-        "bullets": [
-          "**한국:** Express 배송으로 영업일 3~5일이 걸립니다. US$ 50 이상이면 배송비가 무료이고, 그 미만은 US$ 7입니다. YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다."
-        ],
-        "postParagraphs": [
-          "수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표를 같은 날 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다."
+          "YesStyle은 한국으로 Express 배송을 영업일 3~5일에 보내며, US$ 50 이상이면 배송비가 무료입니다. 한국용 세금 안내는 없고, 세관이 세금이나 관세를 부과하면 환급 정책이 적용됩니다. 자세한 내용은 '세관에서 부과금이 붙으면' 항목을 보세요."
         ]
       },
       {
         "heading": "한국 배송 기간과 배송비",
         "paragraphs": [
+          "이 글은 한국 배송만 다룹니다. 이 가이드의 다른 언어 버전은 다른 나라를 다룹니다. 수치는 2026년 10월 13일(07:15 GMT)부터 적용된 YesStyle 배송표를 같은 날 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다.",
           "표의 배송 기간에 상품이 창고에서 출고되기까지의 시간이 더해집니다. 아래에서 설명합니다."
         ],
         "comparisonTable": {
@@ -70866,18 +70822,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "このページは、日本向けの内容です。ほかの言語版のガイドでは、別の国や地域を取り上げています。"
-        ],
-        "bullets": [
-          "**日本：** Express便で4〜5営業日、US$50以上で送料無料です（それ未満はUS$5）。YesStyleは日本の税金について公表していません。到着時に関税などを請求された場合は、US$1,000未満の注文なら返金の対象です（「荷物に関税がかかったとき」を参照）。"
-        ],
-        "postParagraphs": [
-          "日本の数字は、2026年10月13日（07:15 GMT）から有効なYesStyleの送料表によるものです（同日に確認）。金額は、ストアの表示どおり米ドルです。"
+          "YesStyleは日本向けに、Express便で4〜5営業日、US$50以上で送料無料と公表しています。日本の税金については公表がなく、到着時に関税などを請求された場合は返金の対象です。条件は「荷物に関税がかかったとき」を参照してください。"
         ]
       },
       {
         "heading": "日本向けの配送日数と送料",
         "paragraphs": [
+          "このページは、日本向けの内容です。ほかの言語版のガイドでは、別の国や地域を取り上げています。 日本の数字は、2026年10月13日（07:15 GMT）から有効なYesStyleの送料表によるものです（同日に確認）。金額は、ストアの表示どおり米ドルです。",
           "表の日数は配送だけの日数で、商品が倉庫から出るまでの時間は別にかかります。詳しくは次の項目で説明します。"
         ],
         "comparisonTable": {
@@ -71105,21 +71056,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "本篇指南涵蓋台灣、香港與澳門三個市場；其他語言版本涵蓋其他市場。"
-        ],
-        "bullets": [
-          "**台灣：** Express，3 至 6 個工作天，滿 US$50 免運費，未滿收 US$3。",
-          "**香港：** 順豐速運（SF Express），1 至 3 個工作天，可到順豐站、服務中心或 EF Locker 智能櫃自取。包裹直接從 YesStyle 位於香港的倉庫寄出。滿 US$35 免運費，未滿收 US$4。",
-          "**澳門：** Express，1 至 3 個工作天，滿 US$35 免運費，未滿收 US$4.99。"
-        ],
-        "postParagraphs": [
-          "三個市場的稅費，YesStyle 都沒有公布；若送達時被收費，可申請退款，條件見「包裹被課稅時」一節。",
-          "以上數字取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的運費表，於同日查閱。金額以美元計，與商店公布的相同。"
+          "YesStyle 提供台灣、香港與澳門的運送：台灣 3 至 6 個工作天，香港與澳門 1 至 3 個工作天，滿 US$50 或 US$35 免運費。三個市場的稅費 YesStyle 都沒有公布，若送達時被收費，條件見「包裹被課稅時」一節。"
         ]
       },
       {
         "heading": "台灣、香港與澳門的運送時間與運費",
         "paragraphs": [
+          "本篇指南涵蓋台灣、香港與澳門三個市場；其他語言版本涵蓋其他市場。 三個市場的稅費，YesStyle 都沒有公布；若送達時被收費，可申請退款，條件見「包裹被課稅時」一節。 以上數字取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的運費表，於同日查閱。金額以美元計，與商店公布的相同。",
           "運送天數之外，還要加上商品從倉庫寄出前所需的時間，下面會說明。"
         ],
         "comparisonTable": {
@@ -71359,19 +71302,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "这个版本涵盖新加坡与马来西亚；本指南的其他语言版本则涵盖其他国家和地区。"
-        ],
-        "bullets": [
-          "**新加坡：** Express，3 至 5 个工作日，满 US$50 免运费，未满收 US$4。S$400 以内的商品，9% 的 GST 已含在价格里。",
-          "**马来西亚：** Standard，10 至 16 个工作日，满 US$35 免运费，未满收 US$4。10% 的销售税不含在价格里，结账时另外加收，适用于经空运或邮寄、价值不超过 RM500 的商品。运费不征此税。"
-        ],
-        "postParagraphs": [
-          "运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，查阅日期为同日；税费取自 YesStyle 各地区的税费页面，查阅日期为 2026年10月12日。运费与免运费门槛以美元计，与商店公布的相同。"
+          "YesStyle 向新加坡与马来西亚公布了运送时间与运费：新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日，满 US$50 或 US$35 免运费。新加坡的 GST 已含在价格里，马来西亚的销售税则在结账时另加，详见“税费：哪些已含在价格内，哪些在结账时另加”。"
         ]
       },
       {
         "heading": "新加坡与马来西亚的运送时间与运费",
         "paragraphs": [
+          "这个版本涵盖新加坡与马来西亚；本指南的其他语言版本则涵盖其他国家和地区。 运送时间与运费取自 YesStyle 自 2026年10月13日（07:15 GMT）起生效的运费表，查阅日期为同日；税费取自 YesStyle 各地区的税费页面，查阅日期为 2026年10月12日。运费与免运费门槛以美元计，与商店公布的相同。",
           "运送时间之外，还要加上商品从仓库寄出前所需的时间，下一节会说明。"
         ],
         "comparisonTable": {
@@ -71986,12 +71923,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is the best pick for everyone: the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia. In the US, Olive Young Global does not: customers there shop at a separate store, OLIVE YOUNG US. Free shipping starts at a different amount in each store and country.",
-          "This article does not compare prices or test the competing stores. The tables bring together what each store publishes on its official pages, read on October 12, 2026."
+          "No store is the best pick for everyone: the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia, while in the US Olive Young Global does not. The tables show the details; \"Which store to choose\" gives the pick by country."
         ]
       },
       {
         "heading": "Who ships to the US, UK, Canada and Australia",
+        "paragraphs": [
+          "This article does not compare prices or test the competing stores: the tables bring together what each store publishes on its official pages, read on October 12, 2026. No store is the best pick for everyone, because the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia. In the US, Olive Young Global does not: customers there shop at a separate store, OLIVE YOUNG US. Free shipping starts at a different amount in each store and country."
+        ],
         "comparisonTable": {
           "caption": "Delivery time and free-shipping minimum of YesStyle, Stylevana, Olive Young Global, StyleKorean and Jolse in the US, UK, Canada and Australia, from the official pages read on October 12, 2026; Olive Young Global destinations, read on October 21, 2026.",
           "headers": [
@@ -72223,6 +72162,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Which store to choose",
+        "bullets": [
+          "In the US: YesStyle ships Standard in 7 to 11 business days, free from US$ 35, and Stylevana ships Premium Express in 4 to 9 business days, also free from US$ 35. Olive Young Global does not ship there; US customers shop at OLIVE YOUNG US, free from US$ 35.",
+          "In the UK, Canada and Australia: all five stores ship, and free shipping starts at a different amount in each, so check the tables above for your country.",
+          "In any country: check each store's official page for shipping, who pays the tax and what it takes back before you order."
+        ]
+      },
+      {
         "heading": "Frequently asked questions",
         "bullets": [
           "Which is better, YesStyle or Stylevana? It depends on the country. In the US, both give free shipping from US$ 35: Stylevana's Premium Express takes 4–9 business days and YesStyle's Standard 7–11. In the UK, Stylevana lists 5–10 business days and free shipping from £ 39; YesStyle lists 5–12 business days and free shipping from US$ 50. Canada and Australia are in the first table.",
@@ -72303,12 +72250,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No hay una tienda mejor para todo el mundo: la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía. En Argentina, Stylevana no aparece en la lista de destinos (9 de octubre de 2026). En la tabla de envío gratis de StyleKorean no figuran México ni los cuatro países sudamericanos de este artículo.",
-          "Este artículo no compara precios ni prueba las demás tiendas. Las tablas reúnen lo que cada tienda publica en sus páginas oficiales, leídas el 12 de octubre de 2026."
+          "No hay una tienda mejor para todo el mundo: la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía, y en Argentina Stylevana no aparece entre los destinos. Las tablas muestran el detalle; «Qué elegir» da la elección por país."
         ]
       },
       {
         "heading": "Quién envía a España y México",
+        "paragraphs": [
+          "Este artículo no compara precios ni prueba las demás tiendas: las tablas reúnen lo que cada tienda publica en sus páginas oficiales, leídas el 12 de octubre de 2026. No hay una tienda mejor para todo el mundo, porque la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía. En Argentina, Stylevana no aparece en la lista de destinos (9 de octubre de 2026). En la tabla de envío gratis de StyleKorean no figuran México ni los cuatro países sudamericanos de este artículo."
+        ],
         "comparisonTable": {
           "caption": "Plazo y envío gratis de YesStyle, Stylevana, Olive Young Global, StyleKorean y Jolse en España y México, según las páginas oficiales leídas el 12 de octubre de 2026.",
           "headers": [
@@ -72577,6 +72526,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qué elegir",
+        "bullets": [
+          "Si vives en España: YesStyle y Stylevana envían y publican plazo (10–15 y 8–14 días hábiles), con envío gratis desde US$ 45 y 47 €. Olive Young Global no envía.",
+          "Si vives en México: YesStyle, Stylevana y Olive Young Global envían, con envío gratis desde US$ 45, MXN 850 y US$ 60. StyleKorean no figura en su tabla de envío gratis.",
+          "Si vives en Chile, Perú, Argentina o Colombia: YesStyle publica plazo para los cuatro. Stylevana deja fuera a Argentina, Olive Young Global no envía a Perú ni a Argentina y StyleKorean no figura en su tabla de envío gratis.",
+          "En cualquier país: antes de cerrar el pedido, confirma en la página oficial de cada tienda el envío, quién paga el impuesto y lo que acepta de vuelta."
+        ]
+      },
+      {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuál es mejor, YesStyle o Stylevana? Depende del país. En España, Stylevana indica 8–14 días hábiles y envío gratis desde 47 €; YesStyle, 10–15 días hábiles y desde US$ 45. En México, Stylevana indica 15–20 días hábiles y desde MXN 850; YesStyle, 10–13 días hábiles y desde US$ 45. Los demás países están en las tablas.",
@@ -72657,12 +72615,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Il n'y a pas de meilleure boutique pour tout le monde : le choix change selon le pays, selon qui paie les taxes et selon ce que la boutique reprend. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Stylevana dessert la France et la Belgique par le même site, et le Canada par un site uniquement en anglais.",
-          "Cet article ne compare pas les prix et ne teste pas les boutiques concurrentes. Les tableaux rassemblent ce que chaque boutique publie sur ses pages officielles, lues le 12 octobre 2026."
+          "Il n'y a pas de meilleure boutique pour tout le monde : le choix change selon le pays, selon qui paie les taxes et selon ce que la boutique reprend. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Les tableaux détaillent tout ; « Quelle boutique choisir » donne le choix par pays."
         ]
       },
       {
         "heading": "Qui livre en France, en Belgique et au Canada",
+        "paragraphs": [
+          "Cet article ne compare pas les prix et ne teste pas les boutiques concurrentes : les tableaux rassemblent ce que chaque boutique publie sur ses pages officielles, lues le 12 octobre 2026. Il n'y a pas de meilleure boutique pour tout le monde. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Stylevana dessert la France et la Belgique par le même site, et le Canada par un site uniquement en anglais."
+        ],
         "comparisonTable": {
           "caption": "Délai et livraison gratuite de YesStyle, Stylevana, Olive Young Global, StyleKorean et Jolse en France, en Belgique et au Canada, d'après les pages officielles lues le 12 octobre 2026 ; destinations d'Olive Young Global lues le 21 octobre 2026.",
           "headers": [
@@ -72889,6 +72849,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Quelle boutique choisir",
+        "bullets": [
+          "Si vous habitez en France : YesStyle (10 à 15 jours ouvrés, livraison gratuite dès US$ 45), Stylevana (5 à 10 jours ouvrés, dès 48 €) et Olive Young Global (4 à 5 jours, dès US$ 60) publient un délai ; StyleKorean offre la livraison dès US$ 80.",
+          "Si vous habitez en Belgique : YesStyle (dès US$ 45) et Stylevana (dès 48 €) publient un délai ; Olive Young Global est dans le sélecteur de destination mais sans délai publié, livraison gratuite dès US$ 60.",
+          "Si vous habitez au Canada : Stylevana passe par un site uniquement en anglais ; YesStyle (Premium Standard, 7 à 14 jours ouvrés, dès US$ 50) et Olive Young Global (5 à 7 jours, dès US$ 60) publient leurs délais.",
+          "Dans tous les cas : avant de commander, vérifiez sur la page officielle de chaque boutique la livraison, qui paie les taxes et ce qu'elle reprend."
+        ]
+      },
+      {
         "heading": "Questions fréquentes",
         "bullets": [
           "Laquelle est la meilleure, YesStyle ou Stylevana ? Cela dépend du pays. En France, Stylevana indique 5 à 10 jours ouvrés et la livraison gratuite dès 48 € ; YesStyle, 10 à 15 jours ouvrés et dès US$ 45. Au Canada, Stylevana indique 6 à 12 jours ouvrés et dès CA$ 68 ; YesStyle, 7 à 14 jours ouvrés et dès US$ 50.",
@@ -72969,12 +72938,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht in der Versandtabelle nur Deutschland mit einer Lieferzeit; Österreich und die Schweiz stehen in der Länderauswahl der Website, ohne Lieferzeit. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand.",
-          "Dieser Artikel vergleicht keine Preise und testet die anderen Shops nicht. Die Tabellen fassen zusammen, was jeder Shop auf seinen offiziellen Seiten veröffentlicht. Stand der Seiten: 12.10.2026."
+          "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Stylevana nennt in Deutschland, Österreich und der Schweiz jeweils einen anderen Mindestbestellwert für kostenlosen Versand. Die Tabellen zeigen die Details; „Welchen Shop wählen“ fasst die Wahl nach Land zusammen."
         ]
       },
       {
         "heading": "Wer nach Deutschland, Österreich und in die Schweiz liefert",
+        "paragraphs": [
+          "Dieser Artikel vergleicht keine Preise und testet die anderen Shops nicht: Die Tabellen fassen zusammen, was jeder Shop auf seinen offiziellen Seiten veröffentlicht (Stand der Seiten: 12.10.2026). Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht in der Versandtabelle nur Deutschland mit einer Lieferzeit; Österreich und die Schweiz stehen in der Länderauswahl der Website, ohne Lieferzeit. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand."
+        ],
         "comparisonTable": {
           "caption": "Lieferzeit und Mindestbestellwert für kostenlosen Versand von YesStyle, Stylevana, Olive Young Global, StyleKorean und Jolse in Deutschland, Österreich und der Schweiz, laut den offiziellen Seiten vom 12.10.2026.",
           "headers": [
@@ -73199,6 +73170,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Welchen Shop wählen",
+        "bullets": [
+          "Wer in Deutschland bestellt: YesStyle (10–15 Werktage, kostenlos ab US$ 45), Stylevana (7–11 Werktage, kostenlos ab 48 €) und Olive Young Global (4–5 Tage, kostenlos ab US$ 60) nennen eine Lieferzeit; StyleKorean liefert kostenlos ab US$ 80.",
+          "Wer in Österreich oder der Schweiz bestellt: Olive Young Global liefert laut Länderauswahl, nennt aber keine Lieferzeit. YesStyle verlangt in beiden Ländern US$ 45 für kostenlosen Versand, Stylevana 79 € in Österreich und 75 € in der Schweiz.",
+          "In jedem Land: Prüfen Sie vor der Bestellung auf der offiziellen Seite jedes Shops den Versand, wer die Steuern zahlt und was der Shop zurücknimmt."
+        ]
+      },
+      {
         "heading": "Häufige Fragen",
         "bullets": [
           "Was ist besser, YesStyle oder Stylevana? Das hängt vom Land ab. Für Deutschland nennt Stylevana 7–11 Werktage und kostenlosen Versand ab 48 €, YesStyle 10–15 Werktage und ab US$ 45. Für Österreich nennt Stylevana 6–10 Werktage und ab 79 €, für die Schweiz 5–7 Werktage und ab 75 €. YesStyle nennt in beiden Ländern 10–15 Werktage und ab US$ 45.",
@@ -73279,12 +73258,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Non c'è un negozio adatto a tutti: la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione in giorni lavorativi. Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua tabella di spedizione non riporta tempi per l'Italia; StyleKorean e Jolse non pubblicano i tempi per paese. La spedizione gratuita parte da importi diversi in ogni negozio.",
-          "Questo articolo non confronta i prezzi e non testa i negozi concorrenti. Le tabelle riuniscono ciò che ogni negozio pubblica sulle sue pagine ufficiali, lette il 12/10/2026."
+          "Non c'è un negozio adatto a tutti: la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione, mentre Olive Young Global spedisce senza tempi pubblicati. Le tabelle mostrano i dettagli; «Quale scegliere» dà la scelta per paese."
         ]
       },
       {
         "heading": "Chi spedisce in Italia",
+        "paragraphs": [
+          "Questo articolo non confronta i prezzi e non testa i negozi concorrenti: le tabelle riuniscono ciò che ogni negozio pubblica sulle sue pagine ufficiali, lette il 12/10/2026. Non c'è un negozio adatto a tutti, perché la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione in giorni lavorativi. Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua tabella di spedizione non riporta tempi per l'Italia; StyleKorean e Jolse non pubblicano i tempi per paese. La spedizione gratuita parte da importi diversi in ogni negozio."
+        ],
         "comparisonTable": {
           "caption": "Tempi di spedizione e soglia della spedizione gratuita di YesStyle, Stylevana, Olive Young Global, StyleKorean e Jolse per l'Italia, dalle pagine ufficiali lette il 12/10/2026.",
           "headers": [
@@ -73498,6 +73479,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Quale scegliere",
+        "bullets": [
+          "Chi vive in Italia: YesStyle e Stylevana pubblicano i tempi (10–15 e 8–14 giorni lavorativi) e la spedizione gratuita parte da US$ 45 e da € 47. Olive Young Global spedisce gratis da US$ 60 e StyleKorean da US$ 80, senza tempi pubblicati per l'Italia.",
+          "Imposte e resi: cambiano da un negozio all'altro, e le tabelle sopra mettono a confronto chi paga le imposte e cosa accetta indietro ogni negozio.",
+          "In qualsiasi paese: prima di ordinare, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
+        ]
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
           "Meglio YesStyle o Stylevana? Dipende dal paese. In Italia Stylevana indica 8–14 giorni lavorativi di spedizione e spedizione gratuita da € 47; YesStyle, 10–15 giorni lavorativi e spedizione gratuita da US$ 45.",
@@ -73578,13 +73567,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "모든 사람에게 맞는 쇼핑몰은 없습니다. 어디가 맞는지는 나라, 세금을 누가 내는지, 쇼핑몰이 무엇을 반품받아 주는지에 따라 달라집니다.",
-          "한국 배송은 YesStyle이 Express 영업일 3~5일로 안내하고, US$ 50 이상이면 배송비가 무료입니다. Stylevana의 배송 가능 국가 목록에는 한국이 없고, Jolse의 배송비 표는 한국을 배송 불가로 표시합니다. Olive Young Global의 배송 표에는 한국 줄이 없지만, 국가 선택 메뉴에는 한국이 있습니다.",
-          "이 글은 가격을 비교하지 않고, 경쟁 쇼핑몰을 직접 테스트하지도 않았습니다. 표와 목록은 각 쇼핑몰이 공식 페이지에 게시한 내용을 2026년 10월 12일에 확인해 모은 것입니다."
+          "모든 사람에게 맞는 쇼핑몰은 없습니다. 어디가 맞는지는 나라, 세금을 누가 내는지, 반품을 무엇까지 받아 주는지에 따라 달라집니다. 한국 배송은 YesStyle만 기간과 배송비를 밝히고, Stylevana는 배송 가능 국가에 한국이 없습니다. 자세한 내용은 아래 목록과 \"어떤 쇼핑몰을 고를까\"를 보세요."
         ]
       },
       {
         "heading": "한국으로 배송하는 쇼핑몰",
+        "paragraphs": [
+          "이 글은 가격을 비교하지 않고, 경쟁 쇼핑몰을 직접 테스트하지도 않았습니다. 표와 목록은 각 쇼핑몰이 공식 페이지에 게시한 내용을 2026년 10월 12일에 확인해 모은 것입니다. 모든 사람에게 맞는 쇼핑몰은 없습니다. 어디가 맞는지는 나라, 세금을 누가 내는지, 쇼핑몰이 무엇을 반품받아 주는지에 따라 달라집니다."
+        ],
         "bullets": [
           "**YesStyle:** Express 배송으로 영업일 3~5일이 걸립니다. US$ 50 이상이면 배송비가 무료이고, 그 미만은 US$ 7입니다.",
           "**Stylevana:** 영어 고객센터의 배송 가능 국가 목록(2026년 10월 9일 갱신)에 한국이 없습니다.",
@@ -73724,6 +73714,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "어떤 쇼핑몰을 고를까",
+        "bullets": [
+          "한국에 사는 경우: YesStyle은 Express 영업일 3~5일에 US$ 50 이상이면 배송비 무료라고 안내합니다(미만은 US$ 7).",
+          "Olive Young Global은 국가 선택 메뉴에는 한국이 있지만 배송 표에 한국 줄이 없어 기간과 배송비가 게시되어 있지 않습니다. Stylevana는 배송 가능 국가 목록에 한국이 없고, Jolse는 한국을 배송 불가로 표시합니다.",
+          "어느 나라든: 주문하기 전에 각 쇼핑몰의 공식 페이지에서 배송, 세금 부담, 반품 조건을 확인하세요."
+        ]
+      },
+      {
         "heading": "자주 묻는 질문",
         "bullets": [
           "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라에 따라 다릅니다. 한국 기준으로 YesStyle은 Express 영업일 3~5일에 US$ 50 이상 무료배송을 안내하고, Stylevana의 배송 가능 국가 목록(2026년 10월 9일)에는 한국이 없습니다.",
@@ -73804,13 +73802,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "すべての人に合う店はありません。合う店は、届け先の国、税金を誰が払うか、返品で何を受け付けてくれるかによって変わります。",
-          "日本向けでは、YesStyleがExpress便で4〜5営業日、US$50以上で送料無料と公表しています。Stylevanaは、英語のヘルプセンターの配送先リスト（2026年10月9日時点）に日本が載っていません。Jolseは送料表で日本を配送不可としていて、StyleKoreanは送料無料の表に日本がありません。",
-          "この記事では価格を比較せず、YesStyle以外の店を実際に試すこともしていません。各店が公式ページで公開している内容を、2026年10月12日に確認してまとめています。"
+          "すべての人に合う店はありません。合う店は、届け先の国、税金を誰が払うか、返品で何を受け付けてくれるかで変わります。日本向けでは、YesStyleが4〜5営業日で、Stylevanaは配送先リストに日本がありません。詳しくは下の表と「どの店を選ぶか」へ。"
         ]
       },
       {
         "heading": "日本に届けてくれる店は？",
+        "paragraphs": [
+          "この記事では価格を比較せず、YesStyle以外の店を実際に試すこともしていません。各店が公式ページで公開している内容を、2026年10月12日に確認してまとめています。すべての人に合う店はありません。合う店は、届け先の国、税金を誰が払うか、返品で何を受け付けてくれるかによって変わります。"
+        ],
         "bullets": [
           "**YesStyle：** Express便で4〜5営業日。US$50以上で送料無料、US$50未満は送料US$5です。",
           "**Stylevana：** 英語のヘルプセンターの配送先リスト（2026年10月9日時点）に、日本は載っていません。",
@@ -73951,6 +73950,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "どの店を選ぶか",
+        "bullets": [
+          "日本にお住まいの方：YesStyleはExpress便で4〜5営業日、US$50以上で送料無料です。Olive Young Globalは日本まで6〜7日、3,900円以上で送料無料です。",
+          "Stylevanaは配送先リストに日本がなく、Jolseは日本を配送不可としています。StyleKoreanは送料無料の表に日本がなく、配送できるかどうかは分かりません。",
+          "どの国でも：注文前に、各店の公式ページで配送、税金の負担、返品の条件を確認してください。"
+        ]
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
           "YesStyleとStylevanaでは、どちらがいいですか？国によって違います。日本向けでは、YesStyleがExpress便で4〜5営業日、US$50以上で送料無料と公表しています。Stylevanaは、英語のヘルプセンターの配送先リスト（2026年10月9日時点）に日本が載っていません。",
@@ -74030,13 +74037,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有哪一家店適合所有人。選哪一家，要看寄送的地區、稅費由誰負擔，以及店家接受什麼退貨。",
-          "在台灣，Stylevana 不在寄送目的地清單上（英文說明中心，2026年10月9日）。在香港，五家店都寄送。各店的免運門檻和運送時間不一樣，請看下面的表。",
-          "本文不比較價格，也沒有實際測試其他店家。表格整理的是各店在官方頁面公布的內容，查閱日期為 2026年10月12日。"
+          "沒有哪一家店適合所有人。選哪一家，要看寄送的地區、稅費由誰負擔，以及店家接受什麼退貨。在台灣，Stylevana 不在寄送目的地清單上；在香港，五家店都寄送。詳見下面的表和「該選哪一家」。"
         ]
       },
       {
         "heading": "台灣與香港有哪些店寄送？",
+        "paragraphs": [
+          "本文不比較價格，也沒有實際測試其他店家。表格整理的是各店在官方頁面公布的內容，查閱日期為 2026年10月12日。沒有哪一家店適合所有人，選哪一家，要看寄送的地區、稅費由誰負擔，以及店家接受什麼退貨。在台灣，Stylevana 不在寄送目的地清單上（英文說明中心，2026年10月9日）。在香港，五家店都寄送。各店的免運門檻和運送時間不一樣，請看下面的表。"
+        ],
         "comparisonTable": {
           "caption": "YesStyle、Stylevana、Olive Young Global、StyleKorean 與 Jolse 寄往台灣與香港的運送時間和免運門檻，取自各店官方頁面，查閱日期為 2026年10月12日。",
           "headers": [
@@ -74249,6 +74257,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "該選哪一家",
+        "bullets": [
+          "住在台灣：YesStyle 的 Express 為 3–6 個工作天，滿 US$50 免運；Olive Young Global 為 5–6 天，自 2026年7月30日起滿 US$35 免運；Stylevana 不在寄送目的地清單上。",
+          "住在香港：五家店都寄送。YesStyle 與 Stylevana 都走順豐速運，1–3 個工作天；YesStyle 滿 US$35 免運，Stylevana 滿 HK$270 免運，Olive Young Global 為 3–5 天，滿 US$60 免運。",
+          "不論在哪個地區：下單前，請在各店官方頁面確認運送、稅費由誰負擔，以及店家接受什麼退貨。"
+        ]
+      },
+      {
         "heading": "常見問題",
         "bullets": [
           "YesStyle 和 Stylevana 哪一家比較好？要看寄送的地區。台灣：YesStyle 公布 Express 3–6 個工作天、滿 US$50 免運，Stylevana 不在寄送目的地清單上。香港：兩家都是順豐速運 1–3 個工作天，YesStyle 滿 US$35 免運，Stylevana 滿 HK$270 免運。",
@@ -74329,13 +74345,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有哪一家店适合所有人。该选哪一家，取决于寄往的国家、税费由谁负担，以及店家接受什么退货。",
-          "五家店都寄送到新加坡。在马来西亚，Olive Young Global 的寄送表没有运送时间，但目的地选择器列出了它。各店的免运费门槛和运送时间不一样，请看下面的表。",
-          "本文不比较价格，也没有测试其他店家。表格整理的是各店在官方页面公布的内容，查阅日期为 2026年10月12日。"
+          "没有哪一家店适合所有人。该选哪一家，取决于寄往的国家、税费由谁负担，以及店家接受什么退货。五家店都寄送到新加坡；在马来西亚，Olive Young Global 的寄送表没有运送时间。详见下面的表和“该选哪一家”。"
         ]
       },
       {
         "heading": "新加坡与马来西亚有哪些店寄送？",
+        "paragraphs": [
+          "本文不比较价格，也没有测试其他店家。表格整理的是各店在官方页面公布的内容，查阅日期为 2026年10月12日。没有哪一家店适合所有人，选哪一家取决于寄往的国家、税费由谁负担，以及店家接受什么退货。五家店都寄送到新加坡。在马来西亚，Olive Young Global 的寄送表没有运送时间，但目的地选择器列出了它。各店的免运费门槛和运送时间不一样，请看下面的表。"
+        ],
         "comparisonTable": {
           "caption": "YesStyle、Stylevana、Olive Young Global、StyleKorean 与 Jolse 寄往新加坡和马来西亚的运送时间与免运费门槛，取自各店官方页面，查阅日期为 2026年10月12日。",
           "headers": [
@@ -74546,6 +74563,14 @@ export const reviewsData: unknown[] = [
             "label": "查看 YesStyle 今日的优惠券与奖励码 CECILIA010",
             "href": "/zh-hans/coupons/yesstyle"
           }
+        ]
+      },
+      {
+        "heading": "该选哪一家",
+        "bullets": [
+          "住在新加坡：五家店都寄送。YesStyle 的 Express 为 3–5 个工作日，满 US$50 免运费；Stylevana 的 Standard 为 3–7 个工作日，满 US$35 免运费；Olive Young Global 为 5–6 天，满 US$60 免运费。",
+          "住在马来西亚：YesStyle 的 Standard 为 10–16 个工作日，满 US$35 免运费；Stylevana 西马满 RM99 免运费；Olive Young Global 满 US$60 免运费，但没有公布运送时间。",
+          "无论在哪个国家：下单前，请在各店官方页面确认运送、税费由谁负担，以及店家接受什么退货。"
         ]
       },
       {
@@ -91580,8 +91605,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger is a large company with public refund and renewal rules. Hosting has a 30-day window to ask for your money back, and in our experience the service and support work. The catch is not whether the company is legitimate. It is renewal: it is switched on by default, and the renewal price can be different.",
-          "Before you pay, check three things: what the refund covers, when renewal kicks in, and which company appears as the biller. The sections below explain each one."
+          "Hostinger is a large company with public refund and renewal rules, and in our experience the service and support work. The catch is renewal, which is on by default and can come at a different price. Before you pay, read \"Refund: 30 days, with exceptions\" and \"Automatic renewal and the new price\" below."
         ]
       },
       {
@@ -91797,8 +91821,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación. El hosting tiene 30 días para pedir el dinero de vuelta y, en nuestra experiencia, el servicio y el soporte funcionan. El punto que pesa no es la solvencia de la empresa, es la renovación: viene activada por defecto y su precio puede ser otro.",
-          "Antes de pagar, revisa tres cosas: qué cubre el reembolso, cuándo se activa la renovación y qué empresa aparece como cobradora. Las secciones de abajo explican cada una."
+          "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación, y en nuestra experiencia el servicio y el soporte funcionan. Lo que pesa es la renovación, que viene activada por defecto y puede tener otro precio. Antes de pagar, lee abajo «Reembolso: 30 días, con excepciones» y «Renovación automática y precio nuevo»."
         ]
       },
       {
@@ -92014,8 +92037,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Hostinger est une grande entreprise, avec des règles de remboursement et de renouvellement publiques. L'hébergement bénéficie d'un délai de 30 jours pour demander le remboursement et, selon notre expérience, le service et le support fonctionnent. Le point délicat n'est pas la fiabilité de l'entreprise, c'est le renouvellement : il est activé par défaut, et son prix peut être différent.",
-          "Avant de payer, vérifiez trois choses : ce que couvre le remboursement, quand le renouvellement se déclenche et quelle société apparaît comme facturante. Les sections ci-dessous expliquent chacune de ces points."
+          "Hostinger est une grande entreprise, avec des règles de remboursement et de renouvellement publiques, et d'après notre expérience le service et le support fonctionnent. Le point délicat est le renouvellement, activé par défaut et parfois à un autre prix. Avant de payer, lisez plus bas « Remboursement : 30 jours, avec exceptions » et « Renouvellement automatique et nouveau prix »."
         ]
       },
       {
@@ -92231,8 +92253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Hostinger ist ein großes Unternehmen mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung. Für Hosting gibt es 30 Tage, um das Geld zurückzufordern, und nach unserer Erfahrung funktionieren Service und Support. Der Knackpunkt ist nicht die Seriosität des Unternehmens, sondern die Verlängerung: Sie ist standardmäßig aktiviert, und der Verlängerungspreis kann ein anderer sein.",
-          "Prüfen Sie vor der Zahlung drei Dinge: was die Erstattung abdeckt, wann die Verlängerung greift und welche Firma als Abrechnungsgesellschaft auftaucht. Die Abschnitte unten erklären jeden einzelnen Punkt."
+          "Hostinger ist ein großes Unternehmen mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung, und nach unserer Erfahrung funktionieren Service und Support. Der Knackpunkt ist die Verlängerung, die standardmäßig aktiv ist und einen anderen Preis haben kann. Lesen Sie vor der Zahlung unten „Erstattung: 30 Tage, mit Ausnahmen“ und „Automatische Verlängerung und neuer Preis“."
         ]
       },
       {
@@ -92448,8 +92469,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Hostinger è una grande azienda, con regole pubbliche su rimborso e rinnovo. L'hosting ha 30 giorni per chiedere la restituzione del denaro e, secondo la nostra esperienza, il servizio e l'assistenza funzionano. Il punto critico non è l'affidabilità dell'azienda, ma il rinnovo: è attivo di default e il prezzo del rinnovo può essere diverso.",
-          "Prima di pagare, controlla tre cose: cosa copre il rimborso, quando scatta il rinnovo e quale società compare come addebitante. Le sezioni seguenti spiegano ciascuna."
+          "Hostinger è una grande azienda, con regole pubbliche su rimborso e rinnovo, e secondo la nostra esperienza il servizio e l'assistenza funzionano. Il punto critico è il rinnovo, attivo di default e con un prezzo che può cambiare. Prima di pagare, leggi sotto «Rimborso: 30 giorni, con eccezioni» e «Rinnovo automatico e prezzo nuovo»."
         ]
       },
       {
@@ -92665,8 +92685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "호스팅어는 규모가 큰 회사이고, 환불과 갱신 규정이 공개되어 있습니다. 호스팅은 30일 안에 환불을 요청할 수 있으며, 저희 경험으로는 서비스와 지원이 제대로 작동합니다. 문제가 되는 부분은 회사의 신뢰도가 아니라 갱신입니다. 자동 갱신이 기본으로 켜져 있고, 갱신 가격은 처음과 다를 수 있습니다.",
-          "결제 전에 세 가지를 확인하세요. 환불이 무엇을 보장하는지, 갱신이 언제 적용되는지, 청구 회사가 어디로 표시되는지입니다. 아래 섹션에서 각각 설명합니다."
+          "호스팅어는 규모가 큰 회사이고 환불과 갱신 규정이 공개되어 있으며, 저희 경험으로는 서비스와 지원이 제대로 작동합니다. 문제가 되는 부분은 갱신으로, 자동 갱신이 기본으로 켜져 있고 가격도 달라질 수 있습니다. 결제 전에 아래의 \"환불: 30일, 예외 있음\"과 \"자동 갱신과 새 가격\"을 확인하세요."
         ]
       },
       {
@@ -92882,8 +92901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Hostingerは大手企業で、返金と更新のルールが公開されています。ホスティングは30日以内であれば返金を申請できます。私たちの経験では、サービスもサポートも問題なく機能しています。注意すべき点は会社の信頼性ではなく、更新です。自動更新が初期設定でオンになっており、更新時の価格は初回と異なる場合があります。",
-          "お支払いの前に、3つの点を確認してください。返金の対象範囲、更新がいつ始まるか、請求元としてどの会社が表示されるかです。以下の各セクションで説明します。"
+          "Hostingerは大手企業で、返金と更新のルールが公開されており、私たちの経験ではサービスもサポートも問題なく機能しています。注意すべきは更新で、自動更新が初期設定でオンになっていて、価格も初回と異なる場合があります。お支払い前に、下の「返金：30日間、例外あり」と「自動更新と新しい価格」をご確認ください。"
         ]
       },
       {
@@ -93099,8 +93117,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 是規模不小的公司，退款與續訂規則都公開透明。主機方案可在 30 天內申請退款；以我們的經驗，服務與客服運作正常。真正要留意的不是公司是否可靠，而是續訂：續訂預設開啟，續訂價格也可能不同。",
-          "付款前請確認三件事：退款涵蓋哪些項目、何時開始續訂，以及帳單上會顯示哪家公司。下面各節會逐一說明。"
+          "Hostinger 是規模不小的公司，退款與續訂規則公開透明，以我們的經驗，服務與客服運作正常。要留意的是續訂：預設開啟，價格也可能不同。付款前請先看下面的「退款：30 天，有例外」和「自動續訂與新價格」。"
         ]
       },
       {
@@ -93316,8 +93333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 是规模不小的公司，退款和续费规则公开透明。主机套餐可在 30 天内申请退款；根据我们的经验，服务和客服运行正常。真正要留意的不是公司是否靠谱，而是续费：续费默认开启，续费价格也可能不同。",
-          "付款前请确认三件事：退款涵盖哪些项目、何时开始续费，以及账单上会显示哪家公司。下面各节会逐一说明。"
+          "Hostinger 是规模不小的公司，退款和续费规则公开透明，根据我们的经验，服务和客服运行正常。要留意的是续费：默认开启，价格也可能不同。付款前请先看下面的“退款：30 天，有例外”和“自动续费与新价格”。"
         ]
       },
       {
@@ -93830,8 +93846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "On October 19, 2026, Hostinger had a **TrustScore of 4.6 (“Excellent”)** on Trustpilot, from 73,316 reviews. Five stars make up 87.1% of them, and one star 6.9%.",
-          "On Trustpilot, the company invites customers to leave reviews, and the profile is run by the company itself. The score is a useful signal, but it needs context, as the points below show. Then comes Reclame Aqui, a Brazilian complaints site with a different story."
+          "Mostly yes, with a caveat. On October 19, 2026, Hostinger scored 4.6 (“Excellent”) on Trustpilot, but the company runs the profile and invites customers to review, which pushes the average up. On Reclame Aqui, in Brazil, the reputation is top-tier, and improper charges are the most cited problem. See below how to turn off automatic renewal."
         ]
       },
       {
@@ -93908,6 +93923,14 @@ export const reviewsData: unknown[] = [
           "Bruno, who also signs this text, has been a Hostinger customer since 2024, for more than 24 months: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. The Em Casa com Cecília site runs on Hostinger.",
           "Each time he had a problem, support solved it, mainly the AI agent, and he has never seen the service go down.",
           "That is his account, with his use. It says nothing about someone who was charged without expecting it, and the Reclame Aqui complaints still count."
+        ]
+      },
+      {
+        "heading": "Can you trust Hostinger?",
+        "paragraphs": [
+          "Going by the numbers, yes. On October 19, 2026, the Trustpilot score was 4.6 (“Excellent”) from 73,316 reviews. On Reclame Aqui, the reputation was “Great” on September 30, 2026 (8.6 over 6 months and 8.4 over 12), and the company answered 99.3% of the 1,352 complaints from those 6 months and marked 88.6% as resolved.",
+          "The caveats are who runs the page and what people complain about. The Trustpilot profile is managed by the company, which invites customers to review, and improper charges lead the Reclame Aqui problem ranking at 21.72%. On hosting, automatic renewal charges on its own before expiry, and linking the two is our reading.",
+          "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and open both profiles before buying, because the numbers change every month."
         ]
       },
       {
@@ -94005,8 +94028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El 19 de octubre de 2026, Hostinger tenía un **TrustScore de 4,6 («Excelente»)** en Trustpilot, con 73.316 opiniones. Las cinco estrellas suman el 87,1 % de ellas, y una estrella, el 6,9 %.",
-          "En Trustpilot, la empresa invita a los clientes a opinar, y el perfil lo administra la propia empresa. La calificación es una señal útil, pero necesita contexto, como muestran los puntos de abajo. Después viene Reclame Aqui, un sitio brasileño de quejas con otra historia."
+          "Sí, en general, con una salvedad. El 19 de octubre de 2026, Hostinger tenía 4,6 («Excelente») en Trustpilot, pero el perfil lo administra la propia empresa, que invita a los clientes a opinar, y eso sube el promedio. En Reclame Aqui, en Brasil, la reputación es la más alta y los cobros indebidos son el problema más citado. Mira abajo cómo desactivar la renovación automática."
         ]
       },
       {
@@ -94083,6 +94105,14 @@ export const reviewsData: unknown[] = [
           "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todo con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
           "Cada vez que tuvo algún problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
           "Esa es su cuenta, con su uso. No dice nada de quien recibió un cobro que no esperaba, y las quejas de Reclame Aqui siguen valiendo."
+        ]
+      },
+      {
+        "heading": "¿Se puede confiar en Hostinger?",
+        "paragraphs": [
+          "Por los números, sí. El 19 de octubre de 2026, la calificación en Trustpilot era 4,6 («Excelente») con 73.316 opiniones. En Reclame Aqui, la reputación era la más alta (excelente) el 30 de septiembre de 2026 (8,6 en 6 meses y 8,4 en 12), y la empresa respondió al 99,3 % de las 1.352 quejas de los 6 meses y marcó el 88,6 % como resueltas.",
+          "Las salvedades son quién administra la página y de qué se quejan las personas. El perfil de Trustpilot lo administra la empresa, que invita a los clientes a opinar, y los cobros indebidos encabezan el ranking de problemas de Reclame Aqui, con el 21,72 %. En el hosting, la renovación automática cobra sola antes del vencimiento, y la relación entre ambas cosas es nuestra lectura.",
+          "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres continuar y abre los dos perfiles antes de comprar, porque las cifras cambian cada mes."
         ]
       },
       {
@@ -94180,8 +94210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le 19 octobre 2026, Hostinger avait un **TrustScore de 4,6 (« Excellent »)** sur Trustpilot, pour 73 316 avis. Les cinq étoiles représentent 87,1 % de ces avis, et une étoile 6,9 %.",
-          "Sur Trustpilot, l’entreprise invite ses clients à laisser un avis, et le profil est géré par l’entreprise elle-même. La note est un signal utile, mais elle a besoin de contexte, comme le montrent les points ci-dessous. Vient ensuite Reclame Aqui, un site brésilien de plaintes à l’histoire différente."
+          "Plutôt oui, avec une réserve. Le 19 octobre 2026, Hostinger avait 4,6 (« Excellent ») sur Trustpilot, mais l’entreprise gère le profil et invite ses clients à noter, ce qui tire la moyenne vers le haut. Sur Reclame Aqui, au Brésil, la réputation est très bonne, et les prélèvements indus sont le problème le plus cité. Voyez plus bas comment désactiver le renouvellement."
         ]
       },
       {
@@ -94258,6 +94287,14 @@ export const reviewsData: unknown[] = [
           "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
           "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
           "C’est son compte, avec son usage. Cela ne dit rien de ceux qui ont été débités sans s’y attendre, et les plaintes de Reclame Aqui restent valables."
+        ]
+      },
+      {
+        "heading": "Peut-on faire confiance à Hostinger ?",
+        "paragraphs": [
+          "D’après les chiffres, oui. Le 19 octobre 2026, la note Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Sur Reclame Aqui, la réputation était très bonne au 30 septembre 2026 (8,6 sur 6 mois et 8,4 sur 12), et l’entreprise a répondu à 99,3 % des 1 352 plaintes des 6 mois et en a marqué 88,6 % comme résolues.",
+          "Les réserves tiennent à qui gère la page et à ce dont les gens se plaignent. Le profil Trustpilot est géré par l’entreprise, qui invite ses clients à laisser un avis, et les prélèvements indus arrivent en tête du classement des problèmes de Reclame Aqui, à 21,72 %. Pour l’hébergement, le renouvellement automatique prélève tout seul avant l’échéance, et le lien entre les deux est notre lecture.",
+          "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et ouvrez les deux profils avant d’acheter, car les chiffres changent chaque mois."
         ]
       },
       {
@@ -94355,8 +94392,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Am 19. Oktober 2026 hatte Hostinger auf Trustpilot einen **TrustScore von 4,6 („Hervorragend“)** bei 73.316 Bewertungen. Fünf Sterne machen 87,1 % davon aus, ein Stern 6,9 %.",
-          "Auf Trustpilot lädt das Unternehmen Kunden zu Bewertungen ein, und das Profil verwaltet die Firma selbst. Die Bewertung ist ein nützliches Signal, braucht aber Kontext, wie die folgenden Punkte zeigen. Danach kommt Reclame Aqui, eine brasilianische Beschwerdeplattform mit einer anderen Geschichte."
+          "Eher ja, mit einem Vorbehalt. Am 19. Oktober 2026 hatte Hostinger auf Trustpilot 4,6 („Hervorragend“), doch das Profil verwaltet die Firma selbst und lädt Kunden zu Bewertungen ein, was den Schnitt hebt. Auf Reclame Aqui in Brasilien ist die Reputation sehr gut, und unberechtigte Abbuchungen sind das meistgenannte Problem. Unten steht, wie Sie die automatische Verlängerung abschalten."
         ]
       },
       {
@@ -94433,6 +94469,14 @@ export const reviewsData: unknown[] = [
           "Bruno, der diesen Text ebenfalls unterzeichnet, ist seit 2024 Kunde bei Hostinger, mit mehr als 24 Monaten Laufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Die Seite Em Casa com Cecília läuft auf Hostinger.",
           "Jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent, und er hat nie einen Ausfall erlebt.",
           "Das ist sein Konto, mit seiner Nutzung. Es sagt nichts über Leute, die unerwartet abgebucht wurden, und die Beschwerden bei Reclame Aqui gelten weiterhin."
+        ]
+      },
+      {
+        "heading": "Kann man Hostinger vertrauen?",
+        "paragraphs": [
+          "Nach den Zahlen ja. Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) mit 73.316 Bewertungen. Auf Reclame Aqui war die Reputation am 30. September 2026 sehr gut (8,6 in 6 Monaten und 8,4 in 12), und das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst.",
+          "Die Vorbehalte betreffen, wer die Seite verwaltet und worüber sich die Leute beschweren. Das Trustpilot-Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt, und unberechtigte Abbuchungen führen das Problem-Ranking von Reclame Aqui mit 21,72 % an. Beim Hosting bucht die automatische Verlängerung vor Ablauf von selbst ab, und der Zusammenhang ist unsere Lesart.",
+          "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und öffnen Sie vor dem Kauf beide Profile, denn die Zahlen ändern sich jeden Monat."
         ]
       },
       {
@@ -94530,9 +94574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Su Trustpilot la Hostinger ha un TrustScore di 4,6 («Eccellente») su 73.316 recensioni, lette il 19 ottobre 2026. Il 87,1% dà cinque stelle. Trustpilot è il sito internazionale di recensioni, ed è per questo che è il numero principale di questo articolo.",
-          "Il numero, però, non racconta tutta la storia. Il profilo è gestito dall'azienda, che paga un abbonamento e invita i clienti a recensire. Un invito così ampio alza la media. Per questo conviene leggere come sono distribuite le recensioni, e non fermarsi alla nota.",
-          "In Brasile il riferimento è un altro sito, il Reclame Aqui, che raccoglie reclami pubblici. Più avanti trovi i suoi numeri e la parte sul rinnovo automatico, che è il punto più delicato per chi ha un sito."
+          "Sì, con una riserva. Il 19 ottobre 2026 la Hostinger aveva 4,6 («Eccellente») su Trustpilot, ma il profilo è gestito dall'azienda, che invita i clienti a recensire e così alza la media. Sul Reclame Aqui, in Brasile, la reputazione è ottima e gli addebiti indebiti sono il problema più citato. Più sotto trovi come disattivare il rinnovo automatico."
         ]
       },
       {
@@ -94693,6 +94735,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Ci si può fidare della Hostinger?",
+        "paragraphs": [
+          "Dai numeri, sì. Il 19 ottobre 2026 la nota su Trustpilot era 4,6 («Eccellente») su 73.316 recensioni. Sul Reclame Aqui la reputazione era «Ottima» il 30 settembre 2026 (8,6 negli ultimi 6 mesi e 8,4 negli ultimi 12), e l'azienda ha risposto al 99,3% dei 1.352 reclami dei 6 mesi e ha segnato come risolto l'88,6%. L'80,3% di chi ha valutato rifarebbe affari con l'azienda.",
+          "Le riserve sono chi gestisce la pagina e di cosa si lamentano le persone. Il profilo Trustpilot è gestito dall'azienda, che invita i clienti a recensire, e gli addebiti indebiti guidano la classifica dei problemi del Reclame Aqui con il 21,72%, con una risposta media di 8 giorni e 1 ora. Nell'hosting il rinnovo automatico addebita da solo prima della scadenza, e il collegamento tra le due cose è una nostra lettura.",
+          "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e apri entrambi i profili prima di comprare, perché i numeri cambiano ogni mese."
+        ]
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
           "La Hostinger ha una buona valutazione su Trustpilot? Il 19 ottobre 2026 aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni, e l'87,1% dava cinque stelle.",
@@ -94787,9 +94837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "2026년 10월 19일 기준으로 Hostinger는 Trustpilot에서 73,316건의 리뷰에 TrustScore 4.6(\"Excellent\")을 받았습니다. 별 다섯 개 리뷰가 87.1%입니다. Trustpilot은 국제 리뷰 사이트이고, 그래서 이 글에서 가장 먼저 보는 숫자입니다.",
-          "다만 이 숫자가 전부를 말해 주지는 않습니다. 프로필은 회사가 관리하고, 회사는 유료 구독을 쓰면서 고객에게 리뷰를 남기라고 권합니다. 이렇게 폭넓게 권하면 평균이 올라갑니다. 그래서 평점만 보지 말고 리뷰가 어떻게 나뉘는지도 함께 보는 것이 좋습니다.",
-          "브라질에서 참고하는 곳은 다른 사이트인 Reclame Aqui입니다. 공개 민원을 모으는 곳이죠. 아래에서 그 숫자와, 호스팅 고객에게 가장 민감한 자동 갱신 이야기를 다룹니다."
+          "대체로 믿을 만하지만 단서가 있습니다. 2026년 10월 19일 기준 Hostinger는 Trustpilot에서 4.6(\"Excellent\")이었지만, 프로필은 회사가 직접 관리하고 고객에게 리뷰를 권하기 때문에 평균이 높게 나옵니다. 브라질 Reclame Aqui에서는 평판이 매우 좋고, 가장 많이 언급된 문제는 부당 청구입니다. 자동 갱신을 끄는 방법은 아래를 보세요."
         ]
       },
       {
@@ -94950,6 +94998,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Hostinger를 믿어도 될까요?",
+        "paragraphs": [
+          "숫자로 보면 그렇습니다. 2026년 10월 19일 Trustpilot 점수는 73,316건의 리뷰에 4.6(\"Excellent\")이었습니다. Reclame Aqui에서는 2026년 9월 30일 기준 평판이 '매우 좋음'(6개월 8.6, 12개월 8.4)이었고, 회사는 6개월 동안 받은 민원 1,352건의 99.3%에 답하고 88.6%를 해결된 것으로 표시했습니다. 평가한 사람의 80.3%는 다시 거래하겠다고 답했습니다.",
+          "단서는 누가 페이지를 관리하는지, 사람들이 무엇에 불평하는지입니다. Trustpilot 프로필은 고객에게 리뷰를 권하는 회사가 직접 관리하고, Reclame Aqui 문제 순위에서는 부당 청구가 21.72%로 가장 많으며 평균 답변 시간은 8일 1시간입니다. 호스팅에서는 자동 갱신이 만료 전에 알아서 청구되는데, 둘을 연결하는 것은 저희의 해석입니다.",
+          "실제로는 갱신일을 확인하고, 계속 쓰지 않을 거라면 자동 갱신을 끄고, 구매 전에 두 프로필을 모두 열어 보세요. 숫자는 매달 바뀝니다."
+        ]
+      },
+      {
         "heading": "자주 묻는 질문",
         "bullets": [
           "Hostinger는 Trustpilot에서 평점이 좋은가요? 2026년 10월 19일 기준 TrustScore 4.6(\"Excellent\")에 리뷰 73,316건이며, 87.1%가 별 다섯 개를 주었습니다.",
@@ -95044,9 +95100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "2026年10月19日の時点で、Hostinger は Trustpilot の 73,316 件のレビューで TrustScore 4.6（「Excellent」）を獲得しています。星 5 つのレビューは 87.1% です。Trustpilot は海外の口コミサイトなので、この記事では最初にこの数字を取り上げます。",
-          "ただ、この数字がすべてを語るわけではありません。プロフィールは企業自身が管理しており、企業は有料プランを契約したうえで顧客にレビューを書くよう呼びかけています。これだけ広く呼びかけると平均は上がります。だから評価だけでなく、レビューがどう分布しているかも一緒に見るのが良いでしょう。",
-          "ブラジルで参照されるのは別のサイト、Reclame Aqui です。公開された苦情を集めるサイトです。以下で、その数字と、ホスティング利用者にとって最も重要な自動更新の話をお伝えします。"
+          "おおむね信頼できますが、注意点があります。Trustpilotでは4.6（「Excellent」）ですが、プロフィールは企業が管理し、顧客にレビューを呼びかけています。Reclame Aquiの評判は非常に良く、最多の問題は不当な請求です。自動更新の止め方は下をご覧ください。"
         ]
       },
       {
@@ -95208,6 +95262,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Hostingerは信頼できますか？",
+        "paragraphs": [
+          "数字で見れば、信頼できると言えます。2026年10月19日の Trustpilot のスコアは 73,316 件のレビューで 4.6（「Excellent」）でした。Reclame Aqui では、2026年9月30日の時点で評判は「非常に良い」（6 か月は 8.6、12 か月は 8.4）で、企業は 6 か月間の苦情 1,352 件の 99.3% に返信し、88.6% を解決済みにしています。評価した人の 80.3% は、再び取引したいと答えています。",
+          "注意点は、ページを誰が管理しているかと、人々が何に不満を持っているかです。Trustpilot のプロフィールは顧客にレビューを呼びかけている企業自身が管理しており、Reclame Aqui の問題ランキングでは不当な請求が 21.72% で最多、平均返信時間は 8日1時間です。ホスティングでは自動更新が期限前に自動で請求するため、この二つを結びつけるのは私たちの読み方です。",
+          "実際には、更新日を確認し、続けるつもりがなければ自動更新を止め、購入前に両方のプロフィールを開いてください。数字は毎月変わります。"
+        ]
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
           "Hostinger の Trustpilot 評価は良いですか？2026年10月19日時点で TrustScore 4.6（「Excellent」）、レビュー 73,316 件で、87.1% が星 5 つです。",
@@ -95302,9 +95364,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速結論",
         "paragraphs": [
-          "截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上有 73,316 則評價，TrustScore 為 4.6（\"Excellent\"）。五星評價佔 87.1%。Trustpilot 是國際性的評價網站，所以本文先看這個數字。",
-          "不過，這個數字並不能說明全部情況。個人檔案由公司自己管理，公司付費訂閱了 Trustpilot，並邀請客戶留下評價。邀請範圍這麼廣，平均分自然會被拉高。因此，看分數的同時，也應該看評價是怎樣分布的。",
-          "在巴西，參考的是另一個網站 Reclame Aqui，它收集公開的投訴。下文會列出那裡的數字，以及對主機用戶最關鍵的自動續訂問題。"
+          "整體可以信賴，但有一點要注意。截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上是 4.6（\"Excellent\"），但個人檔案由公司自己管理並邀請客戶評價，平均分會偏高。在巴西的 Reclame Aqui 上口碑很好，被提到最多的問題是不當扣款。關閉自動續訂的方法見下文。"
         ]
       },
       {
@@ -95465,6 +95525,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "可以信任 Hostinger 嗎？",
+        "paragraphs": [
+          "從數字看，可以。2026 年 10 月 19 日，Trustpilot 分數為 4.6（\"Excellent\"），共 73,316 則評價。在 Reclame Aqui 上，截至 2026 年 9 月 30 日口碑為「非常好」（6 個月 8.6，12 個月 8.4），公司回覆了 6 個月內 1,352 則投訴的 99.3%，並把 88.6% 標示為已解決。參與評價的人中，80.3% 表示願意再次交易。",
+          "需要留意的是頁面由誰管理，以及人們在抱怨什麼。Trustpilot 個人檔案由邀請客戶評價的公司自己管理；在 Reclame Aqui 的問題排行中，不當扣款佔 21.72%，居首位，平均回覆時間為 8 天 1 小時。在主機服務中，自動續訂會在到期前自動扣款，把兩者聯繫起來是我們的解讀。",
+          "實際操作：確認續訂日期，不打算繼續使用就關閉自動續訂，購買前打開兩個檔案看看，因為這些數字每月都會變化。"
+        ]
+      },
+      {
         "heading": "常見問題",
         "bullets": [
           "Hostinger 在 Trustpilot 的評分好嗎？2026 年 10 月 19 日的 TrustScore 為 4.6（\"Excellent\"），共 73,316 則評價，其中 87.1% 為五星。",
@@ -95559,9 +95627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速结论",
         "paragraphs": [
-          "截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上有 73,316 条评价，TrustScore 为 4.6（\"Excellent\"）。五星评价占 87.1%。Trustpilot 是国际性的评价网站，所以本文先看这个数字。",
-          "不过，这个数字并不能说明全部情况。个人主页由公司自己管理，公司付费订阅了 Trustpilot，并邀请客户留下评价。邀请范围这么广，平均分自然会被拉高。因此，看分数的同时，也应该看评价是怎样分布的。",
-          "在巴西，参考的是另一个网站 Reclame Aqui，它收集公开的投诉。下文会列出那里的数字，以及对主机用户最关键的自动续费问题。"
+          "总体可以信赖，但有一点要注意。截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上是 4.6（\"Excellent\"），但个人主页由公司自己管理并邀请客户评价，平均分会偏高。在巴西的 Reclame Aqui 上口碑很好，被提到最多的问题是不当扣款。关闭自动续费的方法见下文。"
         ]
       },
       {
@@ -95719,6 +95785,14 @@ export const reviewsData: unknown[] = [
           "同时也是本文作者的 Bruno，自 2024 年起就是 Hostinger 的客户，订阅时间超过 24 个月：使用 Business 主机、一台 VPS KVM 2、Business 邮箱和域名，全部都是自动续费。Em Casa com Cecília 网站也运行在 Hostinger 上。",
           "每次遇到问题，客服都会解决，尤其是 AI 客服代理。他从未遇过服务中断。",
           "这是他个人的账户，也是他个人的使用方式。它无法说明那些遇到意外扣款的人的情况，Reclame Aqui 的投诉依然有效。"
+        ]
+      },
+      {
+        "heading": "可以信任 Hostinger 吗？",
+        "paragraphs": [
+          "从数字看，可以。2026 年 10 月 19 日，Trustpilot 分数为 4.6（\"Excellent\"），共 73,316 条评价。在 Reclame Aqui 上，截至 2026 年 9 月 30 日口碑为「非常好」（6 个月 8.6，12 个月 8.4），公司回复了 6 个月内 1,352 条投诉的 99.3%，并把 88.6% 标示为已解决。参与评价的人中，80.3% 表示愿意再次交易。",
+          "需要留意的是页面由谁管理，以及人们在抱怨什么。Trustpilot 个人主页由邀请客户评价的公司自己管理；在 Reclame Aqui 的问题排行中，不当扣款占 21.72%，居首位，平均回复时间为 8 天 1 小时。在主机服务中，自动续费会在到期前自动扣款，把两者联系起来是我们的解读。",
+          "实际操作：确认续费日期，不打算继续使用就关闭自动续费，购买前打开两个主页看看，因为这些数字每月都会变化。"
         ]
       },
       {
@@ -96031,7 +96105,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "You don't need a coupon. Hostinger's referral offer has no code to type: the discount is already in the link. Through the link, a new plan comes with **20% only on the first period**. After that, renewal goes back to the **standard price**, and the discount **does not stack with other coupons**."
+          "You don't need a coupon: Hostinger's referral offer has no code to type, because the discount is already in the link and shows in the page prices. Through the link, a new plan gets 20% off the first period only, and renewal goes back to the standard price. The contract period is what counts; see “What it costs with and without the link” below."
         ]
       },
       {
@@ -96199,7 +96273,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No necesitas cupón. La oferta de referido de Hostinger no tiene código que escribir: el descuento ya está en el enlace. Con el enlace, un plan nuevo sale con **20% solo en el primer período**. Después, la renovación vuelve al **precio estándar**, y el descuento **no se suma a otros cupones**."
+          "No necesitas cupón: la oferta de referido de Hostinger no tiene código que escribir, el descuento ya está en el enlace. Con el enlace, un plan nuevo sale con 20% solo en el primer período, y la renovación vuelve al precio estándar. Pesa el período contratado; mira «Cuánto cuesta con y sin el enlace» más abajo."
         ]
       },
       {
@@ -96367,7 +96441,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pas besoin de code promo. L'offre de parrainage Hostinger n'a pas de code à saisir : la réduction est déjà dans le lien. Par ce lien, un nouveau forfait bénéficie de **20 % uniquement sur la première période**. Ensuite, le renouvellement revient au **tarif standard**, et la réduction **ne se cumule pas avec d'autres codes promo**."
+          "Pas besoin de code promo : l'offre de parrainage Hostinger n'a pas de code à saisir, la réduction est déjà dans le lien. Par ce lien, un nouveau forfait bénéficie de 20 % uniquement sur la première période, puis le renouvellement revient au tarif standard. La durée choisie compte ; voir « Combien ça coûte avec et sans le lien » plus bas."
         ]
       },
       {
@@ -96535,7 +96609,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Sie brauchen keinen Gutschein. Das Empfehlungsangebot von Hostinger hat keinen Code zum Eintippen: Der Rabatt steckt schon im Link. Über den Link bekommt ein neuer Tarif **20 % nur im ersten Zeitraum**. Danach wird der Tarif zum **Standardpreis** verlängert, und der Rabatt **lässt sich nicht mit anderen Gutscheinen kombinieren**."
+          "Sie brauchen keinen Gutschein: Das Empfehlungsangebot von Hostinger hat keinen Code zum Eintippen, weil der Rabatt schon im Link steckt und in den Preisen der Seite erscheint. Über den Link bekommt ein neuer Tarif 20 % Rabatt nur im ersten Zeitraum, danach gilt bei der Verlängerung wieder der Standardpreis. Entscheidend ist die gewählte Laufzeit; mehr dazu unter „Was es mit und ohne Link kostet“."
         ]
       },
       {
@@ -96703,7 +96777,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non serve nessun coupon. Il link di invito di Hostinger non ha un codice da digitare: lo sconto è già nel link e compare nei prezzi della pagina. Con il link, un piano nuovo costa **20% in meno solo sul primo periodo**. Poi il rinnovo torna al **prezzo standard**, e lo sconto **non si somma con altri coupon**."
+          "Non serve nessun coupon: il link di invito di Hostinger non ha un codice da digitare, perché lo sconto è già nel link e compare nei prezzi della pagina. Con il link, un piano nuovo costa il 20% in meno solo sul primo periodo, poi il rinnovo torna al prezzo standard. Conta il periodo scelto; vedi «Quanto costa con e senza il link» più sotto."
         ]
       },
       {
@@ -96875,7 +96949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "쿠폰은 필요 없습니다. Hostinger 추천 링크에는 입력할 코드가 없습니다. 할인은 이미 링크에 들어 있고, 페이지의 가격에 바로 나타납니다. 이 링크로 새 요금제를 신청하면 **첫 기간에만 20% 할인**됩니다. 이후 갱신은 **표준 가격**으로 돌아가며, 할인은 **다른 쿠폰과 중복 적용되지 않습니다**."
+          "쿠폰은 필요 없습니다. 추천 링크에는 입력할 코드가 없고, 할인은 이미 링크에 들어 있어 페이지 가격에 나타납니다. 이 링크로 새 요금제를 신청하면 첫 기간에만 20% 할인되고, 갱신하면 표준 가격으로 돌아갑니다. 계약 기간에 따라 차이가 크니 아래 ‘추천 링크 사용 전과 후 가격’을 확인하세요."
         ]
       },
       {
@@ -97047,7 +97121,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "要点",
         "paragraphs": [
-          "クーポンは必要ありません。Hostingerの紹介リンクには入力するコードがありません。割引はリンクにすでに含まれています。このリンクから新しいプランを申し込むと、**最初の期間だけ20%割引**になります。その後の更新は**通常価格**に戻り、割引は**他のクーポンとは併用できません**。"
+          "クーポンは必要ありません。紹介リンクには入力するコードがなく、割引はリンクに含まれていて、ページの価格に表示されます。このリンクから新しいプランを申し込むと最初の期間だけ20％割引で、更新は通常価格に戻ります。契約期間で差が出るので、下の「紹介リンクあり・なしの料金」をご覧ください。"
         ]
       },
       {
@@ -97219,7 +97293,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "重點速覽",
         "paragraphs": [
-          "不需要優惠券。Hostinger 的推薦連結裡沒有需要輸入的代碼，折扣已經包含在連結中，並會顯示在頁面的價格上。透過這個連結選購新方案，**只有首期享 20% 折扣**。之後續訂會回到**標準價格**，而且折扣**不能與其他優惠券疊加**。"
+          "不需要優惠券：推薦連結裡沒有需要輸入的代碼，折扣已包含在連結中，並顯示在頁面價格上。透過這個連結選購新方案，只有首期享 20% 折扣，續訂會回到標準價格。選擇的計費期間很關鍵，詳見下文「有無連結的價格」。"
         ]
       },
       {
@@ -97390,7 +97464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "要点速览",
         "paragraphs": [
-          "不需要优惠券。Hostinger 的推荐链接里没有需要输入的代码，折扣已经包含在链接中，并会显示在页面的价格上。通过这个链接选购新套餐，**仅首期享 20% 折扣**。之后续费会回到**标准价格**，而且折扣**不能与其他优惠券叠加**。"
+          "不需要优惠券：推荐链接里没有需要输入的代码，折扣已包含在链接中，并显示在页面价格上。通过这个链接选购新套餐，仅首期享 20% 折扣，续费会回到标准价格。选择的计费周期很关键，详见下文“有无链接的价格”。"
         ]
       },
       {
@@ -97745,13 +97819,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Hostinger's Black Friday runs from October 19 to December 14, 2026, according to Hostinger's own official FAQ. The main offers don't need a code. The referral link takes 20% off the page price, and only in the first period, so it is worth comparing the two totals on the pricing page for your region before you pay. Prices change during the campaign, so check both before you pay."
-        ],
-        "bullets": [
-          "**When:** October 19, 2026 to December 14, 2026.",
-          "**Prices:** this article doesn't quote amounts. Check the plans on the pricing page for your region, with and without the link.",
-          "**Which is cheaper:** it depends on the plan and the period. Compare the first-period total with and without the link.",
-          "**Renewal:** the campaign price applies only to the first period. After that, renewal is charged at the plan's regular price."
+          "Yes, Hostinger's Black Friday has started and runs until December 14, 2026. The main offers don't need a code, and the referral link takes 20% off the page price, in the first period only. What changes the math is the renewal; see “How to compare the campaign and the link” below."
         ]
       },
       {
@@ -97893,13 +97961,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de Hostinger está en marcha desde el 19 de octubre de 2026 y llega hasta el 14 de diciembre de 2026, según la FAQ oficial de la propia Hostinger. Para las principales ofertas no hace falta código. El enlace de referido aplica el 20% sobre el precio de la página, solo en el primer período, así que conviene comparar los dos totales en la página de precios de tu región antes de pagar. Los precios cambian durante la campaña: revisa los dos antes de pagar."
-        ],
-        "bullets": [
-          "**Cuándo:** del 19 de octubre al 14 de diciembre de 2026.",
-          "**Precios:** este artículo no cita montos. Revisa los planes en la página de precios de tu región, con y sin el enlace.",
-          "**Cuál sale más barato:** depende del plan y del período. Compara el total del primer período con y sin el enlace.",
-          "**Renovación:** el precio de campaña vale solo para el primer período. Después, la renovación se cobra al precio normal del plan."
+          "Sí, el Black Friday de Hostinger ya empezó y llega hasta el 14 de diciembre de 2026. Para las principales ofertas no hace falta código, y el enlace de referido aplica el 20% sobre el precio de la página, solo en el primer período. Lo que cambia la cuenta es la renovación; mira «Cómo comparar la campaña y el enlace» más abajo."
         ]
       },
       {
@@ -98041,13 +98103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday de Hostinger est en cours du 19 octobre au 14 décembre 2026, selon la FAQ officielle de Hostinger elle-même. Pour les principales offres, aucun code n'est nécessaire. Le lien de parrainage applique 20 % sur le prix affiché sur la page, uniquement pendant la première période : il vaut donc la peine de comparer les deux totaux sur la page de tarifs de votre région avant de payer. Les prix changent pendant la campagne : vérifiez les deux avant de payer."
-        ],
-        "bullets": [
-          "**Quand :** du 19 octobre au 14 décembre 2026.",
-          "**Prix :** cet article n'indique aucun montant. Consultez les formules sur la page de tarifs de votre région, avec et sans le lien.",
-          "**Le moins cher :** cela dépend de la formule et de la période. Comparez le total de la première période avec et sans le lien.",
-          "**Renouvellement :** le prix de la campagne ne vaut que pour la première période. Ensuite, le renouvellement est facturé au prix normal de la formule."
+          "Oui, le Black Friday de Hostinger a commencé et dure jusqu'au 14 décembre 2026. Pour les principales offres, aucun code n'est nécessaire, et le lien de parrainage applique 20 % sur le prix de la page, uniquement pendant la première période. Ce qui change le calcul, c'est le renouvellement ; voir « Comment comparer la campagne et le lien » plus bas."
         ]
       },
       {
@@ -98189,13 +98245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Das Black Friday bei Hostinger läuft laut der offiziellen FAQ von Hostinger selbst vom 19. Oktober bis 14. Dezember 2026. Für die wichtigsten Angebote braucht man keinen Code. Der Empfehlungslink gewährt 20 % auf den Seitenpreis, aber nur im ersten Zeitraum. Vergleichen Sie deshalb die beiden Gesamtbeträge auf der Preisseite Ihrer Region, bevor Sie zahlen. Die Preise ändern sich während der Aktion, prüfen Sie also beide vor dem Kauf."
-        ],
-        "bullets": [
-          "**Wann:** vom 19. Oktober bis 14. Dezember 2026.",
-          "**Preise:** Dieser Artikel nennt keine Beträge. Prüfen Sie die Tarife auf der Preisseite Ihrer Region, mit und ohne Link.",
-          "**Was ist günstiger:** Das hängt von Tarif und Laufzeit ab. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link.",
-          "**Verlängerung:** Der Aktionspreis gilt nur für den ersten Zeitraum. Danach wird die Verlängerung zum regulären Tarifpreis berechnet."
+          "Ja, das Black Friday bei Hostinger hat begonnen und läuft bis zum 14. Dezember 2026. Für die wichtigsten Angebote braucht man keinen Code, und der Empfehlungslink gewährt 20 % auf den Seitenpreis, aber nur im ersten Zeitraum. Die Rechnung ändert sich erst bei der Verlängerung; mehr dazu unter „So vergleichen Sie Aktion und Link“."
         ]
       },
       {
@@ -98337,13 +98387,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday di Hostinger è attivo dal 19/10/2026 e va fino al 14/12/2026, secondo la FAQ ufficiale di Hostinger. Per le offerte principali non serve nessun codice. Il link di invito applica il 20% sul prezzo della campagna, quindi nel primo periodo costa meno della campagna da sola. I prezzi cambiano durante la campagna: confrontali prima di pagare."
-        ],
-        "bullets": [
-          "**Quando:** dal 19/10/2026 al 14/12/2026.",
-          "**Quanto:** il link applica il 20% sul prezzo della campagna, solo nel primo periodo. Confronta il totale nella pagina dei prezzi della tua regione.",
-          "**Qual è più economico:** il link, nel primo periodo, perché toglie il 20% dal prezzo della campagna.",
-          "**Rinnovo:** il prezzo della campagna vale solo nel primo periodo. Dopo, il rinnovo costa il prezzo normale del piano."
+          "Sì, il Black Friday di Hostinger è iniziato e va fino al 14/12/2026. Per le offerte principali non serve nessun codice, e il link di invito applica il 20% sul prezzo della campagna, solo nel primo periodo. A cambiare il conto è il rinnovo; vedi «Come confrontare la campagna con il link» più sotto."
         ]
       },
       {
@@ -98483,13 +98527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger 블랙프라이데이는 2026년 10월 19일부터 12월 14일까지 진행됩니다. Hostinger 공식 FAQ 기준입니다. 주요 혜택에는 코드 입력이 필요 없습니다. 추천 링크는 캠페인 가격에서 20%를 할인하므로, 첫 기간에는 링크를 통한 가격이 캠페인 단독 가격보다 낮습니다. 캠페인 중에도 가격은 바뀔 수 있으니 결제 전에 두 가격을 비교하세요."
-        ],
-        "bullets": [
-          "**기간:** 2026년 10월 19일부터 12월 14일까지.",
-          "**가격:** 추천 링크를 통하면 캠페인 가격에서 20%가 할인되며, 첫 결제 기간에만 적용됩니다. 금액은 지역별 요금 페이지에서 확인하세요.",
-          "**더 저렴한 쪽:** 첫 기간에는 추천 링크 쪽이 캠페인 단독 가격보다 낮습니다.",
-          "**갱신:** 캠페인 가격은 첫 기간에만 적용됩니다. 갱신할 때는 해당 플랜의 일반 가격을 냅니다."
+          "네, Hostinger 블랙프라이데이는 이미 시작했고 2026년 12월 14일까지 진행됩니다. 주요 혜택에는 코드가 필요 없고, 추천 링크는 캠페인 가격에서 첫 기간에만 20%를 할인합니다. 계산을 바꾸는 것은 갱신 가격이니, 아래 ‘캠페인과 추천 링크 가격 비교법’에서 확인하세요."
         ]
       },
       {
@@ -98629,13 +98667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "最初に結論",
         "paragraphs": [
-          "Hostingerのブラックフライデーは2026年10月19日から12月14日まで行われます。Hostingerの公式FAQによる日付です。主要なオファーにコードは必要ありません。紹介リンクはキャンペーン価格から20％割り引く仕組みです。キャンペーン中も価格は変わることがあるので、支払う前に最初の期間の合計を、リンクの有無で比べてください。"
-        ],
-        "bullets": [
-          "**期間：** 2026年10月19日から12月14日まで。",
-          "**料金：** 紹介リンク経由では、キャンペーン価格から20％割り引かれます。割引が適用されるのは最初の契約期間だけです。金額はお住まいの地域の料金ページで確認してください。",
-          "**比べ方：** 最初の期間の合計を、キャンペーン単独とリンク経由で比べてください。",
-          "**更新：** キャンペーン価格が適用されるのは最初の期間だけです。更新時は、そのプランの通常料金になります。"
+          "はい、Hostingerのブラックフライデーはすでに始まっていて、2026年12月14日まで続きます。主要なオファーにコードは不要で、紹介リンクはキャンペーン価格から最初の期間だけ20％割り引きます。計算が変わるのは更新時で、詳しくは下の「キャンペーンと紹介リンクの料金を比べる方法」をご覧ください。"
         ]
       },
       {
@@ -98775,13 +98807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 黑色星期五活動從 2026 年 10 月 19 日進行到 12 月 14 日，日期依據 Hostinger 官方 FAQ。主要優惠不需要輸入代碼。推薦連結會在活動價上再優惠 20%，所以首個計費期間透過連結購買，會比只看活動價便宜。活動期間價格仍可能變動，付款前請比較兩者。"
-        ],
-        "bullets": [
-          "**期間：** 2026 年 10 月 19 日至 12 月 14 日。",
-          "**價格：** 透過推薦連結，活動價會再減 20%，且只適用首個計費期間。實際金額請在你所在地區的價格頁面查看。",
-          "**哪個便宜：** 首個期間，透過連結通常比只看活動價低。",
-          "**續訂：** 活動價只適用首個期間。續訂時，會收取該方案的一般價格。"
+          "是的，Hostinger 黑色星期五已經開始，持續到 2026 年 12 月 14 日。主要優惠不需要輸入代碼，推薦連結只在首個計費期間內，在活動價上再優惠 20%。真正影響總價的是續訂，詳見下文「如何比較活動價與推薦連結」。"
         ]
       },
       {
@@ -98921,13 +98947,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Hostinger 黑色星期五活动从 2026 年 10 月 19 日进行到 12 月 14 日，日期依据 Hostinger 官方 FAQ。主要优惠不需要输入代码。推荐链接会在活动价上再优惠 20%，所以首个计费周期通过链接购买，会比只看活动价便宜。活动期间价格仍可能变动，付款前请比较两者。"
-        ],
-        "bullets": [
-          "**时间：** 2026 年 10 月 19 日至 12 月 14 日。",
-          "**价格：** 通过推荐链接，活动价会再减 20%，且只适用于首个计费周期。实际金额请在你所在地区的价格页面查看。",
-          "**哪个便宜：** 首个周期，通过链接通常比只看活动价低。",
-          "**续费：** 活动价只适用于首个周期。续费时，会收取该套餐的一般价格。"
+          "是的，Hostinger 黑色星期五已经开始，持续到 2026 年 12 月 14 日。主要优惠不需要输入代码，推荐链接只在首个计费周期内，在活动价上再优惠 20%。真正影响总价的是续费，详见下文“如何比较活动价与推荐链接”。"
         ]
       },
       {
@@ -105863,23 +105883,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "It depends on where you live. In the United States, the store to compare is OLIVE YOUNG US, not Olive Young Global: the global store ships to addresses outside the US, and its own FAQ sends US buyers to OLIVE YOUNG US, a separate store since May 29, 2026. In the United Kingdom, Canada and Australia, both stores deliver, and the rules are not the same (pages read on October 21, 2026).",
-          "Olive Young publishes one shipping rule for almost every country: free shipping from US$ 60, and US$ 25 below that. YesStyle publishes a time and a free-shipping threshold for each country. In the UK, Canada and Australia, Olive Young's delivery times are shorter than YesStyle's Premium Standard, but YesStyle's free-shipping threshold is lower in Australia (US$ 35, against US$ 60).",
-          "**What changes between the two:**"
-        ],
-        "bullets": [
-          "**Countries:** YesStyle publishes shipping and times for 23 of the 24 countries in this comparison (all except Brazil). Olive Young Global has a shipping line for 10 of them, and the US goes through its own American store.",
-          "**Free shipping:** Olive Young asks for US$ 60 in most countries. YesStyle asks for US$ 35 to US$ 45 in much of Europe, in Australia and in Hong Kong, and US$ 50 or US$ 60 in others.",
-          "**Tax:** Olive Young collects the tax at purchase in the UK, Norway, Australia and Singapore, and in the EU since July 31, 2026; in other countries, it can be charged on delivery. YesStyle's rules for each country are in the tax section.",
-          "**Returns:** Olive Young only accepts returns for defects or errors by the store, within 30 days. YesStyle gives you 14 days to request a return number."
-        ],
-        "postParagraphs": [
-          "To see each store's current offer before you buy, use the [YesStyle page](/en/coupons/yesstyle)."
+          "It depends on where you live. In the US the store to compare is OLIVE YOUNG US, since Olive Young Global does not ship there, while in the UK, Canada and Australia both stores deliver. Where both deliver, free shipping, tax and returns decide it; see \"Which to choose, by country\"."
         ]
       },
       {
         "heading": "Who ships to your country",
         "paragraphs": [
+          "It depends on where you live. YesStyle publishes shipping and times for 23 of the 24 countries in this comparison (all except Brazil). Olive Young Global has a shipping line for 10 of them, and the US goes through its own American store, OLIVE YOUNG US, a separate store since May 29, 2026. In the UK, Canada and Australia, both stores deliver, and the rules are not the same (pages read on October 21, 2026).",
           "Each row is a country; the last one covers the rest. The YesStyle column comes from the shipping table published on October 13, 2026. The Olive Young column comes from the shipping page read on October 21, 2026. Where a store does not publish a time or a shipping cost, the cell says so."
         ],
         "comparisonTable": {
@@ -106091,6 +106101,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Which to choose, by country",
+        "bullets": [
+          "In the US: the comparison is with OLIVE YOUNG US, since the global store does not ship there. YesStyle ships Standard in 7 to 11 business days, free from US$ 35, and OLIVE YOUNG US is free from US$ 35 too.",
+          "In the UK, Canada and Australia: both stores deliver. Olive Young's delivery times are shorter than YesStyle's Premium Standard (4 to 5 days in the UK and Australia, 5 to 7 in Canada), but its free shipping starts at US$ 60, while YesStyle's starts at US$ 50 in the UK and Canada and at US$ 35 in Australia.",
+          "Returns weigh: Olive Young only accepts returns for defects or errors by the store, within 30 days. YesStyle gives you 14 days to request a return number.",
+          "Tax weighs: Olive Young collects the tax at purchase in the UK, Norway, Australia and Singapore, and in the EU since July 31, 2026; in other countries, it can be charged on delivery. YesStyle's rules for each country are in the tax section."
+        ],
+        "postParagraphs": [
+          "To see each store's current offer before you buy, use the [YesStyle page](/en/coupons/yesstyle)."
+        ]
+      },
+      {
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Olive Young ship to the United States? Not from the global store. The Olive Young Global shipping list, read on October 21, 2026, does not include the US, and US addresses buy from OLIVE YOUNG US, a separate store with its own shipping and return rules since May 29, 2026.",
@@ -106161,23 +106183,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Depende de dónde vivas. En España, Olive Young Global no entrega: su FAQ dice que no envía a países fuera de la lista, y España es uno de los ejemplos. En México, Chile y Colombia las dos tiendas entregan; en Perú y Argentina, solo YesStyle. Las reglas cambian de una tienda a otra (páginas leídas el 21/10/2026).",
-          "Olive Young publica una sola regla de envío para casi todos los países: gratis desde US$ 60, y US$ 25 por debajo de ese monto. YesStyle publica un plazo y un mínimo para envío gratis en cada país. Así, en México la diferencia de plazo es pequeña, y en Chile y Colombia Olive Young no publica plazo, así que hay que mirar el checkout con tu dirección.",
-          "**Lo que cambia entre las dos:**"
-        ],
-        "bullets": [
-          "**Países:** YesStyle publica envío y plazo para 23 de los 24 países del comparativo (todos menos Brasil). Olive Young Global tiene línea de plazo y envío para 10 de ellos, y Estados Unidos lo atiende con su tienda estadounidense.",
-          "**Envío gratis:** Olive Young pide US$ 60 en la mayoría de los países. YesStyle pide entre US$ 35 y US$ 45 en buena parte de Europa, en Australia y en Hong Kong, y US$ 50 o US$ 60 en otros.",
-          "**Impuesto:** YesStyle ya muestra el IVA de España en el precio, y en los otros cinco países no publica impuestos. Olive Young cobra en el checkout el IVA y el impuesto de importación de la UE desde los pedidos del 31/07/2026; en otros países, el cobro puede llegar en la entrega.",
-          "**Devolución:** Olive Young solo acepta devoluciones por defecto o error de la tienda, dentro de 30 días. YesStyle da 14 días para pedir el número de devolución."
-        ],
-        "postParagraphs": [
-          "Para ver la oferta de cada tienda antes de comprar, usa la [página de YesStyle](/es/coupons/yesstyle)."
+          "Depende de dónde vivas. En España, Perú y Argentina, Olive Young Global no entrega, mientras que en México, Chile y Colombia las dos tiendas entregan. Donde entregan las dos, pesan el envío gratis, el impuesto y la devolución; mira «Cuál elegir, según el país»."
         ]
       },
       {
         "heading": "Quién entrega en tu país",
         "paragraphs": [
+          "Depende de dónde vivas. YesStyle publica envío y plazo para 23 de los 24 países del comparativo (todos menos Brasil). Olive Young Global tiene línea de plazo y envío para 10 de ellos, y Estados Unidos lo atiende con su tienda estadounidense. En España, Olive Young Global no entrega: su FAQ dice que no envía a países fuera de la lista, y España es uno de los ejemplos. En México, Chile y Colombia las dos tiendas entregan; en Perú y Argentina, solo YesStyle (páginas leídas el 21/10/2026).",
           "Cada fila es un país; la última reúne a los demás. La columna de YesStyle viene de la tabla de envíos publicada el 13/10/2026. La de Olive Young viene de la página de envío leída el 21/10/2026. Cuando una tienda no publica plazo o costo de envío, la celda lo dice."
         ],
         "comparisonTable": {
@@ -106400,6 +106412,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Cuál elegir, según el país",
+        "bullets": [
+          "Si vives en España, Perú o Argentina: Olive Young Global no entrega, así que solo queda YesStyle (en España, Standard de 10 a 15 días hábiles, gratis desde US$ 45).",
+          "Si vives en México: las dos entregan. YesStyle, de 10 a 13 días hábiles y gratis desde US$ 45; Olive Young Global, de 8 a 9 días y gratis desde US$ 60.",
+          "Si vives en Chile o Colombia: las dos entregan. YesStyle publica plazo (15 a 20 días hábiles en Chile, 15 a 22 en Colombia) y Olive Young Global no, así que mira el checkout con tu dirección. Su envío gratis empieza en US$ 60, y US$ 25 por debajo.",
+          "Pesa la devolución: Olive Young solo acepta devoluciones por defecto o error de la tienda, dentro de 30 días. YesStyle da 14 días para pedir el número de devolución.",
+          "Pesa el impuesto: YesStyle ya muestra el IVA de España en el precio, y en los otros cinco países no publica impuestos. Olive Young cobra en el checkout el IVA y el impuesto de importación de la UE desde los pedidos del 31/07/2026; en otros países, el cobro puede llegar en la entrega."
+        ],
+        "postParagraphs": [
+          "Para ver la oferta de cada tienda antes de comprar, usa la [página de YesStyle](/es/coupons/yesstyle)."
+        ]
+      },
+      {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Olive Young envía a Estados Unidos? No desde la tienda global. La lista de envío de Olive Young Global, leída el 21/10/2026, no incluye a EE. UU., y quien está allí compra en OLIVE YOUNG US, una tienda aparte con sus propias reglas de envío y devolución desde el 29/05/2026.",
@@ -106470,23 +106495,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Cela dépend de votre pays. En France, en Belgique et au Canada, les deux boutiques livrent, mais les règles ne sont pas les mêmes (pages lues le 21 octobre 2026). En France et au Canada, Olive Young est souvent plus rapide, mais son seuil de livraison gratuite est plus élevé.",
-          "Olive Young publie une seule règle de livraison pour presque tous les pays : livraison gratuite à partir de US$ 60, et US$ 25 en dessous. YesStyle publie un délai et un seuil pour chaque pays. En France, YesStyle livre en Standard en 10 à 15 jours ouvrés, dès US$ 45 ; Olive Young annonce 4 à 5 jours, dès US$ 60. Au Canada, Olive Young annonce 5 à 7 jours, contre 7 à 14 jours ouvrés pour le Premium Standard de YesStyle.",
-          "**Ce qui change entre les deux :**"
-        ],
-        "bullets": [
-          "**Pays :** YesStyle publie livraison et délai pour 23 des 24 pays du comparatif (tous sauf le Brésil). Olive Young Global a une ligne de délai et de livraison pour 10 d'entre eux, et les États-Unis passent par sa boutique américaine.",
-          "**Livraison gratuite :** Olive Young demande US$ 60 dans la plupart des pays. YesStyle demande entre US$ 35 et US$ 45 dans une grande partie de l'Europe, en Australie et à Hong Kong, et US$ 50 ou US$ 60 ailleurs.",
-          "**Taxes :** Olive Young fait payer la TVA et les droits de l'UE au paiement depuis le 31 juillet 2026 ; ailleurs, la taxe peut tomber à la livraison. Chez YesStyle, la boutique paie actuellement la taxe de 3 € de l'UE à la place du client.",
-          "**Retours :** Olive Young n'accepte les retours que pour un défaut ou une erreur de la boutique, dans les 30 jours. YesStyle laisse 14 jours pour demander un numéro de retour."
-        ],
-        "postParagraphs": [
-          "Pour voir l'offre de chaque boutique avant d'acheter, utilisez la [page de YesStyle](/fr/coupons/yesstyle)."
+          "Cela dépend de votre pays. En France, en Belgique et au Canada, les deux boutiques livrent ; Olive Young est souvent plus rapide, mais son seuil de livraison gratuite est plus élevé. Taxes et retours pèsent aussi ; voyez « Lequel choisir, selon le pays »."
         ]
       },
       {
         "heading": "Qui livre dans votre pays",
         "paragraphs": [
+          "Cela dépend de votre pays. YesStyle publie livraison et délai pour 23 des 24 pays du comparatif (tous sauf le Brésil). Olive Young Global a une ligne de délai et de livraison pour 10 d'entre eux, et les États-Unis passent par sa boutique américaine. En France, en Belgique et au Canada, les deux boutiques livrent, mais les règles ne sont pas les mêmes (pages lues le 21 octobre 2026). En France et au Canada, Olive Young est souvent plus rapide, mais son seuil de livraison gratuite est plus élevé.",
           "Chaque ligne est un pays ; la dernière regroupe les autres. La colonne YesStyle vient du tableau de livraison publié le 13 octobre 2026. La colonne Olive Young vient de la page de livraison lue le 21 octobre 2026. Quand une boutique ne publie pas de délai ou de frais de port, la case le dit."
         ],
         "comparisonTable": {
@@ -106694,6 +106709,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Lequel choisir, selon le pays",
+        "bullets": [
+          "Si vous habitez en France : YesStyle livre en Standard en 10 à 15 jours ouvrés, dès US$ 45 ; Olive Young annonce 4 à 5 jours, dès US$ 60.",
+          "Si vous habitez en Belgique : YesStyle annonce 10 à 15 jours ouvrés, dès US$ 45 ; Olive Young livre sans délai publié, livraison gratuite dès US$ 60.",
+          "Si vous habitez au Canada : Olive Young annonce 5 à 7 jours, contre 7 à 14 jours ouvrés pour le Premium Standard de YesStyle ; la livraison gratuite démarre dès US$ 60 chez Olive Young et dès US$ 50 chez YesStyle.",
+          "Les retours pèsent : Olive Young n'accepte les retours que pour un défaut ou une erreur de la boutique, dans les 30 jours. YesStyle laisse 14 jours pour demander un numéro de retour.",
+          "Les taxes pèsent : Olive Young fait payer la TVA et les droits de l'UE au paiement depuis le 31 juillet 2026 ; ailleurs, la taxe peut tomber à la livraison. Chez YesStyle, la boutique paie actuellement la taxe de 3 € de l'UE à la place du client.",
+          "La livraison gratuite pèse : Olive Young demande US$ 60 dans la plupart des pays. YesStyle demande entre US$ 35 et US$ 45 dans une grande partie de l'Europe, en Australie et à Hong Kong, et US$ 50 ou US$ 60 ailleurs."
+        ],
+        "postParagraphs": [
+          "Pour voir l'offre de chaque boutique avant d'acheter, utilisez la [page de YesStyle](/fr/coupons/yesstyle)."
+        ]
+      },
+      {
         "heading": "Questions fréquentes",
         "bullets": [
           "Olive Young livre-t-elle aux États-Unis ? Pas depuis la boutique mondiale. La liste d'expédition d'Olive Young Global, lue le 21 octobre 2026, ne comprend pas les États-Unis, et les adresses américaines achètent sur OLIVE YOUNG US, une boutique distincte avec ses propres règles de livraison et de retour depuis le 29 mai 2026.",
@@ -106764,23 +106793,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Das hängt von Ihrem Land ab. Olive Young Global liefert nicht nach Brasilien: Laut deren FAQ wird nicht an Länder außerhalb der Liste versendet, und Brasilien steht weder in der Liste noch im Zielauswahlfeld (gelesen am 21.10.2026).",
-          "In Deutschland, Österreich und der Schweiz liefern beide Shops. YesStyle nennt die Lieferzeit für jedes dieser Länder. Olive Young Global nennt für Deutschland 4 bis 5 Tage und für Österreich und die Schweiz nur, dass dorthin geliefert wird, ohne Lieferzeit. Die Versandregel von Olive Young gilt für fast alle Länder: ab US$ 60 kostenlos, darunter US$ 25.",
-          "**Was sich zwischen beiden unterscheidet:**"
-        ],
-        "bullets": [
-          "**Länder:** YesStyle nennt Lieferzeit und Versand für 23 der 24 Länder des Vergleichs (alle außer Brasilien). Olive Young Global hat eine Zeile mit Lieferzeit und Versand für 10 davon, und die USA bedient der Shop über seine eigene US-Seite.",
-          "**Kostenloser Versand:** Olive Young verlangt US$ 60 in den meisten Ländern. YesStyle verlangt in Deutschland, Österreich und der Schweiz US$ 45, sonst je nach Land US$ 35 bis US$ 60.",
-          "**Steuern:** YesStyle zeigt die MwSt. von 19 % (Deutschland), die USt. von 20 % (Österreich) und die MWST von 8,1 % (Schweiz) schon im Preis. Olive Young berechnet in der EU die MwSt. und den Zoll seit dem 31.07.2026 schon im Checkout; in anderen Ländern kann es bei der Zustellung anfallen.",
-          "**Rückgabe:** Olive Young nimmt nur Ware mit Defekt oder einen Fehler des Shops innerhalb von 30 Tagen zurück. YesStyle gibt 14 Tage, um die Rückgabenummer (RMA) anzufordern."
-        ],
-        "postParagraphs": [
-          "Um das Angebot jedes Shops vor dem Kauf zu sehen, nutzen Sie die [YesStyle-Seite](/de/coupons/yesstyle)."
+          "Das hängt von Ihrem Land ab. In Deutschland, Österreich und der Schweiz liefern beide Shops, nach Brasilien liefert Olive Young Global nicht. Wo beide liefern, entscheiden der kostenlose Versand, die Steuern und die Rückgabe; siehe „Welcher Shop, je nach Land“."
         ]
       },
       {
         "heading": "Wer in Ihr Land liefert",
         "paragraphs": [
+          "Das hängt von Ihrem Land ab. YesStyle nennt Lieferzeit und Versand für 23 der 24 Länder des Vergleichs (alle außer Brasilien). Olive Young Global hat eine Zeile mit Lieferzeit und Versand für 10 davon, und die USA bedient der Shop über seine eigene US-Seite. Olive Young Global liefert nicht nach Brasilien: Laut deren FAQ wird nicht an Länder außerhalb der Liste versendet, und Brasilien steht weder in der Liste noch im Zielauswahlfeld (gelesen am 21.10.2026). In Deutschland, Österreich und der Schweiz liefern beide Shops. YesStyle nennt die Lieferzeit für jedes dieser Länder. Olive Young Global nennt für Deutschland 4 bis 5 Tage und für Österreich und die Schweiz nur, dass dorthin geliefert wird, ohne Lieferzeit.",
           "Jede Zeile ist ein Land, außer der letzten, die die übrigen Länder zusammenfasst. Die Spalte von YesStyle stammt aus der Versandtabelle vom 13.10.2026. Die von Olive Young stammt von der Versandseite, gelesen am 21.10.2026. Wo ein Shop keine Lieferzeit oder keinen Versand nennt, steht das in der Zelle."
         ],
         "comparisonTable": {
@@ -106988,6 +107007,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Welcher Shop, je nach Land",
+        "bullets": [
+          "Wer in Deutschland bestellt: YesStyle liefert Standard in 10 bis 15 Werktagen, kostenlos ab US$ 45; Olive Young Global in 4 bis 5 Tagen, kostenlos ab US$ 60.",
+          "Wer in Österreich oder der Schweiz bestellt: Beide liefern. YesStyle nennt 10 bis 15 Werktage, kostenlos ab US$ 45; Olive Young Global nennt keine Lieferzeit, kostenlos ab US$ 60, darunter US$ 25.",
+          "Der kostenlose Versand zählt: Olive Young verlangt US$ 60 in den meisten Ländern. YesStyle verlangt in Deutschland, Österreich und der Schweiz US$ 45, sonst je nach Land US$ 35 bis US$ 60.",
+          "Die Rückgabe zählt: Olive Young nimmt nur Ware mit Defekt oder einen Fehler des Shops innerhalb von 30 Tagen zurück. YesStyle gibt 14 Tage, um die Rückgabenummer (RMA) anzufordern.",
+          "Die Steuern zählen: YesStyle zeigt die MwSt. von 19 % (Deutschland), die USt. von 20 % (Österreich) und die MWST von 8,1 % (Schweiz) schon im Preis. Olive Young berechnet in der EU die MwSt. und den Zoll seit dem 31.07.2026 schon im Checkout; in anderen Ländern kann es bei der Zustellung anfallen."
+        ],
+        "postParagraphs": [
+          "Um das Angebot jedes Shops vor dem Kauf zu sehen, nutzen Sie die [YesStyle-Seite](/de/coupons/yesstyle)."
+        ]
+      },
+      {
         "heading": "Häufige Fragen",
         "bullets": [
           "Liefert Olive Young Global nach Deutschland? Ja, laut der Versandtabelle des Shops in 4 bis 5 Tagen, kostenlos ab US$ 60. Für Österreich und die Schweiz nennt der Shop keine Lieferzeit, liefert aber dorthin.",
@@ -107058,23 +107090,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Dipende dal paese. Olive Young Global non spedisce in Brasile: la FAQ dice che l'invio non è disponibile per i paesi non inclusi nell'elenco, e il Brasile non compare né nell'elenco né nel selettore di destinazione (letti il 21/10/2026).",
-          "In Italia spediscono entrambi i negozi. YesStyle indica i tempi per l'Italia; Olive Young Global indica per l'Italia solo che spedisce, senza tempi pubblicati. La regola di spedizione di Olive Young vale per quasi tutti i paesi: gratis da US$ 60, con US$ 25 di spese sotto questa cifra.",
-          "**Cosa cambia tra i due:**"
-        ],
-        "bullets": [
-          "**Paesi:** YesStyle pubblica tempi e spedizione per 23 dei 24 paesi confrontati (tutti tranne il Brasile). Olive Young Global ha una riga con tempi e spedizione per 10 di essi, e gli Stati Uniti li gestisce con il suo negozio americano.",
-          "**Spedizione gratuita:** Olive Young chiede US$ 60 nella maggior parte dei paesi. YesStyle chiede tra US$ 35 e US$ 45 in buona parte dell'Europa, in Australia e a Hong Kong, e US$ 50 o US$ 60 in altri paesi.",
-          "**Imposte:** YesStyle mostra già nel prezzo l'IVA del 22% per l'Italia. Olive Young, per l'Unione europea, calcola e addebita al checkout l'IVA e EUR 3 di dazio per codice HS dal 31/07/2026; negli altri paesi l'addebito può arrivare alla consegna.",
-          "**Resi:** Olive Young accetta resi solo per difetto o errore del negozio, entro 30 giorni. YesStyle concede 14 giorni per chiedere il numero di reso (RMA)."
-        ],
-        "postParagraphs": [
-          "Per vedere l'offerta di ogni negozio prima di acquistare, usa la [pagina di YesStyle](/it/coupons/yesstyle)."
+          "Dipende dal paese. Olive Young Global non spedisce in Brasile, mentre in Italia spediscono entrambi i negozi: YesStyle indica i tempi, Olive Young Global solo che spedisce. Dove spediscono entrambi, pesano la spedizione gratuita, le imposte e i resi; vedi «Quale scegliere, a seconda del paese»."
         ]
       },
       {
         "heading": "Chi spedisce nel tuo paese",
         "paragraphs": [
+          "Dipende dal paese. YesStyle pubblica tempi e spedizione per 23 dei 24 paesi confrontati (tutti tranne il Brasile). Olive Young Global ha una riga con tempi e spedizione per 10 di essi, e gli Stati Uniti li gestisce con il suo negozio americano. Olive Young Global non spedisce in Brasile: la FAQ dice che l'invio non è disponibile per i paesi non inclusi nell'elenco, e il Brasile non compare né nell'elenco né nel selettore di destinazione (letti il 21/10/2026). In Italia spediscono entrambi i negozi. YesStyle indica i tempi per l'Italia; Olive Young Global indica per l'Italia solo che spedisce, senza tempi pubblicati.",
           "Ogni riga è un paese, tranne l'ultima, che riassume gli altri. La colonna di YesStyle viene dalla tabella di spedizione pubblicata il 13/10/2026. Quella di Olive Young dalla pagina di spedizione letta il 21/10/2026. Dove il negozio non pubblica tempi o spedizione, la cella lo dice."
         ],
         "comparisonTable": {
@@ -107271,6 +107293,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Quale scegliere, a seconda del paese",
+        "bullets": [
+          "Chi vive in Italia: spediscono entrambi. YesStyle indica Standard in 10 a 15 giorni lavorativi, gratis da US$ 45; Olive Young Global spedisce gratis da US$ 60 (US$ 25 sotto questa cifra), senza tempi pubblicati.",
+          "La spedizione gratuita pesa: Olive Young chiede US$ 60 nella maggior parte dei paesi. YesStyle chiede tra US$ 35 e US$ 45 in buona parte dell'Europa, in Australia e a Hong Kong, e US$ 50 o US$ 60 in altri paesi.",
+          "I resi pesano: Olive Young accetta resi solo per difetto o errore del negozio, entro 30 giorni. YesStyle concede 14 giorni per chiedere il numero di reso (RMA).",
+          "Le imposte pesano: YesStyle mostra già nel prezzo l'IVA del 22% per l'Italia. Olive Young, per l'Unione europea, calcola e addebita al checkout l'IVA e EUR 3 di dazio per codice HS dal 31/07/2026; negli altri paesi l'addebito può arrivare alla consegna."
+        ],
+        "postParagraphs": [
+          "Per vedere l'offerta di ogni negozio prima di acquistare, usa la [pagina di YesStyle](/it/coupons/yesstyle)."
+        ]
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
           "Olive Young spedisce in Italia? Sì. L'Italia è nel selettore di destinazione di Olive Young Global (letto il 21/10/2026), con spedizione gratuita da US$ 60, ma il tempo di consegna non è pubblicato.",
@@ -107341,18 +107375,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "한국에 사는 분께는 두 쇼핑몰의 상황이 다릅니다. 올리브영은 한국에 매장과 앱이 있습니다. Olive Young Global은 목적지 선택 화면에는 한국이 있지만 배송표에는 없어, 배송 기간과 배송비가 공개되지 않았습니다. YesStyle은 한국 배송 기간과 배송비를 모두 공개했습니다.",
-          "이 글은 가격을 비교하지 않습니다. 공식 페이지에 적힌 배송, 세금, 반품 규정만 정리했고, 저희가 Olive Young에서 직접 주문해 본 경험은 없습니다."
-        ],
-        "bullets": [
-          "**배송:** YesStyle은 Express로 영업일 3~5일이 걸리며, US$ 50 이상이면 배송비가 무료입니다. 미만이면 US$ 7입니다.",
-          "**세금:** YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급됩니다.",
-          "**반품:** YesStyle은 수령 후 14일 안에 RMA 번호를 요청해야 합니다. 개봉한 뷰티 제품은 반품할 수 없습니다."
+          "한국에서는 YesStyle만 배송 기간과 배송비를 공개했고, Olive Young Global은 국가 선택 화면에는 있어도 배송표에는 한국이 없습니다. 두 곳을 가르는 것은 배송비 조건, 세금, 반품이며, 자세한 내용은 \"어느 쪽을 고를까, 나라별\"에서 정리했습니다."
         ]
       },
       {
         "heading": "배송 한눈에",
         "paragraphs": [
+          "한국에 사는 분께는 두 쇼핑몰의 상황이 다릅니다. 올리브영은 한국에 매장과 앱이 있습니다. Olive Young Global은 목적지 선택 화면에는 한국이 있지만 배송표에는 없어, 배송 기간과 배송비가 공개되지 않았습니다. YesStyle은 한국 배송 기간과 배송비를 모두 공개했습니다.",
+          "이 글은 가격을 비교하지 않습니다. 공식 페이지에 적힌 배송, 세금, 반품 규정만 정리했고, 저희가 Olive Young에서 직접 주문해 본 경험은 없습니다.",
           "YesStyle의 기간은 상품이 홍콩 창고에서 출고되는 시간에 배송 기간을 더한 것입니다. 재고가 있는 상품만 주문하면 영업일 4~8일이 걸립니다."
         ],
         "comparisonTable": {
@@ -107396,6 +107426,14 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 리워드 코드",
         "paragraphs": [
           "CECILIA010은 YesStyle의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매 최대 5%, 재구매 2%가 적용되며, YesStyle의 쿠폰와 함께 계산됩니다. Olive Young Global에는 저희 코드가 없습니다. 현재 쿠폰는 [YesStyle 페이지](/ko/coupons/yesstyle)에서 확인할 수 있습니다."
+        ]
+      },
+      {
+        "heading": "어느 쪽을 고를까, 나라별",
+        "bullets": [
+          "배송: YesStyle은 Express로 영업일 3~5일이 걸리며, US$ 50 이상이면 배송비가 무료입니다. 미만이면 US$ 7입니다. Olive Young Global은 한국의 배송 기간과 배송비를 공개하지 않았습니다.",
+          "세금: YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급됩니다.",
+          "반품: YesStyle은 수령 후 14일 안에 RMA 번호를 요청해야 합니다. 개봉한 뷰티 제품은 반품할 수 없습니다."
         ]
       },
       {
@@ -107466,23 +107504,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "日本では、YesStyleもOlive Young Globalも配送しています。YesStyleは日本の配送日数と送料を公表しています。Olive Young Globalは日本の配送日数（6〜7日）と、¥3,900以上の送料無料ラインを示しています（2026年10月21日確認）。",
-          "Olive Young Globalの送料ルールは、ほとんどの国で共通です。US$60以上で送料無料、それ未満はUS$25です。日本だけは¥3,900以上で送料無料、それ未満は¥500です。",
-          "**両者の違い：**"
-        ],
-        "bullets": [
-          "**送料無料：** Olive Youngは日本で¥3,900以上、YesStyleはUS$50以上で無料です（それ未満はUS$5）。",
-          "**配送日数：** YesStyleはExpress便で4〜5営業日、Olive Youngは6〜7日です。数え方が違うので、単純に比べないでください。",
-          "**税金：** Olive Youngは、EUの注文では2026年7月31日以降、税金と関税を決済時に請求し、配送時には追加で請求しないとしています。YesStyleは日本の税金を公表していません。",
-          "**返品：** Olive Youngは、商品に不良がある場合か、ストアが違う商品を送った場合に限り、30日以内の返品を受け付けます。YesStyleは、RMA番号を14日以内に申請できます。"
-        ],
-        "postParagraphs": [
-          "購入前に各店の内容を確認するには、[YesStyleのクーポンページ](/ja/coupons/yesstyle)をご覧ください。"
+          "日本では、YesStyleもOlive Young Globalも配送しています。YesStyleは日本の配送日数と送料を公表し、Olive Young Globalは6〜7日、¥3,900以上で送料無料です。違いは送料無料の条件、税金、返品で、「どちらを選ぶか、国別」にまとめました。"
         ]
       },
       {
         "heading": "日本に届けてくれる店",
         "paragraphs": [
+          "日本では、YesStyleもOlive Young Globalも配送しています。YesStyleは日本の配送日数と送料を公表しています。Olive Young Globalは日本の配送日数（6〜7日）と、¥3,900以上の送料無料ラインを示しています（2026年10月21日確認）。Olive Young Globalの送料ルールは、ほとんどの国で共通です。US$60以上で送料無料、それ未満はUS$25です。日本だけは¥3,900以上で送料無料、それ未満は¥500です。",
           "表の各行は国です。最後の行は、それ以外の国をまとめたものです。YesStyleの列は2026年10月13日の送料表から、Olive Young Globalの列は2026年10月21日に読んだ配送ページから取りました。店が配送日数や送料を載せていない場合は、そのことをセルに書いています。"
         ],
         "comparisonTable": {
@@ -107679,6 +107707,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "どちらを選ぶか、国別",
+        "bullets": [
+          "送料無料：Olive Youngは日本で¥3,900以上、YesStyleはUS$50以上で無料です（それ未満はUS$5）。",
+          "配送日数：YesStyleはExpress便で4〜5営業日、Olive Youngは6〜7日です。数え方が違うので、単純に比べないでください。",
+          "税金：Olive Youngは、EUの注文では2026年7月31日以降、税金と関税を決済時に請求し、配送時には追加で請求しないとしています。YesStyleは日本の税金を公表していません。",
+          "返品：Olive Youngは、商品に不良がある場合か、ストアが違う商品を送った場合に限り、30日以内の返品を受け付けます。YesStyleは、RMA番号を14日以内に申請できます。"
+        ],
+        "postParagraphs": [
+          "購入前に各店の内容を確認するには、[YesStyleのクーポンページ](/ja/coupons/yesstyle)をご覧ください。"
+        ]
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
           "Olive Youngは日本に配送していますか？はい。Olive Young Globalの配送先リスト（2026年10月21日確認）に日本があり、¥3,900以上で送料無料です。配送日数は6〜7日です。",
@@ -107749,22 +107789,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。",
-          "本文不比較價格。內容只整理兩家官方頁面的規定，查閱日期為 2026年10月21日。"
-        ],
-        "bullets": [
-          "**免運門檻：** YesStyle 台灣滿 US$50、香港滿 US$35。Olive Young Global 香港滿 US$60；台灣滿 US$35（自 2026年7月30日起，以扣除優惠後的實付金額計算）。",
-          "**運送時間：** YesStyle 台灣 Express 3 至 6 個工作天，香港順豐 1 至 3 個工作天。Olive Young Global 台灣 5 至 6 天，香港 3 至 5 天（頁面只寫「天」，不說明是否為工作天）。",
-          "**稅費：** YesStyle 沒有台灣與香港的稅費頁面。Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。",
-          "**退貨：** YesStyle 收到後 14 天內可申請改變心意與換尺寸的退貨。Olive Young Global 只接受瑕疵品或寄錯的商品。"
-        ],
-        "postParagraphs": [
-          "查看 YesStyle 的優惠內容，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+          "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。具體數字與選擇建議，請看「該選哪一家，看所在地區」。"
         ]
       },
       {
         "heading": "各國寄送情況",
         "paragraphs": [
+          "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。",
+          "本文不比較價格。內容只整理兩家官方頁面的規定，查閱日期為 2026年10月21日。",
           "每一列是一個國家。YesStyle 欄來自 2026年10月13日起生效的運費表；Olive Young Global 欄來自 2026年10月21日讀取的寄送頁面與運費 FAQ。沒有公布時間的，表格照實寫。"
         ],
         "comparisonTable": {
@@ -107949,6 +107981,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "該選哪一家，看所在地區",
+        "bullets": [
+          "**免運門檻：** YesStyle 台灣滿 US$50、香港滿 US$35。Olive Young Global 香港滿 US$60；台灣滿 US$35（自 2026年7月30日起，以扣除優惠後的實付金額計算）。",
+          "**運送時間：** YesStyle 台灣 Express 3 至 6 個工作天，香港順豐 1 至 3 個工作天。Olive Young Global 台灣 5 至 6 天，香港 3 至 5 天（頁面只寫「天」，不說明是否為工作天）。",
+          "**稅費：** YesStyle 沒有台灣與香港的稅費頁面。Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。",
+          "**退貨：** YesStyle 收到後 14 天內可申請改變心意與換尺寸的退貨。Olive Young Global 只接受瑕疵品或寄錯的商品。"
+        ],
+        "postParagraphs": [
+          "查看 YesStyle 的優惠內容，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+        ]
+      },
+      {
         "heading": "常見問題",
         "bullets": [
           "Olive Young 會寄到台灣或香港嗎？會。台灣與香港都在 Olive Young Global 的目的地清單上。",
@@ -108019,22 +108063,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。",
-          "本文不比较价格。内容只整理两家官方页面的规定，查阅日期为 2026年10月21日。"
-        ],
-        "bullets": [
-          "**免运费门槛：** YesStyle 新加坡满 US$50，马来西亚满 US$35。Olive Young Global 满 US$60；未满的运费为 US$5（新加坡与马来西亚相同）。",
-          "**运送时间：** YesStyle 新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日。Olive Young Global 新加坡 5 至 6 天（页面只写“天”，不说明是否为工作日），马来西亚未公布。",
-          "**税费：** 新加坡的 9% GST 已含在 YesStyle 价格里（S$400 以内的商品）；马来西亚的 10% 销售税在结账时另加。Olive Young Global 在新加坡购买时收取 9% 税。",
-          "**退货：** YesStyle 收到后 14 天内可申请改变主意与换尺码的退货。Olive Young Global 只接受瑕疵品或寄错的商品。"
-        ],
-        "postParagraphs": [
-          "查看 YesStyle 的优惠内容，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
+          "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。具体数字与选择建议，请看后面的“该选哪一家，看所在国家”。"
         ]
       },
       {
         "heading": "各国寄送情况",
         "paragraphs": [
+          "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。",
+          "本文不比较价格。内容只整理两家官方页面的规定，查阅日期为 2026年10月21日。",
           "每一行是一个国家。YesStyle 栏来自 2026年10月13日起生效的运费表；Olive Young Global 栏来自 2026年10月21日读取的寄送页面与运费 FAQ。没有公布时间的，表格照实写。"
         ],
         "comparisonTable": {
@@ -108216,6 +108252,18 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "CECILIA010 是 YesStyle 的奖励码（Reward Code），请填在结账页的 Reward Code 栏位。首购最高 5%，回购 2%，并可与 YesStyle 目前有效的优惠券一同计算。",
           "这篇比较中的 Olive Young Global 没有我们的代码。目前有效的 YesStyle 优惠券内容，请看 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
+        ]
+      },
+      {
+        "heading": "该选哪一家，看所在国家",
+        "bullets": [
+          "**免运费门槛：** YesStyle 新加坡满 US$50，马来西亚满 US$35。Olive Young Global 满 US$60；未满的运费为 US$5（新加坡与马来西亚相同）。",
+          "**运送时间：** YesStyle 新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日。Olive Young Global 新加坡 5 至 6 天（页面只写“天”，不说明是否为工作日），马来西亚未公布。",
+          "**税费：** 新加坡的 9% GST 已含在 YesStyle 价格里（S$400 以内的商品）；马来西亚的 10% 销售税在结账时另加。Olive Young Global 在新加坡购买时收取 9% 税。",
+          "**退货：** YesStyle 收到后 14 天内可申请改变主意与换尺码的退货。Olive Young Global 只接受瑕疵品或寄错的商品。"
+        ],
+        "postParagraphs": [
+          "查看 YesStyle 的优惠内容，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
         ]
       },
       {
@@ -108581,8 +108629,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose **managed** if you want the assistant running without looking after a server: Hostinger installs it, updates it and makes the backups. Choose the **VPS** if you want root access (full control of the server) and want to run other programs on the same machine, and you accept keeping the system updated and protected.",
-          "Both options let you use Hostinger's AI credits or your own API key. On October 21, 2026, the managed plan costs **US$3.99/month** with the referral link and US$4.99 without it. The VPS KVM 1 costs US$6.49/month without the link (the price with the link is shown in the cart). Prices are for a 24-month plan. Both renew at **US$11.99/month**."
+          "Choose the managed plan if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both options accept Hostinger's AI credits or your own API key. What decides it is how much maintenance you accept; see \"How much it really costs\" below."
         ]
       },
       {
@@ -108676,22 +108723,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Who should choose each one",
-        "paragraphs": [
-          "**Choose managed if:**"
-        ],
-        "bullets": [
-          "you want the assistant running without installing or configuring a server;",
-          "you prefer that Hostinger handles the updates, the backups and the security;",
-          "you don't know what root or Docker is;",
-          "you want OpenClaw, or to switch to Hermes Agent or Paperclip on the same plan."
-        ],
-        "postParagraphs": [
-          "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know how to manage a server, or want to learn, and you accept keeping the system updated and protected; or you need more memory and disk: the KVM plans go from 4 GB to 32 GB of RAM.",
-          "**When in doubt, start with managed.** It costs less in the first period and does not require server knowledge."
-        ]
-      },
-      {
         "heading": "Telegram and WhatsApp",
         "paragraphs": [
           "Both channels work on both options. The difference is where you set them up. On managed, you choose the channels in Hostinger's setup assistant: for WhatsApp, you read a QR code; for Telegram, you paste the bot token. On the VPS, the setup has optional fields for the WhatsApp number, with the country code, and for the Telegram bot token. The documentation does not show where the WhatsApp QR code appears on the VPS.",
@@ -108721,6 +108752,22 @@ export const reviewsData: unknown[] = [
           "**More than one person will use the assistant** (family or team): the project recommends one server per person. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
           "**The assistant will have access to your email, your bank or other accounts:** the project asks that the server have no personal accounts logged in. Hostinger suggests a separate email inbox for the assistant.",
           "**On the VPS, keep the gateway token** that the installation generates, and don't send it in a conversation with the assistant."
+        ]
+      },
+      {
+        "heading": "Who should choose each one",
+        "paragraphs": [
+          "**Choose managed if:**"
+        ],
+        "bullets": [
+          "you want the assistant running without installing or configuring a server;",
+          "you prefer that Hostinger handles the updates, the backups and the security;",
+          "you don't know what root or Docker is;",
+          "you want OpenClaw, or to switch to Hermes Agent or Paperclip on the same plan."
+        ],
+        "postParagraphs": [
+          "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know how to manage a server, or want to learn, and you accept keeping the system updated and protected; or you need more memory and disk: the KVM plans go from 4 GB to 32 GB of RAM.",
+          "**When in doubt, start with managed.** It costs less in the first period and does not require server knowledge."
         ]
       },
       {
@@ -108862,8 +108909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige **gestionado** si quieres que el asistente funcione sin ocuparte de un servidor: Hostinger lo instala, lo actualiza y hace las copias de seguridad. Elige el **VPS** si quieres acceso root (control total del servidor) y ejecutar otros programas en la misma máquina, y aceptas mantener el sistema actualizado y protegido.",
-          "En las dos opciones puedes usar los créditos de IA de Hostinger o tu propia clave de API. El 21 de octubre de 2026, el plan gestionado cuesta **US$ 3,99/mes** con el enlace de referido y US$ 4,99 sin él. El VPS KVM 1 cuesta US$ 6,49/mes sin el enlace (el precio con el enlace aparece en el carrito). Los precios son de un plan de 24 meses. Los dos se renuevan a **US$ 11,99/mes**."
+          "Elige el gestionado si quieres que el asistente funcione sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Las dos opciones aceptan los créditos de IA de Hostinger o tu propia clave de API. Lo que pesa es el mantenimiento que aceptas; mira «Cuánto cuesta de verdad» más abajo."
         ]
       },
       {
@@ -108957,22 +109003,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quién debe elegir cada uno",
-        "paragraphs": [
-          "**Elige el gestionado si:**"
-        ],
-        "bullets": [
-          "quieres el asistente funcionando sin instalar ni configurar un servidor;",
-          "prefieres que Hostinger se encargue de las actualizaciones, las copias de seguridad y la seguridad;",
-          "no sabes qué es root ni Docker;",
-          "quieres OpenClaw, o cambiar a Hermes Agent o Paperclip en el mismo plan."
-        ],
-        "postParagraphs": [
-          "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes administrar un servidor, o quieres aprender, y aceptas mantener el sistema actualizado y protegido; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
-          "**En la duda, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidor."
-        ]
-      },
-      {
         "heading": "Telegram y WhatsApp",
         "paragraphs": [
           "Los dos canales funcionan en las dos opciones. La diferencia está en dónde los configuras. En el gestionado, eliges los canales en el asistente de configuración de Hostinger: en WhatsApp, lees un código QR; en Telegram, pegas el token del bot. En el VPS, la configuración tiene campos opcionales para el número de WhatsApp, con el código del país, y para el token del bot de Telegram. La documentación no muestra dónde aparece el QR de WhatsApp en el VPS.",
@@ -109002,6 +109032,22 @@ export const reviewsData: unknown[] = [
           "**Más de una persona va a usar el asistente** (familia o equipo): el proyecto recomienda un servidor por persona. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
           "**El asistente va a tener acceso a tu correo, a tu banco u otras cuentas:** el proyecto pide que el servidor no tenga cuentas personales abiertas. Hostinger sugiere una bandeja de correo separada para el asistente.",
           "**En el VPS, guarda el token de la pasarela** que genera la instalación, y no lo envíes en una conversación con el asistente."
+        ]
+      },
+      {
+        "heading": "Quién debe elegir cada uno",
+        "paragraphs": [
+          "**Elige el gestionado si:**"
+        ],
+        "bullets": [
+          "quieres el asistente funcionando sin instalar ni configurar un servidor;",
+          "prefieres que Hostinger se encargue de las actualizaciones, las copias de seguridad y la seguridad;",
+          "no sabes qué es root ni Docker;",
+          "quieres OpenClaw, o cambiar a Hermes Agent o Paperclip en el mismo plan."
+        ],
+        "postParagraphs": [
+          "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes administrar un servidor, o quieres aprender, y aceptas mantener el sistema actualizado y protegido; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
+          "**En la duda, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidor."
         ]
       },
       {
@@ -109143,8 +109189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez **géré** si vous voulez que l'assistant tourne sans que vous ayez à vous occuper d'un serveur : Hostinger l'installe, le met à jour et fait les sauvegardes. Choisissez le **VPS** si vous voulez un accès root (contrôle total du serveur) et faire tourner d'autres programmes sur la même machine, et que vous acceptez de garder le système à jour et protégé.",
-          "Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger ou votre propre clé d'API. Le 21 octobre 2026, l'offre gérée coûte **3,99 US$/mois** avec le lien de parrainage, et 4,99 US$ sans. Le VPS KVM 1 coûte 6,49 US$/mois sans le lien (le prix avec le lien s'affiche dans le panier). Les prix sont ceux d'un forfait de 24 mois. Les deux se renouvellent à **11,99 US$/mois**."
+          "Choisissez le géré si vous voulez que l'assistant tourne sans vous occuper d'un serveur, et le VPS si vous voulez un accès root et faire tourner d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API. Tout dépend de la maintenance que vous acceptez ; voyez « Combien ça coûte vraiment » plus bas."
         ]
       },
       {
@@ -109238,22 +109283,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Qui doit choisir quoi",
-        "paragraphs": [
-          "**Choisissez l'offre gérée si :**"
-        ],
-        "bullets": [
-          "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
-          "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
-          "vous ne savez pas ce que sont root ou Docker ;",
-          "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
-        ],
-        "postParagraphs": [
-          "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
-          "**Dans le doute, commencez par le géré.** Il coûte moins cher sur la première période et ne demande pas de connaissances en serveur."
-        ]
-      },
-      {
         "heading": "Telegram et WhatsApp",
         "paragraphs": [
           "Les deux canaux fonctionnent avec les deux options. La différence tient à l'endroit où on les configure. En géré, vous choisissez les canaux dans l'assistant de configuration de Hostinger : pour WhatsApp, vous lisez un QR code ; pour Telegram, vous collez le jeton du bot. Sur le VPS, la configuration comporte des champs facultatifs pour le numéro WhatsApp, avec l'indicatif du pays, et pour le jeton du bot Telegram. La documentation ne montre pas où s'affiche le QR de WhatsApp sur le VPS.",
@@ -109283,6 +109312,22 @@ export const reviewsData: unknown[] = [
           "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
           "**L'assistant aura accès à votre messagerie, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte mail séparée pour l'assistant.",
           "**Sur le VPS, gardez le jeton de la passerelle** que l'installation génère, et ne l'envoyez jamais dans une conversation avec l'assistant."
+        ]
+      },
+      {
+        "heading": "Qui doit choisir quoi",
+        "paragraphs": [
+          "**Choisissez l'offre gérée si :**"
+        ],
+        "bullets": [
+          "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
+          "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
+          "vous ne savez pas ce que sont root ou Docker ;",
+          "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
+        ],
+        "postParagraphs": [
+          "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
+          "**Dans le doute, commencez par le géré.** Il coûte moins cher sur la première période et ne demande pas de connaissances en serveur."
         ]
       },
       {
@@ -109423,8 +109468,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wählen Sie **verwaltet**, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern: Hostinger installiert, aktualisiert und sichert ihn. Wählen Sie den **VPS**, wenn Sie Root-Zugriff (volle Kontrolle über den Server) wollen und andere Programme auf derselben Maschine laufen lassen möchten, und wenn Sie das System selbst aktualisieren und absichern.",
-          "In beiden Optionen können Sie das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel nutzen. Am 21.10.2026 kostete die verwaltete Option mit Empfehlungslink **3,99 USD pro Monat**. Der VPS KVM 1 kostet ohne Link 6,49 USD pro Monat; mit dem Link gibt es 20 % im ersten Zeitraum, und den Endpreis zeigt der Warenkorb. Beide Verlängerungen kosten **11,99 USD pro Monat** (Preise der globalen Hostinger-Seite für einen 24-Monats-Plan)."
+          "Wählen Sie verwaltet, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und andere Programme auf derselben Maschine betreiben. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist der Wartungsaufwand, den Sie akzeptieren; siehe „Was es wirklich kostet“ weiter unten."
         ]
       },
       {
@@ -109523,22 +109567,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Wer sollte was wählen",
-        "paragraphs": [
-          "**Wählen Sie die verwaltete Option, wenn:**"
-        ],
-        "bullets": [
-          "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
-          "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
-          "Sie nicht wissen, was Root oder Docker ist;",
-          "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
-        ],
-        "postParagraphs": [
-          "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
-          "**Im Zweifel mit der verwalteten Option beginnen.** Sie kostet im ersten Zeitraum weniger und setzt keine Serverkenntnisse voraus."
-        ]
-      },
-      {
         "heading": "Telegram und WhatsApp",
         "paragraphs": [
           "Beide Kanäle funktionieren bei beiden Optionen. Der Unterschied liegt darin, wo Sie sie einrichten. Bei der verwalteten Option wählen Sie die Kanäle im Einrichtungsassistenten von Hostinger: Bei WhatsApp lesen Sie einen QR-Code ein, bei Telegram fügen Sie den Bot-Token ein. Beim VPS hat die Einrichtung optionale Felder für die WhatsApp-Nummer mit Ländervorwahl und für den Telegram-Bot-Token. Die Dokumentation zeigt nicht, wo beim VPS der WhatsApp-QR-Code erscheint.",
@@ -109568,6 +109596,22 @@ export const reviewsData: unknown[] = [
           "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; bei der verwalteten Option fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
           "**Der Assistent bekommt Zugriff auf Ihre E-Mail, Ihr Bankkonto oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine persönlichen Konten angemeldet sind. Hostinger schlägt ein separates E-Mail-Postfach für den Assistenten vor.",
           "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und schicken es nicht im Gespräch mit dem Assistenten."
+        ]
+      },
+      {
+        "heading": "Wer sollte was wählen",
+        "paragraphs": [
+          "**Wählen Sie die verwaltete Option, wenn:**"
+        ],
+        "bullets": [
+          "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
+          "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
+          "Sie nicht wissen, was Root oder Docker ist;",
+          "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
+        ],
+        "postParagraphs": [
+          "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
+          "**Im Zweifel mit der verwalteten Option beginnen.** Sie kostet im ersten Zeitraum weniger und setzt keine Serverkenntnisse voraus."
         ]
       },
       {
@@ -109709,8 +109753,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli il **gestito** se vuoi l'assistente funzionante senza occuparti del server: Hostinger lo installa, lo aggiorna e fa i backup. Scegli il **VPS** se vuoi accesso root (controllo totale del server) e far girare altri programmi sulla stessa macchina, e accetti di aggiornare e proteggere il sistema.",
-          "In entrambe le opzioni puoi usare i crediti IA di Hostinger o la tua chiave API. Il 21/10/2026, il gestito con il link di invito costa **3,99 USD al mese**. Il VPS KVM 1 costa 6,49 USD al mese senza link; con il link c'è il 20% sul primo periodo, e il prezzo finale è nel carrello. Entrambi si rinnovano a **11,99 USD al mese** (prezzi della pagina globale di Hostinger, piano di 24 mesi)."
+          "Scegli il gestito se vuoi l'assistente funzionante senza occuparti del server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Conta la manutenzione che accetti; vedi «Quanto costa davvero» più avanti."
         ]
       },
       {
@@ -109809,22 +109852,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Chi dovrebbe scegliere cosa",
-        "paragraphs": [
-          "**Scegli il gestito se:**"
-        ],
-        "bullets": [
-          "vuoi l'assistente online senza installare né configurare un server;",
-          "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
-          "non sai cos'è root né Docker;",
-          "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
-        ],
-        "postParagraphs": [
-          "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
-          "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede competenze di server."
-        ]
-      },
-      {
         "heading": "Telegram e WhatsApp",
         "paragraphs": [
           "Entrambi i canali funzionano in entrambe le opzioni. La differenza è dove li configuri. Nel gestito scegli i canali nella procedura guidata di Hostinger: per WhatsApp leggi un codice QR, per Telegram incolli il token del bot. Nel VPS la configurazione ha campi facoltativi per il numero WhatsApp, con il prefisso internazionale, e per il token del bot Telegram. La documentazione non mostra dove compare il QR di WhatsApp nel VPS.",
@@ -109854,6 +109881,22 @@ export const reviewsData: unknown[] = [
           "**Più di una persona userà l'assistente** (famiglia o team): il progetto consiglia un server per persona. Nel VPS è immediato; nel gestito chiedi a Hostinger quante istanze può avere un account.",
           "**L'assistente avrà accesso alla tua email, alla banca o ad altri account:** il progetto chiede che sul server non ci siano account personali connessi. Hostinger suggerisce una casella email separata per l'assistente.",
           "**Nel VPS, conserva il token del gateway** generato dall'installazione e non mandarlo in chat all'assistente."
+        ]
+      },
+      {
+        "heading": "Chi dovrebbe scegliere cosa",
+        "paragraphs": [
+          "**Scegli il gestito se:**"
+        ],
+        "bullets": [
+          "vuoi l'assistente online senza installare né configurare un server;",
+          "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
+          "non sai cos'è root né Docker;",
+          "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
+        ],
+        "postParagraphs": [
+          "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
+          "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede competenze di server."
         ]
       },
       {
@@ -109995,8 +110038,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서버를 신경 쓰지 않고 어시스턴트만 돌리고 싶다면 **관리형**을 고르세요. 설치, 업데이트, 백업을 호스팅어가 맡습니다. root 접근 권한(서버 전체 제어)이 필요하고 같은 기기에서 다른 프로그램도 돌리고 싶다면, 그리고 시스템 업데이트와 보안을 직접 맡을 수 있다면 **VPS**를 고르세요.",
-          "두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. 2026년 10월 21일 기준, 추천 링크를 쓴 관리형은 월 **US$ 3.99**입니다. VPS KVM 1은 링크 없이 월 US$ 6.49이며, 추천 링크를 쓰면 첫 기간 20% 할인이 적용되고 최종 금액은 장바구니에서 확인합니다. 두 방식 모두 갱신가는 월 **US$ 11.99**입니다(호스팅어 글로벌 페이지, 24개월 플랜 기준)."
+          "서버를 신경 쓰고 싶지 않다면 관리형을, root 접근이 필요하고 같은 기기에서 다른 프로그램도 돌리고 싶다면 VPS를 고르세요. 두 방식 모두 호스팅어의 AI 크레딧이나 직접 가진 API 키를 쓸 수 있습니다. 결정은 맡을 수 있는 관리 부담에 달렸으니, 비용은 아래 \"실제 비용\" 장에서 확인하세요."
         ]
       },
       {
@@ -110095,22 +110137,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "누가 무엇을 골라야 할까",
-        "paragraphs": [
-          "**다음에 해당한다면 관리형을 고르세요:**"
-        ],
-        "bullets": [
-          "서버를 설치하거나 설정하지 않고 어시스턴트를 바로 쓰고 싶다면;",
-          "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면;",
-          "root나 Docker가 무엇인지 모른다면;",
-          "OpenClaw를 쓰거나, 같은 플랜에서 Hermes Agent나 Paperclip으로 바꾸고 싶다면."
-        ],
-        "postParagraphs": [
-          "**다음에 해당한다면 VPS를 고르세요:** root 접근이 필요하고 같은 서버에서 웹사이트나 n8n 같은 다른 프로그램을 돌리고 싶다면; 서버를 다룰 줄 알거나 배우고 싶고, 시스템 업데이트와 보호를 직접 맡을 수 있다면; 또는 더 많은 메모리와 디스크가 필요하다면. KVM 플랜은 RAM 4GB에서 32GB까지 있습니다.",
-          "**고민된다면 관리형부터 시작하세요.** 첫 기간에 더 저렴하고 서버 지식이 필요 없습니다."
-        ]
-      },
-      {
         "heading": "텔레그램과 왓츠앱",
         "paragraphs": [
           "두 채널 모두 두 방식에서 작동합니다. 차이는 설정하는 위치입니다. 관리형에서는 호스팅어 설정 마법사에서 채널을 고릅니다. 왓츠앱은 QR 코드를 읽고, 텔레그램은 봇 토큰을 붙여 넣습니다. VPS에서는 설정에 왓츠앱 번호(국가 번호 포함)와 텔레그램 봇 토큰을 위한 선택 입력란이 있습니다. VPS에서 왓츠앱 QR이 어디에 표시되는지는 문서에 나오지 않습니다.",
@@ -110140,6 +110166,22 @@ export const reviewsData: unknown[] = [
           "**여러 사람이 쓴다면** (가족이나 팀): 프로젝트는 사람마다 서버 하나를 권합니다. VPS에서는 간단하지만, 관리형에서는 한 계정에 인스턴스를 몇 개 둘 수 있는지 호스팅어에 문의하세요.",
           "**어시스턴트가 이메일, 은행, 다른 계정에 접근한다면:** 프로젝트는 서버에 개인 계정이 로그인되어 있지 않아야 한다고 요구합니다. 호스팅어는 어시스턴트 전용 이메일 주소를 따로 쓰라고 제안합니다.",
           "**VPS에서는 설치가 만든 게이트웨이 토큰을 보관하고**, 어시스턴트와의 대화에 보내지 마세요."
+        ]
+      },
+      {
+        "heading": "누가 무엇을 골라야 할까",
+        "paragraphs": [
+          "**다음에 해당한다면 관리형을 고르세요:**"
+        ],
+        "bullets": [
+          "서버를 설치하거나 설정하지 않고 어시스턴트를 바로 쓰고 싶다면;",
+          "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면;",
+          "root나 Docker가 무엇인지 모른다면;",
+          "OpenClaw를 쓰거나, 같은 플랜에서 Hermes Agent나 Paperclip으로 바꾸고 싶다면."
+        ],
+        "postParagraphs": [
+          "**다음에 해당한다면 VPS를 고르세요:** root 접근이 필요하고 같은 서버에서 웹사이트나 n8n 같은 다른 프로그램을 돌리고 싶다면; 서버를 다룰 줄 알거나 배우고 싶고, 시스템 업데이트와 보호를 직접 맡을 수 있다면; 또는 더 많은 메모리와 디스크가 필요하다면. KVM 플랜은 RAM 4GB에서 32GB까지 있습니다.",
+          "**고민된다면 관리형부터 시작하세요.** 첫 기간에 더 저렴하고 서버 지식이 필요 없습니다."
         ]
       },
       {
@@ -110282,8 +110324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "サーバーの管理を任せたいなら **マネージド** を選んでください。Hostinger がインストール、更新、バックアップを行います。root（サーバーを完全に操作できる権限）が欲しい、同じマシンで他のプログラムも動かしたい、という場合は **VPS** を選びます。その代わり、システムの更新と保護は自分で行う必要があります。",
-          "どちらでも、Hostinger の AI クレジットか自分の API キーを使えます。2026年10月21日時点、Hostinger のグローバルページ（米ドル建て、24か月プラン）では、紹介リンクでのマネージドが **US$ 3.99/月**、紹介割引なしの VPS KVM 1 が **US$ 6.49/月** です。更新はどちらも **US$ 11.99/月** です。"
+          "サーバー管理を任せたいならマネージド、root 権限や他のプログラムの同居が必要なら VPS を選びます。どちらも Hostinger の AI クレジットか自分の API キーを使えます。決め手は保守の負担で、料金は「実際の費用」を参照。"
         ]
       },
       {
@@ -110377,22 +110418,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "どちらを選ぶか",
-        "paragraphs": [
-          "**マネージドを選ぶのは次の場合です：**"
-        ],
-        "bullets": [
-          "サーバーを準備せず、すぐにアシスタントを使いたい",
-          "アップデート、バックアップ、セキュリティを Hostinger に任せたい",
-          "root や Docker が何か分からない",
-          "OpenClaw を使い、同じプランで Hermes Agent や Paperclip に切り替えたい"
-        ],
-        "postParagraphs": [
-          "**VPS を選ぶのは次の場合です：** root アクセスが欲しい、同じサーバーでサイトや n8n など他のプログラムも動かしたい、サーバーの扱いに慣れている、または学びたい、そしてシステムの更新と保護を自分で行うことに同意できる場合。より多くのメモリとディスクが必要な場合も VPS です。KVM プランは 4 GB から 32 GB の RAM があります。",
-          "**迷ったらマネージドから始めてください。** 最初の期間は安く、サーバーの知識も要りません。"
-        ]
-      },
-      {
         "heading": "Telegram と WhatsApp",
         "paragraphs": [
           "どちらのチャンネルも両方の選択肢で使えます。違いは設定する場所です。マネージドでは、Hostinger のセットアップウィザードでチャンネルを選びます。WhatsApp は QR コードを読み取り、Telegram はボットのトークンを貼り付けます。VPS では、設定に WhatsApp の番号（国番号つき）と Telegram ボットのトークンを入力する任意項目があります。ドキュメントには、VPS で WhatsApp の QR コードがどこに表示されるかは書かれていません。",
@@ -110422,6 +110447,22 @@ export const reviewsData: unknown[] = [
           "**複数の人が使う場合**（家族やチーム）：プロジェクトは一人に一つのサーバーを勧めています。VPS ならそれが簡単です。マネージドでは、一つのアカウントでいくつのインスタンスを持てるか Hostinger に確認してください。",
           "**アシスタントがメールや銀行、ほかのアカウントにアクセスする場合**： プロジェクトは、サーバーに個人のアカウントをログインさせないよう求めています。Hostinger は、アシスタント専用のメールボックスを用意することを勧めています。",
           "**VPS の場合**： インストール時に生成されるゲートウェイのトークンは保管し、アシスタントとの会話で送らないでください。"
+        ]
+      },
+      {
+        "heading": "どちらを選ぶか",
+        "paragraphs": [
+          "**マネージドを選ぶのは次の場合です：**"
+        ],
+        "bullets": [
+          "サーバーを準備せず、すぐにアシスタントを使いたい",
+          "アップデート、バックアップ、セキュリティを Hostinger に任せたい",
+          "root や Docker が何か分からない",
+          "OpenClaw を使い、同じプランで Hermes Agent や Paperclip に切り替えたい"
+        ],
+        "postParagraphs": [
+          "**VPS を選ぶのは次の場合です：** root アクセスが欲しい、同じサーバーでサイトや n8n など他のプログラムも動かしたい、サーバーの扱いに慣れている、または学びたい、そしてシステムの更新と保護を自分で行うことに同意できる場合。より多くのメモリとディスクが必要な場合も VPS です。KVM プランは 4 GB から 32 GB の RAM があります。",
+          "**迷ったらマネージドから始めてください。** 最初の期間は安く、サーバーの知識も要りません。"
         ]
       },
       {
@@ -110563,8 +110604,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你想讓助理直接運作、不必管伺服器，就選 **託管**。Hostinger 負責安裝、更新與備份。如果你想要 root（完全掌控伺服器的權限）、想在同一台機器上跑其他程式，並且願意自己更新與保護系統，就選 **VPS**。",
-          "兩種方式都可以用 Hostinger 的 AI 額度，或你自己的 API 金鑰。2026年10月21日，依 Hostinger 全球頁面（美元計價、24 個月方案），透過推薦連結的託管為 **US$ 3.99/月**，不含推薦的 VPS KVM 1 為 **US$ 6.49/月**。續訂兩者都是 **US$ 11.99/月**。"
+          "不想管伺服器就選託管，需要 root 權限、想在同一台機器上跑其他程式就選 VPS。兩種方式都可以用 Hostinger 的 AI 額度或你自己的 API 金鑰。關鍵在於你願意承擔多少維護，費用見下文「實際要花多少」。"
         ]
       },
       {
@@ -110658,22 +110698,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "該選哪一種",
-        "paragraphs": [
-          "**如果你符合以下情況，選託管：**"
-        ],
-        "bullets": [
-          "你想要助理直接上線，不想安裝或設定伺服器；",
-          "你希望 Hostinger 負責更新、備份與安全；",
-          "你不知道 root 或 Docker 是什麼；",
-          "你要用 OpenClaw，或想在同一方案中改用 Hermes Agent 或 Paperclip。"
-        ],
-        "postParagraphs": [
-          "**如果你符合以下情況，選 VPS：** 你想要 root 存取，並在同一台伺服器上跑網站或 n8n 等其他程式；你熟悉伺服器，或想學習，並願意自己更新與保護系統；或者你需要更多記憶體與硬碟。KVM 方案提供 4 GB 到 32 GB 的 RAM。",
-          "**拿不定主意，先從託管開始。** 它在首期更便宜，也不需要伺服器知識。"
-        ]
-      },
-      {
         "heading": "Telegram 與 WhatsApp",
         "paragraphs": [
           "兩種方式都可以使用這兩個頻道。差別在於設定的地方。託管版在 Hostinger 的設定精靈中選擇頻道：WhatsApp 掃描 QR code，Telegram 貼上機器人的 token。VPS 的設定中則有選填欄位，可填入 WhatsApp 號碼（含國碼）與 Telegram 機器人的 token。文件沒有說明 VPS 上的 WhatsApp QR code 會出現在哪裡。",
@@ -110703,6 +110727,22 @@ export const reviewsData: unknown[] = [
           "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
           "**助理會存取你的電子郵件、銀行或其他帳戶：** 專案要求伺服器上不要登入個人帳戶。Hostinger 建議為助理另外準備一個電子郵件信箱。",
           "**使用 VPS 時：** 安裝時產生的閘道 token 請妥善保存，不要在與助理的對話中傳送。"
+        ]
+      },
+      {
+        "heading": "該選哪一種",
+        "paragraphs": [
+          "**如果你符合以下情況，選託管：**"
+        ],
+        "bullets": [
+          "你想要助理直接上線，不想安裝或設定伺服器；",
+          "你希望 Hostinger 負責更新、備份與安全；",
+          "你不知道 root 或 Docker 是什麼；",
+          "你要用 OpenClaw，或想在同一方案中改用 Hermes Agent 或 Paperclip。"
+        ],
+        "postParagraphs": [
+          "**如果你符合以下情況，選 VPS：** 你想要 root 存取，並在同一台伺服器上跑網站或 n8n 等其他程式；你熟悉伺服器，或想學習，並願意自己更新與保護系統；或者你需要更多記憶體與硬碟。KVM 方案提供 4 GB 到 32 GB 的 RAM。",
+          "**拿不定主意，先從託管開始。** 它在首期更便宜，也不需要伺服器知識。"
         ]
       },
       {
@@ -110844,8 +110884,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果你想让助理直接运行、不必管服务器，就选 **托管**。Hostinger 负责安装、更新和备份。如果你想要 root（完全掌控服务器的权限）、想在同一台机器上跑其他程序，并且愿意自己更新和保护系统，就选 **VPS**。",
-          "两种方式都可以用 Hostinger 的 AI 额度，或你自己的 API 密钥。2026年10月21日，依 Hostinger 全球页面（美元计价、24 个月套餐），通过推荐链接的托管为 **US$ 3.99/月**，不含推荐的 VPS KVM 1 为 **US$ 6.49/月**。续费两者都是 **US$ 11.99/月**。"
+          "不想管服务器就选托管，需要 root 权限、想在同一台机器上跑其他程序就选 VPS。两种方式都可以用 Hostinger 的 AI 额度或你自己的 API 密钥。关键在于你愿意承担多少维护，费用见下文“实际要花多少”。"
         ]
       },
       {
@@ -110939,22 +110978,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "该选哪一种",
-        "paragraphs": [
-          "**如果你符合以下情况，选托管：**"
-        ],
-        "bullets": [
-          "你想让助理直接上线，不想安装或配置服务器；",
-          "你希望 Hostinger 负责更新、备份和安全；",
-          "你不知道 root 或 Docker 是什么；",
-          "你要用 OpenClaw，或想在同一套餐中改用 Hermes Agent 或 Paperclip。"
-        ],
-        "postParagraphs": [
-          "**如果你符合以下情况，选 VPS：** 你想要 root 访问，并在同一台服务器上跑网站或 n8n 等其他程序；你熟悉服务器，或想学习，并愿意自己更新和保护系统；或者你需要更多内存和硬盘。KVM 套餐提供 4 GB 到 32 GB 的 RAM。",
-          "**拿不准，先从托管开始。** 它首期更便宜，也不需要服务器知识。"
-        ]
-      },
-      {
         "heading": "Telegram 与 WhatsApp",
         "paragraphs": [
           "两种方式都可以使用这两个渠道。区别在于在哪里设置。托管版在 Hostinger 的设置向导中选择渠道：WhatsApp 扫描 QR code，Telegram 粘贴机器人的 token。VPS 的设置中则有选填项，可以填入 WhatsApp 号码（含国家代码）和 Telegram 机器人的 token。文档没有说明 VPS 上的 WhatsApp QR code 会出现在哪里。",
@@ -110984,6 +111007,22 @@ export const reviewsData: unknown[] = [
           "**多人使用**（家人或团队）：项目建议一人一台服务器。VPS 做起来很直接；托管方面，请向 Hostinger 确认一个账户能有几个实例。",
           "**助理会访问你的邮箱、银行或其他账户：** 项目要求服务器上不要登录个人账户。Hostinger 建议为助理另外准备一个邮箱。",
           "**使用 VPS 时：** 安装时生成的网关 token 请妥善保存，不要在和助理的对话中发送。"
+        ]
+      },
+      {
+        "heading": "该选哪一种",
+        "paragraphs": [
+          "**如果你符合以下情况，选托管：**"
+        ],
+        "bullets": [
+          "你想让助理直接上线，不想安装或配置服务器；",
+          "你希望 Hostinger 负责更新、备份和安全；",
+          "你不知道 root 或 Docker 是什么；",
+          "你要用 OpenClaw，或想在同一套餐中改用 Hermes Agent 或 Paperclip。"
+        ],
+        "postParagraphs": [
+          "**如果你符合以下情况，选 VPS：** 你想要 root 访问，并在同一台服务器上跑网站或 n8n 等其他程序；你熟悉服务器，或想学习，并愿意自己更新和保护系统；或者你需要更多内存和硬盘。KVM 套餐提供 4 GB 到 32 GB 的 RAM。",
+          "**拿不准，先从托管开始。** 它首期更便宜，也不需要服务器知识。"
         ]
       },
       {
@@ -111125,14 +111164,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "モデルがプロバイダー側にある場合、つまり自分の API キーか Hostinger の AI クレジットを使う場合、リクエストは AI 会社に送られ、モデルはあなたのサーバーでは動きません。API キーは、OpenClaw が有料のプロバイダーに応答を頼むときに使うパスワードです。この場合、ドキュメントにはメモリの数字がなく、サーバーはプログラムを動かすだけです。そのため出発点は 4 GB RAM の KVM 1 です。これは私たちがドキュメントを読んでの判断で、実測ではありません。",
-          "サーバー上で動くローカルモデルを使うと、計算が変わります。ドキュメントは、最も小さいローカルレシピ（コンテキスト 64K）に対して 8 GiB（約 8.6 GB）のメモリを下限として挙げています。8 GB の KVM 2 はその限界ぎりぎりです。16 GB の KVM 4 が、最初に余裕のあるプランです。",
-          "サーバーの管理をしたくない人は [マネージド](/ja/reviews/openclaw-hostinger-managed-or-vps-ja) を見てください。紹介リンク付きのマネージドは月 US$ 3.99 で、Hostinger がアシスタントをインストールし、更新します。紹介なしの KVM 1 は US$ 6.49 です（紹介付きの VPS 価格はカートで確認）。"
+          "モデルがプロバイダー側なら、API キーか Hostinger のクレジットで 4 GB の KVM 1 が出発点です。ローカルモデルなら公式は 8 GiB を求め、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを管理したくない人は、後述のマネージドを見てください。"
         ]
       },
       {
         "heading": "公式ドキュメントが要件について言うこと（言わないこと）",
         "paragraphs": [
+          "OpenClaw は、自分の API キーか Hostinger の AI クレジットで使うプロバイダー側のモデルも、サーバー上で動くローカルモデルも使えます。API キーは、OpenClaw が有料のプロバイダーに応答を頼むときに使うパスワードです。モデルがプロバイダー側にある場合、リクエストは AI 会社に送られ、サーバーはプログラムを動かすだけです。",
           "公式のインストールページとローカルモデルのページ（2026年10月21日に読んだもの）は、次のように書いています："
         ],
         "bullets": [
@@ -111182,7 +111220,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どの KVM プランを選ぶか",
         "paragraphs": [
-          "KVM は Hostinger の仮想サーバープランの名前です。表には 4 つのプランがあり、24 か月プランの価格を 2026年10月21日に読みました。各プランをドキュメントと照らして読んでください："
+          "KVM は Hostinger の仮想サーバープランの名前です。表には 4 つのプランがあり、24 か月プランの価格を 2026年10月21日に読みました。各プランをドキュメントと照らして読んでください。これは私たちの読み方で、実測ではありません："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ja.webp",
@@ -111288,7 +111326,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "VPS では、Hostinger が Docker（アプリを 1 つずつコンテナで隔離して動かす仕組み）で OpenClaw をインストールします。その後のメンテナンスはあなたの担当です。"
+          "VPS では、Hostinger が Docker（アプリを 1 つずつコンテナで隔離して動かす仕組み）で OpenClaw をインストールします。その後のメンテナンスはあなたの担当です。",
+          "サーバーの管理をしたくない人は [マネージド](/ja/reviews/openclaw-hostinger-managed-or-vps-ja) を見てください。Hostinger がアシスタントをインストールし、更新します。"
         ]
       },
       {
@@ -111304,6 +111343,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "大事なルールはこれです。Oracle は、アイドル状態のインスタンスを回収することがあります。7 日間のあいだ、CPU の 95 パーセンタイル使用率が 20% 未満、ネットワーク使用率も 20% 未満、A1 ではメモリ使用率も 20% 未満だと、アイドルと見なされます。大半の時間止まっているアシスタントは、このルールに引っかかることがあります。ドキュメントには、回収の前の事前通知についての記述はありません。"
+        ]
+      },
+      {
+        "heading": "選び方のまとめ",
+        "paragraphs": [
+          "プランの選び方は、AI モデルをどこで動かすかと、サーバー作業をどこまで引き受けるかで決まります。"
+        ],
+        "bullets": [
+          "クラウドのモデル（API キーか Hostinger の AI クレジット）：出発点は 4 GB の KVM 1。",
+          "ローカルモデル：公式の下限 8 GiB に対して余裕がある最初のプランは 16 GB の KVM 4。32 GB の KVM 8 は、より大きなローカルモデルを動かす場合にだけ意味があります。",
+          "サーバーの管理をしたくない場合：Hostinger がアシスタントをインストールして更新するマネージド。",
+          "無料で試す場合：Oracle Always Free。ただし Oracle は使われていないインスタンスを回収することがあります。"
         ]
       },
       {
@@ -111403,14 +111454,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "모델이 제공업체에 남는 경우, 즉 직접 가진 API 키나 호스팅어의 AI 크레딧을 쓴다면 요청은 AI 회사로 가고 모델은 여러분의 서버에서 돌지 않습니다. API 키는 OpenClaw가 제공업체에 응답을 요청할 때 쓰는 비밀번호이며, 제공업체가 사용량만큼 요금을 받습니다. 이 경우 문서는 메모리 숫자를 주지 않고, 서버는 프로그램만 실행합니다. 그래서 RAM 4GB의 KVM 1이 출발점입니다. 이것은 문서를 읽은 우리의 해석이지 측정 결과가 아닙니다.",
-          "서버에서 직접 도는 로컬 모델을 쓰면 계산이 달라집니다. 문서는 가장 작은 로컬 모델 레시피에 대해 64K 컨텍스트 기준 최소 8 GiB 메모리(약 8.6GB)를 제시합니다. 8GB의 KVM 2는 그 한계선에 있고, 16GB의 KVM 4가 여유가 있는 첫 플랜입니다.",
-          "서버를 직접 관리하고 싶지 않다면 [관리형](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)을 살펴보세요. 추천 링크를 쓰면 24개월 플랜에서 월 **US$ 3.99**이고, 설치와 업데이트는 호스팅어가 맡습니다. KVM 1은 링크 없이 월 US$ 6.49이며, 링크를 쓰면 최종 금액은 장바구니에서 확인합니다."
+          "모델이 제공업체에 있다면 API 키나 호스팅어 크레딧을 쓰는 4GB의 KVM 1이 출발점입니다. 로컬 모델은 문서가 8 GiB를 요구하며, 16GB의 KVM 4가 여유가 있는 첫 플랜입니다. 서버를 직접 관리하고 싶지 않다면 아래의 관리형을 살펴보세요."
         ]
       },
       {
         "heading": "공식 문서가 요구 사항에 대해 말하는 것 (그리고 말하지 않는 것)",
         "paragraphs": [
+          "OpenClaw는 직접 가진 API 키나 호스팅어의 AI 크레딧으로 쓰는 제공업체 쪽 모델, 또는 서버에서 직접 도는 로컬 모델을 쓸 수 있습니다. API 키는 OpenClaw가 제공업체에 응답을 요청할 때 쓰는 비밀번호이며, 제공업체가 사용량만큼 요금을 받습니다. 모델이 제공업체에 있으면 요청은 AI 회사로 가고, 서버는 프로그램만 실행합니다.",
           "2026년 10월 21일에 읽은 공식 설치 페이지와 로컬 모델 페이지는 다음과 같이 말합니다:"
         ],
         "bullets": [
@@ -111460,7 +111510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "맞는 KVM 플랜 고르기",
         "paragraphs": [
-          "KVM은 호스팅어 가상 서버 플랜의 이름입니다. 표에는 2026년 10월 21일에 읽은 24개월 플랜 가격이 있습니다. 추천 링크 가격은 읽지 않았으므로 \"장바구니에서 확인\"으로 적었습니다. 각 플랜을 문서와 함께 읽으세요:"
+          "KVM은 호스팅어 가상 서버 플랜의 이름입니다. 표에는 2026년 10월 21일에 읽은 24개월 플랜 가격이 있습니다. 추천 링크 가격은 읽지 않았으므로 \"장바구니에서 확인\"으로 적었습니다. 각 플랜을 문서와 함께 읽으세요. 이는 우리의 해석이며 측정 결과가 아닙니다:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-ko.webp",
@@ -111566,7 +111616,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "VPS에서는 호스팅어가 Docker로 OpenClaw를 설치합니다. Docker는 각 앱을 컨테이너 안에 격리해 실행하는 프로그램입니다. 그 이후의 관리는 여러분의 몫입니다."
+          "VPS에서는 호스팅어가 Docker로 OpenClaw를 설치합니다. Docker는 각 앱을 컨테이너 안에 격리해 실행하는 프로그램입니다. 그 이후의 관리는 여러분의 몫입니다.",
+          "서버를 직접 관리하고 싶지 않다면 [관리형](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)을 살펴보세요. 설치와 업데이트는 호스팅어가 맡습니다."
         ]
       },
       {
@@ -111582,6 +111633,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "중요한 규칙이 있습니다. Oracle은 유휴 상태인 인스턴스를 회수할 수 있다고 말합니다. 7일 동안 CPU 사용률(95 퍼센타일)이 20% 미만이고, 네트워크 사용률도 20% 미만이며, A1에서는 메모리 사용률까지 20% 미만이면 유휴로 봅니다. 대부분의 시간 멈춰 있는 어시스턴트는 이 규칙에 걸릴 수 있습니다. 문서는 회수 전 사전 알림을 설명하지 않습니다."
+        ]
+      },
+      {
+        "heading": "무엇을 고를까, 요약",
+        "paragraphs": [
+          "플랜 선택은 AI 모델이 어디서 도는지, 서버 작업을 얼마나 맡을 수 있는지에 따라 달라집니다."
+        ],
+        "bullets": [
+          "클라우드 모델(API 키나 호스팅어 AI 크레딧): 4GB의 KVM 1이 출발점.",
+          "로컬 모델: 공식 최소 8 GiB보다 여유가 있는 첫 플랜은 16GB의 KVM 4. 32GB의 KVM 8은 더 큰 로컬 모델에서만 의미가 있습니다.",
+          "서버를 직접 관리하고 싶지 않다면: 호스팅어가 어시스턴트를 설치하고 업데이트하는 관리형.",
+          "무료로 시험하려면: Oracle Always Free. 다만 Oracle이 사용하지 않는 인스턴스를 회수할 수 있습니다."
         ]
       },
       {
@@ -111683,14 +111746,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果模型在供应商那边，也就是你使用自己的 API 密钥或 Hostinger 的 AI 额度，请求会发送到 AI 公司，模型不会在你的服务器上运行。API 密钥是 OpenClaw 向付费供应商请求回复时使用的密码。这种情况下，文档没有内存数字，服务器只负责运行程序。所以起点是 4 GB RAM 的 KVM 1。这是我们读文档后的判断，不是实测结果。",
-          "如果改用本地模型，模型在服务器上运行，计算就不一样了。文档对最小的本地配方（上下文 64K）给出 8 GiB（约 8.6 GB）的内存下限。8 GB 的 KVM 2 刚好卡在这条线上。16 GB 的 KVM 4 是第一个有余量的套餐。",
-          "如果你不想管服务器，可以看[托管套餐](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)。有推荐链接的托管是每月 US$ 3.99，Hostinger 会帮你安装助理并更新。没有推荐链接的 KVM 1 是 US$ 6.49（有推荐链接的 VPS 价格请在购物车确认）。"
+          "模型在供应商那边时，用 API 密钥或 Hostinger 额度，起点是 4 GB 的 KVM 1。用本地模型，文档要求 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。不想管服务器的人，请看下文的托管套餐。"
         ]
       },
       {
         "heading": "官方文档说了什么（又没说什么）",
         "paragraphs": [
+          "OpenClaw 可以使用留在供应商那边的 AI 模型（用你自己的 API 密钥或 Hostinger 的 AI 额度），也可以使用在服务器上运行的本地模型。API 密钥是 OpenClaw 向付费供应商请求回复时使用的密码。模型在供应商那边时，请求会发送到 AI 公司，服务器只负责运行程序。",
           "官方的安装页和本地模型页（2026年10月21日阅读），内容如下："
         ],
         "bullets": [
@@ -111740,7 +111802,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "该选哪个 KVM 套餐",
         "paragraphs": [
-          "KVM 是 Hostinger 虚拟服务器套餐的名称。表格列出四个套餐，价格是 2026年10月21日读取的 24 个月套餐。请对照文档来看每个套餐："
+          "KVM 是 Hostinger 虚拟服务器套餐的名称。表格列出四个套餐，价格是 2026年10月21日读取的 24 个月套餐。请对照文档来看每个套餐；这是我们的判断，不是实测："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hans.webp",
@@ -111846,7 +111908,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "在 VPS 上，Hostinger 会用 Docker（一种把每个应用程序隔离在容器中运行的程序）替你安装 OpenClaw。之后的维护就由你负责。"
+          "在 VPS 上，Hostinger 会用 Docker（一种把每个应用程序隔离在容器中运行的程序）替你安装 OpenClaw。之后的维护就由你负责。",
+          "如果你不想管服务器，可以看[托管套餐](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)，由 Hostinger 帮你安装助理并更新。"
         ]
       },
       {
@@ -111862,6 +111925,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "关键规则是：Oracle 可能回收闲置的实例。在 7 天内，若 CPU 第 95 百分位使用率低于 20%、网络使用率低于 20%，而且 A1 的内存使用率也低于 20%，就会被视为闲置。大部分时间都静止的助理，可能会碰到这条规则。文档没有说明回收前是否会事先通知。"
+        ]
+      },
+      {
+        "heading": "怎么选，简要总结",
+        "paragraphs": [
+          "选套餐取决于 AI 模型在哪里运行，以及你愿意承担多少服务器工作。"
+        ],
+        "bullets": [
+          "云端模型（API 密钥或 Hostinger 的 AI 额度）：以 4 GB 的 KVM 1 为起点。",
+          "本地模型：高于官方 8 GiB 下限、有余量的第一个套餐是 16 GB 的 KVM 4。32 GB 的 KVM 8 只有在运行更大的本地模型时才有意义。",
+          "不想管服务器：托管套餐，由 Hostinger 安装并更新助理。",
+          "免费试用：Oracle Always Free，但 Oracle 可能回收闲置的实例。"
         ]
       },
       {
@@ -111962,14 +112037,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果模型在供應商那邊，也就是你使用自己的 API 金鑰或 Hostinger 的 AI 額度，請求會送到 AI 公司，模型不會在你的伺服器上執行。API 金鑰是 OpenClaw 向付費供應商請求回覆時使用的密碼。這種情況下，文件沒有記憶體數字，伺服器只負責運行程式。所以起點是 4 GB RAM 的 KVM 1。這是我們讀文件後的判斷，不是實測結果。",
-          "如果改用本機模型，模型在伺服器上執行，計算就不一樣了。文件對最小的本機配方（上下文 64K）給出 8 GiB（約 8.6 GB）的記憶體下限。8 GB 的 KVM 2 剛好卡在這條線上。16 GB 的 KVM 4 是第一個有餘裕的方案。",
-          "如果你不想管伺服器，可以看[託管方案](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)。有推薦連結的託管是每月 US$ 3.99，Hostinger 會幫你安裝助理並更新。沒有推薦連結的 KVM 1 是 US$ 6.49（有推薦連結的 VPS 價格請在購物車確認）。"
+          "模型在供應商那邊時，用 API 金鑰或 Hostinger 額度，起點是 4 GB 的 KVM 1。用本機模型，文件要求 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下文的託管方案。"
         ]
       },
       {
         "heading": "官方文件說了什麼（又沒說什麼）",
         "paragraphs": [
+          "OpenClaw 可以使用留在供應商那邊的 AI 模型（用你自己的 API 金鑰或 Hostinger 的 AI 額度），也可以使用在伺服器上執行的本機模型。API 金鑰是 OpenClaw 向付費供應商請求回覆時使用的密碼。模型在供應商那邊時，請求會送到 AI 公司，伺服器只負責運行程式。",
           "官方的安裝頁和本機模型頁（2026年10月21日閱讀），內容如下："
         ],
         "bullets": [
@@ -112019,7 +112093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "該選哪個 KVM 方案",
         "paragraphs": [
-          "KVM 是 Hostinger 虛擬伺服器方案的名稱。表格列出四個方案，價格是 2026年10月21日讀取的 24 個月方案。請對照文件來看每個方案："
+          "KVM 是 Hostinger 虛擬伺服器方案的名稱。表格列出四個方案，價格是 2026年10月21日讀取的 24 個月方案。請對照文件來看每個方案；這是我們的判斷，不是實測："
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
@@ -112125,7 +112199,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "在 VPS 上，Hostinger 會用 Docker（一種把每個應用程式隔離在容器中執行的程式）替你安裝 OpenClaw。之後的維護就由你負責。"
+          "在 VPS 上，Hostinger 會用 Docker（一種把每個應用程式隔離在容器中執行的程式）替你安裝 OpenClaw。之後的維護就由你負責。",
+          "如果你不想管伺服器，可以看[託管方案](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，由 Hostinger 幫你安裝助理並更新。"
         ]
       },
       {
@@ -112141,6 +112216,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "關鍵規則是：Oracle 可能回收閒置的執行個體。在 7 天內，若 CPU 第 95 百分位使用率低於 20%、網路使用率低於 20%，而且 A1 的記憶體使用率也低於 20%，就會被視為閒置。大部分時間都靜止的助理，可能會碰到這條規則。文件沒有說明回收前是否會事先通知。"
+        ]
+      },
+      {
+        "heading": "怎麼選，簡要總結",
+        "paragraphs": [
+          "選方案取決於 AI 模型在哪裡執行，以及你願意承擔多少伺服器工作。"
+        ],
+        "bullets": [
+          "雲端模型（API 金鑰或 Hostinger 的 AI 額度）：以 4 GB 的 KVM 1 為起點。",
+          "本機模型：高於官方 8 GiB 下限、有餘裕的第一個方案是 16 GB 的 KVM 4。32 GB 的 KVM 8 只有在執行更大的本機模型時才有意義。",
+          "不想管伺服器：託管方案，由 Hostinger 安裝並更新助理。",
+          "免費試用：Oracle Always Free，但 Oracle 可能回收閒置的實例。"
         ]
       },
       {
@@ -112241,14 +112328,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If the AI model stays with the provider, that is, you use your own API key or Hostinger's AI credits, the request goes to the AI company and the model does not run on your server. An API key is the password OpenClaw uses to ask a provider for answers, and the provider charges for each use. In that case the documentation gives no memory number, and the server only runs the program. That is why KVM 1, with 4 GB of RAM, is the starting point. This is our reading of the documentation, not a measurement.",
-          "With a local model, which runs on the server itself, the math changes. The documentation sets a floor of 8 GiB of memory (about 8.6 GB) for its smallest local recipe, with a 64K context. KVM 2, with 8 GB, sits right at the limit. KVM 4, with 16 GB, is the first with room to spare.",
-          "If you don't want to look after a server, look at the [managed plan](/en/reviews/openclaw-hostinger-managed-or-vps). With the link it costs US$3.99/month over the first 24-month period, while KVM 1 costs US$6.49/month without the link (with the link, its price is shown in the cart). Hostinger installs and updates the assistant."
+          "With the AI model at the provider, via your API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. With a local model, the documentation asks for 8 GiB, and KVM 4, with 16 GB, is the first with room. If you don't want to run a server, see the managed plan below."
         ]
       },
       {
         "heading": "What the official documentation says (and doesn't say) about requirements",
         "paragraphs": [
+          "OpenClaw can use an AI model that stays with the provider, through your API key or Hostinger's AI credits, or a local model, which runs on the server itself. An API key is the password OpenClaw uses to ask a provider for answers, and the provider charges for each use. With the model at the provider, the request goes to the AI company and the server only runs the program.",
           "The official installation and local-model pages, read on October 21, 2026, say the following:"
         ],
         "bullets": [
@@ -112298,7 +112384,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Which KVM plan to choose",
         "paragraphs": [
-          "KVM is the name of Hostinger's virtual server plans. The table has the four, with prices for 24-month plans read on October 21, 2026. The price with the referral link is shown in the cart, because we did not read it on the global page. Read each plan against the documentation:"
+          "KVM is the name of Hostinger's virtual server plans. The table has the four, with prices for 24-month plans read on October 21, 2026. The price with the referral link is shown in the cart, because we did not read it on the global page. Read each plan against the documentation; this is our reading of it, not a measurement:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
@@ -112404,7 +112490,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "On the VPS, Hostinger installs OpenClaw with Docker, a program that runs each application isolated in a container. From then on, maintenance is yours."
+          "On the VPS, Hostinger installs OpenClaw with Docker, a program that runs each application isolated in a container. From then on, maintenance is yours.",
+          "If you don't want to look after a server, look at the [managed plan](/en/reviews/openclaw-hostinger-managed-or-vps), where Hostinger installs and updates the assistant."
         ]
       },
       {
@@ -112420,6 +112507,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "The rule that matters: Oracle says it can reclaim an idle instance. It is considered idle when, over a 7-day period, CPU usage at the 95th percentile stays below 20%, network usage stays below 20% and, on the A1 instances, memory usage also stays below 20%. An assistant that sits idle most of the time can fall under this rule. The documentation does not describe a notice before reclamation."
+        ]
+      },
+      {
+        "heading": "Which to choose, in short",
+        "paragraphs": [
+          "The choice of plan follows where the AI model runs and how much server work you want."
+        ],
+        "bullets": [
+          "Cloud model, through your API key or Hostinger's AI credits: KVM 1, with 4 GB, as the starting point.",
+          "Local model: KVM 4, with 16 GB, the first plan with room above the official 8 GiB floor. KVM 8, with 32 GB, only makes sense for a larger local model.",
+          "Not wanting to look after a server: the managed plan, where Hostinger installs and updates the assistant.",
+          "To test for free: Oracle Always Free, knowing Oracle may reclaim an idle instance."
         ]
       },
       {
@@ -112519,14 +112618,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Wenn das KI-Modell beim Anbieter bleibt, also wenn Sie Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger nutzen, geht die Anfrage an das KI-Unternehmen, und das Modell läuft nicht auf Ihrem Server. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet die Nutzung ab. In diesem Fall nennt die Dokumentation keine Speicherangabe, und der Server führt nur das Programm aus. Deshalb ist der KVM 1 mit 4 GB RAM der Ausgangspunkt. Das ist unsere Lesart der Dokumentation, keine Messung.",
-          "Mit einem lokalen Modell, das auf dem Server selbst läuft, ändert sich die Rechnung. Die Dokumentation nennt für das kleinste lokale Rezept eine Untergrenze von 8 GiB Speicher (etwa 8,6 GB) bei 64K Kontext. Der KVM 2 mit 8 GB liegt genau an dieser Grenze. Der KVM 4 mit 16 GB ist der erste mit Reserve.",
-          "Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen. Mit dem Empfehlungslink kostet sie 3,99 USD pro Monat im 24-Monats-Plan, und Hostinger installiert und aktualisiert den Assistenten. Der KVM 1 kostet ohne Link 6,49 USD pro Monat; mit dem Link zählt der Endpreis im Warenkorb."
+          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste mit Reserve. Wer keinen Server betreuen will, sieht sich die verwaltete Option weiter unten an."
         ]
       },
       {
         "heading": "Was die offizielle Dokumentation sagt (und nicht sagt) zu Anforderungen",
         "paragraphs": [
+          "OpenClaw kann ein KI-Modell nutzen, das beim Anbieter bleibt, über Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger, oder ein lokales Modell, das auf dem Server selbst läuft. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet die Nutzung ab. Liegt das Modell beim Anbieter, geht die Anfrage an das KI-Unternehmen, und der Server führt nur das Programm aus.",
           "Die offiziellen Seiten zur Installation und zu lokalen Modellen, gelesen am 21.10.2026, sagen Folgendes:"
         ],
         "bullets": [
@@ -112576,7 +112674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Welchen KVM-Tarif wählen",
         "paragraphs": [
-          "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt die vier, mit Preisen für 24-Monats-Pläne vom 21.10.2026. Den Preis mit Empfehlungslink haben wir nicht gelesen, deshalb steht dort „im Warenkorb“. Lesen Sie jeden Tarif neben der Dokumentation:"
+          "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt die vier, mit Preisen für 24-Monats-Pläne vom 21.10.2026. Den Preis mit Empfehlungslink haben wir nicht gelesen, deshalb steht dort „im Warenkorb“. Lesen Sie jeden Tarif neben der Dokumentation; das ist unsere Lesart, keine Messung:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
@@ -112682,7 +112780,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ab dann liegt die Wartung bei Ihnen."
+          "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ab dann liegt die Wartung bei Ihnen.",
+          "Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen, bei der Hostinger den Assistenten installiert und aktualisiert."
         ]
       },
       {
@@ -112698,6 +112797,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Die Regel, die ins Gewicht fällt: Oracle sagt, dass es eine untätige Instanz zurücknehmen kann. Sie gilt als untätig, wenn in einem Zeitraum von 7 Tagen die CPU-Auslastung im 95. Perzentil unter 20 % liegt, die Netzwerkauslastung unter 20 % und bei den A1-Instanzen auch die Speicherauslastung unter 20 % bleibt. Ein Assistent, der den größten Teil der Zeit still steht, kann unter diese Regel fallen. Die Dokumentation beschreibt keine Vorwarnung vor der Rücknahme."
+        ]
+      },
+      {
+        "heading": "Was Sie wählen sollten, kurz gesagt",
+        "paragraphs": [
+          "Die Wahl des Tarifs richtet sich danach, wo das KI-Modell läuft und wie viel Serverarbeit Sie übernehmen wollen."
+        ],
+        "bullets": [
+          "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt.",
+          "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. KVM 8 mit 32 GB ergibt nur bei einem größeren lokalen Modell Sinn.",
+          "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert.",
+          "Zum kostenlosen Testen: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückfordern kann."
         ]
       },
       {
@@ -112799,14 +112910,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si le modèle d'IA reste chez le fournisseur, c'est-à-dire si vous utilisez votre propre clé d'API ou les crédits d'IA de Hostinger, la requête part chez l'entreprise d'IA et le modèle ne tourne pas sur votre serveur. Une clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur, qui facture chaque usage. Dans ce cas, la documentation ne donne aucun chiffre de mémoire, et le serveur ne fait que faire tourner le programme. C'est pourquoi le KVM 1, avec 4 Go de RAM, est le point de départ. C'est notre lecture de la documentation, pas une mesure.",
-          "Avec un modèle local, qui tourne sur le serveur lui-même, le calcul change. La documentation fixe un plancher de 8 GiB de mémoire (environ 8,6 Go) pour sa plus petite recette locale, avec un contexte de 64K. Le KVM 2, avec 8 Go, se trouve juste à la limite. Le KVM 4, avec 16 Go, est le premier qui laisse une marge.",
-          "Si vous ne voulez pas vous occuper d'un serveur, regardez l'offre [gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps). Avec le lien, elle coûte 3,99 US$/mois sur la première période de 24 mois, et Hostinger installe et met à jour l'assistant. Le KVM 1 est affiché à 6,49 US$/mois sans le lien ; avec le lien, son prix s'affiche dans le panier."
+          "Avec le modèle d'IA chez le fournisseur, par votre clé d'API ou les crédits de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier qui laisse une marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
         ]
       },
       {
         "heading": "Ce que dit la documentation officielle (et ce qu'elle ne dit pas) sur les besoins",
         "paragraphs": [
+          "OpenClaw peut utiliser un modèle d'IA qui reste chez le fournisseur, avec votre clé d'API ou les crédits d'IA de Hostinger, ou un modèle local, qui tourne sur le serveur lui-même. Une clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur, qui facture chaque usage. Avec le modèle chez le fournisseur, la requête part chez l'entreprise d'IA et le serveur ne fait que faire tourner le programme.",
           "Les pages officielles d'installation et de modèles locaux, consultées le 21 octobre 2026, indiquent ce qui suit :"
         ],
         "bullets": [
@@ -112856,7 +112966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quel forfait KVM choisir",
         "paragraphs": [
-          "KVM est le nom des forfaits de serveur virtuel d'Hostinger. Le tableau en présente quatre, avec les prix des forfaits de 24 mois relevés le 21 octobre 2026. Le prix avec le lien de parrainage s'affiche dans le panier, parce que nous ne l'avons pas relevé sur la page mondiale. Lisez chaque forfait au regard de la documentation :"
+          "KVM est le nom des forfaits de serveur virtuel d'Hostinger. Le tableau en présente quatre, avec les prix des forfaits de 24 mois relevés le 21 octobre 2026. Le prix avec le lien de parrainage s'affiche dans le panier, parce que nous ne l'avons pas relevé sur la page mondiale. Lisez chaque forfait au regard de la documentation  ; c'est notre lecture, pas une mesure:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
@@ -112962,7 +113072,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Sur le VPS, Hostinger installe OpenClaw avec Docker, un logiciel qui fait tourner chaque application isolée dans un conteneur. Ensuite, la maintenance est à votre charge."
+          "Sur le VPS, Hostinger installe OpenClaw avec Docker, un logiciel qui fait tourner chaque application isolée dans un conteneur. Ensuite, la maintenance est à votre charge.",
+          "Si vous ne voulez pas vous occuper d'un serveur, regardez l'offre [gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps), où Hostinger installe et met à jour l'assistant."
         ]
       },
       {
@@ -112978,6 +113089,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "La règle qui compte : Oracle dit pouvoir récupérer une instance inactive. Elle est considérée comme inactive lorsque, sur une période de 7 jours, l'usage du CPU au 95e percentile reste sous 20 %, l'usage du réseau reste sous 20 % et, sur les A1, l'usage de la mémoire reste aussi sous 20 %. Un assistant qui reste à l'arrêt la plus grande partie du temps peut tomber sous cette règle. La documentation ne décrit pas de préavis avant la récupération."
+        ]
+      },
+      {
+        "heading": "Lequel choisir, en résumé",
+        "paragraphs": [
+          "Le choix du forfait dépend de l'endroit où tourne le modèle d'IA et de la part de travail serveur que vous acceptez."
+        ],
+        "bullets": [
+          "Modèle dans le cloud, par votre clé d'API ou les crédits de Hostinger : KVM 1, avec 4 Go, comme point de départ.",
+          "Modèle local : KVM 4, avec 16 Go, le premier forfait avec une marge au-dessus du plancher officiel de 8 GiB. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
+          "Pour ne pas gérer de serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+          "Pour tester gratuitement : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
         ]
       },
       {
@@ -113078,14 +113201,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Si el modelo de IA queda en el proveedor, es decir, usas tu propia clave de API o los créditos de IA de Hostinger, la petición va a la empresa de IA y el modelo no corre en tu servidor. La clave de API es la contraseña que OpenClaw usa para pedir respuestas a un proveedor, que cobra por cada uso. En ese caso, la documentación no da ningún número de memoria, y el servidor solo ejecuta el programa. Por eso el KVM 1, con 4 GB de RAM, es el punto de partida. Es nuestra lectura de la documentación, no una medición.",
-          "Con un modelo local, que corre en el propio servidor, la cuenta cambia. La documentación fija un piso de 8 GiB de memoria (unos 8,6 GB) para su receta local más pequeña, con un contexto de 64K. El KVM 2, con 8 GB, queda justo en el límite. El KVM 4, con 16 GB, es el primero con margen.",
-          "Si no quieres encargarte de un servidor, mira el [plan gestionado](/es/reviews/openclaw-hostinger-gestionado-o-vps). Con el enlace cuesta US$ 3,99/mes, frente a US$ 6,49 del KVM 1 sin el enlace, en el primer período de 24 meses, y Hostinger instala y actualiza el asistente."
+          "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la documentación pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres encargarte de un servidor, mira el plan gestionado, más abajo."
         ]
       },
       {
         "heading": "Qué dice la documentación oficial (y qué no dice) sobre los requisitos",
         "paragraphs": [
+          "OpenClaw puede usar un modelo de IA que queda en el proveedor, con tu clave de API o los créditos de IA de Hostinger, o un modelo local, que corre en el propio servidor. La clave de API es la contraseña que OpenClaw usa para pedir respuestas a un proveedor, que cobra por cada uso. Con el modelo en el proveedor, la petición va a la empresa de IA y el servidor solo ejecuta el programa.",
           "Las páginas oficiales de instalación y de modelos locales, consultadas el 21 de octubre de 2026, dicen lo siguiente:"
         ],
         "bullets": [
@@ -113135,7 +113257,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué plan KVM elegir",
         "paragraphs": [
-          "KVM es el nombre de los planes de servidor virtual de Hostinger. La tabla trae los cuatro, con precios de planes de 24 meses consultados el 21 de octubre de 2026. El precio con el enlace de referido aparece en el carrito, porque no lo leímos en la página global. Lee cada plan frente a la documentación:"
+          "KVM es el nombre de los planes de servidor virtual de Hostinger. La tabla trae los cuatro, con precios de planes de 24 meses consultados el 21 de octubre de 2026. El precio con el enlace de referido aparece en el carrito, porque no lo leímos en la página global. Lee cada plan frente a la documentación; es nuestra lectura, no una medición:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-es.webp",
@@ -113241,7 +113363,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En el VPS, Hostinger instala OpenClaw con Docker, un programa que ejecuta cada aplicación aislada en un contenedor. De ahí en adelante, el mantenimiento es tuyo."
+          "En el VPS, Hostinger instala OpenClaw con Docker, un programa que ejecuta cada aplicación aislada en un contenedor. De ahí en adelante, el mantenimiento es tuyo.",
+          "Si no quieres encargarte de un servidor, mira el [plan gestionado](/es/reviews/openclaw-hostinger-gestionado-o-vps), en el que Hostinger instala y actualiza el asistente."
         ]
       },
       {
@@ -113257,6 +113380,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "La regla que pesa: Oracle dice que puede recuperar una instancia ociosa. Se considera ociosa cuando, en un período de 7 días, el uso de CPU en el percentil 95 queda por debajo del 20 %, el uso de red queda por debajo del 20 % y, en las A1, el uso de memoria también queda por debajo del 20 %. Un asistente que pasa parado la mayor parte del tiempo puede caer en esta regla. La documentación no describe un aviso previo a la recuperación."
+        ]
+      },
+      {
+        "heading": "Cuál elegir, en resumen",
+        "paragraphs": [
+          "La elección del plan depende de dónde corre el modelo de IA y de cuánto trabajo de servidor quieres asumir."
+        ],
+        "bullets": [
+          "Modelo en la nube, por tu clave de API o los créditos de Hostinger: KVM 1, con 4 GB, como punto de partida.",
+          "Modelo local: KVM 4, con 16 GB, el primer plan con margen sobre el piso oficial de 8 GiB. El KVM 8, con 32 GB, solo tiene sentido con un modelo local mayor.",
+          "Si no quieres encargarte de un servidor: el plan gestionado, en el que Hostinger instala y actualiza el asistente.",
+          "Para probar sin pagar: Oracle Always Free, sabiendo que Oracle puede recuperar una instancia inactiva."
         ]
       },
       {
@@ -113646,14 +113781,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Se il modello IA resta presso il fornitore, cioè se usi la tua chiave API o i crediti IA di Hostinger, la richiesta va all'azienda di IA e il modello non gira sul tuo server. La chiave API è la password che OpenClaw usa per chiedere risposte a un fornitore, che fattura l'uso. In questo caso la documentazione non dà un numero di memoria, e il server esegue soltanto il programma. Per questo il KVM 1, con 4 GB di RAM, è il punto di partenza. È la nostra lettura della documentazione, non una misurazione.",
-          "Con un modello locale, che gira sul server stesso, il conto cambia. La documentazione indica un minimo di 8 GiB di memoria (circa 8,6 GB) per la ricetta locale più piccola, con contesto da 64K. Il KVM 2, con 8 GB, sta al limite. Il KVM 4, con 16 GB, è il primo con margine.",
-          "Chi non vuole occuparsi di un server dovrebbe guardare l'[opzione gestita](/it/reviews/openclaw-hostinger-gestito-o-vps). Con il link di invito costa 3,99 USD al mese nel piano di 24 mesi, e Hostinger installa e aggiorna l'assistente. Il KVM 1 costa 6,49 USD al mese senza link; con il link conta il prezzo finale nel carrello."
+          "Con il modello IA presso il fornitore, tramite la tua chiave API o i crediti di Hostinger, il KVM 1, con 4 GB, è il punto di partenza. Con un modello locale la documentazione chiede 8 GiB, e il KVM 4, con 16 GB, è il primo con margine. Chi non vuole occuparsi di un server veda l'opzione gestita, più avanti."
         ]
       },
       {
         "heading": "Cosa dice (e cosa non dice) la documentazione ufficiale sui requisiti",
         "paragraphs": [
+          "OpenClaw può usare un modello IA che resta presso il fornitore, con la tua chiave API o i crediti IA di Hostinger, oppure un modello locale, che gira sul server stesso. La chiave API è la password che OpenClaw usa per chiedere risposte a un fornitore, che fattura l'uso. Con il modello presso il fornitore, la richiesta va all'azienda di IA e il server esegue soltanto il programma.",
           "Le pagine ufficiali di installazione e di modelli locali, lette il 21/10/2026, dicono questo:"
         ],
         "bullets": [
@@ -113703,7 +113837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quale piano KVM scegliere",
         "paragraphs": [
-          "KVM è il nome dei piani di server virtuale di Hostinger. La tabella riporta i quattro, con prezzi dei piani di 24 mesi letti il 21/10/2026; il prezzo con il link di invito non lo abbiamo letto, quindi compare come «nel carrello». Leggi ogni piano accanto alla documentazione:"
+          "KVM è il nome dei piani di server virtuale di Hostinger. La tabella riporta i quattro, con prezzi dei piani di 24 mesi letti il 21/10/2026; il prezzo con il link di invito non lo abbiamo letto, quindi compare come «nel carrello». Leggi ogni piano accanto alla documentazione; è la nostra lettura, non una misurazione:"
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-it.webp",
@@ -113809,7 +113943,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Sul VPS, Hostinger installa OpenClaw con Docker, un programma che fa girare ogni applicazione isolata in un container. Da lì in avanti la manutenzione è tua."
+          "Sul VPS, Hostinger installa OpenClaw con Docker, un programma che fa girare ogni applicazione isolata in un container. Da lì in avanti la manutenzione è tua.",
+          "Chi non vuole occuparsi di un server dovrebbe guardare l'[opzione gestita](/it/reviews/openclaw-hostinger-gestito-o-vps), in cui Hostinger installa e aggiorna l'assistente."
         ]
       },
       {
@@ -113825,6 +113960,18 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "La regola che pesa: Oracle dice che può recuperare un'istanza inattiva. È considerata inattiva quando, in un periodo di 7 giorni, l'uso di CPU al 95° percentile resta sotto il 20%, l'uso di rete sotto il 20% e, sulle A1, anche l'uso di memoria sotto il 20%. Un assistente che resta fermo per gran parte del tempo può ricadere in questa regola. La documentazione non descrive un preavviso prima del recupero."
+        ]
+      },
+      {
+        "heading": "Quale scegliere, in sintesi",
+        "paragraphs": [
+          "La scelta del piano dipende da dove gira il modello IA e da quanto lavoro di server vuoi assumerti."
+        ],
+        "bullets": [
+          "Modello nel cloud, con la tua chiave API o i crediti di Hostinger: KVM 1, con 4 GB, come punto di partenza.",
+          "Modello locale: KVM 4, con 16 GB, il primo piano con margine sopra il minimo ufficiale di 8 GiB. Il KVM 8, con 32 GB, ha senso solo con un modello locale più grande.",
+          "Se non vuoi occuparti di un server: l'opzione gestita, in cui Hostinger installa e aggiorna l'assistente.",
+          "Per provare senza pagare: Oracle Always Free, sapendo che Oracle può recuperare un'istanza inattiva."
         ]
       },
       {
@@ -113925,8 +114072,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli **OpenClaw** se vuoi la gamma più ampia di canali di messaggistica, un'interfaccia web (Control UI) e app native per telefono e computer. Il README parla di oltre 20 canali, e il progetto è mantenuto da una fondazione senza scopo di lucro. Scegli **Hermes Agent** se vuoi un agente che impara dall'uso: la memoria è organizzata dall'agente stesso, che crea e migliora le proprie competenze, cerca nelle conversazioni passate e fa la modellazione dell'utente con Honcho. Hermes Agent è sviluppato da Nous Research.",
-          "Se non vuoi occuparti di un server, il piano gestito di Hostinger serve entrambi allo stesso prezzo: US$ 3,99/mese con il link di invito, con piano di 24 mesi. Il software è gratuito in entrambi i casi; quello che paghi sono il server e l'uso dei modelli IA."
+          "Scegli OpenClaw per molti canali di messaggistica e app native per telefono e computer, Hermes Agent per un agente che impara dall'uso. Il software è gratuito in entrambi i casi, e il piano gestito di Hostinger va bene per tutti e due. Ciò che decide è cosa dovrà fare l'agente; vedi il capitolo Per chi è ciascuno, più sotto."
         ]
       },
       {
@@ -114019,26 +114165,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Per chi è ciascuno",
-        "paragraphs": [
-          "Entrambi sono open source e non richiedono licenze. La scelta dipende da cosa vuoi che l'agente faccia, non dal software."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
-          "alt": "Quadro con quattro profili e la risposta per ciascuno: molti canali e un'app sul telefono portano a OpenClaw; un agente che impara e crea competenze proprie porta a Hermes Agent; chi non vuole gestire un server sceglie il piano gestito; chi vuole root e altri programmi sceglie il VPS",
-          "caption": "Dalla documentazione di ciascun progetto, letta il 21/10/2026."
-        },
-        "bullets": [
-          "**Vuoi molti canali e un'app sul telefono:** OpenClaw. Il README parla di oltre 20 canali e include app native per telefono e computer, oltre alla Control UI sul web.",
-          "**Vuoi un agente che impara dall'uso:** Hermes Agent. Organizza la propria memoria, crea e migliora le proprie competenze e cerca nelle conversazioni passate.",
-          "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con entrambi. Root è l'accesso da amministratore, con controllo totale del server.",
-          "**Non vuoi installare né gestire un server:** gestito, con entrambi. Hostinger installa e aggiorna."
-        ],
-        "postParagraphs": [
-          "Nessuno del team usa nessuno dei due. I profili vengono dalla documentazione dei progetti, non da nostra esperienza."
-        ]
-      },
-      {
         "heading": "Prima di installare",
         "paragraphs": [
           "Prima di iniziare, verifica tre cose. Valgono per entrambi gli agenti."
@@ -114063,6 +114189,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Per scegliere tra gestito e VPS la domanda è chi si occupa dei dati e delle credenziali. La guida [gestito o VPS per OpenClaw](/it/reviews/openclaw-hostinger-gestito-o-vps) lo affronta nel dettaglio."
+        ]
+      },
+      {
+        "heading": "Per chi è ciascuno",
+        "paragraphs": [
+          "Entrambi sono open source e non richiedono licenze. La scelta dipende da cosa vuoi che l'agente faccia, non dal software."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-it.webp",
+          "alt": "Quadro con quattro profili e la risposta per ciascuno: molti canali e un'app sul telefono portano a OpenClaw; un agente che impara e crea competenze proprie porta a Hermes Agent; chi non vuole gestire un server sceglie il piano gestito; chi vuole root e altri programmi sceglie il VPS",
+          "caption": "Dalla documentazione di ciascun progetto, letta il 21/10/2026."
+        },
+        "bullets": [
+          "**Vuoi molti canali e un'app sul telefono:** OpenClaw. Il README parla di oltre 20 canali e include app native per telefono e computer, oltre alla Control UI sul web.",
+          "**Vuoi un agente che impara dall'uso:** Hermes Agent. Organizza la propria memoria, crea e migliora le proprie competenze e cerca nelle conversazioni passate.",
+          "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con entrambi. Root è l'accesso da amministratore, con controllo totale del server.",
+          "**Non vuoi installare né gestire un server:** gestito, con entrambi. Hostinger installa e aggiorna."
+        ],
+        "postParagraphs": [
+          "Nessuno del team usa nessuno dei due. I profili vengono dalla documentazione dei progetti, non da nostra esperienza."
         ]
       },
       {
@@ -114220,8 +114366,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Elige **OpenClaw** si quieres conectar el agente a muchos canales de mensajería, usar una interfaz web (Control UI) y tener aplicaciones nativas para el móvil y el ordenador. El README habla de más de 20 canales, y el proyecto lo mantiene una fundación sin fines de lucro. Elige **Hermes Agent** si quieres un agente que aprende con el uso: la memoria la organiza el propio agente, él crea y mejora sus propias habilidades, busca en conversaciones antiguas y modela al usuario con Honcho. Hermes Agent lo desarrolla Nous Research.",
-          "Si no quieres encargarte de un servidor, el plan gestionado de Hostinger sirve a los dos al mismo precio: US$ 3,99/mes con el enlace de referido, en un plan de 24 meses. El software es gratuito en ambos casos; lo que pagas es el servidor y el uso de los modelos de IA."
+          "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para el móvil y el ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratuito en ambos, y el plan gestionado de Hostinger sirve a los dos. Lo que decide es lo que hará el agente; mira el capítulo Para quién es cada uno, más abajo."
         ]
       },
       {
@@ -114314,26 +114459,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Para quién es cada uno",
-        "paragraphs": [
-          "Los dos son de código abierto y no cobran licencia. La elección depende de lo que quieres que haga el agente, no del software."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
-          "alt": "Cuadro con cuatro perfiles y la respuesta de cada uno: muchos canales y una app en el móvil llevan a OpenClaw; un agente que aprende y crea sus propias habilidades lleva a Hermes Agent; no querer encargarse de un servidor lleva al gestionado; querer root y otros programas lleva al VPS",
-          "caption": "Según la documentación de cada proyecto, consultada el 21 de octubre de 2026."
-        },
-        "bullets": [
-          "**Quieres muchos canales y una aplicación en el móvil:** OpenClaw. El README habla de más de 20 canales y trae aplicaciones nativas para móvil y ordenador, además de la Control UI en la web.",
-          "**Quieres un agente que aprende con el uso:** Hermes Agent. Organiza su propia memoria, crea y mejora sus propias habilidades y busca en conversaciones antiguas.",
-          "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** VPS, con cualquiera de los dos. Root es el acceso de administrador, con control total del servidor.",
-          "**No quieres instalar ni cuidar un servidor:** gestionado, en los dos casos. Hostinger instala y actualiza."
-        ],
-        "postParagraphs": [
-          "Nadie del equipo usa ninguno de los dos. Los perfiles vienen de las documentaciones de los proyectos, no de experiencia nuestra."
-        ]
-      },
-      {
         "heading": "Antes de instalar",
         "paragraphs": [
           "Antes de empezar, confirma tres cosas. Valen para los dos agentes."
@@ -114358,6 +114483,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Para elegir entre gestionado y VPS, la pregunta es quién cuida los datos y las credenciales. La guía de [gestionado o VPS para OpenClaw](/es/reviews/openclaw-hostinger-gestionado-o-vps) trata esto en detalle."
+        ]
+      },
+      {
+        "heading": "Para quién es cada uno",
+        "paragraphs": [
+          "Los dos son de código abierto y no cobran licencia. La elección depende de lo que quieres que haga el agente, no del software."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+          "alt": "Cuadro con cuatro perfiles y la respuesta de cada uno: muchos canales y una app en el móvil llevan a OpenClaw; un agente que aprende y crea sus propias habilidades lleva a Hermes Agent; no querer encargarse de un servidor lleva al gestionado; querer root y otros programas lleva al VPS",
+          "caption": "Según la documentación de cada proyecto, consultada el 21 de octubre de 2026."
+        },
+        "bullets": [
+          "**Quieres muchos canales y una aplicación en el móvil:** OpenClaw. El README habla de más de 20 canales y trae aplicaciones nativas para móvil y ordenador, además de la Control UI en la web.",
+          "**Quieres un agente que aprende con el uso:** Hermes Agent. Organiza su propia memoria, crea y mejora sus propias habilidades y busca en conversaciones antiguas.",
+          "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** VPS, con cualquiera de los dos. Root es el acceso de administrador, con control total del servidor.",
+          "**No quieres instalar ni cuidar un servidor:** gestionado, en los dos casos. Hostinger instala y actualiza."
+        ],
+        "postParagraphs": [
+          "Nadie del equipo usa ninguno de los dos. Los perfiles vienen de las documentaciones de los proyectos, no de experiencia nuestra."
         ]
       },
       {
@@ -114513,8 +114658,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Wählen Sie **OpenClaw**, wenn Sie viele Nachrichtenkanäle anbinden, eine Weboberfläche (Control UI) nutzen und native Apps für Handy und Computer haben wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
-          "Wenn Sie sich nicht um einen Server kümmern wollen, bedient der verwaltete Tarif von Hostinger beide zum gleichen Preis: US$ 3,99/Monat mit dem Empfehlungslink, im 24-Monats-Tarif. Die Software ist in beiden Fällen kostenlos; bezahlt werden der Server und die Nutzung der KI-Modelle."
+          "Wählen Sie OpenClaw für viele Nachrichtenkanäle und native Apps für Handy und Computer, den Hermes Agent für einen Agenten, der aus der Nutzung lernt. Die Software ist in beiden Fällen kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; siehe das Kapitel Für wen welcher ist weiter unten."
         ]
       },
       {
@@ -114607,26 +114751,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Für wen welcher ist",
-        "paragraphs": [
-          "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, nicht von der Software."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
-          "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
-          "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
-        },
-        "bullets": [
-          "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
-          "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
-          "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server.",
-          "**Wer nichts installieren und keinen Server betreuen will:** verwaltet, bei beiden. Hostinger installiert und aktualisiert."
-        ],
-        "postParagraphs": [
-          "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
-        ]
-      },
-      {
         "heading": "Bevor Sie installieren",
         "paragraphs": [
           "Bevor Sie anfangen, prüfen Sie drei Dinge. Sie gelten für beide Agenten."
@@ -114651,6 +114775,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Für die Wahl zwischen verwaltet und VPS lautet die Frage: Wer kümmert sich um die Daten und die Zugangsdaten? Der Leitfaden [verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) behandelt das im Detail."
+        ]
+      },
+      {
+        "heading": "Für wen welcher ist",
+        "paragraphs": [
+          "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, nicht von der Software."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+          "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
+          "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
+        },
+        "bullets": [
+          "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
+          "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
+          "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server.",
+          "**Wer nichts installieren und keinen Server betreuen will:** verwaltet, bei beiden. Hostinger installiert und aktualisiert."
+        ],
+        "postParagraphs": [
+          "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
         ]
       },
       {
@@ -114808,8 +114952,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Choisissez **OpenClaw** si vous voulez relier l'agent à de nombreux canaux de messagerie, utiliser une interface web (Control UI) et disposer d'applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
-          "Si vous ne voulez pas gérer de serveur, l'offre gérée de Hostinger couvre les deux au même prix : 3,99 US$/mois avec le lien de parrainage, sur un forfait de 24 mois. Le logiciel est gratuit dans les deux cas ; ce que vous payez, ce sont le serveur et l'usage des modèles d'IA."
+          "Choisissez OpenClaw pour de nombreux canaux de messagerie et des applications natives sur téléphone et ordinateur, Hermes Agent pour un agent qui apprend en s'utilisant. Le logiciel est gratuit dans les deux cas, et l'offre gérée de Hostinger convient aux deux. Ce qui tranche, c'est la tâche de l'agent ; voir le chapitre À qui convient chacun, plus bas."
         ]
       },
       {
@@ -114902,26 +115045,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "À qui convient chacun",
-        "paragraphs": [
-          "Les deux sont open source et ne facturent aucune licence. Le choix dépend de ce que vous voulez que l'agent fasse, pas du logiciel."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
-          "alt": "Tableau à quatre profils et la réponse pour chacun : beaucoup de canaux et une application sur le téléphone mènent à OpenClaw ; un agent qui apprend et crée ses propres compétences mène à Hermes Agent ; ne pas vouloir gérer de serveur mène à l'offre gérée ; vouloir un accès root et d'autres programmes mène au VPS",
-          "caption": "D'après la documentation de chaque projet, consultée le 21 octobre 2026."
-        },
-        "bullets": [
-          "**Vous voulez beaucoup de canaux et une application sur le téléphone :** OpenClaw. Le README annonce plus de 20 canaux et propose des applications natives pour téléphone et ordinateur, en plus de la Control UI sur le web.",
-          "**Vous voulez un agent qui apprend en s'utilisant :** Hermes Agent. Il organise sa propre mémoire, crée et améliore ses propres compétences et cherche dans les anciennes conversations.",
-          "**Vous voulez un accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est le compte administrateur, avec le contrôle total du serveur.",
-          "**Vous ne voulez pas installer ni gérer de serveur :** géré, pour les deux. Hostinger installe et met à jour."
-        ],
-        "postParagraphs": [
-          "Personne dans l'équipe n'utilise l'un ni l'autre. Les profils viennent de la documentation des projets, pas de notre expérience."
-        ]
-      },
-      {
         "heading": "Avant d'installer",
         "paragraphs": [
           "Avant de commencer, vérifiez trois points. Ils valent pour les deux agents."
@@ -114946,6 +115069,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Pour choisir entre géré et VPS, la question est de savoir qui s'occupe des données et des identifiants. Le guide [géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps) traite ce point en détail."
+        ]
+      },
+      {
+        "heading": "À qui convient chacun",
+        "paragraphs": [
+          "Les deux sont open source et ne facturent aucune licence. Le choix dépend de ce que vous voulez que l'agent fasse, pas du logiciel."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+          "alt": "Tableau à quatre profils et la réponse pour chacun : beaucoup de canaux et une application sur le téléphone mènent à OpenClaw ; un agent qui apprend et crée ses propres compétences mène à Hermes Agent ; ne pas vouloir gérer de serveur mène à l'offre gérée ; vouloir un accès root et d'autres programmes mène au VPS",
+          "caption": "D'après la documentation de chaque projet, consultée le 21 octobre 2026."
+        },
+        "bullets": [
+          "**Vous voulez beaucoup de canaux et une application sur le téléphone :** OpenClaw. Le README annonce plus de 20 canaux et propose des applications natives pour téléphone et ordinateur, en plus de la Control UI sur le web.",
+          "**Vous voulez un agent qui apprend en s'utilisant :** Hermes Agent. Il organise sa propre mémoire, crée et améliore ses propres compétences et cherche dans les anciennes conversations.",
+          "**Vous voulez un accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est le compte administrateur, avec le contrôle total du serveur.",
+          "**Vous ne voulez pas installer ni gérer de serveur :** géré, pour les deux. Hostinger installe et met à jour."
+        ],
+        "postParagraphs": [
+          "Personne dans l'équipe n'utilise l'un ni l'autre. Les profils viennent de la documentation des projets, pas de notre expérience."
         ]
       },
       {
@@ -115394,8 +115537,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "チャンネルの数が一番多く、Web 画面（Control UI）とスマホ・PC のネイティブアプリがほしいなら **OpenClaw** を選んでください。README では20以上のチャンネルに対応するとあり、プロジェクトは非営利財団が管理しています。使うほど学ぶエージェントがほしいなら **Hermes Agent** です。メモリはエージェント自身が整理し、スキルを自分で作って改善し、過去の会話を検索し、Honcho でユーザーのモデル化を行います。Hermes Agent は Nous Research が開発しています。",
-          "サーバーの管理をしたくないなら、Hostinger のマネージドプランは両方に同じ料金です。紹介リンクありで US$ 3.99/月、24か月プランの場合です。ソフトウェアは両方とも無料です。支払うのはサーバーと AI モデルの利用料です。"
+          "チャンネルが多く、スマホと PC のネイティブアプリもほしいなら OpenClaw、使うほど学ぶエージェントがほしいなら Hermes Agent を選んでください。ソフトウェアはどちらも無料で、Hostinger のマネージドプランは両方に使えます。決め手はエージェントに何をさせたいかなので、下の「どちらが向いているか」の章を見てください。"
         ]
       },
       {
@@ -115488,26 +115630,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "どちらが向いているか",
-        "paragraphs": [
-          "どちらもオープンソースで、ライセンス料はかかりません。選ぶ基準はソフトウェアではなく、エージェントに何をさせたいかです。"
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
-          "alt": "4つのプロフィールと、それぞれの答え: 多くのチャンネルとスマホのアプリがほしいなら OpenClaw。学習して自分でスキルを作るエージェントなら Hermes Agent。サーバー管理をしたくないならマネージド。root と他のプログラムがほしいなら VPS",
-          "caption": "各プロジェクトのドキュメントを、2026年10月21日に読んで作成しました。"
-        },
-        "bullets": [
-          "**多くのチャンネルとスマホのアプリがほしい:** OpenClaw。README では20以上のチャンネルに対応し、スマホと PC のネイティブアプリと、Web の Control UI があります。",
-          "**使うほど学ぶエージェントがほしい:** Hermes Agent。自分でメモリを整理し、スキルを作って改善し、過去の会話を検索します。",
-          "**root と、同じサーバーの他のプログラム（サイトや n8n など）がほしい:** VPS。どちらのエージェントでも可能です。root は管理者権限で、サーバーを完全に操作できます。",
-          "**インストールもサーバーの管理もしたくない:** どちらもマネージド。Hostinger がインストールと更新を行います。"
-        ],
-        "postParagraphs": [
-          "チームの誰も、どちらも使っていません。このプロフィールは各プロジェクトのドキュメントに基づいており、私たちの経験ではありません。"
-        ]
-      },
-      {
         "heading": "インストール前に",
         "paragraphs": [
           "始める前に、3つのことを確認してください。どちらのエージェントにも当てはまります。"
@@ -115532,6 +115654,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "マネージドか VPS かの選択では、データと認証情報を誰が管理するかが問題です。OpenClaw のマネージドについて詳しくは、[OpenClaw を Hostinger で: マネージドか VPS か？](/ja/reviews/openclaw-hostinger-managed-or-vps-ja) をご覧ください。"
+        ]
+      },
+      {
+        "heading": "どちらが向いているか",
+        "paragraphs": [
+          "どちらもオープンソースで、ライセンス料はかかりません。選ぶ基準はソフトウェアではなく、エージェントに何をさせたいかです。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ja.webp",
+          "alt": "4つのプロフィールと、それぞれの答え: 多くのチャンネルとスマホのアプリがほしいなら OpenClaw。学習して自分でスキルを作るエージェントなら Hermes Agent。サーバー管理をしたくないならマネージド。root と他のプログラムがほしいなら VPS",
+          "caption": "各プロジェクトのドキュメントを、2026年10月21日に読んで作成しました。"
+        },
+        "bullets": [
+          "**多くのチャンネルとスマホのアプリがほしい:** OpenClaw。README では20以上のチャンネルに対応し、スマホと PC のネイティブアプリと、Web の Control UI があります。",
+          "**使うほど学ぶエージェントがほしい:** Hermes Agent。自分でメモリを整理し、スキルを作って改善し、過去の会話を検索します。",
+          "**root と、同じサーバーの他のプログラム（サイトや n8n など）がほしい:** VPS。どちらのエージェントでも可能です。root は管理者権限で、サーバーを完全に操作できます。",
+          "**インストールもサーバーの管理もしたくない:** どちらもマネージド。Hostinger がインストールと更新を行います。"
+        ],
+        "postParagraphs": [
+          "チームの誰も、どちらも使っていません。このプロフィールは各プロジェクトのドキュメントに基づいており、私たちの経験ではありません。"
         ]
       },
       {
@@ -115687,8 +115829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "채널 종류가 가장 많고 웹 인터페이스(Control UI)와 휴대폰·컴퓨터용 네이티브 앱을 원하면 **OpenClaw**를 고르세요. README에는 20개 이상의 채널이 나와 있고, 이 프로젝트는 비영리 단체가 관리합니다. 사용하면서 배우는 에이전트를 원하면 **Hermes Agent**를 고르세요. 메모리는 에이전트가 직접 정리하고, 스스로 스킬을 만들고 개선하며, 예전 대화를 검색하고, Honcho로 사용자 모델링을 합니다. Hermes Agent는 Nous Research가 만들었습니다.",
-          "서버를 신경 쓰고 싶지 않다면 호스팅어의 관리형 플랜이 두 가지 모두를 같은 가격에 제공합니다. 24개월 플랜 기준으로 추천 링크를 쓰면 월 **US$ 3.99**입니다. 소프트웨어는 두 경우 모두 무료이며, 내는 돈은 서버와 AI 모델 사용료입니다."
+          "채널이 많고 휴대폰·컴퓨터용 네이티브 앱을 원하면 OpenClaw, 사용하면서 배우는 에이전트를 원하면 Hermes Agent를 고르세요. 소프트웨어는 둘 다 무료이고, 호스팅어의 관리형 플랜은 두 가지 모두에 쓸 수 있습니다. 결정은 에이전트에게 무엇을 시킬지에 달려 있으니, 아래 '각각 누구에게 맞나' 장을 보세요."
         ]
       },
       {
@@ -115781,26 +115922,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "각각 누구에게 맞나",
-        "paragraphs": [
-          "둘 다 오픈소스이며 라이선스 비용이 없습니다. 선택은 소프트웨어가 아니라 에이전트에게 무엇을 시킬지에 달려 있습니다."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
-          "alt": "네 가지 유형과 각각의 답을 보여주는 표: 채널이 많고 휴대폰 앱을 원하면 OpenClaw, 배우고 스스로 스킬을 만드는 에이전트를 원하면 Hermes Agent, 서버를 다루지 않으려면 관리형, root와 다른 프로그램을 원하면 VPS",
-          "caption": "각 프로젝트의 문서 기준, 2026년 10월 21일에 읽음."
-        },
-        "bullets": [
-          "**채널이 많고 휴대폰 앱을 원한다면:** OpenClaw. README에는 20개 이상의 채널이 있고, 휴대폰과 컴퓨터용 네이티브 앱, 그리고 웹의 Control UI가 있습니다.",
-          "**사용하면서 배우는 에이전트를 원한다면:** Hermes Agent. 자신의 메모리를 정리하고, 자신의 스킬을 만들고 개선하며, 예전 대화를 검색합니다.",
-          "**같은 서버에서 root 접근과 웹사이트나 n8n 같은 다른 프로그램을 원한다면:** VPS, 둘 중 어느 쪽이든. Root는 서버 전체를 제어하는 관리자 접근 권한입니다.",
-          "**설치하고 서버를 관리하고 싶지 않다면:** 관리형, 둘 다. 호스팅어가 설치하고 업데이트합니다."
-        ],
-        "postParagraphs": [
-          "우리 팀은 둘 중 어느 것도 쓰지 않습니다. 이 프로필은 프로젝트 문서에서 가져온 것이지, 우리 경험이 아닙니다."
-        ]
-      },
-      {
         "heading": "설치 전에",
         "paragraphs": [
           "시작하기 전에 세 가지를 확인하세요. 두 에이전트 모두에 해당합니다."
@@ -115825,6 +115946,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "관리형과 VPS 중 고르는 문제는 데이터와 자격 증명을 누가 관리하느냐입니다. [OpenClaw 관리형 또는 VPS 가이드](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)가 이를 자세히 다룹니다."
+        ]
+      },
+      {
+        "heading": "각각 누구에게 맞나",
+        "paragraphs": [
+          "둘 다 오픈소스이며 라이선스 비용이 없습니다. 선택은 소프트웨어가 아니라 에이전트에게 무엇을 시킬지에 달려 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-ko.webp",
+          "alt": "네 가지 유형과 각각의 답을 보여주는 표: 채널이 많고 휴대폰 앱을 원하면 OpenClaw, 배우고 스스로 스킬을 만드는 에이전트를 원하면 Hermes Agent, 서버를 다루지 않으려면 관리형, root와 다른 프로그램을 원하면 VPS",
+          "caption": "각 프로젝트의 문서 기준, 2026년 10월 21일에 읽음."
+        },
+        "bullets": [
+          "**채널이 많고 휴대폰 앱을 원한다면:** OpenClaw. README에는 20개 이상의 채널이 있고, 휴대폰과 컴퓨터용 네이티브 앱, 그리고 웹의 Control UI가 있습니다.",
+          "**사용하면서 배우는 에이전트를 원한다면:** Hermes Agent. 자신의 메모리를 정리하고, 자신의 스킬을 만들고 개선하며, 예전 대화를 검색합니다.",
+          "**같은 서버에서 root 접근과 웹사이트나 n8n 같은 다른 프로그램을 원한다면:** VPS, 둘 중 어느 쪽이든. Root는 서버 전체를 제어하는 관리자 접근 권한입니다.",
+          "**설치하고 서버를 관리하고 싶지 않다면:** 관리형, 둘 다. 호스팅어가 설치하고 업데이트합니다."
+        ],
+        "postParagraphs": [
+          "우리 팀은 둘 중 어느 것도 쓰지 않습니다. 이 프로필은 프로젝트 문서에서 가져온 것이지, 우리 경험이 아닙니다."
         ]
       },
       {
@@ -115982,8 +116123,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要最多的聊天渠道、网页界面（Control UI），以及手机和电脑的原生应用，就选 **OpenClaw**。README 写明支持超过 20 个渠道，项目由一个非营利基金会维护。想要一个会随使用而学习的代理，就选 **Hermes Agent**：它的记忆由代理自己整理，它会自己创建并改进技能，能搜索过去的对话，并用 Honcho 做用户建模。Hermes Agent 由 Nous Research 开发。",
-          "如果你不想管服务器，Hostinger 的托管方案两者都适用，而且价格相同：有推荐链接时是每月 US$ 3.99，以24个月方案计。软件在两种情况下都是免费的，你付的是服务器与 AI 模型的使用费。"
+          "想要很多聊天渠道以及手机和电脑的原生应用，就选 OpenClaw；想要会随使用而学习的代理，就选 Hermes Agent。两者的软件都免费，Hostinger 的托管方案也都适用。决定因素是代理要做什么，请看下面“各适合谁”一章。"
         ]
       },
       {
@@ -116076,26 +116216,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "各适合谁",
-        "paragraphs": [
-          "两者都是开源的，不收许可费。选择取决于你要代理做什么，而不是软件本身。"
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
-          "alt": "四种用户画像，以及各自的答案：想要很多渠道与手机应用，选 OpenClaw；想要会学习、自己创建技能的代理，选 Hermes Agent；不想管服务器，选托管；想要 root 与其他程序，选 VPS",
-          "caption": "依各项目的文档整理，查阅日期为2026年10月21日。"
-        },
-        "bullets": [
-          "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，以及网页版 Control UI。",
-          "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
-          "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。",
-          "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新。"
-        ],
-        "postParagraphs": [
-          "我们团队中没有人使用这两者。这些画像来自各项目的文档，不是我们的经验。"
-        ]
-      },
-      {
         "heading": "安装之前",
         "paragraphs": [
           "开始之前，请先确认三件事。这三点对两个代理都适用。"
@@ -116120,6 +116240,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "在托管与 VPS 之间做选择时，关键问题是谁管理你的数据与凭证。关于 OpenClaw 的托管方案，详见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。"
+        ]
+      },
+      {
+        "heading": "各适合谁",
+        "paragraphs": [
+          "两者都是开源的，不收许可费。选择取决于你要代理做什么，而不是软件本身。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+          "alt": "四种用户画像，以及各自的答案：想要很多渠道与手机应用，选 OpenClaw；想要会学习、自己创建技能的代理，选 Hermes Agent；不想管服务器，选托管；想要 root 与其他程序，选 VPS",
+          "caption": "依各项目的文档整理，查阅日期为2026年10月21日。"
+        },
+        "bullets": [
+          "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，以及网页版 Control UI。",
+          "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
+          "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。",
+          "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新。"
+        ],
+        "postParagraphs": [
+          "我们团队中没有人使用这两者。这些画像来自各项目的文档，不是我们的经验。"
         ]
       },
       {
@@ -116276,8 +116416,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "想要最多的聊天管道、網頁介面（Control UI），以及手機和電腦的原生應用程式，就選 **OpenClaw**。README 寫明支援超過 20 個管道，專案由一個非營利基金會維護。想要一個會隨使用而學習的代理，就選 **Hermes Agent**：它的記憶由代理自己整理，它會自己建立並改進技能，能搜尋過去的對話，並用 Honcho 做使用者建模。Hermes Agent 由 Nous Research 開發。",
-          "如果你不想管伺服器，Hostinger 的託管方案兩者都適用，而且價格相同：有推薦連結時是每月 US$ 3.99，以24個月方案計。軟體在兩種情況下都是免費的，你付的是伺服器與 AI 模型的使用費。"
+          "想要很多聊天管道以及手機和電腦的原生應用程式，就選 OpenClaw；想要會隨使用而學習的代理，就選 Hermes Agent。兩者的軟體都免費，Hostinger 的託管方案也都適用。決定因素是代理要做什麼，請看下面「各適合誰」一章。"
         ]
       },
       {
@@ -116370,26 +116509,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "各適合誰",
-        "paragraphs": [
-          "兩者都是開源的，不收授權費。選擇取決於你要代理做什麼，而不是軟體本身。"
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
-          "alt": "四種使用者的畫像，以及各自的答案：想要很多管道與手機應用程式，選 OpenClaw；想要會學習、自己建立技能的代理，選 Hermes Agent；不想管伺服器，選託管；想要 root 與其他程式，選 VPS",
-          "caption": "依各專案的文件整理，查閱日期為2026年10月21日。"
-        },
-        "bullets": [
-          "**想要很多管道與手機應用程式：** OpenClaw。README 寫明支援超過 20 個管道，並有手機與電腦的原生應用程式，以及網頁版 Control UI。",
-          "**想要一個會隨使用而學習的代理：** Hermes Agent。它自己整理記憶，建立並改進技能，並搜尋過去的對話。",
-          "**想要 root，以及同一台伺服器上的其他程式（例如網站或 n8n）：** VPS，兩者都可以。Root 是管理員權限，能完全控制伺服器。",
-          "**不想安裝也不想管伺服器：** 兩者都選託管。Hostinger 負責安裝與更新。"
-        ],
-        "postParagraphs": [
-          "我們團隊中沒有人使用這兩者。這些畫像來自各專案的文件，不是我們的經驗。"
-        ]
-      },
-      {
         "heading": "安裝之前",
         "paragraphs": [
           "開始之前，請先確認三件事。這三點對兩個代理都適用。"
@@ -116414,6 +116533,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "在託管與 VPS 之間做選擇時，關鍵問題是誰管理你的資料與憑證。關於 OpenClaw 的託管方案，詳見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。"
+        ]
+      },
+      {
+        "heading": "各適合誰",
+        "paragraphs": [
+          "兩者都是開源的，不收授權費。選擇取決於你要代理做什麼，而不是軟體本身。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+          "alt": "四種使用者的畫像，以及各自的答案：想要很多管道與手機應用程式，選 OpenClaw；想要會學習、自己建立技能的代理，選 Hermes Agent；不想管伺服器，選託管；想要 root 與其他程式，選 VPS",
+          "caption": "依各專案的文件整理，查閱日期為2026年10月21日。"
+        },
+        "bullets": [
+          "**想要很多管道與手機應用程式：** OpenClaw。README 寫明支援超過 20 個管道，並有手機與電腦的原生應用程式，以及網頁版 Control UI。",
+          "**想要一個會隨使用而學習的代理：** Hermes Agent。它自己整理記憶，建立並改進技能，並搜尋過去的對話。",
+          "**想要 root，以及同一台伺服器上的其他程式（例如網站或 n8n）：** VPS，兩者都可以。Root 是管理員權限，能完全控制伺服器。",
+          "**不想安裝也不想管伺服器：** 兩者都選託管。Hostinger 負責安裝與更新。"
+        ],
+        "postParagraphs": [
+          "我們團隊中沒有人使用這兩者。這些畫像來自各專案的文件，不是我們的經驗。"
         ]
       },
       {
@@ -116570,8 +116709,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Choose **OpenClaw** if you want to connect the agent to many messaging channels, use a web interface (Control UI) and have native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
-          "If you don't want to look after a server, Hostinger's managed plan serves both at the same price: US$3.99/month with the referral link, on a 24-month plan. The software is free in both cases; what you pay for is the server and the use of AI models."
+          "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free in both, and Hostinger's managed plan serves both. What decides it is what the agent will do; see the chapter Who each one suits below."
         ]
       },
       {
@@ -116664,26 +116802,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Who each one suits",
-        "paragraphs": [
-          "Both are open source and charge no license. The choice depends on what you want the agent to do, not on the software."
-        ],
-        "image": {
-          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
-          "alt": "Chart with four profiles and the answer for each: many channels and a phone app lead to OpenClaw; an agent that learns and creates its own skills leads to Hermes Agent; not wanting to look after a server leads to managed; wanting root and other programs leads to the VPS",
-          "caption": "From each project's documentation, read on October 21, 2026."
-        },
-        "bullets": [
-          "**You want many channels and a phone app:** OpenClaw. The README mentions more than 20 channels and ships native apps for phone and computer, besides the Control UI on the web.",
-          "**You want an agent that learns from use:** Hermes Agent. It organizes its own memory, creates and improves its own skills, and searches old conversations.",
-          "**You want root access and other programs on the same server, such as a website or n8n:** VPS, with either one. Root is the administrator account, with full control of the server.",
-          "**You don't want to install or look after a server:** managed, for both. Hostinger installs and updates."
-        ],
-        "postParagraphs": [
-          "Nobody on the team uses either one. The profiles come from the projects' documentation, not from our own experience."
-        ]
-      },
-      {
         "heading": "Before you install",
         "paragraphs": [
           "Before you start, confirm three things. They apply to both agents."
@@ -116708,6 +116826,26 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "To choose between managed and VPS, the question is who looks after the data and the credentials. The [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) covers this in detail."
+        ]
+      },
+      {
+        "heading": "Who each one suits",
+        "paragraphs": [
+          "Both are open source and charge no license. The choice depends on what you want the agent to do, not on the software."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+          "alt": "Chart with four profiles and the answer for each: many channels and a phone app lead to OpenClaw; an agent that learns and creates its own skills leads to Hermes Agent; not wanting to look after a server leads to managed; wanting root and other programs leads to the VPS",
+          "caption": "From each project's documentation, read on October 21, 2026."
+        },
+        "bullets": [
+          "**You want many channels and a phone app:** OpenClaw. The README mentions more than 20 channels and ships native apps for phone and computer, besides the Control UI on the web.",
+          "**You want an agent that learns from use:** Hermes Agent. It organizes its own memory, creates and improves its own skills, and searches old conversations.",
+          "**You want root access and other programs on the same server, such as a website or n8n:** VPS, with either one. Root is the administrator account, with full control of the server.",
+          "**You don't want to install or look after a server:** managed, for both. Hostinger installs and updates."
+        ],
+        "postParagraphs": [
+          "Nobody on the team uses either one. The profiles come from the projects' documentation, not from our own experience."
         ]
       },
       {
@@ -116863,15 +117001,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Paperclip ist ein Programm, um ein Team aus KI-Agenten zu organisieren. Statt eines einzelnen Assistenten stellen Sie ein Team zusammen, mit Rollen, Zielen und einer Ausgabengrenze für jeden Agenten. Das Programm betreibt kein KI-Modell selbst. Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw. Der Code ist offen, unter der MIT-Lizenz, und das offizielle Repository sagt, dass das Projekt vom Team Paperclip gepflegt wird.",
-          "Bei Hostinger gibt es zwei Wege. Das **verwaltete** Angebot ist für alle, die sich nicht um einen Server kümmern wollen: Hostinger übernimmt Datenbank, Updates und Backups. Der **VPS** ist ein gemieteter Server mit Docker, bei dem Sicherheit und Updates bei Ihnen liegen. In beiden Fällen gehören die KI-Schlüssel (Claude, OpenAI und andere) Ihnen: Die Seite zum verwalteten Paperclip listet keine KI-Guthaben von Hostinger.",
-          "Am 21.10.2026 kostet das verwaltete Angebot **4,99 USD pro Monat** ohne den Empfehlungslink und **3,99 USD pro Monat** mit ihm, im 24-Monats-Plan. Die Verlängerung liegt bei **11,99 USD pro Monat**."
+          "Paperclip organisiert ein Team aus KI-Agenten mit Rollen, Zielen und einem Ausgabenlimit für jeden, führt die KI aber nicht selbst aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; siehe die Kapitel Verwaltet oder VPS bei Hostinger und Was es kostet weiter unten."
         ]
       },
       {
         "heading": "Was Paperclip ist, in einfacher Sprache",
         "paragraphs": [
-          "Stellen Sie sich ein kleines Unternehmen vor. Es hat eine Inhaberin, Leitungen und Mitarbeitende, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
+          "Paperclip ist ein Programm zum Organisieren eines Teams aus KI-Agenten: Statt eines einzelnen Assistenten bauen Sie das Team mit Rollen, Zielen und einem Ausgabenlimit für jeden Agenten auf. Stellen Sie sich ein kleines Unternehmen vor. Es hat eine Inhaberin, Leitungen und Mitarbeitende, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
@@ -116908,9 +117044,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie brauchen",
         "paragraphs": [
-          "Bevor Sie sich entscheiden, prüfen Sie diese vier Punkte."
+          "Bevor Sie sich entscheiden, prüfen Sie diese fünf Punkte."
         ],
         "bullets": [
+          "**Agenten, die es koordiniert.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
           "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. Für den Produktivbetrieb empfiehlt das Projekt eine eigene Postgres-Datenbank. Beim verwalteten Angebot ist die Datenbank enthalten. Beim VPS liegt sie bei Ihnen.",
           "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem ein Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter rechnet die Nutzung direkt mit Ihnen ab. Die Seite des verwalteten Paperclip sagt, dass Sie Ihre „eigenen Agenten und API-Schlüssel“ verbinden, und listet keine enthaltenen KI-Guthaben. Ohne Schlüssel antwortet das Team nicht.",
           "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie gelegentlich sprechen. Ohne Obergrenze ist die Ausgabe nur das, was der Anbieter am Monatsende berechnet.",
@@ -117129,15 +117266,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Paperclip è un programma per organizzare un team di agenti IA. Invece di un solo assistente, si compone una squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Il programma non esegue un modello IA da sé: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw. Il codice è aperto, con licenza MIT, e il repository ufficiale dice che il progetto è mantenuto dal team Paperclip.",
-          "Su Hostinger ci sono due modi per farlo girare. Il **gestito** è per chi non vuole occuparsi di un server: Hostinger si occupa di database, aggiornamenti e backup. Il **VPS** è un server in affitto, con Docker, in cui sicurezza e aggiornamenti restano a carico vostro. In entrambi i casi le chiavi IA (Claude, OpenAI e altre) sono le vostre: la pagina del Paperclip gestito non elenca crediti IA di Hostinger.",
-          "Al 21/10/2026 il gestito costa **4,99 USD al mese** senza il link di invito e **3,99 USD al mese** con il link, in un piano di 24 mesi. Il rinnovo è a **11,99 USD al mese**."
+          "Paperclip organizza un team di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non esegue l'IA: le chiavi sono vostre. Su Hostinger funziona con il piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedete i capitoli Gestito o VPS su Hostinger e Quanto costa, più sotto."
         ]
       },
       {
         "heading": "Cos'è Paperclip, in parole semplici",
         "paragraphs": [
-          "Pensate a una piccola azienda. C'è un titolare, ci sono i responsabili e i dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. Nella documentazione compaiono cinque idee del progetto."
+          "Paperclip è un programma per organizzare un team di agenti IA: invece di un solo assistente, componete il team con ruoli, obiettivi e un limite di spesa per ciascun agente. Pensate a una piccola azienda. C'è un titolare, ci sono i responsabili e i dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. Nella documentazione compaiono cinque idee del progetto."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
@@ -117174,9 +117309,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Che cosa vi serve",
         "paragraphs": [
-          "Prima di scegliere, controllate questi quattro punti."
+          "Prima di scegliere, controllate questi cinque punti."
         ],
         "bullets": [
+          "**Agenti da coordinare.** Paperclip non esegue un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** È il database in cui Paperclip conserva agenti, attività e registri. Nell'installazione locale è incluso e parte da solo. In produzione il progetto consiglia di collegare un Postgres proprio. Nel gestito il database è incluso. Sul VPS è a vostro carico.",
           "**Chiavi IA vostre.** Una chiave API è la password con cui il programma chiede risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore addebita l'uso direttamente a voi. La pagina del Paperclip gestito dice che collegate “i vostri agenti e le vostre chiavi API”, e non elenca crediti IA inclusi. Senza chiave, il team non risponde.",
           "**Budget mensile per agente.** Fissate il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui si parla ogni tanto. Senza tetto, la spesa è solo quella che il fornitore addebita a fine mese.",
@@ -117396,15 +117532,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Paperclip est un logiciel pour organiser une équipe d'agents d'IA. Au lieu d'un seul assistant, vous composez l'équipe avec des rôles, des objectifs et un plafond de dépenses pour chaque agent. Il ne fait pas tourner lui-même de modèle d'IA : il coordonne des agents qui fonctionnent par d'autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw. Le code est ouvert, sous licence MIT, et le dépôt officiel indique que le projet est maintenu par l'équipe Paperclip.",
-          "Chez Hostinger, il y a deux façons de le faire tourner. L'offre **gérée** convient à qui ne veut pas s'occuper d'un serveur : Hostinger prend en charge la base de données, les mises à jour et les sauvegardes. Le **VPS** est un serveur loué, avec Docker, où la sécurité et les mises à jour vous reviennent. Dans les deux cas, les clés d'IA (Claude, OpenAI et d'autres) sont les vôtres : la page de Paperclip géré ne liste pas de crédits d'IA de Hostinger.",
-          "Le 21 octobre 2026, l'offre gérée coûte **3,99 US$/mois** avec le lien de parrainage, et 4,99 US$ sans, sur un forfait de 24 mois. Elle se renouvelle à **11,99 US$/mois**."
+          "Paperclip organise une équipe d'agents d'IA, avec postes, objectifs et plafond de dépense pour chacun, mais il ne fait pas tourner l'IA : les clés sont les vôtres. Chez Hostinger, il tourne en offre gérée ou sur un VPS. Ce qui change la décision, c'est qui s'occupe du serveur ; voyez Géré ou VPS chez Hostinger et Combien ça coûte, plus bas."
         ]
       },
       {
         "heading": "Ce qu'est Paperclip, en termes simples",
         "paragraphs": [
-          "Pensez à une petite entreprise. Elle a un propriétaire, des responsables et des employés, chacun avec sa fonction. Paperclip fait la même chose avec des agents d'IA : chaque agent a un poste, une description de poste et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. La documentation met en avant cinq idées du projet."
+          "Paperclip est un programme pour organiser une équipe d'agents d'IA : au lieu d'un seul assistant, vous montez l'équipe avec des postes, des objectifs et un plafond de dépense pour chaque agent. Pensez à une petite entreprise. Elle a un propriétaire, des responsables et des employés, chacun avec sa fonction. Paperclip fait la même chose avec des agents d'IA : chaque agent a un poste, une description de poste et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. La documentation met en avant cinq idées du projet."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
@@ -117437,9 +117571,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qu'il vous faut",
         "paragraphs": [
-          "Avant de souscrire, vérifiez ces quatre points."
+          "Avant de souscrire, vérifiez ces cinq points."
         ],
         "bullets": [
+          "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d'IA : il coordonne des agents qui fonctionnent par d'autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
           "**Postgres.** C'est la base de données où Paperclip garde les agents, les tâches et les enregistrements. En installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de la relier à votre propre Postgres. Sur l'offre gérée, la base est incluse. Sur le VPS, la base de données vous revient.",
           "**Vos propres clés d'IA.** Une clé d'API est le mot de passe que le logiciel utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture cet usage directement à vous. La page de Paperclip géré indique que vous connectez « vos propres agents et clés d'API », et ne liste pas de crédits d'IA inclus. Sans clé, l'équipe ne répond pas.",
           "**Un budget mensuel par agent.** Fixez le plafond avant d'allumer l'équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser beaucoup plus qu'un assistant auquel vous parlez de temps en temps. Sans plafond, la dépense est seulement ce que le fournisseur facture en fin de mois.",
@@ -117659,15 +117794,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Paperclip is a program for organizing a team of AI agents. Instead of a single assistant, you build the team with roles, goals and a spending limit for each agent. It does not run an AI model itself: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw. The code is open, under the MIT license, and the official repository says the project is maintained by the Paperclip team.",
-          "On Hostinger there are two ways to run it. The **managed** plan is for people who don't want to deal with a server: Hostinger looks after the database, the updates and the backups. The **VPS** is a rented server, with Docker, where security and updates are up to you. In both cases, the AI keys (Claude, OpenAI and others) are yours: the Paperclip managed page does not list AI credits from Hostinger.",
-          "On October 21, 2026, the managed plan costs **US$3.99/month** with the referral link and US$4.99 without it, on a 24-month plan. It renews at **US$11.99/month**."
+          "Paperclip organizes a team of AI agents, with roles, goals and a spending limit for each, but does not run the AI: the keys are yours. On Hostinger it runs managed or on a VPS. What changes the decision is who looks after the server; see the chapters Managed or VPS on Hostinger and How much it costs below."
         ]
       },
       {
         "heading": "What Paperclip is, in plain language",
         "paragraphs": [
-          "Think of a small company. It has an owner, managers and employees, each with a role. Paperclip does the same with AI agents: each agent has a position, a job description and a boss. Whoever is above delegates tasks, and whoever is below reports back. The documentation highlights five ideas in the project."
+          "Paperclip is a program for organizing a team of AI agents: instead of a single assistant, you build the team with roles, goals and a spending limit for each agent. Think of a small company. It has an owner, managers and employees, each with a role. Paperclip does the same with AI agents: each agent has a position, a job description and a boss. Whoever is above delegates tasks, and whoever is below reports back. The documentation highlights five ideas in the project."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
@@ -117700,9 +117833,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What you need",
         "paragraphs": [
-          "Before you sign up, check these four points."
+          "Before you sign up, check these five points."
         ],
         "bullets": [
+          "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
           "**Postgres.** This is the database where Paperclip keeps agents, tasks and records. In a local install, it comes built in and starts by itself. In production, the project itself recommends pointing it to your own Postgres. On managed, the database is included. On the VPS, the database is up to you.",
           "**Your own AI keys.** An API key is the password the program uses to ask a provider, such as Anthropic (Claude), OpenAI or another, for answers. The provider charges for that use, directly to you. The Paperclip managed page says you connect “your own agents and API keys”, and does not list included AI credits. Without a key, the team does not answer.",
           "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the cost is only whatever the provider charges at the end of the month.",
@@ -117922,15 +118056,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Paperclip は AI エージェントのチームを組織するためのプログラムです。アシスタントを一つだけ置くのではなく、役職、目標、各エージェントの支出上限を決めてチームを組みます。Paperclip 自身は AI モデルを動かしません。Claude Code、Codex、Cursor、Gemini CLI、OpenClaw など、別のプログラムで動くエージェントをまとめて管理します。コードは MIT ライセンスのオープンソースで、公式リポジトリによると、プロジェクトは Paperclip チームが運営しています。",
-          "Hostinger では二通りで動かせます。**マネージド** はサーバーを触りたくない人向けで、データベース、更新、バックアップは Hostinger が担当します。**VPS** は Docker を使う借り物のサーバーで、セキュリティと更新はあなたが担当します。どちらでも、Claude や OpenAI などの AI キーはあなたのものです。Paperclip のマネージド版のページには、Hostinger の AI クレジットは載っていません。",
-          "2026年10月21日時点、Hostinger のグローバルページ（米ドル建て、24か月プラン）では、マネージドは紹介リンクで **US$ 3.99/月**（紹介なしは US$ 4.99/月）です。更新は **US$ 11.99/月** です。"
+          "Paperclip は AI エージェントのチームを、役職・目標・支出の上限つきで管理するプログラムですが、AI そのものは動かしません。キーはご自身のものです。Hostinger ではマネージドプランか VPS で動かします。決め手はサーバーを誰が管理するかなので、下の「Hostinger でマネージドか VPS か」と「費用」の章を見てください。"
         ]
       },
       {
         "heading": "Paperclip とは、普通の言葉で",
         "paragraphs": [
-          "小さな会社を思い浮かべてください。オーナー、マネージャー、社員がいて、それぞれに役割があります。Paperclip は AI エージェントでこれを再現します。各エージェントには役職、仕事の説明、上司がいます。上の立場が仕事を割り振り、下の立場がその上司に報告します。ドキュメントには、このプロジェクトの五つの考え方が出てきます。"
+          "Paperclip は AI エージェントのチームを管理するためのプログラムです。アシスタント一つではなく、エージェントごとに役職、目標、支出の上限を決めてチームを作ります。小さな会社を思い浮かべてください。オーナー、マネージャー、社員がいて、それぞれに役割があります。Paperclip は AI エージェントでこれを再現します。各エージェントには役職、仕事の説明、上司がいます。上の立場が仕事を割り振り、下の立場がその上司に報告します。ドキュメントには、このプロジェクトの五つの考え方が出てきます。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ja.webp",
@@ -117963,9 +118095,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "必要なもの",
         "paragraphs": [
-          "申し込む前に、次の四点を確認してください。"
+          "申し込む前に、次の五点を確認してください。"
         ],
         "bullets": [
+          "**調整するエージェント。** Paperclip は AI モデルを動かしません。Claude Code、Codex、Cursor、Gemini CLI、OpenClaw など、他のプログラムで動くエージェントを調整します。",
           "**Postgres。** Paperclip がエージェント、タスク、記録を保存するデータベースです。ローカルでインストールすると組み込みで、自動的に起動します。本番環境では、プロジェクト自身が自前の Postgres を指定することを勧めています。マネージドではデータベースが含まれます。VPS では、データベースはあなたの管理になります。",
           "**自分の AI キー。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。プロバイダーは使った分をあなたに直接請求します。Paperclip のマネージド版のページは、ご自身のエージェントと API キーを接続するよう求めており、AI クレジットは含まれないと書いています。キーがなければ、チームは応答しません。",
           "**エージェントごとの月間予算。** チームを起動する前に上限を決めてください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントより、ずっと多くの費用がかかることがあります。上限がなければ、費用はその月にプロバイダーから請求される額になります。",
@@ -118184,15 +118317,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "짧은 답",
         "paragraphs": [
-          "Paperclip은 AI 에이전트 팀을 조직하는 프로그램입니다. 하나의 비서 대신, 에이전트마다 역할, 목표, 지출 한도를 정해 팀을 꾸립니다. 이 프로그램은 AI 모델을 직접 실행하지 않습니다. Claude Code, Codex, Cursor, Gemini CLI, OpenClaw 같은 다른 프로그램으로 움직이는 에이전트를 조율합니다. 코드는 MIT 라이선스로 공개되어 있고, 공식 저장소는 이 프로젝트를 Paperclip 팀이 관리한다고 밝힙니다.",
-          "호스팅어에서는 두 가지 방식으로 운영할 수 있습니다. **관리형**은 서버를 직접 다루고 싶지 않은 사람을 위한 방식입니다. 데이터베이스, 업데이트, 백업을 호스팅어가 맡습니다. **VPS**는 Docker가 설치된 임대 서버이며, 보안과 업데이트를 본인이 맡습니다. 두 경우 모두 AI 키(Claude, OpenAI 등)는 본인 것입니다. 관리형 Paperclip 페이지에는 호스팅어의 AI 크레딧이 나열되어 있지 않습니다.",
-          "2026년 10월 21일 기준, 관리형은 추천 링크 없이 월 US$ 4.99, 추천 링크를 쓰면 월 US$ 3.99이며, 24개월 플랜입니다. 갱신가는 월 US$ 11.99입니다."
+          "Paperclip은 에이전트마다 역할, 목표, 지출 한도를 정해 AI 에이전트 팀을 조직하지만, AI를 직접 실행하지는 않습니다. 키는 본인 것입니다. 호스팅어에서는 관리형 플랜이나 VPS로 운영합니다. 결정은 서버를 누가 관리하느냐에 달려 있으니, 아래 '호스팅어의 관리형 또는 VPS'와 '비용' 장을 보세요."
         ]
       },
       {
         "heading": "Paperclip은 무엇인가, 쉽게 설명하면",
         "paragraphs": [
-          "작은 회사를 떠올려 보세요. 대표가 있고, 팀장과 직원이 있으며, 각자 맡은 일이 있습니다. Paperclip은 같은 구조를 AI 에이전트로 만듭니다. 에이전트마다 역할, 업무 설명, 상사가 있습니다. 위에 있는 사람이 일을 맡기고, 아래 있는 사람은 그 사람에게 보고합니다. 공식 문서에는 이 프로젝트의 핵심 개념이 다섯 가지 나옵니다."
+          "Paperclip은 AI 에이전트 팀을 조직하는 프로그램입니다. 하나의 비서 대신, 에이전트마다 역할, 목표, 지출 한도를 정해 팀을 꾸립니다. 작은 회사를 떠올려 보세요. 대표가 있고, 팀장과 직원이 있으며, 각자 맡은 일이 있습니다. Paperclip은 같은 구조를 AI 에이전트로 만듭니다. 에이전트마다 역할, 업무 설명, 상사가 있습니다. 위에 있는 사람이 일을 맡기고, 아래 있는 사람은 그 사람에게 보고합니다. 공식 문서에는 이 프로젝트의 핵심 개념이 다섯 가지 나옵니다."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-ko.webp",
@@ -118229,9 +118360,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "필요한 것",
         "paragraphs": [
-          "결정하기 전에 다음 네 가지를 확인하세요."
+          "결정하기 전에 다음 다섯 가지를 확인하세요."
         ],
         "bullets": [
+          "**조율할 에이전트.** Paperclip은 AI 모델을 직접 실행하지 않습니다. Claude Code, Codex, Cursor, Gemini CLI, OpenClaw 같은 다른 프로그램으로 움직이는 에이전트를 조율합니다.",
           "**Postgres.** Paperclip이 에이전트, 작업, 기록을 저장하는 데이터베이스입니다. 로컬 설치에는 내장되어 있어 자동으로 실행됩니다. 운영 환경에서는 프로젝트가 직접 관리하는 Postgres에 연결하기를 권장합니다. 관리형에서는 데이터베이스가 포함됩니다. VPS에서는 본인이 관리합니다.",
           "**직접 가진 AI 키.** API 키는 프로그램이 Anthropic(Claude), OpenAI 또는 다른 제공업체에 응답을 요청할 때 쓰는 비밀번호입니다. 제공업체는 사용량을 본인에게 직접 청구합니다. 관리형 Paperclip 페이지는 “자신의 에이전트와 API 키”를 연결하라고 안내하며, 포함된 AI 크레딧은 나열하지 않습니다. 키가 없으면 팀은 응답하지 않습니다.",
           "**에이전트별 월 예산.** 팀을 가동하기 전에 한도를 정하세요. 매일 작업하는 에이전트 다섯 개는, 가끔 대화하는 비서 하나보다 훨씬 많은 비용이 들 수 있습니다. 한도가 없으면 지출은 월말에 제공업체가 청구하는 금액뿐입니다.",
@@ -118451,15 +118583,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 是用来组织 AI 代理团队的程序。它不是只放一个助手，而是为团队设定职位、目标，以及每个代理的花费上限。Paperclip 本身不运行 AI 模型。它负责协调用其他程序运行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。代码采用 MIT 许可的开源方式。官方仓库说明，项目由 Paperclip 团队维护。",
-          "在 Hostinger 上有两种运行方式。**托管** 适合不想管服务器的人，数据库、更新和备份都由 Hostinger 负责。**VPS** 是租来的服务器，搭配 Docker 使用，安全性和更新由你负责。两种方式下，Claude、OpenAI 等 AI 密钥都是你自己的。Paperclip 托管版的页面没有列出 Hostinger 的 AI 额度。",
-          "截至 2026年10月21日，在 Hostinger 全球页面（美元计价、24 个月套餐）上，通过推荐链接的托管为 **US$ 3.99/月**（不用推荐链接为 US$ 4.99/月）。续费为 **US$ 11.99/月**。"
+          "Paperclip 用来组织一支 AI 代理团队，每个代理都有职位、目标和支出上限，但它本身不运行 AI，密钥要你自己提供。在 Hostinger 上可以用托管方案或 VPS 运行。决定因素是谁来管服务器，请看下面“在 Hostinger 上选托管还是 VPS”和“要花多少钱”两章。"
         ]
       },
       {
         "heading": "用大白话说 Paperclip 是什么",
         "paragraphs": [
-          "想象一家小公司，有老板、经理和员工，每个人各有职责。Paperclip 用 AI 代理做同样的事。每个代理都有职位、工作说明和上司。位置较高的人分派工作，位置较低的人向上司汇报。官方文档中，这个项目有五个核心概念。"
+          "Paperclip 是一个用来组织 AI 代理团队的程序：不是只有一个助手，而是为每个代理设定职位、目标和支出上限，组成一支团队。想象一家小公司，有老板、经理和员工，每个人各有职责。Paperclip 用 AI 代理做同样的事。每个代理都有职位、工作说明和上司。位置较高的人分派工作，位置较低的人向上司汇报。官方文档中，这个项目有五个核心概念。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
@@ -118492,9 +118622,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "你需要准备的东西",
         "paragraphs": [
-          "下单前，请先确认这四点。"
+          "下单前，请先确认这五点。"
         ],
         "bullets": [
+          "**要协调的代理。** Paperclip 不运行 AI 模型，它协调通过其他程序运行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** 这是 Paperclip 存放代理、任务和记录的数据库。在本地安装时，它内置并自动启动。在正式环境中，项目本身建议你指向自己的 Postgres。托管方案已包含数据库。VPS 的数据库则由你自己管理。",
           "**自己的 AI 密钥。** API 密钥是程序向供应商（Anthropic 的 Claude、OpenAI 或其他）请求回应时使用的密码。供应商会直接向你收费。Paperclip 托管版的页面说，你要连接“自己的代理和 API 密钥”，并没有列出包含的 AI 额度。没有密钥，团队就不会回应。",
           "**每个代理的每月预算。** 启动团队前先定上限。五个每天都有任务的代理，花费可能远高于只偶尔和你聊天的助手。没有上限，费用就是月底供应商的收费。",
@@ -118714,15 +118845,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Paperclip 是用來組織 AI 代理團隊的程式。它不是只放一個助理，而是為團隊設定職位、目標，以及每個代理的花費上限。Paperclip 本身不運行 AI 模型。它負責協調用其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。程式碼採用 MIT 授權的開源方式。官方儲存庫說明，專案由 Paperclip 團隊維護。",
-          "在 Hostinger 上有兩種運行方式。**託管** 適合不想管伺服器的人，資料庫、更新和備份都由 Hostinger 負責。**VPS** 是租來的伺服器，搭配 Docker 使用，安全性和更新由你負責。兩種方式下，Claude、OpenAI 等 AI 金鑰都是你自己的。Paperclip 託管版的頁面沒有列出 Hostinger 的 AI 額度。",
-          "截至 2026年10月21日，在 Hostinger 全球頁面（美元計價、24 個月方案）上，透過推薦連結的託管為 **US$ 3.99/月**（不用推薦連結為 US$ 4.99/月）。續約為 **US$ 11.99/月**。"
+          "Paperclip 用來組織一支 AI 代理團隊，每個代理都有職位、目標和支出上限，但它本身不運行 AI，金鑰要你自己提供。在 Hostinger 上可以用託管方案或 VPS 運行。決定因素是誰來管伺服器，請看下面「在 Hostinger 上選託管還是 VPS」和「要花多少錢」兩章。"
         ]
       },
       {
         "heading": "用白話說 Paperclip 是什麼",
         "paragraphs": [
-          "想像一家小公司，有老闆、經理和員工，每個人各有職責。Paperclip 用 AI 代理來做同樣的事。每個代理都有職位、工作說明和上司。位階較高的人分派工作，位階較低的人向上司回報。官方文件中，這個專案有五個核心概念。"
+          "Paperclip 是一個用來組織 AI 代理團隊的程式：不是只有一個助手，而是為每個代理設定職位、目標和支出上限，組成一支團隊。想像一家小公司，有老闆、經理和員工，每個人各有職責。Paperclip 用 AI 代理來做同樣的事。每個代理都有職位、工作說明和上司。位階較高的人分派工作，位階較低的人向上司回報。官方文件中，這個專案有五個核心概念。"
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
@@ -118755,9 +118884,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "你需要準備的東西",
         "paragraphs": [
-          "下單前，請先確認這四點。"
+          "下單前，請先確認這五點。"
         ],
         "bullets": [
+          "**要協調的代理。** Paperclip 不運行 AI 模型，它協調透過其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** 這是 Paperclip 存放代理、任務和紀錄的資料庫。在本機安裝時，它內建並自動啟動。在正式環境中，專案本身建議你指向自己的 Postgres。託管方案已包含資料庫。VPS 的資料庫則由你自己管理。",
           "**自己的 AI 金鑰。** API 金鑰是程式向供應商（Anthropic 的 Claude、OpenAI 或其他）要求回應時使用的密碼。供應商會直接向你收費。Paperclip 託管版的頁面說，你要連接「自己的代理和 API 金鑰」，並沒有列出包含的 AI 額度。沒有金鑰，團隊就不會回應。",
           "**每個代理的每月預算。** 啟動團隊前先定上限。五個每天都有任務的代理，花費可能遠高於只偶爾和你聊天的助理。沒有上限，費用就是月底供應商的收費。",
@@ -119237,15 +119367,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Paperclip es un programa para organizar un equipo de agentes de IA. En vez de un solo asistente, armas el equipo con cargos, objetivos y un límite de gasto para cada agente. No ejecuta por sí mismo un modelo de IA: coordina agentes que funcionan a través de otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw. El código es abierto, con licencia MIT, y el repositorio oficial dice que el proyecto lo mantiene el equipo de Paperclip.",
-          "En Hostinger hay dos formas de ejecutarlo. El **gestionado** es para quien no quiere tocar un servidor: Hostinger se encarga de la base de datos, las actualizaciones y las copias de seguridad. El **VPS** es un servidor alquilado, con Docker, donde la seguridad y las actualizaciones son tuyas. En los dos casos, las claves de IA (Claude, OpenAI y otras) son tuyas: la página de Paperclip gestionado no enumera créditos de IA de Hostinger.",
-          "El 21 de octubre de 2026, el plan gestionado cuesta **US$ 3,99/mes** con el enlace de referido y US$ 4,99 sin él, en un plan de 24 meses. Se renueva a **US$ 11,99/mes**."
+          "Paperclip organiza un equipo de agentes de IA, con cargos, objetivos y un límite de gasto para cada uno, pero no ejecuta la IA: las claves son tuyas. En Hostinger funciona en el plan gestionado o en un VPS. Lo que cambia la decisión es quién se ocupa del servidor; mira los capítulos Gestionado o VPS en Hostinger y Cuánto cuesta, más abajo."
         ]
       },
       {
         "heading": "Qué es Paperclip, en lenguaje sencillo",
         "paragraphs": [
-          "Piensa en una pequeña empresa. Tiene un dueño, gerentes y empleados, cada uno con su función. Paperclip hace lo mismo con agentes de IA: cada agente tiene un cargo, una descripción de trabajo y un superior. Quien está arriba delega tareas, y quien está abajo le responde. La documentación destaca cinco ideas del proyecto."
+          "Paperclip es un programa para organizar un equipo de agentes de IA: en vez de un solo asistente, armas el equipo con cargos, objetivos y un límite de gasto para cada agente. Piensa en una pequeña empresa. Tiene un dueño, gerentes y empleados, cada uno con su función. Paperclip hace lo mismo con agentes de IA: cada agente tiene un cargo, una descripción de trabajo y un superior. Quien está arriba delega tareas, y quien está abajo le responde. La documentación destaca cinco ideas del proyecto."
         ],
         "image": {
           "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-es.webp",
@@ -119278,9 +119406,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lo que necesitas tener",
         "paragraphs": [
-          "Antes de contratar, revisa estos cuatro puntos."
+          "Antes de contratar, revisa estos cinco puntos."
         ],
         "bullets": [
+          "**Agentes que coordinar.** Paperclip no ejecuta un modelo de IA: coordina agentes que funcionan a través de otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw.",
           "**Postgres.** Es la base de datos donde Paperclip guarda agentes, tareas y registros. En la instalación local, viene incluida y se inicia sola. En producción, el propio proyecto recomienda apuntar a un Postgres tuyo. En el gestionado, la base de datos está incluida. En el VPS, la base de datos queda contigo.",
           "**Claves de IA propias.** Una clave de API es la contraseña que el programa usa para pedirle respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por ese uso, directamente a ti. La página de Paperclip gestionado dice que conectas “tus propios agentes y claves de API”, y no enumera créditos de IA incluidos. Sin clave, el equipo no responde.",
           "**Un presupuesto mensual por agente.** Define el tope antes de encender el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Sin tope, el gasto es solo lo que cobre el proveedor a fin de mes.",

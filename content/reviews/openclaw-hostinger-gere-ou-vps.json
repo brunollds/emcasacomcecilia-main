@@ -45,8 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Choisissez **géré** si vous voulez que l'assistant tourne sans que vous ayez à vous occuper d'un serveur : Hostinger l'installe, le met à jour et fait les sauvegardes. Choisissez le **VPS** si vous voulez un accès root (contrôle total du serveur) et faire tourner d'autres programmes sur la même machine, et que vous acceptez de garder le système à jour et protégé.",
-        "Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger ou votre propre clé d'API. Le 21 octobre 2026, l'offre gérée coûte **3,99 US$/mois** avec le lien de parrainage, et 4,99 US$ sans. Le VPS KVM 1 coûte 6,49 US$/mois sans le lien (le prix avec le lien s'affiche dans le panier). Les prix sont ceux d'un forfait de 24 mois. Les deux se renouvellent à **11,99 US$/mois**."
+        "Choisissez le géré si vous voulez que l'assistant tourne sans vous occuper d'un serveur, et le VPS si vous voulez un accès root et faire tourner d'autres programmes sur la même machine. Les deux acceptent les crédits d'IA de Hostinger ou votre clé d'API. Tout dépend de la maintenance que vous acceptez ; voyez « Combien ça coûte vraiment » plus bas."
       ]
     },
     {
@@ -140,22 +139,6 @@
       ]
     },
     {
-      "heading": "Qui doit choisir quoi",
-      "paragraphs": [
-        "**Choisissez l'offre gérée si :**"
-      ],
-      "bullets": [
-        "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
-        "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
-        "vous ne savez pas ce que sont root ou Docker ;",
-        "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
-      ],
-      "postParagraphs": [
-        "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
-        "**Dans le doute, commencez par le géré.** Il coûte moins cher sur la première période et ne demande pas de connaissances en serveur."
-      ]
-    },
-    {
       "heading": "Telegram et WhatsApp",
       "paragraphs": [
         "Les deux canaux fonctionnent avec les deux options. La différence tient à l'endroit où on les configure. En géré, vous choisissez les canaux dans l'assistant de configuration de Hostinger : pour WhatsApp, vous lisez un QR code ; pour Telegram, vous collez le jeton du bot. Sur le VPS, la configuration comporte des champs facultatifs pour le numéro WhatsApp, avec l'indicatif du pays, et pour le jeton du bot Telegram. La documentation ne montre pas où s'affiche le QR de WhatsApp sur le VPS.",
@@ -185,6 +168,22 @@
         "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
         "**L'assistant aura accès à votre messagerie, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte mail séparée pour l'assistant.",
         "**Sur le VPS, gardez le jeton de la passerelle** que l'installation génère, et ne l'envoyez jamais dans une conversation avec l'assistant."
+      ]
+    },
+    {
+      "heading": "Qui doit choisir quoi",
+      "paragraphs": [
+        "**Choisissez l'offre gérée si :**"
+      ],
+      "bullets": [
+        "vous voulez l'assistant en service sans installer ni configurer de serveur ;",
+        "vous préférez que Hostinger s'occupe des mises à jour, des sauvegardes et de la sécurité ;",
+        "vous ne savez pas ce que sont root ou Docker ;",
+        "vous voulez OpenClaw, ou passer à Hermes Agent ou Paperclip dans le même forfait."
+      ],
+      "postParagraphs": [
+        "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez administrer un serveur, ou vous voulez apprendre, et vous acceptez de garder le système à jour et protégé ; ou vous avez besoin de plus de mémoire et d'espace disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
+        "**Dans le doute, commencez par le géré.** Il coûte moins cher sur la première période et ne demande pas de connaissances en serveur."
       ]
     },
     {

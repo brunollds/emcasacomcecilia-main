@@ -44,15 +44,13 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Paperclip ist ein Programm, um ein Team aus KI-Agenten zu organisieren. Statt eines einzelnen Assistenten stellen Sie ein Team zusammen, mit Rollen, Zielen und einer Ausgabengrenze für jeden Agenten. Das Programm betreibt kein KI-Modell selbst. Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw. Der Code ist offen, unter der MIT-Lizenz, und das offizielle Repository sagt, dass das Projekt vom Team Paperclip gepflegt wird.",
-        "Bei Hostinger gibt es zwei Wege. Das **verwaltete** Angebot ist für alle, die sich nicht um einen Server kümmern wollen: Hostinger übernimmt Datenbank, Updates und Backups. Der **VPS** ist ein gemieteter Server mit Docker, bei dem Sicherheit und Updates bei Ihnen liegen. In beiden Fällen gehören die KI-Schlüssel (Claude, OpenAI und andere) Ihnen: Die Seite zum verwalteten Paperclip listet keine KI-Guthaben von Hostinger.",
-        "Am 21.10.2026 kostet das verwaltete Angebot **4,99 USD pro Monat** ohne den Empfehlungslink und **3,99 USD pro Monat** mit ihm, im 24-Monats-Plan. Die Verlängerung liegt bei **11,99 USD pro Monat**."
+        "Paperclip organisiert ein Team aus KI-Agenten mit Rollen, Zielen und einem Ausgabenlimit für jeden, führt die KI aber nicht selbst aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; siehe die Kapitel Verwaltet oder VPS bei Hostinger und Was es kostet weiter unten."
       ]
     },
     {
       "heading": "Was Paperclip ist, in einfacher Sprache",
       "paragraphs": [
-        "Stellen Sie sich ein kleines Unternehmen vor. Es hat eine Inhaberin, Leitungen und Mitarbeitende, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
+        "Paperclip ist ein Programm zum Organisieren eines Teams aus KI-Agenten: Statt eines einzelnen Assistenten bauen Sie das Team mit Rollen, Zielen und einem Ausgabenlimit für jeden Agenten auf. Stellen Sie sich ein kleines Unternehmen vor. Es hat eine Inhaberin, Leitungen und Mitarbeitende, und jede Person hat ihre Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer oben steht, delegiert Aufgaben, und wer darunter steht, berichtet an diese Person. Die Dokumentation nennt fünf Ideen, die im Projekt eine Rolle spielen."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-de.webp",
@@ -89,9 +87,10 @@
     {
       "heading": "Was Sie brauchen",
       "paragraphs": [
-        "Bevor Sie sich entscheiden, prüfen Sie diese vier Punkte."
+        "Bevor Sie sich entscheiden, prüfen Sie diese fünf Punkte."
       ],
       "bullets": [
+        "**Agenten, die es koordiniert.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
         "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. Für den Produktivbetrieb empfiehlt das Projekt eine eigene Postgres-Datenbank. Beim verwalteten Angebot ist die Datenbank enthalten. Beim VPS liegt sie bei Ihnen.",
         "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem ein Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter rechnet die Nutzung direkt mit Ihnen ab. Die Seite des verwalteten Paperclip sagt, dass Sie Ihre „eigenen Agenten und API-Schlüssel“ verbinden, und listet keine enthaltenen KI-Guthaben. Ohne Schlüssel antwortet das Team nicht.",
         "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie gelegentlich sprechen. Ohne Obergrenze ist die Ausgabe nur das, was der Anbieter am Monatsende berechnet.",

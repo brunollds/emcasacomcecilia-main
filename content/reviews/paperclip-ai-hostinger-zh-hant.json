@@ -45,15 +45,13 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Paperclip 是用來組織 AI 代理團隊的程式。它不是只放一個助理，而是為團隊設定職位、目標，以及每個代理的花費上限。Paperclip 本身不運行 AI 模型。它負責協調用其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。程式碼採用 MIT 授權的開源方式。官方儲存庫說明，專案由 Paperclip 團隊維護。",
-        "在 Hostinger 上有兩種運行方式。**託管** 適合不想管伺服器的人，資料庫、更新和備份都由 Hostinger 負責。**VPS** 是租來的伺服器，搭配 Docker 使用，安全性和更新由你負責。兩種方式下，Claude、OpenAI 等 AI 金鑰都是你自己的。Paperclip 託管版的頁面沒有列出 Hostinger 的 AI 額度。",
-        "截至 2026年10月21日，在 Hostinger 全球頁面（美元計價、24 個月方案）上，透過推薦連結的託管為 **US$ 3.99/月**（不用推薦連結為 US$ 4.99/月）。續約為 **US$ 11.99/月**。"
+        "Paperclip 用來組織一支 AI 代理團隊，每個代理都有職位、目標和支出上限，但它本身不運行 AI，金鑰要你自己提供。在 Hostinger 上可以用託管方案或 VPS 運行。決定因素是誰來管伺服器，請看下面「在 Hostinger 上選託管還是 VPS」和「要花多少錢」兩章。"
       ]
     },
     {
       "heading": "用白話說 Paperclip 是什麼",
       "paragraphs": [
-        "想像一家小公司，有老闆、經理和員工，每個人各有職責。Paperclip 用 AI 代理來做同樣的事。每個代理都有職位、工作說明和上司。位階較高的人分派工作，位階較低的人向上司回報。官方文件中，這個專案有五個核心概念。"
+        "Paperclip 是一個用來組織 AI 代理團隊的程式：不是只有一個助手，而是為每個代理設定職位、目標和支出上限，組成一支團隊。想像一家小公司，有老闆、經理和員工，每個人各有職責。Paperclip 用 AI 代理來做同樣的事。每個代理都有職位、工作說明和上司。位階較高的人分派工作，位階較低的人向上司回報。官方文件中，這個專案有五個核心概念。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hant.webp",
@@ -86,9 +84,10 @@
     {
       "heading": "你需要準備的東西",
       "paragraphs": [
-        "下單前，請先確認這四點。"
+        "下單前，請先確認這五點。"
       ],
       "bullets": [
+        "**要協調的代理。** Paperclip 不運行 AI 模型，它協調透過其他程式運行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
         "**Postgres。** 這是 Paperclip 存放代理、任務和紀錄的資料庫。在本機安裝時，它內建並自動啟動。在正式環境中，專案本身建議你指向自己的 Postgres。託管方案已包含資料庫。VPS 的資料庫則由你自己管理。",
         "**自己的 AI 金鑰。** API 金鑰是程式向供應商（Anthropic 的 Claude、OpenAI 或其他）要求回應時使用的密碼。供應商會直接向你收費。Paperclip 託管版的頁面說，你要連接「自己的代理和 API 金鑰」，並沒有列出包含的 AI 額度。沒有金鑰，團隊就不會回應。",
         "**每個代理的每月預算。** 啟動團隊前先定上限。五個每天都有任務的代理，花費可能遠高於只偶爾和你聊天的助理。沒有上限，費用就是月底供應商的收費。",

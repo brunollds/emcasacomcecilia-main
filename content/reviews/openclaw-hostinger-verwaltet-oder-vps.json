@@ -44,8 +44,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Wählen Sie **verwaltet**, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern: Hostinger installiert, aktualisiert und sichert ihn. Wählen Sie den **VPS**, wenn Sie Root-Zugriff (volle Kontrolle über den Server) wollen und andere Programme auf derselben Maschine laufen lassen möchten, und wenn Sie das System selbst aktualisieren und absichern.",
-        "In beiden Optionen können Sie das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel nutzen. Am 21.10.2026 kostete die verwaltete Option mit Empfehlungslink **3,99 USD pro Monat**. Der VPS KVM 1 kostet ohne Link 6,49 USD pro Monat; mit dem Link gibt es 20 % im ersten Zeitraum, und den Endpreis zeigt der Warenkorb. Beide Verlängerungen kosten **11,99 USD pro Monat** (Preise der globalen Hostinger-Seite für einen 24-Monats-Plan)."
+        "Wählen Sie verwaltet, wenn der Assistent laufen soll, ohne dass Sie sich um einen Server kümmern, und den VPS, wenn Sie Root-Zugriff wollen und andere Programme auf derselben Maschine betreiben. Beide Optionen akzeptieren das KI-Guthaben von Hostinger oder Ihren eigenen API-Schlüssel. Entscheidend ist der Wartungsaufwand, den Sie akzeptieren; siehe „Was es wirklich kostet“ weiter unten."
       ]
     },
     {
@@ -144,22 +143,6 @@
       ]
     },
     {
-      "heading": "Wer sollte was wählen",
-      "paragraphs": [
-        "**Wählen Sie die verwaltete Option, wenn:**"
-      ],
-      "bullets": [
-        "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
-        "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
-        "Sie nicht wissen, was Root oder Docker ist;",
-        "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
-      ],
-      "postParagraphs": [
-        "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
-        "**Im Zweifel mit der verwalteten Option beginnen.** Sie kostet im ersten Zeitraum weniger und setzt keine Serverkenntnisse voraus."
-      ]
-    },
-    {
       "heading": "Telegram und WhatsApp",
       "paragraphs": [
         "Beide Kanäle funktionieren bei beiden Optionen. Der Unterschied liegt darin, wo Sie sie einrichten. Bei der verwalteten Option wählen Sie die Kanäle im Einrichtungsassistenten von Hostinger: Bei WhatsApp lesen Sie einen QR-Code ein, bei Telegram fügen Sie den Bot-Token ein. Beim VPS hat die Einrichtung optionale Felder für die WhatsApp-Nummer mit Ländervorwahl und für den Telegram-Bot-Token. Die Dokumentation zeigt nicht, wo beim VPS der WhatsApp-QR-Code erscheint.",
@@ -189,6 +172,22 @@
         "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; bei der verwalteten Option fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
         "**Der Assistent bekommt Zugriff auf Ihre E-Mail, Ihr Bankkonto oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine persönlichen Konten angemeldet sind. Hostinger schlägt ein separates E-Mail-Postfach für den Assistenten vor.",
         "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und schicken es nicht im Gespräch mit dem Assistenten."
+      ]
+    },
+    {
+      "heading": "Wer sollte was wählen",
+      "paragraphs": [
+        "**Wählen Sie die verwaltete Option, wenn:**"
+      ],
+      "bullets": [
+        "der Assistent ohne Installation und Serverkonfiguration laufen soll;",
+        "Sie möchten, dass Hostinger Updates, Backups und Sicherheit übernimmt;",
+        "Sie nicht wissen, was Root oder Docker ist;",
+        "Sie OpenClaw nutzen oder im selben Tarif zu Hermes Agent oder Paperclip wechseln möchten."
+      ],
+      "postParagraphs": [
+        "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und andere Programme auf demselben Server laufen lassen möchten, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und Updates und Systemsicherheit selbst übernehmen; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
+        "**Im Zweifel mit der verwalteten Option beginnen.** Sie kostet im ersten Zeitraum weniger und setzt keine Serverkenntnisse voraus."
       ]
     },
     {

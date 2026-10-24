@@ -45,8 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Choose **OpenClaw** if you want to connect the agent to many messaging channels, use a web interface (Control UI) and have native apps for phone and computer. The README mentions more than 20 channels, and the project is maintained by a non-profit foundation. Choose **Hermes Agent** if you want an agent that learns from use: it organizes its own memory, creates and improves its own skills, searches old conversations and models the user with Honcho. Hermes Agent is built by Nous Research.",
-        "If you don't want to look after a server, Hostinger's managed plan serves both at the same price: US$3.99/month with the referral link, on a 24-month plan. The software is free in both cases; what you pay for is the server and the use of AI models."
+        "Choose OpenClaw if you want many messaging channels and native apps for phone and computer, and Hermes Agent if you want an agent that learns from use. The software is free in both, and Hostinger's managed plan serves both. What decides it is what the agent will do; see the chapter Who each one suits below."
       ]
     },
     {
@@ -139,26 +138,6 @@
       ]
     },
     {
-      "heading": "Who each one suits",
-      "paragraphs": [
-        "Both are open source and charge no license. The choice depends on what you want the agent to do, not on the software."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
-        "alt": "Chart with four profiles and the answer for each: many channels and a phone app lead to OpenClaw; an agent that learns and creates its own skills leads to Hermes Agent; not wanting to look after a server leads to managed; wanting root and other programs leads to the VPS",
-        "caption": "From each project's documentation, read on October 21, 2026."
-      },
-      "bullets": [
-        "**You want many channels and a phone app:** OpenClaw. The README mentions more than 20 channels and ships native apps for phone and computer, besides the Control UI on the web.",
-        "**You want an agent that learns from use:** Hermes Agent. It organizes its own memory, creates and improves its own skills, and searches old conversations.",
-        "**You want root access and other programs on the same server, such as a website or n8n:** VPS, with either one. Root is the administrator account, with full control of the server.",
-        "**You don't want to install or look after a server:** managed, for both. Hostinger installs and updates."
-      ],
-      "postParagraphs": [
-        "Nobody on the team uses either one. The profiles come from the projects' documentation, not from our own experience."
-      ]
-    },
-    {
       "heading": "Before you install",
       "paragraphs": [
         "Before you start, confirm three things. They apply to both agents."
@@ -183,6 +162,26 @@
       ],
       "postParagraphs": [
         "To choose between managed and VPS, the question is who looks after the data and the credentials. The [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) covers this in detail."
+      ]
+    },
+    {
+      "heading": "Who each one suits",
+      "paragraphs": [
+        "Both are open source and charge no license. The choice depends on what you want the agent to do, not on the software."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-en.webp",
+        "alt": "Chart with four profiles and the answer for each: many channels and a phone app lead to OpenClaw; an agent that learns and creates its own skills leads to Hermes Agent; not wanting to look after a server leads to managed; wanting root and other programs leads to the VPS",
+        "caption": "From each project's documentation, read on October 21, 2026."
+      },
+      "bullets": [
+        "**You want many channels and a phone app:** OpenClaw. The README mentions more than 20 channels and ships native apps for phone and computer, besides the Control UI on the web.",
+        "**You want an agent that learns from use:** Hermes Agent. It organizes its own memory, creates and improves its own skills, and searches old conversations.",
+        "**You want root access and other programs on the same server, such as a website or n8n:** VPS, with either one. Root is the administrator account, with full control of the server.",
+        "**You don't want to install or look after a server:** managed, for both. Hostinger installs and updates."
+      ],
+      "postParagraphs": [
+        "Nobody on the team uses either one. The profiles come from the projects' documentation, not from our own experience."
       ]
     },
     {

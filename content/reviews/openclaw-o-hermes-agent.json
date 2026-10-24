@@ -45,8 +45,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Elige **OpenClaw** si quieres conectar el agente a muchos canales de mensajería, usar una interfaz web (Control UI) y tener aplicaciones nativas para el móvil y el ordenador. El README habla de más de 20 canales, y el proyecto lo mantiene una fundación sin fines de lucro. Elige **Hermes Agent** si quieres un agente que aprende con el uso: la memoria la organiza el propio agente, él crea y mejora sus propias habilidades, busca en conversaciones antiguas y modela al usuario con Honcho. Hermes Agent lo desarrolla Nous Research.",
-        "Si no quieres encargarte de un servidor, el plan gestionado de Hostinger sirve a los dos al mismo precio: US$ 3,99/mes con el enlace de referido, en un plan de 24 meses. El software es gratuito en ambos casos; lo que pagas es el servidor y el uso de los modelos de IA."
+        "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para el móvil y el ordenador, y Hermes Agent si quieres un agente que aprende con el uso. El software es gratuito en ambos, y el plan gestionado de Hostinger sirve a los dos. Lo que decide es lo que hará el agente; mira el capítulo Para quién es cada uno, más abajo."
       ]
     },
     {
@@ -139,26 +138,6 @@
       ]
     },
     {
-      "heading": "Para quién es cada uno",
-      "paragraphs": [
-        "Los dos son de código abierto y no cobran licencia. La elección depende de lo que quieres que haga el agente, no del software."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
-        "alt": "Cuadro con cuatro perfiles y la respuesta de cada uno: muchos canales y una app en el móvil llevan a OpenClaw; un agente que aprende y crea sus propias habilidades lleva a Hermes Agent; no querer encargarse de un servidor lleva al gestionado; querer root y otros programas lleva al VPS",
-        "caption": "Según la documentación de cada proyecto, consultada el 21 de octubre de 2026."
-      },
-      "bullets": [
-        "**Quieres muchos canales y una aplicación en el móvil:** OpenClaw. El README habla de más de 20 canales y trae aplicaciones nativas para móvil y ordenador, además de la Control UI en la web.",
-        "**Quieres un agente que aprende con el uso:** Hermes Agent. Organiza su propia memoria, crea y mejora sus propias habilidades y busca en conversaciones antiguas.",
-        "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** VPS, con cualquiera de los dos. Root es el acceso de administrador, con control total del servidor.",
-        "**No quieres instalar ni cuidar un servidor:** gestionado, en los dos casos. Hostinger instala y actualiza."
-      ],
-      "postParagraphs": [
-        "Nadie del equipo usa ninguno de los dos. Los perfiles vienen de las documentaciones de los proyectos, no de experiencia nuestra."
-      ]
-    },
-    {
       "heading": "Antes de instalar",
       "paragraphs": [
         "Antes de empezar, confirma tres cosas. Valen para los dos agentes."
@@ -183,6 +162,26 @@
       ],
       "postParagraphs": [
         "Para elegir entre gestionado y VPS, la pregunta es quién cuida los datos y las credenciales. La guía de [gestionado o VPS para OpenClaw](/es/reviews/openclaw-hostinger-gestionado-o-vps) trata esto en detalle."
+      ]
+    },
+    {
+      "heading": "Para quién es cada uno",
+      "paragraphs": [
+        "Los dos son de código abierto y no cobran licencia. La elección depende de lo que quieres que haga el agente, no del software."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-es.webp",
+        "alt": "Cuadro con cuatro perfiles y la respuesta de cada uno: muchos canales y una app en el móvil llevan a OpenClaw; un agente que aprende y crea sus propias habilidades lleva a Hermes Agent; no querer encargarse de un servidor lleva al gestionado; querer root y otros programas lleva al VPS",
+        "caption": "Según la documentación de cada proyecto, consultada el 21 de octubre de 2026."
+      },
+      "bullets": [
+        "**Quieres muchos canales y una aplicación en el móvil:** OpenClaw. El README habla de más de 20 canales y trae aplicaciones nativas para móvil y ordenador, además de la Control UI en la web.",
+        "**Quieres un agente que aprende con el uso:** Hermes Agent. Organiza su propia memoria, crea y mejora sus propias habilidades y busca en conversaciones antiguas.",
+        "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** VPS, con cualquiera de los dos. Root es el acceso de administrador, con control total del servidor.",
+        "**No quieres instalar ni cuidar un servidor:** gestionado, en los dos casos. Hostinger instala y actualiza."
+      ],
+      "postParagraphs": [
+        "Nadie del equipo usa ninguno de los dos. Los perfiles vienen de las documentaciones de los proyectos, no de experiencia nuestra."
       ]
     },
     {

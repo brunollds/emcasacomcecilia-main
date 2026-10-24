@@ -44,14 +44,13 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Wenn das KI-Modell beim Anbieter bleibt, also wenn Sie Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger nutzen, geht die Anfrage an das KI-Unternehmen, und das Modell läuft nicht auf Ihrem Server. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet die Nutzung ab. In diesem Fall nennt die Dokumentation keine Speicherangabe, und der Server führt nur das Programm aus. Deshalb ist der KVM 1 mit 4 GB RAM der Ausgangspunkt. Das ist unsere Lesart der Dokumentation, keine Messung.",
-        "Mit einem lokalen Modell, das auf dem Server selbst läuft, ändert sich die Rechnung. Die Dokumentation nennt für das kleinste lokale Rezept eine Untergrenze von 8 GiB Speicher (etwa 8,6 GB) bei 64K Kontext. Der KVM 2 mit 8 GB liegt genau an dieser Grenze. Der KVM 4 mit 16 GB ist der erste mit Reserve.",
-        "Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen. Mit dem Empfehlungslink kostet sie 3,99 USD pro Monat im 24-Monats-Plan, und Hostinger installiert und aktualisiert den Assistenten. Der KVM 1 kostet ohne Link 6,49 USD pro Monat; mit dem Link zählt der Endpreis im Warenkorb."
+        "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste mit Reserve. Wer keinen Server betreuen will, sieht sich die verwaltete Option weiter unten an."
       ]
     },
     {
       "heading": "Was die offizielle Dokumentation sagt (und nicht sagt) zu Anforderungen",
       "paragraphs": [
+        "OpenClaw kann ein KI-Modell nutzen, das beim Anbieter bleibt, über Ihren eigenen API-Schlüssel oder das KI-Guthaben von Hostinger, oder ein lokales Modell, das auf dem Server selbst läuft. Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem Anbieter Antworten anfordert; der Anbieter rechnet die Nutzung ab. Liegt das Modell beim Anbieter, geht die Anfrage an das KI-Unternehmen, und der Server führt nur das Programm aus.",
         "Die offiziellen Seiten zur Installation und zu lokalen Modellen, gelesen am 21.10.2026, sagen Folgendes:"
       ],
       "bullets": [
@@ -101,7 +100,7 @@
     {
       "heading": "Welchen KVM-Tarif wählen",
       "paragraphs": [
-        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt die vier, mit Preisen für 24-Monats-Pläne vom 21.10.2026. Den Preis mit Empfehlungslink haben wir nicht gelesen, deshalb steht dort „im Warenkorb“. Lesen Sie jeden Tarif neben der Dokumentation:"
+        "KVM ist der Name der virtuellen Server-Tarife von Hostinger. Die Tabelle zeigt die vier, mit Preisen für 24-Monats-Pläne vom 21.10.2026. Den Preis mit Empfehlungslink haben wir nicht gelesen, deshalb steht dort „im Warenkorb“. Lesen Sie jeden Tarif neben der Dokumentation; das ist unsere Lesart, keine Messung:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-de.webp",
@@ -207,7 +206,8 @@
         ]
       },
       "postParagraphs": [
-        "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ab dann liegt die Wartung bei Ihnen."
+        "Auf dem VPS installiert Hostinger OpenClaw mit Docker, einem Programm, das jede Anwendung isoliert in einem Container laufen lässt. Ab dann liegt die Wartung bei Ihnen.",
+        "Wer sich nicht um einen Server kümmern will, sollte sich die [verwaltete Option](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) ansehen, bei der Hostinger den Assistenten installiert und aktualisiert."
       ]
     },
     {
@@ -223,6 +223,18 @@
       ],
       "postParagraphs": [
         "Die Regel, die ins Gewicht fällt: Oracle sagt, dass es eine untätige Instanz zurücknehmen kann. Sie gilt als untätig, wenn in einem Zeitraum von 7 Tagen die CPU-Auslastung im 95. Perzentil unter 20 % liegt, die Netzwerkauslastung unter 20 % und bei den A1-Instanzen auch die Speicherauslastung unter 20 % bleibt. Ein Assistent, der den größten Teil der Zeit still steht, kann unter diese Regel fallen. Die Dokumentation beschreibt keine Vorwarnung vor der Rücknahme."
+      ]
+    },
+    {
+      "heading": "Was Sie wählen sollten, kurz gesagt",
+      "paragraphs": [
+        "Die Wahl des Tarifs richtet sich danach, wo das KI-Modell läuft und wie viel Serverarbeit Sie übernehmen wollen."
+      ],
+      "bullets": [
+        "Modell in der Cloud, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt.",
+        "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. KVM 8 mit 32 GB ergibt nur bei einem größeren lokalen Modell Sinn.",
+        "Wer sich nicht um einen Server kümmern will: die verwaltete Option, bei der Hostinger den Assistenten installiert und aktualisiert.",
+        "Zum kostenlosen Testen: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückfordern kann."
       ]
     },
     {

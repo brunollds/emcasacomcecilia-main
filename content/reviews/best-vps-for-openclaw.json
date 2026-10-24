@@ -45,14 +45,13 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "If the AI model stays with the provider, that is, you use your own API key or Hostinger's AI credits, the request goes to the AI company and the model does not run on your server. An API key is the password OpenClaw uses to ask a provider for answers, and the provider charges for each use. In that case the documentation gives no memory number, and the server only runs the program. That is why KVM 1, with 4 GB of RAM, is the starting point. This is our reading of the documentation, not a measurement.",
-        "With a local model, which runs on the server itself, the math changes. The documentation sets a floor of 8 GiB of memory (about 8.6 GB) for its smallest local recipe, with a 64K context. KVM 2, with 8 GB, sits right at the limit. KVM 4, with 16 GB, is the first with room to spare.",
-        "If you don't want to look after a server, look at the [managed plan](/en/reviews/openclaw-hostinger-managed-or-vps). With the link it costs US$3.99/month over the first 24-month period, while KVM 1 costs US$6.49/month without the link (with the link, its price is shown in the cart). Hostinger installs and updates the assistant."
+        "With the AI model at the provider, via your API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. With a local model, the documentation asks for 8 GiB, and KVM 4, with 16 GB, is the first with room. If you don't want to run a server, see the managed plan below."
       ]
     },
     {
       "heading": "What the official documentation says (and doesn't say) about requirements",
       "paragraphs": [
+        "OpenClaw can use an AI model that stays with the provider, through your API key or Hostinger's AI credits, or a local model, which runs on the server itself. An API key is the password OpenClaw uses to ask a provider for answers, and the provider charges for each use. With the model at the provider, the request goes to the AI company and the server only runs the program.",
         "The official installation and local-model pages, read on October 21, 2026, say the following:"
       ],
       "bullets": [
@@ -102,7 +101,7 @@
     {
       "heading": "Which KVM plan to choose",
       "paragraphs": [
-        "KVM is the name of Hostinger's virtual server plans. The table has the four, with prices for 24-month plans read on October 21, 2026. The price with the referral link is shown in the cart, because we did not read it on the global page. Read each plan against the documentation:"
+        "KVM is the name of Hostinger's virtual server plans. The table has the four, with prices for 24-month plans read on October 21, 2026. The price with the referral link is shown in the cart, because we did not read it on the global page. Read each plan against the documentation; this is our reading of it, not a measurement:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-en.webp",
@@ -208,7 +207,8 @@
         ]
       },
       "postParagraphs": [
-        "On the VPS, Hostinger installs OpenClaw with Docker, a program that runs each application isolated in a container. From then on, maintenance is yours."
+        "On the VPS, Hostinger installs OpenClaw with Docker, a program that runs each application isolated in a container. From then on, maintenance is yours.",
+        "If you don't want to look after a server, look at the [managed plan](/en/reviews/openclaw-hostinger-managed-or-vps), where Hostinger installs and updates the assistant."
       ]
     },
     {
@@ -224,6 +224,18 @@
       ],
       "postParagraphs": [
         "The rule that matters: Oracle says it can reclaim an idle instance. It is considered idle when, over a 7-day period, CPU usage at the 95th percentile stays below 20%, network usage stays below 20% and, on the A1 instances, memory usage also stays below 20%. An assistant that sits idle most of the time can fall under this rule. The documentation does not describe a notice before reclamation."
+      ]
+    },
+    {
+      "heading": "Which to choose, in short",
+      "paragraphs": [
+        "The choice of plan follows where the AI model runs and how much server work you want."
+      ],
+      "bullets": [
+        "Cloud model, through your API key or Hostinger's AI credits: KVM 1, with 4 GB, as the starting point.",
+        "Local model: KVM 4, with 16 GB, the first plan with room above the official 8 GiB floor. KVM 8, with 32 GB, only makes sense for a larger local model.",
+        "Not wanting to look after a server: the managed plan, where Hostinger installs and updates the assistant.",
+        "To test for free: Oracle Always Free, knowing Oracle may reclaim an idle instance."
       ]
     },
     {

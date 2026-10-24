@@ -42,22 +42,13 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países. SHEIN todavía no anunció el Black Friday de 2026. En los últimos tres años, las ofertas empezaron antes de la fecha, junto con el 11.11 (la campaña del Día de los Solteros), y terminaron después de él: el 25/11 en 2023 y el 30/11 en 2024 y 2025. En 2026, el Black Friday cae el 27 de noviembre.",
-        "El gran cambio de este año es el impuesto. Desde el 13 de mayo de 2026, un pedido internacional de hasta **US$ 50** (producto más envío, ya con los descuentos) no paga impuesto de importación. El ICMS del estado, de 17% a 20%, sigue vigente, y SHEIN dice que cubre una parte. Por encima de US$ 50, el impuesto de importación vuelve.",
-        "Vale un cupón de SHEIN por pedido. El 4CW5Y es el código de referido de Cecília para SHEIN Brasil: busca el código en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países."
-      ],
-      "image": {
-        "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
-        "alt": "Collage de la página de inicio de SHEIN en diez mercados, cada uno con la dirección de su sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
-        "caption": "La página de inicio de SHEIN en diez mercados el 12 de octubre de 2026. Cada mercado tiene su propio sitio; esta guía trata de SHEIN Brasil (br.shein.com).",
-        "objectFit": "contain",
-        "aspectRatio": 2.8571
-      }
+        "SHEIN Brasil todavía no anunció el Black Friday de 2026, que cae el 27 de noviembre. Según otros años, las ofertas empiezan antes, con el 11.11, y duran hasta el 30 de noviembre. Un pedido internacional de hasta US$ 50 no paga impuesto de importación, solo ICMS; la cuenta, en “El impuesto en el Black Friday: qué cambió en 2026”."
+      ]
     },
     {
       "heading": "Cuándo empieza el Black Friday de SHEIN",
       "paragraphs": [
-        "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió."
+        "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió. Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países."
       ],
       "comparisonTable": {
         "caption": "Fases y descuentos máximos anunciados por SHEIN Brasil, por la prensa que publicó los comunicados y por los perfiles de la marca. El “hasta” vale para algunos artículos.",
@@ -87,7 +78,14 @@
       "postParagraphs": [
         "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes, 27 de noviembre. Si SHEIN repite el patrón, las ofertas deberían empezar entre finales de octubre y principios de noviembre, y llegar hasta el 30 de noviembre. Es una estimación según el historial, y esta guía se actualizará cuando SHEIN anuncie la campaña de 2026.",
         "En esos tres años, el descuento máximo subió hacia el final: 90% el 24 y el 25/11 de 2023, 95% del 26 al 30/11 de 2024 y 95% desde el 24/11 de 2025."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+        "alt": "Collage de la página de inicio de SHEIN en diez mercados, cada uno con la dirección de su sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
+        "caption": "La página de inicio de SHEIN en diez mercados el 12 de octubre de 2026. Cada mercado tiene su propio sitio; esta guía trata de SHEIN Brasil (br.shein.com).",
+        "objectFit": "contain",
+        "aspectRatio": 2.8571
+      }
     },
     {
       "heading": "“Hasta 90%” no es todo el carrito",

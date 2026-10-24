@@ -32,22 +32,14 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。",
-        "本文不比较价格。内容只整理两家官方页面的规定，查阅日期为 2026年10月21日。"
-      ],
-      "bullets": [
-        "**免运费门槛：** YesStyle 新加坡满 US$50，马来西亚满 US$35。Olive Young Global 满 US$60；未满的运费为 US$5（新加坡与马来西亚相同）。",
-        "**运送时间：** YesStyle 新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日。Olive Young Global 新加坡 5 至 6 天（页面只写“天”，不说明是否为工作日），马来西亚未公布。",
-        "**税费：** 新加坡的 9% GST 已含在 YesStyle 价格里（S$400 以内的商品）；马来西亚的 10% 销售税在结账时另加。Olive Young Global 在新加坡购买时收取 9% 税。",
-        "**退货：** YesStyle 收到后 14 天内可申请改变主意与换尺码的退货。Olive Young Global 只接受瑕疵品或寄错的商品。"
-      ],
-      "postParagraphs": [
-        "查看 YesStyle 的优惠内容，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
+        "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。具体数字与选择建议，请看后面的“该选哪一家，看所在国家”。"
       ]
     },
     {
       "heading": "各国寄送情况",
       "paragraphs": [
+        "两家都寄到新加坡和马来西亚，但免运费门槛、运送时间、税费与退货规定各不相同。",
+        "本文不比较价格。内容只整理两家官方页面的规定，查阅日期为 2026年10月21日。",
         "每一行是一个国家。YesStyle 栏来自 2026年10月13日起生效的运费表；Olive Young Global 栏来自 2026年10月21日读取的寄送页面与运费 FAQ。没有公布时间的，表格照实写。"
       ],
       "comparisonTable": {
@@ -229,6 +221,18 @@
       "paragraphs": [
         "CECILIA010 是 YesStyle 的奖励码（Reward Code），请填在结账页的 Reward Code 栏位。首购最高 5%，回购 2%，并可与 YesStyle 目前有效的优惠券一同计算。",
         "这篇比较中的 Olive Young Global 没有我们的代码。目前有效的 YesStyle 优惠券内容，请看 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
+      ]
+    },
+    {
+      "heading": "该选哪一家，看所在国家",
+      "bullets": [
+        "**免运费门槛：** YesStyle 新加坡满 US$50，马来西亚满 US$35。Olive Young Global 满 US$60；未满的运费为 US$5（新加坡与马来西亚相同）。",
+        "**运送时间：** YesStyle 新加坡 Express 3 至 5 个工作日，马来西亚 Standard 10 至 16 个工作日。Olive Young Global 新加坡 5 至 6 天（页面只写“天”，不说明是否为工作日），马来西亚未公布。",
+        "**税费：** 新加坡的 9% GST 已含在 YesStyle 价格里（S$400 以内的商品）；马来西亚的 10% 销售税在结账时另加。Olive Young Global 在新加坡购买时收取 9% 税。",
+        "**退货：** YesStyle 收到后 14 天内可申请改变主意与换尺码的退货。Olive Young Global 只接受瑕疵品或寄错的商品。"
+      ],
+      "postParagraphs": [
+        "查看 YesStyle 的优惠内容，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
       ]
     },
     {

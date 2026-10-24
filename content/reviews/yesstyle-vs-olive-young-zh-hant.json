@@ -32,22 +32,14 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。",
-        "本文不比較價格。內容只整理兩家官方頁面的規定，查閱日期為 2026年10月21日。"
-      ],
-      "bullets": [
-        "**免運門檻：** YesStyle 台灣滿 US$50、香港滿 US$35。Olive Young Global 香港滿 US$60；台灣滿 US$35（自 2026年7月30日起，以扣除優惠後的實付金額計算）。",
-        "**運送時間：** YesStyle 台灣 Express 3 至 6 個工作天，香港順豐 1 至 3 個工作天。Olive Young Global 台灣 5 至 6 天，香港 3 至 5 天（頁面只寫「天」，不說明是否為工作天）。",
-        "**稅費：** YesStyle 沒有台灣與香港的稅費頁面。Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。",
-        "**退貨：** YesStyle 收到後 14 天內可申請改變心意與換尺寸的退貨。Olive Young Global 只接受瑕疵品或寄錯的商品。"
-      ],
-      "postParagraphs": [
-        "查看 YesStyle 的優惠內容，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+        "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。具體數字與選擇建議，請看「該選哪一家，看所在地區」。"
       ]
     },
     {
       "heading": "各國寄送情況",
       "paragraphs": [
+        "要看你住在哪裡。YesStyle 與 Olive Young Global 都寄到台灣與香港，但兩家的免運門檻、運送時間、稅費與退貨規定不一樣。",
+        "本文不比較價格。內容只整理兩家官方頁面的規定，查閱日期為 2026年10月21日。",
         "每一列是一個國家。YesStyle 欄來自 2026年10月13日起生效的運費表；Olive Young Global 欄來自 2026年10月21日讀取的寄送頁面與運費 FAQ。沒有公布時間的，表格照實寫。"
       ],
       "comparisonTable": {
@@ -229,6 +221,18 @@
       "paragraphs": [
         "CECILIA010 是 YesStyle 的獎勵碼（Reward Code），請填在結帳頁的 Reward Code 欄位。首購最高 5%，回購 2%，並可與 YesStyle 目前有效的優惠券一同計算。",
         "這篇比較中的 Olive Young Global 沒有我們的代碼。目前有效的 YesStyle 優惠券內容，請看 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+      ]
+    },
+    {
+      "heading": "該選哪一家，看所在地區",
+      "bullets": [
+        "**免運門檻：** YesStyle 台灣滿 US$50、香港滿 US$35。Olive Young Global 香港滿 US$60；台灣滿 US$35（自 2026年7月30日起，以扣除優惠後的實付金額計算）。",
+        "**運送時間：** YesStyle 台灣 Express 3 至 6 個工作天，香港順豐 1 至 3 個工作天。Olive Young Global 台灣 5 至 6 天，香港 3 至 5 天（頁面只寫「天」，不說明是否為工作天）。",
+        "**稅費：** YesStyle 沒有台灣與香港的稅費頁面。Olive Young Global 的價格與運費不含稅，到貨時的額外費用由顧客負擔。",
+        "**退貨：** YesStyle 收到後 14 天內可申請改變心意與換尺寸的退貨。Olive Young Global 只接受瑕疵品或寄錯的商品。"
+      ],
+      "postParagraphs": [
+        "查看 YesStyle 的優惠內容，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
       ]
     },
     {

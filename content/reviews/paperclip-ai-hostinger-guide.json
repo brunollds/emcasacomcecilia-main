@@ -45,15 +45,13 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Paperclip is a program for organizing a team of AI agents. Instead of a single assistant, you build the team with roles, goals and a spending limit for each agent. It does not run an AI model itself: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw. The code is open, under the MIT license, and the official repository says the project is maintained by the Paperclip team.",
-        "On Hostinger there are two ways to run it. The **managed** plan is for people who don't want to deal with a server: Hostinger looks after the database, the updates and the backups. The **VPS** is a rented server, with Docker, where security and updates are up to you. In both cases, the AI keys (Claude, OpenAI and others) are yours: the Paperclip managed page does not list AI credits from Hostinger.",
-        "On October 21, 2026, the managed plan costs **US$3.99/month** with the referral link and US$4.99 without it, on a 24-month plan. It renews at **US$11.99/month**."
+        "Paperclip organizes a team of AI agents, with roles, goals and a spending limit for each, but does not run the AI: the keys are yours. On Hostinger it runs managed or on a VPS. What changes the decision is who looks after the server; see the chapters Managed or VPS on Hostinger and How much it costs below."
       ]
     },
     {
       "heading": "What Paperclip is, in plain language",
       "paragraphs": [
-        "Think of a small company. It has an owner, managers and employees, each with a role. Paperclip does the same with AI agents: each agent has a position, a job description and a boss. Whoever is above delegates tasks, and whoever is below reports back. The documentation highlights five ideas in the project."
+        "Paperclip is a program for organizing a team of AI agents: instead of a single assistant, you build the team with roles, goals and a spending limit for each agent. Think of a small company. It has an owner, managers and employees, each with a role. Paperclip does the same with AI agents: each agent has a position, a job description and a boss. Whoever is above delegates tasks, and whoever is below reports back. The documentation highlights five ideas in the project."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-en.webp",
@@ -86,9 +84,10 @@
     {
       "heading": "What you need",
       "paragraphs": [
-        "Before you sign up, check these four points."
+        "Before you sign up, check these five points."
       ],
       "bullets": [
+        "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
         "**Postgres.** This is the database where Paperclip keeps agents, tasks and records. In a local install, it comes built in and starts by itself. In production, the project itself recommends pointing it to your own Postgres. On managed, the database is included. On the VPS, the database is up to you.",
         "**Your own AI keys.** An API key is the password the program uses to ask a provider, such as Anthropic (Claude), OpenAI or another, for answers. The provider charges for that use, directly to you. The Paperclip managed page says you connect “your own agents and API keys”, and does not list included AI credits. Without a key, the team does not answer.",
         "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the cost is only whatever the provider charges at the end of the month.",

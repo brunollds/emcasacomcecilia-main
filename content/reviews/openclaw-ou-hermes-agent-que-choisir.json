@@ -45,8 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Choisissez **OpenClaw** si vous voulez relier l'agent à de nombreux canaux de messagerie, utiliser une interface web (Control UI) et disposer d'applications natives pour téléphone et ordinateur. Le README annonce plus de 20 canaux, et le projet est porté par une fondation à but non lucratif. Choisissez **Hermes Agent** si vous voulez un agent qui apprend en s'utilisant : il organise lui-même sa mémoire, crée et améliore ses propres compétences, cherche dans les anciennes conversations et modélise l'utilisateur avec Honcho. Hermes Agent est développé par Nous Research.",
-        "Si vous ne voulez pas gérer de serveur, l'offre gérée de Hostinger couvre les deux au même prix : 3,99 US$/mois avec le lien de parrainage, sur un forfait de 24 mois. Le logiciel est gratuit dans les deux cas ; ce que vous payez, ce sont le serveur et l'usage des modèles d'IA."
+        "Choisissez OpenClaw pour de nombreux canaux de messagerie et des applications natives sur téléphone et ordinateur, Hermes Agent pour un agent qui apprend en s'utilisant. Le logiciel est gratuit dans les deux cas, et l'offre gérée de Hostinger convient aux deux. Ce qui tranche, c'est la tâche de l'agent ; voir le chapitre À qui convient chacun, plus bas."
       ]
     },
     {
@@ -139,26 +138,6 @@
       ]
     },
     {
-      "heading": "À qui convient chacun",
-      "paragraphs": [
-        "Les deux sont open source et ne facturent aucune licence. Le choix dépend de ce que vous voulez que l'agent fasse, pas du logiciel."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
-        "alt": "Tableau à quatre profils et la réponse pour chacun : beaucoup de canaux et une application sur le téléphone mènent à OpenClaw ; un agent qui apprend et crée ses propres compétences mène à Hermes Agent ; ne pas vouloir gérer de serveur mène à l'offre gérée ; vouloir un accès root et d'autres programmes mène au VPS",
-        "caption": "D'après la documentation de chaque projet, consultée le 21 octobre 2026."
-      },
-      "bullets": [
-        "**Vous voulez beaucoup de canaux et une application sur le téléphone :** OpenClaw. Le README annonce plus de 20 canaux et propose des applications natives pour téléphone et ordinateur, en plus de la Control UI sur le web.",
-        "**Vous voulez un agent qui apprend en s'utilisant :** Hermes Agent. Il organise sa propre mémoire, crée et améliore ses propres compétences et cherche dans les anciennes conversations.",
-        "**Vous voulez un accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est le compte administrateur, avec le contrôle total du serveur.",
-        "**Vous ne voulez pas installer ni gérer de serveur :** géré, pour les deux. Hostinger installe et met à jour."
-      ],
-      "postParagraphs": [
-        "Personne dans l'équipe n'utilise l'un ni l'autre. Les profils viennent de la documentation des projets, pas de notre expérience."
-      ]
-    },
-    {
       "heading": "Avant d'installer",
       "paragraphs": [
         "Avant de commencer, vérifiez trois points. Ils valent pour les deux agents."
@@ -183,6 +162,26 @@
       ],
       "postParagraphs": [
         "Pour choisir entre géré et VPS, la question est de savoir qui s'occupe des données et des identifiants. Le guide [géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps) traite ce point en détail."
+      ]
+    },
+    {
+      "heading": "À qui convient chacun",
+      "paragraphs": [
+        "Les deux sont open source et ne facturent aucune licence. Le choix dépend de ce que vous voulez que l'agent fasse, pas du logiciel."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-fr.webp",
+        "alt": "Tableau à quatre profils et la réponse pour chacun : beaucoup de canaux et une application sur le téléphone mènent à OpenClaw ; un agent qui apprend et crée ses propres compétences mène à Hermes Agent ; ne pas vouloir gérer de serveur mène à l'offre gérée ; vouloir un accès root et d'autres programmes mène au VPS",
+        "caption": "D'après la documentation de chaque projet, consultée le 21 octobre 2026."
+      },
+      "bullets": [
+        "**Vous voulez beaucoup de canaux et une application sur le téléphone :** OpenClaw. Le README annonce plus de 20 canaux et propose des applications natives pour téléphone et ordinateur, en plus de la Control UI sur le web.",
+        "**Vous voulez un agent qui apprend en s'utilisant :** Hermes Agent. Il organise sa propre mémoire, crée et améliore ses propres compétences et cherche dans les anciennes conversations.",
+        "**Vous voulez un accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est le compte administrateur, avec le contrôle total du serveur.",
+        "**Vous ne voulez pas installer ni gérer de serveur :** géré, pour les deux. Hostinger installe et met à jour."
+      ],
+      "postParagraphs": [
+        "Personne dans l'équipe n'utilise l'un ni l'autre. Les profils viennent de la documentation des projets, pas de notre expérience."
       ]
     },
     {

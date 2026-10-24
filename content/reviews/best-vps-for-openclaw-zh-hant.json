@@ -45,14 +45,13 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "如果模型在供應商那邊，也就是你使用自己的 API 金鑰或 Hostinger 的 AI 額度，請求會送到 AI 公司，模型不會在你的伺服器上執行。API 金鑰是 OpenClaw 向付費供應商請求回覆時使用的密碼。這種情況下，文件沒有記憶體數字，伺服器只負責運行程式。所以起點是 4 GB RAM 的 KVM 1。這是我們讀文件後的判斷，不是實測結果。",
-        "如果改用本機模型，模型在伺服器上執行，計算就不一樣了。文件對最小的本機配方（上下文 64K）給出 8 GiB（約 8.6 GB）的記憶體下限。8 GB 的 KVM 2 剛好卡在這條線上。16 GB 的 KVM 4 是第一個有餘裕的方案。",
-        "如果你不想管伺服器，可以看[託管方案](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)。有推薦連結的託管是每月 US$ 3.99，Hostinger 會幫你安裝助理並更新。沒有推薦連結的 KVM 1 是 US$ 6.49（有推薦連結的 VPS 價格請在購物車確認）。"
+        "模型在供應商那邊時，用 API 金鑰或 Hostinger 額度，起點是 4 GB 的 KVM 1。用本機模型，文件要求 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下文的託管方案。"
       ]
     },
     {
       "heading": "官方文件說了什麼（又沒說什麼）",
       "paragraphs": [
+        "OpenClaw 可以使用留在供應商那邊的 AI 模型（用你自己的 API 金鑰或 Hostinger 的 AI 額度），也可以使用在伺服器上執行的本機模型。API 金鑰是 OpenClaw 向付費供應商請求回覆時使用的密碼。模型在供應商那邊時，請求會送到 AI 公司，伺服器只負責運行程式。",
         "官方的安裝頁和本機模型頁（2026年10月21日閱讀），內容如下："
       ],
       "bullets": [
@@ -102,7 +101,7 @@
     {
       "heading": "該選哪個 KVM 方案",
       "paragraphs": [
-        "KVM 是 Hostinger 虛擬伺服器方案的名稱。表格列出四個方案，價格是 2026年10月21日讀取的 24 個月方案。請對照文件來看每個方案："
+        "KVM 是 Hostinger 虛擬伺服器方案的名稱。表格列出四個方案，價格是 2026年10月21日讀取的 24 個月方案。請對照文件來看每個方案；這是我們的判斷，不是實測："
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-zh-hant.webp",
@@ -208,7 +207,8 @@
         ]
       },
       "postParagraphs": [
-        "在 VPS 上，Hostinger 會用 Docker（一種把每個應用程式隔離在容器中執行的程式）替你安裝 OpenClaw。之後的維護就由你負責。"
+        "在 VPS 上，Hostinger 會用 Docker（一種把每個應用程式隔離在容器中執行的程式）替你安裝 OpenClaw。之後的維護就由你負責。",
+        "如果你不想管伺服器，可以看[託管方案](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，由 Hostinger 幫你安裝助理並更新。"
       ]
     },
     {
@@ -224,6 +224,18 @@
       ],
       "postParagraphs": [
         "關鍵規則是：Oracle 可能回收閒置的執行個體。在 7 天內，若 CPU 第 95 百分位使用率低於 20%、網路使用率低於 20%，而且 A1 的記憶體使用率也低於 20%，就會被視為閒置。大部分時間都靜止的助理，可能會碰到這條規則。文件沒有說明回收前是否會事先通知。"
+      ]
+    },
+    {
+      "heading": "怎麼選，簡要總結",
+      "paragraphs": [
+        "選方案取決於 AI 模型在哪裡執行，以及你願意承擔多少伺服器工作。"
+      ],
+      "bullets": [
+        "雲端模型（API 金鑰或 Hostinger 的 AI 額度）：以 4 GB 的 KVM 1 為起點。",
+        "本機模型：高於官方 8 GiB 下限、有餘裕的第一個方案是 16 GB 的 KVM 4。32 GB 的 KVM 8 只有在執行更大的本機模型時才有意義。",
+        "不想管伺服器：託管方案，由 Hostinger 安裝並更新助理。",
+        "免費試用：Oracle Always Free，但 Oracle 可能回收閒置的實例。"
       ]
     },
     {
