@@ -21,9 +21,10 @@
   "isNew": false,
   "locale": "ko",
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-  "imageAlt": "K-뷰티의 '글래스 스킨' 개념을 보여주는, 촉촉하고 윤기 있는 피부를 가진 여성",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+  "imageAlt": "아비브 한국 화장품 세 가지를 사용하는 세실리아: 튜브 크림, 하이드로겔 아이 패치, 립 마스크",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -141,7 +142,5 @@
       "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
     }
   ],
-  "imageAspect": "landscape",
-  "heroCompact": true,
   "translationKey": "yesstyle-kbeauty"
 }

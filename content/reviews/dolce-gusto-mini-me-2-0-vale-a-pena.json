@@ -12,9 +12,10 @@
   "publishedAt": "12 de agosto de 2026",
   "publishedAtISO": "2026-08-12",
   "updatedAt": "2026-08-12",
-  "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
-  "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
+  "imageAlt": "Bruno com a caixa da cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 e a máquina vermelha com cápsulas, em gravação para o canal Em Casa com Cecília",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "productSpec": [
     {
       "key": "Marca",

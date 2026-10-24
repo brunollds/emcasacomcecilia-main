@@ -21,9 +21,10 @@
   "isNew": false,
   "locale": "it",
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
-  "imageAlt": "Donna dalla pelle luminosa e idratata, a rappresentare il concetto di \"glass skin\" della K-Beauty",
-  "imageFit": "cover",
+  "image": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+  "imageAlt": "Cecília usa tre prodotti coreani Abib: la crema in tubetto, il patch in idrogel per gli occhi e la maschera labbra",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -141,7 +142,5 @@
       "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
     }
   ],
-  "imageAspect": "landscape",
-  "heroCompact": true,
   "translationKey": "yesstyle-kbeauty"
 }

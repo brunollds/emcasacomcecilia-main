@@ -42511,6 +42511,108 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+      "local_url": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 139036,
+      "sha256": "ec53087f39f1e0c8c9af7b62378ae0555f6258d591eb21a5fbfa5f5be3506204",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "k-beauty-familia-capa-discover.webp",
+      "storage_filename": "k-beauty-familia-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/k-beauty-marcas-coreanas-tendencia-mundial.json",
+        "content/reviews/k-beauty-tendance-beaute-coreenne.json",
+        "content/reviews/k-beauty-tendenza-bellezza-coreana.json",
+        "content/reviews/k-beauty-trend-explained-where-to-buy.json",
+        "content/reviews/k-beauty-trend-koreanische-marken-kaufen.json",
+        "content/reviews/yesstyle-kbeauty-guide-ja.json",
+        "content/reviews/yesstyle-kbeauty-guide-ko.json",
+        "content/reviews/yesstyle-kbeauty-guide-zh-hans.json",
+        "content/reviews/yesstyle-kbeauty-guide-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/k-beauty-marcas-coreanas-tendencia-mundial.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/k-beauty-tendance-beaute-coreenne.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/k-beauty-tendenza-bellezza-coreana.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/k-beauty-trend-explained-where-to-buy.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/k-beauty-trend-koreanische-marken-kaufen.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-kbeauty-guide-ja.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-kbeauty-guide-ko.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-kbeauty-guide-zh-hans.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-kbeauty-guide-zh-hant.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-familia-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ec53087f39f1e0c8c9af7b62378ae0555f6258d591eb21a5fbfa5f5be3506204/k-beauty-familia-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ec53087f39f1e0c8c9af7b62378ae0555f6258d591eb21a5fbfa5f5be3506204/k-beauty-familia-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.135Z",
+      "verification_etag_or_digest": "ec53087f39f1e0c8c9af7b62378ae0555f6258d591eb21a5fbfa5f5be3506204",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
       "local_url": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
       "media_kind": "image",
@@ -42840,6 +42942,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "a73f51f84c3a3733ecd3a972fe20456bdbe945caae4d14fd0626f586649cd0ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
+      "local_url": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 144928,
+      "sha256": "e5d78c662523009bfeedf3ac8fe7a4d556157ab79944799d04eb921ba1b6f628",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "k-beauty-o-que-e-capa-discover.webp",
+      "storage_filename": "k-beauty-o-que-e-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/k-beauty-o-que-e-onde-comprar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/k-beauty-o-que-e-onde-comprar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/cupons/k-beauty-o-que-e-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e5d78c662523009bfeedf3ac8fe7a4d556157ab79944799d04eb921ba1b6f628/k-beauty-o-que-e-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5d78c662523009bfeedf3ac8fe7a4d556157ab79944799d04eb921ba1b6f628/k-beauty-o-que-e-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.135Z",
+      "verification_etag_or_digest": "e5d78c662523009bfeedf3ac8fe7a4d556157ab79944799d04eb921ba1b6f628",
       "verification_status": "verified"
     },
     {
@@ -49657,6 +49797,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "4283f8b1a5d908d15c5587a295605559fda451b69f8517fca25fe1e3adfdfe93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85666,
+      "sha256": "7187a99c38d96c5f1c8bcd2acb8784125ff40d90f424f8f41bf8b563910eb215",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "storage_filename": "dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-mini-me-2-0-vale-a-pena.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-mini-me-2-0-vale-a-pena.json",
+          "line": 15,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7187a99c38d96c5f1c8bcd2acb8784125ff40d90f424f8f41bf8b563910eb215/dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7187a99c38d96c5f1c8bcd2acb8784125ff40d90f424f8f41bf8b563910eb215/dolce-gusto-mini-me-2-0-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.135Z",
+      "verification_etag_or_digest": "7187a99c38d96c5f1c8bcd2acb8784125ff40d90f424f8f41bf8b563910eb215",
       "verification_status": "verified"
     },
     {
@@ -71244,6 +71422,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/guia-linha-ninho-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/guia-linha-ninho-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106986,
+      "sha256": "be3c99bbc05e237bbf743db74ca69d2fde46c730bb20ffad79135916c0b26295",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "guia-linha-ninho-capa-discover.webp",
+      "storage_filename": "guia-linha-ninho-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/guia-linha-ninho-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/be3c99bbc05e237bbf743db74ca69d2fde46c730bb20ffad79135916c0b26295/guia-linha-ninho-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/be3c99bbc05e237bbf743db74ca69d2fde46c730bb20ffad79135916c0b26295/guia-linha-ninho-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "be3c99bbc05e237bbf743db74ca69d2fde46c730bb20ffad79135916c0b26295",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "local_url": "/images/reviews/nutren/isosource-1-5-ou-trophic-1-5-capa.webp",
       "media_kind": "image",
@@ -72083,6 +72299,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48718,
+      "sha256": "621f5cdd0ba9fbbb8f387f398e23f47e98f22d0b52d8a5ea8207dbdde1ea219b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-creatina-e-boa-capa-discover.webp",
+      "storage_filename": "nutren-creatina-e-boa-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/621f5cdd0ba9fbbb8f387f398e23f47e98f22d0b52d8a5ea8207dbdde1ea219b/nutren-creatina-e-boa-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/621f5cdd0ba9fbbb8f387f398e23f47e98f22d0b52d8a5ea8207dbdde1ea219b/nutren-creatina-e-boa-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "621f5cdd0ba9fbbb8f387f398e23f47e98f22d0b52d8a5ea8207dbdde1ea219b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
       "local_url": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
       "media_kind": "image",
@@ -72407,6 +72661,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "b039e798fb75969858bd1785a21a9bd8a82694427c9c33f3f015499fb756560a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-just-protein-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/nutren-just-protein-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53268,
+      "sha256": "5c5bd8a482a6a84ce37d5d1c0637de6a856c5c824d2dbac6de31d1f8e6960fee",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-just-protein-capa-discover.webp",
+      "storage_filename": "nutren-just-protein-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-just-protein-para-que-serve.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-just-protein-para-que-serve.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-just-protein-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5c5bd8a482a6a84ce37d5d1c0637de6a856c5c824d2dbac6de31d1f8e6960fee/nutren-just-protein-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5c5bd8a482a6a84ce37d5d1c0637de6a856c5c824d2dbac6de31d1f8e6960fee/nutren-just-protein-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "5c5bd8a482a6a84ce37d5d1c0637de6a856c5c824d2dbac6de31d1f8e6960fee",
       "verification_status": "verified"
     },
     {
@@ -73146,6 +73438,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "e70244b793e971c24dbaf9dfe1e41822b98b5f1176fbd4f88cb841a6ace2cf75",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59078,
+      "sha256": "44042ed6719743c1bc24d64d39193f9c265438cc168e93018ed9c6f531e17503",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-zero-lactose-capa-discover.webp",
+      "storage_filename": "nutren-senior-zero-lactose-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-zero-lactose-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/44042ed6719743c1bc24d64d39193f9c265438cc168e93018ed9c6f531e17503/nutren-senior-zero-lactose-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/44042ed6719743c1bc24d64d39193f9c265438cc168e93018ed9c6f531e17503/nutren-senior-zero-lactose-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "44042ed6719743c1bc24d64d39193f9c265438cc168e93018ed9c6f531e17503",
       "verification_status": "verified"
     },
     {
@@ -86924,6 +87254,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 143906,
+      "sha256": "a931b1ca6d73ac59bb1e872140008a1e4e2b8e34689f304adfcea93f4ff482fc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-sem-empelotar-capa-discover.webp",
+      "storage_filename": "nutren-senior-sem-empelotar-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-como-tomar-sem-empelotar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-como-tomar-sem-empelotar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-sem-empelotar-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a931b1ca6d73ac59bb1e872140008a1e4e2b8e34689f304adfcea93f4ff482fc/nutren-senior-sem-empelotar-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a931b1ca6d73ac59bb1e872140008a1e4e2b8e34689f304adfcea93f4ff482fc/nutren-senior-sem-empelotar-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "a931b1ca6d73ac59bb1e872140008a1e4e2b8e34689f304adfcea93f4ff482fc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
       "local_url": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
       "media_kind": "image",
@@ -87310,6 +87678,82 @@
       "uploaded_at": null,
       "verified_at": "2026-10-04T02:31:27.872Z",
       "verification_etag_or_digest": "02beaa4f840c4949ff5257067f9a86dcf375ddef36eeb833396cd39b33097905",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 152712,
+      "sha256": "e09b9263e0e88dd347a4655db17556fc654cb732e116ce953bf59a0a06a58ce4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-ceci-nestle-nutre-capa-discover.webp",
+      "storage_filename": "cupom-ceci-nestle-nutre-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceci-nestle-nutre-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceci-nestle-nutre-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/cupom-ceci-nestle-nutre-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e09b9263e0e88dd347a4655db17556fc654cb732e116ce953bf59a0a06a58ce4/cupom-ceci-nestle-nutre-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e09b9263e0e88dd347a4655db17556fc654cb732e116ce953bf59a0a06a58ce4/cupom-ceci-nestle-nutre-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "e09b9263e0e88dd347a4655db17556fc654cb732e116ce953bf59a0a06a58ce4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/fibermais-como-usar-capa-discover.webp",
+      "local_url": "/images/reviews/nutren/fibermais-como-usar-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53660,
+      "sha256": "da9425a570a44a0b4e55104d1ed1508d769881418640f4a3b7624d4276f2dbd5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fibermais-como-usar-capa-discover.webp",
+      "storage_filename": "fibermais-como-usar-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/fibermais-como-usar-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/da9425a570a44a0b4e55104d1ed1508d769881418640f4a3b7624d4276f2dbd5/fibermais-como-usar-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da9425a570a44a0b4e55104d1ed1508d769881418640f4a3b7624d4276f2dbd5/fibermais-como-usar-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T04:35:12.136Z",
+      "verification_etag_or_digest": "da9425a570a44a0b4e55104d1ed1508d769881418640f4a3b7624d4276f2dbd5",
       "verification_status": "verified"
     },
     {
