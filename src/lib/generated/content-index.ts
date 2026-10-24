@@ -31280,7 +31280,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 17,
     "slug": "cupom-cecilia12-como-usar",
-    "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília",
+    "title": "Como usar o cupom CECILIA12 na Damie: passo a passo",
+    "seoTitle": "Como usar o cupom CECILIA12 na Damie: 12% OFF no checkout",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "description": "Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
@@ -31296,7 +31297,7 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
       "label": "Usar cupom na Damie",
-      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+      "url": "/cupons/damie"
     },
     "contentSections": [
       {
@@ -31309,7 +31310,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom CECILIA12",
         "paragraphs": [
-          "O cupom CECILIA12 dá 12% de desconto em todo o site oficial da Damie: poltronas, sofás, camas, área externa e acessórios. Ele soma com as promoções e os brindes do site, mas não com outro cupom, um código por pedido. O passo a passo no checkout e o que conferir antes de pagar estão abaixo."
+          "O [cupom Damie](/cupons/damie) é o CECILIA12 e dá 12% de desconto em todo o site oficial: poltronas, sofás, camas, área externa e acessórios. Ele soma com as promoções e os brindes do site, mas não com outro cupom, um código por pedido. O passo a passo no checkout e o que conferir antes de pagar estão abaixo."
         ]
       },
       {
@@ -31404,7 +31405,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Usar o cupom CECILIA12 na Damie",
-            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+            "href": "/cupons/damie"
           }
         ]
       },
@@ -32717,7 +32718,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 18,
     "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-    "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)",
+    "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 5% de desconto no site",
+    "seoTitle": "Como usar o cupom CECI na Dolce Gusto: 5% OFF no checkout",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -32782,7 +32784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: cupom CECI NESCAFÉ Dolce Gusto",
         "paragraphs": [
-          "O cupom CECI está ativo na loja oficial da NESCAFÉ Dolce Gusto e dá 5% de desconto em produtos elegíveis, para compras a partir de R$ 100. Vale até 3 usos por CPF. O que muda a decisão é a validade e o valor mínimo, que as seções abaixo detalham."
+          "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: ativo na loja oficial, dá 5% de desconto em produtos elegíveis, para compras a partir de R$ 100. Vale até 3 usos por CPF. O que muda a decisão é a validade e o valor mínimo, que as seções abaixo detalham."
         ]
       },
       {
@@ -32863,7 +32865,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom CECI não funcionar?",
         "paragraphs": [
-          "Embora o cupom CECI esteja confirmado para OUTUBRO 2026, algumas situações podem impedir a aplicação. Veja o que verificar."
+          "Embora o cupom CECI esteja ativo, algumas situações podem impedir a aplicação. Veja o que verificar."
         ],
         "bullets": [
           "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
@@ -32885,7 +32887,7 @@ export const reviewsData: unknown[] = [
           "Desconto: 5% sobre o valor dos produtos elegíveis.",
           "Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.",
           "Limite de uso: Cada CPF pode utilizar o cupom no máximo 3 vezes.",
-          "Validade: verificado e ativo para OUTUBRO 2026 — atualizado todo mês.",
+          "Validade: o CECI vale enquanto a parceria estiver ativa; a última verificação foi em 1º de outubro de 2026.",
           "Onde usar: Exclusivamente no site oficial da NESCAFÉ DOLCE GUSTO Brasil.",
           "Acumulação: O cupom pode ou não ser combinado com outras promoções do site, dependendo da regra vigente.",
           "Frete: O desconto não se aplica ao valor do frete, apenas aos produtos."
@@ -32910,7 +32912,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Economia real: 5% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
-          "Código verificado: testamos e confirmamos que o cupom CECI está ativo e válido para OUTUBRO 2026.",
+          "Código verificado: testamos o cupom CECI no site oficial em 1º de outubro de 2026, e ele aplicou os 5%.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
         ]
@@ -32922,7 +32924,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.",
-          "O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para OUTUBRO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.",
+          "O cupom CECI tem data de validade? Não: o CECI vale enquanto a parceria estiver ativa, e a última verificação foi em 1º de outubro de 2026. Confira o desconto no resumo do carrinho antes de pagar.",
           "Posso usar o cupom CECI mais de uma vez? Em nossa verificação, o cupom permitia até 3 compras por CPF. Como essa regra pode mudar, confirme a aceitação no checkout de cada pedido.",
           "O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
           "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.",
@@ -33490,7 +33492,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 220,
     "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-    "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%",
+    "title": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto",
+    "seoTitle": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -33538,7 +33541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom CECIEMCASA",
         "paragraphs": [
-          "O cupom CECIEMCASA dá 10% de desconto em todo o site oficial da I Wanna Sleep. Você digita o código no checkout e confere o total recalculado antes de pagar. Colchões, box e poltronas não são vendidos pelo site, então o cupom não vale neles; veja o capítulo sobre o que observar."
+          "O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) é o CECIEMCASA e dá 10% de desconto em todo o site oficial. Você digita o código no checkout e confere o total recalculado antes de pagar. Colchões, box e poltronas não são vendidos pelo site, então o cupom não vale neles; veja o capítulo sobre o que observar."
         ]
       },
       {
@@ -34503,8 +34506,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 223,
     "slug": "cupom-ceci-nestle-nutre-como-usar",
-    "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%",
-    "seoTitle": "Como usar o código CECI na Nestlé Nutre: passo a passo",
+    "title": "Como usar o cupom CECI na Nestlé Nutre: 10% de desconto",
+    "seoTitle": "Como usar o cupom CECI na Nestlé Nutre: 10% de desconto",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -34553,7 +34556,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom CECI",
         "paragraphs": [
-          "O cupom CECI dá 10% de desconto sobre os produtos na loja oficial da Nestlé Nutre e não desconta o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos da loja oficial, não sobre o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
         ]
       },
       {
@@ -35588,7 +35591,7 @@ export const reviewsData: unknown[] = [
     "id": 230,
     "slug": "cupom-magalu-em-casa-com-cecilia",
     "title": "Como usar o cupom Magalu da Cecília",
-    "seoTitle": "Cupom Magalu da Cecília: como usar no navegador, não no app",
+    "seoTitle": "Como usar o cupom da Cecília no Magalu: só no Magazine Você",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -35621,7 +35624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, o cupom Magalu do Em Casa com Cecília está ativo, com dez faixas de R$ 10 a R$ 100 OFF, conforme o valor do carrinho. Ele vale só no navegador, na loja Magazine Você da Cecília, e para produtos vendidos e entregues pelo Magalu. O que pesa é o mínimo de cada faixa; veja a tabela no passo 4."
+          "Sim, o [cupom Magalu](/cupons/magalu) da Cecília está ativo, com dez faixas de R$ 10 a R$ 100 OFF, conforme o valor do carrinho. Ele vale só no navegador, na loja Magazine Você da Cecília, e para produtos vendidos e entregues pelo Magalu. O que pesa é o mínimo de cada faixa; veja a tabela no passo 4."
         ]
       },
       {
@@ -51050,8 +51053,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 321,
     "slug": "cupom-mauad-lets-eat-it-como-usar",
-    "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%",
-    "seoTitle": "Como usar o código MAUAD na Let's Eat It: passo a passo",
+    "title": "Como usar o código de desconto da Let's Eat It: 5% no site",
+    "seoTitle": "Como usar o código de desconto da Let's Eat It: 5% no site",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -51088,7 +51091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom MAUAD",
         "paragraphs": [
-          "O cupom MAUAD dá 5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It. Você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto no resumo antes de pagar. O frete entra depois, calculado pelo CEP; veja abaixo o teste e a economia."
+          "O [cupom Let's Eat It](/cupons/letseatit) é o MAUAD e dá 5% de desconto sobre o subtotal dos produtos no site oficial. Você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto no resumo antes de pagar. O frete entra depois, calculado pelo CEP; veja abaixo o teste e a economia."
         ]
       },
       {
@@ -52704,8 +52707,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 327,
     "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-    "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%",
-    "seoTitle": "Como usar o cupom EMCASACOMCECILIA na Insider: 15% OFF no checkout",
+    "title": "Como usar o cupom EMCASACOMCECILIA na Insider Store: 15% de desconto",
+    "seoTitle": "Como usar o cupom EMCASACOMCECILIA na Insider: 15% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -52743,7 +52746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Insider",
         "paragraphs": [
-          "O cupom da Insider é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet e em kits, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale em lançamentos nem nas lojas físicas, e a loja aceita um cupom por pedido; veja abaixo como conferir o desconto."
+          "O [cupom Insider](/cupons/insider) é EMCASACOMCECILIA e dá 15% OFF nas compras do site, inclusive no Outlet e em kits, sem valor mínimo. Você digita o código no checkout ou entra pelo link da parceria. Ele não vale em lançamentos nem nas lojas físicas, e a loja aceita um cupom por pedido; veja abaixo como conferir o desconto."
         ]
       },
       {
@@ -75279,8 +75282,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 417,
     "slug": "cupom-probiotica-como-usar",
-    "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%",
-    "seoTitle": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% OFF no checkout",
+    "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto",
+    "seoTitle": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -75336,7 +75339,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
+          "O [cupom Probiótica](/cupons/probiotica) é o PRO10EMCASACOMCECILIA e dá até 10% OFF na loja, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
         ]
       },
       {
@@ -76026,8 +76029,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 420,
     "slug": "cupom-dr-peanut-como-usar",
-    "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site",
-    "seoTitle": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% OFF no checkout",
+    "title": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% em todo o site",
+    "seoTitle": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -76064,7 +76067,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
         "paragraphs": [
-          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site da Dr. Peanut, em qualquer forma de pagamento, e se soma às promoções do site. Você o digita no carrinho e clica em Adicionar. O frete grátis depende de um mínimo que muda por região; veja o capítulo sobre frete."
+          "O [cupom Dr. Peanut](/cupons/dr-peanut) é o DREMCASACOMCECILIA e dá 10% de desconto em todo o site, em qualquer forma de pagamento, e se soma às promoções do site. Você o digita no carrinho e clica em Adicionar. O frete grátis depende de um mínimo que muda por região; veja o capítulo sobre frete."
         ]
       },
       {
@@ -76804,8 +76807,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 423,
     "slug": "cupom-black-skull-como-usar",
-    "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site",
-    "seoTitle": "Como usar o cupom CECILIA10 na Black Skull: 10% OFF no checkout",
+    "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site",
+    "seoTitle": "Como usar o cupom CECILIA10 na Black Skull: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -76842,7 +76845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA10 dá 10% de desconto em todo o site oficial da Black Skull, em todas as formas de pagamento e na primeira compra ou nas seguintes. Ele soma com as promoções vigentes. O que muda no total é o frete, que depende da região; o passo a passo e as regras estão abaixo."
+          "O [cupom Black Skull](/cupons/black-skull) é o CECILIA10 e dá 10% de desconto em todo o site oficial, em todas as formas de pagamento e na primeira compra ou nas seguintes. Ele soma com as promoções vigentes. O que muda no total é o frete, que depende da região; o passo a passo e as regras estão abaixo."
         ]
       },
       {
@@ -79165,8 +79168,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 432,
     "slug": "cupom-max-titanium-como-usar",
-    "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%",
-    "seoTitle": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF no checkout",
+    "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% de desconto",
+    "seoTitle": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79222,7 +79225,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com as promoções e com o Pix. O que muda a conta é o frete grátis, cujo mínimo varia por região; veja a tabela abaixo."
+          "O [cupom Max Titanium](/cupons/max-titanium) é o MAX10EMCASACOMCECILIA e dá até 10% OFF na loja. Vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com as promoções e com o Pix. O que muda a conta é o frete grátis, cujo mínimo varia por região; veja a tabela abaixo."
         ]
       },
       {
@@ -79915,8 +79918,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 435,
     "slug": "cupom-clea-store-como-usar",
-    "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%",
-    "seoTitle": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: 10% OFF no checkout",
+    "title": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: passo a passo",
+    "seoTitle": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79972,7 +79975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O código CSEMCASACOMCECILIA dá 10% de desconto em todo o site da Cléa Store, em qualquer forma de pagamento, para conta nova ou antiga. Você o digita no resumo do pedido, no carrinho. É um cupom por pedido, e o capítulo sobre como ele soma com promoção e cashback mostra o que muda no valor final."
+          "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA e dá 10% de desconto em todo o site, em qualquer forma de pagamento, para conta nova ou antiga. Você o digita no resumo do pedido, no carrinho. É um cupom por pedido, e o capítulo sobre como ele soma com promoção e cashback mostra o que muda no valor final."
         ]
       },
       {
@@ -85015,8 +85018,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 451,
     "slug": "cupom-belive-como-usar",
-    "title": "Cupom Belive: como usar o MAUAD",
-    "seoTitle": "Cupom Belive: como usar o MAUAD e o que soma",
+    "title": "Como usar o cupom da Belive e o que ele soma",
+    "seoTitle": "Como usar o cupom da Belive: passo a passo",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -85066,7 +85069,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom MAUAD dá 10% de desconto em todo o site oficial da Belive, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
+          "O [cupom Belive](/cupons/belive) é o MAUAD e dá 10% de desconto em todo o site oficial, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
         ]
       },
       {
@@ -96756,7 +96759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não precisa de cupom: a indicação da Hostinger não tem código para digitar, porque o desconto já está no link. Pelo link, um plano novo sai com 20% de desconto só no primeiro período, e a renovação volta ao preço padrão. O que pesa é o período contratado; veja abaixo a conta e a renovação."
+          "Não precisa de cupom: a [indicação da Hostinger](/cupons/hostinger) não tem código para digitar, porque o desconto já está no link. Pelo link, um plano novo sai com 20% de desconto só no primeiro período, e a renovação volta ao preço padrão. O que pesa é o período contratado; veja abaixo a conta e a renovação."
         ]
       },
       {
@@ -96972,7 +96975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "You don't need a Hostinger coupon: the referral offer has no code to type, because the discount is already in the link. A new plan gets 20% off the first period only, and renewal goes back to the standard price. What the discount is worth depends on the period you choose; see How the discount works."
+          "You don't need a Hostinger coupon: the [Hostinger referral offer](/en/coupons/hostinger) has no code to type, because the discount is already in the link. A new plan gets 20% off the first period only, and renewal goes back to the standard price. What the discount is worth depends on the period you choose; see How the discount works."
         ]
       },
       {
@@ -97140,7 +97143,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No necesitas cupón: la oferta de referido de Hostinger no tiene código que escribir, porque el descuento ya está en el enlace. Con ese enlace, un plan nuevo recibe 20% solo en el primer período, y la renovación vuelve al precio estándar. Lo que vale el descuento depende del período que elijas; mira «Cómo funciona el descuento» más abajo."
+          "No necesitas cupón: la [oferta de referido de Hostinger](/es/coupons/hostinger) no tiene código que escribir, porque el descuento ya está en el enlace. Con ese enlace, un plan nuevo recibe 20% solo en el primer período, y la renovación vuelve al precio estándar. Lo que vale el descuento depende del período que elijas; mira «Cómo funciona el descuento» más abajo."
         ]
       },
       {
@@ -97308,7 +97311,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pas besoin de code promo : l'offre de parrainage Hostinger n'a pas de code à saisir, car la réduction est déjà dans le lien. Un nouveau forfait obtient ainsi 20 % sur la première période seulement, puis le renouvellement revient au tarif standard. Cela dépend de la période choisie ; voir « Comment fonctionne la réduction » plus bas."
+          "Pas besoin de code promo : l'[offre de parrainage Hostinger](/fr/coupons/hostinger) n'a pas de code à saisir, car la réduction est déjà dans le lien. Un nouveau forfait obtient ainsi 20 % sur la première période seulement, puis le renouvellement revient au tarif standard. Cela dépend de la période choisie ; voir « Comment fonctionne la réduction » plus bas."
         ]
       },
       {
@@ -97476,7 +97479,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Sie brauchen keinen Gutschein: Das Empfehlungsangebot von Hostinger hat keinen Code zum Eintippen, weil der Rabatt bereits im Link steckt. Über diesen Link erhält ein neuer Tarif 20 % nur im ersten Zeitraum, danach kostet die Verlängerung wieder den Standardpreis. Wie viel der Rabatt wert ist, hängt von der gewählten Laufzeit ab; siehe „So funktioniert der Rabatt“ weiter unten."
+          "Sie brauchen keinen Gutschein: Das [Empfehlungsangebot von Hostinger](/de/coupons/hostinger) hat keinen Code zum Eintippen, weil der Rabatt bereits im Link steckt. Über diesen Link erhält ein neuer Tarif 20 % nur im ersten Zeitraum, danach kostet die Verlängerung wieder den Standardpreis. Wie viel der Rabatt wert ist, hängt von der gewählten Laufzeit ab; siehe „So funktioniert der Rabatt“ weiter unten."
         ]
       },
       {
@@ -97644,7 +97647,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Non serve nessun coupon: il link di invito di Hostinger non ha un codice da digitare, perché lo sconto è già nel link. Con questo link, un piano nuovo ottiene il 20% solo sul primo periodo, poi il rinnovo torna al prezzo standard. L'importo dipende dal periodo scelto; vedi «Come funziona lo sconto» più sotto."
+          "Non serve nessun coupon: il [link di invito di Hostinger](/it/coupons/hostinger) non ha un codice da digitare, perché lo sconto è già nel link. Con questo link, un piano nuovo ottiene il 20% solo sul primo periodo, poi il rinnovo torna al prezzo standard. L'importo dipende dal periodo scelto; vedi «Come funziona lo sconto» più sotto."
         ]
       },
       {
@@ -97812,7 +97815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "Hostinger 쿠폰은 필요 없습니다. 추천 링크에는 입력할 코드가 없고, 할인이 이미 링크에 들어 있기 때문입니다. 이 링크로 새 요금제를 신청하면 첫 기간에만 20%가 할인되며, 갱신은 표준 가격으로 돌아갑니다. 할인 금액은 선택한 기간에 따라 달라지니 ‘할인은 어떻게 작동하나요’를 참고하세요."
+          "Hostinger 쿠폰은 필요 없습니다. [Hostinger 추천 링크](/ko/coupons/hostinger)에는 입력할 코드가 없고, 할인이 이미 링크에 들어 있기 때문입니다. 이 링크로 새 요금제를 신청하면 첫 기간에만 20%가 할인되며, 갱신은 표준 가격으로 돌아갑니다. 할인 금액은 선택한 기간에 따라 달라지니 ‘할인은 어떻게 작동하나요’를 참고하세요."
         ]
       },
       {
@@ -97980,7 +97983,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "要点",
         "paragraphs": [
-          "Hostingerのクーポンは必要ありません。紹介リンクには入力するコードがなく、割引はすでにリンクに含まれているからです。このリンクで新しいプランを申し込むと、割引は最初の期間だけの20%で、更新は通常価格に戻ります。割引額は選ぶ期間で変わるので、詳しくは「割引の仕組み」をご覧ください。"
+          "Hostingerのクーポンは必要ありません。[Hostingerの紹介リンク](/ja/coupons/hostinger)には入力するコードがなく、割引はすでにリンクに含まれているからです。このリンクで新しいプランを申し込むと、割引は最初の期間だけの20%で、更新は通常価格に戻ります。割引額は選ぶ期間で変わるので、詳しくは「割引の仕組み」をご覧ください。"
         ]
       },
       {
@@ -98148,7 +98151,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "重點速覽",
         "paragraphs": [
-          "不需要優惠券，因為推薦連結裡沒有需要輸入的代碼，折扣已經包含在連結中。透過這個連結選購新方案，只有首期享 20% 折扣，續訂會回到標準價格。折扣金額取決於你選擇的計費期間，詳見「折扣如何運作」。"
+          "不需要優惠券，因為[Hostinger 推薦連結](/zh-hant/coupons/hostinger)裡沒有需要輸入的代碼，折扣已經包含在連結中。透過這個連結選購新方案，只有首期享 20% 折扣，續訂會回到標準價格。折扣金額取決於你選擇的計費期間，詳見「折扣如何運作」。"
         ]
       },
       {
@@ -98316,7 +98319,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "要点速览",
         "paragraphs": [
-          "不需要优惠券，因为推荐链接里没有需要输入的代码，折扣已经包含在链接中。通过这个链接选购新套餐，只有首期享 20% 折扣，续费会回到标准价格。折扣金额取决于你选择的计费周期，详见“折扣如何生效”。"
+          "不需要优惠券，因为[Hostinger 推荐链接](/zh-hans/coupons/hostinger)里没有需要输入的代码，折扣已经包含在链接中。通过这个链接选购新套餐，只有首期享 20% 折扣，续费会回到标准价格。折扣金额取决于你选择的计费周期，详见“折扣如何生效”。"
         ]
       },
       {
@@ -105386,8 +105389,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 530,
     "slug": "cupom-mais-mu-como-usar",
-    "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre",
-    "seoTitle": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA",
+    "title": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre",
+    "seoTitle": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -105412,7 +105415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Mais Mu, na primeira compra e para quem já comprou, em qualquer forma de pagamento. Ele soma com as promoções e com o desconto do Pix, mas não vale no Mercado Livre. Veja nos capítulos abaixo o passo a passo e como conferir o desconto."
+          "O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA e dá 10% OFF em todo o site oficial, na primeira compra e para quem já comprou, em qualquer forma de pagamento. Ele soma com as promoções e com o desconto do Pix, mas não vale no Mercado Livre. Veja nos capítulos abaixo o passo a passo e como conferir o desconto."
         ]
       },
       {
@@ -121031,8 +121034,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 586,
     "slug": "cupom-skelt-como-usar",
-    "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma",
-    "seoTitle": "Cupom Skelt: como usar o SKEMCASACOMCECILIA",
+    "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma",
+    "seoTitle": "Como usar o cupom SKEMCASACOMCECILIA na Skelt: 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -121057,7 +121060,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt. No nosso teste, ele entrou sobre um produto já em promoção, e o Pix de 5% da loja entrou depois, sobre o total com o cupom. Não vale no Mercado Livre; veja abaixo o passo a passo e as condições."
+          "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA e dá 10% OFF em todo o site oficial. No nosso teste, ele entrou sobre um produto já em promoção, e o Pix de 5% da loja entrou depois, sobre o total com o cupom. Não vale no Mercado Livre; veja abaixo o passo a passo e as condições."
         ]
       },
       {
@@ -122037,8 +122040,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 590,
     "slug": "cupom-bagaggio-como-usar",
-    "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma",
-    "seoTitle": "Cupom Bagaggio: como usar o CECILIA10",
+    "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma",
+    "seoTitle": "Como usar o cupom CECILIA10 na Bagaggio: passo a passo",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -122063,7 +122066,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O cupom CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto em promoção, e a loja aceita um cupom por pedido. Ele não vale no Mercado Livre. O passo a passo para aplicar e o que acontece com o Pix e com a segunda peça estão abaixo."
+          "O [cupom Bagaggio](/cupons/bagaggio) é o CECILIA10 e dá 10% de desconto em todo o site oficial, inclusive no Outlet e em produto em promoção, e a loja aceita um cupom por pedido. Ele não vale no Mercado Livre. O passo a passo para aplicar e o que acontece com o Pix e com a segunda peça estão abaixo."
         ]
       },
       {

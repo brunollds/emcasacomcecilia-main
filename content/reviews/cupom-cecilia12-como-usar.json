@@ -1,7 +1,8 @@
 {
   "id": 17,
   "slug": "cupom-cecilia12-como-usar",
-  "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília",
+  "title": "Como usar o cupom CECILIA12 na Damie: passo a passo",
+  "seoTitle": "Como usar o cupom CECILIA12 na Damie: 12% OFF no checkout",
   "type": "Guia & Cupons",
   "category": "cupons-como-usar",
   "description": "Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
@@ -17,7 +18,7 @@
   "cta": {
     "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
     "label": "Usar cupom na Damie",
-    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+    "url": "/cupons/damie"
   },
   "contentSections": [
     {
@@ -30,7 +31,7 @@
     {
       "heading": "Resposta rápida: como usar o cupom CECILIA12",
       "paragraphs": [
-        "O cupom CECILIA12 dá 12% de desconto em todo o site oficial da Damie: poltronas, sofás, camas, área externa e acessórios. Ele soma com as promoções e os brindes do site, mas não com outro cupom, um código por pedido. O passo a passo no checkout e o que conferir antes de pagar estão abaixo."
+        "O [cupom Damie](/cupons/damie) é o CECILIA12 e dá 12% de desconto em todo o site oficial: poltronas, sofás, camas, área externa e acessórios. Ele soma com as promoções e os brindes do site, mas não com outro cupom, um código por pedido. O passo a passo no checkout e o que conferir antes de pagar estão abaixo."
       ]
     },
     {
@@ -125,7 +126,7 @@
       "links": [
         {
           "label": "Usar o cupom CECILIA12 na Damie",
-          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+          "href": "/cupons/damie"
         }
       ]
     },
