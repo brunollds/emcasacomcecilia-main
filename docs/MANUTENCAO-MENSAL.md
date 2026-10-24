@@ -87,7 +87,10 @@ Para cada oferta ativa, reconferir:
   em" e no `lastReviewed` do schema, então só avança com teste de checkout feito;
 - `testNote`: o que a equipe viu nesse teste. Se o percentual, o mínimo ou o exemplo de carrinho
   mudarem, reescrever; `test:coupon-offer-modes` falha se uma loja com código ficar sem ele;
-- `metaTitle` e `metaDescription` quando contiverem mês, ano, código ou percentual;
+- `metaTitle` e `metaDescription` quando contiverem mês, ano, código ou percentual. Desde 24/10/2026 o
+  título segue a ordem que sobrevive ao corte do Google: loja, percentual, código e o mês no fim, como
+  `(out/2026)`, só quando cabe em 60 caracteres (com código longo, o mês sai). A descrição abre com
+  "Cupom <Loja> testado em <dd/mm/aaaa>" com a data do `lastVerified` e fica em até 155 caracteres;
 - `monthlyHighlight`, FAQs e instruções quando repetirem uma regra alterada;
 - `status`: `ativo`, `pausado` ou `expirado` conforme a condição real.
 
