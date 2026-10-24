@@ -3,8 +3,8 @@
   "slug": "hostinger-black-friday",
   "locale": "en",
   "translationKey": "hostinger-black-friday",
-  "title": "Hostinger Black Friday 2026: the promotion or the referral link, which is cheaper?",
-  "seoTitle": "Hostinger Black Friday 2026: promotion or referral?",
+  "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?",
+  "seoTitle": "Hostinger Black Friday 2026: campaign or referral link?",
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Editing and analysis",
       "initials": "BL"
     }
   ],
-  "description": "Hostinger's Black Friday runs from October 19 to December 14, 2026. See how to compare the campaign with the referral link, the renewal price and how to check before you pay.",
-  "metaDescription": "Hostinger Black Friday 2026: campaign from October 19 to December 14, how to compare prices with and without the referral link, and renewal. Compare both before you pay.",
+  "description": "Hostinger's Black Friday 2026 runs from October 19 to December 14, according to the company's FAQ. How the referral link works during the campaign, what renewal costs, and how to compare both before you pay.",
+  "metaDescription": "Hostinger Black Friday 2026: campaign dates from the official FAQ, how the 20% referral link works in the first period, renewal at the regular price, and how to compare before you pay.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,48 +45,42 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, Hostinger's Black Friday has started and runs until December 14, 2026. The main offers don't need a code, and the referral link takes 20% off the page price, in the first period only. What changes the math is the renewal; see “How to compare the campaign and the link” below."
+        "Hostinger's FAQ, read on October 24, 2026, puts the Black Friday campaign between October 19 and December 14, 2026. The main offers need no code, and the referral link takes 20% off in the first period only. Renewal costs the regular price, and the chapter How to compare the campaign and the link shows what to check."
       ]
     },
     {
       "heading": "Has Hostinger's Black Friday started?",
       "paragraphs": [
-        "It has. Hostinger's official FAQ says: “The Hostinger Black Friday promotion runs from October 19 to December 14, 2026.” The English global page gives the same dates.",
-        "Hostinger's banners show a discount with “up to” in front of it. That is the top of the banner, not the discount on every plan, so check the price of each plan on the pricing page for your region.",
-        "This text covers only the 2026 campaign. Earlier editions are not included: the sources we checked gave different dates and percentages, and none of them came from Hostinger itself."
+        "According to Hostinger, yes. On October 19, 2026, the company's official FAQ said the Black Friday promotion runs from October 19 to December 14, 2026, and on October 24, 2026, the global Black Friday page showed the same dates. If you are reading this later, check the current dates on Hostinger's site.",
+        "Hostinger's banners show a discount with “up to” in front of it. That is the top of the range, not the discount on every plan. The discount on each plan is on the pricing page for your region.",
+        "This article covers only the 2026 campaign. Earlier editions are left out: the sources we checked gave different dates and percentages, and none of them came from Hostinger itself."
       ]
     },
     {
       "heading": "How to compare the campaign and the link",
+      "paragraphs": [
+        "The campaign and the referral link are not two prices to choose between. The link applies its discount to the price shown on the page, so during the campaign it works on the campaign price. Three rules decide the math:"
+      ],
       "bullets": [
         "The referral link takes 20% off the page price, and only in the first period of a new plan.",
-        "The discount doesn't stack with other coupons.",
+        "The discount does not stack with other coupons or codes.",
         "Renewal is charged at the regular price, which Hostinger shows before checkout."
       ],
       "postParagraphs": [
-        "We didn't read or record the prices for your region, so this article gives no amounts. To compare, open the pricing page for your region through the link and note the first-period total for the same plan and period. Then open the same page without the link and compare.",
-        "Why the link doesn't stack with other coupons, and what happens to the discount at renewal, is explained in [Hostinger coupon: you don't need one, what the referral link gives](/en/reviews/hostinger-coupon-code-referral)."
-      ]
-    },
-    {
-      "heading": "Who should wait and who should not",
-      "paragraphs": [
-        "If you need the site online this week, don't wait. Compare the first-period total with the link on the pricing page for your region, and decide from there.",
-        "If you can wait, know that the campaign runs until December 14, but no price is guaranteed until then. The link's discount is 20% of the page price, so if the price changes, the discount changes with it.",
-        "For most personal, business and WordPress sites, Hostinger's own FAQ points to the Premium plan. The page calls the Single plan ideal for people starting out or with simple projects. For VPS we have no numbers: we didn't check the VPS price with or without the link.",
-        "Current customers are in a different situation. Hostinger's FAQ says existing customers may get separate upgrade and cross-sell offers, and that the referral only applies to a new plan, not to renewals or purchases already made. Bruno, who runs this site, has been a Hostinger customer since 2024, for more than 24 months. His plans are Business web hosting, KVM 2 VPS, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
+        "We checked the prices only in Brazil, on October 19, 2026. There, on the 48-month plans we read, the link applied 20% on top of the campaign price and came out cheaper than the campaign alone. Prices differ by region and change during the campaign, so this article gives no amounts. The way to know your price is to open the pricing page for your region through the link, note the first-period total of the plan and period you want, then open the same page without the link and compare.",
+        "Why the link does not stack with other coupons, and what happens to the discount at renewal, is explained in [Hostinger coupon: you don't need one, what the referral link gives](/en/reviews/hostinger-coupon-code-referral)."
       ]
     },
     {
       "heading": "How to check before you pay",
       "bullets": [
         "Open [Hostinger on this site's store page](/en/coupons/hostinger) and follow the referral button.",
-        "In a private window, open Hostinger directly, without the link, and go to the same plan and period. Compare the first-period total in both windows.",
-        "Compare the first-period total, not only the monthly price. The total shows the real difference.",
+        "In a private window, open Hostinger directly, without the link, and go to the same plan and the same period.",
+        "Compare the first-period total in both windows, not only the monthly price. The total shows the real difference.",
         "Check the renewal price before you finish. Hostinger shows it before payment, and it is not the campaign price."
       ],
       "postParagraphs": [
-        "Before you pay, the company's ratings and complaints are covered in [Hostinger's ratings and complaints](/en/reviews/hostinger-trustpilot-reviews), and what the guarantee covers and what it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        "Before you pay, the company's score and complaints are covered in [Hostinger on Trustpilot: the score, the complaints and what 200 reviews show](/en/reviews/hostinger-trustpilot-reviews), and what the refund guarantee covers and what it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
       ],
       "images": [
         {
@@ -99,19 +93,28 @@
       ]
     },
     {
+      "heading": "Who should wait and who should not",
+      "paragraphs": [
+        "If you need the site online this week, do not wait. Open the pricing page for your region through the link, compare the first-period total with and without it, and decide from there. The campaign is already running, and the link works on top of it.",
+        "If you can wait, know that the campaign runs until December 14, 2026, but no price is guaranteed until then. The link's discount is 20% of the page price, so if the page price changes, the discount changes with it. Our reading: waiting only pays off if you expect the campaign price of your plan to drop, and Hostinger gives no schedule for that.",
+        "For most personal, business and WordPress sites, Hostinger's own FAQ points to the Premium plan. The page calls the Single plan ideal for people starting out or with simple projects. For VPS we have no comparison: we did not check the VPS price with or without the link.",
+        "Current customers are in a different situation. Hostinger's FAQ says existing customers may get separate upgrade and cross-sell offers, and the referral applies only to a new plan, not to renewals or purchases already made. Bruno, who runs this site, has been a Hostinger customer since 2024. His plans are Business web hosting, a KVM 2 VPS, email and domains, all on automatic renewal. Em Casa com Cecília runs on Hostinger."
+      ]
+    },
+    {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does Hostinger's Black Friday need a coupon? No, for the main offers. The discounts apply on their own. Hostinger says some channels run promotions with their own codes, and we don't mention any here.",
-        "How long does Hostinger's Black Friday run? Until December 14, 2026, according to the official FAQ read on October 19, 2026.",
+        "Does Hostinger's Black Friday need a coupon? No, for the main offers. The discounts apply on their own. Hostinger says some channels run promotions with their own codes, and we do not list any here.",
+        "How long does Hostinger's Black Friday run? Until December 14, 2026, according to the official FAQ read on October 24, 2026.",
         "Does the Black Friday price continue at renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
-        "Is the referral link cheaper than the campaign? It depends on the plan and the period, and prices change. Compare the first-period total with and without the link before you pay.",
+        "Is the referral link cheaper than the campaign? The link takes 20% off the page price in the first period, so on the plans we checked in Brazil on October 19, 2026, it came out cheaper than the campaign alone. We did not check other regions, and prices change, so compare the first-period total with and without the link before you pay.",
         "Does the refund guarantee apply during Black Friday? The FAQ says eligible plans have a 30-day guarantee, subject to terms and exclusions. What it leaves out is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
       ]
     },
     {
       "heading": "Transparency note",
       "paragraphs": [
-        "This article uses Hostinger's referral link. Hostinger is the company that hosts the Em Casa com Cecília site. The referral may give Bruno credit, at no extra cost to you, and the discount is the one the link shows. This text gives no prices, because we didn't check the prices for your region. Campaigns and prices change, so check on the pricing page opened through the link and at checkout."
+        "This article uses Hostinger's referral link. Hostinger is the company that hosts the Em Casa com Cecília site. The referral may give Bruno credit, at no extra cost to you, and the discount is the one the link shows. The campaign dates and the FAQ text were read on October 19, 2026, and the dates were checked again on the global Black Friday page on October 24, 2026. The only prices we read were on Hostinger's public page for Brazil, on the same date, without login or cart, and they are not in this text because they do not apply to other regions. Campaigns and prices change, so check the pricing page opened through the link and the checkout before you pay."
       ]
     }
   ],

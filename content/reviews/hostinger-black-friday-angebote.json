@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Redaktion und Analyse",
       "initials": "BL"
     }
   ],
-  "description": "Das Hostinger-Black-Friday läuft vom 19. Oktober bis 14. Dezember 2026. Vergleichen Sie die Aktion mit dem Empfehlungslink, den Verlängerungspreis und wie Sie vor dem Kauf prüfen.",
-  "metaDescription": "Hostinger Black Friday 2026: Aktion vom 19. Oktober bis 14. Dezember, Preise mit und ohne Empfehlungslink und Verlängerung. Vergleichen Sie beides vor dem Kauf.",
+  "description": "Das Black Friday bei Hostinger läuft vom 19. Oktober bis 14. Dezember 2026, laut FAQ des Unternehmens. So funktioniert der Empfehlungslink während der Aktion, was die Verlängerung kostet und wie Sie beides vor dem Zahlen vergleichen.",
+  "metaDescription": "Hostinger Black Friday 2026: Aktionszeitraum laut offizieller FAQ, Funktion des Empfehlungslinks mit 20 % im ersten Zeitraum, Verlängerung zum regulären Preis und Vergleich vor dem Kauf.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,48 +45,51 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Ja, das Black Friday bei Hostinger hat begonnen und läuft bis zum 14. Dezember 2026. Für die wichtigsten Angebote braucht man keinen Code, und der Empfehlungslink gewährt 20 % auf den Seitenpreis, aber nur im ersten Zeitraum. Die Rechnung ändert sich erst bei der Verlängerung; mehr dazu unter „So vergleichen Sie Aktion und Link“."
+        "Laut der FAQ von Hostinger läuft die Black-Friday-Aktion vom 19. Oktober bis 14. Dezember 2026. Für die wichtigsten Angebote braucht man keinen Code, und der Empfehlungslink gewährt 20 % nur im ersten Zeitraum; die Verlängerung wird zum regulären Preis berechnet. Wie Sie vergleichen, steht unter „So vergleichen Sie Aktion und Link“."
       ]
     },
     {
       "heading": "Hat das Black Friday bei Hostinger schon begonnen?",
       "paragraphs": [
-        "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis 14. Dezember 2026.“ Die englische Weltseite nennt dieselben Daten.",
-        "Die Banner von Hostinger nennen manchmal einen Höchstrabatt, der nicht für jeden Tarif gilt. Prüfen Sie deshalb den Preis jedes Tarifs auf der Preisseite Ihrer Region.",
-        "Dieser Text behandelt nur die Aktion 2026. Frühere Ausgaben sind hier nicht enthalten: Die Quellen, die wir geprüft haben, nannten unterschiedliche Daten und Prozentsätze, und keine davon stammte von Hostinger selbst."
+        "Ja, laut Hostinger. Am 19. Oktober 2026 hieß es in der offiziellen FAQ des Unternehmens, dass die Black-Friday-Aktion vom 19. Oktober bis 14. Dezember 2026 läuft, und am 24. Oktober 2026 zeigte die englische Black-Friday-Weltseite dieselben Daten. Wenn Sie das später lesen, prüfen Sie die aktuellen Daten auf der Website von Hostinger.",
+        "Die Banner von Hostinger zeigen einen Rabatt mit „bis zu“ davor. Das ist der Höchstwert des Banners, nicht der Rabatt für jeden Tarif. Den Rabatt jedes Tarifs finden Sie auf der Preisseite Ihrer Region.",
+        "Dieser Text behandelt nur die Aktion 2026. Frühere Ausgaben sind ausgenommen: Die Quellen, die wir geprüft haben, nannten unterschiedliche Daten und Prozentsätze, und keine stammte von Hostinger selbst."
       ]
     },
     {
       "heading": "So vergleichen Sie Aktion und Link",
+      "paragraphs": [
+        "Aktion und Empfehlungslink sind keine zwei Preise, zwischen denen Sie wählen. Der Link wendet seinen Rabatt auf den Preis an, den die Seite zeigt, also während der Aktion auf den Aktionspreis. Drei Regeln bestimmen die Rechnung:"
+      ],
       "bullets": [
         "Der Empfehlungslink gewährt 20 % auf den Seitenpreis, und nur im ersten Zeitraum eines neuen Tarifs.",
-        "Der Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren.",
-        "Die Verlängerung wird zum regulären Preis berechnet, den Hostinger vor der Zahlung anzeigt."
+        "Der Rabatt lässt sich nicht mit anderen Gutscheinen oder Codes kombinieren.",
+        "Die Verlängerung wird zum regulären Preis berechnet, den Hostinger vor dem Bezahlen anzeigt."
       ],
       "postParagraphs": [
-        "Wir haben die Preise Ihrer Region nicht gelesen oder festgehalten, deshalb nennen wir hier keine Beträge. Zum Vergleichen öffnen Sie die Preisseite Ihrer Region über den Link und notieren den Gesamtbetrag des ersten Zeitraums für denselben Tarif und dieselbe Laufzeit. Öffnen Sie dann dieselbe Seite ohne Link und vergleichen Sie.",
-        "Warum der Link sich nicht mit anderen Gutscheinen kombinieren lässt und was mit dem Rabatt bei der Verlängerung passiert, steht in [Hostinger-Gutschein: den brauchen Sie nicht, das bringt der Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        "Wir haben die Preise nur in Brasilien am 19. Oktober 2026 geprüft. Dort hat der Link bei den 48-Monats-Tarifen, die wir gelesen haben, 20 % auf den Aktionspreis gegeben und war günstiger als die Aktion allein. Preise unterscheiden sich nach Region und ändern sich während der Aktion, deshalb nennt dieser Artikel keine Beträge. Ihren Preis erfahren Sie so: Öffnen Sie die Preisseite Ihrer Region über den Link, notieren Sie den Gesamtbetrag des ersten Zeitraums für den gewünschten Tarif und die Laufzeit, öffnen Sie dann dieselbe Seite ohne Link und vergleichen Sie.",
+        "Warum sich der Link nicht mit anderen Gutscheinen kombinieren lässt und was bei der Verlängerung mit dem Rabatt passiert, steht in [Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ]
     },
     {
       "heading": "Wer warten sollte und wer nicht",
       "paragraphs": [
-        "Wenn Ihre Website diese Woche online sein muss, warten Sie nicht. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit dem Link auf der Preisseite Ihrer Region und entscheiden Sie dann.",
-        "Wenn Sie warten können, beachten Sie: Die Aktion läuft bis 14. Dezember, aber bis dahin ist kein Preis garantiert. Der Rabatt über den Link beträgt 20 % des Seitenpreises. Ändert sich der Preis, ändert sich der Rabatt mit.",
-        "Für die meisten privaten, geschäftlichen und WordPress-Seiten nennt die FAQ von Hostinger selbst den Tarif Premium. Die Seite bezeichnet den Single-Tarif als ideal für Einsteiger oder einfache Projekte. Beim VPS haben wir keine Preise: Wir haben ihn weder mit noch ohne Link geprüft.",
-        "Bestandskunden sind in einer anderen Lage. Die FAQ sagt, dass bestehende Kunden getrennte Upgrade- und Cross-Selling-Angebote erhalten können, und dass der Empfehlungslink nur für einen neuen Tarif gilt, nicht für Verlängerungen oder bereits getätigte Käufe. Bruno, der diese Seite betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Webhosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft auf Hostinger."
+        "Wenn Ihre Website diese Woche online sein muss, warten Sie nicht. Öffnen Sie die Preisseite Ihrer Region über den Link, vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link und entscheiden Sie dann. Die Aktion läuft schon, und der Link wirkt obendrauf.",
+        "Wenn Sie warten können, beachten Sie: Die Aktion läuft bis 14. Dezember 2026, doch bis dahin ist kein Preis garantiert. Der Rabatt über den Link beträgt 20 % des Seitenpreises; ändert sich der Seitenpreis, ändert sich also auch der Rabatt. Unsere Einschätzung: Warten lohnt sich nur, wenn Sie einen niedrigeren Aktionspreis für Ihren Tarif erwarten, und Hostinger nennt dafür keinen Zeitplan.",
+        "Für die meisten privaten, geschäftlichen und WordPress-Seiten nennt die FAQ von Hostinger selbst den Tarif Premium. Die Seite bezeichnet den Single-Tarif als ideal für Einsteiger oder einfache Projekte. Zum VPS haben wir keinen Vergleich: Wir haben den VPS-Preis weder mit noch ohne Link geprüft.",
+        "Bestandskunden sind in einer anderen Lage. Die FAQ sagt, dass bestehende Kunden getrennte Angebote für Upgrades und Cross-Selling erhalten können und dass der Empfehlungslink nur für einen neuen Tarif gilt, nicht für Verlängerungen oder bereits getätigte Käufe. Bruno, der diese Seite betreut, ist seit 2024 Hostinger-Kunde. Seine Tarife sind Business-Webhosting, ein VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft auf Hostinger."
       ]
     },
     {
       "heading": "So prüfen Sie vor dem Kauf",
       "bullets": [
         "Öffnen Sie [Hostinger auf der Shopseite dieser Website](/de/coupons/hostinger) und gehen Sie über den Empfehlungsbutton.",
-        "Öffnen Sie Hostinger in einem privaten Fenster direkt, ohne Link, und wählen Sie denselben Tarif und dieselbe Laufzeit. Vergleichen Sie den Gesamtbetrag in beiden Fenstern, für denselben Tarif und dieselbe Laufzeit.",
+        "Öffnen Sie Hostinger in einem privaten Fenster direkt, ohne Link, und wählen Sie denselben Tarif und dieselbe Laufzeit. Vergleichen Sie den Gesamtbetrag in beiden Fenstern.",
         "Vergleichen Sie den Gesamtbetrag des ersten Zeitraums, nicht nur den Monatspreis. Der Gesamtbetrag zeigt den tatsächlichen Unterschied.",
         "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er ist nicht der Aktionspreis."
       ],
       "postParagraphs": [
-        "Bevor Sie zahlen, finden Sie die Beschwerdebilanz des Unternehmens unter [Hostinger-Bewertungen und Beschwerden](/de/reviews/hostinger-trustpilot-bewertungen), und was die Garantie abdeckt und was nicht, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        "Bevor Sie zahlen, finden Sie die Bewertungen und Beschwerden des Unternehmens unter [Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen](/de/reviews/hostinger-trustpilot-bewertungen), und was die Garantie abdeckt und was nicht, steht unter [Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes)."
       ],
       "images": [
         {
@@ -101,17 +104,17 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Braucht das Hostinger-Black-Friday einen Gutschein? Nein, für die wichtigsten Angebote: Die Rabatte gelten automatisch. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben. Wir nennen hier keinen.",
-        "Wie lange läuft das Hostinger-Black-Friday? Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 19. Oktober 2026.",
+        "Braucht das Black Friday bei Hostinger einen Gutschein? Nein, für die wichtigsten Angebote. Die Rabatte gelten automatisch. Hostinger sagt, dass einige Kanäle Aktionen mit eigenem Code haben, und wir nennen hier keinen.",
+        "Wie lange läuft das Black Friday bei Hostinger? Bis 14. Dezember 2026, laut der offiziellen FAQ, abgerufen am 24. Oktober 2026.",
         "Gilt der Aktionspreis auch bei der Verlängerung? Nein. Er gilt für die erste Laufzeit des Abos. Die Verlängerung wird zum regulären Tarifpreis berechnet.",
-        "Ist der Empfehlungslink günstiger als die Aktion? Das hängt von Tarif und Laufzeit ab, und die Preise ändern sich. Vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
-        "Gilt die Erstattungsgarantie auch während des Black Friday? Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        "Ist der Empfehlungslink günstiger als die Aktion? Er gewährt 20 % auf den Seitenpreis im ersten Zeitraum. Bei den Tarifen, die wir am 19. Oktober 2026 in Brasilien geprüft haben, war er günstiger als die Aktion allein. Andere Regionen haben wir nicht geprüft, und die Preise ändern sich, deshalb vergleichen Sie den Gesamtbetrag des ersten Zeitraums mit und ohne Link, bevor Sie zahlen.",
+        "Gilt die Erstattungsgarantie auch während des Black Friday? Die FAQ sagt, dass berechtigte Tarife eine 30-tägige Garantie haben, mit Bedingungen und Ausnahmen. Was ausgenommen ist, steht unter [Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten](/de/reviews/ist-hostinger-serioes)."
       ]
     },
     {
       "heading": "Transparenzhinweis",
       "paragraphs": [
-        "Dieser Artikel nutzt den Empfehlungslink von Hostinger, dem Unternehmen, das die Website Em Casa com Cecília hostet. Die Empfehlung kann Bruno eine Gutschrift einbringen, ohne Mehrkosten für Sie, und der Rabatt ist der, den der Link zeigt. Dieser Text nennt keine Preise, weil wir die Preise Ihrer Region nicht geprüft haben. Aktionen und Preise ändern sich: Prüfen Sie auf der Preisseite, die Sie über den Link öffnen, und im Warenkorb."
+        "Dieser Artikel nutzt den Empfehlungslink von Hostinger, dem Unternehmen, das die Website Em Casa com Cecília hostet. Die Empfehlung kann Bruno eine Gutschrift einbringen, ohne Mehrkosten für Sie, und der Rabatt ist der, den der Link zeigt. Die Aktionsdaten und der FAQ-Text wurden am 19. Oktober 2026 gelesen, und die Daten wurden am 24. Oktober 2026 auf der englischen Black-Friday-Weltseite erneut geprüft. Die einzigen Preise, die wir gelesen haben, stehen auf der öffentlichen Preisseite von Hostinger für Brasilien, am selben Tag, ohne Anmeldung und Warenkorb; sie stehen nicht in diesem Text, weil sie für andere Regionen nicht gelten. Aktionen und Preise ändern sich: Prüfen Sie die Preisseite, die Sie über den Link öffnen, und den Warenkorb, bevor Sie zahlen."
       ]
     }
   ],
