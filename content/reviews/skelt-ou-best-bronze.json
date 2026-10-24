@@ -27,30 +27,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Este comparativo é um guia pela ficha oficial e pelo preço do dia das duas marcas em 23/10/2026: ninguém do site usou os produtos, e o desempenho é sempre o que cada marca diz.",
-        "O Em Casa com Cecília é afiliado da Skelt, e a Best Bronze não é parceira. Não há vencedora geral: depende do que você quer comprar."
-      ],
-      "image": {
-        "src": "/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
-        "alt": "Quadro com o preço por 100 ml no cartão em 23/10/2026: mousses escuros, Skelt Mousse Dark R$ 92,79 e Best Bronze Dark Express Pro R$ 81,55; transparentes, Skelt Água R$ 79,93 e Best Bronze Clear Vegan R$ 83,33",
-        "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
-        "objectFit": "wide",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "**Mousse com cor-guia mais escuro:** empate apertado. No cartão, o Mousse Dark Express Pro da Best Bronze, em promoção em 23/10/2026 (de R$ 172,00 por R$ 122,32), sai a R$ 81,55 por 100 ml, contra R$ 92,79 do [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt (R$ 129,90). Com o cupom e o Pix, a Skelt cai para R$ 79,33 e passa à frente.",
-        "**Transparente, sem cor-guia:** a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, que a marca indica a quem já sabe aplicar. Sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Mousse Clear Vegan da Best Bronze, e a R$ 68,34 com cupom e Pix.",
-        "**Começar com luva:** o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, R$ 111,26 em 23/10/2026. Na Best Bronze, o Clear + Luva custa R$ 158,00 e o Dark Express + Luva, R$ 178,00.",
-        "**Spray, gotas ou lenço para o rosto:** só a Best Bronze tem hoje. A Skelt está sem spray e sem produto facial em estoque."
-      ],
-      "postParagraphs": [
-        "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+        "Não há vencedora geral: no mousse escuro, a Best Bronze sai mais barata no cartão enquanto está em promoção, e a Skelt passa à frente com cupom e Pix. No transparente e no kit com luva, a Skelt leva, e spray, gotas e lenço só a Best Bronze tem. O capítulo Qual escolher mostra o melhor caminho para cada caso."
       ]
     },
     {
       "heading": "Qual equivale a qual",
       "paragraphs": [
-        "Os nomes das linhas não batem: o que a Best Bronze chama de Dark Express Pro a Skelt chama de Mousse Dark, e o Clear Vegan faz o papel da água ou do gel da Skelt. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
+        "Antes de comparar preço, é preciso saber qual produto de uma marca faz o papel de qual na outra. Os nomes das linhas não batem: o que a Best Bronze chama de Dark Express Pro a Skelt chama de Mousse Dark, e o Clear Vegan faz o papel da água ou do gel da Skelt. A tabela junta cada tipo de produto, com o preço no cartão em 23/10/2026."
       ],
       "comparisonTable": {
         "headers": [
@@ -171,7 +154,14 @@
       "postParagraphs": [
         "Pela nossa conta, com o cupom de 10% e depois o Pix de 5% sobre o total com cupom, a Skelt fica em R$ 73,22 por 100 ml no Mousse, R$ 79,33 no Mousse Dark, R$ 68,34 na Água e R$ 70,47 no Gel. A Best Bronze não mostrava desconto no Pix na página do produto em 23/10/2026.",
         "A promoção da Best Bronze muda o resultado do mousse escuro: sem ela, o Dark Express Pro custaria R$ 172,00 (R$ 114,67 por 100 ml) e a Skelt sairia na frente já no cartão. Preço e promoção mudam, então confira no carrinho."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/skelt/skelt-ou-best-bronze-preco-por-ml.webp",
+        "alt": "Quadro com o preço por 100 ml no cartão em 23/10/2026: mousses escuros, Skelt Mousse Dark R$ 92,79 e Best Bronze Dark Express Pro R$ 81,55; transparentes, Skelt Água R$ 79,93 e Best Bronze Clear Vegan R$ 83,33",
+        "caption": "Quadro: Em Casa com Cecília, com os preços de 23/10/2026.",
+        "objectFit": "wide",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Cor-guia ou transparente: o que muda",
@@ -186,14 +176,14 @@
           "alt": "Mão aplicando o Mousse Autobronzeador Dark da Skelt na luva preta, com a espuma marrom da cor-guia",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1.0
+          "aspectRatio": 1
         },
         {
           "src": "/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp",
           "alt": "Mão aplicando a Água Autobronzeadora da Skelt na luva preta, com a espuma branca, sem cor-guia",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1.0
+          "aspectRatio": 1
         }
       ]
     },
@@ -267,11 +257,24 @@
         "alt": "Frasco do Mousse Autobronzeador Dark da Skelt ao lado da luva aplicadora preta, que formam o Kit Iniciante Dark",
         "caption": "Foto oficial da Skelt.",
         "objectFit": "square",
-        "aspectRatio": 1.0
+        "aspectRatio": 1
       },
       "postParagraphs": [
         "**Frete.** A Skelt dá frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e de R$ 299 no Norte e Nordeste, e em 12 cidades não tem mínimo. A faixa do site da Best Bronze informa frete grátis acima de R$ 210. Confira o valor final do pedido no carrinho das duas.",
-        "Sobre a loja da Skelt, veja [Skelt é confiável?](/reviews/skelt-e-confiavel)."
+        "Sobre a loja da Skelt, veja [Skelt é confiável?](/reviews/skelt-e-confiavel).",
+        "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. As condições estão na [página do cupom Skelt](/cupons/skelt)."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "O veredito por perfil, com os preços de 23/10/2026."
+      ],
+      "bullets": [
+        "**Mousse com cor-guia mais escuro:** empate apertado. No cartão, o Mousse Dark Express Pro da Best Bronze, em promoção em 23/10/2026 (de R$ 172,00 por R$ 122,32), sai a R$ 81,55 por 100 ml, contra R$ 92,79 do [Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt (R$ 129,90). Com o cupom e o Pix, a Skelt cai para R$ 79,33 e passa à frente.",
+        "**Transparente, sem cor-guia:** a [Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, que a marca indica a quem já sabe aplicar. Sai a R$ 79,93 por 100 ml no cartão, contra R$ 83,33 do Mousse Clear Vegan da Best Bronze, e a R$ 68,34 com cupom e Pix.",
+        "**Começar com luva:** o [Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) da Skelt, R$ 111,26 em 23/10/2026. Na Best Bronze, o Clear + Luva custa R$ 158,00 e o Dark Express + Luva, R$ 178,00.",
+        "**Spray, gotas ou lenço para o rosto:** só a Best Bronze tem hoje. A Skelt está sem spray e sem produto facial em estoque."
       ]
     },
     {

@@ -32,12 +32,14 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "No hay una tienda mejor para todo el mundo: la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía. En Argentina, Stylevana no aparece en la lista de destinos (9 de octubre de 2026). En la tabla de envío gratis de StyleKorean no figuran México ni los cuatro países sudamericanos de este artículo.",
-        "Este artículo no compara precios ni prueba las demás tiendas. Las tablas reúnen lo que cada tienda publica en sus páginas oficiales, leídas el 12 de octubre de 2026."
+        "No hay una tienda mejor para todo el mundo: la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía, y en Argentina Stylevana no aparece entre los destinos. Las tablas muestran el detalle; «Qué elegir» da la elección por país."
       ]
     },
     {
       "heading": "Quién envía a España y México",
+      "paragraphs": [
+        "Este artículo no compara precios ni prueba las demás tiendas: las tablas reúnen lo que cada tienda publica en sus páginas oficiales, leídas el 12 de octubre de 2026. No hay una tienda mejor para todo el mundo, porque la elección depende del país, de quién paga el impuesto y de lo que acepta de vuelta cada tienda. En España, Olive Young Global no envía. En Argentina, Stylevana no aparece en la lista de destinos (9 de octubre de 2026). En la tabla de envío gratis de StyleKorean no figuran México ni los cuatro países sudamericanos de este artículo."
+      ],
       "comparisonTable": {
         "caption": "Plazo y envío gratis de YesStyle, Stylevana, Olive Young Global, StyleKorean y Jolse en España y México, según las páginas oficiales leídas el 12 de octubre de 2026.",
         "headers": [
@@ -303,6 +305,15 @@
           "label": "Ver el cupón de YesStyle de hoy y el código de recompensa CECILIA010",
           "href": "/es/coupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Qué elegir",
+      "bullets": [
+        "Si vives en España: YesStyle y Stylevana envían y publican plazo (10–15 y 8–14 días hábiles), con envío gratis desde US$ 45 y 47 €. Olive Young Global no envía.",
+        "Si vives en México: YesStyle, Stylevana y Olive Young Global envían, con envío gratis desde US$ 45, MXN 850 y US$ 60. StyleKorean no figura en su tabla de envío gratis.",
+        "Si vives en Chile, Perú, Argentina o Colombia: YesStyle publica plazo para los cuatro. Stylevana deja fuera a Argentina, Olive Young Global no envía a Perú ni a Argentina y StyleKorean no figura en su tabla de envío gratis.",
+        "En cualquier país: antes de cerrar el pedido, confirma en la página oficial de cada tienda el envío, quién paga el impuesto y lo que acepta de vuelta."
       ]
     },
     {

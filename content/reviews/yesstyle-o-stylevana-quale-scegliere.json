@@ -32,12 +32,14 @@
     {
       "heading": "In breve",
       "paragraphs": [
-        "Non c'è un negozio adatto a tutti: la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione in giorni lavorativi. Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua tabella di spedizione non riporta tempi per l'Italia; StyleKorean e Jolse non pubblicano i tempi per paese. La spedizione gratuita parte da importi diversi in ogni negozio.",
-        "Questo articolo non confronta i prezzi e non testa i negozi concorrenti. Le tabelle riuniscono ciò che ogni negozio pubblica sulle sue pagine ufficiali, lette il 12/10/2026."
+        "Non c'è un negozio adatto a tutti: la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione, mentre Olive Young Global spedisce senza tempi pubblicati. Le tabelle mostrano i dettagli; «Quale scegliere» dà la scelta per paese."
       ]
     },
     {
       "heading": "Chi spedisce in Italia",
+      "paragraphs": [
+        "Questo articolo non confronta i prezzi e non testa i negozi concorrenti: le tabelle riuniscono ciò che ogni negozio pubblica sulle sue pagine ufficiali, lette il 12/10/2026. Non c'è un negozio adatto a tutti, perché la scelta cambia con il paese, con chi paga le imposte e con quello che il negozio accetta indietro. In Italia YesStyle e Stylevana pubblicano i tempi di spedizione in giorni lavorativi. Olive Young Global consegna in Italia (selettore del paese del sito, letto il 21/10/2026), ma la sua tabella di spedizione non riporta tempi per l'Italia; StyleKorean e Jolse non pubblicano i tempi per paese. La spedizione gratuita parte da importi diversi in ogni negozio."
+      ],
       "comparisonTable": {
         "caption": "Tempi di spedizione e soglia della spedizione gratuita di YesStyle, Stylevana, Olive Young Global, StyleKorean e Jolse per l'Italia, dalle pagine ufficiali lette il 12/10/2026.",
         "headers": [
@@ -248,6 +250,14 @@
           "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
           "href": "/it/coupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Quale scegliere",
+      "bullets": [
+        "Chi vive in Italia: YesStyle e Stylevana pubblicano i tempi (10–15 e 8–14 giorni lavorativi) e la spedizione gratuita parte da US$ 45 e da € 47. Olive Young Global spedisce gratis da US$ 60 e StyleKorean da US$ 80, senza tempi pubblicati per l'Italia.",
+        "Imposte e resi: cambiano da un negozio all'altro, e le tabelle sopra mettono a confronto chi paga le imposte e cosa accetta indietro ogni negozio.",
+        "In qualsiasi paese: prima di ordinare, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
       ]
     },
     {

@@ -27,20 +27,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Presentes separados por faixa de orçamento, com os preços de venda da Let's Eat It em 20/10/2026:"
-      ],
-      "bullets": [
-        "Até R$ 150: canecas Le Creuset, espátula KitchenAid, faca de churrasco e forma de bolo.",
-        "De R$ 150 a 400: eletroportáteis Ariete, churrasco e utensílios.",
-        "De R$ 400 a 1.000: Le Creuset, frigideiras KitchenAid e chaleira elétrica.",
-        "Acima de R$ 1.000: panelas Signature, skillet e eletroportáteis."
-      ],
-      "postParagraphs": [
-        "O cupom MAUAD dá 5% no site da Let's Eat It, em todas as formas de pagamento, e soma com o desconto do Pix."
+        "O melhor presente para quem gosta de cozinhar depende do que a pessoa faz na cozinha e de quanto você quer gastar. A Let's Eat It tem ideias em quatro faixas, de até R$ 150 a acima de R$ 1.000, e o cupom MAUAD reduz o preço. O capítulo sobre o perfil de quem cozinha ajuda a escolher."
       ]
     },
     {
       "heading": "Até R$ 150: canecas Le Creuset, faca de churrasco e forma de bolo",
+      "paragraphs": [
+        "Os presentes estão separados em quatro faixas de preço, com os preços de venda da Let's Eat It em 20/10/2026. Esta é a mais barata, com peças para o dia a dia da cozinha e do churrasco."
+      ],
       "comparisonTable": {
         "headers": [
           "Presente",

@@ -29,14 +29,7 @@
     {
       "heading": "Resposta rápida: qual Nutren é para quem",
       "paragraphs": [
-        "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só os dados oficiais, sem teste próprio."
-      ],
-      "bullets": [
-        "Nutren Senior: linha para adultos acima dos 50 anos.",
-        "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
-        "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
-        "Nutren Active: complemento para jovens e adultos.",
-        "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
+        "Não existe um Nutren melhor que os outros: cada linha tem um público definido pela própria Nestlé, do Senior (acima dos 50 anos) ao Active (jovens e adultos). O que pesa é quem vai usar e a orientação do médico ou nutricionista; veja abaixo o capítulo \"Qual Nutren é para quem\"."
       ]
     },
     {
@@ -192,6 +185,19 @@
           "label": "Cupom Nestlé Nutre: CECI",
           "href": "/cupons/nestle-nutre"
         }
+      ]
+    },
+    {
+      "heading": "Qual Nutren é para quem",
+      "paragraphs": [
+        "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só os dados oficiais, sem teste próprio."
+      ],
+      "bullets": [
+        "Nutren Senior: linha para adultos acima dos 50 anos.",
+        "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
+        "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+        "Nutren Active: complemento para jovens e adultos.",
+        "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
       ]
     },
     {

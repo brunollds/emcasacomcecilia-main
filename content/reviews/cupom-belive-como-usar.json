@@ -51,12 +51,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Entre no site oficial da Belive pelo botão desta página, monte o carrinho e digite **MAUAD** no campo \"Código do cupom\". Clique em \"Aplicar cupom\".",
-        "O cupom dá **10% OFF em todo o site**, em **todas as formas de pagamento**. Vale na primeira compra e nas seguintes.",
-        "Ele soma com as promoções do site e com o desconto de 5% do Pix. No nosso teste de checkout de 16/10/2026, o carrinho de R$ 576,82 foi para R$ 519,14 e, no Pix, para R$ 493,18.",
-        "O frete grátis é calculado sobre o valor do carrinho antes do cupom. Aplicar o MAUAD não faz perder o frete grátis.",
-        "No Mercado Livre o cupom não vale: lá a Belive vende pelo preço do anúncio."
+      "paragraphs": [
+        "O cupom MAUAD dá 10% de desconto em todo o site oficial da Belive, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
       ]
     },
     {

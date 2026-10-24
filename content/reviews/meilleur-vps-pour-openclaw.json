@@ -45,14 +45,13 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Si le modèle d'IA reste chez le fournisseur, c'est-à-dire si vous utilisez votre propre clé d'API ou les crédits d'IA de Hostinger, la requête part chez l'entreprise d'IA et le modèle ne tourne pas sur votre serveur. Une clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur, qui facture chaque usage. Dans ce cas, la documentation ne donne aucun chiffre de mémoire, et le serveur ne fait que faire tourner le programme. C'est pourquoi le KVM 1, avec 4 Go de RAM, est le point de départ. C'est notre lecture de la documentation, pas une mesure.",
-        "Avec un modèle local, qui tourne sur le serveur lui-même, le calcul change. La documentation fixe un plancher de 8 GiB de mémoire (environ 8,6 Go) pour sa plus petite recette locale, avec un contexte de 64K. Le KVM 2, avec 8 Go, se trouve juste à la limite. Le KVM 4, avec 16 Go, est le premier qui laisse une marge.",
-        "Si vous ne voulez pas vous occuper d'un serveur, regardez l'offre [gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps). Avec le lien, elle coûte 3,99 US$/mois sur la première période de 24 mois, et Hostinger installe et met à jour l'assistant. Le KVM 1 est affiché à 6,49 US$/mois sans le lien ; avec le lien, son prix s'affiche dans le panier."
+        "Avec le modèle d'IA chez le fournisseur, par votre clé d'API ou les crédits de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier qui laisse une marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
       ]
     },
     {
       "heading": "Ce que dit la documentation officielle (et ce qu'elle ne dit pas) sur les besoins",
       "paragraphs": [
+        "OpenClaw peut utiliser un modèle d'IA qui reste chez le fournisseur, avec votre clé d'API ou les crédits d'IA de Hostinger, ou un modèle local, qui tourne sur le serveur lui-même. Une clé d'API est le mot de passe qu'OpenClaw utilise pour demander des réponses à un fournisseur, qui facture chaque usage. Avec le modèle chez le fournisseur, la requête part chez l'entreprise d'IA et le serveur ne fait que faire tourner le programme.",
         "Les pages officielles d'installation et de modèles locaux, consultées le 21 octobre 2026, indiquent ce qui suit :"
       ],
       "bullets": [
@@ -102,7 +101,7 @@
     {
       "heading": "Quel forfait KVM choisir",
       "paragraphs": [
-        "KVM est le nom des forfaits de serveur virtuel d'Hostinger. Le tableau en présente quatre, avec les prix des forfaits de 24 mois relevés le 21 octobre 2026. Le prix avec le lien de parrainage s'affiche dans le panier, parce que nous ne l'avons pas relevé sur la page mondiale. Lisez chaque forfait au regard de la documentation :"
+        "KVM est le nom des forfaits de serveur virtuel d'Hostinger. Le tableau en présente quatre, avec les prix des forfaits de 24 mois relevés le 21 octobre 2026. Le prix avec le lien de parrainage s'affiche dans le panier, parce que nous ne l'avons pas relevé sur la page mondiale. Lisez chaque forfait au regard de la documentation  ; c'est notre lecture, pas une mesure:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-fr.webp",
@@ -208,7 +207,8 @@
         ]
       },
       "postParagraphs": [
-        "Sur le VPS, Hostinger installe OpenClaw avec Docker, un logiciel qui fait tourner chaque application isolée dans un conteneur. Ensuite, la maintenance est à votre charge."
+        "Sur le VPS, Hostinger installe OpenClaw avec Docker, un logiciel qui fait tourner chaque application isolée dans un conteneur. Ensuite, la maintenance est à votre charge.",
+        "Si vous ne voulez pas vous occuper d'un serveur, regardez l'offre [gérée](/fr/reviews/openclaw-hostinger-gere-ou-vps), où Hostinger installe et met à jour l'assistant."
       ]
     },
     {
@@ -224,6 +224,18 @@
       ],
       "postParagraphs": [
         "La règle qui compte : Oracle dit pouvoir récupérer une instance inactive. Elle est considérée comme inactive lorsque, sur une période de 7 jours, l'usage du CPU au 95e percentile reste sous 20 %, l'usage du réseau reste sous 20 % et, sur les A1, l'usage de la mémoire reste aussi sous 20 %. Un assistant qui reste à l'arrêt la plus grande partie du temps peut tomber sous cette règle. La documentation ne décrit pas de préavis avant la récupération."
+      ]
+    },
+    {
+      "heading": "Lequel choisir, en résumé",
+      "paragraphs": [
+        "Le choix du forfait dépend de l'endroit où tourne le modèle d'IA et de la part de travail serveur que vous acceptez."
+      ],
+      "bullets": [
+        "Modèle dans le cloud, par votre clé d'API ou les crédits de Hostinger : KVM 1, avec 4 Go, comme point de départ.",
+        "Modèle local : KVM 4, avec 16 Go, le premier forfait avec une marge au-dessus du plancher officiel de 8 GiB. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
+        "Pour ne pas gérer de serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+        "Pour tester gratuitement : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
       ]
     },
     {

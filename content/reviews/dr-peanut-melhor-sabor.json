@@ -26,20 +26,15 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Segundo a própria Dr. Peanut, os sabores mais vendidos são **Avelã, Bueníssimo e Cookies & Cream**. A loja chama os três de \"os sabores mais amados\" e vende os três juntos no Combo Best Sellers.",
-        "Mais proteína por 100 g: Avelã e Leite em Pó, com 20 g cada.",
-        "Menos açúcares totais por 100 g: Cookies & Cream (4,6 g) e Brownie (4,7 g).",
-        "Menos calorias: Banoffee, com 83 kcal por colher de sopa.",
-        "Os 11 sabores são **sem adição de açúcares**, e todos **contêm lactose**."
-      ],
-      "postParagraphs": [
-        "Não provamos os sabores, e este guia não elege o mais gostoso. Os dados são da loja oficial em 16/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar."
+      "paragraphs": [
+        "Pelo que a Dr. Peanut diz vender, os sabores mais amados são Avelã, Bueníssimo e Cookies & Cream, mas não provamos nenhum e este guia não elege o mais gostoso. A escolha pelo rótulo depende do que você quer, mais proteína, menos açúcar ou menos calorias, e o capítulo de perfil abaixo mostra cada caso."
       ]
     },
     {
       "heading": "Como comparamos, sem degustação",
       "paragraphs": [
+        "São 11 sabores de pasta de amendoim e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelos três sabores que a loja aponta como mais vendidos: Avelã, Bueníssimo e Cookies & Cream, vendidos juntos no Combo Best Sellers.",
+        "Os dados são da loja oficial em 16/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar.",
         "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor, lida em 16/10/2026. As 11 tabelas trazem 40 porções de 15 g por embalagem, a conta do pote de 600 g, e a porção de 15 g é 1 colher de sopa. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para os 11 sabores.",
         "Preços e tamanhos vêm da listagem de pastas de amendoim e da página de combos do site, na mesma data. O preço por 100 g e o preço com o cupom são contas nossas.",
         "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja afirma: quais sabores ela chama de mais amados e quais põe no combo de mais vendidos. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
@@ -303,21 +298,6 @@
       ]
     },
     {
-      "heading": "Qual sabor escolher pelo seu perfil",
-      "paragraphs": [
-        "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja diz que vende mais e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
-      ],
-      "bullets": [
-        "**Quer o sabor que mais gente compra:** Avelã, Bueníssimo e Cookies & Cream, os \"três sabores mais amados\", segundo a Dr. Peanut.",
-        "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
-        "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
-        "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream. O Chocolate Branco vem logo depois, com 1,2 g por colher.",
-        "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece.",
-        "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco.",
-        "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache."
-      ]
-    },
-    {
       "heading": "Whey Dr. Peanut: qual sabor escolher",
       "paragraphs": [
         "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada em 16/10/2026, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote."
@@ -393,6 +373,21 @@
         "Quatro sabores têm o mesmo nome de uma pasta: Avelã, Bombom Italiano, Bueníssimo e Doce de Leite. A Paçoca só existe no whey.",
         "O rótulo do whey é diferente do das pastas em dois pontos. O whey **contém glúten**, e as pastas não. O whey também contém lactose e leva sucralose como edulcorante.",
         "**O whey Dr. Peanut é da Max Titanium?** O whey leva as duas marcas: a página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. A Dr. Peanut em si não é da Max Titanium. As duas são marcas irmãs, do mesmo grupo, como mostramos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Qual sabor escolher pelo seu perfil",
+      "paragraphs": [
+        "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja diz que vende mais e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
+      ],
+      "bullets": [
+        "**Quer o sabor que mais gente compra:** Avelã, Bueníssimo e Cookies & Cream, os \"três sabores mais amados\", segundo a Dr. Peanut.",
+        "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
+        "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
+        "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream. O Chocolate Branco vem logo depois, com 1,2 g por colher.",
+        "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece.",
+        "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco.",
+        "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache."
       ]
     },
     {

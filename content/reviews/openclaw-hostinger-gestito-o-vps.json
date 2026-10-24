@@ -44,8 +44,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Scegli il **gestito** se vuoi l'assistente funzionante senza occuparti del server: Hostinger lo installa, lo aggiorna e fa i backup. Scegli il **VPS** se vuoi accesso root (controllo totale del server) e far girare altri programmi sulla stessa macchina, e accetti di aggiornare e proteggere il sistema.",
-        "In entrambe le opzioni puoi usare i crediti IA di Hostinger o la tua chiave API. Il 21/10/2026, il gestito con il link di invito costa **3,99 USD al mese**. Il VPS KVM 1 costa 6,49 USD al mese senza link; con il link c'è il 20% sul primo periodo, e il prezzo finale è nel carrello. Entrambi si rinnovano a **11,99 USD al mese** (prezzi della pagina globale di Hostinger, piano di 24 mesi)."
+        "Scegli il gestito se vuoi l'assistente funzionante senza occuparti del server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Conta la manutenzione che accetti; vedi «Quanto costa davvero» più avanti."
       ]
     },
     {
@@ -144,22 +143,6 @@
       ]
     },
     {
-      "heading": "Chi dovrebbe scegliere cosa",
-      "paragraphs": [
-        "**Scegli il gestito se:**"
-      ],
-      "bullets": [
-        "vuoi l'assistente online senza installare né configurare un server;",
-        "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
-        "non sai cos'è root né Docker;",
-        "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
-      ],
-      "postParagraphs": [
-        "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
-        "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede competenze di server."
-      ]
-    },
-    {
       "heading": "Telegram e WhatsApp",
       "paragraphs": [
         "Entrambi i canali funzionano in entrambe le opzioni. La differenza è dove li configuri. Nel gestito scegli i canali nella procedura guidata di Hostinger: per WhatsApp leggi un codice QR, per Telegram incolli il token del bot. Nel VPS la configurazione ha campi facoltativi per il numero WhatsApp, con il prefisso internazionale, e per il token del bot Telegram. La documentazione non mostra dove compare il QR di WhatsApp nel VPS.",
@@ -189,6 +172,22 @@
         "**Più di una persona userà l'assistente** (famiglia o team): il progetto consiglia un server per persona. Nel VPS è immediato; nel gestito chiedi a Hostinger quante istanze può avere un account.",
         "**L'assistente avrà accesso alla tua email, alla banca o ad altri account:** il progetto chiede che sul server non ci siano account personali connessi. Hostinger suggerisce una casella email separata per l'assistente.",
         "**Nel VPS, conserva il token del gateway** generato dall'installazione e non mandarlo in chat all'assistente."
+      ]
+    },
+    {
+      "heading": "Chi dovrebbe scegliere cosa",
+      "paragraphs": [
+        "**Scegli il gestito se:**"
+      ],
+      "bullets": [
+        "vuoi l'assistente online senza installare né configurare un server;",
+        "preferisci che Hostinger si occupi di aggiornamenti, backup e sicurezza;",
+        "non sai cos'è root né Docker;",
+        "vuoi OpenClaw, o passare a Hermes Agent o Paperclip nello stesso piano."
+      ],
+      "postParagraphs": [
+        "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server o vuoi impararlo, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
+        "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede competenze di server."
       ]
     },
     {

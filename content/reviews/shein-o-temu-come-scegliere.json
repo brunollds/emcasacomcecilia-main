@@ -32,13 +32,13 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Non esiste un negozio migliore per tutti. La scelta dipende da cosa compri e da quanto conta poter restituire. In Italia Temu dà 90 giorni dall'acquisto per il reso e AliExpress 90 giorni dall'ordine, se il venditore spedisce dall'estero; su SHEIN la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento, con 14 giorni di recesso per legge.",
-        "Questo articolo non misura i prezzi e non testa le consegne. La tabella raccoglie ciò che ogni negozio pubblica in Italia, consultato il 12 e il 13/10/2026. Anche Amazon compare nelle ricerche, ma qui non è confrontato."
+        "Non esiste un negozio migliore per tutti: la scelta dipende da cosa compri e da quanto conta poter restituire, e in Italia il termine più lungo per il reso è di 90 giorni, da Temu e AliExpress. Non misuriamo i prezzi e non testiamo le consegne. Il capitolo «Quale scegliere, a seconda dell'acquisto» qui sotto mostra cosa controllare in ogni caso."
       ]
     },
     {
       "heading": "SHEIN, Temu e AliExpress a confronto in Italia",
       "paragraphs": [
+        "Non esiste un negozio migliore per tutti: dipende da cosa compri e da quanto conta poter restituire. Questo articolo non misura i prezzi e non testa le consegne; la tabella raccoglie ciò che ogni negozio pubblica in Italia. Anche Amazon compare nelle ricerche, ma qui non è confrontato.",
         "Fonti, consultate il 12 e il 13/10/2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia; pagine su spedizione e resi di Temu per l'Italia; politica di reso di AliExpress e pagina prodotto di un vestito, con la consegna impostata sull'Italia. Il sito SHEIN per l'Italia è gestito da Infinite Styles Services Co., Limited («ISSL»)."
       ],
       "image": {
@@ -87,15 +87,6 @@
       ]
     },
     {
-      "heading": "Quale scegliere, a seconda dell'acquisto",
-      "bullets": [
-        "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
-        "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine. Su AliExpress la pagina del prodotto mostra la data stimata e l'ordine viene rimborsato se non arriva entro 45 giorni.",
-        "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
-        "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
-      ]
-    },
-    {
       "heading": "Cosa misurano le valutazioni",
       "paragraphs": [
         "I punteggi dei siti di reclami e di recensioni misurano come il negozio risponde a chi si lamenta, non la qualità del prodotto; il numero di reclami dipende dalle dimensioni del negozio. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nell'articolo sull'affidabilità di SHEIN."
@@ -114,6 +105,15 @@
         "Il termine per il reso e se l'articolo è tra quelli con un termine più breve.",
         "Chi vende: il negozio stesso o un venditore partner.",
         "Il tempo di consegna indicato nell'ordine."
+      ]
+    },
+    {
+      "heading": "Quale scegliere, a seconda dell'acquisto",
+      "bullets": [
+        "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
+        "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine. Su AliExpress la pagina del prodotto mostra la data stimata e l'ordine viene rimborsato se non arriva entro 45 giorni.",
+        "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
+        "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
       ]
     },
     {

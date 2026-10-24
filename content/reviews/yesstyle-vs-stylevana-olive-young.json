@@ -32,12 +32,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "No store is the best pick for everyone: the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia. In the US, Olive Young Global does not: customers there shop at a separate store, OLIVE YOUNG US. Free shipping starts at a different amount in each store and country.",
-        "This article does not compare prices or test the competing stores. The tables bring together what each store publishes on its official pages, read on October 12, 2026."
+        "No store is the best pick for everyone: the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia, while in the US Olive Young Global does not. The tables show the details; \"Which store to choose\" gives the pick by country."
       ]
     },
     {
       "heading": "Who ships to the US, UK, Canada and Australia",
+      "paragraphs": [
+        "This article does not compare prices or test the competing stores: the tables bring together what each store publishes on its official pages, read on October 12, 2026. No store is the best pick for everyone, because the choice depends on your country, who pays the tax and what the store takes back. All five stores ship to the UK, Canada and Australia. In the US, Olive Young Global does not: customers there shop at a separate store, OLIVE YOUNG US. Free shipping starts at a different amount in each store and country."
+      ],
       "comparisonTable": {
         "caption": "Delivery time and free-shipping minimum of YesStyle, Stylevana, Olive Young Global, StyleKorean and Jolse in the US, UK, Canada and Australia, from the official pages read on October 12, 2026; Olive Young Global destinations, read on October 21, 2026.",
         "headers": [
@@ -266,6 +268,14 @@
           "label": "See today's YesStyle coupon and the CECILIA010 Reward Code",
           "href": "/en/coupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Which store to choose",
+      "bullets": [
+        "In the US: YesStyle ships Standard in 7 to 11 business days, free from US$ 35, and Stylevana ships Premium Express in 4 to 9 business days, also free from US$ 35. Olive Young Global does not ship there; US customers shop at OLIVE YOUNG US, free from US$ 35.",
+        "In the UK, Canada and Australia: all five stores ship, and free shipping starts at a different amount in each, so check the tables above for your country.",
+        "In any country: check each store's official page for shipping, who pays the tax and what it takes back before you order."
       ]
     },
     {

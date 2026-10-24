@@ -45,15 +45,13 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Paperclip 是用来组织 AI 代理团队的程序。它不是只放一个助手，而是为团队设定职位、目标，以及每个代理的花费上限。Paperclip 本身不运行 AI 模型。它负责协调用其他程序运行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。代码采用 MIT 许可的开源方式。官方仓库说明，项目由 Paperclip 团队维护。",
-        "在 Hostinger 上有两种运行方式。**托管** 适合不想管服务器的人，数据库、更新和备份都由 Hostinger 负责。**VPS** 是租来的服务器，搭配 Docker 使用，安全性和更新由你负责。两种方式下，Claude、OpenAI 等 AI 密钥都是你自己的。Paperclip 托管版的页面没有列出 Hostinger 的 AI 额度。",
-        "截至 2026年10月21日，在 Hostinger 全球页面（美元计价、24 个月套餐）上，通过推荐链接的托管为 **US$ 3.99/月**（不用推荐链接为 US$ 4.99/月）。续费为 **US$ 11.99/月**。"
+        "Paperclip 用来组织一支 AI 代理团队，每个代理都有职位、目标和支出上限，但它本身不运行 AI，密钥要你自己提供。在 Hostinger 上可以用托管方案或 VPS 运行。决定因素是谁来管服务器，请看下面“在 Hostinger 上选托管还是 VPS”和“要花多少钱”两章。"
       ]
     },
     {
       "heading": "用大白话说 Paperclip 是什么",
       "paragraphs": [
-        "想象一家小公司，有老板、经理和员工，每个人各有职责。Paperclip 用 AI 代理做同样的事。每个代理都有职位、工作说明和上司。位置较高的人分派工作，位置较低的人向上司汇报。官方文档中，这个项目有五个核心概念。"
+        "Paperclip 是一个用来组织 AI 代理团队的程序：不是只有一个助手，而是为每个代理设定职位、目标和支出上限，组成一支团队。想象一家小公司，有老板、经理和员工，每个人各有职责。Paperclip 用 AI 代理做同样的事。每个代理都有职位、工作说明和上司。位置较高的人分派工作，位置较低的人向上司汇报。官方文档中，这个项目有五个核心概念。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-zh-hans.webp",
@@ -86,9 +84,10 @@
     {
       "heading": "你需要准备的东西",
       "paragraphs": [
-        "下单前，请先确认这四点。"
+        "下单前，请先确认这五点。"
       ],
       "bullets": [
+        "**要协调的代理。** Paperclip 不运行 AI 模型，它协调通过其他程序运行的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
         "**Postgres。** 这是 Paperclip 存放代理、任务和记录的数据库。在本地安装时，它内置并自动启动。在正式环境中，项目本身建议你指向自己的 Postgres。托管方案已包含数据库。VPS 的数据库则由你自己管理。",
         "**自己的 AI 密钥。** API 密钥是程序向供应商（Anthropic 的 Claude、OpenAI 或其他）请求回应时使用的密码。供应商会直接向你收费。Paperclip 托管版的页面说，你要连接“自己的代理和 API 密钥”，并没有列出包含的 AI 额度。没有密钥，团队就不会回应。",
         "**每个代理的每月预算。** 启动团队前先定上限。五个每天都有任务的代理，花费可能远高于只偶尔和你聊天的助手。没有上限，费用就是月底供应商的收费。",

@@ -37,6 +37,12 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida: como usar o cupom MAUAD",
+      "paragraphs": [
+        "O cupom MAUAD dá 5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It. Você digita o código no campo \"Código de desconto\" do checkout e confere a linha do desconto no resumo antes de pagar. O frete entra depois, calculado pelo CEP; veja abaixo o teste e a economia."
+      ]
+    },
+    {
       "heading": "Introdução",
       "paragraphs": [
         "A Let's Eat It entrou para as parcerias do Em Casa com Cecília com uma proposta que tem tudo a ver com a nossa cozinha: panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e aquelas peças de mesa posta que fazem um almoço de domingo parecer ocasião especial. O código da parceria é MAUAD — o meu sobrenome — e dá 5% de desconto no site da loja (que muita gente procura como “lets eat it”, sem o apóstrofo).",
@@ -47,16 +53,6 @@
           "label": "Regras e validade do cupom MAUAD",
           "href": "/cupons/letseatit"
         }
-      ]
-    },
-    {
-      "heading": "Resposta rápida: como usar o cupom MAUAD",
-      "bullets": [
-        "Entre no site oficial da Let's Eat It (letseatit.com.br) e coloque os produtos no carrinho.",
-        "Siga para o checkout e procure o campo \"Código de desconto\".",
-        "Digite MAUAD, em letras maiúsculas e sem espaços, e clique em \"Aplicar\".",
-        "Confira se a linha \"Desconto no pedido · MAUAD\" apareceu no resumo antes de pagar.",
-        "O desconto é de 5% sobre o subtotal dos produtos; o frete entra depois, calculado pelo CEP."
       ]
     },
     {

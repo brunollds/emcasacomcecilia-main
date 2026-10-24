@@ -32,12 +32,14 @@
     {
       "heading": "Kurz gesagt",
       "paragraphs": [
-        "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht in der Versandtabelle nur Deutschland mit einer Lieferzeit; Österreich und die Schweiz stehen in der Länderauswahl der Website, ohne Lieferzeit. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand.",
-        "Dieser Artikel vergleicht keine Preise und testet die anderen Shops nicht. Die Tabellen fassen zusammen, was jeder Shop auf seinen offiziellen Seiten veröffentlicht. Stand der Seiten: 12.10.2026."
+        "Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Stylevana nennt in Deutschland, Österreich und der Schweiz jeweils einen anderen Mindestbestellwert für kostenlosen Versand. Die Tabellen zeigen die Details; „Welchen Shop wählen“ fasst die Wahl nach Land zusammen."
       ]
     },
     {
       "heading": "Wer nach Deutschland, Österreich und in die Schweiz liefert",
+      "paragraphs": [
+        "Dieser Artikel vergleicht keine Preise und testet die anderen Shops nicht: Die Tabellen fassen zusammen, was jeder Shop auf seinen offiziellen Seiten veröffentlicht (Stand der Seiten: 12.10.2026). Es gibt keinen Shop, der für alle passt: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. Bei Olive Young Global steht in der Versandtabelle nur Deutschland mit einer Lieferzeit; Österreich und die Schweiz stehen in der Länderauswahl der Website, ohne Lieferzeit. Stylevana nennt in jedem der drei Länder einen anderen Mindestbestellwert für kostenlosen Versand."
+      ],
       "comparisonTable": {
         "caption": "Lieferzeit und Mindestbestellwert für kostenlosen Versand von YesStyle, Stylevana, Olive Young Global, StyleKorean und Jolse in Deutschland, Österreich und der Schweiz, laut den offiziellen Seiten vom 12.10.2026.",
         "headers": [
@@ -259,6 +261,14 @@
           "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
           "href": "/de/coupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Welchen Shop wählen",
+      "bullets": [
+        "Wer in Deutschland bestellt: YesStyle (10–15 Werktage, kostenlos ab US$ 45), Stylevana (7–11 Werktage, kostenlos ab 48 €) und Olive Young Global (4–5 Tage, kostenlos ab US$ 60) nennen eine Lieferzeit; StyleKorean liefert kostenlos ab US$ 80.",
+        "Wer in Österreich oder der Schweiz bestellt: Olive Young Global liefert laut Länderauswahl, nennt aber keine Lieferzeit. YesStyle verlangt in beiden Ländern US$ 45 für kostenlosen Versand, Stylevana 79 € in Österreich und 75 € in der Schweiz.",
+        "In jedem Land: Prüfen Sie vor der Bestellung auf der offiziellen Seite jedes Shops den Versand, wer die Steuern zahlt und was der Shop zurücknimmt."
       ]
     },
     {

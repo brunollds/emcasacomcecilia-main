@@ -32,12 +32,14 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Il n'y a pas de meilleure boutique pour tout le monde : le choix change selon le pays, selon qui paie les taxes et selon ce que la boutique reprend. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Stylevana dessert la France et la Belgique par le même site, et le Canada par un site uniquement en anglais.",
-        "Cet article ne compare pas les prix et ne teste pas les boutiques concurrentes. Les tableaux rassemblent ce que chaque boutique publie sur ses pages officielles, lues le 12 octobre 2026."
+        "Il n'y a pas de meilleure boutique pour tout le monde : le choix change selon le pays, selon qui paie les taxes et selon ce que la boutique reprend. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Les tableaux détaillent tout ; « Quelle boutique choisir » donne le choix par pays."
       ]
     },
     {
       "heading": "Qui livre en France, en Belgique et au Canada",
+      "paragraphs": [
+        "Cet article ne compare pas les prix et ne teste pas les boutiques concurrentes : les tableaux rassemblent ce que chaque boutique publie sur ses pages officielles, lues le 12 octobre 2026. Il n'y a pas de meilleure boutique pour tout le monde. En Belgique, Olive Young Global n'apparaît pas dans le tableau d'envoi. Stylevana dessert la France et la Belgique par le même site, et le Canada par un site uniquement en anglais."
+      ],
       "comparisonTable": {
         "caption": "Délai et livraison gratuite de YesStyle, Stylevana, Olive Young Global, StyleKorean et Jolse en France, en Belgique et au Canada, d'après les pages officielles lues le 12 octobre 2026 ; destinations d'Olive Young Global lues le 21 octobre 2026.",
         "headers": [
@@ -261,6 +263,15 @@
           "label": "Voir le coupon YesStyle du jour et le code récompense CECILIA010",
           "href": "/fr/coupons/yesstyle"
         }
+      ]
+    },
+    {
+      "heading": "Quelle boutique choisir",
+      "bullets": [
+        "Si vous habitez en France : YesStyle (10 à 15 jours ouvrés, livraison gratuite dès US$ 45), Stylevana (5 à 10 jours ouvrés, dès 48 €) et Olive Young Global (4 à 5 jours, dès US$ 60) publient un délai ; StyleKorean offre la livraison dès US$ 80.",
+        "Si vous habitez en Belgique : YesStyle (dès US$ 45) et Stylevana (dès 48 €) publient un délai ; Olive Young Global est dans le sélecteur de destination mais sans délai publié, livraison gratuite dès US$ 60.",
+        "Si vous habitez au Canada : Stylevana passe par un site uniquement en anglais ; YesStyle (Premium Standard, 7 à 14 jours ouvrés, dès US$ 50) et Olive Young Global (5 à 7 jours, dès US$ 60) publient leurs délais.",
+        "Dans tous les cas : avant de commander, vérifiez sur la page officielle de chaque boutique la livraison, qui paie les taxes et ce qu'elle reprend."
       ]
     },
     {

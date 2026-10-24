@@ -45,8 +45,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Elige **gestionado** si quieres que el asistente funcione sin ocuparte de un servidor: Hostinger lo instala, lo actualiza y hace las copias de seguridad. Elige el **VPS** si quieres acceso root (control total del servidor) y ejecutar otros programas en la misma máquina, y aceptas mantener el sistema actualizado y protegido.",
-        "En las dos opciones puedes usar los créditos de IA de Hostinger o tu propia clave de API. El 21 de octubre de 2026, el plan gestionado cuesta **US$ 3,99/mes** con el enlace de referido y US$ 4,99 sin él. El VPS KVM 1 cuesta US$ 6,49/mes sin el enlace (el precio con el enlace aparece en el carrito). Los precios son de un plan de 24 meses. Los dos se renuevan a **US$ 11,99/mes**."
+        "Elige el gestionado si quieres que el asistente funcione sin ocuparte de un servidor, y el VPS si quieres acceso root y ejecutar otros programas en la misma máquina. Las dos opciones aceptan los créditos de IA de Hostinger o tu propia clave de API. Lo que pesa es el mantenimiento que aceptas; mira «Cuánto cuesta de verdad» más abajo."
       ]
     },
     {
@@ -140,22 +139,6 @@
       ]
     },
     {
-      "heading": "Quién debe elegir cada uno",
-      "paragraphs": [
-        "**Elige el gestionado si:**"
-      ],
-      "bullets": [
-        "quieres el asistente funcionando sin instalar ni configurar un servidor;",
-        "prefieres que Hostinger se encargue de las actualizaciones, las copias de seguridad y la seguridad;",
-        "no sabes qué es root ni Docker;",
-        "quieres OpenClaw, o cambiar a Hermes Agent o Paperclip en el mismo plan."
-      ],
-      "postParagraphs": [
-        "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes administrar un servidor, o quieres aprender, y aceptas mantener el sistema actualizado y protegido; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
-        "**En la duda, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidor."
-      ]
-    },
-    {
       "heading": "Telegram y WhatsApp",
       "paragraphs": [
         "Los dos canales funcionan en las dos opciones. La diferencia está en dónde los configuras. En el gestionado, eliges los canales en el asistente de configuración de Hostinger: en WhatsApp, lees un código QR; en Telegram, pegas el token del bot. En el VPS, la configuración tiene campos opcionales para el número de WhatsApp, con el código del país, y para el token del bot de Telegram. La documentación no muestra dónde aparece el QR de WhatsApp en el VPS.",
@@ -185,6 +168,22 @@
         "**Más de una persona va a usar el asistente** (familia o equipo): el proyecto recomienda un servidor por persona. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
         "**El asistente va a tener acceso a tu correo, a tu banco u otras cuentas:** el proyecto pide que el servidor no tenga cuentas personales abiertas. Hostinger sugiere una bandeja de correo separada para el asistente.",
         "**En el VPS, guarda el token de la pasarela** que genera la instalación, y no lo envíes en una conversación con el asistente."
+      ]
+    },
+    {
+      "heading": "Quién debe elegir cada uno",
+      "paragraphs": [
+        "**Elige el gestionado si:**"
+      ],
+      "bullets": [
+        "quieres el asistente funcionando sin instalar ni configurar un servidor;",
+        "prefieres que Hostinger se encargue de las actualizaciones, las copias de seguridad y la seguridad;",
+        "no sabes qué es root ni Docker;",
+        "quieres OpenClaw, o cambiar a Hermes Agent o Paperclip en el mismo plan."
+      ],
+      "postParagraphs": [
+        "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes administrar un servidor, o quieres aprender, y aceptas mantener el sistema actualizado y protegido; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
+        "**En la duda, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidor."
       ]
     },
     {

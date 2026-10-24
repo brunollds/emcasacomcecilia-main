@@ -45,15 +45,13 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Paperclip est un logiciel pour organiser une équipe d'agents d'IA. Au lieu d'un seul assistant, vous composez l'équipe avec des rôles, des objectifs et un plafond de dépenses pour chaque agent. Il ne fait pas tourner lui-même de modèle d'IA : il coordonne des agents qui fonctionnent par d'autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw. Le code est ouvert, sous licence MIT, et le dépôt officiel indique que le projet est maintenu par l'équipe Paperclip.",
-        "Chez Hostinger, il y a deux façons de le faire tourner. L'offre **gérée** convient à qui ne veut pas s'occuper d'un serveur : Hostinger prend en charge la base de données, les mises à jour et les sauvegardes. Le **VPS** est un serveur loué, avec Docker, où la sécurité et les mises à jour vous reviennent. Dans les deux cas, les clés d'IA (Claude, OpenAI et d'autres) sont les vôtres : la page de Paperclip géré ne liste pas de crédits d'IA de Hostinger.",
-        "Le 21 octobre 2026, l'offre gérée coûte **3,99 US$/mois** avec le lien de parrainage, et 4,99 US$ sans, sur un forfait de 24 mois. Elle se renouvelle à **11,99 US$/mois**."
+        "Paperclip organise une équipe d'agents d'IA, avec postes, objectifs et plafond de dépense pour chacun, mais il ne fait pas tourner l'IA : les clés sont les vôtres. Chez Hostinger, il tourne en offre gérée ou sur un VPS. Ce qui change la décision, c'est qui s'occupe du serveur ; voyez Géré ou VPS chez Hostinger et Combien ça coûte, plus bas."
       ]
     },
     {
       "heading": "Ce qu'est Paperclip, en termes simples",
       "paragraphs": [
-        "Pensez à une petite entreprise. Elle a un propriétaire, des responsables et des employés, chacun avec sa fonction. Paperclip fait la même chose avec des agents d'IA : chaque agent a un poste, une description de poste et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. La documentation met en avant cinq idées du projet."
+        "Paperclip est un programme pour organiser une équipe d'agents d'IA : au lieu d'un seul assistant, vous montez l'équipe avec des postes, des objectifs et un plafond de dépense pour chaque agent. Pensez à une petite entreprise. Elle a un propriétaire, des responsables et des employés, chacun avec sa fonction. Paperclip fait la même chose avec des agents d'IA : chaque agent a un poste, une description de poste et un supérieur. Celui qui est au-dessus délègue des tâches, et celui qui est en dessous lui rend des comptes. La documentation met en avant cinq idées du projet."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-fr.webp",
@@ -86,9 +84,10 @@
     {
       "heading": "Ce qu'il vous faut",
       "paragraphs": [
-        "Avant de souscrire, vérifiez ces quatre points."
+        "Avant de souscrire, vérifiez ces cinq points."
       ],
       "bullets": [
+        "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d'IA : il coordonne des agents qui fonctionnent par d'autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
         "**Postgres.** C'est la base de données où Paperclip garde les agents, les tâches et les enregistrements. En installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de la relier à votre propre Postgres. Sur l'offre gérée, la base est incluse. Sur le VPS, la base de données vous revient.",
         "**Vos propres clés d'IA.** Une clé d'API est le mot de passe que le logiciel utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture cet usage directement à vous. La page de Paperclip géré indique que vous connectez « vos propres agents et clés d'API », et ne liste pas de crédits d'IA inclus. Sans clé, l'équipe ne répond pas.",
         "**Un budget mensuel par agent.** Fixez le plafond avant d'allumer l'équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser beaucoup plus qu'un assistant auquel vous parlez de temps en temps. Sans plafond, la dépense est seulement ce que le fournisseur facture en fin de mois.",

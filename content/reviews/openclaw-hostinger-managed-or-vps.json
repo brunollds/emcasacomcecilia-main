@@ -45,8 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Choose **managed** if you want the assistant running without looking after a server: Hostinger installs it, updates it and makes the backups. Choose the **VPS** if you want root access (full control of the server) and want to run other programs on the same machine, and you accept keeping the system updated and protected.",
-        "Both options let you use Hostinger's AI credits or your own API key. On October 21, 2026, the managed plan costs **US$3.99/month** with the referral link and US$4.99 without it. The VPS KVM 1 costs US$6.49/month without the link (the price with the link is shown in the cart). Prices are for a 24-month plan. Both renew at **US$11.99/month**."
+        "Choose the managed plan if you want the assistant running without looking after a server, and the VPS if you want root access and to run other programs on the same machine. Both options accept Hostinger's AI credits or your own API key. What decides it is how much maintenance you accept; see \"How much it really costs\" below."
       ]
     },
     {
@@ -140,22 +139,6 @@
       ]
     },
     {
-      "heading": "Who should choose each one",
-      "paragraphs": [
-        "**Choose managed if:**"
-      ],
-      "bullets": [
-        "you want the assistant running without installing or configuring a server;",
-        "you prefer that Hostinger handles the updates, the backups and the security;",
-        "you don't know what root or Docker is;",
-        "you want OpenClaw, or to switch to Hermes Agent or Paperclip on the same plan."
-      ],
-      "postParagraphs": [
-        "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know how to manage a server, or want to learn, and you accept keeping the system updated and protected; or you need more memory and disk: the KVM plans go from 4 GB to 32 GB of RAM.",
-        "**When in doubt, start with managed.** It costs less in the first period and does not require server knowledge."
-      ]
-    },
-    {
       "heading": "Telegram and WhatsApp",
       "paragraphs": [
         "Both channels work on both options. The difference is where you set them up. On managed, you choose the channels in Hostinger's setup assistant: for WhatsApp, you read a QR code; for Telegram, you paste the bot token. On the VPS, the setup has optional fields for the WhatsApp number, with the country code, and for the Telegram bot token. The documentation does not show where the WhatsApp QR code appears on the VPS.",
@@ -185,6 +168,22 @@
         "**More than one person will use the assistant** (family or team): the project recommends one server per person. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
         "**The assistant will have access to your email, your bank or other accounts:** the project asks that the server have no personal accounts logged in. Hostinger suggests a separate email inbox for the assistant.",
         "**On the VPS, keep the gateway token** that the installation generates, and don't send it in a conversation with the assistant."
+      ]
+    },
+    {
+      "heading": "Who should choose each one",
+      "paragraphs": [
+        "**Choose managed if:**"
+      ],
+      "bullets": [
+        "you want the assistant running without installing or configuring a server;",
+        "you prefer that Hostinger handles the updates, the backups and the security;",
+        "you don't know what root or Docker is;",
+        "you want OpenClaw, or to switch to Hermes Agent or Paperclip on the same plan."
+      ],
+      "postParagraphs": [
+        "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know how to manage a server, or want to learn, and you accept keeping the system updated and protected; or you need more memory and disk: the KVM plans go from 4 GB to 32 GB of RAM.",
+        "**When in doubt, start with managed.** It costs less in the first period and does not require server knowledge."
       ]
     },
     {

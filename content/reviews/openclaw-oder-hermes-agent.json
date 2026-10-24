@@ -44,8 +44,7 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Wählen Sie **OpenClaw**, wenn Sie viele Nachrichtenkanäle anbinden, eine Weboberfläche (Control UI) nutzen und native Apps für Handy und Computer haben wollen. Laut README unterstützt es mehr als 20 Kanäle, und das Projekt wird von einer gemeinnützigen Organisation getragen. Wählen Sie den **Hermes Agent**, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Das Gedächtnis organisiert der Agent selbst, er erstellt und verbessert eigene Fähigkeiten, durchsucht alte Gespräche und erstellt mit Honcho ein Nutzermodell. Der Hermes Agent stammt von Nous Research.",
-        "Wenn Sie sich nicht um einen Server kümmern wollen, bedient der verwaltete Tarif von Hostinger beide zum gleichen Preis: US$ 3,99/Monat mit dem Empfehlungslink, im 24-Monats-Tarif. Die Software ist in beiden Fällen kostenlos; bezahlt werden der Server und die Nutzung der KI-Modelle."
+        "Wählen Sie OpenClaw für viele Nachrichtenkanäle und native Apps für Handy und Computer, den Hermes Agent für einen Agenten, der aus der Nutzung lernt. Die Software ist in beiden Fällen kostenlos, und der verwaltete Tarif von Hostinger passt zu beiden. Entscheidend ist, was der Agent tun soll; siehe das Kapitel Für wen welcher ist weiter unten."
       ]
     },
     {
@@ -138,26 +137,6 @@
       ]
     },
     {
-      "heading": "Für wen welcher ist",
-      "paragraphs": [
-        "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, nicht von der Software."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
-        "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
-        "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
-      },
-      "bullets": [
-        "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
-        "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
-        "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server.",
-        "**Wer nichts installieren und keinen Server betreuen will:** verwaltet, bei beiden. Hostinger installiert und aktualisiert."
-      ],
-      "postParagraphs": [
-        "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
-      ]
-    },
-    {
       "heading": "Bevor Sie installieren",
       "paragraphs": [
         "Bevor Sie anfangen, prüfen Sie drei Dinge. Sie gelten für beide Agenten."
@@ -182,6 +161,26 @@
       ],
       "postParagraphs": [
         "Für die Wahl zwischen verwaltet und VPS lautet die Frage: Wer kümmert sich um die Daten und die Zugangsdaten? Der Leitfaden [verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) behandelt das im Detail."
+      ]
+    },
+    {
+      "heading": "Für wen welcher ist",
+      "paragraphs": [
+        "Beide sind quelloffen und verlangen keine Lizenzgebühr. Die Wahl hängt davon ab, was der Agent tun soll, nicht von der Software."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-de.webp",
+        "alt": "Tabelle mit vier Profilen und der Antwort für jedes: viele Kanäle und eine App auf dem Handy führen zu OpenClaw; ein Agent, der lernt und eigene Fähigkeiten erstellt, führt zu Hermes Agent; wer sich nicht um einen Server kümmern will, nimmt den verwalteten Tarif; wer Root und andere Programme will, nimmt den VPS",
+        "caption": "Laut der Dokumentation jedes Projekts, gelesen am 21.10.2026."
+      },
+      "bullets": [
+        "**Wer viele Kanäle und eine App auf dem Handy will:** OpenClaw. Das README nennt mehr als 20 Kanäle und bringt native Apps für Handy und Computer mit, dazu die Control UI im Web.",
+        "**Wer einen Agenten will, der aus der Nutzung lernt:** Hermes Agent. Er organisiert sein Gedächtnis selbst, erstellt und verbessert eigene Fähigkeiten und durchsucht alte Gespräche.",
+        "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem der beiden. Root ist der Administratorzugang mit voller Kontrolle über den Server.",
+        "**Wer nichts installieren und keinen Server betreuen will:** verwaltet, bei beiden. Hostinger installiert und aktualisiert."
+      ],
+      "postParagraphs": [
+        "Niemand aus dem Team nutzt eines der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus eigener Erfahrung."
       ]
     },
     {

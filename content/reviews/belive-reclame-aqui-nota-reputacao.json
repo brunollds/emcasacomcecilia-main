@@ -52,11 +52,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "A Belive tem reputação **Ótima** no Reclame Aqui nos últimos 6 meses, com nota 8,1. O período vai de 01/04 a 30/09/2026, e os dados são do perfil Belive Be Free consultado em 16/10/2026. Nesse período, a empresa recebeu 39 reclamações, respondeu todas e resolveu 80%.",
-        "O ponto mais fraco aparece nos 12 meses. A reputação cai para Boa, com nota 7,8, e só 70% de quem avaliou disse que voltaria a comprar.",
-        "Responder não é o mesmo que resolver. O perfil mostra as reclamações respondidas, mas a taxa de resolvidas ficou entre 75% e 80% nas três janelas.",
-        "Sobre a empresa por trás da marca e se ela é confiável, veja [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+      "paragraphs": [
+        "A Belive tem reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Ela responde a todas as reclamações, mas resolve entre 75% e 80%. O capítulo sobre como a Belive responde mostra a diferença entre responder e resolver."
       ]
     },
     {
@@ -193,7 +190,22 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. O cupom dá 10% em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. Vale na primeira compra. No Mercado Livre, onde a Belive também vende, o cupom não vale. Os detalhes estão na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho, em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+        "O Em Casa com Cecília tem parceria com a Belive e pode receber comissão pelas compras feitas com o cupom **MAUAD**. O cupom dá 10% em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. Vale na primeira compra. No Mercado Livre, onde a Belive também vende, o cupom não vale. Para a confiança na empresa, veja [Belive é confiável?](/reviews/belive-e-confiavel). Os detalhes do cupom estão na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho, em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+      ]
+    },
+    {
+      "heading": "Dá para confiar na Belive?",
+      "paragraphs": [
+        "Sim, com a leitura certa. Em 16/10/2026, a reputação era Ótima nos últimos 6 meses e a loja responde a tudo. O limite é a amostra pequena e a resolução, que fica em 80%."
+      ],
+      "bullets": [
+        "Nota: 8,1 nos 6 meses (Ótima) e 7,8 nos 12 meses (Boa).",
+        "Respondidas: 100%. Resolvidas: 80% nos 6 e nos 12 meses.",
+        "Voltariam a fazer negócio: 80% nos 6 meses e 70% nos 12 meses.",
+        "Tempo médio de resposta: 1 dia e 2 horas nos 6 meses.",
+        "Amostra: 39 reclamações nos 6 meses, 15 avaliadas.",
+        "Problema mais citado: atraso na entrega, com 4,29%.",
+        "Cuidado prático: peça pelo formulário de atendimento, guarde o protocolo e acompanhe a entrega."
       ]
     },
     {

@@ -57,12 +57,8 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "Entre no site da Probiótica pelo botão desta página, coloque os produtos no carrinho e digite **PRO10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no resumo do pedido. Clique em \"Adicionar\".",
-        "O desconto chega a 10% OFF, mas em alguns produtos ele é menor. A linha \"Descontos\" do resumo mostra quanto o cupom abateu de verdade antes de você pagar.",
-        "O cupom vale em todas as formas de pagamento, em todo o site, para conta nova e para quem já comprou na loja.",
-        "Atenção ao frete grátis: o valor mínimo muda conforme a região do CEP, e o desconto do cupom entra na conta. Confira a tabela mais abaixo.",
-        "As condições atualizadas do código ficam na [página do cupom da Probiótica](/cupons/probiotica)."
+      "paragraphs": [
+        "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
       ]
     },
     {

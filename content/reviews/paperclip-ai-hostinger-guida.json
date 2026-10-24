@@ -44,15 +44,13 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Paperclip è un programma per organizzare un team di agenti IA. Invece di un solo assistente, si compone una squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Il programma non esegue un modello IA da sé: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw. Il codice è aperto, con licenza MIT, e il repository ufficiale dice che il progetto è mantenuto dal team Paperclip.",
-        "Su Hostinger ci sono due modi per farlo girare. Il **gestito** è per chi non vuole occuparsi di un server: Hostinger si occupa di database, aggiornamenti e backup. Il **VPS** è un server in affitto, con Docker, in cui sicurezza e aggiornamenti restano a carico vostro. In entrambi i casi le chiavi IA (Claude, OpenAI e altre) sono le vostre: la pagina del Paperclip gestito non elenca crediti IA di Hostinger.",
-        "Al 21/10/2026 il gestito costa **4,99 USD al mese** senza il link di invito e **3,99 USD al mese** con il link, in un piano di 24 mesi. Il rinnovo è a **11,99 USD al mese**."
+        "Paperclip organizza un team di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non esegue l'IA: le chiavi sono vostre. Su Hostinger funziona con il piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedete i capitoli Gestito o VPS su Hostinger e Quanto costa, più sotto."
       ]
     },
     {
       "heading": "Cos'è Paperclip, in parole semplici",
       "paragraphs": [
-        "Pensate a una piccola azienda. C'è un titolare, ci sono i responsabili e i dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. Nella documentazione compaiono cinque idee del progetto."
+        "Paperclip è un programma per organizzare un team di agenti IA: invece di un solo assistente, componete il team con ruoli, obiettivi e un limite di spesa per ciascun agente. Pensate a una piccola azienda. C'è un titolare, ci sono i responsabili e i dipendenti, ognuno con il proprio compito. Paperclip fa lo stesso con agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta in alto delega le attività, e chi sta sotto risponde a lui. Nella documentazione compaiono cinque idee del progetto."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-it.webp",
@@ -89,9 +87,10 @@
     {
       "heading": "Che cosa vi serve",
       "paragraphs": [
-        "Prima di scegliere, controllate questi quattro punti."
+        "Prima di scegliere, controllate questi cinque punti."
       ],
       "bullets": [
+        "**Agenti da coordinare.** Paperclip non esegue un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
         "**Postgres.** È il database in cui Paperclip conserva agenti, attività e registri. Nell'installazione locale è incluso e parte da solo. In produzione il progetto consiglia di collegare un Postgres proprio. Nel gestito il database è incluso. Sul VPS è a vostro carico.",
         "**Chiavi IA vostre.** Una chiave API è la password con cui il programma chiede risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore addebita l'uso direttamente a voi. La pagina del Paperclip gestito dice che collegate “i vostri agenti e le vostre chiavi API”, e non elenca crediti IA inclusi. Senza chiave, il team non risponde.",
         "**Budget mensile per agente.** Fissate il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui si parla ogni tanto. Senza tetto, la spesa è solo quella che il fornitore addebita a fine mese.",

@@ -31,23 +31,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Depende do seu país. A Olive Young Global não entrega no Brasil: a FAQ dela diz que o envio não está disponível para países fora da lista, e o Brasil não aparece na lista nem no seletor de destino (lidos em 21/10/2026).",
-        "Em Portugal, as duas lojas entregam. A YesStyle publica o prazo para o país; a Olive Young publica só a regra de frete, que vale para quase todos os países: grátis a partir de US$ 60 e US$ 25 abaixo disso. Nos outros 22 países do comparativo, a comparação muda de um para outro.",
-        "**O que muda entre as duas:**"
-      ],
-      "bullets": [
-        "**Países:** a YesStyle publica prazo e frete para 23 dos 24 países do comparativo, todos menos o Brasil. A Olive Young Global publica prazo para 10 deles e não atende os EUA, que têm loja americana própria.",
-        "**Frete grátis:** a Olive Young pede US$ 60 na maioria dos países. A YesStyle pede US$ 35 a US$ 45 em boa parte da Europa, na Austrália e em Hong Kong, e US$ 50 ou US$ 60 em outros.",
-        "**Imposto:** a YesStyle já mostra o IVA de Portugal no preço. Na Olive Young, os pedidos para a União Europeia pagam IVA e imposto no checkout desde 31/07/2026; em outros países, a cobrança pode cair na entrega.",
-        "**Devolução:** a Olive Young só aceita devolução por defeito ou erro da loja, em 30 dias. A YesStyle dá 14 dias para pedir o número de devolução."
-      ],
-      "postParagraphs": [
-        "Para ver a oferta de cada loja antes de comprar, use a [página da YesStyle](/cupons/yesstyle)."
+        "Depende do seu país. A Olive Young Global não entrega no Brasil, e a YesStyle não publica prazo nem frete para ele, então quem está aí não tem comparação direta. Onde as duas entregam, pesam o frete grátis, o imposto e a devolução; veja o capítulo Qual escolher, conforme o país."
       ]
     },
     {
       "heading": "Quem entrega no seu país",
       "paragraphs": [
+        "Depende do seu país. A YesStyle publica prazo e frete para 23 dos 24 países do comparativo, todos menos o Brasil. A Olive Young Global publica prazo para 10 deles e não atende os EUA, que têm loja americana própria. Nos outros 22 países, a comparação muda de um para outro.",
         "Cada linha é um país; a última reúne os demais. A coluna da YesStyle vem da tabela de frete publicada em 13/10/2026. A da Olive Young vem da página de envio lida em 21/10/2026. Onde a loja não publica prazo ou frete, a célula diz isso."
       ],
       "comparisonTable": {
@@ -247,6 +237,19 @@
       "paragraphs": [
         "O CECILIA010 é código de recompensa, não cupom. No checkout da YesStyle, ele vai no campo Reward Code. Pela ficha do código aqui do site, conferida em 01/08/2026, ele dá até 5% na primeira compra e 2% nas compras seguintes, e soma com os cupons da própria loja. Os cupons da YesStyle mudam e vencem, então a lista do momento fica na página da loja: [cupons da YesStyle](/cupons/yesstyle).",
         "A Olive Young não tem código nosso neste comparativo, nem cupom. O que ela dá a membro está no programa descrito acima, e pode mudar."
+      ]
+    },
+    {
+      "heading": "Qual escolher, conforme o país",
+      "bullets": [
+        "Mora no Brasil: a Olive Young Global não entrega, e a YesStyle não publica prazo nem frete para o país, embora um pedido nosso de 17/09/2026 tenha sido enviado.",
+        "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
+        "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
+        "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
+        "Pesa o imposto: a YesStyle já mostra o IVA de Portugal no preço, e a Olive Young cobra IVA e imposto de importação no checkout nos pedidos para a União Europeia desde 31/07/2026."
+      ],
+      "postParagraphs": [
+        "Para ver a oferta da YesStyle antes de comprar, use a [página da YesStyle](/cupons/yesstyle)."
       ]
     },
     {

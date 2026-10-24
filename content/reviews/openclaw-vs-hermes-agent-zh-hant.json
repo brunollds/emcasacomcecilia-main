@@ -45,8 +45,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "想要最多的聊天管道、網頁介面（Control UI），以及手機和電腦的原生應用程式，就選 **OpenClaw**。README 寫明支援超過 20 個管道，專案由一個非營利基金會維護。想要一個會隨使用而學習的代理，就選 **Hermes Agent**：它的記憶由代理自己整理，它會自己建立並改進技能，能搜尋過去的對話，並用 Honcho 做使用者建模。Hermes Agent 由 Nous Research 開發。",
-        "如果你不想管伺服器，Hostinger 的託管方案兩者都適用，而且價格相同：有推薦連結時是每月 US$ 3.99，以24個月方案計。軟體在兩種情況下都是免費的，你付的是伺服器與 AI 模型的使用費。"
+        "想要很多聊天管道以及手機和電腦的原生應用程式，就選 OpenClaw；想要會隨使用而學習的代理，就選 Hermes Agent。兩者的軟體都免費，Hostinger 的託管方案也都適用。決定因素是代理要做什麼，請看下面「各適合誰」一章。"
       ]
     },
     {
@@ -139,26 +138,6 @@
       ]
     },
     {
-      "heading": "各適合誰",
-      "paragraphs": [
-        "兩者都是開源的，不收授權費。選擇取決於你要代理做什麼，而不是軟體本身。"
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
-        "alt": "四種使用者的畫像，以及各自的答案：想要很多管道與手機應用程式，選 OpenClaw；想要會學習、自己建立技能的代理，選 Hermes Agent；不想管伺服器，選託管；想要 root 與其他程式，選 VPS",
-        "caption": "依各專案的文件整理，查閱日期為2026年10月21日。"
-      },
-      "bullets": [
-        "**想要很多管道與手機應用程式：** OpenClaw。README 寫明支援超過 20 個管道，並有手機與電腦的原生應用程式，以及網頁版 Control UI。",
-        "**想要一個會隨使用而學習的代理：** Hermes Agent。它自己整理記憶，建立並改進技能，並搜尋過去的對話。",
-        "**想要 root，以及同一台伺服器上的其他程式（例如網站或 n8n）：** VPS，兩者都可以。Root 是管理員權限，能完全控制伺服器。",
-        "**不想安裝也不想管伺服器：** 兩者都選託管。Hostinger 負責安裝與更新。"
-      ],
-      "postParagraphs": [
-        "我們團隊中沒有人使用這兩者。這些畫像來自各專案的文件，不是我們的經驗。"
-      ]
-    },
-    {
       "heading": "安裝之前",
       "paragraphs": [
         "開始之前，請先確認三件事。這三點對兩個代理都適用。"
@@ -183,6 +162,26 @@
       ],
       "postParagraphs": [
         "在託管與 VPS 之間做選擇時，關鍵問題是誰管理你的資料與憑證。關於 OpenClaw 的託管方案，詳見[OpenClaw 在 Hostinger：託管還是 VPS？](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)指南。"
+      ]
+    },
+    {
+      "heading": "各適合誰",
+      "paragraphs": [
+        "兩者都是開源的，不收授權費。選擇取決於你要代理做什麼，而不是軟體本身。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hant.webp",
+        "alt": "四種使用者的畫像，以及各自的答案：想要很多管道與手機應用程式，選 OpenClaw；想要會學習、自己建立技能的代理，選 Hermes Agent；不想管伺服器，選託管；想要 root 與其他程式，選 VPS",
+        "caption": "依各專案的文件整理，查閱日期為2026年10月21日。"
+      },
+      "bullets": [
+        "**想要很多管道與手機應用程式：** OpenClaw。README 寫明支援超過 20 個管道，並有手機與電腦的原生應用程式，以及網頁版 Control UI。",
+        "**想要一個會隨使用而學習的代理：** Hermes Agent。它自己整理記憶，建立並改進技能，並搜尋過去的對話。",
+        "**想要 root，以及同一台伺服器上的其他程式（例如網站或 n8n）：** VPS，兩者都可以。Root 是管理員權限，能完全控制伺服器。",
+        "**不想安裝也不想管伺服器：** 兩者都選託管。Hostinger 負責安裝與更新。"
+      ],
+      "postParagraphs": [
+        "我們團隊中沒有人使用這兩者。這些畫像來自各專案的文件，不是我們的經驗。"
       ]
     },
     {

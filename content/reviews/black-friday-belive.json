@@ -52,17 +52,14 @@
   "contentSections": [
     {
       "heading": "Resposta rápida: Black Friday Belive 2026",
-      "bullets": [
-        "A Black Friday de 2026 é em **27 de novembro**. A Belive não anunciou data nem regra para a campanha.",
-        "A loja tem uma página chamada Black November. Em 16/10/2026, ela era um cadastro para receber ofertas exclusivas, com campos de e-mail e nome, sem banners, percentuais nem datas.",
-        "O maior desconto que conferimos nas oito páginas de produto foi de 20%.",
-        "O cupom **MAUAD** dá 10% em todas as formas de pagamento e soma com as ofertas do site.",
-        "Os preços abaixo são de 16/10/2026. Vamos conferi-los de novo na última semana de outubro."
+      "paragraphs": [
+        "A Black Friday de 2026 é em 27 de novembro, mas a Belive ainda não anunciou data nem regra para a campanha. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site. A tabela de preços de 16/10 é a régua; o capítulo final mostra o que conferir antes de novembro."
       ]
     },
     {
       "heading": "O que a Belive já publicou",
       "paragraphs": [
+        "A Black Friday de 2026 é em 27 de novembro, e a Belive não anunciou data nem regra para a campanha.",
         "A página Black November, em belivebefree.com.br, mostrava em 16/10/2026 o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
       ],
       "image": {
@@ -81,7 +78,7 @@
     {
       "heading": "Preços de referência em 16/10/2026",
       "paragraphs": [
-        "Estes são os preços que a página de cada produto mostrava em 16/10/2026. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+        "Estes são os preços que a página de cada produto mostrava em 16/10/2026. O maior desconto que conferimos nas oito páginas de produto foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
       ],
       "image": {
         "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -231,6 +228,7 @@
     {
       "heading": "Antes de novembro: o que conferir",
       "bullets": [
+        "Vamos conferir os preços de novo na última semana de outubro; até lá, a tabela deste guia é a referência.",
         "Compare o preço da página no dia da compra com a tabela deste guia.",
         "Coloque o MAUAD no carrinho e confira a linha de descontos.",
         "Confira o frete pelo CEP antes de pagar.",

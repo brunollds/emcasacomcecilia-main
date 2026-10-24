@@ -31,16 +31,16 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "bullets": [
-        "**Brasil:** um pedido nosso, feito na YesStyle em 17/09/2026, foi enviado em 19/09/2026 pela transportadora Anjun Express, mesmo com o Brasil fora da tabela de frete da loja. A YesStyle não publica prazo, frete nem frete grátis para o Brasil, e, pela regra da Receita Federal, o imposto é cobrado depois que o pacote chega.",
-        "**Portugal:** envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço."
-      ],
-      "postParagraphs": [
-        "Os números de Portugal vêm da tabela de frete da YesStyle em vigor desde 13 de outubro de 2026 (07:15 GMT), lida no mesmo dia. Os valores estão em dólar, como a loja publica."
+      "paragraphs": [
+        "A YesStyle entrega em Portugal, com prazo e frete publicados, e enviou um pedido nosso ao Brasil, embora o Brasil não conste na tabela de frete da loja. Para o Brasil, a loja não publica prazo nem frete, e o imposto é cobrado depois que o pacote chega. Veja abaixo a tabela e o capítulo do imposto."
       ]
     },
     {
       "heading": "Prazo e frete no Brasil e em Portugal",
+      "paragraphs": [
+        "Para Portugal, a YesStyle publica envio Standard em 10 a 15 dias úteis, frete grátis a partir de US$ 60 (US$ 5 abaixo disso) e o IVA de 23% já no preço, com os valores em dólar, como a loja publica. Para o Brasil, não publica prazo, frete nem frete grátis.",
+        "Um pedido nosso, feito na YesStyle em 17/09/2026, foi enviado em 19/09/2026 pela transportadora Anjun Express. A tabela abaixo vem do frete em vigor desde 13/10/2026 (07:15 GMT), lido no mesmo dia."
+      ],
       "paragraphs": [
         "Ao prazo do envio se soma o tempo para o item sair do armazém, explicado mais abaixo."
       ],

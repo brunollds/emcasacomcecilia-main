@@ -27,18 +27,13 @@
     {
       "heading": "Resposta rápida: o que é o Nutren A-Z Multi",
       "paragraphs": [
-        "O Nutren A-Z Multi é um suplemento alimentar em cápsulas, da Nestlé, com 13 vitaminas e 7 minerais. A dose do rótulo é 1 cápsula por dia, para maiores de 19 anos (adultos). O frasco de 60 cápsulas dura 60 dias nessa dose.",
-        "O rótulo não declara quantidade significativa de valor energético, carboidratos, açúcares, proteínas, gorduras, fibras nem sódio. Declara que não contém glúten e que contém derivados de soja. Na loja oficial da Nestlé Nutre, em 17/10/2026, o frasco de 60 cápsulas estava a R$ 48,92.",
-        "Este guia é feito a partir do rótulo do frasco e da página da loja. Não é um teste de uso."
-      ],
-      "image": "/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
-      "imageAlt": "Frente do frasco do Nutren A-Z Multi de 60 cápsulas, suplemento alimentar em cápsulas da Nestlé Health Science",
-      "imageCaption": "Frente do frasco de 60 cápsulas.",
-      "imageFit": "portrait"
+        "O Nutren A-Z Multi é um suplemento alimentar em cápsulas da Nestlé, com 13 vitaminas e 7 minerais, para adultos acima de 19 anos, na dose de 1 cápsula por dia. O frasco de 60 cápsulas dura 60 dias. O que pesa é o que o rótulo afirma; veja abaixo as três alegações."
+      ]
     },
     {
       "heading": "Para que serve o Nutren A-Z Multi, segundo o rótulo",
       "paragraphs": [
+        "O Nutren A-Z Multi é um suplemento alimentar em cápsulas da Nestlé, com 13 vitaminas e 7 minerais. A dose do rótulo é 1 cápsula por dia, para maiores de 19 anos (adultos). Veja a frente do frasco e, abaixo, o que o rótulo diz que ele faz.",
         "O rótulo traz três alegações, e cada uma vem com os nutrientes que a sustentam:"
       ],
       "bullets": [
@@ -49,10 +44,20 @@
       "postParagraphs": [
         "É só isso que o fabricante afirma no frasco. O produto é um suplemento alimentar, não é medicamento, e este texto não vai além dessas frases."
       ],
-      "image": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
-      "imageAlt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo, as recomendações de uso e o fabricante",
-      "imageCaption": "As três frases do rótulo, cada uma com os nutrientes, e as recomendações de uso.",
-      "imageFit": "portrait"
+      "images": [
+        {
+          "src": "/images/reviews/nutren/nutren-a-z-multi-frente-frasco.webp",
+          "alt": "Frente do frasco do Nutren A-Z Multi de 60 cápsulas, suplemento alimentar em cápsulas da Nestlé Health Science",
+          "caption": "Frente do frasco de 60 cápsulas.",
+          "objectFit": "portrait"
+        },
+        {
+          "src": "/images/reviews/nutren/nutren-a-z-multi-alegacoes-uso.webp",
+          "alt": "Lateral do frasco do Nutren A-Z Multi com as três alegações do rótulo, as recomendações de uso e o fabricante",
+          "caption": "As três frases do rótulo, cada uma com os nutrientes, e as recomendações de uso.",
+          "objectFit": "portrait"
+        }
+      ]
     },
     {
       "heading": "Composição: o que tem em cada cápsula",

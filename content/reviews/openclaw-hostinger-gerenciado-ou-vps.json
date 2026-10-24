@@ -44,8 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Escolha o **gerenciado** se você quer o assistente funcionando sem cuidar de servidor: a Hostinger instala, atualiza e faz os backups. Escolha o **VPS** se você quer acesso root (controle total do servidor) e rodar outros programas na mesma máquina, e aceita atualizar e proteger o sistema.",
-        "Nas duas opções dá para usar os créditos de IA da Hostinger ou a sua própria chave de API. Em 21/10/2026, com a indicação, o gerenciado sai por **R$ 19,99/mês** e o VPS KVM 1 por **R$ 23,99/mês**, em plano de 24 meses. Os dois renovam por **R$ 59,99/mês**."
+        "Escolha o gerenciado se quer o assistente funcionando sem cuidar de servidor, e o VPS se quer acesso root e rodar outros programas na mesma máquina. As duas opções aceitam os créditos de IA da Hostinger ou a sua chave de API. O que pesa é a manutenção que você aceita; veja os preços abaixo."
       ]
     },
     {
@@ -139,22 +138,6 @@
       ]
     },
     {
-      "heading": "Quem deve escolher cada um",
-      "paragraphs": [
-        "**Escolha o gerenciado se:**"
-      ],
-      "bullets": [
-        "você quer o assistente no ar sem instalar nem configurar servidor;",
-        "prefere que a Hostinger cuide das atualizações, dos backups e da segurança;",
-        "não sabe o que é root nem Docker;",
-        "quer o OpenClaw, ou trocar para o Hermes Agent ou o Paperclip no mesmo plano."
-      ],
-      "postParagraphs": [
-        "**Escolha o VPS se:** você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n; sabe mexer em servidor, ou quer aprender, e aceita atualizar e proteger o sistema; ou precisa de mais memória e disco: os planos KVM vão de 4 GB a 32 GB de RAM.",
-        "**Na dúvida, comece pelo gerenciado.** Ele custa menos no primeiro período e não pede conhecimento de servidor."
-      ]
-    },
-    {
       "heading": "Telegram e WhatsApp",
       "paragraphs": [
         "Os dois canais funcionam nas duas opções. A diferença está em onde você configura. No gerenciado, você escolhe os canais no assistente de configuração da Hostinger: no WhatsApp, lê um QR code; no Telegram, cola o token do bot. No VPS, a configuração tem campos opcionais para o número do WhatsApp, com código do país, e para o token do bot do Telegram. A documentação não mostra onde aparece o QR do WhatsApp no VPS.",
@@ -184,6 +167,22 @@
         "**Mais de uma pessoa vai usar o assistente** (família ou equipe): o projeto recomenda um servidor por pessoa. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
         "**O assistente vai ter acesso ao seu e-mail, ao banco ou a outras contas:** o projeto pede que o servidor não tenha contas pessoais logadas. A Hostinger sugere uma caixa de e-mail separada para o assistente.",
         "**No VPS, guarde o token do gateway** que a instalação gera e não o mande em conversa com o assistente."
+      ]
+    },
+    {
+      "heading": "Quem deve escolher cada um",
+      "paragraphs": [
+        "**Escolha o gerenciado se:**"
+      ],
+      "bullets": [
+        "você quer o assistente no ar sem instalar nem configurar servidor;",
+        "prefere que a Hostinger cuide das atualizações, dos backups e da segurança;",
+        "não sabe o que é root nem Docker;",
+        "quer o OpenClaw, ou trocar para o Hermes Agent ou o Paperclip no mesmo plano."
+      ],
+      "postParagraphs": [
+        "**Escolha o VPS se:** você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n; sabe mexer em servidor, ou quer aprender, e aceita atualizar e proteger o sistema; ou precisa de mais memória e disco: os planos KVM vão de 4 GB a 32 GB de RAM.",
+        "**Na dúvida, comece pelo gerenciado.** Ele custa menos no primeiro período e não pede conhecimento de servidor."
       ]
     },
     {

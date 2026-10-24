@@ -45,8 +45,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "想要最多的聊天渠道、网页界面（Control UI），以及手机和电脑的原生应用，就选 **OpenClaw**。README 写明支持超过 20 个渠道，项目由一个非营利基金会维护。想要一个会随使用而学习的代理，就选 **Hermes Agent**：它的记忆由代理自己整理，它会自己创建并改进技能，能搜索过去的对话，并用 Honcho 做用户建模。Hermes Agent 由 Nous Research 开发。",
-        "如果你不想管服务器，Hostinger 的托管方案两者都适用，而且价格相同：有推荐链接时是每月 US$ 3.99，以24个月方案计。软件在两种情况下都是免费的，你付的是服务器与 AI 模型的使用费。"
+        "想要很多聊天渠道以及手机和电脑的原生应用，就选 OpenClaw；想要会随使用而学习的代理，就选 Hermes Agent。两者的软件都免费，Hostinger 的托管方案也都适用。决定因素是代理要做什么，请看下面“各适合谁”一章。"
       ]
     },
     {
@@ -139,26 +138,6 @@
       ]
     },
     {
-      "heading": "各适合谁",
-      "paragraphs": [
-        "两者都是开源的，不收许可费。选择取决于你要代理做什么，而不是软件本身。"
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
-        "alt": "四种用户画像，以及各自的答案：想要很多渠道与手机应用，选 OpenClaw；想要会学习、自己创建技能的代理，选 Hermes Agent；不想管服务器，选托管；想要 root 与其他程序，选 VPS",
-        "caption": "依各项目的文档整理，查阅日期为2026年10月21日。"
-      },
-      "bullets": [
-        "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，以及网页版 Control UI。",
-        "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
-        "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。",
-        "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新。"
-      ],
-      "postParagraphs": [
-        "我们团队中没有人使用这两者。这些画像来自各项目的文档，不是我们的经验。"
-      ]
-    },
-    {
       "heading": "安装之前",
       "paragraphs": [
         "开始之前，请先确认三件事。这三点对两个代理都适用。"
@@ -183,6 +162,26 @@
       ],
       "postParagraphs": [
         "在托管与 VPS 之间做选择时，关键问题是谁管理你的数据与凭证。关于 OpenClaw 的托管方案，详见[OpenClaw 在 Hostinger：托管还是 VPS？](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)指南。"
+      ]
+    },
+    {
+      "heading": "各适合谁",
+      "paragraphs": [
+        "两者都是开源的，不收许可费。选择取决于你要代理做什么，而不是软件本身。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-zh-hans.webp",
+        "alt": "四种用户画像，以及各自的答案：想要很多渠道与手机应用，选 OpenClaw；想要会学习、自己创建技能的代理，选 Hermes Agent；不想管服务器，选托管；想要 root 与其他程序，选 VPS",
+        "caption": "依各项目的文档整理，查阅日期为2026年10月21日。"
+      },
+      "bullets": [
+        "**想要很多渠道与手机应用：** OpenClaw。README 写明支持超过 20 个渠道，并有手机与电脑的原生应用，以及网页版 Control UI。",
+        "**想要一个会随使用而学习的代理：** Hermes Agent。它自己整理记忆，创建并改进技能，并搜索过去的对话。",
+        "**想要 root，以及同一台服务器上的其他程序（例如网站或 n8n）：** VPS，两者都可以。Root 是管理员权限，能完全控制服务器。",
+        "**不想安装也不想管服务器：** 两者都选托管。Hostinger 负责安装与更新。"
+      ],
+      "postParagraphs": [
+        "我们团队中没有人使用这两者。这些画像来自各项目的文档，不是我们的经验。"
       ]
     },
     {

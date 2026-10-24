@@ -44,14 +44,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Se o modelo de IA fica no provedor, ou seja, você usa a sua chave de API ou os créditos de IA da Hostinger, o pedido vai para a empresa de IA e o modelo não roda no seu servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Nesse caso, a documentação não dá número de memória, e o servidor só roda o programa. Por isso o KVM 1, com 4 GB de RAM, é o ponto de partida. É a nossa leitura da documentação, não uma medição.",
-        "Com modelo local, que roda no próprio servidor, a conta muda. A documentação dá um piso de 8 GiB de memória (cerca de 8,6 GB) para a menor receita local dela, com contexto de 64K. O KVM 2, com 8 GB, fica no limite. O KVM 4, com 16 GB, é o primeiro com folga.",
-        "Quem não quer cuidar de servidor deve olhar o [gerenciado](/reviews/openclaw-hostinger-gerenciado-ou-vps). Com a indicação, ele sai por R$ 19,99/mês, contra R$ 23,99 do KVM 1, no primeiro período de 24 meses, e a Hostinger instala e atualiza o assistente."
+        "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a documentação pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. Quem não quer cuidar de servidor deve ver o gerenciado, abaixo."
       ]
     },
     {
       "heading": "O que a documentação oficial diz (e não diz) sobre requisitos",
       "paragraphs": [
+        "O OpenClaw pode usar um modelo de IA que fica no provedor, pela sua chave de API ou pelos créditos de IA da Hostinger, ou um modelo local, que roda no próprio servidor. Chave de API é a senha que o OpenClaw usa para pedir respostas a um provedor, que cobra pelo uso. Com o modelo no provedor, o pedido vai para a empresa de IA e o servidor só roda o programa.",
         "As páginas oficiais de instalação e de modelos locais, lidas em 21/10/2026, dizem o seguinte:"
       ],
       "bullets": [
@@ -101,7 +100,7 @@
     {
       "heading": "Qual plano KVM escolher",
       "paragraphs": [
-        "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com a indicação já tem os 20%. Leia cada plano diante da documentação:"
+        "KVM é o nome dos planos de servidor virtual da Hostinger. A tabela traz os quatro, com preços de planos de 24 meses lidos em 21/10/2026, e o preço com a indicação já tem os 20%. Leia cada plano diante da documentação; é a nossa leitura dela, não uma medição:"
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
@@ -207,7 +206,8 @@
         ]
       },
       "postParagraphs": [
-        "No VPS, a Hostinger instala o OpenClaw com Docker, um programa que roda cada aplicativo isolado num contêiner. Daí em diante, a manutenção é sua."
+        "No VPS, a Hostinger instala o OpenClaw com Docker, um programa que roda cada aplicativo isolado num contêiner. Daí em diante, a manutenção é sua.",
+        "Quem não quer cuidar de servidor deve olhar o [gerenciado](/reviews/openclaw-hostinger-gerenciado-ou-vps), em que a Hostinger instala e atualiza o assistente."
       ]
     },
     {
@@ -223,6 +223,18 @@
       ],
       "postParagraphs": [
         "A regra que pesa: a Oracle diz que pode recuperar uma instância ociosa. Ela é considerada ociosa quando, em um período de 7 dias, o uso de CPU no percentil 95 fica abaixo de 20%, o uso de rede fica abaixo de 20% e, nas A1, o uso de memória também fica abaixo de 20%. Um assistente que fica parado a maior parte do tempo pode cair nessa regra. A documentação não descreve aviso prévio antes da recuperação."
+      ]
+    },
+    {
+      "heading": "Qual escolher, em resumo",
+      "paragraphs": [
+        "A escolha do plano segue o lugar onde o modelo de IA roda e quanto trabalho de servidor você quer ter."
+      ],
+      "bullets": [
+        "Modelo na nuvem, pela chave de API ou pelos créditos da Hostinger: KVM 1, com 4 GB, como ponto de partida.",
+        "Modelo local: KVM 4, com 16 GB, o primeiro plano com folga acima do piso oficial de 8 GiB. O KVM 8, com 32 GB, só faz sentido com um modelo local maior.",
+        "Sem querer cuidar de servidor: o gerenciado, em que a Hostinger instala e atualiza o assistente.",
+        "Para testar sem pagar: a Oracle Always Free, sabendo que a Oracle pode recuperar uma instância ociosa."
       ]
     },
     {
