@@ -3,7 +3,7 @@
   "slug": "hostinger-trustpilot-bewertungen",
   "locale": "de",
   "translationKey": "hostinger-reputation",
-  "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen",
+  "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen",
   "seoTitle": "Hostinger auf Trustpilot: Bewertung und Beschwerden",
   "type": "Reputationsanalyse",
   "category": "confianca-reputacao",
@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Redaktion und Analyse",
       "initials": "BL"
     }
   ],
-  "description": "Die Trustpilot-Bewertung von Hostinger im Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Profil der Firma zeigt, der Kontext von Reclame Aqui in Brasilien und wie man die automatische Verlängerung abschaltet.",
-  "metaDescription": "Hostinger auf Trustpilot am 19. Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Firmenprofil zeigt und wie man die automatische Verlängerung abschaltet.",
+  "description": "Die Trustpilot-Bewertung von Hostinger im Oktober 2026: TrustScore 4,6 aus 73.411 Bewertungen, wie Einladungen die Zahl prägen, was 200 aktuelle Ein- und Fünf-Sterne-Bewertungen sagen und wie man die automatische Verlängerung abschaltet.",
+  "metaDescription": "Hostinger auf Trustpilot am 24. Oktober 2026: TrustScore 4,6 aus 73.411 Bewertungen, worüber sich 200 aktuelle Bewertungen beschweren und wie man die automatische Verlängerung abschaltet.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,52 +45,161 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Eher ja, mit einem Vorbehalt. Am 19. Oktober 2026 hatte Hostinger auf Trustpilot 4,6 („Hervorragend“), doch das Profil verwaltet die Firma selbst und lädt Kunden zu Bewertungen ein, was den Schnitt hebt. Auf Reclame Aqui in Brasilien ist die Reputation sehr gut, und unberechtigte Abbuchungen sind das meistgenannte Problem. Unten steht, wie Sie die automatische Verlängerung abschalten."
+        "Eher ja, mit Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen, aber die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt. Die Beschwerden drehen sich vor allem um KI-Support, Abrechnung, Verlängerung und Domains. Das Kapitel Drei Lesarten, die die Rechnung ändern, zeigt den Effekt."
       ]
     },
     {
-      "heading": "Trustpilot: die Bewertung und was die Seite zeigt",
+      "heading": "Was die Bewertung sagt und was nicht",
       "paragraphs": [
-        "Trustpilot ist eine internationale Bewertungsplattform. Das Profil von Hostinger zeigt fünf Sterne mit 87,1 %, vier mit 4,3 %, drei mit 0,9 %, zwei mit 0,8 % und einen Stern mit 6,9 %, also rund 5.000 Bewertungen. Bevor Sie diese Zahl verwenden, sehen Sie sich an, was die Seite selbst zeigt:"
+        "Trustpilot ist eine internationale Bewertungsplattform, und eine 4,6 ist der Ausgangspunkt. Doch die Bewertung fasst viel zusammen, und die Profilseite selbst zeigt, wie sie entstanden ist. Die Tabelle fasst zusammen, was die Seite am 24. Oktober 2026 anzeigte."
       ],
-      "bullets": [
-        "Das Profil ist seit Mai 2017 beansprucht, das heißt, das Unternehmen verwaltet die Seite.",
-        "Das Unternehmen hat ein kostenpflichtiges Trustpilot-Abo.",
-        "Die Seite sagt, dass Hostinger Kunden zu Bewertungen einlädt, positiven wie negativen. Eine breite Einladung drückt den Durchschnitt nach oben und zeigt nicht, wer ausgelassen wurde.",
-        "Das Unternehmen antwortet auf 98 % der negativen Bewertungen, meist innerhalb von 24 Stunden, und kann KI für die Antworten nutzen.",
-        "Trustpilot selbst sagt, dass es die Bewertungen nicht einzeln prüft."
-      ],
+      "comparisonTable": {
+        "headers": [
+          "Indikator",
+          "Hostinger-Profil auf Trustpilot, 24. Oktober 2026"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "4,6 von 5, von der Seite als „Hervorragend“ bezeichnet"
+          ],
+          [
+            "Bewertungen",
+            "73.411"
+          ],
+          [
+            "Fünf Sterne",
+            "63.962 (87,1 %)"
+          ],
+          [
+            "Vier Sterne",
+            "3.143 (4,3 %)"
+          ],
+          [
+            "Drei Sterne",
+            "650 (0,9 %)"
+          ],
+          [
+            "Zwei Sterne",
+            "558 (0,8 %)"
+          ],
+          [
+            "Ein Stern",
+            "5.098 (6,9 %)"
+          ],
+          [
+            "Profil beansprucht",
+            "Ja, seit Mai 2017: Das Unternehmen verwaltet die Seite"
+          ],
+          [
+            "Kostenpflichtiges Trustpilot-Abo",
+            "Ja"
+          ],
+          [
+            "Lädt Kunden zu Bewertungen ein",
+            "Ja, für positive und negative Erfahrungen"
+          ],
+          [
+            "Antwort auf negative Bewertungen",
+            "99 %, meist innerhalb von 24 Stunden"
+          ],
+          [
+            "KI in den Antworten",
+            "Die Seite sagt, dass das Unternehmen KI für Antworten nutzen kann"
+          ],
+          [
+            "Prüfung der Bewertungen",
+            "Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft"
+          ]
+        ]
+      },
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
           "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 73.316 Bewertungen, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
-          "caption": "Hostinger-Profil auf Trustpilot am 19. Oktober 2026. Bild: Screenshot von Bruno.",
+          "caption": "Hostinger-Profil auf Trustpilot am 19. Oktober 2026. Bis zum 24. Oktober war die Gesamtzahl von 73.316 auf 73.411 Bewertungen gestiegen, bei gleicher Bewertung. Bild: Screenshot von Bruno.",
           "objectFit": "contain",
           "aspectRatio": 3.7969
         },
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
           "alt": "Bewertungsbalken von Hostinger auf Trustpilot, von fünf bis ein Stern, mit den Prozentangaben",
-          "caption": "Verteilung der Hostinger-Bewertungen auf Trustpilot, abgelesen am 19. Oktober 2026.",
+          "caption": "Verteilung der Hostinger-Bewertungen auf Trustpilot, abgelesen am 19. Oktober 2026. Die Prozentwerte waren am 24. Oktober dieselben.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       ],
       "postParagraphs": [
-        "Den Text der Einsternbewertungen haben wir nicht gelesen, dieser Text sagt also nicht, worüber sie sich beschweren. Reclame Aqui zeigt Beschwerde und Antwort; Trustpilot zeigt, was Menschen insgesamt denken. Zusammen sind sie aussagekräftiger als jede Quelle allein."
+        "Zwischen unseren beiden Ablesungen haben sich zwei Dinge geändert: Die Gesamtzahl wuchs in fünf Tagen um 95 Bewertungen, und die Antwortquote auf negative Bewertungen stieg von 98 % auf 99 %. Die Prozentwerte pro Stern haben sich nicht bewegt.",
+        "Die Seite zeigt auch die Sprache der Bewertungen: Am 24. Oktober waren 44.546 auf Englisch, 8.744 auf Spanisch, 8.606 auf Portugiesisch und 3.340 auf Französisch. Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
+        "Was die Tabelle nicht zeigt, ist, wer eine Einladung bekommt und wer von sich aus schreibt. Dort beginnt das nächste Kapitel."
       ]
     },
     {
-      "heading": "Reclame Aqui: der Kontext aus Brasilien",
+      "heading": "Drei Lesarten, die die Rechnung ändern",
       "paragraphs": [
-        "Reclame Aqui ist eine öffentliche Beschwerdeplattform in Brasilien. Am 30. September 2026 hatte Hostinger dort eine sehr gute Reputation, mit 8,6 in den letzten 6 Monaten und 8,4 in den letzten 12 Monaten. Das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst. Das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) waren **unberechtigte Abbuchungen**, mit 21,72 %. Die Seite sagt nicht, wie viele dieser Abbuchungen Verlängerungen betreffen; die Verbindung zur automatischen Verlängerung ist also unsere Lesart und keine Zahl der Seite."
+        "Um zu sehen, was hinter der 4,6 steckt, haben wir am 24. Oktober 2026 die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen gelesen, in allen Sprachen. Trustpilot kennzeichnet jede Bewertung als „eingeladen“, wenn die Firma die Anfrage geschickt hat, oder als spontan, wenn die Person von selbst kam. Die Tabelle vergleicht die beiden Gruppen."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Unsere Stichprobe, 24. Oktober 2026",
+          "100 neueste Fünf-Stern-Bewertungen",
+          "100 neueste Ein-Stern-Bewertungen"
+        ],
+        "rows": [
+          [
+            "Erfasster Zeitraum",
+            "19. bis 24. Oktober 2026 (etwa 5 Tage)",
+            "6. bis 24. Oktober 2026 (etwa 18 Tage)"
+          ],
+          [
+            "Von der Firma eingeladen",
+            "78",
+            "8"
+          ],
+          [
+            "Spontan (nicht eingeladen)",
+            "22",
+            "92"
+          ],
+          [
+            "Durchschnittliche Textlänge",
+            "150 Zeichen",
+            "568 Zeichen"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Unsere Lesart: Die Einladung hebt den Schnitt. Die Bewertung misst die Kunden, die eingeladen wurden und geantwortet haben, nicht alle Kunden.",
+        "Zweitens sind Ein-Stern-Bewertungen fast viermal so lang. Sie beschreiben ein konkretes Problem, mit Daten, Produkten und Beträgen. Fünf-Sterne-Bewertungen bestehen meist aus einem Satz.",
+        "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 6,9 % von 73.411 immer noch etwa 5.100 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
       ]
     },
     {
-      "heading": "Warum unberechtigte Abbuchungen beim Hosting ins Gewicht fallen",
+      "heading": "Worüber sich die Leute beschweren",
       "paragraphs": [
-        "Ist die automatische Verlängerung aktiv, wird das Produkt vor Ablauf verlängert und auf das hinterlegte Zahlungsmittel abgebucht. Das Hilfecenter von Hostinger sagt das und erklärt auch, dass sich die Option jederzeit abschalten lässt, ohne den Dienst vor dem Ablaufdatum zu beeinträchtigen.",
-        "Das Abschalten hat aber ein Risiko: Ohne einen anderen Tarif, der bereitsteht, kann die Seite am Ablaufdatum offline gehen. Deshalb empfiehlt das Hilfecenter selbst, die Verlängerung für alle aktiv zu lassen, die weitermachen wollen.",
+        "Nach Abzug der 14 falsch bewerteten Lobe blieben unter den 100 neuesten Ein-Stern-Bewertungen 86 echte Beschwerden übrig. Wir haben Titel und Auszüge gelesen und jede Beschwerde nach Thema eingeordnet; eine Beschwerde kann mehrere Themen haben, die Zählungen sind daher ungefähr. Das sind die Themen, von den meistgenannten zu den seltensten:"
+      ],
+      "bullets": [
+        "**KI-Support und keine Verbindung zu einem Menschen:** etwa 45 von 86. Ein Teil betrifft die KI-Werkzeuge des Website-Baukastens und nicht den Support.",
+        "**Abrechnung, Verlängerung, Erstattungen und Gebühren:** etwa 38. Dazu gehören die Preiserhöhung nach dem Aktionszeitraum, eine nicht erwartete automatische Verlängerung und die Gebühr für die Wiederherstellung einer abgelaufenen Domain (76 Euro in einer Bewertung, 150 in einer anderen).",
+        "**Domains:** etwa 27, mit Sperrung, Übertragung, Registrierung und Wiederherstellung.",
+        "**E-Mail ausgefallen oder nicht erreichbar:** etwa 19.",
+        "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, das 27 Stunden stillstand.",
+        "**Konto oder Dienst ohne klare Erklärung gesperrt:** etwa 16, einige nach einer Rückbuchung.",
+        "**VPS mit CPU-Drosselung:** mindestens 4."
+      ],
+      "postParagraphs": [
+        "Die häufigsten Länder unter den 100 Ein-Stern-Bewertungen waren die Vereinigten Staaten (18), Indien (14), Frankreich (8), das Vereinigte Königreich (6) und die Niederlande (6).",
+        "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das deckt sich mit dem, was wir in der Stichprobe fanden.",
+        "Das erste Thema verdient einen Hinweis. In den Titeln, die wir gelesen haben, wiederholt sich nicht eine falsche Antwort, sondern das Nicht-Durchkommen vom KI-Agenten zu einem Menschen. Unsere Lesart: Für einen Kunden mit ausgefallener Seite ist diese Wartezeit das Problem."
+      ]
+    },
+    {
+      "heading": "Warum Beschwerden über Abrechnung und Verlängerung beim Hosting ins Gewicht fallen",
+      "paragraphs": [
+        "Abrechnung und Verlängerung waren das zweite Thema unserer Stichprobe, etwa 38 von 86 Beschwerden. Beim Hosting hat ein Teil davon einen bekannten Mechanismus. Ist die automatische Verlängerung aktiv, wird das Produkt vor dem Ablauf verlängert und auf das hinterlegte Zahlungsmittel abgebucht. Das Hilfecenter von Hostinger sagt das und erklärt auch, dass sich die Option jederzeit abschalten lässt, ohne den Dienst vor dem Ablaufdatum zu beeinträchtigen.",
+        "Das Abschalten hat aber ein Risiko: Ohne einen bereitstehenden anderen Tarif kann die Seite am Ablaufdatum offline gehen. Deshalb empfiehlt das Hilfecenter selbst, die Verlängerung für alle aktiv zu lassen, die weitermachen wollen.",
         "Die Regeln zum Verlängerungspreis und dazu, was sich nicht kombinieren lässt, stehen im [Artikel über den Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode). Hier geht es um etwas anderes: zu wissen, wo die Option liegt und wie man sie abschaltet."
       ]
     },
@@ -113,7 +222,8 @@
     {
       "heading": "Was Hostinger antwortet",
       "paragraphs": [
-        "Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Die Screenshots zeigen die Antwortquote, nicht den Text der Antworten. Dieser Text sagt daher nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen. Bei Reclame Aqui liegt die Quote bei 99,3 % in 6 Monaten, mit 10 Beschwerden, die auf eine Antwort warten."
+        "Auf Trustpilot sagt das Unternehmen, dass es auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort; die sechs ohne Antwort waren alle in den 24 Stunden davor veröffentlicht worden. Die Seite warnt außerdem, dass das Unternehmen KI für Antworten nutzen kann.",
+        "Wir haben die Antworten gezählt und nicht bewertet, daher sagt dieser Text nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen und zur fehlenden Erreichbarkeit einer Person."
       ]
     },
     {
@@ -121,24 +231,31 @@
       "paragraphs": [
         "Bruno, der diesen Text ebenfalls unterzeichnet, ist seit 2024 Kunde bei Hostinger, mit mehr als 24 Monaten Laufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Die Seite Em Casa com Cecília läuft auf Hostinger.",
         "Jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent, und er hat nie einen Ausfall erlebt.",
-        "Das ist sein Konto, mit seiner Nutzung. Es sagt nichts über Leute, die unerwartet abgebucht wurden, und die Beschwerden bei Reclame Aqui gelten weiterhin."
+        "Das ist sein Konto, mit seiner Nutzung, und es braucht ein ehrliches Gegengewicht: Der KI-Support, der seine Probleme gelöst hat, ist das Thema, das in den Beschwerden, die wir gelesen haben, am häufigsten vorkommt, etwa 45 von 86, auch wenn ein Teil davon die KI-Werkzeuge des Website-Baukastens betrifft. Sein Fall sagt nichts über jemanden aus, der nicht am Agenten vorbeikam, oder über jemanden, der unerwartet abgebucht wurde."
+      ]
+    },
+    {
+      "heading": "Eine zweite Quelle: Reclame Aqui in Brasilien",
+      "paragraphs": [
+        "Reclame Aqui ist Brasiliens öffentliche Beschwerdeplattform, auf der jede Beschwerde und die Antwort des Unternehmens veröffentlicht werden und der Kunde angibt, ob das Problem gelöst wurde. Am 19. Oktober 2026 zeigte das Profil von Hostinger dort die höchste Stufe der Seite („Sehr gut“), mit einer Bewertung von 8,6 in den letzten 6 Monaten und 8,4 in den letzten 12 Monaten; 99,3 % der 1.352 Beschwerden aus diesen 6 Monaten waren beantwortet und 88,6 % als gelöst markiert. Das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) waren unberechtigte Abbuchungen, mit 21,72 %. Das deckt sich mit dem Thema Abrechnung und Verlängerung der Trustpilot-Stichprobe."
       ]
     },
     {
       "heading": "Kann man Hostinger vertrauen?",
       "paragraphs": [
-        "Nach den Zahlen ja. Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) mit 73.316 Bewertungen. Auf Reclame Aqui war die Reputation am 30. September 2026 sehr gut (8,6 in 6 Monaten und 8,4 in 12), und das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst.",
-        "Die Vorbehalte betreffen, wer die Seite verwaltet und worüber sich die Leute beschweren. Das Trustpilot-Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt, und unberechtigte Abbuchungen führen das Problem-Ranking von Reclame Aqui mit 21,72 % an. Beim Hosting bucht die automatische Verlängerung vor Ablauf von selbst ab, und der Zusammenhang ist unsere Lesart.",
-        "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und öffnen Sie vor dem Kauf beide Profile, denn die Zahlen ändern sich jeden Monat."
+        "Nach Trustpilot ja. Am 24. Oktober 2026 lag die Bewertung bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen, und das Unternehmen antwortete auf 99 % der negativen, also auf 80 der 86 Beschwerden unserer Stichprobe.",
+        "Die Vorbehalte betreffen, wie die Bewertung entsteht und was die Beschwerden sagen. Das Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt: In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Die Beschwerden drehen sich um KI-Support ohne Weg zu einer Person, um Abrechnung und Verlängerung sowie um Domains. Reclame Aqui bestätigt in Brasilien das Thema Abrechnung, mit unberechtigten Abbuchungen an der Spitze des Rankings.",
+        "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und lesen Sie vor dem Kauf einige Ein-Stern-Bewertungen und die Antworten im Profil, denn die Zahlen ändern sich jeden Monat."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Hat Hostinger gute Bewertungen? Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) aus 73.316 Bewertungen. Das Profil verwaltet die Firma selbst, lesen Sie also die Details, bevor Sie entscheiden.",
-        "Gibt es Beschwerden über Hostinger? Ja. Bei Reclame Aqui war das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) die unberechtigte Abbuchung, mit 21,72 %.",
-        "Antwortet Hostinger auf Beschwerden? Ja. Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Bei Reclame Aqui wurden 99,3 % der Beschwerden der letzten 6 Monate beantwortet.",
-        "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie die drei Punkte beim Produkt, wählen Sie die Verlängerungseinstellungen und deaktivieren Sie die Option. Das Produkt bleibt bis zum Ablauf aktiv."
+        "Wie hoch ist die Trustpilot-Bewertung von Hostinger? Am 24. Oktober 2026 lag der TrustScore bei 4,6 von 5, aus 73.411 Bewertungen, mit 87,1 % Fünf-Sterne- und 6,9 % Ein-Stern-Bewertungen.",
+        "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
+        "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
+        "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
+        "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv."
       ]
     },
     {
@@ -150,7 +267,7 @@
     {
       "heading": "Transparenzhinweis",
       "paragraphs": [
-        "Die Trustpilot-Zahlen wurden am 19. Oktober 2026 auf der Profilseite abgelesen. Die Zahlen von Reclame Aqui stammen aus Screenshots desselben Tages: die Reiter für 6 und 12 Monate und das Problemranking (allgemeiner Reiter, letzte 3 Jahre). Der Text des Hilfecenters wurde ebenfalls an diesem Datum gelesen. Diese Zahlen ändern sich jeden Monat, prüfen Sie sie also vor der Entscheidung.",
+        "Die Trustpilot-Zahlen wurden am 19. und 24. Oktober 2026 auf der Profilseite abgelesen; die Screenshots stammen vom 19. Die Stichprobe von 200 Bewertungen (die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen) wurde am 24. Oktober 2026 gelesen, und die Zählungen nach Thema sind unsere Lesart von Titeln und Auszügen, also ungefähr. Die Zahlen von Reclame Aqui stammen aus Screenshots vom 19. Oktober 2026, mit Daten bis zum 30. September 2026. Der Text des Hilfecenters wurde am 19. Oktober 2026 gelesen. Diese Zahlen ändern sich jeden Monat, prüfen Sie sie also vor der Entscheidung.",
         "Dies ist ein Empfehlungslink: Ein Kauf darüber kann Bruno ein Guthaben bei Hostinger einbringen. Es gibt keine Markenpartnerschaft, und das Guthaben fließt nicht in diese Analyse ein."
       ]
     }

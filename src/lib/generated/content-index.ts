@@ -93873,14 +93873,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura de 19/10/2026, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.316 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5 mil avaliações.",
+          "O Reclame Aqui é só brasileiro. O Trustpilot é um site internacional de avaliações, e na leitura de 24/10/2026, a Hostinger tinha TrustScore 4,6 (\"Excelente\") com 73.411 avaliações. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
           "Antes de usar esse número, veja o que a própria página mostra:"
         ],
         "bullets": [
           "O perfil é reivindicado desde maio de 2017, ou seja, a empresa administra a página.",
           "A empresa tem assinatura paga do Trustpilot.",
           "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Um convite amplo puxa a média para cima e não mostra quem ficou de fora.",
-          "A empresa responde 98% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
+          "A empresa responde 99% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
           "O próprio Trustpilot diz que não checa as avaliações uma a uma."
         ],
         "images": [
@@ -93900,7 +93900,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Não lemos o texto das avaliações de uma estrela, então este texto não diz o que elas reclamam. O Reclame Aqui mostra a queixa e a resposta; o Trustpilot mostra o que as pessoas acham no geral. Os dois juntos são melhores que cada um sozinho."
+          "Em 24/10/2026, lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
         ]
       },
       {
@@ -93943,7 +93943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "Os números do Reclame Aqui são dos prints feitos em 19/10/2026: as abas de 6 e 12 meses e o ranking de problemas (aba geral, até 3 anos). O Trustpilot e a central de ajuda da Hostinger foram lidos na mesma data. Esses números mudam todo mês, então confira antes de decidir.",
+          "Os números do Reclame Aqui são dos prints feitos em 19/10/2026: as abas de 6 e 12 meses e o ranking de problemas (aba geral, até 3 anos). O Trustpilot foi lido em 19/10 e em 24/10/2026, quando também lemos a amostra de 200 avaliações, e a central de ajuda da Hostinger, em 19/10/2026. Esses números mudam todo mês, então confira antes de decidir.",
           "Este link é de indicação: a compra pode gerar crédito na Hostinger para o Bruno. Não há parceria de marca, e o crédito não entra na análise."
         ]
       }
@@ -93978,8 +93978,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-reviews",
     "locale": "en",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger on Trustpilot: score, complaints and what the numbers show",
-    "seoTitle": "Hostinger on Trustpilot: score and complaints",
+    "title": "Hostinger on Trustpilot: the score, the complaints and what 200 reviews show",
+    "seoTitle": "Hostinger Trustpilot reviews: score and complaints",
     "type": "Reputation Analysis",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -94005,8 +94005,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger’s Trustpilot score in October 2026: a TrustScore of 4.6 from 73,316 reviews, what the company’s profile shows, the Reclame Aqui context in Brazil, and how to turn off automatic renewal.",
-    "metaDescription": "Hostinger on Trustpilot on October 19, 2026: TrustScore 4.6 from 73,316 reviews, what the company’s profile shows, and how to turn off automatic renewal.",
+    "description": "Hostinger’s Trustpilot score in October 2026: a TrustScore of 4.6 from 73,411 reviews, how invited reviews shape it, what the 200 most recent one-star and five-star reviews say, and how to turn off automatic renewal.",
+    "metaDescription": "Hostinger on Trustpilot on October 24, 2026: TrustScore 4.6 from 73,411 reviews, what 200 recent reviews complain about and praise, and how to turn off automatic renewal.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94020,51 +94020,160 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Mostly yes, with a caveat. On October 19, 2026, Hostinger scored 4.6 (“Excellent”) on Trustpilot, but the company runs the profile and invites customers to review, which pushes the average up. On Reclame Aqui, in Brazil, the reputation is top-tier, and improper charges are the most cited problem. See below how to turn off automatic renewal."
+          "Mostly yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews, but the company invites customers to review, which pushes the average up, and the complaints center on AI support, billing and renewal, and domains. The chapter Three readings that change the math shows what the invitations do to the score."
         ]
       },
       {
-        "heading": "Trustpilot: the score and what the page shows",
+        "heading": "What the score says and what it does not",
         "paragraphs": [
-          "Trustpilot is an international review site. Hostinger’s profile shows five stars at 87.1%, four at 4.3%, three at 0.9%, two at 0.8% and one star at 6.9%, about 5,000 reviews. Before using that number, check what the page itself shows:"
+          "Trustpilot is an international review site, and a 4.6 is the starting point. But the score sums up a lot, and the profile page itself tells you how it was built. The table gathers what the page showed on October 24, 2026."
         ],
-        "bullets": [
-          "The profile has been claimed since May 2017, which means the company manages the page.",
-          "The company has a paid Trustpilot subscription.",
-          "The page says Hostinger invites customers to review, both positive and negative experiences. A broad invitation pushes the average up and does not show who was left out.",
-          "The company responds to 98% of negative reviews, usually within 24 hours, and may use AI in its replies.",
-          "Trustpilot itself says it does not check reviews one by one."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicator",
+            "Hostinger’s Trustpilot profile, October 24, 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.6 out of 5, labeled “Excellent” by the site"
+            ],
+            [
+              "Reviews",
+              "73,411"
+            ],
+            [
+              "Five stars",
+              "63,962 (87.1%)"
+            ],
+            [
+              "Four stars",
+              "3,143 (4.3%)"
+            ],
+            [
+              "Three stars",
+              "650 (0.9%)"
+            ],
+            [
+              "Two stars",
+              "558 (0.8%)"
+            ],
+            [
+              "One star",
+              "5,098 (6.9%)"
+            ],
+            [
+              "Profile claimed",
+              "Yes, since May 2017: the company manages the page"
+            ],
+            [
+              "Paid Trustpilot subscription",
+              "Yes"
+            ],
+            [
+              "Invites customers to review",
+              "Yes, for positive and negative experiences"
+            ],
+            [
+              "Replies to negative reviews",
+              "99%, usually within 24 hours"
+            ],
+            [
+              "AI in the replies",
+              "The page says the company may use AI in its responses"
+            ],
+            [
+              "Review checking",
+              "Trustpilot says it does not check reviews one by one"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
             "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, 73,316 reviews, a claimed profile, a paid subscription and the notice that the company invites customers to review",
-            "caption": "Hostinger’s Trustpilot profile on October 19, 2026. Image: Bruno’s screenshot.",
+            "caption": "Hostinger’s Trustpilot profile on October 19, 2026. By October 24 the total had gone from 73,316 to 73,411 reviews, with the same score. Image: Bruno’s screenshot.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Trustpilot rating bars for Hostinger, from five stars to one, with the percentages",
-            "caption": "Distribution of Hostinger’s Trustpilot reviews, read on October 19, 2026.",
+            "caption": "Distribution of Hostinger’s Trustpilot reviews, screenshot of October 19, 2026. The percentages were the same on October 24.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "We did not read the text of the one-star reviews, so this text does not say what they complain about. Reclame Aqui shows the complaint and the reply; Trustpilot shows what people think overall. Together they are better than either one alone."
+          "Two things changed between our two readings: the total grew by 95 reviews in five days, and the response rate to negative reviews went from 98% to 99%. The percentages per star did not move.",
+          "The page also shows the language of the reviews: on October 24, 44,546 were in English, 8,744 in Spanish, 8,606 in Portuguese and 3,340 in French. So the score is global, not the opinion of one market.",
+          "What the table does not show is who gets invited and who writes on their own. That is where the next chapter starts."
         ]
       },
       {
-        "heading": "What Reclame Aqui shows in Brazil",
+        "heading": "Three readings that change the math",
         "paragraphs": [
-          "Reclame Aqui is a public complaints site in Brazil. On September 30, 2026, Hostinger was in the site’s top tier there (“Great”), with a score of 8.6 over the last 6 months and 8.4 over 12 months. The company answered 99.3% of the 1,352 complaints from those 6 months and marked 88.6% as resolved. The most cited problem in the general ranking (last 3 years) was **improper charges**, at 21.72%. The site does not say how many of those charges were renewals, so the link to automatic renewal is our reading, not a figure from the site."
+          "To see what sits behind the 4.6, on October 24, 2026 we read the 100 most recent one-star reviews and the 100 most recent five-star reviews, in all languages. Trustpilot labels each review as “Invited”, when the company sent the request, or as organic, when the person came on their own. The table compares the two groups."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Our sample, October 24, 2026",
+            "100 most recent five-star reviews",
+            "100 most recent one-star reviews"
+          ],
+          "rows": [
+            [
+              "Period covered",
+              "October 19 to 24, 2026 (about 5 days)",
+              "October 6 to 24, 2026 (about 18 days)"
+            ],
+            [
+              "Invited by the company",
+              "78",
+              "8"
+            ],
+            [
+              "Organic (not invited)",
+              "22",
+              "92"
+            ],
+            [
+              "Average text length",
+              "150 characters",
+              "568 characters"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. Our reading: the invitation pushes the average up. The score measures the customers who were invited and answered, not all customers.",
+          "Second, one-star reviews are almost four times longer. They describe a concrete problem, with dates, products and amounts. Five-star reviews are usually one sentence.",
+          "Third, one in seven one-star reviews in our sample is praise given with the wrong rating: 14 of the 100 have positive text, such as “Great hosting” or “easy to use”, under one star. Even so, 6.9% of 73,411 is still about 5,100 people who were very unhappy. The share is small; the number of people is not."
         ]
       },
       {
-        "heading": "Why improper charges weigh on hosting",
+        "heading": "What people complain about",
         "paragraphs": [
-          "When automatic renewal is on, the product renews before it expires and is charged to the payment method on file. Hostinger’s help center says so, and also says the option can be turned off at any time, without affecting the service until the expiry date.",
+          "After setting aside the 14 misrated praises, 86 real complaints were left among the 100 most recent one-star reviews. We read the titles and excerpts and tagged each complaint by theme, and one complaint can carry more than one theme, so the counts are approximate. These are the themes, from the most to the least cited:"
+        ],
+        "bullets": [
+          "**AI support and not reaching a person:** about 45 of 86. Part of these are about the AI tools of the website builder, not about support.",
+          "**Billing, renewal, refunds and fees:** about 38. This includes the price going up after the promotional period, an automatic renewal the customer did not expect, and the fee to recover an expired domain (76 euros in one review, 150 in another).",
+          "**Domains:** about 27, covering suspension, transfer, registration and recovery.",
+          "**Email down or unreachable:** about 19.",
+          "**Site or VPS down, or maintenance without notice:** about 18, including a production VPS stopped for 27 hours.",
+          "**Account or service suspended without a clear explanation:** about 16, some of them after a chargeback.",
+          "**VPS with CPU throttling:** at least 4."
+        ],
+        "postParagraphs": [
+          "The most frequent countries among the 100 one-star reviews were the United States (18), India (14), France (8), the United Kingdom (6) and the Netherlands (6).",
+          "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches what we found in the sample.",
+          "The first theme deserves a note. In the titles we read, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem."
+        ]
+      },
+      {
+        "heading": "Why billing and renewal complaints weigh on hosting",
+        "paragraphs": [
+          "Billing and renewal were the second theme in our sample, about 38 of 86 complaints. On hosting, part of that has a known mechanism. When automatic renewal is on, the product renews before it expires and is charged to the payment method on file. Hostinger’s help center says so, and also says the option can be turned off at any time, without affecting the service until the expiry date.",
           "Turning renewal off has a risk too: without another plan ready, the site can go offline on the expiry date. That is why the help center itself recommends keeping renewal on for anyone who plans to continue.",
           "The rules for the renewal price and for what does not stack are in the [article on the referral link](/en/reviews/hostinger-coupon-code-referral). Here the point is different: knowing where the option is and how to turn it off."
         ]
@@ -94088,7 +94197,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What Hostinger answers",
         "paragraphs": [
-          "On Trustpilot, the company says it responds to 98% of negative reviews, usually within 24 hours. The screenshots show the response rate and not the text of the replies, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about charges. On Reclame Aqui, the response index is 99.3% over 6 months, with 10 complaints waiting for a reply."
+          "On Trustpilot, the company says it responds to 99% of negative reviews, usually within 24 hours. In our sample, 80 of the 86 complaints had a reply; the six without one had all been posted in the previous 24 hours. The page also warns that the company may use AI in its responses.",
+          "We counted the replies and did not grade them, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about billing and about reaching a person."
         ]
       },
       {
@@ -94096,23 +94206,30 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, who also signs this text, has been a Hostinger customer since 2024, for more than 24 months: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. The Em Casa com Cecília site runs on Hostinger.",
           "Each time he had a problem, support solved it, mainly the AI agent, and he has never seen the service go down.",
-          "That is his account, with his use. It says nothing about someone who was charged without expecting it, and the Reclame Aqui complaints still count."
+          "That is his account, with his use, and it needs an honest counterpoint: the AI support that solved his problems is the theme that shows up most in the complaints we read, about 45 of 86, even if part of them are about the AI tools of the website builder. His case says nothing about someone who could not get past the agent, or who was charged without expecting it."
+        ]
+      },
+      {
+        "heading": "A second source: Reclame Aqui, in Brazil",
+        "paragraphs": [
+          "Reclame Aqui is Brazil’s public complaints site, where each complaint and the company’s reply are published and the customer says whether it was resolved. On October 19, 2026, Hostinger’s profile there, with data up to September 30, 2026, showed the site’s top reputation tier (“Great”), a score of 8.6 over 6 months and 8.4 over 12 months, 99.3% of the 1,352 complaints from those 6 months answered and 88.6% marked as resolved. The most cited problem in the general ranking (last 3 years) was improper charges, at 21.72%. That coincides with the billing and renewal theme of the Trustpilot sample."
         ]
       },
       {
         "heading": "Can you trust Hostinger?",
         "paragraphs": [
-          "Going by the numbers, yes. On October 19, 2026, the Trustpilot score was 4.6 (“Excellent”) from 73,316 reviews. On Reclame Aqui, the reputation was “Great” on September 30, 2026 (8.6 over 6 months and 8.4 over 12), and the company answered 99.3% of the 1,352 complaints from those 6 months and marked 88.6% as resolved.",
-          "The caveats are who runs the page and what people complain about. The Trustpilot profile is managed by the company, which invites customers to review, and improper charges lead the Reclame Aqui problem ranking at 21.72%. On hosting, automatic renewal charges on its own before expiry, and linking the two is our reading.",
-          "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and open both profiles before buying, because the numbers change every month."
+          "Going by Trustpilot, yes. On October 24, 2026, the score was 4.6 from 73,411 reviews, 87.1% of them five stars, and the company answered 99% of the negative ones, 80 of the 86 complaints in our sample.",
+          "The caveat is how the score is built and what the complaints say. The profile is managed by the company, which invites customers to review: in our sample, 78 of the 100 most recent five-star reviews were invited and 92 of the 100 most recent one-star reviews were organic. The complaints center on AI support with no way to reach a person, on billing and renewal, and on domains. Reclame Aqui, in Brazil, confirms the billing theme with improper charges at the top of its ranking.",
+          "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and read a few one-star reviews and the replies on the profile before buying, because the numbers change every month."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does Hostinger have good reviews? On Trustpilot, the score on October 19, 2026 was 4.6 (“Excellent”), from 73,316 reviews. The profile is run by the company itself, so read the details before deciding.",
-          "Does Hostinger have complaints? Yes. On Reclame Aqui, the most cited problem in the general ranking (last 3 years) was improper charges, at 21.72%.",
-          "Does Hostinger answer complaints? Yes. On Trustpilot the company says it responds to 98% of negative reviews, usually within 24 hours. On Reclame Aqui, 99.3% of the complaints from the last 6 months were answered.",
+          "What is Hostinger’s Trustpilot score? On October 24, 2026, it was a TrustScore of 4.6 out of 5, from 73,411 reviews, with 87.1% five stars and 6.9% one star.",
+          "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
+          "What do Hostinger customers complain about on Trustpilot? In the 86 complaints we read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
+          "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
           "How do I turn off Hostinger’s automatic renewal? In your account's billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
         ]
       },
@@ -94125,7 +94242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transparency note",
         "paragraphs": [
-          "The Trustpilot figures were read on October 19, 2026, from the profile page. The Reclame Aqui figures come from screenshots taken the same day: the 6- and 12-month tabs and the problems ranking (general tab, last 3 years). The help-center text was read on that date too. These numbers change every month, so check them before deciding.",
+          "The Trustpilot profile figures were read on October 19 and October 24, 2026, from the profile page; the screenshots are from October 19. The sample of 200 reviews (the 100 most recent one-star and the 100 most recent five-star reviews) was read on October 24, 2026, and the theme counts are our reading of titles and excerpts, so they are approximate. The Reclame Aqui figures come from screenshots taken on October 19, 2026, with data up to September 30, 2026. The help-center text was read on October 19, 2026. These numbers change every month, so check them before deciding.",
           "This is a referral link: buying through it may give Bruno credit with Hostinger. There is no brand partnership, and the credit does not factor into this analysis."
         ]
       }
@@ -94160,7 +94277,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-opiniones-trustpilot",
     "locale": "es",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran los datos",
+    "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran 200 opiniones",
     "seoTitle": "Hostinger en Trustpilot: calificación y quejas",
     "type": "Análisis de reputación",
     "category": "confianca-reputacao",
@@ -94183,12 +94300,12 @@ export const reviewsData: unknown[] = [
       {
         "name": "Bruno Luiz",
         "slug": "bruno-luiz",
-        "role": "Edição e análise",
+        "role": "Edición y análisis",
         "initials": "BL"
       }
     ],
-    "description": "La calificación de Hostinger en Trustpilot en octubre de 2026: TrustScore 4,6 con 73.316 opiniones, lo que muestra el perfil de la empresa, el contexto de Reclame Aqui en Brasil y cómo desactivar la renovación automática.",
-    "metaDescription": "Hostinger en Trustpilot el 19 de octubre de 2026: TrustScore 4,6 con 73.316 opiniones, lo que muestra el perfil de la empresa y cómo desactivar la renovación automática.",
+    "description": "La calificación de Hostinger en Trustpilot en octubre de 2026: TrustScore 4,6 con 73.411 opiniones, cómo influyen las invitaciones en ese número, qué dicen 200 opiniones recientes de una y cinco estrellas, y cómo desactivar la renovación automática.",
+    "metaDescription": "Hostinger en Trustpilot el 24 de octubre de 2026: TrustScore 4,6 con 73.411 opiniones, de qué se quejan 200 opiniones recientes y cómo desactivar la renovación automática.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94202,51 +94319,160 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, en general, con una salvedad. El 19 de octubre de 2026, Hostinger tenía 4,6 («Excelente») en Trustpilot, pero el perfil lo administra la propia empresa, que invita a los clientes a opinar, y eso sube el promedio. En Reclame Aqui, en Brasil, la reputación es la más alta y los cobros indebidos son el problema más citado. Mira abajo cómo desactivar la renovación automática."
+          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía 4,6 en Trustpilot con 73.411 opiniones, pero la empresa invita a los clientes a opinar, lo que sube el promedio. Las quejas se concentran en la atención por IA, los cobros y los dominios. El capítulo Tres lecturas que cambian la cuenta explica cuánto pesan esas invitaciones."
         ]
       },
       {
-        "heading": "Trustpilot: la calificación y lo que muestra la página",
+        "heading": "Lo que dice la calificación y lo que no dice",
         "paragraphs": [
-          "Trustpilot es un sitio internacional de opiniones. El perfil de Hostinger muestra cinco estrellas con el 87,1 %, cuatro con el 4,3 %, tres con el 0,9 %, dos con el 0,8 % y una estrella con el 6,9 %, unas 5.000 opiniones. Antes de usar ese número, mira lo que muestra la propia página:"
+          "Trustpilot es un sitio internacional de opiniones, y un 4,6 es el punto de partida. Pero la calificación resume mucho, y la página del perfil muestra cómo se armó. La tabla reúne lo que la página mostraba el 24 de octubre de 2026."
         ],
-        "bullets": [
-          "El perfil está reclamado desde mayo de 2017, es decir, la empresa administra la página.",
-          "La empresa tiene una suscripción paga de Trustpilot.",
-          "La página dice que Hostinger invita a los clientes a opinar, tanto si la experiencia fue buena como mala. Una invitación amplia sube el promedio y no muestra quién quedó afuera.",
-          "La empresa responde al 98 % de las opiniones negativas, por lo general en hasta 24 horas, y puede usar IA en las respuestas.",
-          "El propio Trustpilot dice que no revisa las opiniones una por una."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "Perfil de Hostinger en Trustpilot, 24 de octubre de 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,6 sobre 5, que el sitio califica como «Excelente»"
+            ],
+            [
+              "Opiniones",
+              "73.411"
+            ],
+            [
+              "Cinco estrellas",
+              "63.962 (87,1 %)"
+            ],
+            [
+              "Cuatro estrellas",
+              "3.143 (4,3 %)"
+            ],
+            [
+              "Tres estrellas",
+              "650 (0,9 %)"
+            ],
+            [
+              "Dos estrellas",
+              "558 (0,8 %)"
+            ],
+            [
+              "Una estrella",
+              "5.098 (6,9 %)"
+            ],
+            [
+              "Perfil reclamado",
+              "Sí, desde mayo de 2017: la empresa administra la página"
+            ],
+            [
+              "Suscripción paga de Trustpilot",
+              "Sí"
+            ],
+            [
+              "Invita a los clientes a opinar",
+              "Sí, tanto por experiencias buenas como malas"
+            ],
+            [
+              "Responde a las opiniones negativas",
+              "99 %, por lo general en menos de 24 horas"
+            ],
+            [
+              "IA en las respuestas",
+              "La página dice que la empresa puede usar IA en sus respuestas"
+            ],
+            [
+              "Revisión de las opiniones",
+              "Trustpilot dice que no revisa las opiniones una por una"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
             "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, 73.316 opiniones, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
-            "caption": "Perfil de Hostinger en Trustpilot el 19 de octubre de 2026. Imagen: captura de Bruno.",
+            "caption": "Perfil de Hostinger en Trustpilot el 19 de octubre de 2026, con 73.316 opiniones. El 24 de octubre el total había subido a 73.411, con la misma calificación. Imagen: captura de Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Barras de calificación de Hostinger en Trustpilot, de cinco a una estrella, con los porcentajes",
-            "caption": "Distribución de las opiniones de Hostinger en Trustpilot, leída el 19 de octubre de 2026.",
+            "caption": "Distribución de las opiniones de Hostinger en Trustpilot en la captura del 19 de octubre de 2026. Los porcentajes fueron los mismos el 24 de octubre.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "No leímos el texto de las opiniones de una estrella, así que este texto no dice de qué se quejan. Reclame Aqui muestra la queja y la respuesta; Trustpilot muestra lo que la gente piensa en general. Juntos valen más que cada uno por separado."
+          "Entre nuestras dos lecturas cambiaron dos cosas: el total creció en 95 opiniones en cinco días, y la tasa de respuesta a las opiniones negativas pasó del 98 % al 99 %. Los porcentajes por estrella no se movieron.",
+          "La página también muestra el idioma de las opiniones: el 24 de octubre, 44.546 estaban en inglés, 8.744 en español, 8.606 en portugués y 3.340 en francés. Así que la calificación es global, no la opinión de un solo mercado.",
+          "Lo que la tabla no muestra es quién recibe la invitación y quién escribe por su cuenta. Ahí empieza el próximo capítulo."
         ]
       },
       {
-        "heading": "Reclame Aqui: el contexto de Brasil",
+        "heading": "Tres lecturas que cambian la cuenta",
         "paragraphs": [
-          "Reclame Aqui es un sitio brasileño de quejas públicas. El 30 de septiembre de 2026, Hostinger tenía allí la categoría más alta del sitio (excelente), con una nota de 8,6 en los últimos 6 meses y de 8,4 en los últimos 12. La empresa respondió al 99,3 % de las 1.352 quejas de los 6 meses y marcó el 88,6 % como resueltas. El problema más citado en el ranking general (últimos 3 años) fueron los **cobros indebidos**, con el 21,72 %. El sitio no dice cuántos de esos cobros son renovaciones, así que la relación con la renovación automática es nuestra lectura, no una cifra del sitio."
+          "Para ver qué hay detrás del 4,6, el 24 de octubre de 2026 leímos las 100 opiniones de una estrella más recientes y las 100 de cinco estrellas más recientes, en todos los idiomas. Trustpilot marca cada opinión como «Invitada», cuando la empresa envió la solicitud, o como espontánea, cuando la persona llegó por su cuenta. La tabla compara los dos grupos."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Nuestra muestra, 24 de octubre de 2026",
+            "100 opiniones de cinco estrellas más recientes",
+            "100 opiniones de una estrella más recientes"
+          ],
+          "rows": [
+            [
+              "Período cubierto",
+              "19 al 24 de octubre de 2026 (unos 5 días)",
+              "6 al 24 de octubre de 2026 (unos 18 días)"
+            ],
+            [
+              "Invitadas por la empresa",
+              "78",
+              "8"
+            ],
+            [
+              "Espontáneas (no invitadas)",
+              "22",
+              "92"
+            ],
+            [
+              "Largo medio del texto",
+              "150 caracteres",
+              "568 caracteres"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Nuestra lectura: la invitación sube el promedio. La calificación mide a los clientes que fueron invitados y respondieron, no a todos los clientes.",
+          "Segundo, las opiniones de una estrella son casi cuatro veces más largas. Describen un problema concreto, con fechas, productos y montos. Las de cinco estrellas suelen ser una frase.",
+          "Tercero, una de cada siete opiniones de una estrella de la muestra es un elogio con la nota equivocada: 14 de las 100 tienen texto positivo, como «Great hosting» o «easy to use», con una estrella. Aun así, el 6,9 % de 73.411 son unas 5.100 personas muy insatisfechas. La proporción es pequeña; el número de personas no lo es."
         ]
       },
       {
-        "heading": "Por qué los cobros indebidos pesan en el hosting",
+        "heading": "De qué se quejan las personas",
         "paragraphs": [
-          "Con la renovación automática activada, el producto se renueva antes del vencimiento y se cobra al medio de pago registrado. El centro de ayuda de Hostinger lo dice, y también explica que la opción se puede desactivar en cualquier momento, sin afectar el servicio hasta la fecha de vencimiento.",
+          "Descontados los 14 elogios con nota equivocada, quedaron 86 quejas reales entre las 100 opiniones de una estrella más recientes. Leímos los títulos y los fragmentos y clasificamos cada queja por tema; una queja puede tener más de un tema, así que los conteos son aproximados. Estos son los temas, de más a menos citados:"
+        ],
+        "bullets": [
+          "**Atención por IA y no llegar a una persona:** unas 45 de 86. Parte de estas quejas habla de las herramientas de IA del constructor de sitios, no del soporte.",
+          "**Cobros, renovación, reembolsos y tasas:** unas 38. Incluye el aumento del precio después del período promocional, una renovación automática que el cliente no esperaba y la tasa para recuperar un dominio vencido (76 euros en una opinión, 150 en otra).",
+          "**Dominios:** unas 27, con suspensión, transferencia, registro y recuperación.",
+          "**Correo caído o inaccesible:** unas 19.",
+          "**Sitio o VPS caído, o mantenimiento sin aviso:** unas 18, incluido un VPS de producción detenido durante 27 horas.",
+          "**Cuenta o servicio suspendido sin una explicación clara:** unas 16, algunos después de un contracargo.",
+          "**VPS con limitación de CPU:** al menos 4."
+        ],
+        "postParagraphs": [
+          "Los países más frecuentes entre las 100 opiniones de una estrella fueron Estados Unidos (18), India (14), Francia (8), Reino Unido (6) y Países Bajos (6).",
+          "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Eso coincide con lo que encontramos en la muestra.",
+          "El primer tema merece una nota. En los títulos que leímos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema."
+        ]
+      },
+      {
+        "heading": "Por qué los cobros y la renovación pesan en el hosting",
+        "paragraphs": [
+          "Cobros y renovación fueron el segundo tema de nuestra muestra, unas 38 de 86 quejas. En el hosting, parte de eso tiene un mecanismo conocido. Con la renovación automática activada, el producto se renueva antes del vencimiento y se cobra al medio de pago registrado. El centro de ayuda de Hostinger lo dice, y también explica que la opción se puede desactivar en cualquier momento, sin afectar el servicio hasta la fecha de vencimiento.",
           "Desactivar la renovación también tiene un riesgo: si no hay otro plan listo, el sitio puede quedar fuera de línea en la fecha de vencimiento. Por eso el propio centro de ayuda recomienda mantener la renovación activada a quien piensa seguir.",
           "Las reglas del precio de renovación y de lo que no se suma están en el [artículo sobre el código de referido](/es/reviews/cupon-hostinger-codigo-de-referido). Aquí el punto es otro: saber dónde está la opción y cómo desactivarla."
         ]
@@ -94270,32 +94496,40 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lo que responde Hostinger",
         "paragraphs": [
-          "En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. Las capturas muestran el índice de respuestas y no el texto de las respuestas, así que este texto no dice si las respuestas resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros. En Reclame Aqui, el índice es del 99,3 % en 6 meses, con 10 quejas esperando respuesta."
+          "En Trustpilot, la empresa dice que responde al 99 % de las opiniones negativas, por lo general en 24 horas. En nuestra muestra, 80 de las 86 quejas tenían respuesta; las seis sin respuesta se habían publicado en las 24 horas anteriores. La página también advierte que la empresa puede usar IA en sus respuestas.",
+          "Contamos las respuestas sin calificarlas, así que este texto no dice si resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros y de no poder llegar a una persona."
         ]
       },
       {
         "heading": "Nuestra experiencia",
         "paragraphs": [
-          "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todo con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
-          "Cada vez que tuvo algún problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
-          "Esa es su cuenta, con su uso. No dice nada de quien recibió un cobro que no esperaba, y las quejas de Reclame Aqui siguen valiendo."
+          "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
+          "Cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
+          "Es su cuenta, con su uso, y hace falta una contrapartida honesta: el soporte por IA que resolvió sus problemas es el tema que más aparece en las quejas que leímos, unas 45 de 86, aunque parte de ellas hable de las herramientas de IA del constructor de sitios. Su caso no dice nada de quien no logró pasar del agente, ni de quien recibió un cobro que no esperaba."
+        ]
+      },
+      {
+        "heading": "Una segunda fuente: Reclame Aqui, en Brasil",
+        "paragraphs": [
+          "Reclame Aqui es el sitio brasileño de quejas públicas, donde se publican cada queja y la respuesta de la empresa, y el cliente dice si el problema se resolvió. El 19 de octubre de 2026, el perfil de Hostinger allí mostraba la categoría más alta del sitio («Óptima»), con una nota de 8,6 en los últimos 6 meses y de 8,4 en los últimos 12. Había respondido al 99,3 % de las 1.352 quejas de esos 6 meses y marcado el 88,6 % como resueltas. El problema más citado en el ranking general (últimos 3 años) fueron los cobros indebidos, con el 21,72 %. Eso coincide con el tema de cobros y renovación de la muestra de Trustpilot."
         ]
       },
       {
         "heading": "¿Se puede confiar en Hostinger?",
         "paragraphs": [
-          "Por los números, sí. El 19 de octubre de 2026, la calificación en Trustpilot era 4,6 («Excelente») con 73.316 opiniones. En Reclame Aqui, la reputación era la más alta (excelente) el 30 de septiembre de 2026 (8,6 en 6 meses y 8,4 en 12), y la empresa respondió al 99,3 % de las 1.352 quejas de los 6 meses y marcó el 88,6 % como resueltas.",
-          "Las salvedades son quién administra la página y de qué se quejan las personas. El perfil de Trustpilot lo administra la empresa, que invita a los clientes a opinar, y los cobros indebidos encabezan el ranking de problemas de Reclame Aqui, con el 21,72 %. En el hosting, la renovación automática cobra sola antes del vencimiento, y la relación entre ambas cosas es nuestra lectura.",
-          "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres continuar y abre los dos perfiles antes de comprar, porque las cifras cambian cada mes."
+          "Según Trustpilot, sí. El 24 de octubre de 2026, la calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas, y la empresa respondió al 99 % de las negativas, es decir, a 80 de las 86 quejas de nuestra muestra.",
+          "La salvedad está en cómo se arma la calificación y en lo que dicen las quejas. El perfil lo administra la empresa, que invita a los clientes a opinar: en nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Las quejas se concentran en la atención por IA sin forma de llegar a una persona, en cobros y renovación, y en dominios. Reclame Aqui, en Brasil, confirma el tema de los cobros, con los cobros indebidos a la cabeza de su ranking.",
+          "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres seguir y lee algunas opiniones de una estrella y las respuestas del perfil antes de comprar, porque los números cambian cada mes."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Hostinger tiene buenas opiniones? El 19 de octubre de 2026, la calificación en Trustpilot era de 4,6 («Excelente») con 73.316 opiniones. El perfil lo administra la propia empresa, así que lee el detalle antes de decidir.",
-          "¿Hostinger tiene quejas? Sí. En Reclame Aqui, el problema más citado del ranking general (últimos 3 años) fueron los cobros indebidos, con el 21,72 %.",
-          "¿Hostinger responde a las quejas? Sí. En Trustpilot, la empresa dice que responde al 98 % de las opiniones negativas, por lo general en 24 horas. En Reclame Aqui, respondió al 99,3 % de las quejas de los últimos 6 meses.",
-          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta el vencimiento."
+          "¿Cuál es la calificación de Hostinger en Trustpilot? El 24 de octubre de 2026 era un TrustScore de 4,6 sobre 5, con 73.411 opiniones, el 87,1 % de cinco estrellas y el 6,9 % de una estrella.",
+          "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
+          "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas que leímos entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
+          "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
+          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento."
         ]
       },
       {
@@ -94307,7 +94541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nota de transparencia",
         "paragraphs": [
-          "Los datos de Trustpilot se leyeron el 19 de octubre de 2026 en la página del perfil. Los de Reclame Aqui vienen de capturas hechas el mismo día: las pestañas de 6 y 12 meses y el ranking de problemas (pestaña general, últimos 3 años). El texto del centro de ayuda también se leyó en esa fecha. Estos números cambian cada mes, así que compruébalos antes de decidir.",
+          "Los datos de Trustpilot se leyeron el 19 y el 24 de octubre de 2026 en la página del perfil; las capturas son del 19. La muestra de 200 opiniones (las 100 de una estrella y las 100 de cinco estrellas más recientes) se leyó el 24 de octubre de 2026, y los conteos por tema son nuestra lectura de títulos y fragmentos, así que son aproximados. Los datos de Reclame Aqui vienen de capturas del 19 de octubre de 2026, con datos hasta el 30 de septiembre de 2026. El texto del centro de ayuda se leyó el 19 de octubre de 2026. Estos números cambian cada mes, así que compruébalos antes de decidir.",
           "Este es un enlace de referido: comprar por él puede generar un crédito en Hostinger para Bruno. No hay alianza de marca, y el crédito no entra en el análisis."
         ]
       }
@@ -94342,7 +94576,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-avis-trustpilot",
     "locale": "fr",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent les chiffres",
+    "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis",
     "seoTitle": "Hostinger sur Trustpilot : note et plaintes",
     "type": "Analyse de réputation",
     "category": "confianca-reputacao",
@@ -94365,12 +94599,12 @@ export const reviewsData: unknown[] = [
       {
         "name": "Bruno Luiz",
         "slug": "bruno-luiz",
-        "role": "Edição e análise",
+        "role": "Édition et analyse",
         "initials": "BL"
       }
     ],
-    "description": "La note de Hostinger sur Trustpilot en octobre 2026 : un TrustScore de 4,6 pour 73 316 avis, ce que montre le profil de l’entreprise, le contexte de Reclame Aqui au Brésil et comment désactiver le renouvellement automatique.",
-    "metaDescription": "Hostinger sur Trustpilot le 19 octobre 2026 : TrustScore de 4,6 pour 73 316 avis, ce que montre le profil de l’entreprise et comment désactiver le renouvellement automatique.",
+    "description": "La note de Hostinger sur Trustpilot en octobre 2026 : un TrustScore de 4,6 pour 73 411 avis, l’effet des invitations à noter sur ce chiffre, ce que disent 200 avis récents à une et à cinq étoiles, et comment désactiver le renouvellement automatique.",
+    "metaDescription": "Hostinger sur Trustpilot le 24 octobre 2026 : TrustScore de 4,6 pour 73 411 avis, ce que reprochent les clients dans 200 avis récents et comment désactiver le renouvellement automatique.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94384,53 +94618,162 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Plutôt oui, avec une réserve. Le 19 octobre 2026, Hostinger avait 4,6 (« Excellent ») sur Trustpilot, mais l’entreprise gère le profil et invite ses clients à noter, ce qui tire la moyenne vers le haut. Sur Reclame Aqui, au Brésil, la réputation est très bonne, et les prélèvements indus sont le problème le plus cité. Voyez plus bas comment désactiver le renouvellement."
+          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait 4,6 sur Trustpilot pour 73 411 avis, mais l’entreprise invite ses clients à noter, ce qui tire la moyenne vers le haut. Les plaintes portent surtout sur le support par IA, la facturation et les domaines. Le chapitre Trois lectures qui changent le calcul détaille cet effet."
         ]
       },
       {
-        "heading": "Trustpilot : la note et ce que montre la page",
+        "heading": "Ce que dit la note et ce qu’elle ne dit pas",
         "paragraphs": [
-          "Trustpilot est un site international d’avis. Le profil de Hostinger affiche cinq étoiles à 87,1 %, quatre à 4,3 %, trois à 0,9 %, deux à 0,8 % et une étoile à 6,9 %, soit environ 5 000 avis. Avant d’utiliser ce chiffre, regardez ce que la page elle-même montre :"
+          "Trustpilot est un site international d’avis, et un 4,6 est le point de départ. Mais la note résume beaucoup de choses, et la page du profil montre elle-même comment elle a été construite. Le tableau réunit ce que la page affichait le 24 octobre 2026."
         ],
-        "bullets": [
-          "Le profil est revendiqué depuis mai 2017, ce qui signifie que l’entreprise gère la page.",
-          "L’entreprise dispose d’un abonnement payant à Trustpilot.",
-          "La page indique que Hostinger invite ses clients à donner leur avis, positif comme négatif. Une invitation large fait monter la moyenne et ne montre pas qui a été laissé de côté.",
-          "L’entreprise répond à 98 % des avis négatifs, en général dans les 24 heures, et peut utiliser l’IA pour ses réponses.",
-          "Trustpilot lui-même indique qu’il ne vérifie pas les avis un par un."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicateur",
+            "Profil Trustpilot de Hostinger, 24 octobre 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,6 sur 5, qualifié d’« Excellent » par le site"
+            ],
+            [
+              "Avis",
+              "73 411"
+            ],
+            [
+              "Cinq étoiles",
+              "63 962 (87,1 %)"
+            ],
+            [
+              "Quatre étoiles",
+              "3 143 (4,3 %)"
+            ],
+            [
+              "Trois étoiles",
+              "650 (0,9 %)"
+            ],
+            [
+              "Deux étoiles",
+              "558 (0,8 %)"
+            ],
+            [
+              "Une étoile",
+              "5 098 (6,9 %)"
+            ],
+            [
+              "Profil revendiqué",
+              "Oui, depuis mai 2017 : l’entreprise gère la page"
+            ],
+            [
+              "Abonnement payant à Trustpilot",
+              "Oui"
+            ],
+            [
+              "Invitation des clients à noter",
+              "Oui, pour les expériences positives comme négatives"
+            ],
+            [
+              "Réponses aux avis négatifs",
+              "99 %, en général dans les 24 heures"
+            ],
+            [
+              "IA dans les réponses",
+              "La page indique que l’entreprise peut utiliser l’IA pour ses réponses"
+            ],
+            [
+              "Vérification des avis",
+              "Trustpilot dit qu’il ne vérifie pas les avis un par un"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
             "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 73 316 avis, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
-            "caption": "Profil Trustpilot de Hostinger le 19 octobre 2026. Image : capture d’écran de Bruno.",
+            "caption": "Profil Trustpilot de Hostinger le 19 octobre 2026. Le 24 octobre, le total était passé de 73 316 à 73 411 avis, avec la même note. Image : capture d’écran de Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Barres d’évaluation de Hostinger sur Trustpilot, de cinq à une étoile, avec les pourcentages",
-            "caption": "Répartition des avis sur Hostinger sur Trustpilot, relevée le 19 octobre 2026.",
+            "caption": "Répartition des avis sur Hostinger sur Trustpilot, relevée le 19 octobre 2026. Les pourcentages étaient les mêmes le 24 octobre.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "Nous n’avons pas lu le texte des avis à une étoile : ce texte ne dit donc pas de quoi ils se plaignent. Reclame Aqui montre la plainte et la réponse ; Trustpilot montre ce que les gens pensent dans l’ensemble. Ensemble, ils valent mieux que chacun seul."
+          "Entre nos deux relevés, deux choses ont changé : le total a progressé de 95 avis en cinq jours, et le taux de réponse aux avis négatifs est passé de 98 % à 99 %. Les pourcentages par étoile n’ont pas bougé.",
+          "La page montre aussi la langue des avis : le 24 octobre, 44 546 étaient en anglais, 8 744 en espagnol, 8 606 en portugais et 3 340 en français. La note est donc mondiale, et non l’opinion d’un seul marché.",
+          "Ce que le tableau ne montre pas, c’est qui reçoit l’invitation et qui écrit de sa propre initiative. C’est là que commence le chapitre suivant."
         ]
       },
       {
-        "heading": "Reclame Aqui : le contexte brésilien",
+        "heading": "Trois lectures qui changent le calcul",
         "paragraphs": [
-          "Reclame Aqui est un site public de plaintes au Brésil. Le 30 septembre 2026, Hostinger y avait une réputation très bonne, avec une note de 8,6 sur les 6 derniers mois et de 8,4 sur 12 mois. L’entreprise a répondu à 99,3 % des 1 352 plaintes des 6 mois et a marqué 88,6 % comme résolues. Le problème le plus cité dans le classement général (3 dernières années) était les **prélèvements indus**, à 21,72 %. Le site ne dit pas combien de ces prélèvements concernent des renouvellements : le lien avec le renouvellement automatique est donc notre lecture, et non un chiffre du site."
+          "Pour voir ce qui se cache derrière le 4,6, nous avons lu le 24 octobre 2026 les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents, dans toutes les langues. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Notre échantillon, 24 octobre 2026",
+            "100 avis à cinq étoiles les plus récents",
+            "100 avis à une étoile les plus récents"
+          ],
+          "rows": [
+            [
+              "Période couverte",
+              "19 au 24 octobre 2026 (environ 5 jours)",
+              "6 au 24 octobre 2026 (environ 18 jours)"
+            ],
+            [
+              "Invités par l’entreprise",
+              "78",
+              "8"
+            ],
+            [
+              "Spontanés (non invités)",
+              "22",
+              "92"
+            ],
+            [
+              "Longueur moyenne du texte",
+              "150 caractères",
+              "568 caractères"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Notre lecture : l’invitation fait monter la moyenne. La note mesure les clients qui ont été invités et ont répondu, pas l’ensemble des clients.",
+          "Ensuite, les avis à une étoile sont presque quatre fois plus longs. Ils décrivent un problème concret, avec des dates, des produits et des montants. Les avis à cinq étoiles tiennent en général en une phrase.",
+          "Enfin, un avis à une étoile sur sept de notre échantillon est un éloge donné avec la mauvaise note : 14 des 100 ont un texte positif, comme « Great hosting » ou « easy to use », sous une étoile. Malgré cela, 6,9 % de 73 411, cela fait encore environ 5 100 personnes très mécontentes. La part est petite ; le nombre de personnes ne l’est pas."
         ]
       },
       {
-        "heading": "Pourquoi les prélèvements indus pèsent sur l’hébergement",
+        "heading": "Ce dont les gens se plaignent",
         "paragraphs": [
-          "Quand le renouvellement automatique est activé, le produit est renouvelé avant l’échéance et débité du moyen de paiement enregistré. Le centre d’aide de Hostinger le dit, et précise aussi que l’option peut être désactivée à tout moment, sans effet sur le service jusqu’à la date d’échéance.",
-          "Désactiver le renouvellement comporte aussi un risque : sans autre offre prête, le site peut tomber à la date d’échéance. C’est pourquoi le centre d’aide recommande lui-même de garder le renouvellement activé à qui compte continuer.",
-          "Les règles du prix de renouvellement et de ce qui ne se cumule pas figurent dans [l’article sur le code de parrainage](/fr/reviews/code-promo-hostinger-parrainage). Ici, le point est autre : savoir où se trouve l’option et comment la désactiver."
+          "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Nous avons lu les titres et les extraits et classé chaque plainte par thème ; une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
+        ],
+        "bullets": [
+          "**Support par IA et impossibilité de joindre une personne :** environ 45 sur 86. Une partie concerne les outils d’IA du créateur de sites, et non le support.",
+          "**Facturation, renouvellement, remboursements et frais :** environ 38. Cela inclut la hausse du prix après la période promotionnelle, un renouvellement automatique non attendu et les frais de récupération d’un domaine expiré (76 euros dans un avis, 150 dans un autre).",
+          "**Domaines :** environ 27, avec suspension, transfert, enregistrement et récupération.",
+          "**E-mail en panne ou inaccessible :** environ 19.",
+          "**Site ou VPS en panne, ou maintenance sans préavis :** environ 18, dont un VPS de production arrêté pendant 27 heures.",
+          "**Compte ou service suspendu sans explication claire :** environ 16, certains après une contestation de paiement.",
+          "**VPS avec limitation du CPU :** au moins 4."
+        ],
+        "postParagraphs": [
+          "Les pays les plus fréquents parmi les 100 avis à une étoile étaient les États-Unis (18), l’Inde (14), la France (8), le Royaume-Uni (6) et les Pays-Bas (6).",
+          "Trustpilot publie lui-même un résumé automatique du profil, généré par l’IA du site à partir de 12 464 avis. Il retient comme éloges un hébergement stable, un support utile avec des agents humains rapides sur les problèmes techniques, et un tableau de bord facile pour les débutants. Il retient comme plaintes un service très automatisé, difficile à joindre pour parler à une personne, une récupération de compte compliquée, la facturation et des règles strictes pour le renouvellement des domaines. Cela correspond à ce que nous avons trouvé dans l’échantillon.",
+          "Le premier thème mérite une précision. Dans les titres lus, la plainte qui revient n’est pas une mauvaise réponse, mais l’impossibilité de dépasser l’agent d’IA pour parler à une personne. Notre lecture : pour un client dont le site est hors ligne, cette attente est le problème."
+        ]
+      },
+      {
+        "heading": "Pourquoi la facturation et le renouvellement pèsent sur l’hébergement",
+        "paragraphs": [
+          "La facturation et le renouvellement arrivaient en deuxième position dans notre échantillon, avec environ 38 plaintes sur 86. Pour l’hébergement, une partie de cela s’explique par un mécanisme connu. Quand le renouvellement automatique est activé, le produit est renouvelé avant l’échéance et débité sur le moyen de paiement enregistré. Le centre d’aide de Hostinger le dit, et précise aussi que l’option peut être désactivée à tout moment, sans effet sur le service jusqu’à la date d’échéance.",
+          "Désactiver le renouvellement comporte aussi un risque : sans autre offre prête, le site peut tomber hors ligne à la date d’échéance. C’est pourquoi le centre d’aide recommande lui-même de garder le renouvellement activé à ceux qui comptent continuer.",
+          "Les règles sur le prix du renouvellement et sur ce qui ne se cumule pas figurent dans [l’article sur le code de parrainage](/fr/reviews/code-promo-hostinger-parrainage). Ici, le point est différent : savoir où se trouve l’option et comment la désactiver."
         ]
       },
       {
@@ -94452,7 +94795,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que répond Hostinger",
         "paragraphs": [
-          "Sur Trustpilot, l’entreprise affirme répondre à 98 % des avis négatifs, en général dans les 24 heures. Les captures montrent le taux de réponse, et non le texte des réponses : ce texte ne dit donc pas si les réponses règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent les prélèvements. Sur Reclame Aqui, l’indice est de 99,3 % sur 6 mois, avec 10 plaintes en attente de réponse."
+          "Sur Trustpilot, l’entreprise affirme répondre à 99 % des avis négatifs, en général dans les 24 heures. Dans notre échantillon, 80 des 86 plaintes avaient une réponse ; les six sans réponse avaient été publiées dans les 24 heures précédentes. La page indique aussi que l’entreprise peut utiliser l’IA pour ses réponses.",
+          "Nous avons compté les réponses sans les noter, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
         ]
       },
       {
@@ -94460,23 +94804,30 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
           "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
-          "C’est son compte, avec son usage. Cela ne dit rien de ceux qui ont été débités sans s’y attendre, et les plaintes de Reclame Aqui restent valables."
+          "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes que nous avons lues, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
+        ]
+      },
+      {
+        "heading": "Une seconde source : Reclame Aqui, au Brésil",
+        "paragraphs": [
+          "Reclame Aqui est le site public de réclamations du Brésil, où chaque plainte et la réponse de l’entreprise sont publiées, et où le client indique si le problème a été résolu. Le 19 octobre 2026, le profil de Hostinger y affichait la catégorie la plus haute du site (« Très bien »), avec une note de 8,6 sur 6 mois et de 8,4 sur 12 mois, 99,3 % des 1 352 plaintes des 6 derniers mois traitées et 88,6 % marquées comme résolues. Le problème le plus cité dans le classement général (3 dernières années) était les prélèvements indus, à 21,72 %. Cela recoupe le thème de la facturation et du renouvellement dans l’échantillon Trustpilot."
         ]
       },
       {
         "heading": "Peut-on faire confiance à Hostinger ?",
         "paragraphs": [
-          "D’après les chiffres, oui. Le 19 octobre 2026, la note Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Sur Reclame Aqui, la réputation était très bonne au 30 septembre 2026 (8,6 sur 6 mois et 8,4 sur 12), et l’entreprise a répondu à 99,3 % des 1 352 plaintes des 6 mois et en a marqué 88,6 % comme résolues.",
-          "Les réserves tiennent à qui gère la page et à ce dont les gens se plaignent. Le profil Trustpilot est géré par l’entreprise, qui invite ses clients à laisser un avis, et les prélèvements indus arrivent en tête du classement des problèmes de Reclame Aqui, à 21,72 %. Pour l’hébergement, le renouvellement automatique prélève tout seul avant l’échéance, et le lien entre les deux est notre lecture.",
-          "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et ouvrez les deux profils avant d’acheter, car les chiffres changent chaque mois."
+          "Selon Trustpilot, oui. Le 24 octobre 2026, la note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles, et l’entreprise a répondu à 99 % des avis négatifs, soit 80 des 86 plaintes de notre échantillon.",
+          "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines. Reclame Aqui, au Brésil, confirme le thème de la facturation, avec les prélèvements indus en tête de son classement.",
+          "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et lisez quelques avis à une étoile ainsi que les réponses du profil avant d’acheter, car les chiffres changent chaque mois."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Hostinger a-t-il de bonnes évaluations ? Le 19 octobre 2026, la note sur Trustpilot était de 4,6 (« Excellent ») pour 73 316 avis. Le profil est géré par l’entreprise elle-même, alors lisez le détail avant de décider.",
-          "Hostinger a-t-il des plaintes ? Oui. Sur Reclame Aqui, le problème le plus cité du classement général (3 dernières années) était les prélèvements indus, à 21,72 %.",
-          "Hostinger répond-il aux plaintes ? Oui. Sur Trustpilot, l’entreprise dit répondre à 98 % des avis négatifs, en général dans les 24 heures. Sur Reclame Aqui, 99,3 % des plaintes des 6 derniers mois ont reçu une réponse.",
+          "Quelle est la note de Hostinger sur Trustpilot ? Le 24 octobre 2026, c’était un TrustScore de 4,6 sur 5, pour 73 411 avis, avec 87,1 % de cinq étoiles et 6,9 % d’une étoile.",
+          "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
+          "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
+          "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
           "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
         ]
       },
@@ -94489,7 +94840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Note de transparence",
         "paragraphs": [
-          "Les chiffres de Trustpilot ont été relevés le 19 octobre 2026 sur la page du profil. Ceux de Reclame Aqui viennent de captures faites le même jour : les onglets de 6 et 12 mois et le classement des problèmes (onglet général, 3 dernières années). Le texte du centre d’aide a aussi été lu à cette date. Ces chiffres changent chaque mois : vérifiez-les avant de décider.",
+          "Les chiffres de Trustpilot ont été relevés les 19 et 24 octobre 2026 sur la page du profil ; les captures datent du 19. L’échantillon de 200 avis (les 100 avis à une étoile et les 100 avis à cinq étoiles les plus récents) a été lu le 24 octobre 2026, et les décomptes par thème sont notre lecture des titres et des extraits, donc approximatifs. Les chiffres de Reclame Aqui viennent de captures du 19 octobre 2026, avec des données allant jusqu’au 30 septembre 2026. Le texte du centre d’aide a été lu le 19 octobre 2026. Ces chiffres changent chaque mois : vérifiez-les avant de décider.",
           "Ce lien est un lien de parrainage : un achat par ce lien peut donner un crédit chez Hostinger à Bruno. Il n’y a pas de partenariat de marque, et ce crédit n’entre pas dans l’analyse."
         ]
       }
@@ -94524,7 +94875,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-bewertungen",
     "locale": "de",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen",
+    "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen",
     "seoTitle": "Hostinger auf Trustpilot: Bewertung und Beschwerden",
     "type": "Reputationsanalyse",
     "category": "confianca-reputacao",
@@ -94547,12 +94898,12 @@ export const reviewsData: unknown[] = [
       {
         "name": "Bruno Luiz",
         "slug": "bruno-luiz",
-        "role": "Edição e análise",
+        "role": "Redaktion und Analyse",
         "initials": "BL"
       }
     ],
-    "description": "Die Trustpilot-Bewertung von Hostinger im Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Profil der Firma zeigt, der Kontext von Reclame Aqui in Brasilien und wie man die automatische Verlängerung abschaltet.",
-    "metaDescription": "Hostinger auf Trustpilot am 19. Oktober 2026: TrustScore 4,6 aus 73.316 Bewertungen, was das Firmenprofil zeigt und wie man die automatische Verlängerung abschaltet.",
+    "description": "Die Trustpilot-Bewertung von Hostinger im Oktober 2026: TrustScore 4,6 aus 73.411 Bewertungen, wie Einladungen die Zahl prägen, was 200 aktuelle Ein- und Fünf-Sterne-Bewertungen sagen und wie man die automatische Verlängerung abschaltet.",
+    "metaDescription": "Hostinger auf Trustpilot am 24. Oktober 2026: TrustScore 4,6 aus 73.411 Bewertungen, worüber sich 200 aktuelle Bewertungen beschweren und wie man die automatische Verlängerung abschaltet.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94566,52 +94917,161 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Eher ja, mit einem Vorbehalt. Am 19. Oktober 2026 hatte Hostinger auf Trustpilot 4,6 („Hervorragend“), doch das Profil verwaltet die Firma selbst und lädt Kunden zu Bewertungen ein, was den Schnitt hebt. Auf Reclame Aqui in Brasilien ist die Reputation sehr gut, und unberechtigte Abbuchungen sind das meistgenannte Problem. Unten steht, wie Sie die automatische Verlängerung abschalten."
+          "Eher ja, mit Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen, aber die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt. Die Beschwerden drehen sich vor allem um KI-Support, Abrechnung, Verlängerung und Domains. Das Kapitel Drei Lesarten, die die Rechnung ändern, zeigt den Effekt."
         ]
       },
       {
-        "heading": "Trustpilot: die Bewertung und was die Seite zeigt",
+        "heading": "Was die Bewertung sagt und was nicht",
         "paragraphs": [
-          "Trustpilot ist eine internationale Bewertungsplattform. Das Profil von Hostinger zeigt fünf Sterne mit 87,1 %, vier mit 4,3 %, drei mit 0,9 %, zwei mit 0,8 % und einen Stern mit 6,9 %, also rund 5.000 Bewertungen. Bevor Sie diese Zahl verwenden, sehen Sie sich an, was die Seite selbst zeigt:"
+          "Trustpilot ist eine internationale Bewertungsplattform, und eine 4,6 ist der Ausgangspunkt. Doch die Bewertung fasst viel zusammen, und die Profilseite selbst zeigt, wie sie entstanden ist. Die Tabelle fasst zusammen, was die Seite am 24. Oktober 2026 anzeigte."
         ],
-        "bullets": [
-          "Das Profil ist seit Mai 2017 beansprucht, das heißt, das Unternehmen verwaltet die Seite.",
-          "Das Unternehmen hat ein kostenpflichtiges Trustpilot-Abo.",
-          "Die Seite sagt, dass Hostinger Kunden zu Bewertungen einlädt, positiven wie negativen. Eine breite Einladung drückt den Durchschnitt nach oben und zeigt nicht, wer ausgelassen wurde.",
-          "Das Unternehmen antwortet auf 98 % der negativen Bewertungen, meist innerhalb von 24 Stunden, und kann KI für die Antworten nutzen.",
-          "Trustpilot selbst sagt, dass es die Bewertungen nicht einzeln prüft."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "Indikator",
+            "Hostinger-Profil auf Trustpilot, 24. Oktober 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,6 von 5, von der Seite als „Hervorragend“ bezeichnet"
+            ],
+            [
+              "Bewertungen",
+              "73.411"
+            ],
+            [
+              "Fünf Sterne",
+              "63.962 (87,1 %)"
+            ],
+            [
+              "Vier Sterne",
+              "3.143 (4,3 %)"
+            ],
+            [
+              "Drei Sterne",
+              "650 (0,9 %)"
+            ],
+            [
+              "Zwei Sterne",
+              "558 (0,8 %)"
+            ],
+            [
+              "Ein Stern",
+              "5.098 (6,9 %)"
+            ],
+            [
+              "Profil beansprucht",
+              "Ja, seit Mai 2017: Das Unternehmen verwaltet die Seite"
+            ],
+            [
+              "Kostenpflichtiges Trustpilot-Abo",
+              "Ja"
+            ],
+            [
+              "Lädt Kunden zu Bewertungen ein",
+              "Ja, für positive und negative Erfahrungen"
+            ],
+            [
+              "Antwort auf negative Bewertungen",
+              "99 %, meist innerhalb von 24 Stunden"
+            ],
+            [
+              "KI in den Antworten",
+              "Die Seite sagt, dass das Unternehmen KI für Antworten nutzen kann"
+            ],
+            [
+              "Prüfung der Bewertungen",
+              "Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
             "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 73.316 Bewertungen, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
-            "caption": "Hostinger-Profil auf Trustpilot am 19. Oktober 2026. Bild: Screenshot von Bruno.",
+            "caption": "Hostinger-Profil auf Trustpilot am 19. Oktober 2026. Bis zum 24. Oktober war die Gesamtzahl von 73.316 auf 73.411 Bewertungen gestiegen, bei gleicher Bewertung. Bild: Screenshot von Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Bewertungsbalken von Hostinger auf Trustpilot, von fünf bis ein Stern, mit den Prozentangaben",
-            "caption": "Verteilung der Hostinger-Bewertungen auf Trustpilot, abgelesen am 19. Oktober 2026.",
+            "caption": "Verteilung der Hostinger-Bewertungen auf Trustpilot, abgelesen am 19. Oktober 2026. Die Prozentwerte waren am 24. Oktober dieselben.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "Den Text der Einsternbewertungen haben wir nicht gelesen, dieser Text sagt also nicht, worüber sie sich beschweren. Reclame Aqui zeigt Beschwerde und Antwort; Trustpilot zeigt, was Menschen insgesamt denken. Zusammen sind sie aussagekräftiger als jede Quelle allein."
+          "Zwischen unseren beiden Ablesungen haben sich zwei Dinge geändert: Die Gesamtzahl wuchs in fünf Tagen um 95 Bewertungen, und die Antwortquote auf negative Bewertungen stieg von 98 % auf 99 %. Die Prozentwerte pro Stern haben sich nicht bewegt.",
+          "Die Seite zeigt auch die Sprache der Bewertungen: Am 24. Oktober waren 44.546 auf Englisch, 8.744 auf Spanisch, 8.606 auf Portugiesisch und 3.340 auf Französisch. Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
+          "Was die Tabelle nicht zeigt, ist, wer eine Einladung bekommt und wer von sich aus schreibt. Dort beginnt das nächste Kapitel."
         ]
       },
       {
-        "heading": "Reclame Aqui: der Kontext aus Brasilien",
+        "heading": "Drei Lesarten, die die Rechnung ändern",
         "paragraphs": [
-          "Reclame Aqui ist eine öffentliche Beschwerdeplattform in Brasilien. Am 30. September 2026 hatte Hostinger dort eine sehr gute Reputation, mit 8,6 in den letzten 6 Monaten und 8,4 in den letzten 12 Monaten. Das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst. Das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) waren **unberechtigte Abbuchungen**, mit 21,72 %. Die Seite sagt nicht, wie viele dieser Abbuchungen Verlängerungen betreffen; die Verbindung zur automatischen Verlängerung ist also unsere Lesart und keine Zahl der Seite."
+          "Um zu sehen, was hinter der 4,6 steckt, haben wir am 24. Oktober 2026 die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen gelesen, in allen Sprachen. Trustpilot kennzeichnet jede Bewertung als „eingeladen“, wenn die Firma die Anfrage geschickt hat, oder als spontan, wenn die Person von selbst kam. Die Tabelle vergleicht die beiden Gruppen."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Unsere Stichprobe, 24. Oktober 2026",
+            "100 neueste Fünf-Stern-Bewertungen",
+            "100 neueste Ein-Stern-Bewertungen"
+          ],
+          "rows": [
+            [
+              "Erfasster Zeitraum",
+              "19. bis 24. Oktober 2026 (etwa 5 Tage)",
+              "6. bis 24. Oktober 2026 (etwa 18 Tage)"
+            ],
+            [
+              "Von der Firma eingeladen",
+              "78",
+              "8"
+            ],
+            [
+              "Spontan (nicht eingeladen)",
+              "22",
+              "92"
+            ],
+            [
+              "Durchschnittliche Textlänge",
+              "150 Zeichen",
+              "568 Zeichen"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Unsere Lesart: Die Einladung hebt den Schnitt. Die Bewertung misst die Kunden, die eingeladen wurden und geantwortet haben, nicht alle Kunden.",
+          "Zweitens sind Ein-Stern-Bewertungen fast viermal so lang. Sie beschreiben ein konkretes Problem, mit Daten, Produkten und Beträgen. Fünf-Sterne-Bewertungen bestehen meist aus einem Satz.",
+          "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 6,9 % von 73.411 immer noch etwa 5.100 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
         ]
       },
       {
-        "heading": "Warum unberechtigte Abbuchungen beim Hosting ins Gewicht fallen",
+        "heading": "Worüber sich die Leute beschweren",
         "paragraphs": [
-          "Ist die automatische Verlängerung aktiv, wird das Produkt vor Ablauf verlängert und auf das hinterlegte Zahlungsmittel abgebucht. Das Hilfecenter von Hostinger sagt das und erklärt auch, dass sich die Option jederzeit abschalten lässt, ohne den Dienst vor dem Ablaufdatum zu beeinträchtigen.",
-          "Das Abschalten hat aber ein Risiko: Ohne einen anderen Tarif, der bereitsteht, kann die Seite am Ablaufdatum offline gehen. Deshalb empfiehlt das Hilfecenter selbst, die Verlängerung für alle aktiv zu lassen, die weitermachen wollen.",
+          "Nach Abzug der 14 falsch bewerteten Lobe blieben unter den 100 neuesten Ein-Stern-Bewertungen 86 echte Beschwerden übrig. Wir haben Titel und Auszüge gelesen und jede Beschwerde nach Thema eingeordnet; eine Beschwerde kann mehrere Themen haben, die Zählungen sind daher ungefähr. Das sind die Themen, von den meistgenannten zu den seltensten:"
+        ],
+        "bullets": [
+          "**KI-Support und keine Verbindung zu einem Menschen:** etwa 45 von 86. Ein Teil betrifft die KI-Werkzeuge des Website-Baukastens und nicht den Support.",
+          "**Abrechnung, Verlängerung, Erstattungen und Gebühren:** etwa 38. Dazu gehören die Preiserhöhung nach dem Aktionszeitraum, eine nicht erwartete automatische Verlängerung und die Gebühr für die Wiederherstellung einer abgelaufenen Domain (76 Euro in einer Bewertung, 150 in einer anderen).",
+          "**Domains:** etwa 27, mit Sperrung, Übertragung, Registrierung und Wiederherstellung.",
+          "**E-Mail ausgefallen oder nicht erreichbar:** etwa 19.",
+          "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, das 27 Stunden stillstand.",
+          "**Konto oder Dienst ohne klare Erklärung gesperrt:** etwa 16, einige nach einer Rückbuchung.",
+          "**VPS mit CPU-Drosselung:** mindestens 4."
+        ],
+        "postParagraphs": [
+          "Die häufigsten Länder unter den 100 Ein-Stern-Bewertungen waren die Vereinigten Staaten (18), Indien (14), Frankreich (8), das Vereinigte Königreich (6) und die Niederlande (6).",
+          "Trustpilot veröffentlicht selbst eine automatische Zusammenfassung des Profils, von der KI der Seite aus 12.464 Bewertungen erstellt. Als Lob nennt sie stabiles Hosting, einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen und ein für Einsteiger einfaches Panel. Als Beschwerden nennt sie einen stark automatisierten Dienst, bei dem man schwer eine Person erreicht, eine schwierige Kontowiederherstellung, Abrechnung und strenge Regeln bei der Domain-Verlängerung. Das deckt sich mit dem, was wir in der Stichprobe fanden.",
+          "Das erste Thema verdient einen Hinweis. In den Titeln, die wir gelesen haben, wiederholt sich nicht eine falsche Antwort, sondern das Nicht-Durchkommen vom KI-Agenten zu einem Menschen. Unsere Lesart: Für einen Kunden mit ausgefallener Seite ist diese Wartezeit das Problem."
+        ]
+      },
+      {
+        "heading": "Warum Beschwerden über Abrechnung und Verlängerung beim Hosting ins Gewicht fallen",
+        "paragraphs": [
+          "Abrechnung und Verlängerung waren das zweite Thema unserer Stichprobe, etwa 38 von 86 Beschwerden. Beim Hosting hat ein Teil davon einen bekannten Mechanismus. Ist die automatische Verlängerung aktiv, wird das Produkt vor dem Ablauf verlängert und auf das hinterlegte Zahlungsmittel abgebucht. Das Hilfecenter von Hostinger sagt das und erklärt auch, dass sich die Option jederzeit abschalten lässt, ohne den Dienst vor dem Ablaufdatum zu beeinträchtigen.",
+          "Das Abschalten hat aber ein Risiko: Ohne einen bereitstehenden anderen Tarif kann die Seite am Ablaufdatum offline gehen. Deshalb empfiehlt das Hilfecenter selbst, die Verlängerung für alle aktiv zu lassen, die weitermachen wollen.",
           "Die Regeln zum Verlängerungspreis und dazu, was sich nicht kombinieren lässt, stehen im [Artikel über den Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode). Hier geht es um etwas anderes: zu wissen, wo die Option liegt und wie man sie abschaltet."
         ]
       },
@@ -94634,7 +95094,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Hostinger antwortet",
         "paragraphs": [
-          "Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Die Screenshots zeigen die Antwortquote, nicht den Text der Antworten. Dieser Text sagt daher nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen. Bei Reclame Aqui liegt die Quote bei 99,3 % in 6 Monaten, mit 10 Beschwerden, die auf eine Antwort warten."
+          "Auf Trustpilot sagt das Unternehmen, dass es auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort; die sechs ohne Antwort waren alle in den 24 Stunden davor veröffentlicht worden. Die Seite warnt außerdem, dass das Unternehmen KI für Antworten nutzen kann.",
+          "Wir haben die Antworten gezählt und nicht bewertet, daher sagt dieser Text nicht, ob die Antworten das Problem lösen. Lesen Sie vor dem Kauf einige Antworten im Profil, vor allem die zu Abbuchungen und zur fehlenden Erreichbarkeit einer Person."
         ]
       },
       {
@@ -94642,24 +95103,31 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, der diesen Text ebenfalls unterzeichnet, ist seit 2024 Kunde bei Hostinger, mit mehr als 24 Monaten Laufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Die Seite Em Casa com Cecília läuft auf Hostinger.",
           "Jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent, und er hat nie einen Ausfall erlebt.",
-          "Das ist sein Konto, mit seiner Nutzung. Es sagt nichts über Leute, die unerwartet abgebucht wurden, und die Beschwerden bei Reclame Aqui gelten weiterhin."
+          "Das ist sein Konto, mit seiner Nutzung, und es braucht ein ehrliches Gegengewicht: Der KI-Support, der seine Probleme gelöst hat, ist das Thema, das in den Beschwerden, die wir gelesen haben, am häufigsten vorkommt, etwa 45 von 86, auch wenn ein Teil davon die KI-Werkzeuge des Website-Baukastens betrifft. Sein Fall sagt nichts über jemanden aus, der nicht am Agenten vorbeikam, oder über jemanden, der unerwartet abgebucht wurde."
+        ]
+      },
+      {
+        "heading": "Eine zweite Quelle: Reclame Aqui in Brasilien",
+        "paragraphs": [
+          "Reclame Aqui ist Brasiliens öffentliche Beschwerdeplattform, auf der jede Beschwerde und die Antwort des Unternehmens veröffentlicht werden und der Kunde angibt, ob das Problem gelöst wurde. Am 19. Oktober 2026 zeigte das Profil von Hostinger dort die höchste Stufe der Seite („Sehr gut“), mit einer Bewertung von 8,6 in den letzten 6 Monaten und 8,4 in den letzten 12 Monaten; 99,3 % der 1.352 Beschwerden aus diesen 6 Monaten waren beantwortet und 88,6 % als gelöst markiert. Das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) waren unberechtigte Abbuchungen, mit 21,72 %. Das deckt sich mit dem Thema Abrechnung und Verlängerung der Trustpilot-Stichprobe."
         ]
       },
       {
         "heading": "Kann man Hostinger vertrauen?",
         "paragraphs": [
-          "Nach den Zahlen ja. Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) mit 73.316 Bewertungen. Auf Reclame Aqui war die Reputation am 30. September 2026 sehr gut (8,6 in 6 Monaten und 8,4 in 12), und das Unternehmen beantwortete 99,3 % der 1.352 Beschwerden der 6 Monate und markierte 88,6 % als gelöst.",
-          "Die Vorbehalte betreffen, wer die Seite verwaltet und worüber sich die Leute beschweren. Das Trustpilot-Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt, und unberechtigte Abbuchungen führen das Problem-Ranking von Reclame Aqui mit 21,72 % an. Beim Hosting bucht die automatische Verlängerung vor Ablauf von selbst ab, und der Zusammenhang ist unsere Lesart.",
-          "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und öffnen Sie vor dem Kauf beide Profile, denn die Zahlen ändern sich jeden Monat."
+          "Nach Trustpilot ja. Am 24. Oktober 2026 lag die Bewertung bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen, und das Unternehmen antwortete auf 99 % der negativen, also auf 80 der 86 Beschwerden unserer Stichprobe.",
+          "Die Vorbehalte betreffen, wie die Bewertung entsteht und was die Beschwerden sagen. Das Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt: In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Die Beschwerden drehen sich um KI-Support ohne Weg zu einer Person, um Abrechnung und Verlängerung sowie um Domains. Reclame Aqui bestätigt in Brasilien das Thema Abrechnung, mit unberechtigten Abbuchungen an der Spitze des Rankings.",
+          "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und lesen Sie vor dem Kauf einige Ein-Stern-Bewertungen und die Antworten im Profil, denn die Zahlen ändern sich jeden Monat."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat Hostinger gute Bewertungen? Am 19. Oktober 2026 lag die Trustpilot-Bewertung bei 4,6 („Hervorragend“) aus 73.316 Bewertungen. Das Profil verwaltet die Firma selbst, lesen Sie also die Details, bevor Sie entscheiden.",
-          "Gibt es Beschwerden über Hostinger? Ja. Bei Reclame Aqui war das meistgenannte Problem im Gesamtranking (letzte 3 Jahre) die unberechtigte Abbuchung, mit 21,72 %.",
-          "Antwortet Hostinger auf Beschwerden? Ja. Auf Trustpilot sagt das Unternehmen, dass es auf 98 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden. Bei Reclame Aqui wurden 99,3 % der Beschwerden der letzten 6 Monate beantwortet.",
-          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie die drei Punkte beim Produkt, wählen Sie die Verlängerungseinstellungen und deaktivieren Sie die Option. Das Produkt bleibt bis zum Ablauf aktiv."
+          "Wie hoch ist die Trustpilot-Bewertung von Hostinger? Am 24. Oktober 2026 lag der TrustScore bei 4,6 von 5, aus 73.411 Bewertungen, mit 87,1 % Fünf-Sterne- und 6,9 % Ein-Stern-Bewertungen.",
+          "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
+          "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
+          "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
+          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv."
         ]
       },
       {
@@ -94671,7 +95139,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transparenzhinweis",
         "paragraphs": [
-          "Die Trustpilot-Zahlen wurden am 19. Oktober 2026 auf der Profilseite abgelesen. Die Zahlen von Reclame Aqui stammen aus Screenshots desselben Tages: die Reiter für 6 und 12 Monate und das Problemranking (allgemeiner Reiter, letzte 3 Jahre). Der Text des Hilfecenters wurde ebenfalls an diesem Datum gelesen. Diese Zahlen ändern sich jeden Monat, prüfen Sie sie also vor der Entscheidung.",
+          "Die Trustpilot-Zahlen wurden am 19. und 24. Oktober 2026 auf der Profilseite abgelesen; die Screenshots stammen vom 19. Die Stichprobe von 200 Bewertungen (die 100 neuesten Ein-Stern- und die 100 neuesten Fünf-Stern-Bewertungen) wurde am 24. Oktober 2026 gelesen, und die Zählungen nach Thema sind unsere Lesart von Titeln und Auszügen, also ungefähr. Die Zahlen von Reclame Aqui stammen aus Screenshots vom 19. Oktober 2026, mit Daten bis zum 30. September 2026. Der Text des Hilfecenters wurde am 19. Oktober 2026 gelesen. Diese Zahlen ändern sich jeden Monat, prüfen Sie sie also vor der Entscheidung.",
           "Dies ist ein Empfehlungslink: Ein Kauf darüber kann Bruno ein Guthaben bei Hostinger einbringen. Es gibt keine Markenpartnerschaft, und das Guthaben fließt nicht in diese Analyse ein."
         ]
       }
@@ -94706,7 +95174,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-recensioni-trustpilot",
     "locale": "it",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger su Trustpilot: punteggio, reclami e cosa mostrano i numeri",
+    "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni",
     "seoTitle": "Hostinger su Trustpilot: punteggio e reclami",
     "type": "Analisi della reputazione",
     "category": "confianca-reputacao",
@@ -94729,12 +95197,12 @@ export const reviewsData: unknown[] = [
       {
         "name": "Bruno Luiz",
         "slug": "bruno-luiz",
-        "role": "Edição e análise",
+        "role": "Redazione e analisi",
         "initials": "BL"
       }
     ],
-    "description": "Il punteggio della Hostinger su Trustpilot al 19 ottobre 2026: TrustScore 4,6, come leggere la nota e cosa dicono i reclami del Reclame Aqui in Brasile, con come disattivare il rinnovo automatico.",
-    "metaDescription": "Hostinger su Trustpilot: TrustScore 4,6 con 73.316 recensioni al 19 ottobre 2026, perché la nota va letta con cautela e come disattivare il rinnovo automatico.",
+    "description": "Il punteggio della Hostinger su Trustpilot al 24 ottobre 2026: TrustScore 4,6 su 73.411 recensioni, come gli inviti pesano sul numero, cosa dicono 200 recensioni recenti a una e a cinque stelle e come disattivare il rinnovo automatico.",
+    "metaDescription": "Hostinger su Trustpilot al 24 ottobre 2026: TrustScore 4,6 con 73.411 recensioni, di cosa si lamentano 200 recensioni recenti e come disattivare il rinnovo automatico.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94748,135 +95216,162 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, con una riserva. Il 19 ottobre 2026 la Hostinger aveva 4,6 («Eccellente») su Trustpilot, ma il profilo è gestito dall'azienda, che invita i clienti a recensire e così alza la media. Sul Reclame Aqui, in Brasile, la reputazione è ottima e gli addebiti indebiti sono il problema più citato. Più sotto trovi come disattivare il rinnovo automatico."
+          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva TrustScore 4,6 su Trustpilot con 73.411 recensioni, ma l’azienda invita i clienti a recensire, e così alza la media. I reclami riguardano soprattutto il supporto con l’IA, la fatturazione, il rinnovo e i domini. Il capitolo Tre letture che cambiano il conto mostra l’effetto degli inviti."
         ]
       },
       {
-        "heading": "Trustpilot: la nota di chi recensisce",
+        "heading": "Cosa dice il punteggio e cosa non dice",
         "paragraphs": [
-          "Nella lettura del 19 ottobre 2026, la Hostinger aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni. Le cinque stelle sono l'87,1%; una stella, il 6,9%, circa 5 mila recensioni.",
-          "Prima di usare questo numero, guarda cosa mostra la pagina stessa:"
+          "Trustpilot è un sito internazionale di recensioni, e un 4,6 è il punto di partenza. Ma il punteggio riassume molto, e la pagina del profilo stessa dice come è stato costruito. La tabella raccoglie quello che la pagina mostrava il 24 ottobre 2026."
         ],
-        "bullets": [
-          "Il profilo è rivendicato dal maggio 2017, cioè l'azienda gestisce la pagina.",
-          "L'azienda ha un abbonamento a pagamento su Trustpilot.",
-          "La pagina dice che la Hostinger invita i clienti a recensire, sia quelli soddisfatti sia quelli insoddisfatti. Un invito così ampio alza la media e non mostra chi è rimasto fuori.",
-          "L'azienda risponde al 98% delle recensioni negative, di solito entro 24 ore, e può usare l'IA nelle risposte.",
-          "Il Trustpilot stesso dice che non verifica le recensioni una per una."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicatore",
+            "Profilo Hostinger su Trustpilot, 24 ottobre 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,6 su 5, che il sito qualifica come «Eccellente»"
+            ],
+            [
+              "Recensioni",
+              "73.411"
+            ],
+            [
+              "Cinque stelle",
+              "63.962 (87,1%)"
+            ],
+            [
+              "Quattro stelle",
+              "3.143 (4,3%)"
+            ],
+            [
+              "Tre stelle",
+              "650 (0,9%)"
+            ],
+            [
+              "Due stelle",
+              "558 (0,8%)"
+            ],
+            [
+              "Una stella",
+              "5.098 (6,9%)"
+            ],
+            [
+              "Profilo rivendicato",
+              "Sì, dal maggio 2017: l’azienda gestisce la pagina"
+            ],
+            [
+              "Abbonamento a pagamento su Trustpilot",
+              "Sì"
+            ],
+            [
+              "Invita i clienti a recensire",
+              "Sì, sia per le esperienze positive sia per quelle negative"
+            ],
+            [
+              "Risposta alle recensioni negative",
+              "99%, di solito entro 24 ore"
+            ],
+            [
+              "IA nelle risposte",
+              "La pagina dice che l’azienda può usare l’IA nelle sue risposte"
+            ],
+            [
+              "Verifica delle recensioni",
+              "Trustpilot dice che non verifica le recensioni una per una"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 73.316 recensioni, profilo rivendicato, abbonamento a pagamento e l'avviso che l'azienda invita i clienti a recensire",
-            "caption": "Profilo Hostinger su Trustpilot al 19 ottobre 2026. Immagine: screenshot di Bruno.",
+            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 73.316 recensioni, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
+            "caption": "Profilo Hostinger su Trustpilot il 19 ottobre 2026. Entro il 24 ottobre il totale era salito da 73.316 a 73.411 recensioni, con lo stesso punteggio. Immagine: screenshot di Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Barre delle valutazioni Hostinger su Trustpilot, da 5 a 1 stella, con le percentuali",
-            "caption": "Distribuzione delle recensioni Hostinger su Trustpilot, lette il 19 ottobre 2026.",
+            "caption": "Distribuzione delle recensioni Hostinger su Trustpilot, lette il 19 ottobre 2026. Le percentuali erano le stesse il 24 ottobre.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "Non abbiamo letto il testo delle recensioni a una stella, quindi questo testo non dice di cosa si lamentano. Trustpilot mostra in generale cosa pensano le persone; il Reclame Aqui, più sotto, mostra i reclami e le risposte. Insieme dicono più di ciascuno da solo."
-        ]
-      },
-      {
-        "heading": "Reclame Aqui: il contesto del Brasile",
-        "paragraphs": [
-          "Il Reclame Aqui raccoglie reclami pubblici contro le aziende in Brasile. Il 30 settembre 2026, la Hostinger aveva lì una reputazione «Ottima»: nota 8,6 negli ultimi 6 mesi e 8,4 negli ultimi 12. L'azienda ha risposto al 99,3% dei 1.352 reclami dei 6 mesi e ha segnato come risolto l'88,6%.",
-          "Il quadro ha due schede, una per periodo. La tabella riunisce le due schede lette il 19 ottobre 2026, con le date che il sito mostra sotto ciascuna."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Indicatore",
-            "6 mesi (1 aprile - 30 settembre 2026)",
-            "12 mesi (1 ottobre 2025 - 30 settembre 2026)"
-          ],
-          "rows": [
-            [
-              "Reputazione",
-              "Ottima, nota 8,6",
-              "Ottima, nota 8,4"
-            ],
-            [
-              "Reclami ricevuti",
-              "1.352",
-              "2.416"
-            ],
-            [
-              "Risposti",
-              "99,3%",
-              "99,6%"
-            ],
-            [
-              "In attesa di risposta",
-              "10",
-              "10"
-            ],
-            [
-              "Risolti",
-              "88,6%",
-              "87,9%"
-            ],
-            [
-              "Tornerebbero a fare affari",
-              "80,3%",
-              "77,6%"
-            ],
-            [
-              "Reclami valutati",
-              "652",
-              "1.185"
-            ],
-            [
-              "Voto medio del consumatore",
-              "7,71",
-              "7,38"
-            ],
-            [
-              "Tempo medio di risposta",
-              "8 giorni e 1 ora",
-              "7 giorni e 17 ore"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "La reputazione è la stessa nelle due schede. Passando da 6 a 12 mesi, il tasso di risoluzione scende di 0,7 punti e quello di chi tornerebbe scende di 2,7 punti."
+          "Tra le nostre due letture sono cambiate due cose: il totale è cresciuto di 95 recensioni in cinque giorni, e la quota di risposte alle recensioni negative è passata dal 98% al 99%. Le percentuali per stella non si sono mosse.",
+          "La pagina mostra anche la lingua delle recensioni: il 24 ottobre, 44.546 erano in inglese, 8.744 in spagnolo, 8.606 in portoghese e 3.340 in francese. Il punteggio è quindi globale, non l’opinione di un solo mercato.",
+          "Quello che la tabella non mostra è chi riceve l’invito e chi scrive di sua iniziativa. Da lì comincia il capitolo successivo."
         ]
       },
       {
         "heading": "Tre letture che cambiano il conto",
         "paragraphs": [
-          "Primo, tra i reclami valutati, l'80,3% dice che tornerebbe a fare affari nei 6 mesi. Il resto, quasi uno su cinque, non tornerebbe.",
-          "Secondo, meno della metà dei reclami è stata valutata: 652 su 1.352 nei 6 mesi. Il voto medio del consumatore, 7,71, viene solo da quella parte.",
-          "Terzo, la risposta richiede tempo. Il tempo medio nei 6 mesi è stato di 8 giorni e 1 ora. L'azienda risponde quasi a tutto (99,3%), ma chi ha il sito fuori uso non aspetta una settimana.",
-          "Il quadro non mostra nemmeno il numero totale di clienti. Senza quel dato, 1.352 reclami in 6 mesi dicono quanti reclami arrivano, ma non con quale frequenza il problema tocca ogni cliente."
+          "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 abbiamo letto le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Il nostro campione, 24 ottobre 2026",
+            "100 recensioni a cinque stelle più recenti",
+            "100 recensioni a una stella più recenti"
+          ],
+          "rows": [
+            [
+              "Periodo coperto",
+              "dal 19 al 24 ottobre 2026 (circa 5 giorni)",
+              "dal 6 al 24 ottobre 2026 (circa 18 giorni)"
+            ],
+            [
+              "Invitate dall’azienda",
+              "78",
+              "8"
+            ],
+            [
+              "Spontanee (non invitate)",
+              "22",
+              "92"
+            ],
+            [
+              "Lunghezza media del testo",
+              "150 caratteri",
+              "568 caratteri"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. La nostra lettura: l’invito alza la media. Il punteggio misura i clienti che sono stati invitati e hanno risposto, non tutti i clienti.",
+          "Secondo, le recensioni a una stella sono quasi quattro volte più lunghe. Descrivono un problema concreto, con date, prodotti e importi. Quelle a cinque stelle sono di solito una frase.",
+          "Terzo, una recensione a una stella su sette del nostro campione è un elogio con il voto sbagliato: 14 delle 100 hanno un testo positivo, come «Great hosting» o «easy to use», sotto una stella. Anche così, il 6,9% di 73.411 sono circa 5.100 persone molto insoddisfatte. La quota è piccola; il numero di persone no."
         ]
       },
       {
         "heading": "Di cosa si lamentano le persone",
         "paragraphs": [
-          "Nella scheda dei problemi principali, il Reclame Aqui mostra tre classifiche. Valgono per i reclami degli ultimi 3 anni della scheda generale, non solo per i 6 mesi. I numeri sono questi:"
+          "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Abbiamo letto titoli ed estratti e classificato ogni reclamo per tema; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
         ],
         "bullets": [
-          "**Addebiti indebiti:** 21,72%, nella classifica dei problemi. È il problema più citato della lista.",
-          "**Provider e servizi internet:** 24,6%, nella classifica delle categorie. È l'etichetta del profilo di telefonia e internet del Reclame Aqui, e non dice quale servizio della Hostinger ha generato il reclamo.",
-          "**Altro tipo di prodotto/servizio:** 11,95%, nella classifica dei prodotti. Anche questo non dice quale prodotto."
+          "**Supporto con l’IA e impossibilità di parlare con una persona:** circa 45 su 86. Una parte riguarda gli strumenti di IA del costruttore di siti, non il supporto.",
+          "**Fatturazione, rinnovo, rimborsi e commissioni:** circa 38. Include l’aumento di prezzo dopo il periodo promozionale, un rinnovo automatico non atteso e la commissione per recuperare un dominio scaduto (76 euro in una recensione, 150 in un’altra).",
+          "**Domini:** circa 27, tra sospensione, trasferimento, registrazione e recupero.",
+          "**Email non funzionante o irraggiungibile:** circa 19.",
+          "**Sito o VPS fuori uso, o manutenzione senza preavviso:** circa 18, incluso un VPS di produzione fermo per 27 ore.",
+          "**Account o servizio sospeso senza una spiegazione chiara:** circa 16, alcuni dopo uno storno.",
+          "**VPS con limitazione della CPU:** almeno 4."
         ],
         "postParagraphs": [
-          "Il quadro non separa gli addebiti indebiti per motivo, e non dice quanti riguardano il rinnovo. Il legame con il rinnovo automatico è una nostra lettura, ed è da lì che conviene iniziare il controllo."
+          "I paesi più frequenti tra le 100 recensioni a una stella sono stati Stati Uniti (18), India (14), Francia (8), Regno Unito (6) e Paesi Bassi (6).",
+          "Trustpilot pubblica da sé un riepilogo automatico del profilo, generato dall’IA del sito a partire da 12.464 recensioni. Tra i pregi indica un hosting stabile, un supporto utile con operatori umani rapidi sui problemi tecnici e un pannello facile per chi inizia. Tra i reclami indica un servizio molto automatizzato con difficoltà a parlare con una persona, un recupero dell’account difficile, la fatturazione e regole rigide sul rinnovo dei domini. Corrisponde a quello che abbiamo trovato nel campione.",
+          "Il primo tema merita una nota. Nei titoli letti, la lamentela che torna non è una risposta sbagliata, ma non riuscire a superare l’agente IA per arrivare a una persona. La nostra lettura: per un cliente con il sito fuori uso, quell’attesa è il problema."
         ]
       },
       {
-        "heading": "Perché l'addebito indebito pesa nell'hosting",
+        "heading": "Perché i reclami su fatturazione e rinnovo pesano sull’hosting",
         "paragraphs": [
-          "Con il rinnovo automatico attivo, il prodotto viene rinnovato prima della scadenza e addebitato sul metodo di pagamento registrato. Il centro assistenza della Hostinger lo dice, e dice anche che l'opzione può essere disattivata in qualsiasi momento, senza effetti sul servizio fino alla data di scadenza.",
+          "Fatturazione e rinnovo sono stati il secondo tema del nostro campione, circa 38 reclami su 86. Nell’hosting, una parte di questo ha un meccanismo noto. Con il rinnovo automatico attivo, il prodotto si rinnova prima della scadenza e viene addebitato sul metodo di pagamento registrato. Il centro assistenza della Hostinger lo dice, e dice anche che l’opzione può essere disattivata in qualsiasi momento, senza effetti sul servizio fino alla data di scadenza.",
           "Disattivare il rinnovo ha però un rischio: senza un altro piano pronto, il sito può andare offline alla data di scadenza. Per questo il centro assistenza consiglia di tenere il rinnovo attivo a chi intende continuare.",
-          "Le regole sul prezzo del rinnovo e su ciò che non si cumula sono nell'[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Qui il punto è un altro: sapere dove si trova l'opzione e come disattivarla."
+          "Le regole sul prezzo del rinnovo e su ciò che non si cumula sono nell’[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Qui il punto è un altro: sapere dove si trova l’opzione e come disattivarla."
         ]
       },
       {
@@ -94885,57 +95380,66 @@ export const reviewsData: unknown[] = [
           "Secondo il centro assistenza della Hostinger, consultato il 19 ottobre 2026, il percorso è questo:"
         ],
         "bullets": [
-          "Nell'area di fatturazione del tuo account, apri la sezione delle fatture.",
-          "Vai alla sezione dei servizi e trova il prodotto.",
-          "Nel menu del prodotto, scegli le impostazioni di rinnovo.",
+          "Nell’area di fatturazione del tuo account, apri la sezione delle fatture.",
+          "Vai alla lista dei servizi o degli abbonamenti.",
+          "Apri il menu a tre puntini accanto al prodotto.",
+          "Entra nelle impostazioni di rinnovo del prodotto.",
           "Disattiva il rinnovo automatico e salva la modifica."
         ],
         "postParagraphs": [
-          "Con l'opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla serve un metodo di pagamento registrato. Il centro assistenza dice anche che, se il rinnovo è a un giorno o meno dalla scadenza, bisogna rinnovare manualmente prima di riattivare l'opzione. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell'area di fatturazione."
+          "Con l’opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla serve un metodo di pagamento registrato. Il centro assistenza dice anche che, se il rinnovo è a un giorno o meno dalla scadenza, bisogna rinnovare manualmente prima di riattivare l’opzione. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell’area di fatturazione."
         ]
       },
       {
         "heading": "Cosa risponde la Hostinger",
         "paragraphs": [
-          "Le schermate mostrano l'indice di risposta (99,3% nei 6 mesi, con 10 reclami in attesa) e non il testo delle risposte. Quindi questo testo non dice se le risposte risolvono i problemi. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti."
+          "Su Trustpilot l’azienda dice di rispondere al 99% delle recensioni negative, di solito entro 24 ore. Nel nostro campione, 80 degli 86 reclami avevano una risposta; i sei senza risposta erano stati pubblicati nelle 24 ore precedenti. La pagina avverte anche che l’azienda può usare l’IA nelle risposte.",
+          "Abbiamo contato le risposte senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
         ]
       },
       {
         "heading": "La nostra esperienza",
         "paragraphs": [
           "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
-          "Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto l'agente IA, e non ha mai visto un'interruzione del servizio.",
-          "È la sua esperienza, con il suo uso. Non dice nulla di chi si è trovato con un addebito che non si aspettava, e i reclami del Reclame Aqui restano validi."
+          "Ogni volta che ha avuto un problema, l’assistenza l’ha risolto, soprattutto l’agente IA, e non ha mai visto un’interruzione del servizio.",
+          "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami che abbiamo letto, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
+        ]
+      },
+      {
+        "heading": "Una seconda fonte: Reclame Aqui, in Brasile",
+        "paragraphs": [
+          "Il Reclame Aqui è il sito pubblico dei reclami del Brasile, dove ogni reclamo e la risposta dell’azienda vengono pubblicati e il cliente dice se il problema è stato risolto. Il 19 ottobre 2026, il profilo della Hostinger lì mostrava la fascia più alta del sito («Ottima»), con un voto di 8,6 negli ultimi 6 mesi e di 8,4 negli ultimi 12, il 99,3% dei 1.352 reclami dei 6 mesi con risposta e l’88,6% segnato come risolto. Il problema più citato nella classifica generale (ultimi 3 anni) erano gli addebiti indebiti, con il 21,72%. Questo coincide con il tema di fatturazione e rinnovo del campione Trustpilot."
         ]
       },
       {
         "heading": "Ci si può fidare della Hostinger?",
         "paragraphs": [
-          "Dai numeri, sì. Il 19 ottobre 2026 la nota su Trustpilot era 4,6 («Eccellente») su 73.316 recensioni. Sul Reclame Aqui la reputazione era «Ottima» il 30 settembre 2026 (8,6 negli ultimi 6 mesi e 8,4 negli ultimi 12), e l'azienda ha risposto al 99,3% dei 1.352 reclami dei 6 mesi e ha segnato come risolto l'88,6%. L'80,3% di chi ha valutato rifarebbe affari con l'azienda.",
-          "Le riserve sono chi gestisce la pagina e di cosa si lamentano le persone. Il profilo Trustpilot è gestito dall'azienda, che invita i clienti a recensire, e gli addebiti indebiti guidano la classifica dei problemi del Reclame Aqui con il 21,72%, con una risposta media di 8 giorni e 1 ora. Nell'hosting il rinnovo automatico addebita da solo prima della scadenza, e il collegamento tra le due cose è una nostra lettura.",
-          "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e apri entrambi i profili prima di comprare, perché i numeri cambiano ogni mese."
+          "Dai numeri, sì. Il 24 ottobre 2026 il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle, e l’azienda ha risposto al 99% delle negative, cioè a 80 dei 86 reclami del nostro campione.",
+          "Le riserve riguardano il modo in cui il punteggio è costruito e che cosa dicono i reclami. Il profilo è gestito dall’azienda, che invita i clienti a recensire: nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. I reclami si concentrano sul supporto con l’IA senza modo di parlare con una persona, su fatturazione e rinnovo, e sui domini. Il Reclame Aqui, in Brasile, conferma il tema della fatturazione, con gli addebiti indebiti in cima alla sua classifica.",
+          "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e leggi alcune recensioni a una stella e le risposte sul profilo prima di comprare, perché i numeri cambiano ogni mese."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "La Hostinger ha una buona valutazione su Trustpilot? Il 19 ottobre 2026 aveva TrustScore 4,6 («Eccellente») con 73.316 recensioni, e l'87,1% dava cinque stelle.",
-          "Quali sono le lamentele più comuni sulla Hostinger? Nella classifica dei problemi del Reclame Aqui (scheda generale, ultimi 3 anni), gli addebiti indebiti sono al primo posto, con il 21,72%.",
-          "La Hostinger risponde ai reclami? Sì. Secondo Trustpilot, risponde al 98% delle recensioni negative, di solito entro 24 ore. Nel Reclame Aqui, il 99,3% dei reclami dei 6 mesi ha avuto risposta.",
-          "Come disattivare il rinnovo automatico della Hostinger? Nell'area di fatturazione, vai ai servizi, apri le impostazioni di rinnovo del prodotto e disattiva l'opzione di rinnovo automatico. Il prodotto resta attivo fino alla scadenza."
+          "Qual è il punteggio della Hostinger su Trustpilot? Il 24 ottobre 2026 era un TrustScore di 4,6 su 5, da 73.411 recensioni, con l’87,1% di cinque stelle e il 6,9% di una stella.",
+          "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
+          "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
+          "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
+          "Come disattivo il rinnovo automatico della Hostinger? Nell’area di fatturazione, vai ai servizi, apri il menu a tre puntini del prodotto, entra nelle impostazioni di rinnovo, disattiva il rinnovo automatico e salva. Il prodotto resta attivo fino alla scadenza."
         ]
       },
       {
         "heading": "Se hai già deciso",
         "paragraphs": [
-          "Se hai deciso di acquistare, lo sconto del 20% sul primo periodo vale tramite il link di invito, e la pagina della [Hostinger](/it/coupons/hostinger) mostra i dettagli. Lo sconto non si cumula con altri coupon, e il rinnovo torna al prezzo normale del piano, come spiega l'[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) confronta i due prezzi, e l'[articolo sull'affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell'azienda."
+          "Se hai deciso di acquistare, lo sconto del 20% sul primo periodo vale tramite il link di invito, e la pagina della [Hostinger](/it/coupons/hostinger) mostra i dettagli. Lo sconto non si cumula con altri coupon, e il rinnovo torna al prezzo normale del piano, come spiega l’[articolo sul codice invito](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) confronta i due prezzi, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
         ]
       },
       {
         "heading": "Nota di trasparenza",
         "paragraphs": [
-          "I numeri di Trustpilot sono letti il 19 ottobre 2026, come il centro assistenza della Hostinger. Le schede del Reclame Aqui (6 e 12 mesi) e la classifica dei problemi (scheda generale, ultimi 3 anni) sono degli screenshot fatti nella stessa data. Questi numeri cambiano ogni mese, quindi ricontrolla prima di decidere.",
-          "Questo link è di invito: l'acquisto può generare un credito Hostinger per Bruno. Non c'è alcuna partnership di marchio, e il credito non entra nell'analisi."
+          "I numeri di Trustpilot sono stati letti il 19 e il 24 ottobre 2026 sulla pagina del profilo; gli screenshot sono del 19. Il campione di 200 recensioni (le 100 a una stella e le 100 a cinque stelle più recenti) è stato letto il 24 ottobre 2026, e i conteggi per tema sono la nostra lettura di titoli ed estratti, quindi sono approssimativi. I dati del Reclame Aqui vengono da screenshot del 19 ottobre 2026, con dati fino al 30 settembre 2026. Il testo del centro assistenza è stato letto il 19 ottobre 2026. Questi numeri cambiano ogni mese, quindi ricontrolla prima di decidere.",
+          "Questo link è di invito: l’acquisto può generare un credito Hostinger per Bruno. Non c’è alcuna partnership di marchio, e il credito non entra nell’analisi."
         ]
       }
     ],
@@ -94969,8 +95473,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-reviews-ko",
     "locale": "ko",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger Trustpilot 평점, 불만, 그리고 숫자가 보여주는 것",
-    "seoTitle": "Hostinger Trustpilot 평점과 불만",
+    "title": "Hostinger Trustpilot 평점, 불만, 그리고 200건의 리뷰가 보여주는 것",
+    "seoTitle": "Hostinger Trustpilot 리뷰: 평점과 불만",
     "type": "평판 분석",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -94996,8 +95500,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "2026년 10월 19일 기준 Hostinger의 Trustpilot 평점을 정리했습니다. TrustScore 4.6을 어떻게 읽어야 하는지, 브라질 Reclame Aqui의 불만이 무엇을 말하는지, 자동 갱신을 끄는 방법까지 담았습니다.",
-    "metaDescription": "2026년 10월 19일 기준 Hostinger Trustpilot TrustScore 4.6, 리뷰 73,316건. 평점을 신중하게 읽는 법과 자동 갱신을 끄는 방법을 확인하세요.",
+    "description": "2026년 10월 24일 기준 Hostinger의 Trustpilot 평점입니다. 리뷰 73,411건에 TrustScore 4.6, 초대 리뷰가 점수를 어떻게 끌어올리는지, 최신 별 한 개와 별 다섯 개 리뷰 200건이 말하는 내용, 자동 갱신을 끄는 방법을 담았습니다.",
+    "metaDescription": "2026년 10월 24일 기준 Hostinger Trustpilot: TrustScore 4.6, 리뷰 73,411건. 최근 리뷰 200건의 불만과 칭찬, 자동 갱신을 끄는 방법.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -95011,181 +95515,217 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "대체로 믿을 만하지만 단서가 있습니다. 2026년 10월 19일 기준 Hostinger는 Trustpilot에서 4.6(\"Excellent\")이었지만, 프로필은 회사가 직접 관리하고 고객에게 리뷰를 권하기 때문에 평균이 높게 나옵니다. 브라질 Reclame Aqui에서는 평판이 매우 좋고, 가장 많이 언급된 문제는 부당 청구입니다. 자동 갱신을 끄는 방법은 아래를 보세요."
+          "대체로 믿을 만하지만 단서가 있습니다. 2026년 10월 24일 기준 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이지만, 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갑니다. 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 권유가 점수에 어떤 영향을 주는지는 “숫자가 바꾸는 세 가지 읽는 법” 장에서 보여 드립니다."
         ]
       },
       {
-        "heading": "Trustpilot: 리뷰를 남긴 사람들의 평점",
+        "heading": "Trustpilot: 평점이 말하는 것과 말하지 않는 것",
         "paragraphs": [
-          "2026년 10월 19일에 확인한 자료에서 Hostinger는 리뷰 73,316건에 TrustScore 4.6(\"Excellent\")이었습니다. 별 다섯 개는 87.1%, 별 한 개는 6.9%로 약 5천 건입니다.",
-          "이 숫자를 쓰기 전에 페이지가 직접 보여주는 내용부터 확인해 보세요:"
+          "Trustpilot은 국제 리뷰 사이트이고, 4.6은 출발점일 뿐입니다. 하지만 이 점수에는 많은 것이 담겨 있고, 프로필 페이지 자체가 점수가 어떻게 만들어졌는지 알려 줍니다. 아래 표는 2026년 10월 24일 페이지에 나온 내용을 모은 것입니다."
         ],
-        "bullets": [
-          "2017년 5월부터 프로필을 직접 관리하고 있습니다. 즉, 회사가 페이지를 운영합니다.",
-          "회사는 Trustpilot에 유료 구독을 하고 있습니다.",
-          "페이지는 Hostinger가 긍정적인 리뷰와 부정적인 리뷰 모두에 대해 고객에게 리뷰를 권한다고 밝힙니다. 이렇게 폭넓은 권유는 평균을 끌어올리고, 어떤 고객이 빠졌는지는 보여주지 않습니다.",
-          "회사는 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답하고, 답변에 AI를 쓸 수 있다고 합니다.",
-          "Trustpilot 자체도 리뷰를 하나하나 검증하지 않는다고 밝힙니다."
-        ],
+        "comparisonTable": {
+          "headers": [
+            "지표",
+            "Hostinger의 Trustpilot 프로필, 2026년 10월 24일"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "5점 만점에 4.6, 사이트는 “Excellent”로 표시"
+            ],
+            [
+              "리뷰",
+              "73,411"
+            ],
+            [
+              "별 다섯 개",
+              "63,962 (87.1%)"
+            ],
+            [
+              "별 네 개",
+              "3,143 (4.3%)"
+            ],
+            [
+              "별 세 개",
+              "650 (0.9%)"
+            ],
+            [
+              "별 두 개",
+              "558 (0.8%)"
+            ],
+            [
+              "별 한 개",
+              "5,098 (6.9%)"
+            ],
+            [
+              "프로필 인증",
+              "예, 2017년 5월부터. 회사가 페이지를 관리"
+            ],
+            [
+              "Trustpilot 유료 구독",
+              "예"
+            ],
+            [
+              "고객에게 리뷰 권유",
+              "예, 좋은 경험과 나쁜 경험 모두에 대해"
+            ],
+            [
+              "부정적 리뷰 답변",
+              "99%, 보통 24시간 이내"
+            ],
+            [
+              "답변에 AI 사용",
+              "회사가 답변에 AI를 쓸 수 있다고 페이지에 명시"
+            ],
+            [
+              "리뷰 검증",
+              "Trustpilot은 리뷰를 하나하나 확인하지 않는다고 설명"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 리뷰 73,316건, 프로필 인증, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
-            "caption": "2026년 10월 19일 Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
+            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 리뷰 73,316건, 인증된 프로필, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
+            "caption": "2026년 10월 19일 Trustpilot의 Hostinger 프로필. 10월 24일까지 총 리뷰는 73,316건에서 73,411건으로 늘었고, 평점은 같았습니다. 이미지: Bruno가 찍은 화면.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
-            "alt": "Trustpilot에 있는 Hostinger 리뷰 막대. 별 5개부터 1개까지, 비율 표시",
-            "caption": "2026년 10월 19일 확인한 Trustpilot의 Hostinger 리뷰 분포.",
+            "alt": "Trustpilot에 있는 Hostinger 평점 막대. 별 다섯 개부터 한 개까지 비율 표시",
+            "caption": "2026년 10월 19일 화면으로 본 Trustpilot의 Hostinger 리뷰 분포. 10월 24일에도 비율은 같았습니다.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "별 한 개 리뷰의 내용은 읽지 않았으므로, 이 글은 그 리뷰들이 무엇을 불평하는지 말하지 않습니다. Trustpilot은 전반적으로 사람들이 어떻게 생각하는지를 보여주고, 아래에서 볼 Reclame Aqui는 민원과 답변을 보여줍니다. 둘을 함께 보면 하나만 볼 때보다 많은 것이 보입니다."
+          "두 번의 읽기 사이에 바뀐 것은 두 가지입니다. 총 리뷰가 5일 동안 95건 늘었고, 부정적 리뷰에 대한 답변율이 98%에서 99%로 올랐습니다. 별 등급별 비율은 움직이지 않았습니다.",
+          "페이지는 리뷰의 언어도 보여 줍니다. 2026년 10월 24일 기준 영어 44,546건, 스페인어 8,744건, 포르투갈어 8,606건, 프랑스어 3,340건입니다. 즉, 이 점수는 한 시장의 의견이 아니라 전 세계의 숫자입니다.",
+          "표가 보여 주지 않는 것은 누가 초대를 받았고, 누가 스스로 글을 썼는지입니다. 다음 장은 거기서 시작합니다."
         ]
       },
       {
-        "heading": "Reclame Aqui: 브라질의 맥락",
+        "heading": "숫자가 바꾸는 세 가지 읽는 법",
         "paragraphs": [
-          "Reclame Aqui는 브라질에서 기업에 대한 공개 민원을 모으는 사이트입니다. 2026년 9월 30일 기준으로 Hostinger는 여기서 '매우 좋음' 평판이었고, 최근 6개월 점수는 8.6, 최근 12개월 점수는 8.4였습니다. 회사는 6개월 동안 받은 민원 1,352건의 99.3%에 답했고, 88.6%를 해결된 것으로 표시했습니다.",
-          "이 자료는 기간별로 두 개의 탭으로 나뉩니다. 아래 표는 2026년 10월 19일에 본 두 탭을 모은 것이고, 각 탭 아래에 사이트가 표시하는 날짜를 함께 적었습니다."
+          "4.6 뒤에 무엇이 있는지 보려고, 2026년 10월 24일에 모든 언어의 최신 별 한 개 리뷰 100건과 최신 별 다섯 개 리뷰 100건을 읽었습니다. Trustpilot은 각 리뷰에 회사가 요청을 보낸 경우 “Invited”, 본인이 직접 쓴 경우 Organic이라는 표시를 붙입니다. 아래 표는 두 집단을 비교한 것입니다."
         ],
         "comparisonTable": {
           "headers": [
-            "항목",
-            "6개월 (2026년 4월 1일 ~ 9월 30일)",
-            "12개월 (2025년 10월 1일 ~ 2026년 9월 30일)"
+            "우리 표본, 2026년 10월 24일",
+            "최신 별 다섯 개 리뷰 100건",
+            "최신 별 한 개 리뷰 100건"
           ],
           "rows": [
             [
-              "평판",
-              "매우 좋음, 점수 8.6",
-              "매우 좋음, 점수 8.4"
+              "해당 기간",
+              "2026년 10월 19일~24일 (약 5일)",
+              "2026년 10월 6일~24일 (약 18일)"
             ],
             [
-              "받은 민원",
-              "1,352",
-              "2,416"
+              "회사의 초대",
+              "78",
+              "8"
             ],
             [
-              "답변 완료",
-              "99.3%",
-              "99.6%"
+              "자발적 작성 (초대 없음)",
+              "22",
+              "92"
             ],
             [
-              "답변 대기",
-              "10",
-              "10"
-            ],
-            [
-              "해결됨",
-              "88.6%",
-              "87.9%"
-            ],
-            [
-              "다시 거래하겠다고 답함",
-              "80.3%",
-              "77.6%"
-            ],
-            [
-              "평가된 민원",
-              "652",
-              "1,185"
-            ],
-            [
-              "소비자 평균 점수",
-              "7.71",
-              "7.38"
-            ],
-            [
-              "평균 응답 시간",
-              "8일 1시간",
-              "7일 17시간"
+              "평균 본문 길이",
+              "150자",
+              "568자"
             ]
           ]
         },
         "postParagraphs": [
-          "두 탭의 평판은 같습니다. 6개월에서 12개월로 넓히면 해결률은 0.7점 내려가고, 다시 거래하겠다는 비율은 2.7점 내려갑니다."
-        ]
-      },
-      {
-        "heading": "숫자가 바꾸는 세 가지 해석",
-        "paragraphs": [
-          "첫째, 평가된 민원 중 80.3%는 6개월 동안 다시 거래하겠다고 답했습니다. 나머지, 대략 다섯 명 중 한 명은 그렇지 않다는 뜻입니다.",
-          "둘째, 민원의 절반도 평가되지 않았습니다. 6개월 기준 1,352건 중 652건만 평가되었습니다. 소비자 평균 점수 7.71은 바로 그 일부에서만 나온 것입니다.",
-          "셋째, 응답에 시간이 걸립니다. 6개월 평균 응답 시간은 8일 1시간입니다. 회사는 거의 모든 민원(99.3%)에 답하지만, 사이트가 멈춘 사람은 일주일을 기다리지 않습니다.",
-          "이 화면은 회사 전체 고객 수도 보여주지 않습니다. 그 숫자가 없으면 6개월 동안의 민원 1,352건은 회사가 받는 불만의 양을 말할 뿐, 각 고객이 문제를 겪는 빈도는 말해 주지 않습니다."
+          "첫째, 별 다섯 개 리뷰는 훨씬 빨리 쌓이고, 거의 모두 초대로 옵니다. 100건이 약 5일 만에 모였고, 그중 78건이 초대였습니다. 별 한 개 리뷰는 100건을 채우는 데 약 18일이 걸렸고, 92건이 자발적이었습니다. 우리의 해석은 이렇습니다. 초대가 평균을 끌어올립니다. 이 점수는 초대받아 답한 고객을 재는 것이지, 모든 고객을 재는 것이 아닙니다.",
+          "둘째, 별 한 개 리뷰는 거의 4배 깁니다. 날짜, 제품, 금액이 들어간 구체적인 문제를 설명합니다. 별 다섯 개 리뷰는 대개 한 문장입니다.",
+          "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,411건의 6.9%는 약 5,100명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다."
         ]
       },
       {
         "heading": "사람들이 불평하는 내용",
         "paragraphs": [
-          "Reclame Aqui의 주요 문제 탭에는 세 개의 순위가 나옵니다. 6개월만이 아니라 일반 탭의 최근 3년 민원에 해당합니다. 숫자는 다음과 같습니다:"
+          "잘못 매겨진 칭찬 14건을 빼면, 최신 별 한 개 리뷰 100건 중 실제 불만은 86건이 남았습니다. 제목과 발췌 내용을 읽고 주제별로 분류했습니다. 하나의 불만이 여러 주제에 걸칠 수 있어 건수는 대략적입니다. 많이 언급된 순서대로 주제는 다음과 같습니다:"
         ],
         "bullets": [
-          "**부당 청구:** 21.72%, 문제 순위 기준. 목록에서 가장 많이 언급된 문제입니다.",
-          "**인터넷 공급자 및 서비스:** 24.6%, 카테고리 순위 기준. Reclame Aqui의 통신 및 인터넷 프로필 이름이며, 어떤 Hostinger 서비스 때문에 민원이 생겼는지는 알려주지 않습니다.",
-          "**기타 제품/서비스 유형:** 11.95%, 제품 순위 기준. 이 역시 어떤 제품인지는 알려주지 않습니다."
+          "**AI 지원, 사람과 연결되지 않음:** 86건 중 약 45건. 일부는 지원이 아니라 웹사이트 빌더의 AI 도구에 관한 것입니다.",
+          "**청구, 갱신, 환불, 수수료:** 약 38건. 프로모션 기간이 끝난 뒤의 가격 인상, 예상하지 못한 자동 갱신, 만료된 도메인을 되찾는 수수료(한 리뷰는 76유로, 다른 리뷰는 150유로)를 포함합니다.",
+          "**도메인:** 약 27건. 정지, 이전, 등록, 복구에 관한 것입니다.",
+          "**이메일이 안 되거나 연결되지 않음:** 약 19건.",
+          "**사이트 또는 VPS 중단, 사전 공지 없는 점검:** 약 18건. 운영용 VPS가 27시간 멈춘 경우를 포함합니다.",
+          "**설명 없는 계정 또는 서비스 정지:** 약 16건. 일부는 결제 이의 제기(chargeback) 뒤에 생겼습니다.",
+          "**VPS CPU 제한(스로틀링):** 최소 4건."
         ],
         "postParagraphs": [
-          "이 화면은 부당 청구를 사유별로 나누지 않으며, 그중 몇 건이 갱신과 관련된 것인지도 알려주지 않습니다. 자동 갱신과의 연결은 우리의 해석이며, 확인은 그 지점부터 시작하는 것이 좋습니다."
+          "별 한 개 리뷰 100건에서 가장 많이 나온 국가는 미국(18), 인도(14), 프랑스(8), 영국(6), 네덜란드(6)였습니다.",
+          "Trustpilot은 자체적으로 프로필의 자동 요약을 게시합니다. 사이트의 AI가 12,464건의 리뷰로 만든 것입니다. 요약은 칭찬으로 안정적인 호스팅, 기술 문제에 빠르게 응답하는 사람 상담원, 초보자에게 쉬운 패널을 꼽습니다. 불만으로는 지나치게 자동화되어 사람과 연결되기 어려운 서비스, 어려운 계정 복구, 청구, 엄격한 도메인 갱신 규칙을 꼽습니다. 우리 표본에서 본 것과 일치합니다.",
+          "첫 번째 주제에는 설명이 필요합니다. 우리가 읽은 제목에서 반복되는 불만은 잘못된 답변이 아니라, AI 에이전트를 넘어 사람에게 닿지 못한다는 것이었습니다. 우리의 해석으로는 사이트가 멈춘 고객에게 그 기다림이 바로 문제입니다."
         ]
       },
       {
-        "heading": "호스팅에서 부당 청구가 중요한 이유",
+        "heading": "호스팅에서 청구와 갱신 불만이 무거운 이유",
         "paragraphs": [
-          "자동 갱신이 켜져 있으면 제품은 만료 전에 갱신되고, 등록된 결제 수단으로 청구됩니다. Hostinger 도움말 센터도 이렇게 설명하며, 이 옵션은 언제든 끌 수 있고 만료일까지는 서비스에 영향이 없다고 밝힙니다.",
-          "다만 갱신을 끄는 데는 위험도 있습니다. 준비된 다른 요금제가 없으면 만료일에 사이트가 멈출 수 있습니다. 그래서 도움말 센터는 계속 이용할 생각이라면 갱신을 켜 두라고 권합니다.",
-          "갱신 가격과 중복 적용되지 않는 규칙은 [추천 코드 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 여기서는 다른 점, 즉 옵션이 어디 있고 어떻게 끄는지를 다룹니다."
+          "청구와 갱신은 표본에서 두 번째로 많은 주제였고, 86건 중 약 38건이었습니다. 호스팅에서는 그중 일부에 알려진 원리가 있습니다. 자동 갱신이 켜져 있으면 제품은 만료 전에 갱신되고, 등록된 결제 수단으로 청구됩니다. Hostinger 도움말 센터도 그렇게 설명하며, 이 옵션은 언제든 끌 수 있고 만료일까지는 서비스에 영향이 없다고 밝힙니다.",
+          "갱신을 끄는 데도 위험이 있습니다. 다른 요금제를 준비하지 않은 상태라면 만료일에 사이트가 오프라인이 될 수 있습니다. 그래서 도움말 센터 자체가 계속 이용할 사람에게는 갱신을 켜 두라고 권합니다.",
+          "갱신 가격과 중복 적용되지 않는 규칙은 [추천 코드 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 여기서는 다른 점, 즉 옵션이 어디에 있고 어떻게 끄는지를 다룹니다."
         ]
       },
       {
         "heading": "자동 갱신을 끄는 방법",
         "paragraphs": [
-          "2026년 10월 19일에 확인한 Hostinger 도움말 센터에 따르면 경로는 다음과 같습니다:"
+          "2026년 10월 19일에 확인한 Hostinger 도움말 센터에 따르면 절차는 다음과 같습니다:"
         ],
         "bullets": [
-          "계정의 청구 관련 영역으로 들어갑니다.",
-          "서비스 페이지에서 해당 제품을 찾습니다.",
-          "제품 옆의 메뉴를 열고 갱신 관련 설정을 고릅니다.",
-          "자동 갱신 옵션을 해제하고 저장합니다."
+          "계정의 청구 관련 영역에서 인보이스(청구서) 섹션을 엽니다.",
+          "서비스 또는 구독 목록으로 갑니다.",
+          "해당 제품 옆의 점 세 개 메뉴를 엽니다.",
+          "그 제품의 갱신 설정으로 갑니다.",
+          "자동 갱신을 끄고 변경 사항을 저장합니다."
         ],
         "postParagraphs": [
-          "옵션을 끄면 제품은 만료일까지 계속 활성 상태입니다. 다시 켜려면 결제 수단이 등록되어 있어야 합니다. 도움말 센터는 또한 갱신일이 하루 이내로 남았다면, 옵션을 다시 켜기 전에 수동으로 갱신해야 한다고 설명합니다. 메뉴 이름은 바뀔 수 있으니, 바뀌었다면 청구 영역에서 자동 갱신 설정을 찾아보세요."
+          "옵션을 끄면 제품은 만료일까지 계속 활성 상태입니다. 다시 켜려면 결제 수단이 등록되어 있어야 합니다. 도움말 센터는 또한 갱신일이 하루 이내로 남았다면, 옵션을 다시 켜기 전에 수동으로 갱신해야 한다고 설명합니다. 메뉴 이름은 바뀔 수 있으니, 달라졌다면 청구 영역에서 자동 갱신 설정을 찾아보세요."
         ]
       },
       {
         "heading": "Hostinger의 답변",
         "paragraphs": [
-          "화면에는 답변 비율(6개월 99.3%, 답변 대기 10건)이 나오지만 답변 내용은 나오지 않습니다. 따라서 이 글은 답변이 문제를 해결하는지 말하지 않습니다. 계약 전에 프로필에서 몇 가지 답변을 읽어 보세요. 특히 청구와 관련된 답변을 확인하는 것이 좋습니다."
+          "회사는 부정적 리뷰의 99%에 답하며, 보통 24시간 이내라고 말합니다. 우리 표본에서는 86건의 불만 중 80건에 답변이 있었습니다. 답변이 없던 6건은 모두 직전 24시간 안에 올라온 글이었습니다. 페이지는 또한 회사가 답변에 AI를 쓸 수 있다고 경고합니다.",
+          "우리는 답변의 비율을 셌을 뿐 답변의 질을 평가하지는 않았으므로, 이 글은 답변이 문제를 해결하는지 말하지 않습니다. 구매 전에 프로필에서 몇 가지 답변을 읽어 보세요. 특히 청구와 사람에게 연결되는 문제에 관한 답변을 확인하세요."
         ]
       },
       {
         "heading": "우리의 경험",
         "paragraphs": [
-          "이 글을 함께 쓴 Bruno는 2024년부터 Hostinger 고객이며, 구독 기간은 24개월 이상입니다. Business 호스팅, VPS KVM 2, Business 이메일과 도메인을 쓰고 있으며, 모두 자동 갱신입니다. Em Casa com Cecília 사이트도 Hostinger에서 운영됩니다.",
-          "문제가 생길 때마다 지원팀이 해결해 주었고, 특히 AI 에이전트가 큰 도움이 되었다고 합니다. 서비스가 중단된 적은 한 번도 없었습니다.",
-          "이것은 그의 계정이고 그의 사용 방식입니다. 예상하지 못한 청구를 겪은 사람에 대해서는 아무것도 말해 주지 않으며, Reclame Aqui의 민원은 여전히 유효합니다."
+          "이 글을 함께 쓴 Bruno는 2024년부터 Hostinger 고객이며, 24개월이 넘었습니다. Business 호스팅, KVM 2 VPS, Business 이메일과 도메인을 쓰고 있고, 모두 자동 갱신입니다. Em Casa com Cecília 사이트도 Hostinger에서 운영됩니다.",
+          "문제가 생길 때마다 지원팀, 특히 AI 에이전트가 해결해 주었습니다. 서비스가 중단된 적은 한 번도 없었다고 합니다.",
+          "이것은 그의 계정이고 그의 사용 방식입니다. 솔직한 반론도 필요합니다. 우리가 읽은 불만에서 가장 많이 나온 주제는 AI 지원이며, 86건 중 약 45건입니다. 일부는 웹사이트 빌더의 AI 도구에 관한 것이지만, 여전히 큰 비중입니다. 그의 경험은 에이전트를 넘어 사람과 연결되지 못한 사람이나, 예상하지 못한 청구를 받은 사람에 대해서는 아무것도 말해 주지 않습니다."
+        ]
+      },
+      {
+        "heading": "두 번째 출처: 브라질의 Reclame Aqui",
+        "paragraphs": [
+          "Reclame Aqui는 브라질의 공개 민원 사이트입니다. 각 민원과 회사의 답변이 공개되고, 고객은 해결되었는지 여부를 밝힙니다. 2026년 10월 19일에 본 Hostinger 프로필(데이터는 2026년 9월 30일까지)은 최상위 평판 등급인 “Great”(매우 좋음)였고, 최근 6개월 점수 8.6, 12개월 점수 8.4였습니다. 최근 6개월에 접수된 민원 1,352건의 99.3%에 답변했고, 88.6%가 해결된 것으로 표시되었습니다. 전체 탭(최근 3년)에서 가장 많이 언급된 문제는 부당 청구로 21.72%였습니다. 이는 Trustpilot 표본의 청구·갱신 주제와 일치합니다."
         ]
       },
       {
         "heading": "Hostinger를 믿어도 될까요?",
         "paragraphs": [
-          "숫자로 보면 그렇습니다. 2026년 10월 19일 Trustpilot 점수는 73,316건의 리뷰에 4.6(\"Excellent\")이었습니다. Reclame Aqui에서는 2026년 9월 30일 기준 평판이 '매우 좋음'(6개월 8.6, 12개월 8.4)이었고, 회사는 6개월 동안 받은 민원 1,352건의 99.3%에 답하고 88.6%를 해결된 것으로 표시했습니다. 평가한 사람의 80.3%는 다시 거래하겠다고 답했습니다.",
-          "단서는 누가 페이지를 관리하는지, 사람들이 무엇에 불평하는지입니다. Trustpilot 프로필은 고객에게 리뷰를 권하는 회사가 직접 관리하고, Reclame Aqui 문제 순위에서는 부당 청구가 21.72%로 가장 많으며 평균 답변 시간은 8일 1시간입니다. 호스팅에서는 자동 갱신이 만료 전에 알아서 청구되는데, 둘을 연결하는 것은 저희의 해석입니다.",
-          "실제로는 갱신일을 확인하고, 계속 쓰지 않을 거라면 자동 갱신을 끄고, 구매 전에 두 프로필을 모두 열어 보세요. 숫자는 매달 바뀝니다."
+          "Trustpilot 기준으로는 그렇습니다. 2026년 10월 24일 점수는 리뷰 73,411건에 4.6이었고, 그중 87.1%가 별 다섯 개였습니다. 회사는 부정적 리뷰의 99%에 답했고, 우리 표본의 86건 불만 중 80건에 답했습니다.",
+          "단서는 점수가 어떻게 만들어졌는지, 그리고 사람들이 무엇에 불만을 갖는지입니다. 프로필은 회사가 관리하며, 회사는 고객에게 리뷰를 권합니다. 표본에서 최신 별 다섯 개 100건 중 78건은 초대받은 리뷰였고, 최신 별 한 개 100건 중 92건은 자발적이었습니다. 불만은 사람에게 닿지 않는 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 브라질의 Reclame Aqui도 청구 주제를 확인해 줍니다. 부당 청구가 순위 맨 위에 있습니다.",
+          "실제로는 이렇게 하세요. 갱신일을 확인하고, 계속 쓰지 않을 생각이면 자동 갱신을 끄고, 구매 전에 별 한 개 리뷰와 프로필의 답변을 몇 개 읽어 보세요. 숫자는 매달 바뀌기 때문입니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Hostinger는 Trustpilot에서 평점이 좋은가요? 2026년 10월 19일 기준 TrustScore 4.6(\"Excellent\")에 리뷰 73,316건이며, 87.1%가 별 다섯 개를 주었습니다.",
-          "Hostinger에 가장 흔한 불만은 무엇인가요? Reclame Aqui 문제 순위(일반 탭, 최근 3년)에서 부당 청구가 21.72%로 가장 많이 언급되었습니다.",
-          "Hostinger는 불만에 답하나요? 네. Trustpilot에 따르면 부정적인 리뷰의 98%에 답하며, 보통 24시간 안에 답합니다. Reclame Aqui에서는 6개월 민원의 99.3%에 답변이 달렸습니다.",
-          "Hostinger 자동 갱신은 어떻게 끄나요? 청구 영역에서 제품의 서비스 설정으로 가서 자동 갱신 옵션을 해제하고 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
+          "Hostinger의 Trustpilot 평점은 어떤가요? 2026년 10월 24일 기준 TrustScore는 5점 만점에 4.6이고 리뷰는 73,411건, 별 다섯 개 87.1%, 별 한 개 6.9%였습니다.",
+          "Hostinger의 Trustpilot 리뷰는 믿을 만한가요? 프로필은 회사가 인증하고 관리하며, 회사는 고객에게 리뷰를 권합니다. 표본에서 최신 별 다섯 개 100건 중 78건은 초대받은 리뷰였고, 최신 별 한 개 100건 중 92건은 자발적이었습니다. Trustpilot은 리뷰를 하나하나 검증하지 않는다고 말합니다.",
+          "Hostinger 고객들은 Trustpilot에서 무엇에 불만을 갖나요? 최신 별 한 개 리뷰 100건 중 읽은 86건의 불만에서 주요 주제는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이었습니다.",
+          "Hostinger는 부정적 리뷰에 답하나요? 네. 페이지에 따르면 부정적 리뷰의 99%에 답하며, 보통 24시간 이내입니다. 페이지는 답변에 AI를 쓸 수도 있다고 경고합니다. 표본에서는 86건 중 80건에 답변이 있었습니다.",
+          "Hostinger 자동 갱신은 어떻게 끄나요? 계정의 청구 영역에서 서비스로 가서 제품 옆의 점 세 개 메뉴를 열고, 갱신 설정에서 자동 갱신을 끈 뒤 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
         ]
       },
       {
@@ -95197,8 +95737,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "투명성 안내",
         "paragraphs": [
-          "Trustpilot 숫자와 Hostinger 도움말 센터는 2026년 10월 19일에 확인했습니다. Reclame Aqui의 6개월, 12개월 탭과 문제 순위(일반 탭, 최근 3년)는 같은 날 찍은 화면입니다. 이 숫자는 매달 바뀌므로 결정하기 전에 다시 확인하세요.",
-          "이 링크는 추천 링크입니다. 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있습니다. 브랜드 제휴는 없으며, 이 크레딧은 분석에 영향을 주지 않습니다."
+          "Trustpilot 수치는 2026년 10월 19일과 24일에 프로필 페이지에서 읽었습니다. 스크린샷은 10월 19일의 것입니다. 200건의 표본(최신 별 한 개 100건과 최신 별 다섯 개 100건)은 2026년 10월 24일에 읽었습니다. 주제별 건수는 제목과 발췌문을 읽은 우리의 해석이므로 대략적인 수치입니다. Reclame Aqui 수치는 2026년 10월 19일에 찍은 스크린샷에서 가져왔고, 데이터는 2026년 9월 30일까지입니다. 도움말 센터 내용은 2026년 10월 19일에 읽었습니다. 이 수치는 매달 바뀌므로 결정하기 전에 다시 확인하세요.",
+          "이 링크는 추천 링크입니다. 이 링크로 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있습니다. 브랜드와의 제휴는 없으며, 이 크레딧은 분석에 영향을 주지 않습니다."
         ]
       }
     ],
@@ -95232,7 +95772,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-reviews-ja",
     "locale": "ja",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger の Trustpilot 評価、苦情、数字が示すこと",
+    "title": "Hostinger の Trustpilot 評価、苦情、200 件のレビューが示すこと",
     "seoTitle": "Hostinger の Trustpilot 評価と苦情",
     "type": "評判分析",
     "category": "confianca-reputacao",
@@ -95259,8 +95799,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "2026年10月19日時点の Hostinger の Trustpilot 評価をまとめました。TrustScore 4.6 の読み方、ブラジルの Reclame Aqui が示す苦情の中身、自動更新を止める方法を取り上げます。",
-    "metaDescription": "2026年10月19日時点の Hostinger の Trustpilot は TrustScore 4.6、レビュー 73,316 件。評価を慎重に読む方法と、自動更新を止める手順を紹介します。",
+    "description": "2026年10月24日時点の Hostinger の Trustpilot 評価です。TrustScore 4.6（レビュー 73,411 件）、招待されたレビューがスコアをどう押し上げるか、直近の星 1 つと星 5 つのレビュー 200 件が何を言っているか、自動更新の止め方をまとめました。",
+    "metaDescription": "2026年10月24日時点の Hostinger の Trustpilot は TrustScore 4.6、レビュー 73,411 件。直近 200 件の苦情と評価、自動更新を止める手順を紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -95274,135 +95814,162 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "おおむね信頼できますが、注意点があります。Trustpilotでは4.6（「Excellent」）ですが、プロフィールは企業が管理し、顧客にレビューを呼びかけています。Reclame Aquiの評判は非常に良く、最多の問題は不当な請求です。自動更新の止め方は下をご覧ください。"
+          "おおむね信頼できますが、注意点があります。2026年10月24日時点で Trustpilot の TrustScore は 4.6、レビューは 73,411 件でした。ただし企業が顧客にレビューを呼びかけているため平均が押し上げられており、苦情の中心は AI サポート、請求と更新、ドメインです。招待がスコアをどう動かしているかは「数字が変わる三つの読み方」の章で示します。"
         ]
       },
       {
-        "heading": "Trustpilot: レビューを書いた人たちの評価",
+        "heading": "Trustpilot: 4.6 が示すことと示さないこと",
         "paragraphs": [
-          "2026年10月19日に確認した時点で、Hostinger は 73,316 件のレビューで TrustScore 4.6（「Excellent」）でした。星 5 つは 87.1%、星 1 つは 6.9%、約 5,000 件です。",
-          "この数字を使う前に、ページ自体が示している内容を確認してください："
+          "Trustpilot は国際的なレビューサイトで、4.6 は出発点にすぎません。ただし、この数字には多くのことが詰まっていて、プロフィールのページ自体が数字の作られ方を説明しています。下の表は 2026年10月24日にページに表示されていた内容をまとめたものです。"
         ],
-        "bullets": [
-          "2017年5月からプロフィールが請求済みで、企業がこのページを管理しています。",
-          "企業は Trustpilot の有料プランを契約しています。",
-          "ページには、Hostinger が良い評価にも悪い評価にも関係なく、顧客にレビューを書くよう呼びかけていると記されています。これほど広い呼びかけは平均を押し上げ、対象から外れた顧客を見えなくします。",
-          "企業は否定的なレビューの 98% に返信しており、多くは 24 時間以内で、返信には AI を使うこともあるとしています。",
-          "Trustpilot 自体も、レビューを一件ずつ確認しているわけではないと述べています。"
-        ],
+        "comparisonTable": {
+          "headers": [
+            "指標",
+            "Hostinger の Trustpilot プロフィール、2026年10月24日"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.6（5点満点）、サイトによる評価は「Excellent」"
+            ],
+            [
+              "レビュー数",
+              "73,411"
+            ],
+            [
+              "星 5 つ",
+              "63,962（87.1%）"
+            ],
+            [
+              "星 4 つ",
+              "3,143（4.3%）"
+            ],
+            [
+              "星 3 つ",
+              "650（0.9%）"
+            ],
+            [
+              "星 2 つ",
+              "558（0.8%）"
+            ],
+            [
+              "星 1 つ",
+              "5,098（6.9%）"
+            ],
+            [
+              "プロフィールの請求",
+              "済み。2017年5月から、企業がページを管理"
+            ],
+            [
+              "Trustpilot の有料契約",
+              "あり"
+            ],
+            [
+              "顧客へのレビュー依頼",
+              "あり。良い経験にも悪い経験にも呼びかけ"
+            ],
+            [
+              "否定的なレビューへの返信",
+              "99%、多くは 24 時間以内"
+            ],
+            [
+              "返信での AI の利用",
+              "ページには、返信に AI を使うことがあると記載"
+            ],
+            [
+              "レビューの確認",
+              "Trustpilot は一件ずつは確認していないと説明"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、レビュー 73,316 件、請求済みプロフィール、有料プラン、企業が顧客にレビューを呼びかける表示",
-            "caption": "2026年10月19日の Trustpilot の Hostinger プロフィール。画像：Bruno が撮ったスクリーンショット。",
+            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、レビュー 73,316 件、請求済みプロフィール、有料契約、企業が顧客にレビューを呼びかける表示",
+            "caption": "2026年10月19日の Trustpilot の Hostinger プロフィール。10月24日までに総数は 73,316 件から 73,411 件に増え、評価は同じでした。画像：Bruno のスクリーンショット。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
-            "alt": "Trustpilot の Hostinger のレビュー分布。星 5 つから 1 つまでのバーと割合",
-            "caption": "2026年10月19日に確認した Trustpilot の Hostinger のレビュー分布。",
+            "alt": "Trustpilot の Hostinger の評価棒グラフ。星 5 つから 1 つまで、割合つき",
+            "caption": "2026年10月19日のスクリーンショットによる Trustpilot の Hostinger のレビュー分布。10月24日も割合は同じでした。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "星 1 つのレビューの本文は読んでいないので、この記事ではそれらが何に不満を持っているかは言えません。Trustpilot は全体として人々がどう感じているかを示し、下で扱う Reclame Aqui は苦情と返信を示します。両方を合わせると、どちらか一方だけより多くのことが分かります。"
+          "2 回の読み取りの間に変わったことは二つです。総数は 5 日間で 95 件増え、否定的なレビューへの返信率は 98% から 99% になりました。星の数ごとの割合は動いていません。",
+          "ページには、レビューの言語も示されています。2026年10月24日時点で、英語 44,546 件、スペイン語 8,744 件、ポルトガル語 8,606 件、フランス語 3,340 件でした。つまり、この評価は一つの市場の意見ではなく、世界全体の数字です。",
+          "表が示さないのは、誰が招待されたか、誰が自分から書いたかです。次の章では、そこから話を始めます。"
         ]
       },
       {
-        "heading": "Reclame Aqui: ブラジルの文脈",
+        "heading": "数字が変わる三つの読み方",
         "paragraphs": [
-          "Reclame Aqui は、ブラジルの企業に対する公開された苦情を集めるサイトです。2026年9月30日の時点で、Hostinger はここで「非常に良い」の評判で、直近 6 か月のスコアは 8.6、直近 12 か月は 8.4 でした。企業は 6 か月間に届いた 1,352 件の苦情の 99.3% に返信し、88.6% を解決済みにしています。",
-          "この資料は期間ごとに二つのタブに分かれています。下の表は 2026年10月19日に見た二つのタブをまとめたもので、各タブの下にサイトが示す日付を添えました。"
+          "4.6 の裏側を見るため、2026年10月24日に、全言語の直近の星 1 つのレビュー 100 件と、直近の星 5 つのレビュー 100 件を読みました。Trustpilot は各レビューに、企業が依頼を送った「Invited」か、本人が自発的に書いた「Organic」かの表示を付けています。表は二つのグループを比べたものです。"
         ],
         "comparisonTable": {
           "headers": [
-            "項目",
-            "6 か月（2026年4月1日～9月30日）",
-            "12 か月（2025年10月1日～2026年9月30日）"
+            "私たちの抽出、2026年10月24日",
+            "直近の星 5 つのレビュー 100 件",
+            "直近の星 1 つのレビュー 100 件"
           ],
           "rows": [
             [
-              "評判",
-              "非常に良い、スコア 8.6",
-              "非常に良い、スコア 8.4"
+              "対象期間",
+              "2026年10月19日～24日（約 5 日）",
+              "2026年10月6日～24日（約 18 日）"
             ],
             [
-              "受け付けた苦情",
-              "1,352",
-              "2,416"
+              "企業からの招待",
+              "78",
+              "8"
             ],
             [
-              "返信済み",
-              "99.3%",
-              "99.6%"
+              "自発的（招待なし）",
+              "22",
+              "92"
             ],
             [
-              "返信待ち",
-              "10",
-              "10"
-            ],
-            [
-              "解決済み",
-              "88.6%",
-              "87.9%"
-            ],
-            [
-              "再び取引したいと回答",
-              "80.3%",
-              "77.6%"
-            ],
-            [
-              "評価された苦情",
-              "652",
-              "1,185"
-            ],
-            [
-              "消費者の平均評価",
-              "7.71",
-              "7.38"
-            ],
-            [
-              "平均返信時間",
-              "8日1時間",
-              "7日17時間"
+              "本文の平均文字数",
+              "150 文字",
+              "568 文字"
             ]
           ]
         },
         "postParagraphs": [
-          "二つのタブの評判は同じです。6 か月から 12 か月に広げると、解決率は 0.7 ポイント下がり、再び取引したいという割合は 2.7 ポイント下がります。"
-        ]
-      },
-      {
-        "heading": "数字が見方を変える三つのポイント",
-        "paragraphs": [
-          "一つ目。評価された苦情のうち 80.3% は、6 か月の間に再び取引したいと答えています。残りの、ほぼ 5 人に 1 人は、そうは思っていないということです。",
-          "二つ目。評価されたのは苦情の半分以下です。6 か月では 1,352 件中 652 件でした。消費者の平均評価 7.71 は、その一部だけから出た数字です。",
-          "三つ目。返信には時間がかかります。6 か月の平均返信時間は 8日1時間でした。企業はほぼすべて（99.3%）に返信していますが、サイトが止まっている人は一週間も待てません。",
-          "この画面には、企業の顧客総数も出ていません。その数字がなければ、6 か月の 1,352 件は企業が受ける苦情の量を示すだけで、顧客ごとにその問題がどれくらい起きるかは分かりません。"
+          "一つ目。星 5 つのレビューは、ずっと速く届き、しかもほとんどが招待によるものです。100 件は約 5 日で集まり、そのうち 78 件が招待でした。星 1 つは 100 件を集めるのに約 18 日かかり、92 件が自発的でした。私たちの読みでは、招待が平均を押し上げています。この評価が測っているのは招待を受けて答えた人であって、すべての顧客ではありません。",
+          "二つ目。星 1 つのレビューは、ほぼ 4 倍の長さです。日付、製品、金額を挙げた具体的な問題が書かれています。星 5 つのレビューは、たいてい一文です。",
+          "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,411 件の 6.9% は約 5,100 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。"
         ]
       },
       {
         "heading": "人々が不満に感じていること",
         "paragraphs": [
-          "Reclame Aqui の主な問題のタブには、三つのランキングが出ています。6 か月だけでなく、全体タブの過去 3 年分の苦情について示されたものです。数字は次のとおりです："
+          "誤って星 1 つを付けられた称賛 14 件を除くと、直近の星 1 つのレビュー 100 件の中に、本物の苦情が 86 件残りました。タイトルと抜粋を読み、テーマごとに分類しました。一つの苦情が複数のテーマにまたがることもあるため、件数はおおよそです。多く挙げられた順に、テーマは次のとおりです："
         ],
         "bullets": [
-          "**不当な請求:** 21.72%。問題別ランキングで、リストの中で最も多く挙げられています。",
-          "**インターネットプロバイダー・サービス:** 24.6%。カテゴリー別ランキングで、Reclame Aqui の通信・インターネットのプロフィール名です。どの Hostinger のサービスで苦情が出たかは示されていません。",
-          "**その他の製品・サービス:** 11.95%。製品別ランキングで、これもどの製品かは示されていません。"
+          "**AI サポートと、人に繋がらないこと:** 86 件中約 45 件。一部は、サイトビルダーの AI ツールに関するもので、サポートそのものではありません。",
+          "**請求、更新、返金、手数料:** 約 38 件。プロモーション期間後の値上げ、想定していなかった自動更新、期限切れドメインの回復手数料（一件は 76 ユーロ、別の一件は 150 ユーロ）を含みます。",
+          "**ドメイン:** 約 27 件。停止、移管、登録、回復に関するものです。",
+          "**メールが使えない、届かない:** 約 19 件。",
+          "**サイトまたは VPS の停止、予告のないメンテナンス:** 約 18 件。本番用 VPS が 27 時間止まったケースを含みます。",
+          "**説明のないアカウントまたはサービスの停止:** 約 16 件。チャージバック後のケースもあります。",
+          "**VPS の CPU 制限:** 少なくとも 4 件。"
         ],
         "postParagraphs": [
-          "この画面では、不当な請求が理由別に分けられていません。そのうち何件が更新に関わるものかも分かりません。自動更新との関係は私たちの読み方であり、確認はそこから始めるのが良いと考えます。"
+          "星 1 つのレビュー 100 件で最も多かった国は、アメリカ（18）、インド（14）、フランス（8）、イギリス（6）、オランダ（6）でした。",
+          "Trustpilot 自身も、プロフィールの自動要約を掲載しています。これはサイトの AI が 12,464 件のレビューから作ったものです。要約は、称賛として安定したホスティング、技術的な問題に素早く対応する人間のサポート、初心者にも使いやすいパネルを挙げています。苦情としては、自動化されすぎていて人に繋がりにくいこと、アカウントの回復が難しいこと、請求、ドメインの更新に関する厳しい規則を挙げています。私たちのサンプルで見たことと一致します。",
+          "最初のテーマには補足が必要です。読んだタイトルで繰り返し出てくる苦情は、誤った回答ではなく、AI エージェントを越えて人に繋がらないというものでした。私たちの読みでは、サイトが止まっている顧客にとって、その待ち時間こそが問題です。"
         ]
       },
       {
-        "heading": "ホスティングで不当な請求が重い理由",
+        "heading": "ホスティングで請求と更新の苦情が重い理由",
         "paragraphs": [
-          "自動更新が有効な場合、製品は期限前に更新され、登録された支払い方法に請求されます。Hostinger のヘルプセンターもこう説明しています。さらに、このオプションはいつでも無効にでき、期限日まではサービスに影響がないとも書かれています。",
-          "ただし、更新を止めることにはリスクもあります。すぐに使える別のプランがない場合、期限日にサイトが止まることがあります。そのためヘルプセンターは、今後も使い続けるつもりなら更新を有効にしておくよう勧めています。",
-          "更新料金や、併用できないルールについては [紹介コードの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ここでは別の点、つまりオプションがどこにあり、どう止めるかを扱います。"
+          "請求と更新は、サンプルで二番目に多いテーマで、86 件中約 38 件でした。ホスティングでは、その一部に既知の仕組みがあります。自動更新が有効だと、製品は期限切れの前に更新され、登録済みの支払い方法に請求されます。Hostinger のヘルプセンターもそう説明しており、このオプションはいつでも無効にでき、期限日までサービスには影響しないとも書いています。",
+          "更新を止めることにもリスクがあります。別のプランを用意しないままだと、期限日にサイトがオフラインになることがあります。そのため、今後も続けるつもりの人には、ヘルプセンター自身が更新を有効にしておくよう勧めています。",
+          "更新料金と併用できないルールについては、[紹介リンクの記事](/ja/reviews/hostinger-referral-code-ja)をご覧ください。ここで扱うのは別の点です。オプションがどこにあり、どう止めるかを知ることです。"
         ]
       },
       {
@@ -95411,45 +95978,53 @@ export const reviewsData: unknown[] = [
           "2026年10月19日に確認した Hostinger のヘルプセンターによると、手順は次のとおりです："
         ],
         "bullets": [
-          "hPanel で請求書（支払い）の画面を開きます。",
-          "契約しているサービスの一覧に進みます。",
-          "製品の横にある三つの点（⋮）をクリックします。",
-          "更新に関する設定を選びます。",
-          "自動更新のチェックを外して、保存します。"
+          "hPanel のアカウントの請求関連の画面で、請求書（インボイス）のセクションを開きます。",
+          "契約しているサービスまたはサブスクリプションの一覧に進みます。",
+          "製品の横にある三つの点のメニューを開きます。",
+          "その製品の更新設定に進みます。",
+          "自動更新をオフにして、変更を保存します。"
         ],
         "postParagraphs": [
-          "オプションを無効にすると、製品は期限日まで有効なままです。再び有効にするには、支払い方法の登録が必要です。ヘルプセンターはまた、更新日が 1 日以内に迫っている場合は、オプションを再び有効にする前に手動で更新する必要があると説明しています。メニュー名は変わることがあるので、見つからなければ請求関連の画面で自動更新の設定を探してください。"
+          "オプションを無効にすると、製品は期限日まで有効なままです。再び有効にするには、支払い方法の登録が必要です。ヘルプセンターはまた、更新日まで 1 日以内の場合は、オプションを再び有効にする前に手動で更新する必要があると説明しています。メニュー名は変わることがあるので、見つからなければ請求関連の画面で自動更新の設定を探してください。"
         ]
       },
       {
         "heading": "Hostinger の返信について",
         "paragraphs": [
-          "画面に出ているのは返信率（6 か月で 99.3%、返信待ちが 10 件）で、返信の本文は出ていません。そのため、この記事では返信が問題を解決しているかどうかは言えません。契約する前に、プロフィールでいくつか返信を読んでみてください。特に請求に関するものを確認するのがおすすめです。"
+          "同社は、否定的なレビューの 99% に返信し、多くは 24 時間以内だとしています。私たちのサンプルでは、86 件の苦情のうち 80 件に返信がありました。返信がなかった 6 件は、すべて直前の 24 時間以内に投稿されたものでした。ページは、返信に AI を使うことがあるとも警告しています。",
+          "返信の中身は採点していないので、この文章では、返信が問題を解決しているかどうかは言えません。契約の前に、プロフィールでいくつか返信を読んでみてください。特に、請求と、人に繋がるかどうかに関する返信がおすすめです。"
         ]
       },
       {
         "heading": "私たちの経験",
         "paragraphs": [
-          "この記事も書いている Bruno は、2024年から Hostinger の顧客で、契約期間は 24 か月を超えています。Business ホスティング、VPS KVM 2、Business メール、ドメインを使っており、すべて自動更新です。Em Casa com Cecília のサイトも Hostinger で動いています。",
-          "問題が起きるたびにサポートが解決してくれました。特に AI エージェントが助けになったそうです。サービスが止まったことは一度もありません。",
-          "これは彼のアカウントであり、彼の使い方での話です。予期しない請求を受けた人については何も言えませんし、Reclame Aqui の苦情は今も有効です。"
+          "この文章も署名している Bruno は、2024年から Hostinger の顧客で、24 か月以上になります。Business ホスティング、KVM 2 の VPS、Business メール、ドメインを使っており、すべて自動更新です。Em Casa com Cecília のサイトも Hostinger で動いています。",
+          "問題が起きるたびに、サポートが解決してくれました。主に AI エージェントです。サービスが止まったことは一度もありません。",
+          "これは彼のアカウントであり、彼の使い方の話です。ここには正直な反論が必要です。私たちが読んだ苦情で最も多いテーマは AI サポートで、86 件中約 45 件です。一部はサイトビルダーの AI ツールに関するものですが、それでも大きな割合を占めます。彼の経験は、エージェントを越えて人に繋がれなかった人や、予期しない請求を受けた人については何も示していません。"
         ]
       },
       {
-        "heading": "Hostingerは信頼できますか？",
+        "heading": "第二の情報源: ブラジルの Reclame Aqui",
         "paragraphs": [
-          "数字で見れば、信頼できると言えます。2026年10月19日の Trustpilot のスコアは 73,316 件のレビューで 4.6（「Excellent」）でした。Reclame Aqui では、2026年9月30日の時点で評判は「非常に良い」（6 か月は 8.6、12 か月は 8.4）で、企業は 6 か月間の苦情 1,352 件の 99.3% に返信し、88.6% を解決済みにしています。評価した人の 80.3% は、再び取引したいと答えています。",
-          "注意点は、ページを誰が管理しているかと、人々が何に不満を持っているかです。Trustpilot のプロフィールは顧客にレビューを呼びかけている企業自身が管理しており、Reclame Aqui の問題ランキングでは不当な請求が 21.72% で最多、平均返信時間は 8日1時間です。ホスティングでは自動更新が期限前に自動で請求するため、この二つを結びつけるのは私たちの読み方です。",
-          "実際には、更新日を確認し、続けるつもりがなければ自動更新を止め、購入前に両方のプロフィールを開いてください。数字は毎月変わります。"
+          "Reclame Aqui は、ブラジルの公開苦情サイトです。各苦情と企業の返信が公開され、顧客は問題が解決したかどうかを答えます。2026年10月19日に確認した Hostinger のプロフィール（データは 2026年9月30日まで）では、最上位の評判「Great」（非常に良い）で、直近 6 か月のスコアは 8.6、直近 12 か月は 8.4 でした。直近 6 か月の 1,352 件の苦情の 99.3% に返信があり、88.6% が解決済みとされていました。全体タブ（過去 3 年）で最も多く挙げられた問題は不当な請求で、21.72% でした。これは Trustpilot のサンプルの請求と更新のテーマと一致します。"
+        ]
+      },
+      {
+        "heading": "Hostinger は信頼できますか？",
+        "paragraphs": [
+          "Trustpilot の数字で見れば、はいと言えます。2026年10月24日時点で、スコアは 73,411 件のレビューで 4.6 でした。その 87.1% が星 5 つで、企業は否定的なレビューの 99% に返信しています。サンプルの 86 件の苦情のうち 80 件には返信がありました。",
+          "注意点は、スコアの作られ方と、苦情の内容です。プロフィールは企業が管理し、企業は顧客にレビューを呼びかけています。サンプルでは、直近の星 5 つの 100 件のうち 78 件が招待によるもので、直近の星 1 つの 100 件のうち 92 件は自発的でした。苦情は、人に繋がらない AI サポート、請求と更新、ドメインに集中しています。ブラジルの Reclame Aqui も、請求のテーマを裏付けています。不当な請求が、ランキングの最上位にあります。",
+          "実際には、更新日を確認し、続けるつもりがなければ自動更新をオフにして、購入の前に星 1 つのレビューとプロフィールの返信をいくつか読んでください。数字は毎月変わるからです。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostinger の Trustpilot 評価は良いですか？2026年10月19日時点で TrustScore 4.6（「Excellent」）、レビュー 73,316 件で、87.1% が星 5 つです。",
-          "Hostinger によくある不満は何ですか？Reclame Aqui の問題別ランキング（全体タブ、過去 3 年）では、不当な請求が 21.72% で最も多く挙げられています。",
-          "Hostinger は苦情に返信しますか？はい。Trustpilot によると否定的なレビューの 98% に返信し、多くは 24 時間以内です。Reclame Aqui では、6 か月の苦情の 99.3% に返信があります。",
-          "Hostinger の自動更新はどう止めますか？hPanel の請求関連の画面を開き、サービスの一覧で製品の横のメニューから更新設定を選んで、自動更新を切って保存します。製品は期限日まで有効なままです。"
+          "Hostinger の Trustpilot 評価はいくつですか？2026年10月24日時点で、TrustScore は 5 点満点中 4.6、レビューは 73,411 件で、星 5 つが 87.1%、星 1 つが 6.9% でした。",
+          "Hostinger の Trustpilot のレビューは信頼できますか？プロフィールは企業が請求し管理しており、顧客にレビューを呼びかけています。サンプルでは、直近の星 5 つの 100 件のうち 78 件が招待によるもので、直近の星 1 つの 100 件のうち 92 件は自発的でした。Trustpilot は、一件ずつは確認していないと説明しています。",
+          "Hostinger の顧客は Trustpilot で何に不満を持っていますか？直近の星 1 つのレビュー 100 件から読んだ 86 件の苦情では、主なテーマは AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）でした。",
+          "Hostinger は否定的なレビューに返信しますか？はい。ページによると、否定的なレビューの 99% に返信し、多くは 24 時間以内です。ページは、返信に AI を使う場合もあると警告しています。サンプルでは、86 件中 80 件の苦情に返信がありました。",
+          "Hostinger の自動更新はどう止めますか？アカウントの請求関連の画面でサービスに進み、製品の横の三つの点のメニューを開いて、更新設定で自動更新をオフにして保存します。製品は期限日まで有効なままです。"
         ]
       },
       {
@@ -95461,8 +96036,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "透明性について",
         "paragraphs": [
-          "Trustpilot の数字と Hostinger のヘルプセンターは 2026年10月19日に確認しました。Reclame Aqui の 6 か月と 12 か月のタブ、問題ランキング（全体タブ、過去 3 年）は同じ日に撮ったスクリーンショットです。これらの数字は毎月変わるので、決める前にもう一度確認してください。",
-          "このリンクは紹介リンクです。購入すると、Bruno に Hostinger のクレジットが付くことがあります。ブランドのパートナーシップはなく、このクレジットは分析には影響しません。"
+          "Trustpilot の数字は 2026年10月19日と 24日に、プロフィールのページから読み取りました。スクリーンショットは 10月19日のものです。200 件のサンプル（直近の星 1 つ 100 件と直近の星 5 つ 100 件）は 2026年10月24日に読みました。テーマの件数はタイトルと抜粋を読んだ私たちの読みなので、おおよその数字です。Reclame Aqui の数字は 2026年10月19日に撮ったスクリーンショットによるもので、データは 2026年9月30日までです。ヘルプセンターの文章は 2026年10月19日に読みました。これらの数字は毎月変わるので、決める前にもう一度確認してください。",
+          "このリンクは紹介リンクです。購入すると、Bruno に Hostinger のクレジットが付くことがあります。ブランドとの提携はなく、このクレジットは分析には影響しません。"
         ]
       }
     ],
@@ -95496,8 +96071,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-reviews-zh-hant",
     "locale": "zh-hant",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger 在 Trustpilot 的評分、投訴，以及數字說明了什麼",
-    "seoTitle": "Hostinger Trustpilot 評分與投訴",
+    "title": "Hostinger 在 Trustpilot 的評分、投訴，以及 200 則評價說明了什麼",
+    "seoTitle": "Hostinger Trustpilot 評價：評分與投訴",
     "type": "口碑分析",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -95523,8 +96098,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "整理 2026 年 10 月 19 日 Hostinger 在 Trustpilot 的評分：怎樣讀懂 TrustScore 4.6，巴西 Reclame Aqui 的投訴說明了什麼，以及如何關閉自動續訂。",
-    "metaDescription": "2026 年 10 月 19 日 Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,316 則評價。了解如何謹慎看待這個分數，並學會關閉自動續訂。",
+    "description": "2026 年 10 月 24 日 Hostinger 在 Trustpilot 的評分：TrustScore 為 4.6，共 73,411 則評價；邀請評價如何拉高分數；最近 200 則一星與五星評價在說什麼；以及如何關閉自動續訂。",
+    "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 則評價。了解最近 200 則評價的抱怨與好評，並學會關閉自動續訂。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -95538,181 +96113,217 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速結論",
         "paragraphs": [
-          "整體可以信賴，但有一點要注意。截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上是 4.6（\"Excellent\"），但個人檔案由公司自己管理並邀請客戶評價，平均分會偏高。在巴西的 Reclame Aqui 上口碑很好，被提到最多的問題是不當扣款。關閉自動續訂的方法見下文。"
+          "整體可以信賴，但要留意一點。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，但公司會邀請客戶評價，平均分因此被拉高。投訴主要集中在 AI 客服、帳單與續訂以及網域。邀請如何改變分數，請看「改變判斷的三種讀法」一章。"
         ]
       },
       {
-        "heading": "Trustpilot：留下評價的人怎麼看",
+        "heading": "Trustpilot：分數說明了什麼，沒有說明什麼",
         "paragraphs": [
-          "在 2026 年 10 月 19 日的記錄中，Hostinger 在 Trustpilot 有 73,316 則評價，TrustScore 為 4.6（\"Excellent\"）。五星評價佔 87.1%，一星評價佔 6.9%，約 5 千則。",
-          "在使用這個數字之前，先看看頁面本身顯示了什麼："
+          "Trustpilot 是國際評價網站，4.6 只是一個起點。這個分數包含很多資訊，而個人檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 10 月 24 日頁面上顯示的內容。"
         ],
-        "bullets": [
-          "個人檔案自 2017 年 5 月起已由公司認領，也就是說，這個頁面由公司管理。",
-          "公司付費訂閱了 Trustpilot。",
-          "頁面寫明，Hostinger 會邀請客戶留下評價，無論是正面還是負面的。邀請範圍這麼廣，會拉高平均分，也看不見沒有被邀請的人。",
-          "公司回覆了 98% 的負面評價，通常在 24 小時內，並可能在回覆中使用 AI。",
-          "Trustpilot 本身也說明，它不會逐一核實每則評價。"
-        ],
+        "comparisonTable": {
+          "headers": [
+            "指標",
+            "Hostinger 的 Trustpilot 檔案，2026 年 10 月 24 日"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.6（滿分 5 分），網站標示為“Excellent”"
+            ],
+            [
+              "評價數",
+              "73,411"
+            ],
+            [
+              "五星",
+              "63,962（87.1%）"
+            ],
+            [
+              "四星",
+              "3,143（4.3%）"
+            ],
+            [
+              "三星",
+              "650（0.9%）"
+            ],
+            [
+              "二星",
+              "558（0.8%）"
+            ],
+            [
+              "一星",
+              "5,098（6.9%）"
+            ],
+            [
+              "檔案已認領",
+              "是，自 2017 年 5 月起由公司管理"
+            ],
+            [
+              "Trustpilot 付費訂閱",
+              "是"
+            ],
+            [
+              "邀請客戶評價",
+              "是，好評和差評都會邀請"
+            ],
+            [
+              "回覆負面評價",
+              "99%，通常在 24 小時內"
+            ],
+            [
+              "回覆中使用 AI",
+              "頁面寫明公司可能在回覆中使用 AI"
+            ],
+            [
+              "評價查核",
+              "Trustpilot 稱不會逐則核實評價"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示評分 4.6、73,316 則評價、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
-            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
+            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、73,316 則評價、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 個人檔案。到 10 月 24 日，總數從 73,316 則增加到 73,411 則，分數不變。圖片：Bruno 截取的畫面。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
             "alt": "Trustpilot 上 Hostinger 的評價長條圖，由 5 星到 1 星，並標示百分比",
-            "caption": "2026 年 10 月 19 日讀取的 Trustpilot 上 Hostinger 評價分布。",
+            "caption": "2026 年 10 月 19 日讀取的 Trustpilot 上 Hostinger 評價分布。10 月 24 日百分比相同。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "我們沒有閱讀一星評價的內容，所以本文不說明它們在抱怨什麼。Trustpilot 反映的是人們整體的感受；下文的 Reclame Aqui 則顯示投訴和回覆。兩者合起來看，比只看其中一個更完整。"
+          "兩次讀取之間有兩處變化：總數在五天內增加了 95 則，對負面評價的回覆率從 98% 升到 99%。各星級的百分比沒有變化。",
+          "頁面還顯示了評價的語言。2026 年 10 月 24 日，英語 44,546 則，西班牙語 8,744 則，葡萄牙語 8,606 則，法語 3,340 則。所以這個分數是全球性的，不是某一個市場的意見。",
+          "表格沒有顯示的是，誰受到了邀請，誰是自發寫評價的。下一章就從這裡開始。"
         ]
       },
       {
-        "heading": "Reclame Aqui：巴西的背景",
+        "heading": "改變判斷的三種讀法",
         "paragraphs": [
-          "Reclame Aqui 是在巴西收集公開投訴的網站。截至 2026 年 9 月 30 日，Hostinger 在那裡的口碑為「非常好」，最近 6 個月的分數是 8.6，最近 12 個月是 8.4。公司回覆了 6 個月內 1,352 則投訴的 99.3%，並把 88.6% 標示為已解決。",
-          "這份資料按時段分成兩個分頁。下表整理的是 2026 年 10 月 19 日查看的兩個分頁，每個分頁下方都附上了網站顯示的日期。"
+          "為了看清 4.6 背後的情況，我們於 2026 年 10 月 24 日閱讀了各語言中最近的 100 則一星評價和最近的 100 則五星評價。Trustpilot 會把每則評價標示為「Invited」（公司發出邀請）或 Organic（用戶自發）。下表比較了這兩組。"
         ],
         "comparisonTable": {
           "headers": [
-            "項目",
-            "6 個月（2026 年 4 月 1 日至 9 月 30 日）",
-            "12 個月（2025 年 10 月 1 日至 2026 年 9 月 30 日）"
+            "我們的樣本，2026 年 10 月 24 日",
+            "最近 100 則五星評價",
+            "最近 100 則一星評價"
           ],
           "rows": [
             [
-              "口碑",
-              "非常好，分數 8.6",
-              "非常好，分數 8.4"
+              "涵蓋時段",
+              "2026 年 10 月 19 日至 24 日（約 5 天）",
+              "2026 年 10 月 6 日至 24 日（約 18 天）"
             ],
             [
-              "收到的投訴",
-              "1,352",
-              "2,416"
+              "公司邀請",
+              "78",
+              "8"
             ],
             [
-              "已回覆",
-              "99.3%",
-              "99.6%"
+              "自發（未受邀）",
+              "22",
+              "92"
             ],
             [
-              "等待回覆",
-              "10",
-              "10"
-            ],
-            [
-              "已解決",
-              "88.6%",
-              "87.9%"
-            ],
-            [
-              "表示會再次交易",
-              "80.3%",
-              "77.6%"
-            ],
-            [
-              "已評價的投訴",
-              "652",
-              "1,185"
-            ],
-            [
-              "消費者平均評分",
-              "7.71",
-              "7.38"
-            ],
-            [
-              "平均回覆時間",
-              "8 天 1 小時",
-              "7 天 17 小時"
+              "平均文字長度",
+              "150 字元",
+              "568 字元"
             ]
           ]
         },
         "postParagraphs": [
-          "兩個分頁的口碑相同。從 6 個月延長到 12 個月，解決率下降 0.7 個百分點，會再次交易的比例下降 2.7 個百分點。"
-        ]
-      },
-      {
-        "heading": "三個能改變判斷的讀法",
-        "paragraphs": [
-          "第一，在被評價的投訴中，80.3% 表示 6 個月內會再次交易。其餘的，大約每五人中有一人不會再交易。",
-          "第二，被評價的投訴不到一半：6 個月內 1,352 則中只有 652 則。消費者平均評分 7.71 只來自這一部分。",
-          "第三，回覆需要時間。6 個月內的平均回覆時間是 8 天 1 小時。公司幾乎回覆了所有投訴（99.3%），但網站停止運作的人，不會等一個星期。",
-          "這份資料也沒有顯示公司的客戶總數。沒有這個數字，6 個月的 1,352 則投訴只能說明公司收到多少投訴，卻不能說明每位客戶遇到這個問題的頻率。"
+          "第一，五星評價來得快得多，而且幾乎都是受邀的。100 則在約 5 天內就湊齊了，其中 78 則是受邀的。一星評價用了約 18 天才湊夠 100 則，其中 92 則是自發的。我們的看法是：邀請拉高了平均分。這個分數衡量的是受邀並回應的人，而不是所有客戶。",
+          "第二，一星評價的篇幅幾乎是五星的四倍。它們描述的是具體問題，包括日期、產品和金額。五星評價通常只有一句話。",
+          "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如“Great hosting”或“easy to use”，卻只給了一星。即便如此，73,411 則的 6.9% 仍然約有 5,100 人非常不滿。比例很小，人數卻不小。"
         ]
       },
       {
         "heading": "人們在抱怨什麼",
         "paragraphs": [
-          "在主要問題的分頁中，Reclame Aqui 顯示了三個排行。它們涵蓋的是總覽分頁中過去 3 年的投訴，而不只是 6 個月。數字如下："
+          "剔除這 14 則給錯星的好評後，最近的 100 則一星評價中還剩 86 則真實投訴。我們閱讀了標題和摘要，依主題標示了每則投訴。一則投訴可能涉及多個主題，所以數量是近似值。依被提及次數從多到少，主題如下："
         ],
         "bullets": [
-          "**不當扣款：** 21.72%，在問題排行中。是清單中被提到最多的問題。",
-          "**網際網路供應商及服務：** 24.6%，在類別排行中。這是 Reclame Aqui 電信與網路個人檔案的名稱，並沒有說明是 Hostinger 的哪項服務引起投訴。",
-          "**其他類型的產品或服務：** 11.95%，在產品排行中。同樣沒有說明是哪種產品。"
+          "**AI 客服，無法找到真人：** 86 則中約 45 則。其中一部分說的是網站搭建工具的 AI 功能，而不是客服本身。",
+          "**帳單、續訂、退款和費用：** 約 38 則。包括優惠期結束後漲價、客戶沒想到的自動續訂，以及找回過期網域的費用（一則評價說是 76 歐元，另一則是 150 歐元）。",
+          "**網域：** 約 27 則，涉及暫停、轉移、註冊和找回。",
+          "**電郵無法使用或打不開：** 約 19 則。",
+          "**網站或 VPS 當機，或未經通知維護：** 約 18 則，其中包括一台正式環境的 VPS 停機 27 小時。",
+          "**帳戶或服務被暫停且沒有明確說明：** 約 16 則，其中一些是在拒付（chargeback）之後發生的。",
+          "**VPS CPU 被限制（throttling）：** 至少 4 則。"
         ],
         "postParagraphs": [
-          "這個畫面沒有把不當扣款按原因區分，也沒有說明其中有多少與續訂有關。與自動續訂的關聯是我們的解讀，查證應該從這裡開始。"
+          "在 100 則一星評價中，最常見的國家是美國（18）、印度（14）、法國（8）、英國（6）和荷蘭（6）。",
+          "Trustpilot 自己會發布檔案的自動摘要，由網站的 AI 根據 12,464 則評價生成。摘要列出的好評包括：託管服務穩定；遇到技術問題時有反應快的人工客服，幫助很大；面板對新手很友善。列出的抱怨包括：服務過於自動化，很難找到真人；帳戶復原困難；帳單問題；網域續期規則嚴格。這與我們在樣本中看到的情況是一致的。",
+          "第一個主題需要稍作說明。我們讀到的標題中反覆出現的抱怨，不是回答錯了，而是繞不過 AI 代理找到真人。我們的看法是：對於網站已經當機的客戶來說，這段等待才是問題所在。"
         ]
       },
       {
-        "heading": "為什麼不當扣款在主機服務中特別重要",
+        "heading": "為什麼帳單和續訂投訴對主機服務影響大",
         "paragraphs": [
-          "自動續訂開啟時，產品會在到期前續訂，並以登記的付款方式扣款。Hostinger 的幫助中心也是這樣說明的；它還表示，這個選項可以隨時關閉，在到期日之前不會影響服務。",
-          "不過，關閉續訂也有風險。如果沒有另外準備好的方案，網站可能在到期日停止運作。因此，幫助中心建議：若打算繼續使用，就應保持續訂開啟。",
-          "續訂價格和不可疊加的規則，請參閱[推薦碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。這裡要說的是另一件事：這個選項在哪裡，以及如何關閉。"
+          "帳單和續訂是樣本中的第二大主題，86 則裡約有 38 則。對主機服務來說，其中一部分有已知的機制。開啟自動續訂後，產品會在到期前續訂，並以登記的付款方式扣款。Hostinger 的幫助中心也是這樣說明的，並表示這個選項可以隨時關閉，在到期日之前不會影響服務。",
+          "關閉續訂也有風險。如果沒有另外準備好的方案，網站可能在到期日停止運作。因此，幫助中心本身建議：打算繼續使用的人，應保持續訂開啟。",
+          "續訂價格以及不能疊加的規則，請參閱[推薦連結文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。這裡要談的是另一件事：這個選項在哪裡，以及怎樣關閉。"
         ]
       },
       {
         "heading": "如何關閉自動續訂",
         "paragraphs": [
-          "根據 2026 年 10 月 19 日查閱的 Hostinger 幫助中心，步驟大致如下："
+          "根據 2026 年 10 月 19 日查閱的 Hostinger 幫助中心，步驟如下："
         ],
         "bullets": [
-          "在 hPanel 找到帳單相關的區域，進入服務或訂閱頁面。",
-          "點擊產品旁邊的選單按鈕（三個點）。",
-          "進入續訂設定。",
-          "取消自動續訂的勾選，然後儲存。"
+          "在 hPanel 的帳單相關區域，打開發票（invoices）頁面。",
+          "進入服務或訂閱清單。",
+          "點擊產品旁邊的三點選單。",
+          "進入該產品的續訂設定。",
+          "關閉自動續訂並儲存變更。"
         ],
         "postParagraphs": [
-          "關閉此選項後，產品會保持有效直到到期日。要重新開啟，必須有已登記的付款方式。幫助中心也說明，如果續訂日距今只剩一天或更短，必須先手動續訂，才能重新開啟此選項。介面名稱可能會改變，若有改變，請在帳單相關區域尋找自動續訂的設定。"
+          "關閉此選項後，產品會保持有效直到到期日。要重新開啟，必須有已登記的付款方式。幫助中心還說明，如果續訂日距今只剩一天或更短，必須先手動續訂，才能重新開啟此選項。選單名稱可能會變，如果找不到，請在帳單相關區域尋找自動續訂設定。"
         ]
       },
       {
         "heading": "Hostinger 如何回覆",
         "paragraphs": [
-          "畫面顯示的是回覆率（6 個月 99.3%，10 則投訴等待回覆），而不是回覆的內容。因此，本文無法說明這些回覆是否能解決問題。簽約前，請在個人檔案中閱讀幾則回覆，特別是涉及扣款的回覆。"
+          "公司表示會回覆 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴裡有 80 則得到了回覆。沒有回覆的 6 則都是在此前 24 小時內發布的。頁面還提醒，公司可能在回覆中使用 AI。",
+          "我們只統計了回覆率，沒有評價回覆的品質，所以本文無法說明這些回覆是否解決了問題。購買前，請在檔案上讀幾則回覆，尤其是關於帳單和能否找到真人的。"
         ]
       },
       {
         "heading": "我們的經驗",
         "paragraphs": [
-          "同時也是本文作者的 Bruno，自 2024 年起就是 Hostinger 的客戶，訂閱時間超過 24 個月：使用 Business 主機、一台 VPS KVM 2、Business 電郵和網域，全部都是自動續訂。Em Casa com Cecília 網站也運行在 Hostinger 上。",
-          "每次遇到問題，客服都會解決，尤其是 AI 客服代理。他從未遇過服務中斷。",
-          "這是他個人的帳戶，也是他個人的使用方式。它無法說明那些遇到意外扣款的人的情況，Reclame Aqui 的投訴依然有效。"
+          "與本文共同署名的 Bruno 自 2024 年起就是 Hostinger 的客戶，已超過 24 個月：使用 Business 主機、一台 KVM 2 VPS、Business 電郵和網域，全部開啟自動續訂。Em Casa com Cecília 網站也運行在 Hostinger 上。",
+          "每次遇到問題，客服都幫他解決了，主要是 AI 客服代理。他說從未遇過服務當機。",
+          "這是他的帳戶，也是他的使用方式。需要一個誠實的反面意見：我們讀到的投訴中，最常出現的主題就是 AI 客服，86 則中約有 45 則，即便其中一部分涉及網站搭建工具的 AI 功能。他的經歷無法說明那些無法繞過代理、或是被意外扣款的人的情況。"
+        ]
+      },
+      {
+        "heading": "第二個來源：巴西的 Reclame Aqui",
+        "paragraphs": [
+          "Reclame Aqui 是巴西的公開投訴網站，每則投訴和公司的回覆都會公開，消費者會說明問題是否已解決。2026 年 10 月 19 日查看的 Hostinger 檔案（資料截至 2026 年 9 月 30 日）顯示，它的口碑處於最高等級「Great」（非常好），最近 6 個月的分數是 8.6，最近 12 個月是 8.4。公司回覆了這 6 個月內 1,352 則投訴的 99.3%，並把 88.6% 標示為已解決。在總覽分頁（過去 3 年）中，被提及最多的問題是不當扣款，佔 21.72%。這與 Trustpilot 樣本中的帳單和續訂主題相吻合。"
         ]
       },
       {
         "heading": "可以信任 Hostinger 嗎？",
         "paragraphs": [
-          "從數字看，可以。2026 年 10 月 19 日，Trustpilot 分數為 4.6（\"Excellent\"），共 73,316 則評價。在 Reclame Aqui 上，截至 2026 年 9 月 30 日口碑為「非常好」（6 個月 8.6，12 個月 8.4），公司回覆了 6 個月內 1,352 則投訴的 99.3%，並把 88.6% 標示為已解決。參與評價的人中，80.3% 表示願意再次交易。",
-          "需要留意的是頁面由誰管理，以及人們在抱怨什麼。Trustpilot 個人檔案由邀請客戶評價的公司自己管理；在 Reclame Aqui 的問題排行中，不當扣款佔 21.72%，居首位，平均回覆時間為 8 天 1 小時。在主機服務中，自動續訂會在到期前自動扣款，把兩者聯繫起來是我們的解讀。",
-          "實際操作：確認續訂日期，不打算繼續使用就關閉自動續訂，購買前打開兩個檔案看看，因為這些數字每月都會變化。"
+          "從 Trustpilot 來看，可以。2026 年 10 月 24 日，分數為 4.6，共 73,411 則評價，其中 87.1% 是五星。公司回覆了 99% 的負面評價，在我們的樣本中，86 則投訴裡有 80 則得到了回覆。",
+          "需要留意的是分數是怎麼形成的，以及投訴說了什麼。檔案由公司管理，公司邀請客戶評價。在樣本中，最近 100 則五星評價裡有 78 則是受邀的，最近 100 則一星評價裡有 92 則是自發的。投訴集中在無法找到真人的 AI 客服、帳單與續訂，以及網域。在巴西，Reclame Aqui 也確認了帳單這一主題，不當扣款排在榜首。",
+          "實際操作：確認續訂日期，不打算繼續的話就關閉自動續訂；購買前打開兩個檔案看看，因為這些數字每個月都會變。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 在 Trustpilot 的評分好嗎？2026 年 10 月 19 日的 TrustScore 為 4.6（\"Excellent\"），共 73,316 則評價，其中 87.1% 為五星。",
-          "Hostinger 最常見的投訴是什麼？在 Reclame Aqui 的問題排行（總覽分頁，過去 3 年）中，不當扣款以 21.72% 居首。",
-          "Hostinger 會回覆投訴嗎？會。根據 Trustpilot，公司回覆了 98% 的負面評價，通常在 24 小時內。在 Reclame Aqui，6 個月內 99.3% 的投訴都已有回覆。",
-          "如何關閉 Hostinger 的自動續訂？在 hPanel 的帳單區域找到服務頁面，打開產品旁的選單，進入續訂設定，然後取消自動續訂並儲存。產品會保持有效直到到期日。"
+          "Hostinger 在 Trustpilot 上的評分是多少？2026 年 10 月 24 日，TrustScore 為滿分 5 分中的 4.6，共 73,411 則評價，其中 87.1% 是五星，6.9% 是一星。",
+          "Hostinger 的 Trustpilot 評價可靠嗎？檔案由公司認領並管理，公司會邀請客戶評價。在樣本中，最近 100 則五星評價裡有 78 則是受邀的，最近 100 則一星評價裡有 92 則是自發的。Trustpilot 稱不會逐則核實評價。",
+          "Hostinger 客戶在 Trustpilot 上抱怨什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
+          "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。頁面還提醒，回覆中可能使用 AI。在我們的樣本中，86 則投訴中有 80 則有回覆。",
+          "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。"
         ]
       },
       {
@@ -95724,8 +96335,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "透明度說明",
         "paragraphs": [
-          "Trustpilot 的數字，以及 Hostinger 幫助中心的內容，都是在 2026 年 10 月 19 日讀取的。Reclame Aqui 的 6 個月與 12 個月分頁，以及問題排行（總覽分頁，過去 3 年），是同一天截取的畫面。這些數字每個月都會變動，所以在決定之前請再次確認。",
-          "此連結為推薦連結：購買後，Bruno 可能會獲得 Hostinger 的帳戶額度。我們與品牌沒有合作關係，這筆帳戶額度也不會影響本分析。"
+          "Trustpilot 的數字於 2026 年 10 月 19 日和 24 日從檔案頁面讀取，截圖為 10 月 19 日的。200 則樣本（最近 100 則一星和最近 100 則五星）於 2026 年 10 月 24 日讀取。主題的計數是我們閱讀標題和摘錄後的判斷，因此是近似值。Reclame Aqui 的數字來自 2026 年 10 月 19 日截取的畫面，資料截至 2026 年 9 月 30 日。幫助中心的內容於 2026 年 10 月 19 日讀取。這些數字每個月都會變動，決定之前請再次確認。",
+          "此連結為推薦連結：透過它購買，Bruno 可能獲得 Hostinger 的帳戶額度。我們與品牌沒有合作關係，這筆額度也不會影響本分析。"
         ]
       }
     ],
@@ -95759,8 +96370,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-trustpilot-reviews-zh-hans",
     "locale": "zh-hans",
     "translationKey": "hostinger-reputation",
-    "title": "Hostinger 在 Trustpilot 的评分、投诉，以及数字说明了什么",
-    "seoTitle": "Hostinger Trustpilot 评分与投诉",
+    "title": "Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么",
+    "seoTitle": "Hostinger Trustpilot 评价：评分与投诉",
     "type": "口碑分析",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -95786,8 +96397,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "整理 2026 年 10 月 19 日 Hostinger 在 Trustpilot 的评分：怎样读懂 TrustScore 4.6，巴西 Reclame Aqui 的投诉说明了什么，以及如何关闭自动续费。",
-    "metaDescription": "2026 年 10 月 19 日 Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,316 条评价。了解如何谨慎看待这个分数，并学会关闭自动续费。",
+    "description": "2026 年 10 月 24 日 Hostinger 在 Trustpilot 的评分：TrustScore 为 4.6，共 73,411 条评价；邀请评价如何拉高分数；最近 200 条一星和五星评价在说什么；以及如何关闭自动续费。",
+    "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 条评价。了解最近 200 条评价的抱怨与好评，并学会关闭自动续费。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -95801,181 +96412,217 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速结论",
         "paragraphs": [
-          "总体可以信赖，但有一点要注意。截至 2026 年 10 月 19 日，Hostinger 在 Trustpilot 上是 4.6（\"Excellent\"），但个人主页由公司自己管理并邀请客户评价，平均分会偏高。在巴西的 Reclame Aqui 上口碑很好，被提到最多的问题是不当扣款。关闭自动续费的方法见下文。"
+          "总体可以信赖，但要留意一点。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，但公司会邀请客户评价，平均分因此被拉高。投诉主要集中在 AI 客服、账单与续费以及域名。邀请如何改变分数，请看“改变判断的三种读法”一章。"
         ]
       },
       {
-        "heading": "Trustpilot：留下评价的人怎么看",
+        "heading": "Trustpilot：分数说明了什么，没有说明什么",
         "paragraphs": [
-          "在 2026 年 10 月 19 日的记录中，Hostinger 在 Trustpilot 有 73,316 条评价，TrustScore 为 4.6（\"Excellent\"）。五星评价占 87.1%，一星评价占 6.9%，约 5 千条。",
-          "在使用这个数字之前，先看看页面本身显示了什么："
+          "Trustpilot 是国际评价网站，4.6 只是一个起点。这个分数包含很多信息，而个人主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 10 月 24 日页面上显示的内容。"
         ],
-        "bullets": [
-          "个人主页自 2017 年 5 月起已由公司认领，也就是说，这个页面由公司管理。",
-          "公司付费订阅了 Trustpilot。",
-          "页面写明，Hostinger 会邀请客户留下评价，无论是正面还是负面的。邀请范围这么广，会拉高平均分，也看不见没有被邀请的人。",
-          "公司回复了 98% 的负面评价，通常在 24 小时内，并可能在回复中使用 AI。",
-          "Trustpilot 本身也说明，它不会逐一核实每条评价。"
-        ],
+        "comparisonTable": {
+          "headers": [
+            "指标",
+            "Hostinger 的 Trustpilot 主页，2026 年 10 月 24 日"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.6（满分 5 分），网站标注为“Excellent”"
+            ],
+            [
+              "评价数",
+              "73,411"
+            ],
+            [
+              "五星",
+              "63,962（87.1%）"
+            ],
+            [
+              "四星",
+              "3,143（4.3%）"
+            ],
+            [
+              "三星",
+              "650（0.9%）"
+            ],
+            [
+              "二星",
+              "558（0.8%）"
+            ],
+            [
+              "一星",
+              "5,098（6.9%）"
+            ],
+            [
+              "主页已认领",
+              "是，自 2017 年 5 月起由公司管理"
+            ],
+            [
+              "Trustpilot 付费订阅",
+              "是"
+            ],
+            [
+              "邀请客户评价",
+              "是，好评和差评都会邀请"
+            ],
+            [
+              "回复负面评价",
+              "99%，通常在 24 小时内"
+            ],
+            [
+              "回复中使用 AI",
+              "页面写明公司可能在回复中使用 AI"
+            ],
+            [
+              "评价核查",
+              "Trustpilot 称不会逐条核实评价"
+            ]
+          ]
+        },
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示评分 4.6、73,316 条评价、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
-            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 个人主页。图片：Bruno 截取的画面。",
+            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、73,316 条评价、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+            "caption": "2026 年 10 月 19 日 Trustpilot 上的 Hostinger 个人主页。到 10 月 24 日，总数从 73,316 条增加到 73,411 条，分数不变。图片：Bruno 的截图。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 的评价条形图，由 5 星到 1 星，并标示百分比",
-            "caption": "2026 年 10 月 19 日读取的 Trustpilot 上 Hostinger 评价分布。",
+            "alt": "Trustpilot 上 Hostinger 的评分条形图，从五星到一星，并标明百分比",
+            "caption": "2026 年 10 月 19 日截图，显示 Trustpilot 上 Hostinger 的评价分布。10 月 24 日百分比相同。",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "我们没有阅读一星评价的内容，所以本文不说明它们在抱怨什么。Trustpilot 反映的是人们整体的感受；下文的 Reclame Aqui 则显示投诉和回复。两者合起来看，比只看其中一个更完整。"
+          "两次读取之间有两处变化：总数在五天内增加了 95 条，对负面评价的回复率从 98% 升到 99%。各星级的百分比没有变化。",
+          "页面还显示了评价的语言。2026 年 10 月 24 日，英语 44,546 条，西班牙语 8,744 条，葡萄牙语 8,606 条，法语 3,340 条。所以这个分数是全球性的，不是某一个市场的意见。",
+          "表格没有显示的是，谁受到了邀请，谁是自发写评价的。下一章就从这里开始。"
         ]
       },
       {
-        "heading": "Reclame Aqui：巴西的背景",
+        "heading": "改变判断的三种读法",
         "paragraphs": [
-          "Reclame Aqui 是在巴西收集公开投诉的网站。截至 2026 年 9 月 30 日，Hostinger 在那里的口碑为「非常好」，最近 6 个月的分数是 8.6，最近 12 个月是 8.4。公司回复了 6 个月内 1,352 条投诉的 99.3%，并把 88.6% 标示为已解决。",
-          "这份资料按时段分成两个标签页。下表整理的是 2026 年 10 月 19 日查看的两个标签页，每个标签页下方都附上了网站显示的日期。"
+          "为了看清 4.6 背后的情况，我们于 2026 年 10 月 24 日阅读了各语言中最近的 100 条一星评价和最近的 100 条五星评价。Trustpilot 会把每条评价标注为“Invited”（公司发出邀请）或 Organic（用户自发）。下表比较了这两组。"
         ],
         "comparisonTable": {
           "headers": [
-            "项目",
-            "6 个月（2026 年 4 月 1 日至 9 月 30 日）",
-            "12 个月（2025 年 10 月 1 日至 2026 年 9 月 30 日）"
+            "我们的样本，2026 年 10 月 24 日",
+            "最近 100 条五星评价",
+            "最近 100 条一星评价"
           ],
           "rows": [
             [
-              "口碑",
-              "非常好，分数 8.6",
-              "非常好，分数 8.4"
+              "覆盖时段",
+              "2026 年 10 月 19 日至 24 日（约 5 天）",
+              "2026 年 10 月 6 日至 24 日（约 18 天）"
             ],
             [
-              "收到的投诉",
-              "1,352",
-              "2,416"
+              "公司邀请",
+              "78",
+              "8"
             ],
             [
-              "已回复",
-              "99.3%",
-              "99.6%"
+              "自发（未受邀）",
+              "22",
+              "92"
             ],
             [
-              "等待回复",
-              "10",
-              "10"
-            ],
-            [
-              "已解决",
-              "88.6%",
-              "87.9%"
-            ],
-            [
-              "表示会再次交易",
-              "80.3%",
-              "77.6%"
-            ],
-            [
-              "已评价的投诉",
-              "652",
-              "1,185"
-            ],
-            [
-              "消费者平均评分",
-              "7.71",
-              "7.38"
-            ],
-            [
-              "平均回复时间",
-              "8 天 1 小时",
-              "7 天 17 小时"
+              "平均文字长度",
+              "150 字符",
+              "568 字符"
             ]
           ]
         },
         "postParagraphs": [
-          "两个标签页的口碑相同。从 6 个月延长到 12 个月，解决率下降 0.7 个百分点，会再次交易的比例下降 2.7 个百分点。"
-        ]
-      },
-      {
-        "heading": "三个能改变判断的读法",
-        "paragraphs": [
-          "第一，在被评价的投诉中，80.3% 表示 6 个月内会再次交易。其余的，大约每五人中有一人不会再交易。",
-          "第二，被评价的投诉不到一半：6 个月内 1,352 条中只有 652 条。消费者平均评分 7.71 只来自这一部分。",
-          "第三，回复需要时间。6 个月内的平均回复时间是 8 天 1 小时。公司几乎回复了所有投诉（99.3%），但网站停止运行的人，不会等一个星期。",
-          "这份资料也没有显示公司的客户总数。没有这个数字，6 个月的 1,352 条投诉只能说明公司收到多少投诉，却不能说明每位客户遇到这个问题的频率。"
+          "第一，五星评价来得快得多，而且几乎都是受邀的。100 条在约 5 天内就凑齐了，其中 78 条是受邀的。一星评价用了约 18 天才凑够 100 条，其中 92 条是自发的。我们的看法是：邀请拉高了平均分。这个分数衡量的是受邀并回应的人，而不是所有客户。",
+          "第二，一星评价的篇幅几乎是五星的四倍。它们描述的是具体问题，包括日期、产品和金额。五星评价通常只有一句话。",
+          "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,411 条的 6.9% 仍然约有 5,100 人非常不满。比例很小，人数却不小。"
         ]
       },
       {
         "heading": "人们在抱怨什么",
         "paragraphs": [
-          "在主要问题的标签页中，Reclame Aqui 显示了三个排行。它们涵盖的是总览标签页中过去 3 年的投诉，而不只是 6 个月。数字如下："
+          "剔除这 14 条给错星的好评后，最近的 100 条一星评价中还剩 86 条真实投诉。我们阅读了标题和摘要，按主题标注了每条投诉。一条投诉可能涉及多个主题，所以数量是近似值。按被提及次数从多到少，主题如下："
         ],
         "bullets": [
-          "**不当扣款：** 21.72%，在问题排行中。是清单中被提到最多的问题。",
-          "**互联网供应商及服务：** 24.6%，在类别排行中。这是 Reclame Aqui 电信与网络个人主页的名称，并没有说明是 Hostinger 的哪项服务引起投诉。",
-          "**其他类型的产品或服务：** 11.95%，在产品排行中。同样没有说明是哪种产品。"
+          "**AI 客服，无法找到真人：** 86 条中约 45 条。其中一部分说的是网站搭建工具的 AI 功能，而不是客服本身。",
+          "**账单、续费、退款和费用：** 约 38 条。包括优惠期结束后涨价、客户没想到的自动续费，以及找回过期域名的费用（一条评价说是 76 欧元，另一条是 150 欧元）。",
+          "**域名：** 约 27 条，涉及暂停、转移、注册和找回。",
+          "**邮件无法使用或打不开：** 约 19 条。",
+          "**网站或 VPS 宕机，或未经通知维护：** 约 18 条，其中包括一台生产用 VPS 停机 27 小时。",
+          "**账户或服务被暂停且没有明确解释：** 约 16 条，其中一些是在拒付（chargeback）之后发生的。",
+          "**VPS CPU 被限制（throttling）：** 至少 4 条。"
         ],
         "postParagraphs": [
-          "这个画面没有把不当扣款按原因区分，也没有说明其中有多少与续费有关。与自动续费的关联是我们的解读，核实应该从这里开始。"
+          "在 100 条一星评价中，最常见的国家是美国（18）、印度（14）、法国（8）、英国（6）和荷兰（6）。",
+          "Trustpilot 自己会发布主页的自动摘要，由网站的 AI 根据 12,464 条评价生成。摘要列出的好评包括：托管服务稳定；遇到技术问题时有反应快的人工客服，帮助很大；面板对新手很友好。列出的抱怨包括：服务过于自动化，很难找到真人；账户恢复困难；账单问题；域名续期规则严格。这与我们在样本中看到的情况是一致的。",
+          "第一个主题需要稍作说明。我们读到的标题中反复出现的抱怨，不是回答错了，而是绕不过 AI 代理找到真人。我们的看法是：对于网站已经宕机的客户来说，这段等待才是问题所在。"
         ]
       },
       {
-        "heading": "为什么不当扣款在主机服务中特别重要",
+        "heading": "为什么账单和续费投诉对主机服务影响大",
         "paragraphs": [
-          "自动续费开启时，产品会在到期前续费，并以登记的付款方式扣款。Hostinger 的帮助中心也是这样说明的；它还表示，这个选项可以随时关闭，在到期日之前不会影响服务。",
-          "不过，关闭续费也有风险。如果没有另外准备好的套餐，网站可能在到期日停止运行。因此，帮助中心建议：若打算继续使用，就应保持续费开启。",
-          "续费价格和不可叠加的规则，请参阅[推荐码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。这里要说的是另一件事：这个选项在哪里，以及如何关闭。"
+          "账单和续费是样本中的第二大主题，86 条里约有 38 条。对主机服务来说，其中一部分有已知的机制。开启自动续费后，产品会在到期前续费，并以登记的付款方式扣款。Hostinger 的帮助中心也是这样说明的，并表示这个选项可以随时关闭，在到期日之前不会影响服务。",
+          "关闭续费也有风险。如果没有另外准备好的套餐，网站可能在到期日下线。因此，帮助中心本身建议：打算继续使用的人，应保持续费开启。",
+          "续费价格以及不能叠加的规则，请参阅[推荐链接文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。这里要谈的是另一件事：这个选项在哪里，以及怎样关闭。"
         ]
       },
       {
         "heading": "如何关闭自动续费",
         "paragraphs": [
-          "根据 2026 年 10 月 19 日查阅的 Hostinger 帮助中心，步骤大致如下："
+          "根据 2026 年 10 月 19 日查阅的 Hostinger 帮助中心，步骤如下："
         ],
         "bullets": [
-          "在 hPanel 中找到账单相关的区域，进入服务或订阅页面。",
-          "点击产品旁边的菜单按钮（三个点）。",
-          "进入续费设置。",
-          "取消自动续费的勾选，然后保存。"
+          "在 hPanel 的账单相关区域，打开发票（invoices）页面。",
+          "进入服务或订阅列表。",
+          "点击产品旁边的三点菜单。",
+          "进入该产品的续费设置。",
+          "关闭自动续费并保存更改。"
         ],
         "postParagraphs": [
-          "关闭此选项后，产品会保持有效直到到期日。要重新开启，必须有已登记的付款方式。帮助中心也说明，如果续费日距今只剩一天或更短，必须先手动续费，才能重新开启此选项。界面名称可能会改变，若有改变，请在账单相关区域寻找自动续费的设置。"
+          "关闭此选项后，产品会保持有效直到到期日。要重新开启，必须有已登记的付款方式。帮助中心还说明，如果续费日距今只剩一天或更短，必须先手动续费，才能重新开启此选项。菜单名称可能会变，如果找不到，请在账单相关区域寻找自动续费设置。"
         ]
       },
       {
         "heading": "Hostinger 如何回复",
         "paragraphs": [
-          "画面显示的是回复率（6 个月 99.3%，10 条投诉等待回复），而不是回复的内容。因此，本文无法说明这些回复是否能解决问题。签约前，请在个人主页中阅读几条回复，特别是涉及扣款的回复。"
+          "公司表示会回复 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉里有 80 条得到了回复。没有回复的 6 条都是在此前 24 小时内发布的。页面还提醒，公司可能在回复中使用 AI。",
+          "我们只统计了回复率，没有评价回复的质量，所以本文无法说明这些回复是否解决了问题。购买前，请在主页上读几条回复，尤其是关于账单和能否找到真人的。"
         ]
       },
       {
         "heading": "我们的经验",
         "paragraphs": [
-          "同时也是本文作者的 Bruno，自 2024 年起就是 Hostinger 的客户，订阅时间超过 24 个月：使用 Business 主机、一台 VPS KVM 2、Business 邮箱和域名，全部都是自动续费。Em Casa com Cecília 网站也运行在 Hostinger 上。",
-          "每次遇到问题，客服都会解决，尤其是 AI 客服代理。他从未遇过服务中断。",
-          "这是他个人的账户，也是他个人的使用方式。它无法说明那些遇到意外扣款的人的情况，Reclame Aqui 的投诉依然有效。"
+          "与本文共同署名的 Bruno 自 2024 年起就是 Hostinger 的客户，已超过 24 个月：使用 Business 主机、一台 KVM 2 VPS、Business 邮箱和域名，全部开启自动续费。Em Casa com Cecília 网站也运行在 Hostinger 上。",
+          "每次遇到问题，客服都帮他解决了，主要是 AI 客服代理。他说从未遇到过服务宕机。",
+          "这是他的账户，也是他的使用方式。需要一个诚实的反面意见：我们读到的投诉中，最常出现的主题就是 AI 客服，86 条中约有 45 条，即便其中一部分涉及网站搭建工具的 AI 功能。他的经历无法说明那些无法绕过代理、或是被意外扣款的人的情况。"
+        ]
+      },
+      {
+        "heading": "第二个来源：巴西的 Reclame Aqui",
+        "paragraphs": [
+          "Reclame Aqui 是巴西的公开投诉网站，每条投诉和公司的回复都会公开，消费者会说明问题是否已解决。2026 年 10 月 19 日查看的 Hostinger 主页（数据截至 2026 年 9 月 30 日）显示，它的口碑处于最高等级“Great”（非常好），最近 6 个月的分数是 8.6，最近 12 个月是 8.4。公司回复了这 6 个月内 1,352 条投诉中的 99.3%，并把 88.6% 标示为已解决。在总览标签页（过去 3 年）中，被提及最多的问题是不当扣款，占 21.72%。这与 Trustpilot 样本中的账单和续费主题相吻合。"
         ]
       },
       {
         "heading": "可以信任 Hostinger 吗？",
         "paragraphs": [
-          "从数字看，可以。2026 年 10 月 19 日，Trustpilot 分数为 4.6（\"Excellent\"），共 73,316 条评价。在 Reclame Aqui 上，截至 2026 年 9 月 30 日口碑为「非常好」（6 个月 8.6，12 个月 8.4），公司回复了 6 个月内 1,352 条投诉的 99.3%，并把 88.6% 标示为已解决。参与评价的人中，80.3% 表示愿意再次交易。",
-          "需要留意的是页面由谁管理，以及人们在抱怨什么。Trustpilot 个人主页由邀请客户评价的公司自己管理；在 Reclame Aqui 的问题排行中，不当扣款占 21.72%，居首位，平均回复时间为 8 天 1 小时。在主机服务中，自动续费会在到期前自动扣款，把两者联系起来是我们的解读。",
-          "实际操作：确认续费日期，不打算继续使用就关闭自动续费，购买前打开两个主页看看，因为这些数字每月都会变化。"
+          "从 Trustpilot 来看，可以。2026 年 10 月 24 日，分数为 4.6，共 73,411 条评价，其中 87.1% 是五星。公司回复了 99% 的负面评价，在我们的样本中，86 条投诉里有 80 条得到了回复。",
+          "需要留意的是分数是怎么形成的，以及投诉说了什么。主页由公司管理，公司邀请客户评价。在样本中，最近 100 条五星评价里有 78 条是受邀的，最近 100 条一星评价里有 92 条是自发的。投诉集中在无法找到真人的 AI 客服、账单与续费，以及域名。在巴西，Reclame Aqui 也确认了账单这一主题，不当扣款排在榜首。",
+          "实际操作：确认续费日期，不打算继续的话就关闭自动续费；购买前打开两个主页看看，因为这些数字每个月都会变。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 在 Trustpilot 的评分好吗？2026 年 10 月 19 日的 TrustScore 为 4.6（\"Excellent\"），共 73,316 条评价，其中 87.1% 为五星。",
-          "Hostinger 最常见的投诉是什么？在 Reclame Aqui 的问题排行（总览标签页，过去 3 年）中，不当扣款以 21.72% 居首。",
-          "Hostinger 会回复投诉吗？会。根据 Trustpilot，公司回复了 98% 的负面评价，通常在 24 小时内。在 Reclame Aqui，6 个月内 99.3% 的投诉都已有回复。",
-          "如何关闭 Hostinger 的自动续费？在 hPanel 的账单区域找到服务页面，打开产品旁的菜单，进入续费设置，然后取消自动续费并保存。产品会保持有效直到到期日。"
+          "Hostinger 在 Trustpilot 上的评分是多少？2026 年 10 月 24 日，TrustScore 为满分 5 分中的 4.6，共 73,411 条评价，其中 87.1% 是五星，6.9% 是一星。",
+          "Hostinger 的 Trustpilot 评价可靠吗？主页由公司认领并管理，公司会邀请客户评价。在样本中，最近 100 条五星评价里有 78 条是受邀的，最近 100 条一星评价里有 92 条是自发的。Trustpilot 称不会逐条核实评价。",
+          "Hostinger 客户在 Trustpilot 上抱怨什么？在读过的最近 100 条一星评价中的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
+          "Hostinger 会回复负面评价吗？会。页面显示，公司回复了 99% 的负面评价，通常在 24 小时内。页面还提醒，回复中可能使用 AI。在我们的样本中，86 条投诉中有 80 条有回复。",
+          "如何关闭 Hostinger 的自动续费？在账户的账单区域进入服务页面，打开产品旁边的三点菜单，进入续费设置，关闭自动续费并保存。产品会保持有效直到到期日。"
         ]
       },
       {
@@ -95987,8 +96634,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "透明度说明",
         "paragraphs": [
-          "Trustpilot 的数字，以及 Hostinger 帮助中心的内容，都是在 2026 年 10 月 19 日读取的。Reclame Aqui 的 6 个月与 12 个月标签页，以及问题排行（总览标签页，过去 3 年），是同一天截取的画面。这些数字每个月都会变动，所以在决定之前请再次核实。",
-          "此链接为推荐链接：购买后，Bruno 可能会获得 Hostinger 的账户额度。我们与品牌没有合作关系，这笔账户额度也不会影响本分析。"
+          "Trustpilot 的数字于 2026 年 10 月 19 日和 24 日从主页读取，截图为 10 月 19 日的。200 条样本（最近 100 条一星和最近 100 条五星）于 2026 年 10 月 24 日读取。主题的计数是我们阅读标题和摘录后的判断，因此是近似值。Reclame Aqui 的数字来自 2026 年 10 月 19 日截取的画面，数据截至 2026 年 9 月 30 日。帮助中心的内容于 2026 年 10 月 19 日读取。这些数字每个月都会变化，决定之前请再次核实。",
+          "此链接为推荐链接：通过它购买，Bruno 可能获得 Hostinger 的账户额度。我们与品牌没有合作关系，这笔额度也不会影响本分析。"
         ]
       }
     ],
