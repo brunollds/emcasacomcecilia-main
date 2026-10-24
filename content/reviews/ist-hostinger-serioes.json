@@ -26,12 +26,12 @@
     {
       "name": "Bruno Luiz",
       "slug": "bruno-luiz",
-      "role": "Edição e análise",
+      "role": "Redaktion und Analyse",
       "initials": "BL"
     }
   ],
-  "description": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung und was sie nicht abdeckt, die automatische Verlängerung und was Sie vor der Zahlung prüfen sollten.",
-  "metaDescription": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung mit Ausnahmen, die automatische Verlängerung zum neuen Preis und was Sie vor dem Abschluss prüfen sollten.",
+  "description": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung und was sie nicht abdeckt, die automatische Verlängerung zum aktuellen Preis, was die Trustpilot-Beschwerden sagen und was Sie vor der Zahlung prüfen sollten.",
+  "metaDescription": "Ist Hostinger seriös? Wer abrechnet, die 30-Tage-Erstattung mit Ausnahmen, die automatische Verlängerung zum aktuellen Preis, was die Trustpilot-Beschwerden sagen und was Sie vor dem Abschluss prüfen sollten.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
@@ -45,19 +45,20 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Hostinger ist ein großes Unternehmen mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung, und nach unserer Erfahrung funktionieren Service und Support. Der Knackpunkt ist die Verlängerung, die standardmäßig aktiv ist und einen anderen Preis haben kann. Lesen Sie vor der Zahlung unten „Erstattung: 30 Tage, mit Ausnahmen“ und „Automatische Verlängerung und neuer Preis“."
+        "Ja, als Unternehmen: Hostinger ist ein großer Anbieter mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung, und nach unserer Erfahrung funktionieren Service und Support. Der Haken ist die automatische Verlängerung, die standardmäßig aktiv ist und zum aktuellen Tarifpreis abbucht. Die Regeln stehen im Kapitel „Automatische Verlängerung und neuer Preis“."
       ]
     },
     {
       "heading": "Wer hinter Hostinger steht",
       "paragraphs": [
-        "Die Nutzungsbedingungen sagen, dass die vertragschließende Gesellschaft vom Land des Kunden abhängt. In der Praxis zählt der Name, der beim Checkout und auf der Rechnung steht: Prüfen Sie beides, bevor Sie zahlen."
+        "Hostinger ist ein großer Hosting-Anbieter, und seine Nutzungsbedingungen (Abschnitt 2, überarbeitet am 9. Oktober 2026) besagen, dass das Unternehmen, mit dem Sie abschließen, vom Land abhängt, in dem Sie leben. Für Brasilien nennen die Bedingungen zum Beispiel Hostinger International Limited mit Sitz auf Zypern sowie weitere Unternehmen der Gruppe, die die Abbuchung abwickeln können. In der Praxis zählt der Name, der beim Checkout und auf Ihrer Rechnung steht: Prüfen Sie beide, bevor Sie zahlen.",
+        "Bei den meisten Menschen geht es bei der Vertrauensfrage nicht darum, ob das Unternehmen existiert. Es geht darum, was seine Regeln für Ihre Rechnung bedeuten: das Erstattungsfenster, der Verlängerungspreis und das Verfügbarkeitsversprechen. Darum geht es in den folgenden Kapiteln."
       ]
     },
     {
       "heading": "Erstattung: 30 Tage, mit Ausnahmen",
       "paragraphs": [
-        "Die Erstattungsrichtlinie von Hostinger (Fassung vom 15. Oktober 2026, gelesen am 19. Oktober 2026) gibt Ihnen 30 Tage, um Ihr Geld zurückzufordern, gerechnet ab dem Datum der Transaktion. Laut der Richtlinie selbst ist auch die Verlängerung eine Transaktion: Jede Abbuchung startet eine neue Frist. Die Tabelle zeigt, was die Richtlinie auflistet:"
+        "Die Erstattungsrichtlinie von Hostinger (Fassung vom 15. Oktober 2026, gelesen am 19. Oktober 2026) gibt Ihnen 30 Tage, um Ihr Geld zurückzufordern, gerechnet ab dem Datum der Transaktion. Laut der Richtlinie selbst ist auch eine Verlängerung eine Transaktion, daher öffnet jede Abbuchung ein neues 30-Tage-Fenster. Die Tabelle zeigt, was die Richtlinie auflistet:"
       ],
       "comparisonTable": {
         "headers": [
@@ -66,7 +67,7 @@
         ],
         "rows": [
           [
-            "Hosting (alle Tarife, außer der ersten Zahlung nach der kostenlosen Testphase)",
+            "Hosting (alle Tarife außer der ersten Zahlung nach einer kostenlosen Testphase)",
             "Ja, innerhalb von 30 Tagen"
           ],
           [
@@ -104,15 +105,15 @@
         ]
       },
       "postParagraphs": [
-        "Um sie zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben Sie die Rechnungsnummer (sie beginnt mit HBR) und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück. Wenn Sie das Guthaben im Konto wählen, wird die Rückzahlung zu Guthaben und geht nicht auf die Karte zurück. Die Richtlinie weist außerdem darauf hin, dass wiederholte oder massenhafte Anträge abgelehnt werden."
+        "Um eine Erstattung zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben die Rechnungsnummer und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück. Wenn Sie stattdessen Guthaben im Konto wählen, wird die Erstattung zu Guthaben und nicht auf die Karte zurückgebucht. Die Richtlinie besagt außerdem, dass Hostinger wiederholte oder massenhafte Anfragen ablehnt."
       ]
     },
     {
       "heading": "Automatische Verlängerung und neuer Preis",
       "paragraphs": [
-        "Wer bestellt, ist automatisch für die Verlängerung eingetragen, weil das die Standardeinstellung ist. Die Abbuchung erfolgt 30 bis 0 Tage vor Ende des Zeitraums, auf der als Standard markierten Karte, zum an diesem Datum gültigen Preis des Tarifs. Laut den Bedingungen kann dieser Preis höher oder niedriger sein als der des ersten Zeitraums, und eine Preisänderung gilt bei der Verlängerung ohne vorherige Ankündigung.",
-        "Hostinger kann Sie vor der Abbuchung per E-Mail informieren, die Bedingungen sagen aber, dass dazu keine Pflicht besteht. Kunden mit einem Monatstarif werden zum Beispiel nicht benachrichtigt. Zum Deaktivieren melden Sie sich in Ihrem Konto an und schalten Sie die Verlängerung jederzeit ab. Wenn Sie sie abschalten und vor Ende des Zeitraums nicht manuell verlängern, wird der Dienst beendet.",
-        "Auf Reclame Aqui, einer brasilianischen Plattform für öffentliche Beschwerden, ist die Abrechnung das Problem, das über das Unternehmen am häufigsten vorkommt, und der Fall steht im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen). Die Regel für den Empfehlungslink bei der Verlängerung und was mit dem Rabatt passiert, steht im [Ratgeber zum Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
+        "Wer bestellt, ist automatisch für die Verlängerung eingetragen, weil das die Standardeinstellung ist. Die Abbuchung erfolgt 30 bis 0 Tage vor Ende des Zeitraums auf die als Standard markierte Karte, zum Tarifpreis an diesem Datum. Laut den Bedingungen kann dieser Preis höher oder niedriger sein als der des ersten Zeitraums, und eine Preisänderung gilt bei der Verlängerung ohne vorherige Ankündigung.",
+        "Hostinger kann vor der Abbuchung eine E-Mail senden, laut den Bedingungen ist das Unternehmen dazu aber nicht verpflichtet. Kunden mit einem Monatstarif werden zum Beispiel nicht benachrichtigt. Zum Deaktivieren melden Sie sich in Ihrem Konto an und schalten die Verlängerung jederzeit ab. Wenn Sie sie abschalten und vor Ende des Zeitraums nicht manuell verlängern, wird der Dienst beendet.",
+        "Genau hier gibt es auch die meisten Beschwerden. In den 100 neuesten Ein-Stern-Bewertungen auf Trustpilot, die wir am 24. Oktober 2026 gelesen haben, betrafen rund 38 der 86 echten Beschwerden Abrechnung, Verlängerung, Erstattungen oder Gebühren, darunter ein Preis, der nach dem Aktionszeitraum gestiegen ist, und eine Verlängerung, mit der der Kunde nicht gerechnet hatte. Die vollständige Zählung steht im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen). Was bei der Verlängerung mit dem Rabatt aus dem Empfehlungslink passiert, steht im [Ratgeber zum Empfehlungslink](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ],
       "images": [
         {
@@ -127,33 +128,57 @@
     {
       "heading": "Ausfälle und Verfügbarkeitsgarantie",
       "paragraphs": [
-        "Die Bedingungen besagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen, die außerhalb der Kontrolle des Unternehmens liegen, und dass Hostinger dafür keine Verantwortung übernimmt. Bei unserer Lektüre der brasilianischen Preisseite am 19. Oktober 2026 warb die Tariftabelle mit „99,9 % garantierter Verfügbarkeit“. Das ist, was Hostinger bewirbt; die Verfügbarkeitszusage steht, wo sie existiert, im Dokument des jeweiligen Dienstes.",
-        "Wenn Ihre Website nicht offline gehen darf, lesen Sie vor der Zahlung das Dokument Ihres Tarifs. Der Satz auf der Seite reicht nicht aus."
+        "Die Bedingungen besagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen außerhalb der Kontrolle des Unternehmens, und dass Hostinger dafür keine Verantwortung übernimmt. Die Tabelle der Tarife auf der Preisseite wirbt mit „99,9 % garantierter Verfügbarkeit“ (gelesen am 19. Oktober 2026). Das ist Werbung. Die Verfügbarkeitszusage steht, wo es sie gibt, im Dokument des jeweiligen Dienstes, und dieses Dokument zählt.",
+        "In unserer Trustpilot-Stichprobe betrafen rund 18 der 86 Beschwerden eine ausgefallene Website oder einen VPS oder Wartungsarbeiten ohne Vorankündigung, darunter ein produktiver VPS, der 27 Stunden lang stand. Wenn Ihre Website nicht offline sein darf, lesen Sie vor der Zahlung das Dokument Ihres Tarifs. Der Satz auf der Preisseite reicht nicht aus."
       ]
     },
     {
       "heading": "Beschwerden und Bewertungen",
       "paragraphs": [
-        "Auf Trustpilot liegt die Bewertung des Unternehmens bei 4,6, sie stammt aber von Bewertungen, zu denen das Unternehmen die Kunden selbst einlädt. Die vollständigen Zahlen und was sie nicht zeigen, stehen im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen)."
+        "Am 24. Oktober 2026 hatte Hostinger einen TrustScore von 4,6 aus 73.411 Trustpilot-Bewertungen, davon 87,1 % mit fünf Sternen und 6,9 % mit einem Stern. Das Unternehmen verwaltet das Profil und lädt Kunden zur Bewertung ein, und das prägt die Note: Von den 100 neuesten Fünf-Sterne-Bewertungen wurden 78 vom Unternehmen eingeladen; von den 100 neuesten Ein-Stern-Bewertungen wurden 92 ohne Einladung geschrieben. Unsere Lesart: Die Note misst die eingeladenen Kunden, die geantwortet haben, nicht alle Kunden.",
+        "Die Beschwerden drehen sich um drei Themen: KI-Support ohne Weg zu einer Person (rund 45 von 86), Abrechnung und Verlängerung (rund 38) und Domains (rund 27). In Brasilien, wo das Unternehmen ebenfalls tätig ist, zeigte die öffentliche Beschwerdeplattform Reclame Aqui am 19. Oktober 2026 eine Note von 8,4 über zwölf Monate, wobei unberechtigte Abbuchungen das am häufigsten genannte Problem waren, was zum Thema Abrechnung passt. Die vollständige Studie mit Methode und Zählungen steht im [Artikel über den Ruf von Hostinger](/de/reviews/hostinger-trustpilot-bewertungen)."
       ]
     },
     {
       "heading": "Support",
       "paragraphs": [
-        "Tickets, auch Erstattungsanfragen, werden über den Ticket-Button unten rechts auf der Website eröffnet."
+        "Der Support läuft über den Button unten rechts auf der Website, und Erstattungsanfragen laufen genauso, als Ticket. Nach unserer Erfahrung ist der erste Kontakt ein KI-Agent, und genau dort konzentrieren sich die Beschwerden: In den Ein-Stern-Bewertungen, die wir gelesen haben, ist das wiederkehrende Problem nicht eine falsche Antwort, sondern dass man vom Agenten nicht zu einer Person durchkommt. Auf der anderen Seite nennt die Trustpilot-Zusammenfassung des Profils als Lob einen hilfreichen Support mit schnellen menschlichen Mitarbeitenden bei technischen Problemen.",
+        "Unsere Lesart: Wenn Ihre Website ausgefallen ist, ist die Zeit bis zu einer Person das Risiko, das Sie abwägen sollten, mehr als die Qualität der Antwort."
       ]
     },
     {
       "heading": "Unsere Erfahrung",
       "paragraphs": [
         "Em Casa com Cecília läuft auf Hostinger. Bruno, der auch diesen Text unterschreibt, ist seit 2024 Kunde, mit mehr als 24 Monaten Vertragslaufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Er hat nie erlebt, dass der Dienst ausgefallen ist, und jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent.",
-        "Das ist eine Erfahrung, keine Garantie. Sie sagt nicht, was mit Ihrem Tarif passiert, auch nicht mit einem Tarif zu einem anderen Preis oder für einen anderen Zeitraum."
+        "Das ist eine Erfahrung, keine Garantie, und sie braucht ein Gegengewicht: Der KI-Support, der seine Probleme gelöst hat, ist das Thema, das in den Beschwerden, die wir gelesen haben, am häufigsten vorkommt. Sein Fall sagt nichts über jemanden, der nicht am Agenten vorbeikam, oder über jemanden, dem eine Verlängerung abgebucht wurde, mit der er nicht gerechnet hatte."
       ]
     },
     {
-      "heading": "Wann Hostinger passt und wann nicht",
+      "heading": "Checkliste vor dem Kauf",
+      "bullets": [
+        "Prüfen Sie die Zeile Ihres Produkts in der Erstattungstabelle.",
+        "Sehen Sie sich den Verlängerungspreis an, nicht nur den Preis des ersten Zeitraums.",
+        "Schalten Sie die automatische Verlängerung direkt nach dem Kauf ab, wenn sie nicht weiterlaufen soll.",
+        "Prüfen Sie beim Checkout und auf der Rechnung, welches Unternehmen als Rechnungssteller erscheint.",
+        "Suchen Sie die Verfügbarkeitsgarantie im Dokument Ihres Tarifs, nicht auf der Preisseite."
+      ]
+    },
+    {
+      "heading": "Ist Hostinger seriös? Unser Urteil",
       "paragraphs": [
-        "Für einen Blog, eine persönliche Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen, um ihn auszuprobieren. Wenn Ihre Website nicht offline gehen darf, muss die Garantie im Tarif festgeschrieben sein, und die öffentliche Seite nennt die Zahl nicht. Wenn es Ihnen um den Black Friday geht, nennt der [Kampagnen-Ratgeber](/de/reviews/hostinger-black-friday-angebote) die Termine und Regeln jedes Angebots."
+        "Ja. Hostinger ist ein großes Unternehmen mit öffentlichen Regeln für Erstattung und Verlängerung, einer 30-Tage-Erstattung beim Hosting, einem TrustScore von 4,6 aus 73.411 Bewertungen am 24. Oktober 2026 und mehr als 24 Monaten ohne Ausfall in unserer eigenen Nutzung. Für einen Blog, eine persönliche Website oder einen kleinen Shop liefert es den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren.",
+        "Zwei Punkte sprechen dagegen. Die automatische Verlängerung ist standardmäßig aktiv, berechnet den aktuellen Tarifpreis und kommt ohne garantierte Vorwarnung, und die Abrechnung ist das zweite Thema der Trustpilot-Beschwerden. Der Support beginnt mit einem KI-Agenten, und nicht zu einer Person durchzukommen ist das erste Thema. Wenn Ihre Website nicht offline sein darf, muss die Garantie im Dokument Ihres Tarifs stehen: Die 99,9 % auf der Preisseite sind Werbung. Wenn Ihre Frage den Black Friday betrifft, nennt der [Kampagnen-Ratgeber](/de/reviews/hostinger-black-friday-angebote) Termine und Regeln für jedes Angebot."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Ist Hostinger seriös? Ja. Es ist ein großes Unternehmen mit öffentlichen Erstattungs- und Verlängerungsrichtlinien und einem TrustScore von 4,6 aus 73.411 Trustpilot-Bewertungen am 24. Oktober 2026. Was Aufmerksamkeit verdient, sind die automatische Verlängerung und ihr Preis, nicht die Seriosität des Unternehmens.",
+        "Gibt es bei Hostinger eine Erstattung? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Neue Domains haben 96 Stunden. Domainverlängerungen und kostenpflichtige Supportleistungen werden nicht erstattet.",
+        "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können sie jederzeit in Ihrem Konto deaktivieren. Ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
+        "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Die Bedingungen sagen, dass das Vertragsunternehmen davon abhängt, wo Sie wohnen, und dass andere Unternehmen der Gruppe die Abbuchung abwickeln können. Prüfen Sie den Namen, der beim Checkout und auf der Rechnung steht.",
+        "Garantiert Hostinger eine Verfügbarkeit? Die Preisseite wirbt mit 99,9 % Verfügbarkeit, aber die Bedingungen sagen, dass die Website wegen Wartung oder aus Gründen außerhalb des Unternehmens offline sein kann. Die Zusage steht, wo es sie gibt, im Dokument Ihres Tarifs.",
+        "Brauche ich einen Hostinger-Gutschein? Nein. Der Empfehlungslink gibt Ihnen bereits 20 % auf die erste Laufzeit eines neuen Tarifs, und dieser Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
       ]
     },
     {
@@ -163,29 +188,9 @@
       ]
     },
     {
-      "heading": "Häufige Fragen",
-      "bullets": [
-        "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlich einsehbarer Erstattungs- und Verlängerungsrichtlinie. Was Aufmerksamkeit verdient, sind die automatische Verlängerung und ihr Preis, nicht die Seriosität des Unternehmens.",
-        "Gibt es bei Hostinger eine Erstattung? Ja, 30 Tage für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Supportleistungen werden nicht erstattet.",
-        "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können sie jederzeit in Ihrem Konto deaktivieren. Ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
-        "Wer rechnet bei Hostinger ab? Das hängt von Ihrem Land ab. Die Bedingungen sagen, dass die vertragschließende Gesellschaft von Ihrem Wohnsitz abhängt. Prüfen Sie den Namen, der beim Checkout angezeigt wird.",
-        "Brauche ich einen Hostinger-Gutschein? Nein. Der Empfehlungslink gibt Ihnen bereits 20 % auf die erste Laufzeit eines neuen Tarifs, und dieser Rabatt lässt sich nicht mit anderen Gutscheinen kombinieren."
-      ]
-    },
-    {
-      "heading": "Checkliste vor dem Kauf",
-      "bullets": [
-        "Lesen Sie die Zeile Ihres Produkts in der Erstattungstabelle.",
-        "Sehen Sie sich den Verlängerungspreis an, nicht nur den Preis der ersten Laufzeit.",
-        "Schalten Sie die automatische Verlängerung direkt nach dem Kauf ab, wenn sie nicht weiterlaufen soll.",
-        "Prüfen Sie beim Checkout und auf der Rechnung, welche Firma als Abrechnungsgesellschaft auftaucht.",
-        "Suchen Sie die Verfügbarkeitsgarantie im Dokument Ihres Tarifs."
-      ]
-    },
-    {
       "heading": "Transparenzhinweis",
       "paragraphs": [
-        "Dieser Text enthält einen Empfehlungslink von Hostinger. Wenn Sie über den Link bestellen, kann das Programm Bruno Guthaben bei Hostinger gutschreiben. Erstattung, Verlängerung und Angaben zum Unternehmen stammen aus den öffentlichen Dokumenten von Hostinger, gelesen am 19. Oktober 2026. Die Erfahrung ist unsere und gilt nicht automatisch für Ihren Tarif."
+        "Dieser Text enthält einen Empfehlungslink von Hostinger. Wenn Sie über den Link bestellen, kann das Programm Bruno Guthaben bei Hostinger gutschreiben. Angaben zu Erstattung, Verlängerung und Unternehmen stammen aus den öffentlichen Dokumenten von Hostinger, gelesen am 19. Oktober 2026. Die Trustpilot-Zahlen und die Stichprobe von 100 Ein-Stern- und 100 Fünf-Sterne-Bewertungen wurden am 24. Oktober 2026 gelesen; die Zählungen nach Themen sind unsere Lesart von Titeln und Auszügen und daher ungefähr. Die Zahl von Reclame Aqui wurde am 19. Oktober 2026 gelesen, mit Daten bis zum 30. September 2026. Die Erfahrung ist unsere und gilt nicht automatisch für Ihren Tarif."
       ]
     }
   ],
