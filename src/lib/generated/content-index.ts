@@ -35740,8 +35740,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta direta: o Magazine Você é confiável?",
         "paragraphs": [
-          "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A desde 2011, e o programa diz que o Magalu cuida do estoque, dos pagamentos, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, mas as reclamações mais recentes ali são de quem tem loja, por causa de comissão. Para quem compra, o cuidado que vale é outro: ver quem vende cada produto, o Magalu ou uma loja parceira, e nunca pagar fora do checkout do Magalu.",
-          "Eu tenho uma loja no programa, a do Em Casa com Cecília. Abaixo mostro como conferir cada ponto com fontes públicas, lidas em 12/10/2026."
+          "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A, e o Magalu cuida do estoque, do pagamento, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, por queixas de quem tem loja. Para quem compra, o cuidado é ver quem vende cada produto; veja o checklist abaixo."
         ]
       },
       {
@@ -38958,13 +38957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo rápido",
         "paragraphs": [
-          "A Sofá na Caixa, empresa que viralizou nas redes vendendo sofás modulares entregues compactados em caixas, enfrenta desde 2025 uma onda crescente de reclamações por atraso de entrega, produtos não recebidos e estornos não realizados."
-        ],
-        "bullets": [
-          "Histórico: A Sofá na Caixa viralizou nas redes sociais comercializando sofás modulares entregues compactados, mas enfrentou forte gargalo operacional e de entregas ao longo de 2025",
-          "Procon-SP: O órgão de defesa instaurou fiscalização em 2025 diante do aumento de queixas. Em consulta realizada em agosto de 2026, o domínio da empresa NÃO consta na lista de sites evitados do Procon-SP",
-          "Reclame Aqui (agosto de 2026): A marca possui selo 'Regular' (nota 6.0/10), com 100% de reclamações respondidas, índice de solução de 55,2% e 48,4% de intenção de novos negócios",
-          "Consumidor: O Código de Defesa do Consumidor garante o direito ao cumprimento da oferta ou devolução com reembolso em compras online"
+          "A Sofá na Caixa viralizou com sofás modulares em caixa, mas desde 2025 acumula reclamações por atraso, produto não recebido e estorno não feito, e o Procon-SP abriu fiscalização. Em agosto de 2026, o Reclame Aqui a mostrava como Regular, e o site não estava na lista de sites a evitar. Veja abaixo a linha do tempo e o que fazer."
         ]
       },
       {
@@ -39009,7 +39002,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Sofá na Caixa — Reclamações no Período: 6.766 recebidas (100% respondidas, 0 aguardando)",
-          "Sofá na Caixa — Reputação e Solução: Selo Regular, nota geral 6.0/10, índice de solução de 55,2% e nota do consumidor 4,45/10",
+          "Sofá na Caixa — Reputação e Solução: Selo Regular, nota geral 6.0/10, índice de solução de 55,2%, 48,4% de intenção de voltar a fazer negócio e nota do consumidor 4,45/10",
           "Damie — Reclamações no Período: 258 recebidas (100% respondidas)",
           "Damie — Reputação e Solução: Selo de boa reputação, nota do consumidor 8,4/10 e índice de solução de 87,8%"
         ],
