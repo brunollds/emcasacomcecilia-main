@@ -148,10 +148,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todos os produtos, com todas as formas de pagamento',
     longDescription:
-      'Use CECILIA12 para ganhar 12% OFF em todos os produtos do site da DAMIE, com qualquer forma de pagamento disponível no checkout.',
-    metaTitle: 'Cupom DAMIE CECILIA12: 12% OFF em todo o site',
+      'O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado em 01/10/2026.',
+    metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix (out/2026)',
     metaDescription:
-      'Cupom DAMIE CECILIA12: 12% OFF em todos os produtos do site e em todas as formas de pagamento disponíveis, inclusive Pix e cartão.',
+      'Cupom DAMIE testado em 01/10/2026: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
     eligibleCategories:
       'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -516,10 +516,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN.',
-    metaTitle: 'Cupom Nestlé Nutre Outubro 2026: CECI — 10% OFF na Loja Oficial',
+      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 04/10/2026 num carrinho de R$ 1.121,84, com R$ 112,18 de desconto.',
+    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI (out/2026)',
     metaDescription:
-      'Cupom Nestlé Nutre confirmado para outubro de 2026: use CECI no checkout da loja oficial e ganhe 10% OFF. Não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses, como NAN.',
+      'Cupom Nestlé Nutre testado em 04/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
       'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
@@ -844,10 +844,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: "todo o site Let's Eat It",
     longDescription:
-      "Código da Cecília para economizar em compras de cozinha, mesa posta, decoração e presentes no site da Let's Eat It.",
-    metaTitle: "Cupom Let's Eat It Outubro 2026: MAUAD — 5% OFF no Site",
+      "O código da Cecília dá 5% OFF no site da Let's Eat It, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 02/10/2026.",
+    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix (out/2026)",
     metaDescription:
-      "Cupom Let's Eat It confirmado para outubro de 2026: use MAUAD no checkout e ganhe 5% OFF no site oficial de casa, cozinha, mesa posta e presentes.",
+      "Cupom Let's Eat It testado em 02/10/2026: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
     eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -942,10 +942,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
-    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA — 15% OFF na Loja Online',
+      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo e também no Outlet e nos kits em promoção (testado em 5 e 7/10/2026); não vale em lançamentos nem na loja física.',
+    metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (sem mínimo)',
     metaDescription:
-      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e ganhe 15% OFF. Não vale para lançamentos nem nas lojas físicas.',
+      'Cupom Insider testado em 07/10/2026: EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, inclusive no Outlet e nos kits. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1232,10 +1232,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'Código da Cecília para economizar em whey, creatina, colágeno, barras de proteína e outros suplementos no site oficial da Probiótica.',
-    metaTitle: 'Cupom Probiótica Outubro 2026: PRO10EMCASACOMCECILIA — 10% OFF',
+      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado em 13/10/2026 num carrinho com colágeno, creatina e barra de proteína: o desconto varia por item.',
+    metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Probiótica de outubro de 2026: use PRO10EMCASACOMCECILIA no checkout do site oficial e ganhe até 10% OFF em suplementos.',
+      'Cupom Probiótica testado em 13/10/2026: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1324,10 +1324,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
-      'Código da Cecília para economizar em whey, creatina, pré-treinos e outros suplementos no site oficial da Max Titanium, com qualquer forma de pagamento.',
-    metaTitle: 'Cupom Max Titanium Outubro 2026: MAX10EMCASACOMCECILIA — 10% OFF',
+      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado em 14/10/2026 num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Max Titanium de outubro de 2026: use MAX10EMCASACOMCECILIA no checkout do site oficial e ganhe até 10% OFF em suplementos, em todas as formas de pagamento.',
+      'Cupom Max Titanium testado em 14/10/2026: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1416,10 +1416,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em pastas de amendoim, alfajores, snacks e whey no site oficial da Dr. Peanut, com qualquer forma de pagamento.',
-    metaTitle: 'Cupom Dr. Peanut Outubro 2026: DREMCASACOMCECILIA — 10% OFF',
+      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado em 13/10/2026 com pasta de amendoim, alfajor e whey: soma com as promoções e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Dr. Peanut: 10% OFF em tudo com DREMCASACOMCECILIA',
     metaDescription:
-      'Cupom Dr. Peanut de outubro de 2026: use DREMCASACOMCECILIA e ganhe 10% OFF em todo o site, em todas as formas de pagamento e somando com as promoções.',
+      'Cupom Dr. Peanut testado em 13/10/2026: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1502,10 +1502,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em whey, creatina, pré-treinos, aminoácidos e roupas de treino no site oficial da Black Skull, com qualquer forma de pagamento.',
-    metaTitle: 'Cupom Black Skull Outubro 2026: CECILIA10 — 10% OFF',
+      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado em 13/10/2026 com whey, creatina, pré-treino e regata: soma com as promoções e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10 (out/2026)',
     metaDescription:
-      'Cupom Black Skull de outubro de 2026: use CECILIA10 e ganhe 10% OFF em todo o site, em todas as formas de pagamento e somando com as promoções.',
+      'Cupom Black Skull testado em 13/10/2026: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1656,10 +1656,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Cléa Store, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em alfaiataria, blusas, vestidos, t-shirts e acessórios no site oficial da Cléa Store, com qualquer forma de pagamento.',
-    metaTitle: 'Cupom Cléa Store Outubro 2026: CSEMCASACOMCECILIA — 10% OFF',
+      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado em 14/10/2026 num kit em promoção: o desconto soma com a promoção e o pedido continuou gerando cashback.',
+    metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA (out/2026)',
     metaDescription:
-      'Cupom Cléa Store de outubro de 2026: use CSEMCASACOMCECILIA e ganhe 10% OFF em todo o site, em todas as formas de pagamento, somando com as promoções e o cashback.',
+      'Cupom Cléa Store testado em 14/10/2026: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1747,10 +1747,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em doces sem açúcar, snacks, brownies proteicos e pães sem glúten, sem leite e sem lactose no site oficial da Belive, com qualquer forma de pagamento.',
-    metaTitle: 'Cupom Belive Outubro 2026: MAUAD — 10% OFF',
+      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado em 16/10/2026 num carrinho com combos em oferta.',
+    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix (out/2026)',
     metaDescription:
-      'Cupom Belive de outubro de 2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
+      'Cupom Belive testado em 16/10/2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Belive',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
