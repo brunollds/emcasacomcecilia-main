@@ -23,7 +23,7 @@ assert.deepEqual(
   shein.campaigns?.map(({ code, offerUrl }) => ({ code, offerUrl })),
   [
     { code: '37S3442', offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0' },
-    { code: 'G326U6B', offerUrl: 'https://onelink.shein.com/47/5yl4h46pd93c' },
+    { code: 'K49L457', offerUrl: 'https://onelink.shein.com/58/6630nfyralty' },
   ]
 );
 assert.ok(getAllActiveCouponSlugs().includes('shein'), 'SHEIN ativa deve gerar página de cupom');
