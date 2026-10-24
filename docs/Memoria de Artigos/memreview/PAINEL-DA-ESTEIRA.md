@@ -6,6 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
