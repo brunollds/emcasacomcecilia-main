@@ -1,9 +1,10 @@
 {
   "id": 15,
   "slug": "minha-experiencia-manteiga-batida-aerada",
-  "title": "Minha Experiência: Manteiga Batida (Aerada)",
+  "title": "Manteiga batida com leite funciona? Testei o hack viral",
+  "seoTitle": "Manteiga batida com leite funciona? Testei o hack viral",
   "type": "Teste de Cozinha",
-  "category": "guias-praticos-utilidade",
+  "category": "produtos-experiencias",
   "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
@@ -21,6 +22,12 @@
     "Não substitui uma receita tradicional de manteiga caseira"
   ],
   "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Não funciona. Bater manteiga com leite não rende o dobro: o leite espirra, a mistura separa e o resultado não lembra manteiga. O que ajuda a economizar é a manteiga composta e a troca de parte dela por óleo; veja \"Alternativas que funcionam de verdade\"."
+      ]
+    },
     {
       "heading": "O que os vídeos virais prometem",
       "paragraphs": [
@@ -67,7 +74,7 @@
       ]
     },
     {
-      "heading": "Por Que Esses Hacks Não Funcionam: A Ciência dos Alimentos",
+      "heading": "Por que esses hacks não funcionam: a ciência dos alimentos",
       "paragraphs": [
         "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
         "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
@@ -82,7 +89,7 @@
       }
     },
     {
-      "heading": "Alternativas Reais que Realmente Funcionam",
+      "heading": "Alternativas que funcionam de verdade",
       "paragraphs": [
         "A boa notícia é que existem alternativas viáveis para fazer a manteiga render melhor ou substituir parte do seu uso, sem cair em promessa milagrosa. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
       ],
@@ -94,9 +101,9 @@
       ]
     },
     {
-      "heading": "Cream cheese caseiro como substituto",
+      "heading": "Queijo fresco caseiro como substituto",
       "paragraphs": [
-        "Em muitas receitas, principalmente bolos e massas, o cream cheese pode substituir a manteiga em parte da fórmula. Ele não funciona para tudo, mas pode oferecer cremosidade com menos gordura em preparos específicos."
+        "Em muitas receitas, principalmente bolos e massas, um queijo fresco cremoso feito em casa, com leite e vinagre, pode substituir a manteiga em parte da fórmula. Ele não é um cream cheese industrial e não funciona para tudo, mas pode oferecer cremosidade em preparos específicos."
       ],
       "bullets": [
         "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
@@ -106,7 +113,7 @@
       ]
     },
     {
-      "heading": "Lições Aprendidas da Maneira Difícil",
+      "heading": "Lições aprendidas da maneira difícil",
       "paragraphs": [
         "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
         "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
@@ -121,7 +128,7 @@
       }
     },
     {
-      "heading": "Dicas Práticas Para Economia Real com Manteiga",
+      "heading": "Dicas práticas para economizar manteiga",
       "bullets": [
         "Para frituras, use metade da quantidade de manteiga indicada e complete com óleo de girassol ou canola.",
         "Essa combinação mantém parte do sabor da manteiga, mas com economia significativa.",

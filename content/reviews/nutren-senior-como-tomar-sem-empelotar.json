@@ -36,6 +36,12 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Para o Nutren Senior não empelotar, ponha 3 colheres de sopa de pó no copo seco, junte cerca de 50 ml de líquido, mexa até virar pasta e só então complete. Não ferva e beba logo após o preparo. As medidas por versão estão em O método da pasta, passo a passo."
+      ]
+    },
+    {
       "heading": "Por que o Nutren Senior empelota",
       "paragraphs": [
         "Quem prepara suplemento em pó conhece a cena: pó no copo, o líquido todo de uma vez, a colher batendo no vidro e, no fim, bolinhas secas boiando ou uma massa grudada no fundo. Para quem toma, a bebida fica desagradável. Para quem cuida de um pai, uma mãe ou um avô, o copo ainda pode ser recusado pela metade, e um suplemento que não é barato acaba na pia.",
@@ -230,10 +236,10 @@
       ],
       "bullets": [
         "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
-        "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. A Nestlé tem outra linha, o Nutren Control, voltada a dietas com restrição de açúcares; qual escolher é conversa com o médico ou nutricionista;",
-        "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então não serve para alergia à proteína do leite;",
+        "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. Converse com o médico ou o nutricionista;",
+        "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
         "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
-        "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista, porque pode ser sinal de algo que precisa de avaliação."
+        "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
       ]
     },
     {
@@ -274,8 +280,8 @@
         "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
         "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
         "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
-        "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. O efeito no peso depende de tudo o que a pessoa come no dia; se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
-        "Diabético pode tomar Nutren Senior? Depende do caso e deve ser decidido com o médico ou o nutricionista. A marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite, e existe a linha Nutren Control para dietas com restrição de açúcares.",
+        "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
+        "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
         "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
       ]
     }
@@ -288,7 +294,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Baseado na página oficial, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "nutren-senior-zero-lactose-ficha-tecnica",

@@ -2,6 +2,7 @@
   "id": 246,
   "slug": "adaptador-neo-start-o-que-e",
   "title": "Adaptador NEO Start: o que é e quando você precisa dele",
+  "seoTitle": "Adaptador NEO Start: o que é e quais máquinas aceitam",
   "type": "Guia",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -19,6 +20,12 @@
   "pros": [],
   "cons": [],
   "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. Vale para quem já tem um dos oito modelos aceitos e quer provar a linha NEO sem trocar de máquina. O que decide é o modelo e o consumo; veja o capítulo Vale a pena comprar?"
+      ]
+    },
     {
       "heading": "O Adaptador NEO Start: entendendo o sistema",
       "paragraphs": [
@@ -61,7 +68,7 @@
       "paragraphs": [
         "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
         "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
-        "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force — auxilie o fechamento aplicando leve pressão com a palma da mão.",
+        "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
         "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
       ],
       "bullets": [
@@ -94,7 +101,7 @@
     {
       "heading": "Máquinas compatíveis com o Adaptador NEO Start",
       "paragraphs": [
-        "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador — a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+        "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador: a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
       ],
       "bullets": [
         "Genio S",
@@ -111,13 +118,15 @@
       "heading": "Cápsulas NEO compatíveis com o adaptador",
       "paragraphs": [
         "O Adaptador NEO Start é compatível com uma seleção oficial de cafés pretos da linha NEO (variedades de Espresso e Lungo). Bebidas com leite, chás ou receitas mistas não são suportadas pelo adaptador.",
-        "Confira os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
+        "Estes são os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
       ],
       "bullets": [
         "NEO Espresso Sul de Minas Orgânico",
         "NEO Starbucks® Espresso Roast",
         "NEO Espresso Delicate",
         "NEO Lungo Cerrado Orgânico",
+        "NEO Espresso Serras do Alto Paranaíba",
+        "NEO Lungo Chapada Diamantina",
         "A seleção de cápsulas pode mudar; confirme a compatibilidade na loja oficial antes da compra.",
         "Bebidas com leite e outras linhas mistas NEO não são compatíveis com o adaptador."
       ],
@@ -149,23 +158,23 @@
       "imageFit": "contain"
     },
     {
+      "heading": "Integração com o Dolce Gusto Club",
+      "paragraphs": [
+        "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
+      ],
+      "bullets": []
+    },
+    {
       "heading": "Vale a pena comprar?",
       "paragraphs": [
         "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
       ],
       "bullets": [
         "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
-        "Se você consome pouquíssimo café, pode não compensar o investimento — nesse caso, as cápsulas ORIGINAL comuns já atendem.",
+        "Se você consome pouquíssimo café, pode não compensar o investimento: nesse caso, as cápsulas ORIGINAL comuns já atendem.",
         "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
         "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
       ]
-    },
-    {
-      "heading": "Integração com o Dolce Gusto Club",
-      "paragraphs": [
-        "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
-      ],
-      "bullets": []
     },
     {
       "heading": "Perguntas frequentes",
@@ -187,7 +196,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este artigo é um guia editorial baseado na página oficial e no manual do Adaptador NEO Start. Compatibilidade, preço, estoque e benefícios podem mudar; confirme no site oficial antes da compra. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
+  "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode render comissão.",
   "relatedArticles": [
     {
       "slug": "dolce-gusto-genio-s-touch-vale-a-pena",

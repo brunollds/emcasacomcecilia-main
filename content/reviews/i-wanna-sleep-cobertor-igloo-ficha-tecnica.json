@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep — veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-  "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e resolveu o calor de madrugada. Tamanhos casal/queen e king e preço.",
+  "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep. Veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
+  "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e bastou virar o cobertor quando o calor veio. Tamanhos casal/queen e king e preço.",
   "publishedAt": "16 Jul 2026",
   "publishedAtISO": "2026-07-16",
   "draft": false,
@@ -25,11 +25,6 @@
   "pros": [],
   "cons": [],
   "gallery": [
-    {
-      "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-      "alt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-      "caption": "O Cobertor IWS Igloo tem um lado com toque frio e outro com toque quente."
-    },
     {
       "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
       "alt": "Ilustração do Cobertor IWS Igloo sobre a cama, com metade em luz azul (lado frio) e metade em luz laranja (lado quente)",
@@ -43,9 +38,15 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Nas primeiras noites, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+      ]
+    },
+    {
       "heading": "O que é o Cobertor IWS Igloo",
       "paragraphs": [
-        "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.",
+        "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
         "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
       ],
       "bullets": [],
@@ -57,16 +58,12 @@
     {
       "heading": "Nossas primeiras impressões",
       "paragraphs": [
-        "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina — e se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
-        "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato — não precisa 'esperar esfriar'. Não usamos termômetro, mas a diferença entre os dois lados bateu com o que a marca promete: dá pra sentir uns 2°C de diferença mesmo entre um lado e o outro.",
-        "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo — e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
-        "Ainda é cedo pra falar de durabilidade — o produto chegou há pouco tempo aqui em casa, e vamos atualizar este artigo depois de mais noites de uso. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
+        "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina e, se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
+        "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato, sem precisar 'esperar esfriar'. Não usamos termômetro, então não temos medida: o que dá para dizer é que a diferença entre os dois lados é perceptível ao toque.",
+        "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
+        "Ainda é cedo pra falar de durabilidade: o produto chegou há pouco tempo aqui em casa. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
       ],
-      "bullets": [],
-      "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-      "imageAlt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-      "imageCaption": "O toque dos dois lados: frio de um jeito, quente do outro.",
-      "imageFit": "cover"
+      "bullets": []
     },
     {
       "heading": "Ficha técnica e tecnologias",
@@ -104,21 +101,28 @@
       ]
     },
     {
+      "heading": "Como lavar e cuidar do cobertor",
+      "paragraphs": [
+        "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
+      ],
+      "bullets": []
+    },
+    {
       "heading": "Para quem vale a pena",
       "paragraphs": [
-        "Pelo que testamos e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
+        "Pelas primeiras noites e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
       ],
       "bullets": [
         "Sente calorão no meio da noite e hoje precisa se levantar pra trocar de cobertor ou ligar o ar-condicionado.",
         "Gosta de trocar de cobertor entre as estações (verão/inverno), mas não quer guardar duas peças diferentes no armário.",
-        "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada — o problema que motivou a compra aqui em casa.",
-        "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença — nesse caso, um cobertor comum resolve igual, sem o investimento extra."
+        "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada (o problema que vivemos aqui em casa).",
+        "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença: nesse caso, um cobertor comum resolve igual, sem o investimento extra."
       ]
     },
     {
       "heading": "Preço e como comprar",
       "paragraphs": [
-        "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+        "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
       ],
       "bullets": [],
       "links": [
@@ -129,23 +133,16 @@
       ]
     },
     {
-      "heading": "Como lavar e cuidar do cobertor",
-      "paragraphs": [
-        "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
-      ],
-      "bullets": []
-    },
-    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.",
+        "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
         "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
         "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
-        "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.",
+        "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
         "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
         "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
         "O Cobertor IWS Igloo realmente funciona para casais com temperaturas diferentes? Sim, essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. A tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
-        "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg — distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
+        "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
         "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
         "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período."
       ]
@@ -159,7 +156,7 @@
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
   "youtubeUrl": "https://www.youtube.com/shorts/BlBbtv-VuL8",
-  "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep, além das primeiras impressões em vídeo. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.",
+  "editorialNote": "Produto recebido em parceria; só primeiras impressões. O cupom pode render comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",

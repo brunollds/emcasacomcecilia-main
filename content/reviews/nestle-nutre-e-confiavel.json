@@ -25,6 +25,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre?"
+      ]
+    },
+    {
       "heading": "Dados públicos da empresa",
       "paragraphs": [
         "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.",
@@ -38,25 +44,29 @@
     {
       "heading": "Catálogo e posicionamento de mercado",
       "paragraphs": [
-        "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré — fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
+        "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré, fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
         "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
       ],
       "bullets": [],
-      "image": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
-      "imageAlt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
-      "imageFit": "portrait"
-    },
-    {
-      "image": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
-      "imageAlt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
-      "imageFit": "contain",
-      "imageCaption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+      "images": [
+        {
+          "src": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+          "alt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
+          "objectFit": "portrait"
+        },
+        {
+          "src": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+          "alt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
+          "objectFit": "contain",
+          "caption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+        }
+      ]
     },
     {
       "heading": "Políticas de compra e pós-venda",
       "paragraphs": [
         "O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.",
-        "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja — diferente do CECI, que é a parceria com este blog."
+        "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
       ],
       "bullets": []
     },
@@ -68,9 +78,9 @@
       "bullets": [
         "Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.",
         "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
-        "Confira a validade do lote no momento da compra — são produtos de consumo contínuo.",
+        "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
         "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
-        "No checkout, teste o cupom CECI e compare com outras promoções ativas — o sistema aplica só o maior desconto disponível."
+        "No checkout, teste o cupom CECI e compare com outras promoções ativas: o sistema aplica só o maior desconto disponível."
       ]
     },
     {
@@ -87,6 +97,13 @@
       ]
     },
     {
+      "heading": "Dá para confiar na Nestlé Nutre?",
+      "paragraphs": [
+        "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br e com certificado SSL. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e a troca segue o CDC: 7 dias corridos após o recebimento, com o frete de retorno pago pela Nestlé.",
+        "Nas condições de compra, o frete é grátis acima de R$ 400 e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
@@ -94,7 +111,7 @@
         "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
         "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
         "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
-        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.",
+        "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
         "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
       ]
     }
@@ -106,7 +123,7 @@
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a Nestlé Nutre. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+  "editorialNote": "Parceria comercial com a Nestlé Nutre. Dados do site oficial, sem teste próprio.",
   "relatedArticles": [
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar",

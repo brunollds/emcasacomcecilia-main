@@ -7,7 +7,7 @@
   "category": "produtos-experiencias",
   "reviewKind": "guia",
   "author": { "name": "Cecília Mauad", "slug": "cecilia-mauad", "role": "Em Casa com Cecília", "initials": "CM", "url": "/sobre" },
-  "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento — com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
+  "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
   "metaDescription": "Como escolher poltrona decorativa: entenda o ícone Eames, meça circulação, compare Aurora manual com puff e Levita elétrica e escolha o revestimento para sua rotina.",
   "publishedAt": "2 de setembro de 2026",
   "publishedAtISO": "2026-09-02",
@@ -20,6 +20,12 @@
   "pros": [],
   "cons": [],
   "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+      ]
+    },
     {
       "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
       "paragraphs": [
@@ -59,10 +65,7 @@
         { "src": "/images/reviews/eames-lounge-chair-produto-oficial.webp", "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge", "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge.", "objectFit": "contain", "aspectRatio": 0.7446504992867332 }
       ],
       "links": [
-        { "label": "Ver a ficha da Cadeira Eames Lounge na Herman Miller", "href": "https://store.hermanmiller.com/features-buying-guides-eames-lounge-chair.html?lang=en_US" },
-        { "label": "Consultar o registro dos Eames no acervo do MoMA", "href": "https://www.moma.org/collection/works/3325" },
-        { "label": "Ver o exemplar ES670 Preta/Walnut na Herman Miller Brasil", "href": "https://store.hermanmiller.com.br/poltrona-charles-eames-es670_pretawalnut/p" },
-        { "label": "Ver o conjunto Lounge e otomana na Herman Miller Brasil", "href": "https://store.hermanmiller.com.br/poltrona-eames-lounge-e-otomana/p" }
+        { "label": "Consultar o registro dos Eames no acervo do MoMA", "href": "https://www.moma.org/collection/works/3325" }
       ]
     },
     {
@@ -83,7 +86,7 @@
       "paragraphs": [
         "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. É uma proposta coerente para quem quer decidir a posição do apoio para os pés separadamente e prefere não depender de tomada no local escolhido.",
         "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Isso não elimina a necessidade de medir a sala; ao contrário, a área do puff deve entrar na planta desde o começo.",
-        "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita — mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
+        "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita, mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
       ],
       "bullets": [],
       "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
@@ -111,7 +114,7 @@
       "links": [ { "label": "Ler minha experiência completa com a Poltrona Levita", "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto" } ]
     },
     {
-      "heading": "Aurora manual ou Levita elétrica: qual cenário combina com você?",
+      "heading": "Qual escolher: Aurora manual ou Levita elétrica",
       "paragraphs": [
         "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto. A síntese abaixo ajuda a levar a comparação para a planta da sua casa.",
         "Se você gosta de deslocar o puff, quer um conjunto manual e não tem uma tomada conveniente, a Aurora merece entrar na lista curta. Se a possibilidade de encontrar combinações de encosto e apoio de pés é decisiva, e o ponto de energia já está previsto, a Levita é a alternativa a avaliar. Em ambos os casos, confira medidas, revestimento e condições vigentes diretamente com a marca antes da compra."
@@ -160,7 +163,7 @@
   "cta": { "text": "Conheça o guia da Aurora no espaço DAMIE e teste o código CECILIA12 no checkout para itens elegíveis.", "label": "Ler o guia da Aurora no espaço DAMIE", "url": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub", "sponsored": true },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "Este guia contém links comissionados e parceria comercial com a DAMIE. O código CECILIA12 pode conceder 12% de desconto em itens elegíveis, sujeito às condições exibidas no checkout. Minha experiência própria mencionada no texto é com a Poltrona Levita; as informações sobre a Aurora foram conferidas na página oficial do produto.",
+  "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
   "relatedArticles": [
     { "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto", "title": "Poltrona Levita: O Topo da Tecnologia e Conforto" },
     { "slug": "poltrona-damie-e-boa", "title": "Poltrona Damie é boa? Review real" },

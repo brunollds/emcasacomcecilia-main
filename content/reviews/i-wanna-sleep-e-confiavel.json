@@ -23,7 +23,7 @@
     {
       "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
       "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
-      "caption": "Loja física da I Wanna Sleep — a marca também vende em pontos físicos, além do e-commerce."
+      "caption": "Loja física da I Wanna Sleep: a marca também vende em pontos físicos, além do e-commerce."
     },
     {
       "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
@@ -60,13 +60,19 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo final, Dá para confiar?"
+      ]
+    },
+    {
       "heading": "Dados públicos da empresa",
       "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
       "imageAlt": "Fachada de uma loja física da I Wanna Sleep, com letra 'IWS' em destaque e bandeira da marca",
       "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
       "imageFit": "cover",
       "paragraphs": [
-        "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
+        "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
         "A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a \"Nossas lojas\", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
       ],
       "bullets": []
@@ -115,6 +121,19 @@
       ]
     },
     {
+      "heading": "Dá para confiar na I Wanna Sleep?",
+      "paragraphs": [
+        "Sim, com a ressalva de que esta análise usa só dados públicos do site oficial e não traz nota do Reclame Aqui. Os números que sustentam a resposta:"
+      ],
+      "bullets": [
+        "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
+        "Lojas físicas no Brasil, além do e-commerce.",
+        "Troca ou devolução em até 7 dias corridos do recebimento nas compras do e-commerce.",
+        "Sleeptest de até 100 dias para colchões e até 30 dias para travesseiros, pillow tops e nutrição, sujeito às regras da marca.",
+        "Pix e cartão de crédito com parcelamento, em domínio oficial com HTTPS."
+      ]
+    },
+    {
       "heading": "Parceria e cupom de desconto",
       "paragraphs": [
         "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
@@ -139,7 +158,7 @@
         "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. Depois desse período, o Sleeptest pode ser aplicável a categorias elegíveis conforme regras próprias.",
         "O pagamento no site da I Wanna Sleep é seguro? O domínio oficial usa HTTPS e apresenta Pix e cartão de crédito no checkout. Antes de pagar, confirme o endereço iwannasleep.com.br e não transfira valores para contatos que tentem concluir a venda fora do canal oficial.",
         "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
-        "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
+        "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
       ]
     }
   ],
@@ -150,7 +169,7 @@
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
-  "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+  "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",

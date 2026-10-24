@@ -4,7 +4,7 @@
   "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
   "type": "Review de Produto",
   "category": "produtos-experiencias",
-  "reviewKind": "product",
+  "reviewKind": "produto",
   "draft": false,
   "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
   "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
@@ -79,9 +79,15 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta na bancada, com controles no painel no lugar da alavanca da Mini Me clássica. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo; veja em Pontos reais de atenção."
+      ]
+    },
+    {
       "heading": "Design Terracota e controles da Mini Me 2.0",
       "paragraphs": [
-        "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota — um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+        "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
         "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
       ]
     },
@@ -171,7 +177,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este artigo reflete a experiência de uso pessoal com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 Terracota. A menção ao cupom CECI decorre de uma parceria comercial com a NESCAFÉ Dolce Gusto.",
+  "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",

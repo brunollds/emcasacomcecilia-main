@@ -28896,7 +28896,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este artigo foi produzido a partir de nossa experiência real. O cupom CECILIA12 é parte de nossa parceria comercial com a Damie, sem custo adicional para você.",
+    "editorialNote": "Baseado no nosso uso. O CECILIA12 é parceria com a Damie e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena",
@@ -28913,10 +28913,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Como funciona a Poltrona Reclinável Damie 2.0",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O que pesa é quanto dos opcionais você vai usar; veja \"A Poltrona Damie 2.0 é boa? Nosso veredito\"."
+        ]
+      },
+      {
+        "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
           "A nova Poltrona Reclinável Damie 2.0 (versão 2026) é uma evolução relevante da linha de poltronas de cinema e amamentação da marca. Produzida sob medida pela indústria gaúcha Damie, ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
-          "A Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos.",
           "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
         ],
         "bullets": [
@@ -28926,7 +28931,7 @@ export const reviewsData: unknown[] = [
           "Cupom exclusivo: digite CECILIA12 no checkout oficial para obter 12% de desconto."
         ],
         "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
-        "emphasisAfterParagraph": 2,
+        "emphasisAfterParagraph": 1,
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
         "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
         "imageCaption": "Medidas informadas pela fabricante: 106,5 cm de altura, 89 cm de profundidade, 95 cm de largura e 174 cm quando quase totalmente reclinada.",
@@ -29058,7 +29063,15 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "FAQ — Dúvidas frequentes sobre a Poltrona Damie 2.0",
+        "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
+        "paragraphs": [
+          "Para nós, sim: a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Na nossa configuração (elétrica, com giro, balanço e massagem), os motores foram silenciosos e a massagem foi a favorita da Cecília.",
+          "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
+          "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes sobre a Poltrona Damie 2.0",
         "paragraphs": [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
@@ -29080,16 +29093,17 @@ export const reviewsData: unknown[] = [
   {
     "id": 25,
     "slug": "sofa-damie-modular-vale-a-pena",
-    "title": "Sofá Damie Modular: vale a pena?",
-    "type": "Reviews",
+    "title": "Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar",
+    "seoTitle": "Sofá modular Damie vale a pena? Entrega, puff e tecido",
+    "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha — com os pontos que eu observaria de novo antes de fechar a compra."
+      "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha, com os pontos que eu observaria de novo antes de fechar a compra."
     },
-    "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.",
+    "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher, e o que eu observaria de novo antes de fechar a compra.",
     "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
     "publishedAt": "26 Jun 2026",
     "publishedAtISO": "2026-06-26",
@@ -29102,18 +29116,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "A decisão de comprar um sofá modular",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A gente demorou pra decidir o sofá. Não porque não gostamos da Damie — já tínhamos as poltronas há meses e a experiência tinha sido boa. A demora foi porque sofá parece uma decisão mais definitiva. Poltrona você move, troca de canto, coloca num outro cômodo. Sofá, na nossa cabeça, é pra ficar.",
-          "E aí a gente começou a pesquisar. Olhou sofá em loja física, olhou online, comparou preço, viu review, viu reclamação. O problema sempre voltava ao mesmo: como levar um sofá de três lugares pra dentro de casa? Elevador pequeno, escada com curva, porta de entrada que não é das maiores. A gente já tinha sofrido com as poltronas — imagina um sofá inteiro, pesado, numa peça só.",
-          "Foi quando apareceu a palavra \"modular\" nos resultados de busca. Eu confesso que no começo achei que era moda, que era só um nome bonito. Mas quanto mais eu lia, mais eu entendia que modular não era sobre estilo — era sobre solução de problema."
+          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. Veja o capítulo Vale a pena?"
         ]
       },
       {
-        "heading": "O que mudou na decisão",
+        "heading": "Por que escolhemos o modular",
         "paragraphs": [
-          "O ponto que virou a chave pra nós foi simples: como esse sofá vai entrar na casa? A gente tem corredor, tem curva, tem uma porta de quarto que estreita o caminho. Sofá convencional de três lugares já deu trabalho com as poltronas — imagina um sofá inteiro.",
-          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim — desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
+          "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
+          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim, desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
           "A montagem em si foi uma experiência. A gente abriu as caixas no meio da sala, separou as peças, e foi encaixando. Tem um momento específico, quando o último módulo encaixa no lugar, que você olha pro sofá pronto e pensa: \"nossa, a gente montou isso aqui.\" Não precisa de marceneiro, não precisa de encanador de móveis. É você, as caixas, e paciência."
         ],
         "image": "/images/reviews/sofa-damie-modular-puff.webp",
@@ -29121,25 +29133,26 @@ export const reviewsData: unknown[] = [
         "imageFit": "portrait"
       },
       {
+        "heading": "O puff separado",
         "paragraphs": [
-          "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala — quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
-          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa — não é mais um \"acessório\", é uma peça que a gente usa todo dia."
+          "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala: quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
+          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa: não é mais um \"acessório\", é uma peça que a gente usa todo dia."
         ]
       },
       {
         "heading": "O que eu observaria de novo antes de comprar",
         "paragraphs": [
-          "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho — não assuma que \"na caixa cabe em qualquer lugar\" sem checar. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
+          "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho: não assuma que \"na caixa cabe em qualquer lugar\" sem checar. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
           "Segundo: escolher o tecido pela rotina da casa, não pela foto. O Azul Denim nas imagens da Damie é lindo. Mas se você tem pet, criança ou mora em região quente, linho ou courino vão ser escolhas mais honestas com o dia a dia. Eu aprendi isso na prática: o tecido que mais brilha na foto não é sempre o que mais funciona no dia a dia.",
-          "Terceiro: aproveitar os 30 dias de teste. A Damie oferece devolução sem burocracia dentro desse prazo. É literalmente um test drive em casa — e isso muda o peso da decisão quando você está comprando online sem ter sentado no sofá antes. A gente não precisou usar, mas saber que podia devolver se não desse certo deixou a decisão mais leve.",
-          "Quarto: pense no futuro. Modular não é só pra entrar na casa — é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
+          "Terceiro: aproveitar os 30 dias de teste. A Damie oferece devolução sem burocracia dentro desse prazo. É literalmente um test drive em casa, e isso muda o peso da decisão quando você está comprando online sem ter sentado no sofá antes. A gente não precisou usar, mas saber que podia devolver se não desse certo deixou a decisão mais leve.",
+          "Quarto: pense no futuro. Modular não é só pra entrar na casa: é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
         ]
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
-          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Não é a compra mais barata de móvel — é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
-          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou — uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
+          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
+          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou: uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
           "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
         ],
         "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
@@ -29147,35 +29160,21 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Links relacionados",
+        "heading": "Guia, review completo e cupom",
         "paragraphs": [
-          "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie."
+          "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie. Se preferir ir direto para a experiência de uso (entrega, montagem, primeiros meses), o review completo está disponível. E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
         ],
         "links": [
           {
             "label": "Sofá Modular Damie: qual modelo escolher?",
             "href": "https://damie.emcasacomcecilia.com/guias/sofa-modular-damie-qual-modelo-escolher?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
-          }
-        ]
-      },
-      {
-        "paragraphs": [
-          "Se preferir ir direto pra experiência de uso — entrega, montagem, primeiros meses — o review completo está disponível."
-        ],
-        "links": [
+          },
           {
             "label": "Review completo: sofá modular Damie",
             "href": "https://damie.emcasacomcecilia.com/resenhas/sofa-modular-damie?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
-          }
-        ]
-      },
-      {
-        "paragraphs": [
-          "E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
-        ],
-        "links": [
+          },
           {
-            "label": "Cupom CECILIA12 — 12% OFF no site da Damie",
+            "label": "Cupom CECILIA12, 12% OFF no site da Damie",
             "href": "/cupons/damie"
           }
         ]
@@ -29202,17 +29201,18 @@ export const reviewsData: unknown[] = [
         "title": "Dicas & Ofertas: cupons e promoções do mês"
       }
     ],
-    "editorialNote": "Este post contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
+    "editorialNote": "Review com link afiliado: comissão sem custo extra para você."
   },
   {
     "id": 20,
     "slug": "codigo-cecilia010-yesstyle-como-usar",
     "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code",
+    "seoTitle": "CECILIA010 na YesStyle: como usar o Reward Code",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
-    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra — 5% na primeira compra e 2% nas recorrentes — combinável com cupons promocionais elegíveis conforme o checkout.",
+    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra (5% na primeira compra e 2% nas recorrentes), combinável com cupons promocionais elegíveis conforme o checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
     "updatedAt": "2026-10-12",
@@ -29225,7 +29225,7 @@ export const reviewsData: unknown[] = [
       "Pode ser usado junto com cupons promocionais elegíveis no site",
       "Frete grátis a partir de um valor mínimo, que aparece no checkout",
       "Catálogo extenso de K-Beauty, moda coreana e J-Beauty",
-      "Produtos 100% autênticos — distribuidora autorizada",
+      "Produtos 100% autênticos, distribuidora autorizada",
       "Site com navegação e checkout em português"
     ],
     "cons": [
@@ -29235,6 +29235,12 @@ export const reviewsData: unknown[] = [
       "Preços finais cotados em dólar (sujeito à variação cambial)"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O CECILIA010 é um código de recompensa da YesStyle que dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do campo de cupom, e soma com os cupons elegíveis. O que pesa é usar cada campo certo; veja o capítulo Como usar o código CECILIA010 na YesStyle: passo a passo."
+        ]
+      },
       {
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
@@ -29257,41 +29263,7 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/yesstyle"
           }
         ],
-        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle — ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
-      },
-      {
-        "heading": "O que é a YesStyle?",
-        "paragraphs": [
-          "A YesStyle (também escrita como Yes Style) é uma das maiores e mais completas plataformas de e-commerce do mundo dedicadas à moda coreana, K-beauty, J-beauty (beleza japonesa) e produtos asiáticos em geral. Fundada em 2006, com sede em Hong Kong, a empresa se tornou um ponto de referência global para quem busca acessar o universo da beleza coreana e da moda oriental com confiança e autenticidade.",
-          "A YesStyle atende clientes em mais de 150 países e regiões, com versão traduzida em português e conversão de preços para facilitar a navegação no mercado brasileiro. O catálogo é gigantesco: milhares de produtos de skincare coreano, maquiagem de marcas consagradas, moda conceitual, acessórios e suplementos de bem-estar."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Página inicial da YesStyle em português com banner de promoção de K-beauty e produtos em destaque.",
-        "imageCaption": "A YesStyle reúne campanhas promocionais, produtos de K-beauty e navegação traduzida para português.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (Beleza Coreana): séruns de glass skin, essências, tônicos, protetores solares e produtos para a famosa rotina de cuidados asiática",
-          "Moda Coreana e Asiática: roupas, sapatos, bolsas e acessórios inspirados nas tendências urbanas de Seul e Tóquio",
-          "J-Beauty e Bem-Estar: marcas japonesas renomadas (como Hada Labo) e suplementos alimentares"
-        ]
-      },
-      {
-        "heading": "K-Beauty no Brasil: o nicho que está explodindo em 2026",
-        "paragraphs": [
-          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos.",
-          "Os dados mostram a força desse mercado: as buscas por K-beauty cresceram 70% em 2026 no Brasil, impulsionadas pela busca pelo efeito \"glass skin\" (pele com brilho saudável e aparência translúcida de vidro). As importações de produtos coreanos de beleza dispararam, consolidando o Brasil como o principal polo da América Latina para esse tipo de rotina. Buscas por termos como \"peeling coreano\" subiram incríveis 1.150%, provando que o público brasileiro está cada vez mais atento a essas soluções."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
-        "imageCaption": "Além da K-beauty, a YesStyle também organiza produtos por regiões e tendências asiáticas.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: pele intensamente hidratada, luminosa e uniforme",
-          "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
-          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
-        ],
-        "emphasis": "Dica da Cecília: Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty originais, pois o site compra direto das marcas e possui um portfólio muito maior do que os revendedores locais no Brasil.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle: ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
       },
       {
         "heading": "Código de Recompensa vs. Cupom: a diferença crucial para economizar",
@@ -29308,7 +29280,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sim. O CECILIA010 é um código de recompensa de influenciador registrado no programa oficial de parceiros da YesStyle. Isso significa que ele foi criado especificamente para leitoras do blog Em Casa com Cecília que compram K-beauty e produtos asiáticos.",
           "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código.",
-          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês — é o melhor dos dois mundos."
+          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês. É o melhor dos dois mundos."
         ]
       },
       {
@@ -29362,9 +29334,9 @@ export const reviewsData: unknown[] = [
           "O stacking (empilhamento de descontos) aqui significa usar os dois campos principais do checkout: o campo de código de recompensa e o campo de cupom. Como eu ainda não fiz uma compra completa na YesStyle, prefiro manter a recomendação no que é mais seguro: aplicar o CECILIA010 no campo Reward Code e, se houver um cupom ativo no site, aplicar esse cupom no campo Coupon Code."
         ],
         "bullets": [
-          "Passo 1 — Código de Recompensa: aplique CECILIA010 no campo Reward Code para ativar até 5% extra (5% 1ª compra / 2% recorrente).",
-          "Passo 2 — Cupom ativo: aplique cupons promocionais elegíveis do site no campo Coupon Code.",
-          "Passo 3 — Conferência final: antes de pagar, confirme no resumo do pedido se o desconto extra do CECILIA010 e o cupom ativo apareceram corretamente."
+          "Passo 1, código de recompensa: aplique CECILIA010 no campo Reward Code para ativar até 5% extra (5% 1ª compra / 2% recorrente).",
+          "Passo 2, cupom ativo: aplique cupons promocionais elegíveis do site no campo Coupon Code.",
+          "Passo 3, conferência final: antes de pagar, confirme no resumo do pedido se o desconto extra do CECILIA010 e o cupom ativo apareceram corretamente."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Resumo do pedido na YesStyle mostrando cupom e código CECILIA010 aplicados com descontos separados.",
@@ -29386,6 +29358,38 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: indique amigos e ganhe pontos",
           "Student Program: descontos especiais para estudantes"
         ]
+      },
+      {
+        "heading": "O que é a YesStyle?",
+        "paragraphs": [
+          "A YesStyle (também escrita como Yes Style) é uma das maiores e mais completas plataformas de e-commerce do mundo dedicadas à moda coreana, K-beauty, J-beauty (beleza japonesa) e produtos asiáticos em geral. Fundada em 2006, com sede em Hong Kong, a empresa se tornou um ponto de referência global para quem busca acessar o universo da beleza coreana e da moda oriental com confiança e autenticidade.",
+          "A YesStyle atende clientes em mais de 150 países e regiões, com versão traduzida em português e conversão de preços para facilitar a navegação no mercado brasileiro. O catálogo é gigantesco: milhares de produtos de skincare coreano, maquiagem de marcas consagradas, moda conceitual, acessórios e suplementos de bem-estar."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Página inicial da YesStyle em português com banner de promoção de K-beauty e produtos em destaque.",
+        "imageCaption": "A YesStyle reúne campanhas promocionais, produtos de K-beauty e navegação traduzida para português.",
+        "imageFit": "wide",
+        "bullets": [
+          "K-Beauty (Beleza Coreana): séruns de glass skin, essências, tônicos, protetores solares e produtos para a famosa rotina de cuidados asiática",
+          "Moda Coreana e Asiática: roupas, sapatos, bolsas e acessórios inspirados nas tendências urbanas de Seul e Tóquio",
+          "J-Beauty e Bem-Estar: marcas japonesas renomadas (como Hada Labo) e suplementos alimentares"
+        ]
+      },
+      {
+        "heading": "K-Beauty no Brasil: o que as brasileiras buscam",
+        "paragraphs": [
+          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
+        "imageCaption": "Além da K-beauty, a YesStyle também organiza produtos por regiões e tendências asiáticas.",
+        "imageFit": "wide",
+        "bullets": [
+          "Glass skin: pele intensamente hidratada, luminosa e uniforme",
+          "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
+          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
+        ],
+        "emphasis": "Dica da Cecília: Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty originais, pois o site compra direto das marcas e possui um portfólio muito maior do que os revendedores locais no Brasil."
       },
       {
         "heading": "O que comprar na YesStyle: guia por categoria",
@@ -29415,7 +29419,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Taxas e importação: a verdade que você precisa saber",
+        "heading": "Taxas e importação: o que pode ser cobrado",
         "paragraphs": [
           "Compras internacionais podem passar por análise alfandegária no Brasil e podem gerar impostos, taxas de importação, cobranças administrativas ou outras despesas relacionadas à liberação do pedido. Por isso, além de calcular produto e frete, vale considerar a possibilidade de custo extra antes de comprar.",
           "Segundo a política informada pela própria YesStyle, pedidos com valor inferior a US$ 1.000 podem ser elegíveis a reembolso de impostos e taxas alfandegárias relacionados ao processamento e liberação do pedido, desde que você pague a taxa primeiro, guarde um comprovante válido e envie a solicitação ao atendimento da YesStyle em até 30 dias a partir da data do comprovante. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle."
@@ -29432,14 +29436,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dicas para comprar na YesStyle: como encontrar as melhores ofertas",
         "paragraphs": [
-          "Como alguém que acompanha a YesStyle há um bom tempo, reuni aqui minhas melhores dicas para você economizar:",
-          "Como esses códigos mudam com frequência, o mais seguro é verificar a página de promoções da própria YesStyle antes de finalizar a compra. Depois, aplique o cupom ativo no campo \"Coupon Code\" e mantenha o CECILIA010 no campo \"Reward Code\"."
+          "Reuni aqui dicas para você economizar na YesStyle:"
         ],
         "bullets": [
           "Flash Sales: promoções relâmpago de até 50% OFF por tempo limitado. Entre no site diariamente e adicione produtos à Wishlist.",
           "Explore os Lucky Bundles: pacotes de produtos com preço reduzido (skincare, maquiagem, kits temáticos como \"Glass Skin Routine\").",
           "Use a Wishlist inteligentemente: receba notificações quando o preço cair, organize compras futuras, planeje para aproveitar o frete grátis.",
-          "Aproveite o Elite Club: programa de fidelidade com pontos acumulados — Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Aproveite o Elite Club: programa de fidelidade com pontos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "Não ignore os produtos \"Daily Free\": produtos gratuitos em compras acima de certo valor.",
           "Leia as avaliações (reviews): fotos reais, comentários sobre textura, cheiro e resultado, informações sobre validade.",
           "Compare com o preço no Brasil: pesquise em Beleza na Web, Sephora e revendedores de K-beauty antes de comprar.",
@@ -29462,7 +29465,7 @@ export const reviewsData: unknown[] = [
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A conversão é feita automaticamente pela operadora.",
           "Os produtos são originais? Sim. A YesStyle é distribuidora autorizada das marcas. Compra diretamente dos fabricantes ou distribuidores oficiais.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
-          "O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula — Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
           "O frete grátis funciona para todo o Brasil? O valor mínimo para frete grátis aparece no checkout, depois do CEP. O prazo pode ser mais longo para regiões distantes.",
           "Como rastrear meu pedido da YesStyle? Após a confirmação de envio, a YesStyle envia um e-mail com o código de rastreamento internacional. Você também pode acessar o histórico de pedidos logado na sua conta. O rastreamento funciona via serviços como 17track ou no próprio site da transportadora. O prazo estimado aparece no checkout e pode variar na alfândega brasileira.",
@@ -29470,8 +29473,8 @@ export const reviewsData: unknown[] = [
           "As roupas da YesStyle usam tamanhos asiáticos. Como escolher o meu? Sim, a maioria das roupas segue a numeração asiática, que costuma ser menor que a brasileira. Sempre consulte a tabela de medidas disponível na página de cada produto (geralmente em centímetros) e compare com suas medidas corporais. Recomendamos pedir um ou dois tamanhos acima do habitual, especialmente em peças mais justas.",
           "Quais são as marcas de K-beauty mais vendidas na YesStyle? A YesStyle é distribuidora autorizada de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. O site organiza os produtos por categorias como essências, tônicos, séruns e protetores solares, facilitando a busca por rotina de skincare coreana.",
           "Posso cancelar ou alterar um pedido na YesStyle depois de confirmado? A YesStyle permite cancelar pedidos que ainda não foram enviados (status 'Processing') diretamente pelo histórico de pedidos na sua conta. Após o envio, não é possível cancelar, mas você pode recusar a entrega quando chegar ao Brasil. Alterações de endereço ou produtos só são possíveis antes do envio, via atendimento ao cliente.",
-          "Cupom YesStyle primeira compra: como usar o CECILIA010? O código CECILIA010 funciona em qualquer compra, garantindo até 5% extra (5% na primeira compra e 2% em compras recorrentes), combinável com cupons promocionais elegíveis confirmados no checkout.",
-          "YesStyle cupom influencer: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede até 5% de desconto extra (5% na primeira compra e 2% em compras recorrentes) no checkout e pode ser combinado com cupons promocionais elegíveis, diferente de códigos de primeira compra que geralmente não são cumulativos."
+          "Código YesStyle para primeira compra: como usar o CECILIA010? O código CECILIA010 funciona em qualquer compra, garantindo até 5% extra (5% na primeira compra e 2% em compras recorrentes), combinável com cupons promocionais elegíveis confirmados no checkout.",
+          "Código de influenciador YesStyle: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede até 5% de desconto extra (5% na primeira compra e 2% em compras recorrentes) no checkout e pode ser combinado com cupons promocionais elegíveis, diferente de códigos de primeira compra que geralmente não são cumulativos."
         ]
       }
     ],
@@ -29485,18 +29488,19 @@ export const reviewsData: unknown[] = [
     "notes": [
       {
         "label": "Dica da Cecília",
-        "body": "O campo do código fica no checkout, em \"Reward Code\". Copie o CECILIA010 antes de abrir a loja — assim é só colar na hora de fechar o pedido.",
+        "body": "O campo do código fica no checkout, em \"Reward Code\". Copie o CECILIA010 antes de abrir a loja. Assim é só colar na hora de fechar o pedido.",
         "anchor": "como-funciona-o-codigo-cecilia010"
       }
     ],
-    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
+    "editorialNote": "Links de afiliado: podemos receber comissão pelos links e pelo Reward Code CECILIA010.",
     "locale": "pt",
     "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 234,
     "slug": "como-encontrar-cupons-yesstyle-validos",
-    "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010",
+    "title": "Como encontrar cupons YesStyle válidos e usar com o CECILIA010",
+    "seoTitle": "Cupons YesStyle válidos: como achar e usar com o CECILIA010",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -29562,7 +29566,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
+    "editorialNote": "Contém links de afiliado: podemos receber comissão pela YesStyle e pelo CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -29574,6 +29578,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O CECILIA010 é código de recompensa, vai no campo Reward Code e dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Os cupons de promoção da YesStyle vão no campo Coupon Code e vencem rápido. O passo a passo dos dois campos começa em \"Passo 1: acesse a loja pelo link oficial\"."
+        ]
+      },
       {
         "heading": "Por que a maioria dos cupons da YesStyle na internet não funciona?",
         "paragraphs": [
@@ -29622,7 +29632,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 1 — Acesse a loja pelo link oficial",
+        "heading": "Passo 1: acesse a loja pelo link oficial",
         "paragraphs": [
           "Abra a YesStyle pelo link oficial de influenciadora da Cecília. Isso ajuda a registrar corretamente a indicação antes de você aplicar os códigos no checkout."
         ],
@@ -29635,7 +29645,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 2 — Monte seu carrinho de compras",
+        "heading": "Passo 2: monte seu carrinho de compras",
         "paragraphs": [
           "Escolha seus cosméticos coreanos, protetores solares, séruns ou itens de moda favoritos e adicione-os à sua sacola de compras."
         ],
@@ -29645,19 +29655,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Passo 3 — Aplique o cupom da promoção no campo Coupon Code",
+        "heading": "Passo 3: aplique o cupom da promoção no campo Coupon Code",
         "paragraphs": [
           "Na tela de checkout, localize a caixa \"Coupon Code\" (Código de Cupom). Se houver um cupom de promoção ativo na YesStyle no momento, digite o código e clique em \"Aplicar\"."
         ]
       },
       {
-        "heading": "Passo 4 — Cole o código CECILIA010 no campo Reward Code",
+        "heading": "Passo 4: cole o código CECILIA010 no campo Reward Code",
         "paragraphs": [
           "Na mesma página de checkout, acesse o campo separado \"Reward Code / Influencer Code\" (Código de Recompensa). Digite o código CECILIA010 e clique em \"Aplicar\"."
         ]
       },
       {
-        "heading": "Passo 5 — Confirme o desconto acumulado e finalize o pedido",
+        "heading": "Passo 5: confirme o desconto acumulado e finalize o pedido",
         "paragraphs": [
           "Verifique o resumo final do seu pedido e confirme se o resumo exibe os dois descontos antes de finalizar a compra (o cupom de promoção e o código de recompensa CECILIA010)."
         ],
@@ -29687,12 +29697,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Dúvidas frequentes sobre cupons da YesStyle",
+        "heading": "Perguntas frequentes sobre cupons da YesStyle",
         "paragraphs": [
           "Reunimos as principais dúvidas dos leitores sobre como usar cupons e códigos de recompensa na YesStyle:"
         ],
         "bullets": [
-          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra — 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
+          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra: 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
           "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
@@ -31462,9 +31472,10 @@ export const reviewsData: unknown[] = [
   {
     "id": 15,
     "slug": "minha-experiencia-manteiga-batida-aerada",
-    "title": "Minha Experiência: Manteiga Batida (Aerada)",
+    "title": "Manteiga batida com leite funciona? Testei o hack viral",
+    "seoTitle": "Manteiga batida com leite funciona? Testei o hack viral",
     "type": "Teste de Cozinha",
-    "category": "guias-praticos-utilidade",
+    "category": "produtos-experiencias",
     "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
@@ -31482,6 +31493,12 @@ export const reviewsData: unknown[] = [
       "Não substitui uma receita tradicional de manteiga caseira"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não funciona. Bater manteiga com leite não rende o dobro: o leite espirra, a mistura separa e o resultado não lembra manteiga. O que ajuda a economizar é a manteiga composta e a troca de parte dela por óleo; veja \"Alternativas que funcionam de verdade\"."
+        ]
+      },
       {
         "heading": "O que os vídeos virais prometem",
         "paragraphs": [
@@ -31528,7 +31545,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Por Que Esses Hacks Não Funcionam: A Ciência dos Alimentos",
+        "heading": "Por que esses hacks não funcionam: a ciência dos alimentos",
         "paragraphs": [
           "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
           "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
@@ -31543,7 +31560,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Alternativas Reais que Realmente Funcionam",
+        "heading": "Alternativas que funcionam de verdade",
         "paragraphs": [
           "A boa notícia é que existem alternativas viáveis para fazer a manteiga render melhor ou substituir parte do seu uso, sem cair em promessa milagrosa. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
         ],
@@ -31555,9 +31572,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cream cheese caseiro como substituto",
+        "heading": "Queijo fresco caseiro como substituto",
         "paragraphs": [
-          "Em muitas receitas, principalmente bolos e massas, o cream cheese pode substituir a manteiga em parte da fórmula. Ele não funciona para tudo, mas pode oferecer cremosidade com menos gordura em preparos específicos."
+          "Em muitas receitas, principalmente bolos e massas, um queijo fresco cremoso feito em casa, com leite e vinagre, pode substituir a manteiga em parte da fórmula. Ele não é um cream cheese industrial e não funciona para tudo, mas pode oferecer cremosidade em preparos específicos."
         ],
         "bullets": [
           "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
@@ -31567,7 +31584,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Lições Aprendidas da Maneira Difícil",
+        "heading": "Lições aprendidas da maneira difícil",
         "paragraphs": [
           "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
           "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
@@ -31582,7 +31599,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Dicas Práticas Para Economia Real com Manteiga",
+        "heading": "Dicas práticas para economizar manteiga",
         "bullets": [
           "Para frituras, use metade da quantidade de manteiga indicada e complete com óleo de girassol ou canola.",
           "Essa combinação mantém parte do sabor da manteiga, mas com economia significativa.",
@@ -31612,7 +31629,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 14,
     "slug": "conhecendo-mais-rabanada",
-    "title": "Conhecendo Mais: Rabanada",
+    "title": "Rabanada: a origem do doce de Natal, o pão certo e as variações",
+    "seoTitle": "Rabanada: origem, escolha do pão e variações",
     "type": "Conhecendo Mais",
     "category": "guias-praticos-utilidade",
     "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
@@ -31632,6 +31650,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A rabanada nasceu do aproveitamento do pão amanhecido, virou doce de Natal em Portugal e chegou ao Brasil com os portugueses. Pão francês amanhecido, imersão sem encharcar e fritura dão o resultado clássico; veja \"Qual pão usar na rabanada\" e \"Variações para testar\"."
+        ]
+      },
+      {
         "heading": "Origem da rabanada",
         "paragraphs": [
           "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
@@ -31647,7 +31671,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Escolha do Pão: O Segredo para uma Rabanada Perfeita",
+        "heading": "Qual pão usar na rabanada",
         "paragraphs": [
           "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
           "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
@@ -31661,7 +31685,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Imersão: Leite, Ovos e Especiarias para Sabor e Maciez",
+        "heading": "A imersão: leite, ovos e especiarias",
         "paragraphs": [
           "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
           "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
@@ -31675,7 +31699,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Fritura e Finalização",
+        "heading": "Fritura e finalização",
         "paragraphs": [
           "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
           "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
@@ -31698,7 +31722,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Variações para Testar",
+        "heading": "Variações para testar",
         "images": [
           {
             "src": "/images/reviews/rabanada/rabanada-cecilia-recheando-doce-de-leite.webp",
@@ -31719,7 +31743,7 @@ export const reviewsData: unknown[] = [
           "Calda de vinho, mel, leite condensado ou caldas aromatizadas com especiarias.",
           "Especiarias extras como cravo-da-índia, raspas de limão ou raspas de laranja.",
           "Cobertura especial com calda de caramelo ou chocolate.",
-          "Versão assada para uma opção mais leve.",
+          "Versão assada, sem fritura.",
           "Pão brioche para uma rabanada mais macia e sofisticada.",
           "Cada região tem sua própria versão: pain perdu na França, french toast na Inglaterra e eggy bread nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
         ]
@@ -31880,7 +31904,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 11,
     "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
-    "title": "Poltrona Levita: O Topo da Tecnologia e Conforto",
+    "title": "Poltrona Levita Damie: vale pagar pelos dois motores?",
+    "seoTitle": "Poltrona Levita Damie: vale a pena pelos dois motores?",
     "type": "Móveis de Luxo",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -31935,19 +31960,12 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
+    "editorialNote": "Fotos e vídeo da Cecília com a poltrona. Podemos receber comissão pelo cupom CECILIA12.",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "A Levita vale o investimento para quem usa a poltrona todo dia e quer conforto como prioridade, com dois motores independentes, ajuste de pescoço e base giratória. Não é a escolha para quem quer só uma poltrona bonita pelo menor preço. O que pesa é o uso real; veja em Conforto premium: por que ela custa mais."
         ]
       },
       {
@@ -31999,6 +32017,12 @@ export const reviewsData: unknown[] = [
           "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico."
         ],
         "emphasis": "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+      },
+      {
+        "heading": "Sobre a Damie",
+        "paragraphs": [
+          "A Damie (Dix Indústria de Estofados Ltda) é uma marca brasileira de móveis de alto padrão, sediada em Frederico Westphalen, no Rio Grande do Sul. No site, há poltronas reclináveis, sofás, camas e móveis para áreas externas."
+        ]
       },
       {
         "heading": "Entrega, garantia e teste em casa",
@@ -32105,17 +32129,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "Vale a pena para quem precisa de um sofá que passe por escada, elevador e corredor estreito e quer montar a composição aos poucos. É um sofá premium, não o mais barato, e o que pesa é o orçamento e medir bem a sala. Veja o capítulo Veredito: vale o investimento?"
         ]
       },
       {
@@ -32181,10 +32197,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Vale o investimento?",
+        "heading": "Veredito: vale o investimento?",
         "paragraphs": [
           "O Sofá Damie na Caixa não deve ser visto como o sofá mais barato possível. Ele faz mais sentido para quem enxerga valor na combinação de modularidade, entrega facilitada, visual moderno e possibilidade de adaptação do ambiente.",
-          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço deixa de ser apenas sobre sentar e passa a incluir logística, flexibilidade, acabamento, teste em casa e uma experiência de compra mais estruturada."
+          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço deixa de ser apenas sobre sentar e passa a incluir logística, flexibilidade, acabamento, teste em casa e uma experiência de compra mais estruturada.",
+          "Em resumo, é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Não é uma compra pequena, então precisa ser planejada: meça bem a sala e compare módulos e tecido. Para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento."
         ]
       },
       {
@@ -32205,24 +32222,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito",
-        "paragraphs": [
-          "O Sofá Damie na Caixa é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Ele conversa bem com casas modernas, apartamentos e ambientes que precisam de flexibilidade.",
-          "Não é uma compra pequena, então precisa ser planejada. Mas, para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento. E o cupom CECILIA12 ajuda a tornar a decisão mais acessível."
-        ]
-      },
-      {
         "heading": "Transparência",
         "paragraphs": [
           "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
-    ]
+    ],
+    "seoTitle": "Sofá Damie na Caixa vale a pena? Modular, entrega e montagem",
+    "editorialNote": "Parceria com a Damie: link com cupom CECILIA12 e comissão, sem custo extra."
   },
   {
     "id": 9,
     "slug": "poltrona-moon-design-que-parece-obra-de-arte",
-    "title": "Poltrona Moon: Design que parece Obra de Arte",
+    "title": "Poltrona Moon da Damie vale a pena? Design giratório, materiais e para quem é",
     "type": "Decoração & Design",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -32284,17 +32296,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. O que decide é a prioridade: estética e presença no ambiente ou relaxar por horas. O capítulo Vale o investimento? detalha cada caso."
         ]
       },
       {
@@ -32342,13 +32346,26 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Sobre a Damie",
+        "paragraphs": [
+          "A Damie, razão social Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen (RS) que fabrica poltronas, sofás, camas e móveis para áreas externas, com opções de revestimento como linho, suede, courino, bouclé e couro."
+        ]
+      },
+      {
         "heading": "Vale o investimento?",
         "paragraphs": [
           "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
           "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
           "Se a prioridade é relaxar por horas assistindo filme, talvez uma reclinável faça mais sentido. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
         ],
-        "emphasis": "Vale destacar que a Poltrona Moon não é apenas estética/visual: é uma poltrona MUITO confortável. Você não vai adquirir só um móvel decorativo para o ambiente; ela tende a ser muito utilizada pelo conforto. Diferente de itens semelhantes de concorrentes que priorizam apenas a beleza, aqui o conforto também é prioridade."
+        "emphasis": "Vale destacar que a Moon não é só visual: segundo a Damie, a espuma D33 e a estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, e por isso ela tende a ser usada no dia a dia, não só admirada."
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
+          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
+        ]
       },
       {
         "heading": "Cupom CECILIA12",
@@ -32368,24 +32385,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
-          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
-        ]
-      },
-      {
         "heading": "Transparência",
         "paragraphs": [
           "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
-    ]
+    ],
+    "seoTitle": "Poltrona Moon Damie vale a pena? Giratória e decorativa",
+    "editorialNote": "Parceria com a Damie: link com cupom CECILIA12 e comissão, sem custo extra."
   },
   {
     "id": 8,
     "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-    "title": "Poltronas Reclináveis Damie - Vale o Investimento?",
+    "title": "Poltrona reclinável Damie vale o investimento? Uso diário, tecido e amamentação",
+    "seoTitle": "Poltrona reclinável Damie vale a pena? Uso de meses",
     "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -32438,11 +32451,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Modelo testado",
-        "value": "Poltrona reclinável caramelo"
+        "value": "Poltrona reclinável bege em linho"
       },
       {
         "key": "Tempo de uso",
-        "value": "6 meses"
+        "value": "Alguns meses de uso diário"
       },
       {
         "key": "Revestimento escolhido",
@@ -32450,7 +32463,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Cupom disponível",
-        "value": "CECILIA12 — 12% off",
+        "value": "CECILIA12, 12% off",
         "highlight": true
       },
       {
@@ -32458,6 +32471,7 @@ export const reviewsData: unknown[] = [
         "value": "Site oficial Damie"
       }
     ],
+    "editorialNote": "Review com link afiliado: comissão sem custo extra para você.",
     "cta": {
       "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
       "label": "Usar o cupom",
@@ -32467,24 +32481,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis Reclináveis",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "image": {
-          "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
-          "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
-          "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
-          "objectFit": "square",
-          "aspectRatio": 1
-        },
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "Sim, a poltrona reclinável da Damie valeu o investimento para nós: usamos todos os dias há meses, a reclinação elétrica é silenciosa e o linho bege respira bem no calor. O que pesa é o preço e a tomada por perto. Veja o capítulo Veredito."
         ]
       },
       {
@@ -32522,7 +32521,7 @@ export const reviewsData: unknown[] = [
           "Vivemos em uma região quente e abafada, então optamos pelo tecido linho na cor bege, que é leve, elegante e respirável. O toque é agradável, e o material é resistente e fácil de limpar.",
           "No site da Damie, há uma variedade de revestimentos, todos igualmente atraentes: courino, suede, boucle, tecido linho e couro bovino original, além de diversas cores para combinar com qualquer decoração.",
           "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar.",
-          "Com o cupom CECILIA12, você pode personalizar sua poltrona e economizar no site da Damie."
+          "Os modelos e acessórios ficam no site oficial da Damie."
         ],
         "image": {
           "src": "/images/reviews/poltrona-reclinavel-cecilia.webp",
@@ -32575,6 +32574,19 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Quem é a Damie",
+        "paragraphs": [
+          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen, no Rio Grande do Sul, com poltronas reclináveis, sofás, camas e móveis para a área externa. No site, dá para escolher o revestimento (linho, suede, courino, boucle ou couro bovino) e acessórios como porta-copos, entrada USB e massagem em modelos específicos."
+        ],
+        "image": {
+          "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
+          "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
+          "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
         "heading": "Prós e Contras da Poltrona Reclinável Damie",
         "paragraphs": [
           "Depois de alguns meses de uso, fica mais fácil separar o que realmente fez diferença no dia a dia e os pontos que precisam ser considerados antes da compra."
@@ -32600,6 +32612,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
+          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. E, se for comprar, use o cupom CECILIA12 para reduzir o valor final."
+        ]
+      },
+      {
         "heading": "Aproveite o Cupom CECILIA12 e Transforme Sua Casa",
         "paragraphs": [
           "Pronto para transformar sua casa com uma poltrona reclinável ou um sofá da Damie? Use o cupom de desconto CECILIA12, que garante 12% OFF em compras no site da Damie.",
@@ -32622,19 +32641,6 @@ export const reviewsData: unknown[] = [
             "label": "Comprar no site da Damie",
             "href": "https://damie.com.br"
           }
-        ]
-      },
-      {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
-          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. E, se for comprar, use o cupom CECILIA12 para reduzir o valor final."
-        ]
-      },
-      {
-        "heading": "Transparência",
-        "paragraphs": [
-          "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
     ]
@@ -32869,7 +32875,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 217,
     "slug": "clube-dolce-gusto-como-funciona",
-    "title": "Clube Dolce Gusto: pontos e prêmios",
+    "title": "Clube Dolce Gusto: como cadastrar códigos, acumular pontos e trocar por prêmios",
     "seoTitle": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
@@ -32882,7 +32888,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia prático do Clube Dolce Gusto: como cadastrar códigos das caixas, acumular pontos, trocar prêmios e economizar com o cupom CECI.",
-    "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto — e como usar o cupom CECI para economizar mais.",
+    "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto e como usar o cupom CECI para economizar mais.",
     "publishedAt": "03 Jul 2026",
     "publishedAtISO": "2026-07-03",
     "draft": false,
@@ -32893,6 +32899,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O que pesa é a validade, porque o saldo zera após 6 meses sem registrar código nem resgatar prêmio; veja o capítulo Passo a passo para cadastrar seus códigos."
+        ]
+      },
+      {
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
           "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
@@ -32901,8 +32913,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
           "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
-          "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
-          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF em compras a partir de R$ 100) nas compras de cápsulas na loja oficial para potencializar a economia."
+          "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto."
         ],
         "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
@@ -32915,7 +32926,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como acumular pontos no Clube",
         "paragraphs": [
-          "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar:"
+          "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar: Os pontos ficam guardados na sua conta e podem virar cápsulas, acessórios ou vouchers de desconto."
         ],
         "bullets": [
           "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.",
@@ -32978,21 +32989,6 @@ export const reviewsData: unknown[] = [
           "Confirme que o abatimento de 5% foi refletido no valor total.",
           "Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.",
           "Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses."
-        ]
-      },
-      {
-        "heading": "Pontos Dolce Gusto: como maximizar seu saldo",
-        "paragraphs": [
-          "Os pontos Dolce Gusto são a moeda do programa de fidelidade. Cada ação elegível (cadastro de código, compra online, assinatura de cápsulas) gera uma quantidade de pontos que fica guardada na sua conta. O objetivo é simples: acumular pontos Dolce Gusto para depois trocar por cápsulas grátis, acessórios ou até vouchers de desconto.",
-          "A estratégia para maximizar o saldo é combinar múltiplas ações: compre usando o cupom CECI (5% OFF), resgate os pontos de compra online, cadastre os códigos das caixas de cápsulas recebidas, e participe de bônus especiais quando disponíveis. Se você é consumidor frequente de café Dolce Gusto, manter os pontos Dolce Gusto ativos pode resultar em economias significativas ao longo de alguns meses."
-        ],
-        "bullets": [
-          "Cada caixa de cápsulas Geração 1 = 100 pontos Dolce Gusto (código cadastrado)",
-          "Cada extração NEO = 10 pontos Dolce Gusto (automático no aplicativo)",
-          "Compra online no site = +100 pontos Dolce Gusto",
-          "Assinatura de cápsulas = +1.000 pontos Dolce Gusto na primeira compra",
-          "Combos DGUSTA = 500 ou 1.000 pontos Dolce Gusto por caixa",
-          "Pontos Dolce Gusto expiram após 6 meses de inatividade — mantenha a conta ativa!"
         ],
         "links": [
           {
@@ -33002,10 +32998,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Resumo: vale a pena participar?",
+        "heading": "Vale a pena participar do Clube?",
         "paragraphs": [
           "A resposta é sim para quem já compra cápsulas Dolce Gusto com alguma frequência. O Clube Dolce Gusto é gratuito, simples de usar e recompensa um hábito de consumo que você já possui. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
-          "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade."
+          "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
         ]
       },
       {
@@ -33037,7 +33033,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.",
+    "editorialNote": "Parceria com a Dolce Gusto: comissão pelo cupom CECI. Guia feito das regras públicas do Clube.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -33842,6 +33838,7 @@ export const reviewsData: unknown[] = [
     "id": 229,
     "slug": "dolce-gusto-e-confiavel",
     "title": "Dolce Gusto é confiável? O que observar antes de comprar",
+    "seoTitle": "Dolce Gusto é confiável? CNPJ, entrega e assistência",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -33864,9 +33861,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé; veja em \"Dá para confiar na Dolce Gusto?\" os números e o que conferir."
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
+          "Antes de comprar, vale saber quem está por trás da marca, como funciona o atendimento e o que fazer se o pedido ou a máquina der problema. Os dados abaixo são públicos.",
+          "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
           "O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). Um detalhe pouco conhecido: as máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777, separada do atendimento da Nestlé sobre pedidos e cápsulas."
         ],
         "bullets": []
@@ -33882,7 +33886,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno — vale saber isso de antemão para não perder tempo no canal errado.",
+          "O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno: vale saber isso de antemão para não perder tempo no canal errado.",
           "A entrega tem prazo de até 30 dias úteis, feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras) com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa."
         ],
         "bullets": []
@@ -33894,19 +33898,25 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confirme se está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar a compra.",
-          "Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno — muitas vezes mais rápido que abrir chamado pela Nestlé.",
-          "Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais — sempre confira a vigência no carrinho.",
+          "Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno, muitas vezes mais rápido que abrir chamado pela Nestlé.",
+          "Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais: sempre confira a vigência no carrinho.",
           "O cupom CECI exige valor mínimo de R$ 100 em produtos elegíveis; confira o subtotal antes de aplicar.",
-          "Guarde a chave de acesso da nota fiscal recebida por e-mail — não há via impressa enviada com o pedido."
+          "Guarde a chave de acesso da nota fiscal recebida por e-mail: não há via impressa enviada com o pedido."
         ]
       },
       {
-        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
-        "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto — frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente — ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
-        "imageFit": "cover"
+        "heading": "Dá para confiar na Dolce Gusto?",
+        "paragraphs": [
+          "Sim, pelos dados públicos. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil Ltda, CNPJ 60.409.075/0001-52, e vende pelo site oficial, não por uma loja terceirizada.",
+          "Os números que você consegue conferir antes de comprar: SAC 0800-776-2233, devolução em até 7 dias corridos após o recebimento, conforme o CDC, e entrega em até 30 dias úteis, com rastreamento por e-mail.",
+          "O ponto de atenção é a máquina: a assistência técnica é da Arno, pelo telefone (11) 2060-9777, e não da Nestlé. Em caso de defeito, vale começar por ela."
+        ]
       },
       {
         "heading": "Parceria e cupom de desconto",
+        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+        "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto: frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente, ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
+        "imageFit": "cover",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
         ],
@@ -33921,7 +33931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo usado por outras marcas Nestlé no país.",
+          "A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo usado por outras marcas Nestlé no país.",
           "Quem fabrica as máquinas Dolce Gusto? As máquinas são fabricadas pela Arno (Groupe Seb), que também presta assistência técnica própria, separada do atendimento da Nestlé.",
           "Qual o prazo de entrega da Dolce Gusto? Até 30 dias úteis, calculado a partir da separação do pedido, com rastreamento por código enviado por e-mail.",
           "Como funciona a devolução na Dolce Gusto? Até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, conforme o direito de arrependimento do CDC.",
@@ -33937,7 +33947,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Parceria comercial: podemos receber comissão pelo cupom CECI. Dados públicos da marca.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -33979,7 +33989,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
         "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
-        "caption": "Loja física da I Wanna Sleep — a marca também vende em pontos físicos, além do e-commerce."
+        "caption": "Loja física da I Wanna Sleep: a marca também vende em pontos físicos, além do e-commerce."
       },
       {
         "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
@@ -34016,13 +34026,19 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo final, Dá para confiar?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
         "imageAlt": "Fachada de uma loja física da I Wanna Sleep, com letra 'IWS' em destaque e bandeira da marca",
         "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
         "imageFit": "cover",
         "paragraphs": [
-          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
+          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
           "A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a \"Nossas lojas\", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
         ],
         "bullets": []
@@ -34071,6 +34087,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Dá para confiar na I Wanna Sleep?",
+        "paragraphs": [
+          "Sim, com a ressalva de que esta análise usa só dados públicos do site oficial e não traz nota do Reclame Aqui. Os números que sustentam a resposta:"
+        ],
+        "bullets": [
+          "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
+          "Lojas físicas no Brasil, além do e-commerce.",
+          "Troca ou devolução em até 7 dias corridos do recebimento nas compras do e-commerce.",
+          "Sleeptest de até 100 dias para colchões e até 30 dias para travesseiros, pillow tops e nutrição, sujeito às regras da marca.",
+          "Pix e cartão de crédito com parcelamento, em domínio oficial com HTTPS."
+        ]
+      },
+      {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
           "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
@@ -34095,7 +34124,7 @@ export const reviewsData: unknown[] = [
           "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. Depois desse período, o Sleeptest pode ser aplicável a categorias elegíveis conforme regras próprias.",
           "O pagamento no site da I Wanna Sleep é seguro? O domínio oficial usa HTTPS e apresenta Pix e cartão de crédito no checkout. Antes de pagar, confirme o endereço iwannasleep.com.br e não transfira valores para contatos que tentem concluir a venda fora do canal oficial.",
           "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
-          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
+          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
         ]
       }
     ],
@@ -34106,7 +34135,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -34251,8 +34280,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep — veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e resolveu o calor de madrugada. Tamanhos casal/queen e king e preço.",
+    "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep. Veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
+    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e bastou virar o cobertor quando o calor veio. Tamanhos casal/queen e king e preço.",
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
@@ -34263,11 +34292,6 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "gallery": [
-      {
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-        "alt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-        "caption": "O Cobertor IWS Igloo tem um lado com toque frio e outro com toque quente."
-      },
       {
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
         "alt": "Ilustração do Cobertor IWS Igloo sobre a cama, com metade em luz azul (lado frio) e metade em luz laranja (lado quente)",
@@ -34281,9 +34305,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Nas primeiras noites, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+        ]
+      },
+      {
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
-          "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.",
+          "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
           "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
         ],
         "bullets": [],
@@ -34295,16 +34325,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossas primeiras impressões",
         "paragraphs": [
-          "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina — e se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
-          "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato — não precisa 'esperar esfriar'. Não usamos termômetro, mas a diferença entre os dois lados bateu com o que a marca promete: dá pra sentir uns 2°C de diferença mesmo entre um lado e o outro.",
-          "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo — e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
-          "Ainda é cedo pra falar de durabilidade — o produto chegou há pouco tempo aqui em casa, e vamos atualizar este artigo depois de mais noites de uso. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
+          "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina e, se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
+          "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato, sem precisar 'esperar esfriar'. Não usamos termômetro, então não temos medida: o que dá para dizer é que a diferença entre os dois lados é perceptível ao toque.",
+          "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
+          "Ainda é cedo pra falar de durabilidade: o produto chegou há pouco tempo aqui em casa. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
         ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-        "imageAlt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-        "imageCaption": "O toque dos dois lados: frio de um jeito, quente do outro.",
-        "imageFit": "cover"
+        "bullets": []
       },
       {
         "heading": "Ficha técnica e tecnologias",
@@ -34342,21 +34368,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Como lavar e cuidar do cobertor",
+        "paragraphs": [
+          "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Para quem vale a pena",
         "paragraphs": [
-          "Pelo que testamos e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
+          "Pelas primeiras noites e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
         ],
         "bullets": [
           "Sente calorão no meio da noite e hoje precisa se levantar pra trocar de cobertor ou ligar o ar-condicionado.",
           "Gosta de trocar de cobertor entre as estações (verão/inverno), mas não quer guardar duas peças diferentes no armário.",
-          "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada — o problema que motivou a compra aqui em casa.",
-          "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença — nesse caso, um cobertor comum resolve igual, sem o investimento extra."
+          "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada (o problema que vivemos aqui em casa).",
+          "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença: nesse caso, um cobertor comum resolve igual, sem o investimento extra."
         ]
       },
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
         "bullets": [],
         "links": [
@@ -34367,23 +34400,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como lavar e cuidar do cobertor",
-        "paragraphs": [
-          "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
-        ],
-        "bullets": []
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.",
+          "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
           "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
           "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
-          "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.",
+          "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
           "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
           "O Cobertor IWS Igloo realmente funciona para casais com temperaturas diferentes? Sim, essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. A tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
-          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg — distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
+          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
           "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
           "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período."
         ]
@@ -34397,7 +34423,7 @@ export const reviewsData: unknown[] = [
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
     "youtubeUrl": "https://www.youtube.com/shorts/BlBbtv-VuL8",
-    "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep, além das primeiras impressões em vídeo. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.",
+    "editorialNote": "Produto recebido em parceria; só primeiras impressões. O cupom pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -34610,6 +34636,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
           "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.",
@@ -34623,25 +34655,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré — fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
+          "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré, fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
           "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
         ],
         "bullets": [],
-        "image": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
-        "imageAlt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
-        "imageFit": "portrait"
-      },
-      {
-        "image": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
-        "imageAlt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
-        "imageFit": "contain",
-        "imageCaption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+        "images": [
+          {
+            "src": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+            "alt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
+            "objectFit": "portrait"
+          },
+          {
+            "src": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+            "alt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
+            "objectFit": "contain",
+            "caption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+          }
+        ]
       },
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
           "O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.",
-          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja — diferente do CECI, que é a parceria com este blog."
+          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
         ],
         "bullets": []
       },
@@ -34653,9 +34689,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.",
           "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
-          "Confira a validade do lote no momento da compra — são produtos de consumo contínuo.",
+          "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
           "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
-          "No checkout, teste o cupom CECI e compare com outras promoções ativas — o sistema aplica só o maior desconto disponível."
+          "No checkout, teste o cupom CECI e compare com outras promoções ativas: o sistema aplica só o maior desconto disponível."
         ]
       },
       {
@@ -34672,6 +34708,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Dá para confiar na Nestlé Nutre?",
+        "paragraphs": [
+          "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br e com certificado SSL. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e a troca segue o CDC: 7 dias corridos após o recebimento, com o frete de retorno pago pela Nestlé.",
+          "Nas condições de compra, o frete é grátis acima de R$ 400 e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
@@ -34679,7 +34722,7 @@ export const reviewsData: unknown[] = [
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
-          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.",
+          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
           "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
         ]
       }
@@ -34691,7 +34734,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a Nestlé Nutre. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Parceria comercial com a Nestlé Nutre. Dados do site oficial, sem teste próprio.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
@@ -35878,6 +35921,7 @@ export const reviewsData: unknown[] = [
     "id": 233,
     "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
     "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso",
+    "seoTitle": "Genio S Touch vale a pena? Primeiras impressões e veredito",
     "type": "Teste de Cozinha",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -35913,20 +35957,20 @@ export const reviewsData: unknown[] = [
       "Troca de cápsula simples: basta levantar a tampa frontal, que já ativa o painel",
       "Reservatório de 800 ml fácil de encaixar e remover para reabastecer",
       "Construção robusta, sem rebarbas ou acabamento malfeito",
-      "Compacta — cabe bem no cantinho do café sem disputar espaço de bancada"
+      "Compacta: cabe bem no cantinho do café sem disputar espaço de bancada"
     ],
     "cons": [
-      "Fica pingando entre um preparo e outro — algo que não notamos na NEO nem na Vertuo",
+      "Fica pingando entre um preparo e outro, algo que não notamos na NEO nem na Vertuo",
       "A unidade 127V testada possui plugue de 20A e requer uma tomada compatível, sem adaptadores improvisados",
       "Menos recursos de conectividade (IoT/app) que a NEO e a Vertuo",
       "Os únicos valores em ml de cada nível estão no manual impresso, não no painel",
-      "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo — ainda não temos uso suficiente pra confirmar ou descartar"
+      "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
     ],
-    "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa — mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
+    "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa, mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
     "verdict": {
       "stars": 4,
       "recommendation": "com ressalvas",
-      "summary": "Nas primeiras impressões, a Genio S Touch conquista pela velocidade e pelo painel touch intuitivo — mas o pingo entre preparos, a pouca conectividade e os relatos de problema no touch com o tempo pedem cautela. Vamos atualizar este veredito conforme usarmos mais a máquina no dia a dia."
+      "summary": "Nas primeiras impressões, a Genio S Touch conquista pela velocidade e pelo painel touch intuitivo, mas o pingo entre preparos, a pouca conectividade e os relatos de problema no touch com o tempo pedem cautela. Vamos atualizar este veredito conforme usarmos mais a máquina no dia a dia."
     },
     "productSpec": [
       {
@@ -35982,7 +36026,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é baseado no uso real da Genio S Touch em nossa casa. O cupom CECI faz parte da nossa parceria comercial com a Dolce Gusto e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Primeiras impressões de uso em casa. O cupom CECI vem de parceria comercial com comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -35999,10 +36043,16 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Nas primeiras impressões, pesam contra o pingo entre preparos e a pouca conectividade em relação à NEO e à Vertuo. Veja o capítulo Veredito para quem faz sentido e o que ainda não dá para afirmar."
+        ]
+      },
+      {
         "heading": "Por que testamos a Genio S Touch",
         "paragraphs": [
           "A Genio S Touch é a versão com painel touchscreen da linha Genio S da NESCAFÉ Dolce Gusto: mantém o sistema de cápsulas ORIGINAL, mas troca os botões físicos das versões Basic e Plus por um painel touchscreen, com Espresso Boost, 4 níveis de temperatura e Função XL para bebidas maiores.",
-          "Este artigo traz nossas primeiras impressões reais de uso — unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
+          "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
@@ -36012,7 +36062,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Unboxing e primeiro contato",
         "paragraphs": [
-          "A máquina veio bem embalada, junto com o suporte para xícara/copo — que também funciona como apoio na hora da limpeza — e um código de 20% OFF de brinde (um cupom promocional do próprio fabricante, específico daquela unidade, então não é algo que garantimos pra todo comprador). Não veio nenhuma cápsula de amostra nem copo medidor.",
+          "A máquina veio bem embalada, junto com o suporte para xícara/copo (que também funciona como apoio na hora da limpeza) e um código de 20% OFF de brinde (um cupom promocional do próprio fabricante, específico daquela unidade, então não é algo que garantimos pra todo comprador). Não veio nenhuma cápsula de amostra nem copo medidor.",
           "No primeiro contato, o que chamou atenção foi o quanto ela é leve e compacta. O reservatório de água, de 800 ml, sai e encaixa de volta com facilidade na hora de reabastecer. A construção é sólida, sem rebarbas ou acabamento malfeito em nenhuma parte que verificamos.",
           "A única etapa antes do primeiro café é o ciclo de limpeza inicial (rodar água sem cápsula), simples e bem explicado no manual e no guia rápido que acompanham a máquina."
         ],
@@ -36025,8 +36075,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O painel touch, na prática",
         "paragraphs": [
-          "A navegação no touch é intuitiva, mas tem funções que vão além do básico — como o Espresso Boost e o ajuste de temperatura em 4 níveis. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
-          "O toque responde bem, sem delay perceptível — não precisamos apertar duas vezes ou esperar a tela 'acordar'."
+          "A navegação no touch é intuitiva, mas tem funções que vão além do básico, como o Espresso Boost e o ajuste de temperatura em 4 níveis. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
+          "O toque responde bem, sem delay perceptível: não precisamos apertar duas vezes ou esperar a tela 'acordar'."
         ],
         "bullets": [],
         "video": {
@@ -36038,16 +36088,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml sai em cada nível?",
         "paragraphs": [
-          "Aqui vai um ponto que gerou dúvida enquanto usávamos a máquina: o painel touch mostra os mesmos ícones de tamanho impressos na cápsula e na caixinha (os \"riscos\" que qualquer usuário de Dolce Gusto já conhece), sem indicar o volume em ml diretamente. A única referência com os valores reais em ml que encontramos foi no manual impresso — que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
-          "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), estamos preparando um guia específico com a tabela completa de ml por nível da Genio S Touch."
+          "Aqui vai um ponto que gerou dúvida enquanto usávamos a máquina: o painel touch mostra os mesmos ícones de tamanho impressos na cápsula e na caixinha (os \"riscos\" que qualquer usuário de Dolce Gusto já conhece), sem indicar o volume em ml diretamente. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
+          "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "bullets": []
       },
       {
         "heading": "A primeira xícara",
         "paragraphs": [
-          "Na comparação com as outras máquinas de cápsula que já tivemos em casa — incluindo a Vertuo da Nespresso —, a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch — mas isso fica pro artigo específico dela.)",
-          "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro — algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
+          "Na comparação com as outras máquinas de cápsula que já tivemos em casa (incluindo a Vertuo da Nespresso), a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
+          "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro, algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
         ],
         "bullets": [],
         "video": {
@@ -36060,16 +36110,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que incomodou (sem só elogiar)",
         "paragraphs": [
-          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás — a NEO tem mais integração (IoT) e custa menos (com preço verificado em 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
-          "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco — é algo que vamos acompanhar e atualizar aqui."
+          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás: a NEO tem mais integração (IoT) e custa menos (com preço verificado em 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
+          "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
         ],
         "bullets": []
       },
       {
         "heading": "E bebidas frias?",
         "paragraphs": [
-          "O painel touch tem sim uma opção de preparo frio (ícone de xícara azul) — um bom exemplo prático do que dá pra fazer no touch. Usamos exatamente essa opção pra testar o Chá de Pêssego (Nestea), pensado pra ser consumido gelado.",
-          "Mesmo selecionando o preparo frio, a bebida saiu morna, por volta de 40°C, não gelada — o \"frio\" do painel muda o modo de preparo, mas não refrigera a água. Se você quer o chá (ou qualquer bebida) realmente gelado, o jeito é preparar com antecedência e levar à geladeira ou freezer, ou já deixar gelo pronto no copo antes de servir."
+          "O painel touch tem sim uma opção de preparo frio (ícone de xícara azul), um bom exemplo prático do que dá pra fazer no touch. Usamos exatamente essa opção pra testar o Chá de Pêssego (Nestea), pensado pra ser consumido gelado.",
+          "Mesmo selecionando o preparo frio, a bebida saiu morna, por volta de 40°C, não gelada: o \"frio\" do painel muda o modo de preparo, mas não refrigera a água. Se você quer o chá (ou qualquer bebida) realmente gelado, o jeito é preparar com antecedência e levar à geladeira ou freezer, ou já deixar gelo pronto no copo antes de servir."
         ],
         "bullets": []
       },
@@ -36083,21 +36133,21 @@ export const reviewsData: unknown[] = [
           "Gold Lungo",
           "Espresso",
           "Lajotinha Kopenhagen",
-          "Chá de Pêssego (Nestea — sai morno, veja a nota acima sobre bebidas frias)",
+          "Chá de Pêssego (Nestea, sai morno: veja a nota acima sobre bebidas frias)",
           "Doce de Leite com Pistache",
           "Caramelo Salgado"
         ]
       },
       {
-        "heading": "Para quem vale a pena",
+        "heading": "Veredito: vale a pena, com ressalvas",
         "paragraphs": [
-          "Pelo que testamos até agora, a Genio S Touch faz mais sentido pra quem:"
+          "Nas primeiras impressões, nota 4 de 5: a velocidade e o painel touch compensam, o pingo entre preparos e a pouca conectividade pedem cautela, e ainda não dá para afirmar nada sobre durabilidade. Pelo que testamos até agora, a Genio S Touch faz mais sentido pra quem:"
         ],
         "bullets": [
-          "Vai usar a máquina todos os dias e valoriza um preparo rápido — foi a mais rápida que já tivemos em casa.",
+          "Vai usar a máquina todos os dias e valoriza um preparo rápido: foi a mais rápida que já tivemos em casa.",
           "Gosta de um painel touch intuitivo e não se importa em abrir mão de recursos de app/IoT em troca disso.",
-          "Tem espaço de bancada limitado — ela é compacta e não disputa espaço.",
-          "Já quem prioriza conectividade (controle por app, integração smart) ou quer evitar qualquer pingo entre preparos pode se incomodar mais — vale considerar a NEO nesses casos."
+          "Tem espaço de bancada limitado: ela é compacta e não disputa espaço.",
+          "Já quem prioriza conectividade (controle por app, integração smart) ou quer evitar qualquer pingo entre preparos pode se incomodar mais: vale considerar a NEO nesses casos."
         ]
       },
       {
@@ -36112,11 +36162,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus usa botões físicos tradicionais. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
-          "A Genio S Touch é compatível com cápsulas NEO? Não diretamente — ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
-          "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso — estamos preparando um artigo específico com a tabela completa.",
-          "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro — um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
+          "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
+          "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
+          "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
           "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
-          "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso — melhora bastante o resultado na xícara.",
+          "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
           "O cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver mais ativo, use o link da loja oficial neste artigo para conferir a promoção vigente no momento da sua compra."
         ]
       }
@@ -37858,7 +37908,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
+    "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, com fotos da tabela impressa na embalagem: inclui cafés, lattes, bebidas em duas etapas e XL.",
     "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
@@ -37868,14 +37918,10 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Por que uma tabela de medidas Dolce Gusto?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
-          "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
-          "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
-        ],
-        "bullets": []
+          "Na Dolce Gusto, 1 barra do painel rende cerca de 35 a 40 ml, 4 barras cerca de 110 a 120 ml, 7 barras cerca de 200 a 220 ml, e o XL chega a 300 ml na Genio S Touch. A Nestlé não publica tabela oficial única, então são faixas de referência; veja a tabela de referência abaixo."
+        ]
       },
       {
         "heading": "Tabela de referência: volumes encontrados no manual",
@@ -37883,19 +37929,28 @@ export const reviewsData: unknown[] = [
           "Esta compilação reúne os volumes mostrados nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:"
         ],
         "bullets": [
-          "1 barra (1 nível): cerca de 35 ml a 40 ml — exemplos de ristretto e espresso curto",
-          "2 barras (2 níveis): cerca de 50 ml a 60 ml — exemplos de espresso tradicional",
-          "3 barras (3 níveis): cerca de 80 ml a 90 ml — exemplos de espresso duplo ou bebidas curtas com leite",
-          "4 barras (4 níveis): cerca de 110 ml a 120 ml — exemplos de lungo ou etapa de café do cappuccino",
-          "5 barras (5 níveis): cerca de 140 ml a 150 ml — exemplos de Café au Lait ou chá",
-          "6 barras (6 níveis): cerca de 170 ml a 180 ml — exemplos de bebidas médias com leite ou chocolate",
-          "7 barras (7 níveis): cerca de 200 ml a 220 ml — exemplos de cafés grandes e bebidas longas",
-          "Função XL: 300 ml nos manuais consultados — tamanho máximo extra grande"
+          "1 barra (1 nível): cerca de 35 ml a 40 ml, exemplos de ristretto e espresso curto",
+          "2 barras (2 níveis): cerca de 50 ml a 60 ml, exemplos de espresso tradicional",
+          "3 barras (3 níveis): cerca de 80 ml a 90 ml, exemplos de espresso duplo ou bebidas curtas com leite",
+          "4 barras (4 níveis): cerca de 110 ml a 120 ml, exemplos de lungo ou etapa de café do cappuccino",
+          "5 barras (5 níveis): cerca de 140 ml a 150 ml, exemplos de Café au Lait ou chá",
+          "6 barras (6 níveis): cerca de 170 ml a 180 ml, exemplos de bebidas médias com leite ou chocolate",
+          "7 barras (7 níveis): cerca de 200 ml a 220 ml, exemplos de cafés grandes e bebidas longas",
+          "Função XL: 300 ml nos manuais consultados, tamanho máximo extra grande"
         ],
         "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
         "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com volumes de cafés, lattes e bebidas preparadas em duas etapas",
         "imageCaption": "Foto da tabela de preparo impressa na embalagem: cafés, lattes e as duas extrações de bebidas como latte macchiato e cappuccino.",
         "imageFit": "contain"
+      },
+      {
+        "heading": "Como chegamos a estes números",
+        "paragraphs": [
+          "Os tracinhos e ícones do painel da Genio S Touch não mostram os valores em mililitros, e as informações online divergem: parte pode vir de modelos, cápsulas ou referências distintas, e há fontes que associam o XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
+          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+          "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
+        ],
+        "bullets": []
       },
       {
         "heading": "Como funciona a variação de volume por nível",
@@ -37967,7 +38022,7 @@ export const reviewsData: unknown[] = [
           "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
-          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
+          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos, e esse dado vem da documentação oficial do Adaptador NEO Start.",
           "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
           "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
         ]
@@ -37980,7 +38035,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo reúne uma compilação editorial dos volumes mostrados nos manuais da NESCAFÉ Dolce Gusto Genio S Touch e da Mini Me 2.0; a marca não publica uma tabela única para todos os níveis. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
+    "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -38047,6 +38102,7 @@ export const reviewsData: unknown[] = [
     "id": 244,
     "slug": "yesstyle-e-confiavel",
     "title": "YesStyle é confiável? O que observar antes de comprar",
+    "seoTitle": "YesStyle é confiável? Dados da empresa e o que conferir",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -38084,6 +38140,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva é que a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo Os produtos da YesStyle são originais?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
           "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é uma empresa pública com operações fiscalizadas e auditadas.",
@@ -38098,7 +38160,7 @@ export const reviewsData: unknown[] = [
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
           "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
-          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, trabalhando com marcas conhecidas como COSRX, Etude House, Hada Labo e Rohto, adquirindo produtos diretamente das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
+          "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38108,7 +38170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito internacional, PayPal e, em alguns países, carteiras locais). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
         ],
         "bullets": [],
@@ -38120,7 +38182,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os produtos da YesStyle são originais? De onde é a YesStyle?",
         "paragraphs": [
           "A YesStyle é de Hong Kong. Foi fundada lá em 2006 e pertence à YesAsia Holdings Limited, listada na Bolsa de Hong Kong (código 2209.HK), que também opera a loja YesAsia e a AsianBeautyWholesale, plataforma de atacado de beleza asiática.",
-          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
+          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada dessas marcas e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
         ],
         "bullets": [
           "Na página do produto, confira se a marca e o nome do item batem com o site oficial da marca;",
@@ -38137,16 +38199,23 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
           "Confira o frete e o prazo no checkout antes de pagar. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000; como pedir está no [guia de entrega](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
-          "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
+          "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado: padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
-          "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
+          "Produtos podem chegar em caixa lacrada: não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na YesStyle?",
+        "paragraphs": [
+          "Dá, com a conferência de sempre. A YesStyle é de Hong Kong, existe desde 2006 e é controlada pela YesAsia Holdings (2209.HK), listada em bolsa. Ela declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, mas não há auditoria independente dessa afirmação. Se o pacote for taxado, a loja reembolsa impostos e taxas de alfândega em pedidos abaixo de US$ 1.000.",
+          "Na prática: compre pelo domínio yesstyle.com, confira frete e prazo no checkout, guarde o comprovante e, na entrega, confira lote, validade e lacre."
         ]
       },
       {
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dessa parceria, leitores podem utilizar o código de recompensa (Reward Code) CECILIA010 no campo específico do checkout para obter até 5% de desconto extra na primeira compra e 2% nas compras recorrentes. Este código é compatível com cupons promocionais elegíveis ativos no site, permitindo acumular descontos.",
-          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
+          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor: o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
         ],
         "bullets": []
       },
@@ -38160,7 +38229,7 @@ export const reviewsData: unknown[] = [
           "YesStyle cobra impostos de importação para o Brasil? O imposto pode ser cobrado na chegada do pacote. A YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
-          "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
+          "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, carteiras locais. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
           "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
           "YesStyle oferece frete grátis para o Brasil? A loja não publica frete grátis para o Brasil; o frete aparece no checkout, antes de pagar.",
@@ -38171,11 +38240,12 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Conheça a YesStyle e aproveite o código CECILIA010",
       "label": "Visitar loja",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca, registros de empresa, e pesquisa independente verificada.",
+    "editorialNote": "Baseado em dados públicos. O código CECILIA010 vem de parceria comercial.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -38401,6 +38471,7 @@ export const reviewsData: unknown[] = [
     "id": 246,
     "slug": "adaptador-neo-start-o-que-e",
     "title": "Adaptador NEO Start: o que é e quando você precisa dele",
+    "seoTitle": "Adaptador NEO Start: o que é e quais máquinas aceitam",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -38418,6 +38489,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. Vale para quem já tem um dos oito modelos aceitos e quer provar a linha NEO sem trocar de máquina. O que decide é o modelo e o consumo; veja o capítulo Vale a pena comprar?"
+        ]
+      },
       {
         "heading": "O Adaptador NEO Start: entendendo o sistema",
         "paragraphs": [
@@ -38460,7 +38537,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
           "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
-          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force — auxilie o fechamento aplicando leve pressão com a palma da mão.",
+          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
           "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
         ],
         "bullets": [
@@ -38493,7 +38570,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Máquinas compatíveis com o Adaptador NEO Start",
         "paragraphs": [
-          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador — a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador: a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
         ],
         "bullets": [
           "Genio S",
@@ -38510,13 +38587,15 @@ export const reviewsData: unknown[] = [
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
           "O Adaptador NEO Start é compatível com uma seleção oficial de cafés pretos da linha NEO (variedades de Espresso e Lungo). Bebidas com leite, chás ou receitas mistas não são suportadas pelo adaptador.",
-          "Confira os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
+          "Estes são os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
         ],
         "bullets": [
           "NEO Espresso Sul de Minas Orgânico",
           "NEO Starbucks® Espresso Roast",
           "NEO Espresso Delicate",
           "NEO Lungo Cerrado Orgânico",
+          "NEO Espresso Serras do Alto Paranaíba",
+          "NEO Lungo Chapada Diamantina",
           "A seleção de cápsulas pode mudar; confirme a compatibilidade na loja oficial antes da compra.",
           "Bebidas com leite e outras linhas mistas NEO não são compatíveis com o adaptador."
         ],
@@ -38548,23 +38627,23 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
+        "heading": "Integração com o Dolce Gusto Club",
+        "paragraphs": [
+          "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Vale a pena comprar?",
         "paragraphs": [
           "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
         ],
         "bullets": [
           "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
-          "Se você consome pouquíssimo café, pode não compensar o investimento — nesse caso, as cápsulas ORIGINAL comuns já atendem.",
+          "Se você consome pouquíssimo café, pode não compensar o investimento: nesse caso, as cápsulas ORIGINAL comuns já atendem.",
           "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
           "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
         ]
-      },
-      {
-        "heading": "Integração com o Dolce Gusto Club",
-        "paragraphs": [
-          "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
-        ],
-        "bullets": []
       },
       {
         "heading": "Perguntas frequentes",
@@ -38586,7 +38665,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é um guia editorial baseado na página oficial e no manual do Adaptador NEO Start. Compatibilidade, preço, estoque e benefícios podem mudar; confirme no site oficial antes da compra. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -40058,7 +40137,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 258,
     "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-    "title": "Aliv Head Gel IWS: máscara térmica para dor de cabeça vale a pena?",
+    "title": "Aliv Head Gel IWS: máscara térmica fria ou quente, como usar e para quem serve",
+    "seoTitle": "Aliv Head Gel IWS: máscara térmica fria ou quente",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -40125,6 +40205,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. Não substitui avaliação de saúde; veja o capítulo Vale a pena? Para quem serve."
+        ]
+      },
+      {
         "heading": "O que é a máscara Aliv Head Gel IWS",
         "paragraphs": [
           "A Aliv Head Gel IWS é uma máscara térmica reutilizável da I Wanna Sleep, criada para aplicação fria ou quente na cabeça e na região dos olhos.",
@@ -40176,7 +40262,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertura 360 graus e redução de luz",
         "paragraphs": [
-          "A sensibilidade à luz pode acompanhar alguns episódios de dor de cabeça. Uma máscara que reduz a luz pode tornar o descanso mais confortável em um ambiente claro.",
+          "Uma máscara que reduz a luz pode tornar o descanso mais confortável em um ambiente claro.",
           "A Aliv Head Gel cobre testa, têmporas, topo da cabeça e região dos olhos. O nível de bloqueio de luz varia conforme o ajuste no rosto e a iluminação do ambiente; não deve ser tratado como blackout garantido."
         ],
         "bullets": [
@@ -40189,13 +40275,14 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Conforto térmico: vale a pena?",
+        "heading": "Vale a pena? Para quem serve",
         "paragraphs": [
           "A máscara pode ser uma opção de conforto térmico em casa, no trabalho ou durante uma pausa. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
           "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
         ],
         "bullets": [
-          "Pode fazer sentido para quem procura uma máscara térmica reutilizável.",
+          "Serve a quem procura uma máscara térmica reutilizável, sem tiras, para fria ou quente.",
+          "Não serve a quem espera bloqueio total de luz: o resultado muda com o ajuste no rosto.",
           "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
           "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
         ],
@@ -40227,7 +40314,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia editorial foi elaborado com base em especificações públicas da I Wanna Sleep e não oferece orientação médica. Preços, disponibilidade, políticas e cupons podem mudar. O cupom CECIEMCASA faz parte de parceria comercial e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -40516,7 +40603,7 @@ export const reviewsData: unknown[] = [
     "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
     "type": "Review de Produto",
     "category": "produtos-experiencias",
-    "reviewKind": "product",
+    "reviewKind": "produto",
     "draft": false,
     "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
     "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
@@ -40591,9 +40678,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta na bancada, com controles no painel no lugar da alavanca da Mini Me clássica. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo; veja em Pontos reais de atenção."
+        ]
+      },
+      {
         "heading": "Design Terracota e controles da Mini Me 2.0",
         "paragraphs": [
-          "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota — um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+          "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
           "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
         ]
       },
@@ -40683,7 +40776,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo reflete a experiência de uso pessoal com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 Terracota. A menção ao cupom CECI decorre de uma parceria comercial com a NESCAFÉ Dolce Gusto.",
+    "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
@@ -40716,7 +40809,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nunca tinha tido lava e seca. Gravei o unboxing da Samsung 13 kg (WD13FG), o sufoco da porta de 80 cm, o improviso no encanamento, o batismo da Dona Amélia e o primeiro ciclo de toalhas a 60 °C com secagem completa.",
-    "seoTitle": "Lava e Seca Samsung 13 kg é Boa? Unboxing e Primeiro Uso Real",
+    "seoTitle": "Lava e Seca Samsung 13 kg: Unboxing e Primeiras Impressões",
     "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
@@ -40834,11 +40927,17 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "A Ferrari das donas de casa e o batismo da Dona Amélia",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este é o meu review do nosso primeiro contato prático, gravado em casa sem qualquer filtro comercial.",
+          "A Samsung 13 kg foi a nossa primeira lava e seca, e a secagem de quatro toalhas funcionou bem. O que pesa são a porta de 80 cm, o encanamento e a instalação, que pedem planejamento. É uma primeira impressão, não uma avaliação de longo prazo; veja o capítulo O que podemos afirmar e os próximos passos."
+        ]
+      },
+      {
+        "heading": "Minha primeira lava e seca: o sonho e o batismo da Dona Amélia",
+        "paragraphs": [
+          "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este é o meu review do nosso primeiro contato prático, gravado em casa.",
           "Eu nunca tinha tido uma lava e seca na vida. Nunca tinha lavado roupa com água aquecida a 60 °C, nunca tinha secado peças diretamente no tambor e evitei assistir a reviews de outros influenciadores de propósito. Eu queria viver a experiência exata de quem recebe o eletrodoméstico na porta, tira a embalagem e se pergunta: “E agora, cadê o manual? Como funciona?”.",
-          "A nossa máquina de lavar anterior se chama Dona Consuelo — porque é uma Consul clássica de abertura superior. A nova moradora da lavanderia não podia ficar sem identidade: foi batizada na hora de Dona Amélia. “Amélia que não tinha a menor vaidade, era mulher de verdade”. Dona Amélia, com todo o respeito. Foram três dias inteiros de gravação para lavar quatro toalhas e registrar cada detalhe, do desembale à dobra final."
+          "A nossa máquina de lavar anterior se chama Dona Consuelo, porque é uma Consul clássica de abertura superior. A nova moradora da lavanderia não podia ficar sem identidade: foi batizada na hora de Dona Amélia. “Amélia que não tinha a menor vaidade, era mulher de verdade”. Dona Amélia, com todo o respeito. Foram três dias inteiros de gravação para lavar quatro toalhas e registrar cada detalhe, do desembale à dobra final."
         ],
         "video": {
           "mp4": "/videos/reviews/samsung/lava-e-seca-loop.mp4",
@@ -40862,15 +40961,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O manual de uma folha e os parafusos de um palmo",
         "paragraphs": [
-          "Ao abrir a máquina, o manual impresso que encontramos é basicamente uma única folha de papel com instruções mínimas e um aviso em destaque: “Olhe o QR code”. Eu confesso que tenho birra de eletrodoméstico moderno que só disponibiliza manual no celular — e até brinquei no vídeo se a economia de papel da fábrica foi repassada em desconto para o consumidor!",
+          "Ao abrir a máquina, o manual impresso que encontramos é basicamente uma única folha de papel com instruções mínimas e um aviso em destaque: “Olhe o QR code”. Eu confesso que tenho birra de eletrodoméstico moderno que só disponibiliza manual no celular, e até brinquei no vídeo se a economia de papel da fábrica foi repassada em desconto para o consumidor!",
           "Na traseira da máquina, os cabos de energia e as mangueiras vêm perfeitamente presos e organizados. Dentro do tambor de inox vieram a mangueira de entrada de água e o manual complementar com o alerta mais importante de todo o unboxing: **remover todos os parafusos de transporte antes de ligar**.",
-          "Esses parafusos ficam na parte de trás da lavadora, travando o tambor para que ele não balance durante o frete rodoviário. São quatro peças enormes de quase um palmo de comprimento — cerca de 15 centímetros de metal maciço e borracha! A máquina já acompanha uma chave sextavada própria para retirá-los e tampas plásticas para vedar os furos. Se você ligar a máquina sem tirar esses parafusos, ela pode vibrar violentamente e danificar o motor."
+          "Esses parafusos ficam na parte de trás da lavadora, travando o tambor para que ele não balance durante o frete rodoviário. São quatro peças enormes de quase um palmo de comprimento: cerca de 15 centímetros de metal maciço e borracha! A máquina já acompanha uma chave sextavada própria para retirá-los e tampas plásticas para vedar os furos. Se você ligar a máquina sem tirar esses parafusos, ela pode vibrar violentamente e danificar o motor."
         ]
       },
       {
         "heading": "O sufoco do encanamento e a instalação na lavanderia",
         "paragraphs": [
-          "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento — acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
+          "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento, acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
           "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
@@ -40902,12 +41001,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Centrifugação, secagem de 2h45 e o veredito das toalhas",
         "paragraphs": [
-          "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas — a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
+          "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas: a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
           "Decidi ativar o ciclo de **Secagem** na mesma carga. O visor estimou **2h45 minutos** de secagem térmica. O ciclo terminou tarde da noite, então deixei a máquina fechada e só fui abrir no dia seguinte pela manhã para o veredito final.",
           "Ao abrir o tambor pela manhã: toalhas **100% secas, macias, fofas e quentinhas**, prontas para dobrar e guardar ou usar direto no banho! O cheiro característico é de lavanderia profissional. Com a temperatura alta da secagem, o aroma forte do amaciante deu uma leve amenizada, ficando um perfume muito agradável e limpo.",
           "Analisando o resultado de cada toalha na bancada:",
           "1. **As toalhas brancas:** que entraram limpas permaneceram super brancas, macias e impecáveis.",
-          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum — exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
+          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
           "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
           "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Ela reduz o risco de as roupas ficarem dias no varal, pegarem cheiro de umidade ou mofarem no cesto por falta de sol."
         ]
@@ -40942,7 +41041,7 @@ export const reviewsData: unknown[] = [
           "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 no total.",
           "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
           "• **Manchas severas de mofo:** exigem pré-tratamento com tira-manchas ou percarbonato antes de ir para a máquina (sempre respeitando as instruções do produto e a etiqueta da peça).",
-          "Como este é o nosso relato de primeiro uso e unboxing, daqui a um mês publicarei o review de acompanhamento contando a experiência contínua e aplicando as dicas deixadas nos comentários!",
+          "Como este é o nosso relato de primeiro uso e unboxing, quando houver uso de longo prazo, atualizo esta página com o que mudou.",
           "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
         ],
         "links": [
@@ -40988,7 +41087,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "editorialNote": "Primeiras impressões de uso real e unboxing gravados na lavanderia de casa por Cecília Mauad. Como associado da Amazon, eu ganho com compras qualificadas. Os links comerciais para lojistas parceiros ajudam a apoiar o canal sem nenhum custo extra para o leitor. Não é uma avaliação de longo prazo.",
+    "editorialNote": "Primeiras impressões, sem uso de longo prazo. Links da Amazon e do Mercado Livre são de afiliado.",
     "youtubeUrl": "https://youtu.be/xpXX_N002jo",
     "cta": {
       "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",
@@ -41025,6 +41124,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor, com 13 g de proteína por porção de 15 g. Contém lactose, e o rótulo diz que não deve ser consumido por gestantes, lactantes e crianças; a tabela está em Tabela nutricional da embalagem de 280g."
+        ]
+      },
+      {
         "heading": "O que é e para que serve o Nutren Just Protein?",
         "paragraphs": [
           "O Nutren Just Protein é um suplemento alimentar em pó da Nestlé Health Science. Sua fórmula contém proteína isolada do soro do leite e emulsificante lecitina; uma porção de 15g fornece 13g de proteína.",
@@ -41037,20 +41142,16 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "O que a informação oficial permite afirmar",
+        "heading": "O que o rótulo informa",
         "paragraphs": [
-          "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar para complementar as necessidades diárias de proteína. A alegação divulgada pela fabricante é que as proteínas auxiliam na formação de músculos e ossos.",
-          "Suplementos alimentares não são medicamentos e não devem ser apresentados como forma de prevenir, tratar ou controlar doenças. Necessidades relacionadas a cirurgia, tratamento oncológico, cirurgia bariátrica, perda de massa muscular ou outras condições clínicas exigem avaliação individual por médico ou nutricionista."
+          "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar de proteína.",
+          "Suplemento alimentar não é medicamento. Quem tem uma condição clínica ou necessidades específicas de proteína deve procurar um médico ou nutricionista."
         ],
         "bullets": [
           "Cada porção de 15g fornece 13g de proteína, conforme a tabela nutricional da embalagem;",
           "A recomendação do rótulo para adultos é consumir uma porção ao dia;",
           "O produto não é adequado para uso como única fonte de nutrição."
-        ],
-        "image": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
-        "imageAlt": "Frente da lata de 280g do Nutren Just Protein: 100% whey protein isolado, sem sabor e sem glúten",
-        "imageCaption": "Frente da lata de 280g: suplemento de proteína isolada do soro do leite, sem sabor e sem glúten.",
-        "imageFit": "contain"
+        ]
       },
       {
         "heading": "Tabela nutricional da embalagem de 280g",
@@ -41058,7 +41159,7 @@ export const reviewsData: unknown[] = [
           "A fórmula contém proteína isolada do soro do leite e emulsificante lecitina. O produto não contém glúten nem açúcares adicionados, mas contém lactose e derivados de leite e soja. Confira os valores declarados por porção de 15g (duas colheres de sopa cheias):"
         ],
         "bullets": [
-          "Valor Energético: 52 kcal (218 kJ) — apenas 3% do valor diário de referência;",
+          "Valor Energético: 52 kcal (218 kJ), 3% do valor diário de referência;",
           "Proteínas: 13g (26% do valor diário de referência);",
           "Carboidratos, açúcares totais e açúcares adicionados: 0g;",
           "Não contém quantidades significativas de gorduras totais, gorduras saturadas, gorduras trans e fibras alimentares;",
@@ -41075,9 +41176,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Em comidas salgadas: experimente misturar gradualmente em sopas, canjas, purês ou no caldo do feijão já servido;",
           "Em bebidas e café da manhã: pode ser testado em vitaminas, iogurtes ou outras preparações compatíveis com suas restrições alimentares;",
-          "Sugestão 1 — caldo verde com proteína: retire a porção do fogo, acrescente o pó aos poucos e mexa até atingir a consistência desejada;",
-          "Sugestão 2 — vitamina de banana: bata a fruta com a bebida escolhida e acrescente a quantidade definida para sua rotina;",
-          "Sugestão 3 — mingau de aveia: depois de desligar o fogo, incorpore o pó gradualmente e ajuste a quantidade de líquido se necessário."
+          "Caldo verde com proteína: retire a porção do fogo, acrescente o pó aos poucos e mexa até atingir a consistência desejada;",
+          "Vitamina de banana: bata a fruta com a bebida escolhida e acrescente a quantidade definida para sua rotina;",
+          "Mingau de aveia: depois de desligar o fogo, incorpore o pó gradualmente e ajuste a quantidade de líquido se necessário."
         ],
         "image": "/images/reviews/nutren/nutren-just-protein-modo-preparo.avif",
         "imageAlt": "Verso da lata do Nutren Just Protein com o modo de preparo: 2 colheres de sopa (15g) em 120 ml de água",
@@ -41116,10 +41217,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Informações técnicas do Nutren Just Protein na Nestlé Health Science",
             "href": "https://www.nestlehealthscience.com.br/marcas/nutren/just-protein-lata-280g"
-          },
-          {
-            "label": "Orientações da Anvisa sobre suplementos alimentares",
-            "href": "https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares"
           }
         ]
       },
@@ -41127,11 +41224,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
           "Qual a tabela nutricional do Nutren Just Protein? Por porção de 15 g: 52 kcal, 13 g de proteína, 0 g de carboidratos e açúcares, 76 mg de sódio e nenhuma quantidade significativa de gorduras.",
-          "Nutren Just Protein engorda? Não é possível atribuir ganho ou perda de peso a um único produto. Cada porção de 15g fornece 52 kcal e 13g de proteína; o efeito no peso depende do consumo alimentar total, das necessidades individuais e da rotina.",
+          "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
           "Nutren Just Protein tem lactose? Sim. A página oficial informa que contém lactose e derivados de leite e soja. Pessoas com alergia à proteína do leite ou à soja não devem consumir; em caso de intolerância ou outra restrição, consulte o rótulo e um profissional de saúde.",
-          "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição.",
+          "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição. Para orientação sobre alimentação, procure um nutricionista.",
           "Qual o cupom de desconto para a loja oficial Nestlé Nutre? O cupom CECI pode ser testado no checkout para verificar a aplicação de 10% de desconto em itens elegíveis, conforme as condições vigentes da loja oficial."
         ]
       }
@@ -41144,7 +41241,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo reúne informações do rótulo e das páginas oficiais da Nestlé, além de sugestões editoriais de uso culinário. Não substitui orientação médica ou nutricional. O site Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
@@ -41205,6 +41302,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. O que pesa é a diferença de preço no dia da compra; veja o capítulo Veredito editorial."
+        ]
+      },
       {
         "heading": "A família Genio S: por que tanta confusão?",
         "paragraphs": [
@@ -41355,7 +41458,7 @@ export const reviewsData: unknown[] = [
           "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
           "As máquinas Genio S só fazem café? Não. Elas aceitam cápsulas do sistema NESCAFÉ Dolce Gusto ORIGINAL, incluindo opções de chocolate, cappuccino e chá, conforme disponibilidade do catálogo.",
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
-          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente — os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
+          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
           "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
         ]
@@ -41369,7 +41472,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este guia compara as especificações públicas da Genio S Basic, Plus e Touch divulgadas pela Arno. As impressões de uso próprio e as fotos feitas em casa se referem somente à Genio S Touch. O site Em Casa com Cecília mantém parceria comissionada com a Dolce Gusto por meio do cupom CECI.",
+    "editorialNote": "Compara fichas da Arno; só a Touch foi usada em casa. Parceria comissionada (cupom CECI).",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -41410,7 +41513,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 265,
     "slug": "k-beauty-o-que-e-onde-comprar",
-    "title": "K-Beauty: descubra por que virou febre mundial e onde comprar as marcas coreanas",
+    "title": "K-Beauty: o que é, por que virou tendência e onde comprar as marcas coreanas",
     "seoTitle": "K-Beauty: o que é e onde comprar marcas coreanas",
     "type": "Editorial",
     "category": "guias-praticos-utilidade",
@@ -41436,13 +41539,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "K-Beauty é a rotina coreana de skincare em várias camadas, conhecida pelo ritmo de lançamentos. Fora da Coreia, o difícil é comprar: as marcas vendem em sites separados, com frete repetido. A YesStyle reúne várias num carrinho só; veja em \"Onde a YesStyle entra nisso\" como funciona."
+        ]
+      },
+      {
         "heading": "O que é K-Beauty",
         "paragraphs": [
-          "K-Beauty é mais do que um rótulo de origem — é uma filosofia de cuidados com a pele que nasceu na Coreia do Sul e se tornou sinônimo de inovação, ritmo acelerado de lançamentos e uma abordagem bem diferente da que muita gente aprendeu a ter com skincare.",
-          "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme — cada etapa pensada para preparar a pele pra próxima.",
-          "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões.",
-          "Em termos de ingredientes, K-Beauty é conhecida por explorar ativos que nem sempre são comuns em outras regiões: centella asiática (calmante, associada a peles sensíveis), niacinamida (usada para controle de oleosidade e uniformização do tom), mucina de caracol ou snail mucin (hidratante, um dos ingredientes mais associados à categoria, ainda que também seja um dos mais controversos para quem prefere fórmulas veganas), PDRN (um ativo mais recente, ligado a rotinas de renovação da pele), própolis e ingredientes fermentados, que a indústria coreana popularizou como forma de deixar as fórmulas mais suaves para a pele. K-Beauty também popularizou formatos como o cushion compact (uma esponja embebida em base ou BB cream dentro de um estojo com espelho), as sheet masks de tecido com soro concentrado, e as ampolas serológicas.",
-          "Um termo muito associado à categoria é \"glass skin\" — a ideia de uma pele tão uniforme, hidratada e com tanto brilho saudável que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com barreira cutânea saudável, textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
+          "K-Beauty é mais do que um rótulo de origem: é uma filosofia de cuidados com a pele que nasceu na Coreia do Sul e se tornou sinônimo de inovação, ritmo acelerado de lançamentos e uma abordagem bem diferente da que muita gente aprendeu a ter com skincare.",
+          "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme: cada etapa pensada para preparar a pele para próxima.",
+          "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -41451,50 +41558,47 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Por que K-Beauty virou uma tendência global",
+        "heading": "Ingredientes e formatos que a K-Beauty popularizou",
         "paragraphs": [
-          "A explosão de K-Beauty fora da Ásia nas últimas duas décadas não é acidental. Alguns fatores se somaram pra criar essa onda de curiosidade e adoção em massa.",
-          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana — quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta pros produtos que usam.",
-          "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente — a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
-          "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
-          "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele — e hoje é possível ter acesso a isso online."
+          "Em termos de ingredientes, K-Beauty é conhecida por explorar ativos que nem sempre são comuns em outras regiões: centella asiática e niacinamida (muito presentes em séruns e cremes), mucina de caracol ou snail mucin (um dos ingredientes mais associados à categoria, ainda que também seja um dos mais controversos para quem prefere fórmulas veganas), PDRN (um ativo mais recente), própolis e ingredientes fermentados, que a indústria coreana popularizou. K-Beauty também popularizou formatos como o cushion compact (uma esponja embebida em base ou BB cream dentro de um estojo com espelho), as sheet masks de tecido com soro concentrado, e as ampolas serológicas.",
+          "Um termo muito associado à categoria é \"glass skin\": a ideia de uma pele tão uniforme e luminosa que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "Por que K-Beauty virou uma tendência global",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine — e parte da atração de quem visita o país.",
-        "imageFit": "cover"
+        "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine, e parte da atração de quem visita o país.",
+        "imageFit": "cover",
+        "paragraphs": [
+          "A explosão de K-Beauty fora da Ásia nas últimas duas décadas não é acidental. Alguns fatores se somaram para criar essa onda de curiosidade e adoção em massa.",
+          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta para os produtos que usam.",
+          "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente: a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
+          "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
+          "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele, e hoje é possível ter acesso a isso online."
+        ],
+        "bullets": []
       },
       {
         "heading": "O problema de comprar K-Beauty fora da Coreia",
         "paragraphs": [
           "Se K-Beauty é tão relevante, por que não é tão simples encontrar num shopping ou farmácia? A resposta está na distribuição.",
-          "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real pra quem quer montar uma rotina completa — digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
-          "Se cada marca só vende no próprio site (ou nem vende internacionalmente de forma oficial), a alternativa vira: fazer vários checkouts separados, pagar frete internacional várias vezes, esperar entregas em datas diferentes, e ainda lidar com câmbio e eventuais taxas de importação conforme a legislação de cada país de destino — que varia bastante e muda com frequência, então vale sempre conferir a regra vigente na sua região antes de comprar.",
-          "Pra muita gente, essa fricção logística — não o preço nem a qualidade dos produtos — é o que afasta da ideia de experimentar K-Beauty. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar pra acompanhar o pedido é cansativo.",
-          "Além disso, nem toda marca coreana vende direto pra fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros — nem sempre confiáveis — ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
+          "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
+          "Se cada marca só vende no próprio site (ou nem vende internacionalmente de forma oficial), a alternativa vira: fazer vários checkouts separados, pagar frete internacional várias vezes, esperar entregas em datas diferentes, e ainda lidar com câmbio e eventuais taxas de importação conforme a legislação de cada país de destino, que varia bastante e muda com frequência, então vale sempre conferir a regra vigente na sua região antes de comprar.",
+          "Para muita gente, essa fricção logística, não o preço nem a qualidade dos produtos, é o que afasta da ideia de experimentar K-Beauty. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar para acompanhar o pedido é cansativo.",
+          "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
         ],
         "bullets": []
       },
       {
         "heading": "Onde a YesStyle entra nisso",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "Logo da YesStyle",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "É aqui que plataformas como a YesStyle resolvem o problema.",
-          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas — e também japonesas e de outras partes da Ásia — num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree — uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
-          "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa dá pra complementar uma compra de sérum com outros itens na mesma transação.",
-          "Pra quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo.",
-          "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível pra quem só quer testar se a fama é real."
+          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+          "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
+          "Para quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo.",
+          "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível para quem só quer testar se a fama é real."
         ],
         "bullets": [],
         "links": [
@@ -41518,11 +41622,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre K-Beauty",
         "bullets": [
-          "K-Beauty é a mesma coisa que J-Beauty (beleza japonesa)? Não, embora os dois termos apareçam juntos com frequência. K-Beauty e J-Beauty compartilham uma ênfase forte em cuidados com a pele, mas as filosofias tendem a ser diferentes: J-Beauty costuma ser associada a um minimalismo mais funcional e à proteção solar como base de tudo, enquanto K-Beauty é mais conhecida pelo layering em várias camadas e pela inovação constante de ingredientes. Na prática, dá pra combinar as duas: a própria YesStyle reúne marcas japonesas conhecidas como Hada Labo e Rohto ao lado das marcas coreanas.",
-          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada — comprando diretamente das fabricantes ou de parceiros oficiais — e é subsidiária de uma empresa de capital aberto (YesAsia Holdings), o que traz um nível de transparência corporativa acima de um revendedor avulso. Ainda assim, vale sempre conferir a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
-          "O código CECILIA010 funciona pra produtos de K-Beauty também? Sim, é um código de recompensa geral da loja, não restrito a uma categoria específica — vale tanto pra skincare coreano quanto pra moda e outros itens do catálogo. Ainda assim, é sempre bom conferir no carrinho se o desconto foi aplicado corretamente antes de fechar o pedido.",
-          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional — como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi — costumam ser bons pontos de entrada. Uma estratégia comum pra quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade.",
-          "Todo ingrediente K-Beauty serve pra qualquer tipo de pele? Não necessariamente — isso vale pra qualquer produto de skincare, não só K-Beauty. Ingredientes populares como niacinamida e centella asiática costumam ser bem tolerados pela maioria das pessoas, mas \"a maioria\" não é \"todo mundo\". Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, testar um produto novo numa área pequena antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista antes de começar uma rotina nova."
+          "K-Beauty é a mesma coisa que J-Beauty (beleza japonesa)? Não, embora os dois termos apareçam juntos com frequência. K-Beauty e J-Beauty compartilham uma ênfase forte em cuidados com a pele, mas as filosofias tendem a ser diferentes: J-Beauty costuma ser associada a um minimalismo mais funcional e à proteção solar como base de tudo, enquanto K-Beauty é mais conhecida pelo layering em várias camadas e pela inovação constante de ingredientes. Na prática, dá para combinar as duas: a própria YesStyle reúne marcas japonesas conhecidas como Hada Labo e Rohto ao lado das marcas coreanas.",
+          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada, comprando diretamente das fabricantes ou de parceiros oficiais, e é subsidiária de uma empresa de capital aberto (YesAsia Holdings), o que traz um nível de transparência corporativa acima de um revendedor avulso. Ainda assim, vale sempre conferir a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
+          "O código CECILIA010 funciona para produtos de K-Beauty também? Sim, é um código de recompensa geral da loja, não restrito a uma categoria específica: vale tanto para skincare coreano quanto para moda e outros itens do catálogo. Ainda assim, é sempre bom conferir no carrinho se o desconto foi aplicado corretamente antes de fechar o pedido.",
+          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, costumam ser bons pontos de entrada. Uma estratégia comum para quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade.",
+          "Todo ingrediente K-Beauty serve para qualquer tipo de pele? Não necessariamente: isso vale para qualquer produto de skincare, não só K-Beauty. Ingredientes populares como niacinamida e centella asiática costumam ser bem tolerados pela maioria das pessoas, mas \"a maioria\" não é \"todo mundo\". Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, testar um produto novo numa área pequena antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista antes de começar uma rotina nova."
         ]
       }
     ],
@@ -41534,7 +41638,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "A menção à YesStyle e ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle, que pode gerar comissão para o blog sem custo adicional para você.",
+    "editorialNote": "Parceria com a YesStyle: podemos receber comissão pelos links e pelo código CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -43802,7 +43906,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento — com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
+    "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
     "metaDescription": "Como escolher poltrona decorativa: entenda o ícone Eames, meça circulação, compare Aurora manual com puff e Levita elétrica e escolha o revestimento para sua rotina.",
     "publishedAt": "2 de setembro de 2026",
     "publishedAtISO": "2026-09-02",
@@ -43815,6 +43919,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+        ]
+      },
       {
         "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
         "paragraphs": [
@@ -43873,20 +43983,8 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Ver a ficha da Cadeira Eames Lounge na Herman Miller",
-            "href": "https://store.hermanmiller.com/features-buying-guides-eames-lounge-chair.html?lang=en_US"
-          },
-          {
             "label": "Consultar o registro dos Eames no acervo do MoMA",
             "href": "https://www.moma.org/collection/works/3325"
-          },
-          {
-            "label": "Ver o exemplar ES670 Preta/Walnut na Herman Miller Brasil",
-            "href": "https://store.hermanmiller.com.br/poltrona-charles-eames-es670_pretawalnut/p"
-          },
-          {
-            "label": "Ver o conjunto Lounge e otomana na Herman Miller Brasil",
-            "href": "https://store.hermanmiller.com.br/poltrona-eames-lounge-e-otomana/p"
           }
         ]
       },
@@ -43908,7 +44006,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. É uma proposta coerente para quem quer decidir a posição do apoio para os pés separadamente e prefere não depender de tomada no local escolhido.",
           "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Isso não elimina a necessidade de medir a sala; ao contrário, a área do puff deve entrar na planta desde o começo.",
-          "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita — mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
+          "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita, mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
         ],
         "bullets": [],
         "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
@@ -43949,7 +44047,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Aurora manual ou Levita elétrica: qual cenário combina com você?",
+        "heading": "Qual escolher: Aurora manual ou Levita elétrica",
         "paragraphs": [
           "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto. A síntese abaixo ajuda a levar a comparação para a planta da sua casa.",
           "Se você gosta de deslocar o puff, quer um conjunto manual e não tem uma tomada conveniente, a Aurora merece entrar na lista curta. Se a possibilidade de encontrar combinações de encosto e apoio de pés é decisiva, e o ponto de energia já está previsto, a Levita é a alternativa a avaliar. Em ambos os casos, confira medidas, revestimento e condições vigentes diretamente com a marca antes da compra."
@@ -44034,7 +44132,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este guia contém links comissionados e parceria comercial com a DAMIE. O código CECILIA12 pode conceder 12% de desconto em itens elegíveis, sujeito às condições exibidas no checkout. Minha experiência própria mencionada no texto é com a Poltrona Levita; as informações sobre a Aurora foram conferidas na página oficial do produto.",
+    "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
     "relatedArticles": [
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
@@ -44109,8 +44207,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 279,
     "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-    "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep",
-    "seoTitle": "Qual Travesseiro Escolher? Guia das Linhas IWS [2026]",
+    "title": "Qual travesseiro escolher? Guia das linhas I Wanna Sleep por posição, material e altura",
+    "seoTitle": "Qual travesseiro escolher? Guia das linhas IWS",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44121,7 +44219,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Descubra qual o melhor travesseiro para o seu sono. Compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep e veja como escolher.",
+    "description": "Qual travesseiro escolher: compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição de dormir, material e altura.",
     "metaDescription": "Qual travesseiro escolher? Compare linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição, material e altura.",
     "publishedAt": "4 de setembro de 2026",
     "publishedAtISO": "2026-09-04",
@@ -44135,12 +44233,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Por que a escolha do travesseiro transforma o seu dia?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Passamos um terço da vida deitados sobre um travesseiro. Mesmo assim, a maioria das pessoas só se dá conta da importância desse acessório quando começa a acordar com torcicolo, dores de cabeça tensionais ou a sensação de noite mal dormida.",
+          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O capítulo Qual linha escolher liga cada perfil à linha certa."
+        ]
+      },
+      {
+        "heading": "As linhas de travesseiro da I Wanna Sleep",
+        "paragraphs": [
+          "A I Wanna Sleep (IWS) organiza o catálogo em famílias de produtos com diferentes formatos, materiais e alturas: Cervical/Ergonômica, Memory Foam, Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
           "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
-          "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única — e nem deveria ter. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
-          "A I Wanna Sleep (IWS) organiza seu catálogo em famílias de produtos com diferentes formatos, materiais e alturas — da linha Cervical/Ergonômica ao Memory Foam, passando por Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
+          "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
           "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
         ],
         "bullets": [],
@@ -44151,10 +44254,10 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.96
       },
       {
-        "heading": "Dor no Pescoço e Tensão Cervical: A Linha Ergonômica",
+        "heading": "A linha Cervical e Ergonômica: formato e apoio",
         "paragraphs": [
-          "O uso prolongado de telas e computadores pode contribuir para desconforto na nuca. Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra, mas não trata sozinho as causas de dor cervical.",
-          "Quem procura por travesseiro ortopédico ou travesseiro para dor no pescoço pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir, sem tratar o travesseiro como solução isolada para dor cervical."
+          "Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra. Quem tem dor persistente deve procurar um profissional de saúde.",
+          "Quem procura um travesseiro ortopédico pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir."
         ],
         "bullets": [
           "Cervical Coluna Relax®: modelo de destaque com formato côncavo central e curvas onduladas projetadas para apoiar a curvatura cervical de quem dorme de costas ou de lado;",
@@ -44172,23 +44275,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Coleção completa da linha Cervicais e Ergonômicos da I Wanna Sleep: Coluna Relax, Neck Plus Charcoal, Neck Plus Gel e Ergoblu",
         "imageCaption": "A linha Cervicais/Ergonômicos completa: Coluna Relax®, Neck Plus Charcoal™, Neck Plus Gel™ e Ergoblu™.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.14
+        "imageAspectRatio": 3.14,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+            "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
+            "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
-        "imageAlt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
-        "imageCaption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "A Linha Memory Foam: O que é o Travesseiro NASA?",
+        "heading": "A linha Memory Foam: o que é o travesseiro NASA?",
         "paragraphs": [
           "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
           "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
-          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto — a IWS tem quatro:"
+          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS tem quatro:"
         ],
         "bullets": [
-          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica — uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
+          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
           "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a ficha da fabricante, o formato pode reduzir pontos de pressão em até 60% e foi desenvolvido para quem sente calor durante a noite;",
           "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. A fabricante apresenta esses recursos como auxiliares no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
           "Skin®: linha Anti-rugas que usa tecnologia Airgelly® na capa para reduzir o atrito e distribuir a pressão do rosto. A fabricante apresenta esse efeito como auxílio para suavizar as marcas verticais de sono conhecidas como \"sleep lines\"."
@@ -44209,23 +44314,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Coleção completa da linha Memory Foam da I Wanna Sleep: Snow, Neck Plus Gel, Ergoblu e Bubble Gel",
         "imageCaption": "A linha Memory Foam completa: Snow®, Neck Plus Gel™, Ergoblu™ e Bubble Gel®.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.23
+        "imageAspectRatio": 3.23,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+            "alt": "Travesseiro Snow IWS com tecnologia de toque frio para dissipação térmica",
+            "caption": "Travesseiro Snow®: espuma de memória de alta densidade com sensação térmica refrescante.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-        "imageAlt": "Travesseiro Snow IWS com tecnologia de toque frio para dissipação térmica",
-        "imageCaption": "Travesseiro Snow®: espuma de memória de alta densidade com sensação térmica refrescante.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "Alergia e Rinite: A Linha Antialérgica",
+        "heading": "A linha Antialérgica: materiais e higiene",
         "paragraphs": [
-          "Espirro, coceira no nariz e congestão ao acordar podem ter diferentes causas; ácaros e poeira presentes nas roupas de cama estão entre os possíveis desencadeadores. Um travesseiro lavável e o uso de capas protetoras podem facilitar a higiene, mas não substituem avaliação e tratamento de alergias.",
-          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos."
+          "Um travesseiro lavável e o uso de capas protetoras facilitam a higiene da cama, mas não substituem a orientação de um profissional de saúde em caso de alergia.",
+          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a ficha."
         ],
         "bullets": [
-          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, hipoalergênico e desenvolvido para combater ácaros e bactérias. A marca oferece 30 dias de teste em casa e direciona o modelo a quem convive com rinite ou outra alergia respiratória;",
-          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra alérgenos, ácaros e odores é uma alegação da ficha da fabricante."
+          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, com material hipoalergênico, segundo a ficha. A marca oferece 30 dias de teste em casa;",
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra odores é uma alegação da ficha da fabricante."
         ],
         "links": [
           {
@@ -44241,14 +44348,14 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
-            "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável e antiácaros",
+            "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável",
             "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS.",
             "objectFit": "square"
           }
         ]
       },
       {
-        "heading": "Para Quem Dorme de Lado: Regulagem de Altura",
+        "heading": "Para quem dorme de lado: regulagem de altura",
         "paragraphs": [
           "Para quem dorme de lado, a altura do travesseiro deve preencher o espaço entre o ombro e a lateral da cabeça, ajudando a manter o pescoço em posição neutra.",
           "Se o travesseiro for muito baixo, a cabeça pode tombar em direção ao colchão; se for alto demais, o pescoço pode ficar inclinado para cima e causar desconforto.",
@@ -44256,9 +44363,9 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King);",
-          "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas — P (11cm), M (13cm) e G (15cm) — a resposta mais direta para quem já sabe qual altura precisa;",
+          "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas, P (11cm), M (13cm) e G (15cm), a resposta mais direta para quem já sabe qual altura precisa;",
           "Outros modelos de perfil estruturado que também funcionam bem de lado: Cervical Coluna Relax® e Bubble Gel® (cuja cavidade central alivia a pressão na orelha);",
-          "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, ajuda a evitar que a perna cruze à frente e pode favorecer uma posição mais neutra para quadril e lombar."
+          "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, mantém as pernas alinhadas ao dormir de lado."
         ],
         "links": [
           {
@@ -44276,23 +44383,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Linha Regulagem de Altura da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
         "imageCaption": "A família Snow®, a mesma tecnologia de altura ajustável em quatro formatos: padrão, infantil, corpo e viagem.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.13
+        "imageAspectRatio": 3.13,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+            "alt": "Detalhe do látex natural do Travesseiro Original Látex da I Wanna Sleep",
+            "caption": "Original Látex®: três alturas fixas (P, M e G), sem precisar ajustar.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
-        "imageAlt": "Detalhe do látex natural do Travesseiro Original Látex da I Wanna Sleep",
-        "imageCaption": "Original Látex®: três alturas fixas (P, M e G), sem precisar ajustar.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "Látex, Fibra e Pluma Natural: Conforto Sem Memory Foam",
+        "heading": "Látex, fibra e pluma natural: alternativas ao memory foam",
         "paragraphs": [
-          "Nem todo mundo gosta da sensação de afundamento do viscoelástico — algumas pessoas sentem que a espuma de memória \"prende\" os movimentos quando querem se virar na cama. Para esse perfil, a IWS mantém três famílias mais tradicionais, cada uma com uma resposta diferente ao toque:"
+          "Nem todo mundo gosta da sensação de afundamento do viscoelástico: algumas pessoas sentem que a espuma de memória \"prende\" os movimentos quando querem se virar na cama. Para esse perfil, a IWS mantém três famílias mais tradicionais, cada uma com uma resposta diferente ao toque:"
         ],
         "bullets": [
-          "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros — sem o afundamento lento do memory foam;",
-          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura — a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
-          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses — vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
+          "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros, sem o afundamento lento do memory foam;",
+          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
+          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses: vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
         ],
         "links": [
           {
@@ -44334,12 +44443,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Fora de Casa e Formatos Especiais: Viagem e Corpo Inteiro",
+        "heading": "Viagem e corpo inteiro: formatos especiais",
         "paragraphs": [
           "Além dos modelos de cama, o catálogo da IWS cobre duas situações específicas: dormir fora de casa e dar suporte ao corpo inteiro, não só à cabeça."
         ],
         "bullets": [
-          "Travel Pillow U (Off Night e Flow Cinza): travesseiro de pescoço em formato de ferradura, desenvolvido para dar apoio à cabeça durante deslocamentos sentado em carros e aviões — diferente do travesseiro cervical de cama, usado deitado;",
+          "Travel Pillow U (Off Night e Flow Cinza): travesseiro de pescoço em formato de ferradura, desenvolvido para dar apoio à cabeça durante deslocamentos sentado em carros e aviões, diferente do travesseiro cervical de cama, usado deitado;",
           "Snow® Mini: a mesma tecnologia de toque frio do Snow®, em tamanho compacto para levar na mala;",
           "Snow® Body: travesseiro de corpo inteiro para abraçar na cama, apresentado pela fabricante como apoio para a lombar, a barriga e a perna de cima ao dormir de lado; gestantes devem considerar também a orientação do profissional que acompanha a gravidez."
         ],
@@ -44350,7 +44459,7 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.41
       },
       {
-        "heading": "Cuidados e Durabilidade: A Linha Capas e Protetores",
+        "heading": "Cuidados e durabilidade: capas e protetores",
         "paragraphs": [
           "A durabilidade de um travesseiro depende do material, da frequência de uso e dos cuidados com sujeira, suor e oleosidade no dia a dia."
         ],
@@ -44361,23 +44470,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Resumo Decisório: Qual Linha Escolher",
+        "heading": "Qual linha escolher",
         "paragraphs": [
           "Identifique a melhor escolha para a sua rotina:"
         ],
         "bullets": [
-          "Acorda com desconforto na nuca ou pescoço: considere a linha Cervical (Cervical Coluna Relax®) e procure avaliação profissional se a dor persistir;",
-          "Convive com alergia ou rinite: considere o Airgelly® 2.0 (100% lavável) ou o Neck Plus Charcoal™, sem substituir o tratamento indicado por profissional de saúde;",
+          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
+          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (100% lavável); com alergia ou rinite, fale com um profissional de saúde;",
           "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
-          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (retire o enchimento até a altura ideal);",
-          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P, M ou G);",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega com 18 cm; retire o enchimento até a altura ideal);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P com 11 cm, M com 13 cm ou G com 15 cm);",
           "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
           "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
           "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
         ]
       },
       {
-        "heading": "Onde Comprar com Desconto e Cupom CECIEMCASA",
+        "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
           "No carrinho da loja oficial, você pode aplicar o cupom CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
@@ -44414,7 +44523,7 @@ export const reviewsData: unknown[] = [
           "Travesseiro de viscoelástico ou látex: qual escolher? O viscoelástico molda-se ao contorno da cabeça e distribui a pressão nos pontos de contato. O látex oferece resposta mais elástica e firme, sem o afundamento lento característico do viscoelástico.",
           "Como medir a altura certa para quem dorme de lado? Use como referência o espaço entre o ombro e a lateral da cabeça: o objetivo é apoiar cabeça e pescoço sem inclinação acentuada. Conforto e necessidades individuais também devem ser considerados.",
           "O travesseiro Cervical Coluna Relax® serve para quem dorme de bruços? Dormir de bruços mantém o pescoço girado por parte da noite. Para essa posição, modelos mais baixos e planos tendem a produzir menos inclinação do que formatos com curvas cervicais altas; se houver dor persistente, procure orientação profissional.",
-          "Qual travesseiro da I Wanna Sleep é indicado para quem tem alergia? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo e desenvolvido para combater ácaros e bactérias. O Neck Plus Charcoal™ combina carvão ativado e contorno anatômico. Esses produtos podem facilitar a higiene, mas não substituem avaliação ou tratamento de alergias.",
+          "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
           "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
           "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
           "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
@@ -44429,7 +44538,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia reúne especificações de catálogo da I Wanna Sleep e orientações gerais para comparar materiais, formatos e alturas. Ele não substitui avaliação médica ou fisioterapêutica. O site Em Casa com Cecília mantém parceria comercial com a marca por meio do cupom CECIEMCASA.",
+    "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio.",
     "relatedArticles": [
       {
         "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
@@ -44914,7 +45023,7 @@ export const reviewsData: unknown[] = [
     "id": 281,
     "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
     "title": "Qual Cobertor Escolher? As opções da I Wanna Sleep",
-    "seoTitle": "Qual Cobertor Escolher? Guia das Linhas IWS [2026]",
+    "seoTitle": "Qual Cobertor Escolher? Igloo, Huggy, Puffer ou Cozy",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44925,7 +45034,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia completo dos cobertores I Wanna Sleep. Compare as linhas Igloo (dual face), Huggy (sherpa fleece), Puffer Ultralight e Cozy (marshmallow) e descubra o ideal.",
+    "description": "Compare as linhas de cobertor da I Wanna Sleep: Igloo (dual face), Huggy (sherpa fleece), Puffer Ultralight e Cozy (marshmallow), e veja qual combina com o seu clima e com quem divide a cama.",
     "metaDescription": "Qual cobertor escolher? Compare as linhas Igloo, Huggy, Puffer Ultralight e Cozy da I Wanna Sleep por sensação térmica, tecidos, peso e rotina da casa.",
     "publishedAt": "7 de setembro de 2026",
     "publishedAtISO": "2026-09-07",
@@ -44939,24 +45048,22 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Como escolher o cobertor ideal para o seu clima e rotina",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Passamos cerca de um terço da vida debaixo das cobertas. Mesmo assim, a maioria das pessoas só percebe que escolheu a roupa de cama errada quando acorda no meio da madrugada transpirando, quando se debate para mudar de posição sob uma manta que pesa uma tonelada ou quando acorda com as vias aéreas congestionadas por poeira acumulada em tecidos antigos.",
-          "A sleeptech brasileira I Wanna Sleep (IWS) estruturou sua coleção de cobertores para responder a desafios biomecânicos e térmicos específicos. Em vez de vender apenas cobertor de casal ou manta de solteiro genérica, a marca desenvolveu quatro propostas de engenharia têxtil completamente distintas: Igloo, Huggy, Puffer Ultralight e Cozy.",
-          "Abaixo, analisamos como cada tecnologia funciona na vida real da sua cama para você acertar na compra sem errar o clima."
-        ],
-        "bullets": [
-          "Se você e seu parceiro vivem em conflito térmico (um com calor, outro com frio): vá de Igloo™, com tecnologia dual-face (lado frio Ice-Feel de um lado, lado aconchegante Warm-Feel do outro);",
-          "Se você enfrenta inverno rigoroso e ama a textura de pele de carneiro / sherpa: vá de Huggy®, que une o isolamento térmico do fleece com sheepskin sintético 100% cruelty-free e antialérgico;",
-          "Se você odeia coberta pesada nos pés e quer portabilidade para o sofá ou viagens: vá de Puffer Ultralight™, com fibras ocas AirFiber™ que aquecem sem peso e dobra virando almofada/travesseiro;",
-          "Se você quer a textura fofinha e aveludada do famoso \"cobertor marshmallow\": vá de Cozy™, com microrrelevos sensoriais 3D Dots™ e enchimento Long Fiber que mantém o volume de cama posta sem empelotar."
+          "Escolha o Igloo se quem divide a cama sente temperaturas diferentes, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e quem dorme com você; o veredito está em Qual escolher: o cobertor certo para cada perfil."
         ]
       },
       {
-        "heading": "O fim da 'guerra do cobertor': tecnologia dual-face térmica (Linha Igloo)",
+        "heading": "As quatro linhas de cobertor da I Wanna Sleep",
+        "paragraphs": [
+          "A I Wanna Sleep (IWS) tem quatro linhas de cobertor, cada uma pensada para um problema: Igloo, Huggy, Puffer Ultralight e Cozy. Abaixo, o que a marca informa de cada uma, uma tabela comparativa e o veredito por perfil."
+        ]
+      },
+      {
+        "heading": "Igloo: um lado frio, um lado quente",
         "paragraphs": [
           "Se você divide a cama com alguém, é quase certo que já vivenciou a clássica guerra do cobertor: de um lado do colchão, alguém deita reclamando que o quarto está abafado, liga o ventilador ou joga a coberta para fora; do outro lado, a outra pessoa se encolhe batendo o queixo, puxa o edredom até o pescoço e reclama de qualquer fresta de vento.",
-          "Esse desencontro de termostatos corporais é um dos motivos mais comuns de noites mal dormidas a dois. O corpo humano precisa diminuir ligeiramente sua temperatura interna para entrar no sono profundo, mas o ritmo dessa desaceleração varia de pessoa para pessoa. Quando o casal tenta resolver isso com um edredom tradicional único, o resultado quase sempre é o mesmo: um acorda no meio da madrugada encharcado de suor, enquanto o outro acorda com frio pelas pontas descobertas.",
+          "Esse desencontro de termostatos é comum entre casais. Com um edredom único, um acorda com calor e o outro com frio nas pontas descobertas.",
           "Foi para pacificar essa disputa na cama que a I Wanna Sleep projetou a Linha Igloo, introduzindo no mercado brasileiro o conceito de cobertor dupla face com gerenciamento térmico inteligente.",
           "A proposta do Cobertor IWS Igloo utiliza engenharia têxtil aplicada à termorregulação. Em vez de utilizar o mesmo tecido em toda a peça, ele integra dois lados com condutividades térmicas opostas:"
         ],
@@ -44984,22 +45091,22 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Inverno rigoroso e toque sheepskin: o abraço térmico do fleece (Linha Huggy)",
+        "heading": "Huggy: fleece com sherpa sintética para o inverno",
         "paragraphs": [
-          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma resultar em desconforto nas articulações, sensação de sufocamento e pés que continuam frios por horas.",
+          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma dar peso demais e pés que continuam frios.",
           "É exatamente para responder a esse cenário de inverno rigoroso que a I Wanna Sleep projetou a Linha Huggy. Inspirado na palavra em inglês hug (abraço), o conceito desse modelo é envolver o corpo em um aconchego térmico contínuo e acolhedor, eliminando de vez aquela sensação desagradável de entrar em uma cama congelante.",
           "O segredo do aquecimento eficiente não está no peso da coberta, mas na sua capacidade de reter o calor irradiado pelo corpo através da tecnologia Dual Touch:"
         ],
         "bullets": [
           "Lado Fleece (isolante térmico ativo): microfibras sintéticas de alta densidade tecidas para criar milhares de microbolsas de ar microscópicas que aprisionam o ar aquecido pelo próprio corpo, bloqueando o ar frio externo;",
           "Lado Sheepskin sintético (efeito sherpa clássico): acabamento que reproduz com perfeição a textura aveludada, encaracolada e macia da pele de carneiro, quebrando a barreira gélida da cama no primeiro segundo de contato;",
-          "100% Cruelty-Free e Hipoalergênico: desenvolvido integralmente em microfibra de poliéster virgem, o Huggy não solta penugens que possam ser inaladas e não serve de alimento para ácaros ou fungos, sendo um verdadeiro cobertor antialérgico para quem tem rinite ou bronquite;",
+          "100% sintético e cruelty-free: feito em microfibra de poliéster, sem material de origem animal, segundo a marca;",
           "Versatilidade Cama e Sofá: excelente caimento maleável tanto como cobertor principal na cama quanto como cobertor manta casal de generosas dimensões para sessões de cinema no sofá da sala;",
           "Medidas: Casal/Queen (2,20m x 2,40m) e King/Super King (2,40m x 2,60m)."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy com capuz sherpa",
-        "imageCaption": "Linha Huggy: isolamento térmico avançado em fleece com toque acolhedor de sherpa antialérgica.",
+        "imageCaption": "Linha Huggy: fleece com toque acolhedor de sherpa sintética.",
         "imageFit": "square",
         "links": [
           {
@@ -45010,7 +45117,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Aquecimento sem sufoco e versatilidade móvel: a engenharia puffer (Linha Puffer Ultralight)",
+        "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
         "paragraphs": [
           "Muitas pessoas sofrem com o chamado 'peso opressivo' das roupas de cama convencionais: os pés ficam travados apontando para baixo, mudar de posição na cama exige esforço físico e surge uma sensação quase claustrofóbica de sufocamento térmico. O cobertor até aquece, mas cobra um pedágio pesado no descanso.",
           "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
@@ -45022,7 +45129,7 @@ export const reviewsData: unknown[] = [
           "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
           "Lavagem e secagem ultrarrápida: cabe perfeitamente em máquinas de lavar residenciais comuns (a partir de 9kg) e seca na metade do tempo de um edredom tradicional por não encharcar internamente;",
           "Versão solteiro e casal: excelente opção como cobertor solteiro individual para o dia a dia no quarto ou no home office.",
-          "Disponibilidade: no site oficial, a versão Casal/Queen costuma esgotar primeiro por causa da procura — vale conferir o estoque da King/Super King como alternativa se a sua não estiver disponível no momento."
+          "Disponibilidade: no site oficial, a versão Casal/Queen costuma esgotar primeiro por causa da procura; vale conferir o estoque da King/Super King como alternativa se a sua não estiver disponível no momento."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
@@ -45037,15 +45144,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O fenômeno do 'cobertor marshmallow': textura 3D Dots e volume acolhedor (Linha Cozy)",
+        "heading": "Cozy: o cobertor marshmallow com textura 3D Dots",
         "paragraphs": [
           "Se você pesquisou recentemente por roupas de cama na internet, certamente notou uma expressão que virou febre no Brasil: o 'cobertor marshmallow' (com alta expressiva de buscas no Google Trends). Mas o que os consumidores realmente procuram por trás dessa expressão?",
           "A busca é por um cobertor fofinho, encorpado, com toque aerado e volume visual de revista, que transmita a sensação reconfortante de afundar em uma nuvem ao deitar. Para atender a esse anseio de conforto tátil supremo, a I Wanna Sleep desenvolveu a Linha Cozy.",
           "O Cozy une o acabamento aveludado de alto padrão a duas tecnologias proprietárias desenhadas para relaxamento sensorial e durabilidade estrutural:"
         ],
         "bullets": [
-          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. O contato suave dos relevos com a pele exerce um estímulo tátil calmante que reduz a inquietação motora e induz o relaxamento após um dia estressante;",
-          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas de forma contínua que não se rompem nem empelotam nas lavagens, mantendo o volume fofo e a distribuição homogênea de calor por anos;",
+          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. É o que dá o toque marshmallow da linha;",
+          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas que, segundo a marca, não se rompem nem empelotam nas lavagens e mantêm o volume fofo;",
           "Elegância na cama posta: substitui edredons pesados com caimento drapeado impecável, disponível em Solteiro/Solteirão, Casal/Queen (2,20m x 2,40m) e King (2,40m x 2,60m) para colchões extralargos."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
@@ -45063,7 +45170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo completo com base nas especificações técnicas e na experiência de uso de cada peça:"
+          "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo com base nas especificações do catálogo da marca:"
         ],
         "bullets": [],
         "comparisonTable": {
@@ -45105,11 +45212,11 @@ export const reviewsData: unknown[] = [
               "Encorpado, aerado, volumoso e aveludado"
             ],
             [
-              "Segurança Alérgica",
-              "Hipoalergênico e respirável (evita acúmulo de umidade)",
-              "100% sintético, cruelty-free e antialérgico (não solta pelos)",
-              "Fibras sintéticas limpas, lavagem e secagem rápidas",
-              "Fibras longas hipoalergênicas que não soltam fiapos"
+              "Material",
+              "Respirável, com trama Air-Flow System™, segundo a marca",
+              "100% sintético e cruelty-free, segundo a marca",
+              "Fibras sintéticas, com lavagem e secagem rápidas",
+              "Fibras longas que não soltam fiapos, segundo a marca"
             ],
             [
               "Portabilidade / Uso",
@@ -45130,21 +45237,36 @@ export const reviewsData: unknown[] = [
               "Casais com termostatos opostos e quartos com ar-condicionado",
               "Noites de frio intenso e quem ama textura sherpa",
               "Quem odeia peso nas pernas, viaja ou lê no sofá",
-              "Quem busca descompressão tátil e cama fofa de hotel"
+              "Quem busca toque macio e cama fofa de hotel"
             ]
           ]
         }
       },
       {
-        "heading": "Guia de decisão por perfil: qual cobertor combina com você?",
+        "heading": "Cuidados de lavagem e manutenção na vida real",
         "paragraphs": [
-          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece:"
+          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por mais tempo, alguns cuidados na lavanderia doméstica ajudam:"
         ],
         "bullets": [
-          "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta;",
-          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, com a tranquilidade de ser 100% cruelty-free e antialérgica para quem tem rinite;",
-          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam aquecimento limpo e peso quase nulo;",
-          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots proporciona um estímulo calmante único na pele, enquanto o miolo Long Fiber mantém o volume de nuvem por muito tempo."
+          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
+          "Atenção à capacidade da lavadora: os modelos Casal/Queen e King das linhas Huggy e Cozy exigem máquinas de lavar com capacidade a partir de 11kg a 13kg para que a peça tenha espaço para girar livremente sem atrito no tambor. O Puffer Ultralight, por sua compactação, acomoda-se perfeitamente em lavadoras residenciais de 9kg a 10kg;",
+          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
+        ],
+        "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
+        "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
+        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Qual escolher: o cobertor certo para cada perfil",
+        "paragraphs": [
+          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o cupom CECIEMCASA aplicado:"
+        ],
+        "bullets": [
+          "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
+          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, em um tecido 100% sintético e cruelty-free;",
+          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam aquecimento com peso quase nulo, e a peça cabe em lavadora de 9 kg;",
+          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots dá o toque marshmallow, e o miolo Long Fiber mantém o volume, segundo a marca."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp",
         "imageAlt": "Cobertor I Wanna Sleep texturizado sobre poltrona em ambiente aconchegante",
@@ -45164,7 +45286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são os preços promocionais vigentes no site oficial da I Wanna Sleep; sempre confira o valor atual no carrinho, já que promoções mudam com frequência. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional — vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores abaixo são os preços promocionais vigentes no site oficial da I Wanna Sleep; sempre confira o valor atual no carrinho, já que promoções mudam com frequência. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional; vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -45218,25 +45340,10 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Cuidados de lavagem e manutenção na vida real",
-        "paragraphs": [
-          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por muitos anos, alguns cuidados práticos na lavanderia doméstica fazem toda a diferença:"
-        ],
-        "bullets": [
-          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
-          "Atenção à capacidade da lavadora: os modelos Casal/Queen e King das linhas Huggy e Cozy exigem máquinas de lavar com capacidade a partir de 11kg a 13kg para que a peça tenha espaço para girar livremente sem atrito no tambor. O Puffer Ultralight, por sua compactação, acomoda-se perfeitamente em lavadoras residenciais de 9kg a 10kg;",
-          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
-        ],
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
-        "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
-        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
-        "imageFit": "square"
-      },
-      {
         "heading": "Perguntas frequentes sobre cobertores IWS",
         "bullets": [
           "O cobertor Igloo realmente fica gelado? Sim. A face com tecnologia Ice-Feel Fiber System™ dissipa o calor por contato direto, reduzindo a sensação térmica da pele em 2 a 3°C em comparação ao ambiente, segundo medição da marca com termômetro infravermelho. Para noites frias, basta virar a peça e utilizar o lado Warm-Feel.",
-          "O cobertor Huggy solta pelos ou provoca alergia? Não. Ao contrário dos cobertores tradicionais de pele ou lã de carneiro animal, o acabamento sheepskin do Huggy é 100% sintético e cruelty-free. Suas microfibras não se desprendem no ar, tornando-o antialérgico e seguro para quem tem rinite.",
+          "O cobertor Huggy é de pele ou lã de carneiro? Não. O acabamento sheepskin do Huggy é 100% sintético e cruelty-free, segundo a marca. Se você tem rinite ou alergia, converse com seu médico antes de escolher o tecido.",
           "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? A peça possui um compartimento integrado com zíper discreto. O enchimento de microfibras ocas AirFiber™ é altamente compressível, permitindo dobrar o cobertor para dentro do próprio bolso em menos de trinta segundos para servir de almofada lombar ou travesseiro de viagem.",
           "Qual o tamanho de cobertor ideal para camas Queen e King? Para camas Casal e Queen, o tamanho padrão da IWS é 2,20m x 2,40m, garantindo cobertura farta nas laterais. Para colchões King e Super King (acima de 1,86m de largura), a medida indicada é 2,40m x 2,60m, evitando que os pés fiquem descobertos quando alguém se vira.",
           "Como aplicar o cupom CECIEMCASA e como funciona o teste de 30 dias? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. As compras feitas no site oficial contam com a política de 30 dias de teste na cama da marca."
@@ -45251,7 +45358,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia reúne especificações de catálogo da I Wanna Sleep e análises editoriais de uso prático. O site Em Casa com Cecília mantém parceria comercial com a marca por meio do cupom CECIEMCASA (10% OFF permanente). Condições comerciais e políticas de teste de 30 dias devem ser confirmadas no site oficial.",
+    "editorialNote": "Baseado no catálogo da marca, sem teste das 4 linhas. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
@@ -45284,7 +45391,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy",
-        "caption": "Linha Huggy: isolamento térmico de fleece com acabamento sherpa 100% cruelty-free e antialérgico."
+        "caption": "Linha Huggy: isolamento térmico de fleece com acabamento sherpa sintético e cruelty-free."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
@@ -45340,17 +45447,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "PDRN e retinal agem devagar: não espere diferença visível na primeira semana",
-      "O retinal pede protetor solar de dia — quem, como eu, nunca usou vai ter que começar",
+      "O retinal pede protetor solar de dia: quem, como eu, nunca usou vai ter que começar",
       "Na primeira vez, fiquei na dúvida sobre o lado certo do adesivo",
       "Compra internacional: o prazo de entrega é maior que o de uma loja nacional"
     ],
     "contentSections": [
       {
-        "heading": "Trinta: a idade do sucesso e a idade de pagar o pedágio da beleza",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Gostei da rotina de iniciante com a Abib: o adesivo de hidrogel é geladinho, o creme PDRN deixa toque de veludo e a máscara labial tem cheirinho de doce que não enjoa. É o primeiro uso, então resultado na pele não dá para prometer. Veja a compra no capítulo Onde comprar e como economizar com o CECILIA010."
+        ]
+      },
+      {
+        "heading": "Aos 30, minha primeira rotina de skincare coreano",
         "paragraphs": [
           "Até aqui a gente foi bonita de graça. Eu, que nunca usei nem protetor solar, completei 30 anos e resolvi encarar a coisa com seriedade: montei minha primeira rotina de skincare coreano.",
           "Recebi três produtos da Abib enviados pela YesStyle, uma loja on-line que vende cosméticos importados. E é coreano da Coreia mesmo, viu? Não é “tipo coreano”, não é “sabor coreano”.",
-          "Este artigo é o meu primeiro contato com os três, registrado no vídeo deste artigo: como é colocar, a textura, o cheiro e o que eu senti ao tirar o adesivo. Resultado de pele não dá para prometer no primeiro dia — vou usar nas próximas semanas e volto aqui para contar o que mudou."
+          "Este artigo é o meu primeiro contato com os três, registrado no vídeo deste artigo: como é colocar, a textura, o cheiro e o que eu senti ao tirar o adesivo. Resultado de pele não dá para prometer no primeiro dia. Vou usar nas próximas semanas e volto aqui para contar o que mudou."
         ]
       },
       {
@@ -45396,9 +45509,9 @@ export const reviewsData: unknown[] = [
         "heading": "Adesivo de hidrogel para os olhos: geladinho (e eu coloquei ao contrário)",
         "paragraphs": [
           "O primeiro contato é o melhor: o adesivo é geladinho. Ele vem num pote com 60 unidades, e a marca diz que a superfície texturizada ajuda a não escorregar.",
-          "Confesso que coloquei o primeiro errado. Virei, desvirei, tentei do outro jeito e achei que assim ficou melhor — mas, sinceramente, não senti diferença entre os lados. Se você também nunca usou, não se preocupe: o importante é ele ficar bem assentado embaixo dos olhos, sem encostar no olho.",
+          "Confesso que coloquei o primeiro errado. Virei, desvirei, tentei do outro jeito e achei que assim ficou melhor, mas, sinceramente, não senti diferença entre os lados. Se você também nunca usou, não se preocupe: o importante é ele ficar bem assentado embaixo dos olhos, sem encostar no olho.",
           "Com o tempo, o adesivo vai ficando mais fino, como se estivesse sumindo. Não quer dizer que a pele absorveu o hidrogel inteiro; é o gel entregando o que tem dentro enquanto fica ali, fechadinho, sem evaporar.",
-          "A embalagem manda tirar depois de 10 a 15 minutos. No vídeo eu deixei uns 20, porque estava fazendo o resto da rotina — siga o rótulo. E não é para dormir com ele."
+          "A embalagem manda tirar depois de 10 a 15 minutos. No vídeo eu deixei uns 20, porque estava fazendo o resto da rotina. Siga o rótulo. E não é para dormir com ele."
         ],
         "bullets": [
           "Ao tirar: a pele ficou sequinha, e dava para ver direitinho o formato de onde o adesivo estava;",
@@ -45422,7 +45535,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Enquanto o adesivo agia, passei o creme. Ele sai da bisnaga com textura de pomada: você passa e sente ele escorregar pela pele.",
           "Aí acontece a parte que eu mais gostei: depois de espalhar, a pele fica com um toque aveludado, como se virasse veludo na hora. E espalha muito bem.",
-          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. É um creme pensado para firmeza e linhas finas — ou seja, um trabalho de longo prazo."
+          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. É um creme pensado para firmeza e linhas finas, ou seja, um trabalho de longo prazo."
         ],
         "bullets": [
           "Onde passar: rosto e pescoço, com batidinhas leves para ajudar a absorção, como indica a marca;"
@@ -45442,7 +45555,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lip Mask Glazed Jelly: cheirinho de doce que não enjoa",
         "paragraphs": [
-          "Por último, a máscara labial. Ela vem com uma espatulazinha, e a textura é de gel — parecida com a do adesivo dos olhos.",
+          "Por último, a máscara labial. Ela vem com uma espatulazinha, e a textura é de gel, parecida com a do adesivo dos olhos.",
           "Ela tem cheirinho de doce, mas não é enjoativo. Quem me acompanha sabe que eu tenho problema com cheiro forte, e esse não me incomodou.",
           "A marca indica usar uma camada fina durante o dia, para brilho e hidratação, ou uma camada generosa antes de dormir, como máscara noturna."
         ],
@@ -45462,8 +45575,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN e retinal sem mistério: por que o efeito é levinho",
         "paragraphs": [
           "A grande questão do skincare coreano é que os produtos são pensados para uso a longo prazo. Minha filha, você fez 30 agora: esse é só o começo. Pelo resto da vida vai ter que ter uma rotina de cuidados com a pele.",
-          "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual — por isso eu não vou sair descamando só porque comecei a usar.",
-          "O PDRN é um ingrediente feito de fragmentos de DNA, que virou febre nos cosméticos coreanos ligados a regeneração e firmeza. Na máscara labial, a Abib informa que o PDRN vem da centella asiática e do ginkgo biloba."
+          "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual, por isso eu não vou sair descamando só porque comecei a usar.",
+          "O PDRN é um ingrediente feito de fragmentos de DNA, que virou febre nos cosméticos coreanos; a Abib o usa em produtos voltados a firmeza. Na máscara labial, a Abib informa que o PDRN vem da centella asiática e do ginkgo biloba."
         ],
         "bullets": [
           "Efeito levinho: não espere mudança no primeiro dia nem na primeira semana; o benefício vem com constância;",
@@ -45478,10 +45591,10 @@ export const reviewsData: unknown[] = [
           "A ordem que eu fiz no vídeo cabe numa noite comum, sem aquela maratona de dez passos que a internet associa ao skincare coreano:"
         ],
         "bullets": [
-          "Passo 1 — Olhos: com o rosto limpo, coloco o adesivo de hidrogel embaixo dos olhos;",
-          "Passo 2 — Rosto e pescoço: enquanto o adesivo age, passo o Booster Crème com batidinhas;",
-          "Passo 3 — Lábios: uma camada da lip mask com a espátula;",
-          "Passo 4 — Tirar o adesivo: depois de 10 a 15 minutos, como indica a embalagem;",
+          "Passo 1, olhos: com o rosto limpo, coloco o adesivo de hidrogel embaixo dos olhos;",
+          "Passo 2, rosto e pescoço: enquanto o adesivo age, passo o Booster Crème com batidinhas;",
+          "Passo 3, lábios: uma camada da lip mask com a espátula;",
+          "Passo 4, tirar o adesivo: depois de 10 a 15 minutos, como indica a embalagem;",
           "Tempo total: uns 15 minutos, quase todos de espera com o adesivo no rosto."
         ]
       },
@@ -45489,12 +45602,12 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
           "Os três produtos são vendidos pela YesStyle, que voltou a entregar no Brasil (situação confirmada em setembro de 2026). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
-          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code — e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
+          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
           "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete). Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle."
         ],
         "links": [
           {
-            "label": "Cupom da semana e regras do CECILIA010 na YesStyle",
+            "label": "Regras do CECILIA010 na YesStyle",
             "href": "/cupons/yesstyle"
           },
           {
@@ -45515,7 +45628,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que eu vou acompanhar nas próximas semanas",
         "paragraphs": [
-          "Este é o registro do primeiro uso. Vou seguir a rotina e voltar aqui para contar o que mudou de verdade — e o que não mudou."
+          "Este é o registro do primeiro uso. Vou seguir a rotina e voltar aqui para contar o que mudou de verdade e o que não mudou."
         ],
         "bullets": [
           "Olheiras e aspecto de cansaço embaixo dos olhos;",
@@ -45528,7 +45641,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quanto tempo deixar o adesivo de hidrogel da Abib? A embalagem indica retirar depois de 10 a 15 minutos. Não é para dormir com ele.",
-          "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos voltados para regeneração e firmeza. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
+          "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
           "A YesStyle entrega no Brasil? Sim. Os envios voltaram, e a situação foi confirmada em setembro de 2026. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
@@ -45544,7 +45657,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Os três produtos foram enviados pela YesStyle ao Em Casa com Cecília. Este artigo registra as primeiras impressões de Cecília Mauad no primeiro uso, mostradas no vídeo; dados de tamanho, ingredientes e modo de uso vêm das páginas oficiais dos produtos na YesStyle. O site recebe comissão pelos links de afiliado e pelo Reward Code CECILIA010.",
+    "editorialNote": "Produtos enviados pela YesStyle; o site ganha comissão nos links e no Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-o-que-e-onde-comprar",
@@ -48651,6 +48764,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo até o fim; o manual da Genio S pede isso a cada 3 a 4 meses. O gesto de ativação muda por modelo; veja a tabela no passo a passo."
+        ]
+      },
+      {
         "heading": "O que significa a luz laranja da Dolce Gusto",
         "paragraphs": [
           "A luz laranja no botão da Dolce Gusto não quer dizer que a máquina quebrou. É um aviso de manutenção: a cafeteira conta as extrações e, no manual da Genio S, o fabricante indica descalcificar depois de cerca de 300 preparos.",
@@ -48870,7 +48989,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este guia foi elaborado de forma editorial e independente, com base nos manuais e guias públicos de descalcificação da Nescafé Dolce Gusto e da Krups; as fotos do manual da Genio S Touch são do exemplar da autora. O passo a passo varia por modelo, então confirme sempre no manual da sua máquina. O site mantém parceria comercial com a loja oficial NESCAFÉ Dolce Gusto por meio do cupom CECI.",
+    "editorialNote": "Guia com base nos manuais oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
@@ -48901,7 +49020,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um ritual do sono em 4 passos e o que a ciência sustenta e o que não.",
+    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um roteiro de sono em 4 passos e para quem ele faz sentido.",
     "metaDescription": "SleepSpray Kidz IWS: spray de travesseiro com lavanda, camomila e laranja doce, sem melatonina, para crianças a partir de 2 anos. Como usar, ritual do sono em 4 passos, diferença para o adulto e cupom.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
@@ -48920,24 +49039,16 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
-      "A evidência de que aroma de lavanda melhore o sono de crianças é limitada",
+      "A marca não traz estudo clínico do SleepSpray Kidz: não dá para prometer que ele ajude a criança a dormir",
       "A fórmula tem fragrância e componentes alergênicos (linalol, limoneno, geraniol, cânfora e mentol na lista de ingredientes); atenção a criança com asma, rinite ou pele sensível",
       "R$ 117,00 por 60 ml, e a marca não informa quantas noites um frasco rende"
     ],
     "contentSections": [
       {
-        "heading": "Por que a criança não \"desliga\" na hora de dormir",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "São nove da noite, a louça ainda está na pia e o seu filho parece ter acabado de tomar uma dose dupla de energia. Ele corre pelo corredor, pede um copo d'água, lembra de uma história da escola e inventa uma brincadeira nova justamente quando tudo o que você queria era silêncio. É a famosa \"batalha do sono\", e quase toda família com criança pequena conhece.",
-          "Criança não funciona como interruptor. O sono pede uma transição: baixar a luz, o barulho e o ritmo aos poucos. Sem essa rampa, é comum a criança passar do ponto de cansaço e ficar mais agitada, não mais calma. Pediatras e especialistas em sono descrevem isso como o cansaço que vira hiperatividade (o \"overtired\").",
-          "Duas coisas ajudam a explicar. A primeira é a luz: luz forte e telas à noite atrasam a liberação de melatonina, o hormônio que sinaliza a noite ao corpo, e há estudos indicando que crianças são mais sensíveis a esse efeito do que adultos. A segunda é a previsibilidade: repetir na mesma ordem os passos de antes de dormir (luz baixa, banho, pijama, história) ensina o cérebro a reconhecer o que vem depois, e rotina consistente é uma das recomendações mais repetidas para o sono infantil.",
-          "É nesse ponto que entra o cheiro. O olfato tem ligação direta com áreas do cérebro ligadas à emoção e à memória, e um aroma que aparece sempre no mesmo momento pode virar um marcador da rotina, como uma canção de ninar. Vale ser honesta: isso é associação por repetição, não um efeito sedativo comprovado do produto. A página da IWS não cita estudos clínicos sobre o SleepSpray Kidz."
-        ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
-        "imageAlt": "Criança dormindo de lado em um travesseiro I Wanna Sleep, abraçada a um panda e a uma ovelha de pelúcia",
-        "imageCaption": "Imagem de divulgação da I Wanna Sleep. Ilustra o ambiente de sono e não mostra um resultado comprovado do spray.",
-        "imageFit": "square"
+          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico. Faz sentido como marcador de rotina de sono, não como solução; o capítulo Vale a pena? Nosso veredito mostra para quem compensa."
+        ]
       },
       {
         "heading": "O que é o SleepSpray Kidz: a ficha do rótulo e da página oficial",
@@ -48958,23 +49069,35 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Lavanda, camomila e laranja doce: o que a ciência sustenta e o que é aroma",
+        "heading": "Rotina primeiro, cheiro depois",
+        "paragraphs": [
+          "Criança não funciona como interruptor: o sono pede uma transição, com luz mais baixa, menos barulho e os mesmos passos na mesma ordem toda noite.",
+          "É nesse ponto que o cheiro entra. Um aroma que aparece sempre no mesmo momento pode virar um sinal da rotina, como uma canção de ninar. Isso é associação por repetição, não um efeito comprovado do produto: a página da IWS não cita estudos clínicos sobre o SleepSpray Kidz."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+        "imageAlt": "Criança dormindo de lado em um travesseiro I Wanna Sleep, abraçada a um panda e a uma ovelha de pelúcia",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep. Ilustra o ambiente de sono e não mostra um resultado comprovado do spray.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Lavanda, camomila e laranja doce: o que diz o rótulo",
         "paragraphs": [
           "A lista de ingredientes (INCI) do site traz água, propanodiol, glicerina, extrato de flor de camomila, óleo de flor de lavanda-inglesa, extrato de lavanda, óleo da casca de laranja doce, conservantes (benzoato de sódio, sorbato de potássio e ácido benzoico), um tensoativo (cocamidopropil betaína) e perfume. Ou seja: a camomila entra como extrato, os óleos são de lavanda e de laranja doce, e há fragrância na fórmula.",
-          "O que cada nota costuma prometer, e o quanto isso se sustenta:",
+          "O que cada ingrediente é na fórmula:",
           "Na prática, o valor do produto está mais na combinação de aroma agradável com repetição do que em um efeito químico de cada planta.",
-          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem irritar as vias aéreas ou causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
+          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
         ],
         "bullets": [
-          "Lavanda: é o aroma mais estudado para relaxamento. As pesquisas com lavanda aromática costumam ser pequenas, em sua maioria com adultos, e apontam efeito modesto na qualidade do sono. Para crianças a evidência é limitada, e não há base para prometer que o spray encurta o tempo de adormecer;",
-          "Camomila: associada ao acolhimento e ao chá de antes de dormir. Aqui ela vem como extrato num spray de tecido, e não há estudo que sustente alívio de cólica ou de dentição por aroma. Quem tem alergia a plantas da família da margarida (Asteraceae) deve ter atenção;",
-          "Laranja doce: um cítrico macio e adocicado, agradável e familiar para muitas crianças. É um aroma de conforto; não há evidência de que ele reduza medo do escuro ou angústia de separação."
+          "Lavanda: entra como óleo de flor de lavanda-inglesa e como extrato. É o aroma clássico de quarto e de hora de dormir, e a marca não cita estudos clínicos que mostrem efeito sobre o sono da criança;",
+          "Camomila: entra como extrato de flor, num spray de tecido. Quem tem alergia a plantas da família da margarida (Asteraceae) deve ter atenção;",
+          "Laranja doce: entra como óleo da casca. É um cítrico macio e adocicado, um aroma de conforto e familiar para muitas crianças."
         ]
       },
       {
         "heading": "\"Melatonin free\": o que o selo significa e o que não significa",
         "paragraphs": [
-          "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. A diferença importa porque melatonina é um hormônio, e o uso em crianças deve passar por orientação médica.",
+          "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. Por isso ele não é o indicado para o quarto da criança, e dúvida sobre melatonina em criança é assunto para o pediatra.",
           "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que ele não atua por hormônio e depende do aroma e da rotina. Também não é motivo para borrifar o spray adulto no quarto da criança."
         ],
         "bullets": []
@@ -49056,22 +49179,22 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Vale a pena? Nosso veredito",
+        "paragraphs": [
+          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
+          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar R$ 117,00 por 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
+          "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
+          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Preço, kits e garantia de 30 dias",
         "paragraphs": [
           "O frasco de 60 ml custa R$ 117,00 no site oficial (consultado em 29/09/2026). Há kits: 3 frascos por R$ 234,00 (compre 2, leve 3) e 5 frascos por R$ 351,00 (compre 3, leve 5). O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para prometer um custo por noite. Só como referência: se você usar 2 borrifadas por noite e o frasco durasse 2 meses (hipótese nossa, não dado da marca), o gasto ficaria perto de R$ 2 por noite. Anote a data em que abrir o frasco para medir na sua casa.",
           "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro.",
           "O código CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Vale a pena? Nosso veredito",
-        "paragraphs": [
-          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
-          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, aceita gastar R$ 117,00 com um item de conforto e a criança não tem alergia respiratória. É um jeito simples de repetir um sinal sensorial no fim do dia.",
-          "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes, ronco, respiração pela boca, terror noturno ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
-          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
         ],
         "bullets": []
       },
@@ -49122,7 +49245,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Guia feito a partir do rótulo e da página oficial da I Wanna Sleep (consultada em 29/09/2026); o produto não foi testado por nós. Parceria comercial: podemos receber comissão pelo cupom CECIEMCASA. Imagens de divulgação da IWS.",
+    "editorialNote": "Guia feito do rótulo e da página da IWS, sem teste próprio. Comissão pelo cupom CECIEMCASA.",
     "relatedArticles": [
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
@@ -49171,6 +49294,12 @@ export const reviewsData: unknown[] = [
       "É suplemento, não medicamento: quantidade por dia e escolha da versão devem ser definidas com nutricionista ou médico"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para o Nutren Senior não empelotar, ponha 3 colheres de sopa de pó no copo seco, junte cerca de 50 ml de líquido, mexa até virar pasta e só então complete. Não ferva e beba logo após o preparo. As medidas por versão estão em O método da pasta, passo a passo."
+        ]
+      },
       {
         "heading": "Por que o Nutren Senior empelota",
         "paragraphs": [
@@ -49366,10 +49495,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
-          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. A Nestlé tem outra linha, o Nutren Control, voltada a dietas com restrição de açúcares; qual escolher é conversa com o médico ou nutricionista;",
-          "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então não serve para alergia à proteína do leite;",
+          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. Converse com o médico ou o nutricionista;",
+          "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
           "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
-          "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista, porque pode ser sinal de algo que precisa de avaliação."
+          "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
         ]
       },
       {
@@ -49410,8 +49539,8 @@ export const reviewsData: unknown[] = [
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
           "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
-          "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. O efeito no peso depende de tudo o que a pessoa come no dia; se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
-          "Diabético pode tomar Nutren Senior? Depende do caso e deve ser decidido com o médico ou o nutricionista. A marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite, e existe a linha Nutren Control para dietas com restrição de açúcares.",
+          "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
+          "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
         ]
       }
@@ -49424,7 +49553,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+    "editorialNote": "Baseado na página oficial, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-senior-zero-lactose-ficha-tecnica",
@@ -50052,7 +50181,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "1. O que é FiberMais Sem Sabor e como ele entra na cozinha",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O FiberMais Sem Sabor pode ser misturado a café, bebidas e refeições, sempre ao final do preparo e sem ferver. A medida muda com a apresentação: 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Os cuidados estão em Pode colocar no café quente, ferver, assar ou congelar?"
+        ]
+      },
+      {
+        "heading": "O que é FiberMais Sem Sabor e como ele entra na cozinha",
         "image": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
         "imageAlt": "Arte oficial da Nestlé com a lata de FiberMais Sem Sabor de 260 g e características declaradas pela fabricante",
         "imageCaption": "Material de divulgação da Nestlé para FiberMais Sem Sabor. As características são declarações da fabricante, não resultados de testes próprios.",
@@ -50080,7 +50215,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "2. Pode colocar no café quente, ferver, assar ou congelar?",
+        "heading": "Pode colocar no café quente, ferver, assar ou congelar?",
         "paragraphs": [
           "A fabricante inclui bebidas quentes e frias entre os usos do FiberMais Sem Sabor. Isso permite pensar no café já servido, no chá pronto ou em uma sopa na hora de comer. Mas colocar em um alimento quente não é o mesmo que cozinhar o suplemento por longos períodos.",
           "No artigo culinário oficial consultado, a orientação é acrescentar o produto ao final da preparação, sem levá-lo à fervura. Para o café, prepare a bebida primeiro e incorpore depois. Para sopas e molhos, termine o cozimento, retire do fogo e misture na porção que será consumida.",
@@ -50102,7 +50237,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "3. Cinco formas de incluir FiberMais nas preparações do dia a dia",
+        "heading": "Cinco formas de incluir FiberMais nas preparações do dia a dia",
         "image": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
         "imageAlt": "Banner oficial FiberMais com frutas, apresentações da linha e uso de um sachê Sem Sabor em uma bebida",
         "imageCaption": "Imagem de divulgação da Nestlé: o banner também mostra outras variantes da linha. As medidas deste guia se referem somente ao FiberMais Sem Sabor.",
@@ -50168,11 +50303,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "4. Lata ou sachê: medidas, informação nutricional e cuidados de uso",
+        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
         "paragraphs": [
           "As informações oficiais consultadas para a lata Sem Sabor de 260 g indicam 3 colheres de chá, totalizando 7,6 g ao dia. Para os sachês de 5 g, a página informa 1 sachê duas vezes ao dia, totalizando 10 g. São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
-          "A necessidade e a tolerância ao suplemento são individuais. A introdução de fibras pode exigir adaptação, mas não cabe a este guia definir um calendário de aumento semanal ou uma porção extra para viagens. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
-          "A ingestão de líquidos também precisa ser adequada à sua situação. Idade, condições de saúde, atividade e eventuais restrições de líquidos devem ser consideradas na orientação individual; um mesmo volume não serve como regra obrigatória para todas as pessoas. Manter a hidratação faz parte dos cuidados de uso, sem substituir a avaliação de sintomas persistentes.",
+          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
+          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
           "A tabela abaixo reproduz os valores informados nas páginas oficiais em 2 de outubro de 2026, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
           "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
           "Na compra pela Nestlé Nutre, o código CECI oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
@@ -50250,27 +50385,7 @@ export const reviewsData: unknown[] = [
             "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
             "href": "https://www.nestlenutre.com.br/fibermais",
             "sponsored": true
-          },
-          {
-            "label": "Orientações do NIDDK sobre fibras e ingestão individual de líquidos",
-            "href": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition"
           }
-        ]
-      },
-      {
-        "heading": "5. Perguntas frequentes sobre FiberMais Sem Sabor",
-        "paragraphs": [
-          "As respostas distinguem informações do rótulo, orientações culinárias e decisões que dependem de avaliação individual. Elas não substituem diagnóstico nem uma recomendação de tratamento."
-        ],
-        "bullets": [
-          "Quantas colheres de FiberMais posso tomar por dia? A página oficial da lata Sem Sabor de 260 g informa 3 colheres de chá (7,6 g) ao dia; a dos sachês de 5 g informa 1 sachê duas vezes ao dia. Não converta esses valores em colheres de sopa nem aumente a quantidade sem orientação. Confira o rótulo da apresentação comprada.",
-          "Posso colocar FiberMais no café quente? A fabricante prevê uso em bebidas quentes. Prepare o café primeiro e acrescente o produto ao final, misturando até dissolver, sem levar novamente à fervura. A quantidade depende da apresentação e deve entrar no total consumido no dia.",
-          "Diabéticos podem tomar FiberMais? A adequação deve ser avaliada com o profissional que acompanha a pessoa, considerando rótulo, alimentação e tratamento. As tabelas consultadas do Sem Sabor informam pequenas quantidades de açúcares e carboidratos; não o descrevemos como isento desses componentes nem como garantia de controle da glicemia.",
-          "Crianças podem consumir FiberMais? As apresentações Sem Sabor consultadas indicam uso a partir de quatro anos. Isso não autoriza suplementação automática: confirme com o pediatra ou nutricionista se há necessidade e qual orientação se aplica. O guia não recomenda uso para menores de quatro anos nem inclusão escondida nas refeições da família.",
-          "Gestantes podem usar FiberMais? A gestação exige avaliação individual. Converse com o obstetra ou nutricionista antes de iniciar a suplementação. A natureza das fibras não é, por si só, uma garantia de segurança para todas as gestantes.",
-          "FiberMais engorda? O efeito de uma alimentação sobre o peso não pode ser atribuído de forma absoluta a um ingrediente. A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês informa 21 kcal por 10 g. Considere também os demais ingredientes da bebida ou refeição.",
-          "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um substituto automático de um laxante prescrito. Os objetivos e cuidados de uso são diferentes, e a escolha depende da causa dos sintomas. Se a constipação persiste, exige uso recorrente de medicamentos ou há desconforto com o suplemento, procure avaliação profissional antes de alterar o tratamento.",
-          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
         ]
       },
       {
@@ -50280,6 +50395,22 @@ export const reviewsData: unknown[] = [
           "FiberMais Sem Sabor pode ser uma ferramenta de suplementação, mas não transforma sozinho a qualidade da alimentação da família. Variedade de alimentos, hidratação adequada e atenção às necessidades de cada pessoa continuam fazendo parte dessa organização."
         ],
         "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes sobre FiberMais Sem Sabor",
+        "paragraphs": [
+          "As respostas distinguem informações do rótulo, orientações culinárias e decisões que dependem de avaliação individual. Elas não substituem diagnóstico nem uma recomendação de tratamento."
+        ],
+        "bullets": [
+          "Quantas colheres de FiberMais posso tomar por dia? A página oficial da lata Sem Sabor de 260 g informa 3 colheres de chá (7,6 g) ao dia; a dos sachês de 5 g informa 1 sachê duas vezes ao dia. Não converta esses valores em colheres de sopa nem aumente a quantidade sem orientação. Confira o rótulo da apresentação comprada.",
+          "Posso colocar FiberMais no café quente? A fabricante prevê uso em bebidas quentes. Prepare o café primeiro e acrescente o produto ao final, misturando até dissolver, sem levar novamente à fervura. A quantidade depende da apresentação e deve entrar no total consumido no dia.",
+          "Diabéticos podem tomar FiberMais? Depende do caso: converse com o profissional que acompanha a pessoa. As tabelas do Sem Sabor trazem as quantidades de açúcares e carboidratos por porção.",
+          "Crianças podem consumir FiberMais? As apresentações Sem Sabor consultadas indicam uso a partir de quatro anos. Para dar a uma criança, converse antes com o pediatra ou nutricionista.",
+          "Gestantes podem usar FiberMais? Converse com o obstetra ou nutricionista antes de usar.",
+          "FiberMais engorda? A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês, 21 kcal por 10 g. Para dúvidas sobre peso, procure um nutricionista.",
+          "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um medicamento. Quem usa laxante prescrito ou tem constipação persistente deve procurar um médico antes de mudar o tratamento.",
+          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
+        ]
       }
     ],
     "cta": {
@@ -50290,7 +50421,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Guia independente com fontes oficiais, sem teste de uso próprio. Não substitui avaliação médica ou nutricional. Parceria comissionada com cupom CECI.",
+    "editorialNote": "Fontes oficiais, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-senior-como-tomar-sem-empelotar",
@@ -61083,17 +61214,16 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "Porto Brasil é cerâmica ou porcelana?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
-          "Quanto a ser boa, depende do uso: a maior parte das fichas de stoneware libera forno, micro-ondas, lava-louças e freezer, mas há exceções, e a faiança tem mais restrições. Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
+          "A Porto Brasil é boa se você olhar a ficha da peça: é cerâmica, não porcelana, e o stoneware libera forno, micro-ondas e freezer na maior parte das fichas, enquanto a faiança tem mais restrições. A fabricante tem nota 8,4 no Reclame Aqui. Veja o capítulo Veredito."
         ]
       },
       {
-        "heading": "De onde é a Porto Brasil",
+        "heading": "Porto Brasil é cerâmica ou porcelana?",
         "paragraphs": [
-          "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-          "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+          "Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
         ]
       },
       {
@@ -61177,10 +61307,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "De onde é a Porto Brasil",
+        "paragraphs": [
+          "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
+          "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+        ]
+      },
+      {
         "heading": "Garantia e reputação",
         "paragraphs": [
           "As fichas da Porto Brasil dão 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, conforme o produto.",
           "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
+        ]
+      },
+      {
+        "heading": "Veredito: a Porto Brasil é boa?",
+        "paragraphs": [
+          "A Porto Brasil é boa para quem escolhe pela ficha da peça. O stoneware libera forno, micro-ondas, lava-louças e freezer na maior parte das fichas, com exceções (as peças com ouro, alguns pratos e canecas), e a faiança libera micro-ondas e lava-louças, mas tem mais restrições de forno. A garantia é de 90 dias por defeito e de 9 ou 12 meses contra gretamento, e no Reclame Aqui a nota é 8,4, com 84,3% das 110 reclamações resolvidas.",
+          "Contra a Oxford, a vantagem da Porto Brasil é o forno declarado na ficha: o catálogo da Oxford não declara forno nas linhas Ryo e Unni. Sem teste próprio, não dizemos qual é melhor. Para levar ao forno, confira a ficha da peça e use a menor temperatura que a marca cita."
         ]
       },
       {
@@ -61244,7 +61388,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "letseatit",
-    "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as louças: os dados vêm da fabricante e de fontes públicas.",
+    "editorialNote": "Podemos receber comissão da Let's Eat It. Sem teste próprio: dados da fabricante.",
     "relatedArticles": [
       {
         "slug": "black-friday-letseatit",

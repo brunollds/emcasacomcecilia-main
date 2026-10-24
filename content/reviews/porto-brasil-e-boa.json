@@ -25,17 +25,16 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "Porto Brasil é cerâmica ou porcelana?",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
-        "Quanto a ser boa, depende do uso: a maior parte das fichas de stoneware libera forno, micro-ondas, lava-louças e freezer, mas há exceções, e a faiança tem mais restrições. Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
+        "A Porto Brasil é boa se você olhar a ficha da peça: é cerâmica, não porcelana, e o stoneware libera forno, micro-ondas e freezer na maior parte das fichas, enquanto a faiança tem mais restrições. A fabricante tem nota 8,4 no Reclame Aqui. Veja o capítulo Veredito."
       ]
     },
     {
-      "heading": "De onde é a Porto Brasil",
+      "heading": "Porto Brasil é cerâmica ou porcelana?",
       "paragraphs": [
-        "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-        "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+        "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+        "Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
       ]
     },
     {
@@ -119,10 +118,24 @@
       ]
     },
     {
+      "heading": "De onde é a Porto Brasil",
+      "paragraphs": [
+        "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
+        "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+      ]
+    },
+    {
       "heading": "Garantia e reputação",
       "paragraphs": [
         "As fichas da Porto Brasil dão 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, conforme o produto.",
         "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
+      ]
+    },
+    {
+      "heading": "Veredito: a Porto Brasil é boa?",
+      "paragraphs": [
+        "A Porto Brasil é boa para quem escolhe pela ficha da peça. O stoneware libera forno, micro-ondas, lava-louças e freezer na maior parte das fichas, com exceções (as peças com ouro, alguns pratos e canecas), e a faiança libera micro-ondas e lava-louças, mas tem mais restrições de forno. A garantia é de 90 dias por defeito e de 9 ou 12 meses contra gretamento, e no Reclame Aqui a nota é 8,4, com 84,3% das 110 reclamações resolvidas.",
+        "Contra a Oxford, a vantagem da Porto Brasil é o forno declarado na ficha: o catálogo da Oxford não declara forno nas linhas Ryo e Unni. Sem teste próprio, não dizemos qual é melhor. Para levar ao forno, confira a ficha da peça e use a menor temperatura que a marca cita."
       ]
     },
     {
@@ -186,7 +199,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as louças: os dados vêm da fabricante e de fontes públicas.",
+  "editorialNote": "Podemos receber comissão da Let's Eat It. Sem teste próprio: dados da fabricante.",
   "relatedArticles": [
     {
       "slug": "black-friday-letseatit",
