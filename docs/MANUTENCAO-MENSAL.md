@@ -31,14 +31,24 @@ artigos de marca parceira e dados externos corretos sem simular frescor editoria
 Nem todo cupom tem uma condição nova para negociar todo mês — a janela de verificação certa
 depende do tipo:
 
-- **Perenes (sempre ativos):** `damie` (`CECILIA12`) e `i-wanna-sleep` (`CECIEMCASA`). Não há
-  condição nova para esperar da marca — só é preciso reconfirmar que o código continua
-  funcionando no checkout. Por isso, para esses dois, a verificação pode acontecer já na
+- **Perenes (sempre ativos):** `damie` (`CECILIA12`), `i-wanna-sleep` (`CECIEMCASA`) e os códigos
+  de creator que valem "enquanto a parceria estiver vigente": `letseatit`, `insider`, `probiotica`,
+  `max-titanium`, `dr-peanut`, `black-skull`, `clea-store`, `belive`, `mais-mu`, `skelt` e
+  `bagaggio`. Não há condição nova para esperar da marca — só é preciso reconfirmar que o código
+  continua funcionando no checkout. Por isso, para esses, a verificação pode acontecer já na
   janela de 20-25 em vez de esperar o dia 1: o teste continua sendo real, só acontece mais
   cedo no ciclo. Isso não viola a regra de não simular frescor (o `lastVerified` reflete o dia
   real do teste) e ajuda a competir em frescor de SERP/AI Overview contra afiliados
   concorrentes (ex.: Mainabelli, PatBadaro na Damie) que atualizam suas páginas antes do fim
   do mês.
+- **Antecipar o mês (decisão do Bruno, 24/10/2026):** nos perenes, o teste da janela de 20-25 já
+  vale para o mês seguinte. Feito o teste real, o mês do `metaTitle` passa para o próximo (em 20/10,
+  `(nov/2026)`), e a `metaDescription` e a `longDescription` dizem "testado em" com a data real
+  do teste, sem nunca escrever uma data futura. Motivo: a concorrente da DAMIE e da Dolce Gusto
+  (viroutendencia.com, "cupom damie novembro 2026" publicado em 20/10/2026) faz isso todo dia 20, o
+  Google não a pune, e ela fica sozinha nas respostas de IA na virada do mês se não antecipamos.
+  Sem o teste, o título fica no mês corrente. Os de ciclo (abaixo) só antecipam com a condição do
+  próximo ciclo confirmada.
 - **De ciclo (têm data de término real):** `dolce-gusto` e `nestle-nutre` (ambos `CECI`). Em
   01/10/2026, as condições atuais foram reconfirmadas para outubro de 2026. Aqui a
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
@@ -53,7 +63,9 @@ depende do tipo:
 
 - testar cada código no checkout ou reconfirmar a condição por fonte oficial;
 - registrar a **data real** do teste;
-- atualizar mês de title, description e texto visível somente nas ofertas reconferidas;
+- atualizar mês de title, description e texto visível somente nas ofertas reconferidas: nas páginas
+  de loja, o `(out/2026)` do fim do `metaTitle` e o "testado em dd/mm/aaaa" do começo da
+  `metaDescription` e da `longDescription` (formato na seção 2);
 - expirar ou pausar campanhas encerradas antes de publicar a nova versão;
 - tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com
   `"isNew": true`. Trocar só essa linha em cada JSON, sem reformatar, e rodar
@@ -116,7 +128,7 @@ Para cada oferta ativa, reconferir:
 | `mais-mu` | Mais Mu | `MMEMCASACOMCECILIA` | página de cashback (`lojamaismu.com.br/apps/pulse-b-mu/cashback`) | Testar os 10% com um item em oferta (o cupom fica no checkout, em "Adicionar cupom de desconto"), conferir as faixas de frete grátis do topo do site (20/10/2026: R$ 299 no Sul, Sudeste e Centro-Oeste e R$ 399 no Norte e Nordeste) e as regras do cashback (5% acima de R$ 250, crédito de 90 dias, pedido mínimo a partir de R$ 200). O cupom soma com os 3% do Pix; a loja não acumula cupons. |
 | `skelt` | Skelt | `SKEMCASACOMCECILIA` | UTM do programa de creators (Inbazz) em `offerUrl`; política de frete e de brindes (`skelt.com.br/politica-de-frete`, `/politica-de-brindes`) | Testar os 10% com um item em promoção e conferir no Pix os 5% a mais (o carrinho da VTEX aceita teste pela API pública, sem dados pessoais). Conferir as faixas de frete grátis (21/10/2026: 12 cidades sem mínimo, R$ 199 no Sul, Sudeste e Centro-Oeste e R$ 299 no Norte e Nordeste, sobre o valor final) e que o mínimo do brinde segue contando o pedido com os descontos. A loja aceita um cupom por pedido. Não editar o link. |
 | `bagaggio` | Bagaggio | `CECILIA10` | UTM do programa de creators (Inbazz) em `offerUrl`; trocas em `bagaggio.com.br/institucional/trocas-e-devolucoes` | Testar os 10% com uma mala do Outlet e outra a preço cheio e conferir no Pix os 5% a mais (o carrinho da VTEX aceita teste pela API pública, sem dados pessoais; o cupom aparece como "Cupom UGC"). Conferir se a promoção de 50% na 2ª peça segue por cupom próprio, sem acumular. O mesmo `CECILIA10` é o código da Black Skull. Não editar o link. |
-| `hostinger` | Hostinger | indicação por link, sem código | página de indicação (`hostinger.com/br/refer`) | Conferir na página aberta pelo link o percentual (20% em 19/10/2026), que vale só no primeiro período de plano novo, e que não soma com outros cupons. Nenhum texto pode mandar digitar o código: ele vai no link. Fora do PT, o link é o global (`hostinger.com/?REFERRALCODE=SONARDEOFERTAS`), com as mesmas regras na página em inglês; regra que mudar, mudar também nos 9 idiomas de `couponTranslations.ts`. Não editar os links. |
+| `hostinger` | Hostinger | indicação por link, sem código | página de indicação (`hostinger.com/br/refer`) e a de preços aberta pelo link (`/br/precos` e, fora do PT, `/pricing`) | Conferir na página aberta pelo link o percentual (20% em 19/10/2026), que vale só no primeiro período de plano novo, e que não soma com outros cupons. Na página de preços, trocar o período: em 24/10/2026 o selo "Código de indicação aplicado" aparecia nos planos de 12 e 48 meses e, no de 1 mês, só no Startup (Single, Premium e Unlimited sem desconto); os textos dizem "12 meses ou mais" e a FAQ do plano mensal cita a data. A description em inglês leva "Checked Oct 2026": trocar o mês só com a conferência feita. Nenhum texto pode mandar digitar o código: ele vai no link. Fora do PT, o link é o global (`hostinger.com/?REFERRALCODE=SONARDEOFERTAS`), com as mesmas regras na página em inglês; regra que mudar, mudar também nos 9 idiomas de `couponTranslations.ts`. Não editar os links. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 
@@ -136,7 +148,16 @@ cupons da própria YesStyle (MIDS26 e afins), que vão no campo Coupon Code, ven
 política da loja. Nenhum texto pode chamá-lo de cupom nem falar em usá-lo "com outros cupons";
 o `npm run test:build-output` falha se isso aparecer numa das páginas da YesStyle.
 
-O código de recompensa e os cupons promocionais têm ciclos diferentes. Em cada item, revisar:
+O código de recompensa e os cupons promocionais têm ciclos diferentes. **Os cupons da YesStyle
+trocam a cada 3 dias, mais ou menos** (FINDS26, MIDS26, 1010VIBES, FALL26, COOL26, SIMPLE26 e
+BASIC26VIP só em outubro de 2026), então não cabem na rotina mensal: o cupom novo aparece na faixa
+roxa do topo de yesstyle.com, e a troca entra no JSON no dia em que o anterior vence, antes das 21h
+de Brasília (ver abaixo). Por isso os títulos e descrições das 10 páginas falam dos "cupons ativos"
+sem citar código nem mês; o mês e o código ficam só na lista, que sai do JSON. O CECILIA010 segue a
+rotina mensal: os percentuais (5% na primeira compra e 2% nas seguintes) estão na página
+`yesstyle.com/en/influencers.html` ("How much commission can I earn?"), conferida em 24/10/2026.
+
+Em cada item, revisar:
 
 - `status`: `active`, `scheduled` ou `expired`;
 - `startsAt`, `expiresAt` e `recheckBy`, quando existirem;
@@ -240,12 +261,16 @@ reconte os JSONs por `affiliate`, procure o código e as frases de data em todo 
 liste novamente as rotas de cupom. Artigo novo pode repetir a oferta sem ter sido incluído
 neste documento.
 
-Retrato conferido em 22/09/2026:
+Retrato conferido em 24/10/2026:
 
-- 80 artigos afiliados: 36 YesStyle, 16 Dolce Gusto, 11 I Wanna Sleep, 9 DAMIE, 6 Nutren
-  (4 com `affiliate: "nutren"` e 2 no alias histórico `nestle-nutre`) e 2 Magalu;
-- 9 hubs YesStyle: `/cupons/yesstyle` e oito rotas internacionais em `/en`, `/es`, `/fr`,
-  `/de`, `/ja`, `/ko`, `/zh-hans` e `/zh-hant`;
+- 383 artigos com `affiliate` (os números somam as 10 versões das famílias traduzidas): 90 YesStyle,
+  80 Hostinger, 40 SHEIN, 25 Dolce Gusto, 21 Nestlé Nutre, 18 DAMIE, 16 I Wanna Sleep, 10 Black Skull,
+  10 Cléa Store, 10 Insider, 9 Let's Eat It, 8 Belive, 7 Skelt, 7 Max Titanium, 6 Dr. Peanut,
+  6 Lejour, 6 Mais Mu, 6 Probiótica, 5 Bagaggio e 3 Magalu. Contagem: o script de `affiliate` por
+  JSON em `content/reviews` (ver seção 9);
+- 10 hubs YesStyle: `/cupons/yesstyle` e nove rotas internacionais em `/en`, `/es`, `/fr`,
+  `/de`, `/it`, `/ja`, `/ko`, `/zh-hans` e `/zh-hant`; SHEIN e Hostinger também têm páginas nos
+  9 idiomas, por `couponTranslations.ts`;
 - `/cupons`, as páginas dedicadas de DAMIE e Dolce Gusto e a rota genérica
   `/cupons/[brand]` também consomem a fonte compartilhada;
 - três artigos repetem mês ou data de confirmação e exigem alinhamento quando a condição
@@ -397,6 +422,12 @@ Troque os termos pelo mês que está saindo:
 
 ```powershell
 rg -n -i "julho|2026-07|última verificação|verificado em|testado em|válido até" src content
+```
+
+Listar os títulos e descrições de loja que levam mês ou data de teste (formato de 24/10/2026):
+
+```powershell
+rg -n "metaTitle: .*\([a-z]{3}/20[0-9]{2}\)|testado em [0-9]{2}/[0-9]{2}/20[0-9]{2}" src/lib/couponsData.ts
 ```
 
 Listar as datas das ofertas principais:

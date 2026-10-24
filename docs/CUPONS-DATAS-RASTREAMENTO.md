@@ -1,7 +1,7 @@
 # Rastreamento de datas mensais dos cupons
 
 > Documento de referência para facilitar a atualização mensal das referências de cupons no projeto.
-> Última atualização: setembro/2026.
+> Última atualização: 24/10/2026.
 >
 > A data só deve avançar após verificação real ou confirmação direta da parceria, conforme
 > `docs/MANUTENCAO-MENSAL.md`. Este arquivo é o inventário dos locais; a rotina de verificação
@@ -15,7 +15,12 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 - `lastVerified` (ISO 8601: `YYYY-MM-DD`): vira "Cupom testado em" nas lojas com código
 - `testNote`: o texto do teste de checkout, que precisa continuar verdadeiro com a data nova
-- `metaDescription` (quando mencionar "mês ano", ex: "atualizado julho 2026")
+- `metaTitle`: nas lojas convertidas em 24/10/2026 leva o mês no fim, como `(out/2026)`, quando cabe
+  em 60 caracteres; Dolce Gusto, Magalu, I Wanna Sleep, Mais Mu, Skelt e Bagaggio seguem no formato
+  antigo, com o mês na frente, até a conversão; nas convertidas
+  (com código longo, o título fica sem mês); trocar o mês só nas ofertas reconferidas
+- `metaDescription` e `longDescription`: abrem com "Cupom <Loja> testado em dd/mm/aaaa" (a descrição)
+  ou citam "testado em dd/mm/aaaa" (o texto do topo), com a data do `lastVerified`; a mesma data nos três
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
 - `relatedContent[].publishedAt` somente quando houver republicação/editorial real do conteúdo relacionado
 
@@ -23,21 +28,21 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 | Slug | Marca | Código | Campos a verificar |
 |---|---|---|---|
-| `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaDescription` |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified` |
-| `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual |
-| `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
-| `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
+| `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified`, `metaTitle` (ainda com "Outubro 2026" na frente) |
+| `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual. Os cupons da loja trocam a cada 3 dias, mais ou menos: cadência própria na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
+| `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
+| `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle` (ainda com "Outubro 2026" na frente) |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
-| `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
-| `insider` | Insider | `EMCASACOMCECILIA` (15% desde a publicação de 07/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`; manter `offerUrl` exatamente como veio |
-| `probiotica` | Probiótica | `PRO10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`; manter `offerUrl` exatamente como veio |
-| `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
-| `black-skull` | Black Skull | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription` |
+| `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
+| `insider` | Insider | `EMCASACOMCECILIA` (15% desde a publicação de 07/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; manter `offerUrl` exatamente como veio |
+| `probiotica` | Probiótica | `PRO10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`; manter `offerUrl` exatamente como veio |
+| `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixa de frete grátis em `shipping` e na FAQ |
+| `black-skull` | Black Skull | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription` |
 | `lejour` | Lejour | Indicação por link, sem código | `lastVerified` e os preços e taxas dos planos na FAQ; manter `offerUrl` exatamente como veio |
-| `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription` |
-| `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
-| `belive` | Belive | `MAUAD` (o mesmo da Let's Eat It) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
+| `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription` |
+| `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixa de frete grátis em `shipping` e na FAQ |
+| `belive` | Belive | `MAUAD` (o mesmo da Let's Eat It) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixa de frete grátis em `shipping` e na FAQ |
 | `mais-mu` | Mais Mu | `MMEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regras do cashback na FAQ |
 | `skelt` | Skelt | `SKEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regra do brinde na FAQ; manter `offerUrl` exatamente como veio |
 | `bagaggio` | Bagaggio | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, regra da promoção de 50% na 2ª peça em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
@@ -50,7 +55,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 |---|---|---|---|
 | `kopenhagen` | Kopenhagen | `CECILIA10` | Status `pausado`. Atualizar `lastVerified` se a parceria voltar. |
 
-### 2. `src/app/cupons/[brand]/page.tsx`
+### 2. `src/app/(pt)/cupons/[brand]/page.tsx` e `src/components/coupons/CouponStorePage.tsx`
 
 - O bloco de destaque mensal (`monthlyHighlight`) é renderizado automaticamente a partir dos dados.
 - Não há hardcode de mês/ano neste arquivo — a data exibida vem de `lastVerified`.
@@ -60,40 +65,46 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 Os artigos abaixo contêm referências ao mês/ano e precisam de atualização mensal:
 
+> Lista parcial, de setembro/2026: as lojas que entraram depois (Insider, Probiótica, Dr. Peanut,
+> Black Skull, Max Titanium, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Hostinger) também têm artigos
+> de cupom. A fonte é o acervo: `rg -l '"affiliate": "<slug>"' content/reviews` e, nos que repetem
+> código, percentual ou data, `rg -n "testado em|confirmado para|<mês> 2026" content/reviews`.
+> "JSON homônimo" = `content/reviews/<slug>.json`.
+
 > Importante: não alterar `publishedAt` ou `publishedAtISO` apenas por causa da atualização mensal do cupom. Essas datas são editoriais e devem refletir a publicação original do artigo. Atualize esses campos só quando o artigo for realmente republicado.
 
 #### YesStyle
 
-| Slug | Referência | Campos a verificar |
+| Slug | Arquivo | Campos a verificar |
 |---|---|---|
-| `codigo-cecilia010-yesstyle-como-usar` | ~18745 | textos sobre validade, se houver |
-| `yesstyle-reward-code-coupon-cecilia010` | ~18998 | textos sobre validade, se houver |
-| `codigo-de-recompensa-yesstyle-cupon-cecilia010` | ~19229 | textos sobre validade, se houver |
-| `code-recompense-yesstyle-cecilia010` | ~19460 | textos sobre validade, se houver |
-| `yesstyle-reward-code-rabatt-cecilia010` | ~19692 | textos sobre validade, se houver |
+| `codigo-cecilia010-yesstyle-como-usar` | JSON homônimo | textos sobre validade, se houver |
+| `yesstyle-reward-code-coupon-cecilia010` | JSON homônimo | textos sobre validade, se houver |
+| `codigo-de-recompensa-yesstyle-cupon-cecilia010` | JSON homônimo | textos sobre validade, se houver |
+| `code-recompense-yesstyle-cecilia010` | JSON homônimo | textos sobre validade, se houver |
+| `yesstyle-reward-code-rabatt-cecilia010` | JSON homônimo | textos sobre validade, se houver |
 
 #### DAMIE
 
-| Slug | Referência | Campos a verificar |
+| Slug | Arquivo | Campos a verificar |
 |---|---|---|
-| `cupom-cecilia12-como-usar` | ~20064 | textos sobre validade |
+| `cupom-cecilia12-como-usar` | JSON homônimo | textos sobre validade |
 
 #### NESCAFÉ Dolce Gusto
 
-| Slug | Referência | Campos a verificar |
+| Slug | Arquivo | Campos a verificar |
 |---|---|---|
-| `cupom-ceci-nescafe-dolce-gusto-como-usar` | ~21142 | `title`, `metaDescription`, textos com `JUNHO 2026`/`JULHO 2026` |
-| `promocao-dolce-gusto-caixas-mini-me-gratis` | ~22100 | regras e textos da promoção, se a oferta mudar |
+| `cupom-ceci-nescafe-dolce-gusto-como-usar` | JSON homônimo | `title`, `metaDescription`, textos com `JUNHO 2026`/`JULHO 2026` |
+| `promocao-dolce-gusto-caixas-mini-me-gratis` | JSON homônimo | regras e textos da promoção, se a oferta mudar |
 
 #### I Wanna Sleep
 
-| Slug | Referência | Campos a verificar |
+| Slug | Arquivo | Campos a verificar |
 |---|---|---|
 | `cupom-ceciemcasa-i-wanna-sleep-como-usar` | arquivo JSON homônimo | textos sobre validade, se houver |
 
 #### Nestlé Nutre
 
-| Slug | Referência | Campos a verificar |
+| Slug | Arquivo | Campos a verificar |
 |---|---|---|
 | `cupom-ceci-nestle-nutre-como-usar` | arquivo JSON homônimo | textos sobre validade, se houver |
 
@@ -101,15 +112,15 @@ Os artigos abaixo contêm referências ao mês/ano e precisam de atualização m
 
 Essas reviews mencionam cupons e/ou são referenciadas em `relatedContent` dos cupons. Não atualizar `publishedAt`/`publishedAtISO` no ciclo mensal; revisar apenas textos de cupom caso exista menção ao mês vigente:
 
-| Slug | Linhas aproximadas | Marca relacionada |
+| Slug | Arquivo | Marca relacionada |
 |---|---|---|
-| `sofa-damie-modular-vale-a-pena` | ~18644 | DAMIE |
-| `poltronas-reclinaveis-damie-vale-o-investimento` | ~20967 | DAMIE |
-| `sofa-damie-na-caixa-vale-a-pena-o-modular` | ~20675 | DAMIE |
-| `poltrona-moon-design-que-parece-obra-de-arte` | ~20829 | DAMIE |
-| `poltrona-levita-o-topo-da-tecnologia-e-conforto` | ~20537 | DAMIE |
-| `damie-reclame-aqui-o-que-os-dados-mostram` | ~19923 | DAMIE |
-| `poltrona-amamentacao-rotina` | ~20193 | DAMIE |
+| `sofa-damie-modular-vale-a-pena` | JSON homônimo | DAMIE |
+| `poltronas-reclinaveis-damie-vale-o-investimento` | JSON homônimo | DAMIE |
+| `sofa-damie-na-caixa-vale-a-pena-o-modular` | JSON homônimo | DAMIE |
+| `poltrona-moon-design-que-parece-obra-de-arte` | JSON homônimo | DAMIE |
+| `poltrona-levita-o-topo-da-tecnologia-e-conforto` | JSON homônimo | DAMIE |
+| `damie-reclame-aqui-o-que-os-dados-mostram` | JSON homônimo | DAMIE |
+| `poltrona-amamentacao-rotina` | JSON homônimo | DAMIE |
 
 ## Comandos para localizar referências antigas
 
@@ -131,7 +142,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" content/re
 ## Checklist de atualização mensal
 
 - [ ] Atualizar `lastVerified` em `src/lib/couponsData.ts` somente nas ofertas reconfirmadas
-- [ ] Atualizar `metaDescription` de cupons que mencionam "atualizado mês ano"
+- [ ] Atualizar o mês do `metaTitle` e a data "testado em" da `metaDescription` e da `longDescription` só nas ofertas reconfirmadas
 - [ ] Preservar `publishedAt` e `publishedAtISO` dos artigos já publicados, salvo republicação editorial real
 - [ ] Atualizar títulos de artigos de cupom que incluem mês/ano
 - [ ] Atualizar textos internos dos artigos que mencionam `JUNHO 2026`, `JULHO 2026`, etc.
