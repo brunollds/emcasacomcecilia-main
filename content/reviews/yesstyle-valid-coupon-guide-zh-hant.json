@@ -1,11 +1,11 @@
 {
   "id": 241,
   "slug": "yesstyle-valid-coupon-guide-zh-hant",
-  "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用",
+  "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用",
   "type": "指南與優惠碼",
   "reviewKind": "guia",
-  "description": "搜尋 YesStyle 有效促銷代碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
-  "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
+  "description": "搜尋 YesStyle 促銷優惠碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
+  "metaDescription": "學習如何找到正在進行的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -32,7 +32,7 @@
     "詳細解釋疊加（stacking）技巧，將當月促銷碼與 CECILIA010 同時使用",
     "展示如何利用官方網紅代碼獲得高達 5% 額外折扣",
     "列出 YesStyle 官方優惠碼來源，避免無效或過期代碼",
-    "引導至 Em Casa com Cecília 定期驗證更新的專屬優惠碼頁面"
+    "引導至 Em Casa com Cecília 定期核對更新的專屬優惠碼頁面"
   ],
   "cons": [
     "每月促銷優惠碼有效期較短（通常為 72 小時至 30 天）",
@@ -60,8 +60,8 @@
     }
   ],
   "cta": {
-    "text": "查看我們專門整理今日已驗證有效的 YesStyle 促銷優惠碼頁面。",
-    "label": "查看 YesStyle 有效優惠碼",
+    "text": "本站頁面的 YesStyle 優惠碼列表於{yesstyle:verifiedAt}核對。",
+    "label": "查看 YesStyle 優惠碼",
     "url": "/zh-hant/coupons/yesstyle",
     "sponsored": false
   },
@@ -78,7 +78,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。YesStyle 的促銷優惠碼填入 Coupon Code 欄位，很快會過期。兩個欄位的操作步驟從「步驟 1：通過官方連結前往商店」開始。"
+        "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於{yesstyle:verifiedAt}核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
       ]
     },
     {
@@ -174,7 +174,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "尋找有效 YesStyle 優惠碼的官方管道",
+      "heading": "尋找當前 YesStyle 優惠碼的官方管道",
       "paragraphs": [
         "若要獲取最新有效的促銷優惠碼，建議參考以下官方管道：",
         "1. 我們的專屬優惠碼頁面：我們設有專頁定期驗證並更新 YesStyle 代碼。",

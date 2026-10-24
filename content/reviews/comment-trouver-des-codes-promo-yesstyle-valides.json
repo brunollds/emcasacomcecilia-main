@@ -1,11 +1,11 @@
 {
   "id": 237,
   "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-  "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010",
+  "title": "Comment trouver et cumuler les coupons YesStyle avec CECILIA010",
   "type": "Guide & Coupons",
   "reviewKind": "guia",
-  "description": "Guide pratique pour trouver des codes promo YesStyle valides, comprendre la différence entre Coupon Code et Reward Code et les cumuler pour économiser jusqu'à 5% en plus avec CECILIA010.",
-  "metaDescription": "Apprenez à trouver des codes promo YesStyle valides, évitez les codes expirés et cumulez-les avec le code de récompense CECILIA010 pour jusqu'à 5% de réduction supplémentaire.",
+  "description": "Guide pratique pour trouver les coupons promo YesStyle, comprendre la différence entre Coupon Code et Reward Code et cumuler jusqu'à 5% en plus avec CECILIA010.",
+  "metaDescription": "Où trouver les coupons YesStyle en cours, comment éviter les codes expirés et comment cumuler le code de récompense CECILIA010 pour jusqu'à 5% de réduction en plus.",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -60,8 +60,8 @@
     }
   ],
   "cta": {
-    "text": "Consultez notre page dédiée avec les codes promo YesStyle vérifiés et actifs aujourd'hui.",
-    "label": "Voir les Coupons Actifs YesStyle",
+    "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le {yesstyle:verifiedAt}.",
+    "label": "Voir les coupons YesStyle actifs",
     "url": "/fr/coupons/yesstyle",
     "sponsored": false
   },
@@ -78,7 +78,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite). Les coupons promo de YesStyle vont dans le champ Coupon Code et expirent vite. Le pas-à-pas commence à « Étape 1 : accédez à la boutique via le lien officiel »."
+        "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le {yesstyle:verifiedAt}. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
       ]
     },
     {
@@ -174,7 +174,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "Sources officielles pour trouver des coupons YesStyle valides",
+      "heading": "Sources officielles pour trouver les coupons YesStyle en cours",
       "paragraphs": [
         "Pour suivre les coupons promo en vigueur sans tomber sur des codes expirés, nous vous recommandons ces sources officielles :",
         "1. Notre page de coupons centralisée : nous maintenons une page dédiée où nous vérifions les codes YesStyle.",

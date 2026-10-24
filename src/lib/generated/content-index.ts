@@ -29499,13 +29499,13 @@ export const reviewsData: unknown[] = [
   {
     "id": 234,
     "slug": "como-encontrar-cupons-yesstyle-validos",
-    "title": "Como encontrar cupons YesStyle válidos e usar com o CECILIA010",
-    "seoTitle": "Cupons YesStyle válidos: como achar e usar com o CECILIA010",
+    "title": "Como achar e combinar os cupons da YesStyle com o CECILIA010",
+    "seoTitle": "Como achar e combinar os cupons da YesStyle com o CECILIA010",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "description": "Guia prático para encontrar cupons de desconto válidos na YesStyle, entender a diferença entre Coupon Code e Reward Code e aprender a fazer o empilhamento para economizar até 5% extra com o CECILIA010.",
-    "metaDescription": "Aprenda a encontrar cupons YesStyle válidos, evitar códigos expirados e fazer a combinação com o código de recompensa CECILIA010 para economizar até 5% extra.",
+    "description": "Guia prático para achar os cupons de desconto da YesStyle, entender a diferença entre Coupon Code e Reward Code e somar até 5% extra com o CECILIA010.",
+    "metaDescription": "Onde achar os cupons da YesStyle em vigor, como evitar códigos vencidos e como somar o código de recompensa CECILIA010 para economizar até 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "authors": [
@@ -29531,7 +29531,7 @@ export const reviewsData: unknown[] = [
       "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",
       "Mostra como economizar até 5% extra com o código de influenciador oficial",
       "Lista fontes oficiais de cupons da YesStyle para evitar códigos falsos ou expirados",
-      "Direciona para a página atualizada do Em Casa com Cecília com cupons testados regularmente"
+      "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons conferida"
     ],
     "cons": [
       "Cupons promocionais mensais possuem prazos curtos (geralmente de 72h a 30 dias)",
@@ -29559,8 +29559,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Confira nossa página dedicada com os cupons promocionais da YesStyle testados e ativos hoje.",
-      "label": "Ver Cupons Ativos da YesStyle",
+      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 24 de outubro de 2026.",
+      "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
     },
@@ -29581,7 +29581,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O CECILIA010 é código de recompensa, vai no campo Reward Code e dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Os cupons de promoção da YesStyle vão no campo Coupon Code e vencem rápido. O passo a passo dos dois campos começa em \"Passo 1: acesse a loja pelo link oficial\"."
+          "Os [cupons YesStyle](/cupons/yesstyle) de promoção vão no campo Coupon Code e vencem rápido; a lista da nossa página foi conferida em 24 de outubro de 2026. O CECILIA010 é código de recompensa: vai no campo Reward Code e dá até 5% extra, 5% na primeira compra e 2% nas seguintes."
         ]
       },
       {
@@ -29677,7 +29677,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Fontes oficiais para encontrar cupons YesStyle válidos",
+        "heading": "Onde achar os cupons YesStyle em vigor",
         "paragraphs": [
           "Se você deseja acompanhar os cupons promocionais vigentes do mês sem cair em códigos expirados, recomendamos utilizar as seguintes fontes oficiais:",
           "1. Nossa página centralizada de cupons: mantemos uma página dedicada onde verificamos e atualizamos os códigos promocionais da YesStyle.",
@@ -36278,12 +36278,12 @@ export const reviewsData: unknown[] = [
   {
     "id": 235,
     "slug": "how-to-find-valid-yesstyle-coupon-codes",
-    "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010",
-    "seoTitle": "YesStyle Coupon Codes That Work and How to Stack Them",
+    "title": "How to Find and Stack YesStyle Coupons with CECILIA010",
+    "seoTitle": "How to Find and Stack YesStyle Coupons with CECILIA010",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "Practical guide to finding valid YesStyle promo codes, understanding the difference between Coupon Code and Reward Code, and stacking them for up to 5% extra savings with CECILIA010.",
-    "metaDescription": "Most YesStyle coupon codes online are expired. Where to find valid ones, Coupon Code vs Reward Code, and how CECILIA010 adds up to 5% extra.",
+    "description": "Practical guide to finding YesStyle promo coupons, telling Coupon Code and Reward Code apart, and stacking them with CECILIA010 for up to 5% extra.",
+    "metaDescription": "Where to find the YesStyle coupons that are running, how to avoid expired codes, and how the CECILIA010 reward code adds up to 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36310,7 +36310,7 @@ export const reviewsData: unknown[] = [
       "Explains stacking to combine monthly promo coupons with CECILIA010",
       "Shows how to save up to 5% extra using the official influencer code",
       "Lists official YesStyle coupon sources to avoid fake or expired codes",
-      "Directs to the updated Em Casa com Cecília page with regularly tested coupons"
+      "Directs to the updated Em Casa com Cecília page with a regularly checked coupon list"
     ],
     "cons": [
       "Monthly promotional coupons have short validities (usually 72h to 30 days)",
@@ -36338,7 +36338,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Check our dedicated page with verified and active YesStyle promo codes today.",
+      "text": "On our page, the YesStyle coupon list was checked on October 24, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -36356,7 +36356,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones. YesStyle promo coupons go in the Coupon Code field and expire quickly. The two-field walkthrough starts at \"Step 1: access the store via the official link\"."
+          "[YesStyle coupon codes](/en/coupons/yesstyle) go in the Coupon Code field and expire quickly; the list on our page was checked on October 24, 2026. CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones."
         ]
       },
       {
@@ -36452,7 +36452,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Official sources to find valid YesStyle coupons",
+        "heading": "Official sources for current YesStyle coupons",
         "paragraphs": [
           "If you want to track active promo coupons without falling for expired codes, we recommend using these official sources:",
           "1. Our centralized coupon page: we maintain a dedicated page where we verify and update YesStyle promotional codes.",
@@ -36498,11 +36498,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 236,
     "slug": "como-encontrar-cupones-yesstyle-validos",
-    "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010",
+    "title": "Cómo encontrar y combinar los cupones de YesStyle con CECILIA010",
     "type": "Guía & Cupones",
     "reviewKind": "guia",
-    "description": "Guía práctica para encontrar códigos promocionales válidos de YesStyle, entender la diferencia entre Coupon Code y Reward Code y combinarlos para ahorrar hasta un 5% extra con CECILIA010.",
-    "metaDescription": "Aprende a encontrar cupones YesStyle válidos, evitar códigos caducados y combinarlos con el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
+    "description": "Guía práctica para encontrar los cupones promocionales de YesStyle, entender la diferencia entre Coupon Code y Reward Code y sumar hasta un 5% extra con CECILIA010.",
+    "metaDescription": "Dónde encontrar los cupones de YesStyle en vigor, cómo evitar códigos caducados y cómo sumar el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36529,7 +36529,7 @@ export const reviewsData: unknown[] = [
       "Explica la combinación (stacking) para sumar cupones del mes con CECILIA010",
       "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
       "Enumera fuentes oficiales de cupones de YesStyle para evitar códigos falsos o caducados",
-      "Dirige a la página actualizada de Em Casa com Cecília con cupones comprobados regularmente"
+      "Dirige a la página actualizada de Em Casa com Cecília con la lista de cupones revisada con regularidad"
     ],
     "cons": [
       "Los cupones promocionales mensuales tienen vigencias cortas (generalmente de 72h a 30 días)",
@@ -36557,8 +36557,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Consulta nuestra página dedicada con los cupones promocionales de YesStyle comprobados y activos hoy.",
-      "label": "Ver Cupones Activos de YesStyle",
+      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 24 de octubre de 2026.",
+      "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
     },
@@ -36575,7 +36575,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes. Los cupones promocionales de YesStyle van en el campo Coupon Code y caducan rápido. La guía empieza en \"Paso 1: accede a la tienda por el enlace oficial\"."
+          "Los [cupones YesStyle](/es/coupons/yesstyle) promocionales van en el campo Coupon Code y caducan rápido; la lista de nuestra página se revisó el 24 de octubre de 2026. CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes."
         ]
       },
       {
@@ -36671,7 +36671,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Fuentes oficiales para encontrar cupones válidos de YesStyle",
+        "heading": "Fuentes oficiales para encontrar cupones de YesStyle en vigor",
         "paragraphs": [
           "Si deseas seguir los cupones promocionales vigentes sin caer en códigos caducados, recomendamos estas fuentes oficiales:",
           "1. Nuestra página centralizada de cupones: mantenemos una página dedicada donde verificamos los códigos de YesStyle.",
@@ -36717,11 +36717,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 237,
     "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-    "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010",
+    "title": "Comment trouver et cumuler les coupons YesStyle avec CECILIA010",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "Guide pratique pour trouver des codes promo YesStyle valides, comprendre la différence entre Coupon Code et Reward Code et les cumuler pour économiser jusqu'à 5% en plus avec CECILIA010.",
-    "metaDescription": "Apprenez à trouver des codes promo YesStyle valides, évitez les codes expirés et cumulez-les avec le code de récompense CECILIA010 pour jusqu'à 5% de réduction supplémentaire.",
+    "description": "Guide pratique pour trouver les coupons promo YesStyle, comprendre la différence entre Coupon Code et Reward Code et cumuler jusqu'à 5% en plus avec CECILIA010.",
+    "metaDescription": "Où trouver les coupons YesStyle en cours, comment éviter les codes expirés et comment cumuler le code de récompense CECILIA010 pour jusqu'à 5% de réduction en plus.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36776,8 +36776,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Consultez notre page dédiée avec les codes promo YesStyle vérifiés et actifs aujourd'hui.",
-      "label": "Voir les Coupons Actifs YesStyle",
+      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 24 octobre 2026.",
+      "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
     },
@@ -36794,7 +36794,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite). Les coupons promo de YesStyle vont dans le champ Coupon Code et expirent vite. Le pas-à-pas commence à « Étape 1 : accédez à la boutique via le lien officiel »."
+          "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le 24 octobre 2026. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
         ]
       },
       {
@@ -36890,7 +36890,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Sources officielles pour trouver des coupons YesStyle valides",
+        "heading": "Sources officielles pour trouver les coupons YesStyle en cours",
         "paragraphs": [
           "Pour suivre les coupons promo en vigueur sans tomber sur des codes expirés, nous vous recommandons ces sources officielles :",
           "1. Notre page de coupons centralisée : nous maintenons une page dédiée où nous vérifions les codes YesStyle.",
@@ -36936,11 +36936,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 238,
     "slug": "gueltige-yesstyle-gutscheincodes-finden",
-    "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren",
+    "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
-    "description": "Praktischer Leitfaden zum Finden gültiger YesStyle-Gutscheincodes, zum Unterschied zwischen Coupon Code und Reward Code sowie zum Kombinieren für bis zu 5% Extra-Rabatt mit CECILIA010.",
-    "metaDescription": "Lerne, wie du gültige YesStyle Gutscheincodes findest, abgelaufene Codes vermeidest und sie mit dem Rabattcode CECILIA010 für bis zu 5% Extra-Rabatt kombinierst.",
+    "description": "Praktischer Leitfaden zum Finden von YesStyle-Gutscheinen, zum Unterschied zwischen Coupon Code und Reward Code und zum Kombinieren für bis zu 5% extra mit CECILIA010.",
+    "metaDescription": "Wo du aktuelle YesStyle-Gutscheine findest, wie du abgelaufene Codes vermeidest und wie der Belohnungscode CECILIA010 bis zu 5% extra bringt.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36995,8 +36995,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Besuche unsere Sonderseite mit geprüften und aktiven YesStyle-Gutscheincodes von heute.",
-      "label": "Aktive YesStyle Gutscheine Ansehen",
+      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 24. Oktober 2026 geprüft.",
+      "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
     },
@@ -37013,7 +37013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren. YesStyle-Aktionsgutscheine gehören ins Feld Coupon Code und laufen schnell ab. Die Anleitung für beide Felder beginnt bei \"Schritt 1: Rufe den Shop über den offiziellen Link auf\"."
+          "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am 24. Oktober 2026 geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
         ]
       },
       {
@@ -37109,7 +37109,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Offizielle Quellen für gültige YesStyle-Gutscheine",
+        "heading": "Offizielle Quellen für aktuelle YesStyle-Gutscheine",
         "paragraphs": [
           "Um stets aktuelle Aktionsgutscheine zu finden, empfehlen wir folgende Quellen:",
           "1. Unsere Gutschein-Sonderseite: Wir betreiben eine eigene Seite, auf der wir YesStyle-Codes regelmäßig prüfen.",
@@ -37155,11 +37155,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 239,
     "slug": "yesstyle-valid-coupon-guide-ko",
-    "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드",
+    "title": "YesStyle 쿠폰 찾는 법과 CECILIA010 함께 쓰는 법",
     "type": "가이드 & 쿠폰",
     "reviewKind": "guia",
-    "description": "YesStyle 유효 프로모션 쿠폰을 찾고, Coupon Code와 Reward Code의 차이를 이해하며, CECILIA010 코드로 최대 5% 추가 할인을 받는 실전 가이드입니다.",
-    "metaDescription": "YesStyle 유효 쿠폰 코드를 찾고 만료된 코드를 피하며, CECILIA010 리워드 코드로 최대 5% 추가 할인을 적용하는 방법을 알아보세요.",
+    "description": "YesStyle 프로모션 쿠폰을 찾고, Coupon Code와 Reward Code의 차이를 이해하며, CECILIA010 코드로 최대 5% 추가 할인을 받는 실전 가이드입니다.",
+    "metaDescription": "진행 중인 YesStyle 쿠폰을 찾는 곳, 만료된 코드를 피하는 법, CECILIA010 리워드 코드로 최대 5% 추가 할인을 받는 방법을 알아보세요.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -37186,7 +37186,7 @@ export const reviewsData: unknown[] = [
       "월간 프로모션 쿠폰과 CECILIA010 코드를 함께 사용하는 중복 할인(stacking) 방법을 안내합니다",
       "인플루언서 공식 코드로 최대 5% 추가 할인받는 법을 보여줍니다",
       "만료되거나 잘못된 코드를 피할 수 있는 YesStyle 공식 쿠폰 출처를 정리했습니다",
-      "정기적으로 검증된 쿠폰이 업데이트되는 Em Casa com Cecília 전용 페이지로 연결됩니다"
+      "정기적으로 확인하는 쿠폰 목록이 있는 Em Casa com Cecília 전용 페이지로 연결됩니다"
     ],
     "cons": [
       "월간 프로모션 쿠폰은 유효 기간이 짧습니다 (보통 72시간~30일)",
@@ -37214,8 +37214,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "오늘 검증된 YesStyle 활성 프로모션 쿠폰 전용 페이지를 확인하세요.",
-      "label": "YesStyle 활성 쿠폰 보기",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 10월 24일에 확인했습니다.",
+      "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
     },
@@ -37232,7 +37232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다. YesStyle 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 두 입력란 사용법은 \"1단계: 공식 링크를 통해 쇼핑몰 접속\"부터 시작합니다."
+          "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 2026년 10월 24일에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
         ]
       },
       {
@@ -37328,7 +37328,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "유효한 YesStyle 쿠폰을 찾는 공식 출처",
+        "heading": "진행 중인 YesStyle 쿠폰을 찾는 공식 출처",
         "paragraphs": [
           "만료된 코드 없이 활성화된 프로모션 쿠폰을 확인하는 추천 방법:",
           "1. 통합 쿠폰 페이지: 검증된 YesStyle 코드를 업데이트하는 전용 페이지를 운영합니다.",
@@ -37374,11 +37374,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 240,
     "slug": "yesstyle-valid-coupon-guide-ja",
-    "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法",
+    "title": "YesStyleクーポンの見つけ方とCECILIA010の併用方法",
     "type": "ガイド＆クーポン",
     "reviewKind": "guia",
-    "description": "有効なYesStyleプロモーションコードの見つけ方、Coupon CodeとReward Codeの違い、CECILIA010で最大5%追加オフにする併用テクニックを解説します。",
-    "metaDescription": "YesStyleの有効なクーポンコードの探し方、期限切れコードの回避法、CECILIA010で最大5%追加割引を適用する併用方法を解説します。",
+    "description": "YesStyleのプロモーションクーポンの見つけ方、Coupon CodeとReward Codeの違い、CECILIA010で最大5%追加オフにする併用テクニックを解説します。",
+    "metaDescription": "開催中のYesStyleクーポンの探し方、期限切れコードの回避法、CECILIA010で最大5%追加割引を適用する併用方法を解説します。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -37405,7 +37405,7 @@ export const reviewsData: unknown[] = [
       "月間プロモクーポンとCECILIA010を重ねて使う併用（stacking）手順を説明",
       "公式インフルエンサーコードで最大5%追加オフにするお得な使い方を紹介",
       "無効なコードを避けるためのYesStyle公式クーポン情報源を掲載",
-      "定期的に検証されたクーポンが更新されるEm Casa com Cecília専用ページへ案内"
+      "定期的に確認されたクーポン一覧を掲載するEm Casa com Cecília専用ページへ案内"
     ],
     "cons": [
       "月間プロモーションクーポンは有効期限が短めです（通常72時間〜30日間）",
@@ -37433,8 +37433,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本日検証済みのYesStyleアクティブクーポン専用ページをご確認ください。",
-      "label": "YesStyleアクティブクーポンを見る",
+      "text": "当サイトのYesStyleクーポン一覧は2026年10月24日に確認しました。",
+      "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
     },
@@ -37451,7 +37451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。YesStyleのプロモクーポンはCoupon Code欄に入力し、期限が短めです。2つの欄の手順は「ステップ1：公式リンクからショップにアクセス」から始まります。"
+          "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は2026年10月24日に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
         ]
       },
       {
@@ -37547,7 +37547,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "有効なYesStyleクーポンを見つける公式情報源",
+        "heading": "開催中のYesStyleクーポンを見つける公式情報源",
         "paragraphs": [
           "期限切れコードに惑わされず最新のプロモクーポンを確認するおすすめの方法：",
           "1. 当サイトの専用クーポンページ：検証済みのYesStyleコードを更新する専用ページを運営しています。",
@@ -37593,11 +37593,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 241,
     "slug": "yesstyle-valid-coupon-guide-zh-hant",
-    "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用",
+    "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用",
     "type": "指南與優惠碼",
     "reviewKind": "guia",
-    "description": "搜尋 YesStyle 有效促銷代碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
-    "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
+    "description": "搜尋 YesStyle 促銷優惠碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
+    "metaDescription": "學習如何找到正在進行的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -37624,7 +37624,7 @@ export const reviewsData: unknown[] = [
       "詳細解釋疊加（stacking）技巧，將當月促銷碼與 CECILIA010 同時使用",
       "展示如何利用官方網紅代碼獲得高達 5% 額外折扣",
       "列出 YesStyle 官方優惠碼來源，避免無效或過期代碼",
-      "引導至 Em Casa com Cecília 定期驗證更新的專屬優惠碼頁面"
+      "引導至 Em Casa com Cecília 定期核對更新的專屬優惠碼頁面"
     ],
     "cons": [
       "每月促銷優惠碼有效期較短（通常為 72 小時至 30 天）",
@@ -37652,8 +37652,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "查看我們專門整理今日已驗證有效的 YesStyle 促銷優惠碼頁面。",
-      "label": "查看 YesStyle 有效優惠碼",
+      "text": "本站頁面的 YesStyle 優惠碼列表於2026年10月24日核對。",
+      "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
     },
@@ -37670,7 +37670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。YesStyle 的促銷優惠碼填入 Coupon Code 欄位，很快會過期。兩個欄位的操作步驟從「步驟 1：通過官方連結前往商店」開始。"
+          "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於2026年10月24日核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
         ]
       },
       {
@@ -37766,7 +37766,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "尋找有效 YesStyle 優惠碼的官方管道",
+        "heading": "尋找當前 YesStyle 優惠碼的官方管道",
         "paragraphs": [
           "若要獲取最新有效的促銷優惠碼，建議參考以下官方管道：",
           "1. 我們的專屬優惠碼頁面：我們設有專頁定期驗證並更新 YesStyle 代碼。",
@@ -37812,11 +37812,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 242,
     "slug": "yesstyle-valid-coupon-guide-zh-hans",
-    "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用",
+    "title": "如何找到 YesStyle 优惠码并与 CECILIA010 叠加使用",
     "type": "指南与优惠码",
     "reviewKind": "guia",
-    "description": "查找 YesStyle 有效促销代码的实用指南，了解 Coupon Code 与 Reward Code 的区别，并使用 CECILIA010 叠加享高达 5% 额外折扣。",
-    "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励码 CECILIA010 叠加享高达 5% 额外折扣。",
+    "description": "查找 YesStyle 促销优惠码的实用指南，了解 Coupon Code 与 Reward Code 的区别，并使用 CECILIA010 叠加享高达 5% 额外折扣。",
+    "metaDescription": "学习如何找到正在进行的 YesStyle 促销优惠码，避免过期代码，并配合奖励码 CECILIA010 叠加享高达 5% 额外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -37843,7 +37843,7 @@ export const reviewsData: unknown[] = [
       "详细解释叠加（stacking）技巧，将当月促销码与 CECILIA010 同时使用",
       "展示如何利用官方网红代码获得高达 5% 额外折扣",
       "列出 YesStyle 官方优惠码来源，避免无效或过期代码",
-      "引导至 Em Casa com Cecília 定期验证更新的专属优惠码页面"
+      "引导至 Em Casa com Cecília 定期核对更新的专属优惠码页面"
     ],
     "cons": [
       "每月促销优惠码有效期较短（通常为 72 小时至 30 天）",
@@ -37871,8 +37871,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "查看我们专门整理今日已验证有效的 YesStyle 促销优惠码页面。",
-      "label": "查看 YesStyle 有效优惠码",
+      "text": "本站页面的 YesStyle 优惠码列表于2026年10月24日核对。",
+      "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
     },
@@ -37889,7 +37889,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。YesStyle 的促销优惠码填入 Coupon Code 栏位，很快会过期。两个栏位的操作步骤从“步骤 1：通过官方链接前往商店”开始。"
+          "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于2026年10月24日核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
         ]
       },
       {
@@ -37985,7 +37985,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "寻找有效 YesStyle 优惠码的官方渠道",
+        "heading": "寻找当前 YesStyle 优惠码的官方渠道",
         "paragraphs": [
           "若要获取最新有效的促销优惠码，建议参考以下官方渠道：",
           "1. 我们的专属优惠码页面：我们设有专页定期验证并更新 YesStyle 代码。",
@@ -38277,7 +38277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva é que a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo Os produtos da YesStyle são originais?"
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 24 de outubro de 2026."
         ]
       },
       {
@@ -39378,7 +39378,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. The checks are in the chapter Are YesStyle Products Authentic? Where Is YesStyle From?."
+          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. Checks are in the chapter \"Are YesStyle Products Authentic? Where Is YesStyle From?\". To save, see the [YesStyle coupon codes](/en/coupons/yesstyle), checked on October 24, 2026."
         ]
       },
       {
@@ -39517,7 +39517,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente, así que revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo ¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?."
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente: revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo «¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?». Para ahorrar, mira los [cupones YesStyle](/es/coupons/yesstyle), revisados el 24 de octubre de 2026."
         ]
       },
       {
@@ -39651,7 +39651,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? »."
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 24 octobre 2026."
         ]
       },
       {
@@ -39784,7 +39784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Zum Sparen finden Sie die [YesStyle-Gutscheine](/de/coupons/yesstyle), geprüft am 24. Oktober 2026."
         ]
       },
       {
@@ -39917,7 +39917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 매장이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다."
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 YesStyle이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다. 할인받아 구매하려면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 확인하세요(2026년 10월 24일 확인)."
         ]
       },
       {
@@ -40035,7 +40035,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場するYesAsia Holdings傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。"
+          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場企業YesAsia Holdingsの傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。割引で買うなら[YesStyleクーポン](/ja/coupons/yesstyle)をご覧ください（2026年10月24日に確認）。"
         ]
       },
       {
@@ -40168,7 +40168,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。"
+          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於2026年10月24日核對）。"
         ]
       },
       {
@@ -40286,7 +40286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。"
+          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于2026年10月24日核对）。"
         ]
       },
       {
@@ -48565,12 +48565,12 @@ export const reviewsData: unknown[] = [
   {
     "id": 310,
     "slug": "come-trovare-codici-sconto-yesstyle-validi",
-    "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010",
-    "seoTitle": "Codici sconto YesStyle validi: come trovarli + CECILIA010",
+    "title": "Come trovare e combinare i coupon YesStyle con CECILIA010",
+    "seoTitle": "Come trovare e combinare i coupon YesStyle con CECILIA010",
     "type": "Guida e coupon",
     "reviewKind": "guia",
-    "description": "Guida pratica per trovare codici sconto YesStyle validi, capire la differenza tra Coupon Code e Reward Code e sommarli per risparmiare fino al 5% in più con CECILIA010.",
-    "metaDescription": "Scopri come trovare codici sconto YesStyle validi, evita quelli scaduti e sommali al codice ricompensa CECILIA010 per fino al 5% di sconto in più.",
+    "description": "Guida pratica per trovare i coupon promozionali YesStyle, capire la differenza tra Coupon Code e Reward Code e sommarli per avere fino al 5% in più con CECILIA010.",
+    "metaDescription": "Dove trovare i coupon YesStyle in corso, come evitare i codici scaduti e come sommare il codice ricompensa CECILIA010 per avere fino al 5% di sconto in più.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
     "hideFromPortugueseListings": true,
@@ -48597,7 +48597,7 @@ export const reviewsData: unknown[] = [
       "Spiega come sommare gli sconti (stacking) per combinare i coupon del mese con CECILIA010",
       "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
       "Elenca le fonti ufficiali dei coupon YesStyle per evitare codici scaduti",
-      "Rimanda alla pagina aggiornata di Em Casa com Cecília con coupon verificati regolarmente"
+      "Rimanda alla pagina aggiornata di Em Casa com Cecília con la lista dei coupon controllata regolarmente"
     ],
     "cons": [
       "I coupon promozionali mensili hanno durate brevi (in genere da 72 ore a 30 giorni)",
@@ -48625,7 +48625,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Consulta la nostra pagina dedicata con i codici sconto YesStyle verificati e attivi oggi.",
+      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 24 ottobre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -48643,7 +48643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "CECILIA010 è un codice reward: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi. I coupon promozionali di YesStyle vanno nel campo Coupon Code e scadono presto. La guida ai due campi parte da \"Passo 1: accedi al negozio tramite il link ufficiale\"."
+          "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il 24 ottobre 2026. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
         ]
       },
       {
@@ -48739,7 +48739,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Fonti ufficiali per trovare coupon YesStyle validi",
+        "heading": "Fonti ufficiali per trovare i coupon YesStyle in corso",
         "paragraphs": [
           "Per seguire i coupon promozionali in corso senza imbatterti in codici scaduti, ti consigliamo queste fonti ufficiali:",
           "1. La nostra pagina coupon centralizzata: manteniamo una pagina dedicata in cui verifichiamo i codici YesStyle.",
@@ -48814,7 +48814,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo I prodotti YesStyle sono originali? Da dove viene YesStyle?."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo «I prodotti YesStyle sono originali? Da dove viene YesStyle?». Per comprare con lo sconto, vedi i [coupon YesStyle](/it/coupons/yesstyle), controllati il 24 ottobre 2026."
         ]
       },
       {
