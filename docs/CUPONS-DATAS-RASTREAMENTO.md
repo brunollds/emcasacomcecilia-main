@@ -17,8 +17,9 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 - `testNote`: o texto do teste de checkout, que precisa continuar verdadeiro com a data nova
 - `metaTitle`: nas lojas convertidas em 24/10/2026 leva o mês no fim, como `(nov/2026)`, quando cabe
   em 60 caracteres (I Wanna Sleep, Mais Mu, Skelt e Bagaggio convertidas na rodada de novembro; com
-  código longo, Probiótica, Max Titanium e Dr. Peanut ficam sem mês); Dolce Gusto e Magalu seguem no
-  formato antigo, com o mês na frente, até a conversão; trocar o mês só nas ofertas reconferidas
+  código longo, Probiótica, Max Titanium e Dr. Peanut ficam sem mês). Nos cupons de ciclo (Dolce Gusto
+  e Nestlé Nutre) e no Magalu, o título fica sem mês desde 24/10/2026: a data de teste vai só no "testado em".
+  Trocar o mês só nas ofertas reconferidas.
 - `metaDescription` e `longDescription`: abrem com "Cupom <Loja> testado em dd/mm/aaaa" (a descrição)
   ou citam "testado em dd/mm/aaaa" (o texto do topo), com a data do `lastVerified`; a mesma data nos três
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
@@ -29,11 +30,11 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | Slug | Marca | Código | Campos a verificar |
 |---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified`, `metaTitle` (ainda com "Outubro 2026" na frente) |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified`, `metaDescription`, `longDescription` (título sem mês) |
 | `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual. Os cupons da loja trocam a cada 3 dias, mais ou menos: cadência própria na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
-| `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
+| `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaDescription`, `longDescription`, FAQ "Cupom Magalu hoje" (título sem mês) |
 | `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
 | `insider` | Insider | `EMCASACOMCECILIA` (15% desde a publicação de 07/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; manter `offerUrl` exatamente como veio |
 | `probiotica` | Probiótica | `PRO10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`; manter `offerUrl` exatamente como veio |

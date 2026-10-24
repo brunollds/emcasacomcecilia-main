@@ -207,6 +207,10 @@ export const COUPONS: Coupon[] = [
           'Sim. Há reviews e vídeos de produtos DAMIE usados pela Cecília em casa, incluindo poltronas e sofá modular. A página de cupom também aponta para esses conteúdos relacionados.',
       },
       {
+        question: 'O cupom CECILIA12 vale na primeira compra na DAMIE?',
+        answer: 'Sim. O CECILIA12 vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
         question: 'O cupom CECILIA12 tem validade?',
         answer:
           'O cupom está ativo enquanto a parceria estiver vigente. Esta página mostra a data da última verificação para você saber quando a informação foi revisada.',
@@ -281,10 +285,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
-      'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
-    metaTitle: 'Cupom Dolce Gusto Outubro 2026: CECI — 5% OFF na Loja Oficial',
+      'O CECI dá 5% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100. Testado em 01/10/2026 num carrinho acima de R$ 100.',
+    metaTitle: 'Cupom Dolce Gusto: 5% OFF com CECI na loja oficial',
     metaDescription:
-      'Cupom Dolce Gusto confirmado para outubro de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 5% OFF em compras a partir de R$ 100.',
+      'Cupom Dolce Gusto testado em 01/10/2026: CECI dá 5% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -517,7 +521,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
       'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 04/10/2026 num carrinho de R$ 1.121,84, com R$ 112,18 de desconto.',
-    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI (out/2026)',
+    metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI na loja oficial',
     metaDescription:
       'Cupom Nestlé Nutre testado em 04/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
@@ -715,10 +719,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
-      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu.',
-    metaTitle: 'Cupom Magalu Outubro 2026: 100EMCASACOMCECILIA até R$ 100 OFF',
+      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu. Testado em 01/10/2026.',
+    metaTitle: 'Cupom Magalu: até R$ 100 OFF com 100EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Magalu confirmado para outubro de 2026: use 100EMCASACOMCECILIA e ganhe até R$ 100 OFF na loja Magazine Você da Cecília. Válido só no navegador — veja todas as faixas.',
+      'Cupom Magalu testado em 01/10/2026: 100EMCASACOMCECILIA dá até R$ 100 OFF na loja Magazine Você da Cecília. Vale só no navegador; veja as 10 faixas.',
     eligibleCategories:
       'Produtos vendidos e entregues pelo Magalu, conforme a faixa de valor mínimo de cada cupom',
     validity: 'Cupons ativos enquanto a parceria estiver vigente',
@@ -1072,10 +1076,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
-      'Acesse a SHEIN pelo link principal da Cecília, consulte o código de indicação 4CW5Y e veja as campanhas confirmadas para produtos selecionados e novos usuários.',
-    metaTitle: 'SHEIN: código de indicação 4CW5Y e cupom de 50% para novos usuários',
+      'Na SHEIN, o 4CW5Y é código de indicação: pesquise no aplicativo SHEIN; ele não se cola no checkout. Para o cupom de 50% para novos usuários, pesquise K49L457 no app ou use o botão da campanha abaixo.',
+    metaTitle: 'SHEIN: 4CW5Y (indicação) e cupom de 50% para novos usuários',
     metaDescription:
-      'Acesse o link da Cecília para a SHEIN, pesquise 4CW5Y no app e confira as campanhas vigentes, incluindo produtos selecionados e 50% para novos usuários.',
+      'Link da Cecília para a SHEIN: pesquise 4CW5Y (código de indicação) ou K49L457 (50% para novos usuários) no app e veja as campanhas vigentes.',
     eligibleCategories:
       'Moda, acessórios, beleza, casa e demais categorias elegíveis em cada campanha',
     validity: 'Links e campanhas sujeitos a alteração; confira as condições exibidas pela SHEIN',
@@ -1097,9 +1101,9 @@ export const COUPONS: Coupon[] = [
           '37S3442 é o código de busca da campanha vigente de produtos selecionados. Os descontos são por tempo limitado e podem variar conforme o item.',
       },
       {
-        question: 'Quem pode usar o código G326U6B?',
+        question: 'Quem pode usar o código K49L457?',
         answer:
-          'A campanha G326U6B anuncia cupom de 50% apenas para novos usuários. A elegibilidade e o desconto final são confirmados pela SHEIN na conta e no checkout.',
+          'A campanha K49L457 dá cupom de 50% apenas para novos usuários: pesquise o código no aplicativo SHEIN ou abra o link da campanha. A elegibilidade e o desconto final são confirmados pela SHEIN na conta e no checkout.',
       },
       {
         question: 'Os links e códigos da SHEIN são permanentes?',
@@ -1139,11 +1143,11 @@ export const COUPONS: Coupon[] = [
       },
       {
         title: '50% para novos usuários',
-        code: 'G326U6B',
-        offerUrl: 'https://onelink.shein.com/47/5yl4h46pd93c',
+        code: 'K49L457',
+        offerUrl: 'https://onelink.shein.com/58/6630nfyralty',
         description: 'Campanha com cupom de 50% voltada apenas a novos usuários.',
         eligibility: 'Somente novos usuários elegíveis, conforme validação da SHEIN.',
-        verifiedAt: '2026-09-01',
+        verifiedAt: '2026-10-24',
       },
     ],
     status: 'ativo',

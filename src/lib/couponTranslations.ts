@@ -81,9 +81,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
           '37S3442 is the search code for the current campaign on selected products. The discounts are for a limited time and may vary by item.',
       },
       {
-        question: 'Who can use the code G326U6B?',
+        question: 'Who can use the code K49L457?',
         answer:
-          'The G326U6B campaign advertises a 50% coupon for new users only. SHEIN confirms eligibility and the final discount on your account and at checkout.',
+          'The K49L457 campaign advertises a 50% coupon for new users only. SHEIN confirms eligibility and the final discount on your account and at checkout.',
       },
       {
         question: 'Are SHEIN links and codes permanent?',
@@ -154,9 +154,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
           '37S3442 es el código de búsqueda de la campaña vigente de productos seleccionados. Los descuentos son por tiempo limitado y pueden variar según el artículo.',
       },
       {
-        question: '¿Quién puede usar el código G326U6B?',
+        question: '¿Quién puede usar el código K49L457?',
         answer:
-          'La campaña G326U6B anuncia un cupón del 50% solo para nuevos usuarios. SHEIN confirma la elegibilidad y el descuento final en la cuenta y al pagar.',
+          'La campaña K49L457 anuncia un cupón del 50% solo para nuevos usuarios. SHEIN confirma la elegibilidad y el descuento final en la cuenta y al pagar.',
       },
       {
         question: '¿Los enlaces y códigos de SHEIN son permanentes?',
@@ -226,8 +226,8 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
           "37S3442 est le code de recherche de la campagne en cours sur une sélection de produits. Les réductions sont limitées dans le temps et peuvent varier selon l'article.",
       },
       {
-        question: `Qui peut utiliser le code G326U6B${NBSP}?`,
-        answer: `La campagne G326U6B annonce un bon de réduction de 50${NBSP}% réservé aux nouveaux utilisateurs. SHEIN confirme l'éligibilité et la réduction finale dans le compte et au moment du paiement.`,
+        question: `Qui peut utiliser le code K49L457${NBSP}?`,
+        answer: `La campagne K49L457 annonce un bon de réduction de 50${NBSP}% réservé aux nouveaux utilisateurs. SHEIN confirme l'éligibilité et la réduction finale dans le compte et au moment du paiement.`,
       },
       {
         question: `Les liens et codes SHEIN sont-ils permanents${NBSP}?`,
@@ -297,9 +297,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
           '37S3442 ist der Suchcode der aktuellen Aktion für ausgewählte Produkte. Die Rabatte sind zeitlich begrenzt und können je nach Artikel variieren.',
       },
       {
-        question: 'Wer kann den Code G326U6B nutzen?',
+        question: 'Wer kann den Code K49L457 nutzen?',
         answer:
-          'Die Aktion G326U6B bewirbt einen 50-%-Gutschein nur für Neukunden. Ob du berechtigt bist und wie hoch der Rabatt am Ende ist, bestätigt SHEIN im Konto und an der Kasse.',
+          'Die Aktion K49L457 bewirbt einen 50-%-Gutschein nur für Neukunden. Ob du berechtigt bist und wie hoch der Rabatt am Ende ist, bestätigt SHEIN im Konto und an der Kasse.',
       },
       {
         question: 'Sind die SHEIN-Links und -Codes dauerhaft gültig?',
@@ -370,9 +370,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
           "37S3442 è il codice di ricerca della campagna in corso sui prodotti selezionati. Gli sconti sono a tempo limitato e possono variare in base all'articolo.",
       },
       {
-        question: 'Chi può usare il codice G326U6B?',
+        question: 'Chi può usare il codice K49L457?',
         answer:
-          "La campagna G326U6B annuncia un coupon del 50% solo per i nuovi utenti. SHEIN conferma l'idoneità e lo sconto finale nell'account e al checkout.",
+          "La campagna K49L457 annuncia un coupon del 50% solo per i nuovi utenti. SHEIN conferma l'idoneità e lo sconto finale nell'account e al checkout.",
       },
       {
         question: 'I link e i codici SHEIN sono permanenti?',
@@ -442,9 +442,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
         answer: '37S3442는 일부 상품 대상으로 진행 중인 캠페인의 검색 코드입니다. 할인은 기간 한정이며 상품에 따라 달라질 수 있습니다.',
       },
       {
-        question: 'G326U6B 코드는 누가 사용할 수 있나요?',
+        question: 'K49L457 코드는 누가 사용할 수 있나요?',
         answer:
-          'G326U6B 캠페인은 신규 회원 전용 50% 쿠폰을 안내합니다. 대상 여부와 최종 할인은 SHEIN이 계정과 결제 단계에서 확인합니다.',
+          'K49L457 캠페인은 신규 회원 전용 50% 쿠폰을 안내합니다. 대상 여부와 최종 할인은 SHEIN이 계정과 결제 단계에서 확인합니다.',
       },
       {
         question: 'SHEIN 링크와 코드는 계속 유효한가요?',
@@ -514,9 +514,9 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
         answer: '37S3442 は、対象商品で開催中のキャンペーンの検索コードです。割引は期間限定で、商品によって異なる場合があります。',
       },
       {
-        question: 'G326U6B は誰が使えますか？',
+        question: 'K49L457 は誰が使えますか？',
         answer:
-          'G326U6B のキャンペーンは、新規ユーザー限定の50%クーポンを案内しています。対象かどうかと最終的な割引は、アカウントと決済画面で SHEIN が確認します。',
+          'K49L457 のキャンペーンは、新規ユーザー限定の50%クーポンを案内しています。対象かどうかと最終的な割引は、アカウントと決済画面で SHEIN が確認します。',
       },
       {
         question: 'SHEIN のリンクやコードはずっと使えますか？',
@@ -585,8 +585,8 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
         answer: '37S3442 是指定商品進行中活動的搜尋代碼。折扣限時提供，並可能因商品而異。',
       },
       {
-        question: '誰可以使用 G326U6B？',
-        answer: 'G326U6B 活動提供只限新用戶的 50% 優惠券。是否符合資格及最終折扣，由 SHEIN 在帳戶及結帳時確認。',
+        question: '誰可以使用 K49L457？',
+        answer: 'K49L457 活動提供只限新用戶的 50% 優惠券。是否符合資格及最終折扣，由 SHEIN 在帳戶及結帳時確認。',
       },
       {
         question: 'SHEIN 的連結和代碼會一直有效嗎？',
@@ -653,8 +653,8 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
         answer: '37S3442 是指定商品进行中活动的搜索代码。折扣限时提供，可能因商品而异。',
       },
       {
-        question: '谁可以使用 G326U6B？',
-        answer: 'G326U6B 活动提供仅限新用户的 50% 优惠券。是否符合条件以及最终折扣，由 SHEIN 在账户和结账时确认。',
+        question: '谁可以使用 K49L457？',
+        answer: 'K49L457 活动提供仅限新用户的 50% 优惠券。是否符合条件以及最终折扣，由 SHEIN 在账户和结账时确认。',
       },
       {
         question: 'SHEIN 的链接和代码会一直有效吗？',
