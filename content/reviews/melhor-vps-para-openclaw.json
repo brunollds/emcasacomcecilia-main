@@ -226,6 +226,18 @@
       ]
     },
     {
+      "heading": "Qual escolher, em resumo",
+      "paragraphs": [
+        "A escolha do plano segue o lugar onde o modelo de IA roda e quanto trabalho de servidor você quer ter."
+      ],
+      "bullets": [
+        "Modelo na nuvem, pela chave de API ou pelos créditos da Hostinger: KVM 1, com 4 GB, como ponto de partida.",
+        "Modelo local: KVM 4, com 16 GB, o primeiro plano com folga acima do piso oficial de 8 GiB. O KVM 8, com 32 GB, só faz sentido com um modelo local maior.",
+        "Sem querer cuidar de servidor: o gerenciado, em que a Hostinger instala e atualiza o assistente.",
+        "Para testar sem pagar: a Oracle Always Free, sabendo que a Oracle pode recuperar uma instância ociosa."
+      ]
+    },
+    {
       "heading": "Indicação e preço",
       "paragraphs": [
         "Preços de 21/10/2026, em plano de 24 meses, já com os 20% da indicação: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês."

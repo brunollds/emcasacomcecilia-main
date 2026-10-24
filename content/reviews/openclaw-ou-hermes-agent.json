@@ -137,26 +137,6 @@
       ]
     },
     {
-      "heading": "Para quem é cada um",
-      "paragraphs": [
-        "Os dois são de código aberto e não cobram licença. A escolha depende do que você quer que o agente faça, não do software."
-      ],
-      "image": {
-        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
-        "alt": "Quadro com quatro perfis e a resposta de cada um: muitos canais e app no celular leva ao OpenClaw; agente que aprende e cria as próprias habilidades leva ao Hermes Agent; não quer cuidar de servidor leva ao gerenciado; quer root e outros programas leva ao VPS",
-        "caption": "Pela documentação de cada projeto, lida em 21/10/2026."
-      },
-      "bullets": [
-        "**Quer muitos canais e um aplicativo no celular:** OpenClaw. O README fala em mais de 20 canais e traz apps nativos para celular e computador, além da Control UI na web.",
-        "**Quer um agente que aprende com o uso:** Hermes Agent. Ele organiza a própria memória, cria e melhora as próprias habilidades e busca nas conversas antigas.",
-        "**Quer acesso root e outros programas no mesmo servidor, como um site ou o n8n:** VPS, com qualquer um dos dois. Root é o acesso de administrador, com controle total do servidor.",
-        "**Não quer instalar nem cuidar de servidor:** gerenciado, nos dois. A Hostinger instala e atualiza."
-      ],
-      "postParagraphs": [
-        "Ninguém da equipe usa nenhum dos dois. Os perfis vêm das documentações dos projetos, não de experiência nossa."
-      ]
-    },
-    {
       "heading": "Antes de instalar",
       "paragraphs": [
         "Antes de começar, confirme três coisas. Valem para os dois agentes."
@@ -181,6 +161,26 @@
       ],
       "postParagraphs": [
         "Para a escolha entre gerenciado e VPS, a pergunta é quem cuida dos dados e das credenciais. O guia de [gerenciado ou VPS para o OpenClaw](/reviews/openclaw-hostinger-gerenciado-ou-vps) trata disso em detalhe."
+      ]
+    },
+    {
+      "heading": "Para quem é cada um",
+      "paragraphs": [
+        "Os dois são de código aberto e não cobram licença. A escolha depende do que você quer que o agente faça, não do software."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/openclaw-ou-hermes-agent-perfil-pt.webp",
+        "alt": "Quadro com quatro perfis e a resposta de cada um: muitos canais e app no celular leva ao OpenClaw; agente que aprende e cria as próprias habilidades leva ao Hermes Agent; não quer cuidar de servidor leva ao gerenciado; quer root e outros programas leva ao VPS",
+        "caption": "Pela documentação de cada projeto, lida em 21/10/2026."
+      },
+      "bullets": [
+        "**Quer muitos canais e um aplicativo no celular:** OpenClaw. O README fala em mais de 20 canais e traz apps nativos para celular e computador, além da Control UI na web.",
+        "**Quer um agente que aprende com o uso:** Hermes Agent. Ele organiza a própria memória, cria e melhora as próprias habilidades e busca nas conversas antigas.",
+        "**Quer acesso root e outros programas no mesmo servidor, como um site ou o n8n:** VPS, com qualquer um dos dois. Root é o acesso de administrador, com controle total do servidor.",
+        "**Não quer instalar nem cuidar de servidor:** gerenciado, nos dois. A Hostinger instala e atualiza."
+      ],
+      "postParagraphs": [
+        "Ninguém da equipe usa nenhum dos dois. Os perfis vêm das documentações dos projetos, não de experiência nossa."
       ]
     },
     {
