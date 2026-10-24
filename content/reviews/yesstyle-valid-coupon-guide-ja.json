@@ -1,11 +1,11 @@
 {
   "id": 240,
   "slug": "yesstyle-valid-coupon-guide-ja",
-  "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法",
+  "title": "YesStyleクーポンの見つけ方とCECILIA010の併用方法",
   "type": "ガイド＆クーポン",
   "reviewKind": "guia",
-  "description": "有効なYesStyleプロモーションコードの見つけ方、Coupon CodeとReward Codeの違い、CECILIA010で最大5%追加オフにする併用テクニックを解説します。",
-  "metaDescription": "YesStyleの有効なクーポンコードの探し方、期限切れコードの回避法、CECILIA010で最大5%追加割引を適用する併用方法を解説します。",
+  "description": "YesStyleのプロモーションクーポンの見つけ方、Coupon CodeとReward Codeの違い、CECILIA010で最大5%追加オフにする併用テクニックを解説します。",
+  "metaDescription": "開催中のYesStyleクーポンの探し方、期限切れコードの回避法、CECILIA010で最大5%追加割引を適用する併用方法を解説します。",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -32,7 +32,7 @@
     "月間プロモクーポンとCECILIA010を重ねて使う併用（stacking）手順を説明",
     "公式インフルエンサーコードで最大5%追加オフにするお得な使い方を紹介",
     "無効なコードを避けるためのYesStyle公式クーポン情報源を掲載",
-    "定期的に検証されたクーポンが更新されるEm Casa com Cecília専用ページへ案内"
+    "定期的に確認されたクーポン一覧を掲載するEm Casa com Cecília専用ページへ案内"
   ],
   "cons": [
     "月間プロモーションクーポンは有効期限が短めです（通常72時間〜30日間）",
@@ -60,8 +60,8 @@
     }
   ],
   "cta": {
-    "text": "本日検証済みのYesStyleアクティブクーポン専用ページをご確認ください。",
-    "label": "YesStyleアクティブクーポンを見る",
+    "text": "当サイトのYesStyleクーポン一覧は{yesstyle:verifiedAt}に確認しました。",
+    "label": "利用できるYesStyleクーポンを見る",
     "url": "/ja/coupons/yesstyle",
     "sponsored": false
   },
@@ -78,7 +78,7 @@
     {
       "heading": "まずは結論",
       "paragraphs": [
-        "CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。YesStyleのプロモクーポンはCoupon Code欄に入力し、期限が短めです。2つの欄の手順は「ステップ1：公式リンクからショップにアクセス」から始まります。"
+        "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は{yesstyle:verifiedAt}に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
       ]
     },
     {
@@ -174,7 +174,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "有効なYesStyleクーポンを見つける公式情報源",
+      "heading": "開催中のYesStyleクーポンを見つける公式情報源",
       "paragraphs": [
         "期限切れコードに惑わされず最新のプロモクーポンを確認するおすすめの方法：",
         "1. 当サイトの専用クーポンページ：検証済みのYesStyleコードを更新する専用ページを運営しています。",

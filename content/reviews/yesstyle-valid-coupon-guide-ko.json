@@ -1,11 +1,11 @@
 {
   "id": 239,
   "slug": "yesstyle-valid-coupon-guide-ko",
-  "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드",
+  "title": "YesStyle 쿠폰 찾는 법과 CECILIA010 함께 쓰는 법",
   "type": "가이드 & 쿠폰",
   "reviewKind": "guia",
-  "description": "YesStyle 유효 프로모션 쿠폰을 찾고, Coupon Code와 Reward Code의 차이를 이해하며, CECILIA010 코드로 최대 5% 추가 할인을 받는 실전 가이드입니다.",
-  "metaDescription": "YesStyle 유효 쿠폰 코드를 찾고 만료된 코드를 피하며, CECILIA010 리워드 코드로 최대 5% 추가 할인을 적용하는 방법을 알아보세요.",
+  "description": "YesStyle 프로모션 쿠폰을 찾고, Coupon Code와 Reward Code의 차이를 이해하며, CECILIA010 코드로 최대 5% 추가 할인을 받는 실전 가이드입니다.",
+  "metaDescription": "진행 중인 YesStyle 쿠폰을 찾는 곳, 만료된 코드를 피하는 법, CECILIA010 리워드 코드로 최대 5% 추가 할인을 받는 방법을 알아보세요.",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -32,7 +32,7 @@
     "월간 프로모션 쿠폰과 CECILIA010 코드를 함께 사용하는 중복 할인(stacking) 방법을 안내합니다",
     "인플루언서 공식 코드로 최대 5% 추가 할인받는 법을 보여줍니다",
     "만료되거나 잘못된 코드를 피할 수 있는 YesStyle 공식 쿠폰 출처를 정리했습니다",
-    "정기적으로 검증된 쿠폰이 업데이트되는 Em Casa com Cecília 전용 페이지로 연결됩니다"
+    "정기적으로 확인하는 쿠폰 목록이 있는 Em Casa com Cecília 전용 페이지로 연결됩니다"
   ],
   "cons": [
     "월간 프로모션 쿠폰은 유효 기간이 짧습니다 (보통 72시간~30일)",
@@ -60,8 +60,8 @@
     }
   ],
   "cta": {
-    "text": "오늘 검증된 YesStyle 활성 프로모션 쿠폰 전용 페이지를 확인하세요.",
-    "label": "YesStyle 활성 쿠폰 보기",
+    "text": "저희 페이지의 YesStyle 쿠폰 목록은 {yesstyle:verifiedAt}에 확인했습니다.",
+    "label": "사용 가능한 YesStyle 쿠폰 보기",
     "url": "/ko/coupons/yesstyle",
     "sponsored": false
   },
@@ -78,7 +78,7 @@
     {
       "heading": "답변 요약",
       "paragraphs": [
-        "CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다. YesStyle 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 두 입력란 사용법은 \"1단계: 공식 링크를 통해 쇼핑몰 접속\"부터 시작합니다."
+        "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 {yesstyle:verifiedAt}에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
       ]
     },
     {
@@ -174,7 +174,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "유효한 YesStyle 쿠폰을 찾는 공식 출처",
+      "heading": "진행 중인 YesStyle 쿠폰을 찾는 공식 출처",
       "paragraphs": [
         "만료된 코드 없이 활성화된 프로모션 쿠폰을 확인하는 추천 방법:",
         "1. 통합 쿠폰 페이지: 검증된 YesStyle 코드를 업데이트하는 전용 페이지를 운영합니다.",

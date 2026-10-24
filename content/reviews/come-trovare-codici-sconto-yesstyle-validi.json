@@ -1,12 +1,12 @@
 {
   "id": 310,
   "slug": "come-trovare-codici-sconto-yesstyle-validi",
-  "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010",
-  "seoTitle": "Codici sconto YesStyle validi: come trovarli + CECILIA010",
+  "title": "Come trovare e combinare i coupon YesStyle con CECILIA010",
+  "seoTitle": "Come trovare e combinare i coupon YesStyle con CECILIA010",
   "type": "Guida e coupon",
   "reviewKind": "guia",
-  "description": "Guida pratica per trovare codici sconto YesStyle validi, capire la differenza tra Coupon Code e Reward Code e sommarli per risparmiare fino al 5% in più con CECILIA010.",
-  "metaDescription": "Scopri come trovare codici sconto YesStyle validi, evita quelli scaduti e sommali al codice ricompensa CECILIA010 per fino al 5% di sconto in più.",
+  "description": "Guida pratica per trovare i coupon promozionali YesStyle, capire la differenza tra Coupon Code e Reward Code e sommarli per avere fino al 5% in più con CECILIA010.",
+  "metaDescription": "Dove trovare i coupon YesStyle in corso, come evitare i codici scaduti e come sommare il codice ricompensa CECILIA010 per avere fino al 5% di sconto in più.",
   "publishedAt": "28 settembre 2026",
   "publishedAtISO": "2026-09-28",
   "hideFromPortugueseListings": true,
@@ -33,7 +33,7 @@
     "Spiega come sommare gli sconti (stacking) per combinare i coupon del mese con CECILIA010",
     "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
     "Elenca le fonti ufficiali dei coupon YesStyle per evitare codici scaduti",
-    "Rimanda alla pagina aggiornata di Em Casa com Cecília con coupon verificati regolarmente"
+    "Rimanda alla pagina aggiornata di Em Casa com Cecília con la lista dei coupon controllata regolarmente"
   ],
   "cons": [
     "I coupon promozionali mensili hanno durate brevi (in genere da 72 ore a 30 giorni)",
@@ -61,7 +61,7 @@
     }
   ],
   "cta": {
-    "text": "Consulta la nostra pagina dedicata con i codici sconto YesStyle verificati e attivi oggi.",
+    "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il {yesstyle:verifiedAt}.",
     "label": "Vedi i coupon YesStyle attivi",
     "url": "/it/coupons/yesstyle",
     "sponsored": false
@@ -79,7 +79,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "CECILIA010 è un codice reward: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi. I coupon promozionali di YesStyle vanno nel campo Coupon Code e scadono presto. La guida ai due campi parte da \"Passo 1: accedi al negozio tramite il link ufficiale\"."
+        "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il {yesstyle:verifiedAt}. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
       ]
     },
     {
@@ -175,7 +175,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "Fonti ufficiali per trovare coupon YesStyle validi",
+      "heading": "Fonti ufficiali per trovare i coupon YesStyle in corso",
       "paragraphs": [
         "Per seguire i coupon promozionali in corso senza imbatterti in codici scaduti, ti consigliamo queste fonti ufficiali:",
         "1. La nostra pagina coupon centralizzata: manteniamo una pagina dedicata in cui verifichiamo i codici YesStyle.",

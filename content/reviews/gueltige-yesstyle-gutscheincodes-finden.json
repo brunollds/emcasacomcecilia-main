@@ -1,11 +1,11 @@
 {
   "id": 238,
   "slug": "gueltige-yesstyle-gutscheincodes-finden",
-  "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren",
+  "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
   "type": "Ratgeber & Gutscheine",
   "reviewKind": "guia",
-  "description": "Praktischer Leitfaden zum Finden gültiger YesStyle-Gutscheincodes, zum Unterschied zwischen Coupon Code und Reward Code sowie zum Kombinieren für bis zu 5% Extra-Rabatt mit CECILIA010.",
-  "metaDescription": "Lerne, wie du gültige YesStyle Gutscheincodes findest, abgelaufene Codes vermeidest und sie mit dem Rabattcode CECILIA010 für bis zu 5% Extra-Rabatt kombinierst.",
+  "description": "Praktischer Leitfaden zum Finden von YesStyle-Gutscheinen, zum Unterschied zwischen Coupon Code und Reward Code und zum Kombinieren für bis zu 5% extra mit CECILIA010.",
+  "metaDescription": "Wo du aktuelle YesStyle-Gutscheine findest, wie du abgelaufene Codes vermeidest und wie der Belohnungscode CECILIA010 bis zu 5% extra bringt.",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
   "hideFromPortugueseListings": true,
@@ -60,8 +60,8 @@
     }
   ],
   "cta": {
-    "text": "Besuche unsere Sonderseite mit geprüften und aktiven YesStyle-Gutscheincodes von heute.",
-    "label": "Aktive YesStyle Gutscheine Ansehen",
+    "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am {yesstyle:verifiedAt} geprüft.",
+    "label": "Aktive YesStyle-Gutscheine ansehen",
     "url": "/de/coupons/yesstyle",
     "sponsored": false
   },
@@ -78,7 +78,7 @@
     {
       "heading": "Die Antwort in Kürze",
       "paragraphs": [
-        "CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren. YesStyle-Aktionsgutscheine gehören ins Feld Coupon Code und laufen schnell ab. Die Anleitung für beide Felder beginnt bei \"Schritt 1: Rufe den Shop über den offiziellen Link auf\"."
+        "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am {yesstyle:verifiedAt} geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
       ]
     },
     {
@@ -174,7 +174,7 @@
       "imageFit": "cover"
     },
     {
-      "heading": "Offizielle Quellen für gültige YesStyle-Gutscheine",
+      "heading": "Offizielle Quellen für aktuelle YesStyle-Gutscheine",
       "paragraphs": [
         "Um stets aktuelle Aktionsgutscheine zu finden, empfehlen wir folgende Quellen:",
         "1. Unsere Gutschein-Sonderseite: Wir betreiben eine eigene Seite, auf der wir YesStyle-Codes regelmäßig prüfen.",
