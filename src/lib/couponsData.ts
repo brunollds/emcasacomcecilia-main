@@ -148,10 +148,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todos os produtos, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado em 01/10/2026.',
-    metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix (out/2026)',
+      'O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE e soma com os 10% do Pix e com as promoções do site; não soma com outro cupom. Testado em 24/10/2026.',
+    metaTitle: 'Cupom DAMIE: 12% OFF com CECILIA12, soma com Pix (nov/2026)',
     metaDescription:
-      'Cupom DAMIE testado em 01/10/2026: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
+      'Cupom DAMIE testado em 24/10/2026: CECILIA12 dá 12% OFF em todos os produtos, soma com os 10% do Pix e com as promoções; não soma com outro cupom.',
     eligibleCategories:
       'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -159,9 +159,9 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15%',
-    lastVerified: '2026-10-01',
+    lastVerified: '2026-10-24',
     testNote:
-      'Aplicamos o CECILIA12 no checkout do site da DAMIE, e os 12% de desconto apareceram no resumo do pedido.',
+      'Aplicamos o CECILIA12 num carrinho com um braço intermediário da Linha Cinema, de R$ 200,00, e um brinde, e o total caiu para R$ 176,00: os 12% de desconto apareceram no carrinho, e o brinde continuou no pedido.',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -620,19 +620,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
-      'Código da Cecília para economizar em compras no site da I Wanna Sleep.',
-    metaTitle: 'Cupom I Wanna Sleep Outubro 2026: CECIEMCASA — 10% OFF',
+      'O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep (colchões, travesseiros e acessórios) e soma com as promoções da loja. Testado em 24/10/2026 num carrinho com um box e um kit Pillow Top.',
+    metaTitle: 'Cupom I Wanna Sleep: 10% OFF com CECIEMCASA (nov/2026)',
     metaDescription:
-      'Cupom I Wanna Sleep confirmado para outubro de 2026: use CECIEMCASA no checkout e ganhe 10% OFF em todo o site oficial.',
+      'Cupom I Wanna Sleep testado em 24/10/2026: CECIEMCASA dá 10% OFF em todo o site oficial e soma com as promoções da loja.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-01',
+    lastVerified: '2026-10-24',
     testNote:
-      'Aplicamos o CECIEMCASA no checkout do site da I Wanna Sleep, e os 10% de desconto apareceram no resumo do pedido.',
+      'Aplicamos o CECIEMCASA num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, e o total caiu para R$ 5.546,70, com R$ 616,30 de desconto: os 10% valeram nos dois itens.',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
     faqs: [
@@ -844,19 +844,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'casa',
     shortDescription: "todo o site Let's Eat It",
     longDescription:
-      "O código da Cecília dá 5% OFF no site da Let's Eat It, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 02/10/2026.",
-    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix (out/2026)",
+      "O código da Cecília dá 5% OFF no site da Let's Eat It, soma com as promoções, a pré-venda e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 24/10/2026.",
+    metaTitle: "Cupom Let's Eat It: 5% OFF no site, soma com Pix (nov/2026)",
     metaDescription:
-      "Cupom Let's Eat It testado em 02/10/2026: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
+      "Cupom Let's Eat It testado em 24/10/2026: 5% OFF no site oficial, somando com promoções, pré-venda e os 5% do Pix. Use o código da Cecília no checkout.",
     eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com as promoções vigentes do site, inclusive em pré-venda (teste de 02/10/2026), e com o desconto de 5% do Pix; vale com todas as formas de pagamento; a soma com outros cupons segue as regras da loja',
-    lastVerified: '2026-10-02',
+    lastVerified: '2026-10-24',
     testNote:
-      'O MAUAD foi aceito num carrinho com um item em pré-venda e outro com preço promocional, com R$ 179,10 de desconto sobre R$ 3.582,10, e também num pedido de um único item de R$ 62,90.',
+      'O MAUAD foi aceito num faqueiro de 36 peças de R$ 577,89, que saiu por R$ 549,00, com R$ 28,89 de desconto; no teste de 02/10/2026, ele já tinha valido num carrinho com um item em pré-venda e outro com preço promocional.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
     faqs: [
@@ -1502,18 +1502,18 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
     longDescription:
-      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado em 13/10/2026 com whey, creatina, pré-treino e regata: soma com as promoções e vale em todas as formas de pagamento.',
-    metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10 (out/2026)',
+      'O CECILIA10 dá 10% OFF em todo o site da Black Skull, testado em 24/10/2026 com um kit de whey em promoção e um whey a preço cheio: soma com as promoções e vale em todas as formas de pagamento.',
+    metaTitle: 'Cupom Black Skull: 10% OFF em tudo com CECILIA10 (nov/2026)',
     metaDescription:
-      'Cupom Black Skull testado em 13/10/2026: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Black Skull testado em 24/10/2026: CECILIA10 dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-13',
+    lastVerified: '2026-10-24',
     testNote:
-      'Aplicamos o CECILIA10 num carrinho de R$ 364,33 com regata, kit de whey, creatina e pré-treino e glutamina, e o pedido saiu por R$ 327,89, com R$ 36,44 de desconto: os 10% valeram em todos os itens, inclusive nos que já estavam com preço promocional.',
+      'Aplicamos o CECILIA10 num carrinho de R$ 292,71 com um kit de 2 wheys em promoção, de R$ 139,80 por R$ 132,81, e um Whey 100% HD de R$ 159,90, e o pedido saiu por R$ 263,44, com R$ 29,27 de desconto: os 10% valeram nos dois itens, inclusive no que já estava em promoção.',
     aboutBrand:
       'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1544,12 +1544,12 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 13/10/2026, os 10% entraram também na regata e no kit que já estavam com preço promocional.',
+          'Sim. No teste de 24/10/2026, os 10% entraram também no kit de whey que já estava com preço promocional.',
       },
       {
         question: 'O cupom CECILIA10 está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 13/10/2026, o CECILIA10 aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 24/10/2026, o CECILIA10 aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -1656,19 +1656,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Cléa Store, com todas as formas de pagamento',
     longDescription:
-      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado em 14/10/2026 num kit em promoção: o desconto soma com a promoção e o pedido continuou gerando cashback.',
-    metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA (out/2026)',
+      'O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store (alfaiataria, blusas, vestidos e t-shirts), testado em 24/10/2026 num kit em promoção: o desconto soma com a promoção.',
+    metaTitle: 'Cupom Cléa Store: 10% OFF com CSEMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Cléa Store testado em 14/10/2026: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
+      'Cupom Cléa Store testado em 24/10/2026: CSEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e o cashback e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Cléa Store',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Frete grátis acima de R$ 599, segundo a faixa do site em 14/10/2026; abaixo disso, conforme a política da loja',
     combinable:
       'Soma com as promoções vigentes do site e com o cashback da loja, e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-14',
+    lastVerified: '2026-10-24',
     testNote:
-      'Aplicamos o CSEMCASACOMCECILIA num kit de 3 t-shirts em promoção, de R$ 387,00 por R$ 258,00, e o pedido saiu por R$ 232,20, com R$ 25,80 de desconto: os 10% valeram sobre o preço promocional, e o pedido continuou gerando cashback.',
+      'Aplicamos o CSEMCASACOMCECILIA num kit de 3 t-shirts em promoção, de R$ 387,00 por R$ 258,00, e o total caiu para R$ 232,20, com R$ 25,80 de desconto: os 10% valeram sobre o preço promocional.',
     aboutBrand:
       'A Cléa Store é uma marca brasileira de moda feminina, com alfaiataria, blusas, camisas, vestidos, conjuntos, t-shirts e acessórios vendidos no site oficial. O cupom CSEMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções e com o cashback da loja. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1699,7 +1699,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 14/10/2026, os 10% entraram num kit de t-shirts que já estava com preço promocional.',
+          'Sim. No teste de 24/10/2026, os 10% entraram num kit de t-shirts que já estava com preço promocional.',
       },
       {
         question: 'O cupom soma com o cashback da Cléa Store?',
@@ -1709,7 +1709,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CSEMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 14/10/2026, o CSEMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 24/10/2026, o CSEMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'A Cléa Store tem frete grátis?',
@@ -1747,10 +1747,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'todo o site Belive, com todas as formas de pagamento',
     longDescription:
-      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado em 16/10/2026 num carrinho com combos em oferta.',
-    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix (out/2026)',
+      'O código da Cecília dá 10% OFF em todo o site da Belive e soma com as ofertas e com os 5% do Pix. Testado em 24/10/2026 num carrinho com um combo em oferta e um pão a preço cheio.',
+    metaTitle: 'Cupom Belive: 10% OFF em tudo e soma com o Pix (nov/2026)',
     metaDescription:
-      'Cupom Belive testado em 16/10/2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
+      'Cupom Belive testado em 24/10/2026: use MAUAD e ganhe 10% OFF em todo o site, somando com as ofertas e com os 5% de desconto do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Belive',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1758,9 +1758,9 @@ export const COUPONS: Coupon[] = [
       'Frete grátis por região, segundo as regras de frete da loja em 16/10/2026: acima de R$ 170 em SP, MG, RJ, DF e GO, de R$ 250 no Sul e de R$ 300 nos demais estados; abaixo disso, o frete é calculado no checkout',
     combinable:
       'Soma com as promoções vigentes do site e com os 5% de desconto do Pix, e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-16',
+    lastVerified: '2026-10-24',
     testNote:
-      'Aplicamos o MAUAD num carrinho de R$ 576,82 com quatro combos e kits em oferta, e o desconto foi de R$ 57,68: o total caiu para R$ 519,14, ou R$ 493,18 no Pix, com os 5% do Pix somados ao cupom.',
+      'Aplicamos o MAUAD num carrinho de R$ 201,89 com um combo de alimentos proteicos em oferta, de R$ 200,29 por R$ 178,99, e um pão de forma de R$ 22,90, e o desconto foi de R$ 20,19: o total caiu para R$ 181,70, com os 10% valendo também no combo em oferta.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Belive pelo botão indicado e coloque os produtos no carrinho.',
@@ -1782,7 +1782,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 16/10/2026, os 10% entraram em quatro combos e kits que já estavam em oferta.',
+          'Sim. No teste de 24/10/2026, os 10% entraram num combo que já estava em oferta.',
       },
       {
         question: 'O cupom MAUAD vale na primeira compra na Belive?',
@@ -1802,7 +1802,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 16/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 24/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'Onde coloco o cupom na Belive?',
@@ -1844,10 +1844,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Mais Mu, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em whey protein, creatina, pré-treino, barras e snacks proteicos no site oficial da Mais Mu, com qualquer forma de pagamento e inclusive nos produtos que já estão em oferta.',
-    metaTitle: 'Cupom Mais Mu Outubro 2026: MMEMCASACOMCECILIA — 10% OFF',
+      'O MMEMCASACOMCECILIA dá 10% OFF em todo o site da Mais Mu, soma com as ofertas e com os 3% do Pix, e vale em todas as formas de pagamento. Testado em 20/10/2026 num carrinho com um whey a preço cheio e uma creatina em oferta.',
+    metaTitle: 'Cupom Mais Mu: 10% OFF com MMEMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Mais Mu de outubro de 2026: use MMEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as ofertas e com os 3% do Pix.',
+      'Cupom Mais Mu testado em 20/10/2026: MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com os 3% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Mais Mu',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -1952,10 +1952,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'beleza',
     shortDescription: 'todo o site Skelt, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em autobronzeador, body splash, body cream, maquiagem corporal e kits no site oficial da Skelt, com qualquer forma de pagamento e inclusive nos produtos que já estão em promoção.',
-    metaTitle: 'Cupom Skelt Outubro 2026: SKEMCASACOMCECILIA — 10% OFF',
+      'O SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt, soma com as promoções e com os 5% do Pix, e vale em todas as formas de pagamento. Testado em 21/10/2026 com body splash e mousse autobronzeador em promoção.',
+    metaTitle: 'Cupom Skelt: 10% OFF com SKEMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Skelt de outubro de 2026: use SKEMCASACOMCECILIA e ganhe 10% OFF em todo o site, somando com as promoções e com os 5% do Pix.',
+      'Cupom Skelt testado em 21/10/2026: SKEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as promoções e com os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Skelt, inclusive kits e combos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2055,10 +2055,10 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'todo o site Bagaggio, com todas as formas de pagamento',
     longDescription:
-      'Código da Cecília para economizar em malas de bordo e de viagem, mochilas, bolsas, carteiras e acessórios no site oficial da Bagaggio, com qualquer forma de pagamento e inclusive nos produtos que já estão em promoção e no Outlet.',
-    metaTitle: 'Cupom Bagaggio Outubro 2026: CECILIA10 — 10% OFF',
+      'O CECILIA10 dá 10% OFF em malas, mochilas e acessórios no site oficial da Bagaggio, soma com as promoções, o Outlet e os 5% do Pix, e vale em todas as formas de pagamento. Testado em 22/10/2026 numa mala de bordo do Outlet.',
+    metaTitle: 'Cupom Bagaggio: 10% OFF em tudo com CECILIA10 (nov/2026)',
     metaDescription:
-      'Cupom Bagaggio de outubro de 2026: use CECILIA10 e ganhe 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
+      'Cupom Bagaggio testado em 22/10/2026: CECILIA10 dá 10% OFF em malas, mochilas e acessórios, somando com as promoções, o Outlet e os 5% do Pix.',
     eligibleCategories: 'Todos os produtos do site oficial da Bagaggio, inclusive os do Outlet',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',

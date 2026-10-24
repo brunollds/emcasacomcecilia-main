@@ -15,10 +15,10 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 - `lastVerified` (ISO 8601: `YYYY-MM-DD`): vira "Cupom testado em" nas lojas com código
 - `testNote`: o texto do teste de checkout, que precisa continuar verdadeiro com a data nova
-- `metaTitle`: nas lojas convertidas em 24/10/2026 leva o mês no fim, como `(out/2026)`, quando cabe
-  em 60 caracteres; Dolce Gusto, Magalu, I Wanna Sleep, Mais Mu, Skelt e Bagaggio seguem no formato
-  antigo, com o mês na frente, até a conversão; nas convertidas
-  (com código longo, o título fica sem mês); trocar o mês só nas ofertas reconferidas
+- `metaTitle`: nas lojas convertidas em 24/10/2026 leva o mês no fim, como `(nov/2026)`, quando cabe
+  em 60 caracteres (I Wanna Sleep, Mais Mu, Skelt e Bagaggio convertidas na rodada de novembro; com
+  código longo, Probiótica, Max Titanium e Dr. Peanut ficam sem mês); Dolce Gusto e Magalu seguem no
+  formato antigo, com o mês na frente, até a conversão; trocar o mês só nas ofertas reconferidas
 - `metaDescription` e `longDescription`: abrem com "Cupom <Loja> testado em dd/mm/aaaa" (a descrição)
   ou citam "testado em dd/mm/aaaa" (o texto do topo), com a data do `lastVerified`; a mesma data nos três
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
@@ -32,7 +32,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified`, `metaTitle` (ainda com "Outubro 2026" na frente) |
 | `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual. Os cupons da loja trocam a cada 3 dias, mais ou menos: cadência própria na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
-| `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle` (ainda com "Outubro 2026" na frente) |
+| `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
 | `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
 | `insider` | Insider | `EMCASACOMCECILIA` (15% desde a publicação de 07/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; manter `offerUrl` exatamente como veio |
@@ -43,9 +43,9 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `max-titanium` | Max Titanium | `MAX10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription` |
 | `clea-store` | Cléa Store | `CSEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixa de frete grátis em `shipping` e na FAQ |
 | `belive` | Belive | `MAUAD` (o mesmo da Let's Eat It) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixa de frete grátis em `shipping` e na FAQ |
-| `mais-mu` | Mais Mu | `MMEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regras do cashback na FAQ |
-| `skelt` | Skelt | `SKEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixas de frete grátis em `shipping` e na FAQ, regra do brinde na FAQ; manter `offerUrl` exatamente como veio |
-| `bagaggio` | Bagaggio | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, regra da promoção de 50% na 2ª peça em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
+| `mais-mu` | Mais Mu | `MMEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixas de frete grátis em `shipping` e na FAQ, regras do cashback na FAQ |
+| `skelt` | Skelt | `SKEMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, faixas de frete grátis em `shipping` e na FAQ, regra do brinde na FAQ; manter `offerUrl` exatamente como veio |
+| `bagaggio` | Bagaggio | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, `longDescription`, regra da promoção de 50% na 2ª peça em `combinable` e na FAQ; manter `offerUrl` exatamente como veio |
 | `hostinger` | Hostinger | Indicação por link (o `SONARDEOFERTAS` vai no link), sem código para digitar | `lastVerified`, `metaTitle`, `metaDescription` e o percentual e as regras da indicação na FAQ, em PT e nos 9 idiomas de `couponTranslations.ts`; manter os dois links (o `/br` do PT e o global dos outros idiomas) exatamente como vieram |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
