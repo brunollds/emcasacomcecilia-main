@@ -31138,7 +31138,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar móvel online vale a pena porque entrega e acesso ao prédio concentram os problemas. O que pode mudar a sua decisão é o índice de solução; veja os dados atuais abaixo."
+          "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar móvel online vale a pena porque entrega e acesso ao prédio concentram os problemas. O que pode mudar a sua decisão é o índice de solução, com os dados atuais abaixo; para comprar com desconto, use o [cupom Damie](/cupons/damie)."
         ]
       },
       {
@@ -33935,7 +33935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé; veja em \"Dá para confiar na Dolce Gusto?\" os números e o que conferir."
+          "Sim. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé; veja em \"Dá para confiar na Dolce Gusto?\" os números e o que conferir. Para comprar com desconto, use o [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ]
       },
       {
@@ -34100,7 +34100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo Dá para confiar na I Wanna Sleep?"
+          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo Dá para confiar na I Wanna Sleep? Para comprar com desconto, veja o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -34715,7 +34715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre?"
+          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre? Para comprar com desconto, veja o [cupom Nestlé Nutre](/cupons/nestle-nutre)."
         ]
       },
       {
@@ -35870,7 +35870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta direta: o Magazine Você é confiável?",
         "paragraphs": [
-          "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A, e o Magalu cuida do estoque, do pagamento, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, por queixas de quem tem loja. Para quem compra, o cuidado é ver quem vende cada produto; veja o checklist abaixo."
+          "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A, e o Magalu cuida do estoque, do pagamento, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, por queixas de quem tem loja. Para quem compra, o cuidado é ver quem vende cada produto; veja o checklist abaixo. Para comprar com desconto, use o [cupom Magalu](/cupons/magalu)."
         ]
       },
       {
@@ -40591,7 +40591,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que consultar o Reclame Aqui antes de comprar",
         "paragraphs": [
-          "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem."
+          "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem. Para comprar com desconto, veja o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ],
         "bullets": []
       },
@@ -50545,7 +50545,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Let's Eat It é uma empresa real e estabelecida, com CNPJ ativo, showroom em São Paulo e reconhecimento da Le Creuset Brasil. As políticas de troca são claras e a reputação no Reclame Aqui é Boa. O ponto de atenção é o pós-venda, que resolve, mas pode demorar. O Veredito, no fim, resume o que observar."
+          "Sim, a Let's Eat It é uma empresa real e estabelecida, com CNPJ ativo, showroom em São Paulo e reconhecimento da Le Creuset Brasil. As políticas de troca são claras e a reputação no Reclame Aqui é Boa. O ponto de atenção é o pós-venda, que resolve, mas pode demorar. O Veredito, no fim, resume o que observar; para comprar com desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
@@ -50829,7 +50829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Let's Eat It tem reputação Boa no Reclame Aqui: responde quase todas as reclamações e resolve quase todas as avaliadas. O ponto fraco é a satisfação, porque só pouco mais da metade de quem avaliou voltaria a comprar. Os capítulos abaixo trazem os números e o caminho se o pedido der problema."
+          "A Let's Eat It tem reputação Boa no Reclame Aqui: responde quase todas as reclamações e resolve quase todas as avaliadas. O ponto fraco é a satisfação, porque só pouco mais da metade de quem avaliou voltaria a comprar. Os capítulos abaixo trazem os números e o caminho se o pedido der problema; para comprar com desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
@@ -52192,7 +52192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Veja abaixo as regras de troca, de frete e o que observar antes de comprar."
+          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Veja abaixo as regras de troca, de frete e o que observar antes de fechar o pedido; para comprar com desconto, use o [cupom Insider](/cupons/insider)."
         ]
       },
       {
@@ -52430,7 +52430,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete. Há também dois alertas recentes, sobre cupom vazado e mensagens de golpe, e os capítulos abaixo explicam cada um e o caminho certo se o pedido der problema."
+          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete. Há também dois alertas recentes, sobre cupom vazado e mensagens de golpe, e os capítulos abaixo explicam cada um e o caminho certo se o pedido der problema; para comprar com desconto, veja o [cupom Insider](/cupons/insider)."
         ]
       },
       {
@@ -74860,7 +74860,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Probiótica é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Ela não é a Max Titanium, e sim uma marca irmã do mesmo grupo. O que pesa é o frete grátis, que varia por região, e o atraso na entrega; veja os capítulos abaixo."
+          "Sim, a Probiótica é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Ela não é a Max Titanium, e sim uma marca irmã do mesmo grupo. O que pesa é o frete grátis, que varia por região, e o atraso na entrega; veja os capítulos abaixo. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
@@ -75109,7 +75109,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses. A loja responde quase tudo, mas quase metade de quem avaliou não voltaria a comprar. A loja do site é operada pela Supley, que tem perfil próprio; veja abaixo qual perfil olhar e o que fazer se o pedido der problema."
+          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses. A loja responde quase tudo, mas quase metade de quem avaliou não voltaria a comprar. A loja do site é operada pela Supley, que tem perfil próprio; veja abaixo qual perfil olhar e o que fazer se o pedido der problema. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
@@ -75550,7 +75550,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Dr. Peanut é confiável. É uma marca brasileira de Curitiba, com CNPJ ativo e site oficial, ligada ao grupo Supley, o mesmo da Max Titanium. O ponto que pede atenção é o frete grátis, que depende do mínimo da sua região; veja abaixo as regras de frete e a reputação no Reclame Aqui."
+          "Sim, a Dr. Peanut é confiável. É uma marca brasileira de Curitiba, com CNPJ ativo e site oficial, ligada ao grupo Supley, o mesmo da Max Titanium. O ponto que pede atenção é o frete grátis, que depende do mínimo da sua região; veja abaixo as regras de frete e a reputação no Reclame Aqui. Para comprar com desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -75792,7 +75792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para confiar, com cautela. A Dr. Peanut tem reputação Boa no Reclame Aqui nos últimos 6 meses e Ótima nos últimos 12, responde quase todas as reclamações e resolve a maior parte. O ponto fraco é a recompra, e as queixas se concentram na entrega. Veja os números abaixo e o que fazer se o pedido atrasar."
+          "Dá para confiar, com cautela. A Dr. Peanut tem reputação Boa no Reclame Aqui nos últimos 6 meses e Ótima nos últimos 12, responde quase todas as reclamações e resolve a maior parte. O ponto fraco é a recompra, e as queixas se concentram na entrega. Veja os números abaixo e o que fazer se o pedido atrasar; para comprar com desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -76268,7 +76268,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O capítulo Vale a pena comprar reúne os cuidados antes de fechar o pedido."
+          "Sim, em empresa e regras de compra: a loja pertence à GDS Grow Dietary Supplements do Brasil, com CNPJ ativo desde 2014, e publica regras de troca, frete e atendimento. A marca se apresenta como brasileira, apesar do USA no nome. O capítulo Vale a pena comprar reúne os cuidados antes de fechar o pedido; para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -76547,7 +76547,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull tem reputação Regular no Reclame Aqui nos últimos 6 meses, com nota 6,8, e Boa nos últimos 12, com nota 7,1. Ela responde a todas as reclamações, mas só 61,5% aparecem como resolvidas nos 6 meses. O capítulo sobre o Regular e o Boa explica o que isso significa para a sua compra."
+          "A Black Skull tem reputação Regular no Reclame Aqui nos últimos 6 meses, com nota 6,8, e Boa nos últimos 12, com nota 7,1. Ela responde a todas as reclamações, mas só 61,5% aparecem como resolvidas nos 6 meses. O capítulo sobre o Regular e o Boa explica o que isso significa para a sua compra; para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -77045,7 +77045,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Lejour é uma empresa brasileira regular, com CNPJ ativo, e trabalha em parceria com a Fast Shop. Os presentes são virtuais e viram dinheiro para o casal, sacado por Pix depois de validar a identidade. Os capítulos abaixo mostram a checagem do cadastro, o que protege o saldo e o que pesa na decisão."
+          "Sim, a Lejour é uma empresa brasileira regular, com CNPJ ativo, e trabalha em parceria com a Fast Shop. Os presentes são virtuais e viram dinheiro para o casal, sacado por Pix depois de validar a identidade. Os capítulos abaixo mostram a checagem do cadastro, o que protege o saldo e o que pesa na decisão; para criar a lista com o nosso link, veja a [indicação da Lejour](/cupons/lejour)."
         ]
       },
       {
@@ -77289,7 +77289,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Lejour tem reputação Ótima no Reclame Aqui nos últimos 12 meses, com todas as reclamações do período respondidas e resolvidas. O volume é pequeno, então a nota mostra poucos casos, e não um histórico longo. Os capítulos abaixo explicam por que algumas abas aparecem como Sem Reputação e o que fazer se o saque travar."
+          "Sim, a Lejour tem reputação Ótima no Reclame Aqui nos últimos 12 meses, com todas as reclamações do período respondidas e resolvidas. O volume é pequeno, então a nota mostra poucos casos, e não um histórico longo. Os capítulos abaixo explicam por que algumas abas aparecem como Sem Reputação e o que fazer se o saque travar; para criar a lista com o nosso link, veja a [indicação da Lejour](/cupons/lejour)."
         ]
       },
       {
@@ -78752,7 +78752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega, o problema mais citado. Veja abaixo os prazos de troca, o frete e como conferir o site oficial."
+          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega, o problema mais citado. Veja abaixo os prazos de troca, o frete e como conferir o site oficial; para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -78989,7 +78989,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos seis meses. A loja responde quase todas as reclamações e resolve a maioria, mas demora para responder e uma parte de quem avaliou não voltaria a comprar. Veja abaixo os números de cada janela e o que fazer se o pedido atrasar."
+          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos seis meses. A loja responde quase todas as reclamações e resolve a maioria, mas demora para responder e uma parte de quem avaliou não voltaria a comprar. Veja abaixo os números de cada janela e o que fazer se o pedido atrasar; para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -79466,7 +79466,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Cléa Store é confiável. A empresa tem CNPJ ativo, site oficial com os dados publicados, devolução sem custo e reputação Boa no Reclame Aqui. O que mais pesa na compra é o frete, que só sai de graça acima de um valor mínimo; as regras estão no capítulo de frete e no de vale a pena."
+          "Sim, a Cléa Store é confiável. A empresa tem CNPJ ativo, site oficial com os dados publicados, devolução sem custo e reputação Boa no Reclame Aqui. O que mais pesa na compra é o frete, que só sai de graça acima de um valor mínimo; as regras estão no capítulo de frete e no de vale a pena. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -79735,7 +79735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação da Cléa Store no Reclame Aqui é Boa, e a loja tem o selo de Empresa Verificada. Ela responde todas as reclamações e resolve a maior parte delas. O ponto fraco é que pouco mais da metade de quem avaliou a reclamação voltaria a comprar. Os números estão nos capítulos abaixo."
+          "A reputação da Cléa Store no Reclame Aqui é Boa, e a loja tem o selo de Empresa Verificada. Ela responde todas as reclamações e resolve a maior parte delas. O ponto fraco é que pouco mais da metade de quem avaliou a reclamação voltaria a comprar. Os números estão nos capítulos abaixo; para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -84636,7 +84636,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é vendida por uma empresa registrada e ativa nos dados públicos, e o site oficial publica razão social, CNPJ, trocas e frete. A reputação no Reclame Aqui é Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul, explicado no capítulo final."
+          "Sim, a Belive é vendida por uma empresa registrada e ativa nos dados públicos, e o site oficial publica razão social, CNPJ, trocas e frete. A reputação no Reclame Aqui é Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul, explicado no capítulo final; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84841,7 +84841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Belive tem reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Ela responde a todas as reclamações, mas resolve entre 75% e 80%. O capítulo sobre como a Belive responde mostra a diferença entre responder e resolver."
+          "A Belive tem reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Ela responde a todas as reclamações, mas resolve entre 75% e 80%. O capítulo sobre como a Belive responde mostra a diferença entre responder e resolver; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -91558,7 +91558,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Antes de pagar, veja abaixo o reembolso, a renovação e a empresa cobradora."
+          "A Hostinger é uma empresa grande, com regras públicas de reembolso e de renovação, e na nossa experiência o serviço e o suporte funcionam. O ponto que pega é a renovação, que vem ligada por padrão e pode ter outro preço. Veja abaixo o reembolso, a renovação e a empresa cobradora; os 20% do primeiro período, em planos de 12 meses ou mais, vêm pela [indicação da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -91783,7 +91783,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, as a company: Hostinger is a large host with public refund and renewal rules, a 30-day refund window on hosting, and in our experience the service and support work. The catch is automatic renewal, which is on by default and charges the plan's current price. The rules are in the chapter Automatic renewal and the new price."
+          "Yes, as a company: Hostinger is a large host with public refund and renewal rules, a 30-day refund window on hosting, and in our experience the service and support work. The catch is automatic renewal, which is on by default and charges the plan's current price. The rules are in the chapter Automatic renewal and the new price; the 20% off the first period comes through the [Hostinger referral link](/en/coupons/hostinger)."
         ]
       },
       {
@@ -92004,7 +92004,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, como empresa: Hostinger es grande, tiene reglas públicas de reembolso y renovación y, según nuestra experiencia, el servicio y el soporte funcionan. El punto delicado es la renovación automática, activada por defecto, que cobra el precio vigente del plan. Las reglas están en el capítulo «Renovación automática y precio nuevo»."
+          "Sí, como empresa: Hostinger es grande, tiene reglas públicas de reembolso y renovación y, según nuestra experiencia, el servicio y el soporte funcionan. El punto delicado es la renovación automática, activada por defecto, que cobra el precio vigente del plan. Las reglas están en el capítulo «Renovación automática y precio nuevo»; el 20% del primer período llega por el [enlace de referido de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -92225,7 +92225,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, comme entreprise : Hostinger est un grand hébergeur aux règles publiques de remboursement et de renouvellement et, selon notre expérience, au service et au support fiables. Le point délicat est le renouvellement automatique, activé par défaut, qui facture le tarif en vigueur du forfait. Les règles sont dans le chapitre « Renouvellement automatique et nouveau prix »."
+          "Oui, comme entreprise : Hostinger est un grand hébergeur aux règles publiques de remboursement et de renouvellement et, d'expérience, au service et au support fiables. Le point délicat est le renouvellement automatique, activé par défaut, qui facture le tarif en vigueur. Les règles sont dans le chapitre « Renouvellement automatique et nouveau prix » ; les 20 % de la première période passent par le [lien de parrainage Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -92446,7 +92446,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Ja, als Unternehmen: Hostinger ist ein großer Anbieter mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung, und nach unserer Erfahrung funktionieren Service und Support. Der Haken ist die automatische Verlängerung, die standardmäßig aktiv ist und zum aktuellen Tarifpreis abbucht. Die Regeln stehen im Kapitel „Automatische Verlängerung und neuer Preis“."
+          "Ja, als Unternehmen: Hostinger ist ein großer Anbieter mit öffentlich einsehbaren Regeln für Erstattung und Verlängerung, und nach unserer Erfahrung funktionieren Service und Support. Der Haken ist die automatische Verlängerung, die standardmäßig aktiv ist und zum aktuellen Tarifpreis abbucht. Die Regeln stehen im Kapitel „Automatische Verlängerung und neuer Preis“; die 20 % für den ersten Zeitraum gibt es über den [Hostinger-Empfehlungslink](/de/coupons/hostinger)."
         ]
       },
       {
@@ -92667,7 +92667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, come azienda: Hostinger è un grande provider con regole pubbliche su rimborso e rinnovo e, secondo la nostra esperienza, servizio e assistenza funzionano. Il punto critico è il rinnovo automatico, attivo di default, che addebita il prezzo in vigore del piano. Le regole sono nel capitolo «Rinnovo automatico e prezzo nuovo»."
+          "Sì, come azienda: Hostinger è un grande provider con regole pubbliche su rimborso e rinnovo e, secondo la nostra esperienza, servizio e assistenza funzionano. Il punto critico è il rinnovo automatico, attivo di default, che addebita il prezzo in vigore del piano. Le regole sono nel capitolo «Rinnovo automatico e prezzo nuovo»; il 20% sul primo periodo arriva con il [link di invito di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -92888,7 +92888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 회사로서는 믿을 만합니다. 호스팅어는 규모가 크고 환불과 갱신 규정이 공개되어 있으며, 저희 경험으로는 서비스와 지원이 잘 작동합니다. 다만 자동 갱신은 기본으로 켜져 있고 그때의 현재 요금으로 청구되니, 규칙은 “자동 갱신과 새 가격” 장에서 확인하세요."
+          "네, 회사로서는 믿을 만합니다. 호스팅어는 규모가 크고 환불과 갱신 규정이 공개되어 있으며, 저희 경험으로는 서비스와 지원이 잘 작동합니다. 다만 자동 갱신은 기본으로 켜져 있고 그때의 현재 요금으로 청구되니, 규칙은 “자동 갱신과 새 가격” 장에서 확인하세요. 첫 결제 기간 20% 할인은 [Hostinger 추천 링크](/ko/coupons/hostinger)로 받을 수 있습니다."
         ]
       },
       {
@@ -93109,7 +93109,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、会社としては信頼できます。ホスティングは30日以内であれば返金を申請でき、私たちの経験では、サービスもサポートも問題なく動いています。ただし自動更新は初期設定でオンになっており、その時点の現在価格で請求されるため、ルールは「自動更新と新しい価格」の章で確認してください。"
+          "はい、会社としては信頼できます。ホスティングは30日以内であれば返金を申請でき、私たちの経験では、サービスもサポートも問題なく動いています。ただし自動更新は初期設定でオンになっており、その時点の現在価格で請求されるため、ルールは「自動更新と新しい価格」の章で確認してください。初回期間の20%割引は[Hostingerの紹介リンク](/ja/coupons/hostinger)から受けられます。"
         ]
       },
       {
@@ -93330,7 +93330,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，作為公司它可靠。Hostinger 規模不小，退款與續訂規則公開，主機可在 30 天內退款，以我們的經驗，服務和客服運作正常。需要留意的是自動續訂，它預設開啟，並按方案當前價格扣款。具體規則見「自動續訂與新價格」一章。"
+          "是的，作為公司它可靠。Hostinger 規模不小，退款與續訂規則公開，主機可在 30 天內退款，以我們的經驗，服務和客服運作正常。需要留意的是自動續訂，它預設開啟，並按方案當前價格扣款。具體規則見「自動續訂與新價格」一章。首期 20% 折扣可透過 [Hostinger 推薦連結](/zh-hant/coupons/hostinger)取得。"
         ]
       },
       {
@@ -93551,7 +93551,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，作为公司它靠谱。Hostinger 规模不小，退款与续费规则公开，主机可在 30 天内退款，根据我们的经验，服务和客服运行正常。需要留意的是自动续费，它默认开启，并按套餐当前价格扣款。具体规则见“自动续费与新价格”一章。"
+          "是的，作为公司它靠谱。Hostinger 规模不小，退款与续费规则公开，主机可在 30 天内退款，根据我们的经验，服务和客服运行正常。需要留意的是自动续费，它默认开启，并按套餐当前价格扣款。具体规则见“自动续费与新价格”一章。首期 20% 折扣可通过 [Hostinger 推荐链接](/zh-hans/coupons/hostinger)获得。"
         ]
       },
       {
@@ -93771,7 +93771,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva. Em 30/09/2026, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la."
+          "Sim, com uma ressalva. Em 30/09/2026, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período, em planos de 12 meses ou mais, vêm pela [indicação da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -94069,7 +94069,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Mostly yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews, but the company invites customers to review, which pushes the average up, and the complaints center on AI support, billing and renewal, and domains. The chapter Three readings that change the math shows what the invitations do to the score."
+          "Mostly yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews, but the company invites customers to review, which pushes the average up, and the complaints center on AI support, billing and renewal, and domains. The chapter Three readings that change the math shows that effect; the 20% off the first period comes through the [Hostinger referral link](/en/coupons/hostinger)."
         ]
       },
       {
@@ -94368,7 +94368,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía 4,6 en Trustpilot con 73.411 opiniones, pero la empresa invita a los clientes a opinar, lo que sube el promedio. Las quejas se concentran en la atención por IA, los cobros y los dominios. El capítulo Tres lecturas que cambian la cuenta explica cuánto pesan esas invitaciones."
+          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía 4,6 en Trustpilot con 73.411 opiniones, pero la empresa invita a los clientes a opinar, lo que sube el promedio. Las quejas se concentran en la atención por IA, los cobros y los dominios. El capítulo Tres lecturas que cambian la cuenta explica ese efecto; el 20% del primer período llega por el [enlace de referido de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -94667,7 +94667,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait 4,6 sur Trustpilot pour 73 411 avis, mais l’entreprise invite ses clients à noter, ce qui tire la moyenne vers le haut. Les plaintes portent surtout sur le support par IA, la facturation et les domaines. Le chapitre Trois lectures qui changent le calcul détaille cet effet."
+          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait 4,6 sur Trustpilot pour 73 411 avis, mais l’entreprise invite ses clients à noter, ce qui gonfle la moyenne. Les plaintes portent surtout sur le support par IA, la facturation et les domaines. Le chapitre Trois lectures qui changent le calcul détaille cet effet ; les 20 % de la première période passent par le [lien de parrainage Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -94966,7 +94966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Eher ja, mit Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen, aber die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt. Die Beschwerden drehen sich vor allem um KI-Support, Abrechnung, Verlängerung und Domains. Das Kapitel Drei Lesarten, die die Rechnung ändern, zeigt den Effekt."
+          "Eher ja, mit Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen, aber die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt. Die Beschwerden drehen sich vor allem um KI-Support, Abrechnung, Verlängerung und Domains. Das Kapitel Drei Lesarten, die die Rechnung ändern, zeigt den Effekt; die 20 % für den ersten Zeitraum gibt es über den [Hostinger-Empfehlungslink](/de/coupons/hostinger)."
         ]
       },
       {
@@ -95265,7 +95265,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva TrustScore 4,6 su Trustpilot con 73.411 recensioni, ma l’azienda invita i clienti a recensire, e così alza la media. I reclami riguardano soprattutto il supporto con l’IA, la fatturazione, il rinnovo e i domini. Il capitolo Tre letture che cambiano il conto mostra l’effetto degli inviti."
+          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva TrustScore 4,6 su Trustpilot con 73.411 recensioni, ma l’azienda invita i clienti a recensire, e così alza la media. I reclami riguardano soprattutto il supporto con l’IA, la fatturazione, il rinnovo e i domini. Il capitolo Tre letture che cambiano il conto mostra l’effetto degli inviti; il 20% sul primo periodo arriva con il [link di invito di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -95564,7 +95564,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "대체로 믿을 만하지만 단서가 있습니다. 2026년 10월 24일 기준 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이지만, 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갑니다. 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 권유가 점수에 어떤 영향을 주는지는 “숫자가 바꾸는 세 가지 읽는 법” 장에서 보여 드립니다."
+          "대체로 믿을 만하지만 단서가 있습니다. 2026년 10월 24일 기준 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이지만, 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갑니다. 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 권유가 점수에 어떤 영향을 주는지는 “숫자가 바꾸는 세 가지 읽는 법” 장에서 보여 드립니다. 첫 결제 기간 20% 할인은 [Hostinger 추천 링크](/ko/coupons/hostinger)로 받을 수 있습니다."
         ]
       },
       {
@@ -95863,7 +95863,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "おおむね信頼できますが、注意点があります。2026年10月24日時点で Trustpilot の TrustScore は 4.6、レビューは 73,411 件でした。ただし企業が顧客にレビューを呼びかけているため平均が押し上げられており、苦情の中心は AI サポート、請求と更新、ドメインです。招待がスコアをどう動かしているかは「数字が変わる三つの読み方」の章で示します。"
+          "おおむね信頼できますが、注意点があります。2026年10月24日時点で Trustpilot の TrustScore は 4.6、レビューは 73,411 件でした。ただし企業が顧客にレビューを呼びかけているため平均が押し上げられており、苦情の中心は AI サポート、請求と更新、ドメインです。招待がスコアをどう動かしているかは「数字が変わる三つの読み方」の章で示します。初回期間の 20% 割引は [Hostinger の紹介リンク](/ja/coupons/hostinger) から受けられます。"
         ]
       },
       {
@@ -96162,7 +96162,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速結論",
         "paragraphs": [
-          "整體可以信賴，但要留意一點。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，但公司會邀請客戶評價，平均分因此被拉高。投訴主要集中在 AI 客服、帳單與續訂以及網域。邀請如何改變分數，請看「改變判斷的三種讀法」一章。"
+          "整體可以信賴，但要留意一點。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，但公司會邀請客戶評價，平均分因此被拉高。投訴主要集中在 AI 客服、帳單與續訂以及網域。邀請如何改變分數，請看「改變判斷的三種讀法」一章。首期 20% 折扣可透過 [Hostinger 推薦連結](/zh-hant/coupons/hostinger)取得。"
         ]
       },
       {
@@ -96461,7 +96461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速结论",
         "paragraphs": [
-          "总体可以信赖，但要留意一点。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，但公司会邀请客户评价，平均分因此被拉高。投诉主要集中在 AI 客服、账单与续费以及域名。邀请如何改变分数，请看“改变判断的三种读法”一章。"
+          "总体可以信赖，但要留意一点。2026 年 10 月 24 日，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，但公司会邀请客户评价，平均分因此被拉高。投诉主要集中在 AI 客服、账单与续费以及域名。邀请如何改变分数，请看“改变判断的三种读法”一章。首期 20% 折扣可通过 [Hostinger 推荐链接](/zh-hans/coupons/hostinger)获得。"
         ]
       },
       {
@@ -104949,7 +104949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Mais Mu é uma empresa registrada, operada por uma sociedade anônima com CNPJ ativo e sede em São Paulo. A reputação recente pede atenção: no Reclame Aqui a loja está como Regular, com a entrega como principal queixa. O capítulo sobre o Reclame Aqui e o veredito mostram o que pesa na compra."
+          "Sim, a Mais Mu é uma empresa registrada, operada por uma sociedade anônima com CNPJ ativo e sede em São Paulo. A reputação recente pede atenção: no Reclame Aqui a loja está como Regular, com a entrega como principal queixa. O capítulo sobre o Reclame Aqui e o veredito mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -105163,7 +105163,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Hoje a reputação da Mais Mu no Reclame Aqui é Regular nos últimos seis meses, com nota 6,4, e Boa na janela de 12 meses. A loja responde quase todas as reclamações, mas nem todas ficam resolvidas. Os capítulos abaixo trazem os números, as queixas mais comuns e o que fazer se o pedido der problema."
+          "Hoje a reputação da Mais Mu no Reclame Aqui é Regular nos últimos seis meses, com nota 6,4, e Boa na janela de 12 meses. A loja responde quase todas as reclamações, mas nem todas ficam resolvidas. Os capítulos abaixo trazem os números, as queixas mais comuns e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -120582,7 +120582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita, com sede em Curitiba. O ponto de atenção é que o perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, e o site não explica a ligação. Quem opera a loja e os detalhes estão abaixo."
+          "Sim, a Skelt é uma empresa registrada: o site identifica uma S/A com CNPJ ativo na Receita, com sede em Curitiba. O ponto de atenção é que o perfil da Skelt no Reclame Aqui está em nome de outro CNPJ, e o site não explica a ligação. Quem opera a loja e os detalhes estão abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -120807,7 +120807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a reputação da Skelt no Reclame Aqui é boa: Ótima nos últimos 6 meses, com nota 8,3, e a loja respondeu a todas as reclamações do período. A faixa saiu da RA1000 em maio, com a nota quase igual. O que pesa são as queixas de produto com defeito e atraso, detalhadas abaixo."
+          "Sim, a reputação da Skelt no Reclame Aqui é boa: Ótima nos últimos 6 meses, com nota 8,3, e a loja respondeu a todas as reclamações do período. A faixa saiu da RA1000 em maio, com a nota quase igual. O que pesa são as queixas de produto com defeito e atraso, detalhadas abaixo; para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
@@ -121517,7 +121517,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé do site e na base pública da Receita. O que pede atenção são as três datas do site, que se misturam, e a reputação no Reclame Aqui, Ruim nos últimos 12 meses. O capítulo final de veredito pesa esses pontos."
+          "Sim, a Bagaggio é uma empresa registrada no Brasil, com CNPJ ativo no rodapé do site e na base pública da Receita. O que pede atenção são as três datas do site, que se misturam, e a reputação no Reclame Aqui, Ruim nos últimos 12 meses. O capítulo final de veredito pesa esses pontos; para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
@@ -121790,7 +121790,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, com nota 7,7, mas Ruim nos últimos 12, com nota 5,8. Nos 6 meses, respondeu a 100% das reclamações e resolveu 90,4%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para compras no site."
+          "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, com nota 7,7, mas Ruim nos últimos 12, com nota 5,8. Nos 6 meses, respondeu a 100% das reclamações e resolveu 90,4%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para compras no site; para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
