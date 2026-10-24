@@ -1086,7 +1086,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme as regras apresentadas pela SHEIN em cada campanha',
     shipping: 'Calculado pela SHEIN conforme endereço, produtos e campanha',
     combinable: 'Pode variar por campanha, conta e produto; confira o valor final antes de pagar',
-    lastVerified: '2026-09-01',
+    lastVerified: '2026-10-24',
     aboutBrand:
       'A SHEIN é uma plataforma internacional de moda, acessórios, beleza e itens para casa. A página reúne o link principal da Cecília, o código de indicação informado pela parceria e campanhas que podem mudar ao longo do tempo. Links de produto específicos pertencem aos artigos de haul e reviews, porque disponibilidade, preço e estoque variam por peça. Compras feitas pelos links indicados podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
     faqs: [
@@ -1139,7 +1139,7 @@ export const COUPONS: Coupon[] = [
         offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0',
         description: 'Produtos selecionados com descontos por tempo limitado.',
         eligibility: 'Consulte os itens e as condições exibidas pela SHEIN.',
-        verifiedAt: '2026-09-01',
+        verifiedAt: '2026-10-24',
       },
       {
         title: '50% para novos usuários',
