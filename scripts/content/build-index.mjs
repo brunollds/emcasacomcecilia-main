@@ -8,6 +8,7 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { createLocaleSearchIndex, createSearchIndex, getSearchIndexPath } from '../../src/lib/siteSearch.mjs';
 import { loadLocaleSearchStores } from './locale-search-stores.mjs';
+import { fillYesStyleVerified, loadYesStyleVerifiedDates } from './yesstyle-verified.mjs';
 
 function loadOrdered(dir) {
   const manifest = JSON.parse(readFileSync(path.join(dir, '_manifest.json'), 'utf8'));
@@ -22,7 +23,10 @@ function loadOrdered(dir) {
 }
 
 const recipes = loadOrdered(path.join('content', 'receitas'));
-const reviews = loadOrdered(path.join('content', 'reviews'));
+// A data de conferência dos cupons da YesStyle entra no texto aqui, a mesma da página da loja: muda o
+// data/coupons/yesstyle.json, muda o artigo no próximo build.
+const yesstyleDates = loadYesStyleVerifiedDates();
+const reviews = loadOrdered(path.join('content', 'reviews')).map((review) => fillYesStyleVerified(review, yesstyleDates));
 
 const banner =
   '// GERADO por scripts/content/build-index.mjs a partir de content/ — NÃO EDITAR.\n' +
