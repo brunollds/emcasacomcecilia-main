@@ -28944,7 +28944,7 @@ export const reviewsData: unknown[] = [
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
           "A configuração que estamos usando inclui massagem, motor independente de cabeça e pescoço, case fosco 3 em 1 com tomada, USB-A e USB-C, porta-copos, luminária, mesa de apoio e suporte com carregador para smartphones e tablets. Todos os opcionais encontraram utilidade na nossa rotina, mas a massagem foi o recurso favorito da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. A experiência de entrega foi ágil para um móvel produzido de forma personalizada.",
-          "As condições comerciais foram verificadas em 21 de julho de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros ou até 18 vezes com juros, além de possibilidade de frete grátis conforme a região. Essas condições podem ser alteradas pela fabricante."
+          "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste; nas outras regiões, o frete sai pelo CEP. Essas condições podem ser alteradas pela fabricante."
         ],
         "bullets": [
           "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
@@ -29076,11 +29076,11 @@ export const reviewsData: unknown[] = [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
         "bullets": [
-          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 21 de julho de 2026 e sujeitas a alteração pela fabricante.",
+          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 24 de outubro de 2026 e sujeitas a alteração pela fabricante.",
           "O Em Casa com Cecília possui parceria com a Damie? Sim. O cupom CECILIA12 faz parte de nossa parceria comercial com a Damie e pode gerar comissão para o blog em compras elegíveis, sem custo adicional para você. Nossa avaliação é baseada na experiência real com a poltrona em casa.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
-          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas. Condição verificada em 21 de julho de 2026 e sujeita aos termos vigentes da fabricante.",
+          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição verificada em 24 de outubro de 2026 e sujeita aos termos vigentes da fabricante.",
           "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
         ]
       }
@@ -32027,7 +32027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
-          "A página oficial informa frete grátis, rápido e por transportadora especializada em móveis para as regiões atendidas. Também menciona 30 dias para troca ou devolução e garantia de 1 ano, além de suporte vitalício.",
+          "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). Também menciona 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
           "A poltrona suporta até 130 kg, segundo a Damie, e a marca informa que a venda é online, com showroom em Frederico Westphalen, no Rio Grande do Sul. Por isso, o período de teste em casa é um ponto relevante para quem está comprando sem experimentar antes.",
           "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
         ]
@@ -32192,7 +32192,7 @@ export const reviewsData: unknown[] = [
         "heading": "Materiais, acabamento e personalização",
         "paragraphs": [
           "A Damie trabalha com uma linha de estofados mais premium, então a escolha do revestimento pesa bastante na experiência final. A página do produto oferece opções como Tecido Suede, Tecido Bouclé, Tecido Linho, Corino Importado e Couro Bovino.",
-          "Também há várias cores disponíveis, incluindo bege, marrom, cinza claro, preto, azul denim, caramelo, off white, verde militar e branco. Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
+          "Também há várias cores disponíveis, incluindo bege, marrom, cinza, preto, azul denim, caramelo, off white, verde militar e branco (lista conferida em 24/10/2026). Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
           "Antes de comprar, vale observar a rotina da casa: tem criança, pet, muita visita, sala quente, uso diário para TV ou uso mais decorativo? Essas respostas ajudam a escolher tecido, cor e configuração sem cair só na escolha estética."
         ]
       },
@@ -32341,7 +32341,7 @@ export const reviewsData: unknown[] = [
         "heading": "Montagem, entrega e uso prático",
         "paragraphs": [
           "Um ponto positivo é que a montagem é simples: a poltrona vai praticamente montada, então o trabalho principal é retirar da embalagem e posicionar no ambiente. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
-          "A Damie destaca frete grátis, rápido e por transportadora especializada em móveis em determinadas regiões atendidas. A página também informa 30 dias para troca ou devolução e garantia de 1 ano, além de suporte vitalício.",
+          "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). A página também informa 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
           "Outro dado útil da página oficial é o peso máximo suportado de até 130 kg. Para uma peça decorativa, isso reforça que a Moon não é só aparência; ela precisa ser bonita, mas também segura e funcional."
         ]
       },
@@ -34389,7 +34389,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
         "bullets": [],
         "links": [
@@ -38648,7 +38648,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, incluindo NEO Espresso Sul de Minas Orgânico, NEO Starbucks® Espresso Roast, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
+          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, que a loja lista em cinco: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
           "Posso escolher o tamanho da minha xícara de café com o Adaptador NEO Start? Sim. Em uma máquina manual, mova a alavanca para a posição quente e retorne-a à posição do meio quando o volume desejado for alcançado. Em máquinas Flow Stop, selecione o volume em tracinhos normalmente.",
           "O Adaptador NEO Start é compatível com todos os modelos de máquinas NESCAFÉ Dolce Gusto? Não. Ele é compatível especificamente com os modelos: MINI ME®, INFINISSIMA®, INFINISSIMA® Touch, GENIO® S, GENIO® S Plus, GENIO® S Touch, PICCOLO® e PICCOLO® XS. Não é compatível com outros modelos.",
           "Não consigo fechar a tampa da máquina após inserir o Adaptador NEO Start, o que devo fazer? O Adaptador NEO Start é magneticamente atraído para a posição final. Se tiver dificuldade para fechar a alavanca da máquina, verifique se: 1) Sua máquina é compatível; 2) A tampa do próprio adaptador está firmemente pressionada e travada; 3) O adaptador está bem inserido na cabeça da máquina e empurrado até a posição final. Auxilie o fechamento aplicando leve pressão com a palma da mão.",
