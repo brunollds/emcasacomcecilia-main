@@ -40677,6 +40677,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-discover.webp",
+      "local_url": "/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71354,
+      "sha256": "03ad87fcabb8e3c072a85adbcdafa5a5586ff598dba0bfe4bfe713c1dae4db78",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-clea-store-e-boa-capa-discover.webp",
+      "storage_filename": "camiseta-clea-store-e-boa-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-clea-store-e-boa.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-clea-store-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/clea-store/camiseta-clea-store-e-boa-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/03ad87fcabb8e3c072a85adbcdafa5a5586ff598dba0bfe4bfe713c1dae4db78/camiseta-clea-store-e-boa-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/03ad87fcabb8e3c072a85adbcdafa5a5586ff598dba0bfe4bfe713c1dae4db78/camiseta-clea-store-e-boa-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.326Z",
+      "verification_etag_or_digest": "03ad87fcabb8e3c072a85adbcdafa5a5586ff598dba0bfe4bfe713c1dae4db78",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
       "local_url": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
       "media_kind": "image",
@@ -61002,6 +61040,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/aliv-head-gel-iws-capa-discover.webp",
+      "local_url": "/images/reviews/iwannasleep/aliv-head-gel-iws-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87656,
+      "sha256": "34ac46d72620ae38e90898c76871f7312f3d6a3eef6518f0658b4824ae03c4e2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "aliv-head-gel-iws-capa-discover.webp",
+      "storage_filename": "aliv-head-gel-iws-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/aliv-head-gel-iws-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/34ac46d72620ae38e90898c76871f7312f3d6a3eef6518f0658b4824ae03c4e2/aliv-head-gel-iws-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/34ac46d72620ae38e90898c76871f7312f3d6a3eef6518f0658b4824ae03c4e2/aliv-head-gel-iws-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.327Z",
+      "verification_etag_or_digest": "34ac46d72620ae38e90898c76871f7312f3d6a3eef6518f0658b4824ae03c4e2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp",
       "local_url": "/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp",
       "media_kind": "image",
@@ -61978,6 +62054,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "be274e92a96226c6ecb0e06d3d10a0855ace1278e9eefef3bfb7b2c019ee3f44",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "local_url": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 151156,
+      "sha256": "0b1a929bd6228b66da962a2e28f0ea11692f94ff9c98dee3779d958c7440f94a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "storage_filename": "cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0b1a929bd6228b66da962a2e28f0ea11692f94ff9c98dee3779d958c7440f94a/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0b1a929bd6228b66da962a2e28f0ea11692f94ff9c98dee3779d958c7440f94a/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.327Z",
+      "verification_etag_or_digest": "0b1a929bd6228b66da962a2e28f0ea11692f94ff9c98dee3779d958c7440f94a",
       "verification_status": "verified"
     },
     {
@@ -63124,6 +63238,44 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "6046b0ea51cfc745ac26129c794b1b6d76cfebc43227c187cc07bf9f640c7bef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/melatonina-gummy-iws-capa-discover.webp",
+      "local_url": "/images/reviews/iwannasleep/melatonina-gummy-iws-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107034,
+      "sha256": "d13c8049736f73920856c9221a856397bf760d64d0fcaaed8e17e846dafb9fa9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melatonina-gummy-iws-capa-discover.webp",
+      "storage_filename": "melatonina-gummy-iws-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melatonina-gummy-iws-para-que-serve-como-tomar.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melatonina-gummy-iws-para-que-serve-como-tomar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d13c8049736f73920856c9221a856397bf760d64d0fcaaed8e17e846dafb9fa9/melatonina-gummy-iws-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d13c8049736f73920856c9221a856397bf760d64d0fcaaed8e17e846dafb9fa9/melatonina-gummy-iws-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.327Z",
+      "verification_etag_or_digest": "d13c8049736f73920856c9221a856397bf760d64d0fcaaed8e17e846dafb9fa9",
       "verification_status": "verified"
     },
     {
@@ -86818,6 +86970,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
+      "local_url": "/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 80154,
+      "sha256": "cb15dfc8d8cd9b412e7407b4c83eb1af3c8c3737be7089120bb8780b947bf7f0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melatonina-liquida-iws-capa-discover.webp",
+      "storage_filename": "melatonina-liquida-iws-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melatonina-liquida-iws-ficha-tecnica.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melatonina-liquida-iws-ficha-tecnica.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cb15dfc8d8cd9b412e7407b4c83eb1af3c8c3737be7089120bb8780b947bf7f0/melatonina-liquida-iws-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cb15dfc8d8cd9b412e7407b4c83eb1af3c8c3737be7089120bb8780b947bf7f0/melatonina-liquida-iws-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.327Z",
+      "verification_etag_or_digest": "cb15dfc8d8cd9b412e7407b4c83eb1af3c8c3737be7089120bb8780b947bf7f0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
       "local_url": "/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
       "media_kind": "image",
@@ -86898,6 +87088,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-02T01:49:44.772Z",
       "verification_etag_or_digest": "78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-iws-capa-discover.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-iws-capa-discover.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 144372,
+      "sha256": "e3dc12e5b31a49f69453f5b2d62796c45e1efd480f04c35f6d4e5591e7e50147",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-iws-capa-discover.webp",
+      "storage_filename": "pillow-top-magnum-iws-capa-discover.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-iws-capa-discover.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e3dc12e5b31a49f69453f5b2d62796c45e1efd480f04c35f6d4e5591e7e50147/pillow-top-magnum-iws-capa-discover.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3dc12e5b31a49f69453f5b2d62796c45e1efd480f04c35f6d4e5591e7e50147/pillow-top-magnum-iws-capa-discover.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-24T03:44:55.327Z",
+      "verification_etag_or_digest": "e3dc12e5b31a49f69453f5b2d62796c45e1efd480f04c35f6d4e5591e7e50147",
       "verification_status": "verified"
     },
     {

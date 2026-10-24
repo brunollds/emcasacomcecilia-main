@@ -19,9 +19,10 @@
   "publishedAtISO": "2026-08-20",
   "updatedAt": "2026-10-24",
   "draft": false,
-  "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
-  "imageAlt": "Caixa e frasco da Melatonina Líquida IWS sabor maracujá, 30ml",
-  "imageAspect": "square",
+  "image": "/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
+  "imageAlt": "Caixa e frasco da Melatonina Líquida IWS sabor maracujá, 30 ml, em três fotos oficiais",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
