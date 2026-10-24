@@ -28,6 +28,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. The checks are in the chapter Are YesStyle Products Authentic? Where Is YesStyle From?."
+      ]
+    },
+    {
       "heading": "Public Company Information",
       "paragraphs": [
         "YesStyle Limited is an e-commerce company headquartered in Hong Kong, founded in 2006. The company operates as a subsidiary of YesAsia Holdings Limited, which is publicly listed on the Hong Kong Stock Exchange under stock code 2209.HK. This means that while YesStyle functions as an online retailer, its parent entity is a public corporation subject to financial audits and regulatory oversight.",
@@ -84,14 +90,21 @@
         "Read product descriptions carefully, including shade indicators, packaging sizes, and ingredient lists, as Asian cosmetics standards may differ from western norms.",
         "Review estimated delivery windows for your region at checkout prior to order placement.",
         "Keep your order confirmation email, transaction ID, and tracking code saved until your package arrives safely.",
-        "Inspect the outer box upon delivery — do not accept parcels with broken seals or damaged packaging."
+        "Inspect the outer box upon delivery: do not accept parcels with broken seals or damaged packaging."
+      ]
+    },
+    {
+      "heading": "Can You Trust YesStyle?",
+      "paragraphs": [
+        "Yes, with the usual checks. YesStyle is based in Hong Kong, has operated since 2006 and is a subsidiary of YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK). It states it is an authorized distributor of more than 400 Korean beauty brands, but we found no independent audit of that claim.",
+        "In practice: order only on yesstyle.com, check delivery times and fees at checkout, keep your order confirmation and tracking code, and on delivery check batch code, expiry date and seal."
       ]
     },
     {
       "heading": "Reward Code Partnership & Extra Savings",
       "paragraphs": [
         "Em Casa com Cecília maintains an affiliate partnership with YesStyle. Through this partnership, shoppers can enter the Reward Code CECILIA010 in the dedicated Extra Code / Reward Code field at checkout to receive up to 5% extra discount on first orders and 2% on returning orders. This code stacks with valid promotional coupons for maximum savings.",
-        "The CECILIA010 code remains active as long as the partnership continues. Using this code incurs no extra fee for the buyer — the discount benefit is provided by the brand in support of our editorial project."
+        "The CECILIA010 code remains active as long as the partnership continues. Using this code incurs no extra fee for the buyer: the discount benefit is provided by the brand in support of our editorial project."
       ],
       "bullets": []
     },
@@ -115,7 +128,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "This review is analytical and editorial in nature. The mention of code CECILIA010 is part of an affiliate partnership between Em Casa com Cecília and YesStyle. Public company data and official brand information were independently verified.",
+  "editorialNote": "Based on public data. Code CECILIA010 comes from an affiliate partnership.",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-coupon-cecilia010",

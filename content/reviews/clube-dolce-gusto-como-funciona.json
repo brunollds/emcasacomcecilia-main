@@ -1,7 +1,7 @@
 {
   "id": 217,
   "slug": "clube-dolce-gusto-como-funciona",
-  "title": "Clube Dolce Gusto: pontos e prêmios",
+  "title": "Clube Dolce Gusto: como cadastrar códigos, acumular pontos e trocar por prêmios",
   "seoTitle": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
   "type": "Guia",
   "category": "guias-praticos-utilidade",
@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Guia prático do Clube Dolce Gusto: como cadastrar códigos das caixas, acumular pontos, trocar prêmios e economizar com o cupom CECI.",
-  "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto — e como usar o cupom CECI para economizar mais.",
+  "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto e como usar o cupom CECI para economizar mais.",
   "publishedAt": "03 Jul 2026",
   "publishedAtISO": "2026-07-03",
   "draft": false,
@@ -25,6 +25,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O que pesa é a validade, porque o saldo zera após 6 meses sem registrar código nem resgatar prêmio; veja o capítulo Passo a passo para cadastrar seus códigos."
+      ]
+    },
+    {
       "heading": "Como funciona o Clube Dolce Gusto",
       "paragraphs": [
         "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
@@ -33,8 +39,7 @@
       "bullets": [
         "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
         "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
-        "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
-        "Como economizar ainda mais: aplicar o cupom CECI (5% OFF em compras a partir de R$ 100) nas compras de cápsulas na loja oficial para potencializar a economia."
+        "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto."
       ],
       "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
       "links": [
@@ -47,7 +52,7 @@
     {
       "heading": "Como acumular pontos no Clube",
       "paragraphs": [
-        "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar:"
+        "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar: Os pontos ficam guardados na sua conta e podem virar cápsulas, acessórios ou vouchers de desconto."
       ],
       "bullets": [
         "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.",
@@ -110,21 +115,6 @@
         "Confirme que o abatimento de 5% foi refletido no valor total.",
         "Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.",
         "Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses."
-      ]
-    },
-    {
-      "heading": "Pontos Dolce Gusto: como maximizar seu saldo",
-      "paragraphs": [
-        "Os pontos Dolce Gusto são a moeda do programa de fidelidade. Cada ação elegível (cadastro de código, compra online, assinatura de cápsulas) gera uma quantidade de pontos que fica guardada na sua conta. O objetivo é simples: acumular pontos Dolce Gusto para depois trocar por cápsulas grátis, acessórios ou até vouchers de desconto.",
-        "A estratégia para maximizar o saldo é combinar múltiplas ações: compre usando o cupom CECI (5% OFF), resgate os pontos de compra online, cadastre os códigos das caixas de cápsulas recebidas, e participe de bônus especiais quando disponíveis. Se você é consumidor frequente de café Dolce Gusto, manter os pontos Dolce Gusto ativos pode resultar em economias significativas ao longo de alguns meses."
-      ],
-      "bullets": [
-        "Cada caixa de cápsulas Geração 1 = 100 pontos Dolce Gusto (código cadastrado)",
-        "Cada extração NEO = 10 pontos Dolce Gusto (automático no aplicativo)",
-        "Compra online no site = +100 pontos Dolce Gusto",
-        "Assinatura de cápsulas = +1.000 pontos Dolce Gusto na primeira compra",
-        "Combos DGUSTA = 500 ou 1.000 pontos Dolce Gusto por caixa",
-        "Pontos Dolce Gusto expiram após 6 meses de inatividade — mantenha a conta ativa!"
       ],
       "links": [
         {
@@ -134,10 +124,10 @@
       ]
     },
     {
-      "heading": "Resumo: vale a pena participar?",
+      "heading": "Vale a pena participar do Clube?",
       "paragraphs": [
         "A resposta é sim para quem já compra cápsulas Dolce Gusto com alguma frequência. O Clube Dolce Gusto é gratuito, simples de usar e recompensa um hábito de consumo que você já possui. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
-        "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade."
+        "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
       ]
     },
     {
@@ -169,7 +159,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.",
+  "editorialNote": "Parceria com a Dolce Gusto: comissão pelo cupom CECI. Guia feito das regras públicas do Clube.",
   "relatedArticles": [
     {
       "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",

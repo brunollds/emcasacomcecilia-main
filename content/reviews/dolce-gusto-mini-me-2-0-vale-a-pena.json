@@ -4,7 +4,7 @@
   "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
   "type": "Review de Produto",
   "category": "produtos-experiencias",
-  "reviewKind": "product",
+  "reviewKind": "produto",
   "draft": false,
   "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
   "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
@@ -69,7 +69,7 @@
   "pros": [
     "Design compacto e acabamento Terracota moderno que valoriza a bancada",
     "Controles de temperatura e preparo com dosagem automática por barras, que ajudam a respeitar o volume selecionado (desde que a xícara comporte a bebida escolhida)",
-    "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia)",
+    "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia, segundo a fabricante)",
     "Pressão de 15 bar que gera boa extração de crema para cafés e bebidas"
   ],
   "cons": [
@@ -79,9 +79,15 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta na bancada, com controles no painel no lugar da alavanca da Mini Me clássica. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo; veja em Pontos reais de atenção."
+      ]
+    },
+    {
       "heading": "Design Terracota e controles da Mini Me 2.0",
       "paragraphs": [
-        "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota — um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+        "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
         "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
       ]
     },
@@ -112,7 +118,7 @@
       ],
       "bullets": [
         "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
-        "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, reduzindo o consumo de energia em até 20%.",
+        "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
         "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
         "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
         "**Pingamento pós-preparo:** Após a interrupção do fluxo de água, a cápsula perfurada pode continuar liberando líquido por um período prolongado. Por isso, vale manter limpa a bandeja removível que apoia xícaras e copos e retém esse excedente."
@@ -156,7 +162,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Como funciona a Dolce Gusto Mini Me 2.0? O painel tem um botão para selecionar a temperatura e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula e interrompe o fluxo ao atingir o volume selecionado.",
-        "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, reduzindo o consumo de energia em até 20%.",
+        "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
         "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
         "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
         "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
@@ -171,7 +177,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este artigo reflete a experiência de uso pessoal com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 Terracota. A menção ao cupom CECI decorre de uma parceria comercial com a NESCAFÉ Dolce Gusto.",
+  "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {
       "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",

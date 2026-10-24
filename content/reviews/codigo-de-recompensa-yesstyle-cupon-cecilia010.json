@@ -19,7 +19,7 @@
     "Se puede usar junto con cupones promocionales elegibles en el sitio",
     "Envío gratis a partir de un importe mínimo que depende de tu país",
     "Catálogo extenso de K-Beauty, moda coreana y J-Beauty",
-    "Productos 100% auténticos — distribuidor autorizado",
+    "Productos 100% auténticos, distribuidor autorizado",
     "Sitio web disponible en español para compradores internacionales"
   ],
   "cons": [
@@ -29,6 +29,12 @@
     "Facturación final en USD (sujeto a tipos de cambio bancarios)"
   ],
   "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "CECILIA010 es un código de recompensa de YesStyle que da hasta un 5% extra: 5% en la primera compra y 2% en las siguientes. Va en el campo Reward Code, aparte del de cupón, y se suma a los cupones elegibles. Lo que pesa es usar bien cada campo; mira Cómo usar el código CECILIA010 en YesStyle: paso a paso."
+      ]
+    },
     {
       "heading": "Cómo funciona el código CECILIA010",
       "paragraphs": [
@@ -44,38 +50,7 @@
         "Acumulable: ¡SÍ! Puedes usar CECILIA010 + cupones promocionales elegibles en el mismo pedido",
         "Validez: Código activo en el programa oficial de influencers (verificado regularmente)"
       ],
-      "emphasis": "Consejo de Cecilia: El código CECILIA010 no anula los cupones promocionales elegibles de YesStyle — ¡añade hasta un 5% extra (5% 1ª compra / 2% habitual) a los cupones elegibles!"
-    },
-    {
-      "heading": "¿Qué es YesStyle?",
-      "paragraphs": [
-        "YesStyle es una de las tiendas online más grandes del mundo especializada en moda asiática, cosmética coreana (K-Beauty), belleza japonesa (J-Beauty) y accesorios. Fundada en 2006 y con sede en Hong Kong, se ha convertido en el referente global para conseguir productos originales de marcas asiáticas.",
-        "YesStyle realiza envíos a más de 150 países y regiones, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
-      ],
-      "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-      "imageAlt": "Página de inicio de YesStyle con banner de ofertas de K-beauty.",
-      "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y envío internacional directo.",
-      "bullets": [
-        "K-Beauty: séruns de glass skin, esencias, tónicos y productos para la famosa rutina de skincare asiática",
-        "Moda Coreana: ropa, calzado, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
-        "J-Beauty y Bienestar: marcas japonesas renombradas (como Hada Labo) y suplementos"
-      ]
-    },
-    {
-      "heading": "K-Beauty: la revolución del skincare",
-      "paragraphs": [
-        "La cosmética coreana (K-beauty) ha conquistado el mercado de la belleza a nivel mundial. Lo que empezó como una tendencia de nicho es ahora parte esencial del cuidado de la piel.",
-        "Los consumidores buscan el efecto \"glass skin\" (piel luminosa, uniforme y muy hidratada). Ingredientes como Centella Asiática, Niacinamida y Baba de Caracol (Snail Mucin) son clave. YesStyle es uno de los canales más seguros para comprar estos productos directamente de distribuidores autorizados en Asia."
-      ],
-      "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-      "imageAlt": "Secciones de YesStyle divididas por regiones de belleza asiática.",
-      "imageCaption": "Además de K-beauty, YesStyle organiza productos de J-beauty y otras regiones de Asia.",
-      "bullets": [
-        "Glass skin: piel intensamente hidratada, radiante y uniforme",
-        "Rutina coreana: centrada en la doble limpieza, tónicos hidratantes y esencias nutritivas",
-        "Ingredientes clave: centella asiática, baba de caracol, própolis y ácido hialurónico"
-      ],
-      "emphasis": "Consejo de Cecilia: Comprar en YesStyle es una de las opciones más recomendadas para conseguir cosmética coreana original, ya que compran directo a las marcas y su catálogo es enorme."
+      "emphasis": "Consejo de Cecilia: El código CECILIA010 no anula los cupones promocionales elegibles de YesStyle: ¡añade hasta un 5% extra (5% 1ª compra / 2% habitual) a los cupones elegibles!"
     },
     {
       "heading": "Código de Recompensa vs. Cupón de Descuento: la diferencia clave",
@@ -138,9 +113,9 @@
         "La acumulación de descuentos (stacking) consiste en rellenar los dos campos principales: Reward Code y Coupon Code. Para una compra segura, aplica CECILIA010 en el campo de código de recompensa y el cupón promocional en el campo de cupón."
       ],
       "bullets": [
-        "Paso 1 — Código de Recompensa: introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes).",
-        "Paso 2 — Cupón activo: introduce cupones promocionales elegibles del sitio en el campo Coupon Code.",
-        "Paso 3 — Revisión final: antes de pagar, confirma que el descuento extra de CECILIA010 y el cupón promocional elegible se muestren correctamente."
+        "Paso 1 (Código de Recompensa): introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes).",
+        "Paso 2 (Cupón activo): introduce cupones promocionales elegibles del sitio en el campo Coupon Code.",
+        "Paso 3 (Revisión final): antes de pagar, confirma que el descuento extra de CECILIA010 y el cupón promocional elegible se muestren correctamente."
       ],
       "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
       "imageAlt": "Resumo de pedido en YesStyle.",
@@ -162,6 +137,37 @@
         "Friend Rewards: programa de recomendación para ganar créditos",
         "Student Program: ofertas especiales para estudiantes universitarios"
       ]
+    },
+    {
+      "heading": "¿Qué es YesStyle?",
+      "paragraphs": [
+        "YesStyle es una de las tiendas online más grandes del mundo especializada en moda asiática, cosmética coreana (K-Beauty), belleza japonesa (J-Beauty) y accesorios. Fundada en 2006 y con sede en Hong Kong, se ha convertido en el referente global para conseguir productos originales de marcas asiáticas.",
+        "YesStyle realiza envíos a más de 150 países y regiones, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
+      ],
+      "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+      "imageAlt": "Página de inicio de YesStyle con banner de ofertas de K-beauty.",
+      "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y envío internacional directo.",
+      "bullets": [
+        "K-Beauty: séruns de glass skin, esencias, tónicos y productos para la famosa rutina de skincare asiática",
+        "Moda Coreana: ropa, calzado, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
+        "J-Beauty y Bienestar: marcas japonesas renombradas (como Hada Labo) y suplementos"
+      ]
+    },
+    {
+      "heading": "K-Beauty: la revolución del skincare",
+      "paragraphs": [
+        "La cosmética coreana (K-beauty) ha conquistado el mercado de la belleza a nivel mundial. Lo que empezó como una tendencia de nicho es ahora parte esencial del cuidado de la piel.",
+        "Los consumidores buscan el efecto \"glass skin\" (piel luminosa, uniforme y muy hidratada). Ingredientes como Centella Asiática, Niacinamida y Baba de Caracol (Snail Mucin) son clave. YesStyle es uno de los canales más seguros para comprar estos productos directamente de distribuidores autorizados en Asia."
+      ],
+      "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+      "imageAlt": "Secciones de YesStyle divididas por regiones de belleza asiática.",
+      "imageCaption": "Además de K-beauty, YesStyle organiza productos de J-beauty y otras regiones de Asia.",
+      "bullets": [
+        "Glass skin: piel intensamente hidratada, radiante y uniforme",
+        "Rutina coreana: centrada en la doble limpieza, tónicos hidratantes y esencias nutritivas",
+        "Ingredientes clave: centella asiática, baba de caracol, própolis y ácido hialurónico"
+      ],
+      "emphasis": "Consejo de Cecilia: Comprar en YesStyle es una de las opciones más recomendadas para conseguir cosmética coreana original, ya que compran directo a las marcas y su catálogo es enorme."
     },
     {
       "heading": "Qué comprar en YesStyle: guía por categoría",
@@ -206,7 +212,7 @@
       "emphasis": "Consejo de Cecilia: Consulta las páginas de ayuda oficiales de YesStyle sobre tasas e importación antes de hacer tu compra, ya que las políticas aduaneras y las de la tienda pueden variar."
     },
     {
-      "heading": "FAQ — Preguntas frecuentes sobre el código CECILIA010 y YesStyle",
+      "heading": "FAQ: Preguntas frecuentes sobre el código CECILIA010 y YesStyle",
       "paragraphs": [
         "Preguntas recurrentes y sus respuestas para compradores internacionales:"
       ],
@@ -225,7 +231,7 @@
         "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas populares de K-beauty como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, séruns y protectores solares, lo que facilita armar una rutina coreana de skincare.",
         "¿Puedo cancelar o modificar mi pedido de YesStyle después de confirmarlo? Puedes cancelar pedidos que aún estén en estado 'Processing' directamente desde tu historial de pedidos. Una vez enviado, no es posible cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o productos solo son posibles antes del envío, contactando rápidamente al servicio de atención al cliente.",
         "¿Funciona el código CECILIA010 en la primera compra en YesStyle? Sí, el código CECILIA010 funciona independientemente de si es tu primera compra. Introdúcelo en el campo Reward Code en el checkout para obtener un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento, acumulable con cupones activos del sitio.",
-        "¿Es CECILIA010 un cupón de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
+        "¿Es CECILIA010 un código de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
       ]
     }
   ],
@@ -242,7 +248,7 @@
       "body": "El campo del código está en el checkout, en \"Reward Code\". Copia CECILIA010 antes de abrir la tienda y pégalo al finalizar tu pedido."
     }
   ],
-  "editorialNote": "Este artículo contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
+  "editorialNote": "Enlaces de afiliado: podemos recibir comisión por los enlaces y el Reward Code CECILIA010.",
   "locale": "es",
   "translationKey": "yesstyle-reward-code"
 }

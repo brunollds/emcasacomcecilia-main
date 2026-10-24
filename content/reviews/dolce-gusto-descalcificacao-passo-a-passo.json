@@ -36,6 +36,12 @@
   ],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo até o fim; o manual da Genio S pede isso a cada 3 a 4 meses. O gesto de ativação muda por modelo; veja a tabela no passo a passo."
+      ]
+    },
+    {
       "heading": "O que significa a luz laranja da Dolce Gusto",
       "paragraphs": [
         "A luz laranja no botão da Dolce Gusto não quer dizer que a máquina quebrou. É um aviso de manutenção: a cafeteira conta as extrações e, no manual da Genio S, o fabricante indica descalcificar depois de cerca de 300 preparos.",
@@ -255,7 +261,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este guia foi elaborado de forma editorial e independente, com base nos manuais e guias públicos de descalcificação da Nescafé Dolce Gusto e da Krups; as fotos do manual da Genio S Touch são do exemplar da autora. O passo a passo varia por modelo, então confirme sempre no manual da sua máquina. O site mantém parceria comercial com a loja oficial NESCAFÉ Dolce Gusto por meio do cupom CECI.",
+  "editorialNote": "Guia com base nos manuais oficiais. O cupom CECI é parceria e pode render comissão.",
   "relatedArticles": [
     {
       "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",

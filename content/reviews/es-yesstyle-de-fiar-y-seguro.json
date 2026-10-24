@@ -28,6 +28,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente, así que revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo ¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?."
+      ]
+    },
+    {
       "heading": "Información pública de la empresa",
       "paragraphs": [
         "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
@@ -86,6 +92,13 @@
       ]
     },
     {
+      "heading": "¿Se puede confiar en YesStyle?",
+      "paragraphs": [
+        "Sí, con las comprobaciones de siempre. YesStyle tiene sede en Hong Kong, existe desde 2006 y es subsidiaria de YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK). Se declara distribuidora autorizada de más de 400 marcas de belleza coreana, pero no hemos encontrado ninguna auditoría independiente que lo confirme.",
+        "En la práctica: pide solo en yesstyle.com, revisa el plazo de entrega en el carrito y, al recibir el pedido, comprueba lote, caducidad y precinto."
+      ]
+    },
+    {
       "heading": "Código de recompensa y descuento adicional",
       "paragraphs": [
         "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
@@ -111,7 +124,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Artículo editorial independiente. La mención del código CECILIA010 forma parte de la alianza de afiliados entre Em Casa com Cecília y YesStyle.",
+  "editorialNote": "Basado en datos públicos. El código CECILIA010 viene de una alianza de afiliados.",
   "relatedArticles": [
     {
       "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",

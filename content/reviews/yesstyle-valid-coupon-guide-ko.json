@@ -67,7 +67,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "본 문서에는 제휴 링크가 포함되어 있습니다. 링크를 통해 구매하거나 CECILIA010 코드를 사용하실 경우 소정의 수수료를 지급받을 수 있습니다.",
+  "editorialNote": "제휴 링크가 포함되어 있으며, YesStyle과 CECILIA010 이용 시 수수료를 받을 수 있습니다.",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ko",
@@ -75,6 +75,12 @@
     }
   ],
   "contentSections": [
+    {
+      "heading": "답변 요약",
+      "paragraphs": [
+        "CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다. YesStyle 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 두 입력란 사용법은 \"1단계: 공식 링크를 통해 쇼핑몰 접속\"부터 시작합니다."
+      ]
+    },
     {
       "heading": "인터넷의 YesStyle 쿠폰 다수가 적용되지 않는 이유",
       "paragraphs": [
@@ -123,7 +129,7 @@
       ]
     },
     {
-      "heading": "1단계 — 공식 링크를 통해 쇼핑몰 접속",
+      "heading": "1단계: 공식 링크를 통해 쇼핑몰 접속",
       "paragraphs": [
         "Cecília의 공식 인플루언서 링크를 통해 YesStyle에 접속합니다. 결제 시 코드를 넣기 전 추천인 혜택이 정상 등록되는 데 도움이 됩니다."
       ],
@@ -136,7 +142,7 @@
       ]
     },
     {
-      "heading": "2단계 — 장바구니에 상품 담기",
+      "heading": "2단계: 장바구니에 상품 담기",
       "paragraphs": [
         "원하는 화장품, 선크림, 세럼 등을 장바구니에 담습니다."
       ],
@@ -146,19 +152,19 @@
       "imageFit": "cover"
     },
     {
-      "heading": "3단계 — Coupon Code 입력란에 프로모션 쿠폰 입력",
+      "heading": "3단계: Coupon Code 입력란에 프로모션 쿠폰 입력",
       "paragraphs": [
         "결제 창에서 \"Coupon Code\" 상자를 찾아 진행 중인 프로모션 쿠폰 코드를 입력하고 \"적용(Apply)\"을 누릅니다."
       ]
     },
     {
-      "heading": "4단계 — Reward Code 입력란에 CECILIA010 입력",
+      "heading": "4단계: Reward Code 입력란에 CECILIA010 입력",
       "paragraphs": [
         "동일한 결제 페이지의 \"Reward Code / Influencer Code\" 상자에 CECILIA010을 입력하고 \"적용(Apply)\"을 누릅니다."
       ]
     },
     {
-      "heading": "5단계 — 중복 할인 금액 확인 및 결제 완료",
+      "heading": "5단계: 중복 할인 금액 확인 및 결제 완료",
       "paragraphs": [
         "최종 결제 요약 창에서 두 가지 할인(프로모션 쿠폰 + CECILIA010)이 모두 적용되었는지 확인 후 결제를 진행합니다."
       ],
@@ -188,7 +194,7 @@
       ]
     },
     {
-      "heading": "FAQ — YesStyle 쿠폰 자주 묻는 질문",
+      "heading": "YesStyle 쿠폰 자주 묻는 질문",
       "bullets": [
         "Coupon Code와 Reward Code의 차이는 무엇인가요? Coupon Code는 YesStyle이 제공하는 임시 프로모션 쿠폰입니다. CECILIA010은 Reward Code 입력란에 넣는 인플루언서 코드로 최대 5% 추가 할인을 제공합니다. 두 코드는 함께 중복 적용될 수 있습니다.",
         "YesStyle 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)를 말하며, Coupon Code 입력란과는 별도로 마련된 전용 입력란에 입력합니다. 저희 코드는 CECILIA010으로, 첫 주문 5%, 이후 주문 2% 할인을 받을 수 있습니다.",

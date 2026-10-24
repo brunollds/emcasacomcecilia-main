@@ -26,6 +26,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. O que pesa é a diferença de preço no dia da compra; veja o capítulo Veredito editorial."
+      ]
+    },
+    {
       "heading": "A família Genio S: por que tanta confusão?",
       "paragraphs": [
         "Ao pesquisar por uma cafeteira automática moderna da NESCAFÉ Dolce Gusto, a linha Genio S (fabricada pela Arno) é a que mais chama a atenção pelo design compacto e curvilíneo.",
@@ -175,7 +181,7 @@
         "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
         "As máquinas Genio S só fazem café? Não. Elas aceitam cápsulas do sistema NESCAFÉ Dolce Gusto ORIGINAL, incluindo opções de chocolate, cappuccino e chá, conforme disponibilidade do catálogo.",
         "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
-        "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente — os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
+        "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
         "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
         "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
       ]
@@ -189,7 +195,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este guia compara as especificações públicas da Genio S Basic, Plus e Touch divulgadas pela Arno. As impressões de uso próprio e as fotos feitas em casa se referem somente à Genio S Touch. O site Em Casa com Cecília mantém parceria comissionada com a Dolce Gusto por meio do cupom CECI.",
+  "editorialNote": "Compara fichas da Arno; só a Touch foi usada em casa. Parceria comissionada (cupom CECI).",
   "relatedArticles": [
     {
       "slug": "dolce-gusto-genio-s-touch-vale-a-pena",

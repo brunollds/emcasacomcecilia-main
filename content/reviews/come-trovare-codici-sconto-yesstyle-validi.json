@@ -68,7 +68,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "Questo articolo contiene link di affiliazione. Quando acquisti tramite i nostri link o usi il codice CECILIA010, potremmo ricevere una commissione senza alcun costo aggiuntivo per te.",
+  "editorialNote": "Contiene link di affiliazione: possiamo ricevere una commissione da YesStyle e CECILIA010.",
   "relatedArticles": [
     {
       "slug": "codice-ricompensa-yesstyle-cecilia010",
@@ -76,6 +76,12 @@
     }
   ],
   "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "CECILIA010 è un codice reward: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi. I coupon promozionali di YesStyle vanno nel campo Coupon Code e scadono presto. La guida ai due campi parte da \"Passo 1: accedi al negozio tramite il link ufficiale\"."
+      ]
+    },
     {
       "heading": "Perché la maggior parte dei coupon YesStyle trovati online non funziona?",
       "paragraphs": [
@@ -124,7 +130,7 @@
       ]
     },
     {
-      "heading": "Passo 1 — Accedi al negozio tramite il link ufficiale",
+      "heading": "Passo 1: accedi al negozio tramite il link ufficiale",
       "paragraphs": [
         "Apri YesStyle tramite il link ufficiale di Cecília. In questo modo l'attribuzione del referral viene registrata correttamente prima di inserire i codici al pagamento."
       ],
@@ -137,7 +143,7 @@
       ]
     },
     {
-      "heading": "Passo 2 — Prepara il carrello",
+      "heading": "Passo 2: prepara il carrello",
       "paragraphs": [
         "Scegli i cosmetici coreani o i prodotti di skincare che preferisci e aggiungili al carrello."
       ],
@@ -147,19 +153,19 @@
       "imageFit": "cover"
     },
     {
-      "heading": "Passo 3 — Applica il coupon promozionale nel campo Coupon Code",
+      "heading": "Passo 3: applica il coupon promozionale nel campo Coupon Code",
       "paragraphs": [
         "Nella schermata di pagamento, cerca la casella “Coupon Code”. Se su YesStyle c'è un coupon promozionale attivo, inseriscilo e clicca su “Applica”."
       ]
     },
     {
-      "heading": "Passo 4 — Incolla il codice CECILIA010 nel campo Reward Code",
+      "heading": "Passo 4: incolla il codice CECILIA010 nel campo Reward Code",
       "paragraphs": [
         "Nella stessa pagina di pagamento, vai alla casella “Reward Code / Influencer Code”. Inserisci CECILIA010 e clicca su “Applica”."
       ]
     },
     {
-      "heading": "Passo 5 — Conferma che gli sconti si sommano e concludi l'ordine",
+      "heading": "Passo 5: conferma che gli sconti si sommano e concludi l'ordine",
       "paragraphs": [
         "Controlla il riepilogo finale dell'ordine e verifica che compaiano entrambi gli sconti prima di pagare (il coupon promozionale e il codice CECILIA010)."
       ],
@@ -189,7 +195,7 @@
       ]
     },
     {
-      "heading": "FAQ — Domande frequenti sui coupon YesStyle",
+      "heading": "Domande frequenti sui coupon YesStyle",
       "bullets": [
         "Qual è la differenza tra Coupon Code e Reward Code su YesStyle? Il Coupon Code è un coupon promozionale temporaneo di YesStyle, da applicare nel campo “Coupon Code”. CECILIA010 è un Reward Code influencer da inserire nel campo “Reward Code”, che offre fino al 5% in più (5% sul 1º ordine / 2% sui successivi). Quando la campagna lo consente, i due si sommano al pagamento.",
         "Che cos'è il codice influencer di YesStyle? È il codice ricompensa (Reward Code), che si inserisce in un campo apposito del checkout, separato dal campo Coupon Code. Il nostro è CECILIA010: 5% di sconto sul primo ordine e 2% sugli ordini successivi.",

@@ -28896,7 +28896,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este artigo foi produzido a partir de nossa experiência real. O cupom CECILIA12 é parte de nossa parceria comercial com a Damie, sem custo adicional para você.",
+    "editorialNote": "Baseado no nosso uso. O CECILIA12 é parceria com a Damie e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena",
@@ -28913,10 +28913,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Como funciona a Poltrona Reclinável Damie 2.0",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O que pesa é quanto dos opcionais você vai usar; veja \"A Poltrona Damie 2.0 é boa? Nosso veredito\"."
+        ]
+      },
+      {
+        "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
           "A nova Poltrona Reclinável Damie 2.0 (versão 2026) é uma evolução relevante da linha de poltronas de cinema e amamentação da marca. Produzida sob medida pela indústria gaúcha Damie, ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
-          "A Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos.",
           "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
         ],
         "bullets": [
@@ -28926,7 +28931,7 @@ export const reviewsData: unknown[] = [
           "Cupom exclusivo: digite CECILIA12 no checkout oficial para obter 12% de desconto."
         ],
         "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
-        "emphasisAfterParagraph": 2,
+        "emphasisAfterParagraph": 1,
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
         "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
         "imageCaption": "Medidas informadas pela fabricante: 106,5 cm de altura, 89 cm de profundidade, 95 cm de largura e 174 cm quando quase totalmente reclinada.",
@@ -28939,7 +28944,7 @@ export const reviewsData: unknown[] = [
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
           "A configuração que estamos usando inclui massagem, motor independente de cabeça e pescoço, case fosco 3 em 1 com tomada, USB-A e USB-C, porta-copos, luminária, mesa de apoio e suporte com carregador para smartphones e tablets. Todos os opcionais encontraram utilidade na nossa rotina, mas a massagem foi o recurso favorito da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. A experiência de entrega foi ágil para um móvel produzido de forma personalizada.",
-          "As condições comerciais foram verificadas em 21 de julho de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros ou até 18 vezes com juros, além de possibilidade de frete grátis conforme a região. Essas condições podem ser alteradas pela fabricante."
+          "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste; nas outras regiões, o frete sai pelo CEP. Essas condições podem ser alteradas pela fabricante."
         ],
         "bullets": [
           "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
@@ -29058,16 +29063,24 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "FAQ — Dúvidas frequentes sobre a Poltrona Damie 2.0",
+        "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
+        "paragraphs": [
+          "Para nós, sim: a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Na nossa configuração (elétrica, com giro, balanço e massagem), os motores foram silenciosos e a massagem foi a favorita da Cecília.",
+          "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
+          "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes sobre a Poltrona Damie 2.0",
         "paragraphs": [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
         "bullets": [
-          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 21 de julho de 2026 e sujeitas a alteração pela fabricante.",
+          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 24 de outubro de 2026 e sujeitas a alteração pela fabricante.",
           "O Em Casa com Cecília possui parceria com a Damie? Sim. O cupom CECILIA12 faz parte de nossa parceria comercial com a Damie e pode gerar comissão para o blog em compras elegíveis, sem custo adicional para você. Nossa avaliação é baseada na experiência real com a poltrona em casa.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
-          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas. Condição verificada em 21 de julho de 2026 e sujeita aos termos vigentes da fabricante.",
+          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição verificada em 24 de outubro de 2026 e sujeita aos termos vigentes da fabricante.",
           "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
         ]
       }
@@ -29080,16 +29093,17 @@ export const reviewsData: unknown[] = [
   {
     "id": 25,
     "slug": "sofa-damie-modular-vale-a-pena",
-    "title": "Sofá Damie Modular: vale a pena?",
-    "type": "Reviews",
+    "title": "Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar",
+    "seoTitle": "Sofá modular Damie vale a pena? Entrega, puff e tecido",
+    "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha — com os pontos que eu observaria de novo antes de fechar a compra."
+      "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha, com os pontos que eu observaria de novo antes de fechar a compra."
     },
-    "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.",
+    "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher, e o que eu observaria de novo antes de fechar a compra.",
     "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
     "publishedAt": "26 Jun 2026",
     "publishedAtISO": "2026-06-26",
@@ -29102,18 +29116,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "A decisão de comprar um sofá modular",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A gente demorou pra decidir o sofá. Não porque não gostamos da Damie — já tínhamos as poltronas há meses e a experiência tinha sido boa. A demora foi porque sofá parece uma decisão mais definitiva. Poltrona você move, troca de canto, coloca num outro cômodo. Sofá, na nossa cabeça, é pra ficar.",
-          "E aí a gente começou a pesquisar. Olhou sofá em loja física, olhou online, comparou preço, viu review, viu reclamação. O problema sempre voltava ao mesmo: como levar um sofá de três lugares pra dentro de casa? Elevador pequeno, escada com curva, porta de entrada que não é das maiores. A gente já tinha sofrido com as poltronas — imagina um sofá inteiro, pesado, numa peça só.",
-          "Foi quando apareceu a palavra \"modular\" nos resultados de busca. Eu confesso que no começo achei que era moda, que era só um nome bonito. Mas quanto mais eu lia, mais eu entendia que modular não era sobre estilo — era sobre solução de problema."
+          "Para nós, o sofá modular da Damie valeu a pena: cada módulo chega em uma caixa, o que facilita entrar em casa, e o puff separado permite mudar a configuração. O que muda a escolha é medir o acesso e escolher o tecido pela rotina da casa. Veja o capítulo Vale a pena?"
         ]
       },
       {
-        "heading": "O que mudou na decisão",
+        "heading": "Por que escolhemos o modular",
         "paragraphs": [
-          "O ponto que virou a chave pra nós foi simples: como esse sofá vai entrar na casa? A gente tem corredor, tem curva, tem uma porta de quarto que estreita o caminho. Sofá convencional de três lugares já deu trabalho com as poltronas — imagina um sofá inteiro.",
-          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim — desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
+          "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
+          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim, desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
           "A montagem em si foi uma experiência. A gente abriu as caixas no meio da sala, separou as peças, e foi encaixando. Tem um momento específico, quando o último módulo encaixa no lugar, que você olha pro sofá pronto e pensa: \"nossa, a gente montou isso aqui.\" Não precisa de marceneiro, não precisa de encanador de móveis. É você, as caixas, e paciência."
         ],
         "image": "/images/reviews/sofa-damie-modular-puff.webp",
@@ -29121,25 +29133,26 @@ export const reviewsData: unknown[] = [
         "imageFit": "portrait"
       },
       {
+        "heading": "O puff separado",
         "paragraphs": [
-          "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala — quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
-          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa — não é mais um \"acessório\", é uma peça que a gente usa todo dia."
+          "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala: quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
+          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa: não é mais um \"acessório\", é uma peça que a gente usa todo dia."
         ]
       },
       {
         "heading": "O que eu observaria de novo antes de comprar",
         "paragraphs": [
-          "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho — não assuma que \"na caixa cabe em qualquer lugar\" sem checar. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
+          "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho: não assuma que \"na caixa cabe em qualquer lugar\" sem checar. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
           "Segundo: escolher o tecido pela rotina da casa, não pela foto. O Azul Denim nas imagens da Damie é lindo. Mas se você tem pet, criança ou mora em região quente, linho ou courino vão ser escolhas mais honestas com o dia a dia. Eu aprendi isso na prática: o tecido que mais brilha na foto não é sempre o que mais funciona no dia a dia.",
-          "Terceiro: aproveitar os 30 dias de teste. A Damie oferece devolução sem burocracia dentro desse prazo. É literalmente um test drive em casa — e isso muda o peso da decisão quando você está comprando online sem ter sentado no sofá antes. A gente não precisou usar, mas saber que podia devolver se não desse certo deixou a decisão mais leve.",
-          "Quarto: pense no futuro. Modular não é só pra entrar na casa — é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
+          "Terceiro: aproveitar os 30 dias de teste. A Damie oferece devolução sem burocracia dentro desse prazo. É literalmente um test drive em casa, e isso muda o peso da decisão quando você está comprando online sem ter sentado no sofá antes. A gente não precisou usar, mas saber que podia devolver se não desse certo deixou a decisão mais leve.",
+          "Quarto: pense no futuro. Modular não é só pra entrar na casa: é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
         ]
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
-          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Não é a compra mais barata de móvel — é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
-          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou — uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
+          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
+          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou: uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
           "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
         ],
         "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
@@ -29147,35 +29160,21 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Links relacionados",
+        "heading": "Guia, review completo e cupom",
         "paragraphs": [
-          "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie."
+          "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie. Se preferir ir direto para a experiência de uso (entrega, montagem, primeiros meses), o review completo está disponível. E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
         ],
         "links": [
           {
             "label": "Sofá Modular Damie: qual modelo escolher?",
             "href": "https://damie.emcasacomcecilia.com/guias/sofa-modular-damie-qual-modelo-escolher?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
-          }
-        ]
-      },
-      {
-        "paragraphs": [
-          "Se preferir ir direto pra experiência de uso — entrega, montagem, primeiros meses — o review completo está disponível."
-        ],
-        "links": [
+          },
           {
             "label": "Review completo: sofá modular Damie",
             "href": "https://damie.emcasacomcecilia.com/resenhas/sofa-modular-damie?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
-          }
-        ]
-      },
-      {
-        "paragraphs": [
-          "E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
-        ],
-        "links": [
+          },
           {
-            "label": "Cupom CECILIA12 — 12% OFF no site da Damie",
+            "label": "Cupom CECILIA12, 12% OFF no site da Damie",
             "href": "/cupons/damie"
           }
         ]
@@ -29202,17 +29201,18 @@ export const reviewsData: unknown[] = [
         "title": "Dicas & Ofertas: cupons e promoções do mês"
       }
     ],
-    "editorialNote": "Este post contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
+    "editorialNote": "Review com link afiliado: comissão sem custo extra para você."
   },
   {
     "id": 20,
     "slug": "codigo-cecilia010-yesstyle-como-usar",
     "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code",
+    "seoTitle": "CECILIA010 na YesStyle: como usar o Reward Code",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
-    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra — 5% na primeira compra e 2% nas recorrentes — combinável com cupons promocionais elegíveis conforme o checkout.",
+    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra (5% na primeira compra e 2% nas recorrentes), combinável com cupons promocionais elegíveis conforme o checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
     "updatedAt": "2026-10-12",
@@ -29225,7 +29225,7 @@ export const reviewsData: unknown[] = [
       "Pode ser usado junto com cupons promocionais elegíveis no site",
       "Frete grátis a partir de um valor mínimo, que aparece no checkout",
       "Catálogo extenso de K-Beauty, moda coreana e J-Beauty",
-      "Produtos 100% autênticos — distribuidora autorizada",
+      "Produtos 100% autênticos, distribuidora autorizada",
       "Site com navegação e checkout em português"
     ],
     "cons": [
@@ -29235,6 +29235,12 @@ export const reviewsData: unknown[] = [
       "Preços finais cotados em dólar (sujeito à variação cambial)"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O CECILIA010 é um código de recompensa da YesStyle que dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do campo de cupom, e soma com os cupons elegíveis. O que pesa é usar cada campo certo; veja o capítulo Como usar o código CECILIA010 na YesStyle: passo a passo."
+        ]
+      },
       {
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
@@ -29257,41 +29263,7 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/yesstyle"
           }
         ],
-        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle — ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
-      },
-      {
-        "heading": "O que é a YesStyle?",
-        "paragraphs": [
-          "A YesStyle (também escrita como Yes Style) é uma das maiores e mais completas plataformas de e-commerce do mundo dedicadas à moda coreana, K-beauty, J-beauty (beleza japonesa) e produtos asiáticos em geral. Fundada em 2006, com sede em Hong Kong, a empresa se tornou um ponto de referência global para quem busca acessar o universo da beleza coreana e da moda oriental com confiança e autenticidade.",
-          "A YesStyle atende clientes em mais de 150 países e regiões, com versão traduzida em português e conversão de preços para facilitar a navegação no mercado brasileiro. O catálogo é gigantesco: milhares de produtos de skincare coreano, maquiagem de marcas consagradas, moda conceitual, acessórios e suplementos de bem-estar."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Página inicial da YesStyle em português com banner de promoção de K-beauty e produtos em destaque.",
-        "imageCaption": "A YesStyle reúne campanhas promocionais, produtos de K-beauty e navegação traduzida para português.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (Beleza Coreana): séruns de glass skin, essências, tônicos, protetores solares e produtos para a famosa rotina de cuidados asiática",
-          "Moda Coreana e Asiática: roupas, sapatos, bolsas e acessórios inspirados nas tendências urbanas de Seul e Tóquio",
-          "J-Beauty e Bem-Estar: marcas japonesas renomadas (como Hada Labo) e suplementos alimentares"
-        ]
-      },
-      {
-        "heading": "K-Beauty no Brasil: o nicho que está explodindo em 2026",
-        "paragraphs": [
-          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos.",
-          "Os dados mostram a força desse mercado: as buscas por K-beauty cresceram 70% em 2026 no Brasil, impulsionadas pela busca pelo efeito \"glass skin\" (pele com brilho saudável e aparência translúcida de vidro). As importações de produtos coreanos de beleza dispararam, consolidando o Brasil como o principal polo da América Latina para esse tipo de rotina. Buscas por termos como \"peeling coreano\" subiram incríveis 1.150%, provando que o público brasileiro está cada vez mais atento a essas soluções."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
-        "imageCaption": "Além da K-beauty, a YesStyle também organiza produtos por regiões e tendências asiáticas.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: pele intensamente hidratada, luminosa e uniforme",
-          "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
-          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
-        ],
-        "emphasis": "Dica da Cecília: Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty originais, pois o site compra direto das marcas e possui um portfólio muito maior do que os revendedores locais no Brasil.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle: ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
       },
       {
         "heading": "Código de Recompensa vs. Cupom: a diferença crucial para economizar",
@@ -29308,7 +29280,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sim. O CECILIA010 é um código de recompensa de influenciador registrado no programa oficial de parceiros da YesStyle. Isso significa que ele foi criado especificamente para leitoras do blog Em Casa com Cecília que compram K-beauty e produtos asiáticos.",
           "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código.",
-          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês — é o melhor dos dois mundos."
+          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês. É o melhor dos dois mundos."
         ]
       },
       {
@@ -29362,9 +29334,9 @@ export const reviewsData: unknown[] = [
           "O stacking (empilhamento de descontos) aqui significa usar os dois campos principais do checkout: o campo de código de recompensa e o campo de cupom. Como eu ainda não fiz uma compra completa na YesStyle, prefiro manter a recomendação no que é mais seguro: aplicar o CECILIA010 no campo Reward Code e, se houver um cupom ativo no site, aplicar esse cupom no campo Coupon Code."
         ],
         "bullets": [
-          "Passo 1 — Código de Recompensa: aplique CECILIA010 no campo Reward Code para ativar até 5% extra (5% 1ª compra / 2% recorrente).",
-          "Passo 2 — Cupom ativo: aplique cupons promocionais elegíveis do site no campo Coupon Code.",
-          "Passo 3 — Conferência final: antes de pagar, confirme no resumo do pedido se o desconto extra do CECILIA010 e o cupom ativo apareceram corretamente."
+          "Passo 1, código de recompensa: aplique CECILIA010 no campo Reward Code para ativar até 5% extra (5% 1ª compra / 2% recorrente).",
+          "Passo 2, cupom ativo: aplique cupons promocionais elegíveis do site no campo Coupon Code.",
+          "Passo 3, conferência final: antes de pagar, confirme no resumo do pedido se o desconto extra do CECILIA010 e o cupom ativo apareceram corretamente."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Resumo do pedido na YesStyle mostrando cupom e código CECILIA010 aplicados com descontos separados.",
@@ -29386,6 +29358,38 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: indique amigos e ganhe pontos",
           "Student Program: descontos especiais para estudantes"
         ]
+      },
+      {
+        "heading": "O que é a YesStyle?",
+        "paragraphs": [
+          "A YesStyle (também escrita como Yes Style) é uma das maiores e mais completas plataformas de e-commerce do mundo dedicadas à moda coreana, K-beauty, J-beauty (beleza japonesa) e produtos asiáticos em geral. Fundada em 2006, com sede em Hong Kong, a empresa se tornou um ponto de referência global para quem busca acessar o universo da beleza coreana e da moda oriental com confiança e autenticidade.",
+          "A YesStyle atende clientes em mais de 150 países e regiões, com versão traduzida em português e conversão de preços para facilitar a navegação no mercado brasileiro. O catálogo é gigantesco: milhares de produtos de skincare coreano, maquiagem de marcas consagradas, moda conceitual, acessórios e suplementos de bem-estar."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Página inicial da YesStyle em português com banner de promoção de K-beauty e produtos em destaque.",
+        "imageCaption": "A YesStyle reúne campanhas promocionais, produtos de K-beauty e navegação traduzida para português.",
+        "imageFit": "wide",
+        "bullets": [
+          "K-Beauty (Beleza Coreana): séruns de glass skin, essências, tônicos, protetores solares e produtos para a famosa rotina de cuidados asiática",
+          "Moda Coreana e Asiática: roupas, sapatos, bolsas e acessórios inspirados nas tendências urbanas de Seul e Tóquio",
+          "J-Beauty e Bem-Estar: marcas japonesas renomadas (como Hada Labo) e suplementos alimentares"
+        ]
+      },
+      {
+        "heading": "K-Beauty no Brasil: o que as brasileiras buscam",
+        "paragraphs": [
+          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
+        "imageCaption": "Além da K-beauty, a YesStyle também organiza produtos por regiões e tendências asiáticas.",
+        "imageFit": "wide",
+        "bullets": [
+          "Glass skin: pele intensamente hidratada, luminosa e uniforme",
+          "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
+          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
+        ],
+        "emphasis": "Dica da Cecília: Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty originais, pois o site compra direto das marcas e possui um portfólio muito maior do que os revendedores locais no Brasil."
       },
       {
         "heading": "O que comprar na YesStyle: guia por categoria",
@@ -29415,7 +29419,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Taxas e importação: a verdade que você precisa saber",
+        "heading": "Taxas e importação: o que pode ser cobrado",
         "paragraphs": [
           "Compras internacionais podem passar por análise alfandegária no Brasil e podem gerar impostos, taxas de importação, cobranças administrativas ou outras despesas relacionadas à liberação do pedido. Por isso, além de calcular produto e frete, vale considerar a possibilidade de custo extra antes de comprar.",
           "Segundo a política informada pela própria YesStyle, pedidos com valor inferior a US$ 1.000 podem ser elegíveis a reembolso de impostos e taxas alfandegárias relacionados ao processamento e liberação do pedido, desde que você pague a taxa primeiro, guarde um comprovante válido e envie a solicitação ao atendimento da YesStyle em até 30 dias a partir da data do comprovante. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle."
@@ -29432,14 +29436,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dicas para comprar na YesStyle: como encontrar as melhores ofertas",
         "paragraphs": [
-          "Como alguém que acompanha a YesStyle há um bom tempo, reuni aqui minhas melhores dicas para você economizar:",
-          "Como esses códigos mudam com frequência, o mais seguro é verificar a página de promoções da própria YesStyle antes de finalizar a compra. Depois, aplique o cupom ativo no campo \"Coupon Code\" e mantenha o CECILIA010 no campo \"Reward Code\"."
+          "Reuni aqui dicas para você economizar na YesStyle:"
         ],
         "bullets": [
           "Flash Sales: promoções relâmpago de até 50% OFF por tempo limitado. Entre no site diariamente e adicione produtos à Wishlist.",
           "Explore os Lucky Bundles: pacotes de produtos com preço reduzido (skincare, maquiagem, kits temáticos como \"Glass Skin Routine\").",
           "Use a Wishlist inteligentemente: receba notificações quando o preço cair, organize compras futuras, planeje para aproveitar o frete grátis.",
-          "Aproveite o Elite Club: programa de fidelidade com pontos acumulados — Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Aproveite o Elite Club: programa de fidelidade com pontos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "Não ignore os produtos \"Daily Free\": produtos gratuitos em compras acima de certo valor.",
           "Leia as avaliações (reviews): fotos reais, comentários sobre textura, cheiro e resultado, informações sobre validade.",
           "Compare com o preço no Brasil: pesquise em Beleza na Web, Sephora e revendedores de K-beauty antes de comprar.",
@@ -29453,8 +29456,8 @@ export const reviewsData: unknown[] = [
           "Reunimos as dúvidas mais comuns enviadas por leitoras sobre como usar o código da Cecília e economizar nas compras de K-beauty."
         ],
         "bullets": [
-          "O CECILIA010 é um cupom de desconto? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
-          "Posso usar o CECILIA010 junto com cupons? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
+          "O CECILIA010 é cupom ou código de recompensa? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
+          "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
           "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
           "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 150 países e regiões, produtos autênticos, criptografia SSL.",
           "Quanto tempo demora para chegar no Brasil? O prazo estimado aparece no checkout, depois do CEP. O tempo na alfândega pode adicionar dias extras.",
@@ -29462,7 +29465,7 @@ export const reviewsData: unknown[] = [
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A conversão é feita automaticamente pela operadora.",
           "Os produtos são originais? Sim. A YesStyle é distribuidora autorizada das marcas. Compra diretamente dos fabricantes ou distribuidores oficiais.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
-          "O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula — Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
           "O frete grátis funciona para todo o Brasil? O valor mínimo para frete grátis aparece no checkout, depois do CEP. O prazo pode ser mais longo para regiões distantes.",
           "Como rastrear meu pedido da YesStyle? Após a confirmação de envio, a YesStyle envia um e-mail com o código de rastreamento internacional. Você também pode acessar o histórico de pedidos logado na sua conta. O rastreamento funciona via serviços como 17track ou no próprio site da transportadora. O prazo estimado aparece no checkout e pode variar na alfândega brasileira.",
@@ -29470,8 +29473,8 @@ export const reviewsData: unknown[] = [
           "As roupas da YesStyle usam tamanhos asiáticos. Como escolher o meu? Sim, a maioria das roupas segue a numeração asiática, que costuma ser menor que a brasileira. Sempre consulte a tabela de medidas disponível na página de cada produto (geralmente em centímetros) e compare com suas medidas corporais. Recomendamos pedir um ou dois tamanhos acima do habitual, especialmente em peças mais justas.",
           "Quais são as marcas de K-beauty mais vendidas na YesStyle? A YesStyle é distribuidora autorizada de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. O site organiza os produtos por categorias como essências, tônicos, séruns e protetores solares, facilitando a busca por rotina de skincare coreana.",
           "Posso cancelar ou alterar um pedido na YesStyle depois de confirmado? A YesStyle permite cancelar pedidos que ainda não foram enviados (status 'Processing') diretamente pelo histórico de pedidos na sua conta. Após o envio, não é possível cancelar, mas você pode recusar a entrega quando chegar ao Brasil. Alterações de endereço ou produtos só são possíveis antes do envio, via atendimento ao cliente.",
-          "Cupom YesStyle primeira compra: como usar o CECILIA010? O código CECILIA010 funciona em qualquer compra, garantindo até 5% extra (5% na primeira compra e 2% em compras recorrentes), combinável com cupons promocionais elegíveis confirmados no checkout.",
-          "YesStyle cupom influencer: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede até 5% de desconto extra (5% na primeira compra e 2% em compras recorrentes) no checkout e pode ser combinado com cupons promocionais elegíveis, diferente de códigos de primeira compra que geralmente não são cumulativos."
+          "Código YesStyle para primeira compra: como usar o CECILIA010? O código CECILIA010 funciona em qualquer compra, garantindo até 5% extra (5% na primeira compra e 2% em compras recorrentes), combinável com cupons promocionais elegíveis confirmados no checkout.",
+          "Código de influenciador YesStyle: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede até 5% de desconto extra (5% na primeira compra e 2% em compras recorrentes) no checkout e pode ser combinado com cupons promocionais elegíveis, diferente de códigos de primeira compra que geralmente não são cumulativos."
         ]
       }
     ],
@@ -29485,18 +29488,19 @@ export const reviewsData: unknown[] = [
     "notes": [
       {
         "label": "Dica da Cecília",
-        "body": "O campo do código fica no checkout, em \"Reward Code\". Copie o CECILIA010 antes de abrir a loja — assim é só colar na hora de fechar o pedido.",
+        "body": "O campo do código fica no checkout, em \"Reward Code\". Copie o CECILIA010 antes de abrir a loja. Assim é só colar na hora de fechar o pedido.",
         "anchor": "como-funciona-o-codigo-cecilia010"
       }
     ],
-    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
+    "editorialNote": "Links de afiliado: podemos receber comissão pelos links e pelo Reward Code CECILIA010.",
     "locale": "pt",
     "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 234,
     "slug": "como-encontrar-cupons-yesstyle-validos",
-    "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010",
+    "title": "Como encontrar cupons YesStyle válidos e usar com o CECILIA010",
+    "seoTitle": "Cupons YesStyle válidos: como achar e usar com o CECILIA010",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -29562,7 +29566,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
+    "editorialNote": "Contém links de afiliado: podemos receber comissão pela YesStyle e pelo CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -29574,6 +29578,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O CECILIA010 é código de recompensa, vai no campo Reward Code e dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Os cupons de promoção da YesStyle vão no campo Coupon Code e vencem rápido. O passo a passo dos dois campos começa em \"Passo 1: acesse a loja pelo link oficial\"."
+        ]
+      },
       {
         "heading": "Por que a maioria dos cupons da YesStyle na internet não funciona?",
         "paragraphs": [
@@ -29622,7 +29632,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 1 — Acesse a loja pelo link oficial",
+        "heading": "Passo 1: acesse a loja pelo link oficial",
         "paragraphs": [
           "Abra a YesStyle pelo link oficial de influenciadora da Cecília. Isso ajuda a registrar corretamente a indicação antes de você aplicar os códigos no checkout."
         ],
@@ -29635,7 +29645,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 2 — Monte seu carrinho de compras",
+        "heading": "Passo 2: monte seu carrinho de compras",
         "paragraphs": [
           "Escolha seus cosméticos coreanos, protetores solares, séruns ou itens de moda favoritos e adicione-os à sua sacola de compras."
         ],
@@ -29645,19 +29655,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Passo 3 — Aplique o cupom da promoção no campo Coupon Code",
+        "heading": "Passo 3: aplique o cupom da promoção no campo Coupon Code",
         "paragraphs": [
           "Na tela de checkout, localize a caixa \"Coupon Code\" (Código de Cupom). Se houver um cupom de promoção ativo na YesStyle no momento, digite o código e clique em \"Aplicar\"."
         ]
       },
       {
-        "heading": "Passo 4 — Cole o código CECILIA010 no campo Reward Code",
+        "heading": "Passo 4: cole o código CECILIA010 no campo Reward Code",
         "paragraphs": [
           "Na mesma página de checkout, acesse o campo separado \"Reward Code / Influencer Code\" (Código de Recompensa). Digite o código CECILIA010 e clique em \"Aplicar\"."
         ]
       },
       {
-        "heading": "Passo 5 — Confirme o desconto acumulado e finalize o pedido",
+        "heading": "Passo 5: confirme o desconto acumulado e finalize o pedido",
         "paragraphs": [
           "Verifique o resumo final do seu pedido e confirme se o resumo exibe os dois descontos antes de finalizar a compra (o cupom de promoção e o código de recompensa CECILIA010)."
         ],
@@ -29687,12 +29697,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Dúvidas frequentes sobre cupons da YesStyle",
+        "heading": "Perguntas frequentes sobre cupons da YesStyle",
         "paragraphs": [
           "Reunimos as principais dúvidas dos leitores sobre como usar cupons e códigos de recompensa na YesStyle:"
         ],
         "bullets": [
-          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra — 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
+          "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra: 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
           "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
@@ -29734,7 +29744,7 @@ export const reviewsData: unknown[] = [
       "Can be combined with eligible promo coupons on the site",
       "Free shipping above a minimum order value that depends on your country",
       "Vast catalog of K-Beauty, J-Beauty, and Korean fashion",
-      "100% authentic products — authorized distributor",
+      "100% authentic products, authorized distributor",
       "Site version available in English for international shoppers"
     ],
     "cons": [
@@ -29744,6 +29754,12 @@ export const reviewsData: unknown[] = [
       "Final billing in USD (subject to bank exchange rates)"
     ],
     "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "CECILIA010 is a YesStyle reward code that gives up to 5% extra: 5% on your first order and 2% on later ones. It goes in the Reward Code field, separate from the coupon field, and stacks with eligible coupons. What matters is filling each field correctly; see the chapter How to use the code CECILIA010 on YesStyle: step-by-step."
+        ]
+      },
       {
         "heading": "How the code CECILIA010 works",
         "paragraphs": [
@@ -29759,38 +29775,7 @@ export const reviewsData: unknown[] = [
           "Stackable: YES! You can use CECILIA010 with eligible promo coupons on the same order",
           "Validity: Active influencer program code (regularly verified)"
         ],
-        "emphasis": "Cecilia Tip: The code CECILIA010 does not cancel YesStyle promo coupons — it adds up to 5% extra (5% 1st order / 2% returning) on top of eligible coupons! Always fill both discount fields at checkout to maximize your savings."
-      },
-      {
-        "heading": "What is YesStyle?",
-        "paragraphs": [
-          "YesStyle is one of the world's largest and most trusted e-commerce platforms for Korean skincare (K-beauty), Japanese beauty (J-beauty), Asian fashion, and accessories. Founded in 2006 and based in Hong Kong, the company has become a global destination for authentic products.",
-          "YesStyle ships to more than 150 countries and regions, providing localized currency conversion to make shopping easier. Its catalog is massive: thousands of skincare products, cosmetics, trendy clothing, and lifestyle items."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle homepage showing K-beauty promotional banner and featured items.",
-        "imageCaption": "YesStyle brings together promotional campaigns, authentic K-beauty products, and direct shipping.",
-        "bullets": [
-          "K-Beauty: glass skin serums, essences, toners, sunscreens, and everything for the famous Asian skincare routine",
-          "Asian & Korean Fashion: clothing, shoes, bags, and accessories inspired by Seoul and Tokyo urban trends",
-          "J-Beauty & Wellness: renowned Japanese brands (like Hada Labo) and health supplements"
-        ]
-      },
-      {
-        "heading": "K-Beauty: the global skincare phenomenon",
-        "paragraphs": [
-          "Korean beauty (K-beauty) has taken the global skincare market by storm. What started as a niche trend has now become a central part of beauty routines worldwide.",
-          "Consumers are highly drawn to the \"glass skin\" effect (luminous, intensely hydrated, and clear skin). Ingredients like Centella Asiatica, Niacinamida, Snail Mucin, and Hyaluronic Acid are widely sought after. YesStyle is one of the most reliable and affordable ways to source these authentic products directly from Asian manufacturers."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "YesStyle region categories for Japanese beauty, Chinese beauty, and Southeast Asian beauty.",
-        "imageCaption": "Beyond K-beauty, YesStyle organizes products by region and J-beauty trends.",
-        "bullets": [
-          "Glass skin: intensely hydrated, radiant, and even-toned skin",
-          "Korean routine: focused on steps like double cleansing, hydrating toners, and nourishing essences",
-          "Key ingredients: centella asiatica, snail mucin, propolis, and hyaluronic acid"
-        ],
-        "emphasis": "Cecilia Tip: Shopping on YesStyle is one of the safest ways to get genuine K-beauty, as they buy directly from brands and offer a far wider selection than local resellers."
+        "emphasis": "Cecilia Tip: The code CECILIA010 does not cancel YesStyle promo coupons: it adds up to 5% extra (5% 1st order / 2% returning) on top of eligible coupons! Always fill both discount fields at checkout to maximize your savings."
       },
       {
         "heading": "Reward Code vs. Coupon Code: the difference you need to know",
@@ -29853,9 +29838,9 @@ export const reviewsData: unknown[] = [
           "Discount stacking means filling both main fields at checkout: the reward code box and the coupon code box. To ensure a safe order, apply CECILIA010 in the Reward Code field, and apply any active promotional code in the Coupon Code field."
         ],
         "bullets": [
-          "Step 1 — Reward Code: enter CECILIA010 in the Reward Code field to add the Up to 5% extra (5% 1st order / 2% returning).",
-          "Step 2 — Active Coupon: enter any valid site coupon in the Coupon Code field.",
-          "Step 3 — Final check: verify in your order summary that both the Up to 5% extra (5% 1st order / 2% returning) discount from CECILIA010 and the eligible promo coupon are listed before paying."
+          "Step 1 (Reward Code): enter CECILIA010 in the Reward Code field to add the Up to 5% extra (5% 1st order / 2% returning).",
+          "Step 2 (Active Coupon): enter any valid site coupon in the Coupon Code field.",
+          "Step 3 (Final check): verify in your order summary that both the Up to 5% extra (5% 1st order / 2% returning) discount from CECILIA010 and the eligible promo coupon are listed before paying."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyle order summary showing both coupon code and CECILIA010 applied.",
@@ -29877,6 +29862,37 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: refer friends to earn shopping credit",
           "Student Program: special discounts for students"
         ]
+      },
+      {
+        "heading": "What is YesStyle?",
+        "paragraphs": [
+          "YesStyle is one of the world's largest and most trusted e-commerce platforms for Korean skincare (K-beauty), Japanese beauty (J-beauty), Asian fashion, and accessories. Founded in 2006 and based in Hong Kong, the company has become a global destination for authentic products.",
+          "YesStyle ships to more than 150 countries and regions, providing localized currency conversion to make shopping easier. Its catalog is massive: thousands of skincare products, cosmetics, trendy clothing, and lifestyle items."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "YesStyle homepage showing K-beauty promotional banner and featured items.",
+        "imageCaption": "YesStyle brings together promotional campaigns, authentic K-beauty products, and direct shipping.",
+        "bullets": [
+          "K-Beauty: glass skin serums, essences, toners, sunscreens, and everything for the famous Asian skincare routine",
+          "Asian & Korean Fashion: clothing, shoes, bags, and accessories inspired by Seoul and Tokyo urban trends",
+          "J-Beauty & Wellness: renowned Japanese brands (like Hada Labo) and health supplements"
+        ]
+      },
+      {
+        "heading": "K-Beauty: the global skincare phenomenon",
+        "paragraphs": [
+          "Korean beauty (K-beauty) has taken the global skincare market by storm. What started as a niche trend has now become a central part of beauty routines worldwide.",
+          "Consumers are highly drawn to the \"glass skin\" effect (luminous, intensely hydrated, and clear skin). Ingredients like Centella Asiatica, Niacinamida, Snail Mucin, and Hyaluronic Acid are widely sought after. YesStyle is one of the most reliable and affordable ways to source these authentic products directly from Asian manufacturers."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "YesStyle region categories for Japanese beauty, Chinese beauty, and Southeast Asian beauty.",
+        "imageCaption": "Beyond K-beauty, YesStyle organizes products by region and J-beauty trends.",
+        "bullets": [
+          "Glass skin: intensely hydrated, radiant, and even-toned skin",
+          "Korean routine: focused on steps like double cleansing, hydrating toners, and nourishing essences",
+          "Key ingredients: centella asiatica, snail mucin, propolis, and hyaluronic acid"
+        ],
+        "emphasis": "Cecilia Tip: Shopping on YesStyle is one of the safest ways to get genuine K-beauty, as they buy directly from brands and offer a far wider selection than local resellers."
       },
       {
         "heading": "What to buy on YesStyle: guide by category",
@@ -29921,7 +29937,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Cecilia Tip: Check YesStyle's official help pages regarding customs refunds before ordering, as import regulations and store policies can change."
       },
       {
-        "heading": "FAQ — Frequently asked questions about CECILIA010 and YesStyle",
+        "heading": "FAQ: Frequently asked questions about CECILIA010 and YesStyle",
         "paragraphs": [
           "Common questions and answers regarding the code and shopping on YesStyle:"
         ],
@@ -29937,10 +29953,10 @@ export const reviewsData: unknown[] = [
           "How do I track my YesStyle order after it ships? Once your order ships, YesStyle sends an international tracking number via email and displays it in your account order history. You can track parcels using 17track or the carrier's own website. The delivery estimate for your country appears at checkout, and customs can add a few days.",
           "What should I do if my YesStyle package is held by customs? If your local customs office holds the package, you may need to pay import duties or VAT. According to YesStyle's policy, eligible orders under US$ 1,000 may qualify for a store-credit refund of customs fees if you submit a valid receipt and claim via customer support within 30 days. Always check your country's import threshold before ordering.",
           "Does YesStyle clothing run small? How do I choose the right Asian size? Yes, most YesStyle apparel follows Asian sizing, which tends to run smaller than US or European sizes. Each product page includes a size chart in centimeters. We recommend measuring yourself and comparing with the chart, and sizing up one or two sizes for a comfortable fit, especially for fitted styles.",
-          "Which K-beauty brands are bestsellers on YesStyle? YesStyle is an authorized distributor of popular K-beauty brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, and Haruharu. The site categorizes products by skincare steps—essences, toners, serums, and sunscreens—making it easy to build a Korean skincare routine.",
+          "Which K-beauty brands are bestsellers on YesStyle? YesStyle is an authorized distributor of popular K-beauty brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, and Haruharu. The site categorizes products by skincare steps (essences, toners, serums, and sunscreens), making it easy to build a Korean skincare routine.",
           "Can I cancel or change my YesStyle order after placing it? You can cancel orders that are still in 'Processing' status directly from your order history. Once shipped, cancellation is not possible, but you may refuse delivery upon arrival. Address or item changes are only possible before shipping by contacting customer support promptly.",
           "Does the CECILIA010 code work for first-time YesStyle buyers? Yes, CECILIA010 works for both new and returning buyers, offering Up to 5% extra (5% 1st order / 2% returning). Enter it in the Reward Code field at checkout, stackable with eligible promo coupons.",
-          "Is CECILIA010 a YesStyle influencer coupon? CECILIA010 is a registered influencer reward code. It gives Up to 5% extra (5% 1st order / 2% returning) off at checkout and stacks with active promo coupons, unlike first-purchase codes that are usually not cumulative."
+          "Is CECILIA010 a YesStyle influencer code? CECILIA010 is a registered influencer reward code. It gives Up to 5% extra (5% 1st order / 2% returning) off at checkout and stacks with active promo coupons, unlike first-purchase codes that are usually not cumulative."
         ]
       }
     ],
@@ -29957,7 +29973,7 @@ export const reviewsData: unknown[] = [
         "body": "The code field is at checkout, under \"Reward Code\". Copy CECILIA010 before you open the store so you can just paste it when placing your order."
       }
     ],
-    "editorialNote": "This article contains affiliate links. If you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
+    "editorialNote": "Affiliate links: we may earn a commission from the links and the Reward Code CECILIA010.",
     "locale": "en",
     "translationKey": "yesstyle-reward-code"
   },
@@ -29982,7 +29998,7 @@ export const reviewsData: unknown[] = [
       "Se puede usar junto con cupones promocionales elegibles en el sitio",
       "Envío gratis a partir de un importe mínimo que depende de tu país",
       "Catálogo extenso de K-Beauty, moda coreana y J-Beauty",
-      "Productos 100% auténticos — distribuidor autorizado",
+      "Productos 100% auténticos, distribuidor autorizado",
       "Sitio web disponible en español para compradores internacionales"
     ],
     "cons": [
@@ -29992,6 +30008,12 @@ export const reviewsData: unknown[] = [
       "Facturación final en USD (sujeto a tipos de cambio bancarios)"
     ],
     "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "CECILIA010 es un código de recompensa de YesStyle que da hasta un 5% extra: 5% en la primera compra y 2% en las siguientes. Va en el campo Reward Code, aparte del de cupón, y se suma a los cupones elegibles. Lo que pesa es usar bien cada campo; mira Cómo usar el código CECILIA010 en YesStyle: paso a paso."
+        ]
+      },
       {
         "heading": "Cómo funciona el código CECILIA010",
         "paragraphs": [
@@ -30007,38 +30029,7 @@ export const reviewsData: unknown[] = [
           "Acumulable: ¡SÍ! Puedes usar CECILIA010 + cupones promocionales elegibles en el mismo pedido",
           "Validez: Código activo en el programa oficial de influencers (verificado regularmente)"
         ],
-        "emphasis": "Consejo de Cecilia: El código CECILIA010 no anula los cupones promocionales elegibles de YesStyle — ¡añade hasta un 5% extra (5% 1ª compra / 2% habitual) a los cupones elegibles!"
-      },
-      {
-        "heading": "¿Qué es YesStyle?",
-        "paragraphs": [
-          "YesStyle es una de las tiendas online más grandes del mundo especializada en moda asiática, cosmética coreana (K-Beauty), belleza japonesa (J-Beauty) y accesorios. Fundada en 2006 y con sede en Hong Kong, se ha convertido en el referente global para conseguir productos originales de marcas asiáticas.",
-          "YesStyle realiza envíos a más de 150 países y regiones, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Página de inicio de YesStyle con banner de ofertas de K-beauty.",
-        "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y envío internacional directo.",
-        "bullets": [
-          "K-Beauty: séruns de glass skin, esencias, tónicos y productos para la famosa rutina de skincare asiática",
-          "Moda Coreana: ropa, calzado, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
-          "J-Beauty y Bienestar: marcas japonesas renombradas (como Hada Labo) y suplementos"
-        ]
-      },
-      {
-        "heading": "K-Beauty: la revolución del skincare",
-        "paragraphs": [
-          "La cosmética coreana (K-beauty) ha conquistado el mercado de la belleza a nivel mundial. Lo que empezó como una tendencia de nicho es ahora parte esencial del cuidado de la piel.",
-          "Los consumidores buscan el efecto \"glass skin\" (piel luminosa, uniforme y muy hidratada). Ingredientes como Centella Asiática, Niacinamida y Baba de Caracol (Snail Mucin) son clave. YesStyle es uno de los canales más seguros para comprar estos productos directamente de distribuidores autorizados en Asia."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Secciones de YesStyle divididas por regiones de belleza asiática.",
-        "imageCaption": "Además de K-beauty, YesStyle organiza productos de J-beauty y otras regiones de Asia.",
-        "bullets": [
-          "Glass skin: piel intensamente hidratada, radiante y uniforme",
-          "Rutina coreana: centrada en la doble limpieza, tónicos hidratantes y esencias nutritivas",
-          "Ingredientes clave: centella asiática, baba de caracol, própolis y ácido hialurónico"
-        ],
-        "emphasis": "Consejo de Cecilia: Comprar en YesStyle es una de las opciones más recomendadas para conseguir cosmética coreana original, ya que compran directo a las marcas y su catálogo es enorme."
+        "emphasis": "Consejo de Cecilia: El código CECILIA010 no anula los cupones promocionales elegibles de YesStyle: ¡añade hasta un 5% extra (5% 1ª compra / 2% habitual) a los cupones elegibles!"
       },
       {
         "heading": "Código de Recompensa vs. Cupón de Descuento: la diferencia clave",
@@ -30101,9 +30092,9 @@ export const reviewsData: unknown[] = [
           "La acumulación de descuentos (stacking) consiste en rellenar los dos campos principales: Reward Code y Coupon Code. Para una compra segura, aplica CECILIA010 en el campo de código de recompensa y el cupón promocional en el campo de cupón."
         ],
         "bullets": [
-          "Paso 1 — Código de Recompensa: introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes).",
-          "Paso 2 — Cupón activo: introduce cupones promocionales elegibles del sitio en el campo Coupon Code.",
-          "Paso 3 — Revisión final: antes de pagar, confirma que el descuento extra de CECILIA010 y el cupón promocional elegible se muestren correctamente."
+          "Paso 1 (Código de Recompensa): introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes).",
+          "Paso 2 (Cupón activo): introduce cupones promocionales elegibles del sitio en el campo Coupon Code.",
+          "Paso 3 (Revisión final): antes de pagar, confirma que el descuento extra de CECILIA010 y el cupón promocional elegible se muestren correctamente."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Resumo de pedido en YesStyle.",
@@ -30125,6 +30116,37 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: programa de recomendación para ganar créditos",
           "Student Program: ofertas especiales para estudiantes universitarios"
         ]
+      },
+      {
+        "heading": "¿Qué es YesStyle?",
+        "paragraphs": [
+          "YesStyle es una de las tiendas online más grandes del mundo especializada en moda asiática, cosmética coreana (K-Beauty), belleza japonesa (J-Beauty) y accesorios. Fundada en 2006 y con sede en Hong Kong, se ha convertido en el referente global para conseguir productos originales de marcas asiáticas.",
+          "YesStyle realiza envíos a más de 150 países y regiones, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Página de inicio de YesStyle con banner de ofertas de K-beauty.",
+        "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y envío internacional directo.",
+        "bullets": [
+          "K-Beauty: séruns de glass skin, esencias, tónicos y productos para la famosa rutina de skincare asiática",
+          "Moda Coreana: ropa, calzado, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
+          "J-Beauty y Bienestar: marcas japonesas renombradas (como Hada Labo) y suplementos"
+        ]
+      },
+      {
+        "heading": "K-Beauty: la revolución del skincare",
+        "paragraphs": [
+          "La cosmética coreana (K-beauty) ha conquistado el mercado de la belleza a nivel mundial. Lo que empezó como una tendencia de nicho es ahora parte esencial del cuidado de la piel.",
+          "Los consumidores buscan el efecto \"glass skin\" (piel luminosa, uniforme y muy hidratada). Ingredientes como Centella Asiática, Niacinamida y Baba de Caracol (Snail Mucin) son clave. YesStyle es uno de los canales más seguros para comprar estos productos directamente de distribuidores autorizados en Asia."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Secciones de YesStyle divididas por regiones de belleza asiática.",
+        "imageCaption": "Además de K-beauty, YesStyle organiza productos de J-beauty y otras regiones de Asia.",
+        "bullets": [
+          "Glass skin: piel intensamente hidratada, radiante y uniforme",
+          "Rutina coreana: centrada en la doble limpieza, tónicos hidratantes y esencias nutritivas",
+          "Ingredientes clave: centella asiática, baba de caracol, própolis y ácido hialurónico"
+        ],
+        "emphasis": "Consejo de Cecilia: Comprar en YesStyle es una de las opciones más recomendadas para conseguir cosmética coreana original, ya que compran directo a las marcas y su catálogo es enorme."
       },
       {
         "heading": "Qué comprar en YesStyle: guía por categoría",
@@ -30169,7 +30191,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Consejo de Cecilia: Consulta las páginas de ayuda oficiales de YesStyle sobre tasas e importación antes de hacer tu compra, ya que las políticas aduaneras y las de la tienda pueden variar."
       },
       {
-        "heading": "FAQ — Preguntas frecuentes sobre el código CECILIA010 y YesStyle",
+        "heading": "FAQ: Preguntas frecuentes sobre el código CECILIA010 y YesStyle",
         "paragraphs": [
           "Preguntas recurrentes y sus respuestas para compradores internacionales:"
         ],
@@ -30188,7 +30210,7 @@ export const reviewsData: unknown[] = [
           "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas populares de K-beauty como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, séruns y protectores solares, lo que facilita armar una rutina coreana de skincare.",
           "¿Puedo cancelar o modificar mi pedido de YesStyle después de confirmarlo? Puedes cancelar pedidos que aún estén en estado 'Processing' directamente desde tu historial de pedidos. Una vez enviado, no es posible cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o productos solo son posibles antes del envío, contactando rápidamente al servicio de atención al cliente.",
           "¿Funciona el código CECILIA010 en la primera compra en YesStyle? Sí, el código CECILIA010 funciona independientemente de si es tu primera compra. Introdúcelo en el campo Reward Code en el checkout para obtener un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento, acumulable con cupones activos del sitio.",
-          "¿Es CECILIA010 un cupón de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
+          "¿Es CECILIA010 un código de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
         ]
       }
     ],
@@ -30205,7 +30227,7 @@ export const reviewsData: unknown[] = [
         "body": "El campo del código está en el checkout, en \"Reward Code\". Copia CECILIA010 antes de abrir la tienda y pégalo al finalizar tu pedido."
       }
     ],
-    "editorialNote": "Este artículo contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
+    "editorialNote": "Enlaces de afiliado: podemos recibir comisión por los enlaces y el Reward Code CECILIA010.",
     "locale": "es",
     "translationKey": "yesstyle-reward-code"
   },
@@ -30241,6 +30263,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "CECILIA010 est un code de récompense YesStyle qui ajoute jusqu'à 5 % extra : 5 % sur la première commande et 2 % sur les suivantes. Il se saisit dans le champ Reward Code, à part du champ coupon, et se cumule avec les coupons éligibles. L'essentiel est de bien remplir chaque champ ; voir Comment utiliser le code CECILIA010 sur YesStyle : pas à pas."
+        ]
+      },
+      {
         "heading": "Comment fonctionne le code CECILIA010",
         "paragraphs": [
           "Contrairement aux codes coupons traditionnels qui appliquent une remise directe de manière exclusive, le code CECILIA010 sur YesStyle fonctionne spécifiquement comme un \"Reward Code\" (Code de récompense).",
@@ -30255,38 +30283,7 @@ export const reviewsData: unknown[] = [
           "Cumulable : OUI ! Vous pouvez associer CECILIA010 et des coupons promo éligibles sur le même panier",
           "Validité : Code actif du programme d'influenceurs (vérifié régulièrement)"
         ],
-        "emphasis": "L'avis de Cecilia : Le code CECILIA010 n'annule pas les coupons promotionnels éligibles de YesStyle — il ajoute jusqu'à 5 % extra (5 % 1ère commande / 2 % suivantes) aux coupons éligibles !"
-      },
-      {
-        "heading": "Qu'est-ce que YesStyle ?",
-        "paragraphs": [
-          "YesStyle est l'une des plus grandes boutiques en ligne spécialisées dans la mode asiatique, les cosmétiques coréens (K-Beauty), la beauté japonaise (J-Beauty) et les accessoires. Fondée en 2006 et basée à Hong Kong, l'enseigne s'est imposée comme la référence pour l'achat de produits d'origine asiatique authentiques.",
-          "YesStyle expédie dans plus de 150 pays et régions et propose la conversion des devises pour faciliter vos achats. Son catalogue est impressionnant : des milliers de références de soins du visage coréens, maquillage, vêtements tendance et articles bien-être."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Page d'accueil de YesStyle avec bannière de soins K-beauty.",
-        "imageCaption": "YesStyle rassemble des offres promotionnelles, de la K-beauty authentique et des livraisons à l'international.",
-        "bullets": [
-          "K-Beauty : sérums effet glass skin, essences, lotions et soins pour la célèbre routine beauté asiatique",
-          "Mode Asiatique : vêtements, chaussures, sacs et accessoires inspirés du style streetwear de Séoul et Tokyo",
-          "J-Beauty et Bien-être : marques japonaises reconnues (comme Hada Labo) et compléments alimentaires"
-        ]
-      },
-      {
-        "heading": "La K-Beauty : le phénomène mondial du soin de la peau",
-        "paragraphs": [
-          "Les cosmétiques coréens (K-beauty) ont transformé l'industrie cosmétique internationale. Ce qui a débuté comme une tendance de niche fait désormais partie des routines quotidiennes du monde entier.",
-          "L'accent est mis sur la recherche de la \"glass skin\" (un teint lumineux, hydraté et sans imperfections). Des ingrédients phares comme la Centella Asiatica, la Niacinamide et la Bave d'Escargot (Snail Mucin) y jouent un rôle majeur. YesStyle est l'un des canaux les plus fiables pour se procurer ces produits directement auprès de sources officielles."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Catégories régionales de beauté sur le site YesStyle.",
-        "imageCaption": "En plus de la K-beauty, YesStyle propose des produits de J-beauty et de beauté asiatique variée.",
-        "bullets": [
-          "Glass skin : une peau hydratée en profondeur, éclatante et uniforme",
-          "Routine coréenne : centrée sur le double nettoyage, les toners hydratants et les essences nourrissantes",
-          "Ingrédients phares : centella asiatica, bave d'escargot, propolis et acide hyaluronique"
-        ],
-        "emphasis": "L'avis de Cecilia : Passer par YesStyle est une excellente option pour acheter des cosmétiques coréens originaux, car ils s'approvisionnent directement auprès des marques et disposent d'un choix énorme."
+        "emphasis": "L'avis de Cecilia : Le code CECILIA010 n'annule pas les coupons promotionnels éligibles de YesStyle : il ajoute jusqu'à 5 % extra (5 % 1ère commande / 2 % suivantes) aux coupons éligibles !"
       },
       {
         "heading": "Code de Récompense vs Code Coupon : la distinction essentielle",
@@ -30349,9 +30346,9 @@ export const reviewsData: unknown[] = [
           "Le cumul de réductions (stacking) consiste à remplir les deux zones principales de l'écran de paiement : le champ de code de récompense et le champ de coupon. Par précaution, appliquez toujours CECILIA010 dans le champ de code de récompense et le coupon promotionnel dans le champ de coupon."
         ],
         "bullets": [
-          "Étape 1 — Code de Récompense : appliquez CECILIA010 dans la case Reward Code pour activer la remise jusqu'à 5 % extra (5 % 1ère commande / 2 % suivantes).",
-          "Étape 2 — Coupon actif : appliquez les coupons promo éligibles du site dans la case Coupon Code.",
-          "Étape 3 — Validation finale : avant de procéder au paiement, assurez-vous que la remise jusqu'à 5 % extra de CECILIA010 et la réduction du coupon éligible apparaissent distinctement dans le récapitulatif."
+          "Étape 1 (Code de Récompense ): appliquez CECILIA010 dans la case Reward Code pour activer la remise jusqu'à 5 % extra (5 % 1ère commande / 2 % suivantes).",
+          "Étape 2 (Coupon actif ): appliquez les coupons promo éligibles du site dans la case Coupon Code.",
+          "Étape 3 (Validation finale ): avant de procéder au paiement, assurez-vous que la remise jusqu'à 5 % extra de CECILIA010 et la réduction du coupon éligible apparaissent distinctement dans le récapitulatif."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Récapitulatif des remises sur l'écran de paiement YesStyle.",
@@ -30373,6 +30370,37 @@ export const reviewsData: unknown[] = [
           "Friend Rewards : invitez des amis pour accumuler des crédits d'achat",
           "Student Program : offres destinées aux étudiants"
         ]
+      },
+      {
+        "heading": "Qu'est-ce que YesStyle ?",
+        "paragraphs": [
+          "YesStyle est l'une des plus grandes boutiques en ligne spécialisées dans la mode asiatique, les cosmétiques coréens (K-Beauty), la beauté japonaise (J-Beauty) et les accessoires. Fondée en 2006 et basée à Hong Kong, l'enseigne s'est imposée comme la référence pour l'achat de produits d'origine asiatique authentiques.",
+          "YesStyle expédie dans plus de 150 pays et régions et propose la conversion des devises pour faciliter vos achats. Son catalogue est impressionnant : des milliers de références de soins du visage coréens, maquillage, vêtements tendance et articles bien-être."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Page d'accueil de YesStyle avec bannière de soins K-beauty.",
+        "imageCaption": "YesStyle rassemble des offres promotionnelles, de la K-beauty authentique et des livraisons à l'international.",
+        "bullets": [
+          "K-Beauty : sérums effet glass skin, essences, lotions et soins pour la célèbre routine beauté asiatique",
+          "Mode Asiatique : vêtements, chaussures, sacs et accessoires inspirés du style streetwear de Séoul et Tokyo",
+          "J-Beauty et Bien-être : marques japonaises reconnues (comme Hada Labo) et compléments alimentaires"
+        ]
+      },
+      {
+        "heading": "La K-Beauty : le phénomène mondial du soin de la peau",
+        "paragraphs": [
+          "Les cosmétiques coréens (K-beauty) ont transformé l'industrie cosmétique internationale. Ce qui a débuté comme une tendance de niche fait désormais partie des routines quotidiennes du monde entier.",
+          "L'accent est mis sur la recherche de la \"glass skin\" (un teint lumineux, hydraté et sans imperfections). Des ingrédients phares comme la Centella Asiatica, la Niacinamide et la Bave d'Escargot (Snail Mucin) y jouent un rôle majeur. YesStyle est l'un des canaux les plus fiables pour se procurer ces produits directement auprès de sources officielles."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Catégories régionales de beauté sur le site YesStyle.",
+        "imageCaption": "En plus de la K-beauty, YesStyle propose des produits de J-beauty et de beauté asiatique variée.",
+        "bullets": [
+          "Glass skin : une peau hydratée en profondeur, éclatante et uniforme",
+          "Routine coréenne : centrée sur le double nettoyage, les toners hydratants et les essences nourrissantes",
+          "Ingrédients phares : centella asiatica, bave d'escargot, propolis et acide hyaluronique"
+        ],
+        "emphasis": "L'avis de Cecilia : Passer par YesStyle est une excellente option pour acheter des cosmétiques coréens originaux, car ils s'approvisionnent directement auprès des marques et disposent d'un choix énorme."
       },
       {
         "heading": "Quoi acheter sur YesStyle : guide par catégorie",
@@ -30418,7 +30446,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "L'avis de Cecilia : Consultez les pages d'aide de YesStyle concernant la douane et les taxes avant de passer commande, car les législations douanières et les conditions de la boutique peuvent évoluer."
       },
       {
-        "heading": "FAQ — Questions fréquentes concernant le code CECILIA010 et YesStyle",
+        "heading": "FAQ: Questions fréquentes concernant le code CECILIA010 et YesStyle",
         "paragraphs": [
           "Questions fréquentes et leurs réponses pour les clients internationaux :"
         ],
@@ -30434,10 +30462,10 @@ export const reviewsData: unknown[] = [
           "Comment suivre ma commande YesStyle après l'expédition? Une fois votre commande expédiée, YesStyle vous envoie un numéro de suivi international par e-mail et l'affiche également dans l'historique de vos commandes. Vous pouvez suivre votre colis sur 17track ou sur le site du transporteur. Le délai estimé pour votre pays s'affiche au paiement, et la douane peut ajouter quelques jours.",
           "Que faire si mon colis YesStyle est bloqué en douane? Si votre colis est retenu par la douane de votre pays, vous devrez peut-être payer des droits de douane ou la TVA. Selon la politique de YesStyle, les commandes éligibles inférieures à 1 000 $ US peuvent être remboursées sous forme de crédit magasin pour les frais douaniers, si vous soumettez un reçu valide et une demande au service client dans un délai de 30 jours. Vérifiez toujours le seuil d'importation de votre pays avant de commander.",
           "Les vêtements YesStyle sont-ils petits? Comment choisir la bonne taille asiatique? Oui, la plupart des vêtements YesStyle suivent le calibrage asiatique, qui tend à être plus petit que les tailles européennes ou américaines. Chaque page produit inclut un tableau des tailles en centimètres. Nous vous recommandons de prendre vos mesures et de les comparer au tableau, et de choisir une ou deux tailles au-dessus pour un ajustement confortable, notamment pour les styles ajustés.",
-          "Quelles marques K-beauty sont les plus vendues sur YesStyle? YesStyle est distributeur agréé de marques K-beauty populaires telles que COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site organise les produits par catégories — essences, toners, sérums, écrans solaires — ce qui facilite la construction d'une routine de soins coréenne.",
+          "Quelles marques K-beauty sont les plus vendues sur YesStyle? YesStyle est distributeur agréé de marques K-beauty populaires telles que COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site organise les produits par catégories : essences, toners, sérums, écrans solaires, ce qui facilite la construction d'une routine de soins coréenne.",
           "Puis-je annuler ou modifier ma commande YesStyle après l'avoir confirmée? Vous pouvez annuler les commandes qui sont encore en statut 'Processing' directement depuis votre historique de commandes. Une fois expédiée, l'annulation n'est plus possible, mais vous pouvez refuser la livraison à l'arrivée. Les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, en contactant rapidement le service client.",
           "Le code CECILIA010 fonctionne-t-il pour la première commande YesStyle? Oui, CECILIA010 fonctionne sur toutes les commandes, offrant jusqu'à 5 % extra (5 % pour la 1ère commande et 2 % pour les suivantes), cumulable avec les coupons promo éligibles confirmés au checkout.",
-          "CECIlia010 est-il un coupon influenceur YesStyle? CECILIA010 est un code de récompense influenceur enregistré. Il offre jusqu'à 5 % extra (5 % pour la 1ère commande et 2 % pour les suivantes) au checkout et se cumule avec les coupons promotionnels éligibles, contrairement aux codes de première commande que ne sont généralement pas cumulables."
+          "CECILIA010 est-il un code influenceur YesStyle ? CECILIA010 est un code de récompense influenceur enregistré. Il offre jusqu'à 5 % extra (5 % pour la 1ère commande et 2 % pour les suivantes) au checkout et se cumule avec les coupons promotionnels éligibles, contrairement aux codes de première commande qui ne sont généralement pas cumulables."
         ]
       }
     ],
@@ -30454,7 +30482,7 @@ export const reviewsData: unknown[] = [
         "body": "Le champ du code se trouve au moment du paiement, sous « Reward Code ». Copiez CECILIA010 avant d'ouvrir la boutique : il ne restera qu'à le coller en finalisant la commande."
       }
     ],
-    "editorialNote": "Cet article contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous.",
+    "editorialNote": "Liens affiliés : commission possible via les liens et le Reward Code CECILIA010.",
     "locale": "fr",
     "translationKey": "yesstyle-reward-code"
   },
@@ -30479,7 +30507,7 @@ export const reviewsData: unknown[] = [
       "Kann mit berechtigten Aktionsgutscheinen auf der Website kombiniert werden",
       "Kostenloser Versand ab einem Mindestbestellwert, der vom Land abhängt",
       "Riesiges Sortiment an K-Beauty, J-Beauty und koreanischer Mode",
-      "100% originale Produkte — autorisierter Händler",
+      "100% originale Produkte, autorisierter Händler",
       "Website auf Deutsch verfügbar für einfache Navigation"
     ],
     "cons": [
@@ -30489,6 +30517,12 @@ export const reviewsData: unknown[] = [
       "Endabrechnung in USD (unterliegt dem Wechselkurs Deiner Bank)"
     ],
     "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "CECILIA010 ist ein YesStyle-Belohnungscode, der bis zu 5% extra bringt: 5% auf die erste Bestellung und 2% auf Folgebestellungen. Er gehört ins Feld Reward Code, getrennt vom Gutscheinfeld, und lässt sich mit berechtigten Gutscheinen kombinieren. Entscheidend ist, jedes Feld richtig zu nutzen; siehe das Kapitel Code CECILIA010 bei YesStyle eingeben: Schritt für Schritt."
+        ]
+      },
       {
         "heading": "So funktioniert der Code CECILIA010",
         "paragraphs": [
@@ -30504,38 +30538,7 @@ export const reviewsData: unknown[] = [
           "Kombinierbar: JA! Du kannst CECILIA010 + berechtigte Aktionsgutscheine bei derselben Bestellung nutzen",
           "Gültigkeit: Aktiver Influencer-Code im Programm (regelmäßig verifiziert)"
         ],
-        "emphasis": "Cecilias Tipp: Der Code CECILIA010 hebt berechtigte Aktionsgutscheine von YesStyle nicht auf — er fügt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu berechtigten Gutscheinen hinzu!"
-      },
-      {
-        "heading": "Was ist YesStyle?",
-        "paragraphs": [
-          "YesStyle ist einer der größten Online-Shops für asiatische Mode, koreanische Kosmetik (K-Beauty), japanische Beauté (J-Beauty) und Accessoires. Das 2006 gegründete Unternehmen mit Sitz in Hongkong hat sich als weltweite Anlaufstelle für authentische asiatische Produkte etabliert.",
-          "YesStyle liefert in über 150 Länder und Regionen und bietet automatische Währungsumrechnung an. Das Sortiment umfasst Tausende Produkte für koreanische Hautpflege, Make-up, Mode und Lifestyle."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "YesStyle-Startseite mit K-Beauty-Angeboten.",
-        "imageCaption": "YesStyle bündelt Sonderangebote, authentische K-Beauty und weltweiten Versand auf einer Plattform.",
-        "bullets": [
-          "K-Beauty: Glass-Skin-Seren, Essenzen, Toner und Pflegeprodukte für die bekannte asiatische Pflegeroutine",
-          "Asiatische Mode: Kleidungsstücke, Schuhe und Accessoires inspiriert von den Trends aus Seoul und Tokio",
-          "J-Beauty & Wellness: Beliebte japanische Marken (wie Hada Labo) und Pflegeprodukte"
-        ]
-      },
-      {
-        "heading": "K-Beauty: Der weltweite Trend für strahlende Haut",
-        "paragraphs": [
-          "Koreanische Kosmetik (K-Beauty) hat die internationale Schönheitspflege revolutioniert. Was als Nischentrend begann, gehört heute weltweit zur täglichen Hautpflegeroutine.",
-          "Im Mittelpunkt steht der Wunsch nach \"Glass Skin\" – einer tief durchfeuchteten, ebenmäßigen und strahlenden Haut. Inhaltsstoffe wie Centella Asiatica, Niacinamid und Schneckenschleim (Snail Mucin) spielen dabei eine zentrale Rolle. YesStyle gehört zu den zuverlässigsten Anlaufstellen für originale K-Beauty-Produkte."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Regionale Beauty-Kategorien im YesStyle-Shop.",
-        "imageCaption": "Neben K-Beauty bietet YesStyle auch J-Beauty und weitere asiatische Kosmetiklinien.",
-        "bullets": [
-          "Glass Skin: Tiefendurchfeuchtete, glatte und natürlich strahlende Haut",
-          "Koreanische Routine: Doppelreinigung, feuchtigkeitsspendende Toner und nährstoffreiche Essenzen",
-          "Hauptwirkstoffe: Centella Asiatica, Schneckenschleim, Propolis und Hyaluronsäure"
-        ],
-        "emphasis": "Cecilias Tipp: YesStyle ist eine hervorragende Wahl für originale K-Beauty, da die Produkte direkt von autorisierten Händlern bezogen werden."
+        "emphasis": "Cecilias Tipp: Der Code CECILIA010 hebt berechtigte Aktionsgutscheine von YesStyle nicht auf, er fügt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu berechtigten Gutscheinen hinzu!"
       },
       {
         "heading": "Reward Code vs. Coupon Code: Der wichtige Unterschied",
@@ -30598,9 +30601,9 @@ export const reviewsData: unknown[] = [
           "Das Kombinieren von Rabatten (Stacking) bedeutet, beide Hauptfelder im Checkout auszufüllen: das Reward-Code-Feld und das Coupon-Code-Feld. Verwende CECILIA010 im Belohnungscode-Feld und den Aktionsgutschein im Gutscheinfeld."
         ],
         "bullets": [
-          "Schritt 1 — Belohnungscode: Trage CECILIA010 im Feld Reward Code ein, um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
-          "Schritt 2 — Aktiver Gutschein: Trage den gültigen Gutschein im Feld Coupon Code ein.",
-          "Schritt 3 — Letzte Prüfung: Überprüfe vor dem Bezahlen in der Bestellübersicht, ob der Extra-Rabatt von CECILIA010 und der Aktionsgutschein korrekt aufgeführt sind."
+          "Schritt 1 (Belohnungscode): Trage CECILIA010 im Feld Reward Code ein, um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
+          "Schritt 2 (Aktiver Gutschein): Trage den gültigen Gutschein im Feld Coupon Code ein.",
+          "Schritt 3 (Letzte Prüfung): Überprüfe vor dem Bezahlen in der Bestellübersicht, ob der Extra-Rabatt von CECILIA010 und der Aktionsgutschein korrekt aufgeführt sind."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Rabattaufteilung im YesStyle-Checkout.",
@@ -30621,6 +30624,37 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: Freunde werben und Einkaufsguthaben sammeln",
           "Student Program: Spezielle Rabatte für Studenten"
         ]
+      },
+      {
+        "heading": "Was ist YesStyle?",
+        "paragraphs": [
+          "YesStyle ist einer der größten Online-Shops für asiatische Mode, koreanische Kosmetik (K-Beauty), japanische Beauté (J-Beauty) und Accessoires. Das 2006 gegründete Unternehmen mit Sitz in Hongkong hat sich als weltweite Anlaufstelle für authentische asiatische Produkte etabliert.",
+          "YesStyle liefert in über 150 Länder und Regionen und bietet automatische Währungsumrechnung an. Das Sortiment umfasst Tausende Produkte für koreanische Hautpflege, Make-up, Mode und Lifestyle."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "YesStyle-Startseite mit K-Beauty-Angeboten.",
+        "imageCaption": "YesStyle bündelt Sonderangebote, authentische K-Beauty und weltweiten Versand auf einer Plattform.",
+        "bullets": [
+          "K-Beauty: Glass-Skin-Seren, Essenzen, Toner und Pflegeprodukte für die bekannte asiatische Pflegeroutine",
+          "Asiatische Mode: Kleidungsstücke, Schuhe und Accessoires inspiriert von den Trends aus Seoul und Tokio",
+          "J-Beauty & Wellness: Beliebte japanische Marken (wie Hada Labo) und Pflegeprodukte"
+        ]
+      },
+      {
+        "heading": "K-Beauty: Der weltweite Trend für strahlende Haut",
+        "paragraphs": [
+          "Koreanische Kosmetik (K-Beauty) hat die internationale Schönheitspflege revolutioniert. Was als Nischentrend begann, gehört heute weltweit zur täglichen Hautpflegeroutine.",
+          "Im Mittelpunkt steht der Wunsch nach \"Glass Skin\" – einer tief durchfeuchteten, ebenmäßigen und strahlenden Haut. Inhaltsstoffe wie Centella Asiatica, Niacinamid und Schneckenschleim (Snail Mucin) spielen dabei eine zentrale Rolle. YesStyle gehört zu den zuverlässigsten Anlaufstellen für originale K-Beauty-Produkte."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Regionale Beauty-Kategorien im YesStyle-Shop.",
+        "imageCaption": "Neben K-Beauty bietet YesStyle auch J-Beauty und weitere asiatische Kosmetiklinien.",
+        "bullets": [
+          "Glass Skin: Tiefendurchfeuchtete, glatte und natürlich strahlende Haut",
+          "Koreanische Routine: Doppelreinigung, feuchtigkeitsspendende Toner und nährstoffreiche Essenzen",
+          "Hauptwirkstoffe: Centella Asiatica, Schneckenschleim, Propolis und Hyaluronsäure"
+        ],
+        "emphasis": "Cecilias Tipp: YesStyle ist eine hervorragende Wahl für originale K-Beauty, da die Produkte direkt von autorisierten Händlern bezogen werden."
       },
       {
         "heading": "Was kaufen bei YesStyle: Guide nach Kategorie",
@@ -30666,7 +30700,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Cecilias Tipp: Lies die offiziellen Hilfeseiten von YesStyle zu Zoll und Steuern vor deiner Bestellung, da sich die Zollgesetze und die Bedingungen des Shops ändern können."
       },
       {
-        "heading": "FAQ — Häufig gestellte Fragen zu CECILIA010 und YesStyle",
+        "heading": "FAQ: Häufig gestellte Fragen zu CECILIA010 und YesStyle",
         "paragraphs": [
           "Häufige Fragen und Antworten für internationale Kunden:"
         ],
@@ -30685,7 +30719,7 @@ export const reviewsData: unknown[] = [
           "Welche K-Beauty-Marken sind bei YesStyle die beliebtesten? YesStyle ist autorisierter Vertriebspopulärer K-Beauty-Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website organisiert Produkte nach Kategorien – Essenzen, Toner, Seren, Sonnenschutzmittel – was den Aufbau einer koreanischen Hautpflegeroutine erleichtert.",
           "Kann ich meine YesStyle-Bestellung nach der Bestätigung stornieren oder ändern? Du kannst Bestellungen, die sich noch im Status 'Processing' befinden, direkt über deinen Bestellverlauf stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber du kannst die Lieferung bei Ankunft ablehnen. Adress- oder Produktänderungen sind nur vor dem Versand möglich, indem du den Kundenservice schnell kontaktierst.",
           "Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert für Neukunden und Bestandskunden, und bietet bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Gib ihn im Reward-Code-Feld beim Checkout ein, kombinierbar mit berechtigten Aktionsgutscheinen.",
-          "Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
+          "Ist CECILIA010 ein YesStyle-Influencer-Code? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
         ]
       }
     ],
@@ -30702,7 +30736,7 @@ export const reviewsData: unknown[] = [
         "body": "Das Codefeld findest du im Checkout unter \"Reward Code\". Kopiere CECILIA010, bevor du den Shop öffnest – beim Bestellen einfach einfügen."
       }
     ],
-    "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen.",
+    "editorialNote": "Affiliate-Links: Wir können über Links und den Reward Code CECILIA010 Provision erhalten.",
     "locale": "de",
     "translationKey": "yesstyle-reward-code"
   },
@@ -30724,7 +30758,7 @@ export const reviewsData: unknown[] = [
       "사이트의 적격 프로모션 쿠폰 코드와 결제 시 확인 후 함께 사용 가능",
       "한국 배송은 US$ 50 이상 주문 시 무료 (2026년 10월 6일부터 적용된 배송표 기준)",
       "K-뷰티, J-뷰티, 한국 패션까지 방대한 카탈로그",
-      "100% 정품 — 공식 인증 판매점 제품",
+      "100% 정품, 공식 인증 판매점 제품",
       "한국어 인터페이스로 편리하게 이용 가능한 사이트"
     ],
     "cons": [
@@ -30747,6 +30781,12 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "CECILIA010은 YesStyle 리워드 코드로, 첫 구매 5%와 재구매 2%의 최대 5% 혜택을 줍니다. Reward Code 칸에 입력하며 쿠폰 칸과 별개라서 적격 프로모션 쿠폰과 함께 쓸 수 있습니다. 칸을 구분해 입력하는 것이 핵심이니 자세한 순서는 '결제 단계'를 보세요."
+        ]
+      },
       {
         "heading": "CECILIA010 사용 방법",
         "paragraphs": [
@@ -30811,7 +30851,7 @@ export const reviewsData: unknown[] = [
       "サイト内の対象プロモーションクーポンコードと注文確定前に確認の上で併用可能",
       "日本への配送は、US$50以上の注文で送料無料（2026年10月6日からの送料表）",
       "K-ビューティー、J-ビューティー、韓国ファッションまで豊富なカタログ",
-      "100%正規品 — 公式認定販売店製品",
+      "100%正規品, 公式認定販売店製品",
       "日本語インターフェースで快適に買い物が楽しめるサイト"
     ],
     "cons": [
@@ -30834,6 +30874,12 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "CECILIA010はYesStyleのリワードコードで、最大5%オフ（初回購入5%、リピーター2%）が適用されます。Reward Code欄に入力すれば、対象クーポンとも併用できます。入力欄の使い分けが肝心で、手順は「ご注文の手順」をご覧ください。"
+        ]
+      },
       {
         "heading": "CECILIA010の使い方",
         "paragraphs": [
@@ -30897,7 +30943,7 @@ export const reviewsData: unknown[] = [
       "可與網站上合資格促銷優惠券一併使用，於結帳時確認",
       "寄往台灣滿 US$50、寄往香港滿 US$35 即享免運（2026 年 10 月 6 日起的運費表）",
       "K-Beauty、J-Beauty與韓系時尚商品目錄豐富",
-      "100%正品 — 官方授權經銷商產品",
+      "100%正品, 官方授權經銷商產品",
       "繁體中文介面，方便輕鬆購物"
     ],
     "cons": [
@@ -30920,6 +30966,12 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "CECILIA010 是 YesStyle 獎勵碼，可享高達 5% 優惠（首購 5%，回購 2%）。請填入 Reward Code 欄位，與優惠碼欄位分開，並可與合資格促銷優惠碼並用。關鍵是兩個欄位各填各的，詳細步驟見「結帳步驟」。"
+        ]
+      },
       {
         "heading": "如何使用 CECILIA010",
         "paragraphs": [
@@ -30983,7 +31035,7 @@ export const reviewsData: unknown[] = [
       "可与网站上合资格促销优惠券一起使用，于结账时确认",
       "寄往新加坡满 US$50、寄往马来西亚满 US$35 即享免运费（2026 年 10 月 6 日起的运费表）",
       "K-Beauty、J-Beauty与韩系时尚商品目录丰富",
-      "100%正品 — 官方授权经销商产品",
+      "100%正品, 官方授权经销商产品",
       "简体中文界面，方便轻松购物"
     ],
     "cons": [
@@ -31006,6 +31058,12 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "CECILIA010 是 YesStyle 奖励码，可享高达 5% 优惠（首购 5%，回购 2%）。请填入 Reward Code 栏位，与优惠码栏位分开，并可与合资格促销优惠码并用。关键是两个栏位各填各的，详细步骤见“结账步骤”。"
+        ]
+      },
       {
         "heading": "如何使用 CECILIA010",
         "paragraphs": [
@@ -31462,9 +31520,10 @@ export const reviewsData: unknown[] = [
   {
     "id": 15,
     "slug": "minha-experiencia-manteiga-batida-aerada",
-    "title": "Minha Experiência: Manteiga Batida (Aerada)",
+    "title": "Manteiga batida com leite funciona? Testei o hack viral",
+    "seoTitle": "Manteiga batida com leite funciona? Testei o hack viral",
     "type": "Teste de Cozinha",
-    "category": "guias-praticos-utilidade",
+    "category": "produtos-experiencias",
     "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
@@ -31482,6 +31541,12 @@ export const reviewsData: unknown[] = [
       "Não substitui uma receita tradicional de manteiga caseira"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não funciona. Bater manteiga com leite não rende o dobro: o leite espirra, a mistura separa e o resultado não lembra manteiga. O que ajuda a economizar é a manteiga composta e a troca de parte dela por óleo; veja \"Alternativas que funcionam de verdade\"."
+        ]
+      },
       {
         "heading": "O que os vídeos virais prometem",
         "paragraphs": [
@@ -31528,7 +31593,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Por Que Esses Hacks Não Funcionam: A Ciência dos Alimentos",
+        "heading": "Por que esses hacks não funcionam: a ciência dos alimentos",
         "paragraphs": [
           "A razão pela qual esse hack viral é fundamentalmente falho está na própria natureza da manteiga. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
           "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
@@ -31543,21 +31608,21 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Alternativas Reais que Realmente Funcionam",
+        "heading": "Alternativas que funcionam de verdade",
         "paragraphs": [
           "A boa notícia é que existem alternativas viáveis para fazer a manteiga render melhor ou substituir parte do seu uso, sem cair em promessa milagrosa. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
         ],
         "bullets": [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
-          "Essa técnica pode aumentar o volume em aproximadamente 20%, mantendo textura adequada e agregando sabor. A manteiga em temperatura ambiente permite que o azeite se incorpore melhor, criando uma mistura mais estável.",
+          "Essa técnica rende mais com a mesma quantidade de manteiga, mantendo textura adequada e agregando sabor. A manteiga em temperatura ambiente permite que o azeite se incorpore melhor, criando uma mistura mais estável.",
           "Ghee caseiro: derreta 200 g de manteiga em fogo muito baixo, deixe cozinhar lentamente até formar espuma na superfície, retire essa espuma e separe a parte translúcida dourada.",
           "O ghee rende menos em volume, mas oferece sabor mais concentrado, dura mais e pode gerar economia a longo prazo porque você usa menor quantidade nos preparos."
         ]
       },
       {
-        "heading": "Cream cheese caseiro como substituto",
+        "heading": "Queijo fresco caseiro como substituto",
         "paragraphs": [
-          "Em muitas receitas, principalmente bolos e massas, o cream cheese pode substituir a manteiga em parte da fórmula. Ele não funciona para tudo, mas pode oferecer cremosidade com menos gordura em preparos específicos."
+          "Em muitas receitas, principalmente bolos e massas, um queijo fresco cremoso feito em casa, com leite e vinagre, pode substituir a manteiga em parte da fórmula. Ele não é um cream cheese industrial e não funciona para tudo, mas pode oferecer cremosidade em preparos específicos."
         ],
         "bullets": [
           "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
@@ -31567,7 +31632,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Lições Aprendidas da Maneira Difícil",
+        "heading": "Lições aprendidas da maneira difícil",
         "paragraphs": [
           "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
           "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
@@ -31582,10 +31647,10 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Dicas Práticas Para Economia Real com Manteiga",
+        "heading": "Dicas práticas para economizar manteiga",
         "bullets": [
           "Para frituras, use metade da quantidade de manteiga indicada e complete com óleo de girassol ou canola.",
-          "Essa combinação mantém parte do sabor da manteiga, mas com economia significativa.",
+          "Essa combinação mantém parte do sabor da manteiga e gasta menos dela.",
           "Em receitas de bolos e biscoitos, substitua até 30% da manteiga por óleo vegetal, quando a receita permitir, sem comprometer o resultado.",
           "Congele manteiga em porções pequenas, embrulhadas em papel manteiga e depois em papel alumínio.",
           "Mantenha uma porção pequena na geladeira e o restante no congelador.",
@@ -31612,7 +31677,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 14,
     "slug": "conhecendo-mais-rabanada",
-    "title": "Conhecendo Mais: Rabanada",
+    "title": "Rabanada: a origem do doce de Natal, o pão certo e as variações",
+    "seoTitle": "Rabanada: origem, escolha do pão e variações",
     "type": "Conhecendo Mais",
     "category": "guias-praticos-utilidade",
     "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
@@ -31632,6 +31698,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A rabanada nasceu do aproveitamento do pão amanhecido, virou doce de Natal em Portugal e chegou ao Brasil com os portugueses. Pão francês amanhecido, imersão sem encharcar e fritura dão o resultado clássico; veja \"Qual pão usar na rabanada\" e \"Variações para testar\"."
+        ]
+      },
+      {
         "heading": "Origem da rabanada",
         "paragraphs": [
           "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
@@ -31647,7 +31719,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Escolha do Pão: O Segredo para uma Rabanada Perfeita",
+        "heading": "Qual pão usar na rabanada",
         "paragraphs": [
           "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
           "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
@@ -31661,7 +31733,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Imersão: Leite, Ovos e Especiarias para Sabor e Maciez",
+        "heading": "A imersão: leite, ovos e especiarias",
         "paragraphs": [
           "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
           "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
@@ -31675,7 +31747,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Fritura e Finalização",
+        "heading": "Fritura e finalização",
         "paragraphs": [
           "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
           "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
@@ -31698,7 +31770,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Variações para Testar",
+        "heading": "Variações para testar",
         "images": [
           {
             "src": "/images/reviews/rabanada/rabanada-cecilia-recheando-doce-de-leite.webp",
@@ -31719,9 +31791,9 @@ export const reviewsData: unknown[] = [
           "Calda de vinho, mel, leite condensado ou caldas aromatizadas com especiarias.",
           "Especiarias extras como cravo-da-índia, raspas de limão ou raspas de laranja.",
           "Cobertura especial com calda de caramelo ou chocolate.",
-          "Versão assada para uma opção mais leve.",
+          "Versão assada, sem fritura.",
           "Pão brioche para uma rabanada mais macia e sofisticada.",
-          "Cada região tem sua própria versão: pain perdu na França, french toast na Inglaterra e eggy bread nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
+          "Cada região tem sua própria versão: pain perdu na França, eggy bread na Inglaterra e french toast nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
         ]
       }
     ]
@@ -31729,48 +31801,71 @@ export const reviewsData: unknown[] = [
   {
     "id": 13,
     "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia",
-    "title": "10 Fatos Surpreendentes Sobre a Air Fryer que Você Não Sabia!",
+    "title": "Air fryer: 10 fatos sobre como funciona e como usar melhor",
+    "seoTitle": "Air fryer: 10 fatos sobre como funciona e como usar",
     "type": "Guia & Curiosidades",
     "category": "guias-praticos-utilidade",
-    "description": "Uma seleção de curiosidades sobre a air fryer, do fluxo de ar quente às comunidades gigantes que transformaram o aparelho em fenômeno.",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Dez fatos sobre a air fryer: como o ar quente em circulação cozinha, quando pré-aquecer, por que não lotar o cesto e como limpar, com receitas para testar.",
+    "metaDescription": "Air fryer: 10 fatos sobre o ar quente em circulação, pré-aquecimento, cesto sem excesso, papel-manteiga e limpeza, com receitas para fazer.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
     "image": "/images/reviews/airfryer-10-fatos-surpreendentes.jpg",
     "imageAlt": "Cecília na cozinha com uma air fryer preta.",
     "imageAspect": "portrait",
-    "pros": [
-      "Conteúdo leve e compartilhável",
-      "Ajuda a contextualizar a popularidade da air fryer",
-      "Boa ponte para receitas e comparativos"
-    ],
-    "cons": [
-      "Algumas curiosidades dependem de contexto histórico e mercado"
-    ],
+    "pros": [],
+    "cons": [],
+    "editorialNote": "Texto informativo, sem parceria e sem teste de aparelho.",
     "contentSections": [
       {
-        "heading": "10 fatos surpreendentes sobre a air fryer",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A air fryer cozinha com ar quente em circulação, e a maior parte dos bons resultados vem de poucos hábitos: pré-aquecer, não lotar o cesto e limpar sempre. Os dez fatos abaixo juntam a origem do aparelho e dicas de uso, e as dicas práticas começam no quarto fato."
+        ]
+      },
+      {
+        "heading": "10 fatos sobre a air fryer",
         "image": "/images/reviews/fred-van-der-weij-airfryer.avif",
         "imageAlt": "Fred van der Weij, inventor associado ao desenvolvimento da air fryer moderna.",
         "imageCaption": "Fred van der Weij, nome ligado ao desenvolvimento da air fryer moderna pela Philips.",
         "bullets": [
-          "1. A inspiração inusitada do inventor: Fred van der Weij criou a air fryer depois de observar o funcionamento de um secador de cabelo. Ele percebeu que o fluxo de ar quente poderia ser a chave para uma nova forma de cozinhar.",
-          "2. Velocidade impressionante do ar: o ar dentro de uma air fryer circula em alta velocidade, criando o efeito de crocância que faz o aparelho parecer uma fritura sem imersão em óleo.",
-          "3. A verdadeira origem: embora tenha explodido em popularidade recentemente, o conceito de cozinhar com ar quente já vinha sendo desenvolvido antes do lançamento comercial moderno.",
-          "4. Festival exclusivo na Austrália: em 2022, aconteceu um festival gastronômico dedicado a pratos feitos na air fryer, mostrando como o aparelho virou tema de comunidade e criatividade culinária.",
-          "5. Adaptações culturais curiosas: diferentes países passaram a desenvolver modelos e usos próprios, como preparos para tempurá, especiarias ou receitas mais robustas para famílias.",
-          "6. Economia surpreendente: em alguns preparos, a air fryer pode consumir menos energia que um forno tradicional, especialmente por aquecer rápido e trabalhar com espaço interno menor.",
-          "7. Fenômeno de vendas: a air fryer se tornou um dos eletrodomésticos mais desejados dos últimos anos, impulsionada por praticidade, promessas de menos óleo e presença forte nas redes sociais.",
-          "8. Comunidade online gigantesca: receitas, testes, erros, dicas e comparativos transformaram a air fryer em tema constante em grupos, perfis e vídeos de cozinha.",
-          "9. Recorde de patentes e inovação: nos anos seguintes ao crescimento do produto, surgiram muitos registros e variações relacionados à tecnologia, cestos, circulação de ar e funções extras.",
-          "10. O futuro é agora: a próxima geração já caminha para conectividade Wi-Fi, reconhecimento automático de alimentos, controle por voz e sistemas de limpeza mais inteligentes."
+          "1. A origem é holandesa: a air fryer moderna foi desenvolvida por Fred van der Weij, a partir de 2005, e lançada pela Philips em 2010. A história completa está em [História da air fryer](/reviews/airfryer-uma-breve-historia).",
+          "2. A ideia é mais antiga: nos anos 1940, o Whirlwind Oven, de William L. Maxson, já cozinhava com ar forçado, mas não chegou ao mercado de massa.",
+          "3. O segredo é a circulação do ar: o ar quente passa em alta velocidade pelo cesto, e é isso que doura a superfície e dá a crocância sem imergir o alimento em óleo.",
+          "4. Pré-aquecer ajuda: ligar o aparelho uns minutos antes de colocar a comida costuma dar um dourado mais parecido de um preparo para outro. Confira o que o manual do seu modelo recomenda.",
+          "5. Não lotar o cesto: o ar precisa circular entre os pedaços. Cesto cheio demais cozinha de forma desigual, e fazer em duas levas funciona melhor.",
+          "6. Seque e chacoalhe: alimento seco por fora doura mais e, em preparos como batata, sacudir o cesto no meio do tempo ajuda a dourar por igual.",
+          "7. Pouco óleo, não necessariamente nenhum: muitos preparos ficam bons com pouco ou nenhum óleo, mas o resultado depende do alimento. Um fio de óleo costuma ajudar em legumes e batatas.",
+          "8. Papel-manteiga com cuidado: se usar papel no cesto, deixe o alimento por cima para segurá-lo e não ligue o aparelho com o papel solto, porque o ar em movimento pode levantá-lo até a resistência. Use só papel próprio para forno ou air fryer.",
+          "9. Dá para fazer mais que fritura: assar, gratinar e preparar sobremesas também funciona. Um exemplo é o [bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer).",
+          "10. A limpeza é parte do uso: lave o cesto depois de cada uso, com o aparelho frio, e siga o manual para as peças. Gordura acumulada pode fumegar no próximo preparo."
+        ]
+      },
+      {
+        "heading": "Receitas de air fryer para testar",
+        "paragraphs": [
+          "Para colocar os fatos em prática, comece por uma destas receitas do site:"
+        ],
+        "bullets": [
+          "[Batatas rústicas crocantes na air fryer](/receitas/batatas-rusticas-crocantes-na-air-fryer)",
+          "[Chips de batata-doce na air fryer](/receitas/chips-de-batata-doce-na-air-fryer)",
+          "[Trouxinha de cheddar na air fryer](/receitas/trouxinha-de-cheddar-na-air-fryer)",
+          "[Nozes crocantes com mel e especiarias na air fryer](/receitas/nozes-crocantes-com-mel-e-especiarias-na-air-fryer)",
+          "[Bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer)"
         ]
       },
       {
         "heading": "Conclusão",
         "paragraphs": [
-          "A air fryer não é apenas uma moda passageira; ela representa uma mudança significativa nas práticas culinárias contemporâneas. Com sua capacidade de oferecer refeições saborosas e crocantes com menos gordura, esse eletrodoméstico se consolidou como um aliado na busca por uma alimentação mais prática e equilibrada.",
-          "À medida que novas tecnologias continuam a surgir, é provável que as air fryers continuem a evoluir e a desempenhar um papel central nas cozinhas ao redor do mundo.",
-          "Saciou sua curiosidade sobre air fryers? Se não, vale conhecer também a história por trás da sua criação."
+          "A air fryer rende mais quando você entende o que ela faz: circular ar quente em volta do alimento. Pré-aquecer, não lotar o cesto e limpar sempre resolvem a maior parte dos problemas.",
+          "Quer saber de onde veio o aparelho? Leia a [história da air fryer](/reviews/airfryer-uma-breve-historia)."
         ]
       }
     ]
@@ -31778,31 +31873,41 @@ export const reviewsData: unknown[] = [
   {
     "id": 12,
     "slug": "airfryer-uma-breve-historia",
-    "title": "Airfryer: Uma Breve História",
-    "type": "História & Curiosidades",
+    "title": "História da air fryer: dos anos 1940 à Philips em 2010 e como ela funciona",
+    "seoTitle": "História da air fryer: origem, Philips e como funciona",
+    "type": "Guia & Curiosidades",
     "category": "guias-praticos-utilidade",
-    "description": "Da ideia de cozinhar com ar quente ao lançamento comercial moderno: como a air fryer virou item essencial em tantas cozinhas.",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Da ideia de cozinhar com ar quente nos anos 1940 ao lançamento da Philips em 2010: a história da air fryer e como o ar em circulação dá a crocância.",
+    "metaDescription": "A história da air fryer: o Whirlwind Oven dos anos 1940, o projeto de Fred van der Weij, o lançamento da Philips em 2010 e como o aparelho funciona.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
     "image": "/images/reviews/airfryer-uma-breve-historia.jpg",
     "imageAlt": "Cecília apoiada em uma air fryer preta na cozinha.",
     "imageAspect": "portrait",
-    "pros": [
-      "Explica a evolução do aparelho",
-      "Contextualiza a tecnologia Rapid Air",
-      "Conecta história, saúde e praticidade"
-    ],
-    "cons": [
-      "Não é comparativo de marcas ou modelos específicos"
-    ],
+    "pros": [],
+    "cons": [],
+    "editorialNote": "Texto informativo, sem parceria e sem teste de aparelho.",
     "contentSections": [
       {
-        "heading": "A História das Air Fryers",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "As air fryers se tornaram um dos eletrodomésticos mais populares nas cozinhas modernas, oferecendo uma maneira saudável e prática de preparar alimentos. Mas como essa inovação surgiu? A história das air fryers passa por várias tentativas de cozinhar alimentos com ar quente, desde ideias antigas até a ascensão como item essencial na culinária contemporânea.",
-          "A história remonta ao início do século XX, quando um cozinheiro elétrico de pressão foi inventado em 1904. Essa invenção não teve grande impacto na época, e a ideia de fritar com ar quente ficou adormecida por muitos anos.",
-          "Na década de 1940, William L. Maxson criou o Whirlwind Oven, que utilizava tecnologia de ar forçado para cozinhar alimentos rapidamente. Apesar de inovadora, essa invenção também não chegou ao mercado de massa.",
-          "Foi somente em 2005 que o inventor holandês Fred van der Weij começou a desenvolver o conceito moderno da air fryer. Ele buscava uma maneira de fritar batatas de forma mais saudável, sem a necessidade de imergi-las em óleo. Após três anos de testes e refinamentos, Van der Weij apresentou seu protótipo à Philips, que lançou a primeira air fryer comercial em 2010 durante a Internationale Funkausstellung, em Berlim."
+          "A air fryer cozinha com ar quente em circulação, uma ideia que já aparece nos anos 1940. O holandês Fred van der Weij desenvolveu a versão moderna a partir de 2005, e a Philips a lançou em 2010, em Berlim. O capítulo Como a air fryer funciona explica a crocância."
+        ]
+      },
+      {
+        "heading": "Das primeiras tentativas ao protótipo de Van der Weij",
+        "paragraphs": [
+          "Cozinhar com ar quente forçado não nasceu com a air fryer. Na década de 1940, William L. Maxson criou o Whirlwind Oven, que usava ar forçado para cozinhar alimentos rapidamente. Apesar de inovador, ele não chegou ao mercado de massa.",
+          "O conceito moderno veio em 2005, quando o inventor holandês Fred van der Weij começou a desenvolver um aparelho para fazer batatas fritas sem imergi-las em óleo. Depois de três anos de testes, ele apresentou o protótipo à Philips.",
+          "A Philips lançou a primeira air fryer comercial em 2010, durante a Internationale Funkausstellung (IFA), em Berlim."
         ],
         "image": {
           "src": "/images/reviews/airfryer-linha-do-tempo.webp",
@@ -31813,11 +31918,10 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Revolução das Air Fryers",
+        "heading": "Como a air fryer funciona",
         "paragraphs": [
-          "O modelo da Philips se destacou por seu design inovador e pela tecnologia chamada Rapid Air, que combina radiação de calor próximo e circulação aumentada de ar para cozinhar os alimentos de maneira uniforme e crocante.",
-          "Desde seu lançamento, as air fryers ganharam popularidade rapidamente, especialmente entre consumidores que buscavam opções mais saudáveis para frituras tradicionais. Com o aumento da conscientização sobre saúde e nutrição, elas se tornaram uma resposta às preocupações sobre o consumo excessivo de óleo.",
-          "A promessa de fritar alimentos com até 80% menos gordura atraiu muitos lares, tornando a air fryer um item indispensável na cozinha moderna."
+          "O modelo da Philips ficou conhecido pela tecnologia chamada Rapid Air, que combina calor próximo ao alimento e circulação aumentada de ar. O ar quente passa em alta velocidade pelo cesto e doura a superfície de forma uniforme.",
+          "Por isso o aparelho usa pouco ou nenhum óleo em muitos preparos. O resultado, porém, depende do alimento: batata cortada e seca fica crocante com facilidade, e massas muito úmidas pedem mais tempo e ajuste."
         ],
         "image": {
           "src": "/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg",
@@ -31828,20 +31932,10 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Características Revolucionárias",
-        "bullets": [
-          "Redução de até 80% no uso de óleo em comparação com frituras tradicionais.",
-          "Tempo de cozimento mais rápido em muitos preparos.",
-          "Facilidade de limpeza quando comparada à fritura por imersão.",
-          "Versatilidade para diferentes tipos de alimentos."
-        ]
-      },
-      {
-        "heading": "Expansão no Mercado",
+        "heading": "Depois de 2010: mais marcas e mais uso em casa",
         "paragraphs": [
-          "Inicialmente vista com certa desconfiança, a air fryer rapidamente ganhou popularidade, especialmente entre pessoas preocupadas com saúde, entusiastas de culinária e famílias buscando praticidade.",
-          "Desde 2010, as air fryers evoluíram significativamente. Marcas como Cosori, Ninja e Cuisinart começaram a lançar suas próprias versões do aparelho, incorporando funcionalidades adicionais como telas digitais e múltiplas opções de cozimento.",
-          "A pandemia também impulsionou o uso das air fryers, com muitas pessoas cozinhando mais em casa. A versatilidade do aparelho permite não apenas fritar, mas também assar, grelhar e até preparar sobremesas, tornando-o um verdadeiro coringa na cozinha."
+          "Desde 2010, outras marcas, como Cosori, Ninja e Cuisinart, lançaram as próprias versões, com telas digitais e várias opções de cozimento.",
+          "A pandemia também aumentou o uso, porque mais gente passou a cozinhar em casa. O aparelho serve para fritar, assar, grelhar e até preparar sobremesas."
         ],
         "image": {
           "src": "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
@@ -31852,20 +31946,19 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "A Evolução da Tecnologia",
+        "heading": "Como os modelos evoluíram",
         "bullets": [
-          "Modelos multifuncionais que combinam funções de forno, grill e até desidratador.",
-          "Tamanhos variados, desde modelos compactos para pouco espaço até opções maiores para famílias numerosas.",
-          "Tecnologias avançadas como painéis digitais, temporizadores automáticos e programas predefinidos.",
-          "Materiais mais duráveis, com cestos e revestimentos evoluindo para aumentar a vida útil do aparelho."
+          "Modelos multifuncionais, que combinam funções de forno, grill e até desidratador.",
+          "Tamanhos variados, de compactos para pouco espaço a maiores para famílias numerosas.",
+          "Painéis digitais, temporizadores automáticos e programas predefinidos.",
+          "Cestos e revestimentos mais duráveis."
         ]
       },
       {
         "heading": "Conclusão",
         "paragraphs": [
-          "A air fryer não é apenas uma moda passageira; ela representa uma mudança significativa nas práticas culinárias contemporâneas. Com sua capacidade de oferecer refeições saborosas e crocantes com menos gordura, esse eletrodoméstico se consolidou como um aliado na busca por uma alimentação mais saudável.",
-          "À medida que novas tecnologias continuam a surgir, é provável que as air fryers continuem a evoluir e a desempenhar um papel central nas cozinhas ao redor do mundo.",
-          "Ficou com aquele gostinho de quero mais? Que tal conhecer alguns fatos inusitados e curiosos sobre esse aparelho?"
+          "A air fryer é a versão moderna de uma ideia antiga: ar quente em circulação cozinhando o alimento por fora. O que mudou foi o tamanho, o preço e a praticidade do aparelho.",
+          "Quer usar melhor o seu? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
         ],
         "image": {
           "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
@@ -31880,7 +31973,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 11,
     "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
-    "title": "Poltrona Levita: O Topo da Tecnologia e Conforto",
+    "title": "Poltrona Levita Damie: vale pagar pelos dois motores?",
+    "seoTitle": "Poltrona Levita Damie: vale a pena pelos dois motores?",
     "type": "Móveis de Luxo",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -31919,7 +32013,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Dois motores independentes",
       "Ajuste manual de pescoço",
-      "Base giratória 360°",
+      "Base giratória",
       "Couro bovino ou linho italiano",
       "Cupom CECILIA12 disponível"
     ],
@@ -31935,19 +32029,12 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
+    "editorialNote": "Fotos e vídeo da Cecília com a poltrona. Podemos receber comissão pelo cupom CECILIA12.",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "A Levita vale o investimento para quem usa a poltrona todo dia e quer conforto como prioridade, com dois motores independentes, ajuste de pescoço e base giratória. Não é a escolha para quem quer só uma poltrona bonita pelo menor preço. O que pesa é o uso real; veja em Conforto premium: por que ela custa mais."
         ]
       },
       {
@@ -31972,13 +32059,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Base giratória 360°, bivolt e montagem simples",
+        "heading": "Base giratória, bivolt e montagem simples",
         "image": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
         "imageAlt": "Vista lateral da Cecília sentada na Poltrona Levita.",
         "imageCaption": "Perfil da poltrona mostrando o acabamento e o encosto.",
         "imageFit": "portrait",
         "paragraphs": [
-          "Segundo a página oficial da Damie, a base da Levita gira 360° e tem acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
+          "Segundo a página oficial da Damie, a base da Levita gira 360° (a FAQ oficial fala em até 280°) e tem acabamento em preto fosco. Isso ajuda a adaptar a poltrona ao ambiente sem precisar arrastar o móvel o tempo todo.",
           "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
           "A montagem também é simples: a poltrona vai praticamente montada, e o principal é ligar o fio direto na tomada. Ainda assim, por ser uma peça premium e elétrica, vale posicionar com cuidado, medir espaço de abertura e garantir uma tomada próxima."
         ]
@@ -32001,9 +32088,15 @@ export const reviewsData: unknown[] = [
         "emphasis": "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
       },
       {
+        "heading": "Sobre a Damie",
+        "paragraphs": [
+          "A Damie (Dix Indústria de Estofados Ltda) é uma marca brasileira de móveis de alto padrão, sediada em Frederico Westphalen, no Rio Grande do Sul. No site, há poltronas reclináveis, sofás, camas e móveis para áreas externas."
+        ]
+      },
+      {
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
-          "A página oficial informa frete grátis, rápido e por transportadora especializada em móveis para as regiões atendidas. Também menciona 30 dias para troca ou devolução e garantia de 1 ano, além de suporte vitalício.",
+          "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). Também menciona 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
           "A poltrona suporta até 130 kg, segundo a Damie, e a marca informa que a venda é online, com showroom em Frederico Westphalen, no Rio Grande do Sul. Por isso, o período de teste em casa é um ponto relevante para quem está comprando sem experimentar antes.",
           "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
         ]
@@ -32105,17 +32198,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "Vale a pena para quem precisa de um sofá que passe por escada, elevador e corredor estreito e quer montar a composição aos poucos. É um sofá premium, não o mais barato, e o que pesa é o orçamento e medir bem a sala. Veja o capítulo Veredito: vale o investimento?"
         ]
       },
       {
@@ -32176,15 +32261,16 @@ export const reviewsData: unknown[] = [
         "heading": "Materiais, acabamento e personalização",
         "paragraphs": [
           "A Damie trabalha com uma linha de estofados mais premium, então a escolha do revestimento pesa bastante na experiência final. A página do produto oferece opções como Tecido Suede, Tecido Bouclé, Tecido Linho, Corino Importado e Couro Bovino.",
-          "Também há várias cores disponíveis, incluindo bege, marrom, cinza claro, preto, azul denim, caramelo, off white, verde militar e branco. Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
+          "Também há várias cores disponíveis, incluindo bege, marrom, cinza, preto, azul denim, caramelo, off white, verde militar e branco (lista conferida em 24/10/2026). Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
           "Antes de comprar, vale observar a rotina da casa: tem criança, pet, muita visita, sala quente, uso diário para TV ou uso mais decorativo? Essas respostas ajudam a escolher tecido, cor e configuração sem cair só na escolha estética."
         ]
       },
       {
-        "heading": "Vale o investimento?",
+        "heading": "Veredito: vale o investimento?",
         "paragraphs": [
           "O Sofá Damie na Caixa não deve ser visto como o sofá mais barato possível. Ele faz mais sentido para quem enxerga valor na combinação de modularidade, entrega facilitada, visual moderno e possibilidade de adaptação do ambiente.",
-          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço deixa de ser apenas sobre sentar e passa a incluir logística, flexibilidade, acabamento, teste em casa e uma experiência de compra mais estruturada."
+          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço deixa de ser apenas sobre sentar e passa a incluir logística, flexibilidade, acabamento, teste em casa e uma experiência de compra mais estruturada.",
+          "Em resumo, é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Não é uma compra pequena, então precisa ser planejada: meça bem a sala e compare módulos e tecido. Para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento."
         ]
       },
       {
@@ -32205,24 +32291,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito",
-        "paragraphs": [
-          "O Sofá Damie na Caixa é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Ele conversa bem com casas modernas, apartamentos e ambientes que precisam de flexibilidade.",
-          "Não é uma compra pequena, então precisa ser planejada. Mas, para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento. E o cupom CECILIA12 ajuda a tornar a decisão mais acessível."
-        ]
-      },
-      {
         "heading": "Transparência",
         "paragraphs": [
           "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
-    ]
+    ],
+    "seoTitle": "Sofá Damie na Caixa vale a pena? Modular, entrega e montagem",
+    "editorialNote": "Parceria com a Damie: link com cupom CECILIA12 e comissão, sem custo extra."
   },
   {
     "id": 9,
     "slug": "poltrona-moon-design-que-parece-obra-de-arte",
-    "title": "Poltrona Moon: Design que parece Obra de Arte",
+    "title": "Poltrona Moon da Damie vale a pena? Design giratório, materiais e para quem é",
     "type": "Decoração & Design",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -32284,17 +32365,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. O que decide é a prioridade: estética e presença no ambiente ou relaxar por horas. O capítulo Vale o investimento? detalha cada caso."
         ]
       },
       {
@@ -32337,8 +32410,14 @@ export const reviewsData: unknown[] = [
         "heading": "Montagem, entrega e uso prático",
         "paragraphs": [
           "Um ponto positivo é que a montagem é simples: a poltrona vai praticamente montada, então o trabalho principal é retirar da embalagem e posicionar no ambiente. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
-          "A Damie destaca frete grátis, rápido e por transportadora especializada em móveis em determinadas regiões atendidas. A página também informa 30 dias para troca ou devolução e garantia de 1 ano, além de suporte vitalício.",
+          "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). A página também informa 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
           "Outro dado útil da página oficial é o peso máximo suportado de até 130 kg. Para uma peça decorativa, isso reforça que a Moon não é só aparência; ela precisa ser bonita, mas também segura e funcional."
+        ]
+      },
+      {
+        "heading": "Sobre a Damie",
+        "paragraphs": [
+          "A Damie, razão social Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen (RS) que fabrica poltronas, sofás, camas e móveis para áreas externas, com opções de revestimento como linho, suede, courino, bouclé e couro."
         ]
       },
       {
@@ -32348,7 +32427,14 @@ export const reviewsData: unknown[] = [
           "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
           "Se a prioridade é relaxar por horas assistindo filme, talvez uma reclinável faça mais sentido. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem."
         ],
-        "emphasis": "Vale destacar que a Poltrona Moon não é apenas estética/visual: é uma poltrona MUITO confortável. Você não vai adquirir só um móvel decorativo para o ambiente; ela tende a ser muito utilizada pelo conforto. Diferente de itens semelhantes de concorrentes que priorizam apenas a beleza, aqui o conforto também é prioridade."
+        "emphasis": "Vale destacar que a Moon não é só visual: segundo a Damie, a espuma D33 e a estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, e por isso ela tende a ser usada no dia a dia, não só admirada."
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
+          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
+        ]
       },
       {
         "heading": "Cupom CECILIA12",
@@ -32368,24 +32454,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
-          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
-        ]
-      },
-      {
         "heading": "Transparência",
         "paragraphs": [
           "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
-    ]
+    ],
+    "seoTitle": "Poltrona Moon Damie vale a pena? Giratória e decorativa",
+    "editorialNote": "Parceria com a Damie: link com cupom CECILIA12 e comissão, sem custo extra."
   },
   {
     "id": 8,
     "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-    "title": "Poltronas Reclináveis Damie - Vale o Investimento?",
+    "title": "Poltrona reclinável Damie vale o investimento? Uso diário, tecido e amamentação",
+    "seoTitle": "Poltrona reclinável Damie vale a pena? Uso de meses",
     "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -32438,11 +32520,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Modelo testado",
-        "value": "Poltrona reclinável caramelo"
+        "value": "Poltrona reclinável bege em linho"
       },
       {
         "key": "Tempo de uso",
-        "value": "6 meses"
+        "value": "Alguns meses de uso diário"
       },
       {
         "key": "Revestimento escolhido",
@@ -32450,7 +32532,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Cupom disponível",
-        "value": "CECILIA12 — 12% off",
+        "value": "CECILIA12, 12% off",
         "highlight": true
       },
       {
@@ -32458,6 +32540,7 @@ export const reviewsData: unknown[] = [
         "value": "Site oficial Damie"
       }
     ],
+    "editorialNote": "Review com link afiliado: comissão sem custo extra para você.",
     "cta": {
       "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
       "label": "Usar o cupom",
@@ -32467,24 +32550,9 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "contentSections": [
       {
-        "heading": "A História da Damie: Inovação e Qualidade em Móveis Reclináveis",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira sediada em Frederico Westphalen, Rio Grande do Sul, que se consolidou como referência em móveis de alto padrão para dentro e fora de casa. A empresa combina design moderno, materiais premium e tecnologia avançada para oferecer produtos que unem conforto, durabilidade e estética.",
-          "No site da Damie, você encontra opções personalizáveis em poltronas reclináveis, sofás, camas e móveis para áreas externas, incluindo espreguiçadeiras, puffs de piscina, apoios de puff, ombrelones e mesas de centro champanheiras. Também há revestimentos como tecido linho, suede, courino, boucle e couro bovino original, além de acessórios como porta-copos, entradas USB e sistemas de massagem em modelos específicos.",
-          "Seja para um cinema em casa, uma sala de estar aconchegante, um quarto mais confortável ou momentos de descanso na piscina e no quintal, os produtos da Damie são projetados para atender diferentes necessidades da rotina. Use o cupom CECILIA12 no site da Damie e garanta seu desconto exclusivo."
-        ],
-        "image": {
-          "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
-          "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
-          "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
-          "objectFit": "square",
-          "aspectRatio": 1
-        },
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
+          "Sim, a poltrona reclinável da Damie valeu o investimento para nós: usamos todos os dias há meses, a reclinação elétrica é silenciosa e o linho bege respira bem no calor. O que pesa é o preço e a tomada por perto. Veja o capítulo Veredito."
         ]
       },
       {
@@ -32522,7 +32590,7 @@ export const reviewsData: unknown[] = [
           "Vivemos em uma região quente e abafada, então optamos pelo tecido linho na cor bege, que é leve, elegante e respirável. O toque é agradável, e o material é resistente e fácil de limpar.",
           "No site da Damie, há uma variedade de revestimentos, todos igualmente atraentes: courino, suede, boucle, tecido linho e couro bovino original, além de diversas cores para combinar com qualquer decoração.",
           "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar.",
-          "Com o cupom CECILIA12, você pode personalizar sua poltrona e economizar no site da Damie."
+          "Os modelos e acessórios ficam no site oficial da Damie."
         ],
         "image": {
           "src": "/images/reviews/poltrona-reclinavel-cecilia.webp",
@@ -32543,7 +32611,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A poltrona reclinável da Damie é um convite ao relaxamento. Com um toque, ajustamos o encosto e o apoio para os pés, encontrando a posição perfeita para assistir filmes, ler ou descansar. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
           "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
-          "A estrutura transmite segurança e durabilidade, cumprindo exatamente o que a Damie promete em suas propagandas."
+          "A estrutura segue firme, até aqui sem sinais de desgaste."
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
@@ -32563,7 +32631,7 @@ export const reviewsData: unknown[] = [
         "heading": "Um Uso Especial: Amamentação do Meu Filho Ian",
         "paragraphs": [
           "Uma das surpresas mais felizes foi descobrir como a poltrona é perfeita para a amamentação. Desde o nascimento do meu filho, Ian, tenho usado a poltrona reclinável diariamente.",
-          "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, garantindo conforto e segurança enquanto amamento, especialmente durante a madrugada. O movimento silencioso não acorda o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
+          "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, o que deixa a amamentação mais confortável, especialmente durante a madrugada. Na nossa casa, o movimento silencioso não acordou o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
           "O tecido linho respirável mantém o conforto mesmo em dias quentes, tornando esses momentos ainda mais especiais. Se você é mãe ou está esperando um bebê, a poltrona reclinável da Damie é uma aliada incrível, indo além do conforto convencional."
         ],
         "image": {
@@ -32572,6 +32640,19 @@ export const reviewsData: unknown[] = [
           "caption": "Com o Ian no colo, na poltrona que uso todos os dias para amamentar.",
           "objectFit": "portrait",
           "aspectRatio": 0.5625
+        }
+      },
+      {
+        "heading": "Quem é a Damie",
+        "paragraphs": [
+          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen, no Rio Grande do Sul, com poltronas reclináveis, sofás, camas e móveis para a área externa. No site, dá para escolher o revestimento (linho, suede, courino, boucle ou couro bovino) e acessórios como porta-copos, entrada USB e massagem em modelos específicos."
+        ],
+        "image": {
+          "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
+          "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
+          "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
+          "objectFit": "square",
+          "aspectRatio": 1
         }
       },
       {
@@ -32600,6 +32681,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
+          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. E, se for comprar, use o cupom CECILIA12 para reduzir o valor final."
+        ]
+      },
+      {
         "heading": "Aproveite o Cupom CECILIA12 e Transforme Sua Casa",
         "paragraphs": [
           "Pronto para transformar sua casa com uma poltrona reclinável ou um sofá da Damie? Use o cupom de desconto CECILIA12, que garante 12% OFF em compras no site da Damie.",
@@ -32622,19 +32710,6 @@ export const reviewsData: unknown[] = [
             "label": "Comprar no site da Damie",
             "href": "https://damie.com.br"
           }
-        ]
-      },
-      {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
-          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. E, se for comprar, use o cupom CECILIA12 para reduzir o valor final."
-        ]
-      },
-      {
-        "heading": "Transparência",
-        "paragraphs": [
-          "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
     ]
@@ -32869,7 +32944,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 217,
     "slug": "clube-dolce-gusto-como-funciona",
-    "title": "Clube Dolce Gusto: pontos e prêmios",
+    "title": "Clube Dolce Gusto: como cadastrar códigos, acumular pontos e trocar por prêmios",
     "seoTitle": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
@@ -32882,7 +32957,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia prático do Clube Dolce Gusto: como cadastrar códigos das caixas, acumular pontos, trocar prêmios e economizar com o cupom CECI.",
-    "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto — e como usar o cupom CECI para economizar mais.",
+    "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto e como usar o cupom CECI para economizar mais.",
     "publishedAt": "03 Jul 2026",
     "publishedAtISO": "2026-07-03",
     "draft": false,
@@ -32893,6 +32968,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O que pesa é a validade, porque o saldo zera após 6 meses sem registrar código nem resgatar prêmio; veja o capítulo Passo a passo para cadastrar seus códigos."
+        ]
+      },
+      {
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
           "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
@@ -32901,8 +32982,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
           "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
-          "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
-          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF em compras a partir de R$ 100) nas compras de cápsulas na loja oficial para potencializar a economia."
+          "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto."
         ],
         "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
@@ -32915,7 +32995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como acumular pontos no Clube",
         "paragraphs": [
-          "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar:"
+          "O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar: Os pontos ficam guardados na sua conta e podem virar cápsulas, acessórios ou vouchers de desconto."
         ],
         "bullets": [
           "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.",
@@ -32978,21 +33058,6 @@ export const reviewsData: unknown[] = [
           "Confirme que o abatimento de 5% foi refletido no valor total.",
           "Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.",
           "Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses."
-        ]
-      },
-      {
-        "heading": "Pontos Dolce Gusto: como maximizar seu saldo",
-        "paragraphs": [
-          "Os pontos Dolce Gusto são a moeda do programa de fidelidade. Cada ação elegível (cadastro de código, compra online, assinatura de cápsulas) gera uma quantidade de pontos que fica guardada na sua conta. O objetivo é simples: acumular pontos Dolce Gusto para depois trocar por cápsulas grátis, acessórios ou até vouchers de desconto.",
-          "A estratégia para maximizar o saldo é combinar múltiplas ações: compre usando o cupom CECI (5% OFF), resgate os pontos de compra online, cadastre os códigos das caixas de cápsulas recebidas, e participe de bônus especiais quando disponíveis. Se você é consumidor frequente de café Dolce Gusto, manter os pontos Dolce Gusto ativos pode resultar em economias significativas ao longo de alguns meses."
-        ],
-        "bullets": [
-          "Cada caixa de cápsulas Geração 1 = 100 pontos Dolce Gusto (código cadastrado)",
-          "Cada extração NEO = 10 pontos Dolce Gusto (automático no aplicativo)",
-          "Compra online no site = +100 pontos Dolce Gusto",
-          "Assinatura de cápsulas = +1.000 pontos Dolce Gusto na primeira compra",
-          "Combos DGUSTA = 500 ou 1.000 pontos Dolce Gusto por caixa",
-          "Pontos Dolce Gusto expiram após 6 meses de inatividade — mantenha a conta ativa!"
         ],
         "links": [
           {
@@ -33002,10 +33067,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Resumo: vale a pena participar?",
+        "heading": "Vale a pena participar do Clube?",
         "paragraphs": [
           "A resposta é sim para quem já compra cápsulas Dolce Gusto com alguma frequência. O Clube Dolce Gusto é gratuito, simples de usar e recompensa um hábito de consumo que você já possui. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
-          "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade."
+          "A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
         ]
       },
       {
@@ -33037,7 +33102,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.",
+    "editorialNote": "Parceria com a Dolce Gusto: comissão pelo cupom CECI. Guia feito das regras públicas do Clube.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -33842,6 +33907,7 @@ export const reviewsData: unknown[] = [
     "id": 229,
     "slug": "dolce-gusto-e-confiavel",
     "title": "Dolce Gusto é confiável? O que observar antes de comprar",
+    "seoTitle": "Dolce Gusto é confiável? CNPJ, entrega e assistência",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -33864,9 +33930,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé; veja em \"Dá para confiar na Dolce Gusto?\" os números e o que conferir."
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
+          "Antes de comprar, vale saber quem está por trás da marca, como funciona o atendimento e o que fazer se o pedido ou a máquina der problema. Os dados abaixo são públicos.",
+          "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
           "O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). Um detalhe pouco conhecido: as máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777, separada do atendimento da Nestlé sobre pedidos e cápsulas."
         ],
         "bullets": []
@@ -33882,7 +33955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno — vale saber isso de antemão para não perder tempo no canal errado.",
+          "O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno: vale saber isso de antemão para não perder tempo no canal errado.",
           "A entrega tem prazo de até 30 dias úteis, feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras) com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa."
         ],
         "bullets": []
@@ -33894,19 +33967,25 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confirme se está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar a compra.",
-          "Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno — muitas vezes mais rápido que abrir chamado pela Nestlé.",
-          "Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais — sempre confira a vigência no carrinho.",
+          "Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno, muitas vezes mais rápido que abrir chamado pela Nestlé.",
+          "Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais: sempre confira a vigência no carrinho.",
           "O cupom CECI exige valor mínimo de R$ 100 em produtos elegíveis; confira o subtotal antes de aplicar.",
-          "Guarde a chave de acesso da nota fiscal recebida por e-mail — não há via impressa enviada com o pedido."
+          "Guarde a chave de acesso da nota fiscal recebida por e-mail: não há via impressa enviada com o pedido."
         ]
       },
       {
-        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
-        "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto — frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente — ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
-        "imageFit": "cover"
+        "heading": "Dá para confiar na Dolce Gusto?",
+        "paragraphs": [
+          "Sim, pelos dados públicos. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil Ltda, CNPJ 60.409.075/0001-52, e vende pelo site oficial, não por uma loja terceirizada.",
+          "Os números que você consegue conferir antes de comprar: SAC 0800-776-2233, devolução em até 7 dias corridos após o recebimento, conforme o CDC, e entrega em até 30 dias úteis, com rastreamento por e-mail.",
+          "O ponto de atenção é a máquina: a assistência técnica é da Arno, pelo telefone (11) 2060-9777, e não da Nestlé. Em caso de defeito, vale começar por ela."
+        ]
       },
       {
         "heading": "Parceria e cupom de desconto",
+        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+        "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto: frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente, ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
+        "imageFit": "cover",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
         ],
@@ -33921,7 +34000,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo usado por outras marcas Nestlé no país.",
+          "A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo usado por outras marcas Nestlé no país.",
           "Quem fabrica as máquinas Dolce Gusto? As máquinas são fabricadas pela Arno (Groupe Seb), que também presta assistência técnica própria, separada do atendimento da Nestlé.",
           "Qual o prazo de entrega da Dolce Gusto? Até 30 dias úteis, calculado a partir da separação do pedido, com rastreamento por código enviado por e-mail.",
           "Como funciona a devolução na Dolce Gusto? Até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, conforme o direito de arrependimento do CDC.",
@@ -33937,7 +34016,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Parceria comercial: podemos receber comissão pelo cupom CECI. Dados públicos da marca.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -33979,7 +34058,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
         "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
-        "caption": "Loja física da I Wanna Sleep — a marca também vende em pontos físicos, além do e-commerce."
+        "caption": "Loja física da I Wanna Sleep: a marca também vende em pontos físicos, além do e-commerce."
       },
       {
         "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
@@ -34016,13 +34095,19 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo Dá para confiar na I Wanna Sleep?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
         "imageAlt": "Fachada de uma loja física da I Wanna Sleep, com letra 'IWS' em destaque e bandeira da marca",
         "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
         "imageFit": "cover",
         "paragraphs": [
-          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
+          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
           "A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a \"Nossas lojas\", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
         ],
         "bullets": []
@@ -34071,6 +34156,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Dá para confiar na I Wanna Sleep?",
+        "paragraphs": [
+          "Sim, com a ressalva de que esta análise usa só dados públicos do site oficial e não traz nota do Reclame Aqui. Os números que sustentam a resposta:"
+        ],
+        "bullets": [
+          "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
+          "Lojas físicas no Brasil, além do e-commerce.",
+          "Troca ou devolução em até 7 dias corridos do recebimento nas compras do e-commerce.",
+          "Sleeptest de até 100 dias para colchões e até 30 dias para travesseiros, pillow tops e nutrição, sujeito às regras da marca.",
+          "Pix e cartão de crédito com parcelamento, em domínio oficial com HTTPS."
+        ]
+      },
+      {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
           "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
@@ -34095,7 +34193,7 @@ export const reviewsData: unknown[] = [
           "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. Depois desse período, o Sleeptest pode ser aplicável a categorias elegíveis conforme regras próprias.",
           "O pagamento no site da I Wanna Sleep é seguro? O domínio oficial usa HTTPS e apresenta Pix e cartão de crédito no checkout. Antes de pagar, confirme o endereço iwannasleep.com.br e não transfira valores para contatos que tentem concluir a venda fora do canal oficial.",
           "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
-          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
+          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
         ]
       }
     ],
@@ -34106,7 +34204,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -34239,7 +34337,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 227,
     "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeiras noites",
+    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite",
     "seoTitle": "Cobertor Igloo IWS é bom? O lado gelado na prática e tamanhos",
     "type": "Editorial",
     "category": "produtos-experiencias",
@@ -34251,8 +34349,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep — veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e resolveu o calor de madrugada. Tamanhos casal/queen e king e preço.",
+    "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep. Veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
+    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e bastou virar o cobertor quando o calor veio. Tamanhos casal/queen e king e preço.",
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
@@ -34263,11 +34361,6 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "gallery": [
-      {
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-        "alt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-        "caption": "O Cobertor IWS Igloo tem um lado com toque frio e outro com toque quente."
-      },
       {
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
         "alt": "Ilustração do Cobertor IWS Igloo sobre a cama, com metade em luz azul (lado frio) e metade em luz laranja (lado quente)",
@@ -34281,9 +34374,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na primeira noite, o lado gelado do Igloo esfriou na hora e bastou virar o cobertor quando o calor veio de madrugada. Ele faz mais sentido para quem esquenta dormindo ou divide a cama com alguém de outra temperatura. Ainda é cedo para falar de durabilidade; veja o capítulo Para quem vale a pena."
+        ]
+      },
+      {
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
-          "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.",
+          "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio. Basta virar o cobertor para trocar de sensação.",
           "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
         ],
         "bullets": [],
@@ -34295,16 +34394,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossas primeiras impressões",
         "paragraphs": [
-          "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina — e se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
-          "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato — não precisa 'esperar esfriar'. Não usamos termômetro, mas a diferença entre os dois lados bateu com o que a marca promete: dá pra sentir uns 2°C de diferença mesmo entre um lado e o outro.",
-          "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo — e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
-          "Ainda é cedo pra falar de durabilidade — o produto chegou há pouco tempo aqui em casa, e vamos atualizar este artigo depois de mais noites de uso. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
+          "O Igloo chegou bem na hora do problema que ele promete resolver: aquele clássico de ir dormir com um edredom grosso porque o quarto está fresco, acordar de madrugada suando, ter que levantar pra trocar por uma coberta mais fina e, se esfriar de novo, começar tudo outra vez. Gravamos as primeiras impressões em vídeo (dá pra assistir logo ali em cima) bem no momento em que isso aconteceu de verdade aqui em casa.",
+          "No primeiro contato, o que mais chamou atenção foi o lado gelado: tem um acabamento com um brilho diferente do lado quente, e o toque frio é imediato, sem precisar 'esperar esfriar'. Não usamos termômetro, então não temos medida: o que dá para dizer é que a diferença entre os dois lados é perceptível ao toque.",
+          "O teste que valeu mesmo foi à noite: estávamos dormindo do lado quente e veio aquela esquentada repentina do nada. Em vez de levantar pra trocar de cobertor, só viramos o Igloo e na mesma hora já estava frio de novo, sem sair da cama. Foi nesse momento que a proposta do produto fez sentido de verdade: resolve exatamente aquele vaivém de trocar de coberta de madrugada.",
+          "Ainda é cedo pra falar de durabilidade: o produto chegou há pouco tempo aqui em casa. Mas o primeiro contato já rendeu o apelido de \"cobertor de sobrevivência\" por aqui, e o fato de ser uma peça só pra dobrar, em vez de duas ou três cobertas diferentes, já conta ponto pela praticidade."
         ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
-        "imageAlt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
-        "imageCaption": "O toque dos dois lados: frio de um jeito, quente do outro.",
-        "imageFit": "cover"
+        "bullets": []
       },
       {
         "heading": "Ficha técnica e tecnologias",
@@ -34342,21 +34437,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Como lavar e cuidar do cobertor",
+        "paragraphs": [
+          "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Para quem vale a pena",
         "paragraphs": [
-          "Pelo que testamos e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
+          "Pela primeira noite e pelas especificações da marca, o Igloo faz mais sentido pra quem:"
         ],
         "bullets": [
           "Sente calorão no meio da noite e hoje precisa se levantar pra trocar de cobertor ou ligar o ar-condicionado.",
           "Gosta de trocar de cobertor entre as estações (verão/inverno), mas não quer guardar duas peças diferentes no armário.",
-          "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada — o problema que motivou a compra aqui em casa.",
-          "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença — nesse caso, um cobertor comum resolve igual, sem o investimento extra."
+          "Já teve a experiência de acordar suando e depois sentir frio na mesma madrugada (o problema que vivemos aqui em casa).",
+          "Já quem dorme tranquilo a noite toda, sem oscilar de temperatura, provavelmente não vai sentir tanta diferença: nesse caso, um cobertor comum resolve igual, sem o investimento extra."
         ]
       },
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra. Por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
         "bullets": [],
         "links": [
@@ -34367,23 +34469,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como lavar e cuidar do cobertor",
-        "paragraphs": [
-          "As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora."
-        ],
-        "bullets": []
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.",
+          "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM): basta virar o cobertor para trocar de sensação.",
           "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
           "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
-          "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.",
+          "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
-          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
-          "O Cobertor IWS Igloo realmente funciona para casais com temperaturas diferentes? Sim, essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. A tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
-          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg — distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
+          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM), segundo a marca, dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A proposta é dispensar a troca de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
+          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. Segundo a marca, a tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
+          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
           "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
           "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período."
         ]
@@ -34397,7 +34492,7 @@ export const reviewsData: unknown[] = [
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
     "youtubeUrl": "https://www.youtube.com/shorts/BlBbtv-VuL8",
-    "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep, além das primeiras impressões em vídeo. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.",
+    "editorialNote": "Produto recebido em parceria; só primeiras impressões. O cupom pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -34610,6 +34705,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que merece atenção é conferir o domínio oficial e as regras de troca e entrega. Veja os números no capítulo Dá para confiar na Nestlé Nutre?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
           "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.",
@@ -34623,25 +34724,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré — fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
+          "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré, fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
           "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
         ],
         "bullets": [],
-        "image": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
-        "imageAlt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
-        "imageFit": "portrait"
-      },
-      {
-        "image": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
-        "imageAlt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
-        "imageFit": "contain",
-        "imageCaption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+        "images": [
+          {
+            "src": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+            "alt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
+            "objectFit": "portrait"
+          },
+          {
+            "src": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+            "alt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
+            "objectFit": "contain",
+            "caption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
+          }
+        ]
       },
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
           "O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.",
-          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja — diferente do CECI, que é a parceria com este blog."
+          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
         ],
         "bullets": []
       },
@@ -34653,9 +34758,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.",
           "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
-          "Confira a validade do lote no momento da compra — são produtos de consumo contínuo.",
+          "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
           "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
-          "No checkout, teste o cupom CECI e compare com outras promoções ativas — o sistema aplica só o maior desconto disponível."
+          "No checkout, teste o cupom CECI e compare com outras promoções ativas: o sistema aplica só o maior desconto disponível."
         ]
       },
       {
@@ -34672,6 +34777,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Dá para confiar na Nestlé Nutre?",
+        "paragraphs": [
+          "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br e com certificado SSL. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e a troca segue o CDC: 7 dias corridos após o recebimento, com o frete de retorno pago pela Nestlé.",
+          "Nas condições de compra, o frete é grátis acima de R$ 400 e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
@@ -34679,7 +34791,7 @@ export const reviewsData: unknown[] = [
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
-          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.",
+          "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
           "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
         ]
       }
@@ -34691,7 +34803,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a Nestlé Nutre. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
+    "editorialNote": "Parceria comercial com a Nestlé Nutre. Dados do site oficial, sem teste próprio.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
@@ -35320,7 +35432,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 226,
     "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-    "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)",
+    "title": "Mini Me da Dolce Gusto: combo com 20 caixas, avulsa ou na promoção?",
+    "seoTitle": "Mini Me Dolce Gusto: combo com 20 caixas ou avulsa?",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -35331,50 +35444,55 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Promoção recorrente da Dolce Gusto: compre cápsulas ORIGINAL em volume e ganhe máquina Mini Me grátis. A quantidade de caixas exigida varia (50–70). Saiba como funciona, regras, cupom CECI e análise.",
-    "metaDescription": "Promoção Dolce Gusto: compre caixas de cápsulas, ganhe Mini Me grátis. Quantidade varia conforme o dia. Veja regras, cupom CECI e análise de custo-benefício.",
+    "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e a máquina avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
+    "metaDescription": "Mini Me Dolce Gusto: combos com máquina, combo com 20 caixas (R$ 797,00) e avulsa (R$ 419,90). Veja quando compensa e o cupom CECI.",
     "publishedAt": "29 Jun 2026",
     "publishedAtISO": "2026-06-29",
     "draft": false,
     "image": "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
-    "imageAlt": "Arte da promoção Dolce Gusto com 55 caixas de cápsulas e máquina Mini Me grátis",
+    "imageAlt": "Arte da promoção de junho de 2026 da Dolce Gusto com 55 caixas de cápsulas e máquina Mini Me",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
     "gallery": [
       {
         "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp",
-        "alt": "Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 1",
-        "caption": "Divulgação oficial da promoção de 55 caixas e Mini Me grátis"
+        "alt": "Arte promocional da Dolce Gusto de junho de 2026, 1 de 5",
+        "caption": "Arte da promoção de junho de 2026: 55 caixas e Mini Me"
       },
       {
         "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp",
-        "alt": "Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 2",
-        "caption": "Regras e detalhes sobre as cores e voltagem da máquina Mini Me"
+        "alt": "Arte promocional da Dolce Gusto de junho de 2026, 2 de 5",
+        "caption": "Regras da arte de junho sobre cores e voltagem da Mini Me"
       },
       {
         "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp",
-        "alt": "Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 3",
-        "caption": "Limitações importantes da oferta e acúmulo de descontos"
+        "alt": "Arte promocional da Dolce Gusto de junho de 2026, 3 de 5",
+        "caption": "Limitações e acúmulo de descontos na arte de junho"
       },
       {
         "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp",
-        "alt": "Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 4",
-        "caption": "Análise de custo-benefício para quem deseja aproveitar a oferta"
+        "alt": "Arte promocional da Dolce Gusto de junho de 2026, 4 de 5",
+        "caption": "Análise de custo-benefício da promoção de junho"
       },
       {
         "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp",
-        "alt": "Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 5",
-        "caption": "Como economizar ainda mais aplicando o cupom CECI"
+        "alt": "Arte promocional da Dolce Gusto de junho de 2026, 5 de 5",
+        "caption": "Cupom CECI na promoção de junho"
       }
     ],
     "contentSections": [
       {
-        "heading": "Quantas caixas preciso comprar hoje?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A promoção funciona de forma recorrente: a loja oficial mantém a oferta ativa com frequência, mas o número de caixas exigido varia. Nas últimas semanas (período de junho a julho de 2026), o gatilho oscilou entre 50 e 70 caixas. Em 16 de julho de 2026, a loja operava com 60 caixas como mínimo para ganhar a Mini Me grátis.",
-          "Antes de montar o carrinho, verifique o número exato de caixas necessário consultando o site oficial da NESCAFÉ Dolce Gusto — ele aparece em destaque no banner de promoção. O número pode mudar a qualquer momento, conforme a estratégia comercial da loja. A promoção é temporária e pode ser interrompida sem aviso prévio.",
-          "Independentemente do número de caixas, o cupom CECI segue ativo na loja oficial e ajuda a economizar ainda mais. Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
+          "Na loja oficial, dá para ganhar a Mini Me nos combos da loja oficial (só com cápsulas ORIGINAL) ou levá-la no combo Mini Me 2.0 com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
+        ]
+      },
+      {
+        "heading": "Como ganhar ou comprar a Mini Me",
+        "paragraphs": [
+          "Na loja oficial da NESCAFÉ Dolce Gusto, a página de combos com máquina traz o selo \"Ganhe máquina Mini Me\". A oferta vale apenas para cápsulas ORIGINAL e pode ser parcelada em até 10x sem juros. O número de caixas exigido aparece no carrinho, não na página.",
+          "Há outro caminho: o combo Mini Me 2.0 com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negócios\". A Mini Me 2.0 avulsa custa R$ 419,90, em Terracota, Cinza Chumbo, Cinza Gelo e Preto Onyx. Preços lidos na loja em 24/10/2026."
         ],
         "links": [
           {
@@ -35384,17 +35502,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que é a promoção",
+        "heading": "Regras da promoção da Mini Me grátis",
         "paragraphs": [
-          "A loja oficial da NESCAFÉ Dolce Gusto oferece uma promoção de volume para quem compra em quantidade: ao adicionar o número de caixas de cápsulas ORIGINAL exigido (que varia conforme a semana), o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. No exemplo que documentamos aqui, o gatilho estava em 55 caixas — mas fique atento ao número vigente no seu dia.",
-          "A máquina Mini Me é um dos modelos mais compactos da linha, com pressão de 15 bar e reservatório de aproximadamente 0,8 litro. Por ser gratuita nesta promoção, ela funciona como um bônus real para o consumidor que já planejava comprar cápsulas em volume — seja para uso próprio, para presentear ou para um segundo ponto da casa (escritório, quarto de hóspedes)."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Regras completas da promoção",
-        "paragraphs": [
-          "As condições da oferta são claras e devem ser lidas com atenção antes de finalizar a compra. Abaixo, o resumo das regras oficiais:"
+          "Estas regras vêm da arte oficial da promoção de junho de 2026. Confirme no carrinho se continuam valendo:"
         ],
         "bullets": [
           "Produtos elegíveis: caixas de cápsulas ORIGINAL (sabores da linha padrão). Não válido para NEO nem DGusta.",
@@ -35406,46 +35516,57 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como usar o cupom CECI na promoção",
+        "heading": "Combo com 20 caixas ou Mini Me avulsa",
+        "paragraphs": [
+          "A comparação é direta. No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
+          "Para saber o custo real da máquina no combo, subtraia as caixas: R$ 797,00 menos 20 vezes o preço da caixa no carrinho. A diferença para a avulsa é de R$ 377,10, então o combo compensa quando a caixa custa mais de R$ 18,86. Com o preço de R$ 25 por caixa que este artigo usava em junho de 2026, as 20 caixas somam R$ 500,00 e a máquina sairia por R$ 297,00. Releia o preço da caixa antes de decidir."
+        ],
+        "bullets": [
+          "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
+          "Mini Me 2.0 avulsa: R$ 419,90.",
+          "Mini Me da geração anterior: R$ 579,90 avulsa, mais cara que a 2.0 na loja naquele dia."
+        ]
+      },
+      {
+        "heading": "O gatilho de 50 a 70 caixas ficou no histórico",
+        "paragraphs": [
+          "Em junho de 2026, a promoção exigia 55 caixas ORIGINAL para ganhar a Mini Me; em 16 de julho de 2026, eram 60. Na leitura de 24/10/2026, esse gatilho não aparecia mais na loja. A promoção é temporária e pode mudar sem aviso, por isso o número vigente é o do seu carrinho."
+        ]
+      },
+      {
+        "heading": "Como usar o cupom CECI",
         "paragraphs": [
           "O cupom CECI (5% OFF em compras a partir de R$ 100) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
-          "O desconto de 5% sobre um valor elevado de cápsulas representa uma economia adicional significativa. No exemplo abaixo usamos 55 caixas como cálculo, mas ajuste para o número vigente no seu dia. Considerando um preço médio de R$ 25 por caixa e 55 unidades, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra."
+          "Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
         ],
-        "bullets": []
+        "links": [
+          {
+            "label": "Página do cupom CECI na Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
-          "A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar em volume garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.",
-          "Se o consumo é esporádico (uma ou duas xícaras por semana), o número mínimo de caixas pode demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.",
-          "A decisão final depende do perfil de consumo e da disponibilidade de estoque da promoção. Como a oferta pode ser encerrada sem aviso prévio, quem tem interesse deve agir dentro do prazo de disponibilidade e consultar o número exato de caixas exigido no dia."
+          "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho, e os combos com \"Ganhe máquina Mini Me\" entregam a máquina sem custo para quem atinge o mínimo de caixas.",
+          "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
+          "Confirme preço, número de caixas e regras no carrinho antes de pagar."
         ],
         "bullets": [
-          "Consumo frequente: o volume mínimo é viável e a Mini Me é um bônus valioso.",
-          "Consumo esporádico: verifique se o número de caixas faz sentido para seu ritmo.",
-          "Sempre confirme as condições no site oficial antes de finalizar o pedido."
-        ],
-        "emphasis": "Aqui em casa, pelo nosso ritmo de consumo, o número de caixas da promoção (ex.: 55) duraria em torno de 4 a 5 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.",
-        "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
-        "imageAlt": "Cecília Mauad consumindo café em casa",
-        "imageFit": "portrait"
-      },
-      {
-        "heading": "Alerta de validade",
-        "paragraphs": [
-          "Este artigo explica uma promoção recorrente, mas não é uma garantia de continuidade. A loja oficial mantém a oferta ativa frequentemente, porém o número de caixas exigido muda regularmente, e a promoção pode ser encerrada ou modificada sem aviso prévio. Recomenda-se verificar a disponibilidade e o número exato de caixas no site oficial antes de qualquer compra. Quando a promoção encerrar de forma definitiva, este artigo será arquivado como referência histórica."
-        ],
-        "bullets": []
+          "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
+          "Consumo esporádico: Mini Me 2.0 avulsa e cápsulas conforme o uso."
+        ]
       }
     ],
     "cta": {
-      "text": "Aproveite a promoção de cápsulas + Mini Me grátis e ainda economize 5% com o cupom CECI. Verifique o número de caixas exigido hoje.",
+      "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 5% quando estiver elegível.",
       "label": "Ir para a loja oficial",
       "url": "https://www.nescafe-dolcegusto.com.br/sabores"
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.",
+    "editorialNote": "Cupom CECI é parceria comercial. Regras e preços vêm da loja oficial.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -35878,6 +35999,7 @@ export const reviewsData: unknown[] = [
     "id": 233,
     "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
     "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso",
+    "seoTitle": "Genio S Touch vale a pena? Primeiras impressões e veredito",
     "type": "Teste de Cozinha",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -35913,20 +36035,20 @@ export const reviewsData: unknown[] = [
       "Troca de cápsula simples: basta levantar a tampa frontal, que já ativa o painel",
       "Reservatório de 800 ml fácil de encaixar e remover para reabastecer",
       "Construção robusta, sem rebarbas ou acabamento malfeito",
-      "Compacta — cabe bem no cantinho do café sem disputar espaço de bancada"
+      "Compacta: cabe bem no cantinho do café sem disputar espaço de bancada"
     ],
     "cons": [
-      "Fica pingando entre um preparo e outro — algo que não notamos na NEO nem na Vertuo",
+      "Fica pingando entre um preparo e outro, algo que não notamos na NEO nem na Vertuo",
       "A unidade 127V testada possui plugue de 20A e requer uma tomada compatível, sem adaptadores improvisados",
       "Menos recursos de conectividade (IoT/app) que a NEO e a Vertuo",
       "Os únicos valores em ml de cada nível estão no manual impresso, não no painel",
-      "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo — ainda não temos uso suficiente pra confirmar ou descartar"
+      "Há relatos de usuários (inclusive no Reclame Aqui) sobre o painel touch apresentando problemas com o tempo: ainda não temos uso suficiente pra confirmar ou descartar"
     ],
-    "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa — mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
+    "pullQuote": "É a máquina de cápsula mais rápida que já tivemos em casa, mas o painel touch e o reservatório de 800 ml são só a metade da história do primeiro uso.",
     "verdict": {
       "stars": 4,
       "recommendation": "com ressalvas",
-      "summary": "Nas primeiras impressões, a Genio S Touch conquista pela velocidade e pelo painel touch intuitivo — mas o pingo entre preparos, a pouca conectividade e os relatos de problema no touch com o tempo pedem cautela. Vamos atualizar este veredito conforme usarmos mais a máquina no dia a dia."
+      "summary": "Nas primeiras impressões, a Genio S Touch conquista pela velocidade e pelo painel touch intuitivo, mas o pingo entre preparos, a pouca conectividade e os relatos de problema no touch com o tempo pedem cautela. Vamos atualizar este veredito conforme usarmos mais a máquina no dia a dia."
     },
     "productSpec": [
       {
@@ -35982,7 +36104,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é baseado no uso real da Genio S Touch em nossa casa. O cupom CECI faz parte da nossa parceria comercial com a Dolce Gusto e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Primeiras impressões de uso em casa. O cupom CECI vem de parceria comercial com comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
@@ -35999,10 +36121,16 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Nas primeiras impressões, pesam contra o pingo entre preparos e a pouca conectividade em relação à NEO e à Vertuo. Veja o capítulo Veredito para quem faz sentido e o que ainda não dá para afirmar."
+        ]
+      },
+      {
         "heading": "Por que testamos a Genio S Touch",
         "paragraphs": [
           "A Genio S Touch é a versão com painel touchscreen da linha Genio S da NESCAFÉ Dolce Gusto: mantém o sistema de cápsulas ORIGINAL, mas troca os botões físicos das versões Basic e Plus por um painel touchscreen, com Espresso Boost, 4 níveis de temperatura e Função XL para bebidas maiores.",
-          "Este artigo traz nossas primeiras impressões reais de uso — unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
+          "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
@@ -36012,7 +36140,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Unboxing e primeiro contato",
         "paragraphs": [
-          "A máquina veio bem embalada, junto com o suporte para xícara/copo — que também funciona como apoio na hora da limpeza — e um código de 20% OFF de brinde (um cupom promocional do próprio fabricante, específico daquela unidade, então não é algo que garantimos pra todo comprador). Não veio nenhuma cápsula de amostra nem copo medidor.",
+          "A máquina veio bem embalada, junto com o suporte para xícara/copo (que também funciona como apoio na hora da limpeza) e um código de 20% OFF de brinde (um cupom promocional do próprio fabricante, específico daquela unidade, então não é algo que garantimos pra todo comprador). Não veio nenhuma cápsula de amostra nem copo medidor.",
           "No primeiro contato, o que chamou atenção foi o quanto ela é leve e compacta. O reservatório de água, de 800 ml, sai e encaixa de volta com facilidade na hora de reabastecer. A construção é sólida, sem rebarbas ou acabamento malfeito em nenhuma parte que verificamos.",
           "A única etapa antes do primeiro café é o ciclo de limpeza inicial (rodar água sem cápsula), simples e bem explicado no manual e no guia rápido que acompanham a máquina."
         ],
@@ -36025,8 +36153,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O painel touch, na prática",
         "paragraphs": [
-          "A navegação no touch é intuitiva, mas tem funções que vão além do básico — como o Espresso Boost e o ajuste de temperatura em 4 níveis. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
-          "O toque responde bem, sem delay perceptível — não precisamos apertar duas vezes ou esperar a tela 'acordar'."
+          "A navegação no touch é intuitiva, mas tem funções que vão além do básico, como o Espresso Boost e o ajuste de temperatura em 4 níveis. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
+          "O toque responde bem, sem delay perceptível: não precisamos apertar duas vezes ou esperar a tela 'acordar'."
         ],
         "bullets": [],
         "video": {
@@ -36038,16 +36166,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quantos ml sai em cada nível?",
         "paragraphs": [
-          "Aqui vai um ponto que gerou dúvida enquanto usávamos a máquina: o painel touch mostra os mesmos ícones de tamanho impressos na cápsula e na caixinha (os \"riscos\" que qualquer usuário de Dolce Gusto já conhece), sem indicar o volume em ml diretamente. A única referência com os valores reais em ml que encontramos foi no manual impresso — que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
-          "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), estamos preparando um guia específico com a tabela completa de ml por nível da Genio S Touch."
+          "Aqui vai um ponto que gerou dúvida enquanto usávamos a máquina: o painel touch mostra os mesmos ícones de tamanho impressos na cápsula e na caixinha (os \"riscos\" que qualquer usuário de Dolce Gusto já conhece), sem indicar o volume em ml diretamente. A única referência com os valores reais em ml que encontramos foi no manual impresso, que vai até o nível XL, acima do que costuma vir configurado como máximo \"normal\" no painel.",
+          "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
         ],
         "bullets": []
       },
       {
         "heading": "A primeira xícara",
         "paragraphs": [
-          "Na comparação com as outras máquinas de cápsula que já tivemos em casa — incluindo a Vertuo da Nespresso —, a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch — mas isso fica pro artigo específico dela.)",
-          "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro — algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
+          "Na comparação com as outras máquinas de cápsula que já tivemos em casa (incluindo a Vertuo da Nespresso), a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
+          "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro, algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
         ],
         "bullets": [],
         "video": {
@@ -36060,16 +36188,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que incomodou (sem só elogiar)",
         "paragraphs": [
-          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás — a NEO tem mais integração (IoT) e custa menos (com preço verificado em 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
-          "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco — é algo que vamos acompanhar e atualizar aqui."
+          "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás: a NEO tem mais integração (IoT) e custa menos (com preço verificado em 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
+          "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
         ],
         "bullets": []
       },
       {
         "heading": "E bebidas frias?",
         "paragraphs": [
-          "O painel touch tem sim uma opção de preparo frio (ícone de xícara azul) — um bom exemplo prático do que dá pra fazer no touch. Usamos exatamente essa opção pra testar o Chá de Pêssego (Nestea), pensado pra ser consumido gelado.",
-          "Mesmo selecionando o preparo frio, a bebida saiu morna, por volta de 40°C, não gelada — o \"frio\" do painel muda o modo de preparo, mas não refrigera a água. Se você quer o chá (ou qualquer bebida) realmente gelado, o jeito é preparar com antecedência e levar à geladeira ou freezer, ou já deixar gelo pronto no copo antes de servir."
+          "O painel touch tem sim uma opção de preparo frio (ícone de xícara azul), um bom exemplo prático do que dá pra fazer no touch. Usamos exatamente essa opção pra testar o Chá de Pêssego (Nestea), pensado pra ser consumido gelado.",
+          "Mesmo selecionando o preparo frio, a bebida saiu morna, por volta de 40°C, não gelada: o \"frio\" do painel muda o modo de preparo, mas não refrigera a água. Se você quer o chá (ou qualquer bebida) realmente gelado, o jeito é preparar com antecedência e levar à geladeira ou freezer, ou já deixar gelo pronto no copo antes de servir."
         ],
         "bullets": []
       },
@@ -36083,21 +36211,21 @@ export const reviewsData: unknown[] = [
           "Gold Lungo",
           "Espresso",
           "Lajotinha Kopenhagen",
-          "Chá de Pêssego (Nestea — sai morno, veja a nota acima sobre bebidas frias)",
+          "Chá de Pêssego (Nestea, sai morno: veja a nota acima sobre bebidas frias)",
           "Doce de Leite com Pistache",
           "Caramelo Salgado"
         ]
       },
       {
-        "heading": "Para quem vale a pena",
+        "heading": "Veredito: vale a pena, com ressalvas",
         "paragraphs": [
-          "Pelo que testamos até agora, a Genio S Touch faz mais sentido pra quem:"
+          "Nas primeiras impressões, nota 4 de 5: a velocidade e o painel touch compensam, o pingo entre preparos e a pouca conectividade pedem cautela, e ainda não dá para afirmar nada sobre durabilidade. Pelo que testamos até agora, a Genio S Touch faz mais sentido pra quem:"
         ],
         "bullets": [
-          "Vai usar a máquina todos os dias e valoriza um preparo rápido — foi a mais rápida que já tivemos em casa.",
+          "Vai usar a máquina todos os dias e valoriza um preparo rápido: foi a mais rápida que já tivemos em casa.",
           "Gosta de um painel touch intuitivo e não se importa em abrir mão de recursos de app/IoT em troca disso.",
-          "Tem espaço de bancada limitado — ela é compacta e não disputa espaço.",
-          "Já quem prioriza conectividade (controle por app, integração smart) ou quer evitar qualquer pingo entre preparos pode se incomodar mais — vale considerar a NEO nesses casos."
+          "Tem espaço de bancada limitado: ela é compacta e não disputa espaço.",
+          "Já quem prioriza conectividade (controle por app, integração smart) ou quer evitar qualquer pingo entre preparos pode se incomodar mais: vale considerar a NEO nesses casos."
         ]
       },
       {
@@ -36112,11 +36240,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus usa botões físicos tradicionais. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
-          "A Genio S Touch é compatível com cápsulas NEO? Não diretamente — ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
-          "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso — estamos preparando um artigo específico com a tabela completa.",
-          "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro — um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
+          "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
+          "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
+          "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
           "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
-          "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso — melhora bastante o resultado na xícara.",
+          "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
           "O cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver mais ativo, use o link da loja oficial neste artigo para conferir a promoção vigente no momento da sua compra."
         ]
       }
@@ -36208,7 +36336,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "This article contains affiliate links. When you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
+    "editorialNote": "Contains affiliate links: we may earn a commission from YesStyle and CECILIA010.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010",
@@ -36216,6 +36344,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones. YesStyle promo coupons go in the Coupon Code field and expire quickly. The two-field walkthrough starts at \"Step 1: access the store via the official link\"."
+        ]
+      },
       {
         "heading": "Why do most YesStyle coupons on the internet fail?",
         "paragraphs": [
@@ -36264,7 +36398,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Step 1 — Access the store via the official link",
+        "heading": "Step 1: access the store via the official link",
         "paragraphs": [
           "Open YesStyle using Cecília’s official influencer link. This helps correctly attribute the referral before you apply codes at checkout."
         ],
@@ -36277,7 +36411,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Step 2 — Assemble your shopping bag",
+        "heading": "Step 2: assemble your shopping bag",
         "paragraphs": [
           "Select your favorite Korean cosmetics, sunscreens, serums, or fashion items and add them to your shopping bag."
         ],
@@ -36287,19 +36421,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Step 3 — Apply the promo coupon in the Coupon Code field",
+        "heading": "Step 3: apply the promo coupon in the Coupon Code field",
         "paragraphs": [
           "On the checkout screen, locate the \"Coupon Code\" box. If there is an active promo coupon on YesStyle, enter the code and click \"Apply\"."
         ]
       },
       {
-        "heading": "Step 4 — Paste the CECILIA010 code in the Reward Code field",
+        "heading": "Step 4: paste the CECILIA010 code in the Reward Code field",
         "paragraphs": [
           "On the same checkout page, access the separate \"Reward Code / Influencer Code\" box. Enter the code CECILIA010 and click \"Apply\"."
         ]
       },
       {
-        "heading": "Step 5 — Confirm the combined discount and place your order",
+        "heading": "Step 5: confirm the combined discount and place your order",
         "paragraphs": [
           "Check your order summary and confirm that both discounts appear before placing your order (the promo coupon and the CECILIA010 reward code)."
         ],
@@ -36329,7 +36463,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Frequently asked questions about YesStyle coupons",
+        "heading": "Frequently asked questions about YesStyle coupons",
         "bullets": [
           "What is the difference between Coupon Code and Influencer/Rewards Code on YesStyle? Coupon Code is a temporary promotional coupon from YesStyle applied in the \"Coupon Code\" field and may have expiration dates, minimum spends, or product exclusions. CECILIA010 is an Influencer/Rewards Code applied in the separate \"Reward Code\" field offering up to 5% extra OFF (5% for new customers / 2% for returning customers). When campaign rules allow, both discounts appear together in the order summary.",
           "What is the YesStyle influencer code? It's a Reward Code, entered in its own checkout field, separate from the Coupon Code field. Ours is CECILIA010: 5% off a first order and 2% on later orders.",
@@ -36421,7 +36555,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este artículo contiene enlaces de afiliado. Al acceder a YesStyle mediante nuestros enlaces o usar el código CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
+    "editorialNote": "Contiene enlaces de afiliado: podemos recibir comisión por YesStyle y CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
@@ -36429,6 +36563,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes. Los cupones promocionales de YesStyle van en el campo Coupon Code y caducan rápido. La guía empieza en \"Paso 1: accede a la tienda por el enlace oficial\"."
+        ]
+      },
       {
         "heading": "¿Por qué la mayoría de cupones de YesStyle en internet no funcionan?",
         "paragraphs": [
@@ -36477,7 +36617,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Paso 1 — Accede a la tienda por el enlace oficial",
+        "heading": "Paso 1: accede a la tienda por el enlace oficial",
         "paragraphs": [
           "Abre YesStyle mediante el enlace oficial de influencer de Cecília. Esto ayuda a registrar correctamente la recomendación antes de aplicar los códigos."
         ],
@@ -36490,7 +36630,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Paso 2 — Prepara tu cesta de la compra",
+        "heading": "Paso 2: prepara tu cesta de la compra",
         "paragraphs": [
           "Selecciona tus cosméticos coreanos, protectores solares o ropa favoritos y añádelos a tu cesta."
         ],
@@ -36500,19 +36640,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Paso 3 — Aplica el cupón promocional en el campo Coupon Code",
+        "heading": "Paso 3: aplica el cupón promocional en el campo Coupon Code",
         "paragraphs": [
           "En el checkout, localiza la casilla \"Coupon Code\". Si hay un cupón activo en YesStyle, introdúcelo y haz clic en \"Aplicar\"."
         ]
       },
       {
-        "heading": "Paso 4 — Pega el código CECILIA010 en el campo Reward Code",
+        "heading": "Paso 4: pega el código CECILIA010 en el campo Reward Code",
         "paragraphs": [
           "En la misma pantalla, accede a la casilla \"Reward Code / Influencer Code\". Introduce CECILIA010 y haz clic en \"Aplicar\"."
         ]
       },
       {
-        "heading": "Paso 5 — Confirma el descuento acumulado y finaliza tu pedido",
+        "heading": "Paso 5: confirma el descuento acumulado y finaliza tu pedido",
         "paragraphs": [
           "Comprueba el resumen final del pedido y confirma que ambos descuentos se reflejan antes de pagar (el cupón promocional y el código de recompensa CECILIA010)."
         ],
@@ -36542,7 +36682,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Preguntas frecuentes sobre cupones de YesStyle",
+        "heading": "Preguntas frecuentes sobre cupones de YesStyle",
         "bullets": [
           "¿Cuál es la diferencia entre Coupon Code y Reward Code en YesStyle? Coupon Code es un cupón promocional temporal que se aplica en el campo \"Coupon Code\". CECILIA010 es un Reward Code de influencer que se introduce en el campo \"Reward Code\" y ofrece hasta un 5% OFF extra (5% en 1ª compra / 2% en recurrentes). Cuando las reglas lo permiten, ambos se suman en el resumen.",
           "¿Qué es el código de influencer de YesStyle? Es el Código de Recompensa (Reward Code), que se introduce en un campo propio del checkout, separado del campo de cupón. El nuestro es CECILIA010: 5% en la primera compra y 2% en las siguientes.",
@@ -36634,7 +36774,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous achetez via nos liens ou utilisez le code CECILIA010, nous pouvons recevoir une commission sans coût supplémentaire pour vous.",
+    "editorialNote": "Liens d'affiliation : nous pouvons recevoir une commission via YesStyle et CECILIA010.",
     "relatedArticles": [
       {
         "slug": "code-recompense-yesstyle-cecilia010",
@@ -36642,6 +36782,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite). Les coupons promo de YesStyle vont dans le champ Coupon Code et expirent vite. Le pas-à-pas commence à « Étape 1 : accédez à la boutique via le lien officiel »."
+        ]
+      },
       {
         "heading": "Pourquoi la plupart des coupons YesStyle sur internet échouent-ils ?",
         "paragraphs": [
@@ -36690,7 +36836,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Étape 1 — Accédez à la boutique via le lien officiel",
+        "heading": "Étape 1 : accédez à la boutique via le lien officiel",
         "paragraphs": [
           "Ouvrez YesStyle via le lien officiel d'influenceur de Cecília. Cela permet d'attribuer correctement le parrainage avant de saisir les codes au paiement."
         ],
@@ -36703,7 +36849,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Étape 2 — Préparez votre panier d'achats",
+        "heading": "Étape 2 : préparez votre panier d'achats",
         "paragraphs": [
           "Sélectionnez vos cosmétiques coréens ou soins préférés et ajoutez-les à votre panier."
         ],
@@ -36713,19 +36859,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Étape 3 — Appliquez le coupon promo dans le champ Coupon Code",
+        "heading": "Étape 3 : appliquez le coupon promo dans le champ Coupon Code",
         "paragraphs": [
           "Sur l'écran de paiement, localisez la case \"Coupon Code\". Si un coupon promo est actif sur YesStyle, saisissez-le et cliquez sur \"Appliquer\"."
         ]
       },
       {
-        "heading": "Étape 4 — Collez le code CECILIA010 dans le champ Reward Code",
+        "heading": "Étape 4 : collez le code CECILIA010 dans le champ Reward Code",
         "paragraphs": [
           "Sur la même page de paiement, accédez à la case \"Reward Code / Influencer Code\". Saisissez CECILIA010 et cliquez sur \"Appliquer\"."
         ]
       },
       {
-        "heading": "Étape 5 — Confirmez le cumul des réductions et validez la commande",
+        "heading": "Étape 5 : confirmez le cumul des réductions et validez la commande",
         "paragraphs": [
           "Vérifiez le récapitulatif final de la commande et confirmez que les deux réductions apparaissent avant de payer (le coupon promo et le code CECILIA010)."
         ],
@@ -36755,7 +36901,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Foire aux questions sur les coupons YesStyle",
+        "heading": "Foire aux questions sur les coupons YesStyle",
         "bullets": [
           "Quelle est la différence entre Coupon Code et Reward Code sur YesStyle ? Le Coupon Code est un coupon promo temporaire de YesStyle appliqué dans le champ \"Coupon Code\". CECILIA010 est un Reward Code d'influenceur à saisir dans le champ \"Reward Code\" offrant jusqu'à 5% en plus (5% 1ère commande / 2% suivantes). Lorsque la campagne le permet, les deux s'additionnent au paiement.",
           "Qu'est-ce que le code influenceur YesStyle ? C'est le code récompense (Reward Code), saisi dans un champ dédié à l'étape de paiement, distinct du champ Coupon Code. Le nôtre est CECILIA010 : 5% sur une première commande et 2% sur les suivantes.",
@@ -36847,7 +36993,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du über unsere Links einkaufst oder den Code CECILIA010 nutzt, erhalten wir möglicherweise eine Provision ohne Aufpreis für dich.",
+    "editorialNote": "Enthält Affiliate-Links: Wir erhalten ggf. eine Provision für YesStyle und CECILIA010.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010",
@@ -36855,6 +37001,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren. YesStyle-Aktionsgutscheine gehören ins Feld Coupon Code und laufen schnell ab. Die Anleitung für beide Felder beginnt bei \"Schritt 1: Rufe den Shop über den offiziellen Link auf\"."
+        ]
+      },
       {
         "heading": "Warum funktionieren die meisten YesStyle-Gutscheine im Internet nicht?",
         "paragraphs": [
@@ -36903,7 +37055,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Schritt 1 — Rufe den Shop über den offiziellen Link auf",
+        "heading": "Schritt 1: Rufe den Shop über den offiziellen Link auf",
         "paragraphs": [
           "Öffne YesStyle über Cecílias offiziellen Partner-Link. Dadurch wird die Zuordnung korrekter erfasst, bevor du die Codes an der Kasse eingibst."
         ],
@@ -36916,7 +37068,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Schritt 2 — Stelle deinen Warenkorb zusammen",
+        "heading": "Schritt 2: Stelle deinen Warenkorb zusammen",
         "paragraphs": [
           "Wähle deine bevorzugten koreanischen Kosmetikprodukte oder Pflegeartikel aus und lege sie in den Warenkorb."
         ],
@@ -36926,19 +37078,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Schritt 3 — Gib den Aktionsgutschein im Feld Coupon Code ein",
+        "heading": "Schritt 3: Gib den Aktionsgutschein im Feld Coupon Code ein",
         "paragraphs": [
           "Suche an der Kasse das Feld \"Coupon Code\". Wenn ein aktiver Gutschein vorhanden ist, trage den Code ein und klicke auf \"Anwenden\"."
         ]
       },
       {
-        "heading": "Schritt 4 — Füge den Code CECILIA010 im Feld Reward Code ein",
+        "heading": "Schritt 4: Füge den Code CECILIA010 im Feld Reward Code ein",
         "paragraphs": [
           "Trage im selben Checkout-Bereich unter \"Reward Code / Influencer Code\" den Code CECILIA010 ein und klicke auf \"Anwenden\"."
         ]
       },
       {
-        "heading": "Schritt 5 — Kombinierten Rabatt prüfen und Bestellung abschließen",
+        "heading": "Schritt 5: Kombinierten Rabatt prüfen und Bestellung abschließen",
         "paragraphs": [
           "Überprüfe die Zusammenfassung und stelle sicher, dass beide Rabatte angezeigt werden, bevor du bezahlst."
         ],
@@ -36968,7 +37120,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Häufige Fragen zu YesStyle Gutscheinen",
+        "heading": "Häufige Fragen zu YesStyle Gutscheinen",
         "bullets": [
           "Was ist der Unterschied zwischen Coupon Code und Reward Code bei YesStyle? Coupon Code ist ein zeitlich begrenzter Aktionsgutschein im Feld \"Coupon Code\". CECILIA010 ist ein Influencer-Reward-Code im Feld \"Reward Code\" für bis zu 5% Extra-Rabatt (5% Erstbestellung / 2% Folgebestellung). Beide lassen sich kombinieren, wenn die Aktion es erlaubt.",
           "Was ist der YesStyle Influencer-Code? Es ist ein Reward Code (Belohnungscode), der in einem eigenen Feld an der Kasse eingegeben wird, getrennt vom Feld für den Coupon Code. Unserer ist CECILIA010: 5% auf die erste Bestellung und 2% auf Folgebestellungen.",
@@ -37060,7 +37212,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "본 문서에는 제휴 링크가 포함되어 있습니다. 링크를 통해 구매하거나 CECILIA010 코드를 사용하실 경우 소정의 수수료를 지급받을 수 있습니다.",
+    "editorialNote": "제휴 링크가 포함되어 있으며, YesStyle과 CECILIA010 이용 시 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko",
@@ -37068,6 +37220,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다. YesStyle 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 두 입력란 사용법은 \"1단계: 공식 링크를 통해 쇼핑몰 접속\"부터 시작합니다."
+        ]
+      },
       {
         "heading": "인터넷의 YesStyle 쿠폰 다수가 적용되지 않는 이유",
         "paragraphs": [
@@ -37116,7 +37274,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "1단계 — 공식 링크를 통해 쇼핑몰 접속",
+        "heading": "1단계: 공식 링크를 통해 쇼핑몰 접속",
         "paragraphs": [
           "Cecília의 공식 인플루언서 링크를 통해 YesStyle에 접속합니다. 결제 시 코드를 넣기 전 추천인 혜택이 정상 등록되는 데 도움이 됩니다."
         ],
@@ -37129,7 +37287,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "2단계 — 장바구니에 상품 담기",
+        "heading": "2단계: 장바구니에 상품 담기",
         "paragraphs": [
           "원하는 화장품, 선크림, 세럼 등을 장바구니에 담습니다."
         ],
@@ -37139,19 +37297,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "3단계 — Coupon Code 입력란에 프로모션 쿠폰 입력",
+        "heading": "3단계: Coupon Code 입력란에 프로모션 쿠폰 입력",
         "paragraphs": [
           "결제 창에서 \"Coupon Code\" 상자를 찾아 진행 중인 프로모션 쿠폰 코드를 입력하고 \"적용(Apply)\"을 누릅니다."
         ]
       },
       {
-        "heading": "4단계 — Reward Code 입력란에 CECILIA010 입력",
+        "heading": "4단계: Reward Code 입력란에 CECILIA010 입력",
         "paragraphs": [
           "동일한 결제 페이지의 \"Reward Code / Influencer Code\" 상자에 CECILIA010을 입력하고 \"적용(Apply)\"을 누릅니다."
         ]
       },
       {
-        "heading": "5단계 — 중복 할인 금액 확인 및 결제 완료",
+        "heading": "5단계: 중복 할인 금액 확인 및 결제 완료",
         "paragraphs": [
           "최종 결제 요약 창에서 두 가지 할인(프로모션 쿠폰 + CECILIA010)이 모두 적용되었는지 확인 후 결제를 진행합니다."
         ],
@@ -37181,7 +37339,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — YesStyle 쿠폰 자주 묻는 질문",
+        "heading": "YesStyle 쿠폰 자주 묻는 질문",
         "bullets": [
           "Coupon Code와 Reward Code의 차이는 무엇인가요? Coupon Code는 YesStyle이 제공하는 임시 프로모션 쿠폰입니다. CECILIA010은 Reward Code 입력란에 넣는 인플루언서 코드로 최대 5% 추가 할인을 제공합니다. 두 코드는 함께 중복 적용될 수 있습니다.",
           "YesStyle 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)를 말하며, Coupon Code 입력란과는 별도로 마련된 전용 입력란에 입력합니다. 저희 코드는 CECILIA010으로, 첫 주문 5%, 이후 주문 2% 할인을 받을 수 있습니다.",
@@ -37273,7 +37431,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本記事にはアフィリエイトリンクが含まれています。リンク経由でのご購入やCECILIA010コードのご利用により、当サイトが報酬を得る場合があります。",
+    "editorialNote": "アフィリエイトリンクを含みます。YesStyleとCECILIA010の利用で報酬を得る場合があります。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja",
@@ -37281,6 +37439,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。YesStyleのプロモクーポンはCoupon Code欄に入力し、期限が短めです。2つの欄の手順は「ステップ1：公式リンクからショップにアクセス」から始まります。"
+        ]
+      },
       {
         "heading": "ネット上のYesStyleクーポンの多くが使えない理由",
         "paragraphs": [
@@ -37329,7 +37493,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ステップ1 — 公式リンクからショップにアクセス",
+        "heading": "ステップ1：公式リンクからショップにアクセス",
         "paragraphs": [
           "Cecíliaの公式インフルエンサーリンクからYesStyleを開きます。コード入力前に紹介特典が正しく認識されるのをサポートします。"
         ],
@@ -37342,7 +37506,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ステップ2 — カートに商品をセット",
+        "heading": "ステップ2：カートに商品をセット",
         "paragraphs": [
           "お気に入りの韓国コスメやスキンケア商品をショッピングカートに追加します。"
         ],
@@ -37352,19 +37516,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "ステップ3 — Coupon Code欄にプロモクーポンを入力",
+        "heading": "ステップ3：Coupon Code欄にプロモクーポンを入力",
         "paragraphs": [
           "チェックアウト画面で「Coupon Code」枠を探し、開催中のプロモコードを入力して「適用（Apply）」を押します。"
         ]
       },
       {
-        "heading": "ステップ4 — Reward Code欄にCECILIA010を入力",
+        "heading": "ステップ4：Reward Code欄にCECILIA010を入力",
         "paragraphs": [
           "同じ決済画面の「Reward Code / Influencer Code」枠にCECILIA010を入力し、「適用（Apply）」を押します。"
         ]
       },
       {
-        "heading": "ステップ5 — 併用割引を確認して注文を完了",
+        "heading": "ステップ5：併用割引を確認して注文を完了",
         "paragraphs": [
           "注文要約で2つの割引（プロモクーポン ＋ CECILIA010）が両方反映されていることを確認して購入を完了します。"
         ],
@@ -37394,7 +37558,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — YesStyleクーポンに関するよくある質問",
+        "heading": "YesStyleクーポンに関するよくある質問",
         "bullets": [
           "Coupon CodeとReward Codeの違いは何ですか？ Coupon CodeはYesStyleが発行する期間限定プロモクーポンです。CECILIA010はReward Code欄に入力するインフルエンサーコードで最大5%追加オフ（初回5% / リピート2%）になります。条件が合えば併用可能です。",
           "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、Coupon Code欄とは別に用意されたチェックアウトの専用欄に入力します。当サイトのコードはCECILIA010で、初回注文は5%オフ、2回目以降は2%オフになります。",
@@ -37486,7 +37650,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本文包含贊助聯盟連結。如果您通過我們的連結購買或使用 CECILIA010 代碼，我們可能會獲得佣金，對您無需支付額外費用。",
+    "editorialNote": "含聯盟連結：透過 YesStyle 與 CECILIA010 購物，我們可能獲得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
@@ -37494,6 +37658,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。YesStyle 的促銷優惠碼填入 Coupon Code 欄位，很快會過期。兩個欄位的操作步驟從「步驟 1：通過官方連結前往商店」開始。"
+        ]
+      },
       {
         "heading": "為什麼網路上大多數 YesStyle 優惠碼都無法使用？",
         "paragraphs": [
@@ -37542,7 +37712,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "步驟 1 — 通過官方連結前往商店",
+        "heading": "步驟 1：通過官方連結前往商店",
         "paragraphs": [
           "使用 Cecília 的官方專屬連結開啟 YesStyle。這有助於在結帳輸入代碼前正確記錄推薦關係。"
         ],
@@ -37555,7 +37725,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "步驟 2 — 將商品加入購物車",
+        "heading": "步驟 2：將商品加入購物車",
         "paragraphs": [
           "選擇您喜愛的韓國護膚品或彩妝，將其放入購物車。"
         ],
@@ -37565,19 +37735,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "步驟 3 — 在 Coupon Code 欄位輸入促銷代碼",
+        "heading": "步驟 3：在 Coupon Code 欄位輸入促銷代碼",
         "paragraphs": [
           "在結帳頁面找到 \"Coupon Code\" 區塊，輸入正在進行的促銷代碼，然後點擊 \"Apply\"。"
         ]
       },
       {
-        "heading": "步驟 4 — 在 Reward Code 欄位貼上 CECILIA010 代碼",
+        "heading": "步驟 4：在 Reward Code 欄位貼上 CECILIA010 代碼",
         "paragraphs": [
           "在同一結帳頁面的 \"Reward Code / Influencer Code\" 區塊中輸入 CECILIA010，然後點擊 \"Apply\"。"
         ]
       },
       {
-        "heading": "步驟 5 — 確認疊加折扣並完成訂單",
+        "heading": "步驟 5：確認疊加折扣並完成訂單",
         "paragraphs": [
           "檢查最終訂單摘要，確認兩項折扣（促銷碼 ＋ CECILIA010）皆已成功顯示後再付款。"
         ],
@@ -37607,7 +37777,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — YesStyle 優惠碼常見問題",
+        "heading": "YesStyle 優惠碼常見問題",
         "bullets": [
           "Coupon Code 與 Reward Code 有何不同？ Coupon Code 是 YesStyle 發行的臨時促銷代碼。CECILIA010 是填入 Reward Code 欄位的網紅代碼，可額外享高達 5% 折扣（首購5%/複購2%）。活動允許時兩者可疊加。",
           "什麼是 YesStyle 網紅代碼？ 它是獎勵碼（Reward Code），須填入結帳頁面專屬的獨立欄位，與 Coupon Code 欄位分開。我們的代碼是 CECILIA010：首次訂單享 5% 折扣，之後的訂單享 2% 折扣。",
@@ -37699,7 +37869,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本文包含赞助联盟链接。如果您通过我们的链接购买或使用 CECILIA010 代码，我们可能会获得佣金，对您无需支付额外费用。",
+    "editorialNote": "含联盟链接：通过 YesStyle 和 CECILIA010 购物，我们可能获得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
@@ -37707,6 +37877,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。YesStyle 的促销优惠码填入 Coupon Code 栏位，很快会过期。两个栏位的操作步骤从“步骤 1：通过官方链接前往商店”开始。"
+        ]
+      },
       {
         "heading": "为什么网络上大多数 YesStyle 优惠码都无法使用？",
         "paragraphs": [
@@ -37755,7 +37931,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "步骤 1 — 通过官方链接前往商店",
+        "heading": "步骤 1：通过官方链接前往商店",
         "paragraphs": [
           "使用 Cecília 的官方专属链接开启 YesStyle。这有助于在结账输入代码前正确记录推荐关系。"
         ],
@@ -37768,7 +37944,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "步骤 2 — 将商品加入购物车",
+        "heading": "步骤 2：将商品加入购物车",
         "paragraphs": [
           "选择您喜爱的韩国护肤品或彩妆，将其放入购物车。"
         ],
@@ -37778,19 +37954,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "步骤 3 — 在 Coupon Code 栏位输入促销代码",
+        "heading": "步骤 3：在 Coupon Code 栏位输入促销代码",
         "paragraphs": [
           "在结账页面找到 \"Coupon Code\" 区块，输入正在进行的促销代码，然后点击 \"Apply\"。"
         ]
       },
       {
-        "heading": "步骤 4 — 在 Reward Code 栏位粘贴 CECILIA010 代码",
+        "heading": "步骤 4：在 Reward Code 栏位粘贴 CECILIA010 代码",
         "paragraphs": [
           "在同一结账页面的 \"Reward Code / Influencer Code\" 区块中输入 CECILIA010，然后点击 \"Apply\"。"
         ]
       },
       {
-        "heading": "步骤 5 — 确认叠加折扣并完成订单",
+        "heading": "步骤 5：确认叠加折扣并完成订单",
         "paragraphs": [
           "检查最终订单摘要，确认两项折扣（促销码 ＋ CECILIA010）皆已成功显示后再付款。"
         ],
@@ -37820,7 +37996,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — YesStyle 优惠码常见问题",
+        "heading": "YesStyle 优惠码常见问题",
         "bullets": [
           "Coupon Code 与 Reward Code 有何不同？ Coupon Code 是 YesStyle 发行的临时促销代码。CECILIA010 是填入 Reward Code 栏位的网红代码，可额外享高达 5% 折扣（首购5%/复购2%）。活动允许时两者可叠加。",
           "什么是 YesStyle 网红代码？ 它是奖励码（Reward Code），须填入结账页面专属的独立栏位，与 Coupon Code 栏位分开。我们的代码是 CECILIA010：首次订单享 5% 折扣，之后的订单享 2% 折扣。",
@@ -37858,7 +38034,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
+    "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, com fotos da tabela impressa na embalagem: inclui cafés, lattes, bebidas em duas etapas e XL.",
     "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
@@ -37868,14 +38044,10 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Por que uma tabela de medidas Dolce Gusto?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
-          "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
-          "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
-        ],
-        "bullets": []
+          "Na Dolce Gusto, 1 barra do painel rende cerca de 35 a 40 ml, 4 barras cerca de 110 a 120 ml, 7 barras cerca de 200 a 220 ml, e o XL chega a 300 ml na Genio S Touch. A Nestlé não publica tabela oficial única, então são faixas de referência; veja a Tabela de referência."
+        ]
       },
       {
         "heading": "Tabela de referência: volumes encontrados no manual",
@@ -37883,19 +38055,28 @@ export const reviewsData: unknown[] = [
           "Esta compilação reúne os volumes mostrados nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:"
         ],
         "bullets": [
-          "1 barra (1 nível): cerca de 35 ml a 40 ml — exemplos de ristretto e espresso curto",
-          "2 barras (2 níveis): cerca de 50 ml a 60 ml — exemplos de espresso tradicional",
-          "3 barras (3 níveis): cerca de 80 ml a 90 ml — exemplos de espresso duplo ou bebidas curtas com leite",
-          "4 barras (4 níveis): cerca de 110 ml a 120 ml — exemplos de lungo ou etapa de café do cappuccino",
-          "5 barras (5 níveis): cerca de 140 ml a 150 ml — exemplos de Café au Lait ou chá",
-          "6 barras (6 níveis): cerca de 170 ml a 180 ml — exemplos de bebidas médias com leite ou chocolate",
-          "7 barras (7 níveis): cerca de 200 ml a 220 ml — exemplos de cafés grandes e bebidas longas",
-          "Função XL: 300 ml nos manuais consultados — tamanho máximo extra grande"
+          "1 barra (1 nível): cerca de 35 ml a 40 ml, exemplos de ristretto e espresso curto",
+          "2 barras (2 níveis): cerca de 50 ml a 60 ml, exemplos de espresso tradicional",
+          "3 barras (3 níveis): cerca de 80 ml a 90 ml, exemplos de espresso duplo ou bebidas curtas com leite",
+          "4 barras (4 níveis): cerca de 110 ml a 120 ml, exemplos de lungo ou etapa de café do cappuccino",
+          "5 barras (5 níveis): cerca de 140 ml a 150 ml, exemplos de Café au Lait Desnatado ou chá",
+          "6 barras (6 níveis): cerca de 170 ml a 180 ml, exemplos de bebidas médias com leite ou chocolate",
+          "7 barras (7 níveis): cerca de 200 ml a 220 ml, exemplos de cafés grandes e bebidas longas",
+          "Função XL: 300 ml nos manuais consultados, tamanho máximo extra grande"
         ],
         "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
         "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com volumes de cafés, lattes e bebidas preparadas em duas etapas",
         "imageCaption": "Foto da tabela de preparo impressa na embalagem: cafés, lattes e as duas extrações de bebidas como latte macchiato e cappuccino.",
         "imageFit": "contain"
+      },
+      {
+        "heading": "Como chegamos a estes números",
+        "paragraphs": [
+          "Os tracinhos e ícones do painel da Genio S Touch não mostram os valores em mililitros, e as informações online divergem: parte pode vir de modelos, cápsulas ou referências distintas, e há fontes que associam o XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
+          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+          "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
+        ],
+        "bullets": []
       },
       {
         "heading": "Como funciona a variação de volume por nível",
@@ -37967,7 +38148,7 @@ export const reviewsData: unknown[] = [
           "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
-          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
+          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos, e esse dado vem da documentação oficial do Adaptador NEO Start.",
           "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
           "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
         ]
@@ -37980,7 +38161,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo reúne uma compilação editorial dos volumes mostrados nos manuais da NESCAFÉ Dolce Gusto Genio S Touch e da Mini Me 2.0; a marca não publica uma tabela única para todos os níveis. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
+    "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -38047,6 +38228,7 @@ export const reviewsData: unknown[] = [
     "id": 244,
     "slug": "yesstyle-e-confiavel",
     "title": "YesStyle é confiável? O que observar antes de comprar",
+    "seoTitle": "YesStyle é confiável? Dados da empresa e o que conferir",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -38084,9 +38266,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva é que a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo Os produtos da YesStyle são originais?"
+        ]
+      },
+      {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é uma empresa pública com operações fiscalizadas e auditadas.",
+          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é listada na bolsa de Hong Kong.",
           "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
         ],
         "bullets": [],
@@ -38098,7 +38286,7 @@ export const reviewsData: unknown[] = [
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
           "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
-          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, trabalhando com marcas conhecidas como COSRX, Etude House, Hada Labo e Rohto, adquirindo produtos diretamente das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
+          "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é uma informação pública sobre quem controla a loja."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38108,7 +38296,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito internacional, PayPal e, em alguns países, carteiras locais). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
         ],
         "bullets": [],
@@ -38120,7 +38308,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os produtos da YesStyle são originais? De onde é a YesStyle?",
         "paragraphs": [
           "A YesStyle é de Hong Kong. Foi fundada lá em 2006 e pertence à YesAsia Holdings Limited, listada na Bolsa de Hong Kong (código 2209.HK), que também opera a loja YesAsia e a AsianBeautyWholesale, plataforma de atacado de beleza asiática.",
-          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
+          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada dessas marcas e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
         ],
         "bullets": [
           "Na página do produto, confira se a marca e o nome do item batem com o site oficial da marca;",
@@ -38137,16 +38325,23 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
           "Confira o frete e o prazo no checkout antes de pagar. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000; como pedir está no [guia de entrega](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
-          "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
+          "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado: padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
-          "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
+          "Produtos podem chegar em caixa lacrada: não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na YesStyle?",
+        "paragraphs": [
+          "Dá, com a conferência de sempre. A YesStyle é de Hong Kong, existe desde 2006 e é controlada pela YesAsia Holdings (2209.HK), listada em bolsa. Ela declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, mas não há auditoria independente dessa afirmação. Se o pacote for taxado, a loja reembolsa impostos e taxas de alfândega em pedidos abaixo de US$ 1.000.",
+          "Na prática: compre pelo domínio yesstyle.com, confira frete e prazo no checkout, guarde o comprovante e, na entrega, confira lote, validade e lacre."
         ]
       },
       {
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dessa parceria, leitores podem utilizar o código de recompensa (Reward Code) CECILIA010 no campo específico do checkout para obter até 5% de desconto extra na primeira compra e 2% nas compras recorrentes. Este código é compatível com cupons promocionais elegíveis ativos no site, permitindo acumular descontos.",
-          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
+          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor: o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
         ],
         "bullets": []
       },
@@ -38158,9 +38353,9 @@ export const reviewsData: unknown[] = [
           "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
           "Qual o prazo de entrega da YesStyle para o Brasil? A loja não publica prazo para o Brasil: ele aparece no checkout, antes de pagar. Como o prazo é contado está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "YesStyle cobra impostos de importação para o Brasil? O imposto pode ser cobrado na chegada do pacote. A YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja.",
-          "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
+          "O código CECILIA010 muda o preço final do produto? Sim. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
-          "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
+          "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, carteiras locais. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
           "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
           "YesStyle oferece frete grátis para o Brasil? A loja não publica frete grátis para o Brasil; o frete aparece no checkout, antes de pagar.",
@@ -38171,11 +38366,12 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Conheça a YesStyle e aproveite o código CECILIA010",
       "label": "Visitar loja",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca, registros de empresa, e pesquisa independente verificada.",
+    "editorialNote": "Baseado em dados públicos. O código CECILIA010 vem de parceria comercial.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -38401,6 +38597,7 @@ export const reviewsData: unknown[] = [
     "id": 246,
     "slug": "adaptador-neo-start-o-que-e",
     "title": "Adaptador NEO Start: o que é e quando você precisa dele",
+    "seoTitle": "Adaptador NEO Start: o que é e quais máquinas aceitam",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -38418,6 +38615,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. Vale para quem já tem um dos oito modelos aceitos e quer provar a linha NEO sem trocar de máquina. O que decide é o modelo e o consumo; veja o capítulo Vale a pena comprar?"
+        ]
+      },
       {
         "heading": "O Adaptador NEO Start: entendendo o sistema",
         "paragraphs": [
@@ -38460,7 +38663,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
           "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
-          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force — auxilie o fechamento aplicando leve pressão com a palma da mão.",
+          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
           "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
         ],
         "bullets": [
@@ -38493,11 +38696,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Máquinas compatíveis com o Adaptador NEO Start",
         "paragraphs": [
-          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador — a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador: a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
         ],
         "bullets": [
           "Genio S",
-          "Genio S Touch (a mesma que temos em casa e já testamos)",
+          "Genio S Touch (a mesma que temos em casa)",
           "Genio S Plus",
           "Infinissima",
           "Infinissima Touch",
@@ -38510,13 +38713,15 @@ export const reviewsData: unknown[] = [
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
           "O Adaptador NEO Start é compatível com uma seleção oficial de cafés pretos da linha NEO (variedades de Espresso e Lungo). Bebidas com leite, chás ou receitas mistas não são suportadas pelo adaptador.",
-          "Confira os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
+          "Estes são os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
         ],
         "bullets": [
           "NEO Espresso Sul de Minas Orgânico",
           "NEO Starbucks® Espresso Roast",
           "NEO Espresso Delicate",
           "NEO Lungo Cerrado Orgânico",
+          "NEO Espresso Serras do Alto Paranaíba",
+          "NEO Lungo Chapada Diamantina",
           "A seleção de cápsulas pode mudar; confirme a compatibilidade na loja oficial antes da compra.",
           "Bebidas com leite e outras linhas mistas NEO não são compatíveis com o adaptador."
         ],
@@ -38548,18 +38753,6 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Vale a pena comprar?",
-        "paragraphs": [
-          "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
-        ],
-        "bullets": [
-          "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
-          "Se você consome pouquíssimo café, pode não compensar o investimento — nesse caso, as cápsulas ORIGINAL comuns já atendem.",
-          "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
-          "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
-        ]
-      },
-      {
         "heading": "Integração com o Dolce Gusto Club",
         "paragraphs": [
           "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
@@ -38567,9 +38760,21 @@ export const reviewsData: unknown[] = [
         "bullets": []
       },
       {
+        "heading": "Vale a pena comprar?",
+        "paragraphs": [
+          "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
+        ],
+        "bullets": [
+          "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
+          "Se você consome pouquíssimo café, pode não compensar o investimento: nesse caso, as cápsulas ORIGINAL comuns já atendem.",
+          "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch, que é compatível com o adaptador.",
+          "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, incluindo NEO Espresso Sul de Minas Orgânico, NEO Starbucks® Espresso Roast, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
+          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, que a loja lista em cinco: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
           "Posso escolher o tamanho da minha xícara de café com o Adaptador NEO Start? Sim. Em uma máquina manual, mova a alavanca para a posição quente e retorne-a à posição do meio quando o volume desejado for alcançado. Em máquinas Flow Stop, selecione o volume em tracinhos normalmente.",
           "O Adaptador NEO Start é compatível com todos os modelos de máquinas NESCAFÉ Dolce Gusto? Não. Ele é compatível especificamente com os modelos: MINI ME®, INFINISSIMA®, INFINISSIMA® Touch, GENIO® S, GENIO® S Plus, GENIO® S Touch, PICCOLO® e PICCOLO® XS. Não é compatível com outros modelos.",
           "Não consigo fechar a tampa da máquina após inserir o Adaptador NEO Start, o que devo fazer? O Adaptador NEO Start é magneticamente atraído para a posição final. Se tiver dificuldade para fechar a alavanca da máquina, verifique se: 1) Sua máquina é compatível; 2) A tampa do próprio adaptador está firmemente pressionada e travada; 3) O adaptador está bem inserido na cabeça da máquina e empurrado até a posição final. Auxilie o fechamento aplicando leve pressão com a palma da mão.",
@@ -38586,7 +38791,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é um guia editorial baseado na página oficial e no manual do Adaptador NEO Start. Compatibilidade, preço, estoque e benefícios podem mudar; confirme no site oficial antes da compra. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -39162,6 +39367,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. The checks are in the chapter Are YesStyle Products Authentic? Where Is YesStyle From?."
+        ]
+      },
+      {
         "heading": "Public Company Information",
         "paragraphs": [
           "YesStyle Limited is an e-commerce company headquartered in Hong Kong, founded in 2006. The company operates as a subsidiary of YesAsia Holdings Limited, which is publicly listed on the Hong Kong Stock Exchange under stock code 2209.HK. This means that while YesStyle functions as an online retailer, its parent entity is a public corporation subject to financial audits and regulatory oversight.",
@@ -39218,14 +39429,21 @@ export const reviewsData: unknown[] = [
           "Read product descriptions carefully, including shade indicators, packaging sizes, and ingredient lists, as Asian cosmetics standards may differ from western norms.",
           "Review estimated delivery windows for your region at checkout prior to order placement.",
           "Keep your order confirmation email, transaction ID, and tracking code saved until your package arrives safely.",
-          "Inspect the outer box upon delivery — do not accept parcels with broken seals or damaged packaging."
+          "Inspect the outer box upon delivery: do not accept parcels with broken seals or damaged packaging."
+        ]
+      },
+      {
+        "heading": "Can You Trust YesStyle?",
+        "paragraphs": [
+          "Yes, with the usual checks. YesStyle is based in Hong Kong, has operated since 2006 and is a subsidiary of YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK). It states it is an authorized distributor of more than 400 Korean beauty brands, but we found no independent audit of that claim.",
+          "In practice: order only on yesstyle.com, check delivery times and fees at checkout, keep your order confirmation and tracking code, and on delivery check batch code, expiry date and seal."
         ]
       },
       {
         "heading": "Reward Code Partnership & Extra Savings",
         "paragraphs": [
           "Em Casa com Cecília maintains an affiliate partnership with YesStyle. Through this partnership, shoppers can enter the Reward Code CECILIA010 in the dedicated Extra Code / Reward Code field at checkout to receive up to 5% extra discount on first orders and 2% on returning orders. This code stacks with valid promotional coupons for maximum savings.",
-          "The CECILIA010 code remains active as long as the partnership continues. Using this code incurs no extra fee for the buyer — the discount benefit is provided by the brand in support of our editorial project."
+          "The CECILIA010 code remains active as long as the partnership continues. Using this code incurs no extra fee for the buyer: the discount benefit is provided by the brand in support of our editorial project."
         ],
         "bullets": []
       },
@@ -39249,7 +39467,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "This review is analytical and editorial in nature. The mention of code CECILIA010 is part of an affiliate partnership between Em Casa com Cecília and YesStyle. Public company data and official brand information were independently verified.",
+    "editorialNote": "Based on public data. Code CECILIA010 comes from an affiliate partnership.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010",
@@ -39287,6 +39505,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente, así que revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo ¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?."
+        ]
+      },
       {
         "heading": "Información pública de la empresa",
         "paragraphs": [
@@ -39346,6 +39570,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "¿Se puede confiar en YesStyle?",
+        "paragraphs": [
+          "Sí, con las comprobaciones de siempre. YesStyle tiene sede en Hong Kong, existe desde 2006 y es subsidiaria de YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK). Se declara distribuidora autorizada de más de 400 marcas de belleza coreana, pero no hemos encontrado ninguna auditoría independiente que lo confirme.",
+          "En la práctica: pide solo en yesstyle.com, revisa el plazo de entrega en el carrito y, al recibir el pedido, comprueba lote, caducidad y precinto."
+        ]
+      },
+      {
         "heading": "Código de recompensa y descuento adicional",
         "paragraphs": [
           "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
@@ -39371,7 +39602,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Artículo editorial independiente. La mención del código CECILIA010 forma parte de la alianza de afiliados entre Em Casa com Cecília y YesStyle.",
+    "editorialNote": "Basado en datos públicos. El código CECILIA010 viene de una alianza de afiliados.",
     "relatedArticles": [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
@@ -39408,6 +39639,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? »."
+        ]
+      },
       {
         "heading": "Informations publiques sur l'entreprise",
         "paragraphs": [
@@ -39466,6 +39703,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Peut-on faire confiance à YesStyle ?",
+        "paragraphs": [
+          "Oui, avec les vérifications habituelles. YesStyle est basée à Hong Kong, existe depuis 2006 et est une filiale de YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK). Elle se dit distributeur autorisé de plus de 400 marques de beauté coréenne, mais nous n'avons trouvé aucun audit indépendant de cette affirmation.",
+          "En pratique : commandez uniquement sur yesstyle.com, vérifiez les délais à la validation du panier et, à la livraison, contrôlez le lot, la date de péremption et le scellé."
+        ]
+      },
+      {
         "heading": "Code récompense et réduction supplémentaire",
         "paragraphs": [
           "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
@@ -39491,7 +39735,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Revue éditoriale indépendante. L'utilisation du code CECILIA010 s'inscrit dans le cadre d'un partenariat d'affiliation.",
+    "editorialNote": "Données publiques. Le code CECILIA010 vient d'un partenariat d'affiliation.",
     "relatedArticles": [
       {
         "slug": "code-recompense-yesstyle-cecilia010",
@@ -39528,6 +39772,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“."
+        ]
+      },
       {
         "heading": "Öffentliche Unternehmensdaten",
         "paragraphs": [
@@ -39586,6 +39836,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Kann man YesStyle vertrauen?",
+        "paragraphs": [
+          "Ja, mit den üblichen Prüfungen. YesStyle sitzt in Hongkong, besteht seit 2006 und ist eine Tochter der YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK). Das Unternehmen nennt sich autorisierter Händler von mehr als 400 koreanischen Beauty-Marken, eine unabhängige Prüfung dieser Angabe haben wir aber nicht gefunden.",
+          "In der Praxis: nur auf yesstyle.com bestellen, die Lieferzeit im Warenkorb prüfen und bei Lieferung Charge, Haltbarkeitsdatum und Siegel kontrollieren."
+        ]
+      },
+      {
         "heading": "Reward Code und zusätzliche Ersparnis",
         "paragraphs": [
           "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Reward Codes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
@@ -39611,7 +39868,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Unabhängiger redaktioneller Bericht. Die Verwendung des Codes CECILIA010 erfolgt im Rahmen einer Affiliate-Partnerschaft.",
+    "editorialNote": "Öffentliche Daten. Der Code CECILIA010 stammt aus einer Affiliate-Partnerschaft.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010",
@@ -39648,6 +39905,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 매장이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다."
+        ]
+      },
       {
         "heading": "기업 공개 정보",
         "paragraphs": [
@@ -39694,6 +39957,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "YesStyle, 믿고 구매해도 될까요?",
+        "paragraphs": [
+          "네, 다만 평소 확인은 필요합니다. YesStyle은 홍콩에 기반을 두고 2006년부터 운영해 왔으며, 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다. 400개 이상의 한국 뷰티 브랜드 정식 유통업체라고 밝히고 있지만, 이 주장을 확인해 주는 독립적인 감사 결과는 찾지 못했습니다.",
+          "실제로는 yesstyle.com에서만 주문하고, 결제 전에 배송 기간과 배송비를 확인하고, 받으면 제조번호, 유통기한, 봉인을 확인하세요."
+        ]
+      },
+      {
         "heading": "리워드 코드 및 추가 할인",
         "paragraphs": [
           "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다. CECILIA010 코드는 유효기간이 없으며 YesStyle과의 제휴가 이어지는 동안 계속 사용할 수 있습니다. 구매자에게 추가 비용은 없습니다."
@@ -39716,7 +39986,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "독립적인 편집 리뷰입니다. CECILIA010 코드 사용 시 제휴 파트너십을 통해 혜택이 제공됩니다.",
+    "editorialNote": "공개된 정보를 바탕으로 한 글입니다. CECILIA010 코드는 제휴로 제공됩니다.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko",
@@ -39753,6 +40023,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場するYesAsia Holdings傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。"
+        ]
+      },
       {
         "heading": "企業情報と透明性",
         "paragraphs": [
@@ -39812,6 +40088,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "YesStyleは信頼できる？",
+        "paragraphs": [
+          "はい、ただし通常の確認は必要です。YesStyleは香港に拠点を置き、2006年から事業を続け、香港証券取引所上場のYesAsia Holdings（2209.HK）の傘下にあります。400以上の韓国コスメブランドの正規販売店と説明していますが、この主張を裏付ける第三者の監査は確認できませんでした。",
+          "実際には、yesstyle.comで注文し、カート画面でお届け日数と送料を確認し、お届け時にロット番号、使用期限、封を確認してください。"
+        ]
+      },
+      {
         "heading": "リワードコードで追加割引",
         "paragraphs": [
           "Em Casa com CecíliaはYesStyleと公式アフィリエイトパートナーシップを結んでいます。チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフの追加割引が適用されます。通常のプロモーションクーポンと併用可能です。",
@@ -39836,7 +40119,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本記事は独立した編集レビューです。コード CECILIA010 の利用はアフィリエイトパートナーシップに基づきます。",
+    "editorialNote": "公開情報に基づく記事です。コード CECILIA010 はアフィリエイト提携によるものです。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja",
@@ -39873,6 +40156,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。"
+        ]
+      },
       {
         "heading": "上市公司企業背景",
         "paragraphs": [
@@ -39919,6 +40208,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "可以信任 YesStyle 嗎？",
+        "paragraphs": [
+          "可以，但要照常檢查。YesStyle 總部在香港，2006 年創立，隸屬香港交易所上市的 YesAsia Holdings（2209.HK）。平台稱自己是 400 多個韓國美妝品牌的授權經銷商，但我們沒有找到能證實這一說法的獨立審核。",
+          "實際操作：只在 yesstyle.com 下單，結帳前確認運送時間與運費，收貨時檢查批號、有效期限和封條。"
+        ]
+      },
+      {
         "heading": "獎勵碼額外折扣",
         "paragraphs": [
           "結帳時於「獎勵碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。CECILIA010 代碼沒有到期日，只要與 YesStyle 的合作持續就會保持有效；使用此代碼不會為買家帶來額外費用。"
@@ -39941,7 +40237,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本文章為獨立編輯評論。使用 CECILIA010 代碼包含聯盟行銷合作關係。",
+    "editorialNote": "依據公開資料撰寫。CECILIA010 代碼來自聯盟行銷合作。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
@@ -39978,6 +40274,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。"
+        ]
+      },
       {
         "heading": "上市公司企业背景",
         "paragraphs": [
@@ -40024,6 +40326,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "可以信任 YesStyle 吗？",
+        "paragraphs": [
+          "可以，但要照常检查。YesStyle 总部在香港，2006 年创立，隶属香港交易所上市的 YesAsia Holdings（2209.HK）。平台称自己是 400 多个韩国美妆品牌的授权经销商，但我们没有找到能证实这一说法的独立审核。",
+          "实际操作：只在 yesstyle.com 下单，结账前确认运送时间与运费，收货时检查批号、有效期和封条。"
+        ]
+      },
+      {
         "heading": "奖励码额外折扣",
         "paragraphs": [
           "结账时于“奖励码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。CECILIA010 代码没有到期日，只要与 YesStyle 的合作持续就会保持有效；使用此代码不会为买家带来额外费用。"
@@ -40046,7 +40355,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "本文章为独立编辑评论。使用 CECILIA010 代码包含联盟营销合作关系。",
+    "editorialNote": "依据公开资料撰写。CECILIA010 代码来自联盟营销合作。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
@@ -40058,7 +40367,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 258,
     "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-    "title": "Aliv Head Gel IWS: máscara térmica para dor de cabeça vale a pena?",
+    "title": "Aliv Head Gel IWS: máscara térmica fria ou quente, como usar e para quem serve",
+    "seoTitle": "Aliv Head Gel IWS: máscara térmica fria ou quente",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -40125,6 +40435,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. Não substitui avaliação de saúde; veja o capítulo Vale a pena? Para quem serve."
+        ]
+      },
+      {
         "heading": "O que é a máscara Aliv Head Gel IWS",
         "paragraphs": [
           "A Aliv Head Gel IWS é uma máscara térmica reutilizável da I Wanna Sleep, criada para aplicação fria ou quente na cabeça e na região dos olhos.",
@@ -40176,7 +40492,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertura 360 graus e redução de luz",
         "paragraphs": [
-          "A sensibilidade à luz pode acompanhar alguns episódios de dor de cabeça. Uma máscara que reduz a luz pode tornar o descanso mais confortável em um ambiente claro.",
+          "Uma máscara que reduz a luz pode tornar o descanso mais confortável em um ambiente claro.",
           "A Aliv Head Gel cobre testa, têmporas, topo da cabeça e região dos olhos. O nível de bloqueio de luz varia conforme o ajuste no rosto e a iluminação do ambiente; não deve ser tratado como blackout garantido."
         ],
         "bullets": [
@@ -40189,13 +40505,14 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Conforto térmico: vale a pena?",
+        "heading": "Vale a pena? Para quem serve",
         "paragraphs": [
           "A máscara pode ser uma opção de conforto térmico em casa, no trabalho ou durante uma pausa. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
           "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
         ],
         "bullets": [
-          "Pode fazer sentido para quem procura uma máscara térmica reutilizável.",
+          "Serve a quem procura uma máscara térmica reutilizável, sem tiras, para fria ou quente.",
+          "Não serve a quem espera bloqueio total de luz: o resultado muda com o ajuste no rosto.",
           "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
           "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
         ],
@@ -40227,7 +40544,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia editorial foi elaborado com base em especificações públicas da I Wanna Sleep e não oferece orientação médica. Preços, disponibilidade, políticas e cupons podem mudar. O cupom CECIEMCASA faz parte de parceria comercial e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode render comissão.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -40368,7 +40685,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 260,
     "slug": "melatonina-liquida-iws-ficha-tecnica",
-    "title": "Melatonina Líquida IWS: o que saber antes de comprar",
+    "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
@@ -40379,12 +40696,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Dificuldade para dormir? Entenda o que é a melatonina, para que serve a suplementação e confira a ficha técnica completa da Melatonina Líquida IWS (30ml, sabor maracujá), dose por gota e regras da Anvisa.",
-    "seoTitle": "Melatonina Líquida IWS: o que saber antes de comprar",
-    "metaDescription": "Dificuldade para dormir? Entenda o que é melatonina, como funciona a versão líquida da I Wanna Sleep (sabor maracujá), dose por gota e regras da Anvisa.",
+    "description": "Ficha da Melatonina Líquida IWS (30 ml, sabor maracujá): 0,21 mg por gota, cerca de 750 gotas, ingredientes, cuidados de rótulo, preço e cupom CECIEMCASA.",
+    "seoTitle": "Melatonina Líquida IWS 30 ml: ficha e preço",
+    "metaDescription": "Ficha da Melatonina Líquida IWS 30 ml sabor maracujá: 0,21 mg por gota, ingredientes, cuidados do rótulo, preço e cupom CECIEMCASA.",
     "publishedAt": "20 de agosto de 2026",
     "publishedAtISO": "2026-08-20",
-    "updatedAt": "2026-08-20",
+    "updatedAt": "2026-10-24",
     "draft": false,
     "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
     "imageAlt": "Caixa e frasco da Melatonina Líquida IWS sabor maracujá, 30ml",
@@ -40393,70 +40710,73 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Dificuldade para dormir: o que é a melatonina e para que ela serve",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Quem nunca passou pela experiência de deitar na cama com o corpo exausto, mas com a mente a mil por hora, rolando de um lado para o outro sem conseguir engatar no sono? A dificuldade para adormecer ou a sensação de acordar cansado é uma das queixas mais frequentes da rotina moderna, e é exatamente nesse cenário que a melatonina ganha destaque.",
-          "A melatonina é uma substância produzida naturalmente pelo nosso próprio organismo, especificamente pela glândula pineal no cérebro. Conhecida popularmente como o “hormônio do sono”, sua função biológica primária é regular o ciclo circadiano — o nosso relógio biológico interno que informa ao corpo quando é dia (hora de ficar alerta) e quando é noite (hora de desacelerar).",
-          "A produção natural de melatonina acompanha o ciclo claro-escuro e tende a aumentar no período noturno. A exposição à luz durante a noite pode alterar esse sinal biológico, mas dificuldades para dormir podem ter diferentes causas e não devem ser atribuídas automaticamente à falta de melatonina.",
-          "A versão da I Wanna Sleep fornece melatonina exógena na categoria de suplemento alimentar. No Brasil, a Anvisa autorizou esse uso dentro do limite diário regulamentado para adultos a partir de 19 anos, mas não aprovou alegações de benefício associadas ao consumo. O produto não é tratamento para insônia, e sintomas persistentes devem ser avaliados por um profissional de saúde qualificado."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O modo de uso do rótulo é uma gota por via oral antes de dormir. Ingredientes e cuidados estão na Ficha técnica, e os preços, em Preço e kits com o cupom."
         ]
       },
       {
-        "heading": "A proposta da Melatonina Líquida IWS (gotas sabor maracujá)",
+        "heading": "O que é a Melatonina Líquida IWS",
         "paragraphs": [
-          "Dentro do ecossistema de soluções para o sono da marca brasileira I Wanna Sleep (que inclui colchões tecnológicos, travesseiros e cobertores térmicos), a linha de nutrição do sono traz a **Melatonina Líquida IWS 30ml** como produto de entrada.",
-          "Diferente de comprimidos ou cápsulas, o formato em gotas líquidas com sabor natural de maracujá facilita o ajuste fino da dose (gota a gota) e costuma ser mais prático para quem tem desconforto para engolir pílulas antes de deitar.",
-          "No site oficial da marca, o produto acumula nota média de 4,9 de 5 estrelas em mais de 770 avaliações de consumidores (dados consultados em agosto de 2026). As seções a seguir reúnem a ficha técnica pública, a regulamentação oficial da Anvisa, os cuidados de uso e as opções de compra."
+          "É um suplemento alimentar em gotas, sabor natural de maracujá, da marca brasileira I Wanna Sleep. Na linha de nutrição do sono da marca, é a **Melatonina Líquida IWS 30ml**.",
+          "A apresentação em gotas permite contar a porção gota a gota e dispensa engolir comprimido ou cápsula."
         ],
         "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
         "imageAlt": "Frasco da Melatonina Líquida IWS sabor maracujá sobre fundo de maracujás cortados",
-        "imageCaption": "Apresentação em gotas líquidas sabor maracujá: absorção oral prática antes de dormir.",
+        "imageCaption": "Apresentação em gotas líquidas, sabor maracujá, frasco de 30 ml.",
         "imageFit": "cover"
       },
       {
-        "heading": "Ficha técnica: dosagem por gota, rendimento e ingredientes",
+        "heading": "Ficha técnica: concentração, rendimento e ingredientes",
         "paragraphs": [
-          "A Melatonina Líquida IWS vem em frasco conta-gotas de 30 ml, com rendimento estimado de aproximadamente **750 gotas** por unidade. Segundo a rotulagem e dados da fabricante:"
+          "A Melatonina Líquida IWS vem em frasco conta-gotas de 30 ml, com cerca de **750 gotas** por unidade. Segundo a rotulagem e os dados da fabricante:"
         ],
         "image": "/images/reviews/iwannasleep/melatonina-liquida-splash.webp",
         "imageAlt": "Frasco conta-gotas da Melatonina Líquida IWS 30ml, sabor maracujá",
         "imageCaption": "Frasco conta-gotas de 30ml: rendimento de cerca de 750 gotas por frasco.",
         "imageFit": "square",
         "bullets": [
-          "**Concentração:** 0,21 mg de melatonina pura por gota.",
-          "**Modo de uso recomendado:** 1 gota por via oral antes de dormir, ou conforme orientação médica/nutricional (é o modo de uso que consta na página oficial — a marca não especifica uma janela de minutos antes de deitar).",
-          "**Composição / Ingredientes:** Água purificada, melatonina, agente de massa glicerina vegetal, aromatizante natural de maracujá e acidulante ácido cítrico.",
-          "**Perfil nutricional:** Sem glúten, sem lactose, zero adição de açúcares e formulação 100% vegana."
+          "**Porção:** 1 gota, com 0,21 mg de melatonina.",
+          "**Modo de uso:** 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. A página oficial não fixa um intervalo de minutos antes de deitar e não indica reter o líquido sob a língua nem diluí-lo.",
+          "**Ingredientes:** água purificada, melatonina, agente de massa glicerina vegetal, aromatizante natural de maracujá e acidulante ácido cítrico.",
+          "**Perfil:** sem glúten, sem lactose, sem adição de açúcares e vegano, segundo o fabricante.",
+          "**Validade e conservação:** conferir na embalagem, inclusive os cuidados depois de aberto. As cerca de 750 gotas do frasco dependem disso."
         ]
       },
       {
-        "heading": "Por que exatamente 0,21 mg? A regra oficial da Anvisa",
+        "heading": "Cuidados de rótulo",
         "paragraphs": [
-          "A concentração de **0,21 mg por gota** não é uma escolha aleatória da marca. Em 2021, a Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a comercialização da melatonina como suplemento alimentar no Brasil, estabelecendo o limite máximo de consumo diário de **0,21 mg/dia** para adultos saudáveis a partir de 19 anos.",
-          "Esse valor é o teto autorizado pela Anvisa para o consumo diário — não uma garantia de segurança individual em qualquer regime de uso, inclusive contínuo, que deve ser avaliado com um médico. Por conta dessa legislação, os suplementos alimentares regulares de melatonina vendidos no país não podem ultrapassar essa faixa de 0,21 mg por porção.",
-          "A Anvisa permite a venda livre sem necessidade de receita médica, mas exige que a rotulagem contenha avisos de segurança claros e não autoriza alegações de cura ou tratamentos de doenças no rótulo."
-        ]
-      },
-      {
-        "heading": "Contraindicações e cuidados essenciais",
-        "paragraphs": [
-          "Embora seja um suplemento de venda livre, o consumo de melatonina requer responsabilidade e respeito às restrições biológicas. As principais advertências incluem:"
+          "O produto é suplemento, não medicamento. As advertências do rótulo e da página do fabricante são estas:"
         ],
         "bullets": [
-          "**Público restrito:** Não é indicado para gestantes, mulheres em fase de amamentação (lactantes) e crianças.",
-          "**Atividades de atenção:** Não deve ser consumido antes de dirigir veículos, operar maquinários pesados ou realizar tarefas que exijam reflexo rápido e vigilância constante.",
-          "**Uso com outros medicamentos:** Pessoas sob tratamento medicamentoso contínuo ou com condições de saúde crônicas devem consultar um médico ou nutricionista antes de iniciar o uso.",
-          "**Respeito à dosagem:** Não é um medicamento sonífero; não se deve exceder a dosagem diária indicada na embalagem."
+          "**Público:** não consumir na gestação, na amamentação nem na infância. Mantenha fora do alcance de crianças.",
+          "**Atividades de atenção:** não consumir antes de dirigir, operar máquinas ou fazer tarefas que exigem atenção constante.",
+          "**Doenças e medicamentos:** quem tem enfermidade ou usa medicamento deve consultar um profissional de saúde antes de consumir.",
+          "**Porção:** não exceder a recomendação da embalagem nem associar outros produtos com melatonina.",
+          "**Dúvidas:** procure um médico ou nutricionista. A ficha não define quantidade nem horário para ninguém."
         ]
       },
       {
-        "heading": "Preços, kits promocionais e garantia de 30 dias",
+        "heading": "Preço e kits com o cupom",
         "paragraphs": [
-          "No e-commerce oficial da I Wanna Sleep (valores de referência consultados em agosto de 2026), a Melatonina Líquida IWS 30ml possui preço de tabela de R$ 87,00 na unidade individual. Para quem busca um melhor custo por dose diária, a marca comercializa kits com desconto progressivo, que podem ficar ainda mais vantajosos com o cupom de parceria:",
-          "• **Unidade individual (30ml):** de R$ 87,00 por **R$ 78,30** com o cupom CECIEMCASA (10% de desconto).",
-          "• **Kit com 3 unidades (compre 2, leve 3):** de R$ 174,00 por **R$ 156,60** com o cupom CECIEMCASA (o valor por frasco cai para apenas **R$ 52,20**).",
-          "• **Kit com 5 unidades (compre 3, leve 5):** de R$ 261,00 por **R$ 234,90** com o cupom CECIEMCASA (o custo por frasco atinge a melhor faixa, a **R$ 46,98** por unidade).",
-          "Além da economia nos kits, o produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados a partir do recebimento, para testar o produto. A marca exige um uso mínimo de 15 dias antes de aceitar a solicitação de troca, e o que você recebe é um crédito de troca por outro item do catálogo — não reembolso do valor pago. Confira as condições completas na [política oficial do Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest)."
+          "No e-commerce oficial da I Wanna Sleep (valores conferidos em 24/10/2026), a Melatonina Líquida IWS 30ml tem preço de tabela de R$ 87,00 na unidade. A marca vende kits com desconto progressivo, que ficam mais baratos com o cupom de parceria:"
+        ],
+        "bullets": [
+          "**Unidade (30ml):** de R$ 87,00 por **R$ 78,30** com o cupom CECIEMCASA (10% de desconto).",
+          "**Kit com 3 unidades (compre 2, leve 3):** de R$ 174,00 por **R$ 156,60** com o cupom CECIEMCASA, ou **R$ 52,20** por frasco.",
+          "**Kit com 5 unidades (compre 3, leve 5):** de R$ 261,00 por **R$ 234,90** com o cupom CECIEMCASA, ou **R$ 46,98** por frasco."
+        ],
+        "links": [
+          {
+            "label": "Política oficial do Sleeptest",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          }
+        ]
+      },
+      {
+        "heading": "Garantia Sleeptest",
+        "paragraphs": [
+          "O produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados do recebimento, para testar. A marca exige uso mínimo de 15 dias antes de aceitar o pedido de troca, e o que você recebe é crédito de troca por outro item do catálogo, não reembolso. Confira as condições completas na política oficial."
         ]
       },
       {
@@ -40480,13 +40800,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Para que serve a Melatonina Líquida IWS? É um suplemento alimentar de melatonina, o mesmo hormônio que o corpo produz à noite para sinalizar o ciclo circadiano. A Anvisa não aprova alegações de benefício para esse tipo de produto — não é um indutor de sono garantido, e casos de insônia persistente merecem avaliação médica.",
-          "Qual é a dose de melatonina por gota? A Melatonina Líquida IWS contém 0,21 mg por gota, exatamente o limite máximo diário estabelecido pela Anvisa para suplementos alimentares adultos.",
-          "Quantas gotas vêm no frasco de 30ml? O frasco conta com aproximadamente 750 gotas, o que confere alto rendimento para uso diário individual.",
-          "Melatonina é remédio tarja preta? Não. A melatonina é um suplemento alimentar de venda livre, regulamentado pela Anvisa desde 2021, sem necessidade de prescrição médica.",
-          "Quem não deve tomar melatonina? Gestantes, lactantes, crianças e pessoas que irão exercer atividades de alta atenção logo em seguida. Quem possui doenças crônicas ou toma medicamentos deve consultar um médico.",
-          "O cupom CECIEMCASA funciona para a Melatonina Líquida? Sim, o cupom CECIEMCASA pode ser aplicado no checkout do site oficial para buscar 10% de desconto em produtos elegíveis da marca.",
-          "Como funciona a garantia de 30 dias? É o programa Sleeptest: 30 dias a partir do recebimento, com uso mínimo de 15 dias antes de pedir a troca, para trocar por outro item do catálogo (crédito de troca, não reembolso). Só vale para compras feitas no site oficial — confira as condições completas na política oficial."
+          "Qual é a quantidade de melatonina por gota? A Melatonina Líquida IWS declara 0,21 mg por gota. Confira sempre o rótulo do frasco que você recebeu.",
+          "Quantas gotas vêm no frasco de 30ml? O frasco tem cerca de 750 gotas, segundo os dados da fabricante.",
+          "Como usar a Melatonina Líquida IWS? O modo de uso que consta na página oficial é 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. Dúvidas sobre quantidade e horário são com um profissional de saúde.",
+          "Quais são os ingredientes? Água purificada, melatonina, glicerina vegetal, aromatizante natural de maracujá e ácido cítrico.",
+          "A Melatonina Líquida IWS tem açúcar, glúten ou lactose? Segundo o fabricante, não. O produto também é vegano. Confira o rótulo da embalagem recebida.",
+          "Quem não deve consumir? Gestantes, lactantes, crianças e pessoas que farão atividades que exigem atenção constante em seguida. Quem tem doença ou usa medicamento deve consultar um profissional de saúde antes.",
+          "O cupom CECIEMCASA funciona para a Melatonina Líquida? Sim, pode ser aplicado no checkout do site oficial para buscar 10% de desconto em produtos elegíveis da marca.",
+          "Como funciona a garantia de 30 dias? É o programa Sleeptest: 30 dias a partir do recebimento, com uso mínimo de 15 dias antes de pedir a troca, por crédito em outro item do catálogo (não é reembolso). Só vale para compras no site oficial."
         ]
       }
     ],
@@ -40498,7 +40819,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia reúne informações públicas do fabricante e dados regulatórios oficiais da Anvisa sobre a melatonina como suplemento alimentar. Não substitui consulta médica ou nutricional. A menção ao cupom CECIEMCASA decorre de parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
+    "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -40516,7 +40837,7 @@ export const reviewsData: unknown[] = [
     "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
     "type": "Review de Produto",
     "category": "produtos-experiencias",
-    "reviewKind": "product",
+    "reviewKind": "produto",
     "draft": false,
     "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
     "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
@@ -40581,7 +40902,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Design compacto e acabamento Terracota moderno que valoriza a bancada",
       "Controles de temperatura e preparo com dosagem automática por barras, que ajudam a respeitar o volume selecionado (desde que a xícara comporte a bebida escolhida)",
-      "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia)",
+      "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia, segundo a fabricante)",
       "Pressão de 15 bar que gera boa extração de crema para cafés e bebidas"
     ],
     "cons": [
@@ -40591,9 +40912,15 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta na bancada, com controles no painel no lugar da alavanca da Mini Me clássica. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo; veja em Pontos reais de atenção."
+        ]
+      },
+      {
         "heading": "Design Terracota e controles da Mini Me 2.0",
         "paragraphs": [
-          "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota — um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+          "Quando buscamos montar um cantinho do café funcional para quem passa o dia trabalhando no computador, espaço de bancada e praticidade de uso são determinantes. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
           "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
         ]
       },
@@ -40624,7 +40951,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
-          "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, reduzindo o consumo de energia em até 20%.",
+          "**Modo Eco (1 minuto de inatividade):** Segundo especificações da fabricante, a máquina conta com desligamento automático inteligente após 1 minuto sem uso, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
           "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
           "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
           "**Pingamento pós-preparo:** Após a interrupção do fluxo de água, a cápsula perfurada pode continuar liberando líquido por um período prolongado. Por isso, vale manter limpa a bandeja removível que apoia xícaras e copos e retém esse excedente."
@@ -40668,7 +40995,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a Dolce Gusto Mini Me 2.0? O painel tem um botão para selecionar a temperatura e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula e interrompe o fluxo ao atingir o volume selecionado.",
-          "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, reduzindo o consumo de energia em até 20%.",
+          "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
           "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
@@ -40683,7 +41010,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo reflete a experiência de uso pessoal com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 Terracota. A menção ao cupom CECI decorre de uma parceria comercial com a NESCAFÉ Dolce Gusto.",
+    "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
@@ -40716,7 +41043,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nunca tinha tido lava e seca. Gravei o unboxing da Samsung 13 kg (WD13FG), o sufoco da porta de 80 cm, o improviso no encanamento, o batismo da Dona Amélia e o primeiro ciclo de toalhas a 60 °C com secagem completa.",
-    "seoTitle": "Lava e Seca Samsung 13 kg é Boa? Unboxing e Primeiro Uso Real",
+    "seoTitle": "Lava e Seca Samsung 13 kg: Unboxing e Primeiras Impressões",
     "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
@@ -40834,11 +41161,17 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "A Ferrari das donas de casa e o batismo da Dona Amélia",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este é o meu review do nosso primeiro contato prático, gravado em casa sem qualquer filtro comercial.",
+          "A Samsung 13 kg foi a nossa primeira lava e seca, e a secagem de quatro toalhas funcionou bem. O que pesa são a porta de 80 cm, o encanamento e a instalação, que pedem planejamento. É uma primeira impressão, não uma avaliação de longo prazo; veja o capítulo O que podemos afirmar e os próximos passos."
+        ]
+      },
+      {
+        "heading": "Minha primeira lava e seca: o sonho e o batismo da Dona Amélia",
+        "paragraphs": [
+          "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este é o meu review do nosso primeiro contato prático, gravado em casa.",
           "Eu nunca tinha tido uma lava e seca na vida. Nunca tinha lavado roupa com água aquecida a 60 °C, nunca tinha secado peças diretamente no tambor e evitei assistir a reviews de outros influenciadores de propósito. Eu queria viver a experiência exata de quem recebe o eletrodoméstico na porta, tira a embalagem e se pergunta: “E agora, cadê o manual? Como funciona?”.",
-          "A nossa máquina de lavar anterior se chama Dona Consuelo — porque é uma Consul clássica de abertura superior. A nova moradora da lavanderia não podia ficar sem identidade: foi batizada na hora de Dona Amélia. “Amélia que não tinha a menor vaidade, era mulher de verdade”. Dona Amélia, com todo o respeito. Foram três dias inteiros de gravação para lavar quatro toalhas e registrar cada detalhe, do desembale à dobra final."
+          "A nossa máquina de lavar anterior se chama Dona Consuelo, porque é uma Consul clássica de abertura superior. A nova moradora da lavanderia não podia ficar sem identidade: foi batizada na hora de Dona Amélia. “Amélia que não tinha a menor vaidade, era mulher de verdade”. Dona Amélia, com todo o respeito. Foram três dias inteiros de gravação para lavar quatro toalhas e registrar cada detalhe, do desembale à dobra final."
         ],
         "video": {
           "mp4": "/videos/reviews/samsung/lava-e-seca-loop.mp4",
@@ -40862,15 +41195,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O manual de uma folha e os parafusos de um palmo",
         "paragraphs": [
-          "Ao abrir a máquina, o manual impresso que encontramos é basicamente uma única folha de papel com instruções mínimas e um aviso em destaque: “Olhe o QR code”. Eu confesso que tenho birra de eletrodoméstico moderno que só disponibiliza manual no celular — e até brinquei no vídeo se a economia de papel da fábrica foi repassada em desconto para o consumidor!",
+          "Ao abrir a máquina, o manual impresso que encontramos é basicamente uma única folha de papel com instruções mínimas e um aviso em destaque: “Olhe o QR code”. Eu confesso que tenho birra de eletrodoméstico moderno que só disponibiliza manual no celular, e até brinquei no vídeo se a economia de papel da fábrica foi repassada em desconto para o consumidor!",
           "Na traseira da máquina, os cabos de energia e as mangueiras vêm perfeitamente presos e organizados. Dentro do tambor de inox vieram a mangueira de entrada de água e o manual complementar com o alerta mais importante de todo o unboxing: **remover todos os parafusos de transporte antes de ligar**.",
-          "Esses parafusos ficam na parte de trás da lavadora, travando o tambor para que ele não balance durante o frete rodoviário. São quatro peças enormes de quase um palmo de comprimento — cerca de 15 centímetros de metal maciço e borracha! A máquina já acompanha uma chave sextavada própria para retirá-los e tampas plásticas para vedar os furos. Se você ligar a máquina sem tirar esses parafusos, ela pode vibrar violentamente e danificar o motor."
+          "Esses parafusos ficam na parte de trás da lavadora, travando o tambor para que ele não balance durante o frete rodoviário. São quatro peças enormes de quase um palmo de comprimento: cerca de 15 centímetros de metal maciço e borracha! A máquina já acompanha uma chave sextavada própria para retirá-los e tampas plásticas para vedar os furos. Se você ligar a máquina sem tirar esses parafusos, ela pode vibrar violentamente e danificar o motor."
         ]
       },
       {
         "heading": "O sufoco do encanamento e a instalação na lavanderia",
         "paragraphs": [
-          "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento — acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
+          "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento, acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
           "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
@@ -40902,12 +41235,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Centrifugação, secagem de 2h45 e o veredito das toalhas",
         "paragraphs": [
-          "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas — a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
+          "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas: a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
           "Decidi ativar o ciclo de **Secagem** na mesma carga. O visor estimou **2h45 minutos** de secagem térmica. O ciclo terminou tarde da noite, então deixei a máquina fechada e só fui abrir no dia seguinte pela manhã para o veredito final.",
           "Ao abrir o tambor pela manhã: toalhas **100% secas, macias, fofas e quentinhas**, prontas para dobrar e guardar ou usar direto no banho! O cheiro característico é de lavanderia profissional. Com a temperatura alta da secagem, o aroma forte do amaciante deu uma leve amenizada, ficando um perfume muito agradável e limpo.",
           "Analisando o resultado de cada toalha na bancada:",
           "1. **As toalhas brancas:** que entraram limpas permaneceram super brancas, macias e impecáveis.",
-          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum — exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
+          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
           "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
           "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Ela reduz o risco de as roupas ficarem dias no varal, pegarem cheiro de umidade ou mofarem no cesto por falta de sol."
         ]
@@ -40942,7 +41275,7 @@ export const reviewsData: unknown[] = [
           "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 no total.",
           "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
           "• **Manchas severas de mofo:** exigem pré-tratamento com tira-manchas ou percarbonato antes de ir para a máquina (sempre respeitando as instruções do produto e a etiqueta da peça).",
-          "Como este é o nosso relato de primeiro uso e unboxing, daqui a um mês publicarei o review de acompanhamento contando a experiência contínua e aplicando as dicas deixadas nos comentários!",
+          "Como este é o nosso relato de primeiro uso e unboxing, quando houver uso de longo prazo, atualizo esta página com o que mudou.",
           "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
         ],
         "links": [
@@ -40988,7 +41321,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "editorialNote": "Primeiras impressões de uso real e unboxing gravados na lavanderia de casa por Cecília Mauad. Como associado da Amazon, eu ganho com compras qualificadas. Os links comerciais para lojistas parceiros ajudam a apoiar o canal sem nenhum custo extra para o leitor. Não é uma avaliação de longo prazo.",
+    "editorialNote": "Primeiras impressões, sem uso de longo prazo. Links da Amazon e do Mercado Livre são de afiliado.",
     "youtubeUrl": "https://youtu.be/xpXX_N002jo",
     "cta": {
       "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",
@@ -41025,6 +41358,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor, com 13 g de proteína por porção de 15 g. Contém lactose, e o rótulo diz que não deve ser consumido por gestantes, lactantes e crianças; a tabela está em Tabela nutricional da embalagem de 280g."
+        ]
+      },
+      {
         "heading": "O que é e para que serve o Nutren Just Protein?",
         "paragraphs": [
           "O Nutren Just Protein é um suplemento alimentar em pó da Nestlé Health Science. Sua fórmula contém proteína isolada do soro do leite e emulsificante lecitina; uma porção de 15g fornece 13g de proteína.",
@@ -41037,20 +41376,16 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "O que a informação oficial permite afirmar",
+        "heading": "O que o rótulo informa",
         "paragraphs": [
-          "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar para complementar as necessidades diárias de proteína. A alegação divulgada pela fabricante é que as proteínas auxiliam na formação de músculos e ossos.",
-          "Suplementos alimentares não são medicamentos e não devem ser apresentados como forma de prevenir, tratar ou controlar doenças. Necessidades relacionadas a cirurgia, tratamento oncológico, cirurgia bariátrica, perda de massa muscular ou outras condições clínicas exigem avaliação individual por médico ou nutricionista."
+          "A Nestlé Health Science apresenta o Nutren Just Protein como suplemento alimentar de proteína.",
+          "Suplemento alimentar não é medicamento. Quem tem uma condição clínica ou necessidades específicas de proteína deve procurar um médico ou nutricionista."
         ],
         "bullets": [
           "Cada porção de 15g fornece 13g de proteína, conforme a tabela nutricional da embalagem;",
           "A recomendação do rótulo para adultos é consumir uma porção ao dia;",
           "O produto não é adequado para uso como única fonte de nutrição."
-        ],
-        "image": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
-        "imageAlt": "Frente da lata de 280g do Nutren Just Protein: 100% whey protein isolado, sem sabor e sem glúten",
-        "imageCaption": "Frente da lata de 280g: suplemento de proteína isolada do soro do leite, sem sabor e sem glúten.",
-        "imageFit": "contain"
+        ]
       },
       {
         "heading": "Tabela nutricional da embalagem de 280g",
@@ -41058,7 +41393,7 @@ export const reviewsData: unknown[] = [
           "A fórmula contém proteína isolada do soro do leite e emulsificante lecitina. O produto não contém glúten nem açúcares adicionados, mas contém lactose e derivados de leite e soja. Confira os valores declarados por porção de 15g (duas colheres de sopa cheias):"
         ],
         "bullets": [
-          "Valor Energético: 52 kcal (218 kJ) — apenas 3% do valor diário de referência;",
+          "Valor Energético: 52 kcal (218 kJ), 3% do valor diário de referência;",
           "Proteínas: 13g (26% do valor diário de referência);",
           "Carboidratos, açúcares totais e açúcares adicionados: 0g;",
           "Não contém quantidades significativas de gorduras totais, gorduras saturadas, gorduras trans e fibras alimentares;",
@@ -41075,9 +41410,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Em comidas salgadas: experimente misturar gradualmente em sopas, canjas, purês ou no caldo do feijão já servido;",
           "Em bebidas e café da manhã: pode ser testado em vitaminas, iogurtes ou outras preparações compatíveis com suas restrições alimentares;",
-          "Sugestão 1 — caldo verde com proteína: retire a porção do fogo, acrescente o pó aos poucos e mexa até atingir a consistência desejada;",
-          "Sugestão 2 — vitamina de banana: bata a fruta com a bebida escolhida e acrescente a quantidade definida para sua rotina;",
-          "Sugestão 3 — mingau de aveia: depois de desligar o fogo, incorpore o pó gradualmente e ajuste a quantidade de líquido se necessário."
+          "Caldo verde com proteína: retire a porção do fogo, acrescente o pó aos poucos e mexa até atingir a consistência desejada;",
+          "Vitamina de banana: bata a fruta com a bebida escolhida e acrescente a quantidade definida para sua rotina;",
+          "Mingau de aveia: depois de desligar o fogo, incorpore o pó gradualmente e ajuste a quantidade de líquido se necessário."
         ],
         "image": "/images/reviews/nutren/nutren-just-protein-modo-preparo.avif",
         "imageAlt": "Verso da lata do Nutren Just Protein com o modo de preparo: 2 colheres de sopa (15g) em 120 ml de água",
@@ -41116,10 +41451,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Informações técnicas do Nutren Just Protein na Nestlé Health Science",
             "href": "https://www.nestlehealthscience.com.br/marcas/nutren/just-protein-lata-280g"
-          },
-          {
-            "label": "Orientações da Anvisa sobre suplementos alimentares",
-            "href": "https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares"
           }
         ]
       },
@@ -41127,11 +41458,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
           "Qual a tabela nutricional do Nutren Just Protein? Por porção de 15 g: 52 kcal, 13 g de proteína, 0 g de carboidratos e açúcares, 76 mg de sódio e nenhuma quantidade significativa de gorduras.",
-          "Nutren Just Protein engorda? Não é possível atribuir ganho ou perda de peso a um único produto. Cada porção de 15g fornece 52 kcal e 13g de proteína; o efeito no peso depende do consumo alimentar total, das necessidades individuais e da rotina.",
+          "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
           "Nutren Just Protein tem lactose? Sim. A página oficial informa que contém lactose e derivados de leite e soja. Pessoas com alergia à proteína do leite ou à soja não devem consumir; em caso de intolerância ou outra restrição, consulte o rótulo e um profissional de saúde.",
-          "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição.",
+          "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição. Para orientação sobre alimentação, procure um nutricionista.",
           "Qual o cupom de desconto para a loja oficial Nestlé Nutre? O cupom CECI pode ser testado no checkout para verificar a aplicação de 10% de desconto em itens elegíveis, conforme as condições vigentes da loja oficial."
         ]
       }
@@ -41144,7 +41475,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo reúne informações do rótulo e das páginas oficiais da Nestlé, além de sugestões editoriais de uso culinário. Não substitui orientação médica ou nutricional. O site Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
+    "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
@@ -41205,6 +41536,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. O que pesa é a diferença de preço no dia da compra; veja o capítulo Veredito editorial."
+        ]
+      },
       {
         "heading": "A família Genio S: por que tanta confusão?",
         "paragraphs": [
@@ -41355,7 +41692,7 @@ export const reviewsData: unknown[] = [
           "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
           "As máquinas Genio S só fazem café? Não. Elas aceitam cápsulas do sistema NESCAFÉ Dolce Gusto ORIGINAL, incluindo opções de chocolate, cappuccino e chá, conforme disponibilidade do catálogo.",
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
-          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente — os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
+          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
           "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
         ]
@@ -41369,7 +41706,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este guia compara as especificações públicas da Genio S Basic, Plus e Touch divulgadas pela Arno. As impressões de uso próprio e as fotos feitas em casa se referem somente à Genio S Touch. O site Em Casa com Cecília mantém parceria comissionada com a Dolce Gusto por meio do cupom CECI.",
+    "editorialNote": "Compara fichas da Arno; só a Touch foi usada em casa. Parceria comissionada (cupom CECI).",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -41410,7 +41747,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 265,
     "slug": "k-beauty-o-que-e-onde-comprar",
-    "title": "K-Beauty: descubra por que virou febre mundial e onde comprar as marcas coreanas",
+    "title": "K-Beauty: o que é, por que virou tendência e onde comprar as marcas coreanas",
     "seoTitle": "K-Beauty: o que é e onde comprar marcas coreanas",
     "type": "Editorial",
     "category": "guias-praticos-utilidade",
@@ -41436,13 +41773,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "K-Beauty é a rotina coreana de skincare em várias camadas, conhecida pelo ritmo de lançamentos. Fora da Coreia, o difícil é comprar: as marcas vendem em sites separados, com frete repetido. A YesStyle reúne várias num carrinho só; veja em \"Onde a YesStyle entra nisso\" como funciona."
+        ]
+      },
+      {
         "heading": "O que é K-Beauty",
         "paragraphs": [
-          "K-Beauty é mais do que um rótulo de origem — é uma filosofia de cuidados com a pele que nasceu na Coreia do Sul e se tornou sinônimo de inovação, ritmo acelerado de lançamentos e uma abordagem bem diferente da que muita gente aprendeu a ter com skincare.",
-          "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme — cada etapa pensada para preparar a pele pra próxima.",
-          "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões.",
-          "Em termos de ingredientes, K-Beauty é conhecida por explorar ativos que nem sempre são comuns em outras regiões: centella asiática (calmante, associada a peles sensíveis), niacinamida (usada para controle de oleosidade e uniformização do tom), mucina de caracol ou snail mucin (hidratante, um dos ingredientes mais associados à categoria, ainda que também seja um dos mais controversos para quem prefere fórmulas veganas), PDRN (um ativo mais recente, ligado a rotinas de renovação da pele), própolis e ingredientes fermentados, que a indústria coreana popularizou como forma de deixar as fórmulas mais suaves para a pele. K-Beauty também popularizou formatos como o cushion compact (uma esponja embebida em base ou BB cream dentro de um estojo com espelho), as sheet masks de tecido com soro concentrado, e as ampolas serológicas.",
-          "Um termo muito associado à categoria é \"glass skin\" — a ideia de uma pele tão uniforme, hidratada e com tanto brilho saudável que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com barreira cutânea saudável, textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
+          "K-Beauty é mais do que um rótulo de origem: é uma filosofia de cuidados com a pele que nasceu na Coreia do Sul e se tornou sinônimo de inovação, ritmo acelerado de lançamentos e uma abordagem bem diferente da que muita gente aprendeu a ter com skincare.",
+          "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme: cada etapa pensada para preparar a pele para próxima.",
+          "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -41451,50 +41792,47 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Por que K-Beauty virou uma tendência global",
+        "heading": "Ingredientes e formatos que a K-Beauty popularizou",
         "paragraphs": [
-          "A explosão de K-Beauty fora da Ásia nas últimas duas décadas não é acidental. Alguns fatores se somaram pra criar essa onda de curiosidade e adoção em massa.",
-          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana — quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta pros produtos que usam.",
-          "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente — a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
-          "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
-          "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele — e hoje é possível ter acesso a isso online."
+          "Em termos de ingredientes, K-Beauty é conhecida por explorar ativos que nem sempre são comuns em outras regiões: centella asiática e niacinamida (muito presentes em séruns e cremes), mucina de caracol ou snail mucin (um dos ingredientes mais associados à categoria, ainda que também seja um dos mais controversos para quem prefere fórmulas veganas), PDRN (um ativo mais recente), própolis e ingredientes fermentados, que a indústria coreana popularizou. K-Beauty também popularizou formatos como o cushion compact (uma esponja embebida em base ou BB cream dentro de um estojo com espelho), as sheet masks de tecido com soro concentrado, e as ampolas serológicas.",
+          "Um termo muito associado à categoria é \"glass skin\": a ideia de uma pele tão uniforme e luminosa que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "Por que K-Beauty virou uma tendência global",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine — e parte da atração de quem visita o país.",
-        "imageFit": "cover"
+        "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine, e parte da atração de quem visita o país.",
+        "imageFit": "cover",
+        "paragraphs": [
+          "A explosão de K-Beauty fora da Ásia nas últimas duas décadas não é acidental. Alguns fatores se somaram para criar essa onda de curiosidade e adoção em massa.",
+          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta para os produtos que usam.",
+          "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente: a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
+          "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
+          "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele, e hoje é possível ter acesso a isso online."
+        ],
+        "bullets": []
       },
       {
         "heading": "O problema de comprar K-Beauty fora da Coreia",
         "paragraphs": [
           "Se K-Beauty é tão relevante, por que não é tão simples encontrar num shopping ou farmácia? A resposta está na distribuição.",
-          "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real pra quem quer montar uma rotina completa — digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
-          "Se cada marca só vende no próprio site (ou nem vende internacionalmente de forma oficial), a alternativa vira: fazer vários checkouts separados, pagar frete internacional várias vezes, esperar entregas em datas diferentes, e ainda lidar com câmbio e eventuais taxas de importação conforme a legislação de cada país de destino — que varia bastante e muda com frequência, então vale sempre conferir a regra vigente na sua região antes de comprar.",
-          "Pra muita gente, essa fricção logística — não o preço nem a qualidade dos produtos — é o que afasta da ideia de experimentar K-Beauty. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar pra acompanhar o pedido é cansativo.",
-          "Além disso, nem toda marca coreana vende direto pra fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros — nem sempre confiáveis — ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
+          "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
+          "Se cada marca só vende no próprio site (ou nem vende internacionalmente de forma oficial), a alternativa vira: fazer vários checkouts separados, pagar frete internacional várias vezes, esperar entregas em datas diferentes, e ainda lidar com câmbio e eventuais taxas de importação conforme a legislação de cada país de destino, que varia bastante e muda com frequência, então vale sempre conferir a regra vigente na sua região antes de comprar.",
+          "Para muita gente, essa fricção logística, não o preço nem a qualidade dos produtos, é o que afasta da ideia de experimentar K-Beauty. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar para acompanhar o pedido é cansativo.",
+          "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
         ],
         "bullets": []
       },
       {
         "heading": "Onde a YesStyle entra nisso",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "Logo da YesStyle",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "É aqui que plataformas como a YesStyle resolvem o problema.",
-          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas — e também japonesas e de outras partes da Ásia — num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree — uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
-          "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa dá pra complementar uma compra de sérum com outros itens na mesma transação.",
-          "Pra quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo.",
-          "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível pra quem só quer testar se a fama é real."
+          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+          "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
+          "Para quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo.",
+          "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível para quem só quer testar se a fama é real."
         ],
         "bullets": [],
         "links": [
@@ -41518,11 +41856,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre K-Beauty",
         "bullets": [
-          "K-Beauty é a mesma coisa que J-Beauty (beleza japonesa)? Não, embora os dois termos apareçam juntos com frequência. K-Beauty e J-Beauty compartilham uma ênfase forte em cuidados com a pele, mas as filosofias tendem a ser diferentes: J-Beauty costuma ser associada a um minimalismo mais funcional e à proteção solar como base de tudo, enquanto K-Beauty é mais conhecida pelo layering em várias camadas e pela inovação constante de ingredientes. Na prática, dá pra combinar as duas: a própria YesStyle reúne marcas japonesas conhecidas como Hada Labo e Rohto ao lado das marcas coreanas.",
-          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada — comprando diretamente das fabricantes ou de parceiros oficiais — e é subsidiária de uma empresa de capital aberto (YesAsia Holdings), o que traz um nível de transparência corporativa acima de um revendedor avulso. Ainda assim, vale sempre conferir a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
-          "O código CECILIA010 funciona pra produtos de K-Beauty também? Sim, é um código de recompensa geral da loja, não restrito a uma categoria específica — vale tanto pra skincare coreano quanto pra moda e outros itens do catálogo. Ainda assim, é sempre bom conferir no carrinho se o desconto foi aplicado corretamente antes de fechar o pedido.",
-          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional — como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi — costumam ser bons pontos de entrada. Uma estratégia comum pra quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade.",
-          "Todo ingrediente K-Beauty serve pra qualquer tipo de pele? Não necessariamente — isso vale pra qualquer produto de skincare, não só K-Beauty. Ingredientes populares como niacinamida e centella asiática costumam ser bem tolerados pela maioria das pessoas, mas \"a maioria\" não é \"todo mundo\". Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, testar um produto novo numa área pequena antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista antes de começar uma rotina nova."
+          "K-Beauty é a mesma coisa que J-Beauty (beleza japonesa)? Não, embora os dois termos apareçam juntos com frequência. K-Beauty e J-Beauty compartilham uma ênfase forte em cuidados com a pele, mas as filosofias tendem a ser diferentes: J-Beauty costuma ser associada a um minimalismo mais funcional e à proteção solar como base de tudo, enquanto K-Beauty é mais conhecida pelo layering em várias camadas e pela inovação constante de ingredientes. Na prática, dá para combinar as duas: a própria YesStyle reúne marcas japonesas conhecidas como Hada Labo e Rohto ao lado das marcas coreanas.",
+          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada, comprando diretamente das fabricantes ou de parceiros oficiais, e é subsidiária de uma empresa de capital aberto (YesAsia Holdings), o que traz um nível de transparência corporativa acima de um revendedor avulso. Ainda assim, vale sempre conferir a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
+          "O código CECILIA010 funciona para produtos de K-Beauty também? Sim, é um código de recompensa geral da loja, não restrito a uma categoria específica: vale tanto para skincare coreano quanto para moda e outros itens do catálogo. Ainda assim, é sempre bom conferir no carrinho se o desconto foi aplicado corretamente antes de fechar o pedido.",
+          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, costumam ser bons pontos de entrada. Uma estratégia comum para quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade.",
+          "Todo ingrediente K-Beauty serve para qualquer tipo de pele? Não necessariamente: isso vale para qualquer produto de skincare, não só K-Beauty. Ingredientes populares como niacinamida e centella asiática costumam ser bem tolerados pela maioria das pessoas, mas \"a maioria\" não é \"todo mundo\". Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, testar um produto novo numa área pequena antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista antes de começar uma rotina nova."
         ]
       }
     ],
@@ -41534,7 +41872,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "A menção à YesStyle e ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle, que pode gerar comissão para o blog sem custo adicional para você.",
+    "editorialNote": "Parceria com a YesStyle: podemos receber comissão pelos links e pelo código CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
@@ -41583,13 +41921,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "K-Beauty is the Korean multi-layer skincare approach, known for its constant stream of launches. Outside Korea the hard part is buying: brands sell on separate sites, each with its own shipping. YesStyle puts many of them in one cart; see \"Where YesStyle Fits In\" for how it works."
+        ]
+      },
+      {
         "heading": "What Is K-Beauty",
         "paragraphs": [
-          "K-Beauty is more than just a country-of-origin label — it's a skincare philosophy that was born in South Korea and has become synonymous with innovation, rapid product launches, and an approach to skincare that differs from what many people learned growing up.",
-          "At the heart of this philosophy is the idea that a skincare routine doesn't need to be simple and straightforward. While many parts of the world have adopted the logic of \"cleanse, tone, and moisturize\" in three steps, the Korean approach works with the concept of layering: applying multiple layers of complementary products, each with a specific function. This routine might include double cleansing (an oil-based makeup remover followed by a gel or foam cleanser), toner, essence, serum, ampoule, and cream — each step designed to prepare your skin for the next one.",
-          "This philosophy stems from a cultural idea: skincare is treated as essential self-care, not vanity. This is why the Korean beauty industry is one of the most dynamic engines in the global sector, with a rate of new launches and formulations that impresses anyone accustomed to the slower pace of other regions.",
-          "In terms of ingredients, K-Beauty is known for exploring active ingredients that aren't always common elsewhere: centella asiatica (soothing, associated with sensitive skin), niacinamide (used for oil control and tone evening), snail mucin (hydrating, one of the most strongly associated ingredients with the category, though also one of the most debated for those who prefer vegan formulas), PDRN (a newer active ingredient linked to skin renewal routines), propolis, and fermented ingredients — which the Korean industry popularized as a way to make formulas gentler on skin. K-Beauty also popularized formats like the cushion compact (a sponge saturated with base or BB cream inside a case with a mirror), sheet masks saturated with concentrated serum, and ampoule serums.",
-          "A term strongly associated with the category is \"glass skin\" — the idea of skin so uniform, hydrated, and glowing with healthy radiance that it looks like glass. It's an aesthetic ideal, not a literal promise, but it captures what many K-Beauty routines aim for: healthy skin barrier, uniform texture, and that glow we typically associate with well-cared-for skin."
+          "K-Beauty is more than just a country-of-origin label: it's a skincare philosophy that was born in South Korea and has become synonymous with innovation, rapid product launches, and an approach to skincare that differs from what many people learned growing up.",
+          "At the heart of this philosophy is the idea that a skincare routine doesn't need to be simple and straightforward. While many parts of the world have adopted the logic of \"cleanse, tone, and moisturize\" in three steps, the Korean approach works with the concept of layering: applying multiple layers of complementary products, each with a specific function. This routine might include double cleansing (an oil-based makeup remover followed by a gel or foam cleanser), toner, essence, serum, ampoule, and cream: each step designed to prepare your skin for the next one.",
+          "This philosophy stems from a cultural idea: skincare is treated as essential self-care, not vanity. This is why the Korean beauty industry is one of the most dynamic engines in the global sector, with a rate of new launches and formulations that impresses anyone accustomed to the slower pace of other regions."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -41598,46 +41940,43 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Why K-Beauty Became a Global Trend",
+        "heading": "Ingredients and Formats K-Beauty Popularized",
         "paragraphs": [
-          "K-Beauty's explosion outside Asia over the last two decades is no accident. Several factors combined to create this wave of curiosity and mass adoption.",
-          "The first is the cultural influence of K-dramas and K-pop. Both phenomena have captured massive global audiences and serve as a living showcase of Korean beauty culture — when TV dramas show characters going through their skincare routines at home, or when K-pop artists take the stage with flawless skin night after night, the natural question that arises is \"how do they do that?\" The answer almost always points to the products they use.",
-          "The second factor is the culture of Korean beauty brands themselves. Unlike industries that settle into a stable product catalog for years, Korean skincare brands maintain a pace of launches and ingredient innovation that captures international attention — every month brings new serums, new actives, new mask formats. Combined with price points that are often more competitive than Western luxury brands with similar claims, this created the perception that the newest skincare technology in the world is coming out of Korea.",
-          "The third factor is purely digital: skincare enthusiast communities grew on platforms like TikTok, YouTube, and Reddit, influencers started sharing unboxings of Korean products with genuine enthusiasm, reviews multiplied, and the viral dynamic transformed K-Beauty from a niche interest into a mainstream phenomenon.",
-          "At the end of the day, the narrative is simple to understand, which is why it spread so fast: there's an entire industry, on the other side of the world, obsessed with skincare innovation — and today it's possible to access it online."
+          "In terms of ingredients, K-Beauty is known for exploring active ingredients that aren't always common elsewhere: centella asiatica (soothing, associated with sensitive skin), niacinamide (used for oil control and tone evening), snail mucin (hydrating, one of the most strongly associated ingredients with the category, though also one of the most debated for those who prefer vegan formulas), PDRN (a newer active ingredient linked to skin renewal routines), propolis, and fermented ingredients: which the Korean industry popularized as a way to make formulas gentler on skin. K-Beauty also popularized formats like the cushion compact (a sponge saturated with base or BB cream inside a case with a mirror), sheet masks saturated with concentrated serum, and ampoule serums.",
+          "A term strongly associated with the category is \"glass skin\": the idea of skin so uniform, hydrated, and glowing with healthy radiance that it looks like glass. It's an aesthetic ideal, not a literal promise, but it captures what many K-Beauty routines aim for: healthy skin barrier, uniform texture, and that glow we typically associate with well-cared-for skin."
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "Why K-Beauty Became a Global Trend",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Shelves in a Korean retail store displaying K-Beauty products with a neon sign reading \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "On the streets of Korea, K-Beauty launches are on display — and part of the draw for visitors to the country.",
-        "imageFit": "cover"
+        "imageCaption": "On the streets of Korea, K-Beauty launches are on display, and part of the draw for visitors to the country.",
+        "imageFit": "cover",
+        "paragraphs": [
+          "K-Beauty's explosion outside Asia over the last two decades is no accident. Several factors combined to create this wave of curiosity and mass adoption.",
+          "The first is the cultural influence of K-dramas and K-pop. Both phenomena have captured massive global audiences and serve as a living showcase of Korean beauty culture: when TV dramas show characters going through their skincare routines at home, or when K-pop artists take the stage with flawless skin night after night, the natural question that arises is \"how do they do that?\" The answer almost always points to the products they use.",
+          "The second factor is the culture of Korean beauty brands themselves. Unlike industries that settle into a stable product catalog for years, Korean skincare brands maintain a pace of launches and ingredient innovation that captures international attention: every month brings new serums, new actives, new mask formats. Combined with price points that are often more competitive than Western luxury brands with similar claims, this created the perception that the newest skincare technology in the world is coming out of Korea.",
+          "The third factor is purely digital: skincare enthusiast communities grew on platforms like TikTok, YouTube, and Reddit, influencers started sharing unboxings of Korean products with genuine enthusiasm, reviews multiplied, and the viral dynamic transformed K-Beauty from a niche interest into a mainstream phenomenon.",
+          "At the end of the day, the narrative is simple to understand, which is why it spread so fast: there's an entire industry, on the other side of the world, obsessed with skincare innovation, and today it's possible to access it online."
+        ],
+        "bullets": []
       },
       {
         "heading": "The Problem With Buying K-Beauty Outside Korea",
         "paragraphs": [
           "If K-Beauty is so relevant, why isn't it easy to find in a mall or drugstore? The answer lies in distribution.",
-          "Most Korean skincare brands don't have their own stores in most parts of the world. A brand that's well-known internationally might sell officially only through Korean e-commerce or through a handful of authorized distributors in specific markets. This creates a real problem for anyone wanting to build a complete routine — say, a cleanser, a toner, a serum, and a cream, each from a different brand.",
-          "If each brand only sells on its own website (or doesn't sell internationally officially at all), the alternative becomes: make multiple separate checkouts, pay international shipping multiple times, wait for deliveries on different dates, and deal with currency exchange and potential import taxes depending on your destination country's regulations — which varies considerably and changes frequently, so it's always worth checking the rules in your region before buying.",
-          "For many people, this logistical friction — not the price or quality of the products — is what keeps them from trying K-Beauty. Navigating multiple websites in different languages, paying for international shipping repeatedly, and not having one place to track your order is exhausting. Beyond that, not every Korean brand sells internationally: some only sell within Korea, which would leave you with the option of turning to third-party resellers — not always reliable — or international mail forwarding services, which add cost and extra time."
+          "Most Korean skincare brands don't have their own stores in most parts of the world. A brand that's well-known internationally might sell officially only through Korean e-commerce or through a handful of authorized distributors in specific markets. This creates a real problem for anyone wanting to build a complete routine: say, a cleanser, a toner, a serum, and a cream, each from a different brand.",
+          "If each brand only sells on its own website (or doesn't sell internationally officially at all), the alternative becomes: make multiple separate checkouts, pay international shipping multiple times, wait for deliveries on different dates, and deal with currency exchange and potential import taxes depending on your destination country's regulations: which varies considerably and changes frequently, so it's always worth checking the rules in your region before buying.",
+          "For many people, this logistical friction, not the price or quality of the products, is what keeps them from trying K-Beauty. Navigating multiple websites in different languages, paying for international shipping repeatedly, and not having one place to track your order is exhausting. Beyond that, not every Korean brand sells internationally: some only sell within Korea, which would leave you with the option of turning to third-party resellers, not always reliable, or international mail forwarding services, which add cost and extra time."
         ],
         "bullets": []
       },
       {
         "heading": "Where YesStyle Fits In",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyle logo",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "This is where platforms like YesStyle solve the problem.",
-          "YesStyle functions as a centralized marketplace: instead of going from brand to brand, you can buy multiple Korean brands — and also Japanese and other Asian brands — in a single cart, with one shipping cost and one delivery timeframe. The company states in its corporate information that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, and Isntree — a sample of the type of brand available, not an exhaustive list, since the catalog changes over time.",
+          "YesStyle functions as a centralized marketplace: instead of going from brand to brand, you can buy multiple Korean brands, and also Japanese and other Asian brands, in a single cart, with one shipping cost and one delivery timeframe. The company states in its corporate information that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, and Isntree: a sample of the type of brand available, not an exhaustive list, since the catalog changes over time.",
           "The platform also goes beyond skincare: it carries Asian fashion, makeup, accessories, and other lifestyle categories, which means you can round out a serum purchase with other items in the same transaction.",
           "For anyone wanting to take advantage of a discount on a first purchase, there's the reward code CECILIA010, which guarantees a direct discount at checkout (larger on your first purchase, smaller on subsequent ones) when applied in the correct field in your cart. There's a step-by-step guide linked below on how to apply the code.",
           "This centralization is what allowed K-Beauty to shift from an interest for dedicated collectors to something accessible to anyone who just wants to test whether the hype is real."
@@ -41665,10 +42004,10 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently Asked Questions About K-Beauty",
         "bullets": [
           "Is K-Beauty the same thing as J-Beauty (Japanese beauty)? No, though the two terms often appear together. K-Beauty and J-Beauty share a strong emphasis on skincare, but their philosophies tend to differ: J-Beauty is typically associated with a more functional minimalism and sun protection as the foundation of everything, while K-Beauty is better known for layering across multiple steps and constant ingredient innovation. In practice, you can combine the two approaches: YesStyle itself brings together well-known Japanese brands like Hada Labo and Rohto alongside Korean brands.",
-          "Does YesStyle sell authentic/original products? The company states in its corporate information that it is an authorized distributor — buying directly from manufacturers or official partners — and is a subsidiary of a publicly listed company (YesAsia Holdings), which brings a level of corporate transparency above a random reseller. That said, it's always worth checking the company's authenticity and warranty policies directly on the official website before purchasing. If you want to dive deeper into this point, we have a complete analysis of the store's reliability linked below.",
-          "Does the CECILIA010 code work on K-Beauty products too? Yes, it's a general store reward code, not restricted to a specific category — it works on Korean skincare as well as fashion and other items in the catalog. Still, it's always good to check in your cart that the discount was applied correctly before you complete your purchase.",
-          "Where should I start if I've never used K-Beauty before? Brands with strong international availability — like COSRX, Innisfree, Beauty of Joseon, Anua, Etude House, and Some By Mi — tend to be good entry points. A common strategy for beginners is to test one product at a time (a gentle cleanser, a toner, an essence) rather than overhaul your entire routine at once, which helps you notice how your skin responds to each new addition.",
-          "Is every K-Beauty ingredient suitable for every skin type? Not necessarily — and this applies to any skincare product, not just K-Beauty. Popular ingredients like niacinamide and centella asiatica are typically well tolerated by most people, but \"most\" is not \"everyone.\" If you have sensitive or reactive skin, it's wise to read the ingredient list, avoid what you already know causes a reaction, test a new product on a small area before applying it to your whole face, and if you're unsure, consult a dermatologist before starting a new routine."
+          "Does YesStyle sell authentic/original products? The company states in its corporate information that it is an authorized distributor, buying directly from manufacturers or official partners, and is a subsidiary of a publicly listed company (YesAsia Holdings), which brings a level of corporate transparency above a random reseller. That said, it's always worth checking the company's authenticity and warranty policies directly on the official website before purchasing. If you want to dive deeper into this point, we have a complete analysis of the store's reliability linked below.",
+          "Does the CECILIA010 code work on K-Beauty products too? Yes, it's a general store reward code, not restricted to a specific category: it works on Korean skincare as well as fashion and other items in the catalog. Still, it's always good to check in your cart that the discount was applied correctly before you complete your purchase.",
+          "Where should I start if I've never used K-Beauty before? Brands with strong international availability (like COSRX, Innisfree, Beauty of Joseon, Anua, Etude House, and Some By Mi) tend to be good entry points. A common strategy for beginners is to test one product at a time (a gentle cleanser, a toner, an essence) rather than overhaul your entire routine at once, which helps you notice how your skin responds to each new addition.",
+          "Is every K-Beauty ingredient suitable for every skin type? Not necessarily, and this applies to any skincare product, not just K-Beauty. Popular ingredients like niacinamide and centella asiatica are typically well tolerated by most people, but \"most\" is not \"everyone.\" If you have sensitive or reactive skin, it's wise to read the ingredient list, avoid what you already know causes a reaction, test a new product on a small area before applying it to your whole face, and if you're unsure, consult a dermatologist before starting a new routine."
         ]
       }
     ],
@@ -41680,7 +42019,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "The mention of YesStyle and the CECILIA010 code comes from a commercial partnership between Em Casa com Cecília and YesStyle, which may generate a commission for the blog at no extra cost to you.",
+    "editorialNote": "Partnership with YesStyle: we may earn a commission from the links and the CECILIA010 code.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010",
@@ -41729,13 +42068,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El K-Beauty es la rutina coreana de cuidado de la piel en varias capas, conocida por su ritmo constante de lanzamientos. Fuera de Corea, lo difícil es comprar: las marcas venden en sitios separados, con envío repetido. YesStyle reúne varias en un solo carrito; en \"Dónde Entra YesStyle en Todo Esto\" se explica cómo funciona."
+        ]
+      },
+      {
         "heading": "Qué es el K-Beauty",
         "paragraphs": [
-          "El K-Beauty es mucho más que una etiqueta de origen — es una filosofía de cuidado de la piel que nació en Corea del Sur y se convirtió en sinónimo de innovación, ritmo acelerado de lanzamientos y un enfoque radicalmente diferente al que muchas personas aprendieron a tener con el skincare.",
-          "La raíz de esta filosofía está en la idea de que una rutina de cuidados con la piel no necesita ser simple y directa. Mientras que en muchos lugares predomina la lógica de \"limpiar, tonificar e hidratar\" en tres pasos, el enfoque coreano trabaja con el concepto de layering: aplicar múltiples capas de productos que se complementan, cada uno con una función específica. Esta rutina puede incluir doble limpieza (un desmaquillante en aceite seguido de un limpiador en gel o espuma), tónico, esencia, sérum, ampolla y crema — cada etapa pensada para preparar la piel para la siguiente.",
-          "Esta filosofía surge de una idea cultural profunda: el cuidado de la piel se trata como autocuidado esencial, no como vanidad. Por eso la industria de belleza coreana es uno de los motores más dinámicos del sector en el mundo, con un volumen de lanzamientos y nuevas formulaciones que sorprende a quien está acostumbrado al ritmo más lento de otras regiones.",
-          "En términos de ingredientes, el K-Beauty es conocido por explorar activos que no siempre son comunes en otras partes: centella asiática (calmante, asociada a pieles sensibles), niacinamida (usada para controlar oleosidad y uniformizar el tono), mucina de caracol o snail mucin (hidratante, uno de los ingredientes más asociados a la categoría, aunque también es controvertido para quienes prefieren fórmulas veganas), PDRN (un activo más reciente, vinculado a rutinas de renovación de la piel), própolis e ingredientes fermentados, que la industria coreana popularizó como forma de hacer las fórmulas más suaves para la piel. El K-Beauty también popularizó formatos como el cushion compact (una esponja embebida en base o BB cream dentro de un estuche con espejo), las mascarillas de tela con suero concentrado, y las ampollas serológicas.",
-          "Un término muy asociado a esta categoría es \"glass skin\" — la idea de una piel tan uniforme, hidratada y con tanto brillo saludable que parece vidrio. Es un ideal estético, no una promesa literal, pero resume bien lo que buena parte de las rutinas de K-Beauty persigue: una piel con barrera cutánea saludable, textura uniforme y ese brillo que normalmente asociamos a una piel bien cuidada."
+          "El K-Beauty es mucho más que una etiqueta de origen: es una filosofía de cuidado de la piel que nació en Corea del Sur y se convirtió en sinónimo de innovación, ritmo acelerado de lanzamientos y un enfoque radicalmente diferente al que muchas personas aprendieron a tener con el skincare.",
+          "La raíz de esta filosofía está en la idea de que una rutina de cuidados con la piel no necesita ser simple y directa. Mientras que en muchos lugares predomina la lógica de \"limpiar, tonificar e hidratar\" en tres pasos, el enfoque coreano trabaja con el concepto de layering: aplicar múltiples capas de productos que se complementan, cada uno con una función específica. Esta rutina puede incluir doble limpieza (un desmaquillante en aceite seguido de un limpiador en gel o espuma), tónico, esencia, sérum, ampolla y crema: cada etapa pensada para preparar la piel para la siguiente.",
+          "Esta filosofía surge de una idea cultural profunda: el cuidado de la piel se trata como autocuidado esencial, no como vanidad. Por eso la industria de belleza coreana es uno de los motores más dinámicos del sector en el mundo, con un volumen de lanzamientos y nuevas formulaciones que sorprende a quien está acostumbrado al ritmo más lento de otras regiones."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -41744,46 +42087,43 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Por Qué el K-Beauty Se Convirtió en una Tendencia Mundial",
+        "heading": "Ingredientes y Formatos que Popularizó el K-Beauty",
         "paragraphs": [
-          "La explosión del K-Beauty fuera de Asia en las últimas dos décadas no es accidental. Varios factores se han sumado para crear esta ola de curiosidad y adopción masiva.",
-          "El primero es la influencia cultural de los K-dramas y el K-pop. Ambos fenómenos han conquistado audiencias globales enormes y funcionan como una vitrina viva de la cultura de belleza coreana — cuando las escenas de novelas muestran personajes en sus rutinas de skincare en casa, o cuando artistas de K-pop aparecen con piel impecable en escena tras escena, la pregunta natural que surge es \"¿cómo lo hacen?\". La respuesta casi siempre apunta a los productos que usan.",
-          "El segundo factor es la propia cultura de las marcas coreanas de belleza. A diferencia de industrias que se acomodan en un catálogo estable por años, las marcas coreanas de skincare mantienen un ritmo de lanzamiento e innovación de ingredientes que llama la atención internacionalmente — cada mes aparecen nuevos sérums, nuevos activos, nuevos formatos de mascarilla. Combinado con precios generalmente más competitivos que las marcas de lujo occidentales con propuestas similares, esto creó la percepción de que la tecnología de skincare más nueva del mundo está saliendo de Corea.",
-          "El tercer factor es puramente de internet: las comunidades de entusiastas de skincare crecieron en plataformas como TikTok, YouTube y Reddit, influenciadores comenzaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron, y la dinámica viral transformó el K-Beauty de un interés de nicho en un fenómeno mainstream.",
-          "Al final, la narrativa es simple de entender y por eso se propagó tan rápido: existe una industria completa, al otro lado del mundo, obsesionada con la innovación en cuidados de la piel — y hoy es posible tener acceso a todo esto en línea."
+          "En términos de ingredientes, el K-Beauty es conocido por explorar activos que no siempre son comunes en otras partes: centella asiática (calmante, asociada a pieles sensibles), niacinamida (usada para controlar oleosidad y uniformizar el tono), mucina de caracol o snail mucin (hidratante, uno de los ingredientes más asociados a la categoría, aunque también es controvertido para quienes prefieren fórmulas veganas), PDRN (un activo más reciente, vinculado a rutinas de renovación de la piel), própolis e ingredientes fermentados, que la industria coreana popularizó como forma de hacer las fórmulas más suaves para la piel. El K-Beauty también popularizó formatos como el cushion compact (una esponja embebida en base o BB cream dentro de un estuche con espejo), las mascarillas de tela con suero concentrado, y las ampollas serológicas.",
+          "Un término muy asociado a esta categoría es \"glass skin\": la idea de una piel tan uniforme, hidratada y con tanto brillo saludable que parece vidrio. Es un ideal estético, no una promesa literal, pero resume bien lo que buena parte de las rutinas de K-Beauty persigue: una piel con barrera cutánea saludable, textura uniforme y ese brillo que normalmente asociamos a una piel bien cuidada."
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "Por Qué el K-Beauty Se Convirtió en una Tendencia Mundial",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Estante de una tienda coreana con un letrero de neón que dice \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "En las calles de Corea, los lanzamientos de K-Beauty son escaparate — y parte del atractivo para quienes visitan el país.",
-        "imageFit": "cover"
+        "imageCaption": "En las calles de Corea, los lanzamientos de K-Beauty son escaparate, y parte del atractivo para quienes visitan el país.",
+        "imageFit": "cover",
+        "paragraphs": [
+          "La explosión del K-Beauty fuera de Asia en las últimas dos décadas no es accidental. Varios factores se han sumado para crear esta ola de curiosidad y adopción masiva.",
+          "El primero es la influencia cultural de los K-dramas y el K-pop. Ambos fenómenos han conquistado audiencias globales enormes y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de novelas muestran personajes en sus rutinas de skincare en casa, o cuando artistas de K-pop aparecen con piel impecable en escena tras escena, la pregunta natural que surge es \"¿cómo lo hacen?\". La respuesta casi siempre apunta a los productos que usan.",
+          "El segundo factor es la propia cultura de las marcas coreanas de belleza. A diferencia de industrias que se acomodan en un catálogo estable por años, las marcas coreanas de skincare mantienen un ritmo de lanzamiento e innovación de ingredientes que llama la atención internacionalmente: cada mes aparecen nuevos sérums, nuevos activos, nuevos formatos de mascarilla. Combinado con precios generalmente más competitivos que las marcas de lujo occidentales con propuestas similares, esto creó la percepción de que la tecnología de skincare más nueva del mundo está saliendo de Corea.",
+          "El tercer factor es puramente de internet: las comunidades de entusiastas de skincare crecieron en plataformas como TikTok, YouTube y Reddit, influenciadores comenzaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron, y la dinámica viral transformó el K-Beauty de un interés de nicho en un fenómeno mainstream.",
+          "Al final, la narrativa es simple de entender y por eso se propagó tan rápido: existe una industria completa, al otro lado del mundo, obsesionada con la innovación en cuidados de la piel, y hoy es posible tener acceso a todo esto en línea."
+        ],
+        "bullets": []
       },
       {
         "heading": "El Problema de Comprar K-Beauty Fuera de Corea",
         "paragraphs": [
           "Si el K-Beauty es tan relevante, ¿por qué no es tan simple encontrarlo en un centro comercial o farmacia? La respuesta está en la distribución.",
-          "La mayoría de las marcas coreanas de skincare no tienen tiendas propias en buena parte del mundo. Una marca conocida internacionalmente puede vender oficialmente solo a través del comercio electrónico coreano o de pocos distribuidores autorizados en mercados específicos. Esto crea un problema real para quien quiere armar una rutina completa — digamos, un limpiador, un tónico, un sérum y una crema, cada uno de una marca diferente.",
-          "Si cada marca solo vende en su propio sitio (o ni siquiera vende internacionalmente de forma oficial), la alternativa se convierte en: hacer varios checkouts separados, pagar envío internacional varias veces, esperar entregas en fechas diferentes, y además lidiar con cambio de divisa y posibles tasas de importación según la legislación de cada país de destino — que varía bastante y cambia con frecuencia, así que siempre vale revisar la regla vigente en tu región antes de comprar.",
-          "Para mucha gente, esa fricción logística — no el precio ni la calidad de los productos — es lo que aleja la idea de experimentar K-Beauty. Navegar por varios sitios en idiomas diferentes, pagar envío internacional repetidas veces y no tener un único lugar para hacer seguimiento del pedido es agotador. Además, no toda marca coreana vende hacia fuera de Asia: algunas venden solo dentro de Corea, lo que llevaría a la opción de recurrir a revendedores terceros — no siempre confiables — o a servicios de reenvío postal internacional, que añaden costo y tiempo extra."
+          "La mayoría de las marcas coreanas de skincare no tienen tiendas propias en buena parte del mundo. Una marca conocida internacionalmente puede vender oficialmente solo a través del comercio electrónico coreano o de pocos distribuidores autorizados en mercados específicos. Esto crea un problema real para quien quiere armar una rutina completa: digamos, un limpiador, un tónico, un sérum y una crema, cada uno de una marca diferente.",
+          "Si cada marca solo vende en su propio sitio (o ni siquiera vende internacionalmente de forma oficial), la alternativa se convierte en: hacer varios checkouts separados, pagar envío internacional varias veces, esperar entregas en fechas diferentes, y además lidiar con cambio de divisa y posibles tasas de importación según la legislación de cada país de destino: que varía bastante y cambia con frecuencia, así que siempre vale revisar la regla vigente en tu región antes de comprar.",
+          "Para mucha gente, esa fricción logística, no el precio ni la calidad de los productos, es lo que aleja la idea de experimentar K-Beauty. Navegar por varios sitios en idiomas diferentes, pagar envío internacional repetidas veces y no tener un único lugar para hacer seguimiento del pedido es agotador. Además, no toda marca coreana vende hacia fuera de Asia: algunas venden solo dentro de Corea, lo que llevaría a la opción de recurrir a revendedores terceros, no siempre confiables, o a servicios de reenvío postal internacional, que añaden costo y tiempo extra."
         ],
         "bullets": []
       },
       {
         "heading": "Dónde Entra YesStyle en Todo Esto",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "Logotipo de YesStyle",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "Es aquí donde plataformas como YesStyle resuelven el problema.",
-          "YesStyle funciona como un marketplace centralizado: en lugar de ir de marca en marca, compras varias marcas coreanas — y también japonesas y de otras partes de Asia — en un carrito único, con un envío y un plazo de entrega únicos. La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree — una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
+          "YesStyle funciona como un marketplace centralizado: en lugar de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un carrito único, con un envío y un plazo de entrega únicos. La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
           "La plataforma también va más allá del skincare: tiene moda asiática, maquillaje, accesorios y otras categorías de lifestyle, lo que significa que puedes complementar una compra de sérum con otros artículos en la misma transacción.",
           "Para quien quiera aprovechar un descuento en la primera compra, existe el código de recompensa CECILIA010, que garantiza descuento directo en el checkout (mayor en la primera compra, menor en las siguientes) cuando se aplica en el campo correcto del carrito. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo.",
           "Esa centralización fue lo que permitió que el K-Beauty saliera de ser un interés de coleccionistas dedicados y se convirtiera en algo accesible para quien solo quiere probar si la fama es real."
@@ -41811,10 +42151,10 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas Frecuentes sobre K-Beauty",
         "bullets": [
           "¿El K-Beauty es lo mismo que el J-Beauty (belleza japonesa)? No, aunque los dos términos aparecen juntos con frecuencia. El K-Beauty y el J-Beauty comparten un énfasis fuerte en cuidados de la piel, pero las filosofías tienden a ser diferentes: el J-Beauty suele asociarse a un minimalismo más funcional y a la protección solar como base de todo, mientras que el K-Beauty es más conocido por el layering en múltiples capas y por la innovación constante de ingredientes. En la práctica, puedes combinar los dos: la propia YesStyle reúne marcas japonesas conocidas como Hada Labo y Rohto al lado de las marcas coreanas.",
-          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada — comprando directamente de los fabricantes o de socios oficiales — y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings), lo que trae un nivel de transparencia corporativa por encima del de un revendedor individual. Aun así, siempre vale revisar la política de autenticidad y garantía directo en el sitio oficial antes de comprar. Si quieres profundizar en este punto, contamos con un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
-          "¿El código CECILIA010 funciona también para productos K-Beauty? Sí, es un código de recompensa general de la tienda, no restringido a una categoría específica — sirve tanto para skincare coreano como para moda y otros artículos del catálogo. Aun así, es buena idea revisar en el carrito si el descuento se aplicó correctamente antes de finalizar la compra.",
-          "¿Por dónde empiezo si nunca he usado K-Beauty? Marcas con gran disponibilidad internacional — como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House y Some By Mi — suelen ser buenos puntos de entrada. Una estrategia común para quien está comenzando es probar un producto a la vez (un limpiador suave, un tónico, una esencia) en lugar de cambiar la rutina completa de una vez, lo que ayuda a percibir cómo responde la piel a cada novedad.",
-          "¿Todo ingrediente K-Beauty funciona para cualquier tipo de piel? No necesariamente — esto aplica a cualquier producto de skincare, no solo al K-Beauty. Ingredientes populares como la niacinamida y la centella asiática suelen ser bien tolerados por la mayoría de las personas, pero \"la mayoría\" no es \"todo el mundo\". Quien tiene piel sensible o reactiva hace bien en leer la lista de ingredientes, evitar aquello que ya sabe que causa reacción, probar un producto nuevo en un área pequeña antes de aplicarlo en toda la cara y, si tienes dudas, consultar con un dermatólogo antes de comenzar una rutina nueva."
+          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada, comprando directamente de los fabricantes o de socios oficiales, y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings), lo que trae un nivel de transparencia corporativa por encima del de un revendedor individual. Aun así, siempre vale revisar la política de autenticidad y garantía directo en el sitio oficial antes de comprar. Si quieres profundizar en este punto, contamos con un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
+          "¿El código CECILIA010 funciona también para productos K-Beauty? Sí, es un código de recompensa general de la tienda, no restringido a una categoría específica: sirve tanto para skincare coreano como para moda y otros artículos del catálogo. Aun así, es buena idea revisar en el carrito si el descuento se aplicó correctamente antes de finalizar la compra.",
+          "¿Por dónde empiezo si nunca he usado K-Beauty? Marcas con gran disponibilidad internacional (como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House y Some By Mi) suelen ser buenos puntos de entrada. Una estrategia común para quien está comenzando es probar un producto a la vez (un limpiador suave, un tónico, una esencia) en lugar de cambiar la rutina completa de una vez, lo que ayuda a percibir cómo responde la piel a cada novedad.",
+          "¿Todo ingrediente K-Beauty funciona para cualquier tipo de piel? No necesariamente: esto aplica a cualquier producto de skincare, no solo al K-Beauty. Ingredientes populares como la niacinamida y la centella asiática suelen ser bien tolerados por la mayoría de las personas, pero \"la mayoría\" no es \"todo el mundo\". Quien tiene piel sensible o reactiva hace bien en leer la lista de ingredientes, evitar aquello que ya sabe que causa reacción, probar un producto nuevo en un área pequeña antes de aplicarlo en toda la cara y, si tienes dudas, consultar con un dermatólogo antes de comenzar una rutina nueva."
         ]
       }
     ],
@@ -41826,7 +42166,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "La mención a YesStyle y al código CECILIA010 proviene de una alianza comercial entre Em Casa com Cecília y YesStyle, que puede generar una comisión para el blog sin costo adicional para ti.",
+    "editorialNote": "Alianza con YesStyle: podemos recibir una comisión por los enlaces y el código CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
@@ -41875,13 +42215,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "La K-Beauty est la routine coréenne de soins en plusieurs couches, connue pour ses lancements constants. Hors de Corée, le plus difficile est d'acheter : les marques vendent sur des sites séparés, avec des frais de port répétés. YesStyle en réunit plusieurs dans un seul panier ; voir « Où YesStyle entre en jeu »."
+        ]
+      },
+      {
         "heading": "Qu'est-ce que la K-Beauty",
         "paragraphs": [
-          "La K-Beauty ne se résume pas à une simple étiquette d'origine — c'est une philosophie complète de soins de la peau qui a émergé en Corée du Sud et s'est imposée comme synonyme d'innovation, de cycles de lancement ultra-rapides et d'une approche radicalement différente de celle que beaucoup d'entre nous avons appris à adopter pour notre skincare.",
-          "Cette philosophie repose sur une conviction fondamentale : une routine de soins de la peau ne doit pas être simple et directe. Tandis que dans beaucoup de régions persiste la logique des « trois étapes » (nettoyer, tonifier, hydrater), l'approche coréenne s'articule autour du concept de layering — appliquer plusieurs couches successives de produits complémentaires, chacun avec une fonction spécifique. Une routine complète peut comprendre une double nettoyage (un démaquillant huileux suivi d'un nettoyant mousse ou gel), un tonique, une essence, un sérum, une ampoule et une crème — chaque étape pensée pour préparer la peau à la suivante.",
-          "Cette philosophie est ancrée dans une conviction culturelle profonde : prendre soin de sa peau est un acte d'autosoins indispensable, non une question de vanité. C'est pour cette raison que l'industrie de la beauté coréenne est l'un des moteurs les plus dynamiques du secteur mondial, avec un flux de nouveaux lancements et de formules innovantes qui surprend ceux habitués au rythme plus mesuré d'autres régions.",
-          "Concernant les ingrédients, la K-Beauty s'est fait connaître par son exploitation d'actifs qui ne sont pas toujours courants ailleurs : la centella asiatica (apaisante, réputée pour calmer les peaux sensibles), la niacinamide (pour réguler le sébum et uniformiser le teint), la mucine d'escargot ou snail mucin (hydratante, l'un des ingrédients les plus emblématiques bien que controversé pour ceux préférant des formules vegan), le PDRN (un actif plus récent associé à la régénération cutanée), la propolis et les ingrédients fermentés — des innovations par lesquelles l'industrie coréenne a popularisé des formules plus douces pour la peau. La K-Beauty a aussi popularisé des formats distinctifs comme le cushion compact (une éponge imbibée de base ou BB crème dans un boîtier avec miroir), les sheet masks (masques en tissu imprégnés de sérums concentrés) et les ampoules sériques.",
-          "Un terme très associé à la catégorie est la quête de « glass skin » — l'idée d'une peau tellement uniforme, hydratée et dotée d'un éclat naturel qu'elle semble être du verre. C'est un idéal esthétique plus qu'une promesse littérale, mais il résume bien ce que visent la plupart des routines K-Beauty : une peau avec une barrière cutanée saine, une texture lisse et cet éclat que nous associons naturellement à une peau bien entretenue."
+          "La K-Beauty ne se résume pas à une simple étiquette d'origine: c'est une philosophie complète de soins de la peau qui a émergé en Corée du Sud et s'est imposée comme synonyme d'innovation, de cycles de lancement ultra-rapides et d'une approche radicalement différente de celle que beaucoup d'entre nous avons appris à adopter pour notre skincare.",
+          "Cette philosophie repose sur une conviction fondamentale : une routine de soins de la peau ne doit pas être simple et directe. Tandis que dans beaucoup de régions persiste la logique des « trois étapes » (nettoyer, tonifier, hydrater), l'approche coréenne s'articule autour du concept de layering (appliquer plusieurs couches successives de produits complémentaires, chacun avec une fonction spécifique. Une routine complète peut comprendre une double nettoyage (un démaquillant huileux suivi d'un nettoyant mousse ou gel), un tonique, une essence, un sérum, une ampoule et une crème) chaque étape pensée pour préparer la peau à la suivante.",
+          "Cette philosophie est ancrée dans une conviction culturelle profonde : prendre soin de sa peau est un acte d'autosoins indispensable, non une question de vanité. C'est pour cette raison que l'industrie de la beauté coréenne est l'un des moteurs les plus dynamiques du secteur mondial, avec un flux de nouveaux lancements et de formules innovantes qui surprend ceux habitués au rythme plus mesuré d'autres régions."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -41890,48 +42234,45 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Pourquoi la K-Beauty est devenue une tendance mondiale",
+        "heading": "Les ingrédients et formats popularisés par la K-Beauty",
         "paragraphs": [
-          "L'explosion de la K-Beauty hors d'Asie au cours des deux dernières décennies n'est pas le fruit du hasard. Plusieurs facteurs se sont conjugués pour créer cette vague de curiosité et d'adoption massive.",
-          "Le premier est l'influence culturelle des k-dramas et du k-pop. Ces deux phénomènes ont conquis des audiences globales colossales et fonctionnent comme une vitrine vivante de la culture beauté coréenne. Lorsque des scènes de séries montrent des personnages dans leurs routines de skincare à domicile, ou lorsque des artistes de k-pop apparaissent avec une peau impeccable sur scène après scène, la question naturelle qui surgit est « comment font-ils ? ». La réponse mène presque toujours aux produits qu'ils utilisent.",
-          "Le deuxième facteur est la culture même des marques coréennes de beauté. Contrairement à des industries qui se stabilisent autour d'un catalogue constant pendant des années, les marques coréennes de skincare maintiennent un rythme de lancement et d'innovation en ingrédients qui attire l'attention internationale — chaque mois surgissent de nouveaux sérums, de nouveaux actifs, de nouveaux formats de masque. Combiné à des prix généralement plus compétitifs que ceux des marques de luxe occidentales proposant des produits similaires, cela a créé la perception que la technologie la plus avant-gardiste en skincare provient de Corée.",
-          "Le troisième facteur est purement internet : les communautés d'enthousiastes du skincare se sont développées sur des plateformes comme TikTok, YouTube et Reddit. Les influenceurs ont commencé à montrer des unboxings de produits coréens avec un enthousiasme authentique, les avis se sont multipliés, et la dynamique virale a transformé la K-Beauty d'un intérêt de niche en phénomène mainstream.",
-          "Ultimement, le récit est simple et c'est pour cela qu'il s'est propagé aussi vite : il existe une industrie entière, de l'autre côté du monde, obsédée par l'innovation en soins de la peau — et aujourd'hui, il est possible d'y accéder en ligne."
+          "Concernant les ingrédients, la K-Beauty s'est fait connaître par son exploitation d'actifs qui ne sont pas toujours courants ailleurs : la centella asiatica (apaisante, réputée pour calmer les peaux sensibles), la niacinamide (pour réguler le sébum et uniformiser le teint), la mucine d'escargot ou snail mucin (hydratante, l'un des ingrédients les plus emblématiques bien que controversé pour ceux préférant des formules vegan), le PDRN (un actif plus récent associé à la régénération cutanée), la propolis et les ingrédients fermentés: des innovations par lesquelles l'industrie coréenne a popularisé des formules plus douces pour la peau. La K-Beauty a aussi popularisé des formats distinctifs comme le cushion compact (une éponge imbibée de base ou BB crème dans un boîtier avec miroir), les sheet masks (masques en tissu imprégnés de sérums concentrés) et les ampoules sériques.",
+          "Un terme très associé à la catégorie est la quête de « glass skin »: l'idée d'une peau tellement uniforme, hydratée et dotée d'un éclat naturel qu'elle semble être du verre. C'est un idéal esthétique plus qu'une promesse littérale, mais il résume bien ce que visent la plupart des routines K-Beauty : une peau avec une barrière cutanée saine, une texture lisse et cet éclat que nous associons naturellement à une peau bien entretenue."
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "Pourquoi la K-Beauty est devenue une tendance mondiale",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Rayon de magasin coréen avec des produits de skincare, enseigne néon affichant \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "Dans les rues de Corée, les lancements de K-Beauty sont une vitrine — et une attraction majeure pour les visiteurs du pays.",
-        "imageFit": "cover"
+        "imageCaption": "Dans les rues de Corée, les lancements de K-Beauty sont une vitrine, et une attraction majeure pour les visiteurs du pays.",
+        "imageFit": "cover",
+        "paragraphs": [
+          "L'explosion de la K-Beauty hors d'Asie au cours des deux dernières décennies n'est pas le fruit du hasard. Plusieurs facteurs se sont conjugués pour créer cette vague de curiosité et d'adoption massive.",
+          "Le premier est l'influence culturelle des k-dramas et du k-pop. Ces deux phénomènes ont conquis des audiences globales colossales et fonctionnent comme une vitrine vivante de la culture beauté coréenne. Lorsque des scènes de séries montrent des personnages dans leurs routines de skincare à domicile, ou lorsque des artistes de k-pop apparaissent avec une peau impeccable sur scène après scène, la question naturelle qui surgit est « comment font-ils ? ». La réponse mène presque toujours aux produits qu'ils utilisent.",
+          "Le deuxième facteur est la culture même des marques coréennes de beauté. Contrairement à des industries qui se stabilisent autour d'un catalogue constant pendant des années, les marques coréennes de skincare maintiennent un rythme de lancement et d'innovation en ingrédients qui attire l'attention internationale: chaque mois surgissent de nouveaux sérums, de nouveaux actifs, de nouveaux formats de masque. Combiné à des prix généralement plus compétitifs que ceux des marques de luxe occidentales proposant des produits similaires, cela a créé la perception que la technologie la plus avant-gardiste en skincare provient de Corée.",
+          "Le troisième facteur est purement internet : les communautés d'enthousiastes du skincare se sont développées sur des plateformes comme TikTok, YouTube et Reddit. Les influenceurs ont commencé à montrer des unboxings de produits coréens avec un enthousiasme authentique, les avis se sont multipliés, et la dynamique virale a transformé la K-Beauty d'un intérêt de niche en phénomène mainstream.",
+          "Ultimement, le récit est simple et c'est pour cela qu'il s'est propagé aussi vite : il existe une industrie entière, de l'autre côté du monde, obsédée par l'innovation en soins de la peau, et aujourd'hui, il est possible d'y accéder en ligne."
+        ],
+        "bullets": []
       },
       {
         "heading": "Le problème d'acheter de la K-Beauty hors de Corée",
         "paragraphs": [
           "Si la K-Beauty est si pertinente, pourquoi n'est-il pas simple de la trouver dans un centre commercial ou une pharmacie locale ? La réponse réside dans la distribution.",
-          "La plupart des marques coréennes de skincare n'ont pas de points de vente officiels dans une grande partie du monde. Une marque renommée internationalement peut vendre officiellement uniquement via son e-commerce coréen ou par le biais de quelques distributeurs autorisés dans des marchés spécifiques. Cela crée un obstacle concret pour qui souhaite composer une routine complète — disons, un nettoyant, un tonique, un sérum et une crème, chacun provenant d'une marque différente.",
-          "Si chaque marque ne vend que sur son propre site (ou ne vend pas officiellement à l'international), l'alternative devient alors : effectuer plusieurs achats séparés, payer les frais de port international à chaque fois, attendre des livraisons à des dates différentes, et gérer le change et les éventuelles taxes d'importation selon la réglementation de votre région — laquelle varie considérablement et change régulièrement. Il est toujours conseillé de vérifier la règle en vigueur dans votre zone avant d'acheter.",
-          "Pour beaucoup de gens, cette friction logistique — bien plus que le prix ou la qualité des produits — est ce qui les dissuade d'explorer la K-Beauty. Naviguer sur plusieurs sites dans des langues différentes, payer des frais de port internationaux répétés et ne pas avoir un seul endroit pour suivre la commande est épuisant. De plus, toutes les marques coréennes ne vendent pas à l'international : certaines vendent exclusivement en Corée, ce qui vous laisserait comme seules options de recourir à des revendeurs tiers — pas toujours fiables — ou à des services de réexpédition postale internationale, qui ajoutent coût et délai."
+          "La plupart des marques coréennes de skincare n'ont pas de points de vente officiels dans une grande partie du monde. Une marque renommée internationalement peut vendre officiellement uniquement via son e-commerce coréen ou par le biais de quelques distributeurs autorisés dans des marchés spécifiques. Cela crée un obstacle concret pour qui souhaite composer une routine complète: disons, un nettoyant, un tonique, un sérum et une crème, chacun provenant d'une marque différente.",
+          "Si chaque marque ne vend que sur son propre site (ou ne vend pas officiellement à l'international), l'alternative devient alors : effectuer plusieurs achats séparés, payer les frais de port international à chaque fois, attendre des livraisons à des dates différentes, et gérer le change et les éventuelles taxes d'importation selon la réglementation de votre région: laquelle varie considérablement et change régulièrement. Il est toujours conseillé de vérifier la règle en vigueur dans votre zone avant d'acheter.",
+          "Pour beaucoup de gens, cette friction logistique, bien plus que le prix ou la qualité des produits, est ce qui les dissuade d'explorer la K-Beauty. Naviguer sur plusieurs sites dans des langues différentes, payer des frais de port internationaux répétés et ne pas avoir un seul endroit pour suivre la commande est épuisant. De plus, toutes les marques coréennes ne vendent pas à l'international : certaines vendent exclusivement en Corée, ce qui vous laisserait comme seules options de recourir à des revendeurs tiers, pas toujours fiables, ou à des services de réexpédition postale internationale, qui ajoutent coût et délai."
         ],
         "bullets": []
       },
       {
         "heading": "Où YesStyle entre en jeu",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "Logo YesStyle",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "C'est ici que des plateformes comme YesStyle résolvent le problème.",
-          "YesStyle fonctionne comme une marketplace centralisée : au lieu de visiter marque par marque, vous pouvez acheter plusieurs marques coréennes — et aussi japonaises et d'autres régions d'Asie — dans un seul panier, avec un seul frais de port et un seul délai de livraison. L'entreprise déclare dans ses informations corporatives être distributrice autorisée de plus de 400 marques de beauté coréenne, parmi lesquelles des noms comme COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree — un aperçu du type de marques disponibles, non une liste exhaustive, car le catalogue évolue continuellement.",
+          "YesStyle fonctionne comme une marketplace centralisée : au lieu de visiter marque par marque, vous pouvez acheter plusieurs marques coréennes, et aussi japonaises et d'autres régions d'Asie, dans un seul panier, avec un seul frais de port et un seul délai de livraison. L'entreprise déclare dans ses informations corporatives être distributrice autorisée de plus de 400 marques de beauté coréenne, parmi lesquelles des noms comme COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree: un aperçu du type de marques disponibles, non une liste exhaustive, car le catalogue évolue continuellement.",
           "La plateforme va aussi au-delà du skincare : elle propose de la mode asiatique, du maquillage, des accessoires et d'autres catégories lifestyle, ce qui signifie que vous pouvez compléter un achat de sérum avec d'autres articles lors de la même transaction.",
-          "Pour bénéficier d'une réduction à la première commande, le code de récompense CECILIA010 offre une réduction directe au moment du paiement — plus importante à la première commande, moins importante aux suivantes — lorsqu'il est appliqué dans le champ correct du panier. Un guide pas à pas détaillé sur la façon d'appliquer ce code est disponible ci-dessous.",
+          "Pour bénéficier d'une réduction à la première commande, le code de récompense CECILIA010 offre une réduction directe au moment du paiement (plus importante à la première commande, moins importante aux suivantes) lorsqu'il est appliqué dans le champ correct du panier. Un guide pas à pas détaillé sur la façon d'appliquer ce code est disponible ci-dessous.",
           "C'est cette centralisation qui a permis à la K-Beauty de passer du statut d'intérêt de collectionneurs dédiés à quelque chose d'accessible pour qui souhaite simplement vérifier si la réputation est justifiée."
         ],
         "bullets": [],
@@ -41957,10 +42298,10 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ : Vos questions sur la K-Beauty",
         "bullets": [
           "La K-Beauty est-elle la même chose que la J-Beauty (beauté japonaise) ? Non, bien que les deux termes apparaissent souvent ensemble. K-Beauty et J-Beauty partagent une emphase forte sur les soins de la peau, mais les philosophies tendent à être différentes : la J-Beauty est généralement associée à un minimalisme plus fonctionnel et à la protection solaire comme fondation de tout, tandis que la K-Beauty est surtout connue pour le layering en plusieurs couches et l'innovation constante en ingrédients. En pratique, vous pouvez combiner les deux : YesStyle elle-même réunit des marques japonaises reconnues comme Hada Labo et Rohto aux côtés des marques coréennes.",
-          "YesStyle vend-elle des produits authentiques ? L'entreprise déclare dans ses informations corporatives être distributrice autorisée — elle achète directement auprès des fabricants ou de partenaires officiels — et est une filiale d'une société cotée en bourse (YesAsia Holdings), ce qui apporte un niveau de transparence corporative au-delà d'un simple revendeur indépendant. Cela dit, il est toujours judicieux de vérifier la politique d'authenticité et de garantie directement sur le site officiel avant d'acheter. Si vous souhaitez approfondir ce point, notre analyse complète sur la fiabilité de la boutique est disponible ci-dessous.",
-          "Le code CECILIA010 fonctionne-t-il aussi sur les produits K-Beauty ? Oui, c'est un code de récompense général de la plateforme, non limité à une catégorie spécifique — il s'applique aussi bien aux soins coréens qu'à la mode et aux autres articles du catalogue. Néanmoins, il est toujours bon de vérifier dans le panier que la réduction a été appliquée correctement avant de finaliser l'achat.",
-          "Par où commencer si je n'ai jamais utilisé de K-Beauty ? Des marques très disponibles internationalement — comme COSRX, Innisfree, Beauty of Joseon, Anua, Etude House et Some By Mi — sont généralement de bons points de départ. Une stratégie courante pour les débuts est de tester un produit à la fois (un nettoyant doux, un tonique, une essence) plutôt que de réinventer entièrement sa routine d'un coup, ce qui aide à observer comment votre peau répond à chaque nouveau produit.",
-          "Tous les ingrédients K-Beauty conviennent-ils à tous les types de peau ? Pas nécessairement — cela est vrai pour tout produit de skincare, pas seulement la K-Beauty. Des ingrédients populaires comme la niacinamide et la centella asiatica sont généralement bien tolérés par la plupart des gens, mais « la plupart » n'est pas « tout le monde ». Ceux ayant une peau sensible ou réactive feront bien de lire la liste des ingrédients, d'éviter ce qui a déjà causé une réaction, de tester un nouveau produit sur une petite zone avant de l'appliquer sur le visage complet et, en cas de doute, de consulter un dermatologue avant de commencer une nouvelle routine."
+          "YesStyle vend-elle des produits authentiques ? L'entreprise déclare dans ses informations corporatives être distributrice autorisée, elle achète directement auprès des fabricants ou de partenaires officiels, et est une filiale d'une société cotée en bourse (YesAsia Holdings), ce qui apporte un niveau de transparence corporative au-delà d'un simple revendeur indépendant. Cela dit, il est toujours judicieux de vérifier la politique d'authenticité et de garantie directement sur le site officiel avant d'acheter. Si vous souhaitez approfondir ce point, notre analyse complète sur la fiabilité de la boutique est disponible ci-dessous.",
+          "Le code CECILIA010 fonctionne-t-il aussi sur les produits K-Beauty ? Oui, c'est un code de récompense général de la plateforme, non limité à une catégorie spécifique: il s'applique aussi bien aux soins coréens qu'à la mode et aux autres articles du catalogue. Néanmoins, il est toujours bon de vérifier dans le panier que la réduction a été appliquée correctement avant de finaliser l'achat.",
+          "Par où commencer si je n'ai jamais utilisé de K-Beauty ? Des marques très disponibles internationalement (comme COSRX, Innisfree, Beauty of Joseon, Anua, Etude House et Some By Mi) sont généralement de bons points de départ. Une stratégie courante pour les débuts est de tester un produit à la fois (un nettoyant doux, un tonique, une essence) plutôt que de réinventer entièrement sa routine d'un coup, ce qui aide à observer comment votre peau répond à chaque nouveau produit.",
+          "Tous les ingrédients K-Beauty conviennent-ils à tous les types de peau ? Pas nécessairement: cela est vrai pour tout produit de skincare, pas seulement la K-Beauty. Des ingrédients populaires comme la niacinamide et la centella asiatica sont généralement bien tolérés par la plupart des gens, mais « la plupart » n'est pas « tout le monde ». Ceux ayant une peau sensible ou réactive feront bien de lire la liste des ingrédients, d'éviter ce qui a déjà causé une réaction, de tester un nouveau produit sur une petite zone avant de l'appliquer sur le visage complet et, en cas de doute, de consulter un dermatologue avant de commencer une nouvelle routine."
         ]
       }
     ],
@@ -41972,7 +42313,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "La mention de YesStyle et du code CECILIA010 découle d'un partenariat commercial entre Em Casa com Cecília et YesStyle, qui peut générer une commission pour le blog sans coût supplémentaire pour vous.",
+    "editorialNote": "Partenariat YesStyle : commission possible sur les liens et le code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "code-recompense-yesstyle-cecilia010",
@@ -42021,13 +42362,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "K-Beauty ist die koreanische Hautpflege in mehreren Schichten, bekannt für ihr rasantes Tempo bei Neuheiten. Außerhalb Koreas ist das Schwierige der Kauf: Die Marken verkaufen auf getrennten Seiten, mit jeweils eigenem Versand. YesStyle bündelt viele davon in einem Warenkorb; wie das funktioniert, steht unter „Wo YesStyle ins Spiel kommt“."
+        ]
+      },
+      {
         "heading": "Was ist K-Beauty?",
         "paragraphs": [
           "K-Beauty ist mehr als nur ein Herkunftslabel – es ist eine Hautpflege-Philosophie, die in Südkorea entstand und zum Synonym für Innovation, rasantes Produktwachstum und einen völlig anderen Zugang zu Skincare wurde, als ihn viele Menschen gelernt haben.",
           "Die Wurzel dieser Philosophie liegt in der Idee, dass eine Hautpflege-Routine nicht einfach und geradlinig sein muss. Während an vielen Orten die Logik von „Reinigen, Tonisieren und Feuchtigkeitspflege\" in drei Schritten vorherrscht, arbeitet der koreanische Ansatz mit dem Konzept des Layering: mehrere Schichten von Produkten auftragen, die sich ergänzen und jeweils eine spezifische Funktion haben. Diese Routine kann eine Doppelreinigung (ein öliger Makeup-Entferner gefolgt von einem Gel- oder Schaum-Reiniger), Toner, Essence, Serum, Ampulle und Creme umfassen – jeder Schritt ist durchdacht, um die Haut auf den nächsten vorzubereiten.",
-          "Diese Philosophie entspringt einer kulturellen Überzeugung: Hautpflege wird als essentielles Selbstpflege-Ritual behandelt, nicht als Eitelkeit. Deshalb ist die koreanische Beauty-Industrie einer der dynamischsten Motoren des weltweiten Marktes, mit einer Flut von neuen Launches und Formulierungen, die selbst Branchenveteranen staunen lässt.",
-          "In Bezug auf Inhaltsstoffe ist K-Beauty bekannt dafür, Wirkstoffe zu erforschen, die in anderen Regionen nicht üblich sind: Centella Asiatica (beruhigend, bekannt für empfindliche Haut), Niacinamid (einsetzbar für Glanz-Kontrolle und Ton-Ausgleich), Schneckenschleim oder Snail Mucin (feuchtigkeitsspendend, einer der Inhaltstoffe, die am stärksten mit dieser Kategorie verbunden werden – und gleichzeitig einer der am meisten diskutierten für alle, die vegane Formeln bevorzugen), PDRN (ein neuerer Wirkstoff, mit Skin-Renewal-Routinen verbunden), Propolis und fermentierte Inhaltsstoffe, die die koreanische Industrie popularisierte, um Formeln sanfter für die Haut zu gestalten. K-Beauty hat auch Formate populär gemacht wie Cushion Compacts (ein mit Foundation oder BB Cream getränkter Schwamm in einem Behälter mit Spiegel), Tuchmasken mit konzentriertem Serum und Seren-Ampullen.",
-          "Ein Begriff, der stark mit dieser Kategorie verbunden ist, ist „Glass Skin\" – die Idee einer Haut, die so ebenmäßig, hydratisiert und mit so viel gesundem Glanz ist, dass sie wie Glas aussieht. Das ist ein ästhetisches Ideal, keine wörtliche Garantie, aber es fasst zusammen, was viele K-Beauty-Routinen anstreben: eine Haut mit gesunder Hautbarriere, ebenmäßiger Textur und jenem Glanz, den wir normalerweise mit gut gepflegter Haut verbinden."
+          "Diese Philosophie entspringt einer kulturellen Überzeugung: Hautpflege wird als essentielles Selbstpflege-Ritual behandelt, nicht als Eitelkeit. Deshalb ist die koreanische Beauty-Industrie einer der dynamischsten Motoren des weltweiten Marktes, mit einer Flut von neuen Launches und Formulierungen, die selbst Branchenveteranen staunen lässt."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42036,7 +42381,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
+        "heading": "Zutaten und Formate, die K-Beauty populär gemacht hat",
+        "paragraphs": [
+          "In Bezug auf Inhaltsstoffe ist K-Beauty bekannt dafür, Wirkstoffe zu erforschen, die in anderen Regionen nicht üblich sind: Centella Asiatica (beruhigend, bekannt für empfindliche Haut), Niacinamid (einsetzbar für Glanz-Kontrolle und Ton-Ausgleich), Schneckenschleim oder Snail Mucin (feuchtigkeitsspendend, einer der Inhaltstoffe, die am stärksten mit dieser Kategorie verbunden werden – und gleichzeitig einer der am meisten diskutierten für alle, die vegane Formeln bevorzugen), PDRN (ein neuerer Wirkstoff, mit Skin-Renewal-Routinen verbunden), Propolis und fermentierte Inhaltsstoffe, die die koreanische Industrie popularisierte, um Formeln sanfter für die Haut zu gestalten. K-Beauty hat auch Formate populär gemacht wie Cushion Compacts (ein mit Foundation oder BB Cream getränkter Schwamm in einem Behälter mit Spiegel), Tuchmasken mit konzentriertem Serum und Seren-Ampullen.",
+          "Ein Begriff, der stark mit dieser Kategorie verbunden ist, ist „Glass Skin\" – die Idee einer Haut, die so ebenmäßig, hydratisiert und mit so viel gesundem Glanz ist, dass sie wie Glas aussieht. Das ist ein ästhetisches Ideal, keine wörtliche Garantie, aber es fasst zusammen, was viele K-Beauty-Routinen anstreben: eine Haut mit gesunder Hautbarriere, ebenmäßiger Textur und jenem Glanz, den wir normalerweise mit gut gepflegter Haut verbinden."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Warum K-Beauty zu einem globalen Trend wurde",
+        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+        "imageAlt": "Koreanisches Einzelhandelsregal mit Neonschild „Find the Latest K-Beauty Hype\"",
+        "imageCaption": "In Koreas Straßen sind K-Beauty-Launches Schaufenster – und Teil der Faszination für Besucher des Landes.",
+        "imageFit": "cover",
         "paragraphs": [
           "Die Explosion von K-Beauty außerhalb Asiens in den letzten zwei Jahrzehnten ist kein Zufall. Mehrere Faktoren kamen zusammen und schufen diese Welle der Neugier und Massenadaption.",
           "Der erste Faktor ist der kulturelle Einfluss von K-Dramen und K-Pop. Beide Phänomene haben weltweit riesige Zielgruppen erobert und funktionieren als lebendige Vitrine der koreanischen Beauty-Kultur – wenn Szenen aus Serien Charaktere in ihren Hautpflege-Routinen zuhause zeigen, oder wenn K-Pop-Künstler mit makelloser Haut auf der Bühne auftreten, ist die natürliche Frage, die sich stellt: „Wie machen sie das?\". Die Antwort zeigt fast immer auf die Produkte, die sie verwenden.",
@@ -42045,14 +42402,6 @@ export const reviewsData: unknown[] = [
           "Letztlich ist die Erzählung einfach zu verstehen und deshalb so schnell verbreitet: Es gibt eine ganze Industrie auf der anderen Seite der Welt, obsessiv fokussiert auf Skincare-Innovation – und heute ist es möglich, darauf online zuzugreifen."
         ],
         "bullets": []
-      },
-      {
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-        "imageAlt": "Koreanisches Einzelhandelsregal mit Neonschild „Find the Latest K-Beauty Hype\"",
-        "imageCaption": "In Koreas Straßen sind K-Beauty-Launches Schaufenster – und Teil der Faszination für Besucher des Landes.",
-        "imageFit": "cover"
       },
       {
         "heading": "Das Problem, K-Beauty außerhalb Koreas zu kaufen",
@@ -42066,13 +42415,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Wo YesStyle ins Spiel kommt",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyle-Logo",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "Genau hier lösen Plattformen wie YesStyle das Problem.",
           "YesStyle funktioniert als zentraler Marketplace: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken – und auch japanische und andere asiatische – in einem Warenkorb, mit einem einzigen Versand und einer einzigen Lieferfrist. Das Unternehmen erklärt in seinen Geschäftsinformationen, autorisierter Distributor von über 400 koreanischen Beauty-Marken zu sein, darunter Namen wie COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree – eine Auswahl des verfügbaren Sortiments, keine festgelegte Liste, da sich der Katalog ständig ändert.",
@@ -42118,7 +42460,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Die Erwähnung von YesStyle und dem Code CECILIA010 ergibt sich aus einer kommerziellen Partnerschaft zwischen Em Casa com Cecília und YesStyle, die dem Blog ohne zusätzliche Kosten für Sie eine Provision einbringen kann.",
+    "editorialNote": "Partnerschaft mit YesStyle: Wir erhalten ggf. eine Provision für Links und CECILIA010.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010",
@@ -42167,13 +42509,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "K-뷰티는 여러 겹을 쌓는 한국식 스킨케어로, 신제품이 끊임없이 나오는 것으로 유명합니다. 한국 밖에서는 구매가 어렵습니다. 브랜드마다 사이트가 따로 있고 배송비도 매번 들기 때문입니다. YesStyle은 여러 브랜드를 한 장바구니에 담을 수 있게 해 주며, 자세한 내용은 \"YesStyle의 역할\"에서 볼 수 있습니다."
+        ]
+      },
+      {
         "heading": "K-뷰티란 무엇인가",
         "paragraphs": [
           "K-뷰티는 단순한 원산지 표시가 아닙니다. 한국에서 시작된 스킨케어 철학으로, 혁신성, 빠른 신제품 출시 속도, 그리고 많은 사람들이 익숙한 방식과는 확연히 다른 접근 방식을 상징합니다.",
           "이 철학의 핵심은 스킨케어 루틴이 반드시 간단하고 직선적일 필요는 없다는 아이디어에서 비롯됩니다. 많은 지역에서는 '클렌징, 토너, 보습' 3단계가 주류지만, 한국식 접근법은 '레이어링(layering)' 개념을 활용합니다. 즉, 각각 고유한 역할을 하는 여러 제품을 겹겹이 사용하는 방식입니다. 이 루틴은 더블 클렌징(오일 클렌저 + 젤/폼 클렌저), 토너, 에센스, 세럼, 앰플, 크림으로 구성될 수 있으며, 각 단계는 다음 단계를 위해 피부를 준비시키는 역할을 합니다.",
-          "이 철학 뒤에는 문화적 기반이 있습니다. 한국 문화에서는 스킨케어를 허영이 아닌 필수적인 자기관리 행위로 봅니다. 그래서 한국 뷰티 산업은 세계에서 가장 역동적인 분야 중 하나가 되었으며, 다른 지역의 느린 속도에 익숙한 사람들도 놀랄 정도로 많은 신제품과 새로운 포뮬레이션이 끊임없이 출시됩니다.",
-          "성분 측면에서, K-뷰티는 다른 지역에서는 흔하지 않은 활성 성분들을 적극 활용하는 것으로 알려져 있습니다. 센텔라 아시아티카(진정 효과, 예민한 피부 관리로 알려짐), 나이아신아마이드(피지 조절 및 톤 균일화에 사용), 달팽이 점액 즉 스넬 뮤신(보습 성분이며, 이 카테고리와 가장 연관이 깊은 성분이지만 동시에 비건 포뮬라를 선호하는 사람들에게는 가장 논쟁이 되는 성분이기도 함), PDRN(최근에 등장한 성분으로 피부 재생 루틴과 연관), 프로폴리스, 그리고 발효 성분들이 그 예입니다. K-뷰티는 또한 쿠션 컴팩트(거울이 달린 케이스에 담긴 스펀지에 베이스나 BB크림을 담은 제품), 농축 세럼이 적신 시트 마스크, 그리고 세럼 형태의 앰플 같은 포맷도 대중화했습니다.",
-          "이 카테고리와 강하게 연관된 용어로는 '글래스 스킨'이 있습니다. 균일하고 촉촉하며 건강한 윤기가 있어서 마치 유리처럼 보이는 피부의 개념입니다. 이는 문자 그대로의 약속이 아닌 미적 이상입니다. 하지만 많은 K-뷰티 루틴이 추구하는 것을 잘 요약해 줍니다: 건강한 피부 장벽, 균일한 텍스처, 그리고 관리가 잘 된 피부와 연관 지어지는 윤기입니다."
+          "이 철학 뒤에는 문화적 기반이 있습니다. 한국 문화에서는 스킨케어를 허영이 아닌 필수적인 자기관리 행위로 봅니다. 그래서 한국 뷰티 산업은 세계에서 가장 역동적인 분야 중 하나가 되었으며, 다른 지역의 느린 속도에 익숙한 사람들도 놀랄 정도로 많은 신제품과 새로운 포뮬레이션이 끊임없이 출시됩니다."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42182,7 +42528,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
+        "heading": "K-뷰티가 유행시킨 성분과 제형",
+        "paragraphs": [
+          "성분 측면에서, K-뷰티는 다른 지역에서는 흔하지 않은 활성 성분들을 적극 활용하는 것으로 알려져 있습니다. 센텔라 아시아티카(진정 효과, 예민한 피부 관리로 알려짐), 나이아신아마이드(피지 조절 및 톤 균일화에 사용), 달팽이 점액 즉 스넬 뮤신(보습 성분이며, 이 카테고리와 가장 연관이 깊은 성분이지만 동시에 비건 포뮬라를 선호하는 사람들에게는 가장 논쟁이 되는 성분이기도 함), PDRN(최근에 등장한 성분으로 피부 재생 루틴과 연관), 프로폴리스, 그리고 발효 성분들이 그 예입니다. K-뷰티는 또한 쿠션 컴팩트(거울이 달린 케이스에 담긴 스펀지에 베이스나 BB크림을 담은 제품), 농축 세럼이 적신 시트 마스크, 그리고 세럼 형태의 앰플 같은 포맷도 대중화했습니다.",
+          "이 카테고리와 강하게 연관된 용어로는 '글래스 스킨'이 있습니다. 균일하고 촉촉하며 건강한 윤기가 있어서 마치 유리처럼 보이는 피부의 개념입니다. 이는 문자 그대로의 약속이 아닌 미적 이상입니다. 하지만 많은 K-뷰티 루틴이 추구하는 것을 잘 요약해 줍니다: 건강한 피부 장벽, 균일한 텍스처, 그리고 관리가 잘 된 피부와 연관 지어지는 윤기입니다."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "K-뷰티가 세계적인 트렌드가 된 이유",
+        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+        "imageAlt": "한국의 상점 진열대에 놓인 뷰티 제품들 위에 'Find the Latest K-Beauty Hype'라는 네온 사인이 켜져 있는 사진",
+        "imageCaption": "한국의 거리에서는 K-뷰티 신제품 출시가 곧 윈도우 디스플레이가 됩니다. 한국을 방문하는 사람들이 끌리는 이유 중 하나입니다.",
+        "imageFit": "cover",
         "paragraphs": [
           "K-뷰티가 지난 20년간 아시아 밖에서 폭발적으로 성장한 것은 우연이 아닙니다. 여러 요인이 겹쳐서 이 큰 관심의 물결을 만들어 냈습니다.",
           "첫 번째는 한류(K-드라마, K-팝)의 문화적 영향입니다. 이 두 현상은 전 세계 엄청난 규모의 관객을 사로잡았고, 한국 뷰티 문화의 살아있는 윈도우 역할을 합니다. 드라마의 장면에서 등장인물들이 집에서 스킨케어 루틴을 하는 모습이 나오거나, K-팝 아이돌들이 무대에서 무대로 옮기며 완벽한 피부를 자랑할 때, 자연스럽게 떠오르는 질문은 '어떻게 이렇게 관리하는 거야?'입니다. 그 답은 거의 항상 그들이 쓰는 제품들을 가리킵니다.",
@@ -42191,14 +42549,6 @@ export const reviewsData: unknown[] = [
           "결국 그 이야기는 간단하고 빠르게 퍼지기 쉽습니다. 세계 반대편에는 스킨케어 혁신에 집착하는 전체 산업이 존재합니다. 그리고 지금은 온라인으로 그것에 접근할 수 있습니다."
         ],
         "bullets": []
-      },
-      {
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-        "imageAlt": "한국의 상점 진열대에 놓인 뷰티 제품들 위에 'Find the Latest K-Beauty Hype'라는 네온 사인이 켜져 있는 사진",
-        "imageCaption": "한국의 거리에서는 K-뷰티 신제품 출시가 곧 윈도우 디스플레이가 됩니다. 한국을 방문하는 사람들이 끌리는 이유 중 하나입니다.",
-        "imageFit": "cover"
       },
       {
         "heading": "한국 밖에서 K-뷰티를 구매할 때의 난제",
@@ -42212,13 +42562,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "YesStyle의 역할",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyle 로고",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "이것이 YesStyle 같은 플랫폼이 문제를 해결하는 지점입니다.",
           "YesStyle은 중앙화된 마켓플레이스로 작동합니다. 브랜드를 하나하나 방문하는 대신, 여러 한국 브랜드를 구매할 수 있고, 일본과 아시아 다른 지역의 브랜드도 함께 구입할 수 있으며, 이 모두를 하나의 장바구니에 담고, 배송료는 한 번, 배송 예상일도 하나로 관리합니다. 이 회사는 회사 정보에서 COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 브랜드를 포함해 400개 이상의 한국 뷰티 브랜드의 공식 유통처라고 명시하고 있습니다. 이는 이용 가능한 브랜드 샘플일 뿐 전체 목록은 아니며, 카탈로그는 시간에 따라 변합니다.",
@@ -42264,7 +42607,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "YesStyle과 CECILIA010 코드에 대한 언급은 Em Casa com Cecília와 YesStyle 간의 상업적 파트너십에 따른 것이며, 이는 여러분에게 추가 비용 없이 블로그에 수수료를 발생시킬 수 있습니다.",
+    "editorialNote": "YesStyle 제휴: 링크와 CECILIA010 코드로 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko",
@@ -42313,13 +42656,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "K-Beautyは、何層にも重ねる韓国式スキンケアで、新作が次々に出ることでも知られています。韓国の外で難しいのは購入で、ブランドごとにサイトが別で、送料も毎回かかります。YesStyleなら複数ブランドを1つのカートでまとめて買えます。詳しくは「YesStyleがこうした課題を解決する理由」をご覧ください。"
+        ]
+      },
+      {
         "heading": "K-Beautyとは何か",
         "paragraphs": [
           "K-Beautyは単なる「原産地」の表示ではなく、韓国で生まれたスキンケアの哲学です。革新性、新製品の急速なリリース、そして従来のスキンケアの常識とは大きく異なるアプローチを特徴とします。",
           "この哲学の根底にあるのは、スキンケアのルーティンはシンプルである必要がないという考え方です。多くの地域では「洗う→化粧水→保湿」という3ステップが当たり前ですが、韓国式は「レイヤリング」という概念を採用しています。複数の製品を段階的に重ねることで、それぞれが肌に異なる働きかけをし、次のステップへと肌を整えるのです。このルーティンは、オイルクレンジング→ジェルクレンザーの「ダブルクレンジング」、化粧水、エッセンス、セラム、アンプール、クリームといった各ステップで構成されます。",
-          "この哲学は文化的背景を持っています。韓国ではスキンケアは虚栄ではなく、本質的なセルフケアの実践として捉えられているのです。だからこそ、韓国の美容業界は世界でも最もダイナミックな分野の一つになりました。毎月新しい処方が次々とリリースされ、他の地域の緩いペースとは比較にならない速度で革新が進んでいます。",
-          "K-Beautyが使う成分も、他の地域では一般的ではないものが多くあります。ツボクサ（敏感肌に適した鎮静成分）、ナイアシンアミド（皮脂バランスとトーンの均一化に使用）、スネイルムチン（カタツムリ分泌物。保湿力が高く、K-Beautyの代表成分ですが、ビーガンフォーミュラを好む人には物議があります）、PDRN（肌の再生を促すより新しい成分）、プロポリス、発酵成分（韓国メーカーが肌への優しさをウリに普及させた）などが特に有名です。K-Beautyはまた、クッションコンパクト（ケースに浸み込ませたBBクリームやクッションファンデ）、シートマスク（セラムに浸した布製マスク）、セロゲル状のアンプール（濃厚な美容液）といったフォーマットも世界に広めました。",
-          "このカテゴリーと切り離せない概念が「グラススキン」です。これは、肌が完全に均一で、潤いに満ち、ガラスのような輝きを放っている状態を指します。これは製品の謳う効果というより、スキンケアの美的理想を表現した言葉です。実は、多くのK-Beautyルーティンが目指しているのは、まさにこの理想——健康的なバリア機能、滑らかなテクスチャ、そして本当によくケアされた肌特有の自然な輝き——なのです。"
+          "この哲学は文化的背景を持っています。韓国ではスキンケアは虚栄ではなく、本質的なセルフケアの実践として捉えられているのです。だからこそ、韓国の美容業界は世界でも最もダイナミックな分野の一つになりました。毎月新しい処方が次々とリリースされ、他の地域の緩いペースとは比較にならない速度で革新が進んでいます。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42328,7 +42675,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
+        "heading": "K-Beautyが広めた成分とフォーマット",
+        "paragraphs": [
+          "K-Beautyが使う成分も、他の地域では一般的ではないものが多くあります。ツボクサ（敏感肌に適した鎮静成分）、ナイアシンアミド（皮脂バランスとトーンの均一化に使用）、スネイルムチン（カタツムリ分泌物。保湿力が高く、K-Beautyの代表成分ですが、ビーガンフォーミュラを好む人には物議があります）、PDRN（肌の再生を促すより新しい成分）、プロポリス、発酵成分（韓国メーカーが肌への優しさをウリに普及させた）などが特に有名です。K-Beautyはまた、クッションコンパクト（ケースに浸み込ませたBBクリームやクッションファンデ）、シートマスク（セラムに浸した布製マスク）、セロゲル状のアンプール（濃厚な美容液）といったフォーマットも世界に広めました。",
+          "このカテゴリーと切り離せない概念が「グラススキン」です。これは、肌が完全に均一で、潤いに満ち、ガラスのような輝きを放っている状態を指します。これは製品の謳う効果というより、スキンケアの美的理想を表現した言葉です。実は、多くのK-Beautyルーティンが目指しているのは、まさにこの理想（健康的なバリア機能、滑らかなテクスチャ、そして本当によくケアされた肌特有の自然な輝き）なのです。"
+        ],
+        "bullets": []
+      },
+      {
         "heading": "K-Beautyが世界的なトレンドになった理由",
+        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+        "imageAlt": "韓国の街角にある「Find the Latest K-Beauty Hype」というネオン看板と、その下に並ぶ多数のK-Beauty製品の陳列",
+        "imageCaption": "韓国の街では、K-Beautyの新製品が目玉商品として華やかに展示されています、訪韓する楽しみの一つでもあります。",
+        "imageFit": "cover",
         "paragraphs": [
           "K-Beautyが過去20年でアジア圏外に広がったのは、決して偶然ではありません。いくつかの要因が重なって、この驚異的な関心と普及のウェーブを作り出しました。",
           "まず第一は、韓国ドラマと韓国ポップミュージックの文化的影響です。この2つは世界規模の膨大な視聴者を獲得し、韓国の美容文化の生きたショーケースとなっています。ドラマで自宅でのスキンケアルーティンシーンが映っていたり、K-popアーティストがステージで次々と完璧な肌を見せたりするたびに、自然と「どうやってるんだろう？」という質問が生まれます。その答えは、ほぼ常に、彼らが使う製品を指しているのです。",
@@ -42339,32 +42698,17 @@ export const reviewsData: unknown[] = [
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-        "imageAlt": "韓国の街角にある「Find the Latest K-Beauty Hype」というネオン看板と、その下に並ぶ多数のK-Beauty製品の陳列",
-        "imageCaption": "韓国の街では、K-Beautyの新製品が目玉商品として華やかに展示されています——訪韓する楽しみの一つでもあります。",
-        "imageFit": "cover"
-      },
-      {
         "heading": "韓国国外でK-Beautyを購入する際の課題",
         "paragraphs": [
-          "K-Beautyがこんなに注目されているなら、なぜ近所のドラッグストアやデパートで簡単に見つけられないのか——その答えは、流通網にあります。",
-          "ほとんどの韓国スキンケアブランドは、世界の多くの国では直営店を持っていません。国際的に知名度があるブランドでも、公式販売は韓国のオンライン限定か、特定の市場の数社の正規販売代理店に限定されていることがほとんどです。これは、あなたが「クレンザー、化粧水、セラム、クリーム——それぞれ別のブランド」という完全なルーティンを組みたいときに、現実的な課題になります。",
+          "K-Beautyがこんなに注目されているなら、なぜ近所のドラッグストアやデパートで簡単に見つけられないのか、その答えは、流通網にあります。",
+          "ほとんどの韓国スキンケアブランドは、世界の多くの国では直営店を持っていません。国際的に知名度があるブランドでも、公式販売は韓国のオンライン限定か、特定の市場の数社の正規販売代理店に限定されていることがほとんどです。これは、あなたが「クレンザー、化粧水、セラム、クリーム、それぞれ別のブランド」という完全なルーティンを組みたいときに、現実的な課題になります。",
           "各ブランドが自社サイトでのみ販売し（そもそも国際配送に対応していない場合も少なくない）、それぞれから購入しようとすると、複数回のチェックアウト処理、複数回の国際送料支払い、異なる配送日程の待機、そして目的地の規定に応じた通関税への対応が必要になります。これらの規定は地域によって異なり頻繁に変わるため、購入前に最新の情報を確認する価値があります。",
-          "多くの人にとって、この物流上の摩擦——決して製品の価格や品質ではなく——が、K-Beautyへのチャレンジから遠ざける主な理由です。複数サイトを異言語で操作し、何度も国際送料を支払い、バラバラの配送追跡をする負担は、本当に疲れるものです。さらに、すべての韓国ブランドが海外に直接販売しているわけではありません。国内のみの販売が前提のブランドもあり、その場合は信頼性の定かでない再販業者に頼るか、国際郵便転送サービスを使うしかなく、どちらも追加コストと時間を増やすことになります。"
+          "多くの人にとって、この物流上の摩擦（決して製品の価格や品質ではなく）が、K-Beautyへのチャレンジから遠ざける主な理由です。複数サイトを異言語で操作し、何度も国際送料を支払い、バラバラの配送追跡をする負担は、本当に疲れるものです。さらに、すべての韓国ブランドが海外に直接販売しているわけではありません。国内のみの販売が前提のブランドもあり、その場合は信頼性の定かでない再販業者に頼るか、国際郵便転送サービスを使うしかなく、どちらも追加コストと時間を増やすことになります。"
         ],
         "bullets": []
       },
       {
         "heading": "YesStyleがこうした課題を解決する理由",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyleのロゴ",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "こうした問題を解決するプラットフォームが、YesStyleのようなサービスです。",
           "YesStyleはマーケットプレイスとして機能します。ブランドからブランドへと回る代わりに、韓国コスメ、そして日本やアジア各地のブランドを一つのカートで複数購入でき、送料と配送期日は1回です。YesStyleは企業情報において、400以上の韓国美容ブランドの正規販売代理店であることを明かしており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeといったブランド名が代表例として挙げられます（カタログは時間とともに変わるため、これはあくまで見本です）。",
@@ -42410,7 +42754,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "YesStyleおよびCECILIA010コードへの言及は、Em Casa com CecíliaとYesStyleの間の商業提携によるものであり、読者に追加費用を発生させることなくブログに手数料が発生する場合があります。",
+    "editorialNote": "YesStyleとの提携：リンクとCECILIA010コードから手数料を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja",
@@ -42459,13 +42803,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "快速解答",
+        "paragraphs": [
+          "K-Beauty 是韓國式多層保養，以新品層出不窮聞名。在韓國以外，難處在於購買：品牌各有各的網站，運費還要重複支付。YesStyle 能把多個品牌放進同一個購物車，詳情見「YesStyle 在其中扮演的角色」。"
+        ]
+      },
+      {
         "heading": "什麼是 K-Beauty",
         "paragraphs": [
           "K-Beauty 遠不只是一個地域標籤，它是一套護膚哲學。這套哲學誕生於韓國，象徵著創新精神、飛速的新品推陳出新，以及一種與許多人既有護膚觀念截然不同的方式。",
-          "這套哲學的核心在於一個理念：護膚療程不需要簡單直接。在許多地方，人們遵循「潔淨、爽膚、保濕」的三步驟邏輯，但韓式護膚採用的是「堆疊」（layering）概念──一層層推疊能相互補強的產品，每一層各有其目的。一個完整的韓式護膚療程可能包括雙重潔淨（先用油性卸妝液，再用凝膠或泡沫潔面乳）、爽膚水、精華液、安瓶精華和面霜──每一步都經過精心設計，為下一步做準備。",
-          "這種哲學根植於一種文化認知：護膚不是虛榮，而是基本的自我照護。正因如此，韓國美妝產業成為全球最動態的產業引擎之一，新產品和新配方的推出速度令習慣於其他地區較緩步調的人印象深刻。",
-          "談到成分時，K-Beauty 以運用在其他地區並不常見的活性成分著稱：積雪草（舒緩成分，常與敏感肌膚相關）、菸鹼醯胺（用於控制油脂和均勻膚色）、蝸牛黏液（保濕成分，也是最常被與 K-Beauty 關聯的成分之一，儘管對偏好純素配方的人來說也最具爭議性）、PDRN（一種相對較新的活性成分，與肌膚更新療程相關）、蜂膠和發酵成分（韓國美妝產業用這些來普及更溫和的配方）。K-Beauty 也普及了許多新型產品格式：氣墊粉餅（內含濃縮精華液的絨墊，裝在附鏡子的盒內）、面膜片（浸有濃縮精華液的面膜紙）和安瓶精華（高濃度的小容量精華液）。",
-          "與 K-Beauty 密切相關的一個詞彙是「玻璃肌」(glass skin)──一種肌膚如此均勻、飽滿保濕且擁有健康光澤，看起來彷彿玻璃一樣反光的理想狀態。這是一種美學理想，而非字面上的承諾，但它恰當地總結了許多 K-Beauty 療程所追求的目標：健康的肌膚屏障、均勻的膚質，以及那種我們通常會在充分照護的肌膚上看到的健康光澤。"
+          "這套哲學的核心在於一個理念：護膚療程不需要簡單直接。在許多地方，人們遵循「潔淨、爽膚、保濕」的三步驟邏輯，但韓式護膚採用的是「堆疊」（layering）概念，一層層推疊能相互補強的產品，每一層各有其目的。一個完整的韓式護膚療程可能包括雙重潔淨（先用油性卸妝液，再用凝膠或泡沫潔面乳）、爽膚水、精華液、安瓶精華和面霜，每一步都經過精心設計，為下一步做準備。",
+          "這種哲學根植於一種文化認知：護膚不是虛榮，而是基本的自我照護。正因如此，韓國美妝產業成為全球最動態的產業引擎之一，新產品和新配方的推出速度令習慣於其他地區較緩步調的人印象深刻。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42474,48 +42822,45 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "K-Beauty 為何成為全球潮流",
+        "heading": "K-Beauty 帶火的成分與劑型",
         "paragraphs": [
-          "過去二十年間，K-Beauty 在亞洲以外爆炸性成長並非巧合。幾個因素的疊加形成了這波全球好奇心和大規模採用的浪潮。",
-          "首先是韓劇和 K-pop 的文化影響力。這兩個現象在全球獲得了龐大的觀眾，並充當了韓國美妝文化的活生生櫥窗──當電視劇中的角色展示居家護膚例行工作時，或當 K-pop 藝人在舞台上一場接一場地展現無瑕肌膚時，自然而然的問題就浮現：「他們是怎麼做到的？」答案幾乎總是指向他們使用的產品。",
-          "第二個因素是韓國美妝品牌本身的文化。與多年來維持穩定商品目錄的產業不同，韓國護膚品牌保持著在新品推出和成分創新上的快速步調，這在國際上吸引了大量關注──每個月都有新的精華液、新的活性成分、新的面膜格式問世。結合相較於西方奢侈品牌提案相似但價格通常更具競爭力的定價，這在全球創造了一種認知：世界上最前沿的護膚技術正從韓國傳出。",
-          "第三個因素純粹源自網際網路：護膚愛好者社群在 TikTok、YouTube 和 Reddit 等平臺上快速成長，網紅開始熱情洋溢地展示韓國美妝產品的開箱，評論影片大幅增加，病毒式傳播動力將 K-Beauty 從利基興趣轉變為主流現象。",
-          "說到底，敘事簡潔易懂，正因如此才能如此迅速傳播：世界的另一端有一整個產業沉迷於護膚創新──如今，任何人都可以在線上取得這些產品。"
+          "談到成分時，K-Beauty 以運用在其他地區並不常見的活性成分著稱：積雪草（舒緩成分，常與敏感肌膚相關）、菸鹼醯胺（用於控制油脂和均勻膚色）、蝸牛黏液（保濕成分，也是最常被與 K-Beauty 關聯的成分之一，儘管對偏好純素配方的人來說也最具爭議性）、PDRN（一種相對較新的活性成分，與肌膚更新療程相關）、蜂膠和發酵成分（韓國美妝產業用這些來普及更溫和的配方）。K-Beauty 也普及了許多新型產品格式：氣墊粉餅（內含濃縮精華液的絨墊，裝在附鏡子的盒內）、面膜片（浸有濃縮精華液的面膜紙）和安瓶精華（高濃度的小容量精華液）。",
+          "與 K-Beauty 密切相關的一個詞彙是「玻璃肌」(glass skin)，一種肌膚如此均勻、飽滿保濕且擁有健康光澤，看起來彷彿玻璃一樣反光的理想狀態。這是一種美學理想，而非字面上的承諾，但它恰當地總結了許多 K-Beauty 療程所追求的目標：健康的肌膚屏障、均勻的膚質，以及那種我們通常會在充分照護的肌膚上看到的健康光澤。"
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "K-Beauty 為何成為全球潮流",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "韓國商店貨架展示多種 K-Beauty 產品，上方有霓虹招牌寫著「Find the Latest K-Beauty Hype」",
-        "imageCaption": "在韓國街頭，K-Beauty 新品發布成為城市風景的一部分──也是訪韓遊客的部分吸引力。",
-        "imageFit": "cover"
+        "imageCaption": "在韓國街頭，K-Beauty 新品發布成為城市風景的一部分，也是訪韓遊客的部分吸引力。",
+        "imageFit": "cover",
+        "paragraphs": [
+          "過去二十年間，K-Beauty 在亞洲以外爆炸性成長並非巧合。幾個因素的疊加形成了這波全球好奇心和大規模採用的浪潮。",
+          "首先是韓劇和 K-pop 的文化影響力。這兩個現象在全球獲得了龐大的觀眾，並充當了韓國美妝文化的活生生櫥窗，當電視劇中的角色展示居家護膚例行工作時，或當 K-pop 藝人在舞台上一場接一場地展現無瑕肌膚時，自然而然的問題就浮現：「他們是怎麼做到的？」答案幾乎總是指向他們使用的產品。",
+          "第二個因素是韓國美妝品牌本身的文化。與多年來維持穩定商品目錄的產業不同，韓國護膚品牌保持著在新品推出和成分創新上的快速步調，這在國際上吸引了大量關注，每個月都有新的精華液、新的活性成分、新的面膜格式問世。結合相較於西方奢侈品牌提案相似但價格通常更具競爭力的定價，這在全球創造了一種認知：世界上最前沿的護膚技術正從韓國傳出。",
+          "第三個因素純粹源自網際網路：護膚愛好者社群在 TikTok、YouTube 和 Reddit 等平臺上快速成長，網紅開始熱情洋溢地展示韓國美妝產品的開箱，評論影片大幅增加，病毒式傳播動力將 K-Beauty 從利基興趣轉變為主流現象。",
+          "說到底，敘事簡潔易懂，正因如此才能如此迅速傳播：世界的另一端有一整個產業沉迷於護膚創新，如今，任何人都可以在線上取得這些產品。"
+        ],
+        "bullets": []
       },
       {
         "heading": "在韓國以外購買 K-Beauty 的問題",
         "paragraphs": [
           "既然 K-Beauty 如此受關注，為什麼在購物中心或藥局裡不那麼容易找到？答案在於分布。",
-          "多數韓國護膚品牌在世界上大部分地區沒有自己的實體店。一個在國際上知名的品牌可能只通過韓國電商或少數幾個授權經銷商在特定市場進行官方販售。這為想組建完整護膚套組的人製造了真實的問題──假設你想要潔面乳、爽膚水、精華液和面霜，每個來自不同品牌。",
-          "如果每個品牌只在自己的網站販售（或根本不進行官方國際銷售），替代方案變成：分別在多個網站結賬、多次支付國際運費、等待不同交貨日期、還要應對匯率轉換，以及依據目的地國家法規可能產生的進口稅──這些稅規因地區而異且頻繁變動，所以購買前最好確認你所在地區目前的相關規定。",
-          "對許多人來說，正是這種物流摩擦（而非產品價格或品質）讓他們卻步於嘗試 K-Beauty。在多個使用不同語言的網站間導航、多次支付國際運費，以及無法在單一平臺追蹤訂單，這一切確實令人疲憊。此外，並非所有韓國品牌都向亞洲以外的地方直接銷售。有些品牌只在韓國銷售，這會導致非官方轉運商──不一定可靠──或國際郵遞轉運服務的選項，這些都會增加成本和時間。"
+          "多數韓國護膚品牌在世界上大部分地區沒有自己的實體店。一個在國際上知名的品牌可能只通過韓國電商或少數幾個授權經銷商在特定市場進行官方販售。這為想組建完整護膚套組的人製造了真實的問題，假設你想要潔面乳、爽膚水、精華液和面霜，每個來自不同品牌。",
+          "如果每個品牌只在自己的網站販售（或根本不進行官方國際銷售），替代方案變成：分別在多個網站結賬、多次支付國際運費、等待不同交貨日期、還要應對匯率轉換，以及依據目的地國家法規可能產生的進口稅，這些稅規因地區而異且頻繁變動，所以購買前最好確認你所在地區目前的相關規定。",
+          "對許多人來說，正是這種物流摩擦（而非產品價格或品質）讓他們卻步於嘗試 K-Beauty。在多個使用不同語言的網站間導航、多次支付國際運費，以及無法在單一平臺追蹤訂單，這一切確實令人疲憊。此外，並非所有韓國品牌都向亞洲以外的地方直接銷售。有些品牌只在韓國銷售，這會導致非官方轉運商，不一定可靠，或國際郵遞轉運服務的選項，這些都會增加成本和時間。"
         ],
         "bullets": []
       },
       {
         "heading": "YesStyle 在其中扮演的角色",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyle 標誌",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "這正是像 YesStyle 這樣的平臺發揮作用的地方。",
-          "YesStyle 是一個中央市場：與其逐個品牌購物，你可以在一個購物車中購買多個韓國品牌──以及日本和亞洲其他地區的品牌──享有單一的運費和單一的交貨時間。該公司在其企業資訊中聲稱是超過 400 個韓國美妝品牌的授權經銷商，包括 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等知名品牌──這只是可用品牌類型的樣本，不是完整清單，因為商品目錄會隨時間變化。",
+          "YesStyle 是一個中央市場：與其逐個品牌購物，你可以在一個購物車中購買多個韓國品牌，以及日本和亞洲其他地區的品牌，享有單一的運費和單一的交貨時間。該公司在其企業資訊中聲稱是超過 400 個韓國美妝品牌的授權經銷商，包括 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等知名品牌，這只是可用品牌類型的樣本，不是完整清單，因為商品目錄會隨時間變化。",
           "該平臺的範圍遠超護膚：還有亞洲時裝、彩妝、配飾和其他生活風格類別，意味著你可以在同一筆交易中補充護膚精華液和其他商品。",
-          "想利用首次購買折扣的人可以使用獎勵碼 CECILIA010，在結帳時將其輸入購物車中正確的欄位（稱為「Reward Code」），即可獲得直接的購買折扣──首次購買折扣幅度較大，後續購買則較小。有一份分步驟指南專門說明如何使用此代碼，連結如下。",
+          "想利用首次購買折扣的人可以使用獎勵碼 CECILIA010，在結帳時將其輸入購物車中正確的欄位（稱為「Reward Code」），即可獲得直接的購買折扣，首次購買折扣幅度較大，後續購買則較小。有一份分步驟指南專門說明如何使用此代碼，連結如下。",
           "正是這種集中化，使 K-Beauty 從專門收藏者的小眾興趣演變為任何想測試其聲譽是否真實的人都能接觸到的東西。"
         ],
         "bullets": [],
@@ -42541,10 +42886,10 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "K-Beauty 跟 J-Beauty（日式美妝）是一樣的東西嗎？ 不是，儘管這兩個術語經常同時出現。K-Beauty 和 J-Beauty 都強調護膚，但哲學傾向不同：J-Beauty 通常與更實用的極簡主義和防曬作為所有護膚的基礎相關，而 K-Beauty 則因多層堆疊和持續的成分創新而更為知名。實際上，你可以同時採用兩者：YesStyle 本身既販售 Hada Labo 和 Rohto 等知名日本品牌，也販售韓國品牌。",
-          "YesStyle 賣的是正品嗎？ 該公司在其企業資訊中聲稱自己是授權經銷商──直接向製造商或官方合作夥伴採購──並且是一家上市公司 YesAsia Holdings 的子公司，這帶來了高於零散轉運商的企業透明度水準。不過，購買前最好直接查詢官方網站的產品真偽和保證政策。如果想更深入了解這一點，我們有一份關於店舖可信度的完整分析，連結如下。",
-          "CECILIA010 代碼也適用於 K-Beauty 產品嗎？ 可以。這是一個通用的商店獎勵碼，不限於特定類別──既適用於韓國護膚品，也適用於時裝和商品目錄中的其他商品。不過，結帳前在購物車中再次檢查折扣是否正確應用，永遠是個好主意。",
-          "如果我從沒用過 K-Beauty，該從哪裡開始？ 擁有廣泛國際可用性的品牌──如 COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi──通常是不錯的入門點。對初學者來說，一個常見的策略是一次測試一個產品（一支溫和潔面乳、一瓶爽膚水、一瓶精華液），而非一次改變整個護膚療程，這有助於你察覺皮膚對每種新產品的反應。",
-          "是不是每一種 K-Beauty 成分都適合任何膚質？ 不一定──這對任何護膚產品都成立，不只是 K-Beauty。菸鹼醯胺和積雪草等知名成分通常被大多數人良好耐受，但「大多數」不等於「所有人」。敏感或易激惹膚質的人應該閱讀成分表、避免已知會引起反應的成分、先在小範圍皮膚上測試新產品再全臉使用，如有疑慮，在開始新護膚療程前應諮詢皮膚科醫生。"
+          "YesStyle 賣的是正品嗎？ 該公司在其企業資訊中聲稱自己是授權經銷商，直接向製造商或官方合作夥伴採購，並且是一家上市公司 YesAsia Holdings 的子公司，這帶來了高於零散轉運商的企業透明度水準。不過，購買前最好直接查詢官方網站的產品真偽和保證政策。如果想更深入了解這一點，我們有一份關於店舖可信度的完整分析，連結如下。",
+          "CECILIA010 代碼也適用於 K-Beauty 產品嗎？ 可以。這是一個通用的商店獎勵碼，不限於特定類別，既適用於韓國護膚品，也適用於時裝和商品目錄中的其他商品。不過，結帳前在購物車中再次檢查折扣是否正確應用，永遠是個好主意。",
+          "如果我從沒用過 K-Beauty，該從哪裡開始？ 擁有廣泛國際可用性的品牌，如 COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi，通常是不錯的入門點。對初學者來說，一個常見的策略是一次測試一個產品（一支溫和潔面乳、一瓶爽膚水、一瓶精華液），而非一次改變整個護膚療程，這有助於你察覺皮膚對每種新產品的反應。",
+          "是不是每一種 K-Beauty 成分都適合任何膚質？ 不一定，這對任何護膚產品都成立，不只是 K-Beauty。菸鹼醯胺和積雪草等知名成分通常被大多數人良好耐受，但「大多數」不等於「所有人」。敏感或易激惹膚質的人應該閱讀成分表、避免已知會引起反應的成分、先在小範圍皮膚上測試新產品再全臉使用，如有疑慮，在開始新護膚療程前應諮詢皮膚科醫生。"
         ]
       }
     ],
@@ -42556,7 +42901,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "提及 YesStyle 與 CECILIA010 代碼，是因為 Em Casa com Cecília 與 YesStyle 之間存在商業合作關係，這可能為部落格帶來佣金，且不會為你增加任何額外費用。",
+    "editorialNote": "與 YesStyle 合作：我們可能透過連結和 CECILIA010 代碼獲得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
@@ -42605,13 +42950,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "快速解答",
+        "paragraphs": [
+          "K-Beauty 是韩国式多层护肤，以新品层出不穷著称。在韩国以外，难点在于购买：品牌各有各的网站，运费还要重复支付。YesStyle 能把多个品牌放进同一个购物车，具体做法见“YesStyle 在其中扮演的角色”。"
+        ]
+      },
+      {
         "heading": "什么是 K-Beauty",
         "paragraphs": [
-          "K-Beauty（韩国美妆）不仅仅是一个产地标签——它代表着一套在韩国发源、而后风靡全球的护肤哲学。这套理念以创新、快速迭代和迥然不同的方法论而闻名，彻底改变了许多人对护肤的认知。",
-          "这种哲学的核心观念是：护肤并不需要简单粗暴。在许多地方，“清洁、爽肤、保湿”三步法占据主流；而韩国护肤则践行“分层理论”（layering）——通过多层次产品的搭配使用，让每一款都各司其职、互相补充。一套完整的护肤步骤可能包括双重洁面（油类卸妆液+凝胶或泡沫洁面乳）、爽肤水、精华液、安瓶、面霜——每一步都被精心设计，为下一个步骤做准备。",
-          "这种理念背后有着深层的文化根源：护肤在韩国文化中被视为基本的自我照顾方式，而非单纯的审美考量。正因如此，韩国美妆产业成为全球最富活力的行业之一，新产品发布和配方创新的频率令其他地区的品牌都相形见绌。",
-          "在成分层面，K-Beauty 以开发并使用其他地区不太常见的活性成分而闻名：积雪草（以舒缓著称，常用于敏感肌护理）、烟酰胺（控油、均匀肤色）、蜗牛黏液（保湿能力强，是 K-Beauty 最具代表性的成分之一，尽管它对于偏好纯素配方的人群存在争议）、PDRN（近年兴起的活性成分，与肌肤更新修护相关）、蜂胶和发酵成分（韩国美妆产业将其推广为温和护肤的解决方案）。K-Beauty 还普及了许多独特的产品格式：气垫粉底（内含海绵，装在镜子盒里）、片状面膜（浸透浓缩精华液的织布膜）、精华安瓶等。",
-          "与 K-Beauty 紧密相关的一个概念是“玻璃肌”——指肌肤如此均匀、水润、闪耀，仿佛透明玻璃一般的理想状态。这是一个美学理想而非字面承诺，但它很好地概括了许多 K-Beauty 护肤方案所追求的目标：一个屏障功能健全、纹理均匀、闪现自然光泽的肌肤。"
+          "K-Beauty（韩国美妆）不仅仅是一个产地标签，它代表着一套在韩国发源、而后风靡全球的护肤哲学。这套理念以创新、快速迭代和迥然不同的方法论而闻名，彻底改变了许多人对护肤的认知。",
+          "这种哲学的核心观念是：护肤并不需要简单粗暴。在许多地方，“清洁、爽肤、保湿”三步法占据主流；而韩国护肤则践行“分层理论”（layering），通过多层次产品的搭配使用，让每一款都各司其职、互相补充。一套完整的护肤步骤可能包括双重洁面（油类卸妆液+凝胶或泡沫洁面乳）、爽肤水、精华液、安瓶、面霜，每一步都被精心设计，为下一个步骤做准备。",
+          "这种理念背后有着深层的文化根源：护肤在韩国文化中被视为基本的自我照顾方式，而非单纯的审美考量。正因如此，韩国美妆产业成为全球最富活力的行业之一，新产品发布和配方创新的频率令其他地区的品牌都相形见绌。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42620,46 +42969,43 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "K-Beauty 为何成为全球潮流",
+        "heading": "K-Beauty 带火的成分与剂型",
         "paragraphs": [
-          "K-Beauty 在过去二十年中在亚洲以外地区的爆发式增长绝非偶然。多种因素的叠加共同造就了这一波全球热潮。",
-          "首先是韩国电视剧和 K-pop 文化的全球影响力。这两大文化现象俘获了全球庞大的受众群体，并成为了韩国美妆文化的“活广告”——当电视剧中的角色在家中进行护肤程序时，或当 K-pop 艺人在舞台上一场接一场地展现无暇肌肤时，观众自然而然会产生一个疑问：“他们是怎么做到的？”答案几乎总是指向他们使用的产品。",
-          "其次是韩国美妆品牌本身的运作模式。与许多多年来维持稳定产品线的产业不同，韩国护肤品牌保持着令国际市场瞩目的创新节奏——每个月都会有新的精华液、新的活性成分、新的面膜形式推出。结合相比西方高端品牌更具竞争力的定价，这创造了一种国际认知：世界上最新的护肤科技正在韩国诞生。",
-          "第三个因素完全源于互联网的力量：护肤爱好者社区在 TikTok、YouTube 和 Reddit 等平台上不断壮大，网红博主们带着真挚的热情展示韩国美妆产品的开箱视频，产品评测和使用分享以几何级数增长，病毒式传播的动力将 K-Beauty 从小众兴趣转变为主流现象。",
-          "最终，这个叙述模式简洁而具有吸引力，因此传播速度极快：世界的另一端有一整个产业痴迷于护肤创新——而现在，通过互联网，你可以轻松获取这一切。"
+          "在成分层面，K-Beauty 以开发并使用其他地区不太常见的活性成分而闻名：积雪草（以舒缓著称，常用于敏感肌护理）、烟酰胺（控油、均匀肤色）、蜗牛黏液（保湿能力强，是 K-Beauty 最具代表性的成分之一，尽管它对于偏好纯素配方的人群存在争议）、PDRN（近年兴起的活性成分，与肌肤更新修护相关）、蜂胶和发酵成分（韩国美妆产业将其推广为温和护肤的解决方案）。K-Beauty 还普及了许多独特的产品格式：气垫粉底（内含海绵，装在镜子盒里）、片状面膜（浸透浓缩精华液的织布膜）、精华安瓶等。",
+          "与 K-Beauty 紧密相关的一个概念是“玻璃肌”，指肌肤如此均匀、水润、闪耀，仿佛透明玻璃一般的理想状态。这是一个美学理想而非字面承诺，但它很好地概括了许多 K-Beauty 护肤方案所追求的目标：一个屏障功能健全、纹理均匀、闪现自然光泽的肌肤。"
         ],
         "bullets": []
       },
       {
-        "paragraphs": [],
-        "bullets": [],
+        "heading": "K-Beauty 为何成为全球潮流",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "韩国街头零售店铺，货架上陈列 K-Beauty 产品，霓虹灯招牌写着“Find the Latest K-Beauty Hype”",
-        "imageCaption": "在韩国街头，K-Beauty 新品成为了橱窗展示的焦点——也是许多访客前往该国的吸引力之一。",
-        "imageFit": "cover"
+        "imageCaption": "在韩国街头，K-Beauty 新品成为了橱窗展示的焦点，也是许多访客前往该国的吸引力之一。",
+        "imageFit": "cover",
+        "paragraphs": [
+          "K-Beauty 在过去二十年中在亚洲以外地区的爆发式增长绝非偶然。多种因素的叠加共同造就了这一波全球热潮。",
+          "首先是韩国电视剧和 K-pop 文化的全球影响力。这两大文化现象俘获了全球庞大的受众群体，并成为了韩国美妆文化的“活广告”，当电视剧中的角色在家中进行护肤程序时，或当 K-pop 艺人在舞台上一场接一场地展现无暇肌肤时，观众自然而然会产生一个疑问：“他们是怎么做到的？”答案几乎总是指向他们使用的产品。",
+          "其次是韩国美妆品牌本身的运作模式。与许多多年来维持稳定产品线的产业不同，韩国护肤品牌保持着令国际市场瞩目的创新节奏，每个月都会有新的精华液、新的活性成分、新的面膜形式推出。结合相比西方高端品牌更具竞争力的定价，这创造了一种国际认知：世界上最新的护肤科技正在韩国诞生。",
+          "第三个因素完全源于互联网的力量：护肤爱好者社区在 TikTok、YouTube 和 Reddit 等平台上不断壮大，网红博主们带着真挚的热情展示韩国美妆产品的开箱视频，产品评测和使用分享以几何级数增长，病毒式传播的动力将 K-Beauty 从小众兴趣转变为主流现象。",
+          "最终，这个叙述模式简洁而具有吸引力，因此传播速度极快：世界的另一端有一整个产业痴迷于护肤创新，而现在，通过互联网，你可以轻松获取这一切。"
+        ],
+        "bullets": []
       },
       {
         "heading": "在韩国以外购买 K-Beauty 的问题",
         "paragraphs": [
           "如果 K-Beauty 如此备受推崇，为什么不能轻易在购物中心或药店找到呢？答案在于分布渠道。",
-          "绝大多数韩国护肤品牌在世界许多地区都没有直营店。一个国际知名的品牌可能只通过其韩国电商平台或少数授权经销商在特定市场销售。这对想要组建完整护肤程序的人来说构成了真实的障碍——假如你想要一套由不同品牌组成的洁面乳、爽肤水、精华液和面霜。",
-          "如果每个品牌只在各自的平台销售（或根本不进行官方国际销售），那么你需要进行多次单独的购物结账、支付多次国际运费、等待不同的到货日期，还要应对汇率波动和可能的进口关税——而进口规则因地区而异，且频繁变化，所以在购买前最好核实一下你所在地的现行政策。",
-          "对许多人来说，正是这种物流摩擦——而不是产品价格或质量——成为了他们放弃体验 K-Beauty 的原因。在多个不同语言的网站间切换、多次支付国际邮费、无法在一个平台追踪所有订单——这些都令人疲倦。此外，并非所有韩国品牌都向亚洲以外销售。有些品牌只在韩国本土销售，这意味着你要么依赖可信度参差不齐的第三方转运商，要么求助于国际邮政转运服务——这两种选择都会增加额外的成本和等待时间。"
+          "绝大多数韩国护肤品牌在世界许多地区都没有直营店。一个国际知名的品牌可能只通过其韩国电商平台或少数授权经销商在特定市场销售。这对想要组建完整护肤程序的人来说构成了真实的障碍，假如你想要一套由不同品牌组成的洁面乳、爽肤水、精华液和面霜。",
+          "如果每个品牌只在各自的平台销售（或根本不进行官方国际销售），那么你需要进行多次单独的购物结账、支付多次国际运费、等待不同的到货日期，还要应对汇率波动和可能的进口关税，而进口规则因地区而异，且频繁变化，所以在购买前最好核实一下你所在地的现行政策。",
+          "对许多人来说，正是这种物流摩擦，而不是产品价格或质量，成为了他们放弃体验 K-Beauty 的原因。在多个不同语言的网站间切换、多次支付国际邮费、无法在一个平台追踪所有订单（这些都令人疲倦。此外，并非所有韩国品牌都向亚洲以外销售。有些品牌只在韩国本土销售，这意味着你要么依赖可信度参差不齐的第三方转运商，要么求助于国际邮政转运服务）这两种选择都会增加额外的成本和等待时间。"
         ],
         "bullets": []
       },
       {
         "heading": "YesStyle 在其中扮演的角色",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "YesStyle 标志",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "正是像 YesStyle 这样的平台解决了这一问题。",
-          "YesStyle 充当了一个集中式电商平台的角色：与其一个品牌一个品牌地购买，不如在 YesStyle 上用一个购物车采购多个韩国品牌——以及日本和亚洲其他地区的品牌——享受统一的运费和唯一的配送周期。根据该公司的企业资料，YesStyle 是超过 400 个韩国美妆品牌的授权经销商，其中包括 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等知名品牌——这只是产品线的一个样本，并不是完整列表，因为目录会随时间变化。",
+          "YesStyle 充当了一个集中式电商平台的角色：与其一个品牌一个品牌地购买，不如在 YesStyle 上用一个购物车采购多个韩国品牌，以及日本和亚洲其他地区的品牌，享受统一的运费和唯一的配送周期。根据该公司的企业资料，YesStyle 是超过 400 个韩国美妆品牌的授权经销商，其中包括 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等知名品牌，这只是产品线的一个样本，并不是完整列表，因为目录会随时间变化。",
           "平台的范围不止护肤品：网站还涵盖亚洲时尚、彩妆、配饰和其他生活方式产品，这意味着你可以在同一次交易中将精华液与其他商品一起购买。",
           "对于想在首次购买时获得折扣的用户，平台提供了奖励码 CECILIA010，在结账时输入到正确的 “Reward Code” 字段就能获得直接折扣（首次购买折扣力度更大，后续购买则较小）。下方链接提供了具体的分步使用教程。",
           "正是这种集中式的解决方案，使得 K-Beauty 从资深爱好者的收藏品转变为任何人都能轻松尝试的选择。"
@@ -42687,9 +43033,9 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题解答",
         "bullets": [
           "K-Beauty 跟 J-Beauty（日式美妆）是一样的东西吗？ 不完全一样，尽管这两个术语经常一起出现。K-Beauty 和 J-Beauty 都非常强调护肤，但其哲学基础往往不同：J-Beauty 通常与更加功能性的极简主义和防晒作为护肤基础的理念相关联，而 K-Beauty 则因其多层分层理论和持续不断的成分创新而闻名。实际上，你完全可以将两者结合使用：YesStyle 本身就在其平台上同时提供 Hada Labo 和 Rohto 等日本知名品牌以及韩国品牌。",
-          "YesStyle 卖的是正品吗？ 公司在其企业资料中声称是授权经销商——直接从制造商或官方合作伙伴采购——并且是上市公司 YesAsia Holdings 的子公司，这比普通的第三方转运商提供了更高的企业透明度。不过，在购买前最好直接在官方网站上核实真伪政策和保修条款。如果你想更深入地了解这一点，请参阅下方 YesStyle 可信度的完整分析文章。",
-          "CECILIA010 代码也适用于 K-Beauty 产品吗？ 是的，CECILIA010 是平台的通用奖励码，不限制于任何特定类别——既适用于韩国护肤品，也适用于时尚和目录中的其他商品。不过，在最终确认订单前，最好在购物车中核实折扣是否被正确应用。",
-          "如果我从没用过 K-Beauty，该从哪里开始？ 国际渠道广泛的品牌——如 COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi——通常是不错的入门选择。初次尝试的常见策略是一次只测试一款产品（比如一款温和洁面乳、一款爽肤水、一款精华液），而不是一次性改变整个护肤程序。这样做可以帮助你观察肌肤对每一款新产品的反应。",
+          "YesStyle 卖的是正品吗？ 公司在其企业资料中声称是授权经销商，直接从制造商或官方合作伙伴采购，并且是上市公司 YesAsia Holdings 的子公司，这比普通的第三方转运商提供了更高的企业透明度。不过，在购买前最好直接在官方网站上核实真伪政策和保修条款。如果你想更深入地了解这一点，请参阅下方 YesStyle 可信度的完整分析文章。",
+          "CECILIA010 代码也适用于 K-Beauty 产品吗？ 是的，CECILIA010 是平台的通用奖励码，不限制于任何特定类别，既适用于韩国护肤品，也适用于时尚和目录中的其他商品。不过，在最终确认订单前，最好在购物车中核实折扣是否被正确应用。",
+          "如果我从没用过 K-Beauty，该从哪里开始？ 国际渠道广泛的品牌（如 COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi）通常是不错的入门选择。初次尝试的常见策略是一次只测试一款产品（比如一款温和洁面乳、一款爽肤水、一款精华液），而不是一次性改变整个护肤程序。这样做可以帮助你观察肌肤对每一款新产品的反应。",
           "是不是每一种 K-Beauty 成分都适合任何肤质？ 不一定。这不仅仅适用于 K-Beauty，而是所有护肤产品都存在的原则。烟酰胺和积雪草等热门成分通常被大多数人很好地耐受，但“大多数人”并不代表“所有人”。如果你的肌肤敏感或容易反应，最好先读一遍成分表，避免已知会引起你肌肤不适的成分，在将新产品涂抹到整个面部之前，先在小面积皮肤上测试，如果有疑虑，在开始新的护肤程序之前最好咨询皮肤科医生。"
         ]
       }
@@ -42702,7 +43048,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "提及 YesStyle 与 CECILIA010 代码，是因为 Em Casa com Cecília 与 YesStyle 之间存在商业合作关系，这可能为博客带来佣金，且不会为你增加任何额外费用。",
+    "editorialNote": "与 YesStyle 合作：我们可能通过链接和 CECILIA010 代码获得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
@@ -43484,8 +43830,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 277,
     "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-    "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?",
-    "seoTitle": "Dolce Gusto, Nespresso ou 3 Corações: qual escolher?",
+    "title": "Dolce Gusto, Nespresso ou 3 Corações: custo por 100 ml e qual escolher",
+    "seoTitle": "Dolce Gusto, Nespresso ou TRES: custo por 100 ml",
     "type": "Comparativo",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -43511,26 +43857,32 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida: Dolce Gusto, Nespresso ou TRES",
+        "paragraphs": [
+          "Não há vencedora única. A Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e edições sazonais, e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas; o custo por 100 ml está no capítulo \"Quanto custa cada xícara?\"."
+        ]
+      },
+      {
         "heading": "O dilema das cápsulas: por que é tão difícil decidir?",
         "paragraphs": [
           "Comprar uma cafeteira de cápsulas não é apenas adquirir um eletroportátil para a bancada: é escolher um ecossistema de consumo para os próximos anos.",
           "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma foi concebida para perfis de paladar e hábitos distintos, e compreender essas diferenças evita deixar a máquina parada sem uso.",
-          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas — Clássica e NEO na primeira; Original e Vertuo na segunda — que também não se cruzam."
+          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
         "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto de diferentes sabores e linhas",
-        "imageCaption": "Variedade de sabores dentro do próprio ecossistema Dolce Gusto — de Kit Kat e Kopenhagen à linha NEO, exclusiva para café.",
+        "imageCaption": "Variedade de sabores dentro do próprio ecossistema Dolce Gusto: de Kit Kat e Kopenhagen à linha NEO, exclusiva para café.",
         "imageFit": "contain"
       },
       {
-        "heading": "Nossa opinião após usar Dolce Gusto e Nespresso",
+        "heading": "Nossa opinião: onde a Dolce Gusto ganha e onde a Nespresso se destaca",
         "paragraphs": [
-          "Comparar ficha técnica e preço é importante, mas a nossa escolha em casa também passa pela experiência de uso. Usamos tanto a Dolce Gusto NEO quanto a Genio S Touch e já utilizamos bastante a Nespresso Vertuo.",
-          "Hoje priorizamos as Dolce Gusto por uma decisão pessoal de custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar nossa preferência como se fosse uma conclusão neutra ou universal.",
-          "A experiência com a Vertuo é real e há um ponto em que a Nespresso se destaca: para quem busca uma experiência premium de café em cápsula, suas coleções limitadas e sazonais oferecem perfis que dificilmente encontramos de forma semelhante nos outros sistemas. Essa exclusividade, porém, também aparece no preço das cápsulas.",
-          "A Dolce Gusto segue por outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela faz parte do catálogo, Caramelo Salgado está entre os sabores de que mais gostamos e Moça® Pistachio Latte é uma aposta diferente da marca. Entre os três sistemas comparados, também é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
-          "Em resumo: consideramos a Vertuo mais interessante para explorar cafés especiais e edições de temporada; para a rotina da casa, o custo e a variedade da Dolce Gusto fazem mais sentido para nós."
+          "Comparar ficha técnica e preço é importante, mas a escolha também passa pelo uso. Em casa usamos as Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. A parte da Nespresso e da TRES deste comparativo vem das páginas e fichas oficiais, não de um teste nosso.",
+          "Priorizamos a Dolce Gusto por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como uma conclusão neutra ou universal.",
+          "A Nespresso se destaca em um ponto: para quem busca uma experiência premium de café em cápsula, as coleções limitadas e sazonais oferecem perfis que dificilmente aparecem nos outros sistemas. Essa exclusividade também aparece no preço das cápsulas.",
+          "A Dolce Gusto segue outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte fazem parte do catálogo, e entre os três sistemas ela é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
+          "Em resumo: a Nespresso é mais interessante para quem quer explorar cafés especiais e edições de temporada; para a rotina da casa, o custo e a variedade da Dolce Gusto fazem mais sentido para nós."
         ],
         "links": [
           {
@@ -43546,11 +43898,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo rápido: Dolce Gusto, Nespresso e TRES",
         "paragraphs": [
-          "Resumo técnico e de custo dos três sistemas, com preços reais coletados nos sites oficiais e na Amazon em agosto de 2026 (sujeitos a variação por promoção):"
+          "Resumo técnico e de custo dos três sistemas, com preços coletados nos sites oficiais e na Amazon em agosto de 2026 (sujeitos a variação por promoção):"
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Dolce Gusto x Nespresso x 3 Corações (TRES) — comparativo técnico e de custo",
+          "caption": "Dolce Gusto x Nespresso x 3 Corações (TRES): comparativo técnico e de custo, preços de agosto de 2026",
           "headers": [
             "Critério",
             "Dolce Gusto",
@@ -43628,7 +43980,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.",
-          "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ — marca que também pertence ao grupo Nestlé — produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
+          "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ (marca que também pertence ao grupo Nestlé), produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
           "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e ainda oferece menos blends puros que a Nespresso.",
           "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."
         ],
@@ -43654,13 +44006,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada xícara?",
         "paragraphs": [
-          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra enviada — uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
+          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são da amostra de agosto de 2026. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
         ],
         "bullets": [
           "Dolce Gusto clássica: média de ~R$ 2,64 por 100 ml nos 10 cafés avaliados, que vão de espresso a bebidas de 145 ml. Isolando os espressos da amostra, o custo fica em ~R$ 3,80–4,83 por 100 ml.",
           "Dolce Gusto NEO: média de ~R$ 3,53 por 100 ml nos seis cafés com volume identificado. Os espressos de 45 ml ficam em ~R$ 4,87–5,78; Caseiro e Americano reduzem a média por entregarem mais bebida.",
           "Nespresso Original: média de ~R$ 9,67 por 100 ml quando os 13 produtos disponíveis da amostra são preparados como espresso de 40 ml. A faixa observada foi de ~R$ 9,25 a R$ 10,50. A conta considera apenas cápsulas Nespresso; Farmers Origins e outras compatíveis ficam de fora para não misturar marcas.",
-          "Para economizar na Nespresso Original, Farmers Origins é uma alternativa particularmente coerente: vem da NESCAFÉ/Nestlé, oferece diferentes origens e entra no mesmo sistema de cápsula. A R$ 16,99 por 10, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml — aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
+          "Para economizar na Nespresso Original, Farmers Origins é uma alternativa particularmente coerente: vem da NESCAFÉ/Nestlé, oferece diferentes origens e entra no mesmo sistema de cápsula. A R$ 16,99 por 10 em agosto de 2026, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.",
           "Nespresso Vertuo: média de ~R$ 6,74 por 100 ml nos nove produtos com preço e volume informados. O espresso de 40 ml continua caro, em ~R$ 9,75–10; Gran Lungo e Coffee reduzem a média para ~R$ 3,47 e ~R$ 2,74 por 100 ml.",
           "3 Corações: média de ~R$ 3,08 por 100 ml nos nove produtos avaliados, misturando doses de 50, 80 e 100 ml. Nos espressos com preço completo, a faixa ficou em ~R$ 3,48–3,59 por 100 ml."
         ],
@@ -43670,23 +44022,10 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Guia decisório: qual cafeteira escolher para sua casa?",
-        "paragraphs": [
-          "Para acertar na escolha da cafeteira ideal:"
-        ],
-        "bullets": [
-          "Escolha Nespresso Original se: você bebe só café preto puro, quer a maior variedade de marcas compatíveis mais baratas do mercado e não se importa em usar espumador externo (Aeroccino) para bebidas com leite;",
-          "Escolha Nespresso Vertuo se: você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração — o custo por 100 ml só compensa de fato nos formatos grandes (Gran Lungo, Coffee, Carafe), não no Espresso de 40 ml;",
-          "Escolha Dolce Gusto (linha clássica) se: a máquina será compartilhada pela família toda — inclui chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos; o Mochaccino com Canela é hoje um dos sabores mais vendidos da casa;",
-          "Escolha Dolce Gusto NEO se: você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. O catálogo 100% café da NEO ainda é mais enxuto que o da Nespresso;",
-          "Escolha 3 Corações (TRES) se: café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro, e valoriza ter um único formato de cápsula compartilhado pelas máquinas da linha."
-        ]
-      },
-      {
         "heading": "Onde comprar cada cafeteira",
         "paragraphs": [
-          "Encontrou o sistema ideal para sua casa? Veja onde conferir preços e condições de cada marca.",
-          "Dolce Gusto é parceira do site pelo cupom CECI; os links de Nespresso e TRES são afiliados Amazon."
+          "Veja onde conferir preços e condições de cada marca.",
+          "Dolce Gusto é parceira do site pelo cupom CECI; os links de Nespresso e TRES são afiliados Amazon. Como associado da Amazon, ganhamos com compras qualificadas."
         ],
         "bullets": [],
         "links": [
@@ -43700,17 +44039,17 @@ export const reviewsData: unknown[] = [
             "sponsored": true
           },
           {
-            "label": "Nespresso Essenza Mini Branca 110V (Linha Original) — ver oferta",
+            "label": "Nespresso Essenza Mini Branca 110V (Linha Original): ver oferta",
             "href": "https://ln.ia.br/emC7Ir",
             "sponsored": true
           },
           {
-            "label": "Nespresso Vertuo Pop Azul Pacífico 110V — ver oferta",
+            "label": "Nespresso Vertuo Pop Azul Pacífico 110V: ver oferta",
             "href": "https://ln.ia.br/QCDjlF",
             "sponsored": true
           },
           {
-            "label": "3 Corações TRES Passione Preta 127V — ver oferta",
+            "label": "3 Corações TRES Passione Preta 127V: ver oferta",
             "href": "https://ln.ia.br/FKq00L",
             "sponsored": true
           },
@@ -43729,17 +44068,30 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual escolher: veredito por perfil e os números",
+        "paragraphs": [
+          "Os números abaixo são da amostra de agosto de 2026 e mudam com promoção e estoque. Veja qual perfil é o seu:"
+        ],
+        "bullets": [
+          "Nespresso Original, se você bebe só café preto, quer a maior variedade de compatíveis e aceita usar espumador externo (Aeroccino) para bebidas com leite. A cápsula oficial custou de R$ 3,70 a R$ 4,20; a Farmers Origins compatível, cerca de R$ 1,70.",
+          "Nespresso Vertuo, se você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração. O custo por 100 ml só compensa nos formatos grandes (Gran Lungo, Coffee, Carafe), perto de R$ 3,47 e R$ 2,74; no espresso de 40 ml fica em R$ 9,75 a R$ 10.",
+          "Dolce Gusto (linha clássica), se a máquina será compartilhada pela família toda: chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos. A cápsula custou de R$ 1,69 a R$ 2,10, e a média ficou em cerca de R$ 2,64 por 100 ml.",
+          "Dolce Gusto NEO, se você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. O catálogo 100% café da NEO ainda é mais enxuto que o da Nespresso, e a cápsula custou de R$ 2,19 a R$ 3,09.",
+          "3 Corações (TRES), se café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro e valoriza um único formato de cápsula na linha. A cápsula custou de R$ 1,64 a R$ 2,38, e a média ficou em cerca de R$ 3,08 por 100 ml."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes sobre cafeteiras de cápsula",
         "bullets": [
           "Qual é a melhor cafeteira de cápsulas? Não existe uma vencedora universal. A Dolce Gusto faz mais sentido para quem quer variedade de bebidas e custo cotidiano mais controlado; a Nespresso atende melhor quem prioriza cafés premium e edições sazonais; a TRES é forte para quem também toma café filtrado e quer um único formato de cápsula em toda a linha.",
           "Dá para usar cápsula Nespresso na Dolce Gusto? Não. Os formatos são incompatíveis e as marcas não homologam essa combinação. Existem adaptadores de terceiros, mas eles podem afetar a vedação ou o funcionamento; siga sempre o manual da cafeteira.",
           "A Nespresso faz cappuccino e chocolate quente? As cápsulas dos sistemas Original e Vertuo são de café. Para bebidas com leite, é necessário usar um espumador, como o Aeroccino, ou escolher uma máquina com sistema de leite integrado. Chocolate quente não faz parte do catálogo regular de cápsulas Nespresso.",
-          "Qual sistema tem a cápsula mais barata? Olhando só o preço por cápsula, a 3 Corações e a Dolce Gusto (linha clássica) ficam na faixa de R$ 1,64 a R$ 2,10, bem abaixo da Nespresso (R$ 3,70 a R$ 6,30, variando com o tamanho da xícara). Mas em custo por 100 ml a conta muda: os formatos grandes da Nespresso Vertuo (Gran Lungo, Coffee, Carafe) ficam entre os mais baratos de toda a comparação.",
+          "Qual sistema tem a cápsula mais barata? Olhando só o preço por cápsula na amostra de agosto de 2026, a 3 Corações e a Dolce Gusto (linha clássica) ficam na faixa de R$ 1,64 a R$ 2,10, bem abaixo da Nespresso (R$ 3,70 a R$ 6,30, variando com o tamanho da xícara). Mas em custo por 100 ml a conta muda: os formatos grandes da Nespresso Vertuo (Gran Lungo, Coffee, Carafe) ficam entre os mais baratos de toda a comparação.",
           "O que é o sistema multipressão da 3 Corações? É a capacidade da máquina alternar automaticamente entre 15 bar (alta pressão para espressos) e 2 bar (baixa pressão suave para café filtrado e chás).",
           "Qual a diferença entre Nespresso Original e Vertuo? A Original usa cápsulas clássicas de alumínio a 19 bar com compatíveis no mercado. A Vertuo usa cápsulas semiesféricas lidas por código de barras com rotação centrífuga, em formatos maiores e sem marcas compatíveis de terceiros.",
           "Nespresso Essenza Mini ou Vertuo Pop: qual escolher? A Essenza Mini pertence ao sistema Original e é a opção mais coerente para espresso e lungo, inclusive com cápsulas compatíveis. A Vertuo Pop pertence ao sistema Vertuo, prepara mais volumes de café e aceita somente cápsulas Vertuo. A escolha muda o ecossistema de cápsulas, não apenas o tamanho da máquina.",
           "NESCAFÉ Farmers Origins é cápsula Nespresso? Não é uma linha da Nespresso. É uma cápsula da NESCAFÉ, também do grupo Nestlé, compatível com máquinas Nespresso Original. Pode ser uma forma mais econômica de usar o sistema, mas não funciona em máquinas Vertuo.",
-          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, usamos o app para iniciar o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
+          "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, o app inicia o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
           "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto em compras a partir de R$ 100 no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
@@ -43754,7 +44106,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo contém links de afiliados. Se você usar o cupom CECI na Dolce Gusto ou comprar Nespresso e TRES pelos links da Amazon, podemos receber comissão, sem custo adicional para você. Como associado da Amazon, eu ganho com compras qualificadas.",
+    "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-maquinas-qual-escolher",
@@ -43802,7 +44154,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento — com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
+    "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
     "metaDescription": "Como escolher poltrona decorativa: entenda o ícone Eames, meça circulação, compare Aurora manual com puff e Levita elétrica e escolha o revestimento para sua rotina.",
     "publishedAt": "2 de setembro de 2026",
     "publishedAtISO": "2026-09-02",
@@ -43815,6 +44167,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Aurora serve a quem quer reclinação manual com puff separado, e a Levita a quem quer ajuste elétrico de encosto e apoio; a Eames Lounge é só referência de design, com inclinação fixa. O que decide é o uso, a tomada e o espaço da sala. Veja o capítulo Qual escolher: Aurora manual ou Levita elétrica."
+        ]
+      },
       {
         "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
         "paragraphs": [
@@ -43873,20 +44231,8 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Ver a ficha da Cadeira Eames Lounge na Herman Miller",
-            "href": "https://store.hermanmiller.com/features-buying-guides-eames-lounge-chair.html?lang=en_US"
-          },
-          {
             "label": "Consultar o registro dos Eames no acervo do MoMA",
             "href": "https://www.moma.org/collection/works/3325"
-          },
-          {
-            "label": "Ver o exemplar ES670 Preta/Walnut na Herman Miller Brasil",
-            "href": "https://store.hermanmiller.com.br/poltrona-charles-eames-es670_pretawalnut/p"
-          },
-          {
-            "label": "Ver o conjunto Lounge e otomana na Herman Miller Brasil",
-            "href": "https://store.hermanmiller.com.br/poltrona-eames-lounge-e-otomana/p"
           }
         ]
       },
@@ -43908,7 +44254,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. É uma proposta coerente para quem quer decidir a posição do apoio para os pés separadamente e prefere não depender de tomada no local escolhido.",
           "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Isso não elimina a necessidade de medir a sala; ao contrário, a área do puff deve entrar na planta desde o começo.",
-          "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita — mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
+          "Como ainda não tive a oportunidade de testar pessoalmente a Aurora, uso as informações de mecanismo e materiais da página oficial. Pela proposta e pela semelhança entre os modelos, minha expectativa é encontrar um acolhimento próximo ao que já conheço da Levita, mas essa impressão ainda precisa de um teste, especialmente porque os mecanismos são diferentes."
         ],
         "bullets": [],
         "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
@@ -43931,7 +44277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita: minha experiência com a poltrona em casa",
         "paragraphs": [
-          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e giro de até 280°.",
+          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória (360° na página oficial, até 280° na FAQ).",
           "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora remove a tomada da equação, mas usa uma alavanca e um puff deslocável. São características para comparar com a planta da casa e a rotina, não um ranking de conforto.",
           "A foto abaixo me mostra usando a Levita em casa."
         ],
@@ -43949,7 +44295,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Aurora manual ou Levita elétrica: qual cenário combina com você?",
+        "heading": "Qual escolher: Aurora manual ou Levita elétrica",
         "paragraphs": [
           "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto. A síntese abaixo ajuda a levar a comparação para a planta da sua casa.",
           "Se você gosta de deslocar o puff, quer um conjunto manual e não tem uma tomada conveniente, a Aurora merece entrar na lista curta. Se a possibilidade de encontrar combinações de encosto e apoio de pés é decisiva, e o ponto de energia já está previsto, a Levita é a alternativa a avaliar. Em ambos os casos, confira medidas, revestimento e condições vigentes diretamente com a marca antes da compra."
@@ -44034,7 +44380,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este guia contém links comissionados e parceria comercial com a DAMIE. O código CECILIA12 pode conceder 12% de desconto em itens elegíveis, sujeito às condições exibidas no checkout. Minha experiência própria mencionada no texto é com a Poltrona Levita; as informações sobre a Aurora foram conferidas na página oficial do produto.",
+    "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
     "relatedArticles": [
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
@@ -44109,8 +44455,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 279,
     "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-    "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep",
-    "seoTitle": "Qual Travesseiro Escolher? Guia das Linhas IWS [2026]",
+    "title": "Qual travesseiro escolher? Guia das linhas I Wanna Sleep por posição, material e altura",
+    "seoTitle": "Qual travesseiro escolher? Guia das linhas IWS",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44121,7 +44467,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Descubra qual o melhor travesseiro para o seu sono. Compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep e veja como escolher.",
+    "description": "Qual travesseiro escolher: compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição de dormir, material e altura.",
     "metaDescription": "Qual travesseiro escolher? Compare linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição, material e altura.",
     "publishedAt": "4 de setembro de 2026",
     "publishedAtISO": "2026-09-04",
@@ -44135,12 +44481,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Por que a escolha do travesseiro transforma o seu dia?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Passamos um terço da vida deitados sobre um travesseiro. Mesmo assim, a maioria das pessoas só se dá conta da importância desse acessório quando começa a acordar com torcicolo, dores de cabeça tensionais ou a sensação de noite mal dormida.",
+          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O capítulo Qual linha escolher liga cada perfil à linha certa."
+        ]
+      },
+      {
+        "heading": "As linhas de travesseiro da I Wanna Sleep",
+        "paragraphs": [
+          "A I Wanna Sleep (IWS) organiza o catálogo em famílias de produtos com diferentes formatos, materiais e alturas: Cervical/Ergonômica, Memory Foam, Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
           "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
-          "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única — e nem deveria ter. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
-          "A I Wanna Sleep (IWS) organiza seu catálogo em famílias de produtos com diferentes formatos, materiais e alturas — da linha Cervical/Ergonômica ao Memory Foam, passando por Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
+          "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
           "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
         ],
         "bullets": [],
@@ -44151,10 +44502,10 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.96
       },
       {
-        "heading": "Dor no Pescoço e Tensão Cervical: A Linha Ergonômica",
+        "heading": "A linha Cervical e Ergonômica: formato e apoio",
         "paragraphs": [
-          "O uso prolongado de telas e computadores pode contribuir para desconforto na nuca. Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra, mas não trata sozinho as causas de dor cervical.",
-          "Quem procura por travesseiro ortopédico ou travesseiro para dor no pescoço pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir, sem tratar o travesseiro como solução isolada para dor cervical."
+          "Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra. Quem tem dor persistente deve procurar um profissional de saúde.",
+          "Quem procura um travesseiro ortopédico pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir."
         ],
         "bullets": [
           "Cervical Coluna Relax®: modelo de destaque com formato côncavo central e curvas onduladas projetadas para apoiar a curvatura cervical de quem dorme de costas ou de lado;",
@@ -44172,23 +44523,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Coleção completa da linha Cervicais e Ergonômicos da I Wanna Sleep: Coluna Relax, Neck Plus Charcoal, Neck Plus Gel e Ergoblu",
         "imageCaption": "A linha Cervicais/Ergonômicos completa: Coluna Relax®, Neck Plus Charcoal™, Neck Plus Gel™ e Ergoblu™.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.14
+        "imageAspectRatio": 3.14,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+            "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
+            "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
-        "imageAlt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
-        "imageCaption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "A Linha Memory Foam: O que é o Travesseiro NASA?",
+        "heading": "A linha Memory Foam: o que é o travesseiro NASA?",
         "paragraphs": [
           "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
           "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
-          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto — a IWS tem quatro:"
+          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS tem quatro:"
         ],
         "bullets": [
-          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica — uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
+          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
           "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a ficha da fabricante, o formato pode reduzir pontos de pressão em até 60% e foi desenvolvido para quem sente calor durante a noite;",
           "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. A fabricante apresenta esses recursos como auxiliares no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
           "Skin®: linha Anti-rugas que usa tecnologia Airgelly® na capa para reduzir o atrito e distribuir a pressão do rosto. A fabricante apresenta esse efeito como auxílio para suavizar as marcas verticais de sono conhecidas como \"sleep lines\"."
@@ -44209,23 +44562,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Coleção completa da linha Memory Foam da I Wanna Sleep: Snow, Neck Plus Gel, Ergoblu e Bubble Gel",
         "imageCaption": "A linha Memory Foam completa: Snow®, Neck Plus Gel™, Ergoblu™ e Bubble Gel®.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.23
+        "imageAspectRatio": 3.23,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+            "alt": "Travesseiro Snow IWS com tecnologia de toque frio para dissipação térmica",
+            "caption": "Travesseiro Snow®: espuma de memória de alta densidade com sensação térmica refrescante.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-        "imageAlt": "Travesseiro Snow IWS com tecnologia de toque frio para dissipação térmica",
-        "imageCaption": "Travesseiro Snow®: espuma de memória de alta densidade com sensação térmica refrescante.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "Alergia e Rinite: A Linha Antialérgica",
+        "heading": "A linha Antialérgica: materiais e higiene",
         "paragraphs": [
-          "Espirro, coceira no nariz e congestão ao acordar podem ter diferentes causas; ácaros e poeira presentes nas roupas de cama estão entre os possíveis desencadeadores. Um travesseiro lavável e o uso de capas protetoras podem facilitar a higiene, mas não substituem avaliação e tratamento de alergias.",
-          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos."
+          "Um travesseiro lavável e o uso de capas protetoras facilitam a higiene da cama, mas não substituem a orientação de um profissional de saúde em caso de alergia.",
+          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos, segundo a ficha."
         ],
         "bullets": [
-          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, hipoalergênico e desenvolvido para combater ácaros e bactérias. A marca oferece 30 dias de teste em casa e direciona o modelo a quem convive com rinite ou outra alergia respiratória;",
-          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra alérgenos, ácaros e odores é uma alegação da ficha da fabricante."
+          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, com material hipoalergênico, segundo a ficha. A marca oferece 30 dias de teste em casa;",
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra odores é uma alegação da ficha da fabricante."
         ],
         "links": [
           {
@@ -44241,14 +44596,14 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
-            "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável e antiácaros",
+            "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável",
             "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS.",
             "objectFit": "square"
           }
         ]
       },
       {
-        "heading": "Para Quem Dorme de Lado: Regulagem de Altura",
+        "heading": "Para quem dorme de lado: regulagem de altura",
         "paragraphs": [
           "Para quem dorme de lado, a altura do travesseiro deve preencher o espaço entre o ombro e a lateral da cabeça, ajudando a manter o pescoço em posição neutra.",
           "Se o travesseiro for muito baixo, a cabeça pode tombar em direção ao colchão; se for alto demais, o pescoço pode ficar inclinado para cima e causar desconforto.",
@@ -44256,9 +44611,9 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King);",
-          "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas — P (11cm), M (13cm) e G (15cm) — a resposta mais direta para quem já sabe qual altura precisa;",
+          "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas, P (11cm), M (13cm) e G (15cm), a resposta mais direta para quem já sabe qual altura precisa;",
           "Outros modelos de perfil estruturado que também funcionam bem de lado: Cervical Coluna Relax® e Bubble Gel® (cuja cavidade central alivia a pressão na orelha);",
-          "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, ajuda a evitar que a perna cruze à frente e pode favorecer uma posição mais neutra para quadril e lombar."
+          "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, mantém as pernas alinhadas ao dormir de lado."
         ],
         "links": [
           {
@@ -44276,23 +44631,25 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Linha Regulagem de Altura da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
         "imageCaption": "A família Snow®, a mesma tecnologia de altura ajustável em quatro formatos: padrão, infantil, corpo e viagem.",
         "imageFit": "contain",
-        "imageAspectRatio": 3.13
+        "imageAspectRatio": 3.13,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+            "alt": "Detalhe do látex natural do Travesseiro Original Látex da I Wanna Sleep",
+            "caption": "Original Látex®: três alturas fixas (P, M e G), sem precisar ajustar.",
+            "objectFit": "square"
+          }
+        ]
       },
       {
-        "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
-        "imageAlt": "Detalhe do látex natural do Travesseiro Original Látex da I Wanna Sleep",
-        "imageCaption": "Original Látex®: três alturas fixas (P, M e G), sem precisar ajustar.",
-        "imageFit": "square"
-      },
-      {
-        "heading": "Látex, Fibra e Pluma Natural: Conforto Sem Memory Foam",
+        "heading": "Látex, fibra e pluma natural: alternativas ao memory foam",
         "paragraphs": [
-          "Nem todo mundo gosta da sensação de afundamento do viscoelástico — algumas pessoas sentem que a espuma de memória \"prende\" os movimentos quando querem se virar na cama. Para esse perfil, a IWS mantém três famílias mais tradicionais, cada uma com uma resposta diferente ao toque:"
+          "Nem todo mundo gosta da sensação de afundamento do viscoelástico: algumas pessoas sentem que a espuma de memória \"prende\" os movimentos quando querem se virar na cama. Para esse perfil, a IWS mantém três famílias mais tradicionais, cada uma com uma resposta diferente ao toque:"
         ],
         "bullets": [
-          "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros — sem o afundamento lento do memory foam;",
-          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura — a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
-          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses — vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
+          "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros, sem o afundamento lento do memory foam;",
+          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
+          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses: vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
         ],
         "links": [
           {
@@ -44334,12 +44691,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Fora de Casa e Formatos Especiais: Viagem e Corpo Inteiro",
+        "heading": "Viagem e corpo inteiro: formatos especiais",
         "paragraphs": [
           "Além dos modelos de cama, o catálogo da IWS cobre duas situações específicas: dormir fora de casa e dar suporte ao corpo inteiro, não só à cabeça."
         ],
         "bullets": [
-          "Travel Pillow U (Off Night e Flow Cinza): travesseiro de pescoço em formato de ferradura, desenvolvido para dar apoio à cabeça durante deslocamentos sentado em carros e aviões — diferente do travesseiro cervical de cama, usado deitado;",
+          "Travel Pillow U (Off Night e Flow Cinza): travesseiro de pescoço em formato de ferradura, desenvolvido para dar apoio à cabeça durante deslocamentos sentado em carros e aviões, diferente do travesseiro cervical de cama, usado deitado;",
           "Snow® Mini: a mesma tecnologia de toque frio do Snow®, em tamanho compacto para levar na mala;",
           "Snow® Body: travesseiro de corpo inteiro para abraçar na cama, apresentado pela fabricante como apoio para a lombar, a barriga e a perna de cima ao dormir de lado; gestantes devem considerar também a orientação do profissional que acompanha a gravidez."
         ],
@@ -44350,7 +44707,7 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.41
       },
       {
-        "heading": "Cuidados e Durabilidade: A Linha Capas e Protetores",
+        "heading": "Cuidados e durabilidade: capas e protetores",
         "paragraphs": [
           "A durabilidade de um travesseiro depende do material, da frequência de uso e dos cuidados com sujeira, suor e oleosidade no dia a dia."
         ],
@@ -44361,23 +44718,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Resumo Decisório: Qual Linha Escolher",
+        "heading": "Qual linha escolher",
         "paragraphs": [
           "Identifique a melhor escolha para a sua rotina:"
         ],
         "bullets": [
-          "Acorda com desconforto na nuca ou pescoço: considere a linha Cervical (Cervical Coluna Relax®) e procure avaliação profissional se a dor persistir;",
-          "Convive com alergia ou rinite: considere o Airgelly® 2.0 (100% lavável) ou o Neck Plus Charcoal™, sem substituir o tratamento indicado por profissional de saúde;",
+          "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
+          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (100% lavável); com alergia ou rinite, fale com um profissional de saúde;",
           "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
-          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (retire o enchimento até a altura ideal);",
-          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P, M ou G);",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega com 18 cm; retire o enchimento até a altura ideal);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P com 11 cm, M com 13 cm ou G com 15 cm);",
           "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
           "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
           "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
         ]
       },
       {
-        "heading": "Onde Comprar com Desconto e Cupom CECIEMCASA",
+        "heading": "Onde comprar e o cupom CECIEMCASA",
         "paragraphs": [
           "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
           "No carrinho da loja oficial, você pode aplicar o cupom CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
@@ -44414,7 +44771,7 @@ export const reviewsData: unknown[] = [
           "Travesseiro de viscoelástico ou látex: qual escolher? O viscoelástico molda-se ao contorno da cabeça e distribui a pressão nos pontos de contato. O látex oferece resposta mais elástica e firme, sem o afundamento lento característico do viscoelástico.",
           "Como medir a altura certa para quem dorme de lado? Use como referência o espaço entre o ombro e a lateral da cabeça: o objetivo é apoiar cabeça e pescoço sem inclinação acentuada. Conforto e necessidades individuais também devem ser considerados.",
           "O travesseiro Cervical Coluna Relax® serve para quem dorme de bruços? Dormir de bruços mantém o pescoço girado por parte da noite. Para essa posição, modelos mais baixos e planos tendem a produzir menos inclinação do que formatos com curvas cervicais altas; se houver dor persistente, procure orientação profissional.",
-          "Qual travesseiro da I Wanna Sleep é indicado para quem tem alergia? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo e desenvolvido para combater ácaros e bactérias. O Neck Plus Charcoal™ combina carvão ativado e contorno anatômico. Esses produtos podem facilitar a higiene, mas não substituem avaliação ou tratamento de alergias.",
+          "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
           "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
           "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
           "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
@@ -44429,7 +44786,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia reúne especificações de catálogo da I Wanna Sleep e orientações gerais para comparar materiais, formatos e alturas. Ele não substitui avaliação médica ou fisioterapêutica. O site Em Casa com Cecília mantém parceria comercial com a marca por meio do cupom CECIEMCASA.",
+    "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio.",
     "relatedArticles": [
       {
         "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
@@ -44520,8 +44877,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 280,
     "slug": "dolce-gusto-vs-nespresso-qual-escolher",
-    "title": "Dolce Gusto ou Nespresso: Qual Cafeteira de Cápsula Escolher em 2026?",
-    "seoTitle": "Dolce Gusto ou Nespresso: Qual Escolher? [Comparativo 2026]",
+    "title": "Dolce Gusto ou Nespresso: qual compensa pelo custo da cápsula e pelas bebidas",
+    "seoTitle": "Dolce Gusto ou Nespresso: cápsula, bebidas e custo",
     "type": "Comparativo",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44546,16 +44903,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida: Dolce Gusto ou Nespresso",
+        "paragraphs": [
+          "A Dolce Gusto é a melhor escolha para a casa que quer cappuccino, achocolatado e chá na mesma máquina. A Nespresso Original serve a quem quer só espresso e mais opções de cápsula no mercado. O custo por dose pesa na conta e está no capítulo \"A matemática da xícara\"."
+        ]
+      },
+      {
         "heading": "O confronto clássico: duas máquinas, dois propósitos completamente diferentes",
         "paragraphs": [
           "Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.",
-          "Embora ambas pertençam ao portfólio global da Nestlé, a verdade da bancada é categórica: você não está comparando aparelhos concorrentes com o mesmo objetivo, mas sim dois eletrodomésticos com propostas de rotina completamente distintas.",
+          "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.",
           "A verdadeira diferença entre Dolce Gusto e Nespresso começa no DNA de cada sistema: de um lado, uma estação doméstica multibebidas pensada para atender a família inteira; do outro, uma boutique de extração milimétrica dedicada quase que exclusivamente aos apreciadores de café puro."
-        ],
-        "bullets": [
-          "Resposta Rápida: Se você quer uma estação familiar para toda a casa (cappuccinos, achocolatados e chás com um toque de botão em cápsulas duplas), vá de Dolce Gusto.",
-          "Se o seu foco é o espresso puro, curto e encorpado com crema densa e economia com dezenas de marcas de cápsulas compatíveis no supermercado (L'OR, Pilão, Melitta), vá de Nespresso Original.",
-          "A Nespresso Vertuo usa cápsulas próprias da linha. Se a disponibilidade de cápsulas compatíveis de outras marcas for decisiva, a Nespresso Original oferece mais alternativas no varejo."
         ],
         "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
         "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
@@ -44569,13 +44927,13 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Nossa experiência: o que muda na prática em casa",
+        "heading": "Dolce Gusto em casa e Nespresso nas fichas oficiais",
         "paragraphs": [
-          "Comparar ficha técnica é importante, mas nossa opinião também vem do uso real — e aqui vale uma ressalva de transparência: em casa usamos a Dolce Gusto (linhas Clássica e NEO) e a Nespresso Vertuo, não a Nespresso Original que é o foco técnico deste comparativo. As diferenças entre Original e Vertuo estão explicadas na seção seguinte, mas a nossa vivência com o sistema Nespresso vem principalmente da Vertuo.",
-          "Testamos a Genio S Touch e a NEO da Dolce Gusto, e usamos bastante a Vertuo. Hoje priorizamos a Dolce Gusto no dia a dia por uma decisão pessoal de custo-benefício e conveniência — a parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como neutra.",
-          "A Vertuo se destaca em um ponto real: para quem busca uma experiência premium, as coleções sazonais e limitadas de café oferecem perfis que não encontramos de forma parecida na Dolce Gusto. Essa exclusividade também aparece no preço das cápsulas.",
-          "A Dolce Gusto ganha em variedade: Mochaccino Canela está no catálogo, Caramelo Salgado é um dos sabores de que mais gostamos, e Moça® Pistachio Latte é uma aposta diferente da marca. É também a única das duas com café NESCAFÉ Gold em Espresso e Lungo.",
-          "Resumindo: para explorar cafés especiais e edições de temporada, a Vertuo vale a pena. Para a rotina da casa, o custo e a variedade da Dolce Gusto fazem mais sentido pra gente — por isso o restante deste comparativo foca na Nespresso Original, que é o sistema que realmente compete cabeça a cabeça com a Dolce Gusto Clássica no dia a dia."
+          "Comparar ficha técnica é importante, mas a escolha também passa pelo uso. Em casa usamos a Dolce Gusto, como mostram os nossos textos sobre a Genio S Touch e a Mini Me 2.0. A parte da Nespresso deste comparativo vem das páginas e fichas oficiais da marca, não de um teste nosso.",
+          "A Dolce Gusto é a nossa preferência no dia a dia por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como neutra.",
+          "A Nespresso se destaca em um ponto: para quem busca uma experiência premium, as coleções sazonais e limitadas de café oferecem perfis que não aparecem de forma parecida na Dolce Gusto. Essa exclusividade também aparece no preço das cápsulas.",
+          "A Dolce Gusto ganha em variedade: Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte estão no catálogo, e ela é a única das duas com café NESCAFÉ Gold em Espresso e Lungo.",
+          "Por isso o restante deste comparativo foca na Nespresso Original, o sistema que compete de frente com a Dolce Gusto Clássica no dia a dia."
         ],
         "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
         "imageAlt": "Cecília Mauad operando cafeteira Dolce Gusto em sua bancada doméstica",
@@ -44641,10 +44999,6 @@ export const reviewsData: unknown[] = [
           {
             "label": "Máquinas da linha clássica na loja oficial Dolce Gusto",
             "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe"
-          },
-          {
-            "label": "Exemplo de cápsulas Bicafé compatíveis com Dolce Gusto no varejo",
-            "href": "https://www.mercadolivre.com.br/loja/cafe-bicafe"
           }
         ]
       },
@@ -44656,7 +45010,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Custo real por dose e por mês: Dolce Gusto vs. Nespresso Original",
+          "caption": "Custo por dose e por mês, em amostra de agosto de 2026: Dolce Gusto vs. Nespresso Original",
           "headers": [
             "Cenário",
             "Dolce Gusto",
@@ -44675,11 +45029,11 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Média simples da amostra por 100 ml",
-              "Clássica: aproximadamente R$ 2,64",
+              "Clássica: aproximadamente R$ 2,64 (inclui bebidas de até 145 ml, por isso fica abaixo do espresso)",
               "Original oficial: aproximadamente R$ 9,67"
             ],
             [
-              "Simulação mensal — 30 cápsulas",
+              "Simulação mensal com 30 cápsulas",
               "Clássica oficial: R$ 50,70 a R$ 63,00",
               "Original oficial: R$ 111,00 a R$ 126,00 · Farmers Origins: aproximadamente R$ 51,00"
             ],
@@ -44708,7 +45062,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "comparisonTable": {
-          "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (Linha Original / Essenza Mini)",
+          "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini). Preços da amostra de agosto de 2026.",
           "headers": [
             "Critério",
             "Dolce Gusto",
@@ -44764,19 +45118,12 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "No dia a dia da cozinha: guia decisório em 4 perfis",
+        "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
         "paragraphs": [
-          "A experiência prática do café da manhã revela detalhes que nenhuma ficha técnica mostra:",
-          "Espaço e visual: na largura, quase empatam: as Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
+          "A experiência prática do café da manhã mostra detalhes que a ficha técnica não mostra:",
+          "Espaço e visual: na largura, quase empatam. As Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
-          "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento.",
-          "Qual escolher para a sua rotina?"
-        ],
-        "bullets": [
-          "Perfil 1 — O Purista do Espresso Curto: Considere a Nespresso Original (Essenza Mini) pelo foco em Espresso e Lungo e pela ampla oferta de cápsulas compatíveis.",
-          "Perfil 2 — A Família Multibebidas e Fãs de Cappuccino: Vá de Dolce Gusto (Genio S Plus ou Touch com cupom CECI). Praticidade total para agradar a casa inteira.",
-          "Perfil 3 — O Caçador de Ofertas no Supermercado: Vá de Nespresso Original. Dezenas de torrefadoras nacionais disputam o espaço na gôndola com promoções agressivas.",
-          "Perfil 4 — O Fã de Canecão de Café Longo: A Dolce Gusto resolve de forma econômica com o recurso XL (300 ml). Se fizer questão de crema gourmet em volume alto, avalie a Vertuo (ciente do custo das cápsulas oficiais)."
+          "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."
         ],
         "video": {
           "mp4": "/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4",
@@ -44799,7 +45146,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e cupons ativos",
         "paragraphs": [
-          "Confira as opções oficiais e links de varejo com condições verificadas para a sua compra:"
+          "Confira as opções oficiais e links de varejo com condições verificadas para a sua compra. Como associado da Amazon, ganhamos com compras qualificadas."
         ],
         "bullets": [],
         "links": [
@@ -44841,6 +45188,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual escolher: os 4 perfis e os números",
+        "paragraphs": [
+          "O custo da cápsula pesa tanto quanto a máquina. Na amostra de agosto de 2026 (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
+        ],
+        "bullets": [
+          "Perfil 1, o purista do espresso curto: considere a Nespresso Original (Essenza Mini), pelo foco em Espresso (40 ml) e Lungo (110 ml). Conte com a cápsula oficial de R$ 3,70 a R$ 4,20 na amostra de agosto de 2026.",
+          "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra de agosto de 2026.",
+          "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra de agosto de 2026, aproxima o custo ao da Dolce Gusto.",
+          "Perfil 4, o fã de canecão de café longo: a Dolce Gusto resolve com o recurso XL (300 ml). Se você faz questão de crema em volume alto, avalie a Vertuo, ciente do custo das cápsulas oficiais."
+        ]
+      },
+      {
         "heading": "Perguntas frequentes sobre Dolce Gusto e Nespresso",
         "bullets": [
           "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
@@ -44858,7 +45217,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo contém links de afiliados. Se você usar o cupom CECI na Dolce Gusto ou comprar cafeteiras Nespresso pelos links da Amazon, podemos receber comissão editorial, sem custo adicional para você. Como associado da Amazon, eu ganho com compras qualificadas.",
+    "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
@@ -44914,7 +45273,7 @@ export const reviewsData: unknown[] = [
     "id": 281,
     "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
     "title": "Qual Cobertor Escolher? As opções da I Wanna Sleep",
-    "seoTitle": "Qual Cobertor Escolher? Guia das Linhas IWS [2026]",
+    "seoTitle": "Qual Cobertor Escolher? Igloo, Huggy, Puffer ou Cozy",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44925,7 +45284,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia completo dos cobertores I Wanna Sleep. Compare as linhas Igloo (dual face), Huggy (sherpa fleece), Puffer Ultralight e Cozy (marshmallow) e descubra o ideal.",
+    "description": "Compare as linhas de cobertor da I Wanna Sleep: Igloo (dual face), Huggy (sherpa fleece), Puffer Ultralight e Cozy (marshmallow), e veja qual combina com o seu clima e com quem divide a cama.",
     "metaDescription": "Qual cobertor escolher? Compare as linhas Igloo, Huggy, Puffer Ultralight e Cozy da I Wanna Sleep por sensação térmica, tecidos, peso e rotina da casa.",
     "publishedAt": "7 de setembro de 2026",
     "publishedAtISO": "2026-09-07",
@@ -44939,24 +45298,22 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Como escolher o cobertor ideal para o seu clima e rotina",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Passamos cerca de um terço da vida debaixo das cobertas. Mesmo assim, a maioria das pessoas só percebe que escolheu a roupa de cama errada quando acorda no meio da madrugada transpirando, quando se debate para mudar de posição sob uma manta que pesa uma tonelada ou quando acorda com as vias aéreas congestionadas por poeira acumulada em tecidos antigos.",
-          "A sleeptech brasileira I Wanna Sleep (IWS) estruturou sua coleção de cobertores para responder a desafios biomecânicos e térmicos específicos. Em vez de vender apenas cobertor de casal ou manta de solteiro genérica, a marca desenvolveu quatro propostas de engenharia têxtil completamente distintas: Igloo, Huggy, Puffer Ultralight e Cozy.",
-          "Abaixo, analisamos como cada tecnologia funciona na vida real da sua cama para você acertar na compra sem errar o clima."
-        ],
-        "bullets": [
-          "Se você e seu parceiro vivem em conflito térmico (um com calor, outro com frio): vá de Igloo™, com tecnologia dual-face (lado frio Ice-Feel de um lado, lado aconchegante Warm-Feel do outro);",
-          "Se você enfrenta inverno rigoroso e ama a textura de pele de carneiro / sherpa: vá de Huggy®, que une o isolamento térmico do fleece com sheepskin sintético 100% cruelty-free e antialérgico;",
-          "Se você odeia coberta pesada nos pés e quer portabilidade para o sofá ou viagens: vá de Puffer Ultralight™, com fibras ocas AirFiber™ que aquecem sem peso e dobra virando almofada/travesseiro;",
-          "Se você quer a textura fofinha e aveludada do famoso \"cobertor marshmallow\": vá de Cozy™, com microrrelevos sensoriais 3D Dots™ e enchimento Long Fiber que mantém o volume de cama posta sem empelotar."
+          "Escolha o Igloo se quem divide a cama sente temperaturas diferentes, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e quem dorme com você; o veredito está em Qual escolher: o cobertor certo para cada perfil."
         ]
       },
       {
-        "heading": "O fim da 'guerra do cobertor': tecnologia dual-face térmica (Linha Igloo)",
+        "heading": "As quatro linhas de cobertor da I Wanna Sleep",
+        "paragraphs": [
+          "A I Wanna Sleep (IWS) tem quatro linhas de cobertor, cada uma pensada para um problema: Igloo, Huggy, Puffer Ultralight e Cozy. Abaixo, o que a marca informa de cada uma, uma tabela comparativa e o veredito por perfil."
+        ]
+      },
+      {
+        "heading": "Igloo: um lado frio, um lado quente",
         "paragraphs": [
           "Se você divide a cama com alguém, é quase certo que já vivenciou a clássica guerra do cobertor: de um lado do colchão, alguém deita reclamando que o quarto está abafado, liga o ventilador ou joga a coberta para fora; do outro lado, a outra pessoa se encolhe batendo o queixo, puxa o edredom até o pescoço e reclama de qualquer fresta de vento.",
-          "Esse desencontro de termostatos corporais é um dos motivos mais comuns de noites mal dormidas a dois. O corpo humano precisa diminuir ligeiramente sua temperatura interna para entrar no sono profundo, mas o ritmo dessa desaceleração varia de pessoa para pessoa. Quando o casal tenta resolver isso com um edredom tradicional único, o resultado quase sempre é o mesmo: um acorda no meio da madrugada encharcado de suor, enquanto o outro acorda com frio pelas pontas descobertas.",
+          "Esse desencontro de termostatos é comum entre casais. Com um edredom único, um acorda com calor e o outro com frio nas pontas descobertas.",
           "Foi para pacificar essa disputa na cama que a I Wanna Sleep projetou a Linha Igloo, introduzindo no mercado brasileiro o conceito de cobertor dupla face com gerenciamento térmico inteligente.",
           "A proposta do Cobertor IWS Igloo utiliza engenharia têxtil aplicada à termorregulação. Em vez de utilizar o mesmo tecido em toda a peça, ele integra dois lados com condutividades térmicas opostas:"
         ],
@@ -44984,22 +45341,22 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Inverno rigoroso e toque sheepskin: o abraço térmico do fleece (Linha Huggy)",
+        "heading": "Huggy: fleece com sherpa sintética para o inverno",
         "paragraphs": [
-          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma resultar em desconforto nas articulações, sensação de sufocamento e pés que continuam frios por horas.",
+          "Quem já acordou às três da madrugada com as pontas dos pés geladas sabe que o frio de inverno não perdoa escolhas erradas de roupa de cama. Quando a temperatura ambiente desce para a casa dos 10°C ou menos, muitas casas brasileiras enfrentam um desafio térmico silencioso: a falta de isolamento térmico nas alvenarias faz o quarto esfriar rapidamente, e jogar três ou quatro cobertores pesados sobre o corpo costuma dar peso demais e pés que continuam frios.",
           "É exatamente para responder a esse cenário de inverno rigoroso que a I Wanna Sleep projetou a Linha Huggy. Inspirado na palavra em inglês hug (abraço), o conceito desse modelo é envolver o corpo em um aconchego térmico contínuo e acolhedor, eliminando de vez aquela sensação desagradável de entrar em uma cama congelante.",
           "O segredo do aquecimento eficiente não está no peso da coberta, mas na sua capacidade de reter o calor irradiado pelo corpo através da tecnologia Dual Touch:"
         ],
         "bullets": [
           "Lado Fleece (isolante térmico ativo): microfibras sintéticas de alta densidade tecidas para criar milhares de microbolsas de ar microscópicas que aprisionam o ar aquecido pelo próprio corpo, bloqueando o ar frio externo;",
           "Lado Sheepskin sintético (efeito sherpa clássico): acabamento que reproduz com perfeição a textura aveludada, encaracolada e macia da pele de carneiro, quebrando a barreira gélida da cama no primeiro segundo de contato;",
-          "100% Cruelty-Free e Hipoalergênico: desenvolvido integralmente em microfibra de poliéster virgem, o Huggy não solta penugens que possam ser inaladas e não serve de alimento para ácaros ou fungos, sendo um verdadeiro cobertor antialérgico para quem tem rinite ou bronquite;",
+          "100% sintético e cruelty-free: feito em microfibra de poliéster, sem material de origem animal, segundo a marca;",
           "Versatilidade Cama e Sofá: excelente caimento maleável tanto como cobertor principal na cama quanto como cobertor manta casal de generosas dimensões para sessões de cinema no sofá da sala;",
           "Medidas: Casal/Queen (2,20m x 2,40m) e King/Super King (2,40m x 2,60m)."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy com capuz sherpa",
-        "imageCaption": "Linha Huggy: isolamento térmico avançado em fleece com toque acolhedor de sherpa antialérgica.",
+        "imageCaption": "Linha Huggy: fleece com toque acolhedor de sherpa sintética.",
         "imageFit": "square",
         "links": [
           {
@@ -45010,7 +45367,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Aquecimento sem sufoco e versatilidade móvel: a engenharia puffer (Linha Puffer Ultralight)",
+        "heading": "Puffer Ultralight: aquecimento leve que vira almofada",
         "paragraphs": [
           "Muitas pessoas sofrem com o chamado 'peso opressivo' das roupas de cama convencionais: os pés ficam travados apontando para baixo, mudar de posição na cama exige esforço físico e surge uma sensação quase claustrofóbica de sufocamento térmico. O cobertor até aquece, mas cobra um pedágio pesado no descanso.",
           "Para romper com o paradigma de que cobertor bom precisa pesar uma tonelada, a I Wanna Sleep foi buscar inspiração no vestuário técnico de montanhismo para conceber a Linha Puffer Ultralight. Em vez de aquecer pela sobreposição maciça de camadas, o modelo utiliza o princípio termodinâmico do ar aprisionado.",
@@ -45018,11 +45375,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Costura em gomos térmicos compartimentados: o desenho geométrico em gomos evita o deslocamento interno do enchimento, garantindo aquecimento homogêneo dos ombros até a ponta dos pés sem criação de zonas frias;",
-          "O cobertor que vira almofada: quando fechado no compartimento integrado com zíper, transforma-se em uma almofada firme e ergonômica para apoio lombar no sofá ou leitura na poltrona;",
+          "O cobertor que vira almofada: quando fechado no compartimento integrado com zíper, transforma-se em uma almofada que serve de apoio às costas no sofá ou leitura na poltrona;",
           "O cobertor que vira travesseiro de viagem: compacto e leve, substitui travesseiro e manta na bagagem de mão, ideal para viagens de carro, avião ou finais de semana fora de casa;",
           "Lavagem e secagem ultrarrápida: cabe perfeitamente em máquinas de lavar residenciais comuns (a partir de 9kg) e seca na metade do tempo de um edredom tradicional por não encharcar internamente;",
           "Versão solteiro e casal: excelente opção como cobertor solteiro individual para o dia a dia no quarto ou no home office.",
-          "Disponibilidade: no site oficial, a versão Casal/Queen costuma esgotar primeiro por causa da procura — vale conferir o estoque da King/Super King como alternativa se a sua não estiver disponível no momento."
+          "Disponibilidade: no site oficial, a versão Casal/Queen costuma esgotar primeiro por causa da procura; vale conferir o estoque da King/Super King como alternativa se a sua não estiver disponível no momento."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Puffer Ultralight",
@@ -45037,15 +45394,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O fenômeno do 'cobertor marshmallow': textura 3D Dots e volume acolhedor (Linha Cozy)",
+        "heading": "Cozy: o cobertor marshmallow com textura 3D Dots",
         "paragraphs": [
           "Se você pesquisou recentemente por roupas de cama na internet, certamente notou uma expressão que virou febre no Brasil: o 'cobertor marshmallow' (com alta expressiva de buscas no Google Trends). Mas o que os consumidores realmente procuram por trás dessa expressão?",
           "A busca é por um cobertor fofinho, encorpado, com toque aerado e volume visual de revista, que transmita a sensação reconfortante de afundar em uma nuvem ao deitar. Para atender a esse anseio de conforto tátil supremo, a I Wanna Sleep desenvolveu a Linha Cozy.",
           "O Cozy une o acabamento aveludado de alto padrão a duas tecnologias proprietárias desenhadas para relaxamento sensorial e durabilidade estrutural:"
         ],
         "bullets": [
-          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. O contato suave dos relevos com a pele exerce um estímulo tátil calmante que reduz a inquietação motora e induz o relaxamento após um dia estressante;",
-          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas de forma contínua que não se rompem nem empelotam nas lavagens, mantendo o volume fofo e a distribuição homogênea de calor por anos;",
+          "Textura Tridimensional 3D Dots™: superfície com microrrelevos em formato de pequenos pontos acolchoados em três dimensões. É o que dá o toque marshmallow da linha;",
+          "Enchimento Estruturado Long Fiber IWS™: fibras longas e entrelaçadas que, segundo a marca, não se rompem nem empelotam nas lavagens e mantêm o volume fofo;",
           "Elegância na cama posta: substitui edredons pesados com caimento drapeado impecável, disponível em Solteiro/Solteirão, Casal/Queen (2,20m x 2,40m) e King (2,40m x 2,60m) para colchões extralargos."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp",
@@ -45063,7 +45420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela comparativa da I Wanna Sleep",
         "paragraphs": [
-          "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo completo com base nas especificações técnicas e na experiência de uso de cada peça:"
+          "Para sintetizar as diferenças fundamentais entre os quatro modelos e apoiar a sua decisão de compra, organizamos o comparativo com base nas especificações do catálogo da marca:"
         ],
         "bullets": [],
         "comparisonTable": {
@@ -45105,11 +45462,11 @@ export const reviewsData: unknown[] = [
               "Encorpado, aerado, volumoso e aveludado"
             ],
             [
-              "Segurança Alérgica",
-              "Hipoalergênico e respirável (evita acúmulo de umidade)",
-              "100% sintético, cruelty-free e antialérgico (não solta pelos)",
-              "Fibras sintéticas limpas, lavagem e secagem rápidas",
-              "Fibras longas hipoalergênicas que não soltam fiapos"
+              "Material",
+              "Respirável, com trama Air-Flow System™, segundo a marca",
+              "100% sintético e cruelty-free, segundo a marca",
+              "Fibras sintéticas, com lavagem e secagem rápidas",
+              "Fibras longas que não soltam fiapos, segundo a marca"
             ],
             [
               "Portabilidade / Uso",
@@ -45122,7 +45479,7 @@ export const reviewsData: unknown[] = [
               "Tamanhos Oficiais",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
               "Casal/Queen (2,20x2,40m) e King (2,40x2,60m)",
-              "Solteiro/Manta e Casal/Queen",
+              "Solteiro/Manta, Casal/Queen e King/Super King",
               "Solteiro/Solteirão, Casal/Queen (2,20x2,40m) e King (2,40x2,60m)"
             ],
             [
@@ -45130,21 +45487,36 @@ export const reviewsData: unknown[] = [
               "Casais com termostatos opostos e quartos com ar-condicionado",
               "Noites de frio intenso e quem ama textura sherpa",
               "Quem odeia peso nas pernas, viaja ou lê no sofá",
-              "Quem busca descompressão tátil e cama fofa de hotel"
+              "Quem busca toque macio e cama fofa de hotel"
             ]
           ]
         }
       },
       {
-        "heading": "Guia de decisão por perfil: qual cobertor combina com você?",
+        "heading": "Cuidados de lavagem e manutenção na vida real",
         "paragraphs": [
-          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece:"
+          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por mais tempo, alguns cuidados na lavanderia doméstica ajudam:"
         ],
         "bullets": [
-          "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta;",
-          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, com a tranquilidade de ser 100% cruelty-free e antialérgica para quem tem rinite;",
-          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam aquecimento limpo e peso quase nulo;",
-          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots proporciona um estímulo calmante único na pele, enquanto o miolo Long Fiber mantém o volume de nuvem por muito tempo."
+          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
+          "Atenção à capacidade da lavadora: os modelos Casal/Queen e King das linhas Huggy e Cozy exigem máquinas de lavar com capacidade a partir de 11kg a 13kg para que a peça tenha espaço para girar livremente sem atrito no tambor. O Puffer Ultralight, por sua compactação, acomoda-se perfeitamente em lavadoras residenciais de 9kg a 10kg;",
+          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
+        ],
+        "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
+        "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
+        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Qual escolher: o cobertor certo para cada perfil",
+        "paragraphs": [
+          "A escolha do cobertor ideal deve refletir o termostato corporal de quem dorme e a dinâmica do seu quarto. Veja em qual perfil você mais se reconhece; os preços de cada linha estão em Quanto custa cada linha, com o cupom CECIEMCASA aplicado:"
+        ],
+        "bullets": [
+          "Perfil 1: O Casal em Conflito Térmico e Quartos com Ar-Condicionado -> Vá de Igloo™. Se um sente calor e o outro sente frio, a tecnologia dual-face resolve o dilema em uma só peça: lado Ice-Feel de frescor ativo para baixo ou lado Warm-Feel quentinho, com um simples virar de coberta. A marca informa uma sensação térmica 2 a 3°C menor no lado Ice-Feel;",
+          "Perfil 2: O Amante do Inverno Rigoroso e Textura Sherpa -> Vá de Huggy®. Para noites congelantes em que os pés demoram a aquecer, a dobradinha de fleece isolante com sherpa sintética quebra a friagem na hora, em um tecido 100% sintético e cruelty-free;",
+          "Perfil 3: O Inimigo do Peso Opressivo e Amante da Portabilidade -> Vá de Puffer Ultralight™. Se você detesta sentir as pernas presas por mantas pesadas, viaja bastante ou gosta de ter uma coberta versátil que vira almofada no sofá e travesseiro no carro, as fibras ocas AirFiber entregam aquecimento com peso quase nulo, e a peça cabe em lavadora de 9 kg;",
+          "Perfil 4: O Fã do Toque Marshmallow e Cama de Revista -> Vá de Cozy™. Se a sua prioridade é o relaxamento sensorial e uma cama posta volumosa e sofisticada, o relevo 3D Dots dá o toque marshmallow, e o miolo Long Fiber mantém o volume, segundo a marca."
         ],
         "image": "/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp",
         "imageAlt": "Cobertor I Wanna Sleep texturizado sobre poltrona em ambiente aconchegante",
@@ -45164,7 +45536,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são os preços promocionais vigentes no site oficial da I Wanna Sleep; sempre confira o valor atual no carrinho, já que promoções mudam com frequência. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional — vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores abaixo são os preços promocionais vigentes no site oficial da I Wanna Sleep; sempre confira o valor atual no carrinho, já que promoções mudam com frequência. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional; vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -45218,25 +45590,10 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Cuidados de lavagem e manutenção na vida real",
-        "paragraphs": [
-          "Para preservar as propriedades térmicas e táteis dos seus cobertores IWS por muitos anos, alguns cuidados práticos na lavanderia doméstica fazem toda a diferença:"
-        ],
-        "bullets": [
-          "Ciclo delicado e sabão neutro: utilize sempre água fria ou em temperatura ambiente com sabão líquido neutro. Evite alvejantes clorados ou amaciantes em excesso, que podem impermeabilizar as fibras e prejudicar a respirabilidade do Air-Flow e do Ice-Feel;",
-          "Atenção à capacidade da lavadora: os modelos Casal/Queen e King das linhas Huggy e Cozy exigem máquinas de lavar com capacidade a partir de 11kg a 13kg para que a peça tenha espaço para girar livremente sem atrito no tambor. O Puffer Ultralight, por sua compactação, acomoda-se perfeitamente em lavadoras residenciais de 9kg a 10kg;",
-          "Secagem natural à sombra: estenda a peça à sombra em local ventilado. Nunca passe ferro elétrico sobre as superfícies sintéticas (especialmente o lado Ice-Feel, a sherpa ou os 3D Dots), pois o calor concentrado funde as microfibras e elimina o efeito tátil original."
-        ],
-        "image": "/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp",
-        "imageAlt": "Cobertor I Wanna Sleep dobrado com bolsa de transporte e cartão de cuidados oficial",
-        "imageCaption": "Cuidados corretos de lavagem garantem longevidade às propriedades térmicas e táteis das peças.",
-        "imageFit": "square"
-      },
-      {
         "heading": "Perguntas frequentes sobre cobertores IWS",
         "bullets": [
           "O cobertor Igloo realmente fica gelado? Sim. A face com tecnologia Ice-Feel Fiber System™ dissipa o calor por contato direto, reduzindo a sensação térmica da pele em 2 a 3°C em comparação ao ambiente, segundo medição da marca com termômetro infravermelho. Para noites frias, basta virar a peça e utilizar o lado Warm-Feel.",
-          "O cobertor Huggy solta pelos ou provoca alergia? Não. Ao contrário dos cobertores tradicionais de pele ou lã de carneiro animal, o acabamento sheepskin do Huggy é 100% sintético e cruelty-free. Suas microfibras não se desprendem no ar, tornando-o antialérgico e seguro para quem tem rinite.",
+          "O cobertor Huggy é de pele ou lã de carneiro? Não. O acabamento sheepskin do Huggy é 100% sintético e cruelty-free, segundo a marca. Se você tem rinite ou alergia, converse com seu médico antes de escolher o tecido.",
           "Como o cobertor Puffer Ultralight vira almofada ou travesseiro? A peça possui um compartimento integrado com zíper discreto. O enchimento de microfibras ocas AirFiber™ é altamente compressível, permitindo dobrar o cobertor para dentro do próprio bolso em menos de trinta segundos para servir de almofada lombar ou travesseiro de viagem.",
           "Qual o tamanho de cobertor ideal para camas Queen e King? Para camas Casal e Queen, o tamanho padrão da IWS é 2,20m x 2,40m, garantindo cobertura farta nas laterais. Para colchões King e Super King (acima de 1,86m de largura), a medida indicada é 2,40m x 2,60m, evitando que os pés fiquem descobertos quando alguém se vira.",
           "Como aplicar o cupom CECIEMCASA e como funciona o teste de 30 dias? Basta inserir o código CECIEMCASA no carrinho do e-commerce oficial da I Wanna Sleep para obter 10% de desconto. As compras feitas no site oficial contam com a política de 30 dias de teste na cama da marca."
@@ -45251,7 +45608,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este guia reúne especificações de catálogo da I Wanna Sleep e análises editoriais de uso prático. O site Em Casa com Cecília mantém parceria comercial com a marca por meio do cupom CECIEMCASA (10% OFF permanente). Condições comerciais e políticas de teste de 30 dias devem ser confirmadas no site oficial.",
+    "editorialNote": "Baseado no catálogo da marca, sem teste das 4 linhas. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
@@ -45284,7 +45641,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp",
         "alt": "Foto oficial da I Wanna Sleep de pessoa usando o Cobertor IWS Huggy",
-        "caption": "Linha Huggy: isolamento térmico de fleece com acabamento sherpa 100% cruelty-free e antialérgico."
+        "caption": "Linha Huggy: isolamento térmico de fleece com acabamento sherpa sintético e cruelty-free."
       },
       {
         "image": "/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp",
@@ -45336,21 +45693,27 @@ export const reviewsData: unknown[] = [
       "Adesivo de hidrogel geladinho, com superfície texturizada que ajuda a não escorregar",
       "Creme com textura de pomada que espalha fácil e deixa um toque aveludado",
       "Máscara labial com espátula e cheirinho de doce que, para mim, não enjoou",
-      "Produtos coreanos originais vendidos pela própria YesStyle, com o CECILIA010 somando desconto no campo Reward Code"
+      "Produtos coreanos vendidos pela própria YesStyle, que declara a originalidade, com o CECILIA010 somando desconto no campo Reward Code"
     ],
     "cons": [
       "PDRN e retinal agem devagar: não espere diferença visível na primeira semana",
-      "O retinal pede protetor solar de dia — quem, como eu, nunca usou vai ter que começar",
+      "O retinal pede protetor solar de dia: quem, como eu, nunca usou vai ter que começar",
       "Na primeira vez, fiquei na dúvida sobre o lado certo do adesivo",
       "Compra internacional: o prazo de entrega é maior que o de uma loja nacional"
     ],
     "contentSections": [
       {
-        "heading": "Trinta: a idade do sucesso e a idade de pagar o pedágio da beleza",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Gostei da rotina de iniciante com a Abib: o adesivo de hidrogel é geladinho, o creme PDRN deixa toque de veludo e a máscara labial tem cheirinho de doce que não enjoa. É o primeiro uso, então resultado na pele não dá para prometer. Veja a compra no capítulo Onde comprar e como economizar com o CECILIA010."
+        ]
+      },
+      {
+        "heading": "Aos 30, minha primeira rotina de skincare coreano",
         "paragraphs": [
           "Até aqui a gente foi bonita de graça. Eu, que nunca usei nem protetor solar, completei 30 anos e resolvi encarar a coisa com seriedade: montei minha primeira rotina de skincare coreano.",
-          "Recebi três produtos da Abib enviados pela YesStyle, uma loja on-line que vende cosméticos importados. E é coreano da Coreia mesmo, viu? Não é “tipo coreano”, não é “sabor coreano”.",
-          "Este artigo é o meu primeiro contato com os três, registrado no vídeo deste artigo: como é colocar, a textura, o cheiro e o que eu senti ao tirar o adesivo. Resultado de pele não dá para prometer no primeiro dia — vou usar nas próximas semanas e volto aqui para contar o que mudou."
+          "Recebi três produtos da Abib enviados pela YesStyle, uma loja on-line que vende cosméticos importados. São marcas coreanas, e a originalidade é declarada pela própria loja.",
+          "Este artigo é o meu primeiro contato com os três, registrado no vídeo deste artigo: como é colocar, a textura, o cheiro e o que eu senti ao tirar o adesivo. Resultado de pele não dá para prometer no primeiro dia. Vou usar nas próximas semanas e volto aqui para contar o que mudou."
         ]
       },
       {
@@ -45396,9 +45759,9 @@ export const reviewsData: unknown[] = [
         "heading": "Adesivo de hidrogel para os olhos: geladinho (e eu coloquei ao contrário)",
         "paragraphs": [
           "O primeiro contato é o melhor: o adesivo é geladinho. Ele vem num pote com 60 unidades, e a marca diz que a superfície texturizada ajuda a não escorregar.",
-          "Confesso que coloquei o primeiro errado. Virei, desvirei, tentei do outro jeito e achei que assim ficou melhor — mas, sinceramente, não senti diferença entre os lados. Se você também nunca usou, não se preocupe: o importante é ele ficar bem assentado embaixo dos olhos, sem encostar no olho.",
+          "Confesso que coloquei o primeiro errado. Virei, desvirei, tentei do outro jeito e achei que assim ficou melhor, mas, sinceramente, não senti diferença entre os lados. Se você também nunca usou, não se preocupe: o importante é ele ficar bem assentado embaixo dos olhos, sem encostar no olho.",
           "Com o tempo, o adesivo vai ficando mais fino, como se estivesse sumindo. Não quer dizer que a pele absorveu o hidrogel inteiro; é o gel entregando o que tem dentro enquanto fica ali, fechadinho, sem evaporar.",
-          "A embalagem manda tirar depois de 10 a 15 minutos. No vídeo eu deixei uns 20, porque estava fazendo o resto da rotina — siga o rótulo. E não é para dormir com ele."
+          "A embalagem manda tirar depois de 10 a 15 minutos. No vídeo eu deixei uns 20, porque estava fazendo o resto da rotina. Siga o rótulo. E não é para dormir com ele."
         ],
         "bullets": [
           "Ao tirar: a pele ficou sequinha, e dava para ver direitinho o formato de onde o adesivo estava;",
@@ -45422,7 +45785,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Enquanto o adesivo agia, passei o creme. Ele sai da bisnaga com textura de pomada: você passa e sente ele escorregar pela pele.",
           "Aí acontece a parte que eu mais gostei: depois de espalhar, a pele fica com um toque aveludado, como se virasse veludo na hora. E espalha muito bem.",
-          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. É um creme pensado para firmeza e linhas finas — ou seja, um trabalho de longo prazo."
+          "Na fórmula, a Abib destaca PDRN e Volufiline (ingrediente usado para dar sensação de preenchimento), além de retinal, peptídeos, niacinamida e cafeína. A Abib indica o creme para firmeza e linhas finas, ou seja, um trabalho de longo prazo."
         ],
         "bullets": [
           "Onde passar: rosto e pescoço, com batidinhas leves para ajudar a absorção, como indica a marca;"
@@ -45442,7 +45805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lip Mask Glazed Jelly: cheirinho de doce que não enjoa",
         "paragraphs": [
-          "Por último, a máscara labial. Ela vem com uma espatulazinha, e a textura é de gel — parecida com a do adesivo dos olhos.",
+          "Por último, a máscara labial. Ela vem com uma espatulazinha, e a textura é de gel, parecida com a do adesivo dos olhos.",
           "Ela tem cheirinho de doce, mas não é enjoativo. Quem me acompanha sabe que eu tenho problema com cheiro forte, e esse não me incomodou.",
           "A marca indica usar uma camada fina durante o dia, para brilho e hidratação, ou uma camada generosa antes de dormir, como máscara noturna."
         ],
@@ -45462,8 +45825,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN e retinal sem mistério: por que o efeito é levinho",
         "paragraphs": [
           "A grande questão do skincare coreano é que os produtos são pensados para uso a longo prazo. Minha filha, você fez 30 agora: esse é só o começo. Pelo resto da vida vai ter que ter uma rotina de cuidados com a pele.",
-          "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual — por isso eu não vou sair descamando só porque comecei a usar.",
-          "O PDRN é um ingrediente feito de fragmentos de DNA, que virou febre nos cosméticos coreanos ligados a regeneração e firmeza. Na máscara labial, a Abib informa que o PDRN vem da centella asiática e do ginkgo biloba."
+          "No vídeo eu falei em ácido retinoico, mas o nome certo do ingrediente do adesivo e do creme é retinal (ou retinaldeído). Ele é um derivado da vitamina A, da mesma família do retinol, e a pele o transforma em ácido retinoico. É uma ação mais gradual, por isso eu não vou sair descamando só porque comecei a usar.",
+          "O PDRN é um ingrediente feito de fragmentos de DNA, que virou febre nos cosméticos coreanos; a Abib o usa em produtos voltados a firmeza. Na máscara labial, a Abib informa que o PDRN vem da centella asiática e do ginkgo biloba."
         ],
         "bullets": [
           "Efeito levinho: não espere mudança no primeiro dia nem na primeira semana; o benefício vem com constância;",
@@ -45478,23 +45841,23 @@ export const reviewsData: unknown[] = [
           "A ordem que eu fiz no vídeo cabe numa noite comum, sem aquela maratona de dez passos que a internet associa ao skincare coreano:"
         ],
         "bullets": [
-          "Passo 1 — Olhos: com o rosto limpo, coloco o adesivo de hidrogel embaixo dos olhos;",
-          "Passo 2 — Rosto e pescoço: enquanto o adesivo age, passo o Booster Crème com batidinhas;",
-          "Passo 3 — Lábios: uma camada da lip mask com a espátula;",
-          "Passo 4 — Tirar o adesivo: depois de 10 a 15 minutos, como indica a embalagem;",
+          "Passo 1, olhos: com o rosto limpo, coloco o adesivo de hidrogel embaixo dos olhos;",
+          "Passo 2, rosto e pescoço: enquanto o adesivo age, passo o Booster Crème com batidinhas;",
+          "Passo 3, lábios: uma camada da lip mask com a espátula;",
+          "Passo 4, tirar o adesivo: depois de 10 a 15 minutos, como indica a embalagem;",
           "Tempo total: uns 15 minutos, quase todos de espera com o adesivo no rosto."
         ]
       },
       {
         "heading": "Onde comprar e como economizar com o CECILIA010",
         "paragraphs": [
-          "Os três produtos são vendidos pela YesStyle, que voltou a entregar no Brasil (situação confirmada em setembro de 2026). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
-          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code — e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
+          "Os três produtos são vendidos pela YesStyle, que entrega no Brasil (confira no checkout se o envio aparece para o seu CEP). Os preços são cotados em dólar e o frete é internacional, então o prazo é maior que o de uma loja nacional.",
+          "No checkout, use o código CECILIA010 no campo Reward Code: ele dá 5% de desconto na primeira compra e 2% nas seguintes. Os cupons promocionais vão no outro campo, o Coupon Code, e somam com o CECILIA010, inclusive aqueles cupons especiais que chegam só para a sua conta.",
           "Sobre impostos: a YesStyle reembolsa as taxas alfandegárias de pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete). Se houver cobrança na chegada, pague, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle."
         ],
         "links": [
           {
-            "label": "Cupom da semana e regras do CECILIA010 na YesStyle",
+            "label": "Regras do CECILIA010 na YesStyle",
             "href": "/cupons/yesstyle"
           },
           {
@@ -45515,7 +45878,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que eu vou acompanhar nas próximas semanas",
         "paragraphs": [
-          "Este é o registro do primeiro uso. Vou seguir a rotina e voltar aqui para contar o que mudou de verdade — e o que não mudou."
+          "Este é o registro do primeiro uso. Vou seguir a rotina e voltar aqui para contar o que mudou de verdade e o que não mudou."
         ],
         "bullets": [
           "Olheiras e aspecto de cansaço embaixo dos olhos;",
@@ -45528,10 +45891,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quanto tempo deixar o adesivo de hidrogel da Abib? A embalagem indica retirar depois de 10 a 15 minutos. Não é para dormir com ele.",
-          "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos voltados para regeneração e firmeza. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
+          "O que é PDRN? É um ingrediente feito de fragmentos de DNA, muito usado em cosméticos coreanos que prometem firmeza, segundo as marcas. Na lip mask da Abib, a marca informa origem vegetal (centella asiática e ginkgo biloba).",
           "Retinal é a mesma coisa que ácido retinoico? Não. O retinal é um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
-          "A YesStyle entrega no Brasil? Sim. Os envios voltaram, e a situação foi confirmada em setembro de 2026. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
+          "A YesStyle entrega no Brasil? Sim, mas confira no checkout se o envio aparece para o seu CEP. Para taxas alfandegárias cobradas na chegada, a loja oferece reembolso em crédito para pedidos abaixo de US$ 1.000.",
           "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e soma com o cupom que você colocar no campo Coupon Code."
         ]
       }
@@ -45544,7 +45907,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Os três produtos foram enviados pela YesStyle ao Em Casa com Cecília. Este artigo registra as primeiras impressões de Cecília Mauad no primeiro uso, mostradas no vídeo; dados de tamanho, ingredientes e modo de uso vêm das páginas oficiais dos produtos na YesStyle. O site recebe comissão pelos links de afiliado e pelo Reward Code CECILIA010.",
+    "editorialNote": "Produtos enviados pela YesStyle; o site ganha comissão nos links e no Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-o-que-e-onde-comprar",
@@ -45598,17 +45961,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "PDRN and retinal work slowly: don't expect a visible difference in the first week",
-      "Retinal calls for sunscreen during the day — if you're like me and never wore it, you'll have to start",
+      "Retinal calls for sunscreen during the day, if you're like me and never wore it, you'll have to start",
       "The first time, I wasn't sure which side of the eye patch goes on the skin",
       "It's an international order: delivery takes longer than from a local store, and how long depends on your country"
     ],
     "contentSections": [
       {
-        "heading": "Thirty: The Age of Success and the Age of Paying Your Beauty Dues",
+        "heading": "Quick answer",
+        "paragraphs": [
+          "I liked the Abib beginner routine: the hydrogel patch is cool to the touch, the PDRN crème leaves a velvety finish and the lip mask smells sweet without being sickly. This is only a first use, so I can't promise skin results. For buying details, see the chapter Where to buy and how to save with CECILIA010."
+        ]
+      },
+      {
+        "heading": "At 30, my first Korean skincare routine",
         "paragraphs": [
           "Up until now, we got by on good looks for free. I had never even used sunscreen, and then I turned 30 and decided to take this seriously: I put together my first Korean skincare routine.",
           "I received three Abib products sent by YesStyle, an online store that sells imported cosmetics. And it's the real deal from Korea, okay? Not “Korean-style,” not “Korean-inspired.”",
-          "This article is my first encounter with all three, recorded in the video (in Portuguese): what it's like to put them on, the texture, the scent and how I felt when I took the eye patch off. I can't promise skin results on day one — I'll keep using them over the next few weeks and come back to tell you what changed."
+          "This article is my first encounter with all three, recorded in the video (in Portuguese): what it's like to put them on, the texture, the scent and how I felt when I took the eye patch off. I can't promise skin results on day one. I'll keep using them over the next few weeks and come back to tell you what changed."
         ]
       },
       {
@@ -45654,9 +46023,9 @@ export const reviewsData: unknown[] = [
         "heading": "Hydrogel eye patch: cool to the touch (and I put mine on backwards)",
         "paragraphs": [
           "The first contact is the best part: the patch is nice and cool. It comes in a jar with 60 patches, and the brand says the textured surface helps keep it from slipping.",
-          "I'll confess I put the first one on wrong. I flipped it, flipped it back, tried it the other way and decided that looked better — but honestly, I couldn't feel any difference between the sides. If you've never used these either, don't worry: what matters is that it sits snugly under the eyes without touching the eye itself.",
+          "I'll confess I put the first one on wrong. I flipped it, flipped it back, tried it the other way and decided that looked better, but honestly, I couldn't feel any difference between the sides. If you've never used these either, don't worry: what matters is that it sits snugly under the eyes without touching the eye itself.",
           "Over time the patch gets thinner, as if it were disappearing. That doesn't mean your skin absorbed the whole hydrogel; it's the gel delivering what's inside while it sits there, sealed against your skin, without evaporating.",
-          "The packaging says to remove it after 10 to 15 minutes. In the video I left mine on for about 20, because I was busy with the rest of the routine — follow the label. And don't sleep with it on."
+          "The packaging says to remove it after 10 to 15 minutes. In the video I left mine on for about 20, because I was busy with the rest of the routine. Follow the label. And don't sleep with it on."
         ],
         "bullets": [
           "When I took it off: everything had soaked in, my skin wasn’t left damp, and I could clearly see the shape of where the patch had been;",
@@ -45680,7 +46049,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "While the eye patch did its work, I applied the crème. It comes out of the tube with a balm-like texture: you smooth it on and feel it glide across your skin.",
           "Then comes the part I liked most: once it's spread, the skin has a velvety finish, as if it turned to velvet on the spot. And it spreads really well.",
-          "In the formula, Abib highlights PDRN and Volufiline (an ingredient used for a plumping feel), plus retinal, peptides, niacinamide and caffeine. It's a crème designed for firmness and fine lines — in other words, a long-term job."
+          "In the formula, Abib highlights PDRN and Volufiline (an ingredient used for a plumping feel), plus retinal, peptides, niacinamide and caffeine. It's a crème designed for firmness and fine lines, in other words, a long-term job."
         ],
         "bullets": [
           "Where to apply: face and neck, patting gently to help absorption, as the brand directs;"
@@ -45700,7 +46069,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lip Mask Glazed Jelly: a sweet scent that doesn't get sickly",
         "paragraphs": [
-          "Last, the lip mask. It comes with a tiny spatula, and the texture is a gel — similar to the eye patch.",
+          "Last, the lip mask. It comes with a tiny spatula, and the texture is a gel, similar to the eye patch.",
           "It smells sweet, like candy, but it's not sickly. Anyone who follows me knows I have a problem with strong scents, and this one didn't bother me.",
           "The brand says to use a thin layer during the day for shine and hydration, or a generous layer before bed as an overnight mask."
         ],
@@ -45720,8 +46089,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN and retinal, demystified: why the effect is gentle",
         "paragraphs": [
           "The big thing about Korean skincare is that the products are designed for long-term use. Girl, you just turned 30: this is only the beginning. For the rest of your life, you're going to need a skincare routine.",
-          "In the video (in Portuguese) I said retinoic acid, but the correct name of the ingredient in the eye patch and the crème is retinal (also called retinaldehyde). It's a vitamin A derivative, in the same family as retinol, and the skin converts it into retinoic acid. The action is more gradual — which is why I'm not about to start peeling just because I started using it.",
-          "PDRN is an ingredient made from DNA fragments that has become a craze in Korean cosmetics tied to regeneration and firmness. For the lip mask, Abib states that the PDRN comes from centella asiatica and ginkgo biloba."
+          "In the video (in Portuguese) I said retinoic acid, but the correct name of the ingredient in the eye patch and the crème is retinal (also called retinaldehyde). It's a vitamin A derivative, in the same family as retinol, and the skin converts it into retinoic acid. The action is more gradual, which is why I'm not about to start peeling just because I started using it.",
+          "PDRN is an ingredient made from DNA fragments that has become a craze in Korean cosmetics; Abib uses it in products aimed at firmness. For the lip mask, Abib states that the PDRN comes from centella asiatica and ginkgo biloba."
         ],
         "bullets": [
           "A gentle effect: don't expect a change on day one or in the first week; the benefit comes with consistency;",
@@ -45736,10 +46105,10 @@ export const reviewsData: unknown[] = [
           "The order I followed in the video fits into an ordinary night, without the ten-step marathon the internet associates with Korean skincare:"
         ],
         "bullets": [
-          "Step 1 — Eyes: with a clean face, I put the hydrogel patch under my eyes;",
-          "Step 2 — Face and neck: while the patch works, I pat on the Booster Crème;",
-          "Step 3 — Lips: one layer of the lip mask with the spatula;",
-          "Step 4 — Remove the patch: after 10 to 15 minutes, as the packaging says;",
+          "Step 1, eyes: with a clean face, I put the hydrogel patch under my eyes;",
+          "Step 2, face and neck: while the patch works, I pat on the Booster Crème;",
+          "Step 3, lips: one layer of the lip mask with the spatula;",
+          "Step 4, remove the patch: after 10 to 15 minutes, as the packaging says;",
           "Total time: about 15 minutes, most of it just waiting with the patch on."
         ]
       },
@@ -45747,12 +46116,12 @@ export const reviewsData: unknown[] = [
         "heading": "Where to buy and how to save with CECILIA010",
         "paragraphs": [
           "All three products are sold by YesStyle, which ships internationally. Delivery time and shipping cost depend on your country, so check the estimate in your cart before you pay.",
-          "At checkout, enter CECILIA010 in the Reward Code field: it gives you 5% off your first order and 2% off later ones. Promotional coupons go in the other field, Coupon Code — and they stack with CECILIA010, including those special coupons that are sent only to your account.",
-          "About customs: YesStyle refunds customs duties and fees, as YesStyle Credit, on orders under US$ 1,000 (the value before coupons, excluding shipping). If you're charged when the package arrives, pay it, keep the receipt and send it to YesStyle customer service within 30 days. Taxes charged at checkout in some regions — such as EU VAT, UK VAT, US sales tax or Australian GST — are not covered by this refund."
+          "At checkout, enter CECILIA010 in the Reward Code field: it gives you 5% off your first order and 2% off later ones. Promotional coupons go in the other field, Coupon Code, and they stack with CECILIA010, including those special coupons that are sent only to your account.",
+          "About customs: YesStyle refunds customs duties and fees, as YesStyle Credit, on orders under US$ 1,000 (the value before coupons, excluding shipping). If you're charged when the package arrives, pay it, keep the receipt and send it to YesStyle customer service within 30 days. Taxes charged at checkout in some regions, such as EU VAT, UK VAT, US sales tax or Australian GST, are not covered by this refund."
         ],
         "links": [
           {
-            "label": "This week's coupon and the CECILIA010 rules at YesStyle",
+            "label": "The CECILIA010 rules at YesStyle",
             "href": "/en/coupons/yesstyle"
           },
           {
@@ -45773,7 +46142,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What I'll be tracking over the next few weeks",
         "paragraphs": [
-          "This is a record of my first use. I'll keep up the routine and come back to tell you what really changed — and what didn't."
+          "This is a record of my first use. I'll keep up the routine and come back to tell you what really changed, and what didn't."
         ],
         "bullets": [
           "Dark circles and the tired look under the eyes;",
@@ -45786,10 +46155,10 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "How long should I leave the Abib hydrogel eye patch on? The packaging says to remove it after 10 to 15 minutes. Don't sleep with it on.",
-          "What is PDRN? It's an ingredient made from DNA fragments, widely used in Korean cosmetics aimed at regeneration and firmness. In Abib's lip mask, the brand says it comes from plants (centella asiatica and ginkgo biloba).",
+          "What is PDRN? It's an ingredient made from DNA fragments, widely used in Korean cosmetics that, according to the brands, aim at firmness. In Abib's lip mask, the brand says it comes from plants (centella asiatica and ginkgo biloba).",
           "Is retinal the same as retinoic acid? No. Retinal is a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and why it calls for sunscreen during the day.",
           "Does the Abib lip mask have a strong scent? It smells sweet, like candy. I'm sensitive to strong scents, and this one didn't bother me.",
-          "Does YesStyle ship to my country, and who pays customs? YesStyle ships internationally, and delivery time and shipping cost depend on your country — the estimate appears in your cart. For customs duties and fees charged on arrival, YesStyle refunds them as YesStyle Credit on orders under US$ 1,000, if you send the payment receipt within 30 days. Taxes charged at checkout in some regions (EU VAT, UK VAT, US sales tax, Australian GST) are not covered.",
+          "Does YesStyle ship to my country, and who pays customs? YesStyle ships internationally, and delivery time and shipping cost depend on your country, the estimate appears in your cart. For customs duties and fees charged on arrival, YesStyle refunds them as YesStyle Credit on orders under US$ 1,000, if you send the payment receipt within 30 days. Taxes charged at checkout in some regions (EU VAT, UK VAT, US sales tax, Australian GST) are not covered.",
           "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first order and 2% off later ones, and it stacks with any coupon you enter in the Coupon Code field."
         ]
       }
@@ -45802,7 +46171,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "YesStyle sent all three products to Em Casa com Cecília. This article records Cecília Mauad's first impressions from the first use, shown in the video (in Portuguese); size, ingredient and directions-for-use details come from the official product pages on YesStyle. The site earns a commission through the affiliate links and the CECILIA010 Reward Code.",
+    "editorialNote": "Products sent by YesStyle; the site earns commission on the links and the CECILIA010 Reward Code.",
     "relatedArticles": [
       {
         "slug": "k-beauty-trend-explained-where-to-buy",
@@ -45856,17 +46225,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "El PDRN y el retinal actúan despacio: no esperes una diferencia visible en la primera semana",
-      "El retinal pide protector solar de día — si, como yo, nunca lo usaste, tendrás que empezar",
+      "El retinal pide protector solar de día, si, como yo, nunca lo usaste, tendrás que empezar",
       "La primera vez dudé de cuál era el lado correcto del parche",
       "Es una compra internacional: el plazo de entrega es más largo que el de una tienda local y depende de tu país"
     ],
     "contentSections": [
       {
-        "heading": "Treinta: la edad del éxito y la edad de pasar por caja en belleza",
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Me gustó la rutina de principiante de Abib: el parche de hidrogel es fresquito, la crema con PDRN deja un toque de terciopelo y la mascarilla labial huele dulce sin empalagar. Es solo el primer uso, así que no puedo prometer resultados en la piel. La compra está en el capítulo Dónde comprar y cómo ahorrar con CECILIA010."
+        ]
+      },
+      {
+        "heading": "A los 30, mi primera rutina de skincare coreano",
         "paragraphs": [
           "Hasta aquí, ser guapas nos salió gratis. Yo, que ni siquiera usaba protector solar, cumplí 30 años y decidí tomármelo en serio: armé mi primera rutina de skincare coreano.",
           "Recibí tres productos de Abib enviados por YesStyle, una tienda online que vende cosméticos importados. Y es coreano de Corea, ¿eh? No es “estilo coreano”, no es “inspirado en Corea”.",
-          "Este artículo es mi primer contacto con los tres, registrado en el vídeo (en portugués): cómo es ponérselos, la textura, el olor y lo que sentí al quitarme el parche. Un resultado en la piel no se puede prometer el primer día — voy a usarlos en las próximas semanas y vuelvo aquí para contarte qué cambió."
+          "Este artículo es mi primer contacto con los tres, registrado en el vídeo (en portugués): cómo es ponérselos, la textura, el olor y lo que sentí al quitarme el parche. Un resultado en la piel no se puede prometer el primer día, voy a usarlos en las próximas semanas y vuelvo aquí para contarte qué cambió."
         ]
       },
       {
@@ -45912,9 +46287,9 @@ export const reviewsData: unknown[] = [
         "heading": "Parches de hidrogel para los ojos: fresquitos (y yo me puse el primero al revés)",
         "paragraphs": [
           "El primer contacto es lo mejor: el parche está fresquito. Viene en un tarro con 60 unidades, y la marca dice que la superficie texturizada ayuda a que no resbale.",
-          "Confieso que me puse el primero mal. Lo giré, lo volví a girar, lo probé del otro lado y me pareció que así quedaba mejor — pero, sinceramente, no noté diferencia entre los lados. Si tú tampoco los has usado nunca, no te preocupes: lo importante es que quede bien asentado bajo los ojos, sin tocar el ojo.",
+          "Confieso que me puse el primero mal. Lo giré, lo volví a girar, lo probé del otro lado y me pareció que así quedaba mejor, pero, sinceramente, no noté diferencia entre los lados. Si tú tampoco los has usado nunca, no te preocupes: lo importante es que quede bien asentado bajo los ojos, sin tocar el ojo.",
           "Con el tiempo, el parche se va volviendo más fino, como si desapareciera. No significa que la piel haya absorbido todo el hidrogel; es el gel entregando lo que lleva dentro mientras está ahí, bien pegadito, sin evaporarse.",
-          "El envase indica quitarlo después de 10 a 15 minutos. En el vídeo lo dejé unos 20, porque estaba haciendo el resto de la rutina — sigue la etiqueta. Y no es para dormir con él."
+          "El envase indica quitarlo después de 10 a 15 minutos. En el vídeo lo dejé unos 20, porque estaba haciendo el resto de la rutina, sigue la etiqueta. Y no es para dormir con él."
         ],
         "bullets": [
           "Al quitarlo: todo se había absorbido, la piel no quedó húmeda y se veía perfectamente la forma de donde estuvo el parche;",
@@ -45938,7 +46313,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Mientras el parche actuaba, me apliqué la crema. Sale del tubo con textura de bálsamo: la pasas y sientes cómo se desliza por la piel.",
           "Y ahí llega la parte que más me gustó: después de extenderla, la piel queda con un acabado aterciopelado, como si se volviera terciopelo al instante. Y se extiende muy bien.",
-          "En la fórmula, Abib destaca PDRN y Volufiline (un ingrediente usado para dar sensación de relleno), además de retinal, péptidos, niacinamida y cafeína. Es una crema pensada para la firmeza y las líneas finas — es decir, un trabajo a largo plazo."
+          "En la fórmula, Abib destaca PDRN y Volufiline (un ingrediente usado para dar sensación de relleno), además de retinal, péptidos, niacinamida y cafeína. Es una crema pensada para la firmeza y las líneas finas, es decir, un trabajo a largo plazo."
         ],
         "bullets": [
           "Dónde aplicarla: rostro y cuello, con toquecitos suaves para ayudar a la absorción, como indica la marca;"
@@ -45958,7 +46333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lip Mask Glazed Jelly: un olorcito dulce que no empalaga",
         "paragraphs": [
-          "Por último, la mascarilla labial. Viene con una espatulita, y la textura es de gel — parecida a la de los parches para los ojos.",
+          "Por último, la mascarilla labial. Viene con una espatulita, y la textura es de gel, parecida a la de los parches para los ojos.",
           "Tiene un olorcito dulce, pero no empalaga. Quien me sigue sabe que tengo problemas con los olores fuertes, y este no me molestó.",
           "La marca indica usar una capa fina durante el día, para dar brillo e hidratación, o una capa generosa antes de dormir, como mascarilla de noche."
         ],
@@ -45978,8 +46353,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN y retinal sin misterio: por qué el efecto es suave",
         "paragraphs": [
           "Lo importante del skincare coreano es que los productos están pensados para el uso a largo plazo. Amiga, acabas de cumplir 30: esto es solo el comienzo. Para el resto de la vida vas a necesitar una rutina de cuidado de la piel.",
-          "En el vídeo (en portugués) hablé de ácido retinoico, pero el nombre correcto del ingrediente del parche y de la crema es retinal (o retinaldehído). Es un derivado de la vitamina A, de la misma familia que el retinol, y la piel lo transforma en ácido retinoico. La acción es más gradual — por eso no voy a salir descamándome solo porque empecé a usarlo.",
-          "El PDRN es un ingrediente hecho de fragmentos de ADN que se puso de moda en la cosmética coreana ligado a la regeneración y la firmeza. En la mascarilla labial, Abib informa que el PDRN proviene de la centella asiática y del ginkgo biloba."
+          "En el vídeo (en portugués) hablé de ácido retinoico, pero el nombre correcto del ingrediente del parche y de la crema es retinal (o retinaldehído). Es un derivado de la vitamina A, de la misma familia que el retinol, y la piel lo transforma en ácido retinoico. La acción es más gradual, por eso no voy a salir descamándome solo porque empecé a usarlo.",
+          "El PDRN es un ingrediente hecho de fragmentos de ADN que se puso de moda en la cosmética coreana; Abib lo usa en productos orientados a la firmeza. En la mascarilla labial, Abib informa que el PDRN proviene de la centella asiática y del ginkgo biloba."
         ],
         "bullets": [
           "Efecto suave: no esperes cambios el primer día ni la primera semana; el beneficio llega con constancia;",
@@ -45994,10 +46369,10 @@ export const reviewsData: unknown[] = [
           "El orden que seguí en el vídeo cabe en una noche cualquiera, sin ese maratón de diez pasos que internet asocia con el skincare coreano:"
         ],
         "bullets": [
-          "Paso 1 — Ojos: con el rostro limpio, me pongo el parche de hidrogel bajo los ojos;",
-          "Paso 2 — Rostro y cuello: mientras el parche actúa, me aplico el Booster Crème con toquecitos;",
-          "Paso 3 — Labios: una capa de la mascarilla labial con la espátula;",
-          "Paso 4 — Quitar el parche: después de 10 a 15 minutos, como indica el envase;",
+          "Paso 1, ojos: con el rostro limpio, me pongo el parche de hidrogel bajo los ojos;",
+          "Paso 2, rostro y cuello: mientras el parche actúa, me aplico el Booster Crème con toquecitos;",
+          "Paso 3, labios: una capa de la mascarilla labial con la espátula;",
+          "Paso 4, quitar el parche: después de 10 a 15 minutos, como indica el envase;",
           "Tiempo total: unos 15 minutos, casi todos de espera con el parche puesto."
         ]
       },
@@ -46005,12 +46380,12 @@ export const reviewsData: unknown[] = [
         "heading": "Dónde comprar y cómo ahorrar con CECILIA010",
         "paragraphs": [
           "Los tres productos los vende YesStyle, que envía a todo el mundo. El plazo de entrega y el coste del envío dependen de tu país, así que mira la estimación en el carrito antes de pagar.",
-          "En el pago, introduce el código CECILIA010 en el campo Reward Code: te da un 5% de descuento en el primer pedido y un 2% en los siguientes. Los cupones promocionales van en el otro campo, Coupon Code — y se suman al CECILIA010, incluidos esos cupones especiales que llegan solo a tu cuenta.",
-          "Sobre los impuestos: YesStyle reembolsa las tasas y aranceles de aduana de los pedidos de menos de 1.000 USD (valor antes de los cupones, sin el envío), en forma de crédito de YesStyle. Si te cobran algo cuando llega el paquete, págalo, guarda el comprobante y envíalo al servicio de atención de la tienda en un plazo de 30 días. Los impuestos que se cobran en el pago en algunas regiones — como el IVA de la UE, el IVA del Reino Unido, el sales tax de EE. UU. o el GST de Australia — no están cubiertos por este reembolso."
+          "En el pago, introduce el código CECILIA010 en el campo Reward Code: te da un 5% de descuento en el primer pedido y un 2% en los siguientes. Los cupones promocionales van en el otro campo, Coupon Code, y se suman al CECILIA010, incluidos esos cupones especiales que llegan solo a tu cuenta.",
+          "Sobre los impuestos: YesStyle reembolsa las tasas y aranceles de aduana de los pedidos de menos de 1.000 USD (valor antes de los cupones, sin el envío), en forma de crédito de YesStyle. Si te cobran algo cuando llega el paquete, págalo, guarda el comprobante y envíalo al servicio de atención de la tienda en un plazo de 30 días. Los impuestos que se cobran en el pago en algunas regiones, como el IVA de la UE, el IVA del Reino Unido, el sales tax de EE. UU. o el GST de Australia, no están cubiertos por este reembolso."
         ],
         "links": [
           {
-            "label": "Cupón de la semana y reglas del CECILIA010 en YesStyle",
+            "label": "Reglas del CECILIA010 en YesStyle",
             "href": "/es/coupons/yesstyle"
           },
           {
@@ -46031,7 +46406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué voy a seguir en las próximas semanas",
         "paragraphs": [
-          "Este es el registro del primer uso. Voy a seguir con la rutina y volveré aquí para contarte qué cambió de verdad — y qué no cambió."
+          "Este es el registro del primer uso. Voy a seguir con la rutina y volveré aquí para contarte qué cambió de verdad, y qué no cambió."
         ],
         "bullets": [
           "Ojeras y aspecto cansado bajo los ojos;",
@@ -46044,7 +46419,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuánto tiempo dejar el parche de hidrogel de Abib? El envase indica retirarlo después de 10 a 15 minutos. No es para dormir con él.",
-          "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos orientados a la regeneración y la firmeza. En la mascarilla labial de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
+          "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos que, según las marcas, apuntan a la firmeza. En la mascarilla labial de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
           "¿El retinal es lo mismo que el ácido retinoico? No. El retinal es un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y por eso pide protector solar durante el día.",
           "¿La mascarilla labial de Abib huele fuerte? Tiene un olorcito dulce. Soy sensible a los olores fuertes, y este no me molestó.",
           "¿YesStyle envía a mi país y quién paga la aduana? YesStyle envía a todo el mundo, y el plazo de entrega y el coste del envío dependen de tu país: la estimación aparece en el carrito. Las tasas y aranceles de aduana cobrados a la llegada los reembolsa YesStyle en forma de crédito en pedidos de menos de 1.000 USD, si envías el comprobante de pago en un plazo de 30 días. Los impuestos cobrados en el pago en algunas regiones (IVA de la UE, IVA del Reino Unido, sales tax de EE. UU., GST de Australia) no están cubiertos.",
@@ -46060,7 +46435,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "YesStyle envió los tres productos a Em Casa com Cecília. Este artículo recoge las primeras impresiones de Cecília Mauad en el primer uso, mostradas en el vídeo (en portugués); los datos de tamaño, ingredientes y modo de uso proceden de las páginas oficiales de los productos en YesStyle. El sitio recibe comisión por los enlaces de afiliado y por el Reward Code CECILIA010.",
+    "editorialNote": "Productos enviados por YesStyle; comisión por los enlaces y el Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-marcas-coreanas-tendencia-mundial",
@@ -46112,17 +46487,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Le PDRN et le rétinal agissent doucement : n'attendez pas de différence visible dès la première semaine",
-      "Le rétinal demande une protection solaire le jour — si comme moi vous n'en avez jamais mis, il faudra s'y mettre",
+      "Le rétinal demande une protection solaire le jour, si comme moi vous n'en avez jamais mis, il faudra s'y mettre",
       "La première fois, j'ai hésité sur le bon côté du patch",
       "Achat international : le délai de livraison est plus long que dans une boutique de votre pays"
     ],
     "contentSections": [
       {
-        "heading": "Trente ans : l'âge de la réussite et celui où l'on paie la facture de la beauté",
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "J'ai aimé la routine débutante d'Abib : le patch hydrogel est bien frais, la crème au PDRN laisse un toucher velours et le masque lèvres a une odeur sucrée qui n'écœure pas. Ce n'est qu'un premier usage, donc pas de promesse de résultats sur la peau. Pour l'achat, voyez le chapitre Où acheter et comment économiser avec CECILIA010."
+        ]
+      },
+      {
+        "heading": "À 30 ans, ma première routine de skincare coréen",
         "paragraphs": [
           "Jusqu'ici, on a été jolie sans rien faire. Moi, qui n'avais jamais mis de crème solaire, j'ai eu 30 ans et j'ai décidé de prendre le sujet au sérieux : j'ai monté ma première routine de skincare coréen.",
           "J'ai reçu trois produits Abib envoyés par YesStyle, une boutique en ligne spécialisée dans les cosmétiques importés. Et c'est de la Corée, la vraie, hein ! Pas « façon coréenne », pas « inspiration Corée ».",
-          "Cet article, c'est mon premier contact avec ces trois produits, filmé dans la vidéo de l'article (en portugais) : ce que ça fait de les poser, la texture, l'odeur et ce que j'ai ressenti en retirant le patch. Des résultats sur la peau, on ne peut pas les promettre dès le premier jour — je vais les utiliser ces prochaines semaines et je reviendrai raconter ce qui a changé."
+          "Cet article, c'est mon premier contact avec ces trois produits, filmé dans la vidéo de l'article (en portugais) : ce que ça fait de les poser, la texture, l'odeur et ce que j'ai ressenti en retirant le patch. Des résultats sur la peau, on ne peut pas les promettre dès le premier jour. Je vais les utiliser ces prochaines semaines et je reviendrai raconter ce qui a changé."
         ]
       },
       {
@@ -46168,9 +46549,9 @@ export const reviewsData: unknown[] = [
         "heading": "Patch hydrogel pour les yeux : bien frais (et je l'ai posé à l'envers)",
         "paragraphs": [
           "Le premier contact est le meilleur : le patch est bien frais. Il se présente dans un pot de 60 unités, et la marque indique que la surface texturée aide à ne pas glisser.",
-          "Je l'avoue, j'ai mal posé le premier. Je l'ai retourné, remis dans l'autre sens, en pensant que c'était mieux comme ça — mais, honnêtement, je n'ai senti aucune différence entre les deux faces. Si vous n'en avez jamais utilisé non plus, pas de panique : l'important, c'est qu'il soit bien posé sous les yeux, sans toucher l'œil.",
+          "Je l'avoue, j'ai mal posé le premier. Je l'ai retourné, remis dans l'autre sens, en pensant que c'était mieux comme ça, mais, honnêtement, je n'ai senti aucune différence entre les deux faces. Si vous n'en avez jamais utilisé non plus, pas de panique : l'important, c'est qu'il soit bien posé sous les yeux, sans toucher l'œil.",
           "Avec le temps, le patch devient plus fin, comme s'il disparaissait. Cela ne veut pas dire que la peau a absorbé tout l'hydrogel ; c'est le gel qui livre ce qu'il contient tant qu'il reste là, bien fermé, sans s'évaporer.",
-          "L'emballage indique de le retirer après 10 à 15 minutes. Dans la vidéo, je l'ai gardé environ 20 minutes, parce que je faisais le reste de la routine — suivez l'étiquette. Et il ne faut pas dormir avec."
+          "L'emballage indique de le retirer après 10 à 15 minutes. Dans la vidéo, je l'ai gardé environ 20 minutes, parce que je faisais le reste de la routine. Suivez l'étiquette. Et il ne faut pas dormir avec."
         ],
         "bullets": [
           "Au retrait : tout avait pénétré, la peau n’était pas humide, et on voyait parfaitement la forme de l'endroit où se trouvait le patch ;",
@@ -46194,7 +46575,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pendant que le patch agissait, j'ai appliqué la crème. Elle sort du tube avec une texture de baume : on l'étale et on la sent glisser sur la peau.",
           "Et là vient la partie que j'ai préférée : une fois étalée, la peau a un toucher velouté, comme si elle se transformait en velours sur-le-champ. Et ça s'étale vraiment très bien.",
-          "Dans la formule, Abib met en avant le PDRN et la Volufiline (un ingrédient utilisé pour donner une sensation de repulpage), ainsi que le rétinal, des peptides, de la niacinamide et de la caféine. C'est une crème pensée pour la fermeté et les ridules — autrement dit, un travail de longue haleine."
+          "Dans la formule, Abib met en avant le PDRN et la Volufiline (un ingrédient utilisé pour donner une sensation de repulpage), ainsi que le rétinal, des peptides, de la niacinamide et de la caféine. C'est une crème pensée pour la fermeté et les ridules, autrement dit, un travail de longue haleine."
         ],
         "bullets": [
           "Où l'appliquer : visage et cou, en tapotant doucement pour aider l'absorption, comme l'indique la marque ;"
@@ -46214,7 +46595,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lip Mask Glazed Jelly : une odeur sucrée qui n'écœure pas",
         "paragraphs": [
-          "Enfin, le masque lèvres. Il est fourni avec une petite spatule, et sa texture est celle d'un gel — proche de celle du patch pour les yeux.",
+          "Enfin, le masque lèvres. Il est fourni avec une petite spatule, et sa texture est celle d'un gel, proche de celle du patch pour les yeux.",
           "Il a une petite odeur sucrée, mais pas écœurante. Celles et ceux qui me suivent savent que j'ai du mal avec les odeurs fortes, et celle-ci ne m'a pas dérangée.",
           "La marque indique d'en appliquer une fine couche en journée, pour le brillant et l'hydratation, ou une couche généreuse avant de dormir, comme masque de nuit."
         ],
@@ -46234,8 +46615,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN et rétinal sans mystère : pourquoi l'effet est discret",
         "paragraphs": [
           "Le grand principe du skincare coréen, c'est que les produits sont pensés pour un usage sur la durée. Ma belle, tu viens d'avoir 30 ans : ce n'est que le début. Pour le reste de ta vie, il te faudra une routine de soins pour ta peau.",
-          "Dans la vidéo, j'ai parlé d'acide rétinoïque, mais le bon nom de l'ingrédient du patch et de la crème, c'est le rétinal (ou rétinaldéhyde). C'est un dérivé de la vitamine A, de la même famille que le rétinol, que la peau transforme en acide rétinoïque. L'action est plus progressive — c'est pour ça que je ne vais pas me mettre à peler juste parce que j'ai commencé à l'utiliser.",
-          "Le PDRN est un ingrédient fabriqué à partir de fragments d'ADN, devenu une vraie folie dans les cosmétiques coréens liés à la régénération et à la fermeté. Pour le masque lèvres, Abib précise que le PDRN provient de la centella asiatica et du ginkgo biloba."
+          "Dans la vidéo, j'ai parlé d'acide rétinoïque, mais le bon nom de l'ingrédient du patch et de la crème, c'est le rétinal (ou rétinaldéhyde). C'est un dérivé de la vitamine A, de la même famille que le rétinol, que la peau transforme en acide rétinoïque. L'action est plus progressive, c'est pour ça que je ne vais pas me mettre à peler juste parce que j'ai commencé à l'utiliser.",
+          "Le PDRN est un ingrédient fabriqué à partir de fragments d'ADN, devenu une vraie folie dans les cosmétiques coréens ; Abib l'utilise dans des produits axés sur la fermeté. Pour le masque lèvres, Abib précise que le PDRN provient de la centella asiatica et du ginkgo biloba."
         ],
         "bullets": [
           "Effet discret : n'attendez pas de changement le premier jour ni la première semaine ; le bénéfice vient avec la régularité ;",
@@ -46250,10 +46631,10 @@ export const reviewsData: unknown[] = [
           "L'ordre que j'ai suivi dans la vidéo tient dans une soirée ordinaire, sans le marathon en dix étapes qu'internet associe au skincare coréen :"
         ],
         "bullets": [
-          "Étape 1 — Yeux : sur un visage propre, je pose le patch hydrogel sous les yeux ;",
-          "Étape 2 — Visage et cou : pendant que le patch agit, j'applique le Booster Crème en tapotant ;",
-          "Étape 3 — Lèvres : une couche de lip mask à la spatule ;",
-          "Étape 4 — Retirer le patch : après 10 à 15 minutes, comme l'indique l'emballage ;",
+          "Étape 1, yeux : sur un visage propre, je pose le patch hydrogel sous les yeux ;",
+          "Étape 2, visage et cou : pendant que le patch agit, j'applique le Booster Crème en tapotant ;",
+          "Étape 3, lèvres : une couche de lip mask à la spatule ;",
+          "Étape 4, retirer le patch : après 10 à 15 minutes, comme l'indique l'emballage ;",
           "Durée totale : environ 15 minutes, presque toutes passées à attendre avec le patch sur le visage."
         ]
       },
@@ -46261,12 +46642,12 @@ export const reviewsData: unknown[] = [
         "heading": "Où acheter et comment économiser avec CECILIA010",
         "paragraphs": [
           "Les trois produits sont vendus par YesStyle, qui livre à l'international. Le délai et les frais de livraison dépendent de votre pays : consultez l'estimation dans le panier avant de payer.",
-          "Au moment du paiement, saisissez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code — et ils se cumulent avec CECILIA010, y compris les coupons spéciaux envoyés uniquement à votre compte.",
+          "Au moment du paiement, saisissez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code, et ils se cumulent avec CECILIA010, y compris les coupons spéciaux envoyés uniquement à votre compte.",
           "Côté taxes : YesStyle rembourse les droits de douane et frais associés, sous forme de crédit YesStyle, pour les commandes de moins de 1 000 USD (valeur avant coupons, hors frais de port). Si l'on vous réclame des frais à l'arrivée, payez, gardez le justificatif de paiement et envoyez-le au service client de la boutique dans un délai de 30 jours. Attention, pour les lectrices et lecteurs en Europe : la TVA facturée lors du paiement pour les commandes vers l'UE (tout comme la TVA britannique, la sales tax américaine ou la GST australienne) n'est pas couverte par ce remboursement."
         ],
         "links": [
           {
-            "label": "Coupon de la semaine et règles de CECILIA010 sur YesStyle",
+            "label": "Règles de CECILIA010 sur YesStyle",
             "href": "/fr/coupons/yesstyle"
           },
           {
@@ -46287,7 +46668,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que je vais suivre ces prochaines semaines",
         "paragraphs": [
-          "Ceci est le compte rendu de la première utilisation. Je vais poursuivre la routine et revenir ici raconter ce qui a vraiment changé — et ce qui n'a pas changé."
+          "Ceci est le compte rendu de la première utilisation. Je vais poursuivre la routine et revenir ici raconter ce qui a vraiment changé, et ce qui n'a pas changé."
         ],
         "bullets": [
           "Les cernes et la mine fatiguée sous les yeux ;",
@@ -46300,7 +46681,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Combien de temps garder le patch hydrogel d'Abib ? L'emballage indique de le retirer après 10 à 15 minutes. Il ne faut pas dormir avec.",
-          "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très présent dans les cosmétiques coréens axés sur la régénération et la fermeté. Pour la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
+          "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très présent dans les cosmétiques coréens qui, selon les marques, visent la fermeté. Pour la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
           "Le rétinal, c'est la même chose que l'acide rétinoïque ? Non. Le rétinal est un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi son action est plus progressive, et il demande une protection solaire en journée.",
           "La lip mask d'Abib a-t-elle une odeur forte ? Elle a une petite odeur sucrée. Je suis sensible aux odeurs fortes, et celle-ci ne m'a pas dérangée.",
           "YesStyle livre-t-il dans mon pays, et qu'en est-il des droits de douane ? YesStyle livre à l'international ; le délai et les frais dépendent du pays, et l'estimation s'affiche dans le panier. Pour les droits de douane et frais associés, la boutique les rembourse en crédit YesStyle pour les commandes de moins de 1 000 USD, sur présentation du justificatif de paiement dans les 30 jours. La TVA facturée lors du paiement pour les commandes vers l'UE (ainsi que la TVA britannique, la sales tax américaine et la GST australienne) n'est pas remboursée.",
@@ -46316,7 +46697,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Les trois produits ont été envoyés par YesStyle à Em Casa com Cecília. Cet article rapporte les premières impressions de Cecília Mauad lors de la première utilisation, montrées dans la vidéo ; les données de contenance, d'ingrédients et de mode d'emploi proviennent des pages officielles des produits sur YesStyle. Le site perçoit une commission via les liens d'affiliation et le Reward Code CECILIA010.",
+    "editorialNote": "Produits envoyés par YesStyle ; commission sur les liens et le Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-tendance-beaute-coreenne",
@@ -46376,7 +46757,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Dreißig: das Alter des Erfolgs und das Alter, in dem man den Schönheitszoll zahlt",
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Die Anfänger-Routine von Abib hat mir gefallen: Der Hydrogel-Patch ist angenehm kühl, die PDRN-Creme fühlt sich samtig an und die Lippenmaske duftet süß, ohne aufdringlich zu sein. Es ist erst die erste Anwendung, Ergebnisse auf der Haut kann ich also nicht versprechen. Den Kauf erkläre ich im Kapitel Wo kaufen und wie sparen mit CECILIA010."
+        ]
+      },
+      {
+        "heading": "Mit 30: meine erste koreanische Hautpflegeroutine",
         "paragraphs": [
           "Bis hierhin waren wir einfach so hübsch, ganz ohne Aufwand. Ich, die noch nie Sonnencreme benutzt hatte, bin 30 geworden und habe beschlossen, die Sache ernst zu nehmen: Ich habe meine erste koreanische Hautpflege-Routine zusammengestellt.",
           "Ich habe drei Produkte von Abib bekommen, die YesStyle mir geschickt hat, ein Onlineshop für importierte Kosmetik. Und das ist echtes Korea, ja? Nicht „nach koreanischer Art“, nicht „Korea-Style“.",
@@ -46493,7 +46880,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Der Knackpunkt bei koreanischer Hautpflege ist, dass die Produkte auf langfristige Anwendung ausgelegt sind. Ich sage mir: Du bist gerade 30 geworden, das ist erst der Anfang. Für den Rest deines Lebens brauchst du eine Pflegeroutine für deine Haut.",
           "Im Video habe ich von Retinsäure gesprochen, aber der richtige Name des Inhaltsstoffs in Patch und Creme ist Retinal (oder Retinaldehyd). Er ist ein Vitamin-A-Derivat aus derselben Familie wie Retinol, und die Haut wandelt ihn in Retinsäure um. Die Wirkung ist eher schrittweise – deshalb werde ich nicht gleich anfangen zu schuppen, nur weil ich damit begonnen habe.",
-          "PDRN ist ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik rund um Regeneration und Festigkeit zum Hype geworden ist. Bei der Lippenmaske gibt Abib an, dass das PDRN aus Centella asiatica und Ginkgo biloba stammt."
+          "PDRN ist ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik zum Hype geworden ist; Abib setzt ihn in Produkten für mehr Festigkeit ein. Bei der Lippenmaske gibt Abib an, dass das PDRN aus Centella asiatica und Ginkgo biloba stammt."
         ],
         "bullets": [
           "Dezente Wirkung: Erwarten Sie keine Veränderung am ersten Tag und auch nicht in der ersten Woche; der Nutzen kommt mit Regelmäßigkeit;",
@@ -46524,7 +46911,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Gutschein der Woche und Regeln zu CECILIA010 bei YesStyle",
+            "label": "Regeln zu CECILIA010 bei YesStyle",
             "href": "/de/coupons/yesstyle"
           },
           {
@@ -46558,7 +46945,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Wie lange lässt man den Hydrogel-Patch von Abib drauf? Auf der Verpackung steht, dass man ihn nach 10 bis 15 Minuten abnehmen soll. Man soll nicht damit schlafen.",
-          "Was ist PDRN? Ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik für Regeneration und Festigkeit weit verbreitet ist. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
+          "Was ist PDRN? Ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik verbreitet ist, die laut den Marken auf Festigkeit abzielt. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
           "Ist Retinal dasselbe wie Retinsäure? Nein. Retinal ist ein Vitamin-A-Derivat, das die Haut in Retinsäure umwandelt. Deshalb wirkt es schrittweise, und tagsüber ist Sonnenschutz nötig.",
           "Riecht die Lip Mask von Abib stark? Sie hat einen süßlichen Duft. Ich reagiere empfindlich auf starke Gerüche, und dieser hat mich nicht gestört.",
           "Liefert YesStyle in mein Land, und wie ist es mit Zoll? YesStyle liefert international; Lieferzeit und Versandkosten hängen vom Land ab, die Schätzung sehen Sie im Warenkorb. Zölle und Gebühren erstattet der Shop bei Bestellungen unter 1.000 US-Dollar als YesStyle-Guthaben, wenn Sie den Zahlungsbeleg innerhalb von 30 Tagen einreichen. Die beim Bezahlen berechnete Mehrwertsteuer bei Bestellungen in die EU (ebenso die britische Mehrwertsteuer, die US-Sales-Tax und die australische GST) wird nicht erstattet.",
@@ -46574,7 +46961,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Die drei Produkte wurden von YesStyle an Em Casa com Cecília geschickt. Dieser Artikel dokumentiert die ersten Eindrücke von Cecília Mauad bei der ersten Anwendung, wie im Video gezeigt; Angaben zu Größe, Inhaltsstoffen und Anwendung stammen von den offiziellen Produktseiten bei YesStyle. Die Website erhält eine Provision über die Affiliate-Links und den Reward Code CECILIA010.",
+    "editorialNote": "Produkte von YesStyle; Provision über die Links und den Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-trend-koreanische-marken-kaufen",
@@ -46634,7 +47021,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Trent'anni: l'età del successo e l'età in cui si paga il pedaggio della bellezza",
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Mi è piaciuta la routine da principiante di Abib: il patch in idrogel è freschissimo, la crema al PDRN lascia un tocco vellutato e la maschera labbra ha un profumo dolce che non stanca. È solo il primo utilizzo, quindi non posso promettere risultati sulla pelle. Per l'acquisto vai al capitolo Dove comprare e come risparmiare con CECILIA010."
+        ]
+      },
+      {
+        "heading": "A 30 anni, la mia prima routine di skincare coreano",
         "paragraphs": [
           "Fin qui siamo state belle gratis. Io, che non avevo mai usato nemmeno la protezione solare, ho compiuto 30 anni e ho deciso di prendere la cosa sul serio: ho messo insieme la mia prima routine di skincare coreana.",
           "Ho ricevuto tre prodotti Abib inviati da YesStyle, un negozio online che vende cosmetici d'importazione. E parliamo di coreano vero, eh? Non “tipo coreano”, non “gusto coreano”.",
@@ -46751,7 +47144,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Il punto della skincare coreana è che i prodotti sono pensati per un uso a lungo termine. Ragazza mia, hai appena compiuto 30 anni: questo è solo l'inizio. Per il resto della vita dovrai avere una routine di cura della pelle.",
           "Nel video ho parlato di acido retinoico, ma il nome giusto dell'ingrediente dei patch e della crema è retinal (o retinaldeide). È un derivato della vitamina A, della stessa famiglia del retinolo, e la pelle lo trasforma in acido retinoico. L'azione è più graduale: per questo non mi metterò a squamarmi solo perché ho iniziato a usarlo.",
-          "Il PDRN è un ingrediente ricavato da frammenti di DNA, diventato una vera mania nei cosmetici coreani legati a rigenerazione e tonicità. Per la maschera labbra, Abib indica che il PDRN proviene da centella asiatica e ginkgo biloba."
+          "Il PDRN è un ingrediente ricavato da frammenti di DNA, diventato una vera mania nei cosmetici coreani; Abib lo usa in prodotti rivolti alla tonicità. Per la maschera labbra, Abib indica che il PDRN proviene da centella asiatica e ginkgo biloba."
         ],
         "bullets": [
           "Effetto graduale: non aspettarti cambiamenti il primo giorno né la prima settimana; il beneficio arriva con la costanza;",
@@ -46766,10 +47159,10 @@ export const reviewsData: unknown[] = [
           "L'ordine che ho seguito nel video sta in una sera qualsiasi, senza quella maratona di dieci passaggi che internet associa alla skincare coreana:"
         ],
         "bullets": [
-          "Passo 1 — Occhi: a viso pulito, metto i patch in idrogel sotto gli occhi;",
-          "Passo 2 — Viso e collo: mentre i patch agiscono, applico la Booster Crème picchiettando;",
-          "Passo 3 — Labbra: uno strato di lip mask con la spatolina;",
-          "Passo 4 — Togliere i patch: dopo 10-15 minuti, come indica la confezione;",
+          "Passo 1, occhi: a viso pulito, metto i patch in idrogel sotto gli occhi;",
+          "Passo 2, viso e collo: mentre i patch agiscono, applico la Booster Crème picchiettando;",
+          "Passo 3, labbra: uno strato di lip mask con la spatolina;",
+          "Passo 4, togliere i patch: dopo 10-15 minuti, come indica la confezione;",
           "Tempo totale: circa 15 minuti, quasi tutti di attesa con i patch sul viso."
         ]
       },
@@ -46782,7 +47175,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Coupon della settimana e regole di CECILIA010 su YesStyle",
+            "label": "Regole di CECILIA010 su YesStyle",
             "href": "/it/coupons/yesstyle"
           },
           {
@@ -46816,7 +47209,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Per quanto tempo tenere i patch in idrogel di Abib? La confezione indica di rimuoverli dopo 10-15 minuti. Non sono fatti per dormirci.",
-          "Cos'è il PDRN? È un ingrediente ricavato da frammenti di DNA, molto usato nei cosmetici coreani orientati a rigenerazione e tonicità. Per la lip mask di Abib, il marchio indica un'origine vegetale (centella asiatica e ginkgo biloba).",
+          "Cos'è il PDRN? È un ingrediente ricavato da frammenti di DNA, molto usato nei cosmetici coreani che, secondo i marchi, puntano alla tonicità. Per la lip mask di Abib, il marchio indica un'origine vegetale (centella asiatica e ginkgo biloba).",
           "Il retinal è la stessa cosa dell'acido retinoico? No. Il retinal è un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale e richiede la protezione solare durante il giorno.",
           "La lip mask di Abib ha un profumo forte? Ha un profumino dolce. Io sono sensibile ai profumi forti e questo non mi ha dato fastidio.",
           "YesStyle spedisce nel mio paese e cosa succede con i dazi doganali? YesStyle spedisce a livello internazionale; tempi e costi dipendono dal paese e la stima compare nel carrello. Per dazi e spese collegate, il negozio li rimborsa in credito YesStyle per gli ordini sotto i 1.000 USD, con la ricevuta di pagamento presentata entro 30 giorni. L'IVA addebitata al checkout sugli ordini verso l'UE non viene rimborsata.",
@@ -46832,7 +47225,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "I tre prodotti sono stati inviati da YesStyle a Em Casa com Cecília. Questo articolo raccoglie le prime impressioni di Cecília Mauad al primo utilizzo, mostrate nel video (in portoghese); i dati su formato, ingredienti e modo d'uso provengono dalle pagine ufficiali dei prodotti su YesStyle. Il sito riceve una commissione tramite i link di affiliazione e il Reward Code CECILIA010.",
+    "editorialNote": "Prodotti inviati da YesStyle; il sito riceve una commissione sui link e sul Reward Code CECILIA010.",
     "relatedArticles": [
       {
         "slug": "k-beauty-tendenza-bellezza-coreana",
@@ -46894,7 +47287,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "서른, 성공의 나이이자 ‘뷰티 세금’을 내기 시작하는 나이",
+        "heading": "답변 요약",
+        "paragraphs": [
+          "아비브 초보자 루틴이 마음에 들었어요. 하이드로겔 아이패치는 시원하고, PDRN 크림은 벨벳 같은 촉감이고, 립 마스크는 느끼하지 않은 달콤한 향이 나요. 아직 첫 사용이라 피부 결과는 장담할 수 없어요. 구매 정보는 ‘구매처와 CECILIA010으로 절약하는 법’에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "서른, 나의 첫 한국 스킨케어 루틴",
         "paragraphs": [
           "지금까지는 아무것도 안 하고도 그냥 예뻤잖아요. 선크림조차 안 바르던 저는 서른이 되자 이제 진지하게 해 보자고 마음먹었고, 생애 첫 한국 스킨케어 루틴을 짰어요.",
           "YesStyle(수입 화장품을 파는 온라인 스토어)에서 아비브(Abib) 제품 3가지를 보내 줬어요. 그리고 이건 진짜 한국에서 만든 한국 제품이에요. ‘한국풍’이 아니고요. K-뷰티를 잘 아는 분들께는 당연한 이야기겠지만, 브라질 사람인 저한테는 이 점이 꽤 중요했어요.",
@@ -47011,7 +47410,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "한국 스킨케어의 핵심은 제품이 장기간 쓰는 것을 전제로 만들어졌다는 점이에요. 자, 이제 막 서른이 됐잖아요. 이건 시작일 뿐이고, 앞으로 평생 피부 관리 루틴이 필요할 거예요.",
           "영상에서 저는 레티노산이라고 말했는데, 아이패치와 크림에 들어 있는 성분의 정확한 이름은 레티날(레티날데하이드)이에요. 비타민 A 유도체로 레티놀과 같은 계열이고, 피부에서 레티노산으로 바뀌어요. 작용이 더 점진적이라서 쓰자마자 각질이 일어나는 일은 없을 거예요.",
-          "PDRN은 DNA 조각으로 만든 성분으로, 재생과 탄력을 내세우는 한국 화장품에서 크게 유행하고 있어요. 립 마스크의 PDRN은 병풀(센텔라 아시아티카)과 은행나무에서 얻은 것이라고 아비브가 밝히고 있어요."
+          "PDRN은 DNA 조각으로 만든 성분으로, 한국 화장품에서 크게 유행하고 있어요. 아비브는 탄력을 겨냥한 제품에 써요. 립 마스크의 PDRN은 병풀(센텔라 아시아티카)과 은행나무에서 얻은 것이라고 아비브가 밝히고 있어요."
         ],
         "bullets": [
           "은은한 효과: 첫날이나 첫 주에 변화를 기대하지 마세요. 꾸준함이 있어야 효과가 나타나요;",
@@ -47042,7 +47441,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "이번 주 쿠폰과 YesStyle CECILIA010 이용 규칙",
+            "label": "YesStyle CECILIA010 이용 규칙",
             "href": "/ko/coupons/yesstyle"
           },
           {
@@ -47076,7 +47475,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "아비브 하이드로겔 아이패치는 얼마나 붙이나요? 포장에는 10~15분 뒤에 떼라고 안내되어 있어요. 붙인 채로 자면 안 돼요.",
-          "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 재생과 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크의 경우 브랜드는 식물 유래(병풀과 은행나무)라고 밝히고 있어요.",
+          "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 브랜드 설명에 따르면 탄력을 겨냥한 한국 화장품에 많이 쓰여요. 아비브 립 마스크의 경우 브랜드는 식물 유래(병풀과 은행나무)라고 밝히고 있어요.",
           "레티날과 레티노산은 같은 건가요? 아니에요. 레티날은 피부에서 레티노산으로 바뀌는 비타민 A 유도체예요. 그래서 작용이 더 점진적이고, 낮에는 선크림이 필요해요.",
           "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 진한 향에 민감한데 이 제품은 거슬리지 않았어요.",
           "YesStyle은 해외로 배송하나요? 관세는 어떻게 되나요? 네, 국제 배송을 해요. 배송 기간과 배송비는 국가마다 다르니 장바구니에서 예상 배송을 확인하세요. 관세와 수수료가 부과되면 US$ 1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)에 한해 YesStyle Credit으로 환불받을 수 있고, 결제 영수증과 함께 30일 이내에 신청해야 해요. 지역에 따라 결제 시 부과되는 세금(EU·영국 부가세, 미국 판매세, 호주·싱가포르 GST 등)은 환불 대상이 아니에요.",
@@ -47092,7 +47491,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "세 제품은 YesStyle이 Em Casa com Cecília에 보내 준 것이에요. 이 글은 세실리아 마우아드가 처음 사용했을 때의 첫인상을 영상에 담아 기록한 것이며, 용량, 성분, 사용법 정보는 YesStyle의 각 제품 공식 페이지를 참고했어요. 사이트는 제휴 링크와 Reward Code CECILIA010를 통해 수수료를 받아요.",
+    "editorialNote": "제품은 YesStyle이 보내 줬고, 사이트는 링크와 Reward Code CECILIA010로 수수료를 받아요.",
     "relatedArticles": [
       {
         "slug": "yesstyle-kbeauty-guide-ko",
@@ -47152,7 +47551,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "30歳、成功の年齢であり、「美容の通行料」を払い始める年齢",
+        "heading": "まずは結論",
+        "paragraphs": [
+          "アビブの初心者向けルーティンが気に入りました。アイパッチはひんやり、PDRNクリームはベルベットのような肌触りで、リップマスクは甘くてくどくない香りです。まだ初回の使用なので、肌の結果は約束できません。購入については「購入先とCECILIA010でお得にする方法」をご覧ください。"
+        ]
+      },
+      {
+        "heading": "30歳、私の初めての韓国スキンケアルーティン",
         "paragraphs": [
           "これまでは何もしなくても、なんとなくきれいでいられました。日焼け止めすら塗ったことがなかった私も30歳になり、そろそろ真剣に向き合おうと決めて、人生初の韓国スキンケアのルーティンを組んでみました。",
           "YesStyle（輸入コスメを扱うオンラインストア）から、アビブ（Abib）の商品を3つ送っていただきました。そしてこれは、正真正銘、韓国で作られた韓国の製品です。「韓国風」ではありませんよ。K-Beautyに詳しい方には当たり前のことかもしれませんが、ブラジル人の私にとっては、そこが大事なポイントでした。",
@@ -47269,7 +47674,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "韓国スキンケアの大きなポイントは、製品が長く使うことを前提に作られていることです。ねえ、30歳になったばかりですよ。これはまだ始まりにすぎなくて、これから一生、肌のお手入れのルーティンが必要になります。",
           "動画では私は「レチノイン酸」と言ってしまいましたが、アイパッチとクリームに入っている成分の正しい名前はレチナール（レチンアルデヒド）です。ビタミンA誘導体でレチノールと同じ仲間で、肌の中でレチノイン酸に変わります。作用はよりゆるやかなので、使い始めたからといって、皮がむけてしまうようなことはありません。",
-          "PDRNはDNAの断片から作られた成分で、再生やハリをうたう韓国コスメで大ブームになっています。リップマスクのPDRNは、ツボクサ（センテラ・アジアティカ）とイチョウ由来だと、アビブは説明しています。"
+          "PDRNはDNAの断片から作られた成分で、韓国コスメで大ブームになっています。アビブはハリを狙った製品に使っています。リップマスクのPDRNは、ツボクサ（センテラ・アジアティカ）とイチョウ由来だと、アビブは説明しています。"
         ],
         "bullets": [
           "ゆるやかな効果：初日や最初の1週間で変化を期待しないでください。続けることで効果が出てきます；",
@@ -47300,7 +47705,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "今週のクーポンとYesStyleのCECILIA010の利用ルール",
+            "label": "YesStyleのCECILIA010の利用ルール",
             "href": "/ja/coupons/yesstyle"
           },
           {
@@ -47334,7 +47739,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "アビブのハイドロゲルアイパッチは、どのくらい貼っておけばいいですか？ パッケージには10〜15分後にはがすよう書かれています。付けたまま寝ないでください。",
-          "PDRNとは何ですか？ DNAの断片から作られた成分で、再生やハリをうたう韓国コスメに多く使われています。アビブのリップマスクについては、ブランドが植物由来（ツボクサとイチョウ）だと説明しています。",
+          "PDRNとは何ですか？ DNAの断片から作られた成分で、ブランドによればハリを狙った韓国コスメに多く使われています。 アビブのリップマスクについては、ブランドが植物由来（ツボクサとイチョウ）だと説明しています。",
           "レチナールとレチノイン酸は同じものですか？ いいえ。レチナールは、肌の中でレチノイン酸に変わるビタミンA誘導体です。そのため作用がよりゆるやかで、日中は日焼け止めが必要です。",
           "アビブのリップマスクは香りが強いですか？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
           "YesStyleは海外に発送してくれますか？ 関税はどうなりますか？ はい、国際配送を行っています。届くまでの日数や送料は国によって異なるので、カートで配送の目安を確認してください。関税や手数料が請求された場合は、US$ 1,000未満の注文（クーポン適用前の金額、送料を除く）に限り、YesStyle Creditで返金を受けられます。支払いの領収書を添えて30日以内に申請する必要があります。地域によってチェックアウト時に課される税金（EU・英国のVAT、米国のセールスタックス、オーストラリア・シンガポールのGSTなど）は対象外です。",
@@ -47350,7 +47755,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "3つの商品は、YesStyleからEm Casa com Cecíliaに提供されたものです。この記事は、セシリア・マウアドが初めて使ったときのファーストインプレッションを、動画で見せた内容に基づいて記録したものです。容量、成分、使い方の情報は、YesStyleの各商品の公式ページによります。当サイトは、アフィリエイトリンクとRewardコードCECILIA010を通じて報酬を受け取ります。",
+    "editorialNote": "商品はYesStyleから提供。当サイトはリンクとRewardコードCECILIA010で報酬を受け取ります。",
     "relatedArticles": [
       {
         "slug": "yesstyle-kbeauty-guide-ja",
@@ -47382,7 +47787,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "我連防曬都沒擦過，30 歲這年試了一套韓國護膚流程：YesStyle 寄來的三款 Abib 產品——水凝膠眼膜貼、含 PDRN 與視黃醛的精華面霜，以及凝膠護唇膜。",
+    "description": "我連防曬都沒擦過，30 歲這年試了一套韓國護膚流程：YesStyle 寄來的三款 Abib 產品：水凝膠眼膜貼、含 PDRN 與視黃醛的精華面霜，以及凝膠護唇膜。",
     "metaDescription": "30歲韓國護膚新手入門：實測 Abib 眼膜貼、PDRN 面霜與護唇膜的質地、香味與用法，並附 YesStyle 折扣碼 CECILIA010 使用方式。",
     "publishedAt": "2026年9月28日",
     "publishedAtISO": "2026-09-28",
@@ -47403,17 +47808,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "PDRN 與視黃醛作用溫和緩慢：第一週別期待看得到明顯差別",
-      "視黃醛白天需要搭配防曬——像我這種從來沒擦過防曬的人，得從頭養成習慣",
+      "視黃醛白天需要搭配防曬，像我這種從來沒擦過防曬的人，得從頭養成習慣",
       "第一次使用時，我搞不清楚眼膜貼到底哪一面朝上",
       "屬於跨境購物，到貨時間比本地商店來得長"
     ],
     "contentSections": [
       {
-        "heading": "三十歲：而立之年，也是該為美麗買單的年紀",
+        "heading": "快速解答",
+        "paragraphs": [
+          "Abib 的新手流程我很喜歡：水凝膠眼膜貼冰涼，PDRN 面霜抹開像絲絨，護唇膜有甜甜卻不膩的香味。這只是第一次使用，護膚成果我不敢保證。購買資訊見「哪裡買，以及怎麼用 CECILIA010 省錢」一章。"
+        ]
+      },
+      {
+        "heading": "30 歲，我的第一套韓國護膚流程",
         "paragraphs": [
           "到目前為止，我們都是靠老天爺賞飯吃，白白漂亮了這麼多年。而我，連防曬都沒擦過，一轉眼就滿 30 歲了，決定認真面對這件事：建立我人生第一套韓國護膚流程。",
           "YesStyle 寄了三款 Abib 產品給我。YesStyle 是一家販售進口美妝的網購平台。而且是真正來自韓國的喔，不是「韓系風格」，也不是「韓國口味」。",
-          "這篇文章記錄的是我第一次接觸這三款產品的過程，影片（葡萄牙語）裡也拍下來了：怎麼貼、質地如何、香味怎樣，還有撕下眼膜貼時的感覺。護膚成果不可能第一天就打包票——接下來幾週我會持續使用，再回來跟大家報告有什麼變化。"
+          "這篇文章記錄的是我第一次接觸這三款產品的過程，影片（葡萄牙語）裡也拍下來了：怎麼貼、質地如何、香味怎樣，還有撕下眼膜貼時的感覺。護膚成果不可能第一天就打包票，接下來幾週我會持續使用，再回來跟大家報告有什麼變化。"
         ]
       },
       {
@@ -47459,9 +47870,9 @@ export const reviewsData: unknown[] = [
         "heading": "水凝膠眼膜貼：冰冰涼涼的（而且我貼反了）",
         "paragraphs": [
           "第一次接觸的感覺最棒：眼膜貼是冰涼的。它裝在一個罐子裡，一罐 60 片，品牌表示表面的紋路有助於防止滑落。",
-          "老實說，我第一片就貼錯了。翻過來、翻回去，換個方向覺得好像比較服貼——但坦白講，我感覺不出兩面有什麼差別。如果你也是第一次用，別擔心：重點是要貼得平整服貼，位置在眼睛下方，不要碰到眼睛。",
+          "老實說，我第一片就貼錯了。翻過來、翻回去，換個方向覺得好像比較服貼，但坦白講，我感覺不出兩面有什麼差別。如果你也是第一次用，別擔心：重點是要貼得平整服貼，位置在眼睛下方，不要碰到眼睛。",
           "隨著時間過去，眼膜貼會越來越薄，彷彿慢慢消失。這並不代表皮膚把整片水凝膠都吸收掉了；而是凝膠貼在那裡、密封著、不會蒸發，同時把裡面的成分釋放出來。",
-          "包裝上寫著要在 10 至 15 分鐘後取下。影片裡我貼了大約 20 分鐘，因為當時正在做其他保養步驟——你還是照標示的時間來。另外，不要戴著它睡覺。"
+          "包裝上寫著要在 10 至 15 分鐘後取下。影片裡我貼了大約 20 分鐘，因為當時正在做其他保養步驟，你還是照標示的時間來。另外，不要戴著它睡覺。"
         ],
         "bullets": [
           "取下後：皮膚摸起來很清爽，還清楚看得出眼膜貼原本貼過的形狀；",
@@ -47485,7 +47896,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "眼膜貼在發揮作用的同時，我塗上了面霜。它從軟管擠出來是軟膏般的質地：一抹上去，就感覺它在皮膚上滑開。",
           "接下來是我最喜歡的部分：推開之後，皮膚摸起來有種絲絨般的觸感，好像瞬間變成天鵝絨。而且真的非常好推開。",
-          "在配方方面，Abib 主打 PDRN 與 Volufiline（一種用來營造豐盈感的成分），另外還有視黃醛、胜肽、菸鹼醯胺與咖啡因。這款面霜是針對緊緻與細紋設計的——也就是說，是一場長期抗戰。"
+          "在配方方面，Abib 主打 PDRN 與 Volufiline（一種用來營造豐盈感的成分），另外還有視黃醛、胜肽、菸鹼醯胺與咖啡因。這款面霜是針對緊緻與細紋設計的，也就是說，是一場長期抗戰。"
         ],
         "bullets": [
           "塗抹位置：臉部與頸部，依品牌建議以輕拍方式幫助吸收；"
@@ -47525,8 +47936,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN 與視黃醛不神秘：為什麼效果是溫和的",
         "paragraphs": [
           "韓國護膚的重點在於，這些產品都是為了長期使用而設計的。我說親愛的，你才剛滿 30 歲：這只是個開始。往後的人生，你都得好好照顧自己的皮膚了。",
-          "影片裡我說成了視黃酸，但眼膜貼與面霜裡正確的成分名稱是視黃醛（retinal，又稱 retinaldehyde）。它是維他命 A 的衍生物，跟視黃醇同屬一個家族，皮膚會把它轉化成視黃酸。它的作用比較循序漸進——所以我不會才剛開始用就脫皮。",
-          "PDRN 是一種由 DNA 片段製成的成分，在韓國化妝品中因與修護和緊緻相關而大為流行。至於護唇膜，Abib 表示其中的 PDRN 來自積雪草和銀杏。"
+          "影片裡我說成了視黃酸，但眼膜貼與面霜裡正確的成分名稱是視黃醛（retinal，又稱 retinaldehyde）。它是維他命 A 的衍生物，跟視黃醇同屬一個家族，皮膚會把它轉化成視黃酸。它的作用比較循序漸進，所以我不會才剛開始用就脫皮。",
+          "PDRN 是一種由 DNA 片段製成的成分，在韓國化妝品中大為流行；Abib 把它用在主打緊緻的產品裡。至於護唇膜，Abib 表示其中的 PDRN 來自積雪草和銀杏。"
         ],
         "bullets": [
           "效果溫和：別期待第一天、甚至第一週就有變化；好處來自持之以恆；",
@@ -47541,10 +47952,10 @@ export const reviewsData: unknown[] = [
           "我在影片裡的順序，一個普通的夜晚就做得完，完全不用經歷網路上常把韓國護膚跟十道步驟畫上等號的那種馬拉松："
         ],
         "bullets": [
-          "步驟 1——眼周：臉洗乾淨後，把水凝膠眼膜貼貼在眼睛下方；",
-          "步驟 2——臉部與頸部：趁眼膜貼發揮作用的時候，用輕拍的方式塗上 Booster Crème；",
-          "步驟 3——嘴唇：用刮棒取一層護唇膜塗上；",
-          "步驟 4——取下眼膜貼：依包裝指示，10 至 15 分鐘後取下；",
+          "步驟 1，眼周：臉洗乾淨後，把水凝膠眼膜貼貼在眼睛下方；",
+          "步驟 2，臉部與頸部：趁眼膜貼發揮作用的時候，用輕拍的方式塗上 Booster Crème；",
+          "步驟 3，嘴唇：用刮棒取一層護唇膜塗上；",
+          "步驟 4，取下眼膜貼：依包裝指示，10 至 15 分鐘後取下；",
           "總時間：大約 15 分鐘，大部分時間只是貼著眼膜貼在等。"
         ]
       },
@@ -47552,12 +47963,12 @@ export const reviewsData: unknown[] = [
         "heading": "哪裡買，以及怎麼用 CECILIA010 省錢",
         "paragraphs": [
           "這三款產品都在 YesStyle 販售。YesStyle 提供國際配送，送達時間與運費會依你所在的國家或地區而定，請在購物車中查看預估。",
-          "結帳時，請在「Reward Code」欄位輸入 CECILIA010：首次購買可享 5% 折扣，之後每次購買可享 2%。促銷優惠券則要填在另一個欄位「Coupon Code」——而且可以和 CECILIA010 疊加使用，連只寄給你帳戶的專屬優惠券也一樣。",
+          "結帳時，請在「Reward Code」欄位輸入 CECILIA010：首次購買可享 5% 折扣，之後每次購買可享 2%。促銷優惠券則要填在另一個欄位「Coupon Code」，而且可以和 CECILIA010 疊加使用，連只寄給你帳戶的專屬優惠券也一樣。",
           "關於稅費：YesStyle 會以 YesStyle Credit 的形式，退還海關關稅及費用，適用於金額低於 US$1,000 的訂單（以優惠券折扣前的金額計算，不含運費）。如果收貨時被收取相關費用，請先繳付、保留付款收據，並在 30 天內連同收據向 YesStyle 提出申請。結帳時已收取的稅項（例如歐盟 VAT、英國 VAT、美國銷售稅、澳洲 GST、新加坡 GST）則不在退款範圍內。"
         ],
         "links": [
           {
-            "label": "本週優惠與 YesStyle CECILIA010 使用規則",
+            "label": "YesStyle CECILIA010 使用規則",
             "href": "/zh-hant/coupons/yesstyle"
           },
           {
@@ -47578,7 +47989,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "接下來幾週我會持續觀察的事",
         "paragraphs": [
-          "這是第一次使用的記錄。我會繼續這套流程，之後再回來告訴大家到底有什麼真正的改變——還有什麼沒有改變。"
+          "這是第一次使用的記錄。我會繼續這套流程，之後再回來告訴大家到底有什麼真正的改變，還有什麼沒有改變。"
         ],
         "bullets": [
           "黑眼圈與眼下的倦容；",
@@ -47591,7 +48002,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Abib 水凝膠眼膜貼要貼多久？ 包裝建議 10 至 15 分鐘後取下。不要戴著它睡覺。",
-          "PDRN 是什麼？ 是一種由 DNA 片段製成的成分，常見於主打修護與緊緻的韓國化妝品。在 Abib 護唇膜中，品牌標示其來源為植物（積雪草與銀杏）。",
+          "PDRN 是什麼？ 是一種由 DNA 片段製成的成分，據品牌介紹，常見於主打緊緻的韓國化妝品。 在 Abib 護唇膜中，品牌標示其來源為植物（積雪草與銀杏）。",
           "視黃醛跟視黃酸是同一種東西嗎？ 不是。視黃醛是維他命 A 的衍生物，皮膚會將它轉化成視黃酸。因此它的作用比較循序漸進，而且白天需要擦防曬。",
           "Abib 護唇膜的味道很重嗎？ 帶有甜甜的香味。我對濃烈的味道很敏感，而這款並沒有困擾到我。",
           "YesStyle 可以寄到我所在的地區嗎？海關稅費怎麼算？ YesStyle 提供國際配送，送達時間與運費依國家或地區而異，請在購物車中查看預估。至於海關關稅及費用，金額低於 US$1,000（優惠券折扣前、不含運費）的訂單可申請以 YesStyle Credit 退款，需在 30 天內附上付款收據提出申請；結帳時已收取的稅項（例如歐盟 VAT、英國 VAT、美國銷售稅、澳洲 GST、新加坡 GST）不在此列。",
@@ -47607,7 +48018,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "這三款產品由 YesStyle 寄送給 Em Casa com Cecília。本文記錄的是 Cecília Mauad 第一次使用時的初步印象，並已呈現在影片中；容量、成分與使用方式等資料取自各產品在 YesStyle 的官方頁面。本站透過聯盟連結與 Reward Code CECILIA010 獲得佣金。",
+    "editorialNote": "產品由 YesStyle 寄送；本站透過連結與 Reward Code CECILIA010 獲得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-kbeauty-guide-zh-hant",
@@ -47640,7 +48051,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "我连防晒都没涂过，30 岁这年试了一套韩国护肤流程：YesStyle 寄来的三款 Abib 产品——水凝胶眼膜贴、含 PDRN 与视黄醛的精华面霜，以及凝胶唇膜。",
+    "description": "我连防晒都没涂过，30 岁这年试了一套韩国护肤流程：YesStyle 寄来的三款 Abib 产品：水凝胶眼膜贴、含 PDRN 与视黄醛的精华面霜，以及凝胶唇膜。",
     "metaDescription": "30岁韩国护肤新手入门：实测 Abib 眼膜贴、PDRN 面霜和唇膜的质地、气味与用法，并附 YesStyle 折扣码 CECILIA010 使用方式。",
     "publishedAt": "2026年9月28日",
     "publishedAtISO": "2026-09-28",
@@ -47661,17 +48072,23 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "PDRN 和视黄醛作用温和缓慢：第一周别指望看到明显差别",
-      "视黄醛白天需要搭配防晒——像我这种从来没涂过防晒的人，得从头养成习惯",
+      "视黄醛白天需要搭配防晒，像我这种从来没涂过防晒的人，得从头养成习惯",
       "第一次使用时，我搞不清楚眼膜贴到底哪一面朝上",
       "属于跨境购物，到货时间比本地商店要长"
     ],
     "contentSections": [
       {
-        "heading": "三十岁：而立之年，也是该为美丽买单的年纪",
+        "heading": "快速解答",
+        "paragraphs": [
+          "Abib 的新手流程我很喜欢：水凝胶眼膜贴冰凉，PDRN 面霜抹开像丝绒，唇膜有甜甜却不腻的香味。这只是第一次使用，护肤效果我不敢保证。购买信息见“哪里买，以及怎么用 CECILIA010 省钱”一章。"
+        ]
+      },
+      {
+        "heading": "30 岁，我的第一套韩国护肤流程",
         "paragraphs": [
           "到目前为止，我们都是靠老天爷赏饭吃，白白漂亮了这么多年。而我，连防晒都没涂过，一转眼就满 30 岁了，决定认真对待这件事：建立我人生第一套韩国护肤流程。",
           "YesStyle 寄了三款 Abib 产品给我。YesStyle 是一家销售进口美妆的网购平台。而且是真正来自韩国的哦，不是“韩系风格”，也不是“韩国口味”。",
-          "这篇文章记录的是我第一次接触这三款产品的过程，视频（葡萄牙语）里也拍下来了：怎么贴、质地如何、气味怎样，还有撕下眼膜贴时的感觉。护肤效果不可能第一天就打包票——接下来几周我会持续使用，再回来跟大家汇报有什么变化。"
+          "这篇文章记录的是我第一次接触这三款产品的过程，视频（葡萄牙语）里也拍下来了：怎么贴、质地如何、气味怎样，还有撕下眼膜贴时的感觉。护肤效果不可能第一天就打包票，接下来几周我会持续使用，再回来跟大家汇报有什么变化。"
         ]
       },
       {
@@ -47717,9 +48134,9 @@ export const reviewsData: unknown[] = [
         "heading": "水凝胶眼膜贴：冰冰凉凉的（而且我贴反了）",
         "paragraphs": [
           "第一次接触的感觉最棒：眼膜贴是冰凉的。它装在一个罐子里，一罐 60 片，品牌表示表面的纹路有助于防止滑落。",
-          "老实说，我第一片就贴错了。翻过来、翻回去，换个方向觉得好像更服帖——但坦白讲，我感觉不出两面有什么差别。如果你也是第一次用，别担心：重点是要贴得平整服帖，位置在眼睛下方，不要碰到眼睛。",
+          "老实说，我第一片就贴错了。翻过来、翻回去，换个方向觉得好像更服帖，但坦白讲，我感觉不出两面有什么差别。如果你也是第一次用，别担心：重点是要贴得平整服帖，位置在眼睛下方，不要碰到眼睛。",
           "随着时间推移，眼膜贴会越来越薄，仿佛慢慢消失。这并不代表皮肤把整片水凝胶都吸收掉了；而是凝胶贴在那里、密封着、不会蒸发，同时把里面的成分释放出来。",
-          "包装上写着要在 10 至 15 分钟后取下。视频里我贴了大约 20 分钟，因为当时正在做其他护肤步骤——你还是按标示的时间来。另外，不要戴着它睡觉。"
+          "包装上写着要在 10 至 15 分钟后取下。视频里我贴了大约 20 分钟，因为当时正在做其他护肤步骤，你还是按标示的时间来。另外，不要戴着它睡觉。"
         ],
         "bullets": [
           "取下后：皮肤摸起来很清爽，还能清楚看出眼膜贴原本贴过的形状；",
@@ -47743,7 +48160,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "眼膜贴在发挥作用的同时，我涂上了面霜。它从软管挤出来是软膏般的质地：一抹上去，就感觉它在皮肤上滑开。",
           "接下来是我最喜欢的部分：推开之后，皮肤摸起来有种丝绒般的触感，好像瞬间变成天鹅绒。而且真的非常好推开。",
-          "在配方方面，Abib 主打 PDRN 和 Volufiline（一种用来营造丰盈感的成分），另外还有视黄醛、肽类、烟酰胺和咖啡因。这款面霜是针对紧致和细纹设计的——也就是说，是一场长期抗战。"
+          "在配方方面，Abib 主打 PDRN 和 Volufiline（一种用来营造丰盈感的成分），另外还有视黄醛、肽类、烟酰胺和咖啡因。这款面霜是针对紧致和细纹设计的，也就是说，是一场长期抗战。"
         ],
         "bullets": [
           "涂抹位置：脸部和颈部，按品牌建议以轻拍方式帮助吸收；"
@@ -47783,8 +48200,8 @@ export const reviewsData: unknown[] = [
         "heading": "PDRN 和视黄醛不神秘：为什么效果是温和的",
         "paragraphs": [
           "韩国护肤的重点在于，这些产品都是为长期使用而设计的。我说姐妹，你才刚满 30 岁：这只是个开始。往后的人生，你都得好好照顾自己的皮肤了。",
-          "视频里我说成了视黄酸，但眼膜贴和面霜里正确的成分名称是视黄醛（retinal，又称 retinaldehyde）。它是维生素 A 的衍生物，跟视黄醇同属一个家族，皮肤会把它转化成视黄酸。它的作用比较循序渐进——所以我不会刚开始用就脱皮。",
-          "PDRN 是一种由 DNA 片段制成的成分，在韩国化妆品中因与修护和紧致相关而大为流行。至于唇膜，Abib 表示其中的 PDRN 来自积雪草和银杏。"
+          "视频里我说成了视黄酸，但眼膜贴和面霜里正确的成分名称是视黄醛（retinal，又称 retinaldehyde）。它是维生素 A 的衍生物，跟视黄醇同属一个家族，皮肤会把它转化成视黄酸。它的作用比较循序渐进，所以我不会刚开始用就脱皮。",
+          "PDRN 是一种由 DNA 片段制成的成分，在韩国化妆品中大为流行；Abib 把它用在主打紧致的产品里。至于唇膜，Abib 表示其中的 PDRN 来自积雪草和银杏。"
         ],
         "bullets": [
           "效果温和：别指望第一天、甚至第一周就有变化；好处来自持之以恒；",
@@ -47799,10 +48216,10 @@ export const reviewsData: unknown[] = [
           "我在视频里的顺序，一个普通的夜晚就做得完，完全不用经历网上常把韩国护肤跟十道步骤画上等号的那种马拉松："
         ],
         "bullets": [
-          "步骤 1——眼周：脸洗干净后，把水凝胶眼膜贴贴在眼睛下方；",
-          "步骤 2——脸部和颈部：趁眼膜贴发挥作用的时候，用轻拍的方式涂上 Booster Crème；",
-          "步骤 3——嘴唇：用刮棒取一层唇膜涂上；",
-          "步骤 4——取下眼膜贴：按包装说明，10 至 15 分钟后取下；",
+          "步骤 1，眼周：脸洗干净后，把水凝胶眼膜贴贴在眼睛下方；",
+          "步骤 2，脸部和颈部：趁眼膜贴发挥作用的时候，用轻拍的方式涂上 Booster Crème；",
+          "步骤 3，嘴唇：用刮棒取一层唇膜涂上；",
+          "步骤 4，取下眼膜贴：按包装说明，10 至 15 分钟后取下；",
           "总时间：大约 15 分钟，大部分时间只是贴着眼膜贴在等。"
         ]
       },
@@ -47810,12 +48227,12 @@ export const reviewsData: unknown[] = [
         "heading": "哪里买，以及怎么用 CECILIA010 省钱",
         "paragraphs": [
           "这三款产品都在 YesStyle 销售。YesStyle 提供国际配送，送达时间和运费会因你所在的国家或地区而不同，请在购物车中查看预估。",
-          "结账时，请在“Reward Code”栏位输入 CECILIA010：首次购买可享 5% 折扣，之后每次购买可享 2%。促销优惠券则要填在另一个栏位“Coupon Code”——而且可以和 CECILIA010 叠加使用，连只发给你账户的专属优惠券也一样。",
+          "结账时，请在“Reward Code”栏位输入 CECILIA010：首次购买可享 5% 折扣，之后每次购买可享 2%。促销优惠券则要填在另一个栏位“Coupon Code”，而且可以和 CECILIA010 叠加使用，连只发给你账户的专属优惠券也一样。",
           "关于税费：YesStyle 会以 YesStyle Credit 的形式，退还海关关税及费用，适用于金额低于 US$1,000 的订单（以优惠券折扣前的金额计算，不含运费）。如果收货时被收取相关费用，请先缴付、保留付款收据，并在 30 天内连同收据向 YesStyle 提出申请。结账时已收取的税项（例如欧盟 VAT、英国 VAT、美国销售税、澳大利亚 GST、新加坡 GST）则不在退款范围内。"
         ],
         "links": [
           {
-            "label": "本周优惠和 YesStyle CECILIA010 使用规则",
+            "label": "YesStyle CECILIA010 使用规则",
             "href": "/zh-hans/coupons/yesstyle"
           },
           {
@@ -47836,7 +48253,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "接下来几周我会持续观察的事",
         "paragraphs": [
-          "这是第一次使用的记录。我会继续这套流程，之后再回来告诉大家到底有什么真正的改变——还有什么没有改变。"
+          "这是第一次使用的记录。我会继续这套流程，之后再回来告诉大家到底有什么真正的改变，还有什么没有改变。"
         ],
         "bullets": [
           "黑眼圈和眼下的倦容；",
@@ -47849,7 +48266,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Abib 水凝胶眼膜贴要贴多久？ 包装建议 10 至 15 分钟后取下。不要戴着它睡觉。",
-          "PDRN 是什么？ 是一种由 DNA 片段制成的成分，常见于主打修护和紧致的韩国化妆品。在 Abib 唇膜中，品牌标示其来源为植物（积雪草和银杏）。",
+          "PDRN 是什么？ 是一种由 DNA 片段制成的成分，据品牌介绍，常见于主打紧致的韩国化妆品。 在 Abib 唇膜中，品牌标示其来源为植物（积雪草和银杏）。",
           "视黄醛跟视黄酸是同一种东西吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会将它转化成视黄酸。因此它的作用比较循序渐进，而且白天需要涂防晒。",
           "Abib 唇膜的味道很重吗？ 带有甜甜的香味。我对浓烈的味道很敏感，而这款并没有困扰到我。",
           "YesStyle 可以寄到我所在的地区吗？海关税费怎么算？ YesStyle 提供国际配送，送达时间和运费因国家或地区而异，请在购物车中查看预估。至于海关关税及费用，金额低于 US$1,000（优惠券折扣前、不含运费）的订单可申请以 YesStyle Credit 退款，需在 30 天内附上付款收据提出申请；结账时已收取的税项（例如欧盟 VAT、英国 VAT、美国销售税、澳大利亚 GST、新加坡 GST）不在此列。",
@@ -47865,7 +48282,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "这三款产品由 YesStyle 寄送给 Em Casa com Cecília。本文记录的是 Cecília Mauad 第一次使用时的初步印象，并已呈现在视频中；容量、成分和使用方式等数据取自各产品在 YesStyle 的官方页面。本站通过联盟链接和 Reward Code CECILIA010 获得佣金。",
+    "editorialNote": "产品由 YesStyle 寄送；本站通过链接和 Reward Code CECILIA010 获得佣金。",
     "relatedArticles": [
       {
         "slug": "yesstyle-kbeauty-guide-zh-hans",
@@ -47915,6 +48332,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "CECILIA010 è un codice ricompensa di YesStyle che aggiunge fino al 5% extra: 5% sul primo ordine e 2% sui successivi. Va nella casella Reward Code, separata da quella del coupon, e si somma ai coupon idonei. Conta usare bene ogni casella; vedi il capitolo Come usare il codice CECILIA010 su YesStyle: passo dopo passo."
+        ]
+      },
+      {
         "heading": "Come funziona il codice CECILIA010",
         "paragraphs": [
           "A differenza dei classici codici coupon, che applicano uno sconto diretto in modo esclusivo, il codice CECILIA010 su YesStyle funziona come un “Reward Code” (codice ricompensa).",
@@ -47930,37 +48353,6 @@ export const reviewsData: unknown[] = [
           "Validità: codice attivo del programma influencer (verificato regolarmente)"
         ],
         "emphasis": "Il parere di Cecilia: il codice CECILIA010 non cancella i coupon promozionali idonei di YesStyle: aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) ai coupon idonei!"
-      },
-      {
-        "heading": "Cos'è YesStyle?",
-        "paragraphs": [
-          "YesStyle è uno dei più grandi negozi online specializzati in moda asiatica, cosmetici coreani (K-Beauty), bellezza giapponese (J-Beauty) e accessori. Fondato nel 2006 e con sede a Hong Kong, si è affermato come punto di riferimento per l'acquisto di prodotti autentici di origine asiatica.",
-          "YesStyle spedisce in più di 150 paesi e regioni e offre la conversione delle valute per semplificarti gli acquisti. Il catalogo è impressionante: migliaia di referenze di skincare coreana, make-up, abbigliamento di tendenza e articoli per il benessere."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
-        "imageAlt": "Home page di YesStyle con banner dedicato alla skincare K-beauty.",
-        "imageCaption": "YesStyle riunisce offerte promozionali, K-beauty autentica e spedizioni internazionali.",
-        "bullets": [
-          "K-Beauty: sieri effetto glass skin, essenze, lozioni e trattamenti per la celebre routine di bellezza asiatica",
-          "Moda asiatica: abbigliamento, scarpe, borse e accessori ispirati allo streetwear di Seoul e Tokyo",
-          "J-Beauty e benessere: marchi giapponesi affermati (come Hada Labo) e integratori alimentari"
-        ]
-      },
-      {
-        "heading": "La K-Beauty: il fenomeno globale della cura della pelle",
-        "paragraphs": [
-          "I cosmetici coreani (K-beauty) hanno trasformato l'industria cosmetica internazionale. Quella che era partita come una tendenza di nicchia oggi fa parte delle routine quotidiane in tutto il mondo.",
-          "L'obiettivo è la “glass skin” (un incarnato luminoso, idratato e senza imperfezioni). Ingredienti di punta come Centella Asiatica, Niacinamide e Bava di lumaca (Snail Mucin) hanno un ruolo da protagonisti. YesStyle è uno dei canali più affidabili per procurarsi questi prodotti direttamente da fonti ufficiali."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Categorie regionali di bellezza sul sito YesStyle.",
-        "imageCaption": "Oltre alla K-beauty, YesStyle offre prodotti J-beauty e di bellezza asiatica in generale.",
-        "bullets": [
-          "Glass skin: una pelle idratata in profondità, luminosa e uniforme",
-          "Routine coreana: incentrata su doppia detersione, tonici idratanti ed essenze nutrienti",
-          "Ingredienti di punta: centella asiatica, bava di lumaca, propoli e acido ialuronico"
-        ],
-        "emphasis": "Il parere di Cecilia: passare da YesStyle è un'ottima opzione per comprare cosmetici coreani originali, perché si riforniscono direttamente dai marchi e hanno una scelta enorme."
       },
       {
         "heading": "Codice ricompensa e codice coupon: la differenza fondamentale",
@@ -48023,9 +48415,9 @@ export const reviewsData: unknown[] = [
           "Sommare gli sconti (stacking) significa compilare le due zone principali della schermata di pagamento: il campo del codice ricompensa e il campo del coupon. Per sicurezza, applica sempre CECILIA010 nel campo del codice ricompensa e il coupon promozionale nel campo del coupon."
         ],
         "bullets": [
-          "Passo 1 — Codice ricompensa: applica CECILIA010 nella casella Reward Code per attivare lo sconto fino al 5% extra (5% sul 1º ordine / 2% sui successivi).",
-          "Passo 2 — Coupon attivo: applica i coupon promozionali idonei del sito nella casella Coupon Code.",
-          "Passo 3 — Verifica finale: prima di procedere al pagamento, controlla che lo sconto fino al 5% extra di CECILIA010 e la riduzione del coupon idoneo compaiano separatamente nel riepilogo."
+          "Passo 1 (Codice ricompensa): applica CECILIA010 nella casella Reward Code per attivare lo sconto fino al 5% extra (5% sul 1º ordine / 2% sui successivi).",
+          "Passo 2 (Coupon attivo): applica i coupon promozionali idonei del sito nella casella Coupon Code.",
+          "Passo 3 (Verifica finale): prima di procedere al pagamento, controlla che lo sconto fino al 5% extra di CECILIA010 e la riduzione del coupon idoneo compaiano separatamente nel riepilogo."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Riepilogo degli sconti nella schermata di pagamento di YesStyle.",
@@ -48047,6 +48439,37 @@ export const reviewsData: unknown[] = [
           "Friend Rewards: invita gli amici per accumulare crediti d'acquisto",
           "Student Program: offerte dedicate agli studenti"
         ]
+      },
+      {
+        "heading": "Cos'è YesStyle?",
+        "paragraphs": [
+          "YesStyle è uno dei più grandi negozi online specializzati in moda asiatica, cosmetici coreani (K-Beauty), bellezza giapponese (J-Beauty) e accessori. Fondato nel 2006 e con sede a Hong Kong, si è affermato come punto di riferimento per l'acquisto di prodotti autentici di origine asiatica.",
+          "YesStyle spedisce in più di 150 paesi e regioni e offre la conversione delle valute per semplificarti gli acquisti. Il catalogo è impressionante: migliaia di referenze di skincare coreana, make-up, abbigliamento di tendenza e articoli per il benessere."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Home page di YesStyle con banner dedicato alla skincare K-beauty.",
+        "imageCaption": "YesStyle riunisce offerte promozionali, K-beauty autentica e spedizioni internazionali.",
+        "bullets": [
+          "K-Beauty: sieri effetto glass skin, essenze, lozioni e trattamenti per la celebre routine di bellezza asiatica",
+          "Moda asiatica: abbigliamento, scarpe, borse e accessori ispirati allo streetwear di Seoul e Tokyo",
+          "J-Beauty e benessere: marchi giapponesi affermati (come Hada Labo) e integratori alimentari"
+        ]
+      },
+      {
+        "heading": "La K-Beauty: il fenomeno globale della cura della pelle",
+        "paragraphs": [
+          "I cosmetici coreani (K-beauty) hanno trasformato l'industria cosmetica internazionale. Quella che era partita come una tendenza di nicchia oggi fa parte delle routine quotidiane in tutto il mondo.",
+          "L'obiettivo è la “glass skin” (un incarnato luminoso, idratato e senza imperfezioni). Ingredienti di punta come Centella Asiatica, Niacinamide e Bava di lumaca (Snail Mucin) hanno un ruolo da protagonisti. YesStyle è uno dei canali più affidabili per procurarsi questi prodotti direttamente da fonti ufficiali."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Categorie regionali di bellezza sul sito YesStyle.",
+        "imageCaption": "Oltre alla K-beauty, YesStyle offre prodotti J-beauty e di bellezza asiatica in generale.",
+        "bullets": [
+          "Glass skin: una pelle idratata in profondità, luminosa e uniforme",
+          "Routine coreana: incentrata su doppia detersione, tonici idratanti ed essenze nutrienti",
+          "Ingredienti di punta: centella asiatica, bava di lumaca, propoli e acido ialuronico"
+        ],
+        "emphasis": "Il parere di Cecilia: passare da YesStyle è un'ottima opzione per comprare cosmetici coreani originali, perché si riforniscono direttamente dai marchi e hanno una scelta enorme."
       },
       {
         "heading": "Cosa comprare su YesStyle: guida per categoria",
@@ -48092,7 +48515,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Il parere di Cecilia: consulta le pagine di aiuto di YesStyle su dogana e tasse prima di ordinare, perché le normative doganali e le condizioni del negozio possono cambiare."
       },
       {
-        "heading": "FAQ — Domande frequenti sul codice CECILIA010 e su YesStyle",
+        "heading": "FAQ: Domande frequenti sul codice CECILIA010 e su YesStyle",
         "paragraphs": [
           "Domande frequenti e relative risposte per i clienti internazionali:"
         ],
@@ -48111,7 +48534,7 @@ export const reviewsData: unknown[] = [
           "Quali marchi K-beauty sono i più venduti su YesStyle? YesStyle è distributore autorizzato di marchi K-beauty popolari come COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. Il sito organizza i prodotti per categorie (essenze, tonici, sieri, protezioni solari), il che rende più facile costruire una routine di skincare coreana.",
           "Posso annullare o modificare il mio ordine YesStyle dopo averlo confermato? Puoi annullare gli ordini ancora in stato “Processing” direttamente dallo storico ordini. Una volta spedito, l'annullamento non è più possibile, ma puoi rifiutare la consegna all'arrivo. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, contattando rapidamente il servizio clienti.",
           "Il codice CECILIA010 funziona per il primo ordine su YesStyle? Sì, CECILIA010 funziona su tutti gli ordini, offrendo fino al 5% extra (5% sul 1º ordine e 2% sui successivi), cumulabile con i coupon promozionali idonei confermati al checkout.",
-          "CECILIA010 è un coupon influencer di YesStyle? CECILIA010 è un codice ricompensa influencer registrato. Offre fino al 5% extra (5% sul 1º ordine e 2% sui successivi) al checkout e si somma ai coupon promozionali idonei, a differenza dei codici per il primo ordine, che di solito non sono cumulabili."
+          "CECILIA010 è un codice influencer di YesStyle? CECILIA010 è un codice ricompensa influencer registrato. Offre fino al 5% extra (5% sul 1º ordine e 2% sui successivi) al checkout e si somma ai coupon promozionali idonei, a differenza dei codici per il primo ordine, che di solito non sono cumulabili."
         ]
       }
     ],
@@ -48128,7 +48551,7 @@ export const reviewsData: unknown[] = [
         "body": "Il campo del codice si trova al momento del pagamento, sotto “Reward Code”. Copia CECILIA010 prima di aprire il negozio: ti basterà incollarlo quando concludi l'ordine."
       }
     ],
-    "editorialNote": "Questo articolo contiene link di affiliazione. Se accedi a YesStyle tramite i nostri link o usi il codice influencer CECILIA010, potremmo ricevere una commissione senza alcun costo aggiuntivo per te.",
+    "editorialNote": "Link di affiliazione: possiamo ricevere commissioni da link e Reward Code CECILIA010.",
     "locale": "it",
     "translationKey": "yesstyle-reward-code"
   },
@@ -48202,7 +48625,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Questo articolo contiene link di affiliazione. Quando acquisti tramite i nostri link o usi il codice CECILIA010, potremmo ricevere una commissione senza alcun costo aggiuntivo per te.",
+    "editorialNote": "Contiene link di affiliazione: possiamo ricevere una commissione da YesStyle e CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010",
@@ -48210,6 +48633,12 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "CECILIA010 è un codice reward: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi. I coupon promozionali di YesStyle vanno nel campo Coupon Code e scadono presto. La guida ai due campi parte da \"Passo 1: accedi al negozio tramite il link ufficiale\"."
+        ]
+      },
       {
         "heading": "Perché la maggior parte dei coupon YesStyle trovati online non funziona?",
         "paragraphs": [
@@ -48258,7 +48687,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 1 — Accedi al negozio tramite il link ufficiale",
+        "heading": "Passo 1: accedi al negozio tramite il link ufficiale",
         "paragraphs": [
           "Apri YesStyle tramite il link ufficiale di Cecília. In questo modo l'attribuzione del referral viene registrata correttamente prima di inserire i codici al pagamento."
         ],
@@ -48271,7 +48700,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Passo 2 — Prepara il carrello",
+        "heading": "Passo 2: prepara il carrello",
         "paragraphs": [
           "Scegli i cosmetici coreani o i prodotti di skincare che preferisci e aggiungili al carrello."
         ],
@@ -48281,19 +48710,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
-        "heading": "Passo 3 — Applica il coupon promozionale nel campo Coupon Code",
+        "heading": "Passo 3: applica il coupon promozionale nel campo Coupon Code",
         "paragraphs": [
           "Nella schermata di pagamento, cerca la casella “Coupon Code”. Se su YesStyle c'è un coupon promozionale attivo, inseriscilo e clicca su “Applica”."
         ]
       },
       {
-        "heading": "Passo 4 — Incolla il codice CECILIA010 nel campo Reward Code",
+        "heading": "Passo 4: incolla il codice CECILIA010 nel campo Reward Code",
         "paragraphs": [
           "Nella stessa pagina di pagamento, vai alla casella “Reward Code / Influencer Code”. Inserisci CECILIA010 e clicca su “Applica”."
         ]
       },
       {
-        "heading": "Passo 5 — Conferma che gli sconti si sommano e concludi l'ordine",
+        "heading": "Passo 5: conferma che gli sconti si sommano e concludi l'ordine",
         "paragraphs": [
           "Controlla il riepilogo finale dell'ordine e verifica che compaiano entrambi gli sconti prima di pagare (il coupon promozionale e il codice CECILIA010)."
         ],
@@ -48323,7 +48752,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "FAQ — Domande frequenti sui coupon YesStyle",
+        "heading": "Domande frequenti sui coupon YesStyle",
         "bullets": [
           "Qual è la differenza tra Coupon Code e Reward Code su YesStyle? Il Coupon Code è un coupon promozionale temporaneo di YesStyle, da applicare nel campo “Coupon Code”. CECILIA010 è un Reward Code influencer da inserire nel campo “Reward Code”, che offre fino al 5% in più (5% sul 1º ordine / 2% sui successivi). Quando la campagna lo consente, i due si sommano al pagamento.",
           "Che cos'è il codice influencer di YesStyle? È il codice ricompensa (Reward Code), che si inserisce in un campo apposito del checkout, separato dal campo Coupon Code. Il nostro è CECILIA010: 5% di sconto sul primo ordine e 2% sugli ordini successivi.",
@@ -48375,6 +48804,12 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo I prodotti YesStyle sono originali? Da dove viene YesStyle?."
+        ]
+      },
       {
         "heading": "Dati pubblici sull'azienda",
         "paragraphs": [
@@ -48433,6 +48868,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Ci si può fidare di YesStyle?",
+        "paragraphs": [
+          "Sì, con i soliti controlli. YesStyle ha sede a Hong Kong, esiste dal 2006 ed è controllata da YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK). Si dichiara distributore autorizzato di oltre 400 marchi di bellezza coreana, ma non abbiamo trovato un audit indipendente di questa affermazione.",
+          "In pratica: ordina solo su yesstyle.com, controlla i tempi di consegna al checkout e, alla consegna, verifica lotto, scadenza e sigillo. Se il pacco viene tassato, YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a US$ 1.000."
+        ]
+      },
+      {
         "heading": "Codice ricompensa e sconto extra",
         "paragraphs": [
           "Em Casa com Cecília è partner di YesStyle. Inserendo il codice ricompensa CECILIA010 nel campo \"Reward Code\" al checkout ottieni il 5% di sconto extra sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nel campo separato \"Coupon Code\" e si cumulano con CECILIA010.",
@@ -48458,7 +48900,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Recensione editoriale indipendente. L'uso del codice CECILIA010 rientra in una partnership di affiliazione.",
+    "editorialNote": "Dati pubblici. Il codice CECILIA010 nasce da una partnership di affiliazione.",
     "relatedArticles": [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010",
@@ -48497,13 +48939,17 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "La K-Beauty è la routine coreana di cura della pelle a più strati, nota per il ritmo costante di nuovi lanci. Fuori dalla Corea il difficile è comprare: i marchi vendono su siti separati, con spedizioni ripetute. YesStyle ne riunisce molti in un solo carrello; vedi \"Dove entra in gioco YesStyle\" per capire come funziona."
+        ]
+      },
+      {
         "heading": "Cos'è la K-Beauty",
         "paragraphs": [
           "La K-Beauty non è una semplice etichetta di provenienza: è una filosofia completa di cura della pelle nata in Corea del Sud, diventata sinonimo di innovazione, di cicli di lancio velocissimi e di un approccio radicalmente diverso da quello a cui molti di noi si sono abituati con la propria skincare.",
           "Alla base c'è una convinzione precisa: una routine per la pelle non deve per forza essere semplice e lineare. Mentre in molte parti del mondo resiste la logica dei \"tre passaggi\" (detergere, tonificare, idratare), l'approccio coreano ruota attorno al concetto di layering: applicare più strati successivi di prodotti complementari, ciascuno con una funzione specifica. Una routine completa può includere una doppia detersione (un olio struccante seguito da un detergente in schiuma o in gel), un tonico, un'essenza, un siero, una fiala e una crema, con ogni passaggio pensato per preparare la pelle a quello successivo.",
-          "Questa filosofia affonda le radici in una profonda convinzione culturale: prendersi cura della pelle è un gesto di cura di sé irrinunciabile, non una questione di vanità. Per questo l'industria della bellezza coreana è uno dei motori più dinamici del settore a livello mondiale, con un flusso di nuovi lanci e di formule innovative che sorprende chi è abituato al ritmo più misurato di altre regioni.",
-          "Quanto agli ingredienti, la K-Beauty si è fatta conoscere per l'uso di attivi non sempre comuni altrove: la centella asiatica (lenitiva, nota per calmare le pelli sensibili), la niacinamide (per regolare il sebo e uniformare l'incarnato), la bava di lumaca o snail mucin (idratante, uno degli ingredienti più emblematici, anche se controverso per chi preferisce formule vegane), il PDRN (un attivo più recente associato alla rigenerazione cutanea), la propoli e gli ingredienti fermentati: innovazioni con cui l'industria coreana ha reso popolari formule più delicate sulla pelle. La K-Beauty ha inoltre diffuso formati distintivi come il cushion compact (una spugnetta imbevuta di fondotinta o BB cream in una confezione con specchio), le sheet mask (maschere in tessuto imbevute di sieri concentrati) e le fiale al siero.",
-          "Un termine molto legato a questa categoria è la ricerca della \"glass skin\": l'idea di una pelle così uniforme, idratata e naturalmente luminosa da sembrare di vetro. È un ideale estetico più che una promessa letterale, ma riassume bene ciò a cui puntano la maggior parte delle routine K-Beauty: una pelle con una barriera cutanea sana, una texture levigata e quella luminosità che associamo spontaneamente a una pelle ben curata."
+          "Questa filosofia affonda le radici in una profonda convinzione culturale: prendersi cura della pelle è un gesto di cura di sé irrinunciabile, non una questione di vanità. Per questo l'industria della bellezza coreana è uno dei motori più dinamici del settore a livello mondiale, con un flusso di nuovi lanci e di formule innovative che sorprende chi è abituato al ritmo più misurato di altre regioni."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -48512,7 +48958,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover"
       },
       {
+        "heading": "Ingredienti e formati resi popolari dalla K-Beauty",
+        "paragraphs": [
+          "Quanto agli ingredienti, la K-Beauty si è fatta conoscere per l'uso di attivi non sempre comuni altrove: la centella asiatica (lenitiva, nota per calmare le pelli sensibili), la niacinamide (per regolare il sebo e uniformare l'incarnato), la bava di lumaca o snail mucin (idratante, uno degli ingredienti più emblematici, anche se controverso per chi preferisce formule vegane), il PDRN (un attivo più recente associato alla rigenerazione cutanea), la propoli e gli ingredienti fermentati: innovazioni con cui l'industria coreana ha reso popolari formule più delicate sulla pelle. La K-Beauty ha inoltre diffuso formati distintivi come il cushion compact (una spugnetta imbevuta di fondotinta o BB cream in una confezione con specchio), le sheet mask (maschere in tessuto imbevute di sieri concentrati) e le fiale al siero.",
+          "Un termine molto legato a questa categoria è la ricerca della \"glass skin\": l'idea di una pelle così uniforme, idratata e naturalmente luminosa da sembrare di vetro. È un ideale estetico più che una promessa letterale, ma riassume bene ciò a cui puntano la maggior parte delle routine K-Beauty: una pelle con una barriera cutanea sana, una texture levigata e quella luminosità che associamo spontaneamente a una pelle ben curata."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Perché la K-Beauty è diventata una tendenza globale",
+        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+        "imageAlt": "Scaffale di un negozio coreano con prodotti di skincare, insegna al neon con la scritta \"Find the Latest K-Beauty Hype\"",
+        "imageCaption": "Per le strade della Corea, i lanci K-Beauty sono una vetrina e una grande attrazione per chi visita il paese.",
+        "imageFit": "cover",
         "paragraphs": [
           "L'esplosione della K-Beauty fuori dall'Asia negli ultimi due decenni non è casuale. Diversi fattori si sono combinati e hanno creato quest'ondata di curiosità e di adozione di massa.",
           "Il primo è l'influenza culturale dei k-drama e del k-pop. Entrambi hanno conquistato pubblici globali enormi e funzionano come una vetrina vivente della cultura della bellezza coreana. Quando le scene di una serie mostrano i personaggi alle prese con la skincare di casa, o quando gli artisti del k-pop appaiono con una pelle impeccabile sul palco, concerto dopo concerto, la domanda che nasce spontanea è \"come fanno?\". E la risposta porta quasi sempre ai prodotti che usano.",
@@ -48521,14 +48979,6 @@ export const reviewsData: unknown[] = [
           "In fondo, la storia è semplice, ed è per questo che si è diffusa così in fretta: esiste un'intera industria, dall'altra parte del mondo, ossessionata dall'innovazione nella cura della pelle, e oggi è possibile accedervi online."
         ],
         "bullets": []
-      },
-      {
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-        "imageAlt": "Scaffale di un negozio coreano con prodotti di skincare, insegna al neon con la scritta \"Find the Latest K-Beauty Hype\"",
-        "imageCaption": "Per le strade della Corea, i lanci K-Beauty sono una vetrina e una grande attrazione per chi visita il paese.",
-        "imageFit": "cover"
       },
       {
         "heading": "Il problema di comprare K-Beauty fuori dalla Corea",
@@ -48542,13 +48992,6 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Dove entra in gioco YesStyle",
-        "paragraphs": [],
-        "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
-        "imageAlt": "Logo di YesStyle",
-        "imageFit": "wide"
-      },
-      {
         "paragraphs": [
           "È qui che piattaforme come YesStyle risolvono il problema.",
           "YesStyle funziona come un marketplace centralizzato: invece di visitare un marchio alla volta, puoi acquistare più marchi coreani (e anche giapponesi e di altre zone dell'Asia) in un unico carrello, con un'unica spedizione e un unico tempo di consegna. Nelle proprie informazioni aziendali l'azienda dichiara di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un assaggio del tipo di marchi disponibili, non un elenco esaustivo, perché il catalogo cambia di continuo.",
@@ -48594,7 +49037,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "La menzione di YesStyle e del codice CECILIA010 deriva da una partnership commerciale tra Em Casa com Cecília e YesStyle, che può generare una commissione per il blog senza costi aggiuntivi per te.",
+    "editorialNote": "Partnership con YesStyle: possiamo ricevere una commissione dai link e dal codice CECILIA010.",
     "relatedArticles": [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010",
@@ -48650,6 +49093,12 @@ export const reviewsData: unknown[] = [
       "O descalcificante líquido não é vendido na loja oficial online (conferido em 29/09/2026), mas dá para usar o da marca pedido pelo SAC ou um de outra marca própria para cafeteiras"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo até o fim; o manual da Genio S pede isso a cada 3 a 4 meses. O gesto de ativação muda por modelo; veja a tabela no passo a passo."
+        ]
+      },
       {
         "heading": "O que significa a luz laranja da Dolce Gusto",
         "paragraphs": [
@@ -48870,7 +49319,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este guia foi elaborado de forma editorial e independente, com base nos manuais e guias públicos de descalcificação da Nescafé Dolce Gusto e da Krups; as fotos do manual da Genio S Touch são do exemplar da autora. O passo a passo varia por modelo, então confirme sempre no manual da sua máquina. O site mantém parceria comercial com a loja oficial NESCAFÉ Dolce Gusto por meio do cupom CECI.",
+    "editorialNote": "Guia com base nos manuais oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
         "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
@@ -48901,7 +49350,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um ritual do sono em 4 passos e o que a ciência sustenta e o que não.",
+    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um roteiro de sono em 4 passos e para quem ele faz sentido.",
     "metaDescription": "SleepSpray Kidz IWS: spray de travesseiro com lavanda, camomila e laranja doce, sem melatonina, para crianças a partir de 2 anos. Como usar, ritual do sono em 4 passos, diferença para o adulto e cupom.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
@@ -48920,24 +49369,16 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
-      "A evidência de que aroma de lavanda melhore o sono de crianças é limitada",
+      "A marca não traz estudo clínico do SleepSpray Kidz: não dá para prometer que ele ajude a criança a dormir",
       "A fórmula tem fragrância e componentes alergênicos (linalol, limoneno, geraniol, cânfora e mentol na lista de ingredientes); atenção a criança com asma, rinite ou pele sensível",
       "R$ 117,00 por 60 ml, e a marca não informa quantas noites um frasco rende"
     ],
     "contentSections": [
       {
-        "heading": "Por que a criança não \"desliga\" na hora de dormir",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "São nove da noite, a louça ainda está na pia e o seu filho parece ter acabado de tomar uma dose dupla de energia. Ele corre pelo corredor, pede um copo d'água, lembra de uma história da escola e inventa uma brincadeira nova justamente quando tudo o que você queria era silêncio. É a famosa \"batalha do sono\", e quase toda família com criança pequena conhece.",
-          "Criança não funciona como interruptor. O sono pede uma transição: baixar a luz, o barulho e o ritmo aos poucos. Sem essa rampa, é comum a criança passar do ponto de cansaço e ficar mais agitada, não mais calma. Pediatras e especialistas em sono descrevem isso como o cansaço que vira hiperatividade (o \"overtired\").",
-          "Duas coisas ajudam a explicar. A primeira é a luz: luz forte e telas à noite atrasam a liberação de melatonina, o hormônio que sinaliza a noite ao corpo, e há estudos indicando que crianças são mais sensíveis a esse efeito do que adultos. A segunda é a previsibilidade: repetir na mesma ordem os passos de antes de dormir (luz baixa, banho, pijama, história) ensina o cérebro a reconhecer o que vem depois, e rotina consistente é uma das recomendações mais repetidas para o sono infantil.",
-          "É nesse ponto que entra o cheiro. O olfato tem ligação direta com áreas do cérebro ligadas à emoção e à memória, e um aroma que aparece sempre no mesmo momento pode virar um marcador da rotina, como uma canção de ninar. Vale ser honesta: isso é associação por repetição, não um efeito sedativo comprovado do produto. A página da IWS não cita estudos clínicos sobre o SleepSpray Kidz."
-        ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
-        "imageAlt": "Criança dormindo de lado em um travesseiro I Wanna Sleep, abraçada a um panda e a uma ovelha de pelúcia",
-        "imageCaption": "Imagem de divulgação da I Wanna Sleep. Ilustra o ambiente de sono e não mostra um resultado comprovado do spray.",
-        "imageFit": "square"
+          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico. Faz sentido como marcador de rotina de sono, não como solução; o capítulo Vale a pena? Nosso veredito mostra para quem compensa."
+        ]
       },
       {
         "heading": "O que é o SleepSpray Kidz: a ficha do rótulo e da página oficial",
@@ -48958,24 +49399,36 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Lavanda, camomila e laranja doce: o que a ciência sustenta e o que é aroma",
+        "heading": "Rotina primeiro, cheiro depois",
+        "paragraphs": [
+          "Criança não funciona como interruptor: o sono pede uma transição, com luz mais baixa, menos barulho e os mesmos passos na mesma ordem toda noite.",
+          "É nesse ponto que o cheiro entra. Um aroma que aparece sempre no mesmo momento pode virar um sinal da rotina, como uma canção de ninar. Isso é associação por repetição, não um efeito comprovado do produto: a página da IWS não cita estudos clínicos sobre o SleepSpray Kidz."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+        "imageAlt": "Criança dormindo de lado em um travesseiro I Wanna Sleep, abraçada a um panda e a uma ovelha de pelúcia",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep. Ilustra o ambiente de sono e não mostra um resultado comprovado do spray.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Lavanda, camomila e laranja doce: o que diz o rótulo",
         "paragraphs": [
           "A lista de ingredientes (INCI) do site traz água, propanodiol, glicerina, extrato de flor de camomila, óleo de flor de lavanda-inglesa, extrato de lavanda, óleo da casca de laranja doce, conservantes (benzoato de sódio, sorbato de potássio e ácido benzoico), um tensoativo (cocamidopropil betaína) e perfume. Ou seja: a camomila entra como extrato, os óleos são de lavanda e de laranja doce, e há fragrância na fórmula.",
-          "O que cada nota costuma prometer, e o quanto isso se sustenta:",
+          "O que cada ingrediente é na fórmula:",
           "Na prática, o valor do produto está mais na combinação de aroma agradável com repetição do que em um efeito químico de cada planta.",
-          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem irritar as vias aéreas ou causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
+          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
         ],
         "bullets": [
-          "Lavanda: é o aroma mais estudado para relaxamento. As pesquisas com lavanda aromática costumam ser pequenas, em sua maioria com adultos, e apontam efeito modesto na qualidade do sono. Para crianças a evidência é limitada, e não há base para prometer que o spray encurta o tempo de adormecer;",
-          "Camomila: associada ao acolhimento e ao chá de antes de dormir. Aqui ela vem como extrato num spray de tecido, e não há estudo que sustente alívio de cólica ou de dentição por aroma. Quem tem alergia a plantas da família da margarida (Asteraceae) deve ter atenção;",
-          "Laranja doce: um cítrico macio e adocicado, agradável e familiar para muitas crianças. É um aroma de conforto; não há evidência de que ele reduza medo do escuro ou angústia de separação."
+          "Lavanda: entra como óleo de flor de lavanda-inglesa e como extrato. É o aroma clássico de quarto e de hora de dormir, e a marca não cita estudos clínicos que mostrem efeito sobre o sono da criança;",
+          "Camomila: entra como extrato de flor, num spray de tecido. Quem tem alergia a plantas da família da margarida (Asteraceae) deve ter atenção;",
+          "Laranja doce: entra como óleo da casca. É um cítrico macio e adocicado, um aroma de conforto e familiar para muitas crianças."
         ]
       },
       {
         "heading": "\"Melatonin free\": o que o selo significa e o que não significa",
         "paragraphs": [
-          "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. A diferença importa porque melatonina é um hormônio, e o uso em crianças deve passar por orientação médica.",
-          "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que ele não atua por hormônio e depende do aroma e da rotina. Também não é motivo para borrifar o spray adulto no quarto da criança."
+          "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. Por isso ele não é o indicado para o quarto da criança, e dúvida sobre melatonina em criança é assunto para o pediatra.",
+          "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que a fórmula não tem melatonina; a marca não explica como o produto atuaria. Também não é motivo para borrifar o spray adulto no quarto da criança."
         ],
         "bullets": []
       },
@@ -48985,7 +49438,7 @@ export const reviewsData: unknown[] = [
           "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
         ],
         "bullets": [
-          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Mais borrifadas não deixam a criança mais calma, só deixam o cheiro mais forte;",
+          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Passar disso só deixa o cheiro mais forte;",
           "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
           "Quando: alguns minutos antes de deitar, com a criança fora da cama. Nossa sugestão: 10 a 15 minutos, enquanto ela escova os dentes, para o tecido secar;",
           "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
@@ -49056,22 +49509,22 @@ export const reviewsData: unknown[] = [
         }
       },
       {
+        "heading": "Vale a pena? Nosso veredito",
+        "paragraphs": [
+          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
+          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, a criança tem 2 anos ou mais e não tem alergia respiratória, e você aceita gastar R$ 117,00 por 60 ml com um item de conforto. A loja oferece 30 dias de teste, com crédito de troca se a criança não se adaptar. É um jeito simples de repetir um sinal sensorial no fim do dia.",
+          "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
+          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Preço, kits e garantia de 30 dias",
         "paragraphs": [
           "O frasco de 60 ml custa R$ 117,00 no site oficial (consultado em 29/09/2026). Há kits: 3 frascos por R$ 234,00 (compre 2, leve 3) e 5 frascos por R$ 351,00 (compre 3, leve 5). O frete é grátis acima de R$ 150,00.",
           "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para prometer um custo por noite. Só como referência: se você usar 2 borrifadas por noite e o frasco durasse 2 meses (hipótese nossa, não dado da marca), o gasto ficaria perto de R$ 2 por noite. Anote a data em que abrir o frasco para medir na sua casa.",
           "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro.",
           "O código CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Vale a pena? Nosso veredito",
-        "paragraphs": [
-          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
-          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, aceita gastar R$ 117,00 com um item de conforto e a criança não tem alergia respiratória. É um jeito simples de repetir um sinal sensorial no fim do dia.",
-          "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes, ronco, respiração pela boca, terror noturno ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
-          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
         ],
         "bullets": []
       },
@@ -49106,7 +49559,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
           "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
-          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso não traz benefício e deixa o aroma mais forte.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso só deixa o aroma mais forte.",
           "Posso borrifar na pele, no rosto ou na naninha? Na pele não: a marca pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada e não ingerir. Na naninha, borrife longe da criança, deixe secar e evite a parte que ela morde ou chupa; se ela leva o objeto à boca com frequência, prefira o travesseiro ou o ambiente.",
           "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
           "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
@@ -49122,7 +49575,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Guia feito a partir do rótulo e da página oficial da I Wanna Sleep (consultada em 29/09/2026); o produto não foi testado por nós. Parceria comercial: podemos receber comissão pelo cupom CECIEMCASA. Imagens de divulgação da IWS.",
+    "editorialNote": "Guia feito do rótulo e da página da IWS, sem teste próprio. Comissão pelo cupom CECIEMCASA.",
     "relatedArticles": [
       {
         "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
@@ -49171,6 +49624,12 @@ export const reviewsData: unknown[] = [
       "É suplemento, não medicamento: quantidade por dia e escolha da versão devem ser definidas com nutricionista ou médico"
     ],
     "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para o Nutren Senior não empelotar, ponha 3 colheres de sopa de pó no copo seco, junte cerca de 50 ml de líquido, mexa até virar pasta e só então complete. Não ferva e beba logo após o preparo. As medidas por versão estão em O método da pasta, passo a passo."
+        ]
+      },
       {
         "heading": "Por que o Nutren Senior empelota",
         "paragraphs": [
@@ -49366,10 +49825,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
-          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. A Nestlé tem outra linha, o Nutren Control, voltada a dietas com restrição de açúcares; qual escolher é conversa com o médico ou nutricionista;",
-          "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então não serve para alergia à proteína do leite;",
+          "Diabetes ou controle de açúcar: a marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite. Na tabela do Café com Leite, são 5,7 g de açúcares totais por porção (0,4 g adicionados) e 15 g quando preparado com 180 ml de leite desnatado. Converse com o médico ou o nutricionista;",
+          "Lactose e alergia ao leite: as versões comuns têm lactose. O Zero Lactose é para restrição de lactose e, pela lista de ingredientes que analisamos em outro guia, continua com proteínas do leite e da soja, então quem tem alergia à proteína do leite deve falar com o médico;",
           "Rins, medicamentos e outras suplementações: a marca não detalha interações. Se a pessoa tem doença renal, usa vários remédios ou já toma outro suplemento, pergunte ao médico antes;",
-          "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista, porque pode ser sinal de algo que precisa de avaliação."
+          "Emagrecimento sem querer ou recusa constante do copo: não é caso de trocar de sabor sem parar. Leve ao médico ou ao nutricionista."
         ]
       },
       {
@@ -49410,8 +49869,8 @@ export const reviewsData: unknown[] = [
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
           "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
-          "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. O efeito no peso depende de tudo o que a pessoa come no dia; se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
-          "Diabético pode tomar Nutren Senior? Depende do caso e deve ser decidido com o médico ou o nutricionista. A marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite, e existe a linha Nutren Control para dietas com restrição de açúcares.",
+          "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. Se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
+          "Diabético pode tomar Nutren Senior? Depende do caso: converse com o médico ou o nutricionista. Os açúcares por porção estão na tabela nutricional do produto.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
         ]
       }
@@ -49424,7 +49883,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+    "editorialNote": "Baseado na página oficial, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-senior-zero-lactose-ficha-tecnica",
@@ -49718,301 +50177,6 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
-    "id": 317,
-    "slug": "melatonina-quantas-gotas-tomar-horario-certo",
-    "title": "Melatonina líquida: quantas gotas tomar e em qual horário?",
-    "seoTitle": "Melatonina: quantas gotas tomar e em qual horário?",
-    "type": "Guia de Suplemento",
-    "category": "guias-praticos-utilidade",
-    "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Entenda como conferir a quantidade de gotas no rótulo, o limite de 0,21 mg da Anvisa e as instruções de horário da melatonina líquida e gummy da IWS.",
-    "metaDescription": "Quantas gotas de melatonina tomar e em qual horário? Veja como ler o rótulo, o limite de 0,21 mg da Anvisa e as instruções da I Wanna Sleep antes de usar.",
-    "publishedAt": "30 de setembro de 2026",
-    "publishedAtISO": "2026-09-30",
-    "draft": false,
-    "isNew": false,
-    "image": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
-    "imageAlt": "Ilustração editorial da Melatonina Líquida IWS no criado-mudo ao lado da cama, com iluminação quente de abajur",
-    "imageFit": "cover",
-    "imageAspect": "landscape",
-    "pros": [
-      "Explicação da diferença entre quantidade de gotas, concentração e limite regulatório",
-      "Exemplo documentado da IWS, sem generalizar a porção para outras marcas",
-      "Instruções de horário separadas para as versões líquida e gummy",
-      "Comparação de formatos baseada nas informações do fabricante",
-      "Cupom CECIEMCASA e condições do Sleeptest com links para consulta"
-    ],
-    "cons": [
-      "O guia não define dose individual nem substitui avaliação de dificuldades persistentes para dormir",
-      "Suplementos de melatonina têm restrições de uso; atender ao limite regulatório não elimina possíveis riscos"
-    ],
-    "contentSections": [
-      {
-        "heading": "0,21 mg: o que o limite da Anvisa significa",
-        "paragraphs": [
-          "Quantas gotas de melatonina tomar? Não existe uma resposta única para todos os frascos: a quantidade depende da concentração e da porção indicada no rótulo do produto. O número de gotas usado por outra pessoa, ou em uma fórmula anterior, não deve servir de referência para um frasco diferente.",
-          "A melatonina é um hormônio produzido naturalmente pelo organismo e associado ao ciclo de sono e vigília. Essa função biológica não significa que qualquer suplemento seja um tratamento para dificuldades para dormir.",
-          "No Brasil, a autorização da Anvisa para suplementos alimentares de melatonina estabelece consumo diário máximo de 0,21 mg, equivalente a 210 microgramas, para adultos com 19 anos ou mais. Esse valor é um teto regulatório para a categoria, não uma dose ideal prescrita para cada pessoa nem uma garantia de segurança individual.",
-          "A Anvisa não aprovou alegações de benefícios para esses suplementos. Também é preciso distinguir a autorização do constituinte da regularização de um produto específico: informar 0,21 mg no rótulo não basta para chamá-lo de '100% aprovado pela Anvisa'.",
-          "Embalagens com porções de 3 mg, 5 mg ou 10 mg não seguem esse limite de consumo para suplementos brasileiros. Não copie essas quantidades de vídeos, relatos ou produtos vendidos em outros países. Se houver uma prescrição individual, as dúvidas sobre a formulação devem ser resolvidas com o profissional responsável."
-        ],
-        "bullets": [],
-        "links": [
-          {
-            "label": "Anvisa: autorização da melatonina em suplementos alimentares",
-            "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-autoriza-a-melatonina-na-forma-de-suplemento-alimentar"
-          },
-          {
-            "label": "Ministério da Saúde: enquadramento e cuidados com a melatonina",
-            "href": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/melatonina/melatonina"
-          }
-        ]
-      },
-      {
-        "heading": "Quantas gotas? Confira a porção e a concentração do frasco",
-        "paragraphs": [
-          "O volume de 30 ml informa quanto líquido há na embalagem, mas não revela sozinho a quantidade de melatonina em cada gota. Para comparar fórmulas, procure a porção na tabela nutricional, a quantidade da substância por porção e o modo de uso. Não há um número padrão de gotas que possa ser transferido entre marcas.",
-          "No exemplo da Melatonina Líquida IWS, o fabricante informa 0,21 mg em uma gota. A apresentação consultada tem 30 ml e é anunciada pela loja como contendo 750 gotas. Esses dados descrevem esse produto; não são uma regra para toda melatonina líquida.",
-          "Para entender a conta, divida a quantidade de melatonina da porção pelo número de gotas da mesma porção. Se o rótulo informa 0,21 mg em uma gota, dez gotas correspondem a 2,1 mg. É uma conversão matemática, não uma recomendação para aumentar o consumo ou calcular uma dose por conta própria.",
-          "Leia o rótulo sempre que trocar de produto, mesmo que o frasco pareça semelhante. Confira também o conta-gotas e as instruções de manuseio da embalagem. Para a IWS, a indicação consultada é por via oral, sem instrução de retenção sob a língua ou de diluição. Não adapte o modo de uso a partir de orientações de outra formulação.",
-          "O total anunciado de gotas não é uma promessa de anos de uso contínuo. A validade, a conservação e eventuais orientações após a abertura limitam o aproveitamento do frasco e precisam ser conferidas na embalagem."
-        ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
-        "imageAlt": "Frasco e embalagem oficial da Melatonina Líquida I Wanna Sleep 30 ml",
-        "imageCaption": "Segundo o fabricante, a porção da Melatonina Líquida IWS é de uma gota, com 0,21 mg. Confira o rótulo da sua embalagem.",
-        "imageFit": "square",
-        "comparisonTable": {
-          "caption": "Como ler o rótulo sem confundir gotas, miligramas e volume",
-          "headers": [
-            "Informação",
-            "O que conferir"
-          ],
-          "rows": [
-            [
-              "Porção",
-              "Quantidade de gotas indicada para aquele produto"
-            ],
-            [
-              "Melatonina por porção",
-              "Quantidade em mg ou microgramas, não o volume em ml"
-            ],
-            [
-              "Conversão de unidades",
-              "210 microgramas equivalem a 0,21 mg"
-            ],
-            [
-              "Modo de uso",
-              "Instruções do fabricante para a formulação específica"
-            ],
-            [
-              "Validade e conservação",
-              "Prazo e cuidados informados na embalagem, inclusive após abertura"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Em qual horário tomar? Líquida e gummy têm instruções diferentes",
-        "paragraphs": [
-          "Não há um horário único que este guia possa indicar para todas as formulações ou situações de saúde. Na página da Melatonina Líquida IWS, a orientação é ingerir uma gota por via oral antes de dormir. O fabricante não fixa ali um intervalo de minutos ou horas para essa versão.",
-          "Já a página da Melatonina Gummy IWS orienta uma unidade ao dia, de uma a duas horas antes de dormir. Esse intervalo pertence à instrução desse produto e não deve ser apresentado como uma regra universal para a versão líquida ou para outras marcas.",
-          "Por isso, a resposta prática é conferir o rótulo do produto que você tem, em vez de escolher um horário por uma promessa de absorção rápida. Se o texto da embalagem deixar dúvidas, procure o fabricante ou um profissional de saúde. O artigo não fornece um protocolo de ajuste de horário nem substitui uma prescrição.",
-          "Os hábitos de sono merecem atenção independentemente do uso de suplementos. As orientações gerais do NHLBI, instituto dos NIH nos Estados Unidos, incluem horários regulares, um período tranquilo antes de deitar e menos luz intensa nesse momento. Essas medidas de rotina não são uma promessa de efeito da melatonina."
-        ],
-        "bullets": [
-          "Mantenha horários de dormir e acordar tão regulares quanto possível.",
-          "Reserve um período tranquilo antes de deitar e reduza a exposição a luz intensa de telas.",
-          "Observe a cafeína ao longo do dia; seus efeitos podem continuar pela noite.",
-          "Cuide do ambiente do quarto, com menos ruído e luz na hora de dormir."
-        ],
-        "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
-        "imageAlt": "Imagem promocional da Melatonina Líquida IWS sabor maracujá, com frasco conta-gotas e frutas",
-        "imageCaption": "Melatonina Líquida IWS sabor maracujá. Confira as instruções da sua embalagem; a versão gummy tem uma orientação de horário própria.",
-        "imageFit": "portrait",
-        "imageAspectRatio": 0.8241758241758241,
-        "links": [
-          {
-            "label": "NHLBI: orientações gerais para hábitos de sono",
-            "href": "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
-          },
-          {
-            "label": "Consultar instruções da Melatonina Gummy IWS",
-            "href": "https://www.iwannasleep.com.br/products/melatonina-gummy-iws-maracuja-doce",
-            "sponsored": true
-          }
-        ]
-      },
-      {
-        "heading": "Gotas ou gomas: compare o formato, não uma promessa de efeito",
-        "paragraphs": [
-          "O conta-gotas exige conferir a quantidade dispensada. A goma é uma unidade mastigável, mas também requer atenção à porção. A escolha pode considerar manuseio, ingredientes, conservação e preferência de formato, sem transformar conveniência em superioridade clínica.",
-          "A comparação abaixo reúne informações das páginas do fabricante consultadas em outubro de 2026. Ela não é um teste de absorção, eficácia ou segurança entre os dois produtos.",
-          "Para comparar custo, use o preço vigente e as porções declaradas, sem ignorar a validade e a conservação após abrir. Um frasco com mais porções pode não ser a escolha mais conveniente para quem não consegue aproveitá-lo dentro dessas condições."
-        ],
-        "bullets": [],
-        "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
-        "imageAlt": "Melatonina Gummy da I Wanna Sleep em formato de goma mastigável zero açúcar",
-        "imageCaption": "A apresentação mastigável muda o formato de consumo; não comprova maior eficácia ou menor risco que as gotas.",
-        "imageFit": "square",
-        "comparisonTable": {
-          "caption": "Informações declaradas pela IWS para as apresentações líquida e gummy",
-          "headers": [
-            "Informação",
-            "Melatonina Líquida IWS",
-            "Melatonina Gummy IWS"
-          ],
-          "rows": [
-            [
-              "Porção e melatonina",
-              "1 gota: 0,21 mg",
-              "1 goma: 0,21 mg"
-            ],
-            [
-              "Apresentação",
-              "30 ml; 750 gotas anunciadas",
-              "Pote com 30 gomas"
-            ],
-            [
-              "Instrução de horário",
-              "Antes de dormir",
-              "De 1 a 2 horas antes de dormir"
-            ],
-            [
-              "Informações nutricionais",
-              "Sem açúcar, segundo o fabricante; conferir tabela no rótulo",
-              "Sem açúcar e 8 kcal por unidade, segundo o fabricante"
-            ],
-            [
-              "Escolha de formato",
-              "Frasco com conta-gotas",
-              "Unidade mastigável"
-            ]
-          ]
-        }
-      },
-      {
-        "heading": "Cuidados de uso e quando procurar orientação",
-        "paragraphs": [
-          "O Ministério da Saúde relaciona relatos de sonolência, dor de cabeça, tontura, náusea e pesadelos, entre outros eventos adversos. Isso não significa que toda pessoa terá esses sintomas, mas impede classificar uma apresentação como praticamente sem risco.",
-          "O NCCIH, instituto dos NIH, informa que faltam dados para esclarecer a segurança do uso prolongado. Não há base neste guia para estabelecer um período fixo de uso, prometer ausência de efeitos ou orientar aumento da quantidade quando a dificuldade para dormir continua.",
-          "Dificuldades persistentes para dormir merecem avaliação, em vez de sucessivas trocas de suplemento. Quem já recebeu orientação individual deve esclarecer com o profissional as dúvidas sobre continuidade, horário e eventuais reações."
-        ],
-        "bullets": [
-          "A autorização de melatonina em suplementos se restringe a adultos com 19 anos ou mais; esses produtos não devem ser usados por crianças ou adolescentes.",
-          "Gestantes, lactantes e pessoas envolvidas em atividades que exigem atenção constante devem observar a advertência de não consumo.",
-          "Quem tem enfermidades ou usa medicamentos precisa consultar um profissional antes de consumir, inclusive por possíveis interações.",
-          "Não associe diferentes produtos com melatonina nem aumente a porção por conta própria; mantenha-os fora do alcance das crianças."
-        ],
-        "links": [
-          {
-            "label": "NCCIH: evidências e segurança da melatonina",
-            "href": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know"
-          }
-        ]
-      },
-      {
-        "heading": "Onde consultar a IWS, o cupom CECIEMCASA e o Sleeptest",
-        "paragraphs": [
-          "A loja oficial é a referência usada aqui para conferir apresentação e instruções da IWS. Antes de comprar, verifique disponibilidade, preço e as informações da embalagem. Confira a validade do produto recebido e os cuidados de conservação, especialmente após abrir o frasco.",
-          "O cupom CECIEMCASA oferece 10% OFF no site da I Wanna Sleep, conforme o cadastro da parceria. Confira as regras atualizadas no nosso hub de cupons e a aplicação no checkout, inclusive durante campanhas. O desconto é um benefício comercial, não um critério para decidir se um suplemento é adequado para você.",
-          "Na categoria Nutrição, o Sleeptest prevê troca após no mínimo 15 dias de utilização e dentro de 30 dias do recebimento, conforme os critérios do regulamento. A política cita ausência de resultados como condição e exige nota fiscal, contato com o atendimento e envio do produto. O benefício é crédito para troca, não reembolso.",
-          "Não se trata de troca automática apenas por dificuldade de manuseio. Consulte a política oficial antes da compra e, para solicitar o benefício, confirme o procedimento com a IWS. A descrição comercial do programa não comprova eficácia do suplemento."
-        ],
-        "bullets": [],
-        "links": [
-          {
-            "label": "Guia de cupons e regras do cupom CECIEMCASA na I Wanna Sleep",
-            "href": "/cupons/i-wanna-sleep"
-          },
-          {
-            "label": "Ficha técnica e análise detalhada da Melatonina Gummy IWS",
-            "href": "/reviews/melatonina-gummy-iws-para-que-serve-como-tomar"
-          },
-          {
-            "label": "Ficha técnica pública da Melatonina Líquida IWS 30ml",
-            "href": "/reviews/melatonina-liquida-iws-ficha-tecnica"
-          },
-          {
-            "label": "Consultar a Melatonina Líquida e as instruções da IWS",
-            "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
-            "sponsored": true
-          },
-          {
-            "label": "Política Sleeptest: regras para produtos de Nutrição",
-            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
-          }
-        ]
-      },
-      {
-        "heading": "Perguntas Frequentes sobre Melatonina em Gotas",
-        "bullets": [
-          "Quantas gotas de melatonina tomar? Confira a porção do seu produto. Na Líquida IWS, o fabricante indica uma gota, com 0,21 mg, antes de dormir por via oral ou conforme prescrição médica. Para definir o uso individual, consulte seu médico; essa quantidade não é uma regra para outros frascos.",
-          "Qual é o horário de uso da Melatonina Líquida IWS? A página do fabricante orienta uso por via oral antes de dormir, sem fixar um intervalo de minutos ou horas. O horário da versão gummy não deve ser transferido automaticamente para a líquida.",
-          "O limite de 0,21 mg da Anvisa é uma recomendação individual? Não. É o consumo diário máximo autorizado para suplementos de melatonina destinados a adultos com 19 anos ou mais, não uma prescrição nem uma garantia de segurança para cada pessoa.",
-          "Posso aumentar as gotas se não perceber resultado? Não aumente a porção por conta própria. Dificuldades persistentes para dormir precisam de avaliação, não de ajuste de quantidade orientado por este artigo.",
-          "A melatonina líquida deve ser usada sob a língua? A instrução verificada para a IWS é por via oral. Não identificamos uma orientação do fabricante para reter o líquido sob a língua ou prometer absorção mais rápida.",
-          "Crianças podem usar suplementos de melatonina? Esses suplementos não são autorizados para crianças e adolescentes no Brasil. Dúvidas sobre o sono infantil devem ser levadas ao pediatra; este guia não recomenda um suplemento ou spray como substituto da avaliação.",
-          "Posso tomar melatonina todas as noites indefinidamente? O NCCIH informa que a segurança de longo prazo ainda não está esclarecida. Não use este guia para definir duração de consumo; procure orientação individual para essa decisão.",
-          "Melatonina quebra jejum ou interfere na glicemia? Não é possível garantir uma resposta única por formato ou marca. Consulte a composição e a tabela nutricional. A gummy IWS declara 8 kcal por unidade; ser sem açúcar não permite concluir ausência de resposta glicêmica. Jejum para exame ou procedimento deve seguir as instruções do serviço de saúde.",
-          "A Melatonina Líquida IWS contém açúcar, glúten ou lactose? Segundo a FAQ do fabricante, não contém açúcar, glúten nem lactose. Confira também o rótulo do produto recebido.",
-          "A Melatonina Líquida IWS é vegana? Sim, de acordo com a informação do fabricante.",
-          "Qual é a composição da Melatonina Líquida IWS? O fabricante informa água, melatonina, agente de massa glicerina, aromatizante natural e acidulante ácido cítrico.",
-          "Quais são as contraindicações da Melatonina Líquida IWS? O fabricante orienta não consumir durante a gestação ou amamentação, na infância ou em atividades que exigem atenção constante. Pessoas com enfermidades ou que usam medicamentos devem consultar o médico. O produto não é medicamento; não exceda a recomendação da embalagem e mantenha fora do alcance de crianças.",
-          "Como funciona a garantia de 30 dias da IWS? Para a melatonina comprada no site oficial, o Sleeptest prevê crédito para troca, não reembolso. O regulamento da categoria Nutrição exige ao menos 15 dias de uso e solicitação dentro de 30 dias do recebimento, além dos demais critérios. Consulte a política e contate o atendimento antes de enviar o produto.",
-          "Qual é o cupom da I Wanna Sleep? O código da parceria é CECIEMCASA, com 10% OFF no site oficial. Consulte as regras atualizadas no hub de cupons e confira sua aplicação no checkout."
-        ]
-      }
-    ],
-    "cta": {
-      "text": "Confira as informações da Melatonina Líquida na I Wanna Sleep e as condições do cupom CECIEMCASA, com 10% OFF no site oficial.",
-      "label": "Conferir no site oficial da IWS",
-      "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
-      "sponsored": true
-    },
-    "coupon": "CECIEMCASA",
-    "affiliate": "i-wanna-sleep",
-    "editorialNote": "Guia independente baseado em orientações públicas das autoridades, nas informações da IWS e na política Sleeptest. Não é um teste clínico nem uma prescrição e não substitui avaliação profissional. Parceria comissionada via cupom CECIEMCASA.",
-    "relatedArticles": [
-      {
-        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
-        "title": "Melatonina Gummy IWS: Para Que Serve e Como Tomar"
-      },
-      {
-        "slug": "melatonina-liquida-iws-ficha-tecnica",
-        "title": "Melatonina Líquida IWS: Ficha Técnica e O Que Saber Antes de Comprar"
-      },
-      {
-        "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
-        "title": "SleepSpray Kidz IWS: Como Funciona e o Ritual do Sono Infantil"
-      }
-    ],
-    "gallery": [
-      {
-        "image": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
-        "alt": "Ilustração editorial da Melatonina Líquida IWS no criado-mudo ao lado da cama",
-        "caption": "Cena ilustrativa gerada por IA com a embalagem da IWS como referência; não é fotografia de teste do produto."
-      },
-      {
-        "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
-        "alt": "Frasco de Melatonina Líquida IWS sabor maracujá",
-        "caption": "Apresentação líquida da IWS: consulte a porção e as instruções na embalagem, sem generalizar para outras marcas."
-      },
-      {
-        "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
-        "alt": "Melatonina Gummy da IWS em formato de goma de maracujá",
-        "caption": "A gummy é uma apresentação mastigável com instruções próprias; formato não é garantia de eficácia."
-      }
-    ]
-  },
-  {
     "id": 318,
     "slug": "fibermais-como-usar-em-receitas-e-bebidas",
     "title": "FiberMais Nestlé: como usar em receitas e bebidas quentes ou frias",
@@ -50052,7 +50216,13 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "1. O que é FiberMais Sem Sabor e como ele entra na cozinha",
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O FiberMais Sem Sabor pode ser misturado a café, bebidas e refeições, sempre ao final do preparo e sem ferver. A medida muda com a apresentação: 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Os cuidados estão em Pode colocar no café quente, ferver, assar ou congelar?"
+        ]
+      },
+      {
+        "heading": "O que é FiberMais Sem Sabor e como ele entra na cozinha",
         "image": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
         "imageAlt": "Arte oficial da Nestlé com a lata de FiberMais Sem Sabor de 260 g e características declaradas pela fabricante",
         "imageCaption": "Material de divulgação da Nestlé para FiberMais Sem Sabor. As características são declarações da fabricante, não resultados de testes próprios.",
@@ -50080,7 +50250,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "2. Pode colocar no café quente, ferver, assar ou congelar?",
+        "heading": "Pode colocar no café quente, ferver, assar ou congelar?",
         "paragraphs": [
           "A fabricante inclui bebidas quentes e frias entre os usos do FiberMais Sem Sabor. Isso permite pensar no café já servido, no chá pronto ou em uma sopa na hora de comer. Mas colocar em um alimento quente não é o mesmo que cozinhar o suplemento por longos períodos.",
           "No artigo culinário oficial consultado, a orientação é acrescentar o produto ao final da preparação, sem levá-lo à fervura. Para o café, prepare a bebida primeiro e incorpore depois. Para sopas e molhos, termine o cozimento, retire do fogo e misture na porção que será consumida.",
@@ -50102,7 +50272,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "3. Cinco formas de incluir FiberMais nas preparações do dia a dia",
+        "heading": "Cinco formas de incluir FiberMais nas preparações do dia a dia",
         "image": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
         "imageAlt": "Banner oficial FiberMais com frutas, apresentações da linha e uso de um sachê Sem Sabor em uma bebida",
         "imageCaption": "Imagem de divulgação da Nestlé: o banner também mostra outras variantes da linha. As medidas deste guia se referem somente ao FiberMais Sem Sabor.",
@@ -50168,11 +50338,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "4. Lata ou sachê: medidas, informação nutricional e cuidados de uso",
+        "heading": "Lata ou sachê: medidas, informação nutricional e cuidados de uso",
         "paragraphs": [
           "As informações oficiais consultadas para a lata Sem Sabor de 260 g indicam 3 colheres de chá, totalizando 7,6 g ao dia. Para os sachês de 5 g, a página informa 1 sachê duas vezes ao dia, totalizando 10 g. São recomendações de apresentações distintas, não medidas equivalentes. A necessidade individual deve ser discutida com um profissional de saúde.",
-          "A necessidade e a tolerância ao suplemento são individuais. A introdução de fibras pode exigir adaptação, mas não cabe a este guia definir um calendário de aumento semanal ou uma porção extra para viagens. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
-          "A ingestão de líquidos também precisa ser adequada à sua situação. Idade, condições de saúde, atividade e eventuais restrições de líquidos devem ser consideradas na orientação individual; um mesmo volume não serve como regra obrigatória para todas as pessoas. Manter a hidratação faz parte dos cuidados de uso, sem substituir a avaliação de sintomas persistentes.",
+          "A necessidade e a tolerância ao suplemento são individuais. Siga o rótulo e a orientação profissional, sem aumentar a quantidade por conta própria.",
+          "A ingestão de líquidos varia com idade, condições de saúde e restrições; siga a orientação do seu médico ou nutricionista.",
           "A tabela abaixo reproduz os valores informados nas páginas oficiais em 2 de outubro de 2026, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
           "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
           "Na compra pela Nestlé Nutre, o código CECI oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
@@ -50250,27 +50420,7 @@ export const reviewsData: unknown[] = [
             "label": "Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre",
             "href": "https://www.nestlenutre.com.br/fibermais",
             "sponsored": true
-          },
-          {
-            "label": "Orientações do NIDDK sobre fibras e ingestão individual de líquidos",
-            "href": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition"
           }
-        ]
-      },
-      {
-        "heading": "5. Perguntas frequentes sobre FiberMais Sem Sabor",
-        "paragraphs": [
-          "As respostas distinguem informações do rótulo, orientações culinárias e decisões que dependem de avaliação individual. Elas não substituem diagnóstico nem uma recomendação de tratamento."
-        ],
-        "bullets": [
-          "Quantas colheres de FiberMais posso tomar por dia? A página oficial da lata Sem Sabor de 260 g informa 3 colheres de chá (7,6 g) ao dia; a dos sachês de 5 g informa 1 sachê duas vezes ao dia. Não converta esses valores em colheres de sopa nem aumente a quantidade sem orientação. Confira o rótulo da apresentação comprada.",
-          "Posso colocar FiberMais no café quente? A fabricante prevê uso em bebidas quentes. Prepare o café primeiro e acrescente o produto ao final, misturando até dissolver, sem levar novamente à fervura. A quantidade depende da apresentação e deve entrar no total consumido no dia.",
-          "Diabéticos podem tomar FiberMais? A adequação deve ser avaliada com o profissional que acompanha a pessoa, considerando rótulo, alimentação e tratamento. As tabelas consultadas do Sem Sabor informam pequenas quantidades de açúcares e carboidratos; não o descrevemos como isento desses componentes nem como garantia de controle da glicemia.",
-          "Crianças podem consumir FiberMais? As apresentações Sem Sabor consultadas indicam uso a partir de quatro anos. Isso não autoriza suplementação automática: confirme com o pediatra ou nutricionista se há necessidade e qual orientação se aplica. O guia não recomenda uso para menores de quatro anos nem inclusão escondida nas refeições da família.",
-          "Gestantes podem usar FiberMais? A gestação exige avaliação individual. Converse com o obstetra ou nutricionista antes de iniciar a suplementação. A natureza das fibras não é, por si só, uma garantia de segurança para todas as gestantes.",
-          "FiberMais engorda? O efeito de uma alimentação sobre o peso não pode ser atribuído de forma absoluta a um ingrediente. A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês informa 21 kcal por 10 g. Considere também os demais ingredientes da bebida ou refeição.",
-          "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um substituto automático de um laxante prescrito. Os objetivos e cuidados de uso são diferentes, e a escolha depende da causa dos sintomas. Se a constipação persiste, exige uso recorrente de medicamentos ou há desconforto com o suplemento, procure avaliação profissional antes de alterar o tratamento.",
-          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
         ]
       },
       {
@@ -50280,6 +50430,22 @@ export const reviewsData: unknown[] = [
           "FiberMais Sem Sabor pode ser uma ferramenta de suplementação, mas não transforma sozinho a qualidade da alimentação da família. Variedade de alimentos, hidratação adequada e atenção às necessidades de cada pessoa continuam fazendo parte dessa organização."
         ],
         "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes sobre FiberMais Sem Sabor",
+        "paragraphs": [
+          "As respostas distinguem informações do rótulo, orientações culinárias e decisões que dependem de avaliação individual. Elas não substituem diagnóstico nem uma recomendação de tratamento."
+        ],
+        "bullets": [
+          "Quantas colheres de FiberMais posso tomar por dia? A página oficial da lata Sem Sabor de 260 g informa 3 colheres de chá (7,6 g) ao dia; a dos sachês de 5 g informa 1 sachê duas vezes ao dia. Não converta esses valores em colheres de sopa nem aumente a quantidade sem orientação. Confira o rótulo da apresentação comprada.",
+          "Posso colocar FiberMais no café quente? A fabricante prevê uso em bebidas quentes. Prepare o café primeiro e acrescente o produto ao final, misturando até dissolver, sem levar novamente à fervura. A quantidade depende da apresentação e deve entrar no total consumido no dia.",
+          "Diabéticos podem tomar FiberMais? Depende do caso: converse com o profissional que acompanha a pessoa. As tabelas do Sem Sabor trazem as quantidades de açúcares e carboidratos por porção.",
+          "Crianças podem consumir FiberMais? As apresentações Sem Sabor consultadas indicam uso a partir de quatro anos. Para dar a uma criança, converse antes com o pediatra ou nutricionista.",
+          "Gestantes podem usar FiberMais? Converse com o obstetra ou nutricionista antes de usar.",
+          "FiberMais engorda? A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês, 21 kcal por 10 g. Para dúvidas sobre peso, procure um nutricionista.",
+          "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um medicamento. Quem usa laxante prescrito ou tem constipação persistente deve procurar um médico antes de mudar o tratamento.",
+          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
+        ]
       }
     ],
     "cta": {
@@ -50290,7 +50456,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Guia independente com fontes oficiais, sem teste de uso próprio. Não substitui avaliação médica ou nutricional. Parceria comissionada com cupom CECI.",
+    "editorialNote": "Fontes oficiais, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-senior-como-tomar-sem-empelotar",
@@ -51158,7 +51324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão; veja o veredito e os preços abaixo."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão; veja Veredito: para quem o Magnum vale a pena."
         ]
       },
       {
@@ -51200,7 +51366,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pillow top ajuda na dor nas costas?",
         "paragraphs": [
-          "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado, e muita gente acorda travada por isso. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
+          "Depende da origem do incômodo. Um colchão muito firme pode concentrar pressão em ombros e quadris, principalmente em quem dorme de lado. Nesse caso, uma camada de conforto por cima pode deixar a cama mais acolhedora sem trocar o colchão inteiro.",
           "O que o pillow top não faz é tratar problema de coluna. Hérnia de disco, dor que dura semanas, dor que irradia para as pernas ou que piora com o tempo precisam de avaliação de médico ou fisioterapeuta. E se o colchão já está afundado, o pillow top vai acompanhar o buraco: aí o problema é a base, não a superfície.",
           "Por isso a pergunta certa antes de comprar é: **o meu colchão está firme demais ou está gasto?** Se está firme e em bom estado, o pillow top é uma solução mais barata do que um colchão novo. Se está gasto, o dinheiro rende mais em outro colchão."
         ]
@@ -51358,8 +51524,8 @@ export const reviewsData: unknown[] = [
         "title": "Guia de Cobertores IWS: Linhas Huggy, Puffer, Cozy e Igloo"
       },
       {
-        "slug": "melatonina-quantas-gotas-tomar-horario-certo",
-        "title": "Melatonina Líquida: Quantas Gotas Tomar e Horário Certo"
+        "slug": "melatonina-liquida-iws-ficha-tecnica",
+        "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço"
       }
     ]
   },
@@ -61083,17 +61249,16 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "Porto Brasil é cerâmica ou porcelana?",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
-          "Quanto a ser boa, depende do uso: a maior parte das fichas de stoneware libera forno, micro-ondas, lava-louças e freezer, mas há exceções, e a faiança tem mais restrições. Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
+          "A Porto Brasil é boa se você olhar a ficha da peça: é cerâmica, não porcelana, e o stoneware libera forno, micro-ondas e freezer na maior parte das fichas, enquanto a faiança tem mais restrições. A fabricante tem nota 8,4 no Reclame Aqui. Veja o capítulo Veredito."
         ]
       },
       {
-        "heading": "De onde é a Porto Brasil",
+        "heading": "Porto Brasil é cerâmica ou porcelana?",
         "paragraphs": [
-          "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-          "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+          "Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
         ]
       },
       {
@@ -61177,10 +61342,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "De onde é a Porto Brasil",
+        "paragraphs": [
+          "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
+          "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+        ]
+      },
+      {
         "heading": "Garantia e reputação",
         "paragraphs": [
           "As fichas da Porto Brasil dão 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, conforme o produto.",
           "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
+        ]
+      },
+      {
+        "heading": "Veredito: a Porto Brasil é boa?",
+        "paragraphs": [
+          "A Porto Brasil é boa para quem escolhe pela ficha da peça. O stoneware libera forno, micro-ondas, lava-louças e freezer na maior parte das fichas, com exceções (as peças com ouro, alguns pratos e canecas), e a faiança libera micro-ondas e lava-louças, mas tem mais restrições de forno. A garantia é de 90 dias por defeito e de 9 ou 12 meses contra gretamento, e no Reclame Aqui a nota é 8,4, com 84,3% das 110 reclamações resolvidas.",
+          "Contra a Oxford, a vantagem da Porto Brasil é o forno declarado na ficha: o catálogo da Oxford não declara forno nas linhas Ryo e Unni. Sem teste próprio, não dizemos qual é melhor. Para levar ao forno, confira a ficha da peça e use a menor temperatura que a marca cita."
         ]
       },
       {
@@ -61244,7 +61423,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "letseatit",
-    "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as louças: os dados vêm da fabricante e de fontes públicas.",
+    "editorialNote": "Podemos receber comissão da Let's Eat It. Sem teste próprio: dados da fabricante.",
     "relatedArticles": [
       {
         "slug": "black-friday-letseatit",

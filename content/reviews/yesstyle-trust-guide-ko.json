@@ -27,6 +27,12 @@
   "cons": [],
   "contentSections": [
     {
+      "heading": "답변 요약",
+      "paragraphs": [
+        "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 매장이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다."
+      ]
+    },
+    {
       "heading": "기업 공개 정보",
       "paragraphs": [
         "YesStyle Limited는 2006년에 설립된 홍콩 기반의 글로벌 이커머스 플랫폼입니다. 홍콩 증권거래소 상장사(주식 코드 2209.HK)인 YesAsia Holdings Limited의 자회사로 운영되며, 정기적인 회계 감사를 받는 정식 기업입니다.",
@@ -72,6 +78,13 @@
       ]
     },
     {
+      "heading": "YesStyle, 믿고 구매해도 될까요?",
+      "paragraphs": [
+        "네, 다만 평소 확인은 필요합니다. YesStyle은 홍콩에 기반을 두고 2006년부터 운영해 왔으며, 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다. 400개 이상의 한국 뷰티 브랜드 정식 유통업체라고 밝히고 있지만, 이 주장을 확인해 주는 독립적인 감사 결과는 찾지 못했습니다.",
+        "실제로는 yesstyle.com에서만 주문하고, 결제 전에 배송 기간과 배송비를 확인하고, 받으면 제조번호, 유통기한, 봉인을 확인하세요."
+      ]
+    },
+    {
       "heading": "리워드 코드 및 추가 할인",
       "paragraphs": [
         "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다. CECILIA010 코드는 유효기간이 없으며 YesStyle과의 제휴가 이어지는 동안 계속 사용할 수 있습니다. 구매자에게 추가 비용은 없습니다."
@@ -94,7 +107,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "독립적인 편집 리뷰입니다. CECILIA010 코드 사용 시 제휴 파트너십을 통해 혜택이 제공됩니다.",
+  "editorialNote": "공개된 정보를 바탕으로 한 글입니다. CECILIA010 코드는 제휴로 제공됩니다.",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ko",

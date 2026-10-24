@@ -1,5 +1,10 @@
 [
   {
+    "source": "/reviews/melatonina-quantas-gotas-tomar-horario-certo",
+    "destination": "/reviews/melatonina-liquida-iws-ficha-tecnica",
+    "permanent": true
+  },
+  {
     "source": "/reviews/promocao-dolce-gusto-60-caixas-mini-me-gratis",
     "destination": "/reviews/promocao-dolce-gusto-caixas-mini-me-gratis",
     "permanent": true
