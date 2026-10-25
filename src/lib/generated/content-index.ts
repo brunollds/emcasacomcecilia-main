@@ -128707,5 +128707,1132 @@ export const reviewsData: unknown[] = [
         "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
       }
     ]
+  },
+  {
+    "id": 610,
+    "slug": "pre-treino-exquenta-mais-mu-e-bom",
+    "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína",
+    "seoTitle": "Exquenta Mais Mu: cafeína, taurina e preço por dose",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "metaDescription": "Exquenta Mais Mu: cafeína, taurina, açúcar e preço por dose de cada pote, sachê e versão sem cafeína, pela tabela da loja em 25/10/2026.",
+    "description": "Exquenta Mais Mu em potes de 300 g e 500 g, sachês e versões sem cafeína: cafeína e taurina por dose pelo rótulo, doses por pote e preço por dose com os preços de 25/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-capa.webp",
+    "imageAlt": "Potes de Exquenta Mais Mu de 500 g, sabores Pink Lemonade e Amora e Melancia, lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A loja não publica teste de efeito, e este guia não testa. Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja \"Quanto custa cada dose\"."
+        ]
+      },
+      {
+        "heading": "Os potes e os sachês pelo rótulo",
+        "paragraphs": [
+          "A loja vende 18 itens de Exquenta avulsos: quatro potes de 300 g, seis de 500 g, dois de 450 g e seis sachês. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-amora-300.webp",
+            "alt": "Tabela nutricional do Exquenta Amora e Melancia 300 g: 150 mg de cafeína e 500 mg de taurina por porção de 20 g",
+            "caption": "Tabela da própria loja, por porção de 20 g.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0559
+          },
+          {
+            "src": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-sache-maca-verde.webp",
+            "alt": "Tabela nutricional do sachê Exquenta Maçã Verde Lilith, por sachê de 20 g",
+            "caption": "Tabela da própria loja, por sachê de 20 g.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0199
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Doses",
+            "Porção",
+            "Cafeína por dose",
+            "Taurina por dose",
+            "Venda (25/10/2026)",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "Amora e Melancia 300 g",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 129,00",
+              "R$ 8,60"
+            ],
+            [
+              "Manga 300 g",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 129,00",
+              "R$ 8,60"
+            ],
+            [
+              "Pink Lemonade 300 g",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 129,00",
+              "R$ 8,60"
+            ],
+            [
+              "Tropical 300 g",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 129,00",
+              "R$ 8,60"
+            ],
+            [
+              "Amora e Melancia 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 125,99 (de R$ 179,99)",
+              "R$ 5,04"
+            ],
+            [
+              "Manga 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 125,99 (de R$ 179,99)",
+              "R$ 5,04"
+            ],
+            [
+              "Pink Lemonade 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 125,99 (de R$ 179,99)",
+              "R$ 5,04"
+            ],
+            [
+              "Tropical 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 179,99",
+              "R$ 7,20"
+            ],
+            [
+              "Azedinha Morango 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "400 mg",
+              "R$ 179,99",
+              "R$ 7,20"
+            ],
+            [
+              "Lilith Maçã Verde 500 g",
+              "25",
+              "20 g",
+              "150 mg",
+              "400 mg",
+              "R$ 179,99",
+              "R$ 7,20"
+            ],
+            [
+              "Nitrato Laranja e Acerola 450 g",
+              "15",
+              "30 g",
+              "sem linha",
+              "sem linha",
+              "R$ 132,30 (de R$ 189,00)",
+              "R$ 8,82"
+            ],
+            [
+              "Sem Cafeína Tropical 450 g",
+              "15",
+              "30 g",
+              "sem linha",
+              "sem linha",
+              "R$ 104,99 (de R$ 149,99)",
+              "R$ 7,00"
+            ],
+            [
+              "Sachê Amora e Melancia 15 un.",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ],
+            [
+              "Sachê Manga 15 un.",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ],
+            [
+              "Sachê Pink Lemonade 15 un.",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ],
+            [
+              "Sachê Tropical 15 un.",
+              "15",
+              "20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ],
+            [
+              "Sachê Maçã Verde Lilith 15 un.",
+              "15",
+              "20 g",
+              "150 mg",
+              "400 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ],
+            [
+              "Sachê Azedinha Morango 15 un. (dado da página)",
+              "15",
+              "20 g",
+              "150 mg",
+              "400 mg",
+              "R$ 194,85",
+              "R$ 12,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Pix da loja tira 3% do preço de venda, e o cupom MMEMCASACOMCECILIA dá 10% em todo o site e soma com o Pix. As contas com os dois estão em \"Quanto custa cada dose\".",
+          "O sachê Azedinha Morango é o único sem tabela: a loja não publica a tabela deste sabor, e os 150 mg de cafeína e 400 mg de taurina da linha dele vêm da arte da caixa, na página do produto."
+        ]
+      },
+      {
+        "heading": "Taurina: 400 mg em uns, 500 mg em outros",
+        "paragraphs": [
+          "A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença, e este guia também não."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-azedinha-500.webp",
+            "alt": "Tabela nutricional do Exquenta Azedinha Morango 500 g: 150 mg de cafeína e 400 mg de taurina por porção de 20 g",
+            "caption": "Pote de 500 g, na mesma porção de 20 g, com 400 mg de taurina.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0475
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada dose",
+        "paragraphs": [
+          "A conta é o preço de venda dividido pelas doses do pote. O preço com cupom tira 10% do subtotal. O preço no Pix usa o valor de Pix da página."
+        ],
+        "bullets": [
+          "**Pote de 300 g (15 doses):** R$ 8,60 por dose; R$ 7,74 com o cupom; R$ 8,34 no Pix.",
+          "**Pote de 500 g Amora e Melancia, Manga ou Pink Lemonade (25 doses, de R$ 179,99 por R$ 125,99):** R$ 5,04 por dose; R$ 4,54 com o cupom; R$ 4,89 no Pix.",
+          "**Pote de 500 g Tropical, Azedinha Morango ou Lilith Maçã Verde (25 doses, R$ 179,99):** R$ 7,20 por dose; R$ 6,48 com o cupom; R$ 6,98 no Pix.",
+          "**Nitrato Laranja e Acerola 450 g (15 doses de 30 g, de R$ 189,00 por R$ 132,30):** R$ 8,82 por dose; R$ 7,94 com o cupom; R$ 8,56 no Pix.",
+          "**Sem Cafeína Tropical 450 g (15 doses de 30 g, de R$ 149,99 por R$ 104,99):** R$ 7,00 por dose; R$ 6,30 com o cupom; R$ 6,79 no Pix.",
+          "**Sachê de 20 g (15 unidades, R$ 194,85):** R$ 12,99 por dose; R$ 11,69 com o cupom; R$ 12,60 no Pix."
+        ],
+        "postParagraphs": [
+          "Com o cupom e o Pix somados, a conta dá R$ 4,40 por dose no pote de 500 g de R$ 125,99 e R$ 7,51 no de 300 g. É conta nossa, ainda sem conferir no checkout com os dois juntos.",
+          "Os combos com creatina ficam fora desta conta. O pote de 1 kg de Exquenta só existe no combo com Creatina Refil 500 g (R$ 335,19, no Pix R$ 325,13), e a loja não separa o preço do Exquenta dentro dele. Os outros dois combos, de 300 g com creatina de 210 g e de 500 g com creatina refil, também somam creatina."
+        ]
+      },
+      {
+        "heading": "Sem cafeína: os dois 450 g",
+        "paragraphs": [
+          "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas de nitrato há na dose, então este texto não fala em dose de nitrato."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-sem-cafeina-450.webp",
+            "alt": "Tabela nutricional do Exquenta Sem Cafeína Tropical 450 g, por porção de 30 g",
+            "caption": "Tabela da própria loja, por porção de 30 g. Sem linha de cafeína.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7868
+          },
+          {
+            "src": "/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-nitrato-450.webp",
+            "alt": "Tabela nutricional do Exquenta Nitrato Laranja e Acerola 450 g, por porção de 30 g",
+            "caption": "Tabela da própria loja, por porção de 30 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8111
+          }
+        ]
+      },
+      {
+        "heading": "Ingredientes, alergênicos e o que o rótulo não traz",
+        "paragraphs": [
+          "Na página do Amora e Melancia 300 g, a lista de ingredientes traz isomaltulose, L-taurina, cafeína anidra, chá verde em pó, pimenta em pó, gengibre em pó, xilitol e glicosídeos de esteviol, entre outros. O aviso de alergênicos diz: \"pode conter soja, amendoim, avelãs, castanha-de-caju, nozes, ovos e leite. Não contém glúten.\"",
+          "A tabela dos potes de 300 g e 500 g e dos sachês marca, por dose de 20 g, 64 kcal, 16 g de carboidratos e 16 g de açúcares adicionados. O Sem Cafeína 450 g marca 102 kcal e 6 g de açúcares adicionados por dose de 30 g; o Nitrato 450 g, 100 kcal e 3 g.",
+          "O que a loja não publica nas páginas:"
+        ],
+        "bullets": [
+          "**Palatinose:** nenhuma tabela tem linha dela. As faixas de destaque dos potes de 300 g e 500 g e dos sachês dizem 16 g por dose.",
+          "**Fabricante:** nenhuma página declara quem fabrica o produto.",
+          "**Aviso de idade, de gestação e de dose máxima:** nenhuma página do Exquenta traz. Nos combos, aparece só \"conforme orientação de seu nutricionista\".",
+          "**Lista completa de ingredientes do Nitrato e do Sem Cafeína:** as páginas não trazem.",
+          "**Quantidade de nitrato:** o Nitrato 450 g não publica.",
+          "**Tabela do sachê Azedinha Morango:** não publica (ver acima)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Pelo rótulo e pelo preço, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade é a conta mais barata por dose, a R$ 5,04. Por perfil:"
+        ],
+        "bullets": [
+          "**Quer a dose mais barata:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 179,99 e saem a R$ 7,20 por dose.",
+          "**Quer sem cafeína:** o Sem Cafeína Tropical 450 g, a R$ 7,00 por dose, ou o Nitrato 450 g, a R$ 8,82. Nenhum dos dois traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato.",
+          "**Prefere a dose já medida:** o sachê, que é o mais caro por dose, a R$ 12,99."
+        ],
+        "postParagraphs": [
+          "A taurina é 500 mg por dose na maioria dos itens e 400 mg nos 500 g Azedinha Morango e Lilith Maçã Verde e nos sachês Maçã Verde e Azedinha Morango. O número de cada item está na tabela do início; a loja não explica a diferença.",
+          "Quem tem condição de saúde fala com um médico ou nutricionista antes de tomar."
+        ]
+      },
+      {
+        "heading": "Código e onde comprar",
+        "bullets": [
+          "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.",
+          "**Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).",
+          "**Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).",
+          "**Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
+          "**Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).",
+          "**Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Exquenta é bom? A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.",
+          "Tem Exquenta sem cafeína? Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.",
+          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa.",
+          "Qual é o cupom da Mais Mu? MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Não usamos os produtos. Os números vêm do rótulo e do site da loja, lidos em 25/10/2026. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Mais Mu, clique em Adicionar cupom de desconto no checkout e cole o MMEMCASACOMCECILIA.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre"
+      },
+      {
+        "slug": "pre-treino-black-skull-bope-ou-bone-crusher",
+        "title": "Pré-treino Black Skull: BOPE ou Bone Crusher, pela tabela do rótulo e pelo preço por dose"
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "slug": "whey-mais-mu-qual-escolher",
+    "title": "Whey Mais Mu: qual sabor e qual versão escolher (pote, refil, sachê e isolado)",
+    "seoTitle": "Whey Mais Mu: qual sabor e versão escolher [2026]",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "metaDescription": "Qual whey Mais Mu escolher: pote, refil, sachê e isolado pela contagem de doses da loja, com preço por dose e por 100 g de proteína em 25/10/2026.",
+    "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-capa.webp",
+    "imageAlt": "Embalagens do whey Mais Mu: pote de 450 g, refil de 900 g e caixa de sachês, com o código MMEMCASACOMCECILIA",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O refil de 900 g tem o menor preço por proteína entre os formatos com contagem de doses da loja; o pote de 450 g serve para conhecer o sabor e o sachê, para levar. A loja não aponta o melhor sabor, e este texto também não. Cada conta está no capítulo Preço por dose: pote, refil e sachê."
+        ]
+      },
+      {
+        "heading": "Como lemos a loja",
+        "paragraphs": [
+          "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
+          "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial, em 25/10/2026. Ninguém do site usou os produtos. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
+          "A loja escreve “cerca de N doses” em 30 das 48 páginas, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
+          "A proteína por dose também vem da loja: 20 g no concentrado e 22 g no isolado e no vegetal.",
+          "As contas são estas, com os preços de 25/10/2026:"
+        ],
+        "bullets": [
+          "R$ por dose = preço ÷ número de doses.",
+          "R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100."
+        ],
+        "postParagraphs": [
+          "As tabelas mostram o preço no cartão. O cupom e o Pix entram numa frase abaixo de cada uma."
+        ]
+      },
+      {
+        "heading": "Concentrado: pote de 450 g",
+        "paragraphs": [
+          "O Baunilha de 450 g é o único com a tabela nutricional da loja na galeria: porção de 36 g, cerca de 13 porções e 20 g de proteína por porção. Fora dele, a loja não publica gramas de pote nem de refil, e este texto não usa outra gramagem."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-tabela-baunilha-450g.webp",
+            "alt": "Tabela nutricional do Whey Concentrado Baunilha 450 g da Mais Mu: porção de 36 g, cerca de 13 porções, 20 g de proteína",
+            "caption": "Tabela da loja: porção de 36 g, cerca de 13 porções por pote.",
+            "objectFit": "contain",
+            "aspectRatio": 0.865
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Doses (loja)",
+            "Preço no cartão",
+            "R$ por dose",
+            "R$ por 100 g de proteína (conta nossa)",
+            "Disponível em 25/10/2026"
+          ],
+          "rows": [
+            [
+              "Baunilha e Cookies'n Cream",
+              "13",
+              "R$ 159,99",
+              "12,31",
+              "61,53",
+              "sim"
+            ],
+            [
+              "Brownie",
+              "13",
+              "R$ 159,99",
+              "12,31",
+              "61,53",
+              "não, esgotado"
+            ],
+            [
+              "Chocolate, Chocolate com avelã, Chocolate com coco, Morango e Paçoquita",
+              "12",
+              "R$ 159,99",
+              "13,33",
+              "66,66",
+              "sim"
+            ],
+            [
+              "Doce de leite",
+              "sem contagem",
+              "R$ 159,99",
+              "sem conta",
+              "sem conta",
+              "sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom MMEMCASACOMCECILIA e o Pix, o pote de 450 g sai por R$ 139,67. Só com o Pix, por R$ 155,19.",
+          "Para ver o concentrado da Mais Mu ao lado de outras marcas, leia [Mais Mu ou Growth](/reviews/mais-mu-ou-growth) e [Mais Mu ou Dux](/reviews/mais-mu-ou-dux)."
+        ]
+      },
+      {
+        "heading": "Concentrado: refil de 900 g",
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Doses (loja)",
+            "Preço no cartão",
+            "R$ por dose",
+            "R$ por 100 g de proteína (conta nossa)",
+            "Disponível em 25/10/2026"
+          ],
+          "rows": [
+            [
+              "Brownie e Cookies'n Cream",
+              "26",
+              "R$ 279,99",
+              "10,77",
+              "53,84",
+              "sim"
+            ],
+            [
+              "Baunilha e Morango",
+              "25",
+              "R$ 279,99",
+              "11,20",
+              "56,00",
+              "sim"
+            ],
+            [
+              "Chocolate",
+              "23",
+              "R$ 279,99",
+              "12,17",
+              "60,87",
+              "sim"
+            ],
+            [
+              "Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita",
+              "sem contagem",
+              "R$ 279,99",
+              "sem conta",
+              "sem conta",
+              "sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom e o Pix, o refil de 900 g sai por R$ 244,43, em qualquer sabor. Nos quatro sabores sem contagem a conta por dose não sai. O refil de Brownie e o de Cookies'n Cream têm a menor conta por proteína entre os refis com contagem: R$ 47,01 por 100 g com os dois descontos.",
+          "O refil de 1,8 kg custa R$ 499,99 nos sabores Baunilha e Paçoquita. A loja não publica a contagem dele, então não há conta por dose. O refil de Paçoquita de 222 g custa R$ 95,94 (R$ 93,06 no Pix), também sem contagem."
+        ]
+      },
+      {
+        "heading": "Sachê: caixa de 15 unidades",
+        "paragraphs": [
+          "A caixa tem 15 sachês. O peso de cada sachê está no texto de cada sabor, e a tabela traz esse peso. A própria página da caixa de Chocolate com Coco diz 15 sachês, 525 g e 35 g por sachê."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-caixa-sache-chocolate-com-coco.webp",
+            "alt": "Caixa de 15 sachês do whey Mais Mu Chocolate com Coco, foto oficial da loja",
+            "caption": "Caixa de 15 sachês do Chocolate com Coco, imagem oficial da loja.",
+            "objectFit": "contain",
+            "aspectRatio": 0.751
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Peso de cada sachê (texto do sabor)",
+            "Preço no cartão (caixa de 15)",
+            "R$ por sachê",
+            "Disponível em 25/10/2026"
+          ],
+          "rows": [
+            [
+              "Baunilha",
+              "36 g",
+              "R$ 239,85",
+              "15,99",
+              "sim"
+            ],
+            [
+              "Chocolate com avelã",
+              "39 g",
+              "R$ 239,85",
+              "15,99",
+              "sim"
+            ],
+            [
+              "Chocolate com coco",
+              "35 g",
+              "R$ 239,85",
+              "15,99",
+              "sim"
+            ],
+            [
+              "Paçoquita",
+              "37 g",
+              "R$ 239,85",
+              "15,99",
+              "sim"
+            ],
+            [
+              "Brownie",
+              "31 g",
+              "R$ 254,85",
+              "16,99",
+              "sim"
+            ],
+            [
+              "Cookies'n Cream",
+              "35 g",
+              "R$ 254,85",
+              "16,99",
+              "sim"
+            ],
+            [
+              "Doce de leite",
+              "37 g",
+              "R$ 254,85",
+              "16,99",
+              "sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Só o Chocolate com Coco tem a tabela publicada na galeria: 20 g de proteína por sachê de 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48.",
+          "Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão; uma dose do pote ou do refil, pela contagem da loja, sai de R$ 10,77 a R$ 13,33. O sachê faz sentido quando levar o pó pesa mais que essa diferença. Quem quer comparar o sachê com outras marcas encontra a Mais Mu no perfil de pote pequeno e sachê em [Melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ]
+      },
+      {
+        "heading": "Isolado e vegetal: o preço por dose",
+        "paragraphs": [
+          "Isolado e vegetal têm 22 g de proteína por dose, segundo a loja. No isolado, o pote de 450 g tem o maior preço por proteína de todo o quadro: R$ 85,22 por 100 g no cartão."
+        ],
+        "comparisonTable": {
+          "caption": "Isolado",
+          "headers": [
+            "Formato e sabores",
+            "Doses (loja)",
+            "Preço no cartão",
+            "R$ por dose",
+            "R$ por 100 g de proteína (conta nossa)",
+            "Disponível em 25/10/2026"
+          ],
+          "rows": [
+            [
+              "Pote de 450 g: Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor",
+              "16",
+              "R$ 299,99",
+              "18,75",
+              "85,22",
+              "sim"
+            ],
+            [
+              "Refil de 900 g: Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango",
+              "33",
+              "R$ 520,00",
+              "15,76",
+              "71,63",
+              "sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom e o Pix, o isolado de 450 g sai por R$ 261,89 e o de 900 g por R$ 453,96. O isolado Sem sabor tem o mesmo preço e a mesma contagem dos outros sabores de 450 g."
+        ]
+      },
+      {
+        "heading": "Vegetal: o preço por dose",
+        "comparisonTable": {
+          "caption": "Vegetal",
+          "headers": [
+            "Formato e sabores",
+            "Doses (loja)",
+            "Preço no cartão",
+            "R$ por dose",
+            "R$ por 100 g de proteína (conta nossa)",
+            "Disponível em 25/10/2026"
+          ],
+          "rows": [
+            [
+              "Pote de 450 g: Caramel Macchiato e Chocolate com avelã",
+              "13",
+              "R$ 199,00",
+              "15,31",
+              "69,58",
+              "sim"
+            ],
+            [
+              "Pote de 450 g: Torta de banana com canela",
+              "12",
+              "R$ 199,00",
+              "16,58",
+              "75,38",
+              "sim"
+            ],
+            [
+              "Refil de 900 g: Caramel Macchiato",
+              "27",
+              "R$ 346,00",
+              "12,81",
+              "58,25",
+              "sim"
+            ],
+            [
+              "Refil de 900 g: Chocolate com avelã",
+              "26",
+              "R$ 346,00",
+              "13,31",
+              "60,49",
+              "sim"
+            ],
+            [
+              "Refil de 900 g: Torta de banana com canela",
+              "25",
+              "R$ 346,00",
+              "13,84",
+              "62,91",
+              "sim"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 173,73 e o de 900 g por R$ 302,06.",
+          "A proteína vegetal, segundo a loja, é isolada de arroz e de ervilha. Ela não é whey e aparece aqui só para completar a linha."
+        ]
+      },
+      {
+        "heading": "Sabores: o que a loja mostra",
+        "paragraphs": [
+          "A loja publica estes sabores em cada formato, em 25/10/2026. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
+        ],
+        "bullets": [
+          "**Concentrado, pote de 450 g:** Baunilha, Chocolate, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Morango e Paçoquita, com contagem. Brownie, esgotado. Doce de leite, sem contagem.",
+          "**Concentrado, refil de 900 g:** Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango, com contagem. Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita, sem contagem.",
+          "**Concentrado, sachê:** Baunilha, Brownie, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Doce de leite e Paçoquita.",
+          "**Isolado:** Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor no pote de 450 g. Os cinco primeiros também no refil de 900 g.",
+          "**Proteína vegetal:** Caramel Macchiato, Chocolate com avelã e Torta de banana com canela, nos dois tamanhos."
+        ],
+        "postParagraphs": [
+          "O Brownie de 450 g estava esgotado em 25/10/2026. No refil de 900 g, o mesmo sabor segue disponível.",
+          "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
+        ]
+      },
+      {
+        "heading": "Sabores de parceria",
+        "paragraphs": [
+          "A loja apresenta quatro sabores como parceria, e é assim que eles entram aqui: parceria, segundo a Mais Mu."
+        ],
+        "bullets": [
+          "**Pistache Borelli, pote de 418 g:** parceria com a Borelli.",
+          "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca.",
+          "**Brownie do Luiz, pote de 420 g:** parceria, segundo a loja, com o nome que está no catálogo.",
+          "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
+        ],
+        "postParagraphs": [
+          "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis em 25/10/2026. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
+        ]
+      },
+      {
+        "heading": "Ingredientes e lactose",
+        "paragraphs": [
+          "Nos concentrados, o texto da loja traz proteína de soro do leite concentrada, o sabor, goma xantana e sucralose. Alguns citam cloreto de potássio. Os textos dizem “contém lactose”. Os alergênicos são derivados de leite e soja, com “pode conter” amendoim, avelã, castanha-de-caju e ovos.",
+          "O refil de Paçoquita de 222 g é o único sem a linha “contém lactose”: a página diz só “Contém amendoim, leite e derivados. Não contém glúten.” Isso não garante que ele seja sem lactose. Confira no rótulo.",
+          "Sobre glúten, os textos da Paçoquita não dizem a mesma coisa em todos os formatos. Confira no rótulo do formato que for comprar.",
+          "Sobre o isolado e o vegetal, as descrições dizem “proteína isolada” (no vegetal, do arroz e da ervilha), mas não trazem a lista completa de ingredientes. O isolado Baunilha de 450 g diz “contém lactose” e “não contém glúten”; os outros sabores do isolado não foram lidos, e o FAQ da loja diz que o isolado tem menos lactose que o concentrado, não que seja sem lactose. A lista completa está no rótulo do pote."
+        ]
+      },
+      {
+        "heading": "Cupom e Pix: quanto cai em cada formato",
+        "paragraphs": [
+          "O código MMEMCASACOMCECILIA dá 10% em todo o site da Mais Mu e soma com o desconto de 3% do Pix. Ele não soma com outro cupom. O crédito do cashback da loja e o desconto de boas-vindas também entram como cupom, então não somam com o nosso. O cashback é um programa da loja, não uma vantagem do código. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página da [Mais Mu](/cupons/mais-mu).",
+          "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os preços de 25/10/2026."
+        ],
+        "postParagraphs": [
+          "**Esperar a Black Friday?** Até 20/10/2026, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
+          "Antes de comprar, a dúvida pode ser a loja em si: [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)"
+        ]
+      },
+      {
+        "heading": "Qual formato escolher",
+        "paragraphs": [
+          "Não há um formato melhor para todo mundo. O que pesa é quanto você quer pagar por proteína, se precisa levar o pó e se a lactose importa para você."
+        ],
+        "bullets": [
+          "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 159,99, com 12 ou 13 doses.",
+          "**Quer o menor preço por proteína entre os formatos com contagem:** o refil de 900 g. Brownie ou Cookies'n Cream saem a R$ 53,84 por 100 g no cartão.",
+          "**Quer levar um pacote pequeno:** o sachê, a R$ 15,99 ou R$ 16,99 cada, acima do que custa uma dose do pote ou do refil.",
+          "**Quer a linha isolada:** o isolado de 450 g tem o maior preço por dose (R$ 18,75) e por proteína (R$ 85,22) de todo o quadro.",
+          "**Precisa evitar lactose:** leia o rótulo do sabor escolhido. Os concentrados e o isolado Baunilha dizem “contém lactose”."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-quadro-formatos.webp",
+            "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína em 25/10/2026",
+            "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão em 25/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8475
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
+          "Qual sabor da Mais Mu é o melhor? A loja não diz, e este texto também não escolhe, porque não há degustação aqui. O que dá para comparar é o formato, o preço por dose e o estoque de cada sabor.",
+          "A Mais Mu tem whey sem lactose? Nenhum concentrado da linha se apresenta como sem lactose. Os textos dizem “contém lactose”, e a única exceção é o refil de Paçoquita de 222 g, cuja página não traz essa linha. Isso não garante ausência de lactose, então confira o rótulo. O isolado Baunilha de 450 g também diz “contém lactose”; os outros sabores do isolado não foram lidos.",
+          "Sachê compensa? Depende do que você precisa. Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão, e uma dose do pote ou do refil com contagem sai de R$ 10,77 a R$ 13,33. Ele compensa quando levar o pó pesa mais que essa diferença.",
+          "O cupom vale no Mercado Livre? Não. O MMEMCASACOMCECILIA vale no site da Mais Mu. No Mercado Livre vale o preço do anúncio. O passo a passo do código está em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
+          "Whey ajuda a emagrecer ou a ganhar massa? Este texto não trata desse objetivo: ele compara rótulo, dose e preço. Quem tem uma meta de saúde, de peso ou de treino deve conversar com um nutricionista."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou os produtos desta lista. O texto reúne o que a loja publica, lido em 25/10/2026: preços, estoque, contagem de doses, ingredientes e textos de cada página. As contas de R$ por dose e por 100 g de proteína são nossas, com a contagem da loja. O Em Casa com Cecília é afiliado da Mais Mu e recebe comissão pelas compras feitas com o código MMEMCASACOMCECILIA, sem custo extra para você. Preço e estoque mudam: confira na loja antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Mais Mu, clique em Adicionar cupom de desconto no checkout e cole o MMEMCASACOMCECILIA.",
+      "label": "Ir para a Mais Mu com o cupom",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Podemos receber comissão pelo código MMEMCASACOMCECILIA. Sem degustação: dados da loja.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-ou-growth",
+        "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+      },
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "pre-treino-exquenta-mais-mu-e-bom",
+        "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína"
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "slug": "barra-de-proteina-mais-mu-qual-escolher",
+    "title": "Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher (proteína, açúcar e preço por unidade)",
+    "seoTitle": "Mais Mu: Mukebar, Crush Bar ou Chocowheyfer? Proteína e preço [2026]",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer da Mais Mu comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 25/10/2026.",
+    "metaDescription": "Mukebar, Crush Bar ou Chocowheyfer? Proteína, açúcar, calorias e preço por unidade das barras e wafers da Mais Mu, com as tabelas de 25/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa.webp",
+    "imageAlt": "Caixas das barras e wafers proteicos da Mais Mu: Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Mukebar 720 g tem mais proteína por unidade, 15 g em 60 g, e o menor preço por grama de proteína na conta nossa. A Chocowheyfer Sem Cobertura é a unidade mais barata e tem menos calorias e açúcar que a Mukebar. O que decide é o tamanho da unidade e o açúcar; veja em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Os produtos numa tabela",
+        "paragraphs": [
+          "Esta comparação cobre as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por produto e por unidade. Na coluna de proteína, \"tabela\" quer dizer que o número veio da tabela nutricional que a loja publica; \"texto\" quer dizer que veio da descrição da página e da embalagem.",
+          "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura foram lidos no sabor Chocolate; o peso e a tabela dos outros sabores não foram conferidos."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Peso por unidade",
+            "Proteína por unidade",
+            "Preço da unidade",
+            "R$ por g de proteína (conta nossa)"
+          ],
+          "rows": [
+            [
+              "Mukebar 720 g, sabores à venda",
+              "60 g (tabela, sabor Avelã)",
+              "15 g (tabela na Avelã; texto nos outros)",
+              "R$ 12,92",
+              "R$ 0,86"
+            ],
+            [
+              "Mukebar 40 g Paçoquita",
+              "40 g (título)",
+              "10 g (texto; tabela não publicada)",
+              "R$ 10,83",
+              "R$ 1,08"
+            ],
+            [
+              "Crush Bar 35 g, Chocolate e Morango",
+              "35 g (tabela)",
+              "10 g (tabela)",
+              "R$ 10,92",
+              "R$ 1,09"
+            ],
+            [
+              "Chocowheyfer Max 20 unidades, Chocolate",
+              "50 g (tabela)",
+              "12 g (tabela)",
+              "R$ 12,90",
+              "R$ 1,08"
+            ],
+            [
+              "Chocowheyfer Sem Cobertura 12 unidades, Chocolate",
+              "25 g (tabela)",
+              "6 g (tabela)",
+              "R$ 5,99",
+              "R$ 1,00"
+            ],
+            [
+              "Chocowheyfer 300 g, Chocolate",
+              "25 g (tabela)",
+              "6 g (tabela)",
+              "R$ 6,99",
+              "R$ 1,17"
+            ],
+            [
+              "Veggie Wafer 300 g, Chocolate",
+              "25 g (tabela)",
+              "5 g (tabela)",
+              "R$ 6,99",
+              "R$ 1,40"
+            ]
+          ]
+        },
+        "bullets": [
+          "**Chocowheyfer Bites.** A embalagem diz 35 g e 6 g de proteína. A página diz 10 g por porção. A tabela da mesma página diz porção de 25 g e 6 g. Com três números diferentes, o produto não entra na comparação.",
+          "**Mukebar Chocolate Duo 720 g.** Esgotada em 25/10/2026.",
+          "**Crush Bar Misto e Cookies'n Cream.** A página da Crush Bar os cita, mas eles não aparecem à venda na listagem de 25/10/2026.",
+          "**Mukebar Trufa, Vegana e Pão de mel.** A descrição da Mukebar cita os três sabores, mas nenhum aparece à venda em 25/10/2026."
+        ],
+        "postParagraphs": [
+          "A Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
+        ]
+      },
+      {
+        "heading": "Calorias, proteína e açúcar pela tabela",
+        "paragraphs": [
+          "Estes números vêm só das tabelas nutricionais que a loja publica em imagem. Cada linha é um sabor, e a porção é a unidade vendida. Onde não há tabela, o produto não aparece nesta tabela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-mukebar-avela.webp",
+            "alt": "Tabela nutricional da Mukebar Chocolate com Avelã da Mais Mu, porção de 60 g",
+            "caption": "Tabela publicada pela Mais Mu na página do produto, lida em 25/10/2026. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8412
+          },
+          {
+            "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-crush-bar-chocolate.webp",
+            "alt": "Tabela nutricional da Crush Bar Chocolate da Mais Mu, porção de 35 g",
+            "caption": "Tabela publicada pela Mais Mu na página do produto, lida em 25/10/2026. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 0.84
+          },
+          {
+            "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
+            "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g",
+            "caption": "Tabela publicada pela Mais Mu na página do produto, lida em 25/10/2026. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 0.84
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto (sabor lido)",
+            "Porção",
+            "kcal",
+            "Proteína",
+            "Açúcares totais",
+            "Açúcares adicionados"
+          ],
+          "rows": [
+            [
+              "Mukebar 720 g, Chocolate com Avelã",
+              "60 g",
+              "234",
+              "15 g",
+              "3,7 g",
+              "0 g"
+            ],
+            [
+              "Crush Bar 35 g, Chocolate",
+              "35 g",
+              "179",
+              "10 g",
+              "0,7 g",
+              "0 g"
+            ],
+            [
+              "Crush Bar 35 g, Morango",
+              "35 g",
+              "181",
+              "10 g",
+              "0,7 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer Max, Chocolate",
+              "50 g",
+              "260",
+              "12 g",
+              "0,6 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer Sem Cobertura, Chocolate",
+              "25 g",
+              "126",
+              "6 g",
+              "0,3 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer 300 g, Chocolate",
+              "25 g",
+              "126",
+              "6 g",
+              "0,4 g",
+              "0 g"
+            ],
+            [
+              "Veggie Wafer 300 g, Chocolate",
+              "25 g",
+              "121",
+              "5 g",
+              "0,1 g",
+              "0 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos sete sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
+          "Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g, da Max e do Sem Cobertura não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar."
+        ]
+      },
+      {
+        "heading": "Preço por unidade e por grama de proteína",
+        "paragraphs": [
+          "O preço da unidade é o da caixa dividido pelo número de unidades, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
+          "Com o cupom de 10%, a conta muda. A Mukebar 720 g sai a R$ 0,78 por grama de proteína, e a Chocowheyfer Sem Cobertura, a R$ 0,90. O Pix dá 3% de desconto e também soma com o cupom, mas essa conta não entra nos números acima."
+        ]
+      },
+      {
+        "heading": "Alérgenos e o wafer vegetal",
+        "paragraphs": [
+          "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano, e este texto não diz que o produto é vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
+          "Lemos a lista de ingredientes e o aviso de alérgenos de três produtos, nas páginas de 25/10/2026:"
+        ],
+        "bullets": [
+          "**Mukebar Chocolate com Avelã:** CONTÉM GLÚTEN e CONTÉM LACTOSE. Tem derivados do leite e de soja, e pode conter amendoim, castanhas, aveia, centeio, cevada e ovos. Os adoçantes são maltitol e glicosídeos de esteviol.",
+          "**Chocowheyfer 300 g, Chocolate:** CONTÉM GLÚTEN e CONTÉM LACTOSE. O primeiro ingrediente é a proteína concentrada do soro do leite (whey). Tem derivados de trigo e de soja, e pode conter amendoim, avelãs e castanhas.",
+          "**Veggie Wafer 300 g, Chocolate:** CONTÉM GLÚTEN. Tem derivados de trigo e de soja. Não tem leite na lista, mas o aviso diz que pode conter leite, amendoim, avelãs e castanhas."
+        ],
+        "postParagraphs": [
+          "Para a Crush Bar, a Mukebar Paçoquita 40 g, a Chocowheyfer Max, a Sem Cobertura e os outros sabores da Mukebar 720 g, a lista não foi lida. Antes de comprar, confira o aviso de alérgenos na página de cada produto e na embalagem."
+        ]
+      },
+      {
+        "heading": "Cupom e compra",
+        "paragraphs": [
+          "O cupom MMEMCASACOMCECILIA dá 10% em todo o site oficial da Mais Mu, inclusive em produto que já está em oferta. Ele soma com o desconto de 3% do Pix. Não soma com outro cupom nem com o cashback da própria loja, e só vale no site oficial, não no Mercado Livre. As condições atualizadas ficam na [página do cupom da Mais Mu](/cupons/mais-mu).",
+          "O passo a passo no checkout está em [como usar o cupom](/reviews/cupom-mais-mu-como-usar). A Mais Mu é uma marca brasileira que vende pelo próprio site; a reputação dela, com o histórico no Reclame Aqui, está em [Mais Mu é confiável](/reviews/mais-mu-e-confiavel), e não repetimos isso aqui."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
+        ],
+        "bullets": [
+          "**Mais proteína por unidade:** a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. São 234 kcal e 3,7 g de açúcar total, e a unidade sai a R$ 12,92. Também tem o menor R$ por grama de proteína, R$ 0,86.",
+          "**Menor preço por unidade:** a Chocowheyfer Sem Cobertura, a R$ 5,99, com 6 g e 126 kcal no sabor Chocolate. Pela conta nossa, ela fica em segundo lugar por grama de proteína, a R$ 1,00.",
+          "**Menos açúcar total:** o Veggie Wafer, com 0,1 g por unidade, e a Sem Cobertura, com 0,3 g. O Veggie Wafer tem glúten e pode conter leite.",
+          "**Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada.",
+          "**Meio-termo de tamanho:** a Crush Bar, com 10 g em 35 g, de 179 a 181 kcal e 0,7 g de açúcar total. A unidade sai a R$ 10,92, e a conta por grama de proteína fica em R$ 1,09.",
+          "**Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 260 kcal, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g."
+        ],
+        "postParagraphs": [
+          "Os números não dizem qual produto tem melhor sabor. Ninguém da equipe provou os produtos, e este texto não compara gosto. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Chocowheyfer tem açúcar? Tem 0,4 g de açúcar total por porção de 25 g no sabor Chocolate, e 0 g de açúcar adicionado, pela tabela da loja lida em 25/10/2026.",
+          "Mukebar tem glúten? Sim. A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso de alérgenos na página do produto.",
+          "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
+          "Tem barra vegana? A loja não vende barra vegana na listagem de 25/10/2026. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os números vêm das tabelas e das páginas de produto da Mais Mu, lidas em 25/10/2026. Os preços são desse dia, e as contas com cupom são nossas. Ninguém da equipe provou os produtos. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA, e isso não muda o preço para você."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Mais Mu e cole o cupom MMEMCASACOMCECILIA no checkout: são 10% OFF em todo o site.",
+      "label": "Ir para a Mais Mu",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "mais-mu-e-confiavel",
+        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "cupom-mais-mu-como-usar",
+        "title": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre"
+      },
+      {
+        "slug": "black-friday-mais-mu",
+        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+      }
+    ]
   }
 ];

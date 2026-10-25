@@ -6,9 +6,9 @@ parceiro: "[[Mais-Mu]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "json"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "revisao-editorial"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 70
@@ -422,3 +422,203 @@ Porções por embalagem, como a loja publica: 25 nos potes de 500 g ("2 medidas 
 - Sachê Azedinha e Morango (R$ 194,85): a galeria só tem fotos da caixa; a loja não publica a tabela.
 - Tropical 300 g (`/produtos/exquenta-tropical-300g-1xshw/`): página sem preço; fica fora.
 - Ingredientes do Nitrato e do Sem Cafeína e aviso de idade e de gestação: seguem sem fonte; o texto diz que a loja não publica.
+
+---
+
+# Rascunho do artigo (Job 2, 25/10/2026)
+
+- **Title:** Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína
+- **seoTitle:** Exquenta Mais Mu: cafeína, taurina e preço por dose
+- **type:** Guia de Escolha
+- **description:** Exquenta Mais Mu em potes de 300 g e 500 g, sachês e versões sem cafeína: cafeína e taurina por dose pelo rótulo, doses por pote e preço por dose com os preços de 25/10/2026.
+- **editorialNote:** Não usamos os produtos. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.
+
+## Resposta rápida
+
+A loja não publica teste de efeito, e este guia não testa. Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. O que pesa é o sabor: só três dos 500 g estão em oferta; veja "Quanto custa cada dose".
+
+## Os potes e os sachês pelo rótulo
+
+A loja vende 18 itens de Exquenta avulsos: quatro potes de 300 g, seis de 500 g, dois de 450 g e seis sachês. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda da página em 25/10/2026.
+
+[Imagem 1 do plano: tabela nutricional do Amora e Melancia 300 g, logo abaixo]
+
+| Produto | Doses | Porção | Cafeína por dose | Taurina por dose | Venda (25/10/2026) | Por dose |
+|---|---|---|---|---|---|---|
+| Amora e Melancia 300 g | 15 | 20 g | 150 mg | 500 mg | R$ 129,00 | R$ 8,60 |
+| Manga 300 g | 15 | 20 g | 150 mg | 500 mg | R$ 129,00 | R$ 8,60 |
+| Pink Lemonade 300 g | 15 | 20 g | 150 mg | 500 mg | R$ 129,00 | R$ 8,60 |
+| Tropical 300 g | 15 | 20 g | 150 mg | 500 mg | R$ 129,00 | R$ 8,60 |
+| Amora e Melancia 500 g | 25 | 20 g | 150 mg | 500 mg | R$ 125,99 (de R$ 179,99) | R$ 5,04 |
+| Manga 500 g | 25 | 20 g | 150 mg | 500 mg | R$ 125,99 (de R$ 179,99) | R$ 5,04 |
+| Pink Lemonade 500 g | 25 | 20 g | 150 mg | 500 mg | R$ 125,99 (de R$ 179,99) | R$ 5,04 |
+| Tropical 500 g | 25 | 20 g | 150 mg | 500 mg | R$ 179,99 | R$ 7,20 |
+| Azedinha Morango 500 g | 25 | 20 g | 150 mg | 400 mg | R$ 179,99 | R$ 7,20 |
+| Lilith Maçã Verde 500 g | 25 | 20 g | 150 mg | 400 mg | R$ 179,99 | R$ 7,20 |
+| Nitrato Laranja e Acerola 450 g | 15 | 30 g | sem linha | sem linha | R$ 132,30 (de R$ 189,00) | R$ 8,82 |
+| Sem Cafeína Tropical 450 g | 15 | 30 g | sem linha | sem linha | R$ 104,99 (de R$ 149,99) | R$ 7,00 |
+| Sachê Amora e Melancia 15 un. | 15 | 20 g | 150 mg | 500 mg | R$ 194,85 | R$ 12,99 |
+| Sachê Manga 15 un. | 15 | 20 g | 150 mg | 500 mg | R$ 194,85 | R$ 12,99 |
+| Sachê Pink Lemonade 15 un. | 15 | 20 g | 150 mg | 500 mg | R$ 194,85 | R$ 12,99 |
+| Sachê Tropical 15 un. | 15 | 20 g | 150 mg | 500 mg | R$ 194,85 | R$ 12,99 |
+| Sachê Maçã Verde Lilith 15 un. | 15 | 20 g | 150 mg | 400 mg | R$ 194,85 | R$ 12,99 |
+| Sachê Azedinha Morango 15 un. (dado da página) | 15 | 20 g | 150 mg | 400 mg | R$ 194,85 | R$ 12,99 |
+
+O Pix da loja tira 3% do preço de venda, e o cupom MMEMCASACOMCECILIA dá 10% em todo o site e soma com o Pix. As contas com os dois estão em "Quanto custa cada dose".
+
+O sachê Azedinha Morango é o único sem tabela: a loja não publica a tabela deste sabor, e os 150 mg de cafeína e 400 mg de taurina da linha dele vêm da arte da caixa, na página do produto.
+
+## Taurina: 400 mg em uns, 500 mg em outros
+
+A loja publica dois valores de taurina para a mesma porção de 20 g. Os potes de 500 g Azedinha Morango e Lilith Maçã Verde e o sachê Maçã Verde têm 400 mg por dose na tabela. O sachê Azedinha Morango traz 400 mg na arte da caixa. Os demais itens com cafeína declaram 500 mg. A loja não explica a diferença, e este guia também não.
+
+[Imagem 2 do plano: tabela nutricional do Azedinha Morango 500 g, com os 400 mg]
+
+## Quanto custa cada dose
+
+A conta é o preço de venda dividido pelas doses do pote. O preço com cupom tira 10% do subtotal. O preço no Pix usa o valor de Pix da página.
+
+- **Pote de 300 g (15 doses):** R$ 8,60 por dose; R$ 7,74 com o cupom; R$ 8,34 no Pix.
+- **Pote de 500 g Amora e Melancia, Manga ou Pink Lemonade (25 doses, de R$ 179,99 por R$ 125,99):** R$ 5,04 por dose; R$ 4,54 com o cupom; R$ 4,89 no Pix.
+- **Pote de 500 g Tropical, Azedinha Morango ou Lilith Maçã Verde (25 doses, R$ 179,99):** R$ 7,20 por dose; R$ 6,48 com o cupom; R$ 6,98 no Pix.
+- **Nitrato Laranja e Acerola 450 g (15 doses de 30 g, de R$ 189,00 por R$ 132,30):** R$ 8,82 por dose; R$ 7,94 com o cupom; R$ 8,56 no Pix.
+- **Sem Cafeína Tropical 450 g (15 doses de 30 g, de R$ 149,99 por R$ 104,99):** R$ 7,00 por dose; R$ 6,30 com o cupom; R$ 6,79 no Pix.
+- **Sachê de 20 g (15 unidades, R$ 194,85):** R$ 12,99 por dose; R$ 11,69 com o cupom; R$ 12,60 no Pix.
+
+Com o cupom e o Pix somados, a conta dá R$ 4,40 por dose no pote de 500 g de R$ 125,99 e R$ 7,51 no de 300 g. É conta nossa, ainda sem conferir no checkout com os dois juntos.
+
+Os combos com creatina ficam fora desta conta. O pote de 1 kg de Exquenta só existe no combo com Creatina Refil 500 g (R$ 335,19, no Pix R$ 325,13), e a loja não separa o preço do Exquenta dentro dele. Os outros dois combos, de 300 g com creatina de 210 g e de 500 g com creatina refil, também somam creatina.
+
+## Sem cafeína: os dois 450 g
+
+O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas de nitrato há na dose, então este texto não fala em dose de nitrato.
+
+[Imagem 3 do plano: tabela nutricional do Sem Cafeína Tropical 450 g]
+[Imagem 4 do plano: tabela nutricional do Nitrato Laranja e Acerola 450 g]
+
+## Ingredientes, alergênicos e o que o rótulo não traz
+
+Na página do Amora e Melancia 300 g, a lista de ingredientes traz isomaltulose, L-taurina, cafeína anidra, chá verde em pó, pimenta em pó, gengibre em pó, xilitol e glicosídeos de esteviol, entre outros. O aviso de alergênicos diz: "pode conter soja, amendoim, avelãs, castanha-de-caju, nozes, ovos e leite. Não contém glúten."
+
+A tabela dos potes de 300 g e 500 g e dos sachês marca, por dose de 20 g, 64 kcal, 16 g de carboidratos e 16 g de açúcares adicionados. O Sem Cafeína 450 g marca 102 kcal e 6 g de açúcares adicionados por dose de 30 g; o Nitrato 450 g, 100 kcal e 3 g.
+
+O que a loja não publica nas páginas:
+
+- **Palatinose:** nenhuma tabela tem linha dela. As faixas de destaque dos potes de 300 g e 500 g e dos sachês dizem 16 g por dose.
+- **Fabricante:** nenhuma página declara quem fabrica o produto.
+- **Aviso de idade, de gestação e de dose máxima:** nenhuma página do Exquenta traz. Nos combos, aparece só "conforme orientação de seu nutricionista".
+- **Lista completa de ingredientes do Nitrato e do Sem Cafeína:** as páginas não trazem.
+- **Quantidade de nitrato:** o Nitrato 450 g não publica.
+- **Tabela do sachê Azedinha Morango:** não publica (ver acima).
+
+## Qual escolher
+
+Pelo rótulo e pelo preço, o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade é a conta mais barata por dose, a R$ 5,04. Por perfil:
+
+- **Quer a dose mais barata:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 179,99 e saem a R$ 7,20 por dose.
+- **Quer sem cafeína:** o Sem Cafeína Tropical 450 g, a R$ 7,00 por dose, ou o Nitrato 450 g, a R$ 8,82. Nenhum dos dois traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato.
+- **Prefere a dose já medida:** o sachê, que é o mais caro por dose, a R$ 12,99.
+
+A taurina é 500 mg por dose na maioria dos itens e 400 mg nos 500 g Azedinha Morango e Lilith Maçã Verde e nos sachês Maçã Verde e Azedinha Morango. O número de cada item está na tabela do início; a loja não explica a diferença.
+
+Quem tem condição de saúde fala com um médico ou nutricionista antes de tomar.
+
+## Código e onde comprar
+
+- **Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.
+- **Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).
+- **Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).
+- **Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).
+- **Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).
+- **Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br) (sponsored).
+
+## Perguntas frequentes
+
+### O Exquenta é bom?
+A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.
+
+### Tem Exquenta sem cafeína?
+Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.
+
+### Quanta cafeína tem por dose?
+150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa.
+
+### Qual é o cupom da Mais Mu?
+MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix.
+
+## Nota de transparência
+
+Não usamos os produtos. Os números vêm do rótulo e do site da loja, lidos em 25/10/2026. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.
+
+## Plano de imagens
+
+- **Capa (hero):** potes de 300 g e de 500 g, sabores diferentes, lado a lado, com a faixa de cafeína. Foto da loja; o Job 6 escolhe a foto e a montagem. Alt sugerido: "Potes de Exquenta Mais Mu de 300 g e de 500 g, lado a lado".
+- **Imagem 1 (seção da tabela):** tabela nutricional do Exquenta Amora e Melancia 300 g (página da loja, imagem). Alt: "Tabela nutricional do Exquenta Amora e Melancia 300 g: 150 mg de cafeína e 500 mg de taurina por porção de 20 g". Legenda: "Tabela da própria loja, por porção de 20 g."
+- **Imagem 2 (seção da taurina):** tabela nutricional do Exquenta Azedinha Morango 500 g. Alt: "Tabela nutricional do Exquenta Azedinha Morango 500 g: 150 mg de cafeína e 400 mg de taurina por porção de 20 g". Legenda: "Mesma porção de 20 g do pote de 300 g, com 400 mg de taurina."
+- **Imagem 3 (seção sem cafeína):** tabela nutricional do Sem Cafeína Tropical 450 g, por porção de 30 g, sem linha de cafeína. Alt: "Tabela nutricional do Exquenta Sem Cafeína Tropical 450 g, por porção de 30 g".
+- **Imagem 4 (seção sem cafeína):** tabela nutricional do Nitrato Laranja e Acerola 450 g, por porção de 30 g. Alt: "Tabela nutricional do Exquenta Nitrato Laranja e Acerola 450 g, por porção de 30 g".
+- **Imagem 5 (seção dos sachês, no capítulo da tabela):** tabela nutricional do sachê Maçã Verde Lilith, 15 unidades de 20 g. Alt: "Tabela nutricional do sachê Exquenta Maçã Verde Lilith, por sachê de 20 g".
+
+Todas são da própria loja (fotos de tabela e de embalagem). Não entra foto de concorrente, nem foto gerada por IA, nem a arte do sachê Azedinha como se fosse tabela.
+
+## Matriz de claims
+
+| Afirmação no texto | Fonte exata | Status |
+|---|---|---|
+| 150 mg de cafeína por dose de 20 g nos potes de 300 g e 500 g e nos sachês | Tabelas das páginas p4, p10, p9 e as demais com tabela; arte do sachê Azedinha (p8) | Aprovado |
+| Taurina de 500 mg ou 400 mg, por item | Tabelas e arte; sem interpretar | Aprovado |
+| Preço de venda, "de" e Pix em 25/10/2026 | Páginas de produto lidas em 25/10/2026 | Aprovado; reler antes de publicar |
+| Cupom de 10% em todo o site, soma com o Pix de 3%, vale em produto em oferta | `01_Parceiros/Mais-Mu.md`, teste de 20/10/2026 | Aprovado; checkout com cupom e Pix juntos não conferido |
+| 1 kg só existe no combo com creatina | Página do combo (p20) | Aprovado |
+| Palatinose sem linha na tabela; 16 g nas faixas de destaque | Faixas das páginas p1, p2, p3, p6, p17, p18 | Aprovado |
+| Sem aviso de idade, gestação ou dose máxima nas páginas | Leitura de 25/10/2026 | Aprovado com "nas páginas" |
+| Fabricante não declarado nas páginas | Leitura de 25/10/2026 | Aprovado |
+| Alegações de efeito, energia, foco, desempenho e "sem palpitação" | Textos e títulos das páginas | Excluídas do texto |
+
+## Pendências para o Bruno e para a revisão
+
+- Nenhum [VERIFICAR] ficou no texto.
+- Checkout com cupom e Pix juntos: não conferido. O texto diz isso na conta.
+- Reler preços, De e Pix antes de publicar, e o estoque: a API mostra 538 para o Azedinha Morango 500 g e 146 para o Lilith Maçã Verde 500 g.
+- A página duplicada do Tropical 300 g (`exquenta-tropical-300g-1xshw`) ficou fora por não ter preço.
+- Taurina 400 mg e 500 mg no mesmo tamanho de dose: o texto mostra os dois, sem explicar.
+- Achados da leitura para a sessão de artigos (fora do texto): alt e texto errados no Manga 300 g e no Manga 500 g; tabelas do Nitrato e do Sem Cafeína com cálcio, cloreto, magnésio e potássio iguais; sachês de Tropical, Manga, Pink e Amora fora da categoria `/pre-treinos/`.
+
+## Revisão Job 3 (Fable, 25/10/2026)
+
+Mudou no rascunho:
+- Resposta rápida reescrita (3 frases, 60 palavras): "pelo rótulo e pelo preço", e a última frase aponta o que pesa (só três dos 500 g em oferta) e o capítulo.
+- "Qual escolher": saiu o perfil "Quer 500 mg de taurina por dose"; a taurina virou uma frase neutra com os dois valores e o aviso de que a loja não explica. O perfil do 500 g ganhou os três sabores a R$ 179,99; "Quer praticidade" virou "Prefere a dose já medida"; no sem cafeína, "nenhum traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato".
+- Sachê Azedinha: as duas frases repetidas viraram uma, dizendo que é o único sem tabela.
+- "Sem cafeína": "se dizem sem cafeína, no nome" virou "a loja chama de sem cafeína, no título e no texto da página" (o nome do Nitrato não diz "sem cafeína").
+- Ressalva do cupom + Pix encurtada; âncora do link de /cupons/mais-mu sem repetir "página da loja".
+
+Conferido, sem mudança: todas as contas por dose (venda/doses, ×0,90, Pix da página/doses e cupom + Pix ×0,90×0,97) batem com o Anexo A; os 6 preços Pix são 3% da venda; 18 itens na tabela (4 + 6 + 2 + 6), Tropical 300 g de R$ 129,00 dentro e o duplicado `-1xshw` fora; nenhum travessão, nenhuma alegação de efeito, nada de Anvisa; editorialNote com 79 caracteres; 1 link para /cupons/mais-mu.
+
+Para o Bruno:
+- Açúcares: a tabela publica 16 g de açúcares adicionados e 64 kcal por dose de 20 g (Anexos A e B) e o texto não cita. Fica fora até sua decisão.
+- Checkout com cupom e Pix juntos segue sem conferir (o texto diz).
+- O capítulo "Código e onde comprar" fica entre o veredito ("Qual escolher") e o FAQ.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 25/10/2026)
+
+Folha: `scratchpad/a8-a5/job6-pre-treino-exquenta-mais-mu-e-bom/out/FOLHA.md`. Pasta: `public/images/reviews/mais-mu/`. Nada subiu ao CDN nesta etapa.
+
+**Capa** (`image`, `imageFit: "contain"`, `imageAspect: "landscape"`, 1600×900)
+- Caminho: `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-capa.webp`
+- Alt: "Potes de Exquenta Mais Mu de 500 g, sabores Pink Lemonade e Amora e Melancia, lado a lado"
+- Origem: montagem nossa, com fotos de produto do catálogo público da loja (baixadas em 25/10/2026) e o logo `public/images/about/partners/mais-mu-icon.png`.
+
+**Corpo**: tabelas nutricionais da própria loja, recortadas no cartão. `aspectRatio` = largura / altura.
+
+| # | Caminho | Seção no JSON | Alt | Legenda | aspectRatio |
+|---|---|---|---|---|---|
+| 1 | `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-amora-300.webp` | Os potes e os sachês pelo rótulo | Tabela nutricional do Exquenta Amora e Melancia 300 g: 150 mg de cafeína e 500 mg de taurina por porção de 20 g | Tabela da própria loja, por porção de 20 g. | 1.0559 |
+| 2 | `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-azedinha-500.webp` | Taurina: 400 mg em uns, 500 mg em outros | Tabela nutricional do Exquenta Azedinha Morango 500 g: 150 mg de cafeína e 400 mg de taurina por porção de 20 g | Mesma porção de 20 g do pote de 300 g, com 400 mg de taurina. | 1.0475 |
+| 3 | `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-sem-cafeina-450.webp` | Sem cafeína: os dois 450 g | Tabela nutricional do Exquenta Sem Cafeína Tropical 450 g, por porção de 30 g | Tabela da própria loja, por porção de 30 g. Sem linha de cafeína. | 0.7868 |
+| 4 | `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-nitrato-450.webp` | Sem cafeína: os dois 450 g | Tabela nutricional do Exquenta Nitrato Laranja e Acerola 450 g, por porção de 30 g | Tabela da própria loja, por porção de 30 g. | 0.8111 |
+| 5 | `/images/reviews/mais-mu/pre-treino-exquenta-mais-mu-e-bom-tabela-sache-maca-verde.webp` | Os potes e os sachês pelo rótulo | Tabela nutricional do sachê Exquenta Maçã Verde Lilith, por sachê de 20 g | Tabela da própria loja, por sachê de 20 g. | 1.0199 |
+
+Origem das imagens 1 a 5: loja, tabelas nutricionais das páginas de produto lidas em 25/10/2026.
+
+Json: `content/reviews/pre-treino-exquenta-mais-mu-e-bom.json` (id 610).
