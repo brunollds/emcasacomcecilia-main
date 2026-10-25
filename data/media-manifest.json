@@ -75835,6 +75835,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "local_url": "/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59080,
+      "sha256": "b644897ab649b9d745425e1e17264923c9904ca2d5daa27adb2ddae24f4d076e",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "storage_filename": "creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-com-sabor-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-com-sabor-qual-escolher.json",
+          "line": 168,
+          "column": 19,
+          "literal": "/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b644897ab649b9d745425e1e17264923c9904ca2d5daa27adb2ddae24f4d076e/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b644897ab649b9d745425e1e17264923c9904ca2d5daa27adb2ddae24f4d076e/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-25T19:06:33.370Z",
+      "verification_etag_or_digest": "b644897ab649b9d745425e1e17264923c9904ca2d5daa27adb2ddae24f4d076e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
       "local_url": "/images/reviews/probiotica/cupom-probiotica-capa-discover.webp",
       "media_kind": "image",

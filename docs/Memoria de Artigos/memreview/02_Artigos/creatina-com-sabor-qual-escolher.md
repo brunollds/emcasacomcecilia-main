@@ -277,7 +277,7 @@ Não encontramos creatina com sabor no catálogo da Probiótica em 25/10/2026: a
 
 **Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive (teste de 14/10); se o desconto do Pix também se mantém junto com o cupom, não conferimos. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).
 
-**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, e vale em todas as formas de pagamento. Não testamos a soma com as promoções da loja, então o texto não diz que soma.
+**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento (teste de 13/10). Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão.
 
 ## Qual creatina com sabor escolher
 
@@ -371,3 +371,8 @@ Folha: `scratchpad/pautas-a21-a22/job6/out/FOLHA.md`. Imagens em `public/images/
 | 4 (corpo) | `creatina-com-sabor-qual-escolher-tabela-black-skull-saborizada.webp` | "Black Skull: o sabor no pote de 300 g" | Tabela nutricional da Creatine 300 g saborizada da Black Skull: porção de 6 g, 5.000 mg de creatina e 0,4 g de carboidrato | Tabela da própria Black Skull, na página do produto (25/10/2026). | Black Skull, foto 165925, 25/10/2026 | `458/668`, `contain` |
 
 Desvio: a imagem da Probiótica (pote de creatina pura de 300 g) não foi feita. O arquivo do repositório mostra o pote de 150 g, e o domínio foi recusado. O corpo ficou com três imagens, acima do piso de uma.
+
+## Probiótica no Chrome (Claude, 25/10/2026)
+
+O domínio abriu no Chrome (o bloqueio era de 23/10). Creatina Monohidratada Pura 300 g (ficha id 20, /creatina-300g/p): R$ 59,90 no cartão (de R$ 75,10) e R$ 56,90 no Pix, "com 5% de desconto no PIX". Foto oficial do pote (imagem 160144, 1000×1000) aprovada pelo Bruno em 25/10/2026 e enviada ao CDN: `/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp`, quadrada, na seção da Probiótica; alt "Pote de 300 g da Creatina Monohidratada Pura da Probiótica"; legenda "Creatina Monohidratada Pura 300 g. Imagem: Probiótica."
+A frase de cupons da Probiótica passou a dizer que o PRO10EMCASACOMCECILIA soma com as promoções: é o teste de 13/10 registrado no couponsData ("soma com as promoções e vale no Pix e no cartão").
