@@ -6,7 +6,7 @@ parceiro: "[[Clea-Store]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "revisado"
+status: "json"
 responsavel: "Claude"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -447,3 +447,14 @@ Para o Bruno:
 - Bruno (24/10): pode linkar o artigo do Mercado Livre. O teto de 3 do contrato vale para links à página da loja (só 1 aqui); os links a artigos irmãos seguem a prática da série. Entraram o do Mercado Livre e o da tabela de medidas.
 - Bruno (24/10): A20 publica antes do look de Natal.
 - Pré-venda com entrega "a partir de 08/10/2026": o texto repete a página; reler no dia de publicar.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 24/10/2026)
+
+Caminhos em `public/images/reviews/clea-store/` (local no JSON; o CDN resolve na entrega). Origem das fotos: CDN oficial da Cléa Store, baixadas em 24/10/2026. Nenhuma foto de pessoa sem autorização; a capa tem modelo nas fotos oficiais de 4404 e 4221, recortada para o rosto ficar no topo.
+
+- **Capa** `alfaiataria-verao-clea-store-capa-discover.webp` (16:9, `imageFit: contain`). Alt: "Blazer rosa de linho 4404 e colete bege de linho 4221 da Cléa Store". Faixa com logo da Cléa e "Alfaiataria de verão". Origem: fotos oficiais 4404 e 4221 e montagem nossa.
+- **Corpo, "Tecido: o que a ficha diz"** `alfaiataria-verao-clea-store-tabela-tecido.webp` (tabela desenhada, 1169 x 1465). Alt: "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store, lidas em 24/10/2026." Legenda: "Dados da ficha e do site em 24/10/2026, sem cupom." Origem: montagem nossa com os dados da ficha.
+- **Corpo, "Colete: linho bege ou vermelho"** `alfaiataria-verao-clea-store-colete-4221.webp` (900 x 1350). Alt: "Colete Frente Única Linho Bege da Cléa Store, foto oficial do site". Legenda: "Colete Frente Única Linho Bege (4221). Imagem: Cléa Store."
+- **Corpo, "Montar um conjunto (monte o seu)"** `alfaiataria-verao-clea-store-shorts-4402.webp` (900 x 1350). Alt: "Shorts Rosa Linho da Cléa Store, foto oficial do site". Legenda: "Shorts Rosa Linho (4402). Imagem: Cléa Store."
+
+Não entram: fotos "captura sem título" (4393, 4395, 4416, 4414, 4382) e a foto de 4282 (só serve à correção do look de trabalho).

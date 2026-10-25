@@ -6,7 +6,7 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "revisado"
+status: "json"
 responsavel: "-"
 proxima_acao: "revisao-do-texto"
 bloqueado_por: null
@@ -324,3 +324,16 @@ Para o Bruno:
 - O briefing (seção 3) continua dizendo que a Dark Lab tem preço baixo na creatina; a tabela mostra a Black Skull mais barata em todos os tamanhos, e o texto segue a tabela. Corrigir a pauta.
 - Links internos: ficaram 5 (página do cupom e 4 artigos), acima do teto de 3 do CONTRATOS-DE-CONTEUDO.md, porque o gate 4 do briefing pede os irmãos e os "qual escolher". Se preferir o teto, tirar os dois "qual escolher".
 - Autocompletar de 24/10 não rodado (pendência 5 do Job 2) e releitura de preço e estoque no dia de publicar seguem abertas.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 24/10/2026)
+
+Caminhos locais em `public/images/reviews/black-skull/`, com o mesmo nome do arquivo na folha. Origem na folha do Job 6 (`job6/out/FOLHA.md`).
+
+| Arquivo | Seção | Alt | Legenda | Origem | Proporção |
+|---|---|---|---|---|---|
+| `black-skull-ou-dark-lab-capa-discover.webp` (`/images/reviews/black-skull/…`) | Capa (topo), `imageFit: contain` | Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Dark Lab? | (capa) | Foto da Black Skull já no repositório (`black-skull-ou-dux-embalagens-whey.webp`); faixa com logo da Black Skull | 16:9 |
+| `black-skull-ou-dark-lab-tabela-preco-100g.webp` | Corpo, "Creatina: preço por 100 g de produto" | Tabela com o preço por 100 g de creatina e de proteína da Black Skull e da Dark Lab, com e sem o CECILIA10, em reais, com preços de 24/10/2026. | Preços do site em 24/10/2026, sem desconto de Pix. | Montagem nossa com os números do texto | 1168 / 1361 |
+| `black-skull-ou-dark-lab-creator-500g.webp` | Corpo, "Creatina: preço por 100 g de produto" | Embalagem da Creatina Creator refil de 500 g da Black Skull. | Creator refil 500 g, a linha da conta por 100 g. | https://blackskullusa.vteximg.com.br/arquivos/ids/165960/CREATOR-Pouch-500g.jpg (baixada em 24/10/2026, sem borda branca) | 1048 / 1147 |
+| `black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp` | Corpo, "Whey: preço por 100 g de proteína" | Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína. | Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g. | https://blackskullusa.vteximg.com.br/arquivos/ids/166030/Tabela-Nutricional.jpg (baixada em 24/10/2026, sem borda branca) | 1259 / 1253 |
+
+Nenhuma imagem da Dark Lab.

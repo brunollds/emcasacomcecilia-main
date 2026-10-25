@@ -126229,5 +126229,1218 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 602,
+    "slug": "black-skull-ou-dark-lab",
+    "locale": "pt",
+    "title": "Black Skull ou Dark Lab: whey e creatina comparados por dose, proteína e preço",
+    "seoTitle": "Black Skull ou Dark Lab: whey e creatina pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Black Skull ou Dark Lab: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp",
+    "imageAlt": "Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Dark Lab?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo preço de 24/10/2026, a Black Skull sai mais barata que a Dark Lab na creatina em todos os tamanhos. No whey, as duas quase empatam por 100 g de proteína, e a Black Skull 80% HD passa à frente com o cupom CECILIA10. O que pesa é a dose e a proteína de cada rótulo; veja em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site em 24/10/2026, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux) seguem o mesmo método."
+        ]
+      },
+      {
+        "heading": "De onde vem cada marca",
+        "paragraphs": [
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 24/10/2026. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
+          "O rodapé do site da Dark Lab cita a American Product LTDA, CNPJ 18.744.639/0001-47. A BrasilAPI registra a razão social AMERICAN PRODUCT LTDA, aberta em 2013. O endereço não entra aqui, porque o do rodapé e o do cadastro não coincidem."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g de produto",
+        "paragraphs": [
+          "A tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-preco-100g.webp",
+            "alt": "Tabela com o preço por 100 g de creatina e de proteína da Black Skull e da Dark Lab, com e sem o CECILIA10, em reais, com preços de 24/10/2026.",
+            "caption": "Preços do site em 24/10/2026, sem desconto de Pix.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8581
+          },
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
+            "alt": "Embalagem da Creatina Creator refil de 500 g da Black Skull.",
+            "caption": "Creator refil 500 g, a linha da conta por 100 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9137
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço no site",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "Black Skull Kit 2x Creator refil",
+              "1 kg (2 x 500 g)",
+              "R$ 75,81",
+              "R$ 7,58"
+            ],
+            [
+              "Black Skull Creator refil",
+              "500 g",
+              "R$ 39,90",
+              "R$ 7,98"
+            ],
+            [
+              "Black Skull Creator",
+              "300 g",
+              "R$ 29,90",
+              "R$ 9,97"
+            ],
+            [
+              "Dark Lab Creatina refil",
+              "1 kg",
+              "R$ 82,89",
+              "R$ 8,29"
+            ],
+            [
+              "Dark Lab Creatina refil",
+              "500 g",
+              "R$ 44,33",
+              "R$ 8,87"
+            ],
+            [
+              "Dark Lab Creatina",
+              "300 g",
+              "R$ 39,89",
+              "R$ 13,30"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, a Creator refil 500 g sai por R$ 7,18 por 100 g, o kit com dois refis por R$ 6,82 e a Creator 300 g por R$ 8,97."
+        ]
+      },
+      {
+        "heading": "Whey: preço por 100 g de proteína",
+        "paragraphs": [
+          "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha de 23/10/2026. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp",
+            "alt": "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína.",
+            "caption": "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0048
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Dose e proteína por dose",
+            "Preço no site",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 80% HD refil",
+              "900 g",
+              "30 g, 23 g de proteína",
+              "R$ 159,90",
+              "R$ 23,17"
+            ],
+            [
+              "Black Skull Whey 100% HD refil",
+              "900 g",
+              "35 g, 21 g de proteína",
+              "R$ 159,90",
+              "R$ 30,46"
+            ],
+            [
+              "Dark Lab 100% Whey Protein refil",
+              "900 g",
+              "30 g, 21 g de proteína",
+              "R$ 149,89",
+              "R$ 23,79"
+            ],
+            [
+              "Dark Lab 100% Whey Protein pote",
+              "900 g",
+              "30 g, 21 g de proteína",
+              "R$ 199,89",
+              "R$ 31,73"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Dark Lab 100% Whey refil aparece na página com o preço de R$ 177,50 riscado. O pote de 900 g usa a mesma dose de 30 g na conta. O concentrado de 1 kg da Dark Lab (R$ 139,89 no site, dose de 50 g) fica fora da tabela: a página não diz quanta proteína tem essa dose.",
+          "Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína, e a 100% HD por R$ 27,41."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz",
+        "paragraphs": [
+          "A Black Skull declara creatina monohidratada na lista de ingredientes da Creator. A Dark Lab não publica a tabela nutricional da creatina, então o texto não diz qual forma ela usa nem quanta creatina há em cada dose. Por isso a conta por 100 g compara o preço do pote, e não a creatina pura.",
+          "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. A 100% HD traz WPC, WPI, WPH e peptídeos hidrolisados, segundo a lista de ingredientes. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
+          "Os dois wheys contêm lactose. Sobre glúten, a página da Dark Lab diz que o 100% Whey não contém, com exceção do sabor cookies. A tabela nutricional completa não está publicada no site da Dark Lab, então o texto não compara outros nutrientes."
+        ]
+      },
+      {
+        "heading": "Código e onde comprar",
+        "paragraphs": [
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout em 24/10/2026 aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no site, ou R$ 6,82 com o cupom. A Creator refil de 500 g sai por R$ 7,98, ou R$ 7,18 com o cupom. A Dark Lab fica acima em todos os tamanhos da tabela. Este texto não traz cupom da Dark Lab.",
+          "**Whey: depende do que você compara.**"
+        ],
+        "bullets": [
+          "Para o menor preço por grama de proteína, a Black Skull 80% HD com o CECILIA10, a R$ 20,86 por 100 g.",
+          "Para mais proteína em cada dose, também a Black Skull 80% HD: 23 g contra 21 g da Dark Lab, na mesma porção de 30 g.",
+          "A Dark Lab 100% Whey refil custa menos por 100 g de proteína que a Black Skull 100% HD (R$ 23,79 contra R$ 30,46 no site), mas fica R$ 0,62 acima da 80% HD."
+        ],
+        "postParagraphs": [
+          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Black Skull é brasileira? A própria marca diz que sim: o site fala em marca brasileira, sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI.",
+          "Black Skull é da Integralmédica? Não há fonte oficial que ligue as duas marcas. O site não cita a Integralmédica, e ela não aparece no quadro de sócios (QSA) da empresa do CNPJ. O texto não afirma o contrário: o que se pode dizer é o que a própria marca declara sobre a origem.",
+          "Creatina Black Skull ou Dark Lab, qual compensa mais? Pelo preço por 100 g, a Black Skull. A Creator refil 500 g sai por R$ 7,98 no site, e a Dark Lab de 500 g por R$ 8,87. A Dark Lab não publica a tabela da creatina, então a pergunta sobre a forma da creatina não tem resposta neste texto."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-growth",
+        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "black-skull-ou-dux",
+        "title": "Black Skull ou Dux: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "slug": "snacks-dr-peanut-qual-escolher",
+    "title": "Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)",
+    "seoTitle": "Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína [2026]",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Doctor Bar, alfajor e Doctor Wafer comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 24/10/2026.",
+    "metaDescription": "Doctor Bar, alfajor ou Doctor Wafer? Proteína, açúcar, calorias e preço por unidade dos snacks da Dr. Peanut, com as tabelas de 24/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-discover.webp",
+    "imageAlt": "Barra de chocolate com coco, alfajor de avelã e barra speculoos da Dr. Peanut, lado a lado.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade, R$ 11,46. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Os três snacks em uma tabela",
+        "paragraphs": [
+          "Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Peso",
+            "kcal",
+            "Proteína",
+            "Açúcares totais",
+            "Açúcares adicionados",
+            "Gordura saturada",
+            "Preço da unidade"
+          ],
+          "rows": [
+            [
+              "Doctor Bar Avelã",
+              "62 g",
+              "261",
+              "21 g",
+              "1,8 g",
+              "0,2 g",
+              "6,2 g",
+              "R$ 15,25"
+            ],
+            [
+              "Doctor Bar Cookies & Cream",
+              "62 g",
+              "263",
+              "21 g",
+              "2,9 g",
+              "0,1 g",
+              "6,1 g",
+              "R$ 15,25"
+            ],
+            [
+              "Doctor Bar Doce de Leite",
+              "62 g",
+              "268",
+              "21 g",
+              "1,2 g",
+              "0,3 g",
+              "5,7 g",
+              "R$ 15,25"
+            ],
+            [
+              "Doctor Bar Chocolate com Coco",
+              "62 g",
+              "260",
+              "21 g",
+              "1,2 g",
+              "0,4 g",
+              "7,2 g",
+              "R$ 15,25"
+            ],
+            [
+              "Doctor Bar Speculoos",
+              "62 g",
+              "não publicada",
+              "21 g (embalagem)",
+              "não publicada",
+              "não publicada",
+              "não publicada",
+              "R$ 15,25"
+            ],
+            [
+              "Alfajor Avelã",
+              "35 g",
+              "158",
+              "4,6 g",
+              "0,8 g",
+              "0 g",
+              "3,7 g",
+              "R$ 12,99"
+            ],
+            [
+              "Alfajor Cookies & Cream",
+              "35 g",
+              "183",
+              "4 g",
+              "0,8 g",
+              "0 g",
+              "3,8 g",
+              "R$ 12,99"
+            ],
+            [
+              "Alfajor Doce de Leite",
+              "35 g",
+              "158",
+              "4,7 g",
+              "1,3 g",
+              "0 g",
+              "3,6 g",
+              "R$ 12,99"
+            ],
+            [
+              "Alfajor Leite em Pó",
+              "35 g",
+              "164",
+              "4,4 g",
+              "1,3 g",
+              "0 g",
+              "3,4 g",
+              "R$ 12,99"
+            ],
+            [
+              "Alfajor Pistache",
+              "35 g",
+              "163",
+              "4 g",
+              "1 g",
+              "0 g",
+              "3 g",
+              "R$ 12,99"
+            ],
+            [
+              "Doctor Wafer Avelã",
+              "25 g",
+              "127",
+              "5 g",
+              "1 g",
+              "0 g",
+              "4,8 g",
+              "R$ 11,46"
+            ],
+            [
+              "Doctor Wafer Cookies & Cream",
+              "25 g",
+              "121",
+              "5 g",
+              "1 g",
+              "0 g",
+              "4,3 g",
+              "R$ 11,46"
+            ],
+            [
+              "Doctor Wafer Doce de Leite",
+              "25 g",
+              "118",
+              "6 g",
+              "2 g",
+              "0 g",
+              "3 g",
+              "R$ 11,46"
+            ]
+          ],
+          "caption": "Tabelas publicadas pela loja, lidas em 24/10/2026."
+        },
+        "postParagraphs": [
+          "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja em 24/10 deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp",
+            "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream, porção de 62 g da Dr. Peanut",
+            "caption": "Tabela da Doctor Bar Cookies publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7078
+          }
+        ]
+      },
+      {
+        "heading": "Proteína por unidade e por real",
+        "paragraphs": [
+          "A conta é nossa: o preço da unidade dividido pela proteína que o rótulo mostra. Não é um preço da loja; serve só para comparar os três formatos. A tabela também traz a proteína por 100 kcal, pela mesma lógica. Em todas as contas, o preço é o normal da unidade, sem cupom e sem promoção."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Formato",
+            "Proteína por unidade",
+            "Preço da unidade",
+            "Conta nossa: R$ por g de proteína",
+            "Conta nossa: g de proteína por 100 kcal"
+          ],
+          "rows": [
+            [
+              "Doctor Bar",
+              "21 g",
+              "R$ 15,25",
+              "R$ 0,73",
+              "7,8 a 8,1"
+            ],
+            [
+              "Alfajor",
+              "4 a 4,7 g",
+              "R$ 12,99",
+              "R$ 2,76 a R$ 3,25",
+              "2,2 a 3,0"
+            ],
+            [
+              "Doctor Wafer",
+              "5 a 6 g",
+              "R$ 11,46",
+              "R$ 1,91 a R$ 2,29",
+              "3,9 a 5,1"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, a barra entrega mais proteína que os outros dois formatos."
+        ]
+      },
+      {
+        "heading": "Açúcar: o que a tabela mostra",
+        "paragraphs": [
+          "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
+          "Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
+        ]
+      },
+      {
+        "heading": "Glúten e lactose, e o que a loja não publica",
+        "paragraphs": [
+          "A página da Doctor Bar Avelã e a da Doctor Wafer Avelã dizem CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso na página de cada um antes de comprar. Na Doctor Bar Speculoos, a tabela não foi publicada, e o aviso dela não foi conferido.",
+          "O alfajor é diferente. A loja publica a tabela nutricional em imagem, mas não publica a lista de ingredientes nem o aviso de alérgicos. Por isso, este texto não diz o que o alfajor contém, nem se ele tem glúten ou lactose. Quem precisa evitar algum deles deve conferir a embalagem antes de comer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-alfajor-leite-em-po.webp",
+            "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g",
+            "caption": "Tabela do alfajor Leite em Pó publicada na página do produto. A loja não publica a lista de ingredientes. Imagem: Dr. Peanut.",
+            "objectFit": "contain",
+            "aspectRatio": 1.5731
+          }
+        ]
+      },
+      {
+        "heading": "Preço e cupom",
+        "paragraphs": [
+          "A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-display-speculoos.webp",
+            "alt": "Displays abertos com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut",
+            "caption": "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667
+          }
+        ],
+        "postParagraphs": [
+          "O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.",
+          "O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas estão em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
+        ],
+        "bullets": [
+          "**Mais proteína por unidade:** a Doctor Bar, com 21 g. A unidade sai a R$ 15,25, e a loja só vende em display de 8.",
+          "**Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
+          "**Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.",
+          "**Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.",
+          "**Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99."
+        ],
+        "postParagraphs": [
+          "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Doctor Bar tem glúten? Tem. A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.",
+          "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
+          "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.",
+          "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2026. Os preços são do mesmo dia, e as contas com cupom são nossas. Ninguém da equipe provou os produtos. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA, e isso não muda o preço para você."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-e-saudavel",
+        "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo"
+      },
+      {
+        "slug": "dr-peanut-melhor-sabor",
+        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+      },
+      {
+        "slug": "dr-peanut-e-confiavel",
+        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "slug": "dr-peanut-qual-tamanho-compensa",
+    "locale": "pt",
+    "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa",
+    "seoTitle": "Dr. Peanut: qual tamanho compensa (250 g, 600 g, kit) [2026]",
+    "type": "Guia de escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Preço por 100 g de cada pote e kit da Dr. Peanut, com e sem o cupom, o frete grátis por região e a assinatura.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-discover.webp",
+    "imageAlt": "Potes de pasta de amendoim Dr. Peanut sabor Avelã, de 250 g e de 600 g",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Por 100 g, o kit de 5 potes de 600 g é o mais barato, R$ 8,41 sem cupom; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em \"Frete grátis: onde o kit compensa\"."
+        ]
+      },
+      {
+        "heading": "Como comparar: o preço por 100 g",
+        "paragraphs": [
+          "Cada pote e kit da Dr. Peanut tem um peso diferente, então o preço da embalagem sozinho não diz qual compensa. Dividimos o preço \"por\" pelo peso em gramas para saber quanto sai cada 100 g de pasta. Os valores são os que o site oficial mostrava em 24/10/2026. Com o cupom, a conta é o preço \"por\" menos 10%."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-250g.webp",
+        "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
+        "imageCaption": "Pote de 250 g: R$ 25,89 no site em 24/10/2026, R$ 10,36 por 100 g.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.638
+      },
+      {
+        "heading": "Tabela de todos os formatos",
+        "paragraphs": [
+          "Com o cupom DREMCASACOMCECILIA, no carrinho, o desconto é de 10%, somado às promoções vigentes. As regras do cupom estão na [página da Dr. Peanut](/cupons/dr-peanut), e como colocá-lo no carrinho, no [guia do cupom](/reviews/cupom-dr-peanut-como-usar)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Formato",
+            "Peso total",
+            "Preço \"por\"",
+            "Por 100 g",
+            "Com cupom",
+            "Por 100 g com cupom"
+          ],
+          "rows": [
+            [
+              "Pote 250 g",
+              "250 g",
+              "R$ 25,89",
+              "R$ 10,36",
+              "R$ 23,30",
+              "R$ 9,32"
+            ],
+            [
+              "Pote 600 g",
+              "600 g",
+              "R$ 59,89",
+              "R$ 9,98",
+              "R$ 53,90",
+              "R$ 8,98"
+            ],
+            [
+              "Kit 2 × 250 g",
+              "500 g",
+              "R$ 47,64",
+              "R$ 9,53",
+              "R$ 42,88",
+              "R$ 8,58"
+            ],
+            [
+              "Kit 3 × 250 g",
+              "750 g",
+              "R$ 68,35",
+              "R$ 9,11",
+              "R$ 61,52",
+              "R$ 8,20"
+            ],
+            [
+              "Kit 4 × 250 g",
+              "1 kg",
+              "R$ 88,03",
+              "R$ 8,80",
+              "R$ 79,23",
+              "R$ 7,92"
+            ],
+            [
+              "Kit 2 × 600 g",
+              "1,2 kg",
+              "R$ 110,20",
+              "R$ 9,18",
+              "R$ 99,18",
+              "R$ 8,27"
+            ],
+            [
+              "Kit 3 × 600 g",
+              "1,8 kg",
+              "R$ 158,11",
+              "R$ 8,78",
+              "R$ 142,30",
+              "R$ 7,91"
+            ],
+            [
+              "Kit 4 × 600 g",
+              "2,4 kg",
+              "R$ 203,63",
+              "R$ 8,48",
+              "R$ 183,27",
+              "R$ 7,64"
+            ],
+            [
+              "Kit 5 × 600 g",
+              "3 kg",
+              "R$ 252,42",
+              "R$ 8,41",
+              "R$ 227,18",
+              "R$ 7,57"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site em 24/10/2026, sem desconto de Pix."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
+        "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
+        "imageCaption": "Preços do site oficial em 24/10/2026. Com o cupom, a conta é o preço menos 10%.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.933
+      },
+      {
+        "heading": "250 g ou 600 g: a diferença por 100 g",
+        "paragraphs": [
+          "O pote de 600 g sai por R$ 9,98 por 100 g, e o de 250 g, por R$ 10,36. A diferença é de cerca de 4%, ou R$ 0,38 a cada 100 g. Com cupom, a ordem não muda: R$ 8,98 contra R$ 9,32.",
+          "Pelo sabor, o tamanho também limita a escolha: o Doce de Leite só sai em 250 g, e o Banoffee e o Beijinho só em 600 g. Os sabores e a tabela nutricional de cada um estão no [artigo sobre o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
+        "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
+        "imageCaption": "Pote de 600 g: R$ 59,89 no site em 24/10/2026, R$ 9,98 por 100 g.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.751
+      },
+      {
+        "heading": "Kits: quanto mais potes, menor o preço por 100 g",
+        "paragraphs": [
+          "Nos kits de 250 g, o preço por 100 g cai de R$ 9,53 com 2 potes para R$ 9,11 com 3 e R$ 8,80 com 4. Nos de 600 g, cai de R$ 9,18 com 2 para R$ 8,78 com 3, R$ 8,48 com 4 e R$ 8,41 com 5.",
+          "O kit de 2 × 250 g já sai R$ 0,83 mais barato por 100 g que o pote avulso de 250 g. O kit de 2 × 600 g sai R$ 0,80 abaixo do pote avulso de 600 g. O kit de 3 × 250 g (R$ 9,11) fica abaixo do kit de 2 × 600 g (R$ 9,18), mesmo com potes menores.",
+          "Com cupom, o kit de 5 × 600 g cai para R$ 7,57 por 100 g, o menor preço da tabela."
+        ]
+      },
+      {
+        "heading": "800 g e 1 kg: o que a loja vende",
+        "paragraphs": [
+          "Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
+        ]
+      },
+      {
+        "heading": "Frete grátis: onde o kit compensa",
+        "paragraphs": [
+          "O frete é grátis quando o total, já com o cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
+          "Com o cupom, o kit de 3 × 600 g (R$ 142,30) fica R$ 7,60 abaixo do limite do Sudeste e do Sul. O kit de 4 × 600 g (R$ 183,27) passa esse limite, mas não o das outras regiões. O kit de 5 × 600 g (R$ 227,18) passa o limite em todas as regiões."
+        ]
+      },
+      {
+        "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
+        "paragraphs": [
+          "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
+          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho em 24/10/2026: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Pastas de 250 g",
+            "Peso",
+            "Total com cupom",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "1",
+              "250 g",
+              "R$ 22,26",
+              "R$ 8,90"
+            ],
+            [
+              "2",
+              "500 g",
+              "R$ 42,46",
+              "R$ 8,49"
+            ],
+            [
+              "3",
+              "750 g",
+              "R$ 60,58",
+              "R$ 8,08"
+            ],
+            [
+              "4 ou mais",
+              "1 kg ou mais",
+              "R$ 77,67 com 4 (R$ 19,42 por pasta)",
+              "R$ 7,77"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
+          "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. Com o cupom, isso dá 8 pastas (R$ 155,34) no Sul e no Sudeste e 11 pastas (R$ 213,59) nas outras regiões."
+        ]
+      },
+      {
+        "heading": "Comprou, Ganhou: o brinde não baixa o preço",
+        "paragraphs": [
+          "A loja tem combos com brinde de alfajor ou de wafer. Um deles é 1 pote de 600 g com 3 alfajores de brinde, por R$ 59,89, o mesmo preço do pote avulso. Outro é 1 pote de 250 g com 1 alfajor, por R$ 25,89, também o preço do pote avulso.",
+          "O alfajor tem preço de catálogo de R$ 12,99, ou R$ 38,97 os três. O brinde não baixa o preço do pote: a conta por 100 g vale só para a pasta.",
+          "Não testamos se o cupom vale sobre o combo ou sobre o brinde, e por isso não afirmamos que vale."
+        ]
+      },
+      {
+        "heading": "Qual tamanho compensa",
+        "paragraphs": [
+          "Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.",
+          "Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.",
+          "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
+          "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
+          "O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste de 13/10 mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
+          "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
+          "A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura.",
+          "O cupom entra na assinatura? Sim. No teste de 24/10/2026, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Não provamos os produtos deste artigo. Os preços e o frete são do site oficial da Dr. Peanut, lidos em 24/10/2026, e podem mudar: confira no carrinho antes de comprar. Podemos receber comissão pelas compras feitas com o cupom."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom. Não provamos os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-melhor-sabor",
+        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+      },
+      {
+        "slug": "cupom-dr-peanut-como-usar",
+        "title": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% em todo o site"
+      },
+      {
+        "slug": "black-friday-dr-peanut",
+        "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis"
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "slug": "alfaiataria-verao-clea-store",
+    "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto",
+    "seoTitle": "Alfaiataria de verão Cléa Store: peças e montagens",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Blazer, colete e shorts de linho e de mistura da Cléa Store, com a grade do dia e as três montagens de conjunto com o cupom de 10%, lidas em 24/10/2026.",
+    "metaDescription": "Alfaiataria de verão na Cléa Store: composição de cada blazer, colete e calça, grade do dia e três montagens de conjunto com e sem o cupom de 10%.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-discover.webp",
+    "imageAlt": "Blazer rosa de linho 4404 e colete bege de linho 4221 da Cléa Store",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Cléa Store não vende conjunto de alfaiataria, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a grade de cada peça em Grade do dia."
+        ]
+      },
+      {
+        "heading": "A loja não vende conjunto de alfaiataria",
+        "paragraphs": [
+          "A Cléa Store vende peças avulsas. No catálogo lido em 24/10/2026, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
+          "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
+          "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das fichas e das páginas da loja, lidas em 24/10/2026."
+        ]
+      },
+      {
+        "heading": "Tecido: o que a ficha diz",
+        "paragraphs": [
+          "A loja não publica a gramatura do tecido, então este texto não compara peso. Forro aparece só nos blazers 4305 e 4307. Nas outras peças, a ficha não informa."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Composição, segundo a ficha",
+            "Forro",
+            "Preço em 24/10",
+            "Grade",
+            "Situação"
+          ],
+          "rows": [
+            [
+              "Blazer Alfaiataria Rosa Linho (4404)",
+              "100% linho",
+              "não informa",
+              "R$ 899,00",
+              "M e G",
+              "sem P"
+            ],
+            [
+              "Blazer Curto Rosa (4348)",
+              "95% poliéster e 5% elastano, cropped",
+              "não informa",
+              "R$ 428,00",
+              "P e M",
+              "disponível"
+            ],
+            [
+              "Blazer Oversized Mescla (4307)",
+              "70% poliéster e 30% viscose",
+              "97% poliéster e 3% elastano",
+              "R$ 524,30 (de R$ 749,00)",
+              "P",
+              "só P"
+            ],
+            [
+              "Colete Frente Única Linho Bege (4221)",
+              "100% linho",
+              "não informa",
+              "R$ 299,40 (de R$ 499,00)",
+              "PP e P",
+              "grade quebrada"
+            ],
+            [
+              "Colete Alfaiataria Trespasse Vermelho (4393)",
+              "100% linho",
+              "não informa",
+              "R$ 799,00",
+              "P e G",
+              "grade quebrada"
+            ],
+            [
+              "Calça Caqui Linho (4416)",
+              "70/30 linho e algodão, wide leg",
+              "não informa",
+              "R$ 559,00",
+              "36 e 38",
+              "pré-venda"
+            ],
+            [
+              "Calça Linho Vermelha (4414)",
+              "70/30 linho e algodão, wide leg",
+              "não informa",
+              "R$ 559,00",
+              "36 e 38",
+              "pré-venda"
+            ],
+            [
+              "Bermuda Vermelha (4395)",
+              "100% linho",
+              "não informa",
+              "R$ 599,00",
+              "40",
+              "só 40"
+            ],
+            [
+              "Shorts Rosa Linho (4402)",
+              "100% linho",
+              "não informa",
+              "R$ 579,00",
+              "36, 38 e 40",
+              "disponível"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os preços são do site em 24/10/2026, sem cupom."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-tabela-tecido.webp",
+            "alt": "Tabela com composição, forro, preço e grade das peças de linho e alfaiataria da Cléa Store, lidas em 24/10/2026.",
+            "caption": "Dados da ficha e do site em 24/10/2026, sem cupom.",
+            "objectFit": "contain",
+            "aspectRatio": 0.798
+          }
+        ]
+      },
+      {
+        "heading": "Blazer: linho, mistura com elastano ou poliéster com forro",
+        "paragraphs": [
+          "Três blazers estão à venda, cada um com um tecido diferente.",
+          "O de linho 100% (4404) custa R$ 899,00 e tem grade de M e G. A ficha não informa forro.",
+          "O curto cropped (4348) é de 95% poliéster e 5% elastano, segundo a ficha. Custa R$ 428,00, com P e M, e a ficha não informa forro.",
+          "O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.",
+          "Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.",
+          "Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer."
+        ]
+      },
+      {
+        "heading": "Colete: linho bege ou vermelho",
+        "paragraphs": [
+          "Os dois coletes são de linho 100%, segundo a ficha.",
+          "O bege (4221) está por R$ 299,40, de R$ 499,00, com PP e P. O vermelho (4393) custa R$ 799,00 e tem P e G. Nos dois, a grade está quebrada, então o tamanho decide antes do modelo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp",
+            "alt": "Colete Frente Única Linho Bege da Cléa Store, foto oficial do site",
+            "caption": "Colete Frente Única Linho Bege (4221). Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667
+          }
+        ]
+      },
+      {
+        "heading": "Montar um conjunto (monte o seu)",
+        "paragraphs": [
+          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são de 24/10/2026, e o cupom de 10% sai sobre o preço do dia.",
+          "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
+          "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; a página diz que a entrega conta a partir de 08/10/2026.",
+          "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
+          "As três montagens passam de R$ 599, valor da faixa de frete grátis do site em 24/10/2026.",
+          "As grades usam letra nas peças de cima e número nas de baixo. Antes de escolher, abra o botão Tabela de Medidas na página de cada peça."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-shorts-4402.webp",
+            "alt": "Shorts Rosa Linho da Cléa Store, foto oficial do site",
+            "caption": "Shorts Rosa Linho (4402). Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6667
+          }
+        ]
+      },
+      {
+        "heading": "Pantalona ou wide leg de alfaiataria",
+        "paragraphs": [
+          "Só duas calças de alfaiataria aparecem no catálogo lido em 24/10/2026. A Calça Caqui Linho (4416), de linho e algodão 70/30, tem 36 e 38, e a ficha a descreve como wide leg. A Calça Linho Vermelha (4414), também 70/30, tem 36 e 38 e também é wide leg segundo a ficha. As duas estão em pré-venda.",
+          "A Calça Wide Leg Areia (4382), R$ 756,00, de 36 a 42, é de algodão, mas a ficha a chama de calça jeans. Por isso ela não entra como alfaiataria. Serve só como alternativa de algodão, com essa ressalva."
+        ]
+      },
+      {
+        "heading": "Calor: o que a ficha permite dizer",
+        "paragraphs": [
+          "Este texto não promete conforto térmico. A ficha diz a composição de cada peça, e é isso que dá para comparar. A ficha do colete bege descreve o linho como tecido natural. A loja não publica a gramatura nem mede conforto. Por isso, nenhuma peça aqui é apresentada como mais fresca que outra.",
+          "Para comparar, olhe a composição: linho, linho com algodão, poliéster com elastano ou poliéster com viscose."
+        ]
+      },
+      {
+        "heading": "Grade do dia: o que ainda dá para comprar",
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Preço em 24/10",
+            "Grade",
+            "Situação"
+          ],
+          "rows": [
+            [
+              "Blazer Risca de Giz (4282)",
+              "R$ 538,30",
+              "nenhuma",
+              "esgotado"
+            ],
+            [
+              "Blazer Oversized Bordô (4305)",
+              "R$ 524,30",
+              "nenhuma",
+              "esgotado"
+            ],
+            [
+              "Blazer Alfaiataria Rosa Linho (4404)",
+              "R$ 899,00",
+              "M e G",
+              "sem P"
+            ],
+            [
+              "Blazer Curto Rosa (4348)",
+              "R$ 428,00",
+              "P e M",
+              "disponível"
+            ],
+            [
+              "Blazer Oversized Mescla (4307)",
+              "R$ 524,30",
+              "P",
+              "só P"
+            ],
+            [
+              "Colete Frente Única Linho Bege (4221)",
+              "R$ 299,40",
+              "PP e P",
+              "grade quebrada"
+            ],
+            [
+              "Colete Alfaiataria Trespasse Vermelho (4393)",
+              "R$ 799,00",
+              "P e G",
+              "grade quebrada"
+            ],
+            [
+              "Bermuda Vermelha (4395)",
+              "R$ 599,00",
+              "40",
+              "grade quebrada"
+            ],
+            [
+              "Shorts Rosa Linho (4402)",
+              "R$ 579,00",
+              "36, 38 e 40",
+              "disponível"
+            ],
+            [
+              "Calça Caqui Linho (4416)",
+              "R$ 559,00",
+              "36 e 38",
+              "pré-venda"
+            ],
+            [
+              "Calça Linho Vermelha (4414)",
+              "R$ 559,00",
+              "36 e 38",
+              "pré-venda"
+            ],
+            [
+              "Calça Wide Leg Areia (4382)",
+              "R$ 756,00",
+              "36, 38, 40 e 42",
+              "disponível"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As grades mudam todo dia. Confira o seu tamanho na página antes de comprar."
+        ]
+      },
+      {
+        "heading": "Código e onde comprar",
+        "paragraphs": [
+          "O cupom é CSEMCASACOMCECILIA, com 10% em todo o site sobre o preço do dia, em todas as formas de pagamento. Ele soma com as promoções da loja. Use o código no checkout.",
+          "A devolução é grátis, segundo a loja. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.",
+          "Regras do cupom na [página da Cléa Store](/cupons/clea-store). Compra no [site oficial da Cléa Store](https://www.cleastore.com.br/). A loja também vende no Mercado Livre, e a diferença está em [Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Se a grade do seu tamanho está aberta, a montagem rosa é a mais simples: tudo em linho, numa cor só, com blazer e short no mesmo tom. Ela também é a mais cara, R$ 1.330,20 com o cupom. A bege é a mais barata, R$ 772,56 com o cupom, porque o colete está em promoção. Quem quer colete com calça de linho escolhe o bege se for PP ou P, e o vermelho se for P ou G. Para calça, a caqui (4416) e a vermelha (4414) estão em pré-venda, só em 36 e 38. Quem quer blazer com forro declarado só tem o mescla (4307), e só em P.",
+          "Se a peça é para o trabalho no inverno, o [look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store) mostra outras combinações. Por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido em 24/10/2026, o único conjunto é de crochê, por R$ 1.490.",
+          "A calça é wide leg? Sim, segundo a ficha, nas duas: a Calça Caqui Linho (4416) e a Calça Linho Vermelha (4414).",
+          "O blazer tem forro? Só o Blazer Oversized Mescla (4307) e o Bordô (4305) declaram forro, de 97% poliéster e 3% elastano. Nos outros, a ficha não informa.",
+          "Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página, e o [guia da tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir.",
+          "O frete é grátis? Sim, acima de R$ 599, na faixa do site em 24/10/2026."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão por compras feitas com o cupom e o link deste texto. Nossa equipe não comprou nem testou as peças. Os dados vêm das fichas e das páginas da loja, lidas em 24/10/2026, e a grade muda todo dia."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Compre no site oficial da Cléa Store e digite o CSEMCASACOMCECILIA no checkout: 10% sobre o preço do dia, em todas as formas de pagamento.",
+      "label": "Ir para a Cléa Store com o cupom",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Podemos receber comissão por compras feitas com o cupom e o link deste texto.",
+    "relatedArticles": [
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "clea-store-mercado-livre-ou-site",
+        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+      }
+    ]
   }
 ];

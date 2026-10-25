@@ -8,7 +8,7 @@ coupon: "DREMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "revisado"
+status: "json"
 responsavel: "Fable (Job 3)"
 proxima_acao: "decisao-bruno-e-job-6"
 bloqueado_por: null
@@ -364,3 +364,14 @@ Para o Bruno decidir:
 - Glúten e lactose: afirmado só para os dois Avelã; nos outros sabores, o texto manda o leitor conferir a página. Sem [VERIFICAR] no corpo.
 - Links: o teto de 3 do contrato vale para links à página da loja (1 aqui); os links a artigos irmãos ficam.
 - Nota do parceiro: o "sem desconto por unidade" no kit de wafer está desatualizado (kit de 12 a R$ 130,68 em /combos, 24/10). Ajustada em 01_Parceiros/Dr-Peanut.md.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 24/10/2026)
+
+Caminhos em `public/images/reviews/dr-peanut/`; origem e proporção conferidas no arquivo (WebP, 16:9 na capa).
+
+- **Capa** (`snacks-dr-peanut-qual-escolher-capa-discover.webp`, 1600×900, `imageFit: "contain"`): alt "Barra de chocolate com coco, alfajor de avelã e barra speculoos da Dr. Peanut, lado a lado." Origem: três fotos de galeria das páginas de produto da Dr. Peanut (`bar-coco-img2.jpg`, `alfajor-avela-2.jpg`, `bar-speculoos-img2.jpg`); faixa com o logo da Dr. Peanut e "Snacks Dr. Peanut".
+- **Corpo, "Os três snacks em uma tabela"** (`snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp`, 545×770): alt "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies, porção de 62 g da Dr. Peanut". Legenda: "Tabela da Doctor Bar Cookies publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut." Origem: galeria da página do produto (`bar-cookies-tabela.png`), recorte só da tabela.
+- **Corpo, "Glúten e lactose, e o que a loja não publica"** (`snacks-dr-peanut-qual-escolher-tabela-alfajor-leite-em-po.webp`, 1345×855): alt "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g". Legenda: "Tabela do alfajor Leite em Pó publicada na página do produto. A loja não publica a lista de ingredientes. Imagem: Dr. Peanut." Origem: galeria (`alfajor-leite-em-po-3.jpg`), metades empilhadas.
+- **Corpo, "Preço e cupom"** (`snacks-dr-peanut-qual-escolher-display-speculoos.webp`, 1000×1500): alt "Displays abertos com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut". Legenda: "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut." Origem: galeria (`bar-speculoos-img4.jpg`).
+
+Pendência registrada na folha (Job 6): a tabela do corpo 1 é a de Cookies, e não a de Chocolate com Coco. O texto da seção não cita o sabor da imagem, e o alt diz "Cookies" (o nome na tabela é "Cookies & Cream").

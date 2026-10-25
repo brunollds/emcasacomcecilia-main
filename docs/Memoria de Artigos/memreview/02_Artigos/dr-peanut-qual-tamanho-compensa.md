@@ -6,7 +6,7 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "revisado"
+status: "json"
 responsavel: "Claude"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -332,3 +332,16 @@ Complemento (teste do Bruno na assinatura, carrinho real de 24/10/2026):
 - Capítulo da assinatura reescrito com o cupom, a tabela por quantidade e a comparação com os kits de 250 g (a assinatura ganha em 2, 3 e 4 potes). Título do capítulo mudou para "Assinatura: com o cupom, o menor preço nos potes de 250 g".
 - Veredito atualizado: o kit de 5 × 600 g com cupom (R$ 7,57) segue o menor por grama, e o 4 × 600 g (R$ 7,64) também fica abaixo; a assinatura de 4 pastas (R$ 7,77) passa a ser a recomendação para 1 kg e para quem quer 250 g todo mês, à frente do kit de 4 × 250 g (R$ 7,92). Capítulo "800 g e 1 kg" e FAQs do 1 kg e da assinatura ajustados.
 - Matriz do anexo e lista de [VERIFICAR] atualizadas. A matriz do briefing (seção 6, linhas da assinatura) e a Decisão 1 do Bruno não foram editadas: ficam como registro.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 24/10/2026)
+
+Arquivos em `public/images/reviews/dr-peanut/` e no CDN, com os nomes abaixo. No JSON: caminho local `/images/reviews/dr-peanut/<arquivo>.webp`.
+
+| Arquivo | Tipo e seção | Alt | Legenda | Origem | Proporção |
+|---|---|---|---|---|---|
+| `dr-peanut-qual-tamanho-compensa-capa-discover.webp` | Capa (topo) | "Potes de pasta de amendoim Dr. Peanut sabor Avelã, de 250 g e de 600 g" | (capa) | Fotos oficiais do CDN da loja, `drpeanut.vteximg.com.br/arquivos/ids/157232` (AVELA_250.png) e `157224` (AVELA_600.png), baixadas em 24/10/2026 pelo Chrome. Faixa: wordmark da Dr. Peanut e "Qual tamanho compensa?", com o subtítulo "250 g, 600 g, kits e assinatura pelo preço por 100 g". Imagem: `imageFit: "contain"`. | 16:9 |
+| `dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp` | Corpo, seção "Tabela de todos os formatos" | "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom." | "Preços do site oficial em 24/10/2026. Com o cupom, a conta é o preço menos 10%." | Montagem nossa, com os números da tabela de formatos, dos kits e do capítulo da assinatura do texto revisado | 1169 / 1253 |
+| `dr-peanut-qual-tamanho-compensa-pote-600g.webp` | Corpo, seção "250 g ou 600 g: a diferença por 100 g" | "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem" | "Pote de 600 g: R$ 59,89 no site em 24/10/2026, R$ 9,98 por 100 g." | https://drpeanut.vteximg.com.br/arquivos/ids/157224 (AVELA_600.png), baixada em 24/10/2026, recortada sem a borda branca | 927 / 1234 |
+| `dr-peanut-qual-tamanho-compensa-pote-250g.webp` | Corpo, seção "Como comparar: o preço por 100 g" | "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem" | "Pote de 250 g: R$ 25,89 no site em 24/10/2026, R$ 10,36 por 100 g." | https://drpeanut.vteximg.com.br/arquivos/ids/157232 (AVELA_250.png), baixada em 24/10/2026, recortada sem a borda branca | 624 / 978 |
+
+Os potes são do sabor Avelã, porque é a foto oficial de cada tamanho que a loja mostra. A capa põe os dois potes numa só imagem, com o de 600 g mais alto que o de 250 g (proporção estimada pelas fotos do lote).
