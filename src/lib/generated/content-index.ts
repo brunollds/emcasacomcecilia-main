@@ -127607,6 +127607,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
           "**Mix Pro, 300 g:** R$ 40,94. A ficha traz creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal, o que dá 50 porções e R$ 27,29 por 100 g de creatina. A página traz 5 g por dose; a conta usa a tabela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
+            "alt": "Pote de 300 g da Creatina Monohidratada Pura da Probiótica",
+            "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
+            "objectFit": "square"
+          }
         ]
       },
       {
@@ -127623,7 +127631,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento (teste de 13/10 e decisão de 14/10). Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
           "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive (teste de 14/10); se o desconto do Pix também se mantém junto com o cupom, não conferimos. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
-          "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, e vale em todas as formas de pagamento. Não testamos a soma com as promoções da loja, então o texto não diz que soma."
+          "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento (teste de 13/10). Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
         ]
       },
       {
