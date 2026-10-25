@@ -11,6 +11,8 @@
 - [ ] [[dr-peanut-qual-tamanho-compensa]]: Dr. Peanut: 250 g, 600 g, kit ou assinatura, qual tamanho compensa (preço por 100 g, com o cupom; 800 g e 1 kg não existem no site) (PT)
 - [ ] [[alfaiataria-verao-clea-store]]: Alfaiataria de verão da Cléa: blazer, colete, calça e bermuda por tecido (linho, mistura, poliéster) e três conjuntos "monte o seu" (PT)
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
+- [ ] [[creatina-com-sabor-qual-escolher]]: Creatina com sabor: qual escolher, Black Skull e Max Titanium pelo rótulo e pelo preço por 100 g de creatina; Probiótica só sem sabor; sem affiliate (PT)
+- [ ] [[black-skull-ou-integralmedica]]: Black Skull ou Integralmédica, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e "são empresas diferentes"; Integralmédica sem link, cupom nem foto (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
