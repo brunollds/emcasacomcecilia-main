@@ -8,10 +8,10 @@ coupon: "DREMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pauta-aprovada"
-responsavel: "Claude (Job 1)"
-proxima_acao: "redacao"
-bloqueado_por: "Perguntas para o Bruno (3)"
+status: "em-revisao"
+responsavel: "Claude (Job 2)"
+proxima_acao: "revisao-editorial"
+bloqueado_por: null
 data_criacao: "2026-10-24"
 score_preliminar: 74
 i18n_cluster: null
@@ -212,3 +212,128 @@ Contas (preço do dia; proteína do rótulo):
 2. Speculoos: entra com "21 g de proteína (embalagem)" e "tabela não publicada pela loja em 24/10".
 3. Destaque: proteína e preço por unidade no título e na resposta rápida; R$ por grama de proteína numa coluna "conta nossa".
 4. Cupom: o texto diz "10% no site" e a conta usa o preço normal da unidade, sem afirmar que vale sobre display em promoção.
+
+---
+
+## Rascunho do artigo (Job 2, 24/10/2026)
+
+### Título e SEO
+
+- **title (H1):** Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)
+- **seoTitle:** Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína [2026]
+- **editorialNote:** Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA.
+- **affiliate:** dr-peanut · **coupon:** DREMCASACOMCECILIA · **category:** guias-praticos-utilidade · **reviewKind:** guia · **type:** Guia de escolha
+
+### Resposta rápida
+
+Para proteína por unidade, a Doctor Bar ganha, com 21 g contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Para menos calorias e menor preço avulso, o wafer leva a vantagem, com 118 a 127 kcal por R$ 11,46. Quanto você compra por vez muda a conta; veja em Preço e cupom.
+
+### Os três snacks em uma tabela
+
+Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026.
+
+| Produto | Peso | kcal | Proteína | Açúcares totais | Açúcares adicionados | Gordura saturada | Preço da unidade |
+|---|---|---|---|---|---|---|---|
+| Doctor Bar Avelã | 62 g | 261 | 21 g | 1,8 g | 0,2 g | 6,2 g | R$ 15,25 |
+| Doctor Bar Cookies & Cream | 62 g | 263 | 21 g | 2,9 g | 0,1 g | 6,1 g | R$ 15,25 |
+| Doctor Bar Doce de Leite | 62 g | 268 | 21 g | 1,2 g | 0,3 g | 5,7 g | R$ 15,25 |
+| Doctor Bar Chocolate com Coco | 62 g | 260 | 21 g | 1,2 g | 0,4 g | 7,2 g | R$ 15,25 |
+| Doctor Bar Speculoos | 62 g | não publicada | 21 g (embalagem) | não publicada | não publicada | não publicada | R$ 15,25 |
+| Alfajor Avelã | 35 g | 158 | 4,6 g | 0,8 g | 0 g | 3,7 g | R$ 12,99 |
+| Alfajor Cookies & Cream | 35 g | 183 | 4 g | 0,8 g | 0 g | 3,8 g | R$ 12,99 |
+| Alfajor Doce de Leite | 35 g | 158 | 4,7 g | 1,3 g | 0 g | 3,6 g | R$ 12,99 |
+| Alfajor Leite em Pó | 35 g | 164 | 4,4 g | 1,3 g | 0 g | 3,4 g | R$ 12,99 |
+| Alfajor Pistache | 35 g | 163 | 4 g | 1 g | 0 g | 3 g | R$ 12,99 |
+| Doctor Wafer Avelã | 25 g | 127 | 5 g | 1 g | 0 g | 4,8 g | R$ 11,46 |
+| Doctor Wafer Cookies & Cream | 25 g | 121 | 5 g | 1 g | 0 g | 4,3 g | R$ 11,46 |
+| Doctor Wafer Doce de Leite | 25 g | 118 | 6 g | 2 g | 0 g | 3 g | R$ 11,46 |
+
+Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja em 24/10 deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto.
+
+[IMAGEM 1, ver Plano de imagens]
+
+### Proteína por unidade e por real
+
+A conta nossa divide o preço da unidade pela proteína que o rótulo mostra. Não é um preço da loja: serve para comparar os três formatos. A tabela também traz a proteína por 100 kcal, pela mesma lógica. Em todas as contas, o preço é o normal da unidade, sem cupom e sem promoção.
+
+| Formato | Proteína por unidade | Preço da unidade | Conta nossa: R$ por g de proteína | Conta nossa: g de proteína por 100 kcal |
+|---|---|---|---|---|
+| Doctor Bar | 21 g | R$ 15,25 | R$ 0,73 | 7,8 a 8,1 |
+| Alfajor | 4 a 4,7 g | R$ 12,99 | R$ 2,76 a R$ 3,25 | 2,2 a 3,0 |
+| Doctor Wafer | 5 a 6 g | R$ 11,46 | R$ 1,91 a R$ 2,29 | 3,9 a 5,1 |
+
+A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, a barra entrega mais proteína que os outros dois formatos.
+
+### Açúcar: o que a tabela mostra
+
+Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o que entra na receita. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.
+
+Os polióis aparecem só na tabela da barra, de 9,6 a 12 g por unidade. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis. A lista de adoçantes de cada produto está no guia de ingredientes da Dr. Peanut.
+
+### Glúten e lactose, e o que a loja não publica
+
+O rótulo da Doctor Bar e da Doctor Wafer diz CONTÉM GLÚTEN e CONTÉM LACTOSE, nos sabores lidos. Na Doctor Bar Speculoos, a tabela não foi publicada, e o aviso dela não foi conferido.
+
+O alfajor é diferente. A loja publica a tabela nutricional em imagem, mas não publica a lista de ingredientes nem o aviso de alérgicos. Por isso, este texto não diz o que o alfajor contém, nem se ele tem glúten ou lactose. Quem precisa evitar algum deles deve conferir a embalagem antes de comer.
+
+[IMAGEM 2, ver Plano de imagens]
+
+### Preço e cupom
+
+A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade.
+
+[IMAGEM 3, ver Plano de imagens]
+
+O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.
+
+O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas está em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel).
+
+### Qual escolher
+
+Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:
+
+- **Mais proteína por unidade:** a Doctor Bar, com 21 g. A unidade sai a R$ 15,25, e a loja só vende em display de 8.
+- **Menos calorias por unidade:** o Doctor Wafer, com 118 a 127 kcal, e também o menor preço avulso, a R$ 11,46.
+- **Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.
+- **Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.
+- **Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99.
+
+Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).
+
+### Perguntas frequentes
+
+Doctor Bar tem glúten? Tem. Nos sabores lidos, o rótulo diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.
+
+Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.
+
+Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, segundo a tabela publicada pela loja.
+
+Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g.
+
+### Nota de transparência
+
+Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2026. Os preços são do mesmo dia, e as contas com cupom são nossas. Ninguém da equipe provou os produtos. Rótulo e preço mudam, então confira a embalagem e o site antes de comprar. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA, e isso não muda o preço para você.
+
+### Plano de imagens
+
+- **Capa (hero):** quadro desenhado do guia de escolha, no padrão de `autobronzeador-skelt-qual-escolher` (montagem no Job 6). Origem: montagem nossa, sem foto de terceiro. Foto de barra ou alfajor como capa só se o Bruno escolher.
+- **Imagem 1, seção "Os três snacks em uma tabela":** `bar-coco-img5.jpg`, tabela da Doctor Bar Chocolate com Coco. Origem: galeria da página do produto na loja, confirmada pelo Bruno em 24/10. Alt: "Tabela nutricional da barra de proteína Doctor Bar sabor Chocolate com Coco da Dr. Peanut, porção de 62 g". Legenda: "Tabela da Doctor Bar Chocolate com Coco publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut." Recortar só a tabela, sem a faixa de fundo.
+- **Imagem 2, seção "Glúten e lactose, e o que a loja não publica":** `alfajor-leite-em-po-3.jpg`, tabela do alfajor Leite em Pó. Origem: tabela publicada na página do produto. Alt: "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g". Legenda: "Tabela do alfajor Leite em Pó publicada na página do produto. A loja não publica a lista de ingredientes. Imagem: Dr. Peanut."
+- **Imagem 3, seção "Preço e cupom":** `bar-speculoos-img3.jpg`, display aberto de Doctor Bar Speculoos. Origem: foto de produto da própria marca. O canto com a tabela cortada e ilegível fica fora do recorte. Alt: "Display aberto com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut". Legenda: "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut."
+
+### Matriz de claims
+
+| Afirmação no texto | Tipo de dado | Fonte exata | Localização / trecho | Data consulta | Status |
+|---|---|---|---|---|---|
+| Doctor Bar tem 21 g de proteína por barra de 62 g (Speculoos pela embalagem) | Fato de rótulo | Tabelas oficiais das 4 barras; embalagem e descrição do Speculoos | Tabela e proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
+| Alfajor tem 4 a 4,7 g de proteína por unidade de 35 g | Fato de rótulo | Tabelas oficiais dos 5 sabores | Tabela e proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
+| Doctor Wafer tem 5 a 6 g de proteína por unidade de 25 g | Fato de rótulo | Tabelas oficiais dos 3 sabores | Tabela e proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
+| Açúcar adicionado: 0 g no alfajor e no wafer; 0,1 a 0,4 g na barra | Fato de rótulo | Tabelas oficiais | Açúcar | 24/10/2026 | Para auditoria (Job 3) |
+| Polióis de 9,6 a 12 g na barra; alfajor e wafer sem essa linha na tabela | Fato de rótulo | Tabela da Doctor Bar | Açúcar | 24/10/2026 | Para auditoria (Job 3) |
+| Alfajor sem lista de ingredientes nem aviso de alérgicos publicados; tabela, sim | Fato da página | Página do produto (Chrome) | Glúten e lactose | 24/10/2026 | Para auditoria (Job 3) |
+| Doctor Bar e Doctor Wafer: CONTÉM GLÚTEN e CONTÉM LACTOSE, nos sabores lidos | Fato de rótulo | Página do produto (Chrome) | Glúten e lactose | 24/10/2026 | Para auditoria (Job 3) |
+| Doctor Bar só em display de 8 (R$ 122,03); barra a R$ 15,25 na conta | Preço do dia e conta nossa | `/snacks` (Chrome) | Preço e cupom | 24/10/2026 | Para auditoria (Job 3) |
+| Alfajor R$ 12,99 avulso, display 12 R$ 155,88, kit 10 R$ 129,90; wafer R$ 11,46, display 12 R$ 137,52, kit 12 R$ 130,68 (R$ 10,89 por unidade) | Preço do dia | `/snacks` e `/combos` (Chrome) | Preço e cupom | 24/10/2026 | Para auditoria (Job 3) |
+| Cupom DREMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento | Condição comercial | `src/lib/couponsData.ts` (dr-peanut); dossiê (Bruno, 13/10) | Preço e cupom | 13/10/2026 | Para auditoria (Job 3) |
+| Contas com cupom (R$ 13,73, R$ 11,69, R$ 10,31), R$ por g de proteína e proteína por 100 kcal | Conta nossa | Preço do dia e rótulo; fórmula no texto | Preço e cupom; proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
+| Nenhuma frase de saúde, "saudável", "engorda" ou "energia" | Regra | `REGRAS-GLOBAIS.md` seção 5; decisão do Bruno (20/10) | Texto inteiro | 24/10/2026 | Para auditoria (Job 3) |

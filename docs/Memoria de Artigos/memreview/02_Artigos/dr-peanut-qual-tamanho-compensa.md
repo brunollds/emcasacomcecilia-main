@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pauta-aprovada"
+status: "em-revisao"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "revisao-editorial"
 bloqueado_por: null
 pauta: "A18"
 data_criacao: "2026-10-24"
@@ -152,3 +152,147 @@ Preço por 100 g = preço "por" ÷ gramas. Com cupom = "por" × 0,9 (cupom DREMC
 ## Decisões do Bruno (24/10/2026)
 1. Assinatura + cupom: o Bruno acredita que soma. Testar no carrinho antes de publicar; com o teste, o texto mostra a assinatura com o cupom; sem ele, só sem o cupom.
 2. Perguntas 2 a 4 sem resposta explícita; seguem as recomendações (sem "1 kg" no título; o brinde do "Comprou, Ganhou" numa frase, fora da conta por 100 g; a tabela de combos nos dois artigos, com os mesmos preços).
+
+
+---
+
+# Rascunho (Job 2, 24/10/2026)
+
+**Título (H1):** Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa
+
+**seoTitle:** Dr. Peanut: qual tamanho compensa (250 g, 600 g, kit) [2026]
+
+**description:** Preço por 100 g de cada pote e kit da Dr. Peanut, com e sem o cupom, o frete grátis por região e a assinatura.
+
+**Nota editorial:** Podemos receber comissão pelas compras feitas com o cupom. Não provamos os produtos.
+
+**Tipo:** Guia de escolha
+
+## Resposta rápida
+
+O kit de 5 potes de 600 g tem o menor preço por 100 g, R$ 8,41 sem cupom. Quem quer só provar a pasta encontra o pote de 250 g, o formato mais caro por grama. O frete grátis muda a conta: veja no capítulo "Frete grátis: onde o kit compensa".
+
+## Como comparar: o preço por 100 g
+
+Cada pote e kit da Dr. Peanut tem um peso diferente, então o preço da embalagem sozinho não diz qual compensa. Dividimos o preço "por" pelo peso em gramas para saber quanto sai cada 100 g de pasta. Os valores são os que o site oficial mostrava em 24/10/2026. Com o cupom, a conta é o preço "por" menos 10%.
+
+[IMAGEM 2 no corpo: pote de 250 g, ver Plano de imagens]
+
+## Tabela de todos os formatos
+
+Com o cupom DREMCASACOMCECILIA, no carrinho, o desconto é de 10%, somado às promoções vigentes. As regras do cupom estão na [página da Dr. Peanut](/cupons/dr-peanut), e como colocá-lo no carrinho, no [guia do cupom](/reviews/cupom-dr-peanut-como-usar).
+
+| Formato | Peso total | Preço "por" | Por 100 g | Com cupom | Por 100 g com cupom |
+|---|---|---|---|---|---|
+| Pote 250 g | 250 g | R$ 25,89 | R$ 10,36 | R$ 23,30 | R$ 9,32 |
+| Pote 600 g | 600 g | R$ 59,89 | R$ 9,98 | R$ 53,90 | R$ 8,98 |
+| Kit 2 × 250 g | 500 g | R$ 47,64 | R$ 9,53 | R$ 42,88 | R$ 8,58 |
+| Kit 3 × 250 g | 750 g | R$ 68,35 | R$ 9,11 | R$ 61,52 | R$ 8,20 |
+| Kit 4 × 250 g | 1 kg | R$ 88,03 | R$ 8,80 | R$ 79,23 | R$ 7,92 |
+| Kit 2 × 600 g | 1,2 kg | R$ 110,20 | R$ 9,18 | R$ 99,18 | R$ 8,27 |
+| Kit 3 × 600 g | 1,8 kg | R$ 158,11 | R$ 8,78 | R$ 142,30 | R$ 7,91 |
+| Kit 4 × 600 g | 2,4 kg | R$ 203,63 | R$ 8,48 | R$ 183,27 | R$ 7,64 |
+| Kit 5 × 600 g | 3 kg | R$ 252,42 | R$ 8,41 | R$ 227,18 | R$ 7,57 |
+
+O pote de 250 g estava de R$ 28,90 e saiu por R$ 25,89. Os preços são do site em 24/10/2026, sem Pix.
+
+## 250 g ou 600 g: a diferença por 100 g
+
+O pote de 600 g sai por R$ 9,98 por 100 g, e o de 250 g, por R$ 10,36. A diferença é de cerca de 4%, ou R$ 0,38 a cada 100 g. Com cupom, a ordem não muda: R$ 8,98 contra R$ 9,32.
+
+[IMAGEM 1 no corpo: pote de 600 g, ver Plano de imagens]
+
+Pelo sabor, o tamanho também limita a escolha: o Doce de Leite só sai em 250 g, e o Banoffee e o Beijinho só em 600 g. Os sabores e a tabela nutricional de cada um estão no [artigo sobre o melhor sabor](/reviews/dr-peanut-melhor-sabor).
+
+## Kits: quanto mais potes, menor o preço por 100 g
+
+Nos kits de 250 g, o preço por 100 g cai de R$ 9,53 com 2 potes para R$ 9,11 com 3 e R$ 8,80 com 4. Nos de 600 g, cai de R$ 9,18 com 2 para R$ 8,78 com 3, R$ 8,48 com 4 e R$ 8,41 com 5.
+
+O kit de 2 × 250 g já sai R$ 0,83 mais barato por 100 g que o pote avulso de 250 g. O kit de 2 × 600 g sai R$ 0,80 abaixo do pote avulso de 600 g. O kit de 3 × 250 g (R$ 9,11) fica abaixo do kit de 2 × 600 g (R$ 9,18), mesmo com potes menores.
+
+Com cupom, o kit de 5 × 600 g vira o menor preço da tabela: R$ 7,57 por 100 g.
+
+## 800 g e 1 kg: o que a loja vende
+
+Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg.
+
+## Frete grátis: onde o kit compensa
+
+O frete é grátis quando o total com o cupom passa de R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Abaixo desse valor, a loja cobra o frete.
+
+Com o cupom, o kit de 3 × 600 g (R$ 142,30) fica R$ 7,60 abaixo do limite do Sudeste e do Sul. O kit de 4 × 600 g (R$ 183,27) passa esse limite, mas não o das outras regiões. O kit de 5 × 600 g (R$ 227,18) passa o limite em todas as regiões.
+
+## Assinatura: os preços sem cupom
+
+A assinatura só tem pastas de 250 g. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4. Por 100 g, sai R$ 9,94, R$ 9,53, R$ 9,11 e R$ 8,80.
+
+Com 2, 3 e 4 pastas, os valores são iguais aos dos kits de 250 g sem cupom, então a assinatura não sai mais barata que o kit.
+
+Não testamos se o cupom DREMCASACOMCECILIA entra na assinatura, por isso os valores deste capítulo são sem cupom. [VERIFICAR: teste no carrinho da assinatura com o cupom, 1 pasta de 250 g.]
+
+## Comprou, Ganhou: o brinde não baixa o preço
+
+A loja tem combos com brinde de alfajor ou de wafer. Um deles é 1 pote de 600 g com 3 alfajores de brinde, por R$ 59,89, o mesmo preço do pote avulso. Outro é 1 pote de 250 g com 1 alfajor, por R$ 25,89, também o preço do pote avulso.
+
+O alfajor tem preço de catálogo de R$ 12,99, ou R$ 38,97 os três. O brinde não baixa o preço do pote: a conta por 100 g vale só para a pasta.
+
+Não testamos se o cupom vale sobre o combo ou sobre o brinde. [VERIFICAR: teste no carrinho do combo com o cupom.]
+
+## Qual tamanho compensa
+
+Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.
+
+Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.
+
+Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.
+
+Para quem busca 1 kg, o kit de 4 × 250 g.
+
+O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor.
+
+## Perguntas frequentes
+
+O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste de 13/10 mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.
+
+O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.
+
+A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg.
+
+O cupom entra na assinatura? Ainda não testamos. Os valores da assinatura neste artigo são sem cupom.
+
+## Nota de transparência
+
+Não provamos os produtos deste artigo. Os preços e o frete são do site oficial da Dr. Peanut, lidos em 24/10/2026, e podem mudar: confira no carrinho antes de comprar. Podemos receber comissão pelas compras feitas com o cupom.
+
+---
+
+## Anexos do rascunho (fora do texto)
+
+### Plano de imagens
+- **Capa (16:9):** quadro com o preço por 100 g do pote de 250 g, do pote de 600 g e do kit de 4 × 600 g, com o logo da Dr. Peanut. Origem: montagem nossa, no modelo do gerador de capas (Job 6). Fica no topo.
+- **Corpo 1, capítulo "250 g ou 600 g":** foto oficial do pote de 600 g, frente da embalagem. Origem: foto da marca no CDN `drpeanut.vteximg.com.br`, a baixar pelo Chrome. Alt: "Pote de 600 g de pasta de amendoim Dr. Peanut, frente da embalagem". Legenda: "Pote de 600 g: R$ 59,89 no site em 24/10/2026, R$ 9,98 por 100 g."
+- **Corpo 2, capítulo "Como comparar":** foto oficial do pote de 250 g, frente da embalagem. Mesma origem. Alt: "Pote de 250 g de pasta de amendoim Dr. Peanut, frente da embalagem". Legenda: "Pote de 250 g: R$ 25,89 no site em 24/10/2026, R$ 10,36 por 100 g."
+- Sem foto de kit com fundo de marketing, sem antes e depois e sem foto de concorrente.
+
+### Matriz de claims
+| Afirmação | Tipo | Fonte | Status |
+|---|---|---|---|
+| Preços de 250 g, 600 g e kits, sem e com cupom | Preço volátil | Site oficial, Chrome, 24/10/2026 | [x] com data |
+| Preço por 100 g de cada formato | Conta nossa (preço ÷ gramas; com cupom = "por" × 0,9) | Mesmo site | [x] |
+| Cupom 10% em todo o site, somado a promoções | Condição | Dossiê da Dr. Peanut, teste de 13/10/2026 | [x] |
+| Frete grátis acima de R$ 149,90 (SP capital, Sudeste e Sul) e de R$ 199,90 (demais regiões), com cupom | Condição volátil | Política de frete (texto colado pelo Bruno, 14/10/2026) | [x] com data |
+| Não há pote de 800 g nem de 1 kg | Fato de catálogo | Filtro de peso em /combos, 24/10/2026 | [x] |
+| Doce de Leite só em 250 g; Banoffee e Beijinho só em 600 g | Fato de catálogo | Site, 24/10/2026 | [x] |
+| Assinatura só com pastas de 250 g; desconto de 4, 8, 12 e 15%; valores sem cupom | Preço volátil | Assinatura no site, 24/10/2026 | [x] sem cupom |
+| Cupom na assinatura | Pendente | Sem teste | [ ] [VERIFICAR] |
+| Combos "Comprou, Ganhou" (R$ 59,89 e R$ 25,89) e alfajor de catálogo (R$ 12,99) | Preço volátil | /combos, 24/10/2026 | [x] |
+| Cupom sobre o brinde ou o combo | Pendente | Sem teste | [ ] [VERIFICAR] |
+| Pix não entra na conta | Condição | Brief do Bruno, 24/10/2026 | [x] |
+
+### [VERIFICAR] pendentes
+1. Cupom na assinatura (capítulo "Assinatura" e FAQ): teste no carrinho com 1 pasta de 250 g.
+2. Cupom sobre o combo "Comprou, Ganhou" (capítulo "Comprou, Ganhou"): teste no carrinho.
+3. Reler preços e frete no dia da publicação.
+
+### Dúvidas para o Bruno
+1. Link de produto: o `offerUrl` da Dr. Peanut é `https://www.drpeanut.com.br/`, sem UTM. A regra de UTM da Skelt vale aqui? Enquanto isso, o texto linka só o site.
