@@ -268,7 +268,7 @@ A barra tem a maior proteína por unidade e também o menor preço por grama de 
 
 Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.
 
-Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).
+Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).
 
 ### Glúten e lactose, e o que a loja não publica
 
@@ -317,9 +317,9 @@ Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2
 ### Plano de imagens
 
 - **Capa (hero):** quadro desenhado do guia de escolha, no padrão de `autobronzeador-skelt-qual-escolher` (montagem no Job 6). Origem: montagem nossa, sem foto de terceiro. Foto de barra ou alfajor como capa só se o Bruno escolher.
-- **Imagem 1, seção "Os três snacks em uma tabela":** `bar-coco-img5.jpg`, tabela da Doctor Bar Chocolate com Coco. Origem: galeria da página do produto na loja, confirmada pelo Bruno em 24/10. Alt: "Tabela nutricional da barra de proteína Doctor Bar sabor Chocolate com Coco da Dr. Peanut, porção de 62 g". Legenda: "Tabela da Doctor Bar Chocolate com Coco publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut." Recortar só a tabela, sem a faixa de fundo.
+- **Imagem 1, seção "Os três snacks em uma tabela":** tabela da Doctor Bar Cookies & Cream (`bar-cookies-tabela.png`, Job 6 trocou a de coco, ilegível no celular). Origem: página do produto na loja, 24/10/2026. Alt: "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream da Dr. Peanut, porção de 62 g". Legenda: "Tabela da Doctor Bar Cookies & Cream publicada na página do produto em 24/10/2026. Imagem: Dr. Peanut."
 - **Imagem 2, seção "Glúten e lactose, e o que a loja não publica":** `alfajor-leite-em-po-3.jpg`, tabela do alfajor Leite em Pó. Origem: tabela publicada na página do produto. Alt: "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g". Legenda: "Tabela do alfajor Leite em Pó publicada na página do produto. A loja não publica a lista de ingredientes. Imagem: Dr. Peanut."
-- **Imagem 3, seção "Preço e cupom":** `bar-speculoos-img3.jpg`, display aberto de Doctor Bar Speculoos. Origem: foto de produto da própria marca. O canto com a tabela cortada e ilegível fica fora do recorte. Alt: "Display aberto com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut". Legenda: "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut."
+- **Imagem 3, seção "Preço e cupom":** `bar-speculoos-img4.jpg`, display aberto de Doctor Bar Speculoos. Origem: foto de produto da própria marca. Alt: "Display aberto com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut". Legenda: "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut."
 
 ### Matriz de claims
 
