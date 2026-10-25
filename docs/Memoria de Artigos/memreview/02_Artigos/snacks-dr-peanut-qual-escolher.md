@@ -8,9 +8,9 @@ coupon: "DREMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "em-revisao"
-responsavel: "Claude (Job 2)"
-proxima_acao: "revisao-editorial"
+status: "revisado"
+responsavel: "Fable (Job 3)"
+proxima_acao: "decisao-bruno-e-job-6"
 bloqueado_por: null
 data_criacao: "2026-10-24"
 score_preliminar: 74
@@ -226,11 +226,11 @@ Contas (preço do dia; proteína do rótulo):
 
 ### Resposta rápida
 
-Para proteína por unidade, a Doctor Bar ganha, com 21 g contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Para menos calorias e menor preço avulso, o wafer leva a vantagem, com 118 a 127 kcal por R$ 11,46. Quanto você compra por vez muda a conta; veja em Preço e cupom.
+Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade, R$ 11,46. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher.
 
 ### Os três snacks em uma tabela
 
-Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026.
+Este texto compara os snacks da Dr. Peanut entre si: a Doctor Bar, o alfajor e a Doctor Wafer. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja, lida em 24/10/2026.
 
 | Produto | Peso | kcal | Proteína | Açúcares totais | Açúcares adicionados | Gordura saturada | Preço da unidade |
 |---|---|---|---|---|---|---|---|
@@ -254,7 +254,7 @@ Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor B
 
 ### Proteína por unidade e por real
 
-A conta nossa divide o preço da unidade pela proteína que o rótulo mostra. Não é um preço da loja: serve para comparar os três formatos. A tabela também traz a proteína por 100 kcal, pela mesma lógica. Em todas as contas, o preço é o normal da unidade, sem cupom e sem promoção.
+A conta é nossa: o preço da unidade dividido pela proteína que o rótulo mostra. Não é um preço da loja; serve só para comparar os três formatos. A tabela também traz a proteína por 100 kcal, pela mesma lógica. Em todas as contas, o preço é o normal da unidade, sem cupom e sem promoção.
 
 | Formato | Proteína por unidade | Preço da unidade | Conta nossa: R$ por g de proteína | Conta nossa: g de proteína por 100 kcal |
 |---|---|---|---|---|
@@ -266,13 +266,13 @@ A barra tem a maior proteína por unidade e também o menor preço por grama de 
 
 ### Açúcar: o que a tabela mostra
 
-Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o que entra na receita. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.
+Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.
 
-Os polióis aparecem só na tabela da barra, de 9,6 a 12 g por unidade. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis. A lista de adoçantes de cada produto está no guia de ingredientes da Dr. Peanut.
+Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).
 
 ### Glúten e lactose, e o que a loja não publica
 
-O rótulo da Doctor Bar e da Doctor Wafer diz CONTÉM GLÚTEN e CONTÉM LACTOSE, nos sabores lidos. Na Doctor Bar Speculoos, a tabela não foi publicada, e o aviso dela não foi conferido.
+A página da Doctor Bar Avelã e a da Doctor Wafer Avelã dizem CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso na página de cada um antes de comprar. Na Doctor Bar Speculoos, a tabela não foi publicada, e o aviso dela não foi conferido.
 
 O alfajor é diferente. A loja publica a tabela nutricional em imagem, mas não publica a lista de ingredientes nem o aviso de alérgicos. Por isso, este texto não diz o que o alfajor contém, nem se ele tem glúten ou lactose. Quem precisa evitar algum deles deve conferir a embalagem antes de comer.
 
@@ -280,20 +280,20 @@ O alfajor é diferente. A loja publica a tabela nutricional em imagem, mas não 
 
 ### Preço e cupom
 
-A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade.
+A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade.
 
 [IMAGEM 3, ver Plano de imagens]
 
-O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.
+O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.
 
-O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas está em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel).
+O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas estão em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel).
 
 ### Qual escolher
 
 Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:
 
 - **Mais proteína por unidade:** a Doctor Bar, com 21 g. A unidade sai a R$ 15,25, e a loja só vende em display de 8.
-- **Menos calorias por unidade:** o Doctor Wafer, com 118 a 127 kcal, e também o menor preço avulso, a R$ 11,46.
+- **Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.
 - **Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.
 - **Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.
 - **Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99.
@@ -302,7 +302,7 @@ Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa d
 
 ### Perguntas frequentes
 
-Doctor Bar tem glúten? Tem. Nos sabores lidos, o rótulo diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.
+Doctor Bar tem glúten? Tem. A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.
 
 Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.
 
@@ -329,11 +329,38 @@ Os números vêm das tabelas e das páginas de produto da loja, lidas em 24/10/2
 | Alfajor tem 4 a 4,7 g de proteína por unidade de 35 g | Fato de rótulo | Tabelas oficiais dos 5 sabores | Tabela e proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
 | Doctor Wafer tem 5 a 6 g de proteína por unidade de 25 g | Fato de rótulo | Tabelas oficiais dos 3 sabores | Tabela e proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
 | Açúcar adicionado: 0 g no alfajor e no wafer; 0,1 a 0,4 g na barra | Fato de rótulo | Tabelas oficiais | Açúcar | 24/10/2026 | Para auditoria (Job 3) |
-| Polióis de 9,6 a 12 g na barra; alfajor e wafer sem essa linha na tabela | Fato de rótulo | Tabela da Doctor Bar | Açúcar | 24/10/2026 | Para auditoria (Job 3) |
-| Alfajor sem lista de ingredientes nem aviso de alérgicos publicados; tabela, sim | Fato da página | Página do produto (Chrome) | Glúten e lactose | 24/10/2026 | Para auditoria (Job 3) |
-| Doctor Bar e Doctor Wafer: CONTÉM GLÚTEN e CONTÉM LACTOSE, nos sabores lidos | Fato de rótulo | Página do produto (Chrome) | Glúten e lactose | 24/10/2026 | Para auditoria (Job 3) |
+| Polióis de 9,6 a 12 g na barra; alfajor e wafer sem essa linha na tabela | Fato de rótulo | Tabela da Doctor Bar (Avelã 9,6 g confere com `dr-peanut-e-saudavel`; os outros sabores só nas imagens do Job 2) | Açúcar | 24/10/2026 | Conferido (Job 3), faixa 12 g pendente de imagem |
+| Doctor Wafer Avelã tem maltitol na lista de ingredientes | Fato de rótulo | `content/reviews/dr-peanut-e-saudavel.json` ("Doctor Wafer Avelã: maltitol no ganache", lido em 20/10) | Açúcar | 20/10/2026 | Conferido (Job 3) |
+| Alfajor sem lista de ingredientes nem aviso de alérgicos publicados; tabela, sim | Fato da página | Página do produto (Chrome); dossiê (Bruno, 20/10) | Glúten e lactose | 24/10/2026 | Conferido (Job 3) |
+| Doctor Bar Avelã e Doctor Wafer Avelã: CONTÉM GLÚTEN e CONTÉM LACTOSE | Fato de rótulo | Página do produto (Chrome); `dr-peanut-e-saudavel` confirma os dois Avelã | Glúten e lactose | 24/10/2026 | Conferido para o Avelã; outros sabores em [VERIFICAR] |
 | Doctor Bar só em display de 8 (R$ 122,03); barra a R$ 15,25 na conta | Preço do dia e conta nossa | `/snacks` (Chrome) | Preço e cupom | 24/10/2026 | Para auditoria (Job 3) |
 | Alfajor R$ 12,99 avulso, display 12 R$ 155,88, kit 10 R$ 129,90; wafer R$ 11,46, display 12 R$ 137,52, kit 12 R$ 130,68 (R$ 10,89 por unidade) | Preço do dia | `/snacks` e `/combos` (Chrome) | Preço e cupom | 24/10/2026 | Para auditoria (Job 3) |
 | Cupom DREMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento | Condição comercial | `src/lib/couponsData.ts` (dr-peanut); dossiê (Bruno, 13/10) | Preço e cupom | 13/10/2026 | Para auditoria (Job 3) |
 | Contas com cupom (R$ 13,73, R$ 11,69, R$ 10,31), R$ por g de proteína e proteína por 100 kcal | Conta nossa | Preço do dia e rótulo; fórmula no texto | Preço e cupom; proteína por unidade | 24/10/2026 | Para auditoria (Job 3) |
 | Nenhuma frase de saúde, "saudável", "engorda" ou "energia" | Regra | `REGRAS-GLOBAIS.md` seção 5; decisão do Bruno (20/10) | Texto inteiro | 24/10/2026 | Para auditoria (Job 3) |
+
+## Revisão Job 3 (Fable, 24/10/2026)
+
+Contas conferidas e certas: R$ 122,03 ÷ 8 = 15,25; R$/g de proteína (0,73; 2,76 a 3,25; 1,91 a 2,29); proteína por 100 kcal (7,8 a 8,1; 2,2 a 3,0; 3,9 a 5,1); cupom (13,73; 11,69; 10,31); kits (10,89 e 12,99); faixas de açúcar. Resposta rápida reescrita com 59 palavras, 3 frases, sem link.
+
+O que mudou no rascunho:
+- Resposta rápida: tirou "menor preço avulso" (a barra nem se vende avulsa) e passou a apontar o capítulo "Qual escolher", que é o veredito, no lugar de "Preço e cupom".
+- Primeiro capítulo: uma frase dizendo que pastas e whey ficam de fora, com o link para `dr-peanut-melhor-sabor` que o briefing (seção 7) pedia e o rascunho não tinha.
+- Açúcar: definição de açúcares adicionados ("acrescentado na fabricação"); o link para `dr-peanut-e-saudavel` entrou na primeira menção; e a frase sobre polióis ganhou o fato do artigo publicado: a lista de ingredientes da Doctor Wafer Avelã traz maltitol. Não há divergência de fato entre os dois artigos: o publicado fala da **lista de ingredientes** ("Doctor Wafer Avelã: maltitol no ganache"; "Pasta, Doctor Bar e Doctor Wafer levam também polióis"), e este briefing fala da **tabela nutricional**, que não tem a linha de polióis no wafer. O rascunho dizia só "isso não quer dizer que não tenham"; agora diz o que a lista publicada mostra.
+- Glúten e lactose: "nos sabores lidos" era vago. O `dr-peanut-e-saudavel` confirma o aviso só no Avelã da barra e do wafer; o texto e o FAQ agora citam o Avelã, com um `[VERIFICAR]` para os outros sabores.
+- Preço: o kit de 10 alfajores sai pelo mesmo R$ 12,99 por unidade (dito); o cupom "soma com as promoções" (couponsData e dossiê), sem afirmar que vale sobre o display em promoção (decisão 4 do Bruno).
+- "o Doctor Wafer" virou "a Doctor Wafer", como no artigo publicado; "está em" virou "estão em".
+- Matriz de claims: linhas de polióis, maltitol do wafer e glúten/lactose atualizadas.
+
+Para o Bruno decidir:
+1. `[VERIFICAR]` no capítulo de glúten e lactose: o aviso CONTÉM GLÚTEN e CONTÉM LACTOSE foi lido nos outros sabores de Doctor Bar e Doctor Wafer em 24/10, ou só no Avelã? O texto hoje afirma só o Avelã.
+2. Polióis de 9,6 a 12 g na barra: conferi só o 9,6 g do Avelã (publicado). O 12 g e as tabelas dos outros sabores estão nas imagens de `lote-2410/dr-peanut-img/`, que não estão no worktree; não abri.
+3. O dossiê (24/10) diz "alfajor e wafer avulsos ou em kit, sem desconto por unidade", mas o `/combos` lido no mesmo dia dá o kit de 12 wafers a R$ 130,68 (R$ 10,89 por unidade, contra R$ 11,46 avulso). O artigo segue o preço lido; a nota do parceiro é que precisa de ajuste.
+4. O rascunho tem 5 links internos (`/cupons/dr-peanut`, `cupom-dr-peanut-como-usar`, `dr-peanut-e-confiavel`, `dr-peanut-e-saudavel`, `dr-peanut-melhor-sabor`). O contrato limita a 3 os links para a página da loja, o que o artigo respeita (1); se o limite valer para todo link interno, cortar `dr-peanut-e-confiavel` e `dr-peanut-melhor-sabor`.
+5. O `seoTitle` do rascunho ("Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína [2026]", 57 caracteres) é mais curto que o do frontmatter, que passa de 60. Fica o do rascunho.
+
+### Conferência do Claude (24/10/2026)
+- Polióis: o texto fica só com o 9,6 g da Doctor Bar Avelã, que o artigo publicado confirma; a faixa até 12 g saiu porque as imagens da leitura não estão disponíveis.
+- Glúten e lactose: afirmado só para os dois Avelã; nos outros sabores, o texto manda o leitor conferir a página. Sem [VERIFICAR] no corpo.
+- Links: o teto de 3 do contrato vale para links à página da loja (1 aqui); os links a artigos irmãos ficam.
+- Nota do parceiro: o "sem desconto por unidade" no kit de wafer está desatualizado (kit de 12 a R$ 130,68 em /combos, 24/10). Ajustada em 01_Parceiros/Dr-Peanut.md.

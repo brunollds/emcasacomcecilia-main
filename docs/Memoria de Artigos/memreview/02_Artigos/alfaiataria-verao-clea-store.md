@@ -6,7 +6,7 @@ parceiro: "[[Clea-Store]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "em-revisao"
+status: "revisado"
 responsavel: "Claude"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -246,7 +246,7 @@ A loja não vende conjunto de alfaiataria. Montagens com a mesma cor e tecido:
 
 ## Resposta rápida
 
-Dá para montar um conjunto de alfaiataria de verão com peças da Cléa Store, porque a loja não vende conjunto pronto. O linho aparece em várias peças, mas a grade falta em boa parte delas. Antes de escolher, veja em Grade do dia: o que ainda dá para comprar.
+A Cléa Store não vende conjunto de alfaiataria, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a grade de cada peça em Grade do dia.
 
 ## A loja não vende conjunto de alfaiataria
 
@@ -269,9 +269,12 @@ A loja não publica a gramatura do tecido, então este texto não compara peso. 
 | Colete Alfaiataria Trespasse Vermelho (4393) | 100% linho | não informa | R$ 799,00 | P e G | grade quebrada |
 | Calça Caqui Linho (4416) | 70/30 linho e algodão, wide leg | não informa | R$ 559,00 | 36 e 38 | pré-venda |
 | Calça Linho Vermelha (4414) | 70/30 linho e algodão, wide leg | não informa | R$ 559,00 | 36 e 38 | pré-venda |
+| Bermuda Vermelha (4395) | 100% linho | não informa | R$ 599,00 | 40 | só 40 |
 | Shorts Rosa Linho (4402) | 100% linho | não informa | R$ 579,00 | 36, 38 e 40 | disponível |
 
 Os preços são do site em 24/10/2026, sem cupom.
+
+[Imagem 1 do corpo: tabela desenhada, ver Plano de imagens]
 
 ## Blazer: linho, mistura com elastano ou poliéster com forro
 
@@ -283,7 +286,7 @@ O curto cropped (4348) é de 95% poliéster e 5% elastano, segundo a ficha. Cust
 
 O oversized de mescla (4307) é de 70% poliéster e 30% viscose, com forro de 97% poliéster e 3% elastano. Custa R$ 524,30, de R$ 749,00, mas só tem P.
 
-Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens. No dia da leitura, o risca de giz não tinha nenhum tamanho, e o bordô também não tinha P, M nem G.
+Os dois blazers esgotados, o risca de giz (4282) e o bordô (4305), não entram nas montagens: no dia da leitura, nenhum dos dois tinha tamanho disponível.
 
 Se a pergunta é qual tecido usar no calor, a ficha só diz a composição. Veja o capítulo Calor: o que a ficha permite dizer.
 
@@ -303,9 +306,9 @@ A loja não vende estes conjuntos prontos. As três combinações abaixo usam pe
 
 [Imagem 3 do corpo: shorts rosa 4402, ver Plano de imagens]
 
-**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça está em pré-venda: dá para comprar, e a página avisa que o prazo de entrega conta a partir de 08/10/2026.
+**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; a página diz que a entrega conta a partir de 08/10/2026.
 
-**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também está em pré-venda, e a própria ficha sugere usá-la com o colete.
+**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.
 
 As três montagens passam de R$ 599, valor da faixa de frete grátis do site em 24/10/2026.
 
@@ -319,7 +322,7 @@ A Calça Wide Leg Areia (4382), R$ 756,00, de 36 a 42, é de algodão, mas a fic
 
 ## Calor: o que a ficha permite dizer
 
-Este texto não promete conforto térmico, e a loja também não. A ficha diz a composição de cada peça, e é isso que dá para comparar. O linho é fibra natural, e a ficha do colete bege chama o tecido de natural. A loja não publica a gramatura nem mede conforto. Por isso, nenhuma peça aqui é apresentada como mais fresca que outra.
+Este texto não promete conforto térmico. A ficha diz a composição de cada peça, e é isso que dá para comparar. A ficha do colete bege descreve o linho como tecido natural. A loja não publica a gramatura nem mede conforto. Por isso, nenhuma peça aqui é apresentada como mais fresca que outra.
 
 Para comparar, olhe a composição: linho, linho com algodão, poliéster com elastano ou poliéster com viscose.
 
@@ -344,15 +347,15 @@ As grades mudam todo dia. Confira o seu tamanho na página antes de comprar.
 
 ## Código e onde comprar
 
-O cupom é CSEMCASACOMCECILIA, com 10% em todo o site sobre o preço do dia. Ele soma com as promoções da loja. Use o código no checkout.
+O cupom é CSEMCASACOMCECILIA, com 10% em todo o site sobre o preço do dia, em todas as formas de pagamento. Ele soma com as promoções da loja. Use o código no checkout.
 
 A devolução é grátis, segundo a loja. Troca direta de tamanho e reembolso de compra com cupom não estão confirmados, então este texto não conta com eles.
 
-Regras do cupom na [página da Cléa Store](/cupons/clea-store). Compra no [site oficial da Cléa Store](https://www.cleastore.com.br/).
+Regras do cupom na [página da Cléa Store](/cupons/clea-store). Compra no [site oficial da Cléa Store](https://www.cleastore.com.br/). A loja também vende no Mercado Livre, e a diferença está em [Mercado Livre ou site](/reviews/clea-store-mercado-livre-ou-site).
 
 ## Qual escolher
 
-Se a grade do seu tamanho está aberta, a montagem rosa é a mais simples: tudo em linho, numa cor só, com blazer e short no mesmo tom. Ela também é a mais cara, com R$ 1.330,20 com o cupom. Quem quer o colete para a calça de linho escolhe o bege se for PP ou P, e o vermelho se for P ou G. Para calça, a caqui (4416) e a vermelha (4414) estão em pré-venda, só em 36 e 38. Quem quer blazer com forro declarado só tem o mescla (4307), e só em P.
+Se a grade do seu tamanho está aberta, a montagem rosa é a mais simples: tudo em linho, numa cor só, com blazer e short no mesmo tom. Ela também é a mais cara, R$ 1.330,20 com o cupom. A bege é a mais barata, R$ 772,56 com o cupom, porque o colete está em promoção. Quem quer colete com calça de linho escolhe o bege se for PP ou P, e o vermelho se for P ou G. Para calça, a caqui (4416) e a vermelha (4414) estão em pré-venda, só em 36 e 38. Quem quer blazer com forro declarado só tem o mescla (4307), e só em P.
 
 Se a peça é para o trabalho no inverno, o [look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store) mostra outras combinações. Por baixo do blazer, o [guia de bodies da Cléa Store](/reviews/body-clea-store-second-skin-qual-escolher) compara os modelos.
 
@@ -360,11 +363,11 @@ Se a peça é para o trabalho no inverno, o [look de trabalho com alfaiataria](/
 
 A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido em 24/10/2026, o único conjunto é de crochê, por R$ 1.490.
 
-A calça é wide leg? A ficha da Calça Caqui Linho (4416) diz que sim. A da Calça Linho Vermelha (4414) também: modelagem reta, perna larga e cintura alta.
+A calça é wide leg? Sim, segundo a ficha, nas duas: a Calça Caqui Linho (4416) e a Calça Linho Vermelha (4414).
 
 O blazer tem forro? Só o Blazer Oversized Mescla (4307) e o Bordô (4305) declaram forro, de 97% poliéster e 3% elastano. Nos outros, a ficha não informa.
 
-Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página.
+Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página, e o [guia da tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir.
 
 O frete é grátis? Sim, acima de R$ 599, na faixa do site em 24/10/2026.
 
@@ -418,3 +421,29 @@ URLs lidas em 24/10/2026:
 - 4416 https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-caqui-4416
 - 4414 https://www.cleastore.com.br/produto/calca-feminina-alfaiataria-em-linho-vermelha-4414
 - 4382 https://www.cleastore.com.br/produto/calca-wide-leg-areia-4382
+
+## Revisão Job 3 (Fable, 24/10/2026)
+
+Mudanças no rascunho:
+- Resposta rápida reescrita (57 palavras, 3 frases): a antiga dizia que dá para montar conjunto "porque" a loja não vende pronto (lógica invertida) e não trazia veredito. Agora: a loja não vende, mas dá para montar; rosa é a mais simples e bege a mais barata com o cupom; o tamanho decide, e a última frase aponta o capítulo Grade do dia.
+- "Qual escolher" ganhou a frase da montagem bege como a mais barata (R$ 772,56 com o cupom), para a resposta rápida não dizer nada que não esteja num capítulo.
+- Tabela "Tecido" ganhou a linha da Bermuda Vermelha (4395, 100% linho, R$ 599, só 40), que entra numa montagem e faltava; e a marcação da imagem 1 do corpo (tabela desenhada), que o Plano de imagens previa e o texto não posicionava.
+- Blazers esgotados: frase simplificada ("nenhum dos dois tinha tamanho disponível").
+- Calor: tirado "e a loja também não [promete]" (afirmação sobre a loja sem fonte) e "o linho é fibra natural" como afirmação nossa; fica só a descrição da ficha do colete bege (claim 4, aprovado só como descrição da marca).
+- Cupom: acrescentado "em todas as formas de pagamento" (dossiê, Bruno 14/10).
+- FAQ "A calça é wide leg?": tirado "modelagem reta, perna larga e cintura alta", detalhe sem entrada na matriz de claims; fica só o "wide leg segundo a ficha" (claim 14).
+- Pré-venda da 4414: tirada a frase "a própria ficha sugere usá-la com o colete", sem fonte na matriz; ficou `[VERIFICAR]` para o redator conferir na descrição e restaurar se a ficha disser.
+
+Contas conferidas e certas: 899 + 579 = 1.478,00 → 1.330,20; 299,40 + 559 = 858,40 → 772,56; 799 + 599 = 1.398,00 → 1.258,20; 799 + 559 = 1.358,00 → 1.222,20; promoções 749 → 524,30 e 499 → 299,40. Todas as montagens passam de R$ 599 mesmo com o cupom. Três links internos, no limite. Sem travessão, sem alegação de conforto térmico, sem Anvisa, sem concorrente.
+
+Para o Bruno:
+1. A entrega da pré-venda "a partir de 08/10/2026" é data passada em relação à leitura (24/10). O texto repete o que a página diz; decidir se avisa o leitor da incoerência ou se pede à loja para corrigir.
+2. Existe o artigo publicado `clea-store-tabela-de-medidas-como-escolher-tamanho`; o FAQ "Qual tamanho escolher?" ganharia com o link, mas os 3 links internos já estão tomados (cupom, look de trabalho, bodies). Trocar o de bodies pelo de medidas, ou manter?
+3. O `[VERIFICAR]` da 4414 (sugestão da ficha de usar com o colete).
+4. Reler preço e grade no dia da publicação, como já previsto.
+
+### Conferência do Claude (24/10/2026)
+- Restaurada a sugestão de usar a 4414 com o colete: a descrição lida no Chrome em 24/10 diz "ideal para compor o conjunto com o colete ou usar separadamente".
+- Bruno (24/10): pode linkar o artigo do Mercado Livre. O teto de 3 do contrato vale para links à página da loja (só 1 aqui); os links a artigos irmãos seguem a prática da série. Entraram o do Mercado Livre e o da tabela de medidas.
+- Bruno (24/10): A20 publica antes do look de Natal.
+- Pré-venda com entrega "a partir de 08/10/2026": o texto repete a página; reler no dia de publicar.

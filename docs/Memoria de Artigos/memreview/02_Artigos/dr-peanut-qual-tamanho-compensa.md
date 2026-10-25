@@ -6,7 +6,7 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "em-revisao"
+status: "revisado"
 responsavel: "Claude"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -170,7 +170,7 @@ Preço por 100 g = preço "por" ÷ gramas. Com cupom = "por" × 0,9 (cupom DREMC
 
 ## Resposta rápida
 
-O kit de 5 potes de 600 g tem o menor preço por 100 g, R$ 8,41 sem cupom. Quem quer só provar a pasta encontra o pote de 250 g, o formato mais caro por grama. O frete grátis muda a conta: veja no capítulo "Frete grátis: onde o kit compensa".
+Por 100 g, o kit de 5 potes de 600 g é o mais barato, R$ 8,41 sem cupom; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em "Frete grátis: onde o kit compensa".
 
 ## Como comparar: o preço por 100 g
 
@@ -194,7 +194,7 @@ Com o cupom DREMCASACOMCECILIA, no carrinho, o desconto é de 10%, somado às pr
 | Kit 4 × 600 g | 2,4 kg | R$ 203,63 | R$ 8,48 | R$ 183,27 | R$ 7,64 |
 | Kit 5 × 600 g | 3 kg | R$ 252,42 | R$ 8,41 | R$ 227,18 | R$ 7,57 |
 
-O pote de 250 g estava de R$ 28,90 e saiu por R$ 25,89. Os preços são do site em 24/10/2026, sem Pix.
+O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site em 24/10/2026, sem desconto de Pix.
 
 ## 250 g ou 600 g: a diferença por 100 g
 
@@ -210,25 +210,34 @@ Nos kits de 250 g, o preço por 100 g cai de R$ 9,53 com 2 potes para R$ 9,11 co
 
 O kit de 2 × 250 g já sai R$ 0,83 mais barato por 100 g que o pote avulso de 250 g. O kit de 2 × 600 g sai R$ 0,80 abaixo do pote avulso de 600 g. O kit de 3 × 250 g (R$ 9,11) fica abaixo do kit de 2 × 600 g (R$ 9,18), mesmo com potes menores.
 
-Com cupom, o kit de 5 × 600 g vira o menor preço da tabela: R$ 7,57 por 100 g.
+Com cupom, o kit de 5 × 600 g cai para R$ 7,57 por 100 g, o menor preço da tabela.
 
 ## 800 g e 1 kg: o que a loja vende
 
-Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg.
+Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg.
 
 ## Frete grátis: onde o kit compensa
 
-O frete é grátis quando o total com o cupom passa de R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Abaixo desse valor, a loja cobra o frete.
+O frete é grátis quando o total, já com o cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.
 
 Com o cupom, o kit de 3 × 600 g (R$ 142,30) fica R$ 7,60 abaixo do limite do Sudeste e do Sul. O kit de 4 × 600 g (R$ 183,27) passa esse limite, mas não o das outras regiões. O kit de 5 × 600 g (R$ 227,18) passa o limite em todas as regiões.
 
-## Assinatura: os preços sem cupom
+## Assinatura: com o cupom, o menor preço nos potes de 250 g
 
-A assinatura só tem pastas de 250 g. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4. Por 100 g, sai R$ 9,94, R$ 9,53, R$ 9,11 e R$ 8,80.
+A assinatura ("Monte sua assinatura") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.
 
-Com 2, 3 e 4 pastas, os valores são iguais aos dos kits de 250 g sem cupom, então a assinatura não sai mais barata que o kit.
+O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho em 24/10/2026: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g.
 
-Não testamos se o cupom DREMCASACOMCECILIA entra na assinatura, por isso os valores deste capítulo são sem cupom. [VERIFICAR: teste no carrinho da assinatura com o cupom, 1 pasta de 250 g.]
+| Pastas de 250 g | Peso | Total com cupom | Por 100 g |
+|---|---|---|---|
+| 1 | 250 g | R$ 22,26 | R$ 8,90 |
+| 2 | 500 g | R$ 42,46 | R$ 8,49 |
+| 3 | 750 g | R$ 60,58 | R$ 8,08 |
+| 4 ou mais | 1 kg ou mais | R$ 77,67 com 4 (R$ 19,42 por pasta) | R$ 7,77 |
+
+Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.
+
+O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. Com o cupom, isso dá 8 pastas (R$ 155,34) no Sul e no Sudeste e 11 pastas (R$ 213,59) nas outras regiões.
 
 ## Comprou, Ganhou: o brinde não baixa o preço
 
@@ -246,7 +255,7 @@ Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com
 
 Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.
 
-Para quem busca 1 kg, o kit de 4 × 250 g.
+Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.
 
 O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor.
 
@@ -256,9 +265,9 @@ O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste de 1
 
 O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.
 
-A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg.
+A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura.
 
-O cupom entra na assinatura? Ainda não testamos. Os valores da assinatura neste artigo são sem cupom.
+O cupom entra na assinatura? Sim. No teste de 24/10/2026, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal.
 
 ## Nota de transparência
 
@@ -283,16 +292,43 @@ Não provamos os produtos deste artigo. Os preços e o frete são do site oficia
 | Frete grátis acima de R$ 149,90 (SP capital, Sudeste e Sul) e de R$ 199,90 (demais regiões), com cupom | Condição volátil | Política de frete (texto colado pelo Bruno, 14/10/2026) | [x] com data |
 | Não há pote de 800 g nem de 1 kg | Fato de catálogo | Filtro de peso em /combos, 24/10/2026 | [x] |
 | Doce de Leite só em 250 g; Banoffee e Beijinho só em 600 g | Fato de catálogo | Site, 24/10/2026 | [x] |
-| Assinatura só com pastas de 250 g; desconto de 4, 8, 12 e 15%; valores sem cupom | Preço volátil | Assinatura no site, 24/10/2026 | [x] sem cupom |
-| Cupom na assinatura | Pendente | Sem teste | [ ] [VERIFICAR] |
+| Assinatura ("Monte sua assinatura") só com pastas de 250 g; mensal, bimestral ou trimestral; desconto de 4, 8, 12 e 15% por quantidade | Preço volátil | Assinatura no site, 24/10/2026 | [x] |
+| Cupom entra na assinatura e soma com o desconto progressivo; os 10% saem sobre o subtotal. 3 pastas: R$ 77,67, -R$ 9,32 (12%), -R$ 7,77 (cupom), total R$ 60,58 (R$ 20,19 por pasta, R$ 8,08 por 100 g) | Condição comercial, teste real | Carrinho do Bruno, 24/10/2026 | [x] com data |
+| Totais da assinatura com cupom: 1 pasta R$ 22,26 (R$ 8,90 por 100 g), 2 R$ 42,46 (R$ 8,49), 3 R$ 60,58 (R$ 8,08), 4 ou mais R$ 19,42 por pasta (R$ 7,77) | Conta nossa (subtotal × (1 − progressivo − 0,10)) | Sobre o teste de 24/10 | [x] |
+| Frete grátis na assinatura a partir de R$ 149,90 (Sul e Sudeste) e R$ 199,90 (demais); com cupom, 8 pastas (R$ 155,34) e 11 pastas (R$ 213,59) | Condição volátil + conta nossa | Carrinho do Bruno, 24/10/2026 | [x] com data |
 | Combos "Comprou, Ganhou" (R$ 59,89 e R$ 25,89) e alfajor de catálogo (R$ 12,99) | Preço volátil | /combos, 24/10/2026 | [x] |
 | Cupom sobre o brinde ou o combo | Pendente | Sem teste | [ ] [VERIFICAR] |
 | Pix não entra na conta | Condição | Brief do Bruno, 24/10/2026 | [x] |
 
 ### [VERIFICAR] pendentes
-1. Cupom na assinatura (capítulo "Assinatura" e FAQ): teste no carrinho com 1 pasta de 250 g.
+1. ~~Cupom na assinatura~~ resolvido pelo teste do Bruno em 24/10/2026 (ver matriz).
 2. Cupom sobre o combo "Comprou, Ganhou" (capítulo "Comprou, Ganhou"): teste no carrinho.
 3. Reler preços e frete no dia da publicação.
 
 ### Dúvidas para o Bruno
 1. Link de produto: o `offerUrl` da Dr. Peanut é `https://www.drpeanut.com.br/`, sem UTM. A regra de UTM da Skelt vale aqui? Enquanto isso, o texto linka só o site.
+
+## Revisão Job 3 (Fable, 24/10/2026)
+
+Contas conferidas: todos os preços por 100 g, os totais com cupom (× 0,9), as diferenças entre tamanhos (R$ 0,38, R$ 0,83, R$ 0,80, 4% e 8%), os limites de frete (R$ 7,60 abaixo; 4 × 600 g só no Sul e Sudeste; 5 × 600 g em todas) e a assinatura (4, 8, 12 e 15% sobre R$ 25,89) batem.
+
+Mudanças no rascunho:
+- Resposta rápida reescrita (56 palavras, 3 frases): agora responde também a quem compra uma vez (o pote de 600 g), além do kit de 5 × 600 g e do 250 g para provar.
+- Tabela: acrescentado o "de" do pote de 600 g (R$ 64,90); "sem Pix" virou "sem desconto de Pix".
+- Kits: "vira o menor preço" trocado por "cai para R$ 7,57, o menor preço da tabela" (o 5 × 600 g já é o menor sem cupom).
+- Frete: "passa de" virou "chega a" (a política diz que o total com cupom precisa chegar a R$ 149,90) e entrou "vale para a entrega mais barata", como no dossiê.
+- Assinatura: acrescentada a comparação com 1 pasta (R$ 1,04 abaixo do avulso), que faltava.
+
+Observações, sem mexer:
+- Kit 3 × 250 g com cupom: R$ 68,35 × 0,9 = R$ 61,515. A matriz do briefing diz R$ 61,51 e a tabela R$ 61,52; ficou R$ 61,52 (arredondamento comum). Conferir no carrinho qual o site mostra.
+- Matriz do briefing: o subtotal sem cupom equivalente a R$ 199,90 é R$ 222,11 (199,90 ÷ 0,9), não R$ 222,12. O número não aparece no rascunho.
+- O FAQ "pode misturar sabores no kit?" do esqueleto (item 8) não entrou no rascunho e não foi acrescentado: a resposta ("só nos combos montados") não tem fonte registrada aqui. Decidir se entra, com leitura do site.
+- O [VERIFICAR] do cupom no "Comprou, Ganhou" fica para o teste no carrinho.
+- Dúvida de link de produto com UTM (anexo) segue para o Bruno.
+
+Complemento (teste do Bruno na assinatura, carrinho real de 24/10/2026):
+- Contas do exemplo conferidas e certas: 3 × R$ 25,89 = R$ 77,67; 12% = R$ 9,32; cupom 10% do subtotal = R$ 7,77; total R$ 60,58; R$ 20,19 por pasta; R$ 8,08 por 100 g.
+- Recalculados os outros níveis com a mesma regra (cupom sobre o subtotal, somado ao progressivo): 1 pasta R$ 22,26 (R$ 8,90 por 100 g), 2 pastas R$ 42,46 (R$ 8,49), 4 ou mais R$ 19,42 por pasta (R$ 7,77). Frete grátis da assinatura com cupom: 8 pastas (R$ 155,34) no Sul e Sudeste, 11 pastas (R$ 213,59) nas demais regiões.
+- Capítulo da assinatura reescrito com o cupom, a tabela por quantidade e a comparação com os kits de 250 g (a assinatura ganha em 2, 3 e 4 potes). Título do capítulo mudou para "Assinatura: com o cupom, o menor preço nos potes de 250 g".
+- Veredito atualizado: o kit de 5 × 600 g com cupom (R$ 7,57) segue o menor por grama, e o 4 × 600 g (R$ 7,64) também fica abaixo; a assinatura de 4 pastas (R$ 7,77) passa a ser a recomendação para 1 kg e para quem quer 250 g todo mês, à frente do kit de 4 × 250 g (R$ 7,92). Capítulo "800 g e 1 kg" e FAQs do 1 kg e da assinatura ajustados.
+- Matriz do anexo e lista de [VERIFICAR] atualizadas. A matriz do briefing (seção 6, linhas da assinatura) e a Decisão 1 do Bruno não foram editadas: ficam como registro.
