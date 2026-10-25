@@ -127442,5 +127442,482 @@ export const reviewsData: unknown[] = [
         "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
       }
     ]
+  },
+  {
+    "id": 606,
+    "slug": "creatina-com-sabor-qual-escolher",
+    "locale": "pt",
+    "title": "Creatina com sabor: qual escolher, pelo rótulo e pelo preço por grama",
+    "seoTitle": "Creatina com sabor: qual escolher e o que o rótulo diz",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica: a creatina por dose no rótulo, o preço por 100 g de creatina e o carboidrato de cada pote, com os preços de 25/10/2026.",
+    "metaDescription": "Creatina com sabor: Black Skull, Max Titanium e Probiótica pelo rótulo, com o preço por 100 g de creatina e o carboidrato de cada pote, nos preços de 25/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-capa.webp",
+    "imageAlt": "Potes de creatina com sabor da Max Titanium (7Belo, framboesa) e da Black Skull (Creatine 300 g), com o logo das duas marcas",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Com sabor, a Black Skull de 300 g sai mais barata por grama e a Max 7Belo declara carboidrato zero. A conta de cada perfil está em \"Qual creatina com sabor escolher\"."
+        ]
+      },
+      {
+        "heading": "Antes de escolher: o que o rótulo mostra",
+        "paragraphs": [
+          "Quem compara creatina costuma olhar o peso do pote e o preço. Só que o peso sozinho engana: um pote de 300 g com dose de 6 g rende menos doses que um de 300 g com dose de 5 g. Por isso a conta aqui é por 100 g de creatina, não de pote: o preço dividido pelos gramas de creatina que o pote traz, segundo a tabela nutricional.",
+          "Quatro itens do rótulo decidem a conta:"
+        ],
+        "bullets": [
+          "**Porção:** a quantidade de pó por dose (5 g, 6 g ou 10 g, conforme o produto).",
+          "**Creatina por porção:** o número que importa. A tabela mostra em miligramas, e 5.000 mg são 5 g.",
+          "**Carboidrato e calorias:** a tabela mostra por porção; sobem quando a fórmula tem maltodextrina, e na versão com sabor podem aparecer em quantidade pequena.",
+          "**Ingredientes:** aromatizante, edulcorante e corantes entram na lista quando o produto tem sabor."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-tabela-7belo.webp",
+            "alt": "Tabela nutricional da Max Creatina 7Belo framboesa: porção de 6 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da Max Creatina 7Belo, na foto do site da Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8868
+          }
+        ]
+      },
+      {
+        "heading": "Creatina com sabor e sem sabor: preço por 100 g de creatina",
+        "paragraphs": [
+          "Preços de 25/10/2026, no cartão e sem cupom. O Pix e o cupom de cada marca ficam numa frase abaixo, em \"Cupons e Pix\"."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porção (creatina)",
+            "Doses no pote",
+            "Preço no cartão",
+            "Por 100 g de creatina",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "Black Skull Creatine 300 g, laranja ou limão",
+              "6 g (5.000 mg)",
+              "50",
+              "R$ 41,90",
+              "R$ 16,76",
+              "R$ 0,84"
+            ],
+            [
+              "Max Creatina 7Belo 300 g, framboesa",
+              "6 g (5.000 mg)",
+              "50",
+              "R$ 66,17",
+              "R$ 26,47",
+              "R$ 1,32"
+            ],
+            [
+              "Max Creatina 300 g, sem sabor",
+              "5 g (5.000 mg)",
+              "60",
+              "R$ 59,90",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
+              "Probiótica Creatina Monohidratada Pura 300 g, sem sabor",
+              "5 g (5.000 mg)",
+              "60",
+              "R$ 59,90",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
+              "Probiótica Mix Pro 300 g, sem sabor, com maltodextrina",
+              "6 g (3.000 mg, pela tabela)",
+              "50",
+              "R$ 40,94",
+              "R$ 27,29",
+              "R$ 0,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Creatine de 300 g da Black Skull tem o mesmo preço com e sem sabor: R$ 41,90, de R$ 49,90 de tabela. Mas a versão com sabor tem porção de 6 g e rende 50 doses, contra 5 g e 60 doses do sem sabor, que sai a R$ 13,97 por 100 g de creatina. O sabor custa 20% a mais por grama. Na Max, custa 33% a mais: R$ 26,47 contra R$ 19,97 do pote sem sabor de 300 g, que sai de R$ 75,10 de tabela por R$ 59,90, o mesmo preço da Probiótica Pura."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-quadro-preco-100g.webp",
+            "alt": "Quadro com o preço por 100 g de creatina de seis potes de 300 g, de R$ 16,76 a R$ 27,29, em 25/10/2026",
+            "caption": "Quadro: Em Casa com Cecília, com os preços de 25/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1256
+          }
+        ]
+      },
+      {
+        "heading": "Tem o mesmo efeito? O que o rótulo diz",
+        "paragraphs": [
+          "Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca: 5.000 mg. O que muda é o peso da porção. Na Black Skull de 300 g, a versão com sabor tem porção de 6 g e a sem sabor, de 5 g. Na Max, a 7Belo com sabor tem porção de 6 g e a 300 g sem sabor, de 5 g. Nenhuma das duas fichas explica o grama a mais; a lista de ingredientes da versão com sabor traz aromatizante, ácido málico, sucralose e corantes, e a tabela da Black Skull com sabor traz 0,4 g de carboidrato por dose.",
+          "O que sobra de diferença, então, é a porção, o preço por grama de creatina e a lista de ingredientes. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz."
+        ]
+      },
+      {
+        "heading": "Black Skull: o sabor no pote de 300 g e a Turbo com carboidrato",
+        "paragraphs": [
+          "O Creatine de 300 g vem em laranja ou limão, ao mesmo preço do sem sabor: R$ 41,90. Pela tabela, cada dose de 6 g (um dosador) tem 5.000 mg de creatina, 0,4 g de carboidrato e 2 kcal, e o pote rende 50 doses. A lista traz ácido málico, aromatizante, sucralose e corantes (urucum e norbixina no laranja; clorofila e sais de cobre no limão). É a creatina com sabor mais barata por grama entre as lidas: R$ 16,76 por 100 g de creatina, ou R$ 0,84 por dose. Ainda assim, o sabor custa a mais: o sem sabor, com 60 doses de 5 g pelo mesmo preço, sai a R$ 13,97.",
+          "A Creatine Turbo de 300 g vem em laranja, limão ou uva, a R$ 39,90. A porção é de 10 g (2 dosadores), com 5 g de creatina, 5 g de carboidrato e 20 kcal, segundo a tabela. A lista traz maltodextrina, ácido cítrico, aromatizante, sucralose e corantes (urucum no laranja; vermelho ponceau e azul indigotina no uva). Por 100 g de creatina, sai a R$ 26,60.",
+          "Pelo rótulo, a Turbo não é só creatina: cada dose traz carboidrato. Se você não quer carboidrato na dose, esta linha não serve. Para o quadro completo das creatinas da Black Skull, com as nove linhas, veja o [artigo de creatina Black Skull](/reviews/creatina-black-skull-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-tabela-black-skull-saborizada.webp",
+            "alt": "Tabela nutricional da Creatine 300 g saborizada da Black Skull: porção de 6 g, 5.000 mg de creatina e 0,4 g de carboidrato",
+            "caption": "Tabela da própria Black Skull, na página do produto (25/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 0.6856
+          }
+        ]
+      },
+      {
+        "heading": "Max Titanium: o sabor custa mais por grama",
+        "paragraphs": [
+          "A Max Creatina 7Belo de 300 g veio só em framboesa na página lida. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela diz porção de 6 g (um dosador e meio), com 5.000 mg de creatina e carboidrato zero em quantidade significativa. São 50 porções, e o pote sai a R$ 26,47 por 100 g de creatina.",
+          "A página da 7Belo não traz modo de preparo nem marcação do dosador. A porção de 6 g vem só da tabela, e a ficha não explica o grama a mais em relação aos 5 g do pote sem sabor da mesma marca."
+        ]
+      },
+      {
+        "heading": "Probiótica: sem sabor no catálogo",
+        "paragraphs": [
+          "Não encontramos creatina com sabor no catálogo da Probiótica em 25/10/2026: a busca por creatina, creatine e monohidratada não traz nenhum produto com aromatizante. Por isso a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
+        ],
+        "bullets": [
+          "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
+          "**Mix Pro, 300 g:** R$ 40,94. A ficha traz creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal, o que dá 50 porções e R$ 27,29 por 100 g de creatina. A página traz 5 g por dose; a conta usa a tabela."
+        ]
+      },
+      {
+        "heading": "Divergências entre a página e a tabela",
+        "bullets": [
+          "**Mix Pro:** a página diz 5 g por dose; a tabela diz 6 g de porção com 3.000 mg de creatina. A conta usa a tabela, e a diferença fica registrada aqui.",
+          "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. A conta usa a tabela. Confira a marcação na embalagem antes de preparar.",
+          "**Max Creatina 7Belo:** a porção de 6 g vem só da tabela, e a página não traz modo de preparo nem marcação de dosador.",
+          "**Creatine Turbo de 150 g:** fica fora desta tabela. A ficha da página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Em 25/10, os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
+        ]
+      },
+      {
+        "heading": "Cupons e Pix",
+        "paragraphs": [
+          "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento (teste de 13/10 e decisão de 14/10). Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
+          "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. Não testamos se o MAX10 soma com o Pix, e este texto não afirma. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
+          "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, e vale em todas as formas de pagamento. Não testamos a soma com as promoções da loja, então o texto não diz que soma."
+        ]
+      },
+      {
+        "heading": "Qual creatina com sabor escolher",
+        "bullets": [
+          "**Menor custo com sabor:** [Creatine 300 g da Black Skull](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p), laranja ou limão. R$ 16,76 por 100 g de creatina, em 50 doses de 6 g. A tabela traz 0,4 g de carboidrato e 2 kcal por dose; a lista traz sucralose e corantes.",
+          "**Com sabor e sem carboidrato declarado:** [Max Creatina 7Belo de 300 g](https://www.maxtitanium.com.br/creatina-7belo/p), framboesa. R$ 26,47 por 100 g de creatina, 50 porções de 6 g e carboidrato zero na tabela. É o único sabor da linha lida, e o único pote com sabor que declara zero.",
+          "**Com sabor e carboidrato:** [Creatine Turbo de 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p), laranja, limão ou uva. R$ 26,60 por 100 g de creatina, com 5 g de carboidrato em cada dose de 10 g. Serve se você quer o carboidrato na dose.",
+          "**Sem sabor:** [Max Creatina de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) ou Creatina Monohidratada Pura da Probiótica, 300 g. R$ 19,97 por 100 g de creatina. Sem sabor, a Creatine de 300 g da Black Skull sai a R$ 13,97, e a Mix Pro, com maltodextrina, a R$ 27,29."
+        ],
+        "postParagraphs": [
+          "Quem tem objetivo de saúde ou restrição de carboidrato fala com um nutricionista ou médico antes de escolher. O texto lê o rótulo e não indica dose."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Creatina com sabor tem o mesmo efeito? Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz.",
+          "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e são esses números que servem para ler. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g. A Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato zero. Quem tem meta de peso fala com um nutricionista.",
+          "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
+          "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas em 25/10/2026. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com Black Skull, Max Titanium e Probiótica. Podemos receber comissão pelas compras feitas com os cupons das marcas. Ninguém do site usou as creatinas: o texto lê a ficha, a tabela nutricional e o preço de 25/10/2026. Não é orientação de nutricionista nem de médico. Preço, estoque e sabores mudam; vale o que aparece no site na hora da compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja as creatinas com sabor da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelos cupons das marcas citadas.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      },
+      {
+        "slug": "black-skull-ou-max-titanium",
+        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "slug": "black-skull-ou-integralmedica",
+    "locale": "pt",
+    "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina",
+    "seoTitle": "Black Skull ou Integralmédica: whey e creatina pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Black Skull ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-ou-integralmedica-capa.webp",
+    "imageAlt": "Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Integralmédica?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais lidas em 25/10, são empresas diferentes; o veredito por perfil está em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Este guia compara whey e creatina da Black Skull, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site lido em 25/10/2026, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem entre as duas: whey de 900 g e de 1,8 kg, creatina de 500 g e de 1 kg. Ficam de fora o pote de 900 g da Integralmédica, que tem o mesmo rótulo do pouch de 900 g em outra embalagem, o Whey Turbo da Black Skull, que é hipercalórico, e os outros produtos das duas marcas.",
+          "Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Black Skull ou Dark Lab](/reviews/black-skull-ou-dark-lab) seguem o mesmo método."
+        ]
+      },
+      {
+        "heading": "De onde vem cada marca",
+        "paragraphs": [
+          "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 25/10/2026.",
+          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 13/12/2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica e outras marcas. A Black Skull não está entre elas.",
+          "Nas fontes oficiais lidas em 25/10, são empresas diferentes. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem. Sobre a confiança da loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g de produto",
+        "paragraphs": [
+          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 500 g e de 1 kg. A dose é de 5 g nos dois rótulos, com creatina monohidratada. \"100% Pura\" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos em 25/10/2026, sem desconto de Pix. A Creator de 300 g e as outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
+            "alt": "Embalagem da Creatina Creator refil de 500 g da Black Skull.",
+            "caption": "Creator refil 500 g, a linha da conta por 100 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.9137
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço no cartão",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "Black Skull Kit 2x Creator refil",
+              "1 kg (2 x 500 g)",
+              "R$ 75,81",
+              "R$ 7,58"
+            ],
+            [
+              "Black Skull Creator refil",
+              "500 g",
+              "R$ 39,90",
+              "R$ 7,98"
+            ],
+            [
+              "Integralmédica Creatina 100% Pura pouch",
+              "1 kg",
+              "R$ 156,00 (3 x R$ 52,00)",
+              "R$ 15,60"
+            ],
+            [
+              "Integralmédica Creatina Hardcore pouch",
+              "500 g",
+              "R$ 66,00 (de R$ 78,00)",
+              "R$ 13,20"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, a Black Skull sai por R$ 6,82 por 100 g no kit e R$ 7,18 na Creator refil de 500 g. O cupom é da Black Skull; este texto não traz cupom da Integralmédica. Por dose de 5 g, no cartão, o kit da Black Skull fica em R$ 0,38 e o refil de 500 g em R$ 0,40; o pouch de 1 kg da Integralmédica fica em R$ 0,78 e o Hardcore de 500 g em R$ 0,66. Com o cupom, a dose do kit cai para R$ 0,34 e a do refil para R$ 0,36."
+        ]
+      },
+      {
+        "heading": "Whey: preço por 100 g de proteína",
+        "paragraphs": [
+          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada dose vezes o número de porções do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: em 25/10, baunilha, chocolate, morango e cookies custavam R$ 159,90, e banana, R$ 139,90. A conta usa R$ 159,90; no sabor banana, ela cai para R$ 20,28 por 100 g de proteína. A 100% HD de 1,8 kg custava R$ 279,90 em todos os sabores. O refil de 900 g da 100% HD e os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-integralmedica-quadro-preco-100g-proteina.webp",
+            "alt": "Quadro com o preço por 100 g de proteína dos wheys da Black Skull e da Integralmédica, com preços de 25/10/2026.",
+            "caption": "Preços do site em 25/10/2026, sem desconto de Pix.",
+            "objectFit": "contain",
+            "aspectRatio": 1.5492
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Dose, proteína por dose e porções",
+            "Preço no cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 80% HD refil",
+              "900 g",
+              "30 g, 23 g de proteína, 30 porções",
+              "R$ 159,90",
+              "R$ 23,17"
+            ],
+            [
+              "Black Skull Whey 100% HD",
+              "1,8 kg",
+              "35 g, 21 g de proteína, 50 porções",
+              "R$ 279,90",
+              "R$ 26,66"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "900 g",
+              "30 g, 21 g de proteína, 30 porções",
+              "R$ 227,00",
+              "R$ 36,03"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "1,8 kg",
+              "30 g, 21 g de proteína, 60 porções",
+              "R$ 404,00",
+              "R$ 32,06"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína e a 100% HD de 1,8 kg por R$ 23,99. Este texto não traz cupom da Integralmédica. Por dose, no cartão, a 80% HD fica em R$ 5,33 e a 100% HD de 1,8 kg em R$ 5,60; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). Com o cupom, a dose da Black Skull cai para R$ 4,80 e R$ 5,04. Na coleção de mais vendidos do site da Integralmédica, em 25/10, o pouch de 1,8 kg aparece em primeiro."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz",
+        "paragraphs": [
+          "A creatina Creator da Black Skull declara creatina monohidratada e dose de 5 g. Na Integralmédica, a 100% Pura traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. A Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo.",
+          "No whey, a 80% HD da Black Skull traz 23 g de proteína em cada porção de 30 g, e a 100% HD de 1,8 kg traz 21 g em cada 35 g. Os pouches da Integralmédica trazem 21 g em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A ficha da 80% HD da Black Skull também lista edulcorante sucralose, em todos os sabores. Nesse ponto as duas se igualam, e a conta de preço não muda por isso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp",
+            "alt": "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína.",
+            "caption": "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0048
+          }
+        ]
+      },
+      {
+        "heading": "Código e onde comprar",
+        "paragraphs": [
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções vigentes. Este texto não traz cupom da Integralmédica. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no cartão, ou R$ 6,82 com o CECILIA10. A Integralmédica fica acima em todos os tamanhos da tabela; o menor preço dela é R$ 13,20 por 100 g, no Hardcore de 500 g.",
+          "**Whey: depende do que você compara.**"
+        ],
+        "bullets": [
+          "Para o menor preço por grama de proteína, a Black Skull 80% HD: R$ 23,17 por 100 g no cartão, ou R$ 20,86 com o CECILIA10.",
+          "Para o tamanho de 1,8 kg, a Black Skull 100% HD sai por R$ 26,66 por 100 g no cartão, ou R$ 23,99 com o cupom, contra R$ 32,06 do pouch de mesmo tamanho da Integralmédica.",
+          "O pouch de 900 g da Integralmédica sai por R$ 36,03 por 100 g de proteína, o maior valor da tabela."
+        ],
+        "postParagraphs": [
+          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Black Skull é da Integralmédica? Nas fontes oficiais lidas em 25/10, são empresas diferentes. O site da Integralmédica lista as marcas do grupo dela, e a Black Skull não está entre elas. A Black Skull diz que é uma marca brasileira, desenvolvida através da GDS.",
+          "Creatina Black Skull ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Black Skull. O kit de 1 kg da Black Skull sai por R$ 7,58, e o pouch de 1 kg da Integralmédica, por R$ 15,60. Com o CECILIA10, a diferença fica maior.",
+          "Whey Integralmédica ou Black Skull, qual melhor? Pelo preço por 100 g de proteína, a Black Skull 80% HD: R$ 23,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Black Skull é brasileira? A própria marca diz que sim: sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-dark-lab",
+        "title": "Black Skull ou Dark Lab: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "black-skull-ou-growth",
+        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "black-skull-ou-dux",
+        "title": "Black Skull ou Dux: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ]
   }
 ];
