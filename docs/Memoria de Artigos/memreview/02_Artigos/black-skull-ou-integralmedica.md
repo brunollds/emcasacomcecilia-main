@@ -6,7 +6,7 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "revisado"
+status: "json"
 responsavel: "-"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -380,3 +380,10 @@ Para o Bruno:
 - Confirmar a retirada da 100% HD refil 900 g e das creatinas de 300 g (decisões 1 e 4 dizem só 900 g/1,8 kg e 500 g/1 kg). Se preferir as linhas de volta, os números do rascunho estavam certos (R$ 30,46 e R$ 27,41; R$ 9,97 e R$ 8,97; R$ 16,67).
 - Imagem "Corpo 3" (quadro de preço por 100 g) é montagem nossa com o nome da Integralmédica no texto do quadro, sem logo: confirmar que está dentro da regra da série.
 - Reler preço e estoque no dia de publicar.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 25/10/2026)
+
+- **Capa** (`image`, `imageFit: "contain"`, 1600×900): `/images/reviews/black-skull/black-skull-ou-integralmedica-capa.webp`. Alt: "Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Integralmédica?" Sem legenda. Origem: fichas da Black Skull id 459 (foto 166037) e id 359 (foto 166049), 25/10/2026; logo de `public/images/logos/watermarks/black-skull.webp`; montagem nossa. Sem foto da Integralmédica.
+- **Corpo 1, "O que o rótulo diz"** (1259×1253): `/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp`. Alt: "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína." Legenda: "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g." Origem: rótulo da marca parceira; arquivo reaproveitado do artigo da Dark Lab.
+- **Corpo 2, "Creatina: preço por 100 g de produto"** (1048×1147): `/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp`. Alt: "Embalagem da Creatina Creator refil de 500 g da Black Skull." Legenda: "Creator refil 500 g, a linha da conta por 100 g." Origem: embalagem da marca parceira; arquivo reaproveitado do artigo da Dark Lab.
+- **Corpo 3, "Whey: preço por 100 g de proteína"** (976×630): `/images/reviews/black-skull/black-skull-ou-integralmedica-quadro-preco-100g-proteina.webp`. Alt: "Quadro com o preço por 100 g de proteína dos wheys da Black Skull e da Integralmédica, com preços de 25/10/2026." Legenda: "Preços do site em 25/10/2026, sem desconto de Pix." Origem: montagem nossa com os números do texto revisado; nome e preço da Integralmédica escritos, sem logo, foto ou print.

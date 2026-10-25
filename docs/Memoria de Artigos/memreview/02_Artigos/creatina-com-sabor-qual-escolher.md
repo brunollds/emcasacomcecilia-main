@@ -6,7 +6,7 @@ parceiro: "[[Black-Skull]], [[Max-Titanium]], [[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "revisado"
+status: "json"
 responsavel: "Job-2"
 proxima_acao: "revisao-editorial"
 bloqueado_por: null
@@ -358,3 +358,16 @@ Para o Bruno:
 1. Links de produto (`rel="sponsored"`) das seis fichas seguem sem URL no vault; o Job 4 publica sem eles ou alguém colhe as URLs.
 2. O artigo publicado `creatina-black-skull-qual-escolher` fez a conta do com sabor pela tabela do sem sabor (R$ 13,97): PR separado, se o Bruno aprovar.
 3. Pix da Probiótica não lido (domínio recusado pela extensão); o texto não fala dele.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 25/10/2026)
+
+Folha: `scratchpad/pautas-a21-a22/job6/out/FOLHA.md`. Imagens em `public/images/reviews/black-skull/`, caminho local no JSON; o CDN entrega.
+
+| # | Arquivo | Seção | Alt | Legenda | Origem | Proporção |
+|---|---|---|---|---|---|---|
+| 1 (capa) | `creatina-com-sabor-qual-escolher-capa.webp` | hero | Potes de creatina com sabor da Max Titanium (7Belo, framboesa) e da Black Skull (Creatine 300 g), com o logo das duas marcas | — | Fotos oficiais (Black Skull ficha id 30; Max ficha id 469), logos de `public/images/logos/watermarks/`; montagem nossa | 16:9, `contain` |
+| 2 (corpo) | `creatina-com-sabor-qual-escolher-tabela-7belo.webp` | "Antes de escolher" | Tabela nutricional da Max Creatina 7Belo framboesa: porção de 6 g com 5.000 mg de creatina | Tabela nutricional da Max Creatina 7Belo, na foto do site da Max Titanium. | Max Titanium, foto 169095, 25/10/2026 | `1000/530`, `contain` |
+| 3 (corpo) | `creatina-com-sabor-qual-escolher-quadro-preco-100g.webp` | "Creatina com sabor e sem sabor" | Quadro com o preço por 100 g de creatina de seis potes de 300 g, de R$ 16,76 a R$ 27,29, em 25/10/2026 | Quadro: Em Casa com Cecília, com os preços de 25/10/2026. | Montagem nossa com os números do texto e das tabelas dos rótulos | `976/867`, `contain` |
+| 4 (corpo) | `creatina-com-sabor-qual-escolher-tabela-black-skull-saborizada.webp` | "Black Skull: o sabor no pote de 300 g" | Tabela nutricional da Creatine 300 g saborizada da Black Skull: porção de 6 g, 5.000 mg de creatina e 0,4 g de carboidrato | Tabela da própria Black Skull, na página do produto (25/10/2026). | Black Skull, foto 165925, 25/10/2026 | `458/668`, `contain` |
+
+Desvio: a imagem da Probiótica (pote de creatina pura de 300 g) não foi feita. O arquivo do repositório mostra o pote de 150 g, e o domínio foi recusado. O corpo ficou com três imagens, acima do piso de uma.
