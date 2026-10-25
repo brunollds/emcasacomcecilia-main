@@ -6,6 +6,9 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[pre-treino-exquenta-mais-mu-e-bom]]: Exquenta Mais Mu, o que o rótulo mostra em cada sabor, sachê e versão sem cafeína (cafeína, taurina e preço por dose; combos com creatina fora) (PT)
+- [ ] [[whey-mais-mu-qual-escolher]]: whey Mais Mu, qual sabor e qual versão (pote, refil, sachê e isolado), preço por dose e por 100 g de proteína pela contagem da loja (PT)
+- [ ] [[barra-de-proteina-mais-mu-qual-escolher]]: barrinhas e wafers da Mais Mu (Mukebar, Crush Bar e Chocowheyfer), proteína, açúcar e preço por unidade; Bites fora (PT)
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
 - [ ] [[presente-natal-quem-treina]]: presente de Natal para quem treina, kits e lembranças de Dr. Peanut, Black Skull, Max Titanium, Probiótica e Skelt por perfil e faixa de preço; sem `affiliate`, um bloco "Onde comprar" por loja; sem prazo de Natal (nenhuma loja publica) (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
