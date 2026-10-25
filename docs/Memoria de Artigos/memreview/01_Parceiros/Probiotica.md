@@ -30,8 +30,11 @@ busca, e o aviso "chega a 10% e pode ser menor em alguns produtos" fica separado
 regras e na FAQ. O `test:coupon-offer-modes` falha se o aviso sumir do destaque.
 
 Bruno (14/10/2026): o cupom vale em **todas as formas de pagamento** e vale para conta nova e para
-quem já comprou. A soma com promoções da loja segue sem confirmação. Prints do teste em
+quem já comprou. Prints do teste em
 `midia-staging/2026-10-14-onboarding-probiotica/checkout/`.
+
+Bruno (25/10/2026): o cupom **soma com as promoções** da loja (como diz o `couponsData.ts`, teste de 13/10
+com creatina em promoção no carrinho).
 
 ---
 
