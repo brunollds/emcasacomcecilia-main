@@ -1,0 +1,245 @@
+{
+  "id": 602,
+  "slug": "black-skull-ou-dark-lab",
+  "locale": "pt",
+  "title": "Black Skull ou Dark Lab: whey e creatina comparados por dose, proteína e preço",
+  "seoTitle": "Black Skull ou Dark Lab: whey e creatina pelo rótulo",
+  "type": "Comparativo de Suplemento",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Black Skull ou Dark Lab: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas.",
+  "publishedAt": "25 de outubro de 2026",
+  "publishedAtISO": "2026-10-25",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp",
+  "imageAlt": "Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Dark Lab?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pelo preço de 24/10/2026, a Black Skull sai mais barata que a Dark Lab na creatina em todos os tamanhos. No whey, as duas quase empatam por 100 g de proteína, e a Black Skull 80% HD passa à frente com o cupom CECILIA10. O que pesa é a dose e a proteína de cada rótulo; veja em Qual escolher."
+      ]
+    },
+    {
+      "heading": "Como comparamos",
+      "paragraphs": [
+        "Este guia compara whey e creatina da Black Skull, parceira do site, e da Dark Lab, que não é parceira, pelo que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site em 24/10/2026, sem frete e sem desconto de Pix. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+        "A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Black Skull ou Dux](/reviews/black-skull-ou-dux) seguem o mesmo método."
+      ]
+    },
+    {
+      "heading": "De onde vem cada marca",
+      "paragraphs": [
+        "A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o \"Sobre nós\" do site, o produto é desenvolvido \"através da Grow Dietary Supplements Labs USA (GDS)\". O cadastro de CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 24/10/2026. O \"USA\" aparece no endereço do site e no nome que a marca cita; a empresa do cadastro é brasileira.",
+        "O rodapé do site da Dark Lab cita a American Product LTDA, CNPJ 18.744.639/0001-47. A BrasilAPI registra a razão social AMERICAN PRODUCT LTDA, aberta em 2013. O endereço não entra aqui, porque o do rodapé e o do cadastro não coincidem."
+      ]
+    },
+    {
+      "heading": "Creatina: preço por 100 g de produto",
+      "paragraphs": [
+        "A tabela compara o preço do pote por 100 g de produto. A dose de 5 g é a que cada loja indica: a Black Skull no rótulo da Creator e a Dark Lab na página do produto. Os preços são do site, lidos em 24/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-preco-100g.webp",
+          "alt": "Tabela com o preço por 100 g de creatina e de proteína da Black Skull e da Dark Lab, com e sem o CECILIA10, em reais, com preços de 24/10/2026.",
+          "caption": "Preços do site em 24/10/2026, sem desconto de Pix.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8581
+        },
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
+          "alt": "Embalagem da Creatina Creator refil de 500 g da Black Skull.",
+          "caption": "Creator refil 500 g, a linha da conta por 100 g.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9137
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Tamanho",
+          "Preço no site",
+          "Por 100 g"
+        ],
+        "rows": [
+          [
+            "Black Skull Kit 2x Creator refil",
+            "1 kg (2 x 500 g)",
+            "R$ 75,81",
+            "R$ 7,58"
+          ],
+          [
+            "Black Skull Creator refil",
+            "500 g",
+            "R$ 39,90",
+            "R$ 7,98"
+          ],
+          [
+            "Black Skull Creator",
+            "300 g",
+            "R$ 29,90",
+            "R$ 9,97"
+          ],
+          [
+            "Dark Lab Creatina refil",
+            "1 kg",
+            "R$ 82,89",
+            "R$ 8,29"
+          ],
+          [
+            "Dark Lab Creatina refil",
+            "500 g",
+            "R$ 44,33",
+            "R$ 8,87"
+          ],
+          [
+            "Dark Lab Creatina",
+            "300 g",
+            "R$ 39,89",
+            "R$ 13,30"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Com o CECILIA10, a Creator refil 500 g sai por R$ 7,18 por 100 g, o kit com dois refis por R$ 6,82 e a Creator 300 g por R$ 8,97."
+      ]
+    },
+    {
+      "heading": "Whey: preço por 100 g de proteína",
+      "paragraphs": [
+        "A conta é o preço dividido pela proteína total do pote, que é a proteína por dose vezes o número de doses. Na Black Skull 100% HD, o rótulo traz 25 porções de 35 g; a página diz 30, e a conta usa as 25 do rótulo. A Black Skull 80% HD tem sabores com preços diferentes: a conta usa R$ 159,90, o preço de Morango e Cookies; o sabor Banana saía por R$ 139,90 na ficha de 23/10/2026. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp",
+          "alt": "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína.",
+          "caption": "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0048
+        }
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Tamanho",
+          "Dose e proteína por dose",
+          "Preço no site",
+          "Por 100 g de proteína"
+        ],
+        "rows": [
+          [
+            "Black Skull Whey 80% HD refil",
+            "900 g",
+            "30 g, 23 g de proteína",
+            "R$ 159,90",
+            "R$ 23,17"
+          ],
+          [
+            "Black Skull Whey 100% HD refil",
+            "900 g",
+            "35 g, 21 g de proteína",
+            "R$ 159,90",
+            "R$ 30,46"
+          ],
+          [
+            "Dark Lab 100% Whey Protein refil",
+            "900 g",
+            "30 g, 21 g de proteína",
+            "R$ 149,89",
+            "R$ 23,79"
+          ],
+          [
+            "Dark Lab 100% Whey Protein pote",
+            "900 g",
+            "30 g, 21 g de proteína",
+            "R$ 199,89",
+            "R$ 31,73"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Dark Lab 100% Whey refil aparece na página com o preço de R$ 177,50 riscado. O pote de 900 g usa a mesma dose de 30 g na conta. O concentrado de 1 kg da Dark Lab (R$ 139,89 no site, dose de 50 g) fica fora da tabela: a página não diz quanta proteína tem essa dose.",
+        "Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína, e a 100% HD por R$ 27,41."
+      ]
+    },
+    {
+      "heading": "O que o rótulo diz",
+      "paragraphs": [
+        "A Black Skull declara creatina monohidratada na lista de ingredientes da Creator. A Dark Lab não publica a tabela nutricional da creatina, então o texto não diz qual forma ela usa nem quanta creatina há em cada dose. Por isso a conta por 100 g compara o preço do pote, e não a creatina pura.",
+        "No whey, a Black Skull 80% HD declara só proteína concentrada do soro (WPC) e 23 g de proteína em cada 30 g. A 100% HD traz WPC, WPI, WPH e peptídeos hidrolisados, segundo a lista de ingredientes. A página da Dark Lab diz 21 g de proteína por dose de 30 g, e a embalagem traz o mesmo número.",
+        "Os dois wheys contêm lactose. Sobre glúten, a página da Dark Lab diz que o 100% Whey não contém, com exceção do sabor cookies. A tabela nutricional completa não está publicada no site da Dark Lab, então o texto não compara outros nutrientes."
+      ]
+    },
+    {
+      "heading": "Código e onde comprar",
+      "paragraphs": [
+        "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout em 24/10/2026 aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no site, ou R$ 6,82 com o cupom. A Creator refil de 500 g sai por R$ 7,98, ou R$ 7,18 com o cupom. A Dark Lab fica acima em todos os tamanhos da tabela. Este texto não traz cupom da Dark Lab.",
+        "**Whey: depende do que você compara.**"
+      ],
+      "bullets": [
+        "Para o menor preço por grama de proteína, a Black Skull 80% HD com o CECILIA10, a R$ 20,86 por 100 g.",
+        "Para mais proteína em cada dose, também a Black Skull 80% HD: 23 g contra 21 g da Dark Lab, na mesma porção de 30 g.",
+        "A Dark Lab 100% Whey refil custa menos por 100 g de proteína que a Black Skull 100% HD (R$ 23,79 contra R$ 30,46 no site), mas fica R$ 0,62 acima da 80% HD."
+      ],
+      "postParagraphs": [
+        "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Black Skull é brasileira? A própria marca diz que sim: o site fala em marca brasileira, sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI.",
+        "Black Skull é da Integralmédica? Não há fonte oficial que ligue as duas marcas. O site não cita a Integralmédica, e ela não aparece no quadro de sócios (QSA) da empresa do CNPJ. O texto não afirma o contrário: o que se pode dizer é o que a própria marca declara sobre a origem.",
+        "Creatina Black Skull ou Dark Lab, qual compensa mais? Pelo preço por 100 g, a Black Skull. A Creator refil 500 g sai por R$ 7,98 no site, e a Dark Lab de 500 g por R$ 8,87. A Dark Lab não publica a tabela da creatina, então a pergunta sobre a forma da creatina não tem resposta neste texto."
+      ]
+    },
+    {
+      "heading": "Nota de transparência",
+      "paragraphs": [
+        "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Veja o whey e a creatina da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+    "label": "Ir para a Black Skull",
+    "url": "https://www.blackskullusa.com.br/",
+    "sponsored": true
+  },
+  "coupon": "CECILIA10",
+  "affiliate": "black-skull",
+  "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10.",
+  "relatedArticles": [
+    {
+      "slug": "black-skull-ou-growth",
+      "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+    },
+    {
+      "slug": "black-skull-ou-dux",
+      "title": "Black Skull ou Dux: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+    },
+    {
+      "slug": "black-skull-e-confiavel",
+      "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+    }
+  ]
+}
