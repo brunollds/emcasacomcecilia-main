@@ -127927,5 +127927,785 @@ export const reviewsData: unknown[] = [
         "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
       }
     ]
+  },
+  {
+    "id": 608,
+    "slug": "dr-peanut-ou-la-ganexa",
+    "locale": "pt",
+    "title": "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher (rótulo, proteína e preço por 100 g)",
+    "seoTitle": "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, com a conta do cupom da Dr. Peanut em 25/10/2026.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
+    "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Brownie, com o logo da marca e o título \"Dr. Peanut ou La Ganexa?\"",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não há vencedora geral. Pasta só de amendoim, vegana ou sem lactose existe apenas na La Ganexa, e o pote de 1 kg dela costuma sair mais barato por 100 g; a Dr. Peanut ganha no pote pequeno com sabor de sobremesa, com o cupom de 10%. O que decide é o seu perfil; veja em Onde cada uma ganha."
+        ]
+      },
+      {
+        "heading": "Como comparamos, sem degustação",
+        "paragraphs": [
+          "Este guia compara a Dr. Peanut com a La Ganexa pelo que as duas lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de cupom. Ninguém da equipe provou as pastas, então sabor e textura ficam de fora.",
+          "Os preços são de 25/10/2026, sem frete e no preço \"por\" de cada site. A tabela da Dr. Peanut é a publicada pela loja, lida em 16/10/2026; a da La Ganexa, lida em 24/10/2026. Os números por 100 g e os preços com cupom são contas nossas.",
+          "As duas lojas usam porções diferentes no rótulo: 15 g na Dr. Peanut e 20 g na La Ganexa. Por isso o texto compara sempre por 100 g, e não por pote nem por porção."
+        ]
+      },
+      {
+        "heading": "O que muda entre as duas",
+        "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
+        "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, em foto oficial da loja",
+        "imageCaption": "Pote de 600 g da Dr. Peanut, sabor Bueníssimo, em foto oficial da loja. A porção do rótulo é de 15 g.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.7614,
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "Dr. Peanut",
+            "La Ganexa"
+          ],
+          "rows": [
+            [
+              "Sabores à venda em 25/10/2026",
+              "10",
+              "13"
+            ],
+            [
+              "Pasta só de amendoim",
+              "Não tem",
+              "Natural e Crocante, com amendoim torrado como único ingrediente"
+            ],
+            [
+              "Lactose",
+              "Os 10 sabores dizem \"CONTÉM LACTOSE\"",
+              "Natural, Crocante e Avelã Vegana dizem \"NÃO CONTÉM LACTOSE\"; os outros 10 contêm"
+            ],
+            [
+              "Edulcorantes",
+              "Maltitol, xilitol, sucralose e acessulfame de potássio em todos",
+              "Natural e Crocante não têm nenhum; Avelã Vegana tem sucralose; as de sobremesa têm maltitol e sucralose"
+            ],
+            [
+              "Tamanhos",
+              "250 g e 600 g",
+              "450 g e 1 kg"
+            ],
+            [
+              "Porção no rótulo",
+              "15 g",
+              "20 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa lida em 24/10/2026 não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+        ]
+      },
+      {
+        "heading": "Proteína, açúcares e polióis por 100 g",
+        "paragraphs": [
+          "Na Dr. Peanut, os 10 sabores têm de 17 a 20 g de proteína por 100 g. Os açúcares totais vão de 4,6 a 10 g, e os polióis, de 6,4 a 20 g. Os sabores um a um estão em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
+          "Na La Ganexa, a tabela publicada pela loja traz, por 100 g, para os 12 sabores com tabela:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Proteína",
+            "Açúcares totais",
+            "Polióis",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "Natural",
+              "24 g",
+              "5 g",
+              "0",
+              "6 mg"
+            ],
+            [
+              "Crocante",
+              "24 g",
+              "5 g",
+              "0",
+              "6 mg"
+            ],
+            [
+              "Avelã Vegana",
+              "24 g",
+              "4,8 g",
+              "não informa",
+              "5,9 mg"
+            ],
+            [
+              "Doce de Leite com Castanha de Caju",
+              "23 g",
+              "8 g",
+              "não informa (os ingredientes têm maltitol)",
+              "80 mg"
+            ],
+            [
+              "Chocolate Branco Crocante",
+              "22 g",
+              "8,4 g",
+              "2,9 g",
+              "88 mg"
+            ],
+            [
+              "Chocolate ao Leite Crocante",
+              "22 g",
+              "6 g",
+              "7,1 g",
+              "96 mg"
+            ],
+            [
+              "Leitinho",
+              "21 g",
+              "14 g",
+              "7 g",
+              "195 mg"
+            ],
+            [
+              "Leitinho Black",
+              "21 g",
+              "13 g",
+              "8,4 g",
+              "139 mg"
+            ],
+            [
+              "Mousse de Brigadeiro",
+              "19 g",
+              "10 g",
+              "8,5 g",
+              "109 mg"
+            ],
+            [
+              "Pistache",
+              "19 g",
+              "7 g",
+              "não informa (os ingredientes têm maltitol)",
+              "122 mg"
+            ],
+            [
+              "Creme de Avelã",
+              "18 g",
+              "5,3 g",
+              "não informa",
+              "194 mg"
+            ],
+            [
+              "Caramelo e Flor de Sal",
+              "16 g",
+              "7,1 g",
+              "não informa (os ingredientes têm maltitol)",
+              "324 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As duas lojas declaram 0 g de açúcar adicionado nas tabelas. Por isso o texto diz \"sem adição de açúcar\" e põe os açúcares totais ao lado: de 4,6 a 10 g na Dr. Peanut e de 4,8 a 14 g na La Ganexa. Por 100 g, o sódio da Dr. Peanut vai de 127 a 193 mg (conta nossa, a partir da porção de 15 g); o da La Ganexa, de 5,9 a 324 mg, conforme o sabor."
+        ]
+      },
+      {
+        "heading": "Lactose, glúten e adoçantes",
+        "paragraphs": [
+          "Os 10 sabores da Dr. Peanut dizem \"CONTÉM LACTOSE\" e \"NÃO CONTÉM GLÚTEN\". Na La Ganexa, o Natural, o Crocante e o Avelã Vegana dizem \"NÃO CONTÉM LACTOSE\", e a loja vende essas três como veganas. As outras dez contêm lactose. Todas as lidas dizem \"NÃO CONTÉM GLÚTEN\".",
+          "Quem tem intolerância à lactose ou alergia deve ler o rótulo do pote na hora da compra. O rótulo da Dr. Peanut linha a linha está em [Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo](/reviews/dr-peanut-e-saudavel). Dúvidas sobre dieta: fale com um nutricionista ou um médico."
+        ]
+      },
+      {
+        "heading": "Preço por 100 g",
+        "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-quadro-preco-100g.webp",
+        "imageAlt": "Quadro com o preço por 100 g da Dr. Peanut (250 g e 600 g) e da La Ganexa (450 g e 1 kg), com os preços de 25/10/2026",
+        "imageCaption": "Preço por 100 g, conta nossa com os preços do site em 25/10/2026. Com o cupom, a Dr. Peanut sai a R$ 9,32 (250 g) e R$ 8,98 (600 g).",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3333,
+        "comparisonTable": {
+          "headers": [
+            "Pote",
+            "Dr. Peanut",
+            "La Ganexa"
+          ],
+          "rows": [
+            [
+              "Menor",
+              "250 g, R$ 25,89 (R$ 10,36 por 100 g)",
+              "450 g, de R$ 39,99 a R$ 79,99 (de R$ 8,89 a R$ 17,78 por 100 g)"
+            ],
+            [
+              "Maior",
+              "600 g, R$ 59,89 (R$ 9,98 por 100 g)",
+              "1 kg, de R$ 59,99 a R$ 99,91 (de R$ 6,00 a R$ 9,99 por 100 g)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Dr. Peanut, o preço é o mesmo em todos os sabores do mesmo tamanho. Na La Ganexa, ele muda por sabor. Com o cupom DREMCASACOMCECILIA, que vale 10% também sobre o preço já em promoção, a Dr. Peanut sai a R$ 9,32 por 100 g no pote de 250 g e a R$ 8,98 no de 600 g. Na comparação com cupom, a La Ganexa entra pelo preço \"por\" do site, sem cupom. O Pix não entra nessas contas. O código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "paragraphs": [
+          "Sabor contra sabor, com o cupom da Dr. Peanut:"
+        ],
+        "bullets": [
+          "A Dr. Peanut sai abaixo de Leitinho, Leitinho Black e Creme de Avelã de 1 kg (R$ 9,99 por 100 g) e de todos os potes de 450 g com sabor da La Ganexa, a partir de R$ 11,11 por 100 g.",
+          "As de 1 kg da La Ganexa saem mais baratas que a Dr. Peanut mesmo com o cupom: Natural e Crocante (R$ 6,00), Avelã Vegana, Chocolate Branco Crocante e Chocolate ao Leite Crocante (R$ 7,49), Doce de Leite com Castanha de Caju e Cookies (R$ 7,99).",
+          "A Natural e a Crocante de 450 g (R$ 8,89 por 100 g) ficam abaixo da Dr. Peanut mesmo com o cupom, mas são só amendoim, sem equivalente na Dr. Peanut.",
+          "Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal, da La Ganexa, só têm 450 g, entre R$ 13,33 e R$ 17,78 por 100 g. A Dr. Peanut sai mais barata que elas, com ou sem cupom."
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "paragraphs": [
+          "Pelos rótulos e pelos preços de 25/10/2026:"
+        ],
+        "bullets": [
+          "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
+          "Quer mais proteína por 100 g: a La Ganexa tem 24 g na Natural, na Crocante e na Avelã Vegana e de 22 a 23 g nas de chocolate e de doce de leite. Nos outros sabores de sobremesa, as duas ficam perto: de 17 a 20 g na Dr. Peanut e de 16 a 21 g na La Ganexa.",
+          "Quer o pote grande mais barato: a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com cupom.",
+          "Quer pote pequeno com sabor de sobremesa pelo menor preço: a Dr. Peanut de 250 g, a R$ 10,36 por 100 g e a R$ 9,32 com o cupom, com o mesmo preço em todos os sabores. Os potes de 450 g com sabor da La Ganexa partem de R$ 11,11 por 100 g.",
+          "Quer menos sódio: a La Ganexa Natural, a Crocante e a Avelã Vegana, com 5,9 a 6 mg por 100 g. Nas de sobremesa, a La Ganexa vai de 80 a 324 mg, e a Dr. Peanut fica entre 127 e 193 mg.",
+          "Quer menos açúcares totais em sabor doce: há empate na faixa. A Dr. Peanut vai de 4,6 a 10 g; a La Ganexa, de 4,8 a 14 g, com Leitinho e Leitinho Black no topo."
+        ],
+        "postParagraphs": [
+          "Não há vencedora geral. Os números são de 25/10/2026, data em que as duas lojas estavam em promoção: refaça a conta com o preço do dia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dr. Peanut ou La Ganexa, qual é melhor? Depende do perfil. A La Ganexa leva vantagem em pasta só de amendoim, em pasta sem lactose e no pote de 1 kg; a Dr. Peanut, no pote de 250 g com sabor de sobremesa e com o cupom.",
+          "Qual tem mais proteína por 100 g? A La Ganexa tem de 16 a 24 g, e a Dr. Peanut, de 17 a 20 g. A Natural, a Crocante e a Avelã Vegana da La Ganexa têm 24 g.",
+          "Qual pasta de amendoim não tem lactose? Entre as duas marcas, só a La Ganexa tem: a Natural, a Crocante e a Avelã Vegana, que dizem \"NÃO CONTÉM LACTOSE\". As dez pastas da Dr. Peanut contêm lactose.",
+          "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom.",
+          "A La Ganexa tem cupom do site? Não. A La Ganexa não é parceira do site, e este texto não traz cupom dela. O cupom DREMCASACOMCECILIA é da Dr. Peanut."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Dr. Peanut. Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. A La Ganexa não é parceira do site: não há link nem cupom dela, e ela entra só pelo rótulo e pelo preço que a loja publica.",
+          "Fontes: tabela nutricional, ingredientes e preços publicados pela Dr. Peanut, com os preços reconferidos em 25/10/2026 e a tabela por sabor lida em 16/10/2026; tabela nutricional, ingredientes e catálogo da La Ganexa, lidos em 24/10/2026 e com os preços reconferidos em 25/10/2026.",
+          "Ninguém da equipe provou os produtos. Este texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pela Dr. Peanut. A La Ganexa não é parceira. Sem degustação.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-qual-tamanho-compensa",
+        "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa"
+      },
+      {
+        "slug": "dr-peanut-melhor-sabor",
+        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+      },
+      {
+        "slug": "dr-peanut-e-saudavel",
+        "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo"
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "slug": "presente-natal-quem-treina",
+    "locale": "pt",
+    "title": "Presente de Natal para quem treina: kits e lembranças por faixa de preço",
+    "seoTitle": "Presente de Natal para quem treina: kits por preço",
+    "type": "Guia de Presente",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.",
+    "publishedAt": "25 de outubro de 2026",
+    "publishedAtISO": "2026-10-25",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/presentes/presente-natal-quem-treina-capa.webp",
+    "imageAlt": "Creatina, coqueteleira, camiseta e snack de marcas parceiras, em fundo claro.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para quem já usa creatina ou whey, um kit de R$ 100 a R$ 200 é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque que a ficha mostra pesam na escolha: veja em Qual presente escolher."
+        ]
+      },
+      {
+        "heading": "Como este guia foi montado",
+        "paragraphs": [
+          "Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta \"o que dar, por quanto e em qual loja\" fica para quem compara à mão. Este guia faz essa comparação."
+        ],
+        "bullets": [
+          "Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut em 24/10, conferidos em 25/10). Preço muda com promoção e estoque, e o carrinho é a referência final.",
+          "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a ficha mostra unidades por tamanho ou cor, o texto diz quais.",
+          "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
+          "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
+        ],
+        "postParagraphs": [
+          "Para presente de cozinha, o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar) é outro caminho. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut)."
+        ]
+      },
+      {
+        "heading": "Quem já usa creatina ou whey",
+        "paragraphs": [
+          "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89.",
+          "Quem já sabe o que a pessoa usa acerta a proteína com o [guia de whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e a creatina com o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp",
+          "alt": "Kit com dois potes de creatina monohidratada de 300 g da Probiótica, em azul.",
+          "caption": "Kit 2 × Creatina Monohidratada Pura 300 g, da Probiótica. Imagem: site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.438
+        }
+      },
+      {
+        "heading": "Quem não sabe o que a pessoa usa",
+        "paragraphs": [
+          "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.",
+          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a ficha mostrava unidades de P a XGG em 25/10. A Camiseta Branca da Probiótica sai por R$ 69,90; a ficha mostrava zero unidade em P e unidades de M a XG."
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp",
+          "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco.",
+          "caption": "Coqueteleira 700 ml da Probiótica. Imagem: site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.412
+        }
+      },
+      {
+        "heading": "Fitness feminino",
+        "paragraphs": [
+          "Poucas peças femininas aparecem com tamanhos na ficha das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na ficha e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A ficha dos dois não mostra quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
+          "alt": "Camiseta feminina oversized preta da Max Titanium, com estampa nas costas.",
+          "caption": "Camiseta Feminina Oversized Redemption, da Max Titanium. Imagem: site da loja.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Quem gosta de doce e treina",
+        "paragraphs": [
+          "Os snacks da Dr. Peanut são a opção de doce. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).",
+          "A loja não publica os ingredientes nem os alérgicos dos alfajores, só a tabela nutricional em imagem. Por isso o texto não diz o que tem neles. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp",
+          "alt": "Display de Doctor Bar da Dr. Peanut, com barras expostas na caixa.",
+          "caption": "Display de 8 Doctor Bar de 62 g, da Dr. Peanut. Imagem: site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.178
+        }
+      },
+      {
+        "heading": "Por faixa de preço",
+        "paragraphs": [
+          "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Faixa",
+            "Presente",
+            "Loja",
+            "Preço de venda (25/10/2026)"
+          ],
+          "rows": [
+            [
+              "Até R$ 100",
+              "Coqueteleira 600 ml",
+              "Black Skull",
+              "R$ 19,90"
+            ],
+            [
+              "Até R$ 100",
+              "Coqueteleira Pet Fume 750 ml",
+              "Black Skull",
+              "R$ 29,90"
+            ],
+            [
+              "Até R$ 100",
+              "Coqueteleira 700 ml (preta, rosa ou incolor)",
+              "Probiótica",
+              "R$ 24,90 (de R$ 29,90)"
+            ],
+            [
+              "Até R$ 100",
+              "Coqueteleira Premium 500 ml (preta e grafite)",
+              "Probiótica",
+              "R$ 29,10 (de R$ 34,90)"
+            ],
+            [
+              "Até R$ 100",
+              "Coqueteleira 700 ml rosa",
+              "Max Titanium",
+              "R$ 24,17 (de R$ 29,90)"
+            ],
+            [
+              "Até R$ 100",
+              "Coqueteleira Tritan",
+              "Probiótica",
+              "R$ 79,90"
+            ],
+            [
+              "Até R$ 100",
+              "Camiseta 100% Algodão",
+              "Black Skull",
+              "R$ 78,90"
+            ],
+            [
+              "Até R$ 100",
+              "Camiseta Branca",
+              "Probiótica",
+              "R$ 69,90"
+            ],
+            [
+              "Até R$ 100",
+              "Camiseta Dry Fit Probi Alpha Co (azul)",
+              "Probiótica",
+              "R$ 79,90"
+            ],
+            [
+              "Até R$ 100",
+              "Camiseta Heavy Club",
+              "Max Titanium",
+              "R$ 99,00"
+            ],
+            [
+              "Até R$ 100",
+              "Creatina 300 g",
+              "Max Titanium",
+              "R$ 59,90 (de R$ 75,10)"
+            ],
+            [
+              "Até R$ 100",
+              "Kit 2 × Mix Pro Creatine 300 g",
+              "Probiótica",
+              "R$ 81,88"
+            ],
+            [
+              "Até R$ 100",
+              "Kit 2 × Creatina Creator 500 g + coqueteleira",
+              "Black Skull",
+              "R$ 94,72 (de R$ 139,70)"
+            ],
+            [
+              "Até R$ 100",
+              "Pasta de amendoim 600 g + 3 alfajores (Comprou, Ganhou)",
+              "Dr. Peanut",
+              "R$ 59,89"
+            ],
+            [
+              "Até R$ 100",
+              "Kit de 5 alfajores",
+              "Dr. Peanut",
+              "R$ 64,95"
+            ],
+            [
+              "Até R$ 100",
+              "Kit Sortido de 6 Doctor Wafer",
+              "Dr. Peanut",
+              "R$ 65,34"
+            ],
+            [
+              "Até R$ 100",
+              "Kit Miniaturas (3 × 15 ml)",
+              "Skelt",
+              "R$ 99,90"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Coqueteleira Tritan",
+              "Max Titanium",
+              "R$ 109,00"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Camiseta Oversized Redemption masculina",
+              "Max Titanium",
+              "R$ 119,00"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Camiseta Feminina Oversized Redemption",
+              "Max Titanium",
+              "R$ 119,00"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit 2 × Creatina 300 g",
+              "Probiótica",
+              "R$ 119,78 (de R$ 150,20)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit 2 × Whey Turbo 907 g",
+              "Black Skull",
+              "R$ 132,81 (de R$ 139,80)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Femini Whey 900 g",
+              "Max Titanium",
+              "R$ 130,00 (de R$ 147,25)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit Creatina 300 g + Iso Protein Blend 900 g",
+              "Probiótica",
+              "R$ 138,89"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit Creatina 300 g + Whey Pro 1 kg",
+              "Max Titanium",
+              "R$ 158,90 (de R$ 186,10)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit Creatina 300 g + Femini Whey 900 g",
+              "Max Titanium",
+              "R$ 189,90"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Display de 8 Doctor Bar 62 g",
+              "Dr. Peanut",
+              "R$ 122,03"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit de 10 alfajores",
+              "Dr. Peanut",
+              "R$ 129,90"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "Kit de 12 Doctor Wafer",
+              "Dr. Peanut",
+              "R$ 130,68"
+            ],
+            [
+              "Acima de R$ 200",
+              "Kit 4 × 600 g de pasta de amendoim (Legacy, Dream Team, Quartetos)",
+              "Dr. Peanut",
+              "R$ 203,63 (de R$ 239,56)"
+            ],
+            [
+              "Acima de R$ 200",
+              "Kit Creatina 300 g + 100% Whey pote 900 g",
+              "Max Titanium",
+              "R$ 249,28"
+            ],
+            [
+              "Acima de R$ 200",
+              "Whey 100% HD + 3 × Creatine Turbo",
+              "Black Skull",
+              "R$ 255,12 (de R$ 289,60)"
+            ],
+            [
+              "Acima de R$ 200",
+              "Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g",
+              "Probiótica",
+              "R$ 301,86"
+            ],
+            [
+              "Acima de R$ 200",
+              "Combo Whey 3W Core 900 g + Creator 500 g",
+              "Black Skull",
+              "R$ 303,81 (de R$ 339,80)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cupom de cada loja",
+        "paragraphs": [
+          "Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Loja",
+            "Código",
+            "Desconto",
+            "Onde vale"
+          ],
+          "rows": [
+            [
+              "[Black Skull](/cupons/black-skull)",
+              "CECILIA10",
+              "10% OFF",
+              "Todo o site, em todas as formas de pagamento; soma com as promoções. A loja não mostra desconto no Pix."
+            ],
+            [
+              "[Max Titanium](/cupons/max-titanium)",
+              "MAX10EMCASACOMCECILIA",
+              "Até 10% OFF",
+              "Site oficial, em todas as formas de pagamento; soma com as promoções."
+            ],
+            [
+              "[Probiótica](/cupons/probiotica)",
+              "PRO10EMCASACOMCECILIA",
+              "Até 10% OFF",
+              "Site oficial, em todas as formas de pagamento. A loja anuncia até 5% OFF no Pix e no boleto."
+            ],
+            [
+              "[Dr. Peanut](/cupons/dr-peanut)",
+              "DREMCASACOMCECILIA",
+              "10% OFF",
+              "Todo o site, em todas as formas de pagamento; soma com as promoções."
+            ],
+            [
+              "[Skelt](/cupons/skelt)",
+              "SKEMCASACOMCECILIA",
+              "10% OFF",
+              "Todo o site, inclusive kits; soma com as promoções e com os 5% do Pix, que entram sobre o total já com o cupom. Um cupom por pedido."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nenhum dos cinco vale no Mercado Livre: lá vale o preço do anúncio."
+        ]
+      },
+      {
+        "heading": "Lembrança de beleza: o Kit Miniaturas da Skelt",
+        "paragraphs": [
+          "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos (Exotic, Sellers e Trends). Sai por R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, cai para cerca de R$ 85,41 (conta deste guia: 10% e depois 5%).",
+          "Sozinho, o kit não chega ao mínimo do frete grátis fora das 12 cidades em que a Skelt entrega sem valor mínimo, como São Paulo, Belo Horizonte e Curitiba. Nas outras, o frete grátis começa em R$ 199 no Sul, Sudeste e Centro-Oeste e em R$ 299 no Norte e Nordeste. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp",
+          "alt": "Kit Miniaturas Exotic Set da Skelt, em caixa roxa com três frascos de 15 ml.",
+          "caption": "Kit Miniaturas Exotic Set da Skelt, 3 × 15 ml. Imagem: site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.684
+        }
+      },
+      {
+        "heading": "Prazo para o Natal",
+        "paragraphs": [
+          "Nenhuma das cinco lojas publica prazo fixo de entrega nem data limite de pedido para o Natal: o prazo sai no carrinho, pelo CEP, durante a compra. Por isso este guia não dá data. Para um presente com dia marcado, veja o prazo do seu CEP no carrinho e compre com antecedência."
+        ]
+      },
+      {
+        "heading": "Qual presente escolher",
+        "bullets": [
+          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81.",
+          "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
+          "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos na ficha; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
+          "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
+          "Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90."
+        ],
+        "postParagraphs": [
+          "Sem saber o que a pessoa usa, coqueteleira e camiseta são a escolha com menos risco de não servir."
+        ]
+      },
+      {
+        "heading": "Onde comprar, loja por loja",
+        "bullets": [
+          "Black Skull. Cupom CECILIA10, 10% em todo o site. Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.",
+          "Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.",
+          "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete: o valor aparece no carrinho com o CEP.",
+          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado sobre o total já com o cupom.",
+          "Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. Frete na seção Lembrança de beleza."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Black Skull",
+            "href": "https://www.blackskullusa.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a Max Titanium",
+            "href": "https://www.maxtitanium.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a Probiótica",
+            "href": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ir para a Skelt",
+            "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
+          "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
+          "Os preços mudam? Sim. Os preços são de 25/10/2026, e o carrinho mostra o valor final.",
+          "Quando pedir para chegar antes do Natal? Nenhuma das cinco lojas publica data limite. O prazo aparece para o seu CEP durante a compra, e o melhor é comprar com antecedência."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém da equipe do Em Casa com Cecília usou os produtos deste guia. As informações vêm das fichas, dos rótulos e das políticas públicas de cada loja, com preços de venda de 25/10/2026 (Dr. Peanut: 24/10, conferidos em 25/10). Podemos receber comissão pelos links e cupons das lojas, sem custo extra para quem compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "editorialNote": "Podemos receber comissão pelos links e cupons das lojas listadas.",
+    "relatedArticles": [
+      {
+        "slug": "melhor-whey-qual-escolher-por-objetivo",
+        "title": "Melhor whey em 2026: qual escolher para cada objetivo"
+      },
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      },
+      {
+        "slug": "presente-natal-quem-gosta-de-cozinhar",
+        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+      }
+    ]
   }
 ];

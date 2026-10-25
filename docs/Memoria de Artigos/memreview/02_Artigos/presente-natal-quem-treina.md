@@ -6,7 +6,7 @@ parceiro: "[[Dr-Peanut]], [[Black-Skull]], [[Max-Titanium]], [[Probiotica]] e [[
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
-status: "pauta-aprovada"
+status: "json"
 responsavel: "Claude"
 proxima_acao: "redacao"
 bloqueado_por: null
@@ -437,3 +437,236 @@ Não simulei frete. Na Probiótica, a simulação pública de carrinho da VTEX v
   - Comprou, Ganhou 250 g + 1 alfajor: R$ 25,89.
   - Display Doctor Wafer: R$ 137,52.
   - Display de alfajor com 12: R$ 155,88.
+
+
+---
+
+# Rascunho do artigo (Job 2, 25/10/2026; revisado no Job 3)
+
+## Metadados
+
+- title: Presente de Natal para quem treina: kits e lembranças por faixa de preço
+- seoTitle: Presente de Natal para quem treina: kits por preço
+- description: Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.
+- category: guias-praticos-utilidade
+- reviewKind: guia
+- type: Guia de Presente
+- affiliate: null
+- coupon: null
+- translationKey: null (somente PT)
+- editorialNote: Podemos receber comissão pelos links e cupons das lojas listadas.
+
+## Resposta rápida
+
+Para quem já usa creatina ou whey, um kit de R$ 100 a R$ 200 é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque que a ficha mostra pesam na escolha: veja em Qual presente escolher.
+
+## Como este guia foi montado
+
+Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta "o que dar, por quanto e em qual loja" fica para quem compara à mão. Este guia faz essa comparação.
+
+- Os preços são de venda, lidos em 25/10/2026 (os da Dr. Peanut em 24/10, conferidos em 25/10). Preço muda com promoção e estoque, e o carrinho é a referência final.
+- "Sem controle de estoque" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a ficha mostra unidades por tamanho ou cor, o texto diz quais.
+- Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.
+- O cupom de cada loja vem depois da tabela, em Cupom de cada loja.
+
+Para presente de cozinha, o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar) é outro caminho. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut).
+
+## Por perfil de quem treina
+
+### Quem já usa creatina ou whey
+
+Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89.
+
+Quem já sabe o que a pessoa usa acerta a proteína com o [guia de whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e a creatina com o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher).
+
+### Quem não sabe o que a pessoa usa
+
+Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.
+
+A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a ficha mostrava unidades de P a XGG em 25/10. A Camiseta Branca da Probiótica sai por R$ 69,90; a ficha mostrava zero unidade em P e unidades de M a XG.
+
+### Fitness feminino
+
+Poucas peças femininas aparecem com tamanhos na ficha das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na ficha e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A ficha dos dois não mostra quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele.
+
+### Quem gosta de doce e treina
+
+Os snacks da Dr. Peanut são a opção de doce. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz "contém glúten" e "contém lactose". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).
+
+A loja não publica os ingredientes nem os alérgicos dos alfajores, só a tabela nutricional em imagem. Por isso o texto não diz o que tem neles. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher).
+
+## Por faixa de preço
+
+A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo.
+
+| Faixa | Presente | Loja | Preço de venda (25/10/2026) |
+|---|---|---|---|
+| Até R$ 100 | Coqueteleira 600 ml | Black Skull | R$ 19,90 |
+| Até R$ 100 | Coqueteleira Pet Fume 750 ml | Black Skull | R$ 29,90 |
+| Até R$ 100 | Coqueteleira 700 ml (preta, rosa ou incolor) | Probiótica | R$ 24,90 (de R$ 29,90) |
+| Até R$ 100 | Coqueteleira Premium 500 ml (preta e grafite) | Probiótica | R$ 29,10 (de R$ 34,90) |
+| Até R$ 100 | Coqueteleira 700 ml rosa | Max Titanium | R$ 24,17 (de R$ 29,90) |
+| Até R$ 100 | Coqueteleira Tritan | Probiótica | R$ 79,90 |
+| Até R$ 100 | Camiseta 100% Algodão | Black Skull | R$ 78,90 |
+| Até R$ 100 | Camiseta Branca | Probiótica | R$ 69,90 |
+| Até R$ 100 | Camiseta Dry Fit Probi Alpha Co (azul) | Probiótica | R$ 79,90 |
+| Até R$ 100 | Camiseta Heavy Club | Max Titanium | R$ 99,00 |
+| Até R$ 100 | Creatina 300 g | Max Titanium | R$ 59,90 (de R$ 75,10) |
+| Até R$ 100 | Kit 2 × Mix Pro Creatine 300 g | Probiótica | R$ 81,88 |
+| Até R$ 100 | Kit 2 × Creatina Creator 500 g + coqueteleira | Black Skull | R$ 94,72 (de R$ 139,70) |
+| Até R$ 100 | Pasta de amendoim 600 g + 3 alfajores (Comprou, Ganhou) | Dr. Peanut | R$ 59,89 |
+| Até R$ 100 | Kit de 5 alfajores | Dr. Peanut | R$ 64,95 |
+| Até R$ 100 | Kit Sortido de 6 Doctor Wafer | Dr. Peanut | R$ 65,34 |
+| Até R$ 100 | Kit Miniaturas (3 × 15 ml) | Skelt | R$ 99,90 |
+| R$ 100 a R$ 200 | Coqueteleira Tritan | Max Titanium | R$ 109,00 |
+| R$ 100 a R$ 200 | Camiseta Oversized Redemption masculina | Max Titanium | R$ 119,00 |
+| R$ 100 a R$ 200 | Camiseta Feminina Oversized Redemption | Max Titanium | R$ 119,00 |
+| R$ 100 a R$ 200 | Kit 2 × Creatina 300 g | Probiótica | R$ 119,78 (de R$ 150,20) |
+| R$ 100 a R$ 200 | Kit 2 × Whey Turbo 907 g | Black Skull | R$ 132,81 (de R$ 139,80) |
+| R$ 100 a R$ 200 | Femini Whey 900 g | Max Titanium | R$ 130,00 (de R$ 147,25) |
+| R$ 100 a R$ 200 | Kit Creatina 300 g + Iso Protein Blend 900 g | Probiótica | R$ 138,89 |
+| R$ 100 a R$ 200 | Kit Creatina 300 g + Whey Pro 1 kg | Max Titanium | R$ 158,90 (de R$ 186,10) |
+| R$ 100 a R$ 200 | Kit Creatina 300 g + Femini Whey 900 g | Max Titanium | R$ 189,90 |
+| R$ 100 a R$ 200 | Display de 8 Doctor Bar 62 g | Dr. Peanut | R$ 122,03 |
+| R$ 100 a R$ 200 | Kit de 10 alfajores | Dr. Peanut | R$ 129,90 |
+| R$ 100 a R$ 200 | Kit de 12 Doctor Wafer | Dr. Peanut | R$ 130,68 |
+| Acima de R$ 200 | Kit 4 × 600 g de pasta de amendoim (Legacy, Dream Team, Quartetos) | Dr. Peanut | R$ 203,63 (de R$ 239,56) |
+| Acima de R$ 200 | Kit Creatina 300 g + 100% Whey pote 900 g | Max Titanium | R$ 249,28 |
+| Acima de R$ 200 | Whey 100% HD + 3 × Creatine Turbo | Black Skull | R$ 255,12 (de R$ 289,60) |
+| Acima de R$ 200 | Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g | Probiótica | R$ 301,86 |
+| Acima de R$ 200 | Combo Whey 3W Core 900 g + Creator 500 g | Black Skull | R$ 303,81 (de R$ 339,80) |
+
+## Cupom de cada loja
+
+Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu.
+
+| Loja | Código | Desconto | Onde vale |
+|---|---|---|---|
+| [Black Skull](/cupons/black-skull) | CECILIA10 | 10% OFF | Todo o site, em todas as formas de pagamento; soma com as promoções. A loja não mostra desconto no Pix. |
+| [Max Titanium](/cupons/max-titanium) | MAX10EMCASACOMCECILIA | Até 10% OFF | Site oficial, em todas as formas de pagamento; soma com as promoções. |
+| [Probiótica](/cupons/probiotica) | PRO10EMCASACOMCECILIA | Até 10% OFF | Site oficial, em todas as formas de pagamento. A loja anuncia até 5% OFF no Pix e no boleto. |
+| [Dr. Peanut](/cupons/dr-peanut) | DREMCASACOMCECILIA | 10% OFF | Todo o site, em todas as formas de pagamento; soma com as promoções. |
+| [Skelt](/cupons/skelt) | SKEMCASACOMCECILIA | 10% OFF | Todo o site, inclusive kits; soma com as promoções e com os 5% do Pix, que entram sobre o total já com o cupom. Um cupom por pedido. |
+
+Nenhum dos cinco vale no Mercado Livre: lá vale o preço do anúncio.
+
+## Lembrança de beleza: o Kit Miniaturas da Skelt
+
+O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos (Exotic, Sellers e Trends). Sai por R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, cai para cerca de R$ 85,41 (conta deste guia: 10% e depois 5%).
+
+Sozinho, o kit não chega ao mínimo do frete grátis fora das 12 cidades em que a Skelt entrega sem valor mínimo, como São Paulo, Belo Horizonte e Curitiba. Nas outras, o frete grátis começa em R$ 199 no Sul, Sudeste e Centro-Oeste e em R$ 299 no Norte e Nordeste. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher).
+
+## Prazo para o Natal
+
+Nenhuma das cinco lojas publica prazo fixo de entrega nem data limite de pedido para o Natal: o prazo sai no carrinho, pelo CEP, durante a compra. Por isso este guia não dá data. Para um presente com dia marcado, veja o prazo do seu CEP no carrinho e compre com antecedência.
+
+## Qual presente escolher
+
+- Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81.
+- Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.
+- Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos na ficha; o Femini Whey, por R$ 130,00, é o suplemento da lista.
+- Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.
+- Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90.
+
+Sem saber o que a pessoa usa, coqueteleira e camiseta são a escolha com menos risco de não servir.
+
+## Onde comprar, loja por loja
+
+- Black Skull. Cupom CECILIA10, 10% em todo o site. [Loja](https://www.blackskullusa.com.br/) (sponsored). Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.
+- Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. [Loja](https://www.maxtitanium.com.br/) (sponsored). Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.
+- Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. [Loja](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (sponsored). Frete: o valor aparece no carrinho com o CEP.
+- Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. [Loja](https://www.drpeanut.com.br/) (sponsored). Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado sobre o total já com o cupom.
+- Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. [Loja](https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (sponsored). Frete na seção Lembrança de beleza.
+
+## Perguntas frequentes
+
+Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.
+
+Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.
+
+Os preços mudam? Sim. Os preços são de 25/10/2026, e o carrinho mostra o valor final.
+
+Quando pedir para chegar antes do Natal? Nenhuma das cinco lojas publica data limite. O prazo aparece para o seu CEP durante a compra, e o melhor é comprar com antecedência.
+
+## Nota de transparência
+
+Ninguém da equipe do Em Casa com Cecília usou os produtos deste guia. As informações vêm das fichas, dos rótulos e das políticas públicas de cada loja, com preços de venda de 25/10/2026 (Dr. Peanut: 24/10, conferidos em 25/10). Podemos receber comissão pelos links e cupons das lojas, sem custo extra para quem compra.
+
+## Plano de imagens
+
+- Capa (hero): montagem com quatro produtos, um por perfil (creatina, coqueteleira, camiseta e snack), com as fotos oficiais das fichas. Alt sugerido: "Creatina, coqueteleira, camiseta e snack de marcas parceiras, em fundo claro." Montagem no Job 6.
+- Corpo, pelo menos uma imagem, propostas que dependem de escolha do Bruno:
+  - Seção Quem não sabe o que a pessoa usa: foto oficial da coqueteleira de 700 ml da Probiótica. Alt: "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco." Legenda: "Coqueteleira 700 ml da Probiótica. Imagem: site da loja."
+  - Seção Lembrança de beleza: foto do Kit Miniaturas da Skelt, do catálogo liberado em 23/10. Alt: "Kit Miniaturas da Skelt com três frascos de 15 ml." Legenda: "Kit Miniaturas da Skelt. Imagem: site da loja."
+  - Seção Fitness feminino: foto da Camiseta Feminina Oversized Redemption, da Max Titanium. Alt: "Camiseta feminina oversized preta da Max Titanium." Legenda: "Camiseta Feminina Oversized Redemption. Imagem: site da loja."
+- Sem foto de concorrente e sem imagem gerada por IA. A tabela por faixa é texto, não imagem.
+
+## Matriz de claims
+
+| Afirmação no texto | Tipo | Fonte | Status |
+|---|---|---|---|
+| Preços da tabela (25/10; Dr. Peanut 24/10 e 25/10) | Catálogo | API VTEX (quatro lojas) e Chrome (Dr. Peanut) | Aprovado |
+| "Sem controle de estoque" é a loja não mostrar quantidade | Ficha | API VTEX (valor 99999) | Aprovado, sem afirmar disponibilidade |
+| Percentuais e regras de cada cupom | Condição comercial | couponsData e notas dos parceiros | Aprovado, com as ressalvas abaixo |
+| Probiótica: soma com promoções | Condição comercial | couponsData (13/10) e nota (14/10) divergem | Não afirmada; o texto diz só que vale em todas as formas de pagamento (Claude, 25/10) |
+| Probiótica: até 5% OFF no Pix e no boleto | Anúncio da loja | Chrome, 25/10 | Aprovado como "a loja anuncia"; soma com o cupom não conferida |
+| Max: desconto no Pix | Condição comercial | Nenhuma fonte diz que a Max dá desconto no Pix | O texto não cita Pix na Max (Fable, 25/10) |
+| Frete grátis por região | Política | Políticas de frete das lojas, 25/10 (anexo B) | Aprovado; Probiótica sem valor (política e FAQ divergem) |
+| Nenhuma loja publica prazo nem data limite para o Natal | Política | Chrome, 25/10 (anexo B) | Aprovado: o texto não dá data |
+| Alfajor: loja não publica composição nem alérgicos | Ausência | Página da Dr. Peanut | Aprovado: não afirmar composição |
+| Doctor Bar: "contém glúten" e "contém lactose" | Rótulo | Chrome, 24/10 | Aprovado |
+| Kit Miniaturas: 3 × 15 ml, três conjuntos, produto de beleza | Ficha | Skelt, 25/10 | Aprovado |
+| R$ 85,41 com cupom e Pix | Cálculo | 99,90 × 0,9 × 0,95 | Aprovado, cálculo dito no texto |
+| Nenhum cupom vale no Mercado Livre | Contrato | CONTRATOS-DE-CONTEUDO.md, seção 2 | Aprovado |
+| Dr. Peanut é ou não é saudável | Decisão do Bruno (20/10) | Não se aplica | Não publicado |
+| "Melhor presente", "testamos", opinião de sabor | Opinião | Não se aplica | Não publicado |
+| Mais Mu, pré-treino, termogênico, colágeno, kits com nome de atleta | Decisão do Bruno e recomendações | Não se aplica | Fora do texto; o texto só diz que ficaram fora, sem motivo |
+
+## Pendências para o Bruno
+
+1. Probiótica: o texto não afirma a soma com promoções (couponsData diz que soma; a nota do parceiro, 14/10, diz "sem confirmação"). Decidir qual das duas fontes vale e alinhar a outra.
+2. Links internos: são 5 links para `/cupons/<loja>` (um por loja, como no guia de whey A2), acima do máximo de 3 do contrato. Confirmar que o guia de várias lojas segue o modelo do A2.
+3. `affiliate: null` e `coupon: null`: confirmar que o template aceita antes do JSON (o A2 já foi assim).
+4. Preço de tabela do Kit 2 × Creatina Creator 500 g + coqueteleira (R$ 139,70) e os demais preços: reler no dia da publicação.
+5. Links de produto não entram neste rascunho. Na fase do JSON, os links de produto da Skelt e da Probiótica levam a UTM do `offerUrl` e `rel="sponsored"`.
+6. Frete grátis da Max no "Onde comprar" vem da política lida no Chrome em 25/10 (anexo B); a nota da Max não tem essa tabela. Se preferir, tirar os valores e deixar "aparece no carrinho", como na Probiótica.
+
+## Revisão Job 3 (Fable, 25/10/2026)
+
+Mudanças:
+- Resposta rápida reescrita (56 palavras): a última frase aponta o que pesa (tamanho da camiseta e estoque da ficha) e o capítulo Qual presente escolher.
+- "O que as pessoas buscam" e "Como ler a lista" viraram um capítulo só, "Como este guia foi montado": saiu o parágrafo sobre o autocompletar do Google (não ajuda o leitor), ficou a explicação de preço, estoque e o aviso de que pré-treino, termogênico, colágeno e kit com nome de atleta ficaram fora.
+- Tabela por faixa: entraram os 4 itens da "Lista de produtos citados" que o Job 2 tinha deixado de fora (Coqueteleira Pet Fume 750 ml, Camiseta Dry Fit Probi Alpha Co, Kit 2 × Mix Pro Creatine 300 g, Kit Creatina 300 g + Iso Protein Blend 900 g); linhas ordenadas por preço dentro de cada faixa. Todos os preços conferidos contra a Lista e o anexo A.
+- Os três parágrafos de cupom repetidos por faixa viraram um capítulo "Cupom de cada loja", com tabela no modelo do A2 e link para `/cupons/<loja>` (o rascunho não tinha nenhum link para as páginas de loja).
+- Max: saiu "vale no Pix, e não conferimos se o desconto do Pix soma com o cupom": nenhuma fonte diz que a Max dá desconto no Pix. Ficou "todas as formas de pagamento; soma com as promoções" (nota do parceiro, 14/10).
+- Probiótica: saiu o "(teste de 13/10)" ligado a "todas as formas de pagamento" (essa regra é do Bruno, 14/10; o teste de 13/10 foi o checkout). A soma com promoções segue sem afirmação, de propósito.
+- "Lembranças" virou "Lembrança de beleza: o Kit Miniaturas da Skelt", só com o kit (coqueteleira e camiseta já estavam em "Quem não sabe o que a pessoa usa"); entraram os três conjuntos do kit (Exotic, Sellers, Trends).
+- Dr. Peanut: saiu a frase "Este guia também não diz se a Dr. Peanut ou os produtos são saudáveis" (a regra é não falar do tema, não anunciar que não fala); entraram os kits de Doctor Wafer no texto do perfil; alfajor segue sem composição.
+- Femini Whey: a frase "este guia não afirma nada além do nome", repetida duas vezes, virou "o que ele tem está na tabela nutricional da página dele", uma vez.
+- Prazo para o Natal: dois parágrafos viraram um; sem data, como antes.
+- FAQ: respostas encurtadas; "Os preços mudam?" sem repetir as datas da Dr. Peanut.
+- Nota de transparência enxugada.
+- Onde comprar: frete grátis da Max com os valores do anexo B; "Frete na seção Lembranças" atualizado para o nome novo.
+- Metadados: `type` alinhado ao frontmatter ("Guia de Presente").
+- Plano de imagens e matriz de claims atualizados aos nomes novos das seções e às mudanças acima.
+
+Erros de fato ou de conta encontrados: nenhum número errado. Os problemas eram de fonte: o desconto do Pix na Max (sem fonte) e o "teste de 13/10" atribuído a uma regra do Bruno de 14/10.
+
+Para o Bruno: as pendências 1, 2 e 6 acima.
+
+## Conferência do Claude (25/10/2026)
+
+Tabela (34 itens) conferida contra a Lista de produtos e o anexo A; cupons contra as notas de parceiro e o `couponsData.ts` (Skelt inclusive kits e combos, teste de 21/10). Ajuste: o frete grátis da Dr. Peanut passou a dizer que o mínimo conta o total já com o cupom (antes, "com o cupom, o frete grátis começa...", ambíguo). Os 5 links para `/cupons/<loja>` seguem o modelo do guia de whey (A2). Pronto para o Job 6.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 25/10/2026)
+
+Caminhos locais no JSON, na pasta `public/images/reviews/presentes/`. Origem na folha `job6-presente-natal-quem-treina/out/FOLHA.md` (versão 2, com as fotos oficiais da Dr. Peanut).
+
+- Capa: `/images/reviews/presentes/presente-natal-quem-treina-capa.webp`, 1600×900, `imageFit: contain`, 16:9. Alt: "Creatina, coqueteleira, camiseta e snack de marcas parceiras, em fundo claro." Sem legenda. Montagem própria com fotos oficiais das fichas (Max Titanium, Black Skull e Dr. Peanut) e o logo das cinco marcas.
+- Corpo, "Quem já usa creatina ou whey": `/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp`, 1.438. Alt: "Kit com dois potes de creatina monohidratada de 300 g da Probiótica, em azul." Legenda: "Kit 2 × Creatina Monohidratada Pura 300 g, da Probiótica. Imagem: site da loja." Origem: ficha da Probiótica, 25/10/2026.
+- Corpo, "Quem não sabe o que a pessoa usa": `/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp`, 0,412. Alt: "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco." Legenda: "Coqueteleira 700 ml da Probiótica. Imagem: site da loja." Origem: ficha da Probiótica, 25/10/2026. Resolução da fonte baixa; trocar se o Bruno achar fraco.
+- Corpo, "Fitness feminino": `/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp`, quadrada. Alt: "Camiseta feminina oversized preta da Max Titanium, com estampa nas costas." Legenda: "Camiseta Feminina Oversized Redemption, da Max Titanium. Imagem: site da loja." Origem: ficha da Max Titanium, 25/10/2026.
+- Corpo, "Quem gosta de doce e treina": `/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp`, 1.178. Alt: "Display de Doctor Bar da Dr. Peanut, com barras expostas na caixa." Legenda: "Display de 8 Doctor Bar de 62 g, da Dr. Peanut. Imagem: site da loja." Origem: página do produto da Dr. Peanut, lida no Chrome em 25/10/2026.
+- Corpo, "Lembrança de beleza": `/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp`, 0,684. Alt: "Kit Miniaturas Exotic Set da Skelt, em caixa roxa com três frascos de 15 ml." Legenda: "Kit Miniaturas Exotic Set da Skelt, 3 × 15 ml. Imagem: site da loja." Origem: ficha da Skelt, 25/10/2026.
+
+Cinco imagens no corpo, uma por seção, sem repetir a capa. Nenhuma foto de concorrente, de banco ou gerada por IA.
