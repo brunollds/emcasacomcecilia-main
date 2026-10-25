@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "em-revisao"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "revisao-editorial"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
@@ -179,3 +179,187 @@ Dose de 5 g nos dois rótulos ("Creatina monohidratada"). Por dose: R$ 0,38 (kit
 4. Creatina: kit de 1 kg e refil de 500 g da Black Skull contra o pouch de 1 kg e o Hardcore pouch de 500 g, por 100 g e por dose de 5 g.
 5. Antes da redação, reconferir no Chrome os preços e as tabelas da Integralmédica: o domínio sem www deu 429 na leitura de 25/10 e a leitura seguiu pelo www (regra do Bruno: bloqueio vai ao Chrome).
 6. Regras da série 1 a 1: concorrente sem link (nem em Fontes), cupom, foto ou print; tabelas só com o preço no cartão e o cupom numa frase abaixo.
+
+## Leituras no Chrome (Claude, 25/10/2026, antes da redação)
+
+Decisão 5 cumprida: páginas do site oficial (www) abertas no Chrome, sem bloqueio.
+- Whey Protein Concentrado Pouch 900 g: R$ 227,00; porção 30 g (2 dosadores) com 21 g de proteína; 30 porções.
+- Whey Protein Concentrado Pouch 1,8 kg: R$ 404,00; mesma porção, 21 g de proteína. Ingredientes: proteína de soro do leite concentrada, aromatizante e edulcorante sucralose.
+- Creatina 100% Pura Pouch 1 kg: R$ 156,00 (3x R$ 52,00); porção 5 g = 5.000 mg; "creatina monohidratada"; não contém glúten.
+- Creatina Hardcore Pouch 500 g: R$ 66,00 (de R$ 78,00); porção 5 g = 5.000 mg; "pode conter leite, soja e ovo".
+- Creatina 100% Pura 300 g: R$ 50,00 (de R$ 60,00).
+Todos os preços e porções conferem com a tabela do briefing.
+
+---
+
+## Rascunho do artigo (Job 2, 25/10/2026)
+
+**Meta para o Job 4**
+
+- title: "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+- seoTitle: "Black Skull ou Integralmédica: whey e creatina pelo rótulo" (58 caracteres)
+- description: "Black Skull ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas."
+- editorialNote: "Podemos receber comissão pelas compras feitas com o cupom CECILIA10." (sem data)
+- imageAlt da capa: "Embalagens dos wheys 80% HD e 100% HD da Black Skull, com a faixa Black Skull ou Integralmédica?" (capa só com a Black Skull, sem foto da Integralmédica)
+
+**Texto**
+
+# Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina
+
+> **Resposta rápida:** A Black Skull tem a creatina mais barata por 100 g de produto e a whey 80% HD mais barata por 100 g de proteína, entre os tamanhos comparados. O menor preço da Integralmédica fica acima nas duas contas. Nas fontes oficiais lidas em 25/10, são empresas diferentes; o veredito por perfil está em Qual escolher.
+
+*(Resposta rápida: 56 palavras.)*
+
+---
+
+## Como comparamos
+
+Este guia compara whey e creatina da Black Skull, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: o rótulo, a ficha do produto e o preço do site lido em 25/10/2026, sem frete e sem desconto de Pix. Ficam de fora o pote de 900 g da Integralmédica, que tem o mesmo rótulo do pouch de 900 g em outro pote, e os outros produtos das duas marcas.
+
+Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.
+
+A série compara a Black Skull com uma marca por vez: [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Black Skull ou Dark Lab](/reviews/black-skull-ou-dark-lab) seguem o mesmo método.
+
+---
+
+## De onde vem cada marca
+
+A Black Skull se apresenta como marca brasileira, com sede em Embu das Artes (SP) e presença no Brasil desde 2015. Segundo o "Sobre nós" do site, o produto é desenvolvido "através da Grow Dietary Supplements Labs USA (GDS)". O CNPJ com esse nome é o da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, ativa desde 18/03/2014 segundo a BrasilAPI, consultada em 25/10/2026.
+
+O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 13/12/2024. O "Sobre nós" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica e outras marcas. A Black Skull não está entre elas.
+
+Nas fontes oficiais lidas em 25/10, são empresas diferentes; nenhuma fonte liga as duas. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem. Sobre a confiança da loja, veja [Black Skull é confiável?](/reviews/black-skull-e-confiavel).
+
+---
+
+## Creatina: preço por 100 g de produto
+
+A tabela compara o pote por 100 g de produto. A dose é de 5 g nos dois rótulos, com creatina monohidratada. "100% Pura" é o nome do produto da Integralmédica, não um selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos em 25/10/2026, sem desconto de Pix. As outras creatinas da Black Skull estão em [Creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher).
+
+| Produto | Tamanho | Preço no cartão | Por 100 g |
+|---|---|---|---|
+| Black Skull Kit 2x Creator refil | 1 kg (2 x 500 g) | R$ 75,81 | R$ 7,58 |
+| Black Skull Creator refil | 500 g | R$ 39,90 | R$ 7,98 |
+| Black Skull Creator | 300 g | R$ 29,90 | R$ 9,97 |
+| Integralmédica Creatina 100% Pura pouch | 1 kg | R$ 156,00 (3 x R$ 52,00) | R$ 15,60 |
+| Integralmédica Creatina Hardcore pouch | 500 g | R$ 66,00 (de R$ 78,00) | R$ 13,20 |
+| Integralmédica Creatina 100% Pura | 300 g | R$ 50,00 (de R$ 60,00) | R$ 16,67 |
+
+Com o CECILIA10, a Black Skull sai por R$ 6,82 por 100 g no kit, R$ 7,18 na Creator refil de 500 g e R$ 8,97 na Creator de 300 g. O cupom é da Black Skull; este texto não traz cupom da Integralmédica. Por dose de 5 g, o kit da Black Skull fica em R$ 0,38 e o pouch de 1 kg da Integralmédica em R$ 0,78, sem cupom.
+
+---
+
+## Whey: preço por 100 g de proteína
+
+A conta é o preço dividido pela proteína total do pote: a proteína de cada dose vezes o número de porções. A Black Skull 80% HD tem sabores com preços diferentes; a conta usa R$ 159,90, o preço da ficha em 25/10 [VERIFICAR: sabor do preço de R$ 159,90]. Os outros wheys da marca estão em [Whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher).
+
+| Produto | Tamanho | Dose e proteína por dose | Preço no cartão | Por 100 g de proteína |
+|---|---|---|---|---|
+| Black Skull Whey 80% HD refil | 900 g | 30 g, 23 g de proteína | R$ 159,90 | R$ 23,17 |
+| Black Skull Whey 100% HD refil | 900 g | 35 g, 21 g de proteína | R$ 159,90 | R$ 30,46 |
+| Black Skull Whey 100% HD | 1,8 kg | 21 g de proteína, 50 porções [VERIFICAR: dose em gramas] | R$ 279,90 | R$ 26,66 |
+| Integralmédica Whey Protein Concentrado pouch | 900 g | 30 g, 21 g de proteína | R$ 227,00 | R$ 36,03 |
+| Integralmédica Whey Protein Concentrado pouch | 1,8 kg | 30 g, 21 g de proteína | R$ 404,00 | R$ 32,06 |
+
+Com o CECILIA10, a Black Skull 80% HD sai por R$ 20,86 por 100 g de proteína, a 100% HD de 900 g por R$ 27,41 e a de 1,8 kg por R$ 23,99. Este texto não traz cupom da Integralmédica. Na coleção de mais vendidos do site da Integralmédica, em 25/10, o pouch de 1,8 kg aparece em primeiro.
+
+---
+
+## O que o rótulo diz
+
+A creatina Creator da Black Skull declara creatina monohidratada e dose de 5 g. Na Integralmédica, a 100% Pura traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. A Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo.
+
+No whey, a 80% HD da Black Skull traz 23 g de proteína em cada porção de 30 g, e a 100% HD traz 21 g em cada 35 g. Os pouches da Integralmédica trazem 21 g em cada porção de 30 g. A lista de ingredientes do 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A lista da 80% HD [VERIFICAR: cita adoçante?]. Sucralose é um edulcorante; a conta de preço não leva isso em conta.
+
+---
+
+## Código e onde comprar
+
+Código: CECILIA10, o cupom da Black Skull. Vale 10% em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções vigentes. Este texto não traz cupom da Integralmédica. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado (rel sponsored).
+
+---
+
+## Qual escolher
+
+**Creatina: a Black Skull.** O kit com dois refis de 500 g sai por R$ 7,58 por 100 g no cartão, ou R$ 6,82 com o CECILIA10. A Integralmédica fica acima em todos os tamanhos da tabela; o menor preço dela é R$ 13,20 por 100 g, no Hardcore de 500 g.
+
+**Whey: depende do que você compara.**
+
+- Para o menor preço por grama de proteína, a Black Skull 80% HD: R$ 23,17 por 100 g no cartão, ou R$ 20,86 com o CECILIA10.
+- Para o pouch de 1,8 kg, a Black Skull 100% HD de 1,8 kg sai por R$ 26,66 por 100 g no cartão, contra R$ 32,06 do pouch de mesmo tamanho da Integralmédica.
+- O pouch de 900 g da Integralmédica sai por R$ 36,03 por 100 g de proteína, o maior valor da tabela.
+
+O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes.
+
+---
+
+## Perguntas frequentes
+
+### Black Skull é da Integralmédica?
+
+Nas fontes oficiais lidas em 25/10, são empresas diferentes; nenhuma fonte liga as duas. O site da Integralmédica lista as marcas do grupo dela, e a Black Skull não está entre elas. A Black Skull diz que é uma marca brasileira, desenvolvida através da GDS.
+
+### Creatina Black Skull ou Integralmédica, qual compensa?
+
+Pelo preço por 100 g de produto, a Black Skull. O kit de 1 kg da Black Skull sai por R$ 7,58, e o pouch de 1 kg da Integralmédica, por R$ 15,60. Com o CECILIA10, a diferença fica maior.
+
+### Whey Integralmédica ou Black Skull, qual melhor?
+
+Pelo preço por 100 g de proteína, a Black Skull 80% HD: R$ 23,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. O sabor fica de fora, porque ninguém da equipe provou os produtos.
+
+### Black Skull é brasileira?
+
+A própria marca diz que sim: sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 18/03/2014, segundo a BrasilAPI.
+
+---
+
+## Nota de transparência
+
+Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura.
+
+---
+
+## Planejamento de Mídia & Imagens
+
+- **Capa:** só Black Skull (embalagens do whey 80% HD e 100% HD), no modelo da capa da Dark Lab, com a faixa "Black Skull ou Integralmédica?". Sem foto da Integralmédica, nem na capa.
+- **Corpo 1, "O que o rótulo diz":** tabela nutricional do Whey 80% HD refil 900 g, da própria Black Skull. Origem: rótulo da marca parceira (arquivo já usado no artigo da Dark Lab, `black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp`). Alt: "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína." Legenda: "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g."
+- **Corpo 2, "Creatina":** embalagem da Creator refil 500 g da Black Skull. Origem: foto da embalagem da marca parceira (arquivo já usado na Dark Lab). Alt: "Embalagem da Creatina Creator refil de 500 g da Black Skull." Legenda: "Creator refil 500 g, a linha da conta por 100 g."
+- **Corpo 3, "Whey: preço por 100 g de proteína":** quadro de preço por 100 g de proteína, montagem nossa com os números da tabela, sem logo nem foto da Integralmédica. Alt: "Quadro com o preço por 100 g de proteína dos wheys da Black Skull e da Integralmédica, com preços de 25/10/2026." Legenda: "Preços do site em 25/10/2026, sem desconto de Pix."
+
+---
+
+## Matriz de claims verificados
+
+> *Proibido aprovar sem fonte exata comprovada.*
+
+| Afirmação no texto | Tipo de dado | Fonte exata | Data consulta | Status |
+|---|---|---|---|---|
+| Preços da Black Skull (creatina e whey) | Preço volátil | Site VTEX da Black Skull | 25/10/2026 | [x] com data |
+| Preços da Integralmédica (creatina e whey) | Preço volátil | Página de produto, no cartão (site oficial) | 25/10/2026 | [x] com data |
+| 5 g de dose, creatina monohidratada (os dois) | Fato do rótulo | Rótulos e fichas dos produtos | 23/10 e 25/10/2026 | [x] |
+| 23 g em 30 g (Black Skull 80% HD); 21 g em 35 g (100% HD) | Fato do rótulo | Tabela nutricional da Black Skull | 23/10/2026 | [x] |
+| 21 g em 30 g (Integralmédica), sucralose na lista do 1,8 kg | Fato do rótulo | Página de produto (site oficial da Integralmédica) | 25/10/2026 | [x] |
+| "Mais vendido": pouch de 1,8 kg em primeiro | Ordem do site | Coleção de mais vendidos (site oficial da Integralmédica) | 25/10/2026 | [x] só como "ordem do site" |
+| Origem: "são empresas diferentes; nenhuma fonte liga as duas" | Pergunta de origem | Sites oficiais e BrasilAPI | 25/10/2026 | [x] decisão do Bruno (pergunta 2) |
+| CNPJ da GDS e da After Click | Fato oficial | BrasilAPI e rodapés | 25/10/2026 | [x] com data |
+| "mais de 40 anos", "Grupo BRG reúne a Integralmédica e outras marcas" | Alegação da marca | Sobre nós da Integralmédica | 25/10/2026 | [x] atribuído à marca |
+| Darkness, Nutrify | Marcas do grupo | Sobre nós | - | [ ] fora do texto (decisão do Bruno, pergunta 3) |
+| CECILIA10: 10%, todas as formas de pagamento, conta nova e antiga, soma com promoções | Condição comercial | Cupom em couponsData e decisões do Bruno (13 e 14/10) | Reler na publicação | [x] com data |
+| Pix da Integralmédica | Não lido | - | - | [ ] não citado |
+| Anvisa, recall, Bioghen, desempenho, avaliação de atletas | Caso sanitário ou alegação | - | - | [ ] fora do texto |
+
+---
+
+## Pendências antes da revisão
+
+- `[VERIFICAR: sabor do preço de R$ 159,90]`: a 80% HD tem sabores com preços diferentes; confirmar qual sabor está na ficha de 25/10.
+- `[VERIFICAR: dose em gramas]` da Black Skull Whey 100% HD de 1,8 kg (lote 2310): a tabela de 50 porções de 21 g precisa de conferência. O mesmo ponto sustenta a linha do 1,8 kg na recomendação de "Qual escolher".
+- `[VERIFICAR: cita adoçante?]`: lista de ingredientes da 80% HD (pendência de leitura do briefing).
+- Links internos: são 7 (cupom, whey, creatina, Growth, Dux, Dark Lab e confiança). O contrato fala em até 3 links internos para a página da loja; os irmãos seguem o pedido do briefing e o formato da Dark Lab.
+
+## Conferência do Claude no Chrome (25/10/2026, depois do Job 2)
+
+Resolve os três [VERIFICAR] do rascunho:
+1. Whey 80% HD Refil 900 g (ficha id 459): R$ 159,90 nos sabores baunilha, chocolate, morango e cookies; banana a R$ 139,90. A conta usa R$ 159,90.
+2. Whey 100% HD 1,8 kg (ficha id 359): tabela "Tabela-WHEY-100-HD-18kg" com porção de 35 g (1 dosador), 50 porções, 21 g de proteína; R$ 279,90 em todos os sabores. Proteína total 1.050 g; R$ 26,66 por 100 g de proteína.
+3. Ingredientes da 80% HD (cadastro da ficha 459): todos os sabores levam "edulcorante sucralose", como a Integralmédica. O texto não deve dizer que só uma das duas tem adoçante.
