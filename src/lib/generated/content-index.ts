@@ -32728,7 +32728,7 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e obter 5% de desconto em compras acima de R$ 100.",
-    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use CECI no site oficial e obtenha 5% OFF em cápsulas, cafeteiras e acessórios a partir de R$ 100. Confirmado para outubro de 2026.",
+    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use CECI no site oficial e obtenha 5% OFF em cápsulas, cafeteiras e acessórios a partir de R$ 100. Válido em novembro de 2026.",
     "publishedAt": "19 Jun 2026",
     "publishedAtISO": "2026-06-19",
     "updatedAt": "2026-10-01",
@@ -32764,7 +32764,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [
-      "Desconto de 5% confirmado no site oficial em outubro de 2026",
+      "Desconto de 5% válido em novembro de 2026",
       "Válido para todo o catálogo: cápsulas, máquinas e acessórios",
       "Código verificado e atualizado mensalmente",
       "Sem limite global de utilizações da parceria",
@@ -32891,7 +32891,7 @@ export const reviewsData: unknown[] = [
           "Desconto: 5% sobre o valor dos produtos elegíveis.",
           "Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.",
           "Limite de uso: Cada CPF pode utilizar o cupom no máximo 3 vezes.",
-          "Validade: o CECI vale enquanto a parceria estiver ativa; a última verificação foi em 1º de outubro de 2026.",
+          "Validade: o CECI está válido em novembro de 2026.",
           "Onde usar: Exclusivamente no site oficial da NESCAFÉ DOLCE GUSTO Brasil.",
           "Acumulação: O cupom pode ou não ser combinado com outras promoções do site, dependendo da regra vigente.",
           "Frete: O desconto não se aplica ao valor do frete, apenas aos produtos."
@@ -32928,7 +32928,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.",
-          "O cupom CECI tem data de validade? Não: o CECI vale enquanto a parceria estiver ativa, e a última verificação foi em 1º de outubro de 2026. Confira o desconto no resumo do carrinho antes de pagar.",
+          "O cupom CECI tem data de validade? O CECI está válido em novembro de 2026. Confira o desconto no resumo do carrinho antes de pagar.",
           "Posso usar o cupom CECI mais de uma vez? Em nossa verificação, o cupom permitia até 3 compras por CPF. Como essa regra pode mudar, confirme a aceitação no checkout de cada pedido.",
           "O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
           "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.",
@@ -40593,9 +40593,15 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A loja online da I Wanna Sleep tem nota 7,8 no Reclame Aqui e resolve 94% das reclamações, nos dados consultados em agosto de 2026. As lojas físicas têm perfil próprio, com média 4,84 e resposta mais lenta, então o site oficial é o caminho mais seguro. Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+        ]
+      },
+      {
         "heading": "Por que consultar o Reclame Aqui antes de comprar",
         "paragraphs": [
-          "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem. Para comprar com desconto, veja o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem."
         ],
         "bullets": []
       },
@@ -43584,7 +43590,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-08-26",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover.webp",
+    "image": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover-v2.webp",
     "imageAlt": "Embalagem de 300 g da Nutren Creatina 100% monohidratada, sabor neutro, foto oficial da Nestlé",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -51560,8 +51566,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-04",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/guia-linha-ninho-capa-discover.webp",
-    "imageAlt": "Fotos oficiais da Nestlé: lata de Ninho Integral Instantâneo e pacote de Ninho Forti+ composto lácteo com fibras",
+    "image": "/images/reviews/nutren/guia-linha-ninho-capa-discover-v2.webp",
+    "imageAlt": "Fotos oficiais da Nestlé: latas de Ninho Integral Instantâneo, Ninho Fases 1+ e Ninho Fases 3+ e o pacote de Ninho Forti+ composto lácteo com fibras",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
