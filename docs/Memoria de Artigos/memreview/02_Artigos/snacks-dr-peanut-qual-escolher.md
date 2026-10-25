@@ -8,9 +8,9 @@ coupon: "DREMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "json"
-responsavel: "Fable (Job 3)"
-proxima_acao: "decisao-bruno-e-job-6"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e kits na Black Friday da Dr. Peanut; se o alfajor ganhar composição publicada, completar a comparação"
 bloqueado_por: null
 data_criacao: "2026-10-24"
 score_preliminar: 74
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-25"
+nota_publicacao: "No ar em 25/10/2026 (PR #279, release `933e755c`, build `01a17103-378e-739f-879f-438062a883cd`), id 603; 4 imagens (Job 6, folha aprovada pelo Bruno); revisão do Fable 5.1 conferida pelo Claude; link da Dr. Peanut sem UTM (decisão do Bruno)."
 ---
 
 # Briefing de Pauta: Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher

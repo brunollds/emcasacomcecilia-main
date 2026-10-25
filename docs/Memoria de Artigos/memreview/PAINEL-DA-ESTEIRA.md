@@ -6,13 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[black-skull-ou-dark-lab]]: Black Skull ou Dark Lab, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e a origem da Black Skull; Dark Lab sem link, cupom nem foto (PT)
-- [ ] [[snacks-dr-peanut-qual-escolher]]: Doctor Bar, alfajor ou Doctor Wafer: qual snack da Dr. Peanut, por proteína e preço por unidade (e R$ por grama de proteína, conta nossa); alfajor sem composição publicada (PT)
-- [ ] [[dr-peanut-qual-tamanho-compensa]]: Dr. Peanut: 250 g, 600 g, kit ou assinatura, qual tamanho compensa (preço por 100 g, com o cupom; 800 g e 1 kg não existem no site) (PT)
-- [ ] [[alfaiataria-verao-clea-store]]: Alfaiataria de verão da Cléa: blazer, colete, calça e bermuda por tecido (linho, mistura, poliéster) e três conjuntos "monte o seu" (PT)
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
-- [ ] [[creatina-com-sabor-qual-escolher]]: Creatina com sabor: qual escolher, Black Skull e Max Titanium pelo rótulo e pelo preço por 100 g de creatina; Probiótica só sem sabor; sem affiliate (PT)
-- [ ] [[black-skull-ou-integralmedica]]: Black Skull ou Integralmédica, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e "são empresas diferentes"; Integralmédica sem link, cupom nem foto (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -49,6 +43,12 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[black-skull-ou-dark-lab]]: Black Skull ou Dark Lab, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e a origem da Black Skull; Dark Lab sem link, cupom nem foto (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
+- [x] [[snacks-dr-peanut-qual-escolher]]: Doctor Bar, alfajor ou Doctor Wafer: qual snack da Dr. Peanut, por proteína e preço por unidade (e R$ por grama de proteína, conta nossa); alfajor sem composição publicada (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
+- [x] [[dr-peanut-qual-tamanho-compensa]]: Dr. Peanut: 250 g, 600 g, kit ou assinatura, qual tamanho compensa (preço por 100 g, com o cupom; 800 g e 1 kg não existem no site) (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
+- [x] [[alfaiataria-verao-clea-store]]: Alfaiataria de verão da Cléa: blazer, colete, calça e bermuda por tecido (linho, mistura, poliéster) e três conjuntos "monte o seu" (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
+- [x] [[creatina-com-sabor-qual-escolher]]: Creatina com sabor: qual escolher, Black Skull e Max Titanium pelo rótulo e pelo preço por 100 g de creatina; Probiótica só sem sabor; affiliate black-skull (PT) (no ar em 25/10/2026, PR #282, #283 e #284, release `bce82648`) 🚀
+- [x] [[black-skull-ou-integralmedica]]: Black Skull ou Integralmédica, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e "são empresas diferentes"; Integralmédica sem link, cupom nem foto (PT) (no ar em 25/10/2026, PR #282, release `bce82648`) 🚀
 - [x] [[bagaggio-garantia-vitalicia]]: o que cobre, o que não cobre, dano em voo e como acionar (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[black-friday-bagaggio]]: guia de preparação; soma do cupom na campanha a testar; fim da lista de `home-events.json` (PT) (no ar em 22/10/2026, PR #231, release `b2907f1`) 🚀
 - [x] [[autobronzeador-skelt-qual-escolher]]: qual autobronzeador Skelt escolher (mousse, água, gel, bifásico, Dark, kits), pela ficha oficial, sem uso próprio (PT) (no ar em 23/10/2026, PR #241, release `d3c2688`) 🚀

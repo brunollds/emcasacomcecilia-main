@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "json"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "revisao-editorial"
+proxima_acao: "reler preços do whey e da creatina das duas marcas na Black Friday"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-25"
+nota_publicacao: "No ar em 25/10/2026 (PR #282, release `bce82648`, build `01a17480-229d-7018-b8b8-1497ff489cd1`), id 607; 4 imagens (Job 6, folha aprovada pelo Bruno); revisão do Fable 5.1 conferida pelo Claude; preços e tabelas da Integralmédica conferidos no Chrome em 25/10; Integralmédica sem link, cupom, foto ou print."
 parceiro_slug: "black-skull"
 affiliate: "black-skull"
 coupon: "CECILIA10"

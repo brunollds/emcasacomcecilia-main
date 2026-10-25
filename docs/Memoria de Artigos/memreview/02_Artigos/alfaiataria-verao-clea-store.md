@@ -6,9 +6,9 @@ parceiro: "[[Clea-Store]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços, grade e a pré-venda das calças 4414 e 4416 (entrega \"a partir de 08/10\"); tirar a menção à pré-venda quando virar pronta entrega"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-25"
+nota_publicacao: "No ar em 25/10/2026 (PR #279, release `933e755c`, build `01a17103-378e-739f-879f-438062a883cd`), id 605; 4 imagens (Job 6, folha aprovada pelo Bruno); revisão do Fable 5.1 conferida pelo Claude; peças e composição conferidas no Chrome em 24/10."
 ---
 
 # Briefing de Pauta: Alfaiataria de verão da Cléa Store (blazer, colete, conjunto ou pantalona)
