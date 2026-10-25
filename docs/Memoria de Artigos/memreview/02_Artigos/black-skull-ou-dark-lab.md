@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "json"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "revisao-do-texto"
+proxima_acao: "reler preços do whey e da creatina das duas marcas na Black Friday; corrigir na pauta a frase da seção 3 que diz que a Dark Lab é barata na creatina (a tabela diz o contrário)"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
@@ -20,6 +20,8 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
+publicado_em: "2026-10-25"
+nota_publicacao: "No ar em 25/10/2026 (PR #279, release `933e755c`, build `01a17103-378e-739f-879f-438062a883cd`), id 602; 4 imagens (Job 6, folha aprovada pelo Bruno); revisão do Fable 5.1 conferida pelo Claude; Dark Lab sem link, cupom, foto ou print."
 parceiro_slug: "black-skull"
 affiliate: "black-skull"
 coupon: "CECILIA10"

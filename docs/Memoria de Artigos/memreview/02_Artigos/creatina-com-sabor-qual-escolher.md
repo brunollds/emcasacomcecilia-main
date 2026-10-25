@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]], [[Max-Titanium]], [[Probiotica]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "json"
-responsavel: "Job-2"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "conferir se o desconto do Pix da Max Titanium se mantém com o cupom; reler o estoque do Turbo 150 g e os preços na Black Friday"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 74
@@ -20,7 +20,9 @@ modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
 status_i18n: "nao-aplicavel"
-affiliate: null
+publicado_em: "2026-10-25"
+nota_publicacao: "No ar em 25/10/2026 (PR #282, release `bce82648`, build `01a17480-229d-7018-b8b8-1497ff489cd1`), id 606, com os ajustes do #283 (código MAX10EMCASACOMCECILIA e Pix da Max) e do #284 (foto da Probiótica e Pix); affiliate black-skull; revisão do Fable 5.1 conferida pelo Claude; o mesmo deploy levou o #281 (dose de 6 g da Creatine com sabor em `creatina-black-skull-qual-escolher`)."
+affiliate: "black-skull"
 coupon: null
 ---
 
