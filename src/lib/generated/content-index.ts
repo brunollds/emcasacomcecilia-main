@@ -83307,7 +83307,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 446,
     "slug": "dr-peanut-melhor-sabor",
-    "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
+    "title": "Dr. Peanut: qual o melhor sabor? Os 10 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
     "seoTitle": "Dr. Peanut: qual o melhor sabor? Rótulo e preço [2026]",
     "type": "Guia de escolha",
     "category": "guias-praticos-utilidade",
@@ -83319,8 +83319,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os 11 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
-    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 11 de pasta e os 5 de whey por rótulo, preço por 100 g e mais vendidos, sem eleger o mais gostoso.",
+    "description": "Os 10 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
+    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 10 de pasta e os 5 de whey por rótulo, preço por 100 g e mais vendidos, sem eleger o mais gostoso.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -83339,9 +83339,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos, sem degustação",
         "paragraphs": [
-          "São 11 sabores de pasta de amendoim e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelos três sabores que a loja aponta como mais vendidos: Avelã, Bueníssimo e Cookies & Cream, vendidos juntos no Combo Best Sellers.",
+          "São 10 sabores de pasta de amendoim à venda e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelos três sabores que a loja aponta como mais vendidos: Avelã, Bueníssimo e Cookies & Cream, vendidos juntos no Combo Best Sellers.",
           "Os dados são da loja oficial em 16/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar.",
-          "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor, lida em 16/10/2026. As 11 tabelas trazem 40 porções de 15 g por embalagem, a conta do pote de 600 g, e a porção de 15 g é 1 colher de sopa. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para os 11 sabores.",
+          "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor, lida em 16/10/2026. As tabelas trazem 40 porções de 15 g por embalagem, a conta do pote de 600 g, e a porção de 15 g é 1 colher de sopa. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para todos os sabores.",
           "Preços e tamanhos vêm da listagem de pastas de amendoim e da página de combos do site, na mesma data. O preço por 100 g e o preço com o cupom são contas nossas.",
           "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja afirma: quais sabores ela chama de mais amados e quais põe no combo de mais vendidos. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
         ]
@@ -83349,7 +83349,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Todos os sabores e o preço por 100 g",
         "paragraphs": [
-          "Em 16/10/2026, a loja vendia **11 sabores** de pasta de amendoim, em potes de 250 g e de 600 g. Nem todo sabor aparecia nos dois tamanhos na listagem:"
+          "Em 16/10/2026, a loja vendia **11 sabores** de pasta de amendoim, em potes de 250 g e de 600 g. Em 25/10/2026, o Chocolate Branco não estava mais à venda: são **10 sabores**. Nem todo sabor aparece nos dois tamanhos na listagem:"
         ],
         "comparisonTable": {
           "headers": [
@@ -83406,20 +83406,20 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Leite em Pó e Pistache.",
-          "Só no pote de 600 g: Banoffee, Beijinho e Chocolate Branco.",
+          "Só no pote de 600 g: Banoffee e Beijinho.",
           "Só no pote de 250 g: Doce de Leite."
         ],
         "postParagraphs": [
           "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos de 600 g, o preço depende só do número de potes: na página de combos, todo trio custava R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42, qualquer que fosse a mistura de sabores. Os combos mudam com frequência: confira a página no dia da compra."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
-        "imageAlt": "Potes de pasta de amendoim Dr. Peanut lado a lado, nos 11 sabores, em fotos oficiais da loja",
-        "imageCaption": "Os 11 sabores de pasta de amendoim da Dr. Peanut. Fotos oficiais da loja.",
+        "imageAlt": "Potes de pasta de amendoim Dr. Peanut lado a lado, nos 11 sabores vendidos em 16/10/2026, em fotos oficiais da loja",
+        "imageCaption": "Os 11 sabores que a Dr. Peanut vendia em 16/10/2026; em 25/10, o Chocolate Branco não estava mais à venda. Fotos oficiais da loja.",
         "imageFit": "contain",
         "imageAspectRatio": 1.7778
       },
       {
-        "heading": "Quadro nutricional dos 11 sabores",
+        "heading": "Quadro nutricional dos sabores",
         "comparisonTable": {
           "headers": [
             "Sabor",
@@ -83500,7 +83500,7 @@ export const reviewsData: unknown[] = [
               "590 / 19 g / 6,6 g / 6,7 g"
             ],
             [
-              "Chocolate Branco",
+              "Chocolate Branco (fora de venda em 25/10/2026)",
               "87",
               "3 g",
               "0,8 g",
@@ -83558,33 +83558,33 @@ export const reviewsData: unknown[] = [
           "caption": "Tabela publicada pela loja, 40 porções por embalagem, lida em 16/10/2026."
         },
         "postParagraphs": [
-          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Para comparar proteína, use a coluna por 100 g. Na colher, Doce de Leite e Pistache aparecem com 2,8 g, mas por 100 g são 18 g contra 19 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
           "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 29 mg (Doce de Leite e Leite em Pó) por colher. As imagens trazem também fibras, de 0,5 a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
         ]
       },
       {
         "heading": "Dr. Peanut é zero açúcar?",
         "paragraphs": [
-          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 11 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
-          "O doce vem também de **polióis** e de edulcorantes. Os 11 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
+          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g em todos os sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
+          "O doce vem também de **polióis** e de edulcorantes. Todos os sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
         ],
         "bullets": [
           "Até 8,4 g: Avelã (6,4 g), Brownie (6,7 g), Bueníssimo (6,7 g), Beijinho (8 g) e Leite em Pó (8,4 g).",
           "Doce de Leite, com 12 g.",
-          "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g), Chocolate Branco (19 g) e Cookies & Cream (20 g)."
+          "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g) e Cookies & Cream (20 g)."
         ],
         "postParagraphs": [
-          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 11. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
+          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos sabores à venda. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
         ]
       },
       {
         "heading": "Tem Dr. Peanut zero lactose?",
         "paragraphs": [
-          "Não. Em 16/10/2026, as páginas dos 11 sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
+          "Não. Em 16/10/2026, as páginas de todos os sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
           "Nos alérgicos, as páginas de produto trazem:"
         ],
         "bullets": [
-          "Banoffee, Beijinho, Chocolate Branco, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
+          "Banoffee, Beijinho, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
           "Avelã: contém amendoim, avelã, derivados de leite e soja.",
           "Bombom Italiano: contém amendoim, avelã e derivados de leite; a soja aparece no \"pode conter\".",
           "Brownie: contém amendoim, derivados de leite, ovo e soja.",
@@ -83592,7 +83592,7 @@ export const reviewsData: unknown[] = [
           "Pistache: contém amendoim, pistache, derivados de leite e soja."
         ],
         "postParagraphs": [
-          "Todos os 11 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+          "Todos trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
         ]
       },
       {
@@ -83688,11 +83688,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Quer o sabor que mais gente compra:** Avelã, Bueníssimo e Cookies & Cream, os \"três sabores mais amados\", segundo a Dr. Peanut.",
-          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
+          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g) e Brownie (4,7 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream.",
           "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
-          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream. O Chocolate Branco vem logo depois, com 1,2 g por colher.",
+          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream, com 1,1 g por colher.",
           "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece.",
-          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco.",
+          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee e Beijinho.",
           "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache."
         ]
       },
@@ -127949,8 +127949,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-25",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa.webp",
-    "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Brownie, com o logo da marca e o título \"Dr. Peanut ou La Ganexa?\"",
+    "image": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-capa-buenissimo.webp",
+    "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, com o logo da marca e o título \"Dr. Peanut ou La Ganexa?\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -128584,7 +128584,7 @@ export const reviewsData: unknown[] = [
               "[Probiótica](/cupons/probiotica)",
               "PRO10EMCASACOMCECILIA",
               "Até 10% OFF",
-              "Site oficial, em todas as formas de pagamento. A loja anuncia até 5% OFF no Pix e no boleto."
+              "Site oficial, em todas as formas de pagamento; soma com as promoções. A loja anuncia até 5% OFF no Pix e no boleto."
             ],
             [
               "[Dr. Peanut](/cupons/dr-peanut)",

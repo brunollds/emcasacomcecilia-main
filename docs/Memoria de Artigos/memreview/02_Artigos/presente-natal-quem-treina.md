@@ -544,7 +544,7 @@ Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da pró
 |---|---|---|---|
 | [Black Skull](/cupons/black-skull) | CECILIA10 | 10% OFF | Todo o site, em todas as formas de pagamento; soma com as promoções. A loja não mostra desconto no Pix. |
 | [Max Titanium](/cupons/max-titanium) | MAX10EMCASACOMCECILIA | Até 10% OFF | Site oficial, em todas as formas de pagamento; soma com as promoções. |
-| [Probiótica](/cupons/probiotica) | PRO10EMCASACOMCECILIA | Até 10% OFF | Site oficial, em todas as formas de pagamento. A loja anuncia até 5% OFF no Pix e no boleto. |
+| [Probiótica](/cupons/probiotica) | PRO10EMCASACOMCECILIA | Até 10% OFF | Site oficial, em todas as formas de pagamento; soma com as promoções. A loja anuncia até 5% OFF no Pix e no boleto. |
 | [Dr. Peanut](/cupons/dr-peanut) | DREMCASACOMCECILIA | 10% OFF | Todo o site, em todas as formas de pagamento; soma com as promoções. |
 | [Skelt](/cupons/skelt) | SKEMCASACOMCECILIA | 10% OFF | Todo o site, inclusive kits; soma com as promoções e com os 5% do Pix, que entram sobre o total já com o cupom. Um cupom por pedido. |
 
@@ -670,3 +670,7 @@ Caminhos locais no JSON, na pasta `public/images/reviews/presentes/`. Origem na 
 - Corpo, "Lembrança de beleza": `/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp`, 0,684. Alt: "Kit Miniaturas Exotic Set da Skelt, em caixa roxa com três frascos de 15 ml." Legenda: "Kit Miniaturas Exotic Set da Skelt, 3 × 15 ml. Imagem: site da loja." Origem: ficha da Skelt, 25/10/2026.
 
 Cinco imagens no corpo, uma por seção, sem repetir a capa. Nenhuma foto de concorrente, de banco ou gerada por IA.
+
+## Decisão do Bruno (25/10/2026, depois do Job 4)
+
+Probiótica: o PRO10EMCASACOMCECILIA soma com as promoções. A tabela de cupons passou a dizer isso.

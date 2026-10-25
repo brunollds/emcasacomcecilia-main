@@ -427,3 +427,7 @@ Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de
 ### Nota de transparência
 
 O Em Casa com Cecília é parceiro da Dr. Peanut e recebe comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. Não provamos os sabores. Os dados de sabor, rótulo, preço e combos vêm do site oficial da loja, lido em 16/10/2026, e as contas de preço por 100 g, por porção, por 100 g de proteína e com o cupom são nossas. Preço e catálogo mudam: confira no site antes de comprar.
+
+## Atualização de 25/10/2026 (Bruno)
+
+O Chocolate Branco saiu da loja (não está no sitemap de produtos em 25/10/2026). O guia passou a dizer 10 sabores à venda; a foto dos potes e a linha do quadro do Chocolate Branco ficam, com a data de 16/10 e "fora de venda em 25/10/2026", e ele saiu das recomendações por perfil e das listas.
