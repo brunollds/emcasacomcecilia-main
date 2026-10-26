@@ -171,6 +171,50 @@ npm run deploy:finish -- \
 O `finish` valida attestation, manifesto estático, rotas essenciais e todos os workers sob
 `hbuilds/versions/<build_uuid>/nodejs`. A captura auditável via `CAPTURE_ONLY` continua obrigatória.
 
+### Passo a passo (desde 21/10/2026)
+
+O que funcionou nos deploys de outubro, na ordem. Cada passo depende do anterior.
+
+1. **Antes:** ler o `/api/release` (SHA no ar) e listar `git log <sha no ar>..origin/main`, para saber
+   tudo o que entra, inclusive merges de outras sessões. Conferir em
+   `gh run list --workflow hostinger-wire-probe.yml` que nenhuma captura antiga está em `waiting`
+   (a fila `emcasa-production` segura a nova).
+2. **Clone limpo, em caminho curto:** fora do repositório, em
+   `C:\Users\Bruno\Downloads\Emcasacomcecilia\d<sha>`, com
+   `git -c core.longpaths=true clone -c core.longpaths=true --reference <.git do repo principal> --dissociate <url>`
+   e `npm ci`. Caminho longo (o scratchpad, por exemplo) falha com `Filename too long` no clone ou no
+   `assertGitMediaRecovery` do preparo. A referência tem de ser o `.git` do checkout principal: um
+   worktree dá `linked checkout is not supported yet`.
+3. **Preparo no PowerShell:** `$env:PATH = "$env:SystemRoot\System32;$env:PATH"` antes de
+   `npm run deploy:prepare`, porque às vezes o GNU tar do Git vem antes no `PATH` e o preparo para.
+   Guardar o log (`Tee-Object`) e conferir a linha `tar: bsdtar`. Recalcular o hash com
+   `Get-FileHash` e exigir igualdade com o `ARCHIVE_SHA256`.
+4. **Envio:** a operação `hosting_deploy` do MCP da Hostinger, com `domain: emcasacomcecilia.com`,
+   `path` (o archive), `type: nodejs`, `nodeVersion: 20`, `appType: next`,
+   `rootDirectory: emcasacomcecilia`, `outputDirectory: .next`, `buildScript: build` e
+   `packageManager: npm`. A antiga `hosting_deploy-js-application` passou a mandar o build sem as
+   configurações salvas e falha em 0,3 s com `package.json file not found`. Se a resposta for
+   `Invalid upload credentials received from API`, repetir a mesma chamada uma vez. Guardar o
+   `buildUuid`.
+5. **Espera:** `hosting_get-deployment` com o domínio, até `completed` ou `failed`; o build falho volta
+   com o log. O build leva de 2 a 4 minutos. Uma espera em segundo plano no `/api/release` (um `curl`
+   a cada 15 s, com prazo) avisa quando o SHA novo entra.
+6. **`deploy:finish`:** `npm run deploy:finish -- --target-sha … --deploy-uuid … --build-uuid …`,
+   a partir do clone. De 1 a 4 workers é normal.
+7. **Smoke:** as páginas que mudaram, conferidas contra os dados do PR (título, imagem do CDN, trechos
+   novos), mais sitemap e llms. Imagem do corpo do artigo sai pelo `/_next/image` com a URL do CDN
+   codificada: procurar pelo nome do arquivo, não pela URL inteira.
+8. **IndexNow:** cada URL com 200 antes, a lista num arquivo novo do scratchpad, contada, primeiro
+   `npm run indexnow:submit -- --dry-run <URLs>` e depois o envio. No máximo 50 URLs por vez: no
+   Windows, linha de comando longa falha sem enviar nada.
+9. **Captura:** `gh workflow run hostinger-wire-probe.yml --repo brunollds/emcasacomcecilia-main --ref main -f confirm=CAPTURE_ONLY`,
+   e avisar o Bruno para aprovar em `production-observe`.
+10. **Limpeza:** apagar o clone e o archive. No clone, a única mudança esperada é o fim de linha do
+    `src/lib/generated/content-index.ts`.
+
+Falhas passageiras conhecidas: o `next/font` antigo (antes das fontes locais) e um HTTP 500 da API da
+Hostinger na captura. Nos dois casos, repetir resolveu.
+
 ### Inspeção somente leitura
 
 O environment `production-observe` exige aprovação de `brunollds`, não permite bypass administrativo e
