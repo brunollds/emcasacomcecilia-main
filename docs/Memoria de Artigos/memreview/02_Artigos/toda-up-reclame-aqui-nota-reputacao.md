@@ -7,9 +7,9 @@ parceiro_slug: "toda-up"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "-"
 bloqueado_por: "-"
 score_autoridade: null
 score_conversao: null
