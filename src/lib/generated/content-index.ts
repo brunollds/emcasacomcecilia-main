@@ -130256,5 +130256,485 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 614,
+    "slug": "le-creuset-qual-tamanho-escolher",
+    "locale": "pt",
+    "title": "Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)",
+    "seoTitle": "Le Creuset 20 ou 24 cm: qual tamanho escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço no cartão, preço por litro e cores na Let's Eat It, mais a caçarola buffet e os outros formatos, com dados de 26/10/2026.",
+    "metaDescription": "A Le Creuset 20 cm tem 2,4 L e a 24 cm, 4,2 L. Compare preço por litro, cores e quando a caçarola buffet faz sentido (26/10/2026).",
+    "image": "/images/reviews/letseatit/le-creuset-qual-tamanho-escolher-capa-discover.webp",
+    "imageAlt": "Panelas Le Creuset Redonda Signature vermelhas de 20 cm (2,4 L) e 24 cm (4,2 L) lado a lado, com o logo da Let's Eat It",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Escolheu o tamanho? Veja as cores disponíveis da Le Creuset no site da Let's Eat It.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "le-creuset-original-como-saber",
+        "title": "Le Creuset original: como saber e onde comprar"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      },
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para receita de até 2 L, a 20 cm (2,4 L) basta; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O que muda a escolha é o volume da panela que você já usa, medido abaixo; para servir à mesa, vale o buffet."
+        ]
+      },
+      {
+        "heading": "Os tamanhos da Panela Redonda Signature",
+        "paragraphs": [
+          "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a ficha da loja publica para cada tamanho.",
+          "A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Diâmetro",
+            "Capacidade (ficha da loja)",
+            "Cores disponíveis em 26/10/2026"
+          ],
+          "rows": [
+            [
+              "16 cm",
+              "1,3 L",
+              "3 de 4"
+            ],
+            [
+              "18 cm",
+              "1,8 L",
+              "nenhuma (6 esgotadas)"
+            ],
+            [
+              "20 cm",
+              "2,4 L",
+              "5 de 8"
+            ],
+            [
+              "22 cm",
+              "3,3 L",
+              "4 de 8"
+            ],
+            [
+              "24 cm",
+              "4,2 L",
+              "3 de 6"
+            ],
+            [
+              "26 cm",
+              "5,3 L",
+              "4 de 7"
+            ],
+            [
+              "28 cm",
+              "6,7 L",
+              "2 de 6"
+            ],
+            [
+              "30 cm",
+              "8,4 L",
+              "1 de 3"
+            ],
+            [
+              "34 cm",
+              "12 L",
+              "1 de 1"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque muda de um dia para o outro: a coluna das cores é a leitura de 26/10/2026."
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-litros-por-tamanho.webp",
+          "alt": "Quadro com a capacidade da Panela Redonda Signature da Le Creuset de 16 a 34 cm, com 20 cm (2,4 L) e 24 cm (4,2 L) em destaque",
+          "caption": "Capacidade de cada tamanho pela ficha da Let's Eat It, em 26/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4118
+        }
+      },
+      {
+        "heading": "Le Creuset 20 ou 24 cm: a diferença lado a lado",
+        "paragraphs": [
+          "A 24 cm tem 1,8 L a mais que a 20 cm: 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio de 26/10/2026, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior."
+        ],
+        "comparisonTable": {
+          "headers": [
+            " ",
+            "20 cm",
+            "24 cm",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "Capacidade (ficha da loja)",
+              "2,4 L",
+              "4,2 L",
+              "+1,8 L (+75%)"
+            ],
+            [
+              "Preço cheio em 26/10/2026",
+              "R$ 2.329",
+              "R$ 2.949",
+              "+R$ 620 (+26,6%)"
+            ],
+            [
+              "Preço por litro no preço cheio (conta nossa)",
+              "R$ 970",
+              "R$ 702",
+              "-28% por litro"
+            ],
+            [
+              "Cores disponíveis em 26/10/2026",
+              "Azure Blue, Berry, Cool Mint (preço cheio); Laranja e Vermelha (15% de desconto)",
+              "Berry, Cotton (preço cheio); Vermelha (15% de desconto)",
+              "—"
+            ],
+            [
+              "Cores esgotadas em 26/10/2026",
+              "Chambray, Cotton, Rhône",
+              "Azure Blue, Laranja, Rhône",
+              "—"
+            ],
+            [
+              "Cor em desconto de 15%",
+              "Laranja e Vermelha: R$ 1.979,65",
+              "Vermelha: R$ 2.506,65",
+              "+R$ 527 (+26,6%)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta por litro da tabela usa o preço cheio. Com a cor em desconto, o preço por litro cai nos dois tamanhos: R$ 825 na 20 cm Laranja ou Vermelha e R$ 597 na 24 cm Vermelha. Como os dois têm os mesmos 15%, a relação entre eles não muda: a 24 cm segue 28% mais barata por litro.",
+          "O que muda a conta é misturar cores: a 24 cm Vermelha (R$ 2.506,65) custa só R$ 177,65 a mais que a 20 cm numa cor de preço cheio. A cor que você quer pesa tanto quanto o tamanho.",
+          "Para a tabela completa de preços de outubro, com outros tamanhos e formatos, veja o [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+        ]
+      },
+      {
+        "heading": "Como saber de quantos litros você precisa",
+        "paragraphs": [
+          "O número que decide é o litro, e o jeito mais seguro de chegar nele é medir o que você já usa."
+        ],
+        "bullets": [
+          "Pegue a panela que você mais usa no dia a dia. Encha de água até a borda com um copo medidor e anote os litros.",
+          "Pense na receita mais cheia que você faz nela. Se ela chega perto da borda, ou você precisa mexer devagar para não derramar, a panela é pequena para o seu uso.",
+          "Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre.",
+          "Confira se a tampa fecha com folga. Receita que sobe, como arroz, sopa ou ensopado em fervura, precisa de espaço livre entre o líquido e a tampa."
+        ],
+        "postParagraphs": [
+          "Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção."
+        ]
+      },
+      {
+        "heading": "Caçarola buffet: quando faz sentido",
+        "paragraphs": [
+          "A caçarola buffet é a Le Creuset de formato baixo e largo. A loja a descreve como uma peça de formato amplo e baixo, tão desejável para servir quanto indispensável para cozinhar. A marca fala em levá-la do forno para a mesa como peça de servir. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
+          "Em 26/10/2026, a Let's Eat It tinha estes tamanhos, pela ficha da loja:"
+        ],
+        "bullets": [
+          "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
+          "30 cm, 3,5 L, na cor Azure a R$ 2.999, e Laranja a R$ 2.549,15.",
+          "32 cm, 4 L, esgotada nesse dia."
+        ],
+        "postParagraphs": [
+          "A marca informa a linha de 22 a 32 cm.",
+          "O formato aparece nos números. A buffet de 26 cm leva 2,2 L, menos que a redonda de 20 cm, que leva 2,4 L, mesmo sendo mais larga. A buffet ganha em diâmetro e perde em volume. A loja a põe entre o fogão, o forno e a mesa; a marca, do forno à mesa. Se o que você precisa é de litros, a redonda leva mais."
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
+          "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
+          "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 3.0189
+        }
+      },
+      {
+        "heading": "Outros formatos da Le Creuset na loja",
+        "paragraphs": [
+          "Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja em 26/10/2026. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
+        ],
+        "bullets": [
+          "**Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.",
+          "**Oval:** 31 cm, 6,3 L. Laranja e Vermelha saíam a R$ 2.889,15 com o desconto de 15%; a Azure, a R$ 3.399. A Oval de 35 cm, 8 L, estava disponível na cor Vermelha a R$ 3.433,15.",
+          "**Para Risotto:** 30 cm, 6,2 L.",
+          "**Para Arroz:** 18 cm, 2 L, e 20 cm, 2,8 L.",
+          "**Marmita:** de 22 a 32 cm. A loja só informa os litros do 22 cm: 2,2 L."
+        ]
+      },
+      {
+        "heading": "Qual escolher: 20 cm, 24 cm ou buffet",
+        "paragraphs": [
+          "A escolha mais segura parte do volume da receita que você mais faz."
+        ],
+        "bullets": [
+          "**Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar.",
+          "**Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
+          "**Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
+        ],
+        "postParagraphs": [
+          "Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.",
+          "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
+          "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios de 26/10/2026."
+        ]
+      },
+      {
+        "heading": "Onde comprar e o cupom",
+        "paragraphs": [
+          "A Let's Eat It vende a linha Le Creuset, e a [página da loja](/cupons/letseatit) reúne as condições. O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.",
+          "Exemplo com a 24 cm, conta nossa sobre o preço de 26/10/2026, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.",
+          "Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio de 26/10, são R$ 2.329 e R$ 2.949.",
+          "Quantos litros tem a Le Creuset 24 cm? A Redonda Signature de 24 cm tem 4,2 L, pela ficha da loja. A Redonda Funda de 24 cm tem 5,2 L.",
+          "Qual o tamanho da caçarola buffet Le Creuset 30 cm? Ela tem 3,5 L, pela ficha da loja. O diâmetro é de 30 cm e o formato é baixo e largo.",
+          "A caçarola buffet Le Creuset vai ao forno? A loja a põe entre o fogão, o forno e a mesa, e a marca a descreve para ir do forno para a mesa como peça de servir. Os cuidados de forno da linha estão no artigo sobre indução e forno, citado acima.",
+          "Le Creuset 24 cm serve para fogão de indução? Sim, a marca diz que o ferro fundido serve em todas as fontes de calor. Os detalhes estão em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou as panelas citadas. Os dados vêm da ficha da loja e do site da marca, lidos em 26/10/2026, e preços e estoque mudam. A Let's Eat It é parceira do site, e podemos receber comissão por compras feitas pelos nossos links."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "slug": "le-creuset-original-como-saber",
+    "locale": "pt",
+    "title": "Le Creuset original: como saber e onde comprar",
+    "seoTitle": "Le Creuset original: como saber e onde comprar",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "Como saber se a Le Creuset é original pelo que a marca publica: o alerta contra falsas promoções, a origem e a garantia na ficha de cada peça, o localizador de revendedores autorizados e o outlet, lidos em 26/10/2026.",
+    "metaDescription": "Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha (France ou Tailândia), a garantia e onde comprar original (26/10/2026).",
+    "image": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-discover.webp",
+    "imageAlt": "Panela Oval Signature vermelha da Le Creuset com a tampa gravada LE CREUSET, ao lado do título Le Creuset original: como saber e do logo da Let's Eat It",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "A Let's Eat It está na lista de revendedores da Le Creuset Brasil. Veja as peças no site da loja.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "le-creuset-qual-tamanho-escolher",
+        "title": "Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Le Creuset Brasil não publica, no site, guia de número de série, gravação ou selo para conferir a peça. O que dá para conferir é o canal (site oficial, lojas próprias, outlets e revendedores da lista da marca) e a nota fiscal, que a marca pede para analisar a garantia. Os revendedores e o que a garantia cobre estão abaixo."
+        ]
+      },
+      {
+        "heading": "Existe Le Creuset falsa? O que a marca publica",
+        "paragraphs": [
+          "A marca tem uma página de alerta com o título \"Alerta Importante! Falsas promoções e anúncios de produtos da marca Le Creuset®\". Ela diz que a Le Creuset Brasil tomou conhecimento de anúncios em mídias sociais e em páginas da internet que divulgam falsas promoções e descontos. A página não tem data.",
+          "O que o alerta orienta, em resumo:"
+        ],
+        "bullets": [
+          "Os canais oficiais são o site da marca, as lojas próprias e os revendedores credenciados e parceiros autorizados, que o site manda consultar.",
+          "Oferta que não vem do site oficial, de e-mail com a extensão \"@lecreuset.com\" ou de parceiro autorizado não é de canal oficial.",
+          "Não clique em link nem abra anexo de anúncio ou e-mail suspeito.",
+          "Em caso de dúvida, procure o SAC da Le Creuset Brasil."
+        ],
+        "postParagraphs": [
+          "A página não cita nenhuma loja, marketplace ou vendedor, e este guia também não.",
+          "Nas páginas do site brasileiro lidas em 26/10/2026, a marca não publica guia de número de série, gravação no fundo da peça ou selo de autenticidade. O site global, lecreuset.com, redireciona quem acessa do Brasil para o lecreuset.com.br, então não conseguimos ler outra página da marca sobre isso. Por isso o caminho é conferir o canal de compra e guardar a nota fiscal."
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-alerta-falsas-promocoes-2610.webp",
+          "alt": "Página Alerta Importante! da Le Creuset Brasil sobre falsas promoções e anúncios de produtos da marca",
+          "caption": "O alerta da Le Creuset Brasil sobre falsas promoções, lido em 26/10/2026. A página não tem data.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7805
+        }
+      },
+      {
+        "heading": "O que a ficha de cada peça informa: material, origem e garantia",
+        "paragraphs": [
+          "O site da marca traz uma tabela de atributos em cada ficha de produto. Três fichas lidas em 26/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Material",
+            "País de origem",
+            "Garantia"
+          ],
+          "rows": [
+            [
+              "Caçarola Buffet Signature, pegador centenário, 30 cm (Vermelho)",
+              "Ferro fundido",
+              "France",
+              "Vitalícia"
+            ],
+            [
+              "Mini Cocotte Fruits, 480 ml",
+              "Cerâmica",
+              "Tailândia",
+              "10 anos"
+            ],
+            [
+              "Frigideira funda Essential, 30 cm",
+              "Cerâmica antiaderente",
+              "Campo ausente na ficha",
+              "10 anos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O país de origem é um dado de cada produto, não da marca inteira. A caçarola de ferro fundido diz France, a mini cocotte de cerâmica diz Tailândia. Uma peça de cerâmica com origem na Tailândia pode ser original, porque é isso que a ficha da própria marca informa. Na frigideira, o campo de origem nem aparece.",
+          "Um cuidado ao ler as fichas: o texto institucional sobre garantia vitalícia em ferro fundido esmaltado se repete como texto da página, mesmo na ficha da frigideira de cerâmica. O que vale para a peça é a linha \"Garantia\" da tabela de atributos dela."
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-fichas-material-origem-garantia.webp",
+          "alt": "Quadro com material, país de origem e garantia de três peças Le Creuset: buffet de ferro fundido (France, vitalícia), mini cocotte de cerâmica (Tailândia, 10 anos) e frigideira Essential (sem origem na ficha, 10 anos)",
+          "caption": "Dados das fichas do site da Le Creuset Brasil, lidas em 26/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9672
+        }
+      },
+      {
+        "heading": "A garantia vale em qualquer loja? Como acionar",
+        "paragraphs": [
+          "A marca diz que a Central de Atendimento oferece suporte e análise de garantia para \"qualquer produto Le Creuset independentemente do país ou canal de compra\". É o texto da marca: ele fala em análise, não em aceite garantido.",
+          "Para acionar:"
+        ],
+        "bullets": [
+          "Entre em contato pela Central de Atendimento do site da Le Creuset Brasil (o Fale conosco) e escolha o assunto \"Avaliação de Garantia - Consumidor Final\".",
+          "Tenha em mãos o cupom fiscal da compra ou outro comprovante de propriedade.",
+          "A área técnica analisa. Se houver suspeita de desvio de fabricação, dentro do prazo, o produto é reparado ou trocado por um igual ou equivalente."
+        ],
+        "postParagraphs": [
+          "O prazo segue a linha da peça. Nas fichas lidas, o ferro fundido esmaltado tem garantia vitalícia para defeitos de fabricação e as cerâmicas, 10 anos. A marca pede que se observe o prazo da linha de que a peça faz parte.",
+          "Se a peça chegar avariada numa compra feita no site de um revendedor, a marca manda procurar o atendimento da loja onde você comprou. O Troque Fácil, plataforma de troca por avaria da marca, vale só para compra feita no site da Le Creuset.",
+          "O que a garantia não cobre está em [Le Creuset vale a pena?](/reviews/le-creuset-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Onde comprar Le Creuset original",
+        "paragraphs": [
+          "A Le Creuset Brasil lista seus canais oficiais nas páginas de alerta e de devoluções: o site oficial, as lojas físicas próprias, a Prateleira Infinita (pedido on-line feito com o vendedor dentro de uma loja física), o bazar anual, os outlets e os revendedores credenciados e parceiros autorizados. As lojas próprias ficam em shoppings de várias cidades, a maioria capitais, com endereços e horários na página Lojas Oficiais do site da marca.",
+          "Para conferir um revendedor, a marca mantém um localizador chamado \"Revendedor Autorizado\". O caminho é lecreuset.com.br/lojas. Em 26/10/2026, ele trazia cerca de 200 pontos, a maioria revendedores, e 2 outlets.",
+          "Como usar: busque pela sua cidade antes de comprar numa loja que você não conhece e veja se ela aparece. Estar na lista diz que a loja é um canal listado pela marca. Não diz a origem de cada peça, que está na ficha e na nota fiscal, e a lista muda, por isso vale olhar de novo na hora da compra."
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-localizador-revendedor-autorizado-2610.webp",
+          "alt": "Localizador Revendedor Autorizado da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner",
+          "caption": "O localizador de revendedores da Le Creuset Brasil em 26/10/2026: o mapa e a busca por Serra (ES). Montagem nossa com dois prints.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8702
+        }
+      },
+      {
+        "heading": "Outlet e bazar: peça de segunda, com garantia",
+        "paragraphs": [
+          "Os dois outlets da lista ficam em Itupeva (SP) e em São Roque (SP). Nos outlets e no bazar anual, a marca diz que os produtos são \"seconds\", B-grade e cores ou modelos descontinuados. Eles podem ter pequenas variações, como pontinhos ou manchas no esmalte.",
+          "São lojas oficiais, então a peça é da marca. O que muda é a condição de venda: não há troca, troca por cor nem devolução depois da compra. A garantia continua valendo, porque a marca diz que os produtos comprados em outlet ou bazar têm cobertura. Olhe a peça com calma na loja, porque é ali que você decide."
+        ]
+      },
+      {
+        "heading": "E a Let's Eat It?",
+        "paragraphs": [
+          "A Let's Eat It aparece no localizador como revendedor autorizado (\"Wholesale Partner\"), em Serra (ES), listada pela Le Creuset Brasil em 26/10/2026. Para a reputação e as políticas da loja, veja [a Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel). Para escolher o tamanho e ver os preços de 26/10, leia o artigo irmão [Le Creuset: qual tamanho escolher](/reviews/le-creuset-qual-tamanho-escolher). O desconto da parceria está na [página do cupom da Let's Eat It](/cupons/letseatit)."
+        ]
+      },
+      {
+        "heading": "Em resumo: como comprar Le Creuset original sem erro",
+        "bullets": [
+          "Confira o canal no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
+          "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
+          "Guarde a nota fiscal: é o comprovante que a marca pede para analisar a garantia.",
+          "Leia na ficha da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
+          "Em outlet e bazar, lembre que não há troca nem devolução depois da venda."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro autorizado.",
+          "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido que lemos, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas lidas em 26/10/2026 traz China.",
+          "Le Creuset tem número de série para conferir? Nas páginas do site brasileiro que lemos em 26/10/2026, a marca não publica guia de número de série, gravação ou selo.",
+          "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
+          "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca depois da venda e com garantia.",
+          "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do Em Casa com Cecília comprou nem conferiu uma peça Le Creuset: tudo neste guia vem das páginas da Le Creuset Brasil lidas em 26/10/2026. A Let's Eat It é parceira do site, e podemos receber comissão pelas compras feitas pelo nosso link, sem custo extra para você."
+        ]
+      }
+    ]
   }
 ];
