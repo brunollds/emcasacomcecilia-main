@@ -537,6 +537,20 @@ const expectedRecentReviews = publishedReviews
   .slice(0, 20)
   .map((review) => `${SITE_URL}${getReviewCanonicalPathname(review)}`);
 assert.deepEqual(llmsRecentReviews, expectedRecentReviews, 'llms.txt: reviews recentes fora da ordem da vitrine');
+// Uma seção por idioma com os 10 artigos mais novos dele, na ordem de /<locale>/reviews.
+for (const locale of LOCALE_KEYS.filter((key) => key !== 'pt')) {
+  const heading = `## Artigos recentes em ${LOCALES[locale].label} (${locale})`;
+  const section = llmsBody.split(heading)[1]?.split('\n## ')[0] ?? '';
+  const sectionReviews = [...section.matchAll(/https:\/\/emcasacomcecilia\.com\S*/g)]
+    .map(([url]) => url)
+    .filter((url) => url.includes('/reviews/'));
+  const expected = publishedReviews
+    .filter((review) => review.locale === locale && !review.draft && !review.hideFromListings)
+    .sort((a, b) => (b.publishedAtISO ?? '').localeCompare(a.publishedAtISO ?? '') || b.id - a.id)
+    .slice(0, 10)
+    .map((review) => `${SITE_URL}${getReviewCanonicalPathname(review)}`);
+  assert.deepEqual(sectionReviews, expected, `llms.txt: artigos recentes em ${locale} fora da ordem da lista do idioma`);
+}
 assert.deepEqual(
   translatedUrls.filter((url) => !llmsUrls.includes(url)),
   [],
