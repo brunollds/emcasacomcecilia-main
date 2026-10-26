@@ -12,6 +12,8 @@
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
 - [ ] [[presente-natal-quem-treina]]: presente de Natal para quem treina, kits e lembranças de Dr. Peanut, Black Skull, Max Titanium, Probiótica e Skelt por perfil e faixa de preço; sem `affiliate`, um bloco "Onde comprar" por loja; sem prazo de Natal (nenhuma loja publica) (PT)
 - [ ] [[valley-inflow-ou-damie]]: Valley Modular (Valley Art), Inflow ou DAMIE, sofá que chega na caixa: como chega, devolução, garantia, preço no cartão em configurações equivalentes e Reclame Aqui; Valley e Inflow sem link, cupom, foto ou print (PT)
+- [ ] [[le-creuset-qual-tamanho-escolher]]: Le Creuset 20 ou 24 cm: qual tamanho escolher, por litros, diâmetro e preço no cartão, e o buffet em seção própria pela ficha; sem porções por pessoa (PT)
+- [ ] [[le-creuset-original-como-saber]]: Le Creuset original: como saber e onde comprar, pelo alerta oficial da marca, origem por produto, garantia e localizador de revendedores autorizados (Let's Eat It listada) (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
