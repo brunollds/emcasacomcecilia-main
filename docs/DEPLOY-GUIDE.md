@@ -204,7 +204,16 @@ O que funcionou nos deploys de outubro, na ordem. Cada passo depende do anterior
 7. **Smoke:** as páginas que mudaram, conferidas contra os dados do PR (título, imagem do CDN, trechos
    novos), mais sitemap e llms. Imagem do corpo do artigo sai pelo `/_next/image` com a URL do CDN
    codificada: procurar pelo nome do arquivo, não pela URL inteira.
-8. **IndexNow:** cada URL com 200 antes, a lista num arquivo novo do scratchpad, contada, primeiro
+   - **Sitemap:** todo artigo publicado do deploy aparece no `/sitemap.xml`, em qualquer idioma.
+   - **`/llms.txt`:** o arquivo sai do build (`src/app/(pt)/llms.txt/route.ts`); não há nada para
+     editar à mão. A seção "Reviews e guias recentes" traz os 20 artigos PT listados mais novos, na
+     ordem da vitrine: data e, no mesmo dia, o id maior. Artigo PT novo entra no topo; versões em
+     outros idiomas e artigos ocultos não entram nessa seção. Se um artigo PT novo faltar, o problema
+     está no dado (`draft`, `hideFromListings`, `publishedAtISO`) ou na regra, nunca em cache: o
+     `test:build-output` já barra a lista fora dessa ordem. A regra completa fica na seção 8 do
+     `docs/MANUTENCAO-MENSAL.md`.
+8. **IndexNow:** com artigo novo ou alterado, a lista leva também o `/sitemap.xml` e o `/llms.txt`,
+   que mudam junto. Cada URL com 200 antes, a lista num arquivo novo do scratchpad, contada, primeiro
    `npm run indexnow:submit -- --dry-run <URLs>` e depois o envio. No máximo 50 URLs por vez: no
    Windows, linha de comando longa falha sem enviar nada.
 9. **Captura:** `gh workflow run hostinger-wire-probe.yml --repo brunollds/emcasacomcecilia-main --ref main -f confirm=CAPTURE_ONLY`,
