@@ -279,32 +279,32 @@ export const COUPONS: Coupon[] = [
     socialImageAlt: 'Cecília com uma xícara de café ao lado da máquina Dolce Gusto e do cupom CECI',
     brandColor: '#7E2A1A',
     code: 'CECI',
-    discount: '5% OFF',
-    discountNumber: 5,
+    discount: '10% OFF',
+    discountNumber: 10,
     category: 'Café e bebidas',
     hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
-      'O CECI dá 5% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100. Testado em 01/10/2026 num carrinho acima de R$ 100.',
-    metaTitle: 'Cupom Dolce Gusto: 5% OFF com CECI na loja oficial',
+      'O CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções. Testado em 26/10/2026 num carrinho de R$ 113,40, com R$ 11,34 de desconto.',
+    metaTitle: 'Cupom Dolce Gusto: 10% OFF com CECI na loja oficial',
     metaDescription:
-      'Cupom Dolce Gusto testado em 01/10/2026: CECI dá 5% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100.',
+      'Cupom Dolce Gusto testado em 26/10/2026: CECI dá 10% OFF na loja oficial Nescafé Dolce Gusto em compras a partir de R$ 100 e soma com as promoções.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
-    reusable: 'Sim, até 3 usos por CPF',
+    reusable: 'Sim, até 3 usos por campanha',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-01',
+    lastVerified: '2026-10-26',
     testNote:
-      'Aplicamos o CECI no checkout da loja oficial Dolce Gusto, num carrinho acima de R$ 100, e os 5% de desconto apareceram no resumo do pedido.',
+      'Num carrinho de seis caixas de Cappuccino, de R$ 113,40, o CECI aplicou R$ 11,34 de desconto, os 10%, e o total caiu para R$ 102,06. Com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'Em nossa verificação de 1º de outubro de 2026, o CECI aplicou 5% OFF no site oficial Dolce Gusto em compras a partir de R$ 100. A elegibilidade pode variar; confirme o desconto no resumo do carrinho antes de finalizar.',
+          'Em nossa verificação de 26 de outubro de 2026, o CECI aplicou 10% OFF no site oficial Dolce Gusto em compras a partir de R$ 100. A elegibilidade pode variar; confirme o desconto no resumo do carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
@@ -314,7 +314,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
-          'Sim, o cupom aceita até 3 usos por CPF. Depois disso, o checkout deixa de aplicar o desconto para o mesmo cadastro.',
+          'Sim, o cupom aceita até 3 usos por campanha. Quando a campanha muda, o mesmo código volta a valer.',
       },
       {
         question: 'O cupom CECI vale no Mercado Livre?',
@@ -347,7 +347,7 @@ export const COUPONS: Coupon[] = [
     featured: true,
     relatedContent: [
       {
-        title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)',
+        title: 'Como usar o cupom CECI na Nescafé Dolce Gusto',
         url: '/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar',
         type: 'review',
         publishedAt: '2026-06-19',
@@ -520,19 +520,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 04/10/2026 num carrinho de R$ 1.121,84, com R$ 112,18 de desconto.',
+      'O CECI dá 10% OFF na loja oficial Nestlé Nutre e soma com as promoções; não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses. Testado em 26/10/2026 num carrinho de R$ 283,78, com R$ 28,38 de desconto.',
     metaTitle: 'Cupom Nestlé Nutre: 10% OFF com CECI na loja oficial',
     metaDescription:
-      'Cupom Nestlé Nutre testado em 04/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
+      'Cupom Nestlé Nutre testado em 26/10/2026: CECI dá 10% OFF e soma com as promoções. Não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.',
     eligibleCategories:
       'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
-    lastVerified: '2026-10-04',
+    lastVerified: '2026-10-26',
     testNote:
-      'Num carrinho de R$ 1.121,84, o CECI aplicou R$ 112,18 de desconto, os 10%, e o total caiu para R$ 1.009,66.',
+      'Num carrinho de R$ 283,78, com duas latas de Nutren Fortify, o CECI aplicou R$ 28,38 de desconto, os 10%, e o total caiu para R$ 255,40.',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
@@ -946,19 +946,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
-      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo e também no Outlet e nos kits em promoção (testado em 5 e 7/10/2026); não vale em lançamentos nem na loja física.',
-    metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (sem mínimo)',
+      'O EMCASACOMCECILIA dá 15% OFF na loja online da Insider, sem valor mínimo e também no Outlet e nos kits em promoção (testado em 26/10/2026); não vale em lançamentos nem na loja física.',
+    metaTitle: 'Cupom Insider: 15% OFF com EMCASACOMCECILIA (nov/2026)',
     metaDescription:
-      'Cupom Insider testado em 07/10/2026: EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, inclusive no Outlet e nos kits. Não vale em lançamentos.',
+      'Cupom Insider testado em 26/10/2026: EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, inclusive no Outlet e nos kits. Não vale em lançamentos.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Soma com as promoções vigentes da loja online, como o Outlet e os kits com preço promocional (teste de 05/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
-    lastVerified: '2026-10-07',
+      'Soma com as promoções vigentes da loja online, como o Outlet e os kits com preço promocional (testes de 05/10 e 26/10/2026); não acumula com outro cupom: a loja aceita um cupom por pedido',
+    lastVerified: '2026-10-26',
     testNote:
-      'Nos testes de 5 e 7 de outubro, uma Core T-Shirt de R$ 189,00 saiu por R$ 160,65 com o EMCASACOMCECILIA. O cupom também valeu em peças do Outlet, em kits com preço promocional e numa meia sozinha no carrinho, sem valor mínimo.',
+      'Em 26/10/2026, uma Cueca Boxer Performance em promoção, de R$ 95,00 por R$ 79,00, saiu por R$ 67,15 com o EMCASACOMCECILIA: os 15% valeram sobre o preço promocional. Nos testes de 5 e 7 de outubro, o cupom também valeu em peças do Outlet, em kits com preço promocional e numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
@@ -982,7 +982,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No último teste de checkout, em 07/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No último teste de checkout, em 26/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'O cupom vale na primeira compra na Insider?',
@@ -997,7 +997,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom acumula com produtos em promoção?',
         answer:
-          'Sim. Nos testes de 05/10/2026, o EMCASACOMCECILIA deu desconto em peças do Outlet e em kits que já estavam com preço promocional. Lançamentos podem ficar de fora.',
+          'Sim. Em 26/10/2026, o EMCASACOMCECILIA deu os 15% numa cueca que já estava em promoção; em 05/10/2026, valeu também em peças do Outlet e em kits com preço promocional. Lançamentos podem ficar de fora.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -1236,18 +1236,18 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Probiótica',
     longDescription:
-      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado em 13/10/2026 num carrinho com colágeno, creatina e barra de proteína: o desconto varia por item.',
+      'O PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial da Probiótica, soma com as promoções e vale em todas as formas de pagamento. Testado em 26/10/2026 num carrinho com colágeno, creatina, camiseta e barra de proteína: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Probiótica testado em 13/10/2026: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
+      'Cupom Probiótica testado em 26/10/2026: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, soma com as promoções e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-13',
+    lastVerified: '2026-10-26',
     testNote:
-      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 659,35 com kit de colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 604,60, com R$ 54,75 de desconto. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
+      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 337,58 com colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 320,44, com R$ 17,14 de desconto: a creatina e a camiseta tiveram 10%, e o colágeno e a barra, 2%. O percentual varia por produto.',
     aboutBrand:
       'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1264,7 +1264,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom PRO10EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 13/10/2026, o PRO10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 26/10/2026, o PRO10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'Onde coloco o cupom na Probiótica?',
@@ -1274,7 +1274,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 13/10/2026, o cupom deu desconto também na creatina que já estava com preço promocional.',
+          'Sim. No teste de 26/10/2026, o cupom deu os 10% também na creatina que já estava com preço promocional.',
       },
       {
         question: 'O cupom PRO10EMCASACOMCECILIA vale na primeira compra na Probiótica?',
@@ -1328,19 +1328,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'suplementos no site oficial da Max Titanium',
     longDescription:
-      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado em 14/10/2026 num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
+      'O MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial da Max Titanium, testado em 26/10/2026 num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Max Titanium testado em 14/10/2026: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
+      'Cupom Max Titanium testado em 26/10/2026: MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, mantém os brindes do carrinho e vale no Pix e no cartão.',
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Soma com as promoções vigentes do site e com os brindes do carrinho, e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-14',
+    lastVerified: '2026-10-26',
     testNote:
-      'Aplicamos o MAX10EMCASACOMCECILIA num carrinho com um Top Whey 3W 900 g em promoção, de R$ 273,55 por R$ 189,00, e dois brindes. O pedido saiu por R$ 172,25, com R$ 16,75 de desconto, e os brindes continuaram no carrinho. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
+      'Aplicamos o MAX10EMCASACOMCECILIA num carrinho com um Top Whey 3W 900 g em promoção, a R$ 189,00, mais outros wheys, creatina e pré-treino. O Top Whey saiu por R$ 172,25, com R$ 16,75 de desconto (8,9%), os outros itens tiveram 2%, e os brindes continuaram no carrinho. O percentual varia por produto.',
     aboutBrand:
       'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
     faqs: [
@@ -1372,12 +1372,12 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção e com os brindes?',
         answer:
-          'Sim. No teste de 14/10/2026, o cupom deu desconto num whey que já estava com preço promocional, e os dois brindes escolhidos continuaram no carrinho.',
+          'Sim. No teste de 26/10/2026, o cupom deu desconto num whey que já estava com preço promocional, e os brindes do carrinho continuaram nele.',
       },
       {
         question: 'O cupom MAX10EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 14/10/2026, o MAX10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 26/10/2026, o MAX10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'Onde coloco o cupom na Max Titanium?',
@@ -1420,19 +1420,19 @@ export const COUPONS: Coupon[] = [
     hubCategory: 'saude',
     shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
     longDescription:
-      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado em 13/10/2026 com pasta de amendoim, alfajor e whey: soma com as promoções e vale em todas as formas de pagamento.',
+      'O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado em 26/10/2026 com um combo de pastas de amendoim em promoção: soma com as promoções e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Dr. Peanut: 10% OFF em tudo com DREMCASACOMCECILIA',
     metaDescription:
-      'Cupom Dr. Peanut testado em 13/10/2026: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
+      'Cupom Dr. Peanut testado em 26/10/2026: DREMCASACOMCECILIA dá 10% OFF em todo o site, inclusive nos itens em promoção, e vale no Pix e no cartão.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping:
       'Frete grátis quando o total, já com o cupom, chega a R$ 149,90 (aviso do carrinho em 13/10/2026); abaixo disso, conforme a política da loja',
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
-    lastVerified: '2026-10-13',
+    lastVerified: '2026-10-26',
     testNote:
-      'Aplicamos o DREMCASACOMCECILIA num carrinho de R$ 440,16 com pasta de amendoim em promoção, display de alfajor e whey, e o pedido saiu por R$ 396,14, com R$ 44,02 de desconto: os 10% valeram em todos os itens, inclusive no que já estava com preço promocional.',
+      'Aplicamos o DREMCASACOMCECILIA num combo de três pastas de amendoim em promoção, de R$ 77,67 por R$ 68,35, e o desconto foi de R$ 6,84: os 10% valeram sobre o preço promocional, e o total caiu para R$ 61,51.',
     aboutBrand:
       'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
@@ -1463,12 +1463,12 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No teste de 13/10/2026, os 10% entraram também na pasta de amendoim que já estava com preço promocional.',
+          'Sim. No teste de 26/10/2026, os 10% entraram também num combo de pastas de amendoim que já estava com preço promocional.',
       },
       {
         question: 'O cupom DREMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout de 13/10/2026, o DREMCASACOMCECILIA aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
+          'Sim. No teste de checkout de 26/10/2026, o DREMCASACOMCECILIA aplicou os 10%. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'A Dr. Peanut tem frete grátis?',
