@@ -130736,5 +130736,977 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 616,
+    "slug": "toda-up-e-confiavel",
+    "locale": "pt",
+    "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas",
+    "seoTitle": "Toda Up é confiável? CNPJ, site oficial e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "Quem opera a Toda Up, a ligação com a Fita UP, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete, com dados de 26/10/2026.",
+    "metaDescription": "A Toda Up é confiável? É a marca nova da FITA UP LTDA, CNPJ ativo desde 2020. Veja trocas em 30 dias, reembolso, frete e como conferir o site oficial.",
+    "image": "/images/reviews/toda-up/toda-up-e-confiavel-capa-discover.webp",
+    "imageAlt": "Três modelos com sutiãs da Toda Up, com o logo da loja, o título Toda Up é confiável? e os selos RA1000 e Empresa Verificada do Reclame Aqui em 26/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Toda Up faz sentido para você, entre no site oficial pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "label": "Ir para a Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Feito com fontes públicas. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "toda-up-reclame-aqui-nota-reputacao",
+        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "black-friday-toda-up",
+        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a Toda Up é a marca nova da FITA UP LTDA, empresa brasileira com CNPJ ativo desde 18/12/2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O que pede leitura é o prazo de reembolso, que a política não fixa, e a troca de nome, explicada abaixo."
+        ]
+      },
+      {
+        "heading": "Quem opera a Toda Up",
+        "paragraphs": [
+          "Sim, a Toda Up é operada por uma empresa registrada no Brasil. O rodapé do site mostra o CNPJ 40.159.443/0001-44 e o endereço R. Edgard Hoffmann, 222, Biguaçu/SC.",
+          "Na consulta pública do CNPJ, feita em 26/10/2026, esse CNPJ é da FITA UP LTDA, com nome fantasia FITA UP, situação ativa e início de atividade em 18/12/2020. A atividade principal cadastrada é comércio varejista de vestuário e acessórios, e o município é Biguaçu, em Santa Catarina. O endereço comercial do rodapé e o município da consulta batem.",
+          "O nome da empresa, então, ainda é o da marca antiga. Isso não é um problema: Toda Up é a marca, e a empresa por trás dela segue a mesma, como o capítulo seguinte explica."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-empresa-cnpj-2610.webp",
+          "alt": "Quadro com o rodapé do site da Toda Up, o CNPJ 40.159.443/0001-44 da FITA UP LTDA, ativa desde 18/12/2020, em Biguaçu (SC)",
+          "caption": "Rodapé do site oficial e consulta pública do CNPJ, lidos em 26/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5666
+        }
+      },
+      {
+        "heading": "Da Fita UP à Toda Up: o que mudou",
+        "paragraphs": [
+          "A Toda Up veio da Fita UP, a marca das fitas adesivas para decote. Segundo o FAQ da loja, a Fita UP não acabou: \"cresceu e virou Toda Up\", e a empresa é a mesma, com a mesma equipe. A própria loja resume que \"a mudança é apenas de marca e visual\". A página Sobre diz que a marca começou como \"o segredo dos decotes impossíveis\" e passou à moda íntima.",
+          "A loja lista o que mudou e o que não mudou com o nome novo:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "O que mudou, segundo a loja",
+            "O que não mudou, segundo a loja"
+          ],
+          "rows": [
+            [
+              "O nome",
+              "A política de trocas"
+            ],
+            [
+              "O visual do site, as embalagens e o logo",
+              "O atendimento"
+            ],
+            [
+              "Novos produtos, \"em breve\"",
+              "O histórico dos pedidos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A frase sobre qualidade e segurança dos produtos também está nessa lista da loja, mas é afirmação da marca, não um fato que este texto confirma.",
+          "Dois registros públicos ajudam a entender a linha do tempo. O domínio fitaup.com foi registrado em 21/05/2020 e o domínio todaup.com, em 10/04/2025, pelos dados públicos de registro lidos em 26/10/2026. Essas datas são de domínio, não de empresa: a FITA UP LTDA existe desde 18/12/2020, e o domínio antigo veio antes da abertura do CNPJ. O domínio fitaup.com segue registrado e aparece linkado na home da Toda Up.",
+          "O FAQ da loja também traz as perguntas de quem comprou no site antigo, como \"Tenho um pedido feito no site antigo (Fita UP). Ele vai chegar?\" e \"Preciso criar um novo cadastro?\". Se o seu caso é esse, a resposta da loja está lá, e o canal de atendimento é o mesmo do capítulo de atendimento."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-faq-mudanca-de-marca-2610.webp",
+          "alt": "FAQ do site da Toda Up com a pergunta Toda Up é outra empresa? aberta e a resposta de que a mudança é apenas de marca e visual",
+          "caption": "O FAQ da página Sobre da Toda Up, lido em 26/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2294
+        }
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é todaup.com. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
+          "Depois, role até o rodapé. Ele traz o CNPJ 40.159.443/0001-44 e o endereço em Biguaçu/SC. Compare o número com a consulta pública do CNPJ: deve aparecer a FITA UP LTDA, ativa.",
+          "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Endereço parecido, com outra terminação, não é nenhum dos dois domínios da marca: confira o CNPJ no rodapé antes de comprar."
+        ]
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "A política de troca, com última atualização em 01/10/2026 e lida em 26/10/2026, tem dois prazos iguais, contados do recebimento, um terceiro para defeito e uma regra para produto errado:"
+        ],
+        "bullets": [
+          "sem sujeira nem manchas de cosmético ou desodorante;",
+          "com as etiquetas afixadas;",
+          "sem sinais de lavagem, de perfume ou de uso."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Caso",
+            "Prazo ou regra"
+          ],
+          "rows": [
+            [
+              "Troca por modelo, tamanho ou cor",
+              "Até 30 dias corridos depois do recebimento"
+            ],
+            [
+              "Arrependimento (devolução)",
+              "Até 30 dias corridos depois do recebimento. A política diz que esse prazo é condição comercial da Toda Up e amplia os 7 dias da lei"
+            ],
+            [
+              "Defeito",
+              "90 dias corridos para vício aparente em produto durável, citando o Código de Defesa do Consumidor"
+            ],
+            [
+              "Produto diferente do pedido",
+              "Troca sem custo, com foto do produto e da etiqueta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A solicitação é feita pelo portal de trocas da loja, todaup.troque.app.br, com o CPF da titular da compra e o número do pedido. Para a troca por preferência, a peça precisa chegar nestas condições:",
+          "A loja pode pedir fotos para análise. A primeira troca tem o frete grátis; a segunda fica por conta da cliente. O código de postagem gerado vale por 7 dias corridos. Quem comprou em loja parceira resolve a troca com o estabelecimento, não com a Toda Up."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-up.webp",
+          "alt": "Guia de medidas do Sutiã Comfort Up da Toda Up, com tamanhos de PP a G3, sob busto e busto em centímetros",
+          "caption": "Guia de medidas do Sutiã Comfort Up, do site da loja: a troca por tamanho vale por 30 dias.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Reembolso",
+        "paragraphs": [
+          "O reembolso depende da forma de pagamento. No cartão, a loja pede o estorno à administradora. Nas outras formas de pagamento, a devolução segue o procedimento financeiro da loja.",
+          "A política não diz em quantos dias o valor volta, em nenhuma das formas. Por isso, este texto não dá prazo de reembolso. Se o prazo importa para você, pergunte ao atendimento antes de devolver, com o número do pedido."
+        ]
+      },
+      {
+        "heading": "Frete e despacho",
+        "paragraphs": [
+          "O frete é calculado pelo CEP no checkout, com envio por Sedex, Loggi ou Jadlog, segundo a política de frete lida em 26/10/2026. A loja despacha em até 3 dias úteis depois da confirmação do pagamento: até 1 dia útil para faturar e até 2 dias úteis para entregar à transportadora. O código de rastreio vai por e-mail depois do despacho.",
+          "A política não traz uma regra fixa de frete grátis: a loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026. Fora de campanha, o valor aparece pelo CEP.",
+          "Dois casos cobram o frete de envio da cliente: quando o carteiro não encontra ninguém em duas tentativas e a encomenda volta ao centro de distribuição, e quando o endereço informado está incorreto e o pedido já foi despachado. Em atraso de transportadora, a loja diz que não se responsabiliza pelo prazo, mas que \"fará de tudo\" para cumpri-lo."
+        ]
+      },
+      {
+        "heading": "Pagamento e atendimento",
+        "paragraphs": [
+          "O rodapé do site mostra as bandeiras American Express, Elo, Hipercard, Mastercard e Visa. As outras formas de pagamento aparecem só no checkout, e este texto não as confere.",
+          "Para falar com a loja, o canal indicado na política de trocas é o e-mail suporte@todaup.com e o WhatsApp, que abre pelo botão flutuante do site. O menu tem a página \"Rastreie seu Pedido\". Em caso de defeito, a loja pede o número do pedido e fotos da peça."
+        ]
+      },
+      {
+        "heading": "A reputação no Reclame Aqui",
+        "paragraphs": [
+          "Na leitura de 26/10/2026, o perfil da Toda Up no Reclame Aqui está no CNPJ da FITA UP LTDA, com o selo \"Empresa Verificada\", o selo RA1000 e nota 8,5 nos 6 meses até 30/09/2026; os números de reclamações, respostas e o perfil completo estão no [artigo sobre a Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Toda Up?",
+        "paragraphs": [
+          "Do lado da empresa, a Toda Up tem o que um comprador procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, sede em Biguaçu (SC), regras de troca e de frete publicadas, prazo de troca de 30 dias e atendimento por e-mail e WhatsApp. A mudança de nome está explicada no FAQ da loja, e a empresa é a mesma desde 2020.",
+          "Os pontos de atenção são dois: a política não fixa o prazo de reembolso, e as frases sobre qualidade e segurança dos produtos são da marca, não de terceiros. Este texto fala da loja. Se a peça é boa para você, é outra pergunta, que este texto não responde.",
+          "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no carrinho do site oficial."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Veja a [página do cupom da Toda Up](/cupons/toda-up) para o código e as condições vigentes.",
+          "O cupom dá 10% OFF em todo o site e, no carrinho, em 26/10/2026, valeu em produto já com desconto. O passo a passo e a conta do teste estão em [como usar o cupom da Toda Up](/reviews/cupom-toda-up-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Toda Up é confiável? É a marca da FITA UP LTDA, empresa registrada no Brasil, com CNPJ ativo e sede em Biguaçu (SC), que publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa.",
+          "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 18/12/2020 na consulta pública de 26/10/2026. Confira o número na consulta pública do CNPJ.",
+          "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
+          "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
+          "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
+          "Quando o reembolso cai? A política não diz. No cartão, o estorno é feito pela administradora; nas outras formas, pelo procedimento financeiro da loja.",
+          "A Toda Up tem frete grátis? A política de frete não tem regra fixa. A loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026; fora delas, o valor aparece pelo CEP.",
+          "Qual é o atendimento da Toda Up? O e-mail é suporte@todaup.com, e a loja também atende pelo WhatsApp do site."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "slug": "toda-up-reclame-aqui-nota-reputacao",
+    "locale": "pt",
+    "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram",
+    "seoTitle": "Toda Up no Reclame Aqui: nota e reputação",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "Os números da Toda Up no Reclame Aqui em 26/10/2026: RA1000 nos últimos 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que muda na aba geral.",
+    "metaDescription": "Toda Up no Reclame Aqui: RA1000 em 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas. Veja a aba geral e o que fazer se o pedido der problema.",
+    "image": "/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp",
+    "imageAlt": "Modelo com o Sutiã Comfort Line da Toda Up e o topo do perfil Toda Up no Reclame Aqui em 26/10/2026, com a reputação RA1000 e o selo Empresa Verificada",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se for comprar, entre no site oficial da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e guarde o número do pedido.",
+      "label": "Ir para a Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "toda-up-e-confiavel",
+        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "black-friday-toda-up",
+        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim: em 26/10/2026, a Toda Up estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar",
+        "paragraphs": [
+          "O site da Toda Up não cita o Reclame Aqui, nem nota de reputação nem selo. O Reclame Aqui mostra o que a loja não mostra: quantas reclamações recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar.",
+          "Os números abaixo são de 26/10/2026 e mudam com o tempo. Confira de novo no dia da compra."
+        ]
+      },
+      {
+        "heading": "Qual perfil olhar",
+        "paragraphs": [
+          "O perfil da loja é o Toda Up, na página empresa/toda-up do Reclame Aqui, na categoria Roupas íntimas, Pijamas e Meias. Ele traz o site todaup.com e o CNPJ 40.159.443/0001-44, o mesmo do rodapé da loja. Esse CNPJ é o da FITA UP LTDA, de Biguaçu (SC).",
+          "Na busca feita no Reclame Aqui em 26/10/2026, não apareceu perfil separado da Fita UP: o perfil é um só, no CNPJ da FITA UP LTDA. A troca de nome, a empresa, as trocas e o frete estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "O perfil tem o selo Empresa Verificada, que identifica a empresa dona do perfil e não é nota de reputação."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-reclame-aqui-perfil-2610.webp",
+          "alt": "Topo do perfil Toda Up no Reclame Aqui com o banner Fita Up agora é Toda Up, a reputação RA1000, o selo Empresa Verificada e 93,1% de reclamações resolvidas",
+          "caption": "O perfil Toda Up no Reclame Aqui, lido em 26/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 4.2725
+        }
+      },
+      {
+        "heading": "Os números da Toda Up",
+        "paragraphs": [
+          "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura é de 26/10/2026. A aba de 6 meses mostra a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (01/04/2026 a 30/09/2026)",
+            "Geral (27/10/2023 a 26/10/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000",
+              "não consta nesta leitura"
+            ],
+            [
+              "Nota",
+              "8,5",
+              "não consta nesta leitura"
+            ],
+            [
+              "Reclamações recebidas",
+              "357",
+              "1.398"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "99%"
+            ],
+            [
+              "Aguardando resposta",
+              "0",
+              "9"
+            ],
+            [
+              "Resolvidas",
+              "93,1%",
+              "92,1%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "76,1%",
+              "74,9%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "218",
+              "794"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,38",
+              "7,48"
+            ],
+            [
+              "Tempo médio de resposta",
+              "21 horas",
+              "6 dias e 3 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota 8,5 é a nota de reputação, a que define a faixa; a nota média do consumidor (7,38 nos 6 meses) é a média dada por quem avaliou a resposta da loja."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-reclame-aqui-numeros-2610.webp",
+          "alt": "Quadro com os números da Toda Up no Reclame Aqui: nos 6 meses até 30/09/2026, RA1000, nota 8,5, 357 reclamações, 100% respondidas e 93,1% resolvidas; na aba geral, 1.398 reclamações e 92,1% resolvidas",
+          "caption": "Números do perfil Toda Up no Reclame Aqui, lidos em 26/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.5699
+        }
+      },
+      {
+        "heading": "O que a conta entre as abas mostra",
+        "paragraphs": [
+          "A aba geral soma 1.398 reclamações de 27/10/2023 a 26/10/2026. A aba de 6 meses soma 357, de 01/04/2026 a 30/09/2026. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro de 2026. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
+          "O Reclame Aqui não mostrou, nesta leitura, quantas reclamações entraram em cada mês. Por isso o texto não diz o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
+          "A aba geral começa em 27/10/2023. O domínio todaup.com é de abril de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
+        ]
+      },
+      {
+        "heading": "Como a Toda Up responde às reclamações",
+        "paragraphs": [
+          "O tempo de resposta é o indicador que mais muda entre as abas: 21 horas nos 6 meses contra 6 dias e 3 horas na geral. Responder não é resolver: a aba recente também resolve mais (93,1% contra 92,1%) e tem mais gente que voltaria (76,1% contra 74,9%). Os percentuais são os que o Reclame Aqui exibe, sem recálculo."
+        ]
+      },
+      {
+        "heading": "O que esta leitura não traz",
+        "paragraphs": [
+          "A leitura de 26/10/2026 ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. Sem essa lista, o texto não diz qual é o problema mais citado contra a loja. Quem quiser esse detalhe encontra no próprio perfil."
+        ]
+      },
+      {
+        "heading": "O que a loja diz sobre si",
+        "paragraphs": [
+          "Nada no FAQ nem na home da loja, lidos em 26/10/2026, cita o Reclame Aqui, nota ou selo; o FAQ fala da troca de nome e dos pedidos antigos. Os números deste artigo vêm só do perfil público."
+        ]
+      },
+      {
+        "heading": "Se o pedido der problema",
+        "paragraphs": [
+          "Comece pela loja. A política de trocas indica o WhatsApp do site e o e-mail suporte@todaup.com, com o número do pedido. A política de frete diz que o pedido sai em até 3 dias úteis depois da confirmação do pagamento, com código de rastreio por e-mail. Troca por modelo, tamanho ou cor e devolução por arrependimento têm 30 dias corridos depois do recebimento, pelo portal de trocas da loja; as condições e o reembolso estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "Se a loja não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil. Guarde o número do pedido, o CPF da compra e a data em que o prazo venceu: esses dados servem em qualquer contato."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O cupom dá 10% OFF em todo o site da Toda Up. Os detalhes estão na [página da Toda Up](/cupons/toda-up), e o passo a passo e o teste no carrinho, em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Toda Up?",
+        "paragraphs": [
+          "Pelo Reclame Aqui, dá. Em 26/10/2026, o perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+        ],
+        "bullets": [
+          "Reputação: RA1000 nos 6 meses (01/04/2026 a 30/09/2026), com nota 8,5.",
+          "Respondidas e resolvidas: 100% e 93,1% nos 6 meses; 99% e 92,1% na aba geral, desde 27/10/2023.",
+          "Fora desta leitura: a aba de 12 meses, o histórico mês a mês e os principais problemas."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Toda Up é confiável segundo o Reclame Aqui? Em 26/10/2026, o perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+          "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
+          "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
+          "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 21 horas em média. Na aba geral, desde 27/10/2023, respondeu a 99%, em 6 dias e 3 horas.",
+          "O que fazer se o pedido da Toda Up atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale com a loja pelo WhatsApp do site ou pelo e-mail suporte@todaup.com. Se não resolver, registre no Reclame Aqui."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "slug": "cupom-toda-up-como-usar",
+    "locale": "pt",
+    "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada",
+    "seoTitle": "Cupom Toda Up: como usar e o que soma (10% OFF)",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "Como usar o cupom da Toda Up no site oficial: 10% OFF em todo o site, inclusive em promoção, o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste de 26/10/2026.",
+    "metaDescription": "Cupom Toda Up: 10% OFF em todo o site, vale em produto em promoção e somou com a progressiva da Black Antecipada no carrinho (26/10/2026). Veja o passo a passo.",
+    "image": "/images/reviews/toda-up/cupom-toda-up-capa-discover.webp",
+    "imageAlt": "Modelo com o Sutiã Comfort Up rosa da Toda Up, com o logo da loja e o desconto de 10% do cupom da Cecília",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão: o cupom já vem aplicado. Confira a linha de desconto no resumo do pedido.",
+      "label": "Ir para a Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Cupom testado até o carrinho, sem finalizar. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-toda-up",
+        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+      },
+      {
+        "slug": "toda-up-e-confiavel",
+        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "toda-up-reclame-aqui-nota-reputacao",
+        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto que já está em promoção. No carrinho, em 26/10/2026, ele somou também com a progressiva da Black Antecipada. A conta muda com o valor do carrinho: acima de R$ 299, a progressiva da campanha entra antes do cupom."
+        ]
+      },
+      {
+        "heading": "O que é o cupom da Toda Up",
+        "paragraphs": [
+          "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. O mesmo código existe em outras lojas; aqui, tudo o que está escrito é só sobre a Toda Up e vale só no site oficial, todaup.com.",
+          "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. Quando a loja tem uma promoção progressiva no ar, ela entra primeiro, e os 10% saem do que sobra."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/cupom-toda-up-catalogo.webp",
+          "alt": "Sutiã Comfort Slim, Top Segunda Pele SkinUp, Fita Up e Protetor de Silicone Ultrafino em três tamanhos, em fotos oficiais da Toda Up",
+          "caption": "O cupom vale em todo o site: sutiãs, tops, fitas e protetores. Montagem nossa com fotos da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9202
+        }
+      },
+      {
+        "heading": "1. Entre no site oficial pelo botão da parceria",
+        "paragraphs": [
+          "Use o botão desta página. Ele abre o site oficial da Toda Up com o cupom já aplicado; a linha de desconto deve aparecer no resumo do pedido sem digitar nada. Confira que o endereço é todaup.com."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha as peças e coloque no carrinho. O cupom não entra na página do produto: ele aparece no resumo do pedido. Os preços da página do produto já trazem o desconto do site, quando há; em 26/10/2026, o Sutiã Comfort Up aparecia por R$ 170,91, de R$ 199,90."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-sutia-comfort-line.webp",
+          "alt": "Sutiã Comfort Line rosa da Toda Up, sem alças, em foto oficial da loja",
+          "caption": "O Sutiã Comfort Line, a segunda peça do carrinho de teste. Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "3. Confira a linha do cupom ou cole o código",
+        "paragraphs": [
+          "No resumo do pedido, procure a linha de desconto com o código MAUAD. Se ela não estiver lá, cole o código no campo de cupom ou desconto, no checkout, e aplique. Quando o cupom entra, a linha de desconto aparece e o total cai.",
+          "Se a loja tiver uma promoção progressiva no ar, ela aparece como outra linha de desconto, automática."
+        ]
+      },
+      {
+        "heading": "4. Confira o total antes de pagar",
+        "paragraphs": [
+          "Confira três valores: o subtotal, as linhas de desconto e o total. No teste de 26/10/2026, com um Comfort Up, o subtotal foi R$ 170,91, o desconto do cupom R$ 17,09 e o total R$ 153,82. Se os números não baterem, refaça a colagem do código antes de seguir."
+        ]
+      },
+      {
+        "heading": "O teste no carrinho em 26/10/2026",
+        "paragraphs": [
+          "No carrinho, em 26/10/2026, sem finalizar a compra, a tela mostrou estes números:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Carrinho",
+            "Subtotal",
+            "Progressiva da loja",
+            "Cupom da Toda Up (10%)",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Sutiã Comfort Up",
+              "R$ 170,91",
+              "Não entra (abaixo de R$ 299)",
+              "- R$ 17,09",
+              "R$ 153,82"
+            ],
+            [
+              "Sutiã Comfort Up + Sutiã Comfort Line",
+              "R$ 360,81",
+              "- R$ 43,28 (12% OFF acima de R$ 299)",
+              "- R$ 31,75",
+              "R$ 285,78"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No primeiro carrinho, os 10% entraram sobre o preço promocional do Comfort Up, que já estava de R$ 199,90 por R$ 170,91. No segundo, o Comfort Line (R$ 189,90) levou o carrinho acima de R$ 299, e a loja aplicou sozinha a linha \"Flash Sale · 12% OFF acima de R$ 299\". O cupom entrou depois, sobre o que sobrou.",
+          "São valores de um dia. A loja pode mudar a promoção sem aviso, então confira a conta no seu resumo."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/cupom-toda-up-conta-carrinho-2610.webp",
+          "alt": "Quadro com os dois carrinhos do teste na Toda Up: Comfort Up de R$ 170,91 por R$ 153,82 com o cupom, e Comfort Up mais Comfort Line de R$ 360,81 por R$ 285,78 com a progressiva e o cupom",
+          "caption": "Números da tela do carrinho em 26/10/2026, sem finalizar a compra. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.2099
+        }
+      },
+      {
+        "heading": "O cupom e a Black Antecipada",
+        "paragraphs": [
+          "Em 26/10/2026, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entra primeiro, automática, e o cupom tira 10% do que sobra. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026."
+        ]
+      },
+      {
+        "heading": "Quanto fica com o cupom",
+        "paragraphs": [
+          "Os preços do site em 26/10/2026 estão na tabela do [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). Nos 10% do cupom, é conta nossa: o Comfort Line e o Comfort Slim (R$ 189,90) ficam em R$ 170,91 e a Fita Up (R$ 119,90) em R$ 107,91, cada um comprado sozinho, abaixo de R$ 299. Só o Comfort Up (R$ 153,82) é resultado do teste."
+        ]
+      },
+      {
+        "heading": "Frete, despacho e troca",
+        "paragraphs": [
+          "O frete é calculado pelo CEP, no checkout, por Sedex, Loggi ou Jadlog. Segundo a política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento.",
+          "A troca de modelo, tamanho ou cor e a devolução por arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-slim.webp",
+          "alt": "Guia de medidas do Sutiã Comfort Slim da Toda Up, com tamanhos de PP a GG, sob busto e busto em centímetros",
+          "caption": "Guia de medidas do Sutiã Comfort Slim, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "O que não testamos",
+        "paragraphs": [
+          "Não finalizamos nenhuma compra, e não testamos o cupom com mais de uma unidade do mesmo produto nem em kits. O limite de cupons por pedido e as exceções de produto a loja não publica: confira no carrinho, depois de aplicar o código."
+        ]
+      },
+      {
+        "heading": "Quando o cupom vale a pena",
+        "paragraphs": [
+          "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; acima de R$ 299, a progressiva da campanha faz mais, e o cupom ainda tira 10% do que sobra.",
+          "Antes de comprar, leia [Toda Up é confiável?](/reviews/toda-up-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up.",
+          "O cupom Toda Up vale em produto em promoção? Sim. No carrinho, em 26/10/2026, os 10% entraram sobre um Sutiã Comfort Up que já estava de R$ 199,90 por R$ 170,91.",
+          "O cupom soma com a promoção da Black Antecipada? Sim. No teste de 26/10/2026, a progressiva de 12% entrou primeiro e o cupom tirou 10% do que sobrou: o carrinho de R$ 360,81 ficou em R$ 285,78.",
+          "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
+          "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
+          "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "slug": "black-friday-toda-up",
+    "locale": "pt",
+    "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom",
+    "seoTitle": "Black Friday Toda Up 2026: Black Antecipada e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "26 de outubro de 2026",
+    "publishedAtISO": "2026-10-26",
+    "draft": false,
+    "isNew": true,
+    "description": "A Black Antecipada da Toda Up em 26/10/2026: desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, o cupom da Toda Up somando, três carrinhos de exemplo e os preços para comparar.",
+    "metaDescription": "Black Friday Toda Up 2026: a Black Antecipada dá 12%, 15% ou 20% pelo carrinho e o cupom de 10% soma. Veja três carrinhos e os preços de 26/10/2026.",
+    "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
+    "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os preços no site da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e confira o total com a progressiva antes de pagar.",
+      "label": "Ir para a Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Preços conferidos no site da loja em 26/10/2026. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "toda-up-e-confiavel",
+        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "toda-up-reclame-aqui-nota-reputacao",
+        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Toda Up já está em campanha: em 26/10/2026, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, sem datas publicadas. O cupom da Toda Up, MAUAD, de 10%, somou com a progressiva no carrinho. O que muda a decisão é o valor do carrinho; veja os três carrinhos abaixo."
+        ]
+      },
+      {
+        "heading": "O que o site mostra hoje",
+        "paragraphs": [
+          "Em 26/10/2026, a faixa do topo e o carrossel da home da Toda Up anunciavam a \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site. O \"até 20%\" é a frase da faixa; o percentual que entra no seu carrinho depende das faixas abaixo.",
+          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Por isso, todo número deste guia vem com a data de 26/10/2026.",
+          "O desconto da campanha é progressivo e entra sozinho no carrinho, sem código, pelo subtotal dos produtos:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Subtotal do carrinho",
+            "Desconto da campanha"
+          ],
+          "rows": [
+            [
+              "Acima de R$ 299",
+              "12%"
+            ],
+            [
+              "Acima de R$ 399",
+              "15%"
+            ],
+            [
+              "Acima de R$ 499",
+              "20%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No carrinho do teste, a linha do desconto apareceu como \"Flash Sale · 12% OFF acima de R$ 299\". Abaixo de R$ 299, a campanha não tira nada, e sobra só o cupom."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
+          "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
+          "caption": "As faixas da promoção progressiva no banner da home da Toda Up, em 26/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 5
+        }
+      },
+      {
+        "heading": "O cupom soma com a campanha",
+        "paragraphs": [
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho, em 26/10/2026, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. A loja pode mudar a regra de soma durante a campanha; o passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+        ]
+      },
+      {
+        "heading": "Três carrinhos com os preços de 26/10/2026",
+        "paragraphs": [
+          "Os três carrinhos usam o Sutiã Comfort Up (R$ 170,91 em 26/10/2026) e o Sutiã Comfort Line (R$ 189,90). Os carrinhos A e B são os do teste no carrinho, em 26/10/2026, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Carrinho",
+            "Itens",
+            "Subtotal",
+            "Campanha",
+            "Cupom (10%)",
+            "Total"
+          ],
+          "rows": [
+            [
+              "A (teste)",
+              "Comfort Up",
+              "R$ 170,91",
+              "nenhum, abaixo de R$ 299",
+              "R$ 17,09",
+              "R$ 153,82"
+            ],
+            [
+              "B (teste)",
+              "Comfort Up + Comfort Line",
+              "R$ 360,81",
+              "12%: R$ 43,28",
+              "R$ 31,75",
+              "R$ 285,78"
+            ],
+            [
+              "C (conta)",
+              "3 × Comfort Up",
+              "R$ 512,73",
+              "20%: R$ 102,55",
+              "R$ 41,02",
+              "R$ 369,16"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No carrinho B, os dois descontos juntos tiraram R$ 75,03 de R$ 360,81, perto de 21%. No carrinho C, a conta chega a 28% do subtotal, mas é conta: confira no seu carrinho se três unidades do mesmo item entram com esse desconto antes de contar com ele.",
+          "A faixa de 15% (acima de R$ 399) fica entre o carrinho B e o C. A regra é a mesma: 15% sobre o subtotal, e o cupom sobre o que sobra."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/black-friday-toda-up-tres-carrinhos.webp",
+          "alt": "Quadro com três carrinhos da Toda Up: Comfort Up por R$ 153,82, Comfort Up mais Comfort Line por R$ 285,78 e três Comfort Up por R$ 369,16, com a progressiva e o cupom",
+          "caption": "Os carrinhos A e B são do teste de 26/10/2026; o C é conta nossa com a faixa de 20%. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0797
+        }
+      },
+      {
+        "heading": "Preços de 26/10/2026 para comparar",
+        "paragraphs": [
+          "Estes são os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostra o preço \"de\", a tabela traz os dois."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço \"de\"",
+            "Preço de venda"
+          ],
+          "rows": [
+            [
+              "Top Alça Fina Segunda Pele SkinUp",
+              "R$ 199,90",
+              "R$ 179,90"
+            ],
+            [
+              "Sutiã Comfort Slim",
+              "R$ 199,90",
+              "R$ 189,90"
+            ],
+            [
+              "Sutiã Comfort Up",
+              "R$ 199,90",
+              "R$ 170,91"
+            ],
+            [
+              "Sutiã Clássico Segunda Pele SkinUp",
+              "não mostra",
+              "R$ 219,90"
+            ],
+            [
+              "Sutiã Comfort Line",
+              "R$ 199,90",
+              "R$ 189,90"
+            ],
+            [
+              "Top Segunda Pele SkinUp",
+              "R$ 199,90",
+              "R$ 152,91"
+            ],
+            [
+              "Top Triangular Cotton Up",
+              "R$ 189,90",
+              "R$ 149,90"
+            ],
+            [
+              "Top Faixa Cotton Up",
+              "R$ 189,90",
+              "R$ 149,90"
+            ],
+            [
+              "Calcinha Fio Dental SkinUp",
+              "R$ 59,90",
+              "R$ 49,90"
+            ],
+            [
+              "Calcinha Fio Dental Cós Alto SkinUp",
+              "R$ 59,90",
+              "R$ 49,90"
+            ],
+            [
+              "Calcinha Biquíni SkinUp",
+              "R$ 59,90",
+              "R$ 44,91"
+            ],
+            [
+              "Calcinha Cós Alto SkinUp",
+              "R$ 59,90",
+              "R$ 44,91"
+            ],
+            [
+              "Calcinha Biquíni Cotton Up",
+              "R$ 59,90",
+              "R$ 39,90"
+            ],
+            [
+              "Protetor de Silicone Ultrafino",
+              "R$ 99,90",
+              "R$ 69,90"
+            ],
+            [
+              "Sutiã de Silicone Invisível",
+              "R$ 199,90",
+              "R$ 149,90"
+            ],
+            [
+              "Fita Up",
+              "R$ 179,90",
+              "R$ 119,90"
+            ],
+            [
+              "Case Protetor de Silicone",
+              "R$ 79,90",
+              "R$ 49,90"
+            ],
+            [
+              "Kit Top Faixa ou Triangular + Calcinha Biquíni Cotton Up",
+              "R$ 189,80",
+              "R$ 170,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em 26/10/2026, os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday.",
+          "Para passar da faixa de R$ 299 com peças pequenas, as calcinhas ajudam: o Comfort Up com três Calcinhas Biquíni SkinUp (R$ 134,73) dá R$ 305,64 e entra nos 12%. É conta com os preços da tabela, não teste."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/black-friday-toda-up-catalogo.webp",
+          "alt": "Sutiã de Silicone Invisível, Protetor de Silicone Ultrafino em três cores, Sutiã Comfort Line e Top Segunda Pele SkinUp, em fotos oficiais da Toda Up",
+          "caption": "Quatro itens da tabela de preços. Montagem nossa com fotos da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9202
+        }
+      },
+      {
+        "heading": "Frete, prazo e troca",
+        "paragraphs": [
+          "A loja libera frete grátis em campanhas, como a Black Antecipada de outubro de 2026. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+          "Pela política de frete da loja, lida em 26/10/2026, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
+          "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-comfort-line.webp",
+          "alt": "Guia de medidas do Sutiã Comfort Line da Toda Up, com tamanhos de P a G1, sob busto e busto em centímetros",
+          "caption": "Guia de medidas do Sutiã Comfort Line, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Antes de pagar",
+        "paragraphs": [
+          "Vale na campanha e fora dela:"
+        ],
+        "bullets": [
+          "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
+          "Veja se o subtotal passou de R$ 299, R$ 399 ou R$ 499 e se a linha da campanha apareceu no carrinho.",
+          "Aplique o cupom e confira o total: os 10% saem depois do desconto da campanha.",
+          "Confira o frete e o prazo pelo seu CEP.",
+          "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-guia-medidas-protetor-silicone.webp",
+          "alt": "Guia de medidas do Protetor de Silicone Ultrafino da Toda Up: P de 8 cm para 34/46, M de 10 cm para 46/50 e G de 12 cm para 50/54",
+          "caption": "Guia de medidas do Protetor de Silicone Ultrafino, do site da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "Em 26/10/2026, o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5 nos 6 meses de 01/04 a 30/09/2026. Os números completos, com o que muda entre os períodos, estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Comprar agora ou esperar novembro",
+        "paragraphs": [
+          "A loja não publica quanto tempo a Black Antecipada dura, nem anunciou outra regra para 27/11. Em 26/10/2026, o desconto da campanha e o cupom já saíam no carrinho, e a tabela desta data é a régua para comparar.",
+          "Quem já sabe o que quer e passa da faixa de R$ 299 tem a conta deste guia. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Toda Up tem Black Friday? Sim. Em 26/10/2026, o site já mostrava a campanha \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20%. A loja não publica a data de início nem a de fim.",
+          "O cupom da Toda Up vale na Black Antecipada? Valeu no carrinho, em 26/10/2026: os 10% do cupom saíram depois do desconto da campanha. A regra pode mudar durante a campanha.",
+          "Quanto dá o desconto da campanha? 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal dos produtos. Abaixo de R$ 299, só o cupom.",
+          "A Black Antecipada tem frete grátis? Em 26/10/2026, a faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
+          "Vale esperar o dia 27/11? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de 26/10/2026 deste guia."
+        ]
+      }
+    ]
   }
 ];

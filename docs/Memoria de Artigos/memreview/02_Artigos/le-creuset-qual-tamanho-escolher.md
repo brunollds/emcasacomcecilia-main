@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "-"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 80
