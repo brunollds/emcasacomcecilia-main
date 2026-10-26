@@ -211,6 +211,9 @@ Bruno (25/10/2026) aprovou as recomendações da sessão de pautas em todos os i
 
 ---
 
+
+**Depois da publicação (Bruno, 25/10/2026, "Sim"):** a seção "Código e onde comprar" vai para depois das Perguntas frequentes, antes da Nota de transparência.
+
 ## Achados para a sessão de artigos (não entram neste texto)
 - Taurina 400 mg × 500 mg no mesmo tamanho de dose (pergunta 1).
 - Página do Manga 500 g diz "Na versão de 300g, são 4 scoops" (copiada do 300 g). Página do Manga 300 g tem alt de foto "sabor tropical". Arte dos sachês Azedinha e Maçã tem alt "sabor manga".
@@ -523,15 +526,6 @@ A taurina é 500 mg por dose na maioria dos itens e 400 mg nos 500 g Azedinha Mo
 
 Quem tem condição de saúde fala com um médico ou nutricionista antes de tomar.
 
-## Código e onde comprar
-
-- **Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.
-- **Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).
-- **Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).
-- **Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).
-- **Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).
-- **Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br) (sponsored).
-
 ## Perguntas frequentes
 
 ### O Exquenta é bom?
@@ -545,6 +539,15 @@ Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela
 
 ### Qual é o cupom da Mais Mu?
 MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix.
+
+## Código e onde comprar
+
+- **Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.
+- **Mercado Livre:** o cupom não vale lá. O link da marca no Mercado Livre é o [meli.la/24RjvdP](https://meli.la/24RjvdP).
+- **Regras do cupom:** [página da Mais Mu no site](/cupons/mais-mu).
+- **Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).
+- **Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).
+- **Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br) (sponsored).
 
 ## Nota de transparência
 
