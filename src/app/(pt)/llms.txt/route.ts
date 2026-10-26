@@ -3,7 +3,9 @@ import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponLanguageLinks, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
+import { LOCALES } from '@/lib/i18n/locales';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
+import { REVIEW_HUB_LOCALES, getPublishedReviewsForLocale, getReviewHubPath } from '@/lib/review-hubs';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { videoPages } from '@/lib/video-pages';
 
@@ -55,6 +57,21 @@ function buildLlmsText(): string {
         locale === 'pt' ? 'pagina em pt-BR da loja' : 'pagina local da loja'
       )
     );
+  });
+
+  // Os 10 mais novos de cada idioma, na ordem da lista do idioma (/<locale>/reviews).
+  const localeReviewSections = REVIEW_HUB_LOCALES.flatMap((locale) => {
+    const localeReviews = getPublishedReviewsForLocale(locale, publishedReviews).slice(0, 10);
+    if (localeReviews.length === 0) return [];
+    return [
+      `## Artigos recentes em ${LOCALES[locale].label} (${locale})`,
+      '',
+      formatLink(`Lista completa (${locale})`, `${BASE_URL}${getReviewHubPath(locale)}`),
+      ...localeReviews.map((review) =>
+        formatLink(review.title, `${BASE_URL}${getReviewCanonicalPathname(review)}`, review.description)
+      ),
+      '',
+    ];
   });
 
   const localeHomeLinks = LOCALE_HOME_LOCALES.map((locale) =>
@@ -133,6 +150,7 @@ function buildLlmsText(): string {
     '',
     ...localeHomeLinks,
     '',
+    ...localeReviewSections,
     '## Paginas multilíngues de cupons',
     '',
     formatLink(
