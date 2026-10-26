@@ -236,3 +236,7 @@ FAQ:
 - Bruno confirmou (14/10/2026): tomada USB e suporte por indução para celular e tablet são opcionais do sofá dela.
 - Ajustes de texto: CDC e garantia, janelas do Reclame Aqui (6 meses x até 3 anos), sem generalizar para o setor, rótulos de link com o título exato, sem bastidor, menos repetição.
 - Imagens: 4 prints do Reclame Aqui no CDN (sem marca-texto); fotos da Cecília já publicadas.
+
+## Ajuste de 26/10/2026 (decisão do Bruno)
+
+Garantia da Inflow corrigida para "3 meses na ficha do produto; 90 dias para relatar defeito na política" (tabela, capítulo de garantia e FAQ), pela leitura de 25/10 da pauta `valley-inflow-ou-damie`. Nota da Inflow no Reclame Aqui atualizada para 8,5 (releitura de 25/10/2026, mesmo período de 01/04 a 30/09/2026); o print de 14/10, que mostra 8,6, ficou e o texto avisa a diferença. O "Qual escolher" ganhou o link para `valley-inflow-ou-damie` (#298).
