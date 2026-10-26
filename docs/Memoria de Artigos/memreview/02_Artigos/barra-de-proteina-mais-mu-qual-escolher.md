@@ -8,9 +8,9 @@ coupon: "MMEMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e sabores na Black Friday"
 bloqueado_por: null
 data_criacao: "2026-10-25"
 i18n_cluster: null

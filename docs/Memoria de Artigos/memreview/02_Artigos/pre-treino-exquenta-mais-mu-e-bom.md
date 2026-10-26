@@ -6,9 +6,9 @@ parceiro: "[[Mais-Mu]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preço e estoque do Azedinha 500 g e do Lilith 500 g (estoque baixo em 25/10); reler preços na Black Friday"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 70
