@@ -1,7 +1,7 @@
 # Rastreamento de datas mensais dos cupons
 
 > Documento de referência para facilitar a atualização mensal das referências de cupons no projeto.
-> Última atualização: 24/10/2026.
+> Última atualização: 26/10/2026.
 >
 > A data só deve avançar após verificação real ou confirmação direta da parceria, conforme
 > `docs/MANUTENCAO-MENSAL.md`. Este arquivo é o inventário dos locais; a rotina de verificação
@@ -30,7 +30,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | Slug | Marca | Código | Campos a verificar |
 |---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified`, `metaDescription`, `longDescription` (título sem mês) |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` (10% desde 26/10/2026, a partir de R$ 100) | `lastVerified`, `metaDescription`, `longDescription` (título sem mês); o percentual também está em 15 artigos (lista no fim de `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`) |
 | `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual. Os cupons da loja trocam a cada 3 dias, mais ou menos: cadência própria na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified`, `metaTitle`, `metaDescription`, `longDescription` |

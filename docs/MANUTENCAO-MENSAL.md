@@ -50,14 +50,16 @@ depende do tipo:
   Sem o teste, o título fica no mês corrente. Os de ciclo (abaixo) só antecipam com a condição do
   próximo ciclo confirmada.
 - **De ciclo (têm data de término real):** `dolce-gusto` e `nestle-nutre` (ambos `CECI`). Em
-  01/10/2026, as condições atuais foram reconfirmadas para outubro de 2026. Aqui a
+  26/10/2026, o Bruno confirmou o ciclo de novembro de 2026 e os dois foram testados no carrinho. Aqui a
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
   responsável pela parceria confirmar. Sem confirmação, manter a última data verdadeira e
   reduzir a promessa (ver seção 12).
-  O mesmo código `CECI` tem percentuais diferentes por loja: desde 04/10/2026, 10% na Nestlé
-  Nutre e 5% na Dolce Gusto. Nunca trocar o percentual de uma loja pela busca de "CECI" sem
-  separar as duas. Os 10% da Nestlé Nutre ainda não foram confirmados como fixos; o mapa para
-  voltar a 5% está em `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`.
+  O mesmo código `CECI` vale nas duas lojas com regras diferentes: 10% na Nestlé Nutre desde
+  04/10/2026, sem valor mínimo, e 10% na Dolce Gusto desde o teste de 26/10/2026 (antes 5%),
+  em compras a partir de R$ 100. Nunca trocar o percentual ou o mínimo de uma loja pela busca de
+  "CECI" sem separar as duas. O mapa para voltar a Nestlé Nutre a 5% está em
+  `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`; os 15 artigos da Dolce Gusto que citam o
+  percentual estão listados no fim desse mesmo arquivo.
 
 ### No último dia útil ou no dia 1
 
@@ -111,7 +113,7 @@ Para cada oferta ativa, reconferir:
 | Slug | Marca | Benefício principal | Fonte adicional | Observação mensal |
 |---|---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta. Desde 08/10/2026, artigos e a vitrine da home linkam `/cupons/damie` como nas outras lojas; o menu linka o subdomínio. |
-| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual, mínimo, limite por CPF e acúmulo. |
+| `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual (10% desde 26/10/2026; antes 5%), mínimo de R$ 100 (abaixo, a loja recusa), limite por CPF e acúmulo. A loja é Magento: o carrinho de visitante da API REST (`/rest/V1/guest-carts`) aceita o teste sem dados pessoais. |
 | `yesstyle` | YesStyle | `CECILIA010` | `data/coupons/yesstyle.json` | A fonte factual é separada; `src/lib/yesstyleCoupons.ts` faz a leitura tipada e alimenta os getters em `couponsData.ts`. |
 | `nestle-nutre` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
