@@ -123,7 +123,7 @@
           [
             "Garantia",
             "1 ano; depois suporte vitalício e peças a preço de custo",
-            "90 dias",
+            "3 meses na ficha; 90 dias para relatar defeito na política",
             "3 meses"
           ],
           [
@@ -141,7 +141,7 @@
           [
             "Reclame Aqui, 6 meses",
             "Ótima, nota 8,3",
-            "RA1000, nota 8,6",
+            "RA1000, nota 8,5",
             "Regular, nota 6,1"
           ]
         ]
@@ -185,7 +185,7 @@
       ],
       "postParagraphs": [
         "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, o arrependimento só vale com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, o sofá não se troca por motivo pessoal: só pela garantia, em caso de defeito. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver precisa decidir antes de abrir a caixa.",
-        "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 90 dias. O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá. A garantia de 3 meses da Sofá na Caixa e a de 90 dias da Inflow têm esse mesmo prazo; a da DAMIE (1 ano) é a única que passa dele."
+        "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha do produto (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá. As garantias da Sofá na Caixa e da Inflow têm esse mesmo prazo; a da DAMIE (1 ano) é a única que passa dele."
       ]
     },
     {
@@ -255,7 +255,7 @@
     {
       "heading": "E a reputação das três no Reclame Aqui?",
       "paragraphs": [
-        "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos em 14/10/2026.",
+        "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos em 14/10/2026. A nota da Inflow foi relida em 25/10/2026: 8,5 (o print abaixo, de 14/10, mostra 8,6).",
         "Hoje **a Inflow tem o melhor selo** (RA1000) e a maior taxa de solução, 94%. A DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
       ],
       "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
@@ -281,7 +281,7 @@
           [
             "Nota",
             "8,3",
-            "8,6",
+            "8,5",
             "6,1"
           ],
           [
@@ -403,8 +403,8 @@
         "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
         "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado e 10 dias de teste em casa; a Inflow não dá teste além dos 7 dias do CDC.",
         "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
-        "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 90 dias e a Sofá na Caixa, 3 meses.",
-        "Posso devolver o sofá da Inflow depois de abrir? Por arrependimento, não. A política da Inflow só aceita a devolução com o produto lacrado, e o frete de volta é do cliente. Depois de aberto, só pela garantia de 90 dias, em caso de defeito.",
+        "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 3 meses na ficha do produto (90 dias na política) e a Sofá na Caixa, 3 meses.",
+        "Posso devolver o sofá da Inflow depois de abrir? Por arrependimento, não. A política da Inflow só aceita a devolução com o produto lacrado, e o frete de volta é do cliente. Depois de aberto, só pela garantia de 3 meses (90 dias), em caso de defeito.",
         "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto.",
         "Qual entrega no Norte e no Nordeste? A DAMIE atende Norte e Nordeste pelo Mercado Livre, e o frete grátis dela vale no Sul e no Sudeste. A Inflow publica frete grátis só no Sul e no Sudeste. Confira o frete com o seu CEP no carrinho antes de fechar."
       ]
