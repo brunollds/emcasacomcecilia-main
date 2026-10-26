@@ -4,6 +4,7 @@ import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponLanguageLinks, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
+import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { videoPages } from '@/lib/video-pages';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
@@ -25,19 +26,9 @@ function formatLink(label: string, href: string, description?: string): string {
   return `- ${safeLabel}: ${href}${suffix}`;
 }
 
-function reviewTimestamp(review: (typeof publishedReviews)[number]): number {
-  const rawDate = review.publishedAtISO ?? review.publishedAt;
-  const timestamp = rawDate ? Date.parse(rawDate) : 0;
-
-  return Number.isNaN(timestamp) ? 0 : timestamp;
-}
-
 function buildLlmsText(): string {
-  const listedReviews = publishedReviews
-    .filter((review) => !review.hideFromListings)
-    .sort((a, b) => reviewTimestamp(b) - reviewTimestamp(a));
-
-  const recentReviews = listedReviews.slice(0, 10);
+  // A mesma ordem da vitrine: só PT, data mais nova e, no mesmo dia, o id maior primeiro.
+  const recentReviews = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews)).slice(0, 20);
   const highlightedRecipes = recipes
     .filter((recipe) => recipe.isPopular || recipe.isNew)
     .sort((a, b) => Number(Boolean(b.isNew)) - Number(Boolean(a.isNew)) || b.id - a.id)
