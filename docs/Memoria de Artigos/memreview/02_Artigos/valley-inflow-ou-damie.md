@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "json"
-responsavel: "Job-2"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "decidir a garantia da Inflow (3 meses na ficha, 90 dias no 14/10) e a nota do Reclame Aqui no artigo de 14/10; reler preços na Black Friday"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
