@@ -45,6 +45,8 @@ promoção progressiva (−R$ 43,28) e mais 10% do MAUAD (−R$ 31,75): R$ 285,7
 
 ## 3. Alertas Editoriais
 
+- **Empresa e reputação (lidas no Chrome em 26/10/2026):** FITA UP LTDA, CNPJ 40.159.443/0001-44, desde 18/12/2020, ativa, Biguaçu/SC (BrasilAPI); "Toda Up" é a marca nova da mesma empresa (FAQ da loja). Reclame Aqui `empresa/toda-up` com o mesmo CNPJ: RA1000, nota 8,5 (01/04 a 30/09/2026), 93,1% resolvidas. Campanha no ar: "Black Antecipada" (até 20% OFF, frete grátis, 3x sem juros), sem datas publicadas. O /products.json traz cópias por canal ("- Todalovers", "- Influ", "- Oferta Exclusiva"): preço só pelas coleções públicas. Termos de uso e privacidade da loja ficam fora dos textos. Briefings [[toda-up-e-confiavel]], [[toda-up-reclame-aqui-nota-reputacao]], [[cupom-toda-up-como-usar]] e [[black-friday-toda-up]].
+
 - Nos artigos deste parceiro, usar `affiliate: "toda-up"` e link relativo para `/cupons/toda-up`,
   conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`. Os artigos de onboarding passam primeiro pela pauta
   (Job 1) e depois pela sessão de artigos.
