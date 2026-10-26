@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]], [[Black-Skull]], [[Max-Titanium]], [[Probiotica]] e [[
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "redacao"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços e estoque na Black Friday"
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 75

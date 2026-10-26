@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços na Black Friday"
 bloqueado_por: null
 score_autoridade: 66
 score_conversao: 80

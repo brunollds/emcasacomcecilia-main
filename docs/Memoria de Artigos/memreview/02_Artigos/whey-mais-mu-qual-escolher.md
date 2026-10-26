@@ -6,9 +6,9 @@ parceiro: "[[Mais-Mu]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "json"
-responsavel: "Claude"
-proxima_acao: "revisao-editorial"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "reler preços dos wheys de parceria, do isolado e dos sachês na Black Friday"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 74
