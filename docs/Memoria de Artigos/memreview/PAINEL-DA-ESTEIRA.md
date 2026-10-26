@@ -11,6 +11,7 @@
 - [ ] [[barra-de-proteina-mais-mu-qual-escolher]]: barrinhas e wafers da Mais Mu (Mukebar, Crush Bar e Chocowheyfer), proteína, açúcar e preço por unidade; Bites fora (PT)
 - [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
 - [ ] [[presente-natal-quem-treina]]: presente de Natal para quem treina, kits e lembranças de Dr. Peanut, Black Skull, Max Titanium, Probiótica e Skelt por perfil e faixa de preço; sem `affiliate`, um bloco "Onde comprar" por loja; sem prazo de Natal (nenhuma loja publica) (PT)
+- [ ] [[valley-inflow-ou-damie]]: Valley Modular (Valley Art), Inflow ou DAMIE, sofá que chega na caixa: como chega, devolução, garantia, preço no cartão em configurações equivalentes e Reclame Aqui; Valley e Inflow sem link, cupom, foto ou print (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---

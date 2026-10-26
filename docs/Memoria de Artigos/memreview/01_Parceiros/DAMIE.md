@@ -118,6 +118,8 @@ Buscas do autocomplete cobertas pelos artigos de amamentação: com balanço, co
 reclinável elétrica, com balanço e giro, pequena e compacta, barata, Mercado Livre, usada e OLX,
 com encosto de cabeça, qual a melhor, vale a pena.
 
+- **Valley Modular (25/10/2026):** concorrente nova (Valley Art LTDA., CNPJ 30.105.567/0001-93, Hortolândia/SP, desde 2018), sofá 100% espuma compactado a vácuo, linhas Modu e Mood; garantia de 6 meses só na ficha, devolução em 7 dias na embalagem original; Reclame Aqui sem reputação definida. Na série, sem link, cupom, foto ou print. O teste de 30 dias da DAMIE exige a embalagem preservada ("Sem a embalagem preservada, não coletamos"). Briefing [[valley-inflow-ou-damie]].
+
 ---
 
 ## 4. Artigos Já Publicados no Cluster
