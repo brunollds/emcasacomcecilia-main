@@ -6,7 +6,7 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "em-revisao"
 responsavel: "Claude"
 proxima_acao: "redacao"
 bloqueado_por: null
@@ -184,3 +184,171 @@ Sem navegador nesta leitura: a loja e a oficial foram lidas por HTTP, sem login 
 4. Preço só da 20 e da 24 cm, com data, dizendo que a conta por litro usa o preço cheio (há cores em promoção: 20 cm Laranja/Vermelha R$ 1.979,65; 24 cm Vermelha R$ 2.506,65); link para a tabela completa de [[black-friday-letseatit]]. Exemplo de cupom + Pix com a 24 cm (R$ 2.661,47), não a 20 cm, que já está no guia de Black Friday.
 5. Buffet em seção própria pela ficha: 26 cm (2,2 L, R$ 2.345,15 em Vermelha/Laranja), 30 cm (3,5 L; Laranja R$ 2.549,15), 32 cm e Oval 35 cm se seguirem disponíveis. Uso só como a marca descreve ("do forno para a mesa como peça de servir"); fora "fritar ou refogar".
 6. Capa com composição nova (a foto Cotton já é capa de dois artigos). Redação junto com [[le-creuset-original-como-saber]], com links entre as duas.
+
+
+## Rascunho do artigo (Job 2, 26/10/2026)
+
+Redação em dois blocos por Sonnet 5.5, juntada e revisada pelo Claude; correções do Job 3 já aplicadas. Os marcadores `[IMAGEM]` do texto são o plano original; o que vale é a tabela de capa e imagens abaixo.
+
+# Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)
+
+## Resposta rápida
+Para receita de até 2 L, a 20 cm (2,4 L) basta; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O que muda a escolha é o volume da panela que você já usa, medido abaixo; para servir à mesa, vale o buffet.
+
+## Os tamanhos da Panela Redonda Signature
+A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a ficha da loja publica para cada tamanho.
+
+A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão.
+
+| Diâmetro | Capacidade (ficha da loja) | Cores disponíveis em 26/10/2026 |
+|---|---|---|
+| 16 cm | 1,3 L | 3 de 4 |
+| 18 cm | 1,8 L | nenhuma (6 esgotadas) |
+| 20 cm | 2,4 L | 5 de 8 |
+| 22 cm | 3,3 L | 4 de 8 |
+| 24 cm | 4,2 L | 3 de 6 |
+| 26 cm | 5,3 L | 4 de 7 |
+| 28 cm | 6,7 L | 2 de 6 |
+| 30 cm | 8,4 L | 1 de 3 |
+| 34 cm | 12 L | 1 de 1 |
+
+Do 16 ao 28 cm, cada tamanho acrescenta de 0,5 a 1,4 L ao anterior. Do 28 ao 30 cm o acréscimo é de 1,7 L, e o 34 cm tem 12 L. Estoque muda de um dia para o outro: a coluna das cores é a leitura de 26/10/2026.
+
+[IMAGEM: quadro de litros desenhado por nós, com a silhueta de cada diâmetro (16 a 34 cm) em escala e a capacidade escrita embaixo | arte própria, a partir das medidas da tabela | Quadro com os tamanhos da Panela Redonda Signature da Le Creuset, de 16 a 34 cm, e a capacidade em litros de cada um | Os tamanhos da Redonda Signature na Let's Eat It, pela ficha da loja]
+
+## Le Creuset 20 ou 24 cm: a diferença lado a lado
+A 24 cm tem 1,8 L a mais que a 20 cm: 4,2 L contra 2,4 L, ou 75% de capacidade extra. No preço cheio de 26/10/2026, o acréscimo é de R$ 620, cerca de 27%. Por isso a conta por litro favorece a maior.
+
+| | 20 cm | 24 cm | Diferença |
+|---|---|---|---|
+| Capacidade (ficha da loja) | 2,4 L | 4,2 L | +1,8 L (+75%) |
+| Preço cheio em 26/10/2026 | R$ 2.329 | R$ 2.949 | +R$ 620 (+26,6%) |
+| Preço por litro no preço cheio (conta nossa) | R$ 970 | R$ 702 | -28% por litro |
+| Cores disponíveis em 26/10/2026 | Azure Blue, Berry, Cool Mint (preço cheio); Laranja e Vermelha (15% de desconto) | Berry, Cotton (preço cheio); Vermelha (15% de desconto) | |
+| Cores esgotadas em 26/10/2026 | Chambray, Cotton, Rhône | Azure Blue, Laranja, Rhône | |
+| Cor em desconto de 15% | Laranja e Vermelha: R$ 1.979,65 | Vermelha: R$ 2.506,65 | +R$ 527 (+26,6%) |
+
+A conta por litro da tabela usa o preço cheio. Com a cor em desconto, o preço por litro cai nos dois tamanhos: R$ 825 na 20 cm Laranja ou Vermelha e R$ 597 na 24 cm Vermelha. Como os dois têm os mesmos 15%, a relação entre eles não muda: a 24 cm segue 28% mais barata por litro.
+
+O que muda a conta é misturar cores: a 24 cm Vermelha (R$ 2.506,65) custa só R$ 177,65 a mais que a 20 cm numa cor de preço cheio. A cor que você quer pesa tanto quanto o tamanho.
+
+Para a tabela completa de preços de outubro, com outros tamanhos e formatos, veja o [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit).
+
+[IMAGEM: montagem 20 × 24 cm lado a lado, com as fotos de produto da loja na mesma escala e as medidas (20 cm e 24 cm, 2,4 L e 4,2 L) como legenda sobre o fundo | fotos de produto da Let's Eat It (cores diferentes da Cotton, que já é capa de outros artigos), composição nova | Panelas Le Creuset Redonda Signature de 20 cm e de 24 cm lado a lado | A 20 cm (2,4 L) e a 24 cm (4,2 L) na mesma escala]
+
+## Como saber de quantos litros você precisa
+O número que decide é o litro, e o jeito mais seguro de chegar nele é medir o que você já usa.
+
+1. Pegue a panela que você mais usa no dia a dia. Encha de água até a borda com um copo medidor e anote os litros.
+2. Pense na receita mais cheia que você faz nela. Se ela chega perto da borda, ou você precisa mexer devagar para não derramar, a panela é pequena para o seu uso.
+3. Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre.
+4. Confira se a tampa fecha com folga. Receita que sobe, como arroz, sopa ou ensopado em fervura, precisa de espaço livre entre o líquido e a tampa.
+
+Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção.
+
+## Caçarola buffet: quando faz sentido
+
+A caçarola buffet é a Le Creuset de formato baixo e largo. A loja a descreve como uma peça de formato amplo e baixo, tão desejável para servir quanto indispensável para cozinhar. A marca fala em levá-la do forno para a mesa como peça de servir. É esse o papel dela: ir direto à mesa, sem trocar de travessa.
+
+Em 26/10/2026, a Let's Eat It tinha estes tamanhos, pela ficha da loja:
+
+- 26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).
+- 30 cm, 3,5 L, na cor Azure a R$ 2.999, e Laranja a R$ 2.549,15.
+- 32 cm, 4 L, esgotada nesse dia.
+
+A marca informa a linha de 22 a 32 cm.
+
+O formato aparece nos números. A buffet de 26 cm leva 2,2 L, menos que a redonda de 20 cm, que leva 2,4 L, mesmo sendo mais larga. A buffet ganha em diâmetro e perde em volume. A loja a põe entre o fogão, o forno e a mesa; a marca, do forno à mesa. Se o que você precisa é de litros, a redonda leva mais.
+
+[IMAGEM: montagem com a foto de produto da buffet de 30 cm (Azure) ao lado da redonda de 24 cm (Vermelha), na mesma escala, para mostrar a altura baixa | fotos de produto da Let's Eat It, composição nova | Caçarola buffet Le Creuset de 30 cm ao lado da Panela Redonda Signature de 24 cm | Buffet 30 cm (3,5 L): mais larga e mais baixa que a redonda de 24 cm (4,2 L)]
+
+## Outros formatos da Le Creuset na loja
+
+Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja em 26/10/2026. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela.
+
+- **Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.
+- **Oval:** 31 cm, 6,3 L. Laranja e Vermelha saíam a R$ 2.889,15 com o desconto de 15%; a Azure, a R$ 3.399. A Oval de 35 cm, 8 L, estava disponível na cor Vermelha a R$ 3.433,15.
+- **Para Risotto:** 30 cm, 6,2 L.
+- **Para Arroz:** 18 cm, 2 L, e 20 cm, 2,8 L.
+- **Marmita:** de 22 a 32 cm. A loja só informa os litros do 22 cm: 2,2 L.
+
+## Qual escolher: 20 cm, 24 cm ou buffet
+
+A escolha mais segura parte do volume da receita que você mais faz.
+
+- **Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar.
+- **Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.
+- **Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L).
+
+Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.
+
+A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.
+
+Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios de 26/10/2026.
+
+## Onde comprar e o cupom
+
+A Let's Eat It vende a linha Le Creuset, e a [página da loja](/cupons/letseatit) reúne as condições. O cupom MAUAD dá 5% no site, vale em Le Creuset e soma com os 5% do Pix.
+
+Exemplo com a 24 cm, conta nossa sobre o preço de 26/10/2026, sem frete: R$ 2.949 vira R$ 2.801,55 com o cupom e R$ 2.661,47 com o Pix. Aplique o cupom primeiro e depois o Pix.
+
+Para indução, forno, lava-louças e garantia, leia [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena). Para saber como conferir se a panela é original e onde comprar, veja o artigo irmão, [Le Creuset original: como saber](/reviews/le-creuset-original-como-saber).
+
+## Perguntas frequentes
+
+Qual a diferença entre a Le Creuset 20 e 24 cm? A 20 cm tem 2,4 L e a 24 cm tem 4,2 L, 1,8 L a mais pela ficha da loja. No preço cheio de 26/10, são R$ 2.329 e R$ 2.949.
+
+Quantos litros tem a Le Creuset 24 cm? A Redonda Signature de 24 cm tem 4,2 L, pela ficha da loja. A Redonda Funda de 24 cm tem 5,2 L.
+
+Qual o tamanho da caçarola buffet Le Creuset 30 cm? Ela tem 3,5 L, pela ficha da loja. O diâmetro é de 30 cm e o formato é baixo e largo.
+
+A caçarola buffet Le Creuset vai ao forno? A loja a põe entre o fogão, o forno e a mesa, e a marca a descreve para ir do forno para a mesa como peça de servir. Os cuidados de forno da linha estão no artigo sobre indução e forno, citado acima.
+
+Le Creuset 24 cm serve para fogão de indução? Sim, a marca diz que o ferro fundido serve em todas as fontes de calor. Os detalhes estão em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena).
+
+## Nota de transparência
+
+Ninguém do site usou as panelas citadas. Os dados vêm da ficha da loja e do site da marca, lidos em 26/10/2026, e preços e estoque mudam. A Let's Eat It é parceira do site, e podemos receber comissão por compras feitas pelos nossos links.
+
+## Claims usados (bloco A)
+- Redonda Signature 20 cm 2,4 L, 24 cm 4,2 L e demais capacidades (16 cm 1,3 L; 18 cm 1,8 L; 22 cm 3,3 L; 26 cm 5,3 L; 28 cm 6,7 L; 30 cm 8,4 L; 34 cm 12 L) | fatos-2610.md, seção 1, ficha da loja; revisão Fable, achado 1 (30 cm = 8,4 L, título e ficha batem)
+- Marca fabrica de 14 a 34 cm; loja sem 14 e 32 cm | fatos-2610.md, seções 1 e 4 (produto 21177)
+- Nem a marca nem a loja publicam porções por tamanho | fatos-2610.md, seção 3
+- Cores disponíveis por tamanho (16: 3/4; 18: 0/6; 20: 5/8; 22: 4/8; 24: 3/6; 26: 4/7; 28: 2/6; 30: 1/3; 34: 1/1), em 26/10/2026 | fatos-2610.md, seção 1
+- 20 cm R$ 2.329 e 24 cm R$ 2.949 no preço cheio; +R$ 620 (+26,6%); +1,8 L (+75%) | fatos-2610.md, seção 1 (20 cm contra 24 cm); revisão Fable, achado 3 (contas refeitas)
+- Preço por litro R$ 970 e R$ 702 (-28%), conta nossa sobre o preço cheio | fatos-2610.md, seção 1; revisão Fable, achado 3
+- Cores disponíveis e esgotadas da 20 e da 24 cm em 26/10/2026 | fatos-2610.md, seção 1 (linhas de cores)
+- 20 cm Laranja e Vermelha R$ 1.979,65; 24 cm Vermelha R$ 2.506,65 (15% de desconto) | briefing, Decisões do Bruno item 4; revisão Fable, achado 4
+- Contas nossas: 1.979,65/2,4 = R$ 825/L; 2.506,65/4,2 = R$ 597/L; 2.506,65 - 2.329 = R$ 177,65; 2.949 - 1.979,65 = R$ 969,35 (a 24 cm cheia fica 14,9% mais barata por litro que a 20 cm em desconto: 702 contra 825) | cálculo sobre fatos-2610.md, seção 1
+- Link para a tabela completa de preços | `/reviews/black-friday-letseatit` (briefing, seção 7)
+- Sem peso na tabela, sem preço na tabela de tamanhos | fatos-2610.md, seção 5, item 1 (peso sem fonte oficial)
+- Medir com água e copo medidor, tampa com folga | método prático nosso, sem fonte de porção (briefing, instruções do Bruno)
+- Buffet como "do forno para a mesa como peça de servir" | revisão Fable, achado 6 (oficial lecreuset.com.br)
+
+## Claims usados (bloco B)
+- Buffet: formato amplo e baixo, para servir e para cozinhar | revisao-fable-2610.md item 6 (texto da loja)
+- Buffet: "do forno para a mesa como peça de servir" | revisao-fable-2610.md item 6 (texto oficial, lecreuset.com.br produto 21180)
+- Buffet 26 cm 2,2 L; Petal Branco e Sea Salt no cheio; Vermelha/Laranja R$ 2.345,15 de R$ 2.759 | revisao-fable-2610.md itens 5 e 1; fatos-2610.md seção 2
+- Buffet 30 cm 3,5 L; Azure R$ 2.999; Laranja R$ 2.549,15 | revisao-fable-2610.md itens 1 e 5; fatos-2610.md seção 2
+- Buffet 32 cm 4 L esgotada; linha oficial de 22 a 32 cm | revisao-fable-2610.md item 5; fatos-2610.md seção 4
+- Redonda 20 cm 2,4 L (R$ 2.329), 24 cm 4,2 L (R$ 2.949), 26 cm 5,3 L (R$ 3.089) | fatos-2610.md seção 1
+- R$ 702 por litro (24 cm) contra R$ 970 (20 cm), preço cheio; +R$ 620 | fatos-2610.md seção 1 (20 contra 24), conta refeita na revisão item 3
+- Redonda Funda 24 cm 5,2 L esgotada | fatos-2610.md seção 2
+- Oval 31 cm 6,3 L, Laranja R$ 2.889,15; Oval 35 cm 8 L Vermelha R$ 3.433,15 | fatos-2610.md seção 2; revisao-fable-2610.md item 5
+- Risotto 30 cm 6,2 L | revisao-fable-2610.md item 1
+- Para Arroz 18 cm 2 L e 20 cm 2,8 L; Marmita 22 a 32 cm sem litros | fatos-2610.md seção 2
+- MAUAD 5%, vale em Le Creuset, soma com Pix; 24 cm R$ 2.801,55 e R$ 2.661,47 | fatos-2610.md seção 1; revisao-fable-2610.md item 3; briefing seção 6
+- Ferro fundido serve em todas as fontes de calor | instrução do coordenador (marca); detalhes em /reviews/le-creuset-vale-a-pena
+
+
+## Revisão Job 3 (Fable 5.1, 26/10/2026)
+
+Relatório completo em `le-creuset-qual-tamanho-escolher-revisao-job3-2610.md`. Todos os achados ALTA e MÉDIA e os BAIXA aceitos foram aplicados no rascunho acima, conferidos pelo Claude.
+
+## Capa e imagens (Job 6, aguardando aprovação do Bruno)
+
+| Imagem | Seção | Origem | Alt | Legenda |
+|---|---|---|---|---|
+| `le-creuset-qual-tamanho-escolher-capa-discover.webp` (capa, 1600×900, `imageFit: contain`) | — | Fotos de produto da Let's Eat It (Redonda Signature Vermelha 20 e 24 cm, `cdn.shopify.com`, 26/10/2026), proporção pelo diâmetro; faixa do gerador de capas, sem o código | Panelas Le Creuset Redonda Signature vermelhas de 20 cm (2,4 L) e 24 cm (4,2 L) lado a lado, com o logo da Let's Eat It | — |
+| `le-creuset-redonda-signature-litros-por-tamanho.webp` (1200×850) | Os tamanhos da Panela Redonda Signature | Quadro nosso, com a capacidade da ficha da loja | Quadro com a capacidade da Panela Redonda Signature da Le Creuset de 16 a 34 cm, com 20 cm (2,4 L) e 24 cm (4,2 L) em destaque | Capacidade de cada tamanho pela ficha da Let's Eat It, em 26/10/2026. Quadro nosso. |
+| `le-creuset-buffet-30-x-redonda-24.webp` (1600×530) | Caçarola buffet: quando faz sentido | Fotos de produto da Let's Eat It (Buffet Signature Azure 30 cm e Redonda Signature Vermelha 24 cm), montagem nossa, proporção aproximada pelo diâmetro | Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta | A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It. |
