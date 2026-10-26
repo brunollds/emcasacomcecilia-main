@@ -6,9 +6,9 @@ parceiro: "[[Let's Eat It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "-"
 bloqueado_por: "[PENDENTE: navegador] lecreuset.com (global) bloqueado; print do localizador de 02/10 a refazer"
 score_autoridade: 62
 score_conversao: 70
