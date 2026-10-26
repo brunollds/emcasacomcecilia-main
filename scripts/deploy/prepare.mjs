@@ -165,9 +165,12 @@ async function main() {
     );
   }
   console.log(`ARCHIVE_SHA256=${sha256}`);
-  console.log('\nPRÓXIMO PASSO (sessão Codex com MCP Hostinger):');
-  console.log(`  hosting_deployJsApplication domain=emcasacomcecilia.com archivePath=${archive}`);
-  console.log('  poll até state=completed e registre o build UUID');
+  console.log('\nPRÓXIMO PASSO (MCP da Hostinger; ver "Passo a passo" no docs/DEPLOY-GUIDE.md):');
+  console.log(
+    `  hosting_deploy domain=emcasacomcecilia.com path=${archive} type=nodejs nodeVersion=20 ` +
+      'appType=next rootDirectory=emcasacomcecilia outputDirectory=.next buildScript=build packageManager=npm',
+  );
+  console.log('  poll hosting_get-deployment até state=completed e registre o build UUID');
   console.log(
     `  npm run deploy:finish -- --target-sha ${after.headSha} --deploy-uuid ${deployUuid} --build-uuid <BUILD_UUID>`,
   );
