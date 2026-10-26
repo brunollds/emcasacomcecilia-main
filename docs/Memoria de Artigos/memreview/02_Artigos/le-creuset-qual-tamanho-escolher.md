@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "em-revisao"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 80
@@ -345,10 +345,16 @@ Ninguém do site usou as panelas citadas. Os dados vêm da ficha da loja e do si
 
 Relatório completo em `le-creuset-qual-tamanho-escolher-revisao-job3-2610.md`. Todos os achados ALTA e MÉDIA e os BAIXA aceitos foram aplicados no rascunho acima, conferidos pelo Claude.
 
-## Capa e imagens (Job 6, aguardando aprovação do Bruno)
+## Capa e imagens (Job 6, aprovado pelo Bruno em 26/10/2026)
 
 | Imagem | Seção | Origem | Alt | Legenda |
 |---|---|---|---|---|
 | `le-creuset-qual-tamanho-escolher-capa-discover.webp` (capa, 1600×900, `imageFit: contain`) | — | Fotos de produto da Let's Eat It (Redonda Signature Vermelha 20 e 24 cm, `cdn.shopify.com`, 26/10/2026), proporção pelo diâmetro; faixa do gerador de capas, sem o código | Panelas Le Creuset Redonda Signature vermelhas de 20 cm (2,4 L) e 24 cm (4,2 L) lado a lado, com o logo da Let's Eat It | — |
 | `le-creuset-redonda-signature-litros-por-tamanho.webp` (1200×850) | Os tamanhos da Panela Redonda Signature | Quadro nosso, com a capacidade da ficha da loja | Quadro com a capacidade da Panela Redonda Signature da Le Creuset de 16 a 34 cm, com 20 cm (2,4 L) e 24 cm (4,2 L) em destaque | Capacidade de cada tamanho pela ficha da Let's Eat It, em 26/10/2026. Quadro nosso. |
 | `le-creuset-buffet-30-x-redonda-24.webp` (1600×530) | Caçarola buffet: quando faz sentido | Fotos de produto da Let's Eat It (Buffet Signature Azure 30 cm e Redonda Signature Vermelha 24 cm), montagem nossa, proporção aproximada pelo diâmetro | Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta | A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It. |
+
+Upload FTPS, verificação HTTPS (7/7 `verified`), `prepare-delivery --append` e `phase5-export --write/--check` em 26/10/2026. Manifesto: só as 7 entradas novas inseridas.
+
+## Job 4 (JSON, 26/10/2026)
+
+`content/reviews/le-creuset-qual-tamanho-escolher.json`, id 614, `affiliate: letseatit`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta". Gates: typecheck, validate:content, test:review-i18n, test:site-search, test:article-d2, test:reviews-hub e build (com test:build-output).

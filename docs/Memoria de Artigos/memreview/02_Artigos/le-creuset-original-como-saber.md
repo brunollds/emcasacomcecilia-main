@@ -6,9 +6,9 @@ parceiro: "[[Let's Eat It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "em-revisao"
+status: "pronto-para-deploy"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "[PENDENTE: navegador] lecreuset.com (global) bloqueado; print do localizador de 02/10 a refazer"
 score_autoridade: 62
 score_conversao: 70
@@ -289,7 +289,7 @@ Ninguém do Em Casa com Cecília comprou nem conferiu uma peça Le Creuset: tudo
 
 Relatório completo em `le-creuset-original-como-saber-revisao-job3-2610.md`. Todos os achados ALTA e MÉDIA e os BAIXA aceitos foram aplicados no rascunho acima, conferidos pelo Claude.
 
-## Capa e imagens (Job 6, aguardando aprovação do Bruno)
+## Capa e imagens (Job 6, aprovado pelo Bruno em 26/10/2026)
 
 | Imagem | Seção | Origem | Alt | Legenda |
 |---|---|---|---|---|
@@ -297,3 +297,9 @@ Relatório completo em `le-creuset-original-como-saber-revisao-job3-2610.md`. To
 | `le-creuset-alerta-falsas-promocoes-2610.webp` (1152×647) | Existe Le Creuset falsa? O que a marca publica | Print do Chrome em lecreuset.com.br/avisoalerta.html, 26/10/2026 | Página Alerta Importante! da Le Creuset Brasil sobre falsas promoções e anúncios de produtos da marca | O alerta da Le Creuset Brasil sobre falsas promoções, lido em 26/10/2026. A página não tem data. |
 | `le-creuset-fichas-material-origem-garantia.webp` (1200×610) | O que a ficha de cada peça informa | Quadro nosso, com as fichas oficiais | Quadro com material, país de origem e garantia de três peças Le Creuset: buffet de ferro fundido (France, vitalícia), mini cocotte de cerâmica (Tailândia, 10 anos) e frigideira Essential (sem origem na ficha, 10 anos) | Dados das fichas do site da Le Creuset Brasil, lidas em 26/10/2026. Quadro nosso. |
 | `le-creuset-localizador-revendedor-autorizado-2610.webp` (1053×1210) | Onde comprar Le Creuset original | Dois prints do Chrome em lecreuset.com.br/lojas, 26/10/2026 (mapa e busca "Serra, ES"), juntos por nós | Localizador Revendedor Autorizado da Le Creuset Brasil com o mapa dos pontos de venda e a busca por Serra, ES, que traz a Let's Eat It como Wholesale Partner | O localizador de revendedores da Le Creuset Brasil em 26/10/2026: o mapa e a busca por Serra (ES). Montagem nossa com dois prints. |
+
+Upload FTPS, verificação HTTPS (7/7 `verified`), `prepare-delivery --append` e `phase5-export --write/--check` em 26/10/2026. Manifesto: só as 7 entradas novas inseridas.
+
+## Job 4 (JSON, 26/10/2026)
+
+`content/reviews/le-creuset-original-como-saber.json`, id 615, `affiliate: letseatit`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta". Gates: typecheck, validate:content, test:review-i18n, test:site-search, test:article-d2, test:reviews-hub e build (com test:build-output).
