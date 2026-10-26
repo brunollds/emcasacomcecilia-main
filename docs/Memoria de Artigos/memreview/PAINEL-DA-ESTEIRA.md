@@ -6,12 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[pre-treino-exquenta-mais-mu-e-bom]]: Exquenta Mais Mu, o que o rótulo mostra em cada sabor, sachê e versão sem cafeína (cafeína, taurina e preço por dose; combos com creatina fora) (PT)
-- [ ] [[whey-mais-mu-qual-escolher]]: whey Mais Mu, qual sabor e qual versão (pote, refil, sachê e isolado), preço por dose e por 100 g de proteína pela contagem da loja (PT)
-- [ ] [[barra-de-proteina-mais-mu-qual-escolher]]: barrinhas e wafers da Mais Mu (Mukebar, Crush Bar e Chocowheyfer), proteína, açúcar e preço por unidade; Bites fora (PT)
-- [ ] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT)
-- [ ] [[presente-natal-quem-treina]]: presente de Natal para quem treina, kits e lembranças de Dr. Peanut, Black Skull, Max Titanium, Probiótica e Skelt por perfil e faixa de preço; sem `affiliate`, um bloco "Onde comprar" por loja; sem prazo de Natal (nenhuma loja publica) (PT)
-- [ ] [[valley-inflow-ou-damie]]: Valley Modular (Valley Art), Inflow ou DAMIE, sofá que chega na caixa: como chega, devolução, garantia, preço no cartão em configurações equivalentes e Reclame Aqui; Valley e Inflow sem link, cupom, foto ou print (PT)
 - [ ] [[le-creuset-qual-tamanho-escolher]]: Le Creuset 20 ou 24 cm: qual tamanho escolher, por litros, diâmetro e preço no cartão, e o buffet em seção própria pela ficha; sem porções por pessoa (PT)
 - [ ] [[le-creuset-original-como-saber]]: Le Creuset original: como saber e onde comprar, pelo alerta oficial da marca, origem por produto, garantia e localizador de revendedores autorizados (Let's Eat It listada) (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
@@ -50,6 +44,12 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[pre-treino-exquenta-mais-mu-e-bom]]: Exquenta Mais Mu, o que o rótulo mostra em cada sabor, sachê e versão sem cafeína (cafeína, taurina e preço por dose; combos com creatina fora) (PT) (no ar em 26/10/2026, PR #290, release `dfd6c525`) 🚀
+- [x] [[whey-mais-mu-qual-escolher]]: whey Mais Mu, qual sabor e qual versão (pote, refil, sachê e isolado), preço por dose e por 100 g de proteína pela contagem da loja (PT) (no ar em 26/10/2026, PR #290, release `dfd6c525`) 🚀
+- [x] [[barra-de-proteina-mais-mu-qual-escolher]]: barrinhas e wafers da Mais Mu (Mukebar, Crush Bar e Chocowheyfer), proteína, açúcar e preço por unidade; Bites fora (PT) (no ar em 26/10/2026, PR #290, release `dfd6c525`) 🚀
+- [x] [[dr-peanut-ou-la-ganexa]]: Dr. Peanut ou La Ganexa, pasta de amendoim pelo rótulo por 100 g e pelo preço por 100 g (cartão; Dr. Peanut também com cupom), por perfil e sem vencedora geral; La Ganexa sem link, cupom, cashback nem foto (PT) (no ar em 25/10/2026, PR #287, release `61793583`) 🚀
+- [x] [[presente-natal-quem-treina]]: presente de Natal para quem treina, kits e lembranças de Dr. Peanut, Black Skull, Max Titanium, Probiótica e Skelt por perfil e faixa de preço; sem `affiliate`, um bloco "Onde comprar" por loja; sem prazo de Natal (nenhuma loja publica) (PT) (no ar em 25/10/2026, PR #288, release `61793583`) 🚀
+- [x] [[valley-inflow-ou-damie]]: Valley Modular (Valley Art), Inflow ou DAMIE, sofá que chega na caixa: como chega, devolução, garantia, preço no cartão em configurações equivalentes e Reclame Aqui; Valley e Inflow sem link, cupom, foto ou print (PT) (no ar em 26/10/2026, PR #298, release `86e3d416`) 🚀
 - [x] [[black-skull-ou-dark-lab]]: Black Skull ou Dark Lab, whey e creatina pelo preço por 100 g de proteína e de creatina (cartão; Black Skull também com cupom) e a origem da Black Skull; Dark Lab sem link, cupom nem foto (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
 - [x] [[snacks-dr-peanut-qual-escolher]]: Doctor Bar, alfajor ou Doctor Wafer: qual snack da Dr. Peanut, por proteína e preço por unidade (e R$ por grama de proteína, conta nossa); alfajor sem composição publicada (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀
 - [x] [[dr-peanut-qual-tamanho-compensa]]: Dr. Peanut: 250 g, 600 g, kit ou assinatura, qual tamanho compensa (preço por 100 g, com o cupom; 800 g e 1 kg não existem no site) (PT) (no ar em 25/10/2026, PR #279, release `933e755c`) 🚀

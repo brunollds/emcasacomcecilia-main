@@ -105952,7 +105952,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o refil de 900 g da Mais Mu sai a R$ 69,48 por 100 g de proteína, e a Growth, a R$ 39,27; com o cupom e o Pix somados, o refil cai para R$ 62,53.",
-          "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem dose de 25 g e 22 g de proteína no rótulo, com 18 porções: sai a R$ 75,76 por 100 g no cartão, R$ 73,48 no Pix e R$ 66,13 com cupom e Pix."
+          "O [Whey Isolado Mais Mu sem sabor pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) tem 22 g de proteína por dose e, segundo a loja, rende cerca de 16 doses: sai a R$ 85,22 por 100 g de proteína no cartão, R$ 82,67 no Pix e R$ 74,40 com cupom e Pix."
         ]
       },
       {
@@ -127024,7 +127024,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
+          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
           "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. Com o cupom, isso dá 8 pastas (R$ 155,34) no Sul e no Sudeste e 11 pastas (R$ 213,59) nas outras regiões."
         ]
       },
