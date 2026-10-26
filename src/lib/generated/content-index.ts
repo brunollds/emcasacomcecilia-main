@@ -129028,6 +129028,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Exquenta é bom? A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.",
+          "Tem Exquenta sem cafeína? Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.",
+          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa.",
+          "Qual é o cupom da Mais Mu? MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix."
+        ]
+      },
+      {
         "heading": "Código e onde comprar",
         "bullets": [
           "**Código:** MMEMCASACOMCECILIA, cupom de 10% em todo o site. Soma com o Pix de 3% e vale também em produto já em oferta, pelo teste de 20/10/2026.",
@@ -129036,15 +129045,6 @@ export const reviewsData: unknown[] = [
           "**Como usar o cupom:** [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
           "**Confiança:** [Leia se a Mais Mu é confiável](/reviews/mais-mu-e-confiavel).",
           "**Loja oficial:** [Ir para a loja oficial](https://www.lojamaismu.com.br)."
-        ]
-      },
-      {
-        "heading": "Perguntas frequentes",
-        "bullets": [
-          "O Exquenta é bom? A loja não publica teste de efeito, e este guia não testa. O que dá para comparar é o rótulo e o preço por dose.",
-          "Tem Exquenta sem cafeína? Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.",
-          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa.",
-          "Qual é o cupom da Mais Mu? MMEMCASACOMCECILIA, que dá 10% em todo o site e soma com o Pix."
         ]
       },
       {
@@ -129574,7 +129574,7 @@ export const reviewsData: unknown[] = [
         "heading": "Os produtos numa tabela",
         "paragraphs": [
           "Esta comparação cobre as barras e os wafers proteicos da Mais Mu à venda em 25/10/2026, uma linha por produto e por unidade. Na coluna de proteína, \"tabela\" quer dizer que o número veio da tabela nutricional que a loja publica; \"texto\" quer dizer que veio da descrição da página e da embalagem.",
-          "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura foram lidos no sabor Chocolate; o peso e a tabela dos outros sabores não foram conferidos."
+          "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela lida em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
         ],
         "comparisonTable": {
           "headers": [
@@ -129607,14 +129607,14 @@ export const reviewsData: unknown[] = [
               "R$ 1,09"
             ],
             [
-              "Chocowheyfer Max 20 unidades, Chocolate",
+              "Chocowheyfer Max 20 unidades, quatro sabores",
               "50 g (tabela)",
               "12 g (tabela)",
               "R$ 12,90",
               "R$ 1,08"
             ],
             [
-              "Chocowheyfer Sem Cobertura 12 unidades, Chocolate",
+              "Chocowheyfer Sem Cobertura 12 unidades, Chocolate e Morango",
               "25 g (tabela)",
               "6 g (tabela)",
               "R$ 5,99",
@@ -129640,7 +129640,8 @@ export const reviewsData: unknown[] = [
           "**Chocowheyfer Bites.** A embalagem diz 35 g e 6 g de proteína. A página diz 10 g por porção. A tabela da mesma página diz porção de 25 g e 6 g. Com três números diferentes, o produto não entra na comparação.",
           "**Mukebar Chocolate Duo 720 g.** Esgotada em 25/10/2026.",
           "**Crush Bar Misto e Cookies'n Cream.** A página da Crush Bar os cita, mas eles não aparecem à venda na listagem de 25/10/2026.",
-          "**Mukebar Trufa, Vegana e Pão de mel.** A descrição da Mukebar cita os três sabores, mas nenhum aparece à venda em 25/10/2026."
+          "**Mukebar Trufa, Vegana e Pão de mel.** A descrição da Mukebar cita os três sabores, mas nenhum aparece à venda em 25/10/2026.",
+          "**Paçoquita Power (pasta de amendoim).** A loja lista o produto, mas a página de 25/10/2026 mostra \"preço sob consulta\", sem valor publicado. Sem preço, e fora da linha de barras e wafers, ela não entra na conta por unidade."
         ],
         "postParagraphs": [
           "A Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
@@ -129717,9 +129718,41 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
+              "Chocowheyfer Max, Morango",
+              "50 g",
+              "264",
+              "12 g",
+              "0,7 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer Max, Doce de Leite",
+              "50 g",
+              "259",
+              "12 g",
+              "1,3 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer Max, Cookies'n Cream",
+              "50 g",
+              "264",
+              "12 g",
+              "0,7 g",
+              "0 g"
+            ],
+            [
               "Chocowheyfer Sem Cobertura, Chocolate",
               "25 g",
               "126",
+              "6 g",
+              "0,3 g",
+              "0 g"
+            ],
+            [
+              "Chocowheyfer Sem Cobertura, Morango",
+              "25 g",
+              "130",
               "6 g",
               "0,3 g",
               "0 g"
@@ -129743,8 +129776,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos sete sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
-          "Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g, da Max e do Sem Cobertura não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar."
+          "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
+          "Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar."
         ]
       },
       {
@@ -129785,9 +129818,9 @@ export const reviewsData: unknown[] = [
           "**Mais proteína por unidade:** a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. São 234 kcal e 3,7 g de açúcar total, e a unidade sai a R$ 12,92. Também tem o menor R$ por grama de proteína, R$ 0,86.",
           "**Menor preço por unidade:** a Chocowheyfer Sem Cobertura, a R$ 5,99, com 6 g e 126 kcal no sabor Chocolate. Pela conta nossa, ela fica em segundo lugar por grama de proteína, a R$ 1,00.",
           "**Menos açúcar total:** o Veggie Wafer, com 0,1 g por unidade, e a Sem Cobertura, com 0,3 g. O Veggie Wafer tem glúten e pode conter leite.",
-          "**Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada.",
+          "**Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada no sabor Chocolate.",
           "**Meio-termo de tamanho:** a Crush Bar, com 10 g em 35 g, de 179 a 181 kcal e 0,7 g de açúcar total. A unidade sai a R$ 10,92, e a conta por grama de proteína fica em R$ 1,09.",
-          "**Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 260 kcal, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g."
+          "**Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 259 a 264 kcal nos quatro sabores, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g."
         ],
         "postParagraphs": [
           "Os números não dizem qual produto tem melhor sabor. Ninguém da equipe provou os produtos, e este texto não compara gosto. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão."
@@ -129796,7 +129829,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Chocowheyfer tem açúcar? Tem 0,4 g de açúcar total por porção de 25 g no sabor Chocolate, e 0 g de açúcar adicionado, pela tabela da loja lida em 25/10/2026.",
+          "Chocowheyfer tem açúcar? A Chocowheyfer 300 g Chocolate tem 0,4 g de açúcar total por unidade de 25 g; a Sem Cobertura, 0,3 g; a Max, de 0,6 g a 1,3 g por unidade de 50 g. O açúcar adicionado é 0 g em todas, pela tabela da loja lida em 25/10/2026.",
           "Mukebar tem glúten? Sim. A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso de alérgenos na página do produto.",
           "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
           "Tem barra vegana? A loja não vende barra vegana na listagem de 25/10/2026. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite."

@@ -179,6 +179,8 @@ Bruno (25/10/2026) aprovou as recomendações da sessão de pautas em todos os i
 3. **Título:** sem "vegana". O Veggie Wafer entra como "wafer vegetal", com o aviso de que pode conter leite.
 4. **Chocowheyfer Max:** numa linha própria, sem nenhuma ligação com a loja Max Titanium.
 
+**Depois da publicação (Bruno, 25/10/2026, "Sim" às dúvidas 2 e 4):** entra uma frase sobre a pasta de amendoim, e entram as tabelas dos outros sabores da Max e do Sem Cobertura (anexo C).
+
 ---
 
 ## Anexo A: fatos lidos em 25/10/2026 (sessão de pautas)
@@ -343,6 +345,25 @@ Açúcares adicionados: 0 g em todas. A caixa do Max mostra "1 kg"; a do Sem Cob
 - Chocowheyfer Bites Chocolate com Avelã: a embalagem diz 35 g e 6 g de proteína, e a caixa, 420 g com 12 unidades; a tabela da galeria diz porção de 25 g (12 por embalagem), 125 kcal e 6 g de proteína. Contraditório: fica fora.
 
 
+## Anexo C: Chrome de 25/10/2026, outros sabores e pasta de amendoim (vale sobre o resto da nota)
+
+### Tabelas lidas na galeria
+| Produto (caixa) | Porção | kcal | Carb. | Açúcares totais | Proteína | Gord. totais | Saturada | Fibra | Sódio |
+|---|---|---|---|---|---|---|---|---|---|
+| Chocowheyfer Max Morango (20 × 50 g) | 50 g | 264 | 18 g | 0,7 g | 12 g | 16 g | 8,4 g | 2 g | 69 mg |
+| Chocowheyfer Max Doce de Leite (20 × 50 g) | 50 g | 259 | 19 g | 1,3 g | 12 g | 15 g | 8,2 g | 2,4 g | 75 mg |
+| Chocowheyfer Max Cookies'n Cream (20 × 50 g) | 50 g | 264 | 18 g | 0,7 g | 12 g | 16 g | 8,4 g | 2,4 g | 63 mg |
+| Chocowheyfer Sem Cobertura Morango (12 × 25 g) | 25 g | 130 | 11 g | 0,3 g | 6 g | 6,9 g | 3,3 g | 1 g | 35 mg |
+
+Açúcares adicionados: 0 g em todas. Com o Chocolate do anexo B, a Max tem 12 g de proteína em 50 g nos quatro sabores (259 a 264 kcal), e o Sem Cobertura, 6 g em 25 g nos dois (126 e 130 kcal).
+
+### Preços (cartão, Pix só como lido)
+- Max, os quatro sabores: R$ 258,00 a caixa de 20 (Pix R$ 250,26), R$ 12,90 por unidade. Os quatro aparecem disponíveis.
+- Sem Cobertura, Chocolate e Morango: R$ 71,88 a caixa de 12 (Pix R$ 69,72), R$ 5,99 por unidade.
+
+### Pasta de amendoim
+A página da "Paçoquita Power - Pasta de Amendoim" (`/produtos/pacoquita-power-pasta-de-amendoim-cgmwy/`) não mostra preço: o botão diz "PREÇO SOB CONSULTA" e o Pix aparece como R$ 0,00 (placeholder). A embalagem da foto é da marca Santa Helena (Paçoquita). Rótulo não lido. Se a frase entrar, só diz que a loja lista a pasta sem preço publicado; sem foto, sem tabela, sem link.
+
 ---
 
 # Rascunho do artigo (Job 2, 25/10/2026)
@@ -376,12 +397,12 @@ Esta comparação cobre as barras e os wafers proteicos da Mais Mu à venda em 2
 | Mukebar 720 g, sabores à venda | 60 g (tabela, sabor Avelã) | 15 g (tabela na Avelã; texto nos outros) | R$ 12,92 | R$ 0,86 |
 | Mukebar 40 g Paçoquita | 40 g (título) | 10 g (texto; tabela não publicada) | R$ 10,83 | R$ 1,08 |
 | Crush Bar 35 g, Chocolate e Morango | 35 g (tabela) | 10 g (tabela) | R$ 10,92 | R$ 1,09 |
-| Chocowheyfer Max 20 unidades, Chocolate | 50 g (tabela) | 12 g (tabela) | R$ 12,90 | R$ 1,08 |
-| Chocowheyfer Sem Cobertura 12 unidades, Chocolate | 25 g (tabela) | 6 g (tabela) | R$ 5,99 | R$ 1,00 |
+| Chocowheyfer Max 20 unidades, quatro sabores | 50 g (tabela) | 12 g (tabela) | R$ 12,90 | R$ 1,08 |
+| Chocowheyfer Sem Cobertura 12 unidades, Chocolate e Morango | 25 g (tabela) | 6 g (tabela) | R$ 5,99 | R$ 1,00 |
 | Chocowheyfer 300 g, Chocolate | 25 g (tabela) | 6 g (tabela) | R$ 6,99 | R$ 1,17 |
 | Veggie Wafer 300 g, Chocolate | 25 g (tabela) | 5 g (tabela) | R$ 6,99 | R$ 1,40 |
 
-A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura foram lidos no sabor Chocolate; o peso e a tabela dos outros sabores não foram conferidos.
+A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela foi lida no sabor Chocolate com Avelã. Os outros sabores (Branco, Coco, Crocante, Cookies'n Cream, Mista e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela lida em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha.
 
 Ficam de fora, e por quê:
 
@@ -389,6 +410,7 @@ Ficam de fora, e por quê:
 - **Mukebar Chocolate Duo 720 g.** Esgotada em 25/10/2026.
 - **Crush Bar Misto e Cookies'n Cream.** A página da Crush Bar os cita, mas eles não aparecem à venda na listagem de 25/10/2026.
 - **Mukebar Trufa, Vegana e Pão de mel.** A descrição da Mukebar cita os três sabores, mas nenhum aparece à venda em 25/10/2026.
+- **Paçoquita Power (pasta de amendoim).** A loja lista o produto, mas a página de 25/10/2026 mostra "preço sob consulta", sem valor publicado. Sem preço, e fora da linha de barras e wafers, ela não entra na conta por unidade.
 
 A Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site.
 
@@ -404,13 +426,17 @@ Estes números vêm só das tabelas nutricionais que a loja publica em imagem. C
 | Crush Bar 35 g, Chocolate | 35 g | 179 | 10 g | 0,7 g | 0 g |
 | Crush Bar 35 g, Morango | 35 g | 181 | 10 g | 0,7 g | 0 g |
 | Chocowheyfer Max, Chocolate | 50 g | 260 | 12 g | 0,6 g | 0 g |
+| Chocowheyfer Max, Morango | 50 g | 264 | 12 g | 0,7 g | 0 g |
+| Chocowheyfer Max, Doce de Leite | 50 g | 259 | 12 g | 1,3 g | 0 g |
+| Chocowheyfer Max, Cookies'n Cream | 50 g | 264 | 12 g | 0,7 g | 0 g |
 | Chocowheyfer Sem Cobertura, Chocolate | 25 g | 126 | 6 g | 0,3 g | 0 g |
+| Chocowheyfer Sem Cobertura, Morango | 25 g | 130 | 6 g | 0,3 g | 0 g |
 | Chocowheyfer 300 g, Chocolate | 25 g | 126 | 6 g | 0,4 g | 0 g |
 | Veggie Wafer 300 g, Chocolate | 25 g | 121 | 5 g | 0,1 g | 0 g |
 
-Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos sete sabores lidos, o adicionado é 0 g. A loja escreve "zero adição de açúcar" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.
+Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores lidos, o adicionado é 0 g. A loja escreve "zero adição de açúcar" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.
 
-Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g, da Max e do Sem Cobertura não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar.
+Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar.
 
 ---
 
@@ -451,9 +477,9 @@ Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam 
 - **Mais proteína por unidade:** a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. São 234 kcal e 3,7 g de açúcar total, e a unidade sai a R$ 12,92. Também tem o menor R$ por grama de proteína, R$ 0,86.
 - **Menor preço por unidade:** a Chocowheyfer Sem Cobertura, a R$ 5,99, com 6 g e 126 kcal no sabor Chocolate. Pela conta nossa, ela fica em segundo lugar por grama de proteína, a R$ 1,00.
 - **Menos açúcar total:** o Veggie Wafer, com 0,1 g por unidade, e a Sem Cobertura, com 0,3 g. O Veggie Wafer tem glúten e pode conter leite.
-- **Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada.
+- **Menos calorias por unidade:** o Veggie Wafer, com 121 kcal. A Chocowheyfer 300 g e a Sem Cobertura vêm em seguida, com 126 kcal cada no sabor Chocolate.
 - **Meio-termo de tamanho:** a Crush Bar, com 10 g em 35 g, de 179 a 181 kcal e 0,7 g de açúcar total. A unidade sai a R$ 10,92, e a conta por grama de proteína fica em R$ 1,09.
-- **Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 260 kcal, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g.
+- **Wafer com mais proteína:** a Chocowheyfer Max, com 12 g em 50 g e 259 a 264 kcal nos quatro sabores, a R$ 12,90 por unidade. É a maior unidade entre os wafers, e a conta por grama de proteína fica em R$ 1,08, igual à da Mukebar 40 g.
 
 Os números não dizem qual produto tem melhor sabor. Ninguém da equipe provou os produtos, e este texto não compara gosto. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão.
 
@@ -461,7 +487,7 @@ Os números não dizem qual produto tem melhor sabor. Ninguém da equipe provou 
 
 ## Perguntas frequentes
 
-- Chocowheyfer tem açúcar? Tem 0,4 g de açúcar total por porção de 25 g no sabor Chocolate, e 0 g de açúcar adicionado, pela tabela da loja lida em 25/10/2026.
+- Chocowheyfer tem açúcar? A Chocowheyfer 300 g Chocolate tem 0,4 g de açúcar total por unidade de 25 g; a Sem Cobertura, 0,3 g; a Max, de 0,6 g a 1,3 g por unidade de 50 g. O açúcar adicionado é 0 g em todas, pela tabela da loja lida em 25/10/2026.
 - Mukebar tem glúten? Sim. A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso de alérgenos na página do produto.
 - Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.
 - Tem barra vegana? A loja não vende barra vegana na listagem de 25/10/2026. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite.
@@ -542,6 +568,10 @@ Os números vêm das tabelas e das páginas de produto da Mais Mu, lidas em 25/1
 **Para o Bruno**
 - As quatro dúvidas do Job 2 seguem abertas (ordem do veredito seguiu a regra global; pasta de amendoim fora; "vegana" só no FAQ e na lista de sabores não à venda; Max e Sem Cobertura lidos só no Chocolate).
 - Se quiser os alérgenos dos produtos que faltam, é uma passada no Chrome; o texto já fecha sem eles.
+
+## Ajuste depois da publicação (25/10/2026)
+
+Com o anexo C, a tabela de calorias ganhou a Max Morango, Doce de Leite e Cookies'n Cream e o Sem Cobertura Morango; o texto diz que os dois têm tabela em todos os sabores à venda, e o FAQ do açúcar separa a 300 g, a Sem Cobertura e a Max. A Paçoquita Power entrou na lista do que fica de fora, sem preço ("preço sob consulta"), sem link e sem foto. Revisão do Fable (Job 3): quatro achados, todos aplicados.
 
 ## Capa e imagens (Job 6, aprovado pelo Bruno em 25/10/2026)
 
