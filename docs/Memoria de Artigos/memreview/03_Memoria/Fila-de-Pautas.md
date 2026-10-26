@@ -162,6 +162,27 @@ Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
 | P1 | App da YesStyle: como comprar e onde entra o código de recompensa no app | YesStyle | 10 | "yesstyle app", "yesstyle app review", "yesstyle app not working", "yesstyle app download" | O CECILIA010 foi testado pelo Bruno no app (campo Reward Code). É código de recompensa, nunca cupom |
 | P2 | App da Dolce Gusto: comprar, controlar a NEO, timer e Dolce Gusto Club (e quando o app não abre) | Dolce Gusto | PT | "app dolce gusto neo", "app dolce gusto timer", "app dolce gusto não funciona", "app dolce gusto nao abre", "cupom app dolce gusto" | O CECI foi testado pelo Bruno no app. O tema "pontos da NEO pelo app", em "Temas para depois", pode entrar aqui |
 
+## Toda Up (Bruno, 26/10/2026)
+
+Parceira nova (moda íntima feminina, cupom MAUAD 10%). Onboarding aprovado em 26/10/2026; as pautas de
+produto ficam no estoque, vindas do autocompletar e do catálogo de 26/10. Ninguém do site usou as peças:
+pela ficha, pela política e pelo preço.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| T1 | Toda Up é confiável? | **Pauta aprovada em 26/10/2026:** [[toda-up-e-confiavel]] |
+| T2 | Toda Up no Reclame Aqui | **Pauta aprovada em 26/10/2026:** [[toda-up-reclame-aqui-nota-reputacao]] |
+| T3 | Cupom Toda Up: como usar | **Pauta aprovada em 26/10/2026:** [[cupom-toda-up-como-usar]] |
+| T4 | Black Friday Toda Up | **Pauta aprovada em 26/10/2026:** [[black-friday-toda-up]] |
+| T5 | Sutiã de silicone invisível: como funciona e para qual roupa | Estoque |
+| T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | Estoque |
+| T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | Estoque |
+| T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | Estoque |
+| T9 | SkinUp ou Cotton Up: segunda pele ou algodão | Estoque |
+| T10 | Kits da Toda Up (top + calcinha): quando compensam | Estoque (os 5 kits SkinUp e Comfort estavam esgotados em 26/10) |
+
+Checar também "toda up loja fisica" no autocompletar antes da próxima rodada.
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
