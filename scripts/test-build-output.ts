@@ -525,6 +525,18 @@ const llmsUrls = [...read(path.join(APP_DIR, 'llms.txt.body')).matchAll(/https:\
   ([url]) => url
 );
 assert.deepEqual(withoutPage(llmsUrls), [], 'llms.txt com URL sem página no build');
+// "Reviews e guias recentes": os 20 artigos PT listados mais novos, com o id desempatando o mesmo dia
+// (num dia com 10+ artigos, sem o desempate o corte caía pela ordem do manifesto).
+const llmsBody = read(path.join(APP_DIR, 'llms.txt.body'));
+const llmsRecentReviews = [
+  ...(llmsBody.split('## Reviews e guias recentes')[1]?.split('\n## ')[0] ?? '').matchAll(/https:\/\/emcasacomcecilia\.com\S*/g),
+].map(([url]) => url);
+const expectedRecentReviews = publishedReviews
+  .filter((review) => (review.locale ?? 'pt') === 'pt' && !review.draft && !review.hideFromListings && !review.hideFromPortugueseListings)
+  .sort((a, b) => (b.publishedAtISO ?? '').localeCompare(a.publishedAtISO ?? '') || b.id - a.id)
+  .slice(0, 20)
+  .map((review) => `${SITE_URL}${getReviewCanonicalPathname(review)}`);
+assert.deepEqual(llmsRecentReviews, expectedRecentReviews, 'llms.txt: reviews recentes fora da ordem da vitrine');
 assert.deepEqual(
   translatedUrls.filter((url) => !llmsUrls.includes(url)),
   [],

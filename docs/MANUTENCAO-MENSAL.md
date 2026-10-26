@@ -400,8 +400,8 @@ formulação que diverge do título ou da descrição publicados no YouTube.
 
 Neste projeto os dois são gerados; não existe lista manual equivalente à do Damie.
 
-- `src/app/(pt)/llms.txt/route.ts` usa uma seleção de receitas, as dez reviews recentes,
-  vídeos e cupons ativos;
+- `src/app/(pt)/llms.txt/route.ts` usa uma seleção de receitas, as 20 reviews PT mais recentes
+  (na ordem da vitrine: data e, no mesmo dia, o id maior), vídeos e cupons ativos;
 - `src/app/sitemap.ts` usa as mesmas fontes e propaga `lastVerified` dos cupons para
   `<lastmod>`;
 - o sitemap é a descoberta completa; `llms.txt` é uma seleção editorial, não um espelho dele;
