@@ -148,6 +148,8 @@ Ajustes em artigos publicados, sem artigo novo (sessão de melhorias):
 - **Black Skull, `black-friday-black-skull` (achado de 23/10/2026):** o refil 100% HD 900 g aparece a R$ 139,90 (preço de 14/10); em 23/10 custa R$ 159,90. Reler na revisão de preços do fim de outubro.
 - **Dr. Peanut, `dr-peanut-melhor-sabor` (achado de 24/10/2026):** o Chocolate Branco não aparece na listagem de pastas (16 produtos, 10 sabores; em 16/10 eram 11) e o artigo cita 11 sabores. Conferir se saiu de linha antes de mexer.
 - **Cléa, `look-trabalho-alfaiataria-feminina-clea-store` (achado de 24/10/2026):** o blazer risca de giz (4282) e a calça vermelha (4340) estão esgotados, e o blazer mescla (4307) só tem P; o artigo os dá como disponíveis. Corrigir antes de publicar [[alfaiataria-verao-clea-store]], que linka o look de trabalho.
+- **DAMIE, `sofa-na-caixa-inflow-ou-damie` (achado de 25/10/2026):** conferir se o artigo diz que o teste de 30 dias da DAMIE exige a embalagem preservada, e nomear o tecido da Inflow na tabela (os R$ 5.031 a 5.733 no Pix batem hoje só com o Boucle Plus Green; em bouclê comum, 3 lugares com 2 cantos e apoio R$ 4.790 no cartão). A garantia da Inflow está certa (90 dias = 3 meses).
+- **Mais Mu, `mais-mu-ou-growth` (achado de 25/10/2026):** o artigo diz isolado sem sabor com 18 porções; a loja diz "cerca de 16 doses". O dossiê também está desatualizado: a loja publica hoje "cerca de N doses" em 30 de 48 páginas de whey.
 - **Dr. Peanut:** se o whey for da Max Titanium, uma frase no `dr-peanut-e-confiavel`.
 
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
