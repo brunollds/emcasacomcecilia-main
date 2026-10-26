@@ -76,6 +76,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Mais Mu', src: '/images/about/partners/mais-mu.png', href: 'https://www.lojamaismu.com.br' },
   { name: 'Skelt', src: '/images/about/partners/skelt.png', href: 'https://www.skelt.com.br' },
   { name: 'Bagaggio', src: '/images/about/partners/bagaggio.png', href: 'https://www.bagaggio.com.br' },
+  { name: 'Toda Up', src: '/images/about/partners/toda-up.png', href: 'https://todaup.com' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

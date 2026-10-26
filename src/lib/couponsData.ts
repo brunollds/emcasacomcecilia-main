@@ -2145,6 +2145,91 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
+    offerMode: 'discount-code',
+    slug: 'toda-up',
+    brand: 'Toda Up',
+    officialUrl: 'https://todaup.com/',
+    offerUrl:
+      'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao',
+    brandIcon: 'TU',
+    brandLogo: '/images/about/partners/toda-up-icon.png',
+    brandLogoAlt: 'Marca Toda Up',
+    brandWatermark: '/images/logos/watermarks/toda-up.webp',
+    brandColor: '#4A282C',
+    code: 'MAUAD',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Moda íntima e lingerie',
+    hubCategory: 'moda',
+    shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
+    longDescription:
+      'O MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial da Toda Up e soma com as promoções do site, inclusive nos produtos que já estão com desconto. Testado em 26/10/2026 num sutiã em promoção.',
+    metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD (nov/2026)',
+    metaDescription:
+      'Cupom Toda Up testado em 26/10/2026: MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos e soma com as promoções do site.',
+    eligibleCategories: 'Todos os produtos do site oficial da Toda Up, inclusive os que já estão em promoção',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; o pedido sai em até 3 dias úteis depois da confirmação do pagamento',
+    combinable:
+      'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; no teste de 26/10/2026, somou também com o desconto automático por valor do carrinho que a loja tinha no ar',
+    lastVerified: '2026-10-26',
+    testNote:
+      'Aplicamos o MAUAD num Sutiã Comfort Up em promoção, de R$ 199,90 por R$ 170,91, e o desconto foi de R$ 17,09: os 10% valeram sobre o preço promocional, e o total caiu para R$ 153,82. Num carrinho de R$ 360,81, o cupom somou com a promoção progressiva da loja: ela tirou 12%, o MAUAD tirou mais 10% do que sobrou, e o total ficou em R$ 285,78.',
+    codeInstructions: [
+      'Copie o código MAUAD no card acima.',
+      'Acesse o site oficial da Toda Up pelo botão indicado e coloque os produtos no carrinho.',
+      'No checkout, confira se o MAUAD já aparece aplicado; se não, cole o código no campo de cupom de desconto e aplique.',
+      'Confira o desconto no resumo do pedido antes de pagar.',
+    ],
+    aboutBrand:
+      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as promoções. A recomendação é conferir o resumo do pedido antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
+        answer:
+          'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 26/10/2026, os 10% do MAUAD entraram sobre um sutiã que já estava em promoção e, num carrinho maior, somaram com o desconto automático por valor que a loja tinha no ar naquele dia.',
+      },
+      {
+        question: 'O cupom MAUAD está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 26/10/2026, o MAUAD aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Toda Up?',
+        answer:
+          'No campo de cupom de desconto do checkout, antes de pagar. Pelo botão desta página, o site da Toda Up já abre com o MAUAD aplicado; confira o desconto no resumo do pedido.',
+      },
+      {
+        question: 'Quanto custa o frete da Toda Up?',
+        answer:
+          'O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento. O valor aparece no checkout antes de pagar.',
+      },
+      {
+        question: 'Posso trocar ou devolver a compra feita com o cupom?',
+        answer:
+          'Sim. A Toda Up aceita troca de modelo, tamanho ou cor e devolução por arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Soma com as promoções do site, inclusive nos produtos já em desconto',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'hostinger',
     brand: 'Hostinger',

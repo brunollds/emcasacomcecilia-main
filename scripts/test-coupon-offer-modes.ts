@@ -74,8 +74,9 @@ assert.equal(
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
-// Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10, a Belive desde 16/10, a Mais Mu desde 20/10, a Skelt desde 21/10 e a Bagaggio
-// desde 22/10. Só a Probiótica, a Skelt, a Bagaggio e a Lejour mandaram link com UTM, e ele vai como veio; as outras vão ao site oficial.
+// Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10, a Belive desde 16/10, a Mais Mu desde 20/10, a Skelt desde 21/10, a Bagaggio
+// desde 22/10 e a Toda Up desde 26/10. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up e a Lejour mandaram link com UTM, e ele vai como veio; as
+// outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado.
 const newPartners = [
   { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
   { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
@@ -87,6 +88,7 @@ const newPartners = [
   { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
   { slug: 'skelt', code: 'SKEMCASACOMCECILIA', hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
   { slug: 'bagaggio', code: 'CECILIA10', hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
+  { slug: 'toda-up', code: 'MAUAD', hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
@@ -241,4 +243,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Hostinger e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Hostinger e prateleiras do hub conferidos.");
