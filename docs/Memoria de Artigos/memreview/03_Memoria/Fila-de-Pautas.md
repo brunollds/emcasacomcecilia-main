@@ -72,8 +72,8 @@ As duas lojas pediram mais material. Pautas de decisão de compra, com produtos 
 | C5 | Body Second Skin: qual escolher (Cléa) | **No ar em 20/10/2026** (PR #180): [[body-clea-store-second-skin-qual-escolher]] |
 | C3 | Tabela de medidas e tamanho (Cléa) | **No ar em 20/10/2026** (PR #180): [[clea-store-tabela-de-medidas-como-escolher-tamanho]] |
 | C2 | Mercado Livre ou site (Cléa) | **No ar em 20/10/2026** (PR #180): [[clea-store-mercado-livre-ou-site]] (dois links; data da pesquisa em destaque) |
-| L1 | Panela Le Creuset: qual tamanho e modelo ("le creuset 20 vs 24", "caçarola buffet") | Estoque, próxima rodada |
-| L2 | Le Creuset original: como saber e onde comprar (a Let's Eat It está no localizador oficial) | Estoque, próxima rodada |
+| L1 | Panela Le Creuset: qual tamanho e modelo ("le creuset 20 vs 24", "caçarola buffet") | **Pauta aprovada em 26/10/2026:** [[le-creuset-qual-tamanho-escolher]] |
+| L2 | Le Creuset original: como saber e onde comprar (a Let's Eat It está no localizador oficial) | **Pauta aprovada em 26/10/2026:** [[le-creuset-original-como-saber]] |
 | L4 | Aparelho de jantar Porto Brasil: 20, 30 ou 42 peças | Estoque, próxima rodada |
 | L6 | Faqueiro Wolff: 30, 101 ou 130 peças | Estoque, próxima rodada (a loja vende) |
 | C1 | Camiseta da Cléa Store é boa? | **Reaberta em 23/10/2026:** ver a pauta A9 em "Afiliados com poucas vendas" |
@@ -150,6 +150,7 @@ Ajustes em artigos publicados, sem artigo novo (sessão de melhorias):
 - **Cléa, `look-trabalho-alfaiataria-feminina-clea-store` (achado de 24/10/2026):** o blazer risca de giz (4282) e a calça vermelha (4340) estão esgotados, e o blazer mescla (4307) só tem P; o artigo os dá como disponíveis. Corrigir antes de publicar [[alfaiataria-verao-clea-store]], que linka o look de trabalho.
 - **DAMIE, `sofa-na-caixa-inflow-ou-damie` (achado de 25/10/2026):** conferir se o artigo diz que o teste de 30 dias da DAMIE exige a embalagem preservada, e nomear o tecido da Inflow na tabela (os R$ 5.031 a 5.733 no Pix batem hoje só com o Boucle Plus Green; em bouclê comum, 3 lugares com 2 cantos e apoio R$ 4.790 no cartão). A garantia da Inflow está certa (90 dias = 3 meses).
 - **Mais Mu, `mais-mu-ou-growth` (achado de 25/10/2026):** o artigo diz isolado sem sabor com 18 porções; a loja diz "cerca de 16 doses". O dossiê também está desatualizado: a loja publica hoje "cerca de N doses" em 30 de 48 páginas de whey.
+- **Dr. Peanut, `dr-peanut-qual-tamanho-compensa` (achado de 26/10/2026, revisão do Fable conferida no Chrome):** o artigo diz "entrega mensal, bimestral ou trimestral", sem fonte. A página /assinaturapro diz só "Escolha a frequência e receba automaticamente", "Altere produtos e datas a qualquer momento" e "Cancele quando quiser, sem multa nem burocracia". Trocar pela frase da página (ou pelas frequências que o Bruno viu no carrinho) e acrescentar que, contra o kit de 250 g com o cupom, a assinatura sai R$ 0,42 (2 pastas), R$ 0,94 (3) e R$ 1,56 (4) mais barata por ciclo. A pauta própria da assinatura foi descartada (sem busca, ganho de centavos).
 - **Dr. Peanut:** se o whey for da Max Titanium, uma frase no `dr-peanut-e-confiavel`.
 
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
