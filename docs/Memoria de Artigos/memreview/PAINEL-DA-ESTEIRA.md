@@ -6,8 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[sutia-de-silicone-invisivel-como-usar]]: Sutiã de silicone invisível (Toda Up): como usar e para qual roupa, pelo passo a passo da marca; tamanhos, lavagem, kit Leve 2 e quadro Fita Up × sutiã × protetor pela ficha (PT)
-- [ ] [[protetor-de-silicone-mamilo-como-usar]]: Protetor de silicone da Toda Up: qual tamanho (8, 10 ou 12 cm pelo número do sutiã) e quantas vezes dá para usar (até 30, segundo a marca); adesivo para roupa, não de amamentação (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -38,6 +36,8 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [x] [[protetor-de-silicone-mamilo-como-usar]]: Protetor de silicone da Toda Up: qual tamanho (8, 10 ou 12 cm pelo número do sutiã) e quantas vezes dá para usar (até 30, segundo a marca); adesivo para roupa, não de amamentação (PT) (JSON pronto em 27/10/2026, aguardando deploy)
+- [x] [[sutia-de-silicone-invisivel-como-usar]]: Sutiã de silicone invisível (Toda Up): como usar e para qual roupa, pelo passo a passo da marca; tamanhos, lavagem, kit Leve 2 e quadro Fita Up × sutiã × protetor pela ficha (PT) (JSON pronto em 27/10/2026, aguardando deploy)
 
 ---
 

@@ -261,3 +261,7 @@ As duas fotos da página com os seios e a fita aplicada ficaram de fora (explíc
 ## Job 4 (JSON, 27/10/2026)
 
 `content/reviews/fita-up-como-usar.json`, id 620, `guias-praticos-utilidade` / `guia`, type "Guia Prático", `affiliate: toda-up`, `coupon: MAUAD` (fora do texto), `isNew: true`, CTA "Ver na Toda Up" pelo `offerUrl`. FAQ em bullets "Pergunta? resposta".
+
+## Ajustes de 27/10/2026
+
+"Quando escolher outro": o Sutiã de Silicone Invisível passa a "de R$ 159,90" (o "de R$ 199,90" estava errado, decisão do Bruno na pauta T5) e ganha link para [[sutia-de-silicone-invisivel-como-usar]]; o protetor ganha link para [[protetor-de-silicone-mamilo-como-usar]].

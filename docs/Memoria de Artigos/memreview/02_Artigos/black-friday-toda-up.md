@@ -313,3 +313,7 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Job 4 (JSON, 26/10/2026)
 
 `content/reviews/black-friday-toda-up.json`, id 619, `affiliate: toda-up`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta". Entrou no fim de `articleSlugs` da Black Friday em `content/home-events.json`.
+
+## Ajuste de 27/10/2026
+
+Tabela de preços: o Sutiã de Silicone Invisível passa a "de R$ 159,90" (o "de R$ 199,90" estava errado, mesma decisão do Bruno da pauta T5). As outras linhas seguem como estavam.
