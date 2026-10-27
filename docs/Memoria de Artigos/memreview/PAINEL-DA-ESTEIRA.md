@@ -36,12 +36,12 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [x] [[fita-up-como-usar]]: Fita Up, como usar no tomara que caia e no decote, pelo passo a passo da Toda Up; tamanhos P/M/G, composição, reutilização não informada, preço e kits (MAUAD soma com Leve 2 e Leve 3) (PT) (JSON pronto em 27/10/2026, aguardando deploy)
 
 ---
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[fita-up-como-usar]]: Fita Up, como usar no tomara que caia e no decote, pelo passo a passo da Toda Up; tamanhos P/M/G, composição, reutilização não informada, preço e kits (MAUAD soma com Leve 2 e Leve 3) (PT) (no ar em 27/10/2026, PR #315, release `7b87170b`) 🚀
 - [x] [[toda-up-e-confiavel]]: Toda Up é confiável? CNPJ da Fita UP LTDA (desde 2020), a mudança de Fita UP para Toda Up, troca em 30 dias e frete; Reclame Aqui em uma frase com link (PT) (no ar em 26/10/2026, PR #310, release `81b4a6a8`) 🚀
 - [x] [[toda-up-reclame-aqui-nota-reputacao]]: Toda Up no Reclame Aqui: RA1000, nota 8,5 em 6 meses (01/04 a 30/09/2026), 93,1% resolvidas, e o histórico de 3 anos; termina em "Dá para confiar" (PT) (no ar em 26/10/2026, PR #310, release `81b4a6a8`) 🚀
 - [x] [[cupom-toda-up-como-usar]]: Cupom Toda Up: como usar o MAUAD, onde conferir no carrinho, soma com a promoção e com a progressiva da Black Antecipada (teste de 26/10) (PT) (no ar em 26/10/2026, PR #310, release `81b4a6a8`) 🚀
