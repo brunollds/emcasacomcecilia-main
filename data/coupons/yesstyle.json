@@ -379,6 +379,28 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "haunted26-promo",
+    "code": "HAUNTED26",
+    "type": "coupon",
+    "discount": {
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
+    },
+    "startsAt": "2026-10-27",
+    "expiresAt": "2026-10-29",
+    "verifiedAt": "2026-10-27",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
