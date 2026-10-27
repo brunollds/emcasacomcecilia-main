@@ -278,3 +278,7 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Job 4 (JSON, 26/10/2026)
 
 `content/reviews/cupom-toda-up-como-usar.json`, id 618, `affiliate: toda-up`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta".
+
+## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
+
+Redigido pelo Fable 5.1, conferido pelo Claude: seoTitle "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma", uma frase na introdução sobre o nome antigo e a seção "Kits e o que não testamos": o cupom somou com os kits Leve 2 e Leve 3 no teste do Bruno de 26/10/2026. Títulos dos relacionados atualizados em 616 a 619.

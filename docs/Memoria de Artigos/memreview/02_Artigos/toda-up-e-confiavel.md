@@ -338,3 +338,7 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Job 4 (JSON, 26/10/2026)
 
 `content/reviews/toda-up-e-confiavel.json`, id 616, `affiliate: toda-up`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta".
+
+## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
+
+Redigido pelo Fable 5.1, conferido pelo Claude: title e seoTitle com "Fita Up (Toda Up)", metaDescription e resposta rápida com o nome antigo, seção nova "Onde comprar a Fita Up hoje" (só o site oficial; www.fitaup.com e o blog antigo redirecionam; sem revendedor nem marketplace, leitura de 26/10/2026) e FAQ "A Fita Up é golpe?" com link ao 617. Títulos dos relacionados atualizados em 616 a 619.

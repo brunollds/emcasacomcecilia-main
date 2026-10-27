@@ -29559,7 +29559,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 24 de outubro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 27 de outubro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -29581,7 +29581,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os [cupons YesStyle](/cupons/yesstyle) de promoção vão no campo Coupon Code e vencem rápido; a lista da nossa página foi conferida em 24 de outubro de 2026. O CECILIA010 é código de recompensa: vai no campo Reward Code e dá até 5% extra, 5% na primeira compra e 2% nas seguintes."
+          "Os [cupons YesStyle](/cupons/yesstyle) de promoção vão no campo Coupon Code e vencem rápido; a lista da nossa página foi conferida em 27 de outubro de 2026. O CECILIA010 é código de recompensa: vai no campo Reward Code e dá até 5% extra, 5% na primeira compra e 2% nas seguintes."
         ]
       },
       {
@@ -36339,7 +36339,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list was checked on October 24, 2026.",
+      "text": "On our page, the YesStyle coupon list was checked on October 27, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -36357,7 +36357,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "[YesStyle coupon codes](/en/coupons/yesstyle) go in the Coupon Code field and expire quickly; the list on our page was checked on October 24, 2026. CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones."
+          "[YesStyle coupon codes](/en/coupons/yesstyle) go in the Coupon Code field and expire quickly; the list on our page was checked on October 27, 2026. CECILIA010 is a reward code: it goes in the Reward Code field and gives up to 5% extra, 5% on your first order and 2% on later ones."
         ]
       },
       {
@@ -36558,7 +36558,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 24 de octubre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 27 de octubre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -36576,7 +36576,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Los [cupones YesStyle](/es/coupons/yesstyle) promocionales van en el campo Coupon Code y caducan rápido; la lista de nuestra página se revisó el 24 de octubre de 2026. CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes."
+          "Los [cupones YesStyle](/es/coupons/yesstyle) promocionales van en el campo Coupon Code y caducan rápido; la lista de nuestra página se revisó el 27 de octubre de 2026. CECILIA010 es un código de recompensa: va en el campo Reward Code y da hasta un 5% extra, un 5% en la primera compra y un 2% en las siguientes."
         ]
       },
       {
@@ -36777,7 +36777,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 24 octobre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 27 octobre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -36795,7 +36795,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le 24 octobre 2026. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
+          "Les [coupons YesStyle](/fr/coupons/yesstyle) promo vont dans le champ Coupon Code et expirent vite ; la liste de notre page a été vérifiée le 27 octobre 2026. CECILIA010 est un code de récompense : il va dans le champ Reward Code et donne jusqu'à 5% en plus (5% à la première commande, 2% ensuite)."
         ]
       },
       {
@@ -36996,7 +36996,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 24. Oktober 2026 geprüft.",
+      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 27. Oktober 2026 geprüft.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -37014,7 +37014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am 24. Oktober 2026 geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
+          "[YesStyle-Gutscheine](/de/coupons/yesstyle) aus Aktionen gehören ins Feld Coupon Code und laufen schnell ab; die Liste auf unserer Seite wurde am 27. Oktober 2026 geprüft. CECILIA010 ist ein Belohnungscode: Er kommt ins Feld Reward Code und bringt bis zu 5% extra, 5% auf die erste Bestellung und 2% auf alle weiteren."
         ]
       },
       {
@@ -37215,7 +37215,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 10월 24일에 확인했습니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 10월 27일에 확인했습니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -37233,7 +37233,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 2026년 10월 24일에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
+          "[YesStyle 쿠폰](/ko/coupons/yesstyle) 중 프로모션 쿠폰은 Coupon Code 입력란에 넣으며 금방 만료됩니다. 저희 페이지의 쿠폰 목록은 2026년 10월 27일에 확인했습니다. CECILIA010은 리워드 코드로, Reward Code 입력란에 넣으면 최대 5%가 추가로 할인됩니다. 첫 구매는 5%, 이후 구매는 2%입니다."
         ]
       },
       {
@@ -37434,7 +37434,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年10月24日に確認しました。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年10月27日に確認しました。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -37452,7 +37452,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は2026年10月24日に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
+          "[YesStyleクーポン](/ja/coupons/yesstyle)のうちプロモクーポンはCoupon Code欄に入力し、期限が短めです。当サイトのクーポン一覧は2026年10月27日に確認しました。CECILIA010はリワードコードで、Reward Code欄に入力すると最大5%が追加で割引され、初回は5%、2回目以降は2%です。"
         ]
       },
       {
@@ -37653,7 +37653,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表於2026年10月24日核對。",
+      "text": "本站頁面的 YesStyle 優惠碼列表於2026年10月27日核對。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -37671,7 +37671,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於2026年10月24日核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
+          "[YesStyle 優惠碼](/zh-hant/coupons/yesstyle)中的促銷碼填入 Coupon Code 欄位，很快會過期；本站頁面的優惠碼列表於2026年10月27日核對。CECILIA010 是獎勵代碼，填入 Reward Code 欄位，可額外獲得最高 5% 折扣：首單 5%，之後 2%。"
         ]
       },
       {
@@ -37872,7 +37872,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表于2026年10月24日核对。",
+      "text": "本站页面的 YesStyle 优惠码列表于2026年10月27日核对。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -37890,7 +37890,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于2026年10月24日核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
+          "[YesStyle 优惠码](/zh-hans/coupons/yesstyle)中的促销码填入 Coupon Code 栏位，很快会过期；本站页面的优惠码列表于2026年10月27日核对。CECILIA010 是奖励代码，填入 Reward Code 栏位，可额外获得最高 5% 折扣：首单 5%，之后 2%。"
         ]
       },
       {
@@ -38278,7 +38278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 24 de outubro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 27 de outubro de 2026."
         ]
       },
       {
@@ -39379,7 +39379,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. Checks are in the chapter \"Are YesStyle Products Authentic? Where Is YesStyle From?\". To save, see the [YesStyle coupon codes](/en/coupons/yesstyle), checked on October 24, 2026."
+          "Yes, YesStyle is legitimate: it is a Hong Kong company founded in 2006 and owned by the publicly listed YesAsia Holdings. But authenticity is stated by the store itself, with no independent audit, so check batch code, expiry date and seal on arrival. Checks are in the chapter \"Are YesStyle Products Authentic? Where Is YesStyle From?\". To save, see the [YesStyle coupon codes](/en/coupons/yesstyle), checked on October 27, 2026."
         ]
       },
       {
@@ -39518,7 +39518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente: revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo «¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?». Para ahorrar, mira los [cupones YesStyle](/es/coupons/yesstyle), revisados el 24 de octubre de 2026."
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong fundada en 2006 y subsidiaria de YesAsia Holdings, que cotiza en bolsa. Pero la originalidad la declara la propia tienda, sin auditoría independiente: revisa lote, caducidad y precinto al recibir. Las comprobaciones están en el capítulo «¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?». Para ahorrar, mira los [cupones YesStyle](/es/coupons/yesstyle), revisados el 27 de octubre de 2026."
         ]
       },
       {
@@ -39652,7 +39652,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 24 octobre 2026."
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et filiale de YesAsia Holdings, cotée en bourse. Mais l'authenticité est déclarée par la boutique elle-même, sans audit indépendant : vérifiez lot, date de péremption et scellé à la réception. Voir le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour économiser, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 27 octobre 2026."
         ]
       },
       {
@@ -39785,7 +39785,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Zum Sparen finden Sie die [YesStyle-Gutscheine](/de/coupons/yesstyle), geprüft am 24. Oktober 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und Tochter der börsennotierten YesAsia Holdings. Die Echtheit der Produkte erklärt allerdings der Shop selbst, ohne unabhängige Prüfung. Prüfen Sie bei Lieferung Charge, Haltbarkeitsdatum und Siegel. Details im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Zum Sparen finden Sie die [YesStyle-Gutscheine](/de/coupons/yesstyle), geprüft am 27. Oktober 2026."
         ]
       },
       {
@@ -39918,7 +39918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 YesStyle이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다. 할인받아 구매하려면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 확인하세요(2026년 10월 24일 확인)."
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년 설립된 홍콩 기업으로 상장사 YesAsia Holdings 소속입니다. 다만 정품 여부는 YesStyle이 직접 밝히는 내용이고 독립적인 감사는 없으니, 받으면 제조번호, 유통기한, 봉인을 확인하세요. 확인 방법은 'YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?' 장에 있습니다. 할인받아 구매하려면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 확인하세요(2026년 10월 27일 확인)."
         ]
       },
       {
@@ -40036,7 +40036,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場企業YesAsia Holdingsの傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。割引で買うなら[YesStyleクーポン](/ja/coupons/yesstyle)をご覧ください（2026年10月24日に確認）。"
+          "はい、YesStyleは実在する企業です。2006年設立の香港企業で、上場企業YesAsia Holdingsの傘下です。ただし正規品かは同社の自己申告で第三者の監査はないため、届いたらロット番号、使用期限、封を確認してください。方法は「YesStyleの商品は正規品？ YesStyleはどこの国の会社？」の章にあります。割引で買うなら[YesStyleクーポン](/ja/coupons/yesstyle)をご覧ください（2026年10月27日に確認）。"
         ]
       },
       {
@@ -40169,7 +40169,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於2026年10月24日核對）。"
+          "是的，YesStyle 是正規公司：2006 年創立於香港，隸屬上市公司 YesAsia Holdings。不過商品是否為正品由平台自行聲明，沒有獨立審核，收貨後請檢查批號、有效期限和封條。檢查方法見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想優惠購買，請查看 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)（於2026年10月27日核對）。"
         ]
       },
       {
@@ -40287,7 +40287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于2026年10月24日核对）。"
+          "是的，YesStyle 是正规公司：2006 年创立于香港，隶属上市公司 YesAsia Holdings。不过商品是否为正品由平台自行声明，没有独立审核，收货后请检查批号、有效期和封条。检查方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，请查看 [YesStyle 优惠码](/zh-hans/coupons/yesstyle)（于2026年10月27日核对）。"
         ]
       },
       {
@@ -48635,7 +48635,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 24 ottobre 2026.",
+      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 27 ottobre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -48653,7 +48653,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il 24 ottobre 2026. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
+          "I [coupon YesStyle](/it/coupons/yesstyle) promozionali vanno nel campo Coupon Code e scadono presto; la lista della nostra pagina è stata controllata il 27 ottobre 2026. CECILIA010 è un codice ricompensa: va nel campo Reward Code e dà fino al 5% in più, il 5% sul primo ordine e il 2% sui successivi."
         ]
       },
       {
@@ -48824,7 +48824,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo «I prodotti YesStyle sono originali? Da dove viene YesStyle?». Per comprare con lo sconto, vedi i [coupon YesStyle](/it/coupons/yesstyle), controllati il 24 ottobre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. Però l'originalità è dichiarata dal sito stesso, senza audit indipendente: alla consegna controlla lotto, scadenza e sigillo. I controlli sono nel capitolo «I prodotti YesStyle sono originali? Da dove viene YesStyle?». Per comprare con lo sconto, vedi i [coupon YesStyle](/it/coupons/yesstyle), controllati il 27 ottobre 2026."
         ]
       },
       {
@@ -130741,8 +130741,8 @@ export const reviewsData: unknown[] = [
     "id": 616,
     "slug": "toda-up-e-confiavel",
     "locale": "pt",
-    "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas",
-    "seoTitle": "Toda Up é confiável? CNPJ, site oficial e trocas",
+    "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas",
+    "seoTitle": "Fita Up (Toda Up) é confiável? CNPJ, site oficial e trocas",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -130758,7 +130758,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Quem opera a Toda Up, a ligação com a Fita UP, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete, com dados de 26/10/2026.",
-    "metaDescription": "A Toda Up é confiável? É a marca nova da FITA UP LTDA, CNPJ ativo desde 2020. Veja trocas em 30 dias, reembolso, frete e como conferir o site oficial.",
+    "metaDescription": "Fita Up é confiável? A Toda Up é o nome novo da Fita Up: FITA UP LTDA, CNPJ ativo desde 2020. Veja trocas em 30 dias, reembolso, frete e o site oficial.",
     "image": "/images/reviews/toda-up/toda-up-e-confiavel-capa-discover.webp",
     "imageAlt": "Três modelos com sutiãs da Toda Up, com o logo da loja, o título Toda Up é confiável? e os selos RA1000 e Empresa Verificada do Reclame Aqui em 26/10/2026",
     "imageFit": "contain",
@@ -130777,7 +130777,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
       },
       {
         "slug": "cupom-toda-up-como-usar",
@@ -130792,7 +130792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é a marca nova da FITA UP LTDA, empresa brasileira com CNPJ ativo desde 18/12/2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O que pede leitura é o prazo de reembolso, que a política não fixa, e a troca de nome, explicada abaixo."
+          "Sim, a Toda Up é o nome novo da Fita Up: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 18/12/2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
         ]
       },
       {
@@ -130855,6 +130855,17 @@ export const reviewsData: unknown[] = [
           "O endereço oficial é todaup.com. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
           "Depois, role até o rodapé. Ele traz o CNPJ 40.159.443/0001-44 e o endereço em Biguaçu/SC. Compare o número com a consulta pública do CNPJ: deve aparecer a FITA UP LTDA, ativa.",
           "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Endereço parecido, com outra terminação, não é nenhum dos dois domínios da marca: confira o CNPJ no rodapé antes de comprar."
+        ]
+      },
+      {
+        "heading": "Onde comprar a Fita Up hoje",
+        "paragraphs": [
+          "Só no site oficial, todaup.com. Na leitura de 26/10/2026, o endereço antigo, www.fitaup.com, e o blog da Fita Up redirecionam para o todaup.com, e a loja não lista revendedor nem loja em marketplace. A fita adesiva Fita Up segue no catálogo, na categoria Adesivos, ao lado das peças de moda íntima da Toda Up."
+        ],
+        "bullets": [
+          "Site oficial: todaup.com, com o CNPJ 40.159.443/0001-44 no rodapé.",
+          "Endereço antigo: www.fitaup.com leva ao todaup.com.",
+          "Fora do site oficial, a loja não indica nenhum ponto de venda."
         ]
       },
       {
@@ -130952,6 +130963,7 @@ export const reviewsData: unknown[] = [
           "A Toda Up é confiável? É a marca da FITA UP LTDA, empresa registrada no Brasil, com CNPJ ativo e sede em Biguaçu (SC), que publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa.",
           "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 18/12/2020 na consulta pública de 26/10/2026. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
+          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 18/12/2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
           "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
           "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
           "Quando o reembolso cai? A política não diz. No cartão, o estorno é feito pela administradora; nas outras formas, pelo procedimento financeiro da loja.",
@@ -130965,8 +130977,8 @@ export const reviewsData: unknown[] = [
     "id": 617,
     "slug": "toda-up-reclame-aqui-nota-reputacao",
     "locale": "pt",
-    "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram",
-    "seoTitle": "Toda Up no Reclame Aqui: nota e reputação",
+    "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram",
+    "seoTitle": "Fita Up (Toda Up) no Reclame Aqui: nota e reputação",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -131001,7 +131013,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "toda-up-e-confiavel",
-        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
       },
       {
         "slug": "cupom-toda-up-como-usar",
@@ -131184,7 +131196,7 @@ export const reviewsData: unknown[] = [
     "slug": "cupom-toda-up-como-usar",
     "locale": "pt",
     "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada",
-    "seoTitle": "Cupom Toda Up: como usar e o que soma (10% OFF)",
+    "seoTitle": "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -131223,11 +131235,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "toda-up-e-confiavel",
-        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
       },
       {
         "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
       }
     ],
     "contentSections": [
@@ -131240,7 +131252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom da Toda Up",
         "paragraphs": [
-          "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. O mesmo código existe em outras lojas; aqui, tudo o que está escrito é só sobre a Toda Up e vale só no site oficial, todaup.com.",
+          "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui, tudo o que está escrito é só sobre a Toda Up e vale só no site oficial, todaup.com.",
           "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. Quando a loja tem uma promoção progressiva no ar, ela entra primeiro, e os 10% saem do que sobra."
         ],
         "image": {
@@ -131352,9 +131364,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "O que não testamos",
+        "heading": "Kits e o que não testamos",
         "paragraphs": [
-          "Não finalizamos nenhuma compra, e não testamos o cupom com mais de uma unidade do mesmo produto nem em kits. O limite de cupons por pedido e as exceções de produto a loja não publica: confira no carrinho, depois de aplicar o código."
+          "Nos kits Leve 2 e Leve 3 da loja, o cupom somou com o desconto do kit no teste de 26/10/2026. Não finalizamos nenhuma compra. O limite de cupons por pedido e as exceções de produto a loja não publica: confira no carrinho, depois de aplicar o código."
         ]
       },
       {
@@ -131421,11 +131433,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "toda-up-e-confiavel",
-        "title": "Toda Up é confiável? Empresa, CNPJ, site oficial e trocas"
+        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
       },
       {
         "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up no Reclame Aqui: nota, reputação e o que os números mostram"
+        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
       }
     ],
     "contentSections": [
