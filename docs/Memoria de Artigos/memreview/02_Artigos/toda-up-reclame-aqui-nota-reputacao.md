@@ -305,3 +305,7 @@ Upload FTPS, verificação HTTPS (18/18 da Toda Up), `prepare-delivery --append`
 ## Job 4 (JSON, 26/10/2026)
 
 `content/reviews/toda-up-reclame-aqui-nota-reputacao.json`, id 617, `affiliate: toda-up`, `coupon: MAUAD`, `isNew: true`, `imageFit: contain`. FAQ em bullets "Pergunta? resposta".
+
+## Retrofit "Fita Up" (decisão do Bruno, 26/10/2026; aplicado em 27/10/2026)
+
+Redigido pelo Fable 5.1, conferido pelo Claude: title com "(antiga Fita Up)" e seoTitle "Fita Up (Toda Up) no Reclame Aqui: nota e reputação". Títulos dos relacionados atualizados em 616 a 619.
