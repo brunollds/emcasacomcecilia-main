@@ -151,6 +151,8 @@ Ajustes em artigos publicados, sem artigo novo (sessão de melhorias):
 - **DAMIE, `sofa-na-caixa-inflow-ou-damie` (achado de 25/10/2026):** conferir se o artigo diz que o teste de 30 dias da DAMIE exige a embalagem preservada, e nomear o tecido da Inflow na tabela (os R$ 5.031 a 5.733 no Pix batem hoje só com o Boucle Plus Green; em bouclê comum, 3 lugares com 2 cantos e apoio R$ 4.790 no cartão). A garantia da Inflow está certa (90 dias = 3 meses).
 - **Mais Mu, `mais-mu-ou-growth` (achado de 25/10/2026):** o artigo diz isolado sem sabor com 18 porções; a loja diz "cerca de 16 doses". O dossiê também está desatualizado: a loja publica hoje "cerca de N doses" em 30 de 48 páginas de whey. **Corrigido em 26/10/2026:** o isolado sem sabor passou a "cerca de 16 doses" segundo a loja, com o preço por 100 g de proteína refeito (16 × 22 g = 352 g).
 - **Dr. Peanut, `dr-peanut-qual-tamanho-compensa` (achado de 26/10/2026, revisão do Fable conferida no Chrome):** o artigo diz "entrega mensal, bimestral ou trimestral", sem fonte. A página /assinaturapro diz só "Escolha a frequência e receba automaticamente", "Altere produtos e datas a qualquer momento" e "Cancele quando quiser, sem multa nem burocracia". Trocar pela frase da página (ou pelas frequências que o Bruno viu no carrinho) e acrescentar que, contra o kit de 250 g com o cupom, a assinatura sai R$ 0,42 (2 pastas), R$ 0,94 (3) e R$ 1,56 (4) mais barata por ciclo. A pauta própria da assinatura foi descartada (sem busca, ganho de centavos). **Decisão do Bruno (26/10/2026):** manter "mensal, bimestral ou trimestral", confirmado pelo teste dele no carrinho (esta nota estava errada nesse ponto). Feito em 26/10/2026: entrou a frase dos R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo.
+- **Toda Up, retrofit "Fita Up" (decisão do Bruno, 26/10/2026; pedido já com a sessão de artigos):** 616 com "Fita Up" no title, seoTitle ("Fita Up (Toda Up) é confiável? CNPJ, site oficial e trocas"), metaDescription e resposta rápida, mais a seção "Onde comprar a Fita Up hoje" (só o site oficial; www.fitaup.com e o blog antigo redirecionam para o todaup.com; a loja não lista revendedor nem loja em marketplace, leitura de 26/10) e a FAQ "A Fita Up é golpe?"; 617 com "(antiga Fita Up)" no title e "Fita Up (Toda Up) no Reclame Aqui: nota e reputação" no seoTitle; 618 com "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma" no seoTitle e uma frase na introdução. 619 sem mudança. Indicação ao Prêmio Reclame AQUI 2025 (blog da loja) fica fora.
+- **Toda Up, kits (teste do Bruno, 26/10/2026):** o MAUAD soma com os kits "Leve 2" e "Leve 3", apesar de a página dizer "Cupons não acumulam com o kit ... salvo cupons de influenciadoras". Se 618 ou 619 disserem o contrário, corrigir.
 - **Dr. Peanut:** se o whey for da Max Titanium, uma frase no `dr-peanut-e-confiavel`.
 
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
@@ -176,12 +178,14 @@ pela ficha, pela política e pelo preço.
 | T4 | Black Friday Toda Up | **Pauta aprovada em 26/10/2026:** [[black-friday-toda-up]] |
 | T5 | Sutiã de silicone invisível: como funciona e para qual roupa | Estoque |
 | T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | Estoque |
-| T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | Estoque |
+| T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | **Pauta aprovada em 26/10/2026:** [[fita-up-como-usar]] |
 | T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | Estoque |
 | T9 | SkinUp ou Cotton Up: segunda pele ou algodão | Estoque |
 | T10 | Kits da Toda Up (top + calcinha): quando compensam | Estoque (os 5 kits SkinUp e Comfort estavam esgotados em 26/10) |
 
 Checar também "toda up loja fisica" no autocompletar antes da próxima rodada.
+
+"Fita Up original: site oficial e onde comprar" (26/10/2026): não vira artigo, porque a resposta cabe em poucas frases e concorre com [[toda-up-e-confiavel]]. Vira seção "Onde comprar a Fita Up hoje" e FAQ "A Fita Up é golpe?" no 616 (ver o retrofit abaixo). A busca é quase toda pelo nome antigo ("fita up é confiável", "fita up reclame aqui", "cupom de desconto fita up", "fita up site oficial").
 
 ## Temas para depois (não prioritários)
 
