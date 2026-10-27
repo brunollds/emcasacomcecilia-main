@@ -45,6 +45,8 @@ promoção progressiva (−R$ 43,28) e mais 10% do MAUAD (−R$ 31,75): R$ 285,7
 
 ## 3. Alertas Editoriais
 
+- **Fita Up e kits (26/10/2026):** o produto Fita Up segue no catálogo (R$ 119,90, de R$ 179,90; larguras P até 44, M até 48, G até 54 pelo guia da página). A página não diz se a fita é reutilizável. Kits "Leve 2" e "Leve 3": a página diz "Cupons não acumulam com o kit: vale sempre o maior desconto, salvo cupons de influenciadoras", e o MAUAD somou com os dois no teste do Bruno (26/10). www.fitaup.com redireciona para o todaup.com; a loja não lista revendedor nem loja em marketplace. As buscas usam o nome antigo: "Fita Up" no título dos artigos. Briefing [[fita-up-como-usar]].
+
 - **Empresa e reputação (lidas no Chrome em 26/10/2026):** FITA UP LTDA, CNPJ 40.159.443/0001-44, desde 18/12/2020, ativa, Biguaçu/SC (BrasilAPI); "Toda Up" é a marca nova da mesma empresa (FAQ da loja). Reclame Aqui `empresa/toda-up` com o mesmo CNPJ: RA1000, nota 8,5 (01/04 a 30/09/2026), 93,1% resolvidas. Campanha no ar: "Black Antecipada" (até 20% OFF, frete grátis, 3x sem juros), sem datas publicadas. O /products.json traz cópias por canal ("- Todalovers", "- Influ", "- Oferta Exclusiva"): preço só pelas coleções públicas. Termos de uso e privacidade da loja ficam fora dos textos. Briefings [[toda-up-e-confiavel]], [[toda-up-reclame-aqui-nota-reputacao]], [[cupom-toda-up-como-usar]] e [[black-friday-toda-up]].
 
 - Nos artigos deste parceiro, usar `affiliate: "toda-up"` e link relativo para `/cupons/toda-up`,
