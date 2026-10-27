@@ -6,9 +6,9 @@ parceiro: "[[Toda Up]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia prático"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-10-26"
 modo_i18n: "somente-pt"
@@ -180,3 +180,84 @@ Observação para o Bruno, sem pergunta: T5 e T6 não foram abertas aqui (pedido
 7. Sem nota nem depoimento de cliente (4,86 com 6.953 avaliações na página: fora). Sem conforto, "segura", suor ou pele além do que a marca publica, sempre atribuído.
 8. CTA geral "Ver na Toda Up" pelo `offerUrl`, sem prometer que abre a Fita Up. MAUAD só no bloco da loja e numa linha com link ao [[cupom-toda-up-como-usar]].
 9. "Quando escolher outro": protetor de silicone ultrafino (R$ 69,90) e sutiã de silicone invisível (R$ 149,90), um parágrafo cada; T5 e T6 seguem no estoque.
+
+## Rascunho final (Job 2, Fable 5.1, 27/10/2026)
+
+Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)
+
+### Resposta rápida
+A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo da marca é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos da página. Se dá para reutilizar, a Toda Up não informa.
+
+### O que é a Fita Up
+Fita Up é o nome da fita adesiva e era o nome da marca, que agora se chama Toda Up. A loja diz que a mudança foi de nome e visual e que o produto continua no catálogo. Quem quer saber se é a mesma empresa encontra a resposta em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).
+
+A página do produto a descreve como uma fita adesiva para seios que levanta, modela e mantém tudo no lugar sem sutiã, ajustável conforme a roupa ou o decote. Segundo a Toda Up, a composição é 98,5% poliéster e 1,5% elastano, com adesivo acrílico à base de água, e a marca fala em duração de até 12 horas no corpo e em cola hipoalergênica, resistente à água e ao suor.
+
+Em 26/10/2026, a Fita Up custava R$ 119,90 (de R$ 179,90), nas cores Bege, Marrom e Preto e nas larguras P, M e G. Na mesma data, a página oferecia o kit "Leve 2 com 20% OFF + brinde" por R$ 191,84.
+
+[IMAGEM: fita-up-embalagem-modelo]
+
+### Como usar no tomara que caia e no decote
+A Toda Up publica um passo a passo só, sem separar o tomara que caia do decote: a medida no espelho, com a roupa em mente, define onde a fita termina. Resumindo as instruções da marca com as nossas palavras:
+
+- Comece com a pele completamente limpa e seca.
+- Coloque o protetor de mamilo antes da fita.
+- No espelho, meça o posicionamento para definir o tamanho do pedaço.
+- Corte o pedaço na medida.
+- Cole começando pela base do seio e suba até o ponto desejado, sem esticar demais a fita.
+- Ajuste e corte o excesso.
+
+[IMAGEM: fita-up-passo-a-passo]
+
+### Qual largura escolher: P, M ou G
+Pelo guia de tamanhos que a Toda Up publica na página do produto, a largura define até que tamanho de roupa a fita sustenta:
+
+| Largura | Sustenta até o tamanho |
+|---|---|
+| P | 44 |
+| M | 48 |
+| G | 54 |
+
+O guia é da marca, de 26/10/2026, e pode mudar. Na dúvida entre duas larguras, a página do produto é a referência.
+
+### Como tirar e os cuidados que a marca publica
+Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno. Fora isso, nos textos da página lidos em 26/10/2026, não há outros cuidados com a pele.
+
+### Dá para reutilizar?
+A página da Fita Up não diz se a fita pode ser colada de novo. O uso que a Toda Up descreve é cortar um pedaço por vez, colar e remover. Sem essa informação da marca, não afirmamos nem que é de uso único nem que dá para reaplicar.
+
+### Quando escolher outro
+A Toda Up vende a Fita Up na categoria Adesivos, ao lado de outros dois que aparecem na mesma compra.
+
+O Protetor de Silicone Ultrafino (R$ 69,90, de R$ 99,90, em 26/10/2026) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.
+
+O Sutiã de Silicone Invisível (R$ 149,90, de R$ 199,90, em 26/10/2026) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta.
+
+### Onde comprar e preço
+A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 26/10/2026, da unidade e do kit Leve 2, estão na seção "O que é a Fita Up" e podem mudar. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026, no carrinho, sem finalizar a compra. O botão desta página abre o site da Toda Up.
+
+### Perguntas frequentes
+- A Fita Up é reutilizável? A Toda Up não informa. O uso descrito na página é cortar um pedaço por vez e remover com hidratante ou óleo.
+- Qual largura da Fita Up escolher? Pelo guia da marca, P sustenta até o tamanho 44, M até o 48 e G até o 54.
+- A Fita Up serve para tomara que caia? A Toda Up não cita o tomara que caia pelo nome: descreve a fita como sustentação sem sutiã, ajustável à roupa ou ao decote, com um passo a passo só, resumido acima.
+- A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.
+- O cupom vale na Fita Up? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.
+- Quanto tempo a Fita Up fica no corpo? A Toda Up fala em até 12 horas.
+
+## Revisão Job 3 (Fable 5.1, 27/10/2026)
+
+Relatório em `fita-up-como-usar-revisao-job3-2710.md`: 0 bloqueia, 8 corrigir, 9 sugestões. Os 8 "corrigir" e as sugestões 2 a 6 e 9 foram aplicados pelo redator; as fichas do protetor e do sutiã entraram sem frase sobre a leitura. Ficaram de fora a sugestão 1 (o título "Dá para reutilizar?" espelha a busca), a 7 (sem link para /cupons) e a 8 (as imagens já escolhidas). Conferido pelo Claude.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 27/10/2026)
+
+| Imagem | Seção | Origem | Alt | Legenda |
+|---|---|---|---|---|
+| `fita-up-como-usar-capa-discover.webp` (capa, 1600×900, `imageFit: contain`) | — | Foto oficial dos três rolos da Fita Up (todaup.com, baixada em 26/10/2026), sem modelo | Três rolos da Fita Up na cor bege, com o logo da Toda Up e o título Fita Up: como usar | — |
+| `fita-up-embalagem-modelo.webp` | O que é a Fita Up | Foto oficial da página do produto (26/10/2026) | Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up | A Fita Up na embalagem da Toda Up. Foto da loja. |
+| `fita-up-passo-a-passo-2610.webp` | Como usar no tomara que caia e no decote | Quadro nosso, a partir da aba "Como usar e remover" | Quadro com as seis etapas de uso da Fita Up segundo a Toda Up | As etapas que a Toda Up publica na página do produto, em 26/10/2026. Quadro nosso. |
+
+As duas fotos da página com os seios e a fita aplicada ficaram de fora (explícitas demais para a capa e o Discover). O guia P/M/G ficou só na tabela do texto. Upload FTPS, verificação HTTPS (3/3), `prepare-delivery --append` e `phase5-export --write/--check` em 27/10/2026; no manifesto, só as 3 entradas novas.
+
+## Job 4 (JSON, 27/10/2026)
+
+`content/reviews/fita-up-como-usar.json`, id 620, `guias-praticos-utilidade` / `guia`, type "Guia Prático", `affiliate: toda-up`, `coupon: MAUAD` (fora do texto), `isNew: true`, CTA "Ver na Toda Up" pelo `offerUrl`. FAQ em bullets "Pergunta? resposta".

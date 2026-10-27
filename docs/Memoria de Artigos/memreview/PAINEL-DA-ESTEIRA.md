@@ -6,7 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[fita-up-como-usar]]: Fita Up, como usar no tomara que caia e no decote, pelo passo a passo da Toda Up; tamanhos P/M/G, composição, reutilização não informada, preço e kits (MAUAD soma com Leve 2 e Leve 3) (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -37,6 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [x] [[fita-up-como-usar]]: Fita Up, como usar no tomara que caia e no decote, pelo passo a passo da Toda Up; tamanhos P/M/G, composição, reutilização não informada, preço e kits (MAUAD soma com Leve 2 e Leve 3) (PT) (JSON pronto em 27/10/2026, aguardando deploy)
 
 ---
 
