@@ -153,6 +153,7 @@ Ajustes em artigos publicados, sem artigo novo (sessão de melhorias):
 - **Dr. Peanut, `dr-peanut-qual-tamanho-compensa` (achado de 26/10/2026, revisão do Fable conferida no Chrome):** o artigo diz "entrega mensal, bimestral ou trimestral", sem fonte. A página /assinaturapro diz só "Escolha a frequência e receba automaticamente", "Altere produtos e datas a qualquer momento" e "Cancele quando quiser, sem multa nem burocracia". Trocar pela frase da página (ou pelas frequências que o Bruno viu no carrinho) e acrescentar que, contra o kit de 250 g com o cupom, a assinatura sai R$ 0,42 (2 pastas), R$ 0,94 (3) e R$ 1,56 (4) mais barata por ciclo. A pauta própria da assinatura foi descartada (sem busca, ganho de centavos). **Decisão do Bruno (26/10/2026):** manter "mensal, bimestral ou trimestral", confirmado pelo teste dele no carrinho (esta nota estava errada nesse ponto). Feito em 26/10/2026: entrou a frase dos R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo.
 - **Toda Up, retrofit "Fita Up" (decisão do Bruno, 26/10/2026; feito no #314, `3db0d117`):** 616 com "Fita Up" no title, seoTitle ("Fita Up (Toda Up) é confiável? CNPJ, site oficial e trocas"), metaDescription e resposta rápida, mais a seção "Onde comprar a Fita Up hoje" (só o site oficial; www.fitaup.com e o blog antigo redirecionam para o todaup.com; a loja não lista revendedor nem loja em marketplace, leitura de 26/10) e a FAQ "A Fita Up é golpe?"; 617 com "(antiga Fita Up)" no title e "Fita Up (Toda Up) no Reclame Aqui: nota e reputação" no seoTitle; 618 com "Cupom Fita Up / Toda Up: 10% OFF, como usar e o que soma" no seoTitle e uma frase na introdução. 619 sem mudança. Indicação ao Prêmio Reclame AQUI 2025 (blog da loja) fica fora.
 - **Toda Up, kits (teste do Bruno, 26/10/2026):** o MAUAD soma com os kits "Leve 2" e "Leve 3", apesar de a página dizer "Cupons não acumulam com o kit ... salvo cupons de influenciadoras". O 618 já diz isso (seção "Kits e o que não testamos", #314).
+- **Toda Up, `fita-up-como-usar` (achado de 27/10/2026):** o artigo diz que o sutiã de silicone sai a R$ 149,90 "de R$ 199,90"; a loja mostra "de R$ 159,90" (página da Fita Up em 26/10 e ficha do sutiã em 27/10, lidas no Chrome). Corrigir, e ligar o 620 aos textos do sutiã e do protetor quando saírem.
 - **Dr. Peanut:** se o whey for da Max Titanium, uma frase no `dr-peanut-e-confiavel`.
 
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
@@ -176,8 +177,8 @@ pela ficha, pela política e pelo preço.
 | T2 | Toda Up no Reclame Aqui | **Pauta aprovada em 26/10/2026:** [[toda-up-reclame-aqui-nota-reputacao]] |
 | T3 | Cupom Toda Up: como usar | **Pauta aprovada em 26/10/2026:** [[cupom-toda-up-como-usar]] |
 | T4 | Black Friday Toda Up | **Pauta aprovada em 26/10/2026:** [[black-friday-toda-up]] |
-| T5 | Sutiã de silicone invisível: como funciona e para qual roupa | Estoque |
-| T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | Estoque |
+| T5 | Sutiã de silicone invisível: como funciona e para qual roupa | **Pauta aprovada em 27/10/2026:** [[sutia-de-silicone-invisivel-como-usar]] |
+| T6 | Protetor de silicone ultrafino (adesivo de seio): como usar e quanto dura | **Pauta aprovada em 27/10/2026:** [[protetor-de-silicone-mamilo-como-usar]] |
 | T7 | Fita Up para tomara que caia e decote: como usar (sinal "fita up funciona") | **Pauta aprovada em 26/10/2026:** [[fita-up-como-usar]] |
 | T8 | Sutiã Comfort Up, Line ou Slim: qual escolher | Estoque |
 | T9 | SkinUp ou Cotton Up: segunda pele ou algodão | Estoque |
