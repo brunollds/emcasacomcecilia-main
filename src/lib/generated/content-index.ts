@@ -131628,7 +131628,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Sutiã de Silicone Invisível",
-              "R$ 199,90",
+              "R$ 159,90",
               "R$ 149,90"
             ],
             [
@@ -131860,8 +131860,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quando escolher outro",
         "paragraphs": [
           "A Toda Up vende a Fita Up na categoria Adesivos, ao lado de outros dois que aparecem na mesma compra.",
-          "O Protetor de Silicone Ultrafino (R$ 69,90, de R$ 99,90, em 26/10/2026) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
-          "O Sutiã de Silicone Invisível (R$ 149,90, de R$ 199,90, em 26/10/2026) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
+          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90, em 26/10/2026) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
+          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90, em 26/10/2026) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
         ]
       },
       {
@@ -131879,6 +131879,389 @@ export const reviewsData: unknown[] = [
           "A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.",
           "O cupom vale na Fita Up? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
           "Quanto tempo a Fita Up fica no corpo? A Toda Up fala em até 12 horas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "slug": "sutia-de-silicone-invisivel-como-usar",
+    "locale": "pt",
+    "title": "Sutiã de silicone invisível: como usar e para qual roupa",
+    "seoTitle": "Sutiã de silicone invisível: como usar e para qual roupa",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de outubro de 2026",
+    "publishedAtISO": "2026-10-27",
+    "draft": false,
+    "isNew": true,
+    "description": "O que a Toda Up publica do sutiã de silicone invisível: como colar, o tamanho pelo busto, para qual roupa, como lavar e o quadro com a Fita Up e o protetor.",
+    "metaDescription": "Sutiã de silicone invisível da Toda Up: o passo a passo que a marca publica, os tamanhos P, M e G, para qual roupa serve e como lavar. Preço de 27/10/2026.",
+    "image": "/images/reviews/toda-up/sutia-de-silicone-invisivel-capa-discover.webp",
+    "imageAlt": "Modelo com o Sutiã de Silicone Invisível da Toda Up, com o logo da loja e o título Sutiã de silicone: como usar",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão e procure o sutiã na categoria Adesivos.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou o sutiã. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "fita-up-como-usar",
+        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+      },
+      {
+        "slug": "protetor-de-silicone-mamilo-como-usar",
+        "title": "Protetor de silicone da Toda Up: qual tamanho e quantas vezes dá para usar"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O sutiã de silicone invisível da Toda Up é uma peça adesiva pronta, em P, M e G, a R$ 149,90 em 27/10/2026. Pela ficha, ele se cola sobre o seio com a pele seca e serve para vestido de festa e frente única, sem alças e com as costas nuas. Quantas vezes dá para usar, a marca não informa."
+        ]
+      },
+      {
+        "heading": "O que é o sutiã de silicone invisível",
+        "paragraphs": [
+          "O Sutiã de Silicone Invisível é um dos três adesivos da categoria Adesivos da Toda Up, a marca que antes se chamava Fita Up. A loja diz que a mudança foi só de nome e visual; quem quer confirmar que é a mesma empresa encontra a resposta em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
+          "A ficha o descreve como um adesivo que adere à pele, modela os seios de forma discreta e some na roupa, sem alças e com as costas nuas. As tags da página são adesivo, efeito lifting, hipoalergênico e sutiã invisível. Ele não é a [Fita Up](/reviews/fita-up-como-usar): a fita se corta na medida e se cola por partes, e o sutiã é a peça inteira, com fecho.",
+          "Em 27/10/2026, o sutiã custava R$ 149,90 (de R$ 159,90), nos tamanhos P, M e G, sem opção de cor. Na mesma data, a página oferecia o kit \"Leve 2 com 16% OFF + brinde\" por R$ 269,90, com uma calcinha da loja de brinde. Quanto tempo o sutiã fica no corpo, a Toda Up não publica na página do produto."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
+          "alt": "Mãos unindo os dois lados do fecho do Sutiã de Silicone Invisível da Toda Up, em foto oficial da loja",
+          "caption": "O fecho une os dois lados do sutiã. Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Como usar: o passo a passo da Toda Up",
+        "paragraphs": [
+          "O FAQ da página traz a aplicação em etapas: primeiro a pele, depois a peça, e o fecho só se une com os dois lados colados. Resumindo as instruções da marca com as nossas palavras:"
+        ],
+        "bullets": [
+          "Seque bem a pele da região, sem hidratante, sérum, perfume ou qualquer produto oleoso.",
+          "Tire o plástico de proteção e aplique a peça sobre o seio. Para um decote mais marcado, a marca indica inclinar o fecho na direção do umbigo.",
+          "Repita no outro seio, deixando os dois lados nivelados.",
+          "Una os dois lados do fecho para ajustar o formato e pressione com as mãos por alguns segundos.",
+          "Para tirar, remova devagar, de cima para baixo."
+        ],
+        "postParagraphs": [
+          "A Toda Up diz que o sutiã é hipoalergênico e, mesmo assim, pede um pré-teste antes da aplicação. Para tirar, ela não indica hidratante nem óleo, como faz na Fita Up."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-passo-a-passo-2710.webp",
+          "alt": "Quadro com o passo a passo do sutiã de silicone segundo a Toda Up: pele seca sem hidratante, sérum, perfume ou óleo; aplicar sobre o seio; repetir no outro na mesma altura; fechar o fecho e pressionar; tirar de cima para baixo",
+          "caption": "As etapas do FAQ da Toda Up, em 27/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.1314
+        }
+      },
+      {
+        "heading": "Qual tamanho: P, M ou G",
+        "paragraphs": [
+          "O tamanho segue o busto, pelo FAQ da marca:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tamanho",
+            "Busto"
+          ],
+          "rows": [
+            [
+              "P",
+              "38 a 42"
+            ],
+            [
+              "M",
+              "42 a 44"
+            ],
+            [
+              "G",
+              "44 a 48"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os três estavam disponíveis em 27/10/2026. A tabela é da Toda Up, lida em 27/10/2026, e pode mudar; o 42 e o 44 aparecem em duas faixas, e na dúvida entre dois tamanhos a página do produto é a referência."
+        ]
+      },
+      {
+        "heading": "Para qual roupa",
+        "paragraphs": [
+          "A ficha cita vestidos de festa e frente única, e descreve a peça como um adesivo sem alças e com as costas nuas. Essa é a lista da marca: roupas em que a alça ou a faixa das costas de um sutiã comum apareceriam.",
+          "O tomara que caia não está na ficha do sutiã. Para outras peças, como blusa de alça fina ou top de costas abertas, a ficha também não diz nada."
+        ]
+      },
+      {
+        "heading": "Como lavar e guardar",
+        "paragraphs": [
+          "Pelo FAQ da Toda Up, o sutiã se lava com água e sabão neutro e seca ao natural. A marca orienta higienizar quando houver sujeira e guardar a peça como indica a embalagem, \"para uma vida útil maior\".",
+          "Quantas vezes o sutiã pode ser usado, a Toda Up não informa, e \"reutilizável\" não está na ficha dele: na categoria Adesivos, a marca só usa a palavra no protetor de silicone, como mostra o quadro abaixo."
+        ]
+      },
+      {
+        "heading": "Sutiã, Fita Up ou protetor de silicone",
+        "paragraphs": [
+          "Os três adesivos da Toda Up têm funções diferentes, e a ficha de cada um diz para que serve. O quadro abaixo junta o que a marca publica; os dados da Fita Up são de 26/10/2026 e os do sutiã e do protetor, de 27/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Fita Up",
+            "Sutiã de Silicone Invisível",
+            "Protetor de Silicone Ultrafino"
+          ],
+          "rows": [
+            [
+              "O que é",
+              "Fita adesiva que se corta e se cola no seio",
+              "Peça adesiva de silicone pronta, com fecho",
+              "Protetor adesivo de silicone para o mamilo"
+            ],
+            [
+              "Para quê, pela marca",
+              "Sustentar e modelar sem sutiã, ajustável ao decote",
+              "Vestido de festa e frente única, sem alças e com as costas nuas",
+              "Não marcar o seio no tecido fino, na blusa branca ou no vestido justo"
+            ],
+            [
+              "Tamanhos",
+              "P até o 44, M até o 48, G até o 54 (tamanho de roupa)",
+              "P (busto 38 a 42), M (42 a 44), G (44 a 48)",
+              "P 8 cm, M 10 cm, G 12 cm"
+            ],
+            [
+              "Cores",
+              "Bege, Marrom, Preto",
+              "Sem opção de cor",
+              "Creme, Caramelo, Avelã"
+            ],
+            [
+              "Reutilização, pela marca",
+              "A página não diz",
+              "Não diz quantas vezes; guardar como indica a embalagem",
+              "\"Reutilizável\", \"até 30 vezes\""
+            ],
+            [
+              "Preço",
+              "R$ 119,90 (de R$ 179,90)",
+              "R$ 149,90 (de R$ 159,90)",
+              "R$ 69,90 (de R$ 99,90)"
+            ],
+            [
+              "Kit",
+              "Leve 2 com 20% OFF + brinde: R$ 191,84",
+              "Leve 2 com 16% OFF + brinde: R$ 269,90",
+              "Leve 3: R$ 139,80"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O protetor tem guia próprio em [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar), com o tamanho pelo número do sutiã, a lavagem e o número de usos que a marca publica para ele. Pelas fichas, a marca indica a fita para sustentar e o protetor para o seio não marcar no tecido; o sutiã é a única das três peças que a marca descreve como uma peça pronta, com fecho e tamanho pelo busto. Qual dos três escolher depende da roupa e do que a pessoa quer da peça; os preços e os kits do quadro mudam com as campanhas da loja."
+        ]
+      },
+      {
+        "heading": "Onde comprar e preço",
+        "paragraphs": [
+          "O sutiã de silicone invisível se compra no site oficial da Toda Up, na categoria Adesivos. Os preços de 27/10/2026, da unidade e do kit Leve 2, estão na seção \"O que é o sutiã de silicone invisível\" e podem mudar. O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 da loja no teste de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O sutiã de silicone invisível pode ser usado mais de uma vez? A Toda Up não informa quantas vezes. A ficha só diz que lavar e guardar como indica a embalagem dá uma vida útil maior.",
+          "Qual tamanho escolher? Pelo FAQ da marca, P para busto de 38 a 42, M de 42 a 44 e G de 44 a 48.",
+          "Para qual roupa serve? A ficha cita vestido de festa e frente única, sem alças e com as costas nuas. O tomara que caia não está na ficha do sutiã.",
+          "O sutiã de silicone invisível é hipoalergênico? A Toda Up diz que sim e pede um pré-teste antes da aplicação.",
+          "O cupom vale no sutiã? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
+          "É a mesma coisa que a Fita Up? Não: a Fita Up é a fita que se corta e o sutiã é a peça pronta com fecho, os dois da Toda Up.",
+          "Como lavar o sutiã de silicone? Pelo FAQ da Toda Up, com água e sabão neutro, secando ao natural; higienizar quando houver sujeira e guardar como indica a embalagem."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "slug": "protetor-de-silicone-mamilo-como-usar",
+    "locale": "pt",
+    "title": "Protetor de silicone da Toda Up: qual tamanho e quantas vezes dá para usar",
+    "seoTitle": "Protetor de silicone Toda Up: tamanho e quantas vezes usar",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de outubro de 2026",
+    "publishedAtISO": "2026-10-27",
+    "draft": false,
+    "isNew": true,
+    "description": "O que a Toda Up publica sobre o protetor de silicone para roupa: o tamanho pelo número do sutiã, como lavar e quantas vezes dá para usar. Preço de 27/10/2026.",
+    "metaDescription": "Protetor de silicone da Toda Up (adesivo para roupa): o tamanho pelo número do sutiã, como lavar e o máximo de 30 usos que a marca cita. Preço de 27/10/2026.",
+    "image": "/images/reviews/toda-up/protetor-de-silicone-capa-discover.webp",
+    "imageAlt": "Três protetores de silicone da Toda Up nos tamanhos P, M e G, com o logo da loja e o título Protetor de silicone",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão e procure o protetor na categoria Adesivos.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou o protetor. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "relatedArticles": [
+      {
+        "slug": "sutia-de-silicone-invisivel-como-usar",
+        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+      },
+      {
+        "slug": "fita-up-como-usar",
+        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Protetor de Silicone da Toda Up é o adesivo para roupa, não o protetor de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem que ela descreve, resumida abaixo."
+        ]
+      },
+      {
+        "heading": "O que é o protetor de silicone",
+        "paragraphs": [
+          "O Protetor de Silicone Ultrafino da Toda Up é um adesivo de silicone para roupa, não o protetor de mamilo de amamentação: vai na pele, por baixo da roupa. A marca o indica para o seio não marcar no tecido, sem sutiã e sem alças, em tecidos finos, blusas brancas e vestidos justos. A página o apresenta como ultrafino, hipoalergênico e reutilizável e, segundo o FAQ da loja, a composição é 100% silicone.",
+          "Em 27/10/2026, o protetor custava R$ 69,90 (de R$ 99,90) no site da Toda Up, nas cores Creme, Caramelo e Avelã e nos tamanhos P, M e G. Os três tamanhos estavam disponíveis nessa data."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
+          "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
+          "caption": "O protetor em Creme, Caramelo e Avelã. Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Qual tamanho: 8, 10 ou 12 cm",
+        "paragraphs": [
+          "As variantes da página chamam os tamanhos de P, M e G; o FAQ da loja chama de regular, médio e extra largo e dá a medida em centímetros pelo número do sutiã. O quadro abaixo junta as duas formas:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Número do sutiã",
+            "Medida",
+            "Tamanho na página"
+          ],
+          "rows": [
+            [
+              "34 a 46",
+              "8 cm",
+              "P (regular)"
+            ],
+            [
+              "46 a 50",
+              "10 cm",
+              "M (médio)"
+            ],
+            [
+              "50 a 54",
+              "12 cm",
+              "G (extra largo)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O guia é da Toda Up, lido em 27/10/2026, e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, a página do produto é a referência."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
+          "alt": "Quadro com o tamanho do protetor de silicone da Toda Up pelo número do sutiã: 34 a 46 pede P de 8 cm, 46 a 50 pede M de 10 cm e 50 a 54 pede G de 12 cm",
+          "caption": "O tamanho pelo número do sutiã, no guia da Toda Up em 27/10/2026. Quadro nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 2.5052
+        }
+      },
+      {
+        "heading": "Como colocar: o que a marca publica",
+        "paragraphs": [
+          "A página do protetor não publica um passo a passo de aplicação; a ordem que a Toda Up descreve está no [passo a passo da Fita Up](/reviews/fita-up-como-usar), em que o protetor vai na pele antes da fita."
+        ]
+      },
+      {
+        "heading": "Quantas vezes dá para usar",
+        "paragraphs": [
+          "A Toda Up diz que o protetor pode ser reutilizado por até 30 vezes, com a lavagem que a página descreve, resumida na seção seguinte. A página não publica uma frequência de uso nem em quanto tempo esses usos acontecem."
+        ]
+      },
+      {
+        "heading": "Como lavar",
+        "paragraphs": [
+          "Resumindo o FAQ da Toda Up com as nossas palavras:"
+        ],
+        "bullets": [
+          "Lave à mão logo depois do uso, com água fria ou morna e sabão neutro. A marca descarta detergente forte, álcool e removedor.",
+          "Esfregue só o silicone, sem dobrar a peça.",
+          "Enxágue.",
+          "Deixe secar ao natural, com o lado adesivo para cima e à sombra. Sem secador, sol ou máquina.",
+          "Depois de seco, coloque o protetor de volta na película original."
+        ]
+      },
+      {
+        "heading": "Quando escolher outro",
+        "paragraphs": [
+          "A Toda Up vende o protetor na categoria Adesivos, ao lado da Fita Up e do Sutiã de Silicone Invisível. A comparação entre os três adesivos, com o que cada um faz pela ficha da marca, está em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar)."
+        ]
+      },
+      {
+        "heading": "Onde comprar e preço",
+        "paragraphs": [
+          "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço de 27/10/2026 está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma data, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
+          "O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 no teste de carrinho de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O protetor de silicone da Toda Up serve para amamentação? Não. É o adesivo para roupa, que a marca indica para o seio não marcar em tecidos finos, sem sutiã.",
+          "Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).",
+          "Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.",
+          "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
+          "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
+          "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
         ]
       }
     ]

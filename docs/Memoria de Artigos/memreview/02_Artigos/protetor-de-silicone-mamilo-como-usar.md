@@ -6,9 +6,9 @@ parceiro: "[[Toda Up]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia prático"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "deploy (decisão do Bruno)"
 bloqueado_por: "-"
 data_criacao: "2026-10-27"
 modo_i18n: "somente-pt"
@@ -192,3 +192,79 @@ Observação, sem pergunta: o slug do T5 (sutiã de silicone) não aparece nos a
 5. A página não publica passo a passo de aplicação nem diz se a unidade é um par (lida inteira no Chrome em 27/10): o texto não afirma nenhum dos dois; a seção de aplicação vira um link ao passo a passo do [[fita-up-como-usar]], onde o protetor entra antes da fita, ou sai.
 6. "Até 30 vezes" sempre atribuído à Toda Up e ligado à lavagem que ela descreve. Tamanhos em quadro nosso (não a imagem do guia de medidas do 619).
 7. Case Protetor de Silicone: uma frase, sem aprofundar. Comparação entre os três produtos: link ao [[sutia-de-silicone-invisivel-como-usar]].
+
+## Rascunho final (Job 2, Fable 5.1, 27/10/2026)
+
+Protetor de silicone da Toda Up: qual tamanho e quantas vezes dá para usar
+
+### Resposta rápida
+O Protetor de Silicone da Toda Up é o adesivo para roupa, não o protetor de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem que ela descreve, resumida abaixo.
+
+### O que é o protetor de silicone
+O Protetor de Silicone Ultrafino da Toda Up é um adesivo de silicone para roupa, não o protetor de mamilo de amamentação: vai na pele, por baixo da roupa. A marca o indica para o seio não marcar no tecido, sem sutiã e sem alças, em tecidos finos, blusas brancas e vestidos justos. A página o apresenta como ultrafino, hipoalergênico e reutilizável e, segundo o FAQ da loja, a composição é 100% silicone.
+
+Em 27/10/2026, o protetor custava R$ 69,90 (de R$ 99,90) no site da Toda Up, nas cores Creme, Caramelo e Avelã e nos tamanhos P, M e G. Os três tamanhos estavam disponíveis nessa data.
+
+[IMAGEM: protetor-silicone-cores]
+
+### Qual tamanho: 8, 10 ou 12 cm
+As variantes da página chamam os tamanhos de P, M e G; o FAQ da loja chama de regular, médio e extra largo e dá a medida em centímetros pelo número do sutiã. O quadro abaixo junta as duas formas:
+
+| Número do sutiã | Medida | Tamanho na página |
+|---|---|---|
+| 34 a 46 | 8 cm | P (regular) |
+| 46 a 50 | 10 cm | M (médio) |
+| 50 a 54 | 12 cm | G (extra largo) |
+
+O guia é da Toda Up, lido em 27/10/2026, e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, a página do produto é a referência.
+
+[IMAGEM: protetor-silicone-tamanhos]
+
+### Como colocar: o que a marca publica
+A página do protetor não publica um passo a passo de aplicação; a ordem que a Toda Up descreve está no [passo a passo da Fita Up](/reviews/fita-up-como-usar), em que o protetor vai na pele antes da fita.
+
+### Quantas vezes dá para usar
+A Toda Up diz que o protetor pode ser reutilizado por até 30 vezes, com a lavagem que a página descreve, resumida na seção seguinte. A página não publica uma frequência de uso nem em quanto tempo esses usos acontecem.
+
+### Como lavar
+Resumindo o FAQ da Toda Up com as nossas palavras:
+
+- Lave à mão logo depois do uso, com água fria ou morna e sabão neutro. A marca descarta detergente forte, álcool e removedor.
+- Esfregue só o silicone, sem dobrar a peça.
+- Enxágue.
+- Deixe secar ao natural, com o lado adesivo para cima e à sombra. Sem secador, sol ou máquina.
+- Depois de seco, coloque o protetor de volta na película original.
+
+### Quando escolher outro
+A Toda Up vende o protetor na categoria Adesivos, ao lado da Fita Up e do Sutiã de Silicone Invisível. A comparação entre os três adesivos, com o que cada um faz pela ficha da marca, está em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar).
+
+### Onde comprar e preço
+O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço de 27/10/2026 está na seção "O que é o protetor de silicone" e pode mudar. Na mesma data, a página oferecia o kit "Leve 3" por R$ 139,80 (de R$ 299,70) e, em "Leve junto", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).
+
+O [cupom da Toda Up](/reviews/cupom-toda-up-como-usar) somou com os kits Leve 2 e Leve 3 no teste de carrinho de 26/10/2026, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up.
+
+### Perguntas frequentes
+- O protetor de silicone da Toda Up serve para amamentação? Não. É o adesivo para roupa, que a marca indica para o seio não marcar em tecidos finos, sem sutiã.
+- Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).
+- Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.
+- Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.
+- O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.
+- Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita.
+
+## Revisão Job 3 (Fable 5.1, 27/10/2026)
+
+Relatório em `protetor-de-silicone-mamilo-como-usar-revisao-job3-2710.md`. Os achados "bloqueia" e "corrigir" e as sugestões aceitas foram aplicados pelo redator. Revisão do Claude: amamentação só na resposta rápida, na primeira frase e no FAQ; "Medida" no lugar de "Diâmetro"; "Fita Up" sem caixa alta; frases de bastidor cortadas.
+
+## Capa e imagens (Job 6, aprovado pelo Bruno em 27/10/2026)
+
+| Imagem | Seção | Origem | Alt | Legenda |
+|---|---|---|---|---|
+| `protetor-de-silicone-capa-discover.webp` (capa, 1600×900, `imageFit: contain`) | — | Foto oficial dos três tamanhos na mão (todaup.com, baixada em 26/10/2026), sem modelo | Três protetores de silicone da Toda Up nos tamanhos P, M e G, com o logo da loja e o título Protetor de silicone | — |
+| `protetor-de-silicone-cores.webp` | O que é o protetor de silicone | Foto oficial da página do produto | Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo | O protetor em Creme, Caramelo e Avelã. Foto da loja. |
+| `protetor-de-silicone-tamanhos-2710.webp` | Qual tamanho: 8, 10 ou 12 cm | Quadro nosso, a partir do FAQ de tamanho (decisão 6) | Quadro com o tamanho do protetor pelo número do sutiã | O tamanho pelo número do sutiã, no guia da Toda Up em 27/10/2026. Quadro nosso. |
+
+Fotos com o seio exposto ou a peça aplicada de frente ficaram de fora. Upload FTPS, verificação HTTPS, `prepare-delivery --append` e `phase5-export --write/--check` em 27/10/2026; no manifesto, só as entradas novas.
+
+## Job 4 (JSON, 27/10/2026)
+
+`content/reviews/protetor-de-silicone-mamilo-como-usar.json`, id 622, `guias-praticos-utilidade` / `guia`, type "Guia Prático", `affiliate: toda-up`, `coupon: MAUAD` (fora do texto), `isNew: true`, CTA "Ver na Toda Up" pelo `offerUrl`. FAQ em bullets "Pergunta? resposta".
