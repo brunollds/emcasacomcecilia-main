@@ -18,6 +18,7 @@ Parceria iniciada em 13/10/2026 com a página `/cupons/black-skull`, ainda sem a
 |---|---|---|---|---|---|---|
 | Cupom `CECILIA10`: 10% OFF em todo o site | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `black-skull`) | 2026-10-13 | 2026-11-13 | Todas as formas de pagamento; soma com as promoções vigentes (Bruno, 13/10) | Alta |
 | Sem link de afiliado: `offerUrl` é o site oficial | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-13 | 2026-11-13 | `blackskull.com.br` redireciona para `blackskullusa.com.br` | Alta |
+| Mercado Livre: loja oficial `mercadolivre.com.br/loja/black-skull`; links de afiliado convertidos pelo Bruno: loja `https://meli.la/2knUCTL` e Whey 100% HD 900g baunilha `https://meli.la/2Sr34hZ` | condicao_comercial_volatil | Bruno, 27/10/2026; preços lidos no Chrome em 27/10 | 2026-10-27 | 2026-11-27 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio. Com o CECILIA10 o site sai mais barato em 13 de 15 produtos; o ML ganha só no Whey 100% HD 900g e no refil 900g. O `mercadoLivreUrl` do `couponsData.ts` é outro (`meli.la/1R7Zwan`): conferir com a sessão de cupons | Alta |
 
 Teste de checkout em 2026-10-13 (prints do Bruno, guardados para o futuro artigo de como usar):
 carrinho de R$ 364,33 com regata, kit de whey, creatina e pré-treino e glutamina; com o cupom,

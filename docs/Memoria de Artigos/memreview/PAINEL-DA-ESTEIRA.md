@@ -6,6 +6,8 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[hipercalorico-black-skull-qual-escolher]]: Hipercalórico Black Skull: Masstodon Refil 3 kg ou Monstrous 2,7 kg, por rótulo e preço por 100 g de proteína (com o CECILIA10); sem dose nem promessa de ganho (PT)
+- [ ] [[black-skull-mercado-livre-ou-site]]: Black Skull no Mercado Livre ou no site: onde sai mais barato, 15 produtos com o CECILIA10 (o site ganha em 13; o ML só no Whey 100% HD 900g e no refil 900g); dois botões (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
