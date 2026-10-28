@@ -6,7 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[insider-mercado-livre-ou-site]]: Insider no Mercado Livre ou no site: com o EMCASACOMCECILIA o site ganha em 13 de 17 produtos; a Daily (sem cupom no site) sai mais barata no ML e a Light só existe lá; dois botões (PT) (no main, PR #325, id 625)
 - [ ] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT)
 - [ ] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT)
 - [ ] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT)
@@ -47,6 +46,7 @@
 ## 7. Publicados (`status: publicado`)
 *No ar.*
 - [x] [[hipercalorico-black-skull-qual-escolher]]: Hipercalórico Black Skull: Masstodon Refil 3 kg ou Monstrous 2,7 kg, por rótulo e preço por 100 g de proteína (com o CECILIA10); sem dose nem promessa de ganho (PT) (no ar em 28/10/2026 00:23 UTC, PR #321, release `e734d75`, id 623) 🚀
+- [x] [[insider-mercado-livre-ou-site]]: Insider no Mercado Livre ou no site: com o EMCASACOMCECILIA o site ganha em 13 de 17 produtos; a Daily (sem cupom no site) sai mais barata no ML e a Light só existe lá; dois botões (PT) (no ar em 28/10/2026 03:40 UTC, PR #325, release `2567b32`, id 625) 🚀
 - [x] [[black-skull-mercado-livre-ou-site]]: Black Skull no Mercado Livre ou no site: onde sai mais barato, 15 produtos com o CECILIA10 (o site ganha em 13; o ML só no Whey 100% HD 900g e no refil 900g); dois botões (PT) (no ar em 28/10/2026 00:23 UTC, PR #321, release `e734d75`, id 624) 🚀
 - [x] [[protetor-de-silicone-mamilo-como-usar]]: Protetor de silicone da Toda Up: qual tamanho (8, 10 ou 12 cm pelo número do sutiã) e quantas vezes dá para usar (até 30, segundo a marca); adesivo para roupa, não de amamentação (PT) (no ar em 27/10/2026, PR #318, release `dcd1be50`) 🚀
 - [x] [[sutia-de-silicone-invisivel-como-usar]]: Sutiã de silicone invisível (Toda Up): como usar e para qual roupa, pelo passo a passo da marca; tamanhos, lavagem, kit Leve 2 e quadro Fita Up × sutiã × protetor pela ficha (PT) (no ar em 27/10/2026, PR #318, release `dcd1be50`) 🚀
