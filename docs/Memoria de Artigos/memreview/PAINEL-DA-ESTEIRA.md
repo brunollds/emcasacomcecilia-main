@@ -6,6 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[insider-mercado-livre-ou-site]]: Insider no Mercado Livre ou no site: com o EMCASACOMCECILIA o site ganha em 14 de 19 produtos; a Daily (sem cupom no site) e a Light (só no ML) saem mais baratas no ML; dois botões (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
