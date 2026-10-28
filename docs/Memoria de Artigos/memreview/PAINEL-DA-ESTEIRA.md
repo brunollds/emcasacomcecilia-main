@@ -6,7 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); sem entrega no Brasil em 28/10 (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
@@ -41,6 +40,7 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); PT diz que não há entrega no Brasil (10 idiomas) (no ar em 28/10/2026, PR #336, release `040fcb1b`, ids 630–639) 🚀
 - [x] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 626) 🚀
 - [x] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 627) 🚀
 - [x] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 628) 🚀
