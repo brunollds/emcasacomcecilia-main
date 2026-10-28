@@ -39237,6 +39237,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37130,
+      "sha256": "210d1b06d050c3f38536a927747637a88c8336cec6383b541c2d64b25b61f0d4",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-mercado-livre-ou-site-capa.webp",
+      "storage_filename": "black-skull-mercado-livre-ou-site-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-mercado-livre-ou-site.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 132726,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/210d1b06d050c3f38536a927747637a88c8336cec6383b541c2d64b25b61f0d4/black-skull-mercado-livre-ou-site-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/210d1b06d050c3f38536a927747637a88c8336cec6383b541c2d64b25b61f0d4/black-skull-mercado-livre-ou-site-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.890Z",
+      "verification_etag_or_digest": "210d1b06d050c3f38536a927747637a88c8336cec6383b541c2d64b25b61f0d4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108618,
+      "sha256": "3290c4dcc66144777f7c8beb41cbd00f3c72c0e8fb28793f9e913e569b113d8f",
+      "width": 1200,
+      "height": 1076,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "storage_filename": "black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-mercado-livre-ou-site.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-mercado-livre-ou-site.json",
+          "line": 185,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 132888,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3290c4dcc66144777f7c8beb41cbd00f3c72c0e8fb28793f9e913e569b113d8f/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3290c4dcc66144777f7c8beb41cbd00f3c72c0e8fb28793f9e913e569b113d8f/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.891Z",
+      "verification_etag_or_digest": "3290c4dcc66144777f7c8beb41cbd00f3c72c0e8fb28793f9e913e569b113d8f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp",
       "local_url": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp",
       "media_kind": "image",
@@ -40596,6 +40688,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T15:15:07.801Z",
       "verification_etag_or_digest": "8728e7da07e7aa994083d28d1d3d86dc3fc21729625cb847619b63724a8594e6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
+      "local_url": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55906,
+      "sha256": "c00d57874c2a5dcbf0a1541d32d2d4a444f93dbfad8cb7c8c1f7d7385f033b04",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-black-skull-capa.webp",
+      "storage_filename": "hipercalorico-black-skull-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 132351,
+          "column": 15,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c00d57874c2a5dcbf0a1541d32d2d4a444f93dbfad8cb7c8c1f7d7385f033b04/hipercalorico-black-skull-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c00d57874c2a5dcbf0a1541d32d2d4a444f93dbfad8cb7c8c1f7d7385f033b04/hipercalorico-black-skull-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.891Z",
+      "verification_etag_or_digest": "c00d57874c2a5dcbf0a1541d32d2d4a444f93dbfad8cb7c8c1f7d7385f033b04",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
+      "local_url": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75454,
+      "sha256": "86b84b1cde5ed2d4a89691a5ad91fc4d3863bc1e5e491f1d61fcdcea5f779b3a",
+      "width": 1200,
+      "height": 832,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-black-skull-quadro-2710.webp",
+      "storage_filename": "hipercalorico-black-skull-quadro-2710.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+          "line": 350,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 132678,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/86b84b1cde5ed2d4a89691a5ad91fc4d3863bc1e5e491f1d61fcdcea5f779b3a/hipercalorico-black-skull-quadro-2710.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/86b84b1cde5ed2d4a89691a5ad91fc4d3863bc1e5e491f1d61fcdcea5f779b3a/hipercalorico-black-skull-quadro-2710.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.891Z",
+      "verification_etag_or_digest": "86b84b1cde5ed2d4a89691a5ad91fc4d3863bc1e5e491f1d61fcdcea5f779b3a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
+      "local_url": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129994,
+      "sha256": "5f55be6623a897fe58660568501d383e9d80806e83c444a743463be80922ef69",
+      "width": 1650,
+      "height": 980,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hipercalorico-black-skull-tabelas-2710.webp",
+      "storage_filename": "hipercalorico-black-skull-tabelas-2710.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+          "line": 158,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 132486,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5f55be6623a897fe58660568501d383e9d80806e83c444a743463be80922ef69/hipercalorico-black-skull-tabelas-2710.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f55be6623a897fe58660568501d383e9d80806e83c444a743463be80922ef69/hipercalorico-black-skull-tabelas-2710.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.891Z",
+      "verification_etag_or_digest": "5f55be6623a897fe58660568501d383e9d80806e83c444a743463be80922ef69",
       "verification_status": "verified"
     },
     {
@@ -53184,6 +53414,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-22T04:02:59.960Z",
       "verification_etag_or_digest": "1a322ffb05e1a8c013ea786905d945cf94b983cff3d4fbd1ddd7f838655c1a0b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 256324,
+      "sha256": "2f99bd68ff6783d5c5199f34551745a1d5704ad27d526dcc14b7fad557400dca",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-12-sabores-potes-2710.webp",
+      "storage_filename": "dr-peanut-12-sabores-potes-2710.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-melhor-sabor.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-melhor-sabor.json",
+          "line": 145,
+          "column": 17,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 83449,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2f99bd68ff6783d5c5199f34551745a1d5704ad27d526dcc14b7fad557400dca/dr-peanut-12-sabores-potes-2710.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2f99bd68ff6783d5c5199f34551745a1d5704ad27d526dcc14b7fad557400dca/dr-peanut-12-sabores-potes-2710.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-27T23:59:23.891Z",
+      "verification_etag_or_digest": "2f99bd68ff6783d5c5199f34551745a1d5704ad27d526dcc14b7fad557400dca",
       "verification_status": "verified"
     },
     {

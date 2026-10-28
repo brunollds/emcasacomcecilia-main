@@ -83305,7 +83305,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 446,
     "slug": "dr-peanut-melhor-sabor",
-    "title": "Dr. Peanut: qual o melhor sabor? Os 10 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
+    "title": "Dr. Peanut: qual o melhor sabor? Os 12 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
     "seoTitle": "Dr. Peanut: qual o melhor sabor? Rótulo e preço [2026]",
     "type": "Guia de escolha",
     "category": "guias-praticos-utilidade",
@@ -83317,8 +83317,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os 10 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
-    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 10 de pasta e os 5 de whey por rótulo, preço por 100 g e mais vendidos, sem eleger o mais gostoso.",
+    "description": "Os 12 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
+    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 12 de pasta e os 5 de whey por rótulo, preço por 100 g e os mais vendidos da loja, sem eleger o mais gostoso.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -83331,29 +83331,34 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo que a Dr. Peanut diz vender, os sabores mais amados são Avelã, Bueníssimo e Cookies & Cream, mas não provamos nenhum e este guia não elege o mais gostoso. A escolha pelo rótulo depende do que você quer, mais proteína, menos açúcar ou menos calorias, e o capítulo de perfil abaixo mostra cada caso."
+          "Não provamos os sabores e este guia não elege o mais gostoso: compara os 12 de pasta e os 5 de whey por rótulo e preço. A loja destaca Avelã, Bueníssimo e Cookies & Cream no Combo Best Sellers. O que pesa é o que você procura, mais proteína, menos açúcar ou menos sódio; veja o capítulo de perfil."
         ]
       },
       {
         "heading": "Como comparamos, sem degustação",
         "paragraphs": [
-          "São 10 sabores de pasta de amendoim à venda e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelos três sabores que a loja aponta como mais vendidos: Avelã, Bueníssimo e Cookies & Cream, vendidos juntos no Combo Best Sellers.",
-          "Os dados são da loja oficial em 16/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar.",
-          "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor, lida em 16/10/2026. As tabelas trazem 40 porções de 15 g por embalagem, a conta do pote de 600 g, e a porção de 15 g é 1 colher de sopa. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para todos os sabores.",
+          "São 12 sabores de pasta de amendoim à venda, em 20 potes somando os dois tamanhos, e 5 de whey. Como não houve degustação, o guia compara pela tabela nutricional de cada um e pelo que a loja mostra sobre preferência: os três sabores vendidos juntos no Combo Best Sellers, Avelã, Bueníssimo e Cookies & Cream, e a ordem da vitrine \"Mais Vendidos\" da home.",
+          "Os dados são da loja oficial em 27/10/2026: preço, catálogo e tabela nutricional mudam, então confira no site antes de comprar.",
+          "A base é a tabela nutricional que a Dr. Peanut publica na galeria de fotos de cada sabor. As 11 tabelas que já estavam no guia foram relidas em 27/10/2026 e conferem número a número; a do Caramelo Salgado, que entrou na loja depois, foi lida na mesma data. As tabelas trazem a porção de 15 g, que é 1 colher de sopa, com 40 porções por embalagem, a conta do pote de 600 g; a do Caramelo Salgado é a do pote de 250 g, com cerca de 17 porções. Copiamos os números de cada imagem para um quadro só, com as mesmas colunas para todos os sabores.",
           "Preços e tamanhos vêm da listagem de pastas de amendoim e da página de combos do site, na mesma data. O preço por 100 g e o preço com o cupom são contas nossas.",
-          "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja afirma: quais sabores ela chama de mais amados e quais põe no combo de mais vendidos. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
+          "Gosto é pessoal. Por isso o texto não diz qual sabor é melhor de comer. O que ele diz sobre preferência é o que a loja mostra: quais sabores ela põe no combo de mais vendidos e em que ordem a vitrine \"Mais Vendidos\" aparece, sem número de vendas. As páginas de produto não mostram nota nem número de avaliações em texto, e o guia não usa esses dados."
         ]
       },
       {
         "heading": "Todos os sabores e o preço por 100 g",
         "paragraphs": [
-          "Em 16/10/2026, a loja vendia **11 sabores** de pasta de amendoim, em potes de 250 g e de 600 g. Em 25/10/2026, o Chocolate Branco não estava mais à venda: são **10 sabores**. Nem todo sabor aparece nos dois tamanhos na listagem:"
+          "Em 27/10/2026, a listagem da loja trazia 20 potes de pasta de amendoim, que somam **12 sabores** em dois tamanhos: 9 potes de 250 g e 11 de 600 g. Desde a primeira versão deste guia, em 16/10/2026, o Caramelo Salgado entrou, o Chocolate Branco, fora de venda em 25/10/2026, voltou ao pote de 600 g, e o Doce de Leite ganhou o pote de 600 g. Nem todo sabor aparece nos dois tamanhos:"
+        ],
+        "bullets": [
+          "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Doce de Leite, Leite em Pó e Pistache.",
+          "Só no pote de 600 g: Banoffee, Beijinho e Chocolate Branco.",
+          "Só no pote de 250 g: Caramelo Salgado."
         ],
         "comparisonTable": {
           "headers": [
             "Opção",
             "Peso",
-            "Preço em 16/10/2026",
+            "Preço em 27/10/2026",
             "Com o cupom de 10% (conta nossa)",
             "Preço por 100 g, sem cupom (conta nossa)"
           ],
@@ -83380,6 +83385,13 @@ export const reviewsData: unknown[] = [
               "R$ 9,98"
             ],
             [
+              "Combo de 2 potes de 600 g, como o Avelã Lovers Duo",
+              "2 × 600 g",
+              "R$ 110,20",
+              "R$ 99,18",
+              "R$ 9,18"
+            ],
+            [
               "Combo Best Sellers: Avelã, Bueníssimo e Cookies & Cream",
               "3 × 600 g",
               "R$ 158,11",
@@ -83387,7 +83399,7 @@ export const reviewsData: unknown[] = [
               "R$ 8,78"
             ],
             [
-              "Quarteto de 600 g, como os da linha Lovers",
+              "Combo de 4 potes de 600 g, como os quartetos Lovers",
               "4 × 600 g",
               "R$ 203,63",
               "R$ 183,27",
@@ -83399,22 +83411,47 @@ export const reviewsData: unknown[] = [
               "R$ 252,42",
               "R$ 227,18",
               "R$ 8,41"
+            ],
+            [
+              "Combo Cozy: Doce de Leite e Caramelo Salgado",
+              "2 × 250 g",
+              "R$ 47,64",
+              "R$ 42,88",
+              "R$ 9,53"
+            ],
+            [
+              "Combo de 3 potes de 250 g, como o Zenith",
+              "3 × 250 g",
+              "R$ 68,35",
+              "R$ 61,52",
+              "R$ 9,11"
+            ],
+            [
+              "Combo de 4 potes de 250 g, como o Prime",
+              "4 × 250 g",
+              "R$ 88,03",
+              "R$ 79,23",
+              "R$ 8,80"
+            ],
+            [
+              "Combo de 5 potes de 250 g, como o Infinity",
+              "5 × 250 g",
+              "R$ 109,12",
+              "R$ 98,21",
+              "R$ 8,73"
             ]
           ]
         },
-        "bullets": [
-          "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Leite em Pó e Pistache.",
-          "Só no pote de 600 g: Banoffee e Beijinho.",
-          "Só no pote de 250 g: Doce de Leite."
-        ],
         "postParagraphs": [
-          "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos de 600 g, o preço depende só do número de potes: na página de combos, todo trio custava R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42, qualquer que fosse a mistura de sabores. Os combos mudam com frequência: confira a página no dia da compra."
+          "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos, o preço depende só do número de potes e do tamanho, qualquer que seja a mistura de sabores. Na página de combos, todo par de 600 g custava R$ 110,20, todo trio R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42. Os combos de 250 g seguem a mesma lógica, de R$ 47,64 pelo par a R$ 109,12 pelos cinco. Pela nossa conta, até um par de 250 g em combo (R$ 9,53 por 100 g) sai mais barato por 100 g que um pote de 600 g avulso (R$ 9,98). A loja tinha ainda combos \"Comprou, Ganhou\", uma pasta pelo preço normal com alfajor ou wafer de brinde. Os combos mudam com frequência: confira a página no dia da compra."
         ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-melhor-sabor-potes.webp",
-        "imageAlt": "Potes de pasta de amendoim Dr. Peanut lado a lado, nos 11 sabores vendidos em 16/10/2026, em fotos oficiais da loja",
-        "imageCaption": "Os 11 sabores que a Dr. Peanut vendia em 16/10/2026; em 25/10, o Chocolate Branco não estava mais à venda. Fotos oficiais da loja.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7778
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
+          "alt": "Potes de pasta de amendoim Dr. Peanut nos 12 sabores vendidos em 27/10/2026, em fotos oficiais da loja",
+          "caption": "Os 12 sabores que a Dr. Peanut vendia em 27/10/2026; o Caramelo Salgado só existe no pote de 250 g. Fotos oficiais da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Quadro nutricional dos sabores",
@@ -83498,7 +83535,18 @@ export const reviewsData: unknown[] = [
               "590 / 19 g / 6,6 g / 6,7 g"
             ],
             [
-              "Chocolate Branco (fora de venda em 25/10/2026)",
+              "Caramelo Salgado",
+              "83",
+              "2,5 g",
+              "1,3 g",
+              "0",
+              "2,9 g",
+              "1,3 g",
+              "49 mg",
+              "553 / 17 g / 8,7 g / 19 g"
+            ],
+            [
+              "Chocolate Branco",
               "87",
               "3 g",
               "0,8 g",
@@ -83553,36 +83601,36 @@ export const reviewsData: unknown[] = [
               "602 / 19 g / 7,6 g / 16 g"
             ]
           ],
-          "caption": "Tabela publicada pela loja, 40 porções por embalagem, lida em 16/10/2026."
+          "caption": "Tabelas publicadas pela loja, lidas em 27/10/2026: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
         },
         "postParagraphs": [
-          "Para comparar proteína, use a coluna por 100 g. Na colher, Doce de Leite e Pistache aparecem com 2,8 g, mas por 100 g são 18 g contra 19 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
-          "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 29 mg (Doce de Leite e Leite em Pó) por colher. As imagens trazem também fibras, de 0,5 a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
+          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 49 mg (Caramelo Salgado) por colher; sem o Caramelo, nenhum sabor passa de 29 mg (Doce de Leite e Leite em Pó). As imagens trazem também fibras, de 0 g (Caramelo Salgado) a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
         ]
       },
       {
         "heading": "Dr. Peanut é zero açúcar?",
         "paragraphs": [
-          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g em todos os sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
-          "O doce vem também de **polióis** e de edulcorantes. Todos os sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
+          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 12 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
+          "O doce vem também de **polióis** e de edulcorantes. Os 12 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três grupos:"
         ],
         "bullets": [
           "Até 8,4 g: Avelã (6,4 g), Brownie (6,7 g), Bueníssimo (6,7 g), Beijinho (8 g) e Leite em Pó (8,4 g).",
           "Doce de Leite, com 12 g.",
-          "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g) e Cookies & Cream (20 g)."
+          "De 16 a 20 g: Pistache (16 g), Bombom Italiano (17 g), Banoffee (18 g), Caramelo Salgado (19 g), Chocolate Branco (19 g) e Cookies & Cream (20 g)."
         ],
         "postParagraphs": [
-          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos sabores à venda. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
+          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 12. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
         ]
       },
       {
         "heading": "Tem Dr. Peanut zero lactose?",
         "paragraphs": [
-          "Não. Em 16/10/2026, as páginas de todos os sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
+          "Não. Em 27/10/2026, as páginas dos 12 sabores diziam **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
           "Nos alérgicos, as páginas de produto trazem:"
         ],
         "bullets": [
-          "Banoffee, Beijinho, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
+          "Banoffee, Beijinho, Caramelo Salgado, Chocolate Branco, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
           "Avelã: contém amendoim, avelã, derivados de leite e soja.",
           "Bombom Italiano: contém amendoim, avelã e derivados de leite; a soja aparece no \"pode conter\".",
           "Brownie: contém amendoim, derivados de leite, ovo e soja.",
@@ -83590,21 +83638,21 @@ export const reviewsData: unknown[] = [
           "Pistache: contém amendoim, pistache, derivados de leite e soja."
         ],
         "postParagraphs": [
-          "Todos trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+          "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A ficha do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
         ]
       },
       {
         "heading": "Dr. Peanut é calórico?",
         "paragraphs": [
           "Uma colher de sopa de pasta de amendoim Dr. Peanut tem de **83 a 90 kcal**. A tabela da loja conta a colher como 15 g. Em 100 g, são de 551 a 602 kcal.",
-          "A diferença entre os sabores é pequena: 7 kcal por colher. O Banoffee fica na ponta de baixo, com 83 kcal. Beijinho e Pistache ficam na ponta de cima, com 90 kcal.",
-          "A gordura total é a maior linha da tabela, de 6,5 a 7,3 g por colher. A conta acompanha a quantidade: duas colheres (30 g) dão de 166 a 180 kcal, pela nossa soma da tabela. O pote de 600 g rende 40 colheres de 15 g."
+          "A diferença entre os sabores é pequena: 7 kcal por colher. Banoffee e Caramelo Salgado ficam na ponta de baixo, com 83 kcal. Beijinho e Pistache ficam na ponta de cima, com 90 kcal.",
+          "A gordura total é a maior linha da tabela, de 6,5 a 7,3 g por colher. A conta acompanha a quantidade: duas colheres (30 g) dão de 166 a 180 kcal, pela nossa soma da tabela. O pote de 600 g rende 40 colheres de 15 g; o de 250 g, cerca de 17."
         ]
       },
       {
         "heading": "Whey Dr. Peanut: qual sabor escolher",
         "paragraphs": [
-          "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada em 16/10/2026, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote."
+          "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada em 27/10/2026, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote. As tabelas abaixo são as lidas em 16/10/2026; em 27/10/2026 conferimos só o preço e os sabores."
         ],
         "comparisonTable": {
           "headers": [
@@ -83682,33 +83730,44 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual sabor escolher pelo seu perfil",
         "paragraphs": [
-          "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja diz que vende mais e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
+          "Sem prova de sabor, a escolha sai do que dá para conferir: o que a loja destaca como mais vendido e o que o rótulo mostra. Para proteína e açúcar, compare por 100 g: na colher, o arredondamento do rótulo embaralha a ordem."
         ],
         "bullets": [
-          "**Quer o sabor que mais gente compra:** Avelã, Bueníssimo e Cookies & Cream, os \"três sabores mais amados\", segundo a Dr. Peanut.",
-          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g) e Brownie (4,7 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream.",
+          "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home, em 27/10/2026, abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
+          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
           "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
-          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream, com 1,1 g por colher.",
-          "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece.",
-          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee e Beijinho.",
-          "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache."
+          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream, com 1,1 g por colher. O Chocolate Branco vem logo depois, com 1,2 g.",
+          "**Quer menos sódio:** Brownie, com 19 mg por colher. O Caramelo Salgado é o de maior sódio da linha, com 49 mg, bem acima dos 29 mg do Doce de Leite e do Leite em Pó, os seguintes.",
+          "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece. Entre os de 250 g, qualquer combo já sai mais barato por 100 g que o pote de 600 g avulso.",
+          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco. O Caramelo Salgado só existe nele.",
+          "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache, e o Caramelo Salgado, o mais novo da lista."
         ]
       },
       {
         "heading": "Preço e cupom da Dr. Peanut",
         "paragraphs": [
-          "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste de 13/10/2026, os 10% valeram em todos os itens do carrinho, inclusive pasta em promoção e whey. A loja também dá 5% de desconto no Pix.",
-          "O frete grátis conta o total já com o cupom. O mínimo é R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e R$ 199,90 no Centro-Oeste, no Nordeste e no Norte (política em 14/10/2026). Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
+          "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste de 26/10/2026, os 10% valeram num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, em 27/10/2026, o Pix tinha 3% de desconto adicional.",
+          "O frete grátis conta o total já com o cupom. Pela faixa do site em 27/10/2026, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
         ],
         "comparisonTable": {
           "headers": [
             "Compra",
             "Frete grátis no Sul e Sudeste",
-            "Frete grátis no Centro-Oeste, Nordeste e Norte"
+            "Frete grátis nas demais regiões"
           ],
           "rows": [
             [
               "1 pote de 600 g",
+              "Não",
+              "Não"
+            ],
+            [
+              "Combos de 250 g (2 a 5 potes)",
+              "Não",
+              "Não"
+            ],
+            [
+              "Combo de 2 potes de 600 g",
               "Não",
               "Não"
             ],
@@ -83723,7 +83782,7 @@ export const reviewsData: unknown[] = [
               "Não"
             ],
             [
-              "Quarteto de 600 g",
+              "Combo de 4 potes de 600 g",
               "Sim",
               "Não"
             ],
@@ -83740,7 +83799,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Combo Best Sellers é o caso que pega: o preço cheio passa de R$ 149,90, mas com o cupom fica R$ 7,60 abaixo. O mesmo vale para qualquer trio de 600 g. Confira o carrinho antes de pagar.",
+          "O Combo Best Sellers é o caso que pega: o preço cheio passa de R$ 149,90, mas com o cupom fica R$ 7,60 abaixo. O mesmo vale para qualquer trio de 600 g. O combo de cinco potes de 250 g, a R$ 98,21 com o cupom, também não chega. Confira o carrinho antes de pagar.",
           "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
         ]
       },
@@ -83748,10 +83807,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o melhor sabor da Dr. Peanut? Não provamos os sabores, então não elegemos um. Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e Cookies & Cream e Brownie, menos açúcar total.",
-          "Qual o sabor mais vendido da Dr. Peanut? Segundo a própria loja, Avelã, Bueníssimo e Cookies & Cream são os \"três sabores mais amados\". Os três formam o Combo Best Sellers.",
+          "Qual o sabor mais vendido da Dr. Peanut? A loja não publica número de vendas. O Combo Best Sellers junta Avelã, Bueníssimo e Cookies & Cream, e a vitrine \"Mais Vendidos\" da home, em 27/10/2026, abria com Bombom Italiano, Bueníssimo e Avelã.",
           "Dr. Peanut é zero açúcar? Não. As pastas não têm açúcar adicionado, mas o rótulo mostra de 4,6 a 10 g de açúcares totais por 100 g, além de polióis.",
-          "Tem Dr. Peanut zero lactose? Não, em 16/10/2026. Todos os sabores de pasta e de whey dizem \"contém lactose\".",
-          "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. O Banoffee tem menos; Beijinho e Pistache, mais.",
+          "Tem Dr. Peanut zero lactose? Não. Em 27/10/2026, os 12 sabores de pasta diziam \"contém lactose\"; as páginas do whey diziam o mesmo em 16/10/2026.",
+          "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. Banoffee e Caramelo Salgado têm menos; Beijinho e Pistache, mais.",
           "Qual o melhor sabor do whey Dr. Peanut? Os 5 sabores têm 20 g de proteína por porção e o mesmo preço. Mudam os açúcares totais (de 8,5 a 11 g) e o sódio, que na Paçoca é o dobro dos outros.",
           "O whey Dr. Peanut é da Max Titanium? A página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. As duas são marcas irmãs, do mesmo grupo."
         ]
@@ -83781,7 +83840,8 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-dr-peanut",
         "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis"
       }
-    ]
+    ],
+    "updatedAt": "2026-10-27"
   },
   {
     "id": 447,
@@ -132262,6 +132322,654 @@ export const reviewsData: unknown[] = [
           "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
           "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste de 26/10/2026; confira no carrinho.",
           "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "slug": "hipercalorico-black-skull-qual-escolher",
+    "locale": "pt",
+    "title": "Hipercalórico Black Skull: Masstodon 3 kg ou Monstrous 2,7 kg, pelo rótulo e pelo preço por 100 g de proteína",
+    "seoTitle": "Hipercalórico Black Skull: Masstodon ou Monstrous?",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de outubro de 2026",
+    "publishedAtISO": "2026-10-27",
+    "draft": false,
+    "isNew": true,
+    "description": "Os dois hipercalóricos da Black Skull lado a lado: Masstodon Refil 3 kg e Monstrous 2,7 kg, com a porção do rótulo, a proteína e o carboidrato por 100 g, o preço por 100 g de proteína em 27/10/2026, os sabores com estoque e o cupom CECILIA10.",
+    "metaDescription": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: as duas tabelas lado a lado, o preço por 100 g de proteína e por 1.000 kcal em 27/10/2026 e o cupom CECILIA10.",
+    "image": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
+    "imageAlt": "Embalagens do Masstodon Refil 3 kg e do Monstrous 2,7 kg da Black Skull, com o título Masstodon ou Monstrous",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os hipercalóricos no site da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Ninguém do site usou o Masstodon nem o Monstrous. Podemos receber comissão pelo cupom CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "whey-black-skull-qual-escolher",
+        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual hipercalórico da Black Skull comprar",
+        "paragraphs": [
+          "Pelo rótulo e pelo preço de 27/10/2026, o Masstodon Refil 3 kg é o que custa menos por 100 g de proteína, e o cupom CECILIA10 tira 10% dos dois. O Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, e é isso que muda a escolha: as contas estão no quadro abaixo."
+        ]
+      },
+      {
+        "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
+        "paragraphs": [
+          "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem na ficha, e a ficha não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Ninguém do site usou os produtos. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+          "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
+        ],
+        "bullets": [
+          "Preço por 100 g do pó: preço do pote ÷ peso × 100. Masstodon: R$ 129,90 ÷ 3.000 g × 100 = R$ 4,33.",
+          "Proteína por 100 g do pó: proteína da porção ÷ porção × 100. Masstodon: 12 g ÷ 160 g × 100 = 7,5 g.",
+          "Preço por 100 g de proteína: preço por 100 g do pó ÷ proteína por 100 g × 100. Masstodon: R$ 4,33 ÷ 7,5 × 100 = R$ 57,73.",
+          "Preço por 1.000 kcal: a mesma lógica com as kcal da porção. Masstodon: 618 kcal em 160 g dão 386 kcal por 100 g; R$ 4,33 ÷ 386 × 1.000 = R$ 11,21."
+        ],
+        "postParagraphs": [
+          "A mesma conta no Monstrous dá R$ 12,96 por 100 g do pó, 19,6 g de proteína por 100 g, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Toda conta usa o preço de 27/10/2026 e a porção do rótulo, em gramas."
+        ]
+      },
+      {
+        "heading": "As duas tabelas lado a lado",
+        "paragraphs": [
+          "A tabela de cada produto é a mesma em todos os sabores. Os valores por porção são os do rótulo; os valores por 100 g são conta nossa, a partir dele."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Linha do rótulo",
+            "Masstodon Refil 3 kg",
+            "Monstrous 2,7 kg"
+          ],
+          "rows": [
+            [
+              "Porção",
+              "160 g",
+              "260 g"
+            ],
+            [
+              "Porções por embalagem",
+              "18 (aprox.)",
+              "10"
+            ],
+            [
+              "kcal por porção",
+              "618",
+              "981"
+            ],
+            [
+              "Carboidratos por porção",
+              "138 g (sem linha de açúcares)",
+              "195 g (13 g de açúcares totais, 0 g de adicionados)"
+            ],
+            [
+              "Proteínas por porção",
+              "12 g",
+              "51 g"
+            ],
+            [
+              "Gorduras totais por porção",
+              "2 g (1 g de saturadas, 0 g de trans)",
+              "2 g (1 g de saturadas, 0 g de trans)"
+            ],
+            [
+              "Fibra alimentar por porção",
+              "1 g",
+              "4 g"
+            ],
+            [
+              "Sódio por porção",
+              "197 mg",
+              "236 mg"
+            ],
+            [
+              "kcal por 100 g do pó",
+              "386",
+              "377"
+            ],
+            [
+              "Carboidrato por 100 g do pó",
+              "86,3 g",
+              "75,0 g"
+            ],
+            [
+              "Proteína por 100 g do pó",
+              "7,5 g",
+              "19,6 g"
+            ],
+            [
+              "Gordura por 100 g do pó",
+              "1,25 g",
+              "0,77 g"
+            ],
+            [
+              "Carboidrato por grama de proteína",
+              "11,5 g",
+              "3,8 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por 100 g do pó, as kcal quase empatam (386 contra 377). O que separa os dois é a proporção: no Masstodon, 86 g de carboidrato e 7,5 g de proteína em cada 100 g; no Monstrous, 75 g de carboidrato e 19,6 g de proteína. Para cada grama de proteína, o Masstodon traz 11,5 g de carboidrato e o Monstrous, 3,8 g. Uma diferença de rótulo: o Monstrous declara 13 g de açúcares totais por porção; a tabela do Masstodon não tem a linha de açúcares."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/hipercalorico-black-skull-tabelas-2710.webp",
+          "alt": "Tabelas nutricionais oficiais do Masstodon Refil 3 kg e do Monstrous 2,7 kg, lado a lado",
+          "caption": "As tabelas publicadas pela Black Skull nas fichas do Masstodon (à esquerda) e do Monstrous, lidas em 27/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6837
+        }
+      },
+      {
+        "heading": "Masstodon Refil 3 kg: o que o rótulo diz",
+        "paragraphs": [
+          "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90 em 27/10/2026, nos quatro sabores, todos com estoque. É uma embalagem refil, e a ficha avisa que não acompanha medidor. O que o rótulo e a ficha mostram:"
+        ],
+        "bullets": [
+          "Porção de 160 g, 18 porções por embalagem (aprox.).",
+          "618 kcal, 138 g de carboidratos, 12 g de proteínas e 2 g de gorduras totais por porção.",
+          "Lista de ingredientes: maltodextrina, proteína concentrada do soro de leite, aromatizante e sucralose. O chocolate leva cacau em pó; o morango, corante de beterraba.",
+          "Sem caseína na lista.",
+          "Alergênicos: \"Contém lactose. Não contém glúten.\"",
+          "Sabores com estoque em 27/10/2026: baunilha, morango, chocolate e banana."
+        ],
+        "postParagraphs": [
+          "Na conta do artigo, o Masstodon sai a R$ 4,33 por 100 g do pó, R$ 57,73 por 100 g de proteína e R$ 11,21 por 1.000 kcal. Em proteína, o pote inteiro tem 225 g."
+        ]
+      },
+      {
+        "heading": "Monstrous 2,7 kg: o que o rótulo diz",
+        "paragraphs": [
+          "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90 em 27/10/2026. O seletor da ficha mostra três sabores: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição da ficha fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que o rótulo e a ficha mostram:"
+        ],
+        "bullets": [
+          "Porção de 260 g, 10 porções por embalagem. A conta por 100 g usa os 2,7 kg do nome do produto; 10 porções de 260 g dão 2.600 g, e a tabela não traz o peso líquido.",
+          "981 kcal, 195 g de carboidratos (13 g de açúcares totais, 0 g de açúcares adicionados), 51 g de proteínas e 2 g de gorduras totais por porção.",
+          "Lista de ingredientes (chocolate): maltodextrina, proteína isolada do soro de leite, amido de milho, amido de batata modificada, caseína micelar, caseinato de cálcio, proteína concentrada do soro de leite, cacau em pó, aromatizante e sucralose. A baunilha acrescenta acesulfame de potássio e sal; o morango, corante de beterraba e lecitina de soja.",
+          "Alergênicos: \"Contém lactose. Não contém glúten.\"",
+          "Modo de consumo do rótulo: \"Recomendação para adultos acima de 19 anos de idade.\"",
+          "Sabores com estoque em 27/10/2026: chocolate e baunilha. Morango esgotado."
+        ],
+        "postParagraphs": [
+          "Na conta do artigo, o Monstrous sai a R$ 12,96 por 100 g do pó, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Em proteína, o pote inteiro tem 529 g, 2,4 vezes o do Masstodon, por 2,7 vezes o preço."
+        ]
+      },
+      {
+        "heading": "Sabor: o que a loja mostra e o quadro por sabor",
+        "paragraphs": [
+          "A Black Skull não publica venda por sabor, e ninguém do site provou nenhum deles. O que o site mostra, em 27/10/2026, é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto e sabor",
+            "Estoque em 27/10/2026",
+            "Preço (27/10/2026)",
+            "R$ por 100 g do pó",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "Masstodon Refil 3 kg, baunilha",
+              "Com estoque",
+              "R$ 129,90",
+              "R$ 4,33",
+              "R$ 57,73"
+            ],
+            [
+              "Masstodon Refil 3 kg, morango",
+              "Com estoque",
+              "R$ 129,90",
+              "R$ 4,33",
+              "R$ 57,73"
+            ],
+            [
+              "Masstodon Refil 3 kg, chocolate",
+              "Com estoque",
+              "R$ 129,90",
+              "R$ 4,33",
+              "R$ 57,73"
+            ],
+            [
+              "Masstodon Refil 3 kg, banana",
+              "Com estoque",
+              "R$ 129,90",
+              "R$ 4,33",
+              "R$ 57,73"
+            ],
+            [
+              "Monstrous 2,7 kg, chocolate",
+              "Com estoque",
+              "R$ 349,90",
+              "R$ 12,96",
+              "R$ 66,07"
+            ],
+            [
+              "Monstrous 2,7 kg, morango",
+              "Esgotado",
+              "R$ 349,90",
+              "R$ 12,96",
+              "R$ 66,07"
+            ],
+            [
+              "Monstrous 2,7 kg, baunilha",
+              "Com estoque",
+              "R$ 349,90",
+              "R$ 12,96",
+              "R$ 66,07"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Não há hipercalórico de 4 kg nem em balde no catálogo de 27/10/2026: os dois tamanhos são o refil de 3 kg e o pote de 2,7 kg."
+        ]
+      },
+      {
+        "heading": "Cupom CECILIA10 nos dois",
+        "paragraphs": [
+          "O CECILIA10 é um cupom de 10% em todo o site da Black Skull, em toda forma de pagamento, e soma com as promoções vigentes: no teste de checkout de 24/10/2026, o desconto valeu em todos os itens do carrinho. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix em 27/10/2026, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço (27/10/2026)",
+            "Com CECILIA10",
+            "R$ por 100 g de proteína com o cupom",
+            "R$ por 1.000 kcal com o cupom"
+          ],
+          "rows": [
+            [
+              "Masstodon Refil 3 kg",
+              "R$ 129,90",
+              "R$ 116,91",
+              "R$ 51,96",
+              "R$ 10,09"
+            ],
+            [
+              "Monstrous 2,7 kg",
+              "R$ 349,90",
+              "R$ 314,91",
+              "R$ 59,46",
+              "R$ 30,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom tira R$ 12,99 do Masstodon e R$ 34,99 do Monstrous. Ele não muda a ordem: por 100 g de proteína, o Masstodon continua cerca de 13% mais barato, com ou sem o código."
+        ]
+      },
+      {
+        "heading": "Qual escolher: Masstodon ou Monstrous",
+        "paragraphs": [
+          "A escolha entre os dois é a escolha entre duas tabelas. O Masstodon é carboidrato com um pouco de proteína (11,5 g de carboidrato por grama de proteína) e custa menos por tudo: por 100 g do pó, por 100 g de proteína e por 1.000 kcal. O Monstrous tem 2,6 vezes a proteína do Masstodon por 100 g do pó (19,6 g contra 7,5 g), menos carboidrato por grama de proteína (3,8 g), e cobra mais por isso: R$ 8,34 a mais por 100 g de proteína e o triplo por 1.000 kcal."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Se o critério é…",
+            "Leve…",
+            "O número (27/10/2026, sem cupom)"
+          ],
+          "rows": [
+            [
+              "Pagar menos por 100 g de proteína",
+              "Masstodon Refil 3 kg",
+              "R$ 57,73 contra R$ 66,07"
+            ],
+            [
+              "Pagar menos por 1.000 kcal",
+              "Masstodon Refil 3 kg",
+              "R$ 11,21 contra R$ 34,35"
+            ],
+            [
+              "Pagar menos pelo pote",
+              "Masstodon Refil 3 kg",
+              "R$ 129,90 contra R$ 349,90"
+            ],
+            [
+              "Mais proteína em 100 g do pó",
+              "Monstrous 2,7 kg",
+              "19,6 g contra 7,5 g"
+            ],
+            [
+              "Menos carboidrato por grama de proteína",
+              "Monstrous 2,7 kg",
+              "3,8 g contra 11,5 g"
+            ],
+            [
+              "Mais sabores com estoque",
+              "Masstodon Refil 3 kg",
+              "4 de 4 contra 2 de 3"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Whey Turbo também é hipercalórico, com outra porção e outra conta (479 kcal e 75 g de carboidrato em 120 g), e fica fora desta comparação: ele está no [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher). Com o CECILIA10, os dois saem 10% mais baratos no site da Black Skull: R$ 116,91 o Masstodon e R$ 314,91 o Monstrous. O código e as regras estão na [página do cupom](/cupons/black-skull)."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
+          "alt": "Quadro com porção, kcal, carboidrato, proteína e preço por 100 g de proteína do Masstodon e do Monstrous",
+          "caption": "Quadro nosso com o rótulo e o preço de 27/10/2026; em amarelo, quem leva vantagem em cada linha.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4423
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? O Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
+          "Qual hipercalórico da Black Skull é o mais barato por proteína? Em 27/10/2026, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
+          "A Black Skull tem hipercalórico de 4 kg ou em balde? Não no catálogo de 27/10/2026. Os dois tamanhos são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
+          "A Black Skull tem hipercalórico sem lactose? Não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
+          "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; em 27/10/2026 o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Ninguém do site usou o Masstodon nem o Monstrous. Este artigo reúne o que a loja publica: tabela nutricional, lista de ingredientes, ficha, sabores com estoque e preço de venda, lidos no site oficial da Black Skull (blackskullusa.com.br) em 27/10/2026. As contas por 100 g do pó, por 100 g de proteína, por 1.000 kcal e do desconto do cupom são nossas.",
+          "O Em Casa com Cecília é afiliado da Black Skull e recebe comissão pelas compras feitas com o código CECILIA10 e pelos links da loja, sem custo extra para você. Preço e estoque mudam: vale o que aparecer no site da loja na hora da compra. Veja se a Black Skull é confiável em [Black Skull é confiável?](/reviews/black-skull-e-confiavel)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "slug": "black-skull-mercado-livre-ou-site",
+    "locale": "pt",
+    "title": "Black Skull no Mercado Livre ou no site: onde sai mais barato",
+    "seoTitle": "Black Skull: Mercado Livre ou site, onde sai mais barato",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "27 de outubro de 2026",
+    "publishedAtISO": "2026-10-27",
+    "draft": false,
+    "isNew": true,
+    "description": "Black Skull no Mercado Livre ou no site: 15 produtos comparados em 27/10/2026, com o cupom CECILIA10 do site e o preço da loja oficial no Mercado Livre, peça a peça.",
+    "metaDescription": "Black Skull no Mercado Livre ou no site: com o cupom CECILIA10, o site ganha em 13 de 15 produtos; o Mercado Livre só nos dois wheys de 900 g. Preços de 27/10/2026.",
+    "image": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
+    "imageAlt": "Pote do Whey 100% HD 900 g da Black Skull, com o título Mercado Livre ou site",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na Black Skull pelo link da parceria e digite CECILIA10 no carrinho: 10% em todo o site, em todas as formas de pagamento. Confira a linha de desconto antes de pagar.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Preços lidos no site da Black Skull e na loja oficial do Mercado Livre. Podemos receber comissão pelo CECILIA10 e pelo link do Mercado Livre.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "whey-black-skull-qual-escolher",
+        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na maioria dos produtos, o site da Black Skull com o cupom CECILIA10 sai mais barato que o Mercado Livre: em 27/10/2026, o site ganhou em 13 de 15 comparações. O Mercado Livre só venceu no Whey 100% HD de 900 g e no Refil de 900 g. O que muda a conta é o produto e, no whey de 900 g, o sabor: a tabela abaixo mostra peça a peça."
+        ]
+      },
+      {
+        "heading": "Os 15 produtos: preço no Mercado Livre e no site em 27/10/2026",
+        "paragraphs": [
+          "Este guia compara o preço da Black Skull na loja oficial do Mercado Livre e no site, onde vale o cupom CECILIA10, com os dados de 27/10/2026. Entram só produtos que existem nos dois lados, no mesmo tamanho. \"Site com cupom\" é o preço do site menos 10%. O cupom não vale no Mercado Livre: lá vale o preço do anúncio."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Site",
+            "Site com CECILIA10",
+            "Mercado Livre",
+            "Onde sai mais barato"
+          ],
+          "rows": [
+            [
+              "Whey 100% HD 900 g",
+              "R$ 169,90",
+              "R$ 152,91",
+              "R$ 121,90 a R$ 149,90, conforme o sabor",
+              "Mercado Livre, R$ 3,01 a R$ 31,01 a menos"
+            ],
+            [
+              "Whey 100% HD Refil 900 g",
+              "R$ 159,90",
+              "R$ 143,91",
+              "R$ 139,90",
+              "Mercado Livre, R$ 4,01 a menos"
+            ],
+            [
+              "Whey 100% HD 1,8 kg",
+              "R$ 279,90",
+              "R$ 251,91",
+              "R$ 279,90",
+              "Site, R$ 27,99 a menos"
+            ],
+            [
+              "Whey 100% HD Gourmet Refil 900 g",
+              "R$ 119,90",
+              "R$ 107,91",
+              "R$ 119,90",
+              "Site, R$ 11,99 a menos"
+            ],
+            [
+              "Whey 100% HD Gourmet 450 g",
+              "R$ 84,90",
+              "R$ 76,41",
+              "R$ 84,90",
+              "Site, R$ 8,49 a menos"
+            ],
+            [
+              "Creatine Turbo 300 g",
+              "R$ 39,90",
+              "R$ 35,91",
+              "R$ 39,90",
+              "Site, R$ 3,99 a menos"
+            ],
+            [
+              "Creatine Turbo Refil 500 g",
+              "R$ 49,90",
+              "R$ 44,91",
+              "R$ 59,90",
+              "Site, R$ 14,99 a menos"
+            ],
+            [
+              "Creator Creatina Monohidratada 300 g",
+              "R$ 29,90",
+              "R$ 26,91",
+              "R$ 49,90",
+              "Site, R$ 22,99 a menos"
+            ],
+            [
+              "Creatina Monohidratada 150 g",
+              "R$ 39,90",
+              "R$ 35,91",
+              "R$ 39,90",
+              "Site, R$ 3,99 a menos"
+            ],
+            [
+              "Pré-Treino B.O.P.E 300 g",
+              "R$ 64,90",
+              "R$ 58,41",
+              "R$ 64,90",
+              "Site, R$ 6,49 a menos"
+            ],
+            [
+              "Pré-Treino B.O.P.E 150 g",
+              "R$ 34,90",
+              "R$ 31,41",
+              "R$ 34,90",
+              "Site, R$ 3,49 a menos"
+            ],
+            [
+              "Pré-Treino Bone Crusher 300 g",
+              "R$ 69,90",
+              "R$ 62,91",
+              "R$ 69,90",
+              "Site, R$ 6,99 a menos"
+            ],
+            [
+              "Pré-Treino Bone Crusher 150 g",
+              "R$ 44,90",
+              "R$ 40,41",
+              "R$ 44,90",
+              "Site, R$ 4,49 a menos"
+            ],
+            [
+              "Thermo Flame 60 tabletes",
+              "R$ 34,90",
+              "R$ 31,41",
+              "R$ 34,90",
+              "Site, R$ 3,49 a menos"
+            ],
+            [
+              "Kit 2 Whey Turbo 907 g",
+              "R$ 132,81",
+              "R$ 119,53",
+              "R$ 159,80",
+              "Site, R$ 40,27 a menos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Sem o cupom, o site empata com o Mercado Livre em dez produtos, fica mais barato em três (Creator 300 g, Creatine Turbo Refil 500 g e Kit 2 Whey Turbo) e mais caro só nos dois wheys de 900 g. O cupom é o que vira a conta: com ele, o site fica abaixo do Mercado Livre em 13 produtos, e só os dois wheys de 900 g continuam mais baratos lá.",
+          "O Kit 2 Whey Turbo estava em promoção no site (preço de tabela R$ 139,80), e o cupom soma com a promoção."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
+          "alt": "Quadro com o preço de 15 produtos da Black Skull no site com o CECILIA10 e no Mercado Livre",
+          "caption": "Quadro nosso com os preços de 27/10/2026; em amarelo, onde cada produto sai mais barato.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1152
+        },
+        "links": [
+          {
+            "label": "Ir para a Black Skull com o CECILIA10",
+            "href": "https://www.blackskullusa.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a loja oficial no Mercado Livre (sem cupom)",
+            "href": "https://meli.la/2knUCTL",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "O whey de 900 g: onde o Mercado Livre ganha",
+        "paragraphs": [
+          "O Whey 100% HD de 900 g é a exceção da tabela. No site, ele custa R$ 169,90 nos 11 sabores, e R$ 152,91 com o CECILIA10. Na loja oficial do Mercado Livre, o preço muda por sabor: de R$ 121,90 a R$ 149,90 em 27/10/2026. O chocolate estava a R$ 137,90, e a baunilha, de R$ 129,90 a R$ 149,90, conforme o anúncio.",
+          "Ou seja, o Mercado Livre saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, dependendo do sabor e do anúncio. O Refil de 900 g segue a mesma lógica, com folga menor: R$ 139,90 no Mercado Livre contra R$ 143,91 no site com o cupom, R$ 4,01 de diferença.",
+          "A conta muda se o pedido tiver mais itens. Dois wheys de 900 g no site com o cupom somam R$ 305,82, acima do limite de frete grátis do Sul e do Sudeste; no Mercado Livre, o frete depende do anúncio e da sua conta. Compare o total do carrinho, não só o preço do pote."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey 100% HD 900 g no Mercado Livre",
+            "href": "https://meli.la/2Sr34hZ",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "O que só um lado tem",
+        "bullets": [
+          "Só no site: o cupom CECILIA10, o Thermo Flame de 120 tabletes (R$ 49,90 em 27/10/2026, sem par no Mercado Livre) e a política de troca da própria loja.",
+          "Só no Mercado Livre: o whey de 900 g abaixo do site com o cupom, com preço que muda por sabor e por anúncio."
+        ],
+        "postParagraphs": [
+          "A loja oficial no Mercado Livre tinha 70 anúncios em 27/10/2026, e lemos os 47 da primeira página. O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete no site",
+        "paragraphs": [
+          "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No teste de 24/10/2026, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês, na [página do cupom](/cupons/black-skull).",
+          "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste. A regra olha o total do carrinho depois do desconto: um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo do limite e paga frete. Para chegar aos R$ 199,90, o pedido precisa de mais um item que, com o cupom, some pelo menos R$ 46,99: um pré-treino de 300 g serve (o whey com o B.O.P.E 300 g, os dois com o cupom, dá R$ 211,32); uma creatina sozinha não chega (com a Creatine Turbo 300 g, R$ 188,82)."
+        ]
+      },
+      {
+        "heading": "Antes de comprar no Mercado Livre",
+        "paragraphs": [
+          "Confira se o vendedor é a loja oficial, \"Black Skull_\", com o selo de loja oficial. O botão do Mercado Livre deste texto leva direto a ela, e o botão do whey leva ao anúncio de 900 g.",
+          "No Mercado Livre não entra cupom, e o frete, a troca e a devolução seguem as regras da plataforma e do anúncio; não lemos essas condições, então não prometemos frete grátis. No site, a loja aceita arrependimento em 7 dias corridos e troca em até 30 dias, com o envio por conta de quem compra. As regras completas estão em [se a Black Skull é confiável](/reviews/black-skull-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Como escolher",
+        "bullets": [
+          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: compare com o Mercado Livre, que em 27/10/2026 saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
+          "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: site com o CECILIA10, de R$ 3,49 a R$ 40,27 mais barato por produto.",
+          "Quer frete grátis no site: monte um carrinho acima de R$ 199,90 depois do cupom (Sul e Sudeste).",
+          "Quer a política de troca da própria loja: site."
+        ],
+        "postParagraphs": [
+          "O preço do Mercado Livre muda por sabor e por anúncio, e de um dia para o outro. O do site muda menos, e o cupom tira 10% de qualquer preço. Confira os dois antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O cupom CECILIA10 vale no Mercado Livre? Não. Ele só vale no site oficial da Black Skull; no Mercado Livre vale o preço do anúncio. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
+          "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. Em 27/10/2026, o site com o cupom ganhou em 13 de 15 comparações, e o Mercado Livre só no Whey 100% HD de 900 g e no Refil de 900 g.",
+          "O site da Black Skull tem frete grátis? No Sul e no Sudeste, sim, acima de R$ 199,90, contado depois do desconto.",
+          "O Pix tem desconto no site da Black Skull? Nas páginas que lemos, não há desconto próprio no Pix. O CECILIA10 tira 10% em qualquer forma de pagamento.",
+          "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial em 27/10/2026, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços foram lidos no site da Black Skull e na loja oficial do Mercado Livre em 27/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
+          "Podemos receber comissão quando você compra no site com o cupom ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém do site usou os produtos citados; este texto fala só de preço, tamanho e regras das lojas. O cupom foi testado em 24/10/2026."
         ]
       }
     ]
