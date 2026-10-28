@@ -89,7 +89,7 @@ Pautas de decisão de compra a partir do autocompletar de 20/10/2026 e da leitur
 | I4 | Presente de Natal: kits, gift card e troca de presente | **Publicado em 20/10/2026 (PR #188, `d240601`):** [[presente-de-natal-insider-kits-gift-card]] |
 | I3 | Camiseta Insider: qual escolher (Tech, Core, Light, Heavy, oversized, polo) | Estoque |
 | I5 | Insider feminino: Perfect Top, legging e vestido | Estoque |
-| I6 | Insider no Mercado Livre ou no site | **No main (#325, id 625), aguardando deploy:** [[insider-mercado-livre-ou-site]]; reler os preços três dias antes da Black Friday |
+| I6 | Insider no Mercado Livre ou no site | **No ar em 28/10/2026 (#325, release `2567b32`, id 625):** [[insider-mercado-livre-ou-site]]; reler os preços três dias antes da Black Friday |
 
 ## Hostinger: agentes de IA (Bruno, 21/10/2026)
 

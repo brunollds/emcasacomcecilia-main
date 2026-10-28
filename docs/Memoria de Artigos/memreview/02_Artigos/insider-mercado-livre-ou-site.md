@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "deploy"
+proxima_acao: "reler preços três dias antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-27"
 pauta: "I6 da rodada de 27/10/2026 (estoque; link de afiliado do ML convertido por Bruno em 27/10)"
@@ -184,5 +184,5 @@ Fonte: `insiderstore.com.br` no Chrome, `/search/suggest.json` e `/products/<han
 6. Publicar agora e reler os preços três dias antes da Black Friday.
 
 ## Redação (27/10/2026)
-- No main (PR #325, id 625). Tabela com 17 produtos, só o preço no cartão; o cupom fica nas frases abaixo dela (vira 6 linhas). Placar com o cupom: site 13, ML 3 (as três Daily); a Meia Spectrum Mid fica praticamente empatada (R$ 29,75 × R$ 29,45). Henley ficou fora, porque a peça não foi confirmada como a mesma. O anúncio da Tech a R$ 109,25 e a Light entram só numa frase.
+- No ar em 28/10/2026 03:40 UTC (PR #325, release `2567b32`, id 625). Tabela com 17 produtos, só o preço no cartão; o cupom fica nas frases abaixo dela (vira 6 linhas). Placar com o cupom: site 13, ML 3 (as três Daily); a Meia Spectrum Mid fica praticamente empatada (R$ 29,75 × R$ 29,45). Henley ficou fora, porque a peça não foi confirmada como a mesma. O anúncio da Tech a R$ 109,25 e a Light entram só numa frase.
 - Reler os preços três dias antes da Black Friday.
