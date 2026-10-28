@@ -1,0 +1,290 @@
+{
+  "id": 625,
+  "slug": "insider-mercado-livre-ou-site",
+  "locale": "pt",
+  "title": "Insider no Mercado Livre ou no site: onde sai mais barato",
+  "seoTitle": "Insider: Mercado Livre ou site, onde sai mais barato",
+  "type": "Guia de Compra",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "27 de outubro de 2026",
+  "publishedAtISO": "2026-10-27",
+  "draft": false,
+  "isNew": true,
+  "description": "Insider no Mercado Livre ou no site: 17 produtos comparados em 27/10/2026, com o cupom EMCASACOMCECILIA do site e o preço da loja oficial no Mercado Livre, peça a peça.",
+  "metaDescription": "Insider no Mercado Livre ou no site: com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 produtos. Preços de 27/10/2026.",
+  "image": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
+  "imageAlt": "Homem com a Tech T-Shirt preta da Insider, com o título Mercado Livre ou site",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho e dá 15% OFF no site. Confira a linha de desconto em cada item antes de pagar.",
+    "label": "Ir para a Insider com o cupom",
+    "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "sponsored": true
+  },
+  "coupon": "EMCASACOMCECILIA",
+  "affiliate": "insider",
+  "editorialNote": "Preços lidos no site da Insider e na loja oficial do Mercado Livre. Podemos receber comissão pelo EMCASACOMCECILIA e pelo link do Mercado Livre.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+      "title": "Como usar o cupom EMCASACOMCECILIA na Insider Store: 15% de desconto"
+    },
+    {
+      "slug": "insider-store-e-confiavel",
+      "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+    },
+    {
+      "slug": "cueca-insider-comfort-ou-performance",
+      "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 peças, com preços de 27/10/2026. No Mercado Livre o cupom não vale, e a Daily sai mais barata por lá. O que muda a conta são a Daily e a regra de frete grátis acima de R$ 399 do site, veja abaixo."
+      ]
+    },
+    {
+      "heading": "Os 17 produtos: preço no site e no Mercado Livre em 27/10/2026",
+      "paragraphs": [
+        "Os produtos abaixo existem nos dois lados, com preço de cartão e sem frete. O Mercado Livre é a loja oficial da Insider. A coluna do site traz o preço sem o cupom."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Site",
+          "Mercado Livre",
+          "Mais barato no cartão"
+        ],
+        "rows": [
+          [
+            "Tech T-Shirt masculina",
+            "R$ 139",
+            "R$ 149,15",
+            "Site"
+          ],
+          [
+            "Core T-Shirt",
+            "R$ 179",
+            "R$ 161,50 a R$ 179,55",
+            "Mercado Livre"
+          ],
+          [
+            "Tech T-Shirt Heavy",
+            "R$ 155",
+            "R$ 170,05",
+            "Site"
+          ],
+          [
+            "The Perfect Top T-Shirt",
+            "R$ 129",
+            "R$ 111,25 a R$ 118,75",
+            "Mercado Livre"
+          ],
+          [
+            "Polo Core",
+            "R$ 249",
+            "R$ 234,65",
+            "Mercado Livre"
+          ],
+          [
+            "Sportee",
+            "R$ 149",
+            "R$ 147,25",
+            "Mercado Livre"
+          ],
+          [
+            "Camiseta Tech Daily masculina",
+            "R$ 99",
+            "R$ 69 a R$ 79",
+            "Mercado Livre"
+          ],
+          [
+            "Daily feminina",
+            "R$ 99",
+            "R$ 56,05 a R$ 79",
+            "Mercado Livre"
+          ],
+          [
+            "Kit 3 Daily feminina",
+            "R$ 290,76",
+            "R$ 179,69",
+            "Mercado Livre"
+          ],
+          [
+            "Cueca Boxer Performance",
+            "R$ 79",
+            "R$ 80,75",
+            "Site"
+          ],
+          [
+            "Cueca Slip",
+            "R$ 75",
+            "R$ 67",
+            "Mercado Livre"
+          ],
+          [
+            "Kit 3 Cuecas Comfort",
+            "R$ 229,89",
+            "R$ 205,91",
+            "Mercado Livre"
+          ],
+          [
+            "Kit 5 Cuecas Comfort",
+            "R$ 375,25",
+            "R$ 382",
+            "Site"
+          ],
+          [
+            "Undershirt Antissuor Moderado",
+            "R$ 145",
+            "R$ 151,05",
+            "Site"
+          ],
+          [
+            "Meia Spectrum Mid 2.0",
+            "R$ 35",
+            "R$ 29,45",
+            "Mercado Livre"
+          ],
+          [
+            "Meia Spectrum High 2.0",
+            "R$ 49",
+            "R$ 50,35",
+            "Site"
+          ],
+          [
+            "Sutiã Comfy",
+            "R$ 99",
+            "R$ 132,05",
+            "Site"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Tech T-Shirt aparece na tabela pelo preço normal do Mercado Livre, R$ 149,15, mas às vezes aparece lá um anúncio mais barato.",
+        "Sem o cupom, o Mercado Livre é mais barato em 10 dos 17 produtos. Com o cupom, o site fica mais barato em 13; as três Daily ficam com o Mercado Livre, e a Meia Spectrum Mid empata na prática (R$ 29,75 no site com cupom, R$ 29,45 no Mercado Livre)."
+      ],
+      "image": {
+        "src": "/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
+        "alt": "Quadro com o preço de 17 produtos da Insider no site e no Mercado Livre, no cartão",
+        "caption": "Quadro nosso com os preços de 27/10/2026, sem o cupom; em amarelo, o menor preço no cartão.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0274
+      },
+      "links": [
+        {
+          "label": "Ir para a Insider com o EMCASACOMCECILIA",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a loja oficial no Mercado Livre (sem cupom)",
+          "href": "https://meli.la/12dWwH8",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Onde o cupom muda a conta",
+      "paragraphs": [
+        "Seis produtos trocam de lado com o cupom. Sem ele, o Mercado Livre ganha em todos; com ele, o site passa à frente. Preços de 27/10/2026:"
+      ],
+      "bullets": [
+        "Core T-Shirt: R$ 152,15 no site com o cupom; R$ 161,50 a R$ 179,55 no Mercado Livre.",
+        "The Perfect Top T-Shirt: R$ 109,65 com o cupom; R$ 111,25 a R$ 118,75 no Mercado Livre.",
+        "Polo Core: R$ 211,65 com o cupom; R$ 234,65 no Mercado Livre.",
+        "Sportee: R$ 126,65 com o cupom; R$ 147,25 no Mercado Livre.",
+        "Cueca Slip: R$ 63,75 com o cupom; R$ 67 no Mercado Livre.",
+        "Kit 3 Cuecas Comfort: R$ 195,41 com o cupom; R$ 205,91 no Mercado Livre."
+      ],
+      "postParagraphs": [
+        "O cupom EMCASACOMCECILIA dá 15% no site, e a loja aceita um cupom por pedido. Ele vale em Outlet e em kits promocionais. Não vale em lançamentos, nas lojas físicas, na Daily nem no Mercado Livre. O passo a passo está em [como usar o cupom EMCASACOMCECILIA](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
+      ]
+    },
+    {
+      "heading": "Daily e Light: onde o Mercado Livre ganha",
+      "paragraphs": [
+        "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste de 12/10/2026 confirmou isso.",
+        "Em 27/10/2026, a Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
+        "A Light só aparece no Mercado Livre: não achamos no site nenhum produto com esse nome, então ela fica fora da tabela."
+      ],
+      "image": {
+        "src": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+        "alt": "Foto oficial da Insider da Daily T-Shirt feminina",
+        "caption": "Daily T-Shirt feminina: no site ela não aceita o cupom. Foto oficial da Insider.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0
+      }
+    },
+    {
+      "heading": "Frete e trocas no site",
+      "paragraphs": [
+        "O site dá frete grátis em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete, então a regra pesa mais quando o pedido é pequeno.",
+        "As trocas seguem estes prazos, sem custo: arrependimento em 7 dias úteis, troca por insatisfação em 21 dias corridos e troca por defeito em 180 dias corridos. Cueca, calcinha e undershirt só são trocadas por defeito. As regras completas estão em [se a Insider Store é confiável](/reviews/insider-store-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Antes de comprar no Mercado Livre",
+      "paragraphs": [
+        "O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar.",
+        "No Mercado Livre o cupom não entra. Frete, troca e devolução seguem as regras da plataforma e de cada anúncio. Não lemos essas condições para este texto, então não prometemos frete nem prazo. Os preços da loja vêm da listagem, e a cor ou o tamanho podem mudar o valor dentro do anúncio."
+      ]
+    },
+    {
+      "heading": "Como escolher",
+      "bullets": [
+        "**Daily e Light:** Mercado Livre. A Daily sai mais barata lá, e a Light só existe lá.",
+        "**Cuecas, kits de cueca e undershirt:** site com o cupom. Para escolher entre a Comfort e a Performance, veja [a comparação de cuecas Insider](/reviews/cueca-insider-comfort-ou-performance).",
+        "**Tech, Core, Heavy, Perfect Top, Polo e Sportee:** site com o cupom.",
+        "**Sutiã Comfy:** site, mesmo sem cupom (R$ 99 contra R$ 132,05 no Mercado Livre, em 27/10/2026).",
+        "**Meia Spectrum Mid:** empate. Compare os dois preços no dia da compra.",
+        "**Frete grátis no site:** monte um carrinho acima de R$ 399 depois do desconto."
+      ],
+      "postParagraphs": [
+        "As condições do mês do cupom estão na [página de cupons da Insider](/cupons/insider)."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Insider com o EMCASACOMCECILIA",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a loja oficial no Mercado Livre (sem cupom)",
+          "href": "https://meli.la/12dWwH8",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O cupom EMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site da Insider; no Mercado Livre vale o preço do anúncio.",
+        "A Insider é mais barata no Mercado Livre ou no site? Depende do produto. Em 27/10/2026, com o cupom, o site ganhou em 13 dos 17 produtos; as três Daily ficam mais baratas no Mercado Livre.",
+        "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste de 12/10/2026 confirmou isso.",
+        "O site da Insider tem frete grátis? Sim, em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete.",
+        "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
+      ]
+    },
+    {
+      "heading": "Nota de transparência",
+      "paragraphs": [
+        "Os preços foram lidos no site da Insider e na loja oficial do Mercado Livre em 27/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
+        "Podemos receber comissão quando você compra no site com o cupom EMCASACOMCECILIA ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém da equipe usou os produtos citados; o texto fala só de preço, tamanho e regras das lojas. O cupom foi testado no checkout em 26/10/2026."
+      ]
+    }
+  ]
+}

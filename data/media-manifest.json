@@ -60608,6 +60608,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
+      "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48630,
+      "sha256": "d42a78be02020bc3d4ed2b3dc0ef4b6dc925b82de07c0038d0433ee71a3d48d0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-mercado-livre-ou-site-capa.webp",
+      "storage_filename": "insider-mercado-livre-ou-site-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-mercado-livre-ou-site.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d42a78be02020bc3d4ed2b3dc0ef4b6dc925b82de07c0038d0433ee71a3d48d0/insider-mercado-livre-ou-site-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d42a78be02020bc3d4ed2b3dc0ef4b6dc925b82de07c0038d0433ee71a3d48d0/insider-mercado-livre-ou-site-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T02:20:09.866Z",
+      "verification_etag_or_digest": "d42a78be02020bc3d4ed2b3dc0ef4b6dc925b82de07c0038d0433ee71a3d48d0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
+      "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110866,
+      "sha256": "82bb8884860d0c63578e8e7b3eb3145a441b127cd405fc740d30802f6bf41159",
+      "width": 1200,
+      "height": 1168,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-mercado-livre-ou-site-quadro-2710.webp",
+      "storage_filename": "insider-mercado-livre-ou-site-quadro-2710.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-mercado-livre-ou-site.json",
+          "line": 181,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/82bb8884860d0c63578e8e7b3eb3145a441b127cd405fc740d30802f6bf41159/insider-mercado-livre-ou-site-quadro-2710.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82bb8884860d0c63578e8e7b3eb3145a441b127cd405fc740d30802f6bf41159/insider-mercado-livre-ou-site-quadro-2710.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T02:20:09.867Z",
+      "verification_etag_or_digest": "82bb8884860d0c63578e8e7b3eb3145a441b127cd405fc740d30802f6bf41159",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-passo-2-checkout.webp",
       "local_url": "/images/reviews/insider/insider-passo-2-checkout.webp",
       "media_kind": "image",
