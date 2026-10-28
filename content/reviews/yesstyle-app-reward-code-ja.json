@@ -1,0 +1,210 @@
+{
+  "id": 636,
+  "slug": "yesstyle-app-reward-code-ja",
+  "locale": "ja",
+  "translationKey": "yesstyle-app",
+  "title": "YesStyleアプリの使い方：リワードコードCECILIA010はどこに入力する？",
+  "seoTitle": "YesStyleアプリの使い方とCECILIA010の入力場所",
+  "type": "使い方ガイド",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "description": "YesStyleアプリのガイド。公式リンク、ストアの評価、CECILIA010を入力する「Influencer / Rewards Code」欄、サイトとの違い、アプリが動かないときに確認すること。",
+  "metaDescription": "YesStyleにはAndroidとiPhone向けのアプリがあります。リワードコードCECILIA010をアプリのチェックアウトのどこに入力するか、サイトとの違い、アプリが動かないときの確認点を解説します。",
+  "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
+  "imageAlt": "YesStyleアプリの2つの画面。韓国コスメが並ぶホームと、CECILIA010を適用したチェックアウト。YesStyleのロゴと「YesStyle App」のタイトル入り",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "CECILIA010はアプリの「Influencer / Rewards Code」欄、またはサイトのReward Code欄に入力します。最大5%オフのリワードコードで、YesStyleのクーポンと併用できます。",
+    "label": "YesStyleへ進む",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "アフィリエイトリンク：リンクとリワードコードCECILIA010を通じて、当サイトが報酬を受け取ることがあります。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ja",
+      "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ja",
+      "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+    },
+    {
+      "slug": "yesstyle-shipping-japan-ja",
+      "title": "YesStyleの日本への配送：日数・送料・関税"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "まずは結論",
+      "paragraphs": [
+        "はい、YesStyleにはAndroidとiPhone向けのアプリがあり、アカウントはサイトと共通です。アプリでは、リワードコードのCECILIA010をチェックアウトの「Influencer / Rewards Code」欄に入力します。「Coupon Code」欄の隣です。配送は住所の国によって変わります。"
+      ]
+    },
+    {
+      "heading": "アプリのダウンロード先",
+      "paragraphs": [
+        "YesStyleは、アプリは2つの公式リンクからだけダウンロードするよう案内しています。ほかの場所からはインストールしないでください。",
+        "2026年10月28日時点のストア情報："
+      ],
+      "bullets": [
+        "Google Play：評価4.4、レビュー16.4万件。",
+        "App Store：バージョン4.7.23。"
+      ],
+      "postParagraphs": [
+        "ショップのヘルプセンターによると、アプリはiOSとAndroidで動きます。起動すると韓国コスメの特集が表示され、下にHome、Shop、Bag、Saved、Accountのタブが並びます。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
+        "alt": "韓国コスメの特集と、Home、Shop、Bag、Saved、Accountのタブが並ぶYesStyleアプリのホーム",
+        "caption": "2026年10月28日、Android版YesStyleアプリのホーム画面。",
+        "objectFit": "contain",
+        "aspectRatio": 0.4868
+      },
+      "links": [
+        {
+          "label": "App Store",
+          "href": "https://apps.apple.com/app/id868675907",
+          "sponsored": true
+        },
+        {
+          "label": "Google Play",
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "配送について",
+      "paragraphs": [
+        "配送は住所の国によって変わります。日本への配送日数、送料、関税は[YesStyleの日本への配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)をご覧ください。"
+      ]
+    },
+    {
+      "heading": "アプリでの買い方",
+      "paragraphs": [
+        "買い方の流れはサイトと同じです。ログインして、バッグに商品を入れ、チェックアウトへ進みます。ヘルプセンターが確認している3点："
+      ],
+      "bullets": [
+        "アカウントはサイトと同じです。新しく作る必要はありません。",
+        "商品をバッグに入れる前にログインしてください。サイトとアプリの両方でログインしていれば、バッグは1つにまとまります。",
+        "チェックアウトでは、配送先の国、送料、「Coupon or Influencer / Rewards Code」の行が注文内容の前に表示されます。"
+      ],
+      "postParagraphs": [
+        "Web版のReward Code欄を使うサイトでの手順は[YesStyle リワードコード CECILIA010の使い方](/ja/reviews/yesstyle-reward-code-cecilia010-ja)にあります。ここではアプリに関することだけを扱います。"
+      ]
+    },
+    {
+      "heading": "アプリでCECILIA010を入力する場所",
+      "paragraphs": [
+        "CECILIA010はクーポンではなくリワードコードです。最大5%オフ（初回購入5%、2回目以降2%）が適用され、YesStyleのクーポンと併用できます。アプリには専用の入力欄があります。2026年10月28日にAndroidアプリで確認、アカウントは英語表示、配送先は米国です。"
+      ],
+      "bullets": [
+        "チェックアウトで、「Coupon or Influencer / Rewards Code」の行にある「Enter Code」をタップします。",
+        "2つの欄が開きます。上がショップのクーポン用の「Coupon Code」、下が「Influencer / Rewards Code」です。下の欄にCECILIA010を入力し、「APPLY」をタップします。",
+        "チェックアウトに戻ると、「Coupon or Influencer / Rewards Code」の下にコードがタグとして表示され、注文内容に「Influencer Code Discount」の行が加わります。支払う前にこの行を確認してください。"
+      ],
+      "postParagraphs": [
+        "ショップのクーポンが出ているときは、同じ画面の上の欄に入力します。2つは併用できます。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+        "alt": "YesStyleアプリの3つの画面。Coupon or Influencer / Rewards Codeの行があるチェックアウト、Coupon Code欄とInfluencer / Rewards Code欄があるEnter Code画面、CECILIA010を適用したチェックアウト",
+        "caption": "2026年10月28日、Androidアプリでの3つの手順。配送先は米国のアカウント。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4382
+      }
+    },
+    {
+      "heading": "サイトとアプリの違い",
+      "comparisonTable": {
+        "headers": [
+          "項目",
+          "サイト",
+          "アプリ"
+        ],
+        "rows": [
+          [
+            "アカウント",
+            "YesStyleのアカウント",
+            "同じアカウント"
+          ],
+          [
+            "バッグ",
+            "サイトのバッグ",
+            "両方でログインしていれば同じバッグ"
+          ],
+          [
+            "CECILIA010の入力欄",
+            "チェックアウトの「Reward Code」",
+            "チェックアウトの「Enter Code」画面にある「Influencer / Rewards Code」"
+          ],
+          [
+            "ショップのクーポン",
+            "「Coupon Code」",
+            "コードと同じ画面の「Coupon Code」"
+          ],
+          [
+            "YSポイント",
+            "「Payment Information」のステップ",
+            "同じステップ"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "YSポイントとアプリ限定クーポン",
+      "paragraphs": [
+        "アプリからアカウントにログインすると、1回だけ50 YSポイントがもらえます。再インストールしても再度はもらえません。ポイントはリワードコードとは別のものです。ポイントはチェックアウトの「Payment Information」のステップで使い、CECILIA010は「Enter Code」画面に入力します。どちらかがもう一方の代わりになることはありません。",
+        "ショップによると、月に1回、ランダムな時間に、アプリからの注文だけに使える24時間限定クーポンを出しています。2026年10月28日の確認時点では、有効なものはありませんでした。ショップの有効なクーポンは[YesStyleのページ](/ja/coupons/yesstyle)にまとめています。"
+      ]
+    },
+    {
+      "heading": "アプリが動かないとき",
+      "paragraphs": [
+        "YesStyleのヘルプセンターが確認していること："
+      ],
+      "bullets": [
+        "App StoreとGoogle Playの公式リンクからだけダウンロードする。",
+        "サイトのアカウントを使う。アプリ用に新しいアカウントを作らない。",
+        "商品をバッグに入れる前にログインする。ログインしていないと、アプリのバッグはサイトのバッグと統合されません。"
+      ],
+      "postParagraphs": [
+        "ショップの安全性については[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)で解説しています。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "YesStyleにアプリはありますか？はい。AndroidとiPhone向けに、Google PlayとApp Storeの公式リンクで配布されています。ショップはこの2つからだけダウンロードするよう案内しています。",
+        "CECILIA010はアプリでも使えますか？はい。チェックアウトで「Enter Code」をタップし、「Influencer / Rewards Code」欄にコードを入力します。最大5%オフのリワードコードで、「Coupon Code」欄に入れるショップのクーポンと併用できます。",
+        "アプリをダウンロードするとポイントがもらえますか？はい。アプリからログインすると1回だけ50 YSポイントがもらえます。再インストールしても再度はもらえず、ポイントはリワードコードとは別のものです。",
+        "アプリ限定のクーポンはありますか？ショップによると、月に1回、アプリからの注文だけに使える24時間限定クーポンを出しています。2026年10月28日時点では有効なものはありませんでした。"
+      ]
+    },
+    {
+      "heading": "透明性について",
+      "paragraphs": [
+        "コードの入力欄は、2026年10月28日にAndroidアプリで、英語表示・配送先米国のアカウントで確認しました。アプリでの購入はしていないため、配送日数、送料、関税については本文で触れていません。評価とレビュー数は同日のアプリストアのもので、時間とともに変わります。",
+        "当サイトは、YesStyleのリンクとリワードコードCECILIA010を通じて報酬を受け取ることがあります。お客様の支払う価格は変わりません。"
+      ]
+    }
+  ]
+}

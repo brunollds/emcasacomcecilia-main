@@ -1,0 +1,210 @@
+{
+  "id": 639,
+  "slug": "yesstyle-app-reward-code-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "yesstyle-app",
+  "title": "YesStyle App 怎麼買：下單步驟與獎勵碼 CECILIA010 填在哪裡",
+  "seoTitle": "YesStyle App 怎麼買：下單步驟與 CECILIA010 填在哪裡",
+  "type": "使用指南",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "description": "YesStyle App 指南：官方下載連結、應用程式商店評分、填寫 CECILIA010 的「Influencer / Rewards Code」欄位、與網站的差異，以及 App 不能用時該檢查什麼。",
+  "metaDescription": "YesStyle 有 Android 和 iPhone 版 App。獎勵碼 CECILIA010 在 App 結帳頁填在哪個欄位、App 和網站有什麼不同，一次說清楚。",
+  "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa.webp",
+  "imageAlt": "YesStyle App 的兩個畫面，展示韓國美妝商品的首頁和已套用 CECILIA010 的結帳頁，附 YesStyle 標誌和 YesStyle App 標題",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "在 App 把 CECILIA010 填入「Influencer / Rewards Code」欄位，在網站則填入 Reward Code 欄位。它是獎勵碼，最多額外 5% 優惠，可與 YesStyle 的優惠券疊加。",
+    "label": "前往 YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "聯盟連結：我們可能透過連結和獎勵碼 CECILIA010 獲得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+      "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant",
+      "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+    },
+    {
+      "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
+      "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "有，YesStyle 有 Android 和 iPhone 版 App，用的是和網站相同的帳號。在 App 裡，獎勵碼 CECILIA010 填在結帳頁的「Influencer / Rewards Code」欄位，就在「Coupon Code」旁邊。能否配送取決於收件地址所在的國家或地區。"
+      ]
+    },
+    {
+      "heading": "在哪裡下載",
+      "paragraphs": [
+        "YesStyle 說明 App 只能從兩個官方連結下載。不要從其他地方安裝。",
+        "2026 年 10 月 28 日的應用程式商店資訊："
+      ],
+      "bullets": [
+        "Google Play：評分 4.4，共 164,000 則評價。",
+        "App Store：版本 4.7.23。"
+      ],
+      "postParagraphs": [
+        "依客服中心的說明，App 支援 iOS 和 Android。打開後首頁先顯示韓國美妝商品，底部是 Home、Shop、Bag、Saved 和 Account 五個分頁。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
+        "alt": "YesStyle App 首頁，展示韓國美妝商品，底部有 Home、Shop、Bag、Saved 和 Account 分頁",
+        "caption": "2026 年 10 月 28 日，Android 版 YesStyle App 的首頁。",
+        "objectFit": "contain",
+        "aspectRatio": 0.4868
+      },
+      "links": [
+        {
+          "label": "App Store",
+          "href": "https://apps.apple.com/app/id868675907",
+          "sponsored": true
+        },
+        {
+          "label": "Google Play",
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "配送",
+      "paragraphs": [
+        "能否配送和運費取決於收件地址所在的國家或地區。寄往台灣、香港和澳門的細節見[YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "怎麼用 App 下單",
+      "paragraphs": [
+        "流程和網站一樣：登入帳號、把商品加入購物袋、前往結帳。客服中心確認的三點："
+      ],
+      "bullets": [
+        "帳號和網站相同，不用另外註冊。",
+        "先登入，再加商品。網站和 App 都登入後，購物袋是同一個。",
+        "結帳頁會顯示配送國家、運費，以及訂單摘要前面的「Coupon or Influencer / Rewards Code」一列。"
+      ],
+      "postParagraphs": [
+        "網站的結帳步驟，包括網頁版的 Reward Code 欄位，見[YesStyle 獎勵碼 CECILIA010 使用方法](/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant)。這裡只講 App 的部分。"
+      ]
+    },
+    {
+      "heading": "CECILIA010 在 App 裡填在哪",
+      "paragraphs": [
+        "CECILIA010 是獎勵碼，不是優惠券：最多額外 5% 優惠（首購 5%，回購 2%），可與 YesStyle 的優惠券疊加。App 裡有專用的欄位。測試於 2026 年 10 月 28 日在 Android App 完成，帳號為英文介面，收件地址在美國。"
+      ],
+      "bullets": [
+        "在結帳頁，點「Coupon or Influencer / Rewards Code」一列的「Enter Code」。",
+        "會打開兩個欄位：上面的「Coupon Code」填商店優惠券，下面的「Influencer / Rewards Code」填獎勵碼。在下面的欄位輸入 CECILIA010，點「APPLY」。",
+        "回到結帳頁，代碼會以標籤形式顯示在「Coupon or Influencer / Rewards Code」下方，訂單摘要多出一列「Influencer Code Discount」。付款前先確認這一列。"
+      ],
+      "postParagraphs": [
+        "商店優惠券有效時，填在同一頁面上方的欄位。兩項優惠一起生效。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-app-codigo-checkout-2810.webp",
+        "alt": "YesStyle App 的三個畫面：有 Coupon or Influencer / Rewards Code 一列的結帳頁、有 Coupon Code 和 Influencer / Rewards Code 兩個欄位的 Enter Code 頁面，以及已套用 CECILIA010 的結帳頁",
+        "caption": "2026 年 10 月 28 日，在收件地址設為美國的帳號上，用 Android App 看到的三個步驟。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4382
+      }
+    },
+    {
+      "heading": "網站和 App：有什麼不同",
+      "comparisonTable": {
+        "headers": [
+          "項目",
+          "網站",
+          "App"
+        ],
+        "rows": [
+          [
+            "帳號",
+            "YesStyle 帳號",
+            "同一個帳號"
+          ],
+          [
+            "購物袋",
+            "網站購物袋",
+            "兩邊都登入時是同一個"
+          ],
+          [
+            "CECILIA010 欄位",
+            "結帳頁的「Reward Code」",
+            "結帳頁「Enter Code」裡的「Influencer / Rewards Code」"
+          ],
+          [
+            "商店優惠券",
+            "「Coupon Code」",
+            "與獎勵碼同一頁面的「Coupon Code」"
+          ],
+          [
+            "YS 點數",
+            "「Payment Information」步驟",
+            "同一步驟"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "YS 點數和 App 優惠券",
+      "paragraphs": [
+        "透過 App 登入帳號可獲得 50 YS 點數，僅一次。重新安裝不會再送。點數不是獎勵碼：點數在結帳的「Payment Information」步驟使用，CECILIA010 則填在「Enter Code」頁面。兩者不能互相取代。",
+        "商店說明每月一次、在隨機時間發布一張僅限 App 訂單的 24 小時優惠券；2026 年 10 月 28 日核對時沒有生效中的，App 首頁展示的優惠券和網站一樣。商店目前有效的優惠券見 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
+      ]
+    },
+    {
+      "heading": "App 不能用怎麼辦",
+      "paragraphs": [
+        "YesStyle 客服中心確認的做法："
+      ],
+      "bullets": [
+        "只從 App Store 和 Google Play 的官方連結下載。",
+        "用網站的帳號，不要為 App 另外註冊。",
+        "加商品前先登入。不登入，App 的購物袋不會和網站合併。"
+      ],
+      "postParagraphs": [
+        "關於商店是否安全，[YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)有答案。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "YesStyle 有 App 嗎？有，Android 和 iPhone 版都有，從 Google Play 和 App Store 的官方連結下載。商店說明只從這兩處下載。",
+        "CECILIA010 在 App 裡能用嗎？能。在結帳頁點「Enter Code」，把代碼填入「Influencer / Rewards Code」欄位。它是獎勵碼，最多額外 5% 優惠，可與填在「Coupon Code」欄位的商店優惠券疊加。",
+        "下載 App 送點數嗎？送，透過 App 登入帳號可得 50 YS 點數，僅一次。重新安裝不會再送，點數也不是獎勵碼。",
+        "App 有專屬優惠券嗎？商店說明每月發布一次僅限 App 訂單的 24 小時優惠券。2026 年 10 月 28 日沒有生效中的。"
+      ]
+    },
+    {
+      "heading": "透明度說明",
+      "paragraphs": [
+        "獎勵碼欄位於 2026 年 10 月 28 日在 Android App 確認，帳號為英文介面，收件地址在美國。我們沒有透過 App 下單，所以本文不涉及送達時間、運費和稅費。評分和評價數來自同一日期的應用程式商店，會隨時間變化。",
+        "我們可能透過 YesStyle 連結和獎勵碼 CECILIA010 獲得佣金。這不會改變你支付的價格。"
+      ]
+    }
+  ]
+}
