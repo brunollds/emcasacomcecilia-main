@@ -38507,6 +38507,158 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
+      "local_url": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 131144,
+      "sha256": "7dda71401f4e6ef94c111a3aa8554de73ee05e6354beea6d3ed97792f1836615",
+      "width": 1448,
+      "height": 732,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-kids-belive-fotos-2810.webp",
+      "storage_filename": "bolinho-kids-belive-fotos-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-kids-belive-lancheira.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-kids-belive-lancheira.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7dda71401f4e6ef94c111a3aa8554de73ee05e6354beea6d3ed97792f1836615/bolinho-kids-belive-fotos-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7dda71401f4e6ef94c111a3aa8554de73ee05e6354beea6d3ed97792f1836615/bolinho-kids-belive-fotos-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.587Z",
+      "verification_etag_or_digest": "7dda71401f4e6ef94c111a3aa8554de73ee05e6354beea6d3ed97792f1836615",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "local_url": "/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 184134,
+      "sha256": "df96e5c07663130a78133e255e3b9f6a7f9fecbacda7723fef0d3e559910d0df",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "storage_filename": "bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-kids-belive-lancheira.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-kids-belive-lancheira.json",
+          "line": 232,
+          "column": 17,
+          "literal": "/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/df96e5c07663130a78133e255e3b9f6a7f9fecbacda7723fef0d3e559910d0df/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/df96e5c07663130a78133e255e3b9f6a7f9fecbacda7723fef0d3e559910d0df/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "df96e5c07663130a78133e255e3b9f6a7f9fecbacda7723fef0d3e559910d0df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
+      "local_url": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53164,
+      "sha256": "1bafac13d900bd613534d0324f439b7b7d09dffc4839183feec30d9382b80372",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-kids-belive-lancheira-capa.webp",
+      "storage_filename": "bolinho-kids-belive-lancheira-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-kids-belive-lancheira.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-kids-belive-lancheira.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1bafac13d900bd613534d0324f439b7b7d09dffc4839183feec30d9382b80372/bolinho-kids-belive-lancheira-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1bafac13d900bd613534d0324f439b7b7d09dffc4839183feec30d9382b80372/bolinho-kids-belive-lancheira-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "1bafac13d900bd613534d0324f439b7b7d09dffc4839183feec30d9382b80372",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
+      "local_url": "/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95648,
+      "sha256": "75217124294176a7e50153783e5f6725a7dfe928db66562477fcadf4b0dfd11e",
+      "width": 1848,
+      "height": 932,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "bolinho-kids-belive-tabelas-2810.webp",
+      "storage_filename": "bolinho-kids-belive-tabelas-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/bolinho-kids-belive-lancheira.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/bolinho-kids-belive-lancheira.json",
+          "line": 65,
+          "column": 17,
+          "literal": "/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/75217124294176a7e50153783e5f6725a7dfe928db66562477fcadf4b0dfd11e/bolinho-kids-belive-tabelas-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/75217124294176a7e50153783e5f6725a7dfe928db66562477fcadf4b0dfd11e/bolinho-kids-belive-tabelas-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "75217124294176a7e50153783e5f6725a7dfe928db66562477fcadf4b0dfd11e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
       "local_url": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
       "media_kind": "image",
@@ -38596,6 +38748,120 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.747Z",
       "verification_etag_or_digest": "0d28b765fe8be46424ac9704fc65f8e94a01ae25fbf3e3accfa19a61ecc0c55a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
+      "local_url": "/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95120,
+      "sha256": "a3e19171f6a71dafc7921683a898d1fe9cf1026cc38f09faf480b53cd16e2135",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cookies-sem-acucar-belive-capa.webp",
+      "storage_filename": "cookies-sem-acucar-belive-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cookies-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cookies-sem-acucar-belive.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a3e19171f6a71dafc7921683a898d1fe9cf1026cc38f09faf480b53cd16e2135/cookies-sem-acucar-belive-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a3e19171f6a71dafc7921683a898d1fe9cf1026cc38f09faf480b53cd16e2135/cookies-sem-acucar-belive-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "a3e19171f6a71dafc7921683a898d1fe9cf1026cc38f09faf480b53cd16e2135",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
+      "local_url": "/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 188300,
+      "sha256": "3850cb42d3ce14ee5e8d45016fff899b7094ccb5832c6ac1f01c6da19745e5e4",
+      "width": 1248,
+      "height": 1248,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cookies-sem-acucar-belive-fotos-2810.webp",
+      "storage_filename": "cookies-sem-acucar-belive-fotos-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cookies-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cookies-sem-acucar-belive.json",
+          "line": 118,
+          "column": 17,
+          "literal": "/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3850cb42d3ce14ee5e8d45016fff899b7094ccb5832c6ac1f01c6da19745e5e4/cookies-sem-acucar-belive-fotos-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3850cb42d3ce14ee5e8d45016fff899b7094ccb5832c6ac1f01c6da19745e5e4/cookies-sem-acucar-belive-fotos-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "3850cb42d3ce14ee5e8d45016fff899b7094ccb5832c6ac1f01c6da19745e5e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
+      "local_url": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 211412,
+      "sha256": "947d78ebba2c34a3d7448559aca36d0ba8ed8e97b55736fb6f00dde72f04a5a8",
+      "width": 1848,
+      "height": 1848,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cookies-sem-acucar-belive-tabelas-2810.webp",
+      "storage_filename": "cookies-sem-acucar-belive-tabelas-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cookies-sem-acucar-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cookies-sem-acucar-belive.json",
+          "line": 188,
+          "column": 17,
+          "literal": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/947d78ebba2c34a3d7448559aca36d0ba8ed8e97b55736fb6f00dde72f04a5a8/cookies-sem-acucar-belive-tabelas-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/947d78ebba2c34a3d7448559aca36d0ba8ed8e97b55736fb6f00dde72f04a5a8/cookies-sem-acucar-belive-tabelas-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "947d78ebba2c34a3d7448559aca36d0ba8ed8e97b55736fb6f00dde72f04a5a8",
       "verification_status": "verified"
     },
     {
@@ -38854,6 +39120,120 @@
       "uploaded_at": null,
       "verified_at": "2026-10-18T03:15:40.747Z",
       "verification_etag_or_digest": "6cd2b6dcf604cafa4b40d68ec047493862f34a35f9427fc925de5be81250877e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "local_url": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 75988,
+      "sha256": "ef70875d0066106de869f52f42e2bea99eeefc1b10372666f1dbce12fba10509",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "storage_filename": "snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef70875d0066106de869f52f42e2bea99eeefc1b10372666f1dbce12fba10509/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef70875d0066106de869f52f42e2bea99eeefc1b10372666f1dbce12fba10509/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "ef70875d0066106de869f52f42e2bea99eeefc1b10372666f1dbce12fba10509",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "local_url": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 237560,
+      "sha256": "1fb8453d1a8b3eacc90293934229683c92c2fca3786bc7796afa4f535fcffabc",
+      "width": 1880,
+      "height": 948,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "storage_filename": "snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json",
+          "line": 154,
+          "column": 17,
+          "literal": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1fb8453d1a8b3eacc90293934229683c92c2fca3786bc7796afa4f535fcffabc/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1fb8453d1a8b3eacc90293934229683c92c2fca3786bc7796afa4f535fcffabc/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "1fb8453d1a8b3eacc90293934229683c92c2fca3786bc7796afa4f535fcffabc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "local_url": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 298368,
+      "sha256": "dc5d996cd410068a10b5e650bd22a6d2e79a1e68ef83c128a7e3c0fcc105efa5",
+      "width": 2880,
+      "height": 1448,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "storage_filename": "snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/snack-proteico-ou-snack-de-arroz-belive.json",
+          "line": 190,
+          "column": 17,
+          "literal": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dc5d996cd410068a10b5e650bd22a6d2e79a1e68ef83c128a7e3c0fcc105efa5/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dc5d996cd410068a10b5e650bd22a6d2e79a1e68ef83c128a7e3c0fcc105efa5/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "dc5d996cd410068a10b5e650bd22a6d2e79a1e68ef83c128a7e3c0fcc105efa5",
       "verification_status": "verified"
     },
     {
@@ -75388,6 +75768,82 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "0b900c9185344e743a8d25269c5bd4cb91ddf85c546fe470b204de3015d0bdc6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129440,
+      "sha256": "d9c70f72b3089f961e3ee6a1533fd18d38db67950caebb692a2083109bea77a8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "storage_filename": "nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-kit-combo-ou-assinatura.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-kit-combo-ou-assinatura.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d9c70f72b3089f961e3ee6a1533fd18d38db67950caebb692a2083109bea77a8/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d9c70f72b3089f961e3ee6a1533fd18d38db67950caebb692a2083109bea77a8/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "d9c70f72b3089f961e3ee6a1533fd18d38db67950caebb692a2083109bea77a8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68934,
+      "sha256": "f17cadfcfcc5cfe0d5d82a9e07da7bcc6585f1323ead9558c55f94c734318bdd",
+      "width": 1200,
+      "height": 563,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "storage_filename": "nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-kit-combo-ou-assinatura.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-kit-combo-ou-assinatura.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f17cadfcfcc5cfe0d5d82a9e07da7bcc6585f1323ead9558c55f94c734318bdd/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f17cadfcfcc5cfe0d5d82a9e07da7bcc6585f1323ead9558c55f94c734318bdd/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T18:04:44.588Z",
+      "verification_etag_or_digest": "f17cadfcfcc5cfe0d5d82a9e07da7bcc6585f1323ead9558c55f94c734318bdd",
       "verification_status": "verified"
     },
     {

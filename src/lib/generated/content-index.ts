@@ -55328,6 +55328,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Repare nos kits: em 10 de outubro, o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
+          "A comparação das formas de compra por 100 g, da lata de 370 g ao kit e à assinatura, está em [Nutren Senior: qual tamanho e qual forma de compra compensam](/reviews/nutren-senior-kit-combo-ou-assinatura).",
           "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
         ],
         "links": [
@@ -133293,6 +133294,1015 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os preços foram lidos no site da Insider e na loja oficial do Mercado Livre em 27/10/2026, e mudam de um dia para o outro. Confira antes de comprar.",
           "Podemos receber comissão quando você compra no site com o cupom EMCASACOMCECILIA ou pelo link do Mercado Livre. Isso não muda o preço para você. Ninguém da equipe usou os produtos citados; o texto fala só de preço, tamanho e regras das lojas. O cupom foi testado no checkout em 26/10/2026."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "slug": "nutren-senior-kit-combo-ou-assinatura",
+    "locale": "pt",
+    "title": "Nutren Senior: qual tamanho e qual forma de compra compensam (370 g, 740 g, kit, combo ou assinatura)",
+    "seoTitle": "Nutren Senior 370 g ou 740 g: kit ou assinatura compensa?",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "description": "Nutren Senior comparada por 100 g em cinco formas de compra (370 g, 740 g, kit, combo e Premium Baunilha), com a assinatura e a Zero Lactose, com preços de 28/10/2026.",
+    "metaDescription": "Nutren Senior por 100 g: o kit de duas latas de 740 g sai mais barato que lata, combo e 370 g. Preços lidos em 28/10/2026 na loja oficial.",
+    "image": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
+    "imageAlt": "Latas de Nutren Senior Zero Lactose, Café com Leite e Sem Sabor de 740 g, com o título 370 g, 740 g ou kit",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre na loja oficial da Nestlé Nutre e aplique o CECI no carrinho: 10% na loja. No kit e na assinatura, confira o desconto no carrinho antes de pagar.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Preços lidos na loja oficial da Nestlé Nutre. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-nestle-nutre",
+        "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Como usar o cupom CECI na Nestlé Nutre: 10% de desconto"
+      },
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 28/10/2026, o kit de duas latas de 740 g sai mais barato por grama, tanto na compra única (R$ 17,80 por 100 g) quanto na assinatura (R$ 16,02). A lata de 370 g custa 53% mais por grama que o kit. O CECI não foi testado com o kit nem com a assinatura: confira no carrinho."
+        ]
+      },
+      {
+        "heading": "Preço por 100 g: as cinco formas em 28/10/2026",
+        "paragraphs": [
+          "Os preços são do sabor Sem Sabor, com a Premium Baunilha como exceção. Por 100 g, a conta usa 370 g por lata de 370 g, 740 g por lata de 740 g e 1.480 g no kit e no combo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forma",
+            "Compra única",
+            "Por 100 g",
+            "Assinatura",
+            "Por 100 g na assinatura"
+          ],
+          "rows": [
+            [
+              "Lata 370 g",
+              "R$ 100,79",
+              "R$ 27,24",
+              "R$ 90,71",
+              "R$ 24,52"
+            ],
+            [
+              "Lata 740 g",
+              "R$ 169,37",
+              "R$ 22,89",
+              "R$ 150,55",
+              "R$ 20,34"
+            ],
+            [
+              "Combo 2 × 740 g",
+              "R$ 319,92",
+              "R$ 21,62",
+              "R$ 282,29",
+              "R$ 19,07"
+            ],
+            [
+              "Kit 2 × 740 g",
+              "R$ 263,49",
+              "R$ 17,80",
+              "R$ 237,14",
+              "R$ 16,02"
+            ],
+            [
+              "Premium Baunilha 370 g",
+              "R$ 145,25",
+              "R$ 39,26",
+              "R$ 129,11",
+              "R$ 34,89"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-quadro-2810.webp",
+          "alt": "Quadro com o preço por 100 g da Nutren Senior em lata de 370 g, lata de 740 g, combo, kit e Premium Baunilha, na compra única e na assinatura",
+          "caption": "Quadro nosso com os preços de 28/10/2026; em amarelo, o kit de duas latas de 740 g.",
+          "objectFit": "contain",
+          "aspectRatio": 2.1314
+        }
+      },
+      {
+        "heading": "Como ler a tabela",
+        "bullets": [
+          "O kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto. O kit sai R$ 56,43 mais barato. O combo fica na tabela porque é uma das formas da loja, mas a leitura não mostrou o que muda entre os dois.",
+          "Duas latas de 740 g avulsas, em compra única, somam R$ 338,74. O kit custa R$ 263,49: 22% a menos.",
+          "A lata de 740 g é a opção de quem quer uma lata só. Por 100 g, custa R$ 22,89.",
+          "A lata de 370 g tem a menor entrada, R$ 100,79, mas o maior preço por grama entre as formas padrão da Nutren Senior.",
+          "O kit também existe em Baunilha, por R$ 263,49. Não lemos preço por sabor das outras latas.",
+          "O calendário e as condições da campanha estão na [Black Friday da Nestlé Nutre](/reviews/black-friday-nestle-nutre)."
+        ]
+      },
+      {
+        "heading": "Assinatura",
+        "paragraphs": [
+          "Na página, a assinatura vem com esta frase: \"Cancele quando quiser, sem custo. A assinatura renova automaticamente, mas você pode pular até 2 entregas por ano.\"",
+          "Na lata de 740 g, a assinatura sai R$ 150,55 contra R$ 169,37 na compra única: 11% de desconto sobre a compra única. A página anuncia economize 20%, contando a partir do preço riscado. No kit, o desconto da assinatura é de 10%: R$ 237,14 contra R$ 263,49.",
+          "Segundo a loja, o frete é grátis na compra única acima de R$ 400 e na assinatura acima de R$ 200. A assinatura só aceita cartão de crédito. Com o kit, a compra única (R$ 263,49) fica abaixo de R$ 400, e a assinatura (R$ 237,14) passa de R$ 200."
+        ]
+      },
+      {
+        "heading": "Zero Lactose",
+        "comparisonTable": {
+          "headers": [
+            "Forma",
+            "Compra única",
+            "Por lata",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "Lata 740 g",
+              "R$ 190,61",
+              "R$ 190,61",
+              "R$ 25,76"
+            ],
+            [
+              "Kit 2 × 740 g",
+              "R$ 296,50",
+              "R$ 148,25",
+              "R$ 20,03"
+            ],
+            [
+              "Combo 2 × 740 g",
+              "R$ 360,04",
+              "R$ 180,02",
+              "R$ 24,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na leitura de 28/10/2026, não apareceu assinatura para a Zero Lactose. A ficha do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-senior-hero.webp",
+          "alt": "Foto oficial da lata de Nutren Senior Zero Lactose Sem Sabor de 740 g",
+          "caption": "Nutren Senior Zero Lactose, lata de 740 g. Foto oficial da Nestlé.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Premium Baunilha",
+        "paragraphs": [
+          "A Nutren Senior Premium Baunilha vem em lata de 370 g: R$ 145,25 na compra única e R$ 129,11 na assinatura. Por 100 g, é a forma mais cara da tabela, com R$ 39,26 na compra única. O combo de duas unidades custa R$ 274,36 na compra única, ou R$ 137,18 por lata."
+        ]
+      },
+      {
+        "heading": "Onde entra o cupom CECI",
+        "paragraphs": [
+          "O CECI dá 10% na loja oficial da Nestlé Nutre. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
+          "O CECI não vale em Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses.",
+          "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar).",
+          "A loja também tem um programa de cupom mensal, com cadastro. Ele fica fora desta comparação."
+        ]
+      },
+      {
+        "heading": "Qual comprar",
+        "paragraphs": [
+          "Para quem compra duas latas e quer o menor preço por grama, o kit de 740 g é a escolha, na compra única ou na assinatura. Para testar, a lata de 370 g é a entrada mais barata. Se você já sabe que vai repetir a compra, a assinatura compensa em todas as formas que a têm."
+        ],
+        "bullets": [
+          "Quer testar antes: lata de 370 g, R$ 100,79 (R$ 90,71 na assinatura).",
+          "Quer uma lata só, de 740 g: R$ 169,37, ou R$ 150,55 na assinatura.",
+          "Compra para estoque de duas latas: kit de 740 g, R$ 263,49 (R$ 237,14 na assinatura).",
+          "Quer o combo: ele custa R$ 56,43 a mais que o kit do mesmo produto. Confira o que vem em cada um antes de comprar.",
+          "Já sabe que vai repetir e aceita pular até 2 entregas por ano: assinatura, em qualquer forma que a tenha."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A assinatura obriga a receber todo mês? Não. A página diz que você pode cancelar quando quiser, sem custo, e pular até 2 entregas por ano.",
+          "O kit sai mais barato que o combo? Sim. Pelo preço de 28/10/2026, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
+          "O CECI vale no kit e na assinatura? Não testamos. Confira no carrinho antes de pagar.",
+          "A Zero Lactose tem assinatura? Na leitura de 28/10/2026, não apareceu assinatura para ela. Na compra única, o kit sai R$ 148,25 por lata."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços foram lidos na loja oficial da Nestlé Nutre em 28/10/2026. A loja está numa campanha de Outubro Rosa, e os preços podem mudar; confira antes de comprar. Podemos receber comissão quando você compra pelo link da loja ou usa o cupom CECI. Isso não muda o preço para você. Ninguém da equipe usou os produtos citados. Este texto fala de preço, tamanho e regras da loja, e não de efeito ou uso."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "slug": "cookies-sem-acucar-belive",
+    "locale": "pt",
+    "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um",
+    "seoTitle": "Cookies sem açúcar da Belive: qual sabor e quanto sai",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
+    "metaDescription": "Os quatro cookies sem açúcar da Belive comparados por 100 g: preço no cartão, kcal, proteína, açúcares e alérgenos, com a leitura da loja em 28/10/2026.",
+    "image": "/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
+    "imageAlt": "Pacotes dos cookies sem açúcar da Belive de chocolate, baunilha com chocolate e castanhas, com o título Cookies sem açúcar",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Abra a página do cupom Belive, coloque MAUAD no campo do carrinho e confira o total antes de pagar: 10% no site, em todas as formas de pagamento.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "brownie-sem-acucar-belive",
+        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "doces-sem-acucar-para-diabeticos",
+        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Os quatro cookies sem açúcar da Belive custam R$ 8,97 o pacote e têm 0 g de açúcares por 30 g, com maltitol e glicosídeos de esteviol como adoçantes. O de castanhas tem mais proteína e o de chocolate, menos calorias. O peso do pacote muda a conta por 100 g; veja abaixo."
+        ]
+      },
+      {
+        "heading": "Os quatro cookies sem açúcar",
+        "paragraphs": [
+          "A Belive vende quatro cookies sem açúcar: chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate. A comparação é por 100 g. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. O de chocolate com avelã não tem foto do pacote na loja, e vale o peso da ficha, 79 g."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Pacote",
+            "Preço no cartão",
+            "Por 100 g",
+            "kcal (30 g)",
+            "Proteína (30 g)",
+            "Açúcares (30 g)"
+          ],
+          "rows": [
+            [
+              "Chocolate",
+              "67 g",
+              "R$ 8,97",
+              "R$ 13,39",
+              "108",
+              "1,4 g",
+              "0 g"
+            ],
+            [
+              "Baunilha e chocolate",
+              "67 g",
+              "R$ 8,97",
+              "R$ 13,39",
+              "112",
+              "1,4 g",
+              "0 g"
+            ],
+            [
+              "Chocolate e avelã",
+              "79 g (ficha)",
+              "R$ 8,97",
+              "R$ 11,35",
+              "113",
+              "1,4 g",
+              "0 g"
+            ],
+            [
+              "Castanhas e chocolate",
+              "67 g",
+              "R$ 8,97",
+              "R$ 13,39",
+              "122",
+              "1,9 g",
+              "0 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, com 5% de desconto, cada pacote sai por R$ 8,52. O cupom MAUAD dá mais 10% em todas as formas de pagamento e soma com as promoções e com o desconto do Pix.",
+          "Se você já procura outros doces sem açúcar da loja, veja [doces sem açúcar](/reviews/doces-sem-acucar-para-diabeticos)."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/cookies-sem-acucar-belive-fotos-2810.webp",
+          "alt": "Fotos oficiais da Belive dos cookies sem açúcar de chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate",
+          "caption": "Os quatro cookies sem açúcar; nos pacotes de chocolate, baunilha e castanhas, o peso impresso é 67 g. Fotos oficiais da Belive.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Quanto sai cada um",
+        "paragraphs": [
+          "Preços lidos na ficha da loja em 28/10/2026, no cartão. Cada pacote custa R$ 8,97, nos quatro sabores. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm, então este texto não calcula preço por unidade.",
+          "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços deste texto são de 28/10/2026 e podem mudar; confira o total no carrinho."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz de açúcar",
+        "paragraphs": [
+          "Os quatro têm 0 g de açúcares totais e 0 g de açúcares adicionados por 30 g. A tabela nutricional completa de cada um está logo abaixo.",
+          "Os outros dados do rótulo, por 30 g:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Carboidratos (g)",
+            "Gorduras totais (g)",
+            "Gordura saturada (g)",
+            "Fibras (g)",
+            "Sódio (mg)"
+          ],
+          "rows": [
+            [
+              "Chocolate",
+              "16",
+              "5,8",
+              "3,8",
+              "1,1",
+              "49"
+            ],
+            [
+              "Baunilha e chocolate",
+              "16",
+              "5,9",
+              "3,7",
+              "1,0",
+              "69"
+            ],
+            [
+              "Chocolate e avelã",
+              "17",
+              "6,0",
+              "3,8",
+              "1,3",
+              "52"
+            ],
+            [
+              "Castanhas e chocolate",
+              "16",
+              "6,7",
+              "3,3",
+              "1,6",
+              "49"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pela lista de ingredientes, os adoçantes dos quatro são maltitol e glicosídeos de esteviol. O maltitol é um poliol: entra nos carboidratos, não nos açúcares. Por isso, zero de açúcar não quer dizer zero de carboidrato.",
+          "No de castanhas, a lista descreve as gotas de chocolate sem a ressalva \"sem açúcar\". O zero da tabela é o que sustenta o termo, e vale conferir a embalagem.",
+          "Atenção: os cookies Sem Lactose da mesma linha não entram nesta comparação, porque têm açúcar adicionado, de 6,5 a 8,5 g por 30 g."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/cookies-sem-acucar-belive-tabelas-2810.webp",
+          "alt": "Tabelas nutricionais oficiais dos quatro cookies sem açúcar da Belive, por 30 g",
+          "caption": "As tabelas publicadas pela Belive nas fichas dos quatro cookies, lidas em 27/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Alérgenos",
+        "paragraphs": [
+          "Pela tabela de alérgenos do site, os quatro contêm ovo e outras castanhas, e trazem \"pode conter\" para soja. Glúten e leite não têm marcação em nenhum deles."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Sabor",
+            "Ovo",
+            "Soja",
+            "Castanha-de-caju",
+            "Outras castanhas"
+          ],
+          "rows": [
+            [
+              "Chocolate",
+              "contém",
+              "pode conter",
+              "não",
+              "contém"
+            ],
+            [
+              "Baunilha e chocolate",
+              "contém",
+              "pode conter",
+              "não",
+              "contém"
+            ],
+            [
+              "Chocolate e avelã",
+              "contém",
+              "pode conter",
+              "contém",
+              "contém"
+            ],
+            [
+              "Castanhas e chocolate",
+              "contém",
+              "pode conter",
+              "contém",
+              "contém"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pela lista de ingredientes, o de chocolate e o de baunilha com chocolate têm amêndoa. O de chocolate com avelã tem avelã e castanha-de-caju. O de castanhas tem amêndoa, castanha-de-caju e castanha-do-pará."
+        ]
+      },
+      {
+        "heading": "Onde comprar com o cupom",
+        "paragraphs": [
+          "A compra é no site oficial da Belive. Na [página do cupom Belive](/cupons/belive), coloque MAUAD no campo \"Código do cupom\" do carrinho e clique em \"Aplicar cupom\".",
+          "O frete grátis depende da região e do valor do carrinho: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; acima de R$ 300 nos demais estados.",
+          "O passo a passo do cupom está em [cupom da Belive: como usar](/reviews/cupom-belive-como-usar)."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "bullets": [
+          "Quer mais proteína: o de castanhas e chocolate, com 1,9 g por 30 g. Os outros três têm 1,4 g.",
+          "Quer menos calorias por 30 g: o de chocolate, com 108 kcal. O de castanhas é o mais calórico, com 122 kcal.",
+          "Quer o menor preço por 100 g: o de chocolate com avelã, R$ 11,35 pelo peso da ficha (79 g). Os outros três, de 67 g, saem a R$ 13,39.",
+          "Evita castanhas ou ovo: nenhum dos quatro serve, porque todos trazem os dois."
+        ],
+        "postParagraphs": [
+          "Como o pacote custa o mesmo nos quatro, a escolha fica entre proteína (castanhas e chocolate) e calorias (chocolate)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Tem açúcar? Os quatro sem açúcar têm 0 g de açúcares totais por 30 g no rótulo. A linha Sem Lactose tem açúcar adicionado.",
+          "Qual tem mais proteína? O de castanhas e chocolate, com 1,9 g por 30 g. Os outros têm 1,4 g.",
+          "Qual tem menos calorias por 30 g? O de chocolate, com 108 kcal.",
+          "Tem castanha? Sim, os quatro trazem outras castanhas, segundo a tabela de alérgenos do site."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços e os rótulos foram lidos na loja oficial da Belive em 28/10/2026, e podem mudar. Podemos receber comissão quando você compra com o cupom MAUAD. Ninguém da equipe provou os cookies: este texto fala de preço, rótulo e ingredientes, não de sabor."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "slug": "snack-proteico-ou-snack-de-arroz-belive",
+    "locale": "pt",
+    "title": "Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína",
+    "seoTitle": "Snack proteico ou de arroz da Belive: qual compensa?",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 28/10/2026.",
+    "metaDescription": "Snack proteico ou de arroz da Belive, com preços de 28/10/2026: o proteico tem 10 g de proteína por pacote e custa menos da metade por grama de proteína.",
+    "image": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
+    "imageAlt": "Pacotes do snack proteico de queijo e do snack de arroz de queijo da Belive, com o título Proteico ou de arroz",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre pelo site da Belive e digite o cupom MAUAD no carrinho: 10% em todo o site, em todas as formas de pagamento. Confira o total antes de pagar.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "belive-e-confiavel",
+        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+      },
+      {
+        "slug": "cookies-sem-acucar-belive",
+        "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O snack proteico da Belive custa R$ 2,78 a mais por pacote que o de arroz, mas traz 10 g de proteína contra 3 g. Por grama de proteína, a conta fica perto de R$ 0,80 contra R$ 1,73 a R$ 1,79. Se proteína não é o que você busca, o de arroz tem, em média, menos sódio."
+        ]
+      },
+      {
+        "heading": "Os oito sabores e o preço",
+        "paragraphs": [
+          "Preços de cartão no site da Belive em 28/10/2026, para o pacote de 35 g. Os quatro sabores proteicos vêm primeiro, depois os quatro de arroz."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço (35 g)",
+            "kcal",
+            "Proteína",
+            "Sódio",
+            "Carboidratos",
+            "Açúcares"
+          ],
+          "rows": [
+            [
+              "Snack Proteico Queijo",
+              "R$ 7,97",
+              "135",
+              "10 g",
+              "303 mg",
+              "18 g",
+              "0,1 g"
+            ],
+            [
+              "Snack Proteico Presunto",
+              "R$ 7,97",
+              "135",
+              "10 g",
+              "310 mg",
+              "18 g",
+              "0,1 g"
+            ],
+            [
+              "Snack Proteico Cebola e Salsa",
+              "R$ 7,97",
+              "135",
+              "10 g",
+              "180 mg",
+              "18 g",
+              "0,1 g"
+            ],
+            [
+              "Snack Proteico Barbecue",
+              "R$ 7,97",
+              "134",
+              "10 g",
+              "268 mg",
+              "18 g",
+              "0,8 g"
+            ],
+            [
+              "Snack de Arroz Queijo",
+              "R$ 5,19",
+              "138",
+              "3 g",
+              "209 mg",
+              "26 g",
+              "0 g"
+            ],
+            [
+              "Snack de Arroz Pizza",
+              "R$ 5,19",
+              "137",
+              "2,9 g",
+              "177 mg",
+              "26 g",
+              "0 g"
+            ],
+            [
+              "Snack de Arroz Cebola e Salsa",
+              "R$ 5,19",
+              "139",
+              "3 g",
+              "87 mg",
+              "26 g",
+              "0 g"
+            ],
+            [
+              "Snack de Arroz Churrasco",
+              "R$ 5,19",
+              "137",
+              "2,9 g",
+              "209 mg",
+              "26 g",
+              "0 g"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Pix, o proteico sai por R$ 7,57 e o de arroz por R$ 4,93. O [cupom MAUAD da Belive](/cupons/belive) tira mais 10% e soma com o desconto do Pix. A faixa do site anuncia \"Black November, até 30%\", então confira o preço antes de pagar.",
+          "A Belive tem outras linhas de salgadinho, o Com Vitaminas e o GoodSoy, ambos de 25 g; ficaram fora desta tabela."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
+          "alt": "Fotos oficiais da Belive dos quatro snacks proteicos e dos quatro snacks de arroz, pacotes de 35 g",
+          "caption": "Em cima, os snacks proteicos; embaixo, os de arroz. Fotos oficiais da Belive.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9831
+        }
+      },
+      {
+        "heading": "Preço por grama de proteína",
+        "paragraphs": [
+          "A conta divide o preço do pacote pela proteína declarada no rótulo, sempre por 35 g:"
+        ],
+        "bullets": [
+          "Proteico (10 g por pacote): R$ 7,97 ÷ 10 = R$ 0,80 por grama de proteína.",
+          "Arroz queijo e arroz cebola e salsa (3 g): R$ 5,19 ÷ 3 = R$ 1,73 por grama.",
+          "Arroz pizza e arroz churrasco (2,9 g): R$ 5,19 ÷ 2,9 = R$ 1,79 por grama."
+        ],
+        "postParagraphs": [
+          "Por grama de proteína, o de arroz custa cerca de 2,2 vezes mais que o proteico.",
+          "A diferença de preço por pacote é de R$ 2,78, e a de proteína, de 7 g. Por isso a proteína decide a conta. O cupom e o Pix baixam os dois na mesma proporção, e a ordem não muda."
+        ]
+      },
+      {
+        "heading": "O que diz o rótulo",
+        "bullets": [
+          "Energia: 134 a 139 kcal por pacote nos oito sabores. O proteico não traz menos energia: a diferença entre os oito é de no máximo 5 kcal.",
+          "Proteína: 10 g por pacote no proteico, e 2,9 a 3 g no de arroz.",
+          "Gordura total: 2,5 a 2,6 g nos oito.",
+          "Sódio: de 180 a 310 mg por pacote no proteico (9% a 16% do valor diário). No de arroz, de 87 a 209 mg (4% a 10%). É a informação que mais separa as duas linhas além da proteína.",
+          "Açúcares: zero nos quatro de arroz. Nos proteicos, 0,1 g nos três primeiros sabores e 0,8 g no Barbecue, sendo 0,6 g de açúcar adicionado.",
+          "Carboidratos: 18 g no proteico e 26 g no de arroz."
+        ],
+        "postParagraphs": [
+          "As tabelas do proteico são de 2026. As do arroz são de imagens publicadas pela loja em 2020; a embalagem atual pode trazer números diferentes, e vale conferir antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-tabelas-2810.webp",
+          "alt": "Tabelas nutricionais oficiais dos oito snacks da Belive, por pacote de 35 g e por 100 g",
+          "caption": "As tabelas publicadas pela Belive: proteicos em cima, de arroz embaixo.",
+          "objectFit": "contain",
+          "aspectRatio": 1.989
+        }
+      },
+      {
+        "heading": "Ingredientes e alergênicos",
+        "paragraphs": [
+          "A proteína do snack proteico é proteína isolada de soja. Não é whey. Além dela, a base tem farinha de milho, óleo vegetal de palma e soja, extrato de levedura e aromatizante. No sabor Barbecue, o aromatizante vem descrito como aroma natural. No Cebola e Salsa, a lista acrescenta sal light, cebola tostada em pó e salsa.",
+          "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
+          "Os oito contêm derivados de soja, segundo a tabela de alergênicos da loja, de julho de 2026. A loja informa que todos são sem glúten.",
+          "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também. É a declaração da loja, não um teste nosso.",
+          "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
+        ]
+      },
+      {
+        "heading": "Combo: vale a pena?",
+        "bullets": [
+          "Combo de 16 proteicos (4 sabores): R$ 119,90 no cartão e R$ 113,91 no Pix. Dá R$ 7,49 por unidade, 6% abaixo do pacote avulso, e cerca de R$ 0,75 por grama de proteína. A página mostra o preço anterior riscado, R$ 127,52.",
+          "Combo de 20 de arroz (4 sabores): R$ 95,90 no cartão e R$ 91,11 no Pix. Dá R$ 4,80 por unidade, 7,6% abaixo do avulso, e entre R$ 1,60 e R$ 1,65 por grama de proteína. O preço anterior riscado é R$ 103,80."
+        ],
+        "postParagraphs": [
+          "O combo economiza pouco. A ordem por grama de proteína continua a mesma: o proteico segue com menos da metade do custo do arroz.",
+          "O frete muda por região. A loja informa frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. Confira o valor no carrinho antes de pagar. O cupom MAUAD também vale nos combos e soma com a promoção."
+        ]
+      },
+      {
+        "heading": "Qual compensa",
+        "paragraphs": [
+          "Se o critério é proteína, leve o proteico: 10 g por pacote e menos da metade do custo por grama de proteína do arroz.",
+          "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio.",
+          "Dentro de cada linha, o sabor é com você. Ninguém da equipe provou os snacks, então este texto não fala de gosto. A escolha se faz pelos números da tabela e pelo que você quer comer."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual snack da Belive tem mais proteína? O proteico, com 10 g por pacote de 35 g. O de arroz tem entre 2,9 g e 3 g.",
+          "O snack de arroz da Belive tem açúcar? Os quatro sabores declaram 0 g de açúcares totais na tabela da loja.",
+          "O snack proteico é sem leite? A loja declara que é sem leite e sem lactose, e a lista de ingredientes não traz leite. Não é um teste nosso.",
+          "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso, e a conta por grama de proteína quase não muda."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços são de 28/10/2026, lidos nas fichas da loja da Belive, no cartão e no Pix. O total com o cupom aparece no checkout. A loja anuncia Black November com até 30%, e os preços mudam; confira antes de comprar.",
+          "Podemos receber comissão quando você compra pelo cupom MAUAD. Isso não muda o preço para você. Ninguém da equipe provou os snacks: o texto fala de preço, rótulo e ingredientes, não de sabor. Proteína, sódio e energia são os números publicados pela loja; a tabela do arroz vem de imagens de 2020 e pode estar desatualizada."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "slug": "bolinho-kids-belive-lancheira",
+    "locale": "pt",
+    "title": "Bolinho kids da Belive para a lancheira: sabores, preço e o que diz o rótulo",
+    "seoTitle": "Bolinho kids da Belive para a lancheira: preço e rótulo",
+    "type": "Guia de Produto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "description": "Bolinho kids da Belive para a lancheira: o rótulo do brigadeiro de 45 g comparado ao adulto de chocolate, os adoçantes da lista de ingredientes, os alergênicos, o preço por unidade e nos kits, e o Kit Lanche Escolar de 25, que não traz bolinho kids.",
+    "metaDescription": "Bolinho kids da Belive de 45 g: R$ 6,97 por unidade no cartão, 157 kcal e 0,5 g de açúcar total no rótulo. Comparado ao adulto e ao kit de 25, que não tem bolinho kids. Preços de 28/10/2026.",
+    "image": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
+    "imageAlt": "Pacote do bolinho kids de brigadeiro da Belive, com o título Bolinho kids",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Confira o preço na loja da Belive e digite o cupom MAUAD no carrinho: 10% no site, em todas as formas de pagamento. Confira a linha de desconto antes de pagar.",
+      "label": "Ir para a Belive com o cupom",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "cookies-sem-acucar-belive",
+        "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura, a R$ 6,97 por unidade no cartão. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+        ]
+      },
+      {
+        "heading": "O que o rótulo kids declara",
+        "paragraphs": [
+          "O rótulo do Bolinho para Criança sabor brigadeiro com cobertura, de 45 g (uma unidade), aparece como imagem na ficha da loja. Nele, a unidade tem 157 kcal, 20 g de carboidratos, 0,5 g de açúcares totais e 0 g de açúcares adicionados. A gordura saturada é de 5,6 g, 28% do valor diário, e a fibra alimentar, de 3,7 g, 15%. Por 100 g, a tabela dá 350 kcal."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
+          "alt": "Tabelas nutricionais oficiais do bolinho kids de brigadeiro de 45 g e do bolinho de chocolate adulto de 40 g da Belive",
+          "caption": "À esquerda, o kids de brigadeiro (45 g); à direita, o adulto de chocolate (40 g). Tabelas publicadas pela Belive.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9828
+        }
+      },
+      {
+        "heading": "Kids contra o adulto",
+        "paragraphs": [
+          "Ao lado do bolinho adulto fit de chocolate, o kids tem mais calorias e mais gordura saturada por unidade. A tabela usa o rótulo do adulto, de 40 g."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Por unidade",
+            "Kids brigadeiro, 45 g",
+            "%VD",
+            "Adulto fit chocolate, 40 g",
+            "%VD"
+          ],
+          "rows": [
+            [
+              "Valor energético",
+              "157 kcal",
+              "8%",
+              "123 kcal",
+              "6%"
+            ],
+            [
+              "Carboidratos",
+              "20 g",
+              "7%",
+              "16 g",
+              "5%"
+            ],
+            [
+              "Açúcares totais",
+              "0,5 g",
+              "-",
+              "0 g",
+              "-"
+            ],
+            [
+              "Açúcares adicionados",
+              "0 g",
+              "0%",
+              "0 g",
+              "0%"
+            ],
+            [
+              "Proteínas",
+              "2,4 g",
+              "5%",
+              "2,2 g",
+              "4%"
+            ],
+            [
+              "Gorduras totais",
+              "9,7 g",
+              "15%",
+              "7,1 g",
+              "11%"
+            ],
+            [
+              "Gordura saturada",
+              "5,6 g",
+              "28%",
+              "3 g",
+              "15%"
+            ],
+            [
+              "Fibras alimentares",
+              "3,7 g",
+              "15%",
+              "2 g",
+              "8%"
+            ],
+            [
+              "Sódio",
+              "65 mg",
+              "3%",
+              "70 mg",
+              "4%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kids tem 34 kcal a mais, 2,6 g a mais de gordura saturada e 0,5 g de açúcar total, contra zero no adulto. Os dois têm açúcares adicionados zero. Para a comparação com a Suavipan, veja o [bolinho adulto contra a Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        ]
+      },
+      {
+        "heading": "Adoçantes e ingredientes",
+        "paragraphs": [
+          "A lista de ingredientes do kids de brigadeiro traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol e glicerol como umectantes. O adulto de chocolate traz a mesma combinação.",
+          "A descrição da ficha destaca a stévia, mas a lista traz também maltitol e sorbitol. Este texto segue a lista."
+        ]
+      },
+      {
+        "heading": "Alergênicos",
+        "paragraphs": [
+          "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A ficha e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem."
+        ]
+      },
+      {
+        "heading": "Preço por unidade e nos kits",
+        "paragraphs": [
+          "Os preços abaixo são os de cartão, lidos nas fichas dos produtos no site da Belive em 28/10/2026."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Item",
+            "Peso",
+            "Cartão",
+            "Por unidade",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "Bolinho kids brigadeiro (ou morango)",
+              "45 g",
+              "R$ 6,97",
+              "R$ 6,97",
+              "R$ 15,49"
+            ],
+            [
+              "Kit 10 Bolinhos para Criança (brigadeiro ou morango)",
+              "450 g",
+              "R$ 64,82 (de R$ 69,70)",
+              "R$ 6,48",
+              "R$ 14,40"
+            ],
+            [
+              "Bolinho adulto fit de chocolate",
+              "40 g (rótulo)",
+              "R$ 5,39",
+              "R$ 5,39",
+              "R$ 13,48"
+            ],
+            [
+              "Kit Lanche Escolar, 25 unidades (adulto)",
+              "1 kg",
+              "R$ 124,90 (de R$ 134,75)",
+              "R$ 4,99",
+              "R$ 12,49"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O sabor morango de 45 g também custa R$ 6,97, e o kit de 10 morango tem o mesmo preço do kit de brigadeiro; a tabela do morango não entra neste texto. O bolinho adulto Special de chocolate, com cobertura e 45 g, também custa R$ 6,97.",
+          "No Pix, a ficha mostra R$ 6,62 para a unidade de 45 g, R$ 61,58 para o kit de 10 e R$ 118,66 para o kit de 25. O cupom MAUAD dá mais 10% no site da Belive e soma com o desconto do Pix. O passo a passo está em [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições do mês, na [página do cupom](/cupons/belive).",
+          "A loja anuncia \"Black November, até 30%\" na página inicial. Não lemos se esse desconto vale para estes bolinhos, e o preço pode mudar antes da sua compra."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
+          "alt": "Fotos oficiais da Belive do bolinho kids de brigadeiro e do bolinho kids de morango, de 45 g",
+          "caption": "Bolinho kids de brigadeiro e de morango, os dois a R$ 6,97 em 28/10/2026. Fotos oficiais da Belive.",
+          "objectFit": "contain",
+          "aspectRatio": 1.9781
+        }
+      },
+      {
+        "heading": "O Kit Lanche Escolar não tem bolinho kids",
+        "paragraphs": [
+          "O Kit Lanche Escolar Bolinho Sem Açúcar Sem Glúten Sem Leite, com 25 unidades e 1 kg, é vendido como kit de lanche escolar, mas não traz nenhum bolinho kids. Os 25 são da linha adulta, de 40 g: 10 de chocolate, 5 de laranja com gotas de chocolate, 5 de baunilha com gotas de chocolate, 3 de coco com gotas de chocolate e 2 de banana com canela e chia.",
+          "O kit custa R$ 124,90 no cartão, ou R$ 4,99 por unidade, menos que o kids de 45 g, mas é outro produto, com outro peso e outra tabela. A única tabela de 40 g que lemos é a do chocolate adulto, e ela não representa os outros sabores. Quem procura o kids precisa da unidade de 45 g ou do kit de 10."
+        ],
+        "image": {
+          "src": "/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+          "alt": "Foto oficial da Belive do Kit Lanche Escolar com 25 bolinhos adultos de 40 g",
+          "caption": "Kit Lanche Escolar: 25 bolinhos da linha adulta, nenhum kids. Foto oficial da Belive.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "O rótulo do bolinho kids de brigadeiro mostra um produto de 45 g com 157 kcal, 0,5 g de açúcar total, nenhum açúcar adicionado, ovo e soja nos alergênicos e nenhum leite na lista. Em relação ao adulto de 40 g, ele tem 34 kcal a mais, 2,6 g a mais de gordura saturada e custa R$ 1,58 a mais por unidade no cartão.",
+          "O que o rótulo não mostra: a tabela do sabor morango, a dos sabores do kit de 25, a embalagem física e qualquer aviso sobre polióis. Este texto não recomenda o produto para criança, e os números servem para comparar os rótulos, não para escolher o que vai na lancheira."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O bolinho kids da Belive tem açúcar? Tem 0,5 g de açúcares totais por unidade de 45 g e nenhum açúcar adicionado, segundo a tabela do rótulo.",
+          "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão.",
+          "O Kit Lanche Escolar de 25 tem bolinho kids? Não. Os 25 são bolinhos adultos de 40 g, nos sabores chocolate, laranja, baunilha, coco e banana.",
+          "O adoçante é só stévia? Não. A lista de ingredientes traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol como umectante.",
+          "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Os preços de cartão e do Pix foram lidos nas fichas do site da Belive em 28/10/2026. Os rótulos e a lista de ingredientes foram lidos em 27/10/2026. Os preços mudam, e a loja anuncia uma Black November: confira antes de comprar.",
+          "Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os bolinhos, e este texto trata de preço, rótulo e ingredientes, não de sabor.",
+          "A tabela do sabor morango não entra: a imagem publicada pela loja traz outro nome de sabor."
         ]
       }
     ]
