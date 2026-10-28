@@ -36,13 +36,13 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[hipercalorico-black-skull-qual-escolher]]: Hipercalórico Black Skull: Masstodon Refil 3 kg ou Monstrous 2,7 kg, por rótulo e preço por 100 g de proteína (com o CECILIA10); sem dose nem promessa de ganho (PT) (no main, PR #321, id 623)
-- [ ] [[black-skull-mercado-livre-ou-site]]: Black Skull no Mercado Livre ou no site: onde sai mais barato, 15 produtos com o CECILIA10 (o site ganha em 13; o ML só no Whey 100% HD 900g e no refil 900g); dois botões (PT) (no main, PR #321, id 624)
 
 ---
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[hipercalorico-black-skull-qual-escolher]]: Hipercalórico Black Skull: Masstodon Refil 3 kg ou Monstrous 2,7 kg, por rótulo e preço por 100 g de proteína (com o CECILIA10); sem dose nem promessa de ganho (PT) (no ar em 28/10/2026 00:23 UTC, PR #321, release `e734d75`, id 623) 🚀
+- [x] [[black-skull-mercado-livre-ou-site]]: Black Skull no Mercado Livre ou no site: onde sai mais barato, 15 produtos com o CECILIA10 (o site ganha em 13; o ML só no Whey 100% HD 900g e no refil 900g); dois botões (PT) (no ar em 28/10/2026 00:23 UTC, PR #321, release `e734d75`, id 624) 🚀
 - [x] [[protetor-de-silicone-mamilo-como-usar]]: Protetor de silicone da Toda Up: qual tamanho (8, 10 ou 12 cm pelo número do sutiã) e quantas vezes dá para usar (até 30, segundo a marca); adesivo para roupa, não de amamentação (PT) (no ar em 27/10/2026, PR #318, release `dcd1be50`) 🚀
 - [x] [[sutia-de-silicone-invisivel-como-usar]]: Sutiã de silicone invisível (Toda Up): como usar e para qual roupa, pelo passo a passo da marca; tamanhos, lavagem, kit Leve 2 e quadro Fita Up × sutiã × protetor pela ficha (PT) (no ar em 27/10/2026, PR #318, release `dcd1be50`) 🚀
 - [x] [[fita-up-como-usar]]: Fita Up, como usar no tomara que caia e no decote, pelo passo a passo da Toda Up; tamanhos P/M/G, composição, reutilização não informada, preço e kits (MAUAD soma com Leve 2 e Leve 3) (PT) (no ar em 27/10/2026, PR #315, release `7b87170b`) 🚀
@@ -124,7 +124,7 @@
 - [x] [[isosource-1-5-para-que-serve]] — Nestlé Nutre / Isosource 1.5 Sem Sabor: para que serve, como usar e quanto rende o litro (Score Aut: 72 / Conv: 68) (No ar em 17/10/2026, PR #138, release `fa67f39`) 🚀
 - [x] [[black-skull-ou-max-titanium]] — Black Skull e Max Titanium / whey e creatina pelo rótulo e preço por dose (Score Aut: 78 / Conv: 82) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
 - [x] [[max-titanium-ou-probiotica]] — Max Titanium e Probiótica / whey e creatina pelo rótulo e preço por dose (Score Aut: 80 / Conv: 85) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
-- [x] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
+- [x] [[dr-peanut-melhor-sabor]] — Dr. Peanut / os sabores comparados por rótulo, preço e mais vendidos (Score Aut: 80 / Conv: 76) (No ar em 16/10/2026, PR #129, release `c5d7f7a`; reformado com os 12 sabores no ar em 28/10/2026, PR #321, release `e734d75`) 🚀
 - [x] [[lejour-ou-icasei]] — Lejour / Lejour, iCasei ou Casar.com: taxas e quanto o casal recebe (Score Aut: 78 / Conv: 84) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
 - [x] [[i-wanna-sleep-ou-ortobom]] — I Wanna Sleep / travesseiros (e pillow top) I Wanna Sleep ou Ortobom (Score Aut: 72 / Conv: 78) (No ar em 16/10/2026, PR #129, release `c5d7f7a`) 🚀
 - [x] [[belive-e-confiavel]] — Belive / é confiável? (Score Aut: 72 / Conv: 68) (No ar em 16/10/2026, PR #132, release `c5d7f7a`) 🚀
