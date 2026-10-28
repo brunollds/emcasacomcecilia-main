@@ -132992,6 +132992,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "27 de outubro de 2026",
     "publishedAtISO": "2026-10-27",
+    "updatedAt": "2026-10-28",
     "draft": false,
     "isNew": true,
     "description": "Insider no Mercado Livre ou no site: 17 produtos comparados em 27/10/2026, com o cupom EMCASACOMCECILIA do site e o preço da loja oficial no Mercado Livre, peça a peça.",
@@ -133033,132 +133034,107 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Os 17 produtos: preço no site e no Mercado Livre em 27/10/2026",
+        "heading": "Masculino: preço no site e no Mercado Livre em 27/10/2026",
         "paragraphs": [
-          "Os produtos abaixo existem nos dois lados, com preço de cartão e sem frete. O Mercado Livre é a loja oficial da Insider. A coluna do site traz o preço sem o cupom."
+          "Os produtos abaixo existem nos dois lados. As colunas Site e Mercado Livre trazem o preço no cartão, sem frete; no Mercado Livre, o da loja oficial da Insider. A última coluna diz onde cada peça sai mais barata depois do cupom EMCASACOMCECILIA, que tira 15% no site, e o nome do produto leva direto a esse lugar."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Site",
             "Mercado Livre",
-            "Mais barato no cartão"
+            "Mais barato com o cupom"
           ],
           "rows": [
             [
-              "Tech T-Shirt masculina",
+              "[Tech T-Shirt masculina](https://creators.insiderstore.com.br/axB7p3y)",
               "R$ 139",
               "R$ 149,15",
-              "Site"
+              "Site, R$ 118,15"
             ],
             [
-              "Core T-Shirt",
+              "[Core T-Shirt](https://creators.insiderstore.com.br/QcFNdaj)",
               "R$ 179",
               "R$ 161,50 a R$ 179,55",
-              "Mercado Livre"
+              "Site, R$ 152,15"
             ],
             [
-              "Tech T-Shirt Heavy",
+              "[Tech T-Shirt Heavy](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/tech-t-shirt-heavy-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 155",
               "R$ 170,05",
-              "Site"
+              "Site, R$ 131,75"
             ],
             [
-              "The Perfect Top T-Shirt",
-              "R$ 129",
-              "R$ 111,25 a R$ 118,75",
-              "Mercado Livre"
-            ],
-            [
-              "Polo Core",
+              "[Polo Core](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/camiseta-polo-core-masculino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 249",
               "R$ 234,65",
-              "Mercado Livre"
+              "Site, R$ 211,65"
             ],
             [
-              "Sportee",
+              "[Sportee](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/t-shirt-sportee?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 149",
               "R$ 147,25",
-              "Mercado Livre"
+              "Site, R$ 126,65"
             ],
             [
-              "Camiseta Tech Daily masculina",
+              "[Camiseta Tech Daily masculina](https://meli.la/2t39Dm4)",
               "R$ 99",
               "R$ 69 a R$ 79",
-              "Mercado Livre"
+              "Mercado Livre (a Daily não aceita o cupom)"
             ],
             [
-              "Daily feminina",
-              "R$ 99",
-              "R$ 56,05 a R$ 79",
-              "Mercado Livre"
-            ],
-            [
-              "Kit 3 Daily feminina",
-              "R$ 290,76",
-              "R$ 179,69",
-              "Mercado Livre"
-            ],
-            [
-              "Cueca Boxer Performance",
+              "[Cueca Boxer Performance](https://creators.insiderstore.com.br/nD3bAuj)",
               "R$ 79",
               "R$ 80,75",
-              "Site"
+              "Site, R$ 67,15"
             ],
             [
-              "Cueca Slip",
+              "[Cueca Slip](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/cueca-slip?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 75",
               "R$ 67",
-              "Mercado Livre"
+              "Site, R$ 63,75"
             ],
             [
-              "Kit 3 Cuecas Comfort",
+              "[Kit 3 Cuecas Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-3-cuecas-confortaveis-boxer-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 229,89",
               "R$ 205,91",
-              "Mercado Livre"
+              "Site, R$ 195,41"
             ],
             [
-              "Kit 5 Cuecas Comfort",
+              "[Kit 5 Cuecas Comfort](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/kit-5-cuecas-comfort?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 375,25",
               "R$ 382",
-              "Site"
+              "Site, R$ 318,96"
             ],
             [
-              "Undershirt Antissuor Moderado",
+              "[Undershirt Antissuor Moderado](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/undershirt-anti-suor?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 145",
               "R$ 151,05",
-              "Site"
+              "Site, R$ 123,25"
             ],
             [
-              "Meia Spectrum Mid 2.0",
+              "[Meia Spectrum Mid 2.0 (unissex)](https://meli.la/1mmqpUP)",
               "R$ 35",
               "R$ 29,45",
-              "Mercado Livre"
+              "Mercado Livre, por R$ 0,30"
             ],
             [
-              "Meia Spectrum High 2.0",
+              "[Meia Spectrum High 2.0 (unissex)](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/spectrum-socks-high-2-0?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
               "R$ 49",
               "R$ 50,35",
-              "Site"
-            ],
-            [
-              "Sutiã Comfy",
-              "R$ 99",
-              "R$ 132,05",
-              "Site"
+              "Site, R$ 41,65"
             ]
           ]
         },
         "postParagraphs": [
-          "A Tech T-Shirt aparece na tabela pelo preço normal do Mercado Livre, R$ 149,15, mas às vezes aparece lá um anúncio mais barato.",
-          "Sem o cupom, o Mercado Livre é mais barato em 10 dos 17 produtos. Com o cupom, o site fica mais barato em 13; as três Daily ficam com o Mercado Livre, e a Meia Spectrum Mid empata na prática (R$ 29,75 no site com cupom, R$ 29,45 no Mercado Livre)."
+          "No cartão, sem o cupom, o Mercado Livre é mais barato em sete dessas 13 peças. Com o cupom, o site passa à frente em 11; a Daily e a Meia Spectrum Mid ficam com o Mercado Livre. A Tech T-Shirt aparece pelo preço normal do Mercado Livre, R$ 149,15, mas às vezes surge lá um anúncio mais barato."
         ],
         "image": {
-          "src": "/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
-          "alt": "Quadro com o preço de 17 produtos da Insider no site e no Mercado Livre, no cartão",
-          "caption": "Quadro nosso com os preços de 27/10/2026, sem o cupom; em amarelo, o menor preço no cartão.",
+          "src": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
+          "alt": "Quadro com o preço de 13 peças masculinas e unissex da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
+          "caption": "Quadro nosso com os preços de 27/10/2026; a última coluna considera o EMCASACOMCECILIA no site.",
           "objectFit": "contain",
-          "aspectRatio": 1.0274
+          "aspectRatio": 1.2725
         },
         "links": [
           {
@@ -133172,6 +133148,56 @@ export const reviewsData: unknown[] = [
             "sponsored": true
           }
         ]
+      },
+      {
+        "heading": "Feminino: preço no site e no Mercado Livre em 27/10/2026",
+        "paragraphs": [
+          "O mesmo critério da tabela masculina: preço no cartão nos dois lados e, na última coluna, onde a peça sai mais barata com o cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Site",
+            "Mercado Livre",
+            "Mais barato com o cupom"
+          ],
+          "rows": [
+            [
+              "[The Perfect Top T-Shirt](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/the-perfect-top-t-shirt-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 129",
+              "R$ 111,25 a R$ 118,75",
+              "Site, R$ 109,65"
+            ],
+            [
+              "[Daily feminina](https://meli.la/11E3Fyw)",
+              "R$ 99",
+              "R$ 56,05 a R$ 79",
+              "Mercado Livre (a Daily não aceita o cupom)"
+            ],
+            [
+              "[Kit 3 Daily feminina](https://meli.la/2UBcjSZ)",
+              "R$ 290,76",
+              "R$ 179,69",
+              "Mercado Livre"
+            ],
+            [
+              "[Sutiã Comfy](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/sutia-comfy?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
+              "R$ 99",
+              "R$ 132,05",
+              "Site, R$ 84,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No cartão, o Mercado Livre é mais barato em três das quatro peças; só o Sutiã Comfy já sai mais em conta no site. Com o cupom, a The Perfect Top T-Shirt também passa para o site, e as duas linhas da Daily continuam no Mercado Livre."
+        ],
+        "image": {
+          "src": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
+          "alt": "Quadro com o preço de 4 peças femininas da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
+          "caption": "Quadro nosso com os preços de 27/10/2026; a última coluna considera o EMCASACOMCECILIA no site.",
+          "objectFit": "contain",
+          "aspectRatio": 2.3904
+        }
       },
       {
         "heading": "Onde o cupom muda a conta",
@@ -133188,7 +133214,14 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "O cupom EMCASACOMCECILIA dá 15% no site, e a loja aceita um cupom por pedido. Ele vale em Outlet e em kits promocionais. Não vale em lançamentos, nas lojas físicas, na Daily nem no Mercado Livre. O passo a passo está em [como usar o cupom EMCASACOMCECILIA](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+          "alt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
+          "caption": "Kit 3 Cuecas Comfort: com o cupom, sai mais barato no site que no Mercado Livre. Foto oficial da Insider.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "Daily e Light: onde o Mercado Livre ganha",

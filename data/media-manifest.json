@@ -60646,6 +60646,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
+      "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56140,
+      "sha256": "77efdfa3056f573a9c0d269595ce99e65a386cd10c85e7c7bce3ab955c5249e3",
+      "width": 1200,
+      "height": 502,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-mercado-livre-ou-site-feminino-2810.webp",
+      "storage_filename": "insider-mercado-livre-ou-site-feminino-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-mercado-livre-ou-site.json",
+          "line": 219,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/77efdfa3056f573a9c0d269595ce99e65a386cd10c85e7c7bce3ab955c5249e3/insider-mercado-livre-ou-site-feminino-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/77efdfa3056f573a9c0d269595ce99e65a386cd10c85e7c7bce3ab955c5249e3/insider-mercado-livre-ou-site-feminino-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T04:15:19.170Z",
+      "verification_etag_or_digest": "77efdfa3056f573a9c0d269595ce99e65a386cd10c85e7c7bce3ab955c5249e3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
+      "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113822,
+      "sha256": "e2566611575f8ae8d4c376a4f0f4604e355c54c1166bbc96edf8ced333167fcd",
+      "width": 1200,
+      "height": 943,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-mercado-livre-ou-site-masculino-2810.webp",
+      "storage_filename": "insider-mercado-livre-ou-site-masculino-2810.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-mercado-livre-ou-site.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-mercado-livre-ou-site.json",
+          "line": 157,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e2566611575f8ae8d4c376a4f0f4604e355c54c1166bbc96edf8ced333167fcd/insider-mercado-livre-ou-site-masculino-2810.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e2566611575f8ae8d4c376a4f0f4604e355c54c1166bbc96edf8ced333167fcd/insider-mercado-livre-ou-site-masculino-2810.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T04:15:19.171Z",
+      "verification_etag_or_digest": "e2566611575f8ae8d4c376a4f0f4604e355c54c1166bbc96edf8ced333167fcd",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
       "local_url": "/images/reviews/insider/insider-mercado-livre-ou-site-quadro-2710.webp",
       "media_kind": "image",
