@@ -198,6 +198,15 @@ Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagi
 | Insider Rewards: como funciona o programa de pontos | Insider | Termos: `https://www.insiderstore.com.br/pages/insider-rewards-termos-e-condicoes-gerais` | Estoque |
 | Programa de Estudantes da YesStyle (Membro Prata do Elite Club grátis) | YesStyle | `https://www.yesstyle.com/pt/student-program.html` | Estoque. O 15% da primeira compra não entra como vantagem (regra de cupons) |
 
+## Campanhas da SHEIN (Bruno, 28/10/2026)
+
+| Pauta | Situação |
+|---|---|
+| SHEIN 11.11: seleção da Cecília (19 peças com links da campanha) | **Pauta aprovada em 28/10/2026:** [[shein-11-11-selecao-da-cecilia]]; artigo único, termina em 12/11 |
+| Página fixa de seleção da SHEIN | Depois da 11.11: se o artigo tiver boa aceitação, criar no 12.12 |
+
+As campanhas de creators com a Cecília são diferentes destas e não entram nesta lista.
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
