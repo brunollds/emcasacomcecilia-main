@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 data_criacao: "2026-10-27"
 pauta: "I6 da rodada de 27/10/2026 (estoque; link de afiliado do ML convertido por Bruno em 27/10)"
@@ -182,3 +182,7 @@ Fonte: `insiderstore.com.br` no Chrome, `/search/suggest.json` e `/products/<han
 4. O anúncio isolado da Tech a R$ 109,25 fica fora da tabela; a tabela usa o preço comum (R$ 149,15) e uma frase diz que às vezes aparece anúncio mais barato.
 5. Pix fora do texto até teste do Bruno no checkout (a página aplica sozinha um código de Pix extra, 2% hoje, não confirmado). Frete: só a regra do site (grátis acima de R$ 399, depois do desconto) e que peça avulsa paga frete; no ML, nenhuma promessa.
 6. Publicar agora e reler os preços três dias antes da Black Friday.
+
+## Redação (27/10/2026)
+- No main (PR #325, id 625). Tabela com 17 produtos, só o preço no cartão; o cupom fica nas frases abaixo dela (vira 6 linhas). Placar com o cupom: site 13, ML 3 (as três Daily); a Meia Spectrum Mid fica praticamente empatada (R$ 29,75 × R$ 29,45). Henley ficou fora, porque a peça não foi confirmada como a mesma. O anúncio da Tech a R$ 109,25 e a Light entram só numa frase.
+- Reler os preços três dias antes da Black Friday.
