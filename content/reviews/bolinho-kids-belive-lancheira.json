@@ -1,0 +1,265 @@
+{
+  "id": 629,
+  "slug": "bolinho-kids-belive-lancheira",
+  "locale": "pt",
+  "title": "Bolinho kids da Belive para a lancheira: sabores, preço e o que diz o rótulo",
+  "seoTitle": "Bolinho kids da Belive para a lancheira: preço e rótulo",
+  "type": "Guia de Produto",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "28 de outubro de 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": true,
+  "description": "Bolinho kids da Belive para a lancheira: o rótulo do brigadeiro de 45 g comparado ao adulto de chocolate, os adoçantes da lista de ingredientes, os alergênicos, o preço por unidade e nos kits, e o Kit Lanche Escolar de 25, que não traz bolinho kids.",
+  "metaDescription": "Bolinho kids da Belive de 45 g: R$ 6,97 por unidade no cartão, 157 kcal e 0,5 g de açúcar total no rótulo. Comparado ao adulto e ao kit de 25, que não tem bolinho kids. Preços de 28/10/2026.",
+  "image": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
+  "imageAlt": "Pacote do bolinho kids de brigadeiro da Belive, com o título Bolinho kids",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Confira o preço na loja da Belive e digite o cupom MAUAD no carrinho: 10% no site, em todas as formas de pagamento. Confira a linha de desconto antes de pagar.",
+    "label": "Ir para a Belive com o cupom",
+    "url": "https://belivebefree.com.br/",
+    "sponsored": true
+  },
+  "coupon": "MAUAD",
+  "affiliate": "belive",
+  "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD.",
+  "relatedArticles": [
+    {
+      "slug": "bolinho-sem-acucar-belive-ou-suavipan",
+      "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+    },
+    {
+      "slug": "cupom-belive-como-usar",
+      "title": "Como usar o cupom da Belive e o que ele soma"
+    },
+    {
+      "slug": "cookies-sem-acucar-belive",
+      "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O bolinho kids da Belive é o de 45 g, sabor brigadeiro com cobertura, a R$ 6,97 por unidade no cartão. O rótulo declara 157 kcal e 0,5 g de açúcares totais por unidade, sem açúcar adicionado; a lista de ingredientes traz maltitol, sorbitol e esteviol. O Kit Lanche Escolar de 25 não tem bolinho kids, veja abaixo."
+      ]
+    },
+    {
+      "heading": "O que o rótulo kids declara",
+      "paragraphs": [
+        "O rótulo do Bolinho para Criança sabor brigadeiro com cobertura, de 45 g (uma unidade), aparece como imagem na ficha da loja. Nele, a unidade tem 157 kcal, 20 g de carboidratos, 0,5 g de açúcares totais e 0 g de açúcares adicionados. A gordura saturada é de 5,6 g, 28% do valor diário, e a fibra alimentar, de 3,7 g, 15%. Por 100 g, a tabela dá 350 kcal."
+      ],
+      "image": {
+        "src": "/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
+        "alt": "Tabelas nutricionais oficiais do bolinho kids de brigadeiro de 45 g e do bolinho de chocolate adulto de 40 g da Belive",
+        "caption": "À esquerda, o kids de brigadeiro (45 g); à direita, o adulto de chocolate (40 g). Tabelas publicadas pela Belive.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9828
+      }
+    },
+    {
+      "heading": "Kids contra o adulto",
+      "paragraphs": [
+        "Ao lado do bolinho adulto fit de chocolate, o kids tem mais calorias e mais gordura saturada por unidade. A tabela usa o rótulo do adulto, de 40 g."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Por unidade",
+          "Kids brigadeiro, 45 g",
+          "%VD",
+          "Adulto fit chocolate, 40 g",
+          "%VD"
+        ],
+        "rows": [
+          [
+            "Valor energético",
+            "157 kcal",
+            "8%",
+            "123 kcal",
+            "6%"
+          ],
+          [
+            "Carboidratos",
+            "20 g",
+            "7%",
+            "16 g",
+            "5%"
+          ],
+          [
+            "Açúcares totais",
+            "0,5 g",
+            "-",
+            "0 g",
+            "-"
+          ],
+          [
+            "Açúcares adicionados",
+            "0 g",
+            "0%",
+            "0 g",
+            "0%"
+          ],
+          [
+            "Proteínas",
+            "2,4 g",
+            "5%",
+            "2,2 g",
+            "4%"
+          ],
+          [
+            "Gorduras totais",
+            "9,7 g",
+            "15%",
+            "7,1 g",
+            "11%"
+          ],
+          [
+            "Gordura saturada",
+            "5,6 g",
+            "28%",
+            "3 g",
+            "15%"
+          ],
+          [
+            "Fibras alimentares",
+            "3,7 g",
+            "15%",
+            "2 g",
+            "8%"
+          ],
+          [
+            "Sódio",
+            "65 mg",
+            "3%",
+            "70 mg",
+            "4%"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O kids tem 34 kcal a mais, 2,6 g a mais de gordura saturada e 0,5 g de açúcar total, contra zero no adulto. Os dois têm açúcares adicionados zero. Para a comparação com a Suavipan, veja o [bolinho adulto contra a Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+      ]
+    },
+    {
+      "heading": "Adoçantes e ingredientes",
+      "paragraphs": [
+        "A lista de ingredientes do kids de brigadeiro traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol e glicerol como umectantes. O adulto de chocolate traz a mesma combinação.",
+        "A descrição da ficha destaca a stévia, mas a lista traz também maltitol e sorbitol. Este texto segue a lista."
+      ]
+    },
+    {
+      "heading": "Alergênicos",
+      "paragraphs": [
+        "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A ficha e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem."
+      ]
+    },
+    {
+      "heading": "Preço por unidade e nos kits",
+      "paragraphs": [
+        "Os preços abaixo são os de cartão, lidos nas fichas dos produtos no site da Belive em 28/10/2026."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Item",
+          "Peso",
+          "Cartão",
+          "Por unidade",
+          "Por 100 g"
+        ],
+        "rows": [
+          [
+            "Bolinho kids brigadeiro (ou morango)",
+            "45 g",
+            "R$ 6,97",
+            "R$ 6,97",
+            "R$ 15,49"
+          ],
+          [
+            "Kit 10 Bolinhos para Criança (brigadeiro ou morango)",
+            "450 g",
+            "R$ 64,82 (de R$ 69,70)",
+            "R$ 6,48",
+            "R$ 14,40"
+          ],
+          [
+            "Bolinho adulto fit de chocolate",
+            "40 g (rótulo)",
+            "R$ 5,39",
+            "R$ 5,39",
+            "R$ 13,48"
+          ],
+          [
+            "Kit Lanche Escolar, 25 unidades (adulto)",
+            "1 kg",
+            "R$ 124,90 (de R$ 134,75)",
+            "R$ 4,99",
+            "R$ 12,49"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O sabor morango de 45 g também custa R$ 6,97, e o kit de 10 morango tem o mesmo preço do kit de brigadeiro; a tabela do morango não entra neste texto. O bolinho adulto Special de chocolate, com cobertura e 45 g, também custa R$ 6,97.",
+        "No Pix, a ficha mostra R$ 6,62 para a unidade de 45 g, R$ 61,58 para o kit de 10 e R$ 118,66 para o kit de 25. O cupom MAUAD dá mais 10% no site da Belive e soma com o desconto do Pix. O passo a passo está em [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições do mês, na [página do cupom](/cupons/belive).",
+        "A loja anuncia \"Black November, até 30%\" na página inicial. Não lemos se esse desconto vale para estes bolinhos, e o preço pode mudar antes da sua compra."
+      ],
+      "image": {
+        "src": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
+        "alt": "Fotos oficiais da Belive do bolinho kids de brigadeiro e do bolinho kids de morango, de 45 g",
+        "caption": "Bolinho kids de brigadeiro e de morango, os dois a R$ 6,97 em 28/10/2026. Fotos oficiais da Belive.",
+        "objectFit": "contain",
+        "aspectRatio": 1.9781
+      }
+    },
+    {
+      "heading": "O Kit Lanche Escolar não tem bolinho kids",
+      "paragraphs": [
+        "O Kit Lanche Escolar Bolinho Sem Açúcar Sem Glúten Sem Leite, com 25 unidades e 1 kg, é vendido como kit de lanche escolar, mas não traz nenhum bolinho kids. Os 25 são da linha adulta, de 40 g: 10 de chocolate, 5 de laranja com gotas de chocolate, 5 de baunilha com gotas de chocolate, 3 de coco com gotas de chocolate e 2 de banana com canela e chia.",
+        "O kit custa R$ 124,90 no cartão, ou R$ 4,99 por unidade, menos que o kids de 45 g, mas é outro produto, com outro peso e outra tabela. A única tabela de 40 g que lemos é a do chocolate adulto, e ela não representa os outros sabores. Quem procura o kids precisa da unidade de 45 g ou do kit de 10."
+      ],
+      "image": {
+        "src": "/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
+        "alt": "Foto oficial da Belive do Kit Lanche Escolar com 25 bolinhos adultos de 40 g",
+        "caption": "Kit Lanche Escolar: 25 bolinhos da linha adulta, nenhum kids. Foto oficial da Belive.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0
+      }
+    },
+    {
+      "heading": "Veredito",
+      "paragraphs": [
+        "O rótulo do bolinho kids de brigadeiro mostra um produto de 45 g com 157 kcal, 0,5 g de açúcar total, nenhum açúcar adicionado, ovo e soja nos alergênicos e nenhum leite na lista. Em relação ao adulto de 40 g, ele tem 34 kcal a mais, 2,6 g a mais de gordura saturada e custa R$ 1,58 a mais por unidade no cartão.",
+        "O que o rótulo não mostra: a tabela do sabor morango, a dos sabores do kit de 25, a embalagem física e qualquer aviso sobre polióis. Este texto não recomenda o produto para criança, e os números servem para comparar os rótulos, não para escolher o que vai na lancheira."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O bolinho kids da Belive tem açúcar? Tem 0,5 g de açúcares totais por unidade de 45 g e nenhum açúcar adicionado, segundo a tabela do rótulo.",
+        "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão.",
+        "O Kit Lanche Escolar de 25 tem bolinho kids? Não. Os 25 são bolinhos adultos de 40 g, nos sabores chocolate, laranja, baunilha, coco e banana.",
+        "O adoçante é só stévia? Não. A lista de ingredientes traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol como umectante.",
+        "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
+      ]
+    },
+    {
+      "heading": "Nota de transparência",
+      "paragraphs": [
+        "Os preços de cartão e do Pix foram lidos nas fichas do site da Belive em 28/10/2026. Os rótulos e a lista de ingredientes foram lidos em 27/10/2026. Os preços mudam, e a loja anuncia uma Black November: confira antes de comprar.",
+        "Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os bolinhos, e este texto trata de preço, rótulo e ingredientes, não de sabor.",
+        "A tabela do sabor morango não entra: a imagem publicada pela loja traz outro nome de sabor."
+      ]
+    }
+  ]
+}
