@@ -133371,35 +133371,35 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Lata 370 g",
+              "[Lata 370 g](https://www.nestlenutre.com.br/nutren-senior-po-lata-370g-1)",
               "R$ 100,79",
               "R$ 27,24",
               "R$ 90,71",
               "R$ 24,52"
             ],
             [
-              "Lata 740 g",
+              "[Lata 740 g](https://www.nestlenutre.com.br/nutren-senior-po-lata-740g)",
               "R$ 169,37",
               "R$ 22,89",
               "R$ 150,55",
               "R$ 20,34"
             ],
             [
-              "Combo 2 × 740 g",
+              "[Combo 2 × 740 g](https://www.nestlenutre.com.br/combo-nutren-senior-po-740g-2-unidades)",
               "R$ 319,92",
               "R$ 21,62",
               "R$ 282,29",
               "R$ 19,07"
             ],
             [
-              "Kit 2 × 740 g",
+              "[Kit 2 × 740 g](https://www.nestlenutre.com.br/kit-nutren-senior-740g-1)",
               "R$ 263,49",
               "R$ 17,80",
               "R$ 237,14",
               "R$ 16,02"
             ],
             [
-              "Premium Baunilha 370 g",
+              "[Premium Baunilha 370 g](https://www.nestlenutre.com.br/nutren-senior-premium-baunilha-po-lata)",
               "R$ 145,25",
               "R$ 39,26",
               "R$ 129,11",
@@ -133445,19 +133445,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Lata 740 g",
+              "[Lata 740 g](https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740)",
               "R$ 190,61",
               "R$ 190,61",
               "R$ 25,76"
             ],
             [
-              "Kit 2 × 740 g",
+              "[Kit 2 × 740 g](https://www.nestlenutre.com.br/senior-kit-sem-sabor-zero-lactose-lata-740)",
               "R$ 296,50",
               "R$ 148,25",
               "R$ 20,03"
             ],
             [
-              "Combo 2 × 740 g",
+              "[Combo 2 × 740 g](https://www.nestlenutre.com.br/combo-nutren-senior-zero-lactose-sem-sabor-740g-2-unidades)",
               "R$ 360,04",
               "R$ 180,02",
               "R$ 24,33"
@@ -133595,7 +133595,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Chocolate",
+              "[Chocolate](https://belivebefree.com.br/produto/cookie-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)",
               "67 g",
               "R$ 8,97",
               "R$ 13,39",
@@ -133604,7 +133604,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Baunilha e chocolate",
+              "[Baunilha e chocolate](https://belivebefree.com.br/produto/cookie-fit-baunilha-e-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
               "67 g",
               "R$ 8,97",
               "R$ 13,39",
@@ -133613,7 +133613,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Chocolate e avelã",
+              "[Chocolate e avelã](https://belivebefree.com.br/produto/cookie-de-chocolate-avela-sem-gluten-sem-acucar-sem-leite-belive/)",
               "79 g (ficha)",
               "R$ 8,97",
               "R$ 11,35",
@@ -133622,7 +133622,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Castanhas e chocolate",
+              "[Castanhas e chocolate](https://belivebefree.com.br/produto/cookie-sem-gluten-sem-acucar-sem-leite-castanhas-belive/)",
               "67 g",
               "R$ 8,97",
               "R$ 13,39",
@@ -133874,7 +133874,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Snack Proteico Queijo",
+              "[Snack Proteico Queijo](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
               "R$ 7,97",
               "135",
               "10 g",
@@ -133883,7 +133883,7 @@ export const reviewsData: unknown[] = [
               "0,1 g"
             ],
             [
-              "Snack Proteico Presunto",
+              "[Snack Proteico Presunto](https://belivebefree.com.br/produto/snack-proteico-sabor-presunto-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
               "R$ 7,97",
               "135",
               "10 g",
@@ -133892,7 +133892,7 @@ export const reviewsData: unknown[] = [
               "0,1 g"
             ],
             [
-              "Snack Proteico Cebola e Salsa",
+              "[Snack Proteico Cebola e Salsa](https://belivebefree.com.br/produto/snack-proteico-sabor-cebola-e-salsa-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
               "R$ 7,97",
               "135",
               "10 g",
@@ -133901,7 +133901,7 @@ export const reviewsData: unknown[] = [
               "0,1 g"
             ],
             [
-              "Snack Proteico Barbecue",
+              "[Snack Proteico Barbecue](https://belivebefree.com.br/produto/snack-proteico-sabor-barbecue-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
               "R$ 7,97",
               "134",
               "10 g",
@@ -133910,7 +133910,7 @@ export const reviewsData: unknown[] = [
               "0,8 g"
             ],
             [
-              "Snack de Arroz Queijo",
+              "[Snack de Arroz Queijo](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/)",
               "R$ 5,19",
               "138",
               "3 g",
@@ -133919,7 +133919,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Snack de Arroz Pizza",
+              "[Snack de Arroz Pizza](https://belivebefree.com.br/produto/salgadinho-de-pizza-sem-gluten-sem-leite-snack-de-arroz-belive/)",
               "R$ 5,19",
               "137",
               "2,9 g",
@@ -133928,7 +133928,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Snack de Arroz Cebola e Salsa",
+              "[Snack de Arroz Cebola e Salsa](https://belivebefree.com.br/produto/salgadinho-de-cebola-e-salsa-sem-gluten-sem-leite-snack-de-arroz-belive/)",
               "R$ 5,19",
               "139",
               "3 g",
@@ -133937,7 +133937,7 @@ export const reviewsData: unknown[] = [
               "0 g"
             ],
             [
-              "Snack de Arroz Churrasco",
+              "[Snack de Arroz Churrasco](https://belivebefree.com.br/produto/salgadinho-de-churrasco-sem-gluten-sem-leite-snack-de-arroz-belive/)",
               "R$ 5,19",
               "137",
               "2,9 g",
@@ -134224,28 +134224,28 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Bolinho kids brigadeiro (ou morango)",
+              "[Bolinho kids brigadeiro (ou morango)](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
               "45 g",
               "R$ 6,97",
               "R$ 6,97",
               "R$ 15,49"
             ],
             [
-              "Kit 10 Bolinhos para Criança (brigadeiro ou morango)",
+              "[Kit 10 Bolinhos para Criança (brigadeiro ou morango)](https://belivebefree.com.br/produto/kit-10-bolinhos-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
               "450 g",
               "R$ 64,82 (de R$ 69,70)",
               "R$ 6,48",
               "R$ 14,40"
             ],
             [
-              "Bolinho adulto fit de chocolate",
+              "[Bolinho adulto fit de chocolate](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
               "40 g (rótulo)",
               "R$ 5,39",
               "R$ 5,39",
               "R$ 13,48"
             ],
             [
-              "Kit Lanche Escolar, 25 unidades (adulto)",
+              "[Kit Lanche Escolar, 25 unidades (adulto)](https://belivebefree.com.br/produto/kit-lanche-escolar-bolinho-sem-gluten-belive/)",
               "1 kg",
               "R$ 124,90 (de R$ 134,75)",
               "R$ 4,99",
