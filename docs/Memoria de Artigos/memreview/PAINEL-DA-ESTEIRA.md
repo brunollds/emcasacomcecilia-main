@@ -6,10 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no main, PR #331, id 626)
-- [ ] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no main, PR #331, id 627)
-- [ ] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT) (no main, PR #331, id 628)
-- [ ] [[bolinho-kids-belive-lancheira]]: Bolinho kids da Belive para a lancheira: sabores, preço e rótulo; o Kit Lanche Escolar de 25 não traz bolinho kids (PT) (no main, PR #331, id 629)
 - [ ] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); sem entrega no Brasil em 28/10 (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
@@ -45,6 +41,10 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 626) 🚀
+- [x] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 627) 🚀
+- [x] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 628) 🚀
+- [x] [[bolinho-kids-belive-lancheira]]: Bolinho kids da Belive para a lancheira: sabores, preço e rótulo; o Kit Lanche Escolar de 25 não traz bolinho kids (PT) (no ar em 28/10/2026 18:56 UTC, PR #331 + #333, release `c3af3e1`, id 629) 🚀
 *No ar.*
 - [x] [[hipercalorico-black-skull-qual-escolher]]: Hipercalórico Black Skull: Masstodon Refil 3 kg ou Monstrous 2,7 kg, por rótulo e preço por 100 g de proteína (com o CECILIA10); sem dose nem promessa de ganho (PT) (no ar em 28/10/2026 00:23 UTC, PR #321, release `e734d75`, id 623) 🚀
 - [x] [[insider-mercado-livre-ou-site]]: Insider no Mercado Livre ou no site: com o EMCASACOMCECILIA o site ganha em 13 de 17 produtos; a Daily (sem cupom no site) sai mais barata no ML e a Light só existe lá; dois botões (PT) (no ar em 28/10/2026 03:40 UTC, PR #325, release `2567b32`, id 625) 🚀

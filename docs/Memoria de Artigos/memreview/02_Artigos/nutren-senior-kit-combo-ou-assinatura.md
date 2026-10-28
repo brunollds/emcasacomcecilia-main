@@ -7,9 +7,9 @@ cupom: "CECI"
 category: "guias-praticos-utilidade"
 reviewKind: "comparativo"
 type: "Comparativo"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-27"
 pauta: "N1 da rodada de 27/10/2026, reescrita como formato de compra (aprovada pelo Bruno em 27/10/2026)"
@@ -191,5 +191,5 @@ O título volta a incluir o tamanho ("qual tamanho e qual kit compensam"), como 
 6. Programa de cupom mensal da própria Nestlé Nutre fora da comparação: uma frase e link ao [[cupom-ceci-nestle-nutre-como-usar]]. Preços datados; o site está no "Outubro Rosa, até 30% OFF": reler antes de publicar.
 
 ## Redação (28/10/2026)
-- No main (PR #331, id 626). Preços relidos no Chrome em 28/10, sem mudança.
+- No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 626). Preços relidos no Chrome em 28/10, sem mudança.
 - O `black-friday-nestle-nutre` ganhou o link para este texto. Frete e regras da assinatura vêm do dossiê de 10/10 e não foram relidos.
