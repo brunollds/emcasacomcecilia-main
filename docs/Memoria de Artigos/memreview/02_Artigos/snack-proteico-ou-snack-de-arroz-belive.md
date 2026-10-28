@@ -5,9 +5,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 lote: "2710 (B2)"
@@ -132,4 +132,4 @@ Frase abaixo da tabela: cupom MAUAD 10% (soma com promoção e com o Pix de 5%, 
 5. Snack de arroz sabor churrasco: nada sobre ser ou não vegano (a ficha do combo e a lista de ingredientes divergem).
 
 ## Redação (28/10/2026)
-- No main (PR #331, id 628). Preços relidos no Chrome em 28/10, sem mudança.
+- No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 628). Preços relidos no Chrome em 28/10, sem mudança.

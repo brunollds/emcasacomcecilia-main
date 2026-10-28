@@ -5,9 +5,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 affiliate: "belive"
 modo_i18n: "somente-pt"
@@ -103,4 +103,4 @@ Lote 27/10/2026, pauta B3 da rodada Belive. Preços e rótulos de 27/10/2026. Ar
 6. Sem aviso próprio sobre polióis (o rótulo lido não traz); sem "saudável", porção ou idade. Brinde da lancheirinha fora (sem regra publicada).
 
 ## Redação (28/10/2026)
-- No main (PR #331, id 629). Preços relidos no Chrome em 28/10, sem mudança.
+- No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 629). Preços relidos no Chrome em 28/10, sem mudança.

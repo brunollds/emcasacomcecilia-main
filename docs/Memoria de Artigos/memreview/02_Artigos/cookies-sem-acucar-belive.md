@@ -7,8 +7,8 @@ coupon: "MAUAD"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
-proxima_acao: "deploy"
+status: "publicado"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 responsavel: "Claude"
 data_criacao: "2026-10-28"
@@ -106,5 +106,5 @@ Nenhum bloqueio ocorreu (todas as respostas 200). Pendências de verificação, 
 5. Comparação por 100 g, porque o peso não fecha com as unidades informadas; o kit de 10 não diz quantos pacotes traz e o texto não afirma.
 
 ## Redação (28/10/2026)
-- No main (PR #331, id 627). Preços relidos no Chrome em 28/10, sem mudança.
+- No ar em 28/10/2026 18:56 UTC (PR #331, links de produto no #333, release `c3af3e1`, id 627). Preços relidos no Chrome em 28/10, sem mudança.
 - Peso: 67 g, como está impresso nas fotos oficiais do pacote (chocolate, baunilha com chocolate e castanhas; a ficha dos dois primeiros diz 79 g). Decisão do Bruno em 28/10. O de avelã fica com os 79 g da ficha, porque não tem foto do pacote.
