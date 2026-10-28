@@ -145,4 +145,4 @@ Nunca: "cupom" para o CECILIA010 ("usar com outros cupons" fica fora). A regra d
 8. Para a sessão de cupons, não editar aqui: o FAQ de `/cupons/yesstyle` chama o campo do app de "Reward Code"; no app ele se chama "Influencer / Rewards Code".
 
 ## Publicação (28/10/2026)
-Família , ids 630–639, no ar pelo PR #336 (release ). Redação do Fable 5.1, revisão do Claude. Imagens:  (os 3 passos),  e a capa. Fora do PT, o FAQ do Brasil saiu (en, es e fr: "entrega no meu país?" com o guia de entrega do idioma).
+Família `yesstyle-app`, ids 630–639, no ar pelo PR #336 (release `040fcb1b`). Redação do Fable 5.1, revisão do Claude. Imagens: `yesstyle-app-codigo-checkout-2810.webp` (os 3 passos), `yesstyle-app-home-2810.webp` e a capa. Fora do PT, o FAQ do Brasil saiu (en, es e fr: "entrega no meu país?" com o guia de entrega do idioma).
