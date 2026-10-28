@@ -6,18 +6,18 @@ parceiro: "[[YesStyle]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Uso"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler as notas das lojas de aplicativo e o cupom do app na revisão mensal"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 pauta: "P1 da fila de apps (Fila-de-Pautas.md, seção Apps das lojas parceiras, 23/10/2026)"
 i18n_cluster: null
-translationKey: "a definir na redação (família nova)"
+translationKey: "yesstyle-app"
 modo_i18n: "familia-10-idiomas"
 idioma_fonte: "pt"
 idiomas_alvo: ["en", "es", "fr", "it", "de", "ja", "ko", "zh-hans", "zh-hant"]
-status_i18n: "pendente-briefing-aprovado"
+status_i18n: "publicado"
 ---
 
 # Briefing de Pauta: App da YesStyle, como comprar e onde entra o código de recompensa
@@ -143,3 +143,6 @@ Nunca: "cupom" para o CECILIA010 ("usar com outros cupons" fica fora). A regra d
 6. Os 10 idiomas de uma vez. Os prints em inglês (EUA) servem a todas as versões; cada versão usa o nome do código no idioma (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`) e o nome do campo como o app mostra.
 7. Lojas de aplicativo, lidas no Chrome em 28/10/2026 (seção "Lojas de aplicativo no Chrome" do fatos): Google Play 4,4, 164 mil avaliações, 5 milhões+ downloads, novidades "Agora em português!"; App Store Brasil 4,8 com 2,1 mil avaliações, versão 4.7.23, 86,1 MB, idioma listado EN. Números sempre datados.
 8. Para a sessão de cupons, não editar aqui: o FAQ de `/cupons/yesstyle` chama o campo do app de "Reward Code"; no app ele se chama "Influencer / Rewards Code".
+
+## Publicação (28/10/2026)
+Família `yesstyle-app`, ids 630–639, no ar pelo PR #336 (release `040fcb1b`). Redação do Fable 5.1, revisão do Claude. Imagens: `yesstyle-app-codigo-checkout-2810.webp` (os 3 passos), `yesstyle-app-home-2810.webp` e a capa. Fora do PT, o FAQ do Brasil saiu (en, es e fr: "entrega no meu país?" com o guia de entrega do idioma).
