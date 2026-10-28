@@ -6,6 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
+- [ ] [[shein-11-11-selecao-da-cecilia]]: SHEIN 11.11: as 19 peças escolhidas pelo Bruno, com preço, tamanhos e link da campanha; termina em 12/11 (10 idiomas, preço convertido com um aviso)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
