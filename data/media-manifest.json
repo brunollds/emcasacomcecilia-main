@@ -79768,6 +79768,2206 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+      "local_url": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 167128,
+      "sha256": "54fea56bf899a7fb012bd4b576bcd14e75d423a542e37b4121ed896005b08ded",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-11-11-selecao-da-cecilia-capa.webp",
+      "storage_filename": "shein-11-11-selecao-da-cecilia-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/54fea56bf899a7fb012bd4b576bcd14e75d423a542e37b4121ed896005b08ded/shein-11-11-selecao-da-cecilia-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54fea56bf899a7fb012bd4b576bcd14e75d423a542e37b4121ed896005b08ded/shein-11-11-selecao-da-cecilia-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.501Z",
+      "verification_etag_or_digest": "54fea56bf899a7fb012bd4b576bcd14e75d423a542e37b4121ed896005b08ded",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+      "local_url": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79078,
+      "sha256": "d70dd20de02ca0ca1f2ffac228fe8795e85dcec14862e6e9beee27cef2babfa6",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-02-pijama-floral.webp",
+      "storage_filename": "shein-1111-02-pijama-floral.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 195,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 194,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 195,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 195,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d70dd20de02ca0ca1f2ffac228fe8795e85dcec14862e6e9beee27cef2babfa6/shein-1111-02-pijama-floral.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d70dd20de02ca0ca1f2ffac228fe8795e85dcec14862e6e9beee27cef2babfa6/shein-1111-02-pijama-floral.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.502Z",
+      "verification_etag_or_digest": "d70dd20de02ca0ca1f2ffac228fe8795e85dcec14862e6e9beee27cef2babfa6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+      "local_url": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91236,
+      "sha256": "a291b96cdbb0526827919a67a9894b46e5225b5abaca96e90ed1b246ed347cd8",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-03-pijama-listrado-coracoes.webp",
+      "storage_filename": "shein-1111-03-pijama-listrado-coracoes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 217,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 216,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 217,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 217,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 218,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-03-pijama-listrado-coracoes.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a291b96cdbb0526827919a67a9894b46e5225b5abaca96e90ed1b246ed347cd8/shein-1111-03-pijama-listrado-coracoes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a291b96cdbb0526827919a67a9894b46e5225b5abaca96e90ed1b246ed347cd8/shein-1111-03-pijama-listrado-coracoes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.502Z",
+      "verification_etag_or_digest": "a291b96cdbb0526827919a67a9894b46e5225b5abaca96e90ed1b246ed347cd8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "local_url": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 67580,
+      "sha256": "1080804b001c15dc93fcad67a71ac9a3478d714a5cc88b79cc5b3c5f733a0eba",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "storage_filename": "shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 239,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 238,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 239,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 239,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 240,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1080804b001c15dc93fcad67a71ac9a3478d714a5cc88b79cc5b3c5f733a0eba/shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1080804b001c15dc93fcad67a71ac9a3478d714a5cc88b79cc5b3c5f733a0eba/shein-1111-04-pijama-3-pecas-cartoon.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.502Z",
+      "verification_etag_or_digest": "1080804b001c15dc93fcad67a71ac9a3478d714a5cc88b79cc5b3c5f733a0eba",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+      "local_url": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 79246,
+      "sha256": "10a9260442490348b2f2d414ac6324311f18a618c64f9f6173c5c19706bc36fe",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-05-conjunto-menina-coracao.webp",
+      "storage_filename": "shein-1111-05-conjunto-menina-coracao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 267,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 266,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 267,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 267,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 268,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/10a9260442490348b2f2d414ac6324311f18a618c64f9f6173c5c19706bc36fe/shein-1111-05-conjunto-menina-coracao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10a9260442490348b2f2d414ac6324311f18a618c64f9f6173c5c19706bc36fe/shein-1111-05-conjunto-menina-coracao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.502Z",
+      "verification_etag_or_digest": "10a9260442490348b2f2d414ac6324311f18a618c64f9f6173c5c19706bc36fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+      "local_url": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126822,
+      "sha256": "23d16dfe8aa606abd7d92cb2b75c5ee2c65366b5edbdd47e3c46eeb8e5be1a65",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-06-pijama-menino-dinossauro.webp",
+      "storage_filename": "shein-1111-06-pijama-menino-dinossauro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 289,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 288,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 289,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 289,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 290,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/23d16dfe8aa606abd7d92cb2b75c5ee2c65366b5edbdd47e3c46eeb8e5be1a65/shein-1111-06-pijama-menino-dinossauro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/23d16dfe8aa606abd7d92cb2b75c5ee2c65366b5edbdd47e3c46eeb8e5be1a65/shein-1111-06-pijama-menino-dinossauro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.502Z",
+      "verification_etag_or_digest": "23d16dfe8aa606abd7d92cb2b75c5ee2c65366b5edbdd47e3c46eeb8e5be1a65",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+      "local_url": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 157538,
+      "sha256": "21c05bcd6ae105ef0f3b89e35564a4a3c2ee2983f1e6ef85e02621e1e8aa00db",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-07-blusa-bebe-bichos.webp",
+      "storage_filename": "shein-1111-07-blusa-bebe-bichos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 311,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 311,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 311,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 312,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-07-blusa-bebe-bichos.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/21c05bcd6ae105ef0f3b89e35564a4a3c2ee2983f1e6ef85e02621e1e8aa00db/shein-1111-07-blusa-bebe-bichos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/21c05bcd6ae105ef0f3b89e35564a4a3c2ee2983f1e6ef85e02621e1e8aa00db/shein-1111-07-blusa-bebe-bichos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "21c05bcd6ae105ef0f3b89e35564a4a3c2ee2983f1e6ef85e02621e1e8aa00db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+      "local_url": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142992,
+      "sha256": "c59470ac86d6ae3ed2ec766d8b4112654daf3b1ff3cbad20fd1543956e51eb03",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-08-pijama-menino-manga-longa.webp",
+      "storage_filename": "shein-1111-08-pijama-menino-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 333,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 332,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 333,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 333,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 334,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c59470ac86d6ae3ed2ec766d8b4112654daf3b1ff3cbad20fd1543956e51eb03/shein-1111-08-pijama-menino-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c59470ac86d6ae3ed2ec766d8b4112654daf3b1ff3cbad20fd1543956e51eb03/shein-1111-08-pijama-menino-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "c59470ac86d6ae3ed2ec766d8b4112654daf3b1ff3cbad20fd1543956e51eb03",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+      "local_url": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 128422,
+      "sha256": "6aeacfcead789e2fe047a5a35067173cf64205a5476ffd8deaa971f5d6945fe7",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-09-conjunto-listrado-azul.webp",
+      "storage_filename": "shein-1111-09-conjunto-listrado-azul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 361,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 360,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 361,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 361,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 362,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-09-conjunto-listrado-azul.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6aeacfcead789e2fe047a5a35067173cf64205a5476ffd8deaa971f5d6945fe7/shein-1111-09-conjunto-listrado-azul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6aeacfcead789e2fe047a5a35067173cf64205a5476ffd8deaa971f5d6945fe7/shein-1111-09-conjunto-listrado-azul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "6aeacfcead789e2fe047a5a35067173cf64205a5476ffd8deaa971f5d6945fe7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+      "local_url": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99988,
+      "sha256": "87f2253eaf7b8757880cbd1aaac4a89492b99f31b4f5dfe723173d1a8139cea0",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-10-cardiga-esportivo.webp",
+      "storage_filename": "shein-1111-10-cardiga-esportivo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 383,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 382,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 383,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 383,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 384,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/87f2253eaf7b8757880cbd1aaac4a89492b99f31b4f5dfe723173d1a8139cea0/shein-1111-10-cardiga-esportivo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/87f2253eaf7b8757880cbd1aaac4a89492b99f31b4f5dfe723173d1a8139cea0/shein-1111-10-cardiga-esportivo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "87f2253eaf7b8757880cbd1aaac4a89492b99f31b4f5dfe723173d1a8139cea0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-11-short-estampado.webp",
+      "local_url": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 186716,
+      "sha256": "92637864fbc15c3a5f5e23e6e8c94f99f8860653c0fe60a7ec840a2c809c32d6",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-11-short-estampado.webp",
+      "storage_filename": "shein-1111-11-short-estampado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 405,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 404,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 405,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 405,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 406,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-11-short-estampado.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/92637864fbc15c3a5f5e23e6e8c94f99f8860653c0fe60a7ec840a2c809c32d6/shein-1111-11-short-estampado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92637864fbc15c3a5f5e23e6e8c94f99f8860653c0fe60a7ec840a2c809c32d6/shein-1111-11-short-estampado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "92637864fbc15c3a5f5e23e6e8c94f99f8860653c0fe60a7ec840a2c809c32d6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+      "local_url": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 101056,
+      "sha256": "54448b2123f363aad9098d23c357d6ae15d303e1dff44acb3626e62c2385c8f0",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-12-calca-jeans-pantalona.webp",
+      "storage_filename": "shein-1111-12-calca-jeans-pantalona.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 427,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 426,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 427,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 427,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 428,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/54448b2123f363aad9098d23c357d6ae15d303e1dff44acb3626e62c2385c8f0/shein-1111-12-calca-jeans-pantalona.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54448b2123f363aad9098d23c357d6ae15d303e1dff44acb3626e62c2385c8f0/shein-1111-12-calca-jeans-pantalona.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "54448b2123f363aad9098d23c357d6ae15d303e1dff44acb3626e62c2385c8f0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+      "local_url": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65878,
+      "sha256": "67cf6ea33cd0f9eb2808b8031609e3f6163fbcc3c222da1be39cfcf7efbdae2e",
+      "width": 750,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-13-scarpin-slingback.webp",
+      "storage_filename": "shein-1111-13-scarpin-slingback.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 455,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 454,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 455,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 455,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 456,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-13-scarpin-slingback.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/67cf6ea33cd0f9eb2808b8031609e3f6163fbcc3c222da1be39cfcf7efbdae2e/shein-1111-13-scarpin-slingback.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/67cf6ea33cd0f9eb2808b8031609e3f6163fbcc3c222da1be39cfcf7efbdae2e/shein-1111-13-scarpin-slingback.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "67cf6ea33cd0f9eb2808b8031609e3f6163fbcc3c222da1be39cfcf7efbdae2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+      "local_url": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46882,
+      "sha256": "dee3e056a21beecc9bbe12d98005fd62115e9092c3454cc34c7d3fa98cdca166",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-14-brincos-laco-perola.webp",
+      "storage_filename": "shein-1111-14-brincos-laco-perola.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 477,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 476,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 477,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 477,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 478,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-14-brincos-laco-perola.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dee3e056a21beecc9bbe12d98005fd62115e9092c3454cc34c7d3fa98cdca166/shein-1111-14-brincos-laco-perola.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dee3e056a21beecc9bbe12d98005fd62115e9092c3454cc34c7d3fa98cdca166/shein-1111-14-brincos-laco-perola.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "dee3e056a21beecc9bbe12d98005fd62115e9092c3454cc34c7d3fa98cdca166",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+      "local_url": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 117430,
+      "sha256": "b9fd72ef93001dc3aaf080c8071fca06cd5554ff1d73d2f7236af88e6c121eeb",
+      "width": 750,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-15-kit-relogio-verde.webp",
+      "storage_filename": "shein-1111-15-kit-relogio-verde.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 499,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 498,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 499,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 499,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 500,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-15-kit-relogio-verde.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b9fd72ef93001dc3aaf080c8071fca06cd5554ff1d73d2f7236af88e6c121eeb/shein-1111-15-kit-relogio-verde.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9fd72ef93001dc3aaf080c8071fca06cd5554ff1d73d2f7236af88e6c121eeb/shein-1111-15-kit-relogio-verde.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "b9fd72ef93001dc3aaf080c8071fca06cd5554ff1d73d2f7236af88e6c121eeb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+      "local_url": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45868,
+      "sha256": "7f1d268181b21ea947b2a81f1a260e4d05957a7227cb155181f5f52bbc246998",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-16-oculos-degrade.webp",
+      "storage_filename": "shein-1111-16-oculos-degrade.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 521,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 520,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 521,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 521,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 522,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-16-oculos-degrade.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7f1d268181b21ea947b2a81f1a260e4d05957a7227cb155181f5f52bbc246998/shein-1111-16-oculos-degrade.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f1d268181b21ea947b2a81f1a260e4d05957a7227cb155181f5f52bbc246998/shein-1111-16-oculos-degrade.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "7f1d268181b21ea947b2a81f1a260e4d05957a7227cb155181f5f52bbc246998",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+      "local_url": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74692,
+      "sha256": "959b93885d25458561eb845531ca7ff90d3b7d64f49aa51588a4a43e4ca9defb",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-17-camiseta-henley.webp",
+      "storage_filename": "shein-1111-17-camiseta-henley.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 549,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 548,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 549,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 549,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 550,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-17-camiseta-henley.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/959b93885d25458561eb845531ca7ff90d3b7d64f49aa51588a4a43e4ca9defb/shein-1111-17-camiseta-henley.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/959b93885d25458561eb845531ca7ff90d3b7d64f49aa51588a4a43e4ca9defb/shein-1111-17-camiseta-henley.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "959b93885d25458561eb845531ca7ff90d3b7d64f49aa51588a4a43e4ca9defb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+      "local_url": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50476,
+      "sha256": "13c977de2e40a5d9ddcc0822a48944c2c7d4ee5a13ab7c3dc2bff5a500e2ff56",
+      "width": 750,
+      "height": 750,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-18-kit-short-linho.webp",
+      "storage_filename": "shein-1111-18-kit-short-linho.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 571,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 570,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 571,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 571,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 572,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/13c977de2e40a5d9ddcc0822a48944c2c7d4ee5a13ab7c3dc2bff5a500e2ff56/shein-1111-18-kit-short-linho.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13c977de2e40a5d9ddcc0822a48944c2c7d4ee5a13ab7c3dc2bff5a500e2ff56/shein-1111-18-kit-short-linho.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "13c977de2e40a5d9ddcc0822a48944c2c7d4ee5a13ab7c3dc2bff5a500e2ff56",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+      "local_url": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 134134,
+      "sha256": "809c074a06b5a2d2638f86716971ba6207663859ffd134e620b24a9dcff87674",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-19-camisa-manga-longa.webp",
+      "storage_filename": "shein-1111-19-camisa-manga-longa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 593,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 592,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 593,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 593,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 594,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-19-camisa-manga-longa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/809c074a06b5a2d2638f86716971ba6207663859ffd134e620b24a9dcff87674/shein-1111-19-camisa-manga-longa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/809c074a06b5a2d2638f86716971ba6207663859ffd134e620b24a9dcff87674/shein-1111-19-camisa-manga-longa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "809c074a06b5a2d2638f86716971ba6207663859ffd134e620b24a9dcff87674",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+      "local_url": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52968,
+      "sha256": "dbad7bbe33660de141e50182228723e658e1199a20076f8a558d7ce738686a8d",
+      "width": 750,
+      "height": 999,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-1111-20-regata-estonada.webp",
+      "storage_filename": "shein-1111-20-regata-estonada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-11-11-auswahl-angebote.json",
+        "content/reviews/shein-11-11-picks-ja.json",
+        "content/reviews/shein-11-11-picks-ko.json",
+        "content/reviews/shein-11-11-picks-zh-hans.json",
+        "content/reviews/shein-11-11-picks-zh-hant.json",
+        "content/reviews/shein-11-11-sale-picks.json",
+        "content/reviews/shein-11-11-selecao-da-cecilia.json",
+        "content/reviews/shein-11-11-seleccion-ofertas.json",
+        "content/reviews/shein-11-11-selection-promos.json",
+        "content/reviews/shein-11-11-selezione-offerte.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-11-11-auswahl-angebote.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ja.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-ko.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hans.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-picks-zh-hant.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-sale-picks.json",
+          "line": 615,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selecao-da-cecilia.json",
+          "line": 614,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-seleccion-ofertas.json",
+          "line": 615,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selection-promos.json",
+          "line": 615,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-11-11-selezione-offerte.json",
+          "line": 616,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-1111-20-regata-estonada.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dbad7bbe33660de141e50182228723e658e1199a20076f8a558d7ce738686a8d/shein-1111-20-regata-estonada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dbad7bbe33660de141e50182228723e658e1199a20076f8a558d7ce738686a8d/shein-1111-20-regata-estonada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-28T23:45:14.503Z",
+      "verification_etag_or_digest": "dbad7bbe33660de141e50182228723e658e1199a20076f8a558d7ce738686a8d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
       "local_url": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
       "media_kind": "image",

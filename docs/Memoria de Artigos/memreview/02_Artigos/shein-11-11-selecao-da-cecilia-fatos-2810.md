@@ -60,3 +60,18 @@ Pontos de atenção:
 | 18 | masculino | https://onelink.shein.com/58/66i86on2s3rp?ismg_ol=0DnpPoZ6oj2_01_KOC-C | VARIOUS-COLORS%252C-CASUAL-MODERN-STYLE-p-536098258-cat-1974 |
 | 19 | masculino | https://onelink.shein.com/58/66i887vxxn50?ismg_ol=EDAxdRaeFlR_01_KOC-C | ile-Daily-Long-Sleeve-Shirt%252C-Formal-p-558226928-cat-1977 |
 | 20 | masculino | https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C | le-Summer-Streetwear-Eye-Catching-Piece-p-328984179-cat-6505 |
+
+## Cotação usada nas versões fora do PT (decisão 3 do Bruno)
+
+Taxa de venda do fechamento do Banco Central de 28/10/2026 (arquivo de fechamento `20261028.csv`; USD, EUR e JPY são a PTAX, as outras moedas saem dela pelas paridades do mesmo arquivo), em reais por unidade:
+
+| Moeda | Idiomas | R$ por unidade | Arredondamento |
+|---|---|---|---|
+| USD | en | 5,3420 | 1 dólar |
+| EUR | es, fr, it, de | 5,9515 | 1 euro |
+| JPY | ja | 0,03377 | 10 ienes |
+| KRW | ko | 0,003975 | 100 wons |
+| CNY | zh-hans | 0,8014 | 1 yuan |
+| TWD | zh-hant | 0,1648 | 10 NT$ |
+
+Quando o riscado arredondado ficou igual ao preço (USD #6; EUR #14 e #16), a versão mostra só o preço e o percentual. Tamanhos fora do PT ficam com as letras da ficha (PP, P, M, G, GG, EG, EEGG), com um aviso em "Antes de comprar".
