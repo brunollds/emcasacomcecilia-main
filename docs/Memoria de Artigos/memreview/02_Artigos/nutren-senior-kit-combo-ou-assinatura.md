@@ -7,9 +7,9 @@ cupom: "CECI"
 category: "guias-praticos-utilidade"
 reviewKind: "comparativo"
 type: "Comparativo"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 data_criacao: "2026-10-27"
 pauta: "N1 da rodada de 27/10/2026, reescrita como formato de compra (aprovada pelo Bruno em 27/10/2026)"
@@ -189,3 +189,7 @@ O título volta a incluir o tamanho ("qual tamanho e qual kit compensam"), como 
 4. Combo na tabela, com a frase de que custa R$ 56,43 a mais que o kit do mesmo produto.
 5. Desconto da assinatura pela conta contra a compra única (11% na lata de 740 g); o "economize 20%" da página conta a partir do riscado e só aparece assim atribuído.
 6. Programa de cupom mensal da própria Nestlé Nutre fora da comparação: uma frase e link ao [[cupom-ceci-nestle-nutre-como-usar]]. Preços datados; o site está no "Outubro Rosa, até 30% OFF": reler antes de publicar.
+
+## Redação (28/10/2026)
+- No main (PR #331, id 626). Preços relidos no Chrome em 28/10, sem mudança.
+- O `black-friday-nestle-nutre` ganhou o link para este texto. Frete e regras da assinatura vêm do dossiê de 10/10 e não foram relidos.

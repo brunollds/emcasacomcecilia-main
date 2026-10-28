@@ -177,14 +177,14 @@ Rodada de 27/10 pelo autocompletar do Google e do Bing (sem ranking de vendas: o
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| N1 | Nutren Senior: qual tamanho e qual forma compensa | **Pauta aprovada em 28/10/2026:** [[nutren-senior-kit-combo-ou-assinatura]] |
+| N1 | Nutren Senior: qual tamanho e qual forma compensa | **No main (#331, id 626), aguardando deploy:** [[nutren-senior-kit-combo-ou-assinatura]] |
 | N2 | NAN ou Nanlac de 1 a 3 anos | Para depois: só como seção do [[nanlac-supreme-ou-ninho-fases]], se a loja tiver NAN de 1 a 3 anos fora dos artigos |
 | N3 | Nutren Just Protein vale a pena | Para depois: seção do [[nutren-just-protein-para-que-serve]] |
 | N5 | Nestlé Nutre no Reclame Aqui | Para depois: seção do [[nestle-nutre-e-confiavel]], lida no Chrome |
 | N4, N6 | Senior pronto para beber; Protein ou Active | Descartadas (sem SKU confirmado; já no guia da linha) |
-| B1 | Cookies sem açúcar da Belive | **Pauta aprovada em 28/10/2026:** [[cookies-sem-acucar-belive]] |
-| B2 | Snack proteico ou snack de arroz da Belive | **Pauta aprovada em 28/10/2026:** [[snack-proteico-ou-snack-de-arroz-belive]] |
-| B3 | Bolinho kids da Belive para a lancheira | **Pauta aprovada em 28/10/2026:** [[bolinho-kids-belive-lancheira]] |
+| B1 | Cookies sem açúcar da Belive | **No main (#331, id 627), aguardando deploy:** [[cookies-sem-acucar-belive]] |
+| B2 | Snack proteico ou snack de arroz da Belive | **No main (#331, id 628), aguardando deploy:** [[snack-proteico-ou-snack-de-arroz-belive]] |
+| B3 | Bolinho kids da Belive para a lancheira | **No main (#331, id 629), aguardando deploy:** [[bolinho-kids-belive-lancheira]] |
 | B4, B6 | Bolo sem açúcar; kits de doces | Viram seção ou ficam no estoque |
 | B5 | Pão sem glúten da Belive | Fora do eixo da loja no site (sem açúcar) |
 | B7 | Panetone e doces de Natal sem açúcar | Descartada: a Belive não vende panetone nem chocotone (catálogo de 27/10) |

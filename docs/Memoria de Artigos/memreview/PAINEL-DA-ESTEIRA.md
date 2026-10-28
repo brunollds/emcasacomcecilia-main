@@ -6,10 +6,10 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT)
-- [ ] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT)
-- [ ] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT)
-- [ ] [[bolinho-kids-belive-lancheira]]: Bolinho kids da Belive para a lancheira: sabores, preço e rótulo; o Kit Lanche Escolar de 25 não traz bolinho kids (PT)
+- [ ] [[nutren-senior-kit-combo-ou-assinatura]]: Nutren Senior: qual tamanho e qual forma compensa, por 100 g (370 g, 740 g, kit, combo, assinatura); o kit de 2 latas sai mais barato que o combo (PT) (no main, PR #331, id 626)
+- [ ] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no main, PR #331, id 627)
+- [ ] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT) (no main, PR #331, id 628)
+- [ ] [[bolinho-kids-belive-lancheira]]: Bolinho kids da Belive para a lancheira: sabores, preço e rótulo; o Kit Lanche Escolar de 25 não traz bolinho kids (PT) (no main, PR #331, id 629)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---

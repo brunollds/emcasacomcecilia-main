@@ -7,8 +7,8 @@ coupon: "MAUAD"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 responsavel: "Claude"
 data_criacao: "2026-10-28"
@@ -104,3 +104,7 @@ Nenhum bloqueio ocorreu (todas as respostas 200). Pendências de verificação, 
 3. Imagens: fotos dos produtos das fichas da loja e as tabelas nutricionais (Job 6).
 4. Os cookies "Sem Lactose" têm açúcar adicionado (6,5 a 8,5 g por 30 g): uma frase de atenção, fora da tabela.
 5. Comparação por 100 g, porque o peso não fecha com as unidades informadas; o kit de 10 não diz quantos pacotes traz e o texto não afirma.
+
+## Redação (28/10/2026)
+- No main (PR #331, id 627). Preços relidos no Chrome em 28/10, sem mudança.
+- Peso: 67 g, como está impresso nas fotos oficiais do pacote (chocolate, baunilha com chocolate e castanhas; a ficha dos dois primeiros diz 79 g). Decisão do Bruno em 28/10. O de avelã fica com os 79 g da ficha, porque não tem foto do pacote.
