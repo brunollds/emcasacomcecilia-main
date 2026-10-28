@@ -191,13 +191,20 @@ Rodada de 27/10 pelo autocompletar do Google e do Bing (sem ranking de vendas: o
 
 Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagia), enterais, "engorda", Beauty, Fibermais ou Metamucil e a linha Kids por idade.
 
+## Estoque de 28/10/2026 (Bruno)
+
+| Pauta | Loja | Fonte | Situação |
+|---|---|---|---|
+| Insider Rewards: como funciona o programa de pontos | Insider | Termos: `https://www.insiderstore.com.br/pages/insider-rewards-termos-e-condicoes-gerais` | Estoque |
+| Programa de Estudantes da YesStyle (Membro Prata do Elite Club grátis) | YesStyle | `https://www.yesstyle.com/pt/student-program.html` | Estoque. O 15% da primeira compra não entra como vantagem (regra de cupons) |
+
 ## Apps das lojas parceiras (Bruno, 23/10/2026)
 
 Pautas que saíram da pergunta do app nas páginas de cupom (PR #238).
 
 | Ordem | Pauta | Loja | Idiomas | Sinal | Observação |
 |---|---|---|---|---|---|
-| P1 | App da YesStyle: como comprar e onde entra o código de recompensa no app | YesStyle | 10 | "yesstyle app", "yesstyle app review", "yesstyle app not working", "yesstyle app download" | O CECILIA010 foi testado pelo Bruno no app (campo Reward Code). É código de recompensa, nunca cupom |
+| P1 | App da YesStyle: como comprar e onde entra o código de recompensa no app (**pauta aprovada em 28/10/2026:** [[yesstyle-app-como-comprar-codigo-de-recompensa]]) | YesStyle | 10 | "yesstyle app", "yesstyle app review", "yesstyle app not working", "yesstyle app download" | O CECILIA010 foi testado pelo Bruno no app (campo Reward Code). É código de recompensa, nunca cupom |
 | P2 | App da Dolce Gusto: comprar, controlar a NEO, timer e Dolce Gusto Club (e quando o app não abre) | Dolce Gusto | PT | "app dolce gusto neo", "app dolce gusto timer", "app dolce gusto não funciona", "app dolce gusto nao abre", "cupom app dolce gusto" | O CECI foi testado pelo Bruno no app. O tema "pontos da NEO pelo app", em "Temas para depois", pode entrar aqui |
 
 ## Toda Up (Bruno, 26/10/2026)

@@ -41,7 +41,8 @@ com início e fim em GMT. As páginas antigas seguem no ar, fora do menu, e os i
 | As faixas do cupom (8% a partir de US$ 79, 10% a partir de US$ 149, 15% a partir de US$ 199) são as mesmas fora e dentro da Black Friday | `hsi.2736` (out/2025) e `hsi.2745` (nov/2025) | o cupom da Black Friday não é maior que o do ano |
 | Todos os cupons valem junto com preços promocionais, Rewards Codes e YS Points; um cupom por pedido; só membros | termos de cada página | fonte oficial de que o CECILIA010 soma com o cupom da loja |
 | Reembolso de impostos e taxas de alfândega em pedidos abaixo de US$ 1.000 (antes do cupom, sem frete), com comprovante em até 30 dias, em crédito na loja; fora dele os impostos cobrados no checkout de alguns países | `hsi.2212` | vale para o Brasil |
-| Envios ao Brasil suspensos desde 3/7/2026 (aviso em `/pt/help/announcement.html`); voltaram em setembro, segundo o Bruno (11/10/2026) | aviso + Bruno | em 11/10 o seletor de destino e a tabela de frete ainda não listavam o Brasil |
+| Envios ao Brasil suspensos desde 3/7/2026 (aviso em `/pt/help/announcement.html`); voltaram em setembro, segundo o Bruno (11/10/2026) | aviso + Bruno | em 11/10 o seletor de destino e a tabela de frete ainda não listavam o Brasil; **em 28/10/2026 o Bruno conferiu no app: continua sem entrega para o Brasil** |
+| App: o código vai no campo "Influencer / Rewards Code" do "Enter Code", ao lado do "Coupon Code"; o CECILIA010 aplicado aparece como "Influencer Code Discount" | prints do Bruno no app Android, 28/10/2026 | ver [[yesstyle-app-como-comprar-codigo-de-recompensa]] |
 | Capa provisória do guia da Black Friday: `/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp`, quadro do vídeo `agfG-x5lq1s` (canal da Cecília) | autorização do Bruno, 11/10/2026 | trocar pelo banner oficial da Black Friday de 2026 quando sair |
 
 A Black Friday de 2026 ainda não tinha página em 11/10/2026. Os códigos dos cupons ficam fora dos

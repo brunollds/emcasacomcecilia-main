@@ -10,6 +10,7 @@
 - [ ] [[cookies-sem-acucar-belive]]: Cookies sem açúcar da Belive: qual sabor e quanto sai cada um, por 100 g e pelo rótulo (maltitol); os "Sem Lactose" têm açúcar (PT) (no main, PR #331, id 627)
 - [ ] [[snack-proteico-ou-snack-de-arroz-belive]]: Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína (R$ 0,80 × R$ 1,73), com o sódio de contrapeso; tabela dos 8 sabores (PT) (no main, PR #331, id 628)
 - [ ] [[bolinho-kids-belive-lancheira]]: Bolinho kids da Belive para a lancheira: sabores, preço e rótulo; o Kit Lanche Escolar de 25 não traz bolinho kids (PT) (no main, PR #331, id 629)
+- [ ] [[yesstyle-app-como-comprar-codigo-de-recompensa]]: App da YesStyle: como comprar e onde entra o código de recompensa (campo "Influencer / Rewards Code", com os prints do Bruno); sem entrega no Brasil em 28/10 (10 idiomas)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
