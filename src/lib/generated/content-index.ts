@@ -137251,7 +137251,7 @@ export const reviewsData: unknown[] = [
         "heading": "Serenescape floral pajama set",
         "bullets": [
           "Price on October 28: about $10 (was about $12, -20%).",
-          "Sizes on the product page: PP to EG.",
+          "Sizes on the product page: XS to XXL.",
           "Rating 4.91 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137273,7 +137273,7 @@ export const reviewsData: unknown[] = [
         "heading": "Striped tank and shorts pajama set with hearts",
         "bullets": [
           "Price on October 28: from about $8.",
-          "Sizes on the product page: XPP to EG.",
+          "Sizes on the product page: XXS to XXL.",
           "Rating 4.86 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137295,7 +137295,7 @@ export const reviewsData: unknown[] = [
         "heading": "3-piece pajama set with cartoon print",
         "bullets": [
           "Price on October 28: about $6 (was about $8, -20%).",
-          "Sizes on the product page: PP to EG.",
+          "Sizes on the product page: XS to XXL.",
           "Rating 4.95 on the product page, with more than a thousand reviews, the highest in the selection."
         ],
         "paragraphs": [
@@ -137417,7 +137417,7 @@ export const reviewsData: unknown[] = [
         "heading": "Blue striped tank top and wide-leg pants set",
         "bullets": [
           "Price on October 28: from about $18 (was about $22, -20%).",
-          "Sizes on the product page: XPP to EG.",
+          "Sizes on the product page: XXS to XXL.",
           "Rating 4.70 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137439,7 +137439,7 @@ export const reviewsData: unknown[] = [
         "heading": "DAZY slim sporty cardigan",
         "bullets": [
           "Price on October 28: about $9 (was about $12, -31%).",
-          "Sizes on the product page: XPP to P, plus Petite.",
+          "Sizes on the product page: S to L, plus Petite.",
           "Rating 4.78 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137461,7 +137461,7 @@ export const reviewsData: unknown[] = [
         "heading": "Printed paperbag-waist shorts",
         "bullets": [
           "Price on October 28: about $3 (was about $9, -65%).",
-          "Sizes on the product page: XPP to EG, and the product page also lists Plus.",
+          "Sizes on the product page: XXS to XXL, and the product page also lists Plus.",
           "Rating 4.88 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137483,7 +137483,7 @@ export const reviewsData: unknown[] = [
         "heading": "Wide-leg jeans with elastic waist",
         "bullets": [
           "Price on October 28: about $25 (was about $31, -20%).",
-          "Sizes on the product page: PP to G.",
+          "Sizes on the product page: XS to L.",
           "Rating 4.31 on the product page, with 48 reviews."
         ],
         "paragraphs": [
@@ -137511,7 +137511,7 @@ export const reviewsData: unknown[] = [
         "heading": "White and caramel slingback pumps",
         "bullets": [
           "Price on October 28: about $12 (was about $19, -38%).",
-          "Sizes on the product page: BR34 to BR39.",
+          "Sizes on the product page: BR34 to BR39, in the Brazilian sizing the product page uses.",
           "Rating 4.82 on the product page, with more than 100 reviews."
         ],
         "paragraphs": [
@@ -137598,14 +137598,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Men",
         "paragraphs": [
-          "Four men's pieces: a Henley tee, a shorts set, a long-sleeve shirt and a tank top. Two go beyond EG on the product page: the Henley up to EEGG and the tank top with Plus."
+          "Four men's pieces: a Henley tee, a shorts set, a long-sleeve shirt and a tank top. Two go beyond XXL on the product page: the Henley up to XXXL and the tank top with Plus."
         ]
       },
       {
         "heading": "Navy Henley tee with linen texture",
         "bullets": [
           "Price on October 28: from about $9 (was about $12, -20%).",
-          "Sizes on the product page: PP to EEGG.",
+          "Sizes on the product page: XS to XXXL.",
           "Rating 4.61 on the product page, with more than 500 reviews."
         ],
         "paragraphs": [
@@ -137627,7 +137627,7 @@ export const reviewsData: unknown[] = [
         "heading": "Linen shorts set",
         "bullets": [
           "Price on October 28: about $9 (was about $19, -53%).",
-          "Sizes on the product page: P to GG.",
+          "Sizes on the product page: S to XL.",
           "Rating 4.76 on the product page, with 34 reviews."
         ],
         "paragraphs": [
@@ -137649,7 +137649,7 @@ export const reviewsData: unknown[] = [
         "heading": "Manfinity Mode men's long-sleeve shirt",
         "bullets": [
           "Price on October 28: from about $13 (was about $17, -20%).",
-          "Sizes on the product page: PP to EG.",
+          "Sizes on the product page: XS to XXL.",
           "Rating 4.86 on the product page, with more than a thousand reviews."
         ],
         "paragraphs": [
@@ -137671,7 +137671,7 @@ export const reviewsData: unknown[] = [
         "heading": "Black washed loose-fit tank top",
         "bullets": [
           "Price on October 28: about $13 (was about $16, -20%).",
-          "Sizes on the product page: P to EG, and the product page also lists Plus.",
+          "Sizes on the product page: S to XXL, and the product page also lists Plus.",
           "Rating 4.73 on the product page, with more than 500 reviews."
         ],
         "paragraphs": [
@@ -137694,7 +137694,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Prices change every day:** the price and discount of each piece are the ones shown on SHEIN's product page on October 28, 2026. SHEIN changes prices during the campaign, and \"from\" means the price changes by color or size.",
           "**Size:** check the size chart on the product page itself before choosing, because the sizing changes from piece to piece.",
-          "**Sizes as the product page shows them:** the sizes in this guide are written the way SHEIN's product page showed them, with the Brazilian size letters; check the size chart on the page that opens.",
           "**4CW5Y is a referral code, not a coupon:** you search for it in the app's search bar and do not paste it at checkout. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
           "**Waiting for Black Friday?** The [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide has what is already known about the November campaign.",
           "**First order on SHEIN?** Read the guide [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe) first."
@@ -137905,7 +137904,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pijama floral Serenescape",
         "bullets": [
           "Precio el 28/10: unos 9 € (antes unos 11 €, -20 %).",
-          "Tallas en la ficha: PP a EG.",
+          "Tallas en la ficha: XS a XXL.",
           "Nota 4,91 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -137927,7 +137926,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pijama de tirantes y short a rayas con corazones",
         "bullets": [
           "Precio el 28/10: desde unos 7 €.",
-          "Tallas en la ficha: XPP a EG.",
+          "Tallas en la ficha: XXS a XXL.",
           "Nota 4,86 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -137949,7 +137948,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pijama de 3 piezas con estampado de dibujos",
         "bullets": [
           "Precio el 28/10: unos 6 € (antes unos 7 €, -20 %).",
-          "Tallas en la ficha: PP a EG.",
+          "Tallas en la ficha: XS a XXL.",
           "Nota 4,95 en la ficha, con más de mil comentarios, la más alta de la selección."
         ],
         "paragraphs": [
@@ -138071,7 +138070,7 @@ export const reviewsData: unknown[] = [
         "heading": "Conjunto a rayas azul de top y pantalón ancho",
         "bullets": [
           "Precio el 28/10: desde unos 16 € (antes unos 20 €, -20 %).",
-          "Tallas en la ficha: XPP a EG.",
+          "Tallas en la ficha: XXS a XXL.",
           "Nota 4,70 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -138093,7 +138092,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cárdigan deportivo slim DAZY",
         "bullets": [
           "Precio el 28/10: unos 8 € (antes unos 11 €, -31 %).",
-          "Tallas en la ficha: XPP a P, y Petite.",
+          "Tallas en la ficha: S a L, y Petite.",
           "Nota 4,78 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -138115,7 +138114,7 @@ export const reviewsData: unknown[] = [
         "heading": "Short estampado de cintura paperbag",
         "bullets": [
           "Precio el 28/10: unos 3 € (antes unos 8 €, -65 %).",
-          "Tallas en la ficha: XPP a EG, y la ficha también lista Plus.",
+          "Tallas en la ficha: XXS a XXL, y la ficha también lista Plus.",
           "Nota 4,88 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -138137,7 +138136,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vaqueros anchos con cintura elástica",
         "bullets": [
           "Precio el 28/10: unos 22 € (antes unos 28 €, -20 %).",
-          "Tallas en la ficha: PP a G.",
+          "Tallas en la ficha: XS a L.",
           "Nota 4,31 en la ficha, con 48 comentarios."
         ],
         "paragraphs": [
@@ -138165,7 +138164,7 @@ export const reviewsData: unknown[] = [
         "heading": "Zapatos slingback blanco y caramelo",
         "bullets": [
           "Precio el 28/10: unos 10 € (antes unos 17 €, -38 %).",
-          "Tallas en la ficha: de BR34 a BR39.",
+          "Tallas en la ficha: BR34 a BR39, en la numeración brasileña que usa la ficha.",
           "Nota 4,82 en la ficha, con más de 100 comentarios."
         ],
         "paragraphs": [
@@ -138252,14 +138251,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hombre",
         "paragraphs": [
-          "Cuatro prendas de hombre: una camiseta Henley, un kit de shorts, una camisa de manga larga y una camiseta de tirantes. Dos pasan de la EG en la ficha: la Henley hasta la EEGG y la camiseta de tirantes con Plus."
+          "Cuatro prendas de hombre: una camiseta Henley, un kit de shorts, una camisa de manga larga y una camiseta de tirantes. Dos pasan de la XXL en la ficha: la Henley hasta la XXXL y la camiseta de tirantes con Plus."
         ]
       },
       {
         "heading": "Camiseta Henley azul marino con textura de lino",
         "bullets": [
           "Precio el 28/10: desde unos 8 € (antes unos 10 €, -20 %).",
-          "Tallas en la ficha: PP a EEGG.",
+          "Tallas en la ficha: XS a XXXL.",
           "Nota 4,61 en la ficha, con más de 500 comentarios."
         ],
         "paragraphs": [
@@ -138281,7 +138280,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kit de shorts de lino",
         "bullets": [
           "Precio el 28/10: unos 8 € (antes unos 17 €, -53 %).",
-          "Tallas en la ficha: P a GG.",
+          "Tallas en la ficha: S a XL.",
           "Nota 4,76 en la ficha, con 34 comentarios."
         ],
         "paragraphs": [
@@ -138303,7 +138302,7 @@ export const reviewsData: unknown[] = [
         "heading": "Camisa de hombre de manga larga Manfinity Mode",
         "bullets": [
           "Precio el 28/10: desde unos 12 € (antes unos 15 €, -20 %).",
-          "Tallas en la ficha: PP a EG.",
+          "Tallas en la ficha: XS a XXL.",
           "Nota 4,86 en la ficha, con más de mil comentarios."
         ],
         "paragraphs": [
@@ -138325,7 +138324,7 @@ export const reviewsData: unknown[] = [
         "heading": "Camiseta de tirantes negra lavada de corte holgado",
         "bullets": [
           "Precio el 28/10: unos 11 € (antes unos 14 €, -20 %).",
-          "Tallas en la ficha: P a EG, y la ficha también lista Plus.",
+          "Tallas en la ficha: S a XXL, y la ficha también lista Plus.",
           "Nota 4,73 en la ficha, con más de 500 comentarios."
         ],
         "paragraphs": [
@@ -138348,7 +138347,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**El precio cambia cada día:** el precio y el descuento de cada prenda son los de la ficha de SHEIN el 28/10/2026. SHEIN cambia los precios durante la campaña, y \"desde\" quiere decir que el precio cambia según el color o la talla.",
           "**Talla:** revisa la tabla de medidas de la propia ficha antes de elegir, porque la guía de tallas cambia de una prenda a otra.",
-          "**Tallas como las muestra la ficha:** las tallas de esta guía están escritas tal como las mostraba la ficha de SHEIN, con las letras brasileñas; revisa la tabla de medidas de la página que se abra.",
           "**El 4CW5Y es código de referido, no cupón:** se busca en la barra de búsqueda de la app y no se pega en el checkout. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) trae lo que ya se sabe de la campaña de noviembre.",
           "**¿Primera compra en SHEIN?** Lee antes la guía [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
@@ -138559,7 +138557,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pyjama fleuri Serenescape",
         "bullets": [
           "Prix le 28/10 : environ 9 € (au lieu d'environ 11 €, -20 %).",
-          "Tailles sur la fiche : PP à EG.",
+          "Tailles sur la fiche : XS à XXL.",
           "Note 4,91 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138581,7 +138579,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pyjama débardeur et short rayé à cœurs",
         "bullets": [
           "Prix le 28/10 : à partir d'environ 7 €.",
-          "Tailles sur la fiche : XPP à EG.",
+          "Tailles sur la fiche : XXS à XXL.",
           "Note 4,86 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138603,7 +138601,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pyjama 3 pièces à imprimé cartoon",
         "bullets": [
           "Prix le 28/10 : environ 6 € (au lieu d'environ 7 €, -20 %).",
-          "Tailles sur la fiche : PP à EG.",
+          "Tailles sur la fiche : XS à XXL.",
           "Note 4,95 sur la fiche, avec plus de mille avis, la plus haute de la sélection."
         ],
         "paragraphs": [
@@ -138725,7 +138723,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ensemble rayé bleu débardeur et pantalon large",
         "bullets": [
           "Prix le 28/10 : à partir d'environ 16 € (au lieu d'environ 20 €, -20 %).",
-          "Tailles sur la fiche : XPP à EG.",
+          "Tailles sur la fiche : XXS à XXL.",
           "Note 4,70 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138747,7 +138745,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cardigan sport slim DAZY",
         "bullets": [
           "Prix le 28/10 : environ 8 € (au lieu d'environ 11 €, -31 %).",
-          "Tailles sur la fiche : XPP à P, et Petite.",
+          "Tailles sur la fiche : S à L, et Petite.",
           "Note 4,78 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138769,7 +138767,7 @@ export const reviewsData: unknown[] = [
         "heading": "Short imprimé à taille paperbag",
         "bullets": [
           "Prix le 28/10 : environ 3 € (au lieu d'environ 8 €, -65 %).",
-          "Tailles sur la fiche : XPP à EG, et la fiche liste aussi Plus.",
+          "Tailles sur la fiche : XXS à XXL, et la fiche liste aussi Plus.",
           "Note 4,88 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138791,7 +138789,7 @@ export const reviewsData: unknown[] = [
         "heading": "Jean large à taille élastique",
         "bullets": [
           "Prix le 28/10 : environ 22 € (au lieu d'environ 28 €, -20 %).",
-          "Tailles sur la fiche : PP à G.",
+          "Tailles sur la fiche : XS à L.",
           "Note 4,31 sur la fiche, avec 48 avis."
         ],
         "paragraphs": [
@@ -138819,7 +138817,7 @@ export const reviewsData: unknown[] = [
         "heading": "Escarpins slingback blanc et caramel",
         "bullets": [
           "Prix le 28/10 : environ 10 € (au lieu d'environ 17 €, -38 %).",
-          "Tailles sur la fiche : du BR34 au BR39.",
+          "Tailles sur la fiche : BR34 à BR39, dans la pointure brésilienne qu'utilise la fiche.",
           "Note 4,82 sur la fiche, avec plus de 100 avis."
         ],
         "paragraphs": [
@@ -138906,14 +138904,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Homme",
         "paragraphs": [
-          "Quatre pièces homme : un t-shirt Henley, un kit de shorts, une chemise à manches longues et un débardeur. Deux dépassent le EG sur la fiche : le Henley jusqu'au EEGG et le débardeur avec Plus."
+          "Quatre pièces homme : un t-shirt Henley, un kit de shorts, une chemise à manches longues et un débardeur. Deux dépassent le XXL sur la fiche : le Henley jusqu'au XXXL et le débardeur avec Plus."
         ]
       },
       {
         "heading": "T-shirt Henley bleu marine à texture lin",
         "bullets": [
           "Prix le 28/10 : à partir d'environ 8 € (au lieu d'environ 10 €, -20 %).",
-          "Tailles sur la fiche : PP à EEGG.",
+          "Tailles sur la fiche : XS à XXXL.",
           "Note 4,61 sur la fiche, avec plus de 500 avis."
         ],
         "paragraphs": [
@@ -138935,7 +138933,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kit de shorts en lin",
         "bullets": [
           "Prix le 28/10 : environ 8 € (au lieu d'environ 17 €, -53 %).",
-          "Tailles sur la fiche : P à GG.",
+          "Tailles sur la fiche : S à XL.",
           "Note 4,76 sur la fiche, avec 34 avis."
         ],
         "paragraphs": [
@@ -138957,7 +138955,7 @@ export const reviewsData: unknown[] = [
         "heading": "Chemise homme à manches longues Manfinity Mode",
         "bullets": [
           "Prix le 28/10 : à partir d'environ 12 € (au lieu d'environ 15 €, -20 %).",
-          "Tailles sur la fiche : PP à EG.",
+          "Tailles sur la fiche : XS à XXL.",
           "Note 4,86 sur la fiche, avec plus de mille avis."
         ],
         "paragraphs": [
@@ -138979,7 +138977,7 @@ export const reviewsData: unknown[] = [
         "heading": "Débardeur noir délavé à coupe ample",
         "bullets": [
           "Prix le 28/10 : environ 11 € (au lieu d'environ 14 €, -20 %).",
-          "Tailles sur la fiche : P à EG, et la fiche liste aussi Plus.",
+          "Tailles sur la fiche : S à XXL, et la fiche liste aussi Plus.",
           "Note 4,73 sur la fiche, avec plus de 500 avis."
         ],
         "paragraphs": [
@@ -139002,7 +139000,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Le prix change tous les jours :** le prix et la remise de chaque pièce sont ceux de la fiche SHEIN le 28/10/2026. SHEIN change les prix pendant la campagne, et « à partir de » veut dire que le prix change selon la couleur ou la taille.",
           "**Taille :** vérifiez le guide des mesures de la fiche elle-même avant de choisir, parce que la grille change d'une pièce à l'autre.",
-          "**Tailles telles que la fiche les affiche :** les tailles de ce guide sont écrites comme la fiche SHEIN les affichait, avec les lettres de tailles brésiliennes ; vérifiez le guide des mesures de la page qui s'ouvre.",
           "**Le 4CW5Y est un code de parrainage, pas un coupon :** on le recherche dans la barre de recherche de l'appli et on ne le colle pas au paiement. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous attendez le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
           "**Première commande sur SHEIN ?** Lisez d'abord le guide [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
@@ -139214,7 +139211,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pigiama floreale Serenescape",
         "bullets": [
           "Prezzo al 28/10: circa 9 € (da circa 11 €, -20%).",
-          "Taglie nella scheda: da PP a EG.",
+          "Taglie nella scheda: da XS a XXL.",
           "Valutazione 4,91 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139236,7 +139233,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pigiama canotta e short a righe con cuori",
         "bullets": [
           "Prezzo al 28/10: a partire da circa 7 €.",
-          "Taglie nella scheda: da XPP a EG.",
+          "Taglie nella scheda: da XXS a XXL.",
           "Valutazione 4,86 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139258,7 +139255,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pigiama 3 pezzi con stampa cartoon",
         "bullets": [
           "Prezzo al 28/10: circa 6 € (da circa 7 €, -20%).",
-          "Taglie nella scheda: da PP a EG.",
+          "Taglie nella scheda: da XS a XXL.",
           "Valutazione 4,95 nella scheda, con più di mille recensioni, la più alta della selezione."
         ],
         "paragraphs": [
@@ -139380,7 +139377,7 @@ export const reviewsData: unknown[] = [
         "heading": "Completo a righe blu con canotta e pantalone palazzo",
         "bullets": [
           "Prezzo al 28/10: a partire da circa 16 € (da circa 20 €, -20%).",
-          "Taglie nella scheda: da XPP a EG.",
+          "Taglie nella scheda: da XXS a XXL.",
           "Valutazione 4,70 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139402,7 +139399,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cardigan sportivo slim DAZY",
         "bullets": [
           "Prezzo al 28/10: circa 8 € (da circa 11 €, -31%).",
-          "Taglie nella scheda: da XPP a P e Petite.",
+          "Taglie nella scheda: da S a L e Petite.",
           "Valutazione 4,78 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139424,7 +139421,7 @@ export const reviewsData: unknown[] = [
         "heading": "Short stampato con vita arricciata",
         "bullets": [
           "Prezzo al 28/10: circa 3 € (da circa 8 €, -65%).",
-          "Taglie nella scheda: da XPP a EG, e la scheda elenca anche le taglie Plus.",
+          "Taglie nella scheda: da XXS a XXL, e la scheda elenca anche le taglie Plus.",
           "Valutazione 4,88 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139446,7 +139443,7 @@ export const reviewsData: unknown[] = [
         "heading": "Jeans palazzo con vita elastica",
         "bullets": [
           "Prezzo al 28/10: circa 22 € (da circa 28 €, -20%).",
-          "Taglie nella scheda: da PP a G.",
+          "Taglie nella scheda: da XS a L.",
           "Valutazione 4,31 nella scheda, con 48 recensioni."
         ],
         "paragraphs": [
@@ -139474,7 +139471,7 @@ export const reviewsData: unknown[] = [
         "heading": "Décolleté slingback bianche e caramello",
         "bullets": [
           "Prezzo al 28/10: circa 10 € (da circa 17 €, -38%).",
-          "Taglie nella scheda: da BR34 a BR39.",
+          "Taglie nella scheda: da BR34 a BR39, nella numerazione brasiliana della scheda.",
           "Valutazione 4,82 nella scheda, con più di 100 recensioni."
         ],
         "paragraphs": [
@@ -139561,14 +139558,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Uomo",
         "paragraphs": [
-          "Quattro capi da uomo: una T-shirt Henley, un set di short, una camicia a maniche lunghe e una canotta. Due vanno oltre la EG nella scheda: la Henley fino alla EEGG e la canotta con le taglie Plus."
+          "Quattro capi da uomo: una T-shirt Henley, un set di short, una camicia a maniche lunghe e una canotta. Due vanno oltre la XXL nella scheda: la Henley fino alla XXXL e la canotta con le taglie Plus."
         ]
       },
       {
         "heading": "T-shirt Henley blu navy effetto lino",
         "bullets": [
           "Prezzo al 28/10: a partire da circa 8 € (da circa 10 €, -20%).",
-          "Taglie nella scheda: da PP a EEGG.",
+          "Taglie nella scheda: da XS a XXXL.",
           "Valutazione 4,61 nella scheda, con più di 500 recensioni."
         ],
         "paragraphs": [
@@ -139590,7 +139587,7 @@ export const reviewsData: unknown[] = [
         "heading": "Set di short in lino",
         "bullets": [
           "Prezzo al 28/10: circa 8 € (da circa 17 €, -53%).",
-          "Taglie nella scheda: da P a GG.",
+          "Taglie nella scheda: da S a XL.",
           "Valutazione 4,76 nella scheda, con 34 recensioni."
         ],
         "paragraphs": [
@@ -139612,7 +139609,7 @@ export const reviewsData: unknown[] = [
         "heading": "Camicia da uomo a maniche lunghe Manfinity Mode",
         "bullets": [
           "Prezzo al 28/10: a partire da circa 12 € (da circa 15 €, -20%).",
-          "Taglie nella scheda: da PP a EG.",
+          "Taglie nella scheda: da XS a XXL.",
           "Valutazione 4,86 nella scheda, con più di mille recensioni."
         ],
         "paragraphs": [
@@ -139634,7 +139631,7 @@ export const reviewsData: unknown[] = [
         "heading": "Canotta nera effetto lavato dalla vestibilità ampia",
         "bullets": [
           "Prezzo al 28/10: circa 11 € (da circa 14 €, -20%).",
-          "Taglie nella scheda: da P a EG, e la scheda elenca anche le taglie Plus.",
+          "Taglie nella scheda: da S a XXL, e la scheda elenca anche le taglie Plus.",
           "Valutazione 4,73 nella scheda, con più di 500 recensioni."
         ],
         "paragraphs": [
@@ -139657,7 +139654,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Il prezzo cambia ogni giorno:** prezzo e sconto di ogni articolo sono quelli della scheda di SHEIN il 28/10/2026. SHEIN cambia i prezzi durante la campagna, e \"a partire da\" vuol dire che il prezzo cambia in base al colore o alla taglia.",
           "**Taglia:** controlla la tabella delle misure della scheda prima di scegliere, perché la vestibilità cambia da capo a capo.",
-          "**Le taglie sono scritte come le mostrava la scheda di SHEIN,** con le lettere brasiliane (PP, P, M, G, GG, EG): confronta la tabella delle misure della pagina che si apre.",
           "**Il 4CW5Y è un codice invito, non un coupon:** si cerca nella barra di ricerca dell'app e non si incolla al checkout. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
           "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
           "**Primo acquisto su SHEIN?** Leggi prima la guida [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
@@ -139869,7 +139865,7 @@ export const reviewsData: unknown[] = [
         "heading": "Blumenpyjama Serenescape",
         "bullets": [
           "Preis am 28.10.: etwa 9 € (statt etwa 11 €, -20 %).",
-          "Größen laut Produktseite: PP bis EG.",
+          "Größen laut Produktseite: XS bis XXL.",
           "Bewertung 4,91 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -139891,7 +139887,7 @@ export const reviewsData: unknown[] = [
         "heading": "Pyjama mit Top und Shorts, gestreift mit Herzen",
         "bullets": [
           "Preis am 28.10.: ab etwa 7 €.",
-          "Größen laut Produktseite: XPP bis EG.",
+          "Größen laut Produktseite: XXS bis XXL.",
           "Bewertung 4,86 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -139913,7 +139909,7 @@ export const reviewsData: unknown[] = [
         "heading": "3-teiliger Pyjama mit Cartoon-Print",
         "bullets": [
           "Preis am 28.10.: etwa 6 € (statt etwa 7 €, -20 %).",
-          "Größen laut Produktseite: PP bis EG.",
+          "Größen laut Produktseite: XS bis XXL.",
           "Bewertung 4,95 auf der Produktseite, mit mehr als tausend Rezensionen, die höchste der Auswahl."
         ],
         "paragraphs": [
@@ -140035,7 +140031,7 @@ export const reviewsData: unknown[] = [
         "heading": "Blau gestreiftes Set mit Top und weiter Hose",
         "bullets": [
           "Preis am 28.10.: ab etwa 16 € (statt etwa 20 €, -20 %).",
-          "Größen laut Produktseite: XPP bis EG.",
+          "Größen laut Produktseite: XXS bis XXL.",
           "Bewertung 4,70 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -140057,7 +140053,7 @@ export const reviewsData: unknown[] = [
         "heading": "Sportlicher Slim-Cardigan DAZY",
         "bullets": [
           "Preis am 28.10.: etwa 8 € (statt etwa 11 €, -31 %).",
-          "Größen laut Produktseite: XPP bis P und Petite.",
+          "Größen laut Produktseite: S bis L und Petite.",
           "Bewertung 4,78 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -140079,7 +140075,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gemusterte Paperbag-Shorts",
         "bullets": [
           "Preis am 28.10.: etwa 3 € (statt etwa 8 €, -65 %).",
-          "Größen laut Produktseite: XPP bis EG, und die Produktseite führt auch Plus-Größen.",
+          "Größen laut Produktseite: XXS bis XXL, und die Produktseite führt auch Plus-Größen.",
           "Bewertung 4,88 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -140101,7 +140097,7 @@ export const reviewsData: unknown[] = [
         "heading": "Weite Jeans mit elastischem Bund",
         "bullets": [
           "Preis am 28.10.: etwa 22 € (statt etwa 28 €, -20 %).",
-          "Größen laut Produktseite: PP bis G.",
+          "Größen laut Produktseite: XS bis L.",
           "Bewertung 4,31 auf der Produktseite, mit 48 Rezensionen."
         ],
         "paragraphs": [
@@ -140129,7 +140125,7 @@ export const reviewsData: unknown[] = [
         "heading": "Slingback-Pumps in Weiß und Karamell",
         "bullets": [
           "Preis am 28.10.: etwa 10 € (statt etwa 17 €, -38 %).",
-          "Größen laut Produktseite: BR34 bis BR39.",
+          "Größen laut Produktseite: BR34 bis BR39, in der brasilianischen Nummerierung der Produktseite.",
           "Bewertung 4,82 auf der Produktseite, mit mehr als 100 Rezensionen."
         ],
         "paragraphs": [
@@ -140216,14 +140212,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Herren",
         "paragraphs": [
-          "Vier Herrenteile: ein Henley-Shirt, Leinen-Shorts im Set, ein Langarmhemd und ein Tanktop. Zwei gehen auf der Produktseite über EG hinaus: das Henley bis EEGG und das Tanktop mit Plus-Größen."
+          "Vier Herrenteile: ein Henley-Shirt, Leinen-Shorts im Set, ein Langarmhemd und ein Tanktop. Zwei gehen auf der Produktseite über XXL hinaus: das Henley bis XXXL und das Tanktop mit Plus-Größen."
         ]
       },
       {
         "heading": "Henley-Shirt in Marineblau mit Leinenoptik",
         "bullets": [
           "Preis am 28.10.: ab etwa 8 € (statt etwa 10 €, -20 %).",
-          "Größen laut Produktseite: PP bis EEGG.",
+          "Größen laut Produktseite: XS bis XXXL.",
           "Bewertung 4,61 auf der Produktseite, mit mehr als 500 Rezensionen."
         ],
         "paragraphs": [
@@ -140245,7 +140241,7 @@ export const reviewsData: unknown[] = [
         "heading": "Leinen-Shorts im Set",
         "bullets": [
           "Preis am 28.10.: etwa 8 € (statt etwa 17 €, -53 %).",
-          "Größen laut Produktseite: P bis GG.",
+          "Größen laut Produktseite: S bis XL.",
           "Bewertung 4,76 auf der Produktseite, mit 34 Rezensionen."
         ],
         "paragraphs": [
@@ -140267,7 +140263,7 @@ export const reviewsData: unknown[] = [
         "heading": "Langarm-Herrenhemd Manfinity Mode",
         "bullets": [
           "Preis am 28.10.: ab etwa 12 € (statt etwa 15 €, -20 %).",
-          "Größen laut Produktseite: PP bis EG.",
+          "Größen laut Produktseite: XS bis XXL.",
           "Bewertung 4,86 auf der Produktseite, mit mehr als tausend Rezensionen."
         ],
         "paragraphs": [
@@ -140289,7 +140285,7 @@ export const reviewsData: unknown[] = [
         "heading": "Schwarzes Tanktop in Washed-Optik, locker geschnitten",
         "bullets": [
           "Preis am 28.10.: etwa 11 € (statt etwa 14 €, -20 %).",
-          "Größen laut Produktseite: P bis EG, und die Produktseite führt auch Plus-Größen.",
+          "Größen laut Produktseite: S bis XXL, und die Produktseite führt auch Plus-Größen.",
           "Bewertung 4,73 auf der Produktseite, mit mehr als 500 Rezensionen."
         ],
         "paragraphs": [
@@ -140312,7 +140308,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Der Preis ändert sich täglich:** Preis und Rabatt jedes Teils sind die der SHEIN-Produktseite vom 28.10.2026. SHEIN ändert die Preise während der Aktion, und „ab“ heißt, dass der Preis je nach Farbe oder Größe anders ausfällt.",
           "**Größe:** Prüfen Sie die Maßtabelle der jeweiligen Produktseite, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
-          "**Die Größen stehen so, wie die SHEIN-Produktseite sie zeigte,** mit den brasilianischen Buchstaben (PP, P, M, G, GG, EG): Vergleichen Sie die Maßtabelle der Seite, die sich öffnet.",
           "**4CW5Y ist ein Empfehlungscode, kein Gutschein:** Er wird in der Suche der App gesucht und nicht an der Kasse eingegeben. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
           "**Erster Einkauf bei SHEIN?** Lesen Sie vorher den Ratgeber [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
@@ -140524,7 +140519,7 @@ export const reviewsData: unknown[] = [
         "heading": "Serenescape の花柄パジャマ",
         "bullets": [
           "10月28日の価格：約1,540円（約1,920円から、-20%）。",
-          "商品ページのサイズ：PP〜EG。",
+          "商品ページのサイズ：XS〜XXL。",
           "商品ページの評価は4.91、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140546,7 +140541,7 @@ export const reviewsData: unknown[] = [
         "heading": "ハート柄ストライプのタンクトップ＆ショートパンツのパジャマ",
         "bullets": [
           "10月28日の価格：約1,300円から。",
-          "商品ページのサイズ：XPP〜EG。",
+          "商品ページのサイズ：XXS〜XXL。",
           "商品ページの評価は4.86、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140568,7 +140563,7 @@ export const reviewsData: unknown[] = [
         "heading": "カートゥーン柄の3点セットパジャマ",
         "bullets": [
           "10月28日の価格：約1,020円（約1,270円から、-20%）。",
-          "商品ページのサイズ：PP〜EG。",
+          "商品ページのサイズ：XS〜XXL。",
           "商品ページの評価は4.95、レビューは千件以上で、セレクション中で最高の評価です。"
         ],
         "paragraphs": [
@@ -140690,7 +140685,7 @@ export const reviewsData: unknown[] = [
         "heading": "青いストライプのタンクトップとワイドパンツのセットアップ",
         "bullets": [
           "10月28日の価格：約2,770円から（約3,460円から、-20%）。",
-          "商品ページのサイズ：XPP〜EG。",
+          "商品ページのサイズ：XXS〜XXL。",
           "商品ページの評価は4.70、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140712,7 +140707,7 @@ export const reviewsData: unknown[] = [
         "heading": "DAZY のスリムなスポーツカーディガン",
         "bullets": [
           "10月28日の価格：約1,350円（約1,950円から、-31%）。",
-          "商品ページのサイズ：XPP〜P と Petite。",
+          "商品ページのサイズ：S〜L と Petite。",
           "商品ページの評価は4.78、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140734,7 +140729,7 @@ export const reviewsData: unknown[] = [
         "heading": "ペーパーバッグウエストの柄ショートパンツ",
         "bullets": [
           "10月28日の価格：約490円（約1,390円から、-65%）。",
-          "商品ページのサイズ：XPP〜EG。商品ページには Plus サイズもあります。",
+          "商品ページのサイズ：XXS〜XXL。商品ページには Plus サイズもあります。",
           "商品ページの評価は4.88、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140756,7 +140751,7 @@ export const reviewsData: unknown[] = [
         "heading": "ウエストゴムのワイドジーンズ",
         "bullets": [
           "10月28日の価格：約3,910円（約4,880円から、-20%）。",
-          "商品ページのサイズ：PP〜G。",
+          "商品ページのサイズ：XS〜L。",
           "商品ページの評価は4.31、レビューは48件。"
         ],
         "paragraphs": [
@@ -140784,7 +140779,7 @@ export const reviewsData: unknown[] = [
         "heading": "白とキャラメルのスリングバックパンプス",
         "bullets": [
           "10月28日の価格：約1,840円（約2,950円から、-38%）。",
-          "商品ページのサイズ：BR34〜BR39。",
+          "商品ページのサイズ：BR34〜BR39（商品ページのブラジルのサイズ表記）。",
           "商品ページの評価は4.82、レビューは100件以上。"
         ],
         "paragraphs": [
@@ -140871,14 +140866,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "メンズ",
         "paragraphs": [
-          "メンズ4点：ヘンリーネックTシャツ、ショートパンツのセット、長袖シャツ、タンクトップです。商品ページで EG より上があるのは2点で、ヘンリーネックは EEGG まで、タンクトップは Plus サイズつきです。"
+          "メンズ4点：ヘンリーネックTシャツ、ショートパンツのセット、長袖シャツ、タンクトップです。商品ページで XXL より上があるのは2点で、ヘンリーネックは XXXL まで、タンクトップは Plus サイズつきです。"
         ]
       },
       {
         "heading": "リネン風のネイビーのヘンリーネックTシャツ",
         "bullets": [
           "10月28日の価格：約1,470円から（約1,830円から、-20%）。",
-          "商品ページのサイズ：PP〜EEGG。",
+          "商品ページのサイズ：XS〜XXXL。",
           "商品ページの評価は4.61、レビューは500件以上。"
         ],
         "paragraphs": [
@@ -140900,7 +140895,7 @@ export const reviewsData: unknown[] = [
         "heading": "リネンのショートパンツセット",
         "bullets": [
           "10月28日の価格：約1,400円（約2,960円から、-53%）。",
-          "商品ページのサイズ：P〜GG。",
+          "商品ページのサイズ：S〜XL。",
           "商品ページの評価は4.76、レビューは34件。"
         ],
         "paragraphs": [
@@ -140922,7 +140917,7 @@ export const reviewsData: unknown[] = [
         "heading": "Manfinity Mode の長袖メンズシャツ",
         "bullets": [
           "10月28日の価格：約2,110円から（約2,630円から、-20%）。",
-          "商品ページのサイズ：PP〜EG。",
+          "商品ページのサイズ：XS〜XXL。",
           "商品ページの評価は4.86、レビューは千件以上。"
         ],
         "paragraphs": [
@@ -140944,7 +140939,7 @@ export const reviewsData: unknown[] = [
         "heading": "ウォッシュ加工のゆったりした黒タンクトップ",
         "bullets": [
           "10月28日の価格：約2,010円（約2,520円から、-20%）。",
-          "商品ページのサイズ：P〜EG。商品ページには Plus サイズもあります。",
+          "商品ページのサイズ：S〜XXL。商品ページには Plus サイズもあります。",
           "商品ページの評価は4.73、レビューは500件以上。"
         ],
         "paragraphs": [
@@ -140967,7 +140962,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**価格は毎日変わります：** 各アイテムの価格と割引は、2026年10月28日の SHEIN の商品ページのものです。SHEIN はキャンペーン中に価格を変えますし、「〜から」は色やサイズで価格が変わるという意味です。",
           "**サイズ：** アイテムごとにサイズ感が違うので、選ぶ前に商品ページのサイズ表を確認してください。",
-          "**サイズは SHEIN の商品ページに表示されていたままの、ブラジルの表記（PP、P、M、G、GG、EG）で書いています。** 開いたページのサイズ表で確認してください。",
           "**4CW5Y は紹介コードで、クーポンではありません：** アプリの検索バーで検索するもので、チェックアウトには貼り付けません。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについてわかっていることをまとめています。",
           "**SHEIN で初めて買いますか？** 先に [SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja) のガイドをお読みください。"
@@ -141179,7 +141173,7 @@ export const reviewsData: unknown[] = [
         "heading": "Serenescape 꽃무늬 잠옷",
         "bullets": [
           "10월 28일 가격: 약 13,100원 (기존 약 16,300원, -20%).",
-          "상품 페이지의 사이즈: PP~EG.",
+          "상품 페이지의 사이즈: XS~XXL.",
           "평점 4.91, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141201,7 +141195,7 @@ export const reviewsData: unknown[] = [
         "heading": "하트 무늬 스트라이프 민소매 잠옷 세트",
         "bullets": [
           "10월 28일 가격: 약 11,100원부터.",
-          "상품 페이지의 사이즈: XPP~EG.",
+          "상품 페이지의 사이즈: XXS~XXL.",
           "평점 4.86, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141223,7 +141217,7 @@ export const reviewsData: unknown[] = [
         "heading": "카툰 프린트 3피스 잠옷",
         "bullets": [
           "10월 28일 가격: 약 8,600원 (기존 약 10,800원, -20%).",
-          "상품 페이지의 사이즈: PP~EG.",
+          "상품 페이지의 사이즈: XS~XXL.",
           "평점 4.95, 리뷰 1,000개 이상으로 셀렉션에서 가장 높은 평점입니다."
         ],
         "paragraphs": [
@@ -141345,7 +141339,7 @@ export const reviewsData: unknown[] = [
         "heading": "블루 스트라이프 민소매 상의와 와이드 팬츠 세트",
         "bullets": [
           "10월 28일 가격: 약 23,500원부터 (기존 약 29,400원, -20%).",
-          "상품 페이지의 사이즈: XPP~EG.",
+          "상품 페이지의 사이즈: XXS~XXL.",
           "평점 4.70, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141367,7 +141361,7 @@ export const reviewsData: unknown[] = [
         "heading": "DAZY 슬림 스포티 가디건",
         "bullets": [
           "10월 28일 가격: 약 11,400원 (기존 약 16,600원, -31%).",
-          "상품 페이지의 사이즈: XPP~P와 Petite.",
+          "상품 페이지의 사이즈: S~L와 Petite.",
           "평점 4.78, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141389,7 +141383,7 @@ export const reviewsData: unknown[] = [
         "heading": "페이퍼백 허리 프린트 쇼츠",
         "bullets": [
           "10월 28일 가격: 약 4,100원 (기존 약 11,800원, -65%).",
-          "상품 페이지의 사이즈: XPP~EG, Plus도 있습니다.",
+          "상품 페이지의 사이즈: XXS~XXL, Plus도 있습니다.",
           "평점 4.88, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141411,7 +141405,7 @@ export const reviewsData: unknown[] = [
         "heading": "밴딩 허리 와이드 데님 팬츠",
         "bullets": [
           "10월 28일 가격: 약 33,200원 (기존 약 41,500원, -20%).",
-          "상품 페이지의 사이즈: PP~G.",
+          "상품 페이지의 사이즈: XS~L.",
           "평점 4.31, 리뷰 48개."
         ],
         "paragraphs": [
@@ -141439,7 +141433,7 @@ export const reviewsData: unknown[] = [
         "heading": "화이트와 카라멜 슬링백 펌프스",
         "bullets": [
           "10월 28일 가격: 약 15,600원 (기존 약 25,100원, -38%).",
-          "상품 페이지의 사이즈: BR34~BR39.",
+          "상품 페이지의 사이즈: BR34~BR39 (상품 페이지의 브라질 신발 치수).",
           "평점 4.82, 리뷰 100개 이상."
         ],
         "paragraphs": [
@@ -141526,14 +141520,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "남성",
         "paragraphs": [
-          "남성 의류 네 가지입니다. 헨리넥 티셔츠, 쇼츠 세트, 긴소매 셔츠, 탱크톱입니다. 둘은 상품 페이지에서 EG를 넘어갑니다. 헨리넥은 EEGG까지, 탱크톱은 Plus까지 있습니다."
+          "남성 의류 네 가지입니다. 헨리넥 티셔츠, 쇼츠 세트, 긴소매 셔츠, 탱크톱입니다. 둘은 상품 페이지에서 XXL을 넘어갑니다. 헨리넥은 XXXL까지, 탱크톱은 Plus까지 있습니다."
         ]
       },
       {
         "heading": "린넨 질감 네이비 헨리넥 티셔츠",
         "bullets": [
           "10월 28일 가격: 약 12,500원부터 (기존 약 15,600원, -20%).",
-          "상품 페이지의 사이즈: PP~EEGG.",
+          "상품 페이지의 사이즈: XS~XXXL.",
           "평점 4.61, 리뷰 500개 이상."
         ],
         "paragraphs": [
@@ -141555,7 +141549,7 @@ export const reviewsData: unknown[] = [
         "heading": "린넨 쇼츠 세트",
         "bullets": [
           "10월 28일 가격: 약 11,900원 (기존 약 25,100원, -53%).",
-          "상품 페이지의 사이즈: P~GG.",
+          "상품 페이지의 사이즈: S~XL.",
           "평점 4.76, 리뷰 34개."
         ],
         "paragraphs": [
@@ -141577,7 +141571,7 @@ export const reviewsData: unknown[] = [
         "heading": "Manfinity Mode 남성 긴소매 셔츠",
         "bullets": [
           "10월 28일 가격: 약 17,900원부터 (기존 약 22,400원, -20%).",
-          "상품 페이지의 사이즈: PP~EG.",
+          "상품 페이지의 사이즈: XS~XXL.",
           "평점 4.86, 리뷰 1,000개 이상."
         ],
         "paragraphs": [
@@ -141599,7 +141593,7 @@ export const reviewsData: unknown[] = [
         "heading": "루즈핏 워싱 블랙 탱크톱",
         "bullets": [
           "10월 28일 가격: 약 17,100원 (기존 약 21,400원, -20%).",
-          "상품 페이지의 사이즈: P~EG, Plus도 있습니다.",
+          "상품 페이지의 사이즈: S~XXL, Plus도 있습니다.",
           "평점 4.73, 리뷰 500개 이상."
         ],
         "paragraphs": [
@@ -141622,7 +141616,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**가격은 매일 바뀝니다:** 각 상품의 가격과 할인율은 2026년 10월 28일 SHEIN 상품 페이지 기준입니다. SHEIN은 캠페인 중에 가격을 바꾸고, \"부터\"는 색상이나 사이즈에 따라 가격이 달라진다는 뜻입니다.",
           "**사이즈:** 사이즈 구성은 상품마다 다르니, 고르기 전에 상품 페이지의 사이즈표를 확인하세요.",
-          "**사이즈 표기:** 이 글의 사이즈는 SHEIN 상품 페이지에 표시된 그대로, 브라질식 글자(PP, P, M, G, EG 등)로 적었습니다. 열리는 페이지의 사이즈표에서 치수를 확인하세요.",
           "**4CW5Y는 추천 코드이지 쿠폰이 아닙니다:** 앱의 검색창에서 검색하는 코드이고 결제 화면에 붙여 넣지 않습니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 쇼핑몰의 기본 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
           "**SHEIN에서 처음 사시나요?** 먼저 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko) 가이드를 읽어 보세요."
@@ -141834,7 +141827,7 @@ export const reviewsData: unknown[] = [
         "heading": "Serenescape 碎花睡衣",
         "bullets": [
           "10 月 28 日价格：约 65 元（原价约 81 元，-20%）。",
-          "商品页尺码：PP 到 EG。",
+          "商品页尺码：XS 到 XXL。",
           "商品页评分 4.91，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -141856,7 +141849,7 @@ export const reviewsData: unknown[] = [
         "heading": "条纹爱心背心短裤睡衣",
         "bullets": [
           "10 月 28 日价格：约 55 元起。",
-          "商品页尺码：XPP 到 EG。",
+          "商品页尺码：XXS 到 XXL。",
           "商品页评分 4.86，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -141878,7 +141871,7 @@ export const reviewsData: unknown[] = [
         "heading": "卡通印花三件套睡衣",
         "bullets": [
           "10 月 28 日价格：约 43 元（原价约 54 元，-20%）。",
-          "商品页尺码：PP 到 EG。",
+          "商品页尺码：XS 到 XXL。",
           "商品页评分 4.95，评价超过 1000 条，是本文里最高的。"
         ],
         "paragraphs": [
@@ -142000,7 +141993,7 @@ export const reviewsData: unknown[] = [
         "heading": "蓝色条纹背心阔腿裤套装",
         "bullets": [
           "10 月 28 日价格：约 117 元起（原价约 146 元，-20%）。",
-          "商品页尺码：XPP 到 EG。",
+          "商品页尺码：XXS 到 XXL。",
           "商品页评分 4.70，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -142022,7 +142015,7 @@ export const reviewsData: unknown[] = [
         "heading": "DAZY 修身运动开衫",
         "bullets": [
           "10 月 28 日价格：约 57 元（原价约 82 元，-31%）。",
-          "商品页尺码：XPP 到 P，另有 Petite。",
+          "商品页尺码：S 到 L，另有 Petite。",
           "商品页评分 4.78，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -142044,7 +142037,7 @@ export const reviewsData: unknown[] = [
         "heading": "纸袋腰印花短裤",
         "bullets": [
           "10 月 28 日价格：约 21 元（原价约 59 元，-65%）。",
-          "商品页尺码：XPP 到 EG，商品页也列出 Plus。",
+          "商品页尺码：XXS 到 XXL，商品页也列出 Plus。",
           "商品页评分 4.88，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -142066,7 +142059,7 @@ export const reviewsData: unknown[] = [
         "heading": "松紧腰阔腿牛仔裤",
         "bullets": [
           "10 月 28 日价格：约 165 元（原价约 206 元，-20%）。",
-          "商品页尺码：PP 到 G。",
+          "商品页尺码：XS 到 L。",
           "商品页评分 4.31，48 条评价。"
         ],
         "paragraphs": [
@@ -142094,7 +142087,7 @@ export const reviewsData: unknown[] = [
         "heading": "白色焦糖色后空高跟鞋",
         "bullets": [
           "10 月 28 日价格：约 77 元（原价约 124 元，-38%）。",
-          "商品页尺码：BR34 到 BR39。",
+          "商品页尺码：BR34 到 BR39（商品页上的巴西鞋码）。",
           "商品页评分 4.82，评价超过 100 条。"
         ],
         "paragraphs": [
@@ -142181,14 +142174,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "男装",
         "paragraphs": [
-          "四件男装：一件亨利领 T 恤、一套短裤、一件长袖衬衫和一件背心。有两件在商品页上超过 EG：亨利领到 EEGG，背心有 Plus。"
+          "四件男装：一件亨利领 T 恤、一套短裤、一件长袖衬衫和一件背心。有两件在商品页上超过 XXL：亨利领到 XXXL，背心有 Plus。"
         ]
       },
       {
         "heading": "藏青色亚麻纹理亨利领 T 恤",
         "bullets": [
           "10 月 28 日价格：约 62 元起（原价约 77 元，-20%）。",
-          "商品页尺码：PP 到 EEGG。",
+          "商品页尺码：XS 到 XXXL。",
           "商品页评分 4.61，评价超过 500 条。"
         ],
         "paragraphs": [
@@ -142210,7 +142203,7 @@ export const reviewsData: unknown[] = [
         "heading": "亚麻短裤套装",
         "bullets": [
           "10 月 28 日价格：约 59 元（原价约 125 元，-53%）。",
-          "商品页尺码：P 到 GG。",
+          "商品页尺码：S 到 XL。",
           "商品页评分 4.76，34 条评价。"
         ],
         "paragraphs": [
@@ -142232,7 +142225,7 @@ export const reviewsData: unknown[] = [
         "heading": "Manfinity Mode 男士长袖衬衫",
         "bullets": [
           "10 月 28 日价格：约 89 元起（原价约 111 元，-20%）。",
-          "商品页尺码：PP 到 EG。",
+          "商品页尺码：XS 到 XXL。",
           "商品页评分 4.86，评价超过 1000 条。"
         ],
         "paragraphs": [
@@ -142254,7 +142247,7 @@ export const reviewsData: unknown[] = [
         "heading": "宽松水洗黑色背心",
         "bullets": [
           "10 月 28 日价格：约 85 元（原价约 106 元，-20%）。",
-          "商品页尺码：P 到 EG，商品页也列出 Plus。",
+          "商品页尺码：S 到 XXL，商品页也列出 Plus。",
           "商品页评分 4.73，评价超过 500 条。"
         ],
         "paragraphs": [
@@ -142277,7 +142270,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**价格天天变：**每件的价格和折扣都是 2026 年 10 月 28 日 SHEIN 商品页上的。SHEIN 在活动期间会调价，\"起\"表示价格随颜色或尺码变动。",
           "**尺码：**每件的尺码表都不一样，选之前先看商品页自己的尺码表。",
-          "**尺码写法：**本文的尺码按 SHEIN 商品页当时显示的写，用的是巴西字母（PP、P、M、G、EG 等）。请在打开的页面核对尺码表上的具体尺寸。",
           "**4CW5Y 是推荐码，不是优惠券：**在 App 的搜索栏里搜索，不粘贴到结算页。见 [SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的 [SHEIN 店铺页面](/zh-hans/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南整理了 11 月活动目前已知的信息。",
           "**第一次在 SHEIN 买？**先读 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)这篇指南。"
@@ -142489,7 +142481,7 @@ export const reviewsData: unknown[] = [
         "heading": "Serenescape 碎花睡衣",
         "bullets": [
           "10 月 28 日價格：約 NT$320（原價約 NT$390，-20%）。",
-          "商品頁尺寸：PP 到 EG。",
+          "商品頁尺寸：XS 到 XXL。",
           "商品頁評分 4.91，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142511,7 +142503,7 @@ export const reviewsData: unknown[] = [
         "heading": "條紋愛心背心短褲睡衣",
         "bullets": [
           "10 月 28 日價格：約 NT$270 起。",
-          "商品頁尺寸：XPP 到 EG。",
+          "商品頁尺寸：XXS 到 XXL。",
           "商品頁評分 4.86，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142533,7 +142525,7 @@ export const reviewsData: unknown[] = [
         "heading": "卡通印花三件式睡衣",
         "bullets": [
           "10 月 28 日價格：約 NT$210（原價約 NT$260，-20%）。",
-          "商品頁尺寸：PP 到 EG。",
+          "商品頁尺寸：XS 到 XXL。",
           "商品頁評分 4.95，評價超過 1000 則，是本文裡最高的。"
         ],
         "paragraphs": [
@@ -142655,7 +142647,7 @@ export const reviewsData: unknown[] = [
         "heading": "藍色條紋背心寬褲套裝",
         "bullets": [
           "10 月 28 日價格：約 NT$570 起（原價約 NT$710，-20%）。",
-          "商品頁尺寸：XPP 到 EG。",
+          "商品頁尺寸：XXS 到 XXL。",
           "商品頁評分 4.70，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142677,7 +142669,7 @@ export const reviewsData: unknown[] = [
         "heading": "DAZY 修身運動開襟衫",
         "bullets": [
           "10 月 28 日價格：約 NT$280（原價約 NT$400，-31%）。",
-          "商品頁尺寸：XPP 到 P，另有 Petite。",
+          "商品頁尺寸：S 到 L，另有 Petite。",
           "商品頁評分 4.78，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142699,7 +142691,7 @@ export const reviewsData: unknown[] = [
         "heading": "紙袋腰印花短褲",
         "bullets": [
           "10 月 28 日價格：約 NT$100（原價約 NT$290，-65%）。",
-          "商品頁尺寸：XPP 到 EG，商品頁也列出 Plus。",
+          "商品頁尺寸：XXS 到 XXL，商品頁也列出 Plus。",
           "商品頁評分 4.88，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142721,7 +142713,7 @@ export const reviewsData: unknown[] = [
         "heading": "鬆緊腰寬褲牛仔褲",
         "bullets": [
           "10 月 28 日價格：約 NT$800（原價約 NT$1,000，-20%）。",
-          "商品頁尺寸：PP 到 G。",
+          "商品頁尺寸：XS 到 L。",
           "商品頁評分 4.31，48 則評價。"
         ],
         "paragraphs": [
@@ -142749,7 +142741,7 @@ export const reviewsData: unknown[] = [
         "heading": "白色焦糖色後空高跟鞋",
         "bullets": [
           "10 月 28 日價格：約 NT$380（原價約 NT$600，-38%）。",
-          "商品頁尺寸：BR34 到 BR39。",
+          "商品頁尺寸：BR34 到 BR39（商品頁上的巴西鞋碼）。",
           "商品頁評分 4.82，評價超過 100 則。"
         ],
         "paragraphs": [
@@ -142836,14 +142828,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "男裝",
         "paragraphs": [
-          "四件男裝：一件亨利領 T 恤、一組短褲、一件長袖襯衫和一件背心。有兩件在商品頁上超過 EG：亨利領到 EEGG，背心有 Plus。"
+          "四件男裝：一件亨利領 T 恤、一組短褲、一件長袖襯衫和一件背心。有兩件在商品頁上超過 XXL：亨利領到 XXXL，背心有 Plus。"
         ]
       },
       {
         "heading": "深藍色亞麻紋理亨利領 T 恤",
         "bullets": [
           "10 月 28 日價格：約 NT$300 起（原價約 NT$380，-20%）。",
-          "商品頁尺寸：PP 到 EEGG。",
+          "商品頁尺寸：XS 到 XXXL。",
           "商品頁評分 4.61，評價超過 500 則。"
         ],
         "paragraphs": [
@@ -142865,7 +142857,7 @@ export const reviewsData: unknown[] = [
         "heading": "亞麻短褲套組",
         "bullets": [
           "10 月 28 日價格：約 NT$290（原價約 NT$610，-53%）。",
-          "商品頁尺寸：P 到 GG。",
+          "商品頁尺寸：S 到 XL。",
           "商品頁評分 4.76，34 則評價。"
         ],
         "paragraphs": [
@@ -142887,7 +142879,7 @@ export const reviewsData: unknown[] = [
         "heading": "Manfinity Mode 男士長袖襯衫",
         "bullets": [
           "10 月 28 日價格：約 NT$430 起（原價約 NT$540，-20%）。",
-          "商品頁尺寸：PP 到 EG。",
+          "商品頁尺寸：XS 到 XXL。",
           "商品頁評分 4.86，評價超過 1000 則。"
         ],
         "paragraphs": [
@@ -142909,7 +142901,7 @@ export const reviewsData: unknown[] = [
         "heading": "寬鬆水洗黑色背心",
         "bullets": [
           "10 月 28 日價格：約 NT$410（原價約 NT$520，-20%）。",
-          "商品頁尺寸：P 到 EG，商品頁也列出 Plus。",
+          "商品頁尺寸：S 到 XXL，商品頁也列出 Plus。",
           "商品頁評分 4.73，評價超過 500 則。"
         ],
         "paragraphs": [
@@ -142932,7 +142924,6 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**價格天天變：**每件的價格和折扣都是 2026 年 10 月 28 日 SHEIN 商品頁上的。SHEIN 在活動期間會調價，「起」表示價格隨顏色或尺寸變動。",
           "**尺寸：**每件的尺寸表都不一樣，選之前先看商品頁自己的尺寸表。",
-          "**尺寸寫法：**本文的尺寸按 SHEIN 商品頁當時顯示的寫，用的是巴西字母（PP、P、M、G、EG 等）。請在開啟的頁面核對尺寸表上的實際尺寸。",
           "**4CW5Y 是推薦碼，不是優惠券：**在 App 的搜尋欄搜尋，不貼到結帳頁。見 [SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和有商店主連結的 [SHEIN 商店頁面](/zh-hant/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南整理了 11 月活動目前已知的資訊。",
           "**第一次在 SHEIN 買？**先讀 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)這篇指南。"
