@@ -5,9 +5,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 lote: "2710 (B2)"
@@ -130,3 +130,6 @@ Frase abaixo da tabela: cupom MAUAD 10% (soma com promoção e com o Pix de 5%, 
 3. Imagens: fotos dos produtos das fichas da loja e as tabelas nutricionais (Job 6).
 4. Título "qual compensa por grama de proteína" e tabela dos 8 sabores. A proteína do proteico é de soja isolada; os dois têm soja e nenhum tem leite na lista.
 5. Snack de arroz sabor churrasco: nada sobre ser ou não vegano (a ficha do combo e a lista de ingredientes divergem).
+
+## Redação (28/10/2026)
+- No main (PR #331, id 628). Preços relidos no Chrome em 28/10, sem mudança.

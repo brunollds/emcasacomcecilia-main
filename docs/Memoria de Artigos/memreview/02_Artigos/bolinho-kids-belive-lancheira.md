@@ -5,9 +5,9 @@ parceiro: "[[Belive]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 affiliate: "belive"
 modo_i18n: "somente-pt"
@@ -101,3 +101,6 @@ Lote 27/10/2026, pauta B3 da rodada Belive. Preços e rótulos de 27/10/2026. Ar
 4. O texto avisa que o "Kit Lanche Escolar" de 25 unidades não traz nenhum bolinho kids (só bolinhos adultos de 40 g).
 5. Sabor Morango fora da tabela até conferir a embalagem: o rótulo publicado se chama "Baunilha com Morango".
 6. Sem aviso próprio sobre polióis (o rótulo lido não traz); sem "saudável", porção ou idade. Brinde da lancheirinha fora (sem regra publicada).
+
+## Redação (28/10/2026)
+- No main (PR #331, id 629). Preços relidos no Chrome em 28/10, sem mudança.
