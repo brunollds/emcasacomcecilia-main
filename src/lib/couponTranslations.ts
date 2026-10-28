@@ -707,7 +707,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
     longDescription:
       "Hostinger's referral link takes 20% off the first term of a new plan of 12 months or longer, applied at checkout with nothing to type: web hosting, VPS, business email or the AI agent plans (OpenClaw). On the 1-month term the Premium and Unlimited web hosting plans show no referral discount (only the Startup plan still did), renewals are at the regular price and it does not stack with other coupons. Em Casa com Cecília has run on Hostinger since 2024; link checked on October 24, 2026.",
     metaTitle:
-      'Hostinger Referral: 20% Off via Link, No Code Needed',
+      'Hostinger Referral Link 2026: 20% Off, No Code Needed',
     metaDescription:
       "Yes, Hostinger's 20% referral discount is real: open the link and the first term of a 12-month or longer plan drops 20%. No code. Checked Oct 2026.",
     eligibleCategories:
