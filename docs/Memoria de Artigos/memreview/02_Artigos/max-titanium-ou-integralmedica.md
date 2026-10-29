@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 modo_i18n: "somente-pt"
@@ -169,3 +169,9 @@ Fatos: `max-titanium-ou-integralmedica-fatos-2810.md`, ao lado (vale sobre o nom
 1. Dose, número de doses, Creapure e proteína por porção só com o número lido na tabela do rótulo (imagem da ficha). Sem o rótulo, o texto compara o preço por 100 g do produto. Texto de benefício das fichas ("força", "recuperação", "massa magra") fica fora; sem alegação de saúde ou desempenho; ninguém do site usou os produtos.
 2. Tamanhos pelo critério da `black-skull-ou-integralmedica` (série): 900 g contra 900 g e 1,8 kg contra 1,8 kg; isolados numa frase. Preços da Integralmédica lidos no Chrome em 28/10 (seção "Integralmédica: preços lidos no Chrome" do fatos): creatina 300 g R$ 50,00, 1 kg R$ 125,00 (era R$ 156,00 em 25/10), Creapure 300 g R$ 184,00, Hardcore 500 g R$ 83,00; whey pouch 900 g R$ 227,00, pote 900 g R$ 240,00, pouch 1,8 kg R$ 404,00, isolado 900 g R$ 483,00. Reler no dia.
 3. Whey da Max: 900 g (pote e refil) e Whey Pro 1 kg; IsoWhey numa frase, sem repetir o `max-titanium-ou-growth`. Sucralose da Integralmédica entra como fato do rótulo, sem adjetivo.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (id 655), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp`), no CDN.
+- A capa mostra o Whey Pro 1 kg: a creatina 500 g já estava em outras duas capas da Max (troca pedida pelo Bruno em 28/10).
+- Pendente: reler preços antes da Black Friday.

@@ -6,9 +6,9 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 publicado_em: null
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
@@ -165,3 +165,10 @@ Fatos: `hostinger-horizons-vale-a-pena-fatos-2810.md`, ao lado (vale sobre o nom
 2. Fatos do site, sem experiência de uso do produto: o emcasacomcecilia.com roda em hospedagem gerenciada da Hostinger (Node.js Web App) e o domínio está registrado na Hostinger desde 17/11/2024 (RDAP, lido em 28/10/2026).
 3. "Domínio grátis por 1 ano" só como item do plano, nunca no título nem como vantagem destacada.
 4. O Horizons virou o "Criador com IA" (Hostinger AI Builder): `/horizons` redireciona para `/ai-builder`, que diz que o construtor de sites e o Horizons se fundiram (modos Manual e Agentic). O Criador vem nos planos de hospedagem, aos mesmos preços. O texto usa o nome atual e explica uma vez que é o antigo Horizons (as buscas ainda usam "Horizons"). Wix e Lovable na comparação, sem link.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (família `hostinger-ai-builder`, ids 656–665, 10 idiomas), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp`), no CDN.
+- Fora do PT: só os preços em dólar do site internacional (fatos, leitura de 28/10), com a renovação ao lado; planos com os nomes de lá (Premium, Unlimited e Cloud Startup; o Single não aparece no site internacional) e o exemplo de extensão de país no idioma de cada versão.
+- Créditos de IA conferidos na página internacional (os mesmos da brasileira); a loja "grátis por 3 meses" só existe na página brasileira e ficou só no PT.
+- Pendente: reler preços antes da Black Friday.

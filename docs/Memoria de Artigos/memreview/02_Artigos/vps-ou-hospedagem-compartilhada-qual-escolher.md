@@ -6,9 +6,9 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 publicado_em: null
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
@@ -167,3 +167,9 @@ Fatos: `vps-ou-hospedagem-compartilhada-qual-escolher-fatos-2810.md`, ao lado (v
 2. Fatos do site, sem experiência de uso do produto: o emcasacomcecilia.com roda em hospedagem gerenciada da Hostinger (Node.js Web App) e o domínio está registrado na Hostinger desde 17/11/2024 (RDAP, lido em 28/10/2026).
 3. "Domínio grátis por 1 ano" só como item do plano, nunca no título nem como vantagem destacada.
 4. Título sem OpenClaw; o corpo remete uma vez a cada artigo de OpenClaw.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (família `hostinger-vps-ou-compartilhada`, ids 676–685, 10 idiomas), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp`), no CDN.
+- Fora do PT: só os preços em dólar do site internacional (fatos, leitura de 28/10), com a renovação ao lado; planos com os nomes de lá (Premium, Unlimited e Cloud Startup; o Single não aparece no site internacional) e o exemplo de extensão de país no idioma de cada versão.
+- Pendente: reler preços antes da Black Friday.

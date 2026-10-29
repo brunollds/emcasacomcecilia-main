@@ -213,15 +213,15 @@ Rodada para as lojas com poucos artigos (Probiótica 6, Max Titanium 7, Hostinge
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| P1 | Probiótica ou Integralmédica | **Pauta aprovada em 28/10/2026:** [[probiotica-ou-integralmedica]] |
-| P2 | Creatina Probiótica: qual versão compensa | **Pauta aprovada em 28/10/2026:** [[creatina-probiotica-qual-compensa]] |
-| P3 | Creatina monodose: sachê ou pote | **Pauta aprovada em 28/10/2026:** [[monodose-probiotica-sache-ou-pote]] |
-| M1 | Creatina Max Titanium: qual pote | **Pauta aprovada em 28/10/2026:** [[creatina-max-titanium-qual-pote]] |
-| M2 | Pré-treino Hórus ou Égide | **Pauta aprovada em 28/10/2026:** [[pre-treino-max-titanium-horus-ou-egide]] |
-| M3 | Max Titanium ou Integralmédica | **Pauta aprovada em 28/10/2026:** [[max-titanium-ou-integralmedica]] |
-| H1 | Criador com IA (antigo Horizons) | **Pauta aprovada em 28/10/2026:** [[hostinger-horizons-vale-a-pena]] |
-| H2 | Domínio: comprar, transferir ou fora | **Pauta aprovada em 28/10/2026:** [[dominio-hostinger-comprar-transferir-ou-fora]] |
-| H3 | VPS ou hospedagem compartilhada | **Pauta aprovada em 28/10/2026:** [[vps-ou-hospedagem-compartilhada-qual-escolher]] |
+| P1 | Probiótica ou Integralmédica | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[probiotica-ou-integralmedica]] |
+| P2 | Creatina Probiótica: qual versão compensa | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[creatina-probiotica-qual-compensa]] |
+| P3 | Creatina monodose: sachê ou pote | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[monodose-probiotica-sache-ou-pote]] |
+| M1 | Creatina Max Titanium: qual pote | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[creatina-max-titanium-qual-pote]] |
+| M2 | Pré-treino Hórus ou Égide | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[pre-treino-max-titanium-horus-ou-egide]] |
+| M3 | Max Titanium ou Integralmédica | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[max-titanium-ou-integralmedica]] |
+| H1 | Criador com IA (antigo Horizons) | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[hostinger-horizons-vale-a-pena]] |
+| H2 | Domínio: comprar, transferir ou fora | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[dominio-hostinger-comprar-transferir-ou-fora]] |
+| H3 | VPS ou hospedagem compartilhada | **Publicado em 29/10/2026** (#343, release `b4c436fa`): [[vps-ou-hospedagem-compartilhada-qual-escolher]] |
 | Reserva | Probiótica: hipercalórico Massa Nitro; Max: IsoWhey, Top Whey 3W por tamanho; Hostinger: WordPress, concorrente local, e-mail ou Gmail, Next.js ou Vercel | Estoque |
 
 Descartados: colágeno e "probiótica é bom para..." (saúde e homônimo), Mass 17500 e Multimax (já nos comparativos), planos e renovação da Hostinger (já no BF e no cupom-indicação).

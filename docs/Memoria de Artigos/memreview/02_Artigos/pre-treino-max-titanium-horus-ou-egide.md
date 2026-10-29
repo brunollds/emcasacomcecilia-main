@@ -6,9 +6,9 @@ parceiro: "[[Max-Titanium]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redacao"
+proxima_acao: "reler preços antes da Black Friday"
 bloqueado_por: "-"
 data_criacao: "2026-10-28"
 modo_i18n: "somente-pt"
@@ -146,3 +146,9 @@ Fatos: `pre-treino-max-titanium-horus-ou-egide-fatos-2810.md`, ao lado (vale sob
 1. Dose, número de doses, Creapure e proteína por porção só com o número lido na tabela do rótulo (imagem da ficha). Sem o rótulo, o texto compara o preço por 100 g do produto. Texto de benefício das fichas ("força", "recuperação", "massa magra") fica fora; sem alegação de saúde ou desempenho; ninguém do site usou os produtos.
 2. Cafeína pelo texto das fichas: Hórus 150 mg, Égide 200 mg (Égide também 2.000 mg de beta-alanina e 263 mg de tirosina, Chrome 28/10). Preço por dose só com o número de doses do rótulo.
 3. Night Train: a ficha diz "sem cafeína". No mesmo PR, corrigir a frase do `max-titanium-ou-dux` que diz que a Max não tem pré-treino sem cafeína.
+
+## Publicação (29/10/2026)
+- No ar em 29/10/2026 02:21 UTC: PR #343 (id 654), release `b4c436fa`.
+- Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp`), no CDN.
+- O max-titanium-ou-dux passou a citar o Night Train no mesmo PR.
+- Pendente: reler preços antes da Black Friday.
