@@ -12,6 +12,10 @@
 - [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
 - [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
 - [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
+- [ ] [[faqueiro-laguiole-la-maison-qual-escolher]]: Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças; R$ 469 a R$ 1.099) (PT); no mesmo PR, trocar o Marfim 30 esgotado em 2 artigos
+- [ ] [[mesa-posta-dia-a-dia-barata]]: Mesa posta do dia a dia: o que comprar por peça e em que ordem (2 e 4 pessoas) (PT)
+- [ ] [[guardanapo-de-tecido-quantos-tamanho]]: Guardanapo de tecido: quantos por pessoa e qual tamanho (45x45 ou 40x40) (PT)
+- [ ] [[jogo-americano-tecido-tamanho-cor]]: Jogo americano de tecido: redondo ou retangular, tamanho e cor (Ø36,5 a 35x50) (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
