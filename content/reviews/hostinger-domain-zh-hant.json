@@ -1,0 +1,237 @@
+{
+  "id": 675,
+  "slug": "hostinger-domain-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-dominio",
+  "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？價格、續訂與下單前要確認什麼",
+  "seoTitle": "Hostinger 網域：購買、轉入還是別處註冊",
+  "type": "選擇指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 網域的三條路（在這裡買、在別處買再指向過來、轉入），2026年10月28日 .com 的註冊價與續訂價，以及付款前要確認什麼。",
+  "metaDescription": "網域在 Hostinger 買、在別處註冊再指向，還是轉入？.com 的價格與續訂價並列、60 天規則、網域歸誰，以及付款前的清單。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+  "imageAlt": "Hostinger 標誌旁是網域的三條路：在 Hostinger 購買、在別處購買再指向過來，或轉入",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "網域和主機是兩個獨立的帳戶：可以放在 Hostinger，也可以放在其他註冊商，網站兩種方式都能正常運作。選擇時看續訂價和日後離開是否方便，而不是看第一年。想把一切放在同一個控制台，就在 Hostinger 購買；轉入只做註冊滿 60 天的網域。2026年10月28日的價格見下文。"
+      ]
+    },
+    {
+      "heading": "網域和主機是兩個帳戶",
+      "paragraphs": [
+        "網域是地址，也就是別人輸入的那個名字。主機是網站所在的那台電腦。兩者分開付費，也不必在同一家公司：在一家公司註冊的網域，可以指向另一家公司的主機。Hostinger 的頁面自己也說，在它那裡註冊的網域可以指向其他主機商。",
+        "所以要決定的不是「選不選 Hostinger」，而是網域註冊放在哪裡、每年續訂多少錢，以及有一天換主機會怎樣。便宜的第一年最不重要：只要網站還在，網域就要年年續訂。"
+      ]
+    },
+    {
+      "heading": "三條路",
+      "paragraphs": [
+        "架網站的人，網域有三種選擇。下面的圖和表依 2026年10月28日讀取的 Hostinger 頁面，整理每條路有什麼不同。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+        "alt": "圖示網域的三條路：隨主機一起購買（註冊在 Hostinger）、轉入（註冊轉到 Hostinger）、留在外面再指向（註冊留在原處）；三條路網域都是你的，不同的只是誰來收續訂費",
+        "caption": "網域的三條路，依據 2026年10月28日讀取的 Hostinger 頁面。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
+      "comparisonTable": {
+        "headers": [
+          "路徑",
+          "什麼時候合適",
+          "續訂",
+          "如果換主機",
+          "網域歸誰"
+        ],
+        "rows": [
+          [
+            "在 Hostinger 購買",
+            "你要把網站託管在 Hostinger，想讓網域、DNS 和續訂都在同一個控制台",
+            "依 Hostinger 價目表的續訂價，每年一次",
+            "網域留在 Hostinger；把 DNS 指向新主機，或日後再轉出",
+            "你，以你的名字註冊"
+          ],
+          [
+            "在別處購買再指向",
+            "你在其他註冊商已有網域，或想把帳戶分開",
+            "依網域所在註冊商的價格",
+            "網域不變，只改指向",
+            "你，在另一家註冊商"
+          ],
+          [
+            "轉入 Hostinger",
+            "你的網域已註冊超過 60 天，想把一切放在一處",
+            "從下一年起依 Hostinger 的續訂價",
+            "與第一條路相同",
+            "你；轉入不改變所有權資料"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "符合條件的主機方案（如 Premium）第一年附帶一個網域，限指定後綴；從第二年起依價目表的正常價格續訂。這是方案裡的一項，不是選哪條路的理由：起作用的是續訂價。"
+      ]
+    },
+    {
+      "heading": "Hostinger 的價格",
+      "paragraphs": [
+        "以下是 Hostinger 國際站（美元）網域搜尋頁的價格，透過推薦連結進入，於 2026年10月28日黑色星期五活動期間讀取。價格可能因國家和貨幣而不同，請以購物車為準。第一年的低價需選擇 3 年期；續訂按年計，從已付期限結束後開始。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "後綴",
+          "第一年",
+          "續訂（每年）",
+          "轉入 Hostinger"
+        ],
+        "rows": [
+          [
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 19.99，或選 3 年期時 US$ 0.01",
+            "US$ 19.99",
+            "US$ 9.99"
+          ],
+          [
+            "[其他後綴](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "見頁面",
+            "見頁面",
+            "見頁面"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "這樣看：.com 的續訂價和第一年的全價一樣，都是 US$ 19.99，第二年不會跳價。而第一年特別便宜的後綴，續訂價可能翻好幾倍：入門價說明不了第二年要付多少。永遠看續訂那一欄。",
+        "選 3 年期時，US$ 0.01 只是第一年的價格；頁面在購物車之外不顯示三年總額，付款前請核對金額。Hostinger 提供 500 多種後綴，每種的註冊價、續訂價和轉入費都在同一頁的價格比較裡。",
+        "聯絡資料保護（RDAP，也就是過去的 WHOIS）在支援的後綴中免費包含。國家網域（如 .tw）遵循各國註冊機構的規則，價格也隨貨幣變化。"
+      ]
+    },
+    {
+      "heading": "轉入：60 天規則與步驟",
+      "paragraphs": [
+        "轉入是把網域的註冊從一家公司換到另一家。Hostinger 的轉移頁面說，過程中網站和電子郵件照常運作，所有權資料也不變。變的是誰來收續訂費，以及你在哪裡管理 DNS。",
+        "規則如下，依據 2026年10月28日讀取的 Hostinger 頁面："
+      ],
+      "bullets": [
+        "**註冊時長：**多數情況下，網域需註冊滿 60 天。在 Hostinger 新註冊的網域同樣要鎖 60 天才能轉出。",
+        "**解鎖與代碼：**在現有註冊商的控制台解鎖網域，取得授權碼（EPP 碼，或叫轉移碼）。",
+        "**確認：**在 Hostinger 填入代碼後，註冊商會寄一封確認信。不確認，轉移就不會進行。",
+        "**時間：**最多七天；如果現有註冊商很快放行、你也馬上確認信件，會更快。",
+        "**費用：**不是免費的。多數通用後綴（.com、.net、.org）的轉入費已包含額外一年註冊，加在你原有的期限上。.com 的轉入費為 US$ 9.99（2026年10月28日）。"
+      ],
+      "postParagraphs": [
+        "頁面上的步驟針對 .com 這類通用後綴。國家網域由各國註冊機構管理，申請代碼前先向 Hostinger 客服確認該後綴的流程。",
+        "從 Hostinger 轉出走的是同一套邏輯，只是方向相反：註冊滿 60 天，在 Hostinger 控制台解鎖，取得代碼，在信件裡確認。成功的轉移不退款；參見 [Hostinger 的退款與續訂規則](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "網域歸誰",
+      "paragraphs": [
+        "Hostinger 在兩個頁面都說明：網域以你的名字註冊，屬於你，不屬於註冊商。Hostinger 是 ICANN 認證的註冊商，ICANN 是統籌通用網域的機構。取消主機後，網域仍然是你的；如果網域是隨方案附帶的，註冊費會從退款中扣除，因為這筆錢已經付給了註冊局。",
+        "三件事能讓網域一直是你的："
+      ],
+      "bullets": [
+        "**帳戶：**網域屬於購買它的那個 Hostinger 帳戶。用你自己掌控的電子郵件，不要用接案者或代理公司的。以別人名義註冊的話，日後轉移要靠對方。",
+        "**續訂：**Hostinger 建議開著自動續訂。網域過期會讓網站和電子郵件一起停擺。網域續訂不退款，所以帳戶裡的信用卡要保持有效。",
+        "**註冊退款：**新註冊只能在 96 小時內退款，個別後綴期限不同，請看退款政策。之後直到已付期限結束，網域都是你的，但不能退。"
+      ]
+    },
+    {
+      "heading": "付款前的清單",
+      "bullets": [
+        "看續訂那一欄，不要只看第一年。只要網站還在，網域就要年年續訂。",
+        "選 3 年期時，在購物車裡核對三年總額：頁面只顯示第一年。",
+        "打算轉入的話，先看註冊日期：不滿 60 天，轉移不會開始。",
+        "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
+        "國家網域如果有一天想遷走，購買前先向 Hostinger 客服確認該後綴的轉移流程。",
+        "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
+        "推薦折扣用在主機方案上，條款沒有把網域列為適用服務；付款前在購物車核對網域的金額。"
+      ]
+    },
+    {
+      "heading": "選哪條路",
+      "paragraphs": [
+        "**在 Hostinger 購買**，如果網站要託管在 Hostinger，而且你想讓網域、DNS 和續訂都在同一個控制台。.com 每年續訂 US$ 19.99（2026年10月28日），與第一年的全價相同，第二年不跳價。",
+        "**在別處購買再指向**，如果你在其他註冊商已有網域、想把帳戶分開，或那裡的續訂價更低。改 DNS 只是控制台裡的一項設定，網站照常運作。",
+        "**轉入**只做註冊超過 60 天的網域，而且只在 Hostinger 的續訂價比你現在付的划算時。多數通用後綴的轉入費包含額外一年註冊，所以不算白花錢；.com 是 US$ 9.99。",
+        "拿不準就不要轉：把網域指向過來，註冊留在原處。以後隨時可以轉，網站也不會停。"
+      ]
+    },
+    {
+      "heading": "推薦連結與價格",
+      "paragraphs": [
+        "推薦連結會直接在主機方案上套用折扣，沒有要輸入的代碼。20% 只適用於首期、12 個月以上的方案，且不能與其他優惠券疊加。條款沒有把網域列為適用服務，以購物車顯示的為準。完整規則見 [Hostinger 推薦計畫是怎麼運作的](/zh-hant/reviews/hostinger-referral-code-zh-hant)，方案見本站的 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Hostinger 的網域多少錢？截至 2026年10月28日，國際站的 .com 第一年 US$ 19.99，或選 3 年期時第一年 US$ 0.01，續訂每年 US$ 19.99。其他後綴的價格在網域搜尋頁，可能因國家和貨幣而不同。",
+        "換主機會失去網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；把 DNS 指向新主機，或在註冊滿 60 天後再轉出註冊。",
+        "選 .com 還是國家網域？.com 是通用後綴，在任何國家都適用；像 .tw 這樣的國家網域由該國註冊機構管理，註冊和轉移有自己的規則。在 Hostinger，.com 每年續訂 US$ 19.99（2026年10月28日）；國家網域是否提供以及價格，請在搜尋頁查看。",
+        "用電子郵件需要網域嗎？需要。像 你@你的公司.com 這樣的地址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用來收發郵件，或重新導向到另一個網站。",
+        "能把網域從 Hostinger 轉到其他註冊商嗎？可以，註冊滿 60 天之後：在控制台解鎖網域，取得授權碼，再在新註冊商那裡透過信件確認。成功的轉移不退款。"
+      ]
+    },
+    {
+      "heading": "誰在寫這篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App；網域 emcasacomcecilia.com 自 2024年11月17日起註冊在 Hostinger（公開 RDAP 紀錄，2026年10月28日查詢）。團隊裡沒有人轉移過網域：本文整理的是 Hostinger 網域頁面和轉移頁面所說的內容，於 2026年10月28日讀取。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推薦代碼已經在連結裡：20% 用在主機方案上，只限首期、12 個月以上的方案，不能與其他優惠券疊加。付款前請在購物車核對網域的金額。",
+    "label": "透過推薦連結查看方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-trust-guide-zh-hant",
+      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hant",
+      "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hant",
+      "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+    }
+  ]
+}

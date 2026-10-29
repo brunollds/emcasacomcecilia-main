@@ -1,0 +1,293 @@
+{
+  "id": 679,
+  "slug": "vps-ou-hebergement-mutualise",
+  "locale": "fr",
+  "translationKey": "hostinger-vps-ou-compartilhada",
+  "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger",
+  "seoTitle": "VPS ou hébergement mutualisé : lequel choisir",
+  "type": "Guide de choix",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Un site ordinaire est bien servi par l'hébergement mutualisé ; le VPS ne vaut que pour un système à soi, des ressources réservées ou l'accès root. Tableau par scénario, specs des KVM et prix en dollars du 28 octobre 2026 avec le renouvellement.",
+  "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chaque option, un tableau par scénario, les specs des KVM 1 à 8, ce qui reste à votre charge en maintenance et les prix du 28 octobre 2026 en dollars, renouvellement compris.",
+  "publishedAt": "28 octobre 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+  "imageAlt": "Logo Hostinger avec les icônes d'un site ordinaire et d'un serveur, face à face",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Pour un site ordinaire, un blog, un portfolio ou une petite boutique, l'hébergement mutualisé suffit et coûte moins cher. Le VPS ne vaut le coup que si le site a besoin d'un système installé hors du panneau, de CPU et de mémoire réservés ou d'un accès root. La facture au renouvellement change le choix ; voyez les prix et le verdict plus bas."
+      ]
+    },
+    {
+      "heading": "Ce qu'est chaque option",
+      "paragraphs": [
+        "L'**hébergement mutualisé**, c'est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Sur le site international de Hostinger, ce sont les forfaits Premium et Unlimited, plus le Cloud Startup, la même idée avec plus de ressources.",
+        "Le **VPS** (serveur privé virtuel) est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés. Hostinger livre la machine avec le système d'exploitation et l'accès root, l'utilisateur qui peut tout faire. À partir de là, installer le serveur web, la base de données et le certificat, mettre à jour et sécuriser le serveur, c'est à vous. Chez Hostinger, ce sont les forfaits KVM 1, 2, 4 et 8.",
+        "La différence n'est pas « mieux ou moins bien ». C'est qui s'occupe du serveur, et quelle part des ressources vous est réservée."
+      ]
+    },
+    {
+      "heading": "Lequel choisir, selon le scénario",
+      "paragraphs": [
+        "Avant de regarder les prix, répondez à trois questions. Si la réponse est « non » aux trois, le mutualisé suffit."
+      ],
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+      "imageAlt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il un accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
+      "imageCaption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau fait par nous, d'après les pages de Hostinger relevées le 28 octobre 2026.",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.7787,
+      "comparisonTable": {
+        "headers": [
+          "Scénario",
+          "Mutualisé",
+          "VPS"
+        ],
+        "rows": [
+          [
+            "Blog, portfolio ou site d'entreprise sous WordPress",
+            "Oui. C'est l'usage typique du forfait",
+            "Pas nécessaire"
+          ],
+          [
+            "Petite boutique WordPress (WooCommerce)",
+            "Oui, en surveillant le forfait : plus de produits et de visites demandent Premium ou Unlimited",
+            "Seulement si la boutique grossit beaucoup"
+          ],
+          [
+            "Site en Node.js",
+            "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
+            "Pas nécessaire"
+          ],
+          [
+            "Plusieurs sites ou e-mails professionnels",
+            "Oui. Le Premium liste jusqu'à 3 sites, et l'Unlimited inclut l'e-mail",
+            "Pas nécessaire"
+          ],
+          [
+            "Système à vous, avec un programme ou une base de données absents du panneau",
+            "Non",
+            "Oui. C'est le cas classique du VPS"
+          ],
+          [
+            "Tableau de bord, bot ou automatisation qui tourne toute la journée (n8n, Docker)",
+            "Non",
+            "Oui, avec root et Docker"
+          ],
+          [
+            "Site avec un plugin lourd ou des pics de trafic",
+            "Cloud Startup, avant de penser au VPS",
+            "Oui, si le Cloud ne suffit pas"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Ce que chaque forfait mutualisé inclut change à chaque campagne. Vérifiez sur la page de Hostinger ce que chacun comprend avant de souscrire."
+      ]
+    },
+    {
+      "heading": "Les forfaits VPS : KVM 1 à 8",
+      "paragraphs": [
+        "Les quatre forfaits KVM ne changent que de taille. Specs relevées sur la page VPS de Hostinger le 28 octobre 2026. Les prix sont ceux du site international, en dollars américains, pour des forfaits de 24 mois avec le lien de parrainage appliqué, renouvellement à côté ; dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes, vérifiez donc le panier avant de payer."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "vCPU",
+          "RAM",
+          "Disque",
+          "Avec le parrainage",
+          "Renouvellement"
+        ],
+        "rows": [
+          [
+            "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "1",
+            "4 Go",
+            "50 Go",
+            "5,19 US$/mois",
+            "11,99 US$/mois"
+          ],
+          [
+            "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "2",
+            "8 Go",
+            "100 Go",
+            "7,03 US$/mois",
+            "14,99 US$/mois"
+          ],
+          [
+            "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "4",
+            "16 Go",
+            "200 Go",
+            "10,39 US$/mois",
+            "28,99 US$/mois"
+          ],
+          [
+            "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+            "8",
+            "32 Go",
+            "400 Go",
+            "20,79 US$/mois",
+            "49,99 US$/mois"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Pour un site ordinaire qui a vraiment besoin d'un VPS, le KVM 1 est le point de départ : 4 Go de RAM suffisent pour un WordPress ou un petit système. Le KVM 2 entre en jeu quand vous ferez tourner plus d'un programme sur la même machine. KVM 4 et 8 sont pour un système plus gros, une grande base de données ou plusieurs applications.",
+        "Avec le lien, les 20 % ne valent **que pour la première période** et **ne se cumulent pas avec d'autres codes promo** ; la page affiche déjà la réduction appliquée. Le renouvellement se fait au prix normal indiqué à côté de chaque forfait."
+      ]
+    },
+    {
+      "heading": "Maintenance : ce qui reste à votre charge",
+      "paragraphs": [
+        "C'est la partie que le prix ne montre pas. En mutualisé, Hostinger entretient le serveur et le panneau ; vous vous occupez de votre site (thème, plugins, contenu). Le forfait Premium liste des sauvegardes hebdomadaires, et l'Unlimited inclut un support prioritaire.",
+        "Sur un VPS, Hostinger dit sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur reviennent au client. En pratique, cela devient votre liste :"
+      ],
+      "bullets": [
+        "**Installer et configurer** le serveur web, la base de données et le certificat SSL.",
+        "**Mettre à jour** le système d'exploitation et les programmes, de temps en temps.",
+        "**Protéger** : pare-feu, ports ouverts, mots de passe et clés d'accès.",
+        "**Sauvegarder**, et savoir restaurer.",
+        "**Dépanner** quand le site tombe en dehors des heures de bureau."
+      ],
+      "postParagraphs": [
+        "Si vous n'avez jamais ouvert un terminal, cela a un coût : du temps d'apprentissage, ou quelqu'un qui le fait pour vous. Pour un site ordinaire, ce coût dépasse souvent l'écart de prix entre les forfaits."
+      ]
+    },
+    {
+      "heading": "Prix et renouvellement : la vraie facture",
+      "paragraphs": [
+        "L'hébergement mutualisé se vend en forfait de 48 mois ; le VPS, en 24 mois. Les deux facturent toute la période d'un coup. Prix relevés le 28 octobre 2026, avec le lien de parrainage appliqué, renouvellement à côté :"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Forfait",
+          "Avec le parrainage",
+          "Total de la période",
+          "Renouvellement"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+            "1,99 US$/mois",
+            "95,52 US$",
+            "10,99 US$/mois"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+            "2,79 US$/mois",
+            "133,92 US$",
+            "16,99 US$/mois"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+            "6,39 US$/mois",
+            "306,72 US$",
+            "25,99 US$/mois"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mois)",
+            "5,19 US$/mois",
+            "124,56 US$",
+            "11,99 US$/mois"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mois)",
+            "7,03 US$/mois",
+            "168,72 US$",
+            "14,99 US$/mois"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Deux points changent la facture. Le premier : le KVM 1 coûte environ deux fois et demie le Premium par mois dès la première période (5,19 US$ contre 1,99 US$). Au renouvellement, les deux se rejoignent presque (11,99 US$ contre 10,99 US$), mais le second point pèse plus : sur le VPS, le prix promotionnel dure 24 mois ; en mutualisé, 48. Sur quatre ans, le Premium coûte 95,52 US$ ; le KVM 1, 124,56 US$ pour la première période plus 287,76 US$ au renouvellement (24 × 11,99 US$), soit 412,32 US$.",
+        "Le renouvellement est activé par défaut. Voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable) avant de souscrire, et [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) pour la comparaison entre la campagne et le lien. Le Premium liste un domaine gratuit la première année, comme élément du forfait. Les prix changent à chaque campagne : vérifiez le montant dans le panier avant de payer, et voyez les conditions sur [la page Hostinger ici sur le site](/fr/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Quand le VPS a du sens pour un agent d'IA",
+      "paragraphs": [
+        "Un cas où le VPS revient souvent n'est pas un site : c'est un assistant d'IA qui tourne toute la journée, comme OpenClaw. Là, la question change, parce que Hostinger vend aussi une offre gérée pour ces assistants. Si c'est votre cas, la comparaison est dans [OpenClaw chez Hostinger : géré ou VPS](/fr/reviews/openclaw-hostinger-gere-ou-vps) et, pour choisir la taille, dans [quel KVM pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw). Cet article reste sur le serveur de site."
+      ]
+    },
+    {
+      "heading": "Verdict : VPS ou mutualisé",
+      "paragraphs": [
+        "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise, une petite boutique et un site en Node.js. Il coûte moins cher la première période et au renouvellement, et la maintenance du serveur revient à Hostinger. Parmi les forfaits, le Premium est le point de départ ; si le site grossit, Unlimited ou Cloud Startup, avant de penser au VPS.",
+        "**VPS** pour un système à vous, un programme ou une base de données hors du panneau, un bot ou un tableau de bord qui tourne toute la journée, ou quand il vous faut root. Commencez par le KVM 1 et montez si la mémoire manque. Comptez le temps d'entretien du serveur, ou le coût de la personne qui s'en charge.",
+        "**Dans le doute, le mutualisé.** Un VPS ne redevient pas du mutualisé ensuite, alors que l'inverse n'est qu'un nouveau contrat quand le besoin apparaît."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Un VPS est-il plus rapide que l'hébergement mutualisé ? Nous n'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors qu'en mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
+        "Puis-je commencer en mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et déplacez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
+        "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. En mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
+        "Un VPS peut-il faire tourner WordPress ? Oui, mais vous installez et entretenez le serveur web, PHP et la base de données. En mutualisé, WordPress est prêt dans le panneau et Hostinger s'occupe du serveur.",
+        "Combien coûte le VPS de Hostinger ? Le 28 octobre 2026, le KVM 1 était à 5,19 US$/mois avec le lien de parrainage, en forfait de 24 mois, et se renouvelle à 11,99 US$/mois, sur le site international en dollars. Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo."
+      ]
+    },
+    {
+      "heading": "Qui écrit",
+      "paragraphs": [
+        "Em Casa com Cecília tourne sur Hostinger en hébergement géré, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Ce texte ne contient aucun test de VPS : il réunit ce que disent les pages de Hostinger, relevées le 28 octobre 2026, et l'expérience du site se limite à l'hébergement géré."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+    "label": "Voir les forfaits avec le lien de parrainage",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Nous n'avons pas testé de VPS.",
+  "relatedArticles": [
+    {
+      "slug": "openclaw-hostinger-gere-ou-vps",
+      "title": "OpenClaw chez Hostinger : géré ou VPS ? Prix, ce qu'exige chaque option et à qui elle convient"
+    },
+    {
+      "slug": "hostinger-est-il-fiable",
+      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+    },
+    {
+      "slug": "black-friday-hostinger-offres",
+      "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+    }
+  ]
+}

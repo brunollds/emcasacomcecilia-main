@@ -104624,7 +104624,7 @@ export const reviewsData: unknown[] = [
           "**A Dux ganha no multivitamínico por dia.** São R$ 0,84 contra R$ 1,85 no Pix. Uma cápsula da Dux traz 100% do valor diário de várias vitaminas, e a Max pede três. A tabela da Max traz mais minerais.",
           "**A Dux ganha no adoçante do FreshWhey.** A stévia e a taumatina substituem a sucralose e a lecitina do 3W. Para quem evita sucralose, a Dux tem a linha.",
           "**A Dux ganha em sabores.** O concentrado tem 14 sabores na tabela da página, e tem um Neutro, só com WPC. O Refil da Max tem quatro sabores, e o IsoWhey, três.",
-          "**A Dux ganha no pré-treino sem cafeína.** A Stim Free não traz linha de cafeína. Nesta comparação, a Max não tem pré-treino sem cafeína."
+          "**A Dux ganha no pré-treino sem cafeína.** A Stim Free não traz linha de cafeína. A Max tem o Night Train, sem cafeína na ficha, que não entrou nesta comparação."
         ]
       },
       {
@@ -142943,6 +142943,9742 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "這 19 件由 Cecília 挑選。本站沒有人用過這些商品，文中描述的是 SHEIN 商品頁顯示的內容。價格、折扣、尺寸和評分於 2026 年 10 月 28 日在商品頁查看，可能變動。我們可能透過本頁連結和推薦碼 4CW5Y 獲得佣金。"
         ]
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "slug": "probiotica-ou-integralmedica",
+    "locale": "pt",
+    "title": "Probiótica ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina",
+    "seoTitle": "Probiótica ou Integralmédica: whey e creatina pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Probiótica ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma, o cupom PRO10EMCASACOMCECILIA e a origem das duas marcas.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-ou-integralmedica-capa.webp",
+    "imageAlt": "Whey e creatina da Probiótica, com o logo da loja e a pergunta Probiótica ou Integralmédica",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelos preços de 28/10/2026 e pelos rótulos, a Integralmédica sai mais barata por 100 g de creatina e por 100 g de proteína nos tamanhos comparados. O cupom PRO10EMCASACOMCECILIA aproxima a Probiótica no whey de 900 g, mas não vira a conta. Nas fontes oficiais, são empresas diferentes; o veredito por perfil está em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Este guia compara whey e creatina da Probiótica, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, o texto da página e o preço do site lido em 28/10/2026, sem frete, sem desconto de Pix e sem cupom.",
+          "Entram os tamanhos que mais se parecem entre as duas, o mesmo critério de [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica): whey de 900 g e de 1,8 kg e creatina de 300 g, com o pouch de 1 kg da Integralmédica, o mais barato dela por grama. Os isolados ficam de fora: o Iso Pro Whey de 900 g da Probiótica custava R$ 346,28 e o Whey Protein Isolado de 900 g da Integralmédica, R$ 483,00, em 28/10. As linhas com Creapure no nome também ficam de fora, porque o texto não leu o selo no rótulo da Probiótica.",
+          "Dose, número de porções e proteína por porção só entram com o número da tabela nutricional de cada ficha. Na Probiótica, a tabela lida é a do sabor Baunilha; na Integralmédica, a leitura é de 25/10/2026. Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "A série compara a Probiótica com uma marca por vez: [Probiótica ou Growth](/reviews/probiotica-ou-growth), [Probiótica ou Dux](/reviews/probiotica-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método."
+        ]
+      },
+      {
+        "heading": "De onde vem cada marca",
+        "paragraphs": [
+          "A Probiótica é uma marca do Grupo Supley, o mesmo da Max Titanium e da Dr. Peanut. A loja oficial é a probiotica.com.br. Quem fabrica, as trocas e a reputação da loja estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+          "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 13/12/2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica, a Darkness e a Nutrify. A Probiótica não está entre elas.",
+          "Nas fontes oficiais lidas em 25/10 e 28/10, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem."
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g de produto",
+        "paragraphs": [
+          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 300 g das duas marcas, mais o pouch de 1 kg e o Hardcore de 500 g da Integralmédica. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, lidos em 28/10/2026, sem desconto de Pix. Em 28/10, a Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-integralmedica-creatina-300g.webp",
+            "alt": "Pote da Creatina Monohidratada Pura de 300 g da Probiótica, de frente.",
+            "caption": "Creatina Monohidratada Pura 300 g, a linha da Probiótica na conta por 100 g. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 0.899
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço no cartão",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p)",
+              "300 g",
+              "R$ 59,90",
+              "R$ 19,97"
+            ],
+            [
+              "[Probiótica Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-100g/p)",
+              "100 g",
+              "R$ 33,89",
+              "R$ 33,89"
+            ],
+            [
+              "Integralmédica Creatina 100% Pura Hardcore",
+              "300 g",
+              "R$ 50,00",
+              "R$ 16,67"
+            ],
+            [
+              "Integralmédica Creatina Hardcore pote",
+              "500 g",
+              "R$ 83,00",
+              "R$ 16,60"
+            ],
+            [
+              "Integralmédica Creatina 100% Pura pouch",
+              "1 kg",
+              "R$ 125,00",
+              "R$ 12,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o cupom PRO10EMCASACOMCECILIA, que dá até 10% e pode ser menor em alguns produtos, a Probiótica de 300 g sai por R$ 17,97 por 100 g no teto do desconto, e a de 100 g, por R$ 30,50. Mesmo assim, as duas ficam acima da Integralmédica de 300 g, a R$ 16,67, e do pouch de 1 kg, a R$ 12,50. O cupom é da Probiótica; este texto não traz cupom da Integralmédica.",
+          "Por dose de 5 g, nas linhas com a tabela nutricional lida, a Probiótica de 300 g fica em R$ 1,00 no cartão (60 porções) e em R$ 0,90 com o cupom no teto; o pouch de 1 kg da Integralmédica fica em R$ 0,63."
+        ]
+      },
+      {
+        "heading": "Whey: preço por 100 g de proteína",
+        "paragraphs": [
+          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada porção vezes o número de porções da tabela nutricional. Na Probiótica, o número é o da tabela do sabor Baunilha do 100% Pure Whey: 20 g de proteína em cada porção de 30 g, 30 porções no pote e no refil de 900 g. A frente do pote traz \"21 g de proteína\" e a página diz \"de 20 g a 24 g de proteína por porção\", porque o número varia por sabor; a conta usa a tabela. O kit de 1,8 kg da Probiótica são dois refis de 900 g, na combinação Baunilha + Baunilha. Na Integralmédica, os pouches de 900 g e de 1,8 kg trazem 21 g em cada porção de 30 g, com 30 e 60 porções. Os preços de 28/10/2026 eram os mesmos em todos os sabores de cada linha da Probiótica; na Integralmédica, o texto usa o preço do sabor aberto por padrão na página."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+            "alt": "Pote do 100% Pure Whey de 900 g da Probiótica, sabor Baunilha, de frente.",
+            "caption": "100% Pure Whey 900 g, Baunilha: o sabor da tabela nutricional usada na conta. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 0.595
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Porção, proteína por porção e porções",
+            "Preço no cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Probiótica 100% Pure Whey pote, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p)",
+              "900 g",
+              "30 g, 20 g de proteína, 30 porções",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "[Probiótica 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p)",
+              "900 g",
+              "30 g, 20 g de proteína, 30 porções",
+              "R$ 235,65",
+              "R$ 39,28"
+            ],
+            [
+              "[Probiótica Kit 2x 100% Pure Whey refil, Baunilha](https://www.probiotica.com.br/pack-100-whey/p)",
+              "1,8 kg (2 x 900 g)",
+              "30 g, 20 g de proteína, 60 porções",
+              "R$ 471,30",
+              "R$ 39,28"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "900 g",
+              "30 g, 21 g de proteína, 30 porções",
+              "R$ 227,00",
+              "R$ 36,03"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "1,8 kg",
+              "30 g, 21 g de proteína, 60 porções",
+              "R$ 404,00",
+              "R$ 32,06"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o PRO10EMCASACOMCECILIA no teto de 10%, o pote da Probiótica sai por R$ 37,87 por 100 g de proteína, e o refil e o kit, por R$ 35,35. No tamanho de 900 g, o refil com o cupom fica abaixo do pouch de 900 g da Integralmédica, a R$ 36,03. No tamanho de 1,8 kg, o pouch da Integralmédica segue o mais barato da tabela, a R$ 32,06, com ou sem o cupom da Probiótica. Este texto não traz cupom da Integralmédica.",
+          "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00 em 28/10; a tabela usa o pouch, que tem o rótulo lido."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz",
+        "paragraphs": [
+          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo lido em 25/10.",
+          "No whey, a tabela do 100% Pure Whey Baunilha da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A lista de ingredientes do whey da Probiótica não foi lida nesta rodada, então o texto não compara edulcorantes."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+            "alt": "Tabela nutricional do 100% Pure Whey 900 g, sabor Baunilha, com 20 g de proteína em 30 g.",
+            "caption": "Tabela da própria Probiótica: 20 g de proteína em cada porção de 30 g, 30 porções. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 0.6386
+          },
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+            "alt": "Tabela nutricional da Creatina Monohidratada Pura de 300 g, com 5.000 mg por porção de 5 g.",
+            "caption": "Tabela da Creatina Monohidratada Pura 300 g: 5 g por porção, 60 porções. Imagem: Probiótica",
+            "objectFit": "contain",
+            "aspectRatio": 1.0038
+          }
+        ]
+      },
+      {
+        "heading": "Cupom e onde comprar",
+        "paragraphs": [
+          "Cupom: PRO10EMCASACOMCECILIA, o cupom da Probiótica. Dá até 10%, e o desconto pode ser menor em alguns produtos; vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/probiotica) e em [Cupom Probiótica: como usar](/reviews/cupom-probiotica-como-usar). A loja oficial é a [Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com link comissionado."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "**Creatina: a Integralmédica, pelo preço.** O pouch de 1 kg sai por R$ 12,50 por 100 g no cartão, e a de 300 g, por R$ 16,67. A Probiótica de 300 g fica em R$ 19,97 no cartão e em R$ 17,97 com o PRO10EMCASACOMCECILIA no teto: acima da Integralmédica nos dois tamanhos.",
+          "**Whey: depende do tamanho e do cupom.**"
+        ],
+        "bullets": [
+          "Para o menor preço por grama de proteína, o pouch de 1,8 kg da Integralmédica: R$ 32,06 por 100 g no cartão. Nenhuma linha da Probiótica chega lá, nem com o cupom.",
+          "No tamanho de 900 g, o refil da Probiótica com o cupom no teto sai por R$ 35,35 por 100 g de proteína, abaixo dos R$ 36,03 do pouch de 900 g da Integralmédica. Sem o cupom, o refil fica em R$ 39,28, acima.",
+          "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
+        ],
+        "postParagraphs": [
+          "Quem compra pelo preço por grama vai de Integralmédica nas duas contas. Quem compra na Probiótica paga menos com o refil e com o cupom, e a diferença para o pouch de 900 g da Integralmédica some. O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes. Preço e estoque mudam: confira nos dois sites antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Probiótica ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o pouch de 1,8 kg da Integralmédica, a R$ 32,06 no cartão em 28/10/2026. No tamanho de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto sai por R$ 35,35, abaixo dos R$ 36,03 do pouch de 900 g da Integralmédica.",
+          "Creatina Probiótica ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Integralmédica. O pouch de 1 kg sai por R$ 12,50 e a de 300 g por R$ 16,67; a Probiótica de 300 g sai por R$ 19,97 no cartão, ou R$ 17,97 com o cupom no teto.",
+          "A Probiótica é da Integralmédica? Não. Nas fontes oficiais lidas em 25/10 e 28/10, são empresas diferentes: a Probiótica é do Grupo Supley, e o site da Integralmédica lista as marcas do Grupo BRG, sem a Probiótica entre elas.",
+          "Quantos gramas de proteína tem o whey da Probiótica? A tabela nutricional do 100% Pure Whey Baunilha de 900 g traz 20 g de proteína em cada porção de 30 g. A página diz que o número varia de 20 g a 24 g por porção, conforme o sabor.",
+          "A Integralmédica tem cupom aqui? Não. A Integralmédica não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Probiótica e aplique o cupom PRO10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-ou-dux",
+        "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "probiotica-ou-growth",
+        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-ou-probiotica",
+        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      },
+      {
+        "slug": "black-skull-ou-integralmedica",
+        "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "slug": "creatina-probiotica-qual-compensa",
+    "locale": "pt",
+    "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo",
+    "seoTitle": "Creatina Probiótica: qual versão compensa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Creatina da Probiótica em pote de 300 g, de 100 g, Creapure de 150 g e monodose: o que a tabela nutricional de cada versão diz, o preço por 100 g e por dose de 5 g, com os preços de 28/10/2026.",
+    "metaDescription": "Creatina Probiótica: 300 g, 100 g, Creapure 150 g e monodose comparadas pela tabela nutricional e pelo preço por 100 g e por dose, nos preços de 28/10/2026.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
+    "imageAlt": "Potes de creatina da Probiótica com o logo da marca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O pote de 300 g é a creatina da Probiótica que mais compensa: R$ 19,97 por 100 g e R$ 1,00 por dose, em 28/10/2026. O de 100 g custa 70% a mais por grama; a Creapure, mais que o triplo. O que muda a escolha está em \"Qual creatina da Probiótica escolher\"."
+        ]
+      },
+      {
+        "heading": "Como a conta foi feita",
+        "paragraphs": [
+          "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão mostra na ficha da loja.",
+          "Ninguém do site usou os produtos. O texto lê a ficha, a foto do rótulo e o preço de 28/10/2026, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
+        ]
+      },
+      {
+        "heading": "Preço por 100 g e por dose de 5 g",
+        "paragraphs": [
+          "Preços de 28/10/2026 no site da Probiótica, no cartão e sem cupom. As doses vêm da tabela nutricional de cada versão."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Versão",
+            "Porção (creatina)",
+            "Porções",
+            "Preço",
+            "Por 100 g",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p)",
+              "5 g (5.000 mg)",
+              "60",
+              "R$ 59,90",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
+              "[Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p)",
+              "5 g (5.000 mg)",
+              "20",
+              "R$ 33,89",
+              "R$ 33,89",
+              "R$ 1,69"
+            ],
+            [
+              "[Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p)",
+              "5 g (5.000 mg)",
+              "30",
+              "R$ 99,89",
+              "R$ 66,59",
+              "R$ 3,33"
+            ],
+            [
+              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p)",
+              "5 g (5.000 mg)",
+              "30",
+              "R$ 69,89",
+              "R$ 46,59",
+              "R$ 2,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote de 300 g sai de R$ 75,10 de tabela por R$ 59,90 em 28/10/2026, e é essa promoção que abre a distância para as outras versões. Sem ela, o pote ficaria em R$ 25,03 por 100 g, ainda o mais barato da linha. Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta de todas as versões cai um pouco; o cupom soma com as promoções da loja.",
+          "A Pure Creatina da linha Monster fica fora desta tabela porque a porção dela é de 3 g, e não de 5 g. Ela está em \"Pure Creatina Monster: porção de 3 g\", com a conta própria."
+        ]
+      },
+      {
+        "heading": "Pote de 300 g: a que mais compensa",
+        "paragraphs": [
+          "A Creatina Monohidratada Pura de 300 g custa R$ 59,90 em 28/10/2026. A tabela nutricional da ficha diz 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, e declara que não contém quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
+          "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+            "alt": "Pote azul de 300 g da Creatina Monohidratada da Probiótica, de frente",
+            "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.899
+          },
+          {
+            "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
+            "alt": "Tabela nutricional da creatina de 300 g da Probiótica: 60 porções de 5 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da creatina de 300 g, na ficha da Probiótica: 5 g por porção, 60 porções. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0038
+          }
+        ]
+      },
+      {
+        "heading": "Pote de 100 g: para experimentar",
+        "paragraphs": [
+          "A Creatina Monohidratada Pura de 100 g custa R$ 33,89 em 28/10/2026 e tem a mesma tabela do pote grande, em menor quantidade: 20 porções de 5 g, com 5.000 mg de creatina cada. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
+          "Por 100 g, o pote pequeno custa R$ 33,89, 70% a mais que o de 300 g. Por dose, R$ 1,69 contra R$ 1,00. Vinte porções duram 20 dias com uma porção ao dia, que é a sugestão de uso da ficha. Compensa só para quem quer conhecer o produto antes de levar o pote grande; três potes de 100 g custam R$ 101,67, contra R$ 59,90 do pote de 300 g."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-100g.webp",
+            "alt": "Tabela nutricional da creatina de 100 g da Probiótica: 20 porções de 5 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da creatina de 100 g, na ficha da Probiótica: 20 porções de 5 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 2.5714
+          }
+        ]
+      },
+      {
+        "heading": "Creapure de 150 g: o selo no rótulo e o preço por grama",
+        "paragraphs": [
+          "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89 em 28/10/2026, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
+          "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara, e é só isso que este texto confirma: a tabela nutricional não traz nenhum número diferente da versão comum.",
+          "Na conta, o selo custa caro: R$ 66,59 por 100 g e R$ 3,33 por dose, mais que o triplo do pote de 300 g. Trinta porções de 5 g custam R$ 99,89 na Creapure; no pote de 300 g, as mesmas 30 porções saem por R$ 29,95. Quem quer o selo Creapure no rótulo paga essa diferença; quem quer creatina monohidratada com 5.000 mg por porção tem o mesmo número no pote comum."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-creapure-150g-frente.webp",
+            "alt": "Pote branco e azul da Creatina Creapure de 150 g da Probiótica, com o selo Creapure na frente",
+            "caption": "Creatina Creapure Monohidratada 150 g, com o selo Creapure no rótulo. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.885
+          },
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
+            "alt": "Tabela nutricional da Creatina Creapure de 150 g da Probiótica: 30 porções de 5 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da Creapure de 150 g, na ficha da Probiótica: 30 porções de 5 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 2.5714
+          }
+        ]
+      },
+      {
+        "heading": "Monodose: 30 sachês de 5 g",
+        "paragraphs": [
+          "A Creatina Monohidratada Monodose custa R$ 69,89 em 28/10/2026 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual. Se o sachê compensa para você, e quando, está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+        ]
+      },
+      {
+        "heading": "Pure Creatina Monster: porção de 3 g",
+        "paragraphs": [
+          "A Pure Creatina de 150 g, da linha Monster da Probiótica, custa R$ 99,89 (de R$ 133,20 de tabela), o mesmo preço da Creapure de 150 g, e traz o selo Creapure 18SP11 no rótulo. A tabela, porém, diz 50 porções de 3 g, com 3.000 mg de creatina cada: a mesma creatina da Creapure comum, dividida em porções menores. Por 100 g, custa os mesmos R$ 66,59; por porção, R$ 2,00, mas a porção tem 3 g, não 5 g. É a mesma matéria-prima da Creapure de 150 g em outra embalagem, e a escolha entre as duas é de porção e de visual."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pure-monster-150g.webp",
+            "alt": "Pote preto e branco da Pure Creatina de 150 g da linha Monster da Probiótica, com o selo Creapure",
+            "caption": "Pure Creatina 150 g, linha Monster, com o selo Creapure. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8333
+          },
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
+            "alt": "Tabela nutricional da Pure Creatina de 150 g da Probiótica: 50 porções de 3 g com 3.000 mg de creatina",
+            "caption": "Tabela nutricional da Pure Creatina Monster 150 g: 50 porções de 3 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.9108
+          }
+        ]
+      },
+      {
+        "heading": "Creatina Probiótica é pura? O que o rótulo responde",
+        "paragraphs": [
+          "\"Pura\" está no nome do produto, e \"Pure\" no da linha Monster. O que o rótulo declara é outra coisa: creatina monohidratada, com 5.000 mg por porção de 5 g nos potes de 300 g, de 100 g, na Creapure e nos sachês. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa em nenhuma das versões lidas.",
+          "A Creapure acrescenta o selo de origem da matéria-prima, e só isso: a composição por porção na tabela é a mesma do pote comum. A pureza de cada lote não se mede pela ficha, e este texto não a mede; quem precisa desse dado pede o laudo do lote à loja, pelo SAC que o rótulo traz."
+        ]
+      },
+      {
+        "heading": "Cupom PRO10EMCASACOMCECILIA",
+        "paragraphs": [
+          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e vale em todas as formas de pagamento (teste de 13/10/2026). O código entra no campo de cupom do carrinho; o passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "Qual creatina da Probiótica escolher",
+        "bullets": [
+          "**Menor preço por grama:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p). R$ 19,97 por 100 g e R$ 1,00 por dose de 5 g, com 60 porções e 5.000 mg por porção na tabela. É a escolha para quem toma uma porção ao dia: dura dois meses.",
+          "**Para experimentar:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p). Mesma tabela, 20 porções, R$ 33,89. Custa 70% a mais por grama; vale só para conhecer o produto antes do pote grande.",
+          "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A Pure Creatina Monster tem o mesmo selo e o mesmo preço, em porções de 3 g.",
+          "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
+        ],
+        "postParagraphs": [
+          "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. O texto lê o rótulo e não indica dose. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Creatina Probiótica é boa? Pelo rótulo, as versões em pó e os sachês trazem creatina monohidratada com 5.000 mg por porção de 5 g, e a tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+          "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela. A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
+          "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89 em 28/10/2026. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
+          "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g em 28/10/2026, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
+          "A creatina da Probiótica tem sabor? Não encontramos creatina com sabor no catálogo da Probiótica. As versões lidas são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Probiótica. Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. Ninguém do site usou os produtos: o texto lê a ficha, a tabela nutricional do rótulo e o preço de 28/10/2026. Não é orientação de nutricionista nem de médico. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja as creatinas da Probiótica e aplique o cupom PRO10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Guia pelo rótulo e pelo preço do dia; não usamos os produtos. Podemos receber comissão pela Probiótica.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-com-sabor-qual-escolher",
+        "title": "Creatina com sabor: qual escolher, pelo rótulo e pelo preço por grama"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "slug": "monodose-probiotica-sache-ou-pote",
+    "locale": "pt",
+    "title": "Monodose Probiótica: sachê ou pote, qual compensa pelo preço por 100 g",
+    "seoTitle": "Monodose Probiótica: sachê ou pote, qual compensa",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Creatina Monodose da Probiótica contra os potes de 300 g e de 100 g: a porção pelo rótulo, o preço por 100 g e por dose de 5 g, e quanto o sachê custa a mais, com os preços de 28/10/2026.",
+    "metaDescription": "Creatina Monodose da Probiótica ou pote: porção pelo rótulo, preço por 100 g e por dose de 5 g e quanto o sachê custa a mais, nos preços de 28/10/2026.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-capa.webp",
+    "imageAlt": "Creatina Monodose em sachês e pote de creatina da Probiótica, com o logo da marca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Em 28/10/2026 o pote ganha: a Creatina Pura de 300 g sai a R$ 19,97 por 100 g e R$ 1,00 por dose; a Monodose, 30 sachês de 5 g, a R$ 46,59 por 100 g e R$ 2,33 por dose, mais do dobro. O que muda a escolha está em \"Quando a monodose compensa\"."
+        ]
+      },
+      {
+        "heading": "Como a conta é feita",
+        "paragraphs": [
+          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços de 28/10/2026 no site da Probiótica, sem cupom.",
+          "A porção e o número de doses vêm da tabela nutricional que a loja mostra na imagem de cada ficha, lida em 28/10/2026. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia, e ninguém do site usou os produtos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+            "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+            "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0135
+          }
+        ]
+      },
+      {
+        "heading": "Creatina: pote contra monodose, por 100 g e por dose",
+        "paragraphs": [
+          "Preços de 28/10/2026, no site da Probiótica, sem cupom. A porção e o número de doses são os da tabela nutricional de cada ficha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porção (rótulo)",
+            "Doses",
+            "Preço",
+            "Por 100 g",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Creatina Monohidratada Pura 300 g, pote](https://www.probiotica.com.br/creatina-300g/p)",
+              "5 g (5.000 mg)",
+              "60",
+              "R$ 59,90",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
+              "[Creatina Monohidratada Pura 100 g, pote](https://www.probiotica.com.br/creatina-100g/p)",
+              "5 g (5.000 mg)",
+              "20",
+              "R$ 33,89",
+              "R$ 33,89",
+              "R$ 1,69"
+            ],
+            [
+              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p)",
+              "5 g (5.000 mg), 1 sachê",
+              "30",
+              "R$ 69,89",
+              "R$ 46,59",
+              "R$ 2,33"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A monodose custa 133% a mais por grama que o pote de 300 g (R$ 46,59 contra R$ 19,97 por 100 g) e 37% a mais que o pote de 100 g (R$ 33,89). Por dose, são R$ 2,33 no sachê, R$ 1,69 no pote pequeno e R$ 1,00 no pote de 300 g, que em 28/10 estava de R$ 75,10 por R$ 59,90.",
+          "Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta muda, mas a ordem não: com os 10% cheios, o pote de 300 g iria a R$ 53,91 e a monodose a R$ 62,90. As regras do cupom estão em \"Cupom da Probiótica\"."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
+            "alt": "Tabela nutricional da Creatina Monodose da Probiótica: porção de 5 g (1 sachê) com 5.000 mg de creatina",
+            "caption": "Tabela nutricional da Creatina Monodose, na imagem da ficha da Probiótica (28/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 1.7208
+          }
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz de cada um",
+        "bullets": [
+          "**Pote de 300 g:** 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A tabela não declara valor energético, carboidrato, proteína nem sódio em quantidade significativa.",
+          "**Pote de 100 g:** 20 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A mesma tabela do pote grande, com um terço das doses.",
+          "**Monodose:** 30 sachês, cada um a porção de 5 g com 5.000 mg de creatina. A tabela do sachê é a mesma do pote; muda só o que embala a dose.",
+          "**Divergência na página dos potes:** a ficha do pote de 300 g e a do de 100 g trazem um selo de \"3.000 mg de creatina por dose\", e o texto delas fala em 5.000 mg por porção. A conta deste guia usa a tabela nutricional, que diz 5 g e 5.000 mg. Confira a tabela da embalagem que chegar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-300g.webp",
+            "alt": "Tabela nutricional da Creatina 300 g da Probiótica: 60 porções de 5 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional do pote de 300 g, na imagem da ficha da Probiótica (28/10/2026).",
+            "objectFit": "contain",
+            "aspectRatio": 1.5734
+          }
+        ]
+      },
+      {
+        "heading": "Quanto a monodose custa a mais",
+        "paragraphs": [
+          "A caixa de 30 sachês custa R$ 69,89. As mesmas 30 doses, tiradas do pote de 300 g, custam R$ 29,95: metade do pote. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
+          "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço de 28/10, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
+          "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como \"praticidade em doses individuais\"; este guia não avalia isso, porque ninguém do site usou o produto. O que dá para medir é o preço, e o preço diz que a separação custa R$ 1,33 por dose."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-pote-300g.webp",
+            "alt": "Pote de 300 g da Creatina Monohidratada da Probiótica",
+            "caption": "Creatina Monohidratada Pura, pote de 300 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.899
+          }
+        ]
+      },
+      {
+        "heading": "Cupom da Probiótica",
+        "paragraphs": [
+          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica. O percentual varia por produto, e nem todo item recebe os 10%. O cupom soma com as promoções do site e vale em todas as formas de pagamento. O passo a passo no carrinho está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras, na [página do cupom Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "Quando a monodose compensa",
+        "bullets": [
+          "**Menor preço por dose:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p), R$ 1,00 por dose e R$ 19,97 por 100 g. É a escolha pelo preço, e rende 60 doses.",
+          "**Quantidade menor, ainda pelo pote:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p), R$ 33,89 por 20 doses. Custa mais por grama que o de 300 g, mas menos que o sachê, e serve para quem não quer o pote grande.",
+          "**O sachê como escolha de formato:** [Creatina Monodose](https://www.probiotica.com.br/creatina-monodose/p), R$ 69,89 por 30 doses. Compensa só se a dose já separada vale R$ 1,33 a mais para você; pelo rótulo, a creatina por porção é a mesma do pote."
+        ],
+        "postParagraphs": [
+          "As outras versões da linha, com a Creapure de 150 g e o que o rótulo de cada uma declara, estão em [qual creatina da Probiótica compensa](/reviews/creatina-probiotica-qual-compensa). Quem procura whey em sachê encontra o perfil em [melhor whey: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo); o sachê de outra marca está no guia do [whey da Mais Mu](/reviews/whey-mais-mu-qual-escolher).",
+          "Este texto lê o rótulo e o preço; não indica dose nem uso. Quem tem dúvida sobre suplemento fala com um nutricionista ou médico."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Creatina monodose da Probiótica vale a pena? Pelo preço de 28/10/2026, não pelo bolso: R$ 46,59 por 100 g e R$ 2,33 por dose, contra R$ 19,97 e R$ 1,00 no pote de 300 g. Vale só para quem quer a dose em sachê e aceita pagar R$ 1,33 a mais por dose.",
+          "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
+          "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89 em 28/10/2026.",
+          "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
+          "Whey em sachê da Probiótica compensa? Este guia trata só da creatina. O whey, com o perfil de quem compra em sachê, está no guia de melhor whey por objetivo."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Probiótica. O Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA.",
+          "Fontes: as fichas, as tabelas nutricionais mostradas nas imagens das fichas e os preços do site probiotica.com.br, lidos em 28/10/2026, e a página do cupom PRO10EMCASACOMCECILIA. Ninguém da equipe usou os produtos: o texto mostra o que o rótulo e o preço dizem; não é orientação de nutricionista nem de médico. Preço e estoque mudam: confira no site antes de comprar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja a creatina em pote e em sachê da Probiótica e aplique o cupom PRO10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Probiótica",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom da Probiótica.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-probiotica-qual-compensa",
+        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "slug": "creatina-max-titanium-qual-pote",
+    "locale": "pt",
+    "title": "Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure",
+    "seoTitle": "Creatina Max Titanium: qual pote compensa e se é Creapure",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os quatro potes de creatina da Max Titanium (100 g, 300 g, 500 g e Creapure 250 g) pelo rótulo e pelo preço por 100 g e por dose de 28/10/2026: qual compensa, em qual pote está o selo Creapure e quanto cada um dura.",
+    "metaDescription": "Creatina Max Titanium: o pote de 100 g, 300 g, 500 g e a Creapure 250 g comparados pelo rótulo, com o preço por 100 g e por dose de 28/10/2026, o selo Creapure e o cupom MAX10EMCASACOMCECILIA.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa.webp",
+    "imageAlt": "Potes de creatina da Max Titanium com o logo da marca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O pote de 500 g é o mais barato por grama e por dose: R$ 17,51 por 100 g e R$ 0,88 por dose de 5 g, em 28/10/2026. O selo Creapure só existe no pote de 250 g, que custa mais de 3 vezes isso por grama. A conta de cada pote está em \"Qual pote compensa\"."
+        ]
+      },
+      {
+        "heading": "Os quatro potes de creatina da Max",
+        "paragraphs": [
+          "No site da Max Titanium, a creatina sem sabor vem em três potes, de 100 g, 300 g e 500 g, e há um quarto pote, a Creatina Creapure de 250 g. Os quatro são creatina monohidratada em pó e têm a mesma tabela nutricional por dose: porção de 5 g (1 dosador) com 5.000 mg de creatina, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras ou sódio. O que muda entre eles é o tamanho, o número de porções, o preço por grama e, no de 250 g, o selo Creapure.",
+          "A Max também vende a Creatina 7Belo de 300 g, com sabor, que fica fora deste guia: a conta dela, ao lado das creatinas com sabor de outras marcas, está no [guia de creatina com sabor](/reviews/creatina-com-sabor-qual-escolher). A creatina em cápsulas (120 unidades) estava sem estoque em 28/10/2026 e por isso não entra na tabela."
+        ]
+      },
+      {
+        "heading": "Preço por 100 g e por dose em 28/10/2026",
+        "paragraphs": [
+          "Preços do site oficial da Max em 28/10/2026, sem cupom e sem frete. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Porções (5 g)",
+            "Preço",
+            "Por 100 g",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Creatina 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p)",
+              "20",
+              "R$ 33,89 (de R$ 39,90)",
+              "R$ 33,89",
+              "R$ 1,69"
+            ],
+            [
+              "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
+              "60",
+              "R$ 59,90 (de R$ 75,10)",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
+              "[Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
+              "100",
+              "R$ 87,53 (de R$ 115,60)",
+              "R$ 17,51",
+              "R$ 0,88"
+            ],
+            [
+              "[Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
+              "50",
+              "R$ 139,89 (de R$ 147,20)",
+              "R$ 55,96",
+              "R$ 2,80"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta é simples: preço dividido pelos gramas do pote, vezes 100. Por 100 g, o pote de 500 g custa 12% menos que o de 300 g e quase metade do de 100 g. O de 100 g é o mais caro por grama entre os sem sabor: cada dose sai a R$ 1,69, contra R$ 0,88 no de 500 g. A Creapure de 250 g custa R$ 55,96 por 100 g, 3,2 vezes o pote de 500 g e 2,8 vezes o de 300 g.",
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto no site da Max, e o percentual varia por produto: o carrinho mostra quanto cada item recebeu. Ele soma com as promoções do site e vale em todas as formas de pagamento. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+            "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
+            "caption": "O pote de 500 g, o mais barato por grama em 28/10/2026. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6721
+          }
+        ]
+      },
+      {
+        "heading": "Creapure: em qual pote está e quanto custa a mais",
+        "paragraphs": [
+          "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A ficha diz que a matéria-prima é produzida na Alemanha pela Alzchem, dona da marca Creapure. As páginas dos potes de 100 g, 300 g e 500 g, lidas em 28/10/2026, não citam Creapure: são creatina monohidratada sem o selo.",
+          "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. O que a Creapure acrescenta, segundo a Max, é a origem da matéria-prima e os testes de pureza do fabricante alemão. Este texto não afirma que uma creatina faz mais efeito que a outra: as fichas não comprovam isso, e ninguém do site usou os produtos.",
+          "A diferença é de preço. Em 28/10/2026, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 87,53 pelo dobro de produto, ou R$ 0,88 por dose. Quem quer o selo paga cerca de R$ 1,92 a mais por dose, ou R$ 96 a mais a cada 50 doses."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
+            "alt": "Pote de 250 g da Creatina Creapure da Max Titanium, com o selo Creapure na embalagem",
+            "caption": "A Creatina Creapure de 250 g, o único pote da Max com o selo. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8815
+          }
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz: ingredientes, dose e porções",
+        "bullets": [
+          "**Ingredientes dos potes de 100 g, 300 g e 500 g:** creatina monohidratada e antiumectante dióxido de silício. Não contém glúten. A ficha avisa que pode conter derivados de leite, ovo e soja.",
+          "**Ingrediente da Creapure 250 g:** só creatina monohidratada. Não contém glúten. A ficha não traz aviso de alergênicos.",
+          "**Porção:** 5 g (1 dosador) com 5.000 mg de creatina, nos quatro potes.",
+          "**Porções por embalagem:** 20 no pote de 100 g, 60 no de 300 g, 100 no de 500 g e 50 na Creapure de 250 g, pela tabela nutricional.",
+          "**O dosador do pote de 300 g:** o modo de preparo da página manda encher o dosador até a marcação de 3 g, mas a tabela nutricional do mesmo pote diz porção de 5 g e 60 porções, e a recomendação de uso na mesma página fala em 5 g por dia. A conta deste guia usa a tabela. Confira a marcação do dosador na embalagem antes de preparar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-tabela-300g.webp",
+            "alt": "Tabela nutricional da Creatina 300 g da Max Titanium: 60 porções por embalagem, porção de 5 g com 5.000 mg de creatina",
+            "caption": "Tabela nutricional do pote de 300 g, na página do produto: 60 porções de 5 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3575
+          }
+        ]
+      },
+      {
+        "heading": "Quanto tempo cada pote dura",
+        "paragraphs": [
+          "Com uma porção de 5 g por dia, que é a dose das tabelas, cada pote rende o número de porções em dias:"
+        ],
+        "bullets": [
+          "**100 g:** 20 dias.",
+          "**Creapure 250 g:** 50 dias.",
+          "**300 g:** 60 dias, dois meses.",
+          "**500 g:** 100 dias, pouco mais de três meses."
+        ],
+        "postParagraphs": [
+          "Quem toma mais ou menos que isso refaz a conta pela própria dose. A quantidade para cada pessoa é assunto de nutricionista ou médico: este guia só lê o rótulo."
+        ]
+      },
+      {
+        "heading": "Qual pote compensa",
+        "bullets": [
+          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 17,51 por 100 g e R$ 0,88 por dose em 28/10/2026. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
+          "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa quase o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
+          "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a R$ 59,90 e R$ 1,00 por dose. Dois meses de uso por 12% a mais por grama que o de 500 g.",
+          "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 3,2 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
+        ],
+        "postParagraphs": [
+          "Em qualquer um dos quatro, o cupom MAX10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A creatina da Max Titanium é boa? Pelo rótulo, os quatro potes são creatina monohidratada com 5.000 mg por porção de 5 g, e os sem sabor levam só o antiumectante dióxido de silício além da creatina. Ninguém do site usou o produto, e as fichas não comprovam efeito: o que dá para comparar é o rótulo e o preço por grama.",
+          "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas lidas em 28/10/2026.",
+          "A creatina da Max Titanium é pura? As fichas dizem creatina monohidratada; os potes sem sabor têm dióxido de silício como antiumectante, e a Creapure traz só creatina monohidratada na lista. \"Pura\" como garantia de qualidade não é algo que a ficha comprove, e este texto não afirma.",
+          "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,88 por dose em 28/10/2026. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
+          "A creatina de 300 g e a de 500 g da Max são iguais? Pela ficha, sim: os mesmos ingredientes, a mesma porção de 5 g com 5.000 mg de creatina e nenhum dos dois declara Creapure. Muda o número de porções (60 e 100) e o preço por grama, mais baixo no de 500 g."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo de parceria comissionada com a Max Titanium. Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. Ninguém do site usou as creatinas: o texto lê a ficha, a tabela nutricional e o preço de 28/10/2026 no site oficial. Não é orientação de nutricionista nem de médico. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os potes de creatina da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelo cupom da Max Titanium.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-ou-dux",
+        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-ou-growth",
+        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "creatina-com-sabor-qual-escolher",
+        "title": "Creatina com sabor: qual escolher, pelo rótulo e pelo preço por grama"
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "slug": "pre-treino-max-titanium-horus-ou-egide",
+    "locale": "pt",
+    "title": "Pré-treino Max Titanium: Hórus ou Égide, pela cafeína no rótulo e pelo preço por dose",
+    "seoTitle": "Pré-treino Max Titanium: Hórus ou Égide, cafeína e preço por dose",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Hórus, Égide e Night Train da Max Titanium lado a lado: cafeína por dose, beta-alanina, taurina, dose e número de doses pela tabela do rótulo, e o preço por dose com e sem o cupom MAX10EMCASACOMCECILIA, pelo site oficial em 28/10/2026.",
+    "metaDescription": "Pré-treino Max Titanium: Hórus ou Égide? Compare cafeína por dose, dose e preço por dose pela tabela do rótulo, com o Night Train sem cafeína e o cupom MAX10EMCASACOMCECILIA, em 28/10/2026.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
+    "imageAlt": "Potes dos pré-treinos Hórus e Égide da Max Titanium, com o logo da loja",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Hórus ou Égide",
+        "paragraphs": [
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g é o mais barato por dose, R$ 2,20 em 28/10/2026, porque rende 50 doses de 6 g. Quem não quer cafeína tem o Night Train, e os números e o fechamento estão abaixo."
+        ]
+      },
+      {
+        "heading": "Os pré-treinos da Max Titanium pelo rótulo",
+        "paragraphs": [
+          "A Max Titanium vende três pré-treinos em pó, cada um em pote de 300 g: o [Hórus](https://www.maxtitanium.com.br/horus/p), que também sai em [150 g](https://www.maxtitanium.com.br/horus-pote--150g/p); o [Égide](https://www.maxtitanium.com.br/egide-300g/p), também em [150 g](https://www.maxtitanium.com.br/egide-150g/p); e o [Night Train](https://www.maxtitanium.com.br/night-train-/p), sem cafeína. O Shook, pré-treino de 300 g com 200 mg de cafeína numa dose de 8 g, fica fora deste guia: ele está em [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
+          "A tabela traz o que está escrito na tabela nutricional da página de cada produto, por dose. O Hórus e o Night Train usam a mesma dose, 8,4 g, um dosador e meio. O Égide usa 6 g, um dosador."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose",
+            "Cafeína por dose",
+            "Beta-alanina",
+            "Taurina",
+            "Arginina",
+            "Tirosina"
+          ],
+          "rows": [
+            [
+              "[Hórus 300 g e 150 g](https://www.maxtitanium.com.br/horus/p)",
+              "8,4 g",
+              "150 mg",
+              "2.000 mg",
+              "1.000 mg",
+              "1.000 mg",
+              "não tem"
+            ],
+            [
+              "[Égide 300 g e 150 g](https://www.maxtitanium.com.br/egide-300g/p)",
+              "6 g",
+              "200 mg",
+              "2.000 mg",
+              "1.200 mg",
+              "1.000 mg",
+              "263 mg"
+            ],
+            [
+              "[Night Train 300 g](https://www.maxtitanium.com.br/night-train-/p)",
+              "8,4 g",
+              "sem linha de cafeína",
+              "2 g",
+              "1.000 mg",
+              "1.000 mg",
+              "não tem"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Hórus de 300 g e o de 150 g têm a mesma tabela, e o Égide de 300 g e o de 150 g também. A tabela do Night Train não traz linha de cafeína, e a lista de ingredientes não cita cafeína; o título da página diz \"sem cafeína\".",
+          "O carboidrato por dose muda entre eles. O Hórus tem 3,3 g de carboidrato e 1,8 g de açúcares adicionados por dose, e a lista de ingredientes traz isomaltulose. O Égide tem 0,8 g de carboidrato e a tabela diz que não contém quantidade significativa de açúcares. O Night Train tem 3,9 g de carboidrato e 0,1 g de açúcares adicionados.",
+          "Sabores à venda em 28/10/2026, pelas páginas dos produtos: o Hórus de 300 g em amora, frutas vermelhas, maçã verde, citrus, Blue Ice, limão yuzu e cotton candy; o Égide de 300 g em frutas vermelhas, açaí com guaraná, limão, frutas silvestres e dois sabores com o nome do Ramon Dino, abacaxi e manga e abacaxi com hortelã; o Égide de 150 g em frutas vermelhas, açaí com guaraná, frutas silvestres e limão; o Night Train em frutas vermelhas e citrus. Todos declaram não conter glúten, e todos levam sucralose e corante artificial."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-horus-300g.webp",
+            "alt": "Pote do pré-treino Hórus 300 g da Max Titanium, sabor amora, com os números do rótulo: 2 g de beta-alanina, 150 mg de cafeína, 1.000 mg de taurina e 1.000 mg de arginina",
+            "caption": "Foto oficial da Max Titanium: Hórus 300 g, sabor amora.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8798
+          },
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+            "alt": "Pote do pré-treino Égide 300 g da Max Titanium, sabor frutas vermelhas",
+            "caption": "Foto oficial da Max Titanium: Égide 300 g, sabor frutas vermelhas.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8824
+          }
+        ]
+      },
+      {
+        "heading": "Hórus ou Égide: o que muda no rótulo",
+        "paragraphs": [
+          "Cafeína: 150 mg no Hórus e 200 mg no Égide. A diferença é de 50 mg por dose, e o Égide chega a esse número numa dose menor.",
+          "Dose: 8,4 g no Hórus e 6 g no Égide. É essa diferença que muda o número de doses do pote de 300 g: cerca de 36 no Hórus e 50 no Égide.",
+          "Beta-alanina e arginina: iguais, 2.000 mg e 1.000 mg por dose nos dois. Taurina: 1.000 mg no Hórus e 1.200 mg no Égide. Tirosina: só o Égide tem, 263 mg por dose.",
+          "Carboidrato: 3,3 g no Hórus, com 1,8 g de açúcares adicionados, e 0,8 g no Égide, sem açúcares em quantidade significativa. Para quem olha o açúcar do rótulo, o Égide é a linha com menos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
+            "alt": "Tabela nutricional do Hórus 300 g sabor amora: cerca de 36 porções de 8,4 g, 13 kcal, 3,3 g de carboidratos, 1,8 g de açúcares adicionados, 1.000 mg de arginina, 2.000 mg de beta-alanina, 150 mg de cafeína e 1.000 mg de taurina por dose",
+            "caption": "Tabela nutricional do Hórus 300 g, da página do produto na Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8491
+          },
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
+            "alt": "Tabela nutricional do Égide 300 g sabor frutas vermelhas: 50 porções de 6 g, 3 kcal, 0,8 g de carboidratos, 1.000 mg de arginina, 2.000 mg de beta-alanina, 263 mg de tirosina, 200 mg de cafeína e 1.200 mg de taurina por dose",
+            "caption": "Tabela nutricional do Égide 300 g, da página do produto na Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0112
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada dose",
+        "paragraphs": [
+          "O preço por dose é o preço do site em 28/10/2026 dividido pelo número de doses que a tabela do rótulo declara. A última coluna aplica o teto do cupom MAX10EMCASACOMCECILIA, 10%, sobre esse preço; o desconto real varia por produto e pode ser menor. A conta é nossa e está arredondada no centavo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Dose e doses",
+            "Preço em 28/10/2026",
+            "Por dose",
+            "Por dose com o cupom no teto"
+          ],
+          "rows": [
+            [
+              "[Hórus 300 g](https://www.maxtitanium.com.br/horus/p)",
+              "8,4 g, cerca de 36",
+              "R$ 88,89 (de R$ 115,70)",
+              "R$ 2,47",
+              "R$ 2,22"
+            ],
+            [
+              "[Hórus 150 g](https://www.maxtitanium.com.br/horus-pote--150g/p)",
+              "8,4 g, cerca de 18",
+              "R$ 46,89 (de R$ 79,90)",
+              "R$ 2,61",
+              "R$ 2,34"
+            ],
+            [
+              "[Égide 300 g](https://www.maxtitanium.com.br/egide-300g/p)",
+              "6 g, 50",
+              "R$ 109,89 (de R$ 136,70)",
+              "R$ 2,20",
+              "R$ 1,98"
+            ],
+            [
+              "[Égide 150 g](https://www.maxtitanium.com.br/egide-150g/p)",
+              "6 g, 25",
+              "R$ 57,89 (de R$ 89,90)",
+              "R$ 2,32",
+              "R$ 2,08"
+            ],
+            [
+              "[Night Train 300 g](https://www.maxtitanium.com.br/night-train-/p)",
+              "8,4 g, cerca de 36",
+              "R$ 109,89",
+              "R$ 3,05",
+              "R$ 2,75"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
+          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado em 28/10/2026. Em 28/10/2026, parte dos sabores do Hórus de 150 g estava sem estoque.",
+          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52 em 28/10/2026. Ele fica fora da tabela porque não lemos a tabela nutricional dele.",
+          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Pré-treino da Max Titanium sem cafeína existe?",
+        "paragraphs": [
+          "Sim. O [Night Train](https://www.maxtitanium.com.br/night-train-/p) é o pré-treino sem cafeína da Max Titanium. O título da página diz \"sem cafeína\", a tabela nutricional não traz linha de cafeína e a lista de ingredientes não a cita: a dose de 8,4 g tem 2 g de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina, os mesmos números do Hórus sem a cafeína.",
+          "Ele custa mais por dose que os outros dois, R$ 3,05 em 28/10/2026, e vem em dois sabores, frutas vermelhas e citrus. Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes na página do produto: a quantidade de cafeína por dose fica na tabela."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-night-train-300g.webp",
+            "alt": "Pote do pré-treino Night Train 300 g da Max Titanium, sabor frutas vermelhas, com o selo sem cafeína no rótulo",
+            "caption": "Foto oficial da Max Titanium: Night Train 300 g, sabor frutas vermelhas.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8937
+          },
+          {
+            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
+            "alt": "Tabela nutricional do Night Train 300 g sabor frutas vermelhas: cerca de 36 porções de 8,4 g, 16 kcal, 3,9 g de carboidratos, 1.000 mg de arginina, 2 g de beta-alanina e 1.000 mg de taurina por dose, sem linha de cafeína",
+            "caption": "Tabela nutricional do Night Train 300 g, da página do produto na Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0405
+          }
+        ]
+      },
+      {
+        "heading": "Modo de preparo e avisos da loja",
+        "paragraphs": [
+          "O modo de preparo das páginas: o Hórus e o Night Train, 8,4 g (um dosador e meio) em 300 ml de água gelada; o Égide, 6 g (um dosador) em 150 ml. As páginas avisam que a quantidade no dosador pode variar com a densidade do pó.",
+          "As três páginas dizem que o produto não é medicamento, que não se deve exceder a recomendação diária da embalagem e que ele deve ficar fora do alcance de crianças. As páginas do Hórus de 300 g, do Égide de 150 g e do Night Train trazem o aviso de que o produto pode conter leite, ovo e soja. Quem tem alguma condição de saúde ou dúvida sobre cafeína deve falar com um médico ou um nutricionista antes de comprar."
+        ]
+      },
+      {
+        "heading": "Qual escolher: Hórus ou Égide",
+        "paragraphs": [
+          "A escolha segue o que pesa para você no rótulo e no preço por dose, com os números de 28/10/2026."
+        ],
+        "bullets": [
+          "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
+          "Menor preço por dose: Égide de 300 g, a R$ 2,20 (R$ 1,98 com o cupom no teto). O Hórus de 300 g sai a R$ 2,47 (R$ 2,22 com o cupom).",
+          "Menor preço do pote: Hórus de 300 g, R$ 88,89, ou Hórus de 150 g, R$ 46,89, para começar com um pote pequeno.",
+          "Menos carboidrato e sem açúcar adicionado no rótulo: Égide, com 0,8 g de carboidrato por dose. O Hórus tem 3,3 g, com 1,8 g de açúcares adicionados.",
+          "Sem cafeína: Night Train, a R$ 3,05 por dose.",
+          "Cupom MAX10EMCASACOMCECILIA: até 10% na Max Titanium, com o percentual variando por produto. As condições estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        ],
+        "postParagraphs": [
+          "Se o preço mudar, a conta muda. Refaça a conta por dose com o preço do dia antes de comprar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço de 28/10/2026, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, R$ 2,20 contra R$ 2,47, porque rende 50 doses de 6 g. Qual pesa mais é uma conta sua.",
+          "Pré-treino Max Titanium tem cafeína? O Hórus e o Égide têm: 150 mg e 200 mg por dose, pela tabela do rótulo. O Night Train não tem cafeína na tabela nem na lista de ingredientes.",
+          "Qual pré-treino da Max Titanium tem mais cafeína? O Égide, com 200 mg por dose de 6 g. O Hórus tem 150 mg por dose de 8,4 g.",
+          "Pré-treino Max Titanium sem cafeína existe? Sim, o Night Train, de 300 g, em frutas vermelhas e citrus. A página o chama de pré-treino sem cafeína, e a tabela do rótulo não traz linha de cafeína.",
+          "Quantas doses tem cada pote? O Hórus rende cerca de 36 doses no pote de 300 g e cerca de 18 no de 150 g. O Égide rende 50 doses no de 300 g e 25 no de 150 g. O Night Train rende cerca de 36.",
+          "Hórus da Max Titanium é bom? Ninguém do site usou o produto. O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g, a R$ 2,47 por dose no pote de 300 g em 28/10/2026.",
+          "Qual o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Veja as condições na [página do cupom](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "A Max Titanium é parceira do Em Casa com Cecília. Se você compra com o MAX10EMCASACOMCECILIA, o site recebe uma comissão, sem custo a mais para você. Ninguém do site usou os pré-treinos: o guia reúne a ficha, a tabela nutricional e o preço de cada produto no site oficial da Max Titanium, lidos em 28/10/2026. As contas por dose, com e sem cupom, são nossas, sobre o preço do dia.",
+          "Preço, estoque e promoção mudam, então vale o que aparece no carrinho na hora da compra. Sobre a loja, veja [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-ou-dux",
+        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-max-titanium-como-usar",
+        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "slug": "max-titanium-ou-integralmedica",
+    "locale": "pt",
+    "title": "Max Titanium ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina",
+    "seoTitle": "Max Titanium ou Integralmédica: whey e creatina pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Max Titanium ou Integralmédica: whey e creatina comparados pelo preço por 100 g de proteína e de creatina, com o rótulo de cada uma, os preços de 28/10/2026 e o cupom MAX10EMCASACOMCECILIA.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
+    "imageAlt": "Whey e creatina da Max Titanium, com o logo da loja e a pergunta Max Titanium ou Integralmédica",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "No whey, a Max sai mais barata por 100 g de proteína: R$ 31,17 no 100% Whey Refil, contra R$ 36,03 no pouch de 900 g da Integralmédica, pelos preços de 28/10/2026. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom da Max muda parte dessa conta, e o veredito por perfil está em Qual escolher."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, a lista de ingredientes e o preço do site lido em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
+          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida na ficha em 28/10; sem a tabela, o produto entra só pelo preço por 100 g de produto, e o texto avisa.",
+          "Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
+        ]
+      },
+      {
+        "heading": "Whey: preço por 100 g de proteína",
+        "paragraphs": [
+          "A tabela usa o sabor baunilha das duas marcas, que é o da tabela publicada em cada ficha. Na Max, o 100% Whey Refil e o 100% Whey Pote têm a mesma tabela: 21 g de proteína em cada porção de 30 g, 30 porções. O Whey Pro de 1 kg tem 15 g em 40 g, 25 porções. No pouch de 900 g da Integralmédica, são 21 g em 30 g, 30 porções. O pouch de 1,8 kg traz a mesma porção e a mesma proteína; a imagem da tabela repete \"30 porções\", mas 1,8 kg a 30 g por dose dá 60, e a conta usa 60 pelo peso."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+            "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
+            "caption": "100% Whey Refil 900 g, a linha mais barata por 100 g de proteína. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7692
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Dose, proteína por dose e porções",
+            "Preço no cartão",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
+              "900 g",
+              "30 g, 21 g de proteína, 30 porções",
+              "R$ 196,39",
+              "R$ 31,17"
+            ],
+            [
+              "[Max 100% Whey Pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
+              "900 g",
+              "30 g, 21 g de proteína, 30 porções",
+              "R$ 210,39",
+              "R$ 33,40"
+            ],
+            [
+              "[Max Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
+              "1 kg",
+              "40 g, 15 g de proteína, 25 porções",
+              "R$ 126,20",
+              "R$ 33,65"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "900 g",
+              "30 g, 21 g de proteína, 30 porções",
+              "R$ 227,00",
+              "R$ 36,03"
+            ],
+            [
+              "Integralmédica Whey Protein Concentrado pouch",
+              "1,8 kg",
+              "30 g, 21 g de proteína, 60 pelo peso",
+              "R$ 404,00",
+              "R$ 32,06"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
+          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, segundo a tabela da ficha. O pote de 900 g da Integralmédica custava R$ 240,00 em 28/10, R$ 26,67 por 100 g de produto; a tabela dele não foi lida nesse dia, e por isso ele fica fora da conta por proteína. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
+          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não foi lida em 28/10. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz",
+        "paragraphs": [
+          "Os três wheys concentrados da Max desta tabela listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e a ficha diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
+          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade. A tabela dos potes de 300 g e de 500 g da Integralmédica não foi lida em 28/10."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
+            "alt": "Tabela nutricional do 100% Whey Refil 900 g da Max Titanium, sabor baunilha: porção de 30 g com 21 g de proteína, 30 porções por embalagem.",
+            "caption": "Tabela da própria Max: 21 g de proteína em cada porção de 30 g, 30 porções. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1057
+          }
+        ]
+      },
+      {
+        "heading": "Creatina: preço por 100 g de produto",
+        "paragraphs": [
+          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são do site de cada marca, lidos em 28/10/2026, no cartão. O pouch de 1 kg da Integralmédica custava R$ 156,00 em 25/10 e R$ 125,00 em 28/10, então a diferença para a Max mudou de uma leitura para a outra: confira o preço do dia antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+            "alt": "Pote de Creatina de 500 g da Max Titanium.",
+            "caption": "Creatina 500 g, o pote da Max mais barato por 100 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6787
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Tamanho",
+            "Preço no cartão",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "[Max Creatina](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
+              "300 g",
+              "R$ 59,90",
+              "R$ 19,97"
+            ],
+            [
+              "[Max Creatina](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
+              "500 g",
+              "R$ 87,53",
+              "R$ 17,51"
+            ],
+            [
+              "Integralmédica Creatina Hardcore pote",
+              "300 g",
+              "R$ 50,00 (de R$ 60,00)",
+              "R$ 16,67"
+            ],
+            [
+              "Integralmédica Creatina Hardcore pote",
+              "500 g",
+              "R$ 83,00",
+              "R$ 16,60"
+            ],
+            [
+              "Integralmédica Creatina 100% Pura pouch",
+              "1 kg",
+              "R$ 125,00 (de R$ 156,00)",
+              "R$ 12,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No cartão, a Integralmédica fica abaixo da Max em todos os tamanhos, e o pouch de 1 kg é o mais barato da tabela por grama. Com o MAX10EMCASACOMCECILIA no teto de 10%, o pote de 500 g da Max cai para R$ 15,76 por 100 g, abaixo do Hardcore de 500 g, e o de 300 g, para R$ 17,97, ainda acima do pote de 300 g da Integralmédica. Nenhum cupom da Max alcança os R$ 12,50 do pouch de 1 kg. Por dose de 5 g, no cartão, a Max fica em R$ 1,00 (300 g) e R$ 0,88 (500 g), e o pouch de 1 kg da Integralmédica em R$ 0,63.",
+          "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções; a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo, e não fizemos checagem independente dele."
+        ]
+      },
+      {
+        "heading": "Quem fabrica e quem vende",
+        "paragraphs": [
+          "A Max Titanium é marca brasileira e vende no site próprio; quem fabrica, o CNPJ, as trocas e a reputação estão em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel). A origem da Integralmédica, com a empresa que opera a loja e o grupo que reúne a marca, está em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica), e este texto não repete a leitura."
+        ]
+      },
+      {
+        "heading": "Cupom e onde comprar",
+        "paragraphs": [
+          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto, por isso as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), com link comissionado."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "**Whey: a Max.** O 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 com o cupom no teto. O pouch de 900 g da Integralmédica fica em R$ 36,03, e o de 1,8 kg, em R$ 32,06, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
+          "**Creatina: depende do cupom e do tamanho.**"
+        ],
+        "bullets": [
+          "Para o menor preço por grama no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 por 100 g, e os potes de 300 g e de 500 g, por R$ 16,67 e R$ 16,60. A Max fica em R$ 19,97 (300 g) e R$ 17,51 (500 g).",
+          "Com o MAX10EMCASACOMCECILIA no teto, o pote de 500 g da Max cai para R$ 15,76 por 100 g e passa à frente do Hardcore de 500 g. Ainda fica acima do pouch de 1 kg da Integralmédica.",
+          "Nas Creapure, a Max sai mais barata por grama: R$ 55,96 contra R$ 61,33 por 100 g."
+        ],
+        "postParagraphs": [
+          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes. Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína em 28/10/2026, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto, o Refil cai para R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore e acima do pouch de 1 kg. Os dois rótulos lidos declaram creatina monohidratada e dose de 5 g.",
+          "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
+          "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
+          "A Integralmédica tem cupom? Não neste site. A Integralmédica não é parceira, e o MAX10EMCASACOMCECILIA vale só na Max Titanium."
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira: não há link, cupom, foto nem print dela neste texto. Não provamos os produtos; a comparação usa o que as lojas publicam, com a data da leitura, 28/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja o whey e a creatina da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom MAX10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-ou-integralmedica",
+        "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+      },
+      {
+        "slug": "max-titanium-ou-dux",
+        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-ou-growth",
+        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "slug": "hostinger-horizons-vale-a-pena",
+    "locale": "pt",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?",
+    "seoTitle": "Hostinger Horizons vale a pena? Site sem programar",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "O Criador com IA da Hostinger, o antigo Horizons, serve para site ou app simples sem programar; quem quer plugins e controle fica no WordPress. Preços de 28/10/2026, com a renovação.",
+    "metaDescription": "Hostinger Horizons virou o Criador com IA. Vale a pena ou WordPress? Quadro por tipo de projeto, comparação com Wix e Lovable, créditos de IA, preço e renovação em 28/10/2026.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Logo da Hostinger e o Criador com IA, o antigo Horizons, frente a frente com o WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Criador com IA da Hostinger, o antigo Horizons, vale a pena para quem quer um site ou um app web simples sem programar e aceita que a IA monte a primeira versão. Quem precisa de plugins, tema próprio e controle total segue melhor no WordPress. O que decide é o tipo de projeto; o quadro está abaixo."
+        ]
+      },
+      {
+        "heading": "O que é o Criador com IA (o antigo Horizons)",
+        "paragraphs": [
+          "O Horizons era o construtor de sites e apps com IA da Hostinger. Em 2026 ele se fundiu com o construtor de sites tradicional e virou o Criador com IA (Hostinger AI Builder): o endereço antigo redireciona para a página nova, e a página brasileira nem usa mais o nome Horizons. As buscas ainda usam, por isso o nome aparece aqui.",
+          "A página diz que ele cria sites e aplicativos web a partir de uma descrição em texto, sem conhecimento técnico, em dois modos:"
+        ],
+        "bullets": [
+          "**Edição sem IA (o modo Manual):** você começa com um site gerado pela IA ou com um dos modelos e edita arrastando e soltando. Não consome créditos de IA.",
+          "**Edição com IA (o modo Agentic):** você descreve o que quer no chat e a IA desenha e programa. Cada ação consome créditos de IA, e dá para recarregar."
+        ],
+        "postParagraphs": [
+          "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, lida em 28/10/2026, não um teste nosso.",
+          "Não confunda com os agentes de automação da Hostinger, como o OpenClaw e o Hermes Agent: aqueles são [assistentes que rodam num servidor](/reviews/openclaw-ou-hermes-agent) e respondem no Telegram ou no WhatsApp. O Criador com IA constrói o site."
+        ]
+      },
+      {
+        "heading": "Para qual projeto ele serve: o quadro",
+        "paragraphs": [
+          "A pergunta certa não é \"a IA é boa?\", e sim \"o que eu vou construir e quem vai mexer nisso depois?\". O quadro resume a escolha por tipo de projeto, pelo que a página do Criador com IA e a documentação do WordPress dizem em 28/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Projeto",
+            "Melhor opção",
+            "Por quê"
+          ],
+          "rows": [
+            [
+              "Cardápio, restaurante ou página de serviços",
+              "Criador com IA",
+              "Poucas páginas, texto e fotos. A IA monta, e o modo sem IA não gasta créditos para ajustar."
+            ],
+            [
+              "Portfólio ou currículo",
+              "Criador com IA",
+              "A galeria tem modelos prontos para isso, e o plano Premium já basta."
+            ],
+            [
+              "Loja pequena, com poucos produtos",
+              "Criador com IA (plano Unlimited) ou WordPress com WooCommerce",
+              "O Criador tem loja virtual integrada; o WooCommerce dá mais controle de frete e pagamento, mas pede configuração."
+            ],
+            [
+              "Blog que depende de plugins (SEO, formulários, área de membros)",
+              "WordPress",
+              "O catálogo de plugins e temas é do WordPress; no Criador, cada função nova é a IA que faz."
+            ],
+            [
+              "App web: agendamento, portal de clientes, CRM simples",
+              "Criador com IA (modo com IA)",
+              "A página promete back-end, login e banco de dados integrados. No WordPress isso vira plugins e um desenvolvedor."
+            ],
+            [
+              "Projeto que outra pessoa ou agência vai manter",
+              "WordPress",
+              "É o padrão do mercado: qualquer profissional sabe mexer."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-pt.webp",
+          "alt": "Quadro Criador com IA ou WordPress por tipo de projeto: cardápio ou página de serviços, portfólio e app web ficam com o Criador com IA; blog que depende de plugins e projeto que outra pessoa vai manter ficam com o WordPress; loja pequena serve nos dois",
+          "caption": "O resumo do quadro: o Criador com IA para site simples, portfólio e app web; o WordPress para plugins e para quem vai passar o site adiante. Quadro do Em Casa com Cecília, pelo que as páginas dizem em 28/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "Se o seu projeto está em duas linhas, comece pelo Criador com IA: ele tem teste grátis, sem cartão, com 5 créditos de IA. Se o que você precisa já tem nome de plugin, vá de WordPress."
+        ]
+      },
+      {
+        "heading": "Criador com IA ou WordPress",
+        "paragraphs": [
+          "O preço não decide: na Hostinger, o Criador com IA vem nos planos de hospedagem, os mesmos que rodam WordPress, pelos mesmos valores. O que muda é quem faz o trabalho e o que você controla."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "Criador com IA",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Quem monta o site",
+              "A IA, a partir da sua descrição, ou você no editor visual",
+              "Você, com um tema, ou um profissional"
+            ],
+            [
+              "Funções novas",
+              "Pedidas no chat; consomem créditos de IA",
+              "Plugins, milhares deles, gratuitos ou pagos"
+            ],
+            [
+              "Tema e aparência",
+              "Modelos da Hostinger e ajustes pela IA ou pelo editor",
+              "Qualquer tema, inclusive feito sob medida"
+            ],
+            [
+              "Quem corrige um erro",
+              "Você, pedindo à IA, ou o suporte da Hostinger",
+              "Você, o autor do plugin ou um desenvolvedor"
+            ],
+            [
+              "Levar para outro lugar",
+              "A página diz que o código pode ser exportado; o back-end integrado fica na Hostinger",
+              "Site inteiro vai para qualquer hospedagem"
+            ],
+            [
+              "Loja virtual",
+              "Integrada nos planos Unlimited e Cloud Startup",
+              "WooCommerce, grátis, com extensões pagas"
+            ],
+            [
+              "Manutenção",
+              "A Hostinger cuida da plataforma",
+              "Atualizar WordPress, tema e plugins é com você"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**O WordPress ganha** quando o projeto depende de um plugin específico, de um tema que você já tem, ou de alguém que vai manter o site depois. Ele é software livre: o site inteiro é seu e vai para qualquer hospedagem sem retrabalho.",
+          "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas; quem monta uma vez e edita texto e foto no editor, sem prompt, não gasta."
+        ]
+      },
+      {
+        "heading": "Criador com IA ou Wix (e Lovable)",
+        "paragraphs": [
+          "O Wix é o construtor de arrastar e soltar tradicional, com hospedagem própria. Ele tem plano grátis num endereço da Wix, e domínio próprio pede plano pago. Se você quer um editor visual puro, o Wix cumpre. Se o que pesa é poder levar o projeto embora depois, compare pelo que cada página garante: a do Criador com IA diz que o código pode ser exportado, e o WordPress é software livre e vai para qualquer hospedagem.",
+          "O Lovable é outra ferramenta de vibe coding, a mesma ideia do modo com IA do Criador: você descreve, a IA programa. A diferença está no pacote. O Lovable cobra por créditos, por mensagem, e tem plano grátis com poucos créditos por dia; é a ferramenta de criar, e domínio e e-mail você resolve à parte. Na Hostinger, hospedagem, domínio e e-mail vêm no mesmo plano, e o modo sem IA não gasta crédito. Para quem já programa e quer só a IA, o Lovable é comparável; para quem quer tudo num lugar só, a Hostinger."
+        ]
+      },
+      {
+        "heading": "Preço e renovação em 28/10/2026",
+        "paragraphs": [
+          "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em 28/10/2026, na campanha de Black Friday. A coluna \"com a indicação\" é o preço que a página mostra com o código de indicação aplicado:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Sem a indicação",
+            "Com a indicação",
+            "Renovação",
+            "Créditos de IA"
+          ],
+          "rows": [
+            [
+              "[Premium (até 3 sites)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 9,99/mês",
+              "R$ 7,99/mês",
+              "R$ 38,99/mês",
+              "250 (500 na Black Friday)"
+            ],
+            [
+              "[Unlimited (sites ilimitados, com loja virtual)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 12,99/mês",
+              "R$ 10,39/mês",
+              "R$ 64,99/mês",
+              "500 (1.000 na Black Friday)"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 39,99/mês",
+              "R$ 31,99/mês",
+              "R$ 129,99/mês",
+              "1.000 (2.000 na Black Friday)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O preço por mês é o total dividido por 48. Na prática:"
+        ],
+        "bullets": [
+          "**Premium, com a indicação:** 48 × R$ 7,99 = **R$ 383,52**. Sem a indicação: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
+          "**Unlimited, com a indicação:** 48 × R$ 10,39 = **R$ 498,72**. Sem a indicação: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
+          "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
+        ],
+        "emphasis": "A renovação custa de 4 a 6 vezes o preço promocional. Olhe a coluna da renovação antes de escolher o plano."
+      },
+      {
+        "heading": "O que conferir antes de pagar",
+        "bullets": [
+          "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Monte o site pela IA e faça os ajustes de texto e foto no editor, que não gasta.",
+          "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
+          "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger, lido em 28/10/2026: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
+          "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
+          "**Loja virtual** é item dos planos Unlimited e Cloud Startup; no Unlimited, a página de 28/10/2026 diz grátis por 3 meses. Confira no checkout o que custa depois.",
+          "**App nativo não existe.** O que o Criador faz é um app web responsivo, que abre no navegador do celular. Para a App Store e o Google Play, é outro caminho."
+        ],
+        "postParagraphs": [
+          "Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Indicação e preço com o link",
+        "paragraphs": [
+          "O link de indicação já aplica o desconto: não há código para digitar. São **20% só no primeiro período**, em planos de 12 meses ou mais, e o desconto **não soma com outros cupons**. A renovação sai pelo preço normal. Na página do Criador com IA, em 28/10/2026, os planos apareciam com a indicação aplicada, com os preços da coluna \"com a indicação\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+          "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Vale a pena? O veredito",
+        "paragraphs": [
+          "**Vale a pena** para quem quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples e não quer programar nem cuidar de plugin. A primeira versão sai da descrição, e o modo sem IA deixa ajustar sem gastar crédito. Comece pelo teste grátis; se o resultado servir, o plano Premium cobre site simples e o Unlimited, loja.",
+          "**Fique no WordPress** se o projeto depende de plugins, de um tema seu, de alguém que vai manter o site, ou se você quer levar tudo para outra hospedagem sem retrabalho. O plano da Hostinger é o mesmo nos dois casos, então a escolha é só de ferramenta.",
+          "**Na dúvida, teste o Criador com IA antes de pagar.** São 5 créditos grátis, sem cartão, o bastante para ver se a IA entende o que você quer. Se não entender, o WordPress continua lá."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Hostinger Horizons ainda existe? Existe com outro nome. Em 2026 o Horizons se fundiu com o construtor de sites da Hostinger e virou o Criador com IA (Hostinger AI Builder), com um modo de arrastar e soltar e um modo de criar pelo chat. O endereço antigo redireciona para a página nova.",
+          "O Criador com IA da Hostinger faz o site sozinho? Ele monta a primeira versão a partir da sua descrição, segundo a página. O conteúdo, as fotos e as decisões de negócio continuam sendo seus, e cada pedido no modo com IA consome créditos.",
+          "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
+          "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
+          "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
+          "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. Em 28/10/2026, o Premium custava R$ 7,99/mês com a indicação (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
+          "Tem cupom para o Criador com IA da Hostinger? Não há código para digitar. O desconto de 20% vem pelo link de indicação, só no primeiro período e em planos de 12 meses ou mais, e não soma com outros cupons."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde novembro de 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem, lidas em 28/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
+      "label": "Ver os planos com o link de indicação",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Ninguém da equipe usou o Criador com IA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      },
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 657,
+    "slug": "hostinger-ai-builder-worth-it",
+    "locale": "en",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?",
+    "seoTitle": "Is Hostinger Horizons worth it? A site without coding",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "The Hostinger AI Builder, formerly Horizons, suits a simple site or web app without coding; anyone who wants plugins and control stays on WordPress. US dollar prices from October 28, 2026, with renewal.",
+    "metaDescription": "Hostinger Horizons became the AI Builder. Worth it, or WordPress? Chart by type of project, comparison with Wix and Lovable, AI credits, price and renewal on October 28, 2026.",
+    "publishedAt": "October 28, 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Hostinger logo and the AI Builder, formerly Horizons, face to face with WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "The Hostinger AI Builder, formerly Horizons, is worth it for anyone who wants a simple website or web app without coding and accepts that the AI builds the first version. If you need plugins, your own theme and full control, you are better off on WordPress. What decides it is the type of project; the chart is below."
+        ]
+      },
+      {
+        "heading": "What the AI Builder is (formerly Horizons)",
+        "paragraphs": [
+          "Horizons was Hostinger's AI website and app builder. In 2026 it merged with the traditional website builder and became the Hostinger AI Builder: the old address redirects to the new page, which presents the product as the website builder and Horizons merged into a single builder with two modes. Searches still use the old name, which is why it appears here.",
+          "The page says it creates websites and web apps from a text description, with no technical skills, in two modes:"
+        ],
+        "bullets": [
+          "**Editing without AI (Manual mode):** you start from a site the AI generated or from one of the templates and edit by dragging and dropping. It uses no AI credits.",
+          "**Editing with AI (Agentic mode):** you describe what you want in the chat and the AI designs and codes it. Every action uses AI credits, and you can top them up."
+        ],
+        "postParagraphs": [
+          "What comes out is a website or a web app, not an app for the App Store or Google Play: the page itself says so. Hosting, domain and email come with the plan, and the source code can be exported to host elsewhere. All of this is Hostinger's description, read on October 28, 2026, not a test of ours.",
+          "Don't confuse it with Hostinger's automation agents, such as OpenClaw and Hermes Agent: those are [assistants that run on a server](/en/reviews/openclaw-vs-hermes-agent) and answer on Telegram or WhatsApp. The AI Builder builds the site."
+        ]
+      },
+      {
+        "heading": "Which project it suits: the chart",
+        "paragraphs": [
+          "The right question is not \"is the AI any good?\" but \"what am I going to build, and who will work on it afterwards?\". The chart sums up the choice by type of project, from what the AI Builder page and the WordPress documentation say on October 28, 2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Project",
+            "Best option",
+            "Why"
+          ],
+          "rows": [
+            [
+              "Menu, restaurant or services page",
+              "AI Builder",
+              "A few pages, text and photos. The AI builds it, and the no-AI mode spends no credits on adjustments."
+            ],
+            [
+              "Portfolio or résumé",
+              "AI Builder",
+              "The gallery has ready-made templates for it, and the Premium plan is enough."
+            ],
+            [
+              "Small shop with a few products",
+              "AI Builder (Unlimited plan) or WordPress with WooCommerce",
+              "The Builder has a built-in online store; WooCommerce gives more control over shipping and payment, but needs setting up."
+            ],
+            [
+              "Blog that depends on plugins (SEO, forms, members area)",
+              "WordPress",
+              "The plugin and theme catalogue belongs to WordPress; in the Builder, every new function is the AI's job."
+            ],
+            [
+              "Web app: bookings, client portal, simple CRM",
+              "AI Builder (AI mode)",
+              "The page promises a built-in back end, login and database. On WordPress that becomes plugins and a developer."
+            ],
+            [
+              "Project someone else or an agency will maintain",
+              "WordPress",
+              "It is the market standard: any professional can work on it."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-en.webp",
+          "alt": "Chart AI Builder or WordPress by type of project: a menu or services page, a portfolio and a web app go to the AI Builder; a blog that depends on plugins and a project someone else will maintain go to WordPress; a small shop works on both",
+          "caption": "The chart in short: the AI Builder for a simple site, a portfolio and a web app; WordPress for plugins and for anyone who will hand the site over. Chart by Em Casa com Cecília, from what the pages say on October 28, 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "If your project fits in two lines, start with the AI Builder: it has a free trial, no card required, with 5 AI credits. If what you need already has a plugin's name, go with WordPress."
+        ]
+      },
+      {
+        "heading": "AI Builder or WordPress",
+        "paragraphs": [
+          "Price does not decide it: at Hostinger, the AI Builder comes with the web hosting plans, the same ones that run WordPress, at the same prices. What changes is who does the work and what you control."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Who builds the site",
+              "The AI, from your description, or you in the visual editor",
+              "You, with a theme, or a professional"
+            ],
+            [
+              "New functions",
+              "Requested in the chat; they use AI credits",
+              "Plugins, thousands of them, free or paid"
+            ],
+            [
+              "Theme and look",
+              "Hostinger's templates and adjustments by the AI or in the editor",
+              "Any theme, including one made to measure"
+            ],
+            [
+              "Who fixes an error",
+              "You, by asking the AI, or Hostinger's support",
+              "You, the plugin's author or a developer"
+            ],
+            [
+              "Taking it elsewhere",
+              "The page says the code can be exported; the built-in back end stays at Hostinger",
+              "The whole site goes to any host"
+            ],
+            [
+              "Online store",
+              "Built into the Unlimited and Cloud Startup plans",
+              "WooCommerce, free, with paid extensions"
+            ],
+            [
+              "Maintenance",
+              "Hostinger looks after the platform",
+              "Updating WordPress, the theme and the plugins is on you"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress wins** when the project depends on a specific plugin, on a theme you already have, or on someone who will maintain the site later. It is free software: the whole site is yours and goes to any host with no rework.",
+          "**The AI Builder wins** when you don't want to install or update anything and want a web app with login and data, which on WordPress turns into a pile of plugins. The caveat that changes the decision: in AI mode, every change uses credits. According to the page, a simple business site takes 5 to 10 credits, and a more complex app, 15 or more. Anyone who changes the site every week needs to do the maths; anyone who builds it once and edits text and photos in the editor, without prompts, spends nothing."
+        ]
+      },
+      {
+        "heading": "AI Builder or Wix (and Lovable)",
+        "paragraphs": [
+          "Wix is the traditional drag-and-drop builder, with its own hosting. It has a free plan on a Wix address, and your own domain requires a paid plan. If you want a pure visual editor, Wix does the job. If what matters is being able to take the project away later, compare what each page guarantees: the AI Builder's says the code can be exported, and WordPress is free software and goes to any host.",
+          "Lovable is another vibe coding tool, the same idea as the AI Builder's AI mode: you describe, the AI codes. The difference is the package. Lovable charges per credit, per message, and has a free plan with a few credits a day; it is the tool for creating, and you sort out domain and email separately. At Hostinger, hosting, domain and email come in the same plan, and the no-AI mode uses no credits. For anyone who already codes and wants only the AI, Lovable is comparable; for anyone who wants everything in one place, Hostinger."
+        ]
+      },
+      {
+        "heading": "Price and renewal on October 28, 2026",
+        "paragraphs": [
+          "The AI Builder has no plan of its own: it comes with the web hosting plans, on 48-month terms paid up front. The prices below are from Hostinger's international site, in US dollars, read on October 28, 2026 through the referral link, during the Black Friday campaign; the page shows the discount already applied, with the crossed-out price next to it. In your country, Hostinger may show another currency and taxes, so check the cart before you pay. The AI credit column is each plan's one-time allowance, doubled during Black Friday:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "With the referral link",
+            "Paid up front (48 months)",
+            "Renewal",
+            "AI credits"
+          ],
+          "rows": [
+            [
+              "[Premium (up to 3 sites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$1.99/month (US$12.19 crossed out)",
+              "US$95.52",
+              "US$10.99/month",
+              "250 (500 during Black Friday)"
+            ],
+            [
+              "[Unlimited (unlimited sites, with online store)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$2.79/month (US$18.99 crossed out)",
+              "US$133.92",
+              "US$16.99/month",
+              "500 (1,000 during Black Friday)"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$6.39/month",
+              "US$306.72",
+              "US$25.99/month",
+              "1,000 (2,000 during Black Friday)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The monthly price is the total divided by 48. In practice:"
+        ],
+        "bullets": [
+          "**Premium, with the link:** 48 × US$1.99 = **US$95.52**. **Renewal, over the following 48 months:** 48 × US$10.99 = US$527.52.",
+          "**Unlimited, with the link:** 48 × US$2.79 = **US$133.92**. **Renewal:** 48 × US$16.99 = US$815.52.",
+          "**AI credits are a one-time allowance**, not monthly. Once they run out, it is a top-up, and the top-up price does not appear on the page: check the panel before counting on it."
+        ],
+        "emphasis": "Renewal costs 4 to 6 times the promotional price. Look at the renewal column before choosing a plan."
+      },
+      {
+        "heading": "What to check before paying",
+        "bullets": [
+          "**The credits.** The AI mode spends credits on every request, and the plan's balance does not renew every month. Build the site with the AI and make the text and photo tweaks in the editor, which costs nothing.",
+          "**What happens if you don't renew.** The page warns: an expired plan that is not renewed takes the project offline and deletes the data. Export the code before letting it lapse.",
+          "**Domain and email are free only in the first year.** After that, the domain renews at Hostinger's list price, read on October 28, 2026: a .com costs US$19.99 per year.",
+          "**30-day refund**, as long as you have used fewer than 30 AI credits.",
+          "**The online store** is a feature of the Unlimited and Cloud Startup plans; the international page lists it as available at checkout. Check there what it costs.",
+          "**There is no native app.** What the Builder makes is a responsive web app that opens in the phone's browser. For the App Store and Google Play, it is another path."
+        ],
+        "postParagraphs": [
+          "How Hostinger charges, renews and refunds is in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
+        ]
+      },
+      {
+        "heading": "The referral link and the price with it",
+        "paragraphs": [
+          "The referral link already applies the discount: there is no code to type. It gives **20% off the first period only**, on plans of 12 months or more, and the discount **does not stack with other coupons**. Renewal is charged at the normal price. On the AI Builder page, on October 28, 2026, the plans appeared with the referral applied, at the prices in the \"with the referral link\" column above. The full rule and the other products are on [Hostinger's page on the site](/en/coupons/hostinger).",
+          "Hostinger is running its Black Friday campaign, with no end date on the page, and the prices and the doubled credits may change. Check the amount in the cart before you pay."
+        ]
+      },
+      {
+        "heading": "Is it worth it? The verdict",
+        "paragraphs": [
+          "**It is worth it** for anyone who wants a site with a few pages, a portfolio, a small shop or a simple web app and doesn't want to code or look after plugins. The first version comes out of the description, and the no-AI mode lets you adjust without spending credits. Start with the free trial; if the result works for you, the Premium plan covers a simple site and Unlimited, a shop.",
+          "**Stay on WordPress** if the project depends on plugins, on a theme of yours, on someone who will maintain the site, or if you want to take everything to another host with no rework. The Hostinger plan is the same in both cases, so the choice is only about the tool.",
+          "**When in doubt, try the AI Builder before paying.** There are 5 free credits, no card required, enough to see whether the AI understands what you want. If it doesn't, WordPress is still there."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does Hostinger Horizons still exist? It does, under another name. In 2026 Horizons merged with Hostinger's website builder and became the Hostinger AI Builder, with a drag-and-drop mode and a mode for creating through the chat. The old address redirects to the new page.",
+          "Does the Hostinger AI Builder make the site on its own? It builds the first version from your description, according to the page. The content, the photos and the business decisions are still yours, and every request in AI mode uses credits.",
+          "Do you need to know how to code to use the AI Builder? No. The page says neither mode requires technical knowledge. Anyone who can code gets a code editor in AI mode.",
+          "Can you move from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
+          "Is the AI Builder good for an online store? For a small shop, yes: the online store is a feature of the Unlimited and Cloud Startup plans. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
+          "How much does Hostinger Horizons cost in 2026? The AI Builder comes with the hosting plans. On October 28, 2026, on the international site with the referral link, Premium cost US$1.99/month on a 48-month term (US$95.52 up front) and renews at US$10.99/month; Unlimited, US$2.79/month (US$133.92) and renews at US$16.99/month.",
+          "Is there a coupon for the Hostinger AI Builder? There is no code to type. The 20% discount comes through the referral link, only on the first period and on plans of 12 months or more, and it does not stack with other coupons."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered at Hostinger since November 2024. No one on the team has used the AI Builder or Horizons: this text gathers what Hostinger's product page, the WordPress documentation and the public pages of Wix and Lovable say, read on October 28, 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "The referral code is already in the link: the 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+      "label": "See the plans with the referral link",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. No one on the team has used the AI Builder.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      },
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "slug": "creador-ia-hostinger-vale-la-pena",
+    "locale": "es",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?",
+    "seoTitle": "¿Hostinger Horizons vale la pena? Web sin programar",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "El Hostinger AI Builder, el antiguo Horizons, sirve para una web o una app sencilla sin programar; quien quiere plugins y control sigue en WordPress. Precios en dólares del 28 de octubre de 2026, con la renovación.",
+    "metaDescription": "Hostinger Horizons pasó a ser el AI Builder. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable, créditos de IA, precio y renovación el 28 de octubre de 2026.",
+    "publishedAt": "28 de octubre de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Logo de Hostinger y el AI Builder, el antiguo Horizons, frente a frente con WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El Hostinger AI Builder, el antiguo Horizons, vale la pena para quien quiere una web o una app web sencilla sin programar y acepta que la IA monte la primera versión. Quien necesita plugins, tema propio y control total sigue mejor en WordPress. Lo que decide es el tipo de proyecto; el cuadro está más abajo."
+        ]
+      },
+      {
+        "heading": "Qué es el AI Builder (el antiguo Horizons)",
+        "paragraphs": [
+          "Horizons era el constructor de webs y apps con IA de Hostinger. En 2026 se fusionó con el constructor de sitios tradicional y pasó a ser el Hostinger AI Builder: la dirección antigua redirige a la página nueva, que presenta el producto como la fusión del constructor de sitios y Horizons en un solo constructor con dos modos. Las búsquedas siguen usando el nombre antiguo, y por eso aparece aquí.",
+          "La página dice que crea sitios web y aplicaciones web a partir de una descripción en texto, sin conocimientos técnicos, en dos modos:"
+        ],
+        "bullets": [
+          "**Edición sin IA (el modo Manual):** empiezas con una web generada por la IA o con una de las plantillas y editas arrastrando y soltando. No consume créditos de IA.",
+          "**Edición con IA (el modo Agentic):** describes lo que quieres en el chat y la IA diseña y programa. Cada acción consume créditos de IA, y se pueden recargar."
+        ],
+        "postParagraphs": [
+          "Lo que sale de ahí es una web o una aplicación web, no una app para la App Store o Google Play: la propia página lo dice. El hosting, el dominio y el correo vienen en el plan, y el código fuente se puede exportar para alojarlo en otro sitio. Todo esto es la descripción de Hostinger, leída el 28 de octubre de 2026, no una prueba nuestra.",
+          "No lo confundas con los agentes de automatización de Hostinger, como OpenClaw y Hermes Agent: esos son [asistentes que corren en un servidor](/es/reviews/openclaw-o-hermes-agent) y responden por Telegram o WhatsApp. El AI Builder construye la web."
+        ]
+      },
+      {
+        "heading": "Para qué proyecto sirve: el cuadro",
+        "paragraphs": [
+          "La pregunta correcta no es «¿la IA es buena?», sino «¿qué voy a construir y quién lo va a tocar después?». El cuadro resume la elección por tipo de proyecto, según lo que dicen la página del AI Builder y la documentación de WordPress el 28 de octubre de 2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Proyecto",
+            "Mejor opción",
+            "Por qué"
+          ],
+          "rows": [
+            [
+              "Carta, restaurante o página de servicios",
+              "AI Builder",
+              "Pocas páginas, texto y fotos. La IA la monta, y el modo sin IA no gasta créditos para ajustar."
+            ],
+            [
+              "Portafolio o currículum",
+              "AI Builder",
+              "La galería tiene plantillas listas para eso, y el plan Premium ya basta."
+            ],
+            [
+              "Tienda pequeña, con pocos productos",
+              "AI Builder (plan Unlimited) o WordPress con WooCommerce",
+              "El AI Builder tiene tienda online integrada; WooCommerce da más control de envíos y pagos, pero pide configuración."
+            ],
+            [
+              "Blog que depende de plugins (SEO, formularios, área de miembros)",
+              "WordPress",
+              "El catálogo de plugins y temas es de WordPress; en el AI Builder, cada función nueva la hace la IA."
+            ],
+            [
+              "App web: reservas, portal de clientes, CRM sencillo",
+              "AI Builder (modo con IA)",
+              "La página promete back-end, login y base de datos integrados. En WordPress eso se convierte en plugins y un desarrollador."
+            ],
+            [
+              "Proyecto que otra persona o una agencia va a mantener",
+              "WordPress",
+              "Es el estándar del mercado: cualquier profesional sabe usarlo."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-es.webp",
+          "alt": "Cuadro AI Builder o WordPress por tipo de proyecto: carta o página de servicios, portafolio y app web van con el AI Builder; blog que depende de plugins y proyecto que otra persona va a mantener van con WordPress; la tienda pequeña sirve en los dos",
+          "caption": "El resumen del cuadro: el AI Builder para una web sencilla, un portafolio y una app web; WordPress para plugins y para quien va a pasar la web a otra persona. Cuadro de Em Casa com Cecília, según lo que dicen las páginas el 28 de octubre de 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "Si tu proyecto cabe en dos líneas, empieza por el AI Builder: tiene prueba gratis, sin tarjeta, con 5 créditos de IA. Si lo que necesitas ya tiene nombre de plugin, ve con WordPress."
+        ]
+      },
+      {
+        "heading": "AI Builder o WordPress",
+        "paragraphs": [
+          "El precio no decide: en Hostinger, el AI Builder viene en los planes de hosting, los mismos que corren WordPress, al mismo precio. Lo que cambia es quién hace el trabajo y qué controlas tú."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Quién monta la web",
+              "La IA, a partir de tu descripción, o tú en el editor visual",
+              "Tú, con un tema, o un profesional"
+            ],
+            [
+              "Funciones nuevas",
+              "Se piden en el chat; consumen créditos de IA",
+              "Plugins, miles de ellos, gratuitos o de pago"
+            ],
+            [
+              "Tema y apariencia",
+              "Plantillas de Hostinger y ajustes con la IA o en el editor",
+              "Cualquier tema, incluso hecho a medida"
+            ],
+            [
+              "Quién corrige un error",
+              "Tú, pidiéndoselo a la IA, o el soporte de Hostinger",
+              "Tú, el autor del plugin o un desarrollador"
+            ],
+            [
+              "Llevarlo a otro sitio",
+              "La página dice que el código se puede exportar; el back-end integrado se queda en Hostinger",
+              "La web entera va a cualquier hosting"
+            ],
+            [
+              "Tienda online",
+              "Integrada en los planes Unlimited y Cloud Startup",
+              "WooCommerce, gratis, con extensiones de pago"
+            ],
+            [
+              "Mantenimiento",
+              "Hostinger se ocupa de la plataforma",
+              "Actualizar WordPress, el tema y los plugins es cosa tuya"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress gana** cuando el proyecto depende de un plugin concreto, de un tema que ya tienes o de alguien que va a mantener la web después. Es software libre: la web entera es tuya y va a cualquier hosting sin rehacer nada.",
+          "**El AI Builder gana** cuando no quieres instalar ni actualizar nada y quieres una app web con login y datos, lo que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una web corporativa sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que echar cuentas; quien la monta una vez y edita texto y fotos en el editor, sin prompts, no gasta."
+        ]
+      },
+      {
+        "heading": "AI Builder o Wix (y Lovable)",
+        "paragraphs": [
+          "Wix es el constructor de arrastrar y soltar tradicional, con hosting propio. Tiene plan gratis en una dirección de Wix, y el dominio propio pide plan de pago. Si quieres un editor visual puro, Wix cumple. Si lo que pesa es poder llevarte el proyecto después, compara lo que garantiza cada página: la del AI Builder dice que el código se puede exportar, y WordPress es software libre y va a cualquier hosting.",
+          "Lovable es otra herramienta de vibe coding, la misma idea del modo con IA del AI Builder: tú describes, la IA programa. La diferencia está en el paquete. Lovable cobra por créditos, por mensaje, y tiene plan gratis con pocos créditos al día; es la herramienta de crear, y el dominio y el correo los resuelves aparte. En Hostinger, el hosting, el dominio y el correo vienen en el mismo plan, y el modo sin IA no gasta créditos. Para quien ya programa y solo quiere la IA, Lovable es comparable; para quien quiere todo en un solo sitio, Hostinger."
+        ]
+      },
+      {
+        "heading": "Precio y renovación el 28 de octubre de 2026",
+        "paragraphs": [
+          "El AI Builder no tiene plan propio: viene en los planes de hosting web, de 48 meses, pagados por adelantado. Los precios de abajo son del sitio internacional de Hostinger, en dólares estadounidenses, consultados el 28 de octubre de 2026 por el enlace de referido, en campaña de Black Friday; la página muestra el descuento ya aplicado y, al lado, el precio tachado. En tu país, Hostinger puede mostrar otra moneda e impuestos, así que revisa el carrito antes de pagar. La columna de créditos de IA es la cantidad única de cada plan, el doble en Black Friday:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Con el enlace de referido",
+            "Pago por adelantado (48 meses)",
+            "Renovación",
+            "Créditos de IA incluidos"
+          ],
+          "rows": [
+            [
+              "[Premium (hasta 3 sitios)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 1,99/mes (tachado US$ 12,19)",
+              "US$ 95,52",
+              "US$ 10,99/mes",
+              "250 (500 en Black Friday)"
+            ],
+            [
+              "[Unlimited (sitios ilimitados, con tienda online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 2,79/mes (tachado US$ 18,99)",
+              "US$ 133,92",
+              "US$ 16,99/mes",
+              "500 (1.000 en Black Friday)"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 6,39/mes",
+              "US$ 306,72",
+              "US$ 25,99/mes",
+              "1.000 (2.000 en Black Friday)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "El precio por mes es el total dividido entre 48. En la práctica:"
+        ],
+        "bullets": [
+          "**Premium, con el enlace:** 48 × US$ 1,99 = **US$ 95,52**. **Renovación, en los 48 meses siguientes:** 48 × US$ 10,99 = US$ 527,52.",
+          "**Unlimited, con el enlace:** 48 × US$ 2,79 = **US$ 133,92**. **Renovación:** 48 × US$ 16,99 = US$ 815,52.",
+          "**Los créditos de IA son un regalo único**, no mensual. Cuando se acaban, toca recargar, y el precio de la recarga no aparece en la página: míralo en el panel antes de contar con él."
+        ],
+        "emphasis": "La renovación cuesta de 4 a 6 veces el precio promocional. Mira la columna de la renovación antes de elegir el plan."
+      },
+      {
+        "heading": "Qué revisar antes de pagar",
+        "bullets": [
+          "**Los créditos.** El modo con IA gasta créditos con cada petición, y el saldo del plan no se renueva cada mes. Monta la web con la IA y haz los ajustes de texto y fotos en el editor, que no gasta.",
+          "**Qué pasa si no renuevas.** La página avisa: un plan vencido y no renovado deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
+          "**Dominio y correo gratis solo el primer año.** Después, el dominio se renueva al precio de tarifa de Hostinger, consultado el 28 de octubre de 2026: un .com cuesta US$ 19,99 al año.",
+          "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
+          "**La tienda online** es parte de los planes Unlimited y Cloud Startup; la página internacional la indica como disponible en el checkout. Revisa ahí cuánto cuesta.",
+          "**No hay app nativa.** Lo que hace el AI Builder es una app web responsive, que se abre en el navegador del móvil. Para la App Store y Google Play, es otro camino."
+        ],
+        "postParagraphs": [
+          "Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+        ]
+      },
+      {
+        "heading": "Enlace de referido y precio con el enlace",
+        "paragraphs": [
+          "El enlace de referido ya aplica el descuento: no hay código que escribir. Es un **20 % solo en el primer período**, en planes de 12 meses o más, y el descuento **no se suma a otros cupones**. La renovación sale al precio normal. En la página del AI Builder, el 28 de octubre de 2026, los planes aparecían con el referido aplicado, con los precios de la columna «con el enlace de referido» de arriba. La regla completa y los demás productos están en [la página de Hostinger en el sitio](/es/coupons/hostinger).",
+          "Hostinger está en campaña de Black Friday, sin fecha de fin en la página, y los precios y los créditos dobles pueden cambiar. Revisa el importe en el carrito antes de pagar."
+        ]
+      },
+      {
+        "heading": "¿Vale la pena? El veredicto",
+        "paragraphs": [
+          "**Vale la pena** para quien quiere una web de pocas páginas, un portafolio, una tienda pequeña o una app web sencilla y no quiere programar ni ocuparse de plugins. La primera versión sale de la descripción, y el modo sin IA deja ajustar sin gastar créditos. Empieza por la prueba gratis; si el resultado te sirve, el plan Premium cubre una web sencilla y el Unlimited, una tienda.",
+          "**Quédate en WordPress** si el proyecto depende de plugins, de un tema tuyo, de alguien que va a mantener la web, o si quieres llevarlo todo a otro hosting sin rehacer nada. El plan de Hostinger es el mismo en los dos casos, así que la elección es solo de herramienta.",
+          "**En la duda, prueba el AI Builder antes de pagar.** Son 5 créditos gratis, sin tarjeta, suficientes para ver si la IA entiende lo que quieres. Si no lo entiende, WordPress sigue ahí."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Hostinger Horizons sigue existiendo? Existe con otro nombre. En 2026 Horizons se fusionó con el constructor de sitios de Hostinger y pasó a ser el Hostinger AI Builder, con un modo de arrastrar y soltar y un modo de crear por el chat. La dirección antigua redirige a la página nueva.",
+          "¿El Hostinger AI Builder hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
+          "¿Hay que saber programar para usar el AI Builder? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
+          "¿Se puede migrar del AI Builder a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back-end integrado, con base de datos y login, se queda en Hostinger, así que una app necesita reconfigurarse fuera.",
+          "¿El AI Builder sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es parte de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
+          "¿Cuánto cuesta el Horizons de Hostinger en 2026? El AI Builder viene en los planes de hosting. El 28 de octubre de 2026, en el sitio internacional con el enlace de referido, el Premium costaba US$ 1,99/mes a 48 meses (US$ 95,52 por adelantado) y se renueva a US$ 10,99/mes; el Unlimited, US$ 2,79/mes (US$ 133,92) y se renueva a US$ 16,99/mes.",
+          "¿Hay cupón para el Hostinger AI Builder? No hay código que escribir. El descuento del 20 % viene por el enlace de referido, solo en el primer período y en planes de 12 meses o más, y no se suma a otros cupones."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "Em Casa com Cecília funciona sobre el hosting gestionado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde noviembre de 2024. Nadie del equipo ha usado el AI Builder ni Horizons: este texto reúne lo que dicen la página del producto de Hostinger, la documentación de WordPress y las páginas públicas de Wix y Lovable, consultadas el 28 de octubre de 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "El código de referido ya va en el enlace: el 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
+      "label": "Ver los planes con el enlace de referido",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. Nadie del equipo ha usado el AI Builder.",
+    "relatedArticles": [
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger: no necesitas uno, y esto es lo que da el enlace de referido"
+      },
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 659,
+    "slug": "createur-ia-hostinger-avis",
+    "locale": "fr",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?",
+    "seoTitle": "Hostinger Horizons vaut-il le coup ? Un site sans coder",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Le Hostinger AI Builder, l'ancien Horizons, convient à un site ou à une app simple sans coder ; qui veut des plugins et du contrôle reste sur WordPress. Prix en dollars du 28 octobre 2026, avec le renouvellement.",
+    "metaDescription": "Hostinger Horizons est devenu l'AI Builder. Vaut-il le coup, ou WordPress ? Tableau par type de projet, comparaison avec Wix et Lovable, crédits IA, prix et renouvellement au 28 octobre 2026.",
+    "publishedAt": "28 octobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Logo de Hostinger et l'AI Builder, l'ancien Horizons, face à WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le Hostinger AI Builder, l'ancien Horizons, vaut le coup pour qui veut un site ou une app web simple sans coder et accepte que l'IA monte la première version. Qui a besoin de plugins, d'un thème à soi et d'un contrôle total reste mieux sur WordPress. Ce qui décide, c'est le type de projet ; le tableau est plus bas."
+        ]
+      },
+      {
+        "heading": "Ce qu'est l'AI Builder (l'ancien Horizons)",
+        "paragraphs": [
+          "Horizons était le créateur de sites et d'apps par IA de Hostinger. En 2026, il a fusionné avec le créateur de sites classique et est devenu le Hostinger AI Builder : l'ancienne adresse redirige vers la nouvelle page, qui présente le produit comme la fusion du créateur de sites et de Horizons en un seul outil à deux modes. Les recherches utilisent encore l'ancien nom, d'où sa présence ici.",
+          "La page dit qu'il crée des sites et des applications web à partir d'une description en texte, sans connaissances techniques, dans deux modes :"
+        ],
+        "bullets": [
+          "**Édition sans IA (le mode Manual) :** vous partez d'un site généré par l'IA ou de l'un des modèles et vous éditez par glisser-déposer. Il ne consomme pas de crédits IA.",
+          "**Édition avec IA (le mode Agentic) :** vous décrivez ce que vous voulez dans le chat et l'IA dessine et code. Chaque action consomme des crédits IA, et on peut en racheter."
+        ],
+        "postParagraphs": [
+          "Ce qui en sort est un site ou une application web, pas une app pour l'App Store ou Google Play : la page elle-même le dit. L'hébergement, le domaine et l'e-mail sont compris dans le forfait, et le code source peut être exporté pour être hébergé ailleurs. Tout cela est la description de Hostinger, relevée le 28 octobre 2026, pas un test de notre part.",
+          "Ne le confondez pas avec les agents d'automatisation de Hostinger, comme OpenClaw et Hermes Agent : ce sont des [assistants qui tournent sur un serveur](/fr/reviews/openclaw-ou-hermes-agent-que-choisir) et répondent sur Telegram ou WhatsApp. L'AI Builder construit le site."
+        ]
+      },
+      {
+        "heading": "À quel projet il convient : le tableau",
+        "paragraphs": [
+          "La bonne question n'est pas « l'IA est-elle bonne ? », mais « qu'est-ce que je vais construire, et qui y touchera ensuite ? ». Le tableau résume le choix par type de projet, d'après ce que disent la page de l'AI Builder et la documentation de WordPress au 28 octobre 2026 :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Projet",
+            "Meilleure option",
+            "Pourquoi"
+          ],
+          "rows": [
+            [
+              "Menu, restaurant ou page de services",
+              "AI Builder",
+              "Quelques pages, du texte et des photos. L'IA le monte, et le mode sans IA ne dépense pas de crédits pour les retouches."
+            ],
+            [
+              "Portfolio ou CV",
+              "AI Builder",
+              "La galerie a des modèles prêts pour ça, et le forfait Premium suffit."
+            ],
+            [
+              "Petite boutique, avec peu de produits",
+              "AI Builder (forfait Unlimited) ou WordPress avec WooCommerce",
+              "L'AI Builder a une boutique en ligne intégrée ; WooCommerce donne plus de contrôle sur la livraison et le paiement, mais demande de la configuration."
+            ],
+            [
+              "Blog qui dépend de plugins (SEO, formulaires, espace membres)",
+              "WordPress",
+              "Le catalogue de plugins et de thèmes est celui de WordPress ; dans l'AI Builder, chaque nouvelle fonction est l'affaire de l'IA."
+            ],
+            [
+              "App web : réservations, portail clients, CRM simple",
+              "AI Builder (mode avec IA)",
+              "La page promet un back-end, une connexion et une base de données intégrés. Sur WordPress, cela devient des plugins et un développeur."
+            ],
+            [
+              "Projet qu'une autre personne ou une agence va maintenir",
+              "WordPress",
+              "C'est le standard du marché : tout professionnel sait s'en servir."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-fr.webp",
+          "alt": "Tableau AI Builder ou WordPress par type de projet : menu ou page de services, portfolio et app web vont à l'AI Builder ; blog qui dépend de plugins et projet qu'une autre personne va maintenir vont à WordPress ; la petite boutique convient aux deux",
+          "caption": "Le tableau en résumé : l'AI Builder pour un site simple, un portfolio et une app web ; WordPress pour les plugins et pour qui va confier le site à quelqu'un d'autre. Tableau d'Em Casa com Cecília, d'après ce que disent les pages au 28 octobre 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "Si votre projet tient en deux lignes, commencez par l'AI Builder : il a un essai gratuit, sans carte, avec 5 crédits IA. Si ce dont vous avez besoin porte déjà un nom de plugin, allez sur WordPress."
+        ]
+      },
+      {
+        "heading": "AI Builder ou WordPress",
+        "paragraphs": [
+          "Le prix ne tranche pas : chez Hostinger, l'AI Builder est compris dans les forfaits d'hébergement, les mêmes qui font tourner WordPress, aux mêmes tarifs. Ce qui change, c'est qui fait le travail et ce que vous contrôlez."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Qui monte le site",
+              "L'IA, à partir de votre description, ou vous dans l'éditeur visuel",
+              "Vous, avec un thème, ou un professionnel"
+            ],
+            [
+              "Nouvelles fonctions",
+              "Demandées dans le chat ; elles consomment des crédits IA",
+              "Des plugins, par milliers, gratuits ou payants"
+            ],
+            [
+              "Thème et apparence",
+              "Modèles de Hostinger et retouches par l'IA ou dans l'éditeur",
+              "N'importe quel thème, y compris sur mesure"
+            ],
+            [
+              "Qui corrige une erreur",
+              "Vous, en le demandant à l'IA, ou le support de Hostinger",
+              "Vous, l'auteur du plugin ou un développeur"
+            ],
+            [
+              "Partir ailleurs",
+              "La page dit que le code peut être exporté ; le back-end intégré reste chez Hostinger",
+              "Le site entier part chez n'importe quel hébergeur"
+            ],
+            [
+              "Boutique en ligne",
+              "Intégrée aux forfaits Unlimited et Cloud Startup",
+              "WooCommerce, gratuit, avec des extensions payantes"
+            ],
+            [
+              "Maintenance",
+              "Hostinger s'occupe de la plateforme",
+              "Mettre à jour WordPress, le thème et les plugins, c'est pour vous"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress gagne** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part chez n'importe quel hébergeur sans rien refaire.",
+          "**L'AI Builder gagne** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une app web avec connexion et données, ce qui sur WordPress devient une pile de plugins. La réserve qui change la décision : en mode avec IA, chaque modification consomme des crédits. D'après la page, un site vitrine simple consomme de 5 à 10 crédits, et une app plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire ses comptes ; qui le monte une fois et modifie texte et photos dans l'éditeur, sans prompt, ne dépense rien."
+        ]
+      },
+      {
+        "heading": "AI Builder ou Wix (et Lovable)",
+        "paragraphs": [
+          "Wix est le créateur par glisser-déposer classique, avec son propre hébergement. Il a un forfait gratuit sur une adresse Wix, et le domaine à soi demande un forfait payant. Si vous voulez un éditeur visuel pur, Wix fait le travail. Si ce qui compte est de pouvoir emporter le projet plus tard, comparez ce que chaque page garantit : celle de l'AI Builder dit que le code peut être exporté, et WordPress est un logiciel libre qui part chez n'importe quel hébergeur.",
+          "Lovable est un autre outil de vibe coding, la même idée que le mode avec IA de l'AI Builder : vous décrivez, l'IA code. La différence est dans le paquet. Lovable facture au crédit, par message, et a un forfait gratuit avec peu de crédits par jour ; c'est l'outil pour créer, et le domaine et l'e-mail, vous les réglez à part. Chez Hostinger, l'hébergement, le domaine et l'e-mail sont dans le même forfait, et le mode sans IA ne consomme pas de crédits. Pour qui code déjà et ne veut que l'IA, Lovable est comparable ; pour qui veut tout au même endroit, Hostinger."
+        ]
+      },
+      {
+        "heading": "Prix et renouvellement au 28 octobre 2026",
+        "paragraphs": [
+          "L'AI Builder n'a pas de forfait à lui : il est compris dans les forfaits d'hébergement web, sur 48 mois, payés d'avance. Les prix ci-dessous sont ceux du site international de Hostinger, en dollars américains, relevés le 28 octobre 2026 par le lien de parrainage, pendant la campagne de Black Friday ; la page affiche la réduction déjà appliquée et, à côté, le prix barré. Dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes : vérifiez le panier avant de payer. La colonne des crédits IA indique la dotation unique de chaque forfait, doublée pendant la Black Friday :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Avec le lien de parrainage",
+            "Payé d'avance (48 mois)",
+            "Renouvellement",
+            "Crédits IA"
+          ],
+          "rows": [
+            [
+              "[Premium (jusqu'à 3 sites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "1,99 US$/mois (12,19 US$ barré)",
+              "95,52 US$",
+              "10,99 US$/mois",
+              "250 (500 pendant la Black Friday)"
+            ],
+            [
+              "[Unlimited (sites illimités, avec boutique en ligne)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "2,79 US$/mois (18,99 US$ barré)",
+              "133,92 US$",
+              "16,99 US$/mois",
+              "500 (1 000 pendant la Black Friday)"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "6,39 US$/mois",
+              "306,72 US$",
+              "25,99 US$/mois",
+              "1 000 (2 000 pendant la Black Friday)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le prix par mois est le total divisé par 48. En pratique :"
+        ],
+        "bullets": [
+          "**Premium, avec le lien :** 48 × 1,99 US$ = **95,52 US$**. **Renouvellement, sur les 48 mois suivants :** 48 × 10,99 US$ = 527,52 US$.",
+          "**Unlimited, avec le lien :** 48 × 2,79 US$ = **133,92 US$**. **Renouvellement :** 48 × 16,99 US$ = 815,52 US$.",
+          "**Les crédits IA sont un cadeau unique**, pas mensuel. Une fois épuisés, c'est une recharge, et le prix de la recharge n'apparaît pas sur la page : vérifiez-le dans le panneau avant de compter dessus."
+        ],
+        "emphasis": "Le renouvellement coûte 4 à 6 fois le prix promotionnel. Regardez la colonne du renouvellement avant de choisir le forfait."
+      },
+      {
+        "heading": "Ce qu'il faut vérifier avant de payer",
+        "bullets": [
+          "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde du forfait ne se renouvelle pas chaque mois. Montez le site avec l'IA et faites les retouches de texte et de photos dans l'éditeur, qui ne consomme rien.",
+          "**Ce qui se passe si vous ne renouvelez pas.** La page prévient : un forfait expiré et non renouvelé met le projet hors ligne et efface les données. Exportez le code avant de le laisser expirer.",
+          "**Domaine et e-mail gratuits seulement la première année.** Ensuite, le domaine se renouvelle au tarif de Hostinger, relevé le 28 octobre 2026 : un .com coûte 19,99 US$ par an.",
+          "**Remboursement sous 30 jours**, à condition d'avoir consommé moins de 30 crédits IA.",
+          "**La boutique en ligne** fait partie des forfaits Unlimited et Cloud Startup ; la page internationale l'indique comme disponible au paiement. Vérifiez à ce moment-là ce qu'elle coûte.",
+          "**Il n'y a pas d'app native.** Ce que fait l'AI Builder est une app web responsive, qui s'ouvre dans le navigateur du téléphone. Pour l'App Store et Google Play, c'est un autre chemin."
+        ],
+        "postParagraphs": [
+          "Comment Hostinger facture, renouvelle et rembourse est dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "Parrainage et prix avec le lien",
+        "paragraphs": [
+          "Le lien de parrainage applique déjà la réduction : il n'y a pas de code à saisir. Ce sont **20 % sur la première période seulement**, sur des forfaits de 12 mois ou plus, et la réduction **ne se cumule pas avec d'autres codes promo**. Le renouvellement se fait au prix normal. Sur la page de l'AI Builder, le 28 octobre 2026, les forfaits apparaissaient avec le parrainage appliqué, aux prix de la colonne « avec le lien de parrainage » ci-dessus. La règle complète et les autres produits sont sur [la page Hostinger du site](/fr/coupons/hostinger).",
+          "Hostinger est en campagne de Black Friday, sans date de fin sur la page, et les prix et les crédits doublés peuvent changer. Vérifiez le montant dans le panier avant de payer."
+        ]
+      },
+      {
+        "heading": "Vaut-il le coup ? Le verdict",
+        "paragraphs": [
+          "**Il vaut le coup** pour qui veut un site de quelques pages, un portfolio, une petite boutique ou une app web simple et ne veut ni coder ni s'occuper de plugins. La première version sort de la description, et le mode sans IA permet de retoucher sans dépenser de crédits. Commencez par l'essai gratuit ; si le résultat vous convient, le forfait Premium couvre un site simple et l'Unlimited, une boutique.",
+          "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans rien refaire. Le forfait Hostinger est le même dans les deux cas, donc le choix ne porte que sur l'outil.",
+          "**Dans le doute, essayez l'AI Builder avant de payer.** Ce sont 5 crédits gratuits, sans carte, assez pour voir si l'IA comprend ce que vous voulez. Si elle ne comprend pas, WordPress est toujours là."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Hostinger Horizons existe-t-il encore ? Oui, sous un autre nom. En 2026, Horizons a fusionné avec le créateur de sites de Hostinger et est devenu le Hostinger AI Builder, avec un mode glisser-déposer et un mode de création par le chat. L'ancienne adresse redirige vers la nouvelle page.",
+          "Le Hostinger AI Builder fait-il le site tout seul ? Il monte la première version à partir de votre description, d'après la page. Le contenu, les photos et les décisions commerciales restent les vôtres, et chaque demande en mode avec IA consomme des crédits.",
+          "Faut-il savoir coder pour utiliser l'AI Builder ? Non. La page dit qu'aucun des deux modes n'exige de connaissances techniques. Qui sait coder dispose d'un éditeur de code en mode avec IA.",
+          "Peut-on migrer de l'AI Builder vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une app doit être reconfigurée en dehors.",
+          "L'AI Builder convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des forfaits Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
+          "Combien coûte le Horizons de Hostinger en 2026 ? L'AI Builder est compris dans les forfaits d'hébergement. Le 28 octobre 2026, sur le site international avec le lien de parrainage, le Premium coûtait 1,99 US$/mois sur 48 mois (95,52 US$ d'avance) et se renouvelle à 10,99 US$/mois ; l'Unlimited, 2,79 US$/mois (133,92 US$) et se renouvelle à 16,99 US$/mois.",
+          "Y a-t-il un code promo pour le Hostinger AI Builder ? Il n'y a pas de code à saisir. La réduction de 20 % vient du lien de parrainage, sur la première période seulement et sur des forfaits de 12 mois ou plus, et ne se cumule pas avec d'autres codes promo."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis novembre 2024. Personne dans l'équipe n'a utilisé l'AI Builder ni Horizons : ce texte réunit ce que disent la page du produit de Hostinger, la documentation de WordPress et les pages publiques de Wix et de Lovable, relevées le 28 octobre 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+      "label": "Voir les forfaits avec le lien de parrainage",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Personne dans l'équipe n'a utilisé l'AI Builder.",
+    "relatedArticles": [
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      },
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "slug": "creatore-ia-hostinger-conviene",
+    "locale": "it",
+    "translationKey": "hostinger-ai-builder",
+    "hideFromPortugueseListings": true,
+    "title": "AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?",
+    "seoTitle": "Hostinger Horizons conviene? Siti senza programmare",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "L'AI Builder di Hostinger, l'ex Horizons, serve per un sito o un'app semplice senza programmare; chi vuole plugin e controllo resta su WordPress. Prezzi del 28/10/2026, con il rinnovo.",
+    "metaDescription": "Hostinger Horizons è diventato l'AI Builder. Conviene o meglio WordPress? Quadro per tipo di progetto, confronto con Wix e Lovable, crediti IA, prezzo e rinnovo al 28/10/2026.",
+    "publishedAt": "28 ottobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Il logo di Hostinger e l'AI Builder, l'ex Horizons, di fronte a WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "L'AI Builder di Hostinger, l'ex Horizons, conviene a chi vuole un sito o un'app web semplice senza programmare e accetta che la prima versione la monti l'IA. Chi ha bisogno di plugin, di un tema proprio e del controllo totale sta meglio su WordPress. A decidere è il tipo di progetto: il quadro è qui sotto."
+        ]
+      },
+      {
+        "heading": "Cos'è l'AI Builder (l'ex Horizons)",
+        "paragraphs": [
+          "Horizons era il costruttore di siti e app con IA di Hostinger. Nel 2026 si è fuso con il costruttore di siti tradizionale ed è diventato l'AI Builder (Hostinger AI Builder): il vecchio indirizzo reindirizza alla pagina nuova, e la pagina stessa spiega che il prodotto nasce dalla fusione del website builder con Horizons. Le ricerche usano ancora il vecchio nome, per questo compare qui.",
+          "La pagina dice che crea siti e applicazioni web a partire da una descrizione in testo, senza competenze tecniche, in due modalità:"
+        ],
+        "bullets": [
+          "**Modifica senza IA (la modalità Manual):** parti da un sito generato dall'IA o da uno dei modelli e modifichi trascinando e rilasciando. Non consuma crediti IA.",
+          "**Modifica con IA (la modalità Agentic):** descrivi nella chat quello che vuoi e l'IA disegna e programma. Ogni azione consuma crediti IA, e si possono ricaricare."
+        ],
+        "postParagraphs": [
+          "Quello che ne esce è un sito o un'applicazione web, non un'app per l'App Store o Google Play: lo dice la pagina stessa. Hosting, dominio ed e-mail sono compresi nel piano, e il codice sorgente si può esportare per ospitarlo altrove. Tutto questo è la descrizione di Hostinger, letta il 28/10/2026, non una nostra prova.",
+          "Non confonderlo con gli agenti di automazione di Hostinger, come OpenClaw e Hermes Agent: quelli sono [assistenti che girano su un server](/it/reviews/openclaw-o-hermes-agent-quale-scegliere) e rispondono su Telegram o WhatsApp. L'AI Builder costruisce il sito."
+        ]
+      },
+      {
+        "heading": "Per quale progetto serve: il quadro",
+        "paragraphs": [
+          "La domanda giusta non è «l'IA è brava?», ma «cosa costruisco e chi ci metterà mano dopo?». Il quadro riassume la scelta per tipo di progetto, in base a quello che dicono la pagina dell'AI Builder e la documentazione di WordPress il 28/10/2026:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Progetto",
+            "Opzione migliore",
+            "Perché"
+          ],
+          "rows": [
+            [
+              "Menù, ristorante o pagina di servizi",
+              "AI Builder",
+              "Poche pagine, testo e foto. L'IA monta il sito, e la modalità senza IA non consuma crediti per i ritocchi."
+            ],
+            [
+              "Portfolio o curriculum",
+              "AI Builder",
+              "La galleria ha modelli pronti per questo, e il piano Premium basta."
+            ],
+            [
+              "Piccolo negozio, con pochi prodotti",
+              "AI Builder (piano Unlimited) o WordPress con WooCommerce",
+              "L'AI Builder ha il negozio online integrato; WooCommerce dà più controllo su spedizioni e pagamenti, ma va configurato."
+            ],
+            [
+              "Blog che dipende dai plugin (SEO, moduli, area riservata)",
+              "WordPress",
+              "Il catalogo di plugin e temi è di WordPress; nell'AI Builder ogni funzione nuova la fa l'IA."
+            ],
+            [
+              "App web: prenotazioni, portale clienti, CRM semplice",
+              "AI Builder (modalità con IA)",
+              "La pagina promette back-end, login e database integrati. Su WordPress diventano plugin e uno sviluppatore."
+            ],
+            [
+              "Progetto che un'altra persona o un'agenzia manterrà",
+              "WordPress",
+              "È lo standard del mercato: qualsiasi professionista sa metterci mano."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-it.webp",
+          "alt": "Quadro AI Builder o WordPress per tipo di progetto: menù o pagina di servizi, portfolio e app web vanno all'AI Builder; blog che dipende dai plugin e progetto che manterrà qualcun altro vanno a WordPress; il piccolo negozio funziona in entrambi",
+          "caption": "Il riassunto del quadro: l'AI Builder per sito semplice, portfolio e app web; WordPress per i plugin e per chi passerà il sito ad altri. Quadro di Em Casa com Cecília, in base a quello che dicono le pagine il 28/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "Se il tuo progetto sta in due righe, comincia dall'AI Builder: ha la prova gratuita, senza carta, con 5 crediti IA. Se quello che ti serve ha già il nome di un plugin, vai di WordPress."
+        ]
+      },
+      {
+        "heading": "AI Builder o WordPress",
+        "paragraphs": [
+          "Il prezzo non decide: su Hostinger l'AI Builder è compreso nei piani di hosting, gli stessi che fanno girare WordPress, allo stesso prezzo. Cambia chi fa il lavoro e cosa controlli tu."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Chi monta il sito",
+              "L'IA, dalla tua descrizione, oppure tu nell'editor visuale",
+              "Tu, con un tema, o un professionista"
+            ],
+            [
+              "Funzioni nuove",
+              "Si chiedono nella chat; consumano crediti IA",
+              "Plugin, a migliaia, gratuiti o a pagamento"
+            ],
+            [
+              "Tema e aspetto",
+              "Modelli di Hostinger e ritocchi con l'IA o nell'editor",
+              "Qualsiasi tema, anche fatto su misura"
+            ],
+            [
+              "Chi corregge un errore",
+              "Tu, chiedendo all'IA, o l'assistenza di Hostinger",
+              "Tu, l'autore del plugin o uno sviluppatore"
+            ],
+            [
+              "Portarlo altrove",
+              "La pagina dice che il codice si può esportare; il back-end integrato resta su Hostinger",
+              "Il sito intero va su qualsiasi hosting"
+            ],
+            [
+              "Negozio online",
+              "Integrato nei piani Unlimited e Cloud Startup",
+              "WooCommerce, gratuito, con estensioni a pagamento"
+            ],
+            [
+              "Manutenzione",
+              "Della piattaforma si occupa Hostinger",
+              "Aggiornare WordPress, tema e plugin tocca a te"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress vince** quando il progetto dipende da un plugin preciso, da un tema che hai già o da qualcuno che manterrà il sito in seguito. È software libero: il sito è tutto tuo e va su qualsiasi hosting senza rifare nulla.",
+          "**L'AI Builder vince** quando non vuoi installare né aggiornare niente e vuoi un'app web con login e dati, che su WordPress diventa una pila di plugin. La riserva che cambia la decisione: nella modalità con IA ogni modifica consuma crediti. Secondo la pagina, un sito istituzionale semplice consuma da 5 a 10 crediti, e un'app più complessa 15 o più. Chi tocca il sito ogni settimana deve fare i conti; chi lo monta una volta e poi modifica testo e foto nell'editor, senza prompt, non consuma."
+        ]
+      },
+      {
+        "heading": "AI Builder o Wix (e Lovable)",
+        "paragraphs": [
+          "Wix è il costruttore trascina-e-rilascia tradizionale, con hosting proprio. Ha un piano gratuito su un indirizzo di Wix, e il dominio proprio richiede un piano a pagamento. Se vuoi un editor visuale puro, Wix fa il suo lavoro. Se quello che pesa è poter portare via il progetto in seguito, confronta quello che ogni pagina garantisce: quella dell'AI Builder dice che il codice si può esportare, e WordPress è software libero e va su qualsiasi hosting.",
+          "Lovable è un altro strumento di vibe coding, la stessa idea della modalità con IA dell'AI Builder: tu descrivi, l'IA programma. La differenza sta nel pacchetto. Lovable fa pagare a crediti, per messaggio, e ha un piano gratuito con pochi crediti al giorno; è lo strumento per creare, e dominio ed e-mail li risolvi a parte. Su Hostinger hosting, dominio ed e-mail sono nello stesso piano, e la modalità senza IA non consuma crediti. Per chi già programma e vuole solo l'IA, Lovable è paragonabile; per chi vuole tutto in un posto solo, Hostinger."
+        ]
+      },
+      {
+        "heading": "Prezzo e rinnovo al 28/10/2026",
+        "paragraphs": [
+          "L'AI Builder non ha un piano proprio: è compreso nei piani di hosting per siti, da 48 mesi, pagati in anticipo. I prezzi qui sotto sono del sito internazionale di Hostinger, in dollari USA, letti il 28/10/2026 entrando dal link di invito, durante la campagna di Black Friday; la pagina mostrava «codice di invito applicato» su ogni piano. Nel tuo Paese Hostinger può mostrare un'altra valuta e delle tasse: conferma l'importo nel carrello."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "Con il link di invito",
+            "Totale per 48 mesi",
+            "Rinnovo"
+          ],
+          "rows": [
+            [
+              "[Premium (fino a 3 siti)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "1,99 USD al mese (prezzo di listino barrato: 12,19 USD)",
+              "95,52 USD",
+              "10,99 USD al mese"
+            ],
+            [
+              "[Unlimited (siti illimitati, con negozio online)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "2,79 USD al mese (barrato: 18,99 USD)",
+              "133,92 USD",
+              "16,99 USD al mese"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "6,39 USD al mese",
+              "306,72 USD",
+              "25,99 USD al mese"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il prezzo al mese è il totale diviso per 48. In pratica:"
+        ],
+        "bullets": [
+          "**Premium, con il link di invito:** 48 × 1,99 = **95,52 USD**. **Rinnovo, nei 48 mesi successivi:** 48 × 10,99 = 527,52 USD.",
+          "**Unlimited, con il link di invito:** 48 × 2,79 = **133,92 USD**. **Rinnovo:** 48 × 16,99 = 815,52 USD.",
+          "**I crediti IA sono un regalo una tantum**, non mensile. La pagina internazionale del 28/10/2026 ne elencava 250 nel Premium, 500 nell'Unlimited e 1.000 nel Cloud Startup, raddoppiati durante la Black Friday. Finiti, si ricarica, e il prezzo della ricarica non compare sulla pagina: verificalo nel pannello prima di contarci."
+        ],
+        "emphasis": "Il rinnovo costa da 4 a 6 volte il prezzo promozionale. Guarda la colonna del rinnovo prima di scegliere il piano."
+      },
+      {
+        "heading": "Cosa controllare prima di pagare",
+        "bullets": [
+          "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Monta il sito con l'IA e fai i ritocchi a testo e foto nell'editor, che non consuma.",
+          "**Cosa succede se non rinnovi.** La pagina avvisa: un piano scaduto e non rinnovato mette il progetto offline e cancella i dati. Esporta il codice prima di lasciarlo scadere.",
+          "**Dominio ed e-mail gratis solo il primo anno.** Dopo, il dominio si rinnova al prezzo di listino di Hostinger, letto sul sito internazionale il 28/10/2026: .com 19,99 USD all'anno.",
+          "**Rimborso entro 30 giorni**, purché tu abbia consumato meno di 30 crediti IA.",
+          "**Il negozio online** è una voce dei piani Unlimited e Cloud Startup; la pagina internazionale lo indica come disponibile nel checkout. Controlla lì quanto costa.",
+          "**L'app nativa non esiste.** Quello che fa l'AI Builder è un'app web responsive, che si apre nel browser del telefono. Per l'App Store e Google Play la strada è un'altra."
+        ],
+        "postParagraphs": [
+          "Come Hostinger fa pagare, rinnova e rimborsa è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+        ]
+      },
+      {
+        "heading": "Link di invito e prezzo con il link",
+        "paragraphs": [
+          "Il link di invito applica già lo sconto: non c'è nessun codice da digitare. Dà **il 20% solo sul primo periodo**, su piani di 12 mesi o più, e lo sconto **non si somma ad altri coupon**. Il rinnovo costa il prezzo normale. Sulla pagina dell'AI Builder, il 28/10/2026, i piani comparivano con l'invito applicato, ai prezzi della colonna «con il link di invito» qui sopra. La regola completa e gli altri prodotti sono nella [pagina dei coupon Hostinger](/it/coupons/hostinger).",
+          "Hostinger è in campagna di Black Friday, senza data di fine sulla pagina, e i prezzi e i crediti raddoppiati possono cambiare. Controlla l'importo nel carrello prima di pagare."
+        ]
+      },
+      {
+        "heading": "Conviene? Il verdetto",
+        "paragraphs": [
+          "**Conviene** a chi vuole un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice e non vuole programmare né occuparsi di plugin. La prima versione esce dalla descrizione, e la modalità senza IA permette i ritocchi senza consumare crediti. Comincia dalla prova gratuita; se il risultato va bene, il piano Premium copre il sito semplice e l'Unlimited il negozio.",
+          "**Resta su WordPress** se il progetto dipende da plugin, da un tema tuo, da qualcuno che manterrà il sito, o se vuoi portare tutto su un altro hosting senza rifare nulla. Il piano Hostinger è lo stesso nei due casi, quindi la scelta è solo dello strumento.",
+          "**Nel dubbio, prova l'AI Builder prima di pagare.** Sono 5 crediti gratuiti, senza carta, abbastanza per vedere se l'IA capisce quello che vuoi. Se non capisce, WordPress è sempre lì."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Hostinger Horizons esiste ancora? Esiste con un altro nome. Nel 2026 Horizons si è fuso con il costruttore di siti di Hostinger ed è diventato l'AI Builder (Hostinger AI Builder), con una modalità trascina-e-rilascia e una modalità di creazione dalla chat. Il vecchio indirizzo reindirizza alla pagina nuova.",
+          "L'AI Builder di Hostinger fa il sito da solo? Monta la prima versione a partire dalla tua descrizione, secondo la pagina. Contenuti, foto e decisioni di business restano tuoi, e ogni richiesta nella modalità con IA consuma crediti.",
+          "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
+          "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app va riconfigurata fuori.",
+          "L'AI Builder va bene per un negozio online? Per un piccolo negozio sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
+          "Quanto costa Horizons di Hostinger nel 2026? L'AI Builder è compreso nei piani di hosting. Il 28/10/2026, sul sito internazionale con il link di invito, il Premium costava 1,99 USD al mese per 48 mesi (95,52 USD in totale) e si rinnova a 10,99 USD al mese; l'Unlimited 2,79 USD al mese (133,92 USD) e si rinnova a 16,99 USD al mese.",
+          "C'è un coupon per l'AI Builder di Hostinger? Non c'è nessun codice da digitare. Lo sconto del 20% arriva dal link di invito, solo sul primo periodo e su piani di 12 mesi o più, e non si somma ad altri coupon."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato su Hostinger da novembre 2024. Nessuno del team ha usato l'AI Builder né Horizons: questo testo riunisce quello che dicono la pagina del prodotto (nella versione brasiliana e in quella internazionale), la documentazione di WordPress e le pagine pubbliche di Wix e Lovable, lette il 28/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Il codice di invito è già nel link: il 20% vale solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon.",
+      "label": "Vedi i piani con il link di invito",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Nessuno del team ha usato l'AI Builder.",
+    "relatedArticles": [
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      },
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 661,
+    "slug": "hostinger-ki-builder-lohnt-sich",
+    "locale": "de",
+    "translationKey": "hostinger-ai-builder",
+    "hideFromPortugueseListings": true,
+    "title": "KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?",
+    "seoTitle": "Lohnt sich Hostinger Horizons? Website ohne Code",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Der KI-Builder von Hostinger, früher Horizons, taugt für eine einfache Website oder Web-App ohne Programmieren; wer Plugins und Kontrolle will, bleibt bei WordPress. Preise vom 28.10.2026, mit Verlängerung.",
+    "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder (AI Builder). Lohnt er sich oder lieber WordPress? Übersicht nach Projekttyp, Vergleich mit Wix und Lovable, KI-Guthaben, Preis und Verlängerung am 28.10.2026.",
+    "publishedAt": "28. Oktober 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Das Hostinger-Logo und der KI-Builder, früher Horizons, gegenüber WordPress",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Der KI-Builder von Hostinger, früher Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, fährt mit WordPress besser. Entscheidend ist der Projekttyp; die Übersicht steht unten."
+        ]
+      },
+      {
+        "heading": "Was der KI-Builder ist (früher Horizons)",
+        "paragraphs": [
+          "Horizons war der Website- und App-Baukasten mit KI von Hostinger. 2026 wurde er mit dem klassischen Website-Baukasten zusammengelegt und heißt seitdem KI-Builder (international „Hostinger AI Builder“): Die alte Adresse leitet auf die neue Seite weiter, und die Seite selbst erklärt, dass das Produkt aus der Verschmelzung des Website-Builders mit Horizons entstanden ist. Gesucht wird noch nach dem alten Namen, deshalb taucht er hier auf.",
+          "Laut Seite erstellt er Websites und Web-Anwendungen aus einer Textbeschreibung, ohne technische Kenntnisse, in zwei Modi:"
+        ],
+        "bullets": [
+          "**Bearbeiten ohne KI (der Modus Manual):** Sie starten mit einer von der KI erzeugten Website oder mit einer der Vorlagen und bearbeiten per Drag-and-drop. Verbraucht kein KI-Guthaben.",
+          "**Bearbeiten mit KI (der Modus Agentic):** Sie beschreiben im Chat, was Sie wollen, und die KI gestaltet und programmiert. Jede Aktion verbraucht KI-Guthaben, das sich nachkaufen lässt."
+        ],
+        "postParagraphs": [
+          "Heraus kommt eine Website oder eine Web-Anwendung, keine App für den App Store oder Google Play: Das sagt die Seite selbst. Hosting, Domain und E-Mail sind im Tarif enthalten, und der Quellcode lässt sich exportieren, um ihn woanders zu hosten. All das ist die Beschreibung von Hostinger, gelesen am 28.10.2026, kein Test von uns.",
+          "Nicht zu verwechseln mit den Automatisierungsagenten von Hostinger wie OpenClaw und Hermes Agent: Das sind [Assistenten, die auf einem Server laufen](/de/reviews/openclaw-oder-hermes-agent) und auf Telegram oder WhatsApp antworten. Der KI-Builder baut die Website."
+        ]
+      },
+      {
+        "heading": "Für welches Projekt er taugt: die Übersicht",
+        "paragraphs": [
+          "Die richtige Frage lautet nicht „Ist die KI gut?“, sondern „Was baue ich, und wer kümmert sich später darum?“. Die Übersicht fasst die Wahl nach Projekttyp zusammen, nach dem, was die Seite des KI-Builders und die WordPress-Dokumentation am 28.10.2026 sagen:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Projekt",
+            "Beste Option",
+            "Warum"
+          ],
+          "rows": [
+            [
+              "Speisekarte, Restaurant oder Leistungsseite",
+              "KI-Builder",
+              "Wenige Seiten, Text und Fotos. Die KI baut, und der Modus ohne KI verbraucht kein Guthaben für Anpassungen."
+            ],
+            [
+              "Portfolio oder Lebenslauf",
+              "KI-Builder",
+              "Die Galerie hat fertige Vorlagen dafür, und der Tarif Premium reicht."
+            ],
+            [
+              "Kleiner Shop mit wenigen Produkten",
+              "KI-Builder (Tarif Unlimited) oder WordPress mit WooCommerce",
+              "Der KI-Builder hat einen integrierten Onlineshop; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, muss aber eingerichtet werden."
+            ],
+            [
+              "Blog, der von Plugins abhängt (SEO, Formulare, Mitgliederbereich)",
+              "WordPress",
+              "Der Katalog an Plugins und Themes gehört WordPress; im KI-Builder baut die KI jede neue Funktion."
+            ],
+            [
+              "Web-App: Terminbuchung, Kundenportal, einfaches CRM",
+              "KI-Builder (Modus mit KI)",
+              "Die Seite verspricht integriertes Backend, Login und Datenbank. Bei WordPress wird daraus ein Stapel Plugins plus Entwickler."
+            ],
+            [
+              "Projekt, das jemand anderes oder eine Agentur pflegen wird",
+              "WordPress",
+              "Der Marktstandard: Jeder Profi kennt sich damit aus."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+          "alt": "Übersicht KI-Builder oder WordPress nach Projekttyp: Speisekarte oder Leistungsseite, Portfolio und Web-App gehen an den KI-Builder; Blog mit Plugins und Projekt, das jemand anderes pflegt, gehen an WordPress; der kleine Shop passt zu beiden",
+          "caption": "Die Übersicht in Kürze: der KI-Builder für einfache Website, Portfolio und Web-App; WordPress für Plugins und für alle, die die Website später abgeben. Übersicht von Em Casa com Cecília, nach dem, was die Seiten am 28.10.2026 sagen.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "Passt Ihr Projekt in zwei Zeilen, fangen Sie mit dem KI-Builder an: Er hat eine kostenlose Testphase ohne Kreditkarte, mit 5 KI-Credits. Hat das, was Sie brauchen, schon den Namen eines Plugins, nehmen Sie WordPress."
+        ]
+      },
+      {
+        "heading": "KI-Builder oder WordPress",
+        "paragraphs": [
+          "Der Preis entscheidet nicht: Bei Hostinger steckt der KI-Builder in den Hosting-Tarifen, denselben, auf denen WordPress läuft, zum selben Preis. Der Unterschied liegt darin, wer die Arbeit macht und was Sie kontrollieren."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "KI-Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "Wer die Website baut",
+              "Die KI, aus Ihrer Beschreibung, oder Sie im visuellen Editor",
+              "Sie, mit einem Theme, oder ein Profi"
+            ],
+            [
+              "Neue Funktionen",
+              "Im Chat angefordert; verbrauchen KI-Guthaben",
+              "Plugins, Tausende davon, kostenlos oder kostenpflichtig"
+            ],
+            [
+              "Theme und Aussehen",
+              "Vorlagen von Hostinger und Anpassungen per KI oder im Editor",
+              "Jedes Theme, auch maßgeschneidert"
+            ],
+            [
+              "Wer einen Fehler behebt",
+              "Sie, per Anfrage an die KI, oder der Hostinger-Support",
+              "Sie, der Plugin-Autor oder ein Entwickler"
+            ],
+            [
+              "Umzug woandershin",
+              "Laut Seite lässt sich der Code exportieren; das integrierte Backend bleibt bei Hostinger",
+              "Die ganze Website geht zu jedem Hoster"
+            ],
+            [
+              "Onlineshop",
+              "Integriert in den Tarifen Unlimited und Cloud Startup",
+              "WooCommerce, kostenlos, mit kostenpflichtigen Erweiterungen"
+            ],
+            [
+              "Wartung",
+              "Um die Plattform kümmert sich Hostinger",
+              "WordPress, Theme und Plugins aktualisieren Sie selbst"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress gewinnt**, wenn das Projekt von einem bestimmten Plugin abhängt, von einem Theme, das Sie schon haben, oder von jemandem, der die Website später pflegt. Es ist freie Software: Die ganze Website gehört Ihnen und zieht ohne Nacharbeit zu jedem Hoster um.",
+          "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was bei WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im Modus mit KI kostet jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Credits, eine komplexere App 15 oder mehr. Wer jede Woche an der Website arbeitet, muss nachrechnen; wer sie einmal baut und dann Text und Fotos im Editor ändert, ohne Prompt, verbraucht nichts."
+        ]
+      },
+      {
+        "heading": "KI-Builder oder Wix (und Lovable)",
+        "paragraphs": [
+          "Wix ist der klassische Drag-and-drop-Baukasten mit eigenem Hosting. Er hat einen Gratis-Tarif unter einer Wix-Adresse, und eine eigene Domain verlangt einen Bezahltarif. Wer einen reinen visuellen Editor will, ist bei Wix richtig. Wenn es darauf ankommt, das Projekt später mitnehmen zu können, vergleichen Sie, was jede Seite zusichert: Die des KI-Builders sagt, dass sich der Code exportieren lässt, und WordPress ist freie Software und läuft bei jedem Hoster.",
+          "Lovable ist ein weiteres Vibe-Coding-Werkzeug, dieselbe Idee wie der Modus mit KI des KI-Builders: Sie beschreiben, die KI programmiert. Der Unterschied liegt im Paket. Lovable rechnet in Credits ab, pro Nachricht, und hat einen Gratis-Tarif mit wenigen Credits pro Tag; es ist das Werkzeug zum Bauen, und Domain und E-Mail regeln Sie getrennt. Bei Hostinger stecken Hosting, Domain und E-Mail im selben Tarif, und der Modus ohne KI verbraucht kein Guthaben. Wer schon programmiert und nur die KI will, findet in Lovable etwas Vergleichbares; wer alles an einem Ort will, bei Hostinger."
+        ]
+      },
+      {
+        "heading": "Preis und Verlängerung am 28.10.2026",
+        "paragraphs": [
+          "Der KI-Builder hat keinen eigenen Tarif: Er steckt in den Website-Hosting-Tarifen über 48 Monate, im Voraus bezahlt. Die Preise unten stammen von der internationalen Hostinger-Seite in US-Dollar, gelesen am 28.10.2026 über den Empfehlungslink, während der Black-Friday-Aktion; die Seite zeigte bei jedem Tarif „Empfehlungscode angewendet“. In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen: Prüfen Sie den Betrag im Warenkorb."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "Mit Empfehlungslink",
+            "Gesamt für 48 Monate",
+            "Verlängerung"
+          ],
+          "rows": [
+            [
+              "[Premium (bis zu 3 Websites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "1,99 USD pro Monat (durchgestrichener Listenpreis: 12,19 USD)",
+              "95,52 USD",
+              "10,99 USD pro Monat"
+            ],
+            [
+              "[Unlimited (unbegrenzt viele Websites, mit Onlineshop)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "2,79 USD pro Monat (durchgestrichen: 18,99 USD)",
+              "133,92 USD",
+              "16,99 USD pro Monat"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "6,39 USD pro Monat",
+              "306,72 USD",
+              "25,99 USD pro Monat"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Der Monatspreis ist der Gesamtbetrag geteilt durch 48. In der Praxis:"
+        ],
+        "bullets": [
+          "**Premium, mit Empfehlungslink:** 48 × 1,99 = **95,52 USD**. **Verlängerung, in den folgenden 48 Monaten:** 48 × 10,99 = 527,52 USD.",
+          "**Unlimited, mit Empfehlungslink:** 48 × 2,79 = **133,92 USD**. **Verlängerung:** 48 × 16,99 = 815,52 USD.",
+          "**KI-Credits gibt es einmalig**, nicht monatlich. Die internationale Seite vom 28.10.2026 nannte 250 im Premium, 500 im Unlimited und 1.000 im Cloud Startup, verdoppelt während des Black Friday. Sind sie aufgebraucht, heißt es nachkaufen, und der Preis dafür steht nicht auf der Seite: Sehen Sie im Kundenbereich nach, bevor Sie damit rechnen."
+        ],
+        "emphasis": "Die Verlängerung kostet das 4- bis 6-Fache des Aktionspreises. Schauen Sie auf die Spalte Verlängerung, bevor Sie den Tarif wählen."
+      },
+      {
+        "heading": "Was Sie vor dem Bezahlen prüfen sollten",
+        "bullets": [
+          "**Das Guthaben.** Der Modus mit KI verbraucht bei jeder Anfrage Credits, und das Guthaben des Tarifs erneuert sich nicht monatlich. Lassen Sie die KI die Website bauen und erledigen Sie Text- und Fotoänderungen im Editor, der nichts verbraucht.",
+          "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor er abläuft.",
+          "**Domain und E-Mail nur im ersten Jahr gratis.** Danach verlängert sich die Domain zum Listenpreis von Hostinger, gelesen auf der internationalen Seite am 28.10.2026: .com 19,99 USD pro Jahr.",
+          "**Erstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Credits verbraucht haben.",
+          "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; die internationale Seite führt ihn als im Checkout verfügbar. Prüfen Sie dort, was er kostet.",
+          "**Eine native App gibt es nicht.** Der KI-Builder erzeugt eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play braucht es einen anderen Weg."
+        ],
+        "postParagraphs": [
+          "Wie Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+        ]
+      },
+      {
+        "heading": "Empfehlungslink und Preis mit dem Link",
+        "paragraphs": [
+          "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es gibt **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt **lässt sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung kostet den normalen Preis. Auf der Seite des KI-Builders erschienen die Tarife am 28.10.2026 mit angewendeter Empfehlung, zu den Preisen der Spalte „Mit Empfehlungslink“ oben. Die vollständige Regel und die anderen Produkte stehen auf der [Hostinger-Gutscheinseite](/de/coupons/hostinger).",
+          "Bei Hostinger läuft gerade die Black-Friday-Aktion, ohne Enddatum auf der Seite, und Preise wie verdoppelte Credits können sich ändern. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
+        ]
+      },
+      {
+        "heading": "Lohnt er sich? Das Fazit",
+        "paragraphs": [
+          "**Er lohnt sich** für alle, die eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App wollen und weder programmieren noch Plugins pflegen möchten. Die erste Version entsteht aus der Beschreibung, und der Modus ohne KI erlaubt Anpassungen, ohne Guthaben zu verbrauchen. Starten Sie mit der kostenlosen Testphase; passt das Ergebnis, deckt der Tarif Premium die einfache Website ab und Unlimited den Shop.",
+          "**Bleiben Sie bei WordPress**, wenn das Projekt von Plugins abhängt, von einem eigenen Theme, von jemandem, der die Website pflegt, oder wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen. Der Hostinger-Tarif ist in beiden Fällen derselbe, die Wahl betrifft also nur das Werkzeug.",
+          "**Im Zweifel testen Sie den KI-Builder, bevor Sie zahlen.** Es gibt 5 Credits gratis, ohne Kreditkarte, genug, um zu sehen, ob die KI versteht, was Sie wollen. Versteht sie es nicht, bleibt WordPress."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Gibt es Hostinger Horizons noch? Ja, unter anderem Namen. 2026 wurde Horizons mit dem Website-Baukasten von Hostinger zusammengelegt und heißt jetzt KI-Builder (Hostinger AI Builder), mit einem Drag-and-drop-Modus und einem Modus zum Bauen per Chat. Die alte Adresse leitet auf die neue Seite weiter.",
+          "Baut der KI-Builder von Hostinger die Website allein? Er baut die erste Version aus Ihrer Beschreibung, so die Seite. Inhalte, Fotos und geschäftliche Entscheidungen bleiben bei Ihnen, und jede Anfrage im Modus mit KI verbraucht Credits.",
+          "Muss man programmieren können, um den KI-Builder zu nutzen? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im Modus mit KI einen Code-Editor.",
+          "Kann man vom KI-Builder zu einem anderen Hoster umziehen? Laut Seite lässt sich der Quellcode exportieren und woanders hosten. Das integrierte Backend mit Datenbank und Login bleibt bei Hostinger, eine App muss außerhalb also neu eingerichtet werden.",
+          "Taugt der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
+          "Was kostet Horizons von Hostinger 2026? Der KI-Builder steckt in den Hosting-Tarifen. Am 28.10.2026 kostete Premium auf der internationalen Seite mit Empfehlungslink 1,99 USD pro Monat über 48 Monate (95,52 USD gesamt) und verlängert sich zu 10,99 USD pro Monat; Unlimited 2,79 USD pro Monat (133,92 USD) mit Verlängerung zu 16,99 USD pro Monat.",
+          "Gibt es einen Gutschein für den KI-Builder von Hostinger? Es gibt keinen Code zum Eingeben. Die 20 % Rabatt kommen über den Empfehlungslink, nur im ersten Zeitraum und bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit November 2024 bei Hostinger registriert. Niemand aus dem Team hat den KI-Builder oder Horizons genutzt: Dieser Text fasst zusammen, was die Produktseite (in der brasilianischen und der internationalen Fassung), die WordPress-Dokumentation und die öffentlichen Seiten von Wix und Lovable sagen, gelesen am 28.10.2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+      "label": "Die Tarife mit Empfehlungslink ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat den KI-Builder genutzt.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+      },
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "slug": "hostinger-ai-builder-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-ai-builder",
+    "hideFromPortugueseListings": true,
+    "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？",
+    "seoTitle": "Hostinger Horizons は使う価値がある？コード不要のサイト作成",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたい人向け。プラグインと細かい制御が欲しいなら WordPress。2026年10月28日の米ドル建て料金と更新価格。",
+    "metaDescription": "Hostinger Horizons は AI Builder になりました。使う価値はあるか、WordPress にすべきか。プロジェクト別の早見表、Wix と Lovable との比較、AI クレジット、2026年10月28日の料金と更新価格。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Hostinger のロゴと AI Builder（旧 Horizons）が WordPress と向かい合う図",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "Hostinger の AI Builder（旧 Horizons）は、プログラミングなしでシンプルなサイトや Web アプリを作りたくて、最初のバージョンは AI に任せてよい人に向いています。プラグイン、独自テーマ、完全な制御が必要なら WordPress のほうが向いています。決め手はプロジェクトの種類で、早見表は下にあります。"
+        ]
+      },
+      {
+        "heading": "AI Builder（旧 Horizons）とは",
+        "paragraphs": [
+          "Horizons は Hostinger の AI によるサイト・アプリ作成ツールでした。2026年に従来のウェブサイトビルダーと統合され、AI Builder（Hostinger AI Builder）になりました。旧アドレスは新しいページにリダイレクトされ、ページ自体が「ウェブサイトビルダーと Horizons を統合して生まれた」と説明しています。検索ではまだ旧名が使われるので、ここでも挙げています。",
+          "ページによると、テキストの説明からサイトと Web アプリを作り、技術的な知識は不要で、モードは二つです。"
+        ],
+        "bullets": [
+          "**AI を使わない編集（Manual モード）：** AI が生成したサイトかテンプレートから始めて、ドラッグ＆ドロップで編集します。AI クレジットは消費しません。",
+          "**AI を使う編集（Agentic モード）：** チャットで欲しいものを説明すると、AI がデザインしてコードを書きます。操作ごとに AI クレジットを消費し、追加購入もできます。"
+        ],
+        "postParagraphs": [
+          "できあがるのはサイトか Web アプリで、App Store や Google Play 向けのアプリではありません。これはページ自体に書かれています。ホスティング、ドメイン、メールはプランに含まれ、ソースコードはエクスポートして別の場所でホストできます。以上はすべて 2026年10月28日に読んだ Hostinger の説明で、私たちのテストではありません。",
+          "OpenClaw や Hermes Agent のような Hostinger の自動化エージェントと混同しないでください。あちらは[サーバーで動くアシスタント](/ja/reviews/openclaw-vs-hermes-agent-ja)で、Telegram や WhatsApp で応答します。AI Builder はサイトを作るものです。"
+        ]
+      },
+      {
+        "heading": "どんなプロジェクトに向くか：早見表",
+        "paragraphs": [
+          "正しい問いは「AI は優秀か？」ではなく、「何を作り、あとで誰が手を入れるのか？」です。早見表は、2026年10月28日時点の AI Builder のページと WordPress のドキュメントをもとに、プロジェクトの種類ごとの選択をまとめたものです。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プロジェクト",
+            "向いている選択",
+            "理由"
+          ],
+          "rows": [
+            [
+              "メニュー、飲食店、サービス紹介ページ",
+              "AI Builder",
+              "ページ数が少なく、文章と写真が中心。AI が組み立て、AI なしのモードなら調整にクレジットを使いません。"
+            ],
+            [
+              "ポートフォリオや履歴書",
+              "AI Builder",
+              "ギャラリーに用途別のテンプレートがあり、Premium プランで足ります。"
+            ],
+            [
+              "商品数の少ない小さなショップ",
+              "AI Builder（Unlimited プラン）か WordPress + WooCommerce",
+              "AI Builder にはショップ機能が内蔵。WooCommerce は配送と決済をより細かく制御できますが、設定が必要です。"
+            ],
+            [
+              "プラグイン頼みのブログ（SEO、フォーム、会員エリア）",
+              "WordPress",
+              "プラグインとテーマのカタログは WordPress のもの。AI Builder では新機能はすべて AI が作ります。"
+            ],
+            [
+              "Web アプリ：予約、顧客ポータル、簡単な CRM",
+              "AI Builder（AI を使うモード）",
+              "ページはバックエンド、ログイン、データベースの内蔵をうたっています。WordPress ではプラグインの山と開発者が必要になります。"
+            ],
+            [
+              "他の人や制作会社が保守するプロジェクト",
+              "WordPress",
+              "業界標準なので、どのプロでも手を入れられます。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ja.webp",
+          "alt": "プロジェクト別の AI Builder か WordPress かの早見表：メニューやサービス紹介ページ、ポートフォリオ、Web アプリは AI Builder、プラグイン頼みのブログと他の人が保守するプロジェクトは WordPress、小さなショップはどちらでも",
+          "caption": "早見表のまとめ：シンプルなサイト、ポートフォリオ、Web アプリは AI Builder、プラグインが必要な場合と、サイトを他の人に引き継ぐ場合は WordPress。2026年10月28日時点の各ページの記述をもとにした Em Casa com Cecília の早見表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "プロジェクトが二行で説明できるなら、まず AI Builder から。カード不要の無料トライアルがあり、AI クレジットが 5 つ付きます。必要なものにすでにプラグインの名前が付いているなら、WordPress にしましょう。"
+        ]
+      },
+      {
+        "heading": "AI Builder か WordPress か",
+        "paragraphs": [
+          "料金では決まりません。Hostinger では AI Builder はホスティングプランに含まれていて、WordPress を動かすのと同じプラン、同じ価格です。違うのは、誰が作業をするかと、何をあなたが制御できるかです。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "サイトを作るのは誰か",
+              "あなたの説明から AI が作る、またはビジュアルエディタであなたが作る",
+              "テーマを使ってあなたが、またはプロが"
+            ],
+            [
+              "新しい機能",
+              "チャットで頼む。AI クレジットを消費",
+              "無料・有料の数千のプラグイン"
+            ],
+            [
+              "テーマと見た目",
+              "Hostinger のテンプレートと、AI かエディタでの調整",
+              "どんなテーマでも。完全オーダーメイドも可"
+            ],
+            [
+              "エラーを直すのは誰か",
+              "AI に頼むあなた、または Hostinger のサポート",
+              "あなた、プラグインの作者、または開発者"
+            ],
+            [
+              "他へ移す",
+              "ページによればコードはエクスポート可能。内蔵バックエンドは Hostinger に残る",
+              "サイト全体をどのホスティングにも移せる"
+            ],
+            [
+              "ネットショップ",
+              "Unlimited と Cloud Startup プランに内蔵",
+              "WooCommerce は無料、有料の拡張機能あり"
+            ],
+            [
+              "保守",
+              "プラットフォームは Hostinger が管理",
+              "WordPress、テーマ、プラグインの更新はあなたの仕事"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress が勝つ**のは、特定のプラグイン、すでに持っているテーマ、あとでサイトを保守する誰かにプロジェクトが依存するときです。WordPress はフリーソフトウェアで、サイトは丸ごとあなたのもの。作り直しなしでどのホスティングにも移せます。",
+          "**AI Builder が勝つ**のは、何もインストールも更新もしたくなくて、ログインとデータを持つ Web アプリが欲しいときです。WordPress ではそれがプラグインの山になります。判断を変える注意点：AI を使うモードでは変更のたびにクレジットを消費します。ページによれば、シンプルな企業サイトで 5〜10 クレジット、より複雑なアプリで 15 以上です。毎週サイトをいじる人は計算が必要。一度作って、あとはプロンプトなしでエディタで文章と写真を直す人なら消費しません。"
+        ]
+      },
+      {
+        "heading": "AI Builder か Wix（と Lovable）か",
+        "paragraphs": [
+          "Wix は独自ホスティング付きの従来型ドラッグ＆ドロップビルダーです。Wix のアドレスで使える無料プランがあり、独自ドメインには有料プランが必要です。純粋なビジュアルエディタが欲しいなら Wix で十分です。あとでプロジェクトを持ち出せるかが重要なら、各ページが保証している内容を比べてください。AI Builder のページはコードをエクスポートできると言い、WordPress はフリーソフトウェアでどのホスティングでも動きます。",
+          "Lovable はもう一つのバイブコーディングツールで、AI Builder の AI モードと同じ発想です。あなたが説明し、AI がコードを書く。違いはパッケージにあります。Lovable はメッセージごとのクレジット課金で、1日数クレジットの無料プランがあります。作るためのツールであり、ドメインとメールは別に用意します。Hostinger ではホスティング、ドメイン、メールが同じプランに入り、AI なしのモードはクレジットを消費しません。すでにプログラミングができて AI だけが欲しいなら Lovable は比較対象になり、すべてを一か所にまとめたいなら Hostinger です。"
+        ]
+      },
+      {
+        "heading": "2026年10月28日の料金と更新価格",
+        "paragraphs": [
+          "AI Builder に専用プランはなく、48 か月の前払いのウェブホスティングプランに含まれています。下の料金は、紹介リンクから入った Hostinger の国際サイトの米ドル建て価格で、2026年10月28日、ブラックフライデーのキャンペーン中に読んだものです。ページは各プランに「紹介コード適用済み」と表示していました。お住まいの国では別の通貨や税金が表示されることがあるので、カートで金額を確認してください。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "紹介リンクあり",
+            "48 か月の合計",
+            "更新"
+          ],
+          "rows": [
+            [
+              "[Premium（最大 3 サイト）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 1.99/月（取り消し線の定価 US$ 12.19）",
+              "US$ 95.52",
+              "US$ 10.99/月"
+            ],
+            [
+              "[Unlimited（サイト数無制限、ネットショップ付き）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 2.79/月（取り消し線 US$ 18.99）",
+              "US$ 133.92",
+              "US$ 16.99/月"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 6.39/月",
+              "US$ 306.72",
+              "US$ 25.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "月額は合計を 48 で割ったものです。実際には："
+        ],
+        "bullets": [
+          "**Premium、紹介リンクあり：** 48 × 1.99 = **US$ 95.52**。**その後 48 か月の更新：** 48 × 10.99 = US$ 527.52。",
+          "**Unlimited、紹介リンクあり：** 48 × 2.79 = **US$ 133.92**。**更新：** 48 × 16.99 = US$ 815.52。",
+          "**AI クレジットは一回限りの付与**で、毎月ではありません。2026年10月28日の国際版ページには Premium 250、Unlimited 500、Cloud Startup 1,000 と書かれ、ブラックフライデー中は倍でした。使い切ったら追加購入で、その価格はページに載っていません。当てにする前に管理画面で確かめてください。"
+        ],
+        "emphasis": "更新価格はキャンペーン価格の 4〜6 倍です。プランを選ぶ前に更新の列を見てください。"
+      },
+      {
+        "heading": "支払う前に確認すること",
+        "bullets": [
+          "**クレジット。** AI を使うモードはリクエストごとにクレジットを消費し、プランの残高は毎月は補充されません。サイトは AI で組み立て、文章と写真の調整はクレジットを使わないエディタで行いましょう。",
+          "**更新しないとどうなるか。** ページの注意書きによると、期限切れで更新しないプランはプロジェクトが公開停止になり、データが削除されます。期限が切れる前にコードをエクスポートしてください。",
+          "**ドメインとメールが無料なのは最初の 1 年だけ。** その後ドメインは Hostinger の定価で更新されます。2026年10月28日に国際サイトで読んだ価格は .com が年 US$ 19.99 です。",
+          "**30 日以内の返金**は、AI クレジットの消費が 30 未満の場合に限られます。",
+          "**ネットショップ**は Unlimited と Cloud Startup プランの項目です。国際版ページでは「チェックアウトで利用可能」とされているので、料金はチェックアウトで確認してください。",
+          "**ネイティブアプリは作れません。** AI Builder が作るのはスマホのブラウザで開くレスポンシブな Web アプリです。App Store と Google Play は別の道です。"
+        ],
+        "postParagraphs": [
+          "Hostinger の課金、更新、返金の仕組みは [Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) にあります。"
+        ]
+      },
+      {
+        "heading": "紹介リンクとリンク適用後の価格",
+        "paragraphs": [
+          "紹介リンクには割引がすでに含まれているので、コードを入力する必要はありません。割引は**最初の期間だけの 20%** で、12 か月以上のプランに適用され、**ほかのクーポンとは併用できません**。更新は通常価格です。2026年10月28日の AI Builder のページでは、各プランが紹介適用済みで、上の「紹介リンクあり」の列の価格で表示されていました。ルールの全体とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger) にあります。",
+          "Hostinger はブラックフライデーのキャンペーン中で、ページに終了日はなく、価格も倍増クレジットも変わる可能性があります。支払う前にカートで金額を確認してください。"
+        ]
+      },
+      {
+        "heading": "使う価値はある？結論",
+        "paragraphs": [
+          "**使う価値があるのは**、数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリが欲しくて、プログラミングもプラグインの管理もしたくない人です。最初のバージョンは説明から生まれ、AI なしのモードでクレジットを使わずに調整できます。まず無料トライアルから。結果が使えそうなら、シンプルなサイトは Premium、ショップは Unlimited で足ります。",
+          "**WordPress にとどまるべきなのは**、プロジェクトがプラグイン、自分のテーマ、サイトを保守する誰かに依存する場合、または作り直しなしで別のホスティングにすべて持ち出したい場合です。Hostinger のプランはどちらも同じなので、選ぶのはツールだけです。",
+          "**迷ったら、支払う前に AI Builder を試してください。** カード不要で 5 クレジットが無料。AI があなたの望みを理解するか確かめるには十分です。理解しなければ、WordPress はそこにあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Hostinger Horizons はまだありますか？ 別の名前で存在します。2026年に Horizons は Hostinger のウェブサイトビルダーと統合され、ドラッグ＆ドロップのモードとチャットで作るモードを持つ AI Builder（Hostinger AI Builder）になりました。旧アドレスは新しいページにリダイレクトされます。",
+          "Hostinger の AI Builder はサイトを自動で作ってくれますか？ ページによれば、あなたの説明から最初のバージョンを組み立てます。コンテンツ、写真、ビジネス上の判断はあなたのもので、AI を使うモードではリクエストごとにクレジットを消費します。",
+          "AI Builder を使うにはプログラミングの知識が必要ですか？ いいえ。ページによれば、どちらのモードでも技術的な知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
+          "AI Builder から別のホスティングに移行できますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを持つ内蔵バックエンドは Hostinger に残るので、アプリは外で再設定が必要です。",
+          "AI Builder はネットショップに向いていますか？ 小さなショップなら向いています。ネットショップは Unlimited と Cloud Startup プランの項目です。配送や決済のルールが多い大きなショップなら、WordPress + WooCommerce のほうが制御できます。",
+          "2026年の Hostinger Horizons はいくらですか？ AI Builder はホスティングプランに含まれます。2026年10月28日、紹介リンク経由の国際サイトでは、Premium が 48 か月で US$ 1.99/月（合計 US$ 95.52）、更新は US$ 10.99/月。Unlimited は US$ 2.79/月（US$ 133.92）、更新は US$ 16.99/月でした。",
+          "Hostinger の AI Builder のクーポンはありますか？ 入力するコードはありません。20% の割引は紹介リンクから適用され、最初の期間だけ、12 か月以上のプランに限られ、ほかのクーポンとは併用できません。"
+        ]
+      },
+      {
+        "heading": "この記事を書いた人",
+        "paragraphs": [
+          "Em Casa com Cecília は Hostinger のマネージドホスティングで Node.js Web App として動いていて、ドメインは 2024年11月から Hostinger に登録されています。チームの誰も AI Builder も Horizons も使っていません。この記事は、製品ページ（ブラジル版と国際版）、WordPress のドキュメント、Wix と Lovable の公開ページの記述を、2026年10月28日に読んでまとめたものです。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "コードはすでにリンクに含まれています。20%は最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。",
+      "label": "紹介リンクでプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。チームの誰も AI Builder は使っていません。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerのクーポンは不要です：紹介リンクで受けられるもの"
+      },
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "slug": "hostinger-ai-builder-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?",
+    "seoTitle": "Hostinger Horizons 쓸 만한가? 코딩 없이 사이트 만들기",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "호스팅어의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들 때 맞고, 플러그인과 완전한 제어가 필요하면 WordPress가 낫습니다. 2026년 10월 28일 기준 달러 가격과 갱신가.",
+    "metaDescription": "Hostinger Horizons가 AI Builder로 바뀌었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix와 Lovable 비교, AI 크레딧, 2026년 10월 28일 기준 가격과 갱신가.",
+    "publishedAt": "2026년 10월 28일",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Hostinger 로고와 AI Builder(구 Horizons)가 WordPress와 마주 선 모습",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "호스팅어의 AI Builder(구 Horizons)는 코딩 없이 간단한 사이트나 웹 앱을 만들고 싶고, 첫 버전은 AI가 만들어도 괜찮은 사람에게 맞습니다. 플러그인, 직접 고른 테마, 완전한 제어가 필요하면 WordPress가 낫습니다. 결정하는 것은 프로젝트의 종류이며, 아래 표에 정리했습니다."
+        ]
+      },
+      {
+        "heading": "AI Builder란 (구 Horizons)",
+        "paragraphs": [
+          "Horizons는 호스팅어의 AI 사이트·앱 빌더였습니다. 2026년에 기존 웹사이트 빌더와 합쳐져 Hostinger AI Builder가 되었고, 옛 주소는 새 페이지로 리디렉션됩니다. 검색에서는 아직 Horizons라는 이름이 쓰이기 때문에 이 글에서도 함께 적습니다.",
+          "페이지에 따르면, 텍스트로 설명만 하면 기술 지식 없이 웹사이트와 웹 앱을 만들 수 있고, 두 가지 모드가 있습니다:"
+        ],
+        "bullets": [
+          "**AI 없이 편집 (Manual 모드):** AI가 생성한 사이트나 템플릿에서 시작해 드래그 앤 드롭으로 편집합니다. AI 크레딧을 쓰지 않습니다.",
+          "**AI로 편집 (Agentic 모드):** 채팅에 원하는 것을 설명하면 AI가 디자인하고 코딩합니다. 작업마다 AI 크레딧이 소모되며, 충전할 수 있습니다."
+        ],
+        "postParagraphs": [
+          "만들어지는 것은 웹사이트나 웹 앱이고, App Store나 Google Play용 앱이 아닙니다. 페이지 자체가 그렇게 말합니다. 호스팅, 도메인, 이메일은 플랜에 포함되고, 소스 코드는 내보내서 다른 곳에 호스팅할 수 있습니다. 이 모든 것은 2026년 10월 28일에 읽은 호스팅어의 설명이며, 우리가 직접 테스트한 것이 아닙니다.",
+          "호스팅어의 자동화 에이전트인 OpenClaw나 Hermes Agent와 혼동하지 마세요. 그것들은 [서버에서 돌아가는 어시스턴트](/ko/reviews/openclaw-vs-hermes-agent-ko)로 텔레그램이나 왓츠앱에서 답합니다. AI Builder는 사이트를 만듭니다."
+        ]
+      },
+      {
+        "heading": "어떤 프로젝트에 맞는가: 한눈에 보는 표",
+        "paragraphs": [
+          "올바른 질문은 \"AI가 잘하나?\"가 아니라 \"무엇을 만들고, 나중에 누가 손볼 것인가?\"입니다. 2026년 10월 28일에 읽은 AI Builder 페이지와 WordPress 문서를 바탕으로, 프로젝트 유형별 선택을 표로 정리했습니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "프로젝트",
+            "더 나은 선택",
+            "이유"
+          ],
+          "rows": [
+            [
+              "메뉴판, 식당 또는 서비스 소개 페이지",
+              "AI Builder",
+              "페이지 몇 개에 텍스트와 사진. AI가 만들고, AI 없는 모드로 고치면 크레딧이 들지 않습니다."
+            ],
+            [
+              "포트폴리오 또는 이력서",
+              "AI Builder",
+              "갤러리에 그런 용도의 템플릿이 준비되어 있고, Premium 플랜으로 충분합니다."
+            ],
+            [
+              "상품이 적은 작은 온라인 스토어",
+              "AI Builder (Unlimited 플랜) 또는 WordPress + WooCommerce",
+              "AI Builder에는 온라인 스토어가 내장되어 있고, WooCommerce는 배송과 결제를 더 세밀하게 제어하지만 설정이 필요합니다."
+            ],
+            [
+              "플러그인에 의존하는 블로그 (SEO, 폼, 회원 전용 영역)",
+              "WordPress",
+              "플러그인과 테마 카탈로그는 WordPress의 것이고, AI Builder에서는 새 기능마다 AI가 만들어야 합니다."
+            ],
+            [
+              "웹 앱: 예약, 고객 포털, 간단한 CRM",
+              "AI Builder (AI 모드)",
+              "페이지는 백엔드, 로그인, 데이터베이스가 내장되어 있다고 약속합니다. WordPress에서는 이것이 플러그인 여러 개와 개발자로 이어집니다."
+            ],
+            [
+              "다른 사람이나 에이전시가 유지할 프로젝트",
+              "WordPress",
+              "업계 표준이라 어떤 전문가든 다룰 줄 압니다."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-ko.webp",
+          "alt": "프로젝트 유형별 AI Builder 또는 WordPress 표: 메뉴판이나 서비스 페이지, 포트폴리오, 웹 앱은 AI Builder; 플러그인에 의존하는 블로그와 다른 사람이 유지할 프로젝트는 WordPress; 작은 스토어는 둘 다 가능",
+          "caption": "표 요약: 간단한 사이트, 포트폴리오, 웹 앱은 AI Builder, 플러그인과 사이트를 넘겨줄 사람은 WordPress. 2026년 10월 28일에 읽은 페이지 내용을 바탕으로 Em Casa com Cecília가 만든 표입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "프로젝트를 두 줄로 설명할 수 있다면 AI Builder부터 시작하세요. 카드 없이 AI 크레딧 5개가 주어지는 무료 체험이 있습니다. 필요한 것에 이미 플러그인 이름이 붙어 있다면 WordPress로 가세요."
+        ]
+      },
+      {
+        "heading": "AI Builder 또는 WordPress",
+        "paragraphs": [
+          "가격은 결정 요인이 아닙니다. 호스팅어에서 AI Builder는 웹 호스팅 플랜에 포함되는데, WordPress를 돌리는 바로 그 플랜이고 가격도 같습니다. 달라지는 것은 누가 일을 하고, 무엇을 당신이 제어하는가입니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "사이트를 만드는 사람",
+              "당신의 설명을 바탕으로 AI가, 또는 시각 편집기에서 당신이",
+              "테마를 가지고 당신이, 또는 전문가가"
+            ],
+            [
+              "새 기능",
+              "채팅으로 요청; AI 크레딧 소모",
+              "무료와 유료를 합쳐 수천 개의 플러그인"
+            ],
+            [
+              "테마와 외관",
+              "호스팅어의 템플릿과 AI 또는 편집기로 조정",
+              "맞춤 제작을 포함해 어떤 테마든"
+            ],
+            [
+              "오류를 고치는 사람",
+              "AI에 요청하는 당신, 또는 호스팅어 지원",
+              "당신, 플러그인 제작자 또는 개발자"
+            ],
+            [
+              "다른 곳으로 옮기기",
+              "페이지는 코드를 내보낼 수 있다고 말함; 내장 백엔드는 호스팅어에 남음",
+              "사이트 전체가 어느 호스팅으로든 이동"
+            ],
+            [
+              "온라인 스토어",
+              "Unlimited와 Cloud Startup 플랜에 내장",
+              "무료 WooCommerce, 유료 확장 기능"
+            ],
+            [
+              "유지 관리",
+              "플랫폼은 호스팅어가 관리",
+              "WordPress, 테마, 플러그인 업데이트는 당신 몫"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress가 이기는 경우:** 프로젝트가 특정 플러그인, 이미 가진 테마, 또는 나중에 사이트를 유지할 사람에 달려 있을 때입니다. 자유 소프트웨어라서 사이트 전체가 당신 것이고, 다시 작업할 필요 없이 어떤 호스팅으로든 옮길 수 있습니다.",
+          "**AI Builder가 이기는 경우:** 아무것도 설치하거나 업데이트하고 싶지 않고, 로그인과 데이터가 있는 웹 앱을 원할 때입니다. WordPress에서는 이것이 플러그인 더미가 됩니다. 결정을 바꾸는 단서 하나: AI 모드에서는 변경마다 크레딧이 듭니다. 페이지에 따르면 간단한 회사 소개 사이트는 크레딧 5~10개, 더 복잡한 앱은 15개 이상을 소모합니다. 매주 사이트를 손보는 사람은 계산해 봐야 하고, 한 번 만들고 텍스트와 사진만 편집기에서 프롬프트 없이 고치는 사람은 크레딧을 쓰지 않습니다."
+        ]
+      },
+      {
+        "heading": "AI Builder 또는 Wix (그리고 Lovable)",
+        "paragraphs": [
+          "Wix는 자체 호스팅을 갖춘 전통적인 드래그 앤 드롭 빌더입니다. Wix 주소를 쓰는 무료 플랜이 있고, 자체 도메인은 유료 플랜이 필요합니다. 순수한 시각 편집기를 원한다면 Wix로 충분합니다. 나중에 프로젝트를 가지고 나갈 수 있는지가 중요하다면 각 페이지가 보장하는 내용으로 비교하세요. AI Builder 페이지는 코드를 내보낼 수 있다고 말하고, WordPress는 자유 소프트웨어라 어느 호스팅으로든 갑니다.",
+          "Lovable은 또 다른 바이브 코딩 도구로, AI Builder의 AI 모드와 같은 발상입니다. 당신이 설명하면 AI가 코딩합니다. 차이는 패키지에 있습니다. Lovable은 메시지당 크레딧으로 과금하고, 하루 크레딧이 적은 무료 플랜이 있습니다. 만드는 도구이고, 도메인과 이메일은 따로 해결해야 합니다. 호스팅어에서는 호스팅, 도메인, 이메일이 같은 플랜에 들어 있고, AI 없는 모드는 크레딧을 쓰지 않습니다. 이미 코딩을 하고 AI만 원하는 사람에게는 Lovable이 비교 대상이 되고, 한곳에서 전부 해결하려는 사람에게는 호스팅어입니다."
+        ]
+      },
+      {
+        "heading": "2026년 10월 28일 기준 가격과 갱신",
+        "paragraphs": [
+          "AI Builder에는 별도 플랜이 없습니다. 48개월 웹 호스팅 플랜에 포함되며, 기간 전체를 한 번에 결제합니다. 아래 가격은 호스팅어 국제 사이트의 미국 달러 가격으로, 추천 링크로 들어가 2026년 10월 28일 블랙프라이데이 캠페인 중에 읽었습니다. 국가와 통화에 따라 달라질 수 있습니다. 월 가격은 선결제 총액을 48로 나눈 값입니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "추천 링크 적용 (월)",
+            "48개월 총액",
+            "갱신가",
+            "AI 크레딧"
+          ],
+          "rows": [
+            [
+              "[Premium (사이트 3개까지)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 1.99 (정가 US$ 12.19)",
+              "US$ 95.52",
+              "월 US$ 10.99",
+              "250 (블랙프라이데이에는 500)"
+            ],
+            [
+              "[Unlimited (사이트 무제한, 온라인 스토어 포함)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 2.79 (정가 US$ 18.99)",
+              "US$ 133.92",
+              "월 US$ 16.99",
+              "500 (블랙프라이데이에는 1,000)"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 6.39",
+              "US$ 306.72",
+              "월 US$ 25.99",
+              "1,000 (블랙프라이데이에는 2,000)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "실제로는 이렇게 됩니다:"
+        ],
+        "bullets": [
+          "**Premium, 추천 링크 적용:** 48 × US$ 1.99 = **US$ 95.52**. **그 뒤 48개월 갱신:** 48 × US$ 10.99 = US$ 527.52.",
+          "**Unlimited, 추천 링크 적용:** 48 × US$ 2.79 = **US$ 133.92**. **갱신:** 48 × US$ 16.99 = US$ 815.52.",
+          "**AI 크레딧은 한 번 주는 것**이고 매달 주는 것이 아닙니다. 다 쓰면 충전해야 하고, 충전 가격은 페이지에 없으니 기대하기 전에 대시보드에서 확인하세요. 표의 크레딧 수는 2026년 10월 28일에 플랜 페이지가 보여 준 값이며, 블랙프라이데이 동안 두 배입니다."
+        ],
+        "emphasis": "갱신가는 프로모션 가격의 4~6배입니다. 플랜을 고르기 전에 갱신가 열을 보세요."
+      },
+      {
+        "heading": "결제 전에 확인할 것",
+        "bullets": [
+          "**크레딧.** AI 모드는 요청마다 크레딧을 쓰고, 플랜의 잔액은 매달 갱신되지 않습니다. 사이트는 AI로 만들고, 텍스트와 사진 수정은 크레딧이 들지 않는 편집기에서 하세요.",
+          "**갱신하지 않으면 어떻게 되는가.** 페이지가 경고합니다: 만료 후 갱신하지 않은 플랜은 프로젝트가 내려가고 데이터가 삭제됩니다. 만료 전에 코드를 내보내세요.",
+          "**도메인과 이메일은 첫해만 무료.** 그 뒤 도메인은 호스팅어 정가로 갱신됩니다. 2026년 10월 28일 기준 .com은 연 US$ 19.99입니다.",
+          "**30일 환불**, AI 크레딧을 30개 미만으로 썼을 때만.",
+          "**온라인 스토어**는 Unlimited와 Cloud Startup 플랜의 항목입니다. 국제 사이트 페이지에는 결제 단계에서 이용할 수 있다고 적혀 있으니, 비용은 결제 화면에서 확인하세요.",
+          "**네이티브 앱은 없습니다.** AI Builder가 만드는 것은 휴대폰 브라우저에서 열리는 반응형 웹 앱입니다. App Store와 Google Play는 다른 길입니다."
+        ],
+        "postParagraphs": [
+          "호스팅어가 어떻게 청구하고, 갱신하고, 환불하는지는 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "추천 링크와 링크 적용 가격",
+        "paragraphs": [
+          "추천 링크가 할인을 바로 적용하므로 입력할 코드는 없습니다. **첫 기간에만 20%**, 12개월 이상 플랜에 해당하며, **다른 쿠폰과 함께 쓸 수 없습니다**. 갱신은 정상 가격입니다. 2026년 10월 28일 AI Builder 페이지에서는 플랜들이 추천 링크가 적용된 상태로, 위 표의 \"추천 링크 적용\" 열 가격으로 표시되었습니다. 전체 규칙과 다른 상품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+          "호스팅어는 블랙프라이데이 캠페인 중이고 페이지에 종료일이 없으며, 가격과 두 배 크레딧은 바뀔 수 있습니다. 결제 전에 장바구니에서 금액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "쓸 만한가? 결론",
+        "paragraphs": [
+          "**쓸 만합니다.** 페이지 몇 개의 사이트, 포트폴리오, 작은 스토어, 간단한 웹 앱을 원하고 코딩도 플러그인 관리도 하고 싶지 않은 사람에게 맞습니다. 첫 버전은 설명에서 나오고, AI 없는 모드로 크레딧을 쓰지 않고 다듬을 수 있습니다. 무료 체험부터 시작하세요. 결과가 쓸 만하면 간단한 사이트는 Premium 플랜으로, 스토어는 Unlimited로 충분합니다.",
+          "**WordPress에 남으세요.** 프로젝트가 플러그인, 당신의 테마, 사이트를 유지할 사람에 달려 있거나, 다시 작업하지 않고 다른 호스팅으로 전부 옮기고 싶다면 그렇습니다. 호스팅어 플랜은 두 경우 모두 같으니, 선택은 도구의 문제일 뿐입니다.",
+          "**고민된다면 결제 전에 AI Builder를 써 보세요.** 카드 없이 무료 크레딧 5개가 주어지고, AI가 당신의 의도를 이해하는지 보기에 충분합니다. 이해하지 못하면 WordPress는 그대로 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Hostinger Horizons는 아직 있나요? 다른 이름으로 있습니다. 2026년에 Horizons는 호스팅어의 웹사이트 빌더와 합쳐져 Hostinger AI Builder가 되었고, 드래그 앤 드롭 모드와 채팅으로 만드는 모드가 있습니다. 옛 주소는 새 페이지로 리디렉션됩니다.",
+          "호스팅어 AI Builder가 사이트를 혼자 만들어 주나요? 페이지에 따르면 당신의 설명을 바탕으로 첫 버전을 만듭니다. 콘텐츠, 사진, 사업상의 결정은 여전히 당신 몫이고, AI 모드의 요청마다 크레딧이 소모됩니다.",
+          "AI Builder를 쓰려면 코딩을 알아야 하나요? 아닙니다. 페이지는 두 모드 모두 기술 지식이 필요 없다고 말합니다. 코딩을 아는 사람에게는 AI 모드에 코드 편집기가 있습니다.",
+          "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지는 소스 코드를 내보내 다른 곳에 호스팅할 수 있다고 말합니다. 데이터베이스와 로그인이 있는 내장 백엔드는 호스팅어에 남으므로, 앱은 밖에서 다시 설정해야 합니다.",
+          "AI Builder는 온라인 스토어에 쓸 만한가요? 작은 스토어라면 그렇습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜의 항목입니다. 배송과 결제 규칙이 있는 큰 스토어는 WordPress와 WooCommerce가 더 많은 제어를 줍니다.",
+          "2026년 Hostinger Horizons는 얼마인가요? AI Builder는 웹 호스팅 플랜에 포함됩니다. 2026년 10월 28일 국제 사이트 기준으로 Premium은 추천 링크 적용 시 48개월 플랜에서 월 US$ 1.99이고 월 US$ 10.99로 갱신되며, Unlimited는 월 US$ 2.79이고 월 US$ 16.99로 갱신됩니다.",
+          "호스팅어 AI Builder용 쿠폰이 있나요? 입력할 코드는 없습니다. 20% 할인은 추천 링크로 적용되며, 첫 기간에만, 12개월 이상 플랜에 해당하고, 다른 쿠폰과 함께 쓸 수 없습니다."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년 11월부터 호스팅어에 등록되어 있습니다. 팀 중 누구도 AI Builder나 Horizons를 쓰지 않았습니다. 이 글은 제품 페이지, WordPress 문서, Wix와 Lovable의 공개 페이지가 말하는 내용을 2026년 10월 28일에 읽고 정리한 것입니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 코드는 이미 링크에 들어 있습니다. 20%는 첫 기간에만, 12개월 이상 플랜에서 적용되며, 다른 쿠폰과 함께 쓸 수 없습니다.",
+      "label": "추천 링크로 플랜 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천 링크로 구매하면 Bruno에게 호스팅어 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 AI Builder를 쓰지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택"
+      },
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 664,
+    "slug": "hostinger-ai-builder-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？",
+    "seoTitle": "Hostinger Horizons 值得用吗？不写代码做网站",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 的 AI Builder（原 Horizons）适合不写代码就做一个简单网站或 Web 应用的人；要插件和完全控制的，还是 WordPress。2026年10月28日的美元价格，含续费。",
+    "metaDescription": "Hostinger Horizons 变成了 AI Builder。值得用，还是选 WordPress？按项目类型的一张表、与 Wix 和 Lovable 的比较、AI 额度，以及2026年10月28日的价格和续费。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Hostinger 标志和 AI Builder（原 Horizons）与 WordPress 面对面",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 的 AI Builder（原 Horizons）适合想不写代码就做一个简单网站或 Web 应用、也接受由 AI 搭出第一版的人。需要插件、自己的主题和完全控制的，还是 WordPress 更合适。起决定作用的是项目类型，下面有一张表。"
+        ]
+      },
+      {
+        "heading": "什么是 AI Builder（原 Horizons）",
+        "paragraphs": [
+          "Horizons 原本是 Hostinger 的 AI 网站和应用生成器。2026 年它与传统的网站生成器合并，成了 Hostinger AI Builder：旧地址会跳转到新页面。搜索里还在用 Horizons 这个名字，所以本文也一并写出。",
+          "页面说，它根据一段文字描述就能生成网站和 Web 应用，不需要技术知识，有两种模式："
+        ],
+        "bullets": [
+          "**不用 AI 编辑（Manual 模式）：** 从 AI 生成的网站或某个模板开始，用拖放方式编辑。不消耗 AI 额度。",
+          "**用 AI 编辑（Agentic 模式）：** 在聊天里描述你想要的，AI 负责设计和编码。每次操作都消耗 AI 额度，可以充值。"
+        ],
+        "postParagraphs": [
+          "做出来的是网站或 Web 应用，不是上 App Store 或 Google Play 的 App：页面自己就这么说。主机、域名和邮箱都在套餐里，源代码可以导出到别处托管。以上都是 2026年10月28日读到的 Hostinger 说法，不是我们的测试。",
+          "别把它和 Hostinger 的自动化智能体 OpenClaw、Hermes Agent 混在一起：那些是[跑在服务器上的助手](/zh-hans/reviews/openclaw-vs-hermes-agent-zh-hans)，在 Telegram 或 WhatsApp 里回话。AI Builder 是用来搭网站的。"
+        ]
+      },
+      {
+        "heading": "适合哪种项目：一张表看懂",
+        "paragraphs": [
+          "该问的不是“AI 好不好用”，而是“我要做什么，之后谁来维护”。按 2026年10月28日读到的 AI Builder 页面和 WordPress 文档，这张表按项目类型总结了怎么选："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "项目",
+            "更合适的选择",
+            "为什么"
+          ],
+          "rows": [
+            [
+              "菜单、餐厅或服务介绍页",
+              "AI Builder",
+              "几页文字加照片。AI 搭好，再用不消耗额度的无 AI 模式调整。"
+            ],
+            [
+              "作品集或简历",
+              "AI Builder",
+              "模板库里有现成的这类模板，Premium 套餐就够了。"
+            ],
+            [
+              "商品不多的小店",
+              "AI Builder（Unlimited 套餐）或 WordPress 加 WooCommerce",
+              "AI Builder 内置网店；WooCommerce 对运费和支付的控制更细，但要自己配置。"
+            ],
+            [
+              "依赖插件的博客（SEO、表单、会员区）",
+              "WordPress",
+              "插件和主题目录是 WordPress 的；在 AI Builder 里，每个新功能都要靠 AI 来做。"
+            ],
+            [
+              "Web 应用：预约、客户门户、简单 CRM",
+              "AI Builder（AI 模式）",
+              "页面承诺内置后端、登录和数据库。在 WordPress 里这意味着一堆插件加一个开发者。"
+            ],
+            [
+              "之后由别人或外包团队维护的项目",
+              "WordPress",
+              "它是市场标准，任何专业人员都会用。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hans.webp",
+          "alt": "按项目类型选 AI Builder 还是 WordPress 的表：菜单或服务页、作品集和 Web 应用归 AI Builder；依赖插件的博客和由别人维护的项目归 WordPress；小店两者都行",
+          "caption": "表格小结：简单网站、作品集和 Web 应用用 AI Builder；要插件、要把网站交给别人的用 WordPress。Em Casa com Cecília 根据 2026年10月28日页面上的说法制作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "如果你的项目两行话就能说清，先从 AI Builder 开始：它有免费试用，不绑卡，送 5 个 AI 额度。如果你需要的东西已经有了插件的名字，就选 WordPress。"
+        ]
+      },
+      {
+        "heading": "AI Builder 还是 WordPress",
+        "paragraphs": [
+          "价格不是决定因素：在 Hostinger，AI Builder 包含在网站主机套餐里，和跑 WordPress 的是同一批套餐，价格也一样。不同的是谁来干活，以及你能控制什么。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "谁来搭网站",
+              "AI 根据你的描述，或你在可视化编辑器里",
+              "你用一个主题自己做，或请专业人员"
+            ],
+            [
+              "新功能",
+              "在聊天里提出；消耗 AI 额度",
+              "插件，成千上万，免费或付费"
+            ],
+            [
+              "主题和外观",
+              "Hostinger 的模板，由 AI 或编辑器调整",
+              "任何主题，包括定制的"
+            ],
+            [
+              "谁来修错误",
+              "你向 AI 提出，或 Hostinger 客服",
+              "你、插件作者或开发者"
+            ],
+            [
+              "搬到别处",
+              "页面说代码可以导出；内置后端留在 Hostinger",
+              "整个网站可以搬到任何主机"
+            ],
+            [
+              "网店",
+              "Unlimited 和 Cloud Startup 套餐内置",
+              "WooCommerce 免费，扩展付费"
+            ],
+            [
+              "维护",
+              "平台由 Hostinger 负责",
+              "更新 WordPress、主题和插件由你负责"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress 胜出**的情况：项目依赖某个特定插件、你已有的主题，或者之后有人要维护网站。它是自由软件：整个网站都是你的，搬到任何主机都不用重做。",
+          "**AI Builder 胜出**的情况：你不想安装、更新任何东西，又想要一个带登录和数据的 Web 应用，这在 WordPress 里会变成一堆插件。会改变决定的一点：在 AI 模式下，每次改动都要花额度。按页面的说法，一个简单的企业站消耗 5 到 10 个额度，更复杂的应用要 15 个以上。每周都要改网站的人得算一算；做一次之后只在编辑器里改文字和照片、不用提示词的人，不花额度。"
+        ]
+      },
+      {
+        "heading": "AI Builder 还是 Wix（以及 Lovable）",
+        "paragraphs": [
+          "Wix 是传统的拖放式生成器，自带主机。它有免费套餐，用 Wix 的网址；自有域名需要付费套餐。如果你要的是纯粹的可视化编辑器，Wix 能满足。如果你更在意之后能不能把项目带走，就按各家页面的保证来比：AI Builder 的页面说代码可以导出，WordPress 是自由软件，可以搬到任何主机。",
+          "Lovable 是另一个 vibe coding 工具，和 AI Builder 的 AI 模式是同一个思路：你描述，AI 编码。区别在打包方式。Lovable 按额度、按消息收费，有免费套餐但每天额度很少；它是用来做东西的工具，域名和邮箱要另外解决。在 Hostinger，主机、域名和邮箱在同一个套餐里，无 AI 模式不花额度。已经会编程、只想要 AI 的人，Lovable 可以一比；想一站搞定的人，选 Hostinger。"
+        ]
+      },
+      {
+        "heading": "2026年10月28日的价格与续费",
+        "paragraphs": [
+          "AI Builder 没有单独的套餐：它包含在 48 个月的网站主机套餐里，整期一次付清。下面的价格来自 Hostinger 国际站，以美元计，通过推荐链接进入，在 2026年10月28日的黑色星期五活动期间读取；按国家和货币可能有所不同。月价是预付总额除以 48："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "用推荐链接（每月）",
+            "48 个月总价",
+            "续费",
+            "AI 额度"
+          ],
+          "rows": [
+            [
+              "[Premium（最多 3 个网站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 1.99（原价 US$ 12.19）",
+              "US$ 95.52",
+              "US$ 10.99/月",
+              "250（黑色星期五 500）"
+            ],
+            [
+              "[Unlimited（网站不限，含网店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 2.79（原价 US$ 18.99）",
+              "US$ 133.92",
+              "US$ 16.99/月",
+              "500（黑色星期五 1,000）"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 6.39",
+              "US$ 306.72",
+              "US$ 25.99/月",
+              "1,000（黑色星期五 2,000）"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "实际算下来："
+        ],
+        "bullets": [
+          "**Premium，用推荐链接：** 48 × US$ 1.99 = **US$ 95.52**。**之后 48 个月的续费：** 48 × US$ 10.99 = US$ 527.52。",
+          "**Unlimited，用推荐链接：** 48 × US$ 2.79 = **US$ 133.92**。**续费：** 48 × US$ 16.99 = US$ 815.52。",
+          "**AI 额度是一次性赠送**，不是每月发放。用完就要充值，而充值价格页面上没有：指望它之前，先到控制面板确认。表里的额度数是 2026年10月28日套餐页面显示的数值，黑色星期五期间翻倍。"
+        ],
+        "emphasis": "续费价是促销价的 4 到 6 倍。选套餐之前先看续费那一列。"
+      },
+      {
+        "heading": "付款前要确认什么",
+        "bullets": [
+          "**额度。** AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。用 AI 把网站搭好，文字和照片的调整在不花额度的编辑器里做。",
+          "**不续费会怎样。** 页面有提醒：套餐到期不续费，项目会下线，数据会被删除。到期前先把代码导出。",
+          "**域名和邮箱只有第一年免费。** 之后域名按 Hostinger 的标价续费，2026年10月28日读到的 .com 是每年 US$ 19.99。",
+          "**30 天退款**，前提是消耗的 AI 额度少于 30 个。",
+          "**网店**是 Unlimited 和 Cloud Startup 套餐的项目；国际站页面写着在结账时提供。费用在结账时确认。",
+          "**没有原生 App。** AI Builder 做的是响应式 Web 应用，在手机浏览器里打开。要上 App Store 和 Google Play，是另一条路。"
+        ],
+        "postParagraphs": [
+          "Hostinger 怎么收费、续费和退款，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "推荐链接与链接价格",
+        "paragraphs": [
+          "推荐链接会直接套用折扣，没有要输入的代码。**20% 只在首期**，限 12 个月以上的套餐，而且**不能与其他优惠券叠加**。续费按正常价格。2026年10月28日，AI Builder 页面上各套餐已套用推荐，显示的就是上表“用推荐链接”那一列的价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+          "Hostinger 正在黑色星期五活动中，页面上没有结束日期，价格和翻倍的额度都可能变。付款前在购物车里核对金额。"
+        ]
+      },
+      {
+        "heading": "值得用吗？结论",
+        "paragraphs": [
+          "**值得用**：适合想要几页的网站、作品集、小店或简单 Web 应用，又不想写代码、不想管插件的人。第一版由描述生成，无 AI 模式可以不花额度地调整。先从免费试用开始；结果合用的话，简单网站 Premium 套餐就够，网店用 Unlimited。",
+          "**留在 WordPress**：项目依赖插件、你自己的主题、之后维护网站的人，或者你想不用重做就把一切搬到别的主机。Hostinger 的套餐两种情况都一样，所以选的只是工具。",
+          "**拿不准就先试 AI Builder 再付款。** 5 个免费额度，不绑卡，足够看出 AI 是否理解你的意思。不理解的话，WordPress 还在那儿。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger Horizons 还在吗？换了名字还在。2026 年 Horizons 与 Hostinger 的网站生成器合并，成了 Hostinger AI Builder，有一个拖放模式和一个聊天生成模式。旧地址会跳转到新页面。",
+          "Hostinger 的 AI Builder 能自己把网站做出来吗？按页面的说法，它根据你的描述搭出第一版。内容、照片和业务上的决定仍然是你的，AI 模式下每次请求都消耗额度。",
+          "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人在 AI 模式里有一个代码编辑器。",
+          "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在外面需要重新配置。",
+          "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的项目。有运费和支付规则的大店，WordPress 加 WooCommerce 控制更多。",
+          "2026 年 Hostinger Horizons 多少钱？AI Builder 包含在网站主机套餐里。2026年10月28日国际站上，Premium 用推荐链接是 48 个月套餐每月 US$ 1.99，续费 US$ 10.99/月；Unlimited 每月 US$ 2.79，续费 US$ 16.99/月。",
+          "Hostinger 的 AI Builder 有优惠券吗？没有要输入的代码。20% 的折扣通过推荐链接获得，只在首期、限 12 个月以上的套餐，不能与其他优惠券叠加。"
+        ]
+      },
+      {
+        "heading": "谁在写这篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名从 2024 年 11 月起就注册在 Hostinger。团队中没有人用过 AI Builder 或 Horizons：本文汇总的是产品页面、WordPress 文档以及 Wix 和 Lovable 公开页面的说法，于 2026年10月28日读取。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推荐代码已经在链接里：20% 只在首期，限 12 个月以上的套餐，不能与其他优惠券叠加。",
+      "label": "通过推荐链接查看套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "通过推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。团队中没有人用过 AI Builder。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 665,
+    "slug": "hostinger-ai-builder-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-ai-builder",
+    "title": "Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？",
+    "seoTitle": "Hostinger Horizons 值得用嗎？不寫程式做網站",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 的 AI Builder（原 Horizons）適合不寫程式就做一個簡單網站或 Web 應用程式的人；要外掛和完全控制的，還是 WordPress。2026年10月28日的美元價格，含續訂。",
+    "metaDescription": "Hostinger Horizons 變成了 AI Builder。值得用，還是選 WordPress？按專案類型的一張表、與 Wix 和 Lovable 的比較、AI 額度，以及2026年10月28日的價格和續訂。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+    "imageAlt": "Hostinger 標誌和 AI Builder（原 Horizons）與 WordPress 面對面",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Hostinger 的 AI Builder（原 Horizons）適合想不寫程式就做一個簡單網站或 Web 應用程式、也接受由 AI 搭出第一版的人。需要外掛、自己的主題和完全控制的，還是 WordPress 比較合適。起決定作用的是專案類型，下面有一張表。"
+        ]
+      },
+      {
+        "heading": "什麼是 AI Builder（原 Horizons）",
+        "paragraphs": [
+          "Horizons 原本是 Hostinger 的 AI 網站和應用程式產生器。2026 年它與傳統的網站產生器合併，成了 Hostinger AI Builder：舊網址會轉到新頁面。搜尋裡還在用 Horizons 這個名字，所以本文也一併寫出。",
+          "頁面說，它根據一段文字描述就能產生網站和 Web 應用程式，不需要技術知識，有兩種模式："
+        ],
+        "bullets": [
+          "**不用 AI 編輯（Manual 模式）：** 從 AI 產生的網站或某個範本開始，用拖放方式編輯。不消耗 AI 額度。",
+          "**用 AI 編輯（Agentic 模式）：** 在聊天裡描述你想要的，AI 負責設計和寫程式。每次操作都消耗 AI 額度，可以加值。"
+        ],
+        "postParagraphs": [
+          "做出來的是網站或 Web 應用程式，不是上 App Store 或 Google Play 的 App：頁面自己就這麼說。主機、網域和電子郵件都在方案裡，原始碼可以匯出到別處託管。以上都是 2026年10月28日讀到的 Hostinger 說法，不是我們的測試。",
+          "別把它和 Hostinger 的自動化代理程式 OpenClaw、Hermes Agent 混在一起：那些是[跑在伺服器上的助手](/zh-hant/reviews/openclaw-vs-hermes-agent-zh-hant)，在 Telegram 或 WhatsApp 裡回話。AI Builder 是用來搭網站的。"
+        ]
+      },
+      {
+        "heading": "適合哪種專案：一張表看懂",
+        "paragraphs": [
+          "該問的不是「AI 好不好用」，而是「我要做什麼，之後誰來維護」。按 2026年10月28日讀到的 AI Builder 頁面和 WordPress 文件，這張表按專案類型整理了怎麼選："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "專案",
+            "比較合適的選擇",
+            "為什麼"
+          ],
+          "rows": [
+            [
+              "菜單、餐廳或服務介紹頁",
+              "AI Builder",
+              "幾頁文字加照片。AI 搭好，再用不消耗額度的無 AI 模式調整。"
+            ],
+            [
+              "作品集或履歷",
+              "AI Builder",
+              "範本庫裡有現成的這類範本，Premium 方案就夠了。"
+            ],
+            [
+              "商品不多的小店",
+              "AI Builder（Unlimited 方案）或 WordPress 加 WooCommerce",
+              "AI Builder 內建網路商店；WooCommerce 對運費和付款的控制更細，但要自己設定。"
+            ],
+            [
+              "依賴外掛的部落格（SEO、表單、會員區）",
+              "WordPress",
+              "外掛和主題目錄是 WordPress 的；在 AI Builder 裡，每個新功能都要靠 AI 來做。"
+            ],
+            [
+              "Web 應用程式：預約、客戶入口、簡單 CRM",
+              "AI Builder（AI 模式）",
+              "頁面承諾內建後端、登入和資料庫。在 WordPress 裡這意味著一堆外掛加一位開發者。"
+            ],
+            [
+              "之後由別人或外包團隊維護的專案",
+              "WordPress",
+              "它是市場標準，任何專業人員都會用。"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-zh-hant.webp",
+          "alt": "按專案類型選 AI Builder 還是 WordPress 的表：菜單或服務頁、作品集和 Web 應用程式歸 AI Builder；依賴外掛的部落格和由別人維護的專案歸 WordPress；小店兩者都行",
+          "caption": "表格小結：簡單網站、作品集和 Web 應用程式用 AI Builder；要外掛、要把網站交給別人的用 WordPress。Em Casa com Cecília 根據 2026年10月28日頁面上的說法製作。",
+          "objectFit": "contain",
+          "aspectRatio": 1.2346
+        },
+        "postParagraphs": [
+          "如果你的專案兩行話就能說清，先從 AI Builder 開始：它有免費試用，不綁卡，送 5 個 AI 額度。如果你需要的東西已經有了外掛的名字，就選 WordPress。"
+        ]
+      },
+      {
+        "heading": "AI Builder 還是 WordPress",
+        "paragraphs": [
+          "價格不是決定因素：在 Hostinger，AI Builder 包含在網站主機方案裡，和跑 WordPress 的是同一批方案，價格也一樣。不同的是誰來做事，以及你能控制什麼。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "",
+            "AI Builder",
+            "WordPress"
+          ],
+          "rows": [
+            [
+              "誰來搭網站",
+              "AI 根據你的描述，或你在視覺化編輯器裡",
+              "你用一個主題自己做，或請專業人員"
+            ],
+            [
+              "新功能",
+              "在聊天裡提出；消耗 AI 額度",
+              "外掛，成千上萬，免費或付費"
+            ],
+            [
+              "主題和外觀",
+              "Hostinger 的範本，由 AI 或編輯器調整",
+              "任何主題，包括客製的"
+            ],
+            [
+              "誰來修錯誤",
+              "你向 AI 提出，或 Hostinger 客服",
+              "你、外掛作者或開發者"
+            ],
+            [
+              "搬到別處",
+              "頁面說程式碼可以匯出；內建後端留在 Hostinger",
+              "整個網站可以搬到任何主機"
+            ],
+            [
+              "網路商店",
+              "Unlimited 和 Cloud Startup 方案內建",
+              "WooCommerce 免費，擴充功能付費"
+            ],
+            [
+              "維護",
+              "平台由 Hostinger 負責",
+              "更新 WordPress、主題和外掛由你負責"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "**WordPress 勝出**的情況：專案依賴某個特定外掛、你已有的主題，或者之後有人要維護網站。它是自由軟體：整個網站都是你的，搬到任何主機都不用重做。",
+          "**AI Builder 勝出**的情況：你不想安裝、更新任何東西，又想要一個有登入和資料的 Web 應用程式，這在 WordPress 裡會變成一堆外掛。會改變決定的一點：在 AI 模式下，每次改動都要花額度。按頁面的說法，一個簡單的公司網站消耗 5 到 10 個額度，更複雜的應用程式要 15 個以上。每週都要改網站的人得算一算；做一次之後只在編輯器裡改文字和照片、不用提示詞的人，不花額度。"
+        ]
+      },
+      {
+        "heading": "AI Builder 還是 Wix（以及 Lovable）",
+        "paragraphs": [
+          "Wix 是傳統的拖放式產生器，自帶主機。它有免費方案，用 Wix 的網址；自有網域需要付費方案。如果你要的是純粹的視覺化編輯器，Wix 能滿足。如果你更在意之後能不能把專案帶走，就按各家頁面的保證來比：AI Builder 的頁面說程式碼可以匯出，WordPress 是自由軟體，可以搬到任何主機。",
+          "Lovable 是另一個 vibe coding 工具，和 AI Builder 的 AI 模式是同一個思路：你描述，AI 寫程式。差別在包裝方式。Lovable 按額度、按訊息收費，有免費方案但每天額度很少；它是用來做東西的工具，網域和電子郵件要另外解決。在 Hostinger，主機、網域和電子郵件在同一個方案裡，無 AI 模式不花額度。已經會寫程式、只想要 AI 的人，Lovable 可以一比；想一站搞定的人，選 Hostinger。"
+        ]
+      },
+      {
+        "heading": "2026年10月28日的價格與續訂",
+        "paragraphs": [
+          "AI Builder 沒有單獨的方案：它包含在 48 個月的網站主機方案裡，整期一次付清。下面的價格來自 Hostinger 國際站，以美元計，透過推薦連結進入，在 2026年10月28日的黑色星期五活動期間讀取；依國家和貨幣可能有所不同。月價是預付總額除以 48："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "用推薦連結（每月）",
+            "48 個月總價",
+            "續訂",
+            "AI 額度"
+          ],
+          "rows": [
+            [
+              "[Premium（最多 3 個網站）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 1.99（原價 US$ 12.19）",
+              "US$ 95.52",
+              "US$ 10.99/月",
+              "250（黑色星期五 500）"
+            ],
+            [
+              "[Unlimited（網站不限，含網路商店）](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 2.79（原價 US$ 18.99）",
+              "US$ 133.92",
+              "US$ 16.99/月",
+              "500（黑色星期五 1,000）"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 6.39",
+              "US$ 306.72",
+              "US$ 25.99/月",
+              "1,000（黑色星期五 2,000）"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "實際算下來："
+        ],
+        "bullets": [
+          "**Premium，用推薦連結：** 48 × US$ 1.99 = **US$ 95.52**。**之後 48 個月的續訂：** 48 × US$ 10.99 = US$ 527.52。",
+          "**Unlimited，用推薦連結：** 48 × US$ 2.79 = **US$ 133.92**。**續訂：** 48 × US$ 16.99 = US$ 815.52。",
+          "**AI 額度是一次性贈送**，不是每月發放。用完就要加值，而加值價格頁面上沒有：指望它之前，先到控制台確認。表裡的額度數是 2026年10月28日方案頁面顯示的數值，黑色星期五期間翻倍。"
+        ],
+        "emphasis": "續訂價是促銷價的 4 到 6 倍。選方案之前先看續訂那一欄。"
+      },
+      {
+        "heading": "付款前要確認什麼",
+        "bullets": [
+          "**額度。** AI 模式每次請求都消耗額度，方案裡的餘額不會每月重設。用 AI 把網站搭好，文字和照片的調整在不花額度的編輯器裡做。",
+          "**不續訂會怎樣。** 頁面有提醒：方案到期不續訂，專案會下線，資料會被刪除。到期前先把程式碼匯出。",
+          "**網域和電子郵件只有第一年免費。** 之後網域按 Hostinger 的定價續訂，2026年10月28日讀到的 .com 是每年 US$ 19.99。",
+          "**30 天退款**，前提是消耗的 AI 額度少於 30 個。",
+          "**網路商店**是 Unlimited 和 Cloud Startup 方案的項目；國際站頁面寫著在結帳時提供。費用在結帳時確認。",
+          "**沒有原生 App。** AI Builder 做的是響應式 Web 應用程式，在手機瀏覽器裡開啟。要上 App Store 和 Google Play，是另一條路。"
+        ],
+        "postParagraphs": [
+          "Hostinger 怎麼收費、續訂和退款，見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "推薦連結與連結價格",
+        "paragraphs": [
+          "推薦連結會直接套用折扣，沒有要輸入的代碼。**20% 只在首期**，限 12 個月以上的方案，而且**不能與其他優惠券疊加**。續訂按正常價格。2026年10月28日，AI Builder 頁面上各方案已套用推薦，顯示的就是上表「用推薦連結」那一欄的價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+          "Hostinger 正在黑色星期五活動中，頁面上沒有結束日期，價格和翻倍的額度都可能變。付款前在購物車裡核對金額。"
+        ]
+      },
+      {
+        "heading": "值得用嗎？結論",
+        "paragraphs": [
+          "**值得用**：適合想要幾頁的網站、作品集、小店或簡單 Web 應用程式，又不想寫程式、不想管外掛的人。第一版由描述產生，無 AI 模式可以不花額度地調整。先從免費試用開始；結果合用的話，簡單網站 Premium 方案就夠，網路商店用 Unlimited。",
+          "**留在 WordPress**：專案依賴外掛、你自己的主題、之後維護網站的人，或者你想不用重做就把一切搬到別的主機。Hostinger 的方案兩種情況都一樣，所以選的只是工具。",
+          "**拿不準就先試 AI Builder 再付款。** 5 個免費額度，不綁卡，足夠看出 AI 是否理解你的意思。不理解的話，WordPress 還在那裡。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger Horizons 還在嗎？換了名字還在。2026 年 Horizons 與 Hostinger 的網站產生器合併，成了 Hostinger AI Builder，有一個拖放模式和一個聊天產生模式。舊網址會轉到新頁面。",
+          "Hostinger 的 AI Builder 能自己把網站做出來嗎？按頁面的說法，它根據你的描述搭出第一版。內容、照片和業務上的決定仍然是你的，AI 模式下每次請求都消耗額度。",
+          "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人在 AI 模式裡有一個程式碼編輯器。",
+          "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，到別處託管。有資料庫和登入的內建後端留在 Hostinger，所以應用程式在外面需要重新設定。",
+          "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的項目。有運費和付款規則的大店，WordPress 加 WooCommerce 控制更多。",
+          "2026 年 Hostinger Horizons 多少錢？AI Builder 包含在網站主機方案裡。2026年10月28日國際站上，Premium 用推薦連結是 48 個月方案每月 US$ 1.99，續訂 US$ 10.99/月；Unlimited 每月 US$ 2.79，續訂 US$ 16.99/月。",
+          "Hostinger 的 AI Builder 有優惠券嗎？沒有要輸入的代碼。20% 的折扣透過推薦連結取得，只在首期、限 12 個月以上的方案，不能與其他優惠券疊加。"
+        ]
+      },
+      {
+        "heading": "誰在寫這篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域從 2024 年 11 月起就註冊在 Hostinger。團隊中沒有人用過 AI Builder 或 Horizons：本文彙整的是產品頁面、WordPress 文件以及 Wix 和 Lovable 公開頁面的說法，於 2026年10月28日讀取。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推薦代碼已經在連結裡：20% 只在首期，限 12 個月以上的方案，不能與其他優惠券疊加。",
+      "label": "透過推薦連結查看方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ],
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 666,
+    "slug": "dominio-hostinger-comprar-transferir-ou-fora",
+    "locale": "pt",
+    "translationKey": "hostinger-dominio",
+    "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar",
+    "seoTitle": "Domínio na Hostinger: comprar, transferir ou fora",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Domínio na Hostinger: os três caminhos (comprar ali, comprar fora e apontar, transferir), o preço de registro e de renovação do .com.br e do .com em 28/10/2026 e o que checar antes de pagar.",
+    "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Logo da Hostinger ao lado de três caminhos para o domínio: comprar na Hostinger, comprar fora e apontar, ou transferir",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços de 28/10/2026 estão abaixo."
+        ]
+      },
+      {
+        "heading": "Domínio e hospedagem são duas contas",
+        "paragraphs": [
+          "O domínio é o endereço (o nome que a pessoa digita). A hospedagem é o computador onde o site fica. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+          "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
+        ]
+      },
+      {
+        "heading": "Os três caminhos",
+        "paragraphs": [
+          "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger lidas em 28/10/2026."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
+          "alt": "Quadro com três caminhos para o domínio: comprar com a hospedagem (registro na Hostinger), transferir (o registro passa para a Hostinger) e deixar fora e apontar (o registro fica onde está); nos três o domínio é seu, o que muda é quem cobra a renovação",
+          "caption": "Os três caminhos para o domínio, pelas páginas da Hostinger lidas em 28/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Caminho",
+            "Quando faz sentido",
+            "Renovação",
+            "Se trocar de hospedagem",
+            "Quem é o dono"
+          ],
+          "rows": [
+            [
+              "Comprar na Hostinger",
+              "Você vai hospedar na Hostinger e quer domínio, DNS e renovação no mesmo painel",
+              "Preço de renovação da tabela da Hostinger, todo ano",
+              "O domínio continua na Hostinger; você aponta o DNS para a nova hospedagem ou transfere depois",
+              "Você, registrado no seu nome"
+            ],
+            [
+              "Comprar fora e apontar",
+              "Você já tem domínio em outro registrador ou prefere separar as contas",
+              "Preço do registrador onde ele está",
+              "Nada muda no domínio; só o apontamento",
+              "Você, no outro registrador"
+            ],
+            [
+              "Transferir para a Hostinger",
+              "Você já tem o domínio há mais de 60 dias e quer tudo num lugar só",
+              "Preço de renovação da Hostinger a partir do ano seguinte",
+              "Mesma regra do primeiro caminho",
+              "Você; os dados de propriedade não mudam na transferência"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Planos de hospedagem Premium e Ilimitado de 12 meses ou mais trazem um domínio no primeiro ano, um por conta, em extensões selecionadas; a partir do segundo ano, ele renova pelo preço normal da tabela. É um item do plano, não um motivo para escolher o caminho: o que pesa é a renovação."
+        ]
+      },
+      {
+        "heading": "Quanto custa na Hostinger",
+        "paragraphs": [
+          "Preços da página de registro de domínio da Hostinger (Brasil), lidos em 28/10/2026, em campanha de Black Friday. O preço baixo do primeiro ano vale com prazo de 3 anos; a renovação é por ano, a partir do fim do prazo pago."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Extensão",
+            "Primeiro ano",
+            "Renovação (por ano)",
+            "Transferir para a Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com.br](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 64,99, ou R$ 1 com prazo de 3 anos",
+              "R$ 64,99",
+              "R$ 0,99"
+            ],
+            [
+              "[.com](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 94,99, ou R$ 0,01 com prazo de 3 anos",
+              "R$ 94,99",
+              "R$ 54,99"
+            ],
+            [
+              "[.org](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 44,99",
+              "R$ 88,99",
+              "R$ 71,99"
+            ],
+            [
+              "[.online, .shop e .store](https://www.hostinger.com/br/registro-de-dominio?REFERRALCODE=SONARDEOFERTAS)",
+              "R$ 5,99",
+              "De R$ 197,99 a R$ 284,99",
+              "Confira na página"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A leitura é esta: o .com.br renova pelo mesmo valor do primeiro ano cheio, R$ 64,99. O .com também, R$ 94,99. Já as extensões de R$ 5,99 renovam a mais de R$ 190 por ano: o preço de entrada não diz nada sobre o que você vai pagar no segundo ano. Olhe sempre a coluna da renovação.",
+          "No .com.br com prazo de 3 anos, o R$ 1 é só do primeiro ano; a página não mostra o total dos três anos fora do carrinho, então confira o valor antes de pagar. Para comparar, o Registro.br, que administra os domínios .br, anuncia o registro a R$ 40 por ano (lido em 28/10/2026): comprar lá é o caminho \"fora e apontar\" da tabela acima.",
+          "A privacidade dos dados de contato (RDAP, o antigo WHOIS) vem incluída nas extensões compatíveis. O .com.br é a extensão do Brasil; fora do país, cada registrador tem a sua, e o preço muda com a moeda."
+        ]
+      },
+      {
+        "heading": "Transferir: a regra dos 60 dias e o passo a passo",
+        "paragraphs": [
+          "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que o site e o e-mail continuam funcionando durante o processo, e que os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
+          "As regras, pela página da Hostinger lida em 28/10/2026:"
+        ],
+        "bullets": [
+          "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair.",
+          "**Desbloqueio e código:** você destrava o domínio no painel do registrador atual e pega o código de autorização (EPP, ou código de transferência).",
+          "**Confirmação:** depois de informar o código na Hostinger, chega um e-mail do registrador para confirmar. Sem a confirmação, a transferência não anda.",
+          "**Prazo:** até sete dias; mais rápido se o registrador atual liberar logo e você confirmar o e-mail na hora.",
+          "**Preço:** não é grátis. Na maioria das extensões genéricas (.com, .net, .org), a taxa de transferência já inclui um ano a mais de registro, somado ao prazo que você já tinha."
+        ],
+        "postParagraphs": [
+          "O passo a passo da página é o dos domínios genéricos, como o .com. O .com.br é administrado pelo Registro.br, e a Hostinger aparece como registrador credenciado para ele; antes de pedir o código de um .com.br, confira o procedimento no suporte da Hostinger, porque a transferência do .br tem caminho próprio.",
+          "Transferir para fora da Hostinger segue a mesma lógica ao contrário: 60 dias de registro, destravar no painel da Hostinger, pegar o código e confirmar no e-mail. A transferência que dá certo não tem reembolso; veja [as regras de reembolso e renovação da Hostinger](/reviews/hostinger-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Quem é o dono do domínio",
+        "paragraphs": [
+          "A Hostinger diz nas duas páginas: o domínio é registrado no seu nome, e é seu, não da registradora. Ela é credenciada pela ICANN, a entidade que coordena os domínios genéricos, e a página diz que ela é acreditada para o .com.br. Se você cancelar a hospedagem, o domínio continua seu; no caso do domínio que veio com o plano, a taxa de registro é descontada do reembolso, porque já foi paga ao registro.",
+          "Três cuidados mantêm o domínio seu:"
+        ],
+        "bullets": [
+          "**A conta:** o domínio pertence à conta da Hostinger em que foi comprado. Use um e-mail que você controla, não o de um freelancer ou de uma agência. Quem registra no nome de outra pessoa depende dela para transferir depois.",
+          "**A renovação:** a Hostinger recomenda deixar a renovação automática ligada. Domínio vencido derruba o site e o e-mail. Renovação de domínio não tem reembolso, então o cartão da conta precisa estar em dia.",
+          "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas; o .com.br e os outros .br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
+        ]
+      },
+      {
+        "heading": "Checklist antes de pagar",
+        "bullets": [
+          "Veja a coluna da renovação, não só o primeiro ano. O domínio renova todo ano enquanto o site existir.",
+          "No prazo de 3 anos, confira no carrinho o total dos três anos: a página mostra só o primeiro.",
+          "Se vai transferir, confira a data do registro: menos de 60 dias, a transferência não começa.",
+          "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
+          "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
+          "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
+          "O desconto de indicação vale no plano de hospedagem, e os termos não listam domínio entre os serviços elegíveis; confira o valor do domínio no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Qual caminho escolher",
+        "paragraphs": [
+          "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99 (28/10/2026), valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
+          "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
+          "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
+          "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
+        ]
+      },
+      {
+        "heading": "Indicação e preço com o link",
+        "paragraphs": [
+          "O link de indicação já aplica o desconto no plano de hospedagem: não há código para digitar. São 20% só no primeiro período, em planos de 12 meses ou mais, e o desconto não soma com outros cupons. Os termos não listam domínio entre os serviços elegíveis; o que vale é o que aparecer no carrinho. A regra completa está em [como funciona a indicação da Hostinger](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quanto custa o domínio na Hostinger? Em 28/10/2026, o .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
+          "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
+          "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano (28/10/2026).",
+          "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
+          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 17/11/2024 (registro público RDAP, lido em 28/10/2026). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem, lidas em 28/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "O código de indicação já vai no link: os 20% valem no plano de hospedagem, só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons. Confira o domínio no carrinho antes de pagar.",
+      "label": "Ver os planos com o link de indicação",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao",
+        "title": "Cupom Hostinger: não precisa de cupom, veja o que o link de indicação dá"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "slug": "hostinger-domain-buy-transfer-or-elsewhere",
+    "locale": "en",
+    "translationKey": "hostinger-dominio",
+    "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Price, renewal and what to check",
+    "seoTitle": "Hostinger domain: buy, transfer or elsewhere",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger domains: the three paths (buy there, buy elsewhere and point it, transfer), the .com registration and renewal price on October 28, 2026 and what to check before you pay.",
+    "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer? The .com price with the renewal next to it, the 60-day rule, who owns the domain and the checklist before you pay.",
+    "publishedAt": "October 28, 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostinger logo next to three paths for the domain: buy it at Hostinger, buy it elsewhere and point it, or transfer it",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "The domain is an account separate from the hosting: it can live at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and only transfer a domain registered more than 60 days ago; the prices from October 28, 2026 are below."
+        ]
+      },
+      {
+        "heading": "Domain and hosting are two accounts",
+        "paragraphs": [
+          "The domain is the address (the name people type). The hosting is the computer where the site lives. You pay for the two separately, and they do not have to be with the same company: a domain registered with one company can point to another company's hosting. Hostinger's own page says a domain registered there can be pointed to another hosting provider.",
+          "So the decision is not \"Hostinger or not\". It is where the domain registration lives, how much it costs to renew every year and what happens if you change hosting one day. The cheap first year is the least important part: the domain renews for as long as the site exists."
+        ]
+      },
+      {
+        "heading": "The three paths",
+        "paragraphs": [
+          "Anyone building a site has three options for the domain. The chart sums up what changes in each one, from Hostinger's pages read on October 28, 2026."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-en.webp",
+          "alt": "Chart with three paths for the domain: buy it with the hosting (registered at Hostinger), transfer it (the registration moves to Hostinger) and keep it elsewhere and point it (the registration stays where it is); in all three the domain is yours, what changes is who bills the renewal",
+          "caption": "The three paths for the domain, from Hostinger's pages read on October 28, 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Path",
+            "When it makes sense",
+            "Renewal",
+            "If you change hosting",
+            "Who owns it"
+          ],
+          "rows": [
+            [
+              "Buy at Hostinger",
+              "You will host at Hostinger and want domain, DNS and renewal in the same panel",
+              "Hostinger's renewal price from its table, every year",
+              "The domain stays at Hostinger; you point the DNS to the new host or transfer it later",
+              "You, registered in your name"
+            ],
+            [
+              "Buy elsewhere and point it",
+              "You already have a domain at another registrar or prefer to keep the accounts separate",
+              "The price of the registrar where it lives",
+              "Nothing changes for the domain; only the pointing",
+              "You, at the other registrar"
+            ],
+            [
+              "Transfer to Hostinger",
+              "You have had the domain for more than 60 days and want everything in one place",
+              "Hostinger's renewal price from the following year on",
+              "Same rule as the first path",
+              "You; the ownership data does not change in a transfer"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Premium and Unlimited hosting plans of 12 months or more include a domain for the first year, one per account, on selected extensions; from the second year it renews at the regular table price. It is an item of the plan, not a reason to pick a path: what weighs is the renewal."
+        ]
+      },
+      {
+        "heading": "What it costs at Hostinger",
+        "paragraphs": [
+          "Prices from Hostinger's international domain page, in US dollars, read on October 28, 2026 through the referral link, during the Black Friday campaign; they can vary by country and currency, so check the page for your region. The low first-year price requires a 3-year term; renewal is per year, once the paid term ends."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Extension",
+            "First year",
+            "Renewal (per year)",
+            "Transfer to Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$19.99, or US$0.01 with a 3-year term",
+              "US$19.99",
+              "US$9.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The reading is this: the .com renews at the same price as the full first year, US$19.99, with no jump in year two. The same page lists the other extensions (.org, .online, .shop, .store) with the renewal next to the first-year price, and that column is the one to read: on the Brazilian page, read the same day, the extensions sold cheapest for the first year renewed at more than thirty times the entry price. The entry price says nothing about what you will pay in year two.",
+          "With the 3-year term, the US$0.01 is for the first year only; the page does not show the three-year total outside the cart, so check the amount before paying. To compare, look up the renewal price at the registrar where your domain is today: keeping it there is the \"elsewhere and point it\" path from the table above.",
+          "Privacy for your contact data (RDAP, the former WHOIS) is included on compatible extensions. Each country has its own extension (such as .co.uk or .ca), run by its own registry with its own rules, and the price changes with the currency."
+        ]
+      },
+      {
+        "heading": "Transferring: the 60-day rule and the step by step",
+        "paragraphs": [
+          "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says the site and the email keep working during the process, and that the ownership data does not change. What changes is who bills the renewal and where you manage the DNS.",
+          "The rules, from Hostinger's page read on October 28, 2026:"
+        ],
+        "bullets": [
+          "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A domain newly registered at Hostinger is also locked for 60 days before it can leave.",
+          "**Unlock and code:** you unlock the domain in your current registrar's panel and get the authorization code (EPP, or transfer code).",
+          "**Confirmation:** after you enter the code at Hostinger, the registrar sends an email asking you to confirm. Without the confirmation, the transfer does not move.",
+          "**Time:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
+          "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes one more year of registration, added to the term you already had; for the .com, it was US$9.99 on October 28, 2026."
+        ],
+        "postParagraphs": [
+          "The step by step on the page is the one for generic domains, like .com. Country extensions, such as .co.uk or .ca, have their own registries and their own transfer procedure; before requesting the code for one of them, check the procedure in Hostinger's support.",
+          "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock in Hostinger's panel, get the code and confirm by email. A completed transfer has no refund; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
+        ]
+      },
+      {
+        "heading": "Who owns the domain",
+        "paragraphs": [
+          "Hostinger says it on both pages: the domain is registered in your name, and it is yours, not the registrar's. Hostinger is accredited by ICANN, the body that coordinates generic domains. If you cancel the hosting, the domain stays yours; for the domain that came with the plan, the registration fee is deducted from the refund, because it has already been paid to the registry.",
+          "Three habits keep the domain yours:"
+        ],
+        "bullets": [
+          "**The account:** the domain belongs to the Hostinger account it was bought in. Use an email you control, not a freelancer's or an agency's. Whoever registers it in someone else's name depends on that person to transfer it later.",
+          "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes the site and the email down. Domain renewals have no refund, so the card on the account has to be valid.",
+          "**The registration refund:** a new registration can only be refunded within 96 hours. After that, the domain is yours until the end of the paid term, with no refund."
+        ]
+      },
+      {
+        "heading": "Checklist before you pay",
+        "bullets": [
+          "Read the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
+          "With the 3-year term, check the three-year total in the cart: the page shows only the first.",
+          "If you are going to transfer, check the registration date: under 60 days, the transfer does not start.",
+          "Buy it in the account that will be yours, with your own email and auto-renewal on.",
+          "For a country extension, check its own transfer procedure in Hostinger's support before buying, if you may want to leave one day.",
+          "If the domain came with the hosting plan, note the second-year renewal price: it shows before you buy.",
+          "The referral discount applies to the hosting plan, and the terms do not list domains among the eligible services; check the domain price in the cart before paying."
+        ]
+      },
+      {
+        "heading": "Which path to choose",
+        "paragraphs": [
+          "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel. The .com renews at US$19.99 per year (October 28, 2026), the same as the full first year, with no jump in year two.",
+          "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer separate accounts, or if the renewal price there is lower. Pointing the DNS is a setting in the panel, and the site works the same way.",
+          "**Transfer** only a domain registered more than 60 days ago, and only if Hostinger's renewal beats what you pay today. On most generic extensions, the transfer fee includes one more year of registration, so it is not money lost.",
+          "When in doubt, do not transfer: point the domain and leave the registration where it is. You can transfer later, and the site does not stop."
+        ]
+      },
+      {
+        "heading": "Referral and the price with the link",
+        "paragraphs": [
+          "The referral link applies the discount to the hosting plan on its own: there is no code to type. It is 20% off the first period only, on plans of 12 months or more, and it does not stack with other coupons. The terms do not list domains among the eligible services; what counts is what shows in the cart. The full rule is in [how Hostinger's referral works](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "How much does a domain cost at Hostinger? On October 28, 2026, on the international site in US dollars, a .com cost US$19.99 for the first year, or US$0.01 with a 3-year term, and renews at US$19.99 per year; the transfer costs US$9.99. Prices can vary by country and currency.",
+          "Can I change hosting without losing the domain? Yes. The domain is yours and stays in your Hostinger account; you point the DNS to the new host or transfer the registration later, after 60 days from the registration.",
+          "Should I pick .com or my country's extension? The .com is generic and works in any country; a country extension (such as .co.uk or .ca) is run by that country's registry, with its own rules, and suits a site that speaks to the public there. At Hostinger, the .com renews at US$19.99 per year (October 28, 2026).",
+          "Do I need a domain to have email? Yes. For an address like you@yourcompany.com the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
+          "Can I transfer my domain from Hostinger to another registrar? Yes, 60 days after the registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A completed transfer has no refund."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain emcasacomcecilia.com has been registered at Hostinger since November 17, 2024 (public RDAP record, read on October 28, 2026). No one on the team has transferred a domain: this text gathers what Hostinger's domain and transfer pages say, read on October 28, 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "The referral code is already in the link: the 20% applies to the hosting plan, only for the first period, on plans of 12 months or more, and does not stack with other coupons. Check the domain price in the cart before paying.",
+      "label": "See the plans with the referral link",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-coupon-code-referral",
+        "title": "Hostinger coupon: you don't need one, and here is what the referral link gives"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "slug": "dominio-hostinger-comprar-o-transferir",
+    "locale": "es",
+    "translationKey": "hostinger-dominio",
+    "title": "Dominio en Hostinger: ¿comprarlo ahí, transferirlo o registrarlo en otro sitio? Precio, renovación y qué revisar",
+    "seoTitle": "Dominio en Hostinger: comprar, transferir o fuera",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Dominio en Hostinger: los tres caminos (comprarlo ahí, comprarlo fuera y apuntarlo, transferirlo), el precio de registro y de renovación del .com el 28 de octubre de 2026 y qué revisar antes de pagar.",
+    "metaDescription": "¿Comprar el dominio en Hostinger, registrarlo fuera y apuntarlo, o transferirlo? Precio del .com con la renovación al lado, la regla de los 60 días, quién es el dueño y la lista de verificación antes de pagar.",
+    "publishedAt": "28 de octubre de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Logo de Hostinger junto a tres caminos para el dominio: comprarlo en Hostinger, comprarlo fuera y apuntarlo, o transferirlo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El dominio es una cuenta aparte del hosting: puede quedarse en Hostinger o en otro registrador, y el sitio funciona de las dos formas. Elige por el precio de renovación y por lo fácil que sea irse, no por el primer año. Cómpralo en Hostinger si quieres todo en un panel, y transfiere solo un dominio con más de 60 días; los precios del 28 de octubre de 2026 están abajo."
+        ]
+      },
+      {
+        "heading": "Dominio y hosting son dos cuentas",
+        "paragraphs": [
+          "El dominio es la dirección (el nombre que la gente escribe). El hosting es la computadora donde vive el sitio. Pagas los dos por separado, y no tienen que estar en la misma empresa: un dominio registrado en una empresa puede apuntar al hosting de otra. La propia página de Hostinger dice que un dominio registrado ahí se puede apuntar a otro proveedor de hosting.",
+          "Por eso la decisión no es \"Hostinger o no\". Es dónde queda el registro del dominio, cuánto cuesta renovarlo cada año y qué pasa si un día cambias de hosting. El primer año barato es lo menos importante: el dominio se renueva mientras el sitio exista."
+        ]
+      },
+      {
+        "heading": "Los tres caminos",
+        "paragraphs": [
+          "Quien monta un sitio tiene tres opciones para el dominio. El cuadro resume lo que cambia en cada una, según las páginas de Hostinger leídas el 28 de octubre de 2026."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-es.webp",
+          "alt": "Cuadro con tres caminos para el dominio: comprarlo con el hosting (registro en Hostinger), transferirlo (el registro pasa a Hostinger) y dejarlo fuera y apuntarlo (el registro se queda donde está); en los tres el dominio es tuyo, lo que cambia es quién cobra la renovación",
+          "caption": "Los tres caminos para el dominio, según las páginas de Hostinger leídas el 28 de octubre de 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Camino",
+            "Cuándo tiene sentido",
+            "Renovación",
+            "Si cambias de hosting",
+            "Quién es el dueño"
+          ],
+          "rows": [
+            [
+              "Comprarlo en Hostinger",
+              "Vas a alojar el sitio en Hostinger y quieres dominio, DNS y renovación en el mismo panel",
+              "Precio de renovación de la tabla de Hostinger, cada año",
+              "El dominio sigue en Hostinger; apuntas el DNS al nuevo hosting o lo transfieres después",
+              "Tú, registrado a tu nombre"
+            ],
+            [
+              "Comprarlo fuera y apuntarlo",
+              "Ya tienes un dominio en otro registrador o prefieres separar las cuentas",
+              "Precio del registrador donde está",
+              "Nada cambia en el dominio; solo el apuntamiento",
+              "Tú, en el otro registrador"
+            ],
+            [
+              "Transferirlo a Hostinger",
+              "Ya tienes el dominio desde hace más de 60 días y quieres todo en un solo lugar",
+              "Precio de renovación de Hostinger a partir del año siguiente",
+              "La misma regla del primer camino",
+              "Tú; los datos de propiedad no cambian en la transferencia"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Los planes de hosting Premium y Unlimited de 12 meses o más incluyen un dominio el primer año, uno por cuenta, en extensiones seleccionadas; desde el segundo año se renueva al precio normal de la tabla. Es un ítem del plan, no un motivo para elegir el camino: lo que pesa es la renovación."
+        ]
+      },
+      {
+        "heading": "Cuánto cuesta en Hostinger",
+        "paragraphs": [
+          "Precios de la página internacional de dominios de Hostinger, en dólares, leídos el 28 de octubre de 2026 con el enlace de referido, en campaña de Black Friday; pueden variar según el país y la moneda, así que revisa la página de tu región. El precio bajo del primer año vale con un plazo de 3 años; la renovación es por año, al terminar el plazo pagado."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Extensión",
+            "Primer año",
+            "Renovación (por año)",
+            "Transferir a Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 19,99, o US$ 0,01 con plazo de 3 años",
+              "US$ 19,99",
+              "US$ 9,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La lectura es esta: el .com se renueva al mismo precio del primer año completo, US$ 19,99, sin salto en el segundo año. La misma página lista las otras extensiones (.org, .online, .shop, .store) con la renovación al lado del precio del primer año, y esa es la columna que hay que leer: en la página de Brasil, leída el mismo día, las extensiones más baratas del primer año se renovaban a más de treinta veces el precio de entrada. El precio de entrada no dice nada de lo que vas a pagar el segundo año.",
+          "Con el plazo de 3 años, los US$ 0,01 son solo del primer año; la página no muestra el total de los tres años fuera del carrito, así que revisa el importe antes de pagar. Para comparar, busca el precio de renovación en el registrador donde está hoy tu dominio: dejarlo ahí es el camino \"fuera y apuntarlo\" de la tabla de arriba.",
+          "La privacidad de los datos de contacto (RDAP, el antiguo WHOIS) viene incluida en las extensiones compatibles. Cada país tiene su propia extensión (como el .es o el .mx), administrada por su propio registro y con sus propias reglas, y el precio cambia con la moneda."
+        ]
+      },
+      {
+        "heading": "Transferir: la regla de los 60 días y el paso a paso",
+        "paragraphs": [
+          "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
+          "Las reglas, según la página de Hostinger leída el 28 de octubre de 2026:"
+        ],
+        "bullets": [
+          "**Antigüedad del registro:** en la mayoría de los casos, el dominio debe llevar registrado al menos 60 días. Un dominio nuevo en Hostinger también queda bloqueado 60 días antes de poder salir.",
+          "**Desbloqueo y código:** desbloqueas el dominio en el panel del registrador actual y obtienes el código de autorización (EPP, o código de transferencia).",
+          "**Confirmación:** después de ingresar el código en Hostinger, llega un correo del registrador para confirmar. Sin la confirmación, la transferencia no avanza.",
+          "**Plazo:** hasta siete días; más rápido si el registrador actual lo libera pronto y confirmas el correo en el momento.",
+          "**Precio:** no es gratis. En la mayoría de las extensiones genéricas (.com, .net, .org), la tarifa de transferencia ya incluye un año más de registro, sumado al plazo que ya tenías; para el .com, eran US$ 9,99 el 28 de octubre de 2026."
+        ],
+        "postParagraphs": [
+          "El paso a paso de la página es el de los dominios genéricos, como el .com. Las extensiones de país, como el .es o el .mx, tienen su propio registro y su propio procedimiento de transferencia; antes de pedir el código de una de ellas, revisa el procedimiento en el soporte de Hostinger.",
+          "Transferir fuera de Hostinger sigue la misma lógica al revés: 60 días de registro, desbloquear en el panel de Hostinger, obtener el código y confirmar en el correo. La transferencia que se completa no tiene reembolso; mira [las reglas de reembolso y renovación de Hostinger](/es/reviews/hostinger-es-confiable)."
+        ]
+      },
+      {
+        "heading": "Quién es el dueño del dominio",
+        "paragraphs": [
+          "Hostinger lo dice en las dos páginas: el dominio se registra a tu nombre, y es tuyo, no del registrador. Hostinger está acreditada por la ICANN, la entidad que coordina los dominios genéricos. Si cancelas el hosting, el dominio sigue siendo tuyo; en el caso del dominio que vino con el plan, la tarifa de registro se descuenta del reembolso, porque ya se pagó al registro.",
+          "Tres cuidados mantienen el dominio en tus manos:"
+        ],
+        "bullets": [
+          "**La cuenta:** el dominio pertenece a la cuenta de Hostinger en la que se compró. Usa un correo que controles tú, no el de un freelancer ni el de una agencia. Quien registra a nombre de otra persona depende de ella para transferirlo después.",
+          "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio vencido tumba el sitio y el correo. La renovación de dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
+          "**El reembolso del registro:** un registro nuevo solo se puede devolver dentro de 96 horas. Después, el dominio es tuyo hasta el final del plazo pagado, sin devolución."
+        ]
+      },
+      {
+        "heading": "Lista de verificación antes de pagar",
+        "bullets": [
+          "Mira la columna de la renovación, no solo el primer año. El dominio se renueva cada año mientras el sitio exista.",
+          "Con el plazo de 3 años, revisa en el carrito el total de los tres años: la página muestra solo el primero.",
+          "Si vas a transferir, revisa la fecha del registro: con menos de 60 días, la transferencia no empieza.",
+          "Compra en la cuenta que va a ser tuya, con un correo tuyo y la renovación automática activada.",
+          "Para una extensión de país, revisa su procedimiento propio de transferencia en el soporte de Hostinger antes de comprar, si la idea es irte algún día.",
+          "Si el dominio vino con el plan de hosting, anota el precio de renovación del segundo año: aparece antes de comprar.",
+          "El descuento de referido vale en el plan de hosting, y los términos no listan el dominio entre los servicios elegibles; revisa el precio del dominio en el carrito antes de pagar."
+        ]
+      },
+      {
+        "heading": "Qué camino elegir",
+        "paragraphs": [
+          "**Compra en Hostinger** si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel. El .com se renueva a US$ 19,99 por año (28 de octubre de 2026), lo mismo que el primer año completo, sin salto en el segundo año.",
+          "**Compra fuera y apunta** si ya tienes un dominio en otro registrador, si prefieres separar las cuentas o si el precio de renovación de allá es menor. Apuntar el DNS es un ajuste en el panel, y el sitio funciona igual.",
+          "**Transfiere** solo un dominio con más de 60 días de registro y solo si la renovación en Hostinger compensa lo que pagas hoy. En la mayoría de las extensiones genéricas, la tarifa de transferencia incluye un año más de registro, así que no es dinero perdido.",
+          "En la duda, no transfieras: apunta el dominio y deja el registro donde está. Se puede transferir después, y el sitio no se detiene."
+        ]
+      },
+      {
+        "heading": "Referido y precio con el enlace",
+        "paragraphs": [
+          "El enlace de referido ya aplica el descuento en el plan de hosting: no hay código que escribir. Son 20 % solo en el primer período, en planes de 12 meses o más, y el descuento no se suma a otros cupones. Los términos no listan el dominio entre los servicios elegibles; lo que vale es lo que aparezca en el carrito. La regla completa está en [cómo funciona el referido de Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuánto cuesta el dominio en Hostinger? El 28 de octubre de 2026, en el sitio internacional y en dólares, el .com costaba US$ 19,99 el primer año, o US$ 0,01 con plazo de 3 años, y se renueva a US$ 19,99 por año; la transferencia cuesta US$ 9,99. Los precios pueden variar según el país y la moneda.",
+          "¿Puedo cambiar de hosting sin perder el dominio? Sí. El dominio es tuyo y se queda en la cuenta de Hostinger; apuntas el DNS al nuevo hosting o transfieres el registro después, respetando los 60 días desde el registro.",
+          "¿Elijo .com o la extensión de mi país? El .com es genérico y vale en cualquier país; la extensión de país (como el .es o el .mx) la administra el registro de ese país, con sus propias reglas, y sirve para un sitio que habla con el público de ahí. En Hostinger, el .com se renueva a US$ 19,99 por año (28 de octubre de 2026).",
+          "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
+          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, pasados 60 días desde el registro: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el registrador nuevo. La transferencia que se completa no tiene reembolso."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "Em Casa com Cecília funciona en el hosting gestionado de Hostinger, como Node.js Web App, y el dominio emcasacomcecilia.com está registrado en Hostinger desde el 17 de noviembre de 2024 (registro público RDAP, leído el 28 de octubre de 2026). Nadie del equipo ha transferido un dominio: este texto reúne lo que dicen las páginas de dominio y de transferencia de Hostinger, leídas el 28 de octubre de 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "El código de referido ya va en el enlace: el 20 % vale en el plan de hosting, solo en el primer período, en planes de 12 meses o más, y no se suma a otros cupones. Revisa el precio del dominio en el carrito antes de pagar.",
+      "label": "Ver los planes con el enlace de referido",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "cupon-hostinger-codigo-de-referido",
+        "title": "Cupón Hostinger: no necesitas uno, y esto es lo que da el enlace de referido"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "slug": "domaine-hostinger-acheter-ou-transferer",
+    "locale": "fr",
+    "translationKey": "hostinger-dominio",
+    "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Prix, renouvellement et ce qu'il faut vérifier",
+    "seoTitle": "Domaine Hostinger : acheter, transférer ou ailleurs",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Domaine chez Hostinger : les trois voies (l'acheter là, l'acheter ailleurs et le pointer, le transférer), le prix d'enregistrement et de renouvellement du .com au 28 octobre 2026 et ce qu'il faut vérifier avant de payer.",
+    "metaDescription": "Acheter le domaine chez Hostinger, l'enregistrer ailleurs et le pointer, ou le transférer ? Le prix du .com avec le renouvellement à côté, la règle des 60 jours, qui en est propriétaire et la liste à vérifier avant de payer.",
+    "publishedAt": "28 octobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Logo Hostinger à côté de trois voies pour le domaine : l'acheter chez Hostinger, l'acheter ailleurs et le pointer, ou le transférer",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le domaine est un compte séparé de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine enregistré depuis plus de 60 jours ; les prix du 28 octobre 2026 sont ci-dessous."
+        ]
+      },
+      {
+        "heading": "Domaine et hébergement sont deux comptes",
+        "paragraphs": [
+          "Le domaine est l'adresse (le nom que les gens tapent). L'hébergement est l'ordinateur où se trouve le site. Vous payez les deux séparément, et ils n'ont pas besoin d'être chez la même entreprise : un domaine enregistré chez l'une peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+          "La décision n'est donc pas \"Hostinger ou non\". C'est où se trouve l'enregistrement du domaine, combien coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est le moins important : le domaine se renouvelle tant que le site existe."
+        ]
+      },
+      {
+        "heading": "Les trois voies",
+        "paragraphs": [
+          "Qui monte un site a trois options pour le domaine. Le schéma résume ce qui change dans chacune, d'après les pages de Hostinger consultées le 28 octobre 2026."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-fr.webp",
+          "alt": "Schéma avec trois voies pour le domaine : l'acheter avec l'hébergement (enregistré chez Hostinger), le transférer (l'enregistrement passe chez Hostinger) et le laisser ailleurs et le pointer (l'enregistrement reste où il est) ; dans les trois cas le domaine est à vous, ce qui change est qui facture le renouvellement",
+          "caption": "Les trois voies pour le domaine, d'après les pages de Hostinger consultées le 28 octobre 2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Voie",
+            "Quand c'est logique",
+            "Renouvellement",
+            "Si vous changez d'hébergement",
+            "Qui est propriétaire"
+          ],
+          "rows": [
+            [
+              "Acheter chez Hostinger",
+              "Vous allez héberger chez Hostinger et voulez domaine, DNS et renouvellement dans le même panneau",
+              "Prix de renouvellement du tableau de Hostinger, chaque année",
+              "Le domaine reste chez Hostinger ; vous pointez le DNS vers le nouvel hébergement ou le transférez plus tard",
+              "Vous, enregistré à votre nom"
+            ],
+            [
+              "Acheter ailleurs et pointer",
+              "Vous avez déjà un domaine chez un autre registrar ou préférez séparer les comptes",
+              "Prix du registrar où il se trouve",
+              "Rien ne change pour le domaine ; seul le pointage",
+              "Vous, chez l'autre registrar"
+            ],
+            [
+              "Transférer chez Hostinger",
+              "Vous avez le domaine depuis plus de 60 jours et voulez tout au même endroit",
+              "Prix de renouvellement de Hostinger à partir de l'année suivante",
+              "Même règle que la première voie",
+              "Vous ; les données de propriété ne changent pas lors du transfert"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Les forfaits d'hébergement Premium et Unlimited de 12 mois ou plus incluent un domaine la première année, un par compte, sur des extensions sélectionnées ; à partir de la deuxième année, il se renouvelle au prix normal du tableau. C'est un élément du forfait, pas une raison de choisir la voie : ce qui pèse, c'est le renouvellement."
+        ]
+      },
+      {
+        "heading": "Combien ça coûte chez Hostinger",
+        "paragraphs": [
+          "Prix de la page internationale de domaines de Hostinger, en dollars américains, consultée le 28 octobre 2026 via le lien de parrainage, pendant la campagne du Black Friday ; ils peuvent varier selon le pays et la devise, alors vérifiez la page de votre région. Le prix bas de la première année vaut avec un engagement de 3 ans ; le renouvellement est annuel, à la fin de la période payée."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Extension",
+            "Première année",
+            "Renouvellement (par an)",
+            "Transfert chez Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "19,99 US$, ou 0,01 US$ avec un engagement de 3 ans",
+              "19,99 US$",
+              "9,99 US$"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La lecture est la suivante : le .com se renouvelle au même prix que la première année pleine, 19,99 US$, sans saut la deuxième année. La même page liste les autres extensions (.org, .online, .shop, .store) avec le renouvellement à côté du prix de la première année, et c'est cette colonne qu'il faut lire : sur la page brésilienne, consultée le même jour, les extensions les moins chères la première année se renouvelaient à plus de trente fois le prix d'entrée. Le prix d'entrée ne dit rien de ce que vous paierez la deuxième année.",
+          "Avec l'engagement de 3 ans, les 0,01 US$ ne valent que pour la première année ; la page n'affiche pas le total des trois ans en dehors du panier, alors vérifiez le montant avant de payer. Pour comparer, regardez le prix de renouvellement chez le registrar où se trouve votre domaine aujourd'hui : le laisser là, c'est la voie \"ailleurs et pointer\" du tableau ci-dessus.",
+          "La confidentialité des données de contact (RDAP, l'ancien WHOIS) est incluse sur les extensions compatibles. Chaque pays a sa propre extension (comme le .fr ou le .be), gérée par son propre registre avec ses propres règles, et le prix change avec la devise."
+        ]
+      },
+      {
+        "heading": "Transférer : la règle des 60 jours et la marche à suivre",
+        "paragraphs": [
+          "Transférer, c'est déplacer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit que le site et l'e-mail continuent de fonctionner pendant le processus, et que les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous gérez le DNS.",
+          "Les règles, d'après la page de Hostinger consultée le 28 octobre 2026 :"
+        ],
+        "bullets": [
+          "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir.",
+          "**Déverrouillage et code :** vous déverrouillez le domaine dans le panneau du registrar actuel et récupérez le code d'autorisation (EPP, ou code de transfert).",
+          "**Confirmation :** après avoir saisi le code chez Hostinger, vous recevez un e-mail du registrar pour confirmer. Sans la confirmation, le transfert n'avance pas.",
+          "**Délai :** jusqu'à sept jours ; plus rapide si le registrar actuel libère vite le domaine et si vous confirmez l'e-mail tout de suite.",
+          "**Prix :** ce n'est pas gratuit. Sur la plupart des extensions génériques (.com, .net, .org), les frais de transfert incluent déjà une année d'enregistrement en plus, ajoutée à la période que vous aviez déjà ; pour le .com, c'était 9,99 US$ le 28 octobre 2026."
+        ],
+        "postParagraphs": [
+          "La marche à suivre de la page est celle des domaines génériques, comme le .com. Les extensions de pays, comme le .fr ou le .be, ont leur propre registre et leur propre procédure de transfert ; avant de demander le code de l'une d'elles, vérifiez la procédure dans le support de Hostinger.",
+          "Transférer hors de Hostinger suit la même logique à l'envers : 60 jours d'enregistrement, déverrouiller dans le panneau de Hostinger, récupérer le code et confirmer par e-mail. Un transfert abouti n'est pas remboursé ; voyez [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
+        ]
+      },
+      {
+        "heading": "Qui est propriétaire du domaine",
+        "paragraphs": [
+          "Hostinger le dit sur les deux pages : le domaine est enregistré à votre nom, et il est à vous, pas au registrar. Hostinger est accrédité par l'ICANN, l'organisme qui coordonne les domaines génériques. Si vous annulez l'hébergement, le domaine reste à vous ; pour le domaine venu avec le forfait, les frais d'enregistrement sont déduits du remboursement, parce qu'ils ont déjà été payés au registre.",
+          "Trois précautions gardent le domaine entre vos mains :"
+        ],
+        "bullets": [
+          "**Le compte :** le domaine appartient au compte Hostinger dans lequel il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom de quelqu'un d'autre dépend de cette personne pour le transférer ensuite.",
+          "**Le renouvellement :** Hostinger recommande de laisser le renouvellement automatique activé. Un domaine expiré fait tomber le site et l'e-mail. Le renouvellement de domaine n'est pas remboursé, alors la carte du compte doit être à jour.",
+          "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que sous 96 heures. Ensuite, le domaine est à vous jusqu'à la fin de la période payée, sans remboursement."
+        ]
+      },
+      {
+        "heading": "Liste à vérifier avant de payer",
+        "bullets": [
+          "Regardez la colonne du renouvellement, pas seulement la première année. Le domaine se renouvelle chaque année tant que le site existe.",
+          "Avec l'engagement de 3 ans, vérifiez dans le panier le total des trois ans : la page n'affiche que la première.",
+          "Si vous allez transférer, vérifiez la date d'enregistrement : à moins de 60 jours, le transfert ne démarre pas.",
+          "Achetez dans le compte qui sera le vôtre, avec un e-mail à vous et le renouvellement automatique activé.",
+          "Pour une extension de pays, vérifiez sa procédure de transfert propre dans le support de Hostinger avant d'acheter, si l'idée est de partir un jour.",
+          "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
+          "La réduction de parrainage vaut sur le forfait d'hébergement, et les conditions ne listent pas le domaine parmi les services éligibles ; vérifiez le prix du domaine dans le panier avant de payer."
+        ]
+      },
+      {
+        "heading": "Quelle voie choisir",
+        "paragraphs": [
+          "**Achetez chez Hostinger** si le site y sera hébergé et que vous voulez domaine, DNS et renouvellement dans le même panneau. Le .com se renouvelle à 19,99 US$ par an (28 octobre 2026), le même prix que la première année pleine, sans saut la deuxième année.",
+          "**Achetez ailleurs et pointez** si vous avez déjà un domaine chez un autre registrar, si vous préférez séparer les comptes, ou si le prix de renouvellement là-bas est plus bas. Pointer le DNS est un réglage dans le panneau, et le site fonctionne de la même façon.",
+          "**Transférez** seulement un domaine enregistré depuis plus de 60 jours, et seulement si le renouvellement chez Hostinger bat ce que vous payez aujourd'hui. Sur la plupart des extensions génériques, les frais de transfert incluent une année d'enregistrement en plus, donc ce n'est pas de l'argent perdu.",
+          "Dans le doute, ne transférez pas : pointez le domaine et laissez l'enregistrement où il est. Vous pourrez transférer plus tard, et le site ne s'arrête pas."
+        ]
+      },
+      {
+        "heading": "Parrainage et prix avec le lien",
+        "paragraphs": [
+          "Le lien de parrainage applique de lui-même la réduction sur le forfait d'hébergement : il n'y a aucun code à saisir. Ce sont 20 % sur la première période seulement, sur des forfaits de 12 mois ou plus, et la réduction ne se cumule pas avec d'autres codes promo. Les conditions ne listent pas le domaine parmi les services éligibles ; ce qui compte, c'est ce qui s'affiche dans le panier. La règle complète est dans [comment fonctionne le parrainage Hostinger](/fr/reviews/code-promo-hostinger-parrainage), et les forfaits, sur [la page Hostinger](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Combien coûte un domaine chez Hostinger ? Le 28 octobre 2026, sur le site international et en dollars, le .com coûtait 19,99 US$ la première année, ou 0,01 US$ avec un engagement de 3 ans, et se renouvelle à 19,99 US$ par an ; le transfert coûte 9,99 US$. Les prix peuvent varier selon le pays et la devise.",
+          "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
+          "Je prends un .com ou l'extension de mon pays ? Le .com est générique et vaut dans n'importe quel pays ; l'extension de pays (comme le .fr ou le .be) est gérée par le registre de ce pays, avec ses propres règles, et convient à un site qui s'adresse au public de là-bas. Chez Hostinger, le .com se renouvelle à 19,99 US$ par an (28 octobre 2026).",
+          "Faut-il un domaine pour avoir un e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine seulement pour l'e-mail ou pour rediriger vers un autre site.",
+          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, 60 jours après l'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine emcasacomcecilia.com est enregistré chez Hostinger depuis le 17 novembre 2024 (enregistrement public RDAP, consulté le 28 octobre 2026). Personne dans l'équipe n'a transféré de domaine : ce texte réunit ce que disent les pages de domaine et de transfert de Hostinger, consultées le 28 octobre 2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Le code de parrainage est déjà dans le lien : les 20 % valent sur le forfait d'hébergement, pour la première période seulement, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo. Vérifiez le prix du domaine dans le panier avant de payer.",
+      "label": "Voir les forfaits avec le lien de parrainage",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "code-promo-hostinger-parrainage",
+        "title": "Code promo Hostinger : inutile, voici ce que donne le lien de parrainage"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "slug": "dominio-hostinger-comprare-o-trasferire",
+    "locale": "it",
+    "translationKey": "hostinger-dominio",
+    "hideFromPortugueseListings": true,
+    "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Prezzo, rinnovo e cosa controllare",
+    "seoTitle": "Dominio su Hostinger: comprare, trasferire o altrove",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Dominio su Hostinger: le tre strade (comprarlo lì, comprarlo altrove e puntarlo, trasferirlo), il prezzo di registrazione e di rinnovo del .com in dollari il 28/10/2026 e cosa controllare prima di pagare.",
+    "metaDescription": "Comprare il dominio su Hostinger, registrarlo altrove e puntarlo, o trasferirlo? Prezzo del .com con il rinnovo accanto, regola dei 60 giorni, di chi è il dominio e la checklist prima di pagare.",
+    "publishedAt": "28 ottobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Logo di Hostinger accanto a tre strade per il dominio: comprarlo su Hostinger, comprarlo altrove e puntarlo, o trasferirlo",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Il dominio è un account separato dall'hosting: può stare su Hostinger o presso un altro registrar, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di andartene, non al primo anno. Compralo su Hostinger se vuoi tutto in un unico pannello, e trasferisci solo un dominio registrato da più di 60 giorni; i prezzi in dollari del 28/10/2026 sono qui sotto."
+        ]
+      },
+      {
+        "heading": "Dominio e hosting sono due account",
+        "paragraphs": [
+          "Il dominio è l'indirizzo (il nome che le persone digitano). L'hosting è il computer su cui sta il sito. Li paghi separatamente, e non devono stare nella stessa azienda: un dominio registrato presso una società può puntare all'hosting di un'altra. La stessa pagina di Hostinger dice che un dominio registrato lì si può puntare a un altro provider di hosting.",
+          "Per questo la decisione non è «Hostinger sì o no». È dove sta la registrazione del dominio, quanto costa rinnovarla ogni anno e cosa succede se un giorno cambi hosting. Il primo anno a poco prezzo è la cosa meno importante: il dominio si rinnova finché il sito esiste."
+        ]
+      },
+      {
+        "heading": "Le tre strade",
+        "paragraphs": [
+          "Chi mette su un sito ha tre opzioni per il dominio. Il quadro riassume cosa cambia in ciascuna, dalle pagine di Hostinger lette il 28/10/2026."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-it.webp",
+          "alt": "Quadro con tre strade per il dominio: comprarlo con l'hosting (registrazione su Hostinger), trasferirlo (la registrazione passa a Hostinger) e lasciarlo fuori e puntarlo (la registrazione resta dov'è); in tutti e tre il dominio è tuo, cambia solo chi incassa il rinnovo",
+          "caption": "Le tre strade per il dominio, dalle pagine di Hostinger lette il 28/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Strada",
+            "Quando ha senso",
+            "Rinnovo",
+            "Se cambi hosting",
+            "Di chi è"
+          ],
+          "rows": [
+            [
+              "Comprare su Hostinger",
+              "Ospiterai il sito su Hostinger e vuoi dominio, DNS e rinnovo nello stesso pannello",
+              "Prezzo di rinnovo del listino di Hostinger, ogni anno",
+              "Il dominio resta su Hostinger; punti il DNS al nuovo hosting o lo trasferisci più avanti",
+              "Tuo, registrato a tuo nome"
+            ],
+            [
+              "Comprare altrove e puntare",
+              "Hai già un dominio presso un altro registrar o preferisci tenere separati gli account",
+              "Prezzo del registrar dove si trova",
+              "Nel dominio non cambia nulla; cambia solo il puntamento",
+              "Tuo, presso l'altro registrar"
+            ],
+            [
+              "Trasferire su Hostinger",
+              "Hai il dominio da più di 60 giorni e vuoi tutto in un posto solo",
+              "Prezzo di rinnovo di Hostinger dall'anno successivo",
+              "Stessa regola della prima strada",
+              "Tuo; i dati di proprietà non cambiano con il trasferimento"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "I piani di hosting Premium e Unlimited da 12 mesi in su includono un dominio per il primo anno, uno per account, in estensioni selezionate; dal secondo anno si rinnova al prezzo normale del listino. È una voce del piano, non un motivo per scegliere la strada: quello che pesa è il rinnovo."
+        ]
+      },
+      {
+        "heading": "Quanto costa su Hostinger",
+        "paragraphs": [
+          "Prezzi del sito internazionale di Hostinger in dollari USA, letti il 28/10/2026 entrando dal link di invito, durante la campagna del Black Friday; possono variare in base al paese e alla valuta. Il prezzo basso del primo anno vale con durata di 3 anni; il rinnovo è annuale, dalla fine del periodo pagato."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Estensione",
+            "Primo anno",
+            "Rinnovo (all'anno)",
+            "Trasferire su Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "19,99 USD, oppure 0,01 USD con durata di 3 anni",
+              "19,99 USD",
+              "9,99 USD"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La lettura è questa: il .com si rinnova allo stesso prezzo del primo anno pieno, 19,99 USD, senza salto al secondo anno. Le estensioni vendute a pochi dollari il primo anno, invece, possono rinnovarsi a molto di più: il prezzo d'ingresso non dice nulla su quanto pagherai il secondo anno. Guarda sempre la colonna del rinnovo, che la pagina mostra accanto al primo anno per ogni estensione.",
+          "Con la durata di 3 anni, lo 0,01 USD è solo del primo anno; la pagina non mostra il totale dei tre anni fuori dal carrello, quindi controlla l'importo prima di pagare. Se hai già un dominio presso un altro registrar, confronta il rinnovo di lì con questo: tenerlo dov'è e puntarlo è la strada «fuori e puntare» della tabella sopra.",
+          "La privacy dei dati di contatto (RDAP, l'ex WHOIS) è inclusa nelle estensioni compatibili. Le estensioni nazionali, come il .it, hanno prezzo e regole proprie: cercale sulla stessa pagina prima di decidere. Il .com è l'estensione generica, valida in qualsiasi paese."
+        ]
+      },
+      {
+        "heading": "Trasferire: la regola dei 60 giorni e i passaggi",
+        "paragraphs": [
+          "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sito ed e-mail continuano a funzionare durante il processo, e che i dati di proprietà non cambiano. Cambia chi incassa il rinnovo e dove gestisci il DNS.",
+          "Le regole, dalla pagina di Hostinger letta il 28/10/2026:"
+        ],
+        "bullets": [
+          "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio appena registrato su Hostinger resta bloccato per 60 giorni prima di poter uscire.",
+          "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
+          "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
+          "**Tempi:** fino a sette giorni; più in fretta se il registrar attuale rilascia subito e tu confermi l'e-mail al volo.",
+          "**Prezzo:** non è gratis. Nella maggior parte delle estensioni generiche (.com, .net, .org), la tassa di trasferimento include già un anno in più di registrazione, che si somma al periodo che avevi."
+        ],
+        "postParagraphs": [
+          "I passaggi della pagina sono quelli dei domini generici, come il .com. Le estensioni nazionali, come il .it, dipendono dal registro del paese e possono avere una procedura diversa; prima di chiedere il codice, verifica il percorso con l'assistenza di Hostinger.",
+          "Trasferire fuori da Hostinger segue la stessa logica al contrario: 60 giorni di registrazione, sblocco nel pannello di Hostinger, codice e conferma via e-mail. Il trasferimento andato a buon fine non è rimborsabile; vedi [le regole di rimborso e rinnovo di Hostinger](/it/reviews/hostinger-e-affidabile)."
+        ]
+      },
+      {
+        "heading": "Di chi è il dominio",
+        "paragraphs": [
+          "Hostinger lo dice in entrambe le pagine: il dominio è registrato a tuo nome ed è tuo, non del registrar. L'azienda è accreditata ICANN, l'ente che coordina i domini generici. Se disdici l'hosting, il dominio resta tuo; nel caso del dominio arrivato con il piano, la tassa di registrazione viene detratta dal rimborso, perché è già stata pagata al registro.",
+          "Tre accortezze tengono il dominio tuo:"
+        ],
+        "bullets": [
+          "**L'account:** il dominio appartiene all'account Hostinger con cui è stato comprato. Usa un'e-mail che controlli tu, non quella di un freelance o di un'agenzia. Chi registra a nome di un'altra persona dipende da lei per trasferirlo dopo.",
+          "**Il rinnovo:** Hostinger consiglia di lasciare attivo il rinnovo automatico. Un dominio scaduto butta giù sito ed e-mail. Il rinnovo del dominio non è rimborsabile, quindi la carta dell'account deve essere valida.",
+          "**Il rimborso della registrazione:** una registrazione nuova si può restituire solo entro 96 ore; alcune estensioni hanno finestre diverse, elencate nella politica di rimborso. Dopo, il dominio è tuo fino alla fine del periodo pagato, senza restituzione."
+        ]
+      },
+      {
+        "heading": "Checklist prima di pagare",
+        "bullets": [
+          "Guarda la colonna del rinnovo, non solo il primo anno. Il dominio si rinnova ogni anno finché il sito esiste.",
+          "Con la durata di 3 anni, controlla nel carrello il totale dei tre anni: la pagina mostra solo il primo.",
+          "Se vuoi trasferire, controlla la data di registrazione: sotto i 60 giorni, il trasferimento non parte.",
+          "Compra con l'account che sarà tuo, con una tua e-mail e il rinnovo automatico attivo.",
+          "Per un'estensione nazionale, come il .it, verifica con l'assistenza di Hostinger la procedura di trasferimento prima di comprare, se l'idea è andartene un giorno.",
+          "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
+          "Lo sconto del link di invito vale sul piano di hosting, e i termini non elencano il dominio tra i servizi ammessi; controlla il prezzo del dominio nel carrello prima di pagare."
+        ]
+      },
+      {
+        "heading": "Quale strada scegliere",
+        "paragraphs": [
+          "**Compra su Hostinger** se il sito starà lì e vuoi dominio, DNS e rinnovo nello stesso pannello. Il .com si rinnova a 19,99 USD all'anno (28/10/2026), lo stesso prezzo del primo anno pieno, senza salto al secondo anno.",
+          "**Compra altrove e punta** se hai già un dominio presso un altro registrar, se preferisci tenere separati gli account, o se il prezzo di rinnovo lì è più basso. Puntare il DNS è una modifica nel pannello, e il sito funziona allo stesso modo.",
+          "**Trasferisci** solo un dominio registrato da più di 60 giorni e solo se il rinnovo su Hostinger conviene rispetto a quello che paghi oggi. Nella maggior parte delle estensioni generiche la tassa di trasferimento include un anno in più di registrazione, quindi non sono soldi persi.",
+          "Nel dubbio, non trasferire: punta il dominio e lascia la registrazione dov'è. Si può trasferire più avanti, e il sito non si ferma."
+        ]
+      },
+      {
+        "heading": "Link di invito e prezzo",
+        "paragraphs": [
+          "Il link di invito applica già lo sconto sul piano di hosting: non c'è nessun codice da digitare. È il 20% solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon. I termini non elencano il dominio tra i servizi ammessi; vale quello che compare nel carrello. La regola completa è in [come funziona il link di invito di Hostinger](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Quanto costa il dominio su Hostinger? Il 28/10/2026, sul sito internazionale in dollari, il .com costa 19,99 USD il primo anno, oppure 0,01 USD con durata di 3 anni, e si rinnova a 19,99 USD all'anno; il trasferimento costa 9,99 USD. I prezzi possono variare in base al paese e alla valuta.",
+          "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione più avanti, passati i 60 giorni dalla registrazione.",
+          "Dominio .com o .it? Il .com è generico e vale in qualsiasi paese; il .it è l'estensione nazionale, adatta a chi parla al pubblico italiano, con prezzo e regole proprie. Su Hostinger il .com si rinnova a 19,99 USD all'anno (28/10/2026); per il .it, cercalo nella pagina dei domini.",
+          "Serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che il dominio si può usare solo per l'e-mail o per reindirizzare a un altro sito.",
+          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, passati 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio emcasacomcecilia.com è registrato su Hostinger dal 17/11/2024 (registro pubblico RDAP, letto il 28/10/2026). Nessuno del team ha trasferito un dominio: questo testo riunisce ciò che dicono le pagine di Hostinger sui domini e sul trasferimento, lette il 28/10/2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Il codice di invito è già nel link: il 20% vale sul piano di hosting, solo sul primo periodo, su piani di 12 mesi o più, e non si somma ad altri coupon. Controlla il dominio nel carrello prima di pagare.",
+      "label": "Vedi i piani con il link di invito",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "coupon-hostinger-codice-invito",
+        "title": "Coupon Hostinger: non serve, ecco cosa dà il link di invito"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "slug": "hostinger-domain-kaufen-oder-umziehen",
+    "locale": "de",
+    "translationKey": "hostinger-dominio",
+    "hideFromPortugueseListings": true,
+    "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Preis, Verlängerung und was Sie prüfen sollten",
+    "seoTitle": "Domain bei Hostinger: kaufen, umziehen oder extern",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Domain bei Hostinger: die drei Wege (dort kaufen, extern kaufen und verweisen, umziehen), der Preis für Registrierung und Verlängerung der .com in Dollar am 28.10.2026 und was Sie vor dem Bezahlen prüfen sollten.",
+    "metaDescription": "Domain bei Hostinger kaufen, extern registrieren und verweisen oder umziehen? Preis der .com mit der Verlängerung daneben, 60-Tage-Regel, wem die Domain gehört und die Checkliste vor dem Bezahlen.",
+    "publishedAt": "28. Oktober 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostinger-Logo neben drei Wegen für die Domain: bei Hostinger kaufen, extern kaufen und verweisen, oder umziehen",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Die Domain ist ein eigener Vertrag, getrennt vom Hosting: Sie kann bei Hostinger oder bei einem anderen Registrar liegen, und die Website funktioniert in beiden Fällen. Entscheiden Sie nach dem Verlängerungspreis und danach, wie leicht Sie wieder wegkommen, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger, wenn Sie alles in einem Panel wollen, und ziehen Sie nur eine Domain um, die älter als 60 Tage ist; die Dollarpreise vom 28.10.2026 stehen unten."
+        ]
+      },
+      {
+        "heading": "Domain und Hosting sind zwei Verträge",
+        "paragraphs": [
+          "Die Domain ist die Adresse (der Name, den jemand eintippt). Das Hosting ist der Computer, auf dem die Website liegt. Sie zahlen beides getrennt, und beides muss nicht beim selben Unternehmen sein: Eine bei einer Firma registrierte Domain kann auf das Hosting einer anderen verweisen. Hostingers eigene Seite sagt, dass sich eine dort registrierte Domain auf einen anderen Hosting-Anbieter richten lässt.",
+          "Deshalb lautet die Frage nicht „Hostinger oder nicht“. Sie lautet: Wo liegt die Registrierung der Domain, was kostet die Verlängerung jedes Jahr, und was passiert, wenn Sie eines Tages das Hosting wechseln? Das günstige erste Jahr ist am wenigsten wichtig: Die Domain verlängert sich, solange die Website existiert."
+        ]
+      },
+      {
+        "heading": "Die drei Wege",
+        "paragraphs": [
+          "Wer eine Website aufsetzt, hat drei Möglichkeiten für die Domain. Die Übersicht fasst zusammen, was sich bei jeder ändert, nach den am 28.10.2026 gelesenen Seiten von Hostinger."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+          "alt": "Übersicht mit drei Wegen für die Domain: mit dem Hosting kaufen (Registrierung bei Hostinger), umziehen (die Registrierung wechselt zu Hostinger) und extern lassen und verweisen (die Registrierung bleibt, wo sie ist); in allen drei Fällen gehört die Domain Ihnen, nur wer die Verlängerung abrechnet, ändert sich",
+          "caption": "Die drei Wege für die Domain, nach den am 28.10.2026 gelesenen Seiten von Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "Weg",
+            "Wann er sinnvoll ist",
+            "Verlängerung",
+            "Bei einem Hosting-Wechsel",
+            "Wem sie gehört"
+          ],
+          "rows": [
+            [
+              "Bei Hostinger kaufen",
+              "Sie hosten bei Hostinger und wollen Domain, DNS und Verlängerung im selben Panel",
+              "Verlängerungspreis aus der Preisliste von Hostinger, jedes Jahr",
+              "Die Domain bleibt bei Hostinger; Sie richten den DNS auf das neue Hosting oder ziehen später um",
+              "Ihnen, auf Ihren Namen registriert"
+            ],
+            [
+              "Extern kaufen und verweisen",
+              "Sie haben schon eine Domain bei einem anderen Registrar oder wollen die Verträge trennen",
+              "Preis des Registrars, bei dem sie liegt",
+              "An der Domain ändert sich nichts; nur die Weiterleitung",
+              "Ihnen, beim anderen Registrar"
+            ],
+            [
+              "Zu Hostinger umziehen",
+              "Sie haben die Domain seit mehr als 60 Tagen und wollen alles an einem Ort",
+              "Verlängerungspreis von Hostinger ab dem Folgejahr",
+              "Dieselbe Regel wie beim ersten Weg",
+              "Ihnen; die Inhaberdaten ändern sich beim Transfer nicht"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Hosting-Tarife Premium und Unlimited ab 12 Monaten bringen im ersten Jahr eine Domain mit, eine pro Konto, in ausgewählten Endungen; ab dem zweiten Jahr verlängert sie sich zum normalen Listenpreis. Das ist ein Bestandteil des Tarifs, kein Grund für die Wahl des Weges: Was zählt, ist die Verlängerung."
+        ]
+      },
+      {
+        "heading": "Was es bei Hostinger kostet",
+        "paragraphs": [
+          "Preise der internationalen Hostinger-Website in US-Dollar, am 28.10.2026 über den Empfehlungslink gelesen, während der Black-Friday-Aktion; je nach Land und Währung können sie abweichen. Der niedrige Preis des ersten Jahres gilt bei einer Laufzeit von 3 Jahren; die Verlängerung wird jährlich fällig, ab dem Ende der bezahlten Laufzeit."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Endung",
+            "Erstes Jahr",
+            "Verlängerung (pro Jahr)",
+            "Zu Hostinger umziehen"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "19,99 USD, oder 0,01 USD bei 3 Jahren Laufzeit",
+              "19,99 USD",
+              "9,99 USD"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Lesart ist diese: Die .com verlängert sich zum Preis des ersten vollen Jahres, 19,99 USD, ohne Sprung im zweiten Jahr. Endungen, die im ersten Jahr für ein paar Dollar angeboten werden, können sich dagegen zu einem Vielfachen verlängern: Der Einstiegspreis sagt nichts darüber, was Sie im zweiten Jahr zahlen. Schauen Sie immer auf die Spalte der Verlängerung, die die Seite bei jeder Endung neben dem ersten Jahr zeigt.",
+          "Bei 3 Jahren Laufzeit gilt der 0,01 USD nur für das erste Jahr; die Seite zeigt die Summe der drei Jahre außerhalb des Warenkorbs nicht, prüfen Sie den Betrag also vor dem Bezahlen. Wenn Sie schon eine Domain bei einem anderen Registrar haben, vergleichen Sie dessen Verlängerung mit dieser: Sie dort zu lassen und zu verweisen ist der Weg „extern und verweisen“ aus der Tabelle oben.",
+          "Der Schutz der Kontaktdaten (RDAP, früher WHOIS) ist bei den kompatiblen Endungen inbegriffen. Länderendungen wie die .de haben eigene Preise und Regeln: Suchen Sie sie auf derselben Seite, bevor Sie sich entscheiden. Die .com ist die generische Endung, die in jedem Land gilt."
+        ]
+      },
+      {
+        "heading": "Transfer: die 60-Tage-Regel und die Schritte",
+        "paragraphs": [
+          "Ein Transfer verlegt die Registrierung der Domain von einem Unternehmen zu einem anderen. Die Transferseite von Hostinger sagt, dass Website und E-Mail während des Vorgangs weiterlaufen und dass sich die Inhaberdaten nicht ändern. Was sich ändert: wer die Verlängerung abrechnet und wo Sie den DNS pflegen.",
+          "Die Regeln, nach der am 28.10.2026 gelesenen Seite von Hostinger:"
+        ],
+        "bullets": [
+          "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann.",
+          "**Entsperren und Code:** Sie entsperren die Domain im Panel des aktuellen Registrars und holen den Autorisierungscode (EPP- oder Auth-Code).",
+          "**Bestätigung:** Nachdem Sie den Code bei Hostinger eingegeben haben, kommt eine E-Mail des Registrars zur Bestätigung. Ohne sie geht der Transfer nicht weiter.",
+          "**Dauer:** bis zu sieben Tage; schneller, wenn der aktuelle Registrar sofort freigibt und Sie die E-Mail gleich bestätigen.",
+          "**Preis:** Er ist nicht kostenlos. Bei den meisten generischen Endungen (.com, .net, .org) enthält die Transfergebühr bereits ein weiteres Jahr Registrierung, das zu Ihrer bisherigen Laufzeit hinzukommt."
+        ],
+        "postParagraphs": [
+          "Die Schritte auf der Seite gelten für generische Domains wie die .com. Länderendungen wie die .de hängen von der Registrierungsstelle des Landes ab und können ein anderes Verfahren haben; klären Sie den Weg mit dem Support von Hostinger, bevor Sie den Code anfordern.",
+          "Der Umzug weg von Hostinger folgt derselben Logik in umgekehrter Richtung: 60 Tage Registrierung, Entsperren im Hostinger-Panel, Code holen und per E-Mail bestätigen. Ein erfolgreicher Transfer wird nicht erstattet; siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
+        ]
+      },
+      {
+        "heading": "Wem die Domain gehört",
+        "paragraphs": [
+          "Hostinger sagt es auf beiden Seiten: Die Domain wird auf Ihren Namen registriert und gehört Ihnen, nicht dem Registrar. Das Unternehmen ist von der ICANN akkreditiert, der Organisation, die die generischen Domains koordiniert. Wenn Sie das Hosting kündigen, bleibt die Domain Ihre; bei der Domain aus dem Tarif wird die Registrierungsgebühr von der Erstattung abgezogen, weil sie bereits an die Registrierungsstelle gezahlt wurde.",
+          "Drei Vorkehrungen halten die Domain bei Ihnen:"
+        ],
+        "bullets": [
+          "**Das Konto:** Die Domain gehört zu dem Hostinger-Konto, mit dem sie gekauft wurde. Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren, nicht die eines Freelancers oder einer Agentur. Wer auf den Namen einer anderen Person registriert, hängt später beim Transfer von ihr ab.",
+          "**Die Verlängerung:** Hostinger empfiehlt, die automatische Verlängerung eingeschaltet zu lassen. Eine abgelaufene Domain legt Website und E-Mail lahm. Die Domain-Verlängerung wird nicht erstattet, also muss die Karte im Konto gültig sein.",
+          "**Die Erstattung der Registrierung:** Eine neue Registrierung lässt sich nur innerhalb von 96 Stunden zurückgeben; einige Endungen haben andere Fristen, die in der Erstattungsrichtlinie stehen. Danach gehört die Domain Ihnen bis zum Ende der bezahlten Laufzeit, ohne Rückgabe."
+        ]
+      },
+      {
+        "heading": "Checkliste vor dem Bezahlen",
+        "bullets": [
+          "Schauen Sie auf die Spalte der Verlängerung, nicht nur auf das erste Jahr. Die Domain verlängert sich jedes Jahr, solange die Website existiert.",
+          "Bei 3 Jahren Laufzeit prüfen Sie im Warenkorb die Summe der drei Jahre: Die Seite zeigt nur das erste.",
+          "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum: Unter 60 Tagen startet der Transfer nicht.",
+          "Kaufen Sie mit dem Konto, das Ihnen gehören wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
+          "Bei einer Länderendung wie der .de klären Sie das Transferverfahren mit dem Support von Hostinger, bevor Sie kaufen, falls Sie eines Tages wegziehen wollen.",
+          "Kam die Domain mit dem Hosting-Tarif, notieren Sie den Verlängerungspreis des zweiten Jahres: Er wird vor dem Kauf angezeigt.",
+          "Der Empfehlungsrabatt gilt für den Hosting-Tarif, und die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; prüfen Sie den Domainpreis im Warenkorb, bevor Sie zahlen."
+        ]
+      },
+      {
+        "heading": "Welchen Weg wählen",
+        "paragraphs": [
+          "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen. Die .com verlängert sich zu 19,99 USD pro Jahr (28.10.2026), zum Preis des ersten vollen Jahres, ohne Sprung im zweiten Jahr.",
+          "**Kaufen Sie extern und verweisen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Verträge lieber trennen oder dort weniger für die Verlängerung zahlen. Den DNS zu richten ist eine Einstellung im Panel, und die Website läuft genauso.",
+          "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und sich die Verlängerung bei Hostinger gegenüber dem lohnt, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Transfergebühr ein weiteres Jahr Registrierung, sie ist also kein verlorenes Geld.",
+          "Im Zweifel ziehen Sie nicht um: Richten Sie die Domain auf das Hosting und lassen Sie die Registrierung, wo sie ist. Umziehen geht auch später, und die Website steht nicht still."
+        ]
+      },
+      {
+        "heading": "Empfehlungslink und Preis",
+        "paragraphs": [
+          "Der Empfehlungslink wendet den Rabatt auf den Hosting-Tarif bereits an: Sie müssen keinen Code eingeben. Es sind 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich nicht mit anderen Rabattcodes kombinieren. Die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; es gilt, was im Warenkorb erscheint. Die vollständige Regel steht in [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Was kostet die Domain bei Hostinger? Am 28.10.2026 kostet die .com auf der internationalen Website in Dollar 19,99 USD im ersten Jahr, oder 0,01 USD bei 3 Jahren Laufzeit, und verlängert sich zu 19,99 USD pro Jahr; der Transfer kostet 9,99 USD. Je nach Land und Währung können die Preise abweichen.",
+          "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie richten den DNS auf das neue Hosting oder ziehen die Registrierung später um, nach Ablauf der 60 Tage seit der Registrierung.",
+          "Domain .com oder .de? Die .com ist generisch und gilt in jedem Land; die .de ist die deutsche Länderendung für ein Publikum in Deutschland, mit eigenen Preisen und Regeln. Bei Hostinger verlängert sich die .com zu 19,99 USD pro Jahr (28.10.2026); die .de suchen Sie auf der Domainseite.",
+          "Brauche ich eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; das Hosting ist nicht Pflicht, und Hostinger sagt, dass sich die Domain nur für E-Mail oder für eine Weiterleitung auf eine andere Website nutzen lässt.",
+          "Lässt sich die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, 60 Tage nach der Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein erfolgreicher Transfer wird nicht erstattet."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, als Node.js Web App, und die Domain emcasacomcecilia.com ist seit dem 17.11.2024 bei Hostinger registriert (öffentlicher RDAP-Eintrag, gelesen am 28.10.2026). Niemand aus dem Team hat eine Domain umgezogen: Dieser Text fasst zusammen, was die Domain- und Transferseiten von Hostinger sagen, gelesen am 28.10.2026."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten für den Hosting-Tarif, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+      "label": "Die Tarife mit Empfehlungslink ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie.",
+    "relatedArticles": [
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-gutschein-empfehlungscode",
+        "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "slug": "hostinger-domain-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-dominio",
+    "hideFromPortugueseListings": true,
+    "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 料金、更新料、確認すべきこと",
+    "seoTitle": "Hostingerのドメイン：購入、移管、別の場所で登録",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostingerのドメイン：3つの道（Hostingerで買う、別の場所で買ってDNSを向ける、移管する）、2026年10月28日の.comの登録料と更新料（米ドル）、支払う前に確認すること。",
+    "metaDescription": "ドメインはHostingerで買うか、別の場所で登録してDNSを向けるか、移管するか。.comの料金と更新料、60日ルール、ドメインの所有者、支払う前のチェックリスト。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostingerのロゴと、ドメインの3つの道：Hostingerで買う、別の場所で買ってDNSを向ける、移管する",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は更新料と、やめやすさで、初年度の価格ではありません。すべてを1つの管理画面にまとめたいならHostingerで買い、移管するのは登録から60日を超えたドメインだけにしてください。2026年10月28日の米ドル建て料金は下にあります。"
+        ]
+      },
+      {
+        "heading": "ドメインとホスティングは別々の契約",
+        "paragraphs": [
+          "ドメインは住所（人が入力する名前）です。ホスティングはサイトが置かれるコンピューターです。支払いは別々で、同じ会社である必要もありません。ある会社で登録したドメインを、別の会社のホスティングに向けることができます。Hostingerのページ自体が、Hostingerで登録したドメインを他のホスティング会社に向けられると書いています。",
+          "だから決めるべきことは「Hostingerかどうか」ではありません。ドメインの登録をどこに置くか、毎年の更新にいくらかかるか、いつかホスティングを変えたらどうなるか、です。安い初年度はいちばん重要度が低い点です。ドメインはサイトがある限り更新が続きます。"
+        ]
+      },
+      {
+        "heading": "3つの道",
+        "paragraphs": [
+          "サイトを作る人には、ドメインについて3つの選択肢があります。2026年10月28日に読んだHostingerのページをもとに、それぞれで何が変わるかを図にまとめました。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ja.webp",
+          "alt": "ドメインの3つの道を示した図：ホスティングと一緒に購入（登録先はHostinger）、移管（登録先がHostingerに移る）、外に置いてDNSで向ける（登録先はそのまま）。3つともドメインはあなたのもので、変わるのは更新料をどこに払うかだけ",
+          "caption": "ドメインの3つの道。2026年10月28日に読んだHostingerのページより。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "道",
+            "向いている場合",
+            "更新",
+            "ホスティングを変えたら",
+            "所有者"
+          ],
+          "rows": [
+            [
+              "Hostingerで買う",
+              "Hostingerでホスティングし、ドメイン・DNS・更新を同じ管理画面で扱いたい",
+              "Hostingerの料金表の更新料を毎年",
+              "ドメインはHostingerに残る。DNSを新しいホスティングに向けるか、あとで移管する",
+              "あなた。あなたの名前で登録"
+            ],
+            [
+              "別の場所で買ってDNSを向ける",
+              "すでに別のレジストラにドメインがある、または契約を分けておきたい",
+              "そのレジストラの料金",
+              "ドメインは何も変わらない。DNSの向き先だけ",
+              "あなた。別のレジストラにて"
+            ],
+            [
+              "Hostingerに移管する",
+              "登録から60日を超えたドメインがあり、1か所にまとめたい",
+              "翌年からHostingerの更新料",
+              "1つ目の道と同じ",
+              "あなた。移管で所有者情報は変わらない"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "12か月以上のPremiumとUnlimitedのホスティングプランには、初年度のドメインが1アカウントにつき1つ、対象の拡張子で付いてきます。2年目からは料金表の通常価格で更新されます。これはプランの一項目であって、道を選ぶ理由ではありません。重いのは更新料です。"
+        ]
+      },
+      {
+        "heading": "Hostingerでの料金",
+        "paragraphs": [
+          "Hostingerの国際サイトの米ドル建て料金で、2026年10月28日に紹介リンクから入って読んだもの、ブラックフライデーのキャンペーン中です。国や通貨によって変わることがあります。初年度の安い価格は3年契約の場合で、更新は支払い済みの期間が終わってから毎年です。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "拡張子",
+            "初年度",
+            "更新（年額）",
+            "Hostingerへの移管"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 19.99、または3年契約でUS$ 0.01",
+              "US$ 19.99",
+              "US$ 9.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "読み方はこうです。.comは、初年度の通常価格と同じUS$ 19.99で更新され、2年目の値上がりはありません。一方、初年度が数ドルで売られている拡張子は、その何倍もの価格で更新されることがあります。入口の価格は、2年目に払う額について何も語りません。ページが各拡張子の初年度の隣に出している更新の列を、いつも見てください。",
+          "3年契約のUS$ 0.01は初年度だけです。ページはカートの外で3年分の合計を見せないので、支払う前に金額を確認してください。すでに別のレジストラにドメインがあるなら、そこの更新料とこの料金を比べてください。そのまま置いてDNSを向けるのが、上の表の「別の場所で買ってDNSを向ける」の道です。",
+          "連絡先情報の保護（RDAP、旧WHOIS）は対応する拡張子に含まれています。.jpのような国別の拡張子には独自の料金とルールがあるので、決める前に同じページで探してください。.comは汎用の拡張子で、どの国でも使えます。"
+        ]
+      },
+      {
+        "heading": "移管：60日ルールと手順",
+        "paragraphs": [
+          "移管とは、ドメインの登録をある会社から別の会社に移すことです。Hostingerの移管ページは、手続き中もサイトとメールは動き続け、所有者情報は変わらないと書いています。変わるのは、更新料をどこに払うかと、DNSをどこで触るかです。",
+          "2026年10月28日に読んだHostingerのページによるルールは次の通りです。"
+        ],
+        "bullets": [
+          "**登録からの日数：** ほとんどの場合、ドメインは登録から60日以上経っている必要があります。Hostingerで新しく登録したドメインも、出ていけるようになるまで60日間ロックされます。",
+          "**ロック解除とコード：** 今のレジストラの管理画面でドメインのロックを解除し、認証コード（EPPコード、移管コード）を取得します。",
+          "**確認：** Hostingerでコードを入力すると、レジストラから確認のメールが届きます。確認しないと移管は進みません。",
+          "**期間：** 最長7日。今のレジストラがすぐに手放し、あなたがメールをすぐ確認すれば、もっと早く終わります。",
+          "**料金：** 無料ではありません。ほとんどの汎用拡張子（.com、.net、.org）では、移管料金に登録期間1年分が含まれ、それまでの期間に加算されます。"
+        ],
+        "postParagraphs": [
+          "ページの手順は.comのような汎用ドメインのものです。.jpのような国別の拡張子はその国のレジストリに従い、手順が違うことがあります。コードを求める前に、Hostingerのサポートで流れを確認してください。",
+          "Hostingerから外に移管するのも同じ理屈の逆です。登録から60日、Hostingerの管理画面でロック解除、コードを取得してメールで確認。成功した移管は返金されません。[Hostingerの返金と更新のルール](/ja/reviews/hostinger-trust-guide-ja)を参照してください。"
+        ]
+      },
+      {
+        "heading": "ドメインの所有者は誰か",
+        "paragraphs": [
+          "Hostingerは両方のページでこう書いています。ドメインはあなたの名前で登録され、あなたのもので、レジストラのものではありません。Hostingerは、汎用ドメインを調整する組織であるICANNの認定を受けています。ホスティングを解約してもドメインはあなたのものです。プランに付いてきたドメインの場合は、登録料がすでにレジストリに支払われているため、返金額から差し引かれます。",
+          "ドメインを自分のものにしておくための3つの注意点："
+        ],
+        "bullets": [
+          "**アカウント：** ドメインは、それを買ったHostingerのアカウントに属します。フリーランスや代理店のメールではなく、あなたが管理するメールアドレスを使ってください。他人の名前で登録すると、あとで移管するときにその人に頼ることになります。",
+          "**更新：** Hostingerは自動更新をオンにしておくことを勧めています。期限切れのドメインはサイトとメールを止めます。ドメインの更新は返金されないので、アカウントのカードを有効にしておく必要があります。",
+          "**登録の返金：** 新規登録の返金は96時間以内だけです。拡張子によって期限が異なるものがあり、返金ポリシーに記載されています。それ以降、ドメインは支払った期間の終わりまであなたのもので、返金はありません。"
+        ]
+      },
+      {
+        "heading": "支払う前のチェックリスト",
+        "bullets": [
+          "初年度だけでなく更新の列を見てください。ドメインはサイトがある限り毎年更新されます。",
+          "3年契約では、カートで3年分の合計を確認してください。ページには初年度しか出ません。",
+          "移管するなら登録日を確認してください。60日未満だと移管は始まりません。",
+          "自分のものになるアカウントで、自分のメールアドレスを使い、自動更新をオンにして買ってください。",
+          ".jpのような国別の拡張子は、いつか出ていく可能性があるなら、買う前にHostingerのサポートで移管の手順を確認してください。",
+          "ホスティングプランにドメインが付いてきたなら、2年目の更新料をメモしてください。購入前に表示されます。",
+          "紹介割引はホスティングプランに適用され、規約は対象サービスにドメインを挙げていません。支払う前にカートでドメインの料金を確認してください。"
+        ]
+      },
+      {
+        "heading": "どの道を選ぶか",
+        "paragraphs": [
+          "**Hostingerで買う**のは、サイトをHostingerでホスティングし、ドメイン・DNS・更新を同じ管理画面で扱いたい場合です。.comの更新は年US$ 19.99（2026年10月28日）で、初年度の通常価格と同じ、2年目の値上がりはありません。",
+          "**別の場所で買ってDNSを向ける**のは、すでに別のレジストラにドメインがある、契約を分けておきたい、またはそこの更新料のほうが安い場合です。DNSを向けるのは管理画面での設定1つで、サイトは同じように動きます。",
+          "**移管する**のは、登録から60日を超えたドメインで、しかもHostingerの更新料が今払っている額より得な場合だけです。ほとんどの汎用拡張子では移管料金に登録1年分が含まれるので、捨て金にはなりません。",
+          "迷ったら移管しないでください。DNSを向けて、登録は今の場所に置いておく。移管はあとからでもでき、サイトは止まりません。"
+        ]
+      },
+      {
+        "heading": "紹介リンクと価格",
+        "paragraphs": [
+          "紹介リンクにはホスティングプランの割引がすでに含まれているので、コードを入力する必要はありません。20%は最初の期間だけ、12か月以上のプランに適用され、ほかのクーポンとは併用できません。規約は対象サービスにドメインを挙げていないので、カートに表示される金額が基準です。ルールの全体は[Hostingerの紹介リンクの仕組み](/ja/reviews/hostinger-referral-code-ja)に、プランはサイト内の[Hostingerのページ](/ja/coupons/hostinger)にあります。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Hostingerのドメインはいくらですか？ 2026年10月28日、国際サイトの米ドル建てで、.comは初年度US$ 19.99、または3年契約でUS$ 0.01、更新は年US$ 19.99です。移管はUS$ 9.99です。国や通貨によって料金は変わることがあります。",
+          "ドメインを失わずにホスティングを変えられますか？ できます。ドメインはあなたのもので、Hostingerのアカウントに残ります。DNSを新しいホスティングに向けるか、登録から60日が過ぎてから登録を移管してください。",
+          ".comと.jpのどちらにすべきですか？ .comは汎用で、どの国でも使えます。.jpは日本の国別拡張子で、日本の読者向けのサイトに合い、独自の料金とルールがあります。Hostingerでは.comの更新は年US$ 19.99（2026年10月28日）です。.jpはドメインのページで探してください。",
+          "メールを使うにはドメインが必要ですか？ 必要です。you@yourcompany.comのようなアドレスにはドメインが存在しなければなりません。ホスティングは必須ではなく、Hostingerはドメインをメール専用にしたり、別のサイトへのリダイレクトに使ったりできると書いています。",
+          "Hostingerのドメインをほかのレジストラに移管できますか？ できます。登録から60日が過ぎてからで、管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールの確認をします。成功した移管は返金されません。"
+        ]
+      },
+      {
+        "heading": "この記事を書いた人",
+        "paragraphs": [
+          "Em Casa com CecíliaはHostingerのマネージドホスティングでNode.js Web Appとして動いており、ドメインemcasacomcecilia.comは2024年11月17日からHostingerに登録されています（公開RDAP記録、2026年10月28日に確認）。チームの誰もドメインを移管した経験はありません。この記事は、Hostingerのドメインと移管のページを2026年10月28日に読んでまとめたものです。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "紹介コードはすでにリンクに含まれています。20%はホスティングプランに、最初の期間のみ、12か月以上のプランで有効で、他のクーポンとは併用できません。支払う前にカートでドメインを確認してください。",
+      "label": "紹介リンクでプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介リンクからの購入で、Bruno に Hostinger のクレジットが入る場合がありますが、あなたに追加の費用はかかりません。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      },
+      {
+        "slug": "hostinger-referral-code-ja",
+        "title": "Hostingerのクーポンは不要です：紹介リンクで受けられるもの"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 673,
+    "slug": "hostinger-domain-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-dominio",
+    "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 가격, 갱신, 결제 전 확인할 점",
+    "seoTitle": "Hostinger 도메인: 구매, 이전, 다른 곳 등록",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 도메인의 세 가지 길(여기서 구매, 다른 곳에서 구매 후 연결, 이전), 2026년 10월 28일 기준 .com의 등록가와 갱신가, 그리고 결제 전에 확인할 점.",
+    "metaDescription": "도메인을 Hostinger에서 살까, 다른 곳에 등록해 연결할까, 이전할까? .com의 가격과 갱신가, 60일 규칙, 도메인의 소유자, 결제 전 체크리스트.",
+    "publishedAt": "2026년 10월 28일",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostinger 로고와 도메인의 세 가지 길: Hostinger에서 구매, 다른 곳에서 구매 후 연결, 또는 이전",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 둘 수도, 다른 등록 기관에 둘 수도 있고, 사이트는 어느 쪽이든 똑같이 작동합니다. 첫해 가격이 아니라 갱신가와 떠나기 쉬운지를 보고 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 사고, 이전은 등록한 지 60일이 지난 도메인만 하세요. 2026년 10월 28일 기준 가격은 아래에 있습니다."
+        ]
+      },
+      {
+        "heading": "도메인과 호스팅은 두 개의 계정입니다",
+        "paragraphs": [
+          "도메인은 주소입니다. 사람들이 입력하는 이름이죠. 호스팅은 사이트가 올라가 있는 컴퓨터입니다. 두 가지는 따로 결제하고, 같은 회사에 있어야 할 필요도 없습니다. 한 회사에 등록한 도메인을 다른 회사의 호스팅으로 연결할 수 있습니다. Hostinger 페이지도 자사에 등록한 도메인을 다른 호스팅 업체로 연결할 수 있다고 말합니다.",
+          "그래서 결정은 \"Hostinger냐 아니냐\"가 아닙니다. 도메인 등록을 어디에 두고, 매년 갱신에 얼마를 내며, 언젠가 호스팅을 바꾸면 어떻게 되는지입니다. 저렴한 첫해는 가장 덜 중요합니다. 도메인은 사이트가 있는 동안 계속 갱신되니까요."
+        ]
+      },
+      {
+        "heading": "세 가지 길",
+        "paragraphs": [
+          "사이트를 만드는 사람에게 도메인의 선택지는 세 가지입니다. 아래 그림과 표는 2026년 10월 28일에 읽은 Hostinger 페이지를 바탕으로 각 길에서 무엇이 달라지는지 정리한 것입니다."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-ko.webp",
+          "alt": "도메인의 세 가지 길을 정리한 그림: 호스팅과 함께 구매(Hostinger에 등록), 이전(등록이 Hostinger로 넘어감), 밖에 두고 연결(등록은 그대로); 세 가지 모두 도메인은 내 것이고, 달라지는 건 갱신 요금을 청구하는 곳",
+          "caption": "도메인의 세 가지 길, 2026년 10월 28일에 읽은 Hostinger 페이지 기준입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "길",
+            "맞는 경우",
+            "갱신",
+            "호스팅을 바꾸면",
+            "소유자"
+          ],
+          "rows": [
+            [
+              "Hostinger에서 구매",
+              "Hostinger에 호스팅하면서 도메인, DNS, 갱신을 같은 패널에서 관리하고 싶을 때",
+              "Hostinger 가격표의 갱신가, 매년",
+              "도메인은 Hostinger에 남고, DNS를 새 호스팅으로 연결하거나 나중에 이전",
+              "본인, 본인 이름으로 등록"
+            ],
+            [
+              "다른 곳에서 구매 후 연결",
+              "이미 다른 등록 기관에 도메인이 있거나 계정을 분리하고 싶을 때",
+              "도메인이 있는 등록 기관의 가격",
+              "도메인은 그대로, 연결만 바꿈",
+              "본인, 다른 등록 기관에"
+            ],
+            [
+              "Hostinger로 이전",
+              "등록한 지 60일이 지난 도메인이 있고 한곳에서 관리하고 싶을 때",
+              "다음 해부터 Hostinger의 갱신가",
+              "첫 번째 길과 같은 규칙",
+              "본인, 이전해도 소유 정보는 바뀌지 않음"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "적격 호스팅 플랜(Premium 등)에는 첫해 도메인이 하나 포함되며, 선택된 확장자에 한합니다. 2년째부터는 가격표의 정상 갱신가로 갱신됩니다. 이것은 플랜에 딸린 항목이지 길을 고르는 이유가 아닙니다. 중요한 건 갱신가입니다."
+        ]
+      },
+      {
+        "heading": "Hostinger에서는 얼마인가요",
+        "paragraphs": [
+          "아래는 Hostinger 국제 사이트(달러)의 도메인 검색 페이지 가격으로, 추천 링크로 들어가 2026년 10월 28일 블랙프라이데이 기간에 읽었습니다. 국가와 통화에 따라 다르게 보일 수 있으니 장바구니에서 확인하세요. 첫해의 낮은 가격은 3년 기간을 선택할 때 적용되고, 갱신은 결제한 기간이 끝난 뒤 매년 청구됩니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "확장자",
+            "첫해",
+            "갱신 (연간)",
+            "Hostinger로 이전"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 19.99, 또는 3년 기간 선택 시 US$ 0.01",
+              "US$ 19.99",
+              "US$ 9.99"
+            ],
+            [
+              "[다른 확장자](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "페이지에서 확인",
+              "페이지에서 확인",
+              "페이지에서 확인"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          ".com은 첫해 정가와 같은 US$ 19.99로 갱신됩니다. 2년째에 가격이 뛰지 않습니다. 반면 첫해에 아주 싼 확장자는 갱신가가 몇 배가 되기도 하니, 진입 가격만 보고는 2년째에 얼마를 낼지 알 수 없습니다. 항상 갱신 열을 보세요.",
+          "3년 기간의 US$ 0.01은 첫해에만 적용됩니다. 페이지는 장바구니 밖에서 3년 총액을 보여주지 않으니 결제 전에 금액을 확인하세요. Hostinger는 500개 이상의 확장자를 제공하며, 각 확장자의 등록가, 갱신가, 이전 비용은 같은 페이지의 가격 비교에 있습니다.",
+          "연락처 정보 보호(RDAP, 예전의 WHOIS)는 지원되는 확장자에 무료로 포함됩니다. 국가 도메인(.kr 등)은 각 나라 등록 기관의 규칙을 따르고, 가격은 통화에 따라 달라집니다."
+        ]
+      },
+      {
+        "heading": "이전: 60일 규칙과 절차",
+        "paragraphs": [
+          "이전은 도메인 등록을 한 회사에서 다른 회사로 옮기는 것입니다. Hostinger의 이전 페이지는 그 과정에서 사이트와 이메일이 계속 작동하고, 소유 정보도 바뀌지 않는다고 말합니다. 바뀌는 것은 갱신 요금을 청구하는 곳과 DNS를 관리하는 곳입니다.",
+          "2026년 10월 28일에 읽은 Hostinger 페이지의 규칙입니다:"
+        ],
+        "bullets": [
+          "**등록 기간:** 대부분의 경우 도메인이 등록된 지 최소 60일이 지나야 합니다. Hostinger에서 새로 등록한 도메인도 60일 동안은 나갈 수 없습니다.",
+          "**잠금 해제와 코드:** 현재 등록 기관의 패널에서 도메인 잠금을 풀고 인증 코드(EPP 코드, 또는 이전 코드)를 받습니다.",
+          "**확인:** Hostinger에 코드를 입력하면 등록 기관에서 확인 이메일이 옵니다. 확인하지 않으면 이전은 진행되지 않습니다.",
+          "**소요 시간:** 최대 7일. 현재 등록 기관이 빨리 승인하고 이메일을 바로 확인하면 더 빨라집니다.",
+          "**비용:** 무료가 아닙니다. 대부분의 일반 확장자(.com, .net, .org)에서는 이전 비용에 1년 등록이 추가로 포함되어 기존 기간에 더해집니다. .com은 2026년 10월 28일 기준 US$ 9.99입니다."
+        ],
+        "postParagraphs": [
+          "페이지의 절차는 .com 같은 일반 확장자 기준입니다. 국가 도메인은 그 나라 등록 기관의 규칙을 따르므로, 코드를 요청하기 전에 Hostinger 고객지원에서 해당 확장자의 절차를 확인하세요.",
+          "Hostinger에서 다른 곳으로 이전하는 것도 같은 논리를 거꾸로 따릅니다. 등록 60일, Hostinger 패널에서 잠금 해제, 코드 받기, 이메일 확인. 완료된 이전은 환불되지 않습니다. [Hostinger의 환불과 갱신 규칙](/ko/reviews/hostinger-trust-guide-ko)을 참고하세요."
+        ]
+      },
+      {
+        "heading": "도메인의 소유자는 누구인가요",
+        "paragraphs": [
+          "Hostinger는 두 페이지에서 모두 말합니다. 도메인은 본인 이름으로 등록되고, 등록 기관의 것이 아니라 본인의 것입니다. Hostinger는 일반 도메인을 총괄하는 기관인 ICANN의 공인 등록 기관입니다. 호스팅을 해지해도 도메인은 그대로 본인 것이고, 플랜에 포함된 도메인의 경우에는 등록 비용이 이미 레지스트리에 지급되었기 때문에 환불액에서 차감됩니다.",
+          "도메인을 내 것으로 지키는 세 가지 주의점:"
+        ],
+        "bullets": [
+          "**계정:** 도메인은 구매한 Hostinger 계정에 속합니다. 프리랜서나 대행사의 이메일이 아니라 본인이 관리하는 이메일을 쓰세요. 다른 사람 이름으로 등록하면 나중에 이전할 때 그 사람에게 의존하게 됩니다.",
+          "**갱신:** Hostinger는 자동 갱신을 켜 두라고 권합니다. 만료된 도메인은 사이트와 이메일을 멈춥니다. 도메인 갱신은 환불되지 않으므로 계정의 카드가 유효해야 합니다.",
+          "**등록 환불:** 신규 등록은 96시간 안에만 환불할 수 있고, 일부 확장자는 기한이 다르니 환불 정책을 확인하세요. 그 뒤로는 결제한 기간이 끝날 때까지 도메인은 본인 것이고, 환불은 없습니다."
+        ]
+      },
+      {
+        "heading": "결제 전 체크리스트",
+        "bullets": [
+          "첫해만 보지 말고 갱신 열을 보세요. 도메인은 사이트가 있는 동안 매년 갱신됩니다.",
+          "3년 기간을 고르면 장바구니에서 3년 총액을 확인하세요. 페이지는 첫해만 보여줍니다.",
+          "이전할 계획이면 등록일을 확인하세요. 60일이 안 됐으면 이전이 시작되지 않습니다.",
+          "본인 이메일로, 본인 소유가 될 계정에서 구매하고 자동 갱신을 켜 두세요.",
+          "국가 도메인은 언젠가 떠날 생각이 있다면, 구매 전에 Hostinger 고객지원에서 그 확장자의 이전 절차를 확인하세요.",
+          "도메인이 호스팅 플랜에 포함되어 왔다면 2년째 갱신가를 메모하세요. 구매 전에 표시됩니다.",
+          "추천 할인은 호스팅 플랜에 적용되고, 약관은 도메인을 대상 서비스로 나열하지 않습니다. 결제 전에 장바구니에서 도메인 금액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "어떤 길을 고를까",
+        "paragraphs": [
+          "**Hostinger에서 사세요.** 사이트를 Hostinger에 호스팅하고 도메인, DNS, 갱신을 같은 패널에서 관리하고 싶다면요. .com은 연 US$ 19.99로 갱신되며(2026년 10월 28일), 첫해 정가와 같아 2년째에 뛰는 일이 없습니다.",
+          "**다른 곳에서 사서 연결하세요.** 이미 다른 등록 기관에 도메인이 있거나, 계정을 분리하고 싶거나, 그곳의 갱신가가 더 낮다면요. DNS 연결은 패널에서 하는 설정 하나이고, 사이트는 똑같이 작동합니다.",
+          "**이전은** 등록한 지 60일이 지난 도메인만, 그리고 Hostinger의 갱신가가 지금 내는 금액보다 유리할 때만 하세요. 대부분의 일반 확장자에서 이전 비용에는 1년 등록이 추가로 포함되므로 버리는 돈은 아닙니다. .com은 US$ 9.99입니다.",
+          "망설여진다면 이전하지 마세요. 도메인을 연결만 하고 등록은 그대로 두세요. 나중에 이전할 수 있고, 사이트는 멈추지 않습니다."
+        ]
+      },
+      {
+        "heading": "추천 링크와 가격",
+        "paragraphs": [
+          "추천 링크는 호스팅 플랜에 할인을 바로 적용하므로 입력할 코드는 없습니다. 20%는 첫 기간에만, 12개월 이상 플랜에 적용되며, 다른 쿠폰과 함께 쓸 수 없습니다. 약관은 도메인을 대상 서비스로 나열하지 않으니, 기준은 장바구니에 표시되는 금액입니다. 규칙 전체는 [Hostinger 추천 프로그램의 작동 방식](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 사이트의 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Hostinger 도메인은 얼마인가요? 2026년 10월 28일 기준 국제 사이트에서 .com은 첫해 US$ 19.99, 또는 3년 기간 선택 시 첫해 US$ 0.01이며, 갱신은 연 US$ 19.99입니다. 다른 확장자의 가격은 도메인 검색 페이지에 있고, 국가와 통화에 따라 다를 수 있습니다.",
+          "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 네. 도메인은 본인 것이고 Hostinger 계정에 남습니다. DNS를 새 호스팅으로 연결하거나, 등록 후 60일이 지난 뒤에 등록을 이전하면 됩니다.",
+          ".com과 국가 도메인 중 무엇을 고를까요? .com은 일반 도메인으로 어느 나라에서나 통합니다. .kr 같은 국가 도메인은 그 나라의 등록 기관이 관리하며 등록과 이전 규칙이 따로 있습니다. Hostinger에서 .com은 연 US$ 19.99로 갱신됩니다(2026년 10월 28일). 국가 도메인의 취급 여부와 가격은 검색 페이지에서 확인하세요.",
+          "이메일을 쓰려면 도메인이 필요한가요? 네. 이름@회사.com 같은 주소를 쓰려면 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일에만 쓰거나 다른 사이트로 리디렉션할 수 있다고 말합니다.",
+          "Hostinger에서 다른 등록 기관으로 도메인을 이전할 수 있나요? 네, 등록 후 60일이 지나면요. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 완료된 이전은 환불되지 않습니다."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 Node.js Web App으로 운영되며, 도메인 emcasacomcecilia.com은 2024년 11월 17일부터 Hostinger에 등록되어 있습니다(공개 RDAP 기록, 2026년 10월 28일 확인). 팀 중 누구도 도메인을 이전해 본 적은 없습니다. 이 글은 Hostinger의 도메인 페이지와 이전 페이지가 말하는 내용을 2026년 10월 28일에 읽고 정리한 것입니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 코드는 이미 링크에 들어 있습니다. 20%는 호스팅 플랜에, 첫 기간에만, 12개월 이상 플랜에서 적용되며, 다른 쿠폰과 함께 쓸 수 없습니다. 결제 전에 장바구니에서 도메인 금액을 확인하세요.",
+      "label": "추천 링크로 플랜 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천 링크로 구매하면 Bruno에게 Hostinger 크레딧이 생길 수 있으며, 여러분에게는 추가 비용이 없습니다.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-referral-code-ko",
+        "title": "Hostinger 쿠폰은 필요 없습니다: 추천 링크가 주는 혜택"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ]
+  },
+  {
+    "id": 674,
+    "slug": "hostinger-domain-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-dominio",
+    "title": "Hostinger 域名：在这里买、转入，还是在别处注册？价格、续费与下单前要确认什么",
+    "seoTitle": "Hostinger 域名：购买、转入还是别处注册",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 域名的三条路（在这里买、在别处买再解析过来、转入），2026年10月28日 .com 的注册价与续费价，以及付款前要确认什么。",
+    "metaDescription": "域名在 Hostinger 买、在别处注册再解析，还是转入？.com 的价格与续费价并列、60 天规则、域名归谁，以及付款前的清单。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostinger 标志旁是域名的三条路：在 Hostinger 购买、在别处购买再解析过来，或转入",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "域名和主机是两个独立的账户：可以放在 Hostinger，也可以放在其他注册商，网站两种方式都能正常运行。选择时看续费价和日后离开是否方便，而不是看第一年。想把一切放在同一个面板里，就在 Hostinger 购买；转入只做注册满 60 天的域名。2026年10月28日的价格见下文。"
+        ]
+      },
+      {
+        "heading": "域名和主机是两个账户",
+        "paragraphs": [
+          "域名是地址，也就是别人输入的那个名字。主机是网站所在的那台电脑。两者分开付费，也不必在同一家公司：在一家公司注册的域名，可以解析到另一家公司的主机。Hostinger 的页面自己也说，在它那里注册的域名可以指向其他主机商。",
+          "所以要决定的不是“选不选 Hostinger”，而是域名注册放在哪里、每年续费多少钱，以及有一天换主机会怎样。便宜的第一年最不重要：只要网站还在，域名就要年年续费。"
+        ]
+      },
+      {
+        "heading": "三条路",
+        "paragraphs": [
+          "搭网站的人，域名有三种选择。下面的图和表按 2026年10月28日读取的 Hostinger 页面，总结每条路有什么不同。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+          "alt": "图示域名的三条路：随主机一起购买（注册在 Hostinger）、转入（注册转到 Hostinger）、留在外面再解析（注册留在原处）；三条路域名都是你的，不同的只是谁来收续费",
+          "caption": "域名的三条路，依据 2026年10月28日读取的 Hostinger 页面。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "路径",
+            "什么时候合适",
+            "续费",
+            "如果换主机",
+            "域名归谁"
+          ],
+          "rows": [
+            [
+              "在 Hostinger 购买",
+              "你要把网站托管在 Hostinger，想让域名、DNS 和续费都在同一个面板",
+              "按 Hostinger 价目表的续费价，每年一次",
+              "域名留在 Hostinger；把 DNS 指向新主机，或日后再转出",
+              "你，以你的名字注册"
+            ],
+            [
+              "在别处购买再解析",
+              "你在其他注册商已有域名，或想把账户分开",
+              "按域名所在注册商的价格",
+              "域名不变，只改解析",
+              "你，在另一家注册商"
+            ],
+            [
+              "转入 Hostinger",
+              "你的域名已注册超过 60 天，想把一切放在一处",
+              "从下一年起按 Hostinger 的续费价",
+              "与第一条路相同",
+              "你；转入不改变所有权信息"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "符合条件的主机套餐（如 Premium）第一年附带一个域名，限指定后缀；从第二年起按价目表的正常价格续费。这是套餐里的一项，不是选哪条路的理由：起作用的是续费价。"
+        ]
+      },
+      {
+        "heading": "Hostinger 的价格",
+        "paragraphs": [
+          "以下是 Hostinger 国际站（美元）域名搜索页的价格，通过推荐链接进入，于 2026年10月28日黑色星期五活动期间读取。价格可能因国家和货币而不同，请以购物车为准。第一年的低价需选择 3 年期；续费按年计，从已付期限结束后开始。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "后缀",
+            "第一年",
+            "续费（每年）",
+            "转入 Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 19.99，或选 3 年期时 US$ 0.01",
+              "US$ 19.99",
+              "US$ 9.99"
+            ],
+            [
+              "[其他后缀](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "见页面",
+              "见页面",
+              "见页面"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "这样看：.com 的续费价和第一年的全价一样，都是 US$ 19.99，第二年不会跳价。而第一年特别便宜的后缀，续费价可能翻几倍：入门价说明不了第二年要付多少。永远看续费那一列。",
+          "选 3 年期时，US$ 0.01 只是第一年的价格；页面在购物车之外不显示三年总额，付款前请核对金额。Hostinger 提供 500 多种后缀，每种的注册价、续费价和转入费都在同一页的价格对比里。",
+          "联系信息保护（RDAP，也就是过去的 WHOIS）在支持的后缀中免费包含。国家域名（如 .cn）遵循各国注册机构的规则，价格也随货币变化。"
+        ]
+      },
+      {
+        "heading": "转入：60 天规则与步骤",
+        "paragraphs": [
+          "转入是把域名的注册从一家公司换到另一家。Hostinger 的转移页面说，过程中网站和邮箱照常运行，所有权信息也不变。变的是谁来收续费，以及你在哪里管理 DNS。",
+          "规则如下，依据 2026年10月28日读取的 Hostinger 页面："
+        ],
+        "bullets": [
+          "**注册时长：**多数情况下，域名需注册满 60 天。在 Hostinger 新注册的域名同样要锁 60 天才能转出。",
+          "**解锁与代码：**在现有注册商的面板解锁域名，取得授权码（EPP 码，或叫转移码）。",
+          "**确认：**在 Hostinger 填入代码后，注册商会发一封确认邮件。不确认，转移就不会进行。",
+          "**时间：**最多七天；如果现有注册商很快放行、你也马上确认邮件，会更快。",
+          "**费用：**不是免费的。多数通用后缀（.com、.net、.org）的转入费已包含额外一年注册，加在你原有的期限上。.com 的转入费为 US$ 9.99（2026年10月28日）。"
+        ],
+        "postParagraphs": [
+          "页面上的步骤针对 .com 这类通用后缀。国家域名由各国注册机构管理，申请代码前先向 Hostinger 客服确认该后缀的流程。",
+          "从 Hostinger 转出走的是同一套逻辑，只是方向相反：注册满 60 天，在 Hostinger 面板解锁，取得代码，在邮件里确认。成功的转移不退款；参见 [Hostinger 的退款与续费规则](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "域名归谁",
+        "paragraphs": [
+          "Hostinger 在两个页面都说明：域名以你的名字注册，属于你，不属于注册商。Hostinger 是 ICANN 认证的注册商，ICANN 是统筹通用域名的机构。取消主机后，域名仍然是你的；如果域名是随套餐附带的，注册费会从退款中扣除，因为这笔钱已经付给了注册局。",
+          "三件事能让域名一直是你的："
+        ],
+        "bullets": [
+          "**账户：**域名属于购买它的那个 Hostinger 账户。用你自己掌控的邮箱，不要用自由职业者或代理公司的。以别人名义注册的话，日后转移要靠对方。",
+          "**续费：**Hostinger 建议开着自动续费。域名过期会让网站和邮箱一起停摆。域名续费不退款，所以账户里的银行卡要保持有效。",
+          "**注册退款：**新注册只能在 96 小时内退款，个别后缀期限不同，请看退款政策。之后直到已付期限结束，域名都是你的，但不能退。"
+        ]
+      },
+      {
+        "heading": "付款前的清单",
+        "bullets": [
+          "看续费那一列，不要只看第一年。只要网站还在，域名就要年年续费。",
+          "选 3 年期时，在购物车里核对三年总额：页面只显示第一年。",
+          "打算转入的话，先看注册日期：不满 60 天，转移不会开始。",
+          "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
+          "国家域名如果有一天想迁走，购买前先向 Hostinger 客服确认该后缀的转移流程。",
+          "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
+          "推荐折扣用在主机套餐上，条款没有把域名列为适用服务；付款前在购物车核对域名的金额。"
+        ]
+      },
+      {
+        "heading": "选哪条路",
+        "paragraphs": [
+          "**在 Hostinger 购买**，如果网站要托管在 Hostinger，而且你想让域名、DNS 和续费都在同一个面板。.com 每年续费 US$ 19.99（2026年10月28日），与第一年的全价相同，第二年不跳价。",
+          "**在别处购买再解析**，如果你在其他注册商已有域名、想把账户分开，或那里的续费价更低。改 DNS 只是面板里的一项设置，网站照常运行。",
+          "**转入**只做注册超过 60 天的域名，而且只在 Hostinger 的续费价比你现在付的划算时。多数通用后缀的转入费包含额外一年注册，所以不算白花钱；.com 是 US$ 9.99。",
+          "拿不准就不要转：把域名解析过来，注册留在原处。以后随时可以转，网站也不会停。"
+        ]
+      },
+      {
+        "heading": "推荐链接与价格",
+        "paragraphs": [
+          "推荐链接会直接在主机套餐上套用折扣，没有要输入的代码。20% 只适用于首期、12 个月以上的套餐，且不能与其他优惠券叠加。条款没有把域名列为适用服务，以购物车显示的为准。完整规则见 [Hostinger 推荐计划是怎么运作的](/zh-hans/reviews/hostinger-referral-code-zh-hans)，套餐见本站的 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Hostinger 的域名多少钱？截至 2026年10月28日，国际站的 .com 第一年 US$ 19.99，或选 3 年期时第一年 US$ 0.01，续费每年 US$ 19.99。其他后缀的价格在域名搜索页，可能因国家和货币而不同。",
+          "换主机会丢掉域名吗？不会。域名是你的，留在 Hostinger 账户里；把 DNS 指向新主机，或在注册满 60 天后再转出注册。",
+          "选 .com 还是国家域名？.com 是通用后缀，在任何国家都适用；像 .cn 这样的国家域名由该国注册机构管理，注册和转移有自己的规则。在 Hostinger，.com 每年续费 US$ 19.99（2026年10月28日）；国家域名是否提供以及价格，请在搜索页查看。",
+          "用邮箱需要域名吗？需要。像 你@你的公司.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用来收发邮件，或重定向到另一个网站。",
+          "能把域名从 Hostinger 转到其他注册商吗？可以，注册满 60 天之后：在面板里解锁域名，取得授权码，再在新注册商那里通过邮件确认。成功的转移不退款。"
+        ]
+      },
+      {
+        "heading": "谁在写这篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App；域名 emcasacomcecilia.com 自 2024年11月17日起注册在 Hostinger（公开 RDAP 记录，2026年10月28日查询）。团队里没有人转移过域名：本文整理的是 Hostinger 域名页面和转移页面所说的内容，于 2026年10月28日读取。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推荐代码已经在链接里：20% 用在主机套餐上，仅限首期、12 个月以上的套餐，不能与其他优惠券叠加。付款前请在购物车核对域名的金额。",
+      "label": "通过推荐链接查看套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hans",
+        "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "slug": "hostinger-domain-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-dominio",
+    "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？價格、續訂與下單前要確認什麼",
+    "seoTitle": "Hostinger 網域：購買、轉入還是別處註冊",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger 網域的三條路（在這裡買、在別處買再指向過來、轉入），2026年10月28日 .com 的註冊價與續訂價，以及付款前要確認什麼。",
+    "metaDescription": "網域在 Hostinger 買、在別處註冊再指向，還是轉入？.com 的價格與續訂價並列、60 天規則、網域歸誰，以及付款前的清單。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+    "imageAlt": "Hostinger 標誌旁是網域的三條路：在 Hostinger 購買、在別處購買再指向過來，或轉入",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "網域和主機是兩個獨立的帳戶：可以放在 Hostinger，也可以放在其他註冊商，網站兩種方式都能正常運作。選擇時看續訂價和日後離開是否方便，而不是看第一年。想把一切放在同一個控制台，就在 Hostinger 購買；轉入只做註冊滿 60 天的網域。2026年10月28日的價格見下文。"
+        ]
+      },
+      {
+        "heading": "網域和主機是兩個帳戶",
+        "paragraphs": [
+          "網域是地址，也就是別人輸入的那個名字。主機是網站所在的那台電腦。兩者分開付費，也不必在同一家公司：在一家公司註冊的網域，可以指向另一家公司的主機。Hostinger 的頁面自己也說，在它那裡註冊的網域可以指向其他主機商。",
+          "所以要決定的不是「選不選 Hostinger」，而是網域註冊放在哪裡、每年續訂多少錢，以及有一天換主機會怎樣。便宜的第一年最不重要：只要網站還在，網域就要年年續訂。"
+        ]
+      },
+      {
+        "heading": "三條路",
+        "paragraphs": [
+          "架網站的人，網域有三種選擇。下面的圖和表依 2026年10月28日讀取的 Hostinger 頁面，整理每條路有什麼不同。"
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hant.webp",
+          "alt": "圖示網域的三條路：隨主機一起購買（註冊在 Hostinger）、轉入（註冊轉到 Hostinger）、留在外面再指向（註冊留在原處）；三條路網域都是你的，不同的只是誰來收續訂費",
+          "caption": "網域的三條路，依據 2026年10月28日讀取的 Hostinger 頁面。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
+        "comparisonTable": {
+          "headers": [
+            "路徑",
+            "什麼時候合適",
+            "續訂",
+            "如果換主機",
+            "網域歸誰"
+          ],
+          "rows": [
+            [
+              "在 Hostinger 購買",
+              "你要把網站託管在 Hostinger，想讓網域、DNS 和續訂都在同一個控制台",
+              "依 Hostinger 價目表的續訂價，每年一次",
+              "網域留在 Hostinger；把 DNS 指向新主機，或日後再轉出",
+              "你，以你的名字註冊"
+            ],
+            [
+              "在別處購買再指向",
+              "你在其他註冊商已有網域，或想把帳戶分開",
+              "依網域所在註冊商的價格",
+              "網域不變，只改指向",
+              "你，在另一家註冊商"
+            ],
+            [
+              "轉入 Hostinger",
+              "你的網域已註冊超過 60 天，想把一切放在一處",
+              "從下一年起依 Hostinger 的續訂價",
+              "與第一條路相同",
+              "你；轉入不改變所有權資料"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "符合條件的主機方案（如 Premium）第一年附帶一個網域，限指定後綴；從第二年起依價目表的正常價格續訂。這是方案裡的一項，不是選哪條路的理由：起作用的是續訂價。"
+        ]
+      },
+      {
+        "heading": "Hostinger 的價格",
+        "paragraphs": [
+          "以下是 Hostinger 國際站（美元）網域搜尋頁的價格，透過推薦連結進入，於 2026年10月28日黑色星期五活動期間讀取。價格可能因國家和貨幣而不同，請以購物車為準。第一年的低價需選擇 3 年期；續訂按年計，從已付期限結束後開始。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "後綴",
+            "第一年",
+            "續訂（每年）",
+            "轉入 Hostinger"
+          ],
+          "rows": [
+            [
+              "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "US$ 19.99，或選 3 年期時 US$ 0.01",
+              "US$ 19.99",
+              "US$ 9.99"
+            ],
+            [
+              "[其他後綴](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+              "見頁面",
+              "見頁面",
+              "見頁面"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "這樣看：.com 的續訂價和第一年的全價一樣，都是 US$ 19.99，第二年不會跳價。而第一年特別便宜的後綴，續訂價可能翻好幾倍：入門價說明不了第二年要付多少。永遠看續訂那一欄。",
+          "選 3 年期時，US$ 0.01 只是第一年的價格；頁面在購物車之外不顯示三年總額，付款前請核對金額。Hostinger 提供 500 多種後綴，每種的註冊價、續訂價和轉入費都在同一頁的價格比較裡。",
+          "聯絡資料保護（RDAP，也就是過去的 WHOIS）在支援的後綴中免費包含。國家網域（如 .tw）遵循各國註冊機構的規則，價格也隨貨幣變化。"
+        ]
+      },
+      {
+        "heading": "轉入：60 天規則與步驟",
+        "paragraphs": [
+          "轉入是把網域的註冊從一家公司換到另一家。Hostinger 的轉移頁面說，過程中網站和電子郵件照常運作，所有權資料也不變。變的是誰來收續訂費，以及你在哪裡管理 DNS。",
+          "規則如下，依據 2026年10月28日讀取的 Hostinger 頁面："
+        ],
+        "bullets": [
+          "**註冊時長：**多數情況下，網域需註冊滿 60 天。在 Hostinger 新註冊的網域同樣要鎖 60 天才能轉出。",
+          "**解鎖與代碼：**在現有註冊商的控制台解鎖網域，取得授權碼（EPP 碼，或叫轉移碼）。",
+          "**確認：**在 Hostinger 填入代碼後，註冊商會寄一封確認信。不確認，轉移就不會進行。",
+          "**時間：**最多七天；如果現有註冊商很快放行、你也馬上確認信件，會更快。",
+          "**費用：**不是免費的。多數通用後綴（.com、.net、.org）的轉入費已包含額外一年註冊，加在你原有的期限上。.com 的轉入費為 US$ 9.99（2026年10月28日）。"
+        ],
+        "postParagraphs": [
+          "頁面上的步驟針對 .com 這類通用後綴。國家網域由各國註冊機構管理，申請代碼前先向 Hostinger 客服確認該後綴的流程。",
+          "從 Hostinger 轉出走的是同一套邏輯，只是方向相反：註冊滿 60 天，在 Hostinger 控制台解鎖，取得代碼，在信件裡確認。成功的轉移不退款；參見 [Hostinger 的退款與續訂規則](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "網域歸誰",
+        "paragraphs": [
+          "Hostinger 在兩個頁面都說明：網域以你的名字註冊，屬於你，不屬於註冊商。Hostinger 是 ICANN 認證的註冊商，ICANN 是統籌通用網域的機構。取消主機後，網域仍然是你的；如果網域是隨方案附帶的，註冊費會從退款中扣除，因為這筆錢已經付給了註冊局。",
+          "三件事能讓網域一直是你的："
+        ],
+        "bullets": [
+          "**帳戶：**網域屬於購買它的那個 Hostinger 帳戶。用你自己掌控的電子郵件，不要用接案者或代理公司的。以別人名義註冊的話，日後轉移要靠對方。",
+          "**續訂：**Hostinger 建議開著自動續訂。網域過期會讓網站和電子郵件一起停擺。網域續訂不退款，所以帳戶裡的信用卡要保持有效。",
+          "**註冊退款：**新註冊只能在 96 小時內退款，個別後綴期限不同，請看退款政策。之後直到已付期限結束，網域都是你的，但不能退。"
+        ]
+      },
+      {
+        "heading": "付款前的清單",
+        "bullets": [
+          "看續訂那一欄，不要只看第一年。只要網站還在，網域就要年年續訂。",
+          "選 3 年期時，在購物車裡核對三年總額：頁面只顯示第一年。",
+          "打算轉入的話，先看註冊日期：不滿 60 天，轉移不會開始。",
+          "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
+          "國家網域如果有一天想遷走，購買前先向 Hostinger 客服確認該後綴的轉移流程。",
+          "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
+          "推薦折扣用在主機方案上，條款沒有把網域列為適用服務；付款前在購物車核對網域的金額。"
+        ]
+      },
+      {
+        "heading": "選哪條路",
+        "paragraphs": [
+          "**在 Hostinger 購買**，如果網站要託管在 Hostinger，而且你想讓網域、DNS 和續訂都在同一個控制台。.com 每年續訂 US$ 19.99（2026年10月28日），與第一年的全價相同，第二年不跳價。",
+          "**在別處購買再指向**，如果你在其他註冊商已有網域、想把帳戶分開，或那裡的續訂價更低。改 DNS 只是控制台裡的一項設定，網站照常運作。",
+          "**轉入**只做註冊超過 60 天的網域，而且只在 Hostinger 的續訂價比你現在付的划算時。多數通用後綴的轉入費包含額外一年註冊，所以不算白花錢；.com 是 US$ 9.99。",
+          "拿不準就不要轉：把網域指向過來，註冊留在原處。以後隨時可以轉，網站也不會停。"
+        ]
+      },
+      {
+        "heading": "推薦連結與價格",
+        "paragraphs": [
+          "推薦連結會直接在主機方案上套用折扣，沒有要輸入的代碼。20% 只適用於首期、12 個月以上的方案，且不能與其他優惠券疊加。條款沒有把網域列為適用服務，以購物車顯示的為準。完整規則見 [Hostinger 推薦計畫是怎麼運作的](/zh-hant/reviews/hostinger-referral-code-zh-hant)，方案見本站的 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Hostinger 的網域多少錢？截至 2026年10月28日，國際站的 .com 第一年 US$ 19.99，或選 3 年期時第一年 US$ 0.01，續訂每年 US$ 19.99。其他後綴的價格在網域搜尋頁，可能因國家和貨幣而不同。",
+          "換主機會失去網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；把 DNS 指向新主機，或在註冊滿 60 天後再轉出註冊。",
+          "選 .com 還是國家網域？.com 是通用後綴，在任何國家都適用；像 .tw 這樣的國家網域由該國註冊機構管理，註冊和轉移有自己的規則。在 Hostinger，.com 每年續訂 US$ 19.99（2026年10月28日）；國家網域是否提供以及價格，請在搜尋頁查看。",
+          "用電子郵件需要網域嗎？需要。像 你@你的公司.com 這樣的地址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用來收發郵件，或重新導向到另一個網站。",
+          "能把網域從 Hostinger 轉到其他註冊商嗎？可以，註冊滿 60 天之後：在控制台解鎖網域，取得授權碼，再在新註冊商那裡透過信件確認。成功的轉移不退款。"
+        ]
+      },
+      {
+        "heading": "誰在寫這篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App；網域 emcasacomcecilia.com 自 2024年11月17日起註冊在 Hostinger（公開 RDAP 紀錄，2026年10月28日查詢）。團隊裡沒有人轉移過網域：本文整理的是 Hostinger 網域頁面和轉移頁面所說的內容，於 2026年10月28日讀取。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推薦代碼已經在連結裡：20% 用在主機方案上，只限首期、12 個月以上的方案，不能與其他優惠券疊加。付款前請在購物車核對網域的金額。",
+      "label": "透過推薦連結查看方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "透過這個推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，對你沒有額外費用。",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-referral-code-zh-hant",
+        "title": "Hostinger 優惠券不用找：推薦連結能拿到什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
+    "locale": "pt",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS ou hospedagem compartilhada: qual compensa para o seu site na Hostinger",
+    "seoTitle": "VPS ou hospedagem compartilhada: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Site comum fica bem na hospedagem compartilhada; VPS só com sistema próprio, recurso reservado ou root. Quadro por cenário, specs dos KVM e preços de 28/10/2026 com a renovação.",
+    "metaDescription": "VPS ou hospedagem compartilhada na Hostinger: o que é cada um, quadro por cenário, specs dos KVM 1 a 8, o que fica com você na manutenção e os preços de 28/10/2026 com a renovação ao lado.",
+    "publishedAt": "28 de outubro de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Logo da Hostinger com os ícones de um site comum e de um servidor, um contra o outro",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para um site comum, blog, portfólio ou loja pequena, a hospedagem compartilhada atende e custa menos. O VPS só compensa quando o site precisa de um sistema instalado fora do painel, de CPU e memória reservadas ou de acesso root. A conta de renovação muda a escolha; veja o preço e o veredito abaixo."
+        ]
+      },
+      {
+        "heading": "O que é cada um",
+        "paragraphs": [
+          "**Hospedagem compartilhada** é um servidor dividido entre vários clientes. A Hostinger cuida do sistema, do servidor web e das atualizações; você entra no painel, instala o WordPress ou sobe os arquivos do site e pronto. Na Hostinger, são os planos Single, Premium e Ilimitado, e o Cloud Startup, que é a mesma ideia com mais recurso.",
+          "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados. A Hostinger entrega a máquina com o sistema operacional e o acesso root, o usuário que pode tudo. Daí em diante, instalar o servidor web, o banco, o certificado, as atualizações e a segurança são tarefas suas. Na Hostinger, são os planos KVM 1, 2, 4 e 8.",
+          "A diferença não é \"melhor ou pior\". É quem cuida do servidor e o quanto de recurso fica reservado para você."
+        ]
+      },
+      {
+        "heading": "Qual escolher, por cenário",
+        "paragraphs": [
+          "Antes de olhar preço, responda três perguntas. Se a resposta for \"não\" nas três, a compartilhada resolve."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "imageAlt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
+        "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger lidas em 28/10/2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Cenário",
+            "Compartilhada",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, portfólio ou site de empresa em WordPress",
+              "Sim. É o uso típico do plano",
+              "Não precisa"
+            ],
+            [
+              "Loja pequena em WordPress (WooCommerce)",
+              "Sim, com atenção ao plano: mais produtos e visitas pedem Premium ou Ilimitado",
+              "Só se a loja crescer muito"
+            ],
+            [
+              "Site em Node.js",
+              "Sim. O plano Premium lista Node.js, e este site roda assim",
+              "Não precisa"
+            ],
+            [
+              "Vários sites ou e-mails profissionais",
+              "Sim. O Premium lista até 3 sites, e o Ilimitado inclui e-mails",
+              "Não precisa"
+            ],
+            [
+              "Sistema próprio, com programa ou banco que não está no painel",
+              "Não",
+              "Sim. É o caso clássico de VPS"
+            ],
+            [
+              "Painel, bot ou automação rodando o dia todo (n8n, Docker)",
+              "Não",
+              "Sim, com root e Docker"
+            ],
+            [
+              "Site com plugin pesado ou picos de acesso",
+              "Cloud Startup, antes de pensar em VPS",
+              "Sim, se o Cloud não bastar"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os recursos de cada plano compartilhado mudam por campanha. Confira na página da Hostinger o que cada um inclui antes de fechar."
+        ]
+      },
+      {
+        "heading": "Os planos de VPS: KVM 1 a 8",
+        "paragraphs": [
+          "Os quatro planos KVM mudam só no tamanho. Specs lidas na página de VPS da Hostinger em 28/10/2026; preço mensal de plano de 24 meses, com o link de indicação aplicado, e a renovação ao lado."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "vCPU",
+            "RAM",
+            "Disco",
+            "Com a indicação",
+            "Renovação"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "R$ 23,99/mês",
+              "R$ 59,99/mês"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "R$ 34,39/mês",
+              "R$ 77,99/mês"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "R$ 47,99/mês",
+              "R$ 149,99/mês"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "R$ 95,99/mês",
+              "R$ 259,99/mês"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
+          "Sem o link de indicação, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (página lida em 28/10/2026, campanha de Black Friday). Com o link, os 20% valem **só no primeiro período** e **não somam com outros cupons**. A renovação é a mesma nos dois casos."
+        ]
+      },
+      {
+        "heading": "Manutenção: o que fica com você",
+        "paragraphs": [
+          "Essa é a parte que o preço não mostra. Na compartilhada, a Hostinger mantém o servidor e o painel; você cuida do seu site (tema, plugins, conteúdo). O plano Premium lista backups semanais, e o Ilimitado inclui suporte prioritário.",
+          "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. Na prática, vira uma lista sua:"
+        ],
+        "bullets": [
+          "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL.",
+          "**Atualizar** o sistema operacional e os programas, de tempos em tempos.",
+          "**Proteger**: firewall, portas abertas, senhas e chaves de acesso.",
+          "**Fazer backup** e saber restaurar.",
+          "**Resolver** quando o site cair fora do horário comercial."
+        ],
+        "postParagraphs": [
+          "Se você nunca abriu um terminal, isso tem custo: ou de tempo de aprendizado, ou de alguém que faça por você. Para um site comum, esse custo costuma ser maior que a diferença de preço entre os planos."
+        ]
+      },
+      {
+        "heading": "Preço e renovação: a conta de verdade",
+        "paragraphs": [
+          "A hospedagem compartilhada vende em plano de 48 meses; o VPS, em 24 meses. Os dois cobram o período inteiro de uma vez. Preços lidos em 28/10/2026, com o link de indicação aplicado, e a renovação ao lado:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Com a indicação",
+            "Total do período",
+            "Renovação"
+          ],
+          "rows": [
+            [
+              "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "R$ 4,79/mês",
+              "R$ 229,92",
+              "R$ 23,99/mês"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "R$ 7,99/mês",
+              "R$ 383,52",
+              "R$ 38,99/mês"
+            ],
+            [
+              "[Ilimitado](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "R$ 10,39/mês",
+              "R$ 498,72",
+              "R$ 64,99/mês"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "R$ 31,99/mês",
+              "R$ 1.535,52",
+              "R$ 129,99/mês"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+              "R$ 23,99/mês",
+              "R$ 575,76",
+              "R$ 59,99/mês"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/br/servidor-vps?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+              "R$ 34,39/mês",
+              "R$ 825,36",
+              "R$ 77,99/mês"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dois pontos mudam a conta. O primeiro: o VPS KVM 1 custa três vezes o Premium por mês já no primeiro período (R$ 23,99 contra R$ 7,99), e a diferença segue na renovação (R$ 59,99 contra R$ 38,99). O segundo: no VPS, o preço promocional dura 24 meses; na compartilhada, 48. Em quatro anos, o Premium custa R$ 383,52; o KVM 1, R$ 575,76 no primeiro período mais R$ 1.439,76 na renovação (24 × R$ 59,99), ou R$ 2.015,52.",
+          "A renovação vem ligada por padrão. Veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel) antes de contratar, e a [Black Friday da Hostinger](/reviews/black-friday-hostinger) para a comparação entre a campanha e o link. O Premium lista domínio grátis no primeiro ano, como item do plano. Os preços mudam por campanha: confira o valor no carrinho antes de pagar, e veja as condições na [página da Hostinger aqui no site](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quando o VPS faz sentido para agente de IA",
+        "paragraphs": [
+          "Um caso em que o VPS entra com frequência não é site: é assistente de IA rodando o dia todo, como o OpenClaw. Aí a pergunta muda, porque a Hostinger também vende um plano gerenciado para esses assistentes. Se é esse o seu caso, a comparação está em [OpenClaw na Hostinger: gerenciado ou VPS](/reviews/openclaw-hostinger-gerenciado-ou-vps) e, para escolher o tamanho, em [qual KVM para o OpenClaw](/reviews/melhor-vps-para-openclaw). Este artigo fica no servidor de site."
+        ]
+      },
+      {
+        "heading": "Veredito: VPS ou compartilhada",
+        "paragraphs": [
+          "**Hospedagem compartilhada** para blog, portfólio, site de empresa, loja pequena e site em Node.js. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
+          "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
+          "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
+          "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
+          "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
+          "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+          "Qual é o preço do VPS da Hostinger? Em 28/10/2026, o KVM 1 sai a R$ 23,99/mês com o link de indicação, em plano de 24 meses, e renova a R$ 59,99/mês. Sem o link, R$ 29,99/mês. Os 20% valem só no primeiro período e não somam com outros cupons."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 17/11/2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, lidas em 28/10/2026, e a experiência do site é só a da hospedagem gerenciada."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "O código de indicação já vai no link: os 20% valem só no primeiro período, em planos de 12 meses ou mais, e não somam com outros cupons.",
+      "label": "Ver os planos com o link de indicação",
+      "url": "https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Compras pelo link de indicação podem gerar crédito na Hostinger para o Bruno, sem custo extra para você. Não testamos VPS.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-gerenciado-ou-vps",
+        "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve"
+      },
+      {
+        "slug": "hostinger-e-confiavel",
+        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      },
+      {
+        "slug": "black-friday-hostinger",
+        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "slug": "vps-or-shared-hosting-which-to-choose",
+    "locale": "en",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS or shared hosting: which one pays off for your site on Hostinger",
+    "seoTitle": "VPS or shared hosting: which to choose",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "An ordinary site does fine on shared hosting; a VPS only for your own system, reserved resources or root. Scenario chart, KVM specs and US dollar prices from October 28, 2026, with renewal.",
+    "metaDescription": "VPS or shared hosting on Hostinger: what each one is, a scenario chart, KVM 1 to 8 specs, what maintenance stays with you, and the October 28, 2026 prices in US dollars with renewal alongside.",
+    "publishedAt": "October 28, 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Hostinger logo with the icons of an ordinary site and of a server, facing each other",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "For an ordinary site, a blog, a portfolio or a small shop, shared hosting does the job and costs less. A VPS only pays off when the site needs a system installed outside the control panel, reserved CPU and memory, or root access. The renewal bill changes the choice; see the prices and the verdict below."
+        ]
+      },
+      {
+        "heading": "What each one is",
+        "paragraphs": [
+          "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. On Hostinger's international site, these are the Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
+          "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk. Hostinger hands you the machine with the operating system and root access, the user that can do anything. From there on, installing the web server, the database and the certificate, updating and securing the server are your jobs. On Hostinger, these are the KVM 1, 2, 4 and 8 plans.",
+          "The difference is not \"better or worse\". It is who looks after the server and how much of its resources are reserved for you."
+        ]
+      },
+      {
+        "heading": "Which to choose, by scenario",
+        "paragraphs": [
+          "Before you look at prices, answer three questions. If the answer is \"no\" to all three, shared hosting will do."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+        "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+        "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages read on October 28, 2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Scenario",
+            "Shared hosting",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, portfolio or company site in WordPress",
+              "Yes. It is the plan's typical use",
+              "Not needed"
+            ],
+            [
+              "Small WordPress shop (WooCommerce)",
+              "Yes, minding the plan: more products and visits call for Premium or Unlimited",
+              "Only if the shop grows a lot"
+            ],
+            [
+              "Node.js site",
+              "Yes. The Premium plan lists Node.js, and this site runs that way",
+              "Not needed"
+            ],
+            [
+              "Several sites or professional email",
+              "Yes. Premium lists up to 3 sites, and Unlimited includes email",
+              "Not needed"
+            ],
+            [
+              "Your own system, with a program or database that is not in the control panel",
+              "No",
+              "Yes. It is the classic VPS case"
+            ],
+            [
+              "Dashboard, bot or automation running all day (n8n, Docker)",
+              "No",
+              "Yes, with root and Docker"
+            ],
+            [
+              "Site with a heavy plugin or traffic spikes",
+              "Cloud Startup, before thinking about a VPS",
+              "Yes, if Cloud is not enough"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "What each shared plan includes changes with each campaign. Check on Hostinger's page what each one includes before you buy."
+        ]
+      },
+      {
+        "heading": "The VPS plans: KVM 1 to 8",
+        "paragraphs": [
+          "The four KVM plans differ only in size. Specs read on Hostinger's VPS page on October 28, 2026. The prices are those of the international site, in US dollars, for 24-month plans with the referral link applied, with renewal alongside; in your country, Hostinger may show another currency and taxes, so check the cart before you pay."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "vCPU",
+            "RAM",
+            "Disk",
+            "With the referral",
+            "Renewal"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$5.19/month",
+              "US$11.99/month"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$7.03/month",
+              "US$14.99/month"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "US$10.39/month",
+              "US$28.99/month"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "US$20.79/month",
+              "US$49.99/month"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "For an ordinary site that does need a VPS, KVM 1 is the starting point: 4 GB of RAM is enough for a WordPress or a small system. KVM 2 comes in when you will run more than one program on the same machine. KVM 4 and 8 are for a bigger system, a large database or several applications.",
+          "With the link, the 20% applies **only to the first period** and **does not stack with other coupons**; the page already shows the discount applied. Renewal is charged at the normal price shown next to each plan."
+        ]
+      },
+      {
+        "heading": "Maintenance: what stays with you",
+        "paragraphs": [
+          "This is the part the price does not show. On shared hosting, Hostinger maintains the server and the control panel; you look after your site (theme, plugins, content). The Premium plan lists weekly backups, and Unlimited includes priority support.",
+          "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security stay with the customer. In practice, it becomes your list:"
+        ],
+        "bullets": [
+          "**Install and configure** the web server, the database and the SSL certificate.",
+          "**Update** the operating system and the programs, from time to time.",
+          "**Protect**: firewall, open ports, passwords and access keys.",
+          "**Back up**, and know how to restore.",
+          "**Fix it** when the site goes down outside business hours."
+        ],
+        "postParagraphs": [
+          "If you have never opened a terminal, this has a cost: either learning time, or someone to do it for you. For an ordinary site, that cost is usually bigger than the price gap between the plans."
+        ]
+      },
+      {
+        "heading": "Price and renewal: the real bill",
+        "paragraphs": [
+          "Shared hosting is sold as a 48-month plan; the VPS, as a 24-month plan. Both charge the whole period up front. Prices read on October 28, 2026, with the referral link applied, with renewal alongside:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "With the referral",
+            "Period total",
+            "Renewal"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+              "US$1.99/month",
+              "US$95.52",
+              "US$10.99/month"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+              "US$2.79/month",
+              "US$133.92",
+              "US$16.99/month"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 months)",
+              "US$6.39/month",
+              "US$306.72",
+              "US$25.99/month"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 months)",
+              "US$5.19/month",
+              "US$124.56",
+              "US$11.99/month"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 months)",
+              "US$7.03/month",
+              "US$168.72",
+              "US$14.99/month"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Two points change the bill. First: KVM 1 costs about two and a half times Premium per month already in the first period (US$5.19 against US$1.99). At renewal the two almost meet (US$11.99 against US$10.99), but the second point weighs more: on the VPS, the promotional price lasts 24 months; on shared hosting, 48. Over four years, Premium costs US$95.52; KVM 1, US$124.56 in the first period plus US$287.76 at renewal (24 × US$11.99), or US$412.32.",
+          "Renewal is switched on by default. See [how Hostinger charges and renews](/en/reviews/is-hostinger-legit) before you buy, and [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) for the comparison between the campaign and the link. Premium lists a free domain for the first year, as an item of the plan. Prices change with each campaign: check the amount in the cart before you pay, and see the conditions on [Hostinger's page here on the site](/en/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "When a VPS makes sense for an AI agent",
+        "paragraphs": [
+          "One case where a VPS often comes up is not a site: it is an AI assistant running all day, such as OpenClaw. There the question changes, because Hostinger also sells a managed plan for those assistants. If that is your case, the comparison is in [OpenClaw on Hostinger: managed or VPS](/en/reviews/openclaw-hostinger-managed-or-vps) and, to pick the size, in [which KVM for OpenClaw](/en/reviews/best-vps-for-openclaw). This article stays with the site server."
+        ]
+      },
+      {
+        "heading": "Verdict: VPS or shared hosting",
+        "paragraphs": [
+          "**Shared hosting** for a blog, a portfolio, a company site, a small shop and a Node.js site. It is cheaper in the first period and at renewal, and the server maintenance is Hostinger's. Among the plans, Premium is the starting point; if the site grows, Unlimited or Cloud Startup, before thinking about a VPS.",
+          "**VPS** for your own system, a program or database outside the control panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and go up if memory runs short. Count in the time to maintain the server, or the cost of someone who does it.",
+          "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but the other way round is just a new contract when the need shows up."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is split. For an ordinary site, that is rarely the bottleneck.",
+          "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you buy the VPS, set up the server and move the site over. Shared hosting does not convert into a VPS from inside the control panel.",
+          "Do I need to know Linux to run a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the control panel and no terminal is required.",
+          "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the control panel and Hostinger looks after the server.",
+          "How much does Hostinger's VPS cost? On October 28, 2026, KVM 1 was US$5.19/month with the referral link, on a 24-month plan, renewing at US$11.99/month, on the international site in US dollars. The 20% applies only to the first period and does not stack with other coupons."
+        ]
+      },
+      {
+        "heading": "Who writes this",
+        "paragraphs": [
+          "Em Casa com Cecília runs on Hostinger on managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since November 17, 2024. This text includes no VPS test: it gathers what Hostinger's pages say, read on October 28, 2026, and the site's own experience is only with managed hosting."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "The referral code is already in the link: the 20% applies only to the first period, on plans of 12 months or more, and does not stack with other coupons.",
+      "label": "See the plans with the referral link",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Purchases through the referral link may give Bruno credit with Hostinger, at no extra cost to you. We have not tested VPS.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-managed-or-vps",
+        "title": "OpenClaw on Hostinger: managed or VPS? Price, what each one requires and who it suits"
+      },
+      {
+        "slug": "is-hostinger-legit",
+        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      },
+      {
+        "slug": "hostinger-black-friday",
+        "title": "Hostinger Black Friday 2026: the campaign or the referral link, which is cheaper?"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "slug": "vps-o-hosting-compartido-cual-elegir",
+    "locale": "es",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS o hosting compartido: cuál conviene para tu sitio en Hostinger",
+    "seoTitle": "VPS o hosting compartido: cuál elegir",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Un sitio común va bien en hosting compartido; VPS solo con sistema propio, recursos reservados o root. Cuadro por escenario, specs de los KVM y precios en dólares del 28 de octubre de 2026 con la renovación.",
+    "metaDescription": "VPS o hosting compartido en Hostinger: qué es cada uno, cuadro por escenario, specs de los KVM 1 a 8, qué queda en tus manos en el mantenimiento y los precios del 28 de octubre de 2026 en dólares con la renovación al lado.",
+    "publishedAt": "28 de octubre de 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Logo de Hostinger con los iconos de un sitio común y de un servidor, uno frente al otro",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Para un sitio común, un blog, un portafolio o una tienda pequeña, el hosting compartido alcanza y cuesta menos. El VPS solo conviene cuando el sitio necesita un sistema instalado fuera del panel, CPU y memoria reservadas o acceso root. La cuenta de la renovación cambia la elección; mira el precio y el veredicto más abajo."
+        ]
+      },
+      {
+        "heading": "Qué es cada uno",
+        "paragraphs": [
+          "El **hosting compartido** es un servidor dividido entre varios clientes. Hostinger se ocupa del sistema, del servidor web y de las actualizaciones; tú entras al panel, instalas WordPress o subes los archivos del sitio y listo. En el sitio internacional de Hostinger son los planes Premium y Unlimited, más el Cloud Startup, que es la misma idea con más recursos.",
+          "El **VPS** (servidor virtual privado) es una máquina virtual solo tuya, con procesador, memoria y disco reservados. Hostinger te entrega la máquina con el sistema operativo y el acceso root, el usuario que puede hacer todo. A partir de ahí, instalar el servidor web, la base de datos y el certificado, actualizar y asegurar el servidor son tareas tuyas. En Hostinger son los planes KVM 1, 2, 4 y 8.",
+          "La diferencia no es \"mejor o peor\". Es quién cuida el servidor y cuántos recursos quedan reservados para ti."
+        ]
+      },
+      {
+        "heading": "Cuál elegir, según el escenario",
+        "paragraphs": [
+          "Antes de mirar el precio, responde tres preguntas. Si la respuesta es \"no\" en las tres, el compartido resuelve."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+        "imageAlt": "Cuadro con tres preguntas: necesitas instalar un sistema fuera del panel, necesitas CPU y memoria reservadas, necesitas acceso root; cada sí apunta a VPS, y tres no apuntan a hosting compartido",
+        "imageCaption": "Las tres preguntas que deciden entre compartido y VPS. Cuadro nuestro, a partir de las páginas de Hostinger consultadas el 28 de octubre de 2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Escenario",
+            "Compartido",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, portafolio o sitio de empresa en WordPress",
+              "Sí. Es el uso típico del plan",
+              "No hace falta"
+            ],
+            [
+              "Tienda pequeña en WordPress (WooCommerce)",
+              "Sí, con atención al plan: más productos y visitas piden Premium o Unlimited",
+              "Solo si la tienda crece mucho"
+            ],
+            [
+              "Sitio en Node.js",
+              "Sí. El plan Premium lista Node.js, y este sitio funciona así",
+              "No hace falta"
+            ],
+            [
+              "Varios sitios o correos profesionales",
+              "Sí. El Premium lista hasta 3 sitios, y el Unlimited incluye correo",
+              "No hace falta"
+            ],
+            [
+              "Sistema propio, con un programa o base de datos que no está en el panel",
+              "No",
+              "Sí. Es el caso clásico de VPS"
+            ],
+            [
+              "Panel, bot o automatización funcionando todo el día (n8n, Docker)",
+              "No",
+              "Sí, con root y Docker"
+            ],
+            [
+              "Sitio con un plugin pesado o picos de visitas",
+              "Cloud Startup, antes de pensar en VPS",
+              "Sí, si el Cloud no alcanza"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Lo que incluye cada plan compartido cambia con cada campaña. Revisa en la página de Hostinger qué trae cada uno antes de contratar."
+        ]
+      },
+      {
+        "heading": "Los planes de VPS: KVM 1 a 8",
+        "paragraphs": [
+          "Los cuatro planes KVM cambian solo de tamaño. Specs consultadas en la página de VPS de Hostinger el 28 de octubre de 2026. Los precios son los del sitio internacional, en dólares estadounidenses, para planes de 24 meses con el enlace de referido aplicado, y la renovación al lado; en tu país, Hostinger puede mostrar otra moneda e impuestos, así que revisa el carrito antes de pagar."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "vCPU",
+            "RAM",
+            "Disco",
+            "Con el referido",
+            "Renovación"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$ 5,19/mes",
+              "US$ 11,99/mes"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$ 7,03/mes",
+              "US$ 14,99/mes"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "US$ 10,39/mes",
+              "US$ 28,99/mes"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "US$ 20,79/mes",
+              "US$ 49,99/mes"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para un sitio común que de verdad necesite VPS, el KVM 1 es el punto de partida: 4 GB de RAM alcanzan para un WordPress o un sistema pequeño. El KVM 2 entra cuando vas a ejecutar más de un programa en la misma máquina. KVM 4 y 8 son para un sistema más grande, una base de datos grande o varias aplicaciones.",
+          "Con el enlace, el 20 % vale **solo para el primer período** y **no se suma a otros cupones**; la página ya muestra el descuento aplicado. La renovación se cobra al precio normal que aparece junto a cada plan."
+        ]
+      },
+      {
+        "heading": "Mantenimiento: lo que queda en tus manos",
+        "paragraphs": [
+          "Esta es la parte que el precio no muestra. En el compartido, Hostinger mantiene el servidor y el panel; tú cuidas tu sitio (tema, plugins, contenido). El plan Premium lista copias de seguridad semanales, y el Unlimited incluye soporte prioritario.",
+          "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan a cargo de quien contrata. En la práctica, se convierte en una lista tuya:"
+        ],
+        "bullets": [
+          "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL.",
+          "**Actualizar** el sistema operativo y los programas, cada cierto tiempo.",
+          "**Proteger**: firewall, puertos abiertos, contraseñas y claves de acceso.",
+          "**Hacer copias de seguridad** y saber restaurarlas.",
+          "**Resolver** cuando el sitio se caiga fuera del horario laboral."
+        ],
+        "postParagraphs": [
+          "Si nunca abriste una terminal, esto tiene un costo: de tiempo de aprendizaje o de alguien que lo haga por ti. Para un sitio común, ese costo suele ser mayor que la diferencia de precio entre los planes."
+        ]
+      },
+      {
+        "heading": "Precio y renovación: la cuenta de verdad",
+        "paragraphs": [
+          "El hosting compartido se vende en planes de 48 meses; el VPS, de 24 meses. Los dos cobran el período completo de una vez. Precios consultados el 28 de octubre de 2026, con el enlace de referido aplicado, y la renovación al lado:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plan",
+            "Con el referido",
+            "Total del período",
+            "Renovación"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "US$ 1,99/mes",
+              "US$ 95,52",
+              "US$ 10,99/mes"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "US$ 2,79/mes",
+              "US$ 133,92",
+              "US$ 16,99/mes"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 meses)",
+              "US$ 6,39/mes",
+              "US$ 306,72",
+              "US$ 25,99/mes"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+              "US$ 5,19/mes",
+              "US$ 124,56",
+              "US$ 11,99/mes"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 meses)",
+              "US$ 7,03/mes",
+              "US$ 168,72",
+              "US$ 14,99/mes"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Dos puntos cambian la cuenta. El primero: el KVM 1 cuesta unas dos veces y media el Premium por mes ya en el primer período (US$ 5,19 contra US$ 1,99). En la renovación los dos casi se igualan (US$ 11,99 contra US$ 10,99), pero pesa más el segundo punto: en el VPS, el precio promocional dura 24 meses; en el compartido, 48. En cuatro años, el Premium cuesta US$ 95,52; el KVM 1, US$ 124,56 en el primer período más US$ 287,76 en la renovación (24 × US$ 11,99), o sea US$ 412,32.",
+          "La renovación viene activada por defecto. Mira [cómo Hostinger cobra y renueva](/es/reviews/hostinger-es-confiable) antes de contratar, y [la Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) para la comparación entre la campaña y el enlace. El Premium lista dominio gratis el primer año, como parte del plan. Los precios cambian con cada campaña: confirma el importe en el carrito antes de pagar, y mira las condiciones en [la página de Hostinger aquí en el sitio](/es/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Cuándo el VPS tiene sentido para un agente de IA",
+        "paragraphs": [
+          "Un caso en el que el VPS aparece con frecuencia no es un sitio: es un asistente de IA funcionando todo el día, como OpenClaw. Ahí la pregunta cambia, porque Hostinger también vende un plan gestionado para esos asistentes. Si es tu caso, la comparación está en [OpenClaw en Hostinger: gestionado o VPS](/es/reviews/openclaw-hostinger-gestionado-o-vps) y, para elegir el tamaño, en [qué KVM para OpenClaw](/es/reviews/mejor-vps-para-openclaw). Este artículo se queda en el servidor para sitios."
+        ]
+      },
+      {
+        "heading": "Veredicto: VPS o compartido",
+        "paragraphs": [
+          "**Hosting compartido** para blog, portafolio, sitio de empresa, tienda pequeña y sitio en Node.js. Es más barato en el primer período y en la renovación, y el mantenimiento del servidor corre por cuenta de Hostinger. Entre los planes, el Premium es el punto de partida; si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
+          "**VPS** para sistema propio, programa o base de datos fuera del panel, bot o panel funcionando todo el día, o cuando necesitas root. Empieza por el KVM 1 y sube si falta memoria. Mete en la cuenta el tiempo de mantener el servidor, o el costo de quien lo haga.",
+          "**En la duda, compartido.** El VPS no se convierte en compartido después, pero lo contrario es solo un contrato nuevo cuando aparezca la necesidad."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿El VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, eso rara vez es el cuello de botella.",
+          "¿Puedo empezar en el compartido y migrar a VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde dentro del panel.",
+          "¿Necesito saber Linux para tener un VPS? Sí, lo básico de la terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no hay terminal obligatoria.",
+          "¿Un VPS soporta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
+          "¿Cuánto cuesta el VPS de Hostinger? El 28 de octubre de 2026, el KVM 1 costaba US$ 5,19/mes con el enlace de referido, en un plan de 24 meses, y se renueva a US$ 11,99/mes, en el sitio internacional en dólares. El 20 % vale solo para el primer período y no se suma a otros cupones."
+        ]
+      },
+      {
+        "heading": "Quién escribe",
+        "paragraphs": [
+          "Em Casa com Cecília funciona sobre Hostinger en hosting gestionado, como Node.js Web App, y el dominio está registrado en Hostinger desde el 17 de noviembre de 2024. Este texto no incluye una prueba de VPS: reúne lo que dicen las páginas de Hostinger, consultadas el 28 de octubre de 2026, y la experiencia del sitio es solo la del hosting gestionado."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "El código de referido ya va en el enlace: el 20 % vale solo para el primer período, en planes de 12 meses o más, y no se suma a otros cupones.",
+      "label": "Ver los planes con el enlace de referido",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Las compras con el enlace de referido pueden darle a Bruno un crédito en Hostinger, sin costo extra para ti. No probamos VPS.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-gestionado-o-vps",
+        "title": "OpenClaw en Hostinger: gestionado o VPS? Precio, qué exige cada uno y para quién sirve"
+      },
+      {
+        "slug": "hostinger-es-confiable",
+        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+      },
+      {
+        "slug": "black-friday-hostinger-ofertas",
+        "title": "Black Friday Hostinger 2026: la promoción o el enlace de referido, ¿cuál sale más barato?"
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "slug": "vps-ou-hebergement-mutualise",
+    "locale": "fr",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger",
+    "seoTitle": "VPS ou hébergement mutualisé : lequel choisir",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Un site ordinaire est bien servi par l'hébergement mutualisé ; le VPS ne vaut que pour un système à soi, des ressources réservées ou l'accès root. Tableau par scénario, specs des KVM et prix en dollars du 28 octobre 2026 avec le renouvellement.",
+    "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chaque option, un tableau par scénario, les specs des KVM 1 à 8, ce qui reste à votre charge en maintenance et les prix du 28 octobre 2026 en dollars, renouvellement compris.",
+    "publishedAt": "28 octobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Logo Hostinger avec les icônes d'un site ordinaire et d'un serveur, face à face",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pour un site ordinaire, un blog, un portfolio ou une petite boutique, l'hébergement mutualisé suffit et coûte moins cher. Le VPS ne vaut le coup que si le site a besoin d'un système installé hors du panneau, de CPU et de mémoire réservés ou d'un accès root. La facture au renouvellement change le choix ; voyez les prix et le verdict plus bas."
+        ]
+      },
+      {
+        "heading": "Ce qu'est chaque option",
+        "paragraphs": [
+          "L'**hébergement mutualisé**, c'est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Sur le site international de Hostinger, ce sont les forfaits Premium et Unlimited, plus le Cloud Startup, la même idée avec plus de ressources.",
+          "Le **VPS** (serveur privé virtuel) est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés. Hostinger livre la machine avec le système d'exploitation et l'accès root, l'utilisateur qui peut tout faire. À partir de là, installer le serveur web, la base de données et le certificat, mettre à jour et sécuriser le serveur, c'est à vous. Chez Hostinger, ce sont les forfaits KVM 1, 2, 4 et 8.",
+          "La différence n'est pas « mieux ou moins bien ». C'est qui s'occupe du serveur, et quelle part des ressources vous est réservée."
+        ]
+      },
+      {
+        "heading": "Lequel choisir, selon le scénario",
+        "paragraphs": [
+          "Avant de regarder les prix, répondez à trois questions. Si la réponse est « non » aux trois, le mutualisé suffit."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+        "imageAlt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il un accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
+        "imageCaption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau fait par nous, d'après les pages de Hostinger relevées le 28 octobre 2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Scénario",
+            "Mutualisé",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, portfolio ou site d'entreprise sous WordPress",
+              "Oui. C'est l'usage typique du forfait",
+              "Pas nécessaire"
+            ],
+            [
+              "Petite boutique WordPress (WooCommerce)",
+              "Oui, en surveillant le forfait : plus de produits et de visites demandent Premium ou Unlimited",
+              "Seulement si la boutique grossit beaucoup"
+            ],
+            [
+              "Site en Node.js",
+              "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
+              "Pas nécessaire"
+            ],
+            [
+              "Plusieurs sites ou e-mails professionnels",
+              "Oui. Le Premium liste jusqu'à 3 sites, et l'Unlimited inclut l'e-mail",
+              "Pas nécessaire"
+            ],
+            [
+              "Système à vous, avec un programme ou une base de données absents du panneau",
+              "Non",
+              "Oui. C'est le cas classique du VPS"
+            ],
+            [
+              "Tableau de bord, bot ou automatisation qui tourne toute la journée (n8n, Docker)",
+              "Non",
+              "Oui, avec root et Docker"
+            ],
+            [
+              "Site avec un plugin lourd ou des pics de trafic",
+              "Cloud Startup, avant de penser au VPS",
+              "Oui, si le Cloud ne suffit pas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Ce que chaque forfait mutualisé inclut change à chaque campagne. Vérifiez sur la page de Hostinger ce que chacun comprend avant de souscrire."
+        ]
+      },
+      {
+        "heading": "Les forfaits VPS : KVM 1 à 8",
+        "paragraphs": [
+          "Les quatre forfaits KVM ne changent que de taille. Specs relevées sur la page VPS de Hostinger le 28 octobre 2026. Les prix sont ceux du site international, en dollars américains, pour des forfaits de 24 mois avec le lien de parrainage appliqué, renouvellement à côté ; dans votre pays, Hostinger peut afficher une autre devise et d'autres taxes, vérifiez donc le panier avant de payer."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "vCPU",
+            "RAM",
+            "Disque",
+            "Avec le parrainage",
+            "Renouvellement"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 Go",
+              "50 Go",
+              "5,19 US$/mois",
+              "11,99 US$/mois"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 Go",
+              "100 Go",
+              "7,03 US$/mois",
+              "14,99 US$/mois"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 Go",
+              "200 Go",
+              "10,39 US$/mois",
+              "28,99 US$/mois"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 Go",
+              "400 Go",
+              "20,79 US$/mois",
+              "49,99 US$/mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pour un site ordinaire qui a vraiment besoin d'un VPS, le KVM 1 est le point de départ : 4 Go de RAM suffisent pour un WordPress ou un petit système. Le KVM 2 entre en jeu quand vous ferez tourner plus d'un programme sur la même machine. KVM 4 et 8 sont pour un système plus gros, une grande base de données ou plusieurs applications.",
+          "Avec le lien, les 20 % ne valent **que pour la première période** et **ne se cumulent pas avec d'autres codes promo** ; la page affiche déjà la réduction appliquée. Le renouvellement se fait au prix normal indiqué à côté de chaque forfait."
+        ]
+      },
+      {
+        "heading": "Maintenance : ce qui reste à votre charge",
+        "paragraphs": [
+          "C'est la partie que le prix ne montre pas. En mutualisé, Hostinger entretient le serveur et le panneau ; vous vous occupez de votre site (thème, plugins, contenu). Le forfait Premium liste des sauvegardes hebdomadaires, et l'Unlimited inclut un support prioritaire.",
+          "Sur un VPS, Hostinger dit sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur reviennent au client. En pratique, cela devient votre liste :"
+        ],
+        "bullets": [
+          "**Installer et configurer** le serveur web, la base de données et le certificat SSL.",
+          "**Mettre à jour** le système d'exploitation et les programmes, de temps en temps.",
+          "**Protéger** : pare-feu, ports ouverts, mots de passe et clés d'accès.",
+          "**Sauvegarder**, et savoir restaurer.",
+          "**Dépanner** quand le site tombe en dehors des heures de bureau."
+        ],
+        "postParagraphs": [
+          "Si vous n'avez jamais ouvert un terminal, cela a un coût : du temps d'apprentissage, ou quelqu'un qui le fait pour vous. Pour un site ordinaire, ce coût dépasse souvent l'écart de prix entre les forfaits."
+        ]
+      },
+      {
+        "heading": "Prix et renouvellement : la vraie facture",
+        "paragraphs": [
+          "L'hébergement mutualisé se vend en forfait de 48 mois ; le VPS, en 24 mois. Les deux facturent toute la période d'un coup. Prix relevés le 28 octobre 2026, avec le lien de parrainage appliqué, renouvellement à côté :"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Forfait",
+            "Avec le parrainage",
+            "Total de la période",
+            "Renouvellement"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+              "1,99 US$/mois",
+              "95,52 US$",
+              "10,99 US$/mois"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+              "2,79 US$/mois",
+              "133,92 US$",
+              "16,99 US$/mois"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mois)",
+              "6,39 US$/mois",
+              "306,72 US$",
+              "25,99 US$/mois"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mois)",
+              "5,19 US$/mois",
+              "124,56 US$",
+              "11,99 US$/mois"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mois)",
+              "7,03 US$/mois",
+              "168,72 US$",
+              "14,99 US$/mois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Deux points changent la facture. Le premier : le KVM 1 coûte environ deux fois et demie le Premium par mois dès la première période (5,19 US$ contre 1,99 US$). Au renouvellement, les deux se rejoignent presque (11,99 US$ contre 10,99 US$), mais le second point pèse plus : sur le VPS, le prix promotionnel dure 24 mois ; en mutualisé, 48. Sur quatre ans, le Premium coûte 95,52 US$ ; le KVM 1, 124,56 US$ pour la première période plus 287,76 US$ au renouvellement (24 × 11,99 US$), soit 412,32 US$.",
+          "Le renouvellement est activé par défaut. Voyez [comment Hostinger facture et renouvelle](/fr/reviews/hostinger-est-il-fiable) avant de souscrire, et [la Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) pour la comparaison entre la campagne et le lien. Le Premium liste un domaine gratuit la première année, comme élément du forfait. Les prix changent à chaque campagne : vérifiez le montant dans le panier avant de payer, et voyez les conditions sur [la page Hostinger ici sur le site](/fr/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quand le VPS a du sens pour un agent d'IA",
+        "paragraphs": [
+          "Un cas où le VPS revient souvent n'est pas un site : c'est un assistant d'IA qui tourne toute la journée, comme OpenClaw. Là, la question change, parce que Hostinger vend aussi une offre gérée pour ces assistants. Si c'est votre cas, la comparaison est dans [OpenClaw chez Hostinger : géré ou VPS](/fr/reviews/openclaw-hostinger-gere-ou-vps) et, pour choisir la taille, dans [quel KVM pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw). Cet article reste sur le serveur de site."
+        ]
+      },
+      {
+        "heading": "Verdict : VPS ou mutualisé",
+        "paragraphs": [
+          "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise, une petite boutique et un site en Node.js. Il coûte moins cher la première période et au renouvellement, et la maintenance du serveur revient à Hostinger. Parmi les forfaits, le Premium est le point de départ ; si le site grossit, Unlimited ou Cloud Startup, avant de penser au VPS.",
+          "**VPS** pour un système à vous, un programme ou une base de données hors du panneau, un bot ou un tableau de bord qui tourne toute la journée, ou quand il vous faut root. Commencez par le KVM 1 et montez si la mémoire manque. Comptez le temps d'entretien du serveur, ou le coût de la personne qui s'en charge.",
+          "**Dans le doute, le mutualisé.** Un VPS ne redevient pas du mutualisé ensuite, alors que l'inverse n'est qu'un nouveau contrat quand le besoin apparaît."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Un VPS est-il plus rapide que l'hébergement mutualisé ? Nous n'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors qu'en mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
+          "Puis-je commencer en mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et déplacez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
+          "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. En mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
+          "Un VPS peut-il faire tourner WordPress ? Oui, mais vous installez et entretenez le serveur web, PHP et la base de données. En mutualisé, WordPress est prêt dans le panneau et Hostinger s'occupe du serveur.",
+          "Combien coûte le VPS de Hostinger ? Le 28 octobre 2026, le KVM 1 était à 5,19 US$/mois avec le lien de parrainage, en forfait de 24 mois, et se renouvelle à 11,99 US$/mois, sur le site international en dollars. Les 20 % ne valent que pour la première période et ne se cumulent pas avec d'autres codes promo."
+        ]
+      },
+      {
+        "heading": "Qui écrit",
+        "paragraphs": [
+          "Em Casa com Cecília tourne sur Hostinger en hébergement géré, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis le 17 novembre 2024. Ce texte ne contient aucun test de VPS : il réunit ce que disent les pages de Hostinger, relevées le 28 octobre 2026, et l'expérience du site se limite à l'hébergement géré."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Le code de parrainage est déjà dans le lien : les 20 % ne valent que pour la première période, sur des forfaits de 12 mois ou plus, et ne se cumulent pas avec d'autres codes promo.",
+      "label": "Voir les forfaits avec le lien de parrainage",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Les achats faits par le lien de parrainage peuvent donner à Bruno un crédit chez Hostinger, sans frais supplémentaires pour vous. Nous n'avons pas testé de VPS.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-gere-ou-vps",
+        "title": "OpenClaw chez Hostinger : géré ou VPS ? Prix, ce qu'exige chaque option et à qui elle convient"
+      },
+      {
+        "slug": "hostinger-est-il-fiable",
+        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      },
+      {
+        "slug": "black-friday-hostinger-offres",
+        "title": "Black Friday Hostinger 2026 : la promotion ou le lien de parrainage, lequel coûte le moins cher ?"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "slug": "vps-o-hosting-condiviso",
+    "locale": "it",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS o hosting condiviso: quale conviene per il tuo sito su Hostinger",
+    "seoTitle": "VPS o hosting condiviso: quale scegliere",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Un sito normale sta bene sull'hosting condiviso; il VPS serve solo con un sistema proprio, risorse riservate o root. Quadro per scenario, specifiche dei KVM e prezzi in dollari del 28/10/2026 con il rinnovo.",
+    "metaDescription": "VPS o hosting condiviso su Hostinger: cos'è ciascuno, quadro per scenario, specifiche dei KVM 1-8, cosa resta a te nella manutenzione e i prezzi del 28/10/2026 con il rinnovo accanto.",
+    "publishedAt": "28 ottobre 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Logo di Hostinger con le icone di un sito normale e di un server, uno di fronte all'altro",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per un sito normale, blog, portfolio o piccolo negozio, l'hosting condiviso basta e costa meno. Il VPS conviene solo quando il sito ha bisogno di un sistema installato fuori dal pannello, di CPU e memoria riservate o dell'accesso root. Il conto del rinnovo cambia la scelta; prezzo e verdetto sono più sotto."
+        ]
+      },
+      {
+        "heading": "Cos'è ciascuno",
+        "paragraphs": [
+          "**Hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
+          "**VPS** (server privato virtuale) è una macchina virtuale tutta tua, con processore, memoria e disco riservati. Hostinger consegna la macchina con il sistema operativo e l'accesso root, l'utente che può fare tutto. Da lì in poi, installare il server web, il database, il certificato, gli aggiornamenti e la sicurezza sono compiti tuoi. Su Hostinger sono i piani KVM 1, 2, 4 e 8.",
+          "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
+        ]
+      },
+      {
+        "heading": "Quale scegliere, per scenario",
+        "paragraphs": [
+          "Prima di guardare il prezzo, rispondi a tre domande. Se la risposta è «no» a tutte e tre, il condiviso basta."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+        "imageAlt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS, e tre no portano all'hosting condiviso",
+        "imageCaption": "Le tre domande che decidono tra condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger lette il 28/10/2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Scenario",
+            "Condiviso",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, portfolio o sito aziendale in WordPress",
+              "Sì. È l'uso tipico del piano",
+              "Non serve"
+            ],
+            [
+              "Piccolo negozio in WordPress (WooCommerce)",
+              "Sì, con attenzione al piano: più prodotti e visite chiedono Premium o Unlimited",
+              "Solo se il negozio cresce molto"
+            ],
+            [
+              "Sito in Node.js",
+              "Sì. Il piano Premium elenca Node.js, e questo sito gira così",
+              "Non serve"
+            ],
+            [
+              "Più siti o e-mail professionali",
+              "Sì. Il Premium elenca fino a 3 siti, e l'Unlimited include le e-mail",
+              "Non serve"
+            ],
+            [
+              "Sistema proprio, con programma o database che non è nel pannello",
+              "No",
+              "Sì. È il caso classico del VPS"
+            ],
+            [
+              "Pannello, bot o automazione che gira tutto il giorno (n8n, Docker)",
+              "No",
+              "Sì, con root e Docker"
+            ],
+            [
+              "Sito con plugin pesanti o picchi di traffico",
+              "Cloud Startup, prima di pensare al VPS",
+              "Sì, se il Cloud non basta"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le risorse di ogni piano condiviso cambiano con le campagne. Controlla sulla pagina di Hostinger cosa include ciascuno prima di acquistare."
+        ]
+      },
+      {
+        "heading": "I piani VPS: KVM 1 a 8",
+        "paragraphs": [
+          "I quattro piani KVM cambiano solo nella taglia. Specifiche lette sulla pagina VPS di Hostinger il 28/10/2026; prezzo mensile del piano da 24 mesi, con il link di invito applicato, e il rinnovo accanto. Sono i prezzi del sito internazionale in dollari, entrando dal link di invito, e possono cambiare in base al paese e alla valuta."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "vCPU",
+            "RAM",
+            "Spazio disco",
+            "Con l'invito",
+            "Rinnovo"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "5,19 USD/mese",
+              "11,99 USD/mese"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "7,03 USD/mese",
+              "14,99 USD/mese"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "10,39 USD/mese",
+              "28,99 USD/mese"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "20,79 USD/mese",
+              "49,99 USD/mese"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Per un sito normale che abbia bisogno di un VPS, il KVM 1 è il punto di partenza: 4 GB di RAM bastano per un WordPress o un sistema piccolo. Il KVM 2 entra quando farai girare più di un programma sulla stessa macchina. KVM 4 e 8 sono per sistemi più grandi, database grandi o più applicazioni.",
+          "I prezzi pieni, barrati sulla pagina, sono 19,49, 24,49, 42,99 e 73,99 USD al mese (campagna di Black Friday). Con il link, il 20% vale **solo sul primo periodo** e **non si somma ad altri coupon**. Il rinnovo è lo stesso con o senza il link."
+        ]
+      },
+      {
+        "heading": "Manutenzione: cosa resta a te",
+        "paragraphs": [
+          "È la parte che il prezzo non mostra. Nel condiviso, Hostinger mantiene il server e il pannello; tu ti occupi del tuo sito (tema, plugin, contenuti). Il piano Premium elenca i backup settimanali, e l'Unlimited include l'assistenza prioritaria.",
+          "Nel VPS, Hostinger dice sulla sua stessa pagina che, con l'accesso root, configurazione, aggiornamenti e sicurezza del server restano a chi ha acquistato. In pratica, diventa una lista tua:"
+        ],
+        "bullets": [
+          "**Installare e configurare** il server web, il database e il certificato SSL.",
+          "**Aggiornare** il sistema operativo e i programmi, di tanto in tanto.",
+          "**Proteggere**: firewall, porte aperte, password e chiavi di accesso.",
+          "**Fare i backup** e saper ripristinare.",
+          "**Intervenire** quando il sito va giù fuori dall'orario di lavoro."
+        ],
+        "postParagraphs": [
+          "Se non hai mai aperto un terminale, questo ha un costo: o di tempo per imparare, o di qualcuno che lo faccia per te. Per un sito normale, questo costo di solito supera la differenza di prezzo tra i piani."
+        ]
+      },
+      {
+        "heading": "Prezzo e rinnovo: il conto vero",
+        "paragraphs": [
+          "L'hosting condiviso si vende in piani da 48 mesi; il VPS, da 24. Entrambi addebitano l'intero periodo in una volta. Prezzi del sito internazionale in dollari, letti il 28/10/2026 con il link di invito applicato, e il rinnovo accanto:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Piano",
+            "Con l'invito",
+            "Totale del periodo",
+            "Rinnovo"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+              "1,99 USD/mese",
+              "95,52 USD",
+              "10,99 USD/mese"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+              "2,79 USD/mese",
+              "133,92 USD",
+              "16,99 USD/mese"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 mesi)",
+              "6,39 USD/mese",
+              "306,72 USD",
+              "25,99 USD/mese"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mesi)",
+              "5,19 USD/mese",
+              "124,56 USD",
+              "11,99 USD/mese"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 mesi)",
+              "7,03 USD/mese",
+              "168,72 USD",
+              "14,99 USD/mese"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Due punti cambiano il conto. Il primo: il VPS KVM 1 costa più di due volte e mezzo il Premium al mese già nel primo periodo (5,19 contro 1,99 USD); al rinnovo la distanza si riduce (11,99 contro 10,99 USD). Il secondo: nel VPS il prezzo promozionale dura 24 mesi; nel condiviso, 48. In quattro anni, il Premium costa 95,52 USD; il KVM 1, 124,56 USD nel primo periodo più 287,76 USD di rinnovo (24 × 11,99 USD), cioè 412,32 USD.",
+          "Il rinnovo è attivo di default. Guarda [come Hostinger addebita e rinnova](/it/reviews/hostinger-e-affidabile) prima di acquistare, e il [Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) per il confronto tra la campagna e il link. Il Premium elenca il dominio gratis per il primo anno, come voce del piano. I prezzi cambiano con le campagne: controlla l'importo nel carrello prima di pagare, e vedi le condizioni sulla [pagina di Hostinger qui sul sito](/it/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Quando il VPS ha senso per un agente IA",
+        "paragraphs": [
+          "Un caso in cui il VPS entra spesso non è un sito: è un assistente IA che gira tutto il giorno, come OpenClaw. Lì la domanda cambia, perché Hostinger vende anche un piano gestito per questi assistenti. Se è il tuo caso, il confronto è in [OpenClaw su Hostinger: gestito o VPS](/it/reviews/openclaw-hostinger-gestito-o-vps) e, per scegliere la taglia, in [quale KVM per OpenClaw](/it/reviews/miglior-vps-per-openclaw). Questo articolo resta sul server per siti."
+        ]
+      },
+      {
+        "heading": "Verdetto: VPS o condiviso",
+        "paragraphs": [
+          "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio e sito in Node.js. Costa meno nel primo periodo e al rinnovo, e la manutenzione del server è di Hostinger. Tra i piani, il Premium è il punto di partenza; se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS.",
+          "**VPS** per un sistema proprio, un programma o database fuori dal pannello, un bot o pannello che gira tutto il giorno, o quando ti serve root. Parti dal KVM 1 e sali se manca memoria. Metti nel conto il tempo per mantenere il server, o il costo di chi lo faccia.",
+          "**Nel dubbio, condiviso.** Il VPS non diventa condiviso dopo, ma il contrario è solo un contratto nuovo quando il bisogno arriva."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Quello che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre nel condiviso il server è diviso. Per un sito normale, raramente è questo il collo di bottiglia.",
+          "Posso partire dal condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: acquisti il VPS, installi il server e sposti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
+          "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Nel condiviso tutto passa dal pannello e non c'è un terminale obbligatorio.",
+          "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Nel condiviso, WordPress è pronto nel pannello e Hostinger si occupa del server.",
+          "Quanto costa il VPS di Hostinger? Il 28/10/2026, sul sito internazionale, il KVM 1 costa 5,19 USD al mese con il link di invito, in un piano da 24 mesi (124,56 USD in totale), e si rinnova a 11,99 USD al mese. Il 20% vale solo sul primo periodo e non si somma ad altri coupon."
+        ]
+      },
+      {
+        "heading": "Chi scrive",
+        "paragraphs": [
+          "Em Casa com Cecília gira su Hostinger in hosting gestito, come Node.js Web App, e il dominio è registrato su Hostinger dal 17/11/2024. Questo testo non contiene un test del VPS: raccoglie quello che dicono le pagine di Hostinger, lette il 28/10/2026, e l'esperienza del sito è solo quella dell'hosting gestito."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Il codice di invito è già dentro il link: lo sconto del 20% vale solo sul primo periodo, sui piani da 12 mesi in su, e non si somma ad altri coupon.",
+      "label": "Vedi i piani con il link di invito",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Gli acquisti dal link di invito possono generare un credito su Hostinger per Bruno, senza costi extra per te. Non abbiamo testato il VPS.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-gestito-o-vps",
+        "title": "OpenClaw su Hostinger: gestito o VPS? Prezzo, cosa richiede ciascuno e a chi serve"
+      },
+      {
+        "slug": "hostinger-e-affidabile",
+        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      },
+      {
+        "slug": "black-friday-hostinger-offerte",
+        "title": "Black Friday Hostinger 2026: la promozione o il link di invito, quale costa meno?"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "slug": "vps-oder-shared-hosting",
+    "locale": "de",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt",
+    "seoTitle": "VPS oder Shared Hosting: was wählen",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Eine normale Website ist im Shared Hosting gut aufgehoben; der VPS lohnt sich nur mit eigenem System, reservierten Ressourcen oder Root. Übersicht nach Szenario, Daten der KVM-Tarife und Dollarpreise vom 28.10.2026 mit Verlängerung.",
+    "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Daten der KVM 1 bis 8, was bei der Wartung an Ihnen hängen bleibt und die Preise vom 28.10.2026 mit der Verlängerung daneben.",
+    "publishedAt": "28. Oktober 2026",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Hostinger-Logo mit den Symbolen einer normalen Website und eines Servers, einander gegenüber",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Für eine normale Website, einen Blog, ein Portfolio oder einen kleinen Shop reicht Shared Hosting, und es kostet weniger. Ein VPS lohnt sich nur, wenn die Website ein System braucht, das außerhalb des Panels installiert wird, reservierte CPU und Arbeitsspeicher oder Root-Zugriff. Die Verlängerung verändert die Rechnung; Preis und Fazit stehen weiter unten."
+        ]
+      },
+      {
+        "heading": "Was beides ist",
+        "paragraphs": [
+          "**Shared Hosting** ist ein Server, den sich mehrere Kunden teilen. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
+          "**VPS** (Virtual Private Server) ist eine virtuelle Maschine nur für Sie, mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz. Hostinger liefert die Maschine mit Betriebssystem und Root-Zugriff, dem Benutzer, der alles darf. Ab da sind Webserver, Datenbank, Zertifikat, Updates und Sicherheit Ihre Aufgabe. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+          "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
+        ]
+      },
+      {
+        "heading": "Was wählen, nach Szenario",
+        "paragraphs": [
+          "Bevor Sie auf den Preis schauen, beantworten Sie drei Fragen. Lautet die Antwort dreimal „Nein“, reicht Shared Hosting."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+        "imageAlt": "Übersicht mit drei Fragen: muss ein System außerhalb des Panels installiert werden, werden reservierte CPU und Arbeitsspeicher gebraucht, wird Root-Zugriff gebraucht; jedes Ja zeigt auf VPS, und dreimal Nein zeigt auf Shared Hosting",
+        "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht nach den Hostinger-Seiten, gelesen am 28.10.2026.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "Szenario",
+            "Shared Hosting",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "Blog, Portfolio oder Firmenwebsite in WordPress",
+              "Ja. Das ist der typische Einsatz des Tarifs",
+              "Nicht nötig"
+            ],
+            [
+              "Kleiner Shop in WordPress (WooCommerce)",
+              "Ja, mit Blick auf den Tarif: mehr Produkte und Besuche verlangen Premium oder Unlimited",
+              "Nur wenn der Shop stark wächst"
+            ],
+            [
+              "Website in Node.js",
+              "Ja. Der Tarif Premium führt Node.js auf, und diese Website läuft so",
+              "Nicht nötig"
+            ],
+            [
+              "Mehrere Websites oder geschäftliche E-Mails",
+              "Ja. Premium führt bis zu 3 Websites auf, und Unlimited enthält E-Mail",
+              "Nicht nötig"
+            ],
+            [
+              "Eigenes System mit Programm oder Datenbank, die nicht im Panel sind",
+              "Nein",
+              "Ja. Der klassische Fall für einen VPS"
+            ],
+            [
+              "Panel, Bot oder Automatisierung, die den ganzen Tag läuft (n8n, Docker)",
+              "Nein",
+              "Ja, mit Root und Docker"
+            ],
+            [
+              "Website mit schweren Plugins oder Besucherspitzen",
+              "Cloud Startup, bevor Sie an einen VPS denken",
+              "Ja, wenn Cloud nicht reicht"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Leistungen der Shared-Hosting-Tarife ändern sich mit den Aktionen. Prüfen Sie auf der Hostinger-Seite, was jeder Tarif enthält, bevor Sie buchen."
+        ]
+      },
+      {
+        "heading": "Die VPS-Tarife: KVM 1 bis 8",
+        "paragraphs": [
+          "Die vier KVM-Tarife unterscheiden sich nur in der Größe. Daten von der VPS-Seite von Hostinger, gelesen am 28.10.2026; Monatspreis des 24-Monats-Tarifs mit angewendetem Empfehlungslink, die Verlängerung daneben. Es sind die Dollarpreise der internationalen Website, aufgerufen über den Empfehlungslink; je nach Land und Währung können sie abweichen."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "vCPU",
+            "RAM",
+            "Speicher",
+            "Mit Empfehlung",
+            "Verlängerung"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "5,19 USD/Monat",
+              "11,99 USD/Monat"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "7,03 USD/Monat",
+              "14,99 USD/Monat"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "10,39 USD/Monat",
+              "28,99 USD/Monat"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "20,79 USD/Monat",
+              "49,99 USD/Monat"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Für eine normale Website, die einen VPS braucht, ist der KVM 1 der Einstieg: 4 GB RAM reichen für ein WordPress oder ein kleines System. Der KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für größere Systeme, große Datenbanken oder mehrere Anwendungen.",
+          "Die durchgestrichenen Normalpreise auf der Seite liegen bei 19,49, 24,49, 42,99 und 73,99 USD pro Monat (Black-Friday-Aktion). Mit dem Link gelten die 20 % **nur im ersten Zeitraum** und **lassen sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung ist in beiden Fällen gleich."
+        ]
+      },
+      {
+        "heading": "Wartung: was an Ihnen hängen bleibt",
+        "paragraphs": [
+          "Das ist der Teil, den der Preis nicht zeigt. Im Shared Hosting hält Hostinger Server und Panel in Schuss; Sie kümmern sich um Ihre Website (Theme, Plugins, Inhalte). Der Tarif Premium führt wöchentliche Backups auf, und Unlimited enthält bevorzugten Support.",
+          "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers beim Kunden liegen. In der Praxis wird daraus Ihre Liste:"
+        ],
+        "bullets": [
+          "**Installieren und einrichten**: Webserver, Datenbank und SSL-Zertifikat.",
+          "**Aktualisieren**: Betriebssystem und Programme, in regelmäßigen Abständen.",
+          "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
+          "**Backups machen** und wissen, wie man sie zurückspielt.",
+          "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
+        ],
+        "postParagraphs": [
+          "Wer noch nie ein Terminal geöffnet hat, zahlt dafür: entweder mit Lernzeit oder mit jemandem, der das übernimmt. Bei einer normalen Website ist dieser Aufwand meist größer als der Preisunterschied zwischen den Tarifen."
+        ]
+      },
+      {
+        "heading": "Preis und Verlängerung: die echte Rechnung",
+        "paragraphs": [
+          "Shared Hosting wird in 48-Monats-Tarifen verkauft, der VPS in 24 Monaten. Beide berechnen den gesamten Zeitraum auf einmal. Dollarpreise der internationalen Website, gelesen am 28.10.2026 mit angewendetem Empfehlungslink, die Verlängerung daneben:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Tarif",
+            "Mit Empfehlung",
+            "Gesamt für den Zeitraum",
+            "Verlängerung"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+              "1,99 USD/Monat",
+              "95,52 USD",
+              "10,99 USD/Monat"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+              "2,79 USD/Monat",
+              "133,92 USD",
+              "16,99 USD/Monat"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48 Monate)",
+              "6,39 USD/Monat",
+              "306,72 USD",
+              "25,99 USD/Monat"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 Monate)",
+              "5,19 USD/Monat",
+              "124,56 USD",
+              "11,99 USD/Monat"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24 Monate)",
+              "7,03 USD/Monat",
+              "168,72 USD",
+              "14,99 USD/Monat"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Zwei Punkte verändern die Rechnung. Erstens: Der VPS KVM 1 kostet schon im ersten Zeitraum mehr als das Zweieinhalbfache des Premium pro Monat (5,19 gegenüber 1,99 USD); bei der Verlängerung schrumpft der Abstand (11,99 gegenüber 10,99 USD). Zweitens: Beim VPS gilt der Aktionspreis 24 Monate, beim Shared Hosting 48. Über vier Jahre kostet Premium 95,52 USD; der KVM 1 kostet 124,56 USD im ersten Zeitraum plus 287,76 USD für die Verlängerung (24 × 11,99 USD), also 412,32 USD.",
+          "Die Verlängerung ist standardmäßig aktiviert. Lesen Sie vor dem Kauf, [wie Hostinger abrechnet und verlängert](/de/reviews/ist-hostinger-serioes), und den [Black Friday bei Hostinger](/de/reviews/hostinger-black-friday-angebote) für den Vergleich zwischen Aktion und Link. Premium führt eine kostenlose Domain im ersten Jahr auf, als Bestandteil des Tarifs. Die Preise ändern sich mit den Aktionen: Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen, und die Bedingungen auf der [Hostinger-Seite hier auf der Website](/de/coupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Wann der VPS für einen KI-Agenten sinnvoll ist",
+        "paragraphs": [
+          "Ein Fall, in dem der VPS oft ins Spiel kommt, ist keine Website: ein KI-Assistent, der den ganzen Tag läuft, etwa OpenClaw. Dort stellt sich die Frage anders, weil Hostinger für solche Assistenten auch einen verwalteten Tarif verkauft. Wenn das Ihr Fall ist, steht der Vergleich in [OpenClaw bei Hostinger: verwaltet oder VPS](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) und die Größenwahl in [welcher KVM für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Dieser Artikel bleibt beim Server für Websites."
+        ]
+      },
+      {
+        "heading": "Fazit: VPS oder Shared Hosting",
+        "paragraphs": [
+          "**Shared Hosting** für Blog, Portfolio, Firmenwebsite, kleinen Shop und Website in Node.js. Es ist im ersten Zeitraum und bei der Verlängerung günstiger, und die Serverwartung liegt bei Hostinger. Unter den Tarifen ist Premium der Einstieg; wächst die Website, dann Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
+          "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit dem KVM 1 und gehen Sie höher, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Serverpflege mit ein, oder die Kosten für jemanden, der das übernimmt.",
+          "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zu Shared Hosting, aber der umgekehrte Weg ist nur ein neuer Vertrag, wenn der Bedarf da ist."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist ein VPS schneller als Shared Hosting? Wir haben es nicht gemessen. Was der VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatz gehören Ihnen, während im Shared Hosting der Server geteilt wird. Bei einer normalen Website ist das selten der Engpass.",
+          "Kann ich mit Shared Hosting anfangen und später auf einen VPS wechseln? Ja. Es sind verschiedene Produkte: Sie buchen den VPS, richten den Server ein und ziehen mit der Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
+          "Muss ich Linux können, um einen VPS zu haben? Ja, die Grundlagen im Terminal: Programme installieren, das System aktualisieren und ein Log lesen. Im Shared Hosting läuft alles über das Panel, und ein Terminal ist nicht Pflicht.",
+          "Läuft WordPress auf einem VPS? Ja, aber Sie installieren und pflegen Webserver, PHP und Datenbank selbst. Im Shared Hosting liegt WordPress fertig im Panel, und Hostinger betreut den Server.",
+          "Was kostet der VPS von Hostinger? Am 28.10.2026 kostet der KVM 1 auf der internationalen Website 5,19 USD pro Monat mit dem Empfehlungslink, im 24-Monats-Tarif (124,56 USD insgesamt), und verlängert sich zu 11,99 USD pro Monat. Die 20 % gelten nur im ersten Zeitraum und lassen sich nicht mit anderen Rabattcodes kombinieren."
+        ]
+      },
+      {
+        "heading": "Wer schreibt",
+        "paragraphs": [
+          "Em Casa com Cecília läuft bei Hostinger im verwalteten Hosting, als Node.js Web App, und die Domain ist seit dem 17.11.2024 bei Hostinger registriert. Dieser Text enthält keinen VPS-Test: Er fasst zusammen, was die Hostinger-Seiten sagen, gelesen am 28.10.2026, und die Erfahrung der Website beschränkt sich auf das verwaltete Hosting."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen ab 12 Monaten, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+      "label": "Die Tarife mit Empfehlungslink ansehen",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Wir haben keinen VPS getestet.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-verwaltet-oder-vps",
+        "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Preis, was jede Option verlangt und für wen sie passt"
+      },
+      {
+        "slug": "ist-hostinger-serioes",
+        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      },
+      {
+        "slug": "hostinger-black-friday-angebote",
+        "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "slug": "vps-or-shared-hosting-ja",
+    "locale": "ja",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら",
+    "seoTitle": "VPS か共有ホスティングか：選び方",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "普通のサイトなら共有ホスティングで十分。VPS が必要なのは、独自のシステム、専用リソース、root 権限が要るときだけです。シナリオ別の表、KVM の仕様、2026年10月28日の米ドル建て料金と更新料。",
+    "metaDescription": "Hostinger の VPS と共有ホスティングの違い、シナリオ別の選び方、KVM 1〜8 の仕様、運用で自分が担う作業、2026年10月28日の料金と更新料をまとめました。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Hostinger のロゴと、向かい合う普通のサイトのアイコンとサーバーのアイコン",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "ブログ、ポートフォリオ、小さなショップなど普通のサイトなら、共有ホスティングで足り、費用も安くすみます。VPS が割に合うのは、コントロールパネルの外にシステムを入れる必要があるとき、CPU とメモリを専用で確保したいとき、root 権限が要るときだけです。更新料の計算で選択が変わるので、下の料金と結論を見てください。"
+        ]
+      },
+      {
+        "heading": "それぞれの仕組み",
+        "paragraphs": [
+          "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Premium と Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
+          "**VPS**（仮想専用サーバー）は、プロセッサー、メモリ、ディスクが専用に確保された、あなただけの仮想マシンです。Hostinger は OS と root 権限（何でもできるユーザー）付きでマシンを渡します。そこから先、ウェブサーバー、データベース、証明書の導入、アップデート、セキュリティはあなたの仕事です。Hostinger では KVM 1、2、4、8 のプランです。",
+          "違いは「どちらが優れているか」ではありません。誰がサーバーを管理するか、どれだけのリソースがあなた専用に確保されるか、です。"
+        ]
+      },
+      {
+        "heading": "シナリオ別の選び方",
+        "paragraphs": [
+          "料金を見る前に、三つの質問に答えてください。三つとも「いいえ」なら、共有ホスティングで解決します。"
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+        "imageAlt": "三つの質問の図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が必要か、root 権限が必要か。「はい」は VPS へ、三つとも「いいえ」なら共有ホスティングへ",
+        "imageCaption": "共有ホスティングと VPS を分ける三つの質問。2026年10月28日に読んだ Hostinger のページをもとにした当サイト作成の図。",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "シナリオ",
+            "共有ホスティング",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "WordPress のブログ、ポートフォリオ、会社サイト",
+              "はい。プランの典型的な使い方",
+              "不要"
+            ],
+            [
+              "WordPress の小さなショップ（WooCommerce）",
+              "はい。ただしプランに注意：商品と訪問者が増えると Premium か Unlimited",
+              "ショップが大きく成長したときだけ"
+            ],
+            [
+              "Node.js のサイト",
+              "はい。Premium プランは Node.js を掲載しており、このサイトもその方式",
+              "不要"
+            ],
+            [
+              "複数のサイトやビジネス用メール",
+              "はい。Premium は最大 3 サイト、Unlimited はメールを含む",
+              "不要"
+            ],
+            [
+              "パネルにないプログラムやデータベースを使う独自システム",
+              "いいえ",
+              "はい。VPS の典型的なケース"
+            ],
+            [
+              "一日中動くパネル、ボット、自動化（n8n、Docker）",
+              "いいえ",
+              "はい。root と Docker で"
+            ],
+            [
+              "重いプラグインやアクセス集中のあるサイト",
+              "VPS を考える前に Cloud Startup",
+              "Cloud で足りなければ、はい"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "共有ホスティングの各プランの内容はキャンペーンごとに変わります。契約前に Hostinger のページで、それぞれに何が含まれるかを確認してください。"
+        ]
+      },
+      {
+        "heading": "VPS のプラン：KVM 1〜8",
+        "paragraphs": [
+          "四つの KVM プランの違いはサイズだけです。仕様は 2026年10月28日に Hostinger の VPS ページで確認したもの。料金は 24 か月プランの月額で、紹介リンク適用後、隣に更新料を並べました。国際サイトの米ドル建て料金で、紹介リンクから入って確認しています。国や通貨によって変わることがあります。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "vCPU",
+            "RAM",
+            "ディスク",
+            "紹介リンク適用",
+            "更新"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "月 US$ 5.19",
+              "月 US$ 11.99"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "月 US$ 7.03",
+              "月 US$ 14.99"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "月 US$ 10.39",
+              "月 US$ 28.99"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "月 US$ 20.79",
+              "月 US$ 49.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "VPS が必要な普通のサイトなら、出発点は KVM 1 です。4 GB の RAM があれば WordPress や小さなシステムは動きます。同じマシンで複数のプログラムを動かすなら KVM 2。KVM 4 と 8 は、大きなシステム、大きなデータベース、複数のアプリケーション向けです。",
+          "ページで取り消し線付きで示される通常価格は、月 US$ 19.49、US$ 24.49、US$ 42.99、US$ 73.99 です（ブラックフライデーのキャンペーン）。リンクの 20% は**最初の期間だけ**で、**ほかのクーポンとは併用できません**。更新料はどちらの場合も同じです。"
+        ]
+      },
+      {
+        "heading": "運用：自分が担う作業",
+        "paragraphs": [
+          "ここは料金には表れない部分です。共有ホスティングでは、サーバーとパネルは Hostinger が維持し、あなたは自分のサイト（テーマ、プラグイン、コンテンツ）を管理します。Premium プランには週次バックアップが掲載され、Unlimited には優先サポートが含まれます。",
+          "VPS については、Hostinger 自身がページで、root 権限がある以上、サーバーの設定、アップデート、セキュリティは契約者側の責任だと書いています。実際には、次があなたのリストになります："
+        ],
+        "bullets": [
+          "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書。",
+          "**アップデート**：OS とプログラムを定期的に。",
+          "**保護**：ファイアウォール、開いているポート、パスワードとアクセスキー。",
+          "**バックアップ**を取り、復元の方法を知っておく。",
+          "**対応**：営業時間外にサイトが落ちたとき。"
+        ],
+        "postParagraphs": [
+          "ターミナルを開いたことがないなら、ここにコストがかかります。学ぶ時間か、代わりにやってくれる人への支払いです。普通のサイトでは、このコストがプラン間の料金差より大きくなるのが普通です。"
+        ]
+      },
+      {
+        "heading": "料金と更新：本当の計算",
+        "paragraphs": [
+          "共有ホスティングは 48 か月プラン、VPS は 24 か月プランで販売されています。どちらも期間全体の料金を一度に請求します。国際サイトの米ドル建て料金を 2026年10月28日に紹介リンク適用で確認し、隣に更新料を並べました："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン",
+            "紹介リンク適用",
+            "期間の合計",
+            "更新"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+              "月 US$ 1.99",
+              "US$ 95.52",
+              "月 US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+              "月 US$ 2.79",
+              "US$ 133.92",
+              "月 US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 か月）",
+              "月 US$ 6.39",
+              "US$ 306.72",
+              "月 US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+              "月 US$ 5.19",
+              "US$ 124.56",
+              "月 US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 か月）",
+              "月 US$ 7.03",
+              "US$ 168.72",
+              "月 US$ 14.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "計算を変える点が二つあります。一つ目：VPS の KVM 1 は最初の期間から月額で Premium の 2.5 倍以上です（US$ 5.19 対 US$ 1.99）。更新では差が縮まります（US$ 11.99 対 US$ 10.99）。二つ目：VPS のキャンペーン価格は 24 か月、共有ホスティングは 48 か月続きます。4 年間で見ると、Premium は US$ 95.52。KVM 1 は最初の期間の US$ 124.56 に更新の US$ 287.76（24 × US$ 11.99）を足して、US$ 412.32 です。",
+          "更新は初期設定で有効になっています。契約前に [Hostinger の請求と更新の仕組み](/ja/reviews/hostinger-trust-guide-ja) を、キャンペーンと紹介リンクの比較は [Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見てください。Premium にはプランの項目として初年度無料のドメインが掲載されています。料金はキャンペーンごとに変わるので、支払う前にカートで金額を確認し、条件はサイト内の [Hostinger のページ](/ja/coupons/hostinger) でご覧ください。"
+        ]
+      },
+      {
+        "heading": "AI エージェントに VPS が向くとき",
+        "paragraphs": [
+          "VPS がよく選ばれるケースの一つはサイトではなく、OpenClaw のように一日中動く AI アシスタントです。この場合は問いが変わります。Hostinger はこうしたアシスタント向けのマネージドプランも販売しているからです。該当するなら、比較は [Hostinger の OpenClaw：マネージドか VPS か](/ja/reviews/openclaw-hostinger-managed-or-vps-ja)、サイズ選びは [OpenClaw にはどの KVM か](/ja/reviews/best-vps-for-openclaw-ja) を見てください。この記事はサイト用サーバーの話に絞ります。"
+        ]
+      },
+      {
+        "heading": "結論：VPS か共有ホスティングか",
+        "paragraphs": [
+          "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js のサイトに。最初の期間も更新も安く、サーバーの運用は Hostinger が担います。プランは Premium が出発点。サイトが成長したら、VPS を考える前に Unlimited か Cloud Startup です。",
+          "**VPS** は、独自のシステム、パネルにないプログラムやデータベース、一日中動くボットやパネル、root 権限が必要なときに。KVM 1 から始めて、メモリが足りなければ上げてください。サーバーを維持する時間か、代わりにやってくれる人の費用を計算に入れること。",
+          "**迷ったら共有ホスティング。** VPS は後から共有ホスティングにはなりませんが、その逆は必要になったときに新しく契約するだけです。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "VPS は共有ホスティングより速いですか？ 測っていません。VPS が保証するのは専用リソースで、CPU、メモリ、ディスクがあなたのものになります。共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまれです。",
+          "共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の製品なので、VPS を契約し、サーバーを設定して、サイトを移します。共有ホスティングをパネルの中で VPS に変換することはできません。",
+          "VPS を持つには Linux の知識が必要ですか？ はい、ターミナルの基本が要ります。プログラムのインストール、システムの更新、ログの読み方です。共有ホスティングではすべてパネル経由で、ターミナルは必須ではありません。",
+          "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースはあなたがインストールして維持します。共有ホスティングではパネルに WordPress が用意され、サーバーは Hostinger が管理します。",
+          "Hostinger の VPS はいくらですか？ 2026年10月28日の国際サイトでは、KVM 1 は紹介リンク適用で 24 か月プランが月 US$ 5.19（合計 US$ 124.56）、更新は月 US$ 11.99 です。20% は最初の期間だけで、ほかのクーポンとは併用できません。"
+        ]
+      },
+      {
+        "heading": "この記事を書いた人",
+        "paragraphs": [
+          "Em Casa com Cecília は Hostinger のマネージドホスティングで Node.js Web App として動いており、ドメインは 2024年11月17日から Hostinger に登録されています。この記事に VPS のテストは含まれていません。2026年10月28日に読んだ Hostinger のページの内容をまとめたもので、サイトとしての経験はマネージドホスティングに限られます。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "紹介コードはリンクに含まれています。20% は最初の期間のみ、12 か月以上のプランで有効で、ほかのクーポンとは併用できません。",
+      "label": "紹介リンクでプランを見る",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "紹介リンクからの購入で Bruno に Hostinger のクレジットが入ることがありますが、あなたに追加の費用はかかりません。VPS はテストしていません。",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-managed-or-vps-ja",
+        "title": "Hostinger の OpenClaw：マネージドか VPS か？料金、それぞれに必要なこと、向いている人"
+      },
+      {
+        "slug": "hostinger-trust-guide-ja",
+        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      },
+      {
+        "slug": "hostinger-black-friday-ja",
+        "title": "2026年 Hostinger ブラックフライデー：キャンペーンか紹介リンクか、安いのはどちら？"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "slug": "vps-or-shared-hosting-ko",
+    "locale": "ko",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS와 공유 호스팅: 호스팅어에서 내 사이트에 맞는 쪽은 어디일까",
+    "seoTitle": "VPS vs 공유 호스팅: 어느 쪽을 골라야 할까",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "일반 사이트는 공유 호스팅이면 충분하고, VPS는 직접 설치하는 시스템이나 예약된 자원, root가 필요할 때만 값을 합니다. 상황별 표, KVM 사양, 2026년 10월 28일의 가격과 갱신가.",
+    "metaDescription": "호스팅어의 VPS와 공유 호스팅: 각각 무엇인지, 상황별 표, KVM 1부터 8까지의 사양, 유지 관리에서 내가 맡는 일, 그리고 2026년 10월 28일의 달러 가격과 그 옆의 갱신가.",
+    "publishedAt": "2026년 10월 28일",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "호스팅어 로고와 일반 사이트 아이콘, 서버 아이콘이 서로 마주 보는 그림",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "블로그, 포트폴리오, 작은 쇼핑몰 같은 일반 사이트라면 공유 호스팅으로 충분하고 비용도 덜 듭니다. VPS는 패널 밖에서 시스템을 설치해야 하거나, CPU와 메모리를 내 사이트만 쓰도록 예약해야 하거나, root 접근이 필요할 때만 값을 합니다. 갱신 요금이 선택을 바꾸니, 아래의 가격과 결론을 보세요."
+        ]
+      },
+      {
+        "heading": "둘은 무엇이 다른가",
+        "paragraphs": [
+          "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 여러분은 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
+          "**VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 나만의 가상 머신입니다. 호스팅어는 운영체제와 root 접근(모든 것을 할 수 있는 사용자)을 갖춘 머신을 넘겨주고, 그다음부터 웹 서버, 데이터베이스, 인증서의 설치와 업데이트, 보안은 여러분의 일이 됩니다. 호스팅어에서는 KVM 1, 2, 4, 8 플랜입니다.",
+          "차이는 “더 좋고 나쁘고”가 아닙니다. 누가 서버를 돌보는지, 그리고 얼마만큼의 자원이 여러분 몫으로 예약되는지의 차이입니다."
+        ]
+      },
+      {
+        "heading": "상황별로 고르기",
+        "paragraphs": [
+          "가격을 보기 전에 세 가지 질문에 답해 보세요. 셋 다 “아니요”라면 공유 호스팅으로 해결됩니다."
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+        "imageAlt": "세 가지 질문이 담긴 그림: 패널 밖에서 시스템을 설치해야 하는지, CPU와 메모리를 예약해야 하는지, root 접근이 필요한지. 각 “예”는 VPS를 가리키고, 세 번의 “아니요”는 공유 호스팅을 가리킴",
+        "imageCaption": "공유 호스팅과 VPS를 가르는 세 가지 질문. 2026년 10월 28일에 읽은 호스팅어 페이지를 바탕으로 직접 만든 그림입니다.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "상황",
+            "공유 호스팅",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "WordPress로 만든 블로그, 포트폴리오, 회사 사이트",
+              "예. 플랜의 전형적인 용도",
+              "필요 없음"
+            ],
+            [
+              "WordPress의 작은 쇼핑몰(WooCommerce)",
+              "예. 다만 플랜에 주의: 상품과 방문이 늘면 Premium이나 Unlimited",
+              "쇼핑몰이 크게 성장할 때만"
+            ],
+            [
+              "Node.js 사이트",
+              "예. Premium 플랜에 Node.js가 있고, 이 사이트도 그렇게 돌아감",
+              "필요 없음"
+            ],
+            [
+              "사이트 여러 개 또는 업무용 이메일",
+              "예. Premium은 사이트 3개까지, Unlimited는 이메일 포함",
+              "필요 없음"
+            ],
+            [
+              "패널에 없는 프로그램이나 데이터베이스를 쓰는 자체 시스템",
+              "아니요",
+              "예. VPS의 전형적인 경우"
+            ],
+            [
+              "하루 종일 돌아가는 패널, 봇, 자동화(n8n, Docker)",
+              "아니요",
+              "예. root와 Docker로"
+            ],
+            [
+              "무거운 플러그인이나 접속이 몰리는 사이트",
+              "VPS를 생각하기 전에 Cloud Startup",
+              "예. Cloud로 모자랄 때"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "공유 호스팅 각 플랜의 구성은 캠페인마다 바뀝니다. 결제하기 전에 호스팅어 페이지에서 각 플랜에 무엇이 들어 있는지 확인하세요."
+        ]
+      },
+      {
+        "heading": "VPS 플랜: KVM 1부터 8까지",
+        "paragraphs": [
+          "네 가지 KVM 플랜은 크기만 다릅니다. 사양은 2026년 10월 28일에 호스팅어 VPS 페이지에서 읽었고, 가격은 추천 링크를 적용한 24개월 플랜의 월 요금이며 갱신가를 옆에 두었습니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "vCPU",
+            "RAM",
+            "디스크",
+            "추천 링크 적용",
+            "갱신가"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "월 US$ 5.19",
+              "월 US$ 11.99"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "월 US$ 7.03",
+              "월 US$ 14.99"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "월 US$ 10.39",
+              "월 US$ 28.99"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "월 US$ 20.79",
+              "월 US$ 49.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "VPS가 필요한 일반 사이트라면 KVM 1이 출발점입니다. RAM 4 GB면 WordPress 하나나 작은 시스템을 돌릴 수 있습니다. 같은 머신에서 프로그램을 둘 이상 돌릴 때 KVM 2가 필요하고, KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다.",
+          "이 가격은 추천 링크로 들어간 호스팅어 국제 사이트의 미국 달러 가격입니다(2026년 10월 28일, 블랙프라이데이 캠페인). 국가와 통화에 따라 달라질 수 있으니 결제 전에 장바구니를 확인하세요. 링크의 20%는 **첫 기간에만** 적용되고 **다른 쿠폰과 함께 쓸 수 없습니다**. 갱신가는 링크를 쓰든 안 쓰든 같습니다."
+        ]
+      },
+      {
+        "heading": "유지 관리: 내가 맡아야 하는 것",
+        "paragraphs": [
+          "가격표에는 나오지 않는 부분입니다. 공유 호스팅에서는 호스팅어가 서버와 패널을 유지하고, 여러분은 사이트(테마, 플러그인, 콘텐츠)만 돌보면 됩니다. Premium 플랜에는 주간 백업이, Unlimited에는 우선 지원이 들어 있습니다.",
+          "VPS에서는 호스팅어가 자기 페이지에서 직접 말합니다. root 접근이 있으면 서버의 설정, 업데이트, 보안은 계약한 사람의 몫이라고요. 실제로는 이런 목록이 여러분 앞에 놓입니다:"
+        ],
+        "bullets": [
+          "**설치와 설정**: 웹 서버, 데이터베이스, SSL 인증서.",
+          "**업데이트**: 운영체제와 프로그램을 때때로 최신으로.",
+          "**보호**: 방화벽, 열린 포트, 비밀번호와 접근 키.",
+          "**백업**과 복원 방법 익히기.",
+          "**복구**: 업무 시간 밖에 사이트가 멈췄을 때."
+        ],
+        "postParagraphs": [
+          "터미널을 한 번도 열어 본 적이 없다면 여기에 비용이 듭니다. 배우는 시간이든, 대신 해 줄 사람의 비용이든요. 일반 사이트라면 이 비용이 두 플랜의 가격 차이보다 큰 경우가 많습니다."
+        ]
+      },
+      {
+        "heading": "가격과 갱신: 실제 계산",
+        "paragraphs": [
+          "공유 호스팅은 48개월 플랜으로, VPS는 24개월 플랜으로 팝니다. 둘 다 기간 전체를 한 번에 결제합니다. 2026년 10월 28일에 추천 링크를 적용해 읽은 미국 달러 가격과 그 옆의 갱신가입니다:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "플랜",
+            "추천 링크 적용",
+            "기간 총액",
+            "갱신가"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+              "월 US$ 1.99",
+              "US$ 95.52",
+              "월 US$ 10.99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+              "월 US$ 2.79",
+              "US$ 133.92",
+              "월 US$ 16.99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS) (48개월)",
+              "월 US$ 6.39",
+              "US$ 306.72",
+              "월 US$ 25.99"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24개월)",
+              "월 US$ 5.19",
+              "US$ 124.56",
+              "월 US$ 11.99"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS) (24개월)",
+              "월 US$ 7.03",
+              "US$ 168.72",
+              "월 US$ 14.99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "두 가지가 계산을 바꿉니다. 첫째, VPS KVM 1은 첫 기간부터 월 요금이 Premium의 두 배 반이 넘습니다(US$ 5.19 대 US$ 1.99). 갱신가에서는 둘이 거의 만나지만(US$ 11.99 대 US$ 10.99), 그래도 VPS가 조금 더 비쌉니다. 둘째, VPS의 할인가는 24개월, 공유 호스팅은 48개월 동안 이어집니다. 4년으로 보면 Premium은 US$ 95.52이고, KVM 1은 첫 기간 US$ 124.56에 갱신 US$ 287.76(24 × US$ 11.99)을 더한 US$ 412.32입니다.",
+          "갱신은 기본으로 켜져 있습니다. 계약 전에 [호스팅어가 결제하고 갱신하는 방식](/ko/reviews/hostinger-trust-guide-ko)을 보고, 캠페인과 링크의 비교는 [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)에서 확인하세요. Premium에는 플랜 항목으로 첫해 무료 도메인이 들어 있습니다. 가격은 캠페인마다 바뀌니 결제 전에 장바구니의 금액을 확인하고, 조건은 사이트의 [호스팅어 페이지](/ko/coupons/hostinger)에서 보세요."
+        ]
+      },
+      {
+        "heading": "AI 에이전트에는 VPS가 맞을 때",
+        "paragraphs": [
+          "VPS가 자주 등장하는 또 하나의 경우는 사이트가 아니라, OpenClaw처럼 하루 종일 돌아가는 AI 어시스턴트입니다. 이때는 질문이 달라집니다. 호스팅어가 이런 어시스턴트용 관리형 플랜도 팔기 때문입니다. 그 경우라면 비교는 [호스팅어의 OpenClaw: 관리형인가 VPS인가](/ko/reviews/openclaw-hostinger-managed-or-vps-ko)에, 크기 고르기는 [OpenClaw에 맞는 KVM 플랜](/ko/reviews/best-vps-for-openclaw-ko)에 있습니다. 이 글은 사이트용 서버에 머뭅니다."
+        ]
+      },
+      {
+        "heading": "결론: VPS인가 공유 호스팅인가",
+        "paragraphs": [
+          "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트에 맞습니다. 첫 기간에 훨씬 저렴하고 갱신가도 조금 낮으며, 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요.",
+          "**VPS**는 자체 시스템, 패널에 없는 프로그램이나 데이터베이스, 하루 종일 돌아가는 봇이나 패널, 또는 root가 필요할 때 맞습니다. KVM 1에서 시작해 메모리가 모자라면 올리세요. 서버를 관리하는 시간이나 대신 해 줄 사람의 비용도 계산에 넣어야 합니다.",
+          "**망설여진다면 공유 호스팅입니다.** VPS는 나중에 공유 호스팅으로 바뀌지 않지만, 반대 방향은 필요가 생겼을 때 새 계약 하나면 됩니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "VPS가 공유 호스팅보다 빠른가요? 측정하지 않았습니다. VPS가 보장하는 것은 예약된 자원입니다. CPU, 메모리, 디스크가 여러분 것이고, 공유 호스팅에서는 서버를 나눠 씁니다. 일반 사이트에서 이것이 병목이 되는 일은 드뭅니다.",
+          "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 둘은 다른 상품이라, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅이 패널 안에서 VPS로 바뀌지는 않습니다.",
+          "VPS를 쓰려면 리눅스를 알아야 하나요? 네, 터미널의 기본은 알아야 합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 정도입니다. 공유 호스팅에서는 모든 것이 패널을 거치고 터미널이 필수는 아닙니다.",
+          "VPS에서 WordPress를 돌릴 수 있나요? 돌릴 수 있지만 웹 서버, PHP, 데이터베이스를 직접 설치하고 유지해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
+          "호스팅어 VPS 가격은 얼마인가요? 2026년 10월 28일 기준으로 KVM 1은 추천 링크를 적용한 24개월 플랜에서 월 US$ 5.19이고, 갱신가는 월 US$ 11.99입니다. 20%는 첫 기간에만 적용되고 다른 쿠폰과 함께 쓸 수 없습니다."
+        ]
+      },
+      {
+        "heading": "작성자 소개",
+        "paragraphs": [
+          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년 11월 17일부터 호스팅어에 등록되어 있습니다. 이 글에는 VPS 테스트가 없습니다. 2026년 10월 28일에 읽은 호스팅어 페이지의 내용을 모았고, 사이트의 경험은 관리형 호스팅에 한합니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 코드는 링크에 이미 적용되어 있습니다. 20% 할인은 첫 기간에만, 12개월 이상 플랜에 적용되고 다른 쿠폰과 겹쳐 쓸 수 없습니다.",
+      "label": "추천 링크로 플랜 보기",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "추천 링크로 구매하면 여러분에게 추가 비용 없이 Bruno에게 호스팅어 크레딧이 생길 수 있습니다. VPS는 테스트하지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-managed-or-vps-ko",
+        "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 가격, 방식별 필요한 작업, 맞는 사람"
+      },
+      {
+        "slug": "hostinger-trust-guide-ko",
+        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      },
+      {
+        "slug": "hostinger-black-friday-ko",
+        "title": "2026 Hostinger 블랙프라이데이: 프로모션일까, 추천 링크일까? 어느 쪽이 더 저렴할까?"
+      }
+    ]
+  },
+  {
+    "id": 684,
+    "slug": "vps-or-shared-hosting-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS 还是共享主机：在 Hostinger 上哪种更适合你的网站",
+    "seoTitle": "VPS 还是共享主机：该选哪一种",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "普通网站用共享主机就够了；只有需要自装系统、独享资源或 root 时才值得上 VPS。按场景的表格、KVM 规格，以及 2026年10月28日的价格和续费价。",
+    "metaDescription": "Hostinger 的 VPS 与共享主机：各是什么、按场景的表格、KVM 1 到 8 的规格、维护中哪些要你自己做，以及 2026年10月28日的美元价格和旁边的续费价。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Hostinger 标志，配上一个普通网站图标和一个服务器图标，两者相对",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "博客、作品集或小型网店这类普通网站，共享主机就够用，也更便宜。只有当网站需要在面板之外安装系统、需要独享的 CPU 和内存，或需要 root 权限时，VPS 才划算。续费的账会改变选择，请看下面的价格和结论。"
+        ]
+      },
+      {
+        "heading": "两者各是什么",
+        "paragraphs": [
+          "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
+          "**VPS**（虚拟专用服务器）是一台只属于你的虚拟机，处理器、内存和硬盘都是预留的。Hostinger 交付的是带操作系统和 root 权限（什么都能做的用户）的机器。从那以后，安装 Web 服务器、数据库、证书，做更新和安全，都是你的事。在 Hostinger，这是 KVM 1、2、4 和 8 套餐。",
+          "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
+        ]
+      },
+      {
+        "heading": "按场景选择",
+        "paragraphs": [
+          "看价格之前，先回答三个问题。如果三个都是“否”，共享主机就够了。"
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+        "imageAlt": "三个问题的图：是否需要在面板之外安装系统、是否需要独享的 CPU 和内存、是否需要 root 权限；每个“是”都指向 VPS，三个“否”指向共享主机",
+        "imageCaption": "决定共享主机还是 VPS 的三个问题。我们自制的图，依据 2026年10月28日读取的 Hostinger 页面。",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "场景",
+            "共享主机",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "用 WordPress 做的博客、作品集或公司网站",
+              "可以。这是套餐的典型用途",
+              "不需要"
+            ],
+            [
+              "WordPress 小型网店（WooCommerce）",
+              "可以，但要留意套餐：商品和访问多了要用 Premium 或 Unlimited",
+              "只有店铺做大很多时才需要"
+            ],
+            [
+              "Node.js 网站",
+              "可以。Premium 套餐列有 Node.js，本站就是这样运行的",
+              "不需要"
+            ],
+            [
+              "多个网站或企业邮箱",
+              "可以。Premium 列有最多 3 个网站，Unlimited 含邮箱",
+              "不需要"
+            ],
+            [
+              "自有系统，用到面板里没有的程序或数据库",
+              "不行",
+              "可以。这是 VPS 的典型场景"
+            ],
+            [
+              "整天运行的面板、机器人或自动化（n8n、Docker）",
+              "不行",
+              "可以，有 root 和 Docker"
+            ],
+            [
+              "插件很重或访问有高峰的网站",
+              "先用 Cloud Startup，再考虑 VPS",
+              "可以，如果 Cloud 不够用"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "各个共享主机套餐的内容会随活动变化。下单前请到 Hostinger 页面确认每个套餐包含什么。"
+        ]
+      },
+      {
+        "heading": "VPS 套餐：KVM 1 到 KVM 8",
+        "paragraphs": [
+          "四个 KVM 套餐只是大小不同。规格于 2026年10月28日从 Hostinger 的 VPS 页面读取；价格是 24 个月套餐、套用推荐链接后的月费，续费价列在旁边。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "vCPU",
+            "RAM",
+            "硬盘",
+            "含推荐链接",
+            "续费"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$ 5.19/月",
+              "US$ 11.99/月"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$ 7.03/月",
+              "US$ 14.99/月"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "US$ 10.39/月",
+              "US$ 28.99/月"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "US$ 20.79/月",
+              "US$ 49.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "普通网站如果确实需要 VPS，KVM 1 是起点：4 GB 内存够跑一个 WordPress 或一个小系统。要在同一台机器上跑不止一个程序时，才用到 KVM 2。KVM 4 和 KVM 8 面向更大的系统、大数据库或多个应用。",
+          "这些是通过推荐链接进入 Hostinger 国际站看到的美元价格（2026年10月28日，黑色星期五活动期间）。不同国家和货币可能不同，付款前请到购物车确认。链接的 20% **只适用于首期**，**不能与其他优惠券叠加**。续费价用不用链接都一样。"
+        ]
+      },
+      {
+        "heading": "维护：哪些要你自己做",
+        "paragraphs": [
+          "这是价格表看不出来的部分。共享主机上，Hostinger 维护服务器和面板，你只管自己的网站（主题、插件、内容）。Premium 套餐列有每周备份，Unlimited 含优先支持。",
+          "VPS 上，Hostinger 在自己的页面上就说明：有了 root 权限，服务器的配置、更新和安全都由购买者负责。实际上，它会变成你的一张清单："
+        ],
+        "bullets": [
+          "**安装和配置** Web 服务器、数据库和 SSL 证书。",
+          "**更新**操作系统和各种程序，隔一段时间一次。",
+          "**防护**：防火墙、开放的端口、密码和访问密钥。",
+          "**做备份**，并且知道怎么恢复。",
+          "**处理故障**，包括网站在非工作时间宕机的时候。"
+        ],
+        "postParagraphs": [
+          "如果你从没打开过终端，这是有成本的：要么是学习的时间，要么是请人代劳的钱。对普通网站来说，这笔成本往往比两种套餐的差价还大。"
+        ]
+      },
+      {
+        "heading": "价格与续费：真正的账",
+        "paragraphs": [
+          "共享主机按 48 个月套餐出售，VPS 按 24 个月。两者都是整个周期一次付清。2026年10月28日套用推荐链接读取的美元价格，续费价在旁边："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "套餐",
+            "含推荐链接",
+            "周期总额",
+            "续费"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+              "US$ 1.99/月",
+              "US$ 95.52",
+              "US$ 10.99/月"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+              "US$ 2.79/月",
+              "US$ 133.92",
+              "US$ 16.99/月"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 个月）",
+              "US$ 6.39/月",
+              "US$ 306.72",
+              "US$ 25.99/月"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 个月）",
+              "US$ 5.19/月",
+              "US$ 124.56",
+              "US$ 11.99/月"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 个月）",
+              "US$ 7.03/月",
+              "US$ 168.72",
+              "US$ 14.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "有两点会改变这笔账。第一，VPS KVM 1 从首期起每月就是 Premium 的两倍半以上（US$ 5.19 对 US$ 1.99）；到了续费两者几乎持平（US$ 11.99 对 US$ 10.99），VPS 仍然略贵。第二，VPS 的优惠价持续 24 个月，共享主机则是 48 个月。按四年算，Premium 是 US$ 95.52；KVM 1 是首期 US$ 124.56 加上续费 US$ 287.76（24 × US$ 11.99），合计 US$ 412.32。",
+          "续费默认开启。下单前先看[Hostinger 如何收费和续费](/zh-hans/reviews/hostinger-trust-guide-zh-hans)，活动与推荐链接的对比看[Hostinger 黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。Premium 把首年免费域名列为套餐项目。价格随活动变动：付款前请核对购物车里的金额，条件请看[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "什么时候 VPS 适合 AI 代理",
+        "paragraphs": [
+          "VPS 经常出现的另一种情况不是网站，而是整天运行的 AI 助理，比如 OpenClaw。这时问题就变了，因为 Hostinger 也为这类助理出售托管套餐。如果你是这种情况，对比在[OpenClaw 在 Hostinger：托管还是 VPS](/zh-hans/reviews/openclaw-hostinger-managed-or-vps-zh-hans)，选大小则看[OpenClaw 该选哪个 KVM](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。本文只谈网站用的服务器。"
+        ]
+      },
+      {
+        "heading": "结论：VPS 还是共享主机",
+        "paragraphs": [
+          "**共享主机**适合博客、作品集、公司网站、小型网店和 Node.js 网站。首期便宜得多，续费也略低，而且服务器维护由 Hostinger 负责。套餐里 Premium 是起点；网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
+          "**VPS** 适合自有系统、面板里没有的程序或数据库、整天运行的机器人或面板，或者你需要 root 的时候。从 KVM 1 开始，内存不够再升。把维护服务器的时间，或者请人代劳的费用，也算进账里。",
+          "**拿不准，就选共享主机。** VPS 以后不能变成共享主机，反过来则只是在需要时再签一份新合同。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "VPS 比共享主机快吗？我们没有测过。VPS 保证的是预留资源：CPU、内存和硬盘都是你的，而共享主机上服务器是分用的。对普通网站来说，这很少成为瓶颈。",
+          "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你购买 VPS，装好服务器，再把网站搬过去。共享主机不能在面板里直接转成 VPS。",
+          "用 VPS 需要懂 Linux 吗？需要，至少是终端的基础：安装程序、更新系统、看日志。共享主机上一切都在面板里，终端不是必需的。",
+          "VPS 能跑 WordPress 吗？能，但 Web 服务器、PHP 和数据库要你自己安装和维护。共享主机上 WordPress 在面板里现成可用，服务器由 Hostinger 照看。",
+          "Hostinger 的 VPS 多少钱？2026年10月28日，KVM 1 用推荐链接、24 个月套餐是 US$ 5.19/月，续费 US$ 11.99/月。20% 只适用于首期，不能与其他优惠券叠加。"
+        ]
+      },
+      {
+        "heading": "谁在写这篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 以 Node.js Web App 的形式运行在 Hostinger 的托管主机上，域名自 2024年11月17日起注册在 Hostinger。本文没有 VPS 的测试：它整理的是 2026年10月28日读取的 Hostinger 页面所说的内容，本站的经验仅限于托管主机。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推荐代码已经包含在链接里：20% 折扣只适用于首期和 12 个月以上的套餐，不能与其他优惠券叠加。",
+      "label": "用推荐链接查看套餐",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "通过推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，你不用多付任何费用。我们没有测试 VPS。",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
+        "title": "OpenClaw 在 Hostinger：托管还是 VPS？价格、各自要做什么，以及适合谁"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hans",
+        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hans",
+        "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "slug": "vps-or-shared-hosting-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "hostinger-vps-ou-compartilhada",
+    "title": "VPS 還是共享主機：在 Hostinger 上哪種更適合你的網站",
+    "seoTitle": "VPS 還是共享主機：該選哪一種",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "一般網站用共享主機就夠了；只有需要自行安裝系統、獨享資源或 root 時才值得上 VPS。依情境的表格、KVM 規格，以及 2026年10月28日的價格與續訂價。",
+    "metaDescription": "Hostinger 的 VPS 與共享主機：各是什麼、依情境的表格、KVM 1 到 8 的規格、維護中哪些要你自己做，以及 2026年10月28日的美元價格與旁邊的續訂價。",
+    "publishedAt": "2026年10月28日",
+    "publishedAtISO": "2026-10-28",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
+    "imageAlt": "Hostinger 標誌，配上一個一般網站圖示與一個伺服器圖示，兩者相對",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "部落格、作品集或小型網路商店這類一般網站，共享主機就夠用，也比較便宜。只有當網站需要在面板之外安裝系統、需要獨享的 CPU 與記憶體，或需要 root 權限時，VPS 才划算。續訂的帳會改變選擇，請看下面的價格與結論。"
+        ]
+      },
+      {
+        "heading": "兩者各是什麼",
+        "paragraphs": [
+          "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
+          "**VPS**（虛擬專屬伺服器）是一台只屬於你的虛擬機器，處理器、記憶體與硬碟都是預留的。Hostinger 交付的是帶作業系統與 root 權限（什麼都能做的使用者）的機器。從那之後，安裝 Web 伺服器、資料庫、憑證，做更新與安全，都是你的事。在 Hostinger，這是 KVM 1、2、4 與 8 方案。",
+          "差別不在於「誰比較好」，而在於誰來照顧伺服器，以及有多少資源是專門留給你的。"
+        ]
+      },
+      {
+        "heading": "依情境選擇",
+        "paragraphs": [
+          "看價格之前，先回答三個問題。如果三個都是「否」，共享主機就夠了。"
+        ],
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+        "imageAlt": "三個問題的圖：是否需要在面板之外安裝系統、是否需要獨享的 CPU 與記憶體、是否需要 root 權限；每個「是」都指向 VPS，三個「否」指向共享主機",
+        "imageCaption": "決定共享主機還是 VPS 的三個問題。我們自製的圖，依據 2026年10月28日讀取的 Hostinger 頁面。",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7787,
+        "comparisonTable": {
+          "headers": [
+            "情境",
+            "共享主機",
+            "VPS"
+          ],
+          "rows": [
+            [
+              "用 WordPress 做的部落格、作品集或公司網站",
+              "可以。這是方案的典型用途",
+              "不需要"
+            ],
+            [
+              "WordPress 小型網路商店（WooCommerce）",
+              "可以，但要留意方案：商品與流量多了要用 Premium 或 Unlimited",
+              "只有商店成長很多時才需要"
+            ],
+            [
+              "Node.js 網站",
+              "可以。Premium 方案列有 Node.js，本站就是這樣運作的",
+              "不需要"
+            ],
+            [
+              "多個網站或企業信箱",
+              "可以。Premium 列有最多 3 個網站，Unlimited 含信箱",
+              "不需要"
+            ],
+            [
+              "自有系統，用到面板裡沒有的程式或資料庫",
+              "不行",
+              "可以。這是 VPS 的典型情境"
+            ],
+            [
+              "整天運作的面板、機器人或自動化（n8n、Docker）",
+              "不行",
+              "可以，有 root 與 Docker"
+            ],
+            [
+              "外掛很重或流量有高峰的網站",
+              "先用 Cloud Startup，再考慮 VPS",
+              "可以，如果 Cloud 不夠用"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "各個共享主機方案的內容會隨活動變動。下單前請到 Hostinger 頁面確認每個方案包含什麼。"
+        ]
+      },
+      {
+        "heading": "VPS 方案：KVM 1 到 KVM 8",
+        "paragraphs": [
+          "四個 KVM 方案只是大小不同。規格於 2026年10月28日從 Hostinger 的 VPS 頁面讀取；價格是 24 個月方案、套用推薦連結後的月費，續訂價列在旁邊。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "vCPU",
+            "RAM",
+            "硬碟",
+            "含推薦連結",
+            "續訂"
+          ],
+          "rows": [
+            [
+              "[KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "1",
+              "4 GB",
+              "50 GB",
+              "US$ 5.19/月",
+              "US$ 11.99/月"
+            ],
+            [
+              "[KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "2",
+              "8 GB",
+              "100 GB",
+              "US$ 7.03/月",
+              "US$ 14.99/月"
+            ],
+            [
+              "[KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "4",
+              "16 GB",
+              "200 GB",
+              "US$ 10.39/月",
+              "US$ 28.99/月"
+            ],
+            [
+              "[KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)",
+              "8",
+              "32 GB",
+              "400 GB",
+              "US$ 20.79/月",
+              "US$ 49.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "一般網站如果真的需要 VPS，KVM 1 是起點：4 GB 記憶體夠跑一個 WordPress 或一個小系統。要在同一台機器上跑不只一個程式時，才用到 KVM 2。KVM 4 與 KVM 8 面向更大的系統、大型資料庫或多個應用程式。",
+          "這些是透過推薦連結進入 Hostinger 國際站看到的美元價格（2026年10月28日，黑色星期五活動期間）。不同國家與貨幣可能不同，付款前請到購物車確認。連結的 20% **只適用於首期**，**不能與其他優惠券疊加**。續訂價用不用連結都一樣。"
+        ]
+      },
+      {
+        "heading": "維護：哪些要你自己做",
+        "paragraphs": [
+          "這是價格表看不出來的部分。共享主機上，Hostinger 維護伺服器與面板，你只管自己的網站（佈景主題、外掛、內容）。Premium 方案列有每週備份，Unlimited 含優先支援。",
+          "VPS 上，Hostinger 在自己的頁面就說明：有了 root 權限，伺服器的設定、更新與安全都由購買者負責。實際上，它會變成你的一張清單："
+        ],
+        "bullets": [
+          "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證。",
+          "**更新**作業系統與各種程式，隔一段時間一次。",
+          "**防護**：防火牆、開放的連接埠、密碼與存取金鑰。",
+          "**做備份**，並且知道怎麼還原。",
+          "**處理故障**，包括網站在非上班時間掛掉的時候。"
+        ],
+        "postParagraphs": [
+          "如果你從沒打開過終端機，這是有成本的：要麼是學習的時間，要麼是請人代勞的錢。對一般網站來說，這筆成本往往比兩種方案的差價還大。"
+        ]
+      },
+      {
+        "heading": "價格與續訂：真正的帳",
+        "paragraphs": [
+          "共享主機以 48 個月方案販售，VPS 以 24 個月。兩者都是整個週期一次付清。2026年10月28日套用推薦連結讀取的美元價格，續訂價在旁邊："
+        ],
+        "comparisonTable": {
+          "headers": [
+            "方案",
+            "含推薦連結",
+            "週期總額",
+            "續訂"
+          ],
+          "rows": [
+            [
+              "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+              "US$ 1.99/月",
+              "US$ 95.52",
+              "US$ 10.99/月"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+              "US$ 2.79/月",
+              "US$ 133.92",
+              "US$ 16.99/月"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONARDEOFERTAS)（48 個月）",
+              "US$ 6.39/月",
+              "US$ 306.72",
+              "US$ 25.99/月"
+            ],
+            [
+              "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+              "US$ 5.19/月",
+              "US$ 124.56",
+              "US$ 11.99/月"
+            ],
+            [
+              "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONARDEOFERTAS)（24 個月）",
+              "US$ 7.03/月",
+              "US$ 168.72",
+              "US$ 14.99/月"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "有兩點會改變這筆帳。第一，VPS KVM 1 從首期起每月就是 Premium 的兩倍半以上（US$ 5.19 對 US$ 1.99）；到了續訂兩者幾乎持平（US$ 11.99 對 US$ 10.99），VPS 仍然略貴。第二，VPS 的優惠價持續 24 個月，共享主機則是 48 個月。以四年計，Premium 是 US$ 95.52；KVM 1 是首期 US$ 124.56 加上續訂 US$ 287.76（24 × US$ 11.99），合計 US$ 412.32。",
+          "續訂預設是開啟的。下單前先看[Hostinger 如何收費與續訂](/zh-hant/reviews/hostinger-trust-guide-zh-hant)，活動與推薦連結的比較看[Hostinger 黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。Premium 把首年免費網域列為方案項目。價格隨活動變動：付款前請核對購物車裡的金額，條件請看[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        ]
+      },
+      {
+        "heading": "什麼時候 VPS 適合 AI 代理",
+        "paragraphs": [
+          "VPS 經常出現的另一種情況不是網站，而是整天運作的 AI 助理，例如 OpenClaw。這時問題就變了，因為 Hostinger 也為這類助理販售託管方案。如果你是這種情況，比較在[OpenClaw 在 Hostinger：託管還是 VPS](/zh-hant/reviews/openclaw-hostinger-managed-or-vps-zh-hant)，選大小則看[OpenClaw 該選哪個 KVM](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。本文只談網站用的伺服器。"
+        ]
+      },
+      {
+        "heading": "結論：VPS 還是共享主機",
+        "paragraphs": [
+          "**共享主機**適合部落格、作品集、公司網站、小型網路商店與 Node.js 網站。首期便宜得多，續訂也略低，而且伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
+          "**VPS** 適合自有系統、面板裡沒有的程式或資料庫、整天運作的機器人或面板，或者你需要 root 的時候。從 KVM 1 開始，記憶體不夠再升。把維護伺服器的時間，或者請人代勞的費用，也算進帳裡。",
+          "**拿不定主意，就選共享主機。** VPS 之後不能變成共享主機，反過來則只是在需要時再簽一份新合約。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是預留資源：CPU、記憶體與硬碟都是你的，而共享主機上伺服器是分用的。對一般網站來說，這很少成為瓶頸。",
+          "可以先用共享主機，之後再搬到 VPS 嗎？可以。兩者是不同的產品：你購買 VPS，裝好伺服器，再把網站搬過去。共享主機不能在面板裡直接轉成 VPS。",
+          "用 VPS 需要懂 Linux 嗎？需要，至少是終端機的基礎：安裝程式、更新系統、看日誌。共享主機上一切都在面板裡，終端機不是必需的。",
+          "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝和維護。共享主機上 WordPress 在面板裡現成可用，伺服器由 Hostinger 照顧。",
+          "Hostinger 的 VPS 多少錢？2026年10月28日，KVM 1 用推薦連結、24 個月方案是 US$ 5.19/月，續訂 US$ 11.99/月。20% 只適用於首期，不能與其他優惠券疊加。"
+        ]
+      },
+      {
+        "heading": "誰在寫這篇文章",
+        "paragraphs": [
+          "Em Casa com Cecília 以 Node.js Web App 的形式運作在 Hostinger 的託管主機上，網域自 2024年11月17日起註冊在 Hostinger。本文沒有 VPS 的測試：它整理的是 2026年10月28日讀取的 Hostinger 頁面所說的內容，本站的經驗僅限於託管主機。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "推薦代碼已經包含在連結裡：20% 折扣只適用於首期與 12 個月以上的方案，不能與其他優惠券疊加。",
+      "label": "用推薦連結查看方案",
+      "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+      "sponsored": true
+    },
+    "affiliate": "hostinger",
+    "editorialNote": "透過推薦連結購買，可能為 Bruno 帶來 Hostinger 的帳戶額度，你不用多付任何費用。我們沒有測試 VPS。",
+    "relatedArticles": [
+      {
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
+        "title": "OpenClaw 在 Hostinger：託管還是 VPS？價格、各自要做什麼，以及適合誰"
+      },
+      {
+        "slug": "hostinger-trust-guide-zh-hant",
+        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      },
+      {
+        "slug": "hostinger-black-friday-zh-hant",
+        "title": "2026 Hostinger 黑色星期五：促銷還是推薦連結，哪個更便宜？"
       }
     ]
   }

@@ -1,0 +1,231 @@
+{
+  "id": 671,
+  "slug": "hostinger-domain-kaufen-oder-umziehen",
+  "locale": "de",
+  "translationKey": "hostinger-dominio",
+  "hideFromPortugueseListings": true,
+  "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Preis, Verlängerung und was Sie prüfen sollten",
+  "seoTitle": "Domain bei Hostinger: kaufen, umziehen oder extern",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Domain bei Hostinger: die drei Wege (dort kaufen, extern kaufen und verweisen, umziehen), der Preis für Registrierung und Verlängerung der .com in Dollar am 28.10.2026 und was Sie vor dem Bezahlen prüfen sollten.",
+  "metaDescription": "Domain bei Hostinger kaufen, extern registrieren und verweisen oder umziehen? Preis der .com mit der Verlängerung daneben, 60-Tage-Regel, wem die Domain gehört und die Checkliste vor dem Bezahlen.",
+  "publishedAt": "28. Oktober 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+  "imageAlt": "Hostinger-Logo neben drei Wegen für die Domain: bei Hostinger kaufen, extern kaufen und verweisen, oder umziehen",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Die Domain ist ein eigener Vertrag, getrennt vom Hosting: Sie kann bei Hostinger oder bei einem anderen Registrar liegen, und die Website funktioniert in beiden Fällen. Entscheiden Sie nach dem Verlängerungspreis und danach, wie leicht Sie wieder wegkommen, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger, wenn Sie alles in einem Panel wollen, und ziehen Sie nur eine Domain um, die älter als 60 Tage ist; die Dollarpreise vom 28.10.2026 stehen unten."
+      ]
+    },
+    {
+      "heading": "Domain und Hosting sind zwei Verträge",
+      "paragraphs": [
+        "Die Domain ist die Adresse (der Name, den jemand eintippt). Das Hosting ist der Computer, auf dem die Website liegt. Sie zahlen beides getrennt, und beides muss nicht beim selben Unternehmen sein: Eine bei einer Firma registrierte Domain kann auf das Hosting einer anderen verweisen. Hostingers eigene Seite sagt, dass sich eine dort registrierte Domain auf einen anderen Hosting-Anbieter richten lässt.",
+        "Deshalb lautet die Frage nicht „Hostinger oder nicht“. Sie lautet: Wo liegt die Registrierung der Domain, was kostet die Verlängerung jedes Jahr, und was passiert, wenn Sie eines Tages das Hosting wechseln? Das günstige erste Jahr ist am wenigsten wichtig: Die Domain verlängert sich, solange die Website existiert."
+      ]
+    },
+    {
+      "heading": "Die drei Wege",
+      "paragraphs": [
+        "Wer eine Website aufsetzt, hat drei Möglichkeiten für die Domain. Die Übersicht fasst zusammen, was sich bei jeder ändert, nach den am 28.10.2026 gelesenen Seiten von Hostinger."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-de.webp",
+        "alt": "Übersicht mit drei Wegen für die Domain: mit dem Hosting kaufen (Registrierung bei Hostinger), umziehen (die Registrierung wechselt zu Hostinger) und extern lassen und verweisen (die Registrierung bleibt, wo sie ist); in allen drei Fällen gehört die Domain Ihnen, nur wer die Verlängerung abrechnet, ändert sich",
+        "caption": "Die drei Wege für die Domain, nach den am 28.10.2026 gelesenen Seiten von Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
+      "comparisonTable": {
+        "headers": [
+          "Weg",
+          "Wann er sinnvoll ist",
+          "Verlängerung",
+          "Bei einem Hosting-Wechsel",
+          "Wem sie gehört"
+        ],
+        "rows": [
+          [
+            "Bei Hostinger kaufen",
+            "Sie hosten bei Hostinger und wollen Domain, DNS und Verlängerung im selben Panel",
+            "Verlängerungspreis aus der Preisliste von Hostinger, jedes Jahr",
+            "Die Domain bleibt bei Hostinger; Sie richten den DNS auf das neue Hosting oder ziehen später um",
+            "Ihnen, auf Ihren Namen registriert"
+          ],
+          [
+            "Extern kaufen und verweisen",
+            "Sie haben schon eine Domain bei einem anderen Registrar oder wollen die Verträge trennen",
+            "Preis des Registrars, bei dem sie liegt",
+            "An der Domain ändert sich nichts; nur die Weiterleitung",
+            "Ihnen, beim anderen Registrar"
+          ],
+          [
+            "Zu Hostinger umziehen",
+            "Sie haben die Domain seit mehr als 60 Tagen und wollen alles an einem Ort",
+            "Verlängerungspreis von Hostinger ab dem Folgejahr",
+            "Dieselbe Regel wie beim ersten Weg",
+            "Ihnen; die Inhaberdaten ändern sich beim Transfer nicht"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Hosting-Tarife Premium und Unlimited ab 12 Monaten bringen im ersten Jahr eine Domain mit, eine pro Konto, in ausgewählten Endungen; ab dem zweiten Jahr verlängert sie sich zum normalen Listenpreis. Das ist ein Bestandteil des Tarifs, kein Grund für die Wahl des Weges: Was zählt, ist die Verlängerung."
+      ]
+    },
+    {
+      "heading": "Was es bei Hostinger kostet",
+      "paragraphs": [
+        "Preise der internationalen Hostinger-Website in US-Dollar, am 28.10.2026 über den Empfehlungslink gelesen, während der Black-Friday-Aktion; je nach Land und Währung können sie abweichen. Der niedrige Preis des ersten Jahres gilt bei einer Laufzeit von 3 Jahren; die Verlängerung wird jährlich fällig, ab dem Ende der bezahlten Laufzeit."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Endung",
+          "Erstes Jahr",
+          "Verlängerung (pro Jahr)",
+          "Zu Hostinger umziehen"
+        ],
+        "rows": [
+          [
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "19,99 USD, oder 0,01 USD bei 3 Jahren Laufzeit",
+            "19,99 USD",
+            "9,99 USD"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Die Lesart ist diese: Die .com verlängert sich zum Preis des ersten vollen Jahres, 19,99 USD, ohne Sprung im zweiten Jahr. Endungen, die im ersten Jahr für ein paar Dollar angeboten werden, können sich dagegen zu einem Vielfachen verlängern: Der Einstiegspreis sagt nichts darüber, was Sie im zweiten Jahr zahlen. Schauen Sie immer auf die Spalte der Verlängerung, die die Seite bei jeder Endung neben dem ersten Jahr zeigt.",
+        "Bei 3 Jahren Laufzeit gilt der 0,01 USD nur für das erste Jahr; die Seite zeigt die Summe der drei Jahre außerhalb des Warenkorbs nicht, prüfen Sie den Betrag also vor dem Bezahlen. Wenn Sie schon eine Domain bei einem anderen Registrar haben, vergleichen Sie dessen Verlängerung mit dieser: Sie dort zu lassen und zu verweisen ist der Weg „extern und verweisen“ aus der Tabelle oben.",
+        "Der Schutz der Kontaktdaten (RDAP, früher WHOIS) ist bei den kompatiblen Endungen inbegriffen. Länderendungen wie die .de haben eigene Preise und Regeln: Suchen Sie sie auf derselben Seite, bevor Sie sich entscheiden. Die .com ist die generische Endung, die in jedem Land gilt."
+      ]
+    },
+    {
+      "heading": "Transfer: die 60-Tage-Regel und die Schritte",
+      "paragraphs": [
+        "Ein Transfer verlegt die Registrierung der Domain von einem Unternehmen zu einem anderen. Die Transferseite von Hostinger sagt, dass Website und E-Mail während des Vorgangs weiterlaufen und dass sich die Inhaberdaten nicht ändern. Was sich ändert: wer die Verlängerung abrechnet und wo Sie den DNS pflegen.",
+        "Die Regeln, nach der am 28.10.2026 gelesenen Seite von Hostinger:"
+      ],
+      "bullets": [
+        "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann.",
+        "**Entsperren und Code:** Sie entsperren die Domain im Panel des aktuellen Registrars und holen den Autorisierungscode (EPP- oder Auth-Code).",
+        "**Bestätigung:** Nachdem Sie den Code bei Hostinger eingegeben haben, kommt eine E-Mail des Registrars zur Bestätigung. Ohne sie geht der Transfer nicht weiter.",
+        "**Dauer:** bis zu sieben Tage; schneller, wenn der aktuelle Registrar sofort freigibt und Sie die E-Mail gleich bestätigen.",
+        "**Preis:** Er ist nicht kostenlos. Bei den meisten generischen Endungen (.com, .net, .org) enthält die Transfergebühr bereits ein weiteres Jahr Registrierung, das zu Ihrer bisherigen Laufzeit hinzukommt."
+      ],
+      "postParagraphs": [
+        "Die Schritte auf der Seite gelten für generische Domains wie die .com. Länderendungen wie die .de hängen von der Registrierungsstelle des Landes ab und können ein anderes Verfahren haben; klären Sie den Weg mit dem Support von Hostinger, bevor Sie den Code anfordern.",
+        "Der Umzug weg von Hostinger folgt derselben Logik in umgekehrter Richtung: 60 Tage Registrierung, Entsperren im Hostinger-Panel, Code holen und per E-Mail bestätigen. Ein erfolgreicher Transfer wird nicht erstattet; siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
+      ]
+    },
+    {
+      "heading": "Wem die Domain gehört",
+      "paragraphs": [
+        "Hostinger sagt es auf beiden Seiten: Die Domain wird auf Ihren Namen registriert und gehört Ihnen, nicht dem Registrar. Das Unternehmen ist von der ICANN akkreditiert, der Organisation, die die generischen Domains koordiniert. Wenn Sie das Hosting kündigen, bleibt die Domain Ihre; bei der Domain aus dem Tarif wird die Registrierungsgebühr von der Erstattung abgezogen, weil sie bereits an die Registrierungsstelle gezahlt wurde.",
+        "Drei Vorkehrungen halten die Domain bei Ihnen:"
+      ],
+      "bullets": [
+        "**Das Konto:** Die Domain gehört zu dem Hostinger-Konto, mit dem sie gekauft wurde. Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren, nicht die eines Freelancers oder einer Agentur. Wer auf den Namen einer anderen Person registriert, hängt später beim Transfer von ihr ab.",
+        "**Die Verlängerung:** Hostinger empfiehlt, die automatische Verlängerung eingeschaltet zu lassen. Eine abgelaufene Domain legt Website und E-Mail lahm. Die Domain-Verlängerung wird nicht erstattet, also muss die Karte im Konto gültig sein.",
+        "**Die Erstattung der Registrierung:** Eine neue Registrierung lässt sich nur innerhalb von 96 Stunden zurückgeben; einige Endungen haben andere Fristen, die in der Erstattungsrichtlinie stehen. Danach gehört die Domain Ihnen bis zum Ende der bezahlten Laufzeit, ohne Rückgabe."
+      ]
+    },
+    {
+      "heading": "Checkliste vor dem Bezahlen",
+      "bullets": [
+        "Schauen Sie auf die Spalte der Verlängerung, nicht nur auf das erste Jahr. Die Domain verlängert sich jedes Jahr, solange die Website existiert.",
+        "Bei 3 Jahren Laufzeit prüfen Sie im Warenkorb die Summe der drei Jahre: Die Seite zeigt nur das erste.",
+        "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum: Unter 60 Tagen startet der Transfer nicht.",
+        "Kaufen Sie mit dem Konto, das Ihnen gehören wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
+        "Bei einer Länderendung wie der .de klären Sie das Transferverfahren mit dem Support von Hostinger, bevor Sie kaufen, falls Sie eines Tages wegziehen wollen.",
+        "Kam die Domain mit dem Hosting-Tarif, notieren Sie den Verlängerungspreis des zweiten Jahres: Er wird vor dem Kauf angezeigt.",
+        "Der Empfehlungsrabatt gilt für den Hosting-Tarif, und die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; prüfen Sie den Domainpreis im Warenkorb, bevor Sie zahlen."
+      ]
+    },
+    {
+      "heading": "Welchen Weg wählen",
+      "paragraphs": [
+        "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen. Die .com verlängert sich zu 19,99 USD pro Jahr (28.10.2026), zum Preis des ersten vollen Jahres, ohne Sprung im zweiten Jahr.",
+        "**Kaufen Sie extern und verweisen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Verträge lieber trennen oder dort weniger für die Verlängerung zahlen. Den DNS zu richten ist eine Einstellung im Panel, und die Website läuft genauso.",
+        "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und sich die Verlängerung bei Hostinger gegenüber dem lohnt, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Transfergebühr ein weiteres Jahr Registrierung, sie ist also kein verlorenes Geld.",
+        "Im Zweifel ziehen Sie nicht um: Richten Sie die Domain auf das Hosting und lassen Sie die Registrierung, wo sie ist. Umziehen geht auch später, und die Website steht nicht still."
+      ]
+    },
+    {
+      "heading": "Empfehlungslink und Preis",
+      "paragraphs": [
+        "Der Empfehlungslink wendet den Rabatt auf den Hosting-Tarif bereits an: Sie müssen keinen Code eingeben. Es sind 20 % nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und der Rabatt lässt sich nicht mit anderen Rabattcodes kombinieren. Die Bedingungen führen die Domain nicht unter den berechtigten Leistungen auf; es gilt, was im Warenkorb erscheint. Die vollständige Regel steht in [wie der Empfehlungslink von Hostinger funktioniert](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Was kostet die Domain bei Hostinger? Am 28.10.2026 kostet die .com auf der internationalen Website in Dollar 19,99 USD im ersten Jahr, oder 0,01 USD bei 3 Jahren Laufzeit, und verlängert sich zu 19,99 USD pro Jahr; der Transfer kostet 9,99 USD. Je nach Land und Währung können die Preise abweichen.",
+        "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie richten den DNS auf das neue Hosting oder ziehen die Registrierung später um, nach Ablauf der 60 Tage seit der Registrierung.",
+        "Domain .com oder .de? Die .com ist generisch und gilt in jedem Land; die .de ist die deutsche Länderendung für ein Publikum in Deutschland, mit eigenen Preisen und Regeln. Bei Hostinger verlängert sich die .com zu 19,99 USD pro Jahr (28.10.2026); die .de suchen Sie auf der Domainseite.",
+        "Brauche ich eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; das Hosting ist nicht Pflicht, und Hostinger sagt, dass sich die Domain nur für E-Mail oder für eine Weiterleitung auf eine andere Website nutzen lässt.",
+        "Lässt sich die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, 60 Tage nach der Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein erfolgreicher Transfer wird nicht erstattet."
+      ]
+    },
+    {
+      "heading": "Wer schreibt",
+      "paragraphs": [
+        "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, als Node.js Web App, und die Domain emcasacomcecilia.com ist seit dem 17.11.2024 bei Hostinger registriert (öffentlicher RDAP-Eintrag, gelesen am 28.10.2026). Niemand aus dem Team hat eine Domain umgezogen: Dieser Text fasst zusammen, was die Domain- und Transferseiten von Hostinger sagen, gelesen am 28.10.2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten für den Hosting-Tarif, nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+    "label": "Die Tarife mit Empfehlungslink ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie.",
+  "relatedArticles": [
+    {
+      "slug": "ist-hostinger-serioes",
+      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+    },
+    {
+      "slug": "hostinger-gutschein-empfehlungscode",
+      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+    },
+    {
+      "slug": "hostinger-black-friday-angebote",
+      "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+    }
+  ]
+}

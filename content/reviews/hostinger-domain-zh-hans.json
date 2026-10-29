@@ -1,0 +1,237 @@
+{
+  "id": 674,
+  "slug": "hostinger-domain-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-dominio",
+  "title": "Hostinger 域名：在这里买、转入，还是在别处注册？价格、续费与下单前要确认什么",
+  "seoTitle": "Hostinger 域名：购买、转入还是别处注册",
+  "type": "选择指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 域名的三条路（在这里买、在别处买再解析过来、转入），2026年10月28日 .com 的注册价与续费价，以及付款前要确认什么。",
+  "metaDescription": "域名在 Hostinger 买、在别处注册再解析，还是转入？.com 的价格与续费价并列、60 天规则、域名归谁，以及付款前的清单。",
+  "publishedAt": "2026年10月28日",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
+  "imageAlt": "Hostinger 标志旁是域名的三条路：在 Hostinger 购买、在别处购买再解析过来，或转入",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "域名和主机是两个独立的账户：可以放在 Hostinger，也可以放在其他注册商，网站两种方式都能正常运行。选择时看续费价和日后离开是否方便，而不是看第一年。想把一切放在同一个面板里，就在 Hostinger 购买；转入只做注册满 60 天的域名。2026年10月28日的价格见下文。"
+      ]
+    },
+    {
+      "heading": "域名和主机是两个账户",
+      "paragraphs": [
+        "域名是地址，也就是别人输入的那个名字。主机是网站所在的那台电脑。两者分开付费，也不必在同一家公司：在一家公司注册的域名，可以解析到另一家公司的主机。Hostinger 的页面自己也说，在它那里注册的域名可以指向其他主机商。",
+        "所以要决定的不是“选不选 Hostinger”，而是域名注册放在哪里、每年续费多少钱，以及有一天换主机会怎样。便宜的第一年最不重要：只要网站还在，域名就要年年续费。"
+      ]
+    },
+    {
+      "heading": "三条路",
+      "paragraphs": [
+        "搭网站的人，域名有三种选择。下面的图和表按 2026年10月28日读取的 Hostinger 页面，总结每条路有什么不同。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-zh-hans.webp",
+        "alt": "图示域名的三条路：随主机一起购买（注册在 Hostinger）、转入（注册转到 Hostinger）、留在外面再解析（注册留在原处）；三条路域名都是你的，不同的只是谁来收续费",
+        "caption": "域名的三条路，依据 2026年10月28日读取的 Hostinger 页面。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
+      "comparisonTable": {
+        "headers": [
+          "路径",
+          "什么时候合适",
+          "续费",
+          "如果换主机",
+          "域名归谁"
+        ],
+        "rows": [
+          [
+            "在 Hostinger 购买",
+            "你要把网站托管在 Hostinger，想让域名、DNS 和续费都在同一个面板",
+            "按 Hostinger 价目表的续费价，每年一次",
+            "域名留在 Hostinger；把 DNS 指向新主机，或日后再转出",
+            "你，以你的名字注册"
+          ],
+          [
+            "在别处购买再解析",
+            "你在其他注册商已有域名，或想把账户分开",
+            "按域名所在注册商的价格",
+            "域名不变，只改解析",
+            "你，在另一家注册商"
+          ],
+          [
+            "转入 Hostinger",
+            "你的域名已注册超过 60 天，想把一切放在一处",
+            "从下一年起按 Hostinger 的续费价",
+            "与第一条路相同",
+            "你；转入不改变所有权信息"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "符合条件的主机套餐（如 Premium）第一年附带一个域名，限指定后缀；从第二年起按价目表的正常价格续费。这是套餐里的一项，不是选哪条路的理由：起作用的是续费价。"
+      ]
+    },
+    {
+      "heading": "Hostinger 的价格",
+      "paragraphs": [
+        "以下是 Hostinger 国际站（美元）域名搜索页的价格，通过推荐链接进入，于 2026年10月28日黑色星期五活动期间读取。价格可能因国家和货币而不同，请以购物车为准。第一年的低价需选择 3 年期；续费按年计，从已付期限结束后开始。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "后缀",
+          "第一年",
+          "续费（每年）",
+          "转入 Hostinger"
+        ],
+        "rows": [
+          [
+            "[.com](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "US$ 19.99，或选 3 年期时 US$ 0.01",
+            "US$ 19.99",
+            "US$ 9.99"
+          ],
+          [
+            "[其他后缀](https://www.hostinger.com/domain-name-search?REFERRALCODE=SONARDEOFERTAS)",
+            "见页面",
+            "见页面",
+            "见页面"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "这样看：.com 的续费价和第一年的全价一样，都是 US$ 19.99，第二年不会跳价。而第一年特别便宜的后缀，续费价可能翻几倍：入门价说明不了第二年要付多少。永远看续费那一列。",
+        "选 3 年期时，US$ 0.01 只是第一年的价格；页面在购物车之外不显示三年总额，付款前请核对金额。Hostinger 提供 500 多种后缀，每种的注册价、续费价和转入费都在同一页的价格对比里。",
+        "联系信息保护（RDAP，也就是过去的 WHOIS）在支持的后缀中免费包含。国家域名（如 .cn）遵循各国注册机构的规则，价格也随货币变化。"
+      ]
+    },
+    {
+      "heading": "转入：60 天规则与步骤",
+      "paragraphs": [
+        "转入是把域名的注册从一家公司换到另一家。Hostinger 的转移页面说，过程中网站和邮箱照常运行，所有权信息也不变。变的是谁来收续费，以及你在哪里管理 DNS。",
+        "规则如下，依据 2026年10月28日读取的 Hostinger 页面："
+      ],
+      "bullets": [
+        "**注册时长：**多数情况下，域名需注册满 60 天。在 Hostinger 新注册的域名同样要锁 60 天才能转出。",
+        "**解锁与代码：**在现有注册商的面板解锁域名，取得授权码（EPP 码，或叫转移码）。",
+        "**确认：**在 Hostinger 填入代码后，注册商会发一封确认邮件。不确认，转移就不会进行。",
+        "**时间：**最多七天；如果现有注册商很快放行、你也马上确认邮件，会更快。",
+        "**费用：**不是免费的。多数通用后缀（.com、.net、.org）的转入费已包含额外一年注册，加在你原有的期限上。.com 的转入费为 US$ 9.99（2026年10月28日）。"
+      ],
+      "postParagraphs": [
+        "页面上的步骤针对 .com 这类通用后缀。国家域名由各国注册机构管理，申请代码前先向 Hostinger 客服确认该后缀的流程。",
+        "从 Hostinger 转出走的是同一套逻辑，只是方向相反：注册满 60 天，在 Hostinger 面板解锁，取得代码，在邮件里确认。成功的转移不退款；参见 [Hostinger 的退款与续费规则](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "域名归谁",
+      "paragraphs": [
+        "Hostinger 在两个页面都说明：域名以你的名字注册，属于你，不属于注册商。Hostinger 是 ICANN 认证的注册商，ICANN 是统筹通用域名的机构。取消主机后，域名仍然是你的；如果域名是随套餐附带的，注册费会从退款中扣除，因为这笔钱已经付给了注册局。",
+        "三件事能让域名一直是你的："
+      ],
+      "bullets": [
+        "**账户：**域名属于购买它的那个 Hostinger 账户。用你自己掌控的邮箱，不要用自由职业者或代理公司的。以别人名义注册的话，日后转移要靠对方。",
+        "**续费：**Hostinger 建议开着自动续费。域名过期会让网站和邮箱一起停摆。域名续费不退款，所以账户里的银行卡要保持有效。",
+        "**注册退款：**新注册只能在 96 小时内退款，个别后缀期限不同，请看退款政策。之后直到已付期限结束，域名都是你的，但不能退。"
+      ]
+    },
+    {
+      "heading": "付款前的清单",
+      "bullets": [
+        "看续费那一列，不要只看第一年。只要网站还在，域名就要年年续费。",
+        "选 3 年期时，在购物车里核对三年总额：页面只显示第一年。",
+        "打算转入的话，先看注册日期：不满 60 天，转移不会开始。",
+        "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
+        "国家域名如果有一天想迁走，购买前先向 Hostinger 客服确认该后缀的转移流程。",
+        "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
+        "推荐折扣用在主机套餐上，条款没有把域名列为适用服务；付款前在购物车核对域名的金额。"
+      ]
+    },
+    {
+      "heading": "选哪条路",
+      "paragraphs": [
+        "**在 Hostinger 购买**，如果网站要托管在 Hostinger，而且你想让域名、DNS 和续费都在同一个面板。.com 每年续费 US$ 19.99（2026年10月28日），与第一年的全价相同，第二年不跳价。",
+        "**在别处购买再解析**，如果你在其他注册商已有域名、想把账户分开，或那里的续费价更低。改 DNS 只是面板里的一项设置，网站照常运行。",
+        "**转入**只做注册超过 60 天的域名，而且只在 Hostinger 的续费价比你现在付的划算时。多数通用后缀的转入费包含额外一年注册，所以不算白花钱；.com 是 US$ 9.99。",
+        "拿不准就不要转：把域名解析过来，注册留在原处。以后随时可以转，网站也不会停。"
+      ]
+    },
+    {
+      "heading": "推荐链接与价格",
+      "paragraphs": [
+        "推荐链接会直接在主机套餐上套用折扣，没有要输入的代码。20% 只适用于首期、12 个月以上的套餐，且不能与其他优惠券叠加。条款没有把域名列为适用服务，以购物车显示的为准。完整规则见 [Hostinger 推荐计划是怎么运作的](/zh-hans/reviews/hostinger-referral-code-zh-hans)，套餐见本站的 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Hostinger 的域名多少钱？截至 2026年10月28日，国际站的 .com 第一年 US$ 19.99，或选 3 年期时第一年 US$ 0.01，续费每年 US$ 19.99。其他后缀的价格在域名搜索页，可能因国家和货币而不同。",
+        "换主机会丢掉域名吗？不会。域名是你的，留在 Hostinger 账户里；把 DNS 指向新主机，或在注册满 60 天后再转出注册。",
+        "选 .com 还是国家域名？.com 是通用后缀，在任何国家都适用；像 .cn 这样的国家域名由该国注册机构管理，注册和转移有自己的规则。在 Hostinger，.com 每年续费 US$ 19.99（2026年10月28日）；国家域名是否提供以及价格，请在搜索页查看。",
+        "用邮箱需要域名吗？需要。像 你@你的公司.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用来收发邮件，或重定向到另一个网站。",
+        "能把域名从 Hostinger 转到其他注册商吗？可以，注册满 60 天之后：在面板里解锁域名，取得授权码，再在新注册商那里通过邮件确认。成功的转移不退款。"
+      ]
+    },
+    {
+      "heading": "谁在写这篇文章",
+      "paragraphs": [
+        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App；域名 emcasacomcecilia.com 自 2024年11月17日起注册在 Hostinger（公开 RDAP 记录，2026年10月28日查询）。团队里没有人转移过域名：本文整理的是 Hostinger 域名页面和转移页面所说的内容，于 2026年10月28日读取。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "推荐代码已经在链接里：20% 用在主机套餐上，仅限首期、12 个月以上的套餐，不能与其他优惠券叠加。付款前请在购物车核对域名的金额。",
+    "label": "通过推荐链接查看套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "通过这个推荐链接购买，可能为 Bruno 带来 Hostinger 的账户额度，对你没有额外费用。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-trust-guide-zh-hans",
+      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+    },
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠券不用找：推荐链接能拿到什么"
+    },
+    {
+      "slug": "hostinger-black-friday-zh-hans",
+      "title": "2026 Hostinger 黑色星期五：促销还是推荐链接，哪个更便宜？"
+    }
+  ]
+}

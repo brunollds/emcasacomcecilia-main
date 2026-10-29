@@ -75,3 +75,22 @@ Navegador com o código de indicação já aplicado ("Código de indicação apl
 **VPS** (`/br/servidor-vps`, com indicação, 24 meses): KVM 1 R$ 23,99/mês (paga R$ 575,76; renova R$ 59,99); KVM 2 R$ 34,39 (R$ 825,36; renova R$ 77,99); KVM 4 R$ 47,99 (R$ 1.151,76; renova R$ 149,99); KVM 8 R$ 95,99 (R$ 2.303,76; renova R$ 259,99).
 
 **Domínios** (`/br/registro-de-dominio`, tabela "Primeiro ano | Renovação | Transferir"): .com.br R$ 64,99 no 1º ano, ou R$ 1 com prazo de 3 anos; renova R$ 64,99/ano; transferir R$ 0,99. .com R$ 94,99, ou R$ 0,01 com prazo de 3 anos; renova R$ 94,99/ano; transferir R$ 54,99. .org R$ 44,99 (renova R$ 88,99; transferir R$ 71,99). .online, .shop, .store R$ 5,99 no 1º ano (renovam R$ 197,99 a R$ 284,99). Privacidade WHOIS grátis "para extensões compatíveis". "Domínio grátis no primeiro ano em planos selecionados."
+
+# Hostinger em dólar: leitura no Chrome (Claude, 28/10/2026), para as versões fora do PT
+
+Site internacional `www.hostinger.com`, entrando pelo link de indicação (`?REFERRALCODE=SONARDEOFERTAS`); a página mostra "Código de indicação aplicado". Preços em US$, campanha de Black Friday, mensalidade = total pago antecipado dividido pelos meses.
+
+| Plano | Preço com a indicação | Total do período | Renovação |
+|---|---|---|---|
+| Hospedagem Premium (48 meses) | US$ 1,99/mês (riscado US$ 12,19) | US$ 95,52 por 48 meses | US$ 10,99/mês |
+| Hospedagem "Ilimitado"/Unlimited (48 meses) | US$ 2,79/mês (riscado US$ 18,99) | US$ 133,92 por 48 meses | US$ 16,99/mês |
+| Cloud Startup (48 meses) | US$ 6,39/mês (306,72 ÷ 48) | US$ 306,72 por 48 meses | US$ 25,99/mês |
+| VPS KVM 1 (24 meses) | US$ 5,19/mês (riscado US$ 19,49) | US$ 124,56 | US$ 11,99/mês |
+| VPS KVM 2 (24 meses) | US$ 7,03/mês (riscado US$ 24,49) | US$ 168,72 | US$ 14,99/mês |
+| VPS KVM 4 (24 meses) | US$ 10,39/mês (riscado US$ 42,99) | US$ 249,36 | US$ 28,99/mês |
+| VPS KVM 8 (24 meses) | US$ 20,79/mês (riscado US$ 73,99) | US$ 498,96 | US$ 49,99/mês |
+| Domínio .com | US$ 19,99 no 1º ano, ou US$ 0,01 no 1º ano com prazo de 3 anos | — | US$ 19,99/ano; transferir US$ 9,99 |
+
+Specs da VPS (página): KVM 1 1 vCPU, 4 GB RAM, 50 GB NVMe, 4 TB banda; KVM 2 2 vCPU, 8 GB, 100 GB, 8 TB; KVM 4 4 vCPU, 16 GB, 200 GB, 16 TB; KVM 8 8 vCPU, 32 GB, 400 GB, 32 TB. Premium: 3 sites, 20 GB SSD, domínio grátis por 1 ano, backups semanais, Construtor de IA, WordPress, Node.js.
+
+`/horizons` redireciona para `/ai-builder` ("Hostinger AI Builder"), que diz: "evolved from merging our website builder and Horizons into a single builder with two modes – Manual for drag-and-drop editing, and Agentic for vibe coding". O site internacional foi lido com o navegador em português; os nomes dos planos podem aparecer traduzidos na interface.

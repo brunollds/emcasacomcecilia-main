@@ -1,0 +1,297 @@
+{
+  "id": 661,
+  "slug": "hostinger-ki-builder-lohnt-sich",
+  "locale": "de",
+  "translationKey": "hostinger-ai-builder",
+  "hideFromPortugueseListings": true,
+  "title": "KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?",
+  "seoTitle": "Lohnt sich Hostinger Horizons? Website ohne Code",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Der KI-Builder von Hostinger, früher Horizons, taugt für eine einfache Website oder Web-App ohne Programmieren; wer Plugins und Kontrolle will, bleibt bei WordPress. Preise vom 28.10.2026, mit Verlängerung.",
+  "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder (AI Builder). Lohnt er sich oder lieber WordPress? Übersicht nach Projekttyp, Vergleich mit Wix und Lovable, KI-Guthaben, Preis und Verlängerung am 28.10.2026.",
+  "publishedAt": "28. Oktober 2026",
+  "publishedAtISO": "2026-10-28",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
+  "imageAlt": "Das Hostinger-Logo und der KI-Builder, früher Horizons, gegenüber WordPress",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Der KI-Builder von Hostinger, früher Horizons, lohnt sich für alle, die eine einfache Website oder Web-App ohne Programmieren wollen und akzeptieren, dass die KI die erste Version baut. Wer Plugins, ein eigenes Theme und volle Kontrolle braucht, fährt mit WordPress besser. Entscheidend ist der Projekttyp; die Übersicht steht unten."
+      ]
+    },
+    {
+      "heading": "Was der KI-Builder ist (früher Horizons)",
+      "paragraphs": [
+        "Horizons war der Website- und App-Baukasten mit KI von Hostinger. 2026 wurde er mit dem klassischen Website-Baukasten zusammengelegt und heißt seitdem KI-Builder (international „Hostinger AI Builder“): Die alte Adresse leitet auf die neue Seite weiter, und die Seite selbst erklärt, dass das Produkt aus der Verschmelzung des Website-Builders mit Horizons entstanden ist. Gesucht wird noch nach dem alten Namen, deshalb taucht er hier auf.",
+        "Laut Seite erstellt er Websites und Web-Anwendungen aus einer Textbeschreibung, ohne technische Kenntnisse, in zwei Modi:"
+      ],
+      "bullets": [
+        "**Bearbeiten ohne KI (der Modus Manual):** Sie starten mit einer von der KI erzeugten Website oder mit einer der Vorlagen und bearbeiten per Drag-and-drop. Verbraucht kein KI-Guthaben.",
+        "**Bearbeiten mit KI (der Modus Agentic):** Sie beschreiben im Chat, was Sie wollen, und die KI gestaltet und programmiert. Jede Aktion verbraucht KI-Guthaben, das sich nachkaufen lässt."
+      ],
+      "postParagraphs": [
+        "Heraus kommt eine Website oder eine Web-Anwendung, keine App für den App Store oder Google Play: Das sagt die Seite selbst. Hosting, Domain und E-Mail sind im Tarif enthalten, und der Quellcode lässt sich exportieren, um ihn woanders zu hosten. All das ist die Beschreibung von Hostinger, gelesen am 28.10.2026, kein Test von uns.",
+        "Nicht zu verwechseln mit den Automatisierungsagenten von Hostinger wie OpenClaw und Hermes Agent: Das sind [Assistenten, die auf einem Server laufen](/de/reviews/openclaw-oder-hermes-agent) und auf Telegram oder WhatsApp antworten. Der KI-Builder baut die Website."
+      ]
+    },
+    {
+      "heading": "Für welches Projekt er taugt: die Übersicht",
+      "paragraphs": [
+        "Die richtige Frage lautet nicht „Ist die KI gut?“, sondern „Was baue ich, und wer kümmert sich später darum?“. Die Übersicht fasst die Wahl nach Projekttyp zusammen, nach dem, was die Seite des KI-Builders und die WordPress-Dokumentation am 28.10.2026 sagen:"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Projekt",
+          "Beste Option",
+          "Warum"
+        ],
+        "rows": [
+          [
+            "Speisekarte, Restaurant oder Leistungsseite",
+            "KI-Builder",
+            "Wenige Seiten, Text und Fotos. Die KI baut, und der Modus ohne KI verbraucht kein Guthaben für Anpassungen."
+          ],
+          [
+            "Portfolio oder Lebenslauf",
+            "KI-Builder",
+            "Die Galerie hat fertige Vorlagen dafür, und der Tarif Premium reicht."
+          ],
+          [
+            "Kleiner Shop mit wenigen Produkten",
+            "KI-Builder (Tarif Unlimited) oder WordPress mit WooCommerce",
+            "Der KI-Builder hat einen integrierten Onlineshop; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, muss aber eingerichtet werden."
+          ],
+          [
+            "Blog, der von Plugins abhängt (SEO, Formulare, Mitgliederbereich)",
+            "WordPress",
+            "Der Katalog an Plugins und Themes gehört WordPress; im KI-Builder baut die KI jede neue Funktion."
+          ],
+          [
+            "Web-App: Terminbuchung, Kundenportal, einfaches CRM",
+            "KI-Builder (Modus mit KI)",
+            "Die Seite verspricht integriertes Backend, Login und Datenbank. Bei WordPress wird daraus ein Stapel Plugins plus Entwickler."
+          ],
+          [
+            "Projekt, das jemand anderes oder eine Agentur pflegen wird",
+            "WordPress",
+            "Der Marktstandard: Jeder Profi kennt sich damit aus."
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-quadro-de.webp",
+        "alt": "Übersicht KI-Builder oder WordPress nach Projekttyp: Speisekarte oder Leistungsseite, Portfolio und Web-App gehen an den KI-Builder; Blog mit Plugins und Projekt, das jemand anderes pflegt, gehen an WordPress; der kleine Shop passt zu beiden",
+        "caption": "Die Übersicht in Kürze: der KI-Builder für einfache Website, Portfolio und Web-App; WordPress für Plugins und für alle, die die Website später abgeben. Übersicht von Em Casa com Cecília, nach dem, was die Seiten am 28.10.2026 sagen.",
+        "objectFit": "contain",
+        "aspectRatio": 1.2346
+      },
+      "postParagraphs": [
+        "Passt Ihr Projekt in zwei Zeilen, fangen Sie mit dem KI-Builder an: Er hat eine kostenlose Testphase ohne Kreditkarte, mit 5 KI-Credits. Hat das, was Sie brauchen, schon den Namen eines Plugins, nehmen Sie WordPress."
+      ]
+    },
+    {
+      "heading": "KI-Builder oder WordPress",
+      "paragraphs": [
+        "Der Preis entscheidet nicht: Bei Hostinger steckt der KI-Builder in den Hosting-Tarifen, denselben, auf denen WordPress läuft, zum selben Preis. Der Unterschied liegt darin, wer die Arbeit macht und was Sie kontrollieren."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "",
+          "KI-Builder",
+          "WordPress"
+        ],
+        "rows": [
+          [
+            "Wer die Website baut",
+            "Die KI, aus Ihrer Beschreibung, oder Sie im visuellen Editor",
+            "Sie, mit einem Theme, oder ein Profi"
+          ],
+          [
+            "Neue Funktionen",
+            "Im Chat angefordert; verbrauchen KI-Guthaben",
+            "Plugins, Tausende davon, kostenlos oder kostenpflichtig"
+          ],
+          [
+            "Theme und Aussehen",
+            "Vorlagen von Hostinger und Anpassungen per KI oder im Editor",
+            "Jedes Theme, auch maßgeschneidert"
+          ],
+          [
+            "Wer einen Fehler behebt",
+            "Sie, per Anfrage an die KI, oder der Hostinger-Support",
+            "Sie, der Plugin-Autor oder ein Entwickler"
+          ],
+          [
+            "Umzug woandershin",
+            "Laut Seite lässt sich der Code exportieren; das integrierte Backend bleibt bei Hostinger",
+            "Die ganze Website geht zu jedem Hoster"
+          ],
+          [
+            "Onlineshop",
+            "Integriert in den Tarifen Unlimited und Cloud Startup",
+            "WooCommerce, kostenlos, mit kostenpflichtigen Erweiterungen"
+          ],
+          [
+            "Wartung",
+            "Um die Plattform kümmert sich Hostinger",
+            "WordPress, Theme und Plugins aktualisieren Sie selbst"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "**WordPress gewinnt**, wenn das Projekt von einem bestimmten Plugin abhängt, von einem Theme, das Sie schon haben, oder von jemandem, der die Website später pflegt. Es ist freie Software: Die ganze Website gehört Ihnen und zieht ohne Nacharbeit zu jedem Hoster um.",
+        "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was bei WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im Modus mit KI kostet jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Credits, eine komplexere App 15 oder mehr. Wer jede Woche an der Website arbeitet, muss nachrechnen; wer sie einmal baut und dann Text und Fotos im Editor ändert, ohne Prompt, verbraucht nichts."
+      ]
+    },
+    {
+      "heading": "KI-Builder oder Wix (und Lovable)",
+      "paragraphs": [
+        "Wix ist der klassische Drag-and-drop-Baukasten mit eigenem Hosting. Er hat einen Gratis-Tarif unter einer Wix-Adresse, und eine eigene Domain verlangt einen Bezahltarif. Wer einen reinen visuellen Editor will, ist bei Wix richtig. Wenn es darauf ankommt, das Projekt später mitnehmen zu können, vergleichen Sie, was jede Seite zusichert: Die des KI-Builders sagt, dass sich der Code exportieren lässt, und WordPress ist freie Software und läuft bei jedem Hoster.",
+        "Lovable ist ein weiteres Vibe-Coding-Werkzeug, dieselbe Idee wie der Modus mit KI des KI-Builders: Sie beschreiben, die KI programmiert. Der Unterschied liegt im Paket. Lovable rechnet in Credits ab, pro Nachricht, und hat einen Gratis-Tarif mit wenigen Credits pro Tag; es ist das Werkzeug zum Bauen, und Domain und E-Mail regeln Sie getrennt. Bei Hostinger stecken Hosting, Domain und E-Mail im selben Tarif, und der Modus ohne KI verbraucht kein Guthaben. Wer schon programmiert und nur die KI will, findet in Lovable etwas Vergleichbares; wer alles an einem Ort will, bei Hostinger."
+      ]
+    },
+    {
+      "heading": "Preis und Verlängerung am 28.10.2026",
+      "paragraphs": [
+        "Der KI-Builder hat keinen eigenen Tarif: Er steckt in den Website-Hosting-Tarifen über 48 Monate, im Voraus bezahlt. Die Preise unten stammen von der internationalen Hostinger-Seite in US-Dollar, gelesen am 28.10.2026 über den Empfehlungslink, während der Black-Friday-Aktion; die Seite zeigte bei jedem Tarif „Empfehlungscode angewendet“. In Ihrem Land kann Hostinger eine andere Währung und Steuern anzeigen: Prüfen Sie den Betrag im Warenkorb."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Tarif",
+          "Mit Empfehlungslink",
+          "Gesamt für 48 Monate",
+          "Verlängerung"
+        ],
+        "rows": [
+          [
+            "[Premium (bis zu 3 Websites)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "1,99 USD pro Monat (durchgestrichener Listenpreis: 12,19 USD)",
+            "95,52 USD",
+            "10,99 USD pro Monat"
+          ],
+          [
+            "[Unlimited (unbegrenzt viele Websites, mit Onlineshop)](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "2,79 USD pro Monat (durchgestrichen: 18,99 USD)",
+            "133,92 USD",
+            "16,99 USD pro Monat"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/ai-builder?REFERRALCODE=SONARDEOFERTAS)",
+            "6,39 USD pro Monat",
+            "306,72 USD",
+            "25,99 USD pro Monat"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Der Monatspreis ist der Gesamtbetrag geteilt durch 48. In der Praxis:"
+      ],
+      "bullets": [
+        "**Premium, mit Empfehlungslink:** 48 × 1,99 = **95,52 USD**. **Verlängerung, in den folgenden 48 Monaten:** 48 × 10,99 = 527,52 USD.",
+        "**Unlimited, mit Empfehlungslink:** 48 × 2,79 = **133,92 USD**. **Verlängerung:** 48 × 16,99 = 815,52 USD.",
+        "**KI-Credits gibt es einmalig**, nicht monatlich. Die internationale Seite vom 28.10.2026 nannte 250 im Premium, 500 im Unlimited und 1.000 im Cloud Startup, verdoppelt während des Black Friday. Sind sie aufgebraucht, heißt es nachkaufen, und der Preis dafür steht nicht auf der Seite: Sehen Sie im Kundenbereich nach, bevor Sie damit rechnen."
+      ],
+      "emphasis": "Die Verlängerung kostet das 4- bis 6-Fache des Aktionspreises. Schauen Sie auf die Spalte Verlängerung, bevor Sie den Tarif wählen."
+    },
+    {
+      "heading": "Was Sie vor dem Bezahlen prüfen sollten",
+      "bullets": [
+        "**Das Guthaben.** Der Modus mit KI verbraucht bei jeder Anfrage Credits, und das Guthaben des Tarifs erneuert sich nicht monatlich. Lassen Sie die KI die Website bauen und erledigen Sie Text- und Fotoänderungen im Editor, der nichts verbraucht.",
+        "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor er abläuft.",
+        "**Domain und E-Mail nur im ersten Jahr gratis.** Danach verlängert sich die Domain zum Listenpreis von Hostinger, gelesen auf der internationalen Seite am 28.10.2026: .com 19,99 USD pro Jahr.",
+        "**Erstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Credits verbraucht haben.",
+        "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; die internationale Seite führt ihn als im Checkout verfügbar. Prüfen Sie dort, was er kostet.",
+        "**Eine native App gibt es nicht.** Der KI-Builder erzeugt eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play braucht es einen anderen Weg."
+      ],
+      "postParagraphs": [
+        "Wie Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
+      ]
+    },
+    {
+      "heading": "Empfehlungslink und Preis mit dem Link",
+      "paragraphs": [
+        "Der Empfehlungslink wendet den Rabatt bereits an: Sie müssen keinen Code eingeben. Es gibt **20 % nur im ersten Zeitraum**, bei Tarifen von 12 Monaten oder mehr, und der Rabatt **lässt sich nicht mit anderen Rabattcodes kombinieren**. Die Verlängerung kostet den normalen Preis. Auf der Seite des KI-Builders erschienen die Tarife am 28.10.2026 mit angewendeter Empfehlung, zu den Preisen der Spalte „Mit Empfehlungslink“ oben. Die vollständige Regel und die anderen Produkte stehen auf der [Hostinger-Gutscheinseite](/de/coupons/hostinger).",
+        "Bei Hostinger läuft gerade die Black-Friday-Aktion, ohne Enddatum auf der Seite, und Preise wie verdoppelte Credits können sich ändern. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
+      ]
+    },
+    {
+      "heading": "Lohnt er sich? Das Fazit",
+      "paragraphs": [
+        "**Er lohnt sich** für alle, die eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App wollen und weder programmieren noch Plugins pflegen möchten. Die erste Version entsteht aus der Beschreibung, und der Modus ohne KI erlaubt Anpassungen, ohne Guthaben zu verbrauchen. Starten Sie mit der kostenlosen Testphase; passt das Ergebnis, deckt der Tarif Premium die einfache Website ab und Unlimited den Shop.",
+        "**Bleiben Sie bei WordPress**, wenn das Projekt von Plugins abhängt, von einem eigenen Theme, von jemandem, der die Website pflegt, oder wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen. Der Hostinger-Tarif ist in beiden Fällen derselbe, die Wahl betrifft also nur das Werkzeug.",
+        "**Im Zweifel testen Sie den KI-Builder, bevor Sie zahlen.** Es gibt 5 Credits gratis, ohne Kreditkarte, genug, um zu sehen, ob die KI versteht, was Sie wollen. Versteht sie es nicht, bleibt WordPress."
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Gibt es Hostinger Horizons noch? Ja, unter anderem Namen. 2026 wurde Horizons mit dem Website-Baukasten von Hostinger zusammengelegt und heißt jetzt KI-Builder (Hostinger AI Builder), mit einem Drag-and-drop-Modus und einem Modus zum Bauen per Chat. Die alte Adresse leitet auf die neue Seite weiter.",
+        "Baut der KI-Builder von Hostinger die Website allein? Er baut die erste Version aus Ihrer Beschreibung, so die Seite. Inhalte, Fotos und geschäftliche Entscheidungen bleiben bei Ihnen, und jede Anfrage im Modus mit KI verbraucht Credits.",
+        "Muss man programmieren können, um den KI-Builder zu nutzen? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im Modus mit KI einen Code-Editor.",
+        "Kann man vom KI-Builder zu einem anderen Hoster umziehen? Laut Seite lässt sich der Quellcode exportieren und woanders hosten. Das integrierte Backend mit Datenbank und Login bleibt bei Hostinger, eine App muss außerhalb also neu eingerichtet werden.",
+        "Taugt der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
+        "Was kostet Horizons von Hostinger 2026? Der KI-Builder steckt in den Hosting-Tarifen. Am 28.10.2026 kostete Premium auf der internationalen Seite mit Empfehlungslink 1,99 USD pro Monat über 48 Monate (95,52 USD gesamt) und verlängert sich zu 10,99 USD pro Monat; Unlimited 2,79 USD pro Monat (133,92 USD) mit Verlängerung zu 16,99 USD pro Monat.",
+        "Gibt es einen Gutschein für den KI-Builder von Hostinger? Es gibt keinen Code zum Eingeben. Die 20 % Rabatt kommen über den Empfehlungslink, nur im ersten Zeitraum und bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren."
+      ]
+    },
+    {
+      "heading": "Wer schreibt",
+      "paragraphs": [
+        "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit November 2024 bei Hostinger registriert. Niemand aus dem Team hat den KI-Builder oder Horizons genutzt: Dieser Text fasst zusammen, was die Produktseite (in der brasilianischen und der internationalen Fassung), die WordPress-Dokumentation und die öffentlichen Seiten von Wix und Lovable sagen, gelesen am 28.10.2026."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Der Empfehlungscode steckt schon im Link: Die 20 % gelten nur im ersten Zeitraum, bei Tarifen von 12 Monaten oder mehr, und lassen sich nicht mit anderen Rabattcodes kombinieren.",
+    "label": "Die Tarife mit Empfehlungslink ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS",
+    "sponsored": true
+  },
+  "affiliate": "hostinger",
+  "editorialNote": "Käufe über den Empfehlungslink können Bruno ein Guthaben bei Hostinger einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat den KI-Builder genutzt.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-gutschein-empfehlungscode",
+      "title": "Hostinger-Gutschein: Brauchen Sie keinen, das bringt der Empfehlungslink"
+    },
+    {
+      "slug": "ist-hostinger-serioes",
+      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+    },
+    {
+      "slug": "hostinger-black-friday-angebote",
+      "title": "Hostinger Black Friday 2026: die Aktion oder der Empfehlungslink, was ist günstiger?"
+    }
+  ]
+}
