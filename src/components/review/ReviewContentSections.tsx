@@ -1,5 +1,6 @@
 'use client';
 
+import { Fragment, type ReactNode } from 'react';
 import { EditorialReveal, SectionHeadingReveal, EditorialNotePill, MarginNoteRail, type EditorialNoteLabels } from '@/components/editorial';
 import { ReviewSectionContent } from './ReviewSectionContent';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
@@ -18,6 +19,8 @@ export interface ReviewContentSectionsProps {
   affiliate?: string;
   locale?: Locale;
   noteLabels: EditorialNoteLabels;
+  // O que entra antes ou depois de uma seção, pelo id dela: os banners de campanha da loja.
+  slots?: Record<string, { before?: ReactNode; after?: ReactNode }>;
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -51,6 +54,7 @@ export function ReviewContentSections({
   affiliate,
   locale = 'pt',
   noteLabels,
+  slots = {},
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
@@ -68,49 +72,53 @@ export function ReviewContentSections({
         // Separate section-id anchored notes (pills) from line-anchored notes (margin rail)
         const sectionIdNotes = notes.filter((note) => note.anchor === sectionId);
         const lineAnchoredNotes = notes.filter((note) => note.anchor && isLineAnchor(note.anchor));
+        const slot = sectionId ? slots[sectionId] : undefined;
 
         return (
-          <EditorialReveal
-            as="section"
-            key={section.heading || `section-${index}`}
-            id={sectionId}
-            className="scroll-mt-32 lg:scroll-mt-28"
-          >
-            {section.heading && (
-              <div className={stepNumber ? 'mb-5 flex items-start gap-4' : ''}>
-                {stepNumber && (
-                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom font-condensada text-2xl font-black text-marinho font-stretch-extra-condensed">
-                    {stepNumber}
-                  </span>
-                )}
-                <div className={`${stepNumber ? 'flex-1' : ''}`}>
-                  <SectionHeadingReveal as="h2" variant="d2" className={stepNumber ? 'mb-0 pt-1' : 'mb-5'}>
-                    {stepNumber ? removeStepPrefix(section.heading) : section.heading}
-                  </SectionHeadingReveal>
-                  {sectionIdNotes.length > 0 && (
-                    <div className="mt-3 flex flex-wrap gap-2">
-                      {sectionIdNotes.map((note) => (
-                        <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} variant="d2" />
-                      ))}
-                    </div>
+          <Fragment key={section.heading || `section-${index}`}>
+            {slot?.before}
+            <EditorialReveal
+              as="section"
+              id={sectionId}
+              className="scroll-mt-32 lg:scroll-mt-28"
+            >
+              {section.heading && (
+                <div className={stepNumber ? 'mb-5 flex items-start gap-4' : ''}>
+                  {stepNumber && (
+                    <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom font-condensada text-2xl font-black text-marinho font-stretch-extra-condensed">
+                      {stepNumber}
+                    </span>
                   )}
+                  <div className={`${stepNumber ? 'flex-1' : ''}`}>
+                    <SectionHeadingReveal as="h2" variant="d2" className={stepNumber ? 'mb-0 pt-1' : 'mb-5'}>
+                      {stepNumber ? removeStepPrefix(section.heading) : section.heading}
+                    </SectionHeadingReveal>
+                    {sectionIdNotes.length > 0 && (
+                      <div className="mt-3 flex flex-wrap gap-2">
+                        {sectionIdNotes.map((note) => (
+                          <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} variant="d2" />
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 </div>
-              </div>
-            )}
+              )}
 
-            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels} variant="d2">
-              <ReviewSectionContent
-                section={section}
-                reviewTitle={reviewTitle}
-                isFirst={isFirst}
-                kind={kind}
-                reviewSlug={reviewSlug}
-                coupon={coupon}
-                affiliate={affiliate}
-                locale={locale}
-              />
-            </MarginNoteRail>
-          </EditorialReveal>
+              <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels} variant="d2">
+                <ReviewSectionContent
+                  section={section}
+                  reviewTitle={reviewTitle}
+                  isFirst={isFirst}
+                  kind={kind}
+                  reviewSlug={reviewSlug}
+                  coupon={coupon}
+                  affiliate={affiliate}
+                  locale={locale}
+                />
+              </MarginNoteRail>
+            </EditorialReveal>
+            {slot?.after}
+          </Fragment>
         );
       })}
     </div>

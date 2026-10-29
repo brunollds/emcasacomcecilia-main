@@ -28,6 +28,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes, type Review } from '../src/lib/data';
 import { isFaqHeading } from '../src/lib/faq';
+import { getStoreBanners, placeStoreBanners, type StoreBannerSlot } from '../src/lib/storeBanners';
 import { isInternalLink } from '../src/lib/internalLinks';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
@@ -1348,6 +1349,7 @@ let familyHeads = 0;
 let discoverArticles = 0;
 let notedArticles = 0;
 let faqArticles = 0;
+let bannerArticles = 0;
 let cutoutArticles = 0;
 let cutoutStoreLinks = 0;
 let codeHighlightArticles = 0;
@@ -1604,6 +1606,41 @@ for (const url of articleUrls) {
     `${pagePath}: FAQPage diferente das perguntas e respostas do acordeão`
   );
   if (visibleFaq.length) faqArticles++;
+
+  // Os banners de campanha da loja (storeBanners.ts): o `top` logo depois da 1ª seção do corpo e o `mid` logo antes
+  // do FAQ (sem FAQ, da última), com o link da campanha, rel sponsored e os textos do idioma; nenhum em outra loja.
+  const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const banners = bannerStore ? getStoreBanners(bannerStore.slug, new Date()) : {};
+  const articleSections = getBodySections(review.contentSections ?? [], inferReviewKind(review));
+  const bannerPlaces = placeStoreBanners(
+    articleSections.map(({ id }) => id),
+    articleSections.findIndex(({ heading }) => isFaqHeading(heading)),
+  );
+  const bannerTags = [...body.matchAll(/<aside\b[^>]*\bdata-promo-banner="(top|mid)"[^>]*>/g)];
+  assert.deepEqual(
+    bannerTags.map(([, slot]) => slot),
+    (['top', 'mid'] as const).filter((slot) => banners[slot] && bannerPlaces[slot]),
+    `${pagePath}: banners de campanha fora do esperado`
+  );
+  for (const match of bannerTags) {
+    const slot = match[1] as StoreBannerSlot;
+    const banner = banners[slot]!;
+    const aside = elementAt(body, match.index);
+    const sectionTag = [...body.matchAll(/<section\b([^>]*)>/g)].find(([, attributes]) => attributes.includes(` id="${bannerPlaces[slot]}"`));
+    assert.ok(sectionTag, `${pagePath}: a seção do banner ${slot} não está na página`);
+    const sectionEnd = sectionTag.index + elementAt(body, sectionTag.index).length;
+    if (slot === 'top') assert.equal(match.index, sectionEnd, `${pagePath}: banner top fora do fim da 1ª seção`);
+    else assert.equal(match.index + aside.length, sectionTag.index, `${pagePath}: banner mid fora do começo da seção ${bannerPlaces[slot]}`);
+    const link = aside.match(/<a\b[^>]*>/)?.[0] ?? '';
+    assert.ok(link.includes(` href="${banner.href}"`), `${pagePath}: banner ${slot} sem o link da campanha`);
+    assert.match(link, /\srel="[^"]*\bsponsored\b/, `${pagePath}: banner ${slot} sem rel="sponsored"`);
+    const text = textOf(aside);
+    const { headline, text: bannerText, action } = banner.copy[locale];
+    for (const part of [getArticleCopy(locale).adLabel, headline, bannerText, action]) {
+      assert.ok(text.includes(part), `${pagePath}: banner ${slot} sem "${part}"`);
+    }
+  }
+  if (bannerTags.length) bannerArticles++;
 
   // Discover: o robots libera a imagem grande e o schema do artigo sempre diz quando foi modificado.
   assertDiscoverHead(pagePath, headOf(html));
@@ -3629,5 +3666,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, os banners de campanha de ${bannerArticles},o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

@@ -1,0 +1,127 @@
+import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
+
+// Banners de campanha das lojas parceiras nos artigos, com o selo "Publicidade" (o selo fica em articleCopy.ts).
+// Entram sozinhos em todo artigo com o `affiliate` da loja, nos 10 idiomas: o lugar `top` depois da 1ª seção do
+// corpo e o `mid` antes do FAQ (sem FAQ, antes da última seção). O banner fala só da campanha: o código da loja
+// continua no bloco da loja, e nenhum texto daqui cita o código nem diz que soma com ele.
+export type StoreBannerSlot = 'top' | 'mid';
+
+export type StoreBanner = {
+  id: string;
+  affiliate: string;
+  slot: StoreBannerSlot;
+  // Link de afiliado da campanha. Vale nos 10 idiomas, então nunca é um link da loja de um país só (br.shein.com).
+  href: string;
+  // A arte é desenhada no componente: a etiqueta com o número da campanha ou a sacola com a etiqueta de preço.
+  art: { kind: 'tag'; value: string; unit: string } | { kind: 'bag' };
+  // Com o fuso de Brasília (-03:00). Sem `endsAt`, o banner fica até sair deste arquivo.
+  startsAt?: string;
+  endsAt?: string;
+  copy: Record<CouponCopyLocale, { headline: string; text: string; action: string }>;
+};
+
+export const STORE_BANNERS: StoreBanner[] = [
+  {
+    id: 'shein-novos-usuarios',
+    affiliate: 'shein',
+    slot: 'top',
+    href: 'https://onelink.shein.com/58/66iudaefvx27',
+    art: { kind: 'tag', value: '50%', unit: 'OFF' },
+    copy: {
+      pt: {
+        headline: 'Primeira compra na SHEIN? Até 50% para novos usuários',
+        text: 'Campanha da própria SHEIN. As condições aparecem na página da loja.',
+        action: 'Ver a campanha',
+      },
+      en: {
+        headline: 'New to SHEIN? Up to 50% off for new users',
+        text: 'Run by SHEIN itself. The terms are on the store page.',
+        action: 'See the offer',
+      },
+      es: {
+        headline: '¿Primera compra en SHEIN? Hasta un 50 % de descuento para nuevos usuarios',
+        text: 'Una campaña de la propia SHEIN. Las condiciones están en la página de la tienda.',
+        action: 'Ver la oferta',
+      },
+      fr: {
+        headline: 'Première commande chez SHEIN ? Jusqu’à 50 % de réduction pour les nouveaux clients',
+        text: 'Une campagne de SHEIN. Les conditions sont sur la page de la boutique.',
+        action: 'Voir l’offre',
+      },
+      it: {
+        headline: 'Primo ordine su SHEIN? Fino al 50% di sconto per i nuovi utenti',
+        text: 'Una campagna di SHEIN. Le condizioni sono sulla pagina del negozio.',
+        action: 'Vedi l’offerta',
+      },
+      de: {
+        headline: 'Neu bei SHEIN? Bis zu 50 % Rabatt für Neukunden',
+        text: 'Eine Aktion von SHEIN. Die Bedingungen stehen auf der Shopseite.',
+        action: 'Zum Angebot',
+      },
+      ja: {
+        headline: 'SHEINで初めてのお買い物？新規ユーザーは最大50%オフ',
+        text: 'SHEIN公式のキャンペーンです。条件はストアページでご確認ください。',
+        action: 'キャンペーンを見る',
+      },
+      ko: {
+        headline: 'SHEIN 첫 구매? 신규 회원 최대 50% 할인',
+        text: 'SHEIN 자체 프로모션입니다. 조건은 스토어 페이지에서 확인하세요.',
+        action: '혜택 보기',
+      },
+      'zh-hans': {
+        headline: '首次在SHEIN购物？新用户低至5折',
+        text: 'SHEIN官方活动，具体条件以店铺页面为准。',
+        action: '查看活动',
+      },
+      'zh-hant': {
+        headline: '首次在SHEIN購物？新用戶低至5折',
+        text: 'SHEIN官方活動，具體條件以店鋪頁面為準。',
+        action: '查看活動',
+      },
+    },
+  },
+  {
+    id: 'shein-itens-com-desconto',
+    affiliate: 'shein',
+    slot: 'mid',
+    href: 'https://onelink.shein.com/58/66iufl9pp7qa',
+    art: { kind: 'bag' },
+    copy: {
+      pt: { headline: 'Itens com desconto na SHEIN', text: 'A página de ofertas da loja, com os preços do dia.', action: 'Ver as ofertas' },
+      en: { headline: 'Items on sale at SHEIN', text: 'The store’s deals page, with today’s prices.', action: 'See the deals' },
+      es: { headline: 'Artículos con descuento en SHEIN', text: 'La página de ofertas de la tienda, con los precios del día.', action: 'Ver las ofertas' },
+      fr: { headline: 'Articles en promotion chez SHEIN', text: 'La page des promos de la boutique, avec les prix du jour.', action: 'Voir les promos' },
+      it: { headline: 'Articoli scontati su SHEIN', text: 'La pagina delle offerte del negozio, con i prezzi del giorno.', action: 'Vedi le offerte' },
+      de: { headline: 'Reduzierte Artikel bei SHEIN', text: 'Die Angebotsseite des Shops mit den aktuellen Preisen.', action: 'Angebote ansehen' },
+      ja: { headline: 'SHEINのセール商品', text: 'ストアのセールページです。価格は当日時点のものです。', action: 'セール商品を見る' },
+      ko: { headline: 'SHEIN 할인 상품', text: '스토어의 할인 페이지입니다. 가격은 당일 기준입니다.', action: '할인 상품 보기' },
+      'zh-hans': { headline: 'SHEIN折扣商品', text: '店铺的折扣页面，价格以当天为准。', action: '查看折扣' },
+      'zh-hant': { headline: 'SHEIN折扣商品', text: '店鋪的折扣頁面，價格以當天為準。', action: '查看折扣' },
+    },
+  },
+];
+
+export function isStoreBannerLive(banner: Pick<StoreBanner, 'startsAt' | 'endsAt'>, now: Date): boolean {
+  const time = now.getTime();
+  if (banner.startsAt && time < Date.parse(banner.startsAt)) return false;
+  return !banner.endsAt || time <= Date.parse(banner.endsAt);
+}
+
+// As campanhas no prazo da loja, uma por lugar.
+export function getStoreBanners(
+  affiliate: string,
+  now: Date,
+  banners: StoreBanner[] = STORE_BANNERS
+): Partial<Record<StoreBannerSlot, StoreBanner>> {
+  return Object.fromEntries(
+    banners.filter((banner) => banner.affiliate === affiliate && isStoreBannerLive(banner, now)).map((banner) => [banner.slot, banner])
+  );
+}
+
+// A seção em que cada lugar cai, pelos ids das seções do corpo na ordem da página: o `top` vai depois da primeira;
+// o `mid` vai antes do FAQ ou, sem FAQ, antes da última. Entre os dois banners fica pelo menos uma seção inteira.
+export function placeStoreBanners(sectionIds: string[], faqIndex: number): Partial<Record<StoreBannerSlot, string>> {
+  if (sectionIds.length === 0) return {};
+  const midIndex = faqIndex >= 0 ? faqIndex : sectionIds.length - 1;
+  return { top: sectionIds[0], ...(midIndex >= 2 && { mid: sectionIds[midIndex] }) };
+}

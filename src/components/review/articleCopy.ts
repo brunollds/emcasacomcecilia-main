@@ -67,6 +67,8 @@ export type ArticleCopy = {
   listenPause: string;
   listenResume: string;
   listenStop: string;
+  // Selo dos banners de campanha da loja entre as seções do artigo (storeBanners.ts).
+  adLabel: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -119,6 +121,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pausar',
     listenResume: 'Continuar',
     listenStop: 'Parar',
+    adLabel: 'Publicidade',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -169,6 +172,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pause',
     listenResume: 'Resume',
     listenStop: 'Stop',
+    adLabel: 'Advertisement',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -219,6 +223,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pausa',
     listenResume: 'Reanudar',
     listenStop: 'Detener',
+    adLabel: 'Publicidad',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -269,6 +274,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pause',
     listenResume: 'Reprendre',
     listenStop: 'Arrêter',
+    adLabel: 'Publicité',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -319,6 +325,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pause',
     listenResume: 'Fortsetzen',
     listenStop: 'Stopp',
+    adLabel: 'Anzeige',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -369,6 +376,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: 'Pausa',
     listenResume: 'Riprendi',
     listenStop: 'Interrompi',
+    adLabel: 'Pubblicità',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -419,6 +427,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: '일시정지',
     listenResume: '계속 듣기',
     listenStop: '정지',
+    adLabel: '광고',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -469,6 +478,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: '一時停止',
     listenResume: '再開',
     listenStop: '停止',
+    adLabel: '広告',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -519,6 +529,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: '暫停',
     listenResume: '繼續',
     listenStop: '停止',
+    adLabel: '廣告',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -569,6 +580,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     listenPause: '暂停',
     listenResume: '继续',
     listenStop: '停止',
+    adLabel: '广告',
   },
 };
 

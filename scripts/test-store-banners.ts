@@ -1,0 +1,80 @@
+import assert from 'node:assert/strict';
+import { getArticleCopy } from '../src/components/review/articleCopy';
+import { getCouponBySlug } from '../src/lib/couponsData';
+import { LOCALE_KEYS } from '../src/lib/i18n/locales';
+import { STORE_BANNERS, getStoreBanners, isStoreBannerLive, placeStoreBanners, type StoreBanner } from '../src/lib/storeBanners';
+
+// O prazo de uma campanha com um "agora" fixo. As 23h do último dia em Brasília já são o dia seguinte em UTC:
+// o banner continua no ar.
+const window = { startsAt: '2026-11-01T00:00:00-03:00', endsAt: '2026-11-30T23:59:59-03:00' };
+assert.equal(isStoreBannerLive(window, new Date('2026-10-31T23:59:59-03:00')), false, 'antes do início');
+assert.equal(isStoreBannerLive(window, new Date('2026-11-01T00:00:00-03:00')), true, 'no início');
+assert.equal(isStoreBannerLive(window, new Date('2026-11-30T23:00:00-03:00')), true, 'às 23h do último dia');
+assert.equal(isStoreBannerLive(window, new Date('2026-12-01T00:00:00-03:00')), false, 'depois do fim');
+assert.equal(isStoreBannerLive({}, new Date('2030-01-01T00:00:00Z')), true, 'sem datas');
+
+// Uma campanha por lugar, só as da loja e só as no prazo.
+const sample = (id: string, affiliate: string, slot: StoreBanner['slot'], endsAt?: string): StoreBanner => ({
+  ...STORE_BANNERS[0],
+  id,
+  affiliate,
+  slot,
+  endsAt,
+});
+const now = new Date('2026-11-15T12:00:00-03:00');
+const sampleBanners = [
+  sample('a-top', 'a', 'top'),
+  sample('a-mid-vencida', 'a', 'mid', '2026-11-10T23:59:59-03:00'),
+  sample('b-mid', 'b', 'mid'),
+];
+assert.deepEqual(Object.keys(getStoreBanners('a', now, sampleBanners)), ['top'], 'campanha vencida ou de outra loja');
+assert.equal(getStoreBanners('b', now, sampleBanners).mid?.id, 'b-mid');
+assert.deepEqual(getStoreBanners('c', now, sampleBanners), {}, 'loja sem campanha');
+
+// O lugar 1 depois da 1ª seção; o 2 antes do FAQ ou, sem FAQ, antes da última, com uma seção inteira entre os dois.
+assert.deepEqual(placeStoreBanners([], -1), {});
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'faq'], 3), { top: 'a', mid: 'faq' });
+assert.deepEqual(placeStoreBanners(['a', 'b', 'c'], -1), { top: 'a', mid: 'c' });
+assert.deepEqual(placeStoreBanners(['a', 'faq', 'c'], 1), { top: 'a' }, 'FAQ logo depois da 1ª seção');
+assert.deepEqual(placeStoreBanners(['a', 'b'], -1), { top: 'a' }, 'artigo de duas seções');
+
+// Os dados: loja cadastrada, um banner por lugar de cada loja, link de afiliado que vale nos 10 idiomas, datas com
+// fuso e os textos dos 10 idiomas, sem o código da loja.
+const ids = new Set<string>();
+const places = new Set<string>();
+for (const banner of STORE_BANNERS) {
+  assert.ok(!ids.has(banner.id), `${banner.id}: id repetido`);
+  ids.add(banner.id);
+  const place = `${banner.affiliate}/${banner.slot}`;
+  assert.ok(!places.has(place), `${banner.id}: segunda campanha no lugar ${place}`);
+  places.add(place);
+
+  const store = getCouponBySlug(banner.affiliate);
+  assert.ok(store, `${banner.id}: loja ${banner.affiliate} fora de couponsData.ts`);
+  const url = new URL(banner.href);
+  assert.equal(url.protocol, 'https:', `${banner.id}: link sem https`);
+  assert.ok(!url.hostname.startsWith('br.') && !url.hostname.endsWith('.com.br'), `${banner.id}: link de um país só (${url.hostname})`);
+  for (const date of [banner.startsAt, banner.endsAt]) {
+    if (!date) continue;
+    assert.match(date, /T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2}$/, `${banner.id}: data sem hora e fuso (${date})`);
+    assert.ok(!Number.isNaN(Date.parse(date)), `${banner.id}: data inválida (${date})`);
+  }
+
+  const code = store.offerMode === 'discount-code' ? store.code : undefined;
+  for (const locale of LOCALE_KEYS) {
+    const copy = banner.copy[locale];
+    for (const [field, value] of Object.entries(copy)) {
+      assert.ok(value.trim(), `${banner.id} (${locale}): ${field} vazio`);
+      if (code) assert.ok(!value.includes(code), `${banner.id} (${locale}): ${field} cita o código ${code}`);
+      if (locale !== 'pt') assert.notEqual(value, banner.copy.pt[field as keyof typeof copy], `${banner.id} (${locale}): ${field} igual ao PT`);
+    }
+    assert.ok(getArticleCopy(locale).adLabel.trim(), `${locale}: selo do banner vazio`);
+  }
+}
+
+// Campanha vencida não para o build: ela some do HTML sozinha. O aviso é para tirá-la do arquivo.
+const expired = STORE_BANNERS.filter((banner) => banner.endsAt && Date.parse(banner.endsAt) < Date.now());
+if (expired.length) {
+  console.warn(`campanhas vencidas em src/lib/storeBanners.ts, para tirar do arquivo: ${expired.map(({ id }) => id).join(', ')}`);
+}
+console.log(`banners de campanha: ${STORE_BANNERS.length} campanhas conferidas, ${STORE_BANNERS.length - expired.length} no prazo`);
