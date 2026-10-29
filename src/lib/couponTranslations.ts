@@ -1348,6 +1348,59 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation
   },
 };
 
+// O que cada campo de uma loja de código faz fora do PT: 'pt' herda o cupom em PT, 'translate' vem da
+// tradução e fica de fora sem ela, 'drop' nunca sai do PT. Campo novo em CouponCodeOffer sem decisão aqui
+// quebra o typecheck, em vez de ir em português à página de outro idioma. offerUrl, referral e campaigns
+// herdam e depois recebem o link e os textos da tradução em localizeCoupon.
+export const CODE_FIELD_POLICY = {
+  offerMode: 'pt',
+  slug: 'pt',
+  brand: 'pt',
+  officialUrl: 'pt',
+  offerUrl: 'pt',
+  brandIcon: 'pt',
+  brandLogo: 'pt',
+  brandLogoAlt: 'translate',
+  brandWatermark: 'pt',
+  socialImage: 'pt',
+  socialImageAlt: 'drop',
+  brandColor: 'pt',
+  discount: 'translate',
+  offerTypeLabel: 'translate',
+  offerTypeLabelPlural: 'translate',
+  offerActionLabel: 'drop',
+  category: 'translate',
+  hubCategory: 'pt',
+  shortDescription: 'translate',
+  longDescription: 'translate',
+  metaTitle: 'translate',
+  metaDescription: 'translate',
+  eligibleCategories: 'translate',
+  validity: 'translate',
+  reusable: 'translate',
+  shipping: 'translate',
+  combinable: 'translate',
+  lastVerified: 'pt',
+  aboutBrand: 'translate',
+  faqs: 'translate',
+  status: 'pt',
+  featured: 'pt',
+  featuredPitch: 'drop',
+  relatedContent: 'drop',
+  monthlyHighlight: 'translate',
+  affiliateAccountId: 'pt',
+  referral: 'pt',
+  campaigns: 'pt',
+  code: 'pt',
+  discountNumber: 'pt',
+  testNote: 'translate',
+  codeKind: 'pt',
+  codeFieldLabel: 'translate',
+  codeInstructions: 'translate',
+  history: 'drop',
+  tiers: 'drop',
+} as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
+
 // offerMode tem de ser o do cupom em PT. offerUrl é o link principal das páginas em outros idiomas;
 // sem ele, vale o do cupom em PT.
 export type CouponTranslation =
@@ -1419,20 +1472,12 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
   if (coupon.offerMode === 'discount-code' && translation.offerMode === 'discount-code') {
     // As faixas trazem valores em R$ e o aviso do Magazine Você, que só existem em PT.
     if (coupon.tiers?.length) throw new Error(`${where}: loja com faixas de desconto não tem tradução.`);
-    const codeText = translation.locales[locale];
-    return {
-      ...coupon,
-      ...codeText,
-      ...shared,
-      offerTypeLabel: codeText.offerTypeLabel,
-      offerTypeLabelPlural: codeText.offerTypeLabelPlural,
-      offerActionLabel: undefined,
-      testNote: codeText.testNote,
-      codeFieldLabel: codeText.codeFieldLabel,
-      codeInstructions: codeText.codeInstructions,
-      monthlyHighlight: codeText.monthlyHighlight,
-      history: undefined,
-    };
+    const codeText: Partial<Record<keyof CouponCodeOffer, unknown>> = translation.locales[locale];
+    const fields = Object.entries(CODE_FIELD_POLICY).map(([key, policy]) => {
+      const field = key as keyof CouponCodeOffer;
+      return [field, policy === 'pt' ? coupon[field] : policy === 'translate' ? codeText[field] : undefined];
+    });
+    return { ...(Object.fromEntries(fields) as CouponCodeOffer), ...shared };
   }
   throw new Error(`${where}: a tradução é de ${translation.offerMode}, e o cupom em PT, de ${coupon.offerMode}.`);
 }

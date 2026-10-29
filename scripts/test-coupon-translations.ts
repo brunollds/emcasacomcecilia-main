@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, type CouponCodeOffer } from '../src/lib/couponsData';
 import {
+  CODE_FIELD_POLICY,
   TRANSLATED_LOCALES,
   getCouponLanguageLinks,
   getLocalizedCoupon,
@@ -191,25 +192,15 @@ const codeStoreProse = new Set(leaves(codeStore).map(([, text]) => text).filter(
 for (const locale of TRANSLATED_LOCALES) {
   const localized = localizeCoupon(codeStore, codeTranslation(), locale);
   assert.ok(localized.offerMode === 'discount-code', `loja fictícia/${locale}: deixou de ser loja de código`);
-  for (const key of ['code', 'discountNumber', 'lastVerified', 'codeKind', 'slug', 'brand', 'status'] as const) {
-    assert.equal(localized[key], codeStore[key], `loja fictícia/${locale}: ${key} diferente do PT`);
+  // Cada campo segue a tabela: herda do PT, vem da tradução (e fica de fora sem ela) ou nunca sai do PT.
+  const text: Partial<Record<keyof CouponCodeOffer, unknown>> = codeText(locale);
+  for (const [key, policy] of Object.entries(CODE_FIELD_POLICY)) {
+    const field = key as keyof CouponCodeOffer;
+    if (field === 'offerUrl') continue;
+    const expected = policy === 'pt' ? codeStore[field] : policy === 'translate' ? text[field] : undefined;
+    assert.deepEqual(localized[field], expected, `loja fictícia/${locale}: ${field} fora da regra '${policy}'`);
   }
   assert.equal(localized.offerUrl, 'https://example.com/?ref=GLOBAL20', `loja fictícia/${locale}: sem o link do idioma`);
-  for (const key of [
-    'offerTypeLabel',
-    'offerTypeLabelPlural',
-    'offerActionLabel',
-    'testNote',
-    'codeFieldLabel',
-    'codeInstructions',
-    'monthlyHighlight',
-    'history',
-    'featuredPitch',
-    'socialImageAlt',
-    'relatedContent',
-  ] as const) {
-    assert.equal(localized[key], undefined, `loja fictícia/${locale}: ${key} sem tradução não pode ir em português`);
-  }
   for (const [path, text] of leaves(localized)) {
     assert.ok(!codeStoreProse.has(text), `loja fictícia/${locale}: texto em PT sobrou em ${path}`);
   }
