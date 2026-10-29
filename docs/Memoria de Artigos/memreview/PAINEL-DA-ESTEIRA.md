@@ -8,6 +8,12 @@
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[yesstyle-trustpilot-nota-reclamacoes]]: YesStyle na Trustpilot: nota 4,4 com 104 mil avaliações, reclamações e respostas (10 idiomas, família yesstyle-reputation); no mesmo PR, o Brasil sem entrega em 2 artigos PT
 - [ ] [[shein-reclame-aqui-nota-reputacao]]: SHEIN: Reclame Aqui no PT e Trustpilot nos outros 9 (3,8 com 353 mil avaliações, perfil único), família shein-reputation (10 idiomas)
+- [ ] [[bronzeado-instantaneo-skelt-ou-autobronzeador]]: Bronzeado instantâneo Skelt: qual usar para hoje à noite e o que muda do autobronzeador (PT)
+- [ ] [[removedor-autobronzeador-skelt-como-tirar]]: Como tirar o autobronzeador Skelt: removedor (R$ 69,90) e luva (R$ 34,90) (PT); no mesmo PR, o preço do removedor no guia de autobronzeador
+- [ ] [[iluminador-corporal-skelt-como-usar]]: Iluminador corporal Skelt: como usar e quando compensa ao lado do bronzeado instantâneo (PT)
+- [ ] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos
+- [ ] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT)
+- [ ] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT)
 - [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
 
 ---
